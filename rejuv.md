@@ -1687,7 +1687,8 @@ Now we can start looking for cells.
 
 ZCell 001: East Gearen City
 
-![ZCell 001](/bigjra.github.io/assets/media/rejuv/image1.png)
+<img src="/assets/media/rejuv/image1.png"
+style="width:6.6875in;height:5.01042in" />
 
 ZCell 002: Oceana Pier
 
