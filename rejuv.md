@@ -22548,167 +22548,104 @@ crests.
 
 -   Fearow: Grants innate Sniper ability, always crits when opponent has
     \<50% health.
-
 -   Hypno: Multiplies raw Special Attack by 1.5, multiplies Accuracy by
     1.5.
-
 -   Meganium: Multiplies damage taken by self and double battle allies
     by 0.8, recovers 1/16 of own and ally’s HP each turn.
-
 -   Typhlosion: Physical attacks use the Special Attack stat, contact
     moves now hit twice: the second with power multiplier 0.2.
-
 -   Feraligatr: First attack out is given +2 priority. Multiplies damage
     of its biting moves (Bite, Crunch, Ice Fang) by 1.2 after first
     attack.
-
 -   Noctowl: Grants STAB on Psychic moves, gains resistances to Fighting
     and Psychic.
-
 -   Ledian: Its punching moves (Comet Punch, Drain Punch, Dynamic Punch,
     Focus Punch, Ice Punch, Mach Punch, Power-Up Punch, Thunder Punch)
     now are used four times. Bonus effects only can happen on the first
     two.
-
 -   Ariados: Multiplies raw Speed by 1.5, always hits target critically
     if they are slowed or poisoned.
-
 -   Magcargo: Swaps Speed with Defense, adds 10 to Special Attack.
-
 -   Stantler: Multiplies raw Attack by 1.5, multiplies Accuracy by 1.5.
-
 -   Delcatty: Multiplies every raw stat by 1 + 0.1 x number of allies.
-
 -   Swalot: Gains stockpile after each attack. Belch is usable
     regardless of held item and is followed by Spit Up.
-
 -   Zangoose: Poisons user, grants innate Poison Heal.
-
 -   Seviper: Multiplies raw Speed by 1.5, multiplies damage by 1 + 0.5 x
     opponent’s health as a percentage.
-
 -   Whiscash: Nullifies Grass moves, raises attack when hit by one.
-
 -   Claydol: Special attacks use the Defense stat. Beam moves (Signal
     Beam, Charge Beam, Solar Beam, Ice Beam, Hyper Beam, Psybeam) have
     damage multiplied by 1.5, Hyper Beam and Solar Beam are now one turn
     moves.
-
 -   Castform: Immediately uses first weather move in moveslot upon being
     sent out.
-
     -   If Rain: Base Stats = 100/70/80/70/80/70, Ability = Rain Dance.
-
     -   If Sun: Base Stats = 70/70/70/90/70/100, Ability = Solar Power.
-
     -   If Hail: Base Stats = 70/70/70/100/70/90, Ability = Slush Rush.
-
 -   Relicanth: Multiplies raw Attack by 1.2, multiplies Special Defense
     by 1.3.
-
 -   Torterra: Swaps weaknesses and resistances (Now weak to Rock,
     Ground. Now resistant to Fire, Flying, Ice (4x), Bug).
-
 -   Infernape: Swaps Attack with Defense, swaps Special Attack with
     Special Defense.
-
 -   Empoleon: Grants STAB on Ice moves, doubles speed in Hail, Icy
     Field, Snowy Mountain, and Frozen Dimensional Field.
-
 -   Luxray: Grants STAB on Dark moves, gains resistances to Ghost and
     Dark.
-
 -   Rampardos: Always lives with 1HP once during each battle.
-
 -   Bastiodon: For each attack it takes, heals 50% of the damage taken
     and deals this amount to opponent.
-
 -   Vespiquen: Attack Order gives 1.5 multiplier to offenses, Defense
     Order gives 1.5 multiplier to defenses. Only the most recently used
     stays in effect.
-
 -   Cherrim: Flower Gift is always activated.
-
 -   Skuntank: Nullifies Ground moves, raises attack when hit by one.
-
 -   Spiritomb: Multiplies damage by 1 + 0.2 x number of fainted allies,
     recovers number of fainted enemies/16 HP each turn.
-
 -   Leafeon: Resists Fire and Flying moves instead of being weak to
     them.
-
 -   Glaceon: Resists Rock and Fighting moves instead of being weak to
     them.
-
 -   Probopass: Grants innate Levitate. Attacks now hit twice: the second
     with power multiplied by 0.2.
-
 -   Dusknoir: Multiplies raw Attack by 1.2, grants innate Technician.
-
 -   Phione: Multiplies raw Defense and raw Special Defense by 1.5.
     Grants Aqua Ring when switched in.
-
 -   Darmanitan: If ability is Zen Mode, stays in Zen Mode always.
-
 -   Cofagrigus: Multiplies raw Special Defense by 1.25, multiplies raw
     Special Attack by 1.25.
-
 -   Cinccino: All attacking moves now hit 2-5 times at 0.35 times power
     each. Bonus effects only can happen on the first two.
-
 -   Beheeyem: When it moves second, multiplies damage taken by 0.67 and
     disables enemy’s first move used.
-
 -   Druddigon: In sun, recovers 1/16 HP each turn. Heals HP when hit by
     Fire moves and nullifies them. Fire and Dragon moves have damage
     multiplied by 1.3.
-
 -   Dedenne: Physical attacks use the Speed stat.
-
 -   Oricorio: Multiplies raw Special Attack by 1.25, multiplies raw
     Speed by 1.25.
-
 -   Thievul: Adds half of opponents raw Attack to Thievul’s raw Attack.
-
 -   Boltund: Multiplies damage of biting moves (Bite, Crunch, Fire Fang,
     Psychic Fangs, Thunder Fang) by 1.5 if it moves before opponent.
-
 -   Silvally (Not available to player yet): Does not need to be held.
     Multiplies attacks of the held memory type by 1.5 (on top of STAB).
     Grants ability based on type of memory:
-
     -   Normal Scrappy
-
     -   Grass Flower Veil
-
     -   Fire Moxie
-
     -   Water Marvel Scale
-
     -   Fighting Defiant
-
     -   Flying Gale Wings
-
     -   Poison Regenerator
-
     -   Electric Motor Drive
-
     -   Bug Tinted Lens
-
     -   Ground Sheer Force
-
     -   Rock Solid Rock
-
     -   Steel Heatproof
-
     -   Ice Thick Fat
-
     -   Psychic Magic Bounce
-
     -   Dark Strong Jaws
-
     -   Ghost Mummy
-
     -   Fairy Unaware
-
     -   Dragon Multiscale
