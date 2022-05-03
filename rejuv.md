@@ -19,7 +19,6 @@ contribute pull requests to the site yourself: message me on Discord.
 Use CTRL + F to find a specific section. I also oriented this guide as
 such that CTRL + F will work for T.M. Names, certain items, Zygarde
 cells, tutors, Pokémon Locations, and more!
-<!---
 
 # Table of Contents
 
@@ -21874,8 +21873,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Moltres**
 
 ## Pickup Table - PickUp1
--->
-<!--
+
 <table>  style="width:100%; "
 <colgroup>
 <col style="width: 20%" />
