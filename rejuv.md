@@ -21821,7 +21821,6 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Slowking**
 - **Galarian Darumaka**
 - **Galarian Darmanitan**
-
 - **Articuno**
 - **Zapdos**
 - **Moltres**
