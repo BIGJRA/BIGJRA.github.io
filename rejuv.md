@@ -995,13 +995,13 @@ There are Pokémon to encounter here.
 
 Chrisola Rooftop
 
-| Grass: Morning/Day        | %        | Grass: Night        | %        |
-|---------------------------|----------|---------------------|----------|
-| **Skitty**                | 44       | **Purrloin**        | 44       |
-| **Glameow**               | 24       | **Meowth**          | 24       |
-| **Caterpie**              | 20       | **Weedle**          | 20       |
-| **Meowth**                | 10       | **Glameow**         | 10       |
-| Bellsprout                | 2        | Oddish              | 2        |
+| Grass: Morning/Day| %    | Grass: Night    | %        |
+|-------------------|------|-----------------|----------|
+| **Skitty**        | 44   | **Purrloin**    | 44       |
+| **Glameow**       | 24   | **Meowth**      | 24       |
+| **Caterpie**      | 20   | **Weedle**      | 20       |
+| **Meowth**        | 10   | **Glameow**     | 10       |
+| Bellsprout        | 2    | Oddish          | 2        |
 
 Once you’re done, head back outside. Enter the Aqua Building to the
 southwest. On the first floor, pick up the *Old Rod*, as well as another
@@ -1019,16 +1019,15 @@ Enter Gearen Park below.
 
 Gearen Park (Grassy Terrain)
 
-|                       |          |                   |          |                     |          |
-|-----------------------|----------|-------------------|----------|---------------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
-| **Pansage**           | 30       | **Pansear**       | 30       | **Panpour**         | 30       |
-| **Spearow**           | 30       | **Spearow**       | 30       | **Spearow**         | 30       |
-| **Skwovet**           | 15       | **Skwovet**       | 15       | **Stunky**          | 15       |
-| **Psyduck**           | 14       | **Psyduck**       | 14       | **Psyduck**         | 14       |
-| **Fomantis**          | 9        | **Fomantis**      | 9        | **Kricketot**       | 9        |
-| **Seedot**            | 1        | **Seedot**        | 1        | **Seedot**          | 1        |
-| **Mankey**            | 1        | **Mankey**        | 1        | **Mankey**          | 1        |
+| Grass: Morning| %    | Grass: Day    | %    | Grass: Night    | %    |
+|---------------|------|---------------|------|-----------------|------|
+| **Pansage**   | 30   | **Pansear**   | 30   | **Panpour**     | 30   |
+| **Spearow**   | 30   | **Spearow**   | 30   | **Spearow**     | 30   |
+| **Skwovet**   | 15   | **Skwovet**   | 15   | **Stunky**      | 15   |
+| **Psyduck**   | 14   | **Psyduck**   | 14   | **Psyduck**     | 14   |
+| **Fomantis**  | 9    | **Fomantis**  | 9    | **Kricketot**   | 9    |
+| **Seedot**    | 1    | **Seedot**    | 1    | **Seedot**      | 1    |
+| **Mankey**    | 1    | **Mankey**    | 1    | **Mankey**      | 1    |
 
 The first tile below the really tall grass in the second column on the
 left of really tall grass has a hidden *Honey.* Straight down, another
@@ -1047,12 +1046,10 @@ To progress the story, head east into Venam’s front yard, down from here
 a bit, and see a cutscene. Head to the Emporium to get a *Pecha Berry?*
 from the attendant. Give it to Venam.
 
-Choices:
+Relationship Point Choices:
 
 - All me. (Venam +2)
-
 - Maybe… (Venam +1)
-
 - No, actually. (Neutral)
 
 Head to the southeast of town and a cutscene will play. Afterwards
@@ -1065,17 +1062,16 @@ Anyways, there are lots of new Pokémon here:
 
 Abandoned Sewers
 
-|                  |          |                |          |
-|------------------|----------|----------------|----------|
-| Cave:     | % | Old Rod | % |
-| Rattata (Alolan) | 30       | **Grimer**     | 100      |
-| **Trubbish**     | 20       |                |          |
-| Poochyena        | 15       |                |          |
-| **Gulpin**       | 10       |                |          |
-| **Ekans**        | 10       |                |          |
-| **Koffing**      | 9        |                |          |
-| **Noibat**       | 5        |                |          |
-| **Geodude**      | 1        |                |          |
+| Cave:            | %    | Old Rod    | %    |
+|------------------|------|------------|------|
+| Rattata (Alolan) | 30   | **Grimer** | 100  |
+| **Trubbish**     | 20   |            |      |
+| Poochyena        | 15   |            |      |
+| **Gulpin**       | 10   |            |      |
+| **Ekans**        | 10   |            |      |
+| **Koffing**      | 9    |            |      |
+| **Noibat**       | 5    |            |      |
+| **Geodude**      | 1    |            |      |
 
 Head left, and on the second tile from left at the bottom is a hidden
 *Poison Gem.* Head across the bridge and right to get a *Great Ball.* Go
@@ -1098,31 +1094,18 @@ went into for a long cutscene and a battle.
 Garbodor Garbage Crew (No field)
 
 -   Trubbish, Level 11.
-
     -   Pound
-
     -   Poison Gas
-
     -   Recycle
-
     -   Tackle
-
 -   Trubbish, Level 12.
-
     -   Pound
-
     -   Poison Gas
-
     -   Recycle
-
     -   Tackle
-
 -   Garbodor, Level 13.
-
     -   Pound
-
     -   Poison Gas
-
     -   Toxic Spikes
 
 Knocking out the Trubbish makes this a two-on-one. Any of your new
