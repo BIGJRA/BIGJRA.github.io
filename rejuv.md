@@ -21652,12 +21652,12 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Cursola**|38|
 |**Mr.Rime**|42|
 |**Alcremie**|42|
-|**AlolanDugtrio**|26|
-|**GalarianRapidash**|40|
-|**AevianFlaaffy**|15|
-|**AevianAmpharos**|30|
-|**AevianLampent**|34\*|
-|**AevianPalossand**|42|
+|**Alolan Dugtrio**|26|
+|**Galarian Rapidash**|40|
+|**Aevian Flaaffy**|15|
+|**Aevian Ampharos**|30|
+|**Aevian Lampent**|34\*|
+|**Aevian Palossand**|42|
 
 ### Must Evolve by Items
 
@@ -21917,7 +21917,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 ## Pickup Table – PickUp1
 
 <table style="width:100%;">
-<colgroup>
+<!-- <colgroup>
 <col style="width: 20%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
@@ -21930,7 +21930,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 <col style="width: 8%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
-</colgroup>
+</colgroup> -->
 <thead>
 <tr class="header">
 <th>Lv.</th>
