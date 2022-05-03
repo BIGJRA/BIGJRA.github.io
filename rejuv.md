@@ -50,6 +50,20 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-poisonheart-badge---badge01">PoisonHeart Badge - Badge01 </a>
     -   <a href="#post-gym-quests---egear3"
         id="toc-post-gym-quests---egear3">Post-Gym Quests - EGear3</a>
+        -   <a href="#hquest-1:-help-starly"
+            id="toc-hquest-1:-help-starly">HQuest 1: Help Starly</a>
+        -   <a href="#hquest-2:-missing-mother"
+            id="toc-hquest-2:-missing-mother">HQuest 2: Missing Mother</a>
+        -   <a href="#hquest-3:-hidden-library"
+            id="toc-hquest-3:-hidden-library">HQuest 3: Hidden Library</a>
+        -   <a href="#hquest-4:-love-letter"
+            id="toc-hquest-4:-love-letter">HQuest 4: Love Letter</a>
+        -   <a href="#hquest-5:-dangerous-pokemon"
+            id="toc-hquest-5:-dangerous-pokemon">HQuest 5: Dangerous Pokemon</a>
+        -   <a href="#hquest-6:-battle-me"
+            id="toc-hquest-6:-battle-me">HQuest 6: Battle Me!</a>
+        -   <a href="#hquest-7:-wretched-music"
+            id="toc-hquest-7:-wretched-music">HQuest 7: Wretched Music!</a>
     -   <a href="#route-1-and-goldenwood-forest---rt1gf1"
         id="toc-route-1-and-goldenwood-forest---rt1gf1">Route 1 and Goldenwood
         Forest - Rt1GF1</a>
@@ -1465,7 +1479,7 @@ worry, you can come back later to finish this one.
 Anyways, all that’s left is to claim your reward at the help center --
 $350 and **Pichu!** (+1 Karma)
 
-### HQuest 7: Wretched Music!
+### HQuest 7: Wretched Music
 
 Talk to the receptionist at the Chrisola Hotel and agree to go to
 the basement.
