@@ -21516,442 +21516,243 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 
 <u>Must Breed:</u>
 
-**Azurill** Sea Incense
-
-**Munchlax** Full Incense
-
-**Roggenrola**
-
-**Cottonee**
-
-**Pikipek**
-
-**Alolan Geodude**
+| Pokemon | Incense (if any) |
+| --- | --- |
+| **Azurill** | Sea Incense |
+| **Munchlax** | Full Incense |
+| **Roggenrola** ||
+|**Cottonee**||
+|**Pikipek**||
+|**Alolan Geodude**||
 
 <u>Must Evolve by Level (incl. move learning levels\*):</u>
 
-**Ivysaur** 16
-
-**Venusaur** 32
-
-**Charmeleon** 16
-
-**Charizard** 36
-
-**Wartortle** 16
-
-**Blastoise** 36
-
-**Fearow** 20
-
-**Haunter** 25
-
-**Seadra** 32
-
-**Electabuzz** 30
-
-**Magmar** 30
-
-**Omastar** 40
-
-**Kabutops** 40
-
-**Bayleef** 16
-
-**Meganium** 32
-
-**Quilava** 14
-
-**Typhlosion** 36
-
-**Croconaw** 18
-
-**Feraligatr** 30
-
-**Azumarill** 18
-
-**Granbull** 23
-
-**Grovyle** 16
-
-**Sceptile** 36
-
-**Marshtomp** 16
-
-**Swampert** 36
-
-**Kirlia** 20
-
-**Gardevoir** 30
-
-**Breloom** 23
-
-**Vigoroth** 18
-
-**Slaking** 36
-
-**Exploud** 40
-
-**Lairon** 32
-
-**Aggron** 42
-
-**Medicham** 38
-
-**Grumpig** 32
-
-**Flygon** 45
-
-**Armaldo** 40
-
-**Metang** 20
-
-**Metagross** 45
-
-**Grotle** 18
-
-**Torterra** 32
-
-**Staravia** 14
-
-**Staraptor** 34
-
-**Luxray** 30
-
-**Rampardos** 30
-
-**Bastiodon** 30
-
-**Wormadam** 20F
-
-**Drifblim** 28
-
-**Gabite** 24
-
-**Garchomp** 48
-
-**Toxicroak** 37
-
-**Lickilicky** 33\*
-
-**Tangrowth** 38\*
-
-**Yanmega** 33\*
-
-**Pignite** 17
-
-**Emboar** 36
-
-**Dewott** 17
-
-**Samurott** 36
-
-**Gurdurr** 25
-
-**Scolipede** 30
-
-**Krookodile** 40
-
-**Darmanitan** 35
-
-**Crustle** 34
-
-**Scrafty** 39
-
-**Carracosta** 37
-
-**Archeops** 37
-
-**Zoroark** 30
-
-**Gothorita** 32
-
-**Gothitelle** 41
-
-**Galvantula** 36
-
-**Klinklang** 49
-
-**Eelektrik** 39
-
-**Beheeyem** 42
-
-**Lampent** 41
-
-**Fraxure** 38
-
-**Haxorus** 48
-
-**Mienshao** 50
-
-**Braviary** 54
-
-**Zweilous** 50
-
-**Hydreigon** 64
-
-**Volcarona** 59
-
-**Quilladin** 16
-
-**Chesnaught** 36
-
-**Braixen** 16
-
-**Delphox** 36
-
-**Frogadier** 16
-
-**Greninja** 36
-
-**Pyroar** 35
-
-**Floette** 19
-
-**Meowstic** 25
-
-**Sliggoo** 40
-
-**Noivern** 48
-
-**Dartrix** 17
-
-**Decidueye** 34
-
-**Torracat** 17
-
-**Incineroar** 34
-
-**Brionne** 17
-
-**Primarina** 34
-
-**Araquanid** 24
-
-**Bewear** 27
-
-**Golisopod** 30
-
-**Palossand** 42
-
-**Drizzile** 16
-
-**Inteleon** 35
-
-**Dottler** 10
-
-**Orbeetle** 30
-
-**Carkol** 18
-
-**Coalossal** 34
-
-**Barraskewda** 26
-
-**Centiskorch** 28
-
-**Toxtricity** 30
-
-**Hattrem** 32
-
-**Hatterene** 42
-
-**Morgrem** 32
-
-**Grimmsnarl** 42
-
-**Cursola** 38
-
-**Mr. Rime** 42
-
-**Alcremie** 42
-
-**Alolan Dugtrio** 26
-
-**Galarian Rapidash** 40
-
-**Aevian Flaaffy** 15
-
-**Aevian Ampharos** 30
-
-**Aevian Lampent** 34\*
-
-**Aevian Palossand** 42
+|Pokemon|Level|
+|---|---|
+|**Ivysaur**|16|
+|**Venusaur**|32|
+|**Charmeleon**|16|
+|**Charizard**|36|
+|**Wartortle**|16|
+|**Blastoise**|36|
+|**Fearow**|20|
+|**Haunter**|25|
+|**Seadra**|32|
+|**Electabuzz**|30|
+|**Magmar**|30|
+|**Omastar**|40|
+|**Kabutops**|40|
+|**Bayleef**|16|
+|**Meganium**|32|
+|**Quilava**|14|
+|**Typhlosion**|36|
+|**Croconaw**|18|
+|**Feraligatr**|30|
+|**Azumarill**|18|
+|**Granbull**|23|
+|**Grovyle**|16|
+|**Sceptile**|36|
+|**Marshtomp**|16|
+|**Swampert**|36|
+|**Kirlia**|20|
+|**Gardevoir**|30|
+|**Breloom**|23|
+|**Vigoroth**|18|
+|**Slaking**|36|
+|**Exploud**|40|
+|**Lairon**|32|
+|**Aggron**|42|
+|**Medicham**|38|
+|**Grumpig**|32|
+|**Flygon**|45|
+|**Armaldo**|40|
+|**Metang**|20|
+|**Metagross**|45|
+|**Grotle**|18|
+|**Torterra**|32|
+|**Staravia**|14|
+|**Staraptor**|34|
+|**Luxray**|30|
+|**Rampardos**|30|
+|**Bastiodon**|30|
+|**Wormadam**|20F|
+|**Drifblim**|28|
+|**Gabite**|24|
+|**Garchomp**|48|
+|**Toxicroak**|37|
+|**Lickilicky**|33\*|
+|**Tangrowth**|38\*|
+|**Yanmega**|33\*|
+|**Pignite**|17|
+|**Emboar**|36|
+|**Dewott**|17|
+|**Samurott**|36|
+|**Gurdurr**|25|
+|**Scolipede**|30|
+|**Krookodile**|40|
+|**Darmanitan**|35|
+|**Crustle**|34|
+|**Scrafty**|39|
+|**Carracosta**|37|
+|**Archeops**|37|
+|**Zoroark**|30|
+|**Gothorita**|32|
+|**Gothitelle**|41|
+|**Galvantula**|36|
+|**Klinklang**|49|
+|**Eelektrik**|39|
+|**Beheeyem**|42|
+|**Lampent**|41|
+|**Fraxure**|38|
+|**Haxorus**|48|
+|**Mienshao**|50|
+|**Braviary**|54|
+|**Zweilous**|50|
+|**Hydreigon**|64|
+|**Volcarona**|59|
+|**Quilladin**|16|
+|**Chesnaught**|36|
+|**Braixen**|16|
+|**Delphox**|36|
+|**Frogadier**|16|
+|**Greninja**|36|
+|**Pyroar**|35|
+|**Floette**|19|
+|**Meowstic**|25|
+|**Sliggoo**|40|
+|**Noivern**|48|
+|**Dartrix**|17|
+|**Decidueye**|34|
+|**Torracat**|17|
+|**Incineroar**|34|
+|**Brionne**|17|
+|**Primarina**|34|
+|**Araquanid**|24|
+|**Bewear**|27|
+|**Golisopod**|30|
+|**Palossand**|42|
+|**Drizzile**|16|
+|**Inteleon**|35|
+|**Dottler**|10|
+|**Orbeetle**|30|
+|**Carkol**|18|
+|**Coalossal**|34|
+|**Barraskewda**|26|
+|**Centiskorch**|28|
+|**Toxtricity**|30|
+|**Hattrem**|32|
+|**Hatterene**|42|
+|**Morgrem**|32|
+|**Grimmsnarl**|42|
+|**Cursola**|38|
+|**Mr.Rime**|42|
+|**Alcremie**|42|
+|**AlolanDugtrio**|26|
+|**GalarianRapidash**|40|
+|**AevianFlaaffy**|15|
+|**AevianAmpharos**|30|
+|**AevianLampent**|34\*|
+|**AevianPalossand**|42|
 
 <u>Must Evolve by Items:</u>
 
-**Raichu** Thunderstone
-
-**Clefable** Moon Stone
-
-**Ninetales** Fire Stone
-
-**Wigglytuff** Moon Stone
-
-**Arcanine** Fire Stone
-
-**Alakazam** Link Heart
-
-**Machamp** Link Heart
-
-**Victreebel** Leaf Stone
-
-**Golem** Link Heart
-
-**Gengar** Link Heart
-
-**Exeggutor** Leaf Stone
-
-**Vaporeon** Water Stone
-
-**Jolteon** Thunderstone
-
-**Flareon** Fire Stone
-
-**Bellossom** Sun Stone
-
-**Slowking** King’s Rock + Link Heart
-
-**Scizor** Metal Coat + Link Heart
-
-**Kingdra** Dragon Scale + Link Heart
-
-**Porygon2** Up-Grade + Link Heart
-
-**Milotic** Prism Scale + Link Heart
-
-**Honchkrow** Dusk Stone
-
-**Rhyperior** Protector + Link Heart
-
-**Electivire** Electrizer + Link Heart
-
-**Magmortar** Magmarizer + Link Heart
-
-**Porygon-Z** Dubious Disc + Link Heart
-
-**Gallade** Male + Dawn Stone.
-
-**Dusknoir** Reaper Cloth + Link Heart
-
-**Froslass** Female + Dawn Stone
-
-**Simisage** Leaf Stone
-
-**Simisear** Fire Stone
-
-**Simipour** Water Stone
-
-**Gigalith** Link Heart
-
-**Conkeldurr** Link Heart
-
-**Lilligant** Sun Stone
-
-**Cinccino** Shiny Stone
-
-**Escavalier** Link Heart
-
-**Eelektross** Thunderstone
-
-**Chandelure** Dusk Stone
-
-**Accelgor** Link Heart
-
-**Florges** Shiny Stone
-
-**Aromatisse** Whipped Dream + Link Heart
-
-**Gourgeist** Link Heart
-
-**Flapple** Tart Apple
-
-**Appletun** Sweet Apple
-
-**Polteageist** Chipped Pot
-
-**Alolan Raichu** Apophyll Pancakes
-
-**Alolan Ninetales** Ice Stone
-
-**Alolan Golem** Link Heart
-
-**Aevian Parasect** Xen Waste
-
-**Aevian Roserade** Sun Stone
-
-**Aevian Milotic** Prism Scale + Link Heart
-
-**Aevian Mismagius** Leaf Stone
-
-**Aevian Musharna** Nightmare Fuel
-
-**Aevian Chandelure** Thunderstone
-
-**Aevian Toxtricity** Fire Stone
+|Pokemon|Items|
+|---|---|
+|**Raichu**|Thunderstone|
+|**Clefable**|Moon Stone|
+|**Ninetales**|Fire Stone|
+|**Wigglytuff**|Moon Stone|
+|**Arcanine**|Fire Stone|
+|**Alakazam**|Link Heart|
+|**Machamp**|Link Heart|
+|**Victreebel**|Leaf Stone|
+|**Golem**|Link Heart|
+|**Gengar**|Link Heart|
+|**Exeggutor**|Leaf Stone|
+|**Vaporeon**|Water Stone|
+|**Jolteon**|Thunderstone|
+|**Flareon**|Fire Stone|
+|**Bellossom**|Sun Stone|
+|**Slowking**|King’s Rock + Link Heart|
+|**Scizor**|Metal Coat + Link Heart|
+|**Kingdra**|Dragon Scale + Link Heart|
+|**Porygon2**|Up-Grade + Link Heart|
+|**Milotic**|Prism Scale + Link Heart|
+|**Honchkrow**|Dusk Stone|
+|**Rhyperior**|Protector + Link Heart|
+|**Electivire**|Electrizer + Link Heart|
+|**Magmortar**|Magmarizer + Link Heart|
+|**Porygon-Z**|Dubious Disc + Link Heart|
+|**Gallade**|Male + Dawn Stone.|
+|**Dusknoir**|Reaper Cloth + Link Heart|
+|**Froslass**|Female + Dawn Stone|
+|**Simisage**|Leaf Stone|
+|**Simisear**|Fire Stone|
+|**Simipour**|Water Stone|
+|**Gigalith**|Link Heart|
+|**Conkeldurr**|Link Heart|
+|**Lilligant**|Sun Stone|
+|**Cinccino**|Shiny Stone|
+|**Escavalier**|Link Heart|
+|**Eelektross**|Thunderstone|
+|**Chandelure**|Dusk Stone|
+|**Accelgor**|Link Heart|
+|**Florges**|Shiny Stone|
+|**Aromatisse**|Whipped Dream + Link Heart|
+|**Gourgeist**|Link Heart|
+|**Flapple**|Tart Apple|
+|**Appletun**|Sweet Apple|
+|**Polteageist**|Chipped Pot|
+|**Alolan Raichu**|Apophyll Pancakes|
+|**Alolan Ninetales**|Ice Stone|
+|**Alolan Golem**|Link Heart|
+|**Aevian Parasect**|Xen Waste|
+|**Aevian Roserade**|Sun Stone|
+|**Aevian Milotic**|Prism Scale + Link Heart|
+|**Aevian Mismagius**|Leaf Stone|
+|**Aevian Musharna**|Nightmare Fuel|
+|**Aevian Chandelure**|Thunderstone|
+|**Aevian Toxtricity**|Fire Stone|
 
 <u>Must Evolve by Friendship:</u>
 
-**Crobat**
-
-**Espeon** Day
-
-**Umbreon** Night
-
-**Blissey**
-
-**Lucario** Day
-
-**Frosmoth** Night
-
-**Alolan Persian**
-
-**Aevian Roselia** Day
+|Pokemon|Time (if any)|
+|---|---|
+|**Crobat**||	
+|**Espeon**|Day|
+|**Umbreon**|Night|
+|**Blissey**||
+|**Lucario**|Day|
+|**Frosmoth**|Night|
+|**Alolan Persian**||
+|**Aevian Roselia**|Day|
 
 <u>Must Evolve by Other Means:</u>
 
-**Hitmonchan** 20, Atk\<Def
-
-**Hitmonlee** 20, Atk\>Def
-
-**Hitmontop** 20, Atk=Def
-
-**Weavile** Razor Claw + Level @ Night
-
-**Gliscor** Razor Fang + Level @ Night
-
-**Magnezone** Level in: Generator Room
-
-**Probopass** Level in: Generator Room
-
-**Leafeon** Level in: Terajuma Jungle: Moss Rock
-
-**Glaceon** Level in: Evergreen Cave: Icy Rock
-
-**Mamoswine** Relearn Ancient Power + Level
-
-**Tyrantrum** 39, Daytime
-
-**Aurorus** 39, Nighttime
-
-**Goodra** 50, Requires overworld rain (Sheridan Wetlands!)
-
-**Gumshoos** 20, Daytime
-
-**Vikavolt** Level in: Terajuma Jungle
-
-**Obstagoon** 35, Nighttime
-
-**Sirfetch’d** Get 3 crits in one battle
-
-**Runerigus** Take at least 49 damage without dying during a battle in
-Wispy Ruins
-
-**Alolan Raticate** 20, Nighttime
-
-**Alolan Marowak** 28, Nighttime
-
-**Galarian Mr. Mime** Level with Mimic (L.15) at Icy Rock
+|Pokemon|Condition|
+|---|---|
+|**Hitmonchan**|20, Atk\<Def|
+|**Hitmonlee**|20, Atk\>Def|
+|**Hitmontop**|20, Atk=Def|
+|**Weavile**|Razor Claw + Level @ Night|
+|**Gliscor**|Razor Fang + Level @ Night|
+|**Magnezone**|Level in: Generator Room|
+|**Probopass**|Level in: Generator Room|
+|**Leafeon**|Level in: Terajuma Jungle: Moss Rock|
+|**Glaceon**|Level in: Evergreen Cave: Icy Rock|
+|**Mamoswine**|Relearn Ancient Power + Level|
+|**Tyrantrum**|39, Daytime|
+|**Aurorus**|39, Nighttime|
+|**Goodra**|50, Requires overworld rain (Sheridan Wetlands!)|
+|**Gumshoos**|20, Daytime|
+|**Vikavolt**|Level in: Terajuma Jungle|
+|**Obstagoon**|35, Nighttime|
+|**Sirfetch’d**|Get 3 crits in one battle|
+|**Runerigus**|Take at least 49 damage without dying during a battle in
+Wispy Ruins|
+|**Alolan Raticate**|20, Nighttime|
+|**Alolan Marowak**|28, Nighttime|
+|**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock|
 
 ## V13 Unobtainable Pokemon – V13Unob1
 
@@ -21959,305 +21760,161 @@ Wispy Ruins
 
 \*\* Unless randomly selected as mystery egg
 
-**Magikarp**
-
-**Gyarados**
-
-**Dratini**
-
-**Dragonair**
-
-**Dragonite**
-
-**Togepi\*\***
-
-**Togetic\*\***
-
-**Larvitar**
-
-**Pupitar**
-
-**Tyranitar**
-
-**Torchic\***
-
-**Combusken\***
-
-**Blaziken\***
-
-**Bagon**
-
-**Shelgon**
-
-**Salamence**
-
-**Chimchar\***
-
-**Monferno\***
-
-**Infernape\***
-
-**Togekiss\*\***
-
-**Snivy\***
-
-**Servine\***
-
-**Serperior\***
-
-**Drilbur**
-
-**Excadrill**
-
-**Ferroseed**
-
-**Ferrothorn**
-
-**Honedge**
-
-**Doublade**
-
-**Aegislash**
-
-**Hawlucha**
-
-**Jangmo’o**
-
-**Hakamo’o**
-
-**Kommo’o**
-
-**Grookey\***
-
-**Thwackey\***
-
-**Rillaboom\***
-
-**Scorbunny\***
-
-**Raboot\***
-
-**Cinderace\***
-
-**Rookidee\*\***
-
-**Corvisquire\*\***
-
-**Corviknight\*\***
-
-**Eiscue**
-
-**Dracozolt**
-
-**Arctozolt**
-
-**Dracovish**
-
-**Arctovish**
-
-**Duraludon**
-
-**Dreepy**
-
-**Drakloak**
-
-**Dragapult**
-
-**Galarian Slowpoke**
-
-**Galarian Slowbro**
-
-**Galarian Slowking**
-
-**Galarian Darumaka**
-
-**Galarian Darmanitan**
-
-**Articuno**
-
-**Zapdos**
-
-**Moltres**
-
-**Mewtwo**
-
-**Mew**
-
-**Raikou**
-
-**Entei**
-
-**Suicune**
-
-**Lugia**
-
-**Ho-oh**
-
-**Celebi**
-
-**Regirock**
-
-**Regice**
-
-**Registeel**
-
-**Latias**
-
-**Latios**
-
-**Kyogre**
-
-**Groudon**
-
-**Rayquaza**
-
-**Jirachi**
-
-**Deoxys**
-
-**Uxie**
-
-**Mesprit**
-
-**Azelf**
-
-**Dialga**
-
-**Palkia**
-
-**Regigigas**
-
-**Heatran**
-
-**Giratina**
-
-**Cresselia**
-
-**Manaphy**
-
-**Darkrai**
-
-**Shaymin**
-
-**Arceus**
-
-**Victini**
-
-**Cobalion**
-
-**Virizion**
-
-**Terrakion**
-
-**Tornadus**
-
-**Thundurus**
-
-**Reshiram**
-
-**Zekrom**
-
-**Landorus**
-
-**Kyurem**
-
-**Keldeo**
-
-**Meloetta**
-
-**Genesect**
-
-**Xerneas**
-
-**Yveltal**
-
-**Diancie**
-
-**Hoopa**
-
-**Volcanion**
-
-**Tapu Koko**
-
-**Tapu Lele**
-
-**Tapu Bulu**
-
-**Tapu Fini**
-
-**Cosmog**
-
-**Cosmoem**
-
-**Solgaleo**
-
-**Lunala**
-
-**Nihilego**
-
-**Buzzwole**
-
-**Pheromosa**
-
-**Xurkitree**
-
-**Celesteela  
-Kartana**
-
-**Guzzlord**
-
-**Necrozma**
-
-**Magearna**
-
-**Marshadow**
-
-**Poipole**
-
-**Naganadel**
-
-**Stakataka**
-
-**Blacephalon**
-
-**Zeraora**
-
-**Meltan  
-Melmetal**
-
-**Zacian**
-
-**Zamazenta**
-
-**Eternatus**
-
-**Kubfu**
-
-**Urshifu**
-
-**Zarude**
-
-**Regieleki**
-
-**Regidrago**
-
-**Glastrier**
-
-**Spectrier**
-
-**Calyrex**
-
-**Galarian Articuno**
-
-**Galarian Zapdos**
-
-**Galarian Moltres**
+-**Magikarp**
+-**Gyarados**
+-**Dratini**
+-**Dragonair**
+-**Dragonite**
+-**Togepi\*\***
+-**Togetic\*\***
+-**Larvitar**
+-**Pupitar**
+-**Tyranitar**
+-**Torchic\***
+-**Combusken\***
+-**Blaziken\***
+-**Bagon**
+-**Shelgon**
+-**Salamence**
+-**Chimchar\***
+-**Monferno\***
+-**Infernape\***
+-**Togekiss\*\***
+-**Snivy\***
+-**Servine\***
+-**Serperior\***
+-**Drilbur**
+-**Excadrill**
+-**Ferroseed**
+-**Ferrothorn**
+-**Honedge**
+-**Doublade**
+-**Aegislash**
+-**Hawlucha**
+-**Jangmo’o**
+-**Hakamo’o**
+-**Kommo’o**
+-**Grookey\***
+-**Thwackey\***
+-**Rillaboom\***
+-**Scorbunny\***
+-**Raboot\***
+-**Cinderace\***
+-**Rookidee\*\***
+-**Corvisquire\*\***
+-**Corviknight\*\***
+-**Eiscue**
+-**Dracozolt**
+-**Arctozolt**
+-**Dracovish**
+-**Arctovish**
+-**Duraludon**
+-**Dreepy**
+-**Drakloak**
+-**Dragapult**
+-**Galarian Slowpoke**
+-**Galarian Slowbro**
+-**Galarian Slowking**
+-**Galarian Darumaka**
+-**Galarian Darmanitan**
+
+-**Articuno**
+-**Zapdos**
+-**Moltres**
+-**Mewtwo**
+-**Mew**
+-**Raikou**
+-**Entei**
+-**Suicune**
+-**Lugia**
+-**Ho-oh**
+-**Celebi**
+-**Regirock**
+-**Regice**
+-**Registeel**
+-**Latias**
+-**Latios**
+-**Kyogre**
+-**Groudon**
+-**Rayquaza**
+-**Jirachi**
+-**Deoxys**
+-**Uxie**
+-**Mesprit**
+-**Azelf**
+-**Dialga**
+-**Palkia**
+-**Regigigas**
+-**Heatran**
+-**Giratina**
+-**Cresselia**
+-**Manaphy**
+-**Darkrai**
+-**Shaymin**
+-**Arceus**
+-**Victini**
+-**Cobalion**
+-**Virizion**
+-**Terrakion**
+-**Tornadus**
+-**Thundurus**
+-**Reshiram**
+-**Zekrom**
+-**Landorus**
+-**Kyurem**
+-**Keldeo**
+-**Meloetta**
+-**Genesect**
+-**Xerneas**
+-**Yveltal**
+-**Diancie**
+-**Hoopa**
+-**Volcanion**
+-**Tapu Koko**
+-**Tapu Lele**
+-**Tapu Bulu**
+-**Tapu Fini**
+-**Cosmog**
+-**Cosmoem**
+-**Solgaleo**
+-**Lunala**
+-**Nihilego**
+-**Buzzwole**
+-**Pheromosa**
+-**Xurkitree**
+-**Celesteela**  
+-**Kartana**
+-**Guzzlord**
+-**Necrozma**
+-**Magearna**
+-**Marshadow**
+-**Poipole**
+-**Naganadel**
+-**Stakataka**
+-**Blacephalon**
+-**Zeraora**
+-**Meltan**  
+-**Melmetal**
+-**Zacian**
+-**Zamazenta**
+-**Eternatus**
+-**Kubfu**
+-**Urshifu**
+-**Zarude**
+-**Regieleki**
+-**Regidrago**
+-**Glastrier**
+-**Spectrier**
+-**Calyrex**
+-**Galarian Articuno**
+-**Galarian Zapdos**
+-**Galarian Moltres**
 
 ## Pickup Table – PickUp1
 
 <table style="width:100%;">
 <colgroup>
-<col style="width: 4%" />
+<col style="width: 12%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
