@@ -14,7 +14,7 @@ I post various fan-game things from time to time.
 
 Do you have concerns/suggestions/etc? Message me on Discord with 
 BIGJRA#3883 or use the forum thread for discussion. If you want to 
-contribute pull requests to the site yourself: message me on Discord.
+contribute pull requests to the site yourself, message me on Discord.
 
 Use CTRL + F to find a specific section. I also oriented this guide as
 such that CTRL + F will work for T.M. Names, certain items, Zygarde
@@ -569,7 +569,7 @@ After either skipping the boat scenes or watching the cutscenes, talk to
 Tesla. Once you regain control, you can explore Oceana Pier.
 
 Now is a good time to change some of your options. I recommend doing
-Text Speed: Max and Battle Scene: Off if you want the game to go
+Text Speed Max and Battle Scene Off if you want the game to go
 quickly. For a bit more challenge, you can also change the battle mode
 to “Set.” I also recommend storing at least a few backups -- save files
 can get corrupted.
@@ -586,7 +586,7 @@ building north.
 
 The guy running in place on the left will offer to give you cinematic
 bars during important cutscenes if you want. Talk to the girl behind the
-counter to buy some basic products:
+counter to buy some basic products.
 
 Gearen Lab Shop
 
@@ -608,7 +608,7 @@ Professor Jenner. You’ll then get to pick a starter Pokémon by
 interacting with it. If you talk to the rainbow-colored machine on the
 right side, it will randomly choose for you among the 24 starters.
 
-Starter Choices (Pick ONE):
+Starter Choices (Pick ONE)
 
 - **Bulbasaur**
 - **Charmander**
@@ -1062,7 +1062,7 @@ Anyways, there are lots of new Pokémon here:
 
 Abandoned Sewers
 
-| Cave:            | %    | Old Rod    | %    |
+| Cave             | %    | Old Rod    | %    |
 |------------------|------|------------|------|
 | Rattata (Alolan) | 30   | **Grimer** | 100  |
 | **Trubbish**     | 20   |            |      |
@@ -1123,27 +1123,29 @@ not necessary to grab everything right now.
 Anyways, there’s a grand total of 120 coins along the ground in there,
 try to find them all. Otherwise, here’s what you can get here:
 
-Coin Vendor
+Game Corner Coin Vendor Shop
 
-50 Coins $1,000
+|Item       |Price      |
+|-----------|-----------|
+|50 Coins   |$1,000     |
+|500 Coins  |$10,000    |
 
-500 Coins $10,000
 
-Left Vendor
+Game Corner Left Vendor Shop
 
-*TM70 Flash* 1000 Coins
+|Item               |Price      |
+|-------------------|-----------|
+|*TM70 Flash*       |1000 Coins |
+|*TM10 Hidden Power*|5000 Coins |
 
-*TM10 Hidden Power* 5000 Coins
+Game Corner Right Vendor Shop
 
-Right Vendor
-
-**Seel** 1000 Coins
-
-**Spoink** 4000 Coins
-
-**Maractus** 5000 Coins
-
-**Helioptile** 6500 Coins
+|Item          |Price      |
+|--------------|-----------|
+|**Seel**      |1000 Coins |
+|**Spoink**    |4000 Coins |
+|**Maractus**  |5000 Coins |
+|**Helioptile**|6500 Coins |
 
 To get coins you can buy them or play the various games in the casino.
 Of these, Voltorb Flip is easily the most efficient once you know what
@@ -1155,17 +1157,15 @@ The attendant on the left is the lotto corner lady, who’ll pick one
 number a day and check if it matches your Pokémon’s, like in the
 official games. The prizes are as follows:
 
-Lotto Attendant
+Loto Attendant
 
-*Master Ball* 5 Matches
-
-*Max Revive* 4 Matches
-
-*Exp. Share* 3 Matches
-
-*PP Up* 2 Matches
-
-*Ultra Ball* 1 Matches
+|Prize          |Digits Matched|
+|---------------|--------------|
+|*Master Ball*  |5 Matches     |
+|*Max Revive*   |4 Matches     |
+|*Exp. Share*   |3 Matches     |
+|*PP Up*        |2 Matches     |
+|*Ultra Ball*   |1 Matches     |
 
 Anyways, once you’ve gambled to your heart’s content, there is a bit
 more optional stuff to do if you want.
@@ -1176,17 +1176,13 @@ Points (Melia +3).
 Relationship Point Choices:
 
 - You like photography? (Melia +1)
-
 - What are you doing? (Neutral)
 
 Relationship Point Choices:
 
 - I love photography! (Melia +2)
-
 - I appreciate the art! (Melia +1)
-
 - It's not for me. (Neutral)
-
 - Photography's boring. (Melia -2)
 
 Additionally, head back to Magnolia Library, and for a short time you’ll
@@ -1225,9 +1221,8 @@ Egg as well as a *Fresh Water* hidden 4 tiles right of it.
 
 Gearen Alleyway
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | **Sentret**  | 30       |
 | Poochyena    | 20       |
 | **Rattata**  | 20       |
@@ -1243,63 +1238,34 @@ here), and save.
 Punk Girl Venam (Corrosive Field)
 
 -   Trubbish, Level 12. @ Oran Berry.
-
     -   Rock Blast
-
     -   Venam’s Kiss
-
     -   Thief
-
     -   Poison Gas
-
 -   Mareanie, Level 12
-
     -   Bite
-
     -   Recover
-
     -   Water Pulse
-
     -   Toxic Spikes
-
 -   Ivysaur, Level 13. @ Oran Berry.
-
     -   Venam’s Kiss
-
     -   Poisonpowder
-
     -   Razor Leaf
-
     -   Leech Seed
-
 -   Alolan Grimer, Level 13. @ Oran Berry.
-
     -   Bite
-
     -   Acid Armor
-
     -   Poison Fang
-
     -   Shadow Sneak
-
 -   Whirlipede, Level 14.
-
     -   Twineedle
-
     -   Venom Drench
-
     -   Protect
-
     -   Venoshock
-
 -   Seviper, Level 15. @ Sitrus Berry.
-
     -   Bite
-
     -   Bulldoze
-
     -   Glare
-
     -   Venam’s Kiss
 
 Venam's Kiss: Poison \| Physical \| 75 power \| 100% accuracy \| 10%
@@ -1331,11 +1297,11 @@ moves for shards.
 
 Library 2F Move Tutor
 
-Dual Chop 2 Yellow Shards
-
-Block 2 Blue Shards
-
-Super Fang 2 Red Shards
+|Move       |Price          |
+|-----------|---------------|
+|Dual Chop  |2 Yellow Shards|
+|Block      |2 Blue Shards  |
+|Super Fang |2 Red Shards   |
 
 Of these, Super Fang can be useful for catching Pokémon, and Dual Chop
 can give you coverage against Dragon types if you really need it.
@@ -1359,21 +1325,13 @@ Your first battle is against Falkner.
 Gym Leader Falkner (Glitch Field)
 
 -   Hoothoot, Level 11.
-
     -   Confusion
-
     -   Peck
-
     -   Hypnosis
-
 -   Noctowl, Level 12.
-
     -   Confusion
-
     -   Peck
-
     -   Hypnosis
-
     -   Echoed Voice
 
 I am using Cyndaquil and Onix. Use Ember and Rock Tomb and you should
@@ -1383,11 +1341,12 @@ she needs for now, we’ll come back after we have two badges.
 One shop has updated inventory now that we have a badge. Head to the
 Shopping Emporium.
 
-Poke Ball Emporium New Items (1 Badge)
+Poke Ball Emporium Shop: New Items (1 Badge)
 
-*Love Ball* $300
-
-*Fast Ball* $300
+|Item       |Price  |
+|-----------|-------|
+|*Love Ball*|$300   |
+|*Fast Ball*|$300   |
 
 Love Balls are a very useful ball for their price, just pay attention to
 the gender of what you’re trying to catch.
@@ -1398,87 +1357,71 @@ quest to collect Zygarde cells. He’ll give you the *Gather Cube* to
 begin this quest. We will finish the help quests first, then get the
 cells.
 
-HQuest 1: Help Starly
+### HQuest 1: Help Starly
 
--   Start at Gearen Lab. Talk to the black-haired girl next to Nurse Joy
+Start at Gearen Lab. Talk to the black-haired girl next to Nurse Joy.
+Go to the southwest dock on the Oceana Pier. Defeat the trainer here,
+and witness a beautiful scene. Talk to the girl in the lab again.
 
--   Go to Oceana Pier: Southwest dock
+Claim your reward at the help center: $890, and *Potions!* (+1 Karma)
 
--   Take out a trainer… and witness a beautiful scene.
+### HQuest 2: Missing Mother
 
--   Talk to the girl in the lab again
+Start at Petal Salon in the Shopping Emporium, talk to Sasha.
 
--   Claim your reward at the help center: $890, and *Potions!* (+1
-    Karma)
+Next, go to Aqua Building 2F and talk to the girl. Return to Sasha 
+and talk to her.
 
-HQuest 2: Missing Mother
+Go to Velvet Building 3F and talk to the southwest girl. Return to 
+Sasha and talk to her again.
 
--   Start at Petal Salon in the Shopping Emporium, talk to Sasha.
+Go to Emerald Building Lobby and talk to the red-haired person. 
+Return to Sasha… again, and follow her into a building in Oceana 
+Pier. Defeat a trainer with a Lv. 19 Lopunny!
 
--   Go to Aqua Building 2F and talk to the girl.
-
--   Return to Sasha and talk to her.
-
--   Go to Velvet Building 3F and talk to the southwest girl.
-
--   Return to Sasha and talk to her.
-
--   Go to Emerald Building Lobby and talk to the red-haired person.
-
--   Return to Sasha… again, and follow her into a building in Oceana
-    Pier
-
--   Defeat a trainer with a Lv. 19 Lopunny!
-
--   Claim your reward at the help center: $550. (+1 Karma)
+Claim your reward at the help center: $550. (+1 Karma)
 
 We can also go back to the Petal Salon for one free haircut, which
 boosts friendship. Helpful for friendship evolving Pokémon like
-Chingling. It will cost $1500 after the first can be done once a day.
+Chingling. It will cost $1500 after the first and it can be done 
+only once a day.
 
-HQuest 3: Hidden Library
+### HQuest 3: Hidden Library
 
--   Start at Gearen Lab. Talk to the backpacker on the left side.
+Start at Gearen Lab. Talk to the backpacker on the left side. 
+Then, talk to the mother sitting at the park bench in Leaflet 
+Garden in the northwest side of Gearen.
 
--   Talk to the mother sitting at the park bench in Leaflet Garden
-    (north left East Gearen)
+Next, talk to the receptionist at the Chrisola Hotel, then talk 
+to Karrina in south-east Gearen. Return to the backpacker and 
+answer his questions.
 
--   Talk to the receptionist at the Chrisola Hotel
+Claim your reward at the help center: 5 *Great Balls* and *3 Timer 
+Balls.* (+1 Karma)
 
--   Talk to Karrina in south-east Gearen
+### HQuest 4: Love Letter
 
--   Return to the backpacker, and answer his questions.
+Start at Oceana Pier Gate: 2F. Talk to the man upstairs and get a
+*Love Letter.* 
 
--   Claim your reward at the help center: 5 *Great Balls* and *3 Timer
-    Balls.* (+1 Karma)
+Buy 1 Burn Heal from the bottom left vendor of the market, then
+bring both items to Cameron on the east side of the Petal Salon.
+Return to Eric at Oceana Pier Gate 2F and talk to him.
 
-HQuest 4: Love Letter
+Claim your reward at the help center: $350 and *Nugget!* (+1 Karma)
 
--   Start at Oceana Pier Gate: 2F. Talk to the man upstairs and get a
-    *Love Letter.*
+### HQuest 5: Dangerous Pokémon
 
--   Buy 1 Burn Heal from the bottom left vendor
+Start at Oceana Pier, and head right. Make sure you have a good water 
+or rock type or two. Fight a double battle against two level 15 Litleo,
+and one level 25 Pyroar. If it is too tough for, now you can leave and
+try again later.
 
--   Bring both items to Cameron on the east side of the Petal Salon
+If you win, accept **Litleo** in your team!
 
--   Return to Eric at Oceana Pier Gate 2F
+Claim your reward at the help center: $350 and *Super Potion!* (+1 Karma)
 
--   Claim your reward at the help center: $350 and *Nugget!* (+1 Karma)
-
-HQuest 5: Dangerous Pokémon
-
--   Start at Oceana Pier, and head right. Make sure you have a good
-    water or rock type or two.
-
--   Fight a double battle against two level 15 Litleo, and one level 25
-    Pyroar. If it is too tough now you can return.
-
--   Accept **Litleo** in your team!
-
--   Claim your reward at the help center: $350 and *Super Potion!* (+1
-    Karma)
-
-HQuest 6: Battle Me
+### HQuest 6: Battle Me
 
 Start at Chrisola Hotel. Make sure you have a good team near or at the
 level cap and go to rooftop.
@@ -1486,61 +1429,33 @@ level cap and go to rooftop.
 Wanderer Novae (No Field)
 
 -   Trumbeak, Level 16.
-
     -   Pluck
-
     -   Supersonic
-
     -   Rock Smash
-
     -   Fury Attack
-
 -   Charjabug, Level 17.
-
     -   Spark
-
     -   Bug Bite
-
     -   Bite
-
     -   Mud Slap
-
 -   Rockruff, Level 17.
-
     -   Rock Throw
-
     -   Bite
-
     -   Leer
-
     -   Sand Attack
-
 -   Steenee, Level 18.
-
     -   Doubleslap
-
     -   Razor Leaf
-
     -   Play Rough
-
     -   Synthesis
-
 -   Sandygast, Level 18.
-
     -   Sand Tomb
-
     -   Mega Drain
-
     -   Sand Attack
-
     -   Astonish
-
 -   Passimian, Level 20.
-
     -   Rock Smash
-
     -   Tackle
-
     -   Smack Down
 
 This is a tough battle to be sure, and this won’t be the last time
@@ -1550,51 +1465,32 @@ worry, you can come back later to finish this one.
 Anyways, all that’s left is to claim your reward at the help center --
 $350 and **Pichu!** (+1 Karma)
 
-HQuest 7: Wretched Music!
+### HQuest 7: Wretched Music!
 
--   Talk to the receptionist at the Chrisola Hotel and agree to go to
-    the basement.
+Talk to the receptionist at the Chrisola Hotel and agree to go to
+the basement.
 
-Dance Prodigy Rorim B
+Dance Prodigy Rorim B (No Field)
 
 -   Spinda, Level 15.
-
     -   Teeter Dance
-
     -   Hypnosis
-
     -   Dizzy Punch
-
     -   Psybeam
-
 -   Vivillon, Level 16. @ Kee Berry.
-
     -   Quiver Dance
-
     -   Signal Beam
-
     -   Draining Kiss
-
     -   Psybeam
-
 -   Oricorio, Level 16.
-
     -   Featherdance
-
     -   Teeter Dance
-
     -   Revelation Dance
-
     -   Air Cutter
-
 -   Ludicolo, Level 17. @ Mystic Water.
-
     -   Teeter Dance
-
     -   Rain Dance
-
     -   Bubblebeam
-
     -   Knock Off
 
 Be careful of Ludicolo, rain boosted Bubblebeams can hurt. Vivillon too
@@ -1604,9 +1500,7 @@ good flying type or two, or probably most well-rounded sixes.
 Relationship Point Choices:
 
 - You should stop. (RorimB -1)
-
 - Yeah, he’s a jerk. (RorimB +2)
-
 - The other guests...? (RorimB +1)
 
 Upstairs, talk to the bell boy in the left hallway, and the girl in the
@@ -1615,7 +1509,7 @@ top-left room in the right hallway.
 Return to the help center to get your reward: $1,100 and a
 *GourmetTreat*, but also *TM119 Magical Leaf!* (+1 Karma)
 
-Now we can start looking for cells.
+Now we can start looking for Zygarde Cells!
 
 ZCell 001: East Gearen City
 
@@ -1647,16 +1541,19 @@ are on the Golden Forest field.
 
 Route 1 (Forest Field)
 
-|                       |          |                     |          |                   |          |                |          |
-|-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
-| Caterpie              | 30       | **Scatterbug**      | 35       | Pidove            | 30       | **Finneon**    | 100      |
-| Sentret               | 29       | Pidove              | 30       | **Scatterbug**    | 30       |                |          |
-| Pidove                | 10       | Weedle              | 20       | **Deerling**      | 16       |                |          |
-| **Scatterbug**        | 10       | Paras               | 9        | Pidgey            | 15       |                |          |
-| Pidgey                | 10       | **Kakuna**          | 4        | Sentret           | 8        |                |          |
-| **Deerling**          | 10       | **Metapod**         | 1        | **Furret**        | 1        |                |          |
-| **Furret**            | 1        | **Furret**          | 1        |                   |          |                |          |
+| Grass: Morning| %    | Grass: Night    | %    | Grass: Day    | % |
+|---------------|------|-----------------|------|---------------|---|
+| Caterpie      | 30   | **Scatterbug**  | 35   | Pidove        | 30| 
+| Sentret       | 29   | Pidove          | 30   | **Scatterbug**| 30|
+| Pidove        | 10   | Weedle          | 20   | **Deerling**  | 16|
+| **Scatterbug**| 10   | Paras           | 9    | Pidgey        | 15|
+| Pidgey        | 10   | **Kakuna**      | 4    | Sentret       | 8 |
+| **Deerling**  | 10   | **Metapod**     | 1    | **Furret**    | 1 |
+| **Furret**    | 1    | **Furret**      | 1    |               |   |
+
+|Old Rod    |%  |
+|-----------|---|
+|**Finneon**|100|
 
 The tree to the left of the second red flower from the train has a
 hidden *Potion.* Grab the *Super Repel* and the *Jolly Mint* above.
@@ -1675,7 +1572,6 @@ regain control, interact with Drifblim.
 Relationship Point Choices:
 
 - It was no bother! (Narcissa +1)
-
 - It was a complete bother. (Narcissa -1)
 
 You’ll get an *HP Up.* Another free $4900! Grab the nearby *Potion* as
@@ -1683,15 +1579,14 @@ well and talk to the Furfrou lady for another *Potion.*
 
 Goldenwood Forest (Forest Field)
 
-|              |          |                |          |
-|--------------|----------|----------------|----------|
-| Grass | % | Old Rod | % |
-| Poochyena    | 30       | Finneon        | 100      |
-| Sentret      | 24       |                |          |
-| Deerling     | 20       |                |          |
-| **Spewpa**   | 15       |                |          |
-| Pidove       | 10       |                |          |
-| Furret       | 1        |                |          |
+| Grass        | %    | Old Rod| %    |
+|--------------|------|--------|------|
+| Poochyena    | 30   | Finneon| 100  |
+| Sentret      | 24   |        |      |
+| Deerling     | 20   |        |      |
+| **Spewpa**   | 15   |        |      |
+| Pidove       | 10   |        |      |
+| Furret       | 1    |        |      |
 
 There are some trainers south to battle. When you’re ready, head north
 into Goldenwood Cave.
@@ -1700,13 +1595,12 @@ Melia will join your party here.
 
 Goldenwood Cave (Cave Field)
 
-|             |          |
-|-------------|----------|
-| Cave | % |
-| Geodude     | 49       |
-| Noibat      | 34       |
-| **Woobat**  | 15       |
-| Furret      | 2        |
+| Cave        | %    |
+|-------------|------|
+| Geodude     | 49   |
+| Noibat      | 34   |
+| **Woobat**  | 15   |
+| Furret      | 2    |
 
 Woobat is good for the next gym.
 
@@ -1720,36 +1614,22 @@ left of the top of two red flowers on the right. Heading back to the
 top, the rock below Leavanny has a *Great Ball.* If you can, do the
 optional battle against Mars here.
 
-Culvier Clan Mars
+Culvier Clan Mars (Cave Field)
 
 -   Sewaddle, Level 15. @ Light Clay.
-
     -   Return
-
     -   Bug Bite
-
     -   Seed Bomb
-
     -   Light Screen
-
 -   Swadloon, Level 18. @ Miracle Seed.
-
     -   Return
-
     -   Iron Defense
-
     -   Seed Bomb
-
     -   Double Team
-
 -   Leavanny, Level 20. @ Leftovers.
-
     -   Return
-
     -   Seed Bomb
-
     -   Synthesis
-
     -   Iron Defense
 
 Fire and Flying moves obviously work great here if you can stall out the
@@ -1768,9 +1648,7 @@ Anyways, heal your team and talk to Melia.
 Relationship Point Choices:
 
 - I will cherish it too! (Melia +5)
-
 - It was a good time. (Melia +2)
-
 - it was okay, I guess. (Melia -1)
 
 She’ll then challenge you to a battle.
@@ -1778,43 +1656,24 @@ She’ll then challenge you to a battle.
 Pre-Leader Melia (Golden Forest field)
 
 -   Buneary, Level 15.
-
     -   Fake Out
-
     -   Double Hit
-
     -   Fire Punch
-
     -   Baby Doll Eyes
-
 -   Wooloo, Level 15.
-
     -   Double Kick
-
     -   Tackle
-
     -   Defense Curl
-
     -   Copycat
-
 -   Stufful, Level 14.
-
     -   Tackle
-
     -   Leer
-
     -   Roar
-
     -   Brutal Swing
-
 -   Togepi, Level 15. @Oran Berry.
-
     -   Ancient Power
-
     -   Echoed Voice
-
     -   Yawn
-
     -   Metronome
 
 Your second-stage starter should be able to make short work of it,
@@ -1841,43 +1700,24 @@ you’re ready.
 Team Xen Eli and Sharon (Golden Forest Field)
 
 -   Murkrow, Level 16.
-
     -   Wing Attack
-
     -   Pursuit
-
     -   Confuse Ray
-
     -   Haze
-
 -   Misdreavus, Level 16.
-
     -   Shadow Sneak
-
     -   Psywave
-
     -   Spite
-
     -   Growl
-
 -   Glameow, Level 15.
-
     -   Feint Attack
-
     -   Scratch
-
     -   Hypnosis
-
     -   Attract
-
 -   Stunky, Level 15.
-
     -   Poison Gas
-
     -   Smokescreen
-
     -   Fury Swipes
-
     -   Bite
 
 A weak early game team, but you’ll have to get used to the doubles
@@ -1888,45 +1728,25 @@ and Stunky.
 Team Xen Zetta (Golden Forest Field)
 
 -   Shadow **Snorunt** Level 14.
-
 -   Minior, Level 15.
-
     -   Rollout
-
     -   Defense Curl
-
     -   Confuse Ray
-
     -   Self-Destruct
-
 -   Quilava, Level 15.
-
     -   Flame Wheel
-
     -   Quick Attack
-
     -   Aerial Ace
-
     -   Smokescreen
-
 -   Type: Null, Level 18.
-
     -   Pursuit
-
     -   Double Hit
-
     -   Hidden Power: Fighting
-
     -   Aerial Ace
-
 -   Galarian Meowth, Level 16.
-
     -   Metal Claw
-
     -   Pay Day
-
     -   Fake Out
-
     -   Hone Claws
 
 Start by capturing Snorunt. Quilava and Meowth should not be too
@@ -1942,13 +1762,9 @@ Dimensional Rift Gyarados (Rift Field)
 
 -   Rift Gyarados, Level 20. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 1 Shield.
-
     -   Bite
-
     -   Shadow Sneak
-
     -   Ice Fang
-
     -   Thunder Fang
 
 This is the first of the Rift fights in Rejuvenation. Essentially it has
