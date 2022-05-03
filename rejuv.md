@@ -201,7 +201,7 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-amethyst-cave-2nd-visit---acave2">Amethyst Cave 2<sup>nd</sup>
         Visit - ACave2</a>
     -   <a href="#lost-camp-pt.-2-lcamp2" id="toc-lost-camp-pt.-2-lcamp2">Lost
-        Camp Pt. 2 – LCamp2</a>
+        Camp Pt. 2 - LCamp2</a>
     -   <a href="#carotos-mountain-2nd-visit---carotos2"
         id="toc-carotos-mountain-2nd-visit---carotos2">Carotos Mountain 2nd
         Visit - Carotos2</a>
@@ -222,7 +222,7 @@ cells, tutors, Pokémon Locations, and more!
             id="toc-scaling-mt.-valor-both-routes-converge">Scaling Mt. Valor (Both
             Routes Converge)</a>
     -   <a href="#valor-summit-vsumm1" id="toc-valor-summit-vsumm1">Valor Summit
-        – VSumm1</a>
+        - VSumm1</a>
     -   <a href="#post-valor-quests---pvquest1"
         id="toc-post-valor-quests---pvquest1">Post-Valor Quests - PVQuest1</a>
     -   <a href="#lyric-badge---badge08" id="toc-lyric-badge---badge08">Lyric
@@ -244,7 +244,7 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-west-gearen-city-help-quests---wghelp1">West Gearen City Help
         Quests - WGHelp1</a>
     -   <a href="#route-4-eight-badge-update-4route3"
-        id="toc-route-4-eight-badge-update-4route3">Route 4 Eight Badge Update –
+        id="toc-route-4-eight-badge-update-4route3">Route 4 Eight Badge Update -
         4Route3</a>
     -   <a href="#pulse-badge---badge09" id="toc-pulse-badge---badge09">Pulse
         Badge - Badge09</a>
@@ -252,7 +252,7 @@ cells, tutors, Pokémon Locations, and more!
     id="toc-chapter-10-stopped-in-our-tracks">Chapter 10: Stopped in Our
     Tracks</a>
     -   <a href="#a-few-more-quests-post9q1"
-        id="toc-a-few-more-quests-post9q1">A Few More Quests – Post9Q1</a>
+        id="toc-a-few-more-quests-post9q1">A Few More Quests - Post9Q1</a>
     -   <a href="#grand-express---gexpr1" id="toc-grand-express---gexpr1">Grand
         Express - GExpr1</a>
     -   <a href="#route-7---7route1" id="toc-route-7---7route1">Route 7 -
@@ -291,15 +291,15 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-residential-district-1st-visit---residd1">Residential District
         1st Visit - ResidD1</a>
     -   <a href="#story-split-1-ssplit1" id="toc-story-split-1-ssplit1">Story
-        Split 1 – SSplit1</a>
+        Split 1 - SSplit1</a>
     -   <a href="#the-nightmare-medallion-nmmedal1"
-        id="toc-the-nightmare-medallion-nmmedal1">The Nightmare Medallion –
+        id="toc-the-nightmare-medallion-nmmedal1">The Nightmare Medallion -
         NMMedal1</a>
     -   <a href="#darchlight-manor-second-visit---dlmanor2"
         id="toc-darchlight-manor-second-visit---dlmanor2">Darchlight Manor
         Second Visit - DLManor2</a>
     -   <a href="#nightmare-city-nmcity1"
-        id="toc-nightmare-city-nmcity1">Nightmare City – NMCity1</a>
+        id="toc-nightmare-city-nmcity1">Nightmare City - NMCity1</a>
     -   <a href="#trickery-badge---badge11"
         id="toc-trickery-badge---badge11">Trickery Badge - Badge11</a>
     -   <a href="#route-9-first-visit---9route1"
@@ -311,7 +311,7 @@ cells, tutors, Pokémon Locations, and more!
     id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love
     You</a>
     -   <a href="#judicial-district-jdist1"
-        id="toc-judicial-district-jdist1">Judicial District – JDist1</a>
+        id="toc-judicial-district-jdist1">Judicial District - JDist1</a>
     -   <a href="#kimono-girls-quest---kimonogq"
         id="toc-kimono-girls-quest---kimonogq">Kimono Girls Quest - KimonoGQ</a>
     -   <a href="#axis-high-university-1st-visit--axishiu1"
@@ -329,10 +329,10 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-aevium-past-2nd-visit-part-2---pasta2.5">Aevium (Past) 2nd Visit
         Part 2 - PastA2.5</a>
     -   <a href="#ana-quest-part-1-anaquest1"
-        id="toc-ana-quest-part-1-anaquest1">ANA Quest Part 1 – ANAQuest1</a>
+        id="toc-ana-quest-part-1-anaquest1">ANA Quest Part 1 - ANAQuest1</a>
     -   <a href="#classified-information-quest-classinf1"
         id="toc-classified-information-quest-classinf1">Classified Information
-        Quest – ClassInf1</a>
+        Quest - ClassInf1</a>
     -   <a href="#golden-wing-badge---badge12"
         id="toc-golden-wing-badge---badge12">Golden Wing Badge - Badge12</a>
     -   <a href="#the-aelita-incident---drifta1"
@@ -346,9 +346,9 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#scholar-district---scholard1"
         id="toc-scholar-district---scholard1">Scholar District - ScholarD1</a>
     -   <a href="#lost-camp-pt.-3-lcamp3" id="toc-lost-camp-pt.-3-lcamp3">Lost
-        Camp Pt. 3 – LCamp3</a>
+        Camp Pt. 3 - LCamp3</a>
     -   <a href="#ana-quest-part-2-anaquest2"
-        id="toc-ana-quest-part-2-anaquest2">ANA Quest Part 2 – ANAQuest2</a>
+        id="toc-ana-quest-part-2-anaquest2">ANA Quest Part 2 - ANAQuest2</a>
     -   <a href="#voidal-chasm-1st-visit---voidalc1"
         id="toc-voidal-chasm-1st-visit---voidalc1">Voidal Chasm 1st Visit -
         VoidalC1</a>
@@ -375,10 +375,10 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-vs.-ren-sashila-help-quests---svhelpq1">VS. Ren, Sashila Help
         Quests - SVHelpQ1</a>
     -   <a href="#sand-stream-cave-sscave1"
-        id="toc-sand-stream-cave-sscave1">Sand Stream Cave – SSCave1 </a>
+        id="toc-sand-stream-cave-sscave1">Sand Stream Cave - SSCave1 </a>
     -   <a href="#zorrialyn-labyrinth-1st-visit-zorlab1"
         id="toc-zorrialyn-labyrinth-1st-visit-zorlab1">Zorrialyn Labyrinth
-        1<sup>st</sup> Visit – ZorLab1</a>
+        1<sup>st</sup> Visit - ZorLab1</a>
     -   <a href="#grand-dream-tournament---gdtourn1"
         id="toc-grand-dream-tournament---gdtourn1">Grand Dream Tournament -
         GDTourn1</a>
@@ -392,9 +392,9 @@ cells, tutors, Pokémon Locations, and more!
         Quests - NeoGS1</a>
     -   <a href="#route-4-thirteen-badge-update-4route4"
         id="toc-route-4-thirteen-badge-update-4route4">Route 4 Thirteen Badge
-        Update – 4Route4</a>
+        Update - 4Route4</a>
     -   <a href="#route-10-first-visit-10route1"
-        id="toc-route-10-first-visit-10route1">Route 10 First Visit –
+        id="toc-route-10-first-visit-10route1">Route 10 First Visit -
         10Route1</a>
     -   <a href="#nastasias-ship---nship1"
         id="toc-nastasias-ship---nship1">Nastasia’s Ship - NShip1</a>
@@ -417,11 +417,11 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-kingdom-of-goomidra---goomyq1">Kingdom of Goomidra - GoomyQ1</a>
     -   <a href="#zorrialyn-labyrinth-2nd-visit-zorlab2"
         id="toc-zorrialyn-labyrinth-2nd-visit-zorlab2">Zorrialyn Labyrinth
-        2<sup>nd</sup> Visit – ZorLab2</a>
+        2<sup>nd</sup> Visit - ZorLab2</a>
     -   <a href="#aquarium-side-quest-aquasq1"
-        id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest – AquaSQ1</a>
+        id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest - AquaSQ1</a>
     -   <a href="#ana-quest-part-3-anaquest3"
-        id="toc-ana-quest-part-3-anaquest3">Ana Quest Part 3 – AnaQuest3</a>
+        id="toc-ana-quest-part-3-anaquest3">Ana Quest Part 3 - AnaQuest3</a>
     -   <a href="#hospital-of-ruin-2nd-visit---hospruin2"
         id="toc-hospital-of-ruin-2nd-visit---hospruin2">Hospital of Ruin (2nd
         Visit) - HospRuin2</a>
@@ -432,61 +432,61 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-department-store-and-deino---dsdeino1">Department Store and
         Deino - DSDeino1</a>
     -   <a href="#zygarde-10-form-zy10per1"
-        id="toc-zygarde-10-form-zy10per1">Zygarde 10% Form – Zy10Per1</a>
+        id="toc-zygarde-10-form-zy10per1">Zygarde 10% Form - Zy10Per1</a>
 -   <a href="#chapter-15-vague-clarity"
     id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
     -   <a href="#league-administration-1st-visit-ladmin1"
         id="toc-league-administration-1st-visit-ladmin1">League Administration
-        1<sup>st</sup> Visit – LAdmin1</a>
-        -   <a href="#day-01-vs.-melia" id="toc-day-01-vs.-melia">Day 01 – Vs.
+        1<sup>st</sup> Visit - LAdmin1</a>
+        -   <a href="#day-01-vs.-melia" id="toc-day-01-vs.-melia">Day 01 - Vs.
             Melia</a>
         -   <a href="#day-03-aelitas-departure"
-            id="toc-day-03-aelitas-departure">Day 03 – Aelita’s Departure</a>
-        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08 –
+            id="toc-day-03-aelitas-departure">Day 03 - Aelita’s Departure</a>
+        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08 -
             MC’s Training </a>
-        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11 –
+        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11 -
             Aelita’s Return</a>
-        -   <a href="#day-15-melia-vs.-erin" id="toc-day-15-melia-vs.-erin">Day 15 –
+        -   <a href="#day-15-melia-vs.-erin" id="toc-day-15-melia-vs.-erin">Day 15 -
             Melia Vs. Erin</a>
         -   <a href="#day-18-mcs-day-of-training-pt.-2"
-            id="toc-day-18-mcs-day-of-training-pt.-2">Day 18 – MC’s Day of Training,
+            id="toc-day-18-mcs-day-of-training-pt.-2">Day 18 - MC’s Day of Training,
             Pt. 2</a>
         -   <a href="#day-29---graduation" id="toc-day-29---graduation">Day 29 -
             Graduation</a>
     -   <a href="#diamond-route-diaroute1"
-        id="toc-diamond-route-diaroute1">Diamond Route – DiaRoute1</a>
+        id="toc-diamond-route-diaroute1">Diamond Route - DiaRoute1</a>
     -   <a href="#pearl-route-pearoute1" id="toc-pearl-route-pearoute1">Pearl
-        Route – PeaRoute1</a>
+        Route - PeaRoute1</a>
     -   <a href="#axis-high-university-2nd-visit-axishiu2"
         id="toc-axis-high-university-2nd-visit-axishiu2">Axis High University
-        2nd Visit – AxisHiU2</a>
+        2nd Visit - AxisHiU2</a>
     -   <a href="#aelita-school-route-aelroute1"
-        id="toc-aelita-school-route-aelroute1">Aelita School Route –
+        id="toc-aelita-school-route-aelroute1">Aelita School Route -
         AelRoute1</a>
     -   <a href="#mc-school-route-mcroute1" id="toc-mc-school-route-mcroute1">MC
-        School Route – MCRoute1</a>
+        School Route - MCRoute1</a>
     -   <a href="#axis-high-university-3rd-visit-axishiu3"
         id="toc-axis-high-university-3rd-visit-axishiu3">Axis High University
-        3rd Visit – AxisHiU3</a>
+        3rd Visit - AxisHiU3</a>
     -   <a href="#forgery-badge-badge15" id="toc-forgery-badge-badge15">Forgery
-        Badge – Badge15</a>
+        Badge - Badge15</a>
     -   <a href="#post-v13-items-pv13it1" id="toc-post-v13-items-pv13it1">Post
-        V13 Items – PV13It1</a>
+        V13 Items - PV13It1</a>
 -   <a href="#appendices" id="toc-appendices">Appendices</a>
     -   <a href="#complete-the-v13-dex-v13dex1"
-        id="toc-complete-the-v13-dex-v13dex1">Complete the V13 Dex – V13Dex1</a>
+        id="toc-complete-the-v13-dex-v13dex1">Complete the V13 Dex - V13Dex1</a>
         - <a href="#must-breed" id="toc-must-breed">Must Breed</a>
         - <a href="#must-evolve-by-level" id="toc-must-evolve-by-level">Must Evolve by Level</a>
         - <a href="#must-evolve-by-item" id="toc-must-evolve-by-item">Must Evolve by Item</a>
         - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
         - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
     -   <a href="#v13-unobtainable-pokemon-v13unob1"
-        id="toc-v13-unobtainable-pokemon-v13unob1">V13 Unobtainable Pokemon –
+        id="toc-v13-unobtainable-pokemon-v13unob1">V13 Unobtainable Pokemon -
         V13Unob1</a>
     -   <a href="#pickup-table-pickup1" id="toc-pickup-table-pickup1">Pickup
-        Table – PickUp1</a>
+        Table - PickUp1</a>
     -   <a href="#crest-descriptions-crestd1"
-        id="toc-crest-descriptions-crestd1">Crest Descriptions – CrestD1</a>
+        id="toc-crest-descriptions-crestd1">Crest Descriptions - CrestD1</a>
 
 # Chapter 1: Shipwrecked
 
@@ -537,7 +537,7 @@ a legacy protagonist sprite, type 1111. If you want to play the game as
 a certain side quest character from later (Ana), type 9494.
 
 Exit the first room and talk to Nancy. This is the first of instances
-that get you relationship points with characters – which affect how they
+that get you relationship points with characters - which affect how they
 view you. Thanks to Punch for collecting the information about these.
 Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
@@ -862,7 +862,7 @@ you run out. We aren’t going to need any Reverse Candies in this game
 beyond the ones we find since the level cap is a hard cap unless you use
 Rare Candies to go over it.
 
-<u>East Gearen Market – Top Left Vendor</u>
+<u>East Gearen Market - Top Left Vendor</u>
 
 *Poke Ball* $200
 
@@ -874,7 +874,7 @@ Rare Candies to go over it.
 
 *Reverse Candy* $50
 
-<u>East Gearen Market – Bottom Left Vendor</u>
+<u>East Gearen Market - Bottom Left Vendor</u>
 
 *Burn Heal* $250
 
@@ -3946,7 +3946,7 @@ The pumpkin to the left of the entrance to the town contains a *Honey.*
 The red flower to the south of Ren’s house contains a *Ghost Gem,* and
 to the left side of the house here one tile south of the red flower is a
 hidden *Dark Gem.* North of the Pokemon Center is a pumpkin, one tile
-above is a *Red Shard.* To the left is some tables – the bottom left has
+above is a *Red Shard.* To the left is some tables - the bottom left has
 a *Super Potion* on it, the top right has an *Ability Capsule.* Cutting
 a tree to the left leads us to a hidden *Big Mushroom.* Finally, on the
 top hill of the town the rightmost blank space contains a *Rawst Berry.*
@@ -4059,7 +4059,7 @@ by a lot. Once you’ve gotten its friendship high enough and try to leave
 it will join your party. (+1 Karma)
 
 Head down the stairs and around to the right. In the top right of the
-park, you’ll see a little pumpkin up above – two tiles up and one right
+park, you’ll see a little pumpkin up above - two tiles up and one right
 is a hidden *Ghost Gem.* Head to the left, you’ll see a big pumpkin on
 the ground. One tile left, and two right and two up, you’ll find a
 *Careful Mint* and a *Rawst Berry.* The right tile of the green tree
@@ -5722,7 +5722,7 @@ this side to find *Soda Pop* and *Fresh Water.*
 
 Some optional content will require us to have 5 total Spice Powder
 eventually, so buy them here. You’ll see a guy here who will offer to
-boat us back to Gearen City for a price – a way to go free will open up
+boat us back to Gearen City for a price - a way to go free will open up
 a bit after the upcoming gym fight, so I would recommend waiting unless
 you need something from Floria Island for the fight.
 
@@ -6258,7 +6258,7 @@ Jeminra Woods: Area 5 (Bottom Right Labyrinth)
 | **Kangaskhan** | 1        |                   |          |                |          |
 | **Chansey**    | 1        |                   |          |                |          |
 
-Get two Spinda – we will be trading one away later.
+Get two Spinda - we will be trading one away later.
 
 You can also find: a *Rare Candy,* a *Reverse Candy, Hyper Potion,
 TinyMushroom, Super Repel, Friend Ball* in this area. We can’t access
@@ -7440,7 +7440,7 @@ River’s End
 | Shuckle           | 66       | Bruxish         | 80       |
 | Dwebble           | 34       | Corphish        | 20       |
 
-Use your Itemfinder all around – you’ll find *Elixir, Revive, Ability
+Use your Itemfinder all around - you’ll find *Elixir, Revive, Ability
 Capsule, Repel, Link Heart, HP Up, TinyMushroom, Green Shard, Yellow
 Shard, Blue Shard, PP Up, Fresh Water,*
 
@@ -9356,7 +9356,7 @@ Dial to fuse your own Solrock and Lunatone.
 
 That’s all we can do in this area for now.
 
-## Lost Camp Pt. 2 – LCamp2
+## Lost Camp Pt. 2 - LCamp2
 
 Now, we should have found all nine kids. Ctrl + F the phrase “lost kid”
 in the guide to get any that you missed. So, head back to Route 4, and
@@ -9997,7 +9997,7 @@ teleporter at the bottom of this map.
 
 Head all the way back up to the top and enter the summit.
 
-## Valor Summit – VSumm1
+## Valor Summit - VSumm1
 
 Grab the *Dragon Scale* on the left of the summit.
 
@@ -11095,9 +11095,9 @@ Taunt, and other similar moves if you must.
 
 Win to get the *Ghost Memory!*
 
-## Route 4 Eight Badge Update – 4Route3
+## Route 4 Eight Badge Update - 4Route3
 
-Next is a quick detour to Route 4 to get some new Den Pokémon – feel
+Next is a quick detour to Route 4 to get some new Den Pokémon - feel
 free to skip this one.
 
 Essentially, now that we’ve beaten Amber, all four of the dens we’ve
@@ -11313,7 +11313,7 @@ Switch.*
 
 # Chapter 10: Stopped in Our Tracks
 
-## A Few More Quests – Post9Q1
+## A Few More Quests - Post9Q1
 
 There’s just a few more things we can do before leaving on the train. Up
 on the Valor Cliffside, if you donate to a guy 10 Rock types, you’ll get
@@ -11749,7 +11749,7 @@ Darchlight Caves
 After the conversation, we’ll have control in the caves. Grab the hidden
 *Yellow Shard, Blue Shard.*
 
-Head east and choose which character to go with – this one doesn’t
+Head east and choose which character to go with - this one doesn’t
 affect your future quite yet. Grab the hidden *Max Repel* abovve, then
 head down your ladder and in.
 
@@ -12286,7 +12286,7 @@ After a lot of bizarre scenes, head back to Mika’s Cafe.
 
 Head back to the Complex and go to bed.
 
-## Story Split 1 – SSplit1
+## Story Split 1 - SSplit1
 
 Here we’re going to have a split choice based on what we chose to do in
 the caves.
@@ -12309,7 +12309,7 @@ now, and this will push you towards the bad ending.
 
 Head out with Venam when you have a chance.
 
-## The Nightmare Medallion – NMMedal1
+## The Nightmare Medallion - NMMedal1
 
 Now, the story segments should converge from here for a while.
 
@@ -12395,7 +12395,7 @@ Talk to Alice and Allen in the kitchen again, then to a guy outside the
 building.
 
 Enter the medicine shop in Dream District West. Buy two *Nightmare
-Medallions* for $4,800 each – one for a quest later.
+Medallions* for $4,800 each - one for a quest later.
 
 ## Darchlight Manor Second Visit - DLManor2
 
@@ -12458,7 +12458,7 @@ later. With all that said and done, return to GDC.
 With Nightmare Medallion in hand, enter the penthouse, and sleep in your
 bed.
 
-## Nightmare City – NMCity1
+## Nightmare City - NMCity1
 
 Talk to Aelita in the first area, then head up for another scene. In
 this central area, grab the *Apophyll Pancakes* in the upper right
@@ -12880,7 +12880,7 @@ Head upstairs, and into the left door.
 
 # Chapter 12: Remember, I Love You
 
-## Judicial District – JDist1
+## Judicial District - JDist1
 
 Outside, accept Aelita’s request for fast travel. There are a couple
 side quests and areas we can tackle right now. Skip two sections ahead
@@ -13709,13 +13709,13 @@ Next is a battle against Melia.
 
 This is a tough fight this time around! Every one of her Pokémon are
 pretty threatening in some way. Zoroark likes to prank you and murder
-with field boosted Sucker Punch – so know that it will be disguised as
+with field boosted Sucker Punch - so know that it will be disguised as
 Togekiss, or Gardevoir if Togekiss is dead, etc. If Meganium gets off an
 Ancient Power with boost, you might be screwed as it will never die
 thanks to its crest! Gardevoir is also very fast, and field boosted
 Psychic is no joke. That said, you can overwhelm her: half of her team
 is weak to Poison and the other half Fighting, for example. You can also
-try to set up your own tank – if she can’t sufficiently set up this may
+try to set up your own tank - if she can’t sufficiently set up this may
 work.
 
 Relationship Point Choices:
@@ -13898,7 +13898,7 @@ Remember the GDC arc? Yeah, this is still the same game. Well, back in
 the Rose Theater, head out, then into the bottom room in the left
 hallway. Before we continue from here, we’re gonna do some side quests!
 
-## ANA Quest Part 1 – ANAQuest1
+## ANA Quest Part 1 - ANAQuest1
 
 As always, these are optional, but extremely recommended! There’s fewer
 here but they’re more in depth this time. Head to the Central Building
@@ -14024,7 +14024,7 @@ style="width:6.67708in;height:5.05208in" />
 -   Head to the Police Department and talk to the cop. This is all we
     can do in this quest for now, until the next badge.
 
-## Classified Information Quest – ClassInf1
+## Classified Information Quest - ClassInf1
 
 <u>HQuest 27: Classified Information</u>
 
@@ -14083,7 +14083,7 @@ Phase 1 Base Stats: 300/80/240/80/250/115.
 
 Phase 2 Base Stats: 600/250/200/80/200/240.
 
-This is a tough battle. It has two forms – the second comes out as soon
+This is a tough battle. It has two forms - the second comes out as soon
 as you destroy all three shields. Luckily the first only has 80 base
 attack, meaning you can take advantage of the beginning of the battle to
 completely abuse it. Lower its attack by six stages, its accuracy if you
@@ -14232,7 +14232,7 @@ and its ability is a big part of why.
 Thankfully Delta Stream does come with a few drawbacks though. The four
 (4) lines named Golduck, Drampa, Altaria, and Lickilicky can block it
 out via Cloud Nine, so even though these four are not particularly good
-otherwise they have a purpose – simply sending one out at the same time
+otherwise they have a purpose - simply sending one out at the same time
 as Mega-Rayquaza opens up its 4x Ice and Rock weaknesses… but that
 effect only lasts as long as they’re in battle, so it’s not really
 significant. The other, more significant thing may seem like a
@@ -14469,7 +14469,7 @@ That’s about it for this area for now. Talk to Melia and Erin to enter
 the Blakeory Anatheum, but don’t talk to Erin inside just yet if you
 want to continue two optional quests.
 
-## Lost Camp Pt. 3 – LCamp3
+## Lost Camp Pt. 3 - LCamp3
 
 First, if we’re all caught up on the Lost Camp side quest:
 
@@ -14488,7 +14488,7 @@ First, if we’re all caught up on the Lost Camp side quest:
 -   Make your way down through the gauntlet of cops. Talk to Isha, this
     is it for now.
 
-## ANA Quest Part 2 – ANAQuest2
+## ANA Quest Part 2 - ANAQuest2
 
 If you’ve already done part 1:
 
@@ -15215,14 +15215,14 @@ able to live a Night Slash or Hyperspace Hole with most Pokémon
 afterwards. Break the shields efficiently and then hammer it hard,
 preferably with Poison or Steel type physical moves. Alternatively, you
 can nullify the field and Gardevoir’s advantagex with Pyukumuku’s Purify
-– then Sylveon can set up Misty Terrain, allowing you to knock it out
+- then Sylveon can set up Misty Terrain, allowing you to knock it out
 with field-boosted Fairy moves.
 
 After defeating it, depending on our choice in a previous past segment,
 you’ll get relationship points here:
 
 If Cop saved - (Ren +3, Reina +3, Huey +3, Venam +3)  
-If Maria "saved" – (Ren +3, Reina +3, Huey +3)
+If Maria "saved" - (Ren +3, Reina +3, Huey +3)
 
 <u>Dimensional Rift Gardevoir Round 2 (Dimensional Field)</u>
 
@@ -15517,7 +15517,7 @@ here with your double battle ability, you could do one more.
 -   Return to the help center to get $32,500 and a *Scented Lure.* (+1
     Karma).
 
-## Sand Stream Cave – SSCave1 
+## Sand Stream Cave - SSCave1 
 
 You can return to GDC now if you want, but there’s even more desert
 exploration and quests we can do!
@@ -15575,7 +15575,7 @@ MegaStone *Sandacondanite.*
 
 That’s all there is to do in that cave for now!
 
-## Zorrialyn Labyrinth 1<sup>st</sup> Visit – ZorLab1
+## Zorrialyn Labyrinth 1<sup>st</sup> Visit - ZorLab1
 
 Next, we’re going to do some treasure hunting. Head down south of
 Zorrialyn Coast, and you’ll see a cave entrance.
@@ -15787,7 +15787,7 @@ damage. That, plus its single weakness now being Ghost, you’re gonna
 struggle with killing it. His Kabutops is also tough to beat if it gets
 a Weak Armor speed boost. Otherwise, it’s not the hardest battle in the
 world if you can account for the Inverse Field. Fire moves hit
-everything except Crustle and Tyranitar super effectively here – just
+everything except Crustle and Tyranitar super effectively here - just
 watch out for the X-Scissor and Slash and Burn moves here and there. I
 also recommend using your own Magical Seeds - it will turn even
 type-disadvantaged mons into super-effective titans, crushing with
@@ -16188,7 +16188,7 @@ fight.
 This one is tough! Two Gyro Balls will knock out Persian luckily, and
 Miltank can barely take out Tyranitar. Vileplume goes down to
 Typhlosion, and if you save Gliscor for Houndoom, you can one-shot it.
-Unfortunately, the Umbreon is a pain in the ass to take out – I
+Unfortunately, the Umbreon is a pain in the ass to take out - I
 recommend Knocking Off its item with Gliscor and using everything you
 have left to make sure it can’t rest. Steelix can’t get poisoned, so
 getting off a couple curses might be your best bet. You can always reset
@@ -16270,7 +16270,7 @@ the challenge: the *Meganium Crest*, *Typhlosion Crest*, or *Feraligatr
 Crest*! You’ll also get 25 AP Points and your fourth department store
 stamp!
 
-On Junction Bridge, push a boulder out of the way – now that we have the
+On Junction Bridge, push a boulder out of the way - now that we have the
 Dull Key, open the door here and use a GourmetTreat to get **Litten!**
 
 Next, head east through Neo Gearen City (I’ll cover this revamped area
@@ -16429,7 +16429,7 @@ least 70), talk to the researchers to get *Lucky Egg*!
     *Aloraichium-Z.* (+1 Karma)
 
 -   Now, return to the Poke Ball shop to get 15 *Ultra Balls.* We’ll
-    also again be able to buy balls here – nothing we couldn’t before
+    also again be able to buy balls here - nothing we couldn’t before
     however.
 
 <u>HQuest 32: Forest Restoration</u>
@@ -16630,9 +16630,9 @@ ranch quest, enter Kelvin’s house on the right side of town and get the
 *PokeFlute* for $45,000*.* Then, go to Honec Woods where **Snorlax** is
 to get it.
 
-## Route 4 Thirteen Badge Update – 4Route4
+## Route 4 Thirteen Badge Update - 4Route4
 
-Next is a quick detour to Route 4 to get some new Den Pokémon – feel
+Next is a quick detour to Route 4 to get some new Den Pokémon - feel
 free to skip this one as well.
 
 Essentially, now that we’ve beaten Souta, all four of the dens have been
@@ -16673,7 +16673,7 @@ Head up towards Den 4. You’ll spot **Sobble** hiding in the water. Chase
 it a few times for a battle!
 
 Make sure you have 15000 Red Essence, then fly to Secret Shore, and head
-to the left. You’ll notice a strength boulder across the water – push it
+to the left. You’ll notice a strength boulder across the water - push it
 out of the way, and you’ll find a special den. Put in 15000 Red Essence
 and a Rift Matter, and you’ll be able to battle **Beldum!** It has two
 shields. Just make sure you don’t kill it or let it Take Down itself to
@@ -16682,7 +16682,7 @@ this is a special shadow Pokémon and needs to enter the Purify Chamber
 in the PC such that all 9 of the slots have perfect “flow” in order to
 be purified. Easiest way to do this is to stick 36 normal types in.
 
-## Route 10 First Visit – 10Route1
+## Route 10 First Visit - 10Route1
 
 Real quick, fly over to Route 9. Head to where we fought Souta earlier,
 and you’ll find the MegaStone *Pidgeotite* Head south from the Rose
@@ -16803,7 +16803,7 @@ the arena for a battle with the best character in the game.
     -   Close Combat
 
 You’ll be using Aelita’s team, so this one can be tough. I recommend
-starting with Cherrim and Starmie – these two are fast and strong and
+starting with Cherrim and Starmie - these two are fast and strong and
 clean up most of his team easily. You can do it!
 
 Afterwards, you’ll get the *Cherrim Crest.* Tell Aelita you want to rest
@@ -17168,7 +17168,7 @@ it!
 
 This one isn’t too bad… Ren’s team puts in work by supplying Arenite
 Wall and he also tends to burn it. Dropping its attack stats super low
-is a good move – it’s so slow you should be able to get off at least a
+is a good move - it’s so slow you should be able to get off at least a
 Memento or something if you so choose. It holds Black Sludge which you
 can knock off. Using super effective moves to slowly chip away at each
 of its four shields afterwards will do the trick.
@@ -17387,7 +17387,7 @@ Additionally, Dig comes out in just one turn and is boosted to 120 base
 power, so it’s an even stronger STAB Earthquake.
 
 Nidoqueen is the only Pokémon here that doesn’t really have insane
-synergy with the field and weather other than this boost – even then it
+synergy with the field and weather other than this boost - even then it
 melts your tanky dreams by laying Toxic Spikes or piercing you with
 mixed Sheer Force offense. His Claydol has a crest which notably makes
 its special attack stronger and makes Hyper Beam not need a recharge
@@ -17407,7 +17407,7 @@ free 8 turn Sun on the field and will almost certainly one-shot most
 things with boosted Heat Wave. And finally, there is Sand Rush
 Excadrill, once deemed so good it had to be banned from competitive
 play. Since then, sand has gotten nerfs here and there and it’s not too
-bad – after all, if you can switch weather, it’s back to normal base 88
+bad - after all, if you can switch weather, it’s back to normal base 88
 speed… right? On this field Sand Rush is always on so it will almost
 always outspeed you and will murder with Dig or Rock Slide.
 
@@ -18126,11 +18126,11 @@ tutor inside. The left Goomy has a little shop!
 
 *Whiscash Crest* $100,000
 
-## Zorrialyn Labyrinth 2<sup>nd</sup> Visit – ZorLab2
+## Zorrialyn Labyrinth 2<sup>nd</sup> Visit - ZorLab2
 
 Next, fly to Alamissa Urben and go straight up. Take the unconscious
 Karen back to the village, then agree to go to the labyrinth again. Add
-any Water/Rock type to your party – by now we’ve seen Relicanth,
+any Water/Rock type to your party - by now we’ve seen Relicanth,
 Tirtouga line, Drednaw, Corsola, Kabuto line, Omanyte line, Binacle line
 that all should work.
 
@@ -18287,7 +18287,7 @@ In either case, with all the crests that we found in the crypt, fly to
 Sashila and talk to the left merchant for some lore, and a *Dusknoir
 Crest!*
 
-## Aquarium Side Quest – AquaSQ1
+## Aquarium Side Quest - AquaSQ1
 
 Now that we’ve been diving, there is a side quest we can do. Head to the
 Akuwa Town Aquarium. Back in the SOS room, talk to the director, who
@@ -18785,7 +18785,7 @@ Zorrialyn Desert
 | Whiscash         | 9        |
 | Quagsire         | 1        |
 
-## Ana Quest Part 3 – AnaQuest3
+## Ana Quest Part 3 - AnaQuest3
 
 If you’ve completed all the steps to the Ana questline so far, make your
 way to GDC.
@@ -18897,12 +18897,12 @@ Enter Isha’s backroom prepared for battle.
 
     -   Earthquake
 
-This fight can potentially be tough – it mixes a lot of strategies and
+This fight can potentially be tough - it mixes a lot of strategies and
 works somewhat well with the factory and dark factory fields. Weezing is
 pretty tanky and can spread Toxic but isn’t too crazy. Arctozolt and
 Dracovish both hit hard but are on the slower side, so hitting them hard
 with Ground / Fairy / Dragon moves respectively is the way to stop them.
-Crest Dusknoir hits hard with Shadow Sneak on the Dark Factory – make
+Crest Dusknoir hits hard with Shadow Sneak on the Dark Factory - make
 sure that whatever you are going to attack it with can live a Technician
 Shadow Sneak. And, if you could take Giratina back in your Level 30’s,
 you can now.
@@ -18937,7 +18937,7 @@ Relationship Point Choices:*
 Head over to Goldenleaf Town. Talk to Narcy by her house. Follow her to
 her house and head upstairs. Read her journal, then head out.
 
-You’ll need something with Dark Pulse or Night Daze – the easiest is the
+You’ll need something with Dark Pulse or Night Daze - the easiest is the
 Spiritomb we caught earlier which comes with Dark Pulse. Add it to your
 party and head down to Phasial Cave, using Rock Climb to descend to a
 lower level.
@@ -19005,7 +19005,7 @@ opposite reasons than the Wailord. Its ability prevents stat loss, so
 our normal strategy doesn’t work as well here. Luckily Narcissa’s
 Gothitelle likes to use Light Screen on Turn 1, so take advantage of
 those turns to batter the shields! The second form isn’t too defensive
-so you can wear it down if you can survive – Trick Room is an excellent
+so you can wear it down if you can survive - Trick Room is an excellent
 choice.
 
 After a scene in Goldenleaf which grants Relationship Points (Narcissa
@@ -19195,7 +19195,7 @@ Exit the department store and fly over to Kristiline Town. Head up to
 the Isle of Angels and place the Dark Core on the pillar on the island
 to encounter **Deino.** Sweet!
 
-## Zygarde 10% Form – Zy10Per1
+## Zygarde 10% Form - Zy10Per1
 
 There’s just one more thing we can do… If you’ve noticed, we’ve
 collected a lot of Zygarde Cells. Return to Gearen City to talk to
@@ -19225,9 +19225,9 @@ Relationship Point Choices:
 
 # Chapter 15: Vague Clarity
 
-## League Administration 1<sup>st</sup> Visit – LAdmin1
+## League Administration 1<sup>st</sup> Visit - LAdmin1
 
-### Day 01 – Vs. Melia
+### Day 01 - Vs. Melia
 
 In Sashila, head up when prompted. You’ll be thrown into a battle as
 Alexandra.
@@ -19363,11 +19363,11 @@ Relationship Point Choices:*
 
 Tell Alexandra you’re ready for training.
 
-### Day 03 – Aelita’s Departure
+### Day 03 - Aelita’s Departure
 
 This day is just a quick scene!
 
-### Day 08 – MC’s Training 
+### Day 08 - MC’s Training 
 
 Talk to Ren in the hallway.
 
@@ -19389,7 +19389,7 @@ was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
 discharge, waterfall on Dugtrio, then turn 4 was discharge + high
 horsepower to finish off Kingler.
 
-### Day 11 – Aelita’s Return
+### Day 11 - Aelita’s Return
 
 Head in to talk to Aelita.
 
@@ -19407,12 +19407,12 @@ Relationship Point Choices:
 Interact with the obelisk! Inside it’s straightforward. You’ll get the
 *Interceptor’s Wish!*
 
-### Day 15 – Melia Vs. Erin
+### Day 15 - Melia Vs. Erin
 
 Back in the league administration you’ll be thrusted into a 1v1 battle
 as Melia. Win or lose, it doesn’t matter.
 
-### Day 18 – MC’s Day of Training, Pt. 2
+### Day 18 - MC’s Day of Training, Pt. 2
 
 Talk to Aelita in the hallway.
 
@@ -19450,7 +19450,7 @@ be able to fight **Galarian Corsola** up here!
 Then, head back to League Administration. Interact with the thing at the
 table and select Path 1.
 
-## Diamond Route – DiaRoute1
+## Diamond Route - DiaRoute1
 
 During the conversation Erin and Kanon have on the boat, if you had
 previously spoken to Erin in the Magnolia Library towards the beginning
@@ -19591,7 +19591,7 @@ you knock them out Cera’s three are easy to knock out.
 
 That’s it for the Diamond Route!
 
-## Pearl Route – PeaRoute1
+## Pearl Route - PeaRoute1
 
 Again, you’ll be given the choice to activate the Interceptor’s wish. I
 choose not to for this guide.
@@ -19692,7 +19692,7 @@ Prepare to fight a mech Gyarados!
     -   Scald
 
 Every time it attacks, it attacks twice. Luckily, it’s not too hard with
-Ren assisting – Meganium’s Light Screen will help you survive.
+Ren assisting - Meganium’s Light Screen will help you survive.
 
 Afterwards, return to the building and head upstairs. Head back out and
 go up when you’re ready.
@@ -19845,7 +19845,7 @@ After a scene, head up.
 This is a tough battle as Cassandra has a lot of threats, and if you’re
 playing as Melia’s team, well, then Serperior, Cinccino and Lycanroc can
 outspeed your entire team. As such you need to leverage your team
-correctly – for instance, Togekiss can easily dispatch the Shadow
+correctly - for instance, Togekiss can easily dispatch the Shadow
 Bisharp and Serperior, while Meganium can tank Cinccino and chip Mega
 Mawile well. Aevian Milotic will go down to a couple of Earthquakes from
 Mega Snorlax, and Mimikyu is a good choice to throw out a Swords Dance
@@ -19854,7 +19854,7 @@ is easily beaten with the right approach.
 
 That’s it for the Pearl Route!
 
-## Axis High University 2nd Visit – AxisHiU2
+## Axis High University 2nd Visit - AxisHiU2
 
 With both of those completed, you’ll be in control of your character
 again. Choose path 3 and be given the *Rotom Phone.*
@@ -19946,7 +19946,7 @@ Relationship Point Choices:
 Interact with the fountain next, then head to the dorms downstairs to
 sleep. The next day, head to the auditorium for the announcement!
 
-## Aelita School Route – AelRoute1
+## Aelita School Route - AelRoute1
 
 ~~Time to play Danganronpa.~~ I will begin with Path 1. Once more you’ll
 be given a choice to activate the Interceptor’s Wish, I declined.
@@ -20150,7 +20150,7 @@ still lose though, so a couple resets may be in order.
 
 That’s it for this part!
 
-## MC School Route – MCRoute1
+## MC School Route - MCRoute1
 
 Exit the auditorium and talk to the student here who has lost his brain.
 SEC is the storekeeper here and has the same items as Zetta did. Do a
@@ -20417,7 +20417,7 @@ After learning about all this, it’s finally time to enter the player’s
 door!
 
 This area is straight forward. When all is said and done, you’ll have to
-fight… your protagonist. Each protagonist has a different team – find
+fight… your protagonist. Each protagonist has a different team - find
 the one that applies to you.
 
 <u>Pokemon Trainer Ana (Snowy Mountain Field)</u>
@@ -20862,7 +20862,7 @@ Relationship Point Choices:*
             - It's alright. (Aelita +2)  
             - Watch what you say. (Aelita -2)
 
-## Axis High University 3rd Visit – AxisHiU3
+## Axis High University 3rd Visit - AxisHiU3
 
 When you can, return upstairs and enter the stairs at the fountain.
 Follow the path to fight SEC again, who has a Shadow Machop. SEC in the
@@ -20870,8 +20870,8 @@ next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow
 the path. On the left side of the area, you’ll be able to grab a
 *Nightmare Fuel.*
 
-Head up – it’s time to fight illusions. You get relationship points
-depending on if you’re right – choosing Erick 2 grants (+6 Erick),
+Head up - it’s time to fight illusions. You get relationship points
+depending on if you’re right - choosing Erick 2 grants (+6 Erick),
 choosing Erick 1 grants (-4 Erick). Choosing Aelita 2 grants (-4 Aelita)
 and will open you up to one more question:
 
@@ -21207,7 +21207,7 @@ alt="A picture containing electronics, computer Description automatically genera
 Follow the path up. After this scene is over, head back out and down to
 Saki’s gym!
 
-## Forgery Badge – Badge15
+## Forgery Badge - Badge15
 
 Axis Factory
 
@@ -21446,7 +21446,7 @@ Relationship Point Choices:
 Then enter the leftmost room to talk to everyone else. We did it! Only
 side quests remain, for now.
 
-## Post V13 Items – PV13It1
+## Post V13 Items - PV13It1
 
 Return to the Gearen Lab and show your Aevian Litwick to Zumi, who’ll
 reward you with *Exp. Candy L* and MegaStone *Manectite.* That’s the end
@@ -21507,7 +21507,7 @@ as much as possible, read on. Thanks for reading.
 
 # Appendices
 
-## Complete the V13 Dex – V13Dex1
+## Complete the V13 Dex - V13Dex1
 
 While you wait for the next episode, if you’d like, you can fill your
 dex as much as possible. Note that I assume everything in bold above has
@@ -21517,7 +21517,7 @@ must evolve/breed in V13 that we haven’t already done so for a quest.
 The best place to post up for battles is the Route 9 grinder. Lead with
 a Ghost/Fighting type and go nuts, you’ll get Exp. Candy for winning.
 Friendship berries are available at Maman’s Camp. As for item evolutions
-– they’re all available in the Shopping District.
+- they’re all available in the Shopping District.
 
 ### Must Breed 
 
@@ -21758,7 +21758,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Alolan Marowak**|28, Nighttime|
 |**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock|
 
-## V13 Unobtainable Pokemon – V13Unob1
+## V13 Unobtainable Pokemon - V13Unob1
 
 \* Unless chosen as starter
 
@@ -21914,7 +21914,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Zapdos**
 - **Galarian Moltres**
 
-## Pickup Table – PickUp1
+## Pickup Table - PickUp1
 
 <table style="width:100%;">
 <!-- <colgroup>
@@ -22201,7 +22201,7 @@ style="width:0.3in;height:0.3in" /></td>
 </tbody>
 </table>
 
-## Crest Descriptions – CrestD1
+## Crest Descriptions - CrestD1
 
 This section is a quick lookup to help you combat enemy Pokemon with
 crests.
