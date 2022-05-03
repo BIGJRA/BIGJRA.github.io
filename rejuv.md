@@ -19,7 +19,7 @@ contribute pull requests to the site yourself: message me on Discord.
 Use CTRL + F to find a specific section. I also oriented this guide as
 such that CTRL + F will work for T.M. Names, certain items, Zygarde
 cells, tutors, Pokémon Locations, and more!
-<!--
+<!---
 
 # Table of Contents
 
@@ -22160,7 +22160,7 @@ style="width:0.3in;height:0.3in" /></td>
 </tr>
 </tbody>
 </table>
--->
+--->
 
 ## Crest Descriptions - CrestD1
 
