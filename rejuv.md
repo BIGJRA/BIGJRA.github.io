@@ -50,27 +50,27 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-poisonheart-badge---badge01">PoisonHeart Badge - Badge01 </a>
     -   <a href="#post-gym-quests---egear3"
         id="toc-post-gym-quests---egear3">Post-Gym Quests - EGear3</a>
-        -   <a href="#hquest-1:-help-starly"
-            id="toc-hquest-1:-help-starly">HQuest 1: Help Starly</a>
-        -   <a href="#hquest-2:-missing-mother"
-            id="toc-hquest-2:-missing-mother">HQuest 2: Missing Mother</a>
-        -   <a href="#hquest-3:-hidden-library"
-            id="toc-hquest-3:-hidden-library">HQuest 3: Hidden Library</a>
-        -   <a href="#hquest-4:-love-letter"
-            id="toc-hquest-4:-love-letter">HQuest 4: Love Letter</a>
-        -   <a href="#hquest-5:-dangerous-pokemon"
-            id="toc-hquest-5:-dangerous-pokemon">HQuest 5: Dangerous Pokemon</a>
-        -   <a href="#hquest-6:-battle-me"
-            id="toc-hquest-6:-battle-me">HQuest 6: Battle Me!</a>
-        -   <a href="#hquest-7:-wretched-music"
-            id="toc-hquest-7:-wretched-music">HQuest 7: Wretched Music!</a>
+        -   <a href="#hquest-1-help-starly"
+            id="toc-hquest-1-help-starly">HQuest 1: Help Starly</a>
+        -   <a href="#hquest-2-missing-mother"
+            id="toc-hquest-2-missing-mother">HQuest 2: Missing Mother</a>
+        -   <a href="#hquest-3-hidden-library"
+            id="toc-hquest-3-hidden-library">HQuest 3: Hidden Library</a>
+        -   <a href="#hquest-4-love-letter"
+            id="toc-hquest-4-love-letter">HQuest 4: Love Letter</a>
+        -   <a href="#hquest-5-dangerous-pokemon"
+            id="toc-hquest-5-dangerous-pokemon">HQuest 5: Dangerous Pokemon</a>
+        -   <a href="#hquest-6-battle-me"
+            id="toc-hquest-6-battle-me">HQuest 6: Battle Me!</a>
+        -   <a href="#hquest-7-wretched-music"
+            id="toc-hquest-7-wretched-music">HQuest 7: Wretched Music!</a>
     -   <a href="#route-1-and-goldenwood-forest---rt1gf1"
         id="toc-route-1-and-goldenwood-forest---rt1gf1">Route 1 and Goldenwood
         Forest - Rt1GF1</a>
     -   <a href="#goldenwood-xen-attack---gwxen1"
         id="toc-goldenwood-xen-attack---gwxen1">Goldenwood Xen Attack -
         GWXen1</a>
--   <a href="#chapter-2-redemption" id="toc-chapter-2-redemption">Chapter 2:
+-   <a href="#chapter-2-redemption" id="toc-chapter-2-redemption">Chapter 2
     Redemption</a>
     -   <a href="#junction-bridge---jbridg1"
         id="toc-junction-bridge---jbridg1">Junction Bridge - JBridg1</a>
@@ -92,12 +92,12 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#diamond-punch-badge---badge02"
         id="toc-diamond-punch-badge---badge02">Diamond Punch Badge - Badge02</a>
 -   <a href="#chapter-3-tainted-light"
-    id="toc-chapter-3-tainted-light">Chapter 3: Tainted Light</a>
+    id="toc-chapter-3-tainted-light">Chapter 3 Tainted Light</a>
     -   <a href="#sewers-visit-2---sewer2"
         id="toc-sewers-visit-2---sewer2">Sewers Visit 2 - Sewer2</a>
     -   <a href="#normality-badge---badge03"
         id="toc-normality-badge---badge03">Normality Badge - Badge03</a>
--   <a href="#chapter-4-isolation" id="toc-chapter-4-isolation">Chapter 4:
+-   <a href="#chapter-4-isolation" id="toc-chapter-4-isolation">Chapter 4
     Isolation</a>
     -   <a href="#badge-quests---3bquest1" id="toc-badge-quests---3bquest1">3
         Badge Quests - 3BQuest1</a>
@@ -115,7 +115,7 @@ cells, tutors, Pokémon Locations, and more!
         Woods - MWoods1</a>
     -   <a href="#phantasm-badge---badge04"
         id="toc-phantasm-badge---badge04">Phantasm Badge - Badge04</a>
--   <a href="#chapter-5-imprisoned" id="toc-chapter-5-imprisoned">Chapter 5:
+-   <a href="#chapter-5-imprisoned" id="toc-chapter-5-imprisoned">Chapter 5
     Imprisoned</a>
     -   <a href="#wispy-ruins---wruins1" id="toc-wispy-ruins---wruins1">Wispy
         Ruins - WRuins1</a>
