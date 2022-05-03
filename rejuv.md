@@ -21914,7 +21914,7 @@ Wispy Ruins|
 
 <table style="width:100%;">
 <colgroup>
-<col style="width: 12%" />
+<col style="width: 20%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
@@ -22099,7 +22099,7 @@ style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image120.png"
 style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image121.png"
-style="width:0.3;height:0.3" /></td>
+style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image122.png"
 style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image125.png"
