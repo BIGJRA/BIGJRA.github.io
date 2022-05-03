@@ -1,3 +1,1 @@
-*Hello World*
-
-I'm hosted with GitHub Pages.
+Welcome to the site.
