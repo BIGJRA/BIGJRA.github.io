@@ -589,6 +589,7 @@ bars during important cutscenes if you want. Talk to the girl behind the
 counter to buy some basic products:
 
 <u>Gearen Lab Shop</u>:
+
 |Item|Price|
 |---|---|
 |*Poke Ball*|$200|
@@ -682,9 +683,9 @@ explore Aevium there are many!
 Patches of grass around Gearen City have opened, so consider catching
 some Pokémon to assist your starter.
 
-Left East Gearen City
+<u>Left East Gearen City</u>
 
-| Grass: Morning        | %        |Grass: Day         | %        | Grass: Night</u>     | %        |
+| Grass: Morning        | %        |Grass: Day         | %        | Grass: Night    | %        |
 |-----------------------|----------|-------------------|----------|----------------------|----------|
 | **Rattata (Alolan)**  | 30       | **Bidoof**        | 30       | **Rattata (Alolan)** | 30       |
 | **Wurmple**           | 25       | **Wurmple**       | 25       | **Wurmple**          | 25       |
@@ -799,11 +800,10 @@ F** is at level 5.
 
 You’ll see grass around this part of the city too, with more Pokémon.
 
-Right East Gearen City
+<u>Right East Gearen City</u>
 
-|                       |          |                   |          |                     |          |
+| Grass: Morning        | %        | Grass: Day        | %        | Grass: Night        | %        |
 |-----------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
 | Rattata (Alolan)      | 30       | Bidoof            | 30       | Rattata (Alolan)    | 30       |
 | **Paras**             | 28       | **Paras**         | 28       | **Jigglypuff**      | 28       |
 | Patrat                | 25       | Patrat            | 25       | Poochyena           | 25       |
@@ -830,36 +830,33 @@ you run out. We aren’t going to need any Reverse Candies in this game
 beyond the ones we find since the level cap is a hard cap unless you use
 Rare Candies to go over it.
 
-<u>East Gearen Market - Top Left Vendor</u>
+<u>East Gearen Market Shop: Top Left Vendor</u>
 
-*Poke Ball* $200
+|Item           |Price      |   
+| ---           | ---       |
+|*Poke Ball*    |$200       |
+|*Potion*       |$300       |
+|*GourmetTreat* |$1500      |
+|*Repel*        |$350       |
+|*Reverse Candy*|$50        |
 
-*Potion* $300
+<u>East Gearen Market Shop: Bottom Left Vendor</u>
 
-*GourmetTreat* $1500
+|Item           |Price      |   
+| ---           | ---       |
+|*Burn Heal*    |$250       |
+|*Ice Heal*     |$250       |
+|*Antidote*     |$100       |
+|*Awakening*    |$250       |
+|*Paralyze Heal*|$200       |
 
-*Repel* $350
-
-*Reverse Candy* $50
-
-<u>East Gearen Market - Bottom Left Vendor</u>
-
-*Burn Heal* $250
-
-*Ice Heal* $250
-
-*Antidote* $100
-
-*Awakening* $250
-
-*Paralyze Heal* $200
-
-<u>East Gearen Market -- Bottom-right Vendor (Only available Weekdays,
+<u>East Gearen Market Shop: Bottom-right Vendor (Only available Weekdays,
 during the daytime)</u>
 
-*Reverse Candy* $50
-
-*Soda Pop* $300
+|Item           |Price      |
+|---------------|-----------|
+|*Reverse Candy*|$50        |
+|*Soda Pop*     |$300       |
 
 If you talk to the vendor on the top right, he’ll attempt to sell you
 Poke Ball’s at $400 each. While this may seem like a rip-off, once you
@@ -870,23 +867,25 @@ few shops open for business.
 
 <u>Berry Emporium Shop</u>
 
-*Oran Berry* $200
-
-*Pecha Berry* $300
+|Item           |Price      |
+|---------------|-----------|
+|*Oran Berry*---|$200       |
+|*Pecha Berry*  |$300       |
 
 You can pick up a few of each berry for the gym.
 
 <u>Poke Ball Emporium Shop</u>
 
-*Heavy Ball* $300
+|Item           |Price      |
+|---------------|-----------|
+|*Heavy Ball*   |$300       |
+|*Moon Ball*    |$300       |
 
-*Moon Ball* $300
-
-The Heavy Ball won’t find much use for this beginning portion of the
+The Heavy Ball won’t be too useful for the beginning portion of the
 game. If you haven’t captured Jigglypuff or done the Nidoran events,
-Moon Balls can be useful, but normal balls will do fine anyways. The
-right vendor is currently not in business due to an unfulfilled help
-quest, which we’ll get to later.
+Moon Balls can be extra useful, but the cheaper, normal balls also 
+work fine. The right vendor is currently not in business due to an 
+unfulfilled help quest, which we’ll get to later.
 
 Heading down a street, three tiles east and one down from the bicycle
 shop door you’ll find a *Pretty Wing.* In a park to the right, two tiles
@@ -21882,9 +21881,9 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Moltres**
 
 ## Pickup Table - PickUp1
-
-<table> <!-- style="width:100%; "-->
-<!-- <colgroup>
+<!--
+<table>  style="width:100%; "
+<colgroup>
 <col style="width: 20%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
@@ -21897,7 +21896,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 <col style="width: 8%" />
 <col style="width: 8%" />
 <col style="width: 8%" />
-</colgroup> -->
+</colgroup>
 <thead>
 <tr class="header">
 <th>Lv.</th>
@@ -22167,6 +22166,7 @@ style="width:0.3in;height:0.3in" /></td>
 </tr>
 </tbody>
 </table>
+-->
 
 ## Crest Descriptions - CrestD1
 
