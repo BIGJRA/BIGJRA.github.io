@@ -21758,157 +21758,157 @@ Wispy Ruins|
 
 \* Unless chosen as starter
 
-\*\* Unless randomly selected as mystery egg
+\*\* Unless randomly selected as mystery egg 
 
--**Magikarp**
--**Gyarados**
--**Dratini**
--**Dragonair**
--**Dragonite**
--**Togepi\*\***
--**Togetic\*\***
--**Larvitar**
--**Pupitar**
--**Tyranitar**
--**Torchic\***
--**Combusken\***
--**Blaziken\***
--**Bagon**
--**Shelgon**
--**Salamence**
--**Chimchar\***
--**Monferno\***
--**Infernape\***
--**Togekiss\*\***
--**Snivy\***
--**Servine\***
--**Serperior\***
--**Drilbur**
--**Excadrill**
--**Ferroseed**
--**Ferrothorn**
--**Honedge**
--**Doublade**
--**Aegislash**
--**Hawlucha**
--**Jangmo’o**
--**Hakamo’o**
--**Kommo’o**
--**Grookey\***
--**Thwackey\***
--**Rillaboom\***
--**Scorbunny\***
--**Raboot\***
--**Cinderace\***
--**Rookidee\*\***
--**Corvisquire\*\***
--**Corviknight\*\***
--**Eiscue**
--**Dracozolt**
--**Arctozolt**
--**Dracovish**
--**Arctovish**
--**Duraludon**
--**Dreepy**
--**Drakloak**
--**Dragapult**
--**Galarian Slowpoke**
--**Galarian Slowbro**
--**Galarian Slowking**
--**Galarian Darumaka**
--**Galarian Darmanitan**
+- **Magikarp**
+- **Gyarados**
+- **Dratini**
+- **Dragonair**
+- **Dragonite**
+- **Togepi\*\***
+- **Togetic\*\***
+- **Larvitar**
+- **Pupitar**
+- **Tyranitar**
+- **Torchic\***
+- **Combusken\***
+- **Blaziken\***
+- **Bagon**
+- **Shelgon**
+- **Salamence**
+- **Chimchar\***
+- **Monferno\***
+- **Infernape\***
+- **Togekiss\*\***
+- **Snivy\***
+- **Servine\***
+- **Serperior\***
+- **Drilbur**
+- **Excadrill**
+- **Ferroseed**
+- **Ferrothorn**
+- **Honedge**
+- **Doublade**
+- **Aegislash**
+- **Hawlucha**
+- **Jangmo’o**
+- **Hakamo’o**
+- **Kommo’o**
+- **Grookey\***
+- **Thwackey\***
+- **Rillaboom\***
+- **Scorbunny\***
+- **Raboot\***
+- **Cinderace\***
+- **Rookidee\*\***
+- **Corvisquire\*\***
+- **Corviknight\*\***
+- **Eiscue**
+- **Dracozolt**
+- **Arctozolt**
+- **Dracovish**
+- **Arctovish**
+- **Duraludon**
+- **Dreepy**
+- **Drakloak**
+- **Dragapult**
+- **Galarian Slowpoke**
+- **Galarian Slowbro**
+- **Galarian Slowking**
+- **Galarian Darumaka**
+- **Galarian Darmanitan**
 
--**Articuno**
--**Zapdos**
--**Moltres**
--**Mewtwo**
--**Mew**
--**Raikou**
--**Entei**
--**Suicune**
--**Lugia**
--**Ho-oh**
--**Celebi**
--**Regirock**
--**Regice**
--**Registeel**
--**Latias**
--**Latios**
--**Kyogre**
--**Groudon**
--**Rayquaza**
--**Jirachi**
--**Deoxys**
--**Uxie**
--**Mesprit**
--**Azelf**
--**Dialga**
--**Palkia**
--**Regigigas**
--**Heatran**
--**Giratina**
--**Cresselia**
--**Manaphy**
--**Darkrai**
--**Shaymin**
--**Arceus**
--**Victini**
--**Cobalion**
--**Virizion**
--**Terrakion**
--**Tornadus**
--**Thundurus**
--**Reshiram**
--**Zekrom**
--**Landorus**
--**Kyurem**
--**Keldeo**
--**Meloetta**
--**Genesect**
--**Xerneas**
--**Yveltal**
--**Diancie**
--**Hoopa**
--**Volcanion**
--**Tapu Koko**
--**Tapu Lele**
--**Tapu Bulu**
--**Tapu Fini**
--**Cosmog**
--**Cosmoem**
--**Solgaleo**
--**Lunala**
--**Nihilego**
--**Buzzwole**
--**Pheromosa**
--**Xurkitree**
--**Celesteela**  
--**Kartana**
--**Guzzlord**
--**Necrozma**
--**Magearna**
--**Marshadow**
--**Poipole**
--**Naganadel**
--**Stakataka**
--**Blacephalon**
--**Zeraora**
--**Meltan**  
--**Melmetal**
--**Zacian**
--**Zamazenta**
--**Eternatus**
--**Kubfu**
--**Urshifu**
--**Zarude**
--**Regieleki**
--**Regidrago**
--**Glastrier**
--**Spectrier**
--**Calyrex**
--**Galarian Articuno**
--**Galarian Zapdos**
--**Galarian Moltres**
+- **Articuno**
+- **Zapdos**
+- **Moltres**
+- **Mewtwo**
+- **Mew**
+- **Raikou**
+- **Entei**
+- **Suicune**
+- **Lugia**
+- **Ho-oh**
+- **Celebi**
+- **Regirock**
+- **Regice**
+- **Registeel**
+- **Latias**
+- **Latios**
+- **Kyogre**
+- **Groudon**
+- **Rayquaza**
+- **Jirachi**
+- **Deoxys**
+- **Uxie**
+- **Mesprit**
+- **Azelf**
+- **Dialga**
+- **Palkia**
+- **Regigigas**
+- **Heatran**
+- **Giratina**
+- **Cresselia**
+- **Manaphy**
+- **Darkrai**
+- **Shaymin**
+- **Arceus**
+- **Victini**
+- **Cobalion**
+- **Virizion**
+- **Terrakion**
+- **Tornadus**
+- **Thundurus**
+- **Reshiram**
+- **Zekrom**
+- **Landorus**
+- **Kyurem**
+- **Keldeo**
+- **Meloetta**
+- **Genesect**
+- **Xerneas**
+- **Yveltal**
+- **Diancie**
+- **Hoopa**
+- **Volcanion**
+- **Tapu Koko**
+- **Tapu Lele**
+- **Tapu Bulu**
+- **Tapu Fini**
+- **Cosmog**
+- **Cosmoem**
+- **Solgaleo**
+- **Lunala**
+- **Nihilego**
+- **Buzzwole**
+- **Pheromosa**
+- **Xurkitree**
+- **Celesteela**  
+- **Kartana**
+- **Guzzlord**
+- **Necrozma**
+- **Magearna**
+- **Marshadow**
+- **Poipole**
+- **Naganadel**
+- **Stakataka**
+- **Blacephalon**
+- **Zeraora**
+- **Meltan**  
+- **Melmetal**
+- **Zacian**
+- **Zamazenta**
+- **Eternatus**
+- **Kubfu**
+- **Urshifu**
+- **Zarude**
+- **Regieleki**
+- **Regidrago**
+- **Glastrier**
+- **Spectrier**
+- **Calyrex**
+- **Galarian Articuno**
+- **Galarian Zapdos**
+- **Galarian Moltres**
 
 ## Pickup Table – PickUp1
 
