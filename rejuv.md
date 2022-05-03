@@ -19,6 +19,7 @@ contribute pull requests to the site yourself: message me on Discord.
 Use CTRL + F to find a specific section. I also oriented this guide as
 such that CTRL + F will work for T.M. Names, certain items, Zygarde
 cells, tutors, Pokémon Locations, and more!
+<!--
 
 # Table of Contents
 
@@ -8913,8 +8914,6 @@ style="width:6.54167in;height:4.91139in" />
     Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5
     to get **Slowpoke.**
 
-<!-- -->
-
 -   While we’re up on Route 5, Rock Climb here to get a *Adamant Mint,*
     and access to Jeminra Cave but without the need for Safari Balls.
     Grab the *TM144 Cross Poison* inside.
@@ -14062,8 +14061,6 @@ choices.
 -   Once you emerge victorious, talk to Looker and Anabel on 36F to get
     the *Rift Notes.*
 
-<!-- -->
-
 -   Return to the help center to get $25,000 and the third Department
     Store Stamp!
 
@@ -14461,8 +14458,6 @@ If you’ve already done part 1:
 
 -   Head over to the Hospital of Hope and enter the door on the left
     side. Talk to the nurse and the cop.
-
-<!-- -->
 
 -   Head outside and talk to Ana in front of the HOH. Head south to
     enter the Pokémon hospital. Enter the first door.
@@ -15299,8 +15294,6 @@ Sashila Village, on the left side.
 -   In the Voidal Chasm, pick up the shiny object on B2F.
 
 -   Return to Marten, then meet him in Hyu’ro’s house.
-
-<!-- -->
 
 -   Enter Sashila’s research room by going up, surfing left, and down.
     Talk to Marten at the top.
@@ -21881,6 +21874,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Moltres**
 
 ## Pickup Table - PickUp1
+-->
 <!--
 <table>  style="width:100%; "
 <colgroup>
