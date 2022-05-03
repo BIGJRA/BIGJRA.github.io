@@ -588,14 +588,14 @@ The guy running in place on the left will offer to give you cinematic
 bars during important cutscenes if you want. Talk to the girl behind the
 counter to buy some basic products:
 
-<u>Gearen Lab Shop</u>:
+Gearen Lab Shop
 
-|Item|Price|
-|---|---|
-|*Poke Ball*|$200|
-|*Potion*|$300|
-|*Repel*|$350|
-|*Antidote*|$100|
+|Item       |Price  |
+|-----------|-------|
+|*Poke Ball*|$200   |
+|*Potion*   |$300   |
+|*Repel*    |$350   |
+|*Antidote* |$100   |
 
 You start with $1,500. I recommend picking up at least a few Poke balls
 to catch some team members soon, as a full team is almost necessary to
@@ -608,7 +608,7 @@ Professor Jenner. You’ll then get to pick a starter Pokémon by
 interacting with it. If you talk to the rainbow-colored machine on the
 right side, it will randomly choose for you among the 24 starters.
 
-<u>Starter Choices (Pick ONE)</u>:
+Starter Choices (Pick ONE):
 
 - **Bulbasaur**
 - **Charmander**
@@ -648,7 +648,7 @@ rate is increased to a little over 1/100.
 Anyways, once you’ve picked your starter, head west for a battle with
 Aevium Scout Amanda! You can win or lose this battle.
 
-<u>League Scout Amanda (No Field)</u>
+League Scout Amanda (No Field)
 
 -   Hatenna, Level 5.
     -   Tackle
@@ -659,7 +659,7 @@ Pokemon, as well as the weather / field / move effects in play to aid
 you in your fights. After the battle, she’ll give you *5 Poke Balls.*
 Head to talk to Jenner and you’ll fight:
 
-<u>Pokemon Trainer Ren (No Field)</u>
+Pokemon Trainer Ren (No Field)
 
 -   Froakie, Level 5.
     -   Pound
@@ -683,16 +683,16 @@ explore Aevium there are many!
 Patches of grass around Gearen City have opened, so consider catching
 some Pokémon to assist your starter.
 
-<u>Left East Gearen City</u>
+Left East Gearen City
 
-| Grass: Morning        | %        |Grass: Day         | %        | Grass: Night    | %        |
-|-----------------------|----------|-------------------|----------|----------------------|----------|
-| **Rattata (Alolan)**  | 30       | **Bidoof**        | 30       | **Rattata (Alolan)** | 30       |
-| **Wurmple**           | 25       | **Wurmple**       | 25       | **Wurmple**          | 25       |
-| **Pidgey**            | 15       | **Pidove**        | 15       | **Poochyena**        | 15       |
-| **Patrat**            | 15       | **Patrat**        | 15       | **Hoothoot**         | 15       |
-| **Bellsprout**        | 10       | **Bellsprout**    | 10       | **Oddish**           | 10       |
-| **Sunkern**           | 5        | **Sunkern**       | 5        | **Chingling**        | 5        |
+| Grass: Morning        | %    |Grass: Day     | %    | Grass: Night         | %    |
+|-----------------------|------|---------------|------|----------------------|------|
+| **Rattata (Alolan)**  | 30   | **Bidoof**    | 30   | **Rattata (Alolan)** | 30   |
+| **Wurmple**           | 25   | **Wurmple**   | 25   | **Wurmple**          | 25   |
+| **Pidgey**            | 15   | **Pidove**    | 15   | **Poochyena**        | 15   |
+| **Patrat**            | 15   | **Patrat**    | 15   | **Hoothoot**         | 15   |
+| **Bellsprout**        | 10   | **Bellsprout**| 10   | **Oddish**           | 10   |
+| **Sunkern**           | 5    | **Sunkern**   | 5    | **Chingling**        | 5    |
 
 Chingling can help in the fight against the gym dramatically, especially
 if you manage to evolve it. However, it is rare-ish here and can be
@@ -760,13 +760,13 @@ glasses you can use the shards hidden around the map for tutor moves.
 These aren’t very useful, but you can get them for your Pokémon if you
 want to.
 
-<u>Library Move Tutor</u>
+Library Move Tutor
 
-|Move|Price|
-|---|---|
-|Bind |1 Red Shard|
-|Covet |1 Blue Shard|
-|Helping Hand |1 Yellow Shard|
+|Move           |Price          |
+|---------------|---------------|
+|Bind           |1 Red Shard    |
+|Covet          |1 Blue Shard   |
+|Helping Hand   |1 Yellow Shard |
 
 The building on the left of the library is the Gearen Help Center. We’ll
 be returning here later.
@@ -800,15 +800,15 @@ F** is at level 5.
 
 You’ll see grass around this part of the city too, with more Pokémon.
 
-<u>Right East Gearen City</u>
+Right East Gearen City
 
-| Grass: Morning        | %        | Grass: Day        | %        | Grass: Night        | %        |
-|-----------------------|----------|-------------------|----------|---------------------|----------|
-| Rattata (Alolan)      | 30       | Bidoof            | 30       | Rattata (Alolan)    | 30       |
-| **Paras**             | 28       | **Paras**         | 28       | **Jigglypuff**      | 28       |
-| Patrat                | 25       | Patrat            | 25       | Poochyena           | 25       |
-| Pidgey                | 15       | Pidove            | 15       | Hoothoot            | 15       |
-| **Klink**             | 2        | **Klink**         | 2        | **Klink**           | 2        |
+| Grass: Morning    | %    | Grass: Day    | %    | Grass: Night    | %    |
+|-------------------|------|---------------|------|-----------------|------|
+| Rattata (Alolan)  | 30   | Bidoof        | 30   | Rattata (Alolan)| 30   |
+| **Paras**         | 28   | **Paras**     | 28   | **Jigglypuff**  | 28   |
+| Patrat            | 25   | Patrat        | 25   | Poochyena       | 25   |
+| Pidgey            | 15   | Pidove        | 15   | Hoothoot        | 15   |
+| **Klink**         | 2    | **Klink**     | 2    | **Klink**       | 2    |
 
 Catch a Female Jigglypuff to breed later.
 
@@ -830,28 +830,30 @@ you run out. We aren’t going to need any Reverse Candies in this game
 beyond the ones we find since the level cap is a hard cap unless you use
 Rare Candies to go over it.
 
-<u>East Gearen Market Shop: Top Left Vendor</u>
+East Gearen Market Shop: Top-left Vendor
+
+|Item           |Price  |   
+|---------------|-------|
+|*Poke Ball*    |$200   |
+|*Potion*       |$300   |
+|*GourmetTreat* |$1500  |
+|*Repel*        |$350   |
+|*Reverse Candy*|$50    |
+
+East Gearen Market Shop: Bottom-left Vendor
 
 |Item           |Price      |   
-| ---           | ---       |
-|*Poke Ball*    |$200       |
-|*Potion*       |$300       |
-|*GourmetTreat* |$1500      |
-|*Repel*        |$350       |
-|*Reverse Candy*|$50        |
-
-<u>East Gearen Market Shop: Bottom Left Vendor</u>
-
-|Item           |Price      |   
-| ---           | ---       |
+|---------------|-----------|
 |*Burn Heal*    |$250       |
 |*Ice Heal*     |$250       |
 |*Antidote*     |$100       |
 |*Awakening*    |$250       |
 |*Paralyze Heal*|$200       |
 
-<u>East Gearen Market Shop: Bottom-right Vendor (Only available Weekdays,
-during the daytime)</u>
+
+Only during the daytime on weekdays there is one more vendor:
+
+East Gearen Market Shop: Bottom-right Vendor
 
 |Item           |Price      |
 |---------------|-----------|
@@ -865,7 +867,7 @@ buy four, he’ll give you a **Voltorb!**
 If you enter the Shopping Emporium above the market vendors, there are a
 few shops open for business.
 
-<u>Berry Emporium Shop</u>
+Berry Emporium Shop
 
 |Item           |Price      |
 |---------------|-----------|
@@ -874,7 +876,7 @@ few shops open for business.
 
 You can pick up a few of each berry for the gym.
 
-<u>Poke Ball Emporium Shop</u>
+Poke Ball Emporium Shop
 
 |Item           |Price      |
 |---------------|-----------|
@@ -933,57 +935,35 @@ isn’t that necessary anymore in this game since there are lots of
 grinding options available. Anyways, talk to the girl on the right side
 to get an *Achievement Card.*
 
-<u>AP Shop</u>
+AP Shop
 
-*Adamant Mint* 3 AP
-
-*Jolly Mint* 3 AP
-
-*Brave Mint* 3 AP
-
-*Timid Mint* 3 AP
-
-*Modest Mint* 3 AP
-
-*Quiet Mint* 3 AP
-
-*Calm Mint* 3 AP
-
-*Bold Mint* 3 AP
-
-*PP Up* 6 AP
-
-*Golden Axe* 10 AP
-
-*Golden Hammer* 10 AP
-
-*Golden Surfboard* 15 AP
-
-*Golden Gauntlet* 15 AP
-
-*Golden Scuba Gear* 15 AP
-
-*Golden Wings* 20 AP
-
-*Golden Jetpack* 20 AP
-
-*Golden Drift Board* 20 AP
-
-*Golden Claws* 20 AP
-
-*Exp. All* 30 AP
-
-*HP Card* 10 AP
-
-*Atk Card* 10 AP
-
-*Def Card* 10 AP
-
-*Speed Card* 10 AP
-
-*Sp. Atk Card* 10 AP
-
-*Sp. Def Card* 10 AP
+|Item                   |Price  |
+|-----------------------|-------|
+|*Adamant Mint*         |3 AP   |
+|*Jolly Mint*           |3 AP   |
+|*Brave Mint*           |3 AP   |
+|*Timid Mint*           |3 AP   |
+|*Modest Mint*          |3 AP   |
+|*Quiet Mint*           |3 AP   |
+|*Calm Mint*            |3 AP   |
+|*Bold Mint*            |3 AP   |
+|*PP Up*                |6 AP   |
+|*Golden Axe*           |10 AP  |
+|*Golden Hammer*        |10 AP  |
+|*Golden Surfboard*     |15 AP  |
+|*Golden Gauntlet*      |15 AP  |
+|*Golden Scuba Gear*    |15 AP  |
+|*Golden Wings*         |20 AP  |
+|*Golden Jetpack*       |20 AP  |
+|*Golden Drift Board*   |20 AP  |
+|*Golden Claws*         |20 AP  |
+|*Exp. All*             |30 AP  |
+|*HP Card*              |10 AP  |
+|*Atk Card*             |10 AP  |
+|*Def Card*             |10 AP  |
+|*Speed Card*           |10 AP  |
+|*Sp. Atk Card*         |10 AP  |
+|*Sp. Def Card*         |10 AP  |
 
 I wouldn’t recommend buying any of the first nine items until you get
 everything else. Golden Items allow us to use HM’s without needing a
@@ -1015,9 +995,8 @@ There are Pokémon to encounter here.
 
 Chrisola Rooftop
 
-|                           |          |                     |          |
+| Grass: Morning/Day        | %        | Grass: Night        | %        |
 |---------------------------|----------|---------------------|----------|
-| <u>Grass: Morning/Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
 | **Skitty**                | 44       | **Purrloin**        | 44       |
 | **Glameow**               | 24       | **Meowth**          | 24       |
 | **Caterpie**              | 20       | **Weedle**          | 20       |
@@ -1042,7 +1021,7 @@ Gearen Park (Grassy Terrain)
 
 |                       |          |                   |          |                     |          |
 |-----------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
 | **Pansage**           | 30       | **Pansear**       | 30       | **Panpour**         | 30       |
 | **Spearow**           | 30       | **Spearow**       | 30       | **Spearow**         | 30       |
 | **Skwovet**           | 15       | **Skwovet**       | 15       | **Stunky**          | 15       |
@@ -1088,7 +1067,7 @@ Abandoned Sewers
 
 |                  |          |                |          |
 |------------------|----------|----------------|----------|
-| <u>Cave:</u>     | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Cave:     | % | Old Rod | % |
 | Rattata (Alolan) | 30       | **Grimer**     | 100      |
 | **Trubbish**     | 20       |                |          |
 | Poochyena        | 15       |                |          |
@@ -1116,7 +1095,7 @@ Head back across the bridge, up and left to the generator room. Start
 the third, first, then second generator. Go back into the room Venam
 went into for a long cutscene and a battle.
 
-<u>Garbodor Garbage Crew (No field)</u>
+Garbodor Garbage Crew (No field)
 
 -   Trubbish, Level 11.
 
@@ -1161,19 +1140,19 @@ not necessary to grab everything right now.
 Anyways, there’s a grand total of 120 coins along the ground in there,
 try to find them all. Otherwise, here’s what you can get here:
 
-<u>Coin Vendor</u>
+Coin Vendor
 
 50 Coins $1,000
 
 500 Coins $10,000
 
-<u>Left Vendor</u>
+Left Vendor
 
 *TM70 Flash* 1000 Coins
 
 *TM10 Hidden Power* 5000 Coins
 
-<u>Right Vendor</u>
+Right Vendor
 
 **Seel** 1000 Coins
 
@@ -1193,7 +1172,7 @@ The attendant on the left is the lotto corner lady, who’ll pick one
 number a day and check if it matches your Pokémon’s, like in the
 official games. The prizes are as follows:
 
-<u>Lotto Attendant</u>
+Lotto Attendant
 
 *Master Ball* 5 Matches
 
@@ -1265,7 +1244,7 @@ Gearen Alleyway
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | **Sentret**  | 30       |
 | Poochyena    | 20       |
 | **Rattata**  | 20       |
@@ -1278,7 +1257,7 @@ Well, that’s about it for that area, so clear your team, equip all the
 good items you can take advantage of (Oran and Pecha Berries work well
 here), and save.
 
-<u>Punk Girl Venam (Corrosive Field)</u>
+Punk Girl Venam (Corrosive Field)
 
 -   Trubbish, Level 12. @ Oran Berry.
 
@@ -1367,7 +1346,7 @@ right. As you have a badge, she’ll let you pass.
 Upstairs, you’ll find a Black Belt who will offer to teach more tutor
 moves for shards.
 
-<u>Library 2F Move Tutor</u>
+Library 2F Move Tutor
 
 Dual Chop 2 Yellow Shards
 
@@ -1394,7 +1373,7 @@ again and agree to help.
 
 Your first battle is against Falkner.
 
-<u>Gym Leader Falkner (Glitch Field)</u>
+Gym Leader Falkner (Glitch Field)
 
 -   Hoothoot, Level 11.
 
@@ -1421,7 +1400,7 @@ she needs for now, we’ll come back after we have two badges.
 One shop has updated inventory now that we have a badge. Head to the
 Shopping Emporium.
 
-<u>Poke Ball Emporium New Items (1 Badge)</u>
+Poke Ball Emporium New Items (1 Badge)
 
 *Love Ball* $300
 
@@ -1436,7 +1415,7 @@ quest to collect Zygarde cells. He’ll give you the *Gather Cube* to
 begin this quest. We will finish the help quests first, then get the
 cells.
 
-<u>HQuest 1: Help Starly</u>
+HQuest 1: Help Starly
 
 -   Start at Gearen Lab. Talk to the black-haired girl next to Nurse Joy
 
@@ -1449,7 +1428,7 @@ cells.
 -   Claim your reward at the help center: $890, and *Potions!* (+1
     Karma)
 
-<u>HQuest 2: Missing Mother</u>
+HQuest 2: Missing Mother
 
 -   Start at Petal Salon in the Shopping Emporium, talk to Sasha.
 
@@ -1474,7 +1453,7 @@ We can also go back to the Petal Salon for one free haircut, which
 boosts friendship. Helpful for friendship evolving Pokémon like
 Chingling. It will cost $1500 after the first can be done once a day.
 
-<u>HQuest 3: Hidden Library</u>
+HQuest 3: Hidden Library
 
 -   Start at Gearen Lab. Talk to the backpacker on the left side.
 
@@ -1490,7 +1469,7 @@ Chingling. It will cost $1500 after the first can be done once a day.
 -   Claim your reward at the help center: 5 *Great Balls* and *3 Timer
     Balls.* (+1 Karma)
 
-<u>HQuest 4: Love Letter</u>
+HQuest 4: Love Letter
 
 -   Start at Oceana Pier Gate: 2F. Talk to the man upstairs and get a
     *Love Letter.*
@@ -1503,7 +1482,7 @@ Chingling. It will cost $1500 after the first can be done once a day.
 
 -   Claim your reward at the help center: $350 and *Nugget!* (+1 Karma)
 
-<u>HQuest 5: Dangerous Pokémon</u>
+HQuest 5: Dangerous Pokémon
 
 -   Start at Oceana Pier, and head right. Make sure you have a good
     water or rock type or two.
@@ -1516,12 +1495,12 @@ Chingling. It will cost $1500 after the first can be done once a day.
 -   Claim your reward at the help center: $350 and *Super Potion!* (+1
     Karma)
 
-<u>HQuest 6: Battle Me</u>
+HQuest 6: Battle Me
 
 Start at Chrisola Hotel. Make sure you have a good team near or at the
 level cap and go to rooftop.
 
-<u>Wanderer Novae (No Field)</u>
+Wanderer Novae (No Field)
 
 -   Trumbeak, Level 16.
 
@@ -1588,12 +1567,12 @@ worry, you can come back later to finish this one.
 Anyways, all that’s left is to claim your reward at the help center --
 $350 and **Pichu!** (+1 Karma)
 
-<u>HQuest 7: Wretched Music!</u>
+HQuest 7: Wretched Music!
 
 -   Talk to the receptionist at the Chrisola Hotel and agree to go to
     the basement.
 
-<u>Dance Prodigy Rorim B</u>
+Dance Prodigy Rorim B
 
 -   Spinda, Level 15.
 
@@ -1687,7 +1666,7 @@ Route 1 (Forest Field)
 
 |                       |          |                     |          |                   |          |                |          |
 |-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
 | Caterpie              | 30       | **Scatterbug**      | 35       | Pidove            | 30       | **Finneon**    | 100      |
 | Sentret               | 29       | Pidove              | 30       | **Scatterbug**    | 30       |                |          |
 | Pidove                | 10       | Weedle              | 20       | **Deerling**      | 16       |                |          |
@@ -1723,7 +1702,7 @@ Goldenwood Forest (Forest Field)
 
 |              |          |                |          |
 |--------------|----------|----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass | % | Old Rod | % |
 | Poochyena    | 30       | Finneon        | 100      |
 | Sentret      | 24       |                |          |
 | Deerling     | 20       |                |          |
@@ -1740,7 +1719,7 @@ Goldenwood Cave (Cave Field)
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Geodude     | 49       |
 | Noibat      | 34       |
 | **Woobat**  | 15       |
@@ -1758,7 +1737,7 @@ left of the top of two red flowers on the right. Heading back to the
 top, the rock below Leavanny has a *Great Ball.* If you can, do the
 optional battle against Mars here.
 
-<u>Culvier Clan Mars</u>
+Culvier Clan Mars
 
 -   Sewaddle, Level 15. @ Light Clay.
 
@@ -1813,7 +1792,7 @@ Relationship Point Choices:
 
 She’ll then challenge you to a battle.
 
-<u>Pre-Leader Melia (Golden Forest field)</u>
+Pre-Leader Melia (Golden Forest field)
 
 -   Buneary, Level 15.
 
@@ -1876,7 +1855,7 @@ Pokémon if you talk to her. A grunt towards the bottom side of the lake
 will have a Shadow **Cacnea.** Head to the bottom part of the lake when
 you’re ready.
 
-<u>Team Xen Eli and Sharon (Golden Forest Field)</u>
+Team Xen Eli and Sharon (Golden Forest Field)
 
 -   Murkrow, Level 16.
 
@@ -1923,7 +1902,7 @@ format present in much of Rejuvenation. Murkrow is the hardest hitter,
 while you’ll have to be careful about the status spreading from Glameow
 and Stunky.
 
-<u>Team Xen Zetta (Golden Forest Field)</u>
+Team Xen Zetta (Golden Forest Field)
 
 -   Shadow **Snorunt** Level 14.
 
@@ -1976,7 +1955,7 @@ able to whittle it down.
 After witnessing a scene and going north, you’ll be able to fight Rift
 Gyarados.
 
-<u>Dimensional Rift Gyarados (Rift Field)</u>
+Dimensional Rift Gyarados (Rift Field)
 
 -   Rift Gyarados, Level 20. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 1 Shield.
@@ -2021,7 +2000,7 @@ Junction Bridge on the left side of the city, so accept fast travel.
 
 Head into the lab to battle Dr. Jenkel.
 
-<u>Mad Scientist Dr. Jenkel (Factory Field)</u>
+Mad Scientist Dr. Jenkel (Factory Field)
 
 -   Munna, Level 18. @ Elemental Seed.
 
@@ -2134,7 +2113,7 @@ Route 2
 
 |                       |          |                     |          |                   |          |                |          |
 |-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
 | Deerling              | 30       | **Swirlix**         | 30       | **Cherubi**       | 48       | Finneon        | 100      |
 | **Combee**            | 30       | Drowzee             | 20       | **Combee**        | 30       |                |          |
 | Spearow               | 19       | Oddish              | 15       | **Volbeat**       | 15       |                |          |
@@ -2160,7 +2139,7 @@ Route 2
 
 |                     |          |                      |          |                   |          |
 |---------------------|----------|----------------------|----------|-------------------|----------|
-| <u>Headbutt Low</u> | <u>%</u> | <u>Headbutt High</u> | <u>%</u> | <u>Rock Smash</u> | <u>%</u> |
+| Headbutt Low | % | Headbutt High | % | Rock Smash | % |
 | **Aipom**           | 55       | Caterpie             | 55       | Geodude           | 96       |
 | **Crabrawler**      | 20       | Weedle               | 30       | **Diglett**       | 4        |
 | **Pineco**          | 10       | **Pineco**           | 5        |                   |          |
@@ -2182,7 +2161,7 @@ later.
 If you talk to Kecleon, he’ll sell you stuff. We’ll be back for a side
 quest with him later.
 
-<u>Kecleon Market</u>
+Kecleon Market
 
 *Poke Ball* $200
 
@@ -2225,7 +2204,7 @@ Amethyst Cave (Crystal Cavern)
 
 |               |          |                |          |
 |---------------|----------|----------------|----------|
-| <u>Cave</u>   | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Cave   | % | Old Rod | % |
 | Woobat        | 40       | **Remoraid**   | 70       |
 | Geodude       | 34       | **Barboach**   | 30       |
 | **Sandshrew** | 15       |                |          |
@@ -2244,7 +2223,7 @@ Amethyst Depths (Crystal Cavern)
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Geodude     | 34       |
 | Chingling   | 30       |
 | Sandshrew   | 15       |
@@ -2275,7 +2254,7 @@ while you are here, we will activate 5 more for a quest later.
 Heal and save, then head up. Pick up the *Rift Dex* to learn about Rift
 Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
 
-<u>Dimensional Rift Galvantula</u>
+Dimensional Rift Galvantula
 
 -   Joltik, Level 22.
 
@@ -2370,7 +2349,7 @@ get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
 In the altered dimension, solve her difficult puzzles and prepare for a
 battle.
 
-<u>Apprentice Nim (Psychic Terrain)</u>
+Apprentice Nim (Psychic Terrain)
 
 -   Inkay, Level 20.
 
@@ -2445,10 +2424,10 @@ Sheridan Village (Forest Field)
 
 |                     |          |                           |          |                   |          |
 |---------------------|----------|---------------------------|----------|-------------------|----------|
-| <u>Grass: Night</u> | <u>%</u> | <u>Grass: Morning/Day</u> | <u>%</u> | <u>Old Rod</u>    | <u>%</u> |
+| Grass: Night | % | Grass: Morning/Day | % | Old Rod    | % |
 | **Zigzagoon**       | 30       | **Makuhita**              | 34       | **Goldeen**       | 70       |
 | Chingling           | 25       | **Zigzagoon**             | 30       | Finneon           | 30       |
-| Hoothoot            | 16       | Spearow                   | 15       | <u>Rock Smash</u> |          |
+| Hoothoot            | 16       | Spearow                   | 15       | Rock Smash |          |
 | **Makuhita**        | 10       | Kricketot                 | 15       | Geodude           | 96       |
 | **Dustox**          | 10       | **Kricketune**            | 5        | Diglett           | 4        |
 | Kricketot           | 5        | **Ledyba**                | 1        |                   |          |
@@ -2459,7 +2438,7 @@ later.
 
 Go left to enter the shop.
 
-<u>Sheridan Village Shop</u>
+Sheridan Village Shop
 
 *Poke Ball* $200
 
@@ -2484,8 +2463,8 @@ Talk to her to get a free *Moomoo Milk* sample, then her shop will open.
 Note that Berry Juice can be a pretty good hold item at this stage of
 the game.
 
-<u>Sheridan Village Drinks (Monday, Wednesday, Friday, Sunday Mornings
-Only) (1 Badge)</u>
+Sheridan Village Drinks (Monday, Wednesday, Friday, Sunday Mornings
+Only) (1 Badge)
 
 *Berry Juice* $100
 
@@ -2504,7 +2483,7 @@ a *Sweet Heart.* Talk to a girl in the first room on the left in the
 vertical hallway and take on her quest. The woman on the right in the
 hall will offer to teach you a few more moves for shards:
 
-<u>Sheridan Village Move Tutor</u>
+Sheridan Village Move Tutor
 
 Worry Seed 2 Red Shards
 
@@ -2544,10 +2523,10 @@ Sheridan Arena (Forest Field)
 
 |                     |          |                           |          |                   |          |
 |---------------------|----------|---------------------------|----------|-------------------|----------|
-| <u>Grass: Night</u> | <u>%</u> | <u>Grass: Morning/Day</u> | <u>%</u> | <u>Old Rod</u>    | <u>%</u> |
+| Grass: Night | % | Grass: Morning/Day | % | Old Rod    | % |
 | Zigzagoon           | 30       | Makuhita                  | 34       | Goldeen           | 70       |
 | Chingling           | 25       | Zigzagoon                 | 30       | Finneon           | 30       |
-| Hoothoot            | 16       | **Fletchinder**           | 15       | <u>Rock Smash</u> | <u>%</u> |
+| Hoothoot            | 16       | **Fletchinder**           | 15       | Rock Smash | % |
 | Makuhita            | 10       | Kricketot                 | 15       | Geodude           | 96       |
 | Dustox              | 10       | Kricketune                | 5        | Diglett           | 4        |
 | Kricketot           | 5        | Ledyba                    | 1        |                   |          |
@@ -2576,7 +2555,7 @@ Amethyst Grotto (No Field)
 
 |               |          |
 |---------------|----------|
-| <u>Grass</u>  | <u>%</u> |
+| Grass  | % |
 | **Dunsparce** | 36       |
 | Meowth        | 31       |
 | Jigglypuff    | 25       |
@@ -2597,7 +2576,7 @@ guy.
 Now is a good time to do the Sheridan Village Help Quests. The help
 center is in the upper right part of the village.
 
-<u>HQuest 8: The Hidden Library 2</u>
+HQuest 8: The Hidden Library 2
 
 -   Start outside the help center and talk to the backpacker.
 
@@ -2655,7 +2634,7 @@ style="width:6.66667in;height:5.04167in" />
 -   Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen
     Relationship Point)
 
-<u>HQuest 9: Stolen Cargo!</u>
+HQuest 9: Stolen Cargo!
 
 -   Use the trucker to get to Gearen City, then go to Oceana Pier. Head
     to the southeast, then follow the guy into the warehouse.
@@ -2675,7 +2654,7 @@ style="width:6.66667in;height:5.04167in" />
 -   Claim your reward: $950 and five *GourmetTreats*. (+1 Karma, +1
     Venam Relationship Point)
 
-<u>HQuest 10: Trade Me!</u>
+HQuest 10: Trade Me!
 
 -   First, grab one Aipom from your PC. If you didn’t get one yet, go to
     Route 2 and interact with them. Then go to Sheridan Arena.
@@ -2684,7 +2663,7 @@ style="width:6.66667in;height:5.04167in" />
 
 -   Claim your reward: $1,920 and *Rare Candy*! (+1 Karma)
 
-<u>HQuest 11: Fetch an Item!</u>
+HQuest 11: Fetch an Item!
 
 -   Start by heading through Amethyst Cave to Route 2.
 
@@ -2702,11 +2681,11 @@ style="width:6.66667in;height:5.04167in" />
 
 -   Claim your reward: $1890, Casteliacone! (+1 Karma)
 
-<u>HQuest 12: Battle Request 2</u>
+HQuest 12: Battle Request 2
 
 Prepare your team and talk to Novae at the inn at night.
 
-<u>Wanderer Novae and Dancer Rorim B (Forest Field)</u>
+Wanderer Novae and Dancer Rorim B (Forest Field)
 
 -   Charjabug, Level 24. @ Mental Herb.
 
@@ -2788,7 +2767,7 @@ Keta.
 
 As soon as you’re ready, talk to Aelita on the battlefield
 
-<u>Sensei Keta (Forest Field)</u>
+Sensei Keta (Forest Field)
 
 -   Combusken, Level 22. @ Charcoal.
 
@@ -2879,7 +2858,7 @@ Carotos Mountain (Volcano Field)
 
 |              |          |                |          |
 |--------------|----------|----------------|----------|
-| <u>Cave</u>  | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Cave  | % | Old Rod | % |
 | **Numel**    | 40       | **Numel**      | 70       |
 | **Slugma**   | 30       | **Slugma**     | 30       |
 | **Onix**     | 19       |                |          |
@@ -2928,7 +2907,7 @@ the walls.
 
 Head up, then up again. You’ll now have to fight Madelis.
 
-<u>Xen Executive Madelis (No Field)</u>
+Xen Executive Madelis (No Field)
 
 -   Floette, Level 22.
 
@@ -3011,7 +2990,7 @@ yet, so follow Aelita up and grab the *Rift Dex Info.*
 After a brief scene, you’ll be taken into a rift space. Talk to
 Volcanion and answer its question and the battle will begin!
 
-<u>Dimensional Rift Volcanion</u>
+Dimensional Rift Volcanion
 
 -   Volcanion, Level 23. @ Demon Stone. Ability: Water Absorb. Stat
     Spread: 110/60/80/90/200/20. 2 Shields.
@@ -3034,7 +3013,7 @@ Spring of Purification (Forest Field)
 
 |              |          |                         |          |
 |--------------|----------|-------------------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod/Good Rod</u> | <u>%</u> |
+| Grass | % | Old Rod/Good Rod | % |
 | Bellsprout   | 46       | Goldeen                 | 100      |
 | Zigzagoon    | 20       |                         |          |
 | Illumise     | 10       |                         |          |
@@ -3060,7 +3039,7 @@ party and run around, or use the Purify Chamber in the PC.
 One more thing we can do: head into the house in the bottom right of
 Sheridan. Gothitelle will battle us!
 
-<u>Crescent’s Gothitelle (No Field)</u>
+Crescent’s Gothitelle (No Field)
 
 -   Gothitelle, Level 32. @ Twisted Spoon.
 
@@ -3085,7 +3064,7 @@ Head back to Amethyst Grotto with a fully healed team.
 The Spirit of Keta will be able to give us a badge, so let’s challenge
 him.
 
-<u>Sensei Keta (No Field)</u>
+Sensei Keta (No Field)
 
 -   Larvesta, Level 22
 
@@ -3169,7 +3148,7 @@ Venam’s house contains a hidden *Repel.*
 
 Make your way to the sewers. Talk to Amanda for a battle.
 
-<u>Trainer Amanda</u>
+Trainer Amanda
 
 -   Bronzor, Level 24. @ Heat Rock.
 
@@ -3246,7 +3225,7 @@ Chrysalis Courtyard (Grassy Terrain)
 
 |                     |          |
 |---------------------|----------|
-| <u>Grass</u>        | <u>%</u> |
+| Grass        | % |
 | **Meowth (Alolan)** | 30       |
 | **Hoppip**          | 20       |
 | **Minun**           | 14       |
@@ -3289,7 +3268,7 @@ Relationship Point Choices:
 
 Afterwards you must fight a servant!
 
-<u>Servant Moya (Grassy Terrain)</u>
+Servant Moya (Grassy Terrain)
 
 -   Dusknoir, Level 35. @ Dusknoir Crest. 2 Shields.
 
@@ -3400,7 +3379,7 @@ breeder, and each time you win, you’ll get 5 *Exp. Candy S*.
 
 As soon as you’re ready, follow the path up from here.
 
-<u>Child of Light Marianette (Blessed Field)</u>
+Child of Light Marianette (Blessed Field)
 
 -   Delcatty, Level 29. @ Splash Plate.
 
@@ -3485,7 +3464,7 @@ Go talk to Shana in the Gearen Lab to continue the Johto quest. You’ll
 now have to fight Bugsy with the starter you picked and a few more
 Pokémon.
 
-<u>Gym Leader Bugsy (Glitch Field)</u>
+Gym Leader Bugsy (Glitch Field)
 
 -   Ariados, Level 14.
 
@@ -3520,7 +3499,7 @@ one simple on the Cyndaquil path. After this, you’ll get another
 The Poke Ball shop in Gearen has two new balls now, which can be useful
 for low catch rate water types like Basculin.
 
-<u>Poke Ball Emporium New Items (3 Badges)</u>
+Poke Ball Emporium New Items (3 Badges)
 
 *Nest Ball* $1,000
 
@@ -3528,7 +3507,7 @@ for low catch rate water types like Basculin.
 
 There’s also a few new berries now.
 
-<u>Berry Emporium New Items (3 Badges)</u>
+Berry Emporium New Items (3 Badges)
 
 *Rawst Berry* $300
 
@@ -3543,8 +3522,8 @@ forward.
 
 We can also get more drinks!
 
-<u>Sheridan Village Drinks New Items (Monday, Wednesday, Friday, Sunday
-Mornings Only) (3+ Badges)</u>
+Sheridan Village Drinks New Items (Monday, Wednesday, Friday, Sunday
+Mornings Only) (3+ Badges)
 
 *Lemonade* $350
 
@@ -3562,7 +3541,7 @@ Pom-Pom Meadow
 
 |                        |          |
 |------------------------|----------|
-| <u>Grass</u>           | <u>%</u> |
+| Grass           | % |
 | **Oricorio (Pom-Pom)** | 40       |
 | **Yungoos**            | 30       |
 | **Cutiefly**           | 12       |
@@ -3573,7 +3552,7 @@ Pom-Pom Meadow
 
 As soon as you’re ready, head to Route 3, west from Sheridan.
 
-<u>Route 3 Gate Shop</u>
+Route 3 Gate Shop
 
 *Poke Ball* $200
 
@@ -3588,7 +3567,7 @@ Talk to the guy in the trailer across the bridge. Since we have two
 virtual badges, he’ll offer the third leg of the quest -- we’re battling
 Whitney.
 
-<u>Gym Leader Whitney (Glitch Field)</u>
+Gym Leader Whitney (Glitch Field)
 
 -   Clefairy, Level 19.
 
@@ -3625,7 +3604,7 @@ Jigglypuff. After winning, you’ll get the third *Virtual Badge.*
 That’s not all, he’ll then offer you the next challenge, this time
 against Morty.
 
-<u>Gym Leader Morty (Glitch Field)</u>
+Gym Leader Morty (Glitch Field)
 
 -   Misdreavus, Level 22.
 
@@ -3684,7 +3663,7 @@ Route 3 North (Forest Field)
 
 |              |          |                |          |
 |--------------|----------|----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass | % | Old Rod | % |
 | **Yamper**   | 35       | **Wooper**     | 100      |
 | Fletchinder  | 30       |                |          |
 | **Herdier**  | 24       |                |          |
@@ -3707,7 +3686,7 @@ Relationship Point Choices:
 If you go with the first option, you’ll get *Vanilla, Chocolate,* or
 *Strawberry Ice Cream*.
 
-<u>Route 3 Left Vendor</u>
+Route 3 Left Vendor
 
 *Reverse Candy* $50
 
@@ -3726,7 +3705,7 @@ Spritzee from earlier. We’re also eventually (like, 3 or 4 more badges,
 but still) going to want 10 Sweet Hearts for a quest, so go ahead and
 get those.
 
-<u>Route 3 Upper Right Vendor</u>
+Route 3 Upper Right Vendor
 
 *Vanilla Ice Cream* $400
 
@@ -3754,7 +3733,7 @@ Route 3 South (Forest Field)
 
 |              |          |                |          |
 |--------------|----------|----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass | % | Old Rod | % |
 | **Nickit**   | 35       | Wooper         | 100      |
 | Fletchinder  | 30       |                |          |
 | Herdier      | 24       |                |          |
@@ -3781,7 +3760,7 @@ Phasial Cave Main Areas (Cave Field)
 
 |               |          |
 |---------------|----------|
-| <u>Cave</u>   | <u>%</u> |
+| Cave   | % |
 | Wooper        | 36       |
 | **Chewtle**   | 24       |
 | Meowth        | 20       |
@@ -3817,7 +3796,7 @@ Relationship Point Choices:
 
 When you’re ready talk to Aelita for a battle.
 
-<u>Student Aelita (Forest Field)</u>
+Student Aelita (Forest Field)
 
 -   Gligar, Level 28.
 
@@ -3886,7 +3865,7 @@ Goldenleaf Town (Forest Field)
 
 |                       |          |                   |          |                     |          |                |          |
 |-----------------------|----------|-------------------|----------|---------------------|----------|----------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night | % | Old Rod | % |
 | Meowth (Alolan)       | 40       | Meowth (Alolan)   | 40       | Drowzee             | 55       | Wooper         | 100      |
 | **Phanpy**            | 30       | Spoink            | 30       | **Pumpkaboo**       | 30       |                |          |
 | **Bunnelby**          | 15       | **Bunnelby**      | 15       | **Noctowl**         | 9        |                |          |
@@ -3898,7 +3877,7 @@ We need Drifloon for Zumi’s quest, later.
 
 The villager down from the gate here offers tutor moves.
 
-<u>Goldenleaf Town Move Tutor</u>
+Goldenleaf Town Move Tutor
 
 Spite 2 Yellow Shards
 
@@ -3918,7 +3897,7 @@ a *Super Potion* on it, the top right has an *Ability Capsule.* Cutting
 a tree to the left leads us to a hidden *Big Mushroom.* Finally, on the
 top hill of the town the rightmost blank space contains a *Rawst Berry.*
 
-<u>Goldenleaf Pokemart</u>
+Goldenleaf Pokemart
 
 *Great Ball* $600
 
@@ -3953,7 +3932,7 @@ Forgotten Path
 
 |                           |          |                   |          |                     |          |
 |---------------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning/Day</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning/Day | % | Grass: Day | % | Grass: Night | % |
 | Meowth (Alolan)           | 40       | Meowth (Alolan)   | 40       | Munna               | 40       |
 | Phanpy                    | 30       | Spoink            | 30       | Pumpkaboo           | 30       |
 | Bunnelby                  | 15       | Bunnelby          | 15       | Drowzee             | 15       |
@@ -3979,7 +3958,7 @@ Wispy Ruins
 
 |                       |          |
 |-----------------------|----------|
-| <u>Cave</u>           | <u>%</u> |
+| Cave           | % |
 | **Golett**            | 40       |
 | **Baltoy**            | 21       |
 | **Graveler (Alolan)** | 15       |
@@ -3999,7 +3978,7 @@ Wispy Path
 
 |                          |          |                |          |
 |--------------------------|----------|----------------|----------|
-| <u>Grass</u>             | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass             | % | Old Rod | % |
 | Spewpa                   | 30       | **Basculin**   | 100      |
 | Pumpkaboo                | 30       |                |          |
 | Spoink                   | 10       |                |          |
@@ -4038,7 +4017,7 @@ Head into the gatehouse on the left side and you’ll be recruited by “C”
 to take care of the Dimensional Rift, but only after a 3v3 battle with
 his three bug types.
 
-<u>International Police “C”</u>
+International Police “C”
 
 -   Orbeetle, Level 30.
 
@@ -4079,7 +4058,7 @@ Goldenwood Forest (2nd Visit)
 
 |               |          |                |          |
 |---------------|----------|----------------|----------|
-| <u>Grass</u>  | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass  | % | Old Rod | % |
 | Mightyena     | 24       | Goldeen        | 100      |
 | Poochyena     | 20       |                |          |
 | **Tranquill** | 11       |                |          |
@@ -4113,7 +4092,7 @@ the *Guard Spec.* below.
 Head up to where you fought Zetta. Once you’re ready, interact with the
 dimensional rift to engage Gyarados.
 
-<u>Dimensional Rift Gyarados (Forest Field)</u>
+Dimensional Rift Gyarados (Forest Field)
 
 -   Rift Gyarados, Level 40. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 2 Shields.
@@ -4172,7 +4151,7 @@ Forsaken Laboratory (Short Circuit Field)
 
 |                      |          |
 |----------------------|----------|
-| <u>Grass</u>         | <u>%</u> |
+| Grass         | % |
 | Dunsparce            | 40       |
 | **Diglett (Alolan)** | 30       |
 | **Graveler**         | 11       |
@@ -4199,7 +4178,7 @@ Relationship Point Choices:
 Interact with the screen and choose one of the two top answers to not
 lose relationship points. Back in the main room, head up for a battle.
 
-<u>Team Xen Eli and Sharon</u>
+Team Xen Eli and Sharon
 
 -   Tangela, Level 31. @ Eviolite.
 
@@ -4251,7 +4230,7 @@ Mismagius and you’ll likely be alright.
 After the fight, make sure you heal, then return and go downstairs and
 through the door. Go up and you’ll fight Geara!
 
-<u>Xen Executive Geara (Short Circuit Field)</u>
+Xen Executive Geara (Short Circuit Field)
 
 -   Giratina, Level 37. @ Griseous Orb.
 
@@ -4271,7 +4250,7 @@ can also whittle its HP down by burning/poisoning/leech seeding it and
 anticipating what move it will use and switching to a
 Normal/Ground/Fairy type.
 
-<u>Xen Executive Geara (Short Circuit Field)</u>
+Xen Executive Geara (Short Circuit Field)
 
 -   Persian, Level 33. @ Normal Gem.
 
@@ -4352,7 +4331,7 @@ Mirage Woods (Forest Field)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | **Kecleon**  | 36       |
 | Spritzee     | 30       |
 | **Stantler** | 24       |
@@ -4361,7 +4340,7 @@ Mirage Woods (Forest Field)
 
 Put the wing we found into the statue.
 
-<u>Ancient Kingdra (Forest Field)</u>
+Ancient Kingdra (Forest Field)
 
 -   Kingdra, Level 38. 2 Shields.
 
@@ -4405,7 +4384,7 @@ Grab the cell and *TM66 Payback*.
 
 Head up and agree to use Flash, and a battle will ensue.
 
-<u>Pokegang Crobat (Cave Field)</u>
+Pokegang Crobat (Cave Field)
 
 -   Zubat, Level 33.
 
@@ -4494,7 +4473,7 @@ Backstage Theater (Haunted Field)
 
 |                |          |
 |----------------|----------|
-| <u>Walking</u> | <u>%</u> |
+| Walking | % |
 | Shuppet        | 30       |
 | Rattata        | 20       |
 | **Raticate**   | 20       |
@@ -4514,7 +4493,7 @@ Relationship Point Choices:*
 *            - Go ahead, Ren. (Ren +4)  
             - No. (Ren -4)
 
-<u>Pokémon Trainer Ren</u>
+Pokémon Trainer Ren
 
 -   Sableye, Level 33. @ Leftovers.
 
@@ -4585,7 +4564,7 @@ Narcissa.
 In the auditorium, head down and grab the items: *Super Potion, Rawst
 Berry,* and *Rare Candy.* When you’re ready, take on Narcissa.
 
-<u>Leader Narcissa (Haunted Field over Forest Field)</u>
+Leader Narcissa (Haunted Field over Forest Field)
 
 -   Drifblim, Level 33. @ Magical Seed.
 
@@ -4689,7 +4668,7 @@ Wispy Chasm (Haunted Field)
 
 |                      |          |
 |----------------------|----------|
-| <u>Cave</u>          | <u>%</u> |
+| Cave          | % |
 | Golett               | 40       |
 | Zigzagoon (Galarian) | 24       |
 | Graveler             | 15       |
@@ -4748,7 +4727,7 @@ Route 4 Entrance Area
 
 |                       |          |                   |          |                     |          |
 |-----------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
 | **Sunflora**          | 24       | **Bounsweet**     | 44       | **Bounsweet**       | 40       |
 | Sunkern               | 20       | **Sunflora**      | 20       | Meowth              | 35       |
 | **Bounsweet**         | 20       | **Togedemaru**    | 19       | Tranquill           | 19       |
@@ -4768,7 +4747,7 @@ Route 4 Central Area
 
 |                       |          |                   |          |                     |          |
 |-----------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
 | Sunflora              | 24       | Bounsweet         | 44       | Bounsweet           | 40       |
 | Sunkern               | 20       | Sunflora          | 20       | Meowth              | 35       |
 | Bounsweet             | 20       | Togedemaru        | 19       | Tranquill           | 19       |
@@ -4809,7 +4788,7 @@ bottom.
 
 Enter Cairo’s house. He has a shop set up.
 
-<u>Cairo’s Shop (\<8 Badges)</u>
+Cairo’s Shop (\<8 Badges)
 
 *Joy Scent (10)* $5,000
 
@@ -4842,7 +4821,7 @@ exact amount you have.
 Head up. There are Duskull roaming here at night. Try to head into Akuwa
 Town to the north for a battle with Nim.
 
-<u>Apprentice Nim (Psychic Terrain)</u>
+Apprentice Nim (Psychic Terrain)
 
 -   Stonjourner, Level 37. @ Focus Sash.
 
@@ -4951,7 +4930,7 @@ camp will be upgraded for a second time! Exit and return.
 
 A few orphans will sell you stuff in camp!
 
-<u>Lost Camp: Andrew Shop</u>
+Lost Camp: Andrew Shop
 
 *Pomeg Berry* $600
 
@@ -4965,7 +4944,7 @@ A few orphans will sell you stuff in camp!
 
 *Tamato Berry* $600
 
-<u>Lost Camp: Matthew Shop</u>
+Lost Camp: Matthew Shop
 
 *Water Stone* $2,100
 
@@ -5033,7 +5012,7 @@ Akuwa Town
 
 |                       |          |                     |          |                   |          |                |          |
 |-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
 | Buizel                | 30       | Buizel              | 30       | Girafarig         | 45       | Buizel         | 70       |
 | Skitty                | 20       | Illumise            | 20       | Buizel            | 30       | Seel           | 30       |
 | Girafarig             | 15       | Girafarig           | 15       | Blitzle           | 15       |                |          |
@@ -5115,7 +5094,7 @@ Blacksteeple Castle
 
 |               |          |
 |---------------|----------|
-| <u>Grass</u>  | <u>%</u> |
+| Grass  | % |
 | **Tangela**   | 45       |
 | **Teddiursa** | 25       |
 | **Cramorant** | 15       |
@@ -5133,7 +5112,7 @@ Head back to your bed and get some sleep.
 Head on out and talk to the crew. Enter the door in the southwest
 corner, talk to the left guard to access the shop.
 
-<u>Blacksteeple Castle Shop</u>
+Blacksteeple Castle Shop
 
 *Poke Ball* $200
 
@@ -5169,7 +5148,7 @@ Mining Probabilities
 
 |                  |               |
 |------------------|---------------|
-| <u>Item Name</u> | <u>Chance</u> |
+| Item Name | Chance |
 | *Dome Fossil*    | 0.3%          |
 | *Helix Fossil*   | 0.6%          |
 | *Root Fossil*    | 0.3%          |
@@ -5251,7 +5230,7 @@ Head out and watch all the scenes. When you regain control, it’s time
 for 3v3 battles in the battle room. The first two are easy, however the
 last is against Emma.
 
-<u>Hooded Girl Emma (No Field)</u>
+Hooded Girl Emma (No Field)
 
 -   Zoroark, Level 37.
 
@@ -5332,7 +5311,7 @@ Relationship Point Choices:
 
 Go right and up.
 
-<u>Xen Executive Madelis (Cave Field)</u>
+Xen Executive Madelis (Cave Field)
 
 -   Cinccino, Level 36.
 
@@ -5415,7 +5394,7 @@ Relationship Point Choices:
 Follow the stairs all the way up and prepare for battle. Aelita will
 join your party for this one.
 
-<u>Xen Executive Neved (No Field)</u>
+Xen Executive Neved (No Field)
 
 -   Crabominable, Level 41. @ Occa Berry.
 
@@ -5488,7 +5467,7 @@ fastest mons is out, then you and Aelita should be able to win.
 
 Well….
 
-<u>Madame X (No Field)</u>
+Madame X (No Field)
 
 -   Yveltal, Level 100. @ Soul Stone.
 
@@ -5545,7 +5524,7 @@ a bit later.
 
 There’s also the Akuwa town merchant here:
 
-<u>Xen Battleship Store</u>
+Xen Battleship Store
 
 *Poke Ball* $200
 
@@ -5568,7 +5547,7 @@ There’s also the Akuwa town merchant here:
 Head up the stairs, and then up the stairs at the top. Follow Melia to
 the battle room for a fight.
 
-<u>Enigma Melia (Factory Field)</u>
+Enigma Melia (Factory Field)
 
 -   Gardevoir, Level 38. @ Twisted Spoon.
 
@@ -5653,7 +5632,7 @@ Terajuma Island
 
 |                |          |
 |----------------|----------|
-| <u>Old Rod</u> | <u>%</u> |
+| Old Rod | % |
 | **Carvanha**   | 100      |
 
 Hidden on this beach is a *Grass Gem.* Talk to Nim at the bottom.
@@ -5665,7 +5644,7 @@ Relationship Point Choices:*
 Go to the east. Pick the two *Passho Berries*. Use the itemfinder on
 this side to find *Soda Pop* and *Fresh Water.*
 
-<u>Shore Store</u>
+Shore Store
 
 *Poke Ball* $200
 
@@ -5708,7 +5687,7 @@ Terajuma Jungle (Forest Field)
 
 |                     |          |                       |          |                   |          |                |          |
 |---------------------|----------|-----------------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass: Night</u> | <u>%</u> | <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Night | % | Grass: Morning | % | Grass: Day | % | Old Rod | % |
 | **Morelull**        | 34       | **Grubbin**           | 40       | Bibarel           | 45       | Carvanha       | 100      |
 | Hoothoot            | 20       | **Trumbeak**          | 29       | **Foongus**       | 40       |                |          |
 | Spinarak            | 10       | **Weepinbell**        | 20       | **Exeggcute**     | 9        |                |          |
@@ -5742,7 +5721,7 @@ section!
 
 Once you’ve healed, talk to Valarie outside for her gym battle.
 
-<u>Water Show Performer Valarie (Water Surface)</u>
+Water Show Performer Valarie (Water Surface)
 
 -   Qwilfish, Level 38. @ Poison Barb.
 
@@ -5844,7 +5823,7 @@ Terajuma Island
 
 |                |          |
 |----------------|----------|
-| <u>Surfing</u> | <u>%</u> |
+| Surfing | % |
 | **Mantyke**    | 90       |
 | **Krabby**     | 5        |
 | Wailmer        | 4        |
@@ -5870,7 +5849,7 @@ Terajuma Jungle
 
 |                |          |
 |----------------|----------|
-| <u>Surfing</u> | <u>%</u> |
+| Surfing | % |
 | Carvanha       | 95       |
 | **Golduck**    | 5        |
 
@@ -5880,7 +5859,7 @@ left. Go down and left.
 
 After the scene, grab the 3 *Oran Berries,* and the *Dusk Ball.*
 
-<u>Jungle Store</u>
+Jungle Store
 
 *Poke Ball* $200
 
@@ -5910,9 +5889,9 @@ Deep Terajuma Jungle West (Forest Field)
 
 |                     |          |                   |          |                       |          |                |          |
 |---------------------|----------|-------------------|----------|-----------------------|----------|----------------|----------|
-| <u>Grass: Night</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Morning</u> | <u>%</u> | <u>Old Rod</u> | <u>%</u> |
+| Grass: Night | % | Grass: Day | % | Grass: Morning | % | Old Rod | % |
 | Morelull            | 30       | Bibarel           | 40       | Grubbin               | 30       | Carvanha       | 100      |
-| Hoothoot            | 20       | Beedrill          | 21       | Trumbeak              | 29       | <u>Surfing</u> |          |
+| Hoothoot            | 20       | Beedrill          | 21       | Trumbeak              | 29       | Surfing |          |
 | Gloom               | 15       | Exeggcute         | 15       | Weepinbell            | 20       | Carvanha       | 95       |
 | Spinarak            | 10       | Foongus           | 10       | Charjabug             | 11       | Golduck        | 5        |
 | Venonat             | 10       | **Amoongus**      | 9        | Bibarel               | 10       |                |          |
@@ -5930,7 +5909,7 @@ Follow her to the right. Itemfind for a *TinyMushroom* and grab the
 *Sitrus Berries* and *Oran Berries.* Save/heal before you head right,
 because a cutscene is about to take us into a battle!
 
-<u>Xen Executive Geara (Forest Field)</u>
+Xen Executive Geara (Forest Field)
 
 -   Persian, Level 41. @ Muscle Band.
 
@@ -6004,7 +5983,7 @@ As soon as you’re done, we’re back in a rift. Grab the *Rift Notes: Code
 Sarpa*. Heal and switch out your party, grab the pulse notes, and get
 ready.
 
-<u>Dimensional Rift Carnivine (Rift Field)</u>
+Dimensional Rift Carnivine (Rift Field)
 
 -   Carnivine, Level 45. @ Yache Berry. Type: Grass/Dragon. Stats:
     80/110/75/120/100/115. Ability: Thick Fat. 2 Shields.
@@ -6092,7 +6071,7 @@ Hula Meadow
 
 |                     |          |
 |---------------------|----------|
-| <u>Grass</u>        | <u>%</u> |
+| Grass        | % |
 | **Oricorio (Hula)** | 65       |
 | Trumbeak            | 19       |
 | Charjabug           | 10       |
@@ -6121,7 +6100,7 @@ the cliffside. Talk to the woman, and she’ll run off to the Xen
 Battleship. We’ll get to her once we have an easier way to get to the
 pier from here.
 
-<u>Kakori Village Pokemart</u>
+Kakori Village Pokemart
 
 *Great Ball* $600
 
@@ -6159,7 +6138,7 @@ Jeminra Woods: Area 1 (Middle Left)
 
 |               |          |
 |---------------|----------|
-| <u>Grass</u>  | <u>%</u> |
+| Grass  | % |
 | Phanpy        | 31       |
 | Natu          | 20       |
 | **Roselia**   | 20       |
@@ -6173,7 +6152,7 @@ Jeminra Woods: Area 2 (Down Left)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Girafarig    | 40       |
 | Vileplume    | 30       |
 | Weepinbell   | 15       |
@@ -6187,7 +6166,7 @@ Jeminra Woods: Area 3 (Up Left)
 
 |                |          |
 |----------------|----------|
-| <u>Grass</u>   | <u>%</u> |
+| Grass   | % |
 | **Spinda**     | 40       |
 | Koffing        | 20       |
 | Magcargo       | 16       |
@@ -6200,9 +6179,9 @@ Jeminra Woods: Area 4 (Up Middle)
 
 |                |          |                   |          |                |          |
 |----------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass</u>   | <u>%</u> | <u>Old Rod</u>    | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Grass   | % | Old Rod    | % | Surfing | % |
 | Kecleon        | 20       | Carvanha          | 100      | **Bruxish**    | 60       |
-| Koffing        | 20       | <u>Rock Smash</u> |          | **Whiscash**   | 30       |
+| Koffing        | 20       | Rock Smash |          | **Whiscash**   | 30       |
 | **Spinda**     | 20       | **Dwebble**       | 90       | Golduck        | 5        |
 | **Weezing**    | 10       | **Shuckle**       | 5        | **Sharpedo**   | 4        |
 | Nosepass       | 10       | **Binacle**       | 5        | **Lotad**      | 1        |
@@ -6215,9 +6194,9 @@ Jeminra Woods: Area 5 (Bottom Right Labyrinth)
 
 |                |          |                   |          |                |          |
 |----------------|----------|-------------------|----------|----------------|----------|
-| <u>Grass</u>   | <u>%</u> | <u>Old Rod</u>    | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Grass   | % | Old Rod    | % | Surfing | % |
 | Duskull        | 30       | Carvanha          | 100      | **Bruxish**    | 60       |
-| Pachirisu      | 20       | <u>Rock Smash</u> |          | **Whiscash**   | 30       |
+| Pachirisu      | 20       | Rock Smash |          | **Whiscash**   | 30       |
 | Lickitung      | 20       | **Dwebble**       | 90       | Golduck        | 5        |
 | Bibarel        | 15       | **Shuckle**       | 5        | **Sharpedo**   | 4        |
 | Tropius        | 9        | **Binacle**       | 5        | **Lotad**      | 1        |
@@ -6239,7 +6218,7 @@ Jeminra Cave: Corrupted Area
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Grimer       | 30       |
 | Geodude      | 20       |
 | **Muk**      | 15       |
@@ -6263,7 +6242,7 @@ Route 6
 
 |               |          |
 |---------------|----------|
-| <u>Grass</u>  | <u>%</u> |
+| Grass  | % |
 | Krabby        | 40       |
 | Dustox        | 25       |
 | **Beautifly** | 24       |
@@ -6272,7 +6251,7 @@ Route 6
 
 Head into the Ranger HQ. On the right, you’ll find a tutor.
 
-<u>Ranger HQ Move Tutor</u>
+Ranger HQ Move Tutor
 
 Signal Beam 3 Green Shards
 
@@ -6290,7 +6269,7 @@ give you a *Weakness Policy*. In the room above that, grab the
 If you’ve done all the other virtual badge battles, she’ll let us
 continue the quest.
 
-<u>Gym Leader Chuck (Glitch Field)</u>
+Gym Leader Chuck (Glitch Field)
 
 -   Primeape, Level 29. @ Rock Gem.
 
@@ -6339,7 +6318,7 @@ Steelix and Quilava should be able to handle the rest!
 
 Talk to her again to take on Jasmine.
 
-<u>Gym Leader Jasmine (Glitch Field)</u>
+Gym Leader Jasmine (Glitch Field)
 
 -   Magneton, Level 36.
 
@@ -6411,7 +6390,7 @@ Route 5 (Ashen Beach)
 
 |                           |          |                     |          |
 |---------------------------|----------|---------------------|----------|
-| <u>Grass: Morning/Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning/Day | % | Grass: Night | % |
 | Slugma                    | 30       | Noctowl             | 35       |
 | **Machop**                | 20       | Numel               | 30       |
 | Bibarel                   | 15       | Baltoy              | 15       |
@@ -6429,10 +6408,10 @@ Valor Shore (Ashen Beach)
 
 |                           |          |                     |          |                   |          |                |     |
 |---------------------------|----------|---------------------|----------|-------------------|----------|----------------|-----|
-| <u>Grass: Morning/Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Rock Smash</u> | <u>%</u> | <u>Surfing</u> |     |
+| Grass: Morning/Day | % | Grass: Night | % | Rock Smash | % | Surfing |     |
 | Slugma                    | 30       | Noctowl             | 35       | Geodude           | 95       | Remoraid       | 90  |
 | Machop                    | 20       | Numel               | 30       | Binacle           | 5        | Krabby         | 9   |
-| **Sandygast**             | 15       | Baltoy              | 15       | <u>Old Rod</u>    |          | Goldeen        | 1   |
+| **Sandygast**             | 15       | Baltoy              | 15       | Old Rod    |          | Goldeen        | 1   |
 | Spinda                    | 10       | Ariados             | 15       | Clobbopus         | 70       |                |     |
 | Machoke                   | 10       | Chimecho            | 5        | Remoraid          | 30       |                |     |
 | Numel                     | 10       |                     |          |                   |          |                |     |
@@ -6440,7 +6419,7 @@ Valor Shore (Ashen Beach)
 
 Make sure you heal, then head onto the island.
 
-<u>Xen Executive Zetta: Beach Field</u>
+Xen Executive Zetta: Beach Field
 
 -   Absol, Level 41. @ Blackglasses.
 
@@ -6548,7 +6527,7 @@ Now is a good time to do the help quests.
 
 ## Kakori Help Quests - KakHelp1
 
-<u>HQuest 13: Clear the Way!!</u>
+HQuest 13: Clear the Way!!
 
 Enter Terajuma Jungle and head south onto the hill and talk to the
 hiker. We’re gonna need to find 7 black shards around the forest.
@@ -6576,7 +6555,7 @@ Head into the cave in the water below, which is now opened. Grab the
 
 Return to the help center to get $4,326! (+1 Karma)
 
-<u>HQuest 14: Bandit at Large</u>
+HQuest 14: Bandit at Large
 
 -   Head to the weather institute in the jungle. Talk to the girl near
     the Venusaur on the left.
@@ -6608,13 +6587,13 @@ Return to the help center to get $4,326! (+1 Karma)
 -   Return to the help center to get a **Bulbasaur** egg, a *Rare
     Candy,* and $5,000! (+1 Karma)
 
-<u>HQuest 15: Building Bridges</u>
+HQuest 15: Building Bridges
 
 Head to the lumber yard in Terajuma Jungle and enter the building. Talk
 to the guy on the right, then Gurdurr. Head west to the bridge, and
 we’ll have to battle.
 
-<u>PokeGang Conkeldurr (Forest Field)</u>
+PokeGang Conkeldurr (Forest Field)
 
 -   Timburr, Level 25.
 
@@ -6652,7 +6631,7 @@ take it out.
 -   Return to the help center to get $4,890 and a *Sun Stone!* (+1
     Karma)
 
-<u>HQuest 16: Find It!</u>
+HQuest 16: Find It!
 
 -   Head to the ranger shack in the southwest corner of the jungle. Talk
     to Roggenrola, and it will follow you.
@@ -6665,12 +6644,12 @@ take it out.
 -   After one battle, return to the help center to get $4,255. (+1
     Karma)
 
-<u>HQuest 17: Battle Me Again!</u>
+HQuest 17: Battle Me Again!
 
 Time for another battle with Novae. Get your best team and head to the
 Valor Shore.
 
-<u>Wanderer Novae (Ashen Beach)</u>
+Wanderer Novae (Ashen Beach)
 
 -   Toucannon, Level 42. @ Yache Berry.
 
@@ -6768,7 +6747,7 @@ Terajuma Pier
 
 |                 |          |
 |-----------------|----------|
-| <u>Good Rod</u> | <u>%</u> |
+| Good Rod | % |
 | Carvanha        | 60       |
 | Wailmer         | 20       |
 | **Wishiwashi**  | 20       |
@@ -6777,7 +6756,7 @@ Valor Shore
 
 |                 |          |
 |-----------------|----------|
-| <u>Good Rod</u> | <u>%</u> |
+| Good Rod | % |
 | Clobbopus       | 60       |
 | **Gastrodon**   | 20       |
 | **Octillery**   | 20       |
@@ -6788,7 +6767,7 @@ Jeminra Woods: Special Beach Area
 
 |                   |          |                 |          |
 |-------------------|----------|-----------------|----------|
-| <u>Grass</u>      | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Grass      | % | Good Rod | % |
 | Voltorb           | 30       | Barboach        | 60       |
 | Geodude           | 20       | **Luvdisc**     | 20       |
 | **Pikachu**       | 19       | **Alomomola**   | 20       |
@@ -6806,7 +6785,7 @@ We’re now gonna go find Rorim B.
 Head back to Terajuma Jungle and enter the Hula Meadow. Rorim B will
 battle you!
 
-<u>Dance Prodigy Rorim B.</u>
+Dance Prodigy Rorim B.
 
 -   Oricorio (Pom-Pom), Level 42.
 
@@ -6879,7 +6858,7 @@ Secret Shore
 
 |                           |          |
 |---------------------------|----------|
-| <u>Grass</u>              | <u>%</u> |
+| Grass              | % |
 | **Primeape**              | 35       |
 | Mankey                    | 24       |
 | **Farfetch’d (Galarian)** | 15       |
@@ -6899,9 +6878,9 @@ Sheridan Wetlands (Swamp Field)
 
 |                         |          |                         |          |                         |          |                |          |                 |     |
 |-------------------------|----------|-------------------------|----------|-------------------------|----------|----------------|----------|-----------------|-----|
-| <u>Grass: Day</u>       | <u>%</u> | <u>Grass: Night</u>     | <u>%</u> | <u>Grass: Morning</u>   | <u>%</u> | <u>Surfing</u> | <u>%</u> | <u>Old Rod</u>  | %   |
+| Grass: Day       | % | Grass: Night     | % | Grass: Morning   | % | Surfing | % | Old Rod  | %   |
 | **Karrablast**          | 34       | **Skorupi**             | 30       | **Tympole**             | 30       | **Tympole**    | 60       | Barboach        | 100 |
-| **Carnivine**           | 20       | Pumpkaboo               | 20       | Tangela                 | 20       | Barboach       | 35       | <u>Good Rod</u> |     |
+| **Carnivine**           | 20       | Pumpkaboo               | 20       | Tangela                 | 20       | Barboach       | 35       | Good Rod |     |
 | **Skorupi**             | 15       | **Stunfisk (Galarian)** | 15       | **Skorupi**             | 15       | **Palpitoad**  | 4        | **Corphish**    | 100 |
 | **Stunfisk (Galarian)** | 15       | **Palpitoad**           | 15       | **Stunfisk (Galarian)** | 15       | **Shellos**    | 1        |                 |     |
 | **Palpitoad**           | 10       | Phantump                | 10       | **Palpitoad**           | 10       |                |          |                 |     |
@@ -6929,7 +6908,7 @@ lab.
 
 After a cutscene, head to the west. We must do an arrow puzzle.
 
-<u>Room 1</u>
+Room 1
 
 -   Take the left upwards arrow above Aelita
 
@@ -6952,7 +6931,7 @@ After a cutscene, head to the west. We must do an arrow puzzle.
 
 -   Leftwards arrow at the top, and you’ll have made it out.
 
-<u>Room 2</u>
+Room 2
 
 -   Press the green panel
 
@@ -6991,16 +6970,16 @@ Wetlands Laboratory (Water Surface)
 
 |                 |          |
 |-----------------|----------|
-| <u>Surfing</u>  | <u>%</u> |
+| Surfing  | % |
 | **Tentacool**   | 65       |
 | Quagsire        | 34       |
 | **Tentacruel**  | 1        |
-| <u>Good Rod</u> |          |
+| Good Rod |          |
 | Chinchou        | 100      |
 
 After this, surf across to the right.
 
-<u>Room 3</u>
+Room 3
 
 -   Head up in the only possible path
 
@@ -7042,7 +7021,7 @@ After this, surf across to the right.
 
 Heal, and we’re going to fight in the next room.
 
-<u>Pokémon Trainer Ren (Factory Field)</u>
+Pokémon Trainer Ren (Factory Field)
 
 -   Cacturne, Level 42. @ Focus Sash.
 
@@ -7136,13 +7115,13 @@ us 6 *Exp. Candy M.* Our next quest is for Mareep!
 
 The Shopping Emporium has new wares for us now that we have five badges:
 
-<u>Poke Ball Emporium New Items (5 Badges)</u>
+Poke Ball Emporium New Items (5 Badges)
 
 *Timer Ball* $1,000
 
 *Dive Ball* $1,000
 
-<u>Berry Emporium New Item (5 Badges)</u>
+Berry Emporium New Item (5 Badges)
 
 *Sitrus Berry* $750
 
@@ -7154,7 +7133,7 @@ grab the *Water Stone.*
 
 There are also a couple new items in the AP shop.
 
-<u>AP Shop New Items (5 Badges)</u>
+AP Shop New Items (5 Badges)
 
 *TM56 Fling* 5 AP
 
@@ -7166,7 +7145,7 @@ Abandoned Sewers
 
 |                 |          |
 |-----------------|----------|
-| <u>Good Rod</u> | <u>%</u> |
+| Good Rod | % |
 | Grimer          | 60       |
 | **Qwilfish**    | 20       |
 | **Skrelp**      | 20       |
@@ -7178,7 +7157,7 @@ Route 1
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Psyduck        | 90       | Finneon         | 60       |
 | Golduck        | 10       | **Lumineon**    | 40       |
 
@@ -7186,7 +7165,7 @@ Goldenwood Forest/Cave
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Psyduck        | 90       | Goldeen         | 60       |
 | Golduck        | 10       | **Seaking**     | 40       |
 
@@ -7230,7 +7209,7 @@ Wispy Path
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Goldeen        | 60       | Basculin        | 100      |
 | Seaking        | 30       |                 |          |
 | Basculin       | 6        |                 |          |
@@ -7240,7 +7219,7 @@ Goldenleaf Town
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Goldeen        | 65       | Wooper          | 80       |
 | Finneon        | 30       | Basculin        | 20       |
 | Basculin       | 5        |                 |          |
@@ -7252,7 +7231,7 @@ Wispy Tower (Outside)
 
 |                 |          |
 |-----------------|----------|
-| <u>Grass</u>    | <u>%</u> |
+| Grass    | % |
 | **Donphan**     | 25       |
 | Cubone          | 20       |
 | **Stonjourner** | 20       |
@@ -7284,7 +7263,7 @@ Route 3, Phasial Cave, Moon Field
 
 |                 |          |                |          |
 |-----------------|----------|----------------|----------|
-| <u>Good Rod</u> | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Good Rod | % | Surfing | % |
 | Wooper          | 60       | Quagsire       | 90       |
 | Chewtle         | 20       | **Drednaw**    | 10       |
 | Quagsire        | 20       |                |          |
@@ -7302,7 +7281,7 @@ Moon Field
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | **Minior**   | 36       |
 | **Cleffa**   | 30       |
 | Solrock      | 25       |
@@ -7330,7 +7309,7 @@ Mirage Woods
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Surskit        | 65       | Wooper          | 60       |
 | Lumineon       | 34       | Chewtle         | 20       |
 | Masquerain     | 1        | Quagsire        | 20       |
@@ -7342,7 +7321,7 @@ Sheridan Village
 
 |                |          |
 |----------------|----------|
-| <u>Surfing</u> | <u>%</u> |
+| Surfing | % |
 | Lumineon       | 100      |
 
 There’s a cell at the arena area if we surf to the right, but only can
@@ -7364,7 +7343,7 @@ Amethyst Cave
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Good Rod</u> | <u>%</u> |
+| Surfing | % | Good Rod | % |
 | Remoraid       | 65       | Seaking         | 60       |
 | Barboach       | 30       | Barboach        | 20       |
 | Whiscash       | 4        | Octillery       | 20       |
@@ -7397,13 +7376,13 @@ River’s End
 
 |                   |          |                 |          |
 |-------------------|----------|-----------------|----------|
-| <u>Grass</u>      | <u>%</u> | <u>Water</u>    | <u>%</u> |
+| Grass      | % | Water    | % |
 | **Shelmet**       | 35       | **Stunfisk**    | 65       |
 | **Steenee**       | 30       | Golduck         | 34       |
 | **Ribombee**      | 29       | Lumineon        | 1        |
-| Sunflora          | 4        | <u>Old Rod</u>  |          |
+| Sunflora          | 4        | Old Rod  |          |
 | **Comfey**        | 2        | Finneon         | 100      |
-| <u>Rock Smash</u> |          | <u>Good Rod</u> |          |
+| Rock Smash |          | Good Rod |          |
 | Shuckle           | 66       | Bruxish         | 80       |
 | Dwebble           | 34       | Corphish        | 20       |
 
@@ -7449,7 +7428,7 @@ Akuwa Town
 
 |              |          |                 |     |
 |--------------|----------|-----------------|-----|
-| <u>Water</u> | <u>%</u> | <u>Good Rod</u> |     |
+| Water | % | Good Rod |     |
 | Seel         | 60       | Luvdisc         | 80  |
 | Finneon      | 30       | Alomomola       | 20  |
 | Buizel       | 5        |                 |     |
@@ -7464,11 +7443,11 @@ Route 11
 
 |                   |          |                 |          |
 |-------------------|----------|-----------------|----------|
-| <u>Water</u>      | <u>%</u> | <u>Old Rod</u>  | <u>%</u> |
+| Water      | % | Old Rod  | % |
 | Mantyke           | 60       | Goldeen         | 70       |
 | Tentacool         | 34       | **Spheal**      | 30       |
-| Wailmer           | 6        | <u>Good Rod</u> |          |
-| <u>Rock Smash</u> |          | **Dewgong**     | 60       |
+| Wailmer           | 6        | Good Rod |          |
+| Rock Smash |          | **Dewgong**     | 60       |
 | Geodude           | 95       | Luvdisc         | 40       |
 | Binacle           | 5        |                 |          |
 
@@ -7496,10 +7475,10 @@ Seabound Cave/Evergreen Cave
 
 |                        |          |                 |          |              |          |                   |          |
 |------------------------|----------|-----------------|----------|--------------|----------|-------------------|----------|
-| <u>Cave</u>            | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Water</u> | <u>%</u> | <u>Rock Smash</u> | <u>%</u> |
+| Cave            | % | Old Rod  | % | Water | % | Rock Smash | % |
 | Smoochum               | 30       | Spheal          | 70       | Seel         | 60       | Binacle           | 94       |
 | **Sandshrew (Alolan)** | 30       | Goldeen         | 30       | Spheal       | 30       | Dunsparce         | 5        |
-| Vanillite              | 15       | <u>Good Rod</u> |          | **Sealeo**   | 5        | Shuckle           | 1        |
+| Vanillite              | 15       | Good Rod |          | **Sealeo**   | 5        | Shuckle           | 1        |
 | **Vanillish**          | 15       | Seaking         | 60       | Dewgong      | 4        |                   |          |
 | Jynx                   | 5        | Sealeo          | 20       | **Kingler**  | 1        |                   |          |
 | **Bergmite**           | 4        | Octillery       | 20       |              |          |                   |          |
@@ -7515,12 +7494,12 @@ Evergreen Island
 
 |                   |          |                 |          |
 |-------------------|----------|-----------------|----------|
-| <u>Water</u>      | <u>%</u> | <u>Old Rod</u>  | <u>%</u> |
+| Water      | % | Old Rod  | % |
 | Mantyke           | 90       | Goldeen         | 100      |
-| Wailmer           | 5        | <u>Good Rod</u> |          |
+| Wailmer           | 5        | Good Rod |          |
 | **Mantine**       | 4        | Goldeen         | 80       |
 | Tentacruel        | 1        | Basculin        | 20       |
-| <u>Rock Smash</u> |          |                 |          |
+| Rock Smash |          |                 |          |
 | Geodude           | 95       |                 |          |
 | Binacle           | 5        |                 |          |
 
@@ -7567,9 +7546,9 @@ Evergreen Forest
 
 |                  |          |                |          |              |          |                 |     |
 |------------------|----------|----------------|----------|--------------|----------|-----------------|-----|
-| <u>Headbutt</u>  | <u>%</u> | <u>Grass</u>   | <u>%</u> | <u>Water</u> | <u>%</u> | <u>Old Rod</u>  |     |
+| Headbutt  | % | Grass   | % | Water | % | Old Rod  |     |
 | Pineco           | 55       | **Snover**     | 34       | Seel         | 60       | Goldeen         | 100 |
-| Crabrawler       | 20       | **Cubchoo**    | 29       | Spheal       | 30       | <u>Good Rod</u> |     |
+| Crabrawler       | 20       | **Cubchoo**    | 29       | Spheal       | 30       | Good Rod |     |
 | **Taillow**      | 10       | Vanillite      | 20       | Buizel       | 5        | Seaking         | 60  |
 | **Swellow**      | 5        | **Farfetch’d** | 15       | Sealeo       | 4        | Dewgong         | 20  |
 | **Crabominable** | 5        | **Furfrou**    | 2        | Dewgong      | 1        | Floatzel        | 20  |
@@ -7689,7 +7668,7 @@ style="width:6.66667in;height:4.98958in" />
 
 Down in the bottom floor, you’ll find a small tutor.
 
-<u>Kakori Gym Move Tutor</u>
+Kakori Gym Move Tutor
 
 Giga Drain 3 Green Shards
 
@@ -7813,12 +7792,12 @@ Route 6
 
 |                   |          |                |          |
 |-------------------|----------|----------------|----------|
-| <u>Rock Smash</u> | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Rock Smash | % | Surfing | % |
 | Chewtle           | 90       | Mantyke        | 90       |
 | Binacle           | 10       | Krabby         | 5        |
-| <u>Good Rod</u>   |          | Wailmer        | 4        |
+| Good Rod   |          | Wailmer        | 4        |
 | Carvanha          | 60       | Carvanha       | 1        |
-| Wailmer           | 20       | <u>Old Rod</u> |          |
+| Wailmer           | 20       | Old Rod |          |
 | Wishiwashi        | 20       | Carvanha       | 100      |
 
 There are also wild Krabby crawling around. Surf north and use
@@ -7830,10 +7809,10 @@ Aquamarine Cave (Crystal Cavern Field)
 
 |             |          |                 |     |                |          |
 |-------------|----------|-----------------|-----|----------------|----------|
-| <u>Cave</u> | <u>%</u> | <u>Old Rod</u>  | %   | <u>Surfing</u> | <u>%</u> |
+| Cave | % | Old Rod  | %   | Surfing | % |
 | Psyduck     | 30       | Goldeen         | 70  | Spheal         | 65       |
 | Spheal      | 30       | Carvanha        | 30  | Seel           | 30       |
-| Sealeo      | 19       | <u>Good Rod</u> |     | Dewgong        | 4        |
+| Sealeo      | 19       | Good Rod |     | Dewgong        | 4        |
 | Golduck     | 14       | Spheal          | 60  | Sealeo         | 1        |
 | Kingler     | 6        | Seel            | 20  |                |          |
 | Corsola     | 1        | Basculin        | 20  |                |          |
@@ -7872,7 +7851,7 @@ style="width:6.61458in;height:4.97917in" />
 Head back out and to the left. Heal, then exit the cave for a double
 battle!
 
-<u>Pokémon Rangers Sam and Alex (Beach Field)</u>
+Pokémon Rangers Sam and Alex (Beach Field)
 
 -   Pelipper, Level 45. @ Wacan Berry.
 
@@ -7947,7 +7926,7 @@ Pick up hidden *Pearl* and *Calcium.* Head west to enter Teila Resort!
 Head up and grab the planted *Occa Berry.* Useful for a certain gym
 battle later. This building here is another ranger center, with a shop:
 
-<u>Teila Ranger Center Store</u>
+Teila Ranger Center Store
 
 *Poke Ball* $200
 
@@ -7999,7 +7978,7 @@ Potion.*
 
 There are some shops towards the center.
 
-<u>Teila Resort Left Vendor Store</u>
+Teila Resort Left Vendor Store
 
 *Poke Ball* $200
 
@@ -8021,11 +8000,11 @@ There are some shops towards the center.
 
 *Reverse Candy* $50
 
-<u>Teila Resort Middle Vendor Store</u>
+Teila Resort Middle Vendor Store
 
 *Berry Juice* $1,000
 
-<u>Teila Resort Right Vendor Store</u>
+Teila Resort Right Vendor Store
 
 *Apophyll Pancakes* $3,000
 
@@ -8090,7 +8069,7 @@ Enter the room up and to the right.
 After a lovely cutscene, it’s time for a double battle. Head upstairs
 and in the door. Melia will be our partner.
 
-<u>Venam and Saki (Glitch Field)</u>
+Venam and Saki (Glitch Field)
 
 -   Forretress, Level 46. @ Custap Berry.
 
@@ -8213,7 +8192,7 @@ and the second has a Shadow Teddiursa.
 Make sure you heal before heading outside. You’ll be thrown into a
 double battle.
 
-<u>Xen Executive Madelis and Team Xen Bartz (Water Surface Field)</u>
+Xen Executive Madelis and Team Xen Bartz (Water Surface Field)
 
 -   Florges, Level 47. @ Pixie Plate.
 
@@ -8298,7 +8277,7 @@ story.
 Return to Rorim B, and from there, to Gearen City. The Poke Ball store
 has added wares, yet again.
 
-<u>Poke Ball Emporium New Item (6 Badges)</u>
+Poke Ball Emporium New Item (6 Badges)
 
 *Friend Ball* $300
 
@@ -8348,7 +8327,7 @@ Melia. Then board the boat.
 Head west, and Melia and Venam will head towards the T.M. shop. The mart
 and center are in the upper left area.
 
-<u>Kristiline Town Store</u>
+Kristiline Town Store
 
 *Poke Ball* $200
 
@@ -8391,7 +8370,7 @@ Tower of Theolia
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Bergmite    | 54       |
 | Delibird    | 25       |
 | Spheal      | 19       |
@@ -8423,7 +8402,7 @@ You can exit if need be but go ahead and prepare for the battle ahead!
 
 ## Glacier Badge - Badge07
 
-<u>Gym Leader Angie (Icy Dimensional Field, Hail)</u>
+Gym Leader Angie (Icy Dimensional Field, Hail)
 
 -   Jynx, Level 47. @ Focus Sash.
 
@@ -8540,10 +8519,10 @@ Isle of Angels (Grassy Terrain)
 
 |              |          |                 |          |                |          |
 |--------------|----------|-----------------|----------|----------------|----------|
-| <u>Cave</u>  | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Cave  | % | Old Rod  | % | Surfing | % |
 | Roselia      | 30       | Corphish        | 70       | Bruxish        | 60       |
 | **Swadloon** | 30       | Carvanha        | 30       | Seaking        | 30       |
-| Gossifleur   | 10       | <u>Good Rod</u> |          | **Swanna**     | 5        |
+| Gossifleur   | 10       | Good Rod |          | **Swanna**     | 5        |
 | **Eldegoss** | 10       | Luvdisc         | 80       | Sealeo         | 4        |
 | **Milcery**  | 10       | Basculin        | 20       | Dewgong        | 1        |
 | **Lurantis** | 5        |                 |          |                |          |
@@ -8563,7 +8542,7 @@ Kristiline Town
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Roselia     | 35       |
 | Swadloon    | 30       |
 | Butterfree  | 15       |
@@ -8588,7 +8567,7 @@ ZCell 038: Kristiline Town
 <img src="/assets/media/rejuv/image39.png"
 style="width:6.21875in;height:4.94792in" />
 
-<u>Kristiline Ranger Center Store</u>
+Kristiline Ranger Center Store
 
 *Poke Ball* $200
 
@@ -8610,7 +8589,7 @@ style="width:6.21875in;height:4.94792in" />
 
 *Spice Powder* $850
 
-<u>Kristiline Town Restaurant</u>
+Kristiline Town Restaurant
 
 *Lava Cookie* $200
 
@@ -8620,7 +8599,7 @@ for your Alolan Sandshrew!
 Cross the bridge to the south part of Kristiline. Inside a building is
 another guy in the virtual badge quest!
 
-<u>Gym Leader Pryce (Glitch Field)</u>
+Gym Leader Pryce (Glitch Field)
 
 -   Sneasel, Level 44.
 
@@ -8678,7 +8657,7 @@ hazards and if you can make sure Jolteon prevents Dewgong from setting
 up its defenses and its special attack with Stockpile thanks to the
 field you should be set. Get the seventh *Virtual Badge!*
 
-<u>Gym Leader Clair (Glitch Field)</u>
+Gym Leader Clair (Glitch Field)
 
 -   Dragonair, Level 51.
 
@@ -8766,7 +8745,7 @@ Relationship Point Choices:
             - Yes. (Aelita +2)  
             - Uh... (Aelita -1)
 
-<u>Student Aelita (No Field)</u>
+Student Aelita (No Field)
 
 -   Gliscor, Level 49. @ Toxic Orb.
 
@@ -8845,7 +8824,7 @@ quests, so I recommend reading to at least check what new areas you can
 explore. If you haven’t yet gotten it, the Golden Claws from the AP
 center are useful here!
 
-<u>HQuest 18: Lighthouse</u>
+HQuest 18: Lighthouse
 
 -   Talk to the ranger on the boat dock of Kristiline Town to get the
     *Lighthouse Key*.
@@ -8925,7 +8904,7 @@ style="width:6.54167in;height:4.91139in" />
 -   Return to the help center to get: $6,245, *Revival Herb,* and
     **Mareep.** (+1 Karma)
 
-<u>HQuest 19: Take my Quiz!</u>
+HQuest 19: Take my Quiz!
 
 -   Head outside and enter the house in the top right of town. Talk to
     the guy here.
@@ -8935,7 +8914,7 @@ style="width:6.54167in;height:4.91139in" />
 -   After...that… head back to the help center to get $10,0000. (+1
     Karma)
 
-<u>HQuest 20: Defend Me!</u>
+HQuest 20: Defend Me!
 
 -   Head into Aquamarine Cave, and head to the large open basement room.
 
@@ -8946,7 +8925,7 @@ style="width:6.54167in;height:4.91139in" />
 
 -   Return to the help center to get $4,000 and *Mystic Water.*
 
-<u>HQuest 21: Research</u>
+HQuest 21: Research
 
 -   Head outside and talk with Dr. Jenkel. We must find and talk to 7
     people all around the island.
@@ -8966,7 +8945,7 @@ style="width:6.54167in;height:4.91139in" />
 While you’re in Teila, notice that there is a new Move Tutor on the east
 side:
 
-<u>Teila Resort Move Tutor</u>
+Teila Resort Move Tutor
 
 Aqua Tail 4 Blue Shards
 
@@ -8983,7 +8962,7 @@ Electroweb 4 Blue Shards
 -   Then, head outside… After getting teleported, claim your rewards:
     *Exp. Candy L* and *Up-Grade.* (+1 Karma)
 
-<u>HQuest 22: ???</u>
+HQuest 22: ???
 
 -   Take a teleporter to Terajuma Shore. Surf up to the left of the
     shoreline, towards the strange house. Talk to Jenkel, then enter.
@@ -9033,7 +9012,7 @@ Remember that impossible fight in the Aqua Building? Well, I was able to
 beat it at this point, so why not give it a shot. Not essential to get
 done now, but if you can, why not.
 
-<u>Challenger Mercury (No Field)</u>
+Challenger Mercury (No Field)
 
 -   Abra, Level 10. @ Focus Sash.
 
@@ -9103,10 +9082,10 @@ Wispy Chasm Depths (Haunted Field)
 
 |                   |          |                 |          |              |          |
 |-------------------|----------|-----------------|----------|--------------|----------|
-| <u>Cave</u>       | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Water</u> | <u>%</u> |
+| Cave       | % | Old Rod  | % | Water | % |
 | Golett            | 40       | Frillish        | 70       | Frillish     | 100      |
 | Baltoy            | 20       | Barboach        | 30       |              |          |
-| Graveler          | 15       | <u>Good Rod</u> |          |              |          |
+| Graveler          | 15       | Good Rod |          |              |          |
 | Yamask (Galarian) | 14       | Whiscash        | 60       |              |          |
 | Claydol           | 6        | Frillish        | 20       |              |          |
 | Xatu              | 5        | Corphish        | 20       |              |          |
@@ -9152,10 +9131,10 @@ Amethyst Cave (Rock Climb Areas)
 
 |               |          |                 |          |                |          |
 |---------------|----------|-----------------|----------|----------------|----------|
-| <u>Cave</u>   | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Cave   | % | Old Rod  | % | Surfing | % |
 | Graveler      | 34       | Remoraid        | 70       | Remoraid       | 65       |
 | Woobat        | 20       | Barboach        | 30       | Barboach       | 30       |
-| **Swoobat**   | 20       | <u>Good Rod</u> |          | Whiscash       | 4        |
+| **Swoobat**   | 20       | Good Rod |          | Whiscash       | 4        |
 | **Sandslash** | 15       | Seaking         | 60       | Octillery      | 1        |
 | Dugtrio       | 9        | Barboach        | 20       |                |          |
 | Carbink       | 2        | Octillery       | 20       |                |          |
@@ -9165,7 +9144,7 @@ Exit on the bottom doors to the left to meet Alisha, the ninth and final
 
 Back up from here, grab the *Elixir* and enter the cave on the left.
 
-<u>Security Drone Regirock (Crystal Cavern Field)</u>
+Security Drone Regirock (Crystal Cavern Field)
 
 -   Regirock, Level 60. @ Lum Berry. 2 Shields.
 
@@ -9183,7 +9162,7 @@ similar!
 Activate Panel 4, then head to the upper right door and enter for a
 similar battle!
 
-<u>Security Drone Registeel (Crystal Cavern Field)</u>
+Security Drone Registeel (Crystal Cavern Field)
 
 -   Registeel, Level 60. @ Lum Berry. 2 Shields.
 
@@ -9214,7 +9193,7 @@ climb the ladder. Grab the Rift Notes and prepare yourself.
 Talk to the Grunt and save in front of the statue. Talk to the grunt
 again, and you’ll have to fight:
 
-<u>Lingering Regret Nancy (Mountain Field)</u>
+Lingering Regret Nancy (Mountain Field)
 
 -   Whimsicott, Level 51. @ Focus Sash.
 
@@ -9269,7 +9248,7 @@ again, and you’ll have to fight:
 This is an easy team to beat if you were able to beat Angie! It doesn’t
 really have a ton of good answers for a solid Steel / Poison move core.
 
-<u>Dimensional Rift Chandelure (Mountain Field)</u>
+Dimensional Rift Chandelure (Mountain Field)
 
 -   Chandelure, Level 58. @ Demon Stone. 1 Shield. Stats:
     110/25/69/200/110/100
@@ -9304,7 +9283,7 @@ while ago to obtain **Litwick!**
 Return to the basement level to talk to April. She’ll give us the *Phase
 Dial!* Head in and go up.
 
-<u>Chaotic Fusion Solrock (Crystal Cavern Field)</u>
+Chaotic Fusion Solrock (Crystal Cavern Field)
 
 -   Fused Solrock, Level 50, 2 Shields.
 
@@ -9338,7 +9317,7 @@ Keta.
 Talk to Texen in the lower room, then choose your team of three in the
 upper room for a battle.
 
-<u>Gym Leader Texen (Big Top Arena)</u>
+Gym Leader Texen (Big Top Arena)
 
 -   Hitmonchan, Level 49. @ Coba Berry.
 
@@ -9410,7 +9389,7 @@ Corrupted Cave (Corrupted Cave Field / Murkwater Surface)
 
 |                  |          |
 |------------------|----------|
-| <u>Cave</u>      | <u>%</u> |
+| Cave      | % |
 | Salandit         | 30       |
 | **Golbat**       | 25       |
 | Zubat            | 20       |
@@ -9431,7 +9410,7 @@ blocks.
 Set the blocks in the left room into this position, then enter the door.
 Enter the newly revealed room and enter
 
-<u>Ancient Kingdra (Blessed Field)</u>
+Ancient Kingdra (Blessed Field)
 
 -   Kingdra, Level 55. @ Dragon Fang.
 
@@ -9523,9 +9502,9 @@ Garufa Ruins
 
 |                 |          |              |          |
 |-----------------|----------|--------------|----------|
-| <u>Old Rod</u>  | <u>%</u> | <u>Water</u> | <u>%</u> |
+| Old Rod  | % | Water | % |
 | Goldeen         | 100      | Mantyke      | 90       |
-| <u>Good Rod</u> |          | Wailmer      | 6        |
+| Good Rod |          | Wailmer      | 6        |
 | Goldeen         | 60       | Mantine      | 4        |
 | Seaking         | 20       |              |          |
 | Basculin        | 20       |              |          |
@@ -9548,7 +9527,7 @@ Chamber of Awakening
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Salandit    | 31       |
 | Slugma      | 30       |
 | Golbat      | 15       |
@@ -9556,7 +9535,7 @@ Chamber of Awakening
 | Magcargo    | 9        |
 | Salazzle    | 1        |
 
-<u>Angie’s Right Hand Man Cera (Corrupted Cave)</u>
+Angie’s Right Hand Man Cera (Corrupted Cave)
 
 -   Groudon, Level 57. @ Lum Berry.
 
@@ -9588,7 +9567,7 @@ Make your way to unfreeze the T.M. shop in Kristiline. You’ll be given
 
 Head back into the shop, and they’ll have wares:
 
-<u>Kristiline T.M. Shop (\<12 Badges)</u>
+Kristiline T.M. Shop (\<12 Badges)
 
 *RM02 Avalanche* $50,000
 
@@ -9635,7 +9614,7 @@ below. If not, skip ahead to the convergence section.
 Enter the chamber, and head up and stand in the circle for another
 titanic battle!
 
-<u>Kyogre (Water Surface Field)</u>
+Kyogre (Water Surface Field)
 
 -   Kyogre, Level 60.
 
@@ -9686,7 +9665,7 @@ below. If not, skip ahead to the convergence section.
 Enter the chamber and talk to Venam. Then head up from here and stand in
 the circle for another titanic battle!
 
-<u>Kyogre (Water Surface Field)</u>
+Kyogre (Water Surface Field)
 
 -   Kyogre, Level 60.
 
@@ -9733,7 +9712,7 @@ Icy Valor Mountain (Frozen Cave Field)
 
 |                            |          |
 |----------------------------|----------|
-| <u>Cave</u>                | <u>%</u> |
+| Cave                | % |
 | **Sandygast (Aevian Ice)** | 20       |
 | **Sandslash (Alolan)**     | 20       |
 | **Cryogonal**              | 15       |
@@ -9764,13 +9743,13 @@ Normal Valor Mountain (Cave Field)
 
 |                             |          |                 |          |
 |-----------------------------|----------|-----------------|----------|
-| <u>Cave</u>                 | <u>%</u> | <u>Water</u>    | <u>%</u> |
+| Cave                 | % | Water    | % |
 | **Boldore**                 | 30       | Seel            | 65       |
 | **Sandygast (Aevian Rock)** | 20       | Dewgong         | 34       |
 | Golett                      | 10       | Sealeo          | 1        |
-| **Nidorino**                | 10       | <u>Old Rod</u>  |          |
+| **Nidorino**                | 10       | Old Rod  |          |
 | Marowak                     | 10       | Seel            | 100      |
-| **Nidorina**                | 5        | <u>Good Rod</u> |          |
+| **Nidorina**                | 5        | Good Rod |          |
 | Dugtrio                     | 5        | **Clauncher**   | 60       |
 | Claydol                     | 5        | Sealeo          | 20       |
 | **Druddigon**               | 5        | Staryu          | 20       |
@@ -9801,7 +9780,7 @@ Fiery Valor Mountain (Burning Cave Field)
 
 |                             |          |
 |-----------------------------|----------|
-| <u>Cave</u>                 | <u>%</u> |
+| Cave                 | % |
 | Slugma                      | 20       |
 | **Sandygast (Aevian Fire)** | 20       |
 | **Camerupt**                | 20       |
@@ -9831,7 +9810,7 @@ On the Gave It Away Route, if you ignored saving Amber, now you will get
 
 Head left to fight:
 
-<u>Team Xen Eli and Sharon (Mountain Field</u>)
+Team Xen Eli and Sharon (Mountain Field)
 
 -   Honchkrow, Level 53. @ Sharp Beak.
 
@@ -9968,7 +9947,7 @@ Grab the *Dragon Scale* on the left of the summit.
 
 Head up to the top when you’re ready. The first battle:
 
-<u>Renegade Giratina (Volcano Top Field)</u>
+Renegade Giratina (Volcano Top Field)
 
 -   Giratina, Level 60. @ Griseous Orb.
 
@@ -9989,7 +9968,7 @@ you have a decent strategy.
 Heal, and follow the action to the top. Time for a double battle with
 Melia.
 
-<u>Team Xen Geara and Zetta (Volcano Top Field)</u>
+Team Xen Geara and Zetta (Volcano Top Field)
 
 -   Krookodile, Level 53. @ Muscle Band.
 
@@ -10164,7 +10143,7 @@ head to Akuwa Town.
 
 The girl in the top right running in place can teach you some moves:
 
-<u>Akuwa Town Outdoor Move Tutor</u>
+Akuwa Town Outdoor Move Tutor
 
 Grass Pledge 3 Green Shards
 
@@ -10181,13 +10160,13 @@ Tyrunt.**
 
 In the house on the left side of house there are two more Tutors.
 
-<u>Akuwa Town Indoor Left Move Tutor</u>
+Akuwa Town Indoor Left Move Tutor
 
 Water Pulse 2 Blue Shards
 
 Shock Wave 3 Yellow Shards
 
-<u>Akuwa Town Indoor Right Move Tutor</u>
+Akuwa Town Indoor Right Move Tutor
 
 Snore 2 Red Shards
 
@@ -10198,7 +10177,7 @@ a *Cleanse Tag.* In Larry Locksmith’s house to the south, a guy will
 give you a *Nugget!* Enter the Pokemart to see a scene with Karrina.
 She’ll then give you a *Repel.*
 
-<u>Akuwa Town Pokemart</u>
+Akuwa Town Pokemart
 
 *Ultra Ball* $1,200
 
@@ -10262,7 +10241,7 @@ Resort and enter the dance hall.
 
 ## Lyric Badge - Badge08
 
-<u>Concert Hall Left Shop</u>
+Concert Hall Left Shop
 
 *Hyper Potion* $1,200
 
@@ -10283,7 +10262,7 @@ After building some hype, an Audino trainer will appear. She uses level
 
 Once you’ve hyped to the max, head into the battlefield.
 
-<u>Music Enthusiast Amber (Volcano Top Field)</u>
+Music Enthusiast Amber (Volcano Top Field)
 
 -   Camerupt, Level 53. @ Focus Sash.
 
@@ -10399,7 +10378,7 @@ Forest of Time
 
 |              |          |                      |          |                       |          |
 |--------------|----------|----------------------|----------|-----------------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Headbutt: Low</u> | <u>%</u> | <u>Headbutt: High</u> | <u>%</u> |
+| Grass | % | Headbutt: Low | % | Headbutt: High | % |
 | Snover       | 35       | **Cascoon**          | 30       | Aipom                 | 30       |
 | Beautifly    | 30       | Beautifly            | 25       | **Forretress**        | 25       |
 | Cubchoo      | 10       | Crabrawler           | 25       | Swablu                | 25       |
@@ -10443,7 +10422,7 @@ house to the right will give you a *Quick Claw.* In the house down from
 the stairs, grab a *Revive.* In the tower south of the gym, talk to the
 kid on 2F and answer his quiz to get a *Leaf Stone.*
 
-<u>Kugearen City Pokemart</u>
+Kugearen City Pokemart
 
 *Poke Ball* $200
 
@@ -10473,10 +10452,10 @@ Route 3 (Past)
 
 |              |          |                 |          |                |          |
 |--------------|----------|-----------------|----------|----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Grass | % | Old Rod  | % | Surfing | % |
 | **Delcatty** | 35       | Lotad           | 70       | Surskit        | 65       |
 | **Liepard**  | 25       | Surskit         | 30       | **Lombre**     | 34       |
-| **Dubwool**  | 20       | <u>Good Rod</u> |          | Masquerain     | 1        |
+| **Dubwool**  | 20       | Good Rod |          | Masquerain     | 1        |
 | Pidgeotto    | 14       | Lotad           | 60       |                |          |
 | **Loudred**  | 5        | Basculin        | 20       |                |          |
 | Pidgeot      | 1        | **Lombre**      | 20       |                |          |
@@ -10520,7 +10499,7 @@ Kugearen Woods (Past)
 
 |              |          |                 |          |
 |--------------|----------|-----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Headbutt</u> | <u>%</u> |
+| Grass | % | Headbutt | % |
 | **Unfezant** | 24       | Cascoon         | 30       |
 | Nuzleaf      | 20       | Pineco          | 29       |
 | Beautifly    | 20       | **Silcoon**     | 20       |
@@ -10564,7 +10543,7 @@ nearby is *Honey.* On your way to the south, you’ll get 2 *Cheri
 Berries, Revive,* 2 *Oran Berries,* and 2 *Aspear Berries* at the very
 top. Eavesdrop on the conversation: you’ll have to fight Gardevoir!
 
-<u>Angel of Death Gardevoir (No Field)</u>
+Angel of Death Gardevoir (No Field)
 
 -   Dark Gardevoir, Level 60. @ Lum Berry. Ability: Pixilate. Types:
     Dark/Fairy. Stats: 88/65/135/165/135/100. 3 Shields.
@@ -10626,7 +10605,7 @@ pick Blakeory Co. Beat the maid.
 Talk to Melia in the kitchen to get some sleep. After a bunch of scenes,
 it’s time for a quick battle!
 
-<u>Gang Leader Karrina (No Field)</u>
+Gang Leader Karrina (No Field)
 
 -   Runerigus, Level 54. @ Red Card.
 
@@ -10715,7 +10694,7 @@ WG Sewage Management (Factory Field)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Salandit     | 34       |
 | Trubbish     | 30       |
 | Grimer       | 15       |
@@ -10735,7 +10714,7 @@ Relationship Point Choices:
             - Ugh... Why me? (Melia -4, Venam -4, Erick -4)  
             - How about tomorrow? (Erick +1)
 
-<u>Dimensional Rift Garbodor (Corrupted Cave Field)</u>
+Dimensional Rift Garbodor (Corrupted Cave Field)
 
 -   Garbodor, Level 65. @ Black Sludge. 3 Shields. Type: Poison/Dark.
     Stats: 120/80/190/120/190/10. Ability: Poison Heal.
@@ -10774,7 +10753,7 @@ West Gearen City Pool Area
 
 |                     |          |                       |          |                   |          |
 |---------------------|----------|-----------------------|----------|-------------------|----------|
-| <u>Grass: Night</u> | <u>%</u> | <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> |
+| Grass: Night | % | Grass: Morning | % | Grass: Day | % |
 | Liepard             | 40       | Liepard               | 40       | Liepard           | 40       |
 | **Watchog**         | 20       | **Watchog**           | 20       | **Watchog**       | 20       |
 | Weepinbell          | 10       | Weepinbell            | 10       | Weepinbell        | 10       |
@@ -10813,7 +10792,7 @@ West Gearen City Main Area
 
 |                       |          |                           |          |
 |-----------------------|----------|---------------------------|----------|
-| <u>Grass: Night</u>   | <u>%</u> | <u>Grass: Morning/Day</u> | <u>%</u> |
+| Grass: Night   | % | Grass: Morning/Day | % |
 | Klang                 | 40       | Klang                     | 40       |
 | Watchog               | 20       | Watchog                   | 20       |
 | **Meowth (Galarian)** | 15       | Weepinbell                | 15       |
@@ -10849,7 +10828,7 @@ Absorb Bulbs.
 
 Enter the red door with the sign to the left and up.
 
-<u>WG Rare Fossil Shop</u>
+WG Rare Fossil Shop
 
 *Old Amber* $75,000
 
@@ -10873,7 +10852,7 @@ next mission is for 70.
 
 A couple shops have new wares:
 
-<u>Berry Emporium New Item (8 Badges)</u>
+Berry Emporium New Item (8 Badges)
 
 *Occa Berry* $750
 
@@ -10887,7 +10866,7 @@ Return to the help center in West Gearen.
 
 ## West Gearen City Help Quests - WGHelp1
 
-<u>HQuest 23: Generator Problems (Need to have freed Dufaux)</u>
+HQuest 23: Generator Problems (Need to have freed Dufaux)
 
 -   Start at the power plant on the north side and talk to Gabriel. Head
     inside to see what’s happened.
@@ -10904,7 +10883,7 @@ Return to the help center in West Gearen.
 -   In the generator room, you can find *TM64 Explosion* and the
     *Electric Memory.*
 
-<u>HQuest 24: House Sit</u>
+HQuest 24: House Sit
 
 -   Start at Saki’s house west of the power plant. Talk to Erina.
 
@@ -10921,7 +10900,7 @@ Return to the help center in West Gearen.
 
 -   Claim your reward: $5,500.
 
-<u>HQuest 25: Hidden Library 3 (Requires H.L. 1 and 2)</u>
+HQuest 25: Hidden Library 3 (Requires H.L. 1 and 2)
 
 -   Start at the park and enter the hidden library.
 
@@ -10938,7 +10917,7 @@ Unown Dimension
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Unown        | 55       |
 | Hoothoot     | 20       |
 | Pidgey       | 10       |
@@ -10970,7 +10949,7 @@ Now, head to the Wispy Ruins via Wispy Tower area entrance. Take the
 right vines down and enter the 8-badge gate to the right. Take the
 *Elemental Seed* in the chest.
 
-<u>Spector Battle Quest</u>
+Spector Battle Quest
 
 1.  Talk to Spector in front of the Giratina statue in town
 
@@ -10983,7 +10962,7 @@ right vines down and enter the 8-badge gate to the right. Take the
 
 5.  Finally, meet him in the gym auditorium for a battle!
 
-<u>Gym Leader Spector (Haunted Field)</u>
+Gym Leader Spector (Haunted Field)
 
 -   Murkrow, Level 60. @ Eviolite.
 
@@ -11089,7 +11068,7 @@ Lombre, Gastrodon, **Seismitoad**. The rare ones are Mantyke, Mantine,
 
 Entering Cairo’s shop, he has more available crests now!
 
-<u>Cairo’s Shop New Items (8 Badges)</u>
+Cairo’s Shop New Items (8 Badges)
 
 *Luxray Crest* 5,000 Red Essences
 
@@ -11111,7 +11090,7 @@ challenge him.
 Head outside. Enter the factory here. Attempt to enter the door to the
 right, and you’ll fight:
 
-<u>League Scout Amanda (Factory Field)</u>
+League Scout Amanda (Factory Field)
 
 -   Incineroar, Level 57. @ Assault Vest.
 
@@ -11188,7 +11167,7 @@ an easy time here.
 
 Head up for the gym battle!
 
-<u>Electrical Engineer Erick (Murkwater Field)</u>
+Electrical Engineer Erick (Murkwater Field)
 
 -   Electivire, Level 60. @ Muscle Band.
 
@@ -11331,13 +11310,13 @@ Relationship Point Choices:
 
 In the hallway to your car’s right, a girl will tutor you:
 
-<u>Grand Express Tutor</u>
+Grand Express Tutor
 
 Hyper Voice 4 Red Shards
 
 Head two cars left.
 
-<u>Grand Express Pokemart</u>
+Grand Express Pokemart
 
 *Poke Ball* $200
 
@@ -11380,7 +11359,7 @@ Route 7
 
 |                   |          |                       |          |                     |          |
 |-------------------|----------|-----------------------|----------|---------------------|----------|
-| <u>Grass: Day</u> | <u>%</u> | <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Day | % | Grass: Morning | % | Grass: Night | % |
 | Wooloo            | 30       | Skiploom              | 20       | Stantler            | 41       |
 | **Tauros**        | 20       | Taillow               | 20       | **Ledian**          | 20       |
 | Dubwool           | 20       | **Skiddo**            | 20       | Houndour            | 20       |
@@ -11443,15 +11422,15 @@ Honec Woods (Swamp Field / Murkwater Surface)
 
 |               |          |                 |          |                    |          |
 |---------------|----------|-----------------|----------|--------------------|----------|
-| <u>Grass</u>  | <u>%</u> | <u>Surfing</u>  | <u>%</u> | <u>Honey Trees</u> | <u>%</u> |
+| Grass  | % | Surfing  | % | Honey Trees | % |
 | Carnivine     | 24       | Tympole         | 60       | Burmy              | 70       |
 | Combee        | 20       | Wooper          | 30       | Combee             | 24       |
 | Stunfisk      | 15       | Palpitoad       | 5        | Aipom              | 4        |
 | Shelmet       | 10       | Quagsire        | 4        | Forretress         | 2        |
 | Karrablast    | 10       | Seismitoad      | 1        |                    |          |
-| Charjabug     | 10       | <u>Old Rod</u>  |          |                    |          |
+| Charjabug     | 10       | Old Rod  |          |                    |          |
 | Venonat       | 5        | Goldeen         | 100      |                    |          |
-| **Venomoth**  | 4        | <u>Good Rod</u> |          |                    |          |
+| **Venomoth**  | 4        | Good Rod |          |                    |          |
 | **Blipbug**   | 1        | Remoraid        | 100      |                    |          |
 | **Vespiquen** | 1        |                 |          |                    |          |
 
@@ -11469,7 +11448,7 @@ Head back to Yui’s Ranch. You’ll get 3 *Cherish Balls!* (+1 Karma)
 
 Now, the shop inside is in business:
 
-<u>Yui’s Ranch Store (Not open at night)</u>
+Yui’s Ranch Store (Not open at night)
 
 *Ultra Ball* $1,200
 
@@ -11497,7 +11476,7 @@ style="width:6.65625in;height:4.97917in" />
 
 Pick the 3 *Persim Berries* here. Enter the house here.
 
-<u>Route 7 Shop</u>
+Route 7 Shop
 
 *Honey* $100
 
@@ -11530,7 +11509,7 @@ Darchlight Woods (Bewitched Field)
 
 |                       |          |                       |          |                     |          |
 |-----------------------|----------|-----------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u>     | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day     | % | Grass: Night | % |
 | Morelull              | 30       | **Ponyta (Galarian)** | 25       | **Murkrow**         | 39       |
 | **Ponyta (Galarian)** | 25       | Shiinotic             | 24       | Shiinotic           | 21       |
 | **Skuntank**          | 20       | **Skuntank**          | 20       | **Skuntank**        | 20       |
@@ -11541,10 +11520,10 @@ Darchlight Woods (Bewitched Field)
 
 |                 |          |              |          |
 |-----------------|----------|--------------|----------|
-| <u>Old Rod</u>  | <u>%</u> | <u>Water</u> | <u>%</u> |
+| Old Rod  | % | Water | % |
 | Finneon         | 70       | Finneon      | 90       |
 | Basculin        | 30       | Quagsire     | 5        |
-| <u>Good Rod</u> |          | Lumineon     | 4        |
+| Good Rod |          | Lumineon     | 4        |
 | Basculin        | 60       | **Marill**   | 1        |
 | Lumineon        | 20       |              |          |
 | Chinchou        | 20       |              |          |
@@ -11575,10 +11554,10 @@ Sensu Meadow
 
 |                      |          |                 |          |
 |----------------------|----------|-----------------|----------|
-| <u>Grass</u>         | <u>%</u> | <u>Old Rod</u>  | <u>%</u> |
+| Grass         | % | Old Rod  | % |
 | **Oricorio (Sensu)** | 98       | Finneon         | 70       |
 | **Meditite**         | 2        | Basculin        | 30       |
-| <u>Water</u>         |          | <u>Good Rod</u> |          |
+| Water         |          | Good Rod |          |
 | Finneon              | 90       | Basculin        | 60       |
 | Quagsire             | 5        | Lumineon        | 20       |
 | Lumineon             | 4        | Chinchou        | 20       |
@@ -11601,10 +11580,10 @@ Azure Shore
 
 |                |          |                 |          |
 |----------------|----------|-----------------|----------|
-| <u>Surfing</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> |
+| Surfing | % | Old Rod  | % |
 | Wooper         | 60       | Goldeen         | 70       |
 | Slowpoke       | 30       | Chinchou        | 30       |
-| Quagsire       | 5        | <u>Good Rod</u> |          |
+| Quagsire       | 5        | Good Rod |          |
 | **Lanturn**    | 4        | Remoraid        | 100      |
 | Marill         | 1        |                 |          |
 
@@ -11624,7 +11603,7 @@ Route 8
 
 |                   |          |                       |          |                     |          |
 |-------------------|----------|-----------------------|----------|---------------------|----------|
-| <u>Grass: Day</u> | <u>%</u> | <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Day | % | Grass: Morning | % | Grass: Night | % |
 | Wooloo            | 30       | Skiploom              | 20       | Stantler            | 41       |
 | Tauros            | 20       | Taillow               | 20       | Ledian              | 20       |
 | Dubwool           | 20       | Skiddo                | 20       | Houndour            | 20       |
@@ -11638,13 +11617,13 @@ Route 8
 
 |                 |          |
 |-----------------|----------|
-| <u>Surfing</u>  | <u>%</u> |
+| Surfing  | % |
 | Wooper          | 90       |
 | Quagsire        | 9        |
 | Marill          | 1        |
-| <u>Old Rod</u>  |          |
+| Old Rod  |          |
 | Goldeen         | 100      |
-| <u>Good Rod</u> |          |
+| Good Rod |          |
 | Remoraid        | 100      |
 
 Pick up the hidden *Red Shard, Soda Pop, Green Shard,* 2 *Blue Shards,*
@@ -11659,7 +11638,7 @@ Darchlight Manor (Haunted Field)
 
 |               |          |
 |---------------|----------|
-| <u>Inside</u> | <u>%</u> |
+| Inside | % |
 | Duskull       | 30       |
 | Shuppet       | 30       |
 | Misdreavus    | 15       |
@@ -11701,7 +11680,7 @@ Darchlight Caves
 
 |              |          |
 |--------------|----------|
-| <u>Cave</u>  | <u>%</u> |
+| Cave  | % |
 | Bronzor      | 30       |
 | Graveler     | 20       |
 | Carbink      | 20       |
@@ -11827,7 +11806,7 @@ ready to battle. Florin battles Doubles and Flora singles.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><u>Botanist Florin (Bewitched Field, Rain)</u></p>
+<td><p>Botanist Florin (Bewitched Field, Rain)</p>
 <ul>
 <li><p>Ludicolo, Level 63. @ Wise Glasses.</p>
 <ul>
@@ -11872,7 +11851,7 @@ ready to battle. Florin battles Doubles and Flora singles.
 <li><p>Focus Blast</p></li>
 </ul></li>
 </ul></td>
-<td><p><u>Botanist Flora (Bewitched Field, Rain)</u></p>
+<td><p>Botanist Flora (Bewitched Field, Rain)</p>
 <ul>
 <li><p>Tsareena, Level 63. @ Assault Vest.</p>
 <ul>
@@ -11970,7 +11949,7 @@ Grand Dream City
 
 |                       |          |                     |          |                   |          |
 |-----------------------|----------|---------------------|----------|-------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Night | % | Grass: Day | % |
 | Tranquill             | 20       | Rattata             | 40       | Togedemaru        | 34       |
 | Skwovet               | 20       | Thievul             | 14       | Skiddo            | 20       |
 | **Leavanny**          | 20       | Raticate            | 10       | **Leavanny**      | 20       |
@@ -11983,10 +11962,10 @@ Grand Dream City
 
 |                 |          |                |          |
 |-----------------|----------|----------------|----------|
-| <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Old Rod  | % | Surfing | % |
 | Goldeen         | 70       | Clauncher      | 60       |
 | Clauncher       | 30       | Mantine        | 34       |
-| <u>Good Rod</u> |          | Bruxish        | 6        |
+| Good Rod |          | Bruxish        | 6        |
 | Clauncher       | 60       |                |          |
 | Goldeen         | 20       |                |          |
 | Seaking         | 20       |                |          |
@@ -12068,7 +12047,7 @@ Iron, Max Repel, Ether, Red Shard.*
 Enter the building in the southeast, where we can buy a few incenses and
 herbs.
 
-<u>Dream District West Spice Store</u>
+Dream District West Spice Store
 
 *Heal Powder* $450
 
@@ -12149,7 +12128,7 @@ you want to be mean, pick it up: it’s hidden right under her, and give
 it back. If you want to be nice, change the weather to Snow or Blizzard,
 then buy one from the vendor and give it to her.
 
-<u>Shopping District Ice Cream (Snow / Blizzard Only)</u>
+Shopping District Ice Cream (Snow / Blizzard Only)
 
 1x *Casteliacone* $100
 
@@ -12162,7 +12141,7 @@ Then, head into the department store here. Talk to the girl here to get
 a *Stamp Card* with the first department store stamp. Side quests give
 us access to more floors. For now, head upstairs.
 
-<u>Shopping District Mall 2F Vendor 1</u>
+Shopping District Mall 2F Vendor 1
 
 *Heat Rock* $200
 
@@ -12178,7 +12157,7 @@ us access to more floors. For now, head upstairs.
 
 *Everstone* $200
 
-<u>Shopping District Mall 2F Vendor 2</u>
+Shopping District Mall 2F Vendor 2
 
 *Max Repel* $700
 
@@ -12281,7 +12260,7 @@ Now, the story segments should converge from here for a while.
 Head to the shopping district and talk to Venam and Madelis here. Choose
 a color, and Venam will challenge you to a battle!
 
-<u>Punk Girl Venam (No Field)</u>
+Punk Girl Venam (No Field)
 
 -   Toxtricity (Amped), Level 67. @ Focus Sash.
 
@@ -12400,7 +12379,7 @@ Darchlight Manor (Outside)
 
 |               |          |
 |---------------|----------|
-| <u>Inside</u> | <u>%</u> |
+| Inside | % |
 | Duskull       | 30       |
 | Shuppet       | 30       |
 | Misdreavus    | 15       |
@@ -12430,7 +12409,7 @@ this central area, grab the *Apophyll Pancakes* in the upper right
 corner and *TM85 Dream Eater* in the upper left. Head up at the fountain
 for a fight, as Aelita.
 
-<u>Xen Executive Zetta (No Field)</u>
+Xen Executive Zetta (No Field)
 
 -   Gliscor, Level 68. @ Flying Gem.
 
@@ -12510,13 +12489,13 @@ Head up and into the Nightmare Casino. Zetta will explain the rules and
 give us 10,000 coins. At the top right, grab *Psychic Memory.* The left
 vendor will give us a *Coin Case* if we have neglected to get one yet.
 
-<u>Nightmare Casino Left Vendor</u>
+Nightmare Casino Left Vendor
 
 50 Coins $1,000
 
 500 Coins $10,000
 
-<u>Nightmare Casino Right Vendor</u>
+Nightmare Casino Right Vendor
 
 500 Puppet Coins 1000 Coins
 
@@ -12540,7 +12519,7 @@ There’s an Audino level grinder here if you want to push your levels up
 to 70. Win to get 6 *Exp. Candy L* each time. Then, talk to Zetta in
 front of the box for a battle.
 
-<u>Xen Executive Zetta (No Field)</u>
+Xen Executive Zetta (No Field)
 
 -   Weavile, Level 68. @ Muscle Band.
 
@@ -12621,7 +12600,7 @@ surprise gym battle!
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><u>Puppet Master Magenta (Tag Battle -&gt;)</u></p>
+<td><p>Puppet Master Magenta (Tag Battle -&gt;)</p>
 <ul>
 <li><p>Beheeyem, Level 68. @ Focus Sash.</p>
 <ul>
@@ -12659,7 +12638,7 @@ surprise gym battle!
 <li><p>Shadow Ball</p></li>
 </ul></li>
 </ul></td>
-<td><p><u>Puppet Master Neon (Psychic Terrain)</u></p>
+<td><p>Puppet Master Neon (Psychic Terrain)</p>
 <ul>
 <li><p>Claydol, Level 68. @ Light Clay.</p>
 <ul>
@@ -12738,10 +12717,10 @@ Route 9
 
 |                |          |                 |          |                |          |
 |----------------|----------|-----------------|----------|----------------|----------|
-| <u>Grass</u>   | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Grass   | % | Old Rod  | % | Surfing | % |
 | **Pangoro**    | 35       | Spheal          | 70       | Mantyke        | 60       |
 | Liepard        | 24       | Mantyke         | 30       | Dewgong        | 30       |
-| **Mothim**     | 15       | <u>Good Rod</u> |          | Sealeo         | 5        |
+| **Mothim**     | 15       | Good Rod |          | Sealeo         | 5        |
 | **Sudowoodo**  | 14       | Mantyke         | 60       | Mantine        | 4        |
 | **Lycanroc**   | 10       | Quagsire        | 20       | **Pincurchin** | 1        |
 | **Talonflame** | 2        | Qwilfish        | 20       |                |          |
@@ -12776,10 +12755,10 @@ Forlorned Cavern
 
 |                   |          |                 |     |                |          |
 |-------------------|----------|-----------------|-----|----------------|----------|
-| <u>Grass</u>      | <u>%</u> | <u>Old Rod</u>  |     | <u>Surfing</u> | <u>%</u> |
+| Grass      | % | Old Rod  |     | Surfing | % |
 | Pangoro           | 25       | Corphish        | 70  | Mantyke        | 60       |
 | Graveler (Alolan) | 20       | Chewtle         | 30  | Dewgong        | 30       |
-| Swoobat           | 15       | <u>Good Rod</u> |     | Sealeo         | 5        |
+| Swoobat           | 15       | Good Rod |     | Sealeo         | 5        |
 | Togedemaru        | 14       | Mantyke         | 60  | Mantine        | 4        |
 | Sudowoodo         | 14       | Quagsire        | 20  | Bruxish        | 1        |
 | Lycanroc          | 10       | Qwilfish        | 20  |                |          |
@@ -12928,7 +12907,7 @@ you’ll get Eevee with special moves and an *Ice Stone!* Head down to
 talk to the hiker in the crowd, to get your second *Department Store
 Stamp!*
 
-<u>Shopping District Mall 3F Vendor 1</u>
+Shopping District Mall 3F Vendor 1
 
 *Fire Stone* $2,100
 
@@ -12946,7 +12925,7 @@ Stamp!*
 
 *Power Band* $2,100
 
-<u>Shopping District Mall 3F Vendor 2</u>
+Shopping District Mall 3F Vendor 2
 
 *Air Balloon* $200
 
@@ -12971,7 +12950,7 @@ Axis High University
 
 |                       |          |                   |          |                     |          |
 |-----------------------|----------|-------------------|----------|---------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u> | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
 | Chatot                | 29       | Togedemaru        | 34       | Rattata             | 40       |
 | Skiddo                | 20       | Skiddo            | 20       | Raticate            | 20       |
 | Leavanny              | 20       | Leavanny          | 20       | Hoothoot            | 20       |
@@ -12983,10 +12962,10 @@ Axis High University
 
 |                 |          |                |          |
 |-----------------|----------|----------------|----------|
-| <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Old Rod  | % | Surfing | % |
 | Goldeen         | 70       | Clauncher      | 60       |
 | Clauncher       | 30       | Mantine        | 34       |
-| <u>Good Rod</u> |          | Bruxish        | 6        |
+| Good Rod |          | Bruxish        | 6        |
 | Clauncher       | 60       |                |          |
 | Goldeen         | 20       |                |          |
 | Seaking         | 20       |                |          |
@@ -12994,7 +12973,7 @@ Axis High University
 Start to the right. The guy nearby will sell you a Chatot for $15,000.
 Grab the *Ether* down from here. The girl to the right is a tutor.
 
-<u>Axis High University Move Tutor (Right)</u>
+Axis High University Move Tutor (Right)
 
 Water Pledge 3 Blue Shards
 
@@ -13030,7 +13009,7 @@ Once you win, you’ll get **Darumaka.**
 
 On the left, there are more vendors.
 
-<u>Axis High University Right Vendor Store</u>
+Axis High University Right Vendor Store
 
 *Vanilla Ice Cream* $400
 
@@ -13040,7 +13019,7 @@ On the left, there are more vendors.
 
 She’ll also rarely have *Blue Moon Ice Cream* to sell.
 
-<u>Axis High University Left Vendor Store</u>
+Axis High University Left Vendor Store
 
 *Reverse Candy* $50
 
@@ -13102,7 +13081,7 @@ We can catch Wishiwashi elsewhere, and we also can buy Sail and Jaw
 Fossils elsewhere, so this is primarily useful right now for its
 evolution items and Horsea.
 
-<u>Axis High University Move Tutor (Left Top)</u>
+Axis High University Move Tutor (Left Top)
 
 Endeavor 3 Green Shards
 
@@ -13110,7 +13089,7 @@ Iron Tail 4 Yellow Shards
 
 Earth Power 3 Blue Shards
 
-<u>Axis High University Move Tutor (Left Bottom)</u>
+Axis High University Move Tutor (Left Bottom)
 
 Thunderpunch 2 Yellow Shards
 
@@ -13122,7 +13101,7 @@ Drain Punch 3 Red Shards
 
 Focus Punch 3 Red Shards
 
-<u>Axis High University Left Shop</u>
+Axis High University Left Shop
 
 *Air Balloon* $200
 
@@ -13132,7 +13111,7 @@ Relationship Point Choices:
             - You're on! (Aelita +1, Adam +2)  
             - Uh... No thanks. (Aelita -1, Adam -2)    
 
-<u>Pop Star Risa Raider (No Field)</u>
+Pop Star Risa Raider (No Field)
 
 -   Tuff-Puff Jigglypuff, Level 85. @ Air Balloon.
 
@@ -13194,7 +13173,7 @@ Sheridan Village (Past)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Unfezant     | 24       |
 | Beautifly    | 20       |
 | Nuzleaf      | 20       |
@@ -13214,7 +13193,7 @@ At the top of the village, use your Itemfinder to get a *Meadow Plate*
 and *Yellow Shard.* Enter Vivian’s house, and prepare for a battle. You
 get 3 Pokémon.
 
-<u>Enigma Melia & Candid Girl Erin (No Field)</u>
+Enigma Melia & Candid Girl Erin (No Field)
 
 -   Meganium, Level 70. @ Meganium Crest.
 
@@ -13308,7 +13287,7 @@ Heracross Woods (Past)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Heracross    | 50       |
 | Beautifly    | 20       |
 | Unfezant     | 20       |
@@ -13326,7 +13305,7 @@ village after Aelita’s amulet gets taken. Talk to Aelita by the berries.
 Go upstairs and interact with the table to get the *Garufa Spellbook.*
 Head down the stairs after the scene.
 
-<u>Sensei Vivian (Blessed Field)</u>
+Sensei Vivian (Blessed Field)
 
 -   Tyranitar, Level 71. @ Smooth Rock.
 
@@ -13416,7 +13395,7 @@ here. Beat the grunts as you push the blue and yellow buttons in this
 room. Head up again and go past the dead lasers, then up the stairs.
 Follow the path.
 
-<u>Captain Valarie (Murkwater Field)</u>
+Captain Valarie (Murkwater Field)
 
 -   Toxicroak, Level 72. @ Assault Vest.
 
@@ -13520,7 +13499,7 @@ Blacksteeple Playroom (Chess Field)
 
 |                |          |
 |----------------|----------|
-| <u>Grass</u>   | <u>%</u> |
+| Grass   | % |
 | Amoongus       | 20       |
 | Graveler       | 20       |
 | Muk            | 10       |
@@ -13537,7 +13516,7 @@ Blacksteeple Playroom (Chess Field)
 Head out and up, into the right room and read the book thing here. Do
 the same for the left room. Then enter the top room.
 
-<u>Survivor Kenneth (Chess Field)</u>
+Survivor Kenneth (Chess Field)
 
 -   Banette, Level 71. @ Spell Tag.
 
@@ -13610,7 +13589,7 @@ in time, you’ll be granted (Melia +5) Relationship Points.
 
 Next is a battle against Melia.
 
-<u>Enigma Melia (Chess Field)</u>
+Enigma Melia (Chess Field)
 
 -   Snorlax, Level 72. @ Silk Scarf.
 
@@ -13710,7 +13689,7 @@ Relationship Point Choices:
 
 Time to play as Melia. Follow the path!
 
-<u>Hood Emma (No Field)</u>
+Hood Emma (No Field)
 
 -   Zoroark, Level 74. @ Blackglasses.
 
@@ -13747,7 +13726,7 @@ A pretty easy fight for her team.
 Tell Melia “Are you okay!?” for relationship points, then prepare for a
 battle!
 
-<u>Little Demon Melanie (No Field)</u>
+Little Demon Melanie (No Field)
 
 -   Galarian Mr. Mime, Level 73. @ Eviolite.
 
@@ -13830,7 +13809,7 @@ Relationship Point Choices:
             - What are you talking about? (Melia +1)  
             - We have to save Vivian! (Melia -1)
 
-<u>Guardian Regirock (Blessed Field)</u>
+Guardian Regirock (Blessed Field)
 
 -   Regirock, Level 75. @ Lum Berry.
 
@@ -13869,7 +13848,7 @@ As always, these are optional, but extremely recommended! There’s fewer
 here but they’re more in depth this time. Head to the Central Building
 and into the left elevator to engage with these.
 
-<u>HQuest 26: Missing Children</u>
+HQuest 26: Missing Children
 
 -   First thing we’re gonna do is head to the Police Department in the
     Judicial District. Talk to Officer Jenny at the top.
@@ -13903,7 +13882,7 @@ style="width:6.73958in;height:5.03125in" />
 -   Enter this shop here and talk to the owner. Buy something if you’d
     like.
 
-<u>The Underground Shop (Inside)</u>
+The Underground Shop (Inside)
 
 *Ultra Ball* $1,200
 
@@ -13920,7 +13899,7 @@ style="width:6.73958in;height:5.03125in" />
 
 -   Head into the main building to the left and speak with the guy.
 
-<u>The Underground Shop (Left)</u>
+The Underground Shop (Left)
 
 *Metal Powder* $10
 
@@ -13932,7 +13911,7 @@ style="width:6.73958in;height:5.03125in" />
 
 *Blast Powder* $2,500
 
-<u>The Underground Shop (Right)</u>
+The Underground Shop (Right)
 
 *Oval Stone* $2,100
 
@@ -13991,7 +13970,7 @@ style="width:6.67708in;height:5.05208in" />
 
 ## Classified Information Quest - ClassInf1
 
-<u>HQuest 27: Classified Information</u>
+HQuest 27: Classified Information
 
 -   Take the request and talk to the person by the elevator to get to
     the 36F of the building.
@@ -14031,7 +14010,7 @@ Relationship Point Choices:
 
 -   Inside, grab the *Rift Notes: Code Drifio*.
 
-<u>Dimensional Rift Ferrothorn (Burning Field)</u>
+Dimensional Rift Ferrothorn (Burning Field)
 
 -   Ferrothorn, Level 75. @ Metronome. Type: Fire/Steel. Ability: Shift.
     > 3 Shields.
@@ -14067,7 +14046,7 @@ choices.
     interact with the panel in the back, then enter the right room. Read
     the journal and use the Itemfinder in here to get *Dubious Disc!*
 
-<u>Shopping District Mall 4F Vendor 1</u>
+Shopping District Mall 4F Vendor 1
 
 *HP Up* $9,800
 
@@ -14083,7 +14062,7 @@ choices.
 
 Buy one Protein while you’re here for a quest later.
 
-<u>Shopping District Mall 4F Vendor 2</u>
+Shopping District Mall 4F Vendor 2
 
 *Sticky Barb* $200
 
@@ -14111,7 +14090,7 @@ battle time.
 
 Head out to the back courtyard of the theater and talk to Souta.
 
-<u>Spiritual Healer Souta (Sky Field, Strong Winds)</u>
+Spiritual Healer Souta (Sky Field, Strong Winds)
 
 -   Skarmory, Level 73. @ Elemental Seed.
 
@@ -14294,7 +14273,7 @@ As soon as you’re ready, talk to Erin and agree to enter the rift. Head
 up and follow the path, it’s quite straightforward. Grab the *Rift Notes
 on Pulse: Bella* and continue. Erin is gonna help us with this fight:
 
-<u>Dimensional Rift… Aelita?? (Dimensional Rift Field)</u>
+Dimensional Rift… Aelita?? (Dimensional Rift Field)
 
 -   “Aelita”/Regirock, Level 80. @ Leftovers. Ability: Savagery. Type:
     Rock/Fighting. Stats: 200/190/200/190/200/200.
@@ -14348,13 +14327,13 @@ part of this story. It is not required that you play it but it gives
 perspective and history on certain events in this game. It is located
 here:
 
-[<u>https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1</u>](https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1)
+[https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1](https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1)
 
 If you want a guide to the side story: Lucifer on the forums wrote up a
 fantastic guide to getting 100% in the side game, and so I wouldn’t want
 to waste time by writing my own guide to it.
 
-[<u>https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/</u>](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/)
+[https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/)
 
 If you did play WLL and got a certain password at the end for getting
 the good ending however, head over to GDC’s Central Building during the
@@ -14372,7 +14351,7 @@ Scholar District
 
 |                       |          |                   |          |                        |          |
 |-----------------------|----------|-------------------|----------|------------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u>    | <u>%</u> |
+| Grass: Morning | % | Grass: Day | % | Grass: Night    | % |
 | Voltorb               | 20       | Voltorb           | 20       | Koffing                | 40       |
 | **Mr. Mime**          | 20       | **Mr. Mime**      | 20       | Thievul                | 14       |
 | Leavanny              | 20       | Leavanny          | 20       | **Weezing (Galarian)** | 11       |
@@ -14392,7 +14371,7 @@ Enter the student rec. center. In the left room you’ll find another game
 corner! Three of the vendors are exactly the same as in Chrisola, but we
 can get a few new Pokemon.
 
-<u>Top Right Pokémon Prizes</u>
+Top Right Pokémon Prizes
 
 **Aron** 5000 Coins
 
@@ -14514,7 +14493,7 @@ Voidal Chasm (Main Areas / Backroom)
 
 |                  |          |
 |------------------|----------|
-| <u>Grass</u>     | <u>%</u> |
+| Grass     | % |
 | **Golurk**       | 35       |
 | Claydol          | 20       |
 | Skuntank         | 15       |
@@ -14555,7 +14534,7 @@ In the vs. Bladestar route, you’ll meet up with a familiar figure at the
 top here. Here you will gain (+1 Reina) Relationship Point if you saved
 her in Mt. Valor, and (-1 Reina) if not.
 
-<u>Hood ??? (Dimensional Field)</u>
+Hood ??? (Dimensional Field)
 
 -   Silvally, Level 75.
 
@@ -14588,7 +14567,7 @@ Zorrialyn Desert (Main Areas)
 
 |                          |          |                    |          |
 |--------------------------|----------|--------------------|----------|
-| <u>Sand: Morning/Day</u> | <u>%</u> | <u>Sand: Night</u> | <u>%</u> |
+| Sand: Morning/Day | % | Sand: Night | % |
 | Maractus                 | 30       | Cacturne           | 40       |
 | Dugtrio                  | 24       | Dugtrio            | 24       |
 | Marowak                  | 20       | Marowak            | 20       |
@@ -14620,10 +14599,10 @@ Zorrialyn Desert (Left Area)
 
 |                      |          |                  |          |                    |          |                 |          |              |          |
 |----------------------|----------|------------------|----------|--------------------|----------|-----------------|----------|--------------|----------|
-| <u>Sand: Morning</u> | <u>%</u> | <u>Sand: Day</u> | <u>%</u> | <u>Sand: Night</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Water</u> | <u>%</u> |
+| Sand: Morning | % | Sand: Day | % | Sand: Night | % | Old Rod  | % | Water | % |
 | Maractus             | 30       | Maractus         | 30       | Cacturne           | 40       | Shellos         | 70       | Gastrodon    | 66       |
 | Dugtrio              | 20       | Dugtrio          | 20       | Dugtrio            | 24       | Wooper          | 30       | Whiscash     | 30       |
-| Marowak              | 20       | Marowak          | 20       | Marowak            | 20       | <u>Good Rod</u> |          | Quagsire     | 4        |
+| Marowak              | 20       | Marowak          | 20       | Marowak            | 20       | Good Rod |          | Quagsire     | 4        |
 | Helioptile           | 10       | Helioptile       | 10       | Helioptile         | 10       | Helioptile      | 80       |              |          |
 | Budew (Aevian)       | 8        | Budew (Aevian)   | 9        | Heliolisk          | 5        | Heliolisk       | 20       |              |          |
 | Cacturne             | 6        | Cacturne         | 5        | Nidoqueen          | 1        |                 |          |              |          |
@@ -14685,7 +14664,7 @@ Zorrialyn Desert (Next to Poiloethal Forest)
 
 |                  |          |                    |          |                      |          |
 |------------------|----------|--------------------|----------|----------------------|----------|
-| <u>Sand: Day</u> | <u>%</u> | <u>Sand: Night</u> | <u>%</u> | <u>Sand: Morning</u> | <u>%</u> |
+| Sand: Day | % | Sand: Night | % | Sand: Morning | % |
 | Maractus         | 30       | Maractus           | 30       | Maractus             | 30       |
 | Muk              | 25       | Muk                | 25       | Muk                  | 25       |
 | Marowak          | 20       | Marowak            | 20       | Marowak              | 20       |
@@ -14706,7 +14685,7 @@ Zorrialyn Coast (Southwest)
 
 |                          |          |                    |          |
 |--------------------------|----------|--------------------|----------|
-| <u>Sand: Morning/Day</u> | <u>%</u> | <u>Sand: Night</u> | <u>%</u> |
+| Sand: Morning/Day | % | Sand: Night | % |
 | **Gligar**               | 35       | Mudsdale           | 44       |
 | Maractus                 | 30       | Cacturne           | 40       |
 | Mudsdale                 | 24       | Helioptile         | 10       |
@@ -14746,7 +14725,7 @@ Talk to the girl on the second level here, and she’ll give you some lore
 in exchange for some cash. There is also a Level 75 Audino Breeder here.
 You’ll get 3 *Exp. Candy XL* every time you win. Head up.
 
-<u>Sashila Shop</u>
+Sashila Shop
 
 *Poke Ball* $200
 
@@ -14848,7 +14827,7 @@ Alamissa Urben
 
 |                |          |
 |----------------|----------|
-| <u>Cave</u>    | <u>%</u> |
+| Cave    | % |
 | Claydol        | 30       |
 | Golurk         | 25       |
 | Sigilyph       | 15       |
@@ -14916,7 +14895,7 @@ Route 5 (Past)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Ribombee     | 41       |
 | Steenee      | 20       |
 | Camerupt     | 11       |
@@ -14935,7 +14914,7 @@ Hiyoshi City (Past)
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Ribombee     | 40       |
 | Steenee      | 25       |
 | Delcatty     | 14       |
@@ -14946,7 +14925,7 @@ Hiyoshi City (Past)
 
 At the east side of the town, there are some shops.
 
-<u>Hiyoshi City Move Tutor</u>
+Hiyoshi City Move Tutor
 
 Sky Attack 3 Red Shards
 
@@ -14958,13 +14937,13 @@ Gravity 2 Blue Shards
 
 Recycle 2 Green Shards
 
-<u>Hiyoshi City Shop Top Vendor</u>
+Hiyoshi City Shop Top Vendor
 
 *Sitrus Berry* $750
 
 *Chesto Berry* $300
 
-<u>Hiyoshi City Shop Bottom Vendor</u>
+Hiyoshi City Shop Bottom Vendor
 
 *Poke Ball* $200
 
@@ -15006,9 +14985,9 @@ Hiyoshi Pass
 
 |               |          |                |          |                 |          |
 |---------------|----------|----------------|----------|-----------------|----------|
-| <u>Grass</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> |
+| Grass  | % | Surfing | % | Old Rod  | % |
 | Skiddo        | 40       | Wooper         | 90       | Goldeen         | 100      |
-| Tauros        | 30       | Quagsire       | 9        | <u>Good Rod</u> |          |
+| Tauros        | 30       | Quagsire       | 9        | Good Rod |          |
 | **Zebstrika** | 10       | Marill         | 1        | Remoraid        | 100      |
 | Gogoat        | 10       |                |          |                 |          |
 | Stantler      | 9        |                |          |                 |          |
@@ -15019,7 +14998,7 @@ Grab the *TM27 Return* on the right.
 When you head up, be prepared for a battle… and another change of pace.
 We’ll be playing as Ren now!
 
-<u>??? ??? (No Field)</u>
+??? ??? (No Field)
 
 -   Raichu (Alolan), Level 79. @ Focus Sash.
 
@@ -15090,7 +15069,7 @@ be pushing strength boulders onto the spiked platforms. As soon as you
 get to the first healing star, grab the *Focus Sash* to the left and
 press the button on the pillar.
 
-<u>Optimistic Guy Huey (Dimensional Rift Field)</u>
+Optimistic Guy Huey (Dimensional Rift Field)
 
 -   Octillery, Level 78. @ Leftovers.
 
@@ -15114,7 +15093,7 @@ press the button on the pillar.
 
 Easy one. Continue north.
 
-<u>Trendy Girl Reina (Dimensional Rift Field)</u>
+Trendy Girl Reina (Dimensional Rift Field)
 
 -   Ribombee, Level 75. @ Focus Sash.
 
@@ -15151,7 +15130,7 @@ Another easy one, just make sure you don’t get swept by Honchkrow.
 Head up and through, grabbing the *Rift Notes for Code: Angelus*. Oh
 boy.
 
-<u>Angel of Death Gardevoir (Dimensional Field)</u>
+Angel of Death Gardevoir (Dimensional Field)
 
 -   Angel of Death Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
     Ability: Execution. Stats: 300/200/150/180/200/145.
@@ -15185,7 +15164,7 @@ you’ll get relationship points here:
 If Cop saved - (Ren +3, Reina +3, Huey +3, Venam +3)  
 If Maria "saved" - (Ren +3, Reina +3, Huey +3)
 
-<u>Dimensional Rift Gardevoir Round 2 (Dimensional Field)</u>
+Dimensional Rift Gardevoir Round 2 (Dimensional Field)
 
 -   Fallen Angel Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
     Ability: Execution. Stats: 180/130/100/100/100/240.
@@ -15211,7 +15190,7 @@ coastline and talk to Alexandra in front of the obelisk. After the
 scene, we’re gonna head west across the bridge for a battle with Ren! At
 least we’re familiar with his team.
 
-<u>Outcast Ren (Desert Field)</u>
+Outcast Ren (Desert Field)
 
 -   Aevian Roserade, Level 77. @ Focus Sash.
 
@@ -15279,7 +15258,7 @@ before. Beat him with a better team!
 Next, it’s time for some Help Quests. Enter the door in the middle of
 Sashila Village, on the left side.
 
-<u>HQuest 28: Legend of the Void</u>
+HQuest 28: Legend of the Void
 
 -   Enter the door directly below the help center and talk to the man,
     Marten.
@@ -15319,7 +15298,7 @@ Sashila Village, on the left side.
 -   Return to the help center to claim your reward: $12.500 and
     MegaStone *Absolite,* as well as (+1 Karma). Sweet!
 
-<u>HQuest 29: Badland Baddies</u>
+HQuest 29: Badland Baddies
 
 -   Head back to the research center from the last quest. Talk to the
     guy at the bottom right and agree to get sprayed.
@@ -15330,7 +15309,7 @@ Ruined City
 
 |                          |          |                    |          |
 |--------------------------|----------|--------------------|----------|
-| <u>Sand: Morning/Day</u> | <u>%</u> | <u>Sand: Night</u> | <u>%</u> |
+| Sand: Morning/Day | % | Sand: Night | % |
 | Gligar                   | 36       | Mudsdale           | 44       |
 | Maractus                 | 30       | Cacturne           | 40       |
 | Mudsdale                 | 24       | Helioptile         | 10       |
@@ -15384,7 +15363,7 @@ style="width:6.6875in;height:5in" />
 -   Return to the help center to claim your reward: $22,500, a *Link
     Heart, Sitrus Berries*, and *Roseli Berries.* (+1 Karma).
 
-<u>Sashila Village Help Quest 3: My Sister Fell...</u>
+Sashila Village Help Quest 3: My Sister Fell...
 
 -   Head to the Voidal Chasm. Go all the way to B3F, and rock climb up
     twice. Enter this door and go to the right.
@@ -15400,11 +15379,11 @@ style="width:6.6875in;height:5in" />
 -   Return to the help center to get $32,500 and MegaStone *Abomasite!*
     Nice. (+1 Karma).
 
-<u>HQuest 30: I need to get Stronger!</u>
+HQuest 30: I need to get Stronger!
 
 -   Meet Novae at the bottom of the village. It’s battle time…
 
-<u>Wanderer Novae (Desert Field)</u>
+Wanderer Novae (Desert Field)
 
 -   Ninetales, Level 79. @ Charcoal.
 
@@ -15489,7 +15468,7 @@ Sand Stream Cave
 
 |                |          |
 |----------------|----------|
-| <u>Cave</u>    | <u>%</u> |
+| Cave    | % |
 | Silicobra      | 35       |
 | **Hippopotas** | 30       |
 | Diggersby      | 29       |
@@ -15518,7 +15497,7 @@ Sand Stream Depths
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Silicobra   | 35       |
 | Hippopotas  | 30       |
 | Diggersby   | 29       |
@@ -15613,7 +15592,7 @@ When you’re ready, hop on the Route 9 train headed to the Tournament
 Stadium. Enter the building. Talk to Erin at the desk, then to the
 attendant.
 
-<u>GDC Tournament Shop</u>
+GDC Tournament Shop
 
 *Poke Ball* $200
 
@@ -15674,7 +15653,7 @@ So, beat all eight of these fools and watch the following cutscene…
 
 ## Rugged Badge - Badge13
 
-<u>Gym Leader Adam (Inverse Field)</u>
+Gym Leader Adam (Inverse Field)
 
 -   Tyranitar, Level 80. @ Magical Seed.
 
@@ -15803,7 +15782,7 @@ Enter Aquamarine Cave next: in the chamber room, surf up and talk to
 
 Go to Kristiline Town next. The T.M. shop has updated wares:
 
-<u>Kristiline T.M. Shop New Items (12+ Badges)</u>
+Kristiline T.M. Shop New Items (12+ Badges)
 
 *RM01 Hone Claws* $150,000
 
@@ -15845,7 +15824,7 @@ Exit, and make your way to Sheridan Village. Enter Carotos via the
 waterfall entrance and make your way to the second room. Cross the
 bridge to the right, use Blast Powder, and use strength to get beyond.
 
-<u>Carotos Pokémon Seller</u>
+Carotos Pokémon Seller
 
 **Happiny** 6 Blue Shards
 
@@ -15870,7 +15849,7 @@ red door on the south side of town. If you’ve beat all the virtual gym
 leaders, accept the challenge to the virtual E4. You can “take a break”
 after each win: if you do, you can save between each member.
 
-<u>Elite Four Will (Glitch Field)</u>
+Elite Four Will (Glitch Field)
 
 -   Jynx, Level 51. @ Ice Gem.
 
@@ -15939,7 +15918,7 @@ Exeggutor, and Miltank and Jolteon can easily handle Espeon, Slowbro,
 and Slowking with a combination of healing and attacking. The rest of
 your Pokémon should be able to fill in the gaps.
 
-<u>Elite Four Koga (Glitch Field)</u>
+Elite Four Koga (Glitch Field)
 
 -   Forretress, Level 53. @ Zoom Lens.
 
@@ -16010,7 +15989,7 @@ Ariados. Luckily Jolteon can easily take Crobat if you don’t let it
 Double Team too much, and Typhlosion, Gliscor, and Steelix can find ways
 to deal with everything else easily.
 
-<u>Elite Four Bruno (Glitch Field)</u>
+Elite Four Bruno (Glitch Field)
 
 -   Golem, Level 54. @ Muscle Band.
 
@@ -16082,7 +16061,7 @@ still help by crippling Granbull and Kangaskhan. Once Gliscor goes down,
 Qwilfish with Intimidate and Typhlosion should be able to ride out the
 fight.
 
-<u>Elite Four Karen (Glitch Field)</u>
+Elite Four Karen (Glitch Field)
 
 -   Alolan Persian, Level 55. @ Mental Herb.
 
@@ -16153,7 +16132,7 @@ have left to make sure it can’t rest. Steelix can’t get poisoned, so
 getting off a couple curses might be your best bet. You can always reset
 if things go south.
 
-<u>Champion Lance (Glitch Field)</u>
+Champion Lance (Glitch Field)
 
 -   Alolan Exeggutor, Level 58. @ White Herb.
 
@@ -16239,12 +16218,12 @@ Route 2 (Altered)
 
 |              |          |                 |          |                 |          |
 |--------------|----------|-----------------|----------|-----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Headbutt</u> | <u>%</u> | <u>Water</u>    | <u>%</u> |
+| Grass | % | Headbutt | % | Water    | % |
 | Lickitung    | 30       | Aipom           | 30       | Bruxish         | 66       |
 | Taillow      | 30       | Ambipom         | 25       | Alomomola       | 34       |
-| Lurantis     | 15       | Forretress      | 20       | <u>Old Rod</u>  |          |
+| Lurantis     | 15       | Forretress      | 20       | Old Rod  |          |
 | Swellow      | 10       | Pineco          | 10       | Luvdisc         | 100      |
-| **Tsareena** | 10       | Combee          | 5        | <u>Good Rod</u> |          |
+| **Tsareena** | 10       | Combee          | 5        | Good Rod |          |
 | Heracross    | 4        | Burmy           | 5        | Alomomola       | 100      |
 | Chansey      | 1        | Vespiquen       | 5        |                 |          |
 
@@ -16292,7 +16271,7 @@ East Gearen City (Neo)
 
 |                        |          |                      |          |                    |          |
 |------------------------|----------|----------------------|----------|--------------------|----------|
-| <u>Grass (Morning)</u> | <u>%</u> | <u>Grass (Night)</u> | <u>%</u> | <u>Grass (Day)</u> | <u>%</u> |
+| Grass (Morning) | % | Grass (Night) | % | Grass (Day) | % |
 | Shinx                  | 20       | Shinx                | 20       | Petilil            | 30       |
 | Sunkern                | 20       | Oddish               | 20       | Shinx              | 20       |
 | Electrike              | 10       | Houndour             | 10       | Electrike          | 10       |
@@ -16304,11 +16283,11 @@ East Gearen City (Neo)
 | Manectric              | 4        | **Houndoom**         | 4        |                    |          |
 | Mime Jr.               | 2        | Mime Jr.             | 2        |                    |          |
 
-<u>East Gearen Neo Move Tutor: Corsola</u>
+East Gearen Neo Move Tutor: Corsola
 
 Throat Chop 4 Red Shards
 
-<u>East Gearen Neo Move Tutor: Girl</u>
+East Gearen Neo Move Tutor: Girl
 
 Iron Head 5 Red Shards
 
@@ -16316,7 +16295,7 @@ Low Kick 3 Green Shards
 
 Foul Play 6 Yellow Shards
 
-<u>East Gearen Neo Move Tutor: Guy</u>
+East Gearen Neo Move Tutor: Guy
 
 Outrage 7 Yellow Shards
 
@@ -16342,7 +16321,7 @@ Gearen Park (Neo)
 
 |                        |          |
 |------------------------|----------|
-| <u>Grass (Morning)</u> | <u>%</u> |
+| Grass (Morning) | % |
 | Budew                  | 40       |
 | Spearow                | 30       |
 | Pansear                | 10       |
@@ -16365,7 +16344,7 @@ Pokémon found later on at Axis University.
 Enter the Help Center. If you’ve been keeping track of Zygarde Cells (At
 least 70), talk to the researchers to get *Lucky Egg*!
 
-<u>HQuest 31: Poke Ball Conundrum</u>
+HQuest 31: Poke Ball Conundrum
 
 -   Enter the Everglade Mall and speak to the clerk at the Poke Ball
     shop.
@@ -16391,7 +16370,7 @@ least 70), talk to the researchers to get *Lucky Egg*!
     also again be able to buy balls here - nothing we couldn’t before
     however.
 
-<u>HQuest 32: Forest Restoration</u>
+HQuest 32: Forest Restoration
 
 -   Meet at the Route 1 Train Station.
 
@@ -16449,10 +16428,10 @@ Goldenwood Park
 
 |              |          |                 |          |                |     |
 |--------------|----------|-----------------|----------|----------------|-----|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> |     |
+| Grass | % | Old Rod  | % | Surfing |     |
 | Bunnelby     | 20       | Finneon         | 70       | Poliwag        | 60  |
 | Buneary      | 20       | Clauncher       | 30       | Lotad          | 30  |
-| **Vivillon** | 14       | <u>Good Rod</u> |          | **Poliwhirl**  | 5   |
+| **Vivillon** | 14       | Good Rod |          | **Poliwhirl**  | 5   |
 | **Nincada**  | 10       | Lumineon        | 60       | Lombre         | 4   |
 | Tranquill    | 10       | Qwilfish        | 20       | **Ludicolo**   | 1   |
 | Lycanroc     | 10       | **Clawitzer**   | 20       |                |     |
@@ -16476,7 +16455,7 @@ Goldenwood Park
 -   Return to the help center to get (back) $250,000, and MegaStone
     *Mawilite.* (+1 Karma)
 
-<u>HQuest 33: Mall Opportunities</u>
+HQuest 33: Mall Opportunities
 
 -   Head to the mall and meet the girl at the very top.
 
@@ -16505,7 +16484,7 @@ Goldenwood Park
 
 After doing all three quests, head over to Venam’s gym to fight Aya.
 
-<u>Wasteland Punk Aya (Corrosive Field)</u>
+Wasteland Punk Aya (Corrosive Field)
 
 -   Lycanroc, Level 82. @ Telluric Seed.
 
@@ -16576,7 +16555,7 @@ Tentacruel somehow you might be able to sweep from there.
 
 Fly over to Sashila Village. Now there is a new move tutor!
 
-<u>Sashila Move Tutor</u>
+Sashila Move Tutor
 
 Heat Wave 6 Red Shards
 
@@ -16618,7 +16597,7 @@ Lombre, Gastrodon, **Seismitoad,** Swanna. The rare ones are Mantine,
 
 Entering Cairo’s shop, he has even more available crests now!
 
-<u>Cairo’s Shop New Items (13 Badges)</u>
+Cairo’s Shop New Items (13 Badges)
 
 *Boltund Crest* 9,000 Red Essences
 
@@ -16652,10 +16631,10 @@ Route 10
 
 |              |          |                 |          |                |          |
 |--------------|----------|-----------------|----------|----------------|----------|
-| <u>Grass</u> | <u>%</u> | <u>Old Rod</u>  | <u>%</u> | <u>Surfing</u> | <u>%</u> |
+| Grass | % | Old Rod  | % | Surfing | % |
 | Pangoro      | 35       | Spheal          | 70       | Mantyke        | 60       |
 | Liepard      | 24       | Mantyke         | 30       | Dewgong        | 30       |
-| Mothim       | 15       | <u>Good Rod</u> |          | Sealeo         | 5        |
+| Mothim       | 15       | Good Rod |          | Sealeo         | 5        |
 | Sudowoodo    | 14       | Mantyke         | 60       | Mantine        | 4        |
 | Lycanroc     | 10       | Quagsire        | 20       | **Wingull**    | 1        |
 | Talonflame   | 2        | **Shellder**    | 20       |                |          |
@@ -16699,7 +16678,7 @@ with her team for a little bit!
 As soon as you get control, head over to the spot on the left side of
 the arena for a battle with the best character in the game.
 
-<u>Pseudo Sensei Texen (Forest Field)</u>
+Pseudo Sensei Texen (Forest Field)
 
 -   Dodrio, Level 71. @ Power Herb.
 
@@ -16775,7 +16754,7 @@ Zone Zero
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Helioptile   | 30       |
 | Maractus     | 30       |
 | Vullaby      | 14       |
@@ -16795,11 +16774,11 @@ style="width:6.625in;height:4.97917in" />
 Enter the zone to the north. There are some Xen Grunts selling stuff
 here.
 
-<u>Zone Zero Left Grunt</u>
+Zone Zero Left Grunt
 
 *Blast Powder* $2,500
 
-<u>Zone Zero Right Grunt</u>
+Zone Zero Right Grunt
 
 *Poke Ball* $200
 
@@ -16844,7 +16823,7 @@ panel.
 Upstairs, enter the open door and beat the grunt. You’ll then regain
 control of Aelita, so head back to the power room at the bottom.
 
-<u>Popstar Risa Raider (No Field)</u>
+Popstar Risa Raider (No Field)
 
 -   Tuff Puff, Level 90. @Air Balloon.
 
@@ -16923,7 +16902,7 @@ Grab a hidden *Red Shard* and enter Nymiera’s old house. Go to the
 basement to click the lever. Save/heal and approach the top of the Zone
 Zero area.
 
-<u>Rogue Psychic Lorna (Psychic Terrain)</u>
+Rogue Psychic Lorna (Psychic Terrain)
 
 -   Vivillon, Level 82. @ Focus Sash.
 
@@ -17017,7 +16996,7 @@ Then head into the Center and talk to the crew.
 After a few cutscenes, you’ll get to play as Melia. All you must do is
 follow the path through this area but be prepared for a battle!
 
-<u>League Scout Amanda (Factory Field)</u>
+League Scout Amanda (Factory Field)
 
 -   Incineroar, Level 83. @ Assault Vest.
 
@@ -17112,7 +17091,7 @@ action.
 If you grabbed the Weird Diary in the past, now is another chance to use
 it!
 
-<u>Dimensional Rift Hippowdon (Desert Field)</u>
+Dimensional Rift Hippowdon (Desert Field)
 
 -   Hippowdon, Level 85. @ Black Sludge. Type: Ground / Poison. Ability:
     Accumulate. Stats: 254/168/180/182/142/47. 4 Shields.
@@ -17263,7 +17242,7 @@ Emerge at the Eclysia Skyview!
 
 ## Pyramid Point Badge - Badge14
 
-<u>Forgotten Prince ~~Ryland~~ Flora (Desert Field)</u>
+Forgotten Prince ~~Ryland~~ Flora (Desert Field)
 
 -   Nidoqueen, Level 84. @ Shuca Berry.
 
@@ -17392,7 +17371,7 @@ one, see if you can spot it.
 After a few more cutscenes, you’ll be in control of Adam and Delpha for
 another battle!
 
-<u>??? ??? (Desert Field)</u>
+??? ??? (Desert Field)
 
 -   Beheeyem, Level 85. @ Beheeyem Crest.
 
@@ -17496,7 +17475,7 @@ Apartment keys.
 Exit this building, get the right team ready and enter the one
 immediately to the right.
 
-<u>Challenger Venus (Big Top Arena)</u>
+Challenger Venus (Big Top Arena)
 
 -   Luxray, Level 83. @ Luxray Crest.
 
@@ -17638,7 +17617,7 @@ Evergreen Trench
 
 |                   |          |                   |          |
 |-------------------|----------|-------------------|----------|
-| <u>Underwater</u> | <u>%</u> | <u>Rock Smash</u> | <u>%</u> |
+| Underwater | % | Rock Smash | % |
 | Clamperl          | 30       | Binacle           | 90       |
 | Relicanth         | 30       | **Barbaracle**    | 10       |
 | Sealeo            | 19       |                   |          |
@@ -17728,7 +17707,7 @@ Terajuma Coral Reef
 
 |                   |          |
 |-------------------|----------|
-| <u>Underwater</u> | <u>%</u> |
+| Underwater | % |
 | Chinchou          | 20       |
 | Clamperl          | 20       |
 | **Arrokuda**      | 15       |
@@ -17744,7 +17723,7 @@ with for a battle.
 
 If you head up, you can talk to Challenger Neptune for a tough battle!
 
-<u>Challenger Neptune (Underwater Field)</u>
+Challenger Neptune (Underwater Field)
 
 -   Raichu, Level 85. @ Life Orb.
 
@@ -17846,7 +17825,7 @@ when you can here, then follow the path to the left and grab ZCrystal
 to the right. Activate this fifth panel (along with the four we found
 earlier), prepare for battle, and head up through the now-opened door.
 
-<u>Temple Kingdra (Underwater Field)</u>
+Temple Kingdra (Underwater Field)
 
 -   Seaking, Level 84. @ Elemental Seed.
 
@@ -17947,7 +17926,7 @@ Swamp Pit
 
 |                   |          |
 |-------------------|----------|
-| <u>Underwater</u> | <u>%</u> |
+| Underwater | % |
 | Stunfisk          | 30       |
 | Gastrodon         | 30       |
 | Clamperl          | 20       |
@@ -17959,7 +17938,7 @@ Emerge at the top into the Kingdom of Goomidra. Hidden around town is 2
 *Red Shards,* and a *Tiny Mushroom.* Speaking of mushrooms: there are
 tutor Goomy that accept them in various houses:
 
-<u>Left-Middle Move Tutor</u>
+Left-Middle Move Tutor
 
 Seed Bomb 1 Tiny Mushroom
 
@@ -17967,7 +17946,7 @@ Dragon Pulse 1 Big Mushroom
 
 Pain Split 1 Big Mushroom
 
-<u>Rightmost-Middle Move Tutor</u>
+Rightmost-Middle Move Tutor
 
 Liquidation 2 Big Mushrooms
 
@@ -17999,7 +17978,7 @@ Zorrialyn Coast to the south. Heal Goomy, then after the conversation
 head to the water in the village. Talk to the guy to add a yacht stop to
 the village, then talk to Goomink to embark.
 
-<u>Kawopundunga (Underwater Field)</u>
+Kawopundunga (Underwater Field)
 
 -   Kawopundunga Wailord, Level 90. @ Leftovers. Stats:
     800/100/80/90/100/80. Ability: Water Veil. 3 Shields.
@@ -18050,11 +18029,11 @@ Karma +5).
 After these events, re-enter the ruins room. While here, grab *TM08 Bulk
 Up.*
 
-<u>Castle of Goomidra</u>
+Castle of Goomidra
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | **Pawniard** | 34       |
 | Solosis      | 30       |
 | Falinks      | 25       |
@@ -18065,17 +18044,17 @@ Up.*
 You can also exit the castle out of the southwest entrance to find some
 grass, with a hidden *Dusk Ball* and *Big Mushroom* nearby.
 
-<u>Kingdom of Goomidra</u>
+Kingdom of Goomidra
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | **Goomy**    | 100      |
 
 Enter the house furthest to the right with the green roof and with the
 tutor inside. The left Goomy has a little shop!
 
-<u>Goomidra Crest Shop</u>
+Goomidra Crest Shop
 
 *Bastiodon Crest* $100,000
 
@@ -18152,7 +18131,7 @@ has opened at the top, so head in to catch **Larvesta!**
 Head back out, but when you reach a fork, head left and go up the stairs
 here to get onto the area where Karen and Karrina are fighting.
 
-<u>Gang Leader Karrina (Blessed Field)</u>
+Gang Leader Karrina (Blessed Field)
 
 -   Musharna, Level 84. @ Amplified Rock.
 
@@ -18336,14 +18315,14 @@ Route 1
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lumineon         | 100      |
 
 Goldenwood Park
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Wishiwashi       | 60       |
 | Lumineon         | 30       |
 | Clawitzer        | 5        |
@@ -18353,14 +18332,14 @@ Goldenwood Cave / Spring of Purification
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seaking          | 100      |
 
 Route 2
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Poliwrath**    | 95       |
 | Seaking          | 5        |
 
@@ -18368,7 +18347,7 @@ Amethyst Cave
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Whiscash         | 90       |
 | Octillery        | 5        |
 | Seaking          | 5        |
@@ -18377,7 +18356,7 @@ Amethyst Depths
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Whiscash         | 90       |
 | Seaking          | 10       |
 
@@ -18385,7 +18364,7 @@ Sheridan Village
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lumineon         | 60       |
 | **Politoed**     | 34       |
 | **Poliwrath**    | 6        |
@@ -18394,7 +18373,7 @@ Sheridan Arena
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lumineon         | 95       |
 | Seaking          | 5        |
 
@@ -18402,7 +18381,7 @@ Route 3 / Phasial Cave / Moon Field / Mirage Woods
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Drednaw          | 65       |
 | Quagsire         | 35       |
 
@@ -18410,7 +18389,7 @@ River’s End
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Crawdaunt**    | 95       |
 | Bruxish          | 5        |
 
@@ -18418,7 +18397,7 @@ Goldenleaf Town / Forgotten Path
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Basculin         | 99       |
 | Jellicent        | 1        |
 
@@ -18426,7 +18405,7 @@ Wispy Path
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Whiscash         | 60       |
 | Basculin         | 34       |
 | Seaking          | 5        |
@@ -18436,7 +18415,7 @@ Wispy Chasm
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Crawdaunt        | 90       |
 | Whiscash         | 5        |
 | Jellicent        | 4        |
@@ -18446,7 +18425,7 @@ Akuwa Town
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Octillery        | 90       |
 | Dewgong          | 5        |
 | Floatzel         | 5        |
@@ -18455,7 +18434,7 @@ Route 11 / Evergreen Island
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Luvdisc          | 60       |
 | Sealeo           | 30       |
 | Alomomola        | 9        |
@@ -18465,7 +18444,7 @@ Evergreen Forest
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seaking          | 60       |
 | Alomomola        | 30       |
 | Dewgong          | 5        |
@@ -18476,7 +18455,7 @@ Seabound Cave / Evergreen Cave
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Kingler          | 60       |
 | Floatzel         | 30       |
 | Dewgong          | 5        |
@@ -18487,7 +18466,7 @@ Evergreen Cave (North)
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Crawdaunt**    | 95       |
 | Whiscash         | 5        |
 
@@ -18495,14 +18474,14 @@ Evergreen Cave Feebas Room
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Feebas           | 100      |
 
 Sheridan Wetlands
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seismitoad       | 60       |
 | Gastrodon        | 30       |
 | **Crawdaunt**    | 5        |
@@ -18512,14 +18491,14 @@ Wetlands Laboratory
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lanturn          | 100      |
 
 Garufa Ruins
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seaking          | 60       |
 | Basculin         | 30       |
 | Alomomola        | 9        |
@@ -18529,7 +18508,7 @@ Terajuma Island / Terajuma Pier / Route 6
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Wishiwashi       | 90       |
 | Sharpedo         | 5        |
 | Wailord          | 4        |
@@ -18539,7 +18518,7 @@ Deep Terajuma Jungle / Terajuma Jungle
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Carvanha         | 60       |
 | Wishiwashi       | 30       |
 | Sharpedo         | 5        |
@@ -18550,7 +18529,7 @@ Kakori Village
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Carvanha         | 90       |
 | Basculin         | 9        |
 | Sharpedo         | 1        |
@@ -18559,7 +18538,7 @@ Jeminra Woods
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Whiscash         | 60       |
 | Sharpedo         | 30       |
 | Alomomola        | 9        |
@@ -18569,7 +18548,7 @@ Valor Shore
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Gastrodon        | 60       |
 | Octillery        | 30       |
 | Alomomola        | 5        |
@@ -18580,7 +18559,7 @@ Aquamarine Cave
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seaking          | 60       |
 | Arrokuda         | 30       |
 | Walrein          | 9        |
@@ -18591,7 +18570,7 @@ Shrine
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Seaking          | 90       |
 | Walrein          | 9        |
 | Sharpedo         | 1        |
@@ -18600,7 +18579,7 @@ Isle of Angels
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Wailmer          | 95       |
 | Wailord          | 5        |
 
@@ -18608,7 +18587,7 @@ Valor Mountain (Normal)
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Clauncher        | 60       |
 | Clawitzer        | 30       |
 | Starmie          | 6        |
@@ -18618,7 +18597,7 @@ Route 3 (Past)
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lombre           | 60       |
 | Carvanha         | 35       |
 | Basculin         | 4        |
@@ -18628,7 +18607,7 @@ Kugearen Woods (Past)
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Carvanha         | 65       |
 | Basculin         | 30       |
 | Whiscash         | 4        |
@@ -18638,7 +18617,7 @@ Route 2 (Past)
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Poliwrath**    | 90       |
 | Alomomola        | 5        |
 | Seaking          | 5        |
@@ -18647,7 +18626,7 @@ Darchlight Woods / Sensu Meadow / Darchlight Caves
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Lumineon         | 60       |
 | Basculin         | 30       |
 | Lanturn          | 5        |
@@ -18658,7 +18637,7 @@ Darchlight Caves
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Crawdaunt        | 95       |
 | Quagsire         | 5        |
 
@@ -18666,7 +18645,7 @@ Route 8 / Honec Woods Sides / Hiyoshi Pass (Past) / Seabound Cave
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Crawdaunt**    | 95       |
 | Octillery        | 5        |
 
@@ -18674,7 +18653,7 @@ Azure Shore
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | **Slowbro**      | 60       |
 | Lanturn          | 34       |
 | **Crawdaunt**    | 5        |
@@ -18684,7 +18663,7 @@ Honec Woods Main
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Quagsire         | 60       |
 | Seismitoad       | 30       |
 | Dragalge         | 5        |
@@ -18695,7 +18674,7 @@ Dream District / Axis High University / Residential District
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Gastrodon        | 60       |
 | Whiscash         | 30       |
 | Quagsire         | 5        |
@@ -18705,7 +18684,7 @@ Route 9
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Gastrodon        | 60       |
 | Whiscash         | 30       |
 | Clawitzer        | 5        |
@@ -18716,7 +18695,7 @@ Forlorned Cavern
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Gastrodon        | 60       |
 | Whiscash         | 30       |
 | Clawitzer        | 5        |
@@ -18727,7 +18706,7 @@ Route 10
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Gastrodon        | 60       |
 | Whiscash         | 30       |
 | Clawitzer        | 5        |
@@ -18738,7 +18717,7 @@ Zorrialyn Desert
 
 |                  |          |
 |------------------|----------|
-| <u>Super Rod</u> | <u>%</u> |
+| Super Rod | % |
 | Slowpoke         | 60       |
 | **Slowbro**      | 30       |
 | Whiscash         | 9        |
@@ -18783,7 +18762,7 @@ to go.
 
 Enter Isha’s backroom prepared for battle.
 
-<u>Doctor Isha (Factory Field)</u>
+Doctor Isha (Factory Field)
 
 -   Galarian Weezing, Level 85. @ Black Sludge.
 
@@ -18905,7 +18884,7 @@ Phasial Cave Crystal Area (Crystal Cavern Field)
 
 |             |          |
 |-------------|----------|
-| <u>Cave</u> | <u>%</u> |
+| Cave | % |
 | Meowth      | 40       |
 | Chewtle     | 24       |
 | Silicobra   | 20       |
@@ -18942,7 +18921,7 @@ Memory.* Exit to the well in the backyard.
 
 Grab the Rift Notes for Code: Rembrence…
 
-<u>Dimensional Rift Dufaux (Bewitched Field)</u>
+Dimensional Rift Dufaux (Bewitched Field)
 
 -   Froslass (Dufaux Form), Level 90. @ Metronome. Ability: Temporal
     Shift. 4 Shields.
@@ -18983,7 +18962,7 @@ ton of stamps in this episode's content, so it’s time to go on a
 shopping spree! Add Gible to your party and fly to Yui’s Ranch, enter
 GDC, then go to the shopping district and into the store.
 
-<u>Shopping District Mall 5F Vendor 1</u>
+Shopping District Mall 5F Vendor 1
 
 *Occa Berry* $3,000
 
@@ -19005,7 +18984,7 @@ GDC, then go to the shopping district and into the store.
 
 *Chople Berry* $3,000
 
-<u>Shopping District Mall 5F Vendor 2</u>
+Shopping District Mall 5F Vendor 2
 
 *Kebia Berry* $3,000
 
@@ -19025,7 +19004,7 @@ GDC, then go to the shopping district and into the store.
 
 *Roseli Berry* $3,000
 
-<u>Shopping District Mall 6F Vendor 1</u>
+Shopping District Mall 6F Vendor 1
 
 *Psychic Gem* $200
 
@@ -19043,7 +19022,7 @@ GDC, then go to the shopping district and into the store.
 
 *Ice Gem* $200
 
-<u>Shopping District Mall 6F Vendor 2</u>
+Shopping District Mall 6F Vendor 2
 
 *Fire Gem* $200
 
@@ -19063,7 +19042,7 @@ GDC, then go to the shopping district and into the store.
 
 *Flying Gem* $200
 
-<u>Shopping District Mall 7F Vendor 1</u>
+Shopping District Mall 7F Vendor 1
 
 *Big Root* $200
 
@@ -19081,7 +19060,7 @@ GDC, then go to the shopping district and into the store.
 
 *Quick Claw* $100
 
-<u>Shopping District Mall 7F Vendor 2</u>
+Shopping District Mall 7F Vendor 2
 
 *Petaya Berry* $1,250
 
@@ -19097,7 +19076,7 @@ GDC, then go to the shopping district and into the store.
 
 *Salac Berry* $1,250
 
-<u>Shopping District Mall 8F Vendor 1</u>
+Shopping District Mall 8F Vendor 1
 
 *TM150 Grassy Terrain* $100,000
 
@@ -19115,7 +19094,7 @@ GDC, then go to the shopping district and into the store.
 
 *HM05 Waterfall* $150,000
 
-<u>Shopping District Mall 8F Vendor 2</u>
+Shopping District Mall 8F Vendor 2
 
 *Protector* $2,100
 
@@ -19191,7 +19170,7 @@ Relationship Point Choices:
 In Sashila, head up when prompted. You’ll be thrown into a battle as
 Alexandra.
 
-<u>The Storm (Desert Field)</u>
+The Storm (Desert Field)
 
 -   STORM \| Wind, Level 80. @ Demon Stone. Type: Flying. Ability:
     Tempest. Stats: 450/70/150/140/150/20.
@@ -19227,7 +19206,7 @@ Relationship Point Choices:
 
 Afterwards, prepare yourself for a battle with Melia!
 
-<u>Pokémon Trainer Melia (Fairy Tale Field)</u>
+Pokémon Trainer Melia (Fairy Tale Field)
 
 -   Hydreigon, Level 85. @ Focus Sash.
 
@@ -19441,7 +19420,7 @@ points (Erin +4, Kanon +4). After exiting the office on top, go left,
 down, across the outside area, left through the lower level left door,
 then left, up, and left into the Ballroom.
 
-<u>Ice Soldiers Erin and Kanon (No Field)</u>
+Ice Soldiers Erin and Kanon (No Field)
 
 -   Absol, Level 90. @ NeverMeltIce.
 
@@ -19478,7 +19457,7 @@ Enter the locked door in the cellars. After you see all of the scenes
 here, back in the dungeon, exit to the left. Back in the courtyard, head
 to the top door to confront Angie.
 
-<u>Angie and Cera (Frozen Dimensional Rift Field)</u>
+Angie and Cera (Frozen Dimensional Rift Field)
 
 -   Mamoswine, Level 83. @ Elemental Seed.
 
@@ -19562,7 +19541,7 @@ In the grove, talk to the Arceus statue. Head down and prepare for a
 battle. You get to pick whether Ren or Venam is your partner, or perhaps
 you can do it alone if you want.
 
-<u>Rogue Psychic Lorna (Blessed Field)</u>
+Rogue Psychic Lorna (Blessed Field)
 
 -   Vivillon, Level 83. @ Focus Sash.
 
@@ -19637,7 +19616,7 @@ and the other is near where we started. Reactivate the generator.
 
 Prepare to fight a mech Gyarados!
 
-<u>Defense Mech Gyarados (Crystal Cavern)</u>
+Defense Mech Gyarados (Crystal Cavern)
 
 -   Defense Mech Gyarados, Level 90. @ Sitrus Berry. Ability: Liquid
     Voice. Type: Water/Steel. Stats: 300/110/150/100/150/51
@@ -19656,7 +19635,7 @@ Ren assisting - Meganium’s Light Screen will help you survive.
 Afterwards, return to the building and head upstairs. Head back out and
 go up when you’re ready.
 
-<u>Team Xen Madelis (Crystal Cavern)</u>
+Team Xen Madelis (Crystal Cavern)
 
 -   Cinccino, Level 84. @ Life Orb.
 
@@ -19737,7 +19716,7 @@ Souls.
 
 After a scene, head up.
 
-<u>Team Xen Admin Cassandra (Blessed Field)</u>
+Team Xen Admin Cassandra (Blessed Field)
 
 -   Shadow Bisharp, Level 84. @ Focus Sash.
 
@@ -19825,7 +19804,7 @@ Relationship Point Choices:
 
 Head up and into the school.
 
-<u>Axis High Store</u>
+Axis High Store
 
 *Poke Ball* $200
 
@@ -19873,7 +19852,7 @@ right. Then, find Aelita upstairs.
 
 Time for a 2v2 battle with Risa Raider downstairs.
 
-<u>Pop Star Risa Raider (No Field)</u>
+Pop Star Risa Raider (No Field)
 
 -   Tuff-Puff Jigglypuff, Level 90. @ Air Balloon.
 
@@ -19914,7 +19893,7 @@ Head outside. Enter this classroom to the left and use the ‘A’ key to do
 a group investigation in here. Back outside, you’ll find that Zetta has
 taken up the shop.
 
-<u>Nightmare University Store</u>
+Nightmare University Store
 
 *Super Potion* $700
 
@@ -19929,7 +19908,7 @@ Downstairs talk to Ms. Erable, then to the student on the right with the
 “!” over his head. Say no to battling them, then you’ll battle. Then say
 yes to the person on the left and return to Ms. Erable.
 
-<u>Axis High University Student Jean (No Field)</u>
+Axis High University Student Jean (No Field)
 
 -   Zekrom, Level 90. @ Lum Berry.
 
@@ -19960,7 +19939,7 @@ awarded 10 *Phantom Candy S!*
 
 Pick a partner or choose to go alone, time to fight Grigus.
 
-<u>Axis High Student Random Student (No Field)</u>
+Axis High Student Random Student (No Field)
 
 -   Coffee Grigus, Level 87. @ Demon Stone.
 
@@ -19985,7 +19964,7 @@ Talk to both pink bookshelves then the pink plant. Then follow cyborg
 Deagan! Talk to each nurse from behind, then head out once Deagan
 touches the sunflower.
 
-<u>Doctor Isha (Factory Field)</u>
+Doctor Isha (Factory Field)
 
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
 
@@ -20022,7 +20001,7 @@ Easy enough for your team!
 Once this part finishes up, interact with the box outside. Time for
 another battle!
 
-<u>Masked Man ??? (Desert Field)</u>
+Masked Man ??? (Desert Field)
 
 -   Girafarig, Level 87. @ Twisted Spoon.
 
@@ -20087,7 +20066,7 @@ ok.
 Up in the next room try to escape, then interact with the panel. Now we
 have a real team for a real fight!
 
-<u>Pop Star Risa Raider (Factory Field)</u>
+Pop Star Risa Raider (Factory Field)
 
 -   Reshiram, Level 90. @ Wise Glasses.
 
@@ -20149,7 +20128,7 @@ Relationship Point Choices:*
 *            - Of course (Amber +2, Saki +2)  
             - Um... I'm scared! (Saki -2, Amber -2)
 
-<u>Team Xen Zetta (Factory Field)</u>
+Team Xen Zetta (Factory Field)
 
 -   Minior, Level 84. @ Focus Sash.
 
@@ -20228,7 +20207,7 @@ and unlock the left door. Go down the elevator, into the door, and get
 the key. Use it back up from the elevator. Pick up the final key and
 reenter the main hallway.
 
-<u>Doctor Isha (Factory Field)</u>
+Doctor Isha (Factory Field)
 
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
 
@@ -20270,7 +20249,7 @@ doable.
 Make your way all the way back to the auditorium as soon as you are
 prompted to.
 
-<u>Masked Individual ??? (No Field)</u>
+Masked Individual ??? (No Field)
 
 -   Roserade, Level 84.
 
@@ -20338,7 +20317,7 @@ Relationship Point Choices:*
 
 Take the teleporter then go up.
 
-<u>Masked Individual (No Field)</u>
+Masked Individual (No Field)
 
 -   Genesect, Level 88. @ Douse Drive.
 
@@ -20379,7 +20358,7 @@ This area is straight forward. When all is said and done, you’ll have to
 fight… your protagonist. Each protagonist has a different team - find
 the one that applies to you.
 
-<u>Pokemon Trainer Ana (Snowy Mountain Field)</u>
+Pokemon Trainer Ana (Snowy Mountain Field)
 
 -   Leavanny, Level 85. @ Focus Sash.
 
@@ -20441,7 +20420,7 @@ the one that applies to you.
 
     -   Thunder Wave
 
-<u>Pokemon Trainer Aevis (Snowy Mountain Field)</u>
+Pokemon Trainer Aevis (Snowy Mountain Field)
 
 -   Gigalith, Level 85. @ Light Clay.
 
@@ -20503,7 +20482,7 @@ the one that applies to you.
 
     -   Brave Bird
 
-<u>Pokemon Trainer Aevia (Snowy Mountain Field)</u>
+Pokemon Trainer Aevia (Snowy Mountain Field)
 
 -   Mudsdale, Level 85. @ Passho Berry.
 
@@ -20565,7 +20544,7 @@ the one that applies to you.
 
     -   Megahorn
 
-<u>Pokemon Trainer Ariana (Snowy Mountain Field)</u>
+Pokemon Trainer Ariana (Snowy Mountain Field)
 
 -   Blaziken, Level 85. @ Focus Sash.
 
@@ -20627,7 +20606,7 @@ the one that applies to you.
 
     -   Calm Mind
 
-<u>Pokemon Trainer Axel (Snowy Mountain Field)</u>
+Pokemon Trainer Axel (Snowy Mountain Field)
 
 -   Klefki, Level 85. @ Mental Herb.
 
@@ -20689,7 +20668,7 @@ the one that applies to you.
 
     -   Ice Fang
 
-<u>Pokemon Trainer Alain (Snowy Mountain Field)</u>
+Pokemon Trainer Alain (Snowy Mountain Field)
 
 -   Araquanid, Level 85. @ Focus Sash.
 
@@ -20751,7 +20730,7 @@ the one that applies to you.
 
     -   Brick Break
 
-<u>Pokemon Trainer Aero (Snowy Mountain Field)</u>
+Pokemon Trainer Aero (Snowy Mountain Field)
 
 -   Luxray, Level 85. @ Luxray Crest.
 
@@ -20842,7 +20821,7 @@ Relationship Point Choices (Aelita 2 Chosen):
 
 Anyways, time for a battle!
 
-<u>??? Clear (Factory Field)</u>
+??? Clear (Factory Field)
 
 -   Stantler, Level 85. @ Stantler Crest.
 
@@ -20924,7 +20903,7 @@ Land of Broken Dreams
 
 |              |          |
 |--------------|----------|
-| <u>Grass</u> | <u>%</u> |
+| Grass | % |
 | Drowzee      | 35       |
 | Morelull     | 30       |
 | Koffing      | 10       |
@@ -20954,7 +20933,7 @@ Return to take the teleporter.
 
 Prepare yourself for a battle and head up.
 
-<u>Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)</u>
+Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
 
 -   Aevian Chandelure, Level 84. @ Focus Sash.
 
@@ -21040,7 +21019,7 @@ Relationship Point Choices:    *
 
 Head up and follow the path to obtain the ZCrystal *Intercept-Z!*
 
-<u>Puppet Master (Starlight Field)</u>
+Puppet Master (Starlight Field)
 
 -   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
     Nightmares. Type: Dark/Psychic.
@@ -21062,7 +21041,7 @@ will help you break the 4 shields too with field boosted Dazzling Gleam.
 If you use any weather, you’ll change the field to nothing, which can be
 useful.
 
-<u>Puppet Master (Starlight Field)</u>
+Puppet Master (Starlight Field)
 
 -   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
     Nightmares. Type: Dark/Psychic.
@@ -21079,7 +21058,7 @@ Stats: 500/1/80/80/1/1
 
 Even easier than the first time. The Intercept-Z helps as before!
 
-<u>Optimistic Guy Huey (Starlight Field)</u>
+Optimistic Guy Huey (Starlight Field)
 
 -   Kecleon, Level 81. @ Focus Sash.
 
@@ -21172,7 +21151,7 @@ Axis Factory
 
 |                      |          |
 |----------------------|----------|
-| <u>Grass</u>         | <u>%</u> |
+| Grass         | % |
 | **Litwick (Aevian)** | 40       |
 | **Flaaffy**          | 30       |
 | Klang                | 20       |
@@ -21202,7 +21181,7 @@ and the bottom-right one North. You’ll get an *Adamant Mint!*
 
 Use the key above.
 
-<u>Xen Executive Geara (Haunted Field)</u>
+Xen Executive Geara (Haunted Field)
 
 -   Krookodile, Level 85. @ Darkinium-Z.
 
@@ -21284,7 +21263,7 @@ the newly opened door to get a *Master Key.*
 
 Head into the gym door at the top and get ready for quite a battle.
 
-<u>Gym Leader Saki (Glitch Field + Wonder Room)</u>
+Gym Leader Saki (Glitch Field + Wonder Room)
 
 -   Aggron, Level 85. @ Synthetic Seed.
 
@@ -21427,14 +21406,14 @@ Den of Souls
 
 |                      |          |
 |----------------------|----------|
-| <u>Old/Good Rods</u> | <u>%</u> |
+| Old/Good Rods | % |
 | Lileep               | 100      |
-| <u>Super Rod</u>     |          |
+| Super Rod     |          |
 | **Cradily**          | 100      |
-| <u>Surfing</u>       |          |
+| Surfing       |          |
 | Tirtouga             | 90       |
 | Relicanth            | 10       |
-| <u>Grass</u>         |          |
+| Grass         |          |
 | Archen               | 50       |
 | Anorith              | 50       |
 
@@ -21454,7 +21433,7 @@ out the way we came in.
 Head to Route 4: Cairo now has one more crest he’ll sell us for 14K Red
 Essence!
 
-<u>Cairo’s Shop New Item (15 Badges)</u>
+Cairo’s Shop New Item (15 Badges)
 
 *Delcatty Crest* 14,000 Red Essences
 
