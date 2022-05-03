@@ -222,7 +222,7 @@ cells, tutors, Pokémon Locations, and more!
             id="toc-scaling-mt.-valor-both-routes-converge">Scaling Mt. Valor (Both
             Routes Converge)</a>
     -   <a href="#valor-summit-vsumm1" id="toc-valor-summit-vsumm1">Valor Summit
-        - VSumm1</a>
+        \- VSumm1</a>
     -   <a href="#post-valor-quests---pvquest1"
         id="toc-post-valor-quests---pvquest1">Post-Valor Quests - PVQuest1</a>
     -   <a href="#lyric-badge---badge08" id="toc-lyric-badge---badge08">Lyric
@@ -544,9 +544,9 @@ points. (Search “Relationship Point” to see them all)
 
 Relationship Point Choices:
 
-\- I’m fine. (Mom +2)
+- I’m fine. (Mom +2)
 
-\- ... (Mom -1)
+- ... (Mom -1)
 
 Once you’ve talked to Nancy and can roam, explore the S.S. Oceana. In
 this game talking to everyone and everything you see can be vital to
@@ -1103,11 +1103,11 @@ from the attendant. Give it to Venam.
 
 Choices:
 
-\- All me. (Venam +2)
+- All me. (Venam +2)
 
-\- Maybe… (Venam +1)
+- Maybe… (Venam +1)
 
-\- No, actually. (Neutral)
+- No, actually. (Neutral)
 
 Head to the southeast of town and a cutscene will play. Afterwards
 follow Venam into the sewers. You’ll be teaming up with Ren here, who
@@ -1246,19 +1246,19 @@ Points (Melia +3).
 
 Relationship Point Choices:
 
-\- You like photography? (Melia +1)
+- You like photography? (Melia +1)
 
-\- What are you doing? (Neutral)
+- What are you doing? (Neutral)
 
 Relationship Point Choices:
 
-\- I love photography! (Melia +2)
+- I love photography! (Melia +2)
 
-\- I appreciate the art! (Melia +1)
+- I appreciate the art! (Melia +1)
 
-\- It's not for me. (Neutral)
+- It's not for me. (Neutral)
 
-\- Photography's boring. (Melia -2)
+- Photography's boring. (Melia -2)
 
 Additionally, head back to Magnolia Library, and for a short time you’ll
 be able to battle Ren -- it’s optional experience and money should you
@@ -1674,11 +1674,11 @@ good flying type or two, or probably most well-rounded sixes.
 
 Relationship Point Choices:
 
-\- You should stop. (RorimB -1)
+- You should stop. (RorimB -1)
 
-\- Yeah, he’s a jerk. (RorimB +2)
+- Yeah, he’s a jerk. (RorimB +2)
 
-\- The other guests...? (RorimB +1)
+- The other guests...? (RorimB +1)
 
 Upstairs, talk to the bell boy in the left hallway, and the girl in the
 top-left room in the right hallway.
@@ -1745,9 +1745,9 @@ regain control, interact with Drifblim.
 
 Relationship Point Choices:
 
-\- It was no bother! (Narcissa +1)
+- It was no bother! (Narcissa +1)
 
-\- It was a complete bother. (Narcissa -1)
+- It was a complete bother. (Narcissa -1)
 
 You’ll get an *HP Up.* Another free $4900! Grab the nearby *Potion* as
 well and talk to the Furfrou lady for another *Potion.*
@@ -1838,11 +1838,11 @@ Anyways, heal your team and talk to Melia.
 
 Relationship Point Choices:
 
-\- I will cherish it too! (Melia +5)
+- I will cherish it too! (Melia +5)
 
-\- It was a good time. (Melia +2)
+- It was a good time. (Melia +2)
 
-\- it was okay, I guess. (Melia -1)
+- it was okay, I guess. (Melia -1)
 
 She’ll then challenge you to a battle.
 
@@ -3269,11 +3269,11 @@ Enter the sewers and head to the back, cutting along the way.
 
 Relationship Point Choices:
 
-\- Hi Lucha. (Venam +1)
+- Hi Lucha. (Venam +1)
 
-\- You're Venam's friend? (Venam +2)
+- You're Venam's friend? (Venam +2)
 
-\- Have we met? (Neutral)
+- Have we met? (Neutral)
 
 Chrysalis Courtyard (Grassy Terrain)
 
@@ -3312,13 +3312,13 @@ Dusknoir in a bit to get all the items.
 
 Relationship Point Choices:
 
-\- Yeah, I am. (Marianette -1)
+- Yeah, I am. (Marianette -1)
 
-\- It was nothing... (Marianette +2)
+- It was nothing... (Marianette +2)
 
-\- You flatter me... (Marianette +1)
+- You flatter me... (Marianette +1)
 
-\- Say it again. (Marianette -2)
+- Say it again. (Marianette -2)
 
 Afterwards you must fight a servant!
 
@@ -3345,11 +3345,11 @@ Enter at the top and save Luca.
 
 Relationship Point Choices:
 
-\- You're growing. (Marianette +2)
+- You're growing. (Marianette +2)
 
-\- Yeah, you are. (Marianette -2)
+- Yeah, you are. (Marianette -2)
 
-\- You can change that! (Marianette +3)
+- You can change that! (Marianette +3)
 
 Back in the maze, from the bottom: A path in the southwest leads you to
 a *Normal Gem.* A dead-end to the west says Password 1 is 7896. Another
@@ -3403,9 +3403,9 @@ Tangrowth to its own tile.
 
 Relationship Point Choices:
 
-\- You did well. (Marianette +4)
+- You did well. (Marianette +4)
 
-\- You cut it kinda close... (Marianette -2)
+- You cut it kinda close... (Marianette -2)
 
 If you have at least five points with Marianette up till now, you’ll get
 the following dialogue choice:
@@ -4170,19 +4170,19 @@ a hidden *Bold Mint.* Head in.
 
 Relationship Point Choices:
 
-\- I accept! (Aelita +2, Narcissa +4)
+- I accept! (Aelita +2, Narcissa +4)
 
-\- I dunno... (Aelita -1, Narcissa -2)
+- I dunno... (Aelita -1, Narcissa -2)
 
 Once that’s done, head back into the Pokémon Center and talk to Aelita.
 
 Relationship Point Choices:
 
-\- It was nothing.. (Ren +2, Aelita +2)
+- It was nothing.. (Ren +2, Aelita +2)
 
-\- Kinda uncomfortable. (Ren +1, Aelita +1)
+- Kinda uncomfortable. (Ren +1, Aelita +1)
 
-\- Uhh what's happening? (Neutral)
+- Uhh what's happening? (Neutral)
 
 After a scene you’ll be taken into a battle. Head upstairs to talk to
 Aelita and sleep, then defeat the three Xen grunts downstairs disguised
@@ -4191,11 +4191,11 @@ control, beat the trainer.
 
 Relationship Point Choices:
 
-\- How'd you know? (Neutral)
+- How'd you know? (Neutral)
 
-\- I want to go home. (Mosely -2)
+- I want to go home. (Mosely -2)
 
-\- Time to whoop ass! (Neutral)
+- Time to whoop ass! (Neutral)
 
 We’re going back to Wispy Tower. Enter Wispy Tower and go through the
 newly revealed path. After talking to Geara, Mosely and Narcissa will
@@ -4223,11 +4223,11 @@ the screen in here.
 
 Relationship Point Choices:
 
-\- Gregory? (Neutral)
+- Gregory? (Neutral)
 
-\- Sirius hid this. (Neutral)
+- Sirius hid this. (Neutral)
 
-\- You seriously didnt know? (Mosely -2, Narcissa -2)
+- You seriously didnt know? (Mosely -2, Narcissa -2)
 
 Interact with the screen and choose one of the two top answers to not
 lose relationship points. Back in the main room, head up for a battle.
@@ -4515,11 +4515,11 @@ Enter the theater and talk to Narcissa
 
 Relationship Point Choices:
 
-\- This will work. (Ren +2)
+- This will work. (Ren +2)
 
-\- I'm unsure... (Ren +1)
+- I'm unsure... (Ren +1)
 
-\- It's a stupid idea. (Ren -2)
+- It's a stupid idea. (Ren -2)
 
 After learning of your challenge, enter the door on the left.
 
@@ -5191,9 +5191,9 @@ Enter the quarry again and talk to Adam.
 
 Relationship Point Choices:
 
-\- I won it. (Neutral)
+- I won it. (Neutral)
 
-\- I stole it. (Adam -1)
+- I stole it. (Adam -1)
 
 All those glowing rocks around can be mined for items, just like in 4th
 gen. The item probabilities within are as follows:
@@ -5357,11 +5357,11 @@ the false wall, then again on the right.
 
 Relationship Point Choices:
 
-\- We're getting out. (PianoLady +2)
+- We're getting out. (PianoLady +2)
 
-\- I'm here to help. (PianoLady +1)
+- I'm here to help. (PianoLady +1)
 
-\- We're screwed. (PianoLady -1)
+- We're screwed. (PianoLady -1)
 
 Go right and up.
 
@@ -5437,13 +5437,13 @@ to the courtyard, head back up to Neved’s office.
 
 Relationship Point Choices:
 
-\- Are you okay? (Aelita +3)
+- Are you okay? (Aelita +3)
 
-\- I looked for you... (Aelita +2)
+- I looked for you... (Aelita +2)
 
-\- We gotta get to the top! (Aelita +1)
+- We gotta get to the top! (Aelita +1)
 
-\- No time to catch up! (Aelita -1
+- No time to catch up! (Aelita -1
 
 Follow the stairs all the way up and prepare for battle. Aelita will
 join your party for this one.
@@ -5540,11 +5540,11 @@ Whether you win or lose, watch the next scenes play out.
 
 Relationship Point Choices:
 
-\- You came to save me? (Neutral)
+- You came to save me? (Neutral)
 
-\- Thank you... (Neutral)
+- Thank you... (Neutral)
 
-\- I could've done it myself. (Aelita -1)
+- I could've done it myself. (Aelita -1)
 
 Goodbye Blacksteeple Castle!
 
@@ -5554,11 +5554,11 @@ We’ll wake up on the ship with Adam.
 
 Relationship Point Choices:
 
-\- ... (Neutral)
+- ... (Neutral)
 
-\- Don't feel guilty. (Adam +1)
+- Don't feel guilty. (Adam +1)
 
-\- Maybe so. (Adam +2)
+- Maybe so. (Adam +2)
 
 Grab the Poke Ball at the table to get **Mawile.**
 
@@ -5762,11 +5762,11 @@ take the long way, so head into the left path and into the cave.
 
 Relationship Point Choices:
 
-\- Four, is that enough? (Melia +1)
+- Four, is that enough? (Melia +1)
 
-\- What’s a badge? (Melia +2)
+- What’s a badge? (Melia +2)
 
-\- Can't I just swim? (Valarie +1)
+- Can't I just swim? (Valarie +1)
 
 After a brief conversation there’s just one thing left to do for this
 section!
@@ -8112,11 +8112,11 @@ resort.
 
 Relationship Point Choices:
 
-\- This is Tesla's house... (Venam +3)
+- This is Tesla's house... (Venam +3)
 
-\- Can I help? (Venam +1)
+- Can I help? (Venam +1)
 
-\- Gross. (Venam -1)
+- Gross. (Venam -1)
 
 Enter the room up and to the right.
 
@@ -8234,9 +8234,9 @@ Relationship Point Choices:
 
 Relationship Point Choices:
 
-\- I'm here to help. (Amber +2)
+- I'm here to help. (Amber +2)
 
-\- Whats next? (Neutral)
+- Whats next? (Neutral)
 
 Then, attempt to exit to the southeast. Team Xen invades again!
 
@@ -9486,7 +9486,7 @@ different one.
 Enter this next room. Across this bridge is the alignment we need to set
 these blocks into. A solution (thanks Elucidative!):
 
-\- Pangoro left all the way, down all the way, right 2, up 2, right 3,
+- Pangoro left all the way, down all the way, right 2, up 2, right 3,
 up 3  
 - Zorua left all the way, down all the way, right 2, down all the way,
 right 3, down 3  
@@ -9504,7 +9504,7 @@ path to get *TM86 Grass Knot.*
 
 Head down the stairs to the west for an optional challenge.
 
-\- Pink Shellos left, down all the way, left all the way, down 5, left,
+- Pink Shellos left, down all the way, left all the way, down 5, left,
 down all the way, right, down all the way  
 - Starly up 1, right all the way, down 1, right 2, down 6, left, down
 all the way, left (it'll be stopped by the Apple), down all the way,
@@ -9535,7 +9535,7 @@ Then, head back up and take note of each of statue placement - we’re
 going to need to move each into that spot upstairs yet again. The
 solution:
 
-\- Omanyte right all the way, down all the way, left 1, down 4, right 7,
+- Omanyte right all the way, down all the way, left 1, down 4, right 7,
 up 3  
 - Zorua down 1, right 2  
 - Pangoro down 8, left 4, up  
@@ -9941,21 +9941,21 @@ Head down from here.
 
 Relationship Point Choices:
 
-\- You're cruel. (Venam +3)
+- You're cruel. (Venam +3)
 
-\- ... (Neutral)
+- ... (Neutral)
 
-\- She deserved it. (Venam -4)
+- She deserved it. (Venam -4)
 
 Head up and into the next room. Grab *TM134 Rock Blast.*
 
 Relationship Point Choices:
 
-\- We can do this together! (Melia +3, Venam +3)
+- We can do this together! (Melia +3, Venam +3)
 
-\- Sorta like that, yeah. (Melia +1, Venam +1)
+- Sorta like that, yeah. (Melia +1, Venam +1)
 
-\- Team Xen is all I care about. (Melia -2, Venam -2)
+- Team Xen is all I care about. (Melia -2, Venam -2)
 
 Activate the fire crystal here, then return to the main dungeon through
 the cliffside. On the right side, you’ll find:
@@ -10526,13 +10526,13 @@ in the upper right corner.
 
 Relationship Point Choices:
 
-\- Beautiful! (Melia +2)
+- Beautiful! (Melia +2)
 
-\- Stylish! (Melia +2)
+- Stylish! (Melia +2)
 
-\- It's alright. (Melia +1)
+- It's alright. (Melia +1)
 
-\- Yikes. (Melia -2)
+- Yikes. (Melia -2)
 
 Then sit in the open chair around the table downstairs to play through
 the scene. Then, talk to Irvin and the gang in the lab.
@@ -10541,11 +10541,11 @@ Head to Kugearen City afterwards. Enter the cafe in the bottom.
 
 Relationship Point Choices:
 
-\- It was excellent! (Venam +2)
+- It was excellent! (Venam +2)
 
-\- It was alright. (Venam -1)
+- It was alright. (Venam -1)
 
-\- Awful. (Venam +2)
+- Awful. (Venam +2)
 
 You’ll have to choose a Pokémon to battle Kanon, but you don’t need to
 win this one. Well, head out, and talk to Venam in the square. Head
@@ -10571,9 +10571,9 @@ Down and to the right from here is 4 *Rawst Berries* and a hidden
 
 Relationship Point Choices:
 
-\- Yeah! (Venam +2)
+- Yeah! (Venam +2)
 
-\- Nah. (Venam -1)
+- Nah. (Venam -1)
 
 Enter the house and after a scene, you’ll be free to explore. Talk to
 Anathea in the garden for a optional scene.
@@ -10582,11 +10582,11 @@ Exit to the woods.
 
 Relationship Point Choices:
 
-\- Let's do this. (Venam +4)
+- Let's do this. (Venam +4)
 
-\- What about Melia? (Neutral)
+- What about Melia? (Neutral)
 
-\- I dunno... (Venam -2)
+- I dunno... (Venam -2)
 
 Head back to the city and enter the house in the bottom right of town.
 Head up.
@@ -10617,11 +10617,11 @@ out if you target its weaknesses or use Trick Room.
 
 Relationship Point Choices:
 
-\- Worried? (Venam +2)
+- Worried? (Venam +2)
 
-\- Scared? (Venam -2)
+- Scared? (Venam -2)
 
-\- Taking too long to find me? (Venam +3)
+- Taking too long to find me? (Venam +3)
 
 Grab the shiny *Apartment Key.*
 
@@ -11553,9 +11553,9 @@ Then head to the west. Near Luck’s tent, talk to Melia here.
 
 Relationship Point Choices:
 
-\- Hapi? (Melia +1)
+- Hapi? (Melia +1)
 
-\- The food? (Melia -1)
+- The food? (Melia -1)
 
 Enter the Darchlight Woods to the west.
 
@@ -13522,22 +13522,22 @@ Head back up and outside to the deck.
 
 Relationship Point Choices:
 
-\- We needed a new sail... (Melia +2)
+- We needed a new sail... (Melia +2)
 
-\- She loves her new job. (Melia +1)
+- She loves her new job. (Melia +1)
 
-\- Yes. (Neutral)
+- Yes. (Neutral)
 
 Enter the captain’s room to speak with Madame X, then open the door in
 the room to the right. Downstairs, talk to Melia.
 
 Relationship Point Choices:
 
-\- Who knows... (Melia +1)
+- Who knows... (Melia +1)
 
-\- Why does it matter? (Melia -2)
+- Why does it matter? (Melia -2)
 
-\- It's necessary. (Melia +2)
+- It's necessary. (Melia +2)
 
 And, if you have at least 5 Melia Relationship Points at this point,
 you’ll get another (Melia +5).
@@ -13737,11 +13737,11 @@ Relationship Point Choices:
 
 Relationship Point Choices:
 
-\- Are you okay?! (Melia +2)
+- Are you okay?! (Melia +2)
 
-\- uh... You good? (Neutral)
+- uh... You good? (Neutral)
 
-\- What happened? (Neutral)
+- What happened? (Neutral)
 
 Time to play as Melia. Follow the path!
 
@@ -13849,11 +13849,11 @@ lose this one, thankfully.
 
 Relationship Point Choices:
 
-\- We have to go. (Neutral)
+- We have to go. (Neutral)
 
-\- It was fun. (Neutral)
+- It was fun. (Neutral)
 
-\- Where's the exit? (Mosely -2)
+- Where's the exit? (Mosely -2)
 
 ## Aevium (Past) 2nd Visit Part 2 - PastA2.5
 
@@ -14033,11 +14033,11 @@ style="width:6.67708in;height:5.05208in" />
 
 Relationship Point Choices:
 
-\- I was terrified too... (Melia +2)
+- I was terrified too... (Melia +2)
 
-\- It's standard procedure. (Melia +1)
+- It's standard procedure. (Melia +1)
 
-\- Grow up. (Melia -2)
+- Grow up. (Melia -2)
 
 -   Catch some z’s at the penthouse, then in the nightmare, head up and
     talk to Anabel.
@@ -14053,11 +14053,11 @@ Relationship Point Choices:
 
 > Relationship Point Choices:
 >
-> \- Glad to help. (Melia +3, Erick +2)
+> - Glad to help. (Melia +3, Erick +2)
 >
-> \- I kinda got baited into this... (Erick +3, Melia +2)
+> - I kinda got baited into this... (Erick +3, Melia +2)
 >
-> \- Eh... (Erick +1, Melia -2)
+> - Eh... (Erick +1, Melia -2)
 
 -   Talk to Looker again to return to the lab.
 
@@ -14310,9 +14310,9 @@ Golden Wing Badge.
 
 Relationship Point Choices:
 
-\- Are you okay? (Erin +2)
+- Are you okay? (Erin +2)
 
-\- He doesn't matter. (Erin -4)
+- He doesn't matter. (Erin -4)
 
 You’ll also get... *Souta’s Cane*. Well, that’s interesting.
 
@@ -14323,9 +14323,9 @@ upstairs. After the scene, exit the building.
 
 Relationship Point Choices:
 
-\- Let's save Aelita! (Melia +3, Erin +3)
+- Let's save Aelita! (Melia +3, Erin +3)
 
-\- Can't Erin just go? (Erin -3, Melia -3)
+- Can't Erin just go? (Erin -3, Melia -3)
 
 As soon as you’re ready, talk to Erin and agree to enter the rift. Head
 up and follow the path, it’s quite straightforward. Grab the *Rift Notes
@@ -14356,21 +14356,21 @@ Back inside, head into the left room upstairs.
 
 Relationship Point Choices:
 
-\- You sure you're okay? (Melia +1, Erin +1)
+- You sure you're okay? (Melia +1, Erin +1)
 
-\- ... (Neutral)
-
-Relationship Point Choices:
-
-\- Let's save Venam! (Melia +3, Erin +2)
-
-\- ... (Neutral)
+- ... (Neutral)
 
 Relationship Point Choices:
 
-\- Welcome back! (Aelita +4)
+- Let's save Venam! (Melia +3, Erin +2)
 
-\- Too speedy... (Erin -2, Aelita -2)
+- ... (Neutral)
+
+Relationship Point Choices:
+
+- Welcome back! (Aelita +4)
+
+- Too speedy... (Erin -2, Aelita -2)
 
 That concludes chapter 12!
 
@@ -14860,17 +14860,17 @@ the very top of the village.
 
 Relationship Point Choices:
 
-\- I wish for peace. (Ren +1, Alexandra +3, Ryland +1)
+- I wish for peace. (Ren +1, Alexandra +3, Ryland +1)
 
-\- I don't know... (Ren +2, Alexandra -1, Ryland -1)
+- I don't know... (Ren +2, Alexandra -1, Ryland -1)
 
-\- ... (Ren -1, Alexandra -1, Ryland -1)
+- ... (Ren -1, Alexandra -1, Ryland -1)
 
 Relationship Point Choices:
 
-\- Alright... (Ren +1, Alexandra +1)
+- Alright... (Ren +1, Alexandra +1)
 
-\- No Thanks. (Ren -1)
+- No Thanks. (Ren -1)
 
 If you’re on the Kanon route, talk to Ren at the bottom of the village.
 
@@ -19219,9 +19219,9 @@ Melia.
 
 Relationship Point Choices:
 
-\- Full-time? (Reina +1)
+- Full-time? (Reina +1)
 
-\- Part-time? (Neutral)
+- Part-time? (Neutral)
 
 # Chapter 15: Vague Clarity
 
