@@ -21945,8 +21945,7 @@ Wispy Ruins|
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1</p>
-<p>-10</p></td>
+<td><p>1-10</p></td>
 <td><img src="/assets/media/rejuv/image114.png"
 style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image115.png"
