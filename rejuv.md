@@ -21915,7 +21915,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 
 ## Pickup Table - PickUp1
 
-<table style="width:100%;">
+<table> <!-- style="width:100%; "-->
 <!-- <colgroup>
 <col style="width: 20%" />
 <col style="width: 8%" />
@@ -21948,7 +21948,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1-10</p></td>
+<td>1-10</td>
 <td><img src="/assets/media/rejuv/image114.png"
 style="width:0.3in;height:0.3in" /></td>
 <td><img src="/assets/media/rejuv/image115.png"
