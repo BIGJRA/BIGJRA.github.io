@@ -51,6 +51,11 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#amethyst-cave-1st-visit---acave1" id="toc-amethyst-cave-1st-visit---acave1">Amethyst Cave 1st Visit - ACave1</a>
     -   <a href="#sheridan-village---svill1" id="toc-sheridan-village---svill1">Sheridan Village - SVill1</a>
     -   <a href="#amethyst-grotto-and-sheridan-help-quests---agrot1" id="toc-amethyst-grotto-and-sheridan-help-quests---agrot1">Amethyst Grotto and Sheridan Help Quests - AGrot1</a>
+        -   <a href="#hquest-8-hidden-library-2" id="toc-hquest-8-hidden-library-2">HQuest 8: Hidden Library 2</a>
+        -   <a href="#hquest-9-stolen-cargo" id="toc-hquest-9-stolen-cargo">HQuest 9: Stolen Cargo!</a>
+        -   <a href="#hquest-10-trade-me" id="toc-hquest-10-trade-me">HQuest 10: Trade Me!</a>
+        -   <a href="#hquest-11-fetch-an-item" id="toc-hquest-11-fetch-an-item">HQuest 11: Fetch an Item!</a>
+        -   <a href="#hquest-12-battle-request-2" id="toc-hquest-12-battle-request-2">HQuest 12: Battle Request 2</a>
     -   <a href="#diamond-punch-badge---badge15" id="toc-diamond-punch-badge---badge15">Diamond Punch Badge? - Badge1.5</a>
     -   <a href="#carotos-mountain---cmount1" id="toc-carotos-mountain---cmount1">Carotos Mountain - CMount1</a>
     -   <a href="#diamond-punch-badge---badge02" id="toc-diamond-punch-badge---badge02">Diamond Punch Badge - Badge02</a>
@@ -284,6 +289,7 @@ Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
 
 Relationship Point Choices:
+
 - I’m fine. (Mom +2)
 - ... (Mom -1)
 
@@ -1619,9 +1625,9 @@ This is all we can do in the city for now, so buy a $300 ticket to take
 the train east to Route 2!
 
 Relationship Point Choices:  
-            - You guys alright? (Venam -1)  
-            - Cheer up, guys... (Ren +1)  
-            - ... (Neutral)
+- You guys alright? (Venam -1)  
+- Cheer up, guys... (Ren +1)  
+- ... (Neutral)
 
 ## Route 2 - 2Route1
 
@@ -1719,11 +1725,10 @@ After you’re done, enter Amethyst Cave.
 After a conversation with a shady figure, you’ll have control in the
 cave.
 
-Amethyst Cave (Crystal Cavern)
+Amethyst Cave
 
-|               |          |                |          |
+| Cave          | %        | Old Rod        | %        |
 |---------------|----------|----------------|----------|
-| Cave   | % | Old Rod | % |
 | Woobat        | 40       | **Remoraid**   | 70       |
 | Geodude       | 34       | **Barboach**   | 30       |
 | **Sandshrew** | 15       |                |          |
@@ -1738,11 +1743,10 @@ contains a *Green Shard.*
 Head to the right, and downstairs. This is a new area technically with
 different encounters.
 
-Amethyst Depths (Crystal Cavern)
+Amethyst Depths
 
-|             |          |
+| Cave        | %        |
 |-------------|----------|
-| Cave | % |
 | Geodude     | 34       |
 | Chingling   | 30       |
 | Sandshrew   | 15       |
@@ -1754,9 +1758,10 @@ Again, Xatu is another good choice for the upcoming gym.
 
 The wall below the second Joltik contains an *HP Up.* Talk to Ren.
 
-Relationship Point Choices:*  
-*            - Is that strange? (Ren +1)  
-            - What about them? (Neutral)
+Relationship Point Choices:
+    
+- Is that strange? (Ren +1)  
+- What about them? (Neutral)
 
 The rock below him contains a *Potion,* and one tile down from the box
 to the left is a hidden *Antidote.* Crossing the bridge, the bottom left
@@ -1773,57 +1778,33 @@ while you are here, we will activate 5 more for a quest later.
 Heal and save, then head up. Pick up the *Rift Dex* to learn about Rift
 Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
 
-Dimensional Rift Galvantula
+Dimensional Rift Galvantula (Corrupted Field)
 
 -   Joltik, Level 22.
-
     -   Electroweb
-
     -   Toxic Thread
-
     -   Struggle Bug
-
     -   Confusion
-
 -   Joltik, Level 23.
-
     -   Electroweb
-
     -   Toxic Thread
-
     -   Struggle Bug
-
     -   Confusion
-
 -   Joltik, Level 24.
-
     -   Electroweb
-
     -   Toxic Thread
-
     -   Struggle Bug
-
     -   Confusion
-
 -   Joltik, Level 25.
-
     -   Electroweb
-
     -   Toxic Thread
-
     -   Struggle Bug
-
     -   Confusion
-
 -   Galvantula, Level 25. @ Demon Stone. Ability: Parental Bond. Type:
     Poison/Electric. Stat Spread: 70/80/100/80/160/80
-
     -   Electroweb
-
     -   Cross Poison
-
     -   Toxic Thread
-
     -   Sucker Punch
 
 This one isn’t too bad, though the Joltik are annoying with their
@@ -1832,9 +1813,10 @@ going last, so have something with enough special defense to take their
 Electric/Bug/Poison attacks and hit back hard. Venam and Ren are both
 worthy partners here.
 
-Relationship Point Choices:*  
-*            - You think I can do it? (Neutral)  
-            - Where do I go next? (Ren +2)
+Relationship Point Choices:  
+
+- You think I can do it? (Neutral)  
+- Where do I go next? (Ren +2)
 
 Back in the city, two optional things we can do now: first, talk to Zumi
 in the library, who’ll give you the *Advanced Pokedex* if you caught
@@ -1871,43 +1853,24 @@ battle.
 Apprentice Nim (Psychic Terrain)
 
 -   Inkay, Level 20.
-
     -   Psywave
-
     -   Feint Attack
-
     -   Hypnosis
-
     -   Swagger
-
 -   Darumaka, Level 20.
-
     -   Fire Fang
-
     -   Bite
-
     -   Headbutt
-
     -   Taunt
-
 -   Lunatone, Level 21. @ Passho Berry.
-
     -   Rock Slide
-
     -   Ancientpower
-
     -   Cosmic Power
-
     -   Confusion
-
 -   Solrock, Level 21. @ Rindo Berry.
-
     -   Rock Slide
-
     -   Fire Spin
-
     -   Psywave
-
     -   Cosmic Power
 
 The Solrock and Lunatone can be frustrating with Rock Slide, but
@@ -1917,9 +1880,10 @@ it sit there while you beat up on the other side. Hidden Power is
 boosted in this field, so if you have it on your special attackers,
 especially those with type advantages, you’ll be fine.
 
-Relationship Point Choices:*  
-*            - Yes (Nim +2)  
-            - No. (Nim -2)
+Relationship Point Choices:
+
+- Yes (Nim +2)  
+- No. (Nim -2)
 
 She’ll give you the *Room ID Card!* When you are back in the cave, the
 wall to the left of the bottom stairs contains a *Super Potion,* and the
@@ -1934,23 +1898,28 @@ into Sheridan Arena. Then knock on Keta’s door at the very top, then
 enter the inn back in the village. Head upstairs.
 
 Relationship Point Choices:  
-            - I will. (Aelita +3)  
-            - Why me?? (Aelita -1)
+
+- I will. (Aelita +3)  
+- Why me?? (Aelita -1)
 
 Now healing is free, so we can explore Sheridan Village now.
 
-Sheridan Village (Forest Field)
+Sheridan Village
 
-|                     |          |                           |          |                   |          |
-|---------------------|----------|---------------------------|----------|-------------------|----------|
-| Grass: Night | % | Grass: Morning/Day | % | Old Rod    | % |
-| **Zigzagoon**       | 30       | **Makuhita**              | 34       | **Goldeen**       | 70       |
-| Chingling           | 25       | **Zigzagoon**             | 30       | Finneon           | 30       |
-| Hoothoot            | 16       | Spearow                   | 15       | Rock Smash |          |
-| **Makuhita**        | 10       | Kricketot                 | 15       | Geodude           | 96       |
-| **Dustox**          | 10       | **Kricketune**            | 5        | Diglett           | 4        |
-| Kricketot           | 5        | **Ledyba**                | 1        |                   |          |
-| **Kricketune**      | 4        |                           |          |                   |          |
+| Grass: Morning/Day| %    | Grass: Night    | %    | Old Rod       | %    |
+|-------------------|------|-----------------|------|---------------|------|
+| **Makuhita**      | 34   | **Zigzagoon**   | 30   | **Goldeen**   | 70   |
+| **Zigzagoon**     | 30   | Chingling       | 25   | Finneon       | 30   |
+| Spearow           | 15   | Hoothoot        | 16   |               |      |
+| Kricketot         | 15   | **Makuhita**    | 10   |               |      |
+| **Kricketune**    | 5    | **Dustox**      | 10   |               |      |
+| **Ledyba**        | 1    | Kricketot       | 5    |               |      |
+|                   |      | **Kricketune**  | 4    |               |      |
+
+|Rock Smash     | % |
+|---------------|---|
+|Geodude        |96 |
+|Diglett        |4  |
 
 Enter the first house and talk to a girl. This opens a quest for way
 later.
@@ -1959,41 +1928,37 @@ Go left to enter the shop.
 
 Sheridan Village Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Potion* $300
-
-*Super Potion* $700
-
-*Ice Heal* $250
-
-*Antidote* $100
-
-*GourmetTreat* $1500
-
-*Super Repel* $500
-
-*Reverse Candy* $50
+|Item           | Price     |
+|---------------|-----------|
+|*Poke Ball*    | $200      |
+|*Great Ball*   | $600      |
+|*Potion*       | $300      |
+|*Super Potion* | $700      |
+|*Ice Heal*     | $250      |
+|*Antidote*     | $100      |
+|*GourmetTreat* | $1500     |
+|*Super Repel*  | $500      |
+|*Reverse Candy*| $50       |
 
 Enter the shop on a weekday morning and you’ll see Beth and her Miltank.
 Talk to her to get a free *Moomoo Milk* sample, then her shop will open.
 Note that Berry Juice can be a pretty good hold item at this stage of
-the game.
+the game. It is only open on Monday, Wednesday, Friday, and Sunday 
+Mornings.
 
-Sheridan Village Drinks (Monday, Wednesday, Friday, Sunday Mornings
-Only) (1 Badge)
+Sheridan Village Drinks Shop (1 Badge)
 
-*Berry Juice* $100
+|Item           | Price     |
+|---------------|-----------|
+|*Berry Juice*  |$100       |
 
 You can sneak around the back of the shop, if you do, talk to the shop
 owner from behind to get a *Super Potion!* A tile left and up from the
 backdoor on the outside is a hidden *TinyMushroom.*
 
-You’ll notice a trucker up from here: this trucker will drive us for
-free between Sheridan and Gearen, so take advantage of this instead of
-paying the train fee whenever possible.
+You’ll notice a trucker up from here: this is Truck Guy. He will take us
+for free between Sheridan and Gearen, so take advantage of this instead 
+of paying the train fee whenever possible.
 
 Head east. Above the boxes is a hidden *Ability Capsule.* Enter the inn.
 Note that the Inn will heal your team for a fee right now, but after a
@@ -2004,9 +1969,10 @@ hall will offer to teach you a few more moves for shards:
 
 Sheridan Village Move Tutor
 
-Worry Seed 2 Red Shards
-
-Uproar 2 Green Shards
+|Move       | Price         |
+|-----------|---------------|
+|Worry Seed |2 Red Shards   |
+|Uproar     |2 Green Shards |
 
 There is an Audino breeder towards the top: every time you beat them,
 you will get 3 *Exp. Candy S.* Once you’re ready, we can take care of
@@ -2038,25 +2004,30 @@ baby eggs.
 
 Return to Sheridan Arena at the top.
 
-Sheridan Arena (Forest Field)
+Sheridan Arena
 
-|                     |          |                           |          |                   |          |
-|---------------------|----------|---------------------------|----------|-------------------|----------|
-| Grass: Night | % | Grass: Morning/Day | % | Old Rod    | % |
-| Zigzagoon           | 30       | Makuhita                  | 34       | Goldeen           | 70       |
-| Chingling           | 25       | Zigzagoon                 | 30       | Finneon           | 30       |
-| Hoothoot            | 16       | **Fletchinder**           | 15       | Rock Smash | % |
-| Makuhita            | 10       | Kricketot                 | 15       | Geodude           | 96       |
-| Dustox              | 10       | Kricketune                | 5        | Diglett           | 4        |
-| Kricketot           | 5        | Ledyba                    | 1        |                   |          |
-| Kricketune          | 4        |                           |          |                   |          |
+| Grass: Morning/Day| %    | Grass: Night| %    | Old Rod   | %    |
+|-------------------|------|-------------|------|-----------|------|
+| Makuhita          | 34   | Zigzagoon   | 30   | Goldeen   | 70   |
+| Zigzagoon         | 30   | Chingling   | 25   | Finneon   | 30   |
+| **Fletchinder**   | 15   | Hoothoot    | 16   |           |      |
+| Kricketot         | 15   | Makuhita    | 10   |           |      |
+| Kricketune        | 5    | Dustox      | 10   |           |      |
+| Ledyba            | 1    | Kricketot   | 5    |           |      |
+|                   |      | Kricketune  | 4    |           |      |
+
+| Rock Smash | % |
+|------------|---|
+| Geodude    | 96|
+| Diglett    | 4 |
 
 Head up and talk to the **Swablu** flying overhead for a battle. Return
 to Keta’s house and talk to him in his garden.
 
-Relationship Point Choices:*  
-*            - I am. (Keta +2)  
-            - But i just got here... (Keta -2)
+Relationship Point Choices:
+
+- I am. (Keta +2)  
+- But i just got here... (Keta -2)
 
 ## Amethyst Grotto and Sheridan Help Quests - AGrot1
 
@@ -2070,11 +2041,10 @@ Continue through the cave. Once at the entrance, head west until you see
 a red rock. Touch the stone, and a door will open. Enter and go
 downstairs. On the left above a tree is a hidden *Moon Ball*.
 
-Amethyst Grotto (No Field)
+Amethyst Grotto
 
-|               |          |
+| Grass         | %        |
 |---------------|----------|
-| Grass  | % |
 | **Dunsparce** | 36       |
 | Meowth        | 31       |
 | Jigglypuff    | 25       |
@@ -2095,175 +2065,140 @@ guy.
 Now is a good time to do the Sheridan Village Help Quests. The help
 center is in the upper right part of the village.
 
-HQuest 8: The Hidden Library 2
+### HQuest 8: Hidden Library 2
 
--   Start outside the help center and talk to the backpacker.
+Start outside the help center and talk to the backpacker. Truck to 
+Gearen, then go to the Chrisola Hotel and talk to Karen in front.
 
--   Truck to Gearen, then go to the Chrisola Hotel and talk to Karen in
-    front.
+Head to Dr. Jenkel’s lab and watch the scene. Go to Gearen Park and 
+talk to Karen. Enter the library. 
 
--   Head to Dr. Jenkel’s lab and watch the scene
+Pick up the green book behind the pillar at the entrance. Enter the
+main chamber and pick up the blue book. We can encounter Pokemon here,
+but there’s only 1 type: **Unown!**
 
--   Go to Gearen Park and talk to Karen. Enter the library.
+Pick up the purple book nearby. To the right there is a 2-tile space
+without a bookshelf on the bottom, one tile up from the right one
+contains an *Ether.*
 
--   Pick up the green book behind the pillar at the entrance.
-
--   Enter the main chamber and pick up the blue book.
-
-We can encounter Pokemon here, but there’s only 1 type: **Unown!**
-
--   Pick up the purple book nearby. To the right there is a 2-tile space
-    without a bookshelf on the bottom, one tile up from the right one
-    contains an *Ether.*
-
--   Go right for the orange book and up for the red book. Also:
+Go right for the orange book and up for the red book. Also:
 
 ZCell 009: Hidden Library
 
 <img src="/assets/media/rejuv/image9.png"
 style="width:6.66667in;height:5.04167in" />
 
--   Go down. Pick up the lime book, and *TM63 Embargo.*
+Go down. Pick up the lime book, and *TM63 Embargo.*
 
--   Head back up and go all the way up, picking up the sky-blue book.
+Head back up and go all the way up, picking up the sky-blue book.
 
--   Head up. Next to the door, there are candle things. The second from
-    the top on the right contains a hidden *Charcoal!*
+Head up. Next to the door, there are candle things. The second from
+the top on the right contains a hidden *Charcoal!*
 
--   Follow Karen into the north room. On the left, pick up the golden
-    book*.* On the right, pick up the lemon book.
+Follow Karen into the north room. On the left, pick up the golden
+book*.* On the right, pick up the lemon book.
 
--   Now that we have found nine books, head back to where we saw Elgyem
-    flying by earlier. Interact with the bookshelf it’s on and place the
-    books inside. A level 1 **Elgyem** will then battle you!
+Now that we have found nine books, head back to where we saw Elgyem
+flying by earlier. Interact with the bookshelf it’s on and place the
+books inside. A level 1 **Elgyem** will then battle you!
 
--   Head back into the upper room and talk to Karen.
+Head back into the upper room and talk to Karen. While she’ll get the
+Mega Ring, you’ll get the *Ancient Book.* This will allow you to read 
+Garufan prophecies. Check out the ones on the wall, if you’re 
+interested.
 
--   While she’ll get the Mega Ring, you’ll get the *Ancient Book.* This
-    will allow you to read Garufan prophecies. Check out the ones on the
-    wall, if you’re interested.
+Head back to Sheridan Village when you’re done and talk to the
+backpacker.
 
--   Head back to Sheridan Village when you’re done and talk to the
-    backpacker.
+You can choose to give him the book or not. I recommend giving him
+the book since we can get another later, and if you choose to,
+you’ll get *Blue Moon Ice Cream!*
 
--   You can choose to give him the book or not. I recommend giving him
-    the book since we can get another later, and if you choose to,
-    you’ll get *Blue Moon Ice Cream!*
+Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen
+Relationship Point)
 
--   Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen
-    Relationship Point)
+### HQuest 9: Stolen Cargo!
 
-HQuest 9: Stolen Cargo!
+Use the trucker to get to Gearen City, then go to Oceana Pier. Head to
+the southeast, then follow the guy into the warehouse.
 
--   Use the trucker to get to Gearen City, then go to Oceana Pier. Head
-    to the southeast, then follow the guy into the warehouse.
+If you try to go north, you’ll get shocked, and your Pokemon will
+faint. The key here is to transform the Factory field into
+Short-Circuit via battling the Electrike trainer in the southwest
+and getting it to use Discharge. Once you’ve done this, head through
+the middle arrows.
 
--   If you try to go north, you’ll get shocked, and your Pokemon will
-    faint. The key here is to transform the Factory field into
-    Short-Circuit via battling the Electrike trainer in the southwest
-    and getting it to use Discharge. Once you’ve done this, head through
-    the middle arrows.
+Venam will join you for a battle. Once you’ve won, she’ll leave.
 
--   Venam will join you for a battle. Once you’ve won, she’ll leave.
+Before we leave the warehouse, interact with the panel to switch the
+direction of the middle tile, then head right. Grab *TM09 Venoshock*
+then head back to Sheridan.
 
--   Before we leave the warehouse, interact with the panel to switch the
-    direction of the middle tile, then head right. Grab *TM09 Venoshock*
-    then head back to Sheridan.
+Claim your reward: $950 and five *GourmetTreats*. (+1 Karma, +1 Venam
+Relationship Point)
 
--   Claim your reward: $950 and five *GourmetTreats*. (+1 Karma, +1
-    Venam Relationship Point)
+### HQuest 10: Trade Me!
 
-HQuest 10: Trade Me!
+First, grab one Aipom from your PC. If you didn’t get one yet, go to
+Route 2 and interact with them. Then go to Sheridan Arena.
 
--   First, grab one Aipom from your PC. If you didn’t get one yet, go to
-    Route 2 and interact with them. Then go to Sheridan Arena.
+Talk to the girl with blue hair, then trade for **Pancham.**
 
--   Talk to the girl with blue hair, then trade for **Pancham.**
+Claim your reward: $1,920 and *Rare Candy*! (+1 Karma)
 
--   Claim your reward: $1,920 and *Rare Candy*! (+1 Karma)
+### HQuest 11: Fetch an Item!
 
-HQuest 11: Fetch an Item!
+Start by heading through Amethyst Cave to Route 2.
 
--   Start by heading through Amethyst Cave to Route 2.
+Pick up one of the blue item balls. If you have 50,000, you’re
+welcome to pay for the item, but if not, you’ll get teleported to
+the THIEF’S DUNGEON!
 
--   Pick up one of the blue item balls. If you have 50,000, you’re
-    welcome to pay for the item, but if not, you’ll get teleported to
-    the THIEF’S DUNGEON!
+After talking to the grunt and getting out, memorize the map on the
+wall. If you don’t take the path outlined, you will get destroyed…
+Enter the door that corresponds to yellow to get an *Ice Stone,* or
+*Dusk Stone* depending on random chance.
 
--   After talking to the grunt and getting out, memorize the map on the
-    wall. If you don’t take the path outlined, you will get destroyed…
-    Enter the door that corresponds to yellow to get an *Ice Stone,* or
-    *Dusk Stone* depending on random chance.
+Escape, and return to the help center. Talk to the guy to get *Blue
+Moon Ice Cream.*
 
--   Escape, and return to the help center. Talk to the guy to get *Blue
-    Moon Ice Cream.*
+Claim your reward: $1890, Casteliacone! (+1 Karma)
 
--   Claim your reward: $1890, Casteliacone! (+1 Karma)
-
-HQuest 12: Battle Request 2
+### HQuest 12: Battle Request 2
 
 Prepare your team and talk to Novae at the inn at night.
 
 Wanderer Novae and Dancer Rorim B (Forest Field)
 
 -   Charjabug, Level 24. @ Mental Herb.
-
     -   Spark
-
     -   Acrobatics
-
     -   Dig
-
     -   Crunch
-
 -   Galarian Mr. Mime, Level 24.
-
     -   Teeter Dance
-
     -   Icy Wind
-
     -   Disarming Voice
-
     -   Psybeam
-
 -   Oricorio Sensu, Level 24. @ Maranga Berry.
-
     -   Feather Dance
-
     -   Teeter Dance
-
     -   Air Cutter
-
     -   Revelation Dance
-
 -   Lombre, Level 25. @ Mystic Water.
-
     -   Hypnosis
-
     -   Rock Tomb
-
     -   Bulldoze
-
     -   Giga Drain
-
 -   Passimian, Level 25. @ Fighting Gem.
-
     -   Rock Tomb
-
     -   Bulldoze
-
     -   Low Sweep
-
     -   Work Up
-
 -   Trumbeak, Level 25.
-
     -   Fury Attack
-
     -   Rock Smash
-
     -   Pluck
-
     -   Rock Blast
 
 This is a tough one, two of her party members are already fully evolved
@@ -2289,63 +2224,34 @@ As soon as you’re ready, talk to Aelita on the battlefield
 Sensei Keta (Forest Field)
 
 -   Combusken, Level 22. @ Charcoal.
-
     -   Cut
-
     -   Gale Strike
-
     -   Protect
-
     -   Flame Burst
-
 -   Galarian Farfetch’d, Level 23. @ Eviolite.
-
     -   Gale Strike
-
     -   Brutal Swing
-
     -   Pluck
-
     -   Quick Attack
-
 -   Scraggy, Level 22. @ Black Belt.
-
     -   Brutal Swing
-
     -   Gale Strike
-
     -   Fake Out
-
     -   Rock Tomb
-
 -   Machoke, Level 23. @ Coba Berry.
-
     -   Knock Off
-
     -   Gale Strike
-
     -   Rock Tomb
-
     -   Bullet Punch
-
 -   Pignite, Level 23.
-
     -   Flame Charge
-
     -   Gale Strike
-
     -   Rock Tomb
-
     -   Fire Punch
-
 -   Lucario, Level 24. @ Black Belt
-
     -   Gale Strike
-
     -   Poison Sweep
-
     -   Rock Tomb
-
     -   Bullet Punch
 
 Gale Strike: Fighting \| Physical \| 60 power \| 100% accuracy \|
@@ -2366,23 +2272,23 @@ waterfall cave.
 
 ## Carotos Mountain - CMount1
 
-Relationship Point Choices:*  
-*            - Yes. (Aelita +1)  
-            - No. (Aelita -1)
+Relationship Point Choices:
+
+- Yes. (Aelita +1)  
+- No. (Aelita -1)
 
 You’ll team up with Aelita here, so she’ll heal you but catching wild
 Pokemon is a bit tougher.
 
-Carotos Mountain (Volcano Field)
+Carotos Mountain
 
-|              |          |                |          |
-|--------------|----------|----------------|----------|
-| Cave  | % | Old Rod | % |
-| **Numel**    | 40       | **Numel**      | 70       |
-| **Slugma**   | 30       | **Slugma**     | 30       |
-| **Onix**     | 19       |                |          |
-| **Rolycoly** | 9        |                |          |
-| **Nosepass** | 2        |                |          |
+| Cave         | %    | Old Rod    | %    |
+|--------------|------|------------|------|
+| **Numel**    | 40   | **Numel**  | 70   |
+| **Slugma**   | 30   | **Slugma** | 30   |
+| **Onix**     | 19   |            |      |
+| **Rolycoly** | 9    |            |      |
+| **Nosepass** | 2    |            |      |
 
 On the left, past a rock smash, is *TM121 Fire Spin*.
 
@@ -2429,65 +2335,35 @@ Head up, then up again. You’ll now have to fight Madelis.
 Xen Executive Madelis (No Field)
 
 -   Floette, Level 22.
-
     -   Magical Leaf
-
     -   Draining Kiss
-
     -   Dazzling Gleam
-
     -   Protect
-
 -   Salandit, Level 22.
-
     -   Poison Gas
-
     -   Flame Burst
-
     -   Venoshock
-
     -   Fake Out
-
 -   Golbat, Level 24.
-
     -   Wing Attack
-
     -   Confuse Ray
-
     -   Double Team
-
     -   Venoshock
-
 -   Cufant, Level 24.
-
     -   Iron Head
-
     -   Stomp
-
     -   Growl
-
     -   Rollout
-
 -   Houndoom, Level 25. @ Chople Berry.
-
     -   Snarl
-
     -   Flamethrower
-
     -   Thunder Fang
-
     -   Crunch
-
 -   Shadow Mewtwo, Level 27.
-
     -   Energy Ball
-
     -   Psychic
-
     -   Miracle Eye
-
     -   Aura Sphere
-
     -   Shadow Chill
 
 This one doesn’t have to be won, though it is very doable. Winning
@@ -2513,13 +2389,9 @@ Dimensional Rift Volcanion
 
 -   Volcanion, Level 23. @ Demon Stone. Ability: Water Absorb. Stat
     Spread: 110/60/80/90/200/20. 2 Shields.
-
     -   Water Pulse
-
     -   Flamethrower
-
     -   Bulldoze
-
     -   Rock Slide
 
 So, you’ll probably be faster than this guy. With only 110/80 on the
@@ -2528,25 +2400,24 @@ health bar down with some decent STAB moves.
 
 Once you’re free, head to the gate in Sheridan, and enter the spring.
 
-Spring of Purification (Forest Field)
+Spring of Purification
 
-|              |          |                         |          |
-|--------------|----------|-------------------------|----------|
-| Grass | % | Old Rod/Good Rod | % |
-| Bellsprout   | 46       | Goldeen                 | 100      |
-| Zigzagoon    | 20       |                         |          |
-| Illumise     | 10       |                         |          |
-| Volbeat      | 10       |                         |          |
-| Paras        | 10       |                         |          |
-| Oddish       | 4        |                         |          |
+| Grass        | %    | Old Rod/Good Rod    | %    |
+|--------------|------|---------------------|------|
+| Bellsprout   | 46   | Goldeen             | 100  |
+| Zigzagoon    | 20   |                     |      |
+| Illumise     | 10   |                     |      |
+| Volbeat      | 10   |                     |      |
+| Paras        | 10   |                     |      |
+| Oddish       | 4    |                     |      |
 
 Pick up the *Magical Seed* up from the entrance. Head up and talk to the
 pair.
 
-Dialogue Choice:
+Relationship Point Choices:
 
-            - Are you ok? (+1 Karma)  
-            - Who’s Vivian? (Neutral)
+- Are you ok? (+1 Karma)  
+- Who’s Vivian? (Neutral)
 
 Once you leave the shrine, Keta will ask you to fast travel to Amethyst
 Grotto. If you’re ready, feel free. Otherwise, we now have up to 7 new
@@ -2561,13 +2432,9 @@ Sheridan. Gothitelle will battle us!
 Crescent’s Gothitelle (No Field)
 
 -   Gothitelle, Level 32. @ Twisted Spoon.
-
     -   Psychic
-
     -   Shock Wave
-
     -   Calm Mind
-
     -   Signal Beam
 
 If you win, you’ll be able to pick up **Gothita** behind!
@@ -2578,71 +2445,40 @@ Head into Amethyst Grotto ready for the REAL gym fight.
 
 Well, that’s about all we can take care of at this point.
 
-Head back to Amethyst Grotto with a fully healed team.
-
-The Spirit of Keta will be able to give us a badge, so let’s challenge
-him.
+Head back to Amethyst Grotto with a fully healed team. The Spirit of Keta 
+will be able to give us a badge, so let’s challenge him.
 
 Sensei Keta (No Field)
 
 -   Larvesta, Level 22
-
     -   Flame Charge
-
     -   Take Down
-
     -   Bug Bite
-
     -   Magnet Rise
-
 -   Roselia, Level 22. @ Occa Berry.
-
     -   Magical Leaf
-
     -   Hidden Power Water
-
     -   Venoshock
-
     -   Leech Seed
-
 -   Ninetales, Level 23. @ Charcoal.
-
     -   Flame Burst
-
     -   Will-o-Wisp
-
     -   Hex
-
     -   Feint Attack
-
 -   Krokorok, Level 23. @ Sitrus Berry.
-
     -   Bite
-
     -   Bulldoze
-
     -   Hone Claws
-
     -   Poison Sweep
-
 -   Lapras, Level 24. @ Sitrus Berry.
-
     -   Body Slam
-
     -   Water Pulse
-
     -   Freeze Dry
-
     -   Ice Shard
-
 -   Gallade, Level 25. @ Leftovers.
-
     -   Low Sweep
-
     -   Psycho Cut
-
     -   Shadow Sneak
-
     -   Poison Sweep
 
 Compared to Novae, this battle won’t be too hard but is still scary.
@@ -2726,9 +2562,9 @@ to win this one. Anyways, after battle, she’ll give you *HM01 Cut*!
 
 Relationship Point Choices:
 
-            - I'll get it done! (Karrina +2, Aelita +1)  
-            - ... (Neutral)  
-            - I'm kinda scared... (Karrina -2)
+- I'll get it done! (Karrina +2, Aelita +1)  
+- ... (Neutral)  
+- I'm kinda scared... (Karrina -2)
 
 Enter the sewers and head to the back, cutting along the way.
 
@@ -2801,10 +2637,11 @@ Servant Moya (Grassy Terrain)
 
 This can be tough, but Marianette’s Pokemon do help out
 
-Relationship Point Choices:*  
-*            - It was cool. (Neutral)  
-            - Calm down. (Marianette -3)  
-            - You were a great help! (Marianette +3) 
+Relationship Point Choices:
+
+- It was cool. (Neutral)  
+- Calm down. (Marianette -3)  
+- You were a great help! (Marianette +3) 
 
 Enter at the top and save Luca.
 
@@ -2838,9 +2675,9 @@ the buttons control both pieces. Carefully use the walls to your
 advantage to solve this one. Three times and you’re done: save Lenny.
 
 Relationship Point Choices:  
-            - To instill fear. (Marianette +2)  
-            - Who knows? (Marianette -1)  
-            - It's a fun hobby! (Marianette -3)
+- To instill fear. (Marianette +2)  
+- Who knows? (Marianette -1)  
+- It's a fun hobby! (Marianette -3)
 
 Next, head back out the way we came in through the courtyard. Talk to
 the maid in one of the gardens to the south, Deandra, for a battle.
@@ -2856,10 +2693,11 @@ anymore.
 
 Head back into the courtyard and enter the Absol statue.
 
-Relationship Point Choices:*  
-*            - I'll be fine! (Marianette +1)  
-            - HURRY AND FREE ME! (Marianette -4)  
-            - It's okay, stay calm (Marianette +4)
+Relationship Point Choices:
+
+- I'll be fine! (Marianette +1)  
+- HURRY AND FREE ME! (Marianette -4)  
+- It's okay, stay calm (Marianette +4)
 
 The first two rooms are not too hard, grab the *Max Repel* while you’re
 at it. In the final room, you just must push the colored statues onto
@@ -3199,8 +3037,8 @@ market. All the events and shops here can only be accessed during
 daytime. Talk to Aelita during the day.
 
 Relationship Point Choices:  
-            - I'm starving... (Aelita +2)  
-            - No distractions! (Neutral)
+- I'm starving... (Aelita +2)  
+- No distractions! (Neutral)
 
 If you go with the first option, you’ll get *Vanilla, Chocolate,* or
 *Strawberry Ice Cream*.
@@ -3309,9 +3147,9 @@ Attempt to enter Goldenleaf Town to the south. Then, interact with the
 tent near the campfire to the north.
 
 Relationship Point Choices:  
-            - A Gym Battle! (Ren +1)  
-            - Wanna see the sights\~ (Ren +1)  
-            - No reason... (Ren -2)
+- A Gym Battle! (Ren +1)  
+- Wanna see the sights\~ (Ren +1)  
+- No reason... (Ren -2)
 
 When you’re ready talk to Aelita for a battle.
 
@@ -4008,9 +3846,10 @@ Although it may feel like you’re going in circles, just keep following
 the torches until you finally pass through a mirror and get to the heal
 and PC stars. Head through the door.
 
-Relationship Point Choices:*  
-*            - Go ahead, Ren. (Ren +4)  
-            - No. (Ren -4)
+Relationship Point Choices:
+
+- Go ahead, Ren. (Ren +4)  
+- No. (Ren -4)
 
 Pokemon Trainer Ren
 
@@ -4294,8 +4133,8 @@ Head back to the left and let Cairo break the rock. You’ll get a *Moomoo
 Milk.* Head up.
 
 Relationship Point Choices:  
-            - You okay, Nim? (Aelita +1)  
-            - You're acting weird... (Neutral)
+- You okay, Nim? (Aelita +1)  
+- You're acting weird... (Neutral)
 
 RIFT DEN 2 (\< 8 Badges): The common encounters in this second den are
 Tranquill, **Wailmer**, Dunsparce, and **Vullaby**. The rare ones are
@@ -4590,8 +4429,8 @@ will be the fields.
 We’ll wake up in the cells. Go to sleep.
 
 Relationship Point Choices:  
-            - How did you? (Neutral)  
-            - You know, the usual. (Saki +1)
+- How did you? (Neutral)  
+- You know, the usual. (Saki +1)
 
 Exit the only way you can, then make your way outside and to the east to
 the quarry. Head down into the mines and talk to Saki.
@@ -4601,8 +4440,8 @@ the bottom area will open. Beat the trainer, then head to the sigil at
 the top of the mine.
 
 Relationship Point Choices:  
-            - Where's Aelita? (Neutral)  
-            - Are we done here? (Aelita -1)
+- Where's Aelita? (Neutral)  
+- Are we done here? (Aelita -1)
 
 Exit Neved’s office and head back down the stairs and head all the way
 up into the colorful door. Talk to the crew, then exit the room. If you
@@ -4727,9 +4566,10 @@ items within.
 Break all the rocks, talk to Adam, and use the *Blast Powder* he gives
 you. Head left and talk to him again.
 
-Relationship Point Choices:*  
-*            - Calm down. (Adam +1)  
-            - You're useless! (Adam -2)
+Relationship Point Choices:
+
+- Calm down. (Adam +1)  
+- You're useless! (Adam -2)
 
 Beat the trainer. After all that, head into the battle room.
 
@@ -4789,8 +4629,8 @@ bookshelf. Then head to the garden area to the left of the courtyard. Go
 up at the tree at the top, to reach a secret area.
 
 Relationship Point Choices:  
-            - It was barely a riddle. (Neutral)  
-            - I was stumped. (Saki +1)
+- It was barely a riddle. (Neutral)  
+- I was stumped. (Saki +1)
 
 Enter the hut to talk to the crew.
 
@@ -5033,9 +4873,9 @@ There’s an Audino breeder in here, and each time you win you’ll be given
 Exit the room and head down then to the right.
 
 Relationship Point Choices: *         
-*            - It's okay. (Melia +2)  
-            - I don't know... (Melia -1)  
-            - ... (Melia -1)
+*- It's okay. (Melia +2)  
+- I don't know... (Melia -1)  
+- ... (Melia -1)
 
 Your *Snag Machine* will finally be fixed! Reenter the interior and head
 down the stairs to the right to grab the *Dull Key!* We’ll be using this
@@ -5156,9 +4996,10 @@ Terajuma Island
 
 Hidden on this beach is a *Grass Gem.* Talk to Nim at the bottom.
 
-Relationship Point Choices:*  
-*            - Are you okay? (Nim +2)  
-            - We're ready to go. (Neutral)
+Relationship Point Choices:
+
+- Are you okay? (Nim +2)  
+- We're ready to go. (Neutral)
 
 Go to the east. Pick the two *Passho Berries*. Use the itemfinder on
 this side to find *Soda Pop* and *Fresh Water.*
@@ -5195,10 +5036,11 @@ When you’re ready, head into Terajuma Jungle to the north.
 
 ## Terajuma Jungle - TJung1
 
-Relationship Point Choices:*  
-*            - I'd accept too... (Braixen +2)  
-            - Wanna do a test run? (Adam +2)  
-            - Can you two stop? (Neutral)
+Relationship Point Choices:
+
+- I'd accept too... (Braixen +2)  
+- Wanna do a test run? (Adam +2)  
+- Can you two stop? (Neutral)
 
 You’ll be free to explore Terajuma Jungle after a few cutscenes.
 
@@ -5321,9 +5163,9 @@ oriented team, though she can turn it back with Lanturn and Dewgong’s
 Whirlpool.
 
 Relationship Point Choices:  
-            - You're strong... (Neutral)  
-            - It was pretty even. (Neutral)  
-            - Ez. (Valarie -2)
+- You're strong... (Neutral)  
+- It was pretty even. (Neutral)  
+- Ez. (Valarie -2)
 
 # Chapter 6: Nimpossible Predicament
 
@@ -5553,9 +5395,10 @@ you she wants someone to watch her Growlithe. Like Espurr, we’re gonna
 need to get some affection with it. The fastest way to do it is to talk
 to Aelita below:
 
-Relationship Point Choices:*  
-*            - Join me! (Aelita +1)  
-            - Nope. (Neutral)
+Relationship Point Choices:
+
+- Join me! (Aelita +1)  
+- Nope. (Neutral)
 
 Then, play ball with her and Growlithe… 31 times. Once you’ve done this,
 tell it to follow you, then try to leave the forest to the north and
@@ -6025,22 +5868,23 @@ they’re tough to take out, but in a pinch, you can find a strategy. Head
 to the west first, then the east.
 
 Relationship Point Choices:  
-            - I'm alright. (Melia +2)  
-            - Could be worse. (Melia +1)  
-            - Terrible. (Neutral)
+- I'm alright. (Melia +2)  
+- Could be worse. (Melia +1)  
+- Terrible. (Neutral)
 
 Relationship Point Choices:
 
-            - So.. We're on our own? (Melia +1)  
-            - Well, that sucks... (Neutral)  
-            - Can we ask again? (Melia +2)
+- So.. We're on our own? (Melia +1)  
+- Well, that sucks... (Neutral)  
+- Can we ask again? (Melia +2)
 
 Enter the room to the left.
 
-Relationship Point Choices:*  
-*            - Get me out. (Melia +1)  
-            - I have a Relic to get. (Neutral)  
-            - A + A = B - B + 3. (Venam +2)
+Relationship Point Choices:
+
+- Get me out. (Melia +1)  
+- I have a Relic to get. (Neutral)  
+- A + A = B - B + 3. (Venam +2)
 
 Now is a good time to do the help quests.
 
@@ -6388,10 +6232,11 @@ Secret Shore
 
 Head into the wetlands.
 
-Relationship Point Choices:*  
-*            - It smells here... (Melia +1)  
-            - Let's have a picnic! (Aelita +1)  
-            - Crawli needs our help. (Neutral)
+Relationship Point Choices:
+
+- It smells here... (Melia +1)  
+- Let's have a picnic! (Aelita +1)  
+- Crawli needs our help. (Neutral)
 
 Sheridan Wetlands (Swamp Field)
 
@@ -7293,10 +7138,11 @@ Once you’ve triumphed, claim the Infested Badge for Pokemon up to level
 
 Head outside and talk to Melia and Valarie.
 
-Relationship Point Choices:*  
-*            - I sure did. (Melia +2)  
-            - It was a tough battle... (Neutral)  
-            - I lost. (Melia +4)
+Relationship Point Choices:
+
+- I sure did. (Melia +2)  
+- It was a tough battle... (Neutral)  
+- I lost. (Melia +4)
 
 That’s it for this part!
 
@@ -7349,9 +7195,9 @@ to Valarie to the left. Having this conversation at all grants (Valarie
 
 Relationship Point Choices:
 
-            - I love water! (Valarie +1)  
-            - Water kind of scares me... (Valarie -3)  
-            - Pretty indifferent. (Neutral)
+- I love water! (Valarie +1)  
+- Water kind of scares me... (Valarie -3)  
+- Pretty indifferent. (Neutral)
 
 Surf down at where the fisherman is. Surf west and enter this cave.
 After the scene, enter this door.
@@ -7684,9 +7530,9 @@ an *Herbal Tea!* If you want something sour, you’ll get a *Razz Berry
 Tart!*
 
 Relationship Point Choices:  
-            - Thank you... (Tesla +2)  
-            - I don't know what to say... (Neutral)  
-            - ... (Tesla -3)
+- Thank you... (Tesla +2)  
+- I don't know what to say... (Neutral)  
+- ... (Tesla -3)
 
 Tesla will give you her *Yacht Keys.*
 
@@ -7694,8 +7540,8 @@ Tesla will give you her *Yacht Keys.*
 taken into the hallway. Follow her into her room and talk to her.
 
 Relationship Point Choices:  
-            - Are you okay? (Neutral)  
-            - Stop being a child. (Amber -3)
+- Are you okay? (Neutral)  
+- Stop being a child. (Amber -3)
 
 Relationship Point Choices:
 
@@ -7875,8 +7721,8 @@ Cross the ice and enter the Church of Theolia.
 
 Relationship Point Choices:
 
-            - Yes. (Melia +1)  
-            - No. (Venam +1)
+- Yes. (Melia +1)  
+- No. (Venam +1)
 
 ## Tower of Theolia - Theolia1
 
@@ -8261,8 +8107,8 @@ $10,000. There is a *Cherish Ball* in the trash to the right.
 Head upstairs and read about Regice.
 
 Relationship Point Choices:  
-            - Yes. (Aelita +2)  
-            - Uh... (Aelita -1)
+- Yes. (Aelita +2)  
+- Uh... (Aelita -1)
 
 Student Aelita (No Field)
 
@@ -9034,8 +8880,8 @@ We’ll end up back in Sheridan. Head into the village proper and talk to
 Aelita to progress.
 
 Relationship Point Choices:  
-            - But why? (Aelita +1)  
-            - A good decision. (Aelita -2)
+- But why? (Aelita +1)  
+- A good decision. (Aelita -2)
 
 Accept the fast travel, step on the pad, and enter the left room. Exit
 the room and surf across to the right and go all the way down the vines
@@ -9207,9 +9053,9 @@ way.
 After winning, Madelis will give you the *HQ Railnet Key*.
 
 Relationship Point Choices:  
-            - Don't wait till it's too late. (Venam +2)  
-            - Be kind to her. (venam +1)  
-            - ... (Venam -2)
+- Don't wait till it's too late. (Venam +2)  
+- Be kind to her. (venam +1)  
+- ... (Venam -2)
 
 ### Scaling Mt. Valor (Both Routes Converge)
 
@@ -9636,8 +9482,8 @@ all their Pokemon are at 1HP and you are supposed to easily win.
 Make your way to the bridge in Terajuma Jungle and approach Melia.
 
 Relationship Point Choices:  
-            - Yes. (Melia +2)  
-            - No. (Neutral)
+- Yes. (Melia +2)  
+- No. (Neutral)
 
 Talk to Crescent.
 
@@ -9879,8 +9725,8 @@ Talk to Amber outside the gym once you leave, then meet her in her room.
 Talk to her and say “they all died” for relationship points.
 
 Relationship Point Choices:  
-            - Probably. (Amber -1)  
-            - They all died. (Amber +3)
+- Probably. (Amber -1)  
+- They all died. (Amber +3)
 
 Then head up into the Poke Ball storage room. Accept Venam’s fast travel
 request. Talk to her and Augustus, answering her question. If you answer
@@ -9889,9 +9735,9 @@ in a bit. Accept the fast travel again, then enter Valor Mountain 5F.
 
 Relationship Point Choices (Answered “A Forest” only):
 
-            - Intuition. (Venam +2)  
-            - Read about it. (Venam +1)  
-            - Been here before. (Neutral)
+- Intuition. (Venam +2)  
+- Read about it. (Venam +1)  
+- Been here before. (Neutral)
 
 Forest of Time
 
@@ -9927,8 +9773,8 @@ Surf to the right, then rock climb down to get *TM40 Aerial Ace!*
 Talk to Venam and Melia.
 
 Relationship Point Choices:  
-            - It's okay! (Venam +3, Melia +3)  
-            - Sorta awkward. (Neutral)
+- It's okay! (Venam +3, Melia +3)  
+- Sorta awkward. (Neutral)
 
 So begins Rejuvenations next major twist… time travel!
 
@@ -10188,10 +10034,10 @@ Talk to Venam to board the boat. While onboard, say “About a 10” for
 relationship points.
 
 Relationship Point Choices:  
-            - About a 5. (Neutral)  
-            - About a 3. (Neutral)  
-            - About a 7. (Venam +1)  
-            - About a 10. (Venam +2, Melia +1)
+- About a 5. (Neutral)  
+- About a 3. (Neutral)  
+- About a 7. (Venam +1)  
+- About a 10. (Venam +2, Melia +1)
 
 After a lot of talking, head down and follow the path. After more
 talking, head out to the left then try to enter the gate at the bottom.
@@ -10202,8 +10048,8 @@ water level down from here, then head up and grab the *PP Up.* Enter the
 door.
 
 Relationship Point Choices:  
-            - Bye. (Erick -2)  
-            - We're here to help! (Erick +2)  
+- Bye. (Erick -2)  
+- We're here to help! (Erick +2)  
 
 Grab *TM129 Fake Tears.*
 
@@ -10229,9 +10075,9 @@ After heading up, show Erick the Weird Diary if you want to save
 Garbodor.
 
 Relationship Point Choices:  
-            - Let's save Garbodor! (Venam +4, Melia +4)  
-            - Ugh... Why me? (Melia -4, Venam -4, Erick -4)  
-            - How about tomorrow? (Erick +1)
+- Let's save Garbodor! (Venam +4, Melia +4)  
+- Ugh... Why me? (Melia -4, Venam -4, Erick -4)  
+- How about tomorrow? (Erick +1)
 
 Dimensional Rift Garbodor (Corrupted Cave Field)
 
@@ -10255,8 +10101,8 @@ the field to Volcanic by using Heat Wave, Eruption, or Lava Plume, or,
 to Mountain field via Sky Uppercut.
 
 Relationship Point Choices:  
-            - You're on! (Erick +2)  
-            - Gotta go... (Erick -2)
+- You're on! (Erick +2)  
+- Gotta go... (Erick -2)
 
 Once we regain control, head back down into the sewers, where we can now
 get:
@@ -10808,24 +10654,24 @@ in the train station in southwest West Gearen.
     Relationship Points). You’ll be given a *Soda Pop.*
 
 Relationship Point Choices:  
-            - Thank you! (Venam +1)  
-            - I don't like soda. (Neutral)  
-            - I didn't ask for this. (Venam -1, Melia -1)
+- Thank you! (Venam +1)  
+- I don't like soda. (Neutral)  
+- I didn't ask for this. (Venam -1, Melia -1)
 
 -   If you have 7 or less Points with Venam, say “what about me and
     Kanon?” for relationship points with him.
 
 > Relationship Point Choices:  
->             - What about me? (Neutral)  
->             - What about Kanon and I? (Kanon +2)  
->             - You're gross. (Melia -2, Venam -3)
+> - What about me? (Neutral)  
+> - What about Kanon and I? (Kanon +2)  
+> - You're gross. (Melia -2, Venam -3)
 
 -   If you have 7 or less Points with Venam and chose “You’re gross” in
     the last prompt:
 
 Relationship Point Choices:  
-            - Sounds good. (Venam +2)  
-            - No thanks. (Venam -2)
+- Sounds good. (Venam +2)  
+- No thanks. (Venam -2)
 
 In the hallway to your car’s right, a girl will tutor you:
 
@@ -11742,8 +11588,8 @@ Exit, and head all the way to the Magnolia Theatre in the east side of
 the Shopping District
 
 Relationship Point Choices:  
-            - It's fine. (Lavender +1, Huey +1)  
-            - You guys dating? (Lavender +2, Huey +2)
+- It's fine. (Lavender +1, Huey +1)  
+- You guys dating? (Lavender +2, Huey +2)
 
 After a lot of bizarre scenes, head back to Mika’s Cafe.
 
@@ -11995,10 +11841,11 @@ this one! I managed to win by using my Speed Boost Blaziken with Brave
 Bird wisely. I’m sure you can outsmart the AI with the same advantages
 as you.
 
-Relationship Point Choices:*  
-*            - Of course not. (Aelita -1)  
-            - Well... (Aelita -3)  
-            - I'm not a judge, so... (Aelita +2)
+Relationship Point Choices:
+
+- Of course not. (Aelita -1)  
+- Well... (Aelita -3)  
+- I'm not a judge, so... (Aelita +2)
 
 Grab the *Vanilla Ice Cream* on the left. Talk to the kid here if you
 did the ice cream quest to get a *Rare Candy* if you got them new ice
@@ -12223,8 +12070,8 @@ Badge!* Nice.
 Head outside to talk to Aelita.
 
 Relationship Point Choices:  
-            - I'll go with you. (Aelita +2)  
-            - I know Erin. (Neutral)  
+- I'll go with you. (Aelita +2)  
+- I know Erin. (Neutral)  
             - Maybe... (Aelita -2)
 
 Then head over to the Grand Dream Station. Talk to her here, and enter
@@ -12317,9 +12164,9 @@ Enter the theater.
 ## Rose Theater First Visit - RoseTh1
 
 Relationship Point Choices:  
-            - Don't be so harsh... (Aelita -2)  
-            - Stop being ignorant! (Aelita -4)  
-            - You did what you had to do. (Aelita -1)
+- Don't be so harsh... (Aelita -2)  
+- Stop being ignorant! (Aelita -4)  
+- You did what you had to do. (Aelita -1)
 
 Once you regain control, head through either of the two hallways and
 enter the stage. Talk to Ayuna and agree to help her find her Kimono
@@ -12395,8 +12242,8 @@ Cafe. Head down into the Residential District.
 
 Relationship Point Choices:
 
-            - Uh... Yeah. (Damien +1)  
-            - No clue. (Neutral)
+- Uh... Yeah. (Damien +1)  
+- No clue. (Neutral)
 
 Next, you’ll find her at Nightmare City (Left side of second map). Save
 her from **Sableye.** Then, meet at the Dream District Northwest area
@@ -12627,8 +12474,8 @@ Axis High University Left Shop
 Once you’re done exploring the area, talk to Erin at the top.
 
 Relationship Point Choices:  
-            - You're on! (Aelita +1, Adam +2)  
-            - Uh... No thanks. (Aelita -1, Adam -2)    
+- You're on! (Aelita +1, Adam +2)  
+- Uh... No thanks. (Aelita -1, Adam -2)    
 
 Pop Star Risa Raider (No Field)
 
@@ -12664,8 +12511,8 @@ Fast travel to the Rose Theater! Enter the Theater and enter the right
 room upstairs.
 
 Relationship Point Choices:  
-            - You'll be okay. (Melia +2, Kanon +2)  
-            - This is stupid. (Kanon -2, Erin +2)
+- You'll be okay. (Melia +2, Kanon +2)  
+- This is stupid. (Kanon -2, Erin +2)
 
 Activate the crystal - we’re going back in.
 
@@ -12674,9 +12521,10 @@ Activate the crystal - we’re going back in.
 Exit the cave you appear in onto Route 4, which has no encounters.
 Follow the path down and to the right.
 
-Relationship Point Choices:*  
-*            - Yes (Vivian +1)  
-            - Uh... (Vivian -1)
+Relationship Point Choices:
+
+- Yes (Vivian +1)  
+- Uh... (Vivian -1)
 
 Next you have to fight a Level 1 Deoxys. Obviously it is easy, but for
 relationship points losing grants (Aelita -1, Vivian -1) and running
@@ -12704,9 +12552,10 @@ Sheridan Village (Past)
 
 Head north to the scene that plays out.
 
-Relationship Point Choices:*  
-*            - You okay? (Melia +2, Erin +1)  
-            - Ready for tea?! (Erin +2, Melia +1)   
+Relationship Point Choices:
+
+- You okay? (Melia +2, Erin +1)  
+- Ready for tea?! (Erin +2, Melia +1)   
 
 At the top of the village, use your Itemfinder to get a *Meadow Plate*
 and *Yellow Shard.* Enter Vivian’s house, and prepare for a battle. You
@@ -12780,23 +12629,23 @@ Zangoose.
 Exit, and go to Cella’s house in the upper right.
 
 Relationship Point Choices:  
-            - I'm in! (Neutral)  
-            - Can i think about it? (Neutral)  
-            - Gotta go... (Melia -2, Aelita -2, Erin -2)
+- I'm in! (Neutral)  
+- Can i think about it? (Neutral)  
+- Gotta go... (Melia -2, Aelita -2, Erin -2)
 
 After the scene, go to bed in the guest house. Then, enter Vivian’s
 house to the left. Follow her up, then attempt to leave.
 
 Relationship Point Choices:
 
-            - My friends (Aelita +2)  
-            - My family (Aelita +1)  
-            - Myself (Aelita -1)  
-            - I'm not sure (Neutral)  
+- My friends (Aelita +2)  
+- My family (Aelita +1)  
+- Myself (Aelita -1)  
+- I'm not sure (Neutral)  
 
 Relationship Point Choices:  
-            - Yes (Aelita +1)  
-            - No (Aelita -1)
+- Yes (Aelita +1)  
+- No (Aelita -1)
 
 Once you get control again, enter the Heracross Woods.
 
@@ -12895,9 +12744,9 @@ gotten this far though this battle won’t be too much trouble.
 
 Relationship Point Choices:
 
-            - You okay? (Melia +2)  
-            - What's up? (Neutral)  
-            - Can we leave now? (Melia -1)
+- You okay? (Melia +2)  
+- What's up? (Neutral)  
+- Can we leave now? (Melia -1)
 
 ## Aevium (Alt. Future) - FutureA1
 
@@ -13009,8 +12858,8 @@ Head down to the bottom to talk to them all again. Once you wake up,
 exit the boat via the deck. Follow the path and watch the scenes.
 
 Relationship Point Choices:  
-            - We must press on (Melia +2, Keta +2)  
-            - It's hopeless... (Melia -2, Keta -2)
+- We must press on (Melia +2, Keta +2)  
+- It's hopeless... (Melia -2, Keta -2)
 
 In the room to the right, there are encounters!
 
@@ -13183,8 +13032,8 @@ work.
 
 Relationship Point Choices:
 
-            - About what?  
-            - Sigh (Melia -3)
+- About what?  
+- Sigh (Melia -3)
 
 -   If you choose Hand it Over, well… you’re gonna get a game over. A
     game over that in fact will write to your save that you made that
@@ -13324,9 +13173,9 @@ After returning to the past, head into Sheridan Village and go up.
 Hidden here is a *BalmMushroom.* Enter the sacrificial chamber.
 
 Relationship Point Choices:  
-            - I remember! (Melia +2)  
-            - What are you talking about? (Melia +1)  
-            - We have to save Vivian! (Melia -1)
+- I remember! (Melia +2)  
+- What are you talking about? (Melia +1)  
+- We have to save Vivian! (Melia -1)
 
 Guardian Regirock (Blessed Field)
 
@@ -13346,12 +13195,13 @@ easily.
 
 Relationship Point Choices
 
-            - We make a good team! (Melia +2)  
-            - I did all the work. (Melia -2)
+- We make a good team! (Melia +2)  
+- I did all the work. (Melia -2)
 
-Relationship Point Choices:*  
-*            - Catch it! (Melia +1)  
-            - Leave it in the wild. (Neutral)  
+Relationship Point Choices:
+
+- Catch it! (Melia +1)  
+- Leave it in the wild. (Neutral)  
 
 Talk to Spacea and Tiempa. At this point if you have over 45 points with
 Melia you will get (Melia +4) Relationship Points. Take the crystal
@@ -14870,9 +14720,9 @@ style="width:6.6875in;height:5in" />
 -   Make your choice with Damien.
 
 > Relationship Point Choices:*  
-> *            - Convince Damien. (Damien +2). This option also grants
+> *- Convince Damien. (Damien +2). This option also grants
 > (+1 Karma).  
->             - Evict them. (Damien +1). This option also grants (-1
+> - Evict them. (Damien +1). This option also grants (-1
 > Karma).
 
 -   Grab the *Rock Memory* on the way out.
@@ -15259,8 +15109,8 @@ Win to get the Rugged Badge, which lets us use Dive and go up to Level
 
 Relationship Point Choices
 
-            - Reassure Amber. (Amber +2)  
-            - Leave her be. (No change.)
+- Reassure Amber. (Amber +2)  
+- Leave her be. (No change.)
 
 After the cutscenes play out, head back outside. Talk to the crew in the
 lobby, then outside.
@@ -16173,15 +16023,15 @@ Talk to the group in the meeting room of Nastasia’s ship.
 
 Relationship Point Choices:
 
-            - Fine... (Ren +1, Aelita +1)  
-            - There's no way. (Ren -1)      
+- Fine... (Ren +1, Aelita +1)  
+- There's no way. (Ren -1)      
 
 Head to the right.
 
 Relationship Point Choices:
 
-            - We're a team! (Aelita +1)  
-            - You have to do it alone. (Aelita -1)
+- We're a team! (Aelita +1)  
+- You have to do it alone. (Aelita -1)
 
 After another conversation, you can talk to Sharon for a battle against
 the duo. It’s optional, but winning will get you relationship points
@@ -16644,8 +16494,8 @@ Head up and to the left for one more cutscene.
 
 Relationship Point Choices:
 
-            - Sure! (Ren +1, Aelita +1)  
-            - Define "okay". (Ren +2, Aelita +2)
+- Sure! (Ren +1, Aelita +1)  
+- Define "okay". (Ren +2, Aelita +2)
 
 Head up.
 
@@ -17621,9 +17471,10 @@ against the team. Get the *Cofagrigus Crest*!
 Afterwards, head to the top of this map and enter the door on top with
 the incantation. Head up and agree to help Karen.
 
-Relationship Point Choices:*  
-*            - Yeah, sure why not? (Karen +1)  
-            - Maybe tomorrow. (Karen -1)  
+Relationship Point Choices:
+
+- Yeah, sure why not? (Karen +1)  
+- Maybe tomorrow. (Karen -1)  
 
 Note that leaving before the quest is over grants (Karen -1)
 relationship points.
@@ -18366,8 +18217,8 @@ you can now.
 
 Relationship Point Choices:
 
-            - I've been great! (Venam +3)  
-            - It's been going. (Neutral)
+- I've been great! (Venam +3)  
+- It's been going. (Neutral)
 
 After the rest of the cutscenes play out… we did it! There are a couple
 quests we can take care of right now before progressing the story
@@ -18381,13 +18232,15 @@ IV.
 
 Head over to the Botanical Gardens if Florin is still alive.
 
-Relationship Point Choices:*  
-*            - That's great, Florin! (Florin +2)  
-            - You? Mayor? (Florin -2) 
+Relationship Point Choices:
 
-Relationship Point Choices:*  
-*            - I'd love to! (Florin +2)  
-            - Sorry, I'm busy... (Florin -2)
+- That's great, Florin! (Florin +2)  
+- You? Mayor? (Florin -2) 
+
+Relationship Point Choices:
+
+- I'd love to! (Florin +2)  
+- Sorry, I'm busy... (Florin -2)
 
 ## Narcissa’s Quest (Final) - NarcQF1
 
@@ -18706,11 +18559,12 @@ You can defeat this thing easily. Notice what weather gets activated by
 its ability each turn and try to use moves boosted by it if you want,
 but with Damien on your side it’s very winnable.
 
-Relationship Point Choices:*  
-*            - Count me in! (Melia +3, Aelita +3, Ren +3, Venam +2,
+Relationship Point Choices:
+
+- Count me in! (Melia +3, Aelita +3, Ren +3, Venam +2,
 Alexandra +6)  
-            - I'm scared... (Ren +2, Aelita +2, Erin +2, Damien +2)  
-            - What are we talking about? (Erin -3, Melia -3, Ren -3,
+- I'm scared... (Ren +2, Aelita +2, Erin +2, Damien +2)  
+- What are we talking about? (Erin -3, Melia -3, Ren -3,
 Aelita -5, Damien -6, Alexandra -6, Allen +3)
 
 Me too, Allen.
@@ -18719,9 +18573,9 @@ Enter Alexandra’s secret passageway and enter at the top.
 
 Relationship Point Choices:
 
-            - You mean Marianette? (Venam +2)  
-            - My third badge? (Neutral)  
-            - What? (Neutral)
+- You mean Marianette? (Venam +2)  
+- My third badge? (Neutral)  
+- What? (Neutral)
 
 Afterwards, prepare yourself for a battle with Melia!
 
@@ -18814,9 +18668,10 @@ To win, you’ll receive the *Fate Badge!*
 
 Outside, talk to Melia again.
 
-Relationship Point Choices:*  
-*            - Jenner was your father. (Melia +3)  
-            - That's kinda cool! (Melia -3)
+Relationship Point Choices:
+
+- Jenner was your father. (Melia +3)  
+- That's kinda cool! (Melia -3)
 
 Tell Alexandra you’re ready for training.
 
@@ -18830,15 +18685,16 @@ Talk to Ren in the hallway.
 
 Relationship Point Choices:
 
-            - Talk to her next time (Ren +2)  
-            - You need some work... (Neutral)
+- Talk to her next time (Ren +2)  
+- You need some work... (Neutral)
 
 Then, enter the battle room.
 
-Relationship Point Choices:*  
-*            - I'm pumped. (Erin +2, Damien +2)  
-            - I'm excited, I guess... (Erin +1)  
-            - Eh... (Erin -1, Damien -2)
+Relationship Point Choices:
+
+- I'm pumped. (Erin +2, Damien +2)  
+- I'm excited, I guess... (Erin +1)  
+- Eh... (Erin -1, Damien -2)
 
 Enter the rental battle with Venam. The strategy that worked for me was:
 Switch Manectric for Walrein, Waterfall on Houndoom turn 1. Then turn 2
@@ -18850,16 +18706,17 @@ horsepower to finish off Kingler.
 
 Head in to talk to Aelita.
 
-Relationship Point Choices:*  
-*            - ...The statues? (Aelita +2)  
-            - The Soul Stone (Aelita +1)  
-            - I have no idea... (Aelita -1)
+Relationship Point Choices:
+
+- ...The statues? (Aelita +2)  
+- The Soul Stone (Aelita +1)  
+- I have no idea... (Aelita -1)
 
 Relationship Point Choices:
 
-            - I don't remember... (Neutral)  
-            - It couldn't have been me... (Neutral)  
-            - ... (Damien -2)
+- I don't remember... (Neutral)  
+- It couldn't have been me... (Neutral)  
+- ... (Damien -2)
 
 Interact with the obelisk! Inside it’s straightforward. You’ll get the
 *Interceptor’s Wish!*
@@ -18873,9 +18730,10 @@ as Melia. Win or lose, it doesn’t matter.
 
 Talk to Aelita in the hallway.
 
-Relationship Point Choices:*  
-*            - You'll be the Sensei too! (Aelita +3)  
-            - What about GDC? (Aelita -1)
+Relationship Point Choices:
+
+- You'll be the Sensei too! (Aelita +3)  
+- What about GDC? (Aelita -1)
 
 Next is a fight with Ren, one that will pit you against Ren on a
 disadvantageous field with a disadvantageous team. I chose the Fire team
@@ -18890,12 +18748,13 @@ Sleep for the night in the leftmost room.
 Finally, we get to obtain the *Mega-Z Ring!* This allows us to use
 Z-Moves as well as Mega Evolve our Pokemon!
 
-Relationship Point Choices:*  
-*            - Thank you, everyone! (Melia +2, Ren +2, Aelita +3, Damien
+Relationship Point Choices:
+
+- Thank you, everyone! (Melia +2, Ren +2, Aelita +3, Damien
 +1, Alexandra +3, Erin +1)  
-            - I can't believe it... (Melia +1, Aelita +2, Ren +1, Erin
+- I can't believe it... (Melia +1, Aelita +2, Ren +1, Erin
 +1)  
-            - Cool... I guess. (Aelita -1, Melia -1, Alexandra -2, Erin
+- Cool... I guess. (Aelita -1, Melia -1, Alexandra -2, Erin
 -1, Venam -1, Ren -1, Allen +5, Alice +5)
 
 Again, Allen is a real one.
@@ -19317,9 +19176,9 @@ With both of those completed, you’ll be in control of your character
 again. Choose path 3 and be given the *Rotom Phone.*
 
 Relationship Point Choices:  
-            - I had an idea... (Aelita +2)  
-            - Nope! (Aelita +1)  
-            - School sucks. (Aelita -1)
+- I had an idea... (Aelita +2)  
+- Nope! (Aelita +1)  
+- School sucks. (Aelita -1)
 
 Head up and into the school.
 
@@ -19349,10 +19208,10 @@ style="width:6.40804in;height:4.76594in" />
 Then, head upstairs in the middle, and talk to Huey.
 
 Relationship Point Choices:  
-            - That's right! (Lavender +2, Huey +2)  
-            - Uh.... (Lavender -2)  
-            - Not really, no. (Huey -3, Lavender -4)  
-            - Where's Reina? (Neutral)
+- That's right! (Lavender +2, Huey +2)  
+- Uh.... (Lavender -2)  
+- Not really, no. (Huey -3, Lavender -4)  
+- Where's Reina? (Neutral)
 
 In a room at the bottom is the… bobsled club? If you can defeat all the
 students, you’ll be gifted the MegaStone *Cameruptite!*
@@ -19398,7 +19257,7 @@ As before this is very winnable, surely you can figure out a way.
 Relationship Point Choices:
 
             - I trust you! (Amber +6, Aelita +3)  
-            - Uh... (Amber -2, Aelita -1)
+- Uh... (Amber -2, Aelita -1)
 
 Interact with the fountain next, then head to the dorms downstairs to
 sleep. The next day, head to the auditorium for the announcement!
@@ -19634,18 +19493,20 @@ following:
 
 3.  Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
 
-Relationship Point Choices:*  
-*            - Give her space. (Saki +2)  
-            - She has amnesia. (Saki +1, Amber +1)  
-            - ... (Saki -2)
+Relationship Point Choices:
+
+- Give her space. (Saki +2)  
+- She has amnesia. (Saki +1, Amber +1)  
+- ... (Saki -2)
 
 4.  Studious, Engineering, Engineering Proficiency, 3 Years’ Experience
 
 Talk to the door at the top.
 
-Relationship Point Choices:*  
-*            - Of course (Amber +2, Saki +2)  
-            - Um... I'm scared! (Saki -2, Amber -2)
+Relationship Point Choices:
+
+- Of course (Amber +2, Saki +2)  
+- Um... I'm scared! (Saki -2, Amber -2)
 
 Team Xen Zetta (Factory Field)
 
@@ -19715,10 +19576,11 @@ ability and item. The Typhlosion, Dragonite, Weavile, Minior we’ve all
 seen before and know how to deal with by now. Watch out for Hitmonlee
 who will get an Unburden boost after using Fake Out.
 
-Relationship Point Choices:*  
-*            - You got this Amber! (Amber +3)  
-            - Good luck. (Amber +2)  
-            - ... (Amber -2)
+Relationship Point Choices:
+
+- You got this Amber! (Amber +3)  
+- Good luck. (Amber +2)  
+- ... (Amber -2)
 
 Inside, complete the first few tasks just as we did as Aelita. Now enter
 the right-side door. Beat the scientists in here then pick up the key
@@ -19762,8 +19624,8 @@ A bit harder since you only have three this time, but nonetheless very
 doable.
 
 *Relationship Point Choices:*  
-            - I'm happy for you! (Amber +2)  
-            - ... (Amber -1)
+- I'm happy for you! (Amber +2)  
+- ... (Amber -1)
 
 Make your way all the way back to the auditorium as soon as you are
 prompted to.
@@ -19810,29 +19672,31 @@ After you finish, talk to the main table thing, then go around the room
 bashing suspicious walls. That is, any that don’t fit it with what’s
 around them. Then return to the table.
 
-Relationship Point Choices:*  
-*            - Are you doing okay? (Amber +2)  
-            - What happened? (Neutral)  
-            - You done? (Saki -2, Amber -2)
+Relationship Point Choices:
+
+- Are you doing okay? (Amber +2)  
+- What happened? (Neutral)  
+- You done? (Saki -2, Amber -2)
 
 Then head upstairs and enter your building on the left. Answer however
 you like.
 
 Relationship Point Choices:
 
-            - What? (Neutral)  
-            - Yes. (Saki -2)
+- What? (Neutral)  
+- Yes. (Saki -2)
 
 Return to the underground to the broken machine in the upper left room.
 It’s time for a great sequence. Destroy all the robots you can find,
 eventually making your way to the third floor. Bust your way through the
 panels.
 
-Relationship Point Choices:*  
-*            - My body screams for more. (Saki +5, Amber +3)  
-            - It was awesome! (Saki +3, Amber +2)  
-            - It was... interesting. (Amber +1)  
-            - Eh. (Amber -2, Saki -3)
+Relationship Point Choices:
+
+- My body screams for more. (Saki +5, Amber +3)  
+- It was awesome! (Saki +3, Amber +2)  
+- It was... interesting. (Amber +1)  
+- Eh. (Amber -2, Saki -3)
 
 Take the teleporter then go up.
 
@@ -19854,8 +19718,8 @@ Head back to the teleporter and talk to the Saki door.
 
 Relationship Point Choices:
 
-            - Kick ass, Saki! (Saki +3)  
-            - Uh... Good luck? (Saki +/-2)
+- Kick ass, Saki! (Saki +3)  
+- Uh... Good luck? (Saki +/-2)
 
 Put the mannequins into pods… yikes.
 
@@ -19864,9 +19728,9 @@ box thing. Then input 7496 into the monitor. Talk to Amber then push the
 red switch at the bottom then go down the newly opened stairs.
 
 Relationship Point Choices:  
-            - It did. (Neutral)  
-            - I don't know. (Neutral)  
-            - I'm hungry. (Saki +2)
+- It did. (Neutral)  
+- I don't know. (Neutral)  
+- I'm hungry. (Saki +2)
 
 Then when you return head out and go down the lift.
 
@@ -20314,10 +20178,11 @@ Pokemon Trainer Aero (Snowy Mountain Field)
 They’re not insanely difficult, and you will succeed with the right
 strategy if you’ve made it here!
 
-Relationship Point Choices:*  
-*            - Don't let her get to you. (Aelita +4)  
-            - It's alright. (Aelita +2)  
-            - Watch what you say. (Aelita -2)
+Relationship Point Choices:
+
+- Don't let her get to you. (Aelita +4)  
+- It's alright. (Aelita +2)  
+- Watch what you say. (Aelita -2)
 
 ## Axis High University 3rd Visit - AxisHiU3
 
@@ -20333,8 +20198,8 @@ choosing Erick 1 grants (-4 Erick). Choosing Aelita 2 grants (-4 Aelita)
 and will open you up to one more question:
 
 Relationship Point Choices (Aelita 2 Chosen):  
-            - Aelita, I'm sorry... (Aelita +1)  
-            - Could've been more clear! (Aelita -2)
+- Aelita, I'm sorry... (Aelita +1)  
+- Could've been more clear! (Aelita -2)
 
 …but it is a higher net to just choose Aelita 1 no matter what.
 
@@ -20411,10 +20276,11 @@ That said, winning this battle is technically optional. Losing takes
 away Relationship Points however (Aelita -1, Adam -1, Braixen -1, Erick
 -1).
 
-Relationship Point Choices:*  
-*            - I'm going too! (Aelita +3)  
-            - I hate this. (Erick +3)  
-            - Uh... on second thought... (Aelita -2)
+Relationship Point Choices:
+
+- I'm going too! (Aelita +3)  
+- I hate this. (Erick +3)  
+- Uh... on second thought... (Aelita -2)
 
 Head back up to Axis High.
 
@@ -20435,18 +20301,20 @@ Land of Broken Dreams
 
 Make your way to the left here as you fight puppet masters.
 
-Relationship Point Choices:*  
-*            - Whoey? (Lavender +1)  
-            - Sorry... (Neutral)
+Relationship Point Choices:
+
+- Whoey? (Lavender +1)  
+- Sorry... (Neutral)
 
 Then after the scenes at the top, head down and to the right. Pick up
 another *Nightmare Fuel* as you go.
 
-Relationship Point Choices:*  
-*            - Kinda Cool! (Amber +1)  
-            - Super Cool! (Amber +2)  
-            - Mega Cool! (Amber +3)  
-            - Eh... (Amber -1)
+Relationship Point Choices:
+
+- Kinda Cool! (Amber +1)  
+- Super Cool! (Amber +2)  
+- Mega Cool! (Amber +3)  
+- Eh... (Amber -1)
 
 Return to take the teleporter.
 
@@ -20530,11 +20398,11 @@ Chandelure from moving on the first turn if you can. The field effects
 are not ridiculously stacked against you this time though, so take
 advantage of Fairy Tale Field and you will find a way to win.
 
-Relationship Point Choices:    *  
-*            - I'm so sorry. (Saki +2, Aelita +2)  
-            - It's going to be okay. (Neutral)  
-            - She was lost. (Saki -1)  
-            - That wasn't Hazuki. (Saki -2)
+Relationship Point Choices:    
+- I'm so sorry. (Saki +2, Aelita +2)  
+- It's going to be okay. (Neutral)  
+- She was lost. (Saki -1)  
+- That wasn't Hazuki. (Saki -2)
 
 Head up and follow the path to obtain the ZCrystal *Intercept-Z!*
 
@@ -20647,10 +20515,11 @@ Saki’s parents then pick up the phone in the upper left corner.
 
 Back as the player, enter the first room.
 
-Relationship Point Choices:*  
-*            - Why me? (Erin -1)  
-            - I'm on it. (Erin +2)  
-            - Goddamnit... (Melia -2, Aelita -2, Erin -3)
+Relationship Point Choices:
+
+- Why me? (Erin -1)  
+- I'm on it. (Erin +2)  
+- Goddamnit... (Melia -2, Aelita -2, Erin -3)
 
 Accept the fast travel to Axis. Head through the path then go back to
 the left. You’ll find **Aevian Munna** roaming about!
@@ -20887,18 +20756,19 @@ Relationship Points (Saki +4, Amber +4, Venam +4).
 Right afterwards, if you have at least 3 points with Amber, you’ll get
 even more Relationship Points! (Amber +4, Venam +4)
 
-Relationship Point Choices:*  
-*            - You got it, bro (Adam +3)  
-            - Sure. (Adam +1)  
-            - Really? Ugh... (Adam -3, Venam -2)
+Relationship Point Choices:
+
+- You got it, bro (Adam +3)  
+- Sure. (Adam +1)  
+- Really? Ugh... (Adam -3, Venam -2)
 
 Next, return to Sashila, and enter the second room on the right to talk
 to Crescent.
 
 Relationship Point Choices:
 
-            - They're my friends. (Neutral)  
-            - None of your business. (Crescent -4)
+- They're my friends. (Neutral)  
+- None of your business. (Crescent -4)
 
 Then enter the leftmost room to talk to everyone else. We did it! Only
 side quests remain, for now.
