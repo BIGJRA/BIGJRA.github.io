@@ -26,7 +26,7 @@ cells, tutors, Pokémon Locations, and more!
     1: Shipwrecked</a>
     -   <a href="#prologue---prolog" id="toc-prologue---prolog">Prologue -
         Prolog</a>
-    -   <a href="#s.s.-oceana---oceana1" id="toc-s.s.-oceana---oceana1">S.S.
+    -   <a href="#ss-oceana---oceana1" id="toc-ss-oceana---oceana1">S.S.
         Oceana - Oceana1</a>
     -   <a href="#oceana-pier---opier1" id="toc-oceana-pier---opier1">Oceana
         Pier - OPier1</a>
@@ -84,8 +84,8 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#amethyst-grotto-and-sheridan-help-quests---agrot1"
         id="toc-amethyst-grotto-and-sheridan-help-quests---agrot1">Amethyst
         Grotto and Sheridan Help Quests - AGrot1</a>
-    -   <a href="#diamond-punch-badge---badge1.5"
-        id="toc-diamond-punch-badge---badge1.5">Diamond Punch Badge? -
+    -   <a href="#diamond-punch-badge---badge15"
+        id="toc-diamond-punch-badge---badge15">Diamond Punch Badge? -
         Badge1.5</a>
     -   <a href="#carotos-mountain---cmount1"
         id="toc-carotos-mountain---cmount1">Carotos Mountain - CMount1</a>
@@ -214,7 +214,7 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#amethyst-cave-2nd-visit---acave2"
         id="toc-amethyst-cave-2nd-visit---acave2">Amethyst Cave 2<sup>nd</sup>
         Visit - ACave2</a>
-    -   <a href="#lost-camp-pt.-2-lcamp2" id="toc-lost-camp-pt.-2-lcamp2">Lost
+    -   <a href="#lost-camp-pt-2-lcamp2" id="toc-lost-camp-pt-2-lcamp2">Lost
         Camp Pt. 2 - LCamp2</a>
     -   <a href="#carotos-mountain-2nd-visit---carotos2"
         id="toc-carotos-mountain-2nd-visit---carotos2">Carotos Mountain 2nd
@@ -232,8 +232,8 @@ cells, tutors, Pokémon Locations, and more!
         -   <a href="#saving-amber-gave-it-away-route"
             id="toc-saving-amber-gave-it-away-route">Saving Amber (Gave It Away
             Route)</a>
-        -   <a href="#scaling-mt.-valor-both-routes-converge"
-            id="toc-scaling-mt.-valor-both-routes-converge">Scaling Mt. Valor (Both
+        -   <a href="#scaling-mt-valor-both-routes-converge"
+            id="toc-scaling-mt-valor-both-routes-converge">Scaling Mt. Valor (Both
             Routes Converge)</a>
     -   <a href="#valor-summit-vsumm1" id="toc-valor-summit-vsumm1">Valor Summit
         \- VSumm1</a>
@@ -336,11 +336,11 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#aevium-past-2nd-visit---pasta2"
         id="toc-aevium-past-2nd-visit---pasta2">Aevium (Past) 2nd Visit -
         PastA2</a>
-    -   <a href="#aevium-alt.-future---futurea1"
-        id="toc-aevium-alt.-future---futurea1">Aevium (Alt. Future) -
+    -   <a href="#aevium-alt-future---futurea1"
+        id="toc-aevium-alt-future---futurea1">Aevium (Alt. Future) -
         FutureA1</a>
-    -   <a href="#aevium-past-2nd-visit-part-2---pasta2.5"
-        id="toc-aevium-past-2nd-visit-part-2---pasta2.5">Aevium (Past) 2nd Visit
+    -   <a href="#aevium-past-2nd-visit-part-2---pasta25"
+        id="toc-aevium-past-2nd-visit-part-2---pasta25">Aevium (Past) 2nd Visit
         Part 2 - PastA2.5</a>
     -   <a href="#ana-quest-part-1-anaquest1"
         id="toc-ana-quest-part-1-anaquest1">ANA Quest Part 1 - ANAQuest1</a>
@@ -359,7 +359,7 @@ cells, tutors, Pokémon Locations, and more!
         Lies - WLLNote</a>
     -   <a href="#scholar-district---scholard1"
         id="toc-scholar-district---scholard1">Scholar District - ScholarD1</a>
-    -   <a href="#lost-camp-pt.-3-lcamp3" id="toc-lost-camp-pt.-3-lcamp3">Lost
+    -   <a href="#lost-camp-pt-3-lcamp3" id="toc-lost-camp-pt-3-lcamp3">Lost
         Camp Pt. 3 - LCamp3</a>
     -   <a href="#ana-quest-part-2-anaquest2"
         id="toc-ana-quest-part-2-anaquest2">ANA Quest Part 2 - ANAQuest2</a>
@@ -385,8 +385,8 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#aevium-past-3rd-visit---pasta3"
         id="toc-aevium-past-3rd-visit---pasta3">Aevium (Past) 3rd Visit -
         PastA3</a>
-    -   <a href="#vs.-ren-sashila-help-quests---svhelpq1"
-        id="toc-vs.-ren-sashila-help-quests---svhelpq1">VS. Ren, Sashila Help
+    -   <a href="#vs-ren-sashila-help-quests---svhelpq1"
+        id="toc-vs-ren-sashila-help-quests---svhelpq1">VS. Ren, Sashila Help
         Quests - SVHelpQ1</a>
     -   <a href="#sand-stream-cave-sscave1"
         id="toc-sand-stream-cave-sscave1">Sand Stream Cave - SSCave1 </a>
@@ -412,10 +412,10 @@ cells, tutors, Pokémon Locations, and more!
         10Route1</a>
     -   <a href="#nastasias-ship---nship1"
         id="toc-nastasias-ship---nship1">Nastasia’s Ship - NShip1</a>
-    -   <a href="#zone-zero-pt.-1---zzero1"
-        id="toc-zone-zero-pt.-1---zzero1">Zone Zero Pt. 1 - ZZero1</a>
-    -   <a href="#zone-zero-pt.-2---zzero2"
-        id="toc-zone-zero-pt.-2---zzero2">Zone Zero Pt. 2 - ZZero2</a>
+    -   <a href="#zone-zero-pt-1---zzero1"
+        id="toc-zone-zero-pt-1---zzero1">Zone Zero Pt. 1 - ZZero1</a>
+    -   <a href="#zone-zero-pt-2---zzero2"
+        id="toc-zone-zero-pt-2---zzero2">Zone Zero Pt. 2 - ZZero2</a>
     -   <a href="#eclysia-pyramid---epyra1"
         id="toc-eclysia-pyramid---epyra1">Eclysia Pyramid - EPyra1</a>
     -   <a href="#pyramid-point-badge---badge14"
@@ -452,7 +452,7 @@ cells, tutors, Pokémon Locations, and more!
     -   <a href="#league-administration-1st-visit-ladmin1"
         id="toc-league-administration-1st-visit-ladmin1">League Administration
         1<sup>st</sup> Visit - LAdmin1</a>
-        -   <a href="#day-01-vs.-melia" id="toc-day-01-vs.-melia">Day 01 - Vs.
+        -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01 - Vs.
             Melia</a>
         -   <a href="#day-03-aelitas-departure"
             id="toc-day-03-aelitas-departure">Day 03 - Aelita’s Departure</a>
@@ -460,10 +460,10 @@ cells, tutors, Pokémon Locations, and more!
             MC’s Training </a>
         -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11 -
             Aelita’s Return</a>
-        -   <a href="#day-15-melia-vs.-erin" id="toc-day-15-melia-vs.-erin">Day 15 -
+        -   <a href="#day-15-melia-vs-erin" id="toc-day-15-melia-vs-erin">Day 15 -
             Melia Vs. Erin</a>
-        -   <a href="#day-18-mcs-day-of-training-pt.-2"
-            id="toc-day-18-mcs-day-of-training-pt.-2">Day 18 - MC’s Day of Training,
+        -   <a href="#day-18-mcs-day-of-training-pt-2"
+            id="toc-day-18-mcs-day-of-training-pt-2">Day 18 - MC’s Day of Training,
             Pt. 2</a>
         -   <a href="#day-29---graduation" id="toc-day-29---graduation">Day 29 -
             Graduation</a>
