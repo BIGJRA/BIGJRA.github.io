@@ -832,7 +832,7 @@ Head back across the bridge, up and left to the generator room. Start
 the third, first, then second generator. Go back into the room Venam
 went into for a long cutscene and a battle.
 
-Garbodor Garbage Crew (No field)
+Garbodor Garbage Crew (No Field)
 
 -   Trubbish, Level 11.
     -   Pound
@@ -1277,20 +1277,19 @@ style="width:6.65625in;height:5.02083in" />
 Once you’re ready to leave, head to the northwest part of town and enter
 the train station. Inside the station, you’ll meet up with Tesla, who’ll
 buy you a ticket and give you *Potions.* Talk to the grandfather in the
-station and agree to help him, then board the train. Battles at Route 1
-are on the Golden Forest field.
+station and agree to help him, then board the train. 
 
-Route 1 (Forest Field)
+Route 1
 
-| Grass: Morning| %    | Grass: Night    | %    | Grass: Day    | % |
-|---------------|------|-----------------|------|---------------|---|
-| Caterpie      | 30   | **Scatterbug**  | 35   | Pidove        | 30| 
-| Sentret       | 29   | Pidove          | 30   | **Scatterbug**| 30|
-| Pidove        | 10   | Weedle          | 20   | **Deerling**  | 16|
-| **Scatterbug**| 10   | Paras           | 9    | Pidgey        | 15|
-| Pidgey        | 10   | **Kakuna**      | 4    | Sentret       | 8 |
-| **Deerling**  | 10   | **Metapod**     | 1    | **Furret**    | 1 |
-| **Furret**    | 1    | **Furret**      | 1    |               |   |
+| Grass: Morning| %    | Grass: Day    | % | Grass: Night    | %    |
+|---------------|------|---------------|---|-----------------|------|
+| Caterpie      | 30   | Pidove        | 30| **Scatterbug**  | 35   | 
+| Sentret       | 29   | **Scatterbug**| 30| Pidove          | 30   |
+| Pidove        | 10   | **Deerling**  | 16| Weedle          | 20   |
+| **Scatterbug**| 10   | Pidgey        | 15| Paras           | 9    |
+| Pidgey        | 10   | Sentret       | 8 | **Kakuna**      | 4    |
+| **Deerling**  | 10   | **Furret**    | 1 | **Metapod**     | 1    |
+| **Furret**    | 1    |               |   | **Furret**      | 1    |
 
 |Old Rod    |%  |
 |-----------|---|
@@ -1318,7 +1317,7 @@ Relationship Point Choices:
 You’ll get an *HP Up.* Another free $4900! Grab the nearby *Potion* as
 well and talk to the Furfrou lady for another *Potion.*
 
-Goldenwood Forest (Forest Field)
+Goldenwood Forest
 
 | Grass        | %    | Old Rod| %    |
 |--------------|------|--------|------|
@@ -1334,7 +1333,7 @@ into Goldenwood Cave.
 
 Melia will join your party here.
 
-Goldenwood Cave (Cave Field)
+Goldenwood Cave
 
 | Cave        | %    |
 |-------------|------|
@@ -1543,34 +1542,20 @@ Head into the lab to battle Dr. Jenkel.
 Mad Scientist Dr. Jenkel (Factory Field)
 
 -   Munna, Level 18. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Moonlight
-
     -   Light Screen
-
 -   Munna, Level 19. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Shock Wave
-
     -   Reflect
-
 -   Musharna, Level 20. @ PULSE Plus. Typing: Psychic/Fairy. Ability:
     Misty Surge. Stat Spread: 115/50/90/90/80/10
-
     -   Mist Ball
-
     -   Fairy Wind
-
     -   Misty Terrain
-
     -   Wish
 
 Either partner will do well here, his Frogadier hits hard with Water
@@ -1611,21 +1596,16 @@ Go up and give one of the Munna a GourmetTreat to catch it if you want.
 
 One more quest we can do now takes place at the Chrisola Hotel.
 
--   Enter the room in the right hallway on the right, with Minccino in
-    it. Talk to the old lady and agree to find Minccino.
+Enter the room in the right hallway on the right, with Minccino in it. 
+Talk to the old lady and agree to find Minccino.
 
--   Head out to the lobby and find it near the elevator.
+Head out to the lobby and find it near the elevator. Then enter the left
+hallway and you’ll see it right away on the bottom side. Follow it left 
+and around, and you’ll see Team Xen Grunts take it away!
 
--   Enter the left hallway and you’ll see it right away on the bottom
-    side
+Go to Gearen Park and fight the Grunts on the east side of the park.
 
--   Follow it left and around, and you’ll see Team Xen Grunts take it
-    away!
-
--   Go to Gearen Park and fight the Grunts on the east side of the park
-
--   Return to the old woman, who’ll let you battle to catch
-    **Minccino!**
+Return to the old woman, who’ll let you battle to catch **Minccino!**
 
 Especially if you’ve been catching all the Pokemon so far, you probably
 will have enough AP to get the Golden Hammer. This makes it so we don’t
@@ -1651,20 +1631,22 @@ enter. The grassy spot in the middle of dirt right from Meganium hides a
 
 Route 2
 
-|                       |          |                     |          |                   |          |                |          |
-|-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
-| Deerling              | 30       | **Swirlix**         | 30       | **Cherubi**       | 48       | Finneon        | 100      |
-| **Combee**            | 30       | Drowzee             | 20       | **Combee**        | 30       |                |          |
-| Spearow               | 19       | Oddish              | 15       | **Volbeat**       | 15       |                |          |
-| **Cherubi**           | 15       | **Spinarak**        | 15       | **Pidgeotto**     | 5        |                |          |
-| **Dedenne**           | 4        | **Illumise**        | 10       | **Dedenne**       | 2        |                |          |
-| **Spritzee**          | 1        | Hoothoot            | 8        |                   |          |                |          |
-| **Swirlix**           | 1        | Chingling           | 2        |                   |          |                |          |
+| Grass: Morning| %    |Grass: Day    | %    | Grass: Night    | %    | 
+|---------------|------|--------------|------|-----------------|------|-
+| Deerling      | 30   |**Cherubi**   | 48   | **Swirlix**     | 30   | 
+| **Combee**    | 30   |**Combee**    | 30   | Drowzee         | 20   | 
+| Spearow       | 19   |**Volbeat**   | 15   | Oddish          | 15   | 
+| **Cherubi**   | 15   |**Pidgeotto** | 5    | **Spinarak**    | 15   | 
+| **Dedenne**   | 4    |**Dedenne**   | 2    | **Illumise**    | 10   | 
+| **Spritzee**  | 1    |              |      | Hoothoot        | 8    | 
+| **Swirlix**   | 1    |              |      | Chingling       | 2    | 
 
-If you use Old Rod, you can only find Finneon here. Remember to to get
-Dedenne to continue Zumi’s quest. The next gym is fighting type, so most
-of these are going to be decent options for now.
+| Old Rod   | % |
+|-----------|---|
+| Finneon   |100|
+
+Remember to to get Dedenne to continue Zumi’s quest. The next gym is 
+fighting type, so most of these are going to be decent options for now.
 
 Head down the stairs and go up at the fork. Left of a red flower is a
 hidden *Relaxed Mint,* and one tile down from the right patch of two
@@ -1677,16 +1659,15 @@ moves.
 
 Route 2
 
-|                     |          |                      |          |                   |          |
-|---------------------|----------|----------------------|----------|-------------------|----------|
-| Headbutt Low | % | Headbutt High | % | Rock Smash | % |
-| **Aipom**           | 55       | Caterpie             | 55       | Geodude           | 96       |
-| **Crabrawler**      | 20       | Weedle               | 30       | **Diglett**       | 4        |
-| **Pineco**          | 10       | **Pineco**           | 5        |                   |          |
-| **Butterfree**      | 5        | Pidgey               | 5        |                   |          |
-| **Burmy**           | 5        | **Crabrawler**       | 4        |                   |          |
-| Metapod             | 4        | **Aipom**            | 1        |                   |          |
-| **Beedrill**        | 1        |                      |          |                   |          |
+| Headbutt Low      | % | Headbutt High | % | Rock Smash | % |
+|-------------------|---|---------------|---|------------|---|
+| **Aipom**         | 55| Caterpie      | 55| Geodude    | 96|
+| **Crabrawler**    | 20| Weedle        | 30| **Diglett**| 4 |
+| **Pineco**        | 10| **Pineco**    | 5 |            |   |
+| **Butterfree**    | 5 | Pidgey        | 5 |            |   |
+| **Burmy**         | 5 | **Crabrawler**| 4 |            |   |
+| Metapod           | 4 | **Aipom**     | 1 |            |   |
+| **Beedrill**      | 1 |               |   |            |   |
 
 Each tree is either a “low” tree or a “high” tree. Low trees have more
 infrequent encounters, but typically the rarer Pokemon. North of the
@@ -1701,17 +1682,15 @@ later.
 If you talk to Kecleon, he’ll sell you stuff. We’ll be back for a side
 quest with him later.
 
-Kecleon Market
+Kecleon Market Shop
 
-*Poke Ball* $200
-
-*Potion* $300
-
-*Antidote* $100
-
-*GourmetTreat* $1500
-
-*Repel* $350
+|Item           | Price     |
+|---------------|-----------|
+|*Poke Ball*    | $200      |
+|*Potion*       | $300      |
+|*Antidote*     | $100      |
+|*GourmetTreat* | $150      |
+|*Repel*        | $350      |
 
 You can also find a *GourmetTreat* in the rightmost patch of grass up in
 the area up from Kecleon, as well as:

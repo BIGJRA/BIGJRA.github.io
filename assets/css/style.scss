@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"; // @ts-ignore
+
 #main_content_wrap {
     width: 100%;
     overflow: auto;
