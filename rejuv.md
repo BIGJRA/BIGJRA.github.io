@@ -111,7 +111,7 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-lost-camp-part-1-and-floria-side-quests---lcamp1">Lost Camp Part
         1, and Floria Side Quests - LCamp1</a>
     -   <a href="#mystery-egg---megg1" id="toc-mystery-egg---megg1">Mystery Egg
-        - MEgg1</a>
+        \- MEgg1</a>
     -   <a href="#akuwa-town---akuwat1" id="toc-akuwa-town---akuwat1">Akuwa
         Town? - AkuwaT1</a>
     -   <a href="#blacksteeple-castle---bcastle1"
@@ -269,7 +269,7 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-darchlight-caves-first-visit---dlcaves1">Darchlight Caves First
         Visit - DLCaves1</a>
     -   <a href="#rose-badge---badge10" id="toc-rose-badge---badge10">Rose Badge
-        - Badge10</a>
+        \- Badge10</a>
 -   <a href="#chapter-11-grand-dream-city"
     id="toc-chapter-11-grand-dream-city">Chapter 11: Grand Dream City?</a>
     -   <a href="#dream-district-east-1st-visit---dreamde1"
@@ -356,13 +356,13 @@ cells, tutors, Pokémon Locations, and more!
         id="toc-zorrialyn-desert---zdesert1">Zorrialyn Desert - ZDesert1</a>
     -   <a href="#sashila-village-1st-visit---sashvil1"
         id="toc-sashila-village-1st-visit---sashvil1">Sashila Village 1st Visit
-        - SashVil1</a>
+        \- SashVil1</a>
     -   <a href="#hospital-of-ruin-1st-visit---hospruin1"
         id="toc-hospital-of-ruin-1st-visit---hospruin1">Hospital of Ruin (1st
         Visit) - HospRuin1</a>
     -   <a href="#sashila-village-2nd-visit---sashvil2"
         id="toc-sashila-village-2nd-visit---sashvil2">Sashila Village 2nd Visit
-        - SashVil2</a>
+        \- SashVil2</a>
     -   <a href="#alamissa-urben---alaurben1"
         id="toc-alamissa-urben---alaurben1">Alamissa Urben - AlaUrben1</a>
     -   <a href="#blakeory-atheneum-tour---bathtour1"
@@ -482,8 +482,6 @@ cells, tutors, Pokémon Locations, and more!
         Table – PickUp1</a>
     -   <a href="#crest-descriptions-crestd1"
         id="toc-crest-descriptions-crestd1">Crest Descriptions – CrestD1</a>
-
--   
 
 # Chapter 1: Shipwrecked
 
@@ -1692,17 +1690,17 @@ style="width:6.6875in;height:5.01042in" />
 
 ZCell 002: Oceana Pier
 
-<img src="bigjra.github.io/images/media/rejuv/image2.png"
+<img src="/assets/media/rejuv/image2.png"
 style="width:6.6875in;height:5.01042in" />
 
 ZCell 003: Chrisola Rooftop (Daytime Only)
 
-<img src="bigjra.github.io/images/media/rejuv/image3.png"
+<img src="/assets/media/rejuv/image3.png"
 style="width:6.6613in;height:5.07813in" />
 
 ZCell 004: Gearen Alleyway (through Venam’s secret tunnel)
 
-<img src="bigjra.github.io/images/media/rejuv/image4.png"
+<img src="/assets/media/rejuv/image4.png"
 style="width:6.65625in;height:5.02083in" />
 
 ## Route 1 and Goldenwood Forest - Rt1GF1
@@ -1734,7 +1732,7 @@ battle you!
 
 ZCell 005: Route 1
 
-<img src="bigjra.github.io/images/media/rejuv/image5.png"
+<img src="/assets/media/rejuv/image5.png"
 style="width:6.67708in;height:5.02083in" />
 
 Head north and enjoy a great cutscene montage with Melia. Once you
@@ -2102,7 +2100,7 @@ open. Here you’ll find a Rare Candy. Also:
 
 ZCell 006: Gearen Sewers
 
-<img src="bigjra.github.io/images/media/rejuv/image6.png"
+<img src="/assets/media/rejuv/image6.png"
 style="width:6.58333in;height:5.01042in" />
 
 Exit through the top. A dumpster on the right has a *Reverse Candy*
@@ -2115,7 +2113,7 @@ tall grass hides a *Super Repel.*
 
 ZCell 007: Gearen Alleyway (Only accessible at night)
 
-<img src="bigjra.github.io/images/media/rejuv/image7.png"
+<img src="/assets/media/rejuv/image7.png"
 style="width:6.69106in;height:5.02604in" />
 
 Go up and give one of the Munna a GourmetTreat to catch it if you want.
@@ -2229,7 +2227,7 @@ the area up from Kecleon, as well as:
 
 ZCell 008: Route 2
 
-<img src="bigjra.github.io/images/media/rejuv/image8.png"
+<img src="/assets/media/rejuv/image8.png"
 style="width:6.6875in;height:4.94792in" />
 
 Cross the bridge to the left, four tiles left of the bottom of the
@@ -2652,7 +2650,7 @@ We can encounter Pokémon here, but there’s only 1 type: **Unown!**
 
 ZCell 009: Hidden Library
 
-<img src="bigjra.github.io/images/media/rejuv/image9.png"
+<img src="/assets/media/rejuv/image9.png"
 style="width:6.66667in;height:5.04167in" />
 
 -   Go down. Pick up the lime book, and *TM63 Embargo.*
@@ -3968,7 +3966,7 @@ Check out the graveyard at the top:
 
 ZCell 010: Goldenleaf Town
 
-<img src="bigjra.github.io/images/media/rejuv/image10.png"
+<img src="/assets/media/rejuv/image10.png"
 style="width:6.67708in;height:5.02083in" />
 
 The tall grass straight left from here contains a *Chesto Berry.*
@@ -3993,7 +3991,7 @@ Forgotten Path
 
 ZCell 011: Forgotten Path
 
-<img src="bigjra.github.io/images/media/rejuv/image11.png"
+<img src="/assets/media/rejuv/image11.png"
 style="width:6.78125in;height:5.04167in" />
 
 The top tree in this set to the left of the cell has an *Ether* in its
@@ -4046,7 +4044,7 @@ Grab the *Reverse Candy* on the right.
 
 ZCell 012: Wispy Path
 
-<img src="bigjra.github.io/images/media/rejuv/image12.png"
+<img src="/assets/media/rejuv/image12.png"
 style="width:6.64583in;height:4.96875in" />
 
 Talk to the guy up here, then to **Espurr.** It will let you do a
@@ -4428,7 +4426,7 @@ right house.
 
 ZCell 013: Mirage Cave
 
-<img src="bigjra.github.io/images/media/rejuv/image13.png"
+<img src="/assets/media/rejuv/image13.png"
 style="width:6.64583in;height:4.97917in" />
 
 Grab the cell and *TM66 Payback*.
@@ -4757,7 +4755,7 @@ get a *Dusk Stone*! Head up and through the ladder.
 
 ZCell 014: Wispy Ruins
 
-<img src="bigjra.github.io/images/media/rejuv/image14.png"
+<img src="/assets/media/rejuv/image14.png"
 style="width:6.67708in;height:4.97917in" />
 
 Head to the right. I recommend healing sometime soon, there’ll be a few
@@ -5082,7 +5080,7 @@ Enter the house to the north of the trucker:
 
 ZCell 015: Akuwa Town
 
-<img src="bigjra.github.io/images/media/rejuv/image15.png"
+<img src="/assets/media/rejuv/image15.png"
 style="width:6.63542in;height:5.03125in" />
 
 Talk to Aelita and then enter the Pokémon Center and go to the back to
@@ -5094,7 +5092,7 @@ Head up and up the ladder you’ll see here and grab:
 
 ZCell 016: Akuwa Town (ignore the Ditto!)
 
-<img src="bigjra.github.io/images/media/rejuv/image16.png"
+<img src="/assets/media/rejuv/image16.png"
 style="width:6.6875in;height:5.04167in" />
 
 At this point we will not be able to come back for a bit, so make sure
@@ -5884,7 +5882,7 @@ Surf up to the top on the right side. Itemfind for a *Blue Shard.*
 
 ZCell 017: Terajuma Island
 
-<img src="bigjra.github.io/images/media/rejuv/image17.png"
+<img src="/assets/media/rejuv/image17.png"
 style="width:6.6875in;height:5.02083in" />
 
 Surf up at the bridge, on the left of the fence. Itemfinder points us to
@@ -6062,7 +6060,7 @@ Itemfind for a *Great Ball, Wacan Berry,* and pick up:
 
 ZCell 018: Terajuma Jungle
 
-<img src="bigjra.github.io/images/media/rejuv/image18.png"
+<img src="/assets/media/rejuv/image18.png"
 style="width:6.67708in;height:5.01042in" />
 
 On the right you’ll find a *Brave Mint* as well as a hidden *Super
@@ -6107,7 +6105,7 @@ Spice Powder, you’ll have access to *Quick Powder* and another cell.
 
 ZCell 019: Deep Terajuma Jungle
 
-<img src="bigjra.github.io/images/media/rejuv/image19.png"
+<img src="/assets/media/rejuv/image19.png"
 style="width:6.67708in;height:5.01042in" />
 
 Head up then all the way left. On the bridge, a girl will get upset at
@@ -6541,7 +6539,7 @@ After the battle, head up.
 
 ZCell 020: Valor Shore
 
-<img src="bigjra.github.io/images/media/rejuv/image20.png"
+<img src="/assets/media/rejuv/image20.png"
 style="width:6.6875in;height:5in" />
 
 Head up to Valor Mountain and watch the scene.
@@ -7222,7 +7220,7 @@ Goldenwood Forest/Cave
 
 ZCell 021: Goldenwood Forest
 
-<img src="bigjra.github.io/images/media/rejuv/image21.png"
+<img src="/assets/media/rejuv/image21.png"
 style="width:6.64583in;height:4.98958in" />
 
 Head further up and enter the clearing here. Pick up *TM78 Bulldoze,*
@@ -7230,7 +7228,7 @@ and grab*:*
 
 ZCell 022: Secret Shrine
 
-<img src="bigjra.github.io/images/media/rejuv/image22.png"
+<img src="/assets/media/rejuv/image22.png"
 style="width:6.67708in;height:4.98958in" />
 
 Back outside, surf up for a hidden *Muscle Wing.*
@@ -7244,14 +7242,14 @@ our seventh *lost kid* out of nine.
 
 ZCell 023: Goldenwood Cave
 
-<img src="bigjra.github.io/images/media/rejuv/image23.png"
+<img src="/assets/media/rejuv/image23.png"
 style="width:6.72917in;height:5.02083in" />
 
 Exit to the Goldenwood Grove. Head to the right, then surf up*.*
 
 ZCell 024: Goldenwood Grove
 
-<img src="bigjra.github.io/images/media/rejuv/image24.png"
+<img src="/assets/media/rejuv/image24.png"
 style="width:6.70313in;height:5.03621in" />
 
 Head to Wispy Path, then to Goldenleaf Town.
@@ -7346,7 +7344,7 @@ Also here is *TM58 Sky Drop,* a hidden *Dusk Ball,* and:
 
 ZCell 025: Moon Field
 
-<img src="bigjra.github.io/images/media/rejuv/image25.png"
+<img src="/assets/media/rejuv/image25.png"
 style="width:6.6875in;height:5.01042in" />
 
 Now, we’re going to start the Poliwag event - head back to Wispy Path
@@ -7380,7 +7378,7 @@ be found at night.
 
 ZCell 026: Sheridan Arena
 
-<img src="bigjra.github.io/images/media/rejuv/image26.png"
+<img src="/assets/media/rejuv/image26.png"
 style="width:6.61806in;height:4.96354in" />
 
 Head up to the daycare and surf to the west. Here’s a **Treecko**!
@@ -7410,7 +7408,7 @@ the future.
 
 ZCell 027: Amethyst Cave
 
-<img src="bigjra.github.io/images/media/rejuv/image27.png"
+<img src="/assets/media/rejuv/image27.png"
 style="width:6.65552in;height:4.95313in" />
 
 Head out to Route 2. There are now **Ambipom** instead of Aipom here.
@@ -7517,7 +7515,7 @@ On the island south of here, you’ll find
 
 ZCell 028: Route 11
 
-<img src="bigjra.github.io/images/media/rejuv/image28.png"
+<img src="/assets/media/rejuv/image28.png"
 style="width:6.57292in;height:4.91667in" />
 
 Anyways, grab the *Max Repel* and enter the cave on the east side here.
@@ -7579,7 +7577,7 @@ to get:
 
 ZCell 029: Evergreen Island
 
-<img src="bigjra.github.io/images/media/rejuv/image29.png"
+<img src="/assets/media/rejuv/image29.png"
 style="width:6.67708in;height:5.03125in" />
 
 Enter again and take the ladder down. We can’t yet do the strength
@@ -7701,7 +7699,7 @@ her again - and our challenge will begin.
 
 ZCell 030: Kakori Gym
 
-<img src="bigjra.github.io/images/media/rejuv/image30.png"
+<img src="/assets/media/rejuv/image30.png"
 style="width:6.66667in;height:4.98958in" />
 
 -   Head back all the way down, and to the right. Climb the stairs by
@@ -7731,7 +7729,7 @@ then follow this path down to get:
 
 ZCell 031: Kakori Depths
 
-<img src="bigjra.github.io/images/media/rejuv/image31.png"
+<img src="/assets/media/rejuv/image31.png"
 style="width:6.63542in;height:4.98958in" />
 
 Anyways, if you head outside the gym, there’s an Audino breeder by the
@@ -7896,7 +7894,7 @@ Surf to the left to find:
 
 ZCell 032: Aquamarine Chamber
 
-<img src="bigjra.github.io/images/media/rejuv/image32.png"
+<img src="/assets/media/rejuv/image32.png"
 style="width:6.61458in;height:4.97917in" />
 
 Head back out and to the left. Heal, then exit the cave for a double
@@ -8011,12 +8009,12 @@ inside this building, you’ll find:
 
 ZCell 033: Teila Resort
 
-<img src="bigjra.github.io/images/media/rejuv/image33.png"
+<img src="/assets/media/rejuv/image33.png"
 style="width:6.63542in;height:4.94792in" />
 
 ZCell 034: Teila Resort
 
-<img src="bigjra.github.io/images/media/rejuv/image34.png"
+<img src="/assets/media/rejuv/image34.png"
 style="width:6.62251in;height:5.00521in" />
 
 Head around the house to the left of this one to find an *Elixir.* The
@@ -8069,7 +8067,7 @@ fighting type in your team to get a *Muscle Band!* then head into the
 upper left room to find:  
 ZCell 035: Teila Resort
 
-<img src="bigjra.github.io/images/media/rejuv/image35.png"
+<img src="/assets/media/rejuv/image35.png"
 style="width:6.65625in;height:4.98958in" />
 
 If you talk to the girl in the left side near Tesla, she’ll offer your
@@ -8348,7 +8346,7 @@ to the upper left room. Surf north and use the key.
 Talk to this tablet and you’ll be engaged with a puzzle. Here is the
 solution:
 
-<img src="bigjra.github.io/images/media/rejuv/image36.png"
+<img src="/assets/media/rejuv/image36.png"
 style="width:6.66667in;height:5.03125in" />
 
 Enter the pathway to the north, and you’ll be taken back to Matthew’s
@@ -8558,7 +8556,7 @@ Back inside the church, you’ll find:
 
 ZCell 036: Church of Theolia
 
-<img src="bigjra.github.io/images/media/rejuv/image37.png"
+<img src="/assets/media/rejuv/image37.png"
 style="width:6.07083in;height:4.32917in" />
 
 Outside, pick up *TM07 Hail.* On the beach below there is a hidden
@@ -8606,7 +8604,7 @@ other door to get:
 
 ZCell 037: Kristiline Town
 
-<img src="bigjra.github.io/images/media/rejuv/image38.png"
+<img src="/assets/media/rejuv/image38.png"
 style="width:6.66667in;height:4.95833in" />
 
 Pick the *Occa Berry* in the northeast.
@@ -8615,7 +8613,7 @@ In the bottom left of town, you’ll find:
 
 ZCell 038: Kristiline Town
 
-<img src="bigjra.github.io/images/media/rejuv/image39.png"
+<img src="/assets/media/rejuv/image39.png"
 style="width:6.21875in;height:4.94792in" />
 
 <u>Kristiline Ranger Center Store</u>
@@ -8912,7 +8910,7 @@ center are useful here!
 
 ZCell 039: Route 6
 
-<img src="bigjra.github.io/images/media/rejuv/image40.png"
+<img src="/assets/media/rejuv/image40.png"
 style="width:6.6875in;height:5.03125in" />
 
 -   Add something to your party with Headbutt, and return to the area
@@ -8935,7 +8933,7 @@ style="width:6.6875in;height:5.03125in" />
 
 ZCell 040: Jirukala Cavern
 
-<img src="bigjra.github.io/images/media/rejuv/image41.PNG"
+<img src="/assets/media/rejuv/image41.PNG"
 style="width:6.54167in;height:4.91139in" />
 
 -   Completing this quest also gives us access to some stationary water
@@ -9173,7 +9171,7 @@ here and talk to April again.
 
 ZCell 041: Amethyst Cave
 
-<img src="bigjra.github.io/images/media/rejuv/image42.png"
+<img src="/assets/media/rejuv/image42.png"
 style="width:6.17708in;height:4.68439in" />
 
 Return to the entrance of the cave from Route 2. Take the stairs to the
@@ -9327,7 +9325,7 @@ At night, you’ll find:
 
 ZCell 042: Cliffside Grave (Night ONLY)
 
-<img src="bigjra.github.io/images/media/rejuv/image43.png"
+<img src="/assets/media/rejuv/image43.png"
 style="width:6.6875in;height:5.02083in" />
 
 Interact with the grave at the top and insert the Cursed Candle we got a
@@ -9754,7 +9752,7 @@ by entering the Chamber of Awakening.
 
 ZCell 043: Chamber of Awakening
 
-<img src="bigjra.github.io/images/media/rejuv/image44.PNG"
+<img src="/assets/media/rejuv/image44.PNG"
 style="width:5.90625in;height:4.40779in"
 alt="A picture containing light, several Description automatically generated" />
 
@@ -9811,7 +9809,7 @@ Head back down from here, and you’ll find:
 
 ZCell 044: Valor Mountain (Normal)
 
-<img src="bigjra.github.io/images/media/rejuv/image45.PNG"
+<img src="/assets/media/rejuv/image45.PNG"
 style="width:6.91667in;height:5.14552in"
 alt="A picture containing indoor, colorful, several Description automatically generated" />
 
@@ -9824,7 +9822,7 @@ find:
 
 ZCell 045: Valor Mountain (Ice)
 
-<img src="bigjra.github.io/images/media/rejuv/image46.PNG"
+<img src="/assets/media/rejuv/image46.PNG"
 style="width:6.91667in;height:5.17256in" />
 
 Make your way around and up. Activate the fire crystal at the top here.
@@ -9851,7 +9849,7 @@ You’ll find:
 
 ZCell 046: Valor Mountain (Ice)
 
-<img src="bigjra.github.io/images/media/rejuv/image47.png"
+<img src="/assets/media/rejuv/image47.png"
 style="width:6.72396in;height:5.01001in" />
 
 Fall down the hole again, then proceed all the way through the barricade
@@ -9931,7 +9929,7 @@ Gyarados doesn’t set up!
 
 ZCell 047: Valor Cliffside
 
-<img src="bigjra.github.io/images/media/rejuv/image48.png"
+<img src="/assets/media/rejuv/image48.png"
 style="width:6.70313in;height:5.13906in" />
 
 Head down from here.
@@ -9959,14 +9957,14 @@ the cliffside. On the right side, you’ll find:
 
 ZCell 048: Valor Mountain (Fire)
 
-<img src="bigjra.github.io/images/media/rejuv/image49.png"
+<img src="/assets/media/rejuv/image49.png"
 style="width:6.625in;height:4.99943in" />
 
 Head down and go to the left. Drift across then jump in the hole twice.
 
 ZCell 049: Valor Mountain (Fire)
 
-<img src="bigjra.github.io/images/media/rejuv/image50.png"
+<img src="/assets/media/rejuv/image50.png"
 style="width:6.61458in;height:5.1053in" />
 
 Also, talk to Heatmor with a GourmetTreat for a chance to catch it.
@@ -9985,7 +9983,7 @@ Jump down the ledge, and head up the ladder here. On the right:
 
 ZCell 050: Valor Mountain (Normal)
 
-<img src="bigjra.github.io/images/media/rejuv/image51.PNG"
+<img src="/assets/media/rejuv/image51.PNG"
 style="width:6.96354in;height:5.24314in"
 alt="A picture containing indoor, decorated, several Description automatically generated" />
 
@@ -10442,7 +10440,7 @@ Forest of Time
 
 ZCell 051: Forest of Time
 
-<img src="bigjra.github.io/images/media/rejuv/image52.PNG"
+<img src="/assets/media/rejuv/image52.PNG"
 style="width:6.6875in;height:5.02737in"
 alt="Screenshot of a video game Description automatically generated" />
 
@@ -10452,7 +10450,7 @@ Head up and surf to the left.
 
 ZCell 052: Forest of Time
 
-<img src="bigjra.github.io/images/media/rejuv/image53.PNG"
+<img src="/assets/media/rejuv/image53.PNG"
 style="width:6.6875in;height:5.01563in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -10636,7 +10634,7 @@ upstairs and enter the newly opened door. Grab the **Indeedee** here!
 
 Talk to the portrait in this room to begin a puzzle.
 
-<img src="bigjra.github.io/images/media/rejuv/image54.png"
+<img src="/assets/media/rejuv/image54.png"
 style="width:6.6875in;height:5in" />
 
 This is what it should look like when completed. Enter the door
@@ -10797,7 +10795,7 @@ get:
 
 ZCell 053: Distorted Path
 
-<img src="bigjra.github.io/images/media/rejuv/image55.PNG"
+<img src="/assets/media/rejuv/image55.PNG"
 style="width:7.03125in;height:5.31361in" />
 
 ## West Gearen City - WGearen1
@@ -10834,7 +10832,7 @@ To the west, though it is super tricky to spot, grab:
 
 ZCell 054: West Gearen City
 
-<img src="bigjra.github.io/images/media/rejuv/image56.png"
+<img src="/assets/media/rejuv/image56.png"
 style="width:6.6875in;height:4.94792in" />
 
 Use your Itemfinder south of the pool to find a *Rose Incense.*
@@ -10861,7 +10859,7 @@ expensive and unnecessary to get it here.
 
 ZCell 055: West Gearen City
 
-<img src="bigjra.github.io/images/media/rejuv/image57.png"
+<img src="/assets/media/rejuv/image57.png"
 style="width:6.625in;height:5in" />
 
 Use your Itemfinder all around the city. You’ll find a *Telluric Seed,
@@ -10896,7 +10894,7 @@ Head outside and enter the Junction Bridge from the left.
 
 ZCell 056: Junction Bridge
 
-<img src="bigjra.github.io/images/media/rejuv/image58.png"
+<img src="/assets/media/rejuv/image58.png"
 style="width:6.75in;height:4.97917in" />
 
 Speaking of Zygarde Cells, exit Junction Bridge to the right and go talk
@@ -11322,7 +11320,7 @@ meaning you can grab:
 
 ZCell 057: Church of Theolia
 
-<img src="bigjra.github.io/images/media/rejuv/image59.PNG"
+<img src="/assets/media/rejuv/image59.PNG"
 style="width:6.09771in;height:4.58403in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -11438,7 +11436,7 @@ Head one screen up. Cut trees to get *TM107 Slash and Burn.*
 
 ZCell 058: Route 7
 
-<img src="bigjra.github.io/images/media/rejuv/image60.png"
+<img src="/assets/media/rejuv/image60.png"
 style="width:6.63542in;height:5.01042in" />
 
 Hidden on this map outside the fence boundary is a *Yellow Shard, Max
@@ -11456,7 +11454,7 @@ in the main room, then exit the barn to the right.
 
 ZCell 059: Yui’s Ranch
 
-<img src="bigjra.github.io/images/media/rejuv/image61.png"
+<img src="/assets/media/rejuv/image61.png"
 style="width:6.63542in;height:5.01042in" />
 
 Head to the back of the ranch. On the right side, pick up the hidden
@@ -11524,7 +11522,7 @@ Route 7.
 
 ZCell 060: Route 7
 
-<img src="bigjra.github.io/images/media/rejuv/image62.png"
+<img src="/assets/media/rejuv/image62.png"
 style="width:6.65625in;height:4.97917in" />
 
 Pick the 3 *Persim Berries* here. Enter the house here.
@@ -11597,7 +11595,7 @@ a girl.
 
 ZCell 061: Darchlight Woods
 
-<img src="bigjra.github.io/images/media/rejuv/image63.png"
+<img src="/assets/media/rejuv/image63.png"
 style="width:6.65625in;height:5.04167in" />
 
 Next, head through the west door in the entrance map to access Sensu
@@ -11803,7 +11801,7 @@ Gem.*
 
 ZCell 062: Darchlight Caves
 
-<img src="bigjra.github.io/images/media/rejuv/image64.png"
+<img src="/assets/media/rejuv/image64.png"
 style="width:6.6875in;height:5.02083in" />
 
 Head right and cross the new bridge. Up is a hidden *Hyper Potion.* Head
@@ -11836,7 +11834,7 @@ Leech Life*, and a hidden *Dark Gem, Ether,* and *TinyMushroom.*
 
 ZCell 063: Sensu Meadow
 
-<img src="bigjra.github.io/images/media/rejuv/image65.PNG"
+<img src="/assets/media/rejuv/image65.PNG"
 style="width:6.79167in;height:5.12619in"
 alt="A screenshot of a video game Description automatically generated with medium confidence" />
 
@@ -11989,7 +11987,7 @@ is larger than both Gearen’s combined.
 
 ZCell 064: Dream District
 
-<img src="bigjra.github.io/images/media/rejuv/image66.PNG"
+<img src="/assets/media/rejuv/image66.PNG"
 style="width:6.82292in;height:5.08909in"
 alt="A picture containing text Description automatically generated" />
 
@@ -12030,7 +12028,7 @@ Day,* and:
 
 ZCell 065: Botanical Garden
 
-<img src="bigjra.github.io/images/media/rejuv/image67.png"
+<img src="/assets/media/rejuv/image67.png"
 style="width:6.72917in;height:4.9375in" />
 
 Exit the garden and enter the day care. Give the girl in here $3400 and
@@ -12040,7 +12038,7 @@ Head into the elevator here, and head to the 14th floor to get:
 
 ZCell 066: Dream District
 
-<img src="bigjra.github.io/images/media/rejuv/image68.PNG"
+<img src="/assets/media/rejuv/image68.PNG"
 style="width:6.73964in;height:5.10417in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -12068,7 +12066,7 @@ track gap to the right and head up to get:
 
 ZCell 067: Grand Dream Gate
 
-<img src="bigjra.github.io/images/media/rejuv/image69.png"
+<img src="/assets/media/rejuv/image69.png"
 style="width:6.625in;height:5.01042in" />
 
 Also be sure to pick up *TM19 Secret Power* here. Someone fixed the
@@ -12089,7 +12087,7 @@ Immediately head up as you enter to grab:
 
 ZCell 068: Dream District
 
-<img src="bigjra.github.io/images/media/rejuv/image70.PNG"
+<img src="/assets/media/rejuv/image70.PNG"
 style="width:6.61458in;height:4.98438in"
 alt="Diagram Description automatically generated" />
 
@@ -12138,7 +12136,7 @@ you’ll find:
 
 ZCell 069: Central Square
 
-<img src="bigjra.github.io/images/media/rejuv/image71.png"
+<img src="/assets/media/rejuv/image71.png"
 style="width:6.66667in;height:5in" />
 
 Hidden on the map is *Ether,* 3 *Health Wings, Resist Wing,* 2 *Muscle
@@ -12172,7 +12170,7 @@ Head all the way to the bottom right corner to find:
 
 ZCell 070: Shopping District
 
-<img src="bigjra.github.io/images/media/rejuv/image72.png"
+<img src="/assets/media/rejuv/image72.png"
 style="width:6.61458in;height:5.03125in" />
 
 The bottom row here contains a Hidden Power checker as well as a move
@@ -12245,7 +12243,7 @@ room.
 
 ZCell 071: Dream Complex
 
-<img src="bigjra.github.io/images/media/rejuv/image73.PNG"
+<img src="/assets/media/rejuv/image73.PNG"
 style="width:6.30208in;height:4.76728in"
 alt="Diagram Description automatically generated" />
 
@@ -12412,7 +12410,7 @@ your way to the right side of this room...
 
 ZCell 072: Darchlight Manor
 
-<img src="bigjra.github.io/images/media/rejuv/image74.png"
+<img src="/assets/media/rejuv/image74.png"
 style="width:6.66667in;height:4.98958in" />
 
 Grab the *Old Gateau* and read the notebook. Exit the room.
@@ -12443,7 +12441,7 @@ Darchlight Manor (Outside)
 
 ZCell 073: Darchlight Manor
 
-<img src="bigjra.github.io/images/media/rejuv/image75.PNG"
+<img src="/assets/media/rejuv/image75.PNG"
 style="width:6.78125in;height:5.12087in" />
 
 Hidden out here are 3 *TinyMushrooms.*
@@ -12785,7 +12783,7 @@ At the top, you’ll find:
 
 ZCell 074: Route 9
 
-<img src="bigjra.github.io/images/media/rejuv/image76.png"
+<img src="/assets/media/rejuv/image76.png"
 style="width:6.64583in;height:4.88542in" />
 
 Head down to the bottom part of the route. Here, you’ll encounter wild
@@ -12798,7 +12796,7 @@ Surf up and around to the right here. At the top, you’ll find:
 
 ZCell 075: Route 9
 
-<img src="bigjra.github.io/images/media/rejuv/image77.PNG"
+<img src="/assets/media/rejuv/image77.PNG"
 style="width:6.67708in;height:5.05236in" />
 
 Back on the main part of the route, enter the first cave entrance on the
@@ -12823,7 +12821,7 @@ the crystal and pick up a hidden *Pretty Wing* as well as:
 
 ZCell 076: Forlorned Cavern
 
-<img src="bigjra.github.io/images/media/rejuv/image78.png"
+<img src="/assets/media/rejuv/image78.png"
 style="width:6.63542in;height:4.9375in" />
 
 That’s all we can do in this section of the cave, so head back out and
@@ -12843,7 +12841,7 @@ on the bamboo on the left side to encounter **Komala**! Surf across:
 
 ZCell 077: Route 9
 
-<img src="bigjra.github.io/images/media/rejuv/image79.PNG"
+<img src="/assets/media/rejuv/image79.PNG"
 style="width:7.14583in;height:5.28243in" />
 
 Enter the theater.
@@ -12863,7 +12861,7 @@ While you’re in this room, head to the southeast to grab:
 
 ZCell 078: Rose Theater
 
-<img src="bigjra.github.io/images/media/rejuv/image80.PNG"
+<img src="/assets/media/rejuv/image80.PNG"
 style="width:6.41667in;height:4.79604in"
 alt="A picture containing text Description automatically generated" />
 
@@ -12889,7 +12887,7 @@ covering the optional content within.
 
 ZCell 079: Judicial District
 
-<img src="bigjra.github.io/images/media/rejuv/image81.png"
+<img src="/assets/media/rejuv/image81.png"
 style="width:6.65625in;height:4.97917in" />
 
 Also, use your Itemfinder here for a *Link Heart.*
@@ -13052,7 +13050,7 @@ randomly payoff as follows:
 So, grab what you need from here. Talk to the guy on the left and give
 him a Blue Shard in exchange for a puzzle! Here is the solution:
 
-<img src="bigjra.github.io/images/media/rejuv/image82.png"
+<img src="/assets/media/rejuv/image82.png"
 style="width:2.55208in;height:2.53125in" />
 
 The following link can help you solve this kind of puzzle:
@@ -13929,7 +13927,7 @@ and into the left elevator to engage with these.
 
 ZCell 080: The Underground
 
-<img src="bigjra.github.io/images/media/rejuv/image83.png"
+<img src="/assets/media/rejuv/image83.png"
 style="width:6.73958in;height:5.03125in" />
 
 -   Enter this shop here and talk to the owner. Buy something if you’d
@@ -13991,7 +13989,7 @@ style="width:6.73958in;height:5.03125in" />
 
 ZCell 081: The Underground
 
-<img src="bigjra.github.io/images/media/rejuv/image84.png"
+<img src="/assets/media/rejuv/image84.png"
 style="width:6.67708in;height:5.05208in" />
 
 -   Talk to Dylan again, then head to the east. Go up until a scene
@@ -14451,12 +14449,12 @@ find:
 
 ZCell 082: National Park
 
-<img src="bigjra.github.io/images/media/rejuv/image85.png"
+<img src="/assets/media/rejuv/image85.png"
 style="width:6.6875in;height:5.02083in" />
 
 ZCell 083: National Park
 
-<img src="bigjra.github.io/images/media/rejuv/image86.png"
+<img src="/assets/media/rejuv/image86.png"
 style="width:6.625in;height:5.04167in" />
 
 Hidden around the park is 2 *Revives, Liechi Berry, Lum Berry, Pecha
@@ -14565,7 +14563,7 @@ On B3F, rock climb up here, and you’ll find:
 
 ZCell 084: Voidal Chasm
 
-<img src="bigjra.github.io/images/media/rejuv/image87.png"
+<img src="/assets/media/rejuv/image87.png"
 style="width:6.60417in;height:4.92708in" />
 
 Rock climb up again, and head left and down. Use your Itemfinder for a
@@ -14579,7 +14577,7 @@ get a *White Herb.* Then, head to the top left and rock climb up.
 
 ZCell 085: Voidal Chasm
 
-<img src="bigjra.github.io/images/media/rejuv/image88.png"
+<img src="/assets/media/rejuv/image88.png"
 style="width:6.61458in;height:4.90625in" />
 
 There is also a hidden *Ability Capsule* up here. Back down from here,
@@ -14676,7 +14674,7 @@ Claydol is your man.
 
 ZCell 086: Zorrialyn Desert
 
-<img src="bigjra.github.io/images/media/rejuv/image89.png"
+<img src="/assets/media/rejuv/image89.png"
 style="width:6.61458in;height:4.96875in" />
 
 Hidden in this area you’ll find *Petaya Berry, Occa Berry,* and *Haban
@@ -14690,7 +14688,7 @@ here:
 
 ZCell 087: Zorrialyn Desert (Night Only)
 
-<img src="bigjra.github.io/images/media/rejuv/image90.png"
+<img src="/assets/media/rejuv/image90.png"
 style="width:6.64583in;height:4.94792in" />
 
 Head across the bridge and grab the *Hyper Potion*. There is also a
@@ -14700,7 +14698,7 @@ This one’s a bit hard to spot:
 
 ZCell 088: Zorrialyn Desert (Night Only)
 
-<img src="bigjra.github.io/images/media/rejuv/image91.png"
+<img src="/assets/media/rejuv/image91.png"
 style="width:6.6875in;height:5.01042in" />
 
 Grab the hidden *Big Root, Ether, Lemonade, Reverse Candy,* as you head
@@ -14711,7 +14709,7 @@ then right to get a *Smooth Rock*. Grab:
 
 ZCell 089: Zorrialyn Desert
 
-<img src="bigjra.github.io/images/media/rejuv/image92.png"
+<img src="/assets/media/rejuv/image92.png"
 style="width:6.61458in;height:4.98958in" />
 
 Head back down then go east, and we’ll have completed the loop. Next,
@@ -14754,7 +14752,7 @@ where the cave is being blocked. To the right:
 
 ZCell 090: Zorrialyn Coast
 
-<img src="bigjra.github.io/images/media/rejuv/image93.png"
+<img src="/assets/media/rejuv/image93.png"
 style="width:6.6875in;height:4.96875in" />
 
 Hidden around this map you’ll find 2 *Dusk Balls, Rock Gem, Red Shard,
@@ -14807,7 +14805,7 @@ and you’ll find:
 
 ZCell 091: Sashila Village
 
-<img src="bigjra.github.io/images/media/rejuv/image94.png"
+<img src="/assets/media/rejuv/image94.png"
 style="width:6.67708in;height:5.01042in" />
 
 Enter the building here and talk to a guy inside for a *House Key.* Back
@@ -15380,7 +15378,7 @@ Ruined City
 
 ZCell 092: Ruined City
 
-<img src="bigjra.github.io/images/media/rejuv/image95.png"
+<img src="/assets/media/rejuv/image95.png"
 style="width:6.61458in;height:4.98958in" />
 
 -   Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of
@@ -15399,7 +15397,7 @@ style="width:6.61458in;height:4.98958in" />
 
 ZCell 093: Ruined City
 
-<img src="bigjra.github.io/images/media/rejuv/image96.png"
+<img src="/assets/media/rejuv/image96.png"
 style="width:6.6875in;height:5in" />
 
 -   Prepare yourself and enter the southwest house. Beat the first set
@@ -16296,7 +16294,7 @@ You’ll also find:
 
 ZCell 094: Route 2 (Altered)
 
-<img src="bigjra.github.io/images/media/rejuv/image97.PNG"
+<img src="/assets/media/rejuv/image97.PNG"
 style="width:6.63542in;height:4.98567in"
 alt="A picture containing colorful Description automatically generated" />
 
@@ -16305,7 +16303,7 @@ so he’ll finally move out of the way. At night only, you can get:
 
 ZCell 095: Route 2
 
-<img src="bigjra.github.io/images/media/rejuv/image98.png"
+<img src="/assets/media/rejuv/image98.png"
 style="width:6.61458in;height:5.01042in" />
 
 Also, you can catch **Whimsicott** here (ignore the Flabebe from an
@@ -16700,7 +16698,7 @@ Route 10
 
 You can also catch the overhead **Wingull** and **Pelipper!**
 
-<img src="bigjra.github.io/images/media/rejuv/image99.PNG"
+<img src="/assets/media/rejuv/image99.PNG"
 style="width:4.875in;height:3.42538in"
 alt="A picture containing text, person, orange Description automatically generated" />
 
@@ -16827,7 +16825,7 @@ First, head down and to the left.
 
 ZCell 096: Zone Zero Outskirts
 
-<img src="bigjra.github.io/images/media/rejuv/image100.png"
+<img src="/assets/media/rejuv/image100.png"
 style="width:6.625in;height:4.97917in" />
 
 Enter the zone to the north. There are some Xen Grunts selling stuff
@@ -16862,7 +16860,7 @@ to the panel with your electric type to light it up.
 
 ZCell 097: Abandoned Apartments
 
-<img src="bigjra.github.io/images/media/rejuv/image101.png"
+<img src="/assets/media/rejuv/image101.png"
 style="width:6.64583in;height:4.98958in" />
 
 After the short dialogue scene, enter the second door upstairs. Smash
@@ -16936,7 +16934,7 @@ Head down to the bottom to find:
 
 ZCell 098: Zone Zero
 
-<img src="bigjra.github.io/images/media/rejuv/image102.png"
+<img src="/assets/media/rejuv/image102.png"
 style="width:6.6875in;height:5.02083in" />
 
 Head up and to the right. In the bottom corner of this area, grab *TM93
@@ -17140,7 +17138,7 @@ After a scene, go left:
 
 ZCell 099: Zone Zero
 
-<img src="bigjra.github.io/images/media/rejuv/image103.png"
+<img src="/assets/media/rejuv/image103.png"
 style="width:6.70833in;height:5.05208in" />
 
 Also grab the *Fire Stone* above. When you’re ready, enter the stairs to
@@ -17177,7 +17175,7 @@ find:
 
 ZCell 100: Zone Zero
 
-<img src="bigjra.github.io/images/media/rejuv/image104.png"
+<img src="/assets/media/rejuv/image104.png"
 style="width:6.71875in;height:4.96875in" />
 
 Head up and to the left for one more cutscene.
@@ -17196,7 +17194,7 @@ the left you’ll find:
 
 ZCell 101: Eclysia Pyramid
 
-<img src="bigjra.github.io/images/media/rejuv/image105.png"
+<img src="/assets/media/rejuv/image105.png"
 style="width:6.64583in;height:4.98958in" />
 
 Enter the spring at the top and watch the scenes play out. Next, we’re
@@ -17294,7 +17292,7 @@ You’ll also find this, in the room with hoverboard dude:
 
 ZCell 102: Eclysia Pyramid
 
-<img src="bigjra.github.io/images/media/rejuv/image106.png"
+<img src="/assets/media/rejuv/image106.png"
 style="width:6.64583in;height:4.96875in" />
 
 Emerge at the Eclysia Skyview!
@@ -17524,7 +17522,7 @@ here, you can grab:
 
 ZCell 103: Apartment Depths
 
-<img src="bigjra.github.io/images/media/rejuv/image107.png"
+<img src="/assets/media/rejuv/image107.png"
 style="width:6.64583in;height:5.02083in" />
 
 Head up after grabbing this cell to get an *Ability Capsule!* Then, head
@@ -17649,7 +17647,7 @@ follows:
 
 ZCell 104: Lux Apartments
 
-<img src="bigjra.github.io/images/media/rejuv/image108.png"
+<img src="/assets/media/rejuv/image108.png"
 style="width:6.66667in;height:4.96875in" />
 
 -   Reenter 2C, then go out the 2B door. Use the key on 1C in the bottom
@@ -17663,7 +17661,7 @@ Also:
 
 ZCell 105: Zone Zero Gible Cage
 
-<img src="bigjra.github.io/images/media/rejuv/image109.png"
+<img src="/assets/media/rejuv/image109.png"
 style="width:6.67708in;height:4.98958in" />
 
 ## Do the Dive (Floria) - DDiveF1
@@ -19204,7 +19202,7 @@ grab:
 
 ZCore 1: Sand Stream Cave
 
-<img src="bigjra.github.io/images/media/rejuv/image110.png"
+<img src="/assets/media/rejuv/image110.png"
 style="width:6.63542in;height:5.02083in" />
 
 Fly back to Gearen and talk to Ayuda to get **Zygarde 10%!** It’s not
@@ -19883,7 +19881,7 @@ downstairs on the left, you’ll find:
 
 ZCell 106: Axis High University
 
-<img src="bigjra.github.io/images/media/rejuv/image111.png"
+<img src="/assets/media/rejuv/image111.png"
 style="width:6.40804in;height:4.76594in" />
 
 Then, head upstairs in the middle, and talk to Huey.
@@ -19901,7 +19899,7 @@ In another room on this floor you’ll find:
 
 ZCell 107: Axis High University
 
-<img src="bigjra.github.io/images/media/rejuv/image112.PNG"
+<img src="/assets/media/rejuv/image112.PNG"
 style="width:6.96667in;height:5.23465in"
 alt="A screenshot of a computer game Description automatically generated with low confidence" />
 
@@ -21197,7 +21195,7 @@ the left. You’ll find **Aevian Munna** roaming about!
 
 ZCell 108: Hidden Axis Lab
 
-<img src="bigjra.github.io/images/media/rejuv/image113.PNG"
+<img src="/assets/media/rejuv/image113.PNG"
 style="width:6.26542in;height:4.69167in"
 alt="A picture containing electronics, computer Description automatically generated" />
 
@@ -22292,252 +22290,252 @@ Melmetal**
 <tr class="odd">
 <td><p>1</p>
 <p>-10</p></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image114.png"
+<td><img src="/assets/media/rejuv/image114.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image115.png"
+<td><img src="/assets/media/rejuv/image115.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image116.png"
+<td><img src="/assets/media/rejuv/image116.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image117.png"
+<td><img src="/assets/media/rejuv/image117.png"
 style="width:0.63095in;height:0.63095in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image118.png"
+<td><img src="/assets/media/rejuv/image118.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image123.png"
+<td><img src="/assets/media/rejuv/image123.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image124.png"
+<td><img src="/assets/media/rejuv/image124.png"
 style="width:0.64583in;height:0.64583in" /></td>
 </tr>
 <tr class="even">
 <td>11-20</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image115.png"
+<td><img src="/assets/media/rejuv/image115.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image116.png"
+<td><img src="/assets/media/rejuv/image116.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image117.png"
+<td><img src="/assets/media/rejuv/image117.png"
 style="width:0.63095in;height:0.63095in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image118.png"
+<td><img src="/assets/media/rejuv/image118.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image124.png"
+<td><img src="/assets/media/rejuv/image124.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image123.png"
+<td><img src="/assets/media/rejuv/image123.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="odd">
 <td>21-30</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image116.png"
+<td><img src="/assets/media/rejuv/image116.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image117.png"
+<td><img src="/assets/media/rejuv/image117.png"
 style="width:0.63095in;height:0.63095in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image118.png"
+<td><img src="/assets/media/rejuv/image118.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image123.png"
+<td><img src="/assets/media/rejuv/image123.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image127.png"
+<td><img src="/assets/media/rejuv/image127.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="even">
 <td>31-40</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image117.png"
+<td><img src="/assets/media/rejuv/image117.png"
 style="width:0.63095in;height:0.63095in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image118.png"
+<td><img src="/assets/media/rejuv/image118.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image127.png"
+<td><img src="/assets/media/rejuv/image127.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image129.png"
+<td><img src="/assets/media/rejuv/image129.png"
 style="width:0.62917in;height:0.62917in" /></td>
 </tr>
 <tr class="odd">
 <td>41-50</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image118.png"
+<td><img src="/assets/media/rejuv/image118.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image129.png"
+<td><img src="/assets/media/rejuv/image129.png"
 style="width:0.62917in;height:0.62917in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image127.png"
+<td><img src="/assets/media/rejuv/image127.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="even">
 <td>51-60</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image119.png"
+<td><img src="/assets/media/rejuv/image119.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image127.png"
+<td><img src="/assets/media/rejuv/image127.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image129.png"
+<td><img src="/assets/media/rejuv/image129.png"
 style="width:0.62917in;height:0.62917in" /></td>
 </tr>
 <tr class="odd">
 <td>61-70</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image120.png"
+<td><img src="/assets/media/rejuv/image120.png"
 style="width:0.64583in;height:0.64583in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image132.png"
+<td><img src="/assets/media/rejuv/image132.png"
 style="width:0.66071in;height:0.66071in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image129.png"
+<td><img src="/assets/media/rejuv/image129.png"
 style="width:0.62917in;height:0.62917in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image133.png"
+<td><img src="/assets/media/rejuv/image133.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="even">
 <td>71-80</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image121.png"
+<td><img src="/assets/media/rejuv/image121.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image132.png"
+<td><img src="/assets/media/rejuv/image132.png"
 style="width:0.66071in;height:0.66071in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image133.png"
+<td><img src="/assets/media/rejuv/image133.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image134.png"
+<td><img src="/assets/media/rejuv/image134.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="odd">
 <td>81-90</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image122.png"
+<td><img src="/assets/media/rejuv/image122.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image132.png"
+<td><img src="/assets/media/rejuv/image132.png"
 style="width:0.66071in;height:0.66071in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image133.png"
+<td><img src="/assets/media/rejuv/image133.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image134.png"
+<td><img src="/assets/media/rejuv/image134.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image135.png"
+<td><img src="/assets/media/rejuv/image135.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 <tr class="even">
 <td>91+</td>
-<td><img src="bigjra.github.io/images/media/rejuv/image125.png"
+<td><img src="/assets/media/rejuv/image125.png"
 style="width:0.65in;height:0.65in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image126.png"
+<td><img src="/assets/media/rejuv/image126.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image128.png"
+<td><img src="/assets/media/rejuv/image128.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image130.png"
+<td><img src="/assets/media/rejuv/image130.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image132.png"
+<td><img src="/assets/media/rejuv/image132.png"
 style="width:0.66071in;height:0.66071in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image131.png"
+<td><img src="/assets/media/rejuv/image131.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image133.png"
+<td><img src="/assets/media/rejuv/image133.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image136.png"
+<td><img src="/assets/media/rejuv/image136.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image135.png"
+<td><img src="/assets/media/rejuv/image135.png"
 style="width:0.66667in;height:0.66667in" /></td>
-<td><img src="bigjra.github.io/images/media/rejuv/image134.png"
+<td><img src="/assets/media/rejuv/image134.png"
 style="width:0.66667in;height:0.66667in" /></td>
 </tr>
 </tbody>
