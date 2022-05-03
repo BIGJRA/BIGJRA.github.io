@@ -475,6 +475,11 @@ cells, tutors, Pokémon Locations, and more!
 -   <a href="#appendices" id="toc-appendices">Appendices</a>
     -   <a href="#complete-the-v13-dex-v13dex1"
         id="toc-complete-the-v13-dex-v13dex1">Complete the V13 Dex – V13Dex1</a>
+        - <a href="#must-breed" id="toc-must-breed">Must Breed</a>
+        - <a href="#must-evolve-by-level" id="toc-must-evolve-by-level">Must Evolve by Level</a>
+        - <a href="#must-evolve-by-item" id="toc-must-evolve-by-item">Must Evolve by Item</a>
+        - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
+        - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
     -   <a href="#v13-unobtainable-pokemon-v13unob1"
         id="toc-v13-unobtainable-pokemon-v13unob1">V13 Unobtainable Pokemon –
         V13Unob1</a>
@@ -21514,7 +21519,7 @@ a Ghost/Fighting type and go nuts, you’ll get Exp. Candy for winning.
 Friendship berries are available at Maman’s Camp. As for item evolutions
 – they’re all available in the Shopping District.
 
-<u>Must Breed:</u>
+### Must Breed 
 
 | Pokemon | Incense (if any) |
 | --- | --- |
@@ -21525,7 +21530,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Pikipek**||
 |**Alolan Geodude**||
 
-<u>Must Evolve by Level (incl. move learning levels\*):</u>
+### Must Evolve by Level 
 
 |Pokemon|Level|
 |---|---|
@@ -21654,7 +21659,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**AevianLampent**|34\*|
 |**AevianPalossand**|42|
 
-<u>Must Evolve by Items:</u>
+### Must Evolve by Items
 
 |Pokemon|Items|
 |---|---|
@@ -21714,7 +21719,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Aevian Chandelure**|Thunderstone|
 |**Aevian Toxtricity**|Fire Stone|
 
-<u>Must Evolve by Friendship:</u>
+### Must Evolve by Friendship
 
 |Pokemon|Time (if any)|
 |---|---|
@@ -21727,7 +21732,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Alolan Persian**||
 |**Aevian Roselia**|Day|
 
-<u>Must Evolve by Other Means:</u>
+### Must Evolve by Other Means
 
 |Pokemon|Condition|
 |---|---|
@@ -21748,8 +21753,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Vikavolt**|Level in: Terajuma Jungle|
 |**Obstagoon**|35, Nighttime|
 |**Sirfetch’d**|Get 3 crits in one battle|
-|**Runerigus**|Take at least 49 damage without dying during a battle in
-Wispy Ruins|
+|**Runerigus**|Take at least 49 damage without dying during a battle in Wispy Ruins|
 |**Alolan Raticate**|20, Nighttime|
 |**Alolan Marowak**|28, Nighttime|
 |**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock|
