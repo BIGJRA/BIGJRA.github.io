@@ -100,7 +100,7 @@ cells, tutors, Pokemon Locations, and more!
         id="toc-normality-badge---badge03">Normality Badge - Badge03</a>
 -   <a href="#chapter-4-isolation" id="toc-chapter-4-isolation">Chapter 4
     Isolation</a>
-    -   <a href="#badge-quests---3bquest1" id="toc-badge-quests---3bquest1">3
+    -   <a href="#3-badge-quests---3bquest1" id="toc-3-badge-quests---3bquest1">3
         Badge Quests - 3BQuest1</a>
     -   <a href="#route-3-and-phasial-cave---3route1"
         id="toc-route-3-and-phasial-cave---3route1">Route 3 and Phasial Cave -
@@ -215,7 +215,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#amethyst-cave-2nd-visit---acave2"
         id="toc-amethyst-cave-2nd-visit---acave2">Amethyst Cave 2<sup>nd</sup>
         Visit - ACave2</a>
-    -   <a href="#lost-camp-pt-2-lcamp2" id="toc-lost-camp-pt-2-lcamp2">Lost
+    -   <a href="#lost-camp-pt-2---lcamp2" id="toc-lost-camp-pt-2---lcamp2">Lost
         Camp Pt. 2 - LCamp2</a>
     -   <a href="#carotos-mountain-2nd-visit---carotos2"
         id="toc-carotos-mountain-2nd-visit---carotos2">Carotos Mountain 2nd
@@ -236,7 +236,7 @@ cells, tutors, Pokemon Locations, and more!
         -   <a href="#scaling-mt-valor-both-routes-converge"
             id="toc-scaling-mt-valor-both-routes-converge">Scaling Mt. Valor (Both
             Routes Converge)</a>
-    -   <a href="#valor-summit-vsumm1" id="toc-valor-summit-vsumm1">Valor Summit
+    -   <a href="#valor-summit---vsumm1" id="toc-valor-summit---vsumm1">Valor Summit
         \- VSumm1</a>
     -   <a href="#post-valor-quests---pvquest1"
         id="toc-post-valor-quests---pvquest1">Post-Valor Quests - PVQuest1</a>
@@ -258,8 +258,8 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#west-gearen-city-help-quests---wghelp1"
         id="toc-west-gearen-city-help-quests---wghelp1">West Gearen City Help
         Quests - WGHelp1</a>
-    -   <a href="#route-4-eight-badge-update-4route3"
-        id="toc-route-4-eight-badge-update-4route3">Route 4 Eight Badge Update -
+    -   <a href="#route-4-eight-badge-update---4route3"
+        id="toc-route-4-eight-badge-update---4route3">Route 4 Eight Badge Update -
         4Route3</a>
     -   <a href="#pulse-badge---badge09" id="toc-pulse-badge---badge09">Pulse
         Badge - Badge09</a>
@@ -305,16 +305,16 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#residential-district-1st-visit---residd1"
         id="toc-residential-district-1st-visit---residd1">Residential District
         1st Visit - ResidD1</a>
-    -   <a href="#story-split-1-ssplit1" id="toc-story-split-1-ssplit1">Story
+    -   <a href="#story-split-1---ssplit1" id="toc-story-split-1---ssplit1">Story
         Split 1 - SSplit1</a>
-    -   <a href="#the-nightmare-medallion-nmmedal1"
-        id="toc-the-nightmare-medallion-nmmedal1">The Nightmare Medallion -
+    -   <a href="#the-nightmare-medallion---nmmedal1"
+        id="toc-the-nightmare-medallion---nmmedal1">The Nightmare Medallion -
         NMMedal1</a>
     -   <a href="#darchlight-manor-second-visit---dlmanor2"
         id="toc-darchlight-manor-second-visit---dlmanor2">Darchlight Manor
         Second Visit - DLManor2</a>
-    -   <a href="#nightmare-city-nmcity1"
-        id="toc-nightmare-city-nmcity1">Nightmare City - NMCity1</a>
+    -   <a href="#nightmare-city---nmcity1"
+        id="toc-nightmare-city---nmcity1">Nightmare City - NMCity1</a>
     -   <a href="#trickery-badge---badge11"
         id="toc-trickery-badge---badge11">Trickery Badge - Badge11</a>
     -   <a href="#route-9-first-visit---9route1"
@@ -326,12 +326,12 @@ cells, tutors, Pokemon Locations, and more!
     id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love
     You</a>
     -   <a href="#judicial-district-jdist1"
-        id="toc-judicial-district-jdist1">Judicial District - JDist1</a>
+        id="toc-judicial-district---jdist1">Judicial District --- JDist1</a>
     -   <a href="#kimono-girls-quest---kimonogq"
         id="toc-kimono-girls-quest---kimonogq">Kimono Girls Quest - KimonoGQ</a>
-    -   <a href="#axis-high-university-1st-visit--axishiu1"
-        id="toc-axis-high-university-1st-visit--axishiu1">Axis High University
-        1<sup>st</sup> Visit- AxisHiU1</a>
+    -   <a href="#axis-high-university-1st-visit---axishiu1"
+        id="toc-axis-high-university-1st-visit---axishiu1">Axis High University
+        1<sup>st</sup> Visit - AxisHiU1</a>
     -   <a href="#district-of-hope---hopedist1"
         id="toc-district-of-hope---hopedist1">District of Hope - HopeDist1</a>
     -   <a href="#aevium-past-2nd-visit---pasta2"
@@ -343,10 +343,10 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#aevium-past-2nd-visit-part-2---pasta25"
         id="toc-aevium-past-2nd-visit-part-2---pasta25">Aevium (Past) 2nd Visit
         Part 2 - PastA2.5</a>
-    -   <a href="#ana-quest-part-1-anaquest1"
-        id="toc-ana-quest-part-1-anaquest1">ANA Quest Part 1 - ANAQuest1</a>
-    -   <a href="#classified-information-quest-classinf1"
-        id="toc-classified-information-quest-classinf1">Classified Information
+    -   <a href="#ana-quest-part-1---anaquest1"
+        id="toc-ana-quest-part-1---anaquest1">ANA Quest Part 1 - ANAQuest1</a>
+    -   <a href="#classified-information-quest---classinf1"
+        id="toc-classified-information-quest---classinf1">Classified Information
         Quest - ClassInf1</a>
     -   <a href="#golden-wing-badge---badge12"
         id="toc-golden-wing-badge---badge12">Golden Wing Badge - Badge12</a>
@@ -360,10 +360,10 @@ cells, tutors, Pokemon Locations, and more!
         Lies - WLLNote</a>
     -   <a href="#scholar-district---scholard1"
         id="toc-scholar-district---scholard1">Scholar District - ScholarD1</a>
-    -   <a href="#lost-camp-pt-3-lcamp3" id="toc-lost-camp-pt-3-lcamp3">Lost
+    -   <a href="#lost-camp-pt-3---lcamp3" id="toc-lost-camp-pt-3---lcamp3">Lost
         Camp Pt. 3 - LCamp3</a>
-    -   <a href="#ana-quest-part-2-anaquest2"
-        id="toc-ana-quest-part-2-anaquest2">ANA Quest Part 2 - ANAQuest2</a>
+    -   <a href="#ana-quest-part-2---anaquest2"
+        id="toc-ana-quest-part-2---anaquest2">ANA Quest Part 2 - ANAQuest2</a>
     -   <a href="#voidal-chasm-1st-visit---voidalc1"
         id="toc-voidal-chasm-1st-visit---voidalc1">Voidal Chasm 1st Visit -
         VoidalC1</a>
@@ -389,8 +389,8 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#vs-ren-sashila-help-quests---svhelpq1"
         id="toc-vs-ren-sashila-help-quests---svhelpq1">VS. Ren, Sashila Help
         Quests - SVHelpQ1</a>
-    -   <a href="#sand-stream-cave-sscave1"
-        id="toc-sand-stream-cave-sscave1">Sand Stream Cave - SSCave1 </a>
+    -   <a href="#sand-stream-cave---sscave1"
+        id="toc-sand-stream-cave---sscave1">Sand Stream Cave - SSCave1 </a>
     -   <a href="#zorrialyn-labyrinth-1st-visit-zorlab1"
         id="toc-zorrialyn-labyrinth-1st-visit-zorlab1">Zorrialyn Labyrinth
         1<sup>st</sup> Visit - ZorLab1</a>
@@ -405,11 +405,11 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#neo-gearen-city-side-quests---neogs1"
         id="toc-neo-gearen-city-side-quests---neogs1">Neo Gearen City + Side
         Quests - NeoGS1</a>
-    -   <a href="#route-4-thirteen-badge-update-4route4"
-        id="toc-route-4-thirteen-badge-update-4route4">Route 4 Thirteen Badge
+    -   <a href="#route-4-thirteen-badge-update---4route4"
+        id="toc-route-4-thirteen-badge-update---4route4">Route 4 Thirteen Badge
         Update - 4Route4</a>
-    -   <a href="#route-10-first-visit-10route1"
-        id="toc-route-10-first-visit-10route1">Route 10 First Visit -
+    -   <a href="#route-10-first-visit---10route1"
+        id="toc-route-10-first-visit---10route1">Route 10 First Visit -
         10Route1</a>
     -   <a href="#nastasias-ship---nship1"
         id="toc-nastasias-ship---nship1">Nastasia’s Ship - NShip1</a>
@@ -430,13 +430,13 @@ cells, tutors, Pokemon Locations, and more!
         DDiveT2</a>
     -   <a href="#kingdom-of-goomidra---goomyq1"
         id="toc-kingdom-of-goomidra---goomyq1">Kingdom of Goomidra - GoomyQ1</a>
-    -   <a href="#zorrialyn-labyrinth-2nd-visit-zorlab2"
-        id="toc-zorrialyn-labyrinth-2nd-visit-zorlab2">Zorrialyn Labyrinth
+    -   <a href="#zorrialyn-labyrinth-2nd-visit---zorlab2"
+        id="toc-zorrialyn-labyrinth-2nd-visit---zorlab2">Zorrialyn Labyrinth
         2<sup>nd</sup> Visit - ZorLab2</a>
-    -   <a href="#aquarium-side-quest-aquasq1"
+    -   <a href="#aquarium-side-quest---aquasq1"
         id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest - AquaSQ1</a>
-    -   <a href="#ana-quest-part-3-anaquest3"
-        id="toc-ana-quest-part-3-anaquest3">Ana Quest Part 3 - AnaQuest3</a>
+    -   <a href="#ana-quest-part-3---anaquest3"
+        id="toc-ana-quest-part-3---anaquest3">Ana Quest Part 3 - AnaQuest3</a>
     -   <a href="#hospital-of-ruin-2nd-visit---hospruin2"
         id="toc-hospital-of-ruin-2nd-visit---hospruin2">Hospital of Ruin (2nd
         Visit) - HospRuin2</a>
@@ -446,12 +446,12 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#department-store-and-deino---dsdeino1"
         id="toc-department-store-and-deino---dsdeino1">Department Store and
         Deino - DSDeino1</a>
-    -   <a href="#zygarde-10-form-zy10per1"
-        id="toc-zygarde-10-form-zy10per1">Zygarde 10% Form - Zy10Per1</a>
+    -   <a href="#zygarde-10-form---zy10per1"
+        id="toc-zygarde-10-form---zy10per1">Zygarde 10% Form - Zy10Per1</a>
 -   <a href="#chapter-15-vague-clarity"
     id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
-    -   <a href="#league-administration-1st-visit-ladmin1"
-        id="toc-league-administration-1st-visit-ladmin1">League Administration
+    -   <a href="#league-administration-1st-visit---ladmin1"
+        id="toc-league-administration-1st-visit---ladmin1">League Administration
         1<sup>st</sup> Visit - LAdmin1</a>
         -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01 - Vs.
             Melia</a>
@@ -468,40 +468,40 @@ cells, tutors, Pokemon Locations, and more!
             Pt. 2</a>
         -   <a href="#day-29---graduation" id="toc-day-29---graduation">Day 29 -
             Graduation</a>
-    -   <a href="#diamond-route-diaroute1"
+    -   <a href="#diamond-route---diaroute1"
         id="toc-diamond-route-diaroute1">Diamond Route - DiaRoute1</a>
-    -   <a href="#pearl-route-pearoute1" id="toc-pearl-route-pearoute1">Pearl
+    -   <a href="#pearl-route---pearoute1" id="toc-pearl-route---pearoute1">Pearl
         Route - PeaRoute1</a>
-    -   <a href="#axis-high-university-2nd-visit-axishiu2"
-        id="toc-axis-high-university-2nd-visit-axishiu2">Axis High University
+    -   <a href="#axis-high-university-2nd-visit---axishiu2"
+        id="toc-axis-high-university-2nd-visit---axishiu2">Axis High University
         2nd Visit - AxisHiU2</a>
-    -   <a href="#aelita-school-route-aelroute1"
-        id="toc-aelita-school-route-aelroute1">Aelita School Route -
+    -   <a href="#aelita-school-route---aelroute1"
+        id="toc-aelita-school-route---aelroute1">Aelita School Route -
         AelRoute1</a>
-    -   <a href="#mc-school-route-mcroute1" id="toc-mc-school-route-mcroute1">MC
+    -   <a href="#mc-school-route---mcroute1" id="toc-mc-school-route---mcroute1">MC
         School Route - MCRoute1</a>
-    -   <a href="#axis-high-university-3rd-visit-axishiu3"
-        id="toc-axis-high-university-3rd-visit-axishiu3">Axis High University
+    -   <a href="#axis-high-university-3rd-visit---axishiu3"
+        id="toc-axis-high-university-3rd-visit---axishiu3">Axis High University
         3rd Visit - AxisHiU3</a>
-    -   <a href="#forgery-badge-badge15" id="toc-forgery-badge-badge15">Forgery
+    -   <a href="#forgery-badge---badge15" id="toc-forgery-badge---badge15">Forgery
         Badge - Badge15</a>
-    -   <a href="#post-v13-items-pv13it1" id="toc-post-v13-items-pv13it1">Post
+    -   <a href="#post-v13-items---pv13it1" id="toc-post-v13-items---pv13it1">Post
         V13 Items - PV13It1</a>
 -   <a href="#appendices" id="toc-appendices">Appendices</a>
-    -   <a href="#complete-the-v13-dex-v13dex1"
-        id="toc-complete-the-v13-dex-v13dex1">Complete the V13 Dex - V13Dex1</a>
+    -   <a href="#complete-the-v13-dex---v13dex1"
+        id="toc-complete-the-v13-dex---v13dex1">Complete the V13 Dex - V13Dex1</a>
         - <a href="#must-breed" id="toc-must-breed">Must Breed</a>
         - <a href="#must-evolve-by-level" id="toc-must-evolve-by-level">Must Evolve by Level</a>
         - <a href="#must-evolve-by-item" id="toc-must-evolve-by-item">Must Evolve by Item</a>
         - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
         - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
-    -   <a href="#v13-unobtainable-pokemon-v13unob1"
-        id="toc-v13-unobtainable-pokemon-v13unob1">V13 Unobtainable Pokemon -
+    -   <a href="#v13-unobtainable-pokemon---v13unob1"
+        id="toc-v13-unobtainable-pokemon---v13unob1">V13 Unobtainable Pokemon -
         V13Unob1</a>
-    -   <a href="#pickup-table-pickup1" id="toc-pickup-table-pickup1">Pickup
+    -   <a href="#pickup-table---pickup1" id="toc-pickup-table---pickup1">Pickup
         Table - PickUp1</a>
-    -   <a href="#crest-descriptions-crestd1"
-        id="toc-crest-descriptions-crestd1">Crest Descriptions - CrestD1</a>
+    -   <a href="#crest-descriptions---crestd1"
+        id="toc-crest-descriptions---crestd1">Crest Descriptions - CrestD1</a>
 
 # Chapter 1: Shipwrecked
 
