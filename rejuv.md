@@ -543,9 +543,7 @@ Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
 
 Relationship Point Choices:
-
 - I’m fine. (Mom +2)
-
 - ... (Mom -1)
 
 Once you’ve talked to Nancy and can roam, explore the S.S. Oceana. In
@@ -591,14 +589,12 @@ bars during important cutscenes if you want. Talk to the girl behind the
 counter to buy some basic products:
 
 <u>Gearen Lab Shop</u>:
-
-*Poke Ball* $200
-
-*Potion* $300
-
-*Repel* $350
-
-*Antidote* $100
+|Item|Price|
+|---|---|
+|*Poke Ball*|$200|
+|*Potion*|$300|
+|*Repel*|$350|
+|*Antidote*|$100|
 
 You start with $1,500. I recommend picking up at least a few Poke balls
 to catch some team members soon, as a full team is almost necessary to
@@ -613,53 +609,30 @@ right side, it will randomly choose for you among the 24 starters.
 
 <u>Starter Choices (Pick ONE)</u>:
 
-**Bulbasaur**
-
-**Charmander**
-
-**Squirtle**
-
-**Chikorita**
-
-**Cyndaquil**
-
-**Totodile**
-
-**Treecko**
-
-**Torchic**
-
-**Mudkip**
-
-**Turtwig**
-
-**Chimchar**
-
-**Piplup**
-
-**Snivy**
-
-**Tepig**
-
-**Oshawott**
-
-**Chespin**
-
-**Fennekin**
-
-**Froakie**
-
-**Rowlet**
-
-**Litten**
-
-**Popplio**
-
-**Rowlet**
-
-**Scorbunny**
-
-**Sobble**
+- **Bulbasaur**
+- **Charmander**
+- **Squirtle**
+- **Chikorita**
+- **Cyndaquil**
+- **Totodile**
+- **Treecko**
+- **Torchic**
+- **Mudkip**
+- **Turtwig**
+- **Chimchar**
+- **Piplup**
+- **Snivy**
+- **Tepig**
+- **Oshawott**
+- **Chespin**
+- **Fennekin**
+- **Froakie**
+- **Rowlet**
+- **Litten**
+- **Popplio**
+- **Grookey**
+- **Scorbunny**
+- **Sobble**
 
 As in Reborn, Speed Boost Torchic is arguably the strongest choice --
 but all the starters can be useful in their own ways. The first gym
@@ -677,9 +650,7 @@ Aevium Scout Amanda! You can win or lose this battle.
 <u>League Scout Amanda (No Field)</u>
 
 -   Hatenna, Level 5.
-
     -   Tackle
-
     -   Play Nice
 
 Note that in this game you can press “S” to check the stats of all the
@@ -690,9 +661,7 @@ Head to talk to Jenner and you’ll fight:
 <u>Pokemon Trainer Ren (No Field)</u>
 
 -   Froakie, Level 5.
-
     -   Pound
-
     -   Growl
 
 After the fight with Ren, Jenner asks you to visit Route 1 to help
@@ -715,9 +684,8 @@ some Pokémon to assist your starter.
 
 Left East Gearen City
 
-|                       |          |                   |          |                      |          |
+| Grass: Morning        | %        |Grass: Day         | %        | Grass: Night</u>     | %        |
 |-----------------------|----------|-------------------|----------|----------------------|----------|
-| <u>Grass: Morning</u> | <u>%</u> | <u>Grass: Day</u> | <u>%</u> | <u>Grass: Night</u>  | <u>%</u> |
 | **Rattata (Alolan)**  | 30       | **Bidoof**        | 30       | **Rattata (Alolan)** | 30       |
 | **Wurmple**           | 25       | **Wurmple**       | 25       | **Wurmple**          | 25       |
 | **Pidgey**            | 15       | **Pidove**        | 15       | **Poochyena**        | 15       |
@@ -793,11 +761,11 @@ want to.
 
 <u>Library Move Tutor</u>
 
-Bind 1 Red Shard
-
-Covet 1 Blue Shard
-
-Helping Hand 1 Yellow Shard
+|Move|Price|
+|---|---|
+|Bind |1 Red Shard|
+|Covet |1 Blue Shard|
+|Helping Hand |1 Yellow Shard|
 
 The building on the left of the library is the Gearen Help Center. We’ll
 be returning here later.
@@ -816,13 +784,13 @@ Two tiles up and two tiles right of the grandma on the bench is a hidden
 You can interact with a Nidoran in this map. Follow it to these
 locations:
 
-1\. First encounter -- northeast by Emerald building.
+1. First encounter -- northeast by Emerald building.
 
-2\. Northwest by train station.
+2. Northwest by train station.
 
-3\. East side of the city near bridge, next to dumpster
+3. East side of the city near bridge, next to dumpster
 
-4\. North side, south of library near some dumpsters
+4. North side, south of library near some dumpsters
 
 After this encounter you can interact with it and battle it. **Nidoran
 F** is at level 5.
