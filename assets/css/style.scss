@@ -5,13 +5,10 @@
 
 #main_content_wrap {
     width: 100%;
+    overflow: auto;
 }
 p img {
     object-fit: contain
-}
-
-table {
-    overflow: auto;
 }
 
 ul {
@@ -27,3 +24,8 @@ table img {
   -o-box-shadow: 0 0 0px #ebebeb;
   -ms-box-shadow: 0 0 0px #ebebeb;
 }
+
+td {
+    padding: 0px;
+    border: 1px solid #373737;
+   }
