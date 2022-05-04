@@ -295,7 +295,6 @@ Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
 
 Relationship Point Choices:
-
 - I’m fine. (Mom +2)
 - ... (Mom -1)
 
@@ -800,7 +799,6 @@ a bit, and see a cutscene. Head to the Emporium to get a *Pecha Berry?*
 from the attendant. Give it to Venam.
 
 Relationship Point Choices:
-
 - All me. (Venam +2)
 - Maybe… (Venam +1)
 - No, actually. (Neutral)
@@ -927,12 +925,10 @@ In Gearen Park, talk to Melia for an optional scene for Relationship
 Points (Melia +3).
 
 Relationship Point Choices:
-
 - You like photography? (Melia +1)
 - What are you doing? (Neutral)
 
 Relationship Point Choices:
-
 - I love photography! (Melia +2)
 - I appreciate the art! (Melia +1)
 - It's not for me. (Neutral)
@@ -1251,7 +1247,6 @@ can be threatening if it sets up. This battle isn’t super hard with a
 good flying type or two, or probably most well-rounded sixes.
 
 Relationship Point Choices:
-
 - You should stop. (RorimB -1)
 - Yeah, he’s a jerk. (RorimB +2)
 - The other guests...? (RorimB +1)
@@ -1322,7 +1317,6 @@ Head north and enjoy a great cutscene montage with Melia. Once you
 regain control, interact with Drifblim.
 
 Relationship Point Choices:
-
 - It was no bother! (Narcissa +1)
 - It was a complete bother. (Narcissa -1)
 
@@ -1398,7 +1392,6 @@ Forest/Cave area, as we won’t be able to come back for a little while.
 Anyways, heal your team and talk to Melia.
 
 Relationship Point Choices:
-
 - I will cherish it too! (Melia +5)
 - It was a good time. (Melia +2)
 - it was okay, I guess. (Melia -1)
@@ -1819,8 +1812,7 @@ going last, so have something with enough special defense to take their
 Electric/Bug/Poison attacks and hit back hard. Venam and Ren are both
 worthy partners here.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - You think I can do it? (Neutral)  
 - Where do I go next? (Ren +2)
 
@@ -1887,7 +1879,6 @@ boosted in this field, so if you have it on your special attackers,
 especially those with type advantages, you’ll be fine.
 
 Relationship Point Choices:
-
 - Yes (Nim +2)  
 - No. (Nim -2)
 
@@ -1903,8 +1894,7 @@ money to heal here, so we’re gonna start by heading all the way north
 into Sheridan Arena. Then knock on Keta’s door at the very top, then
 enter the inn back in the village. Head upstairs.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - I will. (Aelita +3)  
 - Why me?? (Aelita -1)
 
@@ -2031,7 +2021,6 @@ Head up and talk to the **Swablu** flying overhead for a battle. Return
 to Keta’s house and talk to him in his garden.
 
 Relationship Point Choices:
-
 - I am. (Keta +2)  
 - But i just got here... (Keta -2)
 
@@ -2279,7 +2268,6 @@ waterfall cave.
 ## Carotos Mountain - CMount1
 
 Relationship Point Choices:
-
 - Yes. (Aelita +1)  
 - No. (Aelita -1)
 
@@ -2421,7 +2409,6 @@ Pick up the *Magical Seed* up from the entrance. Head up and talk to the
 pair.
 
 Relationship Point Choices:
-
 - Are you ok? (+1 Karma)  
 - Who’s Vivian? (Neutral)
 
@@ -2543,7 +2530,6 @@ sometimes. Putting Miltank to sleep long enough to knock it is one way
 to win this one. Anyways, after battle, she’ll give you *HM01 Cut*!
 
 Relationship Point Choices:
-
 - I'll get it done! (Karrina +2, Aelita +1)  
 - ... (Neutral)  
 - I'm kinda scared... (Karrina -2)
@@ -2551,7 +2537,6 @@ Relationship Point Choices:
 Enter the sewers and head to the back, cutting along the way.
 
 Relationship Point Choices:
-
 - Hi Lucha. (Venam +1)
 - You're Venam's friend? (Venam +2)
 - Have we met? (Neutral)
@@ -2591,7 +2576,6 @@ always following the red ivy to continue. We can come back without
 Dusknoir in a bit to get all the items.
 
 Relationship Point Choices:
-
 - Yeah, I am. (Marianette -1)
 - It was nothing... (Marianette +2)
 - You flatter me... (Marianette +1)
@@ -2610,7 +2594,6 @@ Servant Moya (Grassy Terrain)
 This can be tough, but Marianette’s Pokemon do help out.
 
 Relationship Point Choices:
-
 - It was cool. (Neutral)  
 - Calm down. (Marianette -3)  
 - You were a great help! (Marianette +3) 
@@ -2618,7 +2601,6 @@ Relationship Point Choices:
 Enter at the top and save Luca.
 
 Relationship Point Choices:
-
 - You're growing. (Marianette +2)
 - Yeah, you are. (Marianette -2)
 - You can change that! (Marianette +3)
@@ -2644,8 +2626,7 @@ At the top, you need to navigate two pieces onto the colored tiles, but
 the buttons control both pieces. Carefully use the walls to your
 advantage to solve this one. Three times and you’re done: save Lenny.
 
-Relationship Point Choices: 
-
+Relationship Point Choices:
 - To instill fear. (Marianette +2)  
 - Who knows? (Marianette -1)  
 - It's a fun hobby! (Marianette -3)
@@ -2665,7 +2646,6 @@ anymore.
 Head back into the courtyard and enter the Absol statue.
 
 Relationship Point Choices:
-
 - I'll be fine! (Marianette +1)  
 - HURRY AND FREE ME! (Marianette -4)  
 - It's okay, stay calm (Marianette +4)
@@ -2676,15 +2656,13 @@ the respective tile without getting caught by Tangrowth, then guide
 Tangrowth to its own tile.
 
 Relationship Point Choices:
-
 - You did well. (Marianette +4)
 - You cut it kinda close... (Marianette -2)
 
 If you have at least five points with Marianette up till now, you’ll get
 the following dialogue choice:
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - It's okay Marianette. (Marianette +8)  
 - I don't know... (Marianette -12)
 
@@ -2934,8 +2912,7 @@ On the other side, head down and to the right until you come upon a
 market. All the events and shops here can only be accessed during
 daytime. Talk to Aelita during the day.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - I'm starving... (Aelita +2)  
 - No distractions! (Neutral)
 
@@ -3040,8 +3017,7 @@ Exit to the south!
 Attempt to enter Goldenleaf Town to the south. Then, interact with the
 tent near the campfire to the north.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - A Gym Battle! (Ren +1)  
 - Wanna see the sights\~ (Ren +1)  
 - No reason... (Ren -2)
@@ -3322,14 +3298,12 @@ the right, below the middle of five trees in the middle of the street is
 a hidden *Bold Mint.* Head in.
 
 Relationship Point Choices:
-
 - I accept! (Aelita +2, Narcissa +4)
 - I dunno... (Aelita -1, Narcissa -2)
 
 Once that’s done, head back into the Pokemon Center and talk to Aelita.
 
 Relationship Point Choices:
-
 - It was nothing.. (Ren +2, Aelita +2)
 - Kinda uncomfortable. (Ren +1, Aelita +1)
 - Uhh what's happening? (Neutral)
@@ -3340,7 +3314,6 @@ as Ghost types. Upstairs, head into the room at the top. When you regain
 control, beat the trainer.
 
 Relationship Point Choices:
-
 - How'd you know? (Neutral)
 - I want to go home. (Mosely -2)
 - Time to whoop ass! (Neutral)
@@ -3369,7 +3342,6 @@ the right is an *Ether*, then enter the password and continue. Talk to
 the screen in here.
 
 Relationship Point Choices:
-
 - Gregory? (Neutral)
 - Sirius hid this. (Neutral)
 - You seriously didnt know? (Mosely -2, Narcissa -2)
@@ -3578,7 +3550,6 @@ you win, you’ll get *5* *Exp. Candy S*.
 Enter the theater and talk to Narcissa
 
 Relationship Point Choices:
-
 - This will work. (Ren +2)
 - I'm unsure... (Ren +1)
 - It's a stupid idea. (Ren -2)
@@ -3605,7 +3576,6 @@ the torches until you finally pass through a mirror and get to the heal
 and PC stars. Head through the door.
 
 Relationship Point Choices:
-
 - Go ahead, Ren. (Ren +4)  
 - No. (Ren -4)
 
@@ -3829,8 +3799,7 @@ Bonsly, Meowth, and Finneon.
 Head back to the left and let Cairo break the rock. You’ll get a *Moomoo
 Milk.* Head up.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - You okay, Nim? (Aelita +1)  
 - You're acting weird... (Neutral)
 
@@ -4093,8 +4062,7 @@ will be the fields.
 
 We’ll wake up in the cells. Go to sleep.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - How did you? (Neutral)  
 - You know, the usual. (Saki +1)
 
@@ -4105,8 +4073,7 @@ Accept the fast travel, then talk to everyone in the mine. Once you do,
 the bottom area will open. Beat the trainer, then head to the sigil at
 the top of the mine.
 
-Relationship Point Choices: 
-
+Relationship Point Choices:
 - Where's Aelita? (Neutral)  
 - Are we done here? (Aelita -1)
 
@@ -4155,7 +4122,6 @@ upper level, you’ll find a kid, battle him to get the *Mining Kit.*
 Enter the quarry again and talk to Adam.
 
 Relationship Point Choices:
-
 - I won it. (Neutral)
 - I stole it. (Adam -1)
 
@@ -4226,7 +4192,6 @@ Break all the rocks, talk to Adam, and use the *Blast Powder* he gives
 you. Head left and talk to him again.
 
 Relationship Point Choices:
-
 - Calm down. (Adam +1)  
 - You're useless! (Adam -2)
 
@@ -4273,8 +4238,7 @@ Next, enter the library on top of the stairs, and read the purple
 bookshelf. Then head to the garden area to the left of the courtyard. Go
 up at the tree at the top, to reach a secret area.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - It was barely a riddle. (Neutral)  
 - I was stumped. (Saki +1)
 
@@ -4307,7 +4271,6 @@ scenes, head back to the secret garden and down the stairs. Push through
 the false wall, then again on the right.
 
 Relationship Point Choices:
-
 - We're getting out. (PianoLady +2)
 - I'm here to help. (PianoLady +1)
 - We're screwed. (PianoLady -1)
@@ -4356,7 +4319,6 @@ a Level 65 Sylveon (!) so you shouldn’t have to worry much. Once you get
 to the courtyard, head back up to Neved’s office.
 
 Relationship Point Choices:
-
 - Are you okay? (Aelita +3)
 - I looked for you... (Aelita +2)
 - We gotta get to the top! (Aelita +1)
@@ -4426,7 +4388,6 @@ watch it struggle to death!
 Whether you win or lose, watch the next scenes play out.
 
 Relationship Point Choices:
-
 - You came to save me? (Neutral)
 - Thank you... (Neutral)
 - I could've done it myself. (Aelita -1)
@@ -4438,7 +4399,6 @@ Goodbye Blacksteeple Castle!
 We’ll wake up on the ship with Adam.
 
 Relationship Point Choices:
-
 - ... (Neutral)
 - Don't feel guilty. (Adam +1)
 - Maybe so. (Adam +2)
@@ -4540,7 +4500,6 @@ Terajuma Island
 Hidden on this beach is a *Grass Gem.* Talk to Nim at the bottom.
 
 Relationship Point Choices:
-
 - Are you okay? (Nim +2)  
 - We're ready to go. (Neutral)
 
@@ -4573,7 +4532,6 @@ When you’re ready, head into Terajuma Jungle to the north.
 ## Terajuma Jungle - TJung1
 
 Relationship Point Choices:
-
 - I'd accept too... (Braixen +2)  
 - Wanna do a test run? (Adam +2)  
 - Can you two stop? (Neutral)
@@ -4607,7 +4565,6 @@ friends, specifically Melia, on the left side. We’re going to have to
 take the long way, so head into the left path and into the cave.
 
 Relationship Point Choices:
-
 - Four, is that enough? (Melia +1)
 - What’s a badge? (Melia +2)
 - Can't I just swim? (Valarie +1)
@@ -4670,8 +4627,7 @@ which takes away some of her advantages and can help a Poison-type
 oriented team, though she can turn it back with Lanturn and Dewgong’s
 Whirlpool.
 
-Relationship Point Choices:  
-
+Relationship Point Choices:
 - You're strong... (Neutral)  
 - It was pretty even. (Neutral)  
 - Ez. (Valarie -2)
@@ -4905,7 +4861,6 @@ need to get some affection with it. The fastest way to do it is to talk
 to Aelita below:
 
 Relationship Point Choices:
-
 - Join me! (Aelita +1)  
 - Nope. (Neutral)
 
@@ -5382,7 +5337,6 @@ Relationship Point Choices:
 - Terrible. (Neutral)
 
 Relationship Point Choices:
-
 - So.. We're on our own? (Melia +1)  
 - Well, that sucks... (Neutral)  
 - Can we ask again? (Melia +2)
@@ -5390,7 +5344,6 @@ Relationship Point Choices:
 Enter the room to the left.
 
 Relationship Point Choices:
-
 - Get me out. (Melia +1)  
 - I have a Relic to get. (Neutral)  
 - A + A = B - B + 3. (Venam +2)
@@ -5742,7 +5695,6 @@ Secret Shore
 Head into the wetlands.
 
 Relationship Point Choices:
-
 - It smells here... (Melia +1)  
 - Let's have a picnic! (Aelita +1)  
 - Crawli needs our help. (Neutral)
@@ -6648,7 +6600,6 @@ Once you’ve triumphed, claim the Infested Badge for Pokemon up to level
 Head outside and talk to Melia and Valarie.
 
 Relationship Point Choices:
-
 - I sure did. (Melia +2)  
 - It was a tough battle... (Neutral)  
 - I lost. (Melia +4)
@@ -6703,7 +6654,6 @@ to Valarie to the left. Having this conversation at all grants (Valarie
 +1 Relationship Point). Also:
 
 Relationship Point Choices:
-
 - I love water! (Valarie +1)  
 - Water kind of scares me... (Valarie -3)  
 - Pretty indifferent. (Neutral)
@@ -6931,7 +6881,6 @@ Tesla’s Villa. It’s the furthest up building on the left side of the
 resort.
 
 Relationship Point Choices:
-
 - This is Tesla's house... (Venam +3)
 
 - Can I help? (Venam +1)
@@ -7053,7 +7002,6 @@ Relationship Point Choices:
 - Stop being a child. (Amber -3)
 
 Relationship Point Choices:
-
 - I'm here to help. (Amber +2)
 
 - Whats next? (Neutral)
@@ -7229,7 +7177,6 @@ Jenner, head up towards the Isle of Angels.
 Cross the ice and enter the Church of Theolia.
 
 Relationship Point Choices:
-
 - Yes. (Melia +1)  
 - No. (Venam +1)
 
@@ -8758,7 +8705,6 @@ style="width:6.70313in;height:5.13906in" />
 Head down from here.
 
 Relationship Point Choices:
-
 - You're cruel. (Venam +3)
 
 - ... (Neutral)
@@ -8768,7 +8714,6 @@ Relationship Point Choices:
 Head up and into the next room. Grab *TM134 Rock Blast.*
 
 Relationship Point Choices:
-
 - We can do this together! (Melia +3, Venam +3)
 
 - Sorta like that, yeah. (Melia +1, Venam +1)
@@ -9343,7 +9288,6 @@ There is also a PC and bed to heal in the upper left room. Talk to Melia
 in the upper right corner.
 
 Relationship Point Choices:
-
 - Beautiful! (Melia +2)
 
 - Stylish! (Melia +2)
@@ -9358,7 +9302,6 @@ the scene. Then, talk to Irvin and the gang in the lab.
 Head to Kugearen City afterwards. Enter the cafe in the bottom.
 
 Relationship Point Choices:
-
 - It was excellent! (Venam +2)
 
 - It was alright. (Venam -1)
@@ -9388,7 +9331,6 @@ Down and to the right from here is 4 *Rawst Berries* and a hidden
 *Zinc.* Head up into Marble Garden.
 
 Relationship Point Choices:
-
 - Yeah! (Venam +2)
 
 - Nah. (Venam -1)
@@ -9399,7 +9341,6 @@ Anathea in the garden for a optional scene.
 Exit to the woods.
 
 Relationship Point Choices:
-
 - Let's do this. (Venam +4)
 
 - What about Melia? (Neutral)
@@ -9434,7 +9375,6 @@ This version hits pretty hard, but luckily isn’t too tough to take it
 out if you target its weaknesses or use Trick Room.
 
 Relationship Point Choices:
-
 - Worried? (Venam +2)
 
 - Scared? (Venam -2)
@@ -10370,7 +10310,6 @@ Enter the easternmost house and exit.
 Then head to the west. Near Luck’s tent, talk to Melia here.
 
 Relationship Point Choices:
-
 - Hapi? (Melia +1)
 
 - The food? (Melia -1)
@@ -11351,7 +11290,6 @@ Bird wisely. I’m sure you can outsmart the AI with the same advantages
 as you.
 
 Relationship Point Choices:
-
 - Of course not. (Aelita -1)  
 - Well... (Aelita -3)  
 - I'm not a judge, so... (Aelita +2)
@@ -11750,7 +11688,6 @@ to in a bit.
 Cafe. Head down into the Residential District.
 
 Relationship Point Choices:
-
 - Uh... Yeah. (Damien +1)  
 - No clue. (Neutral)
 
@@ -12031,7 +11968,6 @@ Exit the cave you appear in onto Route 4, which has no encounters.
 Follow the path down and to the right.
 
 Relationship Point Choices:
-
 - Yes (Vivian +1)  
 - Uh... (Vivian -1)
 
@@ -12062,7 +11998,6 @@ Sheridan Village (Past)
 Head north to the scene that plays out.
 
 Relationship Point Choices:
-
 - You okay? (Melia +2, Erin +1)  
 - Ready for tea?! (Erin +2, Melia +1)   
 
@@ -12146,7 +12081,6 @@ After the scene, go to bed in the guest house. Then, enter Vivian’s
 house to the left. Follow her up, then attempt to leave.
 
 Relationship Point Choices:
-
 - My friends (Aelita +2)  
 - My family (Aelita +1)  
 - Myself (Aelita -1)  
@@ -12252,7 +12186,6 @@ super-effective moves easily and hit back with wide coverage. If you’ve
 gotten this far though this battle won’t be too much trouble.
 
 Relationship Point Choices:
-
 - You okay? (Melia +2)  
 - What's up? (Neutral)  
 - Can we leave now? (Melia -1)
@@ -12342,7 +12275,6 @@ here. You can do it!
 Head back up and outside to the deck.
 
 Relationship Point Choices:
-
 - We needed a new sail... (Melia +2)
 
 - She loves her new job. (Melia +1)
@@ -12353,7 +12285,6 @@ Enter the captain’s room to speak with Madame X, then open the door in
 the room to the right. Downstairs, talk to Melia.
 
 Relationship Point Choices:
-
 - Who knows... (Melia +1)
 
 - Why does it matter? (Melia -2)
@@ -12540,7 +12471,6 @@ try to set up your own tank - if she can’t sufficiently set up this may
 work.
 
 Relationship Point Choices:
-
 - About what?  
 - Sigh (Melia -3)
 
@@ -12557,7 +12487,6 @@ Relationship Point Choices:
     you towards the best ending.
 
 Relationship Point Choices:
-
 - Are you okay?! (Melia +2)
 
 - uh... You good? (Neutral)
@@ -12669,7 +12598,6 @@ The news is good: Melia is your ally, so this is a 12v6. Pretty hard to
 lose this one, thankfully.
 
 Relationship Point Choices:
-
 - We have to go. (Neutral)
 
 - It was fun. (Neutral)
@@ -12708,7 +12636,6 @@ Relationship Point Choices
 - I did all the work. (Melia -2)
 
 Relationship Point Choices:
-
 - Catch it! (Melia +1)  
 - Leave it in the wild. (Neutral)  
 
@@ -12854,7 +12781,6 @@ HQuest 27: Classified Information
     the 36F of the building.
 
 Relationship Point Choices:
-
 - I was terrified too... (Melia +2)
 
 - It's standard procedure. (Melia +1)
@@ -13129,7 +13055,6 @@ Win to get *TM62 Acrobatics!* And more importantly, you’ll get the
 Golden Wing Badge.
 
 Relationship Point Choices:
-
 - Are you okay? (Erin +2)
 
 - He doesn't matter. (Erin -4)
@@ -13142,7 +13067,6 @@ After a conversation with Erin and Eldest, head into the middle room
 upstairs. After the scene, exit the building.
 
 Relationship Point Choices:
-
 - Let's save Aelita! (Melia +3, Erin +3)
 
 - Can't Erin just go? (Erin -3, Melia -3)
@@ -13175,19 +13099,16 @@ broken.
 Back inside, head into the left room upstairs.
 
 Relationship Point Choices:
-
 - You sure you're okay? (Melia +1, Erin +1)
 
 - ... (Neutral)
 
 Relationship Point Choices:
-
 - Let's save Venam! (Melia +3, Erin +2)
 
 - ... (Neutral)
 
 Relationship Point Choices:
-
 - Welcome back! (Aelita +4)
 
 - Too speedy... (Erin -2, Aelita -2)
@@ -13677,7 +13598,6 @@ If you’re on the Bladestar kidnap route, head to talk to Alexandra at
 the very top of the village.
 
 Relationship Point Choices:
-
 - I wish for peace. (Ren +1, Alexandra +3, Ryland +1)
 
 - I don't know... (Ren +2, Alexandra -1, Ryland -1)
@@ -13685,7 +13605,6 @@ Relationship Point Choices:
 - ... (Ren -1, Alexandra -1, Ryland -1)
 
 Relationship Point Choices:
-
 - Alright... (Ren +1, Alexandra +1)
 
 - No Thanks. (Ren -1)
@@ -15531,14 +15450,12 @@ Stadium and board the ship.
 Talk to the group in the meeting room of Nastasia’s ship.
 
 Relationship Point Choices:
-
 - Fine... (Ren +1, Aelita +1)  
 - There's no way. (Ren -1)      
 
 Head to the right.
 
 Relationship Point Choices:
-
 - We're a team! (Aelita +1)  
 - You have to do it alone. (Aelita -1)
 
@@ -16002,7 +15919,6 @@ style="width:6.71875in;height:4.96875in" />
 Head up and to the left for one more cutscene.
 
 Relationship Point Choices:
-
 - Sure! (Ren +1, Aelita +1)  
 - Define "okay". (Ren +2, Aelita +2)
 
@@ -16981,7 +16897,6 @@ Afterwards, head to the top of this map and enter the door on top with
 the incantation. Head up and agree to help Karen.
 
 Relationship Point Choices:
-
 - Yeah, sure why not? (Karen +1)  
 - Maybe tomorrow. (Karen -1)  
 
@@ -17725,7 +17640,6 @@ Shadow Sneak. And, if you could take Giratina back in your Level 30’s,
 you can now.
 
 Relationship Point Choices:
-
 - I've been great! (Venam +3)  
 - It's been going. (Neutral)
 
@@ -17742,12 +17656,10 @@ IV.
 Head over to the Botanical Gardens if Florin is still alive.
 
 Relationship Point Choices:
-
 - That's great, Florin! (Florin +2)  
 - You? Mayor? (Florin -2) 
 
 Relationship Point Choices:
-
 - I'd love to! (Florin +2)  
 - Sorry, I'm busy... (Florin -2)
 
@@ -18037,7 +17949,6 @@ Finally, to progress the story, return to the penthouse and talk to
 Melia.
 
 Relationship Point Choices:
-
 - Full-time? (Reina +1)
 
 - Part-time? (Neutral)
@@ -18069,7 +17980,6 @@ its ability each turn and try to use moves boosted by it if you want,
 but with Damien on your side it’s very winnable.
 
 Relationship Point Choices:
-
 - Count me in! (Melia +3, Aelita +3, Ren +3, Venam +2,
 Alexandra +6)  
 - I'm scared... (Ren +2, Aelita +2, Erin +2, Damien +2)  
@@ -18081,7 +17991,6 @@ Me too, Allen.
 Enter Alexandra’s secret passageway and enter at the top.
 
 Relationship Point Choices:
-
 - You mean Marianette? (Venam +2)  
 - My third badge? (Neutral)  
 - What? (Neutral)
@@ -18178,7 +18087,6 @@ To win, you’ll receive the *Fate Badge!*
 Outside, talk to Melia again.
 
 Relationship Point Choices:
-
 - Jenner was your father. (Melia +3)  
 - That's kinda cool! (Melia -3)
 
@@ -18193,14 +18101,12 @@ This day is just a quick scene!
 Talk to Ren in the hallway.
 
 Relationship Point Choices:
-
 - Talk to her next time (Ren +2)  
 - You need some work... (Neutral)
 
 Then, enter the battle room.
 
 Relationship Point Choices:
-
 - I'm pumped. (Erin +2, Damien +2)  
 - I'm excited, I guess... (Erin +1)  
 - Eh... (Erin -1, Damien -2)
@@ -18216,13 +18122,11 @@ horsepower to finish off Kingler.
 Head in to talk to Aelita.
 
 Relationship Point Choices:
-
 - ...The statues? (Aelita +2)  
 - The Soul Stone (Aelita +1)  
 - I have no idea... (Aelita -1)
 
 Relationship Point Choices:
-
 - I don't remember... (Neutral)  
 - It couldn't have been me... (Neutral)  
 - ... (Damien -2)
@@ -18240,7 +18144,6 @@ as Melia. Win or lose, it doesn’t matter.
 Talk to Aelita in the hallway.
 
 Relationship Point Choices:
-
 - You'll be the Sensei too! (Aelita +3)  
 - What about GDC? (Aelita -1)
 
@@ -18258,7 +18161,6 @@ Finally, we get to obtain the *Mega-Z Ring!* This allows us to use
 Z-Moves as well as Mega Evolve our Pokemon!
 
 Relationship Point Choices:
-
 - Thank you, everyone! (Melia +2, Ren +2, Aelita +3, Damien
 +1, Alexandra +3, Erin +1)  
 - I can't believe it... (Melia +1, Aelita +2, Ren +1, Erin
@@ -18764,7 +18666,6 @@ Pop Star Risa Raider (No Field)
 As before this is very winnable, surely you can figure out a way.
 
 Relationship Point Choices:
-
             - I trust you! (Amber +6, Aelita +3)  
 - Uh... (Amber -2, Aelita -1)
 
@@ -19003,7 +18904,6 @@ following:
 3.  Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
 
 Relationship Point Choices:
-
 - Give her space. (Saki +2)  
 - She has amnesia. (Saki +1, Amber +1)  
 - ... (Saki -2)
@@ -19013,7 +18913,6 @@ Relationship Point Choices:
 Talk to the door at the top.
 
 Relationship Point Choices:
-
 - Of course (Amber +2, Saki +2)  
 - Um... I'm scared! (Saki -2, Amber -2)
 
@@ -19086,7 +18985,6 @@ seen before and know how to deal with by now. Watch out for Hitmonlee
 who will get an Unburden boost after using Fake Out.
 
 Relationship Point Choices:
-
 - You got this Amber! (Amber +3)  
 - Good luck. (Amber +2)  
 - ... (Amber -2)
@@ -19182,7 +19080,6 @@ bashing suspicious walls. That is, any that don’t fit it with what’s
 around them. Then return to the table.
 
 Relationship Point Choices:
-
 - Are you doing okay? (Amber +2)  
 - What happened? (Neutral)  
 - You done? (Saki -2, Amber -2)
@@ -19191,7 +19088,6 @@ Then head upstairs and enter your building on the left. Answer however
 you like.
 
 Relationship Point Choices:
-
 - What? (Neutral)  
 - Yes. (Saki -2)
 
@@ -19201,7 +19097,6 @@ eventually making your way to the third floor. Bust your way through the
 panels.
 
 Relationship Point Choices:
-
 - My body screams for more. (Saki +5, Amber +3)  
 - It was awesome! (Saki +3, Amber +2)  
 - It was... interesting. (Amber +1)  
@@ -19226,7 +19121,6 @@ Obviously, a fast fire move will do the trick here.
 Head back to the teleporter and talk to the Saki door.
 
 Relationship Point Choices:
-
 - Kick ass, Saki! (Saki +3)  
 - Uh... Good luck? (Saki +/-2)
 
@@ -19688,7 +19582,6 @@ They’re not insanely difficult, and you will succeed with the right
 strategy if you’ve made it here!
 
 Relationship Point Choices:
-
 - Don't let her get to you. (Aelita +4)  
 - It's alright. (Aelita +2)  
 - Watch what you say. (Aelita -2)
@@ -19786,7 +19679,6 @@ away Relationship Points however (Aelita -1, Adam -1, Braixen -1, Erick
 -1).
 
 Relationship Point Choices:
-
 - I'm going too! (Aelita +3)  
 - I hate this. (Erick +3)  
 - Uh... on second thought... (Aelita -2)
@@ -19811,7 +19703,6 @@ Land of Broken Dreams
 Make your way to the left here as you fight puppet masters.
 
 Relationship Point Choices:
-
 - Whoey? (Lavender +1)  
 - Sorry... (Neutral)
 
@@ -19819,7 +19710,6 @@ Then after the scenes at the top, head down and to the right. Pick up
 another *Nightmare Fuel* as you go.
 
 Relationship Point Choices:
-
 - Kinda Cool! (Amber +1)  
 - Super Cool! (Amber +2)  
 - Mega Cool! (Amber +3)  
@@ -20025,7 +19915,6 @@ Saki’s parents then pick up the phone in the upper left corner.
 Back as the player, enter the first room.
 
 Relationship Point Choices:
-
 - Why me? (Erin -1)  
 - I'm on it. (Erin +2)  
 - Goddamnit... (Melia -2, Aelita -2, Erin -3)
@@ -20266,7 +20155,6 @@ Right afterwards, if you have at least 3 points with Amber, you’ll get
 even more Relationship Points! (Amber +4, Venam +4)
 
 Relationship Point Choices:
-
 - You got it, bro (Adam +3)  
 - Sure. (Adam +1)  
 - Really? Ugh... (Adam -3, Venam -2)
@@ -20275,7 +20163,6 @@ Next, return to Sashila, and enter the second room on the right to talk
 to Crescent.
 
 Relationship Point Choices:
-
 - They're my friends. (Neutral)  
 - None of your business. (Crescent -4)
 
