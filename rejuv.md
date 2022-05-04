@@ -5299,7 +5299,7 @@ up another *Blast Powder.*
 Return to the help center to get a **Bulbasaur** egg, a *Rare Candy,*
 and $5000! (+1 Karma)
 
-HQuest 15: Building Bridges
+### HQuest 15: Building Bridges
 
 Head to the lumber yard in Terajuma Jungle and enter the building. Talk
 to the guy on the right, then Gurdurr. Head west to the bridge, and
