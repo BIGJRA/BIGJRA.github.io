@@ -2141,7 +2141,7 @@ Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
 
 Start by heading through Amethyst Cave to Route 2.
 
-Pick up one of the blue item balls. If you have 50,000, you're
+Pick up one of the blue item balls. If you have 50000, you're
 welcome to pay for the item, but if not, you'll get teleported to
 the THIEF'S DUNGEON!
 
@@ -3817,8 +3817,8 @@ Cairo's Shop (\<8 Badges)
 |*Excite Scent (10)*|$8500             |
 |*Vivid Scent (10)* |$11000            |
 |*Bike Voucher*     |250 Red Essences  |
-|*Noctowl Crest*    |2,000 Red Essences|
-|*Phione Crest*     |2,000 Red Essences|
+|*Noctowl Crest*    |2000 Red Essences|
+|*Phione Crest*     |2000 Red Essences|
 |*Fragments (5)*    |$4956             |
 |*Fragments (10)*   |$14868            |
 |*Fragments (25)*   |$24780            |
@@ -3829,7 +3829,7 @@ they're generally given to Pokemon that are otherwise bad. The bottom of
 this file has details on what every crest does!
 
 Get the Bike Voucher for now if you want, but otherwise start saving up
-Rift Essence. If you accumulate *exactly* 10,000, talk to **Chespin**
+Rift Essence. If you accumulate *exactly* 10000, talk to **Chespin**
 and Cairo will let you have it! You can check with the Gather Cube the
 exact amount you have.
 
@@ -9880,13 +9880,13 @@ Entering Cairo's shop, he has more available crests now!
 
 Cairo's Shop New Items (8 Badges)
 
-*Luxray Crest* 5,000 Red Essences
+*Luxray Crest* 5000 Red Essences
 
-*Druddigon Crest* 5,000 Red Essences
+*Druddigon Crest* 5000 Red Essences
 
-*Thievul Crest* 5,000 Red Essences
+*Thievul Crest* 5000 Red Essences
 
-*Samurott Crest* 5,000 Red Essences
+*Samurott Crest* 5000 Red Essences
 
 Now that we have Ditto, head over to Sheridan Village, and use it to
 breed the Throh we got earlier. In the daycare, talk to the girl and
@@ -11295,7 +11295,7 @@ did the ice cream quest to get a *Rare Candy* if you got them new ice
 cream, and a *Reverse Candy* if you got them the one from the ground.
 
 Head up and into the Nightmare Casino. Zetta will explain the rules and
-give us 10,000 coins. At the top right, grab *Psychic Memory.* The left
+give us 10000 coins. At the top right, grab *Psychic Memory.* The left
 vendor will give us a *Coin Case* if we have neglected to get one yet.
 
 Nightmare Casino Left Vendor
@@ -11314,14 +11314,14 @@ Nightmare Casino Right Vendor
 
 However, you need not deal with buying puppet coins or playing slots if
 you simply win battles. Talk to Don Carto in the bottom right: he will
-sponsor us with 10x the battle rate. So, by betting 10,000 the first
-battle and 100,000 the second battle we will win over 1,000,000.
+sponsor us with 10x the battle rate. So, by betting 10000 the first
+battle and 100000 the second battle we will win over 1000000.
 
 That said, the battles are somewhat tough: each of the three randomly
 chosen trainers has an Ultra Beast and a Legendary Dog. Still, you
 should be able to set up against the starting Pokemon and overcome.
 
-Talk to Zetta with at least 1,000,000 Puppet Coins, then head up. Grab
+Talk to Zetta with at least 1000000 Puppet Coins, then head up. Grab
 the *Revive.*
 
 There's an Audino level grinder here if you want to push your levels up
@@ -15392,13 +15392,13 @@ Entering Cairo's shop, he has even more available crests now!
 
 Cairo's Shop New Items (13 Badges)
 
-*Boltund Crest* 9,000 Red Essences
+*Boltund Crest* 9000 Red Essences
 
-*Probopass Crest* 9,000 Red Essences
+*Probopass Crest* 9000 Red Essences
 
-*Swalot Crest* 9,000 Red Essences
+*Swalot Crest* 9000 Red Essences
 
-*Cinccino Crest* 9,000 Red Essences
+*Cinccino Crest* 9000 Red Essences
 
 Head up towards Den 4. You'll spot **Sobble** hiding in the water. Chase
 it a few times for a battle!
@@ -20216,7 +20216,7 @@ Essence!
 
 Cairo's Shop New Item (15 Badges)
 
-*Delcatty Crest* 14,000 Red Essences
+*Delcatty Crest* 14000 Red Essences
 
 Finally, fly to Eclysia Pyramid and talk to Ryland on the summit. You'll
 get Relationship Points (Ryland +6) and MegaStone *Steelixite!*
