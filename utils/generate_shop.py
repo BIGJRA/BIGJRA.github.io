@@ -1,11 +1,11 @@
-t = '''*Hyper Potion* $1200
+t = '''
+*Luxray Crest* 5000 Red Essences
 
-*Super Potion* $700
+*Druddigon Crest* 5000 Red Essences
 
-*Burn Heal* $250
+*Thievul Crest* 5000 Red Essences
 
-*GourmetTreat* $2000
-'''
+*Samurott Crest* 5000 Red Essences'''
 
 lines = t.split('\n')
 items = []
