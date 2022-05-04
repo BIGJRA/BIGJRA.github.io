@@ -1,6 +1,11 @@
-t = '''*Growth Mulch* $200
+t = '''*Hyper Potion* $1200
 
-*Stable Mulch* $200'''
+*Super Potion* $700
+
+*Burn Heal* $250
+
+*GourmetTreat* $2000
+'''
 
 lines = t.split('\n')
 items = []

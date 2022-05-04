@@ -7,11 +7,13 @@ title: |
 # Walkthrough Version 13.2.0
 # Written by @BIGJRA
 
-I could use some help to double check these things:
+My site hasn't been completely rolled out yet: I could use some help to double check these things:
 
-- Every battle should have a field listed (including No Field)
-- Every encounters area should NOT have a field listed
-- 
+- Does every battle have a field listed (including No Field)? Should be yes.
+- Are there any encounter tables with field listed? Should be no.
+- Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
+- Are there any inconsistent formatting / syntax issues? Should be no.
+- Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
@@ -123,8 +125,13 @@ cells, tutors, Pokemon Locations, and more!
 -   <a href="#chapter-8-those-we-lose" id="toc-chapter-8-those-we-lose">Chapter 8: Those We Lose</a>
     -   <a href="#kristiline-town" id="toc-kristiline-town">Kristiline Town</a>
     -   <a href="#kristiline-help-center-requests" id="toc-kristiline-help-center-requests">Kristiline Help Center Requests</a>
+        -   <a href="#hquest-18-lighthouse" id="toc-hquest-18-lighthouse">HQuest 18: Lighthouse</a>
+        -   <a href="#hquest-19-take-my-quiz" id="toc-hquest-19-take-my-quiz">HQuest 19: Take my Quiz!</a>
+        -   <a href="#hquest-20-defend-me" id="toc-hquest-20-defend-me">HQuest 20: Defend Me!</a>
+        -   <a href="#hquest-21-research" id="toc-hquest-21-research">HQuest 21: Research</a>
+        -   <a href="#hquest-22-" id="toc-hquest-22-">HQuest 22: ???</a>   
     -   <a href="#floria-island-rock-climb" id="toc-floria-island-rock-climb">Floria Island Rock Climb</a>
-    -   <a href="#amethyst-cave-2nd-visit" id="toc-amethyst-cave-2nd-visit">Amethyst Cave 2<sup>nd</sup> Visit</a>
+    -   <a href="#amethyst-cave-2nd-visit" id="toc-amethyst-cave-2nd-visit">Amethyst Cave 2nd Visit</a>
     -   <a href="#lost-camp-pt-2" id="toc-lost-camp-pt-2">Lost Camp Pt. 2</a>
     -   <a href="#carotos-mountain-2nd-visit" id="toc-carotos-mountain-2nd-visit">Carotos Mountain 2nd Visit</a>
     -   <a href="#valor-mountain" id="toc-valor-mountain">Valor Mountain</a>
@@ -170,7 +177,7 @@ cells, tutors, Pokemon Locations, and more!
 -   <a href="#chapter-12-remember-i-love-you" id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love You</a>
     -   <a href="#judicial-district" id="toc-judicial-district">Judicial District --- JDist1</a>
     -   <a href="#kimono-girls-quest" id="toc-kimono-girls-quest">Kimono Girls Quest</a>
-    -   <a href="#axis-high-university-1st-visit" id="toc-axis-high-university-1st-visit">Axis High University 1<sup>st</sup> Visit</a>
+    -   <a href="#axis-high-university-1st-visit" id="toc-axis-high-university-1st-visit">Axis High University 1st Visit</a>
     -   <a href="#district-of-hope" id="toc-district-of-hope">District of Hope</a>
     -   <a href="#aevium-past-2nd-visit" id="toc-aevium-past-2nd-visit">Aevium (Past) 2nd Visit</a>
     -   <a href="#aevium-alt-future" id="toc-aevium-alt-future">Aevium (Alt. Future)</a>
@@ -194,7 +201,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#aevium-past-3rd-visit" id="toc-aevium-past-3rd-visit">Aevium (Past) 3rd Visit</a>
     -   <a href="#vs-ren-sashila-help-quests" id="toc-vs-ren-sashila-help-quests">VS. Ren, Sashila Help Quests</a>
     -   <a href="#sand-stream-cave" id="toc-sand-stream-cave">Sand Stream Cave</a>
-    -   <a href="#zorrialyn-labyrinth-1st-visit" id="toc-zorrialyn-labyrinth-1st-visit">Zorrialyn Labyrinth 1<sup>st</sup> Visit</a>
+    -   <a href="#zorrialyn-labyrinth-1st-visit" id="toc-zorrialyn-labyrinth-1st-visit">Zorrialyn Labyrinth 1st Visit</a>
     -   <a href="#grand-dream-tournament" id="toc-grand-dream-tournament">Grand Dream Tournament</a>
     -   <a href="#rugged-badge" id="toc-rugged-badge">Rugged Badge</a>
 -   <a href="#chapter-14-death-of-one-birth-of-another" id="toc-chapter-14-death-of-one-birth-of-another">Chapter 14: Death of One, Birth of Another</a>
@@ -210,7 +217,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#do-the-dive-floria" id="toc-do-the-dive-floria">Do the Dive (Floria)</a>
     -   <a href="#do-the-dive-terajuma" id="toc-do-the-dive-terajuma">Do the Dive (Terajuma)</a>
     -   <a href="#kingdom-of-goomidra" id="toc-kingdom-of-goomidra">Kingdom of Goomidra</a>
-    -   <a href="#zorrialyn-labyrinth-2nd-visit" id="toc-zorrialyn-labyrinth-2nd-visit">Zorrialyn Labyrinth 2<sup>nd</sup> Visit</a>
+    -   <a href="#zorrialyn-labyrinth-2nd-visit" id="toc-zorrialyn-labyrinth-2nd-visit">Zorrialyn Labyrinth 2nd Visit</a>
     -   <a href="#aquarium-side-quest" id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest</a>
     -   <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">Ana Quest Part 3</a>
     -   <a href="#hospital-of-ruin-2nd-visit" id="toc-hospital-of-ruin-2nd-visit">Hospital of Ruin (2nd Visit)</a>
@@ -218,7 +225,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#department-store-and-deino" id="toc-department-store-and-deino">Department Store and Deino</a>
     -   <a href="#zygarde-10-form" id="toc-zygarde-10-form">Zygarde 10% Form</a>
 -   <a href="#chapter-15-vague-clarity" id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
-    -   <a href="#league-administration-1st-visit" id="toc-league-administration-1st-visit">League Administration 1<sup>st</sup> Visit</a>
+    -   <a href="#league-administration-1st-visit" id="toc-league-administration-1st-visit">League Administration 1st Visit</a>
         -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01: Vs. Melia</a>
         -   <a href="#day-03-aelitas-departure" id="toc-day-03-aelitas-departure">Day 03: Aelita's Departure</a>
         -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08: MC's Training </a>
@@ -6330,32 +6337,40 @@ already had access to the grass, but:
 
 Route 6
 
-|                   |          |                |          |
+| Rock Smash        | %        | Surfing        | %        |
 |-------------------|----------|----------------|----------|
-| Rock Smash | % | Surfing | % |
 | Chewtle           | 90       | Mantyke        | 90       |
 | Binacle           | 10       | Krabby         | 5        |
-| Good Rod   |          | Wailmer        | 4        |
-| Carvanha          | 60       | Carvanha       | 1        |
-| Wailmer           | 20       | Old Rod |          |
-| Wishiwashi        | 20       | Carvanha       | 100      |
+| Wailmer           | 4        |                |          |
+| Carvanha          | 1        |                |          |
+
+| Old Rod        | %        | Good Rod          |  %       |
+|----------------|----------|-------------------|----------|
+| Carvanha       | 100      | Carvanha          | 60       |
+|                |          | Wailmer           | 20       |
+|                |          | Wishiwashi        | 20       |
 
 There are also wild Krabby crawling around. Surf north and use
 itemfinder for a *Pearl.*
 
 Enter Aquamarine Cave and talk to Melia and Valarie.
 
-Aquamarine Cave (Crystal Cavern Field)
+Aquamarine Cave
 
-|             |          |                 |     |                |          |
-|-------------|----------|-----------------|-----|----------------|----------|
-| Cave | % | Old Rod  | %   | Surfing | % |
-| Psyduck     | 30       | Goldeen         | 70  | Spheal         | 65       |
-| Spheal      | 30       | Carvanha        | 30  | Seel           | 30       |
-| Sealeo      | 19       | Good Rod |     | Dewgong        | 4        |
-| Golduck     | 14       | Spheal          | 60  | Sealeo         | 1        |
-| Kingler     | 6        | Seel            | 20  |                |          |
-| Corsola     | 1        | Basculin        | 20  |                |          |
+| Cave        | %        | Surfing        | %        |
+|-------------|----------|----------------|----------|
+| Psyduck     | 30       | Spheal         | 65       |
+| Spheal      | 30       | Seel           | 30       |
+| Sealeo      | 19       | Dewgong        | 4        |
+| Golduck     | 14       | Sealeo         | 1        |
+| Kingler     | 6        |                |          |
+| Corsola     | 1        |                |          |
+
+| Old Rod         | %   | Good Rod        | %   |
+|-----------------|-----|-----------------|-----|
+| Goldeen         | 70  | Spheal          | 60  |
+| Carvanha        | 30  | Seel            | 20  |
+|                 |     | Basculin        | 20  |
 
 Talk to the guy at the bottom of the entrance to get *TM05 Roar.* Use
 itemfinder around this room to get *Max Repel, Elemental Seed,* and
@@ -6393,63 +6408,34 @@ battle!
 Pokemon Rangers Sam and Alex (Beach Field)
 
 -   Pelipper, Level 45. @ Wacan Berry.
-
     -   Hurricane
-
     -   Water Pulse
-
     -   U-Turn
-
     -   Roost
-
 -   Ampharos, Level 46. @ Shuca Berry.
-
     -   Thunder
-
     -   Power Gem
-
     -   Confuse Ray
-
     -   Dragon Pulse
-
 -   Venusaur, Level 47. @ Payapa Berry.
-
     -   Sleep Powder
-
     -   Sludge Bomb
-
     -   Knock Off
-
     -   Leech Seed
-
 -   Golisopod, Level 45. @ Wacan Berry.
-
     -   First Impression
-
     -   Aqua Jet
-
     -   Protect
-
     -   Waterfall
-
 -   Alolan Exeggutor, Level 46. @ Yache Berry.
-
     -   Dragon Hammer
-
     -   Iron Head
-
     -   Superpower
-
     -   Brutal Swing
-
 -   Machamp, Level 47. @ Coba Berry.
-
     -   Rock Slide
-
     -   Dynamic Punch
-
     -   Thunderpunch
-
     -   Bullet Punch
 
 This team together relies heavily on the presence of Pelipper's rain -
@@ -6465,27 +6451,20 @@ Pick up hidden *Pearl* and *Calcium.* Head west to enter Teila Resort!
 Head up and grab the planted *Occa Berry.* Useful for a certain gym
 battle later. This building here is another ranger center, with a shop:
 
-Teila Ranger Center Store
+Teila Ranger Center Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Potion* $300
-
-*Super Potion* $700
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $1500
-
-*Super Repel* $500
-
-*Reverse Candy* $50
-
-*Spice Powder* $850
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Potion*       |$300 |
+|*Super Potion* |$700 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$1500|
+|*Super Repel*  |$500 |
+|*Reverse Candy*|$50  |
+|*Spice Powder* |$850 |
 
 Enter the hot springs to the north. This is where you can use the PC and
 heal in this area, like in FRLG. There is also hidden *Blue Shard* and
@@ -6517,44 +6496,40 @@ Potion.*
 
 There are some shops towards the center.
 
-Teila Resort Left Vendor Store
+Teila Resort Left Vendor Shop
 
-*Poke Ball* $200
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Super Potion* |$700 |
+|*Full Heal*    |$600 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$2000|
+|*Super Repel*  |$500 |
+|*Max Repel*    |$700 |
+|*Reverse Candy*|$50  |
 
-*Great Ball* $600
+Teila Resort Middle Vendor Shop
 
-*Super Potion* $700
+|Item         |Price|
+|-------------|-----|
+|*Berry Juice*|$1000|
 
-*Full Heal* $600
+Teila Resort Right Vendor Shop
 
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $2000
-
-*Super Repel* $500
-
-*Max Repel* $700
-
-*Reverse Candy* $50
-
-Teila Resort Middle Vendor Store
-
-*Berry Juice* $1000
-
-Teila Resort Right Vendor Store
-
-*Apophyll Pancakes* $3000
-
-*Tart Apple* $1100
-
-*Sweet Apple* $1100
+|Item               |Price|
+|-------------------|-----|
+|*Apophyll Pancakes*|$3000|
+|*Tart Apple*       |$1100|
+|*Sweet Apple*      |$1100|
 
 Head into the building with the gym sign at the top. Talk to Tesla and
 Melia for a while, then talk to the guy in the bottom left corner with a
 fighting type in your team to get a *Muscle Band!* then head into the
 upper left room to find:  
+
 ZCell 035: Teila Resort
 
 <img src="/assets/media/rejuv/image35.png"
@@ -6597,9 +6572,7 @@ resort.
 
 Relationship Point Choices:
 - This is Tesla's house... (Venam +3)
-
 - Can I help? (Venam +1)
-
 - Gross. (Venam -1)
 
 Enter the room up and to the right.
@@ -6610,87 +6583,48 @@ and in the door. Melia will be our partner.
 Venam and Saki (Glitch Field)
 
 -   Forretress, Level 46. @ Custap Berry.
-
     -   Gyro Ball
-
     -   Stealth Rock
-
     -   Explosion
-
     -   Bulldoze
-
 -   Probopass, Level 47. @ Sitrus Berry.
-
     -   Discharge
-
     -   Power Gem
-
     -   Explosion
-
     -   Flash Cannon
-
 -   Magneton, Level 48. @ Eviolite.
-
     -   Discharge
-
     -   Explosion
-
     -   Flash Cannon
-
     -   Thunder Wave
-
 -   Metagross, Level 49. @ Choice Scarf.
-
     -   Earthquake
-
     -   Explosion
-
     -   Earthquake
-
     -   Explosion
-
 -   Alolan Muk, Level 46. @ Iapapa Berry.
-
     -   Poison Jab
-
     -   Crunch
-
     -   Minimize
-
     -   Ice Punch
-
 -   Toxtricity (Lowkey) @ Air Balloon.
-
     -   Fire Punch
-
     -   Overdrive
-
     -   Boomburst
-
     -   Snarl
-
 -   Venusaur, Level 48. @ Black Sludge.
-
     -   Giga Drain
-
     -   Sleep Powder
-
     -   Sludge Bomb
-
     -   Earthquake
-
 -   Seviper, Level 49. @ Assault Vest.
-
     -   Sludge Wave
-
     -   Giga Drain
-
     -   Flamethrower
-
     -   Earthquake
 
-If only one of the two trainers you fight had explosion on ALL FOUR OF
-HER POKeMON (and one TWICE!). This is sort of a gag battle, so bait out
+If only one of the two trainers you fight had explosion on all four of 
+her Pokemon (and one TWICE!). This is sort of a gag battle, so bait out
 the explosions and you should be alright.
 
 After the battle and the following conversation, head up in the hot
@@ -6718,7 +6652,6 @@ Relationship Point Choices:
 
 Relationship Point Choices:
 - I'm here to help. (Amber +2)
-
 - Whats next? (Neutral)
 
 Then, attempt to exit to the southeast. Team Xen invades again!
@@ -6732,63 +6665,34 @@ double battle.
 Xen Executive Madelis and Team Xen Bartz (Water Surface Field)
 
 -   Florges, Level 47. @ Pixie Plate.
-
     -   Protect
-
     -   Moonblast
-
     -   Giga Drain
-
     -   Wish
-
 -   Copperajah, Level 47. @ Chople Berry.
-
     -   Rock Slide
-
     -   Play Rough
-
     -   Iron Head
-
     -   Protect
-
 -   Sharpedo, Level 48. @ Mystic Water.
-
     -   Surf
-
     -   Ice Beam
-
     -   Crunch
-
     -   Protect
-
 -   Cradily, Level 45.
-
     -   Ancient Power
-
     -   Hidden Power Water
-
     -   Recover
-
     -   Giga Drain
-
 -   Jellicent, Level 44.
-
     -   Energy Ball
-
     -   Recover
-
     -   Brine
-
     -   Shadow Ball
-
 -   Heliolisk, Level 46.
-
     -   Thunderbolt
-
     -   Hidden Power Water
-
     -   Hyper Voice
-
     -   Protect
 
 Strangely, I recommend taking out Madelis first. Her Pokemon go down
@@ -6814,9 +6718,11 @@ story.
 Return to Rorim B, and from there, to Gearen City. The Poke Ball store
 has added wares, yet again.
 
-Poke Ball Emporium New Item (6 Badges)
+Poke Ball Emporium Shop New Item (6 Badges)
 
-*Friend Ball* $300
+|Item         |Price|
+|-------------|-----|
+|*Friend Ball*|$300 |
 
 If you want to buy Friend Balls go ahead, they're not too useful though.
 
@@ -6864,27 +6770,20 @@ Melia. Then board the boat.
 Head west, and Melia and Venam will head towards the T.M. shop. The mart
 and center are in the upper left area.
 
-Kristiline Town Store
+Kristiline Town Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Super Potion* $700
-
-*Full Heal* $600
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $1500
-
-*Super Repel* $500
-
-*Max Repel* $700
-
-*Reverse Candy* $50
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Super Potion* |$700 |
+|*Full Heal*    |$600 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$1500|
+|*Super Repel*  |$500 |
+|*Max Repel*    |$700 |
+|*Reverse Candy*|$50  |
 
 Enter the T.M. shop in the southeast. After a scene and a lesson with
 Jenner, head up towards the Isle of Angels.
@@ -6904,9 +6803,8 @@ Tower of Theolia!
 
 Tower of Theolia
 
-|             |          |
+| Cave        | %        |
 |-------------|----------|
-| Cave | % |
 | Bergmite    | 54       |
 | Delibird    | 25       |
 | Spheal      | 19       |
@@ -6941,63 +6839,34 @@ You can exit if need be but go ahead and prepare for the battle ahead!
 Gym Leader Angie (Icy Dimensional Field, Hail)
 
 -   Jynx, Level 47. @ Focus Sash.
-
     -   Fake Out
-
     -   Cold Truth
-
     -   Psyshock
-
     -   Focus Blast
-
 -   Arctovish, Level 47. @ Chople Berry.
-
     -   Stone Edge
-
     -   Surf
-
     -   Freeze Dry
-
     -   Aurora Veil
-
 -   Beartic, Level 49. @ Muscle Band.
-
     -   Low Kick
-
     -   Liquidation
-
     -   Icicle Crash
-
     -   Rock Slide
-
 -   Rotom Frost, Level 48. @ Wide Lens.
-
     -   Cold Truth
-
     -   Thunderbolt
-
     -   Foul Play
-
     -   Shadow Ball
-
 -   Crabominable, Level 49. @ Elemental Seed.
-
     -   Ice Punch
-
     -   Drain Punch
-
     -   Rock Slide
-
     -   Crabhammer
-
 -   Walrein, Level 50. @ Assault Vest.
-
     -   Surf
-
     -   Cold Truth
-
     -   Rock Slide
-
     -   Stomping Tantrum
 
 Cold Truth: Ice \| Special \| 95 power \| 100% accuracy \| Hits both
@@ -7051,18 +6920,22 @@ Outside, pick up *TM07 Hail.* On the beach below there is a hidden
 
 Surf down at the Isle of Angels.
 
-Isle of Angels (Grassy Terrain)
+Isle of Angels
 
-|              |          |                 |          |                |          |
-|--------------|----------|-----------------|----------|----------------|----------|
-| Cave  | % | Old Rod  | % | Surfing | % |
-| Roselia      | 30       | Corphish        | 70       | Bruxish        | 60       |
-| **Swadloon** | 30       | Carvanha        | 30       | Seaking        | 30       |
-| Gossifleur   | 10       | Good Rod |          | **Swanna**     | 5        |
-| **Eldegoss** | 10       | Luvdisc         | 80       | Sealeo         | 4        |
-| **Milcery**  | 10       | Basculin        | 20       | Dewgong        | 1        |
-| **Lurantis** | 5        |                 |          |                |          |
-| Gothita      | 5        |                 |          |                |          |
+| Cave         | %        | Surfing        | %        |
+|--------------|----------|----------------|----------|
+| Roselia      | 30       | Bruxish        | 60       |
+| **Swadloon** | 30       | Seaking        | 30       |
+| Gossifleur   | 10       | **Swanna**     | 5        |
+| **Eldegoss** | 10       | Sealeo         | 4        |
+| **Milcery**  | 10       | Dewgong        | 1        |
+| **Lurantis** | 5        |                |          |
+| Gothita      | 5        |                |          |
+
+| Old Rod         | %        | Good Rod        |  %       |
+|-----------------|----------|-----------------|----------|
+| Corphish        | 70       | Luvdisc         | 80       |
+| Carvanha        | 30       | Basculin        | 20       |
 
 The big island to the south hides a *Magical Seed, Ice Gem, Max Repel.*
 If you have 10 Occa Berries to trade, the fisherman here will trade you
@@ -7076,9 +6949,8 @@ Reenter the town.
 
 Kristiline Town
 
-|             |          |
+| Cave        | %        |
 |-------------|----------|
-| Cave | % |
 | Roselia     | 35       |
 | Swadloon    | 30       |
 | Butterfree  | 15       |
@@ -7103,31 +6975,26 @@ ZCell 038: Kristiline Town
 <img src="/assets/media/rejuv/image39.png"
 style="width:6.21875in;height:4.94792in" />
 
-Kristiline Ranger Center Store
+Kristiline Ranger Center Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Potion* $300
-
-*Super Potion* $700
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $2000
-
-*Super Repel* $500
-
-*Reverse Candy* $50
-
-*Spice Powder* $850
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Potion*       |$300 |
+|*Super Potion* |$700 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$2000|
+|*Super Repel*  |$500 |
+|*Reverse Candy*|$50  |
+|*Spice Powder* |$850 |
 
 Kristiline Town Restaurant
 
-*Lava Cookie* $200
+|Item         |Price|
+|-------------|-----|
+|*Lava Cookie*|$200 |
 
 A girl in the dock on the east side will trade you an **Alolan Vulpix**
 for your Alolan Sandshrew!
@@ -7138,53 +7005,29 @@ another guy in the virtual badge quest!
 Gym Leader Pryce (Glitch Field)
 
 -   Sneasel, Level 44.
-
     -   Metal Claw
-
     -   Strength
-
     -   Beat Up
-
     -   Ice Beam
-
 -   Cloyster, Level 44.
-
     -   Surf
-
     -   Icicle Spear
-
     -   Spikes
-
     -   Explosion
-
 -   Dewgong, Level 43.
-
     -   Rest
-
     -   Dive
-
     -   Toxic
-
     -   Stockpile
-
 -   Jynx, Level 45. @ Focus Sash.
-
     -   Lovely Kiss
-
     -   Psychic
-
     -   Ice Beam
-
     -   Nasty Plot
-
 -   Piloswine, Level 46. @ Sitrus Berry.
-
     -   Stomping Tantrum
-
     -   Blizzard
-
     -   Amnesia
-
     -   Rock Tomb
 
 Pryce is an easy fight with the Cyndaquil route - Typhlosion and Jolteon
@@ -7196,63 +7039,34 @@ field you should be set. Get the seventh *Virtual Badge!*
 Gym Leader Clair (Glitch Field)
 
 -   Dragonair, Level 51.
-
     -   Thunder Wave
-
     -   Dragonbreath
-
     -   Double Team
-
     -   Ice Beam
-
 -   Ampharos, Level 51.
-
     -   Fire Punch
-
     -   Thunder Wave
-
     -   Confuse Ray
-
     -   Thunderbolt
-
 -   Rhydon, Level 53. @ Passho Berry.
-
     -   Earthquake
-
     -   Rock Slide
-
     -   Strength
-
     -   Swords Dance
-
 -   Gyarados, Level 53. @ Wacan Berry.
-
     -   Double Edge
-
     -   Surf
-
     -   Bounce
-
     -   Dragon Dance
-
 -   Dragonair, Level 54. @ Yache Berry.
-
     -   Draco Meteor
-
     -   Hydro Pump
-
     -   Agility
-
     -   Focus Energy
-
 -   Kingdra, Level 55. @ Scope Lens.
-
     -   Draco Meteor
-
     -   Hydro Pump
-
     -   Agility
-
     -   Focus Energy
 
 Next up is Clair. I thought this one was easy actually: Jolteon with
@@ -7284,63 +7098,34 @@ Relationship Point Choices:
 Student Aelita (No Field)
 
 -   Gliscor, Level 49. @ Toxic Orb.
-
     -   Stealth Rock
-
     -   Earthquake
-
     -   Facade
-
     -   U-Turn
-
 -   Mienshao, Level 50. @ Muscle Band.
-
     -   Bounce
-
     -   Blaze Kick
-
     -   Jump Kick
-
     -   Poison Jab
-
 -   Lucario, Level 51. @ Focus Sash.
-
     -   Calm Mind
-
     -   Aura Sphere
-
     -   Shadow Ball
-
     -   Flash Cannon
-
 -   Hawlucha, Level 52. @ Flying Gem.
-
     -   X-Scissor
-
     -   Drain Punch
-
     -   Bounce
-
     -   Swords Dance
-
 -   Blaziken, Level 51. @ Muscle Band.
-
     -   Brave Bird
-
     -   Protect
-
     -   Sky Uppercut
-
     -   Blaze Kick
-
 -   Staraptor, Level 51. @ Assault Vest.
-
     -   Brave Bird
-
     -   Close Combat
-
     -   U-Turn
-
     -   Take Down
 
 Her team focuses on a lot of fast, hard hitting Pokemon that can U-Turn
@@ -7360,166 +7145,156 @@ quests, so I recommend reading to at least check what new areas you can
 explore. If you haven't yet gotten it, the Golden Claws from the AP
 center are useful here!
 
-HQuest 18: Lighthouse
+### HQuest 18: Lighthouse
 
--   Talk to the ranger on the boat dock of Kristiline Town to get the
-    *Lighthouse Key*.
+Talk to the ranger on the boat dock of Kristiline Town to get the
+*Lighthouse Key*.
 
--   Take the ranger teleporter to Terajuma Shore, and surf around to the
-    lighthouse. Enter, and go up.
+Take the ranger teleporter to Terajuma Shore, and surf around to the
+lighthouse. Enter, and go up.
 
--   Read the note, and remember the code ends in 67.
+Read the note, and remember the code ends in 67.
 
--   Head all the way north to Route 5 and enter this lighthouse.
+Head all the way north to Route 5 and enter this lighthouse. Read the 
+note, and remember the code starts with 98.
 
--   Read the note, and remember the code starts with 98.
+Enter Aquamarine Cave from the west, and head into the cave with the
+big door. Rock Climb up to get *TM20 Safeguard*!
 
--   Enter Aquamarine Cave from the west, and head into the cave with the
-    big door. Rock Climb up to get *TM20 Safeguard*!
+Go to where Amber fell into a hole. Jump down, and surf to the
+right. Rock climb up here.
 
--   Go to where Amber fell into a hole. Jump down, and surf to the
-    right. Rock climb up here.
+Hidden up here is *Green Shard, Rock Gem, Blue Shard.* There is also
+a visible *Sea Incense* at the top, and a *Link Heart* towards the
+center at the bottom.
 
--   Hidden up here is *Green Shard, Rock Gem, Blue Shard.* There is also
-    a visible *Sea Incense* at the top, and a *Link Heart* towards the
-    center at the bottom.
+Make your way to the ladder in this area and go up. *Fresh Water*,
+*Water Gem*, *Dive Ball* are hidden here. Exit this room at the top
+to reach the Secluded Shore. Talk to Dylan, then head up. Here
+you'll find Poliwag \#6!
 
--   Make your way to the ladder in this area and go up. *Fresh Water*,
-    *Water Gem*, *Dive Ball* are hidden here. Exit this room at the top
-    to reach the Secluded Shore. Talk to Dylan, then head up. Here
-    you'll find Poliwag \#6!
+Enter this lighthouse and go up. Read the note to learn that the
+Ampharos are in Jirukala Cavern!
 
--   Enter this lighthouse and go up. Read the note to learn that the
-    Ampharos are in Jirukala Cavern!
-
--   Exit, and head up. We can explore this new bit of Route 6 if we
-    want. Here you'll find Kingler and Hoppip, but also:
+Exit, and head up. We can explore this new bit of Route 6 if we
+want. Here you'll find Kingler and Hoppip, but also:
 
 ZCell 039: Route 6
 
 <img src="/assets/media/rejuv/image40.png"
 style="width:6.6875in;height:5.03125in" />
 
--   Add something to your party with Headbutt, and return to the area
-    above where we fought Valarie in Terajuma Jungle. Enter Jirukala
-    Cavern here, and rock climb up.
+Add something to your party with Headbutt, and return to the area
+above where we fought Valarie in Terajuma Jungle. Enter Jirukala
+Cavern here, and rock climb up.
 
--   In the trees here, you can headbutt! You have an 11% chance each to
-    get 3 *Oran, Sitrus, and Leppa Berries*, but also an 11% chance to
-    get **Greedent**, 22% chance to get Skwovet, and 33% chance to get
-    **Applin**!
+In the trees here, you can headbutt! You have an 11% chance each to
+get 3 *Oran, Sitrus, and Leppa Berries*, but also an 11% chance to
+get **Greedent**, 22% chance to get Skwovet, and 33% chance to get
+**Applin**!
 
--   Pick up *Green Shard,* then, on the right, grab *Modest Mint* and
-    *TM131 Bullet Seed* then head down.
+Pick up *Green Shard,* then, on the right, grab *Modest Mint* and
+*TM131 Bullet Seed* then head down.
 
--   Enter the password 9867 into the door.
+Enter the password 9867 into the door. Beat the grunts, then the 
+ranger will take the Ampharos back.
 
--   Beat the grunts, then the ranger will take the Ampharos back.
-
--   Pick up:
+Pick up:
 
 ZCell 040: Jirukala Cavern
 
 <img src="/assets/media/rejuv/image41.PNG"
 style="width:6.54167in;height:4.91139in" />
 
--   Completing this quest also gives us access to some stationary water
-    Pokemon for GourmetTreats - but only at night. Head to Terajuma
-    Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5
-    to get **Slowpoke.**
+-Completing this quest also gives us access to some stationary water
+Pokemon for GourmetTreats - but only at night. Head to Terajuma
+Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5
+to get **Slowpoke.**
 
--   While we're up on Route 5, Rock Climb here to get a *Adamant Mint,*
-    and access to Jeminra Cave but without the need for Safari Balls.
-    Grab the *TM144 Cross Poison* inside.
+While we're up on Route 5, Rock Climb here to get a *Adamant Mint,*
+and access to Jeminra Cave but without the need for Safari Balls.
+Grab the *TM144 Cross Poison* inside.
 
--   Rock Smash one of the rocks here, and use Purify in the battle. Any
-    Pyukumuku we've found so far should have it. Then, exit the cave and
-    re-enter through the Safari Zone. Surf through the cave. Chase
-    **Wimpod** into the bottom left corner for a battle!
+Rock Smash one of the rocks here, and use Purify in the battle. Any
+Pyukumuku we've found so far should have it. Then, exit the cave and
+re-enter through the Safari Zone. Surf through the cave. Chase
+**Wimpod** into the bottom left corner for a battle!
 
--   Return to the help center to get: $6245, *Revival Herb,* and
-    **Mareep.** (+1 Karma)
+Return to the help center to get: $6245, *Revival Herb,* and
+**Mareep.** (+1 Karma)
 
-HQuest 19: Take my Quiz!
+### HQuest 19: Take my Quiz!
 
--   Head outside and enter the house in the top right of town. Talk to
-    the guy here.
+Head outside and enter the house in the top right of town. Talk to
+the guy here. The answers to his quiz are: 4, Calmness, and 5.
 
--   The answers to his quiz are: 4, Calmness, and 5.
+After...that… head back to the help center to get $10000. (+1 Karma)
 
--   After...that… head back to the help center to get $10000. (+1
-    Karma)
+### HQuest 20: Defend Me!
 
-HQuest 20: Defend Me!
+Head into Aquamarine Cave, and head to the large open basement room.
 
--   Head into Aquamarine Cave, and head to the large open basement room.
+Head west from where Amber's bed was, then surf to the west side of
+the room. Beat all the AA grunts in here.
 
--   Head west from where Amber's bed was, then surf to the west side of
-    the room.
+Return to the help center to get $4000 and *Mystic Water.*
 
--   Beat all the AA grunts in here.
+### HQuest 21: Research
 
--   Return to the help center to get $4000 and *Mystic Water.*
+Head outside and talk with Dr. Jenkel. We must find and talk to 7 people
+all around the island.
 
-HQuest 21: Research
-
--   Head outside and talk with Dr. Jenkel. We must find and talk to 7
-    people all around the island.
-
--   First, enter the house directly to the left of the dock bridge in
-    Kristiline. Talk to the old lady.
-
--   Second, enter the Kristiline Pokemart, and talk to the girl in the
-    aisles.
-
--   Third, enter the south middle villa in Teila Resort, and talk to the
-    lady on the left side.
-
--   Fourth, talk to the hiker hiding behind the south left villa in
-    Teila Resort.
+1. Enter the house directly to the left of the dock bridge in Kristiline.
+Talk to the old lady.
+2. Enter the Kristiline Pokemart, and talk to the girl in the aisles.
+3. Enter the south middle villa in Teila Resort, and talk to the lady on
+the left side.
+4. talk to the hiker hiding behind the south left villa in Teila Resort.
 
 While you're in Teila, notice that there is a new Move Tutor on the east
 side:
 
 Teila Resort Move Tutor
 
-Aqua Tail 4 Blue Shards
+| Move      | Price         |
+|-----------|---------------|
+|Aqua Tail  |4 Blue Shards  |
+|Magic Coat |4 Blue Shards  |
+|Electroweb |4 Blue Shards  |
 
-Magic Coat 4 Blue Shards
+Anyways,
 
-Electroweb 4 Blue Shards
-
--   Fifth, enter the construction hut in Terajuma Jungle and talk to the
+5. Enter the construction hut in Terajuma Jungle and talk to the
     guy on the couch.
+6. Talk to someone in the middle house in the row of houses in Kakori 
+village.
+7. Talk to the other person in the same house.
 
--   Sixth and Seventh, talk to the people in the middle house in the row
-    in Kakori village
+Then, head outside… After getting teleported, claim your rewards: 
+*Exp. Candy L* and *Up-Grade.* (+1 Karma)
 
--   Then, head outside… After getting teleported, claim your rewards:
-    *Exp. Candy L* and *Up-Grade.* (+1 Karma)
+### HQuest 22: ???
 
-HQuest 22: ???
+Take a teleporter to Terajuma Shore. Surf up to the left of the
+shoreline, towards the strange house. Talk to Jenkel, then enter.
 
--   Take a teleporter to Terajuma Shore. Surf up to the left of the
-    shoreline, towards the strange house. Talk to Jenkel, then enter.
+Defeat the first few trainers, then grab the *Data Drive.*
 
--   Defeat the first few trainers, then grab the *Data Drive.*
+Head up, and you'll have to battle 6 Inkay ranging from Level 50
+to 90. Really, if you don't let the 80/90 ones set up on you with
+Superpower, you'll be able to come out ahead.
 
--   Head up, and you'll have to battle 6 Inkay ranging from Level 50
-    to 90. Really, if you don't let the 80/90 ones set up on you with
-    Superpower, you'll be able to come out ahead.
+As a result, we now have access to the move relearner in Sheridan
+Village! Talk to the sister for a free *Heart Scale.*
 
--   As a result, we now have access to the move relearner in Sheridan
-    Village! Talk to the sister for a free *Heart Scale.*
+Now that we have the Data Drive, take the teleporter to return to
+Ranger HQ, and go into the hallway room 2nd from the right.
 
--   Now that we have the Data Drive, take the teleporter to return to
-    Ranger HQ, and go into the hallway room 2nd from the right.
+Head up twice and interact with the upper left computer to battle
+Porygon!
 
--   Head up twice and interact with the upper left computer to battle
-    Porygon!
-
--   Return to the Kristiline Help Center to get your reward: **Inkay!**
-    (+1 Karma)
+Return to the Kristiline Help Center to get your reward: **Inkay!**
+(+1 Karma)
 
 For completing all five, you will be gifted **Eevee!** (+1 Karma)
 
@@ -7551,33 +7326,19 @@ done now, but if you can, why not.
 Challenger Mercury (No Field)
 
 -   Abra, Level 10. @ Focus Sash.
-
     -   Light Screen
-
     -   Thunderwave
-
     -   Trick Room
-
     -   Reflect
-
 -   Kadabra, Level 45. @ Red Card.
-
     -   Psychic
-
     -   Energy Ball
-
     -   Shadow Ball
-
     -   Calm Mind
-
 -   Alakazam, Level 85. @ Twistedspoon.
-
     -   Psychic
-
     -   Dazzling Gleam
-
     -   Toxic
-
     -   Recover
 
 You could use the Kadabra and Abra to set up a sweeper, or just use
@@ -7614,17 +7375,22 @@ Return to town and enter the eastern house. Talk to the guy and send him
 to Kristiline Town. Then, enter Wispy Ruins through the Wispy Tower area
 entrance. Climb the rocks and head down the ivy into Wispy Chasm.
 
-Wispy Chasm Depths (Haunted Field)
+Wispy Chasm Depths
 
-|                   |          |                 |          |              |          |
-|-------------------|----------|-----------------|----------|--------------|----------|
-| Cave       | % | Old Rod  | % | Water | % |
-| Golett            | 40       | Frillish        | 70       | Frillish     | 100      |
-| Baltoy            | 20       | Barboach        | 30       |              |          |
-| Graveler          | 15       | Good Rod |          |              |          |
-| Yamask (Galarian) | 14       | Whiscash        | 60       |              |          |
-| Claydol           | 6        | Frillish        | 20       |              |          |
-| Xatu              | 5        | Corphish        | 20       |              |          |
+| Cave              | %        | Water        | %        |
+|-------------------|----------|--------------|----------|
+| Golett            | 40       | Frillish     | 100      |
+| Baltoy            | 20       |              |          |
+| Graveler          | 15       |              |          |
+| Yamask (Galarian) | 14       |              |          |
+| Claydol           | 6        |              |          |
+| Xatu              | 5        |              |          |
+
+| Old Rod         | %        | Good Rod        | %   |
+|-----------------|----------|-----------------|----|
+| Frillish        | 70       | Whiscash        | 60 |
+| Barboach        | 30       | Frillish        | 20 |
+|                 |          | Corphish        | 20 |   
 
 Head all the way down, picking up hidden *Dark Gem* as you go. Around
 the bottom is the 6-badge gate. Open the chest inside to get
@@ -7642,7 +7408,7 @@ the *Poke Doll* when you go down. Surf to the south to get to the
 Exit the ruins and make your way back to Akuwa Town. Enter Evergreen
 Forest and climb the rocks to get an *Icy Rock*.
 
-## Amethyst Cave 2<sup>nd</sup> Visit
+## Amethyst Cave 2nd Visit
 
 Head to Route 2 and enter Amethyst Cave. Start by going to the room up
 from the first, where there is water and where we got a cell and
@@ -7665,15 +7431,20 @@ up the hidden *Zinc,* and head in.
 
 Amethyst Cave (Rock Climb Areas)
 
-|               |          |                 |          |                |          |
-|---------------|----------|-----------------|----------|----------------|----------|
-| Cave   | % | Old Rod  | % | Surfing | % |
-| Graveler      | 34       | Remoraid        | 70       | Remoraid       | 65       |
-| Woobat        | 20       | Barboach        | 30       | Barboach       | 30       |
-| **Swoobat**   | 20       | Good Rod |          | Whiscash       | 4        |
-| **Sandslash** | 15       | Seaking         | 60       | Octillery      | 1        |
-| Dugtrio       | 9        | Barboach        | 20       |                |          |
-| Carbink       | 2        | Octillery       | 20       |                |          |
+| Cave          | %        | Surfing        | %        |
+|---------------|----------|----------------|----------|
+| Graveler      | 34       | Remoraid       | 65       |
+| Woobat        | 20       | Barboach       | 30       |
+| **Swoobat**   | 20       | Whiscash       | 4        |
+| **Sandslash** | 15       | Octillery      | 1        |
+| Dugtrio       | 9        |                |          |
+| Carbink       | 2        |                |          |
+
+| Old Rod         | %        | Good Rod        |  %       |
+|-----------------|----------|-----------------|----------|
+| Remoraid        | 70       | Seaking         | 60       |
+| Barboach        | 30       | Barboach        | 20       |
+|                 |          | Octillery       | 20       |
 
 Exit on the bottom doors to the left to meet Alisha, the ninth and final
 *lost kid* for the Lost Camp! There is a hidden *Carbos* here.
@@ -7683,13 +7454,9 @@ Back up from here, grab the *Elixir* and enter the cave on the left.
 Security Drone Regirock (Crystal Cavern Field)
 
 -   Regirock, Level 60. @ Lum Berry. 2 Shields.
-
     -   Stone Edge
-
     -   Rest
-
     -   Curse
-
     -   Earthquake
 
 Not impossible if you can lower its attack with a burn or something
@@ -7701,17 +7468,13 @@ similar battle!
 Security Drone Registeel (Crystal Cavern Field)
 
 -   Registeel, Level 60. @ Lum Berry. 2 Shields.
-
     -   Thunder Wave
-
     -   Rest
-
     -   Curse
-
     -   Iron Head
 
 Grab the *Moon Dial* and activate Panel 5 here, then head down the
-ladder on the left. Grab hidden *Rock Gem, Super Repel, Ether,*
+ladder on the left. Grab hidden *Rock Gem, Super Repel, and Ether.*
 
 Talk to the ex-Xen Grunt in the open area. Head down the ladder here and
 activate Panel 6 on the right.
@@ -7732,53 +7495,29 @@ again, and you'll have to fight:
 Lingering Regret Nancy (Mountain Field)
 
 -   Whimsicott, Level 51. @ Focus Sash.
-
     -   Moonblast
-
     -   Hurricane
-
     -   Giga Drain
-
     -   Tailwind
-
 -   Mr. Mime, Level 53. @ Wise Glasses.
-
     -   Hidden Power Fairy
-
     -   Thunder Wave
-
     -   Psychic
-
     -   Icy Wind
-
 -   Galarian Weezing, Level 52. @ Black Sludge.
-
     -   Flamethrower
-
     -   Sludge Bomb
-
     -   Shadow Ball
-
     -   Strange Steam
-
 -   Gardevoir, Level 53. @ Babiri Berry.
-
     -   Psychic
-
     -   Moonblast
-
     -   Mystical Fire
-
     -   Calm Mind
-
 -   Sylveon, Level 55. @ Leftovers.
-
     -   Psyshock
-
     -   Calm Mind
-
     -   Shadow Ball
-
     -   Hyper Voice
 
 This is an easy team to beat if you were able to beat Angie! It doesn't
@@ -7788,13 +7527,9 @@ Dimensional Rift Chandelure (Mountain Field)
 
 -   Chandelure, Level 58. @ Demon Stone. 1 Shield. Stats:
     110/25/69/200/110/100
-
     -   Power Gem
-
     -   Ominous Wind
-
     -   Icy Wind
-
     -   Heat Wave
 
 This thing has Protean, so if you can swap its type away from fire, it
@@ -7822,13 +7557,9 @@ Dial!* Head in and go up.
 Chaotic Fusion Solrock (Crystal Cavern Field)
 
 -   Fused Solrock, Level 50, 2 Shields.
-
     -   Rock Slide
-
     -   Zen Headbutt
-
     -   Cosmic Power
-
     -   Solar Flare
 
 It's easy with a good super effective move! Now you can use the Phase
@@ -7856,63 +7587,34 @@ upper room for a battle.
 Gym Leader Texen (Big Top Arena)
 
 -   Hitmonchan, Level 49. @ Coba Berry.
-
     -   Fake Out
-
     -   Mach Punch
-
     -   Ice Punch
-
     -   Thunderpunch
-
 -   Passimian, Level 49. @ Salac Berry.
-
     -   Acrobatics
-
     -   Close Combat
-
     -   Rock Slide
-
     -   Endure
-
 -   Emboar, Level 50. @ Charcoal.
-
     -   Heat Crash
-
     -   Wild Charge
-
     -   Sucker Punch
-
     -   Brick Break
-
 -   Toxicroak, Level 50. @ Poison Barb.
-
     -   Poison Jab
-
     -   Sucker Punch
-
     -   Ice Punch
-
     -   Drain Punch
-
 -   Machamp, Level 51. @ Black Belt.
-
     -   Rock Tomb
-
     -   Bullet Punch
-
     -   Cross Chop
-
     -   High Horsepower
-
 -   Infernape, Level 53. @ Charcoal.
-
     -   Fire Punch
-
     -   Thunderpunch
-
     -   Rock Slide
-
     -   Mach Punch
 
 Luckily Aelita's team is pretty good here: Quick Guard support and
@@ -7921,11 +7623,10 @@ Mountain. Talk to Aelita at the HQ, then head down right to the
 elevator. Head over to fight SEC for the last time and catch his Shadow
 Slakoth.
 
-Corrupted Cave (Corrupted Cave Field / Murkwater Surface)
+Corrupted Cave
 
-|                  |          |
+| Cave             | %        |
 |------------------|----------|
-| Cave      | % |
 | Salandit         | 30       |
 | **Golbat**       | 25       |
 | Zubat            | 20       |
@@ -7944,18 +7645,14 @@ the vines to enter the room to the right. Observe the position of the
 blocks.
 
 Set the blocks in the left room into this position, then enter the door.
-Enter the newly revealed room and enter
+Enter the newly revealed room and prepare for a fight.
 
 Ancient Kingdra (Blessed Field)
 
 -   Kingdra, Level 55. @ Dragon Fang.
-
     -   Origin Pulse
-
     -   Dragon Pulse
-
     -   Luster Purge
-
     -   Ice Beam / Aura Sphere / Mystical Fire (Random)
 
 Luckily, not too bad. If you beat the one in the ancient forest you can
@@ -7966,17 +7663,17 @@ different one.
 Enter this next room. Across this bridge is the alignment we need to set
 these blocks into. A solution (thanks Elucidative!):
 
-- Pangoro left all the way, down all the way, right 2, up 2, right 3,
+1. Pangoro left all the way, down all the way, right 2, up 2, right 3,
 up 3  
-- Zorua left all the way, down all the way, right 2, down all the way,
+2. Zorua left all the way, down all the way, right 2, down all the way,
 right 3, down 3  
-- Apple right 4, up 2, right 3  
-- Chimecho right all the way (it'll be stopped by the Zorua), up all the
+3. Apple right 4, up 2, right 3  
+4. Chimecho right all the way (it'll be stopped by the Zorua), up all the
 way, right all the way, up 2, left all the way  
-- Zorua left 1  
-- Budew left all the way (it'll be stopped by the Zorua), up 3, right
+5. Zorua left 1  
+6. Budew left all the way (it'll be stopped by the Zorua), up 3, right
 all the way  
-- Zorua right 1, up 3
+7. Zorua right 1, up 3
 
 Head east and battle Esther, then take out another Kingdra. Enter the
 door to the right. Head down the stairs, then out the bottom. Follow the
@@ -7984,29 +7681,29 @@ path to get *TM86 Grass Knot.*
 
 Head down the stairs to the west for an optional challenge.
 
-- Pink Shellos left, down all the way, left all the way, down 5, left,
+1. Pink Shellos left, down all the way, left all the way, down 5, left,
 down all the way, right, down all the way  
-- Starly up 1, right all the way, down 1, right 2, down 6, left, down
+2. Starly up 1, right all the way, down 1, right 2, down 6, left, down
 all the way, left (it'll be stopped by the Apple), down all the way,
 left 1  
-- Apple right 1, up, right 1, up 7, right, up 7, left all the way, down
+3. Apple right 1, up, right 1, up 7, right, up 7, left all the way, down
 5, right 1  
-- Omanyte right 1, up 3, right, up 7, left 3, up 1  
-- Lopunny up, right, up all the way, left, up 3, left 7, up all the way,
+4. Omanyte right 1, up 3, right, up 7, left 3, up 1  
+5. Lopunny up, right, up all the way, left, up 3, left 7, up all the way,
 right 1, up 7, right, up 7, right 4, up, right, up  
-- Shinx left 2, up all the way, right, up all the way, left, up 3, left
+6. Shinx left 2, up all the way, right, up all the way, left, up 3, left
 9, up 5, right 1   
-- Pink Shellos right 5, down all the way, right, down all the way, left,
+7. Pink Shellos right 5, down all the way, right, down all the way, left,
 down 3, right all the way, up 2  
-- Blue Shellos up 1, left all the way, down all the way, right, down all
+8. Blue Shellos up 1, left all the way, down all the way, right, down all
 the way, right 5, down all the way, right, down all the way, left, down
 3, left all the way, up 2  
-- Starly right 10, up 2, right all the way, up, right 2, up all the way,
+9. Starly right 10, up 2, right all the way, up, right 2, up all the way,
 right all the way, up 1  
-- Darkrai up, left 2, up 5, left 1  
-- Slugma left all the way, up, left all the way, down, right 1, down 5,
+10. Darkrai up, left 2, up 5, left 1  
+11. Slugma left all the way, up, left all the way, down, right 1, down 5,
 left all the way (it'll be stopped by Darkrai), down 5, left 3, up  
-- Darkrai right 6, up all the way, right all the way, down all the way
+12. Darkrai right 6, up all the way, right all the way, down all the way
 
 Up from here in the newly opened area, you can touch a statue to fight
 **Zorua!**
@@ -8015,20 +7712,20 @@ Then, head back up and take note of each of statue placement - we're
 going to need to move each into that spot upstairs yet again. The
 solution:
 
-- Omanyte right all the way, down all the way, left 1, down 4, right 7,
+1. Omanyte right all the way, down all the way, left 1, down 4, right 7,
 up 3  
-- Zorua down 1, right 2  
-- Pangoro down 8, left 4, up  
-- Starly right 2, down 2  
-- Zorua left 1, down 1, right 1, down all the way (it'll be stopped by
+2. Zorua down 1, right 2  
+3. Pangoro down 8, left 4, up  
+4. Starly right 2, down 2  
+5. Zorua left 1, down 1, right 1, down all the way (it'll be stopped by
 Aelita), left 7, up all the way  
-- Starly right 1, up, right all the way, up all the way, left 2, up 8,
+6. Starly right 1, up, right all the way, up all the way, left 2, up 8,
 right all the way, down 2  
-- Chingling up, left 3, up 8, left all the way, down, left 2  
-- Darkrai right all the way, up all the way, left 2, up 8, left 1  
-- Apple down 1, left all the way (it'll be stopped by Darkrai), down all
+7. Chingling up, left 3, up 8, left all the way, down, left 2  
+8. Darkrai right all the way, up all the way, left 2, up 8, left 1  
+9. Apple down 1, left all the way (it'll be stopped by Darkrai), down all
 the way  
-- Darkrai right
+10. Darkrai right
 
 Enter the newly opened area at the top.
 
@@ -8036,15 +7733,12 @@ There are encounters here in the water.
 
 Garufa Ruins
 
-|                 |          |              |          |
-|-----------------|----------|--------------|----------|
-| Old Rod  | % | Water | % |
-| Goldeen         | 100      | Mantyke      | 90       |
-| Good Rod |          | Wailmer      | 6        |
-| Goldeen         | 60       | Mantine      | 4        |
-| Seaking         | 20       |              |          |
-| Basculin        | 20       |              |          |
-
+| Old Rod   | %    | Good Rod     |  %       | Water        | %   |
+|-----------|------|--------------|----------|--------------|-----|
+| Goldeen   | 100  |  Goldeen     | 60       | Mantyke      | 90  |
+|           |      |  Seaking     | 20       | Wailmer      | 6   |
+|           |      |  Basculin    | 20       | Mantine      | 4   |
+       
 Deborah will mock you here but tell her “from the start” to progress.
 
 We'll end up back in Sheridan. Head into the village proper and talk to
@@ -8061,9 +7755,8 @@ then go up. Head up to the battlefield.
 
 Chamber of Awakening
 
-|             |          |
+| Cave        | %        |
 |-------------|----------|
-| Cave | % |
 | Salandit    | 31       |
 | Slugma      | 30       |
 | Golbat      | 15       |
@@ -8074,13 +7767,9 @@ Chamber of Awakening
 Angie's Right Hand Man Cera (Corrupted Cave)
 
 -   Groudon, Level 57. @ Lum Berry.
-
     -   Precipice Blades
-
     -   Rest
-
     -   Lava Plume
-
     -   Solarbeam
 
 Luckily, because of the field, Groudon will get Poisoned. If you can
@@ -8105,25 +7794,18 @@ Head back into the shop, and they'll have wares:
 
 Kristiline T.M. Shop (\<12 Badges)
 
-*RM02 Avalanche* $50000
-
-*RM03 Zap Cannon* $50000
-
-*RM04 Metronome* $25000
-
-*RM06 Retaliate* $25000
-
-*RM07 Dynamic Punch* $50000
-
-*RM08 Vacuum Wave* $25000
-
-*RM09 Tri Attack* $25000
-
-*TM141 Fire Fang* $20000
-
-*TM142 Thunder Fang* $20000
-
-*TM143 Psycho Cut* $70000
+|Item                |Price |
+|--------------------|------|
+|*RM02 Avalanche*    |$50000|
+|*RM03 Zap Cannon*   |$50000|
+|*RM04 Metronome*    |$25000|
+|*RM06 Retaliate*    |$25000|
+|*RM07 Dynamic Punch*|$50000|
+|*RM08 Vacuum Wave*  |$25000|
+|*RM09 Tri Attack*   |$25000|
+|*TM141 Fire Fang*   |$20000|
+|*TM142 Thunder Fang*|$20000|
+|*TM143 Psycho Cut*  |$70000|
 
 Buy these if you'd like!
 
@@ -8153,13 +7835,9 @@ titanic battle!
 Kyogre (Water Surface Field)
 
 -   Kyogre, Level 60.
-
     -   Muddy Water
-
     -   Thunderbolt
-
     -   Rock Slide
-
     -   Ice Beam
 
 This is a bit harder than Groudon since the field really helps it,
@@ -8204,13 +7882,9 @@ the circle for another titanic battle!
 Kyogre (Water Surface Field)
 
 -   Kyogre, Level 60.
-
     -   Muddy Water
-
     -   Thunderbolt
-
     -   Rock Slide
-
     -   Ice Beam
 
 Luckily in this route, Venam helps us defeat Kyogre. The field really
@@ -8238,17 +7912,15 @@ by entering the Chamber of Awakening.
 ZCell 043: Chamber of Awakening
 
 <img src="/assets/media/rejuv/image44.PNG"
-style="width:5.90625in;height:4.40779in"
-alt="A picture containing light, several Description automatically generated" />
+style="width:5.90625in;height:4.40779in"/>
 
 Return to the first floor. Each mood of the mountain has different
 encounters we can fight.
 
-Icy Valor Mountain (Frozen Cave Field)
+Icy Valor Mountain
 
-|                            |          |
+| Cave                       | %        |
 |----------------------------|----------|
-| Cave                | % |
 | **Sandygast (Aevian Ice)** | 20       |
 | **Sandslash (Alolan)**     | 20       |
 | **Cryogonal**              | 15       |
@@ -8275,28 +7947,32 @@ but if not, you'll finally get the T.M. for Magma Drift!
 Head up through the newly destroyed door. Go up and activate the Neutral
 Source Crystal!
 
-Normal Valor Mountain (Cave Field)
+Normal Valor Mountain
 
-|                             |          |                 |          |
-|-----------------------------|----------|-----------------|----------|
-| Cave                 | % | Water    | % |
-| **Boldore**                 | 30       | Seel            | 65       |
-| **Sandygast (Aevian Rock)** | 20       | Dewgong         | 34       |
-| Golett                      | 10       | Sealeo          | 1        |
-| **Nidorino**                | 10       | Old Rod  |          |
-| Marowak                     | 10       | Seel            | 100      |
-| **Nidorina**                | 5        | Good Rod |          |
-| Dugtrio                     | 5        | **Clauncher**   | 60       |
-| Claydol                     | 5        | Sealeo          | 20       |
-| **Druddigon**               | 5        | Staryu          | 20       |
+| Cave                        | %   | Water   | %  |
+|-----------------------------|-----|---------|----|
+| **Boldore**                 | 30  | Seel    | 65 |
+| **Sandygast (Aevian Rock)** | 20  | Dewgong | 34 |
+| Golett                      | 10  | Sealeo  | 1  |
+| **Nidorino**                | 10  |         |    |
+| Marowak                     | 10  |         |    |
+| **Nidorina**                | 5   |         |    |
+| Dugtrio                     | 5   |         |    |
+| Claydol                     | 5   |         |    |
+| **Druddigon**               | 5   |         |    |
+
+|Old Rod  | %    | Good Rod        | %        |
+|---------|------|-----------------|----------|
+|Seel     | 100  | **Clauncher**   | 60       |
+|         |      | Sealeo          | 20       |
+|         |      | Staryu          | 20       |                
 
 Head back down from here, and you'll find:
 
 ZCell 044: Valor Mountain (Normal)
 
 <img src="/assets/media/rejuv/image45.PNG"
-style="width:6.91667in;height:5.14552in"
-alt="A picture containing indoor, colorful, several Description automatically generated" />
+style="width:6.91667in;height:5.14552in"/>
 
 You can also get **Heracross** if you go down and through the barricade.
 
@@ -8314,9 +7990,8 @@ Make your way around and up. Activate the fire crystal at the top here.
 
 Fiery Valor Mountain (Burning Cave Field)
 
-|                             |          |
+| Cave                        | %        |
 |-----------------------------|----------|
-| Cave                 | % |
 | Slugma                      | 20       |
 | **Sandygast (Aevian Fire)** | 20       |
 | **Camerupt**                | 20       |
@@ -8349,63 +8024,34 @@ Head left to fight:
 Team Xen Eli and Sharon (Mountain Field)
 
 -   Honchkrow, Level 53. @ Sharp Beak.
-
     -   Brave Bird
-
     -   Swagger
-
     -   Foul Play
-
     -   Thunderwave
-
 -   Mismagius, Level 53. @ Life Orb.
-
     -   Shadow Ball
-
     -   Thunderbolt
-
     -   Dazzling Gleam
-
     -   Calm Mind
-
 -   Milotic, Level 52. @ Leftovers.
-
     -   Scald
-
     -   Ice Beam
-
     -   Toxic
-
     -   Recover
-
 -   Gyarados, Level 52. @ Wacan Berry.
-
     -   Dragon Dance
-
     -   Waterfall
-
     -   Crunch
-
     -   Stone Edge
-
 -   Tangrowth, Level 51. @ Miracle Seed.
-
     -   Power Whip
-
     -   Bulldoze
-
     -   Ancient Power
-
     -   Knock Off
-
 -   Lickilicky, Level 51. @ Rocky Helmet.
-
     -   Earthquake
-
     -   Rock Slide
-
     -   Body Slam
-
     -   Knock Off
 
 Time for another fight with Eli and Sharon. This is a 12v6 with the help
@@ -8421,18 +8067,14 @@ Head down from here.
 
 Relationship Point Choices:
 - You're cruel. (Venam +3)
-
 - ... (Neutral)
-
 - She deserved it. (Venam -4)
 
 Head up and into the next room. Grab *TM134 Rock Blast.*
 
 Relationship Point Choices:
 - We can do this together! (Melia +3, Venam +3)
-
 - Sorta like that, yeah. (Melia +1, Venam +1)
-
 - Team Xen is all I care about. (Melia -2, Venam -2)
 
 Activate the fire crystal here, then return to the main dungeon through
@@ -8467,8 +8109,7 @@ Jump down the ledge, and head up the ladder here. On the right:
 ZCell 050: Valor Mountain (Normal)
 
 <img src="/assets/media/rejuv/image51.PNG"
-style="width:6.96354in;height:5.24314in"
-alt="A picture containing indoor, decorated, several Description automatically generated" />
+style="width:6.96354in;height:5.24314in"/>
 
 Head back down the ladder, activate the ice crystal, then enter the
 teleporter at the bottom of this map.
@@ -8484,13 +8125,9 @@ Head up to the top when you're ready. The first battle:
 Renegade Giratina (Volcano Top Field)
 
 -   Giratina, Level 60. @ Griseous Orb.
-
     -   Shadow Force
-
     -   Earth Power
-
     -   Dragon Pulse
-
     -   Magma Drift
 
 If you have Blizzard it can help a ton with this fight. Volcanic Top -\>
@@ -8505,123 +8142,64 @@ Melia.
 Team Xen Geara and Zetta (Volcano Top Field)
 
 -   Krookodile, Level 53. @ Muscle Band.
-
     -   Earthquake
-
     -   Rock Slide
-
     -   Crunch
-
     -   Low Kick
-
 -   Grimmsnarl, Level 53. @ Light Clay.
-
     -   False Surrender
-
     -   Spirit Break
-
     -   Reflect
-
     -   Light Screen
-
 -   Gyarados, Level 54. @ Assault Vest.
-
     -   Iron Head
-
     -   Waterfall
-
     -   Earthquake
-
     -   Stone Edge
-
 -   Clefable, Level 55. @ Sitrus Berry.
-
     -   Thunder Wave
-
     -   Thunder
-
     -   Moonblast
-
     -   Flamethrower
-
 -   Marowak (Alolan), Level 53. @ Thick Club.
-
     -   Bonemerang
-
     -   Shadow Bone
-
     -   Low Kick
-
     -   Fire Punch
-
 -   Gengar, Level 55. @ Life Orb.
-
     -   Shadow Ball
-
     -   Sludge Bomb
-
     -   Will-O-Wisp
-
     -   Focus Blast
-
 -   Minior, Level 53. @ Telluric Seed.
-
     -   Shell Smash
-
     -   Acrobatics
-
     -   Rock Slide
-
     -   Earthquake
-
 -   Weavile, Level 53. @ Razor Claw.
-
     -   Poison Jab
-
     -   Brick Break
-
     -   Night Slash
-
     -   Fake Out
-
 -   Absol, Level 53. @ Scope Lens.
-
     -   Stone Edge
-
     -   Sucker Punch
-
     -   Night Slash
-
     -   Brick Break
-
 -   Typhlosion, Level 55. @ Wise Glasses.
-
     -   Eruption
-
     -   Heat Wave
-
     -   Focus Blast
-
     -   Hidden Power Grass
-
 -   Dragonite, Level 54. @ Muscle Band.
-
     -   Brick Break
-
     -   Dragon Claw
-
     -   Rock Slide
-
     -   Thunder Punch
-
 -   Silvally, Level 55. @ Ground Memory.
-
     -   Multi-Attack
-
     -   Rock Slide
-
     -   Heat Wave
-
     -   Thunder
 
 This battle is insane, but at least a fitting final Xen boss to Act 1 of
@@ -8679,11 +8257,11 @@ The girl in the top right running in place can teach you some moves:
 
 Akuwa Town Outdoor Move Tutor
 
-Grass Pledge 3 Green Shards
-
-Fire Pledge 3 Red Shards
-
-Water Pledge 3 Blue Shards
+| Move          | Price             |
+|---------------|-------------------|
+|Grass Pledge   | 3 Green Shards    |
+|Fire Pledge    |3 Red Shards       |
+|Water Pledge   |3 Blue Shards      |
 
 Enter the ACDMC in the upper right. At the top left corner, you can
 trade in 10 of each color shard for the *Sail Fossil, Jaw Fossil, Skull
@@ -8696,38 +8274,35 @@ In the house on the left side of house there are two more Tutors.
 
 Akuwa Town Indoor Left Move Tutor
 
-Water Pulse 2 Blue Shards
-
-Shock Wave 3 Yellow Shards
+| Move          | Price             |
+|---------------|-------------------|
+|Water Pulse    | 2 Blue Shards     |
+|Shock Wave     | 3 Yellow Shards   |
 
 Akuwa Town Indoor Right Move Tutor
 
-Snore 2 Red Shards
-
-Bounce 2 Blue Shards
-
+| Move          | Price             |
+|---------------|-------------------|
+|Snore          | 2 Red Shards      |
+|Bounce         | 2 Blue Shards     |
+ 
 In the left house, someone will give you an *Elemental Seed,* the other
 a *Cleanse Tag.* In Larry Locksmith's house to the south, a guy will
 give you a *Nugget!* Enter the Pokemart to see a scene with Karrina.
 She'll then give you a *Repel.*
 
-Akuwa Town Pokemart
+Akuwa Town Shop
 
-*Ultra Ball* $1200
-
-*Luxury Ball* $1000
-
-*Hyper Potion* $1200
-
-*GourmetTreat* $1500
-
-*Repel* $350
-
-*Super Repel* $500
-
-*Max Repel* $700
-
-*Escape Rope* $550
+|Item          |Price|
+|--------------|-----|
+|*Ultra Ball*  |$1200|
+|*Luxury Ball* |$1000|
+|*Hyper Potion*|$1200|
+|*GourmetTreat*|$1500|
+|*Repel*       |$350 |
+|*Super Repel* |$500 |
+|*Max Repel*   |$700 |
+|*Escape Rope* |$550 |
 
 Enter the house to the right to get 5 *Quick Balls.*
 
@@ -8737,21 +8312,15 @@ Secret Shore. Head to the southwestern most island, and rock climb. Here
 begins a quest for two Hoenn Pokemon.
 
 1.  Talk to Mudkip on the southwest island (requires Rock Climb/Cut)
-
 2.  Talk to Mudkip on the southern middle island
-
 3.  Talk to Mudkip on the center right island (requires Cut)
-
 4.  Head to the back room of Xen Shadow HQ. Use Madelis' key to take the
     train to the hidden lab.
-
 5.  Talk to the machine, and present your Metal Powder, 3 Cell
     Batteries, and Poke Ball to obtain **Ralts!**
-
 6.  Exit out the door at the bottom, then head down to Mudkip. While
     you're here, pick up a *Damp Rock* and a *Fighting Memory,* and a
     hidden *Star Piece* to the south.
-
 7.  Surf up from here, and enter Xen Lab from its left side. The door is
     sorta hard to see. Then exit to the south. Surf across and to the
     right, and you can battle/catch **Mudkip!**
@@ -8777,13 +8346,12 @@ Resort and enter the dance hall.
 
 Concert Hall Left Shop
 
-*Hyper Potion* $1200
-
-*Super Potion* $700
-
-*Burn Heal* $250
-
-*GourmetTreat* $2000
+|Item          |Price|
+|--------------|-----|
+|*Hyper Potion*|$1200|
+|*Super Potion*|$700 |
+|*Burn Heal*   |$250 |
+|*GourmetTreat*|$2000|
 
 Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M.* You can
 also battle her. Talk to the girl at the top. She'll tell us about
@@ -8799,63 +8367,34 @@ Once you've hyped to the max, head into the battlefield.
 Music Enthusiast Amber (Volcano Top Field)
 
 -   Camerupt, Level 53. @ Focus Sash.
-
     -   Fever Pitch
-
     -   Hidden Power Electric
-
     -   Earthquake
-
     -   Lava Plume
-
 -   Arcanine, Level 54. @ Assault Vest.
-
     -   Bulldoze
-
     -   Magma Drift
-
     -   Wild Charge
-
     -   Close Combat
-
 -   Flareon, Level 54. @ Telluric Seed.
-
     -   Magma Drift
-
     -   Toxic
-
     -   Rest
-
     -   Fever Pitch
-
 -   Blaziken, Level 53. @ Air Balloon.
-
     -   Fever Pitch
-
     -   Hi Jump Kick
-
     -   Thunder Punch
-
     -   Protect
-
 -   Chandelure, Level 53. @ Air Balloon.
-
     -   Magma Drift
-
     -   Shadow Ball
-
     -   Energy Ball
-
     -   Flame Charge
-
 -   Aevian Toxtricity, Level 55. @ Throat Spray.
-
     -   Hidden Power Grass
-
     -   Thunder
-
     -   Boomburst
-
     -   Fever Pitch
 
 Fever Pitch: Fire \| Special \| 70, 100, or 130 power depending on Hype
@@ -8868,9 +8407,7 @@ Relationship Points are granted based on the conditions under which you
 end this battle:
 
 -   End the battle on Snowy Mountain field (-2 Amber)
-
 -   End the battle with \<300 Hype (-4 Amber)
-
 -   End the battle with \>= 300 Hype (+3 Amber)
 
 Anyways, this battle isn't super tough, but it can still be tricky. Her
@@ -8924,8 +8461,7 @@ Forest of Time
 ZCell 051: Forest of Time
 
 <img src="/assets/media/rejuv/image52.PNG"
-style="width:6.6875in;height:5.02737in"
-alt="Screenshot of a video game Description automatically generated" />
+style="width:6.6875in;height:5.02737in"/>
 
 In this lower area there is also a hidden *Calcium* and *Reverse Candy.*
 
@@ -8934,8 +8470,7 @@ Head up and surf to the left.
 ZCell 052: Forest of Time
 
 <img src="/assets/media/rejuv/image53.PNG"
-style="width:6.6875in;height:5.01563in"
-alt="Graphical user interface, application Description automatically generated" />
+style="width:6.6875in;height:5.01563in"/>
 
 Surf to the right, then rock climb down to get *TM40 Aerial Ace!*
 
@@ -9799,8 +9334,7 @@ meaning you can grab:
 ZCell 057: Church of Theolia
 
 <img src="/assets/media/rejuv/image59.PNG"
-style="width:6.09771in;height:4.58403in"
-alt="Graphical user interface Description automatically generated" />
+style="width:6.09771in;height:4.58403in"/>
 
 We won't be able to come back for a little while, so I recommend you
 farm as much AP as you can and head to the AP vendor at the casino. We
@@ -9977,7 +9511,7 @@ Head back to Yui's Ranch. You'll get 3 *Cherish Balls!* (+1 Karma)
 
 Now, the shop inside is in business:
 
-Yui's Ranch Store (Not open at night)
+Yui's Ranch Shop (Not open at night)
 
 *Ultra Ball* $1200
 
@@ -10312,8 +9846,7 @@ Leech Life*, and a hidden *Dark Gem, Ether,* and *TinyMushroom.*
 ZCell 063: Sensu Meadow
 
 <img src="/assets/media/rejuv/image65.PNG"
-style="width:6.79167in;height:5.12619in"
-alt="A screenshot of a video game Description automatically generated with medium confidence" />
+style="width:6.79167in;height:5.12619in"/>
 
 Make your way to the hole towards the top of the meadow, then fall. In
 the cave, grab *TM97 Dark Pulse* and hidden *Ice Gem* and *Magical
@@ -10465,8 +9998,7 @@ is larger than both Gearen's combined.
 ZCell 064: Dream District
 
 <img src="/assets/media/rejuv/image66.PNG"
-style="width:6.82292in;height:5.08909in"
-alt="A picture containing text Description automatically generated" />
+style="width:6.82292in;height:5.08909in"/>
 
 Cross the bridge. You'll observe that you can take the train between
 areas for $1950. Since GDC is so large, I recommend at least exploring
@@ -10516,8 +10048,7 @@ Head into the elevator here, and head to the 14th floor to get:
 ZCell 066: Dream District
 
 <img src="/assets/media/rejuv/image68.PNG"
-style="width:6.73964in;height:5.10417in"
-alt="Graphical user interface Description automatically generated" />
+style="width:6.73964in;height:5.10417in"/>
 
 Outside, a ranger gives a *Leppa Berry* when they lose.
 
@@ -10565,8 +10096,7 @@ Immediately head up as you enter to grab:
 ZCell 068: Dream District
 
 <img src="/assets/media/rejuv/image70.PNG"
-style="width:6.61458in;height:4.98438in"
-alt="Diagram Description automatically generated" />
+style="width:6.61458in;height:4.98438in"/>
 
 Head to the west and follow the tree line to nab a *Rare Candy.* Hidden
 on this map, you'll find *Green Shard,* 2 *Blue Shards, Health Wing,
@@ -10575,7 +10105,7 @@ Iron, Max Repel, Ether, Red Shard.*
 Enter the building in the southeast, where we can buy a few incenses and
 herbs.
 
-Dream District West Spice Store
+Dream District West Spice Shop
 
 *Heal Powder* $450
 
@@ -10721,8 +10251,7 @@ room.
 ZCell 071: Dream Complex
 
 <img src="/assets/media/rejuv/image73.PNG"
-style="width:6.30208in;height:4.76728in"
-alt="Diagram Description automatically generated" />
+style="width:6.30208in;height:4.76728in"/>
 
 Talk to Rhodea in the living room, then attempt to leave. When you're
 ready, head to the north into Dream District Northwest.
@@ -11339,8 +10868,7 @@ While you're in this room, head to the southeast to grab:
 ZCell 078: Rose Theater
 
 <img src="/assets/media/rejuv/image80.PNG"
-style="width:6.41667in;height:4.79604in"
-alt="A picture containing text Description automatically generated" />
+style="width:6.41667in;height:4.79604in"/>
 
 Exit the southwestern most door of the theater, and you'll grab *TM120
 Solar Blade.* There is also a hidden *Fresh Water* nearby. Exit the
@@ -11468,7 +10996,7 @@ Shopping District Mall 3F Vendor 2
 
 *Cell Battery* $200
 
-## Axis High University 1<sup>st</sup> Visit
+## Axis High University 1st Visit
 
 Head back to GDC and go as north as you can, north of the Central
 Building. Lots to do here!
@@ -11536,7 +11064,7 @@ Once you win, you'll get **Darumaka.**
 
 On the left, there are more vendors.
 
-Axis High University Right Vendor Store
+Axis High University Right Vendor Shop
 
 *Vanilla Ice Cream* $400
 
@@ -11546,7 +11074,7 @@ Axis High University Right Vendor Store
 
 She'll also rarely have *Blue Moon Ice Cream* to sell.
 
-Axis High University Left Vendor Store
+Axis High University Left Vendor Shop
 
 *Reverse Candy* $50
 
@@ -14025,7 +13553,7 @@ MegaStone *Sandacondanite.*
 
 That's all there is to do in that cave for now!
 
-## Zorrialyn Labyrinth 1<sup>st</sup> Visit
+## Zorrialyn Labyrinth 1st Visit
 
 Next, we're going to do some treasure hunting. Head down south of
 Zorrialyn Coast, and you'll see a cave entrance.
@@ -14750,8 +14278,7 @@ You'll also find:
 ZCell 094: Route 2 (Altered)
 
 <img src="/assets/media/rejuv/image97.PNG"
-style="width:6.63542in;height:4.98567in"
-alt="A picture containing colorful Description automatically generated" />
+style="width:6.63542in;height:4.98567in"/>
 
 Return to the past again and give the guy on Route 2 some research notes
 so he'll finally move out of the way. At night only, you can get:
@@ -15154,8 +14681,7 @@ Route 10
 You can also catch the overhead **Wingull** and **Pelipper!**
 
 <img src="/assets/media/rejuv/image99.PNG"
-style="width:4.875in;height:3.42538in"
-alt="A picture containing text, person, orange Description automatically generated" />
+style="width:4.875in;height:3.42538in"/>
 
 That's all we can do right now, so head back to the GDC Tournament
 Stadium and board the ship.
@@ -16573,7 +16099,7 @@ Goomidra Crest Shop
 
 *Whiscash Crest* $100000
 
-## Zorrialyn Labyrinth 2<sup>nd</sup> Visit
+## Zorrialyn Labyrinth 2nd Visit
 
 Next, fly to Alamissa Urben and go straight up. Take the unconscious
 Karen back to the village, then agree to go to the labyrinth again. Add
@@ -17670,7 +17196,7 @@ Relationship Point Choices:
 
 # Chapter 15: Vague Clarity
 
-## League Administration 1<sup>st</sup> Visit
+## League Administration 1st Visit
 
 ### Day 01: Vs. Melia
 
@@ -18308,7 +17834,7 @@ Relationship Point Choices:
 
 Head up and into the school.
 
-Axis High Store
+Axis High Shop
 
 *Poke Ball* $200
 
@@ -18347,8 +17873,7 @@ In another room on this floor you'll find:
 ZCell 107: Axis High University
 
 <img src="/assets/media/rejuv/image112.PNG"
-style="width:6.96667in;height:5.23465in"
-alt="A screenshot of a computer game Description automatically generated with low confidence" />
+style="width:6.96667in;height:5.23465in"/>
 
 Head back downstairs, where you'll find Amber! You'll be given *Concert
 Tickets* and *Amber's Letter!* Talk to Saki in the cafeteria to the
@@ -18396,7 +17921,7 @@ Head outside. Enter this classroom to the left and use the ‘A' key to do
 a group investigation in here. Back outside, you'll find that Zetta has
 taken up the shop.
 
-Nightmare University Store
+Nightmare University Shop
 
 *Super Potion* $700
 
@@ -19640,8 +19165,7 @@ the left. You'll find **Aevian Munna** roaming about!
 ZCell 108: Hidden Axis Lab
 
 <img src="/assets/media/rejuv/image113.PNG"
-style="width:6.26542in;height:4.69167in"
-alt="A picture containing electronics, computer Description automatically generated" />
+style="width:6.26542in;height:4.69167in"/>
 
 Follow the path up. After this scene is over, head back out and down to
 Saki's gym!
@@ -19893,12 +19417,12 @@ of this quest!
 Next, make your way to the Den of Souls via Goldenwood Grove. Head up to
 pick up the *HP Up.* Follow the path to the city area and find a
 *Revive* on the left. Hidden here is also *Nugget, Damp Rock,* and *Red
-Shard.* Make your way to the 3<sup>rd</sup> HQ, and head to the
-3<sup>rd</sup> floor. In the rooms with the notes, you can grab an
+Shard.* Make your way to the 3rd HQ, and head to the
+3rd floor. In the rooms with the notes, you can grab an
 *Antidote,* a *Full Heal,* a *Revival Herb.* A room to the left has an
 *Elixir* in it. On the second floor, you can find a *Max Potion.*
 
-Exit to the 3<sup>rd</sup> Layer. On the right is an *Ultra Potion.*
+Exit to the 3rd Layer. On the right is an *Ultra Potion.*
 Down, you'll find a hidden *Rare Candy.* Head to the left. We can surf
 here!
 
