@@ -1,9 +1,20 @@
-t = '''
-50 Coins $1000
+t = '''*Sticky Barb* $200
 
-500 Coins $10000
+*Lagging Tail* $200
 
-'''
+*Iron Ball* $200
+
+*Binding Band* $200
+
+*Float Stone* $200
+
+*Eject Button* $200
+
+*Red Card* $200
+
+*Ring Target* $200
+
+*Metronome* $200'''
 
 lines = t.split('\n')
 items = []

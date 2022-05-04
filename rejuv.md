@@ -185,7 +185,9 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#aevium-alt-future" id="toc-aevium-alt-future">Aevium (Alt. Future)</a>
     -   <a href="#aevium-past-2nd-visit-part-2" id="toc-aevium-past-2nd-visit-part-2">Aevium (Past) 2nd Visit Part 2</a>
     -   <a href="#ana-quest-part-1" id="toc-ana-quest-part-1">ANA Quest Part 1</a>
+        -   <a href="#hquest-26-missing-children" id="toc-hquest-26-missing-children">HQuest 26: Missing Children</a>
     -   <a href="#classified-information-quest" id="toc-classified-information-quest">Classified Information Quest</a>
+        -   <a href="#hquest-27-classified-information" id="toc-hquest-27-classified-information">HQuest 27: Classified Information</a>
     -   <a href="#golden-wing-badge" id="toc-golden-wing-badge">Golden Wing Badge</a>
     -   <a href="#the-aelita-incident" id="toc-the-aelita-incident">The Aelita Incident</a>
 -   <a href="#chapter-13-conflicting-renunion" id="toc-chapter-13-conflicting-renunion">Chapter 13: Conflicting Renunion</a>
@@ -6131,28 +6133,28 @@ Enter Crawli's gym in the ranger HQ once you have prepped your team.
 Talk to Holly at the entrance, then enter one of the caves and talk to
 her again - and our challenge will begin.
 
-1.   Push the first log on the left to the left
-2.  Push the second log on the left up
-3.   Push the third log up, and you'll battle wild **Pinsir!**
-4.   Hop the center of this log, then go up and hop over the next center
+-   Push the first log on the left to the left
+-  Push the second log on the left up
+-   Push the third log up, and you'll battle wild **Pinsir!**
+-   Hop the center of this log, then go up and hop over the next center
     of the next log
-5.   Talk to Ariados in the bottom corner, then talk to Holly at the top
-6.   In this new room, hop over the log on the left side then talk to
+-   Talk to Ariados in the bottom corner, then talk to Holly at the top
+-   In this new room, hop over the log on the left side then talk to
     Ariados.
-7.   Push the log above on the left to fight another Pinsir.
-8.   Hop over it, then smash the rock smash rocks in the area.
-9.   Talk to the Ariados on the right side, then push the log on the
+-   Push the log above on the left to fight another Pinsir.
+-   Hop over it, then smash the rock smash rocks in the area.
+-   Talk to the Ariados on the right side, then push the log on the
     upper left side up one space
-10.   On the right side, push the bottom log down. Push the other log to
+-   On the right side, push the bottom log down. Push the other log to
     the left, then up as far as it can go.
-11.   Follow this vertical log to the top, then push it left, then up
-12.   Push the bottom horizontal log up again, then climb the stairs and
+-   Follow this vertical log to the top, then push it left, then up
+-   Push the bottom horizontal log up again, then climb the stairs and
     hop across
-13.   Push the log on this platform up
-14.   Return to the platform, jump to the right side, then jump all the
+-   Push the log on this platform up
+-   Return to the platform, jump to the right side, then jump all the
     way across the platforms to the left on the logs we have now put in
     place, then talk to Holly
-15.   Head up, then hop to the left and talk to this Ariados. Up and to
+-   Head up, then hop to the left and talk to this Ariados. Up and to
     the right you can find:
 
 ZCell 030: Kakori Gym
@@ -6160,13 +6162,13 @@ ZCell 030: Kakori Gym
 <img src="/assets/media/rejuv/image30.png"
 style="width:6.66667in;height:4.98958in" />
 
-16.   Head back all the way down, and to the right. Climb the stairs by
+-   Head back all the way down, and to the right. Climb the stairs by
     the teleporter
-17.   Push the log off the platform down, then use it to cross to the
+-   Push the log off the platform down, then use it to cross to the
     middle platform. Approach the tile that sticks out, and if you've
     found all the Ariados, an event will play.
-18.   Jump across and enter.
-19.   Talk to Holly, then get onto the bridge. Go to the right and surf
+-   Jump across and enter.
+-   Talk to Holly, then get onto the bridge. Go to the right and surf
     down to grab *Bug Memory.* Back on the bridge, take the leap of
     faith!
 
@@ -7166,12 +7168,12 @@ Return to the help center to get $4000 and *Mystic Water.*
 Head outside and talk with Dr. Jenkel. We must find and talk to 7 people
 all around the island.
 
-1. Enter the house directly to the left of the dock bridge in Kristiline.
+- Enter the house directly to the left of the dock bridge in Kristiline.
 Talk to the old lady.
-2. Enter the Kristiline mart, and talk to the girl in the aisles.
-3. Enter the south middle villa in Teila Resort, and talk to the lady on
+- Enter the Kristiline mart, and talk to the girl in the aisles.
+- Enter the south middle villa in Teila Resort, and talk to the lady on
 the left side.
-4. talk to the hiker hiding behind the south left villa in Teila Resort.
+- talk to the hiker hiding behind the south left villa in Teila Resort.
 
 While you're in Teila, notice that there is a new Move Tutor on the east
 side:
@@ -7186,11 +7188,11 @@ Teila Resort Move Tutor
 
 Anyways,
 
-5. Enter the construction hut in Terajuma Jungle and talk to the
+- Enter the construction hut in Terajuma Jungle and talk to the
     guy on the couch.
-6. Talk to someone in the middle house in the row of houses in Kakori
+- Talk to someone in the middle house in the row of houses in Kakori
 village.
-7. Talk to the other person in the same house.
+- Talk to the other person in the same house.
 
 Then, head outside… After getting teleported, claim your rewards:
 *Exp. Candy L* and *Up-Grade.* (+1 Karma)
@@ -10533,7 +10535,7 @@ That's it for now: we'll start the Kimono Girls' side quest now.
 
 We are going to find all the Kimono girls.
 
-1. Kimono Girl Beatrice: First: Judicial District Police Department.
+- Kimono Girl Beatrice: First: Judicial District Police Department.
 But she needs us to do something first. Head to Route 9 and go to the
 beach and fight the white-haired guy here. Afterwards, return to
 Beatrice.
@@ -10543,7 +10545,7 @@ police station, and give him the final parcel. Head back to the trucker.
 Talk to him, and he'll activate an encounter on Route 9 that we will get
 to in a bit.
 
-2. Kimono Girl Lana: First, northwest Dream District outside of Ruka's
+- Kimono Girl Lana: First, northwest Dream District outside of Ruka's
 Cafe. Head down into the Residential District.
 
 Relationship Point Choices:
@@ -10554,14 +10556,14 @@ Next, you'll find her at Nightmare City (Left side of second map). Save
 her from **Sableye.** Then, meet at the Dream District Northwest area
 again.
 
-3. Kimono Girl Efi: Grand Dream Gate (east of GDC entrance). She will
+- Kimono Girl Efi: Grand Dream Gate (east of GDC entrance). She will
 give you a *Pearl.*
-4. Kimono Girl Midori: Oblitus Town (top, behind the decrepit gym)
-5. Kimono Girl Sesilia: Sensu Meadow (right side of the maze area).
+- Kimono Girl Midori: Oblitus Town (top, behind the decrepit gym)
+- Kimono Girl Sesilia: Sensu Meadow (right side of the maze area).
 Answer no to her question.
-6. Kimono Girl Eyna: Honec Woods (shrine area to the west of the main
+- Kimono Girl Eyna: Honec Woods (shrine area to the west of the main
 area)
-7. Kimono Girl Ruka: Route 9 (Where the Flamethrower T.M. was, via
+- Kimono Girl Ruka: Route 9 (Where the Flamethrower T.M. was, via
 Forlorned Cave)
 
 On our way back, enter the cave entrance on Route 9 to the north of
@@ -10576,37 +10578,28 @@ Stamp!*
 
 Shopping District Mall 3F Shop 1
 
-*Fire Stone* $,100
-
-*Water Stone* $2100
-
-*Leaf Stone* $2100
-
-*Thunderstone* $2100
-
-*Sun Stone* $2100
-
-*Moon Stone* $2100
-
-*Power Lens* $2100
-
-*Power Band* $2100
+|Item          |Price|
+|--------------|-----|
+|*Fire Stone*  |$2100|
+|*Water Stone* |$2100|
+|*Leaf Stone*  |$2100|
+|*Thunderstone*|$2100|
+|*Sun Stone*   |$2100|
+|*Moon Stone*  |$2100|
+|*Power Lens*  |$2100|
+|*Power Band*  |$2100|
 
 Shopping District Mall 3F Shop 2
 
-*Air Balloon* $200
-
-*White Herb* $100
-
-*Mental Herb* $100
-
-*Power Herb* $100
-
-*Absorb Bulb* $200
-
-*Snowball* $200
-
-*Cell Battery* $200
+|Item          |Price|
+|--------------|-----|
+|*Air Balloon* |$200 |
+|*White Herb*  |$100 |
+|*Mental Herb* |$100 |
+|*Power Herb*  |$100 |
+|*Absorb Bulb* |$200 |
+|*Snowball*    |$200 |
+|*Cell Battery*|$200 |
 
 ## Axis High University 1st Visit
 
@@ -10615,38 +10608,33 @@ Building. Lots to do here!
 
 Axis High University
 
-|                       |          |                   |          |                     |          |
-|-----------------------|----------|-------------------|----------|---------------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
-| Chatot                | 29       | Togedemaru        | 34       | Rattata             | 40       |
-| Skiddo                | 20       | Skiddo            | 20       | Raticate            | 20       |
-| Leavanny              | 20       | Leavanny          | 20       | Hoothoot            | 20       |
-| Forretress            | 10       | Electrike         | 10       | Noctowl             | 10       |
-| Lillipup              | 10       | Gogoat            | 10       | Ariados             | 9        |
-| Gogoat                | 5        | Chatot            | 4        | Dustox              | 1        |
-| Togedemaru            | 4        | **Manectric**     | 2        |                     |          |
-| Stoutland             | 2        |                   |          |                     |          |
+| Grass: Morning| %   | Grass: Day     | %   | Grass: Night| %   |
+|---------------|-----|----------------|-----|-------------|-----|
+| Chatot        | 29  | Togedemaru     | 34  | Rattata     | 40  |
+| Skiddo        | 20  | Skiddo         | 20  | Raticate    | 20  |
+| Leavanny      | 20  | Leavanny       | 20  | Hoothoot    | 20  |
+| Forretress    | 10  | Electrike      | 10  | Noctowl     | 10  |
+| Lillipup      | 10  | Gogoat         | 10  | Ariados     | 9   |
+| Gogoat        | 5   | Chatot         | 4   | Dustox      | 1   |
+| Togedemaru    | 4   | **Manectric**  | 2   |             |     |
+| Stoutland     | 2   |                |     |             |     |
 
-|                 |          |                |          |
-|-----------------|----------|----------------|----------|
-| Old Rod  | % | Water   | % |
-| Goldeen         | 70       | Clauncher      | 60       |
-| Clauncher       | 30       | Mantine        | 34       |
-| Good Rod |          | Bruxish        | 6        |
-| Clauncher       | 60       |                |          |
-| Goldeen         | 20       |                |          |
-| Seaking         | 20       |                |          |
+| Water     | %   | Old Rod   | %  |Good Rod   | %   |
+|-----------|-----|-----------|----|-----------|-----|
+| Clauncher | 60  | Goldeen   | 70 |Clauncher  | 60  |
+| Mantine   | 34  | Clauncher | 30 |Goldeen    | 20  |
+| Bruxish   | 6   |           |    |Seaking    | 20  |
 
 Start to the right. The guy nearby will sell you a Chatot for $15000.
 Grab the *Ether* down from here. The girl to the right is a tutor.
 
 Axis High University Move Tutor (Right)
 
-Water Pledge 3 Blue Shards
-
-Grass Pledge 3 Green Shards
-
-Fire Pledge 3 Red Shards
+| Move          | Price            |
+|---------------|------------------|
+|Water Pledge   |3 Blue Shards     |
+|Grass Pledge   |3 Green Shards    |
+|Fire Pledge    |3 Red Shards      |
 
 Up in the upper right corner, you'll find the Name Rater and the Move
 Relearner, next to a *Green Shard.* Neat.
@@ -10654,14 +10642,15 @@ Relearner, next to a *Green Shard.* Neat.
 Talk to the high striker machine here. Pay the price, then it will
 randomly payoff as follows:
 
-2% *HM06 Dive*
+|Outcome       |Chance          |
+|--------------|----------------|
+|*HM06 Dive*   | 2%             |
+|*Poke Doll.*  | 14%            |
+| Fee refunded | 22%            |
+| Nothing      | 62%            |
 
-14% *Poke Doll.* Note that the first time you get it, it will be a
-**Stufful!**
-
-22% Refund
-
-62% Nothing
+Note that the first time you get the Poke Doll prize, it will actually
+be a **Stufful!**
 
 So, grab what you need from here. Talk to the guy on the left and give
 him a Blue Shard in exchange for a puzzle! Here is the solution:
@@ -10669,8 +10658,7 @@ him a Blue Shard in exchange for a puzzle! Here is the solution:
 <img src="/assets/media/rejuv/image82.png"
 style="width:2.55208in;height:2.53125in" />
 
-The following link can help you solve this kind of puzzle:
-<https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/>
+[This link](https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/) may be helpful for solving this type of puzzle.
 
 Once you win, you'll get **Darumaka.**
 
@@ -10678,99 +10666,94 @@ On the left, there are more vendors.
 
 Axis High University Right Shop
 
-*Vanilla Ice Cream* $400
+|Item               |Price|
+|-------------------|-----|
+|*Vanilla Ice Cream*|$400 |
+|*Choc Ice Cream*   |$600 |
+|*Berry Ice Cream*  |$800 |
 
-*Choc Ice Cream* $600
-
-*Berry Ice Cream* $800
-
-She'll also rarely have *Blue Moon Ice Cream* to sell.
+She'll also rarely have *Blue Moon Ice Cream* to sell for $20000.
 
 Axis High University Left Shop
 
-*Reverse Candy* $50
-
-*Sachet* $1000
-
-*Funnel Cake* $7000
-
-*Whipped Dream* $1000
-
-*Apophyll Pancakes* $3000
-
-*Rare Candy* $30000
+|Item               |Price |
+|-------------------|------|
+|*Reverse Candy*    |$50   |
+|*Sachet*           |$1000 |
+|*Funnel Cake*      |$7000 |
+|*Whipped Dream*    |$1000 |
+|*Apophyll Pancakes*|$3000 |
+|*Rare Candy*       |$30000|
 
 Talk to the guy on the left. He'll offer us a chance at a little game,
 depending on which bait we buy. Standard bait is $2000, Delicious bait
 is $7500, and Gourmet bait is $20000. Here's a breakdown of what you
 can get for each:
 
-<table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 34%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Standard Bait</td>
-<td>Delicious Bait</td>
-<td>Gourmet Bait</td>
-</tr>
-<tr class="even">
-<td>1% Wishiwashi
-10% <em>Heart Scale</em>
-10% <em>Link Heart</em>
-10% <em>HP Up</em>
-10% <em>Lemonade</em>
-10% <em>Super Potion</em>
-10% <em>Honey</em>
-39% <em>Poke Ball</em></td>
-<td>1% <strong>Horsea</strong>
-10% <em>Heart Scale</em>
-10% <em>Link Heart</em>
-10% <em>Moon Stone</em>
-10% <em>Max Revive</em>
-10% <em>Ultra Potion</em>
-10% <em>Fire Stone</em>
-39% <em>Dusk Ball</em></td>
-<td>10% <em>Jaw Fossil</em>
-12% <strong>Horsea</strong>
-18% <em>Shiny Stone</em>
-20% <em>Sail Fossil</em>
-20% <em>Dawn Stone</em>
-20% <em>Dusk Stone</em></td>
-</tr>
-</tbody>
-</table>
+Standard Bait
+
+|Item/Pokemon       |Chance |
+|-------------------|-------|
+|**Wishiwashi**     |1%     |
+| *Heart Scale*     |10%    |
+| *Link Heart*      |10%    |
+| *HP Up*           |10%    |
+| *Lemonade*        |10%    |
+| *Super Potion*    |10%    |
+| *Honey*           |10%    |
+| *Poke Ball*       |39%    |
+
+Delicious Bait
+
+|Item/Pokemon       |Chance |
+|-------------------|-------|
+| **Horsea**        |1%     |
+| *Heart Scale*     |10%    |
+| *Link Heart*      |10%    |
+| *Moon Stone*      |10%    |
+| *Max Revive*      |10%    |
+| *Ultra Potion*    |10%    |
+| *Fire Stone*      |10%    |
+| *Dusk Ball*       |39%    |
+
+Gourmet Bait
+
+|Item/Pokemon       |Chance |
+|-------------------|-------|
+| *Jaw Fossil*      |10%    |
+| **Horsea**        |12%    |
+| *Shiny Stone*     |18%    |
+| *Sail Fossil*     |20%    |
+| *Dawn Stone*      |20%    |
+| *Dusk Stone*      |20%    |
 
 We can catch Wishiwashi elsewhere, and we also can buy Sail and Jaw
-Fossils elsewhere, so this is primarily useful right now for its
+Fossils elsewhere, so this is primarily useful right now for the
 evolution items and Horsea.
 
 Axis High University Move Tutor (Left Top)
 
-Endeavor 3 Green Shards
-
-Iron Tail 4 Yellow Shards
-
-Earth Power 3 Blue Shards
+|Move           | Price         |
+|---------------|---------------|
+|Endeavor       |3 Green Shards |
+|Iron Tail      |4 Yellow Shards|
+|Earth Power    |3 Blue Shards  |
 
 Axis High University Move Tutor (Left Bottom)
 
-Thunderpunch 2 Yellow Shards
-
-Fire Punch 2 Red Shards
-
-Ice Punch 2 Blue Shards
-
-Drain Punch 3 Red Shards
-
-Focus Punch 3 Red Shards
+|Move           | Price         |
+|---------------|---------------|
+|Thunderpunch   |2 Yellow Shards|
+|Fire Punch     |2 Red Shards   |
+|Ice Punch      |2 Blue Shards  |
+|Drain Punch    |3 Red Shards   |
+|Focus Punch    |3 Red Shards   |
 
 Axis High University Left Shop
 
-*Air Balloon* $200
+|Item         |Price|
+|-------------|-----|
+|*Air Balloon*|$200 |
 
 Once you're done exploring the area, talk to Erin at the top.
 
@@ -10780,13 +10763,9 @@ Relationship Point Choices:
 
 Pop Star Risa Raider (No Field)
 -   Tuff-Puff Jigglypuff, Level 85. @ Air Balloon.
-
     -   Poison Jab
-
     -   Thunderbolt
-
     -   Draco Meteor
-
     -   Flamethrower
 
 This is a 1v1. You don't have to win this one though. So, this may seem
@@ -10837,17 +10816,16 @@ Sheridan Village.
 
 Sheridan Village (Past)
 
-|              |          |
-|--------------|----------|
-| Grass | % |
-| Unfezant     | 24       |
-| Beautifly    | 20       |
-| Nuzleaf      | 20       |
-| Shiftry      | 15       |
-| Makuhita     | 10       |
-| Pinsir       | 9        |
-| **Hariyama** | 1        |
-| Heracross    | 1        |
+| Grass        | %   |
+|--------------|-----|
+| Unfezant     | 24  |
+| Beautifly    | 20  |
+| Nuzleaf      | 20  |
+| Shiftry      | 15  |
+| Makuhita     | 10  |
+| Pinsir       | 9   |
+| **Hariyama** | 1   |
+| Heracross    | 1   |
 
 Head north to the scene that plays out.
 
@@ -10861,58 +10839,34 @@ get 3 Pokemon.
 
 Enigma Melia & Candid Girl Erin (No Field)
 -   Meganium, Level 70. @ Meganium Crest.
-
     -   Reflect
-
     -   Ancient Power
-
     -   Giga Drain
-
     -   Stun Spore
 -   Zoroark, Level 71. @ Life Orb.
-
     -   Night Daze
-
     -   Sludge Bomb
-
     -   Flamethrower
-
     -   Protect
 -   Togekiss, Level 72. @ Sitrus Berry.
-
     -   Heat Wave
-
     -   Air Slash
-
     -   Follow Me
-
     -   Dazzling Gleam
 -   Swanna, Level 70. @ Wide Lens.
-
     -   Hurricane
-
     -   Surf
-
     -   Ice Beam
-
     -   Tailwind
 -   Zangoose, Level 71. @ Zangoose Crest.
-
     -   Façade
-
     -   Night Slash
-
     -   Close Combat
-
     -   Protect
 -   Absol, Level 72. @ Scope Lens.
-
     -   Sucker Punch
-
     -   Night Slash
-
     -   Psycho Cut
-
     -   Stone Edge
 
 This one is easy. Just make sure you don't get annihilated by Crest
@@ -10944,9 +10898,8 @@ Head east again into the Heracross Woods.
 
 Heracross Woods (Past)
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | Heracross    | 50       |
 | Beautifly    | 20       |
 | Unfezant     | 20       |
@@ -10966,58 +10919,34 @@ Head down the stairs after the scene.
 
 Sensei Vivian (Blessed Field)
 -   Tyranitar, Level 71. @ Smooth Rock.
-
     -   Toxic
-
     -   Stealth Rock
-
     -   Rock Slide
-
     -   Crunch
 -   Tyrantrum, Level 72. @ Assault Vest.
-
     -   Head Smash
-
     -   Earthquake
-
     -   Dragon Claw
-
     -   Superpower
 -   Rhyperior, Level 73. @ Assault Vest.
-
     -   Earthquake
-
     -   Stone Edge
-
     -   Ice Punch
-
     -   Megahorn
 -   Meganium, Level 71. @ Flame Plate.
-
     -   Ancient Power
-
     -   Leech Seed
-
     -   Nature Power (-\> Fire-type Judgement)
-
     -   Giga Drain
 -   Sigilyph, Level 72. @ Life Orb.
-
     -   Psyshock
-
     -   Heat Wave
-
     -   Roost
-
     -   Air Slash
 -   Alakazam, Level 73. @ Alakazite.
-
     -   Psychic
-
     -   Dazzling Gleam
-
     -   Focus Blast
-
     -   Calm Mind
 
 This one honestly isn't too bad, but her team does make good use of the
@@ -11049,58 +10978,34 @@ Follow the path.
 
 Captain Valarie (Murkwater Field)
 -   Toxicroak, Level 72. @ Assault Vest.
-
     -   Sucker Punch
-
     -   Poison Jab
-
     -   Drain Punch
-
     -   Ice Punch
 -   Dragalge, Level 73. @ Assault Vest.
-
     -   Venoshock
-
     -   Dragon Pulse
-
     -   Surf
-
     -   Thunderbolt
 -   Qwilfish, Level 72. @ Focus Sash.
-
     -   Destiny Bond
-
     -   Reversal
-
     -   Dive
-
     -   Poison Jab
 -   Tentacruel, Level 72. @ Black Sludge.
-
     -   Giga Drain
-
     -   Acid Spray
-
     -   Ice Beam
-
     -   Scald
 -   Cursola, Level 73. @ Leftovers.
-
     -   Strength Sap
-
     -   Will-o-Wisp
-
     -   Shadow Ball
-
     -   Scald
 -   Jellicent, Level 73. @ Leftovers.
-
     -   Sludge Bomb
-
     -   Scald
-
     -   Shadow Ball
-
     -   Recover
 
 As in her last fight the Swift Swim can catch you off guard, but this
@@ -11135,11 +11040,10 @@ Relationship Point Choices:
 
 In the room to the right, there are encounters!
 
-Blacksteeple Playroom (Chess Field)
+Blacksteeple Playroom
 
-|                |          |
+| Grass          | %        |
 |----------------|----------|
-| Grass   | % |
 | Amoongus       | 20       |
 | Graveler       | 20       |
 | Muk            | 10       |
@@ -11158,58 +11062,34 @@ the same for the left room. Then enter the top room.
 
 Survivor Kenneth (Chess Field)
 -   Banette, Level 71. @ Spell Tag.
-
     -   Toxic
-
     -   Phantom Force
-
     -   Foul Play
-
     -   Protect
 -   Alolan Muk, Level 72. @ Shuca Berry.
-
     -   Gunk Shot
-
     -   Crunch
-
     -   Curse
-
     -   Ice Punch
 -   Krookodile, Level 72. @ Assault Vest.
-
     -   Earthquake
-
     -   Crunch
-
     -   Stone Edge
-
     -   Low Kick
 -   Weavile, Level 73. @ Life Orb.
-
     -   Ice Punch
-
     -   Throat Chop
-
     -   Low Kick
-
     -   Poison Jab
 -   Aevian Lapras, Level 74. @ Leftovers.
-
     -   Ice Beam
-
     -   Surf
-
     -   Toxic
-
     -   Perish Song
 -   Lucario, Level 74. @ Focus Sash.
-
     -   Meteor Mash
-
     -   Close Combat
-
     -   Bullet Punch
-
     -   Swords Dance
 
 A bit harder of a fight this time, but still nothing intense. Aevian
@@ -11225,58 +11105,34 @@ Next is a battle against Melia.
 
 Enigma Melia (Chess Field)
 -   Snorlax, Level 72. @ Silk Scarf.
-
     -   Strength
-
     -   High Horsepower
-
     -   Heavy Slam
-
     -   Fire Punch
 -   Hydreigon, Level 74. @ Focus Sash.
-
     -   Dark Pulse
-
     -   Flash Cannon
-
     -   Gilded Arrow
-
     -   Nasty Plot
 -   Zoroark, Level 73. @ Blackglasses.
-
     -   Dark Pulse
-
     -   Sludge Bomb
-
     -   Flamethrower
-
     -   Sucker Punch
 -   Meganium, Level 73. @ Meganium Crest.
-
     -   Leech Seed
-
     -   Toxic
-
     -   Giga Drain
-
     -   Nature Power (-\> Ancient Power)
 -   Gardevoir, Level 73. @ Life Orb.
-
     -   Psychic
-
     -   Moonblast
-
     -   Calm Mind
-
     -   Mystical Fire
 -   Togekiss, Level 74. @ Synthetic Seed.
-
     -   Aura Sphere
-
     -   Gilded Arrow
-
     -   Nasty Plot
-
     -   Dazzling Gleam
 
 This is a tough fight this time around! Every one of her Pokemon are
@@ -11293,6 +11149,8 @@ work.
 Relationship Point Choices:
 - About what?
 - Sigh (Melia -3)
+
+Time for a story choice.
 -   If you choose Hand it Over, well… you're gonna get a game over. A
     game over that in fact will write to your save that you made that
     choice should you click Try Again. If that's what you want, go for
@@ -11312,31 +11170,19 @@ Time to play as Melia. Follow the path!
 
 Hood Emma (No Field)
 -   Zoroark, Level 74. @ Blackglasses.
-
     -   Dark Pulse
-
     -   Flamethrower
-
     -   Shadow Ball
-
     -   Grass Knot
 -   Gardevoir, Level 75. @ Pixie Plate.
-
     -   Moonblast
-
     -   Psychic
-
     -   Shadow Ball
-
     -   Calm Mind
 -   Togekiss, Level 78. @ Synthetic Seed.
-
     -   Aura Sphere
-
     -   Gilded Arrow
-
     -   Nasty Plot
-
     -   Dazzling Gleam
 
 A pretty easy fight for her team.
@@ -11346,58 +11192,34 @@ battle!
 
 Little Demon Melanie (No Field)
 -   Galarian Mr. Mime, Level 73. @ Eviolite.
-
     -   Calm Mind
-
     -   Psychic
-
     -   Ice Beam
-
     -   Energy Ball
 -   Obstagoon, Level 73. @ Sitrus Berry.
-
     -   Obstruct
-
     -   Double Edge
-
     -   Throat Chop
-
     -   Close Combat
 -   Thievul, Level 73. @ Thievul Crest.
-
     -   Sucker Punch
-
     -   Parting Shot
-
     -   Play Rough
-
     -   Crunch
 -   Boltund, Level 73. @ Boltund Crest.
-
     -   Thunder Fang
-
     -   Fire Fang
-
     -   Ice Fang
-
     -   Psychic Fangs
 -   Polteageist, Level 73. @ Colbur Berry.
-
     -   Nasty Plot
-
     -   Psychic
-
     -   Shadow Ball
-
     -   Giga Drain
 -   Alcremie, Level 75. @ Alcremite.
-
     -   Recover
-
     -   Draining Kiss
-
     -   Mystical Fire
-
     -   Calm Mind
 
 The news is good: Melia is your ally, so this is a 12v6. Pretty hard to
@@ -11420,13 +11242,9 @@ Relationship Point Choices:
 
 Guardian Regirock (Blessed Field)
 -   Regirock, Level 75. @ Lum Berry.
-
     -   Bulk Up
-
     -   Earthquake
-
     -   Stone Edge
-
     -   Drain Punch
 
 Time for another rift, this guy has 3 shields. Luckily since it is so
@@ -11455,147 +11273,149 @@ As always, these are optional, but extremely recommended! There's fewer
 here but they're more in depth this time. Head to the Central Building
 and into the left elevator to engage with these.
 
-HQuest 26: Missing Children
--   First thing we're gonna do is head to the Police Department in the
-    Judicial District. Talk to Officer Jenny at the top.
--   Talk to the people blocking the building to the left of the medicine
-    shop.
--   Head over to Pokestar Studios and talk to the guy hiding here.
--   Go to main street and talk to him again on the east side of the
-    south part of the street.
--   Return to the help center to cancel the request.
--   Return to Pokestar Studios to talk to the guy, then talk to the pair
-    at the bottom of the area and give them the password. Head in.
--   Welcome to the Underground. Talk to the lady in the first house if
-    you want to learn a prophecy. Talk to Dylan here, then again in the
-    main plaza.
--   Head east and talk to the psychologist here.
--   Head south. Grab:
+### HQuest 26: Missing Children
+First thing we're gonna do is head to the Police Department in the
+Judicial District. Talk to Officer Jenny at the top.
+    
+Talk to the people blocking the building to the left of the medicine
+shop.
+
+Head over to Pokestar Studios and talk to the guy hiding here.
+
+Go to main street and talk to him again on the east side of the 
+south part of the street.
+
+Return to the help center to cancel the request.
+
+Return to Pokestar Studios to talk to the guy, then talk to the pair
+at the bottom of the area and give them the password. Head in.
+
+Welcome to the Underground. Talk to the lady in the first house if
+you want to learn a prophecy. Talk to Dylan here, then again in the
+main plaza.
+
+Head east and talk to the psychologist here. Head south. Grab:
 
 ZCell 080: The Underground
 
 <img src="/assets/media/rejuv/image83.png"
 style="width:6.73958in;height:5.03125in" />
--   Enter this shop here and talk to the owner. Buy something if you'd
-    like.
+   
+Enter this shop here and talk to the owner. Buy something if you'd like.
 
 The Underground Shop (Inside)
 
-*Ultra Ball* $1200
+|Item          |Price|
+|--------------|-----|
+|*Ultra Ball*  |$1200|
+|*Dusk Ball*   |$1000|
+|*Hyper Potion*|$1200|
+|*Revive*      |$8500|
+|*Full Heal*   |$600 |
 
-*Dusk Ball* $1000
+Head up a bit from here into the main yard. Confront the art thief
+if you've advanced that side quest.
 
-*Hyper Potion* $1200
-
-*Revive* $8500
-
-*Full Heal* $600
--   Head up a bit from here into the main yard. Confront the art thief
-    if you've advanced that side quest.
--   Head into the main building to the left and speak with the guy.
+Head into the main building to the left and speak with the guy.
 
 The Underground Shop (Left)
 
-*Metal Powder* $10
-
-*Cell Battery* $200
-
-*Magnet* $100
-
-*Quick Powder* $10
-
-*Blast Powder* $2500
+|Item          |Price|
+|--------------|-----|
+|*Metal Powder*|$10  |
+|*Cell Battery*|$200 |
+|*Magnet*      |$100 |
+|*Quick Powder*|$10  |
+|*Blast Powder*|$2500|
 
 The Underground Shop (Right)
 
-*Oval Stone* $2100
+|Item          |Price|
+|--------------|-----|
+|*Oval Stone*  |$2100|
+|*Sticky Barb* |$200 |
+|*Charcoal*    |$9800|
+|*Light Ball*  |$100 |
+|*Stick*       |$200 |
+|*Float Stone* |$200 |
+|*Binding Band*|$200 |
 
-*Sticky Barb* $200
+Make sure you buy Metal Powder and magnets here!! We still have a
+quest from a few episodes ago that requires them. Also, buy a bunch
+of Blast Powder - we'll need at least one when we return.
 
-*Charcoal* $9800
+Head to the east, then up and to the left to fight the Thief from
+earlier. Beat him and get *Family Portrait!*
 
-*Light Ball* $100
-
-*Stick* $200
-
-*Float Stone* $200
-
-*Binding Band* $200
--   Make sure you buy Metal Powder and magnets here!! We still have a
-    quest from a few episodes ago that requires them. Also, buy a bunch
-    of Blast Powder - we'll need at least one when we return.
--   Head to the east, then up and to the left to fight the Thief from
-    earlier. Beat him and get *Family Portrait!*
--   Directly east, you'll find:
+Directly east, you'll find:
 
 ZCell 081: The Underground
 
 <img src="/assets/media/rejuv/image84.png"
 style="width:6.67708in;height:5.05208in" />
--   Talk to Dylan again, then head to the east. Go up until a scene
-    plays out.
--   Head to the bottom of this area then east to the docks, and grab the
-    *Toxic Orb.*
--   Return to the Main Building, talk to Dylan, then enter and head up.
-    Grab the *Metal Coat* here, and *Mystery Bowl* hidden in some trash.
--   Head up the tower, fighting grunts as you go. There is a *PP Up* and
-    a *Lemonade* hidden on the third floor. There is also a *Hyper
-    Potion.*
--   On the fourth floor there is a hidden *Full Heal* and *Mystery
-    Bowl.* Enter the room at the top for a battle.
--   When you regain control, head north and east to get to Dylan's
-    house.
--   Use the elevator, then, accept the fast travel offer to get to
-    Route 9. Head down to talk to them.
--   Then, watch the scene play out in Dylan's House.
--   Head to the Police Department and talk to the cop. This is all we
-    can do in this quest for now, until the next badge.
+
+Talk to Dylan again, then head to the east. Go up until a scene
+plays out. Head to the bottom of this area then east to the docks, 
+and grab the *Toxic Orb.*
+
+Return to the Main Building, talk to Dylan, then enter and head up.
+Grab the *Metal Coat* here, and *Mystery Bowl* hidden in some trash.
+
+Head up the tower, fighting grunts as you go. There is a *PP Up* and
+a *Lemonade* hidden on the third floor. There is also a *Hyper
+Potion.* On the fourth floor there is a hidden *Full Heal* and *Mystery
+Bowl.* Enter the room at the top for a battle.
+
+When you regain control, head north and east to get to Dylan's
+house.
+
+Use the elevator, then, accept the fast travel offer to get to
+Route 9. Head down to talk to them. Then, watch the scene play out in
+Dylan's House.
+
+Head to the Police Department and talk to the cop. This is all we
+can do in this quest for now, until the next badge.
 
 ## Classified Information Quest
 
-HQuest 27: Classified Information
--   Take the request and talk to the person by the elevator to get to
-    the 36F of the building.
+### HQuest 27: Classified Information
+Take the request and talk to the person by the elevator to get to
+the 36F of the building.
 
 Relationship Point Choices:
 - I was terrified too... (Melia +2)
 - It's standard procedure. (Melia +1)
 - Grow up. (Melia -2)
--   Catch some z's at the penthouse, then in the nightmare, head up and
-    talk to Anabel.
--   After your conversation, wake up, and return to the 36F of central.
-    Accept Looker's travel request to Darchlight Caves.
--   Using the mirror, make your way all the way through the cave, back
-    to the ladder paths. Take the right ladder and cross when it is dark
-    to see the group. Follow the path and watch the scenes.
--   Back at HQ, go into the left room.
 
-> Relationship Point Choices:
->
-> - Glad to help. (Melia +3, Erick +2)
->
-> - I kinda got baited into this... (Erick +3, Melia +2)
->
-> - Eh... (Erick +1, Melia -2)
--   Talk to Looker again to return to the lab.
--   Talk to the door while in the hallway and present the Rose Badge to
-    the door.
--   Inside, grab the *Rift Notes: Code Drifio*.
+Catch some z's at the penthouse, then in the nightmare, head up and
+talk to Anabel. After your conversation, wake up, and return to the 36F of 
+central. Accept Looker's travel request to Darchlight Caves.
+
+Using the mirror, make your way all the way through the cave, back
+to the ladder paths. Take the right ladder and cross when it is dark
+to see the group. Follow the path and watch the scenes.
+
+Back at HQ, go into the left room.
+
+Relationship Point Choices:
+
+- Glad to help. (Melia +3, Erick +2)
+- I kinda got baited into this... (Erick +3, Melia +2)
+- Eh... (Erick +1, Melia -2)
+
+Talk to Looker again to return to the lab. Talk to the door while in the
+hallway and present the Rose Badge to the door. Inside, grab the 
+*Rift Notes: Code Drifio*.
 
 Dimensional Rift Ferrothorn (Burning Field)
 -   Ferrothorn, Level 75. @ Metronome. Type: Fire/Steel. Ability: Shift.
-    > 3 Shields.
-
+3 Shields.
     -   Steamroller
-
     -   Fire Lash
-
     -   Iron Head
-
     -   Earthquake
 
 Phase 1 Base Stats: 300/80/240/80/250/115.
-
 Phase 2 Base Stats: 600/250/200/80/200/240.
 
 This is a tough battle. It has two forms - the second comes out as soon
@@ -11606,49 +11426,43 @@ want, whichever defense stat you plan to attack to knock it out, even
 its speed so much that you can outspeed it even with its 240-base speed.
 Due to its typing, Earthquake or Earth Power might be your strongest
 choices.
--   Once you emerge victorious, talk to Looker and Anabel on 36F to get
-    the *Rift Notes.*
--   Return to the help center to get $25000 and the third Department
-    Store Stamp!
--   At some point, head back to the room where you fought Ferrothorn,
-    interact with the panel in the back, then enter the right room. Read
-    the journal and use the Itemfinder in here to get *Dubious Disc!*
+
+Once you emerge victorious, talk to Looker and Anabel on 36F to get
+the *Rift Notes.*
+
+Return to the help center to get $25000 and the third Department
+Store Stamp!
+
+At some point, head back to the room where you fought Ferrothorn,
+interact with the panel in the back, then enter the right room. Read
+the journal and use the Itemfinder in here to get *Dubious Disc!*
 
 Shopping District Mall 4F Shop 1
 
-*HP Up* $9800
-
-*Protein* $9800
-
-*Iron* $9800
-
-*Carbos* $9800
-
-*Calcium* $9800
-
-*Zinc* $9800
+|Item     |Price|
+|---------|-----|
+|*HP Up*  |$9800|
+|*Protein*|$9800|
+|*Iron*   |$9800|
+|*Carbos* |$9800|
+|*Calcium*|$9800|
+|*Zinc*   |$9800|
 
 Buy one Protein while you're here for a quest later.
 
 Shopping District Mall 4F Shop 2
 
-*Sticky Barb* $200
-
-*Lagging Tail* $200
-
-*Iron Ball* $200
-
-*Binding Band* $200
-
-*Float Stone* $200
-
-*Eject Button* $200
-
-*Red Card* $200
-
-*Ring Target* $200
-
-*Metronome* $200
+|Item          |Price|
+|--------------|-----|
+|*Sticky Barb* |$200 |
+|*Lagging Tail*|$200 |
+|*Iron Ball*   |$200 |
+|*Binding Band*|$200 |
+|*Float Stone* |$200 |
+|*Eject Button*|$200 |
+|*Red Card*    |$200 |
+|*Ring Target* |$200 |
+|*Metronome*   |$200 |
 
 ## Golden Wing Badge
 
@@ -11660,58 +11474,34 @@ Head out to the back courtyard of the theater and talk to Souta.
 
 Spiritual Healer Souta (Sky Field, Strong Winds)
 -   Skarmory, Level 73. @ Elemental Seed.
-
     -   Sky Attack
-
     -   Steel Wing
-
     -   Stealth Rock
-
     -   Heavenly Wing
 -   Unfezant, Level 74. @ Assault Vest.
-
     -   Heavenly Wing
-
     -   Steel Wing
-
     -   Return
-
     -   Sky Attack
 -   Swanna, Level 74. @ Life Orb.
-
     -   Hurricane
-
     -   Tailwind
-
     -   Surf
-
     -   Heavenly Wing
 -   Dragonite, Level 75. @ Weakness Policy.
-
     -   Surf
-
     -   Hurricane
-
     -   Thunder
-
     -   Heavenly Wing
 -   Oricorio, Level 74. @ Oricorio Crest.
-
     -   Hurricane
-
     -   Tailwind
-
     -   Hidden Power Ground
-
     -   Revelation Dance
 -   Pidgeot, Level 77. @ Pidgeotite.
-
     -   Hurricane
-
     -   Heat Wave
-
     -   Razor Wind
-
     -   Roost
 
 Heavenly Wing: Flying \| Physical \| 90 power \| Cannot miss \| Removes
@@ -11726,12 +11516,12 @@ ability Delta Stream, its own custom weather. But, in order to make
 Delta Stream stand out above lame Air Lock, they made a couple changes.
 For one, it neutralizes all Ice, Electric, and Rock moves used against
 flying types, greatly improving its defensive capabilities as now
-Mega-Rayquaza only must field two 2x weaknesses instead of three plus a
-4x weakness. Second, to fit the lore, Delta Stream cannot be overwritten
-by any other weather. It was so strong the Smogon tier literally called
-“Uber” could not contain the power levels of this creature, leading to
-the creation of the “Anything Goes” tier. So, Mega-Rayquaza is busted,
-and its ability is a big part of why.
+Mega-Rayquaza only must field three 2x weaknesses instead of three plus a
+4x weakness, and gains a resistance. Second, to fit the lore, Delta Stream 
+cannot be overwritten by any other weather. It was so strong the Smogon 
+tier literally called “Uber” could not contain the power levels of this
+creature, leading to the creation of the “Anything Goes” tier. So, 
+Mega-Rayquaza is busted, and its ability is a big part of why.
 
 Thankfully Delta Stream does come with a few drawbacks though. The four
 (4) lines named Golduck, Drampa, Altaria, and Lickilicky can block it
@@ -11806,8 +11596,8 @@ very potent on this field due to boosts, and Electric types still resist
 Flying. Thunder always hits and is boosted, so if you have something
 fast like Electivire with Thunder, you might find success.
 
-I probably sound like a broken record by now, but Trick Room is also a
-great choice.
+I probably sound like a broken record by now with this one, but 
+Trick Room is also a great choice.
 
 Win to get *TM62 Acrobatics!* And more importantly, you'll get the
 Golden Wing Badge.
@@ -11834,13 +11624,9 @@ on Pulse: Bella* and continue. Erin is gonna help us with this fight:
 Dimensional Rift… Aelita?? (Dimensional Rift Field)
 -   “Aelita”/Regirock, Level 80. @ Leftovers. Ability: Savagery. Type:
     Rock/Fighting. Stats: 200/190/200/190/200/200.
-
     -   Rock Slide
-
     -   Earthquake
-
     -   Dark Pulse
-
     -   Aura Sphere
 
 Every turn you attack Aelita she gets a massive attack/special attack
@@ -17290,16 +17076,16 @@ need to generate different students based on their attributes, the
 chalkboards in the lower left classroom are the guide. So, make the
 following:
 
-1.  Determined, Math, Medical Proficiency, Internship Experience
-2.  Studious, English, Drama Proficiency, 10 or more performances
-3.  Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
+-  Determined, Math, Medical Proficiency, Internship Experience
+-  Studious, English, Drama Proficiency, 10 or more performances
+-  Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
 
 Relationship Point Choices:
 - Give her space. (Saki +2)
 - She has amnesia. (Saki +1, Amber +1)
 - ... (Saki -2)
 
-4.  Studious, Engineering, Engineering Proficiency, 3 Years' Experience
+-  Studious, Engineering, Engineering Proficiency, 3 Years' Experience
 
 Talk to the door at the top.
 
