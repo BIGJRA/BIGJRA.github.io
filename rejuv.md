@@ -30,18 +30,18 @@ cells, tutors, Pokemon Locations, and more!
 # Table of Contents
 
 -   <a href="#chapter-1-shipwrecked" id="toc-chapter-1-shipwrecked">Chapter 1: Shipwrecked</a>
-    -   <a href="#prologue---prolog" id="toc-prologue---prolog">Prologue - Prolog</a>
-    -   <a href="#ss-oceana---oceana1" id="toc-ss-oceana---oceana1">S.S. Oceana - Oceana1</a>
-    -   <a href="#oceana-pier---opier1" id="toc-oceana-pier---opier1">Oceana Pier - OPier1</a>
-    -   <a href="#gearen-laboratory---gearlab1" id="toc-gearen-laboratory---gearlab1">Gearen Laboratory - GearLab1</a>
-    -   <a href="#left-east-gearen-city---egear1" id="toc-left-east-gearen-city---egear1">Left East Gearen City - EGear1</a>
-    -   <a href="#right-east-gearen-city---egear2" id="toc-right-east-gearen-city---egear2">Right East Gearen City - EGear2</a>
-    -   <a href="#chrisola-resort---cresor1" id="toc-chrisola-resort---cresor1">Chrisola Resort - CResor1</a>
-    -   <a href="#gearen-park---gpark1" id="toc-gearen-park---gpark1">Gearen Park - GPark1</a>
-    -   <a href="#sewers-visit-1---sewer1" id="toc-sewers-visit-1---sewer1">Sewers Visit 1 - Sewer1</a>
-    -   <a href="#game-corner-prizes---gcorner1" id="toc-game-corner-prizes---gcorner1">Game Corner Prizes - GCorner1</a>
-    -   <a href="#poisonheart-badge---badge01" id="toc-poisonheart-badge---badge01">PoisonHeart Badge - Badge01 </a>
-    -   <a href="#post-gym-quests---egear3" id="toc-post-gym-quests---egear3">Post-Gym Quests - EGear3</a>
+    -   <a href="#prologue" id="toc-prologue">Prologue</a>
+    -   <a href="#ss-oceana" id="toc-ss-oceana">S.S. Oceana</a>
+    -   <a href="#oceana-pier" id="toc-oceana-pier">Oceana Pier</a>
+    -   <a href="#gearen-laboratory" id="toc-gearen-laboratory">Gearen Laboratory</a>
+    -   <a href="#left-east-gearen-city" id="toc-left-east-gearen-city">Left East Gearen City</a>
+    -   <a href="#right-east-gearen-city" id="toc-right-east-gearen-city">Right East Gearen City</a>
+    -   <a href="#chrisola-resort" id="toc-chrisola-resort">Chrisola Resort</a>
+    -   <a href="#gearen-park" id="toc-gearen-park">Gearen Park</a>
+    -   <a href="#sewers-visit-1" id="toc-sewers-visit-1">Sewers Visit 1</a>
+    -   <a href="#game-corner-prizes" id="toc-game-corner-prizes">Game Corner Prizes</a>
+    -   <a href="#poisonheart-badge" id="toc-poisonheart-badge">PoisonHeart Badge</a>
+    -   <a href="#post-gym-quests" id="toc-post-gym-quests">Post-Gym Quests</a>
         -   <a href="#hquest-1-help-starly" id="toc-hquest-1-help-starly">HQuest 1: Help Starly</a>
         -   <a href="#hquest-2-missing-mother" id="toc-hquest-2-missing-mother">HQuest 2: Missing Mother</a>
         -   <a href="#hquest-3-hidden-library" id="toc-hquest-3-hidden-library">HQuest 3: Hidden Library</a>
@@ -49,201 +49,200 @@ cells, tutors, Pokemon Locations, and more!
         -   <a href="#hquest-5-dangerous-pokemon" id="toc-hquest-5-dangerous-pokemon">HQuest 5: Dangerous Pokemon</a>
         -   <a href="#hquest-6-battle-me" id="toc-hquest-6-battle-me">HQuest 6: Battle Me!</a>
         -   <a href="#hquest-7-wretched-music" id="toc-hquest-7-wretched-music">HQuest 7: Wretched Music!</a>
-    -   <a href="#route-1-and-goldenwood-forest---rt1gf1" id="toc-route-1-and-goldenwood-forest---rt1gf1">Route 1 and Goldenwood Forest - Rt1GF1</a>
-    -   <a href="#goldenwood-xen-attack---gwxen1" id="toc-goldenwood-xen-attack---gwxen1">Goldenwood Xen Attack - GWXen1</a>
+    -   <a href="#route-1-and-goldenwood-forest" id="toc-route-1-and-goldenwood-forest">Route 1 and Goldenwood Forest</a>
+    -   <a href="#goldenwood-xen-attack" id="toc-goldenwood-xen-attack">Goldenwood Xen Attack</a>
 -   <a href="#chapter-2-redemption" id="toc-chapter-2-redemption">Chapter 2: Redemption</a>
-    -   <a href="#junction-bridge---jbridg1" id="toc-junction-bridge---jbridg1">Junction Bridge - JBridg1</a> 
-    -   <a href="#route-2---2route1" id="toc-route-2---2route1">Route 2 - 2Route1</a>
-    -   <a href="#amethyst-cave-1st-visit---acave1" id="toc-amethyst-cave-1st-visit---acave1">Amethyst Cave 1st Visit - ACave1</a>
-    -   <a href="#sheridan-village---svill1" id="toc-sheridan-village---svill1">Sheridan Village - SVill1</a>
-    -   <a href="#amethyst-grotto-and-sheridan-help-quests---agrot1" id="toc-amethyst-grotto-and-sheridan-help-quests---agrot1">Amethyst Grotto and Sheridan Help Quests - AGrot1</a>
+    -   <a href="#junction-bridge" id="toc-junction-bridge">Junction Bridge</a> 
+    -   <a href="#route-2" id="toc-route-2">Route 2</a>
+    -   <a href="#amethyst-cave-1st-visit" id="toc-amethyst-cave-1st-visit">Amethyst Cave 1st Visit</a>
+    -   <a href="#sheridan-village" id="toc-sheridan-village">Sheridan Village</a>
+    -   <a href="#amethyst-grotto-and-sheridan-help-quests" id="toc-amethyst-grotto-and-sheridan-help-quests">Amethyst Grotto and Sheridan Help Quests</a>
         -   <a href="#hquest-8-hidden-library-2" id="toc-hquest-8-hidden-library-2">HQuest 8: Hidden Library 2</a>
         -   <a href="#hquest-9-stolen-cargo" id="toc-hquest-9-stolen-cargo">HQuest 9: Stolen Cargo!</a>
         -   <a href="#hquest-10-trade-me" id="toc-hquest-10-trade-me">HQuest 10: Trade Me!</a>
         -   <a href="#hquest-11-fetch-an-item" id="toc-hquest-11-fetch-an-item">HQuest 11: Fetch an Item!</a>
         -   <a href="#hquest-12-battle-request-2" id="toc-hquest-12-battle-request-2">HQuest 12: Battle Request 2</a>
-    -   <a href="#diamond-punch-badge---badge15" id="toc-diamond-punch-badge---badge15">Diamond Punch Badge? - Badge1.5</a>
-    -   <a href="#carotos-mountain---cmount1" id="toc-carotos-mountain---cmount1">Carotos Mountain - CMount1</a>
-    -   <a href="#diamond-punch-badge---badge02" id="toc-diamond-punch-badge---badge02">Diamond Punch Badge - Badge02</a>
+    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge?</a></a>
+    -   <a href="#carotos-mountain" id="toc-carotos-mountain">Carotos Mountain</a>
+    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge</a>
 -   <a href="#chapter-3-tainted-light" id="toc-chapter-3-tainted-light">Chapter 3: Tainted Light</a>
-    -   <a href="#sewers-visit-2---sewer2" id="toc-sewers-visit-2---sewer2">Sewers Visit 2 - Sewer2</a>
-    -   <a href="#normality-badge---badge03" id="toc-normality-badge---badge03">Normality Badge - Badge03</a>
+    -   <a href="#sewers-visit-2" id="toc-sewers-visit-2">Sewers Visit 2</a>
+    -   <a href="#normality-badge" id="toc-normality-badge">Normality Badge</a>
 -   <a href="#chapter-4-isolation" id="toc-chapter-4-isolation">Chapter 4: Isolation</a>
-    -   <a href="#3-badge-quests---3bquest1" id="toc-3-badge-quests---3bquest1">3 Badge Quests - 3BQuest1</a>
-    -   <a href="#route-3-and-phasial-cave---3route1" id="toc-route-3-and-phasial-cave---3route1">Route 3 and Phasial Cave - 3Route1</a>
-    -   <a href="#goldenleaf-town---gleaft1" id="toc-goldenleaf-town---gleaft1">Goldenleaf Town - GleafT1</a>
-    -   <a href="#wispy-path-and-goldenwood-forest-visit-2---wp1gf2" id="toc-wispy-path-and-goldenwood-forest-visit-2---wp1gf2">Wispy Path and Goldenwood Forest Visit 2 - WP1GF2</a> 
-    -   <a href="#wispy-tower---wtower1" id="toc-wispy-tower---wtower1">Wispy Tower - WTower1</a>
-    -   <a href="#mirage-woods---mwoods1" id="toc-mirage-woods---mwoods1">Mirage Woods - MWoods1</a>
-    -   <a href="#phantasm-badge---badge04" id="toc-phantasm-badge---badge04">Phantasm Badge - Badge04</a>
+    -   <a href="#3-badge-quests" id="toc-3-badge-quests">3 Badge Quests</a>
+    -   <a href="#route-3-and-phasial-cave" id="toc-route-3-and-phasial-cave">Route 3 and Phasial Cave</a>
+    -   <a href="#goldenleaf-town" id="toc-goldenleaf-town">Goldenleaf Town</a>
+    -   <a href="#wispy-path-and-goldenwood-forest-visit-2" id="toc-wispy-path-and-goldenwood-forest-visit-2">Wispy Path and Goldenwood Forest Visit 2</a> 
+    -   <a href="#wispy-tower" id="toc-wispy-tower">Wispy Tower</a>
+    -   <a href="#mirage-woods" id="toc-mirage-woods">Mirage Woods</a>
+    -   <a href="#phantasm-badge" id="toc-phantasm-badge">Phantasm Badge</a>
 -   <a href="#chapter-5-imprisoned" id="toc-chapter-5-imprisoned">Chapter 5: Imprisoned</a>
-    -   <a href="#wispy-ruins---wruins1" id="toc-wispy-ruins---wruins1">Wispy Ruins - WRuins1</a>
-    -   <a href="#route-4---4route1" id="toc-route-4---4route1">Route 4 - 4Route1</a>
-    -   <a href="#lost-camp-part-1-and-floria-side-quests---lcamp1" id="toc-lost-camp-part-1-and-floria-side-quests---lcamp1">Lost Camp Part 1, and Floria Side Quests - LCamp1</a>
-    -   <a href="#mystery-egg---megg1" id="toc-mystery-egg---megg1">Mystery Egg \- MEgg1</a>
-    -   <a href="#akuwa-town---akuwat1" id="toc-akuwa-town---akuwat1">Akuwa Town? - AkuwaT1</a>
-    -   <a href="#blacksteeple-castle---bcastle1" id="toc-blacksteeple-castle---bcastle1">Blacksteeple Castle - BCastle1</a>
+    -   <a href="#wispy-ruins" id="toc-wispy-ruins">Wispy Ruins</a>
+    -   <a href="#route-4" id="toc-route-4">Route 4</a>
+    -   <a href="#lost-camp-part-1-and-floria-side-quests" id="toc-lost-camp-part-1-and-floria-side-quests">Lost Camp Part 1, and Floria Side Quests</a>
+    -   <a href="#mystery-egg" id="toc-mystery-egg">Mystery Egg \- MEgg1</a>
+    -   <a href="#akuwa-town" id="toc-akuwa-town">Akuwa Town?</a>
+    -   <a href="#blacksteeple-castle" id="toc-blacksteeple-castle">Blacksteeple Castle</a>
         -   <a href="#day-1" id="toc-day-1">Day 1</a>
         -   <a href="#day-2" id="toc-day-2">Day 2</a>
         -   <a href="#night-2" id="toc-night-2">Night 2</a>
         -   <a href="#day-3" id="toc-day-3">Day 3</a>
         -   <a href="#night-3" id="toc-night-3">Night 3</a>
         -   <a href="#day-4" id="toc-day-4">Day 4</a>
-    -   <a href="#xen-battleship---xship1" id="toc-xen-battleship---xship1">Xen Battleship - XShip1</a>
-    -   <a href="#terajuma-shore---tshore1" id="toc-terajuma-shore---tshore1">Terajuma Shore - TShore1</a>
-    -   <a href="#terajuma-jungle---tjung1" id="toc-terajuma-jungle---tjung1">Terajuma Jungle - TJung1</a>
-    -   <a href="#dewdrop-badge---badge05" id="toc-dewdrop-badge---badge05">Dewdrop Badge - Badge05</a>
+    -   <a href="#xen-battleship" id="toc-xen-battleship">Xen Battleship</a>
+    -   <a href="#terajuma-shore" id="toc-terajuma-shore">Terajuma Shore</a>
+    -   <a href="#terajuma-jungle" id="toc-terajuma-jungle">Terajuma Jungle</a>
+    -   <a href="#dewdrop-badge" id="toc-dewdrop-badge">Dewdrop Badge</a>
 -   <a href="#chapter-6-nimpossible-predicament" id="toc-chapter-6-nimpossible-predicament">Chapter 6: Nimpossible Predicament</a>
-    -   <a href="#terajuma-island-surfing---tisurf1" id="toc-terajuma-island-surfing---tisurf1">Terajuma Island Surfing - TISurf1</a>
-    -   <a href="#terajuma-jungle-2---tjung2" id="toc-terajuma-jungle-2---tjung2">Terajuma Jungle 2 - TJung2</a>
-    -   <a href="#kakori-village-and-jeminra-woods---kvill1" id="toc-kakori-village-and-jeminra-woods---kvill1">Kakori Village and Jeminra Woods - KVill1</a>
-    -   <a href="#route-5---5route1" id="toc-route-5---5route1">Route 5 - 5Route1</a>
-    -   <a href="#dexoy-attack---dexoy1" id="toc-dexoy-attack---dexoy1">Dexoy Attack - Dexoy1</a>
-    -   <a href="#kakori-help-quests---kakhelp1" id="toc-kakori-help-quests---kakhelp1">Kakori Help Quests - KakHelp1</a>
-    -   <a href="#secret-shore---sshore1" id="toc-secret-shore---sshore1">Secret Shore - SShore1</a>
-    -   <a href="#floria-island-surfing-and-side-quests---florsurf1" id="toc-floria-island-surfing-and-side-quests---florsurf1">Floria Island Surfing and Side Quests - FlorSurf1</a>
-    -   <a href="#rivers-end-first-visit---rend1" id="toc-rivers-end-first-visit---rend1">River’s End First Visit - REnd1</a>
-    -   <a href="#route-4-second-visit---4route2" id="toc-route-4-second-visit---4route2">Route 4 Second Visit - 4Route2</a>
-    -   <a href="#route-11---11route1" id="toc-route-11---11route1">Route 11 - 11Route1</a>
-    -   <a href="#infested-badge---badge06" id="toc-infested-badge---badge06">Infested Badge - Badge06</a>
+    -   <a href="#terajuma-island-surfing" id="toc-terajuma-island-surfing">Terajuma Island Surfing</a>
+    -   <a href="#terajuma-jungle-2" id="toc-terajuma-jungle-2">Terajuma Jungle 2</a>
+    -   <a href="#kakori-village-and-jeminra-woods" id="toc-kakori-village-and-jeminra-woods">Kakori Village and Jeminra Woods</a>
+    -   <a href="#route-5" id="toc-route-5">Route 5</a>
+    -   <a href="#dexoy-attack" id="toc-dexoy-attack">Dexoy Attack</a>
+    -   <a href="#kakori-help-quests" id="toc-kakori-help-quests">Kakori Help Quests</a>
+    -   <a href="#secret-shore" id="toc-secret-shore">Secret Shore</a>
+    -   <a href="#floria-island-surfing-and-side-quests" id="toc-floria-island-surfing-and-side-quests">Floria Island Surfing and Side Quests</a>
+    -   <a href="#rivers-end-first-visit" id="toc-rivers-end-first-visit">River’s End First Visit</a>
+    -   <a href="#route-4-second-visit" id="toc-route-4-second-visit">Route 4 Second Visit</a>
+    -   <a href="#route-11" id="toc-route-11">Route 11</a>
+    -   <a href="#infested-badge" id="toc-infested-badge">Infested Badge</a>
 -   <a href="#chapter-7-a-teila-fire-and-ice" id="toc-chapter-7-a-teila-fire-and-ice">Chapter 7: A Teila Fire and Ice</a>
-    -   <a href="#route-6-and-aquamarine-cave---r6aqc1" id="toc-route-6-and-aquamarine-cave---r6aqc1">Route 6 and Aquamarine Cave - R6AqC1</a>
-    -   <a href="#teila-resort-first-visit---teilar1" id="toc-teila-resort-first-visit---teilar1">Teila Resort First Visit - TeilaR1</a>
-    -   <a href="#aquamarine-cave-2nd-visit---aqcave2" id="toc-aquamarine-cave-2nd-visit---aqcave2">Aquamarine Cave 2nd Visit - AqCave2</a>
-    -   <a href="#teila-resort-2nd-visit---teilar2" id="toc-teila-resort-2nd-visit---teilar2">Teila Resort 2nd Visit - TeilaR2</a>
+    -   <a href="#route-6-and-aquamarine-cave" id="toc-route-6-and-aquamarine-cave">Route 6 and Aquamarine Cave</a>
+    -   <a href="#teila-resort-first-visit" id="toc-teila-resort-first-visit">Teila Resort First Visit</a>
+    -   <a href="#aquamarine-cave-2nd-visit" id="toc-aquamarine-cave-2nd-visit">Aquamarine Cave 2nd Visit</a>
+    -   <a href="#teila-resort-2nd-visit" id="toc-teila-resort-2nd-visit">Teila Resort 2nd Visit</a>
     -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River’s End 2nd Visit -REnd2</a>
-    -   <a href="#frozen-over-kristiline-town---kristt1" id="toc-frozen-over-kristiline-town---kristt1">Frozen Over Kristiline Town - KristT1</a>
-    -   <a href="#tower-of-theolia---theolia1" id="toc-tower-of-theolia---theolia1">Tower of Theolia - Theolia1</a>
-    -   <a href="#glacier-badge---badge07" id="toc-glacier-badge---badge07">Glacier Badge - Badge07</a>
+    -   <a href="#frozen-over-kristiline-town" id="toc-frozen-over-kristiline-town">Frozen Over Kristiline Town</a>
+    -   <a href="#tower-of-theolia" id="toc-tower-of-theolia">Tower of Theolia</a>
+    -   <a href="#glacier-badge" id="toc-glacier-badge">Glacier Badge</a>
 -   <a href="#chapter-8-those-we-lose" id="toc-chapter-8-those-we-lose">Chapter 8: Those We Lose</a>
-    -   <a href="#kristiline-town---kristt2" id="toc-kristiline-town---kristt2">Kristiline Town - KristT2</a>
-    -   <a href="#kristiline-help-center-requests---kristh1" id="toc-kristiline-help-center-requests---kristh1">Kristiline Help Center Requests - KristH1</a>
-    -   <a href="#floria-island-rock-climb---florrc1" id="toc-floria-island-rock-climb---florrc1">Floria Island Rock Climb - FlorRC1</a>
-    -   <a href="#amethyst-cave-2nd-visit---acave2" id="toc-amethyst-cave-2nd-visit---acave2">Amethyst Cave 2<sup>nd</sup> Visit - ACave2</a>
-    -   <a href="#lost-camp-pt-2---lcamp2" id="toc-lost-camp-pt-2---lcamp2">Lost Camp Pt. 2 - LCamp2</a>
-    -   <a href="#carotos-mountain-2nd-visit---carotos2" id="toc-carotos-mountain-2nd-visit---carotos2">Carotos Mountain 2nd Visit - Carotos2</a>
-    -   <a href="#valor-mountain---vmount1" id="toc-valor-mountain---vmount1">Valor Mountain - VMount1</a>
+    -   <a href="#kristiline-town" id="toc-kristiline-town">Kristiline Town</a>
+    -   <a href="#kristiline-help-center-requests" id="toc-kristiline-help-center-requests">Kristiline Help Center Requests</a>
+    -   <a href="#floria-island-rock-climb" id="toc-floria-island-rock-climb">Floria Island Rock Climb</a>
+    -   <a href="#amethyst-cave-2nd-visit" id="toc-amethyst-cave-2nd-visit">Amethyst Cave 2<sup>nd</sup> Visit</a>
+    -   <a href="#lost-camp-pt-2" id="toc-lost-camp-pt-2">Lost Camp Pt. 2</a>
+    -   <a href="#carotos-mountain-2nd-visit" id="toc-carotos-mountain-2nd-visit">Carotos Mountain 2nd Visit</a>
+    -   <a href="#valor-mountain" id="toc-valor-mountain">Valor Mountain</a>
         -   <a href="#entering-the-mountain-kept-it-route" id="toc-entering-the-mountain-kept-it-route">Entering the Mountain (Kept It Route)</a>
         -   <a href="#saving-amber-kept-it-route" id="toc-saving-amber-kept-it-route">Saving Amber (Kept It Route)</a>
         -   <a href="#entering-the-mountain-gave-it-away-route" id="toc-entering-the-mountain-gave-it-away-route">Entering the Mountain (Gave It Away Route)</a>
         -   <a href="#saving-amber-gave-it-away-route" id="toc-saving-amber-gave-it-away-route">Saving Amber (Gave It Away Route)</a>
         -   <a href="#scaling-mt-valor-both-routes-converge" id="toc-scaling-mt-valor-both-routes-converge">Scaling Mt. Valor (Both Routes Converge)</a>
-    -   <a href="#valor-summit---vsumm1" id="toc-valor-summit---vsumm1">Valor Summit - VSumm1</a>
-    -   <a href="#post-valor-quests---pvquest1" id="toc-post-valor-quests---pvquest1">Post-Valor Quests - PVQuest1</a>
-    -   <a href="#lyric-badge---badge08" id="toc-lyric-badge---badge08">Lyric Badge - Badge08</a>
+    -   <a href="#valor-summit" id="toc-valor-summit">Valor Summit</a>
+    -   <a href="#post-valor-quests" id="toc-post-valor-quests">Post-Valor Quests</a>
+    -   <a href="#lyric-badge" id="toc-lyric-badge">Lyric Badge</a>
 -   <a href="#chapter-9-no-time-left-to-lose" id="toc-chapter-9-no-time-left-to-lose">Chapter 9: No Time Left to Lose</a>
-    -   <a href="#forest-of-time---forestt1" id="toc-forest-of-time---forestt1">Forest of Time - ForestT1</a>
-    -   <a href="#aevium-past-1st-visit---pasta1" id="toc-aevium-past-1st-visit---pasta1">Aevium (Past) 1st Visit - PastA1</a>
-    -   <a href="#west-gearen-city-sewers---wgsewer1" id="toc-west-gearen-city-sewers---wgsewer1">West Gearen City Sewers - WGSewer1</a>
-    -   <a href="#west-gearen-city---wgearen1" id="toc-west-gearen-city---wgearen1">West Gearen City - WGearen1</a>
-    -   <a href="#west-gearen-city-help-quests---wghelp1" id="toc-west-gearen-city-help-quests---wghelp1">West Gearen City Help Quests - WGHelp1</a>
-    -   <a href="#route-4-eight-badge-update---4route3" id="toc-route-4-eight-badge-update---4route3">Route 4 Eight Badge Update - 4Route3</a>
-    -   <a href="#pulse-badge---badge09" id="toc-pulse-badge---badge09">Pulse Badge - Badge09</a>
+    -   <a href="#forest-of-time" id="toc-forest-of-time">Forest of Time</a>
+    -   <a href="#aevium-past-1st-visit" id="toc-aevium-past-1st-visit">Aevium (Past) 1st Visit</a>
+    -   <a href="#west-gearen-city-sewers" id="toc-west-gearen-city-sewers">West Gearen City Sewers</a>
+    -   <a href="#west-gearen-city" id="toc-west-gearen-city">West Gearen City</a>
+    -   <a href="#west-gearen-city-help-quests" id="toc-west-gearen-city-help-quests">West Gearen City Help Quests</a>
+    -   <a href="#route-4-eight-badge-update" id="toc-route-4-eight-badge-update">Route 4 Eight Badge Update</a>
+    -   <a href="#pulse-badge" id="toc-pulse-badge">Pulse Badge</a>
 -   <a href="#chapter-10-stopped-in-our-tracks" id="toc-chapter-10-stopped-in-our-tracks">Chapter 10: Stopped in Our Tracks</a>
-    -   <a href="#a-few-more-quests---post9q1" id="toc-a-few-more-quests---post9q1">A Few More Quests - Post9Q1</a>
-    -   <a href="#grand-express---gexpr1" id="toc-grand-express---gexpr1">Grand Express - GExpr1</a>
-    -   <a href="#route-7---7route1" id="toc-route-7---7route1">Route 7 - 7Route1</a>
-    -   <a href="#darchlight-woods---darchw1" id="toc-darchlight-woods---darchw1">Darchlight Woods - DarchW1</a>
-    -   <a href="#route-8-and-azure-shore---8razs1" id="toc-route-8-and-azure-shore---8razs1">Route 8 and Azure Shore - 8RAzS1</a>
-    -   <a href="#darchlight-manor-first-visit---dlmanor1" id="toc-darchlight-manor-first-visit---dlmanor1">Darchlight Manor First Visit - DLManor1</a>
-    -   <a href="#darchlight-caves-first-visit---dlcaves1" id="toc-darchlight-caves-first-visit---dlcaves1">Darchlight Caves First Visit - DLCaves1</a>
-    -   <a href="#rose-badge---badge10" id="toc-rose-badge---badge10">Rose Badge - Badge10</a>
+    -   <a href="#a-few-more-quests" id="toc-a-few-more-quests">A Few More Quests</a>
+    -   <a href="#grand-express" id="toc-grand-express">Grand Express</a>
+    -   <a href="#route-7" id="toc-route-7">Route 7</a>
+    -   <a href="#darchlight-woods" id="toc-darchlight-woods">Darchlight Woods</a>
+    -   <a href="#route-8-and-azure-shore" id="toc-route-8-and-azure-shore">Route 8 and Azure Shore</a>
+    -   <a href="#darchlight-manor-first-visit" id="toc-darchlight-manor-first-visit">Darchlight Manor First Visit</a>
+    -   <a href="#darchlight-caves-first-visit" id="toc-darchlight-caves-first-visit">Darchlight Caves First Visit</a>
+    -   <a href="#rose-badge" id="toc-rose-badge">Rose Badge</a>
 -   <a href="#chapter-11-grand-dream-city" id="toc-chapter-11-grand-dream-city">Chapter 11: Grand Dream City?</a>
-    -   <a href="#dream-district-east-1st-visit---dreamde1" id="toc-dream-district-east-1st-visit---dreamde1">Dream District East 1st Visit - DreamDE1</a>
-    -   <a href="#main-street-1st-visit---mstreetd1" id="toc-main-street-1st-visit---mstreetd1">Main Street 1st Visit - MStreetD1</a>
-    -   <a href="#dream-district-west-1st-visit---dreamdw1" id="toc-dream-district-west-1st-visit---dreamdw1">Dream District West 1st Visit - DreamDW1</a>
-    -   <a href="#central-square-1st-visit---centrals1" id="toc-central-square-1st-visit---centrals1">Central Square 1st Visit - CentralS1</a>
-    -   <a href="#shopping-district-1st-visit---shoppd1" id="toc-shopping-district-1st-visit---shoppd1">Shopping District 1st Visit - ShoppD1</a>
-    -   <a href="#residential-district-1st-visit---residd1" id="toc-residential-district-1st-visit---residd1">Residential District 1st Visit - ResidD1</a>
-    -   <a href="#story-split-1---ssplit1" id="toc-story-split-1---ssplit1">Story Split 1 - SSplit1</a>
-    -   <a href="#the-nightmare-medallion---nmmedal1" id="toc-the-nightmare-medallion---nmmedal1">The Nightmare Medallion - NMMedal1</a>
-    -   <a href="#darchlight-manor-second-visit---dlmanor2" id="toc-darchlight-manor-second-visit---dlmanor2">Darchlight Manor Second Visit - DLManor2</a>
-    -   <a href="#nightmare-city---nmcity1" id="toc-nightmare-city---nmcity1">Nightmare City - NMCity1</a>
-    -   <a href="#trickery-badge---badge11" id="toc-trickery-badge---badge11">Trickery Badge - Badge11</a>
-    -   <a href="#route-9-first-visit---9route1" id="toc-route-9-first-visit---9route1">Route 9 First Visit - 9Route1</a>
-    -   <a href="#rose-theater-first-visit---roseth1" id="toc-rose-theater-first-visit---roseth1">Rose Theater First Visit - RoseTh1</a>
+    -   <a href="#dream-district-east-1st-visit" id="toc-dream-district-east-1st-visit">Dream District East 1st Visit</a>
+    -   <a href="#main-street-1st-visit" id="toc-main-street-1st-visit">Main Street 1st Visit</a>
+    -   <a href="#dream-district-west-1st-visit" id="toc-dream-district-west-1st-visit">Dream District West 1st Visit</a>
+    -   <a href="#central-square-1st-visit" id="toc-central-square-1st-visit">Central Square 1st Visit</a>
+    -   <a href="#shopping-district-1st-visit" id="toc-shopping-district-1st-visit">Shopping District 1st Visit</a>
+    -   <a href="#residential-district-1st-visit" id="toc-residential-district-1st-visit">Residential District 1st Visit</a>
+    -   <a href="#story-split-1" id="toc-story-split-1">Story Split 1</a>
+    -   <a href="#the-nightmare-medallion" id="toc-the-nightmare-medallion">The Nightmare Medallion</a>
+    -   <a href="#darchlight-manor-second-visit" id="toc-darchlight-manor-second-visit">Darchlight Manor Second Visit</a>
+    -   <a href="#nightmare-city" id="toc-nightmare-city">Nightmare City</a>
+    -   <a href="#trickery-badge" id="toc-trickery-badge">Trickery Badge</a>
+    -   <a href="#route-9-first-visit" id="toc-route-9-first-visit">Route 9 First Visit</a>
+    -   <a href="#rose-theater-first-visit" id="toc-rose-theater-first-visit">Rose Theater First Visit</a>
 -   <a href="#chapter-12-remember-i-love-you" id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love You</a>
-    -   <a href="#judicial-district---jdist1" id="toc-judicial-district---jdist1">Judicial District --- JDist1</a>
-    -   <a href="#kimono-girls-quest---kimonogq" id="toc-kimono-girls-quest---kimonogq">Kimono Girls Quest - KimonoGQ</a>
-    -   <a href="#axis-high-university-1st-visit---axishiu1" id="toc-axis-high-university-1st-visit---axishiu1">Axis High University 1<sup>st</sup> Visit - AxisHiU1</a>
-    -   <a href="#district-of-hope---hopedist1" id="toc-district-of-hope---hopedist1">District of Hope - HopeDist1</a>
-    -   <a href="#aevium-past-2nd-visit---pasta2" id="toc-aevium-past-2nd-visit---pasta2">Aevium (Past) 2nd Visit - PastA2</a>
-    -   <a href="#aevium-alt-future---futurea1" id="toc-aevium-alt-future---futurea1">Aevium (Alt. Future) - FutureA1</a>
-    -   <a href="#aevium-past-2nd-visit-part-2---pasta25" id="toc-aevium-past-2nd-visit-part-2---pasta25">Aevium (Past) 2nd Visit Part 2 - PastA2.5</a>
-    -   <a href="#ana-quest-part-1---anaquest1" id="toc-ana-quest-part-1---anaquest1">ANA Quest Part 1 - ANAQuest1</a>
-    -   <a href="#classified-information-quest---classinf1" id="toc-classified-information-quest---classinf1">Classified Information Quest - ClassInf1</a>
-    -   <a href="#golden-wing-badge---badge12" id="toc-golden-wing-badge---badge12">Golden Wing Badge - Badge12</a>
-    -   <a href="#the-aelita-incident---drifta1" id="toc-the-aelita-incident---drifta1">The Aelita Incident - DRiftA1</a>
+    -   <a href="#judicial-district" id="toc-judicial-district">Judicial District --- JDist1</a>
+    -   <a href="#kimono-girls-quest" id="toc-kimono-girls-quest">Kimono Girls Quest</a>
+    -   <a href="#axis-high-university-1st-visit" id="toc-axis-high-university-1st-visit">Axis High University 1<sup>st</sup> Visit</a>
+    -   <a href="#district-of-hope" id="toc-district-of-hope">District of Hope</a>
+    -   <a href="#aevium-past-2nd-visit" id="toc-aevium-past-2nd-visit">Aevium (Past) 2nd Visit</a>
+    -   <a href="#aevium-alt-future" id="toc-aevium-alt-future">Aevium (Alt. Future)</a>
+    -   <a href="#aevium-past-2nd-visit-part-2" id="toc-aevium-past-2nd-visit-part-2">Aevium (Past) 2nd Visit Part 2</a></a>
+    -   <a href="#ana-quest-part-1" id="toc-ana-quest-part-1">ANA Quest Part 1</a>
+    -   <a href="#classified-information-quest" id="toc-classified-information-quest">Classified Information Quest</a>
+    -   <a href="#golden-wing-badge" id="toc-golden-wing-badge">Golden Wing Badge</a>
+    -   <a href="#the-aelita-incident" id="toc-the-aelita-incident">The Aelita Incident</a>
 -   <a href="#chapter-13-conflicting-renunion" id="toc-chapter-13-conflicting-renunion">Chapter 13: Conflicting Renunion</a>
-    -   <a href="#a-note-about-where-love-lies---wllnote" id="toc-a-note-about-where-love-lies---wllnote">A Note about Where Love Lies - WLLNote</a>
-    -   <a href="#scholar-district---scholard1" id="toc-scholar-district---scholard1">Scholar District - ScholarD1</a>
-    -   <a href="#lost-camp-pt-3---lcamp3" id="toc-lost-camp-pt-3---lcamp3">Lost Camp Pt. 3 - LCamp3</a>
-    -   <a href="#ana-quest-part-2---anaquest2" id="toc-ana-quest-part-2---anaquest2">ANA Quest Part 2 - ANAQuest2</a>
-    -   <a href="#voidal-chasm-1st-visit---voidalc1" id="toc-voidal-chasm-1st-visit---voidalc1">Voidal Chasm 1st Visit - VoidalC1</a>
-    -   <a href="#zorrialyn-desert---zdesert1" id="toc-zorrialyn-desert---zdesert1">Zorrialyn Desert - ZDesert1</a>
-    -   <a href="#sashila-village-1st-visit---sashvil1" id="toc-sashila-village-1st-visit---sashvil1">Sashila Village 1st Visit \- SashVil1</a>
-    -   <a href="#hospital-of-ruin-1st-visit---hospruin1" id="toc-hospital-of-ruin-1st-visit---hospruin1">Hospital of Ruin (1st Visit) - HospRuin1</a>
-    -   <a href="#sashila-village-2nd-visit---sashvil2" id="toc-sashila-village-2nd-visit---sashvil2">Sashila Village 2nd Visit \- SashVil2</a>
-    -   <a href="#alamissa-urben---alaurben1" id="toc-alamissa-urben---alaurben1">Alamissa Urben - AlaUrben1</a>
-    -   <a href="#blakeory-atheneum-tour---bathtour1" id="toc-blakeory-atheneum-tour---bathtour1">Blakeory Atheneum Tour - BAthTour1</a>
-    -   <a href="#aevium-past-3rd-visit---pasta3" id="toc-aevium-past-3rd-visit---pasta3">Aevium (Past) 3rd Visit - PastA3</a>
-    -   <a href="#vs-ren-sashila-help-quests---svhelpq1" id="toc-vs-ren-sashila-help-quests---svhelpq1">VS. Ren, Sashila Help Quests - SVHelpQ1</a>
-    -   <a href="#sand-stream-cave---sscave1" id="toc-sand-stream-cave---sscave1">Sand Stream Cave - SSCave1 </a>
-    -   <a href="#zorrialyn-labyrinth-1st-visit---zorlab1" id="toc-zorrialyn-labyrinth-1st-visit---zorlab1">Zorrialyn Labyrinth 1<sup>st</sup> Visit - ZorLab1</a>
-    -   <a href="#grand-dream-tournament---gdtourn1" id="toc-grand-dream-tournament---gdtourn1">Grand Dream Tournament - GDTourn1</a>
-    -   <a href="#rugged-badge---badge13" id="toc-rugged-badge---badge13">Rugged Badge - Badge13</a>
+    -   <a href="#a-note-about-where-love-lies" id="toc-a-note-about-where-love-lies">A Note about Where Love Lies</a>
+    -   <a href="#scholar-district" id="toc-scholar-district">Scholar District</a>
+    -   <a href="#lost-camp-pt-3" id="toc-lost-camp-pt-3">Lost Camp Pt. 3</a>
+    -   <a href="#ana-quest-part-2" id="toc-ana-quest-part-2">ANA Quest Part 2</a>
+    -   <a href="#voidal-chasm-1st-visit" id="toc-voidal-chasm-1st-visit">Voidal Chasm 1st Visit</a>
+    -   <a href="#zorrialyn-desert" id="toc-zorrialyn-desert">Zorrialyn Desert</a>
+    -   <a href="#sashila-village-1st-visit" id="toc-sashila-village-1st-visit">Sashila Village 1st Visit \- SashVil1</a>
+    -   <a href="#hospital-of-ruin-1st-visit" id="toc-hospital-of-ruin-1st-visit">Hospital of Ruin (1st Visit)</a>
+    -   <a href="#sashila-village-2nd-visit" id="toc-sashila-village-2nd-visit">Sashila Village 2nd Visit \- SashVil2</a>
+    -   <a href="#alamissa-urben" id="toc-alamissa-urben">Alamissa Urben</a>
+    -   <a href="#blakeory-atheneum-tour" id="toc-blakeory-atheneum-tour">Blakeory Atheneum Tour</a>
+    -   <a href="#aevium-past-3rd-visit" id="toc-aevium-past-3rd-visit">Aevium (Past) 3rd Visit</a>
+    -   <a href="#vs-ren-sashila-help-quests" id="toc-vs-ren-sashila-help-quests">VS. Ren, Sashila Help Quests</a>
+    -   <a href="#sand-stream-cave" id="toc-sand-stream-cave">Sand Stream Cave</a>
+    -   <a href="#zorrialyn-labyrinth-1st-visit" id="toc-zorrialyn-labyrinth-1st-visit">Zorrialyn Labyrinth 1<sup>st</sup> Visit</a>
+    -   <a href="#grand-dream-tournament" id="toc-grand-dream-tournament">Grand Dream Tournament</a>
+    -   <a href="#rugged-badge" id="toc-rugged-badge">Rugged Badge</a>
 -   <a href="#chapter-14-death-of-one-birth-of-another" id="toc-chapter-14-death-of-one-birth-of-another">Chapter 14: Death of One, Birth of Another</a>
-    -   <a href="#neo-gearen-city--side-quests---neogs1" id="toc-neo-gearen-city--side-quests---neogs1">Neo Gearen City + Side Quests - NeoGS1</a>
-    -   <a href="#route-4-thirteen-badge-update---4route4" id="toc-route-4-thirteen-badge-update---4route4">Route 4 Thirteen Badge Update - 4Route4</a>
-    -   <a href="#route-10-first-visit---10route1" id="toc-route-10-first-visit---10route1">Route 10 First Visit - 10Route1</a>
-    -   <a href="#nastasias-ship---nship1" id="toc-nastasias-ship---nship1">Nastasia’s Ship - NShip1</a>
-    -   <a href="#zone-zero-pt-1---zzero1" id="toc-zone-zero-pt-1---zzero1">Zone Zero Pt. 1 - ZZero1</a>
-    -   <a href="#zone-zero-pt-2---zzero2" id="toc-zone-zero-pt-2---zzero2">Zone Zero Pt. 2 - ZZero2</a>
-    -   <a href="#eclysia-pyramid---epyra1" id="toc-eclysia-pyramid---epyra1">Eclysia Pyramid - EPyra1</a>
-    -   <a href="#pyramid-point-badge---badge14" id="toc-pyramid-point-badge---badge14">Pyramid Point Badge - Badge14</a>
-    -   <a href="#zone-zero-quests---zzero3" id="toc-zone-zero-quests---zzero3">Zone Zero Quests - ZZero3</a>
-    -   <a href="#do-the-dive-floria---ddivef1" id="toc-do-the-dive-floria---ddivef1">Do the Dive (Floria) - DDiveF1</a>
-    -   <a href="#do-the-dive-terajuma---ddivet2" id="toc-do-the-dive-terajuma---ddivet2">Do the Dive (Terajuma) - DDiveT2</a>
-    -   <a href="#kingdom-of-goomidra---goomyq1" id="toc-kingdom-of-goomidra---goomyq1">Kingdom of Goomidra - GoomyQ1</a>
-    -   <a href="#zorrialyn-labyrinth-2nd-visit---zorlab2" id="toc-zorrialyn-labyrinth-2nd-visit---zorlab2">Zorrialyn Labyrinth 2<sup>nd</sup> Visit - ZorLab2</a>
-    -   <a href="#aquarium-side-quest---aquasq1" id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest - AquaSQ1</a>
-    -   <a href="#ana-quest-part-3---anaquest3" id="toc-ana-quest-part-3---anaquest3">Ana Quest Part 3 - AnaQuest3</a>
-    -   <a href="#hospital-of-ruin-2nd-visit---hospruin2" id="toc-hospital-of-ruin-2nd-visit---hospruin2">Hospital of Ruin (2nd Visit) - HospRuin2</a>
-    -   <a href="#narcissas-quest-final---narcqf1" id="toc-narcissas-quest-final---narcqf1">Narcissa’s Quest (Final) - NarcQF1</a>
-    -   <a href="#department-store-and-deino---dsdeino1" id="toc-department-store-and-deino---dsdeino1">Department Store and Deino - DSDeino1</a>
-    -   <a href="#zygarde-10-form---zy10per1" id="toc-zygarde-10-form---zy10per1">Zygarde 10% Form - Zy10Per1</a>
+    -   <a href="#neo-gearen-city--side-quests" id="toc-neo-gearen-city--side-quests">Neo Gearen City + Side Quests</a>
+    -   <a href="#route-4-thirteen-badge-update" id="toc-route-4-thirteen-badge-update">Route 4 Thirteen Badge Update</a>
+    -   <a href="#route-10-first-visit" id="toc-route-10-first-visit">Route 10 First Visit</a>
+    -   <a href="#nastasias-ship" id="toc-nastasias-ship">Nastasia’s Ship</a>
+    -   <a href="#zone-zero-pt-1" id="toc-zone-zero-pt-1">Zone Zero Pt. 1</a>
+    -   <a href="#zone-zero-pt-2" id="toc-zone-zero-pt-2">Zone Zero Pt. 2</a>
+    -   <a href="#eclysia-pyramid" id="toc-eclysia-pyramid">Eclysia Pyramid</a>
+    -   <a href="#pyramid-point-badge" id="toc-pyramid-point-badge">Pyramid Point Badge</a>
+    -   <a href="#zone-zero-quests" id="toc-zone-zero-quests">Zone Zero Quests</a>
+    -   <a href="#do-the-dive-floria" id="toc-do-the-dive-floria">Do the Dive (Floria)</a>
+    -   <a href="#do-the-dive-terajuma" id="toc-do-the-dive-terajuma">Do the Dive (Terajuma)</a>
+    -   <a href="#kingdom-of-goomidra" id="toc-kingdom-of-goomidra">Kingdom of Goomidra</a>
+    -   <a href="#zorrialyn-labyrinth-2nd-visit" id="toc-zorrialyn-labyrinth-2nd-visit">Zorrialyn Labyrinth 2<sup>nd</sup> Visit</a>
+    -   <a href="#aquarium-side-quest" id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest</a>
+    -   <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">Ana Quest Part 3</a>
+    -   <a href="#hospital-of-ruin-2nd-visit" id="toc-hospital-of-ruin-2nd-visit">Hospital of Ruin (2nd Visit)</a>
+    -   <a href="#narcissas-quest-final" id="toc-narcissas-quest-final">Narcissa’s Quest (Final)</a>
+    -   <a href="#department-store-and-deino" id="toc-department-store-and-deino">Department Store and Deino</a>
+    -   <a href="#zygarde-10-form" id="toc-zygarde-10-form">Zygarde 10% Form</a>
 -   <a href="#chapter-15-vague-clarity" id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
-    -   <a href="#league-administration-1st-visit---ladmin1" id="toc-league-administration-1st-visit---ladmin1">League Administration 1<sup>st</sup> Visit - LAdmin1</a>
-        -   <a href="#day-01---vs-melia" id="toc-day-01---vs-melia">Day 01 - Vs. Melia</a>
-        -   <a href="#day-03---aelitas-departure" id="toc-day-03---aelitas-departure">Day 03 - Aelita’s Departure</a>
-        -   <a href="#day-08---mcs-training" id="toc-day-08---mcs-training">Day 08 - MC’s Training </a>
-        -   <a href="#day-11---aelitas-return" id="toc-day-11---aelitas-return">Day 11 - Aelita’s Return</a>
-        -   <a href="#day-15---melia-vs-erin" id="toc-day-15---melia-vs-erin">Day 15 - Melia Vs. Erin</a>
-        -   <a href="#day-18---mcs-day-of-training-pt-2" id="toc-day-18---mcs-day-of-training-pt-2">Day 18 - MC’s Day of Training, Pt. 2</a>
-        -   <a href="#day-29---graduation" id="toc-day-29---graduation">Day 29 - Graduation</a>
-    -   <a href="#diamond-route---diaroute1" id="toc-diamond-route-diaroute1">Diamond Route - DiaRoute1</a>
-    -   <a href="#pearl-route---pearoute1" id="toc-pearl-route---pearoute1">Pearl Route - PeaRoute1</a>
-    -   <a href="#axis-high-university-2nd-visit---axishiu2" id="toc-axis-high-university-2nd-visit---axishiu2">Axis High University 2nd Visit - AxisHiU2</a>
-    -   <a href="#aelita-school-route---aelroute1" id="toc-aelita-school-route---aelroute1">Aelita School Route - AelRoute1</a>
-    -   <a href="#mc-school-route---mcroute1" id="toc-mc-school-route---mcroute1">MC School Route - MCRoute1</a>
-    -   <a href="#axis-high-university-3rd-visit---axishiu3" id="toc-axis-high-university-3rd-visit---axishiu3">Axis High University 3rd Visit - AxisHiU3</a>
-    -   <a href="#forgery-badge---badge15" id="toc-forgery-badge---badge15">Forgery Badge - Badge15</a>
-    -   <a href="#post-v13-items---pv13it1" id="toc-post-v13-items---pv13it1">Post V13 Items - PV13It1</a>
+    -   <a href="#league-administration-1st-visit" id="toc-league-administration-1st-visit">League Administration 1<sup>st</sup> Visit</a>
+        -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01: Vs. Melia</a>
+        -   <a href="#day-03-aelitas-departure" id="toc-day-03-aelitas-departure">Day 03: Aelita’s Departure</a>
+        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08: MC’s Training </a>
+        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11: Aelita’s Return</a>
+        -   <a href="#day-15-melia-vs-erin" id="toc-day-15-melia-vs-erin">Day 15: Melia Vs. Erin</a>
+        -   <a href="#day-18-mcs-day-of-training-pt-2" id="toc-day-18-mcs-day-of-training-pt-2">Day 18: MC’s Day of Training, Pt. 2</a>
+        -   <a href="#day-29-graduation" id="toc-day-29-graduation">Day 29: Graduation </a>
+    -   <a href="#diamond-route" id="toc-diamond-route-diaroute1">Diamond Route</a>
+    -   <a href="#pearl-route" id="toc-pearl-route">Pearl Route</a>
+    -   <a href="#axis-high-university-2nd-visit" id="toc-axis-high-university-2nd-visit">Axis High University 2nd Visit</a>
+    -   <a href="#aelita-school-route" id="toc-aelita-school-route">Aelita School Route</a>
+    -   <a href="#mc-school-route" id="toc-mc-school-route">MC School Route</a>
+    -   <a href="#axis-high-university-3rd-visit" id="toc-axis-high-university-3rd-visit">Axis High University 3rd Visit</a>
+    -   <a href="#forgery-badge" id="toc-forgery-badge">Forgery Badge</a>
+    -   <a href="#post-v13-items" id="toc-post-v13-items">Post V13 Items</a>
 -   <a href="#appendices" id="toc-appendices">Appendices</a>
-    -   <a href="#complete-the-v13-dex---v13dex1" id="toc-complete-the-v13-dex---v13dex1">Complete the V13 Dex - V13Dex1</a>
+    -   <a href="#complete-the-v13-dex" id="toc-complete-the-v13-dex">Complete the V13 Dex</a>
         - <a href="#must-breed" id="toc-must-breed">Must Breed</a>
         - <a href="#must-evolve-by-level" id="toc-must-evolve-by-level">Must Evolve by Level</a>
         - <a href="#must-evolve-by-item" id="toc-must-evolve-by-item">Must Evolve by Item</a>
         - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
         - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
-    -   <a href="#v13-unobtainable-pokemon---v13unob1" id="toc-v13-unobtainable-pokemon---v13unob1">V13 Unobtainable Pokemon - V13Unob1</a>
-    -   <a href="#pickup-table---pickup1" id="toc-pickup-table---pickup1">Pickup Table - PickUp1</a>
-    -   <a href="#crest-descriptions---crestd1" id="toc-crest-descriptions---crestd1">Crest Descriptions - CrestD1</a>
+    -   <a href="#v13-unobtainable-pokemon" id="toc-v13-unobtainable-pokemon">V13 Unobtainable Pokemon</a>
+    -   <a href="#pickup-table" id="toc-pickup-table">Pickup Table</a>
+    -   <a href="#crest-descriptions" id="toc-crest-descriptions">Crest Descriptions</a>
 
 # Chapter 1: Shipwrecked
 
-## Prologue - Prolog
-
+## Prologue
 To start, the “M” key toggles a speed-up of the game. The game will
 start off asking if you want to skip the prologue. Rejuvenation is a
 very story-focused game, so I recommend viewing it if it is your first
@@ -264,8 +263,7 @@ cutscene.
 After regaining control of Marianette, head down, east, and up through
 the hallway and watch the final cutscene of the prologue play out.
 
-## S.S. Oceana - Oceana1
-
+## S.S. Oceana
 After either skipping the prologue or finishing the last cutscene, the
 game asks which difficulty mode you’d prefer. Personally, I would
 recommend Casual Mode for anyone attempting to do a more restrictive
@@ -289,7 +287,7 @@ a legacy protagonist sprite, type 1111. If you want to play the game as
 a certain side quest character from later (Ana), type 9494.
 
 Exit the first room and talk to Nancy. This is the first of instances
-that get you relationship points with characters - which affect how they
+that get you relationship points with characters, which affect how they
 view you. Thanks to Punch for collecting the information about these.
 Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
@@ -315,8 +313,7 @@ the banquet started, when you’re ready.
 
 Once you regain control, follow the path and watch the events play out.
 
-## Oceana Pier - OPier1
-
+## Oceana Pier
 After either skipping the boat scenes or watching the cutscenes, talk to
 Tesla. Once you regain control, you can explore Oceana Pier.
 
@@ -331,8 +328,7 @@ get an all-expenses paid trip to Hoenn, but it is a game over.
 Otherwise, there’s not too much to do here yet, so head into the gate on
 the north side.
 
-## Gearen Laboratory - GearLab1
-
+## Gearen Laboratory
 The trainers won’t let you head west or east quite yet, so head into the
 building north.
 
@@ -427,7 +423,7 @@ right of the counter, but none of its training rooms are open right now.
 When you’re ready, head back outside to start exploring East Gearen
 City!
 
-## Left East Gearen City - EGear1
+## Left East Gearen City
 
 This guide will not cover every NPC trainer, but know that as you
 explore Aevium there are many!
@@ -548,7 +544,7 @@ locations:
 After this encounter you can interact with it and battle it. **Nidoran
 F** is at level 5.
 
-## Right East Gearen City - EGear2
+## Right East Gearen City
 
 You’ll see grass around this part of the city too, with more Pokemon.
 
@@ -664,7 +660,7 @@ east as you get up the stairs and follow the path to get *TM83:
 Infestation.* The two flower pots on either side of the door have hidden
 *Paralyze Heal* and *Green Shard.*
 
-## Chrisola Resort - CResor1
+## Chrisola Resort
 
 Enter the Chrisola Hotel Resort at the top of the map. Entering gives us
 a Relationship Point (Saki +1).
@@ -761,7 +757,7 @@ southwest. On the first floor, pick up the *Old Rod*, as well as another
 impossible battle (Level 80!) given the tools we have now. I don’t
 recommend this unless you have the money and self-respect to spare.
 
-## Gearen Park - GPark1
+## Gearen Park
 
 Head to the bottom part of this area.
 
@@ -792,7 +788,7 @@ and 4 tiles up and 2 left is a *Muscle Wing.* Finally in the concrete on
 the bottom, in the center two tiles up from the bottom, is a *Yellow
 Shard.*
 
-## Sewers Visit 1 - Sewer1
+## Sewers Visit 1
 
 To progress the story, head east into Venam’s front yard, down from here
 a bit, and see a cutscene. Head to the Emporium to get a *Pecha Berry?*
@@ -865,7 +861,7 @@ any strong STAB moves can take out the Trubbish. Ren’s Growlithe hits
 hard with Ember, plus he has two more in the back, so you shouldn’t
 really have to worry here.
 
-## Game Corner Prizes - GCorner1
+## Game Corner Prizes
 
 Now’s a good time to mention all the prizes available in the game
 corner. While you can get them all right now with enough patience, it’s
@@ -938,7 +934,7 @@ Additionally, head back to Magnolia Library, and for a short time you’ll
 be able to battle Ren -- it’s optional experience and money should you
 want it.
 
-## PoisonHeart Badge - Badge01 
+## PoisonHeart Badge
 
 It’s time to take on Venam’s gym in East Gearen. This gym will require
 us to mix colors to make composite colors.
@@ -1031,7 +1027,7 @@ After the battle, you’ll be rewarded with the *PoisonHeart Badge*!
 She’ll also give you *TM102 Poison Sweep!* This is a new move that can
 be useful in the early game.
 
-## Post-Gym Quests - EGear3
+## Post-Gym Quests
 
 Some quests have opened, everything in this section is optional though.
 
@@ -1279,7 +1275,7 @@ ZCell 004: Gearen Alleyway (through Venam’s secret tunnel)
 <img src="/assets/media/rejuv/image4.png"
 style="width:6.65625in;height:5.02083in" />
 
-## Route 1 and Goldenwood Forest - Rt1GF1
+## Route 1 and Goldenwood Forest
 
 Once you’re ready to leave, head to the northwest part of town and enter
 the train station. Inside the station, you’ll meet up with Tesla, who’ll
@@ -1427,7 +1423,7 @@ Nidorina, who can hit hard with Double Kick. Just be careful to not let
 Togepi buff itself up with Ancientpower too many times and you can make
 it through.
 
-## Goldenwood Xen Attack - GWXen1
+## Goldenwood Xen Attack
 
 As soon as Melia leaves, head back out through Goldenwood Cave. In the
 briefcase, enter 3845 for an *Ability Capsule.* In this game you can
@@ -1537,7 +1533,7 @@ game. After a lot of cutscenes, you’ll be back outside.
 
 # Chapter 2: Redemption
 
-## Junction Bridge - JBridg1
+## Junction Bridge
 
 Head outside of the lab and talk to Karrina. She’ll want us to go to the
 Junction Bridge on the left side of the city, so accept fast travel.
@@ -1628,7 +1624,7 @@ Relationship Point Choices:
 - Cheer up, guys... (Ren +1)  
 - ... (Neutral)
 
-## Route 2 - 2Route1
+## Route 2
 
 There’s a *Carbos* right and down from the red flower on the left as you
 enter. The grassy spot in the middle of dirt right from Meganium hides a
@@ -1719,7 +1715,7 @@ contains an *Ability Capsule.*
 
 After you’re done, enter Amethyst Cave.
 
-## Amethyst Cave 1st Visit - ACave1
+## Amethyst Cave 1st Visit
 
 After a conversation with a shady figure, you’ll have control in the
 cave.
@@ -1887,7 +1883,7 @@ wall to the left of the bottom stairs contains a *Super Potion,* and the
 one above and right of the top stairs contains a *Reverse Candy.* Head
 into Sheridan Village to the north.
 
-## Sheridan Village - SVill1
+## Sheridan Village
 
 Listen to a cutscene with Aelita and the Elder. At the moment it costs
 money to heal here, so we’re gonna start by heading all the way north
@@ -2024,7 +2020,7 @@ Relationship Point Choices:
 - I am. (Keta +2)  
 - But i just got here... (Keta -2)
 
-## Amethyst Grotto and Sheridan Help Quests - AGrot1
+## Amethyst Grotto and Sheridan Help Quests
 
 After accepting Keta’s quest, head all the way out of the village and go
 back all the way through Amethyst Cave. In the second room, interact
@@ -2265,7 +2261,7 @@ have lots of team options to make it more possible.
 Sensei runs off instead of paying up a badge. Follow Aelita into the
 waterfall cave.
 
-## Carotos Mountain - CMount1
+## Carotos Mountain
 
 Relationship Point Choices:
 - Yes. (Aelita +1)  
@@ -2434,7 +2430,7 @@ If you win, you’ll be able to pick up **Gothita** behind!
 
 Head into Amethyst Grotto ready for the REAL gym fight.
 
-## Diamond Punch Badge - Badge02
+## Diamond Punch Badge
 
 Well, that’s about all we can take care of at this point.
 
@@ -2487,7 +2483,7 @@ Talk to Aelita upstairs and agree to sleep.
 
 # Chapter 3: Tainted Light
 
-## Sewers Visit 2 - Sewer2
+## Sewers Visit 2
 
 Eldest will give us *Super Potions.* From Route 2, head into the city.
 If you’ve completed Karrina’s Amethyst Cave quest, you’ll get +2 Aelita
@@ -2675,7 +2671,7 @@ anything unique for us yet. To do so, tell her the world is safe,
 Sheridan is safe, but Hiyoshi is destroyed. If you do answer truthfully,
 she will give you *Anju’s Pendant!*
 
-## Normality Badge - Badge03
+## Normality Badge
 
 Exit and return to the mansion. Before we proceed, exit all the way out
 to Gearen to pick up what Aelita dropped: *3 Super Potions, 4 Exp. Candy
@@ -2733,7 +2729,7 @@ cap is now 35. Enjoy the following cutscene.
 
 # Chapter 4: Isolation
 
-## 3 Badge Quests - 3BQuest1
+## 3 Badge Quests
 
 Start at East Gearen. Return to the sewers where the mansion was, then
 head to up to grab *TM42 Facade*! Head outside.
@@ -2814,7 +2810,7 @@ Pom-Pom Meadow
 | Butterfree             | 9        |
 | Dustox                 | 9        |
 
-## Route 3 and Phasial Cave - 3Route1
+## Route 3 and Phasial Cave
 
 As soon as you’re ready, head to Route 3, west from Sheridan.
 
@@ -3061,7 +3057,7 @@ here if you’re stuck.
 
 Enter Goldenleaf town at the bottom!
 
-## Goldenleaf Town - GleafT1
+## Goldenleaf Town
 
 Defeat Sariah.
 
@@ -3172,7 +3168,7 @@ Wispy Ruins
 There’s nothing else we can do here till we get 4 badges though, so head
 back outside.
 
-## Wispy Path and Goldenwood Forest Visit 2 - WP1GF2
+## Wispy Path and Goldenwood Forest Visit 2
 
 Talk to Narcissa at the gym, then upstairs in her house. Head to the
 west of town to reach Wispy Path.
@@ -3291,7 +3287,7 @@ Dimensional Rift Gyarados (Forest Field)
 If it is too hard now, you can come back any time before the fifth gym.
 Take it out, and C will thank us. (+1 Karma)
 
-## Wispy Tower - WTower1
+## Wispy Tower
 
 As soon as that’s over, enter Wispy Tower from the top of Wispy Path. On
 the right, below the middle of five trees in the middle of the street is
@@ -3441,7 +3437,7 @@ you have set up any of your Pokemon you may be able to succeed!
 When you’re back in town, you can proceed to the gym immediately, or go
 tackle a side area real fast.
 
-## Mirage Woods - MWoods1
+## Mirage Woods
 
 Head back to the top of Route 3 and enter the clearing on the left. Cut
 down the trees.
@@ -3541,7 +3537,7 @@ library. In the room on the left, talk to the girl in here to do a quiz.
 If you answer all the questions correctly, you’ll get a *Thunderstone!*
 The answers are brown, Goldenwood, and Goldenleaf.
 
-## Phantasm Badge - Badge04
+## Phantasm Badge
 
 After you’ve left Narcissa’s house, talk to the Audino breeder next to
 the Pokemon Center for a repeatable battle against 3 Audino. Each time
@@ -3674,7 +3670,7 @@ Head into Wispy Ruins.
 
 # Chapter 5: Imprisoned
 
-## Wispy Ruins - WRuins1
+## Wispy Ruins
 
 And head back out. Now that the people of Goldenleaf have decided to
 change their ways, they’ll give us some stuff if we talk to them around
@@ -3744,7 +3740,7 @@ is an easy fight if you have strong and fast Pokemon.
 
 Proceed to Route 4!
 
-## Route 4 - 4Route1
+## Route 4
 
 Welcome to Route 4, a sprawling nature preserve. All over there are
 items scattered about, and they refresh once a day. Different items will
@@ -3884,7 +3880,7 @@ Enter Akuwa Town and go with Aelita to the old man. We will explore
 Akuwa Town in a bit, but there are some quests we can do! Skip the
 following section to proceed through the story.
 
-## Lost Camp Part 1, and Floria Side Quests - LCamp1
+## Lost Camp Part 1, and Floria Side Quests
 
 Head to the left, and sneak through the gap in the fence. Enter Lost
 Camp and talk to Maman. She’ll quest us with finding kids to populate
@@ -3960,7 +3956,7 @@ Level up Slugma to Level 38 to get **Magcargo.** Add it and Emolga to
 your party, then head back to Route 2’s trailer to get *Charcoal* and
 *Magnet,* as well as *TM96 Nature Power!*
 
-## Mystery Egg - MEgg1
+## Mystery Egg
 
 There’s one more quest we can do. This will get us a very strong
 Pokemon, but if you’re not interested, go ahead and skip to the Route 4
@@ -4045,7 +4041,7 @@ now, and every quest you wanted to finish.
 Once you’re ready, head into the Aquarium/gym and go into the backroom.
 You don’
 
-## Blacksteeple Castle - BCastle1
+## Blacksteeple Castle
 
 Blacksteeple is one of my favorite sections of this game, but its very
 story driven and has relatively few battles, items, wild Pokemon and the
@@ -4394,7 +4390,7 @@ Relationship Point Choices:
 
 Goodbye Blacksteeple Castle!
 
-## Xen Battleship - XShip1
+## Xen Battleship
 
 We’ll wake up on the ship with Adam.
 
@@ -4482,7 +4478,7 @@ nothing too much for us, especially after Madelis and Neved.
 
 After you win, head out to the deck and talk to Melia again.
 
-## Terajuma Shore - TShore1
+## Terajuma Shore
 
 Once you beach, you’ll have to battle two rangers. Winning grants +3
 Melia relationship points, while losing takes away -3 Melia relationship
@@ -4529,7 +4525,7 @@ you need something from Floria Island for the fight.
 
 When you’re ready, head into Terajuma Jungle to the north.
 
-## Terajuma Jungle - TJung1
+## Terajuma Jungle
 
 Relationship Point Choices:
 - I'd accept too... (Braixen +2)  
@@ -4572,7 +4568,7 @@ Relationship Point Choices:
 After a brief conversation there’s just one thing left to do for this
 section!
 
-## Dewdrop Badge - Badge05
+## Dewdrop Badge
 
 Once you’ve healed, talk to Valarie outside for her gym battle.
 
@@ -4634,7 +4630,7 @@ Relationship Point Choices:
 
 # Chapter 6: Nimpossible Predicament
 
-## Terajuma Island Surfing - TISurf1
+## Terajuma Island Surfing
 
 Head back to where you had the battle, then talk to Melia to get *HM03
 Surf!*
@@ -4669,7 +4665,7 @@ screen to Terajuma Pier.
 Go all the way to the left, then down. Surf down from here. Grab the
 *Red Shard.* Afterwards, return to the jungle.
 
-## Terajuma Jungle 2 - TJung2
+## Terajuma Jungle 2
 
 Terajuma Jungle
 
@@ -4916,7 +4912,7 @@ bottom section of this area, and you’ll be able to interact with wild
 **Phione** for a GourmetTreat! Return to the village to progress the
 story.
 
-## Kakori Village and Jeminra Woods - KVill1
+## Kakori Village and Jeminra Woods
 
 In the town, itemfind around for 2 *TinyMushrooms.* In the top left, use
 another Spice Powder on Vileplume to get to a hidden… *TinyMushroom.*
@@ -5210,7 +5206,7 @@ Melia (+2 Melia Relationship Points, +2 Aelita). Return to the HQ and
 enter the last room on the left. After that, head back outside and go to
 Route 5.
 
-## Route 5 - 5Route1
+## Route 5
 
 Route 5 (Ashen Beach)
 
@@ -5321,7 +5317,7 @@ style="width:6.6875in;height:5in" />
 
 Head up to Valor Mountain and watch the scene.
 
-## Dexoy Attack - Dexoy1
+## Dexoy Attack
 
 You’ll be placed back in Terajuma Jungle, so return to the south
 entrance.
@@ -5350,7 +5346,7 @@ Relationship Point Choices:
 
 Now is a good time to do the help quests.
 
-## Kakori Help Quests - KakHelp1
+## Kakori Help Quests
 
 HQuest 13: Clear the Way!!
 
@@ -5605,7 +5601,7 @@ Grab the *TM123 Self Destruct* while you’re here!
 
 We’re now gonna go find Rorim B.
 
-## Secret Shore - SShore1
+## Secret Shore
 
 Head back to Terajuma Jungle and enter the Hula Meadow. Rorim B will
 battle you!
@@ -5921,7 +5917,7 @@ to Kakori.
 Rorim B will now take us to Oceana Pier from Terajuma Shore for free, so
 now is a good time to return.
 
-## Floria Island Surfing and Side Quests - FlorSurf1
+## Floria Island Surfing and Side Quests
 
 Talk to Rorim B at Terajuma Pier, and you can return to Oceana Pier.
 
@@ -6195,7 +6191,7 @@ she’ll let us have **Chikorita** for the Spinda we got.
 
 At the top of the route, surf all the way up and we’ll reach a new area!
 
-## River’s End First Visit - REnd1
+## River’s End First Visit
 
 River’s End
 
@@ -6223,7 +6219,7 @@ The door is locked for now, but we’ll be back after our next badge. Surf
 out of here to the north to return to Goldenleaf Town and take the truck
 to Akuwa Town.
 
-## Route 4 Second Visit - 4Route2
+## Route 4 Second Visit
 
 Enter Route 4 from Akuwa Town.
 
@@ -6247,7 +6243,7 @@ Essence to grab those crests if you haven’t gotten them yet.
 
 Head back to Akuwa Town.
 
-## Route 11 - 11Route1
+## Route 11
 
 Akuwa Town
 
@@ -6429,7 +6425,7 @@ Terajuma Jungle Mulch Shop
 That’s all we can do for this massive load of quests, so head back to
 Crawli’s gym.
 
-## Infested Badge - Badge06
+## Infested Badge
 
 Enter Crawli’s gym in the ranger HQ once you have prepped your team.
 Talk to Holly at the entrance, then enter one of the caves and talk to
@@ -6608,7 +6604,7 @@ That’s it for this part!
 
 # Chapter 7: A Teila Fire and Ice
 
-## Route 6 and Aquamarine Cave - R6AqC1
+## Route 6 and Aquamarine Cave
 
 After you’re ready, head west out of Kakori Village to Route 6. We
 already had access to the grass, but:
@@ -6745,7 +6741,7 @@ strategy going.
 
 Pick up hidden *Pearl* and *Calcium.* Head west to enter Teila Resort!
 
-## Teila Resort First Visit - TeilaR1
+## Teila Resort First Visit
 
 Head up and grab the planted *Occa Berry.* Useful for a certain gym
 battle later. This building here is another ranger center, with a shop:
@@ -6852,7 +6848,7 @@ and the last is $6500, which comes with *3 Fresh Waters* and 3
 if you want to get it up quickly, I still recommend the friendship
 berries or Blue Moon Ice Creams.
 
-## Aquamarine Cave 2nd Visit - AqCave2
+## Aquamarine Cave 2nd Visit
 
 Next, we must go find Amber, Tesla’s kid. Re-enter Aquamarine Cave and
 head back down to the bottom level. Head up once you reach the large
@@ -6874,7 +6870,7 @@ Climb later, so head to the west to get back to the basement floor.
 Interact with the slimy rock slide thing here to head back to where
 we’ve been. Make your way back to Teila Resort!
 
-## Teila Resort 2nd Visit - TeilaR2
+## Teila Resort 2nd Visit
 
 Return to the massage room to talk to the group. Then, exit and head to
 Tesla’s Villa. It’s the furthest up building on the left side of the
@@ -7141,7 +7137,7 @@ rest as we continue in the game.
 
 That’s all there is for this quest - so head back to Teila Resort.
 
-## Frozen Over Kristiline Town - KristT1
+## Frozen Over Kristiline Town
 
 To progress the story, enter the living room of Tesla’s house. Talk to
 Melia. Then board the boat.
@@ -7180,7 +7176,7 @@ Relationship Point Choices:
 - Yes. (Melia +1)  
 - No. (Venam +1)
 
-## Tower of Theolia - Theolia1
+## Tower of Theolia
 
 Grab the 2 *Yache Berries.*
 
@@ -7221,7 +7217,7 @@ Potion* and the top right for a *Max Revive.*
 
 You can exit if need be but go ahead and prepare for the battle ahead!
 
-## Glacier Badge - Badge07
+## Glacier Badge
 
 Gym Leader Angie (Icy Dimensional Field, Hail)
 
@@ -7322,7 +7318,7 @@ offer.
 
 # Chapter 8: Those We Lose
 
-## Kristiline Town - KristT2
+## Kristiline Town
 
 Back inside the church, you’ll find:
 
@@ -7638,7 +7634,7 @@ Otherwise there’s tons of optional content that is now open to us!
 
 Head into the help center - it’s time for some Help Center Quests!
 
-## Kristiline Help Center Requests - KristH1
+## Kristiline Help Center Requests
 
 We’ll be exploring some new areas with Rock Climb throughout these
 quests, so I recommend reading to at least check what new areas you can
@@ -7808,7 +7804,7 @@ HQuest 22: ???
 
 For completing all five, you will be gifted **Eevee!** (+1 Karma)
 
-## Floria Island Rock Climb - FlorRC1
+## Floria Island Rock Climb
 
 That’s about all we can do on Terajuma Island alone, far as side quests
 are concerned. The boat can take us all sorts of places, including
@@ -7927,7 +7923,7 @@ the *Poke Doll* when you go down. Surf to the south to get to the
 Exit the ruins and make your way back to Akuwa Town. Enter Evergreen
 Forest and climb the rocks to get an *Icy Rock*.
 
-## Amethyst Cave 2<sup>nd</sup> Visit - ACave2
+## Amethyst Cave 2<sup>nd</sup> Visit
 
 Head to Route 2 and enter Amethyst Cave. Start by going to the room up
 from the first, where there is water and where we got a cell and
@@ -8121,7 +8117,7 @@ Dial to fuse your own Solrock and Lunatone.
 
 That’s all we can do in this area for now.
 
-## Lost Camp Pt. 2 - LCamp2
+## Lost Camp Pt. 2
 
 Now, we should have found all nine kids. Ctrl + F the phrase “lost kid”
 in the guide to get any that you missed. So, head back to Route 4, and
@@ -8130,7 +8126,7 @@ enter the lost camp.
 Donate the last $7500 to Maman. After a scene, head back outside and
 take the truck to Sheridan Village.
 
-## Carotos Mountain 2nd Visit - Carotos2
+## Carotos Mountain 2nd Visit
 
 Head up to Sheridan Arena and head up to the house formerly belonging to
 Keta.
@@ -8376,7 +8372,7 @@ up to you what to choose: the story will split here a bit. Choosing
 “Keep It” grants (+1 Karma). Jump to the section corresponding to your
 choice.
 
-## Valor Mountain - VMount1
+## Valor Mountain
 
 ### Entering the Mountain (Kept It Route)
 
@@ -8760,7 +8756,7 @@ teleporter at the bottom of this map.
 
 Head all the way back up to the top and enter the summit.
 
-## Valor Summit - VSumm1
+## Valor Summit
 
 Grab the *Dragon Scale* on the left of the summit.
 
@@ -8944,7 +8940,7 @@ Talk to Crescent.
 Now, the next destination is the gym battle. If you want to progress,
 skip the next section.
 
-## Post-Valor Quests - PVQuest1
+## Post-Valor Quests
 
 We can pick up a few Pokemon and items! Head to Ranger HQ in Kakori.
 Talk to Crawli at the entrance for ZCrystal *Buginium-Z.* We can’t use
@@ -9058,7 +9054,7 @@ Hidden along it is another *Poison Barb.* Follow the path to catch
 This is all we can do for now, so when you’re ready, head back to Teila
 Resort and enter the dance hall.
 
-## Lyric Badge - Badge08
+## Lyric Badge
 
 Concert Hall Left Shop
 
@@ -9173,7 +9169,7 @@ Overheat*! Head outside and watch the cutscene.
 
 # Chapter 9: No Time Left to Lose
 
-## Forest of Time - ForestT1
+## Forest of Time
 
 Talk to Amber outside the gym once you leave, then meet her in her room.
 Talk to her and say “they all died” for relationship points.
@@ -9232,7 +9228,7 @@ Relationship Point Choices:
 
 So begins Rejuvenations next major twist… time travel!
 
-## Aevium (Past) 1st Visit - PastA1
+## Aevium (Past) 1st Visit
 
 You can use this crystal to head back to the present anytime you want.
 
@@ -9477,7 +9473,7 @@ it’s a 6v5 on no field so you should be able to win somehow.
 Enter the new grove to return to the past for now. We can use this
 crystal to go back to the past whenever we want.
 
-## West Gearen City Sewers - WGSewer1
+## West Gearen City Sewers
 
 Talk to Venam to board the boat. While onboard, say “About a 10” for
 relationship points.
@@ -9561,7 +9557,7 @@ ZCell 053: Distorted Path
 <img src="/assets/media/rejuv/image55.PNG"
 style="width:7.03125in;height:5.31361in" />
 
-## West Gearen City - WGearen1
+## West Gearen City
 
 West Gearen City Pool Area
 
@@ -9678,7 +9674,7 @@ hint about one way to evolve it.
 
 Return to the help center in West Gearen.
 
-## West Gearen City Help Quests - WGHelp1
+## West Gearen City Help Quests
 
 HQuest 23: Generator Problems (Need to have freed Dufaux)
 
@@ -9853,7 +9849,7 @@ Taunt, and other similar moves if you must.
 
 Win to get the *Ghost Memory!*
 
-## Route 4 Eight Badge Update - 4Route3
+## Route 4 Eight Badge Update
 
 Next is a quick detour to Route 4 to get some new Den Pokemon - feel
 free to skip this one.
@@ -9899,7 +9895,7 @@ trade your spare to her to get **Sawk!**
 That’s all we can do right now. Head back to Erick’s gym and head up to
 challenge him.
 
-## Pulse Badge - Badge09
+## Pulse Badge
 
 Head outside. Enter the factory here. Attempt to enter the door to the
 right, and you’ll fight:
@@ -10071,7 +10067,7 @@ Switch.*
 
 # Chapter 10: Stopped in Our Tracks
 
-## A Few More Quests - Post9Q1
+## A Few More Quests
 
 There’s just a few more things we can do before leaving on the train. Up
 on the Valor Cliffside, if you donate to a guy 10 Rock types, you’ll get
@@ -10094,7 +10090,7 @@ the Golden Gauntlets and any other of the AP items you haven’t yet if
 you’d like. Make sure you have 8 Sitrus Berries for a quest in the next
 chapter.
 
-## Grand Express - GExpr1
+## Grand Express
 
 Make sure you’re ready to not come back for little while. Talk to Melia
 in the train station in southwest West Gearen.
@@ -10161,7 +10157,7 @@ the night.
 Head all the way left and talk to Krystal. Head two cars right and
 you’ll be able to exit onto Route 7.
 
-## Route 7 - 7Route1
+## Route 7
 
 Been a while since we walked onto a new route! We can return to the
 train to heal and use the PC.
@@ -10316,7 +10312,7 @@ Relationship Point Choices:
 
 Enter the Darchlight Woods to the west.
 
-## Darchlight Woods - DarchW1
+## Darchlight Woods
 
 Darchlight Woods (Bewitched Field)
 
@@ -10381,7 +10377,7 @@ can’t explore much here yet, but we’ll be back. Head back to the main
 map and head all the way to the southwest corner via the pillars, grab
 the hidden *Dark Gem,* and enter the clearing.
 
-## Route 8 and Azure Shore - 8RAzS1
+## Route 8 and Azure Shore
 
 Here are a couple small optional areas and quests, skip them if you’d
 like.
@@ -10445,7 +10441,7 @@ as well as *TM156 Air Slash* at the bottom.
 Head up to talk to the ranger who stole Oshawott and battle her. Try to
 leave after returning it, to get **Oshawott!** (+1 Karma)
 
-## Darchlight Manor First Visit - DLManor1
+## Darchlight Manor First Visit
 
 Darchlight Manor (Haunted Field)
 
@@ -10476,7 +10472,7 @@ and a *Gate Key.*
 That’s all we can do here for now, so make your way back to the
 crossroads.
 
-## Darchlight Caves First Visit - DLCaves1
+## Darchlight Caves First Visit
 
 Head north. On this map is a hidden *HP Up, Big Mushroom,* and *Blue
 Shard.* Surf up here to grab *TM18 Rain Dance.*
@@ -10589,7 +10585,7 @@ Flora here.
 Watch the events unfold, then head out of Honec Woods. Make your way
 back to the train and talk to Melia.
 
-## Rose Badge - Badge10
+## Rose Badge
 
 Two more things to do - the Sensu Meadow is now opened. Grab *TM114
 Leech Life*, and a hidden *Dark Gem, Ether,* and *TinyMushroom.*
@@ -10741,7 +10737,7 @@ train to get *HM04 Strength!* Talk to Melia in the cabin.
 
 # Chapter 11: Grand Dream City?
 
-## Dream District East 1st Visit - DreamDE1
+## Dream District East 1st Visit
 
 Head out into the station. After a chat, reenter the train station to
 pick up a *Hyper Potion.* We finally made it to Grand Dream City, which
@@ -10806,7 +10802,7 @@ alt="Graphical user interface Description automatically generated" />
 
 Outside, a ranger gives a *Leppa Berry* when they lose.
 
-## Main Street 1st Visit - MStreetD1
+## Main Street 1st Visit
 
 Head west out of the eastern Dream District.
 
@@ -10843,7 +10839,7 @@ this guy to get *TM31 Brick Break.* Nice!
 
 Head back to Main Street and head west.
 
-## Dream District West 1st Visit - DreamDW1
+## Dream District West 1st Visit
 
 Immediately head up as you enter to grab:
 
@@ -10890,7 +10886,7 @@ to get *TM67 Roost!*
 That’s all there is in these districts for now, but we’ll be back. Head
 back to Main Street, but this time, head north.
 
-## Central Square 1st Visit - CentralS1
+## Central Square 1st Visit
 
 Head all the way to the top for a *Max Repel* and a *Green Shard.* A
 ranger will give you a *Sitrus Berry* upon losing. Also, at the top,
@@ -10926,7 +10922,7 @@ but attempt to cross the bridge for a conversation with Isha.
 
 Head south, and through the northeast gate.
 
-## Shopping District 1st Visit - ShoppD1
+## Shopping District 1st Visit
 
 Head all the way to the bottom right corner to find:
 
@@ -10989,7 +10985,7 @@ Shopping District Mall 2F Vendor 2
 That’s all for this area for now, so head back to the central square.
 Head straight west from here into the residential district.
 
-## Residential District 1st Visit - ResidD1
+## Residential District 1st Visit
 
 If you turn the weather to Sunny, you can battle wild **Petilil!**
 Hidden on this map is *Green Shard, Super Repel, Yellow Shard, Ether, PP
@@ -11043,7 +11039,7 @@ After a lot of bizarre scenes, head back to Mika’s Cafe.
 
 Head back to the Complex and go to bed.
 
-## Story Split 1 - SSplit1
+## Story Split 1
 
 Here we’re going to have a split choice based on what we chose to do in
 the caves.
@@ -11066,7 +11062,7 @@ now, and this will push you towards the bad ending.
 
 Head out with Venam when you have a chance.
 
-## The Nightmare Medallion - NMMedal1
+## The Nightmare Medallion
 
 Now, the story segments should converge from here for a while.
 
@@ -11154,7 +11150,7 @@ building.
 Enter the medicine shop in Dream District West. Buy two *Nightmare
 Medallions* for $4800 each - one for a quest later.
 
-## Darchlight Manor Second Visit - DLManor2
+## Darchlight Manor Second Visit
 
 Now, we’re gonna do a few things now that we have access to HM Strength.
 If you already bought the Golden Gauntlets, now they are finally useful!
@@ -11215,7 +11211,7 @@ later. With all that said and done, return to GDC.
 With Nightmare Medallion in hand, enter the penthouse, and sleep in your
 bed.
 
-## Nightmare City - NMCity1
+## Nightmare City
 
 Talk to Aelita in the first area, then head up for another scene. In
 this central area, grab the *Apophyll Pancakes* in the upper right
@@ -11400,7 +11396,7 @@ it gets off a SD, Return is gonna hit hard, so find a way to whittle it
 down without getting one-shotted. With a good team of 6 though his group
 of 5 will go down quickly.
 
-## Trickery Badge - Badge11
+## Trickery Badge
 
 Head into the box and go into the upper room. Step on the bottom right
 and top left switch only to solve the puzzle, then talk to Aelita for a
@@ -11524,7 +11520,7 @@ Relationship Point Choices:
 Then head over to the Grand Dream Station. Talk to her here, and enter
 the train headed to Route 9.
 
-## Route 9 First Visit - 9Route1
+## Route 9 First Visit
 
 Route 9
 
@@ -11608,7 +11604,7 @@ style="width:7.14583in;height:5.28243in" />
 
 Enter the theater.
 
-## Rose Theater First Visit - RoseTh1
+## Rose Theater First Visit
 
 Relationship Point Choices:  
 - Don't be so harsh... (Aelita -2)  
@@ -11637,7 +11633,7 @@ Head upstairs, and into the left door.
 
 # Chapter 12: Remember, I Love You
 
-## Judicial District - JDist1
+## Judicial District
 
 Outside, accept Aelita’s request for fast travel. There are a couple
 side quests and areas we can tackle right now. Skip two sections ahead
@@ -11670,7 +11666,7 @@ one, you don’t want to know.*
 
 That’s it for now: we’ll start the Kimono Girls’ side quest now.
 
-## Kimono Girls Quest - KimonoGQ
+## Kimono Girls Quest
 
 We are going to find all the Kimono girls.
 
@@ -11753,7 +11749,7 @@ Shopping District Mall 3F Vendor 2
 
 *Cell Battery* $200
 
-## Axis High University 1<sup>st</sup> Visit - AxisHiU1
+## Axis High University 1<sup>st</sup> Visit
 
 Head back to GDC and go as north as you can, north of the Central
 Building. Lots to do here!
@@ -11941,7 +11937,7 @@ a different Pokemon, but the same typing as normal… anyways, this is a
 very winnable battle, you just must find something with a powerful
 Poison or Steel move that can survive all four of these attacks.
 
-## District of Hope - HopeDist1
+## District of Hope
 
 Head west from Axis High, then head into the first building. Grab the
 *Thunderstone* on 15F. Outside, head to the south. Grab the hidden
@@ -11962,7 +11958,7 @@ Relationship Point Choices:
 
 Activate the crystal - we’re going back in.
 
-## Aevium (Past) 2nd Visit - PastA2
+## Aevium (Past) 2nd Visit
 
 Exit the cave you appear in onto Route 4, which has no encounters.
 Follow the path down and to the right.
@@ -12604,7 +12600,7 @@ Relationship Point Choices:
 
 - Where's the exit? (Mosely -2)
 
-## Aevium (Past) 2nd Visit Part 2 - PastA2.5
+## Aevium (Past) 2nd Visit Part 2
 
 After returning to the past, head into Sheridan Village and go up.
 Hidden here is a *BalmMushroom.* Enter the sacrificial chamber.
@@ -12647,7 +12643,7 @@ Remember the GDC arc? Yeah, this is still the same game. Well, back in
 the Rose Theater, head out, then into the bottom room in the left
 hallway. Before we continue from here, we’re gonna do some side quests!
 
-## ANA Quest Part 1 - ANAQuest1
+## ANA Quest Part 1
 
 As always, these are optional, but extremely recommended! There’s fewer
 here but they’re more in depth this time. Head to the Central Building
@@ -12773,7 +12769,7 @@ style="width:6.67708in;height:5.05208in" />
 -   Head to the Police Department and talk to the cop. This is all we
     can do in this quest for now, until the next badge.
 
-## Classified Information Quest - ClassInf1
+## Classified Information Quest
 
 HQuest 27: Classified Information
 
@@ -12886,7 +12882,7 @@ Shopping District Mall 4F Vendor 2
 
 *Metronome* $200
 
-## Golden Wing Badge - Badge12
+## Golden Wing Badge
 
 Return to the Rose Theater, and enter the right room of the upstairs,
 and enter the closet. Get whatever you’re gonna need, because it’s gym
@@ -13061,7 +13057,7 @@ Relationship Point Choices:
 
 You’ll also get... *Souta’s Cane*. Well, that’s interesting.
 
-## The Aelita Incident - DRiftA1
+## The Aelita Incident
 
 After a conversation with Erin and Eldest, head into the middle room
 upstairs. After the scene, exit the building.
@@ -13117,7 +13113,7 @@ That concludes chapter 12!
 
 # Chapter 13: Conflicting Renunion
 
-## A Note about Where Love Lies - WLLNote
+## A Note about Where Love Lies
 
 Completing all the content so far marks the recommended point in the
 story you should consider going to play Version -1: Where Love Lies, a
@@ -13141,7 +13137,7 @@ password, if you forgot/just want the reward, the password is 489234.
 
 Now onto the story content!
 
-## Scholar District - ScholarD1
+## Scholar District
 
 Enter the Scholar district, to the right of Axis High, or to the south
 of Route 9.
@@ -13210,7 +13206,7 @@ That’s about it for this area for now. Talk to Melia and Erin to enter
 the Blakeory Anatheum, but don’t talk to Erin inside just yet if you
 want to continue two optional quests.
 
-## Lost Camp Pt. 3 - LCamp3
+## Lost Camp Pt. 3
 
 First, if we’re all caught up on the Lost Camp side quest:
 
@@ -13229,7 +13225,7 @@ First, if we’re all caught up on the Lost Camp side quest:
 -   Make your way down through the gauntlet of cops. Talk to Isha, this
     is it for now.
 
-## ANA Quest Part 2 - ANAQuest2
+## ANA Quest Part 2
 
 If you’ve already done part 1:
 
@@ -13258,7 +13254,7 @@ If you’ve already done part 1:
 Unfortunately, we cannot proceed anymore in this quest, so head back to
 Scholar District.
 
-## Voidal Chasm 1st Visit - VoidalC1
+## Voidal Chasm 1st Visit
 
 Enter the Blakeory Anatheum. Talk to Erin at the top. Head to the east
 side of the library and talk to Thomas.
@@ -13357,7 +13353,7 @@ northeast corner.
 This next room contains 3 more hidden *Ethers,* and the final room 5
 more. Why so many *Ethers?*
 
-## Zorrialyn Desert - ZDesert1
+## Zorrialyn Desert
 
 Again, this guide starts in the northeast corner outside of Voidal
 Chasm.
@@ -13515,7 +13511,7 @@ the crew, then make your way back to this part of the desert.
 
 Cross the bridges and enter the village.
 
-## Sashila Village 1st Visit - SashVil1
+## Sashila Village 1st Visit
 
 Head up the first set of stairs. The door to the right serves as our
 PC/healing site, should you need it.
@@ -13590,7 +13586,7 @@ Ancient Power boost or Braixen living to put Muk to sleep.
 
 Anyways, after the battle, the scenes will finish playing out… Dark.
 
-## Sashila Village 2nd Visit - SashVil2
+## Sashila Village 2nd Visit
 
 As soon as you regain control, let’s continue the story.
 
@@ -13614,7 +13610,7 @@ If you’re on the Kanon route, talk to Ren at the bottom of the village.
 Either way, head to Alamissa Urben, located halfway east on the lower
 loop of the desert.
 
-## Alamissa Urben - AlaUrben1
+## Alamissa Urben
 
 Talk to Ren at the entrance and you’ll get **Sylveon,** as well as the
 *Mysterious Black Box.* I recommend training this Sylveon up, with the
@@ -13662,7 +13658,7 @@ gallery.
 
 Beat the grunts with the assistance of Ren, then watch the scene…
 
-## Blakeory Atheneum Tour - BAthTour1
+## Blakeory Atheneum Tour
 
 Aww yeah, another different character section. Basically, you’re gonna
 be fighting your way to the stairs of the library. The trainers aren’t
@@ -13684,7 +13680,7 @@ again. Once you regain control, enter the arena.
 Battle Erin! Though, win or lose, the game will continue. Finish
 watching the wholesome scene and proceed.
 
-## Aevium (Past) 3rd Visit - PastA3
+## Aevium (Past) 3rd Visit
 
 Back at it again.
 
@@ -13980,7 +13976,7 @@ first this one will be easy.
 … … … Well. Once you get control back, head to Nymiera’s house once
 again. Push the button on the back of the bookcase!
 
-## VS. Ren, Sashila Help Quests - SVHelpQ1
+## VS. Ren, Sashila Help Quests
 
 Talk to the group, then again on top of the village. Head out to the
 coastline and talk to Alexandra in front of the obelisk. After the
@@ -14252,7 +14248,7 @@ here with your double battle ability, you could do one more.
 -   Return to the help center to get $32500 and a *Scented Lure.* (+1
     Karma).
 
-## Sand Stream Cave - SSCave1 
+## Sand Stream Cave
 
 You can return to GDC now if you want, but there’s even more desert
 exploration and quests we can do!
@@ -14310,7 +14306,7 @@ MegaStone *Sandacondanite.*
 
 That’s all there is to do in that cave for now!
 
-## Zorrialyn Labyrinth 1<sup>st</sup> Visit - ZorLab1
+## Zorrialyn Labyrinth 1<sup>st</sup> Visit
 
 Next, we’re going to do some treasure hunting. Head down south of
 Zorrialyn Coast, and you’ll see a cave entrance.
@@ -14374,7 +14370,7 @@ too long from now.
 
 That covers the quests and available content in the Badlands, for now.
 
-## Grand Dream Tournament - GDTourn1
+## Grand Dream Tournament
 
 Talk to Damien at the top of Sashila and head back to Route 9. There,
 you’ll get *HM02 Fly!* Finally. If you have the Golden Wings you can use
@@ -14448,7 +14444,7 @@ The next set of battles:
 
 So, beat all eight of these fools and watch the following cutscene…
 
-## Rugged Badge - Badge13
+## Rugged Badge
 
 Gym Leader Adam (Inverse Field)
 
@@ -14533,7 +14529,7 @@ Win to get the Rugged Badge, which lets us use Dive and go up to Level
 
 # Chapter 14: Death of One, Birth of Another
 
-## Neo Gearen City + Side Quests - NeoGS1
+## Neo Gearen City + Side Quests
 
 Relationship Point Choices
 
@@ -15193,7 +15189,7 @@ HQuest 32: Forest Restoration
 -   We’re gonna need $58000, 1 Architect, and 3 Fishermen. Submit the
     money.
 
--   Fisherman 1: On a bench east of the East Gearen → Route 1 Station.
+-   Fisherman 1: On a bench east of the East Gearen to Route 1 Station.
 
 -   Fisherman 2: On Route 2, directly south of the Amethyst Cave
     entrance.
@@ -15365,7 +15361,7 @@ ranch quest, enter Kelvin’s house on the right side of town and get the
 *PokeFlute* for $45000. Then, go to Honec Woods where **Snorlax** is
 to get it.
 
-## Route 4 Thirteen Badge Update - 4Route4
+## Route 4 Thirteen Badge Update
 
 Next is a quick detour to Route 4 to get some new Den Pokemon - feel
 free to skip this one as well.
@@ -15417,7 +15413,7 @@ this is a special shadow Pokemon and needs to enter the Purify Chamber
 in the PC such that all 9 of the slots have perfect “flow” in order to
 be purified. Easiest way to do this is to stick 36 normal types in.
 
-## Route 10 First Visit - 10Route1
+## Route 10 First Visit
 
 Real quick, fly over to Route 9. Head to where we fought Souta earlier,
 and you’ll find the MegaStone *Pidgeotite* Head south from the Rose
@@ -15445,7 +15441,7 @@ alt="A picture containing text, person, orange Description automatically generat
 That’s all we can do right now, so head back to the GDC Tournament
 Stadium and board the ship.
 
-## Nastasia’s Ship - NShip1
+## Nastasia’s Ship
 
 Talk to the group in the meeting room of Nastasia’s ship.
 
@@ -15543,7 +15539,7 @@ Afterwards, you’ll get the *Cherrim Crest.* Tell Aelita you want to rest
 for a while once you’re ready. Head outside the airship when you wake
 up!
 
-## Zone Zero Pt. 1 - ZZero1
+## Zone Zero Pt. 1
 
 Zone Zero
 
@@ -15772,7 +15768,7 @@ Alternatively, starting with two or three leads who are slow will
 encourage her not to use Trick Room right away, then after you take out
 Aromatisse you can switch to your faster sweepers.
 
-## Zone Zero Pt. 2 - ZZero2
+## Zone Zero Pt. 2
 
 After an… unfortunate scene, head up and to the right down a little
 path. Catch/fight/run from Mandibuzz, and pick up a hidden *Yellow
@@ -15924,7 +15920,7 @@ Relationship Point Choices:
 
 Head up.
 
-## Eclysia Pyramid - EPyra1
+## Eclysia Pyramid
 
 After the scene, enter the pyramid above. You’ll watch another, then on
 the left you’ll find:
@@ -16034,7 +16030,7 @@ style="width:6.64583in;height:4.96875in" />
 
 Emerge at the Eclysia Skyview!
 
-## Pyramid Point Badge - Badge14
+## Pyramid Point Badge
 
 Forgotten Prince ~~Ryland~~ Flora (Desert Field)
 
@@ -16241,7 +16237,7 @@ Badge and *TM105 Arenite Wall!* After a few more scenes, you’ll be given
 a choice to teleport. Say yes if you want to continue the story, but
 otherwise we can fit in a few quests while we’re on this island.
 
-## Zone Zero Quests - ZZero3
+## Zone Zero Quests
 
 There are a couple side quests that are now open in Zone Zero and
 elsewhere. Skip ahead to the hospital raid section if you want to finish
@@ -16710,7 +16706,7 @@ leads you to a *Dawn Stone* and 3 hidden *Pearls.* Finally, head up the
 stairs here and you’ll have a chance to battle and catch **Mareanie!**
 Exit the ship the same way we came in.
 
-## Kingdom of Goomidra - GoomyQ1
+## Kingdom of Goomidra
 
 There’s another major side quest we can do! One more new dive spot to
 explore, and it’s quite the big one! Enter Honec Woods and make your way
@@ -16858,7 +16854,7 @@ Goomidra Crest Shop
 
 *Whiscash Crest* $100000
 
-## Zorrialyn Labyrinth 2<sup>nd</sup> Visit - ZorLab2
+## Zorrialyn Labyrinth 2<sup>nd</sup> Visit
 
 Next, fly to Alamissa Urben and go straight up. Take the unconscious
 Karen back to the village, then agree to go to the labyrinth again. Add
@@ -17019,7 +17015,7 @@ In either case, with all the crests that we found in the crypt, fly to
 Sashila and talk to the left merchant for some lore, and a *Dusknoir
 Crest!*
 
-## Aquarium Side Quest - AquaSQ1
+## Aquarium Side Quest
 
 Now that we’ve been diving, there is a side quest we can do. Head to the
 Akuwa Town Aquarium. Back in the SOS room, talk to the director, who
@@ -17517,7 +17513,7 @@ Zorrialyn Desert
 | Whiscash         | 9        |
 | Quagsire         | 1        |
 
-## Ana Quest Part 3 - AnaQuest3
+## Ana Quest Part 3
 
 If you’ve completed all the steps to the Ana questline so far, make your
 way to GDC.
@@ -17748,7 +17744,7 @@ plant. Follow him left then up then up again to get access to a room
 where you can change Rotom’s form! You’ll also get the seventh
 *Department Store Stamp!*
 
-## Department Store and Deino - DSDeino1
+## Department Store and Deino
 
 Next, fly over to the GDC and enter the department store. We’ve gotten a
 ton of stamps in this episode's content, so it’s time to go on a
@@ -17926,7 +17922,7 @@ Exit the department store and fly over to Kristiline Town. Head up to
 the Isle of Angels and place the Dark Core on the pillar on the island
 to encounter **Deino.** Sweet!
 
-## Zygarde 10% Form - Zy10Per1
+## Zygarde 10% Form
 
 There’s just one more thing we can do… If you’ve noticed, we’ve
 collected a lot of Zygarde Cells. Return to Gearen City to talk to
@@ -17955,9 +17951,9 @@ Relationship Point Choices:
 
 # Chapter 15: Vague Clarity
 
-## League Administration 1<sup>st</sup> Visit - LAdmin1
+## League Administration 1<sup>st</sup> Visit
 
-### Day 01 - Vs. Melia
+### Day 01: Vs. Melia
 
 In Sashila, head up when prompted. You’ll be thrown into a battle as
 Alexandra.
@@ -18092,11 +18088,11 @@ Relationship Point Choices:
 
 Tell Alexandra you’re ready for training.
 
-### Day 03 - Aelita’s Departure
+### Day 03: Aelita’s Departure
 
 This day is just a quick scene!
 
-### Day 08 - MC’s Training 
+### Day 08: MC’s Training 
 
 Talk to Ren in the hallway.
 
@@ -18117,7 +18113,7 @@ was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
 discharge, waterfall on Dugtrio, then turn 4 was discharge + high
 horsepower to finish off Kingler.
 
-### Day 11 - Aelita’s Return
+### Day 11: Aelita’s Return
 
 Head in to talk to Aelita.
 
@@ -18134,12 +18130,12 @@ Relationship Point Choices:
 Interact with the obelisk! Inside it’s straightforward. You’ll get the
 *Interceptor’s Wish!*
 
-### Day 15 - Melia Vs. Erin
+### Day 15: Melia Vs. Erin
 
 Back in the league administration you’ll be thrusted into a 1v1 battle
 as Melia. Win or lose, it doesn’t matter.
 
-### Day 18 - MC’s Day of Training, Pt. 2
+### Day 18: MC’s Day of Training, Pt. 2
 
 Talk to Aelita in the hallway.
 
@@ -18155,7 +18151,7 @@ Mantine then Dewgong with Wild Charges.
 
 Sleep for the night in the leftmost room.
 
-### Day 29 - Graduation
+### Day 29: Graduation
 
 Finally, we get to obtain the *Mega-Z Ring!* This allows us to use
 Z-Moves as well as Mega Evolve our Pokemon!
@@ -18177,7 +18173,7 @@ be able to fight **Galarian Corsola** up here!
 Then, head back to League Administration. Interact with the thing at the
 table and select Path 1.
 
-## Diamond Route - DiaRoute1
+## Diamond Route
 
 During the conversation Erin and Kanon have on the boat, if you had
 previously spoken to Erin in the Magnolia Library towards the beginning
@@ -18318,7 +18314,7 @@ you knock them out Cera’s three are easy to knock out.
 
 That’s it for the Diamond Route!
 
-## Pearl Route - PeaRoute1
+## Pearl Route
 
 Again, you’ll be given the choice to activate the Interceptor’s wish. I
 choose not to for this guide.
@@ -18581,7 +18577,7 @@ is easily beaten with the right approach.
 
 That’s it for the Pearl Route!
 
-## Axis High University 2nd Visit - AxisHiU2
+## Axis High University 2nd Visit
 
 With both of those completed, you’ll be in control of your character
 again. Choose path 3 and be given the *Rotom Phone.*
@@ -18672,7 +18668,7 @@ Relationship Point Choices:
 Interact with the fountain next, then head to the dorms downstairs to
 sleep. The next day, head to the auditorium for the announcement!
 
-## Aelita School Route - AelRoute1
+## Aelita School Route
 
 ~~Time to play Danganronpa.~~ I will begin with Path 1. Once more you’ll
 be given a choice to activate the Interceptor’s Wish, I declined.
@@ -18876,7 +18872,7 @@ still lose though, so a couple resets may be in order.
 
 That’s it for this part!
 
-## MC School Route - MCRoute1
+## MC School Route
 
 Exit the auditorium and talk to the student here who has lost his brain.
 SEC is the storekeeper here and has the same items as Zetta did. Do a
@@ -19141,7 +19137,7 @@ After learning about all this, it’s finally time to enter the player’s
 door!
 
 This area is straight forward. When all is said and done, you’ll have to
-fight… your protagonist. Each protagonist has a different team - find
+fight… your protagonist. Each protagonist has a different team, so find
 the one that applies to you.
 
 Pokemon Trainer Ana (Snowy Mountain Field)
@@ -19586,7 +19582,7 @@ Relationship Point Choices:
 - It's alright. (Aelita +2)  
 - Watch what you say. (Aelita -2)
 
-## Axis High University 3rd Visit - AxisHiU3
+## Axis High University 3rd Visit
 
 When you can, return upstairs and enter the stairs at the fountain.
 Follow the path to fight SEC again, who has a Shadow Machop. SEC in the
@@ -19931,7 +19927,7 @@ alt="A picture containing electronics, computer Description automatically genera
 Follow the path up. After this scene is over, head back out and down to
 Saki’s gym!
 
-## Forgery Badge - Badge15
+## Forgery Badge
 
 Axis Factory
 
@@ -20169,7 +20165,7 @@ Relationship Point Choices:
 Then enter the leftmost room to talk to everyone else. We did it! Only
 side quests remain, for now.
 
-## Post V13 Items - PV13It1
+## Post V13 Items
 
 Return to the Gearen Lab and show your Aevian Litwick to Zumi, who’ll
 reward you with *Exp. Candy L* and MegaStone *Manectite.* That’s the end
@@ -20230,7 +20226,7 @@ as much as possible, read on. Thanks for reading.
 
 # Appendices
 
-## Complete the V13 Dex - V13Dex1
+## Complete the V13 Dex
 
 While you wait for the next episode, if you’d like, you can fill your
 dex as much as possible. Note that I assume everything in bold above has
@@ -20481,7 +20477,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Alolan Marowak**|28, Nighttime|
 |**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock|
 
-## V13 Unobtainable Pokemon - V13Unob1
+## V13 Unobtainable Pokemon
 
 \* Unless chosen as starter
 
@@ -20636,7 +20632,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Galarian Zapdos**
 - **Galarian Moltres**
 
-## Pickup Table - PickUp1
+## Pickup Table
 
 <table>  style="width:100%; "
 <colgroup>
@@ -20923,7 +20919,7 @@ style="width:0.3in;height:0.3in" /></td>
 </tbody>
 </table>
 
-## Crest Descriptions - CrestD1
+## Crest Descriptions
 
 This section is a quick lookup to help you combat enemy Pokemon with
 crests.
