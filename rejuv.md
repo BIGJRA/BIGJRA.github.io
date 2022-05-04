@@ -8,7 +8,7 @@ title: |
 # Written by @BIGJRA
 
 
-<important> My site hasn't been completely rolled out yet: I could use some help to double check these things:
+My site hasn't been completely rolled out yet: I could use some help to double check these things:
 
 Does every battle have a field listed (including No Field)? Should be yes.
 
@@ -23,7 +23,6 @@ Does every table of contents hyperlink correctly bring you to the right section?
 Are there moments of me being arrogant and disparaging? I started writing this as a teenager and
 I'm sure there are moments like this. I don't want to call a fight "easy" if there are players 
 that might struggle with it, for example. Let me know!
-</important>
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
