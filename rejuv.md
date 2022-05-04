@@ -8,7 +8,6 @@ title: |
 # Written by @BIGJRA
 
 My site hasn't been completely rolled out yet: I could use some help to double check these things:
-
 - Does every battle have a field listed (including No Field)? Should be yes.
 - Are there any encounter tables with field listed? Should be no.
 - Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
@@ -30,7 +29,6 @@ such that CTRL + F will work for T.M. Names, certain items, Zygarde
 cells, tutors, Pokemon Locations, and more!
 
 # Table of Contents
-
 -   <a href="#chapter-1-shipwrecked" id="toc-chapter-1-shipwrecked">Chapter 1: Shipwrecked</a>
     -   <a href="#prologue" id="toc-prologue">Prologue</a>
     -   <a href="#ss-oceana" id="toc-ss-oceana">S.S. Oceana</a>
@@ -369,7 +367,6 @@ interacting with it. If you talk to the rainbow-colored machine on the
 right side, it will randomly choose for you among the 24 starters.
 
 Starter Choices (Pick ONE)
-
 - **Bulbasaur**
 - **Charmander**
 - **Squirtle**
@@ -409,7 +406,6 @@ Anyways, once you've picked your starter, head west for a battle with
 Aevium Scout Amanda! You can win or lose this battle.
 
 League Scout Amanda (No Field)
-
 -   Hatenna, Level 5.
     -   Tackle
     -   Play Nice
@@ -420,7 +416,6 @@ you in your fights. After the battle, she'll give you *5 Poke Balls.*
 Head to talk to Jenner and you'll fight:
 
 Pokemon Trainer Ren (No Field)
-
 -   Froakie, Level 5.
     -   Pound
     -   Growl
@@ -851,7 +846,6 @@ the third, first, then second generator. Go back into the room Venam
 went into for a long cutscene and a battle.
 
 Garbodor Garbage Crew (No Field)
-
 -   Trubbish, Level 11.
     -   Pound
     -   Poison Gas
@@ -993,7 +987,6 @@ good items you can take advantage of (Oran and Pecha Berries work well
 here), and save.
 
 Punk Girl Venam (Corrosive Field)
-
 -   Trubbish, Level 12. @ Oran Berry.
     -   Rock Blast
     -   Venam's Kiss
@@ -1080,7 +1073,6 @@ again and agree to help.
 Your first battle is against Falkner.
 
 Gym Leader Falkner (Glitch Field)
-
 -   Hoothoot, Level 11.
     -   Confusion
     -   Peck
@@ -1184,7 +1176,6 @@ Start at Chrisola Hotel. Make sure you have a good team near or at the
 level cap and go to rooftop.
 
 Wanderer Novae (No Field)
-
 -   Trumbeak, Level 16.
     -   Pluck
     -   Supersonic
@@ -1228,7 +1219,6 @@ Talk to the receptionist at the Chrisola Hotel and agree to go to
 the basement.
 
 Dance Prodigy Rorim B (No Field)
-
 -   Spinda, Level 15.
     -   Teeter Dance
     -   Hypnosis
@@ -1369,7 +1359,6 @@ top, the rock below Leavanny has a *Great Ball.* If you can, do the
 optional battle against Mars here.
 
 Culvier Clan Mars (Cave Field)
-
 -   Sewaddle, Level 15. @ Light Clay.
     -   Return
     -   Bug Bite
@@ -1407,7 +1396,6 @@ Relationship Point Choices:
 She'll then challenge you to a battle.
 
 Pre-Leader Melia (Golden Forest field)
-
 -   Buneary, Level 15.
     -   Fake Out
     -   Double Hit
@@ -1451,7 +1439,6 @@ will have a Shadow **Cacnea.** Head to the bottom part of the lake when
 you're ready.
 
 Team Xen Eli and Sharon (Golden Forest Field)
-
 -   Murkrow, Level 16.
     -   Wing Attack
     -   Pursuit
@@ -1479,7 +1466,6 @@ while you'll have to be careful about the status spreading from Glameow
 and Stunky.
 
 Team Xen Zetta (Golden Forest Field)
-
 -   Shadow **Snorunt** Level 14.
 -   Minior, Level 15.
     -   Rollout
@@ -1512,7 +1498,6 @@ After witnessing a scene and going north, you'll be able to fight Rift
 Gyarados.
 
 Dimensional Rift Gyarados (Rift Field)
-
 -   Rift Gyarados, Level 20. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 1 Shield.
     -   Bite
@@ -1553,7 +1538,6 @@ Junction Bridge on the left side of the city, so accept fast travel.
 Head into the lab to battle Dr. Jenkel.
 
 Mad Scientist Dr. Jenkel (Factory Field)
-
 -   Munna, Level 18. @ Elemental Seed.
     -   Hypnosis
     -   Psybeam
@@ -1786,7 +1770,6 @@ Heal and save, then head up. Pick up the *Rift Dex* to learn about Rift
 Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
 
 Dimensional Rift Galvantula (Corrupted Field)
-
 -   Joltik, Level 22.
     -   Electroweb
     -   Toxic Thread
@@ -1857,7 +1840,6 @@ In the altered dimension, solve her difficult puzzles and prepare for a
 battle.
 
 Apprentice Nim (Psychic Terrain)
-
 -   Inkay, Level 20.
     -   Psywave
     -   Feint Attack
@@ -2172,7 +2154,6 @@ Claim your reward: $1890, Casteliacone! (+1 Karma)
 Prepare your team and talk to Novae at the inn at night.
 
 Wanderer Novae and Dancer Rorim B (Forest Field)
-
 -   Charjabug, Level 24. @ Mental Herb.
     -   Spark
     -   Acrobatics
@@ -2225,7 +2206,6 @@ Keta.
 As soon as you're ready, talk to Aelita on the battlefield
 
 Sensei Keta (Forest Field)
-
 -   Combusken, Level 22. @ Charcoal.
     -   Cut
     -   Gale Strike
@@ -2335,7 +2315,6 @@ the walls.
 Head up, then up again. You'll now have to fight Madelis.
 
 Xen Executive Madelis (No Field)
-
 -   Floette, Level 22.
     -   Magical Leaf
     -   Draining Kiss
@@ -2388,7 +2367,6 @@ After a brief scene, you'll be taken into a rift space. Talk to
 Volcanion and answer its question and the battle will begin!
 
 Dimensional Rift Volcanion
-
 -   Volcanion, Level 23. @ Demon Stone. Ability: Water Absorb. Stat
     Spread: 110/60/80/90/200/20. 2 Shields.
     -   Water Pulse
@@ -2431,7 +2409,6 @@ One more thing we can do: head into the house in the bottom right of
 Sheridan. Gothitelle will battle us!
 
 Crescent's Gothitelle (No Field)
-
 -   Gothitelle, Level 32. @ Twisted Spoon.
     -   Psychic
     -   Shock Wave
@@ -2450,7 +2427,6 @@ Head back to Amethyst Grotto with a fully healed team. The Spirit of Keta
 will be able to give us a badge, so let's challenge him.
 
 Sensei Keta (No Field)
-
 -   Larvesta, Level 22
     -   Flame Charge
     -   Take Down
@@ -2505,7 +2481,6 @@ Venam's house contains a hidden *Repel.*
 Make your way to the sewers. Talk to Amanda for a battle.
 
 Trainer Amanda (No Field)
-
 -   Bronzor, Level 24. @ Heat Rock.
     -   Sunny Day
     -   Gyro Ball
@@ -2592,7 +2567,6 @@ Relationship Point Choices:
 Afterwards you must fight a servant!
 
 Servant Moya (Grassy Terrain)
-
 -   Dusknoir, Level 35. @ Dusknoir Crest. 2 Shields.
     -   Ice Punch
     -   Shadow Punch
@@ -2694,7 +2668,6 @@ breeder, and each time you win, you'll get 5 *Exp. Candy S*.
 As soon as you're ready, follow the path up from here.
 
 Child of Light Marianette (Blessed Field)
-
 -   Delcatty, Level 29. @ Splash Plate.
     -   Cosmic Power
     -   Baton Pass
@@ -2751,7 +2724,6 @@ now have to fight Bugsy with the starter you picked and a few more
 Pokemon.
 
 Gym Leader Bugsy (Glitch Field)
-
 -   Ariados, Level 14.
     -   Night Shade
     -   Poison Sting
@@ -2842,7 +2814,6 @@ virtual badges, he'll offer the third leg of the quest -- we're battling
 Whitney.
 
 Gym Leader Whitney (Glitch Field)
-
 -   Clefairy, Level 19.
     -   Doubleslap
     -   Metronome
@@ -2866,7 +2837,6 @@ That's not all, he'll then offer you the next challenge, this time
 against Morty.
 
 Gym Leader Morty (Glitch Field)
-
 -   Misdreavus, Level 22.
     -   Confuse Ray
     -   Mean Look
@@ -3033,7 +3003,6 @@ Relationship Point Choices:
 When you're ready talk to Aelita for a battle.
 
 Student Aelita (Forest Field)
-
 -   Gligar, Level 28.
     -   Aerial Ace
     -   Bulldoze
@@ -3228,7 +3197,6 @@ to take care of the Dimensional Rift, but only after a 3v3 battle with
 his three bug types.
 
 International Police “C”
-
 -   Orbeetle, Level 30.
     -   Signal Beam
     -   Hypnosis
@@ -3288,7 +3256,6 @@ Head up to where you fought Zetta. Once you're ready, interact with the
 dimensional rift to engage Gyarados.
 
 Dimensional Rift Gyarados (Forest Field)
-
 -   Rift Gyarados, Level 40. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 2 Shields.
     -   Waterfall
@@ -3358,7 +3325,6 @@ Interact with the screen and choose one of the two top answers to not
 lose relationship points. Back in the main room, head up for a battle.
 
 Team Xen Eli and Sharon (Short Circuit Field)
-
 -   Tangela, Level 31. @ Eviolite.
     -   Giga Drain
     -   Stun Spore
@@ -3391,7 +3357,6 @@ After the fight, make sure you heal, then return and go downstairs and
 through the door. Go up and you'll fight Geara!
 
 Xen Executive Geara (Short Circuit Field)
-
 -   Giratina, Level 37. @ Griseous Orb.
     -   Shadow Claw
     -   Dragon Breath
@@ -3407,7 +3372,6 @@ anticipating what move it will use and switching to a
 Normal/Ground/Fairy type.
 
 Xen Executive Geara (Short Circuit Field)
-
 -   Persian, Level 33. @ Normal Gem.
     -   Dig
     -   Covet
@@ -3467,7 +3431,6 @@ Mirage Woods
 Put the wing we found into the statue.
 
 Ancient Kingdra (Forest Field)
-
 -   Kingdra, Level 38. 2 Shields.
     -   Rain Dance
     -   Snipe Shot
@@ -3507,7 +3470,6 @@ Grab the cell and *TM66 Payback*.
 Head up and agree to use Flash, and a battle will ensue.
 
 Pokegang Crobat (Cave Field)
-
 -   Zubat, Level 33.
     -   Confuse Ray
     -   Swift
@@ -3588,7 +3550,6 @@ Relationship Point Choices:
 - No. (Ren -4)
 
 Pokemon Trainer Ren
-
 -   Sableye, Level 33. @ Leftovers.
     -   Recover
     -   Confuse Ray
@@ -3630,7 +3591,6 @@ In the auditorium, head down and grab the items: *Super Potion, Rawst
 Berry,* and *Rare Candy.* When you're ready, take on Narcissa.
 
 Leader Narcissa (Haunted Field over Forest Field)
-
 -   Drifblim, Level 33. @ Magical Seed.
     -   Spectral Scream
     -   Hypnosis
@@ -3849,7 +3809,6 @@ Head up. There are Duskull roaming here at night. Try to head into Akuwa
 Town to the north for a battle with Nim.
 
 Apprentice Nim (Psychic Terrain)
-
 -   Stonjourner, Level 37. @ Focus Sash.
     -   Rock Slide
     -   Stealth Rock
@@ -4222,7 +4181,6 @@ for 3v3 battles in the battle room. The first two are easy, however the
 last is against Emma.
 
 Hooded Girl Emma (No Field)
-
 -   Zoroark, Level 37.
     -   Dark Pulse
     -   Flamethrower
@@ -4286,7 +4244,6 @@ Relationship Point Choices:
 Go right and up.
 
 Xen Executive Madelis (Cave Field)
-
 -   Cinccino, Level 36.
     -   Bullet Seed
     -   Rock Blast
@@ -4336,7 +4293,6 @@ Follow the stairs all the way up and prepare for battle. Aelita will
 join your party for this one.
 
 Xen Executive Neved (No Field)
-
 -   Crabominable, Level 41. @ Occa Berry.
     -   Ice Punch
     -   Drain Punch
@@ -4380,7 +4336,6 @@ fastest mons is out, then you and Aelita should be able to win.
 Well….
 
 Madame X (No Field)
-
 -   Yveltal, Level 100. @ Soul Stone.
     -   Decimation
 
@@ -4418,8 +4373,7 @@ There's an Audino breeder in here, and each time you win you'll be given
 
 Exit the room and head down then to the right.
 
-Relationship Point Choices:         
-
+Relationship Point Choices:       
 - It's okay. (Melia +2)  
 - I don't know... (Melia -1)  
 - ... (Melia -1)
@@ -4448,7 +4402,6 @@ Head up the stairs, and then up the stairs at the top. Follow Melia to
 the battle room for a fight.
 
 Enigma Melia (Factory Field)
-
 -   Gardevoir, Level 38. @ Twisted Spoon.
     -   Shadow Ball
     -   Gilded Arrow
@@ -4585,7 +4538,6 @@ section!
 Once you've healed, talk to Valarie outside for her gym battle.
 
 Water Show Performer Valarie (Water Surface)
-
 -   Qwilfish, Level 38. @ Poison Barb.
     -   Waterfall
     -   Poison Jab
@@ -4739,7 +4691,6 @@ Follow her to the right. Itemfind for a *TinyMushroom* and grab the
 because a cutscene is about to take us into a battle!
 
 Xen Executive Geara (Forest Field)
-
 -   Persian, Level 41. @ Muscle Band.
     -   Night Slash
     -   Return
@@ -4784,7 +4735,6 @@ Sarpa*. Heal and switch out your party, grab the pulse notes, and get
 ready.
 
 Dimensional Rift Carnivine (Rift Field)
-
 -   Carnivine, Level 45. @ Yache Berry. Type: Grass/Dragon. Stats:
     80/110/75/120/100/115. Ability: Thick Fat. 2 Shields.
     -   Coil
@@ -5063,7 +5013,6 @@ If you've done all the other virtual badge battles, she'll let us
 continue the quest.
 
 Gym Leader Chuck (Glitch Field)
-
 -   Primeape, Level 29. @ Rock Gem.
     -   Revenge
     -   Focus Energy
@@ -5093,7 +5042,6 @@ Steelix and Quilava should be able to handle the rest!
 Talk to her again to take on Jasmine.
 
 Gym Leader Jasmine (Glitch Field)
-
 -   Magneton, Level 36.
     -   Thunderbolt
     -   Thunder Wave
@@ -5175,7 +5123,6 @@ Valor Shore
 Make sure you heal, then head onto the island.
 
 Xen Executive Zetta (Ashen Beach Field)
-
 -   Absol, Level 41. @ Blackglasses.
     -   Swords Dance
     -   Psycho Cut
@@ -5287,7 +5234,6 @@ the Venusaur on the left.
 
 Head to Route 5 and enter the empty shack on Valor Shore. We're gonna 
 need to find the Xen grunt hiding on each floor.
-
 -   1F: In the middle stack of books
 -   2F: In the box in the upper right corner
 -   2F (#2): In the books in the center
@@ -5313,7 +5259,6 @@ to the guy on the right, then Gurdurr. Head west to the bridge, and
 we'll have to battle.
 
 PokeGang Conkeldurr (Forest Field)
-
 -   Timburr, Level 25.
 -   Timburr, Level 35.
 -   Timburr, Level 45.
@@ -5357,7 +5302,6 @@ Time for another battle with Novae. Get your best team and head to the
 Valor Shore.
 
 Wanderer Novae (Ashen Beach)
-
 -   Toucannon, Level 42. @ Yache Berry.
     -   Beak Blast
     -   Roost
@@ -5461,7 +5405,6 @@ Head back to Terajuma Jungle and enter the Hula Meadow. Rorim B will
 battle you!
 
 Dance Prodigy Rorim B (Forest Field)
-
 -   Oricorio (Pom-Pom), Level 42.
     -   Calm Mind
     -   Hidden Power Ice
@@ -5633,7 +5576,6 @@ Room 3
 Heal, and we're going to fight in the next room.
 
 Pokemon Trainer Ren (Factory Field)
-
 -   Cacturne, Level 42. @ Focus Sash.
     -   Giga Drain
     -   Spikes
@@ -6264,7 +6206,6 @@ Pokemon Center. You'll get 5 *Exp. Candy M* each time you win. Once
 you're ready, return to Crawli's chamber and stand across him!
 
 Gym Leader Crawli (Forest Field, Raining)
-
 -   Ariados, Level 43. @ Telluric Seed.
     -   Barbed Web
     -   Stomping Tantrum
@@ -6406,7 +6347,6 @@ Head back out and to the left. Heal, then exit the cave for a double
 battle!
 
 Pokemon Rangers Sam and Alex (Beach Field)
-
 -   Pelipper, Level 45. @ Wacan Berry.
     -   Hurricane
     -   Water Pulse
@@ -6581,7 +6521,6 @@ After a lovely cutscene, it's time for a double battle. Head upstairs
 and in the door. Melia will be our partner.
 
 Venam and Saki (Glitch Field)
-
 -   Forretress, Level 46. @ Custap Berry.
     -   Gyro Ball
     -   Stealth Rock
@@ -6663,7 +6602,6 @@ Make sure you heal before heading outside. You'll be thrown into a
 double battle.
 
 Xen Executive Madelis and Team Xen Bartz (Water Surface Field)
-
 -   Florges, Level 47. @ Pixie Plate.
     -   Protect
     -   Moonblast
@@ -6837,7 +6775,6 @@ You can exit if need be but go ahead and prepare for the battle ahead!
 ## Glacier Badge
 
 Gym Leader Angie (Icy Dimensional Field, Hail)
-
 -   Jynx, Level 47. @ Focus Sash.
     -   Fake Out
     -   Cold Truth
@@ -7003,7 +6940,6 @@ Cross the bridge to the south part of Kristiline. Inside a building is
 another guy in the virtual badge quest!
 
 Gym Leader Pryce (Glitch Field)
-
 -   Sneasel, Level 44.
     -   Metal Claw
     -   Strength
@@ -7037,7 +6973,6 @@ up its defenses and its special attack with Stockpile thanks to the
 field you should be set. Get the seventh *Virtual Badge!*
 
 Gym Leader Clair (Glitch Field)
-
 -   Dragonair, Level 51.
     -   Thunder Wave
     -   Dragonbreath
@@ -7096,7 +7031,6 @@ Relationship Point Choices:
 - Uh... (Aelita -1)
 
 Student Aelita (No Field)
-
 -   Gliscor, Level 49. @ Toxic Orb.
     -   Stealth Rock
     -   Earthquake
@@ -7206,7 +7140,7 @@ ZCell 040: Jirukala Cavern
 <img src="/assets/media/rejuv/image41.PNG"
 style="width:6.54167in;height:4.91139in" />
 
--Completing this quest also gives us access to some stationary water
+Completing this quest also gives us access to some stationary water
 Pokemon for GourmetTreats - but only at night. Head to Terajuma
 Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5
 to get **Slowpoke.**
@@ -7324,7 +7258,6 @@ beat it at this point, so why not give it a shot. Not essential to get
 done now, but if you can, why not.
 
 Challenger Mercury (No Field)
-
 -   Abra, Level 10. @ Focus Sash.
     -   Light Screen
     -   Thunderwave
@@ -7452,7 +7385,6 @@ Exit on the bottom doors to the left to meet Alisha, the ninth and final
 Back up from here, grab the *Elixir* and enter the cave on the left.
 
 Security Drone Regirock (Crystal Cavern Field)
-
 -   Regirock, Level 60. @ Lum Berry. 2 Shields.
     -   Stone Edge
     -   Rest
@@ -7466,7 +7398,6 @@ Activate Panel 4, then head to the upper right door and enter for a
 similar battle!
 
 Security Drone Registeel (Crystal Cavern Field)
-
 -   Registeel, Level 60. @ Lum Berry. 2 Shields.
     -   Thunder Wave
     -   Rest
@@ -7493,7 +7424,6 @@ Talk to the Grunt and save in front of the statue. Talk to the grunt
 again, and you'll have to fight:
 
 Lingering Regret Nancy (Mountain Field)
-
 -   Whimsicott, Level 51. @ Focus Sash.
     -   Moonblast
     -   Hurricane
@@ -7524,7 +7454,6 @@ This is an easy team to beat if you were able to beat Angie! It doesn't
 really have a ton of good answers for a solid Steel / Poison move core.
 
 Dimensional Rift Chandelure (Mountain Field)
-
 -   Chandelure, Level 58. @ Demon Stone. 1 Shield. Stats:
     110/25/69/200/110/100
     -   Power Gem
@@ -7555,7 +7484,6 @@ Return to the basement level to talk to April. She'll give us the *Phase
 Dial!* Head in and go up.
 
 Chaotic Fusion Solrock (Crystal Cavern Field)
-
 -   Fused Solrock, Level 50, 2 Shields.
     -   Rock Slide
     -   Zen Headbutt
@@ -7585,7 +7513,6 @@ Talk to Texen in the lower room, then choose your team of three in the
 upper room for a battle.
 
 Gym Leader Texen (Big Top Arena)
-
 -   Hitmonchan, Level 49. @ Coba Berry.
     -   Fake Out
     -   Mach Punch
@@ -7648,7 +7575,6 @@ Set the blocks in the left room into this position, then enter the door.
 Enter the newly revealed room and prepare for a fight.
 
 Ancient Kingdra (Blessed Field)
-
 -   Kingdra, Level 55. @ Dragon Fang.
     -   Origin Pulse
     -   Dragon Pulse
@@ -7765,7 +7691,6 @@ Chamber of Awakening
 | Salazzle    | 1        |
 
 Angie's Right Hand Man Cera (Corrupted Cave)
-
 -   Groudon, Level 57. @ Lum Berry.
     -   Precipice Blades
     -   Rest
@@ -7833,7 +7758,6 @@ Enter the chamber, and head up and stand in the circle for another
 titanic battle!
 
 Kyogre (Water Surface Field)
-
 -   Kyogre, Level 60.
     -   Muddy Water
     -   Thunderbolt
@@ -7880,7 +7804,6 @@ Enter the chamber and talk to Venam. Then head up from here and stand in
 the circle for another titanic battle!
 
 Kyogre (Water Surface Field)
-
 -   Kyogre, Level 60.
     -   Muddy Water
     -   Thunderbolt
@@ -8022,7 +7945,6 @@ On the Gave It Away Route, if you ignored saving Amber, now you will get
 Head left to fight:
 
 Team Xen Eli and Sharon (Mountain Field)
-
 -   Honchkrow, Level 53. @ Sharp Beak.
     -   Brave Bird
     -   Swagger
@@ -8123,7 +8045,6 @@ Grab the *Dragon Scale* on the left of the summit.
 Head up to the top when you're ready. The first battle:
 
 Renegade Giratina (Volcano Top Field)
-
 -   Giratina, Level 60. @ Griseous Orb.
     -   Shadow Force
     -   Earth Power
@@ -8140,7 +8061,6 @@ Heal, and follow the action to the top. Time for a double battle with
 Melia.
 
 Team Xen Geara and Zetta (Volcano Top Field)
-
 -   Krookodile, Level 53. @ Muscle Band.
     -   Earthquake
     -   Rock Slide
@@ -8365,7 +8285,6 @@ After building some hype, an Audino trainer will appear. She uses level
 Once you've hyped to the max, head into the battlefield.
 
 Music Enthusiast Amber (Volcano Top Field)
-
 -   Camerupt, Level 53. @ Focus Sash.
     -   Fever Pitch
     -   Hidden Power Electric
@@ -8405,7 +8324,6 @@ Volcanic Field.
 
 Relationship Points are granted based on the conditions under which you
 end this battle:
-
 -   End the battle on Snowy Mountain field (-2 Amber)
 -   End the battle with \<300 Hype (-4 Amber)
 -   End the battle with \>= 300 Hype (+3 Amber)
@@ -8440,7 +8358,6 @@ request. Talk to her and Augustus, answering her question. If you answer
 in a bit. Accept the fast travel again, then enter Valor Mountain 5F.
 
 Relationship Point Choices (Answered “A Forest” only):
-
 - Intuition. (Venam +2)  
 - Read about it. (Venam +1)  
 - Been here before. (Neutral)
@@ -8539,11 +8456,8 @@ in the upper right corner.
 
 Relationship Point Choices:
 - Beautiful! (Melia +2)
-
 - Stylish! (Melia +2)
-
 - It's alright. (Melia +1)
-
 - Yikes. (Melia -2)
 
 Then sit in the open chair around the table downstairs to play through
@@ -8553,9 +8467,7 @@ Head to Kugearen City afterwards. Enter the cafe in the bottom.
 
 Relationship Point Choices:
 - It was excellent! (Venam +2)
-
 - It was alright. (Venam -1)
-
 - Awful. (Venam +2)
 
 You'll have to choose a Pokemon to battle Kanon, but you don't need to
@@ -8582,7 +8494,6 @@ Down and to the right from here is 4 *Rawst Berries* and a hidden
 
 Relationship Point Choices:
 - Yeah! (Venam +2)
-
 - Nah. (Venam -1)
 
 Enter the house and after a scene, you'll be free to explore. Talk to
@@ -8592,9 +8503,7 @@ Exit to the woods.
 
 Relationship Point Choices:
 - Let's do this. (Venam +4)
-
 - What about Melia? (Neutral)
-
 - I dunno... (Venam -2)
 
 Head back to the city and enter the house in the bottom right of town.
@@ -8609,7 +8518,6 @@ Berries, Revive,* 2 *Oran Berries,* and 2 *Aspear Berries* at the very
 top. Eavesdrop on the conversation: you'll have to fight Gardevoir!
 
 Angel of Death Gardevoir (No Field)
-
 -   Dark Gardevoir, Level 60. @ Lum Berry. Ability: Pixilate. Types:
     Dark/Fairy. Stats: 88/65/135/165/135/100. 3 Shields.
 
@@ -8626,9 +8534,7 @@ out if you target its weaknesses or use Trick Room.
 
 Relationship Point Choices:
 - Worried? (Venam +2)
-
 - Scared? (Venam -2)
-
 - Taking too long to find me? (Venam +3)
 
 Grab the shiny *Apartment Key.*
@@ -8670,7 +8576,6 @@ Talk to Melia in the kitchen to get some sleep. After a bunch of scenes,
 it's time for a quick battle!
 
 Gang Leader Karrina (No Field)
-
 -   Runerigus, Level 54. @ Red Card.
 
     -   Earthquake
@@ -8680,7 +8585,6 @@ Gang Leader Karrina (No Field)
     -   Body Press
 
     -   Toxic Spikes
-
 -   Musharna, Level 54. @ Zoom Lens.
 
     -   Energy Ball
@@ -8690,7 +8594,6 @@ Gang Leader Karrina (No Field)
     -   Psyshock
 
     -   Hypnosis
-
 -   Granbull, Level 55. @ Babiri Berry.
 
     -   Play Rough
@@ -8700,7 +8603,6 @@ Gang Leader Karrina (No Field)
     -   Fire Punch
 
     -   Earthquake
-
 -   Alakazam, Level 55. @ Wise Glasses.
 
     -   Substitute
@@ -8710,7 +8612,6 @@ Gang Leader Karrina (No Field)
     -   Dazzling Gleam
 
     -   Shadow Ball
-
 -   Nidoking, Level 56. @ Expert Belt.
 
     -   Earth Power
@@ -8779,7 +8680,6 @@ Relationship Point Choices:
 - How about tomorrow? (Erick +1)
 
 Dimensional Rift Garbodor (Corrupted Cave Field)
-
 -   Garbodor, Level 65. @ Black Sludge. 3 Shields. Type: Poison/Dark.
     Stats: 120/80/190/120/190/10. Ability: Poison Heal.
 
@@ -8931,50 +8831,33 @@ Return to the help center in West Gearen.
 ## West Gearen City Help Quests
 
 HQuest 23: Generator Problems (Need to have freed Dufaux)
-
 -   Start at the power plant on the north side and talk to Gabriel. Head
     inside to see what's happened.
-
 -   Carefully sneak to the left and into the generator room. Save and
     use F12 if you get spotted to reduce the backtracking.
-
 -   Make your way to the generator room and watch all the events unfold.
     Narcissa will leave for Goldenleaf Town.
-
 -   Claim your reward: $3500. Also, bring a Nosepass or a Magneton to
     the generator room and they will evolve!
-
 -   In the generator room, you can find *TM64 Explosion* and the
     *Electric Memory.*
 
 HQuest 24: House Sit
-
 -   Start at Saki's house west of the power plant. Talk to Erina.
-
 -   Read the note on the table. Do 3 of the actions, then head upstairs.
-
 -   Defeat the AA Grunts.
-
 -   Do three more actions.
-
 -   Head upstairs and into Saki's room on the right. Read the diary at
     the bottom.
-
 -   Re-enter the house, and head up and right.
-
 -   Claim your reward: $5500.
 
 HQuest 25: Hidden Library 3 (Requires H.L. 1 and 2)
-
 -   Start at the park and enter the hidden library.
-
 -   Head all the way up and to the back. Talk to Karen, then attempt to
     press the pillar switch.
-
 -   Talk to Karrina outside the door, then head into the southeast room.
-
 -   Head downstairs and grab *TM77 Psych Up.*
-
 -   Welcome to the Unown Dimension. Grab the *Max Repel* at the top.
 
 Unown Dimension
@@ -8987,23 +8870,17 @@ Unown Dimension
 | Pidgey       | 10       |
 | Noctowl      | 10       |
 | Pidgeotto    | 5        |
-
 -   Head inside and talk to Alice and Allen.
-
 -   Enter the forest to the east. Fight the grunts. In general, I
     recommend Special Attack -\> Fierce Attack spam. If you lose you can
     just redo, anyways.
-
 -   Grab the *Carbos* on the right side and the *Rare Candy* below the
     ledge. Grab the *Hyper Potion* up above. Return to the house, then
     head back through the forest to the cave at the north side.
-
 -   Solve the tile puzzle. It's the same Kabuto one as in HGSS.
-
 -   Head back to the two-person door. Push the lever and enter. Pick
     left to get MegaStone: *Banettite* and right to get MegaStone:
     *Heracronite.* Again, we can't yet use these, but good to have.
-
 -   Return to grab $4000.
 
 As a reward for finishing all the quests, you'll get a **Turtwig** egg!
@@ -9027,7 +8904,6 @@ Spector Battle Quest
 5.  Finally, meet him in the gym auditorium for a battle!
 
 Gym Leader Spector (Haunted Field)
-
 -   Murkrow, Level 60. @ Eviolite.
 
     -   Perish Song
@@ -9037,7 +8913,6 @@ Gym Leader Spector (Haunted Field)
     -   Roost
 
     -   Protect
-
 -   Gothitelle, Level 60. @ Kasib Berry.
 
     -   Fake Out
@@ -9047,7 +8922,6 @@ Gym Leader Spector (Haunted Field)
     -   Protect
 
     -   Psychic
-
 -   Gengar, Level 61. @ Focus Sash.
 
     -   Hypnosis
@@ -9057,7 +8931,6 @@ Gym Leader Spector (Haunted Field)
     -   Mean Look
 
     -   Spectral Scream
-
 -   Cursola, Level 61. @ Focus Sash.
 
     -   Strength Sap
@@ -9067,7 +8940,6 @@ Gym Leader Spector (Haunted Field)
     -   Protect
 
     -   Whirlpool
-
 -   Ninetales, Level 62. @ Magical Seed.
 
     -   Protect
@@ -9077,7 +8949,6 @@ Gym Leader Spector (Haunted Field)
     -   Ominous Wind
 
     -   Hypnosis
-
 -   Banette, Level 63. @ Banettite.
 
     -   Shadow Sneak
@@ -9155,7 +9026,6 @@ Head outside. Enter the factory here. Attempt to enter the door to the
 right, and you'll fight:
 
 League Scout Amanda (Factory Field)
-
 -   Incineroar, Level 57. @ Assault Vest.
 
     -   Flare Blitz
@@ -9165,7 +9035,6 @@ League Scout Amanda (Factory Field)
     -   Darkest Lariat
 
     -   U-Turn
-
 -   Hatterene, Level 60. @ Focus Sash.
 
     -   Psychic
@@ -9175,7 +9044,6 @@ League Scout Amanda (Factory Field)
     -   Shadow Ball
 
     -   Trick Room
-
 -   Druddigon, Level 58. @ Druddigon Crest.
 
     -   Dragon Claw
@@ -9185,7 +9053,6 @@ League Scout Amanda (Factory Field)
     -   Sucker Punch
 
     -   Gunk Shot
-
 -   Torkoal, Level 58. @ Heat Rock.
 
     -   Eruption
@@ -9195,7 +9062,6 @@ League Scout Amanda (Factory Field)
     -   Solarbeam
 
     -   Earth Power
-
 -   Bronzong, Level 59. @ Occa Berry.
 
     -   Rock Slide
@@ -9205,7 +9071,6 @@ League Scout Amanda (Factory Field)
     -   Trick Room
 
     -   Sunny Day
-
 -   Miltank, Level 58. @ Chople Berry.
 
     -   Return
@@ -9232,7 +9097,6 @@ an easy time here.
 Head up for the gym battle!
 
 Electrical Engineer Erick (Murkwater Field)
-
 -   Electivire, Level 60. @ Muscle Band.
 
     -   Thunder Raid
@@ -9242,7 +9106,6 @@ Electrical Engineer Erick (Murkwater Field)
     -   Cross Chop
 
     -   Fire Punch
-
 -   Alolan Raichu, Level 59. @ Wise Glasses.
 
     -   Thunderbolt
@@ -9252,7 +9115,6 @@ Electrical Engineer Erick (Murkwater Field)
     -   Focus Blast
 
     -   Surf
-
 -   Magneton, Level 58. @ Eviolite.
 
     -   Hidden Power Grass
@@ -9262,7 +9124,6 @@ Electrical Engineer Erick (Murkwater Field)
     -   Thunderbolt
 
     -   Flash Cannon
-
 -   Togedemaru, Level 59. @ Elemental Seed.
 
     -   Thunder Raid
@@ -9272,7 +9133,6 @@ Electrical Engineer Erick (Murkwater Field)
     -   Fell Stinger
 
     -   Poison Jab
-
 -   Eelektross, Level 59. @ Assault Vest.
 
     -   Thunder Raid
@@ -9282,7 +9142,6 @@ Electrical Engineer Erick (Murkwater Field)
     -   Flamethrower
 
     -   Acid Spray
-
 -   Toxtricity, Level 60. @ Toxtricitite.
 
     -   Thunder Raid
@@ -9347,7 +9206,6 @@ chapter.
 
 Make sure you're ready to not come back for little while. Talk to Melia
 in the train station in southwest West Gearen.
-
 -   If you have at least 8 Points with Venam, you'll get (Venam +3
     Relationship Points). You'll be given a *Soda Pop.*
 
@@ -9355,7 +9213,6 @@ Relationship Point Choices:
 - Thank you! (Venam +1)  
 - I don't like soda. (Neutral)  
 - I didn't ask for this. (Venam -1, Melia -1)
-
 -   If you have 7 or less Points with Venam, say “what about me and
     Kanon?” for relationship points with him.
 
@@ -9363,7 +9220,6 @@ Relationship Point Choices:
 > - What about me? (Neutral)  
 > - What about Kanon and I? (Kanon +2)  
 > - You're gross. (Melia -2, Venam -3)
-
 -   If you have 7 or less Points with Venam and chose “You're gross” in
     the last prompt:
 
@@ -9560,7 +9416,6 @@ Then head to the west. Near Luck's tent, talk to Melia here.
 
 Relationship Point Choices:
 - Hapi? (Melia +1)
-
 - The food? (Melia -1)
 
 Enter the Darchlight Woods to the west.
@@ -9779,29 +9634,17 @@ your person and interact with all the reading materials to find a
 solution.
 
 Here's the solution:
-
 -   Type in 4589758 into the password
-
 -   Grab black shard ore and put it in the furnace
-
 -   Red
-
 -   Blue
-
 -   Green
-
 -   Red
-
 -   Red
-
 -   Remove the ore from the furnace
-
 -   Blue
-
 -   Purple
-
 -   Gold
-
 -   Then, talk to the thing on the left with the small red button to
     make a *Darchlight Mirror!*
 
@@ -10318,7 +10161,6 @@ Head to the shopping district and talk to Venam and Madelis here. Choose
 a color, and Venam will challenge you to a battle!
 
 Punk Girl Venam (No Field)
-
 -   Toxtricity (Amped), Level 67. @ Focus Sash.
 
     -   Overdrive
@@ -10328,7 +10170,6 @@ Punk Girl Venam (No Field)
     -   Sludge Bomb
 
     -   Thunder Wave
-
 -   Muk (Alolan), Level 67. @ Black Sludge.
 
     -   Gunk Shot
@@ -10338,7 +10179,6 @@ Punk Girl Venam (No Field)
     -   Curse
 
     -   Fire Punch
-
 -   Scolipede, Level 67. @ Muscle Band.
 
     -   Rock Slide
@@ -10348,7 +10188,6 @@ Punk Girl Venam (No Field)
     -   Aqua Tail
 
     -   Poison Jab
-
 -   Venusaur, Level 68. @ Leftovers.
 
     -   Sludge Bomb
@@ -10358,7 +10197,6 @@ Punk Girl Venam (No Field)
     -   Hidden Power Fire
 
     -   Earthquake
-
 -   Seviper, Level 69. @ Life Orb.
 
     -   Sludge Wave
@@ -10368,7 +10206,6 @@ Punk Girl Venam (No Field)
     -   Giga Drain
 
     -   Sucker Punch
-
 -   Charizard, Level 75. @ Charti Berry.
 
     -   Heat Wave
@@ -10467,7 +10304,6 @@ corner and *TM85 Dream Eater* in the upper left. Head up at the fountain
 for a fight, as Aelita.
 
 Xen Executive Zetta (No Field)
-
 -   Gliscor, Level 68. @ Flying Gem.
 
     -   Tailwind
@@ -10477,7 +10313,6 @@ Xen Executive Zetta (No Field)
     -   Acrobatics
 
     -   Poison Jab
-
 -   Lucario, Level 69. @ Focus Sash.
 
     -   Aura Sphere
@@ -10487,7 +10322,6 @@ Xen Executive Zetta (No Field)
     -   Shadow Ball
 
     -   Calm Mind
-
 -   Staraptor, Level 68. @ Assault Vest.
 
     -   Brave Bird
@@ -10497,7 +10331,6 @@ Xen Executive Zetta (No Field)
     -   Return
 
     -   Endeavor
-
 -   Blaziken, Level 69. @ Muscle Band.
 
     -   Shadow Claw
@@ -10507,7 +10340,6 @@ Xen Executive Zetta (No Field)
     -   Brave Bird
 
     -   Blaze Kick
-
 -   Mienshao, Level 68. @ Focus Sash.
 
     -   U-Turn
@@ -10517,7 +10349,6 @@ Xen Executive Zetta (No Field)
     -   Brick Break
 
     -   Protect
-
 -   Hawlucha, Level 70. @ Flying Gem.
 
     -   Acrobatics
@@ -10577,7 +10408,6 @@ to 70. Win to get 6 *Exp. Candy L* each time. Then, talk to Zetta in
 front of the box for a battle.
 
 Xen Executive Zetta (No Field)
-
 -   Weavile, Level 68. @ Muscle Band.
 
     -   Icicle Crash
@@ -10587,7 +10417,6 @@ Xen Executive Zetta (No Field)
     -   Poison Jab
 
     -   Ice Shard
-
 -   Perrserker, Level 68. @ Protective Pads.
 
     -   Swords Dance
@@ -10597,7 +10426,6 @@ Xen Executive Zetta (No Field)
     -   Close Combat
 
     -   Play Rough
-
 -   Dragonite, Level 68. @ Dragon Fang.
 
     -   Dragon Dance
@@ -10607,7 +10435,6 @@ Xen Executive Zetta (No Field)
     -   Fire Punch
 
     -   Dragon Claw
-
 -   Typhlosion, Level 69. @ Power Herb.
 
     -   Eruption
@@ -10617,7 +10444,6 @@ Xen Executive Zetta (No Field)
     -   Focus Blast
 
     -   SolarBeam
-
 -   Silvally, Level 69. @ Silk Scarf.
 
     -   Return
@@ -10627,7 +10453,6 @@ Xen Executive Zetta (No Field)
     -   Swords Dance
 
     -   Zen Headbutt
-
 -   Solosis, Level 1.
 
     -   Memento
@@ -11167,7 +10992,6 @@ Relationship Point Choices:
 - Uh... No thanks. (Aelita -1, Adam -2)    
 
 Pop Star Risa Raider (No Field)
-
 -   Tuff-Puff Jigglypuff, Level 85. @ Air Balloon.
 
     -   Poison Jab
@@ -11249,7 +11073,6 @@ and *Yellow Shard.* Enter Vivian's house, and prepare for a battle. You
 get 3 Pokemon.
 
 Enigma Melia & Candid Girl Erin (No Field)
-
 -   Meganium, Level 70. @ Meganium Crest.
 
     -   Reflect
@@ -11259,7 +11082,6 @@ Enigma Melia & Candid Girl Erin (No Field)
     -   Giga Drain
 
     -   Stun Spore
-
 -   Zoroark, Level 71. @ Life Orb.
 
     -   Night Daze
@@ -11269,7 +11091,6 @@ Enigma Melia & Candid Girl Erin (No Field)
     -   Flamethrower
 
     -   Protect
-
 -   Togekiss, Level 72. @ Sitrus Berry.
 
     -   Heat Wave
@@ -11279,7 +11100,6 @@ Enigma Melia & Candid Girl Erin (No Field)
     -   Follow Me
 
     -   Dazzling Gleam
-
 -   Swanna, Level 70. @ Wide Lens.
 
     -   Hurricane
@@ -11289,7 +11109,6 @@ Enigma Melia & Candid Girl Erin (No Field)
     -   Ice Beam
 
     -   Tailwind
-
 -   Zangoose, Level 71. @ Zangoose Crest.
 
     -   Façade
@@ -11299,7 +11118,6 @@ Enigma Melia & Candid Girl Erin (No Field)
     -   Close Combat
 
     -   Protect
-
 -   Absol, Level 72. @ Scope Lens.
 
     -   Sucker Punch
@@ -11360,7 +11178,6 @@ Go upstairs and interact with the table to get the *Garufa Spellbook.*
 Head down the stairs after the scene.
 
 Sensei Vivian (Blessed Field)
-
 -   Tyranitar, Level 71. @ Smooth Rock.
 
     -   Toxic
@@ -11370,7 +11187,6 @@ Sensei Vivian (Blessed Field)
     -   Rock Slide
 
     -   Crunch
-
 -   Tyrantrum, Level 72. @ Assault Vest.
 
     -   Head Smash
@@ -11380,7 +11196,6 @@ Sensei Vivian (Blessed Field)
     -   Dragon Claw
 
     -   Superpower
-
 -   Rhyperior, Level 73. @ Assault Vest.
 
     -   Earthquake
@@ -11390,7 +11205,6 @@ Sensei Vivian (Blessed Field)
     -   Ice Punch
 
     -   Megahorn
-
 -   Meganium, Level 71. @ Flame Plate.
 
     -   Ancient Power
@@ -11400,7 +11214,6 @@ Sensei Vivian (Blessed Field)
     -   Nature Power (-\> Fire-type Judgement)
 
     -   Giga Drain
-
 -   Sigilyph, Level 72. @ Life Orb.
 
     -   Psyshock
@@ -11410,7 +11223,6 @@ Sensei Vivian (Blessed Field)
     -   Roost
 
     -   Air Slash
-
 -   Alakazam, Level 73. @ Alakazite.
 
     -   Psychic
@@ -11449,7 +11261,6 @@ room. Head up again and go past the dead lasers, then up the stairs.
 Follow the path.
 
 Captain Valarie (Murkwater Field)
-
 -   Toxicroak, Level 72. @ Assault Vest.
 
     -   Sucker Punch
@@ -11459,7 +11270,6 @@ Captain Valarie (Murkwater Field)
     -   Drain Punch
 
     -   Ice Punch
-
 -   Dragalge, Level 73. @ Assault Vest.
 
     -   Venoshock
@@ -11469,7 +11279,6 @@ Captain Valarie (Murkwater Field)
     -   Surf
 
     -   Thunderbolt
-
 -   Qwilfish, Level 72. @ Focus Sash.
 
     -   Destiny Bond
@@ -11479,7 +11288,6 @@ Captain Valarie (Murkwater Field)
     -   Dive
 
     -   Poison Jab
-
 -   Tentacruel, Level 72. @ Black Sludge.
 
     -   Giga Drain
@@ -11489,7 +11297,6 @@ Captain Valarie (Murkwater Field)
     -   Ice Beam
 
     -   Scald
-
 -   Cursola, Level 73. @ Leftovers.
 
     -   Strength Sap
@@ -11499,7 +11306,6 @@ Captain Valarie (Murkwater Field)
     -   Shadow Ball
 
     -   Scald
-
 -   Jellicent, Level 73. @ Leftovers.
 
     -   Sludge Bomb
@@ -11519,9 +11325,7 @@ Head back up and outside to the deck.
 
 Relationship Point Choices:
 - We needed a new sail... (Melia +2)
-
 - She loves her new job. (Melia +1)
-
 - Yes. (Neutral)
 
 Enter the captain's room to speak with Madame X, then open the door in
@@ -11529,9 +11333,7 @@ the room to the right. Downstairs, talk to Melia.
 
 Relationship Point Choices:
 - Who knows... (Melia +1)
-
 - Why does it matter? (Melia -2)
-
 - It's necessary. (Melia +2)
 
 And, if you have at least 5 Melia Relationship Points at this point,
@@ -11568,7 +11370,6 @@ Head out and up, into the right room and read the book thing here. Do
 the same for the left room. Then enter the top room.
 
 Survivor Kenneth (Chess Field)
-
 -   Banette, Level 71. @ Spell Tag.
 
     -   Toxic
@@ -11578,7 +11379,6 @@ Survivor Kenneth (Chess Field)
     -   Foul Play
 
     -   Protect
-
 -   Alolan Muk, Level 72. @ Shuca Berry.
 
     -   Gunk Shot
@@ -11588,7 +11388,6 @@ Survivor Kenneth (Chess Field)
     -   Curse
 
     -   Ice Punch
-
 -   Krookodile, Level 72. @ Assault Vest.
 
     -   Earthquake
@@ -11598,7 +11397,6 @@ Survivor Kenneth (Chess Field)
     -   Stone Edge
 
     -   Low Kick
-
 -   Weavile, Level 73. @ Life Orb.
 
     -   Ice Punch
@@ -11608,7 +11406,6 @@ Survivor Kenneth (Chess Field)
     -   Low Kick
 
     -   Poison Jab
-
 -   Aevian Lapras, Level 74. @ Leftovers.
 
     -   Ice Beam
@@ -11618,7 +11415,6 @@ Survivor Kenneth (Chess Field)
     -   Toxic
 
     -   Perish Song
-
 -   Lucario, Level 74. @ Focus Sash.
 
     -   Meteor Mash
@@ -11641,7 +11437,6 @@ in time, you'll be granted (Melia +5) Relationship Points.
 Next is a battle against Melia.
 
 Enigma Melia (Chess Field)
-
 -   Snorlax, Level 72. @ Silk Scarf.
 
     -   Strength
@@ -11651,7 +11446,6 @@ Enigma Melia (Chess Field)
     -   Heavy Slam
 
     -   Fire Punch
-
 -   Hydreigon, Level 74. @ Focus Sash.
 
     -   Dark Pulse
@@ -11661,7 +11455,6 @@ Enigma Melia (Chess Field)
     -   Gilded Arrow
 
     -   Nasty Plot
-
 -   Zoroark, Level 73. @ Blackglasses.
 
     -   Dark Pulse
@@ -11671,7 +11464,6 @@ Enigma Melia (Chess Field)
     -   Flamethrower
 
     -   Sucker Punch
-
 -   Meganium, Level 73. @ Meganium Crest.
 
     -   Leech Seed
@@ -11681,7 +11473,6 @@ Enigma Melia (Chess Field)
     -   Giga Drain
 
     -   Nature Power (-\> Ancient Power)
-
 -   Gardevoir, Level 73. @ Life Orb.
 
     -   Psychic
@@ -11691,7 +11482,6 @@ Enigma Melia (Chess Field)
     -   Calm Mind
 
     -   Mystical Fire
-
 -   Togekiss, Level 74. @ Synthetic Seed.
 
     -   Aura Sphere
@@ -11716,30 +11506,24 @@ work.
 Relationship Point Choices:
 - About what?  
 - Sigh (Melia -3)
-
 -   If you choose Hand it Over, well… you're gonna get a game over. A
     game over that in fact will write to your save that you made that
     choice should you click Try Again. If that's what you want, go for
     it. But if not, better make sure you have a backup if you want to
     see how that route plays out.
-
 -   Abandon Them is a passing grade! The story will continue fine, but
     it's not the perfect ending.
-
 -   Do Nothing, i.e., let the timer run out, is the answer that will get
     you towards the best ending.
 
 Relationship Point Choices:
 - Are you okay?! (Melia +2)
-
 - uh... You good? (Neutral)
-
 - What happened? (Neutral)
 
 Time to play as Melia. Follow the path!
 
 Hood Emma (No Field)
-
 -   Zoroark, Level 74. @ Blackglasses.
 
     -   Dark Pulse
@@ -11749,7 +11533,6 @@ Hood Emma (No Field)
     -   Shadow Ball
 
     -   Grass Knot
-
 -   Gardevoir, Level 75. @ Pixie Plate.
 
     -   Moonblast
@@ -11759,7 +11542,6 @@ Hood Emma (No Field)
     -   Shadow Ball
 
     -   Calm Mind
-
 -   Togekiss, Level 78. @ Synthetic Seed.
 
     -   Aura Sphere
@@ -11776,7 +11558,6 @@ Tell Melia “Are you okay!?” for relationship points, then prepare for a
 battle!
 
 Little Demon Melanie (No Field)
-
 -   Galarian Mr. Mime, Level 73. @ Eviolite.
 
     -   Calm Mind
@@ -11786,7 +11567,6 @@ Little Demon Melanie (No Field)
     -   Ice Beam
 
     -   Energy Ball
-
 -   Obstagoon, Level 73. @ Sitrus Berry.
 
     -   Obstruct
@@ -11796,7 +11576,6 @@ Little Demon Melanie (No Field)
     -   Throat Chop
 
     -   Close Combat
-
 -   Thievul, Level 73. @ Thievul Crest.
 
     -   Sucker Punch
@@ -11806,7 +11585,6 @@ Little Demon Melanie (No Field)
     -   Play Rough
 
     -   Crunch
-
 -   Boltund, Level 73. @ Boltund Crest.
 
     -   Thunder Fang
@@ -11816,7 +11594,6 @@ Little Demon Melanie (No Field)
     -   Ice Fang
 
     -   Psychic Fangs
-
 -   Polteageist, Level 73. @ Colbur Berry.
 
     -   Nasty Plot
@@ -11826,7 +11603,6 @@ Little Demon Melanie (No Field)
     -   Shadow Ball
 
     -   Giga Drain
-
 -   Alcremie, Level 75. @ Alcremite.
 
     -   Recover
@@ -11842,9 +11618,7 @@ lose this one, thankfully.
 
 Relationship Point Choices:
 - We have to go. (Neutral)
-
 - It was fun. (Neutral)
-
 - Where's the exit? (Mosely -2)
 
 ## Aevium (Past) 2nd Visit Part 2
@@ -11858,7 +11632,6 @@ Relationship Point Choices:
 - We have to save Vivian! (Melia -1)
 
 Guardian Regirock (Blessed Field)
-
 -   Regirock, Level 75. @ Lum Berry.
 
     -   Bulk Up
@@ -11874,7 +11647,6 @@ slow, you'll be able to easily wear it down with good special moves
 easily.
 
 Relationship Point Choices
-
 - We make a good team! (Melia +2)  
 - I did all the work. (Melia -2)
 
@@ -11897,36 +11669,26 @@ here but they're more in depth this time. Head to the Central Building
 and into the left elevator to engage with these.
 
 HQuest 26: Missing Children
-
 -   First thing we're gonna do is head to the Police Department in the
     Judicial District. Talk to Officer Jenny at the top.
-
 -   Talk to the people blocking the building to the left of the medicine
     shop.
-
 -   Head over to Pokestar Studios and talk to the guy hiding here.
-
 -   Go to main street and talk to him again on the east side of the
     south part of the street.
-
 -   Return to the help center to cancel the request.
-
 -   Return to Pokestar Studios to talk to the guy, then talk to the pair
     at the bottom of the area and give them the password. Head in.
-
 -   Welcome to the Underground. Talk to the lady in the first house if
     you want to learn a prophecy. Talk to Dylan here, then again in the
     main plaza.
-
 -   Head east and talk to the psychologist here.
-
 -   Head south. Grab:
 
 ZCell 080: The Underground
 
 <img src="/assets/media/rejuv/image83.png"
 style="width:6.73958in;height:5.03125in" />
-
 -   Enter this shop here and talk to the owner. Buy something if you'd
     like.
 
@@ -11941,10 +11703,8 @@ The Underground Shop (Inside)
 *Revive* $8500
 
 *Full Heal* $600
-
 -   Head up a bit from here into the main yard. Confront the art thief
     if you've advanced that side quest.
-
 -   Head into the main building to the left and speak with the guy.
 
 The Underground Shop (Left)
@@ -11974,72 +11734,53 @@ The Underground Shop (Right)
 *Float Stone* $200
 
 *Binding Band* $200
-
 -   Make sure you buy Metal Powder and magnets here!! We still have a
     quest from a few episodes ago that requires them. Also, buy a bunch
     of Blast Powder - we'll need at least one when we return.
-
 -   Head to the east, then up and to the left to fight the Thief from
     earlier. Beat him and get *Family Portrait!*
-
 -   Directly east, you'll find:
 
 ZCell 081: The Underground
 
 <img src="/assets/media/rejuv/image84.png"
 style="width:6.67708in;height:5.05208in" />
-
 -   Talk to Dylan again, then head to the east. Go up until a scene
     plays out.
-
 -   Head to the bottom of this area then east to the docks, and grab the
     *Toxic Orb.*
-
 -   Return to the Main Building, talk to Dylan, then enter and head up.
     Grab the *Metal Coat* here, and *Mystery Bowl* hidden in some trash.
-
 -   Head up the tower, fighting grunts as you go. There is a *PP Up* and
     a *Lemonade* hidden on the third floor. There is also a *Hyper
     Potion.*
-
 -   On the fourth floor there is a hidden *Full Heal* and *Mystery
     Bowl.* Enter the room at the top for a battle.
-
 -   When you regain control, head north and east to get to Dylan's
     house.
-
 -   Use the elevator, then, accept the fast travel offer to get to
     Route 9. Head down to talk to them.
-
 -   Then, watch the scene play out in Dylan's House.
-
 -   Head to the Police Department and talk to the cop. This is all we
     can do in this quest for now, until the next badge.
 
 ## Classified Information Quest
 
 HQuest 27: Classified Information
-
 -   Take the request and talk to the person by the elevator to get to
     the 36F of the building.
 
 Relationship Point Choices:
 - I was terrified too... (Melia +2)
-
 - It's standard procedure. (Melia +1)
-
 - Grow up. (Melia -2)
-
 -   Catch some z's at the penthouse, then in the nightmare, head up and
     talk to Anabel.
-
 -   After your conversation, wake up, and return to the 36F of central.
     Accept Looker's travel request to Darchlight Caves.
-
 -   Using the mirror, make your way all the way through the cave, back
     to the ladder paths. Take the right ladder and cross when it is dark
     to see the group. Follow the path and watch the scenes.
-
 -   Back at HQ, go into the left room.
 
 > Relationship Point Choices:
@@ -12049,16 +11790,12 @@ Relationship Point Choices:
 > - I kinda got baited into this... (Erick +3, Melia +2)
 >
 > - Eh... (Erick +1, Melia -2)
-
 -   Talk to Looker again to return to the lab.
-
 -   Talk to the door while in the hallway and present the Rose Badge to
     the door.
-
 -   Inside, grab the *Rift Notes: Code Drifio*.
 
 Dimensional Rift Ferrothorn (Burning Field)
-
 -   Ferrothorn, Level 75. @ Metronome. Type: Fire/Steel. Ability: Shift.
     > 3 Shields.
 
@@ -12082,13 +11819,10 @@ want, whichever defense stat you plan to attack to knock it out, even
 its speed so much that you can outspeed it even with its 240-base speed.
 Due to its typing, Earthquake or Earth Power might be your strongest
 choices.
-
 -   Once you emerge victorious, talk to Looker and Anabel on 36F to get
     the *Rift Notes.*
-
 -   Return to the help center to get $25000 and the third Department
     Store Stamp!
-
 -   At some point, head back to the room where you fought Ferrothorn,
     interact with the panel in the back, then enter the right room. Read
     the journal and use the Itemfinder in here to get *Dubious Disc!*
@@ -12138,7 +11872,6 @@ battle time.
 Head out to the back courtyard of the theater and talk to Souta.
 
 Spiritual Healer Souta (Sky Field, Strong Winds)
-
 -   Skarmory, Level 73. @ Elemental Seed.
 
     -   Sky Attack
@@ -12148,7 +11881,6 @@ Spiritual Healer Souta (Sky Field, Strong Winds)
     -   Stealth Rock
 
     -   Heavenly Wing
-
 -   Unfezant, Level 74. @ Assault Vest.
 
     -   Heavenly Wing
@@ -12158,7 +11890,6 @@ Spiritual Healer Souta (Sky Field, Strong Winds)
     -   Return
 
     -   Sky Attack
-
 -   Swanna, Level 74. @ Life Orb.
 
     -   Hurricane
@@ -12168,7 +11899,6 @@ Spiritual Healer Souta (Sky Field, Strong Winds)
     -   Surf
 
     -   Heavenly Wing
-
 -   Dragonite, Level 75. @ Weakness Policy.
 
     -   Surf
@@ -12178,7 +11908,6 @@ Spiritual Healer Souta (Sky Field, Strong Winds)
     -   Thunder
 
     -   Heavenly Wing
-
 -   Oricorio, Level 74. @ Oricorio Crest.
 
     -   Hurricane
@@ -12188,7 +11917,6 @@ Spiritual Healer Souta (Sky Field, Strong Winds)
     -   Hidden Power Ground
 
     -   Revelation Dance
-
 -   Pidgeot, Level 77. @ Pidgeotite.
 
     -   Hurricane
@@ -12299,7 +12027,6 @@ Golden Wing Badge.
 
 Relationship Point Choices:
 - Are you okay? (Erin +2)
-
 - He doesn't matter. (Erin -4)
 
 You'll also get... *Souta's Cane*. Well, that's interesting.
@@ -12311,7 +12038,6 @@ upstairs. After the scene, exit the building.
 
 Relationship Point Choices:
 - Let's save Aelita! (Melia +3, Erin +3)
-
 - Can't Erin just go? (Erin -3, Melia -3)
 
 As soon as you're ready, talk to Erin and agree to enter the rift. Head
@@ -12319,7 +12045,6 @@ up and follow the path, it's quite straightforward. Grab the *Rift Notes
 on Pulse: Bella* and continue. Erin is gonna help us with this fight:
 
 Dimensional Rift… Aelita?? (Dimensional Rift Field)
-
 -   “Aelita”/Regirock, Level 80. @ Leftovers. Ability: Savagery. Type:
     Rock/Fighting. Stats: 200/190/200/190/200/200.
 
@@ -12343,17 +12068,14 @@ Back inside, head into the left room upstairs.
 
 Relationship Point Choices:
 - You sure you're okay? (Melia +1, Erin +1)
-
 - ... (Neutral)
 
 Relationship Point Choices:
 - Let's save Venam! (Melia +3, Erin +2)
-
 - ... (Neutral)
 
 Relationship Point Choices:
 - Welcome back! (Aelita +4)
-
 - Too speedy... (Erin -2, Aelita -2)
 
 That concludes chapter 12!
@@ -12456,45 +12178,34 @@ want to continue two optional quests.
 ## Lost Camp Pt. 3
 
 First, if we're all caught up on the Lost Camp side quest:
-
 -   Head to the Hospital of Hope, talk to Mosely at the top. Accept her
     request.
-
 -   At night, head to the south part of the district. Talk to her again,
     then, in the hospital, talk to her again.
-
 -   Go down two flights and talk to the cash register. Then, head back
     up and go in. Fight the cop. Go upstairs, fight the cop.
     Unfortunately, you get no healing, and *wiping out makes you unable
     to continue the quest.* So, make sure you heal / save before each
     match.
-
 -   Make your way down through the gauntlet of cops. Talk to Isha, this
     is it for now.
 
 ## ANA Quest Part 2
 
 If you've already done part 1:
-
 -   Head over to the Hospital of Hope and enter the door on the left
     side. Talk to the nurse and the cop.
-
 -   Head outside and talk to Ana in front of the HOH. Head south to
     enter the Pokemon hospital. Enter the first door.
-
 -   Return to the District of Hope when you can and cross the bridge to
     the south. Beat the grunts.
-
 -   While you're in this area, head to the dream district west, then go
     to the art museum and talk to the owner, who will let you keep the
     painting. Keep it for now.
-
 -   Return to Dylan's House in the Underground, and talk to Ana and
     Dylan here.
-
 -   Head into the Blakeory Anatheum and go upstairs, then talk to Dylan
     and Ana.
-
 -   Head out and north to Route 9 and find Ana. After a battle (win or
     lose is fine), agree to go to Dylan's apartment. Talk to Ana here.
 
@@ -12577,7 +12288,6 @@ top here. Here you will gain (+1 Reina) Relationship Point if you saved
 her in Mt. Valor, and (-1 Reina) if not.
 
 Hood ??? (Dimensional Field)
-
 -   Silvally, Level 75.
 
     -   Swords Dance
@@ -12842,14 +12552,11 @@ the very top of the village.
 
 Relationship Point Choices:
 - I wish for peace. (Ren +1, Alexandra +3, Ryland +1)
-
 - I don't know... (Ren +2, Alexandra -1, Ryland -1)
-
 - ... (Ren -1, Alexandra -1, Ryland -1)
 
 Relationship Point Choices:
 - Alright... (Ren +1, Alexandra +1)
-
 - No Thanks. (Ren -1)
 
 If you're on the Kanon route, talk to Ren at the bottom of the village.
@@ -13039,7 +12746,6 @@ When you head up, be prepared for a battle… and another change of pace.
 We'll be playing as Ren now!
 
 ??? ??? (No Field)
-
 -   Raichu (Alolan), Level 79. @ Focus Sash.
 
     -   Thunderbolt
@@ -13049,7 +12755,6 @@ We'll be playing as Ren now!
     -   Focus Blast
 
     -   Hidden Power Ice
-
 -   Clawitzer, Level 78. @ Mystic Water.
 
     -   Water Pulse
@@ -13059,7 +12764,6 @@ We'll be playing as Ren now!
     -   Aura Sphere
 
     -   Ice Beam
-
 -   Swampert, Level 79. @ Rindo Berry.
 
     -   Waterfall
@@ -13069,7 +12773,6 @@ We'll be playing as Ren now!
     -   Hammer Arm
 
     -   Earthquake
-
 -   Xurkitree, Level 80. @ Shuca Berry.
 
     -   Thunderbolt
@@ -13110,7 +12813,6 @@ get to the first healing star, grab the *Focus Sash* to the left and
 press the button on the pillar.
 
 Optimistic Guy Huey (Dimensional Rift Field)
-
 -   Octillery, Level 78. @ Leftovers.
 
     -   Protect
@@ -13120,7 +12822,6 @@ Optimistic Guy Huey (Dimensional Rift Field)
     -   Ice Beam
 
     -   Fire Blast
-
 -   Flareon, Level 79. @ Rift Seed.
 
     -   Flare Blitz
@@ -13134,7 +12835,6 @@ Optimistic Guy Huey (Dimensional Rift Field)
 Easy one. Continue north.
 
 Trendy Girl Reina (Dimensional Rift Field)
-
 -   Ribombee, Level 75. @ Focus Sash.
 
     -   Sticky Web
@@ -13144,7 +12844,6 @@ Trendy Girl Reina (Dimensional Rift Field)
     -   Stun Spore
 
     -   Bug Buzz
-
 -   Honchkrow, Level 76. @ Scope Lens.
 
     -   Night Slash
@@ -13154,7 +12853,6 @@ Trendy Girl Reina (Dimensional Rift Field)
     -   Superpower
 
     -   Sucker Punch
-
 -   Swoobat, Level 78. @ Rift Seed.
 
     -   Psychic
@@ -13171,18 +12869,13 @@ Head up and through, grabbing the *Rift Notes for Code: Angelus*. Oh
 boy.
 
 Angel of Death Gardevoir (Dimensional Field)
-
 -   Angel of Death Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
     Ability: Execution. Stats: 300/200/150/180/200/145.
 
 > 4 Shields.
-
 -   Lovely Kiss
-
 -   Hyperspace Hole
-
 -   Sacred Sword
-
 -   Dark Pulse
 
 This one is tough. This time, you must break *four* shields just to get
@@ -13205,7 +12898,6 @@ If Cop saved - (Ren +3, Reina +3, Huey +3, Venam +3)
 If Maria "saved" - (Ren +3, Reina +3, Huey +3)
 
 Dimensional Rift Gardevoir Round 2 (Dimensional Field)
-
 -   Fallen Angel Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
     Ability: Execution. Stats: 180/130/100/100/100/240.
 
@@ -13231,7 +12923,6 @@ scene, we're gonna head west across the bridge for a battle with Ren! At
 least we're familiar with his team.
 
 Outcast Ren (Desert Field)
-
 -   Aevian Roserade, Level 77. @ Focus Sash.
 
     -   Focus Blast
@@ -13241,7 +12932,6 @@ Outcast Ren (Desert Field)
     -   Ancient Power
 
     -   Spikes
-
 -   Flygon, Level 79. @ Steelium-Z.
 
     -   Dragon Dance
@@ -13251,7 +12941,6 @@ Outcast Ren (Desert Field)
     -   Iron Tail
 
     -   Outrage
-
 -   Arcanine, Level 80. @ Telluric Seed.
 
     -   Heat Wave
@@ -13261,7 +12950,6 @@ Outcast Ren (Desert Field)
     -   Dig
 
     -   Extremespeed
-
 -   Silvally, Level 78. @ Muscle Band.
 
     -   Swords Dance
@@ -13271,7 +12959,6 @@ Outcast Ren (Desert Field)
     -   Zen Headbutt
 
     -   Iron Head
-
 -   Scizor, Level 79. @ Life Orb.
 
     -   Brutal Swing
@@ -13281,7 +12968,6 @@ Outcast Ren (Desert Field)
     -   Bug Bite
 
     -   Bullet Punch
-
 -   Greninja, Level 80. @ Life Orb.
 
     -   Scald
@@ -13299,50 +12985,34 @@ Next, it's time for some Help Quests. Enter the door in the middle of
 Sashila Village, on the left side.
 
 HQuest 28: Legend of the Void
-
 -   Enter the door directly below the help center and talk to the man,
     Marten.
-
 -   Head up two sets of stairs and enter the first door on the right
     side. Talk to Hyu'ro.
-
 -   Talk to Marten in his house again. Exit, and take the Mudsdale rider
     outside the village to Voidal Chasm.
-
 -   In the Voidal Chasm, pick up the shiny object on B2F.
-
 -   Return to Marten, then meet him in Hyu'ro's house.
-
 -   Enter Sashila's research room by going up, surfing left, and down.
     Talk to Marten at the top.
-
 -   Head into Alexandra's room and use the crystal to go back to the
     past…
-
 -   Talk to the truck driver in Hiyoshi City and go to Gregorian Lake.
     Surf up and talk to the guy inside the house here to get a *Lake
     Postcard.*
-
 -   Return to the present and talk to Hyu'ro.
-
 -   After talking to Marten at the door, head back to the Chasm, and go
     all the way to B3F.
-
 -   Rock climb up twice and enter the door. Head left, and then go down.
-
 -   Battle **Absol.** Hyu'ro's fate is up to you. After making your
     choice, return to Sashila.
-
 -   Re-enter the research area and talk to Marten.
-
 -   Return to the help center to claim your reward: $12.500 and
     MegaStone *Absolite,* as well as (+1 Karma). Sweet!
 
 HQuest 29: Badland Baddies
-
 -   Head back to the research center from the last quest. Talk to the
     guy at the bottom right and agree to get sprayed.
-
 -   Head east from the Zorrialyn Coast.
 
 Ruined City
@@ -13354,7 +13024,6 @@ Ruined City
 | Maractus                 | 30       | Cacturne           | 40       |
 | Mudsdale                 | 24       | Helioptile         | 10       |
 | Cacturne                 | 10       | Heliolisk          | 6        |
-
 -   Rock smash your way in, then, pick up a hidden on the left side of
     the second building from the left, and then enter the leftmost door
     of this house.
@@ -13363,16 +13032,13 @@ ZCell 092: Ruined City
 
 <img src="/assets/media/rejuv/image95.png"
 style="width:6.61458in;height:4.98958in" />
-
 -   Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of
     the area, then sneak around the back to find hidden *Yellow Shard*
     and *Red Shard*. Then, enter the leftmost house. In the left door,
     grab *Relic Copper.* In the right door, grab *Rare Candy.*
-
 -   Head back to the top of the village and go around the back of the
     first house on the right cliff. Pick up a hidden *Ground Gem, Green
     Shard,* and *Protein.* Inside, you'll find *Relic Silver.*
-
 -   There's nothing in the right house, so head to the center of the
     city and go down. Hidden down here is a *Wacan Berry* as well as a
     *Super Repel.* Enter the house on the right. Grab the *Relic
@@ -13382,12 +13048,9 @@ ZCell 093: Ruined City
 
 <img src="/assets/media/rejuv/image96.png"
 style="width:6.6875in;height:5in" />
-
 -   Prepare yourself and enter the southwest house. Beat the first set
     of grunts, then head out to heal. The next one is tough.
-
 -   Beat the grunts in their 8v6 double battle.
-
 -   Make your choice with Damien.
 
 > Relationship Point Choices:*  
@@ -13395,36 +13058,26 @@ style="width:6.6875in;height:5in" />
 > (+1 Karma).  
 > - Evict them. (Damien +1). This option also grants (-1
 > Karma).
-
 -   Grab the *Rock Memory* on the way out.
-
 -   Talk to Damien once more outside and watch the scene that plays out.
-
 -   Return to the help center to claim your reward: $22500, a *Link
     Heart, Sitrus Berries*, and *Roseli Berries.* (+1 Karma).
 
 Sashila Village Help Quest 3: My Sister Fell...
-
 -   Head to the Voidal Chasm. Go all the way to B3F, and rock climb up
     twice. Enter this door and go to the right.
-
 -   Head down and talk to the girl. Agree to leave with her.
-
 -   Head west in the desert, taking the north loop. You'll see Mandibuzz
     and the girl on top of a rock climb. Beat Mandibuzz.
-
 -   Go all the way back to Zorrialyn Coast, and you'll see the Exeggutor
     by the Obelisk.
-
 -   Return to the help center to get $32500 and MegaStone *Abomasite!*
     Nice. (+1 Karma).
 
 HQuest 30: I need to get Stronger!
-
 -   Meet Novae at the bottom of the village. It's battle time…
 
 Wanderer Novae (Desert Field)
-
 -   Ninetales, Level 79. @ Charcoal.
 
     -   Heat Wave
@@ -13434,7 +13087,6 @@ Wanderer Novae (Desert Field)
     -   Nasty Plot
 
     -   Will-O-Wisp
-
 -   Exeggutor, Level 79. @ Wise Glasses.
 
     -   Energy Ball
@@ -13444,7 +13096,6 @@ Wanderer Novae (Desert Field)
     -   Sleep Powder
 
     -   Hidden Power Fire
-
 -   Lycanroc, Level 80. @ Focus Sash.
 
     -   Rock Slide
@@ -13454,7 +13105,6 @@ Wanderer Novae (Desert Field)
     -   Accelerock
 
     -   Protect
-
 -   Tsareena, Level 81. @ Assault Vest.
 
     -   Power Whip
@@ -13464,7 +13114,6 @@ Wanderer Novae (Desert Field)
     -   Play Rough
 
     -   Hi Jump Kick
-
 -   Sandslash, Level 81. @ Life Orb.
 
     -   Earthquake
@@ -13474,7 +13123,6 @@ Wanderer Novae (Desert Field)
     -   Rock Slide
 
     -   Knock Off
-
 -   Passimian, Level 82. @ Assault Vest.
 
     -   Iron Head
@@ -13491,7 +13139,6 @@ sleep + heat wave. If you can change up the weather, you'll be golden.
 Alternatively, fighting fire with fire works well here, as only her own
 Ninetales and the frail Lycanroc resist your own Heat Wave. If you got
 here with your double battle ability, you could do one more.
-
 -   Return to the help center to get $32500 and a *Scented Lure.* (+1
     Karma).
 
@@ -13663,30 +13310,22 @@ guy at the right. We'll be playing a 3v3 tournament. Each battle, minus
 the last, will be played on a random field. So, that's interesting. The
 trainers aren't too hard to beat, but so you're aware of their
 strategies, here they are:
-
 -   Rain Team
-
 -   FEAR/Sturdy Shenanigans
-
 -   Extreme Evo-boost -\> Pass -\> Stored Power
 
 You'll then get to play as Melia for a quick second. Head into the Grand
 Dream Ball.
 
 The next 3 battles are as follows:
-
 -   Standard heavy offense with a Z-move
-
 -   Residual damage/stall
-
 -   Fast and hard damage
 
 After some scenes, you'll get a treat from Tesla.
 
 The next set of battles:
-
 -   Nothing special
-
 -   Nothing special: Salazzle Edition
 
 So, beat all eight of these fools and watch the following cutscene…
@@ -13694,7 +13333,6 @@ So, beat all eight of these fools and watch the following cutscene…
 ## Rugged Badge
 
 Gym Leader Adam (Inverse Field)
-
 -   Tyranitar, Level 80. @ Magical Seed.
 
     -   Dragon Dance
@@ -13704,7 +13342,6 @@ Gym Leader Adam (Inverse Field)
     -   Crunch
 
     -   Matrix Shot
-
 -   Aurorus, Level 78. @ Focus Sash.
 
     -   Hyper Voice
@@ -13714,7 +13351,6 @@ Gym Leader Adam (Inverse Field)
     -   Thunder Wave
 
     -   Flash Cannon
-
 -   Crustle, Level 79. @ Custap Berry.
 
     -   X Scissor
@@ -13724,7 +13360,6 @@ Gym Leader Adam (Inverse Field)
     -   Slash and Burn
 
     -   Matrix Shot
-
 -   Kabutops, Level 79. @ Focus Sash.
 
     -   Matrix Shot
@@ -13734,7 +13369,6 @@ Gym Leader Adam (Inverse Field)
     -   Waterfall
 
     -   X Scissor
-
 -   Gigalith, Level 78. @ Assault Vest.
 
     -   Dragon Dance
@@ -13744,7 +13378,6 @@ Gym Leader Adam (Inverse Field)
     -   Crunch
 
     -   Matrix Shot
-
 -   Aerodactyl, Level 83. @ Aerodactylite.
 
     -   Return
@@ -13779,7 +13412,6 @@ Win to get the Rugged Badge, which lets us use Dive and go up to Level
 ## Neo Gearen City + Side Quests
 
 Relationship Point Choices
-
 - Reassure Amber. (Amber +2)  
 - Leave her be. (No change.)
 
@@ -13890,7 +13522,6 @@ leaders, accept the challenge to the virtual E4. You can “take a break”
 after each win: if you do, you can save between each member.
 
 Elite Four Will (Glitch Field)
-
 -   Jynx, Level 51. @ Ice Gem.
 
     -   Lovely Kiss
@@ -13900,7 +13531,6 @@ Elite Four Will (Glitch Field)
     -   Blizzard
 
     -   Thief
-
 -   Exeggutor, Level 51. @ Occa Berry.
 
     -   Leech Seed
@@ -13910,7 +13540,6 @@ Elite Four Will (Glitch Field)
     -   Giga Drain
 
     -   Psychic
-
 -   Espeon, Level 52. @ Twisted Spoon.
 
     -   Psychic
@@ -13920,7 +13549,6 @@ Elite Four Will (Glitch Field)
     -   Bite
 
     -   Hidden Power Fire
-
 -   Slowbro, Level 51. @ Chesto Berry.
 
     -   Belly Drum
@@ -13930,7 +13558,6 @@ Elite Four Will (Glitch Field)
     -   Drain Punch
 
     -   Sleep Talk
-
 -   Slowking, Level 52. @ Iron Ball.
 
     -   Fling
@@ -13940,7 +13567,6 @@ Elite Four Will (Glitch Field)
     -   Dragon Tail
 
     -   Psychic
-
 -   Xatu, Level 53. @ Heat Rock.
 
     -   Sunny Day
@@ -13959,7 +13585,6 @@ and Slowking with a combination of healing and attacking. The rest of
 your Pokemon should be able to fill in the gaps.
 
 Elite Four Koga (Glitch Field)
-
 -   Forretress, Level 53. @ Zoom Lens.
 
     -   Toxic Spikes
@@ -13969,7 +13594,6 @@ Elite Four Koga (Glitch Field)
     -   Zap Cannon
 
     -   Explosion
-
 -   Muk, Level 54. @ Black Sludge.
 
     -   Fire Blast
@@ -13979,7 +13603,6 @@ Elite Four Koga (Glitch Field)
     -   Sleep Talk
 
     -   Rest
-
 -   Weezing, Level 54. @ Sitrus Berry.
 
     -   Toxic Spikes
@@ -13989,7 +13612,6 @@ Elite Four Koga (Glitch Field)
     -   Sludge Bomb
 
     -   Venoshock
-
 -   Qwilfish, Level 55. @ Payapa Berry.
 
     -   Fell Stinger
@@ -13999,7 +13621,6 @@ Elite Four Koga (Glitch Field)
     -   Hydro Pump
 
     -   Toxic Spikes
-
 -   Ariados, Level 55. @ Focus Band.
 
     -   Sucker Punch
@@ -14009,7 +13630,6 @@ Elite Four Koga (Glitch Field)
     -   Venoshock
 
     -   Stomping Tantrum
-
 -   Crobat, Level 56. @ Leftovers.
 
     -   Toxic
@@ -14030,7 +13650,6 @@ Double Team too much, and Typhlosion, Gliscor, and Steelix can find ways
 to deal with everything else easily.
 
 Elite Four Bruno (Glitch Field)
-
 -   Golem, Level 54. @ Muscle Band.
 
     -   Rock Polish
@@ -14040,7 +13659,6 @@ Elite Four Bruno (Glitch Field)
     -   Rock Slide
 
     -   Earthquake
-
 -   Granbull, Level 55. @ Leftovers.
 
     -   Lovely Kiss
@@ -14050,7 +13668,6 @@ Elite Four Bruno (Glitch Field)
     -   Fire Blast
 
     -   Metronome
-
 -   Kangaskhan, Level 54. @ Metronome.
 
     -   Blizzard
@@ -14060,7 +13677,6 @@ Elite Four Bruno (Glitch Field)
     -   Hyper Beam
 
     -   Power Up Punch
-
 -   Hitmonchan, Level 56. @ Expert Belt.
 
     -   Drain Punch
@@ -14070,7 +13686,6 @@ Elite Four Bruno (Glitch Field)
     -   Ice Punch
 
     -   Metronome
-
 -   Hitmonlee, Level 57. @ Choice Scarf.
 
     -   Metronome
@@ -14080,7 +13695,6 @@ Elite Four Bruno (Glitch Field)
     -   Metronome
 
     -   Metronome
-
 -   Machamp, Level 57. @ Payapa Berry.
 
     -   Metronome
@@ -14102,7 +13716,6 @@ Qwilfish with Intimidate and Typhlosion should be able to ride out the
 fight.
 
 Elite Four Karen (Glitch Field)
-
 -   Alolan Persian, Level 55. @ Mental Herb.
 
     -   Nasty Plot
@@ -14112,7 +13725,6 @@ Elite Four Karen (Glitch Field)
     -   Seed Bomb
 
     -   Thunder
-
 -   Honchkrow, Level 56. @ Sitrus Berry.
 
     -   Steel Wing
@@ -14122,7 +13734,6 @@ Elite Four Karen (Glitch Field)
     -   Curse
 
     -   Roost
-
 -   Tyranitar, Level 57. @ Passho Berry.
 
     -   Blizzard
@@ -14132,7 +13743,6 @@ Elite Four Karen (Glitch Field)
     -   Fire Blast
 
     -   Dark Pulse
-
 -   Vileplume, Level 55. @ Miracle Seed.
 
     -   Nature Power
@@ -14142,7 +13752,6 @@ Elite Four Karen (Glitch Field)
     -   Energy Ball
 
     -   Infestation
-
 -   Houndoom, Level 57. @ Lum Berry.
 
     -   Fire Blast
@@ -14152,7 +13761,6 @@ Elite Four Karen (Glitch Field)
     -   Super Fang
 
     -   Throat Chop
-
 -   Umbreon, Level 58. @ Leftovers.
 
     -   Rest
@@ -14173,7 +13781,6 @@ getting off a couple curses might be your best bet. You can always reset
 if things go south.
 
 Champion Lance (Glitch Field)
-
 -   Alolan Exeggutor, Level 58. @ White Herb.
 
     -   Draco Meteor
@@ -14183,7 +13790,6 @@ Champion Lance (Glitch Field)
     -   Dragon Hammer
 
     -   Hyper Beam
-
 -   Arcanine, Level 57. @ Power Herb.
 
     -   Dig
@@ -14193,7 +13799,6 @@ Champion Lance (Glitch Field)
     -   Extreme Speed
 
     -   Hyper Beam
-
 -   Aerodactyl, Level 57. @ Normal Gem.
 
     -   Aerial Ace
@@ -14203,7 +13808,6 @@ Champion Lance (Glitch Field)
     -   Hone Claws
 
     -   Hyper Beam
-
 -   Lapras, Level 58. @ Iapapa Berry.
 
     -   Blizzard
@@ -14213,7 +13817,6 @@ Champion Lance (Glitch Field)
     -   Whirlpool
 
     -   Hyper Beam
-
 -   Charizard, Level 58. @ Charcoal.
 
     -   Fire Blast
@@ -14223,7 +13826,6 @@ Champion Lance (Glitch Field)
     -   Earthquake
 
     -   Blast Burn
-
 -   Dragonite, Level 60. @ Wise Glasses.
 
     -   Agility
@@ -14384,83 +13986,57 @@ Enter the Help Center. If you've been keeping track of Zygarde Cells (At
 least 70), talk to the researchers to get *Lucky Egg*!
 
 HQuest 31: Poke Ball Conundrum
-
 -   Enter the Everglade Mall and speak to the clerk at the Poke Ball
     shop.
-
 -   Attempt to enter the door at the Tecanlite Factory in West Gearen.
     Head down, and Aya will let you in.
-
 -   Beat the goons at the entrance. Pick up all the balls you see
     around!
-
 -   Enter the door towards the left of the floor and get the *Tecanlite
     Key.* Use it on the door at the top to pick up *TM24 Thunderbolt!*
-
 -   Back in the main area, use the Key at the top of the floor, then
     follow the path through to the right.
-
 -   Beat the Death Wings - they use exclusively Steel and Water types.
-
 -   Return to the Help Center to get your reward - $12356, and ZCrystal
     *Aloraichium-Z.* (+1 Karma)
-
 -   Now, return to the Poke Ball shop to get 15 *Ultra Balls.* We'll
     also again be able to buy balls here - nothing we couldn't before
     however.
 
 HQuest 32: Forest Restoration
-
 -   Meet at the Route 1 Train Station.
-
 -   Talk to Adrienn in front of where we fought Gyarados (remember
     that?)
-
 -   We're gonna need to submit 3 workers, 1 Scyther, and $48000. Go
     ahead and submit the money when you have it.
-
 -   Fly to Kakori Village and enter the Jeminra Woods Safari Zone.
     You'll see **Scyther** here now, so catch two (one to keep).
-
 -   Worker 1: Community room in Goldenleaf Town.
-
 -   Worker 2: Xen Battleship at the Terajuma shore, right person in
     sleeping chambers.
-
 -   Worker 3: House below therapist in Kristiline Town.
-
 -   Return to Adrienn and hand over the Scyther, then ask to see
     Progress.
-
 -   We're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the
     money.
-
 -   Fisherman 1: On a bench east of the East Gearen to Route 1 Station.
-
 -   Fisherman 2: On Route 2, directly south of the Amethyst Cave
     entrance.
-
 -   Fisherman 3: In Aquamarine Cave, via the lighthouse path. While
     you're in the Rock Climb area, talk to the worker and give him
     Protein. If you do, he will give you **Tyrogue!** Anyways, you'll
     find the fisherman after you go up the ladder.
-
 -   Architect: Bridge guy in Terajuma Jungle - first left from Kakori.
-
 -   Return to Adrienn and inquire about progress.
-
 -   Next, we'll need to submit $68000, 7 Tiny Mushrooms, 1 bag of
     Stardust, and 1 Poliwag.
-
 -   If you haven't completed the Poliwag search quest, do so now. Feel
     free to submit that one if you have it, or, if its evolved, breed
     it. Note that finishing this quest will let us catch more Poliwag,
     so don't worry if this is your only one.
-
 -   I had both the mushrooms and the stardust, but if not, go grind them
     off Paras/Staryu, respectively. Compoundeyes and Thief/Covet will
     make the job easy.
-
 -   Submit it all to Adrienn.
 
 Goldenwood Park
@@ -14479,52 +14055,37 @@ Goldenwood Park
 | Lopunny      | 4        |                 |          |                |     |
 | **Ninjask**  | 1        |                 |          |                |     |
 | Unfezant     | 1        |                 |          |                |     |
-
 -   Pick: *2 Lum Berries, 2 Salac Berries, 2 Lansat Berries, 1 Enigma
     Berry, 2 Starf Berries,* and pick up the *Bug Memory.*
-
 -   Talk to Adrienn at the top. Beat the Deathwing.
-
 -   Return to Grand Hall and talk to Adrienn. Enter the basement and
     take a right.
-
 -   After the scene, exit this room and enter the room on the right at
     the bottom, and grab ZCrystal *Normalium-Z.*
-
 -   Return to the help center to get (back) $250000, and MegaStone
     *Mawilite.* (+1 Karma)
 
 HQuest 33: Mall Opportunities
-
 -   Head to the mall and meet the girl at the very top.
-
 -   Donate $30000 to her… Then talk to her in the shop to get *Occa
     Berry.*
-
 -   Give her 5 Occa Berries after either farming them or using the stash
     we bought earlier. You'll get a *Passho Berry.* Either farm four
     more or put off this quest until we get our next department store
     stamp, when we'll be able to buy more.
-
 -   Talk to ICSW again, then head to the berry store downstairs.
-
 -   Re-enter the ice cream shop. Then, enter the restaurant next door.
     After exiting, head to Terajuma Shore.
-
 -   On the west end by the lighthouse, talk to the grunt. After getting
     paid off, return to the restaurant.
-
 -   Then, talk to the officer downstairs.
-
 -   Talk to ICSW again, then talk to Aya in the lab center.
-
 -   Return to the help center to get $25840 and MegaStone
     *Altarianite.* (+1 Karma).
 
 After doing all three quests, head over to Venam's gym to fight Aya.
 
 Wasteland Punk Aya (Corrosive Field)
-
 -   Lycanroc, Level 82. @ Telluric Seed.
 
     -   Rock Slide
@@ -14534,7 +14095,6 @@ Wasteland Punk Aya (Corrosive Field)
     -   Crunch
 
     -   Drill Run
-
 -   Nidoqueen, Level 80. @ Assault Vest.
 
     -   Sludge Wave
@@ -14544,7 +14104,6 @@ Wasteland Punk Aya (Corrosive Field)
     -   Blizzard
 
     -   Thunderbolt
-
 -   Venusaur, Level 81. @ Coba Berry.
 
     -   Giga Drain
@@ -14554,7 +14113,6 @@ Wasteland Punk Aya (Corrosive Field)
     -   Sleep Powder
 
     -   Hidden Power Fire
-
 -   Drapion, Level 82. @ Scope Lens.
 
     -   Night Slash
@@ -14564,7 +14122,6 @@ Wasteland Punk Aya (Corrosive Field)
     -   Aqua Tail
 
     -   Cross Poison
-
 -   Tentacruel, Level 80. @ Shuca Berry.
 
     -   Scald
@@ -14574,7 +14131,6 @@ Wasteland Punk Aya (Corrosive Field)
     -   Sludge Wave
 
     -   Muddy Water
-
 -   Dragalge, Level 83. @ Assault Vest.
 
     -   Sludge Wave
@@ -14715,7 +14271,6 @@ As soon as you get control, head over to the spot on the left side of
 the arena for a battle with the best character in the game.
 
 Pseudo Sensei Texen (Forest Field)
-
 -   Dodrio, Level 71. @ Power Herb.
 
     -   Sky Attack
@@ -14725,7 +14280,6 @@ Pseudo Sensei Texen (Forest Field)
     -   Brave Bird
 
     -   Stomping Tantrum
-
 -   Swampert, Level 70. @ Rindo Berry.
 
     -   Ice Punch
@@ -14735,7 +14289,6 @@ Pseudo Sensei Texen (Forest Field)
     -   Rock Slide
 
     -   Earthquake
-
 -   Muk, Level 70. @ Assault Vest.
 
     -   Shadow Sneak
@@ -14745,7 +14298,6 @@ Pseudo Sensei Texen (Forest Field)
     -   Ice Punch
 
     -   Thunderpunch
-
 -   Darmanitan, Level 71. @ Choice Scarf.
 
     -   U-Turn
@@ -14755,7 +14307,6 @@ Pseudo Sensei Texen (Forest Field)
     -   Flare Blitz
 
     -   Gale Strike
-
 -   Chesnaught, Level 72. @ Coba Berry.
 
     -   Drain Punch
@@ -14765,7 +14316,6 @@ Pseudo Sensei Texen (Forest Field)
     -   Spiky Shield
 
     -   Rock Tomb
-
 -   Infernape, Level 73. @ Life Orb.
 
     -   Flare Blitz
@@ -14860,7 +14410,6 @@ Upstairs, enter the open door and beat the grunt. You'll then regain
 control of Aelita, so head back to the power room at the bottom.
 
 Popstar Risa Raider (No Field)
-
 -   Tuff Puff, Level 90. @Air Balloon.
 
     -   Poison Jab
@@ -14882,24 +14431,18 @@ Once you enter, you'll fall to the abandoned depths!
 Once you're in the depths, heal with Audino, then talk to the crew and
 learn you can switch characters by pressing the A key. To progress in
 this area, I recommend this order:
-
 -   As MC, go up and battle the grunt. Follow the path forward to the
     hole.
-
 -   As Ren, head right, then fly up and over the gap. Each gap is
     distinguished by an obvious indent in the floor. Follow this path to
     the second gap, then to the third. Head over to the left to the gap
     you can't cross.
-
 -   As Aelita, push the boulder into the hole, then cross the gap to the
     right. Follow the path to the next gap and attempt to cross.
-
 -   As Ren, approach the gap and boost Aelita across. Then, navigate him
     all the way right to the stairs.
-
 -   As Aelita, head to the right, dropping the second boulder. Navigate
     her to the stairs to the right.
-
 -   AS MC, follow the path right, beating the grunts. Rendezvous with
     the crew!
 
@@ -14939,7 +14482,6 @@ basement to click the lever. Save/heal and approach the top of the Zone
 Zero area.
 
 Rogue Psychic Lorna (Psychic Terrain)
-
 -   Vivillon, Level 82. @ Focus Sash.
 
     -   Rage Powder
@@ -14949,7 +14491,6 @@ Rogue Psychic Lorna (Psychic Terrain)
     -   Sleep Powder
 
     -   Bug Buzz
-
 -   Aromatisse, Level 82. @ Sitrus Berry.
 
     -   Trick Room
@@ -14959,7 +14500,6 @@ Rogue Psychic Lorna (Psychic Terrain)
     -   Moonblast
 
     -   Light Screen
-
 -   Darmanitan, Level 83. @ Darmanitan Crest.
 
     -   Heat Wave
@@ -14969,7 +14509,6 @@ Rogue Psychic Lorna (Psychic Terrain)
     -   Will-O-Wisp
 
     -   Focus Blast
-
 -   Fused Solrock, Level 84. @ Life Orb.
 
     -   Zen Headbutt
@@ -14979,7 +14518,6 @@ Rogue Psychic Lorna (Psychic Terrain)
     -   Solar Flare
 
     -   Will-O-Wisp
-
 -   Stonjourner, Level 83. @ Assault Vest.
 
     -   Rock Slide
@@ -14989,7 +14527,6 @@ Rogue Psychic Lorna (Psychic Terrain)
     -   Heavy Slam
 
     -   Body Press
-
 -   Aevian Lapras, Level 83. @ Weakness Policy.
 
     -   Hypnosis
@@ -15033,7 +14570,6 @@ After a few cutscenes, you'll get to play as Melia. All you must do is
 follow the path through this area but be prepared for a battle!
 
 League Scout Amanda (Factory Field)
-
 -   Incineroar, Level 83. @ Assault Vest.
 
     -   Flare Blitz
@@ -15043,7 +14579,6 @@ League Scout Amanda (Factory Field)
     -   Darkest Lariat
 
     -   Thunderpunch
-
 -   Bronzong, Level 83. @ Amplified Rock.
 
     -   Rock Slide
@@ -15053,7 +14588,6 @@ League Scout Amanda (Factory Field)
     -   Psywave
 
     -   Trick Room
-
 -   Torkoal, Level 82. @ Heat Rock.
 
     -   Eruption
@@ -15063,7 +14597,6 @@ League Scout Amanda (Factory Field)
     -   Earth Power
 
     -   Solarbeam
-
 -   Rhyperior, Level 81. @ Rindo Berry.
 
     -   Megahorn
@@ -15073,7 +14606,6 @@ League Scout Amanda (Factory Field)
     -   Drill Run
 
     -   Thunderpunch
-
 -   Hatterene, Level 85. @ Life Orb.
 
     -   Psychic
@@ -15083,7 +14615,6 @@ League Scout Amanda (Factory Field)
     -   Moonblast
 
     -   Trick Room
-
 -   Druddigon, Level 84. @ Druddigon Crest.
 
     -   Dragon Claw
@@ -15128,7 +14659,6 @@ If you grabbed the Weird Diary in the past, now is another chance to use
 it!
 
 Dimensional Rift Hippowdon (Desert Field)
-
 -   Hippowdon, Level 85. @ Black Sludge. Type: Ground / Poison. Ability:
     Accumulate. Stats: 254/168/180/182/142/47. 4 Shields.
 
@@ -15181,36 +14711,21 @@ of the lobby and head up.
 
 We get control of Aelita and Ren again. The following is the sequence
 that will get us through the first section:
-
 -   As Aelita, battle the goon and click the blue switch.
-
 -   As Ren, head down, then click the green switch.
-
 -   As Aelita, position yourself above the green bridge in the middle.
-
 -   As MC, head up and battle the grunt, then click the blue switch.
-
 -   As Ren, head back up and go all the way up and right.
-
 -   As Aelita, head up and stand on the red switch here.
-
 -   As Ren, pass the red bridge and beat the grunt. Wait in this area.
-
 -   As Aelita, step off the switch and position yourself down below the
     blue bridge.
-
 -   As Ren, step on the green switch.
-
 -   As MC, walk up past the green bridge as far as it will let you go.
-
 -   As Aelita, walk past the green switch and press the blue switch.
-
 -   As Ren, walk up and stand on the red switch.
-
 -   As Aelita, walk as far up as it will let you go.
-
 -   As Ren, head up as far as you can
-
 -   Return to control of the MC and head up for a battle!
 
 While the battle may seem tough, they're just slightly beefed-up
@@ -15219,37 +14734,26 @@ tower, but they aren't too tough. Every mech we will face has Steel as
 their primary type.
 
 Now, onto the second part of the puzzle:
-
 -   As MC, walk up and stand on the red switch.
-
 -   As Ren, head right and fight the defense mechanism. The outcome
     affects relationship points: Winning grants (+1 Allen), losing
     grants (-1 Allen).
-
 -   As Aelita, head up and fight the defense mechanism. The outcome
     affects relationship points: Winning grants (+1 Allen), losing
     grants (-1 Allen). Then, head all the way up to click the blue
     switch.
-
 -   As Ren, cross the first blue bridge and head all the way up to stand
     next to the blue switch in the upper right area. Make sure you're on
     the left side of the bridge that leads to the red switch.
-
 -   As Aelita, cross the blue bridge at the left, go left, down, left,
     and click the green switch.
-
 -   As MC, cross the green bridge and wait in this area.
-
 -   As Ren, click the blue switch, then cross to the right and stand on
     the red switch.
-
 -   As Aelita, go all the way to the right, across the red and purple
     bridges until you can't go further.
-
 -   As MC, head up past the red bridge and wait there.
-
 -   As Ren, head all the way to the left until you can't go further.
-
 -   Finally, as MC go up and rendezvous!
 
 Head up and follow the path… after another scene, it's time for another
@@ -15278,7 +14782,6 @@ Emerge at the Eclysia Skyview!
 ## Pyramid Point Badge
 
 Forgotten Prince ~~Ryland~~ Flora (Desert Field)
-
 -   Nidoqueen, Level 84. @ Shuca Berry.
 
     -   Toxic Spikes
@@ -15288,7 +14791,6 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
     -   Poison Jab
 
     -   Ice Beam
-
 -   Claydol, Level 85. @ Claydol Crest.
 
     -   Arenite Wall
@@ -15298,7 +14800,6 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
     -   Earth Power
 
     -   Hyper Beam
-
 -   Gliscor, Level 84. @ Telluric Seed.
 
     -   Desert's Mark
@@ -15308,7 +14809,6 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
     -   Dig
 
     -   Acrobatics
-
 -   Camerupt, Level 85. @ Cameruptite.
 
     -   Heat Wave
@@ -15318,7 +14818,6 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
     -   Hidden Power Ice
 
     -   Rock Slide
-
 -   Torterra, Level 87. @ Torterra Crest.
 
     -   Desert's Mark
@@ -15328,7 +14827,6 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
     -   Arenite Wall
 
     -   Dig
-
 -   Excadrill, Level 85. @ Life Orb.
 
     -   X-Scissor
@@ -15407,7 +14905,6 @@ After a few more cutscenes, you'll be in control of Adam and Delpha for
 another battle!
 
 ??? ??? (Desert Field)
-
 -   Beheeyem, Level 85. @ Beheeyem Crest.
 
     -   Psyshock
@@ -15417,7 +14914,6 @@ another battle!
     -   Signal Beam
 
     -   Recover
-
 -   Mismagius, Level 83. @ Telluric Seed.
 
     -   Shadow Ball
@@ -15427,7 +14923,6 @@ another battle!
     -   Power Gem
 
     -   Nasty Plot
-
 -   Porygon-Z, Level 84. @ Normalium-Z.
 
     -   Dark Pulse
@@ -15437,7 +14932,6 @@ another battle!
     -   Hidden Power (Fighting)
 
     -   Conversion
-
 -   Stantler, Level 83. @ Stantler Crest.
 
     -   Return
@@ -15447,7 +14941,6 @@ another battle!
     -   Sucker Punch
 
     -   Hypnosis
-
 -   Klinklang, Level 84. @ Air Balloon.
 
     -   Shift Gear
@@ -15457,7 +14950,6 @@ another battle!
     -   Return
 
     -   Secret Power
-
 -   Orbeetle, Level 83. @ Orbeetlenite.
 
     -   Sticky Web
@@ -15511,7 +15003,6 @@ Exit this building, get the right team ready and enter the one
 immediately to the right.
 
 Challenger Venus (Big Top Arena)
-
 -   Luxray, Level 83. @ Luxray Crest.
 
     -   Wild Charge
@@ -15521,7 +15012,6 @@ Challenger Venus (Big Top Arena)
     -   Superpower
 
     -   Iron Tail
-
 -   Centiskorch, Level 85. @ Life Orb.
 
     -   Fire Lash
@@ -15531,7 +15021,6 @@ Challenger Venus (Big Top Arena)
     -   Leech Life
 
     -   Will-o-Wisp
-
 -   Azumarill, Level 84. @ Iapapa Berry.
 
     -   Aqua Jet
@@ -15541,7 +15030,6 @@ Challenger Venus (Big Top Arena)
     -   Sing
 
     -   Play Rough
-
 -   Rillaboom, level 84. @ Synthetic Seed.
 
     -   Swords Dance
@@ -15551,7 +15039,6 @@ Challenger Venus (Big Top Arena)
     -   High Horsepower
 
     -   Drum Beating
-
 -   Steelix, Level 85. @ Assault Vest.
 
     -   Iron Tail
@@ -15561,7 +15048,6 @@ Challenger Venus (Big Top Arena)
     -   Strength
 
     -   Smack Down
-
 -   Ledian, Level 87. @ Ledian Crest.
 
     -   Mach Punch
@@ -15597,28 +15083,21 @@ building with the key.
 Once you enter, we're going to be doing a puzzle like RSE's Abandoned
 Ship backrooms. Feel free to solve this yourself, but the route is as
 follows:
-
 -   Enter the bottom left room, 1A. Interact with the upper right
     sparkle in this room, the one that is in the second tile from the
     right in the upper right corner, to grab a key.
-
 -   Exit, and enter the top right room, 1F. Interact with the upper left
     tile of the table to grab the next key.
-
 -   Exit and enter the top middle room, 1E. Study these sparkles, then
     head left and enter 1D. In the rightmost tile of the bed in this
     room you'll find another key!
-
 -   Exit, and go upstairs and enter the top right room, 2F. Study the
     sparkles, then go into 2E. In the bottom tile of the bed in the 2F
     side you'll find the next key.
-
 -   Exit and loop around to the bottom right door, 2C. Go around and
     exit through the 2B door.
-
 -   After falling, enter the bottom middle door, 1B. Grab the key two
     tiles above the rightmost rock.
-
 -   Using the door to the left to get back to the main area, head out of
     1A and go upstairs to the upper left room, 2D. Grab the key in the
     single sparkle, as well as:
@@ -15627,7 +15106,6 @@ ZCell 104: Lux Apartments
 
 <img src="/assets/media/rejuv/image108.png"
 style="width:6.66667in;height:4.96875in" />
-
 -   Reenter 2C, then go out the 2B door. Use the key on 1C in the bottom
     right door, then enter the ladder. Click the lever in this area and
     pick up *Rocky Helmet.*
@@ -15712,16 +15190,12 @@ Next, we're gonna explore some of Terajuma Island. First, fly to Teila
 Resort, and enter Aquamarine Cave. Make your way to the Aquamarine
 Chamber. Dive down in this area. We're going to need to activate a few
 panels in this area by floating over them, so follow this sequence:
-
 -   Step on the 1st panel immediately above the dive spot.
-
 -   Go straight down, then straight right. Activate the 2nd panel in
     this new area.
-
 -   Go up as much as possible, then left. In this area, go left from the
     up-most position such that you go up to the northmost area. Activate
     the 3rd panel.
-
 -   Go left, then down on the right tile of the two. In this small gap,
     head down and activate the fourth panel.
 
@@ -15759,7 +15233,6 @@ with for a battle.
 If you head up, you can talk to Challenger Neptune for a tough battle!
 
 Challenger Neptune (Underwater Field)
-
 -   Raichu, Level 85. @ Life Orb.
 
     -   Psychic
@@ -15769,7 +15242,6 @@ Challenger Neptune (Underwater Field)
     -   Surf
 
     -   Discharge
-
 -   Samurott, Level 84. @ Elemental Seed.
 
     -   Dive
@@ -15779,7 +15251,6 @@ Challenger Neptune (Underwater Field)
     -   Sacred Sword
 
     -   Swords Dance
-
 -   Whiscash, Level 84. @ Whiscash Crest.
 
     -   Dive
@@ -15789,7 +15260,6 @@ Challenger Neptune (Underwater Field)
     -   Stone Edge
 
     -   Earthquake
-
 -   Blastoise, Level 87. @ Blastoisinite.
 
     -   Water Pulse
@@ -15799,7 +15269,6 @@ Challenger Neptune (Underwater Field)
     -   Ice Beam
 
     -   Aura Sphere
-
 -   Dhelmise, Level 85. @ Assault Vest.
 
     -   Anchor Shot
@@ -15809,7 +15278,6 @@ Challenger Neptune (Underwater Field)
     -   Whirlpool
 
     -   Earthquake
-
 -   Cradily, Level 85. @ Leftovers.
 
     -   Curse
@@ -15861,7 +15329,6 @@ to the right. Activate this fifth panel (along with the four we found
 earlier), prepare for battle, and head up through the now-opened door.
 
 Temple Kingdra (Underwater Field)
-
 -   Seaking, Level 84. @ Elemental Seed.
 
     -   Waterfall
@@ -15871,7 +15338,6 @@ Temple Kingdra (Underwater Field)
     -   Whirlpool
 
     -   Soak
-
 -   Dragalge, Level 85. @ White Herb.
 
     -   Thunderbolt
@@ -15881,7 +15347,6 @@ Temple Kingdra (Underwater Field)
     -   Draco Meteor
 
     -   Scald
-
 -   Clawitzer, Level 85. @ Assault Vest.
 
     -   Water Pulse
@@ -15891,7 +15356,6 @@ Temple Kingdra (Underwater Field)
     -   Ice Beam
 
     -   Dark Pulse
-
 -   Poliwrath, Level 85. @ Waterium-Z.
 
     -   Earthquake
@@ -15901,7 +15365,6 @@ Temple Kingdra (Underwater Field)
     -   Submission
 
     -   Whirlpool
-
 -   Corsola, Level 84. @ Choice Band.
 
     -   Head Smash
@@ -15911,7 +15374,6 @@ Temple Kingdra (Underwater Field)
     -   Earthquake
 
     -   Icicle Spear
-
 -   Kingdra, Level 86. @ Scope Lens.
 
     -   Dive
@@ -16014,7 +15476,6 @@ head to the water in the village. Talk to the guy to add a yacht stop to
 the village, then talk to Goomink to embark.
 
 Kawopundunga (Underwater Field)
-
 -   Kawopundunga Wailord, Level 90. @ Leftovers. Stats:
     800/100/80/90/100/80. Ability: Water Veil. 3 Shields.
 
@@ -16167,7 +15628,6 @@ Head back out, but when you reach a fork, head left and go up the stairs
 here to get onto the area where Karen and Karrina are fighting.
 
 Gang Leader Karrina (Blessed Field)
-
 -   Musharna, Level 84. @ Amplified Rock.
 
     -   Gravity
@@ -16177,7 +15637,6 @@ Gang Leader Karrina (Blessed Field)
     -   Psyshock
 
     -   Hypnosis
-
 -   Granbull, Level 84. @ Babiri Berry.
 
     -   Play Rough
@@ -16187,7 +15646,6 @@ Gang Leader Karrina (Blessed Field)
     -   Fire Punch
 
     -   Earthquake
-
 -   Nidoking, Level 85. @ Life Orb.
 
     -   Blizzard
@@ -16197,7 +15655,6 @@ Gang Leader Karrina (Blessed Field)
     -   Earth Power
 
     -   Superpower
-
 -   Durant, Level 85. @ Rockium-Z.
 
     -   Iron Head
@@ -16207,7 +15664,6 @@ Gang Leader Karrina (Blessed Field)
     -   X-Scissor
 
     -   Return
-
 -   Alakazam, Level 85. @ Life Orb.
 
     -   Dazzling Gleam
@@ -16217,7 +15673,6 @@ Gang Leader Karrina (Blessed Field)
     -   Psyshock
 
     -   Zap Cannon
-
 -   Fearow, Level 86. @ Fearow Crest.
 
     -   Facade
@@ -16268,74 +15723,40 @@ will ask us for help with the aquarium. The Pokemon we need to submit
 are as follows. If you don't care about keeping any of them, submit the
 ones you already have, otherwise, here are where you can go get more (or
 breeding is always an option). There are 34.
-
 -   Mareanie. Breed the one we got earlier twice.
-
 -   **Toxapex**. Evolve one of the Mareanie.
-
 -   Mantyke. Can be caught all over Terajuma.
-
 -   Mantine. Can also be caught all over Terajuma.
-
 -   Staryu. Terajuma Shore at night, catch two.
-
 -   **Starmie**. Use a water stone from the Lost Camp.
-
 -   Carvanha. Also, all over Terajuma.
-
 -   Sharpedo. Also, all over Terajuma, will attack you in the sunken
     S.S. Oceania.
-
 -   Chinchou. Wetlands Laboratory and Terajuma Coral Reef have them.
-
 -   Lanturn. Terajuma Coral Reef has them, or you can evolve a Chinchou.
-
 -   Corsola. Akuwa Town Beach.
-
 -   Relicanth. Evergreen Trench, or Zorrialyn Labyrinth work.
-
 -   Remoraid. Old Rod in Amethyst Cave, for example.
-
 -   Octillery. Good Rod in Amethyst Cave, for example.
-
 -   Bruxish. River's End Good Rod, for example.
-
 -   Pyukumuku. Terajuma Shore.
-
 -   Clauncher. GDC Surfing/Fishing, for example.
-
 -   Clawitzer. Goldenwood Park Fishing works.
-
 -   Clamperl. Route 6 at night: get 3.
-
 -   **Huntail**. Evolve one Clamperl via DeepSeaTooth + Link Heart.
-
 -   **Gorebyss**. Evolve another via DeepSeaScale + Link Heart.
-
 -   Finneon. Fish in most bodies of water!
-
 -   Lumineon. Fish with Good Rod in most bodies of water!
-
 -   Shellder. Route 10 via Good Rod (catch two).
-
 -   **Cloyster**. Evolve a Shellder via a Water Stone from Lost Camp.
-
 -   Wishiwashi. Terajuma Pier Good Rod, e.g.
-
 -   Luvdisc. Akuwa Town Fishing.
-
 -   Alomomola. Also, Akuwa Town Fishing.
-
 -   Piplup. Spring of Preservation encounter.
-
 -   **Prinplup**. Evolve a Piplup.
-
 -   Empoleon. The “Emperor” from earlier or evolve a Piplup.
-
 -   Spheal. Route 9 Fishing is one example.
-
 -   Sealeo. Aquamarine Cave is a solid bet.
-
 -   Walrein. Evergreen Trench or evolve a Sealeo.
 
 For submitting at least 10, you'll get $60000 and the *Super Rod.* For
@@ -16798,7 +16219,6 @@ to go.
 Enter Isha's backroom prepared for battle.
 
 Doctor Isha (Factory Field)
-
 -   Galarian Weezing, Level 85. @ Black Sludge.
 
     -   Sludge Bomb
@@ -16808,7 +16228,6 @@ Doctor Isha (Factory Field)
     -   Strange Steam
 
     -   Flamethrower
-
 -   Vanilluxe, Level 84. @ Icy Rock.
 
     -   Flash Cannon
@@ -16818,7 +16237,6 @@ Doctor Isha (Factory Field)
     -   Blizzard
 
     -   Freeze Dry
-
 -   Arctozolt, Level 84. @ Wise Glasses.
 
     -   Blizzard
@@ -16828,7 +16246,6 @@ Doctor Isha (Factory Field)
     -   Surf
 
     -   Hail
-
 -   Magnezone, Level 85. @ Synthetic Seed.
 
     -   Discharge
@@ -16838,7 +16255,6 @@ Doctor Isha (Factory Field)
     -   Hidden Power Ice
 
     -   Signal Beam
-
 -   Dusknoir, Level 86. @ Dusknoir Crest.
 
     -   Shadow Punch
@@ -16848,7 +16264,6 @@ Doctor Isha (Factory Field)
     -   Earthquake
 
     -   Thunderpunch
-
 -   Dracovish, Level 84. @ Muscle Band.
 
     -   Fishious Rend
@@ -16858,7 +16273,6 @@ Doctor Isha (Factory Field)
     -   Psychic Fangs
 
     -   Ice Fang
-
 -   Giratina, Level 86. @ Griseous Orb. \[ONLY IF YOU DID NOT SAVE IT,
     REPLACES WEEZING\]
 
@@ -16956,7 +16370,6 @@ Memory.* Exit to the well in the backyard.
 Grab the Rift Notes for Code: Rembrence…
 
 Dimensional Rift Dufaux (Bewitched Field)
-
 -   Froslass (Dufaux Form), Level 90. @ Metronome. Ability: Temporal
     Shift. 4 Shields.
 
@@ -17191,7 +16604,6 @@ Melia.
 
 Relationship Point Choices:
 - Full-time? (Reina +1)
-
 - Part-time? (Neutral)
 
 # Chapter 15: Vague Clarity
@@ -17204,7 +16616,6 @@ In Sashila, head up when prompted. You'll be thrown into a battle as
 Alexandra.
 
 The Storm (Desert Field)
-
 -   STORM \| Wind, Level 80. @ Demon Stone. Type: Flying. Ability:
     Tempest. Stats: 450/70/150/140/150/20.
 
@@ -17239,7 +16650,6 @@ Relationship Point Choices:
 Afterwards, prepare yourself for a battle with Melia!
 
 Pokemon Trainer Melia (Fairy Tale Field)
-
 -   Hydreigon, Level 85. @ Focus Sash.
 
     -   Flamethrower
@@ -17249,7 +16659,6 @@ Pokemon Trainer Melia (Fairy Tale Field)
     -   Dragon Pulse
 
     -   Protect
-
 -   Azombarill (real ones know!), Level 84. @ Assault Vest.
 
     -   Play Rough
@@ -17259,7 +16668,6 @@ Pokemon Trainer Melia (Fairy Tale Field)
     -   Ice Punch
 
     -   Aqua Jet
-
 -   Mimikyu, Level 84. @ Magical Seed.
 
     -   Swords Dance
@@ -17269,7 +16677,6 @@ Pokemon Trainer Melia (Fairy Tale Field)
     -   Shadow Claw
 
     -   Shadow Sneak
-
 -   Snorlax, Level 84. @ Chople Berry.
 
     -   Return
@@ -17279,7 +16686,6 @@ Pokemon Trainer Melia (Fairy Tale Field)
     -   Heavy Slam
 
     -   Heat Crash
-
 -   Togekiss, Level 85. @ Babiri Berry.
 
     -   Aura Sphere
@@ -17289,7 +16695,6 @@ Pokemon Trainer Melia (Fairy Tale Field)
     -   Nasty Plot
 
     -   Draining Kiss
-
 -   Aegislash, Level 85. @ Magical Seed.
 
     -   King's Shield
@@ -17451,7 +16856,6 @@ down, across the outside area, left through the lower level left door,
 then left, up, and left into the Ballroom.
 
 Ice Soldiers Erin and Kanon (No Field)
-
 -   Absol, Level 90. @ NeverMeltIce.
 
     -   Ice Shard
@@ -17461,7 +16865,6 @@ Ice Soldiers Erin and Kanon (No Field)
     -   Blizzard
 
     -   Scald
-
 -   Salamence, Level 90. @ NeverMeltIce.
 
     -   Ice Shard
@@ -17488,7 +16891,6 @@ here, back in the dungeon, exit to the left. Back in the courtyard, head
 to the top door to confront Angie.
 
 Angie and Cera (Frozen Dimensional Rift Field)
-
 -   Mamoswine, Level 83. @ Elemental Seed.
 
     -   Ice Shard
@@ -17498,7 +16900,6 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Rock Slide
 
     -   Earthquake
-
 -   Beartic, Level 84. @ Focus Sash.
 
     -   Play Rough
@@ -17508,7 +16909,6 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Icicle Crash
 
     -   Rock Slide
-
 -   Walrein, Level 85. @ Assault Vest.
 
     -   Surf
@@ -17518,7 +16918,6 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Rock Slide
 
     -   Stomping Tantrum
-
 -   Rotom Freeze, Level 83. @ Chople Berry.
 
     -   Cold Truth
@@ -17528,7 +16927,6 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Will-o-Wisp
 
     -   Blizzard
-
 -   Morpeko, Level 83. @ Elemental Seed.
 
     -   Power Trip
@@ -17538,7 +16936,6 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Fake Out
 
     -   Seed Bomb
-
 -   Ursaring, Level 83. @ Life Orb
 
     -   Ice Punch
@@ -17572,7 +16969,6 @@ battle. You get to pick whether Ren or Venam is your partner, or perhaps
 you can do it alone if you want.
 
 Rogue Psychic Lorna (Blessed Field)
-
 -   Vivillon, Level 83. @ Focus Sash.
 
     -   Rage Powder
@@ -17582,7 +16978,6 @@ Rogue Psychic Lorna (Blessed Field)
     -   Sleep Powder
 
     -   Hurricane
-
 -   Aromatisse, Level 84. @ Sitrus Berry.
 
     -   Trick Room
@@ -17592,7 +16987,6 @@ Rogue Psychic Lorna (Blessed Field)
     -   Moonblast
 
     -   Light Screen
-
 -   Darmanitan, Level 85. @ Darmanitan Crest.
 
     -   Heat Wave
@@ -17602,7 +16996,6 @@ Rogue Psychic Lorna (Blessed Field)
     -   Will-o-Wisp
 
     -   Focus Blast
-
 -   Stonjourner, Level 84. @ Weakness Policy.
 
     -   Rock Slide
@@ -17612,7 +17005,6 @@ Rogue Psychic Lorna (Blessed Field)
     -   Heat Crash
 
     -   Protect
-
 -   Aevian Lapras, Level 85. @ Magical Seed.
 
     -   Blizzard
@@ -17622,7 +17014,6 @@ Rogue Psychic Lorna (Blessed Field)
     -   Psychic
 
     -   Nature Power
-
 -   Fused Solrock, Level 85. @ Life Orb.
 
     -   Rock Slide
@@ -17647,7 +17038,6 @@ and the other is near where we started. Reactivate the generator.
 Prepare to fight a mech Gyarados!
 
 Defense Mech Gyarados (Crystal Cavern)
-
 -   Defense Mech Gyarados, Level 90. @ Sitrus Berry. Ability: Liquid
     Voice. Type: Water/Steel. Stats: 300/110/150/100/150/51
 
@@ -17666,7 +17056,6 @@ Afterwards, return to the building and head upstairs. Head back out and
 go up when you're ready.
 
 Team Xen Madelis (Crystal Cavern)
-
 -   Cinccino, Level 84. @ Life Orb.
 
     -   Bullet Seed
@@ -17676,7 +17065,6 @@ Team Xen Madelis (Crystal Cavern)
     -   Tail Slap
 
     -   Wake Up Slap
-
 -   Crobat, Level 85. @ Flying Gem.
 
     -   Acrobatics
@@ -17686,7 +17074,6 @@ Team Xen Madelis (Crystal Cavern)
     -   Cross Poison
 
     -   U-Turn
-
 -   Tsareena, Level 84. @ Assault Vest.
 
     -   Trop Kick
@@ -17696,7 +17083,6 @@ Team Xen Madelis (Crystal Cavern)
     -   Power Whip
 
     -   Low Kick
-
 -   Florges, Level 85. @ Leftovers.
 
     -   Toxic
@@ -17706,7 +17092,6 @@ Team Xen Madelis (Crystal Cavern)
     -   Synthesis
 
     -   Giga Drain
-
 -   Salazzle, Level 85. @ Charcoal.
 
     -   Heat Wave
@@ -17716,7 +17101,6 @@ Team Xen Madelis (Crystal Cavern)
     -   Foul Play
 
     -   Fake Out
-
 -   Houndoom, Level 85. @ Houndoominite.
 
     -   Heat Wave
@@ -17747,7 +17131,6 @@ Souls.
 After a scene, head up.
 
 Team Xen Admin Cassandra (Blessed Field)
-
 -   Shadow Bisharp, Level 84. @ Focus Sash.
 
     -   Shadow Break
@@ -17759,7 +17142,6 @@ Team Xen Admin Cassandra (Blessed Field)
     -   Night Slash
 
     -   Brick Break
-
 -   Lycanroc, Level 86. @ Life Orb.
 
     -   Stone Edge
@@ -17769,7 +17151,6 @@ Team Xen Admin Cassandra (Blessed Field)
     -   Psychic Fangs
 
     -   Close Combat
-
 -   Serperior, Level 85. @ Flame Plate.
 
     -   Hidden Power Fire
@@ -17779,7 +17160,6 @@ Team Xen Admin Cassandra (Blessed Field)
     -   Leaf Storm
 
     -   Giga Drain
-
 -   Aevian Milotic, Level 85. @ Babiri Berry.
 
     -   Coil
@@ -17789,7 +17169,6 @@ Team Xen Admin Cassandra (Blessed Field)
     -   Play Rough
 
     -   Recover
-
 -   Cinccino, Level 85. @ Cinccino Crest.
 
     -   Return
@@ -17799,7 +17178,6 @@ Team Xen Admin Cassandra (Blessed Field)
     -   Retaliate
 
     -   Knock Off
-
 -   Mawile, Level 86. @ Mawilite.
 
     -   Play Rough
@@ -17882,7 +17260,6 @@ right. Then, find Aelita upstairs.
 Time for a 2v2 battle with Risa Raider downstairs.
 
 Pop Star Risa Raider (No Field)
-
 -   Tuff-Puff Jigglypuff, Level 90. @ Air Balloon.
 
     -   Sludge Bomb
@@ -17892,7 +17269,6 @@ Pop Star Risa Raider (No Field)
     -   Draco Meteor
 
     -   Flamethrower
-
 -   Delcatty, Level 85. @ Delcatty Crest.
 
     -   Fake Out
@@ -17937,7 +17313,6 @@ Downstairs talk to Ms. Erable, then to the student on the right with the
 yes to the person on the left and return to Ms. Erable.
 
 Axis High University Student Jean (No Field)
-
 -   Zekrom, Level 90. @ Lum Berry.
 
     -   Focus Blast
@@ -17968,7 +17343,6 @@ awarded 10 *Phantom Candy S!*
 Pick a partner or choose to go alone, time to fight Grigus.
 
 Axis High Student Random Student (No Field)
-
 -   Coffee Grigus, Level 87. @ Demon Stone.
 
     -   Sky Uppercut
@@ -17993,7 +17367,6 @@ Deagan! Talk to each nurse from behind, then head out once Deagan
 touches the sunflower.
 
 Doctor Isha (Factory Field)
-
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
 
     -   Strange Steam
@@ -18003,7 +17376,6 @@ Doctor Isha (Factory Field)
     -   Pain Split
 
     -   Flamethrower
-
 -   Arctozolt, Level 86. @ Quick Claw.
 
     -   Bolt Beak
@@ -18013,7 +17385,6 @@ Doctor Isha (Factory Field)
     -   Rock Slide
 
     -   Ice Beam
-
 -   Hydreigon, Level 87. @ Metronome.
 
     -   Dark Pulse
@@ -18030,7 +17401,6 @@ Once this part finishes up, interact with the box outside. Time for
 another battle!
 
 Masked Man ??? (Desert Field)
-
 -   Girafarig, Level 87. @ Twisted Spoon.
 
     -   Psychic
@@ -18040,7 +17410,6 @@ Masked Man ??? (Desert Field)
     -   Hyper Voice
 
     -   Energy Ball
-
 -   Komala, Level 87. @ Muscle Band.
 
     -   Sucker Punch
@@ -18050,7 +17419,6 @@ Masked Man ??? (Desert Field)
     -   Wood Hammer
 
     -   Thrash
-
 -   Comfey, Level 87. @ Big Root.
 
     -   Draining Kiss
@@ -18060,7 +17428,6 @@ Masked Man ??? (Desert Field)
     -   Leech Seed
 
     -   Calm Mind
-
 -   Hippowdon, Level 88. @ Leftovers.
 
     -   Earthquake
@@ -18095,7 +17462,6 @@ Up in the next room try to escape, then interact with the panel. Now we
 have a real team for a real fight!
 
 Pop Star Risa Raider (Factory Field)
-
 -   Reshiram, Level 90. @ Wise Glasses.
 
     -   Dragon Claw
@@ -18157,7 +17523,6 @@ Relationship Point Choices:
 - Um... I'm scared! (Saki -2, Amber -2)
 
 Team Xen Zetta (Factory Field)
-
 -   Minior, Level 84. @ Focus Sash.
 
     -   Shell Smash
@@ -18167,7 +17532,6 @@ Team Xen Zetta (Factory Field)
     -   Earthquake
 
     -   Explosion
-
 -   Hitmonlee, Level 84. @ Normal Gem.
 
     -   Fake Out
@@ -18177,7 +17541,6 @@ Team Xen Zetta (Factory Field)
     -   Throat Chop
 
     -   Rock Slide
-
 -   Weavile, Level 85. @ Life Orb.
 
     -   Night Slash
@@ -18187,7 +17550,6 @@ Team Xen Zetta (Factory Field)
     -   Ice Shard
 
     -   Poison Jab
-
 -   Absol, Level 85. @ Scope Lens.
 
     -   Sucker Punch
@@ -18197,7 +17559,6 @@ Team Xen Zetta (Factory Field)
     -   Play Rough
 
     -   Stone Edge
-
 -   Dragonite, Level 85. @ Weakness Policy.
 
     -   Dragon Dance
@@ -18207,7 +17568,6 @@ Team Xen Zetta (Factory Field)
     -   Dragon Claw
 
     -   Earth Power
-
 -   Typhlosion, Level 86. @ Typhlosion Crest.
 
     -   Eruption
@@ -18236,7 +17596,6 @@ the key. Use it back up from the elevator. Pick up the final key and
 reenter the main hallway.
 
 Doctor Isha (Factory Field)
-
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
 
     -   Strange Steam
@@ -18246,7 +17605,6 @@ Doctor Isha (Factory Field)
     -   Pain Split
 
     -   Flamethrower
-
 -   Arctozolt, Level 86. @ Quick Claw.
 
     -   Bolt Beak
@@ -18256,7 +17614,6 @@ Doctor Isha (Factory Field)
     -   Rock Slide
 
     -   Ice Beam
-
 -   Hydreigon, Level 87. @ Metronome.
 
     -   Dark Pulse
@@ -18278,7 +17635,6 @@ Make your way all the way back to the auditorium as soon as you are
 prompted to.
 
 Masked Individual ??? (No Field)
-
 -   Roserade, Level 84.
 
     -   Stun Spore
@@ -18288,7 +17644,6 @@ Masked Individual ??? (No Field)
     -   Sludge Bomb
 
     -   Shadow Ball
-
 -   Hippowdon, Level 85. @ Leftovers.
 
     -   Earthquake
@@ -18298,7 +17653,6 @@ Masked Individual ??? (No Field)
     -   Rock Tomb
 
     -   Slack Off
-
 -   Piloswine, Level 84. @ Eviolite.
 
     -   Protect
@@ -18345,7 +17699,6 @@ Relationship Point Choices:
 Take the teleporter then go up.
 
 Masked Individual (No Field)
-
 -   Genesect, Level 88. @ Douse Drive.
 
     -   Techno Blast (Water)
@@ -18385,7 +17738,6 @@ fight… your protagonist. Each protagonist has a different team, so find
 the one that applies to you.
 
 Pokemon Trainer Ana (Snowy Mountain Field)
-
 -   Leavanny, Level 85. @ Focus Sash.
 
     -   Sticky Web
@@ -18395,7 +17747,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Electroweb
 
     -   X-Scissor
-
 -   Dragapult, Level 85. @ Ghostium-Z.
 
     -   Dragon Darts
@@ -18405,7 +17756,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Dragon Dance
 
     -   Will-o-Wisp
-
 -   Slowbro, Level 86. @ Slowbronite.
 
     -   Calm Mind
@@ -18415,7 +17765,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Psychic
 
     -   Scald
-
 -   Porygon2, Level 85. @ Eviolite.
 
     -   Recover
@@ -18425,7 +17774,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Thunderbolt
 
     -   Foul Play
-
 -   Falinks, Level 85. @ Life Orb.
 
     -   No Retreat
@@ -18435,7 +17783,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Iron Head
 
     -   Close Combat
-
 -   Magnezone, Level 86. @ Custap Berry.
 
     -   Discharge
@@ -18447,7 +17794,6 @@ Pokemon Trainer Ana (Snowy Mountain Field)
     -   Thunder Wave
 
 Pokemon Trainer Aevis (Snowy Mountain Field)
-
 -   Gigalith, Level 85. @ Light Clay.
 
     -   Arenite Wall
@@ -18457,7 +17803,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Body Press
 
     -   Toxic
-
 -   Sylveon, Level 85. @ Assault Vest.
 
     -   Hyper Voice
@@ -18467,7 +17812,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Psyshock
 
     -   Hidden Power Ground
-
 -   Lucario, Level 86. @ Lucarionite.
 
     -   Meteor Mash
@@ -18477,7 +17821,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Extremespeed
 
     -   Crunch
-
 -   Huntail, Level 85. @ White Herb.
 
     -   Shell Smash
@@ -18487,7 +17830,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Ice Beam
 
     -   Crunch
-
 -   Lycanroc, Level 85. @ Life Orb.
 
     -   Stone Edge
@@ -18497,7 +17839,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Sucker Punch
 
     -   Drill Run
-
 -   Decidueye, Level 86. @ Decidium-Z.
 
     -   Spirit Shackle
@@ -18509,7 +17850,6 @@ Pokemon Trainer Aevis (Snowy Mountain Field)
     -   Brave Bird
 
 Pokemon Trainer Aevia (Snowy Mountain Field)
-
 -   Mudsdale, Level 85. @ Passho Berry.
 
     -   Stealth Rock
@@ -18519,7 +17859,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Roar
 
     -   Body Press
-
 -   Venomoth, Level 85. @ Focus Sash.
 
     -   Quiver Dance
@@ -18529,7 +17868,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Bug Buzz
 
     -   Sludge Bomb
-
 -   Lapras, Level 86. @ Laprasite.
 
     -   Dragon Dance
@@ -18539,7 +17877,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Ice Shard
 
     -   Drill Run
-
 -   Whimsicott, Level 85. @ Life Orb.
 
     -   Moonblast
@@ -18549,7 +17886,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Energy Ball
 
     -   Encore
-
 -   Noctowl, Level 85. @ Noctowl Crest.
 
     -   Psychic
@@ -18559,7 +17895,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Nasty Plot
 
     -   Roost
-
 -   Samurott, Level 86. @ Samurott Crest.
 
     -   Swords Dance
@@ -18571,7 +17906,6 @@ Pokemon Trainer Aevia (Snowy Mountain Field)
     -   Megahorn
 
 Pokemon Trainer Ariana (Snowy Mountain Field)
-
 -   Blaziken, Level 85. @ Focus Sash.
 
     -   Protect
@@ -18581,7 +17915,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Reversal
 
     -   Swords Dance
-
 -   Volcarona, Level 85. @ Heavy Duty Boots.
 
     -   Quiver Dance
@@ -18591,7 +17924,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Fire Blast
 
     -   Hurricane
-
 -   Altaria, Level 86. @ Altarianite.
 
     -   Dragon Dance
@@ -18601,7 +17933,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Cotton Guard
 
     -   Roost
-
 -   Meowstic, Level 85. @ Damp Rock.
 
     -   Rain Dance
@@ -18611,7 +17942,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Psychic
 
     -   Me First
-
 -   Kingdra, Level 85. @ Life Orb.
 
     -   Waterfall
@@ -18621,7 +17951,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Hydro Pump
 
     -   Flash Cannon
-
 -   Oricorio, Level 86. @ Oricorio Crest.
 
     -   Hurricane
@@ -18633,7 +17962,6 @@ Pokemon Trainer Ariana (Snowy Mountain Field)
     -   Calm Mind
 
 Pokemon Trainer Axel (Snowy Mountain Field)
-
 -   Klefki, Level 85. @ Mental Herb.
 
     -   Spikes
@@ -18643,7 +17971,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Magnet Rise
 
     -   Foul Play
-
 -   Meowstic, Level 85. @ Red Card.
 
     -   Calm Mind
@@ -18653,7 +17980,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Thunderbolt
 
     -   Psychic
-
 -   Grimmsnarl, Level 86. @ Grimmsnarlite.
 
     -   Bulk Up
@@ -18663,7 +17989,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Spirit Break
 
     -   Sleep Talk
-
 -   Darmanitan, Level 85. @ Life Orb.
 
     -   Flare Blitz
@@ -18673,7 +17998,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Superpower
 
     -   U-Turn
-
 -   Perrserker, Level 85. @ Assault Vest.
 
     -   Iron Head
@@ -18683,7 +18007,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Close Combat
 
     -   U-Turn
-
 -   Feraligatr, Level 86. @ Feraligatr Crest.
 
     -   Dragon Dance
@@ -18695,7 +18018,6 @@ Pokemon Trainer Axel (Snowy Mountain Field)
     -   Ice Fang
 
 Pokemon Trainer Alain (Snowy Mountain Field)
-
 -   Araquanid, Level 85. @ Focus Sash.
 
     -   Sticky Web
@@ -18705,7 +18027,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   Leech Life
 
     -   Toxic
-
 -   Aggron, Level 85. @ Weakness Policy.
 
     -   Heavy Slam
@@ -18715,7 +18036,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   Rock Polish
 
     -   Earthquake
-
 -   Kangaskhan, Level 86. @ Kangaskhanite.
 
     -   Power Up Punch
@@ -18725,7 +18045,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   Return
 
     -   Crunch
-
 -   Scrafty, Level 85. @ Coba Berry.
 
     -   Dragon Dance
@@ -18735,7 +18054,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   High Jump Kick
 
     -   Crunch
-
 -   Haxorus, Level 85. @ Life Orb.
 
     -   Dragon Dance
@@ -18745,7 +18063,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   Poison Jab
 
     -   Earthquake
-
 -   Pikachu-Belle, Level 86. @ Light Ball.
 
     -   Volt Tackle
@@ -18757,7 +18074,6 @@ Pokemon Trainer Alain (Snowy Mountain Field)
     -   Brick Break
 
 Pokemon Trainer Aero (Snowy Mountain Field)
-
 -   Luxray, Level 85. @ Luxray Crest.
 
     -   Crunch
@@ -18767,7 +18083,6 @@ Pokemon Trainer Aero (Snowy Mountain Field)
     -   Wild Charge
 
     -   Ice Fang
-
 -   Musharna, Level 85. @ Colbur Berry.
 
     -   Moonlight
@@ -18777,7 +18092,6 @@ Pokemon Trainer Aero (Snowy Mountain Field)
     -   Psychic
 
     -   Hidden Power Fire
-
 -   Salamence, Level 86. @ Salamencite.
 
     -   Earthquake
@@ -18787,7 +18101,6 @@ Pokemon Trainer Aero (Snowy Mountain Field)
     -   Dragon Dance
 
     -   Return
-
 -   Tyrantrum, Level 85. @ Focus Sash.
 
     -   Dragon Dance
@@ -18797,7 +18110,6 @@ Pokemon Trainer Aero (Snowy Mountain Field)
     -   Outrage
 
     -   Earthquake
-
 -   Medicham, Level 85. @ Life Orb.
 
     -   Bullet Punch
@@ -18807,7 +18119,6 @@ Pokemon Trainer Aero (Snowy Mountain Field)
     -   High Jump Kick
 
     -   Ice Punch
-
 -   Delphox, Level 86. @ Grassium-Z.
 
     -   Fire Blast
@@ -18848,7 +18159,6 @@ Relationship Point Choices (Aelita 2 Chosen):
 Anyways, time for a battle!
 
 ??? Clear (Factory Field)
-
 -   Stantler, Level 85. @ Stantler Crest.
 
     -   Return
@@ -18858,7 +18168,6 @@ Anyways, time for a battle!
     -   Sucker Punch
 
     -   Hypnosis
-
 -   Mismagius, Level 85. @ Life Orb.
 
     -   Shadow Ball
@@ -18868,7 +18177,6 @@ Anyways, time for a battle!
     -   Thunderbolt
 
     -   Will-o-Wisp
-
 -   Beheeyem, Level 86. @ Beheeyem Crest.
 
     -   Psyshock
@@ -18878,7 +18186,6 @@ Anyways, time for a battle!
     -   Flash Cannon
 
     -   Recover
-
 -   Porygon-Z, Level 85. @ Synthetic Seed.
 
     -   Dark Pulse
@@ -18888,7 +18195,6 @@ Anyways, time for a battle!
     -   Thunderbolt
 
     -   Tri Attack
-
 -   Klinklang, Level 85. @ Air Balloon.
 
     -   Shift Gear
@@ -18898,7 +18204,6 @@ Anyways, time for a battle!
     -   Return
 
     -   Wild Charge
-
 -   Naganadel, Level 87. @ Life Orb.
 
     -   Sludge Wave
@@ -18960,7 +18265,6 @@ Return to take the teleporter.
 Prepare yourself for a battle and head up.
 
 Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
-
 -   Aevian Chandelure, Level 84. @ Focus Sash.
 
     -   Dazzling Gleam
@@ -18970,7 +18274,6 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
     -   Thunderbolt
 
     -   Trick Room
-
 -   Corviknight, Level 86. @ Corviknite.
 
     -   Taunt
@@ -18980,7 +18283,6 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
     -   Body Press
 
     -   Iron Head
-
 -   Aurorus, Level 85. @ Magical Seed.
 
     -   Aurora Veil
@@ -18990,7 +18292,6 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
     -   Nature Power
 
     -   Earth Power
-
 -   Sirfetch'd, Level 86. @ Stick.
 
     -   Meteor Assault
@@ -19000,7 +18301,6 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
     -   Poison Jab
 
     -   Brick Break
-
 -   Samurott, Level 85. @ Samurott Crest.
 
     -   Sacred Sword
@@ -19010,7 +18310,6 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
     -   Night Slash
 
     -   Aqua Jet
-
 -   Aegislash, Level 87. @ Magical Seed.
 
     -   Flash Cannon
@@ -19046,18 +18345,13 @@ Relationship Point Choices:    
 Head up and follow the path to obtain the ZCrystal *Intercept-Z!*
 
 Puppet Master (Starlight Field)
-
 -   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
     Nightmares. Type: Dark/Psychic.
 
 Stats: 500/50/300/60/300/1. 4 Shields.
-
 -   Nightmare
-
 -   Bunraku Beatdown
-
 -   Spirit Break
-
 -   Dream Eater
 
 Equip the Intercept-Z to a Pokemon first and you'll have a much easier
@@ -19068,24 +18362,18 @@ If you use any weather, you'll change the field to nothing, which can be
 useful.
 
 Puppet Master (Starlight Field)
-
 -   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
     Nightmares. Type: Dark/Psychic.
 
 Stats: 500/1/80/80/1/1
-
 -   Nightmare
-
 -   Bunraku Beatdown
-
 -   Spirit Break
-
 -   Dream Eater
 
 Even easier than the first time. The Intercept-Z helps as before!
 
 Optimistic Guy Huey (Starlight Field)
-
 -   Kecleon, Level 81. @ Focus Sash.
 
     -   Knock Off
@@ -19095,7 +18383,6 @@ Optimistic Guy Huey (Starlight Field)
     -   Sucker Punch
 
     -   Shadow Sneak
-
 -   Gogoat, Level 82. @ Leftovers.
 
     -   Horn Leech
@@ -19105,7 +18392,6 @@ Optimistic Guy Huey (Starlight Field)
     -   Bounce
 
     -   Protect
-
 -   Glalie, Level 83. @ Iapapa Berry.
 
     -   Protect
@@ -19115,7 +18401,6 @@ Optimistic Guy Huey (Starlight Field)
     -   Frost Breath
 
     -   Double Team
-
 -   Palossand, Level 82. @ Sitrus Berry.
 
     -   Earth Power
@@ -19125,7 +18410,6 @@ Optimistic Guy Huey (Starlight Field)
     -   Hypnosis
 
     -   Shadow Ball
-
 -   Octillery, Level 83. @ Expert Belt.
 
     -   Water Spout
@@ -19135,7 +18419,6 @@ Optimistic Guy Huey (Starlight Field)
     -   Ice Beam
 
     -   Fire Blast
-
 -   Flareon, Level 84. @ Toxic Orb.
 
     -   Flare Blitz
@@ -19207,7 +18490,6 @@ and the bottom-right one North. You'll get an *Adamant Mint!*
 Use the key above.
 
 Xen Executive Geara (Haunted Field)
-
 -   Krookodile, Level 85. @ Darkinium-Z.
 
     -   Earthquake
@@ -19217,7 +18499,6 @@ Xen Executive Geara (Haunted Field)
     -   Darkest Lariat
 
     -   Stealth Rock
-
 -   Grimmsnarl, Level 85. @ Light Clay.
 
     -   Reflect
@@ -19227,7 +18508,6 @@ Xen Executive Geara (Haunted Field)
     -   Spirit Break
 
     -   Light Screen
-
 -   Chandelure, Level 86. @ Magical Seed.
 
     -   Shadow Ball
@@ -19237,7 +18517,6 @@ Xen Executive Geara (Haunted Field)
     -   Energy Ball
 
     -   Will-o-Wisp
-
 -   Aevian Parasect, Level 87. @ Life Orb.
 
     -   Phantom Force
@@ -19247,7 +18526,6 @@ Xen Executive Geara (Haunted Field)
     -   Sleep Powder
 
     -   Gunk Shot
-
 -   Clefable, Level 87. @ Magical Seed.
 
     -   Calm Mind
@@ -19257,7 +18535,6 @@ Xen Executive Geara (Haunted Field)
     -   Shadow Ball
 
     -   Softboiled
-
 -   Gengar, Level 87. @ Gengarite.
 
     -   Sludge Wave
@@ -19289,7 +18566,6 @@ the newly opened door to get a *Master Key.*
 Head into the gym door at the top and get ready for quite a battle.
 
 Gym Leader Saki (Glitch Field + Wonder Room)
-
 -   Aggron, Level 85. @ Synthetic Seed.
 
     -   Blizzard
@@ -19299,7 +18575,6 @@ Gym Leader Saki (Glitch Field + Wonder Room)
     -   Fire Blast
 
     -   Thunder
-
 -   Corviknight, Level 85. @ Occa Berry.
 
     -   Bulk Up
@@ -19309,7 +18584,6 @@ Gym Leader Saki (Glitch Field + Wonder Room)
     -   Roost
 
     -   Super U.M.D. Attack
-
 -   Bastiodon, Level 87. @ Bastiodon Crest.
 
     -   Blizzard
@@ -19319,7 +18593,6 @@ Gym Leader Saki (Glitch Field + Wonder Room)
     -   Super U.M.D. Attack
 
     -   Sleep Talk
-
 -   Bronzong, Level 86. @ Synthetic Field.
 
     -   Calm Mind
@@ -19329,7 +18602,6 @@ Gym Leader Saki (Glitch Field + Wonder Room)
     -   Sleep Talk
 
     -   Super U.M.D. Attack
-
 -   Duraludon, Level 89. @ Assault Vest.
 
     -   Outrage
@@ -19339,7 +18611,6 @@ Gym Leader Saki (Glitch Field + Wonder Room)
     -   Slash and Burn
 
     -   Super U.M.D. Attack
-
 -   Metagross, Level 89. @ Metagrossite.
 
     -   Super U.M.D. Attack
@@ -19724,8 +18995,7 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 
 \* Unless chosen as starter
 
-\*\* Unless randomly selected as mystery egg 
-
+\*\* Unless randomly selected as mystery egg
 - **Magikarp**
 - **Gyarados**
 - **Dratini**
@@ -20166,7 +19436,6 @@ style="width:0.4in;height:0.4in" /></td>
 
 This section is a quick lookup to help you combat enemy Pokemon with
 crests.
-
 -   Fearow: Grants innate Sniper ability, always crits when opponent has
     \<50% health.
 -   Hypno: Multiplies raw Special Attack by 1.5, multiplies Accuracy by
