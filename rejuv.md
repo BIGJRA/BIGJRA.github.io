@@ -10,23 +10,23 @@ title: |
 
 My site hasn't been completely rolled out yet: I could use some help to double check these things:
 
-Does every battle have a field listed (including No Field)? Should be yes.
+- Does every battle have a field listed (including No Field)? Should be yes.
 
-Are there any encounter tables with field listed? Should be no.
+- Are there any encounter tables with field listed? Should be no.
 
-Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
+- Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
 
-Are there any inconsistent formatting / syntax issues? Should be no.
+- Are there any inconsistent formatting / syntax issues? Should be no.
 
-Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
+- Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
 
-Are there moments of me being arrogant and disparaging? I started writing this as a teenager and
+- Are there moments of me being arrogant and disparaging? I started writing this as a teenager and
 I'm sure there are moments like this. I don't want to call a fight "easy" if there are players 
 that might struggle with it, for example. Let me know!
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
-While you're here, try checking out [my Youtube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)!
+While you're here, try checking out [my YouTube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)!
 I post various fan-game things from time to time.
 
 Do you have concerns/suggestions/etc? Message me on Discord with
