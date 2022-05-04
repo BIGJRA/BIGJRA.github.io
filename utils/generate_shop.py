@@ -1,11 +1,6 @@
-t = '''
-*Luxray Crest* 5000 Red Essences
+t = '''*Honey* $100
 
-*Druddigon Crest* 5000 Red Essences
-
-*Thievul Crest* 5000 Red Essences
-
-*Samurott Crest* 5000 Red Essences'''
+*Super Repel* $500'''
 
 lines = t.split('\n')
 items = []

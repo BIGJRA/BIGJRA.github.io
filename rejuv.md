@@ -9094,8 +9094,9 @@ chapter.
 
 Make sure you're ready to not come back for little while. Talk to Melia
 in the train station in southwest West Gearen.
--   If you have at least 8 Points with Venam, you'll get (Venam +3
-    Relationship Points). You'll be given a *Soda Pop.*
+
+If you have at least 8 Points with Venam, you'll get (Venam +3
+Relationship Points). You'll be given a *Soda Pop.*
 
 Relationship Point Choices:
 - Thank you! (Venam +1)
@@ -9120,37 +9121,30 @@ In the hallway to your car's right, a girl will tutor you:
 
 Grand Express Tutor
 
-Hyper Voice 4 Red Shards
+| Move      | Price         |
+|-----------|---------------|
+|Hyper Voice| 4 Red Shards  |
 
 Head two cars left.
 
 Grand Express Shop
 
-*Poke Ball* $200
+|Item          |Price|
+|--------------|-----|
+|*Poke Ball*   |$200 |
+|*Great Ball*  |$600 |
+|*Ultra Ball*  |$1200|
+|*Super Potion*|$700 |
+|*Hyper Potion*|$1200|
+|*Antidote*    |$100 |
+|*Ice Heal*    |$250 |
+|*GourmetTreat*|$2000|
+|*Repel*       |$350 |
+|*Super Repel* |$500 |
+|*Max Repel*   |$700 |
 
-*Great Ball* $600
-
-*Ultra Ball* $1200
-
-*Super Potion* $700
-
-*Hyper Potion* $1200
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $2000
-
-*Repel* $350
-
-*Super Repel* $500
-
-*Max Repel* $700
-
-Head into the dining car, where the mart is. Talk to Venam, and
-“April,” now Krystal. Then, head out and back to your room. Sleep for
-the night.
+Head into the dining car. Talk to Venam and Krystal. Then, head out 
+and back to your room. Sleep for the night.
 
 Head all the way left and talk to Krystal. Head two cars right and
 you'll be able to exit onto Route 7.
@@ -9165,19 +9159,18 @@ get 5 *Exp. Candy L.*
 
 Route 7
 
-|                   |          |                       |          |                     |          |
-|-------------------|----------|-----------------------|----------|---------------------|----------|
-| Grass: Day | % | Grass: Morning | % | Grass: Night | % |
-| Wooloo            | 30       | Skiploom              | 20       | Stantler            | 41       |
-| **Tauros**        | 20       | Taillow               | 20       | **Ledian**          | 20       |
-| Dubwool           | 20       | **Skiddo**            | 20       | Houndour            | 20       |
-| Ponyta            | 10       | **Rapidash**          | 19       | Noctowl             | 9        |
-| **Mudbray**       | 5        | Ponyta                | 10       | Ariados             | 6        |
-| **Rapidash**      | 5        | Swellow               | 5        | Audino              | 4        |
-| **Bouffalant**    | 4        | **Jumpluff**          | 4        |                     |          |
-| Audino            | 4        | Audino                | 1        |                     |          |
-| **Mudsdale**      | 1        | **Gogoat**            | 1        |                     |          |
-| **Gogoat**        | 1        |                       |          |                     |          |
+| Grass: Morning  | %   | Grass: Day      | %    | Grass: Night |   %|
+|-----------------|-----|-----------------|------|--------------|----|
+| Skiploom        | 20  | Wooloo          | 30   | Stantler     | 41 |
+| Taillow         | 20  | **Tauros**      | 20   | **Ledian**   | 20 |
+| **Skiddo**      | 20  | Dubwool         | 20   | Houndour     | 20 |
+| **Rapidash**    | 19  | Ponyta          | 10   | Noctowl      | 9  |
+| Ponyta          | 10  | **Mudbray**     | 5    | Ariados      | 6  |
+| Swellow         | 5   | **Rapidash**    | 5    | Audino       | 4  |
+| **Jumpluff**    | 4   | **Bouffalant**  | 4    |              |    |
+| Audino          | 1   | Audino          | 4    |              |    |
+| **Gogoat**      | 1   | **Mudsdale**    | 1    |              |    |
+|                 |     | **Gogoat**      | 1    |              |    |
 
 Also, you can fight stationary Stantler (Night) and **Sawsbuck (Day)**
 here.
@@ -9226,21 +9219,24 @@ each Inkay, but it should be easy enough.
 
 That's all we can do up here. Head west into the Honec Woods.
 
-Honec Woods (Swamp Field / Murkwater Surface)
+Honec Woods
 
-|               |          |                 |          |                    |          |
+| Grass         | %        | Water           | %        | Honey Trees        | %        |
 |---------------|----------|-----------------|----------|--------------------|----------|
-| Grass  | % | Water    | % | Honey Trees | % |
 | Carnivine     | 24       | Tympole         | 60       | Burmy              | 70       |
 | Combee        | 20       | Wooper          | 30       | Combee             | 24       |
 | Stunfisk      | 15       | Palpitoad       | 5        | Aipom              | 4        |
 | Shelmet       | 10       | Quagsire        | 4        | Forretress         | 2        |
 | Karrablast    | 10       | Seismitoad      | 1        |                    |          |
-| Charjabug     | 10       | Old Rod  |          |                    |          |
-| Venonat       | 5        | Goldeen         | 100      |                    |          |
-| **Venomoth**  | 4        | Good Rod |          |                    |          |
-| **Blipbug**   | 1        | Remoraid        | 100      |                    |          |
+| Charjabug     | 10       |                 |          |                    |          |
+| Venonat       | 5        |                 |          |                    |          |
+| **Venomoth**  | 4        |                 |          |                    |          |
+| **Blipbug**   | 1        |                 |          |                    |          |
 | **Vespiquen** | 1        |                 |          |                    |          |
+
+|Old Rod   | %    | Good Rod   | %    |
+|----------|------|------------|------|
+|Goldeen   | 100  | Remoraid   | 100  |
 
 Surf to the left. Find a hidden *Poison Gem, Tiny Mushroom, Cleanse Tag,
 Leaf Stone* in this area. Surfing one tile to the right at the bottom,
@@ -9254,25 +9250,20 @@ but it only works once a day. Pick up the hidden *Aspear Berry* here.
 
 Head back to Yui's Ranch. You'll get 3 *Cherish Balls!* (+1 Karma)
 
-Now, the shop inside is in business:
+Now, the shop inside is in business during the morning and day:
 
-Yui's Ranch Shop (Not open at night)
+Yui's Ranch Shop
 
-*Ultra Ball* $1200
-
-*Hyper Potion* $1200
-
-*GourmetTreat* $1500
-
-*Super Repel* $500
-
-*Max Repel* $700
-
-*Escape Rope* $550
-
-*Honey* $100
-
-*Moomoo Milk* $500
+|Item          |Price|
+|--------------|-----|
+|*Ultra Ball*  |$1200|
+|*Hyper Potion*|$1200|
+|*GourmetTreat*|$1500|
+|*Super Repel* |$500 |
+|*Max Repel*   |$700 |
+|*Escape Rope* |$550 |
+|*Honey*       |$100 |
+|*Moomoo Milk* |$500 |
 
 Next, reenter the woods and exit out the south to enter a new map of
 Route 7.
@@ -9286,9 +9277,10 @@ Pick the 3 *Persim Berries* here. Enter the house here.
 
 Route 7 Shop
 
-*Honey* $100
-
-*Super Repel* $500
+|Item         |Price|
+|-------------|-----|
+|*Honey*      |$100 |
+|*Super Repel*|$500 |
 
 Then, head down a map. There are wild **Dodrio** here during the day.
 Hidden on this map are *Red Shard, Yellow Shard, Max Potion, Blue Shard,
@@ -9311,28 +9303,25 @@ Enter the Darchlight Woods to the west.
 
 ## Darchlight Woods
 
-Darchlight Woods (Bewitched Field)
+Darchlight Woods
 
-|                       |          |                       |          |                     |          |
-|-----------------------|----------|-----------------------|----------|---------------------|----------|
-| Grass: Morning | % | Grass: Day     | % | Grass: Night | % |
-| Morelull              | 30       | **Ponyta (Galarian)** | 25       | **Murkrow**         | 39       |
-| **Ponyta (Galarian)** | 25       | Shiinotic             | 24       | Shiinotic           | 21       |
-| **Skuntank**          | 20       | **Skuntank**          | 20       | **Skuntank**        | 20       |
-| Foongus               | 10       | Foongus               | 20       | Amoonguss           | 16       |
-| Vullaby               | 9        | Vullaby               | 5        | Shiftry             | 4        |
-| Shiinotic             | 4        | Shiftry               | 4        |                     |          |
-| **Hatenna**           | 2        | **Hatenna**           | 2        |                     |          |
+| Grass: Morning        | %  | Grass: Day            | %   | Grass: Night | %  |
+|-----------------------|----|-----------------------|-----|--------------|----|
+| Morelull              | 30 | **Ponyta (Galarian)** | 25  | **Murkrow**  | 39 |
+| **Ponyta (Galarian)** | 25 | Shiinotic             | 24  | Shiinotic    | 21 |
+| **Skuntank**          | 20 | **Skuntank**          | 20  | **Skuntank** | 20 |
+| Foongus               | 10 | Foongus               | 20  | Amoonguss    | 16 |
+| Vullaby               | 9  | Vullaby               | 5   | Shiftry      | 4  |
+| Shiinotic             | 4  | Shiftry               | 4   |              |    |
+| **Hatenna**           | 2  | **Hatenna**           | 2   |              |    |
 
-|                 |          |              |          |
-|-----------------|----------|--------------|----------|
-| Old Rod  | % | Water | % |
-| Finneon         | 70       | Finneon      | 90       |
-| Basculin        | 30       | Quagsire     | 5        |
-| Good Rod |          | Lumineon     | 4        |
-| Basculin        | 60       | **Marill**   | 1        |
-| Lumineon        | 20       |              |          |
-| Chinchou        | 20       |              |          |
+| Water        | %        | Old Rod         | %        | Good Rod     | %   |
+|--------------|----------|-----------------|----------|--------------|-----|
+| Finneon      | 90       | Finneon         | 70       | Basculin     | 60  |
+| Quagsire     | 5        | Basculin        | 30       | Lumineon     | 20  |
+| Lumineon     | 4        |                 |          | Chinchou     | 20  |
+| **Marill**   | 1        |                 |          |              |     |
+
 
 There are also wild Parasect during the day, Amoongus at night, and
 **Impidimp** wandering around the woods.
@@ -9358,16 +9347,18 @@ Meadow.
 
 Sensu Meadow
 
-|                      |          |                 |          |
-|----------------------|----------|-----------------|----------|
-| Grass         | % | Old Rod  | % |
-| **Oricorio (Sensu)** | 98       | Finneon         | 70       |
-| **Meditite**         | 2        | Basculin        | 30       |
-| Water         |          | Good Rod |          |
-| Finneon              | 90       | Basculin        | 60       |
-| Quagsire             | 5        | Lumineon        | 20       |
-| Lumineon             | 4        | Chinchou        | 20       |
-| Marill               | 1        |                 |          |
+| Grass                | %   | Water     | %   |
+|----------------------|-----|-----------|-----|
+| **Oricorio (Sensu)** | 98  | Finneon   | 90  |
+| **Meditite**         | 2   | Quagsire  | 5   |
+|                      |     | Lumineon  | 4   |
+|                      |     | Marill    | 1   |
+
+| Old Rod     | %  | Good Rod  | %    |
+|-------------|----|-----------|------|
+| Finneon     | 70 | Basculin  | 60   |
+| Basculin    | 30 | Lumineon  | 20   |
+|             |    | Chinchou  | 20   |
 
 As in the other meadows, you can find infinite *Purple Nectar* here. We
 can't explore much here yet, but we'll be back. Head back to the main
@@ -9384,14 +9375,13 @@ also hidden in the water on this map.
 
 Azure Shore
 
-|                |          |                 |          |
-|----------------|----------|-----------------|----------|
-| Water   | % | Old Rod  | % |
-| Wooper         | 60       | Goldeen         | 70       |
-| Slowpoke       | 30       | Chinchou        | 30       |
-| Quagsire       | 5        | Good Rod |          |
-| **Lanturn**    | 4        | Remoraid        | 100      |
-| Marill         | 1        |                 |          |
+| Water          | %   | Old Rod   | %    |Good Rod |      |
+|----------------|-----|-----------|------|---------|------|
+| Wooper         | 60  | Goldeen   | 70   |Remoraid | 100  |
+| Slowpoke       | 30  | Chinchou  | 30   |         |      |
+| Quagsire       | 5   |           |      |         |      |
+| **Lanturn**    | 4   |           |      |         |      |
+| Marill         | 1   |           |      |         |      |
 
 Talk to the ranger near Samurott and agree to help find Oshawott. If you
 come here during the morning, two of the Samurott will give you a *Rare
@@ -9407,30 +9397,24 @@ but head west onto Route 8.
 
 Route 8
 
-|                   |          |                       |          |                     |          |
-|-------------------|----------|-----------------------|----------|---------------------|----------|
-| Grass: Day | % | Grass: Morning | % | Grass: Night | % |
-| Wooloo            | 30       | Skiploom              | 20       | Stantler            | 41       |
-| Tauros            | 20       | Taillow               | 20       | Ledian              | 20       |
-| Dubwool           | 20       | Skiddo                | 20       | Houndour            | 20       |
-| Ponyta            | 10       | Rapidash              | 19       | Noctowl             | 9        |
-| Mudbray           | 5        | Ponyta                | 10       | Ariados             | 6        |
-| Rapidash          | 5        | Swellow               | 5        | Audino              | 4        |
-| Bouffalant        | 4        | Jumpluff              | 4        |                     |          |
-| Audino            | 4        | Audino                | 1        |                     |          |
-| Mudsdale          | 1        | Gogoat                | 1        |                     |          |
-| Gogoat            | 1        |                       |          |                     |          |
+| Grass: Morning | %   | Grass: Day  | % | Grass: Night  | %  |
+|----------------|-----|-------------|---|---------------|----|
+| Skiploom       | 20  | Wooloo      | 30| Stantler      | 41 |
+| Taillow        | 20  | Tauros      | 20| Ledian        | 20 |
+| Skiddo         | 20  | Dubwool     | 20| Houndour      | 20 |
+| Rapidash       | 19  | Ponyta      | 10| Noctowl       | 9  |
+| Ponyta         | 10  | Mudbray     | 5 | Ariados       | 6  |
+| Swellow        | 5   | Rapidash    | 5 | Audino        | 4  |
+| Jumpluff       | 4   | Bouffalant  | 4 |               |    |
+| Audino         | 1   | Audino      | 4 |               |    |
+| Gogoat         | 1   | Mudsdale    | 1 |               |    |
+|                |     | Gogoat      | 1 |               |    |
 
-|                 |          |
-|-----------------|----------|
-| Water    | % |
-| Wooper          | 90       |
-| Quagsire        | 9        |
-| Marill          | 1        |
-| Old Rod  |          |
-| Goldeen         | 100      |
-| Good Rod |          |
-| Remoraid        | 100      |
+| Water    | %   | Old Rod  | %   | Good Rod | %    |
+|----------|-----|----------|-----|----------|------|
+| Wooper   | 90  | Goldeen  | 100 | Remoraid | 100  |
+| Quagsire | 9   |          |     |          |      |
+| Marill   | 1   |          |     |          |      |
 
 Pick up the hidden *Red Shard, Soda Pop, Green Shard,* 2 *Blue Shards,*
 as well as *TM156 Air Slash* at the bottom.
@@ -9440,11 +9424,10 @@ leave after returning it, to get **Oshawott!** (+1 Karma)
 
 ## Darchlight Manor First Visit
 
-Darchlight Manor (Haunted Field)
+Darchlight Manor
 
-|               |          |
+| Cave          | %        |
 |---------------|----------|
-| Inside | % |
 | Duskull       | 30       |
 | Shuppet       | 30       |
 | Misdreavus    | 15       |
@@ -9484,17 +9467,16 @@ the top area.
 
 Darchlight Caves
 
-|              |          |
-|--------------|----------|
-| Cave  | % |
-| Bronzor      | 30       |
-| Graveler     | 20       |
-| Carbink      | 20       |
-| Sandslash    | 15       |
-| Wobbuffet    | 5        |
-| Dugtrio      | 4        |
-| **Bronzong** | 4        |
-| **Wynaut**   | 2        |
+| Cave         | %   |
+|--------------|-----|
+| Bronzor      | 30  |
+| Graveler     | 20  |
+| Carbink      | 20  |
+| Sandslash    | 15  |
+| Wobbuffet    | 5   |
+| Dugtrio      | 4   |
+| **Bronzong** | 4   |
+| **Wynaut**   | 2   |
 
 After the conversation, we'll have control in the caves. Grab the hidden
 *Yellow Shard, Blue Shard.*
@@ -9523,19 +9505,19 @@ your person and interact with all the reading materials to find a
 solution.
 
 Here's the solution:
--   Type in 4589758 into the password
--   Grab black shard ore and put it in the furnace
--   Red
--   Blue
--   Green
--   Red
--   Red
--   Remove the ore from the furnace
--   Blue
--   Purple
--   Gold
--   Then, talk to the thing on the left with the small red button to
-    make a *Darchlight Mirror!*
+1.   Type in 4589758 into the password.
+2.   Grab black shard ore and put it in the furnace.
+3.   Push the red button.
+4.   Push the blue button.
+5.   Push the green button.
+6.   Push the red button.
+7.   Push the red button again.
+8.   Remove the ore from the furnace.
+9.   Push the blue button.
+10.   Push the purple button.
+11.   Push the gold button.
+12.   Talk to the thing on the left with the small red button to 
+make a *Darchlight Mirror!*
 
 Cross the bridge to the right, and head up. Interact with the gem on the
 wall up above. Head into the room on the left and go down to get a
@@ -9594,99 +9576,99 @@ ready to battle. Florin battles Doubles and Flora singles.
 
 <table>
 <colgroup>
-<col style="width: 37%" />
-<col style="width: 62%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>Botanist Florin (Bewitched Field, Rain)</p>
+<td>Botanist Florin (Bewitched Field, Rain)
 <ul>
-<li><p>Ludicolo, Level 63. @ Wise Glasses.</p>
+<li>Ludicolo, Level 63. @ Wise Glasses.
 <ul>
-<li><p>Rain Dance</p></li>
-<li><p>Surf</p></li>
-<li><p>Ice Beam</p></li>
-<li><p>Giga Drain</p></li>
+<li>Rain Dance</li>
+<li>Surf</li>
+<li>Ice Beam</li>
+<li>Giga Drain</li>
 </ul></li>
-<li><p>Cradily, Level 64. @ Magical Seed.</p>
+<li>Cradily, Level 64. @ Magical Seed.
 <ul>
-<li><p>Rock Slide</p></li>
-<li><p>Uproot</p></li>
-<li><p>Recover</p></li>
-<li><p>Earth Power</p></li>
+<li>Rock Slide</li>
+<li>Uproot</li>
+<li>Recover</li>
+<li>Earth Power</li>
 </ul></li>
-<li><p>Leafeon, Level 64. @ Leafeon Crest.</p>
+<li>Leafeon, Level 64. @ Leafeon Crest.
 <ul>
-<li><p>Leaf Blade</p></li>
-<li><p>Grasswhistle</p></li>
-<li><p>Bite</p></li>
-<li><p>Return</p></li>
+<li>Leaf Blade</li>
+<li>Grasswhistle</li>
+<li>Bite</li>
+<li>Return</li>
 </ul></li>
-<li><p>Cherrim, Level 64. @ Magical Seed.</p>
+<li>Cherrim, Level 64. @ Magical Seed.
 <ul>
-<li><p>Nature Power</p></li>
-<li><p>Weather Ball</p></li>
-<li><p>Giga Drain</p></li>
-<li><p>Flower Shield</p></li>
+<li>Nature Power</li>
+<li>Weather Ball</li>
+<li>Giga Drain</li>
+<li>Flower Shield</li>
 </ul></li>
-<li><p>Breloom, Level 63. @ Focus Sash.</p>
+<li>Breloom, Level 63. @ Focus Sash.
 <ul>
-<li><p>Spore</p></li>
-<li><p>Mach Punch</p></li>
-<li><p>Rock Tomb</p></li>
-<li><p>Bullet Seed</p></li>
+<li>Spore</li>
+<li>Mach Punch</li>
+<li>Rock Tomb</li>
+<li>Bullet Seed</li>
 </ul></li>
-<li><p>Sceptile, Level 65. @ Sceptilite.</p>
+<li>Sceptile, Level 65. @ Sceptilite.
 <ul>
-<li><p>Giga Drain</p></li>
-<li><p>Dragon Pulse</p></li>
-<li><p>Grasswhistle</p></li>
-<li><p>Focus Blast</p></li>
+<li>Giga Drain</li>
+<li>Dragon Pulse</li>
+<li>Grasswhistle</li>
+<li>Focus Blast</li>
 </ul></li>
 </ul></td>
-<td><p>Botanist Flora (Bewitched Field, Rain)</p>
+<td>Botanist Flora (Bewitched Field, Rain)
 <ul>
-<li><p>Tsareena, Level 63. @ Assault Vest.</p>
+<li>Tsareena, Level 63. @ Assault Vest.
 <ul>
-<li><p>Play Rough</p></li>
-<li><p>Power Whip</p></li>
-<li><p>U-Turn</p></li>
-<li><p>Zen Headbutt</p></li>
+<li>Play Rough</li>
+<li>Power Whip</li>
+<li>U-Turn</li>
+<li>Zen Headbutt</li>
 </ul></li>
-<li><p>Ludicolo, Level 64. @ Damp Rock.</p>
+<li>Ludicolo, Level 64. @ Damp Rock.
 <ul>
-<li><p>Protect</p></li>
-<li><p>Surf</p></li>
-<li><p>Ice Beam</p></li>
-<li><p>Giga Drain</p></li>
+<li>Protect</li>
+<li>Surf</li>
+<li>Ice Beam</li>
+<li>Giga Drain</li>
 </ul></li>
-<li><p>Ferrothorn, Level 64. @ Magical Seed.</p>
+<li>Ferrothorn, Level 64. @ Magical Seed.
 <ul>
-<li><p>Gyro Ball</p></li>
-<li><p>Seed Bomb</p></li>
-<li><p>Curse</p></li>
-<li><p>Leech Seed</p></li>
+<li>Gyro Ball</li>
+<li>Seed Bomb</li>
+<li>Curse</li>
+<li>Leech Seed</li>
 </ul></li>
-<li><p>Roserade, Level 64. @ Coba Berry.</p>
+<li>Roserade, Level 64. @ Coba Berry.
 <ul>
-<li><p>Giga Drain</p></li>
-<li><p>Sleep Powder</p></li>
-<li><p>Nature Power</p></li>
-<li><p>Weather Ball</p></li>
+<li>Giga Drain</li>
+<li>Sleep Powder</li>
+<li>Nature Power</li>
+<li>Weather Ball</li>
 </ul></li>
-<li><p>Rotom-Cut, Level 63. @ Magical Seed.</p>
+<li>Rotom-Cut, Level 63. @ Magical Seed.
 <ul>
-<li><p>Will-O-Wisp</p></li>
-<li><p>Uproot</p></li>
-<li><p>Thunderbolt</p></li>
-<li><p>Protect</p></li>
+<li>Will-O-Wisp</li>
+<li>Uproot</li>
+<li>Thunderbolt</li>
+<li>Protect</li>
 </ul></li>
-<li><p>Venusaur, Level 65. @ Venusaurite.</p>
+<li>Venusaur, Level 65. @ Venusaurite.
 <ul>
-<li><p>Giga Drain</p></li>
-<li><p>Sludge Bomb</p></li>
-<li><p>Leech Seed</p></li>
-<li><p>Uproot</p></li>
+<li>Giga Drain</li>
+<li>Sludge Bomb</li>
+<li>Leech Seed</li>
+<li>Uproot</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -9707,8 +9689,8 @@ going for a fast offense somehow might be safer.
 
 There are lots of ways to win! Sunny Day changes the weather and the
 field to Rainbow, meaning Poison moves and Fire moves are particularly
-effective again. Alternatively, you can focus on a potentially Tailwind
-boosted Flying-type core, since only Ferrothorn, Rotom, and Cradily take
+effective again. Alternatively, you can focus on a Tailwind
+based Flying-type core, since only Ferrothorn, Rotom, and Cradily take
 neutral damage from them. One other strategy would be field manipulation
 via Pyukumuku's Purify, which turns the field to Forest and gives Bug
 moves a boost.
@@ -10371,80 +10353,80 @@ surprise gym battle!
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p>Puppet Master Magenta (Tag Battle -&gt;)</p>
+<td>Puppet Master Magenta (Tag Battle -&gt;)
 <ul>
-<li><p>Beheeyem, Level 68. @ Focus Sash.</p>
+<li>Beheeyem, Level 68. @ Focus Sash.
 <ul>
-<li><p>Dazzling Gleam</p></li>
-<li><p>Bunraku Beatdown</p></li>
-<li><p>Signal Beam</p></li>
-<li><p>Shadow Ball</p></li>
+<li>Dazzling Gleam</li>
+<li>Bunraku Beatdown</li>
+<li>Signal Beam</li>
+<li>Shadow Ball</li>
 </ul></li>
-<li><p>Slowking, Level 67. @ Magical Seed.</p>
+<li>Slowking, Level 67. @ Magical Seed.
 <ul>
-<li><p>Psyshock</p></li>
-<li><p>Calm Mind</p></li>
-<li><p>Blizzard</p></li>
-<li><p>Scald</p></li>
+<li>Psyshock</li>
+<li>Calm Mind</li>
+<li>Blizzard</li>
+<li>Scald</li>
 </ul></li>
-<li><p>Gardevoir, Level 68. @ Leftovers.</p>
+<li>Gardevoir, Level 68. @ Leftovers.
 <ul>
-<li><p>Bunraku Beatdown</p></li>
-<li><p>Hypnosis</p></li>
-<li><p>Dazzling Gleam</p></li>
-<li><p>Shadow Ball</p></li>
+<li>Bunraku Beatdown</li>
+<li>Hypnosis</li>
+<li>Dazzling Gleam</li>
+<li>Shadow Ball</li>
 </ul></li>
-<li><p>Gallade, Level 68. @ Assault Vest.</p>
+<li>Gallade, Level 68. @ Assault Vest.
 <ul>
-<li><p>Rock Slide</p></li>
-<li><p>Psycho Cut</p></li>
-<li><p>Ice Punch</p></li>
-<li><p>Drain Punch</p></li>
+<li>Rock Slide</li>
+<li>Psycho Cut</li>
+<li>Ice Punch</li>
+<li>Drain Punch</li>
 </ul></li>
-<li><p>Medicham, Level 69. @ Medichamite.</p>
+<li>Medicham, Level 69. @ Medichamite.
 <ul>
-<li><p>Signal Beam</p></li>
-<li><p>Focus Blast</p></li>
-<li><p>Bunraku Beatdown</p></li>
-<li><p>Shadow Ball</p></li>
+<li>Signal Beam</li>
+<li>Focus Blast</li>
+<li>Bunraku Beatdown</li>
+<li>Shadow Ball</li>
 </ul></li>
 </ul></td>
-<td><p>Puppet Master Neon (Psychic Terrain)</p>
+<td>Puppet Master Neon (Psychic Terrain)
 <ul>
-<li><p>Claydol, Level 68. @ Light Clay.</p>
+<li>Claydol, Level 68. @ Light Clay.
 <ul>
-<li><p>Light Screen</p></li>
-<li><p>Earth Power</p></li>
-<li><p>Reflect</p></li>
-<li><p>Bunraku Beatdown</p></li>
+<li>Light Screen</li>
+<li>Earth Power</li>
+<li>Reflect</li>
+<li>Bunraku Beatdown</li>
 </ul></li>
-<li><p>Xatu, Level 67. @ Leftovers.</p>
+<li>Xatu, Level 67. @ Leftovers.
 <ul>
-<li><p>Thunderwave</p></li>
-<li><p>Tailwind</p></li>
-<li><p>Bunraku Beatdown</p></li>
-<li><p>Dazzling Gleam</p></li>
+<li>Thunderwave</li>
+<li>Tailwind</li>
+<li>Bunraku Beatdown</li>
+<li>Dazzling Gleam</li>
 </ul></li>
-<li><p>Bronzong, Level 68. @ Iron Ball.</p>
+<li>Bronzong, Level 68. @ Iron Ball.
 <ul>
-<li><p>Gravity</p></li>
-<li><p>Gyro Ball</p></li>
-<li><p>Hypnosis</p></li>
-<li><p>Future Sight</p></li>
+<li>Gravity</li>
+<li>Gyro Ball</li>
+<li>Hypnosis</li>
+<li>Future Sight</li>
 </ul></li>
-<li><p>Slowbro, Level 69. @ Magical Seed.</p>
+<li>Slowbro, Level 69. @ Magical Seed.
 <ul>
-<li><p>Future Sight</p></li>
-<li><p>Scald</p></li>
-<li><p>Thunderwave</p></li>
-<li><p>Slack Off</p></li>
+<li>Future Sight</li>
+<li>Scald</li>
+<li>Thunderwave</li>
+<li>Slack Off</li>
 </ul></li>
-<li><p>Musharna, Level 70. @ Sitrus Berry.</p>
+<li>Musharna, Level 70. @ Sitrus Berry.
 <ul>
-<li><p>Bunraku Beatdown</p></li>
-<li><p>Hypnosis</p></li>
-<li><p>Moonlight</p></li>
-<li><p>Dazzling Gleam</p></li>
+<li>Bunraku Beatdown</li>
+<li>Hypnosis</li>
+<li>Moonlight</li>
+<li>Dazzling Gleam</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -10816,28 +10798,28 @@ can get for each:
 <td>Gourmet Bait</td>
 </tr>
 <tr class="even">
-<td><p>1% Wishiwashi</p>
-<p>10% <em>Heart Scale</em></p>
-<p>10% <em>Link Heart</em></p>
-<p>10% <em>HP Up</em></p>
-<p>10% <em>Lemonade</em></p>
-<p>10% <em>Super Potion</em></p>
-<p>10% <em>Honey</em></p>
-<p>39% <em>Poke Ball</em></p></td>
-<td><p>1% <strong>Horsea</strong></p>
-<p>10% <em>Heart Scale</em></p>
-<p>10% <em>Link Heart</em></p>
-<p>10% <em>Moon Stone</em></p>
-<p>10% <em>Max Revive</em></p>
-<p>10% <em>Ultra Potion</em></p>
-<p>10% <em>Fire Stone</em></p>
-<p>39% <em>Dusk Ball</em></p></td>
-<td><p>10% <em>Jaw Fossil</em></p>
-<p>12% <strong>Horsea</strong></p>
-<p>18% <em>Shiny Stone</em></p>
-<p>20% <em>Sail Fossil</em></p>
-<p>20% <em>Dawn Stone</em></p>
-<p>20% <em>Dusk Stone</em></p></td>
+<td>1% Wishiwashi
+10% <em>Heart Scale</em>
+10% <em>Link Heart</em>
+10% <em>HP Up</em>
+10% <em>Lemonade</em>
+10% <em>Super Potion</em>
+10% <em>Honey</em>
+39% <em>Poke Ball</em></td>
+<td>1% <strong>Horsea</strong>
+10% <em>Heart Scale</em>
+10% <em>Link Heart</em>
+10% <em>Moon Stone</em>
+10% <em>Max Revive</em>
+10% <em>Ultra Potion</em>
+10% <em>Fire Stone</em>
+39% <em>Dusk Ball</em></td>
+<td>10% <em>Jaw Fossil</em>
+12% <strong>Horsea</strong>
+18% <em>Shiny Stone</em>
+20% <em>Sail Fossil</em>
+20% <em>Dawn Stone</em>
+20% <em>Dusk Stone</em></td>
 </tr>
 </tbody>
 </table>
