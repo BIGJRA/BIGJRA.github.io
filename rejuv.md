@@ -100,6 +100,11 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#route-5" id="toc-route-5">Route 5</a>
     -   <a href="#dexoy-attack" id="toc-dexoy-attack">Dexoy Attack</a>
     -   <a href="#kakori-help-quests" id="toc-kakori-help-quests">Kakori Help Quests</a>
+        -   <a href="#hquest-13-clear-the-way" id="toc-hquest-13-clear-the-way">HQuest 13: Clear the Way!</a>
+        -   <a href="#hquest-14-bandit-at-large" id="toc-hquest-14-bandit-at-large">HQuest 14: Bandit at Large</a>
+        -   <a href="#hquest-15-building-bridges" id="toc-hquest-15-building-bridges">HQuest 15: Building Bridges</a>
+        -   <a href="#hquest-16-find-it" id="toc-hquest-16-find-it">HQuest 16: Find It!</a>    
+        -   <a href="#hquest-17-battle-me-again" id="toc-hquest-17-battle-me-again">HQuest 17: Battle Me Again!</a>    
     -   <a href="#secret-shore" id="toc-secret-shore">Secret Shore</a>
     -   <a href="#floria-island-surfing-and-side-quests" id="toc-floria-island-surfing-and-side-quests">Floria Island Surfing and Side Quests</a>
     -   <a href="#rivers-end-first-visit" id="toc-rivers-end-first-visit">River's End First Visit</a>
@@ -4698,7 +4703,7 @@ Once you go inside the ranger station, meet with the group to the right.
 Head back out, then go up at the first place you can. This map has a
 slightly different set of encounters to that we've already seen.
 
-Deep Terajuma Jungle West (Forest Field)
+Deep Terajuma Jungle West
 
 | Grass: Morning  | %  | Grass: Day  | %   | Grass: Night   | %    |
 |-----------------|----|-------------|-----|----------------|------|
@@ -4986,6 +4991,7 @@ Jeminra Woods: Area 5 (Bottom Right Labyrinth)
 | **Dwebble**    | 90   |
 | **Shuckle**    | 5    |
 | **Binacle**    | 5    |
+
 Get two Spinda - we will be trading one away later.
 
 You can also find: a *Rare Candy,* a *Reverse Candy, Hyper Potion,
@@ -5428,9 +5434,8 @@ We can also now access the special island in the Safari Zone:
 
 Jeminra Woods: Special Beach Area
 
-|                   |          |                 |          |
-|-------------------|----------|-----------------|----------|
 | Grass             | %        | Good Rod        | %        |
+|-------------------|----------|-----------------|----------|
 | Voltorb           | 30       | Barboach        | 60       |
 | Geodude           | 20       | **Luvdisc**     | 20       |
 | **Pikachu**       | 19       | **Alomomola**   | 20       |
@@ -5448,7 +5453,7 @@ We're now gonna go find Rorim B.
 Head back to Terajuma Jungle and enter the Hula Meadow. Rorim B will
 battle you!
 
-Dance Prodigy Rorim B.
+Dance Prodigy Rorim B (Forest Field)
 
 -   Oricorio (Pom-Pom), Level 42.
     -   Calm Mind
@@ -5952,7 +5957,7 @@ River's End
 
 Use your Itemfinder all around - you'll find *Elixir, Revive, Ability
 Capsule, Repel, Link Heart, HP Up, TinyMushroom, Green Shard, Yellow
-Shard, Blue Shard, PP Up, *and* Fresh Water.*
+Shard, Blue Shard, PP Up, and Fresh Water.*
 
 Surf up to the top, above the house, where the Golden Trees are. You'll
 find an **Electrike** here during the day, give it a GourmetTreat for a
@@ -6231,6 +6236,7 @@ style="width:6.66667in;height:4.98958in" />
 Down in the bottom floor, you'll find tutor.
 
 Kakori Gym Move Tutor
+
 | Move      | Price         |
 |-----------|---------------|
 |Giga Drain |3 Green Shards |
