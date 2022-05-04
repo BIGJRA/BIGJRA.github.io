@@ -15,7 +15,7 @@ I could use some help to double check these things:
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
-While you’re here, try checking out [my Youtube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)! 
+While you're here, try checking out [my Youtube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)! 
 I post various fan-game things from time to time. 
 
 Do you have concerns/suggestions/etc? Message me on Discord with 
@@ -62,7 +62,7 @@ cells, tutors, Pokemon Locations, and more!
         -   <a href="#hquest-10-trade-me" id="toc-hquest-10-trade-me">HQuest 10: Trade Me!</a>
         -   <a href="#hquest-11-fetch-an-item" id="toc-hquest-11-fetch-an-item">HQuest 11: Fetch an Item!</a>
         -   <a href="#hquest-12-battle-request-2" id="toc-hquest-12-battle-request-2">HQuest 12: Battle Request 2</a>
-    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge?</a></a>
+    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge?</a>
     -   <a href="#carotos-mountain" id="toc-carotos-mountain">Carotos Mountain</a>
     -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge</a>
 -   <a href="#chapter-3-tainted-light" id="toc-chapter-3-tainted-light">Chapter 3: Tainted Light</a>
@@ -102,7 +102,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#kakori-help-quests" id="toc-kakori-help-quests">Kakori Help Quests</a>
     -   <a href="#secret-shore" id="toc-secret-shore">Secret Shore</a>
     -   <a href="#floria-island-surfing-and-side-quests" id="toc-floria-island-surfing-and-side-quests">Floria Island Surfing and Side Quests</a>
-    -   <a href="#rivers-end-first-visit" id="toc-rivers-end-first-visit">River’s End First Visit</a>
+    -   <a href="#rivers-end-first-visit" id="toc-rivers-end-first-visit">River's End First Visit</a>
     -   <a href="#route-4-second-visit" id="toc-route-4-second-visit">Route 4 Second Visit</a>
     -   <a href="#route-11" id="toc-route-11">Route 11</a>
     -   <a href="#infested-badge" id="toc-infested-badge">Infested Badge</a>
@@ -111,7 +111,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#teila-resort-first-visit" id="toc-teila-resort-first-visit">Teila Resort First Visit</a>
     -   <a href="#aquamarine-cave-2nd-visit" id="toc-aquamarine-cave-2nd-visit">Aquamarine Cave 2nd Visit</a>
     -   <a href="#teila-resort-2nd-visit" id="toc-teila-resort-2nd-visit">Teila Resort 2nd Visit</a>
-    -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River’s End 2nd Visit -REnd2</a>
+    -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River's End 2nd Visit -REnd2</a>
     -   <a href="#frozen-over-kristiline-town" id="toc-frozen-over-kristiline-town">Frozen Over Kristiline Town</a>
     -   <a href="#tower-of-theolia" id="toc-tower-of-theolia">Tower of Theolia</a>
     -   <a href="#glacier-badge" id="toc-glacier-badge">Glacier Badge</a>
@@ -169,7 +169,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#district-of-hope" id="toc-district-of-hope">District of Hope</a>
     -   <a href="#aevium-past-2nd-visit" id="toc-aevium-past-2nd-visit">Aevium (Past) 2nd Visit</a>
     -   <a href="#aevium-alt-future" id="toc-aevium-alt-future">Aevium (Alt. Future)</a>
-    -   <a href="#aevium-past-2nd-visit-part-2" id="toc-aevium-past-2nd-visit-part-2">Aevium (Past) 2nd Visit Part 2</a></a>
+    -   <a href="#aevium-past-2nd-visit-part-2" id="toc-aevium-past-2nd-visit-part-2">Aevium (Past) 2nd Visit Part 2</a>
     -   <a href="#ana-quest-part-1" id="toc-ana-quest-part-1">ANA Quest Part 1</a>
     -   <a href="#classified-information-quest" id="toc-classified-information-quest">Classified Information Quest</a>
     -   <a href="#golden-wing-badge" id="toc-golden-wing-badge">Golden Wing Badge</a>
@@ -196,7 +196,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#neo-gearen-city--side-quests" id="toc-neo-gearen-city--side-quests">Neo Gearen City + Side Quests</a>
     -   <a href="#route-4-thirteen-badge-update" id="toc-route-4-thirteen-badge-update">Route 4 Thirteen Badge Update</a>
     -   <a href="#route-10-first-visit" id="toc-route-10-first-visit">Route 10 First Visit</a>
-    -   <a href="#nastasias-ship" id="toc-nastasias-ship">Nastasia’s Ship</a>
+    -   <a href="#nastasias-ship" id="toc-nastasias-ship">Nastasia's Ship</a>
     -   <a href="#zone-zero-pt-1" id="toc-zone-zero-pt-1">Zone Zero Pt. 1</a>
     -   <a href="#zone-zero-pt-2" id="toc-zone-zero-pt-2">Zone Zero Pt. 2</a>
     -   <a href="#eclysia-pyramid" id="toc-eclysia-pyramid">Eclysia Pyramid</a>
@@ -209,17 +209,17 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#aquarium-side-quest" id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest</a>
     -   <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">Ana Quest Part 3</a>
     -   <a href="#hospital-of-ruin-2nd-visit" id="toc-hospital-of-ruin-2nd-visit">Hospital of Ruin (2nd Visit)</a>
-    -   <a href="#narcissas-quest-final" id="toc-narcissas-quest-final">Narcissa’s Quest (Final)</a>
+    -   <a href="#narcissas-quest-final" id="toc-narcissas-quest-final">Narcissa's Quest (Final)</a>
     -   <a href="#department-store-and-deino" id="toc-department-store-and-deino">Department Store and Deino</a>
     -   <a href="#zygarde-10-form" id="toc-zygarde-10-form">Zygarde 10% Form</a>
 -   <a href="#chapter-15-vague-clarity" id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
     -   <a href="#league-administration-1st-visit" id="toc-league-administration-1st-visit">League Administration 1<sup>st</sup> Visit</a>
         -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01: Vs. Melia</a>
-        -   <a href="#day-03-aelitas-departure" id="toc-day-03-aelitas-departure">Day 03: Aelita’s Departure</a>
-        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08: MC’s Training </a>
-        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11: Aelita’s Return</a>
+        -   <a href="#day-03-aelitas-departure" id="toc-day-03-aelitas-departure">Day 03: Aelita's Departure</a>
+        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08: MC's Training </a>
+        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11: Aelita's Return</a>
         -   <a href="#day-15-melia-vs-erin" id="toc-day-15-melia-vs-erin">Day 15: Melia Vs. Erin</a>
-        -   <a href="#day-18-mcs-day-of-training-pt-2" id="toc-day-18-mcs-day-of-training-pt-2">Day 18: MC’s Day of Training, Pt. 2</a>
+        -   <a href="#day-18-mcs-day-of-training-pt-2" id="toc-day-18-mcs-day-of-training-pt-2">Day 18: MC's Day of Training, Pt. 2</a>
         -   <a href="#day-29-graduation" id="toc-day-29-graduation">Day 29: Graduation </a>
     -   <a href="#diamond-route" id="toc-diamond-route-diaroute1">Diamond Route</a>
     -   <a href="#pearl-route" id="toc-pearl-route">Pearl Route</a>
@@ -249,7 +249,7 @@ very story-focused game, so I recommend viewing it if it is your first
 time playing. If you do skip the prologue, jump ahead to the next
 section.
 
-As soon as you’re done reading the Zorua and Pangoro story, take control
+As soon as you're done reading the Zorua and Pangoro story, take control
 of Maria and head downstairs to talk to Mom. Afterwards enter the bottom
 room on the left side of the first floor and head downstairs and
 interact with the summoning table.
@@ -265,21 +265,21 @@ the hallway and watch the final cutscene of the prologue play out.
 
 ## S.S. Oceana
 After either skipping the prologue or finishing the last cutscene, the
-game asks which difficulty mode you’d prefer. Personally, I would
+game asks which difficulty mode you'd prefer. Personally, I would
 recommend Casual Mode for anyone attempting to do a more restrictive
 challenge run or anyone who does not have much experience with the
 Reborn-style Pokemon game. I would recommend Normal Mode to anyone
-looking for a challenge or who found Reborn’s difficulty adequate, and
+looking for a challenge or who found Reborn's difficulty adequate, and
 Intense Mode to those with lots of experience who found Normal / Reborn
 too easy, somehow. Regardless of choice, the game allows you to change
 your difficulty setting later if you want. **I will be covering battles
 in this guide as they appear in Normal Mode.**
 
 Register yourself as a trainer, choosing among genders and six sprites.
-Amanda will ask if you want to input a password. I don’t recommend using
-the password if you’ve never played the game, since this section
+Amanda will ask if you want to input a password. I don't recommend using
+the password if you've never played the game, since this section
 contains many important story beats, but if you do want to skip ahead to
-the next section, the password is 4567, though you’ll lose out on
+the next section, the password is 4567, though you'll lose out on
 potential relationship points with Nancy.
 
 There are two other passwords you can input here. If you want to play as
@@ -293,10 +293,10 @@ Any dialogue options which are not listed do not affect relationship
 points. (Search “Relationship Point” to see them all)
 
 Relationship Point Choices:
-- I’m fine. (Mom +2)
+- I'm fine. (Mom +2)
 - ... (Mom -1)
 
-Once you’ve talked to Nancy and can roam, explore the S.S. Oceana. In
+Once you've talked to Nancy and can roam, explore the S.S. Oceana. In
 this game talking to everyone and everything you see can be vital to
 discovering new Pokemon and Items, so it's a good idea to talk to
 everyone aboard.
@@ -307,9 +307,9 @@ can listen in on two conversations: one with unknown figures and the
 other including Nancy.
 
 Head up the stairs three times to the right to talk to Cpt. Augustus.
-He’ll explain a few of Rejuvenation’s mechanics. Head downstairs and
+He'll explain a few of Rejuvenation's mechanics. Head downstairs and
 enter the double doors to the upper middle room. Talk to Nancy to get
-the banquet started, when you’re ready.
+the banquet started, when you're ready.
 
 Once you regain control, follow the path and watch the events play out.
 
@@ -325,11 +325,11 @@ can get corrupted.
 
 Anyways, if you want to talk to the woman on the northeast pier, you can
 get an all-expenses paid trip to Hoenn, but it is a game over.
-Otherwise, there’s not too much to do here yet, so head into the gate on
+Otherwise, there's not too much to do here yet, so head into the gate on
 the north side.
 
 ## Gearen Laboratory
-The trainers won’t let you head west or east quite yet, so head into the
+The trainers won't let you head west or east quite yet, so head into the
 building north.
 
 The guy running in place on the left will offer to give you cinematic
@@ -352,7 +352,7 @@ game.
 
 Talk to Amanda at the top of the building to see a brief cutscene, then
 head up towards the door to meet Melia. Go through the door to meet
-Professor Jenner. You’ll then get to pick a starter Pokemon by
+Professor Jenner. You'll then get to pick a starter Pokemon by
 interacting with it. If you talk to the rainbow-colored machine on the
 right side, it will randomly choose for you among the 24 starters.
 
@@ -388,12 +388,12 @@ but all the starters can be useful in their own ways. The first gym
 specializes in Poison, so the Grass-type starters may be difficult to
 use at first. Choose whatever you want though!
 
-You can quick save with ‘D’ in front of the Pokemon you choose and use
-‘F12’ to soft reset for natures, IV’s, shininess, and abilities. All
+You can quick save with ‘D' in front of the Pokemon you choose and use
+‘F12' to soft reset for natures, IV's, shininess, and abilities. All
 Pokemon in this game have a chance at hidden abilities and the shiny
 rate is increased to a little over 1/100.
 
-Anyways, once you’ve picked your starter, head west for a battle with
+Anyways, once you've picked your starter, head west for a battle with
 Aevium Scout Amanda! You can win or lose this battle.
 
 League Scout Amanda (No Field)
@@ -404,8 +404,8 @@ League Scout Amanda (No Field)
 
 Note that in this game you can press “S” to check the stats of all the
 Pokemon, as well as the weather / field / move effects in play to aid
-you in your fights. After the battle, she’ll give you *5 Poke Balls.*
-Head to talk to Jenner and you’ll fight:
+you in your fights. After the battle, she'll give you *5 Poke Balls.*
+Head to talk to Jenner and you'll fight:
 
 Pokemon Trainer Ren (No Field)
 
@@ -415,12 +415,12 @@ Pokemon Trainer Ren (No Field)
 
 After the fight with Ren, Jenner asks you to visit Route 1 to help
 Melia. He then gives you the *Pokedex* and the *Cybernav!* Head back
-downstairs and listen to Jan’s tutorial.
+downstairs and listen to Jan's tutorial.
 
 The EV training center can be accessed by talking to the woman on the
 right of the counter, but none of its training rooms are open right now.
 
-When you’re ready, head back outside to start exploring East Gearen
+When you're ready, head back outside to start exploring East Gearen
 City!
 
 ## Left East Gearen City
@@ -447,9 +447,9 @@ if you manage to evolve it. However, it is rare-ish here and can be
 found much more reliably later.
 
 If you go west on the bottom street, you can find a GourmetTreat in a
-bush. We’ll want some of these later to get event Pokemon.
+bush. We'll want some of these later to get event Pokemon.
 
-If you talk to the nerd on the east side of the bottom street, he’ll
+If you talk to the nerd on the east side of the bottom street, he'll
 give you *Reverse Candy.* The tile to the left of the rightmost tree on
 this street has a hidden *Oran Berry* in it. Another *Oran Berry* can be
 found immediately below the machine thing on the right street, above
@@ -472,32 +472,32 @@ north side of the city up one set of stairs, and *Yellow Shard* on the
 ground between the two dumpsters to the left of those. Another *Yellow
 Shard* is in the rightmost dumpster up another set of stairs.
 
-Head out to the Oceana Pier. You’ll find a **Nidoran M** eating. Talk to
+Head out to the Oceana Pier. You'll find a **Nidoran M** eating. Talk to
 it with a GourmetTreat for a battle.
 
 The garden to the south is also now open, so you can catch level 5
-**Fletchling** here by interacting with them. If you’re interested in
+**Fletchling** here by interacting with them. If you're interested in
 winning even the “impossible” story battles, make sure you catch two,
 for their Quick Guard move will help us win one later. The bottom right
 grass tile here has a *Sweet Heart,* and there is an *X Accuracy* two
 tiles left and one up from there.
 
-Head into the building on the west side that’s now unlocked. Talk to the
+Head into the building on the west side that's now unlocked. Talk to the
 “man” with the yellow hair, then exit the building and watch Buizel run
-by. This starts a quest we’ll complete later.
+by. This starts a quest we'll complete later.
 
 Back in East Gearen, to the left of the lab is the Velvet Building. In
 each of the buildings, people will challenge you to battles, so be
 warned. Head up to the first floor and talk to the woman in the middle.
-If you choose left, she’ll give you a *Mineral Ball,* and *Steam Ball*
+If you choose left, she'll give you a *Mineral Ball,* and *Steam Ball*
 if you choose right. Also grab the *Great Ball* in the bottom left. If
-you enter the second floor, you’ll see a **Pachirisu** running wild. If
-you give it a GourmetTreat, it’ll battle you. There is also a *Potion*
+you enter the second floor, you'll see a **Pachirisu** running wild. If
+you give it a GourmetTreat, it'll battle you. There is also a *Potion*
 in the corner. Grab the *Exp. Candy XS* on the third floor.
 
 Now go to the Emerald Building on the northeast side of town. Talk to a
 girl on the left side to learn about the mystery of the third floor.
-You’ll need to beat a trainer to access the upper levels. On the second
+You'll need to beat a trainer to access the upper levels. On the second
 floor pick up a *Red Shard* in the corner. Talk to a red-haired girl for
 a *Full Heal*, and get a *Super Repel* from an old woman. Enter the
 third floor to battle a level 5 **Shuppet**.
@@ -505,7 +505,7 @@ third floor to battle a level 5 **Shuppet**.
 If you enter the Magnolia Library on the north side of town and pay $300
 you can enter the back side of the library. By talking to the man in
 glasses you can use the shards hidden around the map for tutor moves.
-These aren’t very useful, but you can get them for your Pokemon if you
+These aren't very useful, but you can get them for your Pokemon if you
 want to.
 
 Library Move Tutor
@@ -516,13 +516,13 @@ Library Move Tutor
 |Covet          |1 Blue Shard   |
 |Helping Hand   |1 Yellow Shard |
 
-The building on the left of the library is the Gearen Help Center. We’ll
+The building on the left of the library is the Gearen Help Center. We'll
 be returning here later.
 
 After doing all this you may be strong enough to complete the final
 quest of this area for now. If you try to cross into the northwest side
 of the city, a thug will force you to pay $300 or to battle him. He uses
-two Level 12-13 Pokemon, so be sure you’re ready. When you win you can
+two Level 12-13 Pokemon, so be sure you're ready. When you win you can
 access the northwest area! (+1 Karma, a way for the game to track how
 much you help people)
 
@@ -546,7 +546,7 @@ F** is at level 5.
 
 ## Right East Gearen City
 
-You’ll see grass around this part of the city too, with more Pokemon.
+You'll see grass around this part of the city too, with more Pokemon.
 
 Right East Gearen City
 
@@ -565,7 +565,7 @@ grass is a hidden *Super Repel,* and the bottom right tile in this
 grassy area contains a *Poke Ball.* The bush to the right has a hidden
 *Resist Wing.*
 
-To the east, you’ll see a *Super Potion* near a tent. Here you’ll meet
+To the east, you'll see a *Super Potion* near a tent. Here you'll meet
 Mr. Luck -- this is how you change your difficulty, as I mentioned
 earlier.
 
@@ -573,8 +573,8 @@ Down and to the left is a machine, one tile up there is a hidden
 *Potion.*
 
 The center of the map has a row of shops. I usually sell the Resist
-Wings here to get some cash. Here’s where you get more GourmetTreats if
-you run out. We aren’t going to need any Reverse Candies in this game
+Wings here to get some cash. Here's where you get more GourmetTreats if
+you run out. We aren't going to need any Reverse Candies in this game
 beyond the ones we find since the level cap is a hard cap unless you use
 Rare Candies to go over it.
 
@@ -608,9 +608,9 @@ East Gearen Market Shop: Bottom-right Vendor
 |*Reverse Candy*|$50        |
 |*Soda Pop*     |$300       |
 
-If you talk to the vendor on the top right, he’ll attempt to sell you
-Poke Ball’s at $400 each. While this may seem like a rip-off, once you
-buy four, he’ll give you a **Voltorb!**
+If you talk to the vendor on the top right, he'll attempt to sell you
+Poke Ball's at $400 each. While this may seem like a rip-off, once you
+buy four, he'll give you a **Voltorb!**
 
 If you enter the Shopping Emporium above the market vendors, there are a
 few shops open for business.
@@ -631,16 +631,16 @@ Poke Ball Emporium Shop
 |*Heavy Ball*   |$300       |
 |*Moon Ball*    |$300       |
 
-The Heavy Ball won’t be too useful for the beginning portion of the
-game. If you haven’t captured Jigglypuff or done the Nidoran events,
+The Heavy Ball won't be too useful for the beginning portion of the
+game. If you haven't captured Jigglypuff or done the Nidoran events,
 Moon Balls can be extra useful, but the cheaper, normal balls also 
 work fine. The right vendor is currently not in business due to an 
-unfulfilled help quest, which we’ll get to later.
+unfulfilled help quest, which we'll get to later.
 
 Heading down a street, three tiles east and one down from the bicycle
-shop door you’ll find a *Pretty Wing.* In a park to the right, two tiles
+shop door you'll find a *Pretty Wing.* In a park to the right, two tiles
 left of a skinny tree is a hidden *Repel.* Heading east from here, in
-the upper right patch in the grass under some train tracks you’ll find
+the upper right patch in the grass under some train tracks you'll find
 an *Antidote,* and five tiles to the east of the corner of blue liquid
 below you, in the street, is a hidden *Blue Shard.*
 
@@ -671,15 +671,15 @@ into the first on the upper side to get *TM126 Whirlpool.* In the
 hallway on the left, head into the open room at the top and interact
 with the tile down and right from the top left plant for $1500!
 
-Head to the Casino level and talk to the red-haired fellow. They’ll
+Head to the Casino level and talk to the red-haired fellow. They'll
 flush their Coin Case down the drain so we can pick it up later.
 
-You’ve probably noticed a few popups regarding achievements thus far --
-complete them and you’ll earn AP, redeemable here. For now, we probably
-can’t get much but I recommend saving up for the HM Items as they’ll
+You've probably noticed a few popups regarding achievements thus far --
+complete them and you'll earn AP, redeemable here. For now, we probably
+can't get much but I recommend saving up for the HM Items as they'll
 make your life a lot easier. The card items will allow you access to EV
-Training rooms in Jenner’s lab, so those are nice too. The Exp. All
-isn’t that necessary anymore in this game since there are lots of
+Training rooms in Jenner's lab, so those are nice too. The Exp. All
+isn't that necessary anymore in this game since there are lots of
 grinding options available. Anyways, talk to the girl on the right side
 to get an *Achievement Card.*
 
@@ -713,19 +713,19 @@ AP Shop
 |*Sp. Atk Card*         |10 AP  |
 |*Sp. Def Card*         |10 AP  |
 
-I wouldn’t recommend buying any of the first nine items until you get
-everything else. Golden Items allow us to use HM’s without needing a
+I wouldn't recommend buying any of the first nine items until you get
+everything else. Golden Items allow us to use HM's without needing a
 Pokemon in the party that has learned them. The Cards allow us to access
 EV training rooms. Exp. All is very helpful for grinding, but with the
 grinders and Exp. Candies, it may not be the most useful thing for its
 high price yet. The cards let you into the basement of the Gearen lab to
 do rapid EV training. When you do get access to each EV room, inside
-you’ll find the respective Power item: *Power Anklet, Power Band, Power
+you'll find the respective Power item: *Power Anklet, Power Band, Power
 Belt, Power Bracer, Power Lens, Power Weight.*
 
 When I play, I tend to buy the Golden Hammer first, then begin
-collecting the Cards. I’ll buy the Golden Axe as soon as I get Cut, then
-finish with AP cards. Then I’ll buy the rest of the Golden Items as I
+collecting the Cards. I'll buy the Golden Axe as soon as I get Cut, then
+finish with AP cards. Then I'll buy the rest of the Golden Items as I
 need them, and the Exp. All when I have enough AP.
 
 Head up to the top floor of the building, Rooftop. There is an Audino
@@ -751,10 +751,10 @@ Chrisola Rooftop
 | **Meowth**        | 10   | **Glameow**     | 10       |
 | Bellsprout        | 2    | Oddish          | 2        |
 
-Once you’re done, head back outside. Enter the Aqua Building to the
+Once you're done, head back outside. Enter the Aqua Building to the
 southwest. On the first floor, pick up the *Old Rod*, as well as another
-*Iron*! If you attempt to go to the third floor, you’ll enter a really
-impossible battle (Level 80!) given the tools we have now. I don’t
+*Iron*! If you attempt to go to the third floor, you'll enter a really
+impossible battle (Level 80!) given the tools we have now. I don't
 recommend this unless you have the money and self-respect to spare.
 
 ## Gearen Park
@@ -780,7 +780,7 @@ Gearen Park (Grassy Terrain)
 The first tile below the really tall grass in the second column on the
 left of really tall grass has a hidden *Honey.* Straight down, another
 *Honey* is three tiles up from the bottom flower. In the left tile of
-the tree straight left from the bench here, you’ll find a *Carbos.* On
+the tree straight left from the bench here, you'll find a *Carbos.* On
 the right side of the park, there is a hidden *Rare Candy* in the second
 empty spot among really tall grass from the bottom. Up from here in
 between a square of 7 tall grass and a purple flower is a *Blue Shard*,
@@ -790,7 +790,7 @@ Shard.*
 
 ## Sewers Visit 1
 
-To progress the story, head east into Venam’s front yard, down from here
+To progress the story, head east into Venam's front yard, down from here
 a bit, and see a cutscene. Head to the Emporium to get a *Pecha Berry?*
 from the attendant. Give it to Venam.
 
@@ -800,9 +800,9 @@ Relationship Point Choices:
 - No, actually. (Neutral)
 
 Head to the southeast of town and a cutscene will play. Afterwards
-follow Venam into the sewers. You’ll be teaming up with Ren here, who
+follow Venam into the sewers. You'll be teaming up with Ren here, who
 will heal your Pokemon after every battle. Additionally, if you try to
-catch Pokemon while with Ren, you’ll need to knock one of the two out in
+catch Pokemon while with Ren, you'll need to knock one of the two out in
 order to catch the other, which can be frustrating.
 
 Anyways, there are lots of new Pokemon here:
@@ -832,7 +832,7 @@ Hotel, go left and all the way down to grab the *Coin Case!* The corner
 to the right and down has a hidden *Reverse Candy.*
 
 Attempt to enter the room Venam runs into and it will lock you out.
-There’s an *Antidote* to the left.
+There's an *Antidote* to the left.
 
 Head back across the bridge, up and left to the generator room. Start
 the third, first, then second generator. Go back into the room Venam
@@ -857,18 +857,18 @@ Garbodor Garbage Crew (No Field)
 
 Knocking out the Trubbish makes this a two-on-one. Any of your new
 Poison-types should be able to resist getting poisoned here, but really
-any strong STAB moves can take out the Trubbish. Ren’s Growlithe hits
-hard with Ember, plus he has two more in the back, so you shouldn’t
+any strong STAB moves can take out the Trubbish. Ren's Growlithe hits
+hard with Ember, plus he has two more in the back, so you shouldn't
 really have to worry here.
 
 ## Game Corner Prizes
 
-Now’s a good time to mention all the prizes available in the game
-corner. While you can get them all right now with enough patience, it’s
+Now's a good time to mention all the prizes available in the game
+corner. While you can get them all right now with enough patience, it's
 not necessary to grab everything right now.
 
-Anyways, there’s a grand total of 120 coins along the ground in there,
-try to find them all. Otherwise, here’s what you can get here:
+Anyways, there's a grand total of 120 coins along the ground in there,
+try to find them all. Otherwise, here's what you can get here:
 
 Game Corner Coin Vendor Shop
 
@@ -896,12 +896,12 @@ Game Corner Right Vendor Shop
 
 To get coins you can buy them or play the various games in the casino.
 Of these, Voltorb Flip is easily the most efficient once you know what
-you’re doing... but with the luck involved it will take quite a while
+you're doing... but with the luck involved it will take quite a while
 still. I recommend getting Spoink for the gym and Hidden Power in order
-to spice up your early game movesets, but it’s up to you.
+to spice up your early game movesets, but it's up to you.
 
-The attendant on the left is the lotto corner lady, who’ll pick one
-number a day and check if it matches your Pokemon’s, like in the
+The attendant on the left is the lotto corner lady, who'll pick one
+number a day and check if it matches your Pokemon's, like in the
 official games. The prizes are as follows:
 
 Loto Attendant
@@ -914,7 +914,7 @@ Loto Attendant
 |*PP Up*        |2 Matches     |
 |*Ultra Ball*   |1 Matches     |
 
-Anyways, once you’ve gambled to your heart’s content, there is a bit
+Anyways, once you've gambled to your heart's content, there is a bit
 more optional stuff to do if you want.
 
 In Gearen Park, talk to Melia for an optional scene for Relationship
@@ -930,19 +930,19 @@ Relationship Point Choices:
 - It's not for me. (Neutral)
 - Photography's boring. (Melia -2)
 
-Additionally, head back to Magnolia Library, and for a short time you’ll
-be able to battle Ren -- it’s optional experience and money should you
+Additionally, head back to Magnolia Library, and for a short time you'll
+be able to battle Ren -- it's optional experience and money should you
 want it.
 
 ## PoisonHeart Badge
 
-It’s time to take on Venam’s gym in East Gearen. This gym will require
+It's time to take on Venam's gym in East Gearen. This gym will require
 us to mix colors to make composite colors.
 
 Take out the first trainer and learn the color combination we need to
 build is Magenta. To mix magenta, add red and blue.
 
-In the second room, we’re going to make orange and green. Do red and
+In the second room, we're going to make orange and green. Do red and
 yellow first, then check the machine. Then do teal and yellow to make
 green and move into the third room.
 
@@ -950,12 +950,12 @@ The trainer in the next room will tell you to make Orange, White, and
 Teal.
 
 The first is red + yellow, and the second is green + red + blue.
-Finally, add just green + blue and we’re in.
+Finally, add just green + blue and we're in.
 
-Well, that would be all we have to do, but there’s a secret. If you mix
-brown, then white, then orange, you’ll get access to a secret area. A
+Well, that would be all we have to do, but there's a secret. If you mix
+brown, then white, then orange, you'll get access to a secret area. A
 fun fact: the Seviper and Venipede boarded up gyms are versions of
-Venam’s gym from older versions of Rejuvenation!
+Venam's gym from older versions of Rejuvenation!
 
 After emerging, two tiles to the left of the top dumpster is a hidden
 *Psychic Gem.* Up the stairs all the way left is a hidden *Blue Shard.*
@@ -976,7 +976,7 @@ Gearen Alleyway
 | Pidgey       | 5        |
 | Patrat       | 4        |
 
-Well, that’s about it for that area, so clear your team, equip all the
+Well, that's about it for that area, so clear your team, equip all the
 good items you can take advantage of (Oran and Pecha Berries work well
 here), and save.
 
@@ -984,7 +984,7 @@ Punk Girl Venam (Corrosive Field)
 
 -   Trubbish, Level 12. @ Oran Berry.
     -   Rock Blast
-    -   Venam’s Kiss
+    -   Venam's Kiss
     -   Thief
     -   Poison Gas
 -   Mareanie, Level 12
@@ -993,7 +993,7 @@ Punk Girl Venam (Corrosive Field)
     -   Water Pulse
     -   Toxic Spikes
 -   Ivysaur, Level 13. @ Oran Berry.
-    -   Venam’s Kiss
+    -   Venam's Kiss
     -   Poisonpowder
     -   Razor Leaf
     -   Leech Seed
@@ -1011,20 +1011,20 @@ Punk Girl Venam (Corrosive Field)
     -   Bite
     -   Bulldoze
     -   Glare
-    -   Venam’s Kiss
+    -   Venam's Kiss
 
 Venam's Kiss: Poison \| Physical \| 75 power \| 100% accuracy \| 10%
 chance to poison, super-effective against Steel-types.
 
-Honestly, this one isn’t too bad. If you’ve picked up Chingling or
+Honestly, this one isn't too bad. If you've picked up Chingling or
 Spoink, they can wreck the house here. Marshtomp, my starter, helped as
 well, though Mud Shot gains Poison typing on the field. Ultimately this
-is not too bad and if you’re really struggling with an under leveled
+is not too bad and if you're really struggling with an under leveled
 team you can push them to the Lv. 18 cap and win by sheer stat
 advantage.
 
-After the battle, you’ll be rewarded with the *PoisonHeart Badge*!
-She’ll also give you *TM102 Poison Sweep!* This is a new move that can
+After the battle, you'll be rewarded with the *PoisonHeart Badge*!
+She'll also give you *TM102 Poison Sweep!* This is a new move that can
 be useful in the early game.
 
 ## Post-Gym Quests
@@ -1035,9 +1035,9 @@ Return to Gearen Lab. The girl by the PC will gift you an **Aevian
 Feebas** from Jan! How nice of him.
 
 Head to the Magnolia Library. Talk to the guard of the stairs to the
-right. As you have a badge, she’ll let you pass.
+right. As you have a badge, she'll let you pass.
 
-Upstairs, you’ll find a Black Belt who will offer to teach more tutor
+Upstairs, you'll find a Black Belt who will offer to teach more tutor
 moves for shards.
 
 Library 2F Move Tutor
@@ -1051,18 +1051,18 @@ Library 2F Move Tutor
 Of these, Super Fang can be useful for catching Pokemon, and Dual Chop
 can give you coverage against Dragon types if you really need it.
 
-Talk to the girl on the right. This is Zumi, and she’ll start us on a
-Pokedex collection quest. We’ll be back once we catch a Dedenne for her.
+Talk to the girl on the right. This is Zumi, and she'll start us on a
+Pokedex collection quest. We'll be back once we catch a Dedenne for her.
 
-Head into Venam’s house south of the hotel. If you head upstairs, you’ll
+Head into Venam's house south of the hotel. If you head upstairs, you'll
 find a *Poison Barb.*
 
-Back in Gearen Park, now you’ll be able to give a treat to
+Back in Gearen Park, now you'll be able to give a treat to
 **Gossifleur** for a battle!
 
 Head back to Gearen Lab and talk to the girl sitting by the computer on
-the left. Now that we have a badge, she’ll ask for some help with an
-online fangame league. She’ll then give you a *Badge Card.* Talk to her
+the left. Now that we have a badge, she'll ask for some help with an
+online fangame league. She'll then give you a *Badge Card.* Talk to her
 again and agree to help.
 
 Your first battle is against Falkner.
@@ -1080,8 +1080,8 @@ Gym Leader Falkner (Glitch Field)
     -   Echoed Voice
 
 I am using Cyndaquil and Onix. Use Ember and Rock Tomb and you should
-come out on top. If you win, you’ll get a *Virtual Badge.* That’s all
-she needs for now, we’ll come back after we have two badges.
+come out on top. If you win, you'll get a *Virtual Badge.* That's all
+she needs for now, we'll come back after we have two badges.
 
 One shop has updated inventory now that we have a badge. Head to the
 Shopping Emporium.
@@ -1094,11 +1094,11 @@ Poke Ball Emporium Shop: New Items (1 Badge)
 |*Fast Ball*|$300   |
 
 Love Balls are a very useful ball for their price, just pay attention to
-the gender of what you’re trying to catch.
+the gender of what you're trying to catch.
 
-Now’s a good time to start taking on the Help Center quests, so head
-into the help center. You’ll be approached by Ayuda, who’ll give you a
-quest to collect Zygarde cells. He’ll give you the *Gather Cube* to
+Now's a good time to start taking on the Help Center quests, so head
+into the help center. You'll be approached by Ayuda, who'll give you a
+quest to collect Zygarde cells. He'll give you the *Gather Cube* to
 begin this quest. We will finish the help quests first, then get the
 cells.
 
@@ -1203,11 +1203,11 @@ Wanderer Novae (No Field)
     -   Tackle
     -   Smack Down
 
-This is a tough battle to be sure, and this won’t be the last time
-you’ll face her. If you can’t really win with your team right now don’t
+This is a tough battle to be sure, and this won't be the last time
+you'll face her. If you can't really win with your team right now don't
 worry, you can come back later to finish this one.
 
-Anyways, all that’s left is to claim your reward at the help center --
+Anyways, all that's left is to claim your reward at the help center --
 $350 and **Pichu!** (+1 Karma)
 
 ### HQuest 7: Wretched Music
@@ -1239,12 +1239,12 @@ Dance Prodigy Rorim B (No Field)
     -   Knock Off
 
 Be careful of Ludicolo, rain boosted Bubblebeams can hurt. Vivillon too
-can be threatening if it sets up. This battle isn’t super hard with a
+can be threatening if it sets up. This battle isn't super hard with a
 good flying type or two, or probably most well-rounded sixes.
 
 Relationship Point Choices:
 - You should stop. (RorimB -1)
-- Yeah, he’s a jerk. (RorimB +2)
+- Yeah, he's a jerk. (RorimB +2)
 - The other guests...? (RorimB +1)
 
 Upstairs, talk to the bell boy in the left hallway, and the girl in the
@@ -1270,15 +1270,15 @@ ZCell 003: Chrisola Rooftop (Daytime Only)
 <img src="/assets/media/rejuv/image3.png"
 style="width:6.6613in;height:5.07813in" />
 
-ZCell 004: Gearen Alleyway (through Venam’s secret tunnel)
+ZCell 004: Gearen Alleyway (through Venam's secret tunnel)
 
 <img src="/assets/media/rejuv/image4.png"
 style="width:6.65625in;height:5.02083in" />
 
 ## Route 1 and Goldenwood Forest
 
-Once you’re ready to leave, head to the northwest part of town and enter
-the train station. Inside the station, you’ll meet up with Tesla, who’ll
+Once you're ready to leave, head to the northwest part of town and enter
+the train station. Inside the station, you'll meet up with Tesla, who'll
 buy you a ticket and give you *Potions.* Talk to the grandfather in the
 station and agree to help him, then board the train. 
 
@@ -1301,7 +1301,7 @@ Route 1
 The tree to the left of the second red flower from the train has a
 hidden *Potion.* Grab the *Super Repel* and the *Jolly Mint* above.
 
-You’ll see a **Whismur** nearby. If you give it a GourmetTreat, it’ll
+You'll see a **Whismur** nearby. If you give it a GourmetTreat, it'll
 battle you!
 
 ZCell 005: Route 1
@@ -1316,7 +1316,7 @@ Relationship Point Choices:
 - It was no bother! (Narcissa +1)
 - It was a complete bother. (Narcissa -1)
 
-You’ll get an *HP Up.* Another free $4900! Grab the nearby *Potion* as
+You'll get an *HP Up.* Another free $4900! Grab the nearby *Potion* as
 well and talk to the Furfrou lady for another *Potion.*
 
 Goldenwood Forest
@@ -1330,7 +1330,7 @@ Goldenwood Forest
 | Pidove       | 10   |        |      |
 | Furret       | 1    |        |      |
 
-There are some trainers south to battle. When you’re ready, head north
+There are some trainers south to battle. When you're ready, head north
 into Goldenwood Cave.
 
 Melia will join your party here.
@@ -1376,14 +1376,14 @@ Culvier Clan Mars (Cave Field)
 
 Fire and Flying moves obviously work great here if you can stall out the
 Light Screen and/or avoid Iron Defense bulk. If you do manage to
-succeed, you’ll get a *Star Shard* and a **Sewaddle**!
+succeed, you'll get a *Star Shard* and a **Sewaddle**!
 
-If you follow Melia, you’ll appear in a small room. Interact with the
-rock at the top for a *PP Up!* I don’t recommend using this on your weak
+If you follow Melia, you'll appear in a small room. Interact with the
+rock at the top for a *PP Up!* I don't recommend using this on your weak
 moves just yet, either save it or sell it for $4900.
 
-Make sure you’ve caught everything you care to in the whole Goldenwood
-Forest/Cave area, as we won’t be able to come back for a little while.
+Make sure you've caught everything you care to in the whole Goldenwood
+Forest/Cave area, as we won't be able to come back for a little while.
 
 Anyways, heal your team and talk to Melia.
 
@@ -1392,7 +1392,7 @@ Relationship Point Choices:
 - It was a good time. (Melia +2)
 - it was okay, I guess. (Melia -1)
 
-She’ll then challenge you to a battle.
+She'll then challenge you to a battle.
 
 Pre-Leader Melia (Golden Forest field)
 
@@ -1427,16 +1427,16 @@ it through.
 
 As soon as Melia leaves, head back out through Goldenwood Cave. In the
 briefcase, enter 3845 for an *Ability Capsule.* In this game you can
-choose from any ability a Pokemon has. Then enter 6489. You’ll get the
+choose from any ability a Pokemon has. Then enter 6489. You'll get the
 *Snag Machine* and *10 Poke Balls!* Just like in Colosseum and XD, all
-you must do is use Poke Balls on opponents’ Shadow Pokemon to catch
-them. Go ahead and catch the first grunt’s Shadow Meowth**.**
+you must do is use Poke Balls on opponents' Shadow Pokemon to catch
+them. Go ahead and catch the first grunt's Shadow Meowth**.**
 
 Pair up with Melia and head south. Fight the west grunt to capture
-Shadow Finneon**.** Melia won’t battle with you but will heal your
+Shadow Finneon**.** Melia won't battle with you but will heal your
 Pokemon if you talk to her. A grunt towards the bottom side of the lake
 will have a Shadow **Cacnea.** Head to the bottom part of the lake when
-you’re ready.
+you're ready.
 
 Team Xen Eli and Sharon (Golden Forest Field)
 
@@ -1461,9 +1461,9 @@ Team Xen Eli and Sharon (Golden Forest Field)
     -   Fury Swipes
     -   Bite
 
-A weak early game team, but you’ll have to get used to the doubles
+A weak early game team, but you'll have to get used to the doubles
 format present in much of Rejuvenation. Murkrow is the hardest hitter,
-while you’ll have to be careful about the status spreading from Glameow
+while you'll have to be careful about the status spreading from Glameow
 and Stunky.
 
 Team Xen Zetta (Golden Forest Field)
@@ -1493,10 +1493,10 @@ Team Xen Zetta (Golden Forest Field)
 Start by capturing Snorunt. Quilava and Meowth should not be too
 threatening at this phase as you should have type coverage but watch out
 for Minior getting off a Rollout or self-destructing. Type: Null is
-bulky at this point in the game, but if you can status it, you’ll be
+bulky at this point in the game, but if you can status it, you'll be
 able to whittle it down.
 
-After witnessing a scene and going north, you’ll be able to fight Rift
+After witnessing a scene and going north, you'll be able to fight Rift
 Gyarados.
 
 Dimensional Rift Gyarados (Rift Field)
@@ -1521,21 +1521,21 @@ lose.
 A couple quick, optional things:
 
 First thing we can do is talk to the grandfather in the train station,
-who’ll give you a *Exp. Candy S.*
+who'll give you a *Exp. Candy S.*
 
 Head back to Mei and Ayuda to claim your reward for getting all five
 cells so far: *TM49 Echoed Voice*!
 
-Return to Jenner’s Lab and head upstairs. You’ll need to battle Madelis’
+Return to Jenner's Lab and head upstairs. You'll need to battle Madelis'
 Houndoom as Melia, using Togepi. It requires a LOT of luck to win.
 (Winning: +1 Melia Relationship Point). Losing still progresses the
-game. After a lot of cutscenes, you’ll be back outside.
+game. After a lot of cutscenes, you'll be back outside.
 
 # Chapter 2: Redemption
 
 ## Junction Bridge
 
-Head outside of the lab and talk to Karrina. She’ll want us to go to the
+Head outside of the lab and talk to Karrina. She'll want us to go to the
 Junction Bridge on the left side of the city, so accept fast travel.
 
 Head into the lab to battle Dr. Jenkel.
@@ -1564,16 +1564,16 @@ Pulse and Misty Terrain boosted Icy Wind, while her Grimer can smack
 super effective STAB on each with Knock Off and Poison Fang. Low stats
 including abysmal speed prevents Musharna from doing much damage - stall
 out the screens from the Munna if you need to, take out the Munna and
-hit it hard with STAB moves and you’ll be just fine.
+hit it hard with STAB moves and you'll be just fine.
 
-After the battle, you’ll be gifted *TM94 Rock Smash!* Use it outside,
-down and to the right, and you’ll see a **Blitzle.** Give it a
-GourmetTreat and it’ll battle you! On the way out, head into Jenkel’s
+After the battle, you'll be gifted *TM94 Rock Smash!* Use it outside,
+down and to the right, and you'll see a **Blitzle.** Give it a
+GourmetTreat and it'll battle you! On the way out, head into Jenkel's
 lab one more time and pick up 6 *Cell Batteries!* Make sure you save
 three of them for a quest in chapter 8.
 
 To the right of Junction Bridge: the sewer stairs there will now be
-open. Here you’ll find a Rare Candy. Also:
+open. Here you'll find a Rare Candy. Also:
 
 ZCell 006: Gearen Sewers
 
@@ -1601,15 +1601,15 @@ Enter the room in the right hallway on the right, with Minccino in it.
 Talk to the old lady and agree to find Minccino.
 
 Head out to the lobby and find it near the elevator. Then enter the left
-hallway and you’ll see it right away on the bottom side. Follow it left 
-and around, and you’ll see Team Xen Grunts take it away!
+hallway and you'll see it right away on the bottom side. Follow it left 
+and around, and you'll see Team Xen Grunts take it away!
 
 Go to Gearen Park and fight the Grunts on the east side of the park.
 
-Return to the old woman, who’ll let you battle to catch **Minccino!**
+Return to the old woman, who'll let you battle to catch **Minccino!**
 
-Especially if you’ve been catching all the Pokemon so far, you probably
-will have enough AP to get the Golden Hammer. This makes it so we don’t
+Especially if you've been catching all the Pokemon so far, you probably
+will have enough AP to get the Golden Hammer. This makes it so we don't
 need to teach Rock Smash to any Pokemon in order to smash rocks!
 
 There are Pokemon in trees in the next area. If you want, bring a
@@ -1626,7 +1626,7 @@ Relationship Point Choices:
 
 ## Route 2
 
-There’s a *Carbos* right and down from the red flower on the left as you
+There's a *Carbos* right and down from the red flower on the left as you
 enter. The grassy spot in the middle of dirt right from Meganium hides a
 *Green Shard.*
 
@@ -1646,7 +1646,7 @@ Route 2
 |-----------|---|
 | Finneon   |100|
 
-Remember to to get Dedenne to continue Zumi’s quest. The next gym is 
+Remember to to get Dedenne to continue Zumi's quest. The next gym is 
 fighting type, so most of these are going to be decent options for now.
 
 Head down the stairs and go up at the fork. Left of a red flower is a
@@ -1672,15 +1672,15 @@ Route 2
 
 Each tree is either a “low” tree or a “high” tree. Low trees have more
 infrequent encounters, but typically the rarer Pokemon. North of the
-bridge you’ll cross the right tree is a low tree and the left tree is a
-high tree. Be wary of Pineco’s Self-Destruct. Diglett will be available
+bridge you'll cross the right tree is a low tree and the left tree is a
+high tree. Be wary of Pineco's Self-Destruct. Diglett will be available
 much more easily in the next area.
 
 You can talk to the Aipom across the bridge to catch them instead of
-worrying about Headbutt. We’ll want to catch two Aipom here for a trade
+worrying about Headbutt. We'll want to catch two Aipom here for a trade
 later.
 
-If you talk to Kecleon, he’ll sell you stuff. We’ll be back for a side
+If you talk to Kecleon, he'll sell you stuff. We'll be back for a side
 quest with him later.
 
 Kecleon Market Shop
@@ -1705,19 +1705,19 @@ Cross the bridge to the left, four tiles left of the bottom of the
 bridge is a hidden *Blue Shard*. Just up the stairs, two tiles left of
 the bottom red flowers is a hidden *Rose Incense.* In the upper corner
 three tiles right and two down from the guy there is a hidden *Friend
-Ball.* If you talk to the painter here, he’ll wish to see Cherrim. We’ll
+Ball.* If you talk to the painter here, he'll wish to see Cherrim. We'll
 return to this quest later.
 
 Heading back and to the right, there is a gold healing star, useful as
-we won’t have to run back to the city to heal anymore. To the south past
+we won't have to run back to the city to heal anymore. To the south past
 the fisherman, the tile down and left from the second red flower
 contains an *Ability Capsule.*
 
-After you’re done, enter Amethyst Cave.
+After you're done, enter Amethyst Cave.
 
 ## Amethyst Cave 1st Visit
 
-After a conversation with a shady figure, you’ll have control in the
+After a conversation with a shady figure, you'll have control in the
 cave.
 
 Amethyst Cave
@@ -1802,8 +1802,8 @@ Dimensional Rift Galvantula (Corrupted Field)
     -   Toxic Thread
     -   Sucker Punch
 
-This one isn’t too bad, though the Joltik are annoying with their
-Electroweb attack. Unless you have priority, you’re going to end up
+This one isn't too bad, though the Joltik are annoying with their
+Electroweb attack. Unless you have priority, you're going to end up
 going last, so have something with enough special defense to take their
 Electric/Bug/Poison attacks and hit back hard. Venam and Ren are both
 worthy partners here.
@@ -1813,8 +1813,8 @@ Relationship Point Choices:
 - Where do I go next? (Ren +2)
 
 Back in the city, two optional things we can do now: first, talk to Zumi
-in the library, who’ll give you the *Advanced Pokedex* if you caught
-Dedenne. She’ll also send you on the next mission to get Drifloon.
+in the library, who'll give you the *Advanced Pokedex* if you caught
+Dedenne. She'll also send you on the next mission to get Drifloon.
 
 Second, if you go to the Chrisola Hotel, our travels to Route 2 will
 prompt the girl in the first room in the right hallway to give you
@@ -1829,7 +1829,7 @@ rock to smash is a *Zinc,* and the machine above here has a *Mineral
 Ball.* The wall to the left of the leftmost machine contains a *Reverse
 Candy.*
 
-We can’t really access the meadow yet, so head right and up. Talk to the
+We can't really access the meadow yet, so head right and up. Talk to the
 hooded guy then get a hidden *Electric Gem* in the right rock. In the
 next room, the wall immediately on the right contains a *Genius Wing.*
 Two tiles down and three left from the first rock smash is a hidden
@@ -1869,16 +1869,16 @@ Apprentice Nim (Psychic Terrain)
 
 The Solrock and Lunatone can be frustrating with Rock Slide, but
 anything speedier can knock them out without much difficulty. Inkay
-won’t be that much of a threat, so you can probably do well by letting
+won't be that much of a threat, so you can probably do well by letting
 it sit there while you beat up on the other side. Hidden Power is
 boosted in this field, so if you have it on your special attackers,
-especially those with type advantages, you’ll be fine.
+especially those with type advantages, you'll be fine.
 
 Relationship Point Choices:
 - Yes (Nim +2)  
 - No. (Nim -2)
 
-She’ll give you the *Room ID Card!* When you are back in the cave, the
+She'll give you the *Room ID Card!* When you are back in the cave, the
 wall to the left of the bottom stairs contains a *Super Potion,* and the
 one above and right of the top stairs contains a *Reverse Candy.* Head
 into Sheridan Village to the north.
@@ -1886,8 +1886,8 @@ into Sheridan Village to the north.
 ## Sheridan Village
 
 Listen to a cutscene with Aelita and the Elder. At the moment it costs
-money to heal here, so we’re gonna start by heading all the way north
-into Sheridan Arena. Then knock on Keta’s door at the very top, then
+money to heal here, so we're gonna start by heading all the way north
+into Sheridan Arena. Then knock on Keta's door at the very top, then
 enter the inn back in the village. Head upstairs.
 
 Relationship Point Choices:
@@ -1932,7 +1932,7 @@ Sheridan Village Shop
 |*Super Repel*  | $500      |
 |*Reverse Candy*| $50       |
 
-Enter the shop on a weekday morning and you’ll see Beth and her Miltank.
+Enter the shop on a weekday morning and you'll see Beth and her Miltank.
 Talk to her to get a free *Moomoo Milk* sample, then her shop will open.
 Note that Berry Juice can be a pretty good hold item at this stage of
 the game. It is only open on Monday, Wednesday, Friday, and Sunday 
@@ -1948,7 +1948,7 @@ You can sneak around the back of the shop, if you do, talk to the shop
 owner from behind to get a *Super Potion!* A tile left and up from the
 backdoor on the outside is a hidden *TinyMushroom.*
 
-You’ll notice a trucker up from here: this is Truck Guy. He will take us
+You'll notice a trucker up from here: this is Truck Guy. He will take us
 for free between Sheridan and Gearen, so take advantage of this instead 
 of paying the train fee whenever possible.
 
@@ -1967,7 +1967,7 @@ Sheridan Village Move Tutor
 |Uproar     |2 Green Shards |
 
 There is an Audino breeder towards the top: every time you beat them,
-you will get 3 *Exp. Candy S.* Once you’re ready, we can take care of
+you will get 3 *Exp. Candy S.* Once you're ready, we can take care of
 some side quests.
 
 At some point, level your Cherubi to Level 25 so that it evolves into
@@ -1980,18 +1980,18 @@ it with a girl in the inn to get a **Smoochum** holding a *Twisted
 Spoon!*
 
 Talk to the truck guy and have him take you back to Gearen City. In
-Jenner’s lab, use the Room ID Card to get the *Exp. Share!* Read the
-note, then talk to Melia’s wardrobe to get the *Audition Tape.* Plug it
+Jenner's lab, use the Room ID Card to get the *Exp. Share!* Read the
+note, then talk to Melia's wardrobe to get the *Audition Tape.* Plug it
 in to the computer to watch a lore cutscene if you want.
 
-Head into the Gearen Lab and go to Jenner’s lab. Head to the left and
+Head into the Gearen Lab and go to Jenner's lab. Head to the left and
 talk to Professor Hawthorne. He wants a Dex that has seen 100 Pokemon -
-this is an easy goal if you haven’t been avoiding all the trainers and
+this is an easy goal if you haven't been avoiding all the trainers and
 optional battles. Grab either the **Elekid** egg or the **Magby** egg
-and read Jenner’s journal if you want.
+and read Jenner's journal if you want.
 
-Talk to him again, and he’ll request a dex with 350 seen. You might not
-have this yet but once you do, he’ll offer you the other of the Johto
+Talk to him again, and he'll request a dex with 350 seen. You might not
+have this yet but once you do, he'll offer you the other of the Johto
 baby eggs.
 
 Return to Sheridan Arena at the top.
@@ -2014,7 +2014,7 @@ Sheridan Arena
 | Diglett    | 4 |
 
 Head up and talk to the **Swablu** flying overhead for a battle. Return
-to Keta’s house and talk to him in his garden.
+to Keta's house and talk to him in his garden.
 
 Relationship Point Choices:
 - I am. (Keta +2)  
@@ -2022,10 +2022,10 @@ Relationship Point Choices:
 
 ## Amethyst Grotto and Sheridan Help Quests
 
-After accepting Keta’s quest, head all the way out of the village and go
+After accepting Keta's quest, head all the way out of the village and go
 back all the way through Amethyst Cave. In the second room, interact
 with this box of plants, then head north. Go to the west side of the
-room, where you’ll see a man getting assaulted by **Solrock.** Challenge
+room, where you'll see a man getting assaulted by **Solrock.** Challenge
 it to a battle and catch it to proceed.
 
 Continue through the cave. Once at the entrance, head west until you see
@@ -2046,11 +2046,11 @@ is a hidden *Red Shard.* A rock smash above hides a *Heart Scale* in the
 left side of a red tree. On the left, above the stage thing, in the
 middle of a red tree is another *Red Shard.*
 
-Once you’re ready, talk to the spirit of Keta. He will give you the
+Once you're ready, talk to the spirit of Keta. He will give you the
 *Soul Stone.* Then exit and watch the scene and fast travel back to
 Sheridan.
 
-Returning to the inn in Sheridan you’ll be given $8000 for saving the
+Returning to the inn in Sheridan you'll be given $8000 for saving the
 guy.
 
 Now is a good time to do the Sheridan Village Help Quests. The help
@@ -2061,12 +2061,12 @@ center is in the upper right part of the village.
 Start outside the help center and talk to the backpacker. Truck to 
 Gearen, then go to the Chrisola Hotel and talk to Karen in front.
 
-Head to Dr. Jenkel’s lab and watch the scene. Go to Gearen Park and 
+Head to Dr. Jenkel's lab and watch the scene. Go to Gearen Park and 
 talk to Karen. Enter the library. 
 
 Pick up the green book behind the pillar at the entrance. Enter the
 main chamber and pick up the blue book. We can encounter Pokemon here,
-but there’s only 1 type: **Unown!**
+but there's only 1 type: **Unown!**
 
 Pick up the purple book nearby. To the right there is a 2-tile space
 without a bookshelf on the bottom, one tile up from the right one
@@ -2090,20 +2090,20 @@ Follow Karen into the north room. On the left, pick up the golden
 book*.* On the right, pick up the lemon book.
 
 Now that we have found nine books, head back to where we saw Elgyem
-flying by earlier. Interact with the bookshelf it’s on and place the
+flying by earlier. Interact with the bookshelf it's on and place the
 books inside. A level 1 **Elgyem** will then battle you!
 
-Head back into the upper room and talk to Karen. While she’ll get the
-Mega Ring, you’ll get the *Ancient Book.* This will allow you to read 
-Garufan prophecies. Check out the ones on the wall, if you’re 
+Head back into the upper room and talk to Karen. While she'll get the
+Mega Ring, you'll get the *Ancient Book.* This will allow you to read 
+Garufan prophecies. Check out the ones on the wall, if you're 
 interested.
 
-Head back to Sheridan Village when you’re done and talk to the
+Head back to Sheridan Village when you're done and talk to the
 backpacker.
 
 You can choose to give him the book or not. I recommend giving him
 the book since we can get another later, and if you choose to,
-you’ll get *Blue Moon Ice Cream!*
+you'll get *Blue Moon Ice Cream!*
 
 Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen
 Relationship Point)
@@ -2113,13 +2113,13 @@ Relationship Point)
 Use the trucker to get to Gearen City, then go to Oceana Pier. Head to
 the southeast, then follow the guy into the warehouse.
 
-If you try to go north, you’ll get shocked, and your Pokemon will
+If you try to go north, you'll get shocked, and your Pokemon will
 faint. The key here is to transform the Factory field into
 Short-Circuit via battling the Electrike trainer in the southwest
-and getting it to use Discharge. Once you’ve done this, head through
+and getting it to use Discharge. Once you've done this, head through
 the middle arrows.
 
-Venam will join you for a battle. Once you’ve won, she’ll leave.
+Venam will join you for a battle. Once you've won, she'll leave.
 
 Before we leave the warehouse, interact with the panel to switch the
 direction of the middle tile, then head right. Grab *TM09 Venoshock*
@@ -2130,7 +2130,7 @@ Relationship Point)
 
 ### HQuest 10: Trade Me!
 
-First, grab one Aipom from your PC. If you didn’t get one yet, go to
+First, grab one Aipom from your PC. If you didn't get one yet, go to
 Route 2 and interact with them. Then go to Sheridan Arena.
 
 Talk to the girl with blue hair, then trade for **Pancham.**
@@ -2141,12 +2141,12 @@ Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
 
 Start by heading through Amethyst Cave to Route 2.
 
-Pick up one of the blue item balls. If you have 50,000, you’re
-welcome to pay for the item, but if not, you’ll get teleported to
-the THIEF’S DUNGEON!
+Pick up one of the blue item balls. If you have 50,000, you're
+welcome to pay for the item, but if not, you'll get teleported to
+the THIEF'S DUNGEON!
 
 After talking to the grunt and getting out, memorize the map on the
-wall. If you don’t take the path outlined, you will get destroyed…
+wall. If you don't take the path outlined, you will get destroyed…
 Enter the door that corresponds to yellow to get an *Ice Stone,* or
 *Dusk Stone* depending on random chance.
 
@@ -2198,19 +2198,19 @@ and hit hard. Again, feel free to save this for later if you must.
 After the battle, return to the help center. Your rewards: $1600, and
 **Clobbopus.** (+1 Karma).
 
-Real quick there’s another quest we can do. Take the truck back to
-Gearen and enter Karrina’s hideout near the sewers. Talk to her, and
-she’ll send us on the gang fight quest. Head to Route 2 and enter
+Real quick there's another quest we can do. Take the truck back to
+Gearen and enter Karrina's hideout near the sewers. Talk to her, and
+she'll send us on the gang fight quest. Head to Route 2 and enter
 Amethyst Cave.
 
 Head up, and beat the guy at the end to get **Houndour!**
 
-That’s all we can take care of for now, so head back to Sheridan to see
+That's all we can take care of for now, so head back to Sheridan to see
 Keta.
 
 ## Diamond Punch Badge? - Badge1.5
 
-As soon as you’re ready, talk to Aelita on the battlefield
+As soon as you're ready, talk to Aelita on the battlefield
 
 Sensei Keta (Forest Field)
 
@@ -2219,7 +2219,7 @@ Sensei Keta (Forest Field)
     -   Gale Strike
     -   Protect
     -   Flame Burst
--   Galarian Farfetch’d, Level 23. @ Eviolite.
+-   Galarian Farfetch'd, Level 23. @ Eviolite.
     -   Gale Strike
     -   Brutal Swing
     -   Pluck
@@ -2252,7 +2252,7 @@ power is boosted x1.5 and deals additional Grass-type damage.
 This battle is the first to really show you how well the trainers
 compensate for their type disadvantages here -- almost everything has a
 Dark or Rock type move. Scraggy is a good dud to leave out, especially
-if you can paralyze it -- it doesn’t do enough damage to really be
+if you can paralyze it -- it doesn't do enough damage to really be
 threatening at least compared to his other Pokemon. Combusken can be
 tough once it outspeeds you, but also has Protect so it might be smart
 to focus your attacks on the other Pokemon. A very tough fight but you
@@ -2267,7 +2267,7 @@ Relationship Point Choices:
 - Yes. (Aelita +1)  
 - No. (Aelita -1)
 
-You’ll team up with Aelita here, so she’ll heal you but catching wild
+You'll team up with Aelita here, so she'll heal you but catching wild
 Pokemon is a bit tougher.
 
 Carotos Mountain
@@ -2302,8 +2302,8 @@ SEC will require you to input a password to move on. The passwords are,
 in order, BEAUTY, IDOL, SHADOW. Talk to it a few more times and it will
 challenge you with a Shadow **Quagsire.**
 
-Once you’re ready, go up the elevator and head towards Madelis’ Palace.
-Go inside when you get the chance to, and you’ll team up with Keta.
+Once you're ready, go up the elevator and head towards Madelis' Palace.
+Go inside when you get the chance to, and you'll team up with Keta.
 
 Head into the left room. Grab the *Hyper Potion* on the left and
 *Revive* up above. At the top of the room, grab the *Yellow Key.*
@@ -2320,7 +2320,7 @@ Dusk Ball* and the *Blue Key.*
 Head back out into the foyer and insert each key into the keyholes on
 the walls.
 
-Head up, then up again. You’ll now have to fight Madelis.
+Head up, then up again. You'll now have to fight Madelis.
 
 Xen Executive Madelis (No Field)
 
@@ -2356,23 +2356,23 @@ Xen Executive Madelis (No Field)
     -   Aura Sphere
     -   Shadow Chill
 
-This one doesn’t have to be won, though it is very doable. Winning
+This one doesn't have to be won, though it is very doable. Winning
 grants +1 Karma and +1 Relationship Point with Madelis. This battle
-looks rough, but you’ll have Keta on your side, so it’s functionally a
-12 on 6. A rock type can demolish half of her team, and Keta’s fast
+looks rough, but you'll have Keta on your side, so it's functionally a
+12 on 6. A rock type can demolish half of her team, and Keta's fast
 fighting Pokemon will help you out. Two of them have fake out, so when
 you get to Mewtwo, try to take advantage of those turns to deal heavy
 damage to Mewtwo. Mewtwo also takes damage every time it attacks thanks
 to Fever Pitch, so take advantage of that and dish out as much damage as
 you can as soon as her other Pokemon are all wiped out.
 
-Afterwards, head into the door behind Madelis’ chair, and go down the
+Afterwards, head into the door behind Madelis' chair, and go down the
 lift.
 
-We haven’t had enough legendary battles with only one gym badge quite
+We haven't had enough legendary battles with only one gym badge quite
 yet, so follow Aelita up and grab the *Rift Dex Info.*
 
-After a brief scene, you’ll be taken into a rift space. Talk to
+After a brief scene, you'll be taken into a rift space. Talk to
 Volcanion and answer its question and the battle will begin!
 
 Dimensional Rift Volcanion
@@ -2384,11 +2384,11 @@ Dimensional Rift Volcanion
     -   Bulldoze
     -   Rock Slide
 
-So, you’ll probably be faster than this guy. With only 110/80 on the
-physical side, it’s not too hard to whittle its shields, then its entire
+So, you'll probably be faster than this guy. With only 110/80 on the
+physical side, it's not too hard to whittle its shields, then its entire
 health bar down with some decent STAB moves.
 
-Once you’re free, head to the gate in Sheridan, and enter the spring.
+Once you're free, head to the gate in Sheridan, and enter the spring.
 
 Spring of Purification
 
@@ -2406,19 +2406,19 @@ pair.
 
 Relationship Point Choices:
 - Are you ok? (+1 Karma)  
-- Who’s Vivian? (Neutral)
+- Who's Vivian? (Neutral)
 
 Once you leave the shrine, Keta will ask you to fast travel to Amethyst
-Grotto. If you’re ready, feel free. Otherwise, we now have up to 7 new
+Grotto. If you're ready, feel free. Otherwise, we now have up to 7 new
 Pokemon we can use by purifying them! Shadow Pokemon in Rejuvenation
-have moves they can’t normally get, for example Ponyta has Fell Stinger
+have moves they can't normally get, for example Ponyta has Fell Stinger
 and Bonsly has Shift Gear. To purify, keep the shadow Pokemon in your
 party and run around, or use the Purify Chamber in the PC.
 
 One more thing we can do: head into the house in the bottom right of
 Sheridan. Gothitelle will battle us!
 
-Crescent’s Gothitelle (No Field)
+Crescent's Gothitelle (No Field)
 
 -   Gothitelle, Level 32. @ Twisted Spoon.
     -   Psychic
@@ -2426,16 +2426,16 @@ Crescent’s Gothitelle (No Field)
     -   Calm Mind
     -   Signal Beam
 
-If you win, you’ll be able to pick up **Gothita** behind!
+If you win, you'll be able to pick up **Gothita** behind!
 
 Head into Amethyst Grotto ready for the REAL gym fight.
 
 ## Diamond Punch Badge
 
-Well, that’s about all we can take care of at this point.
+Well, that's about all we can take care of at this point.
 
 Head back to Amethyst Grotto with a fully healed team. The Spirit of Keta 
-will be able to give us a badge, so let’s challenge him.
+will be able to give us a badge, so let's challenge him.
 
 Sensei Keta (No Field)
 
@@ -2470,13 +2470,13 @@ Sensei Keta (No Field)
     -   Shadow Sneak
     -   Poison Sweep
 
-Compared to Novae, this battle won’t be too hard but is still scary.
+Compared to Novae, this battle won't be too hard but is still scary.
 Gallade hits hard and is fast. In general, you want to try to set up on
-one of the weaker Pokemon like Roselia or Larvesta, if you can, it won’t
+one of the weaker Pokemon like Roselia or Larvesta, if you can, it won't
 be too awful.
 
-After you win, you’ll get the Diamond Fist Badge! This enables you to
-cut and puts our level cap at 30. He’ll also leave behind *TM103
+After you win, you'll get the Diamond Fist Badge! This enables you to
+cut and puts our level cap at 30. He'll also leave behind *TM103
 Stacking Shot.*
 
 Talk to Aelita upstairs and agree to sleep.
@@ -2486,9 +2486,9 @@ Talk to Aelita upstairs and agree to sleep.
 ## Sewers Visit 2
 
 Eldest will give us *Super Potions.* From Route 2, head into the city.
-If you’ve completed Karrina’s Amethyst Cave quest, you’ll get +2 Aelita
+If you've completed Karrina's Amethyst Cave quest, you'll get +2 Aelita
 Relationship Points. Two tiles to the left of the tree to the left of
-Venam’s house contains a hidden *Repel.*
+Venam's house contains a hidden *Repel.*
 
 Make your way to the sewers. Talk to Amanda for a battle.
 
@@ -2521,9 +2521,9 @@ Trainer Amanda (No Field)
     -   Metal Claw
 
 This is a surprisingly tough battle, namely due to Miltank. Once it
-paralyzes your Pokemon and starts stomping, it’s hard to get off a hit
+paralyzes your Pokemon and starts stomping, it's hard to get off a hit
 sometimes. Putting Miltank to sleep long enough to knock it is one way
-to win this one. Anyways, after battle, she’ll give you *HM01 Cut*!
+to win this one. Anyways, after battle, she'll give you *HM01 Cut*!
 
 Relationship Point Choices:
 - I'll get it done! (Karrina +2, Aelita +1)  
@@ -2559,15 +2559,15 @@ behind. Talk to Venam at the door, then sneak in the window.
 
 Answer the questions as you like. When you regain control, head upstairs
 and talk to Marianette to get her to join your party! Talk to her in
-every room of the house for background info. Enter Indriad’s room by
+every room of the house for background info. Enter Indriad's room by
 talking to the maids guarding it.
 
-He’ll send you on three trials. Before we do that though, talk to the
-maid in the entry room and she’ll give you a bonus trial we can do while
+He'll send you on three trials. Before we do that though, talk to the
+maid in the entry room and she'll give you a bonus trial we can do while
 completing the others.
 
 Take the downstairs left door to the Hedge Garden. Essentially a
-Dusknoir will warp us back if we ever turn around, so make sure you’re
+Dusknoir will warp us back if we ever turn around, so make sure you're
 always following the red ivy to continue. We can come back without
 Dusknoir in a bit to get all the items.
 
@@ -2587,7 +2587,7 @@ Servant Moya (Grassy Terrain)
     -   Psychic
     -   Brick Break
 
-This can be tough, but Marianette’s Pokemon do help out.
+This can be tough, but Marianette's Pokemon do help out.
 
 Relationship Point Choices:
 - It was cool. (Neutral)  
@@ -2603,10 +2603,10 @@ Relationship Point Choices:
 
 Back in the maze, from the bottom: A path in the southwest leads you to
 a *Normal Gem.* A dead-end to the west says Password 1 is 7896. Another
-dead end in the bottom right leads you to 2 *Exp. Candy M’s!* Two more
+dead end in the bottom right leads you to 2 *Exp. Candy M's!* Two more
 towards the middle of the maze give us a *PP Up* and two *Super
 Potions*. Another in the northwest corner is an *Elixir.* Towards the
-end is a *Sitrus Berry.* You’ll also find the first optional maid, Lara,
+end is a *Sitrus Berry.* You'll also find the first optional maid, Lara,
 so defeat her to continue that quest.
 
 Now follow the right path through the mansion. In the dining room, talk
@@ -2614,13 +2614,13 @@ to Marianette, you may randomly get a chance to give her an Oran Berry.
 This gives (+7 Marianette) Relationship Points.
 
 Exit to the right. If you hug the left wall and go through a secret
-passage, you’ll see another inscription. This one says Password 2 is
+passage, you'll see another inscription. This one says Password 2 is
 3135. Head up and beat the second optional maid, Yara, hiding in the
 left corner.
 
 At the top, you need to navigate two pieces onto the colored tiles, but
 the buttons control both pieces. Carefully use the walls to your
-advantage to solve this one. Three times and you’re done: save Lenny.
+advantage to solve this one. Three times and you're done: save Lenny.
 
 Relationship Point Choices:
 - To instill fear. (Marianette +2)  
@@ -2630,13 +2630,13 @@ Relationship Point Choices:
 Next, head back out the way we came in through the courtyard. Talk to
 the maid in one of the gardens to the south, Deandra, for a battle.
 
-We’ve now fought all three maids, so return to the one in the main room.
+We've now fought all three maids, so return to the one in the main room.
 She unlocks all the doors in the mansion! Head through the door on the
-left and go up. Inside you’ll find a *Full Heal, Reverse Candy, Ability
-Capsule,* and *Elixir.* Talk to Marianette while you’re in here and ask
+left and go up. Inside you'll find a *Full Heal, Reverse Candy, Ability
+Capsule,* and *Elixir.* Talk to Marianette while you're in here and ask
 about a box to fight a **Bronzor.** Finally, return to the room we woke
-up in and go through the upper doors. You can’t go through with
-Marianette with you, so we’ll have to come back when she’s not with us
+up in and go through the upper doors. You can't go through with
+Marianette with you, so we'll have to come back when she's not with us
 anymore.
 
 Head back into the courtyard and enter the Absol statue.
@@ -2646,7 +2646,7 @@ Relationship Point Choices:
 - HURRY AND FREE ME! (Marianette -4)  
 - It's okay, stay calm (Marianette +4)
 
-The first two rooms are not too hard, grab the *Max Repel* while you’re
+The first two rooms are not too hard, grab the *Max Repel* while you're
 at it. In the final room, you just must push the colored statues onto
 the respective tile without getting caught by Tangrowth, then guide
 Tangrowth to its own tile.
@@ -2655,7 +2655,7 @@ Relationship Point Choices:
 - You did well. (Marianette +4)
 - You cut it kinda close... (Marianette -2)
 
-If you have at least five points with Marianette up till now, you’ll get
+If you have at least five points with Marianette up till now, you'll get
 the following dialogue choice:
 
 Relationship Point Choices:
@@ -2666,10 +2666,10 @@ Now that Marianette is no longer following us, we can go through the
 path in our room again. Enter the three passwords (7896, 3135, 8187) in
 the machine, then head through the frozen prison to speak with Anju.
 
-To get an item, tell her the truth here, though this item doesn’t do
+To get an item, tell her the truth here, though this item doesn't do
 anything unique for us yet. To do so, tell her the world is safe,
 Sheridan is safe, but Hiyoshi is destroyed. If you do answer truthfully,
-she will give you *Anju’s Pendant!*
+she will give you *Anju's Pendant!*
 
 ## Normality Badge
 
@@ -2677,9 +2677,9 @@ Exit and return to the mansion. Before we proceed, exit all the way out
 to Gearen to pick up what Aelita dropped: *3 Super Potions, 4 Exp. Candy
 M, 2 Exp. Candy S, 2 Chesto Berries,* a *Cheri Berry,* and *Protective
 Pads.* Back in the mansion, in the main doors, there is an Audino
-breeder, and each time you win, you’ll get 5 *Exp. Candy S*.
+breeder, and each time you win, you'll get 5 *Exp. Candy S*.
 
-As soon as you’re ready, follow the path up from here.
+As soon as you're ready, follow the path up from here.
 
 Child of Light Marianette (Blessed Field)
 
@@ -2724,7 +2724,7 @@ move like Roar is a good counter for that. Otherwise, a decently rounded
 team should be able to deal with most of the Pokemon here - four are
 dual types with varied weaknesses.
 
-Once you win, you’ll be awarded with the Normality Badge! Our new level
+Once you win, you'll be awarded with the Normality Badge! Our new level
 cap is now 35. Enjoy the following cutscene.
 
 # Chapter 4: Isolation
@@ -2734,7 +2734,7 @@ cap is now 35. Enjoy the following cutscene.
 Start at East Gearen. Return to the sewers where the mansion was, then
 head to up to grab *TM42 Facade*! Head outside.
 
-Go talk to Shana in the Gearen Lab to continue the Johto quest. You’ll
+Go talk to Shana in the Gearen Lab to continue the Johto quest. You'll
 now have to fight Bugsy with the starter you picked and a few more
 Pokemon.
 
@@ -2755,7 +2755,7 @@ Gym Leader Bugsy (Glitch Field)
     -   Fury Cutter
 
 A couple Flame Wheels from Quilava plus a Rock Tomb from Onix made this
-one simple on the Cyndaquil path. After this, you’ll get another
+one simple on the Cyndaquil path. After this, you'll get another
 *Virtual Badge*! This will finish her leg of this quest.
 
 The Poke Ball shop in Gearen has two new balls now, which can be useful
@@ -2768,7 +2768,7 @@ Poke Ball Emporium Shop New Items (3 Badges)
 |*Nest Ball*|$1000     |
 |*Net Ball* |$1000     |
 
-There’s also a few new berries now.
+There's also a few new berries now.
 
 Berry Emporium Shop New Items (3 Badges)
 
@@ -2812,7 +2812,7 @@ Pom-Pom Meadow
 
 ## Route 3 and Phasial Cave
 
-As soon as you’re ready, head to Route 3, west from Sheridan.
+As soon as you're ready, head to Route 3, west from Sheridan.
 
 Route 3 Gate Shop
 
@@ -2826,7 +2826,7 @@ The top tile to the right of the river contains a *Honey,* and to the
 left of the RV is a *Quiet Mint.*
 
 Talk to the guy in the trailer across the bridge. Since we have two
-virtual badges, he’ll offer the third leg of the quest -- we’re battling
+virtual badges, he'll offer the third leg of the quest -- we're battling
 Whitney.
 
 Gym Leader Whitney (Glitch Field)
@@ -2848,9 +2848,9 @@ Gym Leader Whitney (Glitch Field)
 
 I had Quilava, Onix, and Qwilfish, so I took advantage of Clefairy to
 have Qwilfish set up Toxic Spikes, letting Onix easily wall Miltank and
-Jigglypuff. After winning, you’ll get the third *Virtual Badge.*
+Jigglypuff. After winning, you'll get the third *Virtual Badge.*
 
-That’s not all, he’ll then offer you the next challenge, this time
+That's not all, he'll then offer you the next challenge, this time
 against Morty.
 
 Gym Leader Morty (Glitch Field)
@@ -2884,7 +2884,7 @@ Qwilfish working together, then save Quilava for Gengar, where you must
 use Smokescreen and pray all his Hypnosis and Ice Punch miss long enough
 for you to finally take it down. I recommend attacking first with
 Thunderpunch so that gets disabled by Cursed Body instead of Fire Punch.
-If you succeed, grab your fourth *Virtual Badge.* That’s all we can do
+If you succeed, grab your fourth *Virtual Badge.* That's all we can do
 with him for now.
 
 The girl here is the Move Deleter, should you need to remove any moves.
@@ -2912,7 +2912,7 @@ Relationship Point Choices:
 - I'm starving... (Aelita +2)  
 - No distractions! (Neutral)
 
-If you go with the first option, you’ll get *Vanilla, Chocolate,* or
+If you go with the first option, you'll get *Vanilla, Chocolate,* or
 *Strawberry Ice Cream*.
 
 Route 3 Left Vendor Shop
@@ -2926,8 +2926,8 @@ Route 3 Left Vendor Shop
 |*Red Nectar*   |$550       |
 |*Whipped Dream*|$1000      |
 
-We’ll eventually need Sachet and Whipped Dream to evolve Swirlix and
-Spritzee from earlier. We’re also eventually (like, 3 or 4 more badges,
+We'll eventually need Sachet and Whipped Dream to evolve Swirlix and
+Spritzee from earlier. We're also eventually (like, 3 or 4 more badges,
 but still) going to want 10 Sweet Hearts for a quest, so go ahead and
 get those.
 
@@ -2939,7 +2939,7 @@ Route 3 Upper Right Vendor Shop
 |*Choc Ice Cream*    |$600 |
 |*Berry Ice Cream*   |$800 |
 
-She’ll also rarely have *Blue Moon Ice Cream* to sell. Ideally, we want
+She'll also rarely have *Blue Moon Ice Cream* to sell. Ideally, we want
 to get a few of each for a side quest later.
 
 The flower above this vendor contains a hidden *Green Shard.* Down and
@@ -2975,8 +2975,8 @@ color changes again hides a *Super Potion.* Crossing the bridge here,
 two tiles down from the left of a pair of two tall grass tiles hides a
 *Honey.*
 
-We’re going to explore the cave on the other side of the route now, so
-add a Pokemon to your party with Flash. If you don’t have it yet, it’s
+We're going to explore the cave on the other side of the route now, so
+add a Pokemon to your party with Flash. If you don't have it yet, it's
 at the Game Corner in East Gearen.
 
 Head up to the top of Route 3 and go to the left and into Phasial Cave.
@@ -3000,11 +3000,11 @@ above the pond, in the 2 tile alcove at the top, the right contains a
 Defeating the trainer down from here, head down and right. A rock at the
 bottom will contain a *Steel Gem.* Up, left, down and, left, there is
 another pond. The rock at the top right has a *Reverse Candy.* Head to
-the left when you can: going left and up you’ll find a *Mineral Ball*
+the left when you can: going left and up you'll find a *Mineral Ball*
 hidden in the top pillar. Head back to the right. There is a shining
 object on the ground in the middle with the pillars: it is the *Ancient
 Wing.* The pillar to the left of this has a hidden *Green Shard* in the
-top left. There’s a *Blue Shard* to the right. Hug this wall on the
+top left. There's a *Blue Shard* to the right. Hug this wall on the
 right and go down until you see a small rock, in it is a hidden *Sun
 Stone.* A small pillar further down on this wall contains a *Red Shard.*
 Head up the ladder here, the rock on the right contains a *Grass Gem.*
@@ -3018,7 +3018,7 @@ Relationship Point Choices:
 - Wanna see the sights\~ (Ren +1)  
 - No reason... (Ren -2)
 
-When you’re ready talk to Aelita for a battle.
+When you're ready talk to Aelita for a battle.
 
 Student Aelita (Forest Field)
 
@@ -3048,12 +3048,12 @@ Student Aelita (Forest Field)
     -   Thunderpunch
     -   Night Slash
 
-This isn’t going to be that tough of a battle - her team is mostly not
-fully evolved and doesn’t yet take advantage of the full power STAB
+This isn't going to be that tough of a battle - her team is mostly not
+fully evolved and doesn't yet take advantage of the full power STAB
 moves. Hawlucha can be dangerous if it gets off a couple Hone Claws --
-make sure your best Pokemon to take it out isn’t surprised by Flying Gem
+make sure your best Pokemon to take it out isn't surprised by Flying Gem
 boosted Bounce. Electric, Psychic, and Flying types will overall succeed
-here if you’re stuck.
+here if you're stuck.
 
 Enter Goldenleaf town at the bottom!
 
@@ -3076,7 +3076,7 @@ Goldenleaf Town
 |----------------|----------|
 | Wooper         | 100      |
 
-We need Drifloon for Zumi’s quest, later.
+We need Drifloon for Zumi's quest, later.
 
 The villager down from the gate here offers tutor moves.
 
@@ -3087,13 +3087,13 @@ Goldenleaf Town Move Tutor
 |Spite      |2 Yellow Shards    |
 |Trick      |3 Blue Shards      |
 
-If you beat the garden guardian at the bottom of town, he’ll let you
+If you beat the garden guardian at the bottom of town, he'll let you
 into his garden. Check the middle normal grass tile, and right fence
 post on the bottom, for a *Moon Stone* and *Rare Candy* respectively.
 Pick up the *Rash Mint* too.
 
 The pumpkin to the left of the entrance to the town contains a *Honey.*
-The red flower to the south of Ren’s house contains a *Ghost Gem,* and
+The red flower to the south of Ren's house contains a *Ghost Gem,* and
 to the left side of the house here one tile south of the red flower is a
 hidden *Dark Gem.* North of the Pokemon Center is a pumpkin, one tile
 above is a *Red Shard.* To the left is some tables - the bottom left has
@@ -3112,7 +3112,7 @@ Goldenleaf Pokemart
 |*Super Repel* |$500 |
 |*Escape Rope* |$550 |
 
-Inside Ren’s house, read Reina’s diary then check the couch for $500.
+Inside Ren's house, read Reina's diary then check the couch for $500.
 
 Check out the graveyard at the top:
 
@@ -3165,7 +3165,7 @@ Wispy Ruins
 | Natu                  | 9        |
 | **Xatu**              | 1        |
 
-There’s nothing else we can do here till we get 4 badges though, so head
+There's nothing else we can do here till we get 4 badges though, so head
 back outside.
 
 ## Wispy Path and Goldenwood Forest Visit 2
@@ -3199,19 +3199,19 @@ style="width:6.64583in;height:4.96875in" />
 Talk to the guy up here, then to **Espurr**. It will let you do a
 variety of fun things with it; each increases your friendship with it.
 Choosing to give it ice cream, especially Blue Moon Ice Cream, raises it
-by a lot. Once you’ve gotten its friendship high enough and try to leave
+by a lot. Once you've gotten its friendship high enough and try to leave
 it will join your party. (+1 Karma)
 
 Head down the stairs and around to the right. In the top right of the
-park, you’ll see a little pumpkin up above - two tiles up and one right
-is a hidden *Ghost Gem.* Head to the left, you’ll see a big pumpkin on
-the ground. One tile left, and two right and two up, you’ll find a
+park, you'll see a little pumpkin up above - two tiles up and one right
+is a hidden *Ghost Gem.* Head to the left, you'll see a big pumpkin on
+the ground. One tile left, and two right and two up, you'll find a
 *Careful Mint* and a *Rawst Berry.* The right tile of the green tree
 below contains a *Green Shard.* Down from here, the empty spot on the
 right with a tall grass in all four directions contains an *Ability
 Capsule.* The tiny tree below contains a *Hyper Potion.*
 
-Head into the gatehouse on the left side and you’ll be recruited by “C”
+Head into the gatehouse on the left side and you'll be recruited by “C”
 to take care of the Dimensional Rift, but only after a 3v3 battle with
 his three bug types.
 
@@ -3234,8 +3234,8 @@ International Police “C”
     -   Signal Beam
 
 Orbeetle can be annoying if it puts you to sleep, so have a way to
-account for that. Ariados isn’t hard to take down but make sure you
-don’t let Galvantula sweep after a Charge Beam or two. Fire types will
+account for that. Ariados isn't hard to take down but make sure you
+don't let Galvantula sweep after a Charge Beam or two. Fire types will
 do well here!
 
 Goldenwood Forest (2nd Visit)
@@ -3252,10 +3252,10 @@ Goldenwood Forest (2nd Visit)
 | Spewpa        | 4        |                |          |
 | Furret        | 1        |                |          |
 
-First thing we’re going to do is head into Goldenwood Cave. We couldn’t
+First thing we're going to do is head into Goldenwood Cave. We couldn't
 get here with Rock Smash before, but now that we can, go ahead and pick
 up the *Rare Candy* and *Nugget*! Your Pokemon should be able to now
-beat the Leavanny trainer, if you haven’t yet.
+beat the Leavanny trainer, if you haven't yet.
 
 Outside the cave, head right as soon as you can. Two tile directly below
 the first tree is a *Chesto Berry.* Down the stairs, the top left tile
@@ -3263,7 +3263,7 @@ by the river is a *Nest Ball.* Four tiles right and six down from the
 sign is a hidden *Ether.* Across the bridge two tiles up and two tiles
 left from the first blue mushrooms you see is a *PP Up.* The middle tile
 in the bottom on the left by the water is a *GourmetTreat*. Heading
-right, there’s a grove in the top right: below the skinny tree is a
+right, there's a grove in the top right: below the skinny tree is a
 hidden *Great Ball.* Down from here there are two sets of red mushrooms:
 above the second is a *Reverse Candy.* In the former garden below the
 second accessible tile from the right on top has an *Oran Berry.* To the
@@ -3272,7 +3272,7 @@ the stairs contains a *Persim Berry.* Go up the first stairs then left.
 Two tiles right of the leftmost red flower is a *Sitrus Berry.* Pick up
 the *Guard Spec.* below.
 
-Head up to where you fought Zetta. Once you’re ready, interact with the
+Head up to where you fought Zetta. Once you're ready, interact with the
 dimensional rift to engage Gyarados.
 
 Dimensional Rift Gyarados (Forest Field)
@@ -3289,7 +3289,7 @@ Take it out, and C will thank us. (+1 Karma)
 
 ## Wispy Tower
 
-As soon as that’s over, enter Wispy Tower from the top of Wispy Path. On
+As soon as that's over, enter Wispy Tower from the top of Wispy Path. On
 the right, below the middle of five trees in the middle of the street is
 a hidden *Bold Mint.* Head in.
 
@@ -3297,14 +3297,14 @@ Relationship Point Choices:
 - I accept! (Aelita +2, Narcissa +4)
 - I dunno... (Aelita -1, Narcissa -2)
 
-Once that’s done, head back into the Pokemon Center and talk to Aelita.
+Once that's done, head back into the Pokemon Center and talk to Aelita.
 
 Relationship Point Choices:
 - It was nothing.. (Ren +2, Aelita +2)
 - Kinda uncomfortable. (Ren +1, Aelita +1)
 - Uhh what's happening? (Neutral)
 
-After a scene you’ll be taken into a battle. Head upstairs to talk to
+After a scene you'll be taken into a battle. Head upstairs to talk to
 Aelita and sleep, then defeat the three Xen grunts downstairs disguised
 as Ghost types. Upstairs, head into the room at the top. When you regain
 control, beat the trainer.
@@ -3314,7 +3314,7 @@ Relationship Point Choices:
 - I want to go home. (Mosely -2)
 - Time to whoop ass! (Neutral)
 
-We’re going back to Wispy Tower. Enter Wispy Tower and go through the
+We're going back to Wispy Tower. Enter Wispy Tower and go through the
 newly revealed path. After talking to Geara, Mosely and Narcissa will
 join you.
 
@@ -3328,7 +3328,7 @@ Forsaken Laboratory
 | Geodude              | 10       |
 | **Dugtrio**          | 9        |
 
-Note that the grunts here have some Shadow Pokemon, but we can’t catch
+Note that the grunts here have some Shadow Pokemon, but we can't catch
 them with a broken snag machine. Sad.
 
 Enter the left room to get a *Revive.* The room next door will give us a
@@ -3368,15 +3368,15 @@ Team Xen Eli and Sharon (Short Circuit Field)
     -   Magical Leaf
     -   Psywave
 
-It’s been a while since we’ve had to fight this pair, but it’s luckily
+It's been a while since we've had to fight this pair, but it's luckily
 not too much worse this time. Their main strategy here relies on moves
 that slow down your Pokemon, by stat-lower and paralysis. Tangela and
 Lickitung are slightly bulky, so bring out your own bulky party members
 to bring them down and save your faster Pokemon for Honchkrow and
-Mismagius and you’ll likely be alright.
+Mismagius and you'll likely be alright.
 
 After the fight, make sure you heal, then return and go downstairs and
-through the door. Go up and you’ll fight Geara!
+through the door. Go up and you'll fight Geara!
 
 Xen Executive Geara (Short Circuit Field)
 
@@ -3386,7 +3386,7 @@ Xen Executive Geara (Short Circuit Field)
     -   Slash
     -   Thunderbolt
 
-This is a tough fight. You’re gonna need to break the barriers, but
+This is a tough fight. You're gonna need to break the barriers, but
 luckily your own Ghost and Dark moves are boosted by the field, so that
 should help. Burning it and lowering its special attack may be the key
 to victory since it is fast enough to take out your Pokemon quickly. You
@@ -3434,7 +3434,7 @@ are very effective at stalling, but you can try to time knocking them
 out so that the screens run out. Haunter and Masquerain hit hard but if
 you have set up any of your Pokemon you may be able to succeed!
 
-When you’re back in town, you can proceed to the gym immediately, or go
+When you're back in town, you can proceed to the gym immediately, or go
 tackle a side area real fast.
 
 ## Mirage Woods
@@ -3465,23 +3465,23 @@ Ancient Kingdra (Forest Field)
 This might be a tough one! If you have some way to lower its special
 attack do it, though note that Snipe Shot will often crit. Luckily its
 first turn and every turn that rain ends it will probably use Rain
-Dance, so that’s your chance to mess with it via paralysis or stat
-drops. It doesn’t have any way to heal.
+Dance, so that's your chance to mess with it via paralysis or stat
+drops. It doesn't have any way to heal.
 
 Once you succeed, head north across the bridge. Grab the *Telluric Seed*
 to the right.
 
-If you enter the left house, there’s a *Steam Ball* on the ground. Talk
-to the scientist in the top right, then he’ll let you into the other
+If you enter the left house, there's a *Steam Ball* on the ground. Talk
+to the scientist in the top right, then he'll let you into the other
 buildings. The bottom right building contains an *Itemfinder!* Helpful
 to find hidden items. Feel free to use it to find any of the previous
-hidden items if you haven’t obtained them yet.
+hidden items if you haven't obtained them yet.
 
-Start using it around the woods. In total, you’ll find: A *Clever Wing,
+Start using it around the woods. In total, you'll find: A *Clever Wing,
 Repel, Black Flute, Genius Wing, Green Shard, Ether, Zinc, Pretty Wing,*
 and *Moomoo Milk.*
 
-If you haven’t yet gotten Flash from the Casino, we’ll need it for the
+If you haven't yet gotten Flash from the Casino, we'll need it for the
 next quest. Once you have Flash taught to a Pokemon, enter the upper
 right house.
 
@@ -3523,25 +3523,25 @@ Pokegang Crobat (Cave Field)
     -   Confuse Ray
 
 A good Rock or Steel type with high defense can effectively wall this
-battle. If you manage to win, you’ll get a **Zubat** afterwards!
+battle. If you manage to win, you'll get a **Zubat** afterwards!
 
-Once you’re ready, exit to Sheridan village. There’s one more side quest
-we can do here. On the south side of town, you’ll see a Sawk and Throh
-standing by a woman. After a scene and a fight with a trainer, you’ll
+Once you're ready, exit to Sheridan village. There's one more side quest
+we can do here. On the south side of town, you'll see a Sawk and Throh
+standing by a woman. After a scene and a fight with a trainer, you'll
 have a chance to catch **Throh!**
 
-Talk to the trucker to head back to Gearen City - we’re going to make a
-pitstop with Zumi. For catching Drifloon, she’ll give us 3 *Exp. Candy
+Talk to the trucker to head back to Gearen City - we're going to make a
+pitstop with Zumi. For catching Drifloon, she'll give us 3 *Exp. Candy
 M*. Talk to the blue haired girl, then pay to enter the main part of the
 library. In the room on the left, talk to the girl in here to do a quiz.
-If you answer all the questions correctly, you’ll get a *Thunderstone!*
+If you answer all the questions correctly, you'll get a *Thunderstone!*
 The answers are brown, Goldenwood, and Goldenleaf.
 
 ## Phantasm Badge
 
-After you’ve left Narcissa’s house, talk to the Audino breeder next to
+After you've left Narcissa's house, talk to the Audino breeder next to
 the Pokemon Center for a repeatable battle against 3 Audino. Each time
-you win, you’ll get *5* *Exp. Candy S*.
+you win, you'll get *5* *Exp. Candy S*.
 
 Enter the theater and talk to Narcissa
 
@@ -3567,7 +3567,7 @@ Yamask and Duskull might be helpful for our upcoming gym battle.
 
 Enter the door on the left, then talk to Mimikyu and read the sign. As
 the NPC says outside, follow the lit torches through the dungeon.
-Although it may feel like you’re going in circles, just keep following
+Although it may feel like you're going in circles, just keep following
 the torches until you finally pass through a mirror and get to the heal
 and PC stars. Head through the door.
 
@@ -3609,13 +3609,13 @@ Pokemon Trainer Ren
     -   Drill Peck
 
 This is an easy battle to be honest. Flash and Dazzling Gleam
-temporarily nullify the field if you don’t want to be overwhelmed by his
-Ghost and Dark moves. Once you’re done with Ren, say no to his question
+temporarily nullify the field if you don't want to be overwhelmed by his
+Ghost and Dark moves. Once you're done with Ren, say no to his question
 for maximum relationship points, then head up and get ready to face
 Narcissa.
 
 In the auditorium, head down and grab the items: *Super Potion, Rawst
-Berry,* and *Rare Candy.* When you’re ready, take on Narcissa.
+Berry,* and *Rare Candy.* When you're ready, take on Narcissa.
 
 Leader Narcissa (Haunted Field over Forest Field)
 
@@ -3654,16 +3654,16 @@ Spectral Scream: Ghost \| Special \| 65 power \| 100% accuracy \| 60%
 chance to raise user's Defense by 1 stage \| On Haunted Field, power is
 boosted x1.5 \| Turns Blessed Field into Haunted Field.
 
-As you can see, Narcissa’s team is very tanky and will not hesitate to
+As you can see, Narcissa's team is very tanky and will not hesitate to
 burn and sleep you to death, so make sure you have counters for these
 things in place. Her Mismagius is fast and with the field hits like a
 truck, so you must find a way to live a hit. Flame Charge is boosted by
 the field and given Ghost sub-typing, so if you use that move it may
-allow you to sweep. Alternatively, if you have Flash, use it! It’ll
+allow you to sweep. Alternatively, if you have Flash, use it! It'll
 remove the field for two turns. Just be aware she can turn it back by
 using Spectral Scream.
 
-Once you’re done, you’ll get the Phantasm Badge and *TM30 Shadow Ball!*
+Once you're done, you'll get the Phantasm Badge and *TM30 Shadow Ball!*
 Now we can level up to 40.
 
 Head into Wispy Ruins.
@@ -3673,7 +3673,7 @@ Head into Wispy Ruins.
 ## Wispy Ruins
 
 And head back out. Now that the people of Goldenleaf have decided to
-change their ways, they’ll give us some stuff if we talk to them around
+change their ways, they'll give us some stuff if we talk to them around
 town: a *Super Potion,* a *Revive,* a *Full Heal*, and some *Dusk
 Balls!*
 
@@ -3682,7 +3682,7 @@ will let you have it now that we have 4 badges. Enter the bit of Wispy
 Ruins by cutting the tree next to the gym. Step on the tile, then enter
 the newly opened 4-badge gate door. Inside the chest is a *Big Nugget*!
 Head into the graveyard at the west of town at night with a
-GourmetTreat, and you’ll find a **Misdreavus!**
+GourmetTreat, and you'll find a **Misdreavus!**
 
 Now, head back into Wispy Ruins. Enter the stairs and watch the scene,
 then go up in the cave. After going up again, a couple of Shuppet will
@@ -3700,18 +3700,18 @@ Wispy Chasm
 | Linoone (Galarian)   | 1        |
 | **Claydol**          | 1        |
 
-Our goal here is to trap all the Shuppet into corners. There’s one in
+Our goal here is to trap all the Shuppet into corners. There's one in
 the southwest - after it moves for the first time, go down, left, down,
-up, right, right. Now go up to the west middle area where you’ll see
+up, right, right. Now go up to the west middle area where you'll see
 another. Once it moves for the first time, go down, left, down, then
-right until you can’t anymore, then up. Also, grab this *Max Repel*
-while you’re here.
+right until you can't anymore, then up. Also, grab this *Max Repel*
+while you're here.
 
-Head down from here, hidden is a *Yellow Shard.* You’ll see a
+Head down from here, hidden is a *Yellow Shard.* You'll see a
 **Phantump** wandering around. It is vital for an event later that you
-get a female one here, so reset if it’s not. Head all the way north
+get a female one here, so reset if it's not. Head all the way north
 afterwards, and past another Phantump, enter the 2-badge gate. In here,
-you’ll get a *Dawn Stone!*
+you'll get a *Dawn Stone!*
 
 Loop back around to the middle, around where the NPC is with the crazy
 hair. Head up and to the right and grab the *Cleanse Ta*g, then follow
@@ -3732,10 +3732,10 @@ ZCell 014: Wispy Ruins
 <img src="/assets/media/rejuv/image14.png"
 style="width:6.67708in;height:4.97917in" />
 
-Head to the right. I recommend healing sometime soon, there’ll be a few
-battles upcoming. Once you’re done, return, then go up. Follow the path
+Head to the right. I recommend healing sometime soon, there'll be a few
+battles upcoming. Once you're done, return, then go up. Follow the path
 until you reach a larger room. Hop your way past all the rocks on the
-right, then you’ll enter a double battle against some Wild Pokemon. This
+right, then you'll enter a double battle against some Wild Pokemon. This
 is an easy fight if you have strong and fast Pokemon.
 
 Proceed to Route 4!
@@ -3778,13 +3778,13 @@ Route 4 Central Area
 | Plusle           | 1   | **Nuzleaf** | 1   |              |     |
 | **Nuzleaf**      | 1   | Minun       | 1   |              |     |
 
-You’ll also notice that there are Pidove, Hoothoot, Cubone, as well as
+You'll also notice that there are Pidove, Hoothoot, Cubone, as well as
 **Flabebe** and **Emolga** in this area!
 
 Interact with the stone den to the right of the bridge for a scene and
 to get 5 *Rift Fragments.* These will allow us to catch Shadow Pokemon
 from within the dens, when we weaken them to 25% HP. They have shields
-like the rifts we’ve fought so far! Not fighting or defeating it gives
+like the rifts we've fought so far! Not fighting or defeating it gives
 250/500 for common/rare dens respectively, while catching gives 500/1000
 respectively.
 
@@ -3792,7 +3792,7 @@ RIFT DEN 1 (\< 8 Badges): The common encounters in this den are
 Graveler, Nuzleaf, **Solosis**, and **Tropius**. The rare ones are
 Bonsly, Meowth, and Finneon.
 
-Head back to the left and let Cairo break the rock. You’ll get a *Moomoo
+Head back to the left and let Cairo break the rock. You'll get a *Moomoo
 Milk.* Head up.
 
 Relationship Point Choices:
@@ -3803,13 +3803,13 @@ RIFT DEN 2 (\< 8 Badges): The common encounters in this second den are
 Tranquill, **Wailmer**, Dunsparce, and **Vullaby**. The rare ones are
 **Chatot**, Snorunt, and Cacnea.
 
-To the right of here, at night, you’ll find roaming **Wooloo.** To the
-right under the bridge, you’ll find that *TM45 Attract* is at the
+To the right of here, at night, you'll find roaming **Wooloo.** To the
+right under the bridge, you'll find that *TM45 Attract* is at the
 bottom.
 
-Enter Cairo’s house. He has a shop set up.
+Enter Cairo's house. He has a shop set up.
 
-Cairo’s Shop (\<8 Badges)
+Cairo's Shop (\<8 Badges)
 
 |Item               |Price             |
 |-------------------|------------------|
@@ -3825,7 +3825,7 @@ Cairo’s Shop (\<8 Badges)
 
 Crests are unique held items that give the species in question unique
 strengths to make them better. As you can tell from the two on display,
-they’re generally given to Pokemon that are otherwise bad. The bottom of
+they're generally given to Pokemon that are otherwise bad. The bottom of
 this file has details on what every crest does!
 
 Get the Bike Voucher for now if you want, but otherwise start saving up
@@ -3870,11 +3870,11 @@ Apprentice Nim (Psychic Terrain)
     -   Energy Ball
 
 Our second encounter with Nim sees her Pokemon with much stronger
-Pokemon with stronger Psychic attacks, but they’re still no match for a
+Pokemon with stronger Psychic attacks, but they're still no match for a
 decent team. Good dark types and Pokemon that resist Psychic and/or Rock
-will do well here. Most of her Pokemon are slow and she doesn’t have any
+will do well here. Most of her Pokemon are slow and she doesn't have any
 speed control, so if you can outspeed and cripple one or both of her
-Pokemon per turn you’ll likely find a way through this one.
+Pokemon per turn you'll likely find a way through this one.
 
 Enter Akuwa Town and go with Aelita to the old man. We will explore
 Akuwa Town in a bit, but there are some quests we can do! Skip the
@@ -3883,14 +3883,14 @@ following section to proceed through the story.
 ## Lost Camp Part 1, and Floria Side Quests
 
 Head to the left, and sneak through the gap in the fence. Enter Lost
-Camp and talk to Maman. She’ll quest us with finding kids to populate
+Camp and talk to Maman. She'll quest us with finding kids to populate
 the camp, and if you talk to her again a few times, to upgrade the land.
 The land upgrades total $2500 for the first wave, so do this if you have
 the money.
 
-She won’t upgrade further until we’ve found four children - so let’s go
-ahead and start finding them. They’re located all over the world map, so
-we’ll be taking a brief tour to get them all. A truck driver in Akuwa
+She won't upgrade further until we've found four children - so let's go
+ahead and start finding them. They're located all over the world map, so
+we'll be taking a brief tour to get them all. A truck driver in Akuwa
 Town can take us to the previous towns. Five *lost kids* are reachable
 for now:
 
@@ -3899,7 +3899,7 @@ for now:
     the first bridge down in an alcove at the bottom.
 
 2.  James can be found by entering Spring of Purification from Sheridan
-    Village. He’s on the right.
+    Village. He's on the right.
 
 3.  Marissa can be found on Wispy Path in the upper right corner of
     where Espurr played with you.
@@ -3908,8 +3908,8 @@ for now:
 
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
 
-These are the only five we can get before we get a few more HM’s, so
-return to the Lost Camp and there’ll be a few new things we can do.
+These are the only five we can get before we get a few more HM's, so
+return to the Lost Camp and there'll be a few new things we can do.
 
 First, Maman will let us donate again. Donate another $2500, and the
 camp will be upgraded for a second time! Exit and return.
@@ -3935,12 +3935,12 @@ Lost Camp: Matthew Shop
 |*Fire Stone* |$2100|
 |*Leaf Stone* |$2100|
 
-As an aside, if you want quick AP, we can use Matthew’s stones to fill
+As an aside, if you want quick AP, we can use Matthew's stones to fill
 out a lot of categories Fill up a team with Pickup mons (pickup points),
 then catch lots of Pansage/Pansear/Panpour (catching points).
 Alternatively, breed them (egg hatching points and walking around
 points). Catch any shinies you find as well (catch shiny points). Then,
-using money you’ve gotten from selling Pickup items (selling points),
+using money you've gotten from selling Pickup items (selling points),
 buy stones from Matthew (buying points) and use them to evolve each of
 your monkeys. (evolution points and evolve-by-stone points).
 
@@ -3948,29 +3948,29 @@ Return to Gearen City, and exchange the Bike Voucher for a *Bicycle!*
 Gotta go fast.
 
 I recommend also at this point buying the Golden Surfboard and, if you
-have the AP, the Golden Claws. We won’t be able to come back here for a
-little while after getting surf, so if you don’t want to burden your
+have the AP, the Golden Claws. We won't be able to come back here for a
+little while after getting surf, so if you don't want to burden your
 party, get the surfboard now.
 
 Level up Slugma to Level 38 to get **Magcargo.** Add it and Emolga to
-your party, then head back to Route 2’s trailer to get *Charcoal* and
+your party, then head back to Route 2's trailer to get *Charcoal* and
 *Magnet,* as well as *TM96 Nature Power!*
 
 ## Mystery Egg
 
-There’s one more quest we can do. This will get us a very strong
-Pokemon, but if you’re not interested, go ahead and skip to the Route 4
+There's one more quest we can do. This will get us a very strong
+Pokemon, but if you're not interested, go ahead and skip to the Route 4
 section.
 
 Go back through Wispy Ruins to Goldenleaf Town, then take the truck to
-get to Sheridan Village. We’re gonna take the female Phantump we caught
+get to Sheridan Village. We're gonna take the female Phantump we caught
 and breed it at the day care. Of what we have, male Cacnea, Oddish,
 Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices
 for partners if you have them. Once you get a Phantump egg, make sure it
-doesn’t hatch, and walk to Route 3.
+doesn't hatch, and walk to Route 3.
 
 This will only work during the daytime, but return to the Route 3
-market, and talk to the boy in front of the old man. He’ll offer you a
+market, and talk to the boy in front of the old man. He'll offer you a
 trade of the mystery egg he just got for your Phantump egg.
 
 The mystery egg is unfortunately determined as you start your save file,
@@ -3979,16 +3979,16 @@ egg will be one of these Pokemon: **Azurill, Aron, Absol, Togepi,
 Sneasel, Dhelmise, Aevian Litwick, Axew, Mienfoo, Pawniard, Trapinch,
 Mudbray, Cottonee, Darumaka, Hatenna, Starly, Tyrunt, Larvesta,
 Mareanie, Stufful, Rookidee.** These will all be available at some point
-later in the game (though not necessarily this version), so don’t fret
-if you don’t get your favorite right now.
+later in the game (though not necessarily this version), so don't fret
+if you don't get your favorite right now.
 
 For now, head back to Route 4 through Wispy Path.
 
-## Akuwa Town? - AkuwaT1
+## Akuwa Town?
 
 Now we can explore Akuwa Town a bit. Itemfinder at the entrance to the
-town will get you a *Super Repel.* There’s an egg in the bottom right
-corner of town. Once it hatches, you’ll get **Ducklett!** There’s also
+town will get you a *Super Repel.* There's an egg in the bottom right
+corner of town. Once it hatches, you'll get **Ducklett!** There's also
 wild Pokemon in the grass.
 
 Akuwa Town
@@ -4011,7 +4011,7 @@ Akuwa Town
 
 
 Head up to the gym area, but before you go in, directly head east.
-Behind a tree you’ll find Jessibelle, the sixth of nine *lost kids* who
+Behind a tree you'll find Jessibelle, the sixth of nine *lost kids* who
 you can send to the lost camp. To the left of the gym is a *Modest
 Mint.*
 
@@ -4024,10 +4024,10 @@ style="width:6.63542in;height:5.03125in" />
 
 Talk to Aelita and then enter the Pokemon Center and go to the back to
 get a *Defibrillator,* then use it on the old guy. Head down to the
-beach area -- here you’ll be able to fight wild **Corsola.** You’ll also
+beach area -- here you'll be able to fight wild **Corsola.** You'll also
 find *TM135 Brine.* Hidden on the beach is a *Soda Pop.*
 
-Head up and up the ladder you’ll see here and grab:
+Head up and up the ladder you'll see here and grab:
 
 ZCell 016: Akuwa Town (ignore the Ditto!)
 
@@ -4035,28 +4035,28 @@ ZCell 016: Akuwa Town (ignore the Ditto!)
 style="width:6.6875in;height:5.04167in" />
 
 At this point we will not be able to come back for a bit, so make sure
-you’re ready with all the Pokemon you want to catch on this island for
+you're ready with all the Pokemon you want to catch on this island for
 now, and every quest you wanted to finish.
 
-Once you’re ready, head into the Aquarium/gym and go into the backroom.
-You don’
+Once you're ready, head into the Aquarium/gym and go into the backroom.
+You don'
 
 ## Blacksteeple Castle
 
 Blacksteeple is one of my favorite sections of this game, but its very
 story driven and has relatively few battles, items, wild Pokemon and the
-like. I’ll be telegraphing every move you must do during this part of
-the game, but I also do believe it’s more fun to play this part without
-referencing any guide unless you get stuck. We won’t be able to come
+like. I'll be telegraphing every move you must do during this part of
+the game, but I also do believe it's more fun to play this part without
+referencing any guide unless you get stuck. We won't be able to come
 back later (at least in this version), so it might be a good idea to
-scan this section after you’re done to ensure you don’t miss anything.
+scan this section after you're done to ensure you don't miss anything.
 As a note - the outdoor section in the middle will be referred to as the
 courtyard, the east section will be the quarry, and the left section
 will be the fields.
 
 ### Day 1
 
-We’ll wake up in the cells. Go to sleep.
+We'll wake up in the cells. Go to sleep.
 
 Relationship Point Choices:
 - How did you? (Neutral)  
@@ -4073,7 +4073,7 @@ Relationship Point Choices:
 - Where's Aelita? (Neutral)  
 - Are we done here? (Aelita -1)
 
-Exit Neved’s office and head back down the stairs and head all the way
+Exit Neved's office and head back down the stairs and head all the way
 up into the colorful door. Talk to the crew, then exit the room. If you
 go into the battle room and exit to the right, you can access some grass
 with wild Pokemon.
@@ -4090,7 +4090,7 @@ Blacksteeple Castle
 | **Delibird**  | 2        |
 
 I recommend catching everything here, in particular Cramorant, who we
-can’t get later on.
+can't get later on.
 
 Head back to your bed and get some sleep.
 
@@ -4113,7 +4113,7 @@ Blacksteeple Castle Shop
 |*Escape Rope* |$550 |
 
 Talk to the right guard, then head into the courtyard. On the right-side
-upper level, you’ll find a kid, battle him to get the *Mining Kit.*
+upper level, you'll find a kid, battle him to get the *Mining Kit.*
 
 Enter the quarry again and talk to Adam.
 
@@ -4178,8 +4178,8 @@ Mining Probabilities
 | *Splash Plate*   | 0.3%          |
 | *Pixie Plate*    | 0.3%          |
 
-These items can be nice to pick up, but you’ll be able to get them all
-over the story so don’t stress too much right now. Once we can revive
+These items can be nice to pick up, but you'll be able to get them all
+over the story so don't stress too much right now. Once we can revive
 fossils, I will mention them all at once, but feel free to mine at your
 leisure. If you save in front of a rock and press F12, you can reset the
 items within.
@@ -4195,7 +4195,7 @@ Beat the trainer. After all that, head into the battle room.
 
 ### Night 2
 
-Now you’ll control Emma for a bit. Make your way through the path and
+Now you'll control Emma for a bit. Make your way through the path and
 all the way to the right. After the first minecart goes, head left and
 up the hill to talk to a robot for a battle. Push it into its spot, then
 repeat with the robot to the left. Finally fly over the pit at the
@@ -4205,7 +4205,7 @@ Head into this room, then interact with the computer.
 
 ### Day 3
 
-Head out and watch all the scenes. When you regain control, it’s time
+Head out and watch all the scenes. When you regain control, it's time
 for 3v3 battles in the battle room. The first two are easy, however the
 last is against Emma.
 
@@ -4248,9 +4248,9 @@ dining hall.
 
 In the prestige room, talk to the candelabra then the bookshelf.
 
-Next, you’ll play as Emma again. Head to the battleship first. Then
+Next, you'll play as Emma again. Head to the battleship first. Then
 sneak your way through the courtyard and then the castle to reach the
-third floor. Enter Neved’s room, then the room to the right.
+third floor. Enter Neved's room, then the room to the right.
 
 Back outside enter the library and talk to the wide blue bookshelf on
 the left. Then talk to the bookshelf in the middle, then beat the
@@ -4258,7 +4258,7 @@ trainer.
 
 ### Day 4
 
-There’s an impossible battle coming up as soon as we do the next
+There's an impossible battle coming up as soon as we do the next
 cutscene, so make sure if you want to win add Fletchling with Quick
 Guard to your party.
 
@@ -4308,11 +4308,11 @@ Xen Executive Madelis (Cave Field)
 
 Be wary of Cinccino, as its 5-hit rock blast is boosted by the cave and
 tail slap hits hard. Her Houndoom and Salazzle can hit hard but if you
-can shut them down with a strong Rock or Water type, you’ll be ok.
+can shut them down with a strong Rock or Water type, you'll be ok.
 
 Outside, Nancy will join up with you! Beat the guards as you go. She has
-a Level 65 Sylveon (!) so you shouldn’t have to worry much. Once you get
-to the courtyard, head back up to Neved’s office.
+a Level 65 Sylveon (!) so you shouldn't have to worry much. Once you get
+to the courtyard, head back up to Neved's office.
 
 Relationship Point Choices:
 - Are you okay? (Aelita +3)
@@ -4356,10 +4356,10 @@ Xen Executive Neved (No Field)
     -   Razor Shell
     -   Rock Slide
 
-Neved has a team that’s entirely above your level cap, but you also get
-to effectively 12 on 6 him with Aelita on your side, so it’s not too
+Neved has a team that's entirely above your level cap, but you also get
+to effectively 12 on 6 him with Aelita on your side, so it's not too
 tough of a fight. Manectric is insanely fast and likes to one-shot
-Aelita’s Pokemon, so take it out quickly if you can. Crippling
+Aelita's Pokemon, so take it out quickly if you can. Crippling
 Crabominable with a burn or attack lower might be a good strategy while
 you clean up the left side. Watch out for Barbaracle too which hits
 surprisingly hard. Anyways, just keep up the pressure and make sure the
@@ -4372,8 +4372,8 @@ Madame X (No Field)
 -   Yveltal, Level 100. @ Soul Stone.
     -   Decimation
 
-This is one of those ‘impossible’ RPG battles. Ultimately, you’re
-supposed to lose this one obviously, but if you’re crafty, the game will
+This is one of those ‘impossible' RPG battles. Ultimately, you're
+supposed to lose this one obviously, but if you're crafty, the game will
 acknowledge your victory should you manage to succeed with +1 Karma.
 
 Decimation is a priority move, but it ignores abilities. Hence, we have
@@ -4392,7 +4392,7 @@ Goodbye Blacksteeple Castle!
 
 ## Xen Battleship
 
-We’ll wake up on the ship with Adam.
+We'll wake up on the ship with Adam.
 
 Relationship Point Choices:
 - ... (Neutral)
@@ -4401,7 +4401,7 @@ Relationship Point Choices:
 
 Grab the Poke Ball at the table to get **Mawile.**
 
-There’s an Audino breeder in here, and each time you win you’ll be given
+There's an Audino breeder in here, and each time you win you'll be given
 5 *Exp. Candy M*.
 
 Exit the room and head down then to the right.
@@ -4413,10 +4413,10 @@ Relationship Point Choices:       
 - ... (Melia -1)
 
 Your *Snag Machine* will finally be fixed! Reenter the interior and head
-down the stairs to the right to grab the *Dull Key!* We’ll be using this
+down the stairs to the right to grab the *Dull Key!* We'll be using this
 a bit later.
 
-There’s also the Akuwa town merchant here:
+There's also the Akuwa town merchant here:
 
 Xen Battleship Store
 
@@ -4470,7 +4470,7 @@ Enigma Melia (Factory Field)
 
 Gilded Arrow: Type is the same as the user's secondary type, unless the
 user is single-typed or their secondary type is Dragon or Fairy, in
-which case the type is the user’s primary type \| Special \| 80 power \|
+which case the type is the user's primary type \| Special \| 80 power \|
 100% accuracy \| Increased critical hit rate.
 
 Melia has added three more Pokemon since last time, but her team is
@@ -4480,12 +4480,12 @@ After you win, head out to the deck and talk to Melia again.
 
 ## Terajuma Shore
 
-Once you beach, you’ll have to battle two rangers. Winning grants +3
+Once you beach, you'll have to battle two rangers. Winning grants +3
 Melia relationship points, while losing takes away -3 Melia relationship
 points.
 
 Back on the ship, head up the two ladders to reach *TM136 Assurance.*
-Head down from the ship, and you’ll see a **Pyukumuku** on the shore.
+Head down from the ship, and you'll see a **Pyukumuku** on the shore.
 
 Terajuma Island
 
@@ -4518,12 +4518,12 @@ Shore Store
 |*Spice Powder* |$850 |
 
 Some optional content will require us to have 5 total Spice Powder
-eventually, so buy them here. You’ll see a guy here who will offer to
+eventually, so buy them here. You'll see a guy here who will offer to
 boat us back to Gearen City for a price - a way to go free will open up
 a bit after the upcoming gym fight, so I would recommend waiting unless
 you need something from Floria Island for the fight.
 
-When you’re ready, head into Terajuma Jungle to the north.
+When you're ready, head into Terajuma Jungle to the north.
 
 ## Terajuma Jungle
 
@@ -4532,7 +4532,7 @@ Relationship Point Choices:
 - Wanna do a test run? (Adam +2)  
 - Can you two stop? (Neutral)
 
-You’ll be free to explore Terajuma Jungle after a few cutscenes.
+You'll be free to explore Terajuma Jungle after a few cutscenes.
 
 Terajuma Jungle
 
@@ -4556,21 +4556,21 @@ There are also Hoppip flying around in the mornings. Via itemfinder, on
 the right side pick up a *Sitrus Berry.* Towards the left is a *Fire
 Gem.*
 
-Once you’ve gotten a feel for the middle area, talk to the group of your
-friends, specifically Melia, on the left side. We’re going to have to
+Once you've gotten a feel for the middle area, talk to the group of your
+friends, specifically Melia, on the left side. We're going to have to
 take the long way, so head into the left path and into the cave.
 
 Relationship Point Choices:
 - Four, is that enough? (Melia +1)
-- What’s a badge? (Melia +2)
+- What's a badge? (Melia +2)
 - Can't I just swim? (Valarie +1)
 
-After a brief conversation there’s just one thing left to do for this
+After a brief conversation there's just one thing left to do for this
 section!
 
 ## Dewdrop Badge
 
-Once you’ve healed, talk to Valarie outside for her gym battle.
+Once you've healed, talk to Valarie outside for her gym battle.
 
 Water Show Performer Valarie (Water Surface)
 
@@ -4620,7 +4620,7 @@ the first two fast attackers though, a strong physical set up sweeper
 might be able to get through the rest of her team. An alternative is to
 transform the field: 2 uses of Sludge Wave turns it into Murkwater,
 which takes away some of her advantages and can help a Poison-type
-oriented team, though she can turn it back with Lanturn and Dewgong’s
+oriented team, though she can turn it back with Lanturn and Dewgong's
 Whirlpool.
 
 Relationship Point Choices:
@@ -4635,9 +4635,9 @@ Relationship Point Choices:
 Head back to where you had the battle, then talk to Melia to get *HM03
 Surf!*
 
-First thing’s first: we can now explore all the bodies of water we want
-with Surf. There’re just a few things we can do on the pier and shore
-areas, then we’ll continue in the jungle.
+First thing's first: we can now explore all the bodies of water we want
+with Surf. There're just a few things we can do on the pier and shore
+areas, then we'll continue in the jungle.
 
 Start back at the first island map, where the shop is.
 
@@ -4659,7 +4659,7 @@ ZCell 017: Terajuma Island
 style="width:6.6875in;height:5.02083in" />
 
 Surf up at the bridge, on the left of the fence. Itemfinder points us to
-a *Lemonade.* We can’t do anything with the house, so head west one
+a *Lemonade.* We can't do anything with the house, so head west one
 screen to Terajuma Pier.
 
 Go all the way to the left, then down. Surf down from here. Grab the
@@ -4675,8 +4675,8 @@ Terajuma Jungle
 | Carvanha       | 95       |
 | **Golduck**    | 5        |
 
-Once you’re ready, enter Jirukala Cavern and surf around. On the right,
-a rock will hide a *Rock Gem*. We can’t rock climb yet, so exit to the
+Once you're ready, enter Jirukala Cavern and surf around. On the right,
+a rock will hide a *Rock Gem*. We can't rock climb yet, so exit to the
 left. Go down and left.
 
 After the scene, grab the 3 *Oran Berries,* and the *Dusk Ball.*
@@ -4705,7 +4705,7 @@ Jungle Store
 
 Once you go inside the ranger station, meet with the group to the right.
 Head back out, then go up at the first place you can. This map has a
-slightly different set of encounters to that we’ve already seen.
+slightly different set of encounters to that we've already seen.
 
 Deep Terajuma Jungle West (Forest Field)
 
@@ -4723,8 +4723,8 @@ Deep Terajuma Jungle West (Forest Field)
 | Noctowl             | 1        |                   |          |                       |          |                |          |
 
 Cross the bridge to the right, then head down to grab a *Full Heal.* Go
-all the way up to Melia. You’ll then have to battle the Carnivine,
-though you can’t catch it. Outcomes give Relationship Points: winning
+all the way up to Melia. You'll then have to battle the Carnivine,
+though you can't catch it. Outcomes give Relationship Points: winning
 grants +1 Melia, losing grants -1 Melia, running grants -2 Melia.
 
 Follow her to the right. Itemfind for a *TinyMushroom* and grab the
@@ -4799,9 +4799,9 @@ especially as he uses the field well. His Krookodile and Persian each
 have boosted Grass moves, so be careful to not send in slower water
 types. Marowak and Grimmsnarl can be pains if you let them set up, so
 setting up rocks can help tremendously here. Overpower him with stronger
-mons that counter his and you’ll be fine.
+mons that counter his and you'll be fine.
 
-As soon as you’re done, we’re back in a rift. Grab the *Rift Notes: Code
+As soon as you're done, we're back in a rift. Grab the *Rift Notes: Code
 Sarpa*. Heal and switch out your party, grab the pulse notes, and get
 ready.
 
@@ -4825,7 +4825,7 @@ moves if you must. Even with its ability Ice moves are good, as are Bug,
 Flying, Dragon, Fairy.
 
 Enter the house here and grab the *Focus Band.* I recommend adding it to
-something on your team that isn’t holding an item - might as well give
+something on your team that isn't holding an item - might as well give
 your team an extra edge. Outside hidden is a *TinyMushroom.*
 
 Exit and go to the right. Go down, as we can explore this upper area.
@@ -4836,23 +4836,23 @@ ZCell 018: Terajuma Jungle
 <img src="/assets/media/rejuv/image18.png"
 style="width:6.67708in;height:5.01042in" />
 
-On the right you’ll find a *Brave Mint* as well as a hidden *Super
+On the right you'll find a *Brave Mint* as well as a hidden *Super
 Repel.*
 
 Exit north to Kakori Village.
 
-Talk to the characters at the village. You’ll get a +1 Melia
-Relationship Point if you’ve already helped take out Rift Gyarados in
+Talk to the characters at the village. You'll get a +1 Melia
+Relationship Point if you've already helped take out Rift Gyarados in
 Goldenwood Forest for the second time.
 
-This moment clears some of the vines in the jungle, so we’re going to
-head back down to grab a few things quick. If you don’t want to catch
+This moment clears some of the vines in the jungle, so we're going to
+head back down to grab a few things quick. If you don't want to catch
 more Pokemon or get some items, jump to the next section now.
 
 Before we start, grab a Dunsparce from the Pokemon Center PC.
 
-Re-enter the forest and talk to the first girl from the top. She’ll tell
-you she wants someone to watch her Growlithe. Like Espurr, we’re gonna
+Re-enter the forest and talk to the first girl from the top. She'll tell
+you she wants someone to watch her Growlithe. Like Espurr, we're gonna
 need to get some affection with it. The fastest way to do it is to talk
 to Aelita below:
 
@@ -4860,21 +4860,21 @@ Relationship Point Choices:
 - Join me! (Aelita +1)  
 - Nope. (Neutral)
 
-Then, play ball with her and Growlithe… 31 times. Once you’ve done this,
+Then, play ball with her and Growlithe… 31 times. Once you've done this,
 tell it to follow you, then try to leave the forest to the north and
-you’ll get **Growlithe!** (+1 Karma)
+you'll get **Growlithe!** (+1 Karma)
 
 Head left a map and enter the Weather Institute. The guy in the top
 right will trade for your Dunsparce a **Castform!** You can do this
 infinitely if you want, in fact.
 
-Head back out and go down. Here you’ll see a **Vileplume** in the
+Head back out and go down. Here you'll see a **Vileplume** in the
 ground. Sprinkle the Spice Powder on it, and it will attack. Itemfind
 for a *TinyMushroom,* then cross the bridge to get 3 *Leppa Berries,* 3
 *Pecha Berries,* a *Tanga Berry,* and *Blast Powder.* Save this one!
 
 Head left a map, then go down. After taking out another Vileplume with
-Spice Powder, you’ll have access to *Quick Powder* and another cell.
+Spice Powder, you'll have access to *Quick Powder* and another cell.
 
 ZCell 019: Deep Terajuma Jungle
 
@@ -4886,7 +4886,7 @@ you and request 20 Sitrus Berries. We will be able to buy them in a
 little bit. Make your way to the northwest side of this map, get the
 hidden *Bug Gem,* then go into the clearing.
 
-Just like the Pom-Pom Meadow back in Floria, here’s another meadow with
+Just like the Pom-Pom Meadow back in Floria, here's another meadow with
 another form of Oricorio to be found.
 
 Hula Meadow
@@ -4902,13 +4902,13 @@ Hula Meadow
 | **Oranguru**        | 1        |
 
 Grab two Oranguru if you can - one will be traded away later. In the
-pot, you can find infinite *Pink Nectar.* That’s all we can do here, so
-head back to the jungle. There’s still one thing left to do before we
-proceed into the village… bet you weren’t expecting a legendary Pokemon
+pot, you can find infinite *Pink Nectar.* That's all we can do here, so
+head back to the jungle. There's still one thing left to do before we
+proceed into the village… bet you weren't expecting a legendary Pokemon
 so early, were you?
 
 Exit the jungle south to return to the pier. At nighttime, Surf in the
-bottom section of this area, and you’ll be able to interact with wild
+bottom section of this area, and you'll be able to interact with wild
 **Phione** for a GourmetTreat! Return to the village to progress the
 story.
 
@@ -4918,8 +4918,8 @@ In the town, itemfind around for 2 *TinyMushrooms.* In the top left, use
 another Spice Powder on Vileplume to get to a hidden… *TinyMushroom.*
 
 Enter the third house from the left, on the upper row of houses below
-the cliffside. Talk to the woman, and she’ll run off to the Xen
-Battleship. We’ll get to her once we have an easier way to get to the
+the cliffside. Talk to the woman, and she'll run off to the Xen
+Battleship. We'll get to her once we have an easier way to get to the
 pier from here.
 
 Kakori Village Pokemart
@@ -4944,14 +4944,14 @@ Kakori Village Pokemart
 
 *Spice Powder* $850
 
-Also, in the mart, if you’d like, trade in your Up-Grade with a girl to
-get *Scope Lens!* We’ll get another Up-Grade shortly, so don’t worry
+Also, in the mart, if you'd like, trade in your Up-Grade with a girl to
+get *Scope Lens!* We'll get another Up-Grade shortly, so don't worry
 about this one.
 
-There’s an entrance to the Safari Zone in the northeast side of town, so
+There's an entrance to the Safari Zone in the northeast side of town, so
 go ahead and enter for $3500.
 
-You’ll get 800 steps and 30 Poke Balls per run. I recommend grabbing a
+You'll get 800 steps and 30 Poke Balls per run. I recommend grabbing a
 Level 35-38 Pokemon and a lot of repels - most of the 1% encounter
 Pokemon (not Wobbuffet, though) are higher level than the rest, so you
 can parse for them via repels.
@@ -5029,8 +5029,8 @@ Jeminra Woods: Area 5 (Bottom Right Labyrinth)
 Get two Spinda - we will be trading one away later.
 
 You can also find: a *Rare Candy,* a *Reverse Candy, Hyper Potion,
-TinyMushroom, Super Repel, Friend Ball* in this area. We can’t access
-the island to the east yet, but there’s one more area we can reach for
+TinyMushroom, Super Repel, Friend Ball* in this area. We can't access
+the island to the east yet, but there's one more area we can reach for
 now.
 
 Use the Spice Powder on the Vileplume in Area 5, then follow the path up
@@ -5050,14 +5050,14 @@ Jeminra Cave: Corrupted Area
 | **Swalot**   | 5        |
 | **Salazzle** | 1        |
 
-We can’t battle our Pokemon yet, therefore, we can’t purify this cave
-quite yet. We’ll get back to it. That’s about all we can do here.
+We can't battle our Pokemon yet, therefore, we can't purify this cave
+quite yet. We'll get back to it. That's about all we can do here.
 
 Back at the gate, if you managed to survive the suffering and find a
 Chansey, show it to the girl for the *Oval Charm!* This will help us
 find eggs in the day care more often.
 
-We actually have access to Route 6’s grass at this point, west of
+We actually have access to Route 6's grass at this point, west of
 Kakori. There is also a hidden *Star Piece* out here.
 
 Route 6
@@ -5071,7 +5071,7 @@ Route 6
 | Exeggcute     | 10       |
 | Pyukumuku     | 1        |
 
-Head into the Ranger HQ. On the right, you’ll find a tutor.
+Head into the Ranger HQ. On the right, you'll find a tutor.
 
 Ranger HQ Move Tutor
 
@@ -5088,7 +5088,7 @@ Enter the hallway at the top. In the community rec room, a girl will
 give you a *Weakness Policy*. In the room above that, grab the
 *Up-Grade* then talk to the girl in the corner.
 
-If you’ve done all the other virtual badge battles, she’ll let us
+If you've done all the other virtual badge battles, she'll let us
 continue the quest.
 
 Gym Leader Chuck (Glitch Field)
@@ -5133,7 +5133,7 @@ Gym Leader Chuck (Glitch Field)
 
     -   Hypnosis
 
-If you’ve chosen Quilava, switch right away for Steelix: one Curse and
+If you've chosen Quilava, switch right away for Steelix: one Curse and
 one Gyro Ball should be able to outplay Primeape. On Poliwrath you want
 to get Qwilfish in for Toxic Spikes, then let Jolteon finish it off.
 Steelix and Quilava should be able to handle the rest!
@@ -5197,11 +5197,11 @@ you through Magneton 1 and Skarmory - then you should switch to eat the
 HP Fire. Knock out Magneton 2 with Miltank and Qwilfish, then let
 Qwilfish go off on Steelix. This should leave Typhlosion to finish
 Steelix and one shot Scizor, despite the Occa Berry. Once you win,
-you’ll get the sixth *Virtual Badge.*
+you'll get the sixth *Virtual Badge.*
 
 In the third room from the right in the hallway, grab the *Escape Rope.*
 
-In the upper hallway, head left, and you’ll go through a cutscene with
+In the upper hallway, head left, and you'll go through a cutscene with
 Melia (+2 Melia Relationship Points, +2 Aelita). Return to the HQ and
 enter the last room on the left. After that, head back outside and go to
 Route 5.
@@ -5319,12 +5319,12 @@ Head up to Valor Mountain and watch the scene.
 
 ## Dexoy Attack
 
-You’ll be placed back in Terajuma Jungle, so return to the south
+You'll be placed back in Terajuma Jungle, so return to the south
 entrance.
 
-We’re gonna be battling some “Dexoys” here, which are Level 45 Deoxys
+We're gonna be battling some “Dexoys” here, which are Level 45 Deoxys
 with Thunderbolt, Psychic, Shadow Ball, and Flash Cannon. Obviously,
-they’re tough to take out, but in a pinch, you can find a strategy. Head
+they're tough to take out, but in a pinch, you can find a strategy. Head
 to the west first, then the east.
 
 Relationship Point Choices:  
@@ -5351,7 +5351,7 @@ Now is a good time to do the help quests.
 HQuest 13: Clear the Way!!
 
 Enter Terajuma Jungle and head south onto the hill and talk to the
-hiker. We’re gonna need to find 7 black shards around the forest.
+hiker. We're gonna need to find 7 black shards around the forest.
 
 1.  Immediately right of the hiker
 
@@ -5368,7 +5368,7 @@ hiker. We’re gonna need to find 7 black shards around the forest.
 
 7.  Near the water at the bottom side of the entrance map
 
-After you’ve gotten them, head back to the hiker. He’s now cleared the
+After you've gotten them, head back to the hiker. He's now cleared the
 vines, so you can progress through the jungle easier!
 
 Head into the cave in the water below, which is now opened. Grab the
@@ -5383,7 +5383,7 @@ HQuest 14: Bandit at Large
 
 -   Head to Route 5 and enter the empty shack on Valor Shore.
 
--   We’re gonna need to find the Xen grunt hiding on each floor.
+-   We're gonna need to find the Xen grunt hiding on each floor.
 
 -   1F: In the middle stack of books
 
@@ -5399,7 +5399,7 @@ HQuest 14: Bandit at Large
 
 -   On the fourth level, grab the *Good Rod!*
 
--   Talk to her on the fourth level, and you’ll have to battle. You’ll
+-   Talk to her on the fourth level, and you'll have to battle. You'll
     be taken back to the weather institute.
 
 -   Head back to Route 5 and all the way down to pick up another *Blast
@@ -5412,7 +5412,7 @@ HQuest 15: Building Bridges
 
 Head to the lumber yard in Terajuma Jungle and enter the building. Talk
 to the guy on the right, then Gurdurr. Head west to the bridge, and
-we’ll have to battle.
+we'll have to battle.
 
 PokeGang Conkeldurr (Forest Field)
 
@@ -5544,22 +5544,22 @@ till the next level cap if you want to make this one easier.
 Anyways, return to the help center to get $4500, 10 *Reverse Candies,*
 10 *Max Repels,* and 10 *Super Potions.* (+1 Karma)
 
-If you’ve done all the help quests, your reward is access to the safari
-zone garden. We’ll get this to a bit. Enter the door that the AA grunt
+If you've done all the help quests, your reward is access to the safari
+zone garden. We'll get this to a bit. Enter the door that the AA grunt
 came out of.
 
-You’ll be entered into a 6v6 double battle, but if you can take Novae
+You'll be entered into a 6v6 double battle, but if you can take Novae
 you should be able to handle this one. Grab the *TM57 Charge Beam* and
 the *Center Keys* here, as well as an *Exp. Candy M.*
 
-That’s it for the help quests.
+That's it for the help quests.
 
 Now, one more quest we can do. Enter the Xen Battleship, and the girl
-from earlier will be here. Talk to her, and she’ll run to the deck.
-After you talk to her again, she’ll go into the main room. Finally,
-follow her to the very top through Augustus’ room. That’s all we can do
+from earlier will be here. Talk to her, and she'll run to the deck.
+After you talk to her again, she'll go into the main room. Finally,
+follow her to the very top through Augustus' room. That's all we can do
 here for now, so back in Kakori, enter the house of the girl who we took
-to the boat, and she’ll give you a *Destiny Knot.*
+to the boat, and she'll give you a *Destiny Knot.*
 
 Now that we have the Good Rod, there are a couple new Pokemon we can
 obtain in these areas.
@@ -5597,9 +5597,9 @@ Jeminra Woods: Special Beach Area
 | **Electrode**     | 1        |                 |          |
 | **Magneton**      | 1        |                 |          |
 
-Grab the *TM123 Self Destruct* while you’re here!
+Grab the *TM123 Self Destruct* while you're here!
 
-We’re now gonna go find Rorim B.
+We're now gonna go find Rorim B.
 
 ## Secret Shore
 
@@ -5668,11 +5668,11 @@ Dance Prodigy Rorim B.
 
     -   Roost
 
-This battle isn’t really meant to be hard, and once Bellossom and
+This battle isn't really meant to be hard, and once Bellossom and
 Ludicolo are taken out, a good Rock Slide can clean up his whole team.
 You can do it! Get the *Sky Relic.*
 
-Accept the fast travel. Talk to Rorim B, and he’ll take you to the
+Accept the fast travel. Talk to Rorim B, and he'll take you to the
 Secret Shore.
 
 Secret Shore
@@ -5682,7 +5682,7 @@ Secret Shore
 | Grass              | % |
 | **Primeape**              | 35       |
 | Mankey                    | 24       |
-| **Farfetch’d (Galarian)** | 15       |
+| **Farfetch'd (Galarian)** | 15       |
 | Pidgeotto                 | 10       |
 | Kricketot                 | 10       |
 | Kricketune                | 4        |
@@ -5715,12 +5715,12 @@ in this area.
 
 A *Dusk Ball, Revive,* and a *Pearl* are hidden on the first island.
 
-To the right, you’ll see a brown book on the ground. If you gave away
-your *Ancient Book*, here’s where you can get a new one. Otherwise,
+To the right, you'll see a brown book on the ground. If you gave away
+your *Ancient Book*, here's where you can get a new one. Otherwise,
 leave it here for now.
 
 Maneuver up on the first island to where you can access the water from
-two points. We can’t do anything from the left yet, so surf up from the
+two points. We can't do anything from the left yet, so surf up from the
 right. Head to the right island and cut the tree, accessing the water on
 the north side of this island. Head up to the next and talk to Melia.
 
@@ -5750,7 +5750,7 @@ Room 1
 
 -   Up to the upwards arrow
 
--   Leftwards arrow at the top, and you’ll have made it out.
+-   Leftwards arrow at the top, and you'll have made it out.
 
 Room 2
 
@@ -5768,7 +5768,7 @@ Room 2
 
 -   Take the bottom left downward arrow
 
--   Go up one tile, then right. You’ll fight a trainer with a shadow
+-   Go up one tile, then right. You'll fight a trainer with a shadow
     Baltoy.
 
 -   Return to the bottom, then get back to this area. Instead, take the
@@ -5783,7 +5783,7 @@ Room 2
 -   Press the orange panel
 
 -   Go up onto the leftward arrows onto the pink -\> blue -\> orange
-    path and we’re done!
+    path and we're done!
 
 There are Pokemon in here.
 
@@ -5832,15 +5832,15 @@ Room 3
     Wave!*
 
 -   Head back down, left, left up, and from here return to the upper
-    left region as we’ve done before
+    left region as we've done before
 
 -   Instead, take the upper right upwards arrow that leads to the upper
     right.
 
 -   Take the rightwards arrow that takes you through the pink path and
-    we’re out.
+    we're out.
 
-Heal, and we’re going to fight in the next room.
+Heal, and we're going to fight in the next room.
 
 Pokemon Trainer Ren (Factory Field)
 
@@ -5910,7 +5910,7 @@ members, are extremely fast, so you must find mons that can live his
 attacks and dish it back. Cacturne likes to lay spikes. Be careful of
 technician Scyther which can hit hard, and protean Greninja as always.
 
-Afterwards, enter the hidden cave. After a cutscene, we’ll be taken back
+Afterwards, enter the hidden cave. After a cutscene, we'll be taken back
 out to the entrance of the forest. Accept the fast travel to head back
 to Kakori.
 
@@ -5921,17 +5921,17 @@ now is a good time to return.
 
 Talk to Rorim B at Terajuma Pier, and you can return to Oceana Pier.
 
-Talk to Dragonite in Oceana Pier. He’s lost some letters, so we’re going
+Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going
 to help pick them up for it. The first is immediately up and left from
 it. The second is left behind some trees. The third is in the upper left
 corner between some dumpsters. Give them back to get a *Thunderstone!*
 
-Talk to the woman with the cart by the Gearen City Entrance. She’ll
+Talk to the woman with the cart by the Gearen City Entrance. She'll
 offer you a *Link Heart* for $10000. This will evolve a trade evolution
 for us, so I recommend grabbing it now.
 
 Enter the Magnolia Library and talk to Zumi upstairs to get our next
-quest. She’s looking for Pyukumuku, which we already have. She’ll give
+quest. She's looking for Pyukumuku, which we already have. She'll give
 us 6 *Exp. Candy M.* Our next quest is for Mareep!
 
 The Shopping Emporium has new wares for us now that we have five badges:
@@ -5946,7 +5946,7 @@ Berry Emporium New Item (5 Badges)
 
 *Sitrus Berry* $750
 
-Buy 20 of these to give to the girl on the bridge if you’d like.
+Buy 20 of these to give to the girl on the bridge if you'd like.
 
 Next, head to the basement of Chrisola hotel. Surf to the dark patch in
 the water at night and use a GourmetTreat to get **Totodile!** Also,
@@ -6009,7 +6009,7 @@ Head into Goldenwood Cave. Surf left at the top to go down to the
 basement level. Smash the rock below to get a *Revive.* Hidden in here
 is a *Big Root.*
 
-Up at the top you’ll find Dylan, who you can send to the Lost Camp! He’s
+Up at the top you'll find Dylan, who you can send to the Lost Camp! He's
 our seventh *lost kid* out of nine.
 
 ZCell 023: Goldenwood Cave
@@ -6045,7 +6045,7 @@ Goldenleaf Town
 | Finneon        | 30       | Basculin        | 20       |
 | Basculin       | 5        |                 |          |
 
-Head to Wispy Tower’s outside and head to the east. The guy won’t stop
+Head to Wispy Tower's outside and head to the east. The guy won't stop
 us anymore, so we can explore this area.
 
 Wispy Tower (Outside)
@@ -6063,16 +6063,16 @@ Wispy Tower (Outside)
 | **Trevenant**   | 4        |
 | **Shedinja**    | 1        |
 
-Head up, and you’ll get *Berry Ice Cream* from Karen. *TM118 Pin
-Missile* is here as well. The area beyond is Wispy Ruins, but we can’t
-explore much as we don’t have Rock Climb yet. Return to the town.
+Head up, and you'll get *Berry Ice Cream* from Karen. *TM118 Pin
+Missile* is here as well. The area beyond is Wispy Ruins, but we can't
+explore much as we don't have Rock Climb yet. Return to the town.
 
-Talk to Dragonite in the square - it’s lost its letters again!
+Talk to Dragonite in the square - it's lost its letters again!
 
 The first is south of the pair of houses, in the southwest corner of the
 town. The second letter is on the hill south of the cemetery. The third
 is in the grass area at the bottom. Finally, the fourth on the hill to
-the right of Narcissa’s house. Once we have all four, talk to Dragonite
+the right of Narcissa's house. Once we have all four, talk to Dragonite
 to get *TM113 Brutal Swing!*
 
 Enter Wispy Ruins through the statue, then head into the right door.
@@ -6110,7 +6110,7 @@ Moon Field
 | Lunatone     | 4        |
 | **Clefairy** | 1        |
 
-Come here on a Saturday night and you’ll be able to get a *Moon Stone*
+Come here on a Saturday night and you'll be able to get a *Moon Stone*
 and catch a Clefairy without having to wait for the 1% encounter**.**
 Also here is *TM58 Sky Drop,* a hidden *Dusk Ball,* and:
 
@@ -6119,7 +6119,7 @@ ZCell 025: Moon Field
 <img src="/assets/media/rejuv/image25.png"
 style="width:6.6875in;height:5.01042in" />
 
-Now, we’re going to start the Poliwag event - head back to Wispy Path
+Now, we're going to start the Poliwag event - head back to Wispy Path
 and use the flute on the Poliwag \#1 there.
 
 Head back to Mirage Woods, and surf down on the long spit. The blue
@@ -6135,7 +6135,7 @@ Mirage Woods
 | Lumineon       | 34       | Chewtle         | 20       |
 | Masquerain     | 1        | Quagsire        | 20       |
 
-Head to Sheridan and go to the Spring of Purification. Here you’ll find
+Head to Sheridan and go to the Spring of Purification. Here you'll find
 Poliwag \#2.
 
 Sheridan Village
@@ -6145,7 +6145,7 @@ Sheridan Village
 | Surfing | % |
 | Lumineon       | 100      |
 
-There’s a cell at the arena area if we surf to the right, but only can
+There's a cell at the arena area if we surf to the right, but only can
 be found at night.
 
 ZCell 026: Sheridan Arena
@@ -6153,10 +6153,10 @@ ZCell 026: Sheridan Arena
 <img src="/assets/media/rejuv/image26.png"
 style="width:6.61806in;height:4.96354in" />
 
-Head up to the daycare and surf to the west. Here’s a **Treecko**!
-Surfing to the south you’ll find a *Timid Mint* as well.
+Head up to the daycare and surf to the west. Here's a **Treecko**!
+Surfing to the south you'll find a *Timid Mint* as well.
 
-While you’re here, add the extra Spinda to your team.
+While you're here, add the extra Spinda to your team.
 
 Next up is Amethyst Cave.
 
@@ -6173,9 +6173,9 @@ Amethyst Cave
 The second room from Sheridan contains hidden *Rare Candy* and *Red
 Shard.*
 
-Enter the room shaped like an upside-down V. Around the room you’ll find
+Enter the room shaped like an upside-down V. Around the room you'll find
 a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball.* Here,
-you’ll find Panel 2, which you can activate to advance a side quest for
+you'll find Panel 2, which you can activate to advance a side quest for
 the future.
 
 ZCell 027: Amethyst Cave
@@ -6184,16 +6184,16 @@ ZCell 027: Amethyst Cave
 style="width:6.65552in;height:4.95313in" />
 
 Head out to Route 2. There are now **Ambipom** instead of Aipom here.
-Surf north of Kecleon’s shop at the top to grab *TM46 Thief.* Fitting.
+Surf north of Kecleon's shop at the top to grab *TM46 Thief.* Fitting.
 
 Talk to the lady with the Meganium, and since we have five badges,
-she’ll let us have **Chikorita** for the Spinda we got.
+she'll let us have **Chikorita** for the Spinda we got.
 
-At the top of the route, surf all the way up and we’ll reach a new area!
+At the top of the route, surf all the way up and we'll reach a new area!
 
-## River’s End First Visit
+## River's End First Visit
 
-River’s End
+River's End
 
 |                   |          |                 |          |
 |-------------------|----------|-----------------|----------|
@@ -6207,15 +6207,15 @@ River’s End
 | Shuckle           | 66       | Bruxish         | 80       |
 | Dwebble           | 34       | Corphish        | 20       |
 
-Use your Itemfinder all around - you’ll find *Elixir, Revive, Ability
+Use your Itemfinder all around - you'll find *Elixir, Revive, Ability
 Capsule, Repel, Link Heart, HP Up, TinyMushroom, Green Shard, Yellow
 Shard, Blue Shard, PP Up, Fresh Water,*
 
-Surf up to the top, above the house, where the Golden Trees are. You’ll
+Surf up to the top, above the house, where the Golden Trees are. You'll
 find an **Electrike** here during the day, give it a GourmetTreat for a
 battle!
 
-The door is locked for now, but we’ll be back after our next badge. Surf
+The door is locked for now, but we'll be back after our next badge. Surf
 out of here to the north to return to Goldenleaf Town and take the truck
 to Akuwa Town.
 
@@ -6224,7 +6224,7 @@ to Akuwa Town.
 Enter Route 4 from Akuwa Town.
 
 Head all the way to the entrance by Wispy Ruins. Surf up at the top of
-the mountain: you’ll find Teddy here, the eighth of the nine *lost kids*
+the mountain: you'll find Teddy here, the eighth of the nine *lost kids*
 for the Lost Camp side quest. There is also another den here!
 
 RIFT DEN 3 (\< 8 Badges): The common encounters in this second den are
@@ -6238,8 +6238,8 @@ RIFT DEN 4 (\< 8 Badges): The common encounters in this second den are
 Lotad, Gastrodon, and Palpitoad. The rare ones are Mantyke and
 **Frillish.**
 
-That’s all that we can do here for now. You might have enough Rift
-Essence to grab those crests if you haven’t gotten them yet.
+That's all that we can do here for now. You might have enough Rift
+Essence to grab those crests if you haven't gotten them yet.
 
 Head back to Akuwa Town.
 
@@ -6256,7 +6256,7 @@ Akuwa Town
 | Remoraid     | 4        |                 |     |
 | Alomomola    | 1        |                 |     |
 
-There’s nothing to do in Akuwa Town yet, as all the people are still
+There's nothing to do in Akuwa Town yet, as all the people are still
 gone. Surf east, as you do, pick up hidden *Blast Powder, Poke Ball,
 Health Wing* on the islands. First, surf east to Route 11.
 
@@ -6274,16 +6274,16 @@ Route 11
 
 Hidden on the first island is a *Dire Hit.* Grab the *Red Shard*, then
 talk to the Xen Grunt… He wants 10 Sweet Hearts. Buy them from the Route
-3 Vendor if you haven’t yet, then return.
+3 Vendor if you haven't yet, then return.
 
-Beat the grunt, and you’ll be engaged in battle with a level 40
+Beat the grunt, and you'll be engaged in battle with a level 40
 **Jynx!**
 
 Starting to the south, use your itemfinder on the islands to find *HP
 Up, Adamint Mint, Red Shard, Blue Shard, Jolly Mint.* Pick up the
-*Ether.* To the right, you’ll find Poliwag \#3!
+*Ether.* To the right, you'll find Poliwag \#3!
 
-On the island south of here, you’ll find
+On the island south of here, you'll find
 
 ZCell 028: Route 11
 
@@ -6326,14 +6326,14 @@ Evergreen Island
 
 Talk to the Octillery here to battle them.
 
-Attempt to enter the forest, and Nana will stop you. She’ll invite you
-to her home, so head in. She’ll give you the *Mysterious Emblem.* This
-will also give you access to a PC and bed, which we’ll be using a lot in
+Attempt to enter the forest, and Nana will stop you. She'll invite you
+to her home, so head in. She'll give you the *Mysterious Emblem.* This
+will also give you access to a PC and bed, which we'll be using a lot in
 this section.
 
 Grab something from the PC with Blizzard, and something with either
 Magnitude, Earthquake, or Bulldoze. The best choice is training a
-Castform to 35 for Blizzard, and any Pokemon who’ll learn the Bulldoze
+Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze
 T.M. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or
 Eruption. Salandit from the safari zone also has one of these.
 
@@ -6341,7 +6341,7 @@ Then, surf to the cave in the middle here and use Blizzard in a battle.
 After the field has changed, use the ground move, and a path will open.
 Enter and surf to battle **Lapras!**
 
-Heal at Nana’s house again, then pick up a hidden *Heart Scale* and
+Heal at Nana's house again, then pick up a hidden *Heart Scale* and
 enter the cave to the right.
 
 Use the fire move in battle, then surf across. Exit the southeast ladder
@@ -6352,13 +6352,13 @@ ZCell 029: Evergreen Island
 <img src="/assets/media/rejuv/image29.png"
 style="width:6.67708in;height:5.03125in" />
 
-Enter again and take the ladder down. We can’t yet do the strength
+Enter again and take the ladder down. We can't yet do the strength
 puzzle portion, but we can explore. Beat the trainers then grab the *X
 Special.* Hidden is a *Zinc, Rare Candy,* and *Full Heal.* Hop into the
 hole all the way at the bottom. Grab the *DeepSeaScale* then head
-through the hole. We can’t do anything in this area yet, but we will
+through the hole. We can't do anything in this area yet, but we will
 come back. Head back up the ladder twice. Jump down the leftmost hole to
-get *DeepSeaTooth.* In this path you’ll find the Icy Rock. That’s all we
+get *DeepSeaTooth.* In this path you'll find the Icy Rock. That's all we
 can do for now without strength, so head back out of the cave.
 
 Finally, enter the forest.
@@ -6371,7 +6371,7 @@ Evergreen Forest
 | Pineco           | 55       | **Snover**     | 34       | Seel         | 60       | Goldeen         | 100 |
 | Crabrawler       | 20       | **Cubchoo**    | 29       | Spheal       | 30       | Good Rod |     |
 | **Taillow**      | 10       | Vanillite      | 20       | Buizel       | 5        | Seaking         | 60  |
-| **Swellow**      | 5        | **Farfetch’d** | 15       | Sealeo       | 4        | Dewgong         | 20  |
+| **Swellow**      | 5        | **Farfetch'd** | 15       | Sealeo       | 4        | Dewgong         | 20  |
 | **Crabominable** | 5        | **Furfrou**    | 2        | Dewgong      | 1        | Floatzel        | 20  |
 | **Snom**         | 4        |                |          |              |          |                 |     |
 | **Slakoth**      | 1        |                |          |              |          |                 |     |
@@ -6392,7 +6392,7 @@ night we can battle stationary Snorunt.
 
 Head back down and surf back across the pond. Go up and right to find a
 hidden *X Special.* Finally go all the way up to the spring and grab the
-*Max Repel.* Whether you got Anju’s Pendant or not, the Mysterious
+*Max Repel.* Whether you got Anju's Pendant or not, the Mysterious
 Emblem will allow you to enter the spring of preservation at the top.
 
 Enter the spring and talk to the **Piplup** for a battle.
@@ -6401,20 +6401,20 @@ One more thing we can do in this area for now: evolve one of your
 Buneary via happiness into **Lopunny,** then trade it with the person on
 Evergreen Island for a **Shroomish.**
 
-That’s all we can do in the Route 11 area.
+That's all we can do in the Route 11 area.
 
 Take the boat to Terajuma, then surf up in this spot to return to where
-we got Valarie’s badge, and get Poliwag \#4. Head up to Valor Shore and
+we got Valarie's badge, and get Poliwag \#4. Head up to Valor Shore and
 surf up for Poliwag \#5.
 
-Head up and talk to Dragonite! He’s lost all his letters again. The
+Head up and talk to Dragonite! He's lost all his letters again. The
 first is on the island immediately to the right. The second is on an
 island around a loop dead south of Dragonite. The third is dead east of
 the second. Finally, the fourth is on Route 5 in the grass on the left.
 Talk to Dragonite again to get a *Shiny Stone.*
 
 Return to the Terajuma Jungle, and find the girl who wants the berries.
-Give them to her and you’ll be able to buy some mulch.
+Give them to her and you'll be able to buy some mulch.
 
 Terajuma Jungle Mulch Shop
 
@@ -6422,12 +6422,12 @@ Terajuma Jungle Mulch Shop
 
 *Stable Mulch* $200
 
-That’s all we can do for this massive load of quests, so head back to
-Crawli’s gym.
+That's all we can do for this massive load of quests, so head back to
+Crawli's gym.
 
 ## Infested Badge
 
-Enter Crawli’s gym in the ranger HQ once you have prepped your team.
+Enter Crawli's gym in the ranger HQ once you have prepped your team.
 Talk to Holly at the entrance, then enter one of the caves and talk to
 her again - and our challenge will begin.
 
@@ -6435,7 +6435,7 @@ her again - and our challenge will begin.
 
 -   Push the second log on the left up
 
--   Push the third log up, and you’ll battle wild **Pinsir!**
+-   Push the third log up, and you'll battle wild **Pinsir!**
 
 -   Hop the center of this log, then go up and hop over the next center
     of the next log
@@ -6478,7 +6478,7 @@ style="width:6.66667in;height:4.98958in" />
     the teleporter
 
 -   Push the log off the platform down, then use it to cross to the
-    middle platform. Approach the tile that sticks out, and if you’ve
+    middle platform. Approach the tile that sticks out, and if you've
     found all the Ariados, an event will play.
 
 -   Jump across and enter.
@@ -6487,7 +6487,7 @@ style="width:6.66667in;height:4.98958in" />
     down to grab *Bug Memory.* Back on the bridge, take the leap of
     faith!
 
-Down in the bottom floor, you’ll find a small tutor.
+Down in the bottom floor, you'll find a small tutor.
 
 Kakori Gym Move Tutor
 
@@ -6504,9 +6504,9 @@ ZCell 031: Kakori Depths
 <img src="/assets/media/rejuv/image31.png"
 style="width:6.63542in;height:4.98958in" />
 
-Anyways, if you head outside the gym, there’s an Audino breeder by the
-Pokemon Center. You’ll get 5 *Exp. Candy M* each time you win. Once
-you’re ready, return to Crawli’s chamber and stand across him!
+Anyways, if you head outside the gym, there's an Audino breeder by the
+Pokemon Center. You'll get 5 *Exp. Candy M* each time you win. Once
+you're ready, return to Crawli's chamber and stand across him!
 
 Gym Leader Crawli (Forest Field, Raining)
 
@@ -6574,15 +6574,15 @@ Barbed Web: Bug \| Physical \| 75 power \| 100% accuracy \| Hits both
 foes in a Double Battle \| Increased critical hit ratio. If the target's
 side of the field already has Sticky Web, sets a layer of Spikes.
 
-Ho boy, this is a tough battle if you’re not prepared. Crawli’s team
+Ho boy, this is a tough battle if you're not prepared. Crawli's team
 plays in doubles and basically has everything stacked for it - a field
 that boosts almost all his Bug moves and gives Slash a grass typing,
 rain that nullifies fire types entirely, and a well-structured team
 built around speed control. Ariados will be +1 attack and immune to
 damage for its first turn, but you can do the same with a Telluric Seed.
-After Galvantula dies, he doesn’t really have anything that is
+After Galvantula dies, he doesn't really have anything that is
 inherently speedy - so if you can find a way to get rid of or ignore the
-sticky web, you’ll be able to wear him down. Rock Slide is great here -
+sticky web, you'll be able to wear him down. Rock Slide is great here -
 everything bar Escavalier will go down to it handily.
 
 You can also take advantage of the rain! Swift Swim will help you negate
@@ -6590,7 +6590,7 @@ the speed loss from the Sticky Web, plus rain boosted water moves.
 Alternatively you can duke it out on Rainbow Field by changing the
 weather to sunny.
 
-Once you’ve triumphed, claim the Infested Badge for Pokemon up to level
+Once you've triumphed, claim the Infested Badge for Pokemon up to level
 50.
 
 Head outside and talk to Melia and Valarie.
@@ -6600,13 +6600,13 @@ Relationship Point Choices:
 - It was a tough battle... (Neutral)  
 - I lost. (Melia +4)
 
-That’s it for this part!
+That's it for this part!
 
 # Chapter 7: A Teila Fire and Ice
 
 ## Route 6 and Aquamarine Cave
 
-After you’re ready, head west out of Kakori Village to Route 6. We
+After you're ready, head west out of Kakori Village to Route 6. We
 already had access to the grass, but:
 
 Route 6
@@ -6659,7 +6659,7 @@ After the scene, enter this door.
 
 Hidden in here is *Red Shard,* 2 *Blue Shards,* and *Max Repel.* Grab
 the *Water Gem* on the beach and go up. Surf across to talk to Saki, and
-you’ll have to battle 6 Sharpedo.
+you'll have to battle 6 Sharpedo.
 
 Surf to the left to find:
 
@@ -6733,7 +6733,7 @@ Pokemon Rangers Sam and Alex (Beach Field)
 
     -   Bullet Punch
 
-This team together relies heavily on the presence of Pelipper’s rain -
+This team together relies heavily on the presence of Pelipper's rain -
 if you can switch it to sun, their strategy will suffer. A combination
 of Rock Slide, Blizzard, and Discharge can take out most of their team,
 but honestly, their team is so slow you should be fine here once you get
@@ -6776,7 +6776,7 @@ Head out and follow the beach line to the north. Pick up the hidden
 *Full Heal* and the *Lax Mint.*
 
 Go down towards the villa all the way in the southeast. Outside, then
-inside this building, you’ll find:
+inside this building, you'll find:
 
 ZCell 033: Teila Resort
 
@@ -6792,8 +6792,8 @@ Head around the house to the left of this one to find an *Elixir.* The
 guy inside this house will offer to trade your extra Oranguru for a
 **Passimian!**
 
-Head around to the house in the southwest, and behind it you’ll find a
-*Rare Candy.* In the area near the house above this you’ll find a *Hyper
+Head around to the house in the southwest, and behind it you'll find a
+*Rare Candy.* In the area near the house above this you'll find a *Hyper
 Potion.*
 
 There are some shops towards the center.
@@ -6841,39 +6841,39 @@ ZCell 035: Teila Resort
 <img src="/assets/media/rejuv/image35.png"
 style="width:6.65625in;height:4.98958in" />
 
-If you talk to the girl in the left side near Tesla, she’ll offer your
+If you talk to the girl in the left side near Tesla, she'll offer your
 Pokemon massage packages. The cheapest is $1500, the next is $3500,
 and the last is $6500, which comes with *3 Fresh Waters* and 3
-*Revives!* Each sequentially increases your Pokemon’s happiness, though
+*Revives!* Each sequentially increases your Pokemon's happiness, though
 if you want to get it up quickly, I still recommend the friendship
 berries or Blue Moon Ice Creams.
 
 ## Aquamarine Cave 2nd Visit
 
-Next, we must go find Amber, Tesla’s kid. Re-enter Aquamarine Cave and
+Next, we must go find Amber, Tesla's kid. Re-enter Aquamarine Cave and
 head back down to the bottom level. Head up once you reach the large
 room, climbing some stairs to do so. Talk to the sleeping girl here.
-She’ll request we go get back a CD that Venam stole from her so… we’re
+She'll request we go get back a CD that Venam stole from her so… we're
 heading to Kakori Village.
 
-Now that we’ve visited the resort, all the warp panels in the Ranger
-Center’s we’ve visited so far are functional, making it easier than ever
+Now that we've visited the resort, all the warp panels in the Ranger
+Center's we've visited so far are functional, making it easier than ever
 to travel around Terajuma! Enter the Teila Ranger station and take the
 warp panel to HQ, then visit Venam in the speaker room. Talk to her,
 then head back to sleeping Amber in Aquamarine Cave.
 
-After the cutscene, jump down the hole. After another scene, we’ll get
+After the cutscene, jump down the hole. After another scene, we'll get
 control.
 
-Pick up the hidden *Ether* and *Fresh Water.* We’ll be back with Rock
+Pick up the hidden *Ether* and *Fresh Water.* We'll be back with Rock
 Climb later, so head to the west to get back to the basement floor.
 Interact with the slimy rock slide thing here to head back to where
-we’ve been. Make your way back to Teila Resort!
+we've been. Make your way back to Teila Resort!
 
 ## Teila Resort 2nd Visit
 
 Return to the massage room to talk to the group. Then, exit and head to
-Tesla’s Villa. It’s the furthest up building on the left side of the
+Tesla's Villa. It's the furthest up building on the left side of the
 resort.
 
 Relationship Point Choices:
@@ -6885,7 +6885,7 @@ Relationship Point Choices:
 
 Enter the room up and to the right.
 
-After a lovely cutscene, it’s time for a double battle. Head upstairs
+After a lovely cutscene, it's time for a double battle. Head upstairs
 and in the door. Melia will be our partner.
 
 Venam and Saki (Glitch Field)
@@ -6977,10 +6977,10 @@ the explosions and you should be alright.
 After the battle and the following conversation, head up in the hot
 spring. Then talk to Tesla in her kitchen.
 
-She’ll offer you food - choose whichever you like. If you want something
-sweet, you’ll get a *Strawberry Cake!* If you want something relaxing,
-you’ll get a *Rose Tea!* If you want something rejuvenating, you’ll get
-an *Herbal Tea!* If you want something sour, you’ll get a *Razz Berry
+She'll offer you food - choose whichever you like. If you want something
+sweet, you'll get a *Strawberry Cake!* If you want something relaxing,
+you'll get a *Rose Tea!* If you want something rejuvenating, you'll get
+an *Herbal Tea!* If you want something sour, you'll get a *Razz Berry
 Tart!*
 
 Relationship Point Choices:  
@@ -6990,7 +6990,7 @@ Relationship Point Choices:
 
 Tesla will give you her *Yacht Keys.*
 
-…. And that’s about it for wholesome. After Amber interrupts, you’ll be
+…. And that's about it for wholesome. After Amber interrupts, you'll be
 taken into the hallway. Follow her into her room and talk to her.
 
 Relationship Point Choices:  
@@ -7007,7 +7007,7 @@ Then, attempt to exit to the southeast. Team Xen invades again!
 Battle your way through the grunts. The first grunt has a Shadow Mankey,
 and the second has a Shadow Teddiursa.
 
-Make sure you heal before heading outside. You’ll be thrown into a
+Make sure you heal before heading outside. You'll be thrown into a
 double battle.
 
 Xen Executive Madelis and Team Xen Bartz (Water Surface Field)
@@ -7074,14 +7074,14 @@ Xen Executive Madelis and Team Xen Bartz (Water Surface Field)
 
 Strangely, I recommend taking out Madelis first. Her Pokemon go down
 easily to anything physical (Rock Slide, MVP as always) and Cradily
-isn’t much of a threat. Sharpedo can be really annoying with super
-boosted Surf’s if you let it get off Speed Boosts. The grunt’s Heliolisk
+isn't much of a threat. Sharpedo can be really annoying with super
+boosted Surf's if you let it get off Speed Boosts. The grunt's Heliolisk
 can be particularly annoying with both of its field boosted moves and
 since Ground moves do nothing here, but you should be alright with a bit
 of planning and spread moves. Winning is not required but grants (Amber
 +1 Relationship Points).
 
-After a frustrating scene, you’ll wake up in the house again.
+After a frustrating scene, you'll wake up in the house again.
 
 Before we proceed, there are just a few things we can do right about now
 that we should take care of, including our first non-Phione legendary
@@ -7090,7 +7090,7 @@ Pokemon!
 Skip to the next section after this one if you want to progress the
 story.
 
-## River’s End 2nd Visit -REnd2
+## River's End 2nd Visit -REnd2
 
 Return to Rorim B, and from there, to Gearen City. The Poke Ball store
 has added wares, yet again.
@@ -7099,47 +7099,47 @@ Poke Ball Emporium New Item (6 Badges)
 
 *Friend Ball* $300
 
-If you want to buy Friend Balls go ahead, they’re not too useful though.
+If you want to buy Friend Balls go ahead, they're not too useful though.
 
-Take the bus to Goldenleaf. Surf south at Route 3 to return to River’s
+Take the bus to Goldenleaf. Surf south at Route 3 to return to River's
 End.
 
 Attempt to enter the house here for a cutscene. After talking to Matthew
 Vasile, enter the train to the left. He wants us to do a quest for him
-in the Wispy Tower ruins. He’ll also give you the *Lab Key.*
+in the Wispy Tower ruins. He'll also give you the *Lab Key.*
 
-Enter Wispy Tower, and talk to Sariah. She’ll give us 3 *Ethers and*
+Enter Wispy Tower, and talk to Sariah. She'll give us 3 *Ethers and*
 start us on a quest for later on. Head down the stairs and make your way
 to the upper left room. Surf north and use the key.
 
-Talk to this tablet and you’ll be engaged with a puzzle. Here is the
+Talk to this tablet and you'll be engaged with a puzzle. Here is the
 solution:
 
 <img src="/assets/media/rejuv/image36.png"
 style="width:6.66667in;height:5.03125in" />
 
-Enter the pathway to the north, and you’ll be taken back to Matthew’s
+Enter the pathway to the north, and you'll be taken back to Matthew's
 lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade.
-Poke Balls can be obtained in stores, we’ve found two Up-Grades so far
+Poke Balls can be obtained in stores, we've found two Up-Grades so far
 (and potentially traded one away), and we were given a Magnet on Route 2
 by showing a guy our Emolga.
 
 Get the items in your bag, and return. The Pokemon inside will run off.
-Buy some balls and return to the room in the Wispy Tower lab. You’ll get
+Buy some balls and return to the room in the Wispy Tower lab. You'll get
 to battle **Type: Null!**
 
-Exit, and add Null to your party. We’re also going to want to evolve it
+Exit, and add Null to your party. We're also going to want to evolve it
 soon, so I recommend stocking up on friendship berries. Head back to
-River’s End and talk to Matthew at his house. Evolve it into
+River's End and talk to Matthew at his house. Evolve it into
 **Silvally** and head back to the Forsaken Laboratory, to the room where
-you caught it. He’ll give us the *Poison Memory!* We’ll be finding the
+you caught it. He'll give us the *Poison Memory!* We'll be finding the
 rest as we continue in the game.
 
-That’s all there is for this quest - so head back to Teila Resort.
+That's all there is for this quest - so head back to Teila Resort.
 
 ## Frozen Over Kristiline Town
 
-To progress the story, enter the living room of Tesla’s house. Talk to
+To progress the story, enter the living room of Tesla's house. Talk to
 Melia. Then board the boat.
 
 Head west, and Melia and Venam will head towards the T.M. shop. The mart
@@ -7193,20 +7193,20 @@ Tower of Theolia
 | Spheal      | 19       |
 | **Swinub**  | 2        |
 
-All of these can be gotten later, so don’t worry if you don’t want to or
-can’t get them now.
+All of these can be gotten later, so don't worry if you don't want to or
+can't get them now.
 
 Grab *TM79 Frost Breath* on your way up 2F. Head up, battling the maid,
 and seeing the scene on the stage. Head up into this next room.
 
 Defeat these maids, and head into the next room.
 
-After an outside portion, you’ll meet Kreiss. It’s your choice whether
-to free him. If you do, you’ll be rewarded with *TM101 Rock Climb!* Head
+After an outside portion, you'll meet Kreiss. It's your choice whether
+to free him. If you do, you'll be rewarded with *TM101 Rock Climb!* Head
 out to the top after this and follow doors through to the next cutscene.
 Fight the two maids.
 
-Now, there’s a little bit of bonus story content we can get at this
+Now, there's a little bit of bonus story content we can get at this
 point. Backtrack a few rooms, and curtains will be moved so that we can
 access a new path. Head up to see the scene.
 
@@ -7300,19 +7300,19 @@ can also take advantage of the field yourself, as Ice and Dark moves are
 buffed.
 
 The scene at this point splits a lot and depends on whether you saved
-Kreiss. If you did, it’s straightforward - he’ll freeze Angie, and you
+Kreiss. If you did, it's straightforward - he'll freeze Angie, and you
 can exit into a melted Kristiline Town. Here, Kreiss will give you the
 Glacier Badge!
 
-If you didn’t save him, head into 5F, and you’ll be taken onto the long
+If you didn't save him, head into 5F, and you'll be taken onto the long
 staircase. Head all the way down, and Valarie will save the day. Here
-you’ll get the Glacier Badge, and Kreiss will now give you the T.M. for
-Rock Climb if you didn’t save him earlier.
+you'll get the Glacier Badge, and Kreiss will now give you the T.M. for
+Rock Climb if you didn't save him earlier.
 
 The Glacier Badge lets us Rock Climb and gives up to Level 55 Pokemon.
 
-Head outside the church if you didn’t save Kreiss. Regardless of your
-choice, you’ll be given a choice to fast travel back to Teila. We’re
+Head outside the church if you didn't save Kreiss. Regardless of your
+choice, you'll be given a choice to fast travel back to Teila. We're
 gonna do some stuff here in Kristiline, so I recommend not accepting the
 offer.
 
@@ -7320,7 +7320,7 @@ offer.
 
 ## Kristiline Town
 
-Back inside the church, you’ll find:
+Back inside the church, you'll find:
 
 ZCell 036: Church of Theolia
 
@@ -7377,7 +7377,7 @@ style="width:6.66667in;height:4.95833in" />
 
 Pick the *Occa Berry* in the northeast.
 
-In the bottom left of town, you’ll find:
+In the bottom left of town, you'll find:
 
 ZCell 038: Kristiline Town
 
@@ -7548,10 +7548,10 @@ Talk to the other guy in this house. Give the Aquamarine Ore to the guy
 for a *Prism Scale!*
 
 Enter the museum for $500 and talk to the director. He will send us on a
-quest to Goldenleaf Town, so we’ll take care of that as soon as we
+quest to Goldenleaf Town, so we'll take care of that as soon as we
 return.
 
-To proceed the story a bit, head into Amber’s room and talk to the crew.
+To proceed the story a bit, head into Amber's room and talk to the crew.
 We must return to the Sapphire Museum in Kristiline Town. If you
 retrieved the painter, now you can choose a sculpture and get paid
 $10000. There is a *Cherish Ball* in the trash to the right.
@@ -7625,20 +7625,20 @@ Student Aelita (No Field)
     -   Take Down
 
 Her team focuses on a lot of fast, hard hitting Pokemon that can U-Turn
-out if need be. They’re all frail bar Gliscor though, so if you have the
+out if need be. They're all frail bar Gliscor though, so if you have the
 bulk to survive hits across your team, you can take them out. Not a
 noteworthy fight after Angie, to be honest.
 
 To continue the story, skip ahead a few sections to Carotos, Pt 2.
-Otherwise there’s tons of optional content that is now open to us!
+Otherwise there's tons of optional content that is now open to us!
 
-Head into the help center - it’s time for some Help Center Quests!
+Head into the help center - it's time for some Help Center Quests!
 
 ## Kristiline Help Center Requests
 
-We’ll be exploring some new areas with Rock Climb throughout these
+We'll be exploring some new areas with Rock Climb throughout these
 quests, so I recommend reading to at least check what new areas you can
-explore. If you haven’t yet gotten it, the Golden Claws from the AP
+explore. If you haven't yet gotten it, the Golden Claws from the AP
 center are useful here!
 
 HQuest 18: Lighthouse
@@ -7668,13 +7668,13 @@ HQuest 18: Lighthouse
 -   Make your way to the ladder in this area and go up. *Fresh Water*,
     *Water Gem*, *Dive Ball* are hidden here. Exit this room at the top
     to reach the Secluded Shore. Talk to Dylan, then head up. Here
-    you’ll find Poliwag \#6!
+    you'll find Poliwag \#6!
 
 -   Enter this lighthouse and go up. Read the note to learn that the
     Ampharos are in Jirukala Cavern!
 
 -   Exit, and head up. We can explore this new bit of Route 6 if we
-    want. Here you’ll find Kingler and Hoppip, but also:
+    want. Here you'll find Kingler and Hoppip, but also:
 
 ZCell 039: Route 6
 
@@ -7709,12 +7709,12 @@ style="width:6.54167in;height:4.91139in" />
     Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5
     to get **Slowpoke.**
 
--   While we’re up on Route 5, Rock Climb here to get a *Adamant Mint,*
+-   While we're up on Route 5, Rock Climb here to get a *Adamant Mint,*
     and access to Jeminra Cave but without the need for Safari Balls.
     Grab the *TM144 Cross Poison* inside.
 
 -   Rock Smash one of the rocks here, and use Purify in the battle. Any
-    Pyukumuku we’ve found so far should have it. Then, exit the cave and
+    Pyukumuku we've found so far should have it. Then, exit the cave and
     re-enter through the Safari Zone. Surf through the cave. Chase
     **Wimpod** into the bottom left corner for a battle!
 
@@ -7735,7 +7735,7 @@ HQuest 20: Defend Me!
 
 -   Head into Aquamarine Cave, and head to the large open basement room.
 
--   Head west from where Amber’s bed was, then surf to the west side of
+-   Head west from where Amber's bed was, then surf to the west side of
     the room.
 
 -   Beat all the AA grunts in here.
@@ -7759,7 +7759,7 @@ HQuest 21: Research
 -   Fourth, talk to the hiker hiding behind the south left villa in
     Teila Resort.
 
-While you’re in Teila, notice that there is a new Move Tutor on the east
+While you're in Teila, notice that there is a new Move Tutor on the east
 side:
 
 Teila Resort Move Tutor
@@ -7786,9 +7786,9 @@ HQuest 22: ???
 
 -   Defeat the first few trainers, then grab the *Data Drive.*
 
--   Head up, and you’ll have to battle 6 Inkay ranging from Level 50
-    to 90. Really, if you don’t let the 80/90 ones set up on you with
-    Superpower, you’ll be able to come out ahead.
+-   Head up, and you'll have to battle 6 Inkay ranging from Level 50
+    to 90. Really, if you don't let the 80/90 ones set up on you with
+    Superpower, you'll be able to come out ahead.
 
 -   As a result, we now have access to the move relearner in Sheridan
     Village! Talk to the sister for a free *Heart Scale.*
@@ -7806,17 +7806,17 @@ For completing all five, you will be gifted **Eevee!** (+1 Karma)
 
 ## Floria Island Rock Climb
 
-That’s about all we can do on Terajuma Island alone, far as side quests
+That's about all we can do on Terajuma Island alone, far as side quests
 are concerned. The boat can take us all sorts of places, including
-Gearen, Akuwa, and Secret Shore. Anyways, first, we’re going to go to
+Gearen, Akuwa, and Secret Shore. Anyways, first, we're going to go to
 the Secret Shore. Again, this is optional, so skip ahead if you want.
 
 Enter Xen Lab again and take the teleporter here to get to the back
 room. Enter the cave. Surf to the right to find a hidden *Link Heart.*
 Then, head back to use Rock Climb. Enter the cave up here to get *TM81
-X-Scissor!* There’s also an *Up-Grade* in the bookshelf.
+X-Scissor!* There's also an *Up-Grade* in the bookshelf.
 
-Leave the swamp and return to Gearen Help Center. Now that we’ve found
+Leave the swamp and return to Gearen Help Center. Now that we've found
 35 Zygarde cells, Mei and Ayuda will give us the *Soothe Bell!* This can
 cut down on the number of friendships berries we need to use from now
 on. Our next target is 45.
@@ -7862,20 +7862,20 @@ Challenger Mercury (No Field)
     -   Recover
 
 You could use the Kadabra and Abra to set up a sweeper, or just use
-something that can live Alakazam’s two attacks and hit hard. A Shedinja
-can also work - let it get paralyzed by Abra, then Alakazam can’t touch
+something that can live Alakazam's two attacks and hit hard. A Shedinja
+can also work - let it get paralyzed by Abra, then Alakazam can't touch
 it, though Kadabra can. If you win against her, you can get *Star Shard
 2.*
 
-I recommend taking another trip to the AP shop. If you haven’t gotten
+I recommend taking another trip to the AP shop. If you haven't gotten
 the Exp. All or the Golden Axe, Hammer, Surfboard, and Claws, do so
 ASAP. On deck will be the Golden Driftboard and the Golden Gauntlet.
 
 Head to Sheridan Village, and enter Route 3. Using Flash if you want,
-head back to the Poliwag area of Phasial Cave. Now that we’ve found all
+head back to the Poliwag area of Phasial Cave. Now that we've found all
 six, we can catch **Poliwag!**
 
-Head back out and into Goldenleaf Town. Enter Narcissa’s Gym and talk to
+Head back out and into Goldenleaf Town. Enter Narcissa's Gym and talk to
 the guy at the front. Make your way all the way back through Backstage
 Theatre and enter the mirror.
 
@@ -7883,10 +7883,10 @@ Enter this door at the top, then interact with the painting up here.
 Follow Mew out of the room, through the mirror to get the *Odd Key,* and
 to the Lost Castle.
 
-Here, we’re going to want to read all the books and keep track of all
+Here, we're going to want to read all the books and keep track of all
 the numbers. Head up the stairs and talk to Dusclops, and enter the
 following: 0044, 6677, 3645, 9043, 7171. Enter the next room and get
-ready for a series of battles. It’s a gauntlet of 3, but nearly
+ready for a series of battles. It's a gauntlet of 3, but nearly
 everything that is used is ghost, psychic, and/or dark type, so you
 should be able to take them out with ease with the right coverage.
 Shatter the bubble.
@@ -7997,7 +7997,7 @@ ladder on the left. Grab hidden *Rock Gem, Super Repel, Ether,*
 Talk to the ex-Xen Grunt in the open area. Head down the ladder here and
 activate Panel 6 on the right.
 
-Head down and rock climb down from here. We’re gonna need to smash the
+Head down and rock climb down from here. We're gonna need to smash the
 crystals in this new area somehow: the wild Geodude have Magnitude and
 can do it, alternatively, if you have the Bulldoze T.M. then you can use
 that. Once you succeed, head down to the bottom of this area and
@@ -8008,7 +8008,7 @@ the machine. The Xen guy will head up, so grab the hidden *PP Up* and
 climb the ladder. Grab the Rift Notes and prepare yourself.
 
 Talk to the Grunt and save in front of the statue. Talk to the grunt
-again, and you’ll have to fight:
+again, and you'll have to fight:
 
 Lingering Regret Nancy (Mountain Field)
 
@@ -8062,7 +8062,7 @@ Lingering Regret Nancy (Mountain Field)
 
     -   Hyper Voice
 
-This is an easy team to beat if you were able to beat Angie! It doesn’t
+This is an easy team to beat if you were able to beat Angie! It doesn't
 really have a ton of good answers for a solid Steel / Poison move core.
 
 Dimensional Rift Chandelure (Mountain Field)
@@ -8084,10 +8084,10 @@ its attacks can wear it down easily, especially if any of your mons have
 a lot of Sp. Def. With its 100 base speed, it will outspeed most of your
 Pokemon, so Trick Room trivializes this fight.
 
-Exit at the top and talk to Manny. He’ll give you a *Shiny Stone.*
+Exit at the top and talk to Manny. He'll give you a *Shiny Stone.*
 Hidden around is a *Rare Candy, Elixir, Iron.*
 
-At night, you’ll find:
+At night, you'll find:
 
 ZCell 042: Cliffside Grave (Night ONLY)
 
@@ -8097,7 +8097,7 @@ style="width:6.6875in;height:5.02083in" />
 Interact with the grave at the top and insert the Cursed Candle we got a
 while ago to obtain **Litwick!**
 
-Return to the basement level to talk to April. She’ll give us the *Phase
+Return to the basement level to talk to April. She'll give us the *Phase
 Dial!* Head in and go up.
 
 Chaotic Fusion Solrock (Crystal Cavern Field)
@@ -8112,10 +8112,10 @@ Chaotic Fusion Solrock (Crystal Cavern Field)
 
     -   Solar Flare
 
-It’s easy with a good super effective move! Now you can use the Phase
+It's easy with a good super effective move! Now you can use the Phase
 Dial to fuse your own Solrock and Lunatone.
 
-That’s all we can do in this area for now.
+That's all we can do in this area for now.
 
 ## Lost Camp Pt. 2
 
@@ -8196,7 +8196,7 @@ Gym Leader Texen (Big Top Arena)
 
     -   Mach Punch
 
-Luckily Aelita’s team is pretty good here: Quick Guard support and
+Luckily Aelita's team is pretty good here: Quick Guard support and
 Reflect will basically guarantee you a win. Win and head into Carotos
 Mountain. Talk to Aelita at the HQ, then head down right to the
 elevator. Head over to fight SEC for the last time and catch his Shadow
@@ -8214,7 +8214,7 @@ Corrupted Cave (Corrupted Cave Field / Murkwater Surface)
 | **Muk (Alolan)** | 9        |
 | **Torkoal**      | 1        |
 
-You’ll also find **Alolan Grimer** and **Garbodor** walking around in
+You'll also find **Alolan Grimer** and **Garbodor** walking around in
 certain parts. Aelita will join us!
 
 Hidden in the first map is a *Poison Gem* and 2 *Super Repels*. Follow
@@ -8252,10 +8252,10 @@ up 3
 - Zorua left all the way, down all the way, right 2, down all the way,
 right 3, down 3  
 - Apple right 4, up 2, right 3  
-- Chimecho right all the way (it’ll be stopped by the Zorua), up all the
+- Chimecho right all the way (it'll be stopped by the Zorua), up all the
 way, right all the way, up 2, left all the way  
 - Zorua left 1  
-- Budew left all the way (it’ll be stopped by the Zorua), up 3, right
+- Budew left all the way (it'll be stopped by the Zorua), up 3, right
 all the way  
 - Zorua right 1, up 3
 
@@ -8292,7 +8292,7 @@ left all the way (it'll be stopped by Darkrai), down 5, left 3, up
 Up from here in the newly opened area, you can touch a statue to fight
 **Zorua!**
 
-Then, head back up and take note of each of statue placement - we’re
+Then, head back up and take note of each of statue placement - we're
 going to need to move each into that spot upstairs yet again. The
 solution:
 
@@ -8301,13 +8301,13 @@ up 3
 - Zorua down 1, right 2  
 - Pangoro down 8, left 4, up  
 - Starly right 2, down 2  
-- Zorua left 1, down 1, right 1, down all the way (it’ll be stopped by
+- Zorua left 1, down 1, right 1, down all the way (it'll be stopped by
 Aelita), left 7, up all the way  
 - Starly right 1, up, right all the way, up all the way, left 2, up 8,
 right all the way, down 2  
 - Chingling up, left 3, up 8, left all the way, down, left 2  
 - Darkrai right all the way, up all the way, left 2, up 8, left 1  
-- Apple down 1, left all the way (it’ll be stopped by Darkrai), down all
+- Apple down 1, left all the way (it'll be stopped by Darkrai), down all
 the way  
 - Darkrai right
 
@@ -8328,7 +8328,7 @@ Garufa Ruins
 
 Deborah will mock you here but tell her “from the start” to progress.
 
-We’ll end up back in Sheridan. Head into the village proper and talk to
+We'll end up back in Sheridan. Head into the village proper and talk to
 Aelita to progress.
 
 Relationship Point Choices:  
@@ -8352,7 +8352,7 @@ Chamber of Awakening
 | Magcargo    | 9        |
 | Salazzle    | 1        |
 
-Angie’s Right Hand Man Cera (Corrupted Cave)
+Angie's Right Hand Man Cera (Corrupted Cave)
 
 -   Groudon, Level 57. @ Lum Berry.
 
@@ -8365,9 +8365,9 @@ Angie’s Right Hand Man Cera (Corrupted Cave)
     -   Solarbeam
 
 Luckily, because of the field, Groudon will get Poisoned. If you can
-deal just enough damage for it to get knocked out here, you’ll be fine.
+deal just enough damage for it to get knocked out here, you'll be fine.
 
-You’ll then get the *Magma Stone but* be presented with a choice. It is
+You'll then get the *Magma Stone but* be presented with a choice. It is
 up to you what to choose: the story will split here a bit. Choosing
 “Keep It” grants (+1 Karma). Jump to the section corresponding to your
 choice.
@@ -8377,12 +8377,12 @@ choice.
 ### Entering the Mountain (Kept It Route)
 
 Head back to the room Aelita was in, then follow Tommen out. After a
-brief cutscene, you’ll be back in Sheridan.
+brief cutscene, you'll be back in Sheridan.
 
-Make your way to unfreeze the T.M. shop in Kristiline. You’ll be given
+Make your way to unfreeze the T.M. shop in Kristiline. You'll be given
 *TM110 Magma Drift!*
 
-Head back into the shop, and they’ll have wares:
+Head back into the shop, and they'll have wares:
 
 Kristiline T.M. Shop (\<12 Badges)
 
@@ -8406,9 +8406,9 @@ Kristiline T.M. Shop (\<12 Badges)
 
 *TM143 Psycho Cut* $70000
 
-Buy these if you’d like!
+Buy these if you'd like!
 
-Return to Teila Resort, and enter Tesla’s Villa. Head upstairs and talk
+Return to Teila Resort, and enter Tesla's Villa. Head upstairs and talk
 to Valarie and Venam.
 
 Head to Valor Shore, and drift across the lava and enter. Get the
@@ -8421,7 +8421,7 @@ bottom. Activate the Ice Crystal here.
 Head down the left ladder from the entrance, and notice that the Chamber
 of Awakening at the top is now open.
 
-We get to choose whether or not we are going to save Amber. You don’t
+We get to choose whether or not we are going to save Amber. You don't
 have to, but if you choose not to, characters will hate you and you will
 not get the karma. If you choose to do so, read the saving Amber section
 below. If not, skip ahead to the convergence section.
@@ -8448,31 +8448,31 @@ rather than hurts it. Long story short, its Muddy Water boosted by rain
 and water surface will decimate your entire team. And it has 3 shields.
 If you have anything with Thunder, it hits 100% of the time and may be
 the best tool you have to take it out. I managed to win this thing on my
-Fire Monotype, so I’m sure you will eventually find a way.
+Fire Monotype, so I'm sure you will eventually find a way.
 
 After winning, Madelis will give you the *HQ Railnet Key*.
 
 ### Entering the Mountain (Gave It Away Route)
 
 Head back to the room Aelita was in, then follow Tommen out. After a
-brief cutscene, you’ll be back in Sheridan.
+brief cutscene, you'll be back in Sheridan.
 
-Return to Teila Resort, and enter Tesla’s Villa. Head upstairs and talk
+Return to Teila Resort, and enter Tesla's Villa. Head upstairs and talk
 to Valarie and Venam. Accept the fast travel. Head all the way up. After
 a conversation, enter the door.
 
 Talk to Venam up from here. Then, head up the ladder to 1F and head
-right. You’ll get the *Emotion Powder.*
+right. You'll get the *Emotion Powder.*
 
 Head to the upper left and go up the ladder. Beat the Xen scientist here
 and activate the Fire Source Crystal! Then, take the ladder here at the
 bottom. Activate the Ice Crystal here.
 
-Head down the left ladder from the entrance, and you’ll notice the
+Head down the left ladder from the entrance, and you'll notice the
 Chamber of Awakening is now open. and enter the Chamber of Awakening at
 the top that is now open. Talk with Venam here then head up.
 
-We get to choose whether or not we are going to save Amber. You don’t
+We get to choose whether or not we are going to save Amber. You don't
 have to, but if you choose not to, characters will hate you and you will
 not get the karma. If you choose to do so, read the saving Amber section
 below. If not, skip ahead to the convergence section.
@@ -8499,7 +8499,7 @@ helps it, rather than hurts it. Long story short, its Muddy Water
 boosted by rain and water surface will decimate your entire team. And it
 has 3 shields. If you have anything with Thunder, it hits 100% of the
 time and may be the best tool you have to take it out. I managed to win
-this thing on my Fire Monotype, so I’m sure you will eventually find a
+this thing on my Fire Monotype, so I'm sure you will eventually find a
 way.
 
 After winning, Madelis will give you the *HQ Railnet Key*.
@@ -8548,10 +8548,10 @@ Head up at the top of this area and enter the base. Go upstairs, grab
 *Blunder Policy* and *Metal Powder,* and push the switch in the top
 right corner. Pressing the switch next to Reina grants (+3 Reina
 Relationship Points). Back downstairs, try to leave through the top and
-you’ll get teased again. Try to leave through the bottom.
+you'll get teased again. Try to leave through the bottom.
 
 After… something… Saki gives you a *Revive* if you kept the Magma Stone,
-but if not, you’ll finally get the T.M. for Magma Drift!
+but if not, you'll finally get the T.M. for Magma Drift!
 
 Head up through the newly destroyed door. Go up and activate the Neutral
 Source Crystal!
@@ -8571,7 +8571,7 @@ Normal Valor Mountain (Cave Field)
 | Claydol                     | 5        | Sealeo          | 20       |
 | **Druddigon**               | 5        | Staryu          | 20       |
 
-Head back down from here, and you’ll find:
+Head back down from here, and you'll find:
 
 ZCell 044: Valor Mountain (Normal)
 
@@ -8583,7 +8583,7 @@ You can also get **Heracross** if you go down and through the barricade.
 
 Head all the way up from here, pick up the *Hyper Potion,* and go up the
 ladder. Loop your way around to the left. Grab *TM147 Tail Slap* hiding
-behind the Ice Source Crystal, then activate it. To the left, you’ll
+behind the Ice Source Crystal, then activate it. To the left, you'll
 find:
 
 ZCell 045: Valor Mountain (Ice)
@@ -8611,7 +8611,7 @@ GourmetTreat for a battle.
 
 By clicking each crystal in succession, make your way to the top of the
 room. Back at the top of the room, fall down the hole to the left.
-You’ll find:
+You'll find:
 
 ZCell 046: Valor Mountain (Ice)
 
@@ -8690,8 +8690,8 @@ Team Xen Eli and Sharon (Mountain Field)
     -   Knock Off
 
 Time for another fight with Eli and Sharon. This is a 12v6 with the help
-of Venam, so it really shouldn’t be that much of a problem. Make sure
-Gyarados doesn’t set up!
+of Venam, so it really shouldn't be that much of a problem. Make sure
+Gyarados doesn't set up!
 
 ZCell 047: Valor Cliffside
 
@@ -8717,7 +8717,7 @@ Relationship Point Choices:
 - Team Xen is all I care about. (Melia -2, Venam -2)
 
 Activate the fire crystal here, then return to the main dungeon through
-the cliffside. On the right side, you’ll find:
+the cliffside. On the right side, you'll find:
 
 ZCell 048: Valor Mountain (Fire)
 
@@ -8760,7 +8760,7 @@ Head all the way back up to the top and enter the summit.
 
 Grab the *Dragon Scale* on the left of the summit.
 
-Head up to the top when you’re ready. The first battle:
+Head up to the top when you're ready. The first battle:
 
 Renegade Giratina (Volcano Top Field)
 
@@ -8777,7 +8777,7 @@ Renegade Giratina (Volcano Top Field)
 If you have Blizzard it can help a ton with this fight. Volcanic Top -\>
 Mountain -\> Snowy Mountain across two blizzards, but back to Volcanic
 Top after it uses Magma Drift. You can also consider paralyzing and
-poisoning it if necessary. Ultimately this isn’t that bad of a fight if
+poisoning it if necessary. Ultimately this isn't that bad of a fight if
 you have a decent strategy.
 
 Heal, and follow the action to the top. Time for a double battle with
@@ -8906,12 +8906,12 @@ Team Xen Geara and Zetta (Volcano Top Field)
     -   Thunder
 
 This battle is insane, but at least a fitting final Xen boss to Act 1 of
-Pokemon Rejuvenation! Zetta’s Typhlosion is intense, as it’s fast and
+Pokemon Rejuvenation! Zetta's Typhlosion is intense, as it's fast and
 its Eruption is strong. Grimmsnarl also gets basically at least 1 free
 screen unless you have Brick Break to remove it, so that is also tough
 to deal with. Their aces, Gengar and Silvally respectively, are also
 insanely fast and can kill most of your Pokemon. Worst of all about half
-of Melia’s team kind of sucks and isn’t really that helpful in this
+of Melia's team kind of sucks and isn't really that helpful in this
 fight!
 
 The Volcano Top field can be used to your advantage: consider using your
@@ -8919,14 +8919,14 @@ own Fire moves to take advantage of it. You can also transition to Sky
 Field with Bounce or to Volcanic Field with Dig, both of which you may
 be able to get a better footing in. Regardless of the field effect, the
 key is making sure that you have the right pairings at any given time,
-so Melia’s Pokemon don’t get one-shotted. Unfortunately, this means a
-LOT of trial and error with the AI, but eventually you’ll be able to
-find the exact chinks in Zetta and Geara’s armor and can take them out.
+so Melia's Pokemon don't get one-shotted. Unfortunately, this means a
+LOT of trial and error with the AI, but eventually you'll be able to
+find the exact chinks in Zetta and Geara's armor and can take them out.
 
 In the beach area, follow the path.
 
 Afterwards, return to the top of the mountain, collecting the souls as
-you go. You’ll be thrust into a battle with Geara and Zetta again, but
+you go. You'll be thrust into a battle with Geara and Zetta again, but
 all their Pokemon are at 1HP and you are supposed to easily win.
 
 Make your way to the bridge in Terajuma Jungle and approach Melia.
@@ -8943,14 +8943,14 @@ skip the next section.
 ## Post-Valor Quests
 
 We can pick up a few Pokemon and items! Head to Ranger HQ in Kakori.
-Talk to Crawli at the entrance for ZCrystal *Buginium-Z.* We can’t use
+Talk to Crawli at the entrance for ZCrystal *Buginium-Z.* We can't use
 it yet, though.
 
-First, if you didn’t save Amber, enter the Chamber of Awakening in Valor
-mountain, where you’ll find the *HQ Railnet Key.*
+First, if you didn't save Amber, enter the Chamber of Awakening in Valor
+mountain, where you'll find the *HQ Railnet Key.*
 
 Next, if you went down the Gave It Away Route, the T.M. Store in
-Kristiline is now open. The list of T.M.’s they sell is in the top of
+Kristiline is now open. The list of T.M.'s they sell is in the top of
 the previous section.
 
 The people of Akuwa Town have… FINALLY been returned to their home, so
@@ -8969,7 +8969,7 @@ Water Pledge 3 Blue Shards
 Enter the ACDMC in the upper right. At the top left corner, you can
 trade in 10 of each color shard for the *Sail Fossil, Jaw Fossil, Skull
 Fossil,* and *Armor Fossil.* At the top right counter, you can revive
-any fossils you’ve obtained so far. So, that means you can now get:
+any fossils you've obtained so far. So, that means you can now get:
 **Omanyte, Kabuto, Anorith, Lileep, Shieldon, Cranidos, Amaura, and
 Tyrunt.**
 
@@ -8988,9 +8988,9 @@ Snore 2 Red Shards
 Bounce 2 Blue Shards
 
 In the left house, someone will give you an *Elemental Seed,* the other
-a *Cleanse Tag.* In Larry Locksmith’s house to the south, a guy will
+a *Cleanse Tag.* In Larry Locksmith's house to the south, a guy will
 give you a *Nugget!* Enter the Pokemart to see a scene with Karrina.
-She’ll then give you a *Repel.*
+She'll then give you a *Repel.*
 
 Akuwa Town Pokemart
 
@@ -9013,7 +9013,7 @@ Akuwa Town Pokemart
 Enter the house to the right to get 5 *Quick Balls.*
 
 Head to any shop that sells regular Poke Balls and make sure you have
-one in your bag. Now that we have Madelis’ key, take the boat over to
+one in your bag. Now that we have Madelis' key, take the boat over to
 Secret Shore. Head to the southwestern most island, and rock climb. Here
 begins a quest for two Hoenn Pokemon.
 
@@ -9023,14 +9023,14 @@ begins a quest for two Hoenn Pokemon.
 
 3.  Talk to Mudkip on the center right island (requires Cut)
 
-4.  Head to the back room of Xen Shadow HQ. Use Madelis’ key to take the
+4.  Head to the back room of Xen Shadow HQ. Use Madelis' key to take the
     train to the hidden lab.
 
 5.  Talk to the machine, and present your Metal Powder, 3 Cell
     Batteries, and Poke Ball to obtain **Ralts!**
 
 6.  Exit out the door at the bottom, then head down to Mudkip. While
-    you’re here, pick up a *Damp Rock* and a *Fighting Memory,* and a
+    you're here, pick up a *Damp Rock* and a *Fighting Memory,* and a
     hidden *Star Piece* to the south.
 
 7.  Surf up from here, and enter Xen Lab from its left side. The door is
@@ -9038,20 +9038,20 @@ begins a quest for two Hoenn Pokemon.
     right, and you can battle/catch **Mudkip!**
 
 We also now have Magma Drift, so there are a few places we can go. Buy a
-Spice Powder from the jungle if you don’t have one yet, and head to
+Spice Powder from the jungle if you don't have one yet, and head to
 Sheridan, enter Carotos. Rock Smash the rock to the left and drift to
 the left. Grab *TM36 Sludge Bomb!* Head back to the right and drift
 across here. Clear this maze and grab the *Rare Candy* as well as the
 **Cyndaquil** egg.
 
-Enter the next room and make your way to Madelis’ palace. Head down to
+Enter the next room and make your way to Madelis' palace. Head down to
 the corrupted cave area. Magma Drift here and follow the path to a
 *Poison Barb.* Back on land, continue following the path to the
-southeast and you’ll find another spot to Magma Drift on the right.
+southeast and you'll find another spot to Magma Drift on the right.
 Hidden along it is another *Poison Barb.* Follow the path to catch
 **Aevian Paras!**
 
-This is all we can do for now, so when you’re ready, head back to Teila
+This is all we can do for now, so when you're ready, head back to Teila
 Resort and enter the dance hall.
 
 ## Lyric Badge
@@ -9067,15 +9067,15 @@ Concert Hall Left Shop
 *GourmetTreat* $2000
 
 Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M.* You can
-also battle her. Talk to the girl at the top. She’ll tell us about
+also battle her. Talk to the girl at the top. She'll tell us about
 building hype. Do whatever you have to do to build the hype - talk to
 people, battle trainers, change the song with the guy on the right.
 
 After building some hype, an Audino trainer will appear. She uses level
-55’s, so you should be able to grind your team up if need be. You’ll get
+55's, so you should be able to grind your team up if need be. You'll get
 7 *Exp. Candy M* when you win.
 
-Once you’ve hyped to the max, head into the battlefield.
+Once you've hyped to the max, head into the battlefield.
 
 Music Enthusiast Amber (Volcano Top Field)
 
@@ -9154,13 +9154,13 @@ end this battle:
 
 -   End the battle with \>= 300 Hype (+3 Amber)
 
-Anyways, this battle isn’t super tough, but it can still be tricky. Her
+Anyways, this battle isn't super tough, but it can still be tricky. Her
 Toxtricity can hit hard once it boosts its Sp. Atk. with Throat Spray,
 and Chandelure hits hard as always. Speed Boost Blaziken can also be
-threatening. As Jan says, if you can change the field, you’ll be golden.
+threatening. As Jan says, if you can change the field, you'll be golden.
 Mountain Field, Icy Mountain, Water Surface, Underwater can all be
 useful fields you can use against her in a chain. You can also turn it
-to Sky Field with a single use of Bounce! Even if you don’t, a good
+to Sky Field with a single use of Bounce! Even if you don't, a good
 Earthquake user or two with something to take out the Air Balloons can
 do a number on her team.
 
@@ -9178,9 +9178,9 @@ Relationship Point Choices:
 - Probably. (Amber -1)  
 - They all died. (Amber +3)
 
-Then head up into the Poke Ball storage room. Accept Venam’s fast travel
+Then head up into the Poke Ball storage room. Accept Venam's fast travel
 request. Talk to her and Augustus, answering her question. If you answer
-“A forest,” you’ll have a chance for some relationship points with her
+“A forest,” you'll have a chance for some relationship points with her
 in a bit. Accept the fast travel again, then enter Valor Mountain 5F.
 
 Relationship Point Choices (Answered “A Forest” only):
@@ -9261,7 +9261,7 @@ Kugearen City Pokemart
 
 *Max Repel* $700
 
-Head up when you’re ready.
+Head up when you're ready.
 
 Route 3 (Past)
 
@@ -9304,7 +9304,7 @@ Relationship Point Choices:
 
 - Awful. (Venam +2)
 
-You’ll have to choose a Pokemon to battle Kanon, but you don’t need to
+You'll have to choose a Pokemon to battle Kanon, but you don't need to
 win this one. Well, head out, and talk to Venam in the square. Head
 east.
 
@@ -9322,7 +9322,7 @@ Kugearen Woods (Past)
 | Dustox       | 4        |                 |          |
 | Ursaring     | 1        |                 |          |
 
-Head into a forest a bit and you’ll have to fend off a wild Shiftry.
+Head into a forest a bit and you'll have to fend off a wild Shiftry.
 Down and to the right from here is 4 *Rawst Berries* and a hidden
 *Zinc.* Head up into Marble Garden.
 
@@ -9331,7 +9331,7 @@ Relationship Point Choices:
 
 - Nah. (Venam -1)
 
-Enter the house and after a scene, you’ll be free to explore. Talk to
+Enter the house and after a scene, you'll be free to explore. Talk to
 Anathea in the garden for a optional scene.
 
 Exit to the woods.
@@ -9350,9 +9350,9 @@ Enter Blakeory Co. in the southwest. After the meeting, enter the forest
 again. Head south to follow the policeman.
 
 Go to the northeast for a *Rare Candy* and a *Leppa Berry.* Hidden
-nearby is *Honey.* On your way to the south, you’ll get 2 *Cheri
+nearby is *Honey.* On your way to the south, you'll get 2 *Cheri
 Berries, Revive,* 2 *Oran Berries,* and 2 *Aspear Berries* at the very
-top. Eavesdrop on the conversation: you’ll have to fight Gardevoir!
+top. Eavesdrop on the conversation: you'll have to fight Gardevoir!
 
 Angel of Death Gardevoir (No Field)
 
@@ -9367,7 +9367,7 @@ Angel of Death Gardevoir (No Field)
 
     -   Focus Blast
 
-This version hits pretty hard, but luckily isn’t too tough to take it
+This version hits pretty hard, but luckily isn't too tough to take it
 out if you target its weaknesses or use Trick Room.
 
 Relationship Point Choices:
@@ -9379,12 +9379,12 @@ Relationship Point Choices:
 
 Grab the shiny *Apartment Key.*
 
-This isn’t strictly necessary but helps us save some Pokemon later. Head
+This isn't strictly necessary but helps us save some Pokemon later. Head
 back to Kugearen and use the key on the door in the top left of the
 area. Head down and read the book on the table. After that, head to the
 right and read this book to get the *Weird Diary.*
 
-Talk to Venam by Katsu’s house, then return to the mansion. Beat the
+Talk to Venam by Katsu's house, then return to the mansion. Beat the
 first maid, then beat the second sitting on the bench. Next to her you
 can get a hidden *Silk Scarf!* Interact with the statues in the four
 rooms up and down from the garden: top left facing right, top right
@@ -9405,7 +9405,7 @@ Points), but saving the policeman actually works and may affect future
 versions. It also makes Gardevoir hate you particularly more. Either
 head down to untie the officer, or up to save Maria.
 
-If you chose the officer, you could choose to refuse all Gardevoir’s
+If you chose the officer, you could choose to refuse all Gardevoir's
 requests or not. Refusing them will save the officer.
 
 Anyways, after the scene, head outside into the forest, and then to
@@ -9413,7 +9413,7 @@ Kugearen City. Pick North or West, but watch the scene play out. Then
 pick Blakeory Co. Beat the maid.
 
 Talk to Melia in the kitchen to get some sleep. After a bunch of scenes,
-it’s time for a quick battle!
+it's time for a quick battle!
 
 Gang Leader Karrina (No Field)
 
@@ -9468,7 +9468,7 @@ Gang Leader Karrina (No Field)
     -   Flamethrower
 
 This battle can be kind of tough, she has some strong Pokemon! That said
-it’s a 6v5 on no field so you should be able to win somehow.
+it's a 6v5 on no field so you should be able to win somehow.
 
 Enter the new grove to return to the past for now. We can use this
 crystal to go back to the past whenever we want.
@@ -9513,7 +9513,7 @@ WG Sewage Management (Factory Field)
 | Koffing      | 5        |
 | Grimer       | 5        |
 
-Toxel is our next target for Zumi’s quest. Grab the *Hyper Potion* in
+Toxel is our next target for Zumi's quest. Grab the *Hyper Potion* in
 here. Head up, then grab the Rift dex entry for Code: Corroso here.
 
 After heading up, show Erick the Weird Diary if you want to save
@@ -9539,9 +9539,9 @@ Dimensional Rift Garbodor (Corrupted Cave Field)
 
 This thing can be tough to take out because on this field, even after
 destroying all 3 shields, it manages to heal 25% of its health every
-turn with Black Sludge. Plus, it’s Sludge Wave is boosted immensely and
-given Rock sub-typing. That said, with strong moves and Melia’s team as
-support it isn’t too difficult to wear it down. Alternatively, switch
+turn with Black Sludge. Plus, it's Sludge Wave is boosted immensely and
+given Rock sub-typing. That said, with strong moves and Melia's team as
+support it isn't too difficult to wear it down. Alternatively, switch
 the field to Volcanic by using Heat Wave, Eruption, or Lava Plume, or,
 to Mountain field via Sky Uppercut.
 
@@ -9585,7 +9585,7 @@ do this is to breed a mon of each type and take all their babies back.
 Return to each person with the 5 Pokemon to get the *Electrizer* and
 *Magmarizer.* Pick up 2 *Cell Batteries* next to the Electrodes.
 
-Outside the power plant to the left, you’ll find a *Data Drive.*
+Outside the power plant to the left, you'll find a *Data Drive.*
 
 To the west, though it is super tricky to spot, grab:
 
@@ -9613,7 +9613,7 @@ West Gearen City Main Area
 | Purugly               | 1        |                           |          |
 | **Perrserker**        | 1        |                           |          |
 
-There’s a woman selling *Blast Powder* for $25000. It’s pretty
+There's a woman selling *Blast Powder* for $25000. It's pretty
 expensive and unnecessary to get it here.
 
 ZCell 055: West Gearen City
@@ -9621,14 +9621,14 @@ ZCell 055: West Gearen City
 <img src="/assets/media/rejuv/image57.png"
 style="width:6.625in;height:5in" />
 
-Use your Itemfinder all around the city. You’ll find a *Telluric Seed,
+Use your Itemfinder all around the city. You'll find a *Telluric Seed,
 Yellow Shard, Max Repel, Dusk Stone, Float Stone, Green Shard, Zinc,
 Muscle Wing, Max Repel, Red Shard, GourmetTreat.*
 
 Cut the upper left tree to get *TM21 Frustration!*
 
-Enter Gearen News HQ. In the bottom left you’ll find a *Hyper Potion.*
-Also, there’s a Level 60 Audino trainer here if you need, win to get 5
+Enter Gearen News HQ. In the bottom left you'll find a *Hyper Potion.*
+Also, there's a Level 60 Audino trainer here if you need, win to get 5
 *Exp. Candy L*, each time you win. Very handy for grinding! Grab the
 *Wide Lens* in the upper right.
 
@@ -9657,7 +9657,7 @@ ZCell 056: Junction Bridge
 style="width:6.75in;height:4.97917in" />
 
 Speaking of Zygarde Cells, exit Junction Bridge to the right and go talk
-to Ayuda, who’ll give us the *Macho Brace* for finding at least 45. Our
+to Ayuda, who'll give us the *Macho Brace* for finding at least 45. Our
 next mission is for 70.
 
 A couple shops have new wares:
@@ -9669,7 +9669,7 @@ Berry Emporium New Item (8 Badges)
 Buy a bunch of Occa Berries now for much later.
 
 Next, return to the Magnolia Library and show Zumi your Pokedex with
-Toxel inside. She’ll give us 15 *Exp. Candy M,* as well as tell you a
+Toxel inside. She'll give us 15 *Exp. Candy M,* as well as tell you a
 hint about one way to evolve it.
 
 Return to the help center in West Gearen.
@@ -9679,7 +9679,7 @@ Return to the help center in West Gearen.
 HQuest 23: Generator Problems (Need to have freed Dufaux)
 
 -   Start at the power plant on the north side and talk to Gabriel. Head
-    inside to see what’s happened.
+    inside to see what's happened.
 
 -   Carefully sneak to the left and into the generator room. Save and
     use F12 if you get spotted to reduce the backtracking.
@@ -9695,7 +9695,7 @@ HQuest 23: Generator Problems (Need to have freed Dufaux)
 
 HQuest 24: House Sit
 
--   Start at Saki’s house west of the power plant. Talk to Erina.
+-   Start at Saki's house west of the power plant. Talk to Erina.
 
 -   Read the note on the table. Do 3 of the actions, then head upstairs.
 
@@ -9703,7 +9703,7 @@ HQuest 24: House Sit
 
 -   Do three more actions.
 
--   Head upstairs and into Saki’s room on the right. Read the diary at
+-   Head upstairs and into Saki's room on the right. Read the diary at
     the bottom.
 
 -   Re-enter the house, and head up and right.
@@ -9744,15 +9744,15 @@ Unown Dimension
     ledge. Grab the *Hyper Potion* up above. Return to the house, then
     head back through the forest to the cave at the north side.
 
--   Solve the tile puzzle. It’s the same Kabuto one as in HGSS.
+-   Solve the tile puzzle. It's the same Kabuto one as in HGSS.
 
 -   Head back to the two-person door. Push the lever and enter. Pick
     left to get MegaStone: *Banettite* and right to get MegaStone:
-    *Heracronite.* Again, we can’t yet use these, but good to have.
+    *Heracronite.* Again, we can't yet use these, but good to have.
 
 -   Return to grab $4000.
 
-As a reward for finishing all the quests, you’ll get a **Turtwig** egg!
+As a reward for finishing all the quests, you'll get a **Turtwig** egg!
 (+1 Karma)
 
 Now, head to the Wispy Ruins via Wispy Tower area entrance. Take the
@@ -9767,7 +9767,7 @@ Spector Battle Quest
 
 3.  Head into the Lost Castle to talk to Spector in the upper room.
 
-4.  Head into Narcissa’s gym. Head through the backstage theatre as
+4.  Head into Narcissa's gym. Head through the backstage theatre as
     normal and talk to Spector when you see him.
 
 5.  Finally, meet him in the gym auditorium for a battle!
@@ -9854,7 +9854,7 @@ Win to get the *Ghost Memory!*
 Next is a quick detour to Route 4 to get some new Den Pokemon - feel
 free to skip this one.
 
-Essentially, now that we’ve beaten Amber, all four of the dens we’ve
+Essentially, now that we've beaten Amber, all four of the dens we've
 seen so far have been updated with new Pokemon! So, I will list the
 Pokemon in each here.
 
@@ -9876,9 +9876,9 @@ RIFT DEN 4 (8 - 12 Badges): The common encounters in this den are
 Lombre, Gastrodon, **Seismitoad**. The rare ones are Mantyke, Mantine,
 **Jellicent**.
 
-Entering Cairo’s shop, he has more available crests now!
+Entering Cairo's shop, he has more available crests now!
 
-Cairo’s Shop New Items (8 Badges)
+Cairo's Shop New Items (8 Badges)
 
 *Luxray Crest* 5,000 Red Essences
 
@@ -9892,13 +9892,13 @@ Now that we have Ditto, head over to Sheridan Village, and use it to
 breed the Throh we got earlier. In the daycare, talk to the girl and
 trade your spare to her to get **Sawk!**
 
-That’s all we can do right now. Head back to Erick’s gym and head up to
+That's all we can do right now. Head back to Erick's gym and head up to
 challenge him.
 
 ## Pulse Badge
 
 Head outside. Enter the factory here. Attempt to enter the door to the
-right, and you’ll fight:
+right, and you'll fight:
 
 League Scout Amanda (Factory Field)
 
@@ -9962,11 +9962,11 @@ League Scout Amanda (Factory Field)
 
     -   Hammer Arm
 
-The good news is the field doesn’t really do anything for her team in
+The good news is the field doesn't really do anything for her team in
 this battle, so if you can exploit Factory Field for your own benefit,
 go ahead. The bad news is her team is particularly good at what it does
-overall and includes the first crest we must fight: Druddigon’s. Crest
-details are listed in the appendix below. You’ll notice that Trick Room
+overall and includes the first crest we must fight: Druddigon's. Crest
+details are listed in the appendix below. You'll notice that Trick Room
 is the central strategy she employs here: you can take advantage of that
 and bring in your own heavy hitting slow team or prevent it from being
 used. One strategy is to open with Pokemon immune to the Fake Out from
@@ -10043,16 +10043,16 @@ Thunder Raid: Electric \| Physical \| 3-hit move, hits are 20, 40, and
 60 power \| 100% accuracy \| On Murkwater Surface Field, power is
 boosted x1.5.
 
-I’m not saying Amanda is harder than this fight but… it’s close. He does
+I'm not saying Amanda is harder than this fight but… it's close. He does
 have some threats, particularly Mega Toxtricity, whose field boosted
 Overdrive that hits both of your Pokemon might just knock them entirely
-off the map. Raichu’s ability is always activated so it will surely
+off the map. Raichu's ability is always activated so it will surely
 outspeed you. Other than that, though nothing goes too crazy on the
 offensive side if you can manage it right. Note that on this field all
-Ground moves fail, so you’ll likely need to try a different strategy to
+Ground moves fail, so you'll likely need to try a different strategy to
 succeed here than sheer super effective move overload.
 
-Even though there’s no mountain in sight, physically, if you use
+Even though there's no mountain in sight, physically, if you use
 Blizzard -\> Sky Uppercut here, you can turn the field into Snowy
 Mountain, allowing your Rock Sliders to go crazy. Or consider using just
 the Icy Field and letting Blizzard users go off. You can also take Snowy
@@ -10069,8 +10069,8 @@ Switch.*
 
 ## A Few More Quests
 
-There’s just a few more things we can do before leaving on the train. Up
-on the Valor Cliffside, if you donate to a guy 10 Rock types, you’ll get
+There's just a few more things we can do before leaving on the train. Up
+on the Valor Cliffside, if you donate to a guy 10 Rock types, you'll get
 a *Protector,* which you can use to evolve Rhydon. Again, I recommend
 breeding to get progress on the egg hatching achievement.
 
@@ -10083,20 +10083,20 @@ ZCell 057: Church of Theolia
 style="width:6.09771in;height:4.58403in"
 alt="Graphical user interface Description automatically generated" />
 
-We won’t be able to come back for a little while, so I recommend you
+We won't be able to come back for a little while, so I recommend you
 farm as much AP as you can and head to the AP vendor at the casino. We
-won’t be able to buy with AP until we get the HM for Strength, so get
-the Golden Gauntlets and any other of the AP items you haven’t yet if
-you’d like. Make sure you have 8 Sitrus Berries for a quest in the next
+won't be able to buy with AP until we get the HM for Strength, so get
+the Golden Gauntlets and any other of the AP items you haven't yet if
+you'd like. Make sure you have 8 Sitrus Berries for a quest in the next
 chapter.
 
 ## Grand Express
 
-Make sure you’re ready to not come back for little while. Talk to Melia
+Make sure you're ready to not come back for little while. Talk to Melia
 in the train station in southwest West Gearen.
 
--   If you have at least 8 Points with Venam, you’ll get (Venam +3
-    Relationship Points). You’ll be given a *Soda Pop.*
+-   If you have at least 8 Points with Venam, you'll get (Venam +3
+    Relationship Points). You'll be given a *Soda Pop.*
 
 Relationship Point Choices:  
 - Thank you! (Venam +1)  
@@ -10111,14 +10111,14 @@ Relationship Point Choices:
 > - What about Kanon and I? (Kanon +2)  
 > - You're gross. (Melia -2, Venam -3)
 
--   If you have 7 or less Points with Venam and chose “You’re gross” in
+-   If you have 7 or less Points with Venam and chose “You're gross” in
     the last prompt:
 
 Relationship Point Choices:  
 - Sounds good. (Venam +2)  
 - No thanks. (Venam -2)
 
-In the hallway to your car’s right, a girl will tutor you:
+In the hallway to your car's right, a girl will tutor you:
 
 Grand Express Tutor
 
@@ -10155,14 +10155,14 @@ Head into the dining car, where the Pokemart is. Talk to Venam, and
 the night.
 
 Head all the way left and talk to Krystal. Head two cars right and
-you’ll be able to exit onto Route 7.
+you'll be able to exit onto Route 7.
 
 ## Route 7
 
 Been a while since we walked onto a new route! We can return to the
 train to heal and use the PC.
 
-To the left is the level 65 Audino trainer. Each time you win, you’ll
+To the left is the level 65 Audino trainer. Each time you win, you'll
 get 5 *Exp. Candy L.*
 
 Route 7
@@ -10204,14 +10204,14 @@ and *Elemental Seed.*
 
 Head up and around to the left to see the scene at the bridge.
 
-Next, head a bit south to enter Yui’s Ranch. Pick up the hidden *Moomoo
+Next, head a bit south to enter Yui's Ranch. Pick up the hidden *Moomoo
 Milk* and grab the *Brightpowder* hiding behind the tree by the barn
 door. Enter the room to the left and pick up the hidden *Moomoo Milk*
 and *Revive.* Talk to **Miltank**. If you feed it eight Sitrus Berries,
 it will battle you. Pick up the hidden *Stable Mulch* and *Moomoo Milk*
 in the main room, then exit the barn to the right.
 
-ZCell 059: Yui’s Ranch
+ZCell 059: Yui's Ranch
 
 <img src="/assets/media/rejuv/image61.png"
 style="width:6.63542in;height:5.01042in" />
@@ -10220,13 +10220,13 @@ Head to the back of the ranch. On the right side, pick up the hidden
 *Fire Gem,* then enter the upper right barn. Hidden inside are *Moomoo
 Milk, Oran Berry, Sitrus Berry,* and *Stable Mulch.*
 
-Exit, and enter the house on the left. If you’ve finished Kristiline’s
+Exit, and enter the house on the left. If you've finished Kristiline's
 help quests, to continue a quest, head upstairs and talk to the guy
 here, and agree to help. At night, head into the barn on the upper right
 corner of the ranch. Talk to Ben, then head outside. You need to CATCH
 each Inkay, but it should be easy enough.
 
-That’s all we can do up here. Head west into the Honec Woods.
+That's all we can do up here. Head west into the Honec Woods.
 
 Honec Woods (Swamp Field / Murkwater Surface)
 
@@ -10248,17 +10248,17 @@ Surf to the left. Find a hidden *Poison Gem, Tiny Mushroom, Cleanse Tag,
 Leaf Stone* in this area. Surfing one tile to the right at the bottom,
 follow the path to the southwest corner, where you can get 3 *Starf
 Berries.* Head to the very top, find a hidden *Reverse Candy* behind the
-tree, then enter the map at the top when you’re ready.
+tree, then enter the map at the top when you're ready.
 
 Pick up 2 hidden *Honey,* then head across the bridge at the top. Watch
 the scene play out here. You can also access the honey tree at the top,
 but it only works once a day. Pick up the hidden *Aspear Berry* here.
 
-Head back to Yui’s Ranch. You’ll get 3 *Cherish Balls!* (+1 Karma)
+Head back to Yui's Ranch. You'll get 3 *Cherish Balls!* (+1 Karma)
 
 Now, the shop inside is in business:
 
-Yui’s Ranch Store (Not open at night)
+Yui's Ranch Store (Not open at night)
 
 *Ultra Ball* $1200
 
@@ -10303,7 +10303,7 @@ Heart* in town.
 
 Enter the easternmost house and exit.
 
-Then head to the west. Near Luck’s tent, talk to Melia here.
+Then head to the west. Near Luck's tent, talk to Melia here.
 
 Relationship Point Choices:
 - Hapi? (Melia +1)
@@ -10341,7 +10341,7 @@ There are also wild Parasect during the day, Amoongus at night, and
 **Impidimp** wandering around the woods.
 
 We can enter Darchlight Caves by heading down immediately, and hopping
-down the pillars, but there is nothing of note in here yet. While you’re
+down the pillars, but there is nothing of note in here yet. While you're
 in this main area, talk to any of the people here 30 times. This is
 necessary for a side quest in a bit.
 
@@ -10373,13 +10373,13 @@ Sensu Meadow
 | Marill               | 1        |                 |          |
 
 As in the other meadows, you can find infinite *Purple Nectar* here. We
-can’t explore much here yet, but we’ll be back. Head back to the main
+can't explore much here yet, but we'll be back. Head back to the main
 map and head all the way to the southwest corner via the pillars, grab
 the hidden *Dark Gem,* and enter the clearing.
 
 ## Route 8 and Azure Shore
 
-Here are a couple small optional areas and quests, skip them if you’d
+Here are a couple small optional areas and quests, skip them if you'd
 like.
 
 Head to the south. Hidden on the beach is a *Max Repel.* 2 *Pearls* are
@@ -10405,7 +10405,7 @@ Gate. Talk to Oshawott, then bring it back to Samurott. It will then get
 stolen!
 
 Head back to the crossroads and head west. Grab all 4 *Sitrus Berries*
-and 4 *Persim Berries* in front of the manor. We’ll enter that in a bit,
+and 4 *Persim Berries* in front of the manor. We'll enter that in a bit,
 but head west onto Route 8.
 
 Route 8
@@ -10456,7 +10456,7 @@ Darchlight Manor (Haunted Field)
 | **Banette**   | 5        |
 | **Mismagius** | 4        |
 
-There’re only a few places we can go without strength, so start by
+There're only a few places we can go without strength, so start by
 entering the right room on 1F. Read the book and the doll will
 disappear. Next, talk to Clefairy twice in the main room, get the hidden
 *Full Heal* and *Revival Herb,* and then enter the room at the very top
@@ -10469,7 +10469,7 @@ Talk to it, then enter the next room on the left and talk to it again.
 Move the candelabra up here and enter the fireplace to get *TM12 Taunt*
 and a *Gate Key.*
 
-That’s all we can do here for now, so make your way back to the
+That's all we can do here for now, so make your way back to the
 crossroads.
 
 ## Darchlight Caves First Visit
@@ -10499,19 +10499,19 @@ Darchlight Caves
 | **Bronzong** | 4        |
 | **Wynaut**   | 2        |
 
-After the conversation, we’ll have control in the caves. Grab the hidden
+After the conversation, we'll have control in the caves. Grab the hidden
 *Yellow Shard, Blue Shard.*
 
-Head east and choose which character to go with - this one doesn’t
+Head east and choose which character to go with - this one doesn't
 affect your future quite yet. Grab the hidden *Max Repel* abovve, then
 head down your ladder and in.
 
-You’ll have another choice to make in each room - this time about
+You'll have another choice to make in each room - this time about
 whether to expose that you saw Flora earlier either to her, Florin, or
 Erin. Again neither of these choices will force you into a bad ending
 quite yet, but will affect your gym leader fight for this chapter.
 
-Head outside, and as you’re walking, the cave will change. Head upstairs
+Head outside, and as you're walking, the cave will change. Head upstairs
 and watch whatever scene you got based on your choices. Head down the
 left ladder and cross the new bridge here. Hidden is a *Dusk Stone.*
 Down the right ladder there is a hidden *Blue Shard.*
@@ -10521,11 +10521,11 @@ Go upstairs and go down, then across the bridge, pick up the hidden
 *Ether,* then head down and watch the scene. Then follow your person
 south and into the cave, then across the bridge.
 
-Basically, we’re going to have to create a Darchlight mirror. Speak to
+Basically, we're going to have to create a Darchlight mirror. Speak to
 your person and interact with all the reading materials to find a
 solution.
 
-Here’s the solution:
+Here's the solution:
 
 -   Type in 4589758 into the password
 
@@ -10577,8 +10577,8 @@ up.
 Follow the path, activating crystals as you go. Climb the elevator to
 exit and beat the Dugtrio mech.
 
-After you get outside, if you chose Flora, now’s your chance to expose
-her for real, or not. Again, this won’t necessarily rope you into the
+After you get outside, if you chose Flora, now's your chance to expose
+her for real, or not. Again, this won't necessarily rope you into the
 worst ending, but if you do want the option to go that route, expose
 Flora here.
 
@@ -10713,12 +10713,12 @@ Uproot: Grass \| Special \| 90 power \| 100% accuracy \| 100% chance to
 lower the target's Special Defense by 2 stages \| On Bewitched Woods
 Field, power is boosted x1.5.
 
-Each of these battles tries to neutralize Grass’ many weaknesses. Be
+Each of these battles tries to neutralize Grass' many weaknesses. Be
 careful of both of their Ludicolo, who will outspeed you thanks to the
 rain. Mega Sceptile hits really hard and fast and can heal itself, while
 Mega Venusaur tanks two of its weaknesses thanks to Thick Fat and can
 wear you down with Giga Drain and Leech Seed. On both teams, Uproot can
-be threatening if you’re attempting any kind of defensive strategy, so
+be threatening if you're attempting any kind of defensive strategy, so
 going for a fast offense somehow might be safer.
 
 There are lots of ways to win! Sunny Day changes the weather and the
@@ -10726,7 +10726,7 @@ field to Rainbow, meaning Poison moves and Fire moves are particularly
 effective again. Alternatively, you can focus on a potentially Tailwind
 boosted Flying-type core, since only Ferrothorn, Rotom, and Cradily take
 neutral damage from them. One other strategy would be field manipulation
-via Pyukumuku’s Purify, which turns the field to Forest and gives Bug
+via Pyukumuku's Purify, which turns the field to Forest and gives Bug
 moves a boost.
 
 Win to get the Rose Badge, which lets us level to 70, and *TM53 Energy
@@ -10741,7 +10741,7 @@ train to get *HM04 Strength!* Talk to Melia in the cabin.
 
 Head out into the station. After a chat, reenter the train station to
 pick up a *Hyper Potion.* We finally made it to Grand Dream City, which
-is larger than both Gearen’s combined.
+is larger than both Gearen's combined.
 
 ZCell 064: Dream District
 
@@ -10749,7 +10749,7 @@ ZCell 064: Dream District
 style="width:6.82292in;height:5.08909in"
 alt="A picture containing text Description automatically generated" />
 
-Cross the bridge. You’ll observe that you can take the train between
+Cross the bridge. You'll observe that you can take the train between
 areas for $1950. Since GDC is so large, I recommend at least exploring
 all the connections by foot (or bike) before you start fast hopping, at
 least to learn.
@@ -10781,7 +10781,7 @@ Grand Dream City
 
 Enter the botanical garden to the north. Hidden throughout is a *Blue
 Shard, Reverse Candy, Ether, Max Repel, Red Shard.* In the southeast
-corner, you’ll find a *Rare Candy,* a hidden *Wiki Berry, TM11 Sunny
+corner, you'll find a *Rare Candy,* a hidden *Wiki Berry, TM11 Sunny
 Day,* and:
 
 ZCell 065: Botanical Garden
@@ -10790,7 +10790,7 @@ ZCell 065: Botanical Garden
 style="width:6.72917in;height:4.9375in" />
 
 Exit the garden and enter the day care. Give the girl in here $3400 and
-you’ll get a *Rare Candy.* The day care here is a good choice for
+you'll get a *Rare Candy.* The day care here is a good choice for
 breeding: Main Street is a bit longer than any line in Sheridan Village.
 Head into the elevator here, and head to the 14th floor to get:
 
@@ -10830,7 +10830,7 @@ style="width:6.625in;height:5.01042in" />
 Also be sure to pick up *TM19 Secret Power* here. Someone fixed the
 bridge to the south if we need to return to Route 7.
 
-Back on Main Street, there’s one more event we can do. Talk to the big
+Back on Main Street, there's one more event we can do. Talk to the big
 blue board on the right side of the area and change the weather to
 windy. This will allow us to catch Skiploom and Jumpluff here, but also,
 during the daytime, talk to the girl near the house with the T.M. on the
@@ -10850,7 +10850,7 @@ style="width:6.61458in;height:4.98438in"
 alt="Diagram Description automatically generated" />
 
 Head to the west and follow the tree line to nab a *Rare Candy.* Hidden
-on this map, you’ll find *Green Shard,* 2 *Blue Shards, Health Wing,
+on this map, you'll find *Green Shard,* 2 *Blue Shards, Health Wing,
 Iron, Max Repel, Ether, Red Shard.*
 
 Enter the building in the southeast, where we can buy a few incenses and
@@ -10877,20 +10877,20 @@ Dream District West Spice Store
 *Full Heal* $600
 
 Enter the art gallery in the right side at night. Someone will give you
-a *Green Shard.* Talk to the guy on a couch, and he’ll offer to trade a
+a *Green Shard.* Talk to the guy on a couch, and he'll offer to trade a
 **Smeargle** for your Masquerain!
 
 Head back outside. At night, head to the bottom right corner of the map
 to get *TM67 Roost!*
 
-That’s all there is in these districts for now, but we’ll be back. Head
+That's all there is in these districts for now, but we'll be back. Head
 back to Main Street, but this time, head north.
 
 ## Central Square 1st Visit
 
 Head all the way to the top for a *Max Repel* and a *Green Shard.* A
 ranger will give you a *Sitrus Berry* upon losing. Also, at the top,
-you’ll find:
+you'll find:
 
 ZCell 069: Central Square
 
@@ -10904,20 +10904,20 @@ During the day, talk to the red head in the southeast of the pond for a
 *HP Up*.
 
 To begin a sidequest, help the lady at the bottom cross the street.
-Afterwords, talk to the driver in the southwest, and he’ll give you the
+Afterwords, talk to the driver in the southwest, and he'll give you the
 first *SPU Parcel.*
 
 Switch the weather to rain, then talk to the girl on the left side of
 the area. Talk to her again if you win for a trade: her **Slurpuff** for
 your **Roserade**. We already can access Slurpuff via a Whipped Dream,
-Link Heart and Swirlix, so take this if you’d like. You’ll need a Shiny
+Link Heart and Swirlix, so take this if you'd like. You'll need a Shiny
 Stone for your Roselia.
 
 Enter the central building and talk to Rhodea, then head out. Choose
-whether you want to participate in the tournament (it doesn’t matter)
+whether you want to participate in the tournament (it doesn't matter)
 and watch the rest of this scene play out.
 
-Head north to the Dream District North. There’s not much to do there yet
+Head north to the Dream District North. There's not much to do there yet
 but attempt to cross the bridge for a conversation with Isha.
 
 Head south, and through the northeast gate.
@@ -10933,7 +10933,7 @@ style="width:6.61458in;height:5.03125in" />
 
 The bottom row here contains a Hidden Power checker as well as a move
 relearner! Talk to the little girl here who dropped her Casteliacone. If
-you want to be mean, pick it up: it’s hidden right under her, and give
+you want to be mean, pick it up: it's hidden right under her, and give
 it back. If you want to be nice, change the weather to Snow or Blizzard,
 then buy one from the vendor and give it to her.
 
@@ -10982,7 +10982,7 @@ Shopping District Mall 2F Vendor 2
 
 *Escape Rope* $550
 
-That’s all for this area for now, so head back to the central square.
+That's all for this area for now, so head back to the central square.
 Head straight west from here into the residential district.
 
 ## Residential District 1st Visit
@@ -10995,7 +10995,7 @@ Enter the Dream Complex and talk to the lobby host to give him the
 parcel. Return to the driver in the Central District for our next
 assignment.
 
-We’ll get to that in a second, but for now, re-enter the Dream Complex
+We'll get to that in a second, but for now, re-enter the Dream Complex
 and talk to Rhodea. Head to the top floor and enter the bottom left
 room.
 
@@ -11005,13 +11005,13 @@ ZCell 071: Dream Complex
 style="width:6.30208in;height:4.76728in"
 alt="Diagram Description automatically generated" />
 
-Talk to Rhodea in the living room, then attempt to leave. When you’re
+Talk to Rhodea in the living room, then attempt to leave. When you're
 ready, head to the north into Dream District Northwest.
 
 Hidden on this map is 2 *Mineral Balls, Max Repel,* 2 *Ethers, Green
 Shard, Reverse Candy, Genius Wing, Red Shard.*
 
-Enter Mika’s cafe during the daytime and talk to Patty twice. She’ll
+Enter Mika's cafe during the daytime and talk to Patty twice. She'll
 give you a *Link Heart!* Talk to the girl next to her at night to get 10
 *Dusk Balls* if you answer correctly: Kalos. Also at night, a guy in the
 upper corner will give you a *Reverse Candy.* Enter the building to the
@@ -11019,11 +11019,11 @@ left and talk to the lobby worker for some *Leppa Berries.* Head up to
 36th and talk to a guy at night for some *Quick Balls.* Grab the *Max
 Revive* on 13th.
 
-Head back to the truck guy, and he’ll give you the third *SPU Parcel.*
+Head back to the truck guy, and he'll give you the third *SPU Parcel.*
 
 Head to the park in Dream District East and talk to Lavender in the
 park. Accept the fast travel if you want, but either way, make your way
-to the Dream Complex again. Head into Talon’s Penthouse on the right.
+to the Dream Complex again. Head into Talon's Penthouse on the right.
 Grab the *Sharp Beak* in the left room, then read the stack of notes.
 Talk to Lavender in the living room. Talk to Huey in the middle room,
 then head out to fight Bladestar in the right room.
@@ -11035,13 +11035,13 @@ Relationship Point Choices:
 - It's fine. (Lavender +1, Huey +1)  
 - You guys dating? (Lavender +2, Huey +2)
 
-After a lot of bizarre scenes, head back to Mika’s Cafe.
+After a lot of bizarre scenes, head back to Mika's Cafe.
 
 Head back to the Complex and go to bed.
 
 ## Story Split 1
 
-Here we’re going to have a split choice based on what we chose to do in
+Here we're going to have a split choice based on what we chose to do in
 the caves.
 
 If you are in with Flora, your next destination is the botanical
@@ -11054,10 +11054,10 @@ via the northeast corner of Dream District East. I will save exploring
 this area in full until after the next gym badge, since then players on
 all routes can explore it.
 
-Enter Cassandra’s office in the upper right. If you initially went with
-Erin or with Flora, you’ll have a choice about whether to spill the
+Enter Cassandra's office in the upper right. If you initially went with
+Erin or with Flora, you'll have a choice about whether to spill the
 beans to Cassandra or not about what you found. If you went with Flora
-and exposed her to Cassandra, you’ll net (-2 Erin Relationship Points)
+and exposed her to Cassandra, you'll net (-2 Erin Relationship Points)
 now, and this will push you towards the bad ending.
 
 Head out with Venam when you have a chance.
@@ -11131,14 +11131,14 @@ Punk Girl Venam (No Field)
 
     -   Roost
 
-It’s not required you win this one, but nonetheless it’s an easy battle.
+It's not required you win this one, but nonetheless it's an easy battle.
 Nothing she has can set up bar Muk so beat her with good type coverage
-and some speed and you’ll be just fine. Charizard can be a bit tricky
-because it’s stronger, but a couple super effective hits from fast mons
+and some speed and you'll be just fine. Charizard can be a bit tricky
+because it's stronger, but a couple super effective hits from fast mons
 will do the trick.
 
-Soon as that’s done, head into your villa in the Residential District.
-After seeing what’s in the boxes, head into your room to go to sleep.
+Soon as that's done, head into your villa in the Residential District.
+After seeing what's in the boxes, head into your room to go to sleep.
 
 After a bunch of scenes play out, head north and west to the sewer area
 to talk to Huey. Then, return to the penthouse. After a strange
@@ -11152,7 +11152,7 @@ Medallions* for $4800 each - one for a quest later.
 
 ## Darchlight Manor Second Visit
 
-Now, we’re gonna do a few things now that we have access to HM Strength.
+Now, we're gonna do a few things now that we have access to HM Strength.
 If you already bought the Golden Gauntlets, now they are finally useful!
 Skip one section ahead if you want to continue the story.
 
@@ -11205,7 +11205,7 @@ style="width:6.78125in;height:5.12087in" />
 Hidden out here are 3 *TinyMushrooms.*
 
 Talk to the well and pull up the doll. Talk to it to get a *Light Ball.*
-Not the greatest reward in the world, but we’ll be able to do more here
+Not the greatest reward in the world, but we'll be able to do more here
 later. With all that said and done, return to GDC.
 
 With Nightmare Medallion in hand, enter the penthouse, and sleep in your
@@ -11282,7 +11282,7 @@ Xen Executive Zetta (No Field)
 
 The catch with this one is that the team you must use is the same as
 this one! I managed to win by using my Speed Boost Blaziken with Brave
-Bird wisely. I’m sure you can outsmart the AI with the same advantages
+Bird wisely. I'm sure you can outsmart the AI with the same advantages
 as you.
 
 Relationship Point Choices:
@@ -11324,7 +11324,7 @@ should be able to set up against the starting Pokemon and overcome.
 Talk to Zetta with at least 1,000,000 Puppet Coins, then head up. Grab
 the *Revive.*
 
-There’s an Audino level grinder here if you want to push your levels up
+There's an Audino level grinder here if you want to push your levels up
 to 70. Win to get 6 *Exp. Candy L* each time. Then, talk to Zetta in
 front of the box for a battle.
 
@@ -11494,14 +11494,14 @@ for each knocked out ally \| 100% accuracy \| On Psychic Terrain, power
 is boosted x1.5.
 
 Time for a little lesson in Trickery. You ultimately are going to be
-fighting not just their team of 10 but also with the fact that Aelita’s
-AI isn’t always doing the best thing. Claydol’s walls are going to be
-annoying - you must get Aelita to, or use brick break, else there’s not
-a very easy way to OHKO even Magenta’s sweeper team very easily. The
+fighting not just their team of 10 but also with the fact that Aelita's
+AI isn't always doing the best thing. Claydol's walls are going to be
+annoying - you must get Aelita to, or use brick break, else there's not
+a very easy way to OHKO even Magenta's sweeper team very easily. The
 strategy here I recommend is knocking out Claydol first then going
-exclusively for Neon, as if Xatu/Bronzong are out, they’re tame to
+exclusively for Neon, as if Xatu/Bronzong are out, they're tame to
 fight. If you can get to just Neon with Aelita having Hawlucha/Staraptor
-alive you’re in good shape but watch out for how ridiculously bulky and
+alive you're in good shape but watch out for how ridiculously bulky and
 strong the Musharna is.
 
 Head into the room on the right to pick up *TM29 Psychic* behind the
@@ -11537,20 +11537,20 @@ Route 9
 Explore the route a bit. There is also an Audino Breeder in the area,
 each time you win, you will get 7 *Exp. Candy L.*
 
-At the top, you’ll find:
+At the top, you'll find:
 
 ZCell 074: Route 9
 
 <img src="/assets/media/rejuv/image76.png"
 style="width:6.64583in;height:4.88542in" />
 
-Head down to the bottom part of the route. Here, you’ll encounter wild
+Head down to the bottom part of the route. Here, you'll encounter wild
 Sandygast**.**
 
-Hidden on Route 9, you’ll find a *Calcium, Carbos, Big Mushroom, Resist
+Hidden on Route 9, you'll find a *Calcium, Carbos, Big Mushroom, Resist
 Wing,* and *Swift Wing*.
 
-Surf up and around to the right here. At the top, you’ll find:
+Surf up and around to the right here. At the top, you'll find:
 
 ZCell 075: Route 9
 
@@ -11582,9 +11582,9 @@ ZCell 076: Forlorned Cavern
 <img src="/assets/media/rejuv/image78.png"
 style="width:6.63542in;height:4.9375in" />
 
-That’s all we can do in this section of the cave, so head back out and
+That's all we can do in this section of the cave, so head back out and
 go to the left, where the hiker is, and enter this cavern. At the top,
-use rock climb to grab an *Ability Capsule.* There’s also a *Dusk Stone*
+use rock climb to grab an *Ability Capsule.* There's also a *Dusk Stone*
 hidden behind the rock smash path at the bottom. Pick up the hidden
 *Mineral Ball* and *Ether* as you go to the right.
 
@@ -11593,7 +11593,7 @@ the path to the next cave entrance. There is a hidden *Clever Wing* and
 *Soda Pop* along this path: follow it to get *TM35 Flamethrower!* The
 tree here also has hidden *Honey* in it.
 
-That’s all the exploring we can do for now, so head towards the
+That's all the exploring we can do for now, so head towards the
 northwest portion of the route, then approach the Rose Theater. Use cut
 on the bamboo on the left side to encounter **Komala**! Surf across:
 
@@ -11613,9 +11613,9 @@ Relationship Point Choices:
 
 Once you regain control, head through either of the two hallways and
 enter the stage. Talk to Ayuna and agree to help her find her Kimono
-Sisters. This starts a quest that we’ll get to in just a bit.
+Sisters. This starts a quest that we'll get to in just a bit.
 
-While you’re in this room, head to the southeast to grab:
+While you're in this room, head to the southeast to grab:
 
 ZCell 078: Rose Theater
 
@@ -11623,7 +11623,7 @@ ZCell 078: Rose Theater
 style="width:6.41667in;height:4.79604in"
 alt="A picture containing text Description automatically generated" />
 
-Exit the southwestern most door of the theater, and you’ll grab *TM120
+Exit the southwestern most door of the theater, and you'll grab *TM120
 Solar Blade.* There is also a hidden *Fresh Water* nearby. Exit the
 southeasternmost door to grab a *Flying Memory.* If you exit one of the
 top doors of the theatre, you can find a hidden *Ultra Ball* and listen
@@ -11635,12 +11635,12 @@ Head upstairs, and into the left door.
 
 ## Judicial District
 
-Outside, accept Aelita’s request for fast travel. There are a couple
+Outside, accept Aelita's request for fast travel. There are a couple
 side quests and areas we can tackle right now. Skip two sections ahead
 for the story bits.
 
 From the east side of Dream District East, we can access the Judicial
-District. You already came here if you exposed Flora, but here I’m
+District. You already came here if you exposed Flora, but here I'm
 covering the optional content within.
 
 ZCell 079: Judicial District
@@ -11656,15 +11656,15 @@ catch a **Tynamo** with a GourmetTreat.
 Head into the upper left building and talk to the guy on the top floor.
 Head back to Dream District West and talk to the museum owner and the
 guy near him, then return to the interested buyer. Return to the museum
-to learn of the painting’s fate! We’ll get the thief later.
+to learn of the painting's fate! We'll get the thief later.
 
 In the Police Station, head down to the lost and found. This area allows
 you to catch up on limited time items, so grab any you missed while
-you’re here. You can also look at the criminals on B2F. You may be
+you're here. You can also look at the criminals on B2F. You may be
 wondering what Cleffa did to land itself there, but *trust me on this
-one, you don’t want to know.*
+one, you don't want to know.*
 
-That’s it for now: we’ll start the Kimono Girls’ side quest now.
+That's it for now: we'll start the Kimono Girls' side quest now.
 
 ## Kimono Girls Quest
 
@@ -11677,17 +11677,17 @@ Beatrice.
 
 To conclude the SPU Parcel quest, talk to the guy at the desk of the
 police station, and give him the final parcel. Head back to the trucker.
-Talk to him, and he’ll activate an encounter on Route 9 that we will get
+Talk to him, and he'll activate an encounter on Route 9 that we will get
 to in a bit.
 
-2\) Kimono Girl Lana: First, northwest Dream District outside of Ruka’s
+2\) Kimono Girl Lana: First, northwest Dream District outside of Ruka's
 Cafe. Head down into the Residential District.
 
 Relationship Point Choices:
 - Uh... Yeah. (Damien +1)  
 - No clue. (Neutral)
 
-Next, you’ll find her at Nightmare City (Left side of second map). Save
+Next, you'll find her at Nightmare City (Left side of second map). Save
 her from **Sableye.** Then, meet at the Dream District Northwest area
 again.
 
@@ -11708,10 +11708,10 @@ Forlorned Cave)
 On our way back, enter the cave entrance on Route 9 to the north of
 where we fought the white-haired guy. If we do, we can get **Dewpider.**
 
-Once you’ve found them all, next, head back to the Rose Theater and talk
-to Ayuna. You’re going to have to fight all 8 Eeveelutions in a row, at
+Once you've found them all, next, head back to the Rose Theater and talk
+to Ayuna. You're going to have to fight all 8 Eeveelutions in a row, at
 Level 80-82. Set up the best team possible and take them on. Win, and
-you’ll get Eevee with special moves and an *Ice Stone!* Head down to
+you'll get Eevee with special moves and an *Ice Stone!* Head down to
 talk to the hiker in the crowd, to get your second *Department Store
 Stamp!*
 
@@ -11789,7 +11789,7 @@ Grass Pledge 3 Green Shards
 
 Fire Pledge 3 Red Shards
 
-Up in the upper right corner, you’ll find the Name Rater and the Move
+Up in the upper right corner, you'll find the Name Rater and the Move
 Relearner, next to a *Green Shard.* Neat.
 
 Talk to the high striker machine here. Pay the price, then it will
@@ -11813,7 +11813,7 @@ style="width:2.55208in;height:2.53125in" />
 The following link can help you solve this kind of puzzle:
 <https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/>
 
-Once you win, you’ll get **Darumaka.**
+Once you win, you'll get **Darumaka.**
 
 On the left, there are more vendors.
 
@@ -11825,7 +11825,7 @@ Axis High University Right Vendor Store
 
 *Berry Ice Cream* $800
 
-She’ll also rarely have *Blue Moon Ice Cream* to sell.
+She'll also rarely have *Blue Moon Ice Cream* to sell.
 
 Axis High University Left Vendor Store
 
@@ -11841,9 +11841,9 @@ Axis High University Left Vendor Store
 
 *Rare Candy* $30000
 
-Talk to the guy on the left. He’ll offer us a chance at a little game,
+Talk to the guy on the left. He'll offer us a chance at a little game,
 depending on which bait we buy. Standard bait is $2000, Delicious bait
-is $7500, and Gourmet bait is $20000. Here’s a breakdown of what you
+is $7500, and Gourmet bait is $20000. Here's a breakdown of what you
 can get for each:
 
 <table>
@@ -11913,7 +11913,7 @@ Axis High University Left Shop
 
 *Air Balloon* $200
 
-Once you’re done exploring the area, talk to Erin at the top.
+Once you're done exploring the area, talk to Erin at the top.
 
 Relationship Point Choices:  
 - You're on! (Aelita +1, Adam +2)  
@@ -11931,7 +11931,7 @@ Pop Star Risa Raider (No Field)
 
     -   Flamethrower
 
-This is a 1v1. You don’t have to win this one though. So, this may seem
+This is a 1v1. You don't have to win this one though. So, this may seem
 to be Jigglypuff, but it has the same ability, moves, and base stats as
 a different Pokemon, but the same typing as normal… anyways, this is a
 very winnable battle, you just must find something with a powerful
@@ -11956,7 +11956,7 @@ Relationship Point Choices:
 - You'll be okay. (Melia +2, Kanon +2)  
 - This is stupid. (Kanon -2, Erin +2)
 
-Activate the crystal - we’re going back in.
+Activate the crystal - we're going back in.
 
 ## Aevium (Past) 2nd Visit
 
@@ -11998,7 +11998,7 @@ Relationship Point Choices:
 - Ready for tea?! (Erin +2, Melia +1)   
 
 At the top of the village, use your Itemfinder to get a *Meadow Plate*
-and *Yellow Shard.* Enter Vivian’s house, and prepare for a battle. You
+and *Yellow Shard.* Enter Vivian's house, and prepare for a battle. You
 get 3 Pokemon.
 
 Enigma Melia & Candid Girl Erin (No Field)
@@ -12063,17 +12063,17 @@ Enigma Melia & Candid Girl Erin (No Field)
 
     -   Stone Edge
 
-This one is easy. Just make sure you don’t get annihilated by Crest
+This one is easy. Just make sure you don't get annihilated by Crest
 Zangoose.
 
-Exit, and go to Cella’s house in the upper right.
+Exit, and go to Cella's house in the upper right.
 
 Relationship Point Choices:  
 - I'm in! (Neutral)  
 - Can i think about it? (Neutral)  
 - Gotta go... (Melia -2, Aelita -2, Erin -2)
 
-After the scene, go to bed in the guest house. Then, enter Vivian’s
+After the scene, go to bed in the guest house. Then, enter Vivian's
 house to the left. Follow her up, then attempt to leave.
 
 Relationship Point Choices:
@@ -12107,7 +12107,7 @@ Mushroom.*
 Chase this Heracross into the bottom right part of the forest, then
 sneak underneath the twigs in the bottom left corner of that area to get
 to Heracross. Run to the back part of the forest. Then, re-enter the
-village after Aelita’s amulet gets taken. Talk to Aelita by the berries.
+village after Aelita's amulet gets taken. Talk to Aelita by the berries.
 
 Go upstairs and interact with the table to get the *Garufa Spellbook.*
 Head down the stairs after the scene.
@@ -12174,25 +12174,25 @@ Sensei Vivian (Blessed Field)
 
     -   Calm Mind
 
-This one honestly isn’t too bad, but her team does make good use of the
+This one honestly isn't too bad, but her team does make good use of the
 field. Her Mega Alakazam will outspeed most Pokemon and its field
 boosted Psychic is brutal, so you want to find some way to outspeed and
 one shot it. Watch out for the Assault Vest pair - they can eat up
-super-effective moves easily and hit back with wide coverage. If you’ve
-gotten this far though this battle won’t be too much trouble.
+super-effective moves easily and hit back with wide coverage. If you've
+gotten this far though this battle won't be too much trouble.
 
 Relationship Point Choices:
 - You okay? (Melia +2)  
 - What's up? (Neutral)  
 - Can we leave now? (Melia -1)
 
-## Aevium (Alt. Future) - FutureA1
+## Aevium (Alt. Future)
 
-After the battle, you’ll be whisked away. After a few scenes, head up
+After the battle, you'll be whisked away. After a few scenes, head up
 and into the cave. After you regain control, talk to Amber in the
 garden, then Kenneth in the cave. Go to sleep.
 
-Next, you’ll regain control in a jail cell on the Renegade ship. Talk to
+Next, you'll regain control in a jail cell on the Renegade ship. Talk to
 Granny to get blankets, then to Kenneth, then to the egg.
 
 Head down one level and avoid the shattered glass as you beat grunts.
@@ -12277,7 +12277,7 @@ Relationship Point Choices:
 
 - Yes. (Neutral)
 
-Enter the captain’s room to speak with Madame X, then open the door in
+Enter the captain's room to speak with Madame X, then open the door in
 the room to the right. Downstairs, talk to Melia.
 
 Relationship Point Choices:
@@ -12288,7 +12288,7 @@ Relationship Point Choices:
 - It's necessary. (Melia +2)
 
 And, if you have at least 5 Melia Relationship Points at this point,
-you’ll get another (Melia +5).
+you'll get another (Melia +5).
 
 Head down to the bottom to talk to them all again. Once you wake up,
 exit the boat via the deck. Follow the path and watch the scenes.
@@ -12387,9 +12387,9 @@ Lapras can be threatening, as can Lucario if it gets off a Swords Dance.
 Otherwise, though you should be able to set something up against Banette
 or Muk and sweep if you need to.
 
-Up ahead, we’re going through a maze. The order of doors we must go
+Up ahead, we're going through a maze. The order of doors we must go
 through to complete it is as follows: LUURULDD. If you complete the maze
-in time, you’ll be granted (Melia +5) Relationship Points.
+in time, you'll be granted (Melia +5) Relationship Points.
 
 Next is a battle against Melia.
 
@@ -12463,21 +12463,21 @@ Ancient Power with boost, you might be screwed as it will never die
 thanks to its crest! Gardevoir is also very fast, and field boosted
 Psychic is no joke. That said, you can overwhelm her: half of her team
 is weak to Poison and the other half Fighting, for example. You can also
-try to set up your own tank - if she can’t sufficiently set up this may
+try to set up your own tank - if she can't sufficiently set up this may
 work.
 
 Relationship Point Choices:
 - About what?  
 - Sigh (Melia -3)
 
--   If you choose Hand it Over, well… you’re gonna get a game over. A
+-   If you choose Hand it Over, well… you're gonna get a game over. A
     game over that in fact will write to your save that you made that
-    choice should you click Try Again. If that’s what you want, go for
+    choice should you click Try Again. If that's what you want, go for
     it. But if not, better make sure you have a backup if you want to
     see how that route plays out.
 
 -   Abandon Them is a passing grade! The story will continue fine, but
-    it’s not the perfect ending.
+    it's not the perfect ending.
 
 -   Do Nothing, i.e., let the timer run out, is the answer that will get
     you towards the best ending.
@@ -12623,7 +12623,7 @@ Guardian Regirock (Blessed Field)
     -   Drain Punch
 
 Time for another rift, this guy has 3 shields. Luckily since it is so
-slow, you’ll be able to easily wear it down with good special moves
+slow, you'll be able to easily wear it down with good special moves
 easily.
 
 Relationship Point Choices
@@ -12641,17 +12641,17 @@ home.
 
 Remember the GDC arc? Yeah, this is still the same game. Well, back in
 the Rose Theater, head out, then into the bottom room in the left
-hallway. Before we continue from here, we’re gonna do some side quests!
+hallway. Before we continue from here, we're gonna do some side quests!
 
 ## ANA Quest Part 1
 
-As always, these are optional, but extremely recommended! There’s fewer
-here but they’re more in depth this time. Head to the Central Building
+As always, these are optional, but extremely recommended! There's fewer
+here but they're more in depth this time. Head to the Central Building
 and into the left elevator to engage with these.
 
 HQuest 26: Missing Children
 
--   First thing we’re gonna do is head to the Police Department in the
+-   First thing we're gonna do is head to the Police Department in the
     Judicial District. Talk to Officer Jenny at the top.
 
 -   Talk to the people blocking the building to the left of the medicine
@@ -12680,7 +12680,7 @@ ZCell 080: The Underground
 <img src="/assets/media/rejuv/image83.png"
 style="width:6.73958in;height:5.03125in" />
 
--   Enter this shop here and talk to the owner. Buy something if you’d
+-   Enter this shop here and talk to the owner. Buy something if you'd
     like.
 
 The Underground Shop (Inside)
@@ -12696,7 +12696,7 @@ The Underground Shop (Inside)
 *Full Heal* $600
 
 -   Head up a bit from here into the main yard. Confront the art thief
-    if you’ve advanced that side quest.
+    if you've advanced that side quest.
 
 -   Head into the main building to the left and speak with the guy.
 
@@ -12730,12 +12730,12 @@ The Underground Shop (Right)
 
 -   Make sure you buy Metal Powder and magnets here!! We still have a
     quest from a few episodes ago that requires them. Also, buy a bunch
-    of Blast Powder - we’ll need at least one when we return.
+    of Blast Powder - we'll need at least one when we return.
 
 -   Head to the east, then up and to the left to fight the Thief from
     earlier. Beat him and get *Family Portrait!*
 
--   Directly east, you’ll find:
+-   Directly east, you'll find:
 
 ZCell 081: The Underground
 
@@ -12758,13 +12758,13 @@ style="width:6.67708in;height:5.05208in" />
 -   On the fourth floor there is a hidden *Full Heal* and *Mystery
     Bowl.* Enter the room at the top for a battle.
 
--   When you regain control, head north and east to get to Dylan’s
+-   When you regain control, head north and east to get to Dylan's
     house.
 
 -   Use the elevator, then, accept the fast travel offer to get to
     Route 9. Head down to talk to them.
 
--   Then, watch the scene play out in Dylan’s House.
+-   Then, watch the scene play out in Dylan's House.
 
 -   Head to the Police Department and talk to the cop. This is all we
     can do in this quest for now, until the next badge.
@@ -12783,11 +12783,11 @@ Relationship Point Choices:
 
 - Grow up. (Melia -2)
 
--   Catch some z’s at the penthouse, then in the nightmare, head up and
+-   Catch some z's at the penthouse, then in the nightmare, head up and
     talk to Anabel.
 
 -   After your conversation, wake up, and return to the 36F of central.
-    Accept Looker’s travel request to Darchlight Caves.
+    Accept Looker's travel request to Darchlight Caves.
 
 -   Using the mirror, make your way all the way through the cave, back
     to the ladder paths. Take the right ladder and cross when it is dark
@@ -12860,7 +12860,7 @@ Shopping District Mall 4F Vendor 1
 
 *Zinc* $9800
 
-Buy one Protein while you’re here for a quest later.
+Buy one Protein while you're here for a quest later.
 
 Shopping District Mall 4F Vendor 2
 
@@ -12885,7 +12885,7 @@ Shopping District Mall 4F Vendor 2
 ## Golden Wing Badge
 
 Return to the Rose Theater, and enter the right room of the upstairs,
-and enter the closet. Get whatever you’re gonna need, because it’s gym
+and enter the closet. Get whatever you're gonna need, because it's gym
 battle time.
 
 Head out to the back courtyard of the theater and talk to Souta.
@@ -12959,7 +12959,7 @@ Mountain Field, and Snowy Mountain Field into Sky Field.
 
 GameFreak, about 8 years ago, did something interesting. They upped the
 BST ceiling from the impressive 720 in the god of Pokemon Arceus to 780,
-in Rayquaza’s mega form. What’s more, they gave Mega Rayquaza the
+in Rayquaza's mega form. What's more, they gave Mega Rayquaza the
 ability Delta Stream, its own custom weather. But, in order to make
 Delta Stream stand out above lame Air Lock, they made a couple changes.
 For one, it neutralizes all Ice, Electric, and Rock moves used against
@@ -12976,13 +12976,13 @@ Thankfully Delta Stream does come with a few drawbacks though. The four
 out via Cloud Nine, so even though these four are not particularly good
 otherwise they have a purpose - simply sending one out at the same time
 as Mega-Rayquaza opens up its 4x Ice and Rock weaknesses… but that
-effect only lasts as long as they’re in battle, so it’s not really
+effect only lasts as long as they're in battle, so it's not really
 significant. The other, more significant thing may seem like a
 no-brainer, but is still notable. Like Primal Kyogre and Primal
-Groudon’s signature weathers, when Mega-Rayquaza exits the battlefield,
-it’s signature weather also leaves with it. So, a singles team of all
+Groudon's signature weathers, when Mega-Rayquaza exits the battlefield,
+it's signature weather also leaves with it. So, a singles team of all
 Flying types boasting Mega-Rayquaza cannot all benefit from the effect,
-since once Mega-Rayquaza leaves the field so does the rest of the team’s
+since once Mega-Rayquaza leaves the field so does the rest of the team's
 safety from their weaknesses.
 
 So, with all this in mind, what happens when a game, maybe whose name
@@ -13005,12 +13005,12 @@ Heavenly Wing to bring it right back. In fact, all six of his team
 members sport at least one of Heavenly Wing/Hurricane/Sky Attack, sure
 to deal heavy damage and tons of OHKOs via an offensive type fielding no
 immunities. But, what if you can outspeed? Well… good luck killing
-anything. Since Flying’s weaknesses will be neutered by the weather and
-Normal’s one weakness is canceled by flying, Unfezant and Pidgeot cannot
+anything. Since Flying's weaknesses will be neutered by the weather and
+Normal's one weakness is canceled by flying, Unfezant and Pidgeot cannot
 be hit with super effective moves under the standard circumstances. The
 wind will ruin whatever Rock/Ice/Electric strategies you had in mind,
-plus Big Pecks activations, and Dragonite’s Multiscale adding to the
-team’s bulk.
+plus Big Pecks activations, and Dragonite's Multiscale adding to the
+team's bulk.
 
 Luckily there are a few solid strategies to consider. As stated before,
 cloud nine users can temporarily disable immunities, so perhaps Drampa
@@ -13027,10 +13027,10 @@ crazy with the field changing strategy, from Mountain, use Dig to bring
 it to a Cave, which is a good way to neutralize most of his strategy. If
 you can live enough turns, use Blizzard to freeze the cave for a solid
 Ice core, or from here use Magma Drift/Lava Plume to get to play on a
-water’s surface, which can be nice for Water and Electric oriented
+water's surface, which can be nice for Water and Electric oriented
 teams.
 
-Another plausible strategy is, well, if you can’t beat him, join him!
+Another plausible strategy is, well, if you can't beat him, join him!
 The Sky Field can be beneficial for your team, too! The good news is
 that the first 8 turns of Tailwind that Souta gets are the *only* turns
 of Tailwind he can get, meaning equipping just two of your Pokemon with
@@ -13047,7 +13047,7 @@ fast like Electivire with Thunder, you might find success.
 I probably sound like a broken record by now, but Trick Room is also a
 great choice.
 
-Win to get *TM62 Acrobatics!* And more importantly, you’ll get the
+Win to get *TM62 Acrobatics!* And more importantly, you'll get the
 Golden Wing Badge.
 
 Relationship Point Choices:
@@ -13055,7 +13055,7 @@ Relationship Point Choices:
 
 - He doesn't matter. (Erin -4)
 
-You’ll also get... *Souta’s Cane*. Well, that’s interesting.
+You'll also get... *Souta's Cane*. Well, that's interesting.
 
 ## The Aelita Incident
 
@@ -13067,8 +13067,8 @@ Relationship Point Choices:
 
 - Can't Erin just go? (Erin -3, Melia -3)
 
-As soon as you’re ready, talk to Erin and agree to enter the rift. Head
-up and follow the path, it’s quite straightforward. Grab the *Rift Notes
+As soon as you're ready, talk to Erin and agree to enter the rift. Head
+up and follow the path, it's quite straightforward. Grab the *Rift Notes
 on Pulse: Bella* and continue. Erin is gonna help us with this fight:
 
 Dimensional Rift… Aelita?? (Dimensional Rift Field)
@@ -13086,7 +13086,7 @@ Dimensional Rift… Aelita?? (Dimensional Rift Field)
 
 Every turn you attack Aelita she gets a massive attack/special attack
 boost. Furthermore, she likes to use powerful doubles moves, meaning
-every turn she might knock out both yours and Erin’s Pokemon. Luckily
+every turn she might knock out both yours and Erin's Pokemon. Luckily
 Erin does help here: for example, her Absol uses super effective
 Superpower and has a Focus Sash. The key is to slow it down enough that
 you can overwhelm it with super effective attacks once the 3 shields are
@@ -13125,13 +13125,13 @@ here:
 [https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1](https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1)
 
 If you want a guide to the side story: Lucifer on the forums wrote up a
-fantastic guide to getting 100% in the side game, and so I wouldn’t want
+fantastic guide to getting 100% in the side game, and so I wouldn't want
 to waste time by writing my own guide to it.
 
 [https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/)
 
 If you did play WLL and got a certain password at the end for getting
-the good ending however, head over to GDC’s Central Building during the
+the good ending however, head over to GDC's Central Building during the
 morning or the daytime and talk to a receptionist to get **Riolu!** The
 password, if you forgot/just want the reward, the password is 489234.
 
@@ -13158,11 +13158,11 @@ Scholar District
 | Magneton              | 4        | Boltund           | 2        |                        |          |
 | Stoutland             | 2        |                   |          |                        |          |
 
-Using the itemfinder around this district, you’ll find a *Sitrus Berry,
+Using the itemfinder around this district, you'll find a *Sitrus Berry,
 Ether, Hyper Potion, Super Potion, Blue Shard, Honey, Lemonade, Rose
 Tea, Green Shard, Max Repel,* and *Casteliacone.*
 
-Enter the student rec. center. In the left room you’ll find another game
+Enter the student rec. center. In the left room you'll find another game
 corner! Three of the vendors are exactly the same as in Chrisola, but we
 can get a few new Pokemon.
 
@@ -13178,15 +13178,15 @@ Top Right Pokemon Prizes
 
 **Axew** 30000 Coins
 
-That said, they’re ridiculously expensive. It would probably take
+That said, they're ridiculously expensive. It would probably take
 something like 5-10 hours of Voltorb flip to get enough coins to get all
 of them. In the money to coins conversion, to get all of them you would
 need to convert $1670000, which you probably do not have unless you
-haven’t been buying anything and have spammed Pay Day or something. But…
+haven't been buying anything and have spammed Pay Day or something. But…
 for all five, this is the only way to get them right now. So, grind it
 out now or later if you want to complete your Pokedex.
 
-Head west and south to get to the National Park. Back-to-back, you’ll
+Head west and south to get to the National Park. Back-to-back, you'll
 find:
 
 ZCell 082: National Park
@@ -13202,13 +13202,13 @@ style="width:6.625in;height:5.04167in" />
 Hidden around the park is 2 *Revives, Liechi Berry, Lum Berry, Pecha
 Berry,* and a *Sitrus Berry.*
 
-That’s about it for this area for now. Talk to Melia and Erin to enter
-the Blakeory Anatheum, but don’t talk to Erin inside just yet if you
+That's about it for this area for now. Talk to Melia and Erin to enter
+the Blakeory Anatheum, but don't talk to Erin inside just yet if you
 want to continue two optional quests.
 
 ## Lost Camp Pt. 3
 
-First, if we’re all caught up on the Lost Camp side quest:
+First, if we're all caught up on the Lost Camp side quest:
 
 -   Head to the Hospital of Hope, talk to Mosely at the top. Accept her
     request.
@@ -13227,7 +13227,7 @@ First, if we’re all caught up on the Lost Camp side quest:
 
 ## ANA Quest Part 2
 
-If you’ve already done part 1:
+If you've already done part 1:
 
 -   Head over to the Hospital of Hope and enter the door on the left
     side. Talk to the nurse and the cop.
@@ -13238,18 +13238,18 @@ If you’ve already done part 1:
 -   Return to the District of Hope when you can and cross the bridge to
     the south. Beat the grunts.
 
--   While you’re in this area, head to the dream district west, then go
+-   While you're in this area, head to the dream district west, then go
     to the art museum and talk to the owner, who will let you keep the
     painting. Keep it for now.
 
--   Return to Dylan’s House in the Underground, and talk to Ana and
+-   Return to Dylan's House in the Underground, and talk to Ana and
     Dylan here.
 
 -   Head into the Blakeory Anatheum and go upstairs, then talk to Dylan
     and Ana.
 
 -   Head out and north to Route 9 and find Ana. After a battle (win or
-    lose is fine), agree to go to Dylan’s apartment. Talk to Ana here.
+    lose is fine), agree to go to Dylan's apartment. Talk to Ana here.
 
 Unfortunately, we cannot proceed anymore in this quest, so head back to
 Scholar District.
@@ -13266,21 +13266,21 @@ handled the Darchlight saga… oh boy.
 Be prepared to not be able to return to GDC for a little bit.
 
 If you just watched Flora escape, head up at Route 9 to fight Bladestar.
-Once you win, you’ll be taken to the Voidal Chasm.
+Once you win, you'll be taken to the Voidal Chasm.
 
 If you just watched Flora talk to Jenkyl, talk to the group, then head
 back to the National Park with Kanon. Once you talk to him and Beheeyem,
-you’ll be taken to the Zorrialyn Desert!
+you'll be taken to the Zorrialyn Desert!
 
-At this point, we’re basically in the same “region”, just on opposite
-sides. I’ll be covering everything in this guide in the order of the
+At this point, we're basically in the same “region”, just on opposite
+sides. I'll be covering everything in this guide in the order of the
 group that starts at Voidal Chasm, but just know the same items, wild
 Pokemon, etc. can be accessed in both routes. For now, if you took the
-Beheeyem route, we’ll need to come here in the story anyways in a bit,
+Beheeyem route, we'll need to come here in the story anyways in a bit,
 so jump to the next section to explore the desert for now, then return
 to the chasm section after.
 
-Again, if you’re entering the chasm from the outside, you’ll be heading
+Again, if you're entering the chasm from the outside, you'll be heading
 from the top down, but this will cover you from the point of view of a
 player who started at the bottom.
 
@@ -13299,7 +13299,7 @@ Voidal Chasm (Main Areas / Backroom)
 
 Hidden in the first room is 7 *Ethers* and a *Dusk Ball.*
 
-On B3F, rock climb up here, and you’ll find:
+On B3F, rock climb up here, and you'll find:
 
 ZCell 084: Voidal Chasm
 
@@ -13321,11 +13321,11 @@ ZCell 085: Voidal Chasm
 style="width:6.61458in;height:4.90625in" />
 
 There is also a hidden *Ability Capsule* up here. Back down from here,
-while exploring the main part of this room, you’ll find a *Razor Claw,
+while exploring the main part of this room, you'll find a *Razor Claw,
 Odd Keystone,* and a *White Herb* as well as hidden 5 *Ethers,* and *PP
 Up.*
 
-In the vs. Bladestar route, you’ll meet up with a familiar figure at the
+In the vs. Bladestar route, you'll meet up with a familiar figure at the
 top here. Here you will gain (+1 Reina) Relationship Point if you saved
 her in Mt. Valor, and (-1 Reina) if not.
 
@@ -13341,13 +13341,13 @@ Hood ??? (Dimensional Field)
 
     -   Crunch
 
-Winning is optional (and easy, since it’s just one Pokemon) but will
+Winning is optional (and easy, since it's just one Pokemon) but will
 grant you (+1 Ren) Relationship Point.
 
 Before continuing, you can grab another hidden *Ether* and *Rare Candy.*
 
-Continue into the door. The next room hides 10 *Ethers,* you’ll find an
-*Old Scarf* down the rock climb path. Once you’re ready, exit at the
+Continue into the door. The next room hides 10 *Ethers,* you'll find an
+*Old Scarf* down the rock climb path. Once you're ready, exit at the
 northeast corner.
 
 This next room contains 3 more hidden *Ethers,* and the final room 5
@@ -13371,19 +13371,19 @@ Zorrialyn Desert (Main Areas)
 | **Heliolisk**            | 5        | **Nidoqueen**      | 1        |
 | **Budew (Aevian)**       | 2        |                    |          |
 
-Make sure somewhere in the desert you catch Aevian Budew for Zumi’s
+Make sure somewhere in the desert you catch Aevian Budew for Zumi's
 quest. Interact with **Mandibuzz** flying around for a battle. There are
 also **Alolan Exeggutor** in various spots in the desert.
 
 Zorrialyn is like a big loop - I will explore it clockwise, so before
 heading west, head to the south from the Voidal Chasm. Along this path
-with the itemfinder you’ll find 2 *Red Shards, 2 Max Repels, Yellow
-Shard, Synthetic Seed.* Don’t head into the southern exits quite yet
+with the itemfinder you'll find 2 *Red Shards, 2 Max Repels, Yellow
+Shard, Synthetic Seed.* Don't head into the southern exits quite yet
 though. Hidden as you go to the west from here, there is a hidden
 *Revival Herb* and *Leaf Stone.* Grab the *Max Ether* here.
 
-We can’t do anything yet in the Alamissa Urben yet. Don’t go to the
-south entrance or else you’ll lose some money! Further west hidden is a
+We can't do anything yet in the Alamissa Urben yet. Don't go to the
+south entrance or else you'll lose some money! Further west hidden is a
 *Mental Herb, Max Repel, Max Ether, Yellow Shard.* There is also a
 *Mineral Ball* and *Ether* we can pick up. Take the second set (from the
 east) of rock climb to pick up *TM37 Sandstorm.*
@@ -13417,10 +13417,10 @@ ZCell 086: Zorrialyn Desert
 <img src="/assets/media/rejuv/image89.png"
 style="width:6.61458in;height:4.96875in" />
 
-Hidden in this area you’ll find *Petaya Berry, Occa Berry,* and *Haban
+Hidden in this area you'll find *Petaya Berry, Occa Berry,* and *Haban
 Berry.*
 
-To the east, catch the Shiny Cacturne if you’d like and pick up the
+To the east, catch the Shiny Cacturne if you'd like and pick up the
 hidden *Rare Bone*, then head back down.
 
 As you go east, there is a hidden *Ether* and *Green Shard.* Down from
@@ -13434,7 +13434,7 @@ style="width:6.64583in;height:4.94792in" />
 Head across the bridge and grab the *Hyper Potion*. There is also a
 hidden *Green Shard.*
 
-This one’s a bit hard to spot:
+This one's a bit hard to spot:
 
 ZCell 088: Zorrialyn Desert (Night Only)
 
@@ -13452,8 +13452,8 @@ ZCell 089: Zorrialyn Desert
 <img src="/assets/media/rejuv/image92.png"
 style="width:6.61458in;height:4.98958in" />
 
-Head back down then go east, and we’ll have completed the loop. Next,
-we’re gonna check out the map in the very southeast of the desert.
+Head back down then go east, and we'll have completed the loop. Next,
+we're gonna check out the map in the very southeast of the desert.
 
 Zorrialyn Desert (Next to Poiloethal Forest)
 
@@ -13470,7 +13470,7 @@ Zorrialyn Desert (Next to Poiloethal Forest)
 
 Grab the *Revive* here, and the *Iron* at the bottom. Also hidden here
 is *Max Repel, Ground Gem, Kebia Berry, Poison Gem, Ether,* and *Ultra
-Ball.* Not much else we can do here. Don’t go to the west or you’ll lose
+Ball.* Not much else we can do here. Don't go to the west or you'll lose
 money!
 
 Head back to the main desert, go all the way to the left, and go south
@@ -13495,18 +13495,18 @@ ZCell 090: Zorrialyn Coast
 <img src="/assets/media/rejuv/image93.png"
 style="width:6.6875in;height:4.96875in" />
 
-Hidden around this map you’ll find 2 *Dusk Balls, Rock Gem, Red Shard,
-Ground Gem, Poke Doll, Heart Scale, Elixir,* and *Water Gem.* Don’t head
-to the east, again, you’ll lose money. We will cover the cave accessible
+Hidden around this map you'll find 2 *Dusk Balls, Rock Gem, Red Shard,
+Ground Gem, Poke Doll, Heart Scale, Elixir,* and *Water Gem.* Don't head
+to the east, again, you'll lose money. We will cover the cave accessible
 to the south and the nearby house later on.
 
 Finally, head to the west and cross the bridges, and watch your
 respective cutscene.
 
-If you’re on the Kanon + Claydol path, now’s the proper time you’re
-heading to the Voidal Chasm. Explore using the section above if you’d
-like, keeping in mind you’re going backwards: go to B3F of Voidal Chasm.
-Now’s your fight with the hooded figure. Beat him, then outside, talk to
+If you're on the Kanon + Claydol path, now's the proper time you're
+heading to the Voidal Chasm. Explore using the section above if you'd
+like, keeping in mind you're going backwards: go to B3F of Voidal Chasm.
+Now's your fight with the hooded figure. Beat him, then outside, talk to
 the crew, then make your way back to this part of the desert.
 
 Cross the bridges and enter the village.
@@ -13516,9 +13516,9 @@ Cross the bridges and enter the village.
 Head up the first set of stairs. The door to the right serves as our
 PC/healing site, should you need it.
 
-Talk to the girl on the second level here, and she’ll give you some lore
+Talk to the girl on the second level here, and she'll give you some lore
 in exchange for some cash. There is also a Level 75 Audino Breeder here.
-You’ll get 3 *Exp. Candy XL* every time you win. Head up.
+You'll get 3 *Exp. Candy XL* every time you win. Head up.
 
 Sashila Shop
 
@@ -13541,7 +13541,7 @@ Sashila Shop
 *Reverse Candy* $50
 
 Head all the way to the top. We can surf here. Do so on the left side,
-and you’ll find:
+and you'll find:
 
 ZCell 091: Sashila Village
 
@@ -13557,13 +13557,13 @@ the main body of land in town.
 
 To start a little quest, exit Sashila to the east and go all the way
 down. Attempt to use the key we just got on the house here, and it will
-break. We’ll be back later.
+break. We'll be back later.
 
 Back at the top of the village, talk to Damien and Alexandra in their
 room. Then, head to the inn and talk to the innkeeper. After a brief
-cutscene, it’s time for a change-up!
+cutscene, it's time for a change-up!
 
-## Hospital of Ruin (1st Visit) - HospRuin1
+## Hospital of Ruin (1st Visit)
 
 Time for another section where we get to control a different character.
 Exit your room and leave to the left. Talk to the elevator, and head
@@ -13581,16 +13581,16 @@ room at the top and talk to Braixen. Head to the bottom-right and follow
 the path.
 
 Choose whether to follow Giratina, then fight the grunts. The outcome
-doesn’t matter here, but it’s winnable if you can get lucky with an
+doesn't matter here, but it's winnable if you can get lucky with an
 Ancient Power boost or Braixen living to put Muk to sleep.
 
 Anyways, after the battle, the scenes will finish playing out… Dark.
 
 ## Sashila Village 2nd Visit
 
-As soon as you regain control, let’s continue the story.
+As soon as you regain control, let's continue the story.
 
-If you’re on the Bladestar kidnap route, head to talk to Alexandra at
+If you're on the Bladestar kidnap route, head to talk to Alexandra at
 the very top of the village.
 
 Relationship Point Choices:
@@ -13605,16 +13605,16 @@ Relationship Point Choices:
 
 - No Thanks. (Ren -1)
 
-If you’re on the Kanon route, talk to Ren at the bottom of the village.
+If you're on the Kanon route, talk to Ren at the bottom of the village.
 
 Either way, head to Alamissa Urben, located halfway east on the lower
 loop of the desert.
 
 ## Alamissa Urben
 
-Talk to Ren at the entrance and you’ll get **Sylveon,** as well as the
+Talk to Ren at the entrance and you'll get **Sylveon,** as well as the
 *Mysterious Black Box.* I recommend training this Sylveon up, with the
-Misty Terrain move, and you’ll see why in a few sections.
+Misty Terrain move, and you'll see why in a few sections.
 
 Alamissa Urben
 
@@ -13628,7 +13628,7 @@ Alamissa Urben
 | Cufant         | 10       |
 | **Copperajah** | 5        |
 
-Rock Smash all the rocks that you can along the way - they’ll
+Rock Smash all the rocks that you can along the way - they'll
 permanently be gone, leaving you shortcuts for the area.
 
 The first area contains a hidden *Red Shard.* Follow the door to the
@@ -13637,16 +13637,16 @@ Shard* and another 3 *Red Shards* are hidden in this area. Follow the
 ladder down and beat the grunt.
 
 Outside there are 3 hidden *Yellow Shards.* The middle section is just
-two optional battles, so beat them if you’d like and enter the door on
+two optional battles, so beat them if you'd like and enter the door on
 the right side. Beat the grunt representing the amazing power of Gen 4
 bug types, then head up the ladder.
 
 Hidden around here and down are two *Yellow Shards.* Enter the bottom
-ladder and exit the right door: you’ll find another hidden *Yellow
+ladder and exit the right door: you'll find another hidden *Yellow
 Shard* and a **Falinks.** Back up the ladder, head up and then right.
 
-Via the nearby door you’ll find a *Power Bracer.* Behind the grunt is a
-*Poke Toy.* Head up and you’ll find, surprise, 3 more hidden *Yellow
+Via the nearby door you'll find a *Power Bracer.* Behind the grunt is a
+*Poke Toy.* Head up and you'll find, surprise, 3 more hidden *Yellow
 Shards.*
 
 Talk to the group up at the top, then head to the left. On the left side
@@ -13660,19 +13660,19 @@ Beat the grunts with the assistance of Ren, then watch the scene…
 
 ## Blakeory Atheneum Tour
 
-Aww yeah, another different character section. Basically, you’re gonna
-be fighting your way to the stairs of the library. The trainers aren’t
+Aww yeah, another different character section. Basically, you're gonna
+be fighting your way to the stairs of the library. The trainers aren't
 too hard.
 
 Talk to the computer at the top of the second column. After you get
 control, talk to Erin downstairs. Here depending on your status with
-Melia you’ll gain Relationship Points with Erin:
+Melia you'll gain Relationship Points with Erin:
 
-If you have at least 45, you’ll get (+6 Erin).
+If you have at least 45, you'll get (+6 Erin).
 
-Else, if you have at least 10, you’ll get (+2 Erin).
+Else, if you have at least 10, you'll get (+2 Erin).
 
-Else if you have less than 0, you’ll get (-6 Erin).
+Else if you have less than 0, you'll get (-6 Erin).
 
 Then, head upstairs and talk to the Youngster for a battle. Talk to Erin
 again. Once you regain control, enter the arena.
@@ -13760,13 +13760,13 @@ Hiyoshi City Shop Bottom Vendor
 
 *Max Repel* $700
 
-There is also an Audino breeder here. Each time you win, you’ll get 10
+There is also an Audino breeder here. Each time you win, you'll get 10
 *Exp. Candy M.*
 
 From the south entrance to Hiyoshi City, enter the first apartment door
 on the right. Hidden in here is an *Ultra Potion.*
 
-Once you’re ready, follow Hazuki in the northwest of the city, then head
+Once you're ready, follow Hazuki in the northwest of the city, then head
 into the house via the secret tunnel and talk to Nymiera. Talk to Huey
 in the corner to get some crazy backstory.
 
@@ -13789,7 +13789,7 @@ Hiyoshi Pass
 Grab the *TM27 Return* on the right.
 
 When you head up, be prepared for a battle… and another change of pace.
-We’ll be playing as Ren now!
+We'll be playing as Ren now!
 
 ??? ??? (No Field)
 
@@ -13833,13 +13833,13 @@ We’ll be playing as Ren now!
 
     -   Hidden Power Ice
 
-First time we’re using Ren’s team, luckily, it’s not too awful. Greninja
+First time we're using Ren's team, luckily, it's not too awful. Greninja
 can beat Raichu and dent Xurkitree, leaving the rest of the team to fill
 in the gaps. This one is optional, but winning grants (+1 Ren)
 Relationship Points.
 
-So yeah, we’ll be playing as Ren, and any captures we make will go to
-our main character’s PC. Nice.
+So yeah, we'll be playing as Ren, and any captures we make will go to
+our main character's PC. Nice.
 
 Head to the south-central square in town. After the scene, head to the
 Hiyoshi Pass again. Attempt to enter Rejuvenation Co., then head back to
@@ -13852,12 +13852,12 @@ enter Rejuvenation Co. by beating the guards.
 In the building, head west and follow the path, beating all the
 trainers.
 
-After the sequence of events, return to Nymiera’s house. Talk to the
+After the sequence of events, return to Nymiera's house. Talk to the
 nurse in the inn, then head to the north part of town to engage with the
 maids. Head straight south. Beat the maids, then return to the inn one
-more time. Enter the tunnel, we’re going in. Make your way to the back.
+more time. Enter the tunnel, we're going in. Make your way to the back.
 
-We get control of our character again! Return to the tunnel. We’re gonna
+We get control of our character again! Return to the tunnel. We're gonna
 be pushing strength boulders onto the spiked platforms. As soon as you
 get to the first healing star, grab the *Focus Sash* to the left and
 press the button on the pillar.
@@ -13918,7 +13918,7 @@ Trendy Girl Reina (Dimensional Rift Field)
 
     -   Calm Mind
 
-Another easy one, just make sure you don’t get swept by Honchkrow.
+Another easy one, just make sure you don't get swept by Honchkrow.
 
 Head up and through, grabbing the *Rift Notes for Code: Angelus*. Oh
 boy.
@@ -13940,19 +13940,19 @@ Angel of Death Gardevoir (Dimensional Field)
 
 This one is tough. This time, you must break *four* shields just to get
 to be able to whittle its HP down. It loves to put you to sleep, thanks
-to its speed, it’s gonna be able to easily do so. It has a Lum Berry, so
+to its speed, it's gonna be able to easily do so. It has a Lum Berry, so
 you need to hit it with Burn, Paralysis, or Poison twice just to get it
 to stick. It also has both physical and special moves, so again lowering
 both stats might be key. I recommend Memento as at least you will be
 able to live a Night Slash or Hyperspace Hole with most Pokemon
 afterwards. Break the shields efficiently and then hammer it hard,
 preferably with Poison or Steel type physical moves. Alternatively, you
-can nullify the field and Gardevoir’s advantagex with Pyukumuku’s Purify
+can nullify the field and Gardevoir's advantagex with Pyukumuku's Purify
 - then Sylveon can set up Misty Terrain, allowing you to knock it out
 with field-boosted Fairy moves.
 
 After defeating it, depending on our choice in a previous past segment,
-you’ll get relationship points here:
+you'll get relationship points here:
 
 If Cop saved - (Ren +3, Reina +3, Huey +3, Venam +3)  
 If Maria "saved" - (Ren +3, Reina +3, Huey +3)
@@ -13973,15 +13973,15 @@ Dimensional Rift Gardevoir Round 2 (Dimensional Field)
 A far easier round 2, plus, Ren will fight with you. If you could do the
 first this one will be easy.
 
-… … … Well. Once you get control back, head to Nymiera’s house once
+… … … Well. Once you get control back, head to Nymiera's house once
 again. Push the button on the back of the bookcase!
 
 ## VS. Ren, Sashila Help Quests
 
 Talk to the group, then again on top of the village. Head out to the
 coastline and talk to Alexandra in front of the obelisk. After the
-scene, we’re gonna head west across the bridge for a battle with Ren! At
-least we’re familiar with his team.
+scene, we're gonna head west across the bridge for a battle with Ren! At
+least we're familiar with his team.
 
 Outcast Ren (Desert Field)
 
@@ -14045,10 +14045,10 @@ Outcast Ren (Desert Field)
 
     -   Gunk Shot
 
-A very, very tough singles battle, though nothing you’ve never seen
+A very, very tough singles battle, though nothing you've never seen
 before. Beat him with a better team!
 
-Next, it’s time for some Help Quests. Enter the door in the middle of
+Next, it's time for some Help Quests. Enter the door in the middle of
 Sashila Village, on the left side.
 
 HQuest 28: Legend of the Void
@@ -14057,33 +14057,33 @@ HQuest 28: Legend of the Void
     Marten.
 
 -   Head up two sets of stairs and enter the first door on the right
-    side. Talk to Hyu’ro.
+    side. Talk to Hyu'ro.
 
 -   Talk to Marten in his house again. Exit, and take the Mudsdale rider
     outside the village to Voidal Chasm.
 
 -   In the Voidal Chasm, pick up the shiny object on B2F.
 
--   Return to Marten, then meet him in Hyu’ro’s house.
+-   Return to Marten, then meet him in Hyu'ro's house.
 
--   Enter Sashila’s research room by going up, surfing left, and down.
+-   Enter Sashila's research room by going up, surfing left, and down.
     Talk to Marten at the top.
 
--   Head into Alexandra’s room and use the crystal to go back to the
+-   Head into Alexandra's room and use the crystal to go back to the
     past…
 
 -   Talk to the truck driver in Hiyoshi City and go to Gregorian Lake.
     Surf up and talk to the guy inside the house here to get a *Lake
     Postcard.*
 
--   Return to the present and talk to Hyu’ro.
+-   Return to the present and talk to Hyu'ro.
 
 -   After talking to Marten at the door, head back to the Chasm, and go
     all the way to B3F.
 
 -   Rock climb up twice and enter the door. Head left, and then go down.
 
--   Battle **Absol.** Hyu’ro’s fate is up to you. After making your
+-   Battle **Absol.** Hyu'ro's fate is up to you. After making your
     choice, return to Sashila.
 
 -   Re-enter the research area and talk to Marten.
@@ -14124,9 +14124,9 @@ style="width:6.61458in;height:4.98958in" />
 
 -   Head back to the top of the village and go around the back of the
     first house on the right cliff. Pick up a hidden *Ground Gem, Green
-    Shard,* and *Protein.* Inside, you’ll find *Relic Silver.*
+    Shard,* and *Protein.* Inside, you'll find *Relic Silver.*
 
--   There’s nothing in the right house, so head to the center of the
+-   There's nothing in the right house, so head to the center of the
     city and go down. Hidden down here is a *Wacan Berry* as well as a
     *Super Repel.* Enter the house on the right. Grab the *Relic
     Copper.* With Blast Powder, you can get:
@@ -14163,10 +14163,10 @@ Sashila Village Help Quest 3: My Sister Fell...
 
 -   Head down and talk to the girl. Agree to leave with her.
 
--   Head west in the desert, taking the north loop. You’ll see Mandibuzz
+-   Head west in the desert, taking the north loop. You'll see Mandibuzz
     and the girl on top of a rock climb. Beat Mandibuzz.
 
--   Go all the way back to Zorrialyn Coast, and you’ll see the Exeggutor
+-   Go all the way back to Zorrialyn Coast, and you'll see the Exeggutor
     by the Obelisk.
 
 -   Return to the help center to get $32500 and MegaStone *Abomasite!*
@@ -14174,7 +14174,7 @@ Sashila Village Help Quest 3: My Sister Fell...
 
 HQuest 30: I need to get Stronger!
 
--   Meet Novae at the bottom of the village. It’s battle time…
+-   Meet Novae at the bottom of the village. It's battle time…
 
 Wanderer Novae (Desert Field)
 
@@ -14238,9 +14238,9 @@ Wanderer Novae (Desert Field)
 
     -   Seed Bomb
 
-Compared to some of her earlier fights, this isn’t that bad. She uses a
+Compared to some of her earlier fights, this isn't that bad. She uses a
 standard desert-based sun team, meant to catch your leads off guard with
-sleep + heat wave. If you can change up the weather, you’ll be golden.
+sleep + heat wave. If you can change up the weather, you'll be golden.
 Alternatively, fighting fire with fire works well here, as only her own
 Ninetales and the frail Lycanroc resist your own Heat Wave. If you got
 here with your double battle ability, you could do one more.
@@ -14250,10 +14250,10 @@ here with your double battle ability, you could do one more.
 
 ## Sand Stream Cave
 
-You can return to GDC now if you want, but there’s even more desert
+You can return to GDC now if you want, but there's even more desert
 exploration and quests we can do!
 
-Next, we’re gonna enter Sand Stream Cave. In Sashila, head to the top,
+Next, we're gonna enter Sand Stream Cave. In Sashila, head to the top,
 and surf to the east (on the opposite side of the research lab). Talk to
 a guy here, then exit and go north from Zorrialyn Coast.
 
@@ -14274,7 +14274,7 @@ Shards, Carbos, Escape Rope, Berry Juice,* and *Grass Gem.*
 
 Now, exit the cave. Re-enter, and check for a stationary Hippopotas to
 the left. If it is not there, exit and enter again. Repeat this until
-we’re good, then take the northwest quicksand vortex to B1F.
+we're good, then take the northwest quicksand vortex to B1F.
 Alternatively, just wait until nighttime for guaranteed odds.
 
 Enter the vortex in the sand pit. Grab the *Revive* here on B2F and find
@@ -14301,21 +14301,21 @@ Hidden in this room is a *Green Shard, Soft Sand, Rock Gem, Rawst Berry,
 Sitrus Berry, Berry Juice* and *Lava Cookie.*
 
 Interact with the space in the ground here and put in the Scented Lure.
-Then, you’ll be able to catch **Trapinch** and **Vibrava!** Grab the
+Then, you'll be able to catch **Trapinch** and **Vibrava!** Grab the
 MegaStone *Sandacondanite.*
 
-That’s all there is to do in that cave for now!
+That's all there is to do in that cave for now!
 
 ## Zorrialyn Labyrinth 1<sup>st</sup> Visit
 
-Next, we’re going to do some treasure hunting. Head down south of
-Zorrialyn Coast, and you’ll see a cave entrance.
+Next, we're going to do some treasure hunting. Head down south of
+Zorrialyn Coast, and you'll see a cave entrance.
 
 Time to explore: Zorrialyn Labyrinth.
 
-I’m basically gonna list the paths I took in this section that led me to
+I'm basically gonna list the paths I took in this section that led me to
 all the items. Every time you reach a junction, proceed to the next
-direction listed. You’ll need to return multiple times.
+direction listed. You'll need to return multiple times.
 
 B1F
 
@@ -14326,7 +14326,7 @@ Then, DD, L all the way to a dead end, grab *Relic Copper.* RUUR, grab
 Exit this room, then go DR, Battle, RULULD, grab *Relic Copper.* UL,
 enter and grab *Seviper Crest.* It kicked me out shortly after.
 
-2: ULLUULULULD, grab *Dread Plate.* URU, but don’t go in as there is
+2: ULLUULULULD, grab *Dread Plate.* URU, but don't go in as there is
 nothing there. RURDRU (around the big crack), pick up a *Heart Scale.*
 RD, pick up a *Meadow Plate.* URU, pick up an *Icicle Plate.* RUR,
 follow the path pick up a *Dread Plate.* Back at the first junction
@@ -14337,7 +14337,7 @@ Booted!
 interact with the wall and use Strength. From the junction: U, R all the
 way, D, R again ALL the way, battle, finish going R all the way, DL.
 Grab the *Oricorio Crest* inside the door*.* Exit, RUULU, take the
-ladder. Now, we’ve made it to Floor 2. Repeat just the strength wall
+ladder. Now, we've made it to Floor 2. Repeat just the strength wall
 interaction and take the ladder to return to B2F.
 
 B2F
@@ -14350,8 +14350,8 @@ way, RD for an *Iron Plate.* U, L all the way until a door. Inside is a
 Get *Fearow Crest.* I got booted here.
 
 2: RDR, then talk to and defeat/catch the Cofagrigus. L all the way, U,
-L all the way. Down all the way. Grab the *Carbos* here, but DON’T read
-the wall, or you’ll have to go fight Cofagrigus again. LURU, take the
+L all the way. Down all the way. Grab the *Carbos* here, but DON'T read
+the wall, or you'll have to go fight Cofagrigus again. LURU, take the
 ladder. Repeat just the Cofagrigus encounter and take the ladder to
 return to B3F.
 
@@ -14365,7 +14365,7 @@ Smash here, UURUR, pick up a *Sky Plate.* Booted!
 RU, head in for a *Glaceon Crest.* Exit, RRULU, pick up *Relic Copper*.
 D, R all the way, D for *Relic Copper.* Up Left Up for *Spooky Plate.*
 
-This is all we can do for now in the labyrinth! We’ll be back here not
+This is all we can do for now in the labyrinth! We'll be back here not
 too long from now.
 
 That covers the quests and available content in the Badlands, for now.
@@ -14373,15 +14373,15 @@ That covers the quests and available content in the Badlands, for now.
 ## Grand Dream Tournament
 
 Talk to Damien at the top of Sashila and head back to Route 9. There,
-you’ll get *HM02 Fly!* Finally. If you have the Golden Wings you can use
+you'll get *HM02 Fly!* Finally. If you have the Golden Wings you can use
 these now!
 
 Technically this opens us up to return to Floria and Terajuma… which
 means there are tons of new areas and quests that open up. I cover these
-in the next chapter, though you are able to do some of them now if you’d
+in the next chapter, though you are able to do some of them now if you'd
 like.
 
-When you’re ready, hop on the Route 9 train headed to the Tournament
+When you're ready, hop on the Route 9 train headed to the Tournament
 Stadium. Enter the building. Talk to Erin at the desk, then to the
 attendant.
 
@@ -14411,10 +14411,10 @@ GDC Tournament Shop
 
 *Max Repel* $700
 
-Head in and into the door on the left. When you’re ready, talk to the
-guy at the right. We’ll be playing a 3v3 tournament. Each battle, minus
-the last, will be played on a random field. So, that’s interesting. The
-trainers aren’t too hard to beat, but so you’re aware of their
+Head in and into the door on the left. When you're ready, talk to the
+guy at the right. We'll be playing a 3v3 tournament. Each battle, minus
+the last, will be played on a random field. So, that's interesting. The
+trainers aren't too hard to beat, but so you're aware of their
 strategies, here they are:
 
 -   Rain Team
@@ -14423,7 +14423,7 @@ strategies, here they are:
 
 -   Extreme Evo-boost -\> Pass -\> Stored Power
 
-You’ll then get to play as Melia for a quick second. Head into the Grand
+You'll then get to play as Melia for a quick second. Head into the Grand
 Dream Ball.
 
 The next 3 battles are as follows:
@@ -14434,7 +14434,7 @@ The next 3 battles are as follows:
 
 -   Fast and hard damage
 
-After some scenes, you’ll get a treat from Tesla.
+After some scenes, you'll get a treat from Tesla.
 
 The next set of battles:
 
@@ -14514,9 +14514,9 @@ calculation.
 
 The Tyranitar is a tank on this field. Basically, it turns Normal type,
 and all its moves are turned to Normal type as well, adding to their
-damage. That, plus its single weakness now being Ghost, you’re gonna
+damage. That, plus its single weakness now being Ghost, you're gonna
 struggle with killing it. His Kabutops is also tough to beat if it gets
-a Weak Armor speed boost. Otherwise, it’s not the hardest battle in the
+a Weak Armor speed boost. Otherwise, it's not the hardest battle in the
 world if you can account for the Inverse Field. Fire moves hit
 everything except Crustle and Tyranitar super effectively here - just
 watch out for the X-Scissor and Slash and Burn moves here and there. I
@@ -14525,7 +14525,7 @@ type-disadvantaged mons into super-effective titans, crushing with
 Normalized moves.
 
 Win to get the Rugged Badge, which lets us use Dive and go up to Level
-85. You’ll also get *TM80 Rock Slide.* Nice.
+85. You'll also get *TM80 Rock Slide.* Nice.
 
 # Chapter 14: Death of One, Birth of Another
 
@@ -14540,7 +14540,7 @@ After the cutscenes play out, head back outside. Talk to the crew in the
 lobby, then outside.
 
 Before we board the ship, there are a TON of side quests that have
-opened on the other islands we haven’t been able to visit for a while.
+opened on the other islands we haven't been able to visit for a while.
 Skip to the next section if you want to just progress the story. This
 section is all doable just before the tournament arc, so if you did this
 part already you can skip to the next for V12 content.
@@ -14549,12 +14549,12 @@ We can fly now! If you have the Golden Wings, use them, otherwise, teach
 fly to a Pidgey or something.
 
 Fly to Evergreen Forest, and head up. Rock Climb here, then use Strength
-to get to the top. Here, you’ll find an *Ice Memory* and have a chance
+to get to the top. Here, you'll find an *Ice Memory* and have a chance
 to catch **Sneasel**! Towards the top of the area, surf across a pond,
 climb some rocks and use Strength again to pick up MegaStone *Audinite!*
 Make your way to the spring. Battle and catch “The Emperor”
 (**Empoleon**). Back outside the forest, talk to Nana in her house for a
-*King’s Rock!*
+*King's Rock!*
 
 Head to North Evergreen Cave. Melt the ice again with a move like Lava
 Plume to get to the top. Push the boulder into this hole. On the next
@@ -14564,9 +14564,9 @@ around to the hole on the bottom. Once you push it down, follow it. Fish
 in this newly opened spot to catch **Feebas!**
 
 Next, fly to Kakori, and head down to the depths of the gym. Using
-strength in the backroom, you’ll get *TM106 Irritation.*
+strength in the backroom, you'll get *TM106 Irritation.*
 
-In Terajuma Jungle, If you’ve picked up the T.M.’s for Hail, Sunny Day,
+In Terajuma Jungle, If you've picked up the T.M.'s for Hail, Sunny Day,
 and Rain Dance, show them to the guy in front of the weather institute
 to get the *Castform Crest* and *TM128 Weather Ball.*
 
@@ -14587,13 +14587,13 @@ Kristiline T.M. Shop New Items (12+ Badges)
 
 *TM155 Eerie Impulse* $15000
 
-Next, we’re heading to Lost Camp. If you’ve completed all three parts of
-this quest so far, enter Maman’s house and go upstairs. After some
-scenes, you’ll get **Starly,** and (+999 Mosely) Relationship Points.
+Next, we're heading to Lost Camp. If you've completed all three parts of
+this quest so far, enter Maman's house and go upstairs. After some
+scenes, you'll get **Starly,** and (+999 Mosely) Relationship Points.
 Yes, seriously.
 
-Enter the Locksmith’s house in Akuwa Town. Show him our broken key. If
-you have 2 Light Clay and 1 Hard Stone, he’ll make us a *Reforged Key!*
+Enter the Locksmith's house in Akuwa Town. Show him our broken key. If
+you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key!*
 Nice. Fly back to Sashila and attempt to enter the house on the
 coastline. Hidden on the first floor is a *Yellow Shard, Blue Shard,*
 and a *Red Shard.* Head upstairs and talk to the girl and pick up a
@@ -14606,7 +14606,7 @@ into the 4-way junction and go right, then, push the strength boulder
 onto the platform. Enter, and follow the path up to the 9-badge gate.
 Talk to the treasure chest for a battle with **Gastly!**
 
-Enter the Lost Castle and make your way straight to the back. If you’ve
+Enter the Lost Castle and make your way straight to the back. If you've
 opened all 9 of the badge gate chests, head in to get the *Vespiquen
 Crest,* and *TM61 Will-o-Wisp.*
 
@@ -14637,8 +14637,8 @@ Next, fly to Rose Theater and use the Time Splicer Stone. Head to
 Sheridan Village, then cut down the pink sapling in front of the
 village. Make your way back to the present.
 
-Next, we’re gonna fly to West Gearen City. Head into the house with the
-red door on the south side of town. If you’ve beat all the virtual gym
+Next, we're gonna fly to West Gearen City. Head into the house with the
+red door on the south side of town. If you've beat all the virtual gym
 leaders, accept the challenge to the virtual E4. You can “take a break”
 after each win: if you do, you can save between each member.
 
@@ -14704,7 +14704,7 @@ Elite Four Will (Glitch Field)
 
     -   Psychic
 
-I again will cover this as on the Cyndaquil path. This one isn’t too
+I again will cover this as on the Cyndaquil path. This one isn't too
 bad, though in general you must watch out for field boosted Psychic. A
 bit of luck in dodging sleep allows Typhlosion to knock out Jynx and
 Exeggutor, and Miltank and Jolteon can easily handle Espeon, Slowbro,
@@ -14776,9 +14776,9 @@ Elite Four Koga (Glitch Field)
 It can be very tempting to start setting up Curse with Steelix, but Koga
 has a lot of Fire / Water special coverage, so you probably want to
 Stealth Rock then bail. Keeping Qwilfish alive is useful to nullify all
-Toxic Spikes here, unfortunately it doesn’t really help much other than
+Toxic Spikes here, unfortunately it doesn't really help much other than
 setting up your own spikes if you want to cripple Muk, Qwilfish, and
-Ariados. Luckily Jolteon can easily take Crobat if you don’t let it
+Ariados. Luckily Jolteon can easily take Crobat if you don't let it
 Double Team too much, and Typhlosion, Gliscor, and Steelix can find ways
 to deal with everything else easily.
 
@@ -14921,7 +14921,7 @@ Miltank can barely take out Tyranitar. Vileplume goes down to
 Typhlosion, and if you save Gliscor for Houndoom, you can one-shot it.
 Unfortunately, the Umbreon is a pain in the ass to take out - I
 recommend Knocking Off its item with Gliscor and using everything you
-have left to make sure it can’t rest. Steelix can’t get poisoned, so
+have left to make sure it can't rest. Steelix can't get poisoned, so
 getting off a couple curses might be your best bet. You can always reset
 if things go south.
 
@@ -14994,17 +14994,17 @@ news: everything past his lead is weak to stealth rocks! So, use Steelix
 to get those out, then let Jolteon hit Exeggutor and Dragonite with 4x
 effective Hidden Power. Qwilfish helped me weaken Lapras and Gliscor
 finished it, leaving Miltank and Typhlosion to carefully deal with the
-rest of the team. It’s tough, but you can do it.
+rest of the team. It's tough, but you can do it.
 
-If you succeed, you’ll get the corresponding crest to your starter in
+If you succeed, you'll get the corresponding crest to your starter in
 the challenge: the *Meganium Crest*, *Typhlosion Crest*, or *Feraligatr
-Crest*! You’ll also get 25 AP Points and your fourth department store
+Crest*! You'll also get 25 AP Points and your fourth department store
 stamp!
 
 On Junction Bridge, push a boulder out of the way - now that we have the
 Dull Key, open the door here and use a GourmetTreat to get **Litten!**
 
-Next, head east through Neo Gearen City (I’ll cover this revamped area
+Next, head east through Neo Gearen City (I'll cover this revamped area
 later!) to Route 2.
 
 Route 2 (Altered)
@@ -15020,13 +15020,13 @@ Route 2 (Altered)
 | Heracross    | 4        | Burmy           | 5        | Alomomola       | 100      |
 | Chansey      | 1        | Vespiquen       | 5        |                 |          |
 
-On the left you’ll find a hidden *Rose Incense.*
+On the left you'll find a hidden *Rose Incense.*
 
 Enter the factory in the middle of the route to get a *Grass Memory* as
 well as *Research Notes.* Exit through the left door and grab the *Dusk
 Stone* and hidden *Blue Shard* and *Rare Candy.*
 
-You’ll also find:
+You'll also find:
 
 ZCell 094: Route 2 (Altered)
 
@@ -15035,7 +15035,7 @@ style="width:6.63542in;height:4.98567in"
 alt="A picture containing colorful Description automatically generated" />
 
 Return to the past again and give the guy on Route 2 some research notes
-so he’ll finally move out of the way. At night only, you can get:
+so he'll finally move out of the way. At night only, you can get:
 
 ZCell 095: Route 2
 
@@ -15045,14 +15045,14 @@ style="width:6.61458in;height:5.01042in" />
 Also, you can catch **Whimsicott** here (ignore the Flabebe from an
 earlier patch).
 
-Talk to Kecleon in the middle of the route. He’ll offer to sell the two
+Talk to Kecleon in the middle of the route. He'll offer to sell the two
 crests that correspond to the starters we did NOT choose in the virtual
-league. He’ll sell the *Meganium Crest, Typhlosion Crest,* and
+league. He'll sell the *Meganium Crest, Typhlosion Crest,* and
 *Feraligatr Crest* for $250000 each. Steep, but worth it if you are
-using any of these three and didn’t get their crest via the virtual
+using any of these three and didn't get their crest via the virtual
 league quest.
 
-As you’ve probably noticed, East Gearen City looks brand new. Fly there!
+As you've probably noticed, East Gearen City looks brand new. Fly there!
 
 There are new trainers to fight and items on each map. The one
 containing the lab has a hidden *GourmetTreat, Yellow Shard, Resist
@@ -15134,7 +15134,7 @@ library. Upstairs, talk to Zumi, who will reward us with 10 *Exp. Candy
 L* and MegaStone *Ampharosite!* Our final task for her is to catch a
 Pokemon found later on at Axis University.
 
-Enter the Help Center. If you’ve been keeping track of Zygarde Cells (At
+Enter the Help Center. If you've been keeping track of Zygarde Cells (At
 least 70), talk to the researchers to get *Lucky Egg*!
 
 HQuest 31: Poke Ball Conundrum
@@ -15159,8 +15159,8 @@ HQuest 31: Poke Ball Conundrum
 -   Return to the Help Center to get your reward - $12356, and ZCrystal
     *Aloraichium-Z.* (+1 Karma)
 
--   Now, return to the Poke Ball shop to get 15 *Ultra Balls.* We’ll
-    also again be able to buy balls here - nothing we couldn’t before
+-   Now, return to the Poke Ball shop to get 15 *Ultra Balls.* We'll
+    also again be able to buy balls here - nothing we couldn't before
     however.
 
 HQuest 32: Forest Restoration
@@ -15170,11 +15170,11 @@ HQuest 32: Forest Restoration
 -   Talk to Adrienn in front of where we fought Gyarados (remember
     that?)
 
--   We’re gonna need to submit 3 workers, 1 Scyther, and $48000. Go
+-   We're gonna need to submit 3 workers, 1 Scyther, and $48000. Go
     ahead and submit the money when you have it.
 
 -   Fly to Kakori Village and enter the Jeminra Woods Safari Zone.
-    You’ll see **Scyther** here now, so catch two (one to keep).
+    You'll see **Scyther** here now, so catch two (one to keep).
 
 -   Worker 1: Community room in Goldenleaf Town.
 
@@ -15186,7 +15186,7 @@ HQuest 32: Forest Restoration
 -   Return to Adrienn and hand over the Scyther, then ask to see
     Progress.
 
--   We’re gonna need $58000, 1 Architect, and 3 Fishermen. Submit the
+-   We're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the
     money.
 
 -   Fisherman 1: On a bench east of the East Gearen to Route 1 Station.
@@ -15195,21 +15195,21 @@ HQuest 32: Forest Restoration
     entrance.
 
 -   Fisherman 3: In Aquamarine Cave, via the lighthouse path. While
-    you’re in the Rock Climb area, talk to the worker and give him
-    Protein. If you do, he will give you **Tyrogue!** Anyways, you’ll
+    you're in the Rock Climb area, talk to the worker and give him
+    Protein. If you do, he will give you **Tyrogue!** Anyways, you'll
     find the fisherman after you go up the ladder.
 
 -   Architect: Bridge guy in Terajuma Jungle - first left from Kakori.
 
 -   Return to Adrienn and inquire about progress.
 
--   Next, we’ll need to submit $68000, 7 Tiny Mushrooms, 1 bag of
+-   Next, we'll need to submit $68000, 7 Tiny Mushrooms, 1 bag of
     Stardust, and 1 Poliwag.
 
--   If you haven’t completed the Poliwag search quest, do so now. Feel
+-   If you haven't completed the Poliwag search quest, do so now. Feel
     free to submit that one if you have it, or, if its evolved, breed
     it. Note that finishing this quest will let us catch more Poliwag,
-    so don’t worry if this is your only one.
+    so don't worry if this is your only one.
 
 -   I had both the mushrooms and the stardust, but if not, go grind them
     off Paras/Staryu, respectively. Compoundeyes and Thief/Covet will
@@ -15256,9 +15256,9 @@ HQuest 33: Mall Opportunities
     Berry.*
 
 -   Give her 5 Occa Berries after either farming them or using the stash
-    we bought earlier. You’ll get a *Passho Berry.* Either farm four
+    we bought earlier. You'll get a *Passho Berry.* Either farm four
     more or put off this quest until we get our next department store
-    stamp, when we’ll be able to buy more.
+    stamp, when we'll be able to buy more.
 
 -   Talk to ICSW again, then head to the berry store downstairs.
 
@@ -15275,7 +15275,7 @@ HQuest 33: Mall Opportunities
 -   Return to the help center to get $25840 and MegaStone
     *Altarianite.* (+1 Karma).
 
-After doing all three quests, head over to Venam’s gym to fight Aya.
+After doing all three quests, head over to Venam's gym to fight Aya.
 
 Wasteland Punk Aya (Corrosive Field)
 
@@ -15342,7 +15342,7 @@ Wasteland Punk Aya (Corrosive Field)
 This can be a scary battle: Lycanroc is guaranteed one turn of safety
 plus an attack boost. If you can knock that out, the defensive core of
 Mega Venusaur, Tentacruel, and Dragalge are all intense! The good news
-is there isn’t really anything preventing you from decimating her team
+is there isn't really anything preventing you from decimating her team
 with Earthquake, so if you can knock out Lycanroc and slow down
 Tentacruel somehow you might be able to sweep from there.
 
@@ -15356,8 +15356,8 @@ Pain Split 4 Yellow Shards
 
 Zen Headbutt 4 Green Shards
 
-One more quest we can do. Head to Oblitus Town. If you’ve done the Yui’s
-ranch quest, enter Kelvin’s house on the right side of town and get the
+One more quest we can do. Head to Oblitus Town. If you've done the Yui's
+ranch quest, enter Kelvin's house on the right side of town and get the
 *PokeFlute* for $45000. Then, go to Honec Woods where **Snorlax** is
 to get it.
 
@@ -15366,7 +15366,7 @@ to get it.
 Next is a quick detour to Route 4 to get some new Den Pokemon - feel
 free to skip this one as well.
 
-Essentially, now that we’ve beaten Souta, all four of the dens have been
+Essentially, now that we've beaten Souta, all four of the dens have been
 updated with new Pokemon! So, I will list the Pokemon in each here.
 
 RIFT DEN 1 (12 - 16 Badges): The common encounters in this den are
@@ -15388,9 +15388,9 @@ RIFT DEN 4 (12 - 16 Badges): The common encounters in this den are
 Lombre, Gastrodon, **Seismitoad,** Swanna. The rare ones are Mantine,
 **Jellicent**, **Timburr.**
 
-Entering Cairo’s shop, he has even more available crests now!
+Entering Cairo's shop, he has even more available crests now!
 
-Cairo’s Shop New Items (13 Badges)
+Cairo's Shop New Items (13 Badges)
 
 *Boltund Crest* 9,000 Red Essences
 
@@ -15400,14 +15400,14 @@ Cairo’s Shop New Items (13 Badges)
 
 *Cinccino Crest* 9,000 Red Essences
 
-Head up towards Den 4. You’ll spot **Sobble** hiding in the water. Chase
+Head up towards Den 4. You'll spot **Sobble** hiding in the water. Chase
 it a few times for a battle!
 
 Make sure you have 15000 Red Essence, then fly to Secret Shore, and head
-to the left. You’ll notice a strength boulder across the water - push it
-out of the way, and you’ll find a special den. Put in 15000 Red Essence
-and a Rift Matter, and you’ll be able to battle **Beldum!** It has two
-shields. Just make sure you don’t kill it or let it Take Down itself to
+to the left. You'll notice a strength boulder across the water - push it
+out of the way, and you'll find a special den. Put in 15000 Red Essence
+and a Rift Matter, and you'll be able to battle **Beldum!** It has two
+shields. Just make sure you don't kill it or let it Take Down itself to
 death. When you catch it, your reward will be *Xen Waste.* Note that
 this is a special shadow Pokemon and needs to enter the Purify Chamber
 in the PC such that all 9 of the slots have perfect “flow” in order to
@@ -15416,9 +15416,9 @@ be purified. Easiest way to do this is to stick 36 normal types in.
 ## Route 10 First Visit
 
 Real quick, fly over to Route 9. Head to where we fought Souta earlier,
-and you’ll find the MegaStone *Pidgeotite* Head south from the Rose
-Theater, and you’ll notice that Route 10 to the right is now open. We
-can’t do anything there yet except catch some Pokemon.
+and you'll find the MegaStone *Pidgeotite* Head south from the Rose
+Theater, and you'll notice that Route 10 to the right is now open. We
+can't do anything there yet except catch some Pokemon.
 
 Route 10
 
@@ -15438,12 +15438,12 @@ You can also catch the overhead **Wingull** and **Pelipper!**
 style="width:4.875in;height:3.42538in"
 alt="A picture containing text, person, orange Description automatically generated" />
 
-That’s all we can do right now, so head back to the GDC Tournament
+That's all we can do right now, so head back to the GDC Tournament
 Stadium and board the ship.
 
-## Nastasia’s Ship
+## Nastasia's Ship
 
-Talk to the group in the meeting room of Nastasia’s ship.
+Talk to the group in the meeting room of Nastasia's ship.
 
 Relationship Point Choices:
 - Fine... (Ren +1, Aelita +1)  
@@ -15456,14 +15456,14 @@ Relationship Point Choices:
 - You have to do it alone. (Aelita -1)
 
 After another conversation, you can talk to Sharon for a battle against
-the duo. It’s optional, but winning will get you relationship points
+the duo. It's optional, but winning will get you relationship points
 (Ren +2, Aelita +2).
 
 Head up the ladder and talk to Nastasia and Ren. Follow her into the
 room on the right, then go back downstairs.
 
 Beat the Xen grunts for relationship points (+1 Aelita) , then on the
-couch, accept Aelita’s request for story time. We’re now playing as her
+couch, accept Aelita's request for story time. We're now playing as her
 with her team for a little bit!
 
 As soon as you get control, head over to the spot on the left side of
@@ -15531,12 +15531,12 @@ Pseudo Sensei Texen (Forest Field)
 
     -   Close Combat
 
-You’ll be using Aelita’s team, so this one can be tough. I recommend
+You'll be using Aelita's team, so this one can be tough. I recommend
 starting with Cherrim and Starmie - these two are fast and strong and
 clean up most of his team easily. You can do it!
 
-Afterwards, you’ll get the *Cherrim Crest.* Tell Aelita you want to rest
-for a while once you’re ready. Head outside the airship when you wake
+Afterwards, you'll get the *Cherrim Crest.* Tell Aelita you want to rest
+for a while once you're ready. Head outside the airship when you wake
 up!
 
 ## Zone Zero Pt. 1
@@ -15583,9 +15583,9 @@ Zone Zero Right Grunt
 
 *Escape Rope* $550
 
-We’ll need a few Blast Powders to progress, so buy them now. Use the PC
-star above to add an Electric type to your party. You’ll need one, so
-catch a Helioptile out here if you don’t have one yet. Audino will heal
+We'll need a few Blast Powders to progress, so buy them now. Use the PC
+star above to add an Electric type to your party. You'll need one, so
+catch a Helioptile out here if you don't have one yet. Audino will heal
 your team if you talk to it.
 
 Enter the building and go down to the basement. You can hop across any
@@ -15605,13 +15605,13 @@ enter the first door upstairs.
 
 Beat the grunt then go up the ladder to talk to Aelita. As her again,
 parkour to the right and jump down the hole. Attempt to jump across, but
-when you can’t, take your character to the second door to smash the
+when you can't, take your character to the second door to smash the
 rock. As Aelita, parkour down and to the right, then up. Interact with
 the bookshelf here, then as your character battle the grunt and enter
 door \#3. Use blast powder, then parkour to the right twice and use the
 panel.
 
-Upstairs, enter the open door and beat the grunt. You’ll then regain
+Upstairs, enter the open door and beat the grunt. You'll then regain
 control of Aelita, so head back to the power room at the bottom.
 
 Popstar Risa Raider (No Field)
@@ -15626,15 +15626,15 @@ Popstar Risa Raider (No Field)
 
     -   Flamethrower
 
-You’ll win if you just use Giga Drain with Cherrim, Return with Golem!
+You'll win if you just use Giga Drain with Cherrim, Return with Golem!
 If not, surely the other Pokemon can do it. Winning grants Relationship
 Points (Ren +1, Aelita +1).
 
 Back as your character, head to the right and exit this building. Pick
 up a hidden *Yellow Shard,* and enter the next building to the right.
-Once you enter, you’ll fall to the abandoned depths!
+Once you enter, you'll fall to the abandoned depths!
 
-Once you’re in the depths, heal with Audino, then talk to the crew and
+Once you're in the depths, heal with Audino, then talk to the crew and
 learn you can switch characters by pressing the A key. To progress in
 this area, I recommend this order:
 
@@ -15644,7 +15644,7 @@ this area, I recommend this order:
 -   As Ren, head right, then fly up and over the gap. Each gap is
     distinguished by an obvious indent in the floor. Follow this path to
     the second gap, then to the third. Head over to the left to the gap
-    you can’t cross.
+    you can't cross.
 
 -   As Aelita, push the boulder into the hole, then cross the gap to the
     right. Follow the path to the next gap and attempt to cross.
@@ -15658,7 +15658,7 @@ this area, I recommend this order:
 -   AS MC, follow the path right, beating the grunts. Rendezvous with
     the crew!
 
-Once you’ve cleared the puzzle, heal with Audino and head to the right.
+Once you've cleared the puzzle, heal with Audino and head to the right.
 After a cutscene, follow the stairs up and exit the building.
 
 In this area, smash the two rocks to the left for easier backtracking
@@ -15679,7 +15679,7 @@ here, and vice versa.
 
 Head up, battling the grunt along the way. Loop around to the left for
 an *Ultra Potion,* then go up along the upper path to get a *Razor
-Claw.* To the left is a hidden *Red Shard.* Once you’ve grabbed these
+Claw.* To the left is a hidden *Red Shard.* Once you've grabbed these
 items go all the way to the left and into the building on the top left
 of the area.
 
@@ -15689,7 +15689,7 @@ downstairs and power on the generator. (This is the last time we will
 need the electric type in V12). Enter the newly opened room and read the
 book with Ren, then exit this building and enter the one below it.
 
-Grab a hidden *Red Shard* and enter Nymiera’s old house. Go to the
+Grab a hidden *Red Shard* and enter Nymiera's old house. Go to the
 basement to click the lever. Save/heal and approach the top of the Zone
 Zero area.
 
@@ -15760,10 +15760,10 @@ you have spread moves that are gonna be able to knock out the
 bulky-as-hell Aromatisse turn one or use your own Trick Room, most
 likely, you get eight turns of having to deal with her slow team going
 first and causing massive damage. Aromatisse will set up screens as
-well, meaning after Stonjourner and Darmanitan wear you down, you’ll be
+well, meaning after Stonjourner and Darmanitan wear you down, you'll be
 easy picking for Lapras and Solrock. I recommend knocking out Aromatisse
 at all costs then stalling -- once the screens and the trick room go
-away, you’ll have a much easier time taking out the rest of her team.
+away, you'll have a much easier time taking out the rest of her team.
 Alternatively, starting with two or three leads who are slow will
 encourage her not to use Trick Room right away, then after you take out
 Aromatisse you can switch to your faster sweepers.
@@ -15772,11 +15772,11 @@ Aromatisse you can switch to your faster sweepers.
 
 After an… unfortunate scene, head up and to the right down a little
 path. Catch/fight/run from Mandibuzz, and pick up a hidden *Yellow
-Shard* if you’d like. Then follow the path around to the top left of the
+Shard* if you'd like. Then follow the path around to the top left of the
 area, pick up a hidden *Red Shard,* then talk to Ren then the cracked
 rock.
 
-Head up and to the left for a battle with **Skarmory,** if you’d like.
+Head up and to the left for a battle with **Skarmory,** if you'd like.
 Follow the path instead to the right and enter the building here. Go
 downstairs and read the journal, then head upstairs and exit.
 
@@ -15784,7 +15784,7 @@ Once in this area, go left for a hidden *Red Shard,* then go right to
 the Pokemon Center area. After the scene, grab the *Full Restore* below.
 Then head into the Center and talk to the crew.
 
-After a few cutscenes, you’ll get to play as Melia. All you must do is
+After a few cutscenes, you'll get to play as Melia. All you must do is
 follow the path through this area but be prepared for a battle!
 
 League Scout Amanda (Factory Field)
@@ -15849,20 +15849,20 @@ League Scout Amanda (Factory Field)
 
     -   Sucker Punch
 
-This is a 12v6 double battle with Madelis on your side, so luckily, it’s
-not too bad at all. Madelis’ Houndoom can nearly one shot all the
-Pokemon that resist its Heat Wave under Torkoal’s sun, so just let that
-happen and use logical moves with Melia’s Pokemon and you’ll be just
+This is a 12v6 double battle with Madelis on your side, so luckily, it's
+not too bad at all. Madelis' Houndoom can nearly one shot all the
+Pokemon that resist its Heat Wave under Torkoal's sun, so just let that
+happen and use logical moves with Melia's Pokemon and you'll be just
 fine.
 
 At this point, if we did the West Gearen Help Quest involving Sakitron,
 we will get Relationship Points (Melia +2, Erick +2). What follows is a
-mech-battle sequence. The mechanics are complicated, but you don’t have
+mech-battle sequence. The mechanics are complicated, but you don't have
 to necessarily win this one. If you do want to win, I recommend just
 using the attack she references in the text right before you attack - if
-she uses “hammer”, “bash”, or “top” in her text you’ll be able to know
+she uses “hammer”, “bash”, or “top” in her text you'll be able to know
 which to use. If she says the other thing, I recommend “tank engine”. I
-don’t know all the mechanics of this fight yet, but this strategy worked
+don't know all the mechanics of this fight yet, but this strategy worked
 for me the two times I played it.
 
 Once you regain control, head left and up out of the center, then enter
@@ -15875,7 +15875,7 @@ ZCell 099: Zone Zero
 <img src="/assets/media/rejuv/image103.png"
 style="width:6.70833in;height:5.05208in" />
 
-Also grab the *Fire Stone* above. When you’re ready, enter the stairs to
+Also grab the *Fire Stone* above. When you're ready, enter the stairs to
 the right. Grab the info on *Pulse: Garna…* heal and get ready for
 action.
 
@@ -15895,16 +15895,16 @@ Dimensional Rift Hippowdon (Desert Field)
 
     -   Earth Power
 
-This one isn’t too bad… Ren’s team puts in work by supplying Arenite
+This one isn't too bad… Ren's team puts in work by supplying Arenite
 Wall and he also tends to burn it. Dropping its attack stats super low
-is a good move - it’s so slow you should be able to get off at least a
+is a good move - it's so slow you should be able to get off at least a
 Memento or something if you so choose. It holds Black Sludge which you
 can knock off. Using super effective moves to slowly chip away at each
 of its four shields afterwards will do the trick.
 
 You can literally loot a knocked out Bladestar grunt for an *Ability
 Capsule!* Afterwards, head up and out! Nothing can be done to the left
-now, so head up to the next map. On the right by a gravestone, you’ll
+now, so head up to the next map. On the right by a gravestone, you'll
 find:
 
 ZCell 100: Zone Zero
@@ -15922,15 +15922,15 @@ Head up.
 
 ## Eclysia Pyramid
 
-After the scene, enter the pyramid above. You’ll watch another, then on
-the left you’ll find:
+After the scene, enter the pyramid above. You'll watch another, then on
+the left you'll find:
 
 ZCell 101: Eclysia Pyramid
 
 <img src="/assets/media/rejuv/image105.png"
 style="width:6.64583in;height:4.98958in" />
 
-Enter the spring at the top and watch the scenes play out. Next, we’re
+Enter the spring at the top and watch the scenes play out. Next, we're
 going to begin the crawl to the top, so enter the room at the right side
 of the lobby and head up.
 
@@ -15968,9 +15968,9 @@ that will get us through the first section:
 
 -   Return to control of the MC and head up for a battle!
 
-While the battle may seem tough, they’re just slightly beefed-up
-Magneton and Claydol. We’ll be fighting more of these throughout the
-tower, but they aren’t too tough. Every mech we will face has Steel as
+While the battle may seem tough, they're just slightly beefed-up
+Magneton and Claydol. We'll be fighting more of these throughout the
+tower, but they aren't too tough. Every mech we will face has Steel as
 their primary type.
 
 Now, onto the second part of the puzzle:
@@ -15987,7 +15987,7 @@ Now, onto the second part of the puzzle:
     switch.
 
 -   As Ren, cross the first blue bridge and head all the way up to stand
-    next to the blue switch in the upper right area. Make sure you’re on
+    next to the blue switch in the upper right area. Make sure you're on
     the left side of the bridge that leads to the red switch.
 
 -   As Aelita, cross the blue bridge at the left, go left, down, left,
@@ -15999,15 +15999,15 @@ Now, onto the second part of the puzzle:
     the red switch.
 
 -   As Aelita, go all the way to the right, across the red and purple
-    bridges until you can’t go further.
+    bridges until you can't go further.
 
 -   As MC, head up past the red bridge and wait there.
 
--   As Ren, head all the way to the left until you can’t go further.
+-   As Ren, head all the way to the left until you can't go further.
 
 -   Finally, as MC go up and rendezvous!
 
-Head up and follow the path… after another scene, it’s time for another
+Head up and follow the path… after another scene, it's time for another
 mech battle!!!!!
 
 Luckily this is the same deal as before, I guided Allen to victory by
@@ -16015,13 +16015,13 @@ doing the attack the grunt mentioned in their dialogue before our turn.
 It is optional, but the outcome affects relationship points: winning
 grants (+5 Allen, +5 Alice), losing grants (-3 Allen, -3 Alice).
 
-After some interesting scenes, head up to battle some goons. You’ll be
-tag-teamed with the other characters here -- these fights aren’t too
+After some interesting scenes, head up to battle some goons. You'll be
+tag-teamed with the other characters here -- these fights aren't too
 tough.
 
 After… that, head up and follow the path. In general, the next few rooms
 are straightforward progression, talking to characters as necessary.
-You’ll also find this, in the room with hoverboard dude:
+You'll also find this, in the room with hoverboard dude:
 
 ZCell 102: Eclysia Pyramid
 
@@ -16056,7 +16056,7 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
 
 -   Gliscor, Level 84. @ Telluric Seed.
 
-    -   Desert’s Mark
+    -   Desert's Mark
 
     -   Roost
 
@@ -16076,7 +16076,7 @@ Forgotten Prince ~~Ryland~~ Flora (Desert Field)
 
 -   Torterra, Level 87. @ Torterra Crest.
 
-    -   Desert’s Mark
+    -   Desert's Mark
 
     -   Wood Hammer
 
@@ -16098,23 +16098,23 @@ Desert's Mark: Changes the target into a Ground-type and inflicts them
 with Sand Tomb \| On Desert Field, Sand Tomb deals 1/6 max HP per turn
 (up from 1/8).
 
-Most of Rejuvenation’s fields have something you can exploit, something
+Most of Rejuvenation's fields have something you can exploit, something
 that you can do to either change the field or effectively steal its
 benefits for your own use. Unfortunately, Desert Field is not really one
 of these, as you cannot change it to any other field directly by moves,
 and there is no type whose attacks are boosted directly. On top of
-default Sandstorm (not as bad as Strong Wind, thankfully) you’re gonna
+default Sandstorm (not as bad as Strong Wind, thankfully) you're gonna
 really need to think outside the box to defeat our buddy Ryland. Or is
 it Flora?
 
 Anyways, one of the biggest pitfalls this field throws at you is that it
 gives all Ground types a free 1.5x in Special Defense. Pretty annoying
-because it means that you’re gonna need to more heavily rely on physical
+because it means that you're gonna need to more heavily rely on physical
 attacks even though many of his team members are very defensive.
 Additionally, Dig comes out in just one turn and is boosted to 120 base
-power, so it’s an even stronger STAB Earthquake.
+power, so it's an even stronger STAB Earthquake.
 
-Nidoqueen is the only Pokemon here that doesn’t really have insane
+Nidoqueen is the only Pokemon here that doesn't really have insane
 synergy with the field and weather other than this boost - even then it
 melts your tanky dreams by laying Toxic Spikes or piercing you with
 mixed Sheer Force offense. His Claydol has a crest which notably makes
@@ -16127,15 +16127,15 @@ and heal, but also hit hard with Dig and 110 base Acrobatics. Torterra
 on the other hand is annoying for a different reason: its crest swaps
 its resistances and weaknesses: say goodbye to 4x Ice, Fire, Bug, Flying
 and say hello to… just Rock and Ground, which it hits super effectively
-anyways. It and Torterra’s Desert Mark attack turns your typing to
+anyways. It and Torterra's Desert Mark attack turns your typing to
 Ground and fixes Sand Tomb on you as well, particularly useful for
 Torterra as the next turn it can use super effective Wood Hammer. Mega
 Camerupt also hits like a truck, especially if you take advantage of
 free 8 turn Sun on the field and will almost certainly one-shot most
 things with boosted Heat Wave. And finally, there is Sand Rush
 Excadrill, once deemed so good it had to be banned from competitive
-play. Since then, sand has gotten nerfs here and there and it’s not too
-bad - after all, if you can switch weather, it’s back to normal base 88
+play. Since then, sand has gotten nerfs here and there and it's not too
+bad - after all, if you can switch weather, it's back to normal base 88
 speed… right? On this field Sand Rush is always on so it will almost
 always outspeed you and will murder with Dig or Rock Slide.
 
@@ -16147,18 +16147,18 @@ the move Scald gets a 1.5x boost, so you could switch the weather to
 rain and go to town with a Swift Swim user to at least rival the
 speediness of Excadrill and threaten Claydol, Nidoqueen, Camerupt, and
 Gliscor, though it does get cancelled somewhat by the 1.5x special
-defense boost for ground types. Like with Souta’s field, you also may
+defense boost for ground types. Like with Souta's field, you also may
 get some success by simply copying what Ryland is doing: send in your
 own tanky Ground types with Telluric Seeds and see what havoc they can
 wreak. One way or another you can overcome Flora once and for all!
 
-After the battle, heal up, because there’s more…
+After the battle, heal up, because there's more…
 
 Head back to the top, then go up when you hear a sound at the skyview.
-After a few cutscenes, you’ll enter a battle! There is a catch with this
+After a few cutscenes, you'll enter a battle! There is a catch with this
 one, see if you can spot it.
 
-After a few more cutscenes, you’ll be in control of Adam and Delpha for
+After a few more cutscenes, you'll be in control of Adam and Delpha for
 another battle!
 
 ??? ??? (Desert Field)
@@ -16227,15 +16227,15 @@ This one can be tough, luckily nothing as bad as the previous fight with
 Ryland though. I recommend using Thunder Wave on Mismagius and then
 focusing on defeating the other side. Mega Aerodactyl and Gigalith are
 great clean up. Arenite Wall can be activated anytime if you need it. Be
-careful of Stantler’s Crest which allows it to hit Hypnosis much more
+careful of Stantler's Crest which allows it to hit Hypnosis much more
 frequently and boosts its attack.
 
-That’s it for this bit, the spring will turn lush and green! If only
-this could’ve happened earlier to nullify desert field. Anyways, go
-ahead and approach the spring when you can. You’ll get the Pyramid Point
-Badge and *TM105 Arenite Wall!* After a few more scenes, you’ll be given
+That's it for this bit, the spring will turn lush and green! If only
+this could've happened earlier to nullify desert field. Anyways, go
+ahead and approach the spring when you can. You'll get the Pyramid Point
+Badge and *TM105 Arenite Wall!* After a few more scenes, you'll be given
 a choice to teleport. Say yes if you want to continue the story, but
-otherwise we can fit in a few quests while we’re on this island.
+otherwise we can fit in a few quests while we're on this island.
 
 ## Zone Zero Quests
 
@@ -16244,7 +16244,7 @@ elsewhere. Skip ahead to the hospital raid section if you want to finish
 the story.
 
 Surf to the left side and the right side of the pyramid to get *Ground
-Memory* and *TM28 Dig.* Could’ve been useful 15 minutes ago!
+Memory* and *TM28 Dig.* Could've been useful 15 minutes ago!
 
 Next, enter the Eclysia Skyview, then make your way down the lift. Once
 you use a teleporter, head left and surf up and across. Pick up the
@@ -16327,14 +16327,14 @@ Challenger Venus (Big Top Arena)
 
     -   Power-Up-Punch
 
-These mad lads did it - made Ledian half decent! It’s punching moves hit
-4 times, so… it’s gonna get up to max attack quick or perhaps wear you
+These mad lads did it - made Ledian half decent! It's punching moves hit
+4 times, so… it's gonna get up to max attack quick or perhaps wear you
 down with priority Mach Punch! Venus has a tough team, though almost
-entirely because of the team’s synergy with the field. Many of Ledian,
-Luxray, and Steelix’s moves can be boosted by the field, and since most
-of them have the affected abilities, which means they’re going to hit
-real hard basically every time. Plus Azumarill’s 100% accurate Sing, and
-you’re in for a tricky fight.
+entirely because of the team's synergy with the field. Many of Ledian,
+Luxray, and Steelix's moves can be boosted by the field, and since most
+of them have the affected abilities, which means they're going to hit
+real hard basically every time. Plus Azumarill's 100% accurate Sing, and
+you're in for a tricky fight.
 
 Revelation/Petal/Fiery Dance are all boosted under this field, so a team
 using these that targets their low special defense might succeed.
@@ -16349,7 +16349,7 @@ and the fifth *Department Store Stamp!*
 Exit the building and go straight to the right. Enter the tall apartment
 building with the key.
 
-Once you enter, we’re going to be doing a puzzle like RSE’s Abandoned
+Once you enter, we're going to be doing a puzzle like RSE's Abandoned
 Ship backrooms. Feel free to solve this yourself, but the route is as
 follows:
 
@@ -16362,11 +16362,11 @@ follows:
 
 -   Exit and enter the top middle room, 1E. Study these sparkles, then
     head left and enter 1D. In the rightmost tile of the bed in this
-    room you’ll find another key!
+    room you'll find another key!
 
 -   Exit, and go upstairs and enter the top right room, 2F. Study the
     sparkles, then go into 2E. In the bottom tile of the bed in the 2F
-    side you’ll find the next key.
+    side you'll find the next key.
 
 -   Exit and loop around to the bottom right door, 2C. Go around and
     exit through the 2B door.
@@ -16387,7 +16387,7 @@ style="width:6.66667in;height:4.96875in" />
     right door, then enter the ladder. Click the lever in this area and
     pick up *Rocky Helmet.*
 
-Now if you head up in Zone Zero to the next map, you’ll find that a gate
+Now if you head up in Zone Zero to the next map, you'll find that a gate
 has opened, leading you to be able to catch **Gible!** Keep it unevolved
 for now or catch two, there is a small quest we can do in a bit with it.
 Also:
@@ -16397,7 +16397,7 @@ ZCell 105: Zone Zero Gible Cage
 <img src="/assets/media/rejuv/image109.png"
 style="width:6.67708in;height:4.98958in" />
 
-## Do the Dive (Floria) - DDiveF1
+## Do the Dive (Floria)
 
 Now that we have the Enigmatic Key, we can do some underwater exploring.
 All three of the next sections are optional content, but I recommend all
@@ -16420,23 +16420,23 @@ Fly to the Evergreen Island first, and surf down onto Route 11. First
 thing we are going to do is go all the way up and right in the route, to
 the large mostly circular dive spot. Dive down in this area and interact
 with the submarine here. Hidden here is a *Blue Shard* and *Damp Rock.*
-Anyways, we’re activating the underwater pillars on this route, tallest
+Anyways, we're activating the underwater pillars on this route, tallest
 to shortest.
 
 Surface, then go straight down and dive in the blob-shaped dive spot.
 Down here is a hidden *Dive Ball.* Resurface.
 
 Fly back to Evergreen Island (to save a few seconds of surfing) and surf
-right, then down. You’ll find a 2x2 square to go down, where you’ll find
+right, then down. You'll find a 2x2 square to go down, where you'll find
 the tallest pillar. Interact with it to activate it.
 
 Surface, and dive down in the main area of Route 11. This gargantuan
 area has lots of hidden items, including 4 *Blue Shards, Revive,
 GourmetTreat, 3 Heart Scales, Pearl, Sea Incense, Ultra Potion, Water
 Stone, Max Repel, Nugget, Dive Ball,* and *Green Shard.* Anyways, in the
-southwest area of the map, you’ll find a small 2x2 square to surface. Do
+southwest area of the map, you'll find a small 2x2 square to surface. Do
 so to grab *TM33 Reflect!* Dive back down, and at the bottom of this
-area you’ll see a little tunnel you can go through. Do so and surface to
+area you'll see a little tunnel you can go through. Do so and surface to
 nab *TM16 Light Screen.* Dive again and go left after exiting the tunnel
 to the north. Activate the taller pillar here.
 
@@ -16451,9 +16451,9 @@ then return to the submarine. After a conversation, surface, fly back to
 Evergreen, then dive right here and enter the door.
 
 Head up, beating 3 sets of defense mechanisms along the way. Once you
-reach the top, you’ll be gifted the *Empoleon Crest.* Nice.
+reach the top, you'll be gifted the *Empoleon Crest.* Nice.
 
-Next up, we’re gonna fly to the Secret Shore. Make your way to the
+Next up, we're gonna fly to the Secret Shore. Make your way to the
 Wetlands Laboratory and use the teleporter to get to the backroom. Use
 the downward pads to go down, then dive in the water. Follow the path
 and surface.
@@ -16461,11 +16461,11 @@ and surface.
 Grab *TM112 Smart Strike* as well as Shadow Amaura! Use the teleporter
 to get out.
 
-## Do the Dive (Terajuma) - DDiveT2
+## Do the Dive (Terajuma)
 
-Next, we’re gonna explore some of Terajuma Island. First, fly to Teila
+Next, we're gonna explore some of Terajuma Island. First, fly to Teila
 Resort, and enter Aquamarine Cave. Make your way to the Aquamarine
-Chamber. Dive down in this area. We’re going to need to activate a few
+Chamber. Dive down in this area. We're going to need to activate a few
 panels in this area by floating over them, so follow this sequence:
 
 -   Step on the 1st panel immediately above the dive spot.
@@ -16480,7 +16480,7 @@ panels in this area by floating over them, so follow this sequence:
 -   Go left, then down on the right tile of the two. In this small gap,
     head down and activate the fourth panel.
 
-That’s all we can do in this main area for the time being, so dive back
+That's all we can do in this main area for the time being, so dive back
 out at the light spot where we activated the first panel.
 
 Next, make your way to the floor which Amber once fell through. Surf
@@ -16491,7 +16491,7 @@ to the right. Make sure you use the bottom of the two current tiles to
 go to the right here. Follow this path to the left and out.
 
 In this area, grab the *Water Memory,* then activate the pillar in this
-area. Head up and swim off the side once you’ve done this.
+area. Head up and swim off the side once you've done this.
 
 Terajuma Coral Reef
 
@@ -16581,11 +16581,11 @@ will all have their speed quartered on this field, which is obviously
 not good since so many of their Pokemon can hit hard with field boosted
 water moves. Whiscash is dangerous here, as it has no weaknesses (except
 Water itself, on the Underwater Field) and surely can set up on you if
-you can’t take it out in time. Luckily, if either Samurott or Whiscash
+you can't take it out in time. Luckily, if either Samurott or Whiscash
 uses Dive, the field will be returned to water surface, at least
 allowing you to not suffer so much speed loss. Her Raichu is
 devastating, as Surf and Discharge are both boosted by the field here,
-and it’s given double speed by Surge Surfer. Dhelmise is good on this
+and it's given double speed by Surge Surfer. Dhelmise is good on this
 field as well.
 
 One idea is to use your own water types as soon as Raichu and Dhelmise
@@ -16680,20 +16680,20 @@ Temple Kingdra (Underwater Field)
 Another tough underwater field battle, but like the Neptune battle,
 utilizing field-change moves like Dive -\> Blizzard may be the key to
 victory here! Alternatively, again your own water type can be quite
-effective in this field. Just be careful of Kingdra’s consistent
+effective in this field. Just be careful of Kingdra's consistent
 critical hits!
 
-Once you’ve won, head up to catch a Horsea**!** A weird prize since we
+Once you've won, head up to catch a Horsea**!** A weird prize since we
 got Horsea a few badges ago, but ok…
 
 Exit in the same spot of the maze as we entered the first time.
 
 Last place to dive on this island is at the first place we entered - so
-fly to the shore. Surf to the northeast corner and dive. It’s time to
+fly to the shore. Surf to the northeast corner and dive. It's time to
 explore the S.S. Oceania once again…
 
 There is some *Luminous Moss* at the top of the entry room, as well as
-Corsola. Heading to the right you’ll be attacked by **Sharpedo**. There
+Corsola. Heading to the right you'll be attacked by **Sharpedo**. There
 is a hidden *Rare Candy* to the right. In this first room, pick up 5
 *Dive Balls* then follow the path. Pick up a *Water Stone* in the room
 next to you, then beat the next Sharpedo. More *Luminous Moss* is hidden
@@ -16703,13 +16703,13 @@ A room to the left will have MegaStone *Sharpedonite.* To the right,
 beat another shark then follow the path to pick up 5 more *Dive Balls.*
 Exit to the right for 5 *Luxury Balls.* A door at the top to the left
 leads you to a *Dawn Stone* and 3 hidden *Pearls.* Finally, head up the
-stairs here and you’ll have a chance to battle and catch **Mareanie!**
+stairs here and you'll have a chance to battle and catch **Mareanie!**
 Exit the ship the same way we came in.
 
 ## Kingdom of Goomidra
 
-There’s another major side quest we can do! One more new dive spot to
-explore, and it’s quite the big one! Enter Honec Woods and make your way
+There's another major side quest we can do! One more new dive spot to
+explore, and it's quite the big one! Enter Honec Woods and make your way
 to the upper right-hand corner. Dive down here.
 
 Swamp Pit
@@ -16756,14 +16756,14 @@ castle afterwards, then talk to Goomink in the upper left house of the
 village. At the top of the village, fight and beat Goomink, then fly
 over to East Gearen after he leaves.
 
-Enter Venam’s gym, and head to the back. Fight Aya with Goomink. Shock
+Enter Venam's gym, and head to the back. Fight Aya with Goomink. Shock
 Wave tends to work.
 
 After winning, head outside the gym, then fly to Kakori Village. Head
-down to Crawli’s arena and talk to Goomink here. Beat Crawli here.
+down to Crawli's arena and talk to Goomink here. Beat Crawli here.
 Counter tends to work.
 
-Fight Goomy once you’re outside the gym again. Fly to Sashila, then the
+Fight Goomy once you're outside the gym again. Fly to Sashila, then the
 Zorrialyn Coast to the south. Heal Goomy, then after the conversation
 head to the water in the village. Talk to the guy to add a yacht stop to
 the village, then talk to Goomink to embark.
@@ -16783,7 +16783,7 @@ Kawopundunga (Underwater Field)
 
 This is also a very tough battle at first look. With 800 HP, as well as
 the ability Water Veil which will always be activated on this field,
-you’re in for a hard time taking it out. As a boss battle, there is no
+you're in for a hard time taking it out. As a boss battle, there is no
 way to change its ability, and it has infinite PP. And, it has field
 boosted Dives.
 
@@ -16792,25 +16792,25 @@ Sludge Wave will bring it to Murkwater Surface permanently, which
 prevents Water Veil from activating, and actively hurts Wailord each
 turn… so literally you can just wait it out. Alternatively, as usual
 using Blizzard would lead to Icy Field, from which you can go to Snowy
-Mountain and then Volcanic Top, Mountain, Dragon’s Den, and so on, all
-of which would of course ruin Wailord’s strategy. Another alternative
-is, as we’ve seen before, just lowering its stats crazy low. Good news
+Mountain and then Volcanic Top, Mountain, Dragon's Den, and so on, all
+of which would of course ruin Wailord's strategy. Another alternative
+is, as we've seen before, just lowering its stats crazy low. Good news
 is it only uses Physical moves, so you can deplete its attack with
 Intimidate, Feather Dance, etc. Then a couple Fake Tears / Acid Sprays
-will allow you and Goomink’s Thunderbolt to knock its entire HP bar to
+will allow you and Goomink's Thunderbolt to knock its entire HP bar to
 zero, even if it Rests the turn before. Anyways, you can do it!
 
-Back on land, you’ll have to face a team AA grunt as the Hero Goomink.
-It’s not too hard with two Sacred Swords, luckily. Afterwards, fly back
+Back on land, you'll have to face a team AA grunt as the Hero Goomink.
+It's not too hard with two Sacred Swords, luckily. Afterwards, fly back
 to the Kingdom of Goomidra. Make your way to the castle and battle the
 grunts as you go up. After the events at the top of the tower, head back
-to the throne room, and talk to the king. You’ll get MegaStone
+to the throne room, and talk to the king. You'll get MegaStone
 *Swampertite* and *Infernape Crest!*
 
 Head down the hallway to the right, into the ruins room. The first fight
 you do you will likely lose against Big Betty, but the second you can
-win by using Swords Dance -\> King’s Shield -\> Thousand Arrows -\>
-King’s Shield -\> Thousand Arrows -\> King’s Shield -\> Thousand Arrows
+win by using Swords Dance -\> King's Shield -\> Thousand Arrows -\>
+King's Shield -\> Thousand Arrows -\> King's Shield -\> Thousand Arrows
 -\> Thousand Arrows.
 
 Concluding the quest grants Relationship Points (Ben +6, Goomink +6,
@@ -16858,7 +16858,7 @@ Goomidra Crest Shop
 
 Next, fly to Alamissa Urben and go straight up. Take the unconscious
 Karen back to the village, then agree to go to the labyrinth again. Add
-any Water/Rock type to your party - by now we’ve seen Relicanth,
+any Water/Rock type to your party - by now we've seen Relicanth,
 Tirtouga line, Drednaw, Corsola, Kabuto line, Omanyte line, Binacle line
 that all should work.
 
@@ -16867,7 +16867,7 @@ to the third floor just as we did before. Follow the southmost path to
 the east, until you reach a sign. Talk to the sign and show your
 Water/Rock type to it. Then, head north and west to reach the dive spot.
 
-Note that in this area we can catch Relicanth, Clamperl, Luvdisc. We’re
+Note that in this area we can catch Relicanth, Clamperl, Luvdisc. We're
 gonna do three more runs to explore this area of the ruins and snag all
 the items. Do so as follows:
 
@@ -16882,7 +16882,7 @@ DRDL, grab *Pixie Plate*. DR, grab the *Full Restore.* D into a big
 room, pick up the *PP Up, Dread Plate,* and *Water Stone.* This is all
 the items we can collect, so I was booted shortly after.
 
-3: To progress, knock out 4 Luvdisc in the map. There’s one in the
+3: To progress, knock out 4 Luvdisc in the map. There's one in the
 southwest corner, one in the southeast corner, one in the big room on
 the east side, and one in the northeast room. After, head to the middle
 south part of the map, and go in. Get the *Zap Plate.* Then, use dive in
@@ -16903,7 +16903,7 @@ Fight the AA grunt. Exit out the right door, then fight the AA grunt
 here. Press this switch and exit through the teleporter. Now, follow the
 stairs on the left up.
 
-Interact with the purple bookshelf on the left. You’ll get Relationship
+Interact with the purple bookshelf on the left. You'll get Relationship
 Points (Karen +2)! Follow the secret path. Grab the *Eviolite* in the
 library, then the *Claydol Crest* outside! Go back through and enter the
 door down in the area with the stairs.
@@ -16915,7 +16915,7 @@ door here.
 
 Cross the bridge near the AA grunt. Go straight up and follow this path
 all the way through until the top of the castle. After a scene, start
-heading down the castle. After two sets of stairs, you’ll notice a cave
+heading down the castle. After two sets of stairs, you'll notice a cave
 has opened at the top, so head in to catch **Larvesta!**
 
 Head back out, but when you reach a fork, head left and go up the stairs
@@ -16983,24 +16983,24 @@ Gang Leader Karrina (Blessed Field)
 
     -   Return
 
-A formidable team, but nothing you can’t handle. If you let Alakazam or
+A formidable team, but nothing you can't handle. If you let Alakazam or
 crest Fearow come out while the rest of your surviving team is too
-slow/weak to take them out, you’re gonna be hurting a lot in this one.
+slow/weak to take them out, you're gonna be hurting a lot in this one.
 You also must watch out for Durant, who will surprise you with a speedy
 Continental Crush. That said, you can probably easily find a way through
 this one: Curse, Phantom Force, Spectral Scream, Shadow Force, Ominous
 Wind, Trick-or-Treat are moves which all switch the field to Haunted
 Field if you want to: Alakazam, Musharna, and Fearow would all go down
-quickly to field boosted Ghost moves. She doesn’t benefit too much from
+quickly to field boosted Ghost moves. She doesn't benefit too much from
 the base Blessed Field either, so you can exploit that for your victory
 too.
 
-Afterwards, you’ll get a choice. If you choose the first, you will get
-Life Orb in a bit. If you choose the second, you’ll get the second mega
+Afterwards, you'll get a choice. If you choose the first, you will get
+Life Orb in a bit. If you choose the second, you'll get the second mega
 stone from the Hidden Library way back when, but get (-5 Karma).
 
 If you chose the second option, at the top, make a second choice. If you
-choose No, you’ll then get MegaStone *Banettite* or MegaStone
+choose No, you'll then get MegaStone *Banettite* or MegaStone
 *Heracronite.* If you choose Yes, then the stone will be shining on the
 ground as you make your way through the tower.
 
@@ -17009,7 +17009,7 @@ right. Go up to grab the *Torterra Crest!* Exit the castle now.
 
 If you chose the first option, fly to Alamissa Urben and enter a door
 all the way on the left, accessed via the top left side of the area.
-Grab the *Life Orb!* You can also read the journal if you’d like.
+Grab the *Life Orb!* You can also read the journal if you'd like.
 
 In either case, with all the crests that we found in the crypt, fly to
 Sashila and talk to the left merchant for some lore, and a *Dusknoir
@@ -17017,10 +17017,10 @@ Crest!*
 
 ## Aquarium Side Quest
 
-Now that we’ve been diving, there is a side quest we can do. Head to the
+Now that we've been diving, there is a side quest we can do. Head to the
 Akuwa Town Aquarium. Back in the SOS room, talk to the director, who
 will ask us for help with the aquarium. The Pokemon we need to submit
-are as follows. If you don’t care about keeping any of them, submit the
+are as follows. If you don't care about keeping any of them, submit the
 ones you already have, otherwise, here are where you can go get more (or
 breeding is always an option). There are 34.
 
@@ -17053,7 +17053,7 @@ breeding is always an option). There are 34.
 
 -   Octillery. Good Rod in Amethyst Cave, for example.
 
--   Bruxish. River’s End Good Rod, for example.
+-   Bruxish. River's End Good Rod, for example.
 
 -   Pyukumuku. Terajuma Shore.
 
@@ -17093,9 +17093,9 @@ breeding is always an option). There are 34.
 
 -   Walrein. Evergreen Trench or evolve a Sealeo.
 
-For submitting at least 10, you’ll get $60000 and the *Super Rod.* For
-submitting at least 20, you’ll get another $60000. For submitting all
-34, you’ll get $80000 as well as **Froakie.** Nice (+3 Karma).
+For submitting at least 10, you'll get $60000 and the *Super Rod.* For
+submitting at least 20, you'll get another $60000. For submitting all
+34, you'll get $80000 as well as **Froakie.** Nice (+3 Karma).
 
 Now that we have the Super Rod, there are a whole bunch of areas that
 now hold strong water Pokemon. The Super Rod tables for the areas we
@@ -17175,7 +17175,7 @@ Route 3 / Phasial Cave / Moon Field / Mirage Woods
 | Drednaw          | 65       |
 | Quagsire         | 35       |
 
-River’s End
+River's End
 
 |                  |          |
 |------------------|----------|
@@ -17515,42 +17515,42 @@ Zorrialyn Desert
 
 ## Ana Quest Part 3
 
-If you’ve completed all the steps to the Ana questline so far, make your
+If you've completed all the steps to the Ana questline so far, make your
 way to GDC.
 
 At Pokestar Studios, head up, then talk to Ana on the right. Follow her
-to the left again, let the scenes play out, then at Dylan’s place again,
+to the left again, let the scenes play out, then at Dylan's place again,
 exit and go down and right*.* In the north side, battle through a
 gauntlet of trainers to proceed. At the docks, talk to the pair to end
 up in Kristiline Town.
 
 After a conversation in his house, follow Ana to the Sapphire Museum.
 Talk to her, then follow her to the Lava Cookie house above. After that
-conversation, go back to Dylan’s and talk to her there. Talk to her once
+conversation, go back to Dylan's and talk to her there. Talk to her once
 more in front of the Pokemon Center.
 
 Use the boat to get to Teila Resort and go to the lighthouse area of the
-cave via the hole Amber fell through. You’ll get 5 *Lava Cookies!*
+cave via the hole Amber fell through. You'll get 5 *Lava Cookies!*
 
-Back in Kristiline, you’ll get offered to go to Teila Resort. Head there
+Back in Kristiline, you'll get offered to go to Teila Resort. Head there
 and talk to Ana in the middle. Gather intel from the townspeople then
-talk to her again. We don’t need to win the challenge, but if you’d like
+talk to her again. We don't need to win the challenge, but if you'd like
 to, choose these options from her questions: first, fourth, second. Then
 talk to Gigiorno in the middle to get it started.
 
-Back in Kristiline again, enter the house. That’s all we can do in this
+Back in Kristiline again, enter the house. That's all we can do in this
 quest for now!
 
-...While we’re on Terajuma, fly to Kakori Village. Enter the
+...While we're on Terajuma, fly to Kakori Village. Enter the
 bottom-right house and present the *Magic Wand* to get **Fennekin!**
 
-## Hospital of Ruin (2nd Visit) - HospRuin2
+## Hospital of Ruin (2nd Visit)
 
-Time to continue the story! Fly to Yui’s Ranch, then enter GDC and make
+Time to continue the story! Fly to Yui's Ranch, then enter GDC and make
 your way to the penthouse. After a quick scene, talk to Delpha and agree
 to go.
 
-Enter Isha’s backroom prepared for battle.
+Enter Isha's backroom prepared for battle.
 
 Doctor Isha (Factory Field)
 
@@ -17627,12 +17627,12 @@ Doctor Isha (Factory Field)
 
 This fight can potentially be tough - it mixes a lot of strategies and
 works somewhat well with the factory and dark factory fields. Weezing is
-pretty tanky and can spread Toxic but isn’t too crazy. Arctozolt and
+pretty tanky and can spread Toxic but isn't too crazy. Arctozolt and
 Dracovish both hit hard but are on the slower side, so hitting them hard
 with Ground / Fairy / Dragon moves respectively is the way to stop them.
 Crest Dusknoir hits hard with Shadow Sneak on the Dark Factory - make
 sure that whatever you are going to attack it with can live a Technician
-Shadow Sneak. And, if you could take Giratina back in your Level 30’s,
+Shadow Sneak. And, if you could take Giratina back in your Level 30's,
 you can now.
 
 Relationship Point Choices:
@@ -17659,12 +17659,12 @@ Relationship Point Choices:
 - I'd love to! (Florin +2)  
 - Sorry, I'm busy... (Florin -2)
 
-## Narcissa’s Quest (Final) - NarcQF1
+## Narcissa's Quest (Final)
 
 Head over to Goldenleaf Town. Talk to Narcy by her house. Follow her to
 her house and head upstairs. Read her journal, then head out.
 
-You’ll need something with Dark Pulse or Night Daze - the easiest is the
+You'll need something with Dark Pulse or Night Daze - the easiest is the
 Spiritomb we caught earlier which comes with Dark Pulse. Add it to your
 party and head down to Phasial Cave, using Rock Climb to descend to a
 lower level.
@@ -17686,14 +17686,14 @@ Talk to Narcissa once you cross the bridge, grab the *Ability Capsule.*
 Next, fly to the Rose Theater, and enter Forlorned Cavern on Route 9.
 Enter the first room in the main area of the cave, with the time stone.
 After a scene with Narcissa, accept the fast travel to the Cliffside
-Grave if you’ve been already -- if not, follow the path earlier in the
+Grave if you've been already -- if not, follow the path earlier in the
 game to Rift Chandelure. Talk to her again, then head to Phasial Cave.
 
-Head up and watch the scenes play out. Then, in Narcissa’s house, talk
+Head up and watch the scenes play out. Then, in Narcissa's house, talk
 to her upstairs. Head out and go to the Wispy Tower. Talk to young Narcy
 here and go in. Enter the lab, and head left. Talk to her again. Enter
 the western room, and surf up. Watch the CD Rom, then return to
-Narcissa’s house and talk to them again. Accept fast travel.
+Narcissa's house and talk to them again. Accept fast travel.
 
 Follow the Rotom into the cave, then take the time crystal to the past.
 Interact with the safe here. Then, pull the lever in the top left
@@ -17729,26 +17729,26 @@ Form 2: Electric/Ice, Stats: 500/60/130/300/130/180
 
 This is another potentially tough fight, this time, difficult for
 opposite reasons than the Wailord. Its ability prevents stat loss, so
-our normal strategy doesn’t work as well here. Luckily Narcissa’s
+our normal strategy doesn't work as well here. Luckily Narcissa's
 Gothitelle likes to use Light Screen on Turn 1, so take advantage of
-those turns to batter the shields! The second form isn’t too defensive
+those turns to batter the shields! The second form isn't too defensive
 so you can wear it down if you can survive - Trick Room is an excellent
 choice.
 
 After a scene in Goldenleaf which grants Relationship Points (Narcissa
-+6), you’ll be free to head to the Lost Castle. All the way at the top,
-you’ll get a chance to battle **Rotom!**
++6), you'll be free to head to the Lost Castle. All the way at the top,
+you'll get a chance to battle **Rotom!**
 
 Fly to West Gearen and go talk to Gabriel at the West Gearen power
 plant. Follow him left then up then up again to get access to a room
-where you can change Rotom’s form! You’ll also get the seventh
+where you can change Rotom's form! You'll also get the seventh
 *Department Store Stamp!*
 
 ## Department Store and Deino
 
-Next, fly over to the GDC and enter the department store. We’ve gotten a
-ton of stamps in this episode's content, so it’s time to go on a
-shopping spree! Add Gible to your party and fly to Yui’s Ranch, enter
+Next, fly over to the GDC and enter the department store. We've gotten a
+ton of stamps in this episode's content, so it's time to go on a
+shopping spree! Add Gible to your party and fly to Yui's Ranch, enter
 GDC, then go to the shopping district and into the store.
 
 Shopping District Mall 5F Vendor 1
@@ -17915,7 +17915,7 @@ Shopping District Mall 8F Vendor 2
 
 *Reaper Cloth* $2100
 
-On 7F, show the lady at the bottom your Gible and she’ll give you the
+On 7F, show the lady at the bottom your Gible and she'll give you the
 *Dark Core.*
 
 Exit the department store and fly over to Kristiline Town. Head up to
@@ -17924,7 +17924,7 @@ to encounter **Deino.** Sweet!
 
 ## Zygarde 10% Form
 
-There’s just one more thing we can do… If you’ve noticed, we’ve
+There's just one more thing we can do… If you've noticed, we've
 collected a lot of Zygarde Cells. Return to Gearen City to talk to
 Ayuda.
 
@@ -17937,7 +17937,7 @@ ZCore 1: Sand Stream Cave
 <img src="/assets/media/rejuv/image110.png"
 style="width:6.63542in;height:5.02083in" />
 
-Fly back to Gearen and talk to Ayuda to get **Zygarde 10%!** It’s not
+Fly back to Gearen and talk to Ayuda to get **Zygarde 10%!** It's not
 even particularly better than the Gible we got earlier, but hey another
 legendary!
 
@@ -17955,7 +17955,7 @@ Relationship Point Choices:
 
 ### Day 01: Vs. Melia
 
-In Sashila, head up when prompted. You’ll be thrown into a battle as
+In Sashila, head up when prompted. You'll be thrown into a battle as
 Alexandra.
 
 The Storm (Desert Field)
@@ -17973,7 +17973,7 @@ The Storm (Desert Field)
 
 You can defeat this thing easily. Notice what weather gets activated by
 its ability each turn and try to use moves boosted by it if you want,
-but with Damien on your side it’s very winnable.
+but with Damien on your side it's very winnable.
 
 Relationship Point Choices:
 - Count me in! (Melia +3, Aelita +3, Ren +3, Venam +2,
@@ -17984,7 +17984,7 @@ Aelita -5, Damien -6, Alexandra -6, Allen +3)
 
 Me too, Allen.
 
-Enter Alexandra’s secret passageway and enter at the top.
+Enter Alexandra's secret passageway and enter at the top.
 
 Relationship Point Choices:
 - You mean Marianette? (Venam +2)  
@@ -18047,7 +18047,7 @@ Pokemon Trainer Melia (Fairy Tale Field)
 
 -   Aegislash, Level 85. @ Magical Seed.
 
-    -   King’s Shield
+    -   King's Shield
 
     -   Swords Dance
 
@@ -18057,28 +18057,28 @@ Pokemon Trainer Melia (Fairy Tale Field)
 
 Gilded Arrows: Type is the same as the user's secondary type, unless the
 user is single-typed or their secondary type is Dragon or Fairy, in
-which case the type is the user’s primary type \| Special \| 50 power,
+which case the type is the user's primary type \| Special \| 50 power,
 hits twice \| 100% accuracy \| Increased critical hit rate.
 
 The field effect is unalterable by moves, a broken seed effect that
 gives Aegislash one and Mimikyu TWO free turns turn to reach +4/+6
-attack, all fire moves given an added Dragon typing hence can’t touch
+attack, all fire moves given an added Dragon typing hence can't touch
 Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash,
-it’s very stacked against you.
+it's very stacked against you.
 
 The good news is that you are given a couple options to make this fight
 work in your favor. For one, Steel moves also get a 1.5x boost and hit
 dragons super effectively, so they hit half of her team hard. Bullet
 Punch is a savior here. Snorlax with its berry will probably live one
-hit but doesn’t particularly have synergy with the field, so if you can
+hit but doesn't particularly have synergy with the field, so if you can
 lower its attack or burn it, that may be your opportunity to set up.
-Normal types are immune to Aegislash and Mimikyu’s Ghost Attacks, so
+Normal types are immune to Aegislash and Mimikyu's Ghost Attacks, so
 since they are not the fastest in the world a speedy normal type capable
 of knocking them out in one attack (after Disguise) might be the way to
 go. I might have cried when I saw that this field made its way into this
 game, but if I can overcome it you can too!
 
-To win, you’ll receive the *Fate Badge!*
+To win, you'll receive the *Fate Badge!*
 
 Outside, talk to Melia again.
 
@@ -18086,13 +18086,13 @@ Relationship Point Choices:
 - Jenner was your father. (Melia +3)  
 - That's kinda cool! (Melia -3)
 
-Tell Alexandra you’re ready for training.
+Tell Alexandra you're ready for training.
 
-### Day 03: Aelita’s Departure
+### Day 03: Aelita's Departure
 
 This day is just a quick scene!
 
-### Day 08: MC’s Training 
+### Day 08: MC's Training 
 
 Talk to Ren in the hallway.
 
@@ -18113,7 +18113,7 @@ was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
 discharge, waterfall on Dugtrio, then turn 4 was discharge + high
 horsepower to finish off Kingler.
 
-### Day 11: Aelita’s Return
+### Day 11: Aelita's Return
 
 Head in to talk to Aelita.
 
@@ -18127,15 +18127,15 @@ Relationship Point Choices:
 - It couldn't have been me... (Neutral)  
 - ... (Damien -2)
 
-Interact with the obelisk! Inside it’s straightforward. You’ll get the
-*Interceptor’s Wish!*
+Interact with the obelisk! Inside it's straightforward. You'll get the
+*Interceptor's Wish!*
 
 ### Day 15: Melia Vs. Erin
 
-Back in the league administration you’ll be thrusted into a 1v1 battle
-as Melia. Win or lose, it doesn’t matter.
+Back in the league administration you'll be thrusted into a 1v1 battle
+as Melia. Win or lose, it doesn't matter.
 
-### Day 18: MC’s Day of Training, Pt. 2
+### Day 18: MC's Day of Training, Pt. 2
 
 Talk to Aelita in the hallway.
 
@@ -18167,7 +18167,7 @@ Relationship Point Choices:
 Again, Allen is a real one.
 
 Once you get control, take the time to fly over to Eclysia Pyramid if
-you’d like. Head up the stairs to the right and follow the path: you’ll
+you'd like. Head up the stairs to the right and follow the path: you'll
 be able to fight **Galarian Corsola** up here!
 
 Then, head back to League Administration. Interact with the thing at the
@@ -18177,15 +18177,15 @@ table and select Path 1.
 
 During the conversation Erin and Kanon have on the boat, if you had
 previously spoken to Erin in the Magnolia Library towards the beginning
-of the game, you’ll get Relationship Points (+2 Erin).
+of the game, you'll get Relationship Points (+2 Erin).
 
-On the boat, choose whether you’ll activate Interceptor’s Wish. If you
-do, Erin will be using *your team,* whereas if you don’t, she uses hers.
+On the boat, choose whether you'll activate Interceptor's Wish. If you
+do, Erin will be using *your team,* whereas if you don't, she uses hers.
 Battle advice is easier to give when I know what your team is gonna be,
 so for this guide I will not be activating it.
 
 Follow the underwater path. Inside the manor, avoid the Regice, as
-you’ll have to fight them. Make your way through the path here, watch
+you'll have to fight them. Make your way through the path here, watch
 the scene in the courtyard, then head onto the roof.
 
 Follow the path to the right, then talk to Angie on the rooftop. Enter
@@ -18194,7 +18194,7 @@ in this complicated room, then beat the maids as you follow the path.
 Back in the Shellder room, head east onto the rooftop, this time
 following the path right through the dance room!
 
-Enter the window to the baby’s room, then follow the path down the
+Enter the window to the baby's room, then follow the path down the
 stairs. Try to exit the bottom door in the next room. After a
 conversation with Kanon return to the rooftop. Head back out the window
 at the bottom, then drop down the first spot on the roof you can from
@@ -18305,18 +18305,18 @@ Angie and Cera (Frozen Dimensional Rift Field)
     -   Play Rough
 
 This one can be tough, but not as bad as our first encounter with Angie.
-Erin’s Aevian Ampharos is good here, able to survive a decent chunk of
+Erin's Aevian Ampharos is good here, able to survive a decent chunk of
 the ice attacks and then hit back like a Truck. I would recommend
 starting with something fast like Zangoose on the left side and Ampharos
-on the right, then focus all your attacks on Angie’s Pokemon (Mamoswine,
-Beartic, Walrein) to start, since they’re all the most threatening. Once
-you knock them out Cera’s three are easy to knock out.
+on the right, then focus all your attacks on Angie's Pokemon (Mamoswine,
+Beartic, Walrein) to start, since they're all the most threatening. Once
+you knock them out Cera's three are easy to knock out.
 
-That’s it for the Diamond Route!
+That's it for the Diamond Route!
 
 ## Pearl Route
 
-Again, you’ll be given the choice to activate the Interceptor’s wish. I
+Again, you'll be given the choice to activate the Interceptor's wish. I
 choose not to for this guide.
 
 As Melia, take a stroll around the town. Head into the Pokemart, then
@@ -18390,12 +18390,12 @@ Rogue Psychic Lorna (Blessed Field)
 
 I picked Ren, and this was a cakewalk compared to last time. Let Mega
 Snorlax come out during the trick room and it will go first and can hit
-hard with Heavy Slam, and the rest of yours and Ren’s Pokemon can fill
+hard with Heavy Slam, and the rest of yours and Ren's Pokemon can fill
 in the rest.
 
-In the Den of Souls, head up. You’ll have to defeat a couple more mechs!
+In the Den of Souls, head up. You'll have to defeat a couple more mechs!
 Afterwards, follow the path to the right and find the open building.
-Explore upstairs then head out. We’re looking for three green rods: one
+Explore upstairs then head out. We're looking for three green rods: one
 is hidden up and to the right, another is up from where we found Ren,
 and the other is near where we started. Reactivate the generator.
 
@@ -18414,11 +18414,11 @@ Defense Mech Gyarados (Crystal Cavern)
 
     -   Scald
 
-Every time it attacks, it attacks twice. Luckily, it’s not too hard with
-Ren assisting - Meganium’s Light Screen will help you survive.
+Every time it attacks, it attacks twice. Luckily, it's not too hard with
+Ren assisting - Meganium's Light Screen will help you survive.
 
 Afterwards, return to the building and head upstairs. Head back out and
-go up when you’re ready.
+go up when you're ready.
 
 Team Xen Madelis (Crystal Cavern)
 
@@ -18483,8 +18483,8 @@ Team Xen Madelis (Crystal Cavern)
     -   Sludge Bomb.
 
 This is a tough fight in general, but I found a pretty easy way to win
-with Melia’s team. Simply knock out Cinccino and damage Crobat with Mega
-Snorlax’s Return, then when it goes down swap to Mimikyu. Swords Dance,
+with Melia's team. Simply knock out Cinccino and damage Crobat with Mega
+Snorlax's Return, then when it goes down swap to Mimikyu. Swords Dance,
 Shadow Sneak to finish Crobat. Then Play Rough to Shadow Sneak Houndoom
 who should turn the field dark, then Shadow Sneak Salazzle to one shot
 it, then Play Rough Tsareena. Now it will go down but Hydreigon,
@@ -18495,7 +18495,7 @@ go. When you reach the gatling gun, spam the up arrow. Enter the door
 after defeating the mechs and grab the shining key. Enter the door on
 the right: read each letter in each open room and open the next door.
 Finally, enter the last door in this area and go up. Make your way
-through and watch the scenes, and when you’re able, exit back to where
+through and watch the scenes, and when you're able, exit back to where
 we started. Take the elevator up, then the second elevator to the Den of
 Souls.
 
@@ -18565,8 +18565,8 @@ Team Xen Admin Cassandra (Blessed Field)
 
     -   Swords Dance
 
-This is a tough battle as Cassandra has a lot of threats, and if you’re
-playing as Melia’s team, well, then Serperior, Cinccino and Lycanroc can
+This is a tough battle as Cassandra has a lot of threats, and if you're
+playing as Melia's team, well, then Serperior, Cinccino and Lycanroc can
 outspeed your entire team. As such you need to leverage your team
 correctly - for instance, Togekiss can easily dispatch the Shadow
 Bisharp and Serperior, while Meganium can tank Cinccino and chip Mega
@@ -18575,11 +18575,11 @@ Mega Snorlax, and Mimikyu is a good choice to throw out a Swords Dance
 boosted move when you need it. Even if it takes a couple tries Cassandra
 is easily beaten with the right approach.
 
-That’s it for the Pearl Route!
+That's it for the Pearl Route!
 
 ## Axis High University 2nd Visit
 
-With both of those completed, you’ll be in control of your character
+With both of those completed, you'll be in control of your character
 again. Choose path 3 and be given the *Rotom Phone.*
 
 Relationship Point Choices:  
@@ -18602,10 +18602,10 @@ Axis High Store
 *Max Repel* $700
 
 A little note here: it turns out that as soon as you get the Zygarde 10%
-from Ayuda, the new cells won’t appear. For completeness I will list
+from Ayuda, the new cells won't appear. For completeness I will list
 them anyways in the guide going forward, but keep in mind if you already
-did the Zygarde exchange you won’t be able to find these. Anyways,
-downstairs on the left, you’ll find:
+did the Zygarde exchange you won't be able to find these. Anyways,
+downstairs on the left, you'll find:
 
 ZCell 106: Axis High University
 
@@ -18621,9 +18621,9 @@ Relationship Point Choices:
 - Where's Reina? (Neutral)
 
 In a room at the bottom is the… bobsled club? If you can defeat all the
-students, you’ll be gifted the MegaStone *Cameruptite!*
+students, you'll be gifted the MegaStone *Cameruptite!*
 
-In another room on this floor you’ll find:
+In another room on this floor you'll find:
 
 ZCell 107: Axis High University
 
@@ -18631,8 +18631,8 @@ ZCell 107: Axis High University
 style="width:6.96667in;height:5.23465in"
 alt="A screenshot of a computer game Description automatically generated with low confidence" />
 
-Head back downstairs, where you’ll find Amber! You’ll be given *Concert
-Tickets* and *Amber’s Letter!* Talk to Saki in the cafeteria to the
+Head back downstairs, where you'll find Amber! You'll be given *Concert
+Tickets* and *Amber's Letter!* Talk to Saki in the cafeteria to the
 right. Then, find Aelita upstairs.
 
 Time for a 2v2 battle with Risa Raider downstairs.
@@ -18670,11 +18670,11 @@ sleep. The next day, head to the auditorium for the announcement!
 
 ## Aelita School Route
 
-~~Time to play Danganronpa.~~ I will begin with Path 1. Once more you’ll
-be given a choice to activate the Interceptor’s Wish, I declined.
+~~Time to play Danganronpa.~~ I will begin with Path 1. Once more you'll
+be given a choice to activate the Interceptor's Wish, I declined.
 
-Head outside. Enter this classroom to the left and use the ‘A’ key to do
-a group investigation in here. Back outside, you’ll find that Zetta has
+Head outside. Enter this classroom to the left and use the ‘A' key to do
+a group investigation in here. Back outside, you'll find that Zetta has
 taken up the shop.
 
 Nightmare University Store
@@ -18685,11 +18685,11 @@ Nightmare University Store
 
 *Ultra Potion* $2200
 
-Do a group investigation on the three entryway areas if you’d like, then
+Do a group investigation on the three entryway areas if you'd like, then
 head to the left area to give the Masked Men the password: “Sorry”.
 
 Downstairs talk to Ms. Erable, then to the student on the right with the
-“!” over his head. Say no to battling them, then you’ll battle. Then say
+“!” over his head. Say no to battling them, then you'll battle. Then say
 yes to the person on the left and return to Ms. Erable.
 
 Axis High University Student Jean (No Field)
@@ -18704,21 +18704,21 @@ Axis High University Student Jean (No Field)
 
     -   Outrage
 
-This has two shields. Take advantage of Granbull and Staraptor’s
+This has two shields. Take advantage of Granbull and Staraptor's
 Intimidates, then hit it hard with your strongest moves.
 
 After all that, find the fifth door from the bottom on the third story,
-right side and enter “Dreamyard”. Enter Huey’s door!
+right side and enter “Dreamyard”. Enter Huey's door!
 
 Talk to the Rapidash rider then the girl in the bottom corner. Press the
 red panel here, then in the next area, follow the stairs to the next
 panel. The third panel is all the way at the bottom from here. At the
 top, defeat the trainer then head to the right and fight her again at
-the bottom. Then follow the path to finish Huey’s area.
+the bottom. Then follow the path to finish Huey's area.
 
 Head outside and enter the pyramid. At the top left talk to the girl and
 agree to help. Then go left and across the bridge to make friends with
-Grigus. Battle Huey, but intentionally lose to progress. You’ll be
+Grigus. Battle Huey, but intentionally lose to progress. You'll be
 awarded 10 *Phantom Candy S!*
 
 Pick a partner or choose to go alone, time to fight Grigus.
@@ -18736,13 +18736,13 @@ Axis High Student Random Student (No Field)
     -   Shadow Punch
 
 It has three shields and hits twice; however, this fight is very easy.
-Spam your strongest moves and you’ll easily win. Pick up the piece of
-the treasure afterwards! Head back into the main room, you’ll find the
+Spam your strongest moves and you'll easily win. Pick up the piece of
+the treasure afterwards! Head back into the main room, you'll find the
 invisible person near the bottom. Talk to the girl at the top then enter
 this new room at the bottom.
 
 Grab the thing when you get a chance and head back to the main room to
-reassemble the bridge. Enter Aelita’s door!
+reassemble the bridge. Enter Aelita's door!
 
 Talk to both pink bookshelves then the pink plant. Then follow cyborg
 Deagan! Talk to each nurse from behind, then head out once Deagan
@@ -18832,10 +18832,10 @@ Granbull, Hawlucha can take care of most of this team.
 
 Return to the auditorium, then reenter the Pyramid area where we fought
 Grigus, then return to the auditorium. Go up here, then follow the path
-to Lavender’s door.
+to Lavender's door.
 
 Enter the moon base and grab the crimson quartz in the upper room then
-heat it in the bottom. Head out… and we must run away from Risa!! Don’t
+heat it in the bottom. Head out… and we must run away from Risa!! Don't
 let yourself get hit too many times. Maneuver your way through the path,
 hitting switches as you go. Press the last green switch then back into
 the hallway and go up. Get the thing here then push the button and head
@@ -18843,8 +18843,8 @@ down and to the right.
 
 Grapple to the right and then do so again. Follow the path to the yellow
 switch in here, then in the previous room head down. Follow the path
-here to the green switch then return and go up. Through here you’ll have
-to fight Risa. This one is impossible with Lavender’s team, but that’s
+here to the green switch then return and go up. Through here you'll have
+to fight Risa. This one is impossible with Lavender's team, but that's
 ok.
 
 Up in the next room try to escape, then interact with the panel. Now we
@@ -18864,13 +18864,13 @@ Pop Star Risa Raider (Factory Field)
 
 Winning this one seems to rely on luck, but oh well. Yawn first turn
 with Espeon, then Pyrokinesis with Delphox. Swap in Exeggutor next and
-spam Pyrokinesis as much as you can while it’s asleep, then put in Mega
+spam Pyrokinesis as much as you can while it's asleep, then put in Mega
 Alakazam when it wakes up and kills you. Thunder Wave it, then High Jump
 Kick and Play Rough from your remaining members should do just enough.
 If it wakes up too early and always hits through paralysis, you might
 still lose though, so a couple resets may be in order.
 
-That’s it for this part!
+That's it for this part!
 
 ## MC School Route
 
@@ -18880,15 +18880,15 @@ group investigation of the cafeteria here. Return to the guy to get
 *Mysterious Black Box* and some *Phantom Candy S.* The first trainer to
 the top will also give us *Phantom Candy S.*
 
-Talk to the masked man and you’ll be given a clue. Enter the classroom
+Talk to the masked man and you'll be given a clue. Enter the classroom
 and do a group investigation. Return and try entering “ants troubled” if
 you like. The actual answer is “student labor.”
 
-Enter a room on the left and say you don’t want to battle to battle
+Enter a room on the left and say you don't want to battle to battle
 someone. Win to get *Phantom Candy S* and another *Mysterious Black
-Box.* In the top left room answer the bottom answer, and you’ll get
+Box.* In the top left room answer the bottom answer, and you'll get
 *Phantom Candy M* and another *Mysterious Black Box.* Try to enter the
-machine in the lower area of the main room. Talk to it again. You’ll
+machine in the lower area of the main room. Talk to it again. You'll
 need to generate different students based on their attributes, the
 chalkboards in the lower left classroom are the guide. So, make the
 following:
@@ -18904,7 +18904,7 @@ Relationship Point Choices:
 - She has amnesia. (Saki +1, Amber +1)  
 - ... (Saki -2)
 
-4.  Studious, Engineering, Engineering Proficiency, 3 Years’ Experience
+4.  Studious, Engineering, Engineering Proficiency, 3 Years' Experience
 
 Talk to the door at the top.
 
@@ -18974,9 +18974,9 @@ Team Xen Zetta (Factory Field)
 
     -   Thunderpunch
 
-This one is somewhat tough but luckily not as bad as Mt. Valor! You’ll
+This one is somewhat tough but luckily not as bad as Mt. Valor! You'll
 need to watch out for Absol, who critical hits frequently thanks to its
-ability and item. The Typhlosion, Dragonite, Weavile, Minior we’ve all
+ability and item. The Typhlosion, Dragonite, Weavile, Minior we've all
 seen before and know how to deal with by now. Watch out for Hitmonlee
 who will get an Unburden boost after using Fake Out.
 
@@ -19072,7 +19072,7 @@ get the red box into the green space. With enough tinkering you can
 figure it out. Do this at all the other terminals around the room.
 
 After you finish, talk to the main table thing, then go around the room
-bashing suspicious walls. That is, any that don’t fit it with what’s
+bashing suspicious walls. That is, any that don't fit it with what's
 around them. Then return to the table.
 
 Relationship Point Choices:
@@ -19088,7 +19088,7 @@ Relationship Point Choices:
 - Yes. (Saki -2)
 
 Return to the underground to the broken machine in the upper left room.
-It’s time for a great sequence. Destroy all the robots you can find,
+It's time for a great sequence. Destroy all the robots you can find,
 eventually making your way to the third floor. Bust your way through the
 panels.
 
@@ -19133,10 +19133,10 @@ Relationship Point Choices:
 
 Then when you return head out and go down the lift.
 
-After learning about all this, it’s finally time to enter the player’s
+After learning about all this, it's finally time to enter the player's
 door!
 
-This area is straight forward. When all is said and done, you’ll have to
+This area is straight forward. When all is said and done, you'll have to
 fight… your protagonist. Each protagonist has a different team, so find
 the one that applies to you.
 
@@ -19574,8 +19574,8 @@ Pokemon Trainer Aero (Snowy Mountain Field)
 
     -   Will-o-Wisp
 
-They’re not insanely difficult, and you will succeed with the right
-strategy if you’ve made it here!
+They're not insanely difficult, and you will succeed with the right
+strategy if you've made it here!
 
 Relationship Point Choices:
 - Don't let her get to you. (Aelita +4)  
@@ -19587,11 +19587,11 @@ Relationship Point Choices:
 When you can, return upstairs and enter the stairs at the fountain.
 Follow the path to fight SEC again, who has a Shadow Machop. SEC in the
 next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow
-the path. On the left side of the area, you’ll be able to grab a
+the path. On the left side of the area, you'll be able to grab a
 *Nightmare Fuel.*
 
-Head up - it’s time to fight illusions. You get relationship points
-depending on if you’re right - choosing Erick 2 grants (+6 Erick),
+Head up - it's time to fight illusions. You get relationship points
+depending on if you're right - choosing Erick 2 grants (+6 Erick),
 choosing Erick 1 grants (-4 Erick). Choosing Aelita 2 grants (-4 Aelita)
 and will open you up to one more question:
 
@@ -19666,7 +19666,7 @@ Anyways, time for a battle!
     -   Nasty Plot
 
 The Naganadel has two shields, and her Stantler and Beheeyem each have
-crests that make both much better. That said, if you don’t let Naganadel
+crests that make both much better. That said, if you don't let Naganadel
 get too many Beast Boosts her team is overall slow and you can sweep
 them with the right Pokemon.
 
@@ -19747,7 +19747,7 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
 
     -   Earth Power
 
--   Sirfetch’d, Level 86. @ Stick.
+-   Sirfetch'd, Level 86. @ Stick.
 
     -   Meteor Assault
 
@@ -19773,18 +19773,18 @@ Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
 
     -   Shadow Ball
 
-    -   King’s Shield
+    -   King's Shield
 
     -   Sacred Sword
 
 This is a tough battle that takes full advantage of both field effects
-in play here! On the first turn, you’ll notice that Chandelure’s and
-Corviknight’s abilities cause tanky Mega Corviknight to be targeted.
+in play here! On the first turn, you'll notice that Chandelure's and
+Corviknight's abilities cause tanky Mega Corviknight to be targeted.
 This means Chandelure will likely get off a Trick Room on the first turn
 which will last 8 turns on the field, greatly benefitting her slow team.
 When her Aurorus comes in, the field will return to Fairy Tale since the
 hail blocks out the weather, which as in the Melia fight makes
-Sirfetch’d, Samurott and Aegislash particularly deadly.
+Sirfetch'd, Samurott and Aegislash particularly deadly.
 
 That said, luckily there are no fairies this time, so Heat Wave + Sun
 can work well on most of the team. You can either anticipate the Trick
@@ -19816,11 +19816,11 @@ Stats: 500/50/300/60/300/1. 4 Shields.
 
 -   Dream Eater
 
-Equip the Intercept-Z to a Pokemon first and you’ll have a much easier
-time, but it’s not necessary. It’s very slow, so you can easily drop its
+Equip the Intercept-Z to a Pokemon first and you'll have a much easier
+time, but it's not necessary. It's very slow, so you can easily drop its
 defenses or use Knock Off for its Leftovers and wear it down. Aelita
 will help you break the 4 shields too with field boosted Dazzling Gleam.
-If you use any weather, you’ll change the field to nothing, which can be
+If you use any weather, you'll change the field to nothing, which can be
 useful.
 
 Puppet Master (Starlight Field)
@@ -19902,11 +19902,11 @@ Optimistic Guy Huey (Starlight Field)
 
     -   Quick Attack
 
-Huey is not too bad! Just make sure he doesn’t get stupidly powerful
-with Octillery or Glalie’s moody and you’ll be fine.
+Huey is not too bad! Just make sure he doesn't get stupidly powerful
+with Octillery or Glalie's moody and you'll be fine.
 
 Now we get to play as Saki for a bit. Interact with all the … as well as
-Saki’s parents then pick up the phone in the upper left corner.
+Saki's parents then pick up the phone in the upper left corner.
 
 Back as the player, enter the first room.
 
@@ -19916,7 +19916,7 @@ Relationship Point Choices:
 - Goddamnit... (Melia -2, Aelita -2, Erin -3)
 
 Accept the fast travel to Axis. Head through the path then go back to
-the left. You’ll find **Aevian Munna** roaming about!
+the left. You'll find **Aevian Munna** roaming about!
 
 ZCell 108: Hidden Axis Lab
 
@@ -19925,7 +19925,7 @@ style="width:6.26542in;height:4.69167in"
 alt="A picture containing electronics, computer Description automatically generated" />
 
 Follow the path up. After this scene is over, head back out and down to
-Saki’s gym!
+Saki's gym!
 
 ## Forgery Badge
 
@@ -19959,7 +19959,7 @@ Key* behind them.
 
 Before we go, we can solve a puzzle with these statues. Turn the
 top-left one South, the top-right one West, the bottom-left one East,
-and the bottom-right one North. You’ll get an *Adamant Mint!*
+and the bottom-right one North. You'll get an *Adamant Mint!*
 
 Use the key above.
 
@@ -20027,11 +20027,11 @@ Xen Executive Geara (Haunted Field)
 
 Man, this guy keeps showing up and is never any less annoying. First,
 for some arbitrary reason, compared to all the previous encounters with
-Haunted Field, this time you can’t change the field at all. All his
+Haunted Field, this time you can't change the field at all. All his
 Pokemon hit hard, and he even walks in with some of them burned, so you
-can’t status them. Mega-Gengar is insanely fast and with field boosted
+can't status them. Mega-Gengar is insanely fast and with field boosted
 Shadow Ball can kill almost anything, Krookodile starts strong and can
-go on a Moxie rampage starting with its Z-move, Aevian Parasect’s
+go on a Moxie rampage starting with its Z-move, Aevian Parasect's
 ability guarantees it a second life after you knock it out the first
 time, Unaware Clefable is as annoying as ever, and so on.
 
@@ -20112,11 +20112,11 @@ Alternates between lowering the target's Attack & Special Attack by 1
 stage each, and lower the target's Defense & Special Defense by 1 stage
 each.
 
-The first 10 or so attempts you’ll have at this battle will probably be
+The first 10 or so attempts you'll have at this battle will probably be
 wrapping your head around what is happening. Basically, on Glitch Field,
 special defense and special attack are calculated by whichever of the
-two is highest. This, plus Wonder Room, which swaps a Pokemon’s raw
-defense and raw special defense, means that Saki’s extremely defensive
+two is highest. This, plus Wonder Room, which swaps a Pokemon's raw
+defense and raw special defense, means that Saki's extremely defensive
 team members now hit their special moves with their defense stats: Mega
 Metagross uses 150 base special attack to power field boosted Zen
 Headbutt. On top of this, Super U.M.D. Attack is a 100 power physical
@@ -20132,22 +20132,22 @@ That said, as one of the developers kindly told me when I was stuck,
 there is an advantage built in to the field! All the Pokemon except
 Mega-Metagross are slow, and on Glitch field, the faster Pokemon has a
 +1 critical hit chance. This means that any Pokemon holding a Razor Claw
-or Scope Lens that is faster than any of Saki’s Pokemon has a 50% chance
+or Scope Lens that is faster than any of Saki's Pokemon has a 50% chance
 of doing critical hits, meaning that half of the time you can ignore the
-defense boosts granted by the seeds of Bronzong and Aggron. What’s more,
+defense boosts granted by the seeds of Bronzong and Aggron. What's more,
 a high crit move like Night Slash will have a 100% chance of breaking
 through! Another strategy you can consider is bringing your own
-defensive Pokemon. Just like with Saki’s team, defense will then
+defensive Pokemon. Just like with Saki's team, defense will then
 translate to special attack, allowing you to hit hard Special type moves
 (especially Fire). Physical type moves (especially Ground and Fighting)
-are also decent here, as the wonder room swaps Saki’s team members’
+are also decent here, as the wonder room swaps Saki's team members'
 relatively poor special defense to the defense stat.
 
 Win to get *TM91 Flash Cannon* as well as the Forgery Badge. At this
-point, if you have at least 3 points with Saki you’ll get more
+point, if you have at least 3 points with Saki you'll get more
 Relationship Points (Saki +4, Amber +4, Venam +4).
 
-Right afterwards, if you have at least 3 points with Amber, you’ll get
+Right afterwards, if you have at least 3 points with Amber, you'll get
 even more Relationship Points! (Amber +4, Venam +4)
 
 Relationship Point Choices:
@@ -20167,8 +20167,8 @@ side quests remain, for now.
 
 ## Post V13 Items
 
-Return to the Gearen Lab and show your Aevian Litwick to Zumi, who’ll
-reward you with *Exp. Candy L* and MegaStone *Manectite.* That’s the end
+Return to the Gearen Lab and show your Aevian Litwick to Zumi, who'll
+reward you with *Exp. Candy L* and MegaStone *Manectite.* That's the end
 of this quest!
 
 Next, make your way to the Den of Souls via Goldenwood Grove. Head up to
@@ -20180,7 +20180,7 @@ Shard.* Make your way to the 3<sup>rd</sup> HQ, and head to the
 *Elixir* in it. On the second floor, you can find a *Max Potion.*
 
 Exit to the 3<sup>rd</sup> Layer. On the right is an *Ultra Potion.*
-Down, you’ll find a hidden *Rare Candy.* Head to the left. We can surf
+Down, you'll find a hidden *Rare Candy.* Head to the left. We can surf
 here!
 
 Den of Souls
@@ -20202,41 +20202,41 @@ Wild Kabuto can also be found by surfing north here. Grab the *TM82
 Dragon Tail*.
 
 Back on land, head down and talk to the broken mech-Gyarados. Inside,
-you’ll get a *Dragon Memory.* Head up to get the MegaStone *Glalitite!*
+you'll get a *Dragon Memory.* Head up to get the MegaStone *Glalitite!*
 Proceed left and pick up the *Tiny Mushroom.*
 
-Surf down at the bottom area. You’ll find Wild Omanyte here, and a
+Surf down at the bottom area. You'll find Wild Omanyte here, and a
 hidden *Blue Shard.* To the right, you can get *TM149 Draining Kiss.*
-Further to the right, you’ll find a hidden *Ether.* An island on the
+Further to the right, you'll find a hidden *Ether.* An island on the
 north side of the pond contains a hidden *Heart Scale.* Head all the way
 out the way we came in.
 
-Head to Route 4: Cairo now has one more crest he’ll sell us for 14K Red
+Head to Route 4: Cairo now has one more crest he'll sell us for 14K Red
 Essence!
 
-Cairo’s Shop New Item (15 Badges)
+Cairo's Shop New Item (15 Badges)
 
 *Delcatty Crest* 14,000 Red Essences
 
-Finally, fly to Eclysia Pyramid and talk to Ryland on the summit. You’ll
+Finally, fly to Eclysia Pyramid and talk to Ryland on the summit. You'll
 get Relationship Points (Ryland +6) and MegaStone *Steelixite!*
 
-That’s all the content in Rejuvenation! If you want to complete the dex
+That's all the content in Rejuvenation! If you want to complete the dex
 as much as possible, read on. Thanks for reading.
 
 # Appendices
 
 ## Complete the V13 Dex
 
-While you wait for the next episode, if you’d like, you can fill your
+While you wait for the next episode, if you'd like, you can fill your
 dex as much as possible. Note that I assume everything in bold above has
 been obtained already. I will only be listing everything here that you
-must evolve/breed in V13 that we haven’t already done so for a quest.
+must evolve/breed in V13 that we haven't already done so for a quest.
 
 The best place to post up for battles is the Route 9 grinder. Lead with
-a Ghost/Fighting type and go nuts, you’ll get Exp. Candy for winning.
-Friendship berries are available at Maman’s Camp. As for item evolutions
-- they’re all available in the Shopping District.
+a Ghost/Fighting type and go nuts, you'll get Exp. Candy for winning.
+Friendship berries are available at Maman's Camp. As for item evolutions
+- they're all available in the Shopping District.
 
 ### Must Breed 
 
@@ -20397,7 +20397,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Jolteon**|Thunderstone|
 |**Flareon**|Fire Stone|
 |**Bellossom**|Sun Stone|
-|**Slowking**|King’s Rock + Link Heart|
+|**Slowking**|King's Rock + Link Heart|
 |**Scizor**|Metal Coat + Link Heart|
 |**Kingdra**|Dragon Scale + Link Heart|
 |**Porygon2**|Up-Grade + Link Heart|
@@ -20471,7 +20471,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 |**Gumshoos**|20, Daytime|
 |**Vikavolt**|Level in: Terajuma Jungle|
 |**Obstagoon**|35, Nighttime|
-|**Sirfetch’d**|Get 3 crits in one battle|
+|**Sirfetch'd**|Get 3 crits in one battle|
 |**Runerigus**|Take at least 49 damage without dying during a battle in Wispy Ruins|
 |**Alolan Raticate**|20, Nighttime|
 |**Alolan Marowak**|28, Nighttime|
@@ -20514,9 +20514,9 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 - **Doublade**
 - **Aegislash**
 - **Hawlucha**
-- **Jangmo’o**
-- **Hakamo’o**
-- **Kommo’o**
+- **Jangmo'o**
+- **Hakamo'o**
+- **Kommo'o**
 - **Grookey\***
 - **Thwackey\***
 - **Rillaboom\***
@@ -20634,7 +20634,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 
 ## Pickup Table
 
-<table>  style="width:100%; "
+<table>
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 8%" />
@@ -20651,7 +20651,7 @@ Friendship berries are available at Maman’s Camp. As for item evolutions
 </colgroup>
 <thead>
 <tr class="header">
-<th>Lv.</th>
+<th>Levels</th>
 <th>30%</th>
 <th>10%</th>
 <th>10%</th>
@@ -20929,7 +20929,7 @@ crests.
 -   Hypno: Multiplies raw Special Attack by 1.5, multiplies Accuracy by
     1.5.
 -   Meganium: Multiplies damage taken by self and double battle allies
-    by 0.8, recovers 1/16 of own and ally’s HP each turn.
+    by 0.8, recovers 1/16 of own and ally's HP each turn.
 -   Typhlosion: Physical attacks use the Special Attack stat, contact
     moves now hit twice: the second with power multiplier 0.2.
 -   Feraligatr: First attack out is given +2 priority. Multiplies damage
@@ -20950,7 +20950,7 @@ crests.
     regardless of held item and is followed by Spit Up.
 -   Zangoose: Poisons user, grants innate Poison Heal.
 -   Seviper: Multiplies raw Speed by 1.5, multiplies damage by 1 + 0.5 x
-    opponent’s health as a percentage.
+    opponent's health as a percentage.
 -   Whiscash: Nullifies Grass moves, raises attack when hit by one.
 -   Claydol: Special attacks use the Defense stat. Beam moves (Signal
     Beam, Charge Beam, Solar Beam, Ice Beam, Hyper Beam, Psybeam) have
@@ -20996,14 +20996,14 @@ crests.
 -   Cinccino: All attacking moves now hit 2-5 times at 0.35 times power
     each. Bonus effects only can happen on the first two.
 -   Beheeyem: When it moves second, multiplies damage taken by 0.67 and
-    disables enemy’s first move used.
+    disables enemy's first move used.
 -   Druddigon: In sun, recovers 1/16 HP each turn. Heals HP when hit by
     Fire moves and nullifies them. Fire and Dragon moves have damage
     multiplied by 1.3.
 -   Dedenne: Physical attacks use the Speed stat.
 -   Oricorio: Multiplies raw Special Attack by 1.25, multiplies raw
     Speed by 1.25.
--   Thievul: Adds half of opponents raw Attack to Thievul’s raw Attack.
+-   Thievul: Adds half of opponents raw Attack to Thievul's raw Attack.
 -   Boltund: Multiplies damage of biting moves (Bite, Crunch, Fire Fang,
     Psychic Fangs, Thunder Fang) by 1.5 if it moves before opponent.
 -   Silvally (Not available to player yet): Does not need to be held.
