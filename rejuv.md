@@ -586,7 +586,7 @@ you run out. We aren't going to need any Reverse Candies in this game
 beyond the ones we find since the level cap is a hard cap unless you use
 Rare Candies to go over it.
 
-East Gearen Market Shop: Top-left Vendor
+East Gearen Market Shop: Top-left
 
 |Item           |Price  |
 |---------------|-------|
@@ -596,7 +596,7 @@ East Gearen Market Shop: Top-left Vendor
 |*Repel*        |$350   |
 |*Reverse Candy*|$50    |
 
-East Gearen Market Shop: Bottom-left Vendor
+East Gearen Market Shop: Bottom-left
 
 |Item           |Price      |
 |---------------|-----------|
@@ -609,7 +609,7 @@ East Gearen Market Shop: Bottom-left Vendor
 
 Only during the daytime on weekdays there is one more vendor:
 
-East Gearen Market Shop: Bottom-right Vendor
+East Gearen Market Shop: Bottom-right
 
 |Item           |Price      |
 |---------------|-----------|
@@ -877,7 +877,7 @@ not necessary to grab everything right now.
 Anyways, there's a grand total of 120 coins along the ground in there,
 try to find them all. Otherwise, here's what you can get here:
 
-Game Corner Coin Vendor Shop
+Game Corner Coin Shop
 
 |Item       |Price      |
 |-----------|-----------|
@@ -885,14 +885,14 @@ Game Corner Coin Vendor Shop
 |500 Coins  |$10000    |
 
 
-Game Corner Left Vendor Shop
+Game Corner Left Shop
 
 |Item               |Price      |
 |-------------------|-----------|
 |*TM70 Flash*       |1000 Coins |
 |*TM10 Hidden Power*|5000 Coins |
 
-Game Corner Right Vendor Shop
+Game Corner Right Shop
 
 |Item          |Price      |
 |--------------|-----------|
@@ -2898,7 +2898,7 @@ Relationship Point Choices:
 If you go with the first option, you'll get *Vanilla, Chocolate,* or
 *Strawberry Ice Cream*.
 
-Route 3 Left Vendor Shop
+Route 3 Left Shop
 
 |Item           |Price      |
 |---------------|-----------|
@@ -2914,7 +2914,7 @@ Spritzee from earlier. We're also eventually (like, 3 or 4 more badges,
 but still) going to want 10 Sweet Hearts for a quest, so go ahead and
 get those.
 
-Route 3 Upper Right Vendor Shop
+Route 3 Upper Right Shop
 
 |Item                |Price|
 |--------------------|-----|
@@ -6424,7 +6424,7 @@ Potion.*
 
 There are some shops towards the center.
 
-Teila Resort Left Vendor Shop
+Teila Resort Left Shop
 
 |Item           |Price|
 |---------------|-----|
@@ -6439,13 +6439,13 @@ Teila Resort Left Vendor Shop
 |*Max Repel*    |$700 |
 |*Reverse Candy*|$50  |
 
-Teila Resort Middle Vendor Shop
+Teila Resort Middle Shop
 
 |Item         |Price|
 |-------------|-----|
 |*Berry Juice*|$1000|
 
-Teila Resort Right Vendor Shop
+Teila Resort Right Shop
 
 |Item               |Price|
 |-------------------|-----|
@@ -9721,28 +9721,23 @@ least to learn.
 
 Grand Dream City
 
-|                       |          |                     |          |                   |          |
-|-----------------------|----------|---------------------|----------|-------------------|----------|
-| Grass: Morning | % | Grass: Night | % | Grass: Day | % |
-| Tranquill             | 20       | Rattata             | 40       | Togedemaru        | 34       |
-| Skwovet               | 20       | Thievul             | 14       | Skiddo            | 20       |
-| **Leavanny**          | 20       | Raticate            | 10       | **Leavanny**      | 20       |
-| Forretress            | 10       | Nickit              | 10       | Yamper            | 10       |
-| **Lillipup**          | 10       | Hoothoot            | 10       | Gogoat            | 10       |
-| Unfezant              | 9        | Noctowl             | 10       | Pidgeot           | 4        |
-| Greedent              | 5        | Ariados             | 5        | Boltund           | 2        |
-| Togedemaru            | 4        | Dustox              | 1        |                   |          |
-| Stoutland             | 2        |                     |          |                   |          |
+| Grass: Morning | %   | Grass: Day   | %   | Grass: Night   | %   |
+|----------------|-----|--------------|-----|----------------|-----|
+| Tranquill      | 20  | Togedemaru   | 34  | Rattata        | 40  |
+| Skwovet        | 20  | Skiddo       | 20  | Thievul        | 14  |
+| **Leavanny**   | 20  | **Leavanny** | 20  | Raticate       | 10  |
+| Forretress     | 10  | Yamper       | 10  | Nickit         | 10  |
+| **Lillipup**   | 10  | Gogoat       | 10  | Hoothoot       | 10  |
+| Unfezant       | 9   | Pidgeot      | 4   | Noctowl        | 10  |
+| Greedent       | 5   | Boltund      | 2   | Ariados        | 5   |
+| Togedemaru     | 4   |              |     | Dustox         | 1   |
+| Stoutland      | 2   |              |     |                |     |
 
-|                 |          |                |          |
-|-----------------|----------|----------------|----------|
-| Old Rod  | % | Water   | % |
-| Goldeen         | 70       | Clauncher      | 60       |
-| Clauncher       | 30       | Mantine        | 34       |
-| Good Rod |          | Bruxish        | 6        |
-| Clauncher       | 60       |                |          |
-| Goldeen         | 20       |                |          |
-| Seaking         | 20       |                |          |
+| Water          | %   | Old Rod      | %   |Good Rod        | %   |
+|----------------|-----|--------------|-----|----------------|-----|
+| Clauncher      | 60  | Goldeen      | 70  | Clauncher      | 60  |
+| Mantine        | 34  | Clauncher    | 30  | Goldeen        | 20  |
+| Bruxish        | 6   |              |     | Seaking        | 20  |
 
 Enter the botanical garden to the north. Hidden throughout is a *Blue
 Shard, Reverse Candy, Ether, Max Repel, Red Shard.* In the southeast
@@ -9821,23 +9816,17 @@ herbs.
 
 Dream District West Spice Shop
 
-*Heal Powder* $450
-
-*Energy Root* $800
-
-*EnergyPowder* $500
-
-*Pure Incense* $9600
-
-*Luck Incense* $9600
-
-*Full Incense* $9600
-
-*Wave Incense* $9600
-
-*Odd Incense* $9600
-
-*Full Heal* $600
+|Item          |Price|
+|--------------|-----|
+|*Heal Powder* |$450 |
+|*Energy Root* |$800 |
+|*EnergyPowder*|$500 |
+|*Pure Incense*|$9600|
+|*Luck Incense*|$9600|
+|*Full Incense*|$9600|
+|*Wave Incense*|$9600|
+|*Odd Incense* |$9600|
+|*Full Heal*   |$600 |
 
 Enter the art gallery in the right side at night. Someone will give you
 a *Green Shard.* Talk to the guy on a couch, and he'll offer to trade a
@@ -9900,11 +9889,12 @@ you want to be mean, pick it up: it's hidden right under her, and give
 it back. If you want to be nice, change the weather to Snow or Blizzard,
 then buy one from the vendor and give it to her.
 
-Shopping District Ice Cream (Snow / Blizzard Only)
+Shopping District Ice Cream Shop (Snow / Blizzard Only)
 
-1x *Casteliacone* $100
-
-12x *Casteliacone* $1000
+|Item              |Price|
+|------------------|-----|
+|1x *Casteliacone* |$100 |
+|12x *Casteliacone*|$1000|
 
 Hidden around the shopping district is *Super Repel, Repel, Elixir,
 Yellow Shard, Super Potion,* and $1400 total.
@@ -9913,37 +9903,29 @@ Then, head into the department store here. Talk to the girl here to get
 a *Stamp Card* with the first department store stamp. Side quests give
 us access to more floors. For now, head upstairs.
 
-Shopping District Mall 2F Vendor 1
+Shopping District Mall 2F Shop 1
 
-*Heat Rock* $200
+|Item         |Price|
+|-------------|-----|
+|*Heat Rock*  |$200 |
+|*Icy Rock*   |$200 |
+|*Smooth Rock*|$200 |
+|*Damp Rock*  |$200 |
+|*Grip Claw*  |$200 |
+|*Light Clay* |$200 |
+|*Everstone*  |$200 |
 
-*Icy Rock* $200
+Shopping District Mall 2F Shop 2
 
-*Smooth Rock* $200
-
-*Damp Rock* $200
-
-*Grip Claw* $200
-
-*Light Clay* $200
-
-*Everstone* $200
-
-Shopping District Mall 2F Vendor 2
-
-*Max Repel* $700
-
-*Great Ball* $600
-
-*Ultra Ball* $1200
-
-*Full Heal* $600
-
-*Hyper Potion* $1200
-
-*Ultra Potion* $2200
-
-*Escape Rope* $550
+|Item          |Price|
+|--------------|-----|
+|*Max Repel*   |$700 |
+|*Great Ball*  |$600 |
+|*Ultra Ball*  |$1200|
+|*Full Heal*   |$600 |
+|*Hyper Potion*|$1200|
+|*Ultra Potion*|$2200|
+|*Escape Rope* |$550 |
 
 That's all for this area for now, so head back to the central square.
 Head straight west from here into the residential district.
@@ -9991,7 +9973,7 @@ Talk to Lavender in the living room. Talk to Huey in the middle room,
 then head out to fight Bladestar in the right room.
 
 Exit, and head all the way to the Magnolia Theatre in the east side of
-the Shopping District
+the Shopping District.
 
 Relationship Point Choices:
 - It's fine. (Lavender +1, Huey +1)
@@ -10033,58 +10015,34 @@ a color, and Venam will challenge you to a battle!
 
 Punk Girl Venam (No Field)
 -   Toxtricity (Amped), Level 67. @ Focus Sash.
-
     -   Overdrive
-
     -   Boomburst
-
     -   Sludge Bomb
-
     -   Thunder Wave
 -   Muk (Alolan), Level 67. @ Black Sludge.
-
     -   Gunk Shot
-
     -   Crunch
-
     -   Curse
-
     -   Fire Punch
 -   Scolipede, Level 67. @ Muscle Band.
-
     -   Rock Slide
-
     -   Megahorn
-
     -   Aqua Tail
-
     -   Poison Jab
 -   Venusaur, Level 68. @ Leftovers.
-
     -   Sludge Bomb
-
     -   Giga Drain
-
     -   Hidden Power Fire
-
     -   Earthquake
 -   Seviper, Level 69. @ Life Orb.
-
     -   Sludge Wave
-
     -   Earthquake
-
     -   Giga Drain
-
     -   Sucker Punch
 -   Charizard, Level 75. @ Charti Berry.
-
     -   Heat Wave
-
     -   Air Slash
-
     -   Focus Blast
-
     -   Roost
 
 It's not required you win this one, but nonetheless it's an easy battle.
@@ -10142,9 +10100,8 @@ read the notebook and head up.
 
 Darchlight Manor (Outside)
 
-|               |          |
+| Inside        | %        |
 |---------------|----------|
-| Inside | % |
 | Duskull       | 30       |
 | Shuppet       | 30       |
 | Misdreavus    | 15       |
@@ -10176,58 +10133,34 @@ for a fight, as Aelita.
 
 Xen Executive Zetta (No Field)
 -   Gliscor, Level 68. @ Flying Gem.
-
     -   Tailwind
-
     -   X-Scissor
-
     -   Acrobatics
-
     -   Poison Jab
 -   Lucario, Level 69. @ Focus Sash.
-
     -   Aura Sphere
-
     -   Toxic
-
     -   Shadow Ball
-
     -   Calm Mind
 -   Staraptor, Level 68. @ Assault Vest.
-
     -   Brave Bird
-
     -   U-Turn
-
     -   Return
-
     -   Endeavor
 -   Blaziken, Level 69. @ Muscle Band.
-
     -   Shadow Claw
-
     -   Protect
-
     -   Brave Bird
-
     -   Blaze Kick
 -   Mienshao, Level 68. @ Focus Sash.
-
     -   U-Turn
-
     -   Poison Jab
-
     -   Brick Break
-
     -   Protect
 -   Hawlucha, Level 70. @ Flying Gem.
-
     -   Acrobatics
-
     -   X-Scissor
-
     -   Poison Jab
-
     -   Protect
 
 The catch with this one is that the team you must use is the same as
@@ -10248,19 +10181,20 @@ Head up and into the Nightmare Casino. Zetta will explain the rules and
 give us 10000 coins. At the top right, grab *Psychic Memory.* The left
 vendor will give us a *Coin Case* if we have neglected to get one yet.
 
-Nightmare Casino Left Vendor
+Nightmare Casino Left Shop
 
-50 Coins $1000
+|Item       |Price      |
+|-----------|-----------|
+|50 Coins   |$1000      |
+|500 Coins  |$10000     |
 
-500 Coins $10000
+Nightmare Casino Right Shop
 
-Nightmare Casino Right Vendor
-
-500 Puppet Coins 1000 Coins
-
-3500 Puppet Coins 5000 Coins
-
-8500 Puppet Coins 10000 Coins
+|Item               |Price      |
+|-------------------|-----------|
+|500 Puppet Coins   |1000 Coins |
+|3500 Puppet Coins  |5000 Coins |
+|8500 Puppet Coins  |10000 Coins|
 
 However, you need not deal with buying puppet coins or playing slots if
 you simply win battles. Talk to Don Carto in the bottom right: he will
@@ -10280,58 +10214,34 @@ front of the box for a battle.
 
 Xen Executive Zetta (No Field)
 -   Weavile, Level 68. @ Muscle Band.
-
     -   Icicle Crash
-
     -   Night Slash
-
     -   Poison Jab
-
     -   Ice Shard
 -   Perrserker, Level 68. @ Protective Pads.
-
     -   Swords Dance
-
     -   Iron Head
-
     -   Close Combat
-
     -   Play Rough
 -   Dragonite, Level 68. @ Dragon Fang.
-
     -   Dragon Dance
-
     -   Fly
-
     -   Fire Punch
-
     -   Dragon Claw
 -   Typhlosion, Level 69. @ Power Herb.
-
     -   Eruption
-
     -   Heat Wave
-
     -   Focus Blast
-
     -   SolarBeam
 -   Silvally, Level 69. @ Silk Scarf.
-
     -   Return
-
     -   Shadow Claw
-
     -   Swords Dance
-
     -   Zen Headbutt
 -   Solosis, Level 1.
-
     -   Memento
-
     -   Memento
-
     -   Memento
-
     -   Memento
 
 A somewhat tough singles battle. Again, a speedy rock type can deal
@@ -10348,8 +10258,8 @@ surprise gym battle!
 
 <table>
 <colgroup>
-<col style="width: 37%" />
-<col style="width: 62%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -10459,7 +10369,7 @@ Head outside to talk to Aelita.
 Relationship Point Choices:
 - I'll go with you. (Aelita +2)
 - I know Erin. (Neutral)
-            - Maybe... (Aelita -2)
+- Maybe... (Aelita -2)
 
 Then head over to the Grand Dream Station. Talk to her here, and enter
 the train headed to Route 9.
@@ -10468,15 +10378,20 @@ the train headed to Route 9.
 
 Route 9
 
-|                |          |                 |          |                |          |
-|----------------|----------|-----------------|----------|----------------|----------|
-| Grass   | % | Old Rod  | % | Water   | % |
-| **Pangoro**    | 35       | Spheal          | 70       | Mantyke        | 60       |
-| Liepard        | 24       | Mantyke         | 30       | Dewgong        | 30       |
-| **Mothim**     | 15       | Good Rod |          | Sealeo         | 5        |
-| **Sudowoodo**  | 14       | Mantyke         | 60       | Mantine        | 4        |
-| **Lycanroc**   | 10       | Quagsire        | 20       | **Pincurchin** | 1        |
-| **Talonflame** | 2        | Qwilfish        | 20       |                |          |
+| Grass          | %        | Water          | %        |
+|----------------|----------|----------------|----------|
+| **Pangoro**    | 35       | Mantyke        | 60       |
+| Liepard        | 24       | Dewgong        | 30       |
+| **Mothim**     | 15       | Sealeo         | 5        |
+| **Sudowoodo**  | 14       | Mantine        | 4        |
+| **Lycanroc**   | 10       | **Pincurchin** | 1        |
+| **Talonflame** | 2        |                |          |
+
+| Old Rod         | %        | Good Rod        | %  | 
+|-----------------|----------|-----------------|----|
+| Spheal          | 70       | Mantyke         | 60 | 
+| Mantyke         | 30       | Quagsire        | 20 | 
+|                 |          | Qwilfish        | 20 | 
 
 Explore the route a bit. There is also an Audino Breeder in the area,
 each time you win, you will get 7 *Exp. Candy L.*
@@ -10506,17 +10421,22 @@ right.
 
 Forlorned Cavern
 
-|                   |          |                 |     |                |          |
-|-------------------|----------|-----------------|-----|----------------|----------|
-| Grass      | % | Old Rod  |     | Water   | % |
-| Pangoro           | 25       | Corphish        | 70  | Mantyke        | 60       |
-| Graveler (Alolan) | 20       | Chewtle         | 30  | Dewgong        | 30       |
-| Swoobat           | 15       | Good Rod |     | Sealeo         | 5        |
-| Togedemaru        | 14       | Mantyke         | 60  | Mantine        | 4        |
-| Sudowoodo         | 14       | Quagsire        | 20  | Bruxish        | 1        |
-| Lycanroc          | 10       | Qwilfish        | 20  |                |          |
-| Rhyhorn           | 1        |                 |     |                |          |
-| Rhydon            | 1        |                 |     |                |          |
+| Grass             | %        | Water          | %        |
+|-------------------|----------|----------------|----------|
+| Pangoro           | 25       | Mantyke        | 60       |
+| Graveler (Alolan) | 20       | Dewgong        | 30       |
+| Swoobat           | 15       | Sealeo         | 5        |
+| Togedemaru        | 14       | Mantine        | 4        |
+| Sudowoodo         | 14       | Bruxish        | 1        |
+| Lycanroc          | 10       |                |          |
+| Rhyhorn           | 1        |                |          |
+| Rhydon            | 1        |                |          |
+
+| Old Rod         | %   | Good Rod        | %  |   
+|-----------------|-----|-----------------|----|
+| Corphish        | 70  | Mantyke         | 60 |
+| Chewtle         | 30  | Quagsire        | 20 |
+|                 |     | Qwilfish        | 20 |
 
 Pick up a hidden *Yellow Shard,* then head into the room at the top with
 the crystal and pick up a hidden *Pretty Wing* as well as:
@@ -10654,7 +10574,7 @@ you'll get Eevee with special moves and an *Ice Stone!* Head down to
 talk to the hiker in the crowd, to get your second *Department Store
 Stamp!*
 
-Shopping District Mall 3F Vendor 1
+Shopping District Mall 3F Shop 1
 
 *Fire Stone* $,100
 
@@ -10672,7 +10592,7 @@ Shopping District Mall 3F Vendor 1
 
 *Power Band* $2100
 
-Shopping District Mall 3F Vendor 2
+Shopping District Mall 3F Shop 2
 
 *Air Balloon* $200
 
@@ -10756,7 +10676,7 @@ Once you win, you'll get **Darumaka.**
 
 On the left, there are more vendors.
 
-Axis High University Right Vendor Shop
+Axis High University Right Shop
 
 *Vanilla Ice Cream* $400
 
@@ -10766,7 +10686,7 @@ Axis High University Right Vendor Shop
 
 She'll also rarely have *Blue Moon Ice Cream* to sell.
 
-Axis High University Left Vendor Shop
+Axis High University Left Shop
 
 *Reverse Candy* $50
 
@@ -11694,7 +11614,7 @@ choices.
     interact with the panel in the back, then enter the right room. Read
     the journal and use the Itemfinder in here to get *Dubious Disc!*
 
-Shopping District Mall 4F Vendor 1
+Shopping District Mall 4F Shop 1
 
 *HP Up* $9800
 
@@ -11710,7 +11630,7 @@ Shopping District Mall 4F Vendor 1
 
 Buy one Protein while you're here for a quest later.
 
-Shopping District Mall 4F Vendor 2
+Shopping District Mall 4F Shop 2
 
 *Sticky Barb* $200
 
@@ -12551,13 +12471,13 @@ Gravity 2 Blue Shards
 
 Recycle 2 Green Shards
 
-Hiyoshi City Shop Top Vendor
+Hiyoshi City Shop Top
 
 *Sitrus Berry* $750
 
 *Chesto Berry* $300
 
-Hiyoshi City Shop Bottom Vendor
+Hiyoshi City Shop Bottom
 
 *Poke Ball* $200
 
@@ -16276,7 +16196,7 @@ ton of stamps in this episode's content, so it's time to go on a
 shopping spree! Add Gible to your party and fly to Yui's Ranch, enter
 GDC, then go to the shopping district and into the store.
 
-Shopping District Mall 5F Vendor 1
+Shopping District Mall 5F Shop 1
 
 *Occa Berry* $3000
 
@@ -16298,7 +16218,7 @@ Shopping District Mall 5F Vendor 1
 
 *Chople Berry* $3000
 
-Shopping District Mall 5F Vendor 2
+Shopping District Mall 5F Shop 2
 
 *Kebia Berry* $3000
 
@@ -16318,7 +16238,7 @@ Shopping District Mall 5F Vendor 2
 
 *Roseli Berry* $3000
 
-Shopping District Mall 6F Vendor 1
+Shopping District Mall 6F Shop 1
 
 *Psychic Gem* $200
 
@@ -16336,7 +16256,7 @@ Shopping District Mall 6F Vendor 1
 
 *Ice Gem* $200
 
-Shopping District Mall 6F Vendor 2
+Shopping District Mall 6F Shop 2
 
 *Fire Gem* $200
 
@@ -16356,7 +16276,7 @@ Shopping District Mall 6F Vendor 2
 
 *Flying Gem* $200
 
-Shopping District Mall 7F Vendor 1
+Shopping District Mall 7F Shop 1
 
 *Big Root* $200
 
@@ -16374,7 +16294,7 @@ Shopping District Mall 7F Vendor 1
 
 *Quick Claw* $100
 
-Shopping District Mall 7F Vendor 2
+Shopping District Mall 7F Shop 2
 
 *Petaya Berry* $1250
 
@@ -16390,7 +16310,7 @@ Shopping District Mall 7F Vendor 2
 
 *Salac Berry* $1250
 
-Shopping District Mall 8F Vendor 1
+Shopping District Mall 8F Shop 1
 
 *TM150 Grassy Terrain* $100000
 
@@ -16408,7 +16328,7 @@ Shopping District Mall 8F Vendor 1
 
 *HM05 Waterfall* $150000
 
-Shopping District Mall 8F Vendor 2
+Shopping District Mall 8F Shop 2
 
 *Protector* $2100
 

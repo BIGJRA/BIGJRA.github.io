@@ -1,6 +1,9 @@
-t = '''*Honey* $100
+t = '''
+50 Coins $1000
 
-*Super Repel* $500'''
+500 Coins $10000
+
+'''
 
 lines = t.split('\n')
 items = []
