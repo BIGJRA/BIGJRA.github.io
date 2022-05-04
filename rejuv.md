@@ -7,12 +7,23 @@ title: |
 # Walkthrough Version 13.2.0
 # Written by @BIGJRA
 
-My site hasn't been completely rolled out yet: I could use some help to double check these things:
-- Does every battle have a field listed (including No Field)? Should be yes.
-- Are there any encounter tables with field listed? Should be no.
-- Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
-- Are there any inconsistent formatting / syntax issues? Should be no.
-- Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
+
+<important> My site hasn't been completely rolled out yet: I could use some help to double check these things:
+
+Does every battle have a field listed (including No Field)? Should be yes.
+
+Are there any encounter tables with field listed? Should be no.
+
+Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
+
+Are there any inconsistent formatting / syntax issues? Should be no.
+
+Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
+
+Are there moments of me being arrogant and disparaging? I started writing this as a teenager and
+I'm sure there are moments like this. I don't want to call a fight "easy" if there are players 
+that might struggle with it, for example. Let me know!
+</important>
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
@@ -116,7 +127,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#teila-resort-first-visit" id="toc-teila-resort-first-visit">Teila Resort First Visit</a>
     -   <a href="#aquamarine-cave-2nd-visit" id="toc-aquamarine-cave-2nd-visit">Aquamarine Cave 2nd Visit</a>
     -   <a href="#teila-resort-2nd-visit" id="toc-teila-resort-2nd-visit">Teila Resort 2nd Visit</a>
-    -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River's End 2nd Visit -REnd2</a>
+    -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River's End 2nd Visit</a>
     -   <a href="#frozen-over-kristiline-town" id="toc-frozen-over-kristiline-town">Frozen Over Kristiline Town</a>
     -   <a href="#tower-of-theolia" id="toc-tower-of-theolia">Tower of Theolia</a>
     -   <a href="#glacier-badge" id="toc-glacier-badge">Glacier Badge</a>
@@ -177,7 +188,7 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#route-9-first-visit" id="toc-route-9-first-visit">Route 9 First Visit</a>
     -   <a href="#rose-theater-first-visit" id="toc-rose-theater-first-visit">Rose Theater First Visit</a>
 -   <a href="#chapter-12-remember-i-love-you" id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love You</a>
-    -   <a href="#judicial-district" id="toc-judicial-district">Judicial District --- JDist1</a>
+    -   <a href="#judicial-district" id="toc-judicial-district">Judicial District</a>
     -   <a href="#kimono-girls-quest" id="toc-kimono-girls-quest">Kimono Girls Quest</a>
     -   <a href="#axis-high-university-1st-visit" id="toc-axis-high-university-1st-visit">Axis High University 1st Visit</a>
     -   <a href="#district-of-hope" id="toc-district-of-hope">District of Hope</a>
@@ -197,9 +208,9 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#ana-quest-part-2" id="toc-ana-quest-part-2">ANA Quest Part 2</a>
     -   <a href="#voidal-chasm-1st-visit" id="toc-voidal-chasm-1st-visit">Voidal Chasm 1st Visit</a>
     -   <a href="#zorrialyn-desert" id="toc-zorrialyn-desert">Zorrialyn Desert</a>
-    -   <a href="#sashila-village-1st-visit" id="toc-sashila-village-1st-visit">Sashila Village 1st Visit \- SashVil1</a>
+    -   <a href="#sashila-village-1st-visit" id="toc-sashila-village-1st-visit">Sashila Village 1st Visit</a>
     -   <a href="#hospital-of-ruin-1st-visit" id="toc-hospital-of-ruin-1st-visit">Hospital of Ruin (1st Visit)</a>
-    -   <a href="#sashila-village-2nd-visit" id="toc-sashila-village-2nd-visit">Sashila Village 2nd Visit \- SashVil2</a>
+    -   <a href="#sashila-village-2nd-visit" id="toc-sashila-village-2nd-visit">Sashila Village 2nd Visit</a>
     -   <a href="#alamissa-urben" id="toc-alamissa-urben">Alamissa Urben</a>
     -   <a href="#blakeory-atheneum-tour" id="toc-blakeory-atheneum-tour">Blakeory Atheneum Tour</a>
     -   <a href="#aevium-past-3rd-visit" id="toc-aevium-past-3rd-visit">Aevium (Past) 3rd Visit</a>
@@ -10645,7 +10656,7 @@ randomly payoff as follows:
 |Outcome       |Chance          |
 |--------------|----------------|
 |*HM06 Dive*   | 2%             |
-|*Poke Doll.*  | 14%            |
+|*Poke Doll*  | 14%            |
 | Fee refunded | 22%            |
 | Nothing      | 62%            |
 
