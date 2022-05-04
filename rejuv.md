@@ -7,6 +7,12 @@ title: |
 # Walkthrough Version 13.2.0
 # Written by @BIGJRA
 
+I could use some help to double check these things:
+
+- Every battle should have a field listed (including No Field)
+- Every encounters area should NOT have a field listed
+- 
+
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
 While you’re here, try checking out [my Youtube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)! 
@@ -344,7 +350,7 @@ Gearen Lab Shop
 |*Repel*    |$350   |
 |*Antidote* |$100   |
 
-You start with $1,500. I recommend picking up at least a few Poke balls
+You start with $1500. I recommend picking up at least a few Poke balls
 to catch some team members soon, as a full team is almost necessary to
 succeed in Rejuvenation, even as early as the first gym battle of this
 game.
@@ -668,7 +674,7 @@ After you regain control, talk to a man in the bottom right for a *Super
 Potion.* Enter the right hallway and go past the first two rooms and
 into the first on the upper side to get *TM126 Whirlpool.* In the
 hallway on the left, head into the open room at the top and interact
-with the tile down and right from the top left plant for $1,500!
+with the tile down and right from the top left plant for $1500!
 
 Head to the Casino level and talk to the red-haired fellow. They’ll
 flush their Coin Case down the drain so we can pick it up later.
@@ -874,8 +880,8 @@ Game Corner Coin Vendor Shop
 
 |Item       |Price      |
 |-----------|-----------|
-|50 Coins   |$1,000     |
-|500 Coins  |$10,000    |
+|50 Coins   |$1000     |
+|500 Coins  |$10000    |
 
 
 Game Corner Left Vendor Shop
@@ -1253,7 +1259,7 @@ Relationship Point Choices:
 Upstairs, talk to the bell boy in the left hallway, and the girl in the
 top-left room in the right hallway.
 
-Return to the help center to get your reward: $1,100 and a
+Return to the help center to get your reward: $1100 and a
 *GourmetTreat*, but also *TM119 Magical Leaf!* (+1 Karma)
 
 Now we can start looking for Zygarde Cells!
@@ -1695,7 +1701,7 @@ Kecleon Market Shop
 |*Poke Ball*    | $200      |
 |*Potion*       | $300      |
 |*Antidote*     | $100      |
-|*GourmetTreat* | $150      |
+|*GourmetTreat* | $1500     |
 |*Repel*        | $350      |
 
 You can also find a *GourmetTreat* in the rightmost patch of grass up in
@@ -2059,7 +2065,7 @@ Once you’re ready, talk to the spirit of Keta. He will give you the
 *Soul Stone.* Then exit and watch the scene and fast travel back to
 Sheridan.
 
-Returning to the inn in Sheridan you’ll be given $8,000 for saving the
+Returning to the inn in Sheridan you’ll be given $8000 for saving the
 guy.
 
 Now is a good time to do the Sheridan Village Help Quests. The help
@@ -2144,7 +2150,7 @@ Route 2 and interact with them. Then go to Sheridan Arena.
 
 Talk to the girl with blue hair, then trade for **Pancham.**
 
-Claim your reward: $1,920 and *Rare Candy*! (+1 Karma)
+Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
 
 ### HQuest 11: Fetch an Item!
 
@@ -2503,56 +2509,32 @@ Venam’s house contains a hidden *Repel.*
 
 Make your way to the sewers. Talk to Amanda for a battle.
 
-Trainer Amanda
+Trainer Amanda (No Field)
 
 -   Bronzor, Level 24. @ Heat Rock.
-
     -   Sunny Day
-
     -   Gyro Ball
-
     -   Confuse Ray
-
     -   Psywave
-
 -   Weepinbell, Level 25. @ Miracle Seed.
-
     -   Razor Leaf
-
     -   Knock Off
-
     -   Sleep Powder
-
     -   Hidden Power Fire
-
 -   Miltank, Level 24.
-
     -   Stomp
-
     -   Milk Drink
-
     -   Thunder Wave
-
     -   Stacking Shot
-
 -   Hatenna, Level 25. @ TwistedSpoon.
-
     -   Psybeam
-
     -   Draining Kiss
-
     -   Nuzzle
-
     -   Aromatherapy
-
 -   Druddigon, Level 26. @ Charcoal.
-
     -   Fire Punch
-
     -   Dragon Tail
-
     -   Sunny Day
-
     -   Metal Claw
 
 This is a surprisingly tough battle, namely due to Miltank. Once it
@@ -2571,16 +2553,13 @@ Enter the sewers and head to the back, cutting along the way.
 Relationship Point Choices:
 
 - Hi Lucha. (Venam +1)
-
 - You're Venam's friend? (Venam +2)
-
 - Have we met? (Neutral)
 
 Chrysalis Courtyard (Grassy Terrain)
 
-|                     |          |
+| Grass               | %        |
 |---------------------|----------|
-| Grass        | % |
 | **Meowth (Alolan)** | 30       |
 | **Hoppip**          | 20       |
 | **Minun**           | 14       |
@@ -2614,11 +2593,8 @@ Dusknoir in a bit to get all the items.
 Relationship Point Choices:
 
 - Yeah, I am. (Marianette -1)
-
 - It was nothing... (Marianette +2)
-
 - You flatter me... (Marianette +1)
-
 - Say it again. (Marianette -2)
 
 Afterwards you must fight a servant!
@@ -2626,16 +2602,12 @@ Afterwards you must fight a servant!
 Servant Moya (Grassy Terrain)
 
 -   Dusknoir, Level 35. @ Dusknoir Crest. 2 Shields.
-
     -   Ice Punch
-
     -   Shadow Punch
-
     -   Psychic
-
     -   Brick Break
 
-This can be tough, but Marianette’s Pokemon do help out
+This can be tough, but Marianette’s Pokemon do help out.
 
 Relationship Point Choices:
 
@@ -2648,9 +2620,7 @@ Enter at the top and save Luca.
 Relationship Point Choices:
 
 - You're growing. (Marianette +2)
-
 - Yeah, you are. (Marianette -2)
-
 - You can change that! (Marianette +3)
 
 Back in the maze, from the bottom: A path in the southwest leads you to
@@ -2663,7 +2633,7 @@ so defeat her to continue that quest.
 
 Now follow the right path through the mansion. In the dining room, talk
 to Marianette, you may randomly get a chance to give her an Oran Berry.
-This gives +7 Marianette Relationship Points.
+This gives (+7 Marianette) Relationship Points.
 
 Exit to the right. If you hug the left wall and go through a secret
 passage, you’ll see another inscription. This one says Password 2 is
@@ -2674,7 +2644,8 @@ At the top, you need to navigate two pieces onto the colored tiles, but
 the buttons control both pieces. Carefully use the walls to your
 advantage to solve this one. Three times and you’re done: save Lenny.
 
-Relationship Point Choices:  
+Relationship Point Choices: 
+
 - To instill fear. (Marianette +2)  
 - Who knows? (Marianette -1)  
 - It's a fun hobby! (Marianette -3)
@@ -2707,15 +2678,15 @@ Tangrowth to its own tile.
 Relationship Point Choices:
 
 - You did well. (Marianette +4)
-
 - You cut it kinda close... (Marianette -2)
 
 If you have at least five points with Marianette up till now, you’ll get
 the following dialogue choice:
 
 Relationship Point Choices:  
-            - It's okay Marianette. (Marianette +8)  
-            - I don't know... (Marianette -12)
+
+- It's okay Marianette. (Marianette +8)  
+- I don't know... (Marianette -12)
 
 Now that Marianette is no longer following us, we can go through the
 path in our room again. Enter the three passwords (7896, 3135, 8187) in
@@ -2739,61 +2710,33 @@ As soon as you’re ready, follow the path up from here.
 Child of Light Marianette (Blessed Field)
 
 -   Delcatty, Level 29. @ Splash Plate.
-
     -   Cosmic Power
-
     -   Baton Pass
-
     -   Hyper Voice
-
     -   Multipulse (Water)
-
 -   Indeedee, Level 27. @ Fist Plate.
-
     -   Draining Kiss
-
     -   Psyshock
-
     -   Multipulse (Fighting)
-
     -   Magical Leaf
-
 -   Stantler, Level 27. @ Icicle Plate.
-
     -   Facade
-
     -   Work Up
-
     -   Multipulse (Ice)
-
     -   Stomping Tantrum
-
 -   Drampa, Level 28.
-
     -   Dragonbreath
-
     -   Psyshock
-
     -   Shadow Ball
-
 -   Chatot, Level 27. @ Iron Plate
-
     -   Chatter
-
     -   Nasty Plot
-
     -   Multipulse (Steel)
-
     -   Air Cutter
-
 -   Bewear, Level 29. @ Silk Scarf
-
     -   Facade
-
     -   Brick Break
-
     -   Aerial Ace
-
     -   Brutal Swing
 
 Multipulse: Type is the same as the user's held Plate (like Judgment) \|
@@ -2824,29 +2767,17 @@ Pokemon.
 Gym Leader Bugsy (Glitch Field)
 
 -   Ariados, Level 14.
-
     -   Night Shade
-
     -   Poison Sting
-
     -   Constrict
-
 -   Ledian, Level 14.
-
     -   Knock Off
-
     -   Psybeam
-
     -   Comet Punch
-
 -   Scyther, Level 15.
-
     -   Quick Attack
-
     -   Wing Attack
-
     -   Pursuit
-
     -   Fury Cutter
 
 A couple Flame Wheels from Quilava plus a Rock Tomb from Onix made this
@@ -2856,21 +2787,22 @@ one simple on the Cyndaquil path. After this, you’ll get another
 The Poke Ball shop in Gearen has two new balls now, which can be useful
 for low catch rate water types like Basculin.
 
-Poke Ball Emporium New Items (3 Badges)
+Poke Ball Emporium Shop New Items (3 Badges)
 
-*Nest Ball* $1,000
-
-*Net Ball* $1,000
+|Item       |Price      |
+|-----------|-----------|
+|*Nest Ball*|$1000     |
+|*Net Ball* |$1000     |
 
 There’s also a few new berries now.
 
-Berry Emporium New Items (3 Badges)
+Berry Emporium Shop New Items (3 Badges)
 
-*Rawst Berry* $300
-
-*Chesto Berry* $300
-
-*Aspear Berry* $300
+|Item           |Price      |
+|---------------|-----------|
+|*Rawst Berry*  |$300       |
+|*Chesto Berry* |$300       |
+|*Aspear Berry* |$300       |
 
 There are a few areas we can now access with Cut. Head back out into
 Sheridan Village and cut the tree next to the shop and pick up *TM54
@@ -2879,12 +2811,12 @@ forward.
 
 We can also get more drinks!
 
-Sheridan Village Drinks New Items (Monday, Wednesday, Friday, Sunday
-Mornings Only) (3+ Badges)
+Sheridan Village Drinks Shop New Items (3+ Badges)
 
-*Lemonade* $350
-
-*Moomoo Milk* $500
+|Item           |Price      |
+|---------------|-----------|
+|*Lemonade*     |$350       |
+|*Moomoo Milk*  |$500       |
 
 Head back down into Amethyst Cave and make your way to the first room
 from Route 2. On the northwest side, there are some rock smash boulders
@@ -2896,9 +2828,8 @@ at the top.
 
 Pom-Pom Meadow
 
-|                        |          |
+| Grass                  | %        |
 |------------------------|----------|
-| Grass           | % |
 | **Oricorio (Pom-Pom)** | 40       |
 | **Yungoos**            | 30       |
 | **Cutiefly**           | 12       |
@@ -2911,11 +2842,11 @@ As soon as you’re ready, head to Route 3, west from Sheridan.
 
 Route 3 Gate Shop
 
-*Poke Ball* $200
-
-*Potion* $300
-
-*Repel* $350
+|Item       |Price      |
+|-----------|-----------|
+|*Poke Ball*|$200       |
+|*Potion*   |$300       |
+|*Repel*    |$350       |
 
 The top tile to the right of the river contains a *Honey,* and to the
 left of the RV is a *Quiet Mint.*
@@ -2927,31 +2858,18 @@ Whitney.
 Gym Leader Whitney (Glitch Field)
 
 -   Clefairy, Level 19.
-
     -   Doubleslap
-
     -   Metronome
-
     -   Softboiled
-
 -   Jigglypuff, Level 20.
-
     -   Headbutt
-
     -   Sing
-
     -   Thunderpunch
-
     -   Attract
-
 -   Miltank, Level 21.
-
     -   Milk Drink
-
     -   Stomp
-
     -   Rollout
-
     -   Attract
 
 I had Quilava, Onix, and Qwilfish, so I took advantage of Clefairy to
@@ -2964,43 +2882,24 @@ against Morty.
 Gym Leader Morty (Glitch Field)
 
 -   Misdreavus, Level 22.
-
     -   Confuse Ray
-
     -   Mean Look
-
     -   Protect
-
     -   Perish Song
-
 -   Haunter, Level 24. @ Chesto Berry.
-
     -   Curse
-
     -   Night Shade
-
     -   Rest
-
     -   Mean Look
-
 -   Mismagius, Level 24.
-
     -   Me First
-
     -   Night Shade
-
     -   Will-O-Wisp
-
     -   Charge Beam
-
 -   Gengar, Level 25. @ Wide Lens.
-
     -   Hypnosis
-
     -   Dream Eater
-
     -   Ice Punch
-
     -   Night Shade
 
 This battle sharply increases the difficulty for the Cyndaquil route! I
@@ -3016,11 +2915,10 @@ with him for now.
 
 The girl here is the Move Deleter, should you need to remove any moves.
 
-Route 3 North (Forest Field)
+Route 3 North
 
-|              |          |                |          |
+| Grass        | %        | Old Rod        | %        |
 |--------------|----------|----------------|----------|
-| Grass | % | Old Rod | % |
 | **Yamper**   | 35       | **Wooper**     | 100      |
 | Fletchinder  | 30       |                |          |
 | **Herdier**  | 24       |                |          |
@@ -3037,38 +2935,36 @@ market. All the events and shops here can only be accessed during
 daytime. Talk to Aelita during the day.
 
 Relationship Point Choices:  
+
 - I'm starving... (Aelita +2)  
 - No distractions! (Neutral)
 
 If you go with the first option, you’ll get *Vanilla, Chocolate,* or
 *Strawberry Ice Cream*.
 
-Route 3 Left Vendor
+Route 3 Left Vendor Shop
 
-*Reverse Candy* $50
-
-*Sachet* $1000
-
-*Soda Pop* $300
-
-*Sweet Heart* $100
-
-*Red Nectar* $550
-
-*Whipped Dream* $1000
+|Item           |Price      |
+|---------------|-----------|
+|*Reverse Candy*|$50        |
+|*Sachet*       |$1000      |
+|*Soda Pop*     |$300       |
+|*Sweet Heart*  |$100       |
+|*Red Nectar*   |$550       |
+|*Whipped Dream*|$1000      |
 
 We’ll eventually need Sachet and Whipped Dream to evolve Swirlix and
 Spritzee from earlier. We’re also eventually (like, 3 or 4 more badges,
 but still) going to want 10 Sweet Hearts for a quest, so go ahead and
 get those.
 
-Route 3 Upper Right Vendor
+Route 3 Upper Right Vendor Shop
 
-*Vanilla Ice Cream* $400
-
-*Choc Ice Cream* $600
-
-*Berry Ice Cream* $800
+|Item                |Price|
+|--------------------|-----|
+|*Vanilla Ice Cream* |$400 |
+|*Choc Ice Cream*    |$600 |
+|*Berry Ice Cream*   |$800 |
 
 She’ll also rarely have *Blue Moon Ice Cream* to sell. Ideally, we want
 to get a few of each for a side quest later.
@@ -3086,11 +2982,10 @@ Behind the tree below the RV is a hidden *Rare Candy,* to the left one
 tile of the center of the tree. Enter the open RV and talk to the hiker
 for some *Rose Tea.*
 
-Route 3 South (Forest Field)
+Route 3 South
 
-|              |          |                |          |
+| Grass        | %        | Old Rod        | %        |
 |--------------|----------|----------------|----------|
-| Grass | % | Old Rod | % |
 | **Nickit**   | 35       | Wooper         | 100      |
 | Fletchinder  | 30       |                |          |
 | Herdier      | 24       |                |          |
@@ -3115,9 +3010,8 @@ Head up to the top of Route 3 and go to the left and into Phasial Cave.
 
 Phasial Cave Main Areas (Cave Field)
 
-|               |          |
+| Cave          | %        |
 |---------------|----------|
-| Cave   | % |
 | Wooper        | 36       |
 | **Chewtle**   | 24       |
 | Meowth        | 20       |
@@ -3147,6 +3041,7 @@ Attempt to enter Goldenleaf Town to the south. Then, interact with the
 tent near the campfire to the north.
 
 Relationship Point Choices:  
+
 - A Gym Battle! (Ren +1)  
 - Wanna see the sights\~ (Ren +1)  
 - No reason... (Ren -2)
@@ -3156,53 +3051,29 @@ When you’re ready talk to Aelita for a battle.
 Student Aelita (Forest Field)
 
 -   Gligar, Level 28.
-
     -   Aerial Ace
-
     -   Bulldoze
-
     -   Steel Wing
-
     -   U-Turn
-
 -   Staravia, Level 29.
-
     -   Aerial Ace
-
     -   Take Down
-
     -   Steel Wing
-
     -   U-Turn
-
 -   Hawlucha, Level 31. @ Flying Gem.
-
     -   Brick Break
-
     -   Gale Strike
-
     -   Bounce
-
     -   Hone Claws
-
 -   Clobbopus, Level 30. @ Sitrus Berry
-
     -   Sitrus Berry
-
     -   Poison Sweep
-
     -   Brick Break
-
     -   Power Up Punch
-
 -   Combusken, Level 31. @ Charcoal.
-
     -   Blaze Kick
-
     -   Bulk Up
-
     -   Thunderpunch
-
     -   Night Slash
 
 This isn’t going to be that tough of a battle - her team is mostly not
@@ -3218,17 +3089,20 @@ Enter Goldenleaf town at the bottom!
 
 Defeat Sariah.
 
-Goldenleaf Town (Forest Field)
+Goldenleaf Town
 
-|                       |          |                   |          |                     |          |                |          |
-|-----------------------|----------|-------------------|----------|---------------------|----------|----------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night | % | Old Rod | % |
-| Meowth (Alolan)       | 40       | Meowth (Alolan)   | 40       | Drowzee             | 55       | Wooper         | 100      |
-| **Phanpy**            | 30       | Spoink            | 30       | **Pumpkaboo**       | 30       |                |          |
-| **Bunnelby**          | 15       | **Bunnelby**      | 15       | **Noctowl**         | 9        |                |          |
-| Pineco                | 9        | Pineco            | 9        | **Hypno**           | 4        |                |          |
-| **Diggersby**         | 4        | **Diggersby**     | 4        | **Drifloon**        | 2        |                |          |
-| **Cubone**            | 2        | **Cubone**        | 2        |                     |          |                |          |
+| Grass: Morning    | %    | Grass: Day        | %    | Grass: Night    | %  |      
+|-------------------|------|-------------------|------|-----------------|----|
+| Meowth (Alolan)   | 40   | Meowth (Alolan)   | 40   | Drowzee         | 55 |      
+| **Phanpy**        | 30   | Spoink            | 30   | **Pumpkaboo**   | 30 |      
+| **Bunnelby**      | 15   | **Bunnelby**      | 15   | **Noctowl**     | 9  |      
+| Pineco            | 9    | Pineco            | 9    | **Hypno**       | 4  |      
+| **Diggersby**     | 4    | **Diggersby**     | 4    | **Drifloon**    | 2  |      
+| **Cubone**        | 2    | **Cubone**        | 2    |                 |    |      
+
+| Old Rod        | %        |
+|----------------|----------|
+| Wooper         | 100      |
 
 We need Drifloon for Zumi’s quest, later.
 
@@ -3236,9 +3110,10 @@ The villager down from the gate here offers tutor moves.
 
 Goldenleaf Town Move Tutor
 
-Spite 2 Yellow Shards
-
-Trick 3 Blue Shards
+|Move       |Price              |
+|-----------|-------------------|
+|Spite      |2 Yellow Shards    |
+|Trick      |3 Blue Shards      |
 
 If you beat the garden guardian at the bottom of town, he’ll let you
 into his garden. Check the middle normal grass tile, and right fence
@@ -3256,17 +3131,14 @@ top hill of the town the rightmost blank space contains a *Rawst Berry.*
 
 Goldenleaf Pokemart
 
-*Great Ball* $600
-
-*Super Potion* $700
-
-*GourmetTreat* $2,000
-
-*Repel* $350
-
-*Super Repel* $500
-
-*Escape Rope* $550
+|Item          |Price|
+|--------------|-----|
+|*Great Ball*  |$600 |
+|*Super Potion*|$700 |
+|*GourmetTreat*|$2000|
+|*Repel*       |$350 |
+|*Super Repel* |$500 |
+|*Escape Rope* |$550 |
 
 Inside Ren’s house, read Reina’s diary then check the couch for $500.
 
@@ -3287,15 +3159,14 @@ Tomb* by cutting the tree and climbing the vines, and get a hidden
 
 Forgotten Path
 
-|                           |          |                   |          |                     |          |
-|---------------------------|----------|-------------------|----------|---------------------|----------|
-| Grass: Morning/Day | % | Grass: Day | % | Grass: Night | % |
-| Meowth (Alolan)           | 40       | Meowth (Alolan)   | 40       | Munna               | 40       |
-| Phanpy                    | 30       | Spoink            | 30       | Pumpkaboo           | 30       |
-| Bunnelby                  | 15       | Bunnelby          | 15       | Drowzee             | 15       |
-| Pineco                    | 9        | Pineco            | 9        | Noctowl             | 9        |
-| Diggersby                 | 4        | Diggersby         | 4        | **Linoone**         | 4        |
-| Cubone                    | 2        | Cubone            | 2        | Drifloon            | 2        |
+| Grass: Morning      | %  | Grass: Day      | %    | Grass: Night | %    |
+|---------------------|----|-----------------|------|--------------|------|
+| Meowth (Alolan)     | 40 | Meowth (Alolan) | 40   | Munna        | 40   |
+| Phanpy              | 30 | Spoink          | 30   | Pumpkaboo    | 30   |
+| Bunnelby            | 15 | Bunnelby        | 15   | Drowzee      | 15   |
+| Pineco              | 9  | Pineco          | 9    | Noctowl      | 9    |
+| Diggersby           | 4  | Diggersby       | 4    | **Linoone**  | 4    |
+| Cubone              | 2  | Cubone          | 2    | Drifloon     | 2    |
 
 ZCell 011: Forgotten Path
 
@@ -3313,9 +3184,8 @@ the middle behind the waterfall.
 
 Wispy Ruins
 
-|                       |          |
+| Cave                  | %        |
 |-----------------------|----------|
-| Cave           | % |
 | **Golett**            | 40       |
 | **Baltoy**            | 21       |
 | **Graveler (Alolan)** | 15       |
@@ -3333,9 +3203,8 @@ west of town to reach Wispy Path.
 
 Wispy Path
 
-|                          |          |                |          |
+| Grass                    | %        | Old Rod        | %        |
 |--------------------------|----------|----------------|----------|
-| Grass             | % | Old Rod | % |
 | Spewpa                   | 30       | **Basculin**   | 100      |
 | Pumpkaboo                | 30       |                |          |
 | Spoink                   | 10       |                |          |
@@ -3355,7 +3224,7 @@ ZCell 012: Wispy Path
 <img src="/assets/media/rejuv/image12.png"
 style="width:6.64583in;height:4.96875in" />
 
-Talk to the guy up here, then to **Espurr.** It will let you do a
+Talk to the guy up here, then to **Espurr**. It will let you do a
 variety of fun things with it; each increases your friendship with it.
 Choosing to give it ice cream, especially Blue Moon Ice Cream, raises it
 by a lot. Once you’ve gotten its friendship high enough and try to leave
@@ -3377,33 +3246,19 @@ his three bug types.
 International Police “C”
 
 -   Orbeetle, Level 30.
-
     -   Signal Beam
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Confuse Ray
-
 -   Ariados, Level 31. @ Poison Barb.
-
     -   Shadow Sneak
-
     -   Bug Bite
-
     -   Poison Sweep
-
     -   Swords Dance
-
 -   Galvantula, Level 32. @ Magnet.
-
     -   Thunderbolt
-
     -   Hidden Power Grass
-
     -   Charge Beam
-
     -   Signal Beam
 
 Orbeetle can be annoying if it puts you to sleep, so have a way to
@@ -3413,9 +3268,8 @@ do well here!
 
 Goldenwood Forest (2nd Visit)
 
-|               |          |                |          |
+| Grass         | %        | Old Rod        | %        |
 |---------------|----------|----------------|----------|
-| Grass  | % | Old Rod | % |
 | Mightyena     | 24       | Goldeen        | 100      |
 | Poochyena     | 20       |                |          |
 | **Tranquill** | 11       |                |          |
@@ -3453,13 +3307,9 @@ Dimensional Rift Gyarados (Forest Field)
 
 -   Rift Gyarados, Level 40. Type: Water/Ghost. Stat Spread:
     70/110/100/90/78/100. 2 Shields.
-
     -   Waterfall
-
     -   Crunch
-
     -   Shadow Sneak
-
     -   Phantom Force
 
 If it is too hard now, you can come back any time before the fifth gym.
@@ -3474,7 +3324,6 @@ a hidden *Bold Mint.* Head in.
 Relationship Point Choices:
 
 - I accept! (Aelita +2, Narcissa +4)
-
 - I dunno... (Aelita -1, Narcissa -2)
 
 Once that’s done, head back into the Pokemon Center and talk to Aelita.
@@ -3482,9 +3331,7 @@ Once that’s done, head back into the Pokemon Center and talk to Aelita.
 Relationship Point Choices:
 
 - It was nothing.. (Ren +2, Aelita +2)
-
 - Kinda uncomfortable. (Ren +1, Aelita +1)
-
 - Uhh what's happening? (Neutral)
 
 After a scene you’ll be taken into a battle. Head upstairs to talk to
@@ -3495,20 +3342,17 @@ control, beat the trainer.
 Relationship Point Choices:
 
 - How'd you know? (Neutral)
-
 - I want to go home. (Mosely -2)
-
 - Time to whoop ass! (Neutral)
 
 We’re going back to Wispy Tower. Enter Wispy Tower and go through the
 newly revealed path. After talking to Geara, Mosely and Narcissa will
 join you.
 
-Forsaken Laboratory (Short Circuit Field)
+Forsaken Laboratory
 
-|                      |          |
+| Grass                | %        |
 |----------------------|----------|
-| Grass         | % |
 | Dunsparce            | 40       |
 | **Diglett (Alolan)** | 30       |
 | **Graveler**         | 11       |
@@ -3527,54 +3371,33 @@ the screen in here.
 Relationship Point Choices:
 
 - Gregory? (Neutral)
-
 - Sirius hid this. (Neutral)
-
 - You seriously didnt know? (Mosely -2, Narcissa -2)
 
 Interact with the screen and choose one of the two top answers to not
 lose relationship points. Back in the main room, head up for a battle.
 
-Team Xen Eli and Sharon
+Team Xen Eli and Sharon (Short Circuit Field)
 
 -   Tangela, Level 31. @ Eviolite.
-
     -   Giga Drain
-
     -   Stun Spore
-
     -   Ancient Power
-
     -   Knock Off
-
 -   Lickitung, Level 31. @ Leftovers.
-
     -   Icy Wind
-
     -   Body Slam
-
     -   Rock Tomb
-
     -   Knock Off
-
 -   Honchkrow, Level 32. @ Sitrus Berry.
-
     -   Feint Attack
-
     -   Swagger
-
     -   Drill Peck
-
     -   Thunder Wave
-
 -   Mismagius, Level 32. @ Sitrus Berry.
-
     -   Mystical Fire
-
     -   Hex
-
     -   Magical Leaf
-
     -   Psywave
 
 It’s been a while since we’ve had to fight this pair, but it’s luckily
@@ -3590,13 +3413,9 @@ through the door. Go up and you’ll fight Geara!
 Xen Executive Geara (Short Circuit Field)
 
 -   Giratina, Level 37. @ Griseous Orb.
-
     -   Shadow Claw
-
     -   Dragon Breath
-
     -   Slash
-
     -   Thunderbolt
 
 This is a tough fight. You’re gonna need to break the barriers, but
@@ -3610,63 +3429,34 @@ Normal/Ground/Fairy type.
 Xen Executive Geara (Short Circuit Field)
 
 -   Persian, Level 33. @ Normal Gem.
-
     -   Dig
-
     -   Covet
-
     -   Aerial Ace
-
     -   Seed Bomb
-
 -   Marowak (Alolan), Level 34. @ Thick Club.
-
     -   Bonemerang
-
     -   Shadow Bone
-
     -   Fire Punch
-
     -   Will-o-Wisp
-
 -   Masquerain, Level 33. @ Charti Berry.
-
     -   Struggle Bug
-
     -   Shadow Ball
-
     -   Bubblebeam
-
     -   Air Slash
-
 -   Morgrem, Level 34. @ Light Clay.
-
     -   Light Screen
-
     -   Reflect
-
     -   Dazzling Gleam
-
     -   Foul Play
-
 -   Haunter, Level 35. @ Eviolite.
-
     -   Shadow Ball
-
     -   Dazzling Gleam
-
     -   Will-o-Wisp
-
     -   Sludge Bomb
-
 -   Clefairy, Level 35. @ Eviolite.
-
     -   Follow Me
-
     -   Thunder Wave
-
     -   Icy Wind
-
     -   Dazzling Gleam
 
 This is a well put together doubles team. Persian will probably hit
@@ -3684,11 +3474,10 @@ tackle a side area real fast.
 Head back to the top of Route 3 and enter the clearing on the left. Cut
 down the trees.
 
-Mirage Woods (Forest Field)
+Mirage Woods  
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | **Kecleon**  | 36       |
 | Spritzee     | 30       |
 | **Stantler** | 24       |
@@ -3700,13 +3489,9 @@ Put the wing we found into the statue.
 Ancient Kingdra (Forest Field)
 
 -   Kingdra, Level 38. 2 Shields.
-
     -   Rain Dance
-
     -   Snipe Shot
-
     -   Thunder
-
     -   Dragon Pulse
 
 This might be a tough one! If you have some way to lower its special
@@ -3744,53 +3529,29 @@ Head up and agree to use Flash, and a battle will ensue.
 Pokegang Crobat (Cave Field)
 
 -   Zubat, Level 33.
-
     -   Confuse Ray
-
     -   Swift
-
     -   Air Cutter
-
     -   Acrobatics
-
 -   Zubat, Level 33.
-
     -   Confuse Ray
-
     -   Swift
-
     -   Air Cutter
-
     -   Acrobatics
-
 -   Zubat, Level 33.
-
     -   Confuse Ray
-
     -   Swift
-
     -   Air Cutter
-
     -   Acrobatics
-
 -   Zubat, Level 33.
-
     -   Confuse Ray
-
     -   Swift
-
     -   Air Cutter
-
     -   Acrobatics
-
 -   Crobat, Level 48.
-
     -   Acrobatics
-
     -   Toxic
-
     -   Poison Fang
-
     -   Confuse Ray
 
 A good Rock or Steel type with high defense can effectively wall this
@@ -3819,18 +3580,15 @@ Enter the theater and talk to Narcissa
 Relationship Point Choices:
 
 - This will work. (Ren +2)
-
 - I'm unsure... (Ren +1)
-
 - It's a stupid idea. (Ren -2)
 
 After learning of your challenge, enter the door on the left.
 
-Backstage Theater (Haunted Field)
+Backstage Theater
 
-|                |          |
+| Walking        | %        |
 |----------------|----------|
-| Walking | % |
 | Shuppet        | 30       |
 | Rattata        | 20       |
 | **Raticate**   | 20       |
@@ -3854,63 +3612,34 @@ Relationship Point Choices:
 Pokemon Trainer Ren
 
 -   Sableye, Level 33. @ Leftovers.
-
     -   Recover
-
     -   Confuse Ray
-
     -   Night Shade
-
     -   Secret Power
-
 -   Vibrava, Level 33. @ Earth Plate.
-
     -   Ominous Wind
-
     -   Dragon Pulse
-
     -   Earthquake
-
     -   Rock Slide
-
 -   Arcanine, Level 35. @ Sitrus Berry.
-
     -   Howl
-
     -   Flamethrower
-
     -   Hidden Power Ghost
-
     -   Thunder Fang
-
 -   Cacturne, Level 34. @ Occa Berry.
-
     -   Needle Arm
-
     -   Secret Power
-
     -   Leech Seed
-
     -   Spiky Shield
-
 -   Frogadier, Level 35. @ Mystic Water.
-
     -   Icy Wind
-
     -   Secret Power
-
     -   Water Pledge
-
     -   Hidden Power Ghost
-
 -   Corviknight, Level 35. @ Occa Berry.
-
     -   Spite
-
     -   Roost
-
     -   Steel Wing
-
     -   Drill Peck
 
 This is an easy battle to be honest. Flash and Dazzling Gleam
@@ -3925,63 +3654,34 @@ Berry,* and *Rare Candy.* When you’re ready, take on Narcissa.
 Leader Narcissa (Haunted Field over Forest Field)
 
 -   Drifblim, Level 33. @ Magical Seed.
-
     -   Spectral Scream
-
     -   Hypnosis
-
     -   Hidden Power Fighting
-
     -   Icy Wind
-
 -   Mimikyu, Level 33. @ Ghost Gem.
-
     -   Shadow Claw
-
     -   Copycat
-
     -   Play Rough
-
     -   Shadow Sneak
-
 -   Polteageist, Level 33. @ Colbur Berry.
-
     -   Will-o-Wisp
-
     -   Spectral Scream
-
     -   Mega Drain
-
     -   Psyshock
-
 -   Aevian Mismagius, Level 35. @ Spooky Plate.
-
     -   Hone Claws
-
     -   Shadow Sneak
-
     -   Shadow Claw
-
     -   Seed Bomb
-
 -   Chandelure, Level 34.
-
     -   Will-o-Wisp
-
     -   Fire Spin
-
     -   Spectral Scream
-
     -   Hidden Power Grass
-
 -   Dusclops, Level 35. @ Sitrus Berry.
-
     -   Night Shade
-
     -   Will-o-Wisp
-
     -   Spectral Scream
-
     -   Pain Split
 
 Spectral Scream: Ghost \| Special \| 65 power \| 100% accuracy \| 60%
@@ -4022,11 +3722,10 @@ Now, head back into Wispy Ruins. Enter the stairs and watch the scene,
 then go up in the cave. After going up again, a couple of Shuppet will
 drop you into a pit.
 
-Wispy Chasm (Haunted Field)
+Wispy Chasm
 
-|                      |          |
+| Cave                 | %        |
 |----------------------|----------|
-| Cave          | % |
 | Golett               | 40       |
 | Zigzagoon (Galarian) | 24       |
 | Graveler             | 15       |
@@ -4083,17 +3782,16 @@ be present each day.
 
 Route 4 Entrance Area
 
-|                       |          |                   |          |                     |          |
-|-----------------------|----------|-------------------|----------|---------------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
-| **Sunflora**          | 24       | **Bounsweet**     | 44       | **Bounsweet**       | 40       |
-| Sunkern               | 20       | **Sunflora**      | 20       | Meowth              | 35       |
-| **Bounsweet**         | 20       | **Togedemaru**    | 19       | Tranquill           | 19       |
-| Meowth                | 15       | Fletchinder       | 10       | **Togedemaru**      | 4        |
-| Tranquill             | 14       | Tranquill         | 10       | Plusle              | 1        |
-| **Togedemaru**        | 5        | Meowth            | 5        | Linoone             | 1        |
-| Plusle                | 1        | Linoone           | 1        |                     |          |
-| Linoone               | 1        | Minun             | 1        |                     |          |
+| Grass: Morning  | %  | Grass: Day     | %  | Grass: Night   | %    |
+|-----------------|----|----------------|----|----------------|------|
+| **Sunflora**    | 24 | **Bounsweet**  | 44 | **Bounsweet**  | 40   |
+| Sunkern         | 20 | **Sunflora**   | 20 | Meowth         | 35   |
+| **Bounsweet**   | 20 | **Togedemaru** | 19 | Tranquill      | 19   |
+| Meowth          | 15 | Fletchinder    | 10 | **Togedemaru** | 4    |
+| Tranquill       | 14 | Tranquill      | 10 | Plusle         | 1    |
+| **Togedemaru**  | 5  | Meowth         | 5  | Linoone        | 1    |
+| Plusle          | 1  | Linoone        | 1  |                |      |
+| Linoone         | 1  | Minun          | 1  |                |      |
 
 There are also Kricketot and Misdreavus in the areas to the north of
 where we start at certain times of day.
@@ -4103,17 +3801,16 @@ the north, and Nim will join your party.
 
 Route 4 Central Area
 
-|                       |          |                   |          |                     |          |
-|-----------------------|----------|-------------------|----------|---------------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night | % |
-| Sunflora              | 24       | Bounsweet         | 44       | Bounsweet           | 40       |
-| Sunkern               | 20       | Sunflora          | 20       | Meowth              | 35       |
-| Bounsweet             | 20       | Togedemaru        | 19       | Tranquill           | 19       |
-| Meowth                | 15       | Fletchinder       | 10       | Togedemaru          | 4        |
-| Tranquill             | 14       | Tranquill         | 10       | Plusle              | 1        |
-| Togedemaru            | 5        | Meowth            | 5        | **Nuzleaf**         | 1        |
-| Plusle                | 1        | **Nuzleaf**       | 1        |                     |          |
-| **Nuzleaf**           | 1        | Minun             | 1        |                     |          |
+| Grass: Morning   | %   | Grass: Day  | %   | Grass: Night | %   |
+|------------------|-----|-------------|-----|--------------|-----|
+| Sunflora         | 24  | Bounsweet   | 44  | Bounsweet    | 40  |
+| Sunkern          | 20  | Sunflora    | 20  | Meowth       | 35  |
+| Bounsweet        | 20  | Togedemaru  | 19  | Tranquill    | 19  |
+| Meowth           | 15  | Fletchinder | 10  | Togedemaru   | 4   |
+| Tranquill        | 14  | Tranquill   | 10  | Plusle       | 1   |
+| Togedemaru       | 5   | Meowth      | 5   | **Nuzleaf**  | 1   |
+| Plusle           | 1   | **Nuzleaf** | 1   |              |     |
+| **Nuzleaf**      | 1   | Minun       | 1   |              |     |
 
 You’ll also notice that there are Pidove, Hoothoot, Cubone, as well as
 **Flabebe** and **Emolga** in this area!
@@ -4133,6 +3830,7 @@ Head back to the left and let Cairo break the rock. You’ll get a *Moomoo
 Milk.* Head up.
 
 Relationship Point Choices:  
+
 - You okay, Nim? (Aelita +1)  
 - You're acting weird... (Neutral)
 
@@ -4148,23 +3846,17 @@ Enter Cairo’s house. He has a shop set up.
 
 Cairo’s Shop (\<8 Badges)
 
-*Joy Scent (10)* $5,000
-
-*Excite Scent (10)* $8,500
-
-*Vivid Scent (10)* $11,000
-
-*Bike Voucher* 250 Red Essences
-
-*Noctowl Crest* 2,000 Red Essences
-
-*Phione Crest* 2,000 Red Essences
-
-*Fragments (5)* $4,956
-
-*Fragments (10)* $14,868
-
-*Fragments (25)* $24,780
+|Item               |Price             |
+|-------------------|------------------|
+|*Joy Scent (10)*   |$5000             |
+|*Excite Scent (10)*|$8500             |
+|*Vivid Scent (10)* |$11000            |
+|*Bike Voucher*     |250 Red Essences  |
+|*Noctowl Crest*    |2,000 Red Essences|
+|*Phione Crest*     |2,000 Red Essences|
+|*Fragments (5)*    |$4956             |
+|*Fragments (10)*   |$14868            |
+|*Fragments (25)*   |$24780            |
 
 Crests are unique held items that give the species in question unique
 strengths to make them better. As you can tell from the two on display,
@@ -4182,63 +3874,34 @@ Town to the north for a battle with Nim.
 Apprentice Nim (Psychic Terrain)
 
 -   Stonjourner, Level 37. @ Focus Sash.
-
     -   Rock Slide
-
     -   Stealth Rock
-
     -   Heavy Slam
-
     -   Body Press
-
 -   Darmanitan, Level 37. @ Kee Berry.
-
     -   Rock Slide
-
     -   Psychic
-
     -   Flamethrower
-
     -   Fire Punch
-
 -   Lunatone, Level 38. @ Passho Berry.
-
     -   Rock Slide
-
     -   Ancient Power
-
     -   Hypnosis
-
     -   Psychic
-
 -   Solrock, Level 38. @ Assault Vest.
-
     -   Rock Slide
-
     -   Flamethrower
-
     -   Zen Headbutt
-
     -   Stone Edge
-
 -   Malamar, Level 37. @ Twisted Spoon.
-
     -   Psycho Cut
-
     -   Night Slash
-
     -   Aerial Ace
-
     -   Rock Slide
-
 -   Duosion, Level 37. @ Eviolite.
-
     -   Psychic
-
     -   Thunder Wave
-
     -   Shadow Ball
-
     -   Energy Ball
 
 Our second encounter with Nim sees her Pokemon with much stronger
@@ -4290,25 +3953,22 @@ A few orphans will sell you stuff in camp!
 
 Lost Camp: Andrew Shop
 
-*Pomeg Berry* $600
-
-*Kelpsy Berry* $600
-
-*Qualot Berry* $600
-
-*Hondew Berry* $600
-
-*Grepa Berry* $600
-
-*Tamato Berry* $600
+|Item          |Price|
+|--------------|-----|
+|*Pomeg Berry* |$600 |
+|*Kelpsy Berry*|$600 |
+|*Qualot Berry*|$600 |
+|*Hondew Berry*|$600 |
+|*Grepa Berry* |$600 |
+|*Tamato Berry*|$600 |
 
 Lost Camp: Matthew Shop
 
-*Water Stone* $2,100
-
-*Fire Stone* $2,100
-
-*Leaf Stone* $2,100
+|Item         |Price|
+|-------------|-----|
+|*Water Stone*|$2100|
+|*Fire Stone* |$2100|
+|*Leaf Stone* |$2100|
 
 As an aside, if you want quick AP, we can use Matthew’s stones to fill
 out a lot of categories Fill up a team with Pickup mons (pickup points),
@@ -4368,17 +4028,22 @@ wild Pokemon in the grass.
 
 Akuwa Town
 
-|                       |          |                     |          |                   |          |                |          |
-|-----------------------|----------|---------------------|----------|-------------------|----------|----------------|----------|
-| Grass: Morning | % | Grass: Night | % | Grass: Day | % | Old Rod | % |
-| Buizel                | 30       | Buizel              | 30       | Girafarig         | 45       | Buizel         | 70       |
-| Skitty                | 20       | Illumise            | 20       | Buizel            | 30       | Seel           | 30       |
-| Girafarig             | 15       | Girafarig           | 15       | Blitzle           | 15       |                |          |
-| Blitzle               | 15       | Noctowl             | 15       | **Audino**        | 5        |                |          |
-| **Delcatty**          | 10       | Volbeat             | 10       | **Floatzel**      | 4        |                |          |
-| **Audino**            | 5        | **Audino**          | 5        | **Lickitung**     | 1        |                |          |
-| **Floatzel**          | 4        | **Lickitung**       | 4        |                   |          |                |          |
-| **Lickitung**         | 1        | **Floatzel**        | 1        |                   |          |                |          |
+| Grass: Morning | %  | Grass: Day    | %  | Grass: Night   | %    |
+|----------------|----|---------------|--- |----------------|------|
+| Buizel         | 30 | Girafarig     | 45 | Buizel         | 30   |
+| Skitty         | 20 | Buizel        | 30 | Illumise       | 20   |
+| Girafarig      | 15 | Blitzle       | 15 | Girafarig      | 15   |
+| Blitzle        | 15 | **Audino**    | 5  | Noctowl        | 15   |
+| **Delcatty**   | 10 | **Floatzel**  | 4  | Volbeat        | 10   |
+| **Audino**     | 5  | **Lickitung** | 1  | **Audino**     | 5    |
+| **Floatzel**   | 4  |               |    | **Lickitung**  | 4    |
+| **Lickitung**  | 1  |               |    | **Floatzel**   | 1    |
+
+| Old Rod        | %        |
+|----------------|----------|
+| Buizel         | 70       |
+| Seel           | 30       |
+
 
 Head up to the gym area, but before you go in, directly head east.
 Behind a tree you’ll find Jessibelle, the sixth of nine *lost kids* who
@@ -4429,6 +4094,7 @@ will be the fields.
 We’ll wake up in the cells. Go to sleep.
 
 Relationship Point Choices:  
+
 - How did you? (Neutral)  
 - You know, the usual. (Saki +1)
 
@@ -4439,7 +4105,8 @@ Accept the fast travel, then talk to everyone in the mine. Once you do,
 the bottom area will open. Beat the trainer, then head to the sigil at
 the top of the mine.
 
-Relationship Point Choices:  
+Relationship Point Choices: 
+
 - Where's Aelita? (Neutral)  
 - Are we done here? (Aelita -1)
 
@@ -4450,9 +4117,8 @@ with wild Pokemon.
 
 Blacksteeple Castle
 
-|               |          |
+| Grass         | %        |
 |---------------|----------|
-| Grass  | % |
 | **Tangela**   | 45       |
 | **Teddiursa** | 25       |
 | **Cramorant** | 15       |
@@ -4472,21 +4138,16 @@ corner, talk to the left guard to access the shop.
 
 Blacksteeple Castle Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Ultra Ball* $1,200
-
-*Super Potion* $700
-
-*GourmetTreat* $1,500
-
-*Repel* $350
-
-*Super Repel* $500
-
-*Escape Rope* $550
+|Item          |Price|
+|--------------|-----|
+|*Poke Ball*   |$200 |
+|*Great Ball*  |$600 |
+|*Ultra Ball*  |$1200|
+|*Super Potion*|$700 |
+|*GourmetTreat*|$1500|
+|*Repel*       |$350 |
+|*Super Repel* |$500 |
+|*Escape Rope* |$550 |
 
 Talk to the right guard, then head into the courtyard. On the right-side
 upper level, you’ll find a kid, battle him to get the *Mining Kit.*
@@ -4496,7 +4157,6 @@ Enter the quarry again and talk to Adam.
 Relationship Point Choices:
 
 - I won it. (Neutral)
-
 - I stole it. (Adam -1)
 
 All those glowing rocks around can be mined for items, just like in 4th
@@ -4504,9 +4164,8 @@ gen. The item probabilities within are as follows:
 
 Mining Probabilities
 
-|                  |               |
+| Item Name        | Chance        |
 |------------------|---------------|
-| Item Name | Chance |
 | *Dome Fossil*    | 0.3%          |
 | *Helix Fossil*   | 0.6%          |
 | *Root Fossil*    | 0.3%          |
@@ -4592,33 +4251,19 @@ last is against Emma.
 Hooded Girl Emma (No Field)
 
 -   Zoroark, Level 37.
-
     -   Dark Pulse
-
     -   Flamethrower
-
     -   Shadow Ball
-
     -   Grass Knot
-
 -   Gardevoir, Level 38.
-
     -   Dazzling Gleam
-
     -   Psychic
-
     -   Shadow Ball
-
     -   Calm Mind
-
 -   Meganium, Level 38.
-
     -   Nature Power
-
     -   Magical Leaf
-
     -   Leech Seed
-
     -   Poison Powder
 
 These three can all be threatening in their own way but choosing the
@@ -4629,6 +4274,7 @@ bookshelf. Then head to the garden area to the left of the courtyard. Go
 up at the tree at the top, to reach a secret area.
 
 Relationship Point Choices:  
+
 - It was barely a riddle. (Neutral)  
 - I was stumped. (Saki +1)
 
@@ -4663,9 +4309,7 @@ the false wall, then again on the right.
 Relationship Point Choices:
 
 - We're getting out. (PianoLady +2)
-
 - I'm here to help. (PianoLady +1)
-
 - We're screwed. (PianoLady -1)
 
 Go right and up.
@@ -4673,63 +4317,34 @@ Go right and up.
 Xen Executive Madelis (Cave Field)
 
 -   Cinccino, Level 36.
-
     -   Bullet Seed
-
     -   Rock Blast
-
     -   Tail Slap
-
     -   Encore
-
 -   Tsareena, Level 37.
-
     -   Trop Kick
-
     -   Bounce
-
     -   Nature Power
-
     -   Low Sweep
-
 -   Sharpedo, Level 38. @ Focus Sash.
-
     -   Bounce
-
     -   Crunch
-
     -   Psychic Fangs
-
     -   Waterfall
-
 -   Florges, Level 37.
-
     -   Nature Power
-
     -   Dazzling Gleam
-
     -   Synthesis
-
     -   Giga Drain
-
 -   Salazzle, Level 37.
-
     -   Flamethrower
-
     -   Sludge Bomb
-
     -   Foul Play
-
     -   Toxic
-
 -   Houndoom, Level 39. @ Wise Glasses.
-
     -   Flamethrower
-
     -   Dark Pulse
-
     -   Nasty Plot
-
     -   Sludge Bomb
 
 Be wary of Cinccino, as its 5-hit rock blast is boosted by the cave and
@@ -4743,11 +4358,8 @@ to the courtyard, head back up to Neved’s office.
 Relationship Point Choices:
 
 - Are you okay? (Aelita +3)
-
 - I looked for you... (Aelita +2)
-
 - We gotta get to the top! (Aelita +1)
-
 - No time to catch up! (Aelita -1
 
 Follow the stairs all the way up and prepare for battle. Aelita will
@@ -4756,63 +4368,34 @@ join your party for this one.
 Xen Executive Neved (No Field)
 
 -   Crabominable, Level 41. @ Occa Berry.
-
     -   Ice Punch
-
     -   Drain Punch
-
     -   Rock Slide
-
     -   Crabhammer
-
 -   Tentacruel, Level 41. @ Sitrus Berry.
-
     -   Sludge Bomb
-
     -   Dazzling Gleam
-
     -   Blizzard
-
     -   Scald
-
 -   Vikavolt, Level 42.
-
     -   Thunderbolt
-
     -   Bug Buzz
-
     -   Air Slash
-
     -   Thunder Wave
-
 -   Manectric, Level 43. @ Magnet.
-
     -   Thunderbolt
-
     -   Hidden Power Ice
-
     -   Volt Switch
-
     -   Flamethrower
-
 -   Aevian Palossand, Level 44. @ Never Melt Ice.
-
     -   Ice Beam
-
     -   Shadow Ball
-
     -   Giga Drain
-
     -   Moonlight
-
 -   Barbaracle, Level 45. @ Sitrus Berry.
-
     -   X-Scissor
-
     -   Night Slash
-
     -   Razor Shell
-
     -   Rock Slide
 
 Neved has a team that’s entirely above your level cap, but you also get
@@ -4829,7 +4412,6 @@ Well….
 Madame X (No Field)
 
 -   Yveltal, Level 100. @ Soul Stone.
-
     -   Decimation
 
 This is one of those ‘impossible’ RPG battles. Ultimately, you’re
@@ -4846,9 +4428,7 @@ Whether you win or lose, watch the next scenes play out.
 Relationship Point Choices:
 
 - You came to save me? (Neutral)
-
 - Thank you... (Neutral)
-
 - I could've done it myself. (Aelita -1)
 
 Goodbye Blacksteeple Castle!
@@ -4860,9 +4440,7 @@ We’ll wake up on the ship with Adam.
 Relationship Point Choices:
 
 - ... (Neutral)
-
 - Don't feel guilty. (Adam +1)
-
 - Maybe so. (Adam +2)
 
 Grab the Poke Ball at the table to get **Mawile.**
@@ -4872,8 +4450,9 @@ There’s an Audino breeder in here, and each time you win you’ll be given
 
 Exit the room and head down then to the right.
 
-Relationship Point Choices: *         
-*- It's okay. (Melia +2)  
+Relationship Point Choices:         
+
+- It's okay. (Melia +2)  
 - I don't know... (Melia -1)  
 - ... (Melia -1)
 
@@ -4885,23 +4464,17 @@ There’s also the Akuwa town merchant here:
 
 Xen Battleship Store
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Potion* $300
-
-*Super Potion* $700
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $1500
-
-*Super Repel* $500
-
-*Reverse Candy* $50
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Potion*       |$300 |
+|*Super Potion* |$700 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$1500|
+|*Super Repel*  |$500 |
+|*Reverse Candy*|$50  |
 
 Head up the stairs, and then up the stairs at the top. Follow Melia to
 the battle room for a fight.
@@ -4909,63 +4482,34 @@ the battle room for a fight.
 Enigma Melia (Factory Field)
 
 -   Gardevoir, Level 38. @ Twisted Spoon.
-
     -   Shadow Ball
-
     -   Gilded Arrow
-
     -   Dazzling Gleam
-
     -   Wish
-
 -   Zoroark, Level 37. @ Dread Plate.
-
     -   Gilded Arrow
-
     -   Nasty Plot
-
     -   Flamethrower
-
     -   Shadow Ball
-
 -   Meganium, Level 38. @ Leftovers.
-
     -   Stun Spore
-
     -   Nature Power
-
     -   Stomping Tantrum
-
     -   Petal Blizzard
-
 -   Snorlax, Level 38. @ Silk Scarf.
-
     -   Body Slam
-
     -   Curse
-
     -   Crunch
-
     -   High Horsepower
-
 -   Togekiss, Level 39. @ Sitrus Berry.
-
     -   Aura Sphere
-
     -   Gilded Arrow
-
     -   Thunder Wave
-
     -   Flamethrower
-
 -   Doublade, Level 38. @ Occa Berry.
-
     -   Brick Break
-
     -   Iron Head
-
     -   Shadow Claw
-
     -   Shadow Sneak
 
 Gilded Arrow: Type is the same as the user's secondary type, unless the
@@ -4989,9 +4533,8 @@ Head down from the ship, and you’ll see a **Pyukumuku** on the shore.
 
 Terajuma Island
 
-|                |          |
+| Old Rod        | %        |
 |----------------|----------|
-| Old Rod | % |
 | **Carvanha**   | 100      |
 
 Hidden on this beach is a *Grass Gem.* Talk to Nim at the bottom.
@@ -5006,25 +4549,18 @@ this side to find *Soda Pop* and *Fresh Water.*
 
 Shore Store
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Potion* $300
-
-*Super Potion* $700
-
-*Antidote* $100
-
-*Ice Heal* $250
-
-*GourmetTreat* $1,500
-
-*Super Repel* $500
-
-*Reverse Candy* $50
-
-*Spice Powder* $850
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Potion*       |$300 |
+|*Super Potion* |$700 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$1500|
+|*Super Repel*  |$500 |
+|*Reverse Candy*|$50  |
+|*Spice Powder* |$850 |
 
 Some optional content will require us to have 5 total Spice Powder
 eventually, so buy them here. You’ll see a guy here who will offer to
@@ -5044,20 +4580,23 @@ Relationship Point Choices:
 
 You’ll be free to explore Terajuma Jungle after a few cutscenes.
 
-Terajuma Jungle (Forest Field)
+Terajuma Jungle
 
-|                     |          |                       |          |                   |          |                |          |
-|---------------------|----------|-----------------------|----------|-------------------|----------|----------------|----------|
-| Grass: Night | % | Grass: Morning | % | Grass: Day | % | Old Rod | % |
-| **Morelull**        | 34       | **Grubbin**           | 40       | Bibarel           | 45       | Carvanha       | 100      |
-| Hoothoot            | 20       | **Trumbeak**          | 29       | **Foongus**       | 40       |                |          |
-| Spinarak            | 10       | **Weepinbell**        | 20       | **Exeggcute**     | 9        |                |          |
-| Oddish              | 10       | Bibarel               | 10       | Butterfree        | 5        |                |          |
-| **Venonat**         | 10       | **Charjabug**         | 1        | Beedrill          | 1        |                |          |
-| **Gloom**           | 5        |                       |          |                   |          |                |          |
-| Kricketune          | 5        |                       |          |                   |          |                |          |
-| **Ariados**         | 5        |                       |          |                   |          |                |          |
-| Noctowl             | 1        |                       |          |                   |          |                |          |
+| Grass: Morning | %  | Grass: Day    | %  | Grass: Night | %   | 
+|----------------|----|-------------- |----|--------------|-----| 
+| **Grubbin**    | 40 | Bibarel       | 45 | **Morelull** | 34  | 
+| **Trumbeak**   | 29 | **Foongus**   | 40 | Hoothoot     | 20  | 
+| **Weepinbell** | 20 | **Exeggcute** | 9  | Spinarak     | 10  | 
+| Bibarel        | 10 | Butterfree    | 5  | Oddish       | 10  | 
+| **Charjabug**  | 1  | Beedrill      | 1  | **Venonat**  | 10  | 
+|                |    |               |    | **Gloom**    | 5   | 
+|                |    |               |    | Kricketune   | 5   | 
+|                |    |               |    | **Ariados**  | 5   | 
+|                |    |               |    | Noctowl      | 1   | 
+
+|Old Rod        | %        |
+|---------------|----------|
+|Carvanha       | 100      |
 
 There are also Hoppip flying around in the mornings. Via itemfinder, on
 the right side pick up a *Sitrus Berry.* Towards the left is a *Fire
@@ -5070,9 +4609,7 @@ take the long way, so head into the left path and into the cave.
 Relationship Point Choices:
 
 - Four, is that enough? (Melia +1)
-
 - What’s a badge? (Melia +2)
-
 - Can't I just swim? (Valarie +1)
 
 After a brief conversation there’s just one thing left to do for this
@@ -5085,63 +4622,34 @@ Once you’ve healed, talk to Valarie outside for her gym battle.
 Water Show Performer Valarie (Water Surface)
 
 -   Qwilfish, Level 38. @ Poison Barb.
-
     -   Waterfall
-
     -   Poison Jab
-
     -   Bounce
-
     -   Aqua Jet
-
 -   Lanturn, Level 39. @ Leftovers.
-
     -   Thunderbolt
-
     -   Whirlpool
-
     -   Hidden Power Grass
-
     -   Aquabatics
-
 -   Dewgong, Level 38. @ Elemental Seed.
-
     -   Aquabatics
-
     -   Stockpile
-
     -   Whirlpool
-
     -   Rest
-
 -   Floatzel, Level 39. @ Muscle Band.
-
     -   Waterfall
-
     -   Ice Punch
-
     -   Aqua Jet
-
     -   Brick Break
-
 -   Seaking, Level 39. @ Rindo Berry.
-
     -   Megahorn
-
     -   Waterfall
-
     -   Poison Jab
-
     -   Bounce
-
 -   Primarina, Level 40. @ Wacan Berry.
-
     -   Sparkling Aria
-
     -   Aquabatics
-
     -   Dazzling Gleam
-
     -   Ice Beam
 
 Aquabatics: Water \| Status \| Raises the user's Special Attack and
@@ -5163,6 +4671,7 @@ oriented team, though she can turn it back with Lanturn and Dewgong’s
 Whirlpool.
 
 Relationship Point Choices:  
+
 - You're strong... (Neutral)  
 - It was pretty even. (Neutral)  
 - Ez. (Valarie -2)
@@ -5489,7 +4998,7 @@ get *Scope Lens!* We’ll get another Up-Grade shortly, so don’t worry
 about this one.
 
 There’s an entrance to the Safari Zone in the northeast side of town, so
-go ahead and enter for $3,500.
+go ahead and enter for $3500.
 
 You’ll get 800 steps and 30 Poke Balls per run. I recommend grabbing a
 Level 35-38 Pokemon and a lot of repels - most of the 1% encounter
@@ -5916,7 +5425,7 @@ vines, so you can progress through the jungle easier!
 Head into the cave in the water below, which is now opened. Grab the
 *TM51 Steel Wing* and *Blast Powder.*
 
-Return to the help center to get $4,326! (+1 Karma)
+Return to the help center to get $4326! (+1 Karma)
 
 HQuest 14: Bandit at Large
 
@@ -5948,7 +5457,7 @@ HQuest 14: Bandit at Large
     Powder.*
 
 -   Return to the help center to get a **Bulbasaur** egg, a *Rare
-    Candy,* and $5,000! (+1 Karma)
+    Candy,* and $5000! (+1 Karma)
 
 HQuest 15: Building Bridges
 
@@ -5991,7 +5500,7 @@ take it out.
 -   Enter, then catch **Rowlet** in there. This is also where the Mossy
     Rock is located. Hidden is a *Red Shard* as well.
 
--   Return to the help center to get $4,890 and a *Sun Stone!* (+1
+-   Return to the help center to get $4890 and a *Sun Stone!* (+1
     Karma)
 
 HQuest 16: Find It!
@@ -6004,7 +5513,7 @@ HQuest 16: Find It!
 -   Heal at the Kakori Pokemon center, then talk to the guy in the top
     left.
 
--   After one battle, return to the help center to get $4,255. (+1
+-   After one battle, return to the help center to get $4255. (+1
     Karma)
 
 HQuest 17: Battle Me Again!
@@ -6083,7 +5592,7 @@ though. As before getting a team with near perfect synergy that counters
 each of her mons and you might sneak out a victory. You can also wait
 till the next level cap if you want to make this one easier.
 
-Anyways, return to the help center to get $4,500, 10 *Reverse Candies,*
+Anyways, return to the help center to get $4500, 10 *Reverse Candies,*
 10 *Max Repels,* and 10 *Super Potions.* (+1 Karma)
 
 If you’ve done all the help quests, your reward is access to the safari
@@ -6470,7 +5979,7 @@ it. The second is left behind some trees. The third is in the upper left
 corner between some dumpsters. Give them back to get a *Thunderstone!*
 
 Talk to the woman with the cart by the Gearen City Entrance. She’ll
-offer you a *Link Heart* for $10,000. This will evolve a trade evolution
+offer you a *Link Heart* for $10000. This will evolve a trade evolution
 for us, so I recommend grabbing it now.
 
 Enter the Magnolia Library and talk to Zumi upstairs to get our next
@@ -6481,9 +5990,9 @@ The Shopping Emporium has new wares for us now that we have five badges:
 
 Poke Ball Emporium New Items (5 Badges)
 
-*Timer Ball* $1,000
+*Timer Ball* $1000
 
-*Dive Ball* $1,000
+*Dive Ball* $1000
 
 Berry Emporium New Item (5 Badges)
 
@@ -7357,7 +6866,7 @@ Teila Resort Left Vendor Store
 
 *Ice Heal* $250
 
-*GourmetTreat* $2,000
+*GourmetTreat* $2000
 
 *Super Repel* $500
 
@@ -7367,15 +6876,15 @@ Teila Resort Left Vendor Store
 
 Teila Resort Middle Vendor Store
 
-*Berry Juice* $1,000
+*Berry Juice* $1000
 
 Teila Resort Right Vendor Store
 
-*Apophyll Pancakes* $3,000
+*Apophyll Pancakes* $3000
 
-*Tart Apple* $1,100
+*Tart Apple* $1100
 
-*Sweet Apple* $1,100
+*Sweet Apple* $1100
 
 Head into the building with the gym sign at the top. Talk to Tesla and
 Melia for a while, then talk to the guy in the bottom left corner with a
@@ -7387,8 +6896,8 @@ ZCell 035: Teila Resort
 style="width:6.65625in;height:4.98958in" />
 
 If you talk to the girl in the left side near Tesla, she’ll offer your
-Pokemon massage packages. The cheapest is $1,500, the next is $3,500,
-and the last is $6,500, which comes with *3 Fresh Waters* and 3
+Pokemon massage packages. The cheapest is $1500, the next is $3500,
+and the last is $6500, which comes with *3 Fresh Waters* and 3
 *Revives!* Each sequentially increases your Pokemon’s happiness, though
 if you want to get it up quickly, I still recommend the friendship
 berries or Blue Moon Ice Creams.
@@ -7946,7 +7455,7 @@ Kristiline Ranger Center Store
 
 *Ice Heal* $250
 
-*GourmetTreat* $2,000
+*GourmetTreat* $2000
 
 *Super Repel* $500
 
@@ -8102,7 +7611,7 @@ return.
 To proceed the story a bit, head into Amber’s room and talk to the crew.
 We must return to the Sapphire Museum in Kristiline Town. If you
 retrieved the painter, now you can choose a sculpture and get paid
-$10,000. There is a *Cherish Ball* in the trash to the right.
+$10000. There is a *Cherish Ball* in the trash to the right.
 
 Head upstairs and read about Regice.
 
@@ -8266,7 +7775,7 @@ style="width:6.54167in;height:4.91139in" />
     re-enter through the Safari Zone. Surf through the cave. Chase
     **Wimpod** into the bottom left corner for a battle!
 
--   Return to the help center to get: $6,245, *Revival Herb,* and
+-   Return to the help center to get: $6245, *Revival Herb,* and
     **Mareep.** (+1 Karma)
 
 HQuest 19: Take my Quiz!
@@ -8276,7 +7785,7 @@ HQuest 19: Take my Quiz!
 
 -   The answers to his quiz are: 4, Calmness, and 5.
 
--   After...that… head back to the help center to get $10,0000. (+1
+-   After...that… head back to the help center to get $10000. (+1
     Karma)
 
 HQuest 20: Defend Me!
@@ -8288,7 +7797,7 @@ HQuest 20: Defend Me!
 
 -   Beat all the AA grunts in here.
 
--   Return to the help center to get $4,000 and *Mystic Water.*
+-   Return to the help center to get $4000 and *Mystic Water.*
 
 HQuest 21: Research
 
@@ -8671,7 +8180,7 @@ Now, we should have found all nine kids. Ctrl + F the phrase “lost kid”
 in the guide to get any that you missed. So, head back to Route 4, and
 enter the lost camp.
 
-Donate the last $7,500 to Maman. After a scene, head back outside and
+Donate the last $7500 to Maman. After a scene, head back outside and
 take the truck to Sheridan Village.
 
 ## Carotos Mountain 2nd Visit - Carotos2
@@ -8934,25 +8443,25 @@ Head back into the shop, and they’ll have wares:
 
 Kristiline T.M. Shop (\<12 Badges)
 
-*RM02 Avalanche* $50,000
+*RM02 Avalanche* $50000
 
-*RM03 Zap Cannon* $50,000
+*RM03 Zap Cannon* $50000
 
-*RM04 Metronome* $25,000
+*RM04 Metronome* $25000
 
-*RM06 Retaliate* $25,000
+*RM06 Retaliate* $25000
 
-*RM07 Dynamic Punch* $50,000
+*RM07 Dynamic Punch* $50000
 
-*RM08 Vacuum Wave* $25,000
+*RM08 Vacuum Wave* $25000
 
-*RM09 Tri Attack* $25,000
+*RM09 Tri Attack* $25000
 
-*TM141 Fire Fang* $20,000
+*TM141 Fire Fang* $20000
 
-*TM142 Thunder Fang* $20,000
+*TM142 Thunder Fang* $20000
 
-*TM143 Psycho Cut* $70,000
+*TM143 Psycho Cut* $70000
 
 Buy these if you’d like!
 
@@ -9544,13 +9053,13 @@ She’ll then give you a *Repel.*
 
 Akuwa Town Pokemart
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
-*Luxury Ball* $1,000
+*Luxury Ball* $1000
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Repel* $350
 
@@ -9608,13 +9117,13 @@ Resort and enter the dance hall.
 
 Concert Hall Left Shop
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
 *Super Potion* $700
 
 *Burn Heal* $250
 
-*GourmetTreat* $2,000
+*GourmetTreat* $2000
 
 Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M.* You can
 also battle her. Talk to the girl at the top. She’ll tell us about
@@ -9793,17 +9302,17 @@ Kugearen City Pokemart
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Super Potion* $700
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
 *Antidote* $100
 
 *Ice Heal* $250
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Repel* $350
 
@@ -10168,7 +9677,7 @@ West Gearen City Main Area
 | Purugly               | 1        |                           |          |
 | **Perrserker**        | 1        |                           |          |
 
-There’s a woman selling *Blast Powder* for $25,000. It’s pretty
+There’s a woman selling *Blast Powder* for $25000. It’s pretty
 expensive and unnecessary to get it here.
 
 ZCell 055: West Gearen City
@@ -10195,11 +9704,11 @@ Enter the red door with the sign to the left and up.
 
 WG Rare Fossil Shop
 
-*Old Amber* $75,000
+*Old Amber* $75000
 
-*Cover Fossil* $75,000
+*Cover Fossil* $75000
 
-*Plume Fossil* $75,000
+*Plume Fossil* $75000
 
 Take the truck guy to Akuwa Town to revive **Aerodactyl**, **Archen**,
 and **Tirtouga**!
@@ -10242,7 +9751,7 @@ HQuest 23: Generator Problems (Need to have freed Dufaux)
 -   Make your way to the generator room and watch all the events unfold.
     Narcissa will leave for Goldenleaf Town.
 
--   Claim your reward: $3,500. Also, bring a Nosepass or a Magneton to
+-   Claim your reward: $3500. Also, bring a Nosepass or a Magneton to
     the generator room and they will evolve!
 
 -   In the generator room, you can find *TM64 Explosion* and the
@@ -10263,7 +9772,7 @@ HQuest 24: House Sit
 
 -   Re-enter the house, and head up and right.
 
--   Claim your reward: $5,500.
+-   Claim your reward: $5500.
 
 HQuest 25: Hidden Library 3 (Requires H.L. 1 and 2)
 
@@ -10305,7 +9814,7 @@ Unown Dimension
     left to get MegaStone: *Banettite* and right to get MegaStone:
     *Heracronite.* Again, we can’t yet use these, but good to have.
 
--   Return to grab $4,000.
+-   Return to grab $4000.
 
 As a reward for finishing all the quests, you’ll get a **Turtwig** egg!
 (+1 Karma)
@@ -10687,17 +10196,17 @@ Grand Express Pokemart
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Super Potion* $700
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
 *Antidote* $100
 
 *Ice Heal* $250
 
-*GourmetTreat* $2,000
+*GourmetTreat* $2000
 
 *Repel* $350
 
@@ -10815,11 +10324,11 @@ Now, the shop inside is in business:
 
 Yui’s Ranch Store (Not open at night)
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Super Repel* $500
 
@@ -11306,7 +10815,7 @@ style="width:6.82292in;height:5.08909in"
 alt="A picture containing text Description automatically generated" />
 
 Cross the bridge. You’ll observe that you can take the train between
-areas for $1,950. Since GDC is so large, I recommend at least exploring
+areas for $1950. Since GDC is so large, I recommend at least exploring
 all the connections by foot (or bike) before you start fast hopping, at
 least to learn.
 
@@ -11420,15 +10929,15 @@ Dream District West Spice Store
 
 *EnergyPowder* $500
 
-*Pure Incense* $9,600
+*Pure Incense* $9600
 
-*Luck Incense* $9,600
+*Luck Incense* $9600
 
-*Full Incense* $9,600
+*Full Incense* $9600
 
-*Wave Incense* $9,600
+*Wave Incense* $9600
 
-*Odd Incense* $9,600
+*Odd Incense* $9600
 
 *Full Heal* $600
 
@@ -11497,7 +11006,7 @@ Shopping District Ice Cream (Snow / Blizzard Only)
 
 1x *Casteliacone* $100
 
-12x *Casteliacone* $1,000
+12x *Casteliacone* $1000
 
 Hidden around the shopping district is *Super Repel, Repel, Elixir,
 Yellow Shard, Super Potion,* and $1400 total.
@@ -11528,13 +11037,13 @@ Shopping District Mall 2F Vendor 2
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Full Heal* $600
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*Ultra Potion* $2,200
+*Ultra Potion* $2200
 
 *Escape Rope* $550
 
@@ -11704,7 +11213,7 @@ Talk to Alice and Allen in the kitchen again, then to a guy outside the
 building.
 
 Enter the medicine shop in Dream District West. Buy two *Nightmare
-Medallions* for $4,800 each - one for a quest later.
+Medallions* for $4800 each - one for a quest later.
 
 ## Darchlight Manor Second Visit - DLManor2
 
@@ -11857,9 +11366,9 @@ vendor will give us a *Coin Case* if we have neglected to get one yet.
 
 Nightmare Casino Left Vendor
 
-50 Coins $1,000
+50 Coins $1000
 
-500 Coins $10,000
+500 Coins $10000
 
 Nightmare Casino Right Vendor
 
@@ -12275,21 +11784,21 @@ Stamp!*
 
 Shopping District Mall 3F Vendor 1
 
-*Fire Stone* $2,100
+*Fire Stone* $,100
 
-*Water Stone* $2,100
+*Water Stone* $2100
 
-*Leaf Stone* $2,100
+*Leaf Stone* $2100
 
-*Thunderstone* $2,100
+*Thunderstone* $2100
 
-*Sun Stone* $2,100
+*Sun Stone* $2100
 
-*Moon Stone* $2,100
+*Moon Stone* $2100
 
-*Power Lens* $2,100
+*Power Lens* $2100
 
-*Power Band* $2,100
+*Power Band* $2100
 
 Shopping District Mall 3F Vendor 2
 
@@ -12336,7 +11845,7 @@ Axis High University
 | Goldeen         | 20       |                |          |
 | Seaking         | 20       |                |          |
 
-Start to the right. The guy nearby will sell you a Chatot for $15,000.
+Start to the right. The guy nearby will sell you a Chatot for $15000.
 Grab the *Ether* down from here. The girl to the right is a tutor.
 
 Axis High University Move Tutor (Right)
@@ -12389,19 +11898,19 @@ Axis High University Left Vendor Store
 
 *Reverse Candy* $50
 
-*Sachet* $1,000
+*Sachet* $1000
 
-*Funnel Cake* $7,000
+*Funnel Cake* $7000
 
-*Whipped Dream* $1,000
+*Whipped Dream* $1000
 
-*Apophyll Pancakes* $3,000
+*Apophyll Pancakes* $3000
 
-*Rare Candy* $30,000
+*Rare Candy* $30000
 
 Talk to the guy on the left. He’ll offer us a chance at a little game,
-depending on which bait we buy. Standard bait is $2,000, Delicious bait
-is $7,500, and Gourmet bait is $20,000. Here’s a breakdown of what you
+depending on which bait we buy. Standard bait is $2000, Delicious bait
+is $7500, and Gourmet bait is $20000. Here’s a breakdown of what you
 can get for each:
 
 <table>
@@ -12530,7 +12039,7 @@ Next you have to fight a Level 1 Deoxys. Obviously it is easy, but for
 relationship points losing grants (Aelita -1, Vivian -1) and running
 away grants (Aelita -2, Vivian -2).
 
-Get $5,000 from Katsu in Kugearen, Once in Amberette Town, enter the
+Get $5000 from Katsu in Kugearen, Once in Amberette Town, enter the
 right house and get the *Time Gear Amulet!*
 
 Take the driver to Kugearen then go east through the woods to get to
@@ -13253,13 +12762,13 @@ style="width:6.73958in;height:5.03125in" />
 
 The Underground Shop (Inside)
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
-*Dusk Ball* $1,000
+*Dusk Ball* $1000
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*Revive* $8,500
+*Revive* $8500
 
 *Full Heal* $600
 
@@ -13278,15 +12787,15 @@ The Underground Shop (Left)
 
 *Quick Powder* $10
 
-*Blast Powder* $2,500
+*Blast Powder* $2500
 
 The Underground Shop (Right)
 
-*Oval Stone* $2,100
+*Oval Stone* $2100
 
 *Sticky Barb* $200
 
-*Charcoal* $9,800
+*Charcoal* $9800
 
 *Light Ball* $100
 
@@ -13408,7 +12917,7 @@ choices.
 -   Once you emerge victorious, talk to Looker and Anabel on 36F to get
     the *Rift Notes.*
 
--   Return to the help center to get $25,000 and the third Department
+-   Return to the help center to get $25000 and the third Department
     Store Stamp!
 
 -   At some point, head back to the room where you fought Ferrothorn,
@@ -13417,17 +12926,17 @@ choices.
 
 Shopping District Mall 4F Vendor 1
 
-*HP Up* $9,800
+*HP Up* $9800
 
-*Protein* $9,800
+*Protein* $9800
 
-*Iron* $9,800
+*Iron* $9800
 
-*Carbos* $9,800
+*Carbos* $9800
 
-*Calcium* $9,800
+*Calcium* $9800
 
-*Zinc* $9,800
+*Zinc* $9800
 
 Buy one Protein while you’re here for a quest later.
 
@@ -13755,7 +13264,7 @@ Top Right Pokemon Prizes
 That said, they’re ridiculously expensive. It would probably take
 something like 5-10 hours of Voltorb flip to get enough coins to get all
 of them. In the money to coins conversion, to get all of them you would
-need to convert $1,670,000, which you probably do not have unless you
+need to convert $1670000, which you probably do not have unless you
 haven’t been buying anything and have spammed Pay Day or something. But…
 for all five, this is the only way to get them right now. So, grind it
 out now or later if you want to complete your Pokedex.
@@ -14100,17 +13609,17 @@ Sashila Shop
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
-*Mineral Ball* $1,200
+*Mineral Ball* $1200
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
 *Max Repel* $700
 
 *Burn Heal* $250
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Reverse Candy* $50
 
@@ -14318,17 +13827,17 @@ Hiyoshi City Shop Bottom Vendor
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Super Potion* $700
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*Ultra Potion* $2,200
+*Ultra Potion* $2200
 
 *Awakening* $250
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Reverse Candy* $50
 
@@ -14729,7 +14238,7 @@ style="width:6.6875in;height:5in" />
 
 -   Talk to Damien once more outside and watch the scene that plays out.
 
--   Return to the help center to claim your reward: $22,500, a *Link
+-   Return to the help center to claim your reward: $22500, a *Link
     Heart, Sitrus Berries*, and *Roseli Berries.* (+1 Karma).
 
 Sashila Village Help Quest 3: My Sister Fell...
@@ -14745,7 +14254,7 @@ Sashila Village Help Quest 3: My Sister Fell...
 -   Go all the way back to Zorrialyn Coast, and you’ll see the Exeggutor
     by the Obelisk.
 
--   Return to the help center to get $32,500 and MegaStone *Abomasite!*
+-   Return to the help center to get $32500 and MegaStone *Abomasite!*
     Nice. (+1 Karma).
 
 HQuest 30: I need to get Stronger!
@@ -14821,7 +14330,7 @@ Alternatively, fighting fire with fire works well here, as only her own
 Ninetales and the frail Lycanroc resist your own Heat Wave. If you got
 here with your double battle ability, you could do one more.
 
--   Return to the help center to get $32,500 and a *Scented Lure.* (+1
+-   Return to the help center to get $32500 and a *Scented Lure.* (+1
     Karma).
 
 ## Sand Stream Cave - SSCave1 
@@ -14967,17 +14476,17 @@ GDC Tournament Shop
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Super Potion* $700
 
-*Hyper Potion* $1,200
+*Hyper Potion* $1200
 
-*Ultra Potion* $2,200
+*Ultra Potion* $2200
 
 *Awakening* $250
 
-*GourmetTreat* $1,500
+*GourmetTreat* $1500
 
 *Reverse Candy* $50
 
@@ -15153,15 +14662,15 @@ Go to Kristiline Town next. The T.M. shop has updated wares:
 
 Kristiline T.M. Shop New Items (12+ Badges)
 
-*RM01 Hone Claws* $150,000
+*RM01 Hone Claws* $150000
 
-*RM05 Sucker Punch* $100,000
+*RM05 Sucker Punch* $100000
 
-*TM116 Mega Kick* $150,000
+*TM116 Mega Kick* $150000
 
-*TM125 Charm* $15,000
+*TM125 Charm* $15000
 
-*TM155 Eerie Impulse* $15,000
+*TM155 Eerie Impulse* $15000
 
 Next, we’re heading to Lost Camp. If you’ve completed all three parts of
 this quest so far, enter Maman’s house and go upstairs. After some
@@ -15624,7 +15133,7 @@ earlier patch).
 Talk to Kecleon in the middle of the route. He’ll offer to sell the two
 crests that correspond to the starters we did NOT choose in the virtual
 league. He’ll sell the *Meganium Crest, Typhlosion Crest,* and
-*Feraligatr Crest* for $250,000 each. Steep, but worth it if you are
+*Feraligatr Crest* for $250000 each. Steep, but worth it if you are
 using any of these three and didn’t get their crest via the virtual
 league quest.
 
@@ -15732,7 +15241,7 @@ HQuest 31: Poke Ball Conundrum
 
 -   Beat the Death Wings - they use exclusively Steel and Water types.
 
--   Return to the Help Center to get your reward - $12,356, and ZCrystal
+-   Return to the Help Center to get your reward - $12356, and ZCrystal
     *Aloraichium-Z.* (+1 Karma)
 
 -   Now, return to the Poke Ball shop to get 15 *Ultra Balls.* We’ll
@@ -15746,7 +15255,7 @@ HQuest 32: Forest Restoration
 -   Talk to Adrienn in front of where we fought Gyarados (remember
     that?)
 
--   We’re gonna need to submit 3 workers, 1 Scyther, and $48,000. Go
+-   We’re gonna need to submit 3 workers, 1 Scyther, and $48000. Go
     ahead and submit the money when you have it.
 
 -   Fly to Kakori Village and enter the Jeminra Woods Safari Zone.
@@ -15762,7 +15271,7 @@ HQuest 32: Forest Restoration
 -   Return to Adrienn and hand over the Scyther, then ask to see
     Progress.
 
--   We’re gonna need $58,000, 1 Architect, and 3 Fishermen. Submit the
+-   We’re gonna need $58000, 1 Architect, and 3 Fishermen. Submit the
     money.
 
 -   Fisherman 1: On a bench east of the East Gearen → Route 1 Station.
@@ -15779,7 +15288,7 @@ HQuest 32: Forest Restoration
 
 -   Return to Adrienn and inquire about progress.
 
--   Next, we’ll need to submit $68,000, 7 Tiny Mushrooms, 1 bag of
+-   Next, we’ll need to submit $68000, 7 Tiny Mushrooms, 1 bag of
     Stardust, and 1 Poliwag.
 
 -   If you haven’t completed the Poliwag search quest, do so now. Feel
@@ -15821,14 +15330,14 @@ Goldenwood Park
 -   After the scene, exit this room and enter the room on the right at
     the bottom, and grab ZCrystal *Normalium-Z.*
 
--   Return to the help center to get (back) $250,000, and MegaStone
+-   Return to the help center to get (back) $250000, and MegaStone
     *Mawilite.* (+1 Karma)
 
 HQuest 33: Mall Opportunities
 
 -   Head to the mall and meet the girl at the very top.
 
--   Donate $30,000 to her… Then talk to her in the shop to get *Occa
+-   Donate $30000 to her… Then talk to her in the shop to get *Occa
     Berry.*
 
 -   Give her 5 Occa Berries after either farming them or using the stash
@@ -15848,7 +15357,7 @@ HQuest 33: Mall Opportunities
 
 -   Talk to ICSW again, then talk to Aya in the lab center.
 
--   Return to the help center to get $25,840 and MegaStone
+-   Return to the help center to get $25840 and MegaStone
     *Altarianite.* (+1 Karma).
 
 After doing all three quests, head over to Venam’s gym to fight Aya.
@@ -15934,7 +15443,7 @@ Zen Headbutt 4 Green Shards
 
 One more quest we can do. Head to Oblitus Town. If you’ve done the Yui’s
 ranch quest, enter Kelvin’s house on the right side of town and get the
-*PokeFlute* for $45,000*.* Then, go to Honec Woods where **Snorlax** is
+*PokeFlute* for $45000. Then, go to Honec Woods where **Snorlax** is
 to get it.
 
 ## Route 4 Thirteen Badge Update - 4Route4
@@ -16145,7 +15654,7 @@ here.
 
 Zone Zero Left Grunt
 
-*Blast Powder* $2,500
+*Blast Powder* $2500
 
 Zone Zero Right Grunt
 
@@ -16153,7 +15662,7 @@ Zone Zero Right Grunt
 
 *Great Ball* $600
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
 *Super Repel* $500
 
@@ -17425,13 +16934,13 @@ tutor inside. The left Goomy has a little shop!
 
 Goomidra Crest Shop
 
-*Bastiodon Crest* $100,000
+*Bastiodon Crest* $100000
 
-*Dedenne Crest* $100,000
+*Dedenne Crest* $100000
 
-*Rampardos Crest* $100,000
+*Rampardos Crest* $100000
 
-*Whiscash Crest* $100,000
+*Whiscash Crest* $100000
 
 ## Zorrialyn Labyrinth 2<sup>nd</sup> Visit - ZorLab2
 
@@ -17673,9 +17182,9 @@ breeding is always an option). There are 34.
 
 -   Walrein. Evergreen Trench or evolve a Sealeo.
 
-For submitting at least 10, you’ll get $60,000 and the *Super Rod.* For
-submitting at least 20, you’ll get another $60,000. For submitting all
-34, you’ll get $80,000 as well as **Froakie.** Nice (+3 Karma).
+For submitting at least 10, you’ll get $60000 and the *Super Rod.* For
+submitting at least 20, you’ll get another $60000. For submitting all
+34, you’ll get $80000 as well as **Froakie.** Nice (+3 Karma).
 
 Now that we have the Super Rod, there are a whole bunch of areas that
 now hold strong water Pokemon. The Super Rod tables for the areas we
@@ -18225,7 +17734,7 @@ quests we can take care of right now before progressing the story
 further.
 
 As a note, if we head over to the Pokemon Hospital south from here, we
-can spend $50,000 at night to max out one EV, max out one IV, and give
+can spend $50000 at night to max out one EV, max out one IV, and give
 Pokerus to a single Pokemon. This is really only critical for the IV
 itself, but the price is high. Up to you if you have a particularly bad
 IV.
@@ -18336,45 +17845,45 @@ GDC, then go to the shopping district and into the store.
 
 Shopping District Mall 5F Vendor 1
 
-*Occa Berry* $3,000
+*Occa Berry* $3000
 
-*Passho Berry* $3,000
+*Passho Berry* $3000
 
-*Wacan Berry* $3,000
+*Wacan Berry* $3000
 
-*Rindo Berry* $3,000
+*Rindo Berry* $3000
 
-*Yache Berry* $3,000
+*Yache Berry* $3000
 
-*Payapa Berry* $3,000
+*Payapa Berry* $3000
 
-*Tanga Berry* $3,000
+*Tanga Berry* $3000
 
-*Charti Berry* $3,000
+*Charti Berry* $3000
 
-*Custap Berry* $3,000
+*Custap Berry* $3000
 
-*Chople Berry* $3,000
+*Chople Berry* $3000
 
 Shopping District Mall 5F Vendor 2
 
-*Kebia Berry* $3,000
+*Kebia Berry* $3000
 
-*Shuca Berry* $3,000
+*Shuca Berry* $3000
 
-*Coba Berry* $3,000
+*Coba Berry* $3000
 
-*Haban Berry* $3,000
+*Haban Berry* $3000
 
-*Kasib Berry* $3,000
+*Kasib Berry* $3000
 
-*Colbur Berry* $3,000
+*Colbur Berry* $3000
 
-*Babiri Berry* $3,000
+*Babiri Berry* $3000
 
-*Chilan Berry* $3,000
+*Chilan Berry* $3000
 
-*Roseli Berry* $3,000
+*Roseli Berry* $3000
 
 Shopping District Mall 6F Vendor 1
 
@@ -18426,77 +17935,77 @@ Shopping District Mall 7F Vendor 1
 
 *BrightPowder* $300
 
-*Link Heart* $10,000
+*Link Heart* $10000
 
-*Ability Capsule* $3,000
+*Ability Capsule* $3000
 
 *Quick Claw* $100
 
 Shopping District Mall 7F Vendor 2
 
-*Petaya Berry* $1,250
+*Petaya Berry* $1250
 
-*Liechi Berry* $1,250
+*Liechi Berry* $1250
 
-*Apicot Berry* $1,250
+*Apicot Berry* $1250
 
-*Lansat Berry* $1,000
+*Lansat Berry* $1000
 
-*Starf Berry* $1,000
+*Starf Berry* $1000
 
-*Ganlon Berry* $1,250
+*Ganlon Berry* $1250
 
-*Salac Berry* $1,250
+*Salac Berry* $1250
 
 Shopping District Mall 8F Vendor 1
 
-*TM150 Grassy Terrain* $100,000
+*TM150 Grassy Terrain* $100000
 
-*TM151 Electric Terrain* $100,000
+*TM151 Electric Terrain* $100000
 
-*TM152 Misty Terrain* $100,000
+*TM152 Misty Terrain* $100000
 
-*TM153 Psychic Terrain* $100,000
+*TM153 Psychic Terrain* $100000
 
-*TM34 Sludge Wave* $3,000
+*TM34 Sludge Wave* $3000
 
-*TM55 Scald* $130,000
+*TM55 Scald* $130000
 
-*TM90 Substitute* $2,000
+*TM90 Substitute* $2000
 
-*HM05 Waterfall* $150,000
+*HM05 Waterfall* $150000
 
 Shopping District Mall 8F Vendor 2
 
-*Protector* $2,100
+*Protector* $2100
 
-*Magmarizer* $2,100
+*Magmarizer* $2100
 
-*Dragon Scale* $2,100
+*Dragon Scale* $2100
 
-*Electrizer* $2,100
+*Electrizer* $2100
 
 *DeepSeaTooth* $200
 
 *DeepSeaScale* $200
 
-*Up-Grade* $2,100
+*Up-Grade* $2100
 
-*Dubious Disc* $2,100
+*Dubious Disc* $2100
 
 *Prism Scale* $500
 
-*Sachet* $1,000
+*Sachet* $1000
 
-*Whipped Dream* $1,000
+*Whipped Dream* $1000
 
-*Razor Claw* $2,100
+*Razor Claw* $2100
 
-*Oval Stone* $2,100
+*Oval Stone* $2100
 
-*Razor Fang* $2,100
+*Razor Fang* $2100
 
-*Reaper Cloth* $2,100
+*Reaper Cloth* $2100
 
 On 7F, show the lady at the bottom your Gible and she’ll give you the
 *Dark Core.*
@@ -19188,9 +18697,9 @@ Axis High Store
 
 *Great Ball* $200
 
-*Ultra Ball* $1,200
+*Ultra Ball* $1200
 
-*Ultra Potion* $2,200
+*Ultra Potion* $2200
 
 *Max Repel* $700
 
@@ -19277,7 +18786,7 @@ Nightmare University Store
 
 *Full Heal* $600
 
-*Ultra Potion* $2,200
+*Ultra Potion* $2200
 
 Do a group investigation on the three entryway areas if you’d like, then
 head to the left area to give the Masked Men the password: “Sorry”.
