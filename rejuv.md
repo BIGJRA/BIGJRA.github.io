@@ -17545,7 +17545,7 @@ At the moment, none of the following legendaries are available either:
 
 ## Pickup Table
 
-<table>
+<table id='pickup-table'>
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 8%" />
