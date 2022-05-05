@@ -14893,8 +14893,11 @@ submitting at least 20, you'll get another $60000. For submitting all
 34, you'll get $80000 as well as **Froakie.** Nice (+3 Karma).
 
 Now that we have the Super Rod, there are a whole bunch of areas that
-now hold strong water Pokemon. The Super Rod tables for the areas we
-have been so far are as follows:
+now hold strong water Pokemon. This section is pretty long because of how
+many bodies of water there are, so <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">click here</a>
+to skip to the next section.
+
+The Super Rod tables for the areas we have been so far are as follows:
 
 Route 1
 
