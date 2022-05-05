@@ -30,9 +30,12 @@ table {
     overflow-x: auto
 }
 
-table#pickup-table td {
+table#pickup-table {
     text-align: center;
     vertical-align: middle;
+}
+
+table#pickup-table td {
     padding: 0;
 }
 
