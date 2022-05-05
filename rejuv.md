@@ -12874,8 +12874,8 @@ also recommend using your own Magical Seeds - it will turn even
 type-disadvantaged mons into super-effective titans, crushing with
 Normalized moves.
 
-Win to get the Rugged Badge, which lets us use Dive and go up to Level
-85. You'll also get *TM80 Rock Slide.* Nice.
+Win to get the Rugged Badge, which lets us use Dive and go up to 
+Level 85. You'll also get *TM80 Rock Slide.* Nice.
 
 # Chapter 14: Death of One, Birth of Another
 
