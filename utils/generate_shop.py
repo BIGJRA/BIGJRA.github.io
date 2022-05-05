@@ -1,20 +1,26 @@
-t = '''*Sticky Barb* $200
+t = '''*Poke Ball* $200
 
-*Lagging Tail* $200
+*Great Ball* $600
 
-*Iron Ball* $200
+*Ultra Ball* $1200
 
-*Binding Band* $200
+*Super Potion* $700
 
-*Float Stone* $200
+*Hyper Potion* $1200
 
-*Eject Button* $200
+*Ultra Potion* $2200
 
-*Red Card* $200
+*Awakening* $250
 
-*Ring Target* $200
+*GourmetTreat* $1500
 
-*Metronome* $200'''
+*Reverse Candy* $50
+
+*Repel* $350
+
+*Super Repel* $500
+
+*Max Repel* $700'''
 
 lines = t.split('\n')
 items = []

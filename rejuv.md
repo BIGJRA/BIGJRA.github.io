@@ -20,10 +20,6 @@ My site hasn't been completely rolled out yet: I could use some help to double c
 
 - Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
 
-- Are there moments of me being arrogant and disparaging? I started writing this as a teenager and
-I'm sure there are moments like this. I don't want to call a fight "easy" if there are players 
-that might struggle with it, for example. Let me know!
-
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
 While you're here, try checking out [my YouTube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)!
@@ -214,6 +210,11 @@ cells, tutors, Pokemon Locations, and more!
     -   <a href="#blakeory-atheneum-tour" id="toc-blakeory-atheneum-tour">Blakeory Atheneum Tour</a>
     -   <a href="#aevium-past-3rd-visit" id="toc-aevium-past-3rd-visit">Aevium (Past) 3rd Visit</a>
     -   <a href="#vs-ren-sashila-help-quests" id="toc-vs-ren-sashila-help-quests">VS. Ren, Sashila Help Quests</a>
+        -   <a href="#hquest-28-legend-of-the-void" id="toc-hquest-28-legend-of-the-void">HQuest 28: Legend of the Void</a>
+        -   <a href="#hquest-29-badland-baddies" id="toc-hquest-29-badland-baddies">HQuest 29: Badland Baddies</a>
+        -   <a href="#hquest-30-my-sister-fell" id="toc-hquest-30-my-sister-fell">HQuest 30: My Sister Fell...</a>
+        -   <a href="#hquest-31-i-need-to-get-stronger" id="toc-hquest-31-i-need-to-get-stronger">HQuest 31: I need to get Stronger!
+</a>
     -   <a href="#sand-stream-cave" id="toc-sand-stream-cave">Sand Stream Cave</a>
     -   <a href="#zorrialyn-labyrinth-1st-visit" id="toc-zorrialyn-labyrinth-1st-visit">Zorrialyn Labyrinth 1st Visit</a>
     -   <a href="#grand-dream-tournament" id="toc-grand-dream-tournament">Grand Dream Tournament</a>
@@ -816,7 +817,7 @@ from the attendant. Give it to Venam.
 
 Relationship Point Choices:
 - All me. (Venam +2)
-- Maybe… (Venam +1)
+- Maybe... (Venam +1)
 - No, actually. (Neutral)
 
 Head to the southeast of town and a cutscene will play. Afterwards
@@ -1138,7 +1139,7 @@ Go to Velvet Building 3F and talk to the southwest girl. Return to
 Sasha and talk to her again.
 
 Go to Emerald Building Lobby and talk to the red-haired person.
-Return to Sasha… again, and follow her into a building in Oceana
+Return to Sasha... again, and follow her into a building in Oceana
 Pier. Defeat a trainer with a Lv. 19 Lopunny!
 
 Claim your reward at the help center: $550. (+1 Karma)
@@ -2153,7 +2154,7 @@ welcome to pay for the item, but if not, you'll get teleported to
 the THIEF'S DUNGEON!
 
 After talking to the grunt and getting out, memorize the map on the
-wall. If you don't take the path outlined, you will get destroyed…
+wall. If you don't take the path outlined, you will get destroyed...
 Enter the door that corresponds to yellow to get an *Ice Stone,* or
 *Dusk Stone* depending on random chance.
 
@@ -4342,7 +4343,7 @@ you clean up the left side. Watch out for Barbaracle too which hits
 surprisingly hard. Anyways, just keep up the pressure and make sure the
 fastest mons is out, then you and Aelita should be able to win.
 
-Well….
+Well....
 
 Madame X (No Field)
 -   Yveltal, Level 100. @ Soul Stone.
@@ -4793,7 +4794,7 @@ Relationship Point Choices:
 - Join me! (Aelita +1)
 - Nope. (Neutral)
 
-Then, play ball with her and Growlithe… 31 times. Once you've done this,
+Then, play ball with her and Growlithe... 31 times. Once you've done this,
 tell it to follow you, then try to leave the forest to the north and
 you'll get **Growlithe!** (+1 Karma)
 
@@ -4836,7 +4837,7 @@ Hula Meadow
 Grab two Oranguru if you can - one will be traded away later. In the
 pot, you can find infinite *Pink Nectar.* That's all we can do here, so
 head back to the jungle. There's still one thing left to do before we
-proceed into the village… bet you weren't expecting a legendary Pokemon
+proceed into the village... bet you weren't expecting a legendary Pokemon
 so early, were you?
 
 Exit the jungle south to return to the pier. At nighttime, Surf in the
@@ -4847,7 +4848,7 @@ story.
 ## Kakori Village and Jeminra Woods
 
 In the town, itemfind around for 2 *TinyMushrooms.* In the top left, use
-another Spice Powder on Vileplume to get to a hidden… *TinyMushroom.*
+another Spice Powder on Vileplume to get to a hidden... *TinyMushroom.*
 
 Enter the third house from the left, on the upper row of houses below
 the cliffside. Talk to the woman, and she'll run off to the Xen
@@ -5973,7 +5974,7 @@ Route 11
 | Binacle           | 5        |
 
 Hidden on the first island is a *Dire Hit.* Grab the *Red Shard*, then
-talk to the Xen Grunt… He wants 10 Sweet Hearts. Buy them from the Route
+talk to the Xen Grunt... He wants 10 Sweet Hearts. Buy them from the Route
 3 Vendor if you haven't yet, then return.
 
 Beat the grunt, and you'll be engaged in battle with a level 40
@@ -6487,7 +6488,7 @@ berries or Blue Moon Ice Creams.
 Next, we must go find Amber, Tesla's kid. Re-enter Aquamarine Cave and
 head back down to the bottom level. Head up once you reach the large
 room, climbing some stairs to do so. Talk to the sleeping girl here.
-She'll request we go get back a CD that Venam stole from her so… we're
+She'll request we go get back a CD that Venam stole from her so... we're
 heading to Kakori Village.
 
 Now that we've visited the resort, all the warp panels in the Ranger
@@ -6582,7 +6583,7 @@ Relationship Point Choices:
 
 Tesla will give you her *Yacht Keys.*
 
-…. And that's about it for wholesome. After Amber interrupts, you'll be
+.... And that's about it for wholesome. After Amber interrupts, you'll be
 taken into the hallway. Follow her into her room and talk to her.
 
 Relationship Point Choices:
@@ -7162,7 +7163,7 @@ Return to the help center to get: $6245, *Revival Herb,* and
 Head outside and enter the house in the top right of town. Talk to
 the guy here. The answers to his quiz are: 4, Calmness, and 5.
 
-After...that… head back to the help center to get $10000. (+1 Karma)
+After...that... head back to the help center to get $10000. (+1 Karma)
 
 ### HQuest 20: Defend Me!
 
@@ -7204,7 +7205,7 @@ Anyways,
 village.
 - Talk to the other person in the same house.
 
-Then, head outside… After getting teleported, claim your rewards:
+Then, head outside... After getting teleported, claim your rewards:
 *Exp. Candy L* and *Up-Grade.* (+1 Karma)
 
 ### HQuest 22: ???
@@ -7864,7 +7865,7 @@ right corner. Pressing the switch next to Reina grants (+3 Reina
 Relationship Points). Back downstairs, try to leave through the top and
 you'll get teased again. Try to leave through the bottom.
 
-After… something… Saki gives you a *Revive* if you kept the Magma Stone,
+After... something... Saki gives you a *Revive* if you kept the Magma Stone,
 but if not, you'll finally get the T.M. for Magma Drift!
 
 Head up through the newly destroyed door. Go up and activate the Neutral
@@ -8170,7 +8171,7 @@ Next, if you went down the Gave It Away Route, the T.M. Store in
 Kristiline is now open. The list of T.M.'s they sell is in the top of
 the previous section.
 
-The people of Akuwa Town have… FINALLY been returned to their home, so
+The people of Akuwa Town have... FINALLY been returned to their home, so
 head to Akuwa Town.
 
 The girl in the top right running in place can teach you some moves:
@@ -8396,7 +8397,7 @@ Relationship Point Choices:
 - It's okay! (Venam +3, Melia +3)
 - Sorta awkward. (Neutral)
 
-So begins Rejuvenations next major twist… time travel!
+So begins Rejuvenations next major twist... time travel!
 
 ## Aevium (Past) 1st Visit
 
@@ -9056,7 +9057,7 @@ Thunder Raid: Electric \| Physical \| 3-hit move, hits are 20, 40, and
 60 power \| 100% accuracy \| On Murkwater Surface Field, power is
 boosted x1.5.
 
-I'm not saying Amanda is harder than this fight but… it's close. He does
+I'm not saying Amanda is harder than this fight but... it's close. He does
 have some threats, particularly Mega Toxtricity, whose field boosted
 Overdrive that hits both of your Pokemon might just knock them entirely
 off the map. Raichu's ability is always activated so it will surely
@@ -9070,7 +9071,7 @@ Blizzard -\> Sky Uppercut here, you can turn the field into Snowy
 Mountain, allowing your Rock Sliders to go crazy. Or consider using just
 the Icy Field and letting Blizzard users go off. You can also take Snowy
 Mountain even further by turning it into a Mountain, then a Cave, then a
-Volcano… So, there are many possibilities here.
+Volcano... So, there are many possibilities here.
 
 Even without messing with the field, you can do a lot with Ground types
 and other electric types.
@@ -10780,7 +10781,7 @@ Pop Star Risa Raider (No Field)
 
 This is a 1v1. You don't have to win this one though. So, this may seem
 to be Jigglypuff, but it has the same ability, moves, and base stats as
-a different Pokemon, but the same typing as normal… anyways, this is a
+a different Pokemon, but the same typing as normal... anyways, this is a
 very winnable battle, you just must find something with a powerful
 Poison or Steel move that can survive all four of these attacks.
 
@@ -11161,7 +11162,7 @@ Relationship Point Choices:
 - Sigh (Melia -3)
 
 Time for a story choice.
--   If you choose Hand it Over, well… you're gonna get a game over. A
+-   If you choose Hand it Over, well... you're gonna get a game over. A
     game over that in fact will write to your save that you made that
     choice should you click Try Again. If that's what you want, go for
     it. But if not, better make sure you have a backup if you want to
@@ -11537,7 +11538,7 @@ Thankfully Delta Stream does come with a few drawbacks though. The four
 (4) lines named Golduck, Drampa, Altaria, and Lickilicky can block it
 out via Cloud Nine, so even though these four are not particularly good
 otherwise they have a purpose - simply sending one out at the same time
-as Mega-Rayquaza opens up its 4x Ice and Rock weaknesses… but that
+as Mega-Rayquaza opens up its 4x Ice and Rock weaknesses... but that
 effect only lasts as long as they're in battle, so it's not really
 significant. The other, more significant thing may seem like a
 no-brainer, but is still notable. Like Primal Kyogre and Primal
@@ -11548,7 +11549,7 @@ since once Mega-Rayquaza leaves the field so does the rest of the team's
 safety from their weaknesses.
 
 So, with all this in mind, what happens when a game, maybe whose name
-begins with “P” and ends with “okemon Rejuvenation”, decides to just…
+begins with “P” and ends with “okemon Rejuvenation”, decides to just...
 have this weather always on for an entire 6v6 fight? Against all Flying
 Pokemon? On top of a field effect that already significantly strengthens
 Flying types via various ability and move buffs? What happens when this
@@ -11566,7 +11567,7 @@ change the field to mountain / volcanic top, 4 of his Pokemon have
 Heavenly Wing to bring it right back. In fact, all six of his team
 members sport at least one of Heavenly Wing/Hurricane/Sky Attack, sure
 to deal heavy damage and tons of OHKOs via an offensive type fielding no
-immunities. But, what if you can outspeed? Well… good luck killing
+immunities. But, what if you can outspeed? Well... good luck killing
 anything. Since Flying's weaknesses will be neutered by the weather and
 Normal's one weakness is canceled by flying, Unfezant and Pidgeot cannot
 be hit with super effective moves under the standard circumstances. The
@@ -11631,7 +11632,7 @@ As soon as you're ready, talk to Erin and agree to enter the rift. Head
 up and follow the path, it's quite straightforward. Grab the *Rift Notes
 on Pulse: Bella* and continue. Erin is gonna help us with this fight:
 
-Dimensional Rift… Aelita?? (Dimensional Rift Field)
+Dimensional Rift... Aelita?? (Dimensional Rift Field)
 -   “Aelita”/Regirock, Level 80. @ Leftovers. Ability: Savagery. Type:
     Rock/Fighting. Stats: 200/190/200/190/200/200.
     -   Rock Slide
@@ -11671,16 +11672,13 @@ Completing all the content so far marks the recommended point in the
 story you should consider going to play Version -1: Where Love Lies, a
 separate game made by the same creators which acts as a prequel to a
 part of this story. It is not required that you play it but it gives
-perspective and history on certain events in this game. It is located
-here:
-
-[https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1](https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1)
+perspective and history on certain events in this game. You can find
+it [here](https://www.rebornevo.com/forum/index.php?/topic/34082-version-1-where-love-lies/&page=1).
 
 If you want a guide to the side story: Lucifer on the forums wrote up a
-fantastic guide to getting 100% in the side game, and so I wouldn't want
+[fantastic guide](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/) 
+to getting 100% in the side game, and so I wouldn't want 
 to waste time by writing my own guide to it.
-
-[https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/)
 
 If you did play WLL and got a certain password at the end for getting
 the good ending however, head over to GDC's Central Building during the
@@ -11696,19 +11694,18 @@ of Route 9.
 
 Scholar District
 
-|                       |          |                   |          |                        |          |
-|-----------------------|----------|-------------------|----------|------------------------|----------|
-| Grass: Morning | % | Grass: Day | % | Grass: Night    | % |
-| Voltorb               | 20       | Voltorb           | 20       | Koffing                | 40       |
-| **Mr. Mime**          | 20       | **Mr. Mime**      | 20       | Thievul                | 14       |
-| Leavanny              | 20       | Leavanny          | 20       | **Weezing (Galarian)** | 11       |
-| Electrode             | 10       | Electrode         | 10       | Nickit                 | 10       |
-| Lillipup              | 10       | Yamper            | 10       | Hoothoot               | 10       |
-| Unfezant              | 5        | Gogoat            | 9        | Noctowl                | 10       |
-| Greedent              | 5        | Magnemite         | 4        | **Musharna**           | 5        |
-| Magnemite             | 4        | Magneton          | 4        |                        |          |
-| Magneton              | 4        | Boltund           | 2        |                        |          |
-| Stoutland             | 2        |                   |          |                        |          |
+| Grass: Morning   | %  | Grass: Day   | %   | Grass: Night           | %    |
+|------------------|----|--------------|-----|------------------------|------|
+| Voltorb          | 20 | Voltorb      | 20  | Koffing                | 40   |
+| **Mr. Mime**     | 20 | **Mr. Mime** | 20  | Thievul                | 14   |
+| Leavanny         | 20 | Leavanny     | 20  | **Weezing (Galarian)** | 11   |
+| Electrode        | 10 | Electrode    | 10  | Nickit                 | 10   |
+| Lillipup         | 10 | Yamper       | 10  | Hoothoot               | 10   |
+| Unfezant         | 5  | Gogoat       | 9   | Noctowl                | 10   |
+| Greedent         | 5  | Magnemite    | 4   | **Musharna**           | 5    |
+| Magnemite        | 4  | Magneton     | 4   |                        |      |
+| Magneton         | 4  | Boltund      | 2   |                        |      |
+| Stoutland        | 2  |              |     |                        |      |
 
 Using the itemfinder around this district, you'll find a *Sitrus Berry,
 Ether, Hyper Potion, Super Potion, Blue Shard, Honey, Lemonade, Rose
@@ -11720,21 +11717,19 @@ can get a few new Pokemon.
 
 Top Right Pokemon Prizes
 
-**Aron** 5000 Coins
-
-**Durant** 13500 Coins
-
-**Mienfoo** 15000 Coins
-
-**Rufflet** 20000 Coins
-
-**Axew** 30000 Coins
+| Pokemon       | Price     |
+|---------------|-----------|
+|**Aron**       |5000 Coins |
+|**Durant**     |13500 Coins|
+|**Mienfoo**    |15000 Coins|
+|**Rufflet**    |20000 Coins|
+|**Axew**       |30000 Coins|
 
 That said, they're ridiculously expensive. It would probably take
 something like 5-10 hours of Voltorb flip to get enough coins to get all
 of them. In the money to coins conversion, to get all of them you would
 need to convert $1670000, which you probably do not have unless you
-haven't been buying anything and have spammed Pay Day or something. But…
+haven't been buying anything and have spammed Pay Day or something. But...
 for all five, this is the only way to get them right now. So, grind it
 out now or later if you want to complete your Pokedex.
 
@@ -11760,37 +11755,46 @@ want to continue two optional quests.
 
 ## Lost Camp Pt. 3
 
-First, if we're all caught up on the Lost Camp side quest:
--   Head to the Hospital of Hope, talk to Mosely at the top. Accept her
-    request.
--   At night, head to the south part of the district. Talk to her again,
-    then, in the hospital, talk to her again.
--   Go down two flights and talk to the cash register. Then, head back
-    up and go in. Fight the cop. Go upstairs, fight the cop.
-    Unfortunately, you get no healing, and *wiping out makes you unable
-    to continue the quest.* So, make sure you heal / save before each
-    match.
--   Make your way down through the gauntlet of cops. Talk to Isha, this
-    is it for now.
+First, if we're all caught up on the Lost Camp side quest, head to the
+Hospital of Hope, talk to Mosely at the top. Accept her request.
+
+At night, head to the south part of the district. Talk to her again,
+then, in the hospital, talk to her again.
+
+Go down two flights and talk to the cash register. Then, head back
+up and go in. Fight the cop. Go upstairs, fight the cop.
+Unfortunately, you get no healing, and *wiping out makes you unable
+to continue the quest.* So, make sure you heal / save before each
+match.
+
+Make your way down through the gauntlet of cops. Talk to Isha.
+
+This is all we can do for this quest right now - we will finish it 
+later.
 
 ## ANA Quest Part 2
 
-If you've already done part 1:
--   Head over to the Hospital of Hope and enter the door on the left
-    side. Talk to the nurse and the cop.
--   Head outside and talk to Ana in front of the HOH. Head south to
-    enter the Pokemon hospital. Enter the first door.
--   Return to the District of Hope when you can and cross the bridge to
-    the south. Beat the grunts.
--   While you're in this area, head to the dream district west, then go
-    to the art museum and talk to the owner, who will let you keep the
-    painting. Keep it for now.
--   Return to Dylan's House in the Underground, and talk to Ana and
-    Dylan here.
--   Head into the Blakeory Anatheum and go upstairs, then talk to Dylan
-    and Ana.
--   Head out and north to Route 9 and find Ana. After a battle (win or
-    lose is fine), agree to go to Dylan's apartment. Talk to Ana here.
+Head over to the Hospital of Hope and enter the door on the left
+side. Talk to the nurse and the cop.
+
+Head outside and talk to Ana in front of the HOH. Head south to
+enter the Pokemon hospital. Enter the first door.
+
+Return to the District of Hope when you can and cross the bridge to
+the south. Beat the grunts.
+
+While you're in this area, head to the dream district west, then go
+to the art museum and talk to the owner, who will let you keep the
+painting. Keep it for now.
+
+Return to Dylan's House in the Underground, and talk to Ana and
+Dylan here.
+
+Head into the Blakeory Anatheum and go upstairs, then talk to Dylan
+and Ana.
+
+Head out and north to Route 9 and find Ana. After a battle (win or
+lose is fine), agree to go to Dylan's apartment. Talk to Ana here.
 
 Unfortunately, we cannot proceed anymore in this quest, so head back to
 Scholar District.
@@ -11802,7 +11806,7 @@ side of the library and talk to Thomas.
 
 Walk back to the park in the center of Scholar District and talk to Huey
 again. Yet again our story will split a little bit depending on how we
-handled the Darchlight saga… oh boy.
+handled the Darchlight saga... oh boy.
 
 Be prepared to not be able to return to GDC for a little bit.
 
@@ -11827,9 +11831,8 @@ player who started at the bottom.
 
 Voidal Chasm (Main Areas / Backroom)
 
-|                  |          |
+| Grass            | %        |
 |------------------|----------|
-| Grass     | % |
 | **Golurk**       | 35       |
 | Claydol          | 20       |
 | Skuntank         | 15       |
@@ -11872,13 +11875,9 @@ her in Mt. Valor, and (-1 Reina) if not.
 
 Hood ??? (Dimensional Field)
 -   Silvally, Level 75.
-
     -   Swords Dance
-
     -   Multi Attack
-
     -   Iron Head
-
     -   Crunch
 
 Winning is optional (and easy, since it's just one Pokemon) but will
@@ -11900,16 +11899,15 @@ Chasm.
 
 Zorrialyn Desert (Main Areas)
 
-|                          |          |                    |          |
-|--------------------------|----------|--------------------|----------|
-| Sand: Morning/Day | % | Sand: Night | % |
-| Maractus                 | 30       | Cacturne           | 40       |
-| Dugtrio                  | 24       | Dugtrio            | 24       |
-| Marowak                  | 20       | Marowak            | 20       |
-| Helioptile               | 10       | Helioptile         | 10       |
-| Cacturne                 | 9        | **Heliolisk**      | 5        |
-| **Heliolisk**            | 5        | **Nidoqueen**      | 1        |
-| **Budew (Aevian)**       | 2        |                    |          |
+| Sand: Morning/Day  | %    | Sand: Night    | %   |
+|--------------------|------|----------------|-----|
+| Maractus           | 30   | Cacturne       | 40  |
+| Dugtrio            | 24   | Dugtrio        | 24  |
+| Marowak            | 20   | Marowak        | 20  |
+| Helioptile         | 10   | Helioptile     | 10  |
+| Cacturne           | 9    | **Heliolisk**  | 5   |
+| **Heliolisk**      | 5    | **Nidoqueen**  | 1   |
+| **Budew (Aevian)** | 2    |                |     |
 
 Make sure somewhere in the desert you catch Aevian Budew for Zumi's
 quest. Interact with **Mandibuzz** flying around for a battle. There are
@@ -11932,17 +11930,23 @@ Head down the rocks, and to the left.
 
 Zorrialyn Desert (Left Area)
 
-|                      |          |                  |          |                    |          |                 |          |              |          |
-|----------------------|----------|------------------|----------|--------------------|----------|-----------------|----------|--------------|----------|
-| Sand: Morning | % | Sand: Day | % | Sand: Night | % | Old Rod  | % | Water | % |
-| Maractus             | 30       | Maractus         | 30       | Cacturne           | 40       | Shellos         | 70       | Gastrodon    | 66       |
-| Dugtrio              | 20       | Dugtrio          | 20       | Dugtrio            | 24       | Wooper          | 30       | Whiscash     | 30       |
-| Marowak              | 20       | Marowak          | 20       | Marowak            | 20       | Good Rod |          | Quagsire     | 4        |
-| Helioptile           | 10       | Helioptile       | 10       | Helioptile         | 10       | Helioptile      | 80       |              |          |
-| Budew (Aevian)       | 8        | Budew (Aevian)   | 9        | Heliolisk          | 5        | Heliolisk       | 20       |              |          |
-| Cacturne             | 6        | Cacturne         | 5        | Nidoqueen          | 1        |                 |          |              |          |
-| Heliolisk            | 5        | Heliolisk        | 5        |                    |          |                 |          |              |          |
-| **Nidoking**         | 1        | **Nidoking**     | 1        |                    |          |                 |          |              |          |
+| Sand: Morning   | %   | Sand: Day       | %   | Sand: Night  | %  |
+|-----------------|-----|-----------------|-----|--------------|----|
+| Maractus        | 30  | Maractus        | 30  | Cacturne     | 40 |
+| Dugtrio         | 20  | Dugtrio         | 20  | Dugtrio      | 24 |
+| Marowak         | 20  | Marowak         | 20  | Marowak      | 20 |
+| Helioptile      | 10  | Helioptile      | 10  | Helioptile   | 10 |
+| Budew (Aevian)  | 8   | Budew (Aevian)  | 9   | Heliolisk    | 5  |
+| Cacturne        | 6   | Cacturne        | 5   | Nidoqueen    | 1  |
+| Heliolisk       | 5   | Heliolisk       | 5   |              |    |
+| **Nidoking**    | 1   | **Nidoking**    | 1   |              |    |
+
+| Water        | %    | Old Rod   | %   | Good Rod   | %   |
+|--------------|------|-----------|-----|------------|-----| 
+| Gastrodon    | 66   | Shellos   | 70  | Helioptile | 80  |
+| Whiscash     | 30   | Wooper    | 30  | Heliolisk  | 20  |
+| Quagsire     | 4    |           |     |            |     |
+
 
 Pick up a hidden *Yellow Shard, Reverse Candy, HP Up, Thick Club,
 Calcium,* and *Green Shard* as you head up. At the top is an
@@ -11997,16 +12001,15 @@ we're gonna check out the map in the very southeast of the desert.
 
 Zorrialyn Desert (Next to Poiloethal Forest)
 
-|                  |          |                    |          |                      |          |
-|------------------|----------|--------------------|----------|----------------------|----------|
-| Sand: Day | % | Sand: Night | % | Sand: Morning | % |
-| Maractus         | 30       | Maractus           | 30       | Maractus             | 30       |
-| Muk              | 25       | Muk                | 25       | Muk                  | 25       |
-| Marowak          | 20       | Marowak            | 20       | Marowak              | 20       |
-| **Arbok**        | 14       | **Arbok**          | 14       | **Arbok**            | 14       |
-| Cacturne         | 6        | Cacturne           | 10       | Cacturne             | 10       |
-| Budew (Aevian)   | 4        | Ariados            | 1        | Budew (Aevian)       | 1        |
-| Ariados          | 1        |                    |          |                      |          |
+| Sand: Morning        | %        | Sand: Day        | %        | Sand: Night        | %        |
+|----------------------|----------|------------------|----------|--------------------|----------|
+| Maractus             | 30       | Maractus         | 30       | Maractus           | 30       |
+| Muk                  | 25       | Muk              | 25       | Muk                | 25       |
+| Marowak              | 20       | Marowak          | 20       | Marowak            | 20       |
+| **Arbok**            | 14       | **Arbok**        | 14       | **Arbok**          | 14       |
+| Cacturne             | 10       | Cacturne         | 6        | Cacturne           | 10       |
+| Budew (Aevian)       | 1        | Budew (Aevian)   | 4        | Ariados            | 1        |
+|                      |          | Ariados          | 1        |                    |          |
 
 Grab the *Revive* here, and the *Iron* at the bottom. Also hidden here
 is *Max Repel, Ground Gem, Kebia Berry, Poison Gem, Ether,* and *Ultra
@@ -12018,9 +12021,8 @@ at the oasis.
 
 Zorrialyn Coast (Southwest)
 
-|                          |          |                    |          |
+| Sand: Morning/Day        | %        | Sand: Night        | %        |
 |--------------------------|----------|--------------------|----------|
-| Sand: Morning/Day | % | Sand: Night | % |
 | **Gligar**               | 35       | Mudsdale           | 44       |
 | Maractus                 | 30       | Cacturne           | 40       |
 | Mudsdale                 | 24       | Helioptile         | 10       |
@@ -12062,23 +12064,17 @@ You'll get 3 *Exp. Candy XL* every time you win. Head up.
 
 Sashila Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Ultra Ball* $1200
-
-*Mineral Ball* $1200
-
-*Hyper Potion* $1200
-
-*Max Repel* $700
-
-*Burn Heal* $250
-
-*GourmetTreat* $1500
-
-*Reverse Candy* $50
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Ultra Ball*   |$1200|
+|*Mineral Ball* |$1200|
+|*Hyper Potion* |$1200|
+|*Max Repel*    |$700 |
+|*Burn Heal*    |$250 |
+|*GourmetTreat* |$1500|
+|*Reverse Candy*|$50  |
 
 Head all the way to the top. We can surf here. Do so on the left side,
 and you'll find:
@@ -12124,7 +12120,7 @@ Choose whether to follow Giratina, then fight the grunts. The outcome
 doesn't matter here, but it's winnable if you can get lucky with an
 Ancient Power boost or Braixen living to put Muk to sleep.
 
-Anyways, after the battle, the scenes will finish playing out… Dark.
+Anyways, after the battle, the scenes will finish playing out... Dark.
 
 ## Sashila Village 2nd Visit
 
@@ -12155,15 +12151,14 @@ Misty Terrain move, and you'll see why in a few sections.
 
 Alamissa Urben
 
-|                |          |
-|----------------|----------|
-| Cave    | % |
-| Claydol        | 30       |
-| Golurk         | 25       |
-| Sigilyph       | 15       |
-| Dusclops       | 15       |
-| Cufant         | 10       |
-| **Copperajah** | 5        |
+| Cave           | %   |
+|----------------|-----|
+| Claydol        | 30  |
+| Golurk         | 25  |
+| Sigilyph       | 15  |
+| Dusclops       | 15  |
+| Cufant         | 10  |
+| **Copperajah** | 5   |
 
 Rock Smash all the rocks that you can along the way - they'll
 permanently be gone, leaving you shortcuts for the area.
@@ -12193,7 +12188,7 @@ the bottom, then the *Prism Scale* inside a door.
 Return to the top, find a final hidden *Yellow Shard,* and enter the
 gallery.
 
-Beat the grunts with the assistance of Ren, then watch the scene…
+Beat the grunts with the assistance of Ren, then watch the scene...
 
 ## Blakeory Atheneum Tour
 
@@ -12223,9 +12218,8 @@ Back at it again.
 
 Route 5 (Past)
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | Ribombee     | 41       |
 | Steenee      | 20       |
 | Camerupt     | 11       |
@@ -12242,9 +12236,8 @@ north into Hiyoshi City!
 
 Hiyoshi City (Past)
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | Ribombee     | 40       |
 | Steenee      | 25       |
 | Delcatty     | 14       |
@@ -12257,45 +12250,36 @@ At the east side of the town, there are some shops.
 
 Hiyoshi City Move Tutor
 
-Sky Attack 3 Red Shards
-
-Skill Swap 2 Green Shards
-
-Magnet Rise 2 Yellow Shards
-
-Gravity 2 Blue Shards
-
-Recycle 2 Green Shards
+|Move           |Price          |
+|---------------|---------------|
+|Sky Attack     |3 Red Shards   |
+|Skill Swap     |2 Green Shards |
+|Magnet Rise    |2 Yellow Shards|
+|Gravity        |2 Blue Shards  |
+|Recycle        |2 Green Shards |
 
 Hiyoshi City Shop Top
 
-*Sitrus Berry* $750
-
-*Chesto Berry* $300
+|Item          |Price|
+|--------------|-----|
+|*Sitrus Berry*|$750 |
+|*Chesto Berry*|$300 |
 
 Hiyoshi City Shop Bottom
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Ultra Ball* $1200
-
-*Super Potion* $700
-
-*Hyper Potion* $1200
-
-*Ultra Potion* $2200
-
-*Awakening* $250
-
-*GourmetTreat* $1500
-
-*Reverse Candy* $50
-
-*Super Repel* $500
-
-*Max Repel* $700
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Ultra Ball*   |$1200|
+|*Super Potion* |$700 |
+|*Hyper Potion* |$1200|
+|*Ultra Potion* |$2200|
+|*Awakening*    |$250 |
+|*GourmetTreat* |$1500|
+|*Reverse Candy*|$50  |
+|*Super Repel*  |$500 |
+|*Max Repel*    |$700 |
 
 There is also an Audino breeder here. Each time you win, you'll get 10
 *Exp. Candy M.*
@@ -12313,57 +12297,45 @@ head north to board the truck to Hiyoshi Pass.
 
 Hiyoshi Pass
 
-|               |          |                |          |                 |          |
-|---------------|----------|----------------|----------|-----------------|----------|
-| Grass  | % | Water   | % | Old Rod  | % |
-| Skiddo        | 40       | Wooper         | 90       | Goldeen         | 100      |
-| Tauros        | 30       | Quagsire       | 9        | Good Rod |          |
-| **Zebstrika** | 10       | Marill         | 1        | Remoraid        | 100      |
-| Gogoat        | 10       |                |          |                 |          |
-| Stantler      | 9        |                |          |                 |          |
-| Bouffalant    | 1        |                |          |                 |          |
+| Grass         | %        | Water          | %        |
+|---------------|----------|----------------|----------|
+| Skiddo        | 40       | Wooper         | 90       |
+| Tauros        | 30       | Quagsire       | 9        |
+| **Zebstrika** | 10       | Marill         | 1        |
+| Gogoat        | 10       |                |          |
+| Stantler      | 9        |                |          |
+| Bouffalant    | 1        |                |          |
+
+| Old Rod   | %    |Good Rod   | %    |    
+|-----------|------|-----------|------|
+| Goldeen   | 100  |Remoraid   | 100  |
+      
 
 Grab the *TM27 Return* on the right.
 
-When you head up, be prepared for a battle… and another change of pace.
+When you head up, be prepared for a battle... and another change of pace.
 We'll be playing as Ren now!
 
 ??? ??? (No Field)
 -   Raichu (Alolan), Level 79. @ Focus Sash.
-
     -   Thunderbolt
-
     -   Psychic
-
     -   Focus Blast
-
     -   Hidden Power Ice
 -   Clawitzer, Level 78. @ Mystic Water.
-
     -   Water Pulse
-
     -   Dark Pulse
-
     -   Aura Sphere
-
     -   Ice Beam
 -   Swampert, Level 79. @ Rindo Berry.
-
     -   Waterfall
-
     -   Ice Punch
-
     -   Hammer Arm
-
     -   Earthquake
 -   Xurkitree, Level 80. @ Shuca Berry.
-
     -   Thunderbolt
-
     -   Grass Knot
-
     -   Dazzling Gleam
-
     -   Hidden Power Ice
 
 First time we're using Ren's team, luckily, it's not too awful. Greninja
@@ -12397,53 +12369,33 @@ press the button on the pillar.
 
 Optimistic Guy Huey (Dimensional Rift Field)
 -   Octillery, Level 78. @ Leftovers.
-
     -   Protect
-
     -   Hydro Pump
-
     -   Ice Beam
-
     -   Fire Blast
 -   Flareon, Level 79. @ Rift Seed.
-
     -   Flare Blitz
-
     -   Superpower
-
     -   Double-Edge
-
     -   Quick Attack
 
 Easy one. Continue north.
 
 Trendy Girl Reina (Dimensional Rift Field)
 -   Ribombee, Level 75. @ Focus Sash.
-
     -   Sticky Web
-
     -   Nature Power
-
     -   Stun Spore
-
     -   Bug Buzz
 -   Honchkrow, Level 76. @ Scope Lens.
-
     -   Night Slash
-
     -   Brave Bird
-
     -   Superpower
-
     -   Sucker Punch
 -   Swoobat, Level 78. @ Rift Seed.
-
     -   Psychic
-
     -   Shadow Ball
-
     -   Air Slash
-
     -   Calm Mind
 
 Another easy one, just make sure you don't get swept by Honchkrow.
@@ -12453,13 +12405,11 @@ boy.
 
 Angel of Death Gardevoir (Dimensional Field)
 -   Angel of Death Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
-    Ability: Execution. Stats: 300/200/150/180/200/145.
-
-> 4 Shields.
--   Lovely Kiss
--   Hyperspace Hole
--   Sacred Sword
--   Dark Pulse
+    Ability: Execution. Stats: 300/200/150/180/200/145. 4 Shields.
+    -   Lovely Kiss
+    -   Hyperspace Hole
+    -   Sacred Sword
+    -   Dark Pulse
 
 This one is tough. This time, you must break *four* shields just to get
 to be able to whittle its HP down. It loves to put you to sleep, thanks
@@ -12470,8 +12420,8 @@ both stats might be key. I recommend Memento as at least you will be
 able to live a Night Slash or Hyperspace Hole with most Pokemon
 afterwards. Break the shields efficiently and then hammer it hard,
 preferably with Poison or Steel type physical moves. Alternatively, you
-can nullify the field and Gardevoir's advantagex with Pyukumuku's Purify
-- then Sylveon can set up Misty Terrain, allowing you to knock it out
+can nullify the field and Gardevoir's advantagex with Pyukumuku's Purify,
+then Sylveon can set up Misty Terrain, allowing you to knock it out
 with field-boosted Fairy moves.
 
 After defeating it, depending on our choice in a previous past segment,
@@ -12483,19 +12433,15 @@ If Maria "saved" - (Ren +3, Reina +3, Huey +3)
 Dimensional Rift Gardevoir Round 2 (Dimensional Field)
 -   Fallen Angel Gardevoir, Level 80. @ Lum Berry. Type: Dark/Fairy.
     Ability: Execution. Stats: 180/130/100/100/100/240.
-
     -   Lovely Kiss
-
     -   Hyperspace Hole
-
     -   Dark Pulse
-
     -   Sacred Sword
 
 A far easier round 2, plus, Ren will fight with you. If you could do the
 first this one will be easy.
 
-… … … Well. Once you get control back, head to Nymiera's house once
+... ... ... Well. Once you get control back, head to Nymiera's house once
 again. Push the button on the back of the bookcase!
 
 ## VS. Ren, Sashila Help Quests
@@ -12507,58 +12453,34 @@ least we're familiar with his team.
 
 Outcast Ren (Desert Field)
 -   Aevian Roserade, Level 77. @ Focus Sash.
-
     -   Focus Blast
-
     -   Mud Shot
-
     -   Ancient Power
-
     -   Spikes
 -   Flygon, Level 79. @ Steelium-Z.
-
     -   Dragon Dance
-
     -   Earthquake
-
     -   Iron Tail
-
     -   Outrage
 -   Arcanine, Level 80. @ Telluric Seed.
-
     -   Heat Wave
-
     -   Close Combat
-
     -   Dig
-
     -   Extremespeed
 -   Silvally, Level 78. @ Muscle Band.
-
     -   Swords Dance
-
     -   Return
-
     -   Zen Headbutt
-
     -   Iron Head
 -   Scizor, Level 79. @ Life Orb.
-
     -   Brutal Swing
-
     -   Superpower
-
     -   Bug Bite
-
     -   Bullet Punch
 -   Greninja, Level 80. @ Life Orb.
-
     -   Scald
-
     -   Dark Pulse
-
     -   Ice Beam
-
     -   Gunk Shot
 
 A very, very tough singles battle, though nothing you've never seen
@@ -12567,153 +12489,152 @@ before. Beat him with a better team!
 Next, it's time for some Help Quests. Enter the door in the middle of
 Sashila Village, on the left side.
 
-HQuest 28: Legend of the Void
--   Enter the door directly below the help center and talk to the man,
-    Marten.
--   Head up two sets of stairs and enter the first door on the right
-    side. Talk to Hyu'ro.
--   Talk to Marten in his house again. Exit, and take the Mudsdale rider
-    outside the village to Voidal Chasm.
--   In the Voidal Chasm, pick up the shiny object on B2F.
--   Return to Marten, then meet him in Hyu'ro's house.
--   Enter Sashila's research room by going up, surfing left, and down.
-    Talk to Marten at the top.
--   Head into Alexandra's room and use the crystal to go back to the
-    past…
--   Talk to the truck driver in Hiyoshi City and go to Gregorian Lake.
-    Surf up and talk to the guy inside the house here to get a *Lake
-    Postcard.*
--   Return to the present and talk to Hyu'ro.
--   After talking to Marten at the door, head back to the Chasm, and go
-    all the way to B3F.
--   Rock climb up twice and enter the door. Head left, and then go down.
--   Battle **Absol.** Hyu'ro's fate is up to you. After making your
-    choice, return to Sashila.
--   Re-enter the research area and talk to Marten.
--   Return to the help center to claim your reward: $12.500 and
-    MegaStone *Absolite,* as well as (+1 Karma). Sweet!
+### HQuest 28: Legend of the Void
 
-HQuest 29: Badland Baddies
--   Head back to the research center from the last quest. Talk to the
-    guy at the bottom right and agree to get sprayed.
--   Head east from the Zorrialyn Coast.
+Enter the door directly below the help center and talk to the man,
+Marten.
+
+Head up two sets of stairs and enter the first door on the right
+side. Talk to Hyu'ro.
+
+Talk to Marten in his house again. Exit, and take the Mudsdale rider
+outside the village to Voidal Chasm.
+
+In the Voidal Chasm, pick up the shiny object on B2F.
+
+Return to Marten, then meet him in Hyu'ro's house.
+
+Enter Sashila's research room by going up, surfing left, and down.
+Talk to Marten at the top.
+
+Head into Alexandra's room and use the crystal to go back to the
+past...
+
+Talk to the truck driver in Hiyoshi City and go to Gregorian Lake.
+Surf up and talk to the guy inside the house here to get a *Lake
+Postcard.*
+
+Return to the present and talk to Hyu'ro. After talking to Marten at 
+the door, head back to the Chasm, and go all the way to B3F.
+
+Rock climb up twice and enter the door. Head left, and then go down.
+Battle **Absol.** Hyu'ro's fate is up to you. After making your
+choice, return to Sashila.
+
+Re-enter the research area and talk to Marten.
+
+Return to the help center to claim your reward: $12.500 and
+MegaStone *Absolite,* as well as (+1 Karma). Sweet!
+
+### HQuest 29: Badland Baddies
+
+Head back to the research center from the last quest. Talk to the
+guy at the bottom right and agree to get sprayed.
+
+Head east from the Zorrialyn Coast.
 
 Ruined City
 
-|                          |          |                    |          |
+| Sand: Morning/Day        | %        | Sand: Night        | %        |
 |--------------------------|----------|--------------------|----------|
-| Sand: Morning/Day | % | Sand: Night | % |
 | Gligar                   | 36       | Mudsdale           | 44       |
 | Maractus                 | 30       | Cacturne           | 40       |
 | Mudsdale                 | 24       | Helioptile         | 10       |
 | Cacturne                 | 10       | Heliolisk          | 6        |
--   Rock smash your way in, then, pick up a hidden on the left side of
-    the second building from the left, and then enter the leftmost door
-    of this house.
+
+Rock smash your way in, then, pick up a hidden on the left side of
+the second building from the left, and then enter the leftmost door
+of this house.
 
 ZCell 092: Ruined City
 
 <img src="/assets/media/rejuv/image95.png"
 style="width:6.61458in;height:4.98958in" />
--   Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of
-    the area, then sneak around the back to find hidden *Yellow Shard*
-    and *Red Shard*. Then, enter the leftmost house. In the left door,
-    grab *Relic Copper.* In the right door, grab *Rare Candy.*
--   Head back to the top of the village and go around the back of the
-    first house on the right cliff. Pick up a hidden *Ground Gem, Green
-    Shard,* and *Protein.* Inside, you'll find *Relic Silver.*
--   There's nothing in the right house, so head to the center of the
-    city and go down. Hidden down here is a *Wacan Berry* as well as a
-    *Super Repel.* Enter the house on the right. Grab the *Relic
-    Copper.* With Blast Powder, you can get:
+
+Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of
+the area, then sneak around the back to find hidden *Yellow Shard*
+and *Red Shard*. Then, enter the leftmost house. In the left door,
+grab *Relic Copper.* In the right door, grab *Rare Candy.*
+
+Head back to the top of the village and go around the back of the
+first house on the right cliff. Pick up a hidden *Ground Gem, Green
+Shard,* and *Protein.* Inside, you'll find *Relic Silver.*
+
+There's nothing in the right house, so head to the center of the
+city and go down. Hidden down here is a *Wacan Berry* as well as a
+*Super Repel.* Enter the house on the right. Grab the *Relic
+Copper.* With Blast Powder, you can get:
 
 ZCell 093: Ruined City
 
 <img src="/assets/media/rejuv/image96.png"
 style="width:6.6875in;height:5in" />
--   Prepare yourself and enter the southwest house. Beat the first set
-    of grunts, then head out to heal. The next one is tough.
--   Beat the grunts in their 8v6 double battle.
--   Make your choice with Damien.
 
-> Relationship Point Choices:*
-> *- Convince Damien. (Damien +2). This option also grants
-> (+1 Karma).
-> - Evict them. (Damien +1). This option also grants (-1
-> Karma).
--   Grab the *Rock Memory* on the way out.
--   Talk to Damien once more outside and watch the scene that plays out.
--   Return to the help center to claim your reward: $22500, a *Link
-    Heart, Sitrus Berries*, and *Roseli Berries.* (+1 Karma).
+Prepare yourself and enter the southwest house. Beat the first set
+of grunts, then head out to heal. The next one is tough.
+Beat the grunts in their 8v6 double battle.
+Make your choice with Damien.
 
-Sashila Village Help Quest 3: My Sister Fell...
--   Head to the Voidal Chasm. Go all the way to B3F, and rock climb up
-    twice. Enter this door and go to the right.
--   Head down and talk to the girl. Agree to leave with her.
--   Head west in the desert, taking the north loop. You'll see Mandibuzz
-    and the girl on top of a rock climb. Beat Mandibuzz.
--   Go all the way back to Zorrialyn Coast, and you'll see the Exeggutor
-    by the Obelisk.
--   Return to the help center to get $32500 and MegaStone *Abomasite!*
-    Nice. (+1 Karma).
+Relationship Point Choices:
+- Convince Damien. (Damien +2). This option also grants (+1 Karma).
+- Evict them. (Damien +1). This option also grants (-1 Karma).
 
-HQuest 30: I need to get Stronger!
--   Meet Novae at the bottom of the village. It's battle time…
+Grab the *Rock Memory* on the way out.
+
+Talk to Damien once more outside and watch the scene that plays out.
+Return to the help center to claim your reward: $22500, a *Link
+Heart, Sitrus Berries*, and *Roseli Berries.* (+1 Karma).
+
+### HQuest 30: My Sister Fell...
+
+Head to the Voidal Chasm. Go all the way to B3F, and rock climb up
+twice. Enter this door and go to the right.
+
+Head down and talk to the girl. Agree to leave with her.
+
+Head west in the desert, taking the north loop. You'll see Mandibuzz
+and the girl on top of a rock climb. Beat Mandibuzz.
+
+Go all the way back to Zorrialyn Coast, and you'll see the Exeggutor
+by the Obelisk.
+
+Return to the help center to get $32500 and MegaStone *Abomasite!*
+Nice. (+1 Karma).
+
+### HQuest 31: I need to get Stronger!
+
+Meet Novae at the bottom of the village. It's battle time...
 
 Wanderer Novae (Desert Field)
 -   Ninetales, Level 79. @ Charcoal.
-
     -   Heat Wave
-
     -   Solar Beam
-
     -   Nasty Plot
-
     -   Will-O-Wisp
 -   Exeggutor, Level 79. @ Wise Glasses.
-
     -   Energy Ball
-
     -   Psyshock
-
     -   Sleep Powder
-
     -   Hidden Power Fire
 -   Lycanroc, Level 80. @ Focus Sash.
-
     -   Rock Slide
-
     -   Drill Run
-
     -   Accelerock
-
     -   Protect
 -   Tsareena, Level 81. @ Assault Vest.
-
     -   Power Whip
-
     -   Knock Off
-
     -   Play Rough
-
     -   Hi Jump Kick
 -   Sandslash, Level 81. @ Life Orb.
-
     -   Earthquake
-
     -   Stomping Tantrum
-
     -   Rock Slide
-
     -   Knock Off
 -   Passimian, Level 82. @ Assault Vest.
-
     -   Iron Head
-
     -   Close Combat
-
     -   Rock Slide
-
     -   Seed Bomb
 
 Compared to some of her earlier fights, this isn't that bad. She uses a
@@ -12722,8 +12643,9 @@ sleep + heat wave. If you can change up the weather, you'll be golden.
 Alternatively, fighting fire with fire works well here, as only her own
 Ninetales and the frail Lycanroc resist your own Heat Wave. If you got
 here with your double battle ability, you could do one more.
--   Return to the help center to get $32500 and a *Scented Lure.* (+1
-    Karma).
+
+Return to the help center to get $32500 and a *Scented Lure.* (+1 
+Karma).
 
 ## Sand Stream Cave
 
@@ -12736,9 +12658,8 @@ a guy here, then exit and go north from Zorrialyn Coast.
 
 Sand Stream Cave
 
-|                |          |
+| Cave           | %        |
 |----------------|----------|
-| Cave    | % |
 | Silicobra      | 35       |
 | **Hippopotas** | 30       |
 | Diggersby      | 29       |
@@ -12765,9 +12686,8 @@ Take the vortex to B3F!
 
 Sand Stream Depths
 
-|             |          |
+| Cave        | %        |
 |-------------|----------|
-| Cave | % |
 | Silicobra   | 35       |
 | Hippopotas  | 30       |
 | Diggersby   | 29       |
@@ -12853,7 +12773,7 @@ Talk to Damien at the top of Sashila and head back to Route 9. There,
 you'll get *HM02 Fly!* Finally. If you have the Golden Wings you can use
 these now!
 
-Technically this opens us up to return to Floria and Terajuma… which
+Technically this opens us up to return to Floria and Terajuma... which
 means there are tons of new areas and quests that open up. I cover these
 in the next chapter, though you are able to do some of them now if you'd
 like.
@@ -12864,29 +12784,20 @@ attendant.
 
 GDC Tournament Shop
 
-*Poke Ball* $200
-
-*Great Ball* $600
-
-*Ultra Ball* $1200
-
-*Super Potion* $700
-
-*Hyper Potion* $1200
-
-*Ultra Potion* $2200
-
-*Awakening* $250
-
-*GourmetTreat* $1500
-
-*Reverse Candy* $50
-
-*Repel* $350
-
-*Super Repel* $500
-
-*Max Repel* $700
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Ultra Ball*   |$1200|
+|*Super Potion* |$700 |
+|*Hyper Potion* |$1200|
+|*Ultra Potion* |$2200|
+|*Awakening*    |$250 |
+|*GourmetTreat* |$1500|
+|*Reverse Candy*|$50  |
+|*Repel*        |$350 |
+|*Super Repel*  |$500 |
+|*Max Repel*    |$700 |
 
 Head in and into the door on the left. When you're ready, talk to the
 guy at the right. We'll be playing a 3v3 tournament. Each battle, minus
@@ -12911,64 +12822,40 @@ The next set of battles:
 -   Nothing special
 -   Nothing special: Salazzle Edition
 
-So, beat all eight of these fools and watch the following cutscene…
+So, beat all eight of these fools and watch the following cutscene...
 
 ## Rugged Badge
 
 Gym Leader Adam (Inverse Field)
 -   Tyranitar, Level 80. @ Magical Seed.
-
     -   Dragon Dance
-
     -   Earthquake
-
     -   Crunch
-
     -   Matrix Shot
 -   Aurorus, Level 78. @ Focus Sash.
-
     -   Hyper Voice
-
     -   Earth Power
-
     -   Thunder Wave
-
     -   Flash Cannon
 -   Crustle, Level 79. @ Custap Berry.
-
     -   X Scissor
-
     -   Shell Smash
-
     -   Slash and Burn
-
     -   Matrix Shot
 -   Kabutops, Level 79. @ Focus Sash.
-
     -   Matrix Shot
-
     -   Slash and Burn
-
     -   Waterfall
-
     -   X Scissor
 -   Gigalith, Level 78. @ Assault Vest.
-
     -   Dragon Dance
-
     -   Earthquake
-
     -   Crunch
-
     -   Matrix Shot
 -   Aerodactyl, Level 83. @ Aerodactylite.
-
     -   Return
-
     -   Slash and Burn
-
     -   Ice Fang
-
     -   Matrix Shot
 
 Matrix Shot: Rock \| Physical \| 90 power \| 100% accuracy \| Uses the
@@ -13020,7 +12907,7 @@ Make your way to the spring. Battle and catch “The Emperor”
 
 Head to North Evergreen Cave. Melt the ice again with a move like Lava
 Plume to get to the top. Push the boulder into this hole. On the next
-floor, you need to push it into the rightmost hole… unfortunately this
+floor, you need to push it into the rightmost hole... unfortunately this
 is the farthest one away. On the next floor, navigate it all the way
 around to the hole on the bottom. Once you push it down, follow it. Fish
 in this newly opened spot to catch **Feebas!**
@@ -13650,7 +13537,7 @@ Goldenwood Park
 
 HQuest 33: Mall Opportunities
 -   Head to the mall and meet the girl at the very top.
--   Donate $30000 to her… Then talk to her in the shop to get *Occa
+-   Donate $30000 to her... Then talk to her in the shop to get *Occa
     Berry.*
 -   Give her 5 Occa Berries after either farming them or using the stash
     we bought earlier. You'll get a *Passho Berry.* Either farm four
@@ -14135,7 +14022,7 @@ Aromatisse you can switch to your faster sweepers.
 
 ## Zone Zero Pt. 2
 
-After an… unfortunate scene, head up and to the right down a little
+After an... unfortunate scene, head up and to the right down a little
 path. Catch/fight/run from Mandibuzz, and pick up a hidden *Yellow
 Shard* if you'd like. Then follow the path around to the top left of the
 area, pick up a hidden *Red Shard,* then talk to Ren then the cracked
@@ -14235,7 +14122,7 @@ ZCell 099: Zone Zero
 style="width:6.70833in;height:5.05208in" />
 
 Also grab the *Fire Stone* above. When you're ready, enter the stairs to
-the right. Grab the info on *Pulse: Garna…* heal and get ready for
+the right. Grab the info on *Pulse: Garna...* heal and get ready for
 action.
 
 If you grabbed the Weird Diary in the past, now is another chance to use
@@ -14253,7 +14140,7 @@ Dimensional Rift Hippowdon (Desert Field)
 
     -   Earth Power
 
-This one isn't too bad… Ren's team puts in work by supplying Arenite
+This one isn't too bad... Ren's team puts in work by supplying Arenite
 Wall and he also tends to burn it. Dropping its attack stats super low
 is a good move - it's so slow you should be able to get off at least a
 Memento or something if you so choose. It holds Black Sludge which you
@@ -14339,7 +14226,7 @@ Now, onto the second part of the puzzle:
 -   As Ren, head all the way to the left until you can't go further.
 -   Finally, as MC go up and rendezvous!
 
-Head up and follow the path… after another scene, it's time for another
+Head up and follow the path... after another scene, it's time for another
 mech battle!!!!!
 
 Luckily this is the same deal as before, I guided Allen to victory by
@@ -14351,7 +14238,7 @@ After some interesting scenes, head up to battle some goons. You'll be
 tag-teamed with the other characters here -- these fights aren't too
 tough.
 
-After… that, head up and follow the path. In general, the next few rooms
+After... that, head up and follow the path. In general, the next few rooms
 are straightforward progression, talking to characters as necessary.
 You'll also find this, in the room with hoverboard dude:
 
@@ -14452,7 +14339,7 @@ its seed, is super annoying, because not only can it tank your attacks
 and heal, but also hit hard with Dig and 110 base Acrobatics. Torterra
 on the other hand is annoying for a different reason: its crest swaps
 its resistances and weaknesses: say goodbye to 4x Ice, Fire, Bug, Flying
-and say hello to… just Rock and Ground, which it hits super effectively
+and say hello to... just Rock and Ground, which it hits super effectively
 anyways. It and Torterra's Desert Mark attack turns your typing to
 Ground and fixes Sand Tomb on you as well, particularly useful for
 Torterra as the next turn it can use super effective Wood Hammer. Mega
@@ -14462,7 +14349,7 @@ things with boosted Heat Wave. And finally, there is Sand Rush
 Excadrill, once deemed so good it had to be banned from competitive
 play. Since then, sand has gotten nerfs here and there and it's not too
 bad - after all, if you can switch weather, it's back to normal base 88
-speed… right? On this field Sand Rush is always on so it will almost
+speed... right? On this field Sand Rush is always on so it will almost
 always outspeed you and will murder with Dig or Rock Slide.
 
 So, as I hinted at earlier, Sun can be viable here, since Heat Wave and
@@ -14478,7 +14365,7 @@ get some success by simply copying what Ryland is doing: send in your
 own tanky Ground types with Telluric Seeds and see what havoc they can
 wreak. One way or another you can overcome Flora once and for all!
 
-After the battle, heal up, because there's more…
+After the battle, heal up, because there's more...
 
 Head back to the top, then go up when you hear a sound at the skyview.
 After a few cutscenes, you'll enter a battle! There is a catch with this
@@ -14642,7 +14529,7 @@ Challenger Venus (Big Top Arena)
     -   Power-Up-Punch
 
 These mad lads did it - made Ledian half decent! It's punching moves hit
-4 times, so… it's gonna get up to max attack quick or perhaps wear you
+4 times, so... it's gonna get up to max attack quick or perhaps wear you
 down with priority Mach Punch! Venus has a tough team, though almost
 entirely because of the team's synergy with the field. Many of Ledian,
 Luxray, and Steelix's moves can be boosted by the field, and since most
@@ -14974,13 +14861,13 @@ effective in this field. Just be careful of Kingdra's consistent
 critical hits!
 
 Once you've won, head up to catch a Horsea**!** A weird prize since we
-got Horsea a few badges ago, but ok…
+got Horsea a few badges ago, but ok...
 
 Exit in the same spot of the maze as we entered the first time.
 
 Last place to dive on this island is at the first place we entered - so
 fly to the shore. Surf to the northeast corner and dive. It's time to
-explore the S.S. Oceania once again…
+explore the S.S. Oceania once again...
 
 There is some *Luminous Moss* at the top of the entry room, as well as
 Corsola. Heading to the right you'll be attacked by **Sharpedo**. There
@@ -15079,7 +14966,7 @@ boosted Dives.
 One strategy is of course to change up the field on it. Two uses of
 Sludge Wave will bring it to Murkwater Surface permanently, which
 prevents Water Veil from activating, and actively hurts Wailord each
-turn… so literally you can just wait it out. Alternatively, as usual
+turn... so literally you can just wait it out. Alternatively, as usual
 using Blizzard would lead to Icy Field, from which you can go to Snowy
 Mountain and then Volcanic Top, Mountain, Dragon's Den, and so on, all
 of which would of course ruin Wailord's strategy. Another alternative
@@ -15881,7 +15768,7 @@ Relationship Point Choices:
 - I've been great! (Venam +3)
 - It's been going. (Neutral)
 
-After the rest of the cutscenes play out… we did it! There are a couple
+After the rest of the cutscenes play out... we did it! There are a couple
 quests we can take care of right now before progressing the story
 further.
 
@@ -15950,7 +15837,7 @@ way to the bottommost room, with the fireplace. After a scene, enter the
 fireplace, then talk to the safe after another scene for a *Fairy
 Memory.* Exit to the well in the backyard.
 
-Grab the Rift Notes for Code: Rembrence…
+Grab the Rift Notes for Code: Rembrence...
 
 Dimensional Rift Dufaux (Bewitched Field)
 -   Froslass (Dufaux Form), Level 90. @ Metronome. Ability: Temporal
@@ -16165,7 +16052,7 @@ to encounter **Deino.** Sweet!
 
 ## Zygarde 10% Form
 
-There's just one more thing we can do… If you've noticed, we've
+There's just one more thing we can do... If you've noticed, we've
 collected a lot of Zygarde Cells. Return to Gearen City to talk to
 Ayuda.
 
@@ -16826,7 +16713,7 @@ Relationship Point Choices:
 - Not really, no. (Huey -3, Lavender -4)
 - Where's Reina? (Neutral)
 
-In a room at the bottom is the… bobsled club? If you can defeat all the
+In a room at the bottom is the... bobsled club? If you can defeat all the
 students, you'll be gifted the MegaStone *Cameruptite!*
 
 In another room on this floor you'll find:
@@ -17029,7 +16916,7 @@ Grigus, then return to the auditorium. Go up here, then follow the path
 to Lavender's door.
 
 Enter the moon base and grab the crimson quartz in the upper room then
-heat it in the bottom. Head out… and we must run away from Risa!! Don't
+heat it in the bottom. Head out... and we must run away from Risa!! Don't
 let yourself get hit too many times. Maneuver your way through the path,
 hitting switches as you go. Press the last green switch then back into
 the hallway and go up. Get the thing here then push the button and head
@@ -17298,7 +17185,7 @@ Relationship Point Choices:
 - Kick ass, Saki! (Saki +3)
 - Uh... Good luck? (Saki +/-2)
 
-Put the mannequins into pods… yikes.
+Put the mannequins into pods... yikes.
 
 Head up and interact with the monitor thing. Then go up and talk to the
 box thing. Then input 7496 into the monitor. Talk to Amber then push the
@@ -17315,7 +17202,7 @@ After learning about all this, it's finally time to enter the player's
 door!
 
 This area is straight forward. When all is said and done, you'll have to
-fight… your protagonist. Each protagonist has a different team, so find
+fight... your protagonist. Each protagonist has a different team, so find
 the one that applies to you.
 
 Pokemon Trainer Ana (Snowy Mountain Field)
@@ -17735,7 +17622,7 @@ Relationship Point Choices (Aelita 2 Chosen):
 - Aelita, I'm sorry... (Aelita +1)
 - Could've been more clear! (Aelita -2)
 
-…but it is a higher net to just choose Aelita 1 no matter what.
+...but it is a higher net to just choose Aelita 1 no matter what.
 
 Anyways, time for a battle!
 
@@ -18013,7 +17900,7 @@ Optimistic Guy Huey (Starlight Field)
 Huey is not too bad! Just make sure he doesn't get stupidly powerful
 with Octillery or Glalie's moody and you'll be fine.
 
-Now we get to play as Saki for a bit. Interact with all the … as well as
+Now we get to play as Saki for a bit. Interact with all the ... as well as
 Saki's parents then pick up the phone in the upper left corner.
 
 Back as the player, enter the first room.
