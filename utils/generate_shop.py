@@ -1,26 +1,36 @@
-t = '''*Poke Ball* $200
+t = '''
 
-*Great Ball* $600
+*Protector* $2100
 
-*Ultra Ball* $1200
+*Magmarizer* $2100
 
-*Super Potion* $700
+*Dragon Scale* $2100
 
-*Hyper Potion* $1200
+*Electrizer* $2100
 
-*Ultra Potion* $2200
+*DeepSeaTooth* $200
 
-*Awakening* $250
+*DeepSeaScale* $200
 
-*GourmetTreat* $1500
+*Up-Grade* $2100
 
-*Reverse Candy* $50
+*Dubious Disc* $2100
 
-*Repel* $350
+*Prism Scale* $500
 
-*Super Repel* $500
+*Sachet* $1000
 
-*Max Repel* $700'''
+*Whipped Dream* $1000
+
+*Razor Claw* $2100
+
+*Oval Stone* $2100
+
+*Razor Fang* $2100
+
+*Reaper Cloth* $2100
+
+'''
 
 lines = t.split('\n')
 items = []
