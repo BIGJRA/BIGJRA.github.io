@@ -270,7 +270,7 @@ cells, tutors, Pokemon Locations, and more!
         - <a href="#starter-choices" id="toc-starter-choices">Starter Choices</a>
         - <a href="#mystery-egg-choices" id="toc-mystery-egg-choices">Mystery Egg Choices</a>
         - <a href="#completely-unobtainable" id="toc-completely-unobtainable">Completely Unobtainable</a>
-
+        - <a href="#legendaries" id="toc-legendaries">Completely Unobtainable</a>
     -   <a href="#pickup-table" id="toc-pickup-table">Pickup Table</a>
     -   <a href="#crest-descriptions" id="toc-crest-descriptions">Crest Descriptions</a>
 
@@ -17469,7 +17469,8 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 ## V13 Unobtainable Pokemon
 
 ### Starter Choices
-You can only get at most one of these, when selecting your starter:
+
+You can only get at most one of these lines, when selecting your starter:
 - **Torchic\***
 - **Combusken\***
 - **Blaziken\***
@@ -17487,6 +17488,7 @@ You can only get at most one of these, when selecting your starter:
 - **Cinderace\***
 
 ### Mystery Egg Choices
+
 You can only get at most one of these lines, when randomly obtaining
 your mystery egg:
 - **Togepi\*\***
@@ -17497,26 +17499,48 @@ your mystery egg:
 - **Corviknight\*\***
 
 ### Completely Unobtainable
+
 You can't get any of the following Pokemon yet under any circumstances:
+- **Hisuian Growlithe**
+- **Hisuian Arcanine**
+- **Galarian Slowpoke**
+- **Galarian Slowbro**
+- **Hisuian Voltorb**
+- **Hisuian Electrode**
 - **Magikarp**
 - **Gyarados**
 - **Dratini**
 - **Dragonair**
 - **Dragonite**
+- **Hisuian Typhlosion**
+- **Galarian Slowking**
+- **Hisuian Qwilfish**
+- **Hisuian Sneasel**
 - **Larvitar**
 - **Pupitar**
 - **Tyranitar**
 - **Bagon**
 - **Shelgon**
 - **Salamence**
+- **Hisuian Samurott**
 - **Drilbur**
 - **Excadrill**
+- **Hisuian Lilligant**
+- **Galarian Darumaka**
+- **Galarian Darmanitan**
+- **Hisuian Zorua**
+- **Hisuian Zoroark**
 - **Ferroseed**
 - **Ferrothorn**
+- **Hisuian Braviary**
 - **Honedge**
 - **Doublade**
 - **Aegislash**
 - **Hawlucha**
+- **Hisuian Sliggoo**
+- **Hisuian Goodra**
+- **Hisuian Avalugg**
+- **Hisuian Decidueye**
 - **Jangmo'o**
 - **Hakamo'o**
 - **Kommo'o**
@@ -17529,14 +17553,22 @@ You can't get any of the following Pokemon yet under any circumstances:
 - **Dreepy**
 - **Drakloak**
 - **Dragapult**
-- **Galarian Slowpoke**
-- **Galarian Slowbro**
-- **Galarian Slowking**
-- **Galarian Darumaka**
-- **Galarian Darmanitan**
+- **Wyrdeer**
+- **Kleavor**
+- **Ursaluna**
+- **Basculegion**
+- **Sneasler**
+- **Overqwil**
+
+### Legendaries
+
+At the moment, none of the following legendaries are available either:
 - **Articuno**
+- **Galarian Articuno**
 - **Zapdos**
+- **Galarian Zapdos**
 - **Moltres**
+- **Galarian Moltres**
 - **Mewtwo**
 - **Mew**
 - **Raikou**
@@ -17622,9 +17654,7 @@ You can't get any of the following Pokemon yet under any circumstances:
 - **Glastrier**
 - **Spectrier**
 - **Calyrex**
-- **Galarian Articuno**
-- **Galarian Zapdos**
-- **Galarian Moltres**
+- **Enamorus**
 
 ## Pickup Table
 
