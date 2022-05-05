@@ -27,14 +27,17 @@ table {
 }
 
 table#pickup-table {
-    text-align: center;
-    vertical-align: middle;
+
 }
 
 table#pickup-table td {
     padding: 0;
+    text-align: center;
+    vertical-align: middle;
 }
 
 table#pickup-table th {
     padding: 3px
+    text-align: center;
+    vertical-align: middle;
 }
