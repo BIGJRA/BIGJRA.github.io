@@ -1,34 +1,6 @@
 t = '''
+*Delcatty Crest* 14000 Red Essences
 
-*Protector* $2100
-
-*Magmarizer* $2100
-
-*Dragon Scale* $2100
-
-*Electrizer* $2100
-
-*DeepSeaTooth* $200
-
-*DeepSeaScale* $200
-
-*Up-Grade* $2100
-
-*Dubious Disc* $2100
-
-*Prism Scale* $500
-
-*Sachet* $1000
-
-*Whipped Dream* $1000
-
-*Razor Claw* $2100
-
-*Oval Stone* $2100
-
-*Razor Fang* $2100
-
-*Reaper Cloth* $2100
 
 '''
 

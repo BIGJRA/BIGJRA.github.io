@@ -267,6 +267,10 @@ cells, tutors, Pokemon Locations, and more!
         - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
         - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
     -   <a href="#v13-unobtainable-pokemon" id="toc-v13-unobtainable-pokemon">V13 Unobtainable Pokemon</a>
+        - <a href="#starter-choices" id="toc-starter-choices">Starter Choices</a>
+        - <a href="#mystery-egg-choices" id="toc-mystery-egg-choices">Mystery Egg Choices</a>
+        - <a href="#completely-unobtainable" id="toc-completely-unobtainable">Completely Unobtainable</a>
+
     -   <a href="#pickup-table" id="toc-pickup-table">Pickup Table</a>
     -   <a href="#crest-descriptions" id="toc-crest-descriptions">Crest Descriptions</a>
 
@@ -15623,13 +15627,9 @@ Alexandra.
 The Storm (Desert Field)
 -   STORM \| Wind, Level 80. @ Demon Stone. Type: Flying. Ability:
     Tempest. Stats: 450/70/150/140/150/20.
-
     -   Weather Ball
-
     -   Hurricane
-
     -   Thunder
-
     -   Psyshock
 
 You can defeat this thing easily. Notice what weather gets activated by
@@ -15656,58 +15656,34 @@ Afterwards, prepare yourself for a battle with Melia!
 
 Pokemon Trainer Melia (Fairy Tale Field)
 -   Hydreigon, Level 85. @ Focus Sash.
-
     -   Flamethrower
-
     -   Flash Cannon
-
     -   Dragon Pulse
-
     -   Protect
--   Azombarill (real ones know!), Level 84. @ Assault Vest.
-
+-   Azumarill, Level 84. @ Assault Vest.
     -   Play Rough
-
     -   Liquidation
-
     -   Ice Punch
-
     -   Aqua Jet
 -   Mimikyu, Level 84. @ Magical Seed.
-
     -   Swords Dance
-
     -   Play Rough
-
     -   Shadow Claw
-
     -   Shadow Sneak
 -   Snorlax, Level 84. @ Chople Berry.
-
     -   Return
-
     -   Earthquake
-
     -   Heavy Slam
-
     -   Heat Crash
 -   Togekiss, Level 85. @ Babiri Berry.
-
     -   Aura Sphere
-
     -   Gilded Arrows (Flying Type)
-
     -   Nasty Plot
-
     -   Draining Kiss
 -   Aegislash, Level 85. @ Magical Seed.
-
     -   King's Shield
-
     -   Swords Dance
-
     -   Shadow Sneak
-
     -   Sacred Sword
 
 Gilded Arrows: Type is the same as the user's secondary type, unless the
@@ -15819,7 +15795,7 @@ Relationship Point Choices:
 - Cool... I guess. (Aelita -1, Melia -1, Alexandra -2, Erin
 -1, Venam -1, Ren -1, Allen +5, Alice +5)
 
-Again, Allen is a real one.
+Gosh, Allen and Alice are so cool.
 
 Once you get control, take the time to fly over to Eclysia Pyramid if
 you'd like. Head up the stairs to the right and follow the path: you'll
@@ -15862,22 +15838,14 @@ then left, up, and left into the Ballroom.
 
 Ice Soldiers Erin and Kanon (No Field)
 -   Absol, Level 90. @ NeverMeltIce.
-
     -   Ice Shard
-
     -   Icicle Crash
-
     -   Blizzard
-
     -   Scald
 -   Salamence, Level 90. @ NeverMeltIce.
-
     -   Ice Shard
-
     -   Icicle Crash
-
     -   Blizzard
-
     -   Scald
 
 Nothing too bad: Blizzard from Ampharos can take care of Salamence and
@@ -15897,58 +15865,34 @@ to the top door to confront Angie.
 
 Angie and Cera (Frozen Dimensional Rift Field)
 -   Mamoswine, Level 83. @ Elemental Seed.
-
     -   Ice Shard
-
     -   Icicle Crash
-
     -   Rock Slide
-
     -   Earthquake
 -   Beartic, Level 84. @ Focus Sash.
-
     -   Play Rough
-
     -   Low Kick
-
     -   Icicle Crash
-
     -   Rock Slide
 -   Walrein, Level 85. @ Assault Vest.
-
     -   Surf
-
     -   Cold Truth
-
     -   Rock Slide
-
     -   Stomping Tantrum
 -   Rotom Freeze, Level 83. @ Chople Berry.
-
     -   Cold Truth
-
     -   Discharge
-
     -   Will-o-Wisp
-
     -   Blizzard
 -   Morpeko, Level 83. @ Elemental Seed.
-
     -   Power Trip
-
     -   Aura Wheel
-
     -   Fake Out
-
     -   Seed Bomb
 -   Ursaring, Level 83. @ Life Orb
-
     -   Ice Punch
-
     -   Throat Chop
-
     -   Return
-
     -   Play Rough
 
 This one can be tough, but not as bad as our first encounter with Angie.
@@ -15975,58 +15919,34 @@ you can do it alone if you want.
 
 Rogue Psychic Lorna (Blessed Field)
 -   Vivillon, Level 83. @ Focus Sash.
-
     -   Rage Powder
-
     -   Irritation
-
     -   Sleep Powder
-
     -   Hurricane
 -   Aromatisse, Level 84. @ Sitrus Berry.
-
     -   Trick Room
-
     -   Mystical Fire
-
     -   Moonblast
-
     -   Light Screen
 -   Darmanitan, Level 85. @ Darmanitan Crest.
-
     -   Heat Wave
-
     -   Psychic
-
     -   Will-o-Wisp
-
     -   Focus Blast
 -   Stonjourner, Level 84. @ Weakness Policy.
-
     -   Rock Slide
-
     -   Body Press
-
     -   Heat Crash
-
     -   Protect
 -   Aevian Lapras, Level 85. @ Magical Seed.
-
     -   Blizzard
-
     -   Hypnosis
-
     -   Psychic
-
     -   Nature Power
 -   Fused Solrock, Level 85. @ Life Orb.
-
     -   Rock Slide
-
     -   Zen Headbutt
-
     -   Solar Flare
-
     -   Trick Room
 
 I picked Ren, and this was a cakewalk compared to last time. Let Mega
@@ -16045,13 +15965,9 @@ Prepare to fight a mech Gyarados!
 Defense Mech Gyarados (Crystal Cavern)
 -   Defense Mech Gyarados, Level 90. @ Sitrus Berry. Ability: Liquid
     Voice. Type: Water/Steel. Stats: 300/110/150/100/150/51
-
     -   Flash Cannon
-
     -   Hyper Beam
-
     -   Signal Beam
-
     -   Scald
 
 Every time it attacks, it attacks twice. Luckily, it's not too hard with
@@ -16062,58 +15978,34 @@ go up when you're ready.
 
 Team Xen Madelis (Crystal Cavern)
 -   Cinccino, Level 84. @ Life Orb.
-
     -   Bullet Seed
-
     -   Rock Blast
-
     -   Tail Slap
-
     -   Wake Up Slap
 -   Crobat, Level 85. @ Flying Gem.
-
     -   Acrobatics
-
     -   Tailwind
-
     -   Cross Poison
-
     -   U-Turn
 -   Tsareena, Level 84. @ Assault Vest.
-
     -   Trop Kick
-
     -   Play Rough
-
     -   Power Whip
-
     -   Low Kick
 -   Florges, Level 85. @ Leftovers.
-
     -   Toxic
-
     -   Dazzling Gleam
-
     -   Synthesis
-
     -   Giga Drain
 -   Salazzle, Level 85. @ Charcoal.
-
     -   Heat Wave
-
     -   Sludge Bomb
-
     -   Foul Play
-
     -   Fake Out
 -   Houndoom, Level 85. @ Houndoominite.
-
     -   Heat Wave
-
     -   Dark Pulse
-
     -   Sunny Day
-
     -   Sludge Bomb.
 
 This is a tough fight in general, but I found a pretty easy way to win
@@ -16137,60 +16029,35 @@ After a scene, head up.
 
 Team Xen Admin Cassandra (Blessed Field)
 -   Shadow Bisharp, Level 84. @ Focus Sash.
-
     -   Shadow Break
-
     -   Stealth Rock
-
     -   Iron Head
-
     -   Night Slash
-
     -   Brick Break
 -   Lycanroc, Level 86. @ Life Orb.
-
     -   Stone Edge
-
     -   Drill Run
-
     -   Psychic Fangs
-
     -   Close Combat
 -   Serperior, Level 85. @ Flame Plate.
-
     -   Hidden Power Fire
-
     -   Dragon Pulse
-
     -   Leaf Storm
-
     -   Giga Drain
 -   Aevian Milotic, Level 85. @ Babiri Berry.
-
     -   Coil
-
     -   Gunk Shot
-
     -   Play Rough
-
     -   Recover
 -   Cinccino, Level 85. @ Cinccino Crest.
-
     -   Return
-
     -   Play Rough
-
     -   Retaliate
-
     -   Knock Off
 -   Mawile, Level 86. @ Mawilite.
-
     -   Play Rough
-
     -   Iron Head
-
     -   Sucker Punch
-
     -   Swords Dance
 
 This is a tough battle as Cassandra has a lot of threats, and if you're
@@ -16219,15 +16086,13 @@ Head up and into the school.
 
 Axis High Shop
 
-*Poke Ball* $200
-
-*Great Ball* $200
-
-*Ultra Ball* $1200
-
-*Ultra Potion* $2200
-
-*Max Repel* $700
+|Item          |Price|
+|--------------|-----|
+|*Poke Ball*   |$200 |
+|*Great Ball*  |$200 |
+|*Ultra Ball*  |$1200|
+|*Ultra Potion*|$2200|
+|*Max Repel*   |$700 |
 
 A little note here: it turns out that as soon as you get the Zygarde 10%
 from Ayuda, the new cells won't appear. For completeness I will list
@@ -16266,22 +16131,14 @@ Time for a 2v2 battle with Risa Raider downstairs.
 
 Pop Star Risa Raider (No Field)
 -   Tuff-Puff Jigglypuff, Level 90. @ Air Balloon.
-
     -   Sludge Bomb
-
     -   Thunderbolt
-
     -   Draco Meteor
-
     -   Flamethrower
 -   Delcatty, Level 85. @ Delcatty Crest.
-
     -   Fake Out
-
     -   Helping Hand
-
     -   Blizzard
-
     -   Frustration
 
 As before this is very winnable, surely you can figure out a way.
@@ -16295,7 +16152,7 @@ sleep. The next day, head to the auditorium for the announcement!
 
 ## Aelita School Route
 
-~~Time to play Danganronpa.~~ I will begin with Path 1. Once more you'll
+I will begin with Path 1. Once more you'll
 be given a choice to activate the Interceptor's Wish, I declined.
 
 Head outside. Enter this classroom to the left and use the 'A' key to do
@@ -16304,11 +16161,11 @@ taken up the shop.
 
 Nightmare University Shop
 
-*Super Potion* $700
-
-*Full Heal* $600
-
-*Ultra Potion* $2200
+|Item          |Price|
+|--------------|-----|
+|*Super Potion*|$700 |
+|*Full Heal*   |$600 |
+|*Ultra Potion*|$2200|
 
 Do a group investigation on the three entryway areas if you'd like, then
 head to the left area to give the Masked Men the password: "Sorry".
@@ -16319,13 +16176,9 @@ yes to the person on the left and return to Ms. Erable.
 
 Axis High University Student Jean (No Field)
 -   Zekrom, Level 90. @ Lum Berry.
-
     -   Focus Blast
-
     -   Reflect
-
     -   Bolt Strike
-
     -   Outrage
 
 This has two shields. Take advantage of Granbull and Staraptor's
@@ -16349,13 +16202,9 @@ Pick a partner or choose to go alone, time to fight Grigus.
 
 Axis High Student Random Student (No Field)
 -   Coffee Grigus, Level 87. @ Demon Stone.
-
     -   Sky Uppercut
-
     -   Ice Hammer
-
     -   Meteor Mash
-
     -   Shadow Punch
 
 It has three shields and hits twice; however, this fight is very easy.
@@ -16373,31 +16222,19 @@ touches the sunflower.
 
 Doctor Isha (Factory Field)
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
-
     -   Strange Steam
-
     -   Sludge Bomb
-
     -   Pain Split
-
     -   Flamethrower
 -   Arctozolt, Level 86. @ Quick Claw.
-
     -   Bolt Beak
-
     -   Icicle Crash
-
     -   Rock Slide
-
     -   Ice Beam
 -   Hydreigon, Level 87. @ Metronome.
-
     -   Dark Pulse
-
     -   Dragon Pulse
-
     -   Nasty Plot
-
     -   Roost
 
 Easy enough for your team!
@@ -16407,40 +16244,24 @@ another battle!
 
 Masked Man ??? (Desert Field)
 -   Girafarig, Level 87. @ Twisted Spoon.
-
     -   Psychic
-
     -   Nasty Plot
-
     -   Hyper Voice
-
     -   Energy Ball
 -   Komala, Level 87. @ Muscle Band.
-
     -   Sucker Punch
-
     -   Zen Headbutt
-
     -   Wood Hammer
-
     -   Thrash
 -   Comfey, Level 87. @ Big Root.
-
     -   Draining Kiss
-
     -   Giga Drain
-
     -   Leech Seed
-
     -   Calm Mind
 -   Hippowdon, Level 88. @ Leftovers.
-
     -   Earthquake
-
     -   Sand Tomb
-
     -   Ice Fang
-
     -   Slack Off
 
 If you can get some chip damage off on Hippowdon with Cherrim and
@@ -16468,13 +16289,9 @@ have a real team for a real fight!
 
 Pop Star Risa Raider (Factory Field)
 -   Reshiram, Level 90. @ Wise Glasses.
-
     -   Dragon Claw
-
     -   Fusion Flare
-
     -   Earth Power
-
     -   Crunch
 
 Winning this one seems to rely on luck, but oh well. Yawn first turn
@@ -16508,16 +16325,18 @@ need to generate different students based on their attributes, the
 chalkboards in the lower left classroom are the guide. So, make the
 following:
 
--  Determined, Math, Medical Proficiency, Internship Experience
--  Studious, English, Drama Proficiency, 10 or more performances
--  Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
+Student 1: Determined, Math, Medical Proficiency, Internship Experience
+
+Student 2: Studious, English, Drama Proficiency, 10 or more performances
+
+Student 3: Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
 
 Relationship Point Choices:
 - Give her space. (Saki +2)
 - She has amnesia. (Saki +1, Amber +1)
 - ... (Saki -2)
 
--  Studious, Engineering, Engineering Proficiency, 3 Years' Experience
+Student 4: Studious, Engineering, Engineering Proficiency, 3 Years' Experience
 
 Talk to the door at the top.
 
@@ -16527,58 +16346,34 @@ Relationship Point Choices:
 
 Team Xen Zetta (Factory Field)
 -   Minior, Level 84. @ Focus Sash.
-
     -   Shell Smash
-
     -   Acrobatics
-
     -   Earthquake
-
     -   Explosion
 -   Hitmonlee, Level 84. @ Normal Gem.
-
     -   Fake Out
-
     -   High Jump Kick
-
     -   Throat Chop
-
     -   Rock Slide
 -   Weavile, Level 85. @ Life Orb.
-
     -   Night Slash
-
     -   Icicle Crash
-
     -   Ice Shard
-
     -   Poison Jab
 -   Absol, Level 85. @ Scope Lens.
-
     -   Sucker Punch
-
     -   Night Slash
-
     -   Play Rough
-
     -   Stone Edge
 -   Dragonite, Level 85. @ Weakness Policy.
-
     -   Dragon Dance
-
     -   Extremespeed
-
     -   Dragon Claw
-
     -   Earth Power
 -   Typhlosion, Level 86. @ Typhlosion Crest.
-
     -   Eruption
-
     -   Flare Blitz
-
     -   Extrasensory
-
     -   Thunderpunch
 
 This one is somewhat tough but luckily not as bad as Mt. Valor! You'll
@@ -16600,31 +16395,19 @@ reenter the main hallway.
 
 Doctor Isha (Factory Field)
 -   Galarian Weezing, Level 85. @ Rocky Helmet.
-
     -   Strange Steam
-
     -   Sludge Bomb
-
     -   Pain Split
-
     -   Flamethrower
 -   Arctozolt, Level 86. @ Quick Claw.
-
     -   Bolt Beak
-
     -   Icicle Crash
-
     -   Rock Slide
-
     -   Ice Beam
 -   Hydreigon, Level 87. @ Metronome.
-
     -   Dark Pulse
-
     -   Dragon Pulse
-
     -   Nasty Plot
-
     -   Roost
 
 A bit harder since you only have three this time, but nonetheless very
@@ -16639,31 +16422,19 @@ prompted to.
 
 Masked Individual ??? (No Field)
 -   Roserade, Level 84.
-
     -   Stun Spore
-
     -   Magical Leaf
-
     -   Sludge Bomb
-
     -   Shadow Ball
 -   Hippowdon, Level 85. @ Leftovers.
-
     -   Earthquake
-
     -   Curse
-
     -   Rock Tomb
-
     -   Slack Off
 -   Piloswine, Level 84. @ Eviolite.
-
     -   Protect
-
     -   Toxic
-
     -   Earthquake
-
     -   Icicle Spear
 
 Again, probably easy for your team at this point.
@@ -16703,13 +16474,9 @@ Take the teleporter then go up.
 
 Masked Individual (No Field)
 -   Genesect, Level 88. @ Douse Drive.
-
     -   Techno Blast (Water)
-
     -   Flash Cannon
-
     -   Bug Buzz
-
     -   Shift Gear
 
 Obviously, a fast fire move will do the trick here.
@@ -16742,394 +16509,226 @@ the one that applies to you.
 
 Pokemon Trainer Ana (Snowy Mountain Field)
 -   Leavanny, Level 85. @ Focus Sash.
-
     -   Sticky Web
-
     -   Leaf Blade
-
     -   Electroweb
-
     -   X-Scissor
 -   Dragapult, Level 85. @ Ghostium-Z.
-
     -   Dragon Darts
-
     -   Phantom Force
-
     -   Dragon Dance
-
     -   Will-o-Wisp
 -   Slowbro, Level 86. @ Slowbronite.
-
     -   Calm Mind
-
     -   Slack Off
-
     -   Psychic
-
     -   Scald
 -   Porygon2, Level 85. @ Eviolite.
-
     -   Recover
-
     -   Ice Beam
-
     -   Thunderbolt
-
     -   Foul Play
 -   Falinks, Level 85. @ Life Orb.
-
     -   No Retreat
-
     -   Throat Chop
-
     -   Iron Head
-
     -   Close Combat
 -   Magnezone, Level 86. @ Custap Berry.
-
     -   Discharge
-
     -   Hidden Power Fire
-
     -   Flash Cannon
-
     -   Thunder Wave
 
 Pokemon Trainer Aevis (Snowy Mountain Field)
 -   Gigalith, Level 85. @ Light Clay.
-
     -   Arenite Wall
-
     -   Stone Edge
-
     -   Body Press
-
     -   Toxic
 -   Sylveon, Level 85. @ Assault Vest.
-
     -   Hyper Voice
-
     -   Mystical Fire
-
     -   Psyshock
-
     -   Hidden Power Ground
 -   Lucario, Level 86. @ Lucarionite.
-
     -   Meteor Mash
-
     -   Close Combat
-
     -   Extremespeed
-
     -   Crunch
 -   Huntail, Level 85. @ White Herb.
-
     -   Shell Smash
-
     -   Aqua Tail
-
     -   Ice Beam
-
     -   Crunch
 -   Lycanroc, Level 85. @ Life Orb.
-
     -   Stone Edge
-
     -   Accelerock
-
     -   Sucker Punch
-
     -   Drill Run
 -   Decidueye, Level 86. @ Decidium-Z.
-
     -   Spirit Shackle
-
     -   Leaf Blade
-
     -   Roost
-
     -   Brave Bird
 
 Pokemon Trainer Aevia (Snowy Mountain Field)
 -   Mudsdale, Level 85. @ Passho Berry.
-
     -   Stealth Rock
-
     -   Earthquake
-
     -   Roar
-
     -   Body Press
 -   Venomoth, Level 85. @ Focus Sash.
-
     -   Quiver Dance
-
     -   Sleep Powder
-
     -   Bug Buzz
-
     -   Sludge Bomb
 -   Lapras, Level 86. @ Laprasite.
-
     -   Dragon Dance
-
     -   Liquidation
-
     -   Ice Shard
-
     -   Drill Run
 -   Whimsicott, Level 85. @ Life Orb.
-
     -   Moonblast
-
     -   Hurricane
-
     -   Energy Ball
-
     -   Encore
 -   Noctowl, Level 85. @ Noctowl Crest.
-
     -   Psychic
-
     -   Hurricane
-
     -   Nasty Plot
-
     -   Roost
 -   Samurott, Level 86. @ Samurott Crest.
-
     -   Swords Dance
-
     -   Sacred Sword
-
     -   Razor Shell
-
     -   Megahorn
 
 Pokemon Trainer Ariana (Snowy Mountain Field)
 -   Blaziken, Level 85. @ Focus Sash.
-
     -   Protect
-
     -   Baton Pass
-
     -   Reversal
-
     -   Swords Dance
 -   Volcarona, Level 85. @ Heavy Duty Boots.
-
     -   Quiver Dance
-
     -   Bug Buzz
-
     -   Fire Blast
-
     -   Hurricane
 -   Altaria, Level 86. @ Altarianite.
-
     -   Dragon Dance
-
     -   Return
-
     -   Cotton Guard
-
     -   Roost
 -   Meowstic, Level 85. @ Damp Rock.
-
     -   Rain Dance
-
     -   Thunder
-
     -   Psychic
-
     -   Me First
 -   Kingdra, Level 85. @ Life Orb.
-
     -   Waterfall
-
     -   Outrage
-
     -   Hydro Pump
-
     -   Flash Cannon
 -   Oricorio, Level 86. @ Oricorio Crest.
-
     -   Hurricane
-
     -   Revelation Dance
-
     -   Baton Pass
-
     -   Calm Mind
 
 Pokemon Trainer Axel (Snowy Mountain Field)
 -   Klefki, Level 85. @ Mental Herb.
-
     -   Spikes
-
     -   Thunder Wave
-
     -   Magnet Rise
-
     -   Foul Play
 -   Meowstic, Level 85. @ Red Card.
-
     -   Calm Mind
-
     -   Reflect
-
     -   Thunderbolt
-
     -   Psychic
 -   Grimmsnarl, Level 86. @ Grimmsnarlite.
-
     -   Bulk Up
-
     -   Rest
-
     -   Spirit Break
-
     -   Sleep Talk
 -   Darmanitan, Level 85. @ Life Orb.
-
     -   Flare Blitz
-
     -   Rock Slide
-
     -   Superpower
-
     -   U-Turn
 -   Perrserker, Level 85. @ Assault Vest.
-
     -   Iron Head
-
     -   Play Rough
-
     -   Close Combat
-
     -   U-Turn
 -   Feraligatr, Level 86. @ Feraligatr Crest.
-
     -   Dragon Dance
-
     -   Liquidation
-
     -   Crunch
-
     -   Ice Fang
 
 Pokemon Trainer Alain (Snowy Mountain Field)
 -   Araquanid, Level 85. @ Focus Sash.
-
     -   Sticky Web
-
     -   Hydro Pump
-
     -   Leech Life
-
     -   Toxic
 -   Aggron, Level 85. @ Weakness Policy.
-
     -   Heavy Slam
-
     -   Stone Edge
-
     -   Rock Polish
-
     -   Earthquake
 -   Kangaskhan, Level 86. @ Kangaskhanite.
-
     -   Power Up Punch
-
     -   Fake Out
-
     -   Return
-
     -   Crunch
 -   Scrafty, Level 85. @ Coba Berry.
-
     -   Dragon Dance
-
     -   Poison Jab
-
     -   High Jump Kick
-
     -   Crunch
 -   Haxorus, Level 85. @ Life Orb.
-
     -   Dragon Dance
-
     -   Dragon Claw
-
     -   Poison Jab
-
     -   Earthquake
 -   Pikachu-Belle, Level 86. @ Light Ball.
-
     -   Volt Tackle
-
     -   Extremespeed
-
     -   Icicle Crash
-
     -   Brick Break
 
 Pokemon Trainer Aero (Snowy Mountain Field)
 -   Luxray, Level 85. @ Luxray Crest.
-
     -   Crunch
-
     -   Volt Switch
-
     -   Wild Charge
-
     -   Ice Fang
 -   Musharna, Level 85. @ Colbur Berry.
-
     -   Moonlight
-
     -   Toxic
-
     -   Psychic
-
     -   Hidden Power Fire
 -   Salamence, Level 86. @ Salamencite.
-
     -   Earthquake
-
     -   Dragon Claw
-
     -   Dragon Dance
-
     -   Return
 -   Tyrantrum, Level 85. @ Focus Sash.
-
     -   Dragon Dance
-
     -   Head Smash
-
     -   Outrage
-
     -   Earthquake
 -   Medicham, Level 85. @ Life Orb.
-
     -   Bullet Punch
-
     -   Zen Headbutt
-
     -   High Jump Kick
-
     -   Ice Punch
 -   Delphox, Level 86. @ Grassium-Z.
-
     -   Fire Blast
-
     -   Psychic
-
     -   Grass Knot
-
     -   Will-o-Wisp
 
 They're not insanely difficult, and you will succeed with the right
@@ -17163,58 +16762,34 @@ Anyways, time for a battle!
 
 ??? Clear (Factory Field)
 -   Stantler, Level 85. @ Stantler Crest.
-
     -   Return
-
     -   Earthquake
-
     -   Sucker Punch
-
     -   Hypnosis
 -   Mismagius, Level 85. @ Life Orb.
-
     -   Shadow Ball
-
     -   Dazzling Gleam
-
     -   Thunderbolt
-
     -   Will-o-Wisp
 -   Beheeyem, Level 86. @ Beheeyem Crest.
-
     -   Psyshock
-
     -   Shadow Ball
-
     -   Flash Cannon
-
     -   Recover
 -   Porygon-Z, Level 85. @ Synthetic Seed.
-
     -   Dark Pulse
-
     -   Blizzard
-
     -   Thunderbolt
-
     -   Tri Attack
 -   Klinklang, Level 85. @ Air Balloon.
-
     -   Shift Gear
-
     -   Gear Grind
-
     -   Return
-
     -   Wild Charge
 -   Naganadel, Level 87. @ Life Orb.
-
     -   Sludge Wave
-
     -   Dragon Pulse
-
     -   Heat Wave
-
     -   Nasty Plot
 
 The Naganadel has two shields, and her Stantler and Beheeyem each have
@@ -17235,9 +16810,8 @@ Head back up to Axis High.
 
 Land of Broken Dreams
 
-|              |          |
+| Grass        | %        |
 |--------------|----------|
-| Grass | % |
 | Drowzee      | 35       |
 | Morelull     | 30       |
 | Koffing      | 10       |
@@ -17269,58 +16843,34 @@ Prepare yourself for a battle and head up.
 
 Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
 -   Aevian Chandelure, Level 84. @ Focus Sash.
-
     -   Dazzling Gleam
-
     -   Shadow Ball
-
     -   Thunderbolt
-
     -   Trick Room
 -   Corviknight, Level 86. @ Corviknite.
-
     -   Taunt
-
     -   Brave Bird
-
     -   Body Press
-
     -   Iron Head
 -   Aurorus, Level 85. @ Magical Seed.
-
     -   Aurora Veil
-
     -   Blizzard
-
     -   Nature Power
-
     -   Earth Power
 -   Sirfetch'd, Level 86. @ Stick.
-
     -   Meteor Assault
-
     -   Night Slash
-
     -   Poison Jab
-
     -   Brick Break
 -   Samurott, Level 85. @ Samurott Crest.
-
     -   Sacred Sword
-
     -   Razor Shell
-
     -   Night Slash
-
     -   Aqua Jet
 -   Aegislash, Level 87. @ Magical Seed.
-
     -   Flash Cannon
-
     -   Shadow Ball
-
     -   King's Shield
-
     -   Sacred Sword
 
 This is a tough battle that takes full advantage of both field effects
@@ -17348,14 +16898,12 @@ Relationship Point Choices:
 Head up and follow the path to obtain the ZCrystal *Intercept-Z!*
 
 Puppet Master (Starlight Field)
--   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
-    Nightmares. Type: Dark/Psychic.
-
-Stats: 500/50/300/60/300/1. 4 Shields.
--   Nightmare
--   Bunraku Beatdown
--   Spirit Break
--   Dream Eater
+-   Puppet Master, Level 85. @ Leftovers. Ability: World of
+    Nightmares. Type: Dark/Psychic. Stats: 500/50/300/60/300/1. 4 Shields.
+    -   Nightmare
+    -   Bunraku Beatdown
+    -   Spirit Break
+    -   Dream Eater
 
 Equip the Intercept-Z to a Pokemon first and you'll have a much easier
 time, but it's not necessary. It's very slow, so you can easily drop its
@@ -17365,71 +16913,45 @@ If you use any weather, you'll change the field to nothing, which can be
 useful.
 
 Puppet Master (Starlight Field)
--   Puppet Master Darkrai, Level 85. @ Leftovers. Ability: World of
-    Nightmares. Type: Dark/Psychic.
-
-Stats: 500/1/80/80/1/1
--   Nightmare
--   Bunraku Beatdown
--   Spirit Break
--   Dream Eater
+-   Puppet Master, Level 85. @ Leftovers. Ability: World of
+    Nightmares. Type: Dark/Psychic. Stats: 500/1/80/80/1/1
+    -   Nightmare
+    -   Bunraku Beatdown
+    -   Spirit Break
+    -   Dream Eater
 
 Even easier than the first time. The Intercept-Z helps as before!
 
 Optimistic Guy Huey (Starlight Field)
 -   Kecleon, Level 81. @ Focus Sash.
-
     -   Knock Off
-
     -   Power Up Punch
-
     -   Sucker Punch
-
     -   Shadow Sneak
 -   Gogoat, Level 82. @ Leftovers.
-
     -   Horn Leech
-
     -   Nature Power
-
     -   Bounce
-
     -   Protect
 -   Glalie, Level 83. @ Iapapa Berry.
-
     -   Protect
-
     -   Shadow Ball
-
     -   Frost Breath
-
     -   Double Team
 -   Palossand, Level 82. @ Sitrus Berry.
-
     -   Earth Power
-
     -   Shore Up
-
     -   Hypnosis
-
     -   Shadow Ball
 -   Octillery, Level 83. @ Expert Belt.
-
     -   Water Spout
-
     -   Hydro Pump
-
     -   Ice Beam
-
     -   Fire Blast
 -   Flareon, Level 84. @ Toxic Orb.
-
     -   Flare Blitz
-
     -   Protect
-
     -   Facade
-
     -   Quick Attack
 
 Huey is not too bad! Just make sure he doesn't get stupidly powerful
@@ -17460,9 +16982,8 @@ Saki's gym!
 
 Axis Factory
 
-|                      |          |
+| Grass                | %        |
 |----------------------|----------|
-| Grass         | % |
 | **Litwick (Aevian)** | 40       |
 | **Flaaffy**          | 30       |
 | Klang                | 20       |
@@ -17494,58 +17015,34 @@ Use the key above.
 
 Xen Executive Geara (Haunted Field)
 -   Krookodile, Level 85. @ Darkinium-Z.
-
     -   Earthquake
-
     -   Taunt
-
     -   Darkest Lariat
-
     -   Stealth Rock
 -   Grimmsnarl, Level 85. @ Light Clay.
-
     -   Reflect
-
     -   Sucker Punch
-
     -   Spirit Break
-
     -   Light Screen
 -   Chandelure, Level 86. @ Magical Seed.
-
     -   Shadow Ball
-
     -   Magma Drift
-
     -   Energy Ball
-
     -   Will-o-Wisp
 -   Aevian Parasect, Level 87. @ Life Orb.
-
     -   Phantom Force
-
     -   Shadow Sneak
-
     -   Sleep Powder
-
     -   Gunk Shot
 -   Clefable, Level 87. @ Magical Seed.
-
     -   Calm Mind
-
     -   Moonblast
-
     -   Shadow Ball
-
     -   Softboiled
 -   Gengar, Level 87. @ Gengarite.
-
     -   Sludge Wave
-
     -   Shadow Ball
-
     -   Hypnosis
-
     -   Focus Blast
 
 Man, this guy keeps showing up and is never any less annoying. First,
@@ -17570,58 +17067,34 @@ Head into the gym door at the top and get ready for quite a battle.
 
 Gym Leader Saki (Glitch Field + Wonder Room)
 -   Aggron, Level 85. @ Synthetic Seed.
-
     -   Blizzard
-
     -   Super U.M.D. Attack
-
     -   Fire Blast
-
     -   Thunder
 -   Corviknight, Level 85. @ Occa Berry.
-
     -   Bulk Up
-
     -   Brave Bird
-
     -   Roost
-
     -   Super U.M.D. Attack
 -   Bastiodon, Level 87. @ Bastiodon Crest.
-
     -   Blizzard
-
     -   Rest
-
     -   Super U.M.D. Attack
-
     -   Sleep Talk
 -   Bronzong, Level 86. @ Synthetic Field.
-
     -   Calm Mind
-
     -   Rest
-
     -   Sleep Talk
-
     -   Super U.M.D. Attack
 -   Duraludon, Level 89. @ Assault Vest.
-
     -   Outrage
-
     -   Draco Meteor
-
     -   Slash and Burn
-
     -   Super U.M.D. Attack
 -   Metagross, Level 89. @ Metagrossite.
-
     -   Super U.M.D. Attack
-
     -   Zen Headbutt
-
     -   Cosmic Power
-
     -   Bullet Punch
 
 Super U.M.D. Move: Steel \| Physical \| 100 power \| 100% accuracy \|
@@ -17702,18 +17175,15 @@ here!
 
 Den of Souls
 
-|                      |          |
-|----------------------|----------|
-| Old/Good Rods | % |
-| Lileep               | 100      |
-| Super Rod     |          |
-| **Cradily**          | 100      |
-| Water         |          |
-| Tirtouga             | 90       |
-| Relicanth            | 10       |
-| Grass         |          |
-| Archen               | 50       |
-| Anorith              | 50       |
+| Grass   | %   | Water       | %    |
+|---------|-----|-------------|------|
+| Archen  | 50  | Tirtouga    | 90   |
+| Anorith | 50  | Relicanth   | 10   |
+
+
+| Old/Good Rod  | %   | Super Rod     | %   |
+|---------------|-----|---------------|-----|
+| Lileep        | 100 | **Cradily**   | 100 |
 
 Wild Kabuto can also be found by surfing north here. Grab the *TM82
 Dragon Tail*.
@@ -17733,7 +17203,9 @@ Essence!
 
 Cairo's Shop New Item (15 Badges)
 
-*Delcatty Crest* 14000 Red Essences
+|Item            |Price             |
+|----------------|------------------|
+|*Delcatty Crest*|14000 Red Essences|
 
 Finally, fly to Eclysia Pyramid and talk to Ryland on the summit. You'll
 get Relationship Points (Ryland +6) and MegaStone *Steelixite!*
@@ -17757,271 +17229,286 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 
 ### Must Breed
 
-| Pokemon | Incense (if any) |
-| --- | --- |
-| **Azurill** | Sea Incense |
-| **Munchlax** | Full Incense |
-| **Roggenrola** ||
-|**Cottonee**||
-|**Pikipek**||
-|**Alolan Geodude**||
+|Pokemon           |Incense (if any)|
+|------------------|----------------|
+|**Azurill**       |Sea Incense     |
+|**Munchlax**      |Full Incense    |
+|**Roggenrola**    |                |
+|**Cottonee**      |                |
+|**Pikipek**       |                |
+|**Alolan Geodude**|                |
 
 ### Must Evolve by Level
 
-|Pokemon|Level|
-|---|---|
-|**Ivysaur**|16|
-|**Venusaur**|32|
-|**Charmeleon**|16|
-|**Charizard**|36|
-|**Wartortle**|16|
-|**Blastoise**|36|
-|**Fearow**|20|
-|**Haunter**|25|
-|**Seadra**|32|
-|**Electabuzz**|30|
-|**Magmar**|30|
-|**Omastar**|40|
-|**Kabutops**|40|
-|**Bayleef**|16|
-|**Meganium**|32|
-|**Quilava**|14|
-|**Typhlosion**|36|
-|**Croconaw**|18|
-|**Feraligatr**|30|
-|**Azumarill**|18|
-|**Granbull**|23|
-|**Grovyle**|16|
-|**Sceptile**|36|
-|**Marshtomp**|16|
-|**Swampert**|36|
-|**Kirlia**|20|
-|**Gardevoir**|30|
-|**Breloom**|23|
-|**Vigoroth**|18|
-|**Slaking**|36|
-|**Exploud**|40|
-|**Lairon**|32|
-|**Aggron**|42|
-|**Medicham**|38|
-|**Grumpig**|32|
-|**Flygon**|45|
-|**Armaldo**|40|
-|**Metang**|20|
-|**Metagross**|45|
-|**Grotle**|18|
-|**Torterra**|32|
-|**Staravia**|14|
-|**Staraptor**|34|
-|**Luxray**|30|
-|**Rampardos**|30|
-|**Bastiodon**|30|
-|**Wormadam**|20F|
-|**Drifblim**|28|
-|**Gabite**|24|
-|**Garchomp**|48|
-|**Toxicroak**|37|
-|**Lickilicky**|33\*|
-|**Tangrowth**|38\*|
-|**Yanmega**|33\*|
-|**Pignite**|17|
-|**Emboar**|36|
-|**Dewott**|17|
-|**Samurott**|36|
-|**Gurdurr**|25|
-|**Scolipede**|30|
-|**Krookodile**|40|
-|**Darmanitan**|35|
-|**Crustle**|34|
-|**Scrafty**|39|
-|**Carracosta**|37|
-|**Archeops**|37|
-|**Zoroark**|30|
-|**Gothorita**|32|
-|**Gothitelle**|41|
-|**Galvantula**|36|
-|**Klinklang**|49|
-|**Eelektrik**|39|
-|**Beheeyem**|42|
-|**Lampent**|41|
-|**Fraxure**|38|
-|**Haxorus**|48|
-|**Mienshao**|50|
-|**Braviary**|54|
-|**Zweilous**|50|
-|**Hydreigon**|64|
-|**Volcarona**|59|
-|**Quilladin**|16|
-|**Chesnaught**|36|
-|**Braixen**|16|
-|**Delphox**|36|
-|**Frogadier**|16|
-|**Greninja**|36|
-|**Pyroar**|35|
-|**Floette**|19|
-|**Meowstic**|25|
-|**Sliggoo**|40|
-|**Noivern**|48|
-|**Dartrix**|17|
-|**Decidueye**|34|
-|**Torracat**|17|
-|**Incineroar**|34|
-|**Brionne**|17|
-|**Primarina**|34|
-|**Araquanid**|24|
-|**Bewear**|27|
-|**Golisopod**|30|
-|**Palossand**|42|
-|**Drizzile**|16|
-|**Inteleon**|35|
-|**Dottler**|10|
-|**Orbeetle**|30|
-|**Carkol**|18|
-|**Coalossal**|34|
-|**Barraskewda**|26|
-|**Centiskorch**|28|
-|**Toxtricity**|30|
-|**Hattrem**|32|
-|**Hatterene**|42|
-|**Morgrem**|32|
-|**Grimmsnarl**|42|
-|**Cursola**|38|
-|**Mr.Rime**|42|
-|**Alcremie**|42|
-|**Alolan Dugtrio**|26|
-|**Galarian Rapidash**|40|
-|**Aevian Flaaffy**|15|
-|**Aevian Ampharos**|30|
-|**Aevian Lampent**|34\*|
-|**Aevian Palossand**|42|
+|Pokemon              |Level|
+|---------------------|-----|
+|**Ivysaur**          |16   |
+|**Venusaur**         |32   |
+|**Charmeleon**       |16   |
+|**Charizard**        |36   |
+|**Wartortle**        |16   |
+|**Blastoise**        |36   |
+|**Fearow**           |20   |
+|**Haunter**          |25   |
+|**Seadra**           |32   |
+|**Electabuzz**       |30   |
+|**Magmar**           |30   |
+|**Omastar**          |40   |
+|**Kabutops**         |40   |
+|**Bayleef**          |16   |
+|**Meganium**         |32   |
+|**Quilava**          |14   |
+|**Typhlosion**       |36   |
+|**Croconaw**         |18   |
+|**Feraligatr**       |30   |
+|**Azumarill**        |18   |
+|**Granbull**         |23   |
+|**Grovyle**          |16   |
+|**Sceptile**         |36   |
+|**Marshtomp**        |16   |
+|**Swampert**         |36   |
+|**Kirlia**           |20   |
+|**Gardevoir**        |30   |
+|**Breloom**          |23   |
+|**Vigoroth**         |18   |
+|**Slaking**          |36   |
+|**Exploud**          |40   |
+|**Lairon**           |32   |
+|**Aggron**           |42   |
+|**Medicham**         |38   |
+|**Grumpig**          |32   |
+|**Flygon**           |45   |
+|**Armaldo**          |40   |
+|**Metang**           |20   |
+|**Metagross**        |45   |
+|**Grotle**           |18   |
+|**Torterra**         |32   |
+|**Staravia**         |14   |
+|**Staraptor**        |34   |
+|**Luxray**           |30   |
+|**Rampardos**        |30   |
+|**Bastiodon**        |30   |
+|**Wormadam**         |20F  |
+|**Drifblim**         |28   |
+|**Gabite**           |24   |
+|**Garchomp**         |48   |
+|**Toxicroak**        |37   |
+|**Lickilicky**       |33\* |
+|**Tangrowth**        |38\* |
+|**Yanmega**          |33\* |
+|**Pignite**          |17   |
+|**Emboar**           |36   |
+|**Dewott**           |17   |
+|**Samurott**         |36   |
+|**Gurdurr**          |25   |
+|**Scolipede**        |30   |
+|**Krookodile**       |40   |
+|**Darmanitan**       |35   |
+|**Crustle**          |34   |
+|**Scrafty**          |39   |
+|**Carracosta**       |37   |
+|**Archeops**         |37   |
+|**Zoroark**          |30   |
+|**Gothorita**        |32   |
+|**Gothitelle**       |41   |
+|**Galvantula**       |36   |
+|**Klinklang**        |49   |
+|**Eelektrik**        |39   |
+|**Beheeyem**         |42   |
+|**Lampent**          |41   |
+|**Fraxure**          |38   |
+|**Haxorus**          |48   |
+|**Mienshao**         |50   |
+|**Braviary**         |54   |
+|**Zweilous**         |50   |
+|**Hydreigon**        |64   |
+|**Volcarona**        |59   |
+|**Quilladin**        |16   |
+|**Chesnaught**       |36   |
+|**Braixen**          |16   |
+|**Delphox**          |36   |
+|**Frogadier**        |16   |
+|**Greninja**         |36   |
+|**Pyroar**           |35   |
+|**Floette**          |19   |
+|**Meowstic**         |25   |
+|**Sliggoo**          |40   |
+|**Noivern**          |48   |
+|**Dartrix**          |17   |
+|**Decidueye**        |34   |
+|**Torracat**         |17   |
+|**Incineroar**       |34   |
+|**Brionne**          |17   |
+|**Primarina**        |34   |
+|**Araquanid**        |24   |
+|**Bewear**           |27   |
+|**Golisopod**        |30   |
+|**Palossand**        |42   |
+|**Drizzile**         |16   |
+|**Inteleon**         |35   |
+|**Dottler**          |10   |
+|**Orbeetle**         |30   |
+|**Carkol**           |18   |
+|**Coalossal**        |34   |
+|**Barraskewda**      |26   |
+|**Centiskorch**      |28   |
+|**Toxtricity**       |30   |
+|**Hattrem**          |32   |
+|**Hatterene**        |42   |
+|**Morgrem**          |32   |
+|**Grimmsnarl**       |42   |
+|**Cursola**          |38   |
+|**Mr.Rime**          |42   |
+|**Alcremie**         |42   |
+|**Alolan Dugtrio**   |26   |
+|**Galarian Rapidash**|40   |
+|**Aevian Flaaffy**   |15   |
+|**Aevian Ampharos**  |30   |
+|**Aevian Lampent**   |34\* |
+|**Aevian Palossand** |42   |
 
 ### Must Evolve by Item
 
-|Pokemon|Item(s)|
-|---|---|
-|**Raichu**|Thunderstone|
-|**Clefable**|Moon Stone|
-|**Ninetales**|Fire Stone|
-|**Wigglytuff**|Moon Stone|
-|**Arcanine**|Fire Stone|
-|**Alakazam**|Link Heart|
-|**Machamp**|Link Heart|
-|**Victreebel**|Leaf Stone|
-|**Golem**|Link Heart|
-|**Gengar**|Link Heart|
-|**Exeggutor**|Leaf Stone|
-|**Vaporeon**|Water Stone|
-|**Jolteon**|Thunderstone|
-|**Flareon**|Fire Stone|
-|**Bellossom**|Sun Stone|
-|**Slowking**|King's Rock + Link Heart|
-|**Scizor**|Metal Coat + Link Heart|
-|**Kingdra**|Dragon Scale + Link Heart|
-|**Porygon2**|Up-Grade + Link Heart|
-|**Milotic**|Prism Scale + Link Heart|
-|**Honchkrow**|Dusk Stone|
-|**Rhyperior**|Protector + Link Heart|
-|**Electivire**|Electrizer + Link Heart|
-|**Magmortar**|Magmarizer + Link Heart|
-|**Porygon-Z**|Dubious Disc + Link Heart|
-|**Gallade**|Male + Dawn Stone.|
-|**Dusknoir**|Reaper Cloth + Link Heart|
-|**Froslass**|Female + Dawn Stone|
-|**Simisage**|Leaf Stone|
-|**Simisear**|Fire Stone|
-|**Simipour**|Water Stone|
-|**Gigalith**|Link Heart|
-|**Conkeldurr**|Link Heart|
-|**Lilligant**|Sun Stone|
-|**Cinccino**|Shiny Stone|
-|**Escavalier**|Link Heart|
-|**Eelektross**|Thunderstone|
-|**Chandelure**|Dusk Stone|
-|**Accelgor**|Link Heart|
-|**Florges**|Shiny Stone|
-|**Aromatisse**|Whipped Dream + Link Heart|
-|**Gourgeist**|Link Heart|
-|**Flapple**|Tart Apple|
-|**Appletun**|Sweet Apple|
-|**Polteageist**|Chipped Pot|
-|**Alolan Raichu**|Apophyll Pancakes|
-|**Alolan Ninetales**|Ice Stone|
-|**Alolan Golem**|Link Heart|
-|**Aevian Parasect**|Xen Waste|
-|**Aevian Roserade**|Sun Stone|
-|**Aevian Milotic**|Prism Scale + Link Heart|
-|**Aevian Mismagius**|Leaf Stone|
-|**Aevian Musharna**|Nightmare Fuel|
-|**Aevian Chandelure**|Thunderstone|
-|**Aevian Toxtricity**|Fire Stone|
+|Pokemon              |Item(s)                   |
+|---------------------|--------------------------|
+|**Raichu**           |Thunderstone              |
+|**Clefable**         |Moon Stone                |
+|**Ninetales**        |Fire Stone                |
+|**Wigglytuff**       |Moon Stone                |
+|**Arcanine**         |Fire Stone                |
+|**Alakazam**         |Link Heart                |
+|**Machamp**          |Link Heart                |
+|**Victreebel**       |Leaf Stone                |
+|**Golem**            |Link Heart                |
+|**Gengar**           |Link Heart                |
+|**Exeggutor**        |Leaf Stone                |
+|**Vaporeon**         |Water Stone               |
+|**Jolteon**          |Thunderstone              |
+|**Flareon**          |Fire Stone                |
+|**Bellossom**        |Sun Stone                 |
+|**Slowking**         |King's Rock + Link Heart  |
+|**Scizor**           |Metal Coat + Link Heart   |
+|**Kingdra**          |Dragon Scale + Link Heart |
+|**Porygon2**         |Up-Grade + Link Heart     |
+|**Milotic**          |Prism Scale + Link Heart  |
+|**Honchkrow**        |Dusk Stone                |
+|**Rhyperior**        |Protector + Link Heart    |
+|**Electivire**       |Electrizer + Link Heart   |
+|**Magmortar**        |Magmarizer + Link Heart   |
+|**Porygon-Z**        |Dubious Disc + Link Heart |
+|**Gallade**          |Male + Dawn Stone.        |
+|**Dusknoir**         |Reaper Cloth + Link Heart |
+|**Froslass**         |Female + Dawn Stone       |
+|**Simisage**         |Leaf Stone                |
+|**Simisear**         |Fire Stone                |
+|**Simipour**         |Water Stone               |
+|**Gigalith**         |Link Heart                |
+|**Conkeldurr**       |Link Heart                |
+|**Lilligant**        |Sun Stone                 |
+|**Cinccino**         |Shiny Stone               |
+|**Escavalier**       |Link Heart                |
+|**Eelektross**       |Thunderstone              |
+|**Chandelure**       |Dusk Stone                |
+|**Accelgor**         |Link Heart                |
+|**Florges**          |Shiny Stone               |
+|**Aromatisse**       |Whipped Dream + Link Heart|
+|**Gourgeist**        |Link Heart                |
+|**Flapple**          |Tart Apple                |
+|**Appletun**         |Sweet Apple               |
+|**Polteageist**      |Chipped Pot               |
+|**Alolan Raichu**    |Apophyll Pancakes         |
+|**Alolan Ninetales** |Ice Stone                 |
+|**Alolan Golem**     |Link Heart                |
+|**Aevian Parasect**  |Xen Waste                 |
+|**Aevian Roserade**  |Sun Stone                 |
+|**Aevian Milotic**   |Prism Scale + Link Heart  |
+|**Aevian Mismagius** |Leaf Stone                |
+|**Aevian Musharna**  |Nightmare Fuel            |
+|**Aevian Chandelure**|Thunderstone              |
+|**Aevian Toxtricity**|Fire Stone                |
 
 ### Must Evolve by Friendship
 
-|Pokemon|Time (if any)|
-|---|---|
-|**Crobat**||	
-|**Espeon**|Day|
-|**Umbreon**|Night|
-|**Blissey**||
-|**Lucario**|Day|
-|**Frosmoth**|Night|
-|**Alolan Persian**||
-|**Aevian Roselia**|Day|
+|Pokemon           |Time (if any)|
+|------------------|-------------|
+|**Crobat**        |             |
+|**Espeon**        |Day          |
+|**Umbreon**       |Night        |
+|**Blissey**       |             |
+|**Lucario**       |Day          |
+|**Frosmoth**      |Night        |
+|**Alolan Persian**|             |
+|**Aevian Roselia**|Day          |
 
 ### Must Evolve by Other Means
 
-|Pokemon|Condition|
-|---|---|
-|**Hitmonchan**|20, Atk\<Def|
-|**Hitmonlee**|20, Atk\>Def|
-|**Hitmontop**|20, Atk=Def|
-|**Weavile**|Razor Claw + Level @ Night|
-|**Gliscor**|Razor Fang + Level @ Night|
-|**Magnezone**|Level in: Generator Room|
-|**Probopass**|Level in: Generator Room|
-|**Leafeon**|Level in: Terajuma Jungle: Moss Rock|
-|**Glaceon**|Level in: Evergreen Cave: Icy Rock|
-|**Mamoswine**|Relearn Ancient Power + Level|
-|**Tyrantrum**|39, Daytime|
-|**Aurorus**|39, Nighttime|
-|**Goodra**|50, Requires overworld rain (Sheridan Wetlands!)|
-|**Gumshoos**|20, Daytime|
-|**Vikavolt**|Level in: Terajuma Jungle|
-|**Obstagoon**|35, Nighttime|
-|**Sirfetch'd**|Get 3 crits in one battle|
-|**Runerigus**|Take at least 49 damage without dying during a battle in Wispy Ruins|
-|**Alolan Raticate**|20, Nighttime|
-|**Alolan Marowak**|28, Nighttime|
-|**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock|
+|Pokemon              |Condition                                                           |
+|---------------------|--------------------------------------------------------------------|
+|**Hitmonchan**       |20, Atk\<Def                                                        |
+|**Hitmonlee**        |20, Atk\>Def                                                        |
+|**Hitmontop**        |20, Atk=Def                                                         |
+|**Weavile**          |Razor Claw + Level @ Night                                          |
+|**Gliscor**          |Razor Fang + Level @ Night                                          |
+|**Magnezone**        |Level in: Generator Room                                            |
+|**Probopass**        |Level in: Generator Room                                            |
+|**Leafeon**          |Level in: Terajuma Jungle: Moss Rock                                |
+|**Glaceon**          |Level in: Evergreen Cave: Icy Rock                                  |
+|**Mamoswine**        |Relearn Ancient Power + Level                                       |
+|**Tyrantrum**        |39, Daytime                                                         |
+|**Aurorus**          |39, Nighttime                                                       |
+|**Goodra**           |50, Requires overworld rain (Sheridan Wetlands!)                    |
+|**Gumshoos**         |20, Daytime                                                         |
+|**Vikavolt**         |Level in: Terajuma Jungle                                           |
+|**Obstagoon**        |35, Nighttime                                                       |
+|**Sirfetch'd**       |Get 3 crits in one battle                                           |
+|**Runerigus**        |Take at least 49 damage without dying during a battle in Wispy Ruins|
+|**Alolan Raticate**  |20, Nighttime                                                       |
+|**Alolan Marowak**   |28, Nighttime                                                       |
+|**Galarian Mr. Mime**|Level with Mimic (L.15) at Icy Rock                                 |
 
 ## V13 Unobtainable Pokemon
 
-\* Unless chosen as starter
+### Starter Choices
+You can only get at most one of these, when selecting your starter:
+- **Torchic\***
+- **Combusken\***
+- **Blaziken\***
+- **Chimchar\***
+- **Monferno\***
+- **Infernape\***
+- **Snivy\***
+- **Servine\***
+- **Serperior\***
+- **Grookey\***
+- **Thwackey\***
+- **Rillaboom\***
+- **Scorbunny\***
+- **Raboot\***
+- **Cinderace\***
 
-\*\* Unless randomly selected as mystery egg
+### Mystery Egg Choices
+You can only get at most one of these lines, when randomly obtaining
+your mystery egg:
+- **Togepi\*\***
+- **Togetic\*\***
+- **Togekiss\*\***
+- **Rookidee\*\***
+- **Corvisquire\*\***
+- **Corviknight\*\***
+
+### Completely Unobtainable
+You can't get any of the following Pokemon yet under any circumstances:
 - **Magikarp**
 - **Gyarados**
 - **Dratini**
 - **Dragonair**
 - **Dragonite**
-- **Togepi\*\***
-- **Togetic\*\***
 - **Larvitar**
 - **Pupitar**
 - **Tyranitar**
-- **Torchic\***
-- **Combusken\***
-- **Blaziken\***
 - **Bagon**
 - **Shelgon**
 - **Salamence**
-- **Chimchar\***
-- **Monferno\***
-- **Infernape\***
-- **Togekiss\*\***
-- **Snivy\***
-- **Servine\***
-- **Serperior\***
 - **Drilbur**
 - **Excadrill**
 - **Ferroseed**
@@ -18033,15 +17520,6 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 - **Jangmo'o**
 - **Hakamo'o**
 - **Kommo'o**
-- **Grookey\***
-- **Thwackey\***
-- **Rillaboom\***
-- **Scorbunny\***
-- **Raboot\***
-- **Cinderace\***
-- **Rookidee\*\***
-- **Corvisquire\*\***
-- **Corviknight\*\***
 - **Eiscue**
 - **Dracozolt**
 - **Arctozolt**
