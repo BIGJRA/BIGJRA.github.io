@@ -29,3 +29,13 @@ table {
     width: 90%;
     overflow-x: auto
 }
+
+table#pickup-table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+}
+
+table#pickup-table th {
+    padding: 3px
+}

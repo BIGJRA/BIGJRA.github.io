@@ -17562,7 +17562,7 @@ At the moment, none of the following legendaries are available either:
 </colgroup>
 <thead>
 <tr class="header">
-<th>Levels</th>
+<th>Level</th>
 <th>30%</th>
 <th>10%</th>
 <th>10%</th>
@@ -17570,10 +17570,10 @@ At the moment, none of the following legendaries are available either:
 <th>10%</th>
 <th>10%</th>
 <th>10%</th>
-<th>4%</th>
-<th>4%</th>
-<th>1%</th>
-<th>1%</th>
+<th>04%</th>
+<th>04%</th>
+<th>01%</th>
+<th>01%</th>
 </tr>
 </thead>
 <tbody>
