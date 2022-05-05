@@ -1280,23 +1280,19 @@ Now we can start looking for Zygarde Cells!
 
 ZCell 001: East Gearen City
 
-<img src="/assets/media/rejuv/image1.png"
-style="width:6.6875in;height:5.01042in" />
+<img src="/assets/media/rejuv/image1.png"/>
 
 ZCell 002: Oceana Pier
 
-<img src="/assets/media/rejuv/image2.png"
-style="width:6.6875in;height:5.01042in" />
+<img src="/assets/media/rejuv/image2.png"/>
 
 ZCell 003: Chrisola Rooftop (Daytime Only)
 
-<img src="/assets/media/rejuv/image3.png"
-style="width:6.6613in;height:5.07813in" />
+<img src="/assets/media/rejuv/image3.png"/>
 
 ZCell 004: Gearen Alleyway (through Venam's secret tunnel)
 
-<img src="/assets/media/rejuv/image4.png"
-style="width:6.65625in;height:5.02083in" />
+<img src="/assets/media/rejuv/image4.png"/>
 
 ## Route 1 and Goldenwood Forest
 
@@ -1329,8 +1325,7 @@ battle you!
 
 ZCell 005: Route 1
 
-<img src="/assets/media/rejuv/image5.png"
-style="width:6.67708in;height:5.02083in" />
+<img src="/assets/media/rejuv/image5.png"/>
 
 Head north and enjoy a great cutscene montage with Melia. Once you
 regain control, interact with Drifblim.
@@ -1594,8 +1589,7 @@ open. Here you'll find a Rare Candy. Also:
 
 ZCell 006: Gearen Sewers
 
-<img src="/assets/media/rejuv/image6.png"
-style="width:6.58333in;height:5.01042in" />
+<img src="/assets/media/rejuv/image6.png"/>
 
 Exit through the top. A dumpster on the right has a *Reverse Candy*
 within. At night, you can go into the alleyway area. The purple flower
@@ -1607,8 +1601,7 @@ tall grass hides a *Super Repel.*
 
 ZCell 007: Gearen Alleyway (Only accessible at night)
 
-<img src="/assets/media/rejuv/image7.png"
-style="width:6.69106in;height:5.02604in" />
+<img src="/assets/media/rejuv/image7.png"/>
 
 Go up and give one of the Munna a GourmetTreat to catch it if you want.
 
@@ -1715,8 +1708,7 @@ the area up from Kecleon, as well as:
 
 ZCell 008: Route 2
 
-<img src="/assets/media/rejuv/image8.png"
-style="width:6.6875in;height:4.94792in" />
+<img src="/assets/media/rejuv/image8.png"/>
 
 Cross the bridge to the left, four tiles left of the bottom of the
 bridge is a hidden *Blue Shard*. Just up the stairs, two tiles left of
@@ -2091,8 +2083,7 @@ Go right for the orange book and up for the red book. Also:
 
 ZCell 009: Hidden Library
 
-<img src="/assets/media/rejuv/image9.png"
-style="width:6.66667in;height:5.04167in" />
+<img src="/assets/media/rejuv/image9.png"/>
 
 Go down. Pick up the lime book, and *TM63 Embargo.*
 
@@ -3120,8 +3111,7 @@ Check out the graveyard at the top:
 
 ZCell 010: Goldenleaf Town
 
-<img src="/assets/media/rejuv/image10.png"
-style="width:6.67708in;height:5.02083in" />
+<img src="/assets/media/rejuv/image10.png"/>
 
 The tall grass straight left from here contains a *Chesto Berry.*
 
@@ -3144,8 +3134,7 @@ Forgotten Path
 
 ZCell 011: Forgotten Path
 
-<img src="/assets/media/rejuv/image11.png"
-style="width:6.78125in;height:5.04167in" />
+<img src="/assets/media/rejuv/image11.png"/>
 
 The top tree in this set to the left of the cell has an *Ether* in its
 top right tile. Above from here the three out of four splotchy tiles
@@ -3195,8 +3184,7 @@ Grab the *Reverse Candy* on the right.
 
 ZCell 012: Wispy Path
 
-<img src="/assets/media/rejuv/image12.png"
-style="width:6.64583in;height:4.96875in" />
+<img src="/assets/media/rejuv/image12.png"/>
 
 Talk to the guy up here, then to **Espurr**. It will let you do a
 variety of fun things with it; each increases your friendship with it.
@@ -3483,8 +3471,7 @@ right house.
 
 ZCell 013: Mirage Cave
 
-<img src="/assets/media/rejuv/image13.png"
-style="width:6.64583in;height:4.97917in" />
+<img src="/assets/media/rejuv/image13.png"/>
 
 Grab the cell and *TM66 Payback*.
 
@@ -3722,8 +3709,7 @@ get a *Dusk Stone*! Head up and through the ladder.
 
 ZCell 014: Wispy Ruins
 
-<img src="/assets/media/rejuv/image14.png"
-style="width:6.67708in;height:4.97917in" />
+<img src="/assets/media/rejuv/image14.png"/>
 
 Head to the right. I recommend healing sometime soon, there'll be a few
 battles upcoming. Once you're done, return, then go up. Follow the path
@@ -4007,8 +3993,7 @@ Enter the house to the north of the trucker:
 
 ZCell 015: Akuwa Town
 
-<img src="/assets/media/rejuv/image15.png"
-style="width:6.63542in;height:5.03125in" />
+<img src="/assets/media/rejuv/image15.png"/>
 
 Talk to Aelita and then enter the Pokemon Center and go to the back to
 get a *Defibrillator,* then use it on the old guy. Head down to the
@@ -4019,8 +4004,7 @@ Head up and up the ladder you'll see here and grab:
 
 ZCell 016: Akuwa Town (ignore the Ditto!)
 
-<img src="/assets/media/rejuv/image16.png"
-style="width:6.6875in;height:5.04167in" />
+<img src="/assets/media/rejuv/image16.png"/>
 
 At this point we will not be able to come back for a bit, so make sure
 you're ready with all the Pokemon you want to catch on this island for
@@ -4635,8 +4619,7 @@ Surf up to the top on the right side. Itemfind for a *Blue Shard.*
 
 ZCell 017: Terajuma Island
 
-<img src="/assets/media/rejuv/image17.png"
-style="width:6.6875in;height:5.02083in" />
+<img src="/assets/media/rejuv/image17.png"/>
 
 Surf up at the bridge, on the left of the fence. Itemfinder points us to
 a *Lemonade.* We can't do anything with the house, so head west one
@@ -4774,8 +4757,7 @@ Itemfind for a *Great Ball, Wacan Berry,* and pick up:
 
 ZCell 018: Terajuma Jungle
 
-<img src="/assets/media/rejuv/image18.png"
-style="width:6.67708in;height:5.01042in" />
+<img src="/assets/media/rejuv/image18.png"/>
 
 On the right you'll find a *Brave Mint* as well as a hidden *Super
 Repel.*
@@ -4819,8 +4801,7 @@ Spice Powder, you'll have access to *Quick Powder* and another cell.
 
 ZCell 019: Deep Terajuma Jungle
 
-<img src="/assets/media/rejuv/image19.png"
-style="width:6.67708in;height:5.01042in" />
+<img src="/assets/media/rejuv/image19.png"/>
 
 Head up then all the way left. On the bridge, a girl will get upset at
 you and request 20 Sitrus Berries. We will be able to buy them in a
@@ -5180,8 +5161,7 @@ After the battle, head up.
 
 ZCell 020: Valor Shore
 
-<img src="/assets/media/rejuv/image20.png"
-style="width:6.6875in;height:5in" />
+<img src="/assets/media/rejuv/image20.png"/>
 
 Head up to Valor Mountain and watch the scene.
 
@@ -5707,16 +5687,14 @@ Goldenwood Forest/Cave
 
 ZCell 021: Goldenwood Forest
 
-<img src="/assets/media/rejuv/image21.png"
-style="width:6.64583in;height:4.98958in" />
+<img src="/assets/media/rejuv/image21.png"/>
 
 Head further up and enter the clearing here. Pick up *TM78 Bulldoze,*
 and grab:
 
 ZCell 022: Secret Shrine
 
-<img src="/assets/media/rejuv/image22.png"
-style="width:6.67708in;height:4.98958in" />
+<img src="/assets/media/rejuv/image22.png"/>
 
 Back outside, surf up for a hidden *Muscle Wing.*
 
@@ -5729,15 +5707,13 @@ our seventh *lost kid* out of nine.
 
 ZCell 023: Goldenwood Cave
 
-<img src="/assets/media/rejuv/image23.png"
-style="width:6.72917in;height:5.02083in" />
+<img src="/assets/media/rejuv/image23.png"/>
 
 Exit to the Goldenwood Grove. Head to the right, then surf up.
 
 ZCell 024: Goldenwood Grove
 
-<img src="/assets/media/rejuv/image24.png"
-style="width:6.70313in;height:5.03621in" />
+<img src="/assets/media/rejuv/image24.png"/>
 
 Head to Wispy Path, then to Goldenleaf Town.
 
@@ -5826,8 +5802,7 @@ Also here is *TM58 Sky Drop,* a hidden *Dusk Ball,* and:
 
 ZCell 025: Moon Field
 
-<img src="/assets/media/rejuv/image25.png"
-style="width:6.6875in;height:5.01042in" />
+<img src="/assets/media/rejuv/image25.png"/>
 
 Now, we're going to start the Poliwag event - head back to Wispy Path
 and use the flute on the Poliwag \#1 there.
@@ -5858,8 +5833,7 @@ be found at night.
 
 ZCell 026: Sheridan Arena
 
-<img src="/assets/media/rejuv/image26.png"
-style="width:6.61806in;height:4.96354in" />
+<img src="/assets/media/rejuv/image26.png"/>
 
 Head up to the daycare and surf to the west. Here's a **Treecko**!
 Surfing to the south you'll find a *Timid Mint* as well.
@@ -5887,8 +5861,7 @@ the future.
 
 ZCell 027: Amethyst Cave
 
-<img src="/assets/media/rejuv/image27.png"
-style="width:6.65552in;height:4.95313in" />
+<img src="/assets/media/rejuv/image27.png"/>
 
 Head out to Route 2. There are now **Ambipom** instead of Aipom here.
 Surf north of Kecleon's shop at the top to grab *TM46 Thief.* Fitting.
@@ -5995,8 +5968,7 @@ On the island south of here, you'll find
 
 ZCell 028: Route 11
 
-<img src="/assets/media/rejuv/image28.png"
-style="width:6.57292in;height:4.91667in" />
+<img src="/assets/media/rejuv/image28.png"/>
 
 Anyways, grab the *Max Repel* and enter the cave on the east side here.
 
@@ -6063,8 +6035,7 @@ to get:
 
 ZCell 029: Evergreen Island
 
-<img src="/assets/media/rejuv/image29.png"
-style="width:6.67708in;height:5.03125in" />
+<img src="/assets/media/rejuv/image29.png"/>
 
 Enter again and take the ladder down. We can't yet do the strength
 puzzle portion, but we can explore. Beat the trainers then grab the *X
@@ -6177,8 +6148,7 @@ her again - and our challenge will begin.
 
 ZCell 030: Kakori Gym
 
-<img src="/assets/media/rejuv/image30.png"
-style="width:6.66667in;height:4.98958in" />
+<img src="/assets/media/rejuv/image30.png"/>
 
 -   Head back all the way down, and to the right. Climb the stairs by
     the teleporter
@@ -6206,8 +6176,7 @@ then follow this path down to get:
 
 ZCell 031: Kakori Depths
 
-<img src="/assets/media/rejuv/image31.png"
-style="width:6.63542in;height:4.98958in" />
+<img src="/assets/media/rejuv/image31.png"/>
 
 Anyways, if you head outside the gym, there's an Audino breeder by the
 Pokemon Center. You'll get 5 *Exp. Candy M* each time you win. Once
@@ -6348,8 +6317,7 @@ Surf to the left to find:
 
 ZCell 032: Aquamarine Chamber
 
-<img src="/assets/media/rejuv/image32.png"
-style="width:6.61458in;height:4.97917in" />
+<img src="/assets/media/rejuv/image32.png"/>
 
 Head back out and to the left. Heal, then exit the cave for a double
 battle!
@@ -6426,13 +6394,11 @@ inside this building, you'll find:
 
 ZCell 033: Teila Resort
 
-<img src="/assets/media/rejuv/image33.png"
-style="width:6.63542in;height:4.94792in" />
+<img src="/assets/media/rejuv/image33.png"/>
 
 ZCell 034: Teila Resort
 
-<img src="/assets/media/rejuv/image34.png"
-style="width:6.62251in;height:5.00521in" />
+<img src="/assets/media/rejuv/image34.png"/>
 
 Head around the house to the left of this one to find an *Elixir.* The
 guy inside this house will offer to trade your extra Oranguru for a
@@ -6480,8 +6446,7 @@ upper left room to find:
 
 ZCell 035: Teila Resort
 
-<img src="/assets/media/rejuv/image35.png"
-style="width:6.65625in;height:4.98958in" />
+<img src="/assets/media/rejuv/image35.png"/>
 
 If you talk to the girl in the left side near Tesla, she'll offer your
 Pokemon massage packages. The cheapest is $1500, the next is $3500,
@@ -6686,8 +6651,7 @@ to the upper left room. Surf north and use the key.
 Talk to this tablet and you'll be engaged with a puzzle. Here is the
 solution:
 
-<img src="/assets/media/rejuv/image36.png"
-style="width:6.66667in;height:5.03125in" />
+<img src="/assets/media/rejuv/image36.png"/>
 
 Enter the pathway to the north, and you'll be taken back to Matthew's
 lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade.
@@ -6857,8 +6821,7 @@ Back inside the church, you'll find:
 
 ZCell 036: Church of Theolia
 
-<img src="/assets/media/rejuv/image37.png"
-style="width:6.07083in;height:4.32917in" />
+<img src="/assets/media/rejuv/image37.png"/>
 
 Outside, pick up *TM07 Hail.* On the beach below there is a hidden
 *Icicle Plate.*
@@ -6908,8 +6871,7 @@ other door to get:
 
 ZCell 037: Kristiline Town
 
-<img src="/assets/media/rejuv/image38.png"
-style="width:6.66667in;height:4.95833in" />
+<img src="/assets/media/rejuv/image38.png"/>
 
 Pick the *Occa Berry* in the northeast.
 
@@ -6917,8 +6879,7 @@ In the bottom left of town, you'll find:
 
 ZCell 038: Kristiline Town
 
-<img src="/assets/media/rejuv/image39.png"
-style="width:6.21875in;height:4.94792in" />
+<img src="/assets/media/rejuv/image39.png"/>
 
 Kristiline Ranger Center Shop
 
@@ -7123,8 +7084,7 @@ want. Here you'll find Kingler and Hoppip, but also:
 
 ZCell 039: Route 6
 
-<img src="/assets/media/rejuv/image40.png"
-style="width:6.6875in;height:5.03125in" />
+<img src="/assets/media/rejuv/image40.png"/>
 
 Add something to your party with Headbutt, and return to the area
 above where we fought Valarie in Terajuma Jungle. Enter Jirukala
@@ -7145,8 +7105,7 @@ Pick up:
 
 ZCell 040: Jirukala Cavern
 
-<img src="/assets/media/rejuv/image41.PNG"
-style="width:6.54167in;height:4.91139in" />
+<img src="/assets/media/rejuv/image41.PNG"/>
 
 Completing this quest also gives us access to some stationary water
 Pokemon for GourmetTreats - but only at night. Head to Terajuma
@@ -7363,8 +7322,7 @@ here and talk to April again.
 
 ZCell 041: Amethyst Cave
 
-<img src="/assets/media/rejuv/image42.png"
-style="width:6.17708in;height:4.68439in" />
+<img src="/assets/media/rejuv/image42.png"/>
 
 Return to the entrance of the cave from Route 2. Take the stairs to the
 right, then head across the first bridge on top. Rock climb here, pick
@@ -7482,8 +7440,7 @@ At night, you'll find:
 
 ZCell 042: Cliffside Grave (Night ONLY)
 
-<img src="/assets/media/rejuv/image43.png"
-style="width:6.6875in;height:5.02083in" />
+<img src="/assets/media/rejuv/image43.png"/>
 
 Interact with the grave at the top and insert the Cursed Candle we got a
 while ago to obtain **Litwick!**
@@ -7842,8 +7799,7 @@ by entering the Chamber of Awakening.
 
 ZCell 043: Chamber of Awakening
 
-<img src="/assets/media/rejuv/image44.PNG"
-style="width:5.90625in;height:4.40779in"/>
+<img src="/assets/media/rejuv/image44.PNG"/>
 
 Return to the first floor. Each mood of the mountain has different
 encounters we can fight.
@@ -7902,8 +7858,7 @@ Head back down from here, and you'll find:
 
 ZCell 044: Valor Mountain (Normal)
 
-<img src="/assets/media/rejuv/image45.PNG"
-style="width:6.91667in;height:5.14552in"/>
+<img src="/assets/media/rejuv/image45.PNG"/>
 
 You can also get **Heracross** if you go down and through the barricade.
 
@@ -7914,8 +7869,7 @@ find:
 
 ZCell 045: Valor Mountain (Ice)
 
-<img src="/assets/media/rejuv/image46.PNG"
-style="width:6.91667in;height:5.17256in" />
+<img src="/assets/media/rejuv/image46.PNG"/>
 
 Make your way around and up. Activate the fire crystal at the top here.
 
@@ -7940,8 +7894,7 @@ You'll find:
 
 ZCell 046: Valor Mountain (Ice)
 
-<img src="/assets/media/rejuv/image47.png"
-style="width:6.72396in;height:5.01001in" />
+<img src="/assets/media/rejuv/image47.png"/>
 
 Fall down the hole again, then proceed all the way through the barricade
 and back up the mountain. This time, take the ladder at the top.
@@ -7990,8 +7943,7 @@ Gyarados doesn't set up!
 
 ZCell 047: Valor Cliffside
 
-<img src="/assets/media/rejuv/image48.png"
-style="width:6.70313in;height:5.13906in" />
+<img src="/assets/media/rejuv/image48.png"/>
 
 Head down from here.
 
@@ -8012,15 +7964,13 @@ the cliffside. On the right side, you'll find:
 
 ZCell 048: Valor Mountain (Fire)
 
-<img src="/assets/media/rejuv/image49.png"
-style="width:6.625in;height:4.99943in" />
+<img src="/assets/media/rejuv/image49.png"/>
 
 Head down and go to the left. Drift across then jump in the hole twice.
 
 ZCell 049: Valor Mountain (Fire)
 
-<img src="/assets/media/rejuv/image50.png"
-style="width:6.61458in;height:5.1053in" />
+<img src="/assets/media/rejuv/image50.png"/>
 
 Also, talk to Heatmor with a GourmetTreat for a chance to catch it.
 
@@ -8038,8 +7988,7 @@ Jump down the ledge, and head up the ladder here. On the right:
 
 ZCell 050: Valor Mountain (Normal)
 
-<img src="/assets/media/rejuv/image51.PNG"
-style="width:6.96354in;height:5.24314in"/>
+<img src="/assets/media/rejuv/image51.PNG"/>
 
 Head back down the ladder, activate the ice crystal, then enter the
 teleporter at the bottom of this map.
@@ -8384,8 +8333,7 @@ Forest of Time
 
 ZCell 051: Forest of Time
 
-<img src="/assets/media/rejuv/image52.PNG"
-style="width:6.6875in;height:5.02737in"/>
+<img src="/assets/media/rejuv/image52.PNG"/>
 
 In this lower area there is also a hidden *Calcium* and *Reverse Candy.*
 
@@ -8393,8 +8341,7 @@ Head up and surf to the left.
 
 ZCell 052: Forest of Time
 
-<img src="/assets/media/rejuv/image53.PNG"
-style="width:6.6875in;height:5.01563in"/>
+<img src="/assets/media/rejuv/image53.PNG"/>
 
 Surf to the right, then rock climb down to get *TM40 Aerial Ace!*
 
@@ -8552,8 +8499,7 @@ upstairs and enter the newly opened door. Grab the **Indeedee** here!
 
 Talk to the portrait in this room to begin a puzzle.
 
-<img src="/assets/media/rejuv/image54.png"
-style="width:6.6875in;height:5in" />
+<img src="/assets/media/rejuv/image54.png"/>
 
 This is what it should look like when completed. Enter the door
 downstairs and go down.
@@ -8682,8 +8628,7 @@ get:
 
 ZCell 053: Distorted Path
 
-<img src="/assets/media/rejuv/image55.PNG"
-style="width:7.03125in;height:5.31361in" />
+<img src="/assets/media/rejuv/image55.PNG"/>
 
 ## West Gearen City
 
@@ -8718,8 +8663,7 @@ To the west, though it is super tricky to spot, grab:
 
 ZCell 054: West Gearen City
 
-<img src="/assets/media/rejuv/image56.png"
-style="width:6.6875in;height:4.94792in" />
+<img src="/assets/media/rejuv/image56.png"/>
 
 Use your Itemfinder south of the pool to find a *Rose Incense.*
 
@@ -8744,8 +8688,7 @@ expensive and unnecessary to get it here.
 
 ZCell 055: West Gearen City
 
-<img src="/assets/media/rejuv/image57.png"
-style="width:6.625in;height:5in" />
+<img src="/assets/media/rejuv/image57.png"/>
 
 Use your Itemfinder all around the city. You'll find a *Telluric Seed,
 Yellow Shard, Max Repel, Dusk Stone, Float Stone, Green Shard, Zinc,
@@ -8779,8 +8722,7 @@ Head outside and enter the Junction Bridge from the left.
 
 ZCell 056: Junction Bridge
 
-<img src="/assets/media/rejuv/image58.png"
-style="width:6.75in;height:4.97917in" />
+<img src="/assets/media/rejuv/image58.png"/>
 
 Speaking of Zygarde Cells, exit Junction Bridge to the right and go talk
 to Ayuda, who'll give us the *Macho Brace* for finding at least 45. Our
@@ -9100,8 +9042,7 @@ meaning you can grab:
 
 ZCell 057: Church of Theolia
 
-<img src="/assets/media/rejuv/image59.PNG"
-style="width:6.09771in;height:4.58403in"/>
+<img src="/assets/media/rejuv/image59.PNG"/>
 
 We won't be able to come back for a little while, so I recommend you
 farm as much AP as you can and head to the AP vendor at the casino. We
@@ -9206,8 +9147,7 @@ Head one screen up. Cut trees to get *TM107 Slash and Burn.*
 
 ZCell 058: Route 7
 
-<img src="/assets/media/rejuv/image60.png"
-style="width:6.63542in;height:5.01042in" />
+<img src="/assets/media/rejuv/image60.png"/>
 
 Hidden on this map outside the fence boundary is a *Yellow Shard, Max
 Repel, Green Shard, Blue Shard, Pecha Berry, Red Shard, Ultra Potion,*
@@ -9224,8 +9164,7 @@ in the main room, then exit the barn to the right.
 
 ZCell 059: Yui's Ranch
 
-<img src="/assets/media/rejuv/image61.png"
-style="width:6.63542in;height:5.01042in" />
+<img src="/assets/media/rejuv/image61.png"/>
 
 Head to the back of the ranch. On the right side, pick up the hidden
 *Fire Gem,* then enter the upper right barn. Hidden inside are *Moomoo
@@ -9290,8 +9229,7 @@ Route 7.
 
 ZCell 060: Route 7
 
-<img src="/assets/media/rejuv/image62.png"
-style="width:6.65625in;height:4.97917in" />
+<img src="/assets/media/rejuv/image62.png"/>
 
 Pick the 3 *Persim Berries* here. Enter the house here.
 
@@ -9359,8 +9297,7 @@ a girl.
 
 ZCell 061: Darchlight Woods
 
-<img src="/assets/media/rejuv/image63.png"
-style="width:6.65625in;height:5.04167in" />
+<img src="/assets/media/rejuv/image63.png"/>
 
 Next, head through the west door in the entrance map to access Sensu
 Meadow.
@@ -9546,8 +9483,7 @@ Gem.*
 
 ZCell 062: Darchlight Caves
 
-<img src="/assets/media/rejuv/image64.png"
-style="width:6.6875in;height:5.02083in" />
+<img src="/assets/media/rejuv/image64.png"/>
 
 Head right and cross the new bridge. Up is a hidden *Hyper Potion.* Head
 all the way south, picking up the hidden *Ether* as you go, and then
@@ -9579,8 +9515,7 @@ Leech Life*, and a hidden *Dark Gem, Ether,* and *TinyMushroom.*
 
 ZCell 063: Sensu Meadow
 
-<img src="/assets/media/rejuv/image65.PNG"
-style="width:6.79167in;height:5.12619in"/>
+<img src="/assets/media/rejuv/image65.PNG"/>
 
 Make your way to the hole towards the top of the meadow, then fall. In
 the cave, grab *TM97 Dark Pulse* and hidden *Ice Gem* and *Magical
@@ -9731,8 +9666,7 @@ is larger than both Gearen's combined.
 
 ZCell 064: Dream District
 
-<img src="/assets/media/rejuv/image66.PNG"
-style="width:6.82292in;height:5.08909in"/>
+<img src="/assets/media/rejuv/image66.PNG"/>
 
 Cross the bridge. You'll observe that you can take the train between
 areas for $1950. Since GDC is so large, I recommend at least exploring
@@ -9766,8 +9700,7 @@ Day,* and:
 
 ZCell 065: Botanical Garden
 
-<img src="/assets/media/rejuv/image67.png"
-style="width:6.72917in;height:4.9375in" />
+<img src="/assets/media/rejuv/image67.png"/>
 
 Exit the garden and enter the day care. Give the girl in here $3400 and
 you'll get a *Rare Candy.* The day care here is a good choice for
@@ -9776,8 +9709,7 @@ Head into the elevator here, and head to the 14th floor to get:
 
 ZCell 066: Dream District
 
-<img src="/assets/media/rejuv/image68.PNG"
-style="width:6.73964in;height:5.10417in"/>
+<img src="/assets/media/rejuv/image68.PNG"/>
 
 Outside, a ranger gives a *Leppa Berry* when they lose.
 
@@ -9803,8 +9735,7 @@ track gap to the right and head up to get:
 
 ZCell 067: Grand Dream Gate
 
-<img src="/assets/media/rejuv/image69.png"
-style="width:6.625in;height:5.01042in" />
+<img src="/assets/media/rejuv/image69.png"/>
 
 Also be sure to pick up *TM19 Secret Power* here. Someone fixed the
 bridge to the south if we need to return to Route 7.
@@ -9824,8 +9755,7 @@ Immediately head up as you enter to grab:
 
 ZCell 068: Dream District
 
-<img src="/assets/media/rejuv/image70.PNG"
-style="width:6.61458in;height:4.98438in"/>
+<img src="/assets/media/rejuv/image70.PNG"/>
 
 Head to the west and follow the tree line to nab a *Rare Candy.* Hidden
 on this map, you'll find *Green Shard,* 2 *Blue Shards, Health Wing,
@@ -9866,8 +9796,7 @@ you'll find:
 
 ZCell 069: Central Square
 
-<img src="/assets/media/rejuv/image71.png"
-style="width:6.66667in;height:5in" />
+<img src="/assets/media/rejuv/image71.png"/>
 
 Hidden on the map is *Ether,* 3 *Health Wings, Resist Wing,* 2 *Muscle
 Wings.*
@@ -9900,8 +9829,7 @@ Head all the way to the bottom right corner to find:
 
 ZCell 070: Shopping District
 
-<img src="/assets/media/rejuv/image72.png"
-style="width:6.61458in;height:5.03125in" />
+<img src="/assets/media/rejuv/image72.png"/>
 
 The bottom row here contains a Hidden Power checker as well as a move
 relearner! Talk to the little girl here who dropped her Casteliacone. If
@@ -9966,8 +9894,7 @@ room.
 
 ZCell 071: Dream Complex
 
-<img src="/assets/media/rejuv/image73.PNG"
-style="width:6.30208in;height:4.76728in"/>
+<img src="/assets/media/rejuv/image73.PNG"/>
 
 Talk to Rhodea in the living room, then attempt to leave. When you're
 ready, head to the north into Dream District Northwest.
@@ -10102,8 +10029,7 @@ your way to the right side of this room...
 
 ZCell 072: Darchlight Manor
 
-<img src="/assets/media/rejuv/image74.png"
-style="width:6.66667in;height:4.98958in" />
+<img src="/assets/media/rejuv/image74.png"/>
 
 Grab the *Old Gateau* and read the notebook. Exit the room.
 
@@ -10132,8 +10058,7 @@ Darchlight Manor (Outside)
 
 ZCell 073: Darchlight Manor
 
-<img src="/assets/media/rejuv/image75.PNG"
-style="width:6.78125in;height:5.12087in" />
+<img src="/assets/media/rejuv/image75.PNG"/>
 
 Hidden out here are 3 *TinyMushrooms.*
 
@@ -10420,8 +10345,7 @@ At the top, you'll find:
 
 ZCell 074: Route 9
 
-<img src="/assets/media/rejuv/image76.png"
-style="width:6.64583in;height:4.88542in" />
+<img src="/assets/media/rejuv/image76.png"/>
 
 Head down to the bottom part of the route. Here, you'll encounter wild
 Sandygast.
@@ -10433,8 +10357,7 @@ Surf up and around to the right here. At the top, you'll find:
 
 ZCell 075: Route 9
 
-<img src="/assets/media/rejuv/image77.PNG"
-style="width:6.67708in;height:5.05236in" />
+<img src="/assets/media/rejuv/image77.PNG"/>
 
 Back on the main part of the route, enter the first cave entrance on the
 right.
@@ -10463,8 +10386,7 @@ the crystal and pick up a hidden *Pretty Wing* as well as:
 
 ZCell 076: Forlorned Cavern
 
-<img src="/assets/media/rejuv/image78.png"
-style="width:6.63542in;height:4.9375in" />
+<img src="/assets/media/rejuv/image78.png"/>
 
 That's all we can do in this section of the cave, so head back out and
 go to the left, where the hiker is, and enter this cavern. At the top,
@@ -10483,8 +10405,7 @@ on the bamboo on the left side to encounter **Komala**! Surf across:
 
 ZCell 077: Route 9
 
-<img src="/assets/media/rejuv/image79.PNG"
-style="width:7.14583in;height:5.28243in" />
+<img src="/assets/media/rejuv/image79.PNG"/>
 
 Enter the theater.
 
@@ -10503,8 +10424,7 @@ While you're in this room, head to the southeast to grab:
 
 ZCell 078: Rose Theater
 
-<img src="/assets/media/rejuv/image80.PNG"
-style="width:6.41667in;height:4.79604in"/>
+<img src="/assets/media/rejuv/image80.PNG"/>
 
 Exit the southwestern most door of the theater, and you'll grab *TM120
 Solar Blade.* There is also a hidden *Fresh Water* nearby. Exit the
@@ -10528,8 +10448,7 @@ covering the optional content within.
 
 ZCell 079: Judicial District
 
-<img src="/assets/media/rejuv/image81.png"
-style="width:6.65625in;height:4.97917in" />
+<img src="/assets/media/rejuv/image81.png"/>
 
 Also, use your Itemfinder here for a *Link Heart.*
 
@@ -10673,8 +10592,7 @@ be a **Stufful!**
 So, grab what you need from here. Talk to the guy on the left and give
 him a Blue Shard in exchange for a puzzle! Here is the solution:
 
-<img src="/assets/media/rejuv/image82.png"
-style="width:2.55208in;height:2.53125in" />
+<img src="/assets/media/rejuv/image82.png"/>
 
 [This link](https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/) may be helpful for solving this type of puzzle.
 
@@ -11316,8 +11234,7 @@ Head east and talk to the psychologist here. Head south. Grab:
 
 ZCell 080: The Underground
 
-<img src="/assets/media/rejuv/image83.png"
-style="width:6.73958in;height:5.03125in" />
+<img src="/assets/media/rejuv/image83.png"/>
    
 Enter this shop here and talk to the owner. Buy something if you'd like.
 
@@ -11369,8 +11286,7 @@ Directly east, you'll find:
 
 ZCell 081: The Underground
 
-<img src="/assets/media/rejuv/image84.png"
-style="width:6.67708in;height:5.05208in" />
+<img src="/assets/media/rejuv/image84.png"/>
 
 Talk to Dylan again, then head to the east. Go up until a scene
 plays out. Head to the bottom of this area then east to the docks, 
@@ -11745,13 +11661,11 @@ find:
 
 ZCell 082: National Park
 
-<img src="/assets/media/rejuv/image85.png"
-style="width:6.6875in;height:5.02083in" />
+<img src="/assets/media/rejuv/image85.png"/>
 
 ZCell 083: National Park
 
-<img src="/assets/media/rejuv/image86.png"
-style="width:6.625in;height:5.04167in" />
+<img src="/assets/media/rejuv/image86.png"/>
 
 Hidden around the park is 2 *Revives, Liechi Berry, Lum Berry, Pecha
 Berry,* and a *Sitrus Berry.*
@@ -11854,8 +11768,7 @@ On B3F, rock climb up here, and you'll find:
 
 ZCell 084: Voidal Chasm
 
-<img src="/assets/media/rejuv/image87.png"
-style="width:6.60417in;height:4.92708in" />
+<img src="/assets/media/rejuv/image87.png"/>
 
 Rock climb up again, and head left and down. Use your Itemfinder for a
 *Dusk Stone*. Head through the door at the top, then exit out the door
@@ -11868,8 +11781,7 @@ get a *White Herb.* Then, head to the top left and rock climb up.
 
 ZCell 085: Voidal Chasm
 
-<img src="/assets/media/rejuv/image88.png"
-style="width:6.61458in;height:4.90625in" />
+<img src="/assets/media/rejuv/image88.png"/>
 
 There is also a hidden *Ability Capsule* up here. Back down from here,
 while exploring the main part of this room, you'll find a *Razor Claw,
@@ -11965,8 +11877,7 @@ Claydol is your man.
 
 ZCell 086: Zorrialyn Desert
 
-<img src="/assets/media/rejuv/image89.png"
-style="width:6.61458in;height:4.96875in" />
+<img src="/assets/media/rejuv/image89.png"/>
 
 Hidden in this area you'll find *Petaya Berry, Occa Berry,* and *Haban
 Berry.*
@@ -11979,8 +11890,7 @@ here:
 
 ZCell 087: Zorrialyn Desert (Night Only)
 
-<img src="/assets/media/rejuv/image90.png"
-style="width:6.64583in;height:4.94792in" />
+<img src="/assets/media/rejuv/image90.png"/>
 
 Head across the bridge and grab the *Hyper Potion*. There is also a
 hidden *Green Shard.*
@@ -11989,8 +11899,7 @@ This one's a bit hard to spot:
 
 ZCell 088: Zorrialyn Desert (Night Only)
 
-<img src="/assets/media/rejuv/image91.png"
-style="width:6.6875in;height:5.01042in" />
+<img src="/assets/media/rejuv/image91.png"/>
 
 Grab the hidden *Big Root, Ether, Lemonade, Reverse Candy,* as you head
 east.
@@ -12000,8 +11909,7 @@ then right to get a *Smooth Rock*. Grab:
 
 ZCell 089: Zorrialyn Desert
 
-<img src="/assets/media/rejuv/image92.png"
-style="width:6.61458in;height:4.98958in" />
+<img src="/assets/media/rejuv/image92.png"/>
 
 Head back down then go east, and we'll have completed the loop. Next,
 we're gonna check out the map in the very southeast of the desert.
@@ -12041,8 +11949,7 @@ where the cave is being blocked. To the right:
 
 ZCell 090: Zorrialyn Coast
 
-<img src="/assets/media/rejuv/image93.png"
-style="width:6.6875in;height:4.96875in" />
+<img src="/assets/media/rejuv/image93.png"/>
 
 Hidden around this map you'll find 2 *Dusk Balls, Rock Gem, Red Shard,
 Ground Gem, Poke Doll, Heart Scale, Elixir,* and *Water Gem.* Don't head
@@ -12088,8 +11995,7 @@ and you'll find:
 
 ZCell 091: Sashila Village
 
-<img src="/assets/media/rejuv/image94.png"
-style="width:6.67708in;height:5.01042in" />
+<img src="/assets/media/rejuv/image94.png"/>
 
 Enter the building here and talk to a guy inside for a *House Key.* Back
 outside, there are tons of hidden items all around this map:
@@ -12555,8 +12461,7 @@ of this house.
 
 ZCell 092: Ruined City
 
-<img src="/assets/media/rejuv/image95.png"
-style="width:6.61458in;height:4.98958in" />
+<img src="/assets/media/rejuv/image95.png"/>
 
 Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of
 the area, then sneak around the back to find hidden *Yellow Shard*
@@ -12574,8 +12479,7 @@ Copper.* With Blast Powder, you can get:
 
 ZCell 093: Ruined City
 
-<img src="/assets/media/rejuv/image96.png"
-style="width:6.6875in;height:5in" />
+<img src="/assets/media/rejuv/image96.png"/>
 
 Prepare yourself and enter the southwest house. Beat the first set
 of grunts, then head out to heal. The next one is tough.
@@ -13235,16 +13139,14 @@ You'll also find:
 
 ZCell 094: Route 2 (Altered)
 
-<img src="/assets/media/rejuv/image97.PNG"
-style="width:6.63542in;height:4.98567in"/>
+<img src="/assets/media/rejuv/image97.PNG"/>
 
 Return to the past again and give the guy on Route 2 some research notes
 so he'll finally move out of the way. At night only, you can get:
 
 ZCell 095: Route 2
 
-<img src="/assets/media/rejuv/image98.png"
-style="width:6.61458in;height:5.01042in" />
+<img src="/assets/media/rejuv/image98.png"/>
 
 Also, you can catch **Whimsicott** here (ignore the Flabebe from an
 earlier patch).
@@ -13607,8 +13509,7 @@ Route 10
 
 You can also catch the overhead **Wingull** and **Pelipper!**
 
-<img src="/assets/media/rejuv/image99.PNG"
-style="width:4.875in;height:3.42538in"/>
+<img src="/assets/media/rejuv/image99.PNG"/>
 
 That's all we can do right now, so head back to the GDC Tournament
 Stadium and board the ship.
@@ -13700,8 +13601,7 @@ First, head down and to the left.
 
 ZCell 096: Zone Zero Outskirts
 
-<img src="/assets/media/rejuv/image100.png"
-style="width:6.625in;height:4.97917in" />
+<img src="/assets/media/rejuv/image100.png"/>
 
 Enter the zone to the north. There are some Xen Grunts selling stuff
 here.
@@ -13734,8 +13634,7 @@ to the panel with your electric type to light it up.
 
 ZCell 097: Abandoned Apartments
 
-<img src="/assets/media/rejuv/image101.png"
-style="width:6.64583in;height:4.98958in" />
+<img src="/assets/media/rejuv/image101.png"/>
 
 After the short dialogue scene, enter the second door upstairs. Smash
 the rock and use the blast powder to talk to Aelita. As her, jump the
@@ -13797,8 +13696,7 @@ Head down to the bottom to find:
 
 ZCell 098: Zone Zero
 
-<img src="/assets/media/rejuv/image102.png"
-style="width:6.6875in;height:5.02083in" />
+<img src="/assets/media/rejuv/image102.png"/>
 
 Head up and to the right. In the bottom corner of this area, grab *TM93
 Wild Charge.* At the Lux Apartments, head up and right to grab a *Rare
@@ -13941,8 +13839,7 @@ After a scene, go left:
 
 ZCell 099: Zone Zero
 
-<img src="/assets/media/rejuv/image103.png"
-style="width:6.70833in;height:5.05208in" />
+<img src="/assets/media/rejuv/image103.png"/>
 
 Also grab the *Fire Stone* above. When you're ready, enter the stairs to
 the right. Grab the info on *Pulse: Garna...* heal and get ready for
@@ -13973,8 +13870,7 @@ find:
 
 ZCell 100: Zone Zero
 
-<img src="/assets/media/rejuv/image104.png"
-style="width:6.71875in;height:4.96875in" />
+<img src="/assets/media/rejuv/image104.png"/>
 
 Head up and to the left for one more cutscene.
 
@@ -13991,8 +13887,7 @@ the left you'll find:
 
 ZCell 101: Eclysia Pyramid
 
-<img src="/assets/media/rejuv/image105.png"
-style="width:6.64583in;height:4.98958in" />
+<img src="/assets/media/rejuv/image105.png"/>
 
 Enter the spring at the top and watch the scenes play out. Next, we're
 going to begin the crawl to the top, so enter the room at the right side
@@ -14063,8 +13958,7 @@ You'll also find this, in the room with hoverboard dude:
 
 ZCell 102: Eclysia Pyramid
 
-<img src="/assets/media/rejuv/image106.png"
-style="width:6.64583in;height:4.96875in" />
+<img src="/assets/media/rejuv/image106.png"/>
 
 Emerge at the Eclysia Skyview!
 
@@ -14233,8 +14127,7 @@ here, you can grab:
 
 ZCell 103: Apartment Depths
 
-<img src="/assets/media/rejuv/image107.png"
-style="width:6.64583in;height:5.02083in" />
+<img src="/assets/media/rejuv/image107.png"/>
 
 Head up after grabbing this cell to get an *Ability Capsule!* Then, head
 left and follow the path all the way to the left to grab the shiny Lux
@@ -14321,8 +14214,7 @@ follows:
 
 ZCell 104: Lux Apartments
 
-<img src="/assets/media/rejuv/image108.png"
-style="width:6.66667in;height:4.96875in" />
+<img src="/assets/media/rejuv/image108.png"/>
 -   Reenter 2C, then go out the 2B door. Use the key on 1C in the bottom
     right door, then enter the ladder. Click the lever in this area and
     pick up *Rocky Helmet.*
@@ -14334,8 +14226,7 @@ Also:
 
 ZCell 105: Zone Zero Gible Cage
 
-<img src="/assets/media/rejuv/image109.png"
-style="width:6.67708in;height:4.98958in" />
+<img src="/assets/media/rejuv/image109.png"/>
 
 ## Do the Dive (Floria)
 
@@ -15601,8 +15492,7 @@ grab:
 
 ZCore 1: Sand Stream Cave
 
-<img src="/assets/media/rejuv/image110.png"
-style="width:6.63542in;height:5.02083in" />
+<img src="/assets/media/rejuv/image110.png"/>
 
 Fly back to Gearen and talk to Ayuda to get **Zygarde 10%!** It's not
 even particularly better than the Gible we got earlier, but hey another
@@ -16102,8 +15992,7 @@ downstairs on the left, you'll find:
 
 ZCell 106: Axis High University
 
-<img src="/assets/media/rejuv/image111.png"
-style="width:6.40804in;height:4.76594in" />
+<img src="/assets/media/rejuv/image111.png"/>
 
 Then, head upstairs in the middle, and talk to Huey.
 
@@ -16120,8 +16009,7 @@ In another room on this floor you'll find:
 
 ZCell 107: Axis High University
 
-<img src="/assets/media/rejuv/image112.PNG"
-style="width:6.96667in;height:5.23465in"/>
+<img src="/assets/media/rejuv/image112.PNG"/>
 
 Head back downstairs, where you'll find Amber! You'll be given *Concert
 Tickets* and *Amber's Letter!* Talk to Saki in the cafeteria to the
@@ -16972,8 +16860,7 @@ the left. You'll find **Aevian Munna** roaming about!
 
 ZCell 108: Hidden Axis Lab
 
-<img src="/assets/media/rejuv/image113.PNG"
-style="width:6.26542in;height:4.69167in"/>
+<img src="/assets/media/rejuv/image113.PNG"/>
 
 Follow the path up. After this scene is over, head back out and down to
 Saki's gym!
