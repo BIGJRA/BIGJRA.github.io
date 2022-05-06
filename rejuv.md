@@ -3,6 +3,8 @@ title: |
   Pokemon Rejuvenation Walkthrough
 ---
 
+# Pokemon Rejuvenation Walkthrough 
+
 # Table of Contents
 -   <a href="#chapter-1-shipwrecked" id="toc-chapter-1-shipwrecked">Chapter 1: Shipwrecked</a>
     -   <a href="#prologue" id="toc-prologue">Prologue</a>
