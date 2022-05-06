@@ -4,7 +4,6 @@ import os
 import re
 from collections import defaultdict
 
-
 POKEMON_WIDTH = 18
 PERCENT_WIDTH = 3
 ENC_TYPES = {
@@ -60,10 +59,38 @@ def split_text_into_blocks(text):
         blocks.append(block)
     return blocks
 
+def get_correct_pokemon_name(string):
+    ans = string.capitalize()
+    d = {
+        "Nidoranma": "Nidoran M.",
+        "Nidoranfe": "Nidoran F.",
+        "Mimejr": "Mime Jr.",
+        "Mrmime": "Mr. Mime",
+        "Typenull": "Type: Null",
+        "Tapukoko": "Tapu Koko",
+        "Tapubulu": "Tapu Bulu",
+        "Tapufini": "Tapu Fini",
+        "Tapulele": "Tapu Lele",
+        "Mrrime": "Mr. Rime",
+        "Hooh": "Ho-oh",
+        "Porygonz": "Porygon-Z",
+        "Jangmoo": "Jangmo-o",
+        "Hakamoo": "Hakamo-o",
+        "Kommoo": "Kommo-o",
+        "Farfetchd": "Farfetch'd",
+        "Sirfetchd": "Sirfetch'd",
+        "Porygon2": "Porygon2",
+        "Flabebe": "Flabebe"
+    }
+    if ans in d:
+        return d[ans]
+    return ans
+    
 def get_data_from_block(block):
     content = block.split('\n')
     data = {}
     data['area_code'], data['area_name'] = content[0].split(' # ')
+    #print (content[0].split(' # '))
     data['encounter_rates'] = tuple(content[1].split(','))
     for line in content[2:]:
         if line in ENC_TYPES:
@@ -72,6 +99,7 @@ def get_data_from_block(block):
             pos = 0
         else:
             pokemon = line.split(',')[0]
+            pokemon = get_correct_pokemon_name(pokemon)
             data[curr_type][pokemon] += [pos]
             pos += 1
     for enc_type in ENC_TYPES:
@@ -137,7 +165,7 @@ def process_mini_tables(mini_tables):
             rod_ones.append(table)
         else:
             other_ones.append(table)
-    #print (land_ones, rod_ones, other_ones)
+    #print (land_ones, other_ones, rod_ones)
     finals = []
     for x in [land_ones, rod_ones, other_ones]:
         x.sort(key = lambda y: list(ENC_NAMES.values()).index(y[1: 1 + POKEMON_WIDTH].rstrip())) 
@@ -150,12 +178,16 @@ out = []
 blocks = split_text_into_blocks(text)
 for block in blocks:
     data = get_data_from_block(block)
+    #print (data)
     tables = get_markdown_tables(data)
+    #print (*tables)
     out.append(data["area_code"])
     out.append('\n')
     out.append(data["area_name"])
     out.append("\n\n")
+    #print (data["area_code"])
     for thing in process_mini_tables(tables):
+        #print (thing)
         out.append(thing)
         out.append('\n\n')
     #print (*process_mini_tables(tables), sep = '\n\n')
