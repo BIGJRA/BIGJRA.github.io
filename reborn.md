@@ -8,33 +8,9 @@ title: |
 Heavy Work In Progress :)
 
 - [Section 1](#section-1)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
-- [Section 4](#section-4)
-- [Section 5](#section-5)
-- [Section 6](#section-6)
-- [Section 7](#section-7)
-- [Section 8](#section-8)
-- [Section 9](#section-9)
-- [Section 10](#section-10)
-- [Section 11](#section-11)
-- [Section 12](#section-12)
-- [Section 13](#section-13)
-- [Section 14](#section-14)
-- [Section 15](#section-15)
-- [Section 16](#section-16)
-- [Section 17](#section-17)
-- [Section 18](#section-18)
-- [Section 19](#section-19)
-- [Section 20](#section-20)
-- [Postgame Tier 1](#postgame-tier-1)
-- [Postgame Tier 2](#postgame-tier-2)
-- [Postgame Tier 3](#postgame-tier-3)
-- [Postgame Tier 4](#postgame-tier-4)
-- [Postgame Tier 5](#postgame-tier-5)
-- [Postgame Tier 6](#postgame-tier-6)
-- [Postgame Tier 7](#postgame-tier-7)
-- [Postgame Tier 8](#postgame-tier-8)
+  - [All Aboard!](#all-aboard)
+- [Appendices](#appendices)
+  - [Full Password List](#full-password-list)
 
 # Section 1
 
@@ -109,3 +85,11 @@ each other, but progress at your own risk~</p>
 <p>Other hidden passwords may be able to be found in the game.</p></div>
 
 I recommend 
+
+
+
+
+
+# Appendices
+
+## Full Password List
