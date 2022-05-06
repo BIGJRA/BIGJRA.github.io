@@ -5,245 +5,244 @@ title: |
 
 # Pokemon Rejuvenation Walkthrough 
 
-# Table of Contents
--   <a href="#chapter-1-shipwrecked" id="toc-chapter-1-shipwrecked">Chapter 1: Shipwrecked</a>
-    -   <a href="#prologue" id="toc-prologue">Prologue</a>
-    -   <a href="#ss-oceana" id="toc-ss-oceana">S.S. Oceana</a>
-    -   <a href="#oceana-pier" id="toc-oceana-pier">Oceana Pier</a>
-    -   <a href="#gearen-laboratory" id="toc-gearen-laboratory">Gearen Laboratory</a>
-    -   <a href="#left-east-gearen-city" id="toc-left-east-gearen-city">Left East Gearen City</a>
-    -   <a href="#right-east-gearen-city" id="toc-right-east-gearen-city">Right East Gearen City</a>
-    -   <a href="#chrisola-resort" id="toc-chrisola-resort">Chrisola Resort</a>
-    -   <a href="#gearen-park" id="toc-gearen-park">Gearen Park</a>
-    -   <a href="#sewers-visit-1" id="toc-sewers-visit-1">Sewers Visit 1</a>
-    -   <a href="#game-corner-prizes" id="toc-game-corner-prizes">Game Corner Prizes</a>
-    -   <a href="#poisonheart-badge" id="toc-poisonheart-badge">PoisonHeart Badge</a>
-    -   <a href="#post-gym-quests" id="toc-post-gym-quests">Post-Gym Quests</a>
-        -   <a href="#hquest-1-help-starly" id="toc-hquest-1-help-starly">HQuest 1: Help Starly</a>
-        -   <a href="#hquest-2-missing-mother" id="toc-hquest-2-missing-mother">HQuest 2: Missing Mother</a>
-        -   <a href="#hquest-3-hidden-library" id="toc-hquest-3-hidden-library">HQuest 3: Hidden Library</a>
-        -   <a href="#hquest-4-love-letter" id="toc-hquest-4-love-letter">HQuest 4: Love Letter</a>
-        -   <a href="#hquest-5-dangerous-pokemon" id="toc-hquest-5-dangerous-pokemon">HQuest 5: Dangerous Pokemon</a>
-        -   <a href="#hquest-6-battle-me" id="toc-hquest-6-battle-me">HQuest 6: Battle Me!</a>
-        -   <a href="#hquest-7-wretched-music" id="toc-hquest-7-wretched-music">HQuest 7: Wretched Music!</a>
-    -   <a href="#route-1-and-goldenwood-forest" id="toc-route-1-and-goldenwood-forest">Route 1 and Goldenwood Forest</a>
-    -   <a href="#goldenwood-xen-attack" id="toc-goldenwood-xen-attack">Goldenwood Xen Attack</a>
--   <a href="#chapter-2-redemption" id="toc-chapter-2-redemption">Chapter 2: Redemption</a>
-    -   <a href="#junction-bridge" id="toc-junction-bridge">Junction Bridge</a>
-    -   <a href="#route-2" id="toc-route-2">Route 2</a>
-    -   <a href="#amethyst-cave-1st-visit" id="toc-amethyst-cave-1st-visit">Amethyst Cave 1st Visit</a>
-    -   <a href="#sheridan-village" id="toc-sheridan-village">Sheridan Village</a>
-    -   <a href="#amethyst-grotto-and-sheridan-help-quests" id="toc-amethyst-grotto-and-sheridan-help-quests">Amethyst Grotto and Sheridan Help Quests</a>
-        -   <a href="#hquest-8-hidden-library-2" id="toc-hquest-8-hidden-library-2">HQuest 8: Hidden Library 2</a>
-        -   <a href="#hquest-9-stolen-cargo" id="toc-hquest-9-stolen-cargo">HQuest 9: Stolen Cargo!</a>
-        -   <a href="#hquest-10-trade-me" id="toc-hquest-10-trade-me">HQuest 10: Trade Me!</a>
-        -   <a href="#hquest-11-fetch-an-item" id="toc-hquest-11-fetch-an-item">HQuest 11: Fetch an Item!</a>
-        -   <a href="#hquest-12-battle-request-2" id="toc-hquest-12-battle-request-2">HQuest 12: Battle Request 2</a>
-    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge?</a>
-    -   <a href="#carotos-mountain" id="toc-carotos-mountain">Carotos Mountain</a>
-    -   <a href="#diamond-punch-badge" id="toc-diamond-punch-badge">Diamond Punch Badge</a>
--   <a href="#chapter-3-tainted-light" id="toc-chapter-3-tainted-light">Chapter 3: Tainted Light</a>
-    -   <a href="#sewers-visit-2" id="toc-sewers-visit-2">Sewers Visit 2</a>
-    -   <a href="#normality-badge" id="toc-normality-badge">Normality Badge</a>
--   <a href="#chapter-4-isolation" id="toc-chapter-4-isolation">Chapter 4: Isolation</a>
-    -   <a href="#3-badge-quests" id="toc-3-badge-quests">3 Badge Quests</a>
-    -   <a href="#route-3-and-phasial-cave" id="toc-route-3-and-phasial-cave">Route 3 and Phasial Cave</a>
-    -   <a href="#goldenleaf-town" id="toc-goldenleaf-town">Goldenleaf Town</a>
-    -   <a href="#wispy-path-and-goldenwood-forest-visit-2" id="toc-wispy-path-and-goldenwood-forest-visit-2">Wispy Path and Goldenwood Forest Visit 2</a>
-    -   <a href="#wispy-tower" id="toc-wispy-tower">Wispy Tower</a>
-    -   <a href="#mirage-woods" id="toc-mirage-woods">Mirage Woods</a>
-    -   <a href="#phantasm-badge" id="toc-phantasm-badge">Phantasm Badge</a>
--   <a href="#chapter-5-imprisoned" id="toc-chapter-5-imprisoned">Chapter 5: Imprisoned</a>
-    -   <a href="#wispy-ruins" id="toc-wispy-ruins">Wispy Ruins</a>
-    -   <a href="#route-4" id="toc-route-4">Route 4</a>
-    -   <a href="#lost-camp-part-1-and-floria-side-quests" id="toc-lost-camp-part-1-and-floria-side-quests">Lost Camp Part 1, and Floria Side Quests</a>
-    -   <a href="#mystery-egg" id="toc-mystery-egg">Mystery Egg \- MEgg1</a>
-    -   <a href="#akuwa-town" id="toc-akuwa-town">Akuwa Town?</a>
-    -   <a href="#blacksteeple-castle" id="toc-blacksteeple-castle">Blacksteeple Castle</a>
-        -   <a href="#day-1" id="toc-day-1">Day 1</a>
-        -   <a href="#day-2" id="toc-day-2">Day 2</a>
-        -   <a href="#night-2" id="toc-night-2">Night 2</a>
-        -   <a href="#day-3" id="toc-day-3">Day 3</a>
-        -   <a href="#night-3" id="toc-night-3">Night 3</a>
-        -   <a href="#day-4" id="toc-day-4">Day 4</a>
-    -   <a href="#xen-battleship" id="toc-xen-battleship">Xen Battleship</a>
-    -   <a href="#terajuma-shore" id="toc-terajuma-shore">Terajuma Shore</a>
-    -   <a href="#terajuma-jungle" id="toc-terajuma-jungle">Terajuma Jungle</a>
-    -   <a href="#dewdrop-badge" id="toc-dewdrop-badge">Dewdrop Badge</a>
--   <a href="#chapter-6-nimpossible-predicament" id="toc-chapter-6-nimpossible-predicament">Chapter 6: Nimpossible Predicament</a>
-    -   <a href="#terajuma-island-surfing" id="toc-terajuma-island-surfing">Terajuma Island Surfing</a>
-    -   <a href="#terajuma-jungle-2" id="toc-terajuma-jungle-2">Terajuma Jungle 2</a>
-    -   <a href="#kakori-village-and-jeminra-woods" id="toc-kakori-village-and-jeminra-woods">Kakori Village and Jeminra Woods</a>
-    -   <a href="#route-5" id="toc-route-5">Route 5</a>
-    -   <a href="#dexoy-attack" id="toc-dexoy-attack">Dexoy Attack</a>
-    -   <a href="#kakori-help-quests" id="toc-kakori-help-quests">Kakori Help Quests</a>
-        -   <a href="#hquest-13-clear-the-way" id="toc-hquest-13-clear-the-way">HQuest 13: Clear the Way!</a>
-        -   <a href="#hquest-14-bandit-at-large" id="toc-hquest-14-bandit-at-large">HQuest 14: Bandit at Large</a>
-        -   <a href="#hquest-15-building-bridges" id="toc-hquest-15-building-bridges">HQuest 15: Building Bridges</a>
-        -   <a href="#hquest-16-find-it" id="toc-hquest-16-find-it">HQuest 16: Find It!</a>
-        -   <a href="#hquest-17-battle-me-again" id="toc-hquest-17-battle-me-again">HQuest 17: Battle Me Again!</a>
-    -   <a href="#secret-shore" id="toc-secret-shore">Secret Shore</a>
-    -   <a href="#floria-island-surfing-and-side-quests" id="toc-floria-island-surfing-and-side-quests">Floria Island Surfing and Side Quests</a>
-    -   <a href="#rivers-end-first-visit" id="toc-rivers-end-first-visit">River's End First Visit</a>
-    -   <a href="#route-4-second-visit" id="toc-route-4-second-visit">Route 4 Second Visit</a>
-    -   <a href="#route-11" id="toc-route-11">Route 11</a>
-    -   <a href="#infested-badge" id="toc-infested-badge">Infested Badge</a>
--   <a href="#chapter-7-a-teila-fire-and-ice" id="toc-chapter-7-a-teila-fire-and-ice">Chapter 7: A Teila Fire and Ice</a>
-    -   <a href="#route-6-and-aquamarine-cave" id="toc-route-6-and-aquamarine-cave">Route 6 and Aquamarine Cave</a>
-    -   <a href="#teila-resort-first-visit" id="toc-teila-resort-first-visit">Teila Resort First Visit</a>
-    -   <a href="#aquamarine-cave-2nd-visit" id="toc-aquamarine-cave-2nd-visit">Aquamarine Cave 2nd Visit</a>
-    -   <a href="#teila-resort-2nd-visit" id="toc-teila-resort-2nd-visit">Teila Resort 2nd Visit</a>
-    -   <a href="#rivers-end-2nd-visit--rend2" id="toc-rivers-end-2nd-visit--rend2">River's End 2nd Visit</a>
-    -   <a href="#frozen-over-kristiline-town" id="toc-frozen-over-kristiline-town">Frozen Over Kristiline Town</a>
-    -   <a href="#tower-of-theolia" id="toc-tower-of-theolia">Tower of Theolia</a>
-    -   <a href="#glacier-badge" id="toc-glacier-badge">Glacier Badge</a>
--   <a href="#chapter-8-those-we-lose" id="toc-chapter-8-those-we-lose">Chapter 8: Those We Lose</a>
-    -   <a href="#kristiline-town" id="toc-kristiline-town">Kristiline Town</a>
-    -   <a href="#kristiline-help-center-requests" id="toc-kristiline-help-center-requests">Kristiline Help Center Requests</a>
-        -   <a href="#hquest-18-lighthouse" id="toc-hquest-18-lighthouse">HQuest 18: Lighthouse</a>
-        -   <a href="#hquest-19-take-my-quiz" id="toc-hquest-19-take-my-quiz">HQuest 19: Take my Quiz!</a>
-        -   <a href="#hquest-20-defend-me" id="toc-hquest-20-defend-me">HQuest 20: Defend Me!</a>
-        -   <a href="#hquest-21-research" id="toc-hquest-21-research">HQuest 21: Research</a>
-        -   <a href="#hquest-22-" id="toc-hquest-22-">HQuest 22: ???</a>
-    -   <a href="#floria-island-rock-climb" id="toc-floria-island-rock-climb">Floria Island Rock Climb</a>
-    -   <a href="#amethyst-cave-2nd-visit" id="toc-amethyst-cave-2nd-visit">Amethyst Cave 2nd Visit</a>
-    -   <a href="#lost-camp-pt-2" id="toc-lost-camp-pt-2">Lost Camp Pt. 2</a>
-    -   <a href="#carotos-mountain-2nd-visit" id="toc-carotos-mountain-2nd-visit">Carotos Mountain 2nd Visit</a>
-    -   <a href="#valor-mountain" id="toc-valor-mountain">Valor Mountain</a>
-        -   <a href="#entering-the-mountain-kept-it-route" id="toc-entering-the-mountain-kept-it-route">Entering the Mountain (Kept It Route)</a>
-        -   <a href="#saving-amber-kept-it-route" id="toc-saving-amber-kept-it-route">Saving Amber (Kept It Route)</a>
-        -   <a href="#entering-the-mountain-gave-it-away-route" id="toc-entering-the-mountain-gave-it-away-route">Entering the Mountain (Gave It Away Route)</a>
-        -   <a href="#saving-amber-gave-it-away-route" id="toc-saving-amber-gave-it-away-route">Saving Amber (Gave It Away Route)</a>
-        -   <a href="#scaling-mt-valor-both-routes-converge" id="toc-scaling-mt-valor-both-routes-converge">Scaling Mt. Valor (Both Routes Converge)</a>
-    -   <a href="#valor-summit" id="toc-valor-summit">Valor Summit</a>
-    -   <a href="#post-valor-quests" id="toc-post-valor-quests">Post-Valor Quests</a>
-    -   <a href="#lyric-badge" id="toc-lyric-badge">Lyric Badge</a>
--   <a href="#chapter-9-no-time-left-to-lose" id="toc-chapter-9-no-time-left-to-lose">Chapter 9: No Time Left to Lose</a>
-    -   <a href="#forest-of-time" id="toc-forest-of-time">Forest of Time</a>
-    -   <a href="#aevium-past-1st-visit" id="toc-aevium-past-1st-visit">Aevium (Past) 1st Visit</a>
-    -   <a href="#west-gearen-city-sewers" id="toc-west-gearen-city-sewers">West Gearen City Sewers</a>
-    -   <a href="#west-gearen-city" id="toc-west-gearen-city">West Gearen City</a>
-    -   <a href="#west-gearen-city-help-quests" id="toc-west-gearen-city-help-quests">West Gearen City Help Quests</a>
-        -   <a href="#hquest-23-generator-problems" id="toc-hquest-23-generator-problems">HQuest 23: Generator Problems</a>
-        -   <a href="#hquest-24-house-sit" id="toc-hquest-24-house-sit">HQuest 24: House Sit!</a>
-        -   <a href="#hquest-25-hidden-library-3" id="toc-hquest-25-hidden-library-3">HQuest 25: Hidden Library 3</a>
-        -   <a href="#spector-battle-quest" id="toc-spector-battle-quest">Spector Battle Quest</a>
-    -   <a href="#route-4-eight-badge-update" id="toc-route-4-eight-badge-update">Route 4 Eight Badge Update</a>
-    -   <a href="#pulse-badge" id="toc-pulse-badge">Pulse Badge</a>
--   <a href="#chapter-10-stopped-in-our-tracks" id="toc-chapter-10-stopped-in-our-tracks">Chapter 10: Stopped in Our Tracks</a>
-    -   <a href="#a-few-more-quests" id="toc-a-few-more-quests">A Few More Quests</a>
-    -   <a href="#grand-express" id="toc-grand-express">Grand Express</a>
-    -   <a href="#route-7" id="toc-route-7">Route 7</a>
-    -   <a href="#darchlight-woods" id="toc-darchlight-woods">Darchlight Woods</a>
-    -   <a href="#route-8-and-azure-shore" id="toc-route-8-and-azure-shore">Route 8 and Azure Shore</a>
-    -   <a href="#darchlight-manor-first-visit" id="toc-darchlight-manor-first-visit">Darchlight Manor First Visit</a>
-    -   <a href="#darchlight-caves-first-visit" id="toc-darchlight-caves-first-visit">Darchlight Caves First Visit</a>
-    -   <a href="#rose-badge" id="toc-rose-badge">Rose Badge</a>
--   <a href="#chapter-11-grand-dream-city" id="toc-chapter-11-grand-dream-city">Chapter 11: Grand Dream City?</a>
-    -   <a href="#dream-district-east-1st-visit" id="toc-dream-district-east-1st-visit">Dream District East 1st Visit</a>
-    -   <a href="#main-street-1st-visit" id="toc-main-street-1st-visit">Main Street 1st Visit</a>
-    -   <a href="#dream-district-west-1st-visit" id="toc-dream-district-west-1st-visit">Dream District West 1st Visit</a>
-    -   <a href="#central-square-1st-visit" id="toc-central-square-1st-visit">Central Square 1st Visit</a>
-    -   <a href="#shopping-district-1st-visit" id="toc-shopping-district-1st-visit">Shopping District 1st Visit</a>
-    -   <a href="#residential-district-1st-visit" id="toc-residential-district-1st-visit">Residential District 1st Visit</a>
-    -   <a href="#story-split-1" id="toc-story-split-1">Story Split 1</a>
-    -   <a href="#the-nightmare-medallion" id="toc-the-nightmare-medallion">The Nightmare Medallion</a>
-    -   <a href="#darchlight-manor-second-visit" id="toc-darchlight-manor-second-visit">Darchlight Manor Second Visit</a>
-    -   <a href="#nightmare-city" id="toc-nightmare-city">Nightmare City</a>
-    -   <a href="#trickery-badge" id="toc-trickery-badge">Trickery Badge</a>
-    -   <a href="#route-9-first-visit" id="toc-route-9-first-visit">Route 9 First Visit</a>
-    -   <a href="#rose-theater-first-visit" id="toc-rose-theater-first-visit">Rose Theater First Visit</a>
--   <a href="#chapter-12-remember-i-love-you" id="toc-chapter-12-remember-i-love-you">Chapter 12: Remember, I Love You</a>
-    -   <a href="#judicial-district" id="toc-judicial-district">Judicial District</a>
-    -   <a href="#kimono-girls-quest" id="toc-kimono-girls-quest">Kimono Girls Quest</a>
-    -   <a href="#axis-high-university-1st-visit" id="toc-axis-high-university-1st-visit">Axis High University 1st Visit</a>
-    -   <a href="#district-of-hope" id="toc-district-of-hope">District of Hope</a>
-    -   <a href="#aevium-past-2nd-visit" id="toc-aevium-past-2nd-visit">Aevium (Past) 2nd Visit</a>
-    -   <a href="#aevium-alt-future" id="toc-aevium-alt-future">Aevium (Alt. Future)</a>
-    -   <a href="#aevium-past-2nd-visit-part-2" id="toc-aevium-past-2nd-visit-part-2">Aevium (Past) 2nd Visit Part 2</a>
-    -   <a href="#ana-quest-part-1" id="toc-ana-quest-part-1">ANA Quest Part 1</a>
-        -   <a href="#hquest-26-missing-children" id="toc-hquest-26-missing-children">HQuest 26: Missing Children</a>
-    -   <a href="#classified-information-quest" id="toc-classified-information-quest">Classified Information Quest</a>
-        -   <a href="#hquest-27-classified-information" id="toc-hquest-27-classified-information">HQuest 27: Classified Information</a>
-    -   <a href="#golden-wing-badge" id="toc-golden-wing-badge">Golden Wing Badge</a>
-    -   <a href="#the-aelita-incident" id="toc-the-aelita-incident">The Aelita Incident</a>
--   <a href="#chapter-13-conflicting-renunion" id="toc-chapter-13-conflicting-renunion">Chapter 13: Conflicting Renunion</a>
-    -   <a href="#a-note-about-where-love-lies" id="toc-a-note-about-where-love-lies">A Note about Where Love Lies</a>
-    -   <a href="#scholar-district" id="toc-scholar-district">Scholar District</a>
-    -   <a href="#lost-camp-pt-3" id="toc-lost-camp-pt-3">Lost Camp Pt. 3</a>
-    -   <a href="#ana-quest-part-2" id="toc-ana-quest-part-2">ANA Quest Part 2</a>
-    -   <a href="#voidal-chasm-1st-visit" id="toc-voidal-chasm-1st-visit">Voidal Chasm 1st Visit</a>
-    -   <a href="#zorrialyn-desert" id="toc-zorrialyn-desert">Zorrialyn Desert</a>
-    -   <a href="#sashila-village-1st-visit" id="toc-sashila-village-1st-visit">Sashila Village 1st Visit</a>
-    -   <a href="#hospital-of-ruin-1st-visit" id="toc-hospital-of-ruin-1st-visit">Hospital of Ruin (1st Visit)</a>
-    -   <a href="#sashila-village-2nd-visit" id="toc-sashila-village-2nd-visit">Sashila Village 2nd Visit</a>
-    -   <a href="#alamissa-urben" id="toc-alamissa-urben">Alamissa Urben</a>
-    -   <a href="#blakeory-atheneum-tour" id="toc-blakeory-atheneum-tour">Blakeory Atheneum Tour</a>
-    -   <a href="#aevium-past-3rd-visit" id="toc-aevium-past-3rd-visit">Aevium (Past) 3rd Visit</a>
-    -   <a href="#vs-ren-sashila-help-quests" id="toc-vs-ren-sashila-help-quests">VS. Ren, Sashila Help Quests</a>
-        -   <a href="#hquest-28-legend-of-the-void" id="toc-hquest-28-legend-of-the-void">HQuest 28: Legend of the Void</a>
-        -   <a href="#hquest-29-badland-baddies" id="toc-hquest-29-badland-baddies">HQuest 29: Badland Baddies</a>
-        -   <a href="#hquest-30-my-sister-fell" id="toc-hquest-30-my-sister-fell">HQuest 30: My Sister Fell...</a>
-        -   <a href="#hquest-31-i-need-to-get-stronger" id="toc-hquest-31-i-need-to-get-stronger">HQuest 31: I need to get Stronger!
-</a>
-    -   <a href="#sand-stream-cave" id="toc-sand-stream-cave">Sand Stream Cave</a>
-    -   <a href="#zorrialyn-labyrinth-1st-visit" id="toc-zorrialyn-labyrinth-1st-visit">Zorrialyn Labyrinth 1st Visit</a>
-    -   <a href="#grand-dream-tournament" id="toc-grand-dream-tournament">Grand Dream Tournament</a>
-    -   <a href="#rugged-badge" id="toc-rugged-badge">Rugged Badge</a>
--   <a href="#chapter-14-death-of-one-birth-of-another" id="toc-chapter-14-death-of-one-birth-of-another">Chapter 14: Death of One, Birth of Another</a>
-    -   <a href="#neo-gearen-city--side-quests" id="toc-neo-gearen-city--side-quests">Neo Gearen City + Side Quests</a>
-        -   <a href="#hquest-32-poke-ball-conundrum" id="toc-hquest-32-poke-ball-conundrum">HQuest 32: Poke Ball Conundrum</a>
-        -   <a href="#hquest-33-forest-restoration" id="toc-hquest-33-forest-restoration">HQuest 33: Forest Restoration</a>
-        -   <a href="#hquest-34-mall-opportunities" id="toc-hquest-34-mall-opportunities">HQuest 34: Mall Opportunities</a>
-    -   <a href="#route-4-thirteen-badge-update" id="toc-route-4-thirteen-badge-update">Route 4 Thirteen Badge Update</a>
-    -   <a href="#route-10-first-visit" id="toc-route-10-first-visit">Route 10 First Visit</a>
-    -   <a href="#nastasias-ship" id="toc-nastasias-ship">Nastasia's Ship</a>
-    -   <a href="#zone-zero-pt-1" id="toc-zone-zero-pt-1">Zone Zero Pt. 1</a>
-    -   <a href="#zone-zero-pt-2" id="toc-zone-zero-pt-2">Zone Zero Pt. 2</a>
-    -   <a href="#eclysia-pyramid" id="toc-eclysia-pyramid">Eclysia Pyramid</a>
-    -   <a href="#pyramid-point-badge" id="toc-pyramid-point-badge">Pyramid Point Badge</a>
-    -   <a href="#zone-zero-quests" id="toc-zone-zero-quests">Zone Zero Quests</a>
-    -   <a href="#do-the-dive-floria" id="toc-do-the-dive-floria">Do the Dive (Floria)</a>
-    -   <a href="#do-the-dive-terajuma" id="toc-do-the-dive-terajuma">Do the Dive (Terajuma)</a>
-    -   <a href="#kingdom-of-goomidra" id="toc-kingdom-of-goomidra">Kingdom of Goomidra</a>
-    -   <a href="#zorrialyn-labyrinth-2nd-visit" id="toc-zorrialyn-labyrinth-2nd-visit">Zorrialyn Labyrinth 2nd Visit</a>
-    -   <a href="#aquarium-side-quest" id="toc-aquarium-side-quest-aquasq1">Aquarium Side Quest</a>
-    -   <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">Ana Quest Part 3</a>
-    -   <a href="#hospital-of-ruin-2nd-visit" id="toc-hospital-of-ruin-2nd-visit">Hospital of Ruin (2nd Visit)</a>
-    -   <a href="#narcissas-quest-final" id="toc-narcissas-quest-final">Narcissa's Quest (Final)</a>
-    -   <a href="#department-store-and-deino" id="toc-department-store-and-deino">Department Store and Deino</a>
-    -   <a href="#zygarde-10-form" id="toc-zygarde-10-form">Zygarde 10% Form</a>
--   <a href="#chapter-15-vague-clarity" id="toc-chapter-15-vague-clarity">Chapter 15: Vague Clarity</a>
-    -   <a href="#league-administration-1st-visit" id="toc-league-administration-1st-visit">League Administration 1st Visit</a>
-        -   <a href="#day-01-vs-melia" id="toc-day-01-vs-melia">Day 01: Vs. Melia</a>
-        -   <a href="#day-03-aelitas-departure" id="toc-day-03-aelitas-departure">Day 03: Aelita's Departure</a>
-        -   <a href="#day-08-mcs-training" id="toc-day-08-mcs-training">Day 08: MC's Training </a>
-        -   <a href="#day-11-aelitas-return" id="toc-day-11-aelitas-return">Day 11: Aelita's Return</a>
-        -   <a href="#day-15-melia-vs-erin" id="toc-day-15-melia-vs-erin">Day 15: Melia Vs. Erin</a>
-        -   <a href="#day-18-mcs-day-of-training-pt-2" id="toc-day-18-mcs-day-of-training-pt-2">Day 18: MC's Day of Training, Pt. 2</a>
-        -   <a href="#day-29-graduation" id="toc-day-29-graduation">Day 29: Graduation </a>
-    -   <a href="#diamond-route" id="toc-diamond-route-diaroute1">Diamond Route</a>
-    -   <a href="#pearl-route" id="toc-pearl-route">Pearl Route</a>
-    -   <a href="#axis-high-university-2nd-visit" id="toc-axis-high-university-2nd-visit">Axis High University 2nd Visit</a>
-    -   <a href="#aelita-school-route" id="toc-aelita-school-route">Aelita School Route</a>
-    -   <a href="#mc-school-route" id="toc-mc-school-route">MC School Route</a>
-    -   <a href="#axis-high-university-3rd-visit" id="toc-axis-high-university-3rd-visit">Axis High University 3rd Visit</a>
-    -   <a href="#forgery-badge" id="toc-forgery-badge">Forgery Badge</a>
-    -   <a href="#post-v13-items" id="toc-post-v13-items">Post V13 Items</a>
--   <a href="#appendices" id="toc-appendices">Appendices</a>
-    -   <a href="#complete-the-v13-dex" id="toc-complete-the-v13-dex">Complete the V13 Dex</a>
-        - <a href="#must-breed" id="toc-must-breed">Must Breed</a>
-        - <a href="#must-evolve-by-level" id="toc-must-evolve-by-level">Must Evolve by Level</a>
-        - <a href="#must-evolve-by-item" id="toc-must-evolve-by-item">Must Evolve by Item</a>
-        - <a href="#must-evolve-by-friendship" id="toc-must-evolve-by-friendship">Must Evolve by Friendship</a>
-        - <a href="#must-evolve-by-other-means" id="toc-must-evolve-by-other-means">Must Evolve by Other Means</a>
-    -   <a href="#v13-unobtainable-pokemon" id="toc-v13-unobtainable-pokemon">V13 Unobtainable Pokemon</a>
-        - <a href="#starter-choices" id="toc-starter-choices">Starter Choices</a>
-        - <a href="#mystery-egg-choices" id="toc-mystery-egg-choices">Mystery Egg Choices</a>
-        - <a href="#completely-unobtainable" id="toc-completely-unobtainable">Completely Unobtainable</a>
-        - <a href="#legendaries" id="toc-legendaries">Legendaries</a>
-    -   <a href="#pickup-table" id="toc-pickup-table">Pickup Table</a>
-    -   <a href="#crest-descriptions" id="toc-crest-descriptions">Crest Descriptions</a>
+- [Pokemon Rejuvenation Walkthrough](#pokemon-rejuvenation-walkthrough)
+- [Chapter 1: Shipwrecked](#chapter-1-shipwrecked)
+  - [Prologue](#prologue)
+  - [S.S. Oceana](#ss-oceana)
+  - [Oceana Pier](#oceana-pier)
+  - [Gearen Laboratory](#gearen-laboratory)
+  - [Left East Gearen City](#left-east-gearen-city)
+  - [Right East Gearen City](#right-east-gearen-city)
+  - [Chrisola Resort](#chrisola-resort)
+  - [Gearen Park](#gearen-park)
+  - [Sewers Visit 1](#sewers-visit-1)
+  - [Game Corner Prizes](#game-corner-prizes)
+  - [PoisonHeart Badge](#poisonheart-badge)
+  - [Post-Gym Quests](#post-gym-quests)
+    - [HQuest 1: Help Starly](#hquest-1-help-starly)
+    - [HQuest 2: Missing Mother](#hquest-2-missing-mother)
+    - [HQuest 3: Hidden Library](#hquest-3-hidden-library)
+    - [HQuest 4: Love Letter](#hquest-4-love-letter)
+    - [HQuest 5: Dangerous Pokemon](#hquest-5-dangerous-pokemon)
+    - [HQuest 6: Battle Me](#hquest-6-battle-me)
+    - [HQuest 7: Wretched Music](#hquest-7-wretched-music)
+  - [Route 1 and Goldenwood Forest](#route-1-and-goldenwood-forest)
+  - [Goldenwood Xen Attack](#goldenwood-xen-attack)
+- [Chapter 2: Redemption](#chapter-2-redemption)
+  - [Junction Bridge](#junction-bridge)
+  - [Route 2](#route-2)
+  - [Amethyst Cave 1st Visit](#amethyst-cave-1st-visit)
+  - [Sheridan Village](#sheridan-village)
+  - [Amethyst Grotto and Sheridan Help Quests](#amethyst-grotto-and-sheridan-help-quests)
+    - [HQuest 8: Hidden Library 2](#hquest-8-hidden-library-2)
+    - [HQuest 9: Stolen Cargo!](#hquest-9-stolen-cargo)
+    - [HQuest 10: Trade Me!](#hquest-10-trade-me)
+    - [HQuest 11: Fetch an Item!](#hquest-11-fetch-an-item)
+    - [HQuest 12: Battle Request 2](#hquest-12-battle-request-2)
+  - [Diamond Punch Badge? - Badge1.5](#diamond-punch-badge---badge15)
+  - [Carotos Mountain](#carotos-mountain)
+  - [Diamond Punch Badge](#diamond-punch-badge)
+- [Chapter 3: Tainted Light](#chapter-3-tainted-light)
+  - [Sewers Visit 2](#sewers-visit-2)
+  - [Normality Badge](#normality-badge)
+- [Chapter 4: Isolation](#chapter-4-isolation)
+  - [3 Badge Quests](#3-badge-quests)
+  - [Route 3 and Phasial Cave](#route-3-and-phasial-cave)
+  - [Goldenleaf Town](#goldenleaf-town)
+  - [Wispy Path and Goldenwood Forest Visit 2](#wispy-path-and-goldenwood-forest-visit-2)
+  - [Wispy Tower](#wispy-tower)
+  - [Mirage Woods](#mirage-woods)
+  - [Phantasm Badge](#phantasm-badge)
+- [Chapter 5: Imprisoned](#chapter-5-imprisoned)
+  - [Wispy Ruins](#wispy-ruins)
+  - [Route 4](#route-4)
+  - [Lost Camp Part 1, and Floria Side Quests](#lost-camp-part-1-and-floria-side-quests)
+  - [Mystery Egg](#mystery-egg)
+  - [Akuwa Town?](#akuwa-town)
+  - [Blacksteeple Castle](#blacksteeple-castle)
+    - [Day 1](#day-1)
+    - [Day 2](#day-2)
+    - [Night 2](#night-2)
+    - [Day 3](#day-3)
+    - [Night 3](#night-3)
+    - [Day 4](#day-4)
+  - [Xen Battleship](#xen-battleship)
+  - [Terajuma Shore](#terajuma-shore)
+  - [Terajuma Jungle](#terajuma-jungle)
+  - [Dewdrop Badge](#dewdrop-badge)
+- [Chapter 6: Nimpossible Predicament](#chapter-6-nimpossible-predicament)
+  - [Terajuma Island Surfing](#terajuma-island-surfing)
+  - [Terajuma Jungle 2](#terajuma-jungle-2)
+  - [Kakori Village and Jeminra Woods](#kakori-village-and-jeminra-woods)
+  - [Route 5](#route-5)
+  - [Dexoy Attack](#dexoy-attack)
+  - [Kakori Help Quests](#kakori-help-quests)
+    - [HQuest 13: Clear the Way!](#hquest-13-clear-the-way)
+    - [HQuest 14: Bandit at Large](#hquest-14-bandit-at-large)
+    - [HQuest 15: Building Bridges](#hquest-15-building-bridges)
+    - [HQuest 16: Find It!](#hquest-16-find-it)
+    - [HQuest 17: Battle Me Again!](#hquest-17-battle-me-again)
+  - [Secret Shore](#secret-shore)
+  - [Floria Island Surfing and Side Quests](#floria-island-surfing-and-side-quests)
+  - [River's End First Visit](#rivers-end-first-visit)
+  - [Route 4 Second Visit](#route-4-second-visit)
+  - [Route 11](#route-11)
+  - [Infested Badge](#infested-badge)
+- [Chapter 7: A Teila Fire and Ice](#chapter-7-a-teila-fire-and-ice)
+  - [Route 6 and Aquamarine Cave](#route-6-and-aquamarine-cave)
+  - [Teila Resort First Visit](#teila-resort-first-visit)
+  - [Aquamarine Cave 2nd Visit](#aquamarine-cave-2nd-visit)
+  - [Teila Resort 2nd Visit](#teila-resort-2nd-visit)
+  - [River's End 2nd Visit -REnd2](#rivers-end-2nd-visit--rend2)
+  - [Frozen Over Kristiline Town](#frozen-over-kristiline-town)
+  - [Tower of Theolia](#tower-of-theolia)
+  - [Glacier Badge](#glacier-badge)
+- [Chapter 8: Those We Lose](#chapter-8-those-we-lose)
+  - [Kristiline Town](#kristiline-town)
+  - [Kristiline Help Center Requests](#kristiline-help-center-requests)
+    - [HQuest 18: Lighthouse](#hquest-18-lighthouse)
+    - [HQuest 19: Take my Quiz!](#hquest-19-take-my-quiz)
+    - [HQuest 20: Defend Me!](#hquest-20-defend-me)
+    - [HQuest 21: Research](#hquest-21-research)
+    - [HQuest 22: ???](#hquest-22-)
+  - [Floria Island Rock Climb](#floria-island-rock-climb)
+  - [Amethyst Cave 2nd Visit](#amethyst-cave-2nd-visit)
+  - [Lost Camp Pt. 2](#lost-camp-pt-2)
+  - [Carotos Mountain 2nd Visit](#carotos-mountain-2nd-visit)
+  - [Valor Mountain](#valor-mountain)
+    - [Entering the Mountain (Kept It Route)](#entering-the-mountain-kept-it-route)
+    - [Saving Amber (Kept It Route)](#saving-amber-kept-it-route)
+    - [Entering the Mountain (Gave It Away Route)](#entering-the-mountain-gave-it-away-route)
+    - [Saving Amber (Gave It Away Route)](#saving-amber-gave-it-away-route)
+    - [Scaling Mt. Valor (Both Routes Converge)](#scaling-mt-valor-both-routes-converge)
+  - [Valor Summit](#valor-summit)
+  - [Post-Valor Quests](#post-valor-quests)
+  - [Lyric Badge](#lyric-badge)
+- [Chapter 9: No Time Left to Lose](#chapter-9-no-time-left-to-lose)
+  - [Forest of Time](#forest-of-time)
+  - [Aevium (Past) 1st Visit](#aevium-past-1st-visit)
+  - [West Gearen City Sewers](#west-gearen-city-sewers)
+  - [West Gearen City](#west-gearen-city)
+  - [West Gearen City Help Quests](#west-gearen-city-help-quests)
+    - [HQuest 23: Generator Problems](#hquest-23-generator-problems)
+    - [HQuest 24: House Sit](#hquest-24-house-sit)
+    - [HQuest 25: Hidden Library 3](#hquest-25-hidden-library-3)
+    - [Spector Battle Quest](#spector-battle-quest)
+  - [Route 4 Eight Badge Update](#route-4-eight-badge-update)
+  - [Pulse Badge](#pulse-badge)
+- [Chapter 10: Stopped in Our Tracks](#chapter-10-stopped-in-our-tracks)
+  - [A Few More Quests](#a-few-more-quests)
+  - [Grand Express](#grand-express)
+  - [Route 7](#route-7)
+  - [Darchlight Woods](#darchlight-woods)
+  - [Route 8 and Azure Shore](#route-8-and-azure-shore)
+  - [Darchlight Manor First Visit](#darchlight-manor-first-visit)
+  - [Darchlight Caves First Visit](#darchlight-caves-first-visit)
+  - [Rose Badge](#rose-badge)
+- [Chapter 11: Grand Dream City?](#chapter-11-grand-dream-city)
+  - [Dream District East 1st Visit](#dream-district-east-1st-visit)
+  - [Main Street 1st Visit](#main-street-1st-visit)
+  - [Dream District West 1st Visit](#dream-district-west-1st-visit)
+  - [Central Square 1st Visit](#central-square-1st-visit)
+  - [Shopping District 1st Visit](#shopping-district-1st-visit)
+  - [Residential District 1st Visit](#residential-district-1st-visit)
+  - [Story Split 1](#story-split-1)
+  - [The Nightmare Medallion](#the-nightmare-medallion)
+  - [Darchlight Manor Second Visit](#darchlight-manor-second-visit)
+  - [Nightmare City](#nightmare-city)
+  - [Trickery Badge](#trickery-badge)
+  - [Route 9 First Visit](#route-9-first-visit)
+  - [Rose Theater First Visit](#rose-theater-first-visit)
+- [Chapter 12: Remember, I Love You](#chapter-12-remember-i-love-you)
+  - [Judicial District](#judicial-district)
+  - [Kimono Girls Quest](#kimono-girls-quest)
+  - [Axis High University 1st Visit](#axis-high-university-1st-visit)
+  - [District of Hope](#district-of-hope)
+  - [Aevium (Past) 2nd Visit](#aevium-past-2nd-visit)
+  - [Aevium (Alt. Future)](#aevium-alt-future)
+  - [Aevium (Past) 2nd Visit Part 2](#aevium-past-2nd-visit-part-2)
+  - [ANA Quest Part 1](#ana-quest-part-1)
+    - [HQuest 26: Missing Children](#hquest-26-missing-children)
+  - [Classified Information Quest](#classified-information-quest)
+    - [HQuest 27: Classified Information](#hquest-27-classified-information)
+  - [Golden Wing Badge](#golden-wing-badge)
+  - [The Aelita Incident](#the-aelita-incident)
+- [Chapter 13: Conflicting Renunion](#chapter-13-conflicting-renunion)
+  - [A Note about Where Love Lies](#a-note-about-where-love-lies)
+  - [Scholar District](#scholar-district)
+  - [Lost Camp Pt. 3](#lost-camp-pt-3)
+  - [ANA Quest Part 2](#ana-quest-part-2)
+  - [Voidal Chasm 1st Visit](#voidal-chasm-1st-visit)
+  - [Zorrialyn Desert](#zorrialyn-desert)
+  - [Sashila Village 1st Visit](#sashila-village-1st-visit)
+  - [Hospital of Ruin (1st Visit)](#hospital-of-ruin-1st-visit)
+  - [Sashila Village 2nd Visit](#sashila-village-2nd-visit)
+  - [Alamissa Urben](#alamissa-urben)
+  - [Blakeory Atheneum Tour](#blakeory-atheneum-tour)
+  - [Aevium (Past) 3rd Visit](#aevium-past-3rd-visit)
+  - [VS. Ren, Sashila Help Quests](#vs-ren-sashila-help-quests)
+    - [HQuest 28: Legend of the Void](#hquest-28-legend-of-the-void)
+    - [HQuest 29: Badland Baddies](#hquest-29-badland-baddies)
+    - [HQuest 30: My Sister Fell...](#hquest-30-my-sister-fell)
+    - [HQuest 31: I need to get Stronger!](#hquest-31-i-need-to-get-stronger)
+  - [Sand Stream Cave](#sand-stream-cave)
+  - [Zorrialyn Labyrinth 1st Visit](#zorrialyn-labyrinth-1st-visit)
+  - [Grand Dream Tournament](#grand-dream-tournament)
+  - [Rugged Badge](#rugged-badge)
+- [Chapter 14: Death of One, Birth of Another](#chapter-14-death-of-one-birth-of-another)
+  - [Neo Gearen City + Side Quests](#neo-gearen-city--side-quests)
+    - [HQuest 32: Poke Ball Conundrum](#hquest-32-poke-ball-conundrum)
+    - [HQuest 33: Forest Restoration](#hquest-33-forest-restoration)
+    - [HQuest 34: Mall Opportunities](#hquest-34-mall-opportunities)
+  - [Route 4 Thirteen Badge Update](#route-4-thirteen-badge-update)
+  - [Route 10 First Visit](#route-10-first-visit)
+  - [Nastasia's Ship](#nastasias-ship)
+  - [Zone Zero Pt. 1](#zone-zero-pt-1)
+  - [Zone Zero Pt. 2](#zone-zero-pt-2)
+  - [Eclysia Pyramid](#eclysia-pyramid)
+  - [Pyramid Point Badge](#pyramid-point-badge)
+  - [Zone Zero Quests](#zone-zero-quests)
+  - [Do the Dive (Floria)](#do-the-dive-floria)
+  - [Do the Dive (Terajuma)](#do-the-dive-terajuma)
+  - [Kingdom of Goomidra](#kingdom-of-goomidra)
+  - [Zorrialyn Labyrinth 2nd Visit](#zorrialyn-labyrinth-2nd-visit)
+  - [Aquarium Side Quest](#aquarium-side-quest)
+  - [Ana Quest Part 3](#ana-quest-part-3)
+  - [Hospital of Ruin (2nd Visit)](#hospital-of-ruin-2nd-visit)
+  - [Narcissa's Quest (Final)](#narcissas-quest-final)
+  - [Department Store and Deino](#department-store-and-deino)
+  - [Zygarde 10% Form](#zygarde-10-form)
+- [Chapter 15: Vague Clarity](#chapter-15-vague-clarity)
+  - [League Administration 1st Visit](#league-administration-1st-visit)
+    - [Day 01: Vs. Melia](#day-01-vs-melia)
+    - [Day 03: Aelita's Departure](#day-03-aelitas-departure)
+    - [Day 08: MC's Training](#day-08-mcs-training)
+    - [Day 11: Aelita's Return](#day-11-aelitas-return)
+    - [Day 15: Melia Vs. Erin](#day-15-melia-vs-erin)
+    - [Day 18: MC's Day of Training, Pt. 2](#day-18-mcs-day-of-training-pt-2)
+    - [Day 29: Graduation](#day-29-graduation)
+  - [Diamond Route](#diamond-route)
+  - [Pearl Route](#pearl-route)
+  - [Axis High University 2nd Visit](#axis-high-university-2nd-visit)
+  - [Aelita School Route](#aelita-school-route)
+  - [MC School Route](#mc-school-route)
+  - [Axis High University 3rd Visit](#axis-high-university-3rd-visit)
+  - [Forgery Badge](#forgery-badge)
+  - [Post V13 Items](#post-v13-items)
+- [Appendices](#appendices)
+  - [Complete the V13 Dex](#complete-the-v13-dex)
+    - [Must Breed](#must-breed)
+    - [Must Evolve by Level](#must-evolve-by-level)
+    - [Must Evolve by Item](#must-evolve-by-item)
+    - [Must Evolve by Friendship](#must-evolve-by-friendship)
+    - [Must Evolve by Other Means](#must-evolve-by-other-means)
+  - [V13 Unobtainable Pokemon](#v13-unobtainable-pokemon)
+    - [Starter Choices](#starter-choices)
+    - [Mystery Egg Choices](#mystery-egg-choices)
+    - [Completely Unobtainable](#completely-unobtainable)
+    - [Legendaries](#legendaries)
+  - [Pickup Table](#pickup-table)
+  - [Crest Descriptions](#crest-descriptions)
 
 # Chapter 1: Shipwrecked
 

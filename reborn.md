@@ -1,1 +1,8 @@
-Pokemon Reborn walkthrough coming soon?
+---
+title: |
+  Pokemon Reborn Walkthrough
+---
+
+# Pokemon Reborn Walkthrough 
+## Heavy Work In Progress :)
+
