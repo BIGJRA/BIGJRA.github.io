@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://bigjra.github.io/rejuv">
-<img alt="Pokemon Rejuvenation Walkthrough" src="/assets/media/reborn_title.jpg"/>
+<img alt="Pokemon Rejuvenation Walkthrough" src="/assets/media/rejuv_title.jpg"/>
 </a>
