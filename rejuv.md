@@ -4,21 +4,6 @@ title: |
 ---
 
 # Pokemon Rejuvenation Walkthrough 
-## Written by @BIGJRA
-
-Welcome to my walkthrough of Pokemon Rejuvenation!
-
-While you're here, try checking out [my YouTube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)!
-I post various fan-game things from time to time.
-
-Do you have concerns/suggestions/etc? Message me on Discord with
-BIGJRA#3883 or use the [forum thread](https://www.rebornevo.com/forums/topic/44187-rejuvenation-100-walkthrough-discussion-thread-and-link-updated-to-v13/) for discussion.
-If you want to contribute pull requests to the site yourself, please
-message me on Discord.
-
-Use CTRL + F to find a specific section. I also oriented this guide as
-such that CTRL + F will work for T.M. Names, certain items, Zygarde
-cells, tutors, Pokemon Locations, and more!
 
 # Table of Contents
 -   <a href="#chapter-1-shipwrecked" id="toc-chapter-1-shipwrecked">Chapter 1: Shipwrecked</a>
