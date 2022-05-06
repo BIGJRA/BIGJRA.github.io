@@ -2,9 +2,7 @@
 title: |
   Pokemon Rejuvenation Walkthrough
 ---
-<!-- no toc -->
 <p id="title-text">Pokemon Rejuvenation Walkthrough </p>
-<!-- no toc -->
 
 - [Chapter 1: Shipwrecked](#chapter-1-shipwrecked)
   - [Prologue](#prologue)
