@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 title: BIGJRA's Guides
+description: A site which contains my in-depth guides for Pokemon Reborn and Pokemon Rejuvenation
+github:
+  is_project_page: true
