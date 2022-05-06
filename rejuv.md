@@ -3,22 +3,8 @@ title: |
   Pokemon Rejuvenation Walkthrough
 ---
 
-# Pokemon Rejuvenation V13.0.5
-# Walkthrough Version 13.2.0
-# Written by @BIGJRA
-
-
-My site hasn't been completely rolled out yet: I could use some help to double check these things:
-
-- Does every battle have a field listed (including No Field)? Should be yes.
-
-- Are there any encounter tables with field listed? Should be no.
-
-- Does every encounter table have at most 6 columns (3 types, 3 % columns)? Should be yes.
-
-- Are there any inconsistent formatting / syntax issues? Should be no.
-
-- Does every table of contents hyperlink correctly bring you to the right section? Should be yes.
+# Pokemon Rejuvenation Walkthrough 
+## Written by @BIGJRA
 
 Welcome to my walkthrough of Pokemon Rejuvenation!
 
