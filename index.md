@@ -4,7 +4,7 @@ While you're here, try checking out [my YouTube Channel](https://www.youtube.com
 I post various fan-game things from time to time.
 
 Do you notice **inconsistencies** with style or formatting? Do you have **feature requests**
-and **ideas**? Do you see any **inaccuracies** with the content? Or, do you want to contrib**ute
+and **ideas**? Do you see any **inaccuracies** with the content? Or, do you want to **contribute
 directly** to the site? 
 
 If so, message me on Discord: **BIGJRA#3883**.
