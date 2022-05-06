@@ -633,7 +633,7 @@ Berry Emporium Shop
 
 |Item           |Price      |
 |---------------|-----------|
-|*Oran Berry*---|$200       |
+|*Oran Berry*   |$200       |
 |*Pecha Berry*  |$300       |
 
 You can pick up a few of each berry for the gym.
@@ -17269,7 +17269,7 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 |**Electivire**       |Electrizer + Link Heart   |
 |**Magmortar**        |Magmarizer + Link Heart   |
 |**Porygon-Z**        |Dubious Disc + Link Heart |
-|**Gallade**          |Male + Dawn Stone.        |
+|**Gallade**          |Male + Dawn Stone        |
 |**Dusknoir**         |Reaper Cloth + Link Heart |
 |**Froslass**         |Female + Dawn Stone       |
 |**Simisage**         |Leaf Stone                |
@@ -17344,32 +17344,32 @@ Friendship berries are available at Maman's Camp. As for item evolutions
 ### Starter Choices
 
 You can only get at most one of these lines, when selecting your starter:
-- **Torchic\***
-- **Combusken\***
-- **Blaziken\***
-- **Chimchar\***
-- **Monferno\***
-- **Infernape\***
-- **Snivy\***
-- **Servine\***
-- **Serperior\***
-- **Grookey\***
-- **Thwackey\***
-- **Rillaboom\***
-- **Scorbunny\***
-- **Raboot\***
-- **Cinderace\***
+- **Torchic**
+- **Combusken**
+- **Blaziken**
+- **Chimchar**
+- **Monferno**
+- **Infernape**
+- **Snivy**
+- **Servine**
+- **Serperior**
+- **Grookey**
+- **Thwackey**
+- **Rillaboom**
+- **Scorbunny**
+- **Raboot**
+- **Cinderace**
 
 ### Mystery Egg Choices
 
 You can only get at most one of these lines, when randomly obtaining
 your mystery egg:
-- **Togepi\*\***
-- **Togetic\*\***
-- **Togekiss\*\***
-- **Rookidee\*\***
-- **Corvisquire\*\***
-- **Corviknight\*\***
+- **Togepi**
+- **Togetic**
+- **Togekiss**
+- **Rookidee**
+- **Corvisquire**
+- **Corviknight**
 
 ### Completely Unobtainable
 
