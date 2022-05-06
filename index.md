@@ -1,5 +1,9 @@
-Welcome to my site.
+### Welcome to my site! Click on the images below to access my walkthroughs.
 
-# [Pokemon Reborn Walkthrough](https://bigjra.github.io/reborn)
+<a href="https://bigjra.github.io/reborn">
+<img alt="Pokemon Reborn Walkthrough" src="/assets/media/reborn_title.jpg"/>
+</a>
 
-# [Pokemon Rejuvenation Walkthrough](https://bigjra.github.io/rejuv)
+<a href="https://bigjra.github.io/rejuv">
+<img alt="Pokemon Rejuvenation Walkthrough" src="/assets/media/reborn_title.jpg"/>
+</a>
