@@ -51,61 +51,61 @@ Ame will ask you if you have any special instructions or passwords. From the
 game's readme:
 
 <div id="quote">
-At the start of the game, you will be prompted for special instructions, or
+<p> At the start of the game, you will be prompted for special instructions, or
 passwords. Below is a list of applicable passwords. 
 Please note that these are features are considered a bonus, and may have some 
-unexpected interactions at times...
+unexpected interactions at times... </p>
 
-Implement a hard EXP cap when maxed on badges, similar to Pokémon Rejuvenation:
-	Password: hardcap
+<p>Implement a hard EXP cap when maxed on badges, similar to Pokémon Rejuvenation: <p>
+	<p>&emspPassword: hardcap</p>
 
-Cause randomized early game Pokémon events to bias towards a specific type:
-	Password: mononormal
-	Password: monofire
-	Password: monowater
-	Password: monograss
-	Password: monoelectric
-	Password: monoice
-	Password: monofighting
-	Password: monopoison
-	Password: monoground
-	Password: monoflying
-	Password: monobug
-	Password: monopsychic
-	Password: monorock
-	Password: monoghost
-	Password: monodragon
-	Password: monodark
-	Password: monosteel
-	Password: monofairy
+<p>Cause randomized early game Pokémon events to bias towards a specific type:
+	<p>&emspPassword: mononormal</p>
+	<p>&emspPassword: monofire</p>
+	<p>&emspPassword: monowater</p>
+	<p>&emspPassword: monograss</p>
+	<p>&emspPassword: monoelectric</p>
+	<p>&emspPassword: monoice</p>
+	<p>&emspPassword: monofighting</p>
+	<p>&emspPassword: monopoison</p>
+	<p>&emspPassword: monoground</p>
+	<p>&emspPassword: monoflying</p>
+	<p>&emspPassword: monobug</p>
+	<p>&emspPassword: monopsychic</p>
+	<p>&emspPassword: monorock</p>
+	<p>&emspPassword: monoghost</p>
+	<p>&emspPassword: monodragon</p>
+	<p>&emspPassword: monodark</p>
+	<p>&emspPassword: monosteel</p>
+	<p>&emspPassword: monofairy</p>
 
-Prevent Pokémon from being healed after their HP drops to 0:
-	Pasword: nuzlocke
+<p>Prevent Pokémon from being healed after their HP drops to 0:</p>
+	<p>&emspPassword: nuzlocke</p>
 	
-Randomly reshuffles species and moves as rolled at game start:
-	Password: randomizer
+<p>Randomly reshuffles species and moves as rolled at game start:</p>
+	<p>&emspPassword: randomizer</p>
 	
-Pokémon do not need to know HM (TMX) moves in order to use them in the field:
-	Password: easyhms
+<p>Pokémon do not need to know HM (TMX) moves in order to use them in the field:</p>
+	<p>&emspPassword: easyhms</p>
 	
-Prohibits the player's use of items in trainer battles:
-	Password: noitems
+<p>Prohibits the player's use of items in trainer battles:</p>
+	<p>&emspPassword: noitems</p>
 	
-Sets all opposing trainer Pokémon to have 252 EVs and 31 IVs in all stats:
-	Password: fullevs
+<p>Sets all opposing trainer Pokémon to have 252 EVs and 31 IVs in all stats:</p>
+	<p>&emspPassword: fullevs</p>
 	
-Sets all opposing trainer Pokémon to have 0 EVs and IVs in all stats:
-	Password: litemode
+<p>Sets all opposing trainer Pokémon to have 0 EVs and IVs in all stats:</p>
+	<p>&emspPassword: litemode</p>
 	
-Makes all Field	Notes visible immediately
-	Password: allfieldapp
+<p>Makes all Field	Notes visible immediately</p>
+	<p>&emspPassword: allfieldapp</p>
 	
-Remove some randomness by making all attacks do consistent damage rather than a roll:
-	Password: nodamageroll
+<p>Remove some randomness by making all attacks do consistent damage rather than a roll:</p>
+	<p>&emspPassword: nodamageroll</p>
 
-Multiple passwords, including differing monotypes, may be used in tandem with 
-each other, but progress at your own risk~
+<p>Multiple passwords, including differing monotypes, may be used in tandem with 
+each other, but progress at your own risk~</p>
 
-Other hidden passwords may be able to be found in the game.</div>
+<p>Other hidden passwords may be able to be found in the game.</p></div>
 
 I recommend 
