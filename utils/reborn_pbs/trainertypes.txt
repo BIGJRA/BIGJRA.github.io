@@ -1,0 +1,296 @@
+# See the documentation on the wiki to learn how to edit this file.
+0,PkMnTRAINER_Male,PkMn Trainer,100,,,,Male,
+1,PkMnTRAINER_Female,PkMn Trainer,100,,,,Female,
+2,Punk,Punk,7,,,,Female,50
+3,YOUNGSTER,Youngster,4,,,,Male,20
+4,HIKER,Hiker,9,,,,Male,35
+5,BEAUTY,Posh,12,,,,Female,35
+6,FISHERMAN,Fisherman,9,,,,Male,31
+7,LADY,Lady,16,,,,Female,50
+8,NatureGirl,Nature Girl,11,,,,Female,35
+9,Exleader,Igneous,17,Battle- Upbeat,Victory2,,Male,100
+10,Doxy,Doxy,7,,,,Female,35
+11,Solaris,Meteor Leader,30,Battle- Dramatic.ogg,Victory2,,Male,100
+12,BUGCATCHER,Pokemon,0,Battle- Wild2.ogg,,,Male,75
+13,AYA,Wasteland Punk,12,Battle- Gym.ogg,Victory2,,Female,100
+14,DOCTOR,Dr.,32,Battle- Misc.ogg,Victory2,,Male,100
+15,Sirius,Meteor Admin,22,Battle- Meteor Admin.ogg,Victory2,,Male,100
+16,BLACKBELT,Black Belt,11,,,,Male,35
+17,RANGERF,Ranger,13,,,,Female,50
+18,BENNETT,Lepidopterist,16,Battle- Upbeat.ogg,Victory2,,Male,100
+19,EL,Parson,24,Battle- Legendary.ogg,Victory2,,Male,100
+20,SERRA,Beauty Queen,35,Battle- Gym.ogg,Victory2,,Female,100
+21,Steelix,Pokemon,0,Battle- Misc.ogg,Victory2,,Male,75
+22,NOEL,Prodigy,19,Battle- Gym.ogg,Victory2,,Male,100
+23,RADOMUS,Grandmaster,26,Battle- Gym.ogg,Victory2,,Male,100
+24,PkMnTRAINER_Male2,PkMn Trainer,100,,,,Male,
+25,PkMnTRAINER_Female2,PkMn Trainer,100,,,,Female,
+26,PANGORO,Pokemon,0,,,,Male,90
+27,KLINKLANG,Pokemon,0,,,,Male,50
+28,GENTLEMAN,Gentleman,20,,,,Male,50
+29,HARRIDAN,Harridan,36,,,,Male,90
+30,Cultist,Acolyte,12,,,,Male,50
+31,Maxwell,Magma Kingpin,16,Battle- Upbeat.ogg,,,Male,90
+32,Archer,Aqua Mastermind,16,Battle- Upbeat.ogg,,,Male,90
+33,BATTLEGIRL,Battle Girl,12,,,,Female,50
+34,LUNA,Dark Dreamer,18,Battle- Gym.ogg,Victory2,,Female,100
+35,MAGMA2,Magma Gang,9,,,,Male,50
+36,BEARTIC,Pokemon,0,,,,Male,50
+37,EXPERT_Male,Elder,13,,,,Male,75
+38,Clown,Clown,13,,,,Male,35
+39,SAMSON,Strongman,30,Battle- Gym.ogg,Victory2,,Male,100
+40,AQUA2,Aqua Gang,9,,,,Male,50
+41,AQUA1,Aqua Gang,7,,,,Male,35
+42,MAGMA1,Magma Gang,7,,,,Male,35
+43,HAXORUS,Pokemon,0,,,,Mixed,90
+44,AsterKnight,Meteor Private,15,Battle- Meteor Admin.ogg,Victory2,,Male,90
+45,EclipseDame,Meteor Private,15,Battle- Meteor Admin.ogg,Victory2,,Female,90
+46,AceTrainerF,Ace Trainer,13,,,,Female,75
+47,AceTrainerM,Ace Trainer,13,,,,Male,75
+48,CHARLOTTE,Firebug,19,Battle- Gym.ogg,Victory2,,Female,100
+49,PkMnRANGER_Male,Ranger,13,,,,Male,50
+50,PkMnRANGER_Female,Ranger,13,,,,Female,50
+51,AVALUGG,Pokemon,0,Battle- Misc.ogg,,,Mixed,75
+52,PkMnTRAINER_NB,PkMn Trainer,3,,,,Mixed,100
+53,PkMnTRAINER_NB2,PkMn Trainer,3,,,,Mixed,100
+54,REBORN,Reborn,16,Battle- Upbeat.ogg,Victory2,,Male,100
+55,COOLTRAINER_Male,Hotshot,8,,,,Male,35
+56,COOLTRAINER_Female,Arcade Star,10,,,,Female,35
+57,MeteorAceM,Meteor Ace,17,Battle- Meteor.ogg,,,Male,75
+58,MeteorAceF,Meteor Ace,17,Battle- Meteor.ogg,,,Female,75
+59,AsterAce,Meteor Ace,17,Battle- Meteor Admin.ogg,Victory2,,Male,90
+60,BLAKE,Agent,20,Battle- Misc,Victory2,,Male,100
+61,PSYCHIC_Male,Psychic,12,,,,Male,50
+62,PSYCHIC_Female,Psychic,12,,,,Female,50
+63,GLITCH1,MIS5INGN0,1,RBY Battle- Trainer,RBY Victory Trainer.ogg,,Mixed,20
+64,GLITCH2,PKMNPKMNT,3,RBY Battle- Trainer,RBY Victory Trainer.ogg,,Mixed,20
+65,GLITCH3,OPKMN4X,3,RBY Battle- Trainer,RBY Victory Trainer.ogg,,Mixed,50
+66,GLITCH4,M1SS1NGO,7,RBY Battle- Trainer,RBY Victory Trainer.ogg,,Mixed,50
+67,LUCARIO,Pokemon,0,,,,Female,90
+68,TERRA,M3G4,24,RBY Battle- Champion.ogg,RBY Victory Trainer.ogg,,Female,100
+69,NWCultist,New World Cultist,15,Battle- Meteor.ogg,,,Male,75
+70,NWOrderly,New World Orderly,15,Battle- Meteor.ogg,,,Male,75
+71,MIGHTYENA,Pokemon,0,,,,Mixed,35
+72,TITANIA,Guardian,21,Battle- Gym.ogg,Victory2,,Female,100
+73,SWALOT,Pokemon,0,Battle- Misc.ogg,,,Mixed,90
+74,CIEL,Skydancer,32,Battle- Gym.ogg,Victory2,,Female,100
+75,NWOrderlyF,New World Orderly,15,Battle- Meteor.ogg,,,Female,75
+76,OrderlyF,Orderly,9,,,,Female,50
+77,NWCultistF,New World Cultist,15,Battle- Meteor.ogg,,,Female,75
+78,CultistF,Acolyte,13,,,,Female,50
+79,SAMUROTT,Pokemon,0,Battle- Wild3.ogg,,,Mixed,90
+80,CUEBALL,Q Gang,9,,,,Male,75
+81,MASTERMIND,Mastermind,20,,,,Male,100
+82,KECLEON,Purple,0,Battle- Wild.ogg,,,Male,90
+83,Cain,Pretty Boy,14,Battle- Rival.ogg,Victory2,,Male,100
+84,Victoria,Apprentice,14,Battle- Rival.ogg,Victory2,,Female,100
+85,TechNerd,Techie,16,,,,Male,50
+86,StreetRat,Street Rat,2,,,,Male,20
+87,PoliceOfficer,Police Officer,13,,,,Male,50
+88,Casanova,Casanova,14,,,,Male,35
+89,MeteorGrunt,Meteor Grunt,10,Battle- Meteor.ogg,,,Male,35
+90,MeteorGrunt_090,Meteor Grunt,10,Battle- Meteor.ogg,,,Female,35
+91,Hotshot,Swag Jockey,19,Battle- Rival.ogg,Victory2,,Male,100
+92,MeteorGrunts,Meteor Privates,10,Battle- Meteor.ogg,,,Mixed,50
+93,JULIA,Cheer Captain,22,Battle- Gym.ogg,Victory2,,Female,100
+94,Pokemon,Pokemon,0,,,,Mixed,35
+95,ZEL,Meteor Admin,21,Battle- Meteor Admin.ogg,Victory2,,Male,100
+96,FLORINIA,Head Instructor,23,Battle- Gym.ogg,Victory2,,Female,100
+97,Taka,Meteor Admin,16,Battle- Meteor Admin.ogg,Victory2,,Male,100
+98,Corey,Agent,23,Battle- Misc.ogg,Victory2,,Male,100
+99,Swarm,Pokemon,0,Battle- Wild.ogg,,,Mixed,50
+100,Orderly,Orderly,9,,,,Male,50
+101,SHELLY,Bookworm,17,Battle- Gym.ogg,Victory2,,Female,100
+102,Tribe,Pokemon,0,Battle- Wild.ogg,,,Mixed,75
+103,SHADE,Entity,22,Battle- ReverseGym.ogg,Victory2,,Male,100
+104,Fiancee,Beau,26,,Victory2,,Female,100
+105,MeteorKnight,Meteor Knight,17,Battle- Meteor.ogg,,,Male,50
+106,MeteorDame,Meteor Dame,17,Battle- Meteor.ogg,,,Female,50
+107,Sensei,Sensei,17,Battle- Inner Peace.ogg,Victory2,,Female,100
+108,Spectral,Spectral,0,Battle- Inner Peace.ogg,Victory2,,Female,75
+109,KECLEONS,Kecleon,0,Battle- Wild.ogg,,,Mixed,50
+110,ARCLIGHT,DJ,13,Battle- Misc.ogg,Victory2,,Male,100
+111,ADRIENN,Visionary,14,Battle- Gym.ogg,Victory2,,Mixed,100
+112,TEST,Test Train,14,Battle- Gym.ogg,Victory2,,Mixed,100
+113,PREDATORS,Pokemon,0,Battle- Wild3.ogg,,,Mixed,90
+114,CORINROUGE,Dashing Rogue,21,,,,Male,100
+115,KNIGHT,Knight,14,,,,Male,70
+116,STATRESHIRAM,The Legendary,0,Battle- Legendary.ogg,Victory2,,Mixed,100
+117,STATZEKROM,The Legendary,0,Battle- Legendary.ogg,Victory2,,Mixed,100
+118,TITANIA1,Guardian Princess,21,Battle- Gym.ogg,Victory2,,Female,100
+119,TITANIA2,Guardian Exile,21,Battle- Gym.ogg,Victory2,,Female,100
+120,AMARIA1,Flotsam,26,Battle- Gym.ogg,Victory2,,Female,100
+121,AMARIA2,Jetsam,26,Battle- Gym.ogg,Victory2,,Female,100
+122,GARCHOMP,Pokemon,0,Battle- Wild3.ogg,,,Mixed,100
+123,Taka2,Vagrant Scion,16,Battle- Meteor Admin.ogg,Victory2,,Male,100
+124,BRELOOM,BreloomBot,0,Battle- Wild3.ogg,,,Mixed,100
+125,Victoria2,Sensei,20,Battle- Inner Peace.ogg,Victory2,,Female,100
+126,VOLCARONA,Pokemon,0,Battle- Wild3.ogg,,,Mixed,100
+127,PYUKMUK,High King,0,Battle- Wild3.ogg,,,Mixed,100
+128,QMARK,???,26,Battle- ReverseGym.ogg,Victory2,,Mixed,100
+129,SANDY,Activist,18,Battle- Upbeat.ogg,Victory2,,Female,100
+130,HARDHAT,Hard Hat,20,Battle- Trainer3.ogg,,,Mixed,91
+131,HARDY,Rockstar,18,Battle- Gym.ogg,Victory2,,Male,100
+132,AGGRON,Pokemon,0,Battle- Wild3.ogg,,,Mixed,100
+133,GULPIN,Pokemon,0,Battle- Wild3.ogg,,,Mixed,100
+134,GUITARIST,Guitarist,13,Battle- Trainer3.ogg,,,Male,60
+135,ZEL2,Meteor Grunt,21,Battle- Meteor Admin.ogg,Victory2,,Male,100
+136,FRIEND,Dr.,10,FindmEEE.ogg,Victory2,,Male,100
+137,MIME,Master,0,FindmEEE.ogg,Victory2,,Mixed,100
+138,LUMI,Snow Angel,10,Battle- Upbeat.ogg,Victory2,,Female,100
+139,EVE,Sunray,10,Battle- Upbeat.ogg,Victory2,,Female,100
+140,SAPHIRA,Keeper,30,Battle- Gym.ogg,Victory2,,Female,100
+141,SPIRITM,Wandering Spirit,20,Battle- Trainer3.ogg,,,Male,100
+142,SPIRITF,Wandering Spirit,20,Battle- Trainer3.ogg,,,Female,100
+143,PGB,Post-Game Battle,20,Battle- PGB.ogg,,,Female,100
+144,Developer,Developer,20,Battle- Trainer3.ogg,,,Mixed,100
+145,HEATHER,Elite Four Wind Maiden,23,Battle- Elite.ogg,Victory2,,Female,100
+146,BENNETTLAURA,Elite Four Tag Team,34,Battle- Elite.ogg,Victory2,,Female,100
+147,ELIAS,Elite Four Agent,44,Battle- Elite.ogg,Victory2,,Female,100
+148,ANNA,Elite Four Starcrosser,39,Battle- Elite.ogg,Victory2,,Female,100
+149,LIN,Meteor Champion,85,Battle- Champion.ogg,Battle- Champion.ogg,,Female,100
+150,CHILDLIN,Mordant Urchin,2,Battle- Champion.ogg,Battle- Champion.ogg,,Female,100
+151,LAURA,Elite Four Floral Artist,34,Battle- Elite.ogg,Victory2,,Female,100
+152,SHIINOTIC,Creeping,0,Battle- Wild4.ogg,,,Mixed,100
+153,CRESSELIA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+154,SWIMMERBOI,Swimmer,20,Battle- Trainer2.ogg,,,Male,75
+155,SWIMMERGRIL,Swimmer,20,Battle- Trainer2.ogg,,,Female,75
+156,RAIKOU,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+157,ENTEI,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+158,SUICUNE,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+159,CASS,Friendly Local,8,,,,Female,100
+160,ASTER,Hotshot,6,,,,Male,90
+161,SIMON,Ace Trainer,7,,,,Male,100
+162,RANDALL,Street Rat,19,,,,Male,100
+163,SEACREST,Elder,15,,,,Male,100
+164,RINGMASTER,Ringmaster,17,,,,Female,100
+165,MARCELLO,Not a Child; Just Short,25,,,,Male,100
+166,SMEARGLE,Wandering Artist,0,,,,Male,100
+167,SEER,Posh,15,,,,Female,100
+168,PIKANYU,Pokefan,16,,,,Male,100
+169,INDRA,Clown,13,,,,Male,100
+170,MCKREZZY,Guitarist,25,,,,Male,100
+171,CHIEF,Police Chief,19,,,,Male,100
+172,MISSDIRECTION,Miss,10,,,,Female,100
+173,MEGANIUM,Madame,0,,,,Female,100
+174,MURMINA,Doxy,4,,,,Female,100
+175,KANAYA,Lone Wolf,7,,,,Female,100
+176,BEE,Ranger,15,,,,Female,100
+177,BUFF,Bouffalant,3,,,,Male,90
+178,EUROPA,Ranger,6,,,,Female,100
+179,LAHVER,Mr.,0,,,,Male,100
+180,MAEL,Inspector,17,,,,Male,100
+181,AME,League Manager,18,Battle- Postgame.ogg,Victory2,,Female,100
+182,REGIS,Golem,0,Battle- Legendary.ogg,,,Mixed,100
+183,MUSKETEER1,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+184,MUSKETEER2,All,0,Battle- Legendary.ogg,,,Mixed,100
+185,KELDEO,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+186,MUSKETEER3,the Spectral,0,Battle- Legendary.ogg,,,Mixed,100
+187,UMBSAMSON,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+188,REGIGIGAS,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+189,GENIES,Djinn,0,Battle- Legendary.ogg,,,Mixed,100
+190,UMBCIEL,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+191,ZEL3,Rogue,21,Battle- Meteor Admin.ogg,Victory2,,Male,100
+192,BENNETT2,Elite Four Imago,16,Battle- Elite.ogg,Victory2,,Male,100
+193,FLORA,Axis High Senior,11,Battle- Misc.ogg,Victory2,,Female,100
+194,VOLCANION,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+195,POACHERM,Poacher,13,,,,Male,80
+196,POACHERF,Poacher,13,,,,Female,80
+197,POACHERB,Poacher,18,,,,Mixed,92
+198,SHANNON,Commissioner,33,,,,Female,100
+199,SIGMUND,Schoolboy,8,Battle- Misc.ogg,Victory2,,Male,100
+200,EUPHIE,Umbral,14,Battle- Umbral.ogg,Victory2,,Mixed,100
+201,JIRACHI,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+202,ANTICS,Her,2,Battle- Misc.ogg,Battle- Misc.ogg,,Female,100
+203,TAPUKOKO,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+204,TAPULELE,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+205,TAPUBULU,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+206,TAPUFINI,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+207,LATIAS,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+208,LATIOS,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+209,DIANCIE,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+210,DIASWORD,the Crystal,0,Battle- Legendary.ogg,,,Mixed,100
+211,UMBCAIN,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+212,UMBTERRA,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+213,HOOPA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+214,TAUBE,Guiding Star,18,Battle- Dramatic.ogg,Victory2,,Male,100
+215,ELENA,Elite Four Skyspectre,18,Battle- Elite.ogg,Victory2,,Female,100
+216,FUTURESHELLY,Reborn Champion,18,Battle- Rival.ogg,Victory2,,Female,100
+217,MELOETTA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+218,PALKIA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+219,DIALGA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+220,UMBTAKA,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+221,HEATRAN,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+222,MANAPHY,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+223,CELEBI,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+224,ACECLUBS,Meteor Manager,10,Battle- Meteor Admin.ogg,Victory2,,Mixed,100
+225,ACEDIAMONDS,Meteor Agent,18,Battle- Meteor Admin.ogg,Victory2,,Mixed,100
+226,ACEHEARTS,Meteor Agent,26,Battle- Meteor Admin.ogg,Victory2,,Mixed,100
+227,ACESPADES,Meteor Agent,34,Battle- Meteor Admin.ogg,Victory2,,Mixed,100
+228,UMBKIKI,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+229,FERN2,Swag Jockey,19,Battle- Rival.ogg,Victory2,,Male,100
+230,MEWTWO,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+231,ZTAKA2,Vagrant Scion,16,Battle- Meteor Admin.ogg,Victory2,,Male,100
+232,GENESECT,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+233,HOOH,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+234,LUGIA,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+235,UMBTITANIA,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+236,UMBAMARIA,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+237,DEOXYS,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+238,ZINA,Lost Starscaper,9,If That Is What You Wish.ogg,If That Is What You Wish,,Female,100
+239,SHAYMIN1,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+240,SHAYMIN2,Gracidea,0,Battle- Postgame.ogg,,,Mixed,100
+241,UMBRADOMUS,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+242,ANOMGARDEVOIR,Anomaly,0,Battle- Umbral.ogg,,,Female,100
+243,MAGEARNA,Anomaly,0,Battle- Legendary.ogg,,,Mixed,100
+244,NAGANADEL,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+245,RESHIRAM,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+246,ZEKROM,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+247,KYUREM1,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+248,KYUREM2,Multi-iterative,0,Battle- Postgame.ogg,,,Mixed,100
+249,UMBACE,Umbral Agent,14,Battle- Umbral.ogg,Victory2,,Mixed,100
+250,GIRATINA,Anomalized,0,Battle- Postgame.ogg,,,Mixed,100
+251,ZYGARDE,Anomalized,0,Battle- Postgame.ogg,,,Mixed,100
+252,RAYQUAZA,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+253,HYPNO,PULSE,0,Battle- Meteor Admin.ogg,,,Mixed,100
+254,TANGROWTH,PULSE,0,Battle- Meteor Admin.ogg,,,Mixed,100
+255,CAMERUPT,PULSE,0,Battle- Meteor Admin.ogg,,,Mixed,100
+256,SHIV,Dreamer,0,Battle- Misc.ogg,Victory2,,Male,100
+257,UMBCOREY,Umbral,14,Battle- Rival.ogg,Victory2,,Male,100
+258,DARKRAI,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+259,HYPNO2,PULSE,0,Battle- Meteor Admin.ogg,,,Mixed,100
+260,MIME2,Master,0,FindmEEE.ogg,Victory2,,Mixed,100
+261,KYOGRE,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+262,GROUDON,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+263,YVELTAL,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+264,XERNEAS,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+265,NOEL2,Prodigy,19,Battle- Gym.ogg,Victory2,,Male,100
+266,UMBECLIPSE,Umbral,14,Battle- Umbral.ogg,Victory2,,Female,100
+267,UMBNOEL,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+268,NECROZMA,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+269,MEW,Anomaly,0,Battle- Postgame.ogg,,,Mixed,100
+270,ALTVERO,Alter,20,Battle- Upbeat.ogg,Victory2,,Male,100
+271,ALTALICE,Alter,20,Battle- Upbeat.ogg,Victory2,,Female,100
+272,ALTKURO,Alter,20,Battle- Upbeat.ogg,Victory2,,Male,100
+273,ALTLUCIA,Alter,20,Battle- Upbeat.ogg,Victory2,,Female,100
+274,ALTARI,Alter,20,Battle- Upbeat.ogg,Victory2,,Mixed,100
+275,ALTDECIBEL,Alter,20,Battle- Upbeat.ogg,Victory2,,Mixed,100
+276,UMBFERN,Umbral,14,Battle- Umbral.ogg,Victory2,,Male,100
+277,ANAMSHADE,Anamnestic,0,Battle- Gym.ogg,Atmosphere- Broken Doll,,Male,100
+278,ANAMTERRA,Anamnestic,0,Battle- Gym.ogg,Atmosphere- Broken Doll,,Female,100
+279,ANNA2,Dreamsick,39,Battle- Champion.ogg,Victory2,,Female,100
+280,ARCEUS,Anomaly,0,Battle- Elite.ogg,,,Mixed,100
+281,DEFNOT,Definitely Not,0,,,,Mixed,100
+282,OLDCAL,Volcanic,17,Battle- Upbeat,Victory2,,Male,100
+283,ARCLIGHT2,DJ,13,Battle- Misc.ogg,Victory2,,Male,100
+284,ACEALLSUITS,Meteor Agent,34,Battle- Meteor Admin.ogg,Victory2,,Mixed,100
+285,IKARU,Starchaser,15,Battle- Upbeat.ogg,Victory2,,Male,100
+286,CRIM,Daydreamer,15,Battle- Upbeat.ogg,Victory2,,Female,100
+287,AUTUMN,Buttercups and Butterflies,15,Battle- Upbeat.ogg,Victory2,,Female,100
+288,VULPES,Emerging Violet,15,Battle- Upbeat.ogg,Victory2,,Female,100
+289,KUROTSUNE,Illusory Spirit,15,Battle- Trainer3.ogg,Victory2,,Mixed,100
+290,JAN,Intern,15,Battle- Upbeat.ogg,Victory2,,Male,100
+291,PERRY,Held at Gunpoint,15,Battle- Upbeat.ogg,Victory2,,Male,100
+292,AZZIE,Storyteller,15,Battle- Upbeat.ogg,Victory2,,Male,100
+293,ANNA3,Starcrosser,39,Battle- Elite.ogg,Victory2,,Female,100
+294,KYRA,Brat Child,0,Battle- Postgame.ogg,,,Mixed,100

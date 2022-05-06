@@ -1,0 +1,3 @@
+[DefaultTrainerList]
+Trainers=bttrainers.txt
+Pokemon=btpokemon.txt
