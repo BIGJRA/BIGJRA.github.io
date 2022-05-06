@@ -241,7 +241,7 @@ title: |
         - <a href="#starter-choices" id="toc-starter-choices">Starter Choices</a>
         - <a href="#mystery-egg-choices" id="toc-mystery-egg-choices">Mystery Egg Choices</a>
         - <a href="#completely-unobtainable" id="toc-completely-unobtainable">Completely Unobtainable</a>
-        - <a href="#legendaries" id="toc-legendaries">Completely Unobtainable</a>
+        - <a href="#legendaries" id="toc-legendaries">Legendaries</a>
     -   <a href="#pickup-table" id="toc-pickup-table">Pickup Table</a>
     -   <a href="#crest-descriptions" id="toc-crest-descriptions">Crest Descriptions</a>
 
