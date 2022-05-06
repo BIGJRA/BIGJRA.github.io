@@ -1931,8 +1931,7 @@ for free between Sheridan and Gearen, so take advantage of this instead
 of paying the train fee whenever possible.
 
 Head east. Above the boxes is a hidden *Ability Capsule.* Enter the inn.
-Note that the Inn will heal your team for a fee right now, but after a
-few story events it will become free. Talk to a girl in the lobby to get
+Talk to a girl in the lobby to get
 a *Sweet Heart.* Talk to a girl in the first room on the left in the
 vertical hallway and take on her quest. The woman on the right in the
 hall will offer to teach you a few more moves for shards:
