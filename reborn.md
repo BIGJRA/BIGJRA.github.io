@@ -14,7 +14,7 @@ Heavy Work In Progress :)
 
 # Section 1
 
-Welcome to my walkthrough.
+Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
 
 ## All Aboard!
 
@@ -73,12 +73,77 @@ If this is your first time playing, don't worry too much about passwords - in fa
 
 If you want some of my opinions on these passwords:
 
-- If you want to do a challenge run, try one of the *mono\[type\]* passwords. It doesn't enforce any explicit rules for battle, it simply guarantees you suitable Pokemon for random events.
+- If you want to do a challenge run, try one of the *mono\[type\]* passwords. It doesn't enforce any explicit rules for battle, it simply guarantees you suitable Pokemon for random events. I love to do monotype runs (for example, [here's one I have already completed!](https://www.reddit.com/r/PokemonReborn/comments/uh5wnk/i_cleared_the_entirety_of_e19_with_only_water/) ) so I really recommend trying one of these especially for a second playthrough.
 - I don't prefer these personally, but you can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
-- *hardcap* lets you avoid disobeying via overlevelling, and *easyhms* allows you to use HM's without teaching them to your Pokemon. I think it is worthwhile to play the game without these two to get the "classic" reborn experience at least once, but if you know you'd prefer the quality of life that comes with these passwords feel free to use them.
+- *hardcap* lets you avoid disobeying via overlevelling, and *easyhms* allows you to use HM's without teaching them to your Pokemon.  I think it is worthwhile to play the game without these two to get the "classic" reborn experience at least once, but if you know you'd prefer the quality of life that comes with these passwords feel free to use them.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.
-- 
+- *fullevs* ramps up the difficulty significantly by making every Pokemon both hit hard and have some bulk. I only recommend this for players with experience.
+- *allfieldapp* lets you see data about fields from the start. If you're following this guide I'll be picking up all the notes naturally anyways, so unless you really want to know right away how each field works you'll be ok skipping this one.
+- *litemode* is a good choice if you are struggling or want to experience the wonderful characters, world, and puzzles without as much emphasis on battling prowess.
+
+Regardless, *this guide will be from the perspective of a player who is using no passwords.* 
+
+After you're done inputting passwords, enjoy the rest of your train ride!
+
+## Grand Hall
+
+As soon as you're off the train, you'll have a conversation with Ame and Julia. I won't be explaining story events much at all in this walkthrough. This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less. What do they do? [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) explains it pretty well, so you can read that to decide if you want to care about them or not.
+
+Relationship Point Choices:
+- Yes (+1 Julia)
+- No (Neutral)
+
+Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem*. There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so. I will try my best to explain the positions of all the hidden items that I can until then.
+
+Heading to the right, you'll see a black and green streetsign. Two tiles to the right is a pile of trash containing a hidden *Poke Ball*. To the right you'll find a manhole cover - on the left side is a hidden *Red Shard*. Shards will actually be pretty useful in Reborn for obtaining Ability Capsules and Pokemon as well as learning moves via move tutors.
+
+Proceed to the right into Opal Ward. A girl at the bottom of the area will give you a *Potion*. In general, talk to as many people in Reborn as you can - they offer helpful tips for battles, give you useful items, etc.
+
+If the weather is sunny you will see an Ice Cream Cart here.
+
+Opal Ward Ice Cream Shop
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|Vanilla Ice Cream      |$400       |
+|Chocolate Ice Cream    |$600       |
+|Strawberry Ice Cream   |$800       |
+|Blue Moon Ice Cream    |$20000     |
+
+Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will be selling the rare Blue Moon Ice Cream. If you talk to them and they are not, then they will not carry Blue Moon Ice Cream until the next sunny day. However, if you save before speaking to them, you can reset the game until they are carrying Blue Moon Ice Cream. It is too expensive for us right now by far, but should you ever want to buy it keep this trick in mind.
+
+Talk to the girl in front of the big building here, and you'll head in. Welcome to the Grand Hall.
+
+Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually get to choose between 21 starters, or you can let fate decide by using the computer at the top of the room. One amazing thing about Reborn is that you can obtain every single Pokemon in the first seven generations within a single savefile of Reborn without trading, and that includes the starters. So, regardless of which you pick, you'll be able to get the other 20 eventually. Your choices are:
+- **Bulbasaur**
+- **Charmander**
+- **Squirtle**
+- **Chikorita**
+- **Cyndaquil**
+- **Totodile**
+- **Treecko**
+- **Torchic**
+- **Mudkip**
+- **Turtwig**
+- **Chimchar**
+- **Piplup**
+- **Snivy**
+- **Tepig**
+- **Oshawott**
+- **Chespin**
+- **Fennekin**
+- **Froakie**
+- **Rowlet**
+- **Litten**
+- **Popplio**
+
+One amazing feature that Pokemon Reborn has is that it doesn't arbitrarily lock each Pokemon's 'hidden' ability behind weird methods. Every Pokemon has an equal chance of having its Hidden Ability as its normal abilities regardless of how you obtain them. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy and more right now. It is ultimately up to you what you choose of course. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
+
+If you save in front of the starters (quicksave is, by default, 'D'), you can reset (resetting is, by default, F12. You will become very familiar with this button.) until you get one with satisfactory nature, ability, IV's, and even shininess. The shiny rate in this game is roughly 1 in 91 in this game, so you might just end up with a shiny starter on your first try!
+
+Talk to Ame as soon as you're done, and you'll be taken downstairs and fight your first battle!
+
 
 
 
@@ -179,4 +244,4 @@ The bulk passwords essentially are packs of the above listed passwords - using o
 | hardmode | noitems, nopenny, broke_trainer, fullevs, emptyivs |
 |qol | hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc |
 |speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall |
-|speedrunnotx | hardcap, monopsychicm easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall |
+|speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall |
