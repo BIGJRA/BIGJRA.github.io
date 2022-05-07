@@ -90,6 +90,7 @@ If you want some of my opinions on these passwords:
 I don't recommend reading this list until you've played through the game once - the passwords in the readme are usually sufficient for first-time playthroughs, and this list is pretty comprehensive and spoils some gameplay elements. Regardless, I have listed every password and its effect below:
 
 ### Monorun Passwords
+
 | Password           | Effect       |                 
 |--------------------|-------------------------------
 | mononormal / normal        | Guarantees Mystery Egg will be Starly. Guarantees Opal event will be Zigzagoon. Guarantees Upper Peridot event will be Stufful. Guarantees Malchous Egg will be Deerling or Girafarig. Guarantees Rhodochrine trade will be Furfrou. Guarantees Lower Peridot event will be Minccino. |
@@ -113,6 +114,7 @@ I don't recommend reading this list until you've played through the game once - 
 | monowoke / wokemono           | Allows you to start with Porygon. Guarantees Lower Peridot event will be Espurr. Guarantees Malchous egg will be Nincada. Guarantees Slum Egg will be Drowzee. Guarantees Rhodochrine trade will be Cryogonal or Carbink.|
 
 ### Quality of Life Passwords
+
 | Password | Effect |
 |---|---|
 | easyhms / nohms / hmitems / notmxneeded | Allows you to use field moves from interactions and the party without Pokemon knowing the moves. |
@@ -151,6 +153,7 @@ I don't recommend reading this list until you've played through the game once - 
 | noevcap / gen2mode | Allows player Pokemon to reach 252 EV's in every stat. Disables online. |
 
 ## Shenanigan Passwords
+
 | Password | Effect |
 |---|---|
 | budewit / budew / worstgamemode / deargodwhy | Budew. |
@@ -165,6 +168,7 @@ I don't recommend reading this list until you've played through the game once - 
 | inversemode | All battles have an inverted type chart. |
 
 ## Bulk Passwords
+
 The bulk passwords essentially are packs of the above listed passwords - using one will activate all of the contained passwords. Keep in mind that if a pack contains a password that disables online then the bulk password will too.
 
 |Bulk Password| Included Passwords |
