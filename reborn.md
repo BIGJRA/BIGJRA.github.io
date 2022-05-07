@@ -9,8 +9,14 @@ Heavy Work In Progress :)
 
 - [Section 1](#section-1)
   - [All Aboard!](#all-aboard)
+  - [Grand Hall](#grand-hall)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
+    - [Monorun Passwords](#monorun-passwords)
+    - [Quality of Life Passwords](#quality-of-life-passwords)
+    - [Difficulty Passwords](#difficulty-passwords)
+  - [Shenanigan Passwords](#shenanigan-passwords)
+  - [Bulk Passwords](#bulk-passwords)
 
 # Section 1
 
@@ -217,7 +223,7 @@ I don't recommend reading this list until you've played through the game once - 
 | flatevs / 85evs | All enemy Pokemon will have 85 EV's in every stat. |
 | noevcap / gen2mode | Allows player Pokemon to reach 252 EV's in every stat. Disables online. |
 
-## Shenanigan Passwords
+### Shenanigan Passwords
 
 | Password | Effect |
 |---|---|
@@ -232,7 +238,7 @@ I don't recommend reading this list until you've played through the game once - 
 | unrealtime | Time now progresses at an unreal rate, is no longer tied to system time. |
 | inversemode | All battles have an inverted type chart. |
 
-## Bulk Passwords
+### Bulk Passwords
 
 The bulk passwords essentially are packs of the above listed passwords - using one will activate all of the contained passwords. Keep in mind that if a pack contains a password that disables online then the bulk password will too.
 
