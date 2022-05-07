@@ -15,8 +15,8 @@ Heavy Work In Progress :)
     - [Monorun Passwords](#monorun-passwords)
     - [Quality of Life Passwords](#quality-of-life-passwords)
     - [Difficulty Passwords](#difficulty-passwords)
-  - [Shenanigan Passwords](#shenanigan-passwords)
-  - [Bulk Passwords](#bulk-passwords)
+    - [Shenanigan Passwords](#shenanigan-passwords)
+    - [Bulk Passwords](#bulk-passwords)
 
 # Section 1
 
@@ -113,8 +113,8 @@ Opal Ward Ice Cream Shop
 |Item                   |Price      |
 |-----------------------|-----------|
 |*Vanilla Ice Cream*    |$400       |
-|*Chocolate Ice Cream*  |$600       |
-|*Strawberry Ice Cream* |$800       |
+|*Choc Ice Cream*       |$600       |
+|*Berry Ice Cream*      |$800       |
 |*Blue Moon Ice Cream*\*|$20000     |
 
 Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will be selling the rare Blue Moon Ice Cream. If you talk to them and they are not, then they will not carry Blue Moon Ice Cream until the next sunny day. However, if you save before speaking to them, you can reset the game until they are carrying Blue Moon Ice Cream. It is too expensive for us right now by far, but should you ever want to buy it keep this trick in mind.
@@ -150,9 +150,181 @@ If you save in front of the starters (quicksave is, by default, 'D'), you can re
 
 Talk to Ame as soon as you're done, and you'll be taken downstairs and fight your first battle!
 
+Pretty Boy Cain. Field: No Field
+- Nidoran M. (Nidoran-M), Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
+    - Tackle
+    - Leer
+  
+Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required, but if you win, you'll get Relationship Points (+1 Cain).
 
+Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
 
+Apprentice Victoria. Field: 
+- Litten, Lv. 5, Ability: Blaze, Bashful Nature, IVs: 10
+    - Scratch
+    - Growl
 
+You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required, but if you win, you'll get Relationship Points (+1 Victoria).
+
+After the battle, Ame will give you the *Pokedex*, the *Pokegear,* and of course the *Running Shoes*! Plus, Victoria will give you 5 *Pokeballs*.
+
+Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often. 
+
+Talk to the guy in the top left - he will tell us about the password *litemode*. We already knew about this one from the readme, but you can enter it in the future if you'd like.
+
+A guy behind the desk will allow us to bring in grinding trainers to the grand hall. Right now they're a bit too tough for us, but we can come back a bit before the gym leader to grind later.
+
+Talk to a guy next to some display cases if you'd like to buy some candy.
+
+Grand Hall Common Candy Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|*Common Candy* | $75       |
+
+As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. We shouldn't need any right now though. To his right is another shop:
+
+Grand Hall Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|*Potion*       |$300       |
+|*Antidote*     |$100       |
+|*Pokeball*     |$200       |
+
+In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of Pokeballs. As in the mainline games, you get a *Premier Ball* with every 10 Pokeballs you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now.
+
+On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokemon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokemon for... 14 more badges.
+
+That's all we can really do in the Grand Hall for now, so head outside.
+
+## Opal Ward
+
+Note that for now I will not be listing the teams of all of the rando trainers scattered around the region - that would be a lot of content that might not be so useful. If you would like to see the regular trainers, let me know.
+
+Anyways, there is grass here, which means we can obtain new team members! I will be **bolding** any Pokemon that are new.
+
+Opal Ward
+
+|Land (Morning/Day)|%  |Land (Night)      |%  |
+|------------------|---|------------------|---|
+|**Rattata**       |30 |**Rattata**       |30 |
+|**Bidoof**        |30 |**Meowth**        |20 |
+|**Patrat**        |15 |**Ekans**         |20 |
+|**Pidgey**        |15 |**Hoothoot**      |17 |
+|**Meowth**        |5  |**Spinarak**      |13 |
+|**Ekans**         |5  |                  |   |
+
+Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind.
+
+On the left side of the area, in the left broken statue you'll find a hidden *Green Shard*.
+
+Talk to the trainer here with the Snubbull or Stufful, and they will leave. Back at the bottom of the area, you'll now be able to fight trainers to get onto Opal Bridge. I will be going from the left side, clockwise around the bridge. 
+
+Head up and to the left, beating the trainers as you go. A rock in the top left corner contains a hidden *Awakening*. To the right, you'll fight a Gentleman. All the way down from him and one tile to the left contains a hidden *Blue Shard*.
+
+To the right, you'll find three bullies. You'll need two Pokemon to be able to fight the last two, so catch a second if you haven't yet. When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other one(s) later in the game. The *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon. If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt which it learns at level 11.
+
+The first rock you see down from here contains a hidden *Antidote*. After defeating the trainers that's pretty much all we can do here, so head back towards the train station.
+
+# Lower Peridot Ward
+
+In the Lower Peridot Ward, things have opened up! Head up as soon as you can. A rock on the left side will contain a hidden *Escape Rope*. Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here. 
+
+You'll find a gym here. We can't go in yet, but if you go up and around to the right, you'll find a *Gift Box*. 
+
+Also, specifically when the weather is thunderstorming, you'll find **Blitzle** here. Since it's Lv. 15 it might be a bit too tough to deal with right now, so you can come back later. Note that this is the first encounter that is only possible with the right weather - if you'd like to avoid having to wait you can use the *weathermod* password at your next opportunity.
+
+To the left, you'll find a couple of black and green street signs. All the way down and one tile to the right of the top-left sign, you'll find a hidden *Paralyze Heal*. 
+
+To the left, you'll find another Pokemon Center. The rock just outside to the left contains a hidden *Elemental Seed*. Hang on to this for now - it will be useful later on. In a house to the left, you can take a quiz to find out what kind of Pokemon you'd be, just for fun. Enneagram? Myers-Briggs? Nah. *This* is the real personality quiz.
+
+Anyways, down and to the right from here you'll find some more trainers and also a Teddiursa! It will run off and we'll have to chase it. I will cover all the locations later on, but keep in mind finding it three times will allow you to battle and catch it.
+
+Immediately above Teddiursa you'll find a pile of trash paper on the left side, between two girders. One tile up and one tile right from that contains a hidden *Purple Shard*.
+
+There's nothing else here for now, so head down and left from this area and enter the first house that you can. Inside, you'll find a *Pokesnax*! This item is crucial for getting certain Pokemon. Back outside, go one tile left and all the way down. In the final tile you can stand on is a hidden *Exp. Candy XS*. 
+
+Head back up and to the right, and you'll find another trainer. The building directly above him has a pile of trash paper to its right, which contains a hidden *Blue Shard*. Up from here, in a box you can find a hidden *Common Candy*. Since we are holding the snax, talk to the dumpster next to it to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**. 
+
+Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you! 
+
+Head to the left of the Pokemon center, and go down. In a house, a guy will give you the *Old Rod*! 
+
+Back outside, we can actually fish in the dirty water.
+
+Lower Peridot Ward
+
+|Old Rod           |%  |
+|------------------|---|
+|**Grimer**        |100|
+
+You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy. If you win, he'll let you into his pool, where you can find a *Sea Incense*.
+
+Lower Peridot Ward Pool
+
+|Old Rod           |%  |
+|------------------|---|
+|**Goldeen**       |70 |
+|**Finneon**       |30 |
+
+Head out, and back up past the Old Rod house. You'll find the Name Rater's house here. Up from here, the first barrel you see will hide a *Heart Scale*. Straight to the left and down between the two brown buildings you'll find a hidden *Purple Shard*. 
+
+Enter the building here and talk to the old man for a battle. If you win, you'll be able to enter his garden. 
+
+Seacrest's Garden
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Ledyba**        |30 |**Caterpie**      |30 |Hoothoot          |30 |
+|**Cherubi**       |24 |**Wurmple**       |30 |Spinarak          |24 |
+|**Wurmple**       |20 |**Sunkern**       |30 |**Wurmple**       |20 |
+|**Caterpie**      |20 |**Cherubi**       |10 |**Caterpie**      |20 |
+|**Sunkern**       |6  |                  |   |**Sunkern**       |6  |
+
+Back outside, head to the right. Enter the first building here. You'll find out about an injured Skitty - when we get an Oran Berry we will be back. Head outside and go right.
+
+You'll fight a trainer in a small park. Once you beat her, talk to her again for a *Rose Incense*. Down and to the left from here you'll find a *Paralyze Heal* hidden in a box.
+
+Back up from here, enter the building. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here. 
+
+Relationship Point Choices:
+- Accept Kricketot (+1 Shelly)
+- Reject Kricketot (-1 Shelly)
+
+Kricketune with its Fury Cutter attack and Technician ability can be incredible in the early game, so consider using it.
+
+Back outside, talk to the yellow haired guy for a battle. When you beat him you can access the Lower Peridot Alley.
+
+Lower Peridot Alley
+
+|Cave              |%  |
+|------------------|---|
+|**Trubbish**      |60 |
+|**Stunky**        |22 |
+|**Poochyena**     |18 |
+
+Poochyena evolves early and can have the Moxie ability, so it can be fantastic in the early game.
+
+To the right of the blue bin is a hidden *Dark Gem*. After defeating the trainer on the left you'll get a *Super Potion*. During thunderstorms specifically, you'll be able to get **Tynamo**!
+
+Head outside and go to the right under the bridge. When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly determined. The second from the right box on the bottom row contains a *Purple Shard*. Head to the right.
+
+Underground Railnet
+
+|Cave              |%  |
+|------------------|---|
+|**Noibat**        |74 |
+|**Woobat**        |20 |
+|Stunky            |6  |
+
+Woobat can be pretty solid if you evolve it early thanks to its Simple ability.
+
+Plus, a rock at the top left contains a hidden *Guard Spec.* Once you're done here, head back to the left and go up past Seacrest's Garden to enter the northern part of Peridot Ward.
+
+## Peridot Ward
+
+Content
 
 # Appendices
 
@@ -199,8 +371,9 @@ I don't recommend reading this list until you've played through the game once - 
 | freemegaz | Allows the player to use the Mega-Z Ring from the beginning of the game. |
 | freeremotepc | Allows the player to use the Remote PC from the beginning of the game, and not need to use Cell Batteries. |
 | freeexpall | Allows the player to obtain the Exp. All at the beginning of the game. |
+| powerpack | Allows the player to receive the Power Items for EV Growth at the beginning of the game. |
 | shinycharm / earlyshiny | Allows the player to obtain the Shiny Charm from the beginning of the game. |
-| mintyfresh / agiftfromace | Allows the player to get a pack of Nature Mints at the beginning of the game. |
+| mintyfresh / agiftfromace | Allows the player to get a pack of 5 of each Nature Mint at the beginning of the game. |
 
 ### Difficulty Passwords
  
@@ -248,6 +421,7 @@ The bulk passwords essentially are packs of the above listed passwords - using o
 | casspack / goodtaste | noitems, fullivs, hardcap, easyhms, norolls |
 | easymode | fullivs, moneybags, litemode, stopitems |
 | hardmode | noitems, nopenny, broke_trainer, fullevs, emptyivs |
+| freebies | freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz | 
 |qol | hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc |
 |speedrun | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall |
 |speedrunnotx | hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall |
