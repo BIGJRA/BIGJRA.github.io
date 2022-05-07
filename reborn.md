@@ -24,7 +24,7 @@ Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hop
 
 ## All Aboard!
 
-The game will first ask you to choose a player character and gender. It will then ask you if you want to view controls.You can actually rebind controls with F1 and even add controller support! Once you've gotten acquainted with your chosen controls, you'll find yourself on the train.
+The game will first ask you to choose a player character and gender. It will then ask you if you want to view controls. You can actually rebind controls with F1 and even add controller support! Once you've gotten acquainted with your chosen controls, you'll find yourself on the train.
 
 Ame will ask you if you have any special instructions or passwords. From the game's readme:
 
@@ -112,10 +112,10 @@ Opal Ward Ice Cream Shop
 
 |Item                   |Price      |
 |-----------------------|-----------|
-|Vanilla Ice Cream      |$400       |
-|Chocolate Ice Cream    |$600       |
-|Strawberry Ice Cream   |$800       |
-|Blue Moon Ice Cream    |$20000     |
+|*Vanilla Ice Cream*    |$400       |
+|*Chocolate Ice Cream*  |$600       |
+|*Strawberry Ice Cream* |$800       |
+|*Blue Moon Ice Cream*\*|$20000     |
 
 Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will be selling the rare Blue Moon Ice Cream. If you talk to them and they are not, then they will not carry Blue Moon Ice Cream until the next sunny day. However, if you save before speaking to them, you can reset the game until they are carrying Blue Moon Ice Cream. It is too expensive for us right now by far, but should you ever want to buy it keep this trick in mind.
 
