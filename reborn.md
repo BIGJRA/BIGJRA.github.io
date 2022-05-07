@@ -90,7 +90,7 @@ If you want some of my opinions on these passwords:
 I don't recommend reading this list until you've played through the game once - the passwords in the readme are usually sufficient for first-time playthroughs, and this list is pretty comprehensive and spoils some gameplay elements. Regardless, I have listed every password and its effect below:
 
 ### Monorun Passwords
-| Password           | Effect                        
+| Password           | Effect       |                 
 |--------------------|-------------------------------
 | mononormal / normal        | Guarantees Mystery Egg will be Starly. Guarantees Opal event will be Zigzagoon. Guarantees Upper Peridot event will be Stufful. Guarantees Malchous Egg will be Deerling or Girafarig. Guarantees Rhodochrine trade will be Furfrou. Guarantees Lower Peridot event will be Minccino. |
 | monofire / fire          | Guarantees Mystery Egg will be Litwick, Vulpix, or Larvesta. Guarantees Railnet event will be Pansear, regardless of weather. |
