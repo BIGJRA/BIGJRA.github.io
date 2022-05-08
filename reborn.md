@@ -828,7 +828,7 @@ Coral Ward
 |------------------|---|
 |Grimer            |100|
 
-Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are:
+Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are. Whenever you see the following spoiler bar, highlight the text to view the spoiler.
 
 > 4, 7, 31
 
