@@ -552,9 +552,9 @@ Cheer Captain Julia (2x Potion). Field: Electric Terrain.
     - Rollout
     - Charge
 
-Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Charge Beam and wearing out your Lv. 20 and under Pokemon quickly with Sonic Boom. Her Electrode of course is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. It doesn't help that Oricorio can hit hard and boost the speed of the entire team for a few turns.
+Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your Lv. 20 and under Pokemon quickly with Sonic Boom. Her Electrode of course is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. It doesn't help that Oricorio can hit hard and boost the speed of the entire team for a few turns.
 
-Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. The single Elemental Seed we got earlier may be a good thing to try because of the Speed boost it grants to your Pokemon. Alternatively, if you got Zigzagoon you can use Mud Sport to destroy the field, making things a bit more even for you.
+Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. The single Elemental Seed we got earlier can grant a Speed boost to the Pokemon holding it, which can be a key component of your strategy. Alternatively, if you got Zigzagoon you can use Mud Sport to destroy the field, making things a bit more even for you.
 
 Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
 
@@ -690,7 +690,9 @@ Sweet Kiss Bottom Clerk Shop
 
 I don't think you need to spend your precious money on Exp. Candy since grinding trainers give them every time you beat them.
 
-Back outside, follow Victoria to the right and talk to Florinia. Two tiles south of the nearby statue you'll find a *Pokesnax*, and another *Pokesnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
+Back outside, follow Victoria to the right. If you'd like to get to battle Victoria and potentially get a point with her in a bit, talk to Florinia. 
+
+Two tiles south of the nearby statue you'll find a *Pokesnax*, and another *Pokesnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
 
 Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. As I did with Teddiursa, I will come back to it once we can access all the locations. For now, exit the building. Two tiles to the right, you'll find a hidden *Dire Hit*. 
 
@@ -704,7 +706,7 @@ Grab a *Potion* in the trash can to the left and head up. A box in the upper rig
 
 To the left you'll find a Light Shard, which heals your party but disappears after. You can always leave it here for a little while until you need it more, if you'd like.
 
-Head up and talk to Victoria for a battle.
+If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier.
 
 Apprentice Victoria (2x Potion). Field: No Field 
 - Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
@@ -731,7 +733,7 @@ Her Torracat likes to try to set up on you, so be careful of that. Otherwise her
 
 Relationship Point Choices:
 - Defeat Victoria in the Slums (+1 Victoria)
-- Lose to Victoria in the Slums (Neutral)
+- Skip talking to Victoria near the park, or use the fridge to skip her fight (Neutral)
 
 After that's done, head down the escalator to the right. There are encounters in this area.
 
@@ -1035,7 +1037,7 @@ Head up on the right side. Across from the third lamppost on the sidewalk you ca
 
 Anyways, we can't yet enter the Move Relearner house, so enter the apartment to the right. Talk to the girl on the left twice - for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 
-Loto Attendant
+Onyx Arcade Loto Attendant
 
 |Prize          |Digits Matched|
 |---------------|--------------|
@@ -1050,6 +1052,204 @@ We don't have a Coin Case yet, so there's not much to do yet. We can play the lo
 Enter the trainer school at the top left entrance. Fern will lock us out, so head outside and defeat the trainer to enter the school at the top right entrance.
 
 This area is mostly linear with a few detours. Talk to every green bookshelf and stray green book that you find lying around - they'll give us lore as well as the answers to some questions we'll need to answer later on.
+
+In the first door upstairs, a guy will give you the *Coin Case*! The next room contains *Protective Pads*. The room after that contains a *Quick Claw*. Talk to a guy staring at the wall in the hallway from the right to open up a door to the left.
+
+In this door, go to the left. Here you'll find the first move tutors.
+
+Onyx Trainer School Move Tutor 1
+
+|Move           |Price      |
+|---------------|-----------|
+|Iron Defense   |$1000      |
+|Snore          |$500       |
+|Bind           |$500       |
+|Spite          |$250       |
+
+It's worth noting that every move tutor in the game will only charge you once per move - so don't feel bad about deleting a tutor move once you've learned it once since you can go get it back for free.
+
+Onyx Trainer School Move Tutor 2
+
+|Move           |Price      |
+|---------------|-----------|
+|Magic Coat     |$500       |
+|Magic Room     |$500       |
+|Wonder Room    |$500       |
+|Telekinesis    |$100       |
+
+In the room above there are more tutors!
+
+Onyx Trainer School Move Tutor 3
+
+|Move           |Price      |
+|---------------|-----------|
+|Gravity        |$500       |
+|Magnet Rise    |$500       |
+|Block          |$500       |
+|Worry Seed     |$1000      |
+
+Onyx Trainer School Move Tutor 4
+
+|Move           |Price      |
+|---------------|-----------|
+|Snatch         |$500       |
+|Helping Hand   |$500       |
+|Ally Switch    |$250       |
+|After You      |$250       |
+
+Head upstairs to grab the *Desert Field Readout*!
+
+Head downstairs from here, head out to the main hall and go downstairs again.
+
+Relationship Point Choices:
+- Yes (+1 Hardy)
+- No (Neutral)
+
+Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut.
+
+Head to the left. Defeat these trainers then head into the room on the left. Time for another rival battle.
+
+Swag Jockey Fern (2x Super Potion). Field: 
+- Sandile, Lv. 23, Ability: Moxie, Bashful Nature, IVs: 20
+    - Mud-Slap
+    - Bite
+    - Sand Attack
+    - Rage
+- Roselia, Lv. 24, Ability: Poison Point, Timid Nature, IVs: 31
+    - Leech Seed
+    - Stun Spore
+    - Mega Drain
+    - Poison Sting
+- Dartrix, Lv. 25, Ability: Overgrow, Bashful Nature, IVs: 28
+    - Pluck
+    - Razor Leaf
+    - Ominous Wind
+    - Nature Power
+
+Fern can be tough to defeat now that his Budew and Rowlet have evolved. Roselia likes to try to tank your attacks and heal back thanks to Leech Seed and Mega Drain, while Dartrix tries to hit hard with its STABs or go for an omniboost. Sandile can sweep with Moxie if you're not careful, so lead with something that can handle it and you should be fine.
+
+Before we continue to the gym, now is a good time to wrap up a couple of quests and areas. 
+
+First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1065 Coins for free.
+
+Onyx Arcade Coin Shop
+
+|Item       |Price          |
+|-----------|---------------|
+|50 Coins   |$1000          |
+|500 Coins  |$10000         |
+
+Unless you're coming back here really late in the game, don't buy coins. They're way too expensive and by playing Voltorb Flip, you can get them for free. You can also play the slots or the roulette... but these are really slow and Voltorb Flip is 100% the way to go here. The magic number to get all the rewards is 23900 Coins.
+
+Speaking of Voltorb Flip, here are the tips I recommend as a long time Voltorb Flip Player:
+
+1. You can use a calculator to get started with learning what optimal moves are, but in general your coins over time is best served by just playing the game quickly yourself. Even when you lose, it's not too hard to pick back up and try again, even if you get shot all the way down to Level 1. 
+2. The game often forces you to make guesses, sometimes 50-50 guesses even. Try to make the guesses that have the least chance of failure first when you find yourself in a no-guarantees situation.
+3. Any row (or column, I will call them rows for simplicity) that adds up to 5 can be entirely ignored since there are no 2's and 3's. The only times you should intentionally flip 1's are when you are 100% sure they are not Voltorbs and simply want to make the board have less unflipped tiles.
+4. Any rows without Voltorb should be flipped immediately. When there are no such rows... just make your best guess as to where 2's and 3's are in the rows with the least Voltorb probabilities and go from there.
+5. It is crucial that you learn what the remaining point values in a row is. For example, in a row with 8/2V, suppose you have flipped one tile and it is a 3. Then in 4 remaining spots, two are Voltorb, so the other two sum to 5. This means one is a 2 and one is a 3, meaning you can try to pick which columns can fit the 2 at that spot and which could fit the 3. Alternatively, in a 5/1V, the minute you see a 2 flipped, you are done, since the rest can then only be 1 or Voltorb.
+6. Have fun! It is a bit frustrating when you get to Level 7 and then immediately flip a Voltorb, going all the way back. But the most important thing is fun - remember you can come back later to play and get the rewards.
+
+Onyx Arcade TM Shop
+
+|Item               |Price      |
+|-------------------|-----------|
+|*TMXX Attract*     |1000 Coins |
+|*TMXX Facade*      |4000 Coins |
+|*TMXX Substitute*  |7000 Coins |
+
+Of these, Substitute is probably the best one, but you can certainly get some mileage out of the other two with the right Pokemon.
+
+Onyx Arcade Pokemon Shop
+
+|Pokemon        |Price      |
+|---------------|-----------|
+|**Snover**     |600 Coins  |
+|**Slugma**     |1000 Coins |
+|**Mantyke**    |1800 Coins |
+|**Nidoran M**  |3500 Coins |
+|**Shinx**      |5000 Coins |
+
+Even if you're not interested in getting everything here, most of these Pokemon are good for the upcoming gym. If the egg we previously got was Remoraid, you can get Mantyke and immediately evolve it which is neat. Nidoran M also can immediately evolve twice with the Moon Stone we got earlier. Snover can generate Snow Warning if you'd like to use that to your advantage.
+
+Back outside, head into the building to the left. Fern's friend will feel bad and let us access the rooftop garden. Up here you'll find *TM63 Embargo*.
+
+Onyx Ward Rooftop
+
+|Land              |%  |
+|------------------|---|
+|Bellsprout        |35 |
+|**Tranquill**     |25 |
+|Pidove            |20 |
+|Spearow           |10 |
+|Venonat           |10 |
+
+When the weather is clear up here, you can also find a **Pichu** behind a tree if you have snax in your bag.
+
+Finally, now is a good time to go finish the search for Lillipup.
+
+After talking to it in the apartment in South Obsidia Ward it will randomly go to one of these five places:
+
+- On the second pier from the top in Coral Ward
+- To the left and up from the Central Salon in Obsidia Ward
+- Between the Panpour / Pansear area and the Railnet in Opal Ward
+- At the very north point of Peridot Ward by the closed gate
+- In the northwest corner of Peridot Ward, nearby the apartment containing Snubbull / Stufful
+
+Once you find it, head back to the Onyx Ward. To the left of the Move Relearner house, you'll see the owner with it. You can then obtain **Lillipup**.
+
+## Canopy Badge
+
+With all that out of the way we can head back to the gym. In order to battle Florinia, we're gonna need to answer all the quiz questions. The answers are here, from right to left:
+
+> 1
+> 367
+> True
+> 410
+> True
+> 37
+> 15
+> True
+
+Head to the left and enter the gym room for a battle.
+
+Head Instructor Florinia (2x Super Potion). Field: Desert Field
+- Maractus, Lv. 22, Ability: Water Absorb, Quirky Nature, IVs: 1
+    - Nature Power
+    - Pin Missile
+    - Needle Arm
+    - Spikes
+- Cottonee, Lv. 24, Ability: Prankster, Impish Nature, IVs: 25
+    - Leech Seed
+    - Poison Powder
+    - Nature Power
+    - Protect
+- Ferroseed, Lv. 22, @Telluric Seed, Ability: Iron Barbs, IVs: 5
+    - Leech Seed
+    - Nature Power
+    - Pin Missile
+    - Sandstorm
+- Breloom, Lv. 23, Ability: Poison Heal, Bashful Nature, IVs: 1
+    - Leech Seed
+    - Spore
+    - Mach Punch
+    - Mega Drain
+- Cacnea, Lv. 23, @Big Root, Ability: Sand Veil, Adamant Nature, IVs: 15
+    - Sand Attack
+    - Pin Missile
+    - Leech Seed
+    - Nature Power
+- Cradily, Lv. 24, Ability: Suction Cups, Careful Nature, IVs: 15
+    - Stockpile
+    - Smack Down
+    - Recover
+    - Sandstorm
+
+This is a pretty neat and out of the ordinary team that helps teach the player about the versatility of field effects. In general, the Desert Field actually doesn't really benefit Grass types or most grass type moves. Regardless, Florinia's team is mostly built around using the field successfully. Specifically, Needle Arm, Pin Missile, and Sand Tomb are all boosted by the field, and most of her Pokemon have access to these moves. Cacnea's Sand Veil is always activated here, and Ferroseed's Telluric Seed allows it to gain a bit more bulk and speed in exchange for being trapped by Sand Tomb. Sandstorm lasts for eight turns on the field, and Ferroseed, Cacnea, and Cradily will all be immune to its damage while you may not. Cradily also gets a Special Defense boost from the sand, adding to its already strong bulk with Stockpile and Recover. On top of all that, Nature Power turns into boosted Sand Tomb, and Cottonee has priority on this move due to Prankster!
+
+All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying-type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
+
+After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE 5C Readout*. 
 
 # Appendices
 
