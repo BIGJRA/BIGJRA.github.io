@@ -210,7 +210,7 @@ Standard Shop (0 Badges)
 |---------------|-----------|
 |*Potion*       |$300       |
 |*Antidote*     |$100       |
-|*Poke Ball*     |$200       |
+|*Poke Ball*    |$200       |
 
 In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. As in the mainline games, you get a *Premier Ball* with every 10 balls you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now.
 
@@ -384,7 +384,7 @@ Peridot Ward Snax Shop
 
 |Item       |Price      |
 |-----------|-----------|
-|Pokesnax   |$650       |
+|*Pokesnax* |$650       |
 
 If you use up your Pokesnax and need more, this is the place. Note that he won't be here unless the weather is clear or sunny. 
 
@@ -578,13 +578,13 @@ Standard Shop (1 Badge)
 
 |Item           |Price      |
 |---------------|-----------|
-|Potion         |$300       |
-|Antidote       |$100       |
-|Paralyze Heal  |$200       |
-|Burn Heal      |$250       |
-|Escape Rope    |$550       |
-|Repel          |$400       |
-|Poke Ball      |$200       |
+|*Potion*       |$300       |
+|*Antidote*     |$100       |
+|*Paralyze Heal*|$200       |
+|*Burn Heal*    |$250       |
+|*Escape Rope*  |$550       |
+|*Repel*        |$400       |
+|*Poke Ball*    |$200       |
 
 Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
 
@@ -644,9 +644,9 @@ Devon Corp Shop
 
 |Item           |Price      |
 |---------------|-----------|
-|Potion         |$300       |
-|Repel          |$400       |
-|Poke Ball      |$200       |
+|*Potion*         |$300       |
+|*Repel*          |$400       |
+|*Poke Ball*      |$200       |
 
 Nothing special here for sale, but if you talk to the mysterious salesman, he'll give you a free *Premier Ball* the first time. 
 
@@ -782,9 +782,9 @@ Head left and emerge onto the roof. There's another Light Shard here - usually t
 
 Slums B1F Vending Machine Shop
 
-|Item       |Price      |
-|-----------|-----------|
-|Fresh Water|$200       |
+|Item           |Price      |
+|---------------|-----------|
+|*Fresh Water*  |$200       |
 
 Sometimes you even get two! Anyways, the jar to the left of the elevator contains a hidden 
 *Normal Gem* and the toolchest at the bottom by the youngster contains a *Exp. Candy S*. 
@@ -977,22 +977,22 @@ Department Store 1F Left Shop
 
 |Item           |Price          |
 |---------------|---------------|
-|Poke Ball      |$200           |
-|Escape Rope    |$550           |
-|Common Candy   |$150           |
-|Repel          |$400           |
-|Pokesnax       |$400           |
+|*Poke Ball*    |$200           |
+|*Escape Rope*  |$550           |
+|*Common Candy* |$150           |
+|*Repel*        |$400           |
+|*Pokesnax*     |$400           |
 
 Department Store 1F Right Shop
 
 |Item           |Price          |
 |---------------|---------------|
-|Potion         |$300           |
-|Antidote       |$100           |
-|Awakening      |$250           |
-|Burn Heal      |$250           |
-|Paralyze Heal  |$200           |
-|Ice Heal       |$250           |
+|*Potion*       |$300           |
+|*Antidote*     |$100           |
+|*Awakening*    |$250           |
+|*Burn Heal*    |$250           |
+|*Paralyze Heal*|$200           |
+|*Ice Heal*     |$250           |
 
 We can also talk to an employee to get the *Membership Card* and the *Department Store Stamp: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
 
@@ -1000,24 +1000,24 @@ Department Store 2F Left Shop
 
 |Item           |Price          |
 |---------------|---------------|
-|Oran Berry     |$200           |
-|Cheri Berry    |$400           |
-|Pecha Berry    |$400           |
-|Rawst Berry    |$400           |
-|Chesto Berry   |$400           |
-|Aspear Berry   |$400           |
-|Persim Berry   |$400           |
+|*Oran Berry*   |$200           |
+|*Cheri Berry*  |$400           |
+|*Pecha Berry*  |$400           |
+|*Rawst Berry*  |$400           |
+|*Chesto Berry* |$400           |
+|*Aspear Berry* |$400           |
+|*Persim Berry* |$400           |
 
 Department Store 2F Right Shop
 
 |Item           |Price          |
 |---------------|---------------|
-|Pomeg Berry    |$500           |
-|Kelpsy Berry   |$500           |
-|Qualot Berry   |$500           |
-|Tamato Berry   |$500           |
-|Hondew Berry   |$500           |
-|Grepa Berry    |$500           |
+|*Pomeg Berry*  |$500           |
+|*Kelpsy Berry* |$500           |
+|*Qualot Berry* |$500           |
+|*Tamato Berry* |$500           |
+|*Hondew Berry* |$500           |
+|*Grepa Berry*  |$500           |
 
 Our Pokemon have been getting random EV's so far - if you in the future want to EV train your Pokemon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
 
