@@ -683,12 +683,130 @@ Back outside, follow Victoria to the right and talk to Florinia. Two tiles south
 
 Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. As I did with Teddiursa, I will come back to it once we can access all the locations. For now, exit the building. Two tiles to the right, you'll find a hidden *Dire Hit*. 
 
-Head down from here. Between the first two girders is a hidden *Blue Shard*, and past the trainer in the first box you can find a hidden *Green Shard*. Enter the Slums.
+Head down from here. Between the first two girders is a hidden *Blue Shard*, and past the trainer in the first box you can find a hidden *Green Shard*. 
+
+While it's windy, you can catch wild **Hoppip** here! Anyways, enter the slums.
 
 ## Obsidia Slums
 
+Grab a *Potion* in the trash can to the left and head up. A box in the upper right corner contains a *Great Ball*. Heading down and to the left, the open toolchest next to the nerd contains a *Pokesnax*; the pot to the left contains a *Red Shard*.
 
+To the left you'll find a Light Shard, which heals your party but disappears after. You can always leave it here for a little while until you need it more, if you'd like.
 
+Head up and talk to Victoria for a battle.
+
+Apprentice Victoria (2x Potion). Field: No Field 
+- Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
+    - Magical Leaf
+    - Confusion
+    - Disarming Voice
+    - Double Team
+- Pichu, Lv. 18, @Eviolite, Ability: Static, IVs: 31
+    - Sweet Kiss
+    - Fake Out
+    - Nasty Plot
+    - Thunder Shock
+- Pancham, Lv. 18, Ability: Scrappy, Adamant Nature, IVs: 10
+    - Arm Thrust
+    - Work Up
+    - Comet Punch
+    - Karate Chop
+- Torracat, Lv. 19, Ability: Intimidate, IVs: 30
+    - Flame Charge
+    - Dual Chop
+    - Power Trip
+    - Bulk Up
+Her Torracat likes to try to set up on you, so be careful of that. Otherwise her team isn't anything too crazy - Ralts and Pichu are pretty weak and you can set up on them.
+
+Relationship Point Choices:
+- Defeat Victoria in the Slums (+1 Victoria)
+- Lose to Victoria in the Slums (Neutral)
+
+After that's done, head down the escalator to the right. There are encounters in this area.
+
+Obsidia Slums B1F
+
+|Cave              |%  |
+|------------------|---|
+|**Pidove**        |30 |
+|Trubbish          |20 |
+|**Mankey**        |20 |
+|**Pancham**       |10 |
+|**Yungoos**       |10 |
+|**Crabrawler**    |10 |
+
+There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak between the escalators here - pick up a hidden *Max Repel* in a rock and a *Carbos* (read: $4900) in the next room. We can't progress further here, so go back upstairs and go through the door
+
+Obsidia Slums 1F Back
+
+|Cave              |%  |
+|------------------|---|
+|Pidove            |30 |
+|Trubbish          |20 |
+|Mankey            |20 |
+|Pancham           |10 |
+|Yungoos           |10 |
+|**Slakoth**       |10 |
+
+A box to the left contains *Pop Rocks*. Defeat the trainer, hop across, defeat another, and pick up the hidden *Rawst Berry* in a rock up here. Head upstairs.
+
+Obsidia Slums 2F
+
+|Cave              |%  |
+|------------------|---|
+|Pidove            |30 |
+|Trubbish          |20 |
+|Mankey            |20 |
+|Pancham           |10 |
+|Yungoos           |10 |
+|Meowth            |10 |
+
+Hop your way to the left, down, pick up a hidden *Potion* in a box here, then go right and pick up the *Moon Stone* here. If you've been dying for Delcatty or Wigglytuff, now's your chance. Anyways, head up the stairs here.
+
+Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back down.
+
+Make your way to the top right corner of 3F and then head down. In the very bottom right there is a hidden *Ice Heal*.
+
+Head left and emerge onto the roof. There's another Light Shard here - usually they mean either "you're halfway through a dungeon" or "there's a super hard fight coming up". Anyways, follow the path and talk to Mankey in the elevator. Take it to 1F to open a shortcut, then take it to B1F.
+
+Slums B1F Vending Machine Shop
+
+|Item       |Price      |
+|-----------|-----------|
+|Fresh Water|$200       |
+
+Sometimes you even get two! Anyways, the jar to the left of the elevator contains a hidden 
+*Normal Gem* and the toolchest at the bottom by the youngster contains a *Exp. Candy S*. 
+
+If you talk to this guy, he'll battle you - turns out this is the guy who stole our $1000 Pokemon from the thieves in Peridot! But... he sold it to someone else. To be continued!
+
+Before we enter the big door in here, go left and talk to the second box for hidden *Red-Hots*. In the bottom left corner is a hidden *Green Shard*. You can sneak up and to the left past the elevator, if you do, you can get a hidden *Purple Shard* in the topmost rock.
+
+Enter the gap on the left and pick up the *Friend Ball*. Head back out.
+
+Talk to the box in front of the elevator to watch it scurry away. Enter the elevator and go to 1F. Grab the *Net Ball* and talk to the kid here to make him move. In the elevator again go to 2F to grab *TM60 Quash*. Oh yeah.
+
+Enter the big door back on B1F and head up. Once you see this box move twice, head straight to the right to get a hidden *Oran Berry* in a box. In a trash can at the top of this room you can find a hidden *Poke Ball*. In the next room, it's time for a battle!
+
+Pokemon Gang. Field: No Field
+- Scraggy, Lv. 15, Ability: Intimidate, IVs: 15
+- Scraggy, Lv. 16, Ability: Moxie, IVs: 10
+- Scraggy, Lv. 17, Ability: Shed Skin, IVs: 10
+- Scrafty, Lv. 20, Ability: Moxie, IVs: 12
+
+As long as you are able to bully Scrafty when it comes out you should be able to make this work with a team of six.
+
+There's a *Potion* in a rock to the left and a *Blue Shard* in the last rock before leaving the room. In the next room, there's a hidden *Potion* in the box on the left and an *Exp. Candy S* in a rock towards the exit. 
+
+Back in the main basement area, go between the escalators to get a *Cotton Candy*. A rock down from here contains a *Burn Heal*. In the room to the right, you can find a hidden *Antidote*, a *Cheri Berry* in the trashcan downstairs as well as a *Super Potion* lying around and an *Exp. Candy S* in the rock below. 
+
+Back upstairs and in the hub, take the escalator to go up. A box on the right contains an *Awakening*. Head to the right and jump your way through this path, pick up a hidden *Exp. Candy XS* and an *Antidote* in rocks on the right side, and go down. Here you'll find an abandoned egg. When it hatches it will be **Bronzor**, **Ducklett**, or **Drowzee**, determined randomly.
+
+Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut, then head back to where Victoria was arguing with the guy earlier and talk to the trashcan to get a *Pokesnax*.
+
+With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight!
+
+## Coral Ward
 
 # Appendices
 
