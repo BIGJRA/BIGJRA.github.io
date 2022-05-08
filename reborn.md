@@ -830,7 +830,7 @@ Coral Ward
 
 Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are:
 
->! 4, 7, 31
+> 4, 7, 31
 
 As a reward for completing the quiz you'll get the *Misty Terrain Readout*. Useful, since Coral Ward is covered in mist.
 
@@ -928,7 +928,7 @@ Cut two more wiggly trees. Before we head left, we can actually sneak up past a 
 Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
 
 Meteor Admin ZEL. Field: Forest Field
-- PULSE Tangrowth, Lv. 22, Ability: ???, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
+- PULSE Tangrowth, Lv. 22, Ability: Filter, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
     - Wrap
     - Vine Whip
     - Acid Spray
@@ -1028,6 +1028,28 @@ The warehouse key we got earlier works on three of the warehouses here. In the l
 The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hiding in one of the boxes. The third warehouse contains a Meteor Grunt. Talking to him allows us to get a Pokemon later on. Also in here is a **Happiny**!
 
 ## Onyx Ward
+
+Head up into Onyx Ward from the northeastern corner of Obsidia. Onyx Ward is pretty small, but there are some things we can do here before challenging the gym.
+
+Head up on the right side. Across from the third lamppost on the sidewalk you can find a hidden *Cheri Berry*. Making your way around to the top left corner past the front of the school, the second tile from the left contains a hidden *Antidote*. The rock below contains a *Carbos* and the rock down from here contains a *Pokesnax*. 
+
+Anyways, we can't yet enter the Move Relearner house, so enter the apartment to the right. Talk to the girl on the left twice - for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
+
+Loto Attendant
+
+|Prize          |Digits Matched|
+|---------------|--------------|
+|*Reborn Ball*  |5 Matches     |
+|*PP Max*       |4 Matches     |
+|*PP Up*        |3 Matches     |
+|*Max Revive*   |2 Matches     |
+|*Full Restore* |1 Matches     |
+
+We don't have a Coin Case yet, so there's not much to do yet. We can play the lottery once a day though. 
+
+Enter the trainer school at the top left entrance. Fern will lock us out, so head outside and defeat the trainer to enter the school at the top right entrance.
+
+This area is mostly linear with a few detours. Talk to every green bookshelf and stray green book that you find lying around - they'll give us lore as well as the answers to some questions we'll need to answer later on.
 
 # Appendices
 
