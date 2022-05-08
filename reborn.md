@@ -15,6 +15,13 @@ Heavy Work In Progress :)
   - [Peridot Ward](#peridot-ward)
   - [Mosswater Industrial](#mosswater-industrial)
   - [Volt Badge](#volt-badge)
+- [To Florinia](#to-florinia)
+  - [1 Badge Quests](#1-badge-quests)
+  - [Obsidia Ward](#obsidia-ward)
+  - [Obsidia Slums](#obsidia-slums)
+  - [Coral Ward](#coral-ward)
+  - [Obsidia Park](#obsidia-park)
+  - [Onyx Ward](#onyx-ward)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -228,7 +235,7 @@ Opal Ward
 |**Meowth**        |5  |**Spinarak**      |13 |
 |**Ekans**         |5  |                  |   |
 
-Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind.
+Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
 
 On the left side of the area, in the left broken statue you'll find a hidden *Green Shard*.
 
@@ -464,6 +471,10 @@ Another cool thing is that partners will heal you after each battle!
 Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. 
 
 To the left across a bridge, you'll see one flashing terminal: XX7X. In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later... A terminal to the right shows 3XXX, and the one in the top right corner shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
+
+Relationship Point Choices:
+- Push the same elevator button as the floor you are on (-1 Fern, only once)
+- Don't do that (Neutral)
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right, and interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. In this room, use the terminal to discover the hint X8XX. Back outside, go left. In here is another terminal: 4XXX, plus one more with some lore. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. Beat the grunts and pickup the explosives!
 
@@ -804,9 +815,219 @@ Back upstairs and in the hub, take the escalator to go up. A box on the right co
 
 Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut, then head back to where Victoria was arguing with the guy earlier and talk to the trashcan to get a *Pokesnax*.
 
-With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight!
+With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden ** two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
 
 ## Coral Ward
+
+Welcome to Coral Ward. In the right rock as you enter you can get a *Potion*, then an *Ultra Potion* in a rock to the left of the apartments. Heading down from here you can grab a hidden *Purple Shard* one tile down and one tile right of the bottom left warehouse entrance, and a *Chewing Gum* in the box below. There is a *Repel* in the right rock below the singular house. Finally there is an *Aspear Berry* in a rock between the two warehouses on the right.
+
+014
+Coral Ward
+
+|Old Rod           |%  |
+|------------------|---|
+|Grimer            |100|
+
+Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are:
+
+>! 4, 7, 31
+
+As a reward for completing the quiz you'll get the *Misty Terrain Readout*. Useful, since Coral Ward is covered in mist.
+
+In a house below, there is an in-game trade. Raise your Patrat to Lv. 20 to get **Watchog**, then trade it for a **Nosepass**.
+
+On the dock, if it is raining and you have Snax, you can obtain **Lotad**.
+
+Talk to the blue haired girl towards the top. 
+
+Pretty Boy Cain (2x Potion). Field: Misty Terrain
+- Grimer (Grimer-Alola), Lv. 17, Ability: Poison Touch, Serious Nature, IVs: 10
+    - Gastro Acid
+    - Curse
+    - Taunt
+    - Bite
+- Cubone, Lv. 17, Serious Nature, IVs: 10
+    - Bone Club
+    - Double Kick
+    - Skull Bash
+    - Confide
+- Popplio, Lv. 18, Ability: Torrent, IVs: 20
+    - Icy Wind
+    - Aqua Jet
+    - Disarming Voice
+    - Amnesia
+- Nidorino, Lv. 20, Ability: Rivalry, Adamant Nature, IVs: 10
+    - Poison Tail
+    - Supersonic
+    - Fury Attack
+    - Peck
+
+This one isn't too crazy. Notice that Popplio's Icy Wind is boosted by the field, so watch out if you were planning on using anything weak to Ice. Nidorino hits somewhat hard but a Steel type can wall it.
+
+After the battle, you'll be given *TMX1 Cut*!
+
+## Obsidia Park
+
+Return to South Obsidia Ward and use your new TMX to chop down the tree. Thankfully in this game HMs, renamed TMX, can be deleted from your Pokemon at will.
+
+Talk to the kid here - we will reunite him with his mother as soon as we can. Enter the Glazamonia Salon here. If we ever get a Furfrou, we can groom it here. They also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
+
+Back in Obsidia Ward, we can actually access one more area before we proceed: at the left end of the ward, chop down the tree and go south. Defeating this trainer gives us access to the Obsidia Alleyway.
+
+Obsidia Alleyway
+
+|Cave              |%  |
+|------------------|---|
+|Trubbish          |45 |
+|**Koffing**       |22 |
+|Yungoos           |20 |
+|Poochyena         |13 |
+
+There is a hidden *Potion* in the first rock on top, and a *Green Shard* in the box in the top right.
+
+At the top of the area during the morning and day, you'll find a Litleo, who will run off.
+
+At night, you'll see two Mightyena's bullying **Electrike**, who will join you if you can defeat them.
+
+To the left of the area, a **Minun** or a **Plusle** will pop out and join you if you give it snax. You can get both by exiting and re-entering.
+
+If this is a bit too hard for now feel free to skip this one, but if you enter the Underground Railnet from the Obsidia entrance you'll find Litleo and have to fight a strong Pokemon. 
+
+Pokemon Mechanightmare. Field: Cave Field
+- Klinklang, Lv. 35, Ability: Clear Body, Modest Nature, IVs: 30
+    - Discharge
+    - Charge Beam
+    - Mirror Shot
+    - Autotomize
+
+If you're able to defeat this thing, you'll get **Litleo**!
+
+With all that out of the way, return to the park area and talk to Victoria, Amaria, and Florinia. Head into Obsidia Park. Note that once we are done here we can't re-enter, so if you want the hidden items and such grab them while we're here. All of the Pokemon will be available later, though.
+
+Obsidia Park
+
+|Land              |%  |
+|------------------|---|
+|**Venonat**       |20 |
+|**Bellsprout**    |20 |
+|**Oddish**        |20 |
+|Sunkern           |15 |
+|**Buneary**       |10 |
+|**Sunflora**      |5  |
+|Slakoth           |5  |
+|**Bonsly**        |5  |
+
+Head to the left and grab an *Oran Berry* in the third bush. Grab the *Poke Ball* beyond the first grunt then go right. A bush here will contain a *Chesto Berry*. Cut the wiggly tree and backtrack. Cut another wiggly tree near the entrance and follow the path. After passing the grey street twice the first bush will contain a *Leppa Berry*. Cut this wiggly tree.
+
+Again we are backtracking to go through the middle path to cut a wiggly tree, then through the left path. Following the newly opened area up, grab a *Pecha Berry* in a bush, then head right to cut a wiggly tree to open up a shortcut!
+
+To the right, you can cut another and follow its path to a fight with a grunt. Straight down from here is a hidden *Super Potion*! Follow the path to watch a scene, but a wiggly tree then head back and up at the road. A bush past the road hides a *Green Shard*.
+
+Cut two more wiggly trees. Before we head left, we can actually sneak up past a tree to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*  
+
+Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
+
+Meteor Admin ZEL. Field: Forest Field
+- PULSE Tangrowth, Lv. 22, Ability: ???, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
+    - Wrap
+    - Vine Whip
+    - Acid Spray
+    - Mega Drain
+
+This is our first battle with a PULSE! As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit too hard either, so your Pokemon will likely be able to live a few turns before being knocked out. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
+
+Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
+
+Obsidia Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Buneary           |30 |Oddish            |20 |Hoothoot          |40 |
+|Bellsprout        |20 |Bellsprout        |20 |Bellsprout        |20 |
+|Sunkern           |20 |Venonat           |10 |Oddish            |20 |
+|Oddish            |15 |**Sentret**       |10 |Venonat           |18 |
+|Sentret           |5  |Buneary           |10 |Bonsly            |2  |
+|Slakoth           |5  |Bonsly            |10 |                  |   |
+|Sunflora          |5  |Sunkern           |10 |                  |   |
+|                  |   |Slakoth           |5  |                  |   |
+|                  |   |Sunflora          |5  |                  |   |
+
+Catch a Sentret for an in-game trade, and evolve it by raising it to Lv. 15 to get **Furret**. In the house nearby the Pokemon Center, you can trade it to get **Castform**!
+
+While we're nearby, enter the Pokemon center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
+
+Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
+
+Posh Suzy. Field: No Field
+- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
+    - Synthesis
+    - Aromatherapy
+    - Play Rough
+    - Trop Kick
+
+Obviously this is a pretty tough fight for this point in the game, feel free to return to it later. Maybe a fire type might be able to lower its stats or something since it resists both of its attack moves?
+
+If you're able to win, you'll get **Bounsweet**!
+
+Heading north from the park, all the way right from the manhole cover you can find a hidden *Super Potion*. 
+
+The first building here is the Department Store. Head inside, we can buy some things.
+
+Department Store 1F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|Poke Ball      |$200           |
+|Escape Rope    |$550           |
+|Common Candy   |$150           |
+|Repel          |$400           |
+|Pokesnax       |$400           |
+
+Department Store 1F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|Potion         |$300           |
+|Antidote       |$100           |
+|Awakening      |$250           |
+|Burn Heal      |$250           |
+|Paralyze Heal  |$200           |
+|Ice Heal       |$250           |
+
+We can also talk to an employee to get the *Membership Card* and the *Department Store Stamp: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
+
+Department Store 2F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|Oran Berry     |$200           |
+|Cheri Berry    |$400           |
+|Pecha Berry    |$400           |
+|Rawst Berry    |$400           |
+|Chesto Berry   |$400           |
+|Aspear Berry   |$400           |
+|Persim Berry   |$400           |
+
+Department Store 2F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|Pomeg Berry    |$500           |
+|Kelpsy Berry   |$500           |
+|Qualot Berry   |$500           |
+|Tamato Berry   |$500           |
+|Hondew Berry   |$500           |
+|Grepa Berry    |$500           |
+
+Our Pokemon have been getting random EV's so far - if you in the future want to EV train your Pokemon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
+
+Outside, head left and grab hidden *Cotton Candy* and *Red Shard* in some rocks. That's pretty much all we can do in Obsidia for now, but before we continue the story we can take a brief detour back to Coral Ward for some goodies.
+
+The warehouse key we got earlier works on three of the warehouses here. In the left one, you'll find the real daycare couple! By freeing them, the daycare will now be in service for all your breeding needs.
+
+The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hiding in one of the boxes. The third warehouse contains a Meteor Grunt. Talking to him allows us to get a Pokemon later on. Also in here is a **Happiny**!
+
+## Onyx Ward
 
 # Appendices
 
