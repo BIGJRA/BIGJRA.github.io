@@ -18,7 +18,7 @@ Pokemon Gargantuan. Field:
     - Heavy Slam
 
 Pretty Boy Cain. Field: 
-- Nidoran M. (Nidoran-M), Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
+- Nidoran M., Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
     - Tackle
     - Leer
 

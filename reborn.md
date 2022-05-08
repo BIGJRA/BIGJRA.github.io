@@ -7,9 +7,14 @@ title: |
 
 Heavy Work In Progress :)
 
-- [Section 1](#section-1)
+- [To Julia](#to-julia)
   - [All Aboard!](#all-aboard)
   - [Grand Hall](#grand-hall)
+  - [Opal Ward](#opal-ward)
+  - [Lower Peridot Ward](#lower-peridot-ward)
+  - [Peridot Ward](#peridot-ward)
+  - [Mosswater Industrial](#mosswater-industrial)
+  - [Volt Badge](#volt-badge)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -18,7 +23,7 @@ Heavy Work In Progress :)
     - [Shenanigan Passwords](#shenanigan-passwords)
     - [Bulk Passwords](#bulk-passwords)
 
-# Section 1
+# To Julia
 
 Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
 
@@ -151,7 +156,7 @@ If you save in front of the starters (quicksave is, by default, 'D'), you can re
 Talk to Ame as soon as you're done, and you'll be taken downstairs and fight your first battle!
 
 Pretty Boy Cain. Field: No Field
-- Nidoran M. (Nidoran-M), Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
+- Nidoran M., Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
     - Tackle
     - Leer
   
@@ -159,7 +164,7 @@ Use your starter's stat lowering move once if you'd like then spam your attackin
 
 Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
 
-Apprentice Victoria. Field: 
+Apprentice Victoria. Field: No Field
 - Litten, Lv. 5, Ability: Blaze, Bashful Nature, IVs: 10
     - Scratch
     - Growl
@@ -182,9 +187,9 @@ Grand Hall Common Candy Shop
 |---------------|-----------|
 |*Common Candy* | $75       |
 
-As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. We shouldn't need any right now though. To his right is another shop:
+As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. Note that the current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
-Grand Hall Shop
+Standard Shop (0 Badges)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -227,7 +232,7 @@ To the right, you'll find three bullies. You'll need two Pokemon to be able to f
 
 The first rock you see down from here contains a hidden *Antidote*. After defeating the trainers that's pretty much all we can do here, so head back towards the train station.
 
-# Lower Peridot Ward
+## Lower Peridot Ward
 
 In the Lower Peridot Ward, things have opened up! Head up as soon as you can. A rock on the left side will contain a hidden *Escape Rope*. Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here. 
 
@@ -239,9 +244,9 @@ To the left, you'll find a couple of black and green street signs. All the way d
 
 To the left, you'll find another Pokemon Center. The rock just outside to the left contains a hidden *Elemental Seed*. Hang on to this for now - it will be useful later on. In a house to the left, you can take a quiz to find out what kind of Pokemon you'd be, just for fun. Enneagram? Myers-Briggs? Nah. *This* is the real personality quiz.
 
-Anyways, down and to the right from here you'll find some more trainers and also a Teddiursa! It will run off and we'll have to chase it. I will cover all the locations later on, but keep in mind finding it three times will allow you to battle and catch it.
+Anyways, down and to the right from here you'll find some more trainers. During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it. 
 
-Immediately above Teddiursa you'll find a pile of trash paper on the left side, between two girders. One tile up and one tile right from that contains a hidden *Purple Shard*.
+Immediately above this intersection you'll find a pile of trash paper on the left side, between two girders. One tile up and one tile right from that contains a hidden *Purple Shard*.
 
 There's nothing else here for now, so head down and left from this area and enter the first house that you can. Inside, you'll find a *Pokesnax*! This item is crucial for getting certain Pokemon. Back outside, go one tile left and all the way down. In the final tile you can stand on is a hidden *Exp. Candy XS*. 
 
@@ -270,6 +275,8 @@ Lower Peridot Ward Pool
 
 Head out, and back up past the Old Rod house. You'll find the Name Rater's house here. Up from here, the first barrel you see will hide a *Heart Scale*. Straight to the left and down between the two brown buildings you'll find a hidden *Purple Shard*. 
 
+If it is still a clear daytime, here you'll be able to talk to Teddiursa again, who will run off to a random location. I will cover all the locations later on, but keep in mind finding it three times from here will allow you to battle and catch it.
+
 Enter the building here and talk to the old man for a battle. If you win, you'll be able to enter his garden. 
 
 Seacrest's Garden
@@ -281,6 +288,8 @@ Seacrest's Garden
 |**Wurmple**       |20 |**Sunkern**       |30 |**Wurmple**       |20 |
 |**Caterpie**      |20 |**Cherubi**       |10 |**Caterpie**      |20 |
 |**Sunkern**       |6  |                  |   |**Sunkern**       |6  |
+
+There is a trade for Sunkern we can do later on, so I recommend catching one.
 
 Back outside, head to the right. Enter the first building here. You'll find out about an injured Skitty - when we get an Oran Berry we will be back. Head outside and go right.
 
@@ -324,7 +333,203 @@ Plus, a rock at the top left contains a hidden *Guard Spec.* Once you're done he
 
 ## Peridot Ward
 
-Content
+Between two boxes on the left, you can find a hidden *Pokeball*. In a rock up and to the right from here is a hidden *Oran Berry*. That means we can head back down and enter the first building on the right to get **Skitty**. 
+
+Head back up, then go left. To the left of the factory there is a barrel containing an *Ability Capsule*! Make sure you get it soon because it will eventually become unobtainable.
+
+To the right of here is a trainer with a red hat. Depending on where he challenges you you may need to go around, but between a rock and a barrel above him you'll find a hidden *Burn Heal*. The barrel on the other side of this small building contains a hidden *Red Shard* The in-game trade I mentioned earlier is in this house, but we probably aren't quite ready for it yet, so head up.
+
+Up and to the left of the rock above the street sign you can find a hidden *Blue Shard*, and straigh up from here the top of two boxes contains a *Paralyze Heal*. Up from here go left, then in a rock behind a dumpster you can get a hidden *Calcium*. I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money.
+
+Defeat the youngsters here and enter this house. A lady will tell you she is afraid of some muggers who aren't here yet, so we can head outside. The fountain out here will actually contain **Surskit** when it is raining. Two tiles down from the left part of the manhole cover here you can find a hidden *Ether*. 
+
+Up from here, when the weather is clear or sunny, as long as you are holding Rose Incense you can catch a falling **Budew**. A rock above contains a *Potion* and one to the left contains a *Red Shard*.
+
+Inside this house you'll find the guy who stole our Pokemon earlier, but you gotta pay another $500! Just kidding, you gotta fight both him and the initial salesman and you won't even get your Pokemon. We'll just have to continue this quest later.
+
+Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
+
+|Cave              |%  |
+|------------------|---|
+|Trubbish          |45 |
+|Poochyena         |34 |
+|**Purrloin**      |21 |
+
+In a jar to the left you can find a *Repel*. A box above will contain a *Green Shard*. Our first *Data Chip* is above. You can use it to add a password at any PC, if you'd like.
+
+Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left, and enter the first building. At night, you can catch **Grubbin** or **Joltik**, randomly determined.
+
+Straight to the left out the door you'll find some trash paper, and to the left of it is a hidden *Common Candy*. Inside the next building is another *Common Candy*. 
+
+The "Standard Shops" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward one will have the same inventory as the Grand Hall one until we get a badge, then they will both upgrade. 
+
+Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money. Outside to the right in a box is a hidden *Potion*. A pile of trash paper in the very top left contains a hidden *Clever Wing* (which, again, is good to sell). A guy in the adjacent building will give us a *Common Candy*. Outside there is a shop.
+
+Peridot Ward Snax Shop
+
+|Item       |Price      |
+|-----------|-----------|
+|Pokesnax   |$650       |
+
+If you use up your Pokesnax and need more, this is the place. Note that he won't be here unless the weather is clear or sunny. 
+
+In the "Jasper" gate here you can find a *Genius Wing* in a rock. Outside you'll find a hidden *Green Shard* a tile to the right of the pair of trash paper tiles. To the right past the trainer a rock contains a hidden *Purple Shard*.
+
+Now that we've completed this loop, head back to the bottom left corner of the area. Inside both sides of the dumpster you'll find a *Blue Shard* and *Common Candy*. 
+
+When you're ready, talk to the green haired guy for a battle.
+
+Swag Jockey Fern (Potion). Field: No Field
+- Budew, Lv. 13, @Oran Berry, Ability: Poison Point, IVs: 10
+    - Mega Drain
+    - Natural Gift
+    - Stun Spore
+    - Covet
+- Sandile, Lv. 13, Ability: Moxie, IVs: 10
+    - Power Trip
+    - Snatch
+    - Rage
+    - Sand Tomb
+- Rowlet, Lv. 14, Ability: Overgrow, IVs: 15
+    - Leafage
+    - Peck
+    - Ominous Wind
+    - Confuse Ray
+
+This one is a bit harder than the first two rival fights of course, but nothing you can't handle. Watch out for his Budew, who likes to heal, and his Sandile who can rip through your team of six thanks to Moxie if you're not careful.
+
+Around this time, my Bidoof was able to learn Headbutt, so there are a few Pokemon you can now obtain. First, head to the garden:
+
+Seacrest's Garden
+
+|Headbutt          |%  |
+|------------------|---|
+|**Swablu**        |55 |
+|**Burmy**         |45 |
+
+Note that we will eventually want a Mothim for an in-game trade. Next, head back to Opal Ward.
+
+Opal Ward 
+
+|Headbutt          |%  |
+|------------------|---|
+|**Pineco**        |40 |
+|**Spearow**       |30 |
+|**Combee**        |30 |
+
+Now is a good time to finish the Teddiursa quest if you haven't already. Keep in mind this has to be done on a clear day. After talking to it in the bottom part of the Lower Peridot Ward and then again on the left side near the Name Rater's house, you'll need to find it three more times. It can be found in one of the following locations, then will be found in the two after it in the list (cyclically).
+
+1. Nearby the train station, where we started the game.
+2. Under the Opal Bridge, nearby Panpour/Pansear. 
+3. Above Mosswater Industrial in between two buildings.
+4. Next to the Upper Peridot Ward Pokemart.
+5. Next to the rock containing the Calcium near the fountain.
+6. Nearby the dumpster where we got Gulpin.
+7. In the bottom left corner of Seacrest's garden.
+
+**Teddiursa** will then battle you. 
+
+With that out of the way, time to progress the story. Make sure you have your best team for some battles coming up.
+
+You have to two choices: you can head straight to the Mosswater Industrial above Seacrest's Garden, or take a detour first to the Lower Peridot Ward gym. In either case, talk to the character standing in front of the factory when you're ready.
+
+Relationship Point Choices:
+- Headed straight to Mosswater Industrial (Fern +1)
+- Detoured to Lower Peridot Gym before going to Mosswater (Julia +1)
+
+## Mosswater Industrial
+
+Time for our first dungeon proper! Fern will join us as a partner - note that if you leave the factory before completing it, you will lose Relationship Points (-1 Fern) the first time. However, talking to Fern while he is following you will grant Relationship Points (+1 Fern) the first time you do it, as well. Another cool thing is that partners will heal you after each battle!
+
+Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. 
+
+To the left across a bridge, you'll see one flashing terminal: XX7X. In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later... A terminal to the right shows 3XXX, and the one in the top right corner shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
+
+On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right, and interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. In this room, use the terminal to discover the hint X8XX. Back outside, go left. In here is another terminal: 4XXX, plus one more with some lore. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. Beat the grunts and pickup the explosives!
+
+Back in the central room, choose which of the two characters to talk to.
+
+Relationship Point Choices:
+- Talk to Julia after getting the boomies (+1 Julia, -1 Florinia)
+- Talk to Florinia after getting the boomies (-1 Julia, +1 Florinia)
+
+Either way, head in to the room at the top when you're ready for a fight.
+
+Meteor Private Aster and Meteor Private Eclipse. Field: Factory Field
+- Rockruff, Lv. 16, Ability: Steadfast, IVs: 31
+    - Thunder Fang
+    - Howl
+    - Bite
+    - Rock Throw
+- Rockruff, Lv. 16, Ability: Vital Spirit, IVs: 31
+    - Fire Fang
+    - Howl
+    - Bite
+    - Rock Throw
+
+Depending on what Pokemon you have this can be a bit difficult since they like to one-shot Fern's Budew, but your sheer numbers can probably overwhelm them regardless.
+
+Outside the factory, Florinia will ask you a question.
+
+Relationship Point Choices:
+- Yes (+1 Florinia)
+- No (Neutral)
+
+You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. Anyways, if you noticed, we were battling on the Factory Field earlier. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
+
+Before we continue with the story, there are a couple quests we can take care of now. 
+
+Head down and talk to the purple haired guy above the train station. A hotshot will steal his painkillers! Follow him inside the North Peridot Alley, where you can fight him. Once you defeat him, return to the guy who will give you 5 *Exp. Candy S*. Nice.
+
+By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 15. If so, head into the house across from Mosswater to do an in-game trade for **Munna**! If not, now is a good time to grind the repeatable trainers in the upper-right corner of the Grand Hall - remember, they will give you Exp. Candy after each battle and even auto-heal your party! You can also do this as you like to do last preparations for the gym.
+
+## Volt Badge
+
+Enter the Neo-Circuit Power-Plant gym when you're ready. Beat all the trainers in this main room, talk to the Voltorb standing behind them, and blow up the barriers one by one. When you're ready, talk to the gym leader in her room.
+
+Cheer Captain Julia (2x Potion). Field: Electric Terrain.
+- Minun, Lv. 12, Ability: Minus, Modest Nature, IVs: 10
+    - Nuzzle
+    - Charge Beam
+    - Encore
+    - Quick Attack
+- Geodude (Geodude-Alola), Lv. 12, Ability: Galvanize, Adamant Nature, IVs: 20
+    - Self-Destruct
+    - Tackle
+    - Charge
+    - Rollout
+- Voltorb, Lv. 12, Ability: Aftermath, Adamant Nature, IVs: 20
+    - Explosion
+    - Rollout
+    - Charge Beam
+    - Sonic Boom
+- Plusle, Lv. 13, Ability: Lightning Rod, Modest Nature, IVs: 10
+    - Nuzzle
+    - Charge Beam
+    - Encore
+    - Quick Attack
+- Oricorio (Oricorio-Pom-Pom), Lv. 14, Ability: Dancer, Quirky Nature, IVs: 10
+    - Work Up
+    - Tailwind
+    - Pound
+    - Air Cutter
+- Electrode, Lv. 15, Ability: Aftermath, Bashful Nature, IVs: 24
+    - Charge Beam
+    - Sonic Boom
+    - Rollout
+    - Charge
+
+Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Charge Beam and wearing out your Lv. 20 and under Pokemon quickly with Sonic Boom. Her Electrode of course is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. It doesn't help that Oricorio can hit hard and boost the speed of the entire team for a few turns.
+
+Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. The single Elemental Seed we got earlier may be a good thing to try because of the Speed boost it grants to your Pokemon. Alternatively, if you got Zigzagoon you can use Mud Sport to destroy the field, making things a bit more even for you.
+
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
+
+# To Florinia
+
+## Obsidia Ward
+
+Head outside, and talk to Victoria outside the gym. She'll tell us our next destination is to the east of the Grand Hall.
 
 # Appendices
 
