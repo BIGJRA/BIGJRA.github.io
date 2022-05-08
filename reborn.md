@@ -22,6 +22,7 @@ Heavy Work In Progress :)
   - [Coral Ward](#coral-ward)
   - [Obsidia Park](#obsidia-park)
   - [Onyx Ward](#onyx-ward)
+  - [Canopy Badge](#canopy-badge)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -1154,9 +1155,9 @@ Onyx Arcade TM Shop
 
 |Item               |Price      |
 |-------------------|-----------|
-|*TMXX Attract*     |1000 Coins |
-|*TMXX Facade*      |4000 Coins |
-|*TMXX Substitute*  |7000 Coins |
+|*TM45 Attract*     |1000 Coins |
+|*TM42 Facade*      |4000 Coins |
+|*TM90 Substitute*  |7000 Coins |
 
 Of these, Substitute is probably the best one, but you can certainly get some mileage out of the other two with the right Pokemon.
 
@@ -1249,7 +1250,7 @@ This is a pretty neat and out of the ordinary team that helps teach the player a
 
 All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying-type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
 
-After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE 5C Readout*. 
+After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE 5C Readout*. The level cap also shoots up to 35!
 
 # Appendices
 
