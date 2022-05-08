@@ -160,7 +160,11 @@ Pretty Boy Cain. Field: No Field
     - Tackle
     - Leer
   
-Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required, but if you win, you'll get Relationship Points (+1 Cain).
+Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required. 
+
+Relationship Point Choices:
+- Defeat Cain in battle (+1 Cain)
+- Lose to Cain in battle (Neutral)
 
 Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
 
@@ -169,9 +173,13 @@ Apprentice Victoria. Field: No Field
     - Scratch
     - Growl
 
-You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required, but if you win, you'll get Relationship Points (+1 Victoria).
+You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required.
 
-After the battle, Ame will give you the *Pokedex*, the *Pokegear,* and of course the *Running Shoes*! Plus, Victoria will give you 5 *Pokeballs*.
+Relationship Point Choices:
+- Defeat Victoria in battle (+1 Victoria)
+- Lose to Victoria in battle (Neutral)
+
+After the battle, Ame will give you the *Pokedex*, the *Pokegear,* and of course the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
 Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often. 
 
@@ -195,9 +203,9 @@ Standard Shop (0 Badges)
 |---------------|-----------|
 |*Potion*       |$300       |
 |*Antidote*     |$100       |
-|*Pokeball*     |$200       |
+|*Poke Ball*     |$200       |
 
-In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of Pokeballs. As in the mainline games, you get a *Premier Ball* with every 10 Pokeballs you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now.
+In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. As in the mainline games, you get a *Premier Ball* with every 10 balls you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now.
 
 On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokemon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokemon for... 14 more badges.
 
@@ -319,7 +327,7 @@ To the right of the blue bin is a hidden *Dark Gem*. After defeating the trainer
 
 Head outside and go to the right under the bridge. When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly determined. The second from the right box on the bottom row contains a *Purple Shard*. Head to the right.
 
-Underground Railnet
+Underground Railnet (Opal Area)
 
 |Cave              |%  |
 |------------------|---|
@@ -333,13 +341,13 @@ Plus, a rock at the top left contains a hidden *Guard Spec.* Once you're done he
 
 ## Peridot Ward
 
-Between two boxes on the left, you can find a hidden *Pokeball*. In a rock up and to the right from here is a hidden *Oran Berry*. That means we can head back down and enter the first building on the right to get **Skitty**. 
+Between two boxes on the left, you can find a hidden *Poke Ball*. In a rock up and to the right from here is a hidden *Oran Berry*. That means we can head back down and enter the first building on the right to get **Skitty**. 
 
 Head back up, then go left. To the left of the factory there is a barrel containing an *Ability Capsule*! Make sure you get it soon because it will eventually become unobtainable.
 
 To the right of here is a trainer with a red hat. Depending on where he challenges you you may need to go around, but between a rock and a barrel above him you'll find a hidden *Burn Heal*. The barrel on the other side of this small building contains a hidden *Red Shard* The in-game trade I mentioned earlier is in this house, but we probably aren't quite ready for it yet, so head up.
 
-Up and to the left of the rock above the street sign you can find a hidden *Blue Shard*, and straigh up from here the top of two boxes contains a *Paralyze Heal*. Up from here go left, then in a rock behind a dumpster you can get a hidden *Calcium*. I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money.
+Up and to the left of the rock above the street sign you can find a hidden *Blue Shard*, and straight up from here the top of two boxes contains a *Paralyze Heal*. Up from here go left, then in a rock behind a dumpster you can get a hidden *Calcium*. I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money.
 
 Defeat the youngsters here and enter this house. A lady will tell you she is afraid of some muggers who aren't here yet, so we can head outside. The fountain out here will actually contain **Surskit** when it is raining. Two tiles down from the left part of the manhole cover here you can find a hidden *Ether*. 
 
@@ -357,7 +365,7 @@ Head down and enter the tall building to your right. Inside two suspicious peopl
 
 In a jar to the left you can find a *Repel*. A box above will contain a *Green Shard*. Our first *Data Chip* is above. You can use it to add a password at any PC, if you'd like.
 
-Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left, and enter the first building. At night, you can catch **Grubbin** or **Joltik**, randomly determined.
+Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left, and enter the first building. At night, you can catch **Grubbin** or **Joltik**, randomly determined. Note that this will use up one of your snax, so you'll need to buy more to do other snax-related events.
 
 Straight to the left out the door you'll find some trash paper, and to the left of it is a hidden *Common Candy*. Inside the next building is another *Common Candy*. 
 
@@ -439,7 +447,19 @@ Relationship Point Choices:
 
 ## Mosswater Industrial
 
-Time for our first dungeon proper! Fern will join us as a partner - note that if you leave the factory before completing it, you will lose Relationship Points (-1 Fern) the first time. However, talking to Fern while he is following you will grant Relationship Points (+1 Fern) the first time you do it, as well. Another cool thing is that partners will heal you after each battle!
+Time for our first dungeon proper! Fern will join us as a partner. Partners are special in this game for a few reasons. Leaving your partner (here, leaving Mosswater Industrial) has a negative effect:
+
+Relationship Point Choices:
+- Leave Fern and exit the factory (-1 Fern, just once)
+- Stay with Fern and complete the factory (Neutral)
+
+However, talking to your partner while they're walking with you has a positive effect:
+
+Relationship Point Choices:
+- Talk to Fern while you are together (+1 Fern, just once)
+- Ignore Fern in Mosswater (Neutral) 
+  
+Another cool thing is that partners will heal you after each battle!
 
 Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. 
 
@@ -478,6 +498,8 @@ Relationship Point Choices:
 You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. Anyways, if you noticed, we were battling on the Factory Field earlier. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
 
 Before we continue with the story, there are a couple quests we can take care of now. 
+
+Go to the factory area where we first met Fern, and talk to the scientist guy on the right side of the factory. He will give us the *Factory Field Readout*, so now we have more details whenever we have battles on the Factory Field that was in Mosswater.
 
 Head down and talk to the purple haired guy above the train station. A hotshot will steal his painkillers! Follow him inside the North Peridot Alley, where you can fight him. Once you defeat him, return to the guy who will give you 5 *Exp. Candy S*. Nice.
 
@@ -527,9 +549,146 @@ Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Ch
 
 # To Florinia
 
-## Obsidia Ward
+## 1 Badge Quests
 
 Head outside, and talk to Victoria outside the gym. She'll tell us our next destination is to the east of the Grand Hall.
+
+Before we continue though, there are a couple quests we can complete before we proceed to the next area. 
+
+Head nearby the train station in Lower Peridot. While it is raining, if you have a snax in your bag you can give it away to get **Numel**! 
+
+Nearby you'll find a hiker. Talk to him, then talk to the person in the house containing Whismur earlier on. Return to the hiker and follow him to the house to receive **Onix**!
+
+Next, enter the Grand Hall. The Common Candy salesman is now gone but in his place is a person who will give us the *Rainbow Field* readout. You probably can't do much with this one yet, but once you are able to create the Rainbow Field yourself, you do lots of crazy things in battle on it.
+
+Now that we have a badge, Pokemarts will be updated:
+
+Standard Shop (1 Badge)
+
+|Item           |Price      |
+|---------------|-----------|
+|Potion         |$300       |
+|Antidote       |$100       |
+|Paralyze Heal  |$200       |
+|Burn Heal      |$250       |
+|Escape Rope    |$550       |
+|Repel          |$400       |
+|Poke Ball      |$200       |
+
+Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
+
+You'll also notice that there are more trainers on Opal Bridge - when you get a new badge, this often happens, so watch out!
+
+## Obsidia Ward
+
+When you're ready, talk to Victoria on the right side of Opal Bridge. New area time!
+
+Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokemon's friendship for $1500. Do this once if you have the money. 
+
+Relationship Point Choices:
+- Get at least one massage at the Central Salon (+1 Serra)
+- Don't get a massage (Neutral)
+
+A lady on the right will ask to see a Pokemon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
+
+The building to the right is Critical Capture, where you can buy custom balls.
+
+Critical Capture Shop Right Clerk
+
+|Item           |Price      |
+|---------------|-----------|
+|*Heavy Ball*   |$300       |
+|*Moon Ball*    |$300       |
+|*Fast Ball*    |$300       |
+|*Love Ball*    |$400       |
+|*Nest Ball*    |$500       |
+|*Net Ball*     |$500       |
+|*Dive Ball*    |$500       |
+|*Timer Ball*   |$1000      |
+|*Friend Ball*  |$3000      |
+
+Most of these are really not too worth it right now compared to the regular variety (especially Friend Ball... yikes) but I recommend picking up a few Love Balls - their 4x catch rate can be activated 100% of the time given you're trying to catch a non-genderless Pokemon and you have at least 1 male and at least 1 female Pokemon in your party, helpful for Pokemon with lower catch rates we may encounter.
+
+Outside, head right and up. Enter the Pokemon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
+
+Enter the building to the right, and talk to the daycare couple one-by-one over and over until they drop their facade and battle you. Eventually, we will be freeing the real daycare couple! 
+
+In a house to the left, we'll learn about an in-game trade we can't complete just yet. Head outside and to the left, grab a hidden *Steel Gem* in a rock, and go down the stairs to access a new part of the railnet.
+
+Underground Railnet (Obsidia Area)
+
+|Cave              |%  |
+|------------------|---|
+|Noibat            |60 |
+|Woobat            |20 |
+|**Klink**         |20 |
+
+Klink is pretty good on the Factory Field which we'll be seeing a lot in this game.
+
+There is also an *Escape Rope* hidden in the left area.
+
+Head back out and enter the Devon Corp building on the main street.
+
+Devon Corp Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|Potion         |$300       |
+|Repel          |$400       |
+|Poke Ball      |$200       |
+
+Nothing special here for sale, but if you talk to the mysterious salesman, he'll give you a free *Premier Ball* the first time. 
+
+The next building in line is the Sweet Kiss Candy Shop building. In the top left corner, you can complete a puzzle to get **Swirlix**! The completed puzzle looks like this:
+
+<img src="/assets/media/reborn/swirlix.jpg"/>
+
+At the top, a kid really wants some Vanilla Ice Cream. Since he's blocking the machine though we can't get any here - you'll have to wait until it's sunny and buy some from Opal Ward. Give it to this kid and then buy a Vanilla Ice Cream for $1000 from the vending machine - it will be a **Vanillite** in disguise! After this the vending machine will be normal again.
+
+Sweet Kiss Ice Cream Vending Machine Shop
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|*Vanilla Ice Cream*    |$400       |
+|*Choc Ice Cream*       |$700       |
+|*Berry Ice Cream*      |$1000      |
+
+There is a 1% chance you will actually get a *Blue Moon Ice Cream* whenever you buy any one of these. Choc and Berry are more expensive here than in Opal Ward, so there's really no reason to buy these here ever.
+
+Sweet Kiss Top Clerk Shop
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Whipped Dream*    |$1000      |
+|*Peppermint*       |$600       |
+|*Chewing Gum*      |$800       |
+|*Pop Rocks*        |$750       |
+|*Salt-Water Taffy* |$850       |
+|*Red-Hots*         |$850       |
+|*Cotton Candy*     |$5000      |
+
+If you're planning on evolving Swirlix, grab a Whipped Dream. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
+
+Sweet Kiss Bottom Clerk Shop
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Exp. Candy XS*    |$500       |
+|*Rare Candy*       |$12000     |
+
+I don't think you need to spend your precious money on Exp. Candy since grinding trainers give them every time you beat them.
+
+Back outside, follow Victoria to the right and talk to Florinia. Two tiles south of the nearby statue you'll find a *Pokesnax*, and another *Pokesnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
+
+Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. As I did with Teddiursa, I will come back to it once we can access all the locations. For now, exit the building. Two tiles to the right, you'll find a hidden *Dire Hit*. 
+
+Head down from here. Between the first two girders is a hidden *Blue Shard*, and past the trainer in the first box you can find a hidden *Green Shard*. Enter the Slums.
+
+## Obsidia Slums
+
+
+
 
 # Appendices
 
