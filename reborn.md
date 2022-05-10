@@ -7,7 +7,7 @@ title: |
 
 Heavy Work In Progress :)
 
-- [To Julia](#to-julia)
+- [Reborn, the City of Ruin](#reborn-the-city-of-ruin)
   - [All Aboard!](#all-aboard)
   - [Grand Hall](#grand-hall)
   - [Opal Ward](#opal-ward)
@@ -15,7 +15,7 @@ Heavy Work In Progress :)
   - [Peridot Ward](#peridot-ward)
   - [Mosswater Industrial](#mosswater-industrial)
   - [Volt Badge](#volt-badge)
-- [To Florinia](#to-florinia)
+- [Reap What's Been Sewn](#reap-whats-been-sewn)
   - [1 Badge Quests](#1-badge-quests)
   - [Obsidia Ward](#obsidia-ward)
   - [Obsidia Slums](#obsidia-slums)
@@ -23,6 +23,20 @@ Heavy Work In Progress :)
   - [Obsidia Park](#obsidia-park)
   - [Onyx Ward](#onyx-ward)
   - [Canopy Badge](#canopy-badge)
+- [Domino](#domino)
+  - [2 Badge Quests](#2-badge-quests)
+  - [Jasper Ward & Malchous Forest Park](#jasper-ward--malchous-forest-park)
+  - [Rhodochrine Jungle & The Underroot](#rhodochrine-jungle--the-underroot)
+    - [Choice: Trapped in a Cage](#choice-trapped-in-a-cage)
+    - [Choice: Snuck Around the Grunts](#choice-snuck-around-the-grunts)
+    - [Exploring the Jungle](#exploring-the-jungle)
+    - [Exploring the Underroot](#exploring-the-underroot)
+    - [Finishing Up in the Jungle](#finishing-up-in-the-jungle)
+  - [Beryl Ward & Beryl Cemetery](#beryl-ward--beryl-cemetery)
+  - [VS. Agent Borealis](#vs-agent-borealis)
+    - [Choice: Didn't Save Police Officers in Time](#choice-didnt-save-police-officers-in-time)
+    - [Choice: Saved Police Officers](#choice-saved-police-officers)
+- [Aftershocks](#aftershocks)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -31,9 +45,13 @@ Heavy Work In Progress :)
     - [Shenanigan Passwords](#shenanigan-passwords)
     - [Bulk Passwords](#bulk-passwords)
 
-# To Julia
+# Reborn, the City of Ruin
 
 Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
+
+Unfortunately by nature of how complete this guide is, there are some parts that may spoil events that happen further down the line a bit. I try to be vague about these things as best as possible, but you may want to consider playing the game once first without referencing this walkthrough.
+
+Oh, and as a fun fact - the first 18 main content headers (like the one above) are the titles to the first 18 episodes of the game. Episode 19 is the final version of the game hence does not have one, so I had to make my own from then on.
 
 ## All Aboard!
 
@@ -107,11 +125,10 @@ After you're done inputting passwords, enjoy the rest of your train ride!
 
 ## Grand Hall
 
-As soon as you're off the train, you'll have a conversation with Ame and Julia. I won't be explaining story events much at all in this walkthrough. This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less. What do they do? [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) explains it pretty well, so you can read that to decide if you want to care about them or not.
+As soon as you're off the train, you'll have a conversation with Ame and Julia. I won't be explaining story events much at all in this walkthrough. This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less. What do they do? [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) explains it pretty well, so you can read that to decide if you want to care about them or not. Whenever a choice is not listed, it has no effect on the points.
 
 Relationship Point Choices:
 - Yes (+1 Julia)
-- No (Neutral)
 
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem*. There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so. I will try my best to explain the positions of all the hidden items that I can until then.
 
@@ -172,7 +189,6 @@ Use your starter's stat lowering move once if you'd like then spam your attackin
 
 Relationship Point Choices:
 - Defeat Cain in battle (+1 Cain)
-- Lose to Cain in battle (Neutral)
 
 Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
 
@@ -185,7 +201,6 @@ You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefull
 
 Relationship Point Choices:
 - Defeat Victoria in battle (+1 Victoria)
-- Lose to Victoria in battle (Neutral)
 
 After the battle, Ame will give you the *Pokedex*, the *Pokegear,* and of course the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
@@ -309,7 +324,7 @@ There is a trade for Sunkern we can do later on, so I recommend catching one.
 
 Back outside, head to the right. Enter the first building here. You'll find out about an injured Skitty - when we get an Oran Berry we will be back. Head outside and go right.
 
-You'll fight a trainer in a small park. Once you beat her, talk to her again for a *Rose Incense*. Down and to the left from here you'll find a *Paralyze Heal* hidden in a box.
+You'll fight a trainer in a small park. Once you beat her, talk to her again for a *Rose Incense*. A rock below her in the park contains an *Antidote*, and down and to the left from here you'll find a *Paralyze Heal* hidden in a box.
 
 Back up from here, enter the building. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here. 
 
@@ -459,13 +474,11 @@ Time for our first dungeon proper! Fern will join us as a partner. Partners are 
 
 Relationship Point Choices:
 - Leave Fern and exit the factory (-1 Fern, just once)
-- Stay with Fern and complete the factory (Neutral)
 
 However, talking to your partner while they're walking with you has a positive effect:
 
 Relationship Point Choices:
 - Talk to Fern while you are together (+1 Fern, just once)
-- Ignore Fern in Mosswater (Neutral) 
   
 Another cool thing is that partners will heal you after each battle!
 
@@ -475,7 +488,6 @@ To the left across a bridge, you'll see one flashing terminal: XX7X. In the top 
 
 Relationship Point Choices:
 - Push the same elevator button as the floor you are on (-1 Fern, only once)
-- Don't do that (Neutral)
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right, and interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. In this room, use the terminal to discover the hint X8XX. Back outside, go left. In here is another terminal: 4XXX, plus one more with some lore. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. Beat the grunts and pickup the explosives!
 
@@ -505,7 +517,6 @@ Outside the factory, Florinia will ask you a question.
 
 Relationship Point Choices:
 - Yes (+1 Florinia)
-- No (Neutral)
 
 You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. Anyways, if you noticed, we were battling on the Factory Field earlier. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
 
@@ -559,7 +570,7 @@ Her team luckily isn't super bulky, so trying to get something going with your o
 
 Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
 
-# To Florinia
+# Reap What's Been Sewn
 
 ## 1 Badge Quests
 
@@ -599,7 +610,6 @@ Head into the Central Salon. Inside, you'll find a friendship checker as well as
 
 Relationship Point Choices:
 - Get at least one massage at the Central Salon (+1 Serra)
-- Don't get a massage (Neutral)
 
 A lady on the right will ask to see a Pokemon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
 
@@ -734,7 +744,6 @@ Her Torracat likes to try to set up on you, so be careful of that. Otherwise her
 
 Relationship Point Choices:
 - Defeat Victoria in the Slums (+1 Victoria)
-- Skip talking to Victoria near the park, or use the fridge to skip her fight (Neutral)
 
 After that's done, head down the escalator to the right. There are encounters in this area.
 
@@ -931,13 +940,13 @@ Cut two more wiggly trees. Before we head left, we can actually sneak up past a 
 Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
 
 Meteor Admin ZEL. Field: Forest Field
-- PULSE Tangrowth, Lv. 22, Ability: Filter, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
+- PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
     - Wrap
     - Vine Whip
     - Acid Spray
     - Mega Drain
 
-This is our first battle with a PULSE! As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit too hard either, so your Pokemon will likely be able to live a few turns before being knocked out. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
+This is our first battle with a PULSE! As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
 
 Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
 
@@ -997,7 +1006,7 @@ Department Store 1F Right Shop
 |*Paralyze Heal*|$200           |
 |*Ice Heal*     |$250           |
 
-We can also talk to an employee to get the *Membership Card* and the *Department Store Stamp: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
+We can also talk to an employee to get the *Membership Card* and the *Department Store Sticker: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
 
 Department Store 2F Left Shop
 
@@ -1104,7 +1113,6 @@ Head downstairs from here, head out to the main hall and go downstairs again.
 
 Relationship Point Choices:
 - Yes (+1 Hardy)
-- No (Neutral)
 
 Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut.
 
@@ -1187,6 +1195,14 @@ Onyx Ward Rooftop
 
 When the weather is clear up here, you can also find a **Pichu** behind a tree if you have snax in your bag.
 
+There is another event we can do, but it only works on certain weekday nights. For now, we have access to three alleyways. You'll need to go to any one of the following: 
+
+- Obsidia Alleyway, on a Monday night
+- North Peridot Alleyway, on a Thursday night
+- Lower Peridot Alleyway, on a Friday night
+
+Whichever you go to at the right time, you'll find a **Zangoose** digging through the trash that you can catch.
+
 Finally, now is a good time to go finish the search for Lillipup.
 
 After talking to it in the apartment in South Obsidia Ward it will randomly go to one of these five places:
@@ -1203,14 +1219,7 @@ Once you find it, head back to the Onyx Ward. To the left of the Move Relearner 
 
 With all that out of the way we can head back to the gym. In order to battle Florinia, we're gonna need to answer all the quiz questions. The answers are here, from right to left:
 
-> 1
-> 367
-> True
-> 410
-> True
-> 37
-> 15
-> True
+> 1, 367, True, 410, True, 37, 15, True
 
 Head to the left and enter the gym room for a battle.
 
@@ -1252,6 +1261,489 @@ All that goes to show how even fields that aren't *obviously* beneficial like El
 
 After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE 5C Readout*. The level cap also shoots up to 35!
 
+# Domino
+
+## 2 Badge Quests
+
+There are a few things we can do now that we have 2 badges before we continue the story. First, head to the room containing the nurse in the Trainer School. A girl towards the left side will trade you battle advice for *TM100 Confide*!  
+
+Now that we have 2 badges, the Pokemarts have updated inventory now:
+
+Standard Shop (2 Badges)
+
+|Item           |Price      |
+|---------------|-----------|
+|*Super Potion* |$700       |
+|*Antidote*     |$100       |
+|*Paralyze Heal*|$200       |
+|*Burn Heal*    |$250       |
+|*Escape Rope*  |$550       |
+|*Super Repel*  |$700       |
+|*Poke Ball*    |$200       |
+
+Head to Obsidia Park. While it's sunny outside and you have snax in your bag, you can catch a stationary **Petilil**!
+
+Head into the Obsidia Slums. Nearby where we first entered on the first floor, you'll see a doctor talking to a child. Talk to him to get the *Itemfinder*! Note that this is a limited time event, so if you don't want to have to wait until we get four more badges to get the Itemfinder, act now! Since I assume you can use the itemfinder now, going forward in this guide, I will not describe exact locations of hidden items. You'll also find an *Exp. Candy M* here.
+
+Head left and take the elevator down to B1F. Immediately head left and go up, following the path. If you have snax in your bag, you can catch **Makuhita**!
+
+Back in Opal Ward, specifically if you randomly got Clamperl earlier in Onyx Ward, a person near the water at the bottom will give you a *Deepseatooth* or a *Deepseascale*, randomly determined.
+
+Finally, head to the apartment in the top left corner of Peridot Ward. Now that we have two badges we can finally take home **Snubbull** or **Stufful**, randomly determined.
+
+## Jasper Ward & Malchous Forest Park
+
+Leave this house, and head into the Jasper gate to your right. Talk to the guard here and head into Jasper Ward.
+
+Jasper Ward
+
+|Cave              |%  |
+|------------------|---|
+|**Beedrill**      |25 |
+|**Sewaddle**      |24 |
+|**Scatterbug**    |20 |
+|Pidgey            |20 |
+|**Carnivine**     |7  |
+|**Pidgeotto**     |4  |
+
+Talk to Corey and Heather here, then head into the police station. Talk to the chief here, who will tell you about his missing officers. Doing so will both change the story a bit as well as give you some nice rewards. You don't have to find them, but doing so is the first step to doing the more exclusive postgame story route. If you'd like to play the route of the game that involves not finding the officers in time, you can skip finding one of the officers until you complete up to the end of this section, then find them afterwards to get the quest rewards.
+
+In general, I will mention story splits and how choices affect post-game route availability just so you can keep your options open.
+
+Grab a hidden *Super Potion* outside then enter the building here, then exit through the top. Outside you'll find a Pokemon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
+
+Head back down into the building below and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building. Head outside at the bottom.
+
+Relationship Point Choices:
+- Yes (+1 Heather)
+- No (-1 Heather)
+
+Head to the left into the Forest Park.
+
+Malchous Forest Park
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Beedrill          |20 |Beedrill          |30 |Scatterbug        |20 |
+|Sewaddle          |20 |Pidgey            |20 |Spinarak          |20 |
+|Scatterbug        |20 |**Fomantis**      |10 |Hoothoot          |20 |
+|Ledyba            |19 |Scatterbug        |10 |**Paras**         |19 |
+|**Fomantis**      |10 |Oddish            |10 |**Fomantis**      |10 |
+|Pidgey            |10 |Bellsprout        |10 |**Pansage**       |6  |
+|**Pansage**       |1  |**Pansage**       |9  |Carnivine         |5  |
+|                  |   |Carnivine         |1  |                  |   |
+
+Head towards the center of the area, and chop the wiggly tree nearby. Following the path that this opens up, you can grab hidden *X Speed, Full Heal,* and *Telluric Seed*. Chop the two wiggly trees nearby and receive a *Super Potion* from Heather.
+
+Double back around to the path on top, defeat a grunt then chop the tree. Down from here you can now head left, so battle a grunt and proceed. 
+
+Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
+
+Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE 5B Readout*. 
+
+Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
+
+Meteor Admin Taka (Super Potion). Field: Rocky Field
+- Exeggcute, Lv. 22, Ability: Harvest, IVs: 10
+    - Poison Powder
+    - Leech Seed
+    - Barrage
+    - Bullet Seed
+- Chatot, Lv. 25, @Wide Lens, Ability: Keen Eye, IVs: 5
+    - Sing
+    - Nasty Plot
+    - Chatter
+    - Taunt
+- PULSE Tangrowth B, Lv. 24, @Oran Berry, Ability: Arena Trap, Impish Nature, IVs: 31. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Ground
+    - Leech Seed
+    - Vine Whip
+    - Sand Tomb
+    - Rock Tomb
+
+Taka will fight you on the Rocky Field. We don't have details on this field yet, but you will observe that Rock Tomb will be stronger here. The Telluric Seed can be helpful here: by testing it you'll notice that it raises Defense but does Stealth Rock damage. Since Exeggcute doesn't hit that hard you can take the chance to set up on it and then hit Tangrowth hard. This entire team is weak to Ice, so keep that in mind.
+
+After the battle, you'll be sent outside. Answer Corey how you like here, then grab hidden *X Defend* and *Green Shard* as well as a *Big Root*.
+
+Exit Malchous Forest Park in the top right corner. In the first house, you'll be able to defeat a Meteor Grunt to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
+
+Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *Pokesnax*.
+
+Past the Pokemon Center, enter the first building you see. Talk to the guy here to activate a quest. You can also enter the elevator room here to get the *Forest Field Readout*. 
+
+Outside, you can now grab a *Paralyze Heal* and save Police Officer #2. Grab a hidden *Super Potion* and *Green Shard* outside and head into the small building here. If you have snax and talked to the panicking guy earlier, you can get **Mareep**!
+
+Before we continue into the next ward, there's a quick thing we can do. Exit Jasper Ward to the south (there's a shortcut below the Mareep building) and head to the right. Enter the first house you see in Peridot Ward, and talk to the girls inside for *Department Store Sticker: Tangela* as well as *TM88 Sleep Talk*.
+
+Department Store 3F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Sticky Barb*  |$600           |
+|*Lagging Tail* |$200           |
+|*Iron Ball*    |$1000          |
+|*Binding Band* |$1700          |
+|*Float Stone*  |$400           |
+|*Eject Button* |$1800          |
+|*Red Card*     |$1800          |
+|*Ring Target*  |$200           |
+|*Metronome*    |$1500          |
+
+Department Store 3F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Heat Rock*    |$200           |
+|*Icy Rock*     |$200           |
+|*Smooth Rock*  |$200           |
+|*Damp Rock*    |$200           |
+|*Grip Claw*    |$200           |
+|*Light Clay*   |$200           |
+|*Everstone*    |$200           |
+
+Since money is still tight, I wouldn't recommend binging too many of these items for now, especially since most of them suck. We'll be able to get tons of the weather extending rocks, Iron Ball, and Light Clay after the next badge for free, but if your strategy involves weather or screens they are pretty cheap right now so it might be worth it for those.
+
+Head outside and up to access the next ward.
+
+## Rhodochrine Jungle & The Underroot
+
+Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *Pokesnax*. 
+
+While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to the kid here and he will go home.
+
+Back in Beryl, head left.
+
+West Beryl Ward
+
+|Cave              |%  |
+|------------------|---|
+|Pansage           |20 |
+|Pidgeotto         |20 |
+|Spearow           |15 |
+|Bellsprout        |14 |
+|Scatterbug        |11 |
+|Sewaddle          |11 |
+|Oddish            |9  |
+
+Grab a hidden *Red Shard* and an *X Attack* in the house. Make your way left, grab the hidden *Poke Ball*, and enter the jungle.
+
+Rhodochrine Jungle
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Sewaddle          |30 |Spearow           |20 |Paras             |24 |
+|**Ledian**        |20 |Pansage           |20 |Hoothoot          |20 |
+|Spearow           |11 |**Gloom**         |10 |**Ariados**       |20 |
+|Scatterbug        |10 |Sewaddle          |10 |**Gloom**         |10 |
+|**Dedenne**       |10 |Scatterbug        |10 |Spinarak          |10 |
+|Ledyba            |9  |**Dedenne**       |10 |**Tangela**       |9  |
+|Pansage           |5  |**Doduo**         |5  |**Pachirisu**     |5  |
+|**Pachirisu**     |4  |**Pachirisu**     |5  |**Farfetch'd**    |2  |
+|**Farfetch'd**    |1  |**Farfetch'd**    |5  |                  |   |
+|                  |   |**Tangela**       |5  |                  |   |
+
+Throughout this guide, whenever we are guaranteed the ability to catch Pokemon that was previously randomly determined such as Pachirisu, I will bold it both times.
+
+Grab a hidden *Exp. Candy XS* here, then head up and get a hidden *Rawst Berry* and *Rare Candy*, being careful to avoid stepping on the suspicious patch of grass. Head down and to the left, you'll see Meteor Grunts. You'll actually have a choice now on how to proceed - you can either step on the suspicious patch of grass or step on tall grass near the grunts to end up in a trap, or carefully sneak around the grunts and head up. 
+
+The jungle is huge, so I explain the results of this choice first, guide both routes to the same location, then explore the jungle after this convergence. 
+
+### Choice: Trapped in a Cage
+
+If you were trapped in a cage, read on, otherwise, jump to the next section.
+
+You'll wake up in a cage and Fern will taunt you here.
+
+Relationship Point Choices:
+- Reject begging Fern (-1 Fern)
+- Beg Fern once, then reject him (Neutral)
+- Beg Fern twice, then reject him (+1 Fern)
+- Beg Fern three times, then reject him (+2 Fern)
+- Beg Fern four times (+5 Fern)
+
+If you do reject him, eventually you will be let out anyways. 
+
+Head up and to the right to free Cain from his cage.
+
+Relationship Point Choices:
+- Freed Cain from the cage (+1 Cain)
+
+Head down from here and talk to the lever. Heather will show up and pull the switch to activate these bridges.
+
+Relationship Point Choices:
+- Got stuck in a cage (-1 Heather)
+
+Head east from here, and go slightly south once you reach a Meteor Grunt. Continue south until you hit a Gentleman, then go straight east and follow the path up the hill via stairs. The house here is a healing house, should you need it.
+
+### Choice: Snuck Around the Grunts
+
+If you managed to carefully sneak around the grunts, read on, otherwise jump to the next section.
+
+Head up and to the right and you'll find Fern. 
+
+Relationship Point Choices:
+- Talked to Fern atop the hill (+1 Fern)
+
+The building to your right is a healing house, should you need it.
+
+### Exploring the Jungle
+
+Now, regardless of your choice you should be in the same place, so I can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the file will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
+
+Head back up and go left. Here you'll see a gentleman, and in this area a hidden *Liechi Berry* and *Great Ball*. Up a hill in the top right part of this valley you can chop a wiggly tree.
+
+Head back down the hill after the scene and go to the left. On this next hill you can obtain a hidden *X Speed*. To the northeast you'll find a hidden *Antidote*. Head back down.
+
+We'll get to the cave entrance at the top later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
+
+Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. After you grab the readout, step on the trap here. This brings us to the Underroot - but we will explore this area fully in a little bit. For now, grab the hidden *Exp. Candy S* in a rock to the right, jump down the ledge and take the stairs here to return to the familiar part of the jungle.
+
+That's it for this branch of the jungle - for now, we're gonna head all the way back to the healing house from earlier. Go straight down from here and follow the path across the bridge. Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
+
+Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*.
+
+Take the other path of the fork now. You'll find a hidden *Calcium* here. Head to the left across the bridge and pick up an *Exp. Candy M*. Specifically on sunny days, you can battle and catch **Tropius** here as well. It's very strong for this point in the game, so be careful.
+
+Head back across the bridge, and from here go down to find a hidden *Purple Shard* and a *Great Ball*. That pretty much covers the part of the jungle we have been able to access for now, so it's time to explore the Underroot. Nearby you'll see a trap spot on the ground, step on it to fall in.
+
+### Exploring the Underroot
+
+Hidden here is an *Exp. Candy S*. We can't do anything with these glowy rocks for a while, so head out of this area.
+
+The Underroot
+
+|Land              |%  |Old Rod           |%  |
+|------------------|---|------------------|---|
+|**Zigzagoon**     |20 |**Barboach**      |70 |
+|**Morelull**      |20 |**Chinchou**      |30 |
+|Noibat            |10 |
+|**Psyduck**       |10 |
+|**Kecleon**       |10 |
+|**Spinda**        |10 |
+|Woobat            |5  |
+|**Shuppet**       |5  |
+|**Phantump**      |5  |
+|**Bunnelby**      |5  |
+
+Head to the right first. You'll find a hidden *Chesto Berry* here. Take the nearby stairs to reach a new area of the jungle. You can find a hidden *Red Shard* and *Exp. Candy S* here. You can also battle and catch **Taillow** at the top.
+
+Back in the Underroot, take the path up from here and cut the wiggly tree. Take the nearby stairs to access another section of jungle. Go up here to find a hidden *Ether* and **Stantler**. 
+
+Follow the path all the way down and to the right. Inside a house here is a lady. She will tutor us a pretty good move... but only if you have a Grass-type starter. Since Grass type starters kinda suck compared to Fire-type and Water-type starters, here's a bit of compensation.
+
+Rhodochrine Jungle Move Tutor (If you chose a Grass-type Starter)
+
+|Move       |Price|
+|-----------|-----|
+|Giga Drain |Free |
+
+Before we leave this section of jungle, there is a broken building with some lights on to the left. Enter this building and defeat a Team Meteor Grunt to free Police Officer #3.
+
+Back in the Underroot go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
+
+Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poke Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
+
+Head down from here and take the stairs downward. Hug the left wall as you go down. You'll find a *Potion*, *Blue Shard*, *Energy Powder*, *Heavy Ball*, and an *Elemental Seed* on the ground. Use the Light Shard if you need it and head back up.
+
+At the first fork, now go to the right. Grab a hidden *Oran Berry* and a *Hyper Potion* on the ground. Back up from here, take a right at the next fork 
+Go to the right when you can, get a hidden *Ice Heal*, and emerge into the jungle once more.
+
+### Finishing Up in the Jungle
+
+Head out and to the right, and you'll actually pop out in Beryl Ward. There is a hidden *Super Potion* and a *PP Up* here. Head into this library.
+
+You can walk on the tops of bookshelves in here, do so to get *TM20 Safeguard* as well as the *Corrosive Field Readout*. Enter the door on the right. Inside you'll find an *Ill-Fated Doll* and by talking to Growlithe and then the crevasse you find will find out what happened to Police Officer #5. Reading on the job: never again.
+
+Enter the left room of the library if you'd like. Inside you'll meet a man.
+
+Relationship Point Choices:
+- Talk to Radomus in the library (+1 Radomus)
+
+Back outside, chop the tree to your left and enter the felled building. Beat the grunt and re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
+
+Relationship Point Choices:
+- Talk to Amaria in the jungle (+1 Amaria)
+
+Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area, so prepare your team as necessary. It's the last chance you have to find the officers to change the story as well. Head up.
+
+Meteor Manager Ace of Clubs (Super Potion). Field: Forest Field
+- Zorua, Lv. 25, @Telluric Seed, Ability: Illusion, Serious Nature, IVs: 20
+    - Pursuit
+    - Grass Knot
+    - Feint Attack
+    - Taunt
+- Baltoy, Lv. 26, Ability: Levitate, Serious Nature, IVs: 20
+    - Psybeam
+    - Rock Tomb
+    - Mud-Slap
+    - Grass Knot
+- Roselia, Lv. 26, @Enigma Berry, Ability: Leaf Guard, Serious Nature, IVs: 15
+    - Giga Drain
+    - Extrasensory
+    - Natural Gift
+    - Leech Seed
+- Braixen, Lv. 28, @Sitrus Berry, Ability: Magician, Serious Nature, IVs: 20
+    - Psybeam
+    - Fire Spin
+    - Hypnosis
+    - Flame Charge
+- PULSE Tangrowth A, Lv. 30, @Pecha Berry, Ability: Stamina Serious Nature, IVs: 10. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Rock
+    - Growth
+    - Mega Drain
+    - Stored Power
+    - Rock Tomb
+
+Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokemon in this guide, but that Pokemon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia as we've seen with Fern is a hard hitting and healing monster in the early game. With the PULSE in the back, this can be a tough fight, especially if you're not careful and let it use double-power Growth and/or let it collect Stamina boosts, since then it bowls you over with Stored Power and Mega Drain.
+
+One thing to consider is that past Braixen a Bug-type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to light the field up and watch their time minus Braixen and Baltoy burn passively each turn.
+
+Once you win, you can find a *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
+
+Relationship Point Choices:
+- Find all five officers before fighting Ace (+1 Heather, +1 Anna, +1 Shade)
+
+## Beryl Ward & Beryl Cemetery
+
+With that out of the way, we now can actually explore the main part of Beryl Ward. 
+
+Before we do anything else, talk to the backpacker nearby a dumpster down from the Pokemart. If you give him $5000 he will give you the *Magnetic Lure*, an amazing item that, when equipped by your party leader, guarantees you will encounter a Pokemon you haven't caught yet in an area. No more do you have to aimlessly wander around an area looking for that 4% encounter!
+
+Nearby, on clear days, you'll find another snax vendor. 
+
+Beryl Ward Snax Shop
+
+|Item       |Price      |
+|-----------|-----------|
+|*Pokesnax* |$650       |
+
+Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax.
+
+Inside the Pokemon center, an NPC will tell you a password: *easyhms*. This one was in the readme, but you can input it with a Data Chip if you didn't input it yet and Cut has been too annoying so far.
+
+Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poke Ball*.
+
+North Beryl Ward & Beryl Cemetery
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Fearow**        |20 |**Fearow**        |20 |Meowth            |44 |
+|Spearow           |20 |Doduo             |20 |**Noctowl**       |25 |
+|**Phanpy**        |14 |Ekans             |20 |Ekans             |20 |
+|**Arbok**         |11 |**Phanpy**        |14 |Hoothoot          |10 |
+|Doduo             |10 |**Arbok**         |11 |**Arbok**         |1  |
+|**Fletchling**    |10 |**Fletchling**    |10 |                  |   |
+|Ekans             |10 |Bunnelby          |5  |                  |   |
+|Bunnelby          |5  |                  |   |                  |   |
+
+|Headbutt          |%  |
+|------------------|---|
+|Pineco            |55 |
+|Burmy             |35 |
+|**Aipom**         |10 |
+
+Next, we're gonna head back through the jungle to get to the library. In the left room you can find a *TwistedSpoon*. Could be useful soon.
+
+Back in the jungle, explore around the area where we fought Ace. You'll find a hidden *Petaya Berry*, *Red Shard* as well as a *Great Ball*.
+
+That about wraps up everything we can do for now, so head into the abandoned gym at the top of the hill in Beryl.
+
+## VS. Agent Borealis
+
+Head into the gym.
+
+### Choice: Didn't Save Police Officers in Time
+
+If you didn't make this choice, skip ahead to the next subsection.
+
+If you want to access Corey's bedroom, you can turn all the pillars red.
+
+Head up and into the battle room.
+
+Agent Corey (2x Super Potion). Field: Corrosive Field
+- Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 10
+    - Acid
+    - Toxic Spikes
+    - Water Pulse
+    - Venom Drench
+- Mareanie, Lv. 26, @Telluric Seed, Ability: Merciless, Sassy Nature, IVs: 20
+    - Peck
+    - Bite
+    - Venoshock
+    - Toxic
+- Nidorina, Lv. 27, Ability: Hustle, Impish Nature, IVs: 20
+    - Double Kick
+    - Venom Drench
+    - Bite
+    - Disable
+- Croagunk, Lv. 27, @Black Glasses, Ability: Dry Skin, Bashful Nature, IVs: 10
+    - Sucker Punch
+    - Drain Punch
+    - Venoshock
+    - Mud Bomb
+- Skuntank, Lv. 27, Ability: Aftermath, Careful Nature, IVs: 15
+    - Pursuit
+    - Incinerate
+    - Smokescreen
+    - Acid Spray
+- Crobat, Lv. 30, Ability: Infiltrator, Timid Nature, IVs: 20
+    - Venom Drench
+    - Venoshock
+    - Air Cutter
+    - Roost
+  
+As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison-type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always on, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
+
+The key here is putting yourself in a position to be able to deal with Crobat. It's frail enough to die to one or two well placed super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at knocking out the fodder to open up Crobat for the rest of your team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison-type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail. Worst case scenario you can grind your team up to Level 35 since the cap is so high right now.
+
+### Choice: Saved Police Officers
+
+If you didn't make this choice, skip ahead to the next section.
+
+Talk to the chief to get the *Corrosive Mist Field Readout*. Defeat the officers milling about.
+
+Turn all of the pillars blue. Each one will also change its neighbors, so keep that in mind while you solve this puzzle.
+
+Talk to the agent in his room, then head up into the arena once you're ready.
+
+Agent Borealis (Super Potion). Field: Corrosive Mist Field atop Corrosive Field
+- Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 5
+    - Acid
+    - Bubble
+    - Smokescreen
+    - Venom Drench
+- Mareanie, Lv. 26, Ability: Merciless, Sassy Nature, IVs: 5
+    - Peck
+    - Bite
+    - Venoshock
+    - Protect
+- Nidorina, Lv. 27, Ability: Hustle, Impish Nature, IVs: 10
+    - Double Kick
+    - Venom Drench
+    - Bite
+    - Disable
+- Croagunk, Lv. 27, Ability: Dry Skin, Bashful Nature, IVs: 5
+    - Sucker Punch
+    - Drain Punch
+    - Venoshock
+    - Mud Bomb
+- Skuntank, Lv. 27, Ability: Aftermath, Careful Nature
+    - Pursuit
+    - Flamethrower
+    - Smokescreen
+    - Acid Spray
+- Crobat, Lv. 30, Ability: Infiltrator, Timid Nature, IVs: 6
+    - Venom Drench
+    - Venoshock
+    - Air Cutter
+    - Nasty Plot
+
+As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel-types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock, and if you let it boost it's basically over most of the time.
+
+On this field, you really have to find a way to very quickly take out the team without suffering too many casualties yourself and find a way to deal with Crobat, since it likes to revenge kill your Pokemon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well placed super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. I recommend using Fire moves too since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokemon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma, Numel and try to do a kill from the grave. Worst case scenario you can grind your team up to Level 35 since the cap is so high right now.
+
+# Aftershocks
+
+
+  
 # Appendices
 
 ## Full Password List
