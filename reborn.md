@@ -2000,6 +2000,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Super Potion). Field: Crysta
     - Rock Tomb
     - Bite
     - Howl
+  
 Their four rock types have their attacks boosted on the field. They're all pretty fast, especially Midday Lycanroc, so you have to have a bit of bulk to live. With the help of Victoria's fighting type moves though you will probably be able to find a way through this with a team of six.
 
 You can accept Victoria's fast travel request afterwards.
@@ -2030,6 +2031,7 @@ Apprentice Victoria (2x Super Potion). Field: No Field
     - Fire Fang
     - Double Kick
     - Lick
+
 Since last time, Victoria has evolved some of her team, but she shouldn't be too much of a threat if you've been able to defeat all the gym leaders to this point. She has a bit of diversity on her team: Kirlia and Pikachu can hit moderately hard with their STAB Special moves. Torracat will dampen a physical sweeper if you have one. Ultimately you can probably find a way to set up on Pancham or just overwhelm her in a 6v4.
 
 This is technically part of another gauntlet: time for another battle right after, though you do get healed.
@@ -2107,7 +2109,7 @@ Before we do though we can start a sidequest.
 
 ## Joining a Gang
 
-We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
+We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now. You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
 
 ### Choice: The Magma Gang
 
@@ -2193,9 +2195,9 @@ Bookworm Shelly (2x Hyper Potion). Field: Forest Field, Natural Rain
     - Struggle Bug
     - Dazzling Gleam
 
-I think this fight is wonderful because it sweeps the feet out from under new players. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is the rain that's present here - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire-types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
+I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is the rain that's present here - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire-types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
 
-To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire-type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Tons of options here if you think ahead about what your strategy will be.
+To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire-type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Also, Rock Slide. Tons of options here if you think ahead about what your strategy will be.
 
 Relationship Point Choices:
 - Defeat Shelly on your first try (+1 Victoria)
