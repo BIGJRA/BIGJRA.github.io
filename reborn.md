@@ -2109,7 +2109,7 @@ Before we do though we can start a sidequest.
 
 We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
 
-### The Magma Gang
+### Choice: The Magma Gang
 
 Skip to the next section if you chose the Aqua Gang.
  
@@ -2125,7 +2125,7 @@ We can now continue our ongoing stolen Pokemon quest as well. Just south of the 
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
 
-### The Aqua Gang
+### Choice: The Aqua Gang
 
 Skip to the next section if you chose the Magma Gang.
 
