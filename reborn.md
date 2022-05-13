@@ -42,10 +42,21 @@ Heavy Work In Progress :)
   - [Lapis Ward](#lapis-ward)
   - [The Grand Stairway](#the-grand-stairway)
   - [Joining a Gang](#joining-a-gang)
-    - [The Magma Gang](#the-magma-gang)
-    - [The Aqua Gang](#the-aqua-gang)
-    - [Getting the Bicycle](#getting-the-bicycle)
+    - [Choice: The Magma Gang](#choice-the-magma-gang)
+    - [Choice: The Aqua Gang](#choice-the-aqua-gang)
+    - [Getting the Bicycle and Zorua](#getting-the-bicycle-and-zorua)
   - [Cocoon Badge](#cocoon-badge)
+- [Escape! from Reborn City](#escape-from-reborn-city)
+  - [Lapis Ward Orphanage](#lapis-ward-orphanage)
+  - [Defeating the Rival Gang](#defeating-the-rival-gang)
+    - [Choice: The Magma Gang 2](#choice-the-magma-gang-2)
+    - [Choice: The Aqua Gang 2](#choice-the-aqua-gang-2)
+  - [Rock Smash Exploration](#rock-smash-exploration)
+    - [A Trip to the Stairway](#a-trip-to-the-stairway)
+    - [A Trip to the Slums](#a-trip-to-the-slums)
+    - [A Trip to Beryl Cave](#a-trip-to-beryl-cave)
+    - [A Trip to Citrine Mountain](#a-trip-to-citrine-mountain)
+  - [Omen Badge](#omen-badge)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -294,7 +305,7 @@ Head back up and to the right, and you'll find another trainer. The building dir
 
 Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you! 
 
-Head to the left of the Pokemon center, and go down. In a house, a guy will give you the *Old Rod*! 
+Head to the left of the Pokemon center, and go down. In the top of two trash paper tiles you can find a *Poison Gem*. In a house below, a guy will give you the *Old Rod*! 
 
 Back outside, we can actually fish in the dirty water.
 
@@ -496,7 +507,7 @@ Enter the next room and talk with Ace. We'll be wandering around the factory, de
 To the left across a bridge, you'll see one flashing terminal: XX7X. In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later... A terminal to the right shows 3XXX, and the one in the top right corner shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
 
 Relationship Point Choices:
-- Push the same elevator button as the floor you are on (-1 Fern, only once)
+- Push the same elevator button as the floor you are on (-1 Fern)
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right, and interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. In this room, use the terminal to discover the hint X8XX. Back outside, go left. In here is another terminal: 4XXX, plus one more with some lore. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. Beat the grunts and pickup the explosives!
 
@@ -2135,7 +2146,17 @@ Talk to the guys guarding the Lapis alleyway for a battle.
 
 Once you make it in, you'll find *TM41 Torment*. Talk to Archer in the back.
 
-Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Archer here. Then make your way to Ms. Craudberry's house down from the Pokemon Center. Head into the backroom.
+Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Archer here.
+
+Just for completeness, Archer won't be blocking the pond in the alleyway anymore so we can fish here now.
+
+Lapis Alleyway
+
+|Old Rod           |%  |
+|------------------|---|
+|Barboach          |100|
+
+Anyways, make your way to Ms. Craudberry's house down from the Lapis Pokemon Center. Head into the backroom.
 
 Inside, defeat the Magma associates here. You'll find a *Water Stone* as well as **Ponyta**. Head back to your alleyway after grabbing it and talk to Archer here. 
 
@@ -2143,13 +2164,15 @@ We can now continue our ongoing stolen Pokemon quest as well. Just south of the 
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. You'll learn that he already sold the Pokemon to someone in 7th Street, but he'll give you a *Metronome*. That's all we can do for now.
 
-### Getting the Bicycle
+### Getting the Bicycle and Zorua
 
 Regardless of your gang choice, head over to Madame Craudberry's house once more. Inside, she'll try to get you arrested, but if you have saved all the police officers they'll trust that you are not a gang member. Hehehe.
 
 Head outside and try to leave, and the cop will even give you a *Bike Voucher*!
 
 Enter the building below and trade it away to get the *Bicycle*! Heck yes.
+
+Now that we have our fancy bicycle, we can very quickly get all the way to Beryl Ward... so let's do that. Go onto the rooftop of the building where we once captured Helioptile on a clear night, and you'll see... Corey? Make your way to Peridot Ward next, where you'll encounter him near the Pokemart. Finally, head to North Obsidia Ward and enter the building to the left of the alleyway. Inside you'll find him once more... and be able to catch **Zorua**!
 
 ## Cocoon Badge
 
@@ -2204,6 +2227,484 @@ Relationship Point Choices:
 - Defeat Shelly on a second, third, etc. try (-1 Victoria)
 
 After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug* and also get to use Lv. 40 Pokemon and use Rock Smash in the field.
+
+# Escape! from Reborn City
+
+Head outside the gym after watching the scene in Shelly's room. After you head outside, you have another rival battle.
+
+Pretty Boy Cain (2x Super Potion). Field: No Field 
+- Brionne, Lv. 32, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 15
+    - Icy Wind
+    - Disarming Voice
+    - Bubble Beam
+    - Sing
+- Marowak (Marowak-Alola), Lv. 33, Ability: Lightning Rod, Adamant Nature, IVs: 15
+    - Flame Wheel
+    - Bonemerang
+    - Shadow Bone
+    - Will-O-Wisp
+- Grimer (Grimer-Alola), Lv. 35, Ability: Poison Touch, Brave Nature, IVs: 15
+    - Poison Fang
+    - Minimize
+    - Disable
+    - Knock Off
+- Nidoking, Lv. 36, Ability: Sheer Force, Jolly Nature, IVs: 31
+    - Thrash
+    - Double Kick
+    - Poison Tail
+    - Chip Away
+
+This battle probably won't be too tough if you could defeat Shelly. Nidoking hits hard, but it still has fairly weak STAB attacks. Defeat him with your best strategies. 
+
+Relationship Point Choices:
+- Agree to save Heather (+1 Cain)
+- Refuse to help Heather (-1 Cain)
+
+With that, Cain and Shelly will head over to the Orphanage. 
+
+## Lapis Ward Orphanage
+
+Head into the Orphanage as soon as the door opens. You'll be paired up with either Cain or Shelly depending on who you have more relationship points with at this moment.
+
+Relationship Point Choices:
+- Defeat the Orderlies with Cain (+1 Cain)
+- Defeat the Orderlies with Shelly (+1 Shelly)
+
+After this fight, you'll be free to explore. Keep in mind though:
+
+Relationship Point Choices:
+- Leave the Orphanage while partnered (-1 Cain, -1 Shelly, -1 Charlotte, -1 Noel, -1 Heather)
+
+But you can also gain points:
+
+Relationship Point Choices:
+- Talk to Shelly while partnered (+1 Shelly)
+
+We can now choose where to go.
+
+Relationship Point Choices:
+- Enter the hallway first before exploring upstairs (-1 Shelly)
+
+So, we're gonna head upstairs first. Defeat orderlies as you go up. You'll eventually get locked out from continuing, so head downstairs and talk to Anna again.
+
+Enter the open door on the first floor. Be careful about trying to enter the doors on the left.
+
+Relationship Point Choices:
+- The Player is male and tries to enter the Girls' Bathroom two times (-1 Shelly)
+
+Beat the orderlies in the room above. You can read the green books for some background on the new characters. Back outside, head down and to the left. Defeat more orderlies and pick up a *Data Chip*. Talk to the green computer screen nearby to open a lock. 
+
+Head back upstairs and go through the now-opened path.
+
+Relationship Point Choices:
+- Ignore Noel in the cage (-1 Noel)
+  
+Defeat the orderlies upstairs then open the patient cages. You can find a hidden *Great Ball* here. Grab the *Paralyze Heal* on your way down.
+
+On the first floor enter the room on the right.
+
+Relationship Point Choices:
+- Talk to Charlotte twice while she's in a cage (-2 Charlotte)
+
+Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*. Defeat some orderlies, then at the bottom grab the *Odd Incense* and the *Archive Key*. 
+
+Back in the left hallway, use the *Archive Key* to grab an *Exp. Candy L* and read some more books about the orphanage's characters. With that, head all the way up to the top of the orphanage to bust out.
+
+Dr. Sigmund Connal. Field: No Field
+- Electivire, Lv. 38, Ability: Motor Drive, Jolly Nature, IVs: 31
+    - Volt Switch
+    - Thunder Wave
+    - Low Kick
+    - Ice Punch
+- Musharna, Lv. 34, @Amplifield Rock, Ability: Telepathy, Serious Nature, IVs: 15
+    - Psychic Terrain
+    - Moonlight
+    - Psybeam
+    - Signal Beam
+- Hypno, Lv. 35, Ability: Insomnia, Modest Nature, IVs: 15
+    - Hypnosis
+    - Psychic Terrain
+    - Psychic
+    - Signal Beam
+- Rotom, Lv. 35, Ability: Levitate, Timid Nature, IVs: 15
+    - Volt Switch
+    - Ominous Wind
+    - Thunder Wave
+    - Confuse Ray
+- Raichu (Raichu-Alola), Lv. 36, Ability: Surge Surfer, Modest Nature, IVs: 15
+    - Volt Switch
+    - Psychic
+    - Nuzzle
+    - Fake Out
+
+You'll notice that the doctor has a strong team full of Electric and Psychic types. Electivire will often pivot to Musharna, who will use Psychic Terrain, guaranteeing it, Hypno, and Raichu huge bonuses. You can try to use your own Psychic attacks on the terrain against the electric types if you'd like, you can also stall out the Terrain if it is too much to handle. This can be a tough fight but you can find a way through!
+
+Outside, accept Anna's request for fast travel. We'll find ourselves back in the Underground Railnet. Head to the east and smash the rock to progress. 
+
+Underground Railnet Middle Area
+
+|Cave              |%  |
+|------------------|---|
+|Noibat            |30 |
+|Klink             |20 |
+|Geodude           |10 |
+|Graveler          |10 |
+|Woobat            |10 |
+|**Mawile**        |10 |
+|**Skorupi**       |9  |
+|**Klang**         |1  |
+
+You can also find a hidden *Pecha Berry*, *Carbos*, *Purple Shard*, *Red Shard*, and *Fire Gem* here. In the bottom right corner you can get the *Dull Key*. Open the gate on the right for a shortcut, then talk to the group at the top. Sounds like we're going to be taking on another gym leader soon, but before that there are tons of areas we can now access thanks to Rock Smash. Oh, and we get to strike at the heart of our enemy gang.
+
+## Defeating the Rival Gang
+
+It's time to help out our friendly gang once more.
+
+### Choice: The Magma Gang 2
+
+If you joined Aqua last chapter, skip ahead to the next section.
+
+Return to Maxwell in North Obsidia, then head over to the Aqua Gang's hideout in Lapis. Defeat the guards at the entrance. Grab *TM41 Torment* while you're here and prepare for a battle.
+
+Aqua Mastermind Archer (2x Berry Ice Cream). Field: No Field
+- Pelipper, Lv. 41, Ability: Drizzle, Modest Nature, IVs: 20
+    - Roost
+    - Tailwind
+    - Brine
+    - Ice Beam
+- Blastoise, Lv. 42, Ability: Torrent, Adamant Nature, IVs: 20
+    - Aqua Tail
+    - Bite
+    - Skull Bash
+    - Yawn
+- Sharpedo, Lv. 45, Ability: Speed Boost, Adamant Nature, IVs: 31
+    - Aqua Jet
+    - Crunch
+    - Slash
+    - Ice Fang
+
+This can be a tough fight since his levels are above your cap and he has Drizzle on his side. That said with no Damp Rock Pelipper is the only rain setter, and only for 5 turns, so you can pretty easily use Protect to make it go away and then go to town. His Sharpedo will outspeed you but doesn't hit incredibly hard, while his Blastoise can be tanky but shouldn't be too threatening outside of the rain.
+
+Once you win, the Aqua Gang will retreat. We can actually now access the pond in the back, nothing new though.
+
+Lapis Alleyway
+
+|Old Rod           |%  |
+|------------------|---|
+|Barboach          |100|
+
+Anyways, return to Maxwell at your alleyway to get **Houndour**. That's it with the Magma Gang for another few badges, however.
+
+### Choice: The Aqua Gang 2
+
+If you joined Magma last chapter, skip ahead to the next section.
+
+Return to Archer in Lapis, then head over to the Magma Gang's hideout in North Obsidia. Defeat the guards at the entrance. Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare for a battle.
+
+Magma Kingpin Maxwell (2x Berry Ice Cream). Field: No Field
+- Ninetales, Lv. 41, Ability: Drought, Modest Nature, IVs: 20
+    - Will-O-Wisp
+    - Payback
+    - Flamethrower
+    - Confuse Ray
+- Charizard, Lv. 42, Ability: Solar Power, Modest Nature, IVs: 20
+    - Dragon Rage
+    - Hidden Power
+    - Flame Burst
+    - Ancient Power
+- Houndoom, Lv. 45, Ability: Flash Fire, Adamant Nature, IVs: 31
+    - Fire Fang
+    - Feint Attack
+    - Thunder Fang
+    - Return
+
+This can be a tough fight since his levels are above your cap and he has Drought on his side. That said with no Heat Rock Ninetales is the only sun setter, and only for 5 turns, so you can pretty easily use Protect to make it go away and then go to town. His Houndoom is physical so doesn't hit very hard, while his Charizard is really only super threatening under the sun, so you can surely find a way through.
+
+Once you win, the Magma Gang will retreat. Behind where Maxwell was you can get a hidden *X Attack*. 
+
+Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with the Aqua Gang for another few badges, however.
+
+## Rock Smash Exploration
+
+The first place we can go that has new stuff is the Onyx Ward. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the move tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*. 
+
+In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*. 
+
+Make your way to the North Obsidia Ward. Here you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for trade items. It's pricey, but if you have a Pokemon like Graveler you're trying to evolve it's worth picking up.
+
+### A Trip to the Stairway
+
+Head over to the Grand Stairway and make your way to B1F. At the top right, smash a rock, pick up a hidden *Green Shard*, then go up. In this new room you can find a hidden *PP Up*, *Exp. Candy L*, and a stationary *Exp. Candy M*. Talk to the hiker in here for a *Mining Kit*. 
+
+The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items, picked via the following probabilities:
+
+|Item             |%     |
+|-----------------|------|
+|*Helix Fossil*   |1.17% |
+|*Root Fossil*    |0.78% |
+|*Claw Fossil*    |0.78% |
+|*Dome Fossil*    |0.78% |
+|*Skull Fossil*   |0.78% |
+|*Armor Fossil*   |0.78% |
+|*Sun Stone*      |1.17% |
+|*Shiny Stone*    |1.17% |
+|*Dawn Stone*     |1.17% |
+|*Ice Stone*      |1.17% |
+|*Dusk Stone*     |1.17% |
+|*Thunder Stone*  |1.17% |
+|*Fire Stone*     |1.17% |
+|*Water Stone*    |1.17% |
+|*Leaf Stone*     |1.17% |
+|*Moon Stone*     |1.17% |
+|*Oval Stone*     |1.94% |
+|*Everstone*      |1.94% |
+|*Star Piece*     |2.91% |
+|*Rare Bone*      |1.94% |
+|*Revive*         |2.91% |
+|*Max Revive*     |0.97% |
+|*Light Clay*     |1.94% |
+|*Hard Stone*     |1.94% |
+|*Heart Scale*    |16.50%|
+|*Iron Ball*      |1.94% |
+|*Odd Keystone*   |0.97% |
+|*Heat Rock*      |1.94% |
+|*Damp Rock*      |1.94% |
+|*Smooth Rock*    |1.94% |
+|*Icy Rock*       |1.94% |
+|*Amplifield Rock*|1.94% |
+|*Red Shard*      |7.77% |
+|*Green Shard*    |7.77% |
+|*Purple Shard*   |7.77% |
+|*Blue Shard*     |7.77% |
+|*Insect Plate*   |0.39% |
+|*Dread Plate*    |0.39% |
+|*Draco Plate*    |0.39% |
+|*Zap Plate*      |0.39% |
+|*Fist Plate*     |0.39% |
+|*Flame Plate*    |0.39% |
+|*Meadow Plate*   |0.39% |
+|*Earth Plate*    |0.39% |
+|*Icicle Plate*   |0.39% |
+|*Toxic Plate*    |0.39% |
+|*Mind Plate*     |0.39% |
+|*Stone Plate*    |0.39% |
+|*Sky Plate*      |0.39% |
+|*Spooky Plate*   |0.39% |
+|*Iron Plate*     |0.39% |
+|*Splash Plate*   |0.39% |
+|*Pixie Plate*    |0.39% |
+
+We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room but of course feel free to break them as you see them.
+
+Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly.
+
+### A Trip to the Slums
+
+Next, we're going to head on over to the Obsidia Slums. On the first floor of the main area of the slums take the top left escalator down to reach B1F. Then go between the escalators through the door here, and use the Dull Key inside. Grab a hidden *Calcium* then enter the next room.
+
+Slums Playground Entrance Room
+
+|Cave              |%  |
+|------------------|---|
+|Pancham           |50 |
+|Pidove            |24 |
+|Mankey            |15 |
+|Watchog           |9  |
+|**Primeape**      |2  |
+
+Grab the *Super Repel* and enter the next room.
+
+Slums Playground Main Room
+
+|Cave              |%  |
+|------------------|---|
+|Pancham           |40 |
+|Watchog           |19 |
+|Mankey            |15 |
+|Pidove            |14 |
+|Trubbish          |10 |
+|Primeape          |2  |
+
+You can find a *Sun Stone* on the floor. The hidden items in this room are *Purple Shard*, *Red Shard*, *Full Heal*, and *Protein*.
+
+You'll need to defeat the Pangoro around the room and activate the switches beyond them. Once you've defeated the third in the middle, you will get **Scraggy**! Afterwards you can pick up a *Brave Mint*, *Exp. Candy L*, and hidden *Exp. Candy XL* and *Full Restore*.
+
+Exit this area and make your way to the top right corner of the main room in the slums. Go down the escalator then enter the room on the right side. Down the stairs you can smash some rocks and head in to a new area of the Railnet.
+
+Underground Railnet Tracks Area
+
+|Cave              |%  |
+|------------------|---|
+|Noibat            |30 |
+|Klink             |25 |
+|Geodude           |10 |
+|Graveler          |10 |
+|Woobat            |10 |
+|Mawile            |9  |
+|Skorupi           |4  |
+|**Drapion**       |1  |
+|Klang             |1  |
+
+Pick up the *Light Ball* and hidden 2 *Common Candies* and *Red Shard*. You can smash the dark spot on the way to access another area. Grab the hidden *Hyper Potion*, *Purple Shard*, and *Dusk Ball* as you sneak through this path. Smash the wall on the other side and push the switch here, then go left.
+
+We don't have Flash yet, so this area can be a bit annoying to search for items and such. In the top right corner you can smash a rock to free a guy. You'll find hidden *X Sp. Atk* and *Rock Gem* nearby. There's also a smash wall above you containing an *Ability Capsule*. Make your way down the stairs to the right. You'll find a hidden *Green Shard*. Go down more stairs and go straight up. Inside a smash wall you can find *TMX8 Flash*... but we don't have the badge to use it yet. Darn.
+
+Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a *Dusk Stone*. Inside another smash wall you can find the *Cave Field Readout*. Before you leave this area though, headbutt the tall iron pole here to catch an **Aron**. Nice.
+
+Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokemon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
+
+Department Store 5F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Great Ball*   |$600           |
+|*Super Potion* |$700           |
+|*Super Repel*  |$700           |
+|*Full Heal*    |$600           |
+|*Poke Doll*    |$1000          |
+
+The first buyable Great Balls and Super Repels? Sign me up.
+
+Department Store 5F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*HP Up*        |$9800          |
+|*Protein*      |$9800          |
+|*Carbos*       |$9800          |
+|*Zinc*         |$9800          |
+|*Calcium*      |$9800          |
+|*Iron*         |$9800          |
+
+The Power Items downstairs may be 50% more expensive than these but you can buy them just once and use them infinitely many times while these are consumable. No reason to ever buy here.
+
+### A Trip to Beryl Cave
+
+Next, make your way all the way back to Beryl Ward. In the graveyard area we can smash some rocks to reach a new cave.
+
+Beryl Cave
+
+|Cave              |%  |
+|------------------|---|
+|Scatterbug        |30 |
+|Morelull          |30 |
+|Bunnelby          |15 |
+|Noibat            |15 |
+|**Spewpa**        |4  |
+|**Shiinotic**     |4  |
+|**Diggersby**     |1  |
+|**Vivillon**      |1  |
+
+On the first floor you'll find a hidden *Flying Gem*, *Burn Heal*, *Blue Shard*, and 2 *Ethers*. On the second you'll find a hidden *Green Shard*, *Awakening*, *Great Ball*, and a *Link Stone* in the cage which you'll need to open using a lever in the other. You can also find **Nidorina** in here who will go with you after seeing the Silver Ring. Pick up the *Rock Incense* and continue to the next floor. Here, you'll find hidden *Blue Shard*, *Green Shard*, and *Purple Shard*. Exit at the bottom.
+
+Well, we're back in the Rhodochrine Jungle, in a new area this time. You can find hidden *Ultra Ball*, *Bug Gem*, and *Big Mushroom* here, as well as *TM05 Roar*. 
+
+On windy days, you can have a battle!
+
+Pokemon Tribe. Field: Forest Field
+- Nuzleaf, Lv. 20, Serious Nature, IVs: 10
+- Nuzleaf, Lv. 25, Serious Nature, IVs: 10
+- Nuzleaf, Lv. 25, Serious Nature, IVs: 10
+- Nuzleaf, Lv. 30, Serious Nature, IVs: 10
+- Nuzleaf, Lv. 30, Serious Nature, IVs: 10
+- Shiftry, Lv. 55, Serious Nature, IVs: 10
+
+Just gotta find a way to hit Shiftry with a Bug move and you'll probably win here. As a reward, you'll get **Nuzleaf** by talking to it.
+
+The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu**. 
+
+### A Trip to Citrine Mountain
+
+Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
+
+Citrine Mountain 2F
+
+|Cave                   |%  |Old Rod           |%  |
+|-----------------------|---|------------------|---|
+|Woobat                 |30 |Remoraid          |70 |
+|**Bergmite**           |30 |Basculin          |30 |
+|Phanpy                 |15 |                  |   |
+|**Cubchoo**            |14 |                  |   |
+|**Sandshrew (Alolan)** |5  |                  |   |
+|**Donphan**            |4  |                  |   |
+|**Sandslash (Alolan)** |1  |                  |   |
+|**Beartic**            |1  |                  |   |
+
+
+Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal.
+
+Next, go down from the top of the area, then choose to go down at the next fork. Go down at the fork after that to talk to **Croagunk** who will join us thanks to the Silver Ring. Grab a hidden *Burn Heal* and return to the first fork.
+
+This time, go up. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Protein*, and *Hyper Potion*. It will fork again. Down the left fork you can find a hidden *Hyper Potion*, *Purple Shard*, and *Shoal Salt* and pick up the *Short-Circuit Field Readout* here. Will be useful soon!
+
+Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
+
+Pokemon Savage. Field: 
+- Beartic, Lv. 65, Serious Nature, IVs: 10
+  - Blizzard
+  - Flail
+  - Hail
+  - Rest
+
+This looks like quite the intimidating battle, but it has default moves. Blizzard will tear you up but it only has 5 PP, so if you can stall those out and get a Ghost type onto the field you're solid. It does like to heal but if you can set up somehow you should be ok. After winning, you'll get **Smoochum**.
+
+Relationship Point Choices:
+- Save Smoochum (+2 Blake)
+
+## Omen Badge
+
+That wraps up all the sidequests for now, so enter the power plant on the east side of the Beryl Bridge near Citrine Mt. 
+
+Yureyu Power Plant
+
+|Cave              |%  |
+|------------------|---|
+|**Voltorb**       |30 |
+|Klink             |30 |
+|**Yamask**        |15 |
+|**Duskull**       |14 |
+|**Togedemaru**    |10 |
+|Klang             |1  |
+
+Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle.
+
+Entity Shade (2x Hyper Potion). Field: Short-Circuit Field
+- Gengar, Lv. 35, @Wide Lens, Ability: Cursed Body, Bashful Nature, IVs: 31
+    - Hypnosis
+    - Dream Eater
+    - Shadow Ball
+    - Thunderbolt
+- Dhelmise, Lv. 35, @Lum Berry, Ability: Steelworker, Brave Nature, IVs: 25
+    - Brick Break
+    - Giga Drain
+    - Anchor Shot
+    - Shadow Claw
+- Rotom, Lv. 37, @Leftovers, Bold Nature, IVs: 25
+    - Pain Split
+    - Confuse Ray
+    - Shadow Ball
+    - Discharge
+- Banette, Lv. 36, @Synthetic Seed, Ability: Cursed Body, Bashful Nature, IVs: 31
+    - Shadow Claw
+    - Knock Off
+    - Dazzling Gleam
+    - Destiny Bond
+- Doublade, Lv. 37, @Synthetic Seed, Ability: No Guard, Brave Nature, IVs: 31 (0 Speed)
+    - Gyro Ball
+    - Shadow Claw
+    - Brick Break
+    - Swords Dance
+- Mimikyu, Lv. 38, @Sitrus Berry, Ability: Disguise, Jolly Nature, IVs: 31
+    - Thunderbolt
+    - Swords Dance
+    - Shadow Claw
+    - Play Rough
+
+Finally time to take on the Ghost-type leader. If you check your field notes for Short-Circuit right away you'll probably notice some of the things that make Shade difficult to fight - most of his Ghost-type moves get a boost on this field, but so do the Electric-type moves on half of his team. He also has near full IV's on his entire team for the first time. Gengar is a solid lead that likes to hit really hard or put you to sleep, so you might need to plan ahead with some priority or anti-sleep measures. Doublade and Banette give themselves a bit of bulk with their seeds while Mimikyu's Disguise ability infamously gives it a free turn to get to +2 Attack or revenge kill for free. 
+
+That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric-type moves, so if you have a strategy using Gear Grind or an Electric-type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
+
+After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can of course use Flash now.
 
 # Appendices
 
