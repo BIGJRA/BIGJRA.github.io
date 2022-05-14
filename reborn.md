@@ -2626,16 +2626,16 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 
 Citrine Mountain 2F
 
-|Cave                   |%  |Old Rod           |%  |
-|-----------------------|---|------------------|---|
-|Woobat                 |30 |Remoraid          |70 |
-|**Bergmite**           |30 |Basculin          |30 |
-|Phanpy                 |15 |                  |   |
-|**Cubchoo**            |14 |                  |   |
-|**Sandshrew (Alolan)** |5  |                  |   |
-|**Donphan**            |4  |                  |   |
-|**Sandslash (Alolan)** |1  |                  |   |
-|**Beartic**            |1  |                  |   |
+|Cave                   |%  |
+|-----------------------|---|
+|Woobat                 |30 |
+|**Bergmite**           |30 |
+|Phanpy                 |15 |
+|**Cubchoo**            |14 |
+|**Sandshrew (Alolan)** |5  |
+|**Donphan**            |4  |
+|**Sandslash (Alolan)** |1  |
+|**Beartic**            |1  |
 
 
 Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal.
