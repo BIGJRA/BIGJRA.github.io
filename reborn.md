@@ -57,6 +57,13 @@ Heavy Work In Progress :)
     - [A Trip to Beryl Cave](#a-trip-to-beryl-cave)
     - [A Trip to Citrine Mountain](#a-trip-to-citrine-mountain)
   - [Omen Badge](#omen-badge)
+- [Poison In Vein](#poison-in-vein)
+  - [Blacksteam Factory](#blacksteam-factory)
+  - [Apophyll Beach](#apophyll-beach)
+  - [Apophyll Cave](#apophyll-cave)
+  - [Pyrous Mountain](#pyrous-mountain)
+  - [VS. The Sensei](#vs-the-sensei)
+- [Poison In Vain](#poison-in-vain)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -1461,7 +1468,7 @@ Rhodochrine Jungle
 |**Farfetch'd**    |1  |**Farfetch'd**    |5  |                  |   |
 |                  |   |**Tangela**       |5  |                  |   |
 
-Throughout this guide, whenever we are guaranteed the ability to catch Pokemon that was previously randomly determined such as Pachirisu, I will bold it both times.
+Throughout this guide, whenever we are guaranteed the ability to catch Pokemon that was previously randomly determined such as Pachirisu, I will bold it both times. Catch a Ledian for an in-game trade later.
 
 Grab a hidden *Exp. Candy XS* here, then head up and get a hidden *Rawst Berry* and *Rare Candy*, being careful to avoid stepping on the suspicious patch of grass. Head down and to the left, you'll see Meteor Grunts. You'll actually have a choice now on how to proceed - you can either step on the suspicious patch of grass or step on tall grass near the grunts to end up in a trap, or carefully sneak around the grunts and head up. 
 
@@ -2705,6 +2712,360 @@ Finally time to take on the Ghost-type leader. If you check your field notes for
 That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric-type moves, so if you have a strategy using Gear Grind or an Electric-type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
 
 After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can of course use Flash now.
+
+# Poison In Vein
+
+Head out from the Abandoned Power Plant and return to Jasper Ward and attempt to enter Peridot. You'll meet up with Cain here, so follow him into the Police Station. 
+
+## Blacksteam Factory
+
+Head to the factory on the west side of Peridot. We can talk to the characters here for some points.
+
+Relationship Point Choices:
+- Tell Cain we can trust Ace (+1 Ace, +1 Amaria, -1 Cain)
+- Tell Cain we cannot trust Ace (+1 Cain, -1 Ace)
+
+Talk to Ace and tell them your favorite nature, and they'll give you the respective *Mint*.
+
+Relationship Point Choices:
+- Get a mint from Ace (+1 Ace)
+
+Talk to Amaria to get on top of the building, and head in. Defeat the grunts, then go down the stairs.
+
+Relationship Point Choices:
+- Tell Amaria you trust her (+1 Amaria)
+- Tell Amaria you don't trust her (-1 Amaria)
+
+Relationship Point Choices:
+- Tell Ace you think they might be a double double agent (+1 Ace)
+- Tell Ace you don't think they could be a double double agent (-1 Ace)
+
+With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto. To get this Ditto, wake up Abra with Loudred, then use Abra to teleport Vanillite out of the top left cage. Then use Abra again to teleport Makuhita to the top left cage. Talk to that cage to get **Ditto**! 
+
+From here, teleport Vanillite out of the cage nearest the guard - I will call this the "attack" cage. You'll want to then teleport Cyndaquil into the attack cage. The guard will stop us from attacking however. So, talk to Loudred to lose your hearing then to Jigglypuff to put the guard to sleep. Make Cyndaquil attack the bars.
+
+Repeat this process twice more, with Vanillite and Roggenrola in the attack cage, and you'll be able to escape. You can use Loudred to wake up the guard for a battle if you'd like. What's better, you can even teleport the guard into a cage. Nice.
+
+Pick up a hidden *Dire Hit* on this floor, then go down the stairs to the left. In this room you can find a *Magnet Powder*, *Exp. Candy L*, *TM49 Echoed Voice* and the *PULSE Readout 04*. 
+
+Head back upstairs and take the stairs on the right to 1F. Beat the grunts and activate the wall panels. Pick up a *Super Potion* and hidden *Purple Shard* and *Super Repel*. 
+
+Towards the bottom of the area you'll find more stairs, so take these to go up. Go to the right here and you'll find a machine with some green lights on it. Inside, you can get *Exp. Candy L*. You can also find a *Thunderstone* and a hidden *Revive*. Activate the panel at the top and go back down. To the left, you'll see an open door. Get ready for battle.
+
+Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field
+- Glaceon, Lv. 37, @Never-Melt Ice, Ability: Ice Body, Hardy Nature, IVs: 31
+    - Ice Shard
+    - Icy Wind
+    - Mirror Coat
+    - Bite
+- Espeon, Lv. 37, @Twisted Spoon, Ability: Magic Bounce, Modest Nature, IVs: 31
+    - Morning Sun
+    - Psychic
+    - Signal Beam
+    - Yawn
+- Umbreon, Lv. 37, @Lum Berry, Ability: Synchronize, Adamant Nature, IVs: 31
+    - Moonlight
+    - Assurance
+    - Quick Attack
+    - Confuse Ray
+- PULSE Muk, Lv. 42, @Leftovers, Ability: Protean, Modest Nature, IVs: 31. Stat Spread: 105/105/70/40/97/250. 
+    - Sludge Wave
+    - Mud Bomb
+    - Muddy Water
+    - Discharge
+
+This time ZEL comes at us with both a PULSE and three Eeveelutions. The first three members of the team aren't particularly awful - something with a bit of physical bulk and some healing can take Umbreon and a fast physical attacker or two can deal with Glaceon and Espeon.
+
+Of course, the PULSE can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokemon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last. 
+
+Once you win, you'll get the *Harbor Key*. 
+
+## Apophyll Beach
+
+Make your way to the Coral Ward and enter the only remaining locked warehouse. Inside, you can take the boat to Apophyll Beach!
+
+As soon as you enter, go straight left and weave between the hills to get a *Wave Incense*.
+
+Apophyll Beach
+
+|Cave              |%  |Rock Smash        |%  |Old Rod           |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Sandygast**     |98 |**Krabby**        |90 |Grimer            |100|
+|**Palossand**     |2  |**Corphish**      |5  |                  |   |
+|                  |   |**Binacle**       |5  |                  |   |
+
+You can also catch **Pyukumuku** chilling all around the beach.
+
+Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *Pokesnax*, *Common Candy*, *Full Heal*, *Blue Shard*. 
+
+You'll enter the Apophyll Academy map by going to the left at the top. Go all the way around the academy sticking to this map: hidden here are *Super Potion*, *Shoal Shell*,  *Blue Shard*, *Full Heal*, and *Soft Sand*. Back down at the academy's front entrance, go down from here. You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
+
+Apophyll Academy / Apophyll Beach West
+
+|Rock Smash        |%  |Old Rod           |%  |
+|------------------|---|------------------|---|
+|Geodude           |60 |Grimer            |100|
+|**Shuckle**       |39 |                  |   |
+|Binacle           |1  |                  |   |
+
+Before we continue the story, head to the left side of the academy to reach a new section of beach. Across the wide band from the Pyrous Mountain entrance at the bottom to the Apophyll Cave entrance at the top, you'll find hidden *Swift Wing*, *Green Shard*, *Star Piece*, *Telluric Seed*, 3 *Shoal Shells*, 2 *Stardusts*, 2 *Purple Shards*, *Exp. Candy L*, *X Sp. Def*, and *Red Shard*. 
+
+If it is storming, you can find a **Corsola** on the left side of the area who will join you in exchange for snax.
+
+Head back to the Apophyll Academy. Now, we're going to head inside.
+
+Apophyll Academy Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|*Super Potion* |$700       |
+|*Common Candy* |$150       |
+|*Antidote*     |$100       |
+|*Awakening*    |$250       |
+|*Paralyze Heal*|$200       |
+|*Burn Heal*    |$250       |
+|*Escape Rope*  |$550       |
+|*Super Repel*  |$700       |
+|*Poke Ball*    |$200       |
+
+Head up to reach the middle part of the area. Fight some trainers and pick up a hidden *Guard Spec.* Now we are going to enter the six doors in this area: the top left has a *Black Belt*, the girl in the bottom left wants us to steal a TV for her (in a bit), the Dudebro in the top right wants Protein in exchange for his *Ashen Beach Field Readout*, the guy in the middle right will give us *Pure Incense*, the bottom right room contains a person who will tell us about the *unrealtime* password and a person who judges Hidden Power types. 
+
+Enter the area at the top, then go up the stairs. Talk to every NPC here and agree to study with those who ask. One is a tutor.
+
+Apophyll Academy Move Tutor
+
+|Move       |Price          |
+|-----------|---------------|
+|Gastro Acid|1 Blue Shard   |
+|Recycle    |2 Purple Shards|
+|Endeavor   |3 Green Shards |
+|Pain Split |3 Red Shards   |
+
+Head out the door to the right, then go down. In the next room talk to the NPCs again and study with them. Head out the door to the right and talk to the girl on the path to get **Meditite**. 
+
+Relationship Point Chocies:
+- Obtain Meditite (+1 Victoria)
+
+Back down from here, attempt to steal the TV. Once you win, return to the girl who requested it to get *Department Store Sticker: Meditite*. 
+
+Department Store 6F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Kebia Berry*  |$1200          |
+|*Shuca Berry*  |$1200          |
+|*Coba Berry*   |$1200          |
+|*Haban Berry*  |$1200          |
+|*Hasib Berry*  |$1200          |
+|*Colbur Berry* |$1200          |
+|*Babiri Berry* |$1200          |
+|*Chilan Berry* |$1200          |
+|*Roseli Berry* |$1200          |
+
+Department Store 6F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Occa Berry*   |$1200          |
+|*Passho Berry* |$1200          |
+|*Wacan Berry*  |$1200          |
+|*Rindo Berry*  |$1200          |
+|*Yache Berry*  |$1200          |
+|*Payapa Berry* |$1200          |
+|*Tanga Berry*  |$1200          |
+|*Charti Berry* |$1200          |
+|*Chople Berry* |$1200          |
+
+The type berries are all pretty useful when you need them, but I would recommend only stocking up when you know you need some because of the price.
+
+Anyways, back in Apophyll we are next going to explore the optional area Apophyll Cave at the very top of the beach.
+
+## Apophyll Cave
+
+Apophyll Cave 1F
+
+|Cave              |%  |Rock Smash        |%  |
+|------------------|---|------------------|---|
+|Graveler          |30 |Geodude           |60 |
+|Crabrawler        |25 |Nosepass          |40 |
+|Noibat            |20 |                  |   |
+|Numel             |18 |                  |   |
+|**Stunfisk**      |7  |                  |   |
+
+We will eventually be able to trade Stunfisk later on, so get one if you can.
+
+In item balls you can find the *Oval Charm*, and *Dragon Memory*. Hidden on the first floor is a *Heat Rock*, *Blue Shard*, *Super Potion*, and *Exp. Candy M*.
+
+The NPC in the top right will do an in-game trade: your Ledian for his **Shieldon**.
+
+Apophyll Cave 2F
+
+|Cave              |%  |Rock Smash        |%  |
+|------------------|---|------------------|---|
+|Crabrawler        |25 |Geodude           |60 |
+|**Dwebble**       |24 |Nosepass          |40 |
+|Graveler          |20 |                  |   |
+|Numel             |14 |                  |   |
+|Noibat            |10 |                  |   |
+|Stunfisk          |6  |                  |   |
+|**Crustle**       |1  |                  |   |
+
+On the second floor you can find in item balls *Exp. Candy L*, *Water Stone*, and *Zoom Lens*, while hidden items include *Red Shard*, *Ether*, *Potion*, *Paralyze Heal*, and *Burn Heal*.
+
+## Pyrous Mountain
+
+Now we can continue with the story. Head into the meditation area to the south of the academy and talk to the pink haired lady.
+
+Relationship Point Choices:
+- Tell Kiki you are a new student (+1 Cal, +1 Victoria)
+
+Head into the back room of the academy and talk to Kiki again. She will tell us that we have to battle Victoria or we have to battle Cal. We actually can do both of them, so I will cover both fights. If you feel like skipping one of them, you can.
+
+To fight Victoria, head into the courtyard of the academy.
+
+Apprentice Victoria (2x Choc Ice Cream). Field: Ashen Beach
+- Pangoro, Lv. 38, @Shell Bell, Ability: Iron Fist, Adamant Nature, IVs: 30
+    - Bullet Punch
+    - Payback
+    - Strength
+    - Circle Throw
+- Mienfoo, Lv. 38, @Muscle Band, Ability: Regenerator, Adamant Nature, IVs: 30
+    - Drain Punch
+    - Fake Out
+    - Meditate
+    - Rock Tomb
+- Raichu (Raichu-Alola), Lv. 39, Ability: Surge Surfer, IVs: 30
+    - Hidden Power
+    - Nasty Plot
+    - Psychic
+    - Thunderbolt
+- Gallade, Lv. 40, @Shell Bell, Ability: Justified, Adamant Nature, IVs: 30
+    - Leaf Blade
+    - Night Slash
+    - Psycho Cut
+    - Swords Dance
+- Incineroar, Lv. 41, @Telluric Seed, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Strength
+    - Darkest Lariat
+    - Iron Head
+    - Fire Fang
+
+Victoria is starting to really beef up her team but still isn't incredibly tough. She picked up a Mienfoo and finally evolved her other four team members, so they can actually deal damage now. You'll notice from the field notes that Strength and Meditate are boosted on this field, so watch out for those. With good coverage and/or exploiting the field you can win this battle!
+
+Relationship Point Choices:
+- Defeat Victoria at Apophyll Academy (+1 Victoria)
+
+Now I will tackle climbing Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually. It is located at the bottom left corner of Apophyll Beach.
+
+Pyrous Mountain
+
+|Cave                   |%  |
+|-----------------------|---|
+|Numel                  |25 |
+|**Diglett (Alolan)**   |20 |
+|Noibat                 |14 |
+|Slugma                 |10 |
+|**Sawk**               |10 |
+|**Throh**              |10 |
+|Graveler               |6  |
+|**Dugtrio (Alolan)**   |4  |
+|**Magcargo**           |1  |
+
+You can also find Magcargo by smashing the nearby pillars. Anyways, nothing to do on 1F so go to B1F via the ladder. You'll see a pillar glowing, which means we can drain lava by rock smashing it. Do so, then go down the ladder to the left. Grab a hidden *Red Shard* and drain the lava. Head up the ladder and immediately come back down. If it is still glowing, you can smash the pillar to get **Turtonator**. This is one of two possibilities of a randomly determined event.
+
+Back on B1F, you'll see that the lava has drained, so go into the empty pool and go down. Head down the ladder here, and you'll find a hidden *Charcoal*. If you didn't get Turtonator earlier, there will be a **Heatmor** here to catch. Back upstairs, jump down the hole in the pool to get a *Flame Orb* as well as the *Super-heated Field Readout*.
+
+Head back to 1F, where the lava will now be drained as well. Follow the path up to 3F. A lava pool will force you to the left back to 2F, where you can drain the lava. Take the ladder to 1F then head to the left to drain it again. Finally, return to B1F then B2F to finish draining the lava as we did before. 
+
+Make your way back to 3F, then go across the empty pool. On 4F you can find a hidden *X Defend* before exiting to the peak. The peak hides a *Exp. Candy L*.
+
+Igneous Cal (2x Hyper Potion). Field: Super-heated Field
+- Barbaracle, Lv. 38, Ability: Tough Claws, Brave Nature, IVs: 20
+    - Stealth Rock
+    - Slash
+    - Scald
+    - Rock Slide
+- Turtonator, Lv. 38, Ability: Shell Armor, Bashful Nature, IVs: 20
+    - Dragon Pulse
+    - Flamethrower
+    - Head Smash
+    - Revenge
+- Hakamo-o (Hakamo-O), Lv. 39, Ability: Soundproof, Adamant Nature, IVs: 31
+    - Sky Uppercut
+    - Dual Chop
+    - Headbutt
+    - Rock Tomb
+- Typhlosion, Lv. 40, Ability: Blaze, Modest Nature, IVs: 20
+    - Solar Beam
+    - Hidden Power
+    - Sunny Day
+    - Flame Charge
+- Charizard, Lv. 39, Ability: Blaze, Adamant Nature, IVs: 20
+    - Thunder Punch
+    - Fire Punch
+    - Dragon Claw
+    - Wing Attack
+- Magmortar, Lv. 41, Ability: Flame Body, Modest Nature, IVs: 31
+    - Focus Blast
+    - Thunderbolt
+    - Solar Beam
+    - Lava Plume
+
+Cal now has a full team of six and of course gets the full benefit of the field. It boosts Scald as well as the Fire moves, and can turn into the Burning Field if Magmortar gets to use Lava Plume. Aside from Scald your own Water types will have a tougher time on this field. Luckily, he still makes some suboptimal moves - his Typhlosion hits hardest with Solar Beam and his Charizard is physical, for example. Past Hakamo-o a Rock type or two can pretty much destroy his whole team. 
+
+Relationship Point Choices:
+- Defeat Cal atop Pyrous Mountain (+2 Cal)
+
+Return to Kiki's room once you're done with your chosen battle(s) and talk to them inside.
+
+Relationship Point Choices:
+- Tell Victoria you cannot keep a secret (-1 Victoria)
+
+## VS. The Sensei
+
+To finish off this section, we have to battle Kiki in the main courtyard. Prepare your team because this is a toughie. Make sure to save before, just in case.
+
+Sensei Kiki (2x Hyper Potion). Field: Ashen Beach
+- Machamp, Lv. 40, @Leftovers, Ability: No Guard, Adamant Nature, IVs: 20
+    - Strength
+    - Meditate
+    - Rock Slide
+    - Payback
+- Toxicroak, Lv. 41, Ability: Dry Skin, Adamant Nature, IVs: 20
+    - Meditate
+    - Sucker Punch
+    - Strength
+    - Poison Jab
+- Hitmonlee, Lv. 42, @Normal Gem, Ability: Unburden, Jolly Nature, IVs: 20
+    - Fake Out
+    - Meditate
+    - Knock Off
+    - High Jump Kick
+- Gallade, Lv. 41, @Telluric Seed, Ability: Justified, Adamant Nature, IVs: 30
+    - Night Slash
+    - Strength
+    - Poison Jab
+    - Rock Slide
+- Lucario, Lv. 42, Ability: Steadfast, Timid Nature, IVs: 30
+    - Aura Sphere
+    - Psychic
+    - Calm Mind
+    - Hidden Power
+- Medicham, Lv. 43, @Telluric Seed, Ability: Pure Power, Jolly Nature, IVs: 31
+    - Drain Punch
+    - Meditate
+    - Strength
+    - Ice Punch
+
+Man this fight kicks my butt on at least half of my replays. Ashen Beach field has so many little things that help her team of six fully evolved Fighting types that you really have to be on your toes to survive this battle. Her lead either will go straight for a field boosted Strength if your lead is weak or will set up +3 Attack on the first turn, so it is hard to immediately get momentum. In the back is Toxicroak who loves setting up and punishing you with Sucker Punch, Hitmonlee, who will outspeed the whole world thanks to Unburden, Gallade who... is just OK honestly, Lucario who is the sole special attacker and loves to get a double boost with field-boosted Calm Mind, and Medicham, who hits like a truck. Medicham and Lucario also ignore accuracy and evasion!
+
+This field can't be changed naturally, so you can try your best to work within it. One obvious answer within is that Psychic, Zen Headbutt, and Calm Mind get boosts here, so if you can get around Hitmonlee and Toxicroak's priority/speedy dark moves you can sweep that way somehow. Stoutland and Sandslash's Sand Rush is always on and could help with certain strategies. The Sand and Mud moves also get boosted here as do Muddy Water and Surf, so if you need extra damage you may consider those. Otherwise, it's really all just about maintaining some kind of momentum. If you're able to bait out Toxicroak's 5 Sucker Punches very carefully you can set up on it for example. Your own uses of Nature Power into Meditate can turn many physical attackers into potential sweepers, so that's something to consider. This one is hard for me everytime but I always eventually figure it out, so can you!
+
+Relationship Point Choices:
+- Defeat Kiki on your first try (+1 Victoria)
+- Defeat Kiki on the second, etc. try (-2 Victoria)
+
+# Poison In Vain
 
 # Appendices
 
