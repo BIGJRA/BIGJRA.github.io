@@ -1286,7 +1286,7 @@ This is a pretty neat and out of the ordinary team that helps teach the player a
 
 All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying-type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
 
-After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE 5C Readout*. The level cap also shoots up to 35!
+After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE Readout 5C*. The level cap also shoots up to 35!
 
 # Domino
 
@@ -1366,7 +1366,7 @@ Double back around to the path on top, defeat a grunt then chop the tree. Down f
 
 Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
 
-Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE 5B Readout*. 
+Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*. 
 
 Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
 
@@ -2746,7 +2746,7 @@ From here, teleport Vanillite out of the cage nearest the guard - I will call th
 
 Repeat this process twice more, with Vanillite and Roggenrola in the attack cage, and you'll be able to escape. You can use Loudred to wake up the guard for a battle if you'd like. What's better, you can even teleport the guard into a cage. Nice.
 
-Pick up a hidden *Dire Hit* on this floor, then go down the stairs to the left. In this room you can find a *Magnet Powder*, *Exp. Candy L*, *TM49 Echoed Voice* and the *PULSE Readout 04*. 
+Pick up a hidden *Dire Hit* on this floor, then go down the stairs to the left. In this room you can find a *Magnet Powder*, *Exp. Candy L*, *TM49 Echoed Voice* and the *PULSE Readout 4*. 
 
 Head back upstairs and take the stairs on the right to 1F. Beat the grunts and activate the wall panels. Pick up a *Super Potion* and hidden *Purple Shard* and *Super Repel*. 
 
@@ -3066,6 +3066,139 @@ Relationship Point Choices:
 - Defeat Kiki on the second, etc. try (-2 Victoria)
 
 # Poison In Vain
+
+Take the yacht to Azurine Island.
+
+Azurine Island
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Palpitoad**     |25 |**Palpitoad**     |25 |**Foongus**       |20 |
+|**Foongus**       |20 |**Foongus**       |20 |Gloom             |20 |
+|**Yanma**         |16 |Gloom             |20 |**Palpitoad**     |15 |
+|**Wooper**        |10 |**Wooper**        |10 |Skorupi           |10 |
+|**Shellos**       |10 |**Shellos**       |10 |**Zubat**         |10 |
+|Gloom             |10 |**Shelmet**       |6  |**Amoonguss**     |10 |
+|**Quagsire**      |5  |**Quagsire**      |5  |**Quagsire**      |5  |
+|**Amoonguss**     |4  |**Amoonguss**     |4  |Paras             |4  |
+|                  |   |                  |   |**Golbat**        |4  |
+|                  |   |                  |   |**Parasect**      |1  |
+|                  |   |                  |   |Ariados           |1  |
+
+|Old Rod           |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Grimer            |100|Pineco            |55 |
+|                  |   |Burmy             |30 |
+|                  |   |**Exeggcute**     |15 |
+
+With that, we can start to explore this island. Note that many item balls are Foongus in disguise.
+
+The first island has a *Potion* and hidden *Pretty Wing*. The next area contains a *Great Ball* and hidden *Hyper Potion*. Before cutting the tree go to the left to get 
+a hidden *Red Shard* and *TM83 Infestation*. 
+
+Cut the tree and go right. Before going down the ledge you can get an *Antidote* as well as hidden *Ice Gem*, *Resist Wing* and 2 *TinyMushrooms*. You'll find a hidden *Purple Shard* below.
+
+On the next island to the right, you can find a hidden *Green Shard*, *Tiny Mushroom*,*Red Shard*, and *Synthetic Seed*. Following the path behind the Foongus in the bottom left you can get a *Shiny Stone*.
+
+Back up from here, cross to the right. You can find a hidden *Green Shard* on this island. At the top left there is a path across the water that will lead to a hidden *Thunderstone*. 
+
+Head down the ledge on the east island. You can find a hidden *Swift Wing* here and follow the ivy up from here to get the *Swamp Field Readout*. Briefly stopping on the middle island, head down using the ivy to pick up a hidden *Tiny Mushroom* then head left.
+
+You can head down as soon as you touch land to get a *Miracle Seed*. Back on land, you'll find a hidden *Great Ball* and *Guard Spec.* Use the Light Shard and head left. Before continuing left to the next island, you can go down via the ivy to find one hidden *Dusk Ball* and one non-hidden *Dusk Ball*. Head up and left when you're ready.
+
+Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp Field
+- Solrock, Lv. 38, Bashful Nature, IVs: 20
+    - Cosmic Power
+    - Psywave
+    - Fire Spin
+    - Rock Slide
+- Passimian, Lv. 39, Ability: Receiver, Adamant Nature, IVs: 10
+    - Brick Break
+    - Double-Edge
+    - Bulk Up
+    - Bulldoze
+- Lycanroc (Lycanroc-Midnight), Lv. 41, Ability: No Guard, Adamant Nature, IVs: 31
+    - Thunder Fang
+    - Rock Slide
+    - Crunch
+    - Swords Dance
+- Lunatone, Lv. 38, Bashful Nature, IVs: 20
+    - Cosmic Power
+    - Psywave
+    - Hypnosis
+    - Rock Slide
+- Oranguru, Lv. 39, Ability: Telepathy, Modest Nature, IVs: 10
+    - Foul Play
+    - Instruct
+    - Reflect
+    - Nature Power
+- Lycanroc (Lycanroc-Midday), Lv. 41, Ability: Sand Rush, Jolly Nature, IVs: 31
+    - Fire Fang
+    - Accelerock
+    - Rock Slide
+    - Crush Claw
+Another battle with Aster and Eclipse, this time featuring a full team, however this one shouldn't usually be too bad. Deal with Solrock and Lunatone as you usually do, then you'll have the other four. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokemon with Nature Power into field-boosted Muddy Water, so be careful of that, but you should be able to take it down otherwise without too much trouble.
+
+Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Escape Rope*. Cut the tree up from here to get another hidden *Tiny Mushroom*. Go down from here. You'll find a *Magical Seed* and hidden *Purple Shard*. Head down and right to grab a hidden *Tiny Mushroom* and a hidden *Green Shard* a bit further... and we can finally enter the building here. 
+
+Pick up the *PULSE Readout 6* and talk to the machine in the top to reveal a secret passageway. Heal or switch up your team and go up.
+
+Meteor Admin Taka (2x Hyper Potion). Field: Factory Field
+- Klefki, Lv. 40, Ability: Prankster, Bold Nature, IVs: 13
+    - Spikes
+    - Mirror Shot
+    - Draining Kiss
+    - Foul Play
+- Exeggutor (Exeggutor-Alola), Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
+    - Dragon Hammer
+    - Wood Hammer
+    - Hypnosis
+    - Nature Power
+- Gligar, Lv. 42, Ability: Sand Veil, Adamant Nature, IVs: 30
+    - U-turn
+    - Acrobatics
+    - Night Slash
+    - Roost
+- Chatot, Lv. 45, @Sitrus Berry, Ability: Keen Eye, Timid Nature, IVs: 31
+    - Heat Wave
+    - Nasty Plot
+    - Chatter
+    - Roost
+
+Time to fight Taka again. Although he has added Klefki and Gligar to his team, neither should be too threatening. Just be careful of Exeggutor hitting hard with its STABs and Nature Power into Gear Grind and also Chatot setting up on you.
+
+Accept Cain's fast travel request. 
+
+## The Battle for Apophyll
+
+Once you're back on Apophyll, prepare your team. It's worth pointing out that in the battle winning is optional, but is required to access one of the postgame routes, so if you want to keep that option open make sure you have a strategy to win if you're interested. Head down to Pyrous Mountain.
+
+Head in and you'll be partnered up with Victoria.
+
+Relationship Point Choices:
+- Try to leave Pyrous while partnered with Victoria (-2 Victoria)
+
+Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go.
+
+Once you reach the peak, it's time for that battle I was talking about.
+
+Meteor Leader Solaris (2x Full Heal). Field: Super-heated Field
+- Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
+    - Dragon Rush
+    - Earthquake
+    - Fire Fang
+    - Stone Edge
+
+This is an "impossible battle" in the normal sense that the story will progress if you lose, but it actually does acknowledge your success with being a precondition for one of the postgame routes as well as some points. For that reason I will hide the text on my recommendations.
+
+> You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokemon or something with attack-lowering moves can open it up to not kill some of your Pokemon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.
+
+Relationship Point Choices:
+- Defeat Solaris on Pyrous (+1 Cain, +1 Victoria, +1 Cal, +1 Shade, +1 Anna, +3 Taka)
+
+## Byxbysion Wasteland
+
+After the scenes on top of Pyrous, head back to Reborn City and go to the South Obsidia Ward. Talk to Cain to enter the Byxbysion Wasteland.
 
 # Appendices
 
