@@ -3137,6 +3137,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp 
     - Accelerock
     - Rock Slide
     - Crush Claw
+  
 Another battle with Aster and Eclipse, this time featuring a full team, however this one shouldn't usually be too bad. Deal with Solrock and Lunatone as you usually do, then you'll have the other four. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokemon with Nature Power into field-boosted Muddy Water, so be careful of that, but you should be able to take it down otherwise without too much trouble.
 
 Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Escape Rope*. Cut the tree up from here to get another hidden *Tiny Mushroom*. Go down from here. You'll find a *Magical Seed* and hidden *Purple Shard*. Head down and right to grab a hidden *Tiny Mushroom* and a hidden *Green Shard* a bit further... and we can finally enter the building here. 
