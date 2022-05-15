@@ -3201,6 +3201,228 @@ Relationship Point Choices:
 
 After the scenes on top of Pyrous, head back to Reborn City and go to the South Obsidia Ward. Talk to Cain to enter the Byxbysion Wasteland.
 
+Byxbysion Wasteland
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Skorupi           |30 |**Muk**           |30 |Skorupi           |20 |
+|Arbok             |25 |Trubbish          |20 |**Weezing**       |20 |
+|Trubbish          |20 |Arbok             |11 |**Cubone**        |13 |
+|Munna             |11 |Koffing           |10 |**Venipede**      |10 |
+|Ekans             |10 |**Venipede**      |10 |Koffing           |10 |
+|**Venipede**      |4  |Ekans             |10 |**Whirlipede**    |10 |
+|                  |   |Weezing           |9  |Drapion           |10 |
+|                  |   |                  |   |**Muk**           |7  |
+
+|Rock Smash        |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Geodude           |60 |Pineco            |75 |
+|Nincada           |35 |Unown             |15 |
+|Graveler          |5  |**Inkay**         |10 |
+
+In this first area you can find 2 hidden *Blue Shards*, *Green Shard*, *Potion*, *Telluric Seed*, and *Poison Gem*. Follow the ledge at the bottom and pick up a hidden *Full Heal* and *Red Shard*. A nearby slide will take you to a hidden *Green Shard* and *Escape Rope*. Read the grave while you're here to initiate a quest.
+
+Enter the building and emerge at the top. On this upper platform you can find a hidden *Green Shard*. First, we will be going up, so take the ledge up in the top left corner. You'll find hidden *Genius Wing*, *Ability Capsule*, *Green Shard*, *Ultra Ball*, and *Carbos*. In the top right side there is a canister you can talk to that will turn red - we will need to do this to multiple canisters across the wasteland to access a secret area. In the top left corner of this area you can enter a cave. Following it to the left and out you can get a hidden *Cotton Candy*. Head back and down the ledge, making your way back through the building with stairs to emerge at the top.
+
+Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyper Potion*, *Exp. Candy L*, *Poke Ball*, *Purple Shard*, *Green Shard*, *Poison Barb*, *Purple Shard*, and *Protein*. Up from here you can find another canister to turn red. Up and to the left you can go through a building to find a hidden *Black Sludge*. Head to the bottom left of this segment. Hop down one ledge. Here you'll find another canister to turn red, the *Wasteland Field Readout* hiding behind a rock as well as hidden *Blue Shard* and *Peppermint*. From here you'll have to go back through the building and down the slide to return to this area.
+
+In the bottom right section, use the Light Shard and talk to Ace for a battle.
+
+Meteor Agent Ace of Diamonds (Hyper Potion). Field: Wasteland Field
+- Zoroark, Lv. 40, Ability: Illusion, Jolly Nature, IVs: 31
+    - Swagger
+    - U-turn
+    - Punishment
+    - Low Sweep
+- Clefable, Lv. 41, @Sitrus Berry, Ability: Magic Guard, Adamant Nature, IVs: 31
+    - Belly Drum
+    - Drain Punch
+    - Ice Punch
+    - Meteor Mash
+- Honchkrow, Lv. 41, @Enigma Berry, Ability: Moxie, Adamant Nature, IVs: 31
+    - Sucker Punch
+    - Heat Wave
+    - Superpower
+    - Drill Peck
+- Bronzong, Lv. 42, @Telluric Seed, Ability: Heatproof, Brave Nature, IVs: 31
+    - Gyro Ball
+    - Zen Headbutt
+    - Toxic
+    - Protect
+- Mismagius, Lv. 42, @Pecha Berry, Ability: Levitate, Modest Nature, IVs: 31
+    - Mystical Fire
+    - Power Gem
+    - Shadow Ball
+    - Thunder Wave
+- Delphox, Lv. 43, @Sitrus Berry, Ability: Magician, Modest Nature, IVs: 31
+    - Mystical Fire
+    - Psyshock
+    - Dazzling Gleam
+    - Foul Play
+
+Ace has a full team but it isn't particularly bolstered by the field. Be careful not to let Honchkrow or Clefable sweep you and I'm sure you can find a way through this fight.
+
+Talk to the screen beyond them to unlock a door down and to the right. Exit the building at the top and go down the first slide. You'll find a *Lax Incense* up here. Go down the slide to the left. You'll find a hidden *Green Shard*, *Heart Scale*, and *Calcium*, as well as another canister to turn red. Down the ledge you'll need to go through the building again, this time go right. Grab the hidden *Potion*. 
+
+In the top right corner of the area, you can find hidden *Ground Gem*, *Purple Shard*, *Ether*, and *Ice Heal*. Talk to the final canister to turn red.
+
+Talk to Cain if you'd like then enter the building. Heal and prepare your team, save, then enter the room on the left.
+
+Swag Jockey Fern (2x Choc Ice Cream). Field: Wasteland Field
+- Rhydon, Lv. 43, Ability: Reckless, Brave Nature, IVs: 10
+    - Stone Edge
+    - Drill Run
+    - Chip Away
+    - Fire Fang
+- Krookodile, Lv. 43, Adamant Nature, IVs: 15
+    - Fire Fang
+    - Dig
+    - Crunch
+    - Thunder Fang
+- Scyther, Lv. 43, Ability: Technician, Adamant Nature, IVs: 20
+    - X-Scissor
+    - Double Team
+    - Slash
+    - Wing Attack
+- Fraxure, Lv. 42, Ability: Mold Breaker, Adamant Nature, IVs: 31
+    - Taunt
+    - Dual Chop
+    - Dragon Dance
+    - Stomp Tantrum
+- Roserade, Lv. 44, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31
+    - Sleep Powder
+    - Giga Drain
+    - Extrasensory
+    - Hidden Power
+- Decidueye, Lv. 45, @Lum Berry, Ability: Long Reach, Adamant Nature, IVs: 31
+    - Leaf Blade
+    - Swords Dance
+    - Sucker Punch
+    - Spirit Shackle
+
+Fern is back with a full team. His general strategies remain the same: Krookodile will try to sweep, Roserade will hit hard and fast with Giga Drain to heal itself, and Decidueye will try to Sucker Punch you and/or sweep with Swords Dance. Scyther hits fairly hard with its STABs, especially Technician Wing Attack. Fraxure and Rhydon aren't as bad but you still have to be careful. 
+
+Past the Ground types, a Poison type can abuse the field to sweep the field. Nature Power turns into Gunk Shot and, as an added bonus, is immune to Sucker Punch. Once you can get past Roserade he doesn't have an incredible amount of speed so a boosted sweeper can probably succeed here.
+
+Relationship Point Choices:
+- Defeat Fern on the first try (+1 Aya, +1 Hardy)
+
+After you win, we are able to proceed to a gym battle, but opening up the canisters actually opened up a second half of the wasteland we can explore for some goodies, so we'll go ahead and do that now. This is optional.
+
+## Byxbysion Tunnels
+
+Head down from the wasteland hideout, smash the rock and go down the ledge. You'll see that the left building door is now open. 
+
+Byxbysion Tunnels 1
+
+|Cave              |%  |
+|------------------|---|
+|Zubat             |30 |
+|Trubbish          |20 |
+|**Solosis**       |20 |
+|Koffing           |10 |
+|Onix              |10 |
+|Mawile            |6  |
+|Golbat            |4  |
+
+The tunnel is straightforward - enter the cave entrance at the end to reach another tunnel.
+
+Byxbysion Tunnels 2
+
+|Cave              |%  |
+|------------------|---|
+|Trubbish          |20 |
+|Zubat             |20 |
+|Nidoran M.        |15 |
+|**Nidoran F.**    |15 |
+|Solosis           |10 |
+|Koffing           |10 |
+|Nidorina          |5  |
+|**Nidorino**      |5  |
+
+Emerge on the other side and go down the slide. Grab a hidden *Synthetic Seed* and go down the next slide. Here a guy will tell you about the password *nodamageroll*. Grab a hidden *Red Shard* and enter the next cave. Follow the path through to the outside. The next area will have a hidden *Sticky Barb* and *Full Heal*, and a *Poison Barb* to the right. Enter the next cave entrance. 
+
+Interact with both canisters to make the bookshelf in the back get moved over. Inside the next room you can find a hidden *Sun Stone*. 
+
+Inside the room to the left, you can use an Odd Keystone if you've found one via mining to get **Spiritomb**. The second room contains *TM66 Payback*. Prepare yourself and enter the third room.
+
+Pokemon Horde. Field: 
+- Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
+    - Toxic Spikes
+    - Sludge Bomb
+    - Self-Destruct
+    - Acid Spray
+- Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
+    - Toxic Spikes
+    - Sludge Bomb
+    - Self-Destruct
+    - Acid Spray
+- Mr. Bigglesworth, Lv. 65, @Black Sludge, Ability: Gooey, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0. Stat Spread: 80/135/107/85/60/107
+    - Gunk Shot
+    - Pain Split
+    - Stockpile
+    - Drain Punch
+
+Mr. Bigglesworth is tough and also our first opponent that is EV trained. You can set up while the Trubbish are out with your own Steel or Poison type then destroy him. Sad :(
+
+Behind you'll find *TM09 Venoshock* as well as the *PULSE Readout 0*. 
+
+That's it for this part, so return to the room with the two canisters. Hidden behind the left one is another tunnel. As you follow the path you can get a hidden *Focus Sash*. Nice.
+
+Once you appear outside, go down the slide here and grab a hidden *Moon Stone*. Go in the cave and head up the ladder, then go right back down to reach a new area. Sadly the mining rock here is all we can get right now, so head up the ladder and go down the slide then make your way back to the Wasteland hideout.
+
+## Blight Badge
+
+Enter the gym room, save, and talk to Aya.
+
+Wasteland Punk Aya (2x Hyper Potion). Field: 
+- Nidoqueen, Lv. 41, @Black Sludge, Ability: Poison Point, Bashful Nature, IVs: 31
+    - Sludge Wave
+    - Stealth Rock
+    - Crunch
+    - Stomp Tantrum
+- Toxapex, Lv. 41, @Black Sludge, Ability: Merciless, Calm Nature, IVs: 31
+    - Sludge Wave
+    - Recover
+    - Icy Wind
+    - Toxic Spikes
+- Venusaur, Lv. 42, Ability: Overgrow, Bashful Nature, IVs: 31
+    - Stomp Tantrum
+    - Power Whip
+    - Nature Power
+    - Leech Seed
+- Drapion, Lv. 42, @Muscle Band, Ability: Battle Armor, Careful Nature, IVs: 31
+    - Knock Off
+    - Fire Fang
+    - Cross Poison
+    - Aqua Tail
+- Salazzle, Lv. 42, @Focus Sash, Ability: Corrosion, Timid Nature, IVs: 31
+    - Nasty Plot
+    - Heat Wave
+    - Sludge Wave
+    - Disable
+- Dragalge, Lv. 45, @Black Sludge, Ability: Adaptability, Modest Nature, IVs: 31
+    - Sludge Wave
+    - Shadow Ball
+    - Hydro Pump
+    - Dragon Pulse
+
+Aya is another difficult doubles gym leader. The field boosts her Sludge Waves and Venusaur's Power Whip for one. Entry Hazards are all turned into end-of-turn effects - Toxic Spikes and Stealth Rocks will do damage and the former will Poison your Pokemon. With the speedy Nidoqueen and Salazzle paired with the bulky Toxapex and Dragalge, with Venusaur and Drapion for coverage, her team is well suited to deal with many of the strategies you might think to use. Earthquake is weakened by 4 times on this field, so that's not really an option. 
+
+The key to this battle in my experience is letting Toxapex hang out on the left side and do everything in your power to incapacitate and knock out the Pokemon on the right. Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. For that reason, putting Psychic-type attackers, and/or Steel/Poison-type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively. You can also use your own entry hazard spam or the Telluric seed to boost a sweeper. If you could figure out Shelly way back when I think you can find a way to best Aya.
+
+Relationship Point Choices:
+- Beat Aya on the first try (+1 Hardy, +1 Fern)
+
+Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 50 cap finally. We also get to use Strength in the field, finally!
+
+# Of Fathers Forgotten
+
+
+
+
+
+
 # Appendices
 
 ## Full Password List
