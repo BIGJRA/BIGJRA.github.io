@@ -2578,9 +2578,7 @@ Now follow the right path through the mansion. In the dining room, talk
 to Marianette, you may randomly get a chance to give her an Oran Berry.
 This gives (+7 Marianette) Relationship Points.
 
-Exit to the right. If you hug the left wall and go through a secret
-passage, you'll see another inscription. This one says Password 2 is
-3135. Head up and beat the second optional maid, Yara, hiding in the
+Exit to the right. If you hug the left wall and go through a secret passage, you'll see another inscription. This one says Password 2 is 3135. Head up and beat the second optional maid, Yara, hiding in the
 left corner.
 
 At the top, you need to navigate two pieces onto the colored tiles, but
