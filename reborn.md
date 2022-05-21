@@ -4013,6 +4013,36 @@ We can talk to Noel to advance the plot, but we can actually use the second Herb
 
 Head over to the Chrysolia Forest and go up. You'll find the lady that was teleported off the bench here. Give her the Herbal Extract to get *Department Store Sticker: Chansey*. 
 
+Department Store 7F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Psychic Gem*  |$1200          |
+|*Bug Gem*      |$1200          |
+|*Rock Gem*     |$1200          |
+|*Ghost Gem*    |$1200          |
+|*Dark Gem*     |$1200          |
+|*Dragon Gem*   |$1200          |
+|*Steel Gem*    |$1200          |
+|*Ice Gem*      |$1200          |
+|*Fairy Gem*    |$1200          |
+
+Department Store 7F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Fire Gem*     |$1200          |
+|*Water Gem*    |$1200          |
+|*Normal Gem*   |$1200          |
+|*Grass Gem*    |$1200          |
+|*Electric Gem* |$1200          |
+|*Poison Gem*   |$1200          |
+|*Ground Gem*   |$1200          |
+|*Fighting Gem* |$1200          |
+|*Flying Gem*   |$1200          |
+
+You can grab some gems if you have a strategy that relies on them such as Flying-gem Acrobatics or Unburden Normal-gem Fake Out.
+
 With that out of the way, head back to the Tanzan Cove. Prepare your team for a battle and talk to Noel...
 
 ## Defending Belrose Manse
