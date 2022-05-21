@@ -252,7 +252,7 @@ Grand Hall Common Candy Shop
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. Note that the current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
-Standard Shop (0 Badges)
+Default Mart (0 Badges)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -336,7 +336,7 @@ Lower Peridot Ward Pool
 |**Goldeen**       |70 |
 |**Finneon**       |30 |
 
-Head out, and back up past the Old Rod house. You'll find the Name Rater's house here. Up from here, the first barrel you see will hide a *Heart Scale*. Straight to the left and down between the two brown buildings you'll find a hidden *Purple Shard*. 
+Head out, and back up past the rod guy's house. You'll find the Name Rater's house here. Up from here, the first barrel you see will hide a *Heart Scale*. Straight to the left and down between the two brown buildings you'll find a hidden *Purple Shard*. 
 
 If it is still a clear daytime, here you'll be able to talk to Teddiursa again, who will run off to a random location. I will cover all the locations later on, but keep in mind finding it three times from here will allow you to battle and catch it.
 
@@ -424,7 +424,7 @@ Outside, enter the small building to the left and pickup the *Potion*. Outside, 
 
 Straight to the left out the door you'll find some trash paper, and to the left of it is a hidden *Common Candy*. Inside the next building is another *Common Candy*. 
 
-The "Standard Shops" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward one will have the same inventory as the Grand Hall one until we get a badge, then they will both upgrade. 
+The "Default Marts" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward one will have the same inventory as the Grand Hall one until we get a badge, then they will both upgrade. 
 
 Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money. Outside to the right in a box is a hidden *Potion*. A pile of trash paper in the very top left contains a hidden *Clever Wing* (which, again, is good to sell). A guy in the adjacent building will give us a *Common Candy*. Outside there is a shop.
 
@@ -470,7 +470,7 @@ Seacrest's Garden
 |**Swablu**        |55 |
 |**Burmy**         |45 |
 
-Note that we will eventually want a Mothim for an in-game trade. Next, head back to Opal Ward.
+Note that we will eventually want a Mothim for an in-game trade, so ensure you catch a Male Burmy at some point. Next, head back to Opal Ward.
 
 Opal Ward 
 
@@ -618,7 +618,7 @@ Next, enter the Grand Hall. The Common Candy salesman is now gone but in his pla
 
 Now that we have a badge, Pokemarts will be updated:
 
-Standard Shop (1 Badge)
+Default Mart (1 Badge)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -1150,7 +1150,7 @@ Enter the door above and to the right and talk to the girl for a *Telluric Seed*
 
 Head to the left. Defeat these trainers then head into the room on the left. Time for another rival battle.
 
-Swag Jockey Fern (2x Super Potion). Field: 
+Swag Jockey Fern (2x Super Potion). Field: No Field
 - Sandile, Lv. 23, Ability: Moxie, Bashful Nature, IVs: 20
     - Mud-Slap
     - Bite
@@ -1301,7 +1301,7 @@ There are a few things we can do now that we have 2 badges before we continue th
 
 Now that we have 2 badges, the Pokemarts have updated inventory now:
 
-Standard Shop (2 Badges)
+Default Mart (2 Badges)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -1338,7 +1338,7 @@ Jasper Ward
 |**Carnivine**     |7  |
 |**Pidgeotto**     |4  |
 
-Talk to Corey and Heather here, then head into the police station. Talk to the chief here, who will tell you about his missing officers. Doing so will both change the story a bit as well as give you some nice rewards. You don't have to find them, but doing so is the first step to doing the more exclusive postgame story route. If you'd like to play the route of the game that involves not finding the officers in time, you can skip finding one of the officers until you complete up to the end of this section, then find them afterwards to get the quest rewards.
+Talk to Corey and Heather here, then head into the police station. Talk to the chief here, who will tell you about his missing officers. You don't have to find them, but doing so is the first step to doing the more exclusive postgame story route. If you'd like to play the route of the game that involves not finding the officers in time, you can skip finding one of the officers until you complete up to the end of this section, then find them afterwards to get the quest rewards.
 
 In general, I will mention story splits and how choices affect post-game route availability just so you can keep your options open.
 
@@ -1371,7 +1371,7 @@ Double back around to the path on top, defeat a grunt then chop the tree. Down f
 
 Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
 
-Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*. 
+Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the **PULSE Readou*t 5B*. 
 
 Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
 
@@ -1595,7 +1595,9 @@ Back outside, chop the tree to your left and enter the felled building. Beat the
 Relationship Point Choices:
 - Talk to Amaria in the jungle (+1 Amaria)
 
-Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area, so prepare your team as necessary. It's the last chance you have to find the officers to change the story as well. Head up.
+Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area, so prepare your team as necessary. 
+
+**In order to access the exclusive postgame route, you need to save all five officers by this point.**
 
 Meteor Manager Ace of Clubs (Super Potion). Field: Forest Field
 - Zorua, Lv. 25, @Telluric Seed, Ability: Illusion, Serious Nature, IVs: 20
@@ -2645,13 +2647,13 @@ Citrine Mountain 2F
 
 Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal.
 
-Next, go down from the top of the area, then choose to go down at the next fork. Go down at the fork after that to talk to **Croagunk** who will join us thanks to the Silver Ring. Grab a hidden *Burn Heal* and return to the first fork.
+Next, go down from the top of the area, grab the hidden *Super Potion* to the right then choose to go down at the fork. Go down at the fork after that to talk to **Croagunk** who will join us thanks to the Silver Ring. Grab a hidden *Burn Heal* and return to the first fork.
 
 This time, go up. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Protein*, and *Hyper Potion*. It will fork again. Down the left fork you can find a hidden *Hyper Potion*, *Purple Shard*, and *Shoal Salt* and pick up the *Short-Circuit Field Readout* here. Will be useful soon!
 
 Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
 
-Pokemon Savage. Field: 
+Pokemon Savage. Field: Icy Field
 - Beartic, Lv. 65, Serious Nature, IVs: 10
   - Blizzard
   - Flail
@@ -2721,6 +2723,8 @@ After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our ne
 # Poison In Vein
 
 Head out from the Abandoned Power Plant and return to Jasper Ward and attempt to enter Peridot. You'll meet up with Cain here, so follow him into the Police Station. 
+
+Before we continue, there is a pretty awesome Pokemon we can get right now. Head over to the Lapis Alleyway during a windy night. There, you'll find **Murkrow**!
 
 ## Blacksteam Factory
 
@@ -3177,7 +3181,7 @@ Accept Cain's fast travel request.
 
 ## The Battle for Apophyll
 
-Once you're back on Apophyll, prepare your team. It's worth pointing out that in the battle winning is optional, but is required to access one of the postgame routes, so if you want to keep that option open make sure you have a strategy to win if you're interested. Head down to Pyrous Mountain.
+Once you're back on Apophyll, prepare your team. It's worth pointing out that in the battle winning is optional, but there are strategies to win if you're interested. Head down to Pyrous Mountain.
 
 Head in and you'll be partnered up with Victoria.
 
@@ -3186,7 +3190,9 @@ Relationship Point Choices:
 
 Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go.
 
-Once you reach the peak, it's time for that battle I was talking about.
+Once you reach the peak, it's time for that battle I was talking about. 
+
+**In order to access the exclusive postgame route, you need to win this battle.**
 
 Meteor Leader Solaris (2x Full Heal). Field: Super-heated Field
 - Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
@@ -3351,7 +3357,7 @@ Interact with both canisters to make the bookshelf in the back get moved over. I
 
 Inside the room to the left, you can use an Odd Keystone if you've found one via mining to get **Spiritomb**. The second room contains *TM66 Payback*. Prepare yourself and enter the third room.
 
-Pokemon Horde. Field: 
+Pokemon Horde. Field: Wasteland Field
 - Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
     - Toxic Spikes
     - Sludge Bomb
@@ -3380,7 +3386,7 @@ Once you appear outside, go down the slide here and grab a hidden *Moon Stone*. 
 
 Enter the gym room, save, and talk to Aya.
 
-Wasteland Punk Aya (2x Hyper Potion). Field: 
+Wasteland Punk Aya (2x Hyper Potion). Field: Wasteland Field
 - Nidoqueen, Lv. 41, @Black Sludge, Ability: Poison Point, Bashful Nature, IVs: 31
     - Sludge Wave
     - Stealth Rock
@@ -3423,7 +3429,815 @@ Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 
 
 # Of Fathers Forgotten
 
+Make your way all the way back out of the Wasteland. You'll find Cain near the exit. Prepare for a fight.
 
+Relationship Point Choices:
+- If Cain ran away from home earlier, say you know what he means (+1 Cain)
+
+Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field
+- Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
+    - Thrash
+    - Throat Chop
+    - Poison Tail
+    - Shadow Ball
+- Marowak (Marowak-Alola), Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 10
+    - Flame Wheel
+    - Bonemerang
+    - Shadow Bone
+    - Will-O-Wisp
+- Meowstic (Meowstic-Female), Lv. 44, Ability: Competitive, Timid Nature, IVs: 10
+    - Charge Beam
+    - Psychic
+    - Shadow Ball
+    - Light Screen
+- Muk (Muk-Alola), Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 10
+    - Gunk Shot
+    - Minimize
+    - Power-Up Punch
+    - Knock Off
+- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
+    - Water Pledge
+    - Icy Wind
+    - Disarming Voice
+    - Sing
+
+Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokemon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
+
+Return to South Obsidia Ward.
+
+Relationship Point Choices:
+- Say you believe Cal (+1 Cal)
+- Say you don't believe Cal (-1 Cal)
+
+Cal will give you *TMX4 Strength*! 
+
+## Strength Exploration
+
+Having Strength means there is a lot of exploration that we can now do. First of all, put Chingling into your party with the Soothe Bell attached. We'll need it evolved for a quest soon, so might as well take advantage of all the walking we are about to do.
+
+First, note that the Pokemarts have new inventory now.
+
+Default Mart (5 Badges)
+
+|Item           |Price      |
+|---------------|-----------|
+|*Super Potion* |$700       |
+|*Antidote*     |$100       |
+|*Paralyze Heal*|$200       |
+|*Burn Heal*    |$250       |
+|*Escape Rope*  |$550       |
+|*Super Repel*  |$700       |
+|*Poke Ball*    |$200       |
+|*Great Ball*   |$600       |
+
+Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge. Go down and right. You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* then find *TM94 Secret Power*. Exit the mountain.
+
+Make your way west to the Beryl Cemetery. Victoria is down from here.
+
+Relationship Point Choices:
+- Talk to Victoria in the cemetery (+2 Victoria)
+
+Next, we're gonna return to Byxbysion Wasteland. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave. 
+
+Spectral Kiki. Field: Wasteland Field
+- Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
+    - Meditate
+    - Thunder Punch
+    - Drain Punch
+    - Ice Punch
+
+Another tough fight with a single Pokemon but at this point you should have a strategy to deal with these.
+
+Win and you'll obtain **Misdreavus**.
+
+Back outside in the wasteland, make your way to the tunnels area and enter the room with two canisters. Head through the secret path to the left. When you get outside, go down the slide and enter the next room. Take the ladder up then immediately back down. Now we can move this boulder aside! Jump down the hidden ledge and move the next boulder to the left, then go up.
+
+Here, you can find an *Exp. Candy L*, *TM12 Taunt*, and hidden *Ability Capsule* and *Nugget*. On rainy days you can also find a **Squirtle** chilling in the fountain, which we can catch. This is the first of the starters we can obtain aside from the starter table at the beginning of the game.
+
+Return to the wasteland proper, and enter the tall building with stairs on the left side of the map. Show the Squirtle we caught to the guy inside for a *Data Chip*.
+
+Next, take the boat to Apophyll. Head inside Pyrous Mountain and make your way up to 3F. Carefully maneuver the boulder into the hole here and follow it down. You'll find Tepig here, but talk to it and it will flee. Next, make your way to B1F and go to the right. Move the boulder and talk to Tepig again. Grab *TM37 Sandstorm* while you're here. Finally, make your way to the peak. Talk to **Tepig** and you'll be able to catch it!
+
+Exit and take the boat to Azurine Island. At night, if your Chingling has enough friendship, it will evolve into **Chimecho**. Take Chimecho into the building where we battled Taka and show it to a guy here to obtain **Chikorita**. 
+
+## Yureyu Building
+
+With that out of the way, head into the Underground Railnet and use Strength to reach the top. Grab the now-accessible hidden *Red Shard* and enter the door with the Y. This room has a hidden *Great Ball* and *Dragon Gem*. Upstairs is a hidden *Exp. Candy M* and outside you can find a hidden *Link Stone* and *Exp. Candy L*. Head into the Yureyu building.
+
+You'll be partnered with Cain.
+
+Relationship Point Choices:
+- Talk with Cain while you're in Yureyu (+1 Cain)
+
+Relationship Point Choices:
+- Try to leave Yureyu while partnered with Cain (-1 Cain)
+
+It's a very straightforward area: defeat all the Meteor grunts as you make your way up. Once we reach the floor that Sigmund is on, we'll have a story choice to make.
+
+**In order to access the exclusive postgame route, you need to refuse fighting Sigmund at Yureyu.**
+
+Relationship Point Choices:
+- Say Yes to Sigmund asking if you'll fight him (+1 Heather, -1 Sigmund)
+- Say No to Sigmund asking if you'll fight him (+1 Sigmund, -1 Heather, -1 Cain)
+
+### Choice: Fight Sigmund
+
+If you said no to Sigmund, skip ahead to the next section.
+
+Dr. Sigmund Connal (2x Hyper Potion). Field: Factory Field
+- Musharna, Lv. 45, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
+    - Psychic Terrain
+    - Moonlight
+    - Psyshock
+    - Dazzling Gleam
+- Drampa, Lv. 46, Ability: Berserk, Modest Nature, IVs: 25
+    - Thunderbolt
+    - Dragon Pulse
+    - Nature Power
+    - Hyper Voice
+- Raichu (Raichu-Alola), Lv. 46, Ability: Surge Surfer, Modest Nature, IVs: 25
+    - Volt Switch
+    - Psychic
+    - Nasty Plot
+    - Thunderbolt
+- Hypno, Lv. 47, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
+    - Hypnosis
+    - Nasty Plot
+    - Psychic
+    - Dazzling Gleam
+- Rotom, Lv. 47, Ability: Levitate, Timid Nature, IVs: 25
+    - Thunderbolt
+    - Hex
+    - Will-O-Wisp
+    - Foul Play
+- Electivire, Lv. 48, Ability: Motor Drive, Jolly Nature, IVs: 31
+    - Thunder Punch
+    - Fire Punch
+    - Low Kick
+    - Ice Punch
+
+Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Factory field will boost the former and the Psychic Terrain the latter, so make sure you neutralize whatever the biggest threat of your two opponent is each turn and you'll probably win.
+
+### Choice: Don't Fight Sigmund
+
+If you said yes to Sigmund, skip ahead to the next section.
+
+Meteor Admin Sirius (2x Hyper Potion). Field: No Field
+- Minior (Minior-Violet-Meteor), Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
+    - Shell Smash
+    - Charge Beam
+    - Power Gem
+    - Dazzling Gleam
+- Tyrantrum, Lv. 46, Ability: Strong Jaw, Adamant Nature, IVs: 30
+    - Rock Slide
+    - Crunch
+    - Dragon Claw
+    - Dragon Dance
+- Toucannon, Lv. 46, Ability: Skill Link, Adamant Nature, IVs: 30
+    - Beak Blast
+    - Rock Blast
+    - Tailwind
+    - Roost
+- Manectric, Lv. 47, Ability: Static, Timid Nature, IVs: 30
+    - Flamethrower
+    - Volt Switch
+    - Discharge
+    - Snarl
+- Seviper, Lv. 47, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
+    - Throat Chop
+    - Poison Jab
+    - Rest
+    - Aqua Tail
+- Chandelure, Lv. 48, @Synthetic Seed, Ability: Infiltrator, Timid Nature, IVs: 31
+    - Heat Wave
+    - Energy Ball
+    - Psychic
+    - Shadow Ball
+
+Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have to be careful of Minior setting up. Otherwise his Pokemon are generally fast and strong but frail, so if you have good type advantages and basic doubles strategies you can certainly do it.
+
+## Underground Railnet East
+
+Back on the ground floor, head east to enter another part of the railnet. This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *Pokesnaxs*, and *Super Repel*.
+
+You can also find a bunch more of those shallow walls that you can use Rock Smash on. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left to create a shortcut to the Aron room. 
+
+Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done. Talk to Noel when you have the correct layout. Re-enter the train, talk to Shelly if you'd like.
+
+Relationship Point Choices:
+- Tell Shelly she was helpful (+1 Shelly)
+- Tell Shelly she was not helpful (-1 Shelly)
+
+Talk to Charlotte - CHOO CHOO!
+
+## Tanzan Cove
+
+We will emerge in a new area. Here, you'll find a *Purple Shard*, *Full Heal*, *Normal Gem*, and *Elemental Seed*. If it's raining, a guy on this map will tell us about the password *stablweather*. You can actually choose whether to go to the Belrose Manse via Tanzan Mountain first, or to go to Spinel Town via the forest first. Here, we will go to Belrose first, but you can skip this section and come back to it after Spinel if you'd like.
+
+Tanzan Mountain 1F
+
+|Cave                   |%  |
+|-----------------------|---|
+|**Geodude (Alolan)**   |20 |
+|Noibat                 |20 |
+|Sandshrew              |20 |
+|Onix                   |20 |
+|Kecleon                |14 |
+|**Sandile**            |6  |
+
+On the left as you walk in, you'll see whichever of **Solrock** and **Lunatone** that you didn't get to catch earlier.
+
+On this map, you'll find hidden *X Speed*, *Pokesnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
+
+Talk to Charlotte then emerge at the top into Tanzan Cove.
+
+Tanzan Cove
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Cutiefly**      |20 |**Cutiefly**      |20 |Dedenne           |25 |
+|**Ducklett**      |20 |**Oricorio**      |20 |**Cutiefly**      |20 |
+|**Audino**        |15 |Togedemaru        |10 |Togedemaru        |10 |
+|**Poliwag**       |15 |**Ducklett**      |10 |Paras             |10 |
+|Ledian            |14 |**Comfey**        |10 |**Comfey**        |10 |
+|**Oricorio**      |10 |**Ribombee**      |10 |**Ribombee**      |10 |
+|**Ribombee**      |5  |**Audino**        |9  |**Oricorio**      |5  |
+|**Poliwhirl**     |1  |**Swanna**        |6  |**Audino**        |5  |
+|                  |   |Dedenne           |5  |Ariados           |4  |
+|                  |   |                  |   |Parasect          |1  |
+
+|Old Rod           |%  |
+|------------------|---|
+|Goldeen           |70 |
+|**Seaking**       |30 |
+
+In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *Pokesnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
+
+Enter the house at the top.
+
+Relationship Point Choices:
+- Enter Belrose Manse before going to Voclain Estate (+1 Noel, +1 Laura)
+
+To the left you can see something glowing in a bookshelf. Interact with it to get the *Family Picture* for a sidequest way down the road. Anyways, talk to everyone in the house then head out.
+
+Relationship Point Choices:
+- Talk to Shelly in Belrose Manse (+1 Shelly)
+
+## Chrysolia Forest
+
+Make your way back through Tanzan Mountain and enter the forest.
+
+Chrysolia Forest
+
+Chrysolia Forest
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Spinda            |21 |Spinda            |25 |**Pikipek**       |20 |
+|**Pikipek**       |20 |**Pikipek**       |20 |**Furfrou**       |20 |
+|Ledian            |14 |**Deerling**      |10 |Spinda            |10 |
+|**Furfrou**       |10 |**Furfrou**       |10 |Paras             |10 |
+|**Deerling**      |10 |**Trumbeak**      |10 |Togedemaru        |10 |
+|Comfey            |10 |Comfey            |10 |**Trumbeak**      |10 |
+|Togedemaru        |5  |Togedemaru        |5  |Comfey            |5  |
+|Audino            |5  |Audino            |5  |Audino            |5  |
+|**Minccino**      |4  |**Minccino**      |4  |**Volbeat**       |5  |
+|**Toucannon**     |1  |**Toucannon**     |1  |**Illumise**      |5  |
+
+|Headbutt          |%  |
+|------------------|---|
+|Taillow           |60 |
+|**Chatot**        |30 |
+|Pineco            |10 |
+
+Make your way forward and around to the left. You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
+
+Chrysolia Spring 1F
+
+|Old Rod           |%  |
+|------------------|---|
+|Shellos           |70 |
+|Barboach          |30 |
+
+More importantly, you'll find a *Mystic Water* and hidden *Link Stone* inside. 
+
+Back outside, head to the left and down, and attempt to exit the forest. A nearby tree will disappear, so follow the newly created path. By now you've noticed that stuff is teleporting in and out - in general we want to follow the linear path forwards, even if it does take us through parts we've seen before.
+
+Towards the bottom of the area you'll see a single tree blocking off an open patch of grass, approaching the tree will make it disappear. Down from here you'll find a hidden *Synthetic Seed*, *Exp. Candy L*, and *Heart Scale*. To the right, you can talk to someone for the *Grassy Terrain Field Readout* and pick up a *Mild Mint* and a *Hasty Mint*. Enter the train to the left, and pick up the egg. It'll be **Cacnea** or **Maractus**, randomly determined.
+
+Head back up and go left, continuing our linear travel through the teleporting tree forest. In the bottom right part of the forest you'll see a lone tree guarding a patch of grass - you know what to do. Follow this path to reach a cave.
+
+Lost Railcave
+
+|Cave                   |%  |
+|-----------------------|---|
+|Kecleon                |29 |
+|**Graveler (Alolan)**  |20 |
+|Noibat                 |20 |
+|Sandshrew              |10 |
+|Onix                   |10 |
+|**Smeargle**           |6  |
+|**Swinub**             |5  |
+
+Inside the railcave, start by entering the entrance that is not being pointed to by the three ends of the train tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* as well as **Eevee**!
+
+Back in the main area of the railcave, enter the room closest to two of the three rocks. Repeat this process over and over until you reach a room containing a hidden *Ability Capsule*, the *Psychic Terrain Field Readout*, and *TM32 Double Team*. 
+
+Back in the forest, continue your circles around and around. Once you reach the upper right side of the area you'll see a path leading to the right. Here you'll find a hidden *Ability Capsule*. Head into the clearing here.
+
+Chrysolia Forest Clearing
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Ledian            |33 |Kecleon           |46 |Kecleon           |50 |
+|Kecleon           |22 |Hoppip            |30 |Hoppip            |20 |
+|Ledyba            |20 |Swablu            |15 |**Dustox**        |15 |
+|Hoppip            |10 |**Altaria**       |9  |Swablu            |10 |
+|Swablu            |10 |                  |   |**Altaria**       |5  |
+|**Altaria**       |5  |                  |   |                  |   |
+
+You'll find a hidden *Elemental Seed* as well as the *Burning Field Readout*, a *Quiet Mint* and an *Exp. Candy L*. This is also the Mossy Rock where you can get Leafeon. 
+
+Finally, continue your circles in the main part of the forest until you finally reach Spinel Town.
+
+## Spinel Town
+
+You'll notice that everything is chaos here, teleporting like crazy. Enter a house on the left side and a girl's furniture will all disappear. She'll ask us to get it back, so head out of her house.
+
+Down from here, there's a tree in front of a house. The tree will move when you approach it. Inside, you can return the Kadabra girl's bed, and pick up the *Good Rod*! Outside, the fountain will disappear as you approach. Heading towards the center of town, you'll see the Kadabra girl's TV on top of a building. Trying to enter the Pokemart will cause it to teleport as well. To the right, you'll see Kadabra girl's bookshelf.
+
+Enter the left apartment building. Inside, you'll find Kadabra girl's table. In the building to the right, a person inside will offer to trade your Shelmet and Karrablast for their respective evolutions. You will also be asked to pet every Eeveelution. This is a sidequest we won't be finishing for a very long time but at least we know.
+
+Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokemon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*. 
+
+Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and Shieldon. Unfortunately to finish the revival you have to leave the museum and pay the fee again!
+
+Anyways, head down and out of the door upstairs here and into the door on the other side to pick up the *Eevium-Z*. We can't use Mega Stones or Z-Crystals yet. Kadabra girl's nightstand is also in here, as well as a standard Ice Cream vending machine that contains a Vanillite like in the Sweet Co.
+
+In the downstairs area of the museum at night, you'll see two Meteor grunts. Talk to them and they will flee to Tanzan Mountain. We will get to them in a bit. There's a *Luxury Ball* in the trash to the right.
+
+Outside, attempt to enter the Voclain Estate in the top right corner. Before you talk to Serra, talk to Bennett if you want points.
+
+Relationship Point Choices:
+- Tell Bennett you knew Cascoon had perfect memories (+1 Bennett)
+
+I hope they remember me killing 15 of them with Fire-type moves in Pokemon Legends Arceus. 
+
+Relationship Point Choices:
+- Talk to Bennett a second time (+1 Bennett)
+
+In the upstairs rooms, you can find *Silk Scarf*, the *Mirror Arena Field Readout*, *TM85 Dream Eater*, *Bug Memory*, and *Weakness Policy*. You'll also find Kadabra girl's last bookshelf in Bennett's room.
+
+With that, we should now have all of the furniture back, so return to the girl to get the *Exp. All*. An excellent item that levels your whole team and prevents leveling over the cap.
+
+Grab your Male Burmy from the PC and level it to 20 so it evolves into **Mothim**.
+Return to Chrysolia Forest - you'll have to basically do the circles in reverse. On your way you'll find the house that teleported earlier. A guy inside will do an in-game trade: your Mothim for his **Bruxish**.
+
+Down from here, you'll find the teleported fountain. **Remoraid** will jump out for you to battle.
+
+Return to Tanzan Mountain. Inside, you'll find the grunts from earlier. Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** and **Tirtouga** respectively.
+
+## Good Rod Encounters and Other Things
+
+Now that we have a new rod there are a lot of encounters we can now get.
+
+Chrysolia Spring 1F
+
+|Good Rod          |%  |
+|------------------|---|
+|Shellos           |60 |
+|Barboach          |20 |
+|**Clauncher**     |20 |
+
+Tanzan Cove
+
+|Good Rod          |%  |
+|------------------|---|
+|**Basculin**      |60 |
+|Mantyke           |20 |
+|**Luvdisc**       |20 |
+
+Make sure you catch a Luvdisc for an in-game trade we'll get to in a bit.
+
+Once you return to Reborn City via the railnet, we can now snag the other gang mascot than ours. If you joined Magma Gang, head over to Lapis Alleyway. 
+
+|Good Rod          |%  |
+|------------------|---|
+|Barboach          |80 |
+|**Carvanha**      |20 |
+
+If you joined Aqua Gang, head over to North Obsidia Alleyway, where you will be able to find **Houndour** inside.
+
+Anyways, some more encounters:
+
+Lower Peridot Ward / Azurine Island / Apophyll Beach / Coral Ward
+
+|Good Rod          |%  |
+|------------------|---|
+|Muk               |60 |
+|**Tentacool**     |20 |
+|Skrelp            |20 |
+
+Lower Peridot Ward Pool
+
+|Good Rod          |%  |
+|------------------|---|
+|Goldeen           |60 |
+|Finneon           |20 |
+|Seaking           |20 |
+
+The Underroot
+
+|Good Rod          |%  |
+|------------------|---|
+|Psyduck           |60 |
+|Skrelp            |20 |
+|**Whiscash**      |20 |
+
+The other important thing we can do in Reborn City is to head on over to Onyx Ward and return the House Key to the girl here to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades via mining. Take advantage of this as you like, then take the boat to Apophyll. 
+
+Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**. 
+
+That wraps up this part, so head all the way back through the railnet and the forest to Spinel Town and enter the Voclain Estate.
+
+## Rime Badge
+
+Enter the room towards the back to reach the gym. In each room, you'll have to look for something that's wrong on one of the two sides. It could be a misplaced or miscolored item or something thematically tied to the gym. Anyways, once you find this discrepancy, smash the wall immediately above. 
+
+For each of the three puzzle rooms (so, a max of +3), you can get the following:
+
+Relationship Point Choices:
+- Smash the correct mirror on the first try (+1 Serra)
+- Smash 2-5 incorrect mirrors before finding the answer (-1 Serra)
+- Smash 6-7 incorrect mirrors before finding the answer (-2 Serra)
+
+Save before you enter the third room.
+
+Lepidopterist Bennett (2x Berry Ice Cream). Field: Mirror Arena
+- Larvesta, Lv. 47, @Wide Lens, Ability: Flame Body, Adamant Nature, IVs: 31
+    - Flame Charge
+    - Bug Bite
+    - Zen Headbutt
+    - Morning Sun
+- Venomoth, Lv. 48, Ability: Shield Dust, Timid Nature, IVs: 31
+    - Quiver Dance
+    - Baton Pass
+    - Sleep Powder
+    - Signal Beam
+- Vivillon, Lv. 48, @Bright Powder, Ability: Compound Eyes, Modest Nature, IVs: 31
+    - Quiver Dance
+    - Sleep Powder
+    - Draining Kiss
+    - Signal Beam
+- Dustox, Lv. 49, @Bright Powder, Ability: Shield Dust, Modest Nature, IVs: 31
+    - Moonlight
+    - Quiver Dance
+    - Signal Beam
+    - Giga Drain
+- Masquerain, Lv. 49, @Leftovers, Ability: Intimidate, Modest Nature, IVs: 31
+    - Quiver Dance
+    - Roost
+    - Hydro Pump
+    - Signal Beam
+- Butterfree, Lv. 50, @Synthetic Seed, Ability: Compound Eyes, Modest Nature, IVs: 31
+    - Sleep Powder
+    - Quiver Dance
+    - Signal Beam
+    - Giga Drain
+
+It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he pretty strongly optimizes his team around the Mirror Field. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits, and his Pokemon hit moderately hard and fast. Literally all but one of them have Quiver Dance too, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. You can also take advantage of the Mirror Field yourself, if you'd like.
+
+Relationship Point Choices: 
+- Beat Bennett on the first try (+1 Elias, -1 Bennett)
+- Beat Bennett on the second, etc. try (+1 Bennett, -1 Elias)
+
+Break the last mirror and head into the gym arena when you're ready.
+
+Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena
+- Glaceon, Lv. 48, @Light Clay, Ability: Snow Cloak, Calm Nature, IVs: 31
+    - Wish
+    - Ice Beam
+    - Signal Beam
+    - Aurora Veil
+- Ninetales (Ninetales-Alola), Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 31
+    - Nasty Plot
+    - Dazzling Gleam
+    - Aurora Beam
+    - Aurora Veil
+- Lapras, Lv. 48, @Synthetic Seed, Ability: Shell Armor, Modest Nature, IVs: 31
+    - Thunderbolt
+    - Surf
+    - Signal Beam
+    - Ice Beam
+- Sandslash (Sandslash-Alola), Lv. 47, @Wide Lens, Ability: Slush Rush, Adamant Nature, IVs: 25
+    - Iron Head
+    - Icicle Crash
+    - Brick Break
+    - Swords Dance
+- Jynx, Lv. 49, @Bright Powder, Ability: Dry Skin, Timid Nature, IVs: 31
+    - Nasty Plot
+    - Focus Blast
+    - Psyshock
+    - Ice Beam
+- Froslass, Lv. 50, @Bright Powder, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Ice Beam
+    - Double Team
+    - Pain Split
+    - Shadow Ball
+
+Serra is a tough gym leader that operates on a very unique field effect - instead of thinking about how to beat a Hail-team like you normally would, you really should study the field effect in detail to devise a strategy. Anyways, her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use your own screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers have a chance to hit anyways even when they miss - some attacks are even boosted, which explains why Serra has five special attackers. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast and like to try to crit you. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier, the latter two like to set up free 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice-type and uses the Mirror Arena to great effect.
+
+In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Wide Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel-type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
+
+It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra to play on a more even playing field. However:
+
+Relationship Point Choices:
+- Break the Mirror Field in the gym fight (-1 Serra)
+
+Once you win, you'll get the *Rime Badge* which boosts our cap to Lv. 55. You'll also get *TM70 Aurora Veil*. 
+
+# Sister's Keeper
+
+Relationship Point Choices:
+- Talk to Serra on the couch after the battle (+1 Serra)
+
+## Two Herbal Extracts
+
+Make your way out of Spinel Town and head back towards Tanzan Mountain. You'll finally be able to enter the Pokemart here! One person sells the default items, but there is another vendor.
+
+Chrysolia Pokemart Herb Shop
+
+|Item               |Price  |
+|-------------------|-------|
+|*Herbal Extract*   |$600   |
+|*Energy Powder*    |$500   |
+|*Heal Powder*      |$450   |
+
+The Powders aren't really worth it unless you're going for a Frustration build, but we will need two Herbal Extracts: one for a sidequest and one to continue the story.
+
+If you chose to go to Spinel Town before Belrose Manse, you can read the above section on Tanzan Cove for encounters, items, etc. 
+
+Relationship Point Choices:
+- Defeated Serra and got Herbal Medicine before entering the Belrose Manse (+1 Charlotte)
+
+Anyways, head to Belrose Manse and go upstairs. 
+
+Relationship Point Choices:
+- Talk to Noel without Herbal Extract in your inventory (-1 Noel)
+
+Give the medicine to Anna and she will feel better. Head outside.
+
+Relationship Point Choices:
+- Talk to Shelly while Noel wants to battle you.
+
+We can talk to Noel to advance the plot, but we can actually use the second Herbal Extract we got right now to get a nice reward, so I'll take care of that now. 
+
+Head over to the Chrysolia Forest and go up. You'll find the lady that was teleported off the bench here. Give her the Herbal Extract to get *Department Store Sticker: Chansey*. 
+
+With that out of the way, head back to the Tanzan Cove. Prepare your team for a battle and talk to Noel...
+
+## Defending Belrose Manse
+
+Relationship Point Choices:
+- Tell Saphira you don't understand (-1 Saphira)
+
+Relationship Point Choices:
+- Tell Charlotte you want to beat Meteor faces (+1 Charlotte)
+
+The story will diverge a little bit depending on what our choice was at Yureyu. This section gets a bit hairy since there are FOUR different story splits. Let me know if you have suggestions or spot discrepancies since I cannot play all four routes at once.
+
+### Choice: Fought Sigmund at Yureyu
+
+If you didn't fight Sigmund at Yureyu and instead fought Sirius, skip ahead to the next section.
+
+Anyways, you'll have to first fight two orderlies. Afterwards, you'll be healed but thrust into another battle.
+
+Meteor Admin Sirius (3x Hyper Potion). Field: No Field
+- Minior (Minior-Violet-Meteor), Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
+    - Shell Smash
+    - Dazzling Gleam
+    - Power Gem
+    - Psychic
+- Tyrantrum, Lv. 49, Ability: Strong Jaw, Adamant Nature, IVs: 30
+    - Earthquake
+    - Crunch
+    - Dragon Claw
+    - Dragon Dance
+- Toucannon, Lv. 50, Ability: Skill Link, Adamant Nature, IVs: 30
+    - Beak Blast
+    - Rock Blast
+    - Tailwind
+    - Roost
+- Manectric, Lv. 50, Ability: Static, Timid Nature, IVs: 30
+    - Volt Switch
+    - Discharge
+    - Flamethrower
+    - Snarl
+- Seviper, Lv. 51, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
+    - Throat Chop
+    - Poison Jab
+    - Rest
+    - Aqua Tail
+- Chandelure, Lv. 52, @Wise Glasses, Ability: Infiltrator, Timid Nature, IVs: 31
+    - Heat Wave
+    - Energy Ball
+    - Psychic
+    - Shadow Ball
+
+On this route this is our first battle with Sirius, and we don't get a partner. His team is all about hitting hard with well-rounded coverage. In particular you have to watch out for his Chandelure's fast coverage, Minior's set up if you have a bad lead against it, and Manectric's fast offense and pivot move. The rest are fairly slow. At this point in the game you should have a pretty solid team that can hopefully take care of Sirius.
+
+Afterwards, the game will give us another choice that affects the story! Either we will go upstairs or stay downstairs.
+
+Relationship Point Choices:
+- Go Upstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Noel, -1 Saphira, -1 Laura, -1 Sigmund)
+- Stay Downstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Saphira)
+
+If you chose to stay downstairs the Twins will be captured. Talk to the group in the kitchen to the right. 
+
+If you go upstairs, this results in Laura being captured. Talk to Saphira downstairs. 
+
+### Choice: Didn't Fight Sigmund at Yureyu
+
+If you fought Sigmund at Yureyu, skip ahead to the next section.
+
+Anyways, it's time for another battle with the doc.
+
+Dr. Sigmund Connal (2x Hyper Potion). Field: No Field
+- Musharna, Lv. 48, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
+    - Psychic Terrain
+    - Moonlight
+    - Psyshock
+    - Dazzling Gleam
+- Drampa, Lv. 49, Ability: Berserk, Modest Nature, IVs: 25
+    - Thunderbolt
+    - Dragon Pulse
+    - Nature Power
+    - Hyper Voice
+- Raichu (Raichu-Alola), Lv. 49, Ability: Surge Surfer, Modest Nature, IVs: 25
+    - Volt Switch
+    - Psychic
+    - Nasty Plot
+    - Thunderbolt
+- Hypno, Lv. 50, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
+    - Hypnosis
+    - Nasty Plot
+    - Psychic
+    - Dazzling Gleam
+- Rotom, Lv. 50, Ability: Levitate, Timid Nature, IVs: 25
+    - Thunderbolt
+    - Hex
+    - Will-O-Wisp
+    - Foul Play
+- Electivire, Lv. 51, Ability: Motor Drive, Jolly Nature, IVs: 31
+    - Thunder Punch
+    - Fire Punch
+    - Low Kick
+    - Ice Punch
+
+This fight can be tough thanks to his usage of the very broken Psychic Terrain - it will double Musharna's speed, boost his Psychic attacks plus Hex, and make Hypnosis actually reliable. As before you can consider knocking out Musharna then trying to stall out the terrain to neutralize his strategy. His Electivire is fast and hits hard with Ice Punch, so be careful with your Ground type. A well rounded team will be able to succeed with the right approach.
+
+Afterwards, you will make another choice that will affect the game! 
+
+**In order to access the exclusive postgame route, you need to stop Sigmund after fighting him.**
+
+Relationship Point Choices:
+- Choose to stop Sigmund after fighting him (+1 Saphira, +1 Shelly, +1 Charlotte, +1 Noel, +1 Anna, +1 Shade, -1 Laura, -2 Sigmund)
+- Choose to stop Sirius after fighting Sigmund (+1 Laura, -2 Saphira, -1 Noel)
+
+If Saphira was abducted, you'll also see a hole in the wall that opens up. You can actually use the hole instead of the door to enter and exit.
+
+Relationship Point Choices:
+- Exit or enter the Belrose Manse through the hole in the wall (-1 Laura)
+
+## Tanzan Meteor Base
+
+With that, we can now enter the Tanzan Mountain and take back whoever you ended up getting kidnapped by Team Meteor.
+
+Head into Tanzan Mountain and go to the right as soon as you can. Depending on your earlier choices either Laura or Saphira will be here. Talk to them and you will be able to use the rock to nicely remove the barrier or freely pass through it after Dragonite destroys it. 
+
+The next room contains a hidden *Green Shard*, *Pecha Berry*, and *Blue Shard*. Enter the base. 
+
+There will be a lot of these rotary thingies all over the base. Essentially they will send you 90 degrees in the indicated direction, but once you use it, it'll send you in the opposite direction next time. So, you'll only be able to go left for now. Head up and into the room. 
+
+This next room has tiles that will teleport you to the same color equivalent in a different room - and those in that room will teleport you back. You'll need to reach the top of each room to deactivate a panel. To succeed, one strategy is this: 
+
+Use the left panel, then go left, down, up, up and use the computer. Spam down and eventually you can return to the bottom of the room. Ensuring we are starting in the right room this time, use the right panel, then go right, down, up, up, and use this computer. Spam down, again use the white panels at the bottom to pop out in the right side, then head up via the rotator and go in.
+
+Use this rotary to go left. Head into the room at the bottom to grab *PULSE Readout 7*. 
+
+Enter the room to the left. If anyone except Saphira was abducted earlier, you can get relationship points here.
+
+Relationship Point Choices:
+- After Noel and Anna are abducted, talk to them in the cage (+2 Noel)
+- After Charlotte and Shelly are abducted, talk to them in the cage (+1 Shelly, +1 Charlotte)
+- After Laura is abducted, talk to her in the cage (+1 Laura)
+
+Return to the previous room, then go up. There is only one path you can take for now, so beat the grunts and take it. You'll see a purple tile, step on it and you'll end up in the left side of the base again. Once more go up, this time, you'll be sent up. Go left onto the blue tile for now, then the rotary will send you down again. In the next room you'll go to the right this time. You'll get an *Exp. Candy L*!
+
+Use the teleporter and you'll emerge on the right side of the area. Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
+
+Head back to the left and take the rotary to go up. Talk to the grunts and scientists up here and talk to the computers to open up the door at the top as well as a shortcut in the bottom-left corner. Talk to Simon here (he won't fight you) to start up a sidequest later.
+
+Enter the door at the top!
+
+## Tanzan Depths
+
+If Saphira was abducted, you'll be here with Laura.
+
+Relationship Point Choices:
+- Talk to Laura in the depths (+2 Laura)
+
+Go out and head up. You'll see some dialogue. Head down from here, you'll see a new path open up. Continue this process until you have to participate in a battle!
+
+Pokemon Gargantuan. Field: Rocky Field
+- Steelix (Steelix-Mega), Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Earthquake
+    - Stone Edge
+    - Crunch
+    - Heavy Slam
+
+Another single Pokemon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit. 
+
+Relationship Point Choices:
+- Beat Steelix on the first try (+3 Saphira, +1 Laura)
+- Beat Steelix on the second, etc. try (+2 Saphira)
+
+Tanzan Depths
+
+|Cave              |%  |
+|------------------|---|
+|Onix              |20 |
+|Geodude           |20 |
+|**Sandslash**     |14 |
+|Graveler          |10 |
+|Diglett           |10 |
+|Arbok             |10 |
+|**Hippopotas**    |6  |
+|**Dugtrio**       |5  |
+|**Durant**        |5  |
+
+Once you emerge, make your way back into the base and head to the back room. Once you do it will be time for another fight! 
+
+Meteor Admin ZEL. Field: Factory Field
+- PULSE Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31. Stat Spread: 25/20/115/140/195/155. Typing: Psychic/Steel
+    - Hyper Beam
+    - Dark Pulse
+    - Hyper Beam
+    - Hyper Beam
+
+Seriously. Of course, when you're only fighting one Pokemon with very low HP that has to deal with recharge much of the time, it shouldn't be too hard. Disabling Dark pulse will let your Ghost sit there for free, Mirror Coat and Metal Burst can work great here, etc. There's lots of options for this PULSE. 
+
+Head all the way back to Tanzan Cove and talk to Anna inside. It's time for another gym battle!
+
+## Standard Badge
+
+Prodigy Noel (3x Hyper Potion). Field: Grassy Terrain
+- Cinccino, Lv. 54, @King's Rock, Ability: Skill Link, Adamant Nature, IVs: 31
+    - Tail Slap
+    - U-turn
+    - Rock Blast
+    - Bullet Seed
+- Porygon-Z, Lv. 54, @Elemental Seed, Ability: Download, Timid Nature, IVs: 31
+    - Nasty Plot
+    - Psychic
+    - Hidden Power
+    - Tri Attack
+- Bewear, Lv. 54, @Muscle Band, Ability: Fluffy, Adamant Nature, IVs: 31
+    - Hammer Arm
+    - Zen Headbutt
+    - Stomp Tantrum
+    - Ice Punch
+- Girafarig, Lv. 54, @Twisted Spoon, Ability: Sap Sipper, Timid Nature, IVs: 31
+    - Psychic
+    - Thunderbolt
+    - Thunder Wave
+    - Hidden Power
+- Swellow, Lv. 54, @Flame Orb, Ability: Guts, Jolly Nature, IVs: 31
+    - U-turn
+    - Brave Bird
+    - Steel Wing
+    - Facade
+- Clefable, Lv. 55, @Elemental Seed, Ability: Magic Guard, Calm Nature, IVs: 31, EVs: 252/0/204/0/52/0
+    - Moonblast
+    - Calm Mind
+    - Soft-Boiled
+    - Stored Power
+
+Shocker, another tough gym leader in Pokemon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal-type team (ok, 5/6ths of a Normal-type team plus Clefable).
+
+Clefable's Magic Guard is an annoying ability that means you need to overwhelm it physically despite its seed boost or get it before it can Calm Mind too much, but thankfully it means it doesn't have Unaware. This means you can get your own sweeper set up potentially against Bewear or Girafarig and maybe steamroll his team. Fighting types can potentially destroy the Cinccino but won't see a ton of success against the rest of the team. Since Normal-types have no other weaknesses, you might have to turn to using the field to your benefit. Although Girafarig has Sap Sipper to absorb Grass-type moves, you can go with a hyper-offensive Grass-type strategy, keeping Swellow in mind. Coil and Growth are boosted on this field, so it shouldn't be impossible to set up. You can also take advantage of the boost to Fire-moves - in particular Bewear will get crushed by them. Keep in mind too that the Elemental Seed can potentially allow you to more easily survive Cinccino and/or get your own tank set up. 
+
+In a pinch, this fight becomes much easier if you change the field to the Burning Field or the Corrosive Field. However Laura doesn't like you destroying her flower garden!
+
+Relationship Point Choices:
+- Beat Noel on Burning Field (-2 Laura)
+- Beat Noel on Corrosive Field (-1 Laura)
+
+For winning, you'll get the *Standard Badge* which boosts our cap to 60. We'll also get *TM10 Hidden Power*! 
+
+# Into Darkness
+
+Back inside, talk to the crew here, then Noel in the stairs room. You'll hear a non-Julia boom, indicating it's time to return to Tanzan Mountain once more.
 
 
 
