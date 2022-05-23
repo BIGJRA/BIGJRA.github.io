@@ -88,6 +88,20 @@ Heavy Work In Progress :)
   - [Tanzan Depths](#tanzan-depths)
   - [Standard Badge](#standard-badge)
 - [Into Darkness](#into-darkness)
+  - [Tanzan Mountain Boom and Goodies](#tanzan-mountain-boom-and-goodies)
+  - [Route 1](#route-1)
+  - [Vanhanen Castle](#vanhanen-castle)
+  - [Citae Astrae](#citae-astrae)
+  - [North Aventurine Woods Exploration](#north-aventurine-woods-exploration)
+  - [South Aventurine Woods Exploration](#south-aventurine-woods-exploration)
+  - [Millenium Badge](#millenium-badge)
+- [Out of Light](#out-of-light)
+  - [Seventh Street](#seventh-street)
+  - [Subseven Sanctum](#subseven-sanctum)
+  - [A Cult and a Gang: Sidequests](#a-cult-and-a-gang-sidequests)
+    - [Choice: The Magma Gang 3](#choice-the-magma-gang-3)
+    - [Choice: The Aqua Gang 3](#choice-the-aqua-gang-3)
+  - [Iolia Valley](#iolia-valley)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -791,6 +805,7 @@ Apprentice Victoria (2x Potion). Field: No Field
     - Dual Chop
     - Power Trip
     - Bulk Up
+
 Her Torracat likes to try to set up on you, so be careful of that. Otherwise her team isn't anything too crazy - Ralts and Pichu are pretty weak and you can set up on them.
 
 Relationship Point Choices:
@@ -1492,7 +1507,7 @@ Rhodochrine Jungle
 |**Farfetch'd**    |1  |**Farfetch'd**    |5  |                  |   |
 |                  |   |**Tangela**       |5  |                  |   |
 
-Throughout this guide, whenever we are guaranteed the ability to catch Pokemon that was previously randomly determined such as Pachirisu, I will bold it both times. Catch a Ledian for an in-game trade later.
+Throughout this guide, whenever we are guaranteed the ability to catch Pokemon that was previously randomly determined such as Pachirisu, I will bold it both times. Catch a Ledian for an in-game trade later, and a Farfetch'd to trade for a fossil later on as well.
 
 Grab a hidden *Exp. Candy XS* here, then head up and get a hidden *Rawst Berry* and *Rare Candy*, being careful to avoid stepping on the suspicious patch of grass. Head down and to the left, you'll see Meteor Grunts. You'll actually have a choice now on how to proceed - you can either step on the suspicious patch of grass or step on tall grass near the grunts to end up in a trap, or carefully sneak around the grunts and head up. 
 
@@ -2529,7 +2544,7 @@ The Mining Kit allows us to finally deal with all those glowing rocks everywhere
 
 We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room but of course feel free to break them as you see them.
 
-Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly.
+Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly. 
 
 ### A Trip to the Slums
 
@@ -3789,7 +3804,7 @@ Enter the left apartment building. Inside, you'll find Kadabra girl's table. In 
 
 Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokemon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*. 
 
-Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and Shieldon. Unfortunately to finish the revival you have to leave the museum and pay the fee again!
+Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and Shieldon. Unfortunately to finish the revival you have to leave the museum and pay the fee again! I will note that if you only have a single Helix Fossil, there is a quest later on that requires us to have one, so consider saving it for now if you aren't dying to have an Omanyte right now.
 
 Anyways, head down and out of the door upstairs here and into the door on the other side to pick up the *Eevium-Z*. We can't use Mega Stones or Z-Crystals yet. Kadabra girl's nightstand is also in here, as well as a standard Ice Cream vending machine that contains a Vanillite like in the Sweet Co.
 
@@ -4286,8 +4301,796 @@ For winning, you'll get the *Standard Badge* which boosts our cap to 60. We'll a
 
 # Into Darkness
 
-Back inside, talk to the crew here, then Noel in the stairs room. You'll hear a non-Julia boom, indicating it's time to return to Tanzan Mountain once more.
+Back inside, talk to the crew here.
 
+Relationship Point Choices:
+- Talk to Laura on the couch (+1 Laura)
+
+Next, talk to Noel in the stairs room. You'll hear a non-Julia boom, indicating it's time to return to Tanzan Mountain once more.
+
+## Tanzan Mountain Boom and Goodies
+
+Enter Tanzan Mountain and this time go to the left. You'll see a barrier is now destroyed, so follow the path. Snag a hidden *Potion*, *Green Shard*, and *Hyper Potion* then go up into the next room. Grab the *X Sp. Atk* and go up to find Saphira. 
+
+You'll get the *Ruby Ring* and *Amethyst Pendant*! Sweet.
+
+There are also hidden *Ice Heal*, *Red Shard*, and *Revive* here. The room to the right contains nothing we can do for now however. If we head up, we can reach the next area to progress the story, however there are a few goodies here in Tanzan Mountain that we can now access.
+
+Make your way back to where the meteor base was and use the cave on the right to get to the Depths. In this first room you can find 2 hidden *Green Shards*, *Burn Heal*, *Potion*, and *Clever Wing*. 
+
+Enter the room at the bottom. This is the room where Steelix was tunneling previously. Going straight to the right, you'll find a *Metal Coat* - meaning you can now get your own!
+
+Head up and to the left. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room go up, you'll see an iron girder opening a path. Here you can grab an *Upgrade*. 
+
+That's all for now, so you can Dig or Escape Rope to get back to Tanzan Mountain proper and go up from the area where you got the jewelry from Saphira.
+
+## Route 1
+
+Only in Pokemon Reborn do we finally reach Route 1 after getting 7 badges.
+
+We actually start in the South Aventurine Woods, however.
+
+South Aventurine Woods
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Buneary           |20 |Pachirisu         |24 |Paras             |20 |
+|Ledyba            |20 |Buneary           |20 |Spinarak          |20 |
+|**Passimian**     |10 |**Passimian**     |10 |**Passimian**     |10 |
+|**Panpour**       |10 |**Panpour**       |10 |**Panpour**       |10 |
+|**Pansear**       |10 |**Pansear**       |10 |**Pansear**       |10 |
+|Pansage           |10 |Pansage           |10 |Pansage           |10 |
+|Pachirisu         |9  |**Bewear**        |6  |Ariados           |6  |
+|Ledian            |6  |**Sudowoodo**     |5  |**Kricketune**    |5  |
+|Primeape          |4  |Primeape          |4  |**Bewear**        |5  |
+|**Bewear**        |1  |**Loudred**       |1  |Primeape          |4  |
+
+|Headbutt Rare     |%  |Headbutt Common   |%  |
+|------------------|---|------------------|---|
+|Combee            |40 |Combee            |40 |
+|Swablu            |25 |Swablu            |25 |
+|Taillow           |20 |Taillow           |20 |
+|**Komala**        |6  |**Komala**        |6  |
+|Pineco            |5  |Pineco            |5  |
+|Mothim            |4  |**Wormadam**      |4  |
+
+To this day I don't really understand "Rare" vs. "Common" headbutt trees... but you can always evolve a Burmy to get the other one if it's not working out.
+
+You'll find hidden *Purple Shard* and *Green Shard* here, but we can't go left or right in this area quite yet. Instead, head up and enter Route 1 proper... but prepare yourself.
+
+Swag Jockey Fern (2x Berry Ice Cream). Field: Grassy Terrain
+- Haxorus, Lv. 52, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 31
+    - Taunt
+    - Dragon Claw
+    - Dragon Dance
+    - Iron Tail
+- Rhydon, Lv. 52, @Eviolite, Ability: Lightning Rod, Brave Nature, IVs: 31
+    - Drill Run
+    - Stone Edge
+    - Hammer Arm
+    - Fire Fang
+- Krookodile, Lv. 52, Ability: Moxie, Jolly Nature, IVs: 31
+    - Dig
+    - Brick Break
+    - Throat Chop
+    - Thunder Fang
+- Scyther, Lv. 53, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31
+    - X-Scissor
+    - Double Team
+    - Wing Attack
+    - Swords Dance
+- Roserade, Lv. 54, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Sleep Powder
+    - Giga Drain
+    - Extrasensory
+    - Hidden Power
+- Decidueye, Lv. 54, @Elemental Seed, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+    - Swords Dance
+    - Leaf Blade
+    - Spirit Shackle
+    - Shadow Sneak
+
+Oh boy, if Fern was ever a tough fight wait until he has the power of a beneficial field behind him. His Roserade and Decidueye are as always a tough combo: Roserade will put you to sleep, Decidueye will try to sweep, and both will sit back, passively heal, and enjoy the field boosts. His Rhydon is annoyingly tanky thanks to its Eviolite and has wide coverage but doesn't hit too hard, but his Haxorus and Krookodile (and Scyther, I guess) will try to sweep you with attack / speed boosts. 
+
+A good sweeper can find some success if they resist Haxorus or Rhydon's attacks, but you'll have to watch out for Shadow Sneak. You can also mutate the field to Burning if you want, obviously neutering his Grass types instead of helping them. I'd make the case that Noel is overall a harder fight than Fern in general so by making it here you should be able to succeed.
+
+So, now we get to explore Route 1. It's quite huge.
+
+Route 1
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Deerling          |20 |Deerling          |20 |Arbok             |24 |
+|Cherubi           |20 |**Ponyta**        |20 |**Ponyta**        |20 |
+|**Tauros**        |10 |**Tauros**        |10 |**Tauros**        |10 |
+|**Bouffalant**    |10 |**Bouffalant**    |10 |**Bouffalant**    |10 |
+|**Miltank**       |10 |**Miltank**       |10 |**Karrablast**    |10 |
+|**Kangaskhan**    |10 |**Kangaskhan**    |10 |**Kangaskhan**    |10 |
+|**Mudbray**       |5  |**Skiddo**        |5  |Audino            |5  |
+|**Skiddo**        |5  |**Linoone**       |5  |**Linoone**       |5  |
+|Audino            |4  |**Mudbray**       |4  |**Mudbray**       |4  |
+|**Cherrim**       |4  |Audino            |4  |**Rapidash**      |1  |
+|**Gogoat**        |1  |**Gogoat**        |1  |**Mudsdale**      |1  |
+|**Mudsdale**      |1  |**Mudsdale**      |1  |                  |   |
+
+You'll also find pairs of Tauros and Bouffalant all over the route. If you fight Tauros, the Bouffalant will go running off in the direction it's facing, which means that any logs in the way will be pushed. If you fight Bouffalant, Tauros will let you ride it, meaning you can now go up ledges. Game changer.
+
+As a note: there are a bunch of entrances to the North and South Aventurine Woods scattered about Route 1. I'll cover the optional sidequests in the woods a bit later on in the guide fully, so for now I will just focus on Route 1 itself mainly.
+
+Before hopping up or down any edges, you can find a hidden *Nugget* here. Head down one ledge to the left, in this area you can find hidden *Blue Shard*, *Red Shard*, and *Purple Shard*. Head down the ledge to the left. Here you'll find hidden *X Sp. Atk*, *Elemental Seed*, and *Blue Shard*. Go down the next ledge to find hidden *Carbos*, *Green Shard*, and *Great Ball*. Hop down the ledge to the left to get hidden *Escape Rope*, *Blue Shard*, and *Grass Gem*. The Miltank around here will do a trade with us: one Oran Berry for its *Moomoo Milk*. Make sure you have at least one Moomoo Milk in your bag for a quest way later. Anyways, head inside.
+
+Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll embark on in a bit. Upstairs someone will give us the password *allfieldapp*, and another person will tell us they lost their glasses. This will also be our main healing hub for now. Upstairs, you can do an in-game trade: our Dunsparce for **Tyrogue**. Nice. Grab the *Wide Lens* here as well.
+
+Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*. Down again you'll find hidden *Ice Heal* and *Pokesnax*. Finally, on the bottom tier, you can find hidden *Red Shard*, *Purple Shard*, and *Pokeball*. You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a mount and we can head back up Route 1!
+
+This time, as you go right, take the time to knock out every single Tauros. Even if we can't see them right now, there are logs in the woods that Bouffalant will be able to take care of for us, so it's a good idea to move every single one of them right now while we're exploring Route 1 anyways.
+
+You'll notice as you go that you will be unable to go through tall grass on your Tauros. The first time it totally blocks your progress right, enter the forest entrance directly up from this area.
+
+North Aventurine Woods
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Buneary           |20 |Pachirisu         |24 |Paras             |20 |
+|Ledyba            |20 |Buneary           |20 |Spinarak          |20 |
+|**Oranguru**      |10 |**Oranguru**      |10 |**Oranguru**      |10 |
+|Panpour           |10 |Panpour           |10 |Panpour           |10 |
+|Pansear           |10 |Pansear           |10 |Pansear           |10 |
+|Pansage           |10 |Pansage           |10 |Pansage           |10 |
+|Pachirisu         |9  |Bewear            |6  |Ariados           |6  |
+|Ledian            |6  |Sudowoodo         |5  |Sudowoodo         |5  |
+|Primeape          |4  |Primeape          |4  |Bewear            |5  |
+|Bewear            |1  |Loudred           |1  |Primeape          |4  |
+
+|Headbutt Rare     |%  |Headbutt Common   |%  |
+|------------------|---|------------------|---|
+|Combee            |40 |Combee            |40 |
+|Swablu            |25 |Swablu            |25 |
+|Taillow           |20 |Taillow           |20 |
+|Komala            |6  |Komala            |6  |
+|Pineco            |5  |Pineco            |5  |
+|Mothim            |4  |Wormadam          |4  |
+
+You can also find a hidden *Pokeball* in here. Make your way out to the right and back onto Route 1.
+
+You'll eventually make your way back to the area where we fought Fern. To progress to the right while still on your Tauros, you'll need to have a Bouffalant move a log. Anyways, to the right you can find an *Exp. Candy L* as well as 2 hidden *Green Shards*, and *Electric Gem*. Note while you're here that you can pet Flareon, the first of many Eeveelutions we'll need to pet for that sidequest.
+
+On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mushroom*. To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards - past it, you can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale*. You'll notice we can't access the area at the bottom-right while on a Tauros, so we'll come back here later on. Continue knocking out the Tauros to get Bouffalant to push logs as we progress.
+
+On the next hill you can get a hidden *Pokesnax*, *Purple Shard*, and *Pokeball*. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, *Zinc*, *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*. 
+
+With that out of the way, dismount off your Tauros with 'A' and jump down the ledges down and to the left until we reach the secluded part we skipped earlier. Beat this final Tauros to move one more log, then grab the hidden *Super Repel*. Up above you should find another pair of fighting bulls - beat Bouffalant to get another Tauros mount, then return all the way to the right. We can't do anything in the top area for now, so head down and into the Vanhanen Labyrinth.
+
+## Vanhanen Castle
+
+Vanhanen Labyrinth
+
+|Land              |%  |
+|------------------|---|
+|**Girafarig**     |24 |
+|Ponyta            |20 |
+|Deerling          |15 |
+|Stantler          |15 |
+|Kecleon           |14 |
+|Skiddo            |10 |
+|Furfrou           |2  |
+ 
+You can get the *Chess Arena Field Readout* as well as hidden *Ice Gem*, *Red Shard*, *Nugget*, *Blue Shard*, *Exp. Candy XL*, *Timer Ball*, *Dusk Ball*, *Tiny Mushroom*, *Purple Shard*, *Health Wing*, *Magical Seed*, and *Quick Ball* all throughout the labyrinth. Grab the *Purple Shard* in a nearby rock then enter the castle. 
+
+Heal and prep your team, then enter the next room. Here we can pet Umbreon for the quest, but make sure you do this now since this is a limited time petting opportunity! 
+
+Relationship Point Choices:
+- Pet Luna's Umbreon (+1 Luna)
+
+Anyways, talk to Luna.
+
+Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field
+- Muk (Muk-Alola), Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15. (Pawn)
+    - Gunk Shot
+    - Minimize
+    - Knock Off
+    - Power-Up Punch
+- Mimikyu, Lv. 53, Ability: Disguise, Jolly Nature, IVs: 31 (King)
+    - Drain Punch
+    - Play Rough
+    - Swords Dance
+    - Shadow Sneak
+- Meowstic (Meowstic-Female), Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
+    - Charge Beam
+    - Psychic
+    - Shadow Ball
+    - Light Screen
+- Marowak (Marowak-Alola), Lv. 54, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 15 (Rook)
+    - Flare Blitz
+    - Stomp Tantrum
+    - Shadow Bone
+    - Will-O-Wisp
+- Primarina, Lv. 54, Ability: Torrent, Modest Nature, IVs: 31 (Bishop)
+    - Moonblast
+    - Sparkling Aria
+    - Blizzard
+    - Reflect
+- Nidoking, Lv. 55, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0 (Queen)
+    - Earthquake
+    - Throat Chop
+    - Poison Jab
+    - Megahorn
+
+This battle features the new Chess Field. While stuff like Grassy Terrain and Super-heated Field are farily intuitive, you really should read up about Chess field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
+
+Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is of course annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
+
+Anyways, once you win, we can talk to Luna.
+
+Relationship Point Choices:
+- Talk to Luna after G.Gardevoir is captured (+1 Luna)
+
+ head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly. 
+
+## Citae Astrae
+
+Once you enter, you'll see El run to the left. Follow him, then talk to Radomus to jump down. You can find a hidden *Star Piece*. Talk to Radomus and go down. Grab the hidden *Stardust* and go down the ladder. 
+
+Hey look! We made it to another chunk of the grand stairway that we couldn't access earlier. Grab hidden *Burn Heal*, *Repel*, *Big Pearl*, *Full Heal*, and *Super Repel* as you make your way right. In the next room, pick up 3 hidden *Purple Shards*, then exit to the left. Grab a hidden *Exp. Candy L* and go down the ladder. In this room you can find a hidden *Stardust* and 3 *Star Pieces*. Go up and into the new area.
+
+After a scene, you'll be free to explore. 
+
+Citae Astrae Bottom
+
+|Land              |%  |
+|------------------|---|
+|Unown             |44 |
+|**Drowzee**       |20 |
+|**Baltoy**        |20 |
+|**Elgyem**        |14 |
+|**Claydol**       |1  |
+|**Hypno**         |1  |
+
+In this area, you can find 5 hidden *Star Pieces*, *Shoal Shell*, and *Shiny Stone*. Say that ten times fast. 
+
+Enter the building here. We can use our Ruby Ring to access a door. Inside, you'll find the first of many of Reborn's logic-by-contradiction puzzles. The ones in here shouldn't be too crazy, so I recommend solving these yourself. Anyways, the answer:
+
+> Chimchar Dark, Monferno Dark, Infernape Light
+
+After the puzzle, go through the teleporter. You can actually make your way back through the purple teleporter to grab a *Exp. Candy XL*. With that, head up and into the door.
+
+Relationship Point Choices:
+- Agree to give Adrienn the ring (+1 Adrienn, -1 Cain)
+- Refuse to give Adrienn the ring (-1 Adrienn, +1 Cain)
+
+Relationship Point Choices:
+- Speak to Adrienn about the pronouns when the player is Non-binary (+1 Adrienn)
+
+Note that we will eventually get points for free for being the other genders too. Enter the red door for another logic puzzle.
+
+> Hitmonchan: Dark, Hitmonlee: Light, Tyrogue: Light, Hitmontop: Dark
+
+Use the Light Shard (or wait till we catch a few Pokemon) and head out.
+
+Citae Astrae Top
+
+|Cave              |%  |
+|------------------|---|
+|Unown             |64 |
+|Natu              |20 |
+|**Xatu**          |10 |
+|**Sigilyph**      |6  |
+
+Once you're ready, talk to El at the top. You will have to choice between siding with El, or Radomus. If you choose the former, you're allowed to lose the upcoming battle, but if you choose the latter, you must win to progress.
+
+**In order to access the exclusive postgame route, you need to side with Radomus and win.**
+
+Parson El (2x Full Heal). Field: Crystal Cavern Field
+- Arceus, Lv. 75, @Leftovers, Ability: Multitype, Quiet Nature
+    - Recover
+    - Judgment
+    - Shadow Ball
+    - Focus Blast
+
+One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic-type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
+
+Relationship Point Choices:
+- Side with El and lose (+3 Elias, +1 Adrienn, -3 Gardevoir, -2 Luna, -2 Radomus)
+- Side with El and win (+1 Cain, +2 Elias, +2 Adrienn, -2 Gardevoir, -2 Luna, -2 Radomus)
+- Side with Radomus and win (+2 Radomus, +2 Luna, +3 Gardevoir, +1 Anna, +1 Shade, +1 Cain, -1 Adrienn, -2 Elias)
+
+With that, agree to leave together. Exit out of the Grand Gate, then make your way to Coral Ward. Talk to Adrienn here, then accept fast travel if you wish back to Vanhanen Castle. I will recommend not doing that so we can prep for an upcoming sidequest.
+
+We're gonna need about 30 Honeys for the next section - you can either buy it directly, buy about 25 Ice Creams and/or Candies to trade in a bit, or a single Blue Moon Ice Cream works too.
+
+## North Aventurine Woods Exploration
+
+Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right. Enter 1N, the first entrance to the forest that you see. This will simply spit us out at 2N. To the right, you'll find 3N. 
+
+Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it (immediately, unlike past versions). If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
+
+Head to the right from here and go through another set of tall grass, but don't go down this ledge just yet. If you do, step on the flower but don't pull out the Floral Charm just set - I'm saving that for a specific flower later on. Not pulling it out will send you back to Route 1, whenever you get stuck.
+
+Down from here, you'll find a hidden *Mental Herb* and another honey tree. Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass the old web spot and go up the next ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave.
+
+Celestinine Mountain 2F
+
+|Cave              |%  |Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Buizel**        |24 |Finneon           |70 |Remoraid          |60 |
+|Swinub            |20 |**Wishiwashi**    |30 |Clauncher         |20 |
+|Cubchoo           |14 |                  |   |Qwilfish          |20 |
+|**Floatzel**      |11 |
+|**Piloswine**     |10 |
+|Beartic           |10 |
+|Sandshrew (Alolan)|5  |
+|Sandslash (Alolan)|5  |
+|Delibird          |1  |
+
+Grab the hidden *Ether* and *Repel*, then make your way to the ice puzzle. Slide your way to the center, then slide left and up from the top left part of the center to get the *Icy Field Readout*. Oh, and the Icy Rock to evolve Eevee into Glaceon is here as well. Slide to the left and down to head down some stairs from here.
+
+Pick up an *Ice Stone* up here as well as a hidden *Potion*. You can also find *TM23 Smack Down* in here. Do some fishing if you'd like, then exit out to the woods the way we came in.
+
+Grab a Tauros mount and head east from 3N in search for 4N. Once you find it, grab the hidden *Dire Hit* and *Big Mushroom*. To the left, you'll find a web we can destroy next to a Honey Tree, but there's no point to using a Honey on this one actually. Head back to the right and go up, then dismount. Past the tall grass, you'll find some soil to plant berries in if you'd like as well as the *Pikanium-Z* and a *Green Shard*. Enter the building here.
+
+A Pikachu on the ground floor is actually a move tutor.
+
+Nyu's Pikachu Move Tutor
+
+| Move      |Price  |
+|-----------|-------|
+|Volt Tackle|Free   |
+
+Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokemon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*. 
+
+Back outside, go right. You'll see another Honey tree - defeat Pinsir to clear some webs. We can ignore the nearby log. Grab the hidden *Burn Heal* and go up - we'll be blocked by a log for now! So, exit to Route 1, hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
+
+Relationship Point Choices:
+- Say you did see that just now (-1 Titania)
+- Say you didn't see that just now (-2 Titania)
+
+To the right, 6N will spit us back out onto Route 1, so find 7N to the east. Pick up the hidden *Paralyze Heal*. Dismount if you haven't already, then go left and up. You'll find a Honey tree - beat Heracross to clear a log to the left. Head back down and to the right here, then go up through the tall grass. There's another Honey tree - beat Heracross again to clear a log.
+
+Head back out to Route 1, and pick up a Tauros mount. Head right back in to 7N and go up the ledge at the top. Grab the *Sharp Beak* as well as hidden *Synthetic Seed* and *Tiny Mushroom*. 
+
+North Aventurine Woods Pond
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|**Dewpider**      |100|**Dewpider**      |95 |
+|                  |   |**Araquanid**     |5  |
+
+Finally, head back to Route 1, pick up a Tauros mount (if there are none, go west) and enter 4N once more. Follow the path to the right and go up the ledge here. Grab the *Exp. Candy XL*, *Calm Mint*, *Careful Mint*, and 2 *Lum Berries*. Also you can find hidden *Great Ball* and *Red Shard*. Return to Route 1.
+
+## South Aventurine Woods Exploration
+
+Unfortunately getting everything in the South Aventurine Woods is a bit complicated, to make things easier, we will start at 8S and then go from the left afterwards. From the Vanhanen Labyrinth, enter the first south woods entrance from the right (this will be 8S, using the left-to-right numbering). Note you'll have to dismount to get here. 
+
+Inside, grab the hidden *Revive* then use the Honey tree two times to destroy both of the nearby obstacles. With that out of the way, head all the way to the west, heal if you'd like, then enter 1S on the south side of Route 1.
+
+Grab a hidden *Clever Wing* then go up the ledge and follow the path. Talk to the Honey tree and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S. Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the honey tree and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again and go up the right ledge then go down. Once you reach the last ledge, dismount and go down through the tall grass. Use the Honey tree and fight Heracross this time, then return to Route 1. Shocker - grab another Tauros, enter 2S, this time following the path down first. Jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount.
+
+Pick up the hidden *Revive* in the next area, then use the Honey tree and fight Heracross. Exit out of 3S above, get a Tauros mount, and return. Go up the ledge at the bottom, use the Honey tree and fight Pinsir. Grab the hidden *Purple Shard*, and you'll notice we can't progress this way any further. Return to Route 1.
+
+Next, we'll be entering 4S - you'll know you're in the right place if you recognized where we fought Fern. Anyways, lather the Honey tree closest to you and fight Pinsir, then make your way right. Don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree, defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening. Go that way, and pull out our Floral Charm when prompted to battle **Flabebe**! Head straight to the right and grab the *Oddishweed*. Head back and get lulled into a daze to return to Route 1.
+
+Again, enter 4S, this time, heading down. Use the nearby Honey tree two times to clear both obstacles. Go down and immediately to the right, use another Honey tree and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and 
+a hidden *Telluric Seed*. 
+
+Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*. Go right from here and grab the hidden *Fire Gem*. Down the ledge you'll finally see why I had us do 8S first... anyways follow the path right then go up. Get the hidden *PP Up* and finally dismount, then head up into the grass. 
+
+Here, you can grab a *Razor Claw* and *TM40 Aerial Ace* as well as hidden *Silver Powder* and *Magical Seed*. You'll also find a Heracross and a Pinsir here. To get **Heracross** defeat the Pinsir, and to get **Pinsir** defeat the Heracross. We'll be able to obtain the other later.
+
+Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side via 6S. That wraps up our exploration of the woods!
+
+Return to the Route 1 Nature Center and talk to the guy on the second floor who lost his specs. In exchange for the Tech Glasses we will get *Department Store Sticker: Heracross*! 
+
+Department Store 8F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*X Attack*     |$500           |
+|*X Defend*     |$550           |
+|*X Sp. Atk*    |$350           |
+|*X Speed*      |$350           |
+|*X Sp. Def*    |$350           |
+|*Guard Spec.*  |$700           |
+|*X Accuracy*   |$950           |
+|*Dire Hit*     |$650           |
+
+I've never used any of these in my life, but if you want to go for it.
+
+Department Store 8F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Big Root*     |$1200          |
+|*Focus Band*   |$2500          |
+|*Zoom Lens*    |$1200          |
+|*Scope Lens*   |$2200          |
+|*Bright Powder*|$2000          |
+|*Quick Claw*   |$1800          |
+
+We've gotten some of these already but sheesh finally some mildly decent non-consumable held items for sale.
+
+With that out of the way, you can use the Tauros shortcut just north of the Grand Gate to make your way to Vanhanen Castle once more.
+
+## Millenium Badge
+
+After talking to the group at the entrance, go up two rooms. Radomus will explain to us the puzzle. Enter the room on the left and grab a *Psychic Memory*. 
+
+Talk to Elias here for more details on the puzzle, etc.
+
+Relationship Point Choices:
+- Ask Elias about himself (+1 Elias)
+
+The screen in here will also tell us what our current team chess piece ranks would be in its current ordering, useful for planning for the upcoming fight.
+
+Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
+
+> Rook up 7; king up 5, and right 2. 
+
+Relationship Point Choices:
+- Get the first chess puzzle right on your first try (+1 Radomus)
+
+Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
+
+> Knight up 3, and right 3; Rook right 1, up 7, right 1; Bishop up-left 4.
+
+Enter room 3. Luna's trick can help us out here.
+
+> Rightmost Pawn up 1; Second-rightmost Pawn up 6, promote to Knight, down 4, left 6, up 2; Rightmost Knight up 3, left 5, up 2.
+
+Enter room 4. This is a harder one but you can use the trick from the last room to figure it out.
+
+> Pawn up 5, promote to Queen, down 5, right 1; Rightmost Knight left 1, up 2, left 3, up 3, right 3, down 1; Bishop up-left 2, Leftmost Knight up 2.
+
+Head up and into the next room when you are ready for your gym battle.
+
+Grandmaster Radomus (2x Ultra Potion). Field: Chess Arena
+- Reuniclus, Lv. 57, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: IVs: 31 (0 Speed) (Pawn)
+    - Trick Room
+    - Psychic
+    - Focus Blast
+    - Toxic
+- Malamar, Lv. 58, @Rocky Helmet, Ability: Contrary, Brave Nature, IVs: IVs: 31 (0 Speed) (Pawn)
+    - Superpower
+    - Throat Chop
+    - Trick Room
+    - Rock Slide
+- Gallade, Lv. 58, @Muscle Band, Ability: Justified, Brave Nature, IVs: IVs: 31 (0 Speed) (Bishop)
+    - Strength
+    - Close Combat
+    - Knock Off
+    - Fire Punch
+- Slowking, Lv. 57, @Wise Glasses, Ability: Regenerator, Sassy Nature, IVs: IVs: 31 (0 Speed) (Rook)
+    - Trick Room
+    - Nasty Plot
+    - Scald
+    - Psychic
+- Metagross, Lv. 59, @King's Rock, Ability: Clear Body, Brave Nature, IVs: IVs: 31 (0 Speed) (King)
+    - Zen Headbutt
+    - Meteor Mash
+    - Ice Punch
+    - Strength
+- Gardevoir, Lv. 60, @Sitrus Berry, Ability: Trace, Sassy Nature, IVs: IVs: 31 (0 Speed), EVs: 252/0/0/0/252/5. (Queen)
+    - Calm Mind
+    - Wish
+    - Psychic
+    - Moonblast
+
+Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Malamar will then go for its Contrary Superpower set up while Reuniclus likes to hit insanely hard and go first with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock-type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room. Finally, his Gardevoir is EV trained, has a berry, and hits really hard with boosted Psychic but can also set up on you. 
+
+One strategy you can try to use to win is essentially to shut down Trick Room altogether. Using moves like Fake Out will allow you to knock out the Trick Room users on the second turn with super-effective Bug/Dark/Ghost moves, opening you up to exploit the low speeds on everything except Metagross with priority to get an easy sweep. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it. Alternatively, Slowking and Reuniclus are the only Pokemon that excel dramatically in Trick Room of this team, so you can just embrace the Trick Room and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower mons will be outspeeding everything except Metagross and maybe Slowking, allowing you to exploit the relatively low defenses of the team barring Gardevoir. 
+
+Your team composition is going to important regardless: you will probably want your leads to be your least bulky mons, especially if they have moves you need to use to get the ball rolling on your strategy like status conditions or hazards. Then, you're going to want your hardest hitting Pokemon to be a King if possible, though without a King's Rock at this point this can be tough to arrange. The rest will essentially fall naturally into Rook/Bishop/Queen - save a bulky attacker for the latter, and consider a Synthetic Seed if you have a special-attacking Bishop. If you happen to have a Pokemon with higher speed than anything else it will become a Knight and can be a great choice to OHKO Gardevoir towards the end. In terms of other Chess-field things: you can use Strength/Secret Power yourself for a field boost if you wish; these moves will shoot through the roof in power if you can confuse your opponents. You also get a boost when using Shadow Sneak and Sucker Punch, which you can use to ignore Trick Room speeds and steal some KO's against his Psychic types. Defensively, you can use Pokemon with Adaptability, Telepathy, Anticipation, or Synchronize to eat Radomus' Psychic and Strength attacks. Finally, you could also consider using Stomping Tantrum to cancel out the field altogether if you need to.
+
+Once you win, you'll get the *Millenium Badge* which pushes our cap up to Lv. 65 as well as *TM92 Trick Room*. Finally we have pretty much the best TM in the game!
+
+# Out of Light
+
+After everything goes dark, head out of the gym. Once you get outside, use the Light Shard since your team will probably be pretty crippled. Head out into the labyrinth. One of the meteor grunts is Radomus in disguise and will allow you to escape via walking on top of the hedges. Make your way out of the labyrinth, hop on the circling Tauros to skip to the other side of Route 1, then enter Reborn City.
+
+## Seventh Street
+
+Talk to your gang leader, and they will tell you about Seventh Street. To reach it with Aqua Gang, use the top left house in Lapis, with Magma Gang, use a house on the left in the center of Lapis. 
+
+Wander around the area and defeat all the trainers. Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Shards*, 2 *Green Shards*, *Pecha Berry*, *X Sp. Atk*, 2 *Red Shards*, and *Calcium*. The house in the middle of the top contains a healing point and PC. Talk to all of the NPC's in the area and you'll learn about what you can get down here in 7th.
+
+Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you first 1, then 2, then 3 from then on of a random color of shard. Useful. Up and to the right we'll find a couple of move tutors.
+
+Seventh Street Upper-right Move Tutor Top
+
+|Move           |Price          |
+|---------------|---------------|
+|Role Play      |1 Purple Shard |
+|Covet          |3 Blue Shards  |
+|Electroweb     |3 Green Shards |
+|Sky Attack     |2 Red Shards   |
+
+Seventh Street Upper-right Move Tutor Bottom
+
+|Move           |Price          |
+|---------------|---------------|
+|Trick          |2 Purple Shards|
+|Defog          |2 Red Shards   |
+|Laser Focus    |1 Blue Shard   |
+|Skill Swap     |1 Green Shard  |
+
+Seventh Street Middle Move Tutor Top
+
+|Move           |Price          |
+|---------------|---------------|
+|Water Pulse    |3 Blue Shards  |
+|Last Resort    |2 Purple Shards|
+|Super Fang     |3 Green Shards |
+|Shock Wave     |3 Red Shards   |
+
+Seventh Street Middle Move Tutor Bottom
+
+|Move           |Price          |
+|---------------|---------------|
+|Headbutt       |3 Blue Shards  |
+|Bounce         |3 Purple Shards|
+|Heal Bell      |4 Green Shards |
+|Bug Bite       |3 Red Shards   |
+
+None of these are mindblowing in general but some of them can be useful for certain strategies. As usual, these are pay once, redeem forever so you can always come back to relearn them.
+
+The guy to the right is selling random stuff
+
+Seventh Street Right Wares Shop
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Adrenaline Orb*   |$300           |
+|*Metal Powder*     |$300           |
+|*Ill-Fated Doll*   |$300           |
+|*Iron Ball*        |$1000          |
+|*Lucky Punch*      |$200           |
+|*Eject Button*     |$1800          |
+|*Data Chip*        |$5000          |
+|*Magnet Powder*    |$600           |
+|*TM64 Explosion*   |$7500          |
+
+Pricey, but we finally have the ability to get as many data chips as we want for password inputs. We will also want a Magnet Powder for a quest later. There is another seller in the bottom left corner
+
+Seventh Street Right Wares Shop
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Oval Stone*       |$2100          |
+|*Quick Powder*     |$300           |
+|*Sticky Barb*      |$600           |
+|*Charcoal*         |$800           |
+|*Soul Candle*      |$2000          |
+|*Light Ball*       |$500           |
+|*Stick*            |$200           |
+|*Float Stone*      |$400           |
+|*Binding Band*     |$1700          |
+
+Grab a Soul Candle for a quest later on. 
+
+To the right, you'll see one of your gang members making a sale:
+
+Seventh Street Blast Powder Shop
+
+|Item           |Price  |
+|---------------|-------|
+|*Blast Powder* |$2000  |
+
+Blast Powder will essentially let us mine all the mining rocks a second time. Buy at least 5 for now since there are a few things actually gated behind the mining rocks we'll want to grab, but getting more won't hurt. For what it's worth, saving in front of a rock until you find a Star Piece or Rare Bone in the rubble you can guarantee a return on investment for these things.
+
+Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokemon we previously worked with in the Blacksteam Meteor Factory. 
+
+Seventh Street Pokemon Seller
+
+|Pokemon        |Price          |
+|---------------|---------------|
+|Vanillite      |3 Purple Shards|
+|Loudred        |5 Blue Shards  |
+|**Roggenrola** |3 Red Shards   |
+|**Abra**       |8 Purple Shards|
+|**Lickitung**  |7 Blue Shards  |
+|Makuhita       |3 Green Shards |
+|**Jigglypuff** |5 Green Shards |
+|**Cyndaquil**  |9 Red Shards   |
+
+Something important to note is there is a sidequest later that will involve returning Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners, so I recommend breeding them and keeping the originals somewhere in your PC that you'll remember. The rest you can train up as you wish.
+
+If you've been picking up all the hidden shards I've pointed out and have been mining most of the rocks, getting every Pokemon should be no problem at this point. Shards will pretty much from now on only be useful for unlocking future move tutors and buying Ability Capsules and a few other small things.
+
+For one, if you've kept up so far with the sidequest involving that Pokemon stolen from us in the Grand Hall, all the way back in the first part, you can now continue that quest. For just 2 Blue Shards, you can buy back your Pokemon... just kidding, it gets stolen again. Sigh.
+
+Anyways, exit this area. Once you buy all of the Pokemon, DJ Arclight will give you a *Lucky Egg*. 
+
+Relationship Point Choices:
+- Buy all of the seventh street stolen Pokemon (+1 Arclight)
+
+The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want! Don't need to rely on finding mints anymore, which is really nice.
+
+Enter the nearby grotto. Note that there is a sneaky hidden item behind a trainer on the left, make sure you draw him out at least 1 tile when he notices you in order to get it. Anyways, hidden in this room is *Black Glasses*, *Red Shard*, and *Exp. Candy XL*. 
+
+North of the top move tutors, you'll see a shadow indicating an entrance. Inside, talk to the green machine to get a *Synthetic Seed*. Defeat the researcher in here and agree to participate in her sidequest.
+
+First, you'll need to bring her a Carvanha. Note that these will be gone forever. We can fish one in the nearby Lapis Alleyway. Next, you'll need an Unfezant. You can get Tranquill on the Onyx Rooftop: evolve it at Lv. 31 to get **Unfezant**, then donate it. Finally, we'll need Luxray. You can get Shinx in the Game Corner, evolve it at Lv. 15 then again at Lv. 30 to get **Luxio** then **Luxray**. Donate the latter. Exit Seventh to Lapis Ward, then come back down. Save the game and talk to Nadira. You'll be able to catch **Type: Null**, our first legendary!
+
+On the north side of the main part of seventh, talk to your gang member and he'll mention seeing Bennett in the watering hole. Enter the watering hole, heal if you want, then head out and into the grotto on the right. Grab the hidden *Blue Shard* then talk to Bennett here.
+
+Back outside, a door will be open above you. Head up and to the right. You'll find a mining rock - break it and then use Blast Powder, then pick up the hidden *'Rare Candy'*. Head back to Seventh and it will be stolen! Head all the way to the bottom left of the area and you'll find the thief. Battle him to get it back. Enter the top grotto and give it to a guy to obtain **Piplup**!
+
+Reenter the narrow hole in the wall. You can find hidden *Purple Shard* and *Chewing Gum* as you go left. Enter the room in the bottom left!
+
+## Subseven Sanctum
+
+You'll be moved to a cage. Read the green book here - in fact, every green book you see around this dungeon. Keep note of what the scripture says as well as the numbers at the end.
+
+Head out once Klefki opens the door. Welcome to Reborn's stealth section. I recommend saving often and if you get caught just reloading - save yourself the time. You might also want to turn off speed-up. Head right and go up the second from right passage, then go right and into the open door. Read these books and grab the *Spell Tag* and *Holy Field Readout*. 
+
+Back outside, sneak past the nearby guard by going up at the right time, then go left when you can. You'll notice you can't go too far left, so you'll need to time going down past a patrolling guard, then once he passes you, go up, left, and down so he can't see you anymore. From here, head left once he moves back to the right, but don't go too far left. You'll next need to go down, left, down, then left once more. Time going up along the left wall, then take the first right. 
+
+You'll need to go up here, but you can't see the full body of the guard above. This might take a couple of resets, but you'll need to perfectly time going up and then left based on whether you are seeing the front or back of the legs of the sprite. Yeah. Once you succeed, you'll need to loop around and repeat to go up from the guard. Head up and right and go up the stairs - the guards will all leave, so you can now navigate this room as you like without getting caught.
+
+In the next room, you'll need to defeat grunts around the room and interact with 4 statues and input numbers that correspond to the respective scriptures. Solutions:
+
+> Green: 3827, Purple: 0204, Red: 2303, Blue: 1605
+
+Once the door is opened towards the middle, prepare for a battle and head up.
+
+Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field
+- Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
+    - Psychic
+    - Dazzling Gleam
+    - Trick
+    - Energy Ball
+- Zoroark, Lv. 62, @Magical Seed, Ability: Illusion, Timid Nature, IVs: 31
+    - Foul Play
+    - Flamethrower
+    - Extrasensory
+    - Grass Knot
+- Togekiss, Lv. 60, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31
+    - Dazzling Gleam
+    - Air Slash
+    - Body Slam
+    - Roost
+- Primarina, Lv. 61, @Assault Vest, Ability: Torrent, Modest Nature, IVs: 31
+    - Sparkling Aria
+    - Moonblast
+    - Icy Wind
+    - Hyper Voice
+- Porygon-Z, Lv. 61, @Wise Glasses, Ability: Download, Modest Nature, IVs: 31
+    - Tri Attack
+    - Psyshock
+    - Thunderbolt
+    - Recover
+- Delphox, Lv. 63, @Magical Seed, Ability: Magician, Modest Nature, IVs: 31
+    - Mystical Fire
+    - Psyshock
+    - Dazzling Gleam
+    - Foul Play
+
+Another battle with Meteor's Ace themselves! 
+
+Relationship Point Choices:
+- Tell Ace Loyalty (+1 Ace, -1 Elias)
+- Tell Ace Blood (+1 Elias, -1 Ace)
+
+Back outside in the Beryl Wall, another conversation will occur.
+
+Relationship Point Choices:
+- Tell Luna you are afraid of the dark (-1 Luna)
+- Tell Luna you aren't afraid of the dark after siding with El (Neutral)
+- Tell Luna you aren't afraid of the dark after siding with Radomus (+1 Luna)
+ 
+You'll then get the *Red Crystal Key*! Don't accept Cain's fast travel request - we can finish a few things up down in Seventh, plus getting to Vanhanen Labyrinth is now easy thanks to the circling Tauros.
+
+## A Cult and a Gang: Sidequests
+
+Ok, so there are a few sidequests we can take care of in and around Seventh. First, head right back into the Subseven Sanctum and talk to the pentagram thing. With a Soul Candle in our bag, we'll be able to catch **Litwick**. 
+
+Back in seventh, the house in the bottom left corner will now be unlocked. If you have a Helix Fossil and do not have a Dome Fossil in your bag, the Twitch Plays Pokemon cultist will ask us to bring a Farfetch'd to him. Do so, and you'll get a choice between the *Sail Fossil* and the *Jaw Fossil*. Since we already have Amaura, no point in getting the former, so pick up the Jaw.
+
+Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off, and your gang leader telling you to meet at her house in Lapis, so do so.
+
+Harridan Craudburry. Field: No Field
+- Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Leaf Blade
+    - Strength Sap
+    - Sludge Bomb
+    - Sleep Powder
+- Qwilfish, Lv. 60, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/252/0/0
+    - Explosion
+    - Waterfall
+    - Destiny Bond
+    - Throat Chop
+- Amoonguss, Lv. 61, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Spore
+    - Giga Drain
+    - Sludge Bomb
+    - Synthesis
+- Crabominable, Lv. 62, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/20/0/0
+    - Ice Hammer
+    - Close Combat
+    - Earthquake
+    - Stone Edge
+- Slaking, Lv. 63, @Leftovers, Ability: Truant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Hammer Arm
+    - Slack Off
+    - Frustration
+    - Night Slash
+
+If this was a normal Pokemon game, this fight would be pretty hard relative to the others. However this is Pokemon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokemon - should be nothing for you at this point. You can exploit Slaking's Truant with Protect to set up or something if you need to.
+
+### Choice: The Magma Gang 3
+
+As usual, if you are in the Aqua Gang, skip ahead to the next section.
+
+Head outside, and talk to Maxwell. He will give us *TM11 Sunny Day*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Archer who you can battle!
+
+Aqua Mastermind Archer. Field: No Field
+- Pelipper, Lv. 58, Ability: Drizzle, Modest Nature, IVs: 20
+    - Hydro Pump
+    - Hurricane
+    - Roost
+    - Tailwind
+- Relicanth, Lv. 58, Ability: Rock Head, Bashful Nature, IVs: 30
+    - Hydro Pump
+    - Head Smash
+    - Double-Edge
+    - Yawn
+- Seaking, Lv. 59, Ability: Lightning Rod, Adamant Nature, IVs: 30
+    - Drill Run
+    - Waterfall
+    - Megahorn
+    - Poison Jab
+- Blastoise, Lv. 60, Ability: Torrent, Modest Nature, IVs: 20
+    - Hydro Pump
+    - Hydro Cannon
+    - Ice Beam
+    - Yawn
+- Sharpedo, Lv. 62, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Aqua Jet
+    - Crunch
+    - Earthquake
+    - Ice Fang
+
+Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokemon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority but everything else is slow enough that you can figure this one out, I'm sure.
+
+For winning, you'll get *TM18 Rain Dance*. 
+
+### Choice: The Aqua Gang 3
+
+As usual, if you are in the Magma Gang, skip ahead to the next section.
+
+Head outside, and talk to Archer. He will give us *TM18 Rain Dance*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Maxwell who you can battle!
+
+Magma Kingpin Maxwell. Field: No Field
+- Ninetales, Lv. 58, @Wise Glasses, Ability: Drought, Modest Nature, IVs: 31
+    - Will-O-Wisp
+    - Fire Blast
+    - Extrasensory
+    - Confuse Ray
+- Heatmor, Lv. 58, @Muscle Band, Ability: White Smoke, Adamant Nature, IVs: 31
+    - Hone Claws
+    - Fire Punch
+    - Thunder Punch
+    - Sucker Punch
+- Turtonator, Lv. 59, @Wise Glasses, Ability: Shell Armor, Bashful Nature, IVs: 31
+    - Shell Trap
+    - Overheat
+    - Explosion
+    - Dragon Pulse
+- Charizard, Lv. 60, @Wise Glasses, Ability: Solar Power, Modest Nature, IVs: 31
+    - Flamethrower
+    - Air Slash
+    - Dragon Pulse
+    - Blast Burn
+- Houndoom, Lv. 62, @Wise Glasses, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Nasty Plot
+    - Flamethrower
+    - Dark Pulse
+    - Sludge Bomb
+
+Maxwell uses his sun team once more, but you'll notice it's not really optimized. His Ninetales is the only mechanism to summon sun, and the rest of his Pokemon have no sun-boosted abilities past Charizard. So it's really just a weak Fire-monotype team that you should be able to deal with once the sun is gone. Houndoom and Charizard can hit pretty hard but exploiting the team's many weaknesses shouldn't be too tough.
+
+For winning, you'll get *TM11 Sunny Day*. 
+
+## Iolia Valley
 
 
 
