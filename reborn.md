@@ -105,7 +105,7 @@ Heavy Work In Progress :)
   - [Blast Powder and Crystal Key Goodies](#blast-powder-and-crystal-key-goodies)
   - [Eclipse Badge](#eclipse-badge)
 - [Demarcation](#demarcation)
-  - [Nine Badge Sidequests](#nine-badge-sidequests)
+  - [9 Badge Quests](#9-badge-quests)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -5296,7 +5296,7 @@ Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70,
 
 Exit Luna's gym. **If you head up to the Agate City entrance and go through, we'll actually be locked out from coming back to every area we've been to so far for about 4 badges worth of content.** Before we do so, there are a few sidequests and stuff to grab before continuing.
 
-## Nine Badge Sidequests
+## 9 Badge Quests
 
 Thanks to the Dark Pulse TM, you can now transform the field in the cave on the eastern side of Iolia Valley to get Sableye a bit easier, so take care of that if you'd like.
 
