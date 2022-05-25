@@ -118,6 +118,8 @@ Heavy Work In Progress :)
 
 Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
 
+My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
+
 Unfortunately by nature of how complete this guide is, there are some parts that may spoil events that happen further down the line a bit. I try to be vague about these things as best as possible, but you may want to consider playing the game once first without referencing this walkthrough.
 
 Oh, and as a fun fact - the first 18 main content headers (like the one above) are the titles to the first 18 episodes of the game. Episode 19 is the final version of the game hence does not have one, so I had to make my own from then on.

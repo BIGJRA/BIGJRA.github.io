@@ -1,11 +1,8 @@
 ### Welcome to my site! 
 
-While you're here, try checking out [my YouTube Channel](https://www.youtube.com/channel/UCsBx7xQxOKBsEP4k28h-KgQ)!
-I post various fan-game things from time to time.
+This site contains my full 100% walkthroughs for Pokemon Reborn and Pokemon Rejuvenation. The former is still a work in progress!
 
-Do you notice **inconsistencies** with style or formatting? Do you have **feature requests**
-and **ideas**? Do you see any **inaccuracies** with the content? Or, do you want to **contribute
-directly** to the site? 
+Do you notice **inconsistencies** with style or formatting? Do you have **feature requests** and **ideas**? Do you see any **inaccuracies** with the content? Or, do you want to **contribute directly** to the site? 
 
 If so, message me on Discord: **BIGJRA#3883**.
 
