@@ -641,11 +641,11 @@ Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Ch
 
 # Reap What's Been Sewn
 
-## 1 Badge Quests
-
 Head outside, and talk to Victoria outside the gym. She'll tell us our next destination is to the east of the Grand Hall.
 
 Before we continue though, there are a couple quests we can complete before we proceed to the next area. 
+
+## 1 Badge Quests
 
 Head nearby the train station in Lower Peridot. While it is raining, if you have a snax in your bag you can give it away to get **Numel**! 
 
@@ -1333,9 +1333,11 @@ After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'
 
 # Domino
 
+Exit Florinia's Arena. There are a few things we can do now that we have 2 badges before we continue the story. 
+
 ## 2 Badge Quests
 
-There are a few things we can do now that we have 2 badges before we continue the story. First, head to the room containing the nurse in the Trainer School. A girl towards the left side will trade you battle advice for *TM100 Confide*!  
+First, head to the room containing the nurse in the Trainer School. A girl towards the left side will trade you battle advice for *TM100 Confide*!  
 
 Now that we have 2 badges, the Pokemarts have updated inventory now:
 
@@ -3999,6 +4001,8 @@ Once you win, you'll get the *Rime Badge* which boosts our cap to Lv. 55. You'll
 Relationship Point Choices:
 - Talk to Serra on the couch after the battle (+1 Serra)
 
+Exit the gym.
+
 ## Two Herbal Extracts
 
 Make your way out of Spinel Town and head back towards Tanzan Mountain. You'll finally be able to enter the Pokemart here! One person sells the default items, but there is another vendor.
@@ -5297,6 +5301,8 @@ Thanks to the Dark Pulse TM, you can now transform the field in the cave on the 
 Next, make your way to Seventh Street. In the middle of the area you'll see a woman pleading for some medicine for her sleeping husband. Give her the Oddishweed we found earlier in exchange for an egg which will hatch to be **Chespin**.
 
 With that out of the way, if you'd like, take some time to prepare for the next section of the game. Notably we won't have access to the Department Store, most of the Pokemon we've seen so far, or the Daycare, so stock up on items (Power Items!) and do all the breeding and catching you want.
+
+Once you're all set, make your way to the Agate City checkpoint north of the Vanhanen Labyrinth, talk to Cain, then head out at the top.
 
 # Appendices
 
