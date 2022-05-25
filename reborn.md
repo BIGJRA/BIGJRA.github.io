@@ -5053,6 +5053,8 @@ Archer uses his rain team once more, but you'll notice it's not really optimized
 
 For winning, you'll get *TM18 Rain Dance*. 
 
+You'll also notice that since Maxwell is gone from the North Obsidia Ward, you can now grab the hidden *X Attack* behind him and get another Houndour.
+
 ### Choice: The Aqua Gang 3
 
 As usual, if you are in the Magma Gang, skip ahead to the next section.
@@ -5092,7 +5094,205 @@ For winning, you'll get *TM11 Sunny Day*.
 
 ## Iolia Valley
 
+Head over to Vanhanen Labyrinth. Hidden behind the big tree in the top right is the entrance to Iolia Valley. Talk to the red gem to create a rock smash wall. Head through the path.
 
+Iolia Valley
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|**Wynaut**        |20 |**Wynaut**        |20 |**Wynaut**        |20 |
+|**Beautifly**     |20 |Ducklett          |20 |Dustox            |20 |
+|Ducklett          |10 |Hoppip            |10 |Ducklett          |10 |
+|Ledian            |10 |Pidove            |10 |Ariados           |10 |
+|Tranquill         |10 |Tranquill         |10 |Tranquill         |10 |
+|**Silcoon**       |10 |Wurmple           |10 |**Cascoon**       |10 |
+|**Seel**          |8  |**Seel**          |8  |**Seel**          |8  |
+|**Skiploom**      |5  |**Skiploom**      |5  |Hoothoot          |5  |
+|Petilil           |5  |Petilil           |5  |Noctowl           |5  |
+|Swanna            |2  |Swanna            |2  |Swanna            |2  |
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Finneon           |70 |Seaking           |60 |
+|Goldeen           |30 |**Lumineon**      |20 |
+|                  |   |**Alomomola**     |20 |
+
+In this first area you can find a hidden *Ultra Ball*, *Awakening*, and *Blue Shard*. In the bottom left, use the red key once more to open a rock smash wall, then go inside the new cave. 
+
+Iolia Valley Caves
+
+|Cave              |%  |
+|------------------|---|
+|Graveler (Alolan) |30 |
+|Woobat            |20 |
+|**Bronzor**       |20 |
+|**Carbink**       |19 |
+|**Swoobat**       |10 |
+|**Bronzong**      |1  |
+
+Exit at the bottom. In the next area, grab the hidden *Purple Shard* then make a new cave entrance. Finally, grab the hidden *Green Shard* and pick up the *Green Crystal Key*.
+
+Make your way all the way back to the entrance of the valley. On the second tier you'll see a glowing green crystal which we can now activate to turn hedges into Rock Smash gems. Sometimes when you smash these, you'll get *Green Shards*.
+
+Go down from here and use the red key to open a new door. Past the cave you can find a hidden *Red Shard* and the *Blue Crystal Key*. 
+
+Once again return to the center of the valley. Talk to the glowing blue crystal by the water to activate it and make an ice bridge.
+
+On the other side of the water, go up first, then follow the path, using your keys. You'll find a hidden *Purple Shard* and *Blue Shard* along the way. Activate the green crystal at the end, then return to the ice bridge and go down. Along this path, grab the hidden *Green Shard* and *Magical Seed*. Once you enter your newly created cave entrance, Bennett will confront you.
+
+Relationship Point Choices:
+- Tell Bennett you will let him do what he has to (+1 Bennett)
+- Tell Bennett you will not let him do what he has to (-1 Bennett)
+
+Grab the *Purple Crystal Key*! Talk to the nearby purple crystal to mutate the cave. Outside the new exit, you can get a hidden *Red-Hots* and *X. Sp Atk*. In the next red cave, use the crystal to mutate another cave. Return all the way to the northmost ice bridge.
+
+Head up from here and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokemon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
+
+Iolia Valley Northeast Cave (Dark)
+
+|Cave              |%  |
+|------------------|---|
+|**Sableye**       |100|
+
+Back outside, make your way to the entrance to the valley once more. Enter the cave on the second tier, and activate the purple crystal to mutate it. Head back out and enter the cave on the first tier, and head out the newly formed exit. You'll find a *Dusk Stone* and a hidden *Rawst Berry*. 
+
+To progress, return to the entrance, un-mutate the cave we just mutated, then go through the original cave once more. Following the cave to where we got the green key, we'll see a Light Shard. Use it, then create another red cave entrance and go in.
+
+Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern 
+- Larvesta, Lv. 58, Ability: Flame Body, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Flame Charge
+    - Bug Bite
+    - Zen Headbutt
+    - Morning Sun
+- Venomoth, Lv. 63, @Leftovers, Ability: Shield Dust, Timid Nature, IVs: 31
+    - Quiver Dance
+    - Baton Pass
+    - Sleep Powder
+    - Signal Beam
+- Dustox, Lv. 63, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31
+    - Quiver Dance
+    - Shadow Ball
+    - Signal Beam
+    - Moonlight
+- Scyther, Lv. 62, Ability: Technician, Adamant Nature, IVs: 31
+    - Swords Dance
+    - Night Slash
+    - Wing Attack
+    - Bug Bite
+- Yanmega, Lv. 63, @Life Orb, Ability: Speed Boost, Modest Nature, IVs: 31
+    - Protect
+    - Giga Drain
+    - Ancient Power
+    - Signal Beam
+- Butterfree, Lv. 64, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Sleep Powder
+    - Quiver Dance
+    - Signal Beam
+    - Giga Drain
+
+Poor guy couldn't even level his Larvesta up once more to have Volcarona. Once more, he benefits from the field he's on, this time, in the form of boosted Signal Beams. But again his bugs are fairly frail and have lots of exploitable weaknesses, so you should be able to figure this one out.
+
+Relationship Point Choices:
+- Beat Bennett on your first try (+1 Luna, -2 Bennett)
+
+With that, we could challenge Luna. There are actually a few things we can do now that we have a few blast powders and the crystal keys. Skip ahead if you just wanna do the fight now.
+
+## Blast Powder and Crystal Key Goodies
+
+There should now be a purple warp in Luna's room that will take us to the entrance of Iolia Valley. Convenient! 
+
+Head out of Iolia Valley and make your way through South Aventurine Woods to the Tanzan Mountain. Go right when you can into the room that Saphira burst out of earlier. You can use the green key to open a new pathway.
+
+Hop across some sneaky ledges onto the rocky texture of the cave, then make your way down and to the right. Exit onto the Chrysolia Pass.
+
+Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room as you try to solve this one.
+
+Once you succeed, exit through the newly opened door. Head down the nearby ladder: this next puzzle will involve pushing boulders down holes to break rocks, and going up ladders. To go up, use the ladders on the left side of the area. 
+
+Once you finish this puzzle and emerge on top of the wall, head left to get the *Inverse Field Readout*. Right from here, there is a hidden cave entrance behind the canister. Inside, you can get the *Toxic Orb* and *Yureyu Key*. You can also talk to the canister here to get **Dhelmise**. Exit all the way out how you came in. 
+
+While we're nearby, head over to Spinel Town. We can revive the Jaw Fossil we got earlier to obtain **Tyrunt**!
+
+The next two have a very high trip-taken to value-of-reward ratio... but for completeness I'll get 'em anyways. Our next destination is Byxbysion Wasteland itself. Using the tunnels, make your way all the way back to the room where we fought Mr. Bigglesworth once upon a time. You can use your Blast Powder to access a *Dawn Stone*.
+
+While on the subject of long trips just to use Blast Powder for single items, take the boat to Apophyll Beach and enter Apophyll Cave. On the left side you can now use the powder to access a hidden *Max Revive*.
+
+Ok, with those out of the way, head to the Underroot in Beryl. You'll see a green crystal on the right side of the area, so activate it. Cutting some wiggly trees here will allow us to get the *Ampharosite* as well as the *Meadow Plate* and an **Axew** egg. Sweet.
+
+There is one more thing we can do right now. Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head to the right and around to the top, then use the Yureyu Key to get the *Magnet* and the *Ghostium-Z*. Sweet. Next, head around to the other side of the factory and again use the Yureyu Key to get inside. 
+
+Yureyu Power Plant Backroom
+
+|Cave              |%  |
+|------------------|---|
+|Togedemaru        |20 |
+|Klink             |20 |
+|**Electrode**     |15 |
+|Voltorb           |10 |
+|Yamask            |10 |
+|Duskull           |10 |
+|Klang             |5  |
+|**Cofagrigus**    |5  |
+|**Dusclops**      |4  |
+|**Klinklang**     |1  |
+
+Each of the Poke Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**. 
+
+## Eclipse Badge
+
+Return to the Iolia Valley and take the warp to Luna's room.
+
+Dark Dreamer Luna (3x Ultra Potion). Field: Dark Crystal Cavern
+- Bisharp, Lv. 63, @Rocky Helmet, Ability: Defiant, Impish Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Iron Head
+    - Night Slash
+    - Sucker Punch
+    - Stealth Rock
+- Absol, Lv. 64, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Swords Dance
+    - Sucker Punch
+    - Play Rough
+    - Night Slash
+- Honchkrow, Lv. 63, @Muscle Band, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/252/0/4
+    - Sucker Punch
+    - Night Slash
+    - Roost
+    - Brave Bird
+- Weavile, Lv. 64, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Power-Up Punch
+    - Poison Jab
+    - Ice Shard
+    - Night Slash
+- Tyranitar, Lv. 63, @Magical Seed, Ability: Unnerve, Adamant Nature, IVs: 31, EVs: 0/252/0/252/0/4
+    - Brick Break
+    - Iron Head
+    - Crunch
+    - Stone Edge
+- Umbreon, Lv. 65, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Moonlight
+    - Dark Pulse
+    - Double Team
+    - Toxic
+
+Time to fight Reborn's Dark type gym leader. Her field will boost the power of Dark Pulse and Night Slash by 1.5x, not surprising for a Reborn gym fight really. What is more notable is that the field boosts the defenses of Dark types by 1.5x, so what'd normally be straightforward super-effective kills on Bisharp, Tyranitar, Absol, Weavile, and Honchkrow now aren't so certain, and the latter three can even stack attack on you and hit with wide coverage. Not to mention the already very bulky Umbreon, who now is even more bulky and can heal 75% of its health with Moonlight and also boost its Evasion. Plus, they all have perfect IV's and are all EV trained, a feature we'll see sticking around with the boss fights. Anyways, Luna is a pretty straightforward albeit tough fight that uses offensive and defensive boosts provided by the field pretty well.
+
+The good news is that by this point you should have lots of options to deal with the team. If you want to stay with the Dark Crystal Cavern field, you can use Aurora Veil without Hail or use your own Dark types to get the defense boosts. Dazzling Gleam and Signal Beam get boosted on this field, effectively cancelling out the defenses boost of her team if you use these moves. If you can get around Honchkrow, Fighting types and Bug types with high attack can generally succeed here too in spite of the added defense. You can also take advantage of the fact that she has a singular special move on her entire team and bring a team with lots of Defense to go blow-for-blow. 
+
+There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon-type moves more effectively if you'd like. Alternatively you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to ignore their bulk and nuke the opponents with more uses of the Earthquake-esque moves and profit from boosted Rock-type moves as well as boosted Hyper Voice and Boomburst. In either case Tyranitar will still be a menace, but past Bisharp she has no Rock-resists. 
+
+Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70, coincidentally about the point where normal Pokemon games just... end. Plus, she'll give us *TM97 Dark Pulse*! Nice.
+
+# Demarcation
+
+Exit Luna's gym. **If you head up to the Agate City entrance and go through, we'll actually be locked out from coming back to every area we've been to so far for about 4 badges worth of content.** Before we do so, there are a few sidequests and stuff to grab before continuing.
+
+## Nine Badge Sidequests
+
+Thanks to the Dark Pulse TM, you can now transform the field in the cave on the eastern side of Iolia Valley to get Sableye a bit easier, so take care of that if you'd like.
+
+Next, make your way to Seventh Street. In the middle of the area you'll see a woman pleading for some medicine for her sleeping husband. Give her the Oddishweed we found earlier in exchange for an egg which will hatch to be **Chespin**.
+
+With that out of the way, if you'd like, take some time to prepare for the next section of the game. Notably we won't have access to the Department Store, most of the Pokemon we've seen so far, or the Daycare, so stock up on items (Power Items!) and do all the breeding and catching you want.
 
 # Appendices
 
