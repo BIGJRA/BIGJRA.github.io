@@ -4620,7 +4620,7 @@ Head to the right from here and go through another set of tall grass, but don't 
 
 Down from here, you'll find a hidden *Mental Herb* and another honey tree. Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass the old web spot and go up the next ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave.
 
-Celestinine Mountain 2F
+Celestinine Mountain B2F
 
 |Cave              |%  |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -5578,6 +5578,14 @@ Celestinine Cascade
 |                  |   |Machoke           |4  |Rhydon            |4  |
 |                  |   |Rhydon            |4  |                  |   |
 
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Finneon           |70 |Wishiwashi        |60 |
+|Wishiwashi        |30 |Lumineon          |20 |
+|                  |   |Remoraid          |20 |
+|                  |   |                  |   |
+|                  |   |                  |   |
+
 In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *Pokesnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
@@ -5678,6 +5686,161 @@ Once you win, you'll get the *Strike Badge* and *TM31 Brick Break*.
 
 # Episode 13: Cascade
 
+With 10 badges in hand, return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
+
+Relationship Point Choices:
+- Tell Titania you were reading the journal (Neutral)
+- Tell Titania you weren't reading the journal (-1 Titania)
+
+Relationship Point Choices:
+- Tell Amaria that Titania is wrong (+2 Amaria, -2 Titania)
+- Tell Amaria that Titania is right (-2 Amaria, +2 Titania)
+
+## Mountain Range Surfing
+
+We can't follow them down the waterfall, but we can now explore with Surf! One quick note:
+
+Relationship Point Choices:
+- Read Titania's diary once she is down the cascade (-1 Titania)
+
+I'll start by exploring the rest of the area we are currently in, the Celestinine Cascade.
+
+Celestinine Cascade 
+
+|Water             |%  |
+|------------------|---|
+|**Wailmer**       |64 |
+|Lumineon          |30 |
+|Wishiwashi        |6  |
+
+Surf to the left. Hidden are *Water Gem*, 2 *Pokesnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poke Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
+
+Talk to the clown with the Politoed and Torkoal for a battle.
+
+Clown Bindra. Field: Rainbow Field on top of Rocky Field
+- Raichu, Lv. 69, @Magical Seed, Ability: Lightning Rod, Naive Nature, IVs: 31
+    - Heart Stamp
+    - Hidden Power
+    - Uproar
+    - Brick Break
+- Lurantis, Lv. 70, Ability: Contrary, Jolly Nature, IVs: 31
+    - Solar Blade
+    - Synthesis
+    - Superpower
+    - Knock Off
+- Clefable, Lv. 71, Ability: Unaware, Modest Nature, IVs: 31
+    - Moonblast
+    - Cosmic Power
+    - Wish
+    - Protect
+- Musharna, Lv. 71, @Leftovers, Ability: Synchronize, Bold Nature, IVs: 31
+    - Sonic Boom
+    - Dazzling Gleam
+    - Toxic
+    - Moonlight
+- Magnezone, Lv. 72, Ability: Sturdy, Modest Nature, IVs: 31
+    - Sonic Boom
+    - Hidden Power
+    - Thunderbolt
+    - Flash Cannon
+
+🅱️indra. Once you win against his Rainbow team you will get a *Full Heal*! Talk to him again and say yes! Then again and say no! Finally he will give you *TM39 Rock Tomb*. 
+
+Head up to enter Citrine Mountain! We've actually been in this mountain once before, but from a different side.
+
+Citrine Mountain
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Woobat            |20 |**Golduck**       |60 |
+|Swinub            |20 |Wishiwashi        |30 |
+|Piloswine         |15 |Lumineon          |5  |
+|Cubchoo           |10 |**Octillery**     |5  |
+|Swoobat           |10 |                  |   |
+|Phanpy            |10 |                  |   |
+|Sandshrew (Alolan)|5  |                  |   |
+|Beartic           |5  |                  |   |
+|Donphan           |4  |                  |   |
+|Sandslash (Alolan)|1  |                  |   |
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Remoraid          |70 |Remoraid          |60 |
+|Basculin          |30 |Clauncher         |20 |
+|                  |   |**Octillery**     |20 |
+
+Hidden on this floor you'll find 7 *Shoal Salts*, *Green Shard*, *Ultra Potion*, *Revive*, *Normal Gem*, and *Heart Scale*, though the latter requires use of a Blast Powder.
+
+On the top there is a ladder that will take us to the familiar 2F. Up here you'll find a hidden *Zinc*, and *Ultra Ball* but that's about it. Back on 1F, surf to the upper right corner to enter Celestinine Mountain 1F. 
+
+Celestinine Mountain
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Buizel            |24 |Wailmer           |60 |
+|Swinub            |20 |Lumineon          |30 |
+|Cubchoo           |14 |Golduck           |5  |
+|Floatzel          |11 |Wishiwashi        |4  |
+|Piloswine         |10 |**Dewgong**       |1  |
+|Beartic           |10 |                  |   |
+|Sandshrew (Alolan)|5  |                  |   |
+|Sandslash (Alolan)|5  |                  |   |
+|Delibird          |1  |                  |   |
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Finneon           |70 |Remoraid          |60 |
+|Wishiwashi        |30 |Clauncher         |20 |
+|                  |   |Qwilfish          |20 |
+
+Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to to the top right, and surf to the right and grab a hidden *Ultra Ball*. The bottom of this map will lead you out to the cascade we saw earlier. Without Dive and Waterfall there isn't much to do in here, so go up the ladder in the top right corner.
+
+Cross the ice puzzle to get to the left. Precisely: 
+> Up, Left, Down, Left, Up, Left, Down, Left to go from the right side to the left side
+> Right, Down, Left, Up, Right, Down, Right, Up, Right, Down to go from the left side to the right side
+
+Follow the body of water up from here to enter Ametrine Mountain 2F.
+
+Ametrine Mountain
+
+|Water             |%  |
+|------------------|---|
+|Wailmer           |60 |
+|Seel              |30 |
+|Lumineon          |5  |
+|Wishiwashi        |4  |
+|Dewgong           |1  |
+
+You'll eventually notice on the right the area we once came in via Route 2. Now you know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
+
+Relationship Point Choices:
+- Talk to Blake at the bottom of the circus (+1 Blake)
+
+There's also a Pokemon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I figured I should cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see. 
+
+Inside this cave you can get an *Elemental Seed* as well as the *Aerodactylite* and a hidden *Exp. Candy XL*. You can also talk to the rock at the top to battle **Salandit**!
+
+Unfortunately this makes it impossible to go from Celestinine Cascade to the other side of Route 2 for now. If you want to reopen this shortcut, you'll need to head back through the mountain onto Route 2 to move another Crustle into that place. 
+
+Anyways, return to Ametrine 2F, surf to the left, and cross the simple ice puzzle. Talk to Aya near the iceberg. After this scene, follow the path up and right to emerge onto Route 3.
+
+## Route 3 & LCCC
+
+Route 3
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Mienfoo           |20 |Golett            |20 |Golett            |20 |
+|Ursaring          |20 |Mienfoo           |20 |Ursaring          |20 |
+|Bronzong          |16 |Starly            |10 |Graveler          |20 |
+|Starly            |10 |Staravia          |10 |Noctowl           |20 |
+|Staravia          |10 |Ursaring          |10 |Gligar            |8  |
+|Graveler          |10 |Graveler          |10 |Bronzor           |5  |
+|Gligar            |8  |Gligar            |8  |Bronzong          |5  |
+|Bronzor           |5  |Bronzor           |5  |Golurk            |1  |
+|Staraptor         |1  |Bronzong          |5  |Absol             |1  |
+|                  |   |Golurk            |1  |                  |   |
+|                  |   |Absol             |1  |                  |   |
 
 # Appendices
 
