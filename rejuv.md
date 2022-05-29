@@ -662,8 +662,7 @@ Enter the Chrisola Hotel Resort at the top of the map. Entering gives us
 a Relationship Point (Saki +1).
 
 After you regain control, talk to a man in the bottom right for a *Super
-Potion.* Enter the right hallway and go past the first two rooms and
-into the first on the upper side to get *TM126 Whirlpool.* In the
+Potion.* Enter the right hallway. In one room you can get *TM126 Whirlpool.* In the
 hallway on the left, head into the open room at the top and interact
 with the tile down and right from the top left plant for $1500!
 
