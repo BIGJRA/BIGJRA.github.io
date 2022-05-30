@@ -5830,17 +5830,109 @@ Route 3
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
-|Mienfoo           |20 |Golett            |20 |Golett            |20 |
+|Mienfoo           |20 |**Golett**        |20 |**Golett**        |20 |
 |Ursaring          |20 |Mienfoo           |20 |Ursaring          |20 |
-|Bronzong          |16 |Starly            |10 |Graveler          |20 |
-|Starly            |10 |Staravia          |10 |Noctowl           |20 |
-|Staravia          |10 |Ursaring          |10 |Gligar            |8  |
+|Bronzong          |16 |**Starly**        |10 |Graveler          |20 |
+|**Starly**        |10 |**Staravia**      |10 |Noctowl           |20 |
+|**Staravia**      |10 |Ursaring          |10 |**Gligar**        |8  |
 |Graveler          |10 |Graveler          |10 |Bronzor           |5  |
-|Gligar            |8  |Gligar            |8  |Bronzong          |5  |
-|Bronzor           |5  |Bronzor           |5  |Golurk            |1  |
-|Staraptor         |1  |Bronzong          |5  |Absol             |1  |
-|                  |   |Golurk            |1  |                  |   |
+|**Gligar**        |8  |**Gligar**        |8  |Bronzong          |5  |
+|Bronzor           |5  |Bronzor           |5  |**Golurk**        |1  |
+|**Staraptor**     |1  |Bronzong          |5  |Absol             |1  |
+|                  |   |**Golurk**        |1  |                  |   |
 |                  |   |Absol             |1  |                  |   |
+
+...So much for entering Calcenon City. Make your way right, picking up hidden *Ultra Potion* and *Green Shard* along the way. Aya will join us as a partner!
+
+Relationship Point Choices:
+- Return to Ametrine while Aya is your partner (-1 Aya, -1 Hardy)
+- Wipe out at any point with Aya as your partner (-1 Aya, -1 Hardy)
+- Talk to Aya while you are partnered (+1 Aya for each of 4 dialogues, +4 total)
+
+Route 3 Caves
+
+|Cave              |%  |
+|------------------|---|
+|Graveler          |20 |
+|Shiinotic         |20 |
+|Kangaskhan        |18 |
+|**Druddigon**     |12 |
+|Rhydon            |10 |
+|Piloswine         |10 |
+|**Magnemite**     |5  |
+|**Magneton**      |5  |
+
+Inside this cave you can find a hidden *Hyper Potion*, *Red Shard*, 2 *Repels*, *Antidote*, *Ground Gem*. There's a door you can go through at the top to reach a green machine containing a *Metal Coat*! 
+
+Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resist Wing*, and *Exp. Candy XL*. 
+
+Enter the next cave. Inside you can find hidden *Pokesnax*, and *Potion*, as well as Team Meteor! Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
+
+In this room, you can get hidden *Repeat Ball*, *Fire Gem*, and *Great Ball*. The next room contains a hidden *Super Repel* and *Poke Ball*. 
+
+Head outside and go right. Pick up a hidden *X Defend* along the way. Right before the hop rocks you can get a hidden *Green Shard*. Hop down and enter the next cave.
+
+In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. Enter the next room, change up your team if necessary, then head in to the next room.
+
+Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factory Field
+- Solrock, Lv. 65, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
+    - Rock Slide
+    - Reflect
+    - Bulldoze
+    - Will-O-Wisp
+- Golurk, Lv. 66, Ability: No Guard, Bashful Nature, IVs: 31
+    - Dynamic Punch
+    - Bulldoze
+    - Rock Slide
+    - Phantom Force
+- Passimian, Lv. 66, @Life Orb, Ability: Receiver, Bashful Nature, IVs: 31
+    - Bulldoze
+    - Rock Slide
+    - Brick Break
+    - Giga Impact
+- Krookodile, Lv. 67, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Bulldoze
+    - Outrage
+    - Rock Slide
+    - Foul Play
+- Lycanroc (Lycanroc-Midnight), Lv. 68, @Life Orb, Ability: No Guard, Adamant Nature, IVs: 31
+    - Thunder Fang
+    - Stone Edge
+    - Sucker Punch
+    - Swords Dance
+- Lunatone, Lv. 65, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31
+    - Light Screen
+    - Moonblast
+    - Blizzard
+    - Icy Wind
+- Vileplume, Lv. 66, Ability: Effect Spore, Modest Nature, IVs: 31
+    - Sleep Powder
+    - Nature Power
+    - Sludge Bomb
+    - Petal Dance
+- Oranguru, Lv. 66, @Light Clay, Ability: Telepathy, Calm Nature, IVs: 31
+    - Foul Play
+    - Reflect
+    - Instruct
+    - Nature Power
+- Milotic, Lv. 67, @Leftovers, Ability: Marvel Scale, Modest Nature, IVs: 31
+    - Scald
+    - Confuse Ray
+    - Recover
+    - Blizzard
+- Lycanroc (Lycanroc-Midday), Lv. 68, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31
+    - Brick Break
+    - Rock Slide
+    - Crunch
+    - Fire Fang
+
+Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokemon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
+
+After the fight, go to the left and grab *TM43 Flame Charge* within the room. Head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
+
+## Route 4
+
+
 
 # Appendices
 
