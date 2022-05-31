@@ -5928,6 +5928,9 @@ Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factor
 
 Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokemon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
 
+Relationship Point Choices:
+- Aya gets kidnapped (-2 Aya. This is not a choice, actually.)
+
 After the fight, go to the left and grab *TM43 Flame Charge* within the room. Head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
 
 ## Route 4
@@ -5954,6 +5957,83 @@ Enter Calcenon City to the west.
 
 ## Calcenon City
 
+Inside the Pokemon Center, a person will tell you about the password *noitems*. Another person in here will offer an in-game trade: your Qwilfish for **Munchlax**!
+
+Enter the gym at the top of the city.
+
+Talk to Hardy in the left side of the city for some points if you'd like.
+
+Relationship Point Choices:
+- Talk to Hardy and Fern on the left side of the city (+1 Fern)
+
+Talk to Saphira here twice. 
+
+Relationship Point Choices:
+- Tell Charlotte you would throw her to the dogs for the ring with Saphira Points > 0 (+2 Charlotte, -1 Hardy, +1 Saphira)
+- Tell Charlotte you would throw her to the dogs for the ring with Saphira Points <= 0 (+2 Charlotte, -1 Hardy, -1 Saphira)
+- Tell Charlotte you would not throw her to the dogs (-2 Charlotte, +1 Hardy)
+
+Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell us it's time for a gym battle, so head back into Calcenon.
+
+Relationship Point Choices:
+- Talk to Saphira and Sigmund on the west side of the city (-1 Sigmund)
+
+## Placeholder Badge
+
+Enter Charlotte's gym when you are ready. The puzzle here is basically the same as Wallace's from generation 3: you have to carefully step on every gray tile exactly once and make it to the other side's stairs. For precise solutions:
+
+> Puzzle 1: U U L L U U U R D R D R D R U U L U L U
+> Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U
+> Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
+
+Head up to where Charlotte is. 
+
+Relationship Point Choices:
+- Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
+
+Technically you shouldn't know how to open the secret room by this point. If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
+
+<img src="/assets/media/reborn/charsecret.jpg"/>
+
+When you're ready, take on the Fire-type gym leader!
+
+Firebug Charlotte (2x Ultra Potion). Field: Super-heated Field
+- Darmanitan (Darmanitan-Standard), Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Rock Slide
+    - Flare Blitz
+    - U-turn
+    - Hammer Arm
+- Typhlosion, Lv. 69, @Sitrus Berry, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Eruption
+    - Solar Beam
+    - Heat Wave
+    - Hidden Power
+- Rotom (Rotom-Heat), Lv. 68, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Reflect
+    - Volt Switch
+    - Overheat
+    - Hidden Power
+- Delphox, Lv. 69, @Light Clay, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Light Screen
+    - Heat Wave
+    - Flamethrower
+    - Psyshock
+- Volcarona, Lv. 70, @Charti Berry, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/252/252/0/0
+    - Giga Drain
+    - Quiver Dance
+    - Heat Wave
+    - Hidden Power
+- Ninetales, Lv. 72, @Telluric Seed, Ability: Drought, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Heat Wave
+    - Solar Beam
+    - Hidden Power
+    - Nasty Plot
+
+Time for another of Reborn's double battle gym leaders. Her two leads, Darmanitan and Typhlosion, are incredibly fast and hit like trucks with their Fire moves. Particularly, Eruption will turn the field to Burning Field, making things even more difficult. Then, in the back, she has a seeded Ninetales who will amplify her Fire-type moves even more thanks to Drought, which also will cancel out your own helpful weather. With a bulky Rotom that can counter Water and Ground types easily and the speedy Heat Wave + coverage moves sets she has on her Delphox and Volcarona, Charlotte has a pretty strong team that can overwhelm unprepared teams by their sheer field-boosted power.
+
+Both the Super-heated Field and Burning Field benefit Charlotte a lot, but one hilarious strategy you can try is just using your own Fire types. You can just use your own Eruption, Heat Wave, etc. on her offense-oriented team. Alternatively if you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room with many different Pokemon, and once you have it, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-heated Field damage weakener. There are tons of other crafty doubles strategies you can use on this fight, so get creative!
+
+Once you win, you'll get the *Cinder Badge* which allows us to use Dive in the field and boosts the cap to Lv. 75. You'll also get *TM35 Flamethrower*! Very nice.
 
 
 
