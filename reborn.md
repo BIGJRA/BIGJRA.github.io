@@ -459,7 +459,7 @@ Up from here, when the weather is clear or sunny, as long as you are holding Ros
 
 Inside this house you'll find the guy who stole our Pokemon earlier, but you gotta pay another $500! Just kidding, you gotta fight both him and the initial salesman and you won't even get your Pokemon. We'll just have to continue this quest later.
 
-Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
+Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game, and if you want the (non-unique) rewards, you'll need to give it back. So, if you want the rewards but want to use it, consider breeding it once we get daycare access. Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
 
 |Cave              |%  |
 |------------------|---|
@@ -3051,7 +3051,7 @@ Igneous Cal (2x Hyper Potion). Field: Super-Heated Field
     - Flamethrower
     - Head Smash
     - Revenge
-- Hakamo-o (Hakamo-O), Lv. 39, Ability: Soundproof, Adamant Nature, IVs: 31
+- Hakamo-o, Lv. 39, Ability: Soundproof, Adamant Nature, IVs: 31
     - Sky Uppercut
     - Dual Chop
     - Headbutt
@@ -3635,7 +3635,7 @@ Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will u
 If you said yes to Sigmund, skip ahead to the next section.
 
 Meteor Admin Sirius (2x Hyper Potion). Field: No Field
-- Minior (Minior-Violet-Meteor), Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
+- Minior, Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
     - Shell Smash
     - Charge Beam
     - Power Gem
@@ -4097,7 +4097,7 @@ If you didn't fight Sigmund at Yureyu and instead fought Sirius, skip ahead to t
 Anyways, you'll have to first fight two orderlies. Afterwards, you'll be healed but thrust into another battle.
 
 Meteor Admin Sirius (3x Hyper Potion). Field: No Field
-- Minior (Minior-Violet-Meteor), Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
+- Minior, Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
     - Shell Smash
     - Dazzling Gleam
     - Power Gem
@@ -4911,7 +4911,7 @@ Seventh Street Pokemon Seller
 |**Jigglypuff** |5 Green Shards |
 |**Cyndaquil**  |9 Red Shards   |
 
-Something important to note is there is a sidequest later that will involve returning Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners, so I recommend breeding them and keeping the originals somewhere in your PC that you'll remember. The rest you can train up as you wish.
+Something important to note is there is a sidequest later that will involve returning Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners, so I recommend breeding them if you want to use them, and keeping the originals somewhere in your PC. The reward is really, really good, so keep that in mind. The rest you can train up as you wish.
 
 If you've been picking up all the hidden shards I've pointed out and have been mining most of the rocks, getting every Pokemon should be no problem at this point. Shards will pretty much from now on only be useful for unlocking future tutors and buying Ability Capsules and a few other small things.
 
@@ -6019,7 +6019,7 @@ If you do want to open the secret room, you'll need to make the top area tiles l
 When you're ready, take on the Fire-type gym leader!
 
 Firebug Charlotte (2x Ultra Potion). Field: Super-Heated Field
-- Darmanitan (Darmanitan-Standard), Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Darmanitan, Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Rock Slide
     - Flare Blitz
     - U-turn
