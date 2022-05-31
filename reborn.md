@@ -110,6 +110,12 @@ Heavy Work In Progress :)
   - [Route 2](#route-2)
   - [Strike Badge](#strike-badge)
 - [Episode 13: Cascade](#episode-13-cascade)
+  - [Mountain Range Surfing](#mountain-range-surfing)
+  - [Route 3 & LCCC](#route-3--lccc)
+  - [Route 4](#route-4)
+  - [Calcenon City](#calcenon-city)
+  - [Cinder Badge](#cinder-badge)
+- [Episode 14: //outlier.corruption](#episode-14-outliercorruption)
 - [Appendices](#appendices)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -301,7 +307,9 @@ Default Mart (0 Badges)
 |*Antidote*     |$100       |
 |*Poke Ball*    |$200       |
 
-In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. As in the mainline games, you get a *Premier Ball* with every 10 balls you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now.
+In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. As in the mainline games, you get a *Premier Ball* with every 10 balls you purchase. In a pinch we can almost always safely return to a Pokemon Center, so buying Potions and Antidotes may be just to save time for now. 
+
+You can also get a single *Potion* in the PC storage.
 
 On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokemon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokemon for... 14 more badges.
 
@@ -3026,13 +3034,13 @@ Pyrous Mountain
 
 You can also find Magcargo by smashing the nearby pillars. Anyways, nothing to do on 1F so go to B1F via the ladder. You'll see a pillar glowing, which means we can drain lava by rock smashing it. Do so, then go down the ladder to the left. Grab a hidden *Red Shard* and drain the lava. Head up the ladder and immediately come back down. If it is still glowing, you can smash the pillar to get **Turtonator**. This is one of two possibilities of a randomly determined event.
 
-Back on B1F, you'll see that the lava has drained, so go into the empty pool and go down. Head down the ladder here, and you'll find a hidden *Charcoal*. If you didn't get Turtonator earlier, there will be a **Heatmor** here to catch. Back upstairs, jump down the hole in the pool to get a *Flame Orb* as well as the *Super-heated Field Readout*.
+Back on B1F, you'll see that the lava has drained, so go into the empty pool and go down. Head down the ladder here, and you'll find a hidden *Charcoal*. If you didn't get Turtonator earlier, there will be a **Heatmor** here to catch. Back upstairs, jump down the hole in the pool to get a *Flame Orb* as well as the *Super-Heated Field Readout*.
 
 Head back to 1F, where the lava will now be drained as well. Follow the path up to 3F. A lava pool will force you to the left back to 2F, where you can drain the lava. Take the ladder to 1F then head to the left to drain it again. Finally, return to B1F then B2F to finish draining the lava as we did before. 
 
 Make your way back to 3F, then go across the empty pool. On 4F you can find a hidden *X Defend* before exiting to the peak. The peak hides a *Exp. Candy L*.
 
-Igneous Cal (2x Hyper Potion). Field: Super-heated Field
+Igneous Cal (2x Hyper Potion). Field: Super-Heated Field
 - Barbaracle, Lv. 38, Ability: Tough Claws, Brave Nature, IVs: 20
     - Stealth Rock
     - Slash
@@ -3238,7 +3246,7 @@ Once you reach the peak, it's time for that battle I was talking about.
 
 **In order to access the exclusive postgame route, you need to win this battle.**
 
-Meteor Leader Solaris (2x Full Heal). Field: Super-heated Field
+Meteor Leader Solaris (2x Full Heal). Field: Super-Heated Field
 - Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
     - Dragon Rush
     - Earthquake
@@ -4528,7 +4536,7 @@ Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field
     - Poison Jab
     - Megahorn
 
-This battle features the new Chess Field. While stuff like Grassy Terrain and Super-heated Field are farily intuitive, you really should read up about Chess field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
+This battle features the new Chess Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
 
 Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is of course annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
 
@@ -5466,7 +5474,18 @@ Relationship Point Choices:
 - Speak to Ciel (+2 Samson, -1 Ciel)
 - Speak to Samson (+2 Ciel, -1 Samson)
 
-Exit the Big Top and make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a *Cotton Candy*. Once we give it to them, they will ask for a *Air Balloon*. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*. 
+Exit the Big Top. You'll notice another tutor on the left side of the circus.
+
+Agate Circus Fake Samson Move Tutor
+
+|Move               |Price          |
+|-------------------|---------------|
+|Dual Chop          |4 Blue Shards  |
+|Thunder Punch      |5 Green Shards |
+|Fire Punch         |5 Purple Shards|
+|Ice Punch          |6 Red Shards   |
+
+ Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a *Cotton Candy*. Once we give it to them, they will ask for a *Air Balloon*. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*. 
 
 ## Route 2
 
@@ -5978,7 +5997,7 @@ Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell
 Relationship Point Choices:
 - Talk to Saphira and Sigmund on the west side of the city (-1 Sigmund)
 
-## Placeholder Badge
+## Cinder Badge
 
 Enter Charlotte's gym when you are ready. The puzzle here is basically the same as Wallace's from generation 3: you have to carefully step on every gray tile exactly once and make it to the other side's stairs. For precise solutions:
 
@@ -5991,13 +6010,15 @@ Head up to where Charlotte is.
 Relationship Point Choices:
 - Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
 
-Technically you shouldn't know how to open the secret room by this point. If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
+Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg, you can skip to the right.
+
+If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
 <img src="/assets/media/reborn/charsecret.jpg"/>
 
 When you're ready, take on the Fire-type gym leader!
 
-Firebug Charlotte (2x Ultra Potion). Field: Super-heated Field
+Firebug Charlotte (2x Ultra Potion). Field: Super-Heated Field
 - Darmanitan (Darmanitan-Standard), Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Rock Slide
     - Flare Blitz
@@ -6031,9 +6052,77 @@ Firebug Charlotte (2x Ultra Potion). Field: Super-heated Field
 
 Time for another of Reborn's double battle gym leaders. Her two leads, Darmanitan and Typhlosion, are incredibly fast and hit like trucks with their Fire moves. Particularly, Eruption will turn the field to Burning Field, making things even more difficult. Then, in the back, she has a seeded Ninetales who will amplify her Fire-type moves even more thanks to Drought, which also will cancel out your own helpful weather. With a bulky Rotom that can counter Water and Ground types easily and the speedy Heat Wave + coverage moves sets she has on her Delphox and Volcarona, Charlotte has a pretty strong team that can overwhelm unprepared teams by their sheer field-boosted power.
 
-Both the Super-heated Field and Burning Field benefit Charlotte a lot, but one hilarious strategy you can try is just using your own Fire types. You can just use your own Eruption, Heat Wave, etc. on her offense-oriented team. Alternatively if you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room with many different Pokemon, and once you have it, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-heated Field damage weakener. There are tons of other crafty doubles strategies you can use on this fight, so get creative!
+Both the Super-Heated Field and Burning Field benefit Charlotte a lot, but one hilarious strategy you can try is just using your own Fire types. You can just use your own Eruption, Heat Wave, etc. on her offense-oriented team. Alternatively if you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room with many different Pokemon, and once you have it, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-Heated Field damage weakener. You can alternatively outspeed via the Telluric Seed, a pretty incredible item when put on fast sweepers. There are tons of other crafty doubles strategies you can use on this fight, so get creative!
 
 Once you win, you'll get the *Cinder Badge* which allows us to use Dive in the field and boosts the cap to Lv. 75. You'll also get *TM35 Flamethrower*! Very nice.
+
+# Episode 14: //outlier.corruption
+
+After your gym fight, enter the building in the bottom left side of Calcenon. You'll get *TMX8 Dive* inside! We could have gone in here earlier, but:
+
+Relationship Point Choices:
+- Beat Charlotte before getting Dive (+1 Noel, +1 Shelly)
+
+You can also talk to Hardy in here.
+
+Relationship Point Choices:
+- Talk to Hardy in the Calcenon house about Charlotte (+1 Hardy)
+
+With that, we now have all we need to Dive! There are a few quick things we can do, however!
+
+## 11 Badge Quests
+
+Enter the gate at the bottom of Calcenon. The guard inside will ask us to donate $40000 to repair the bridge that was broken in the previous chapter. You should have enough cash by now - if not you might have some Star Pieces from the Citae Astrae still in your bag. Once you cough up the cash the bridge will be fixed. Head outside and to the right on the stairs, and enter the cave here.
+
+Inside, you can get an *Electrizer*, *Magmarizer*, and *Ghost Memory*. Re-enter Calcenon City. In the building to the right of the Pokemon Center you can trade this Magmarizer to get a **Magby**! In a building to the right of the gym you can trade the Electrizer for an **Elekid**! 
+
+Head down to Route 3 via the new stairs. Down from here, you'll see a ladder. Interact with it to create a quick shortcut that allows us to go from Calcenon to Agate Circus super easily! Head to the circus.
+
+To the right of the high striker you'll see a new vendor. For three Green Shards you can do another puzzle! This is in fact a [Fifteen Puzzle](https://en.wikipedia.org/wiki/15_puzzle). When you finish, it will look like this:
+
+<img src="/assets/media/reborn/turtwig.jpg"/>
+
+For winning you'll get a Mew! Just kidding, of course, you get a **Turtwig!**
+
+## Mountain Range Diving
+
+Next, I will return to the Celestinine Cascade. If you've yet to put the Crustle we moved to get Salandit back in place, now is a great time to do so.
+
+Enter Celestinine Mountain by surfing up at the cascade.
+
+Go left up the stairs at your first opportunity, and make your way across the ice here such that you can surf at the bottom of this area. Go down at the dive spot here.
+
+Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
+
+Celestinine / Ametrine Mountain Underwater
+
+|Land              |%  |
+|------------------|---|
+|**Clamperl**      |45 |
+|Chinchou          |30 |
+|**Lanturn**       |15 |
+|**Relicanth**     |10 |
+
+Emerge at the other dive spot. You can find a hidden *PokeSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back. Next, head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
+
+To the right, you'll find the *Snowy Mountain Field Readout*. Up and to the right you'll find a *Water Stone*. Emerge at the dive spot in the upper right side. Up here you'll find the *PULSE Readout 2*. Oh dear.
+
+Make your way back. Next, go to Ametrine Mountain 2F. Northeast of the iceberg, you'll find a dive spot.
+
+Follow the path, diving up and down as you go. Once you pop up, you'll find another PULSE!
+
+Pokemon Redoubt. Field: Icy Field
+- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/0/4. Stat Spread: 105/160/255/10/97/255
+    - Hammer Arm
+    - Earthquake
+    - Recover
+    - Avalanche
+
+As you can tell, this PULSE has 255 in Def and SpD, and a respectable HP. On top of this it has Leftovers and Recover, meaning it is extremely hard to kill by raw damage alone. It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side, which can break Sashes and Sturdy. There are still a number of strategies that make this easy - it is a 6v1, after all. Toxic, for example, is pretty great. Heal Block or Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc. 
+
+With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F. Up here you can get a hidden *Green Shard*, *X Attack*, and *Blue Shard*. On the next floor, you'll find a hidden *Ice Gem*. Make your way to the door on the middle of the right side of the ice puzzle and exit.
+
+## Ametrine City
 
 
 
