@@ -5932,6 +5932,29 @@ After the fight, go to the left and grab *TM43 Flame Charge* within the room. He
 
 ## Route 4
 
+Route 4
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|**Cottonee**      |14 |**Zebstrika**     |11 |Noctowl           |20 |
+|Blitzle           |14 |**Cottonee**      |10 |Snover            |10 |
+|**Zebstrika**     |11 |Snover            |10 |Bronzong          |10 |
+|Snover            |10 |Blitzle           |10 |**Zebstrika**     |5  |
+|Bronzor           |5  |Bronzor           |5  |Phantump          |5  |
+|Bronzong          |5  |Bronzong          |5  |**Pawniard**      |4  |
+|Abomasnow         |1  |**Pawniard**      |4  |**Abomasnow**     |4  |
+|                  |   |**Abomasnow**     |4  |Absol             |2  |
+|                  |   |Absol             |1  |                  |   |
+
+Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, *Heart Scale*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire!
+
+Enter Calcenon City to the west.
+
+## Calcenon City
+
+
 
 
 # Appendices
