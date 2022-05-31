@@ -1855,7 +1855,7 @@ The Mystery Egg can actually hatch to be one of 18 different Pokemon - all of wh
 - **Shroomish**
 - **Gastly**
 - **Axew**
-- **Vulpix (Alolan)**
+- **Vulpix-Alola**
 - **Pawniard**
 - **Litwick**
 - **Trapinch**
@@ -1920,11 +1920,11 @@ Lapis Alleyway
 |----------------------|---|
 |Stunky                |25 |
 |Trubbish              |20 |
-|**Rattata (Alolan)**  |20 |
-|**Meowth (Alolan)**   |20 |
+|**Rattata-Alola**     |20 |
+|**Meowth-Alola**      |20 |
 |Espurr                |13 |
-|**Raticate (Alolan)** |1  |
-|**Persian (Alolan)**  |1  |
+|**Raticate-Alola**    |1  |
+|**Persian-Alola**     |1  |
 
 Enter the building in the middle of the top row of buildings, just to the left of the gym. The guy inside will teach your starter the pledge moves for some shards.
 
@@ -2691,9 +2691,9 @@ Citrine Mountain 2F
 |**Bergmite**           |30 |
 |Phanpy                 |15 |
 |**Cubchoo**            |14 |
-|**Sandshrew (Alolan)** |5  |
+|**Sandshrew-Alola**    |5  |
 |**Donphan**            |4  |
-|**Sandslash (Alolan)** |1  |
+|**Sandslash-Alola**    |1  |
 |**Beartic**            |1  |
 
 
@@ -3023,13 +3023,13 @@ Pyrous Mountain
 |Cave                   |%  |
 |-----------------------|---|
 |Numel                  |25 |
-|**Diglett (Alolan)**   |20 |
+|**Diglett-Alola**      |20 |
 |Noibat                 |14 |
 |Slugma                 |10 |
 |**Sawk**               |10 |
 |**Throh**              |10 |
 |Graveler               |6  |
-|**Dugtrio (Alolan)**   |4  |
+|**Dugtrio-Alola**      |4  |
 |**Magcargo**           |1  |
 
 You can also find Magcargo by smashing the nearby pillars. Anyways, nothing to do on 1F so go to B1F via the ladder. You'll see a pillar glowing, which means we can drain lava by rock smashing it. Do so, then go down the ladder to the left. Grab a hidden *Red Shard* and drain the lava. Head up the ladder and immediately come back down. If it is still glowing, you can smash the pillar to get **Turtonator**. This is one of two possibilities of a randomly determined event.
@@ -3690,7 +3690,7 @@ Tanzan Mountain 1F
 
 |Cave                   |%  |
 |-----------------------|---|
-|**Geodude (Alolan)**   |20 |
+|**Geodude-Alola**      |20 |
 |Noibat                 |20 |
 |Sandshrew              |20 |
 |Onix                   |20 |
@@ -3784,7 +3784,7 @@ Lost Railcave
 |Cave                   |%  |
 |-----------------------|---|
 |Kecleon                |29 |
-|**Graveler (Alolan)**  |20 |
+|**Graveler-Alola**     |20 |
 |Noibat                 |20 |
 |Sandshrew              |10 |
 |Onix                   |10 |
@@ -6124,9 +6124,287 @@ With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F
 
 ## Ametrine City
 
-
+Hidden here you'll find a *Purple Shard* 
 
 # Appendices
+
+## Wild Held Items
+
+Some wild Pokemon have a chance of holding an item when they are encountered in the wild. Note that the probabilities of each item are increased to 60, 20, and 5% respectively when your lead Pokemon has the Compoundeyes ability. 
+
+|Pokemon     |Common (50%)    |Uncommon (5%)   |Rare (1%)       |
+|------------|----------------|----------------|----------------|
+|Butterfree  |                |*Silver Powder* |                |
+|Beedrill    |                |*Poison Barb*   |                |
+|Spearow     |                |*Sharp Beak*    |                |
+|Fearow      |                |*Sharp Beak*    |                |
+|Pikachu     |                |                |*Light Ball*    |
+|Sandshrew   |                |*Grip Claw*     |                |
+|Sandslash   |                |*Grip Claw*     |                |
+|Clefairy    |                |*Moon Stone*    |                |
+|Clefable    |                |*Moon Stone*    |                |
+|Vulpix      |                |*Charcoal*      |                |
+|Ninetales   |                |*Charcoal*      |                |
+|Jigglypuff  |                |*Moon Stone*    |                |
+|Wigglytuff  |                |*Moon Stone*    |                |
+|Oddish      |                |*Absorb Bulb*   |                |
+|Gloom       |                |*Absorb Bulb*   |                |
+|Vileplume   |                |*Absorb Bulb*   |                |
+|Paras       |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Parasect    |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Venomoth    |                |*Shed Shell*    |                |
+|Diglett     |                |*Soft Sand*     |                |
+|Dugtrio     |                |*Soft Sand*     |                |
+|Meowth      |                |*Quick Claw*    |                |
+|Persian     |                |*Quick Claw*    |                |
+|Poliwhirl   |                |*King's Rock*   |                |
+|Poliwrath   |                |*King's Rock*   |                |
+|Abra        |                |*Twisted Spoon* |                |
+|Kadabra     |                |*Twisted Spoon* |                |
+|Alakazam    |                |*Twisted Spoon* |                |
+|Machop      |                |*Focus Band*    |                |
+|Machoke     |                |*Focus Band*    |                |
+|Machamp     |                |*Focus Band*    |                |
+|Tentacool   |                |*Poison Barb*   |                |
+|Tentacruel  |                |*Poison Barb*   |                |
+|Geodude     |                |*Everstone*     |                |
+|Graveler    |                |*Everstone*     |                |
+|Golem       |                |*Everstone*     |                |
+|Slowpoke    |                |*Lagging Tail*  |                |
+|Slowbro     |                |*King's Rock*   |                |
+|Magnemite   |                |*Metal Coat*    |                |
+|Magneton    |                |*Metal Coat*    |                |
+|Farfetch'd  |                |*Stick*         |                |
+|Doduo       |                |*Sharp Beak*    |                |
+|Dodrio      |                |*Sharp Beak*    |                |
+|Grimer      |                |*Black Sludge*  |                |
+|Muk         |                |*Black Sludge*  |                |
+|Shellder    |*Pearl*         |*Big Pearl*     |                |
+|Cloyster    |*Pearl*         |*Big Pearl*     |                |
+|Exeggcute   |                |*Magical Seed*  |                |
+|Cubone      |                |*Thick Club*    |                |
+|Marowak     |                |*Thick Club*    |                |
+|Lickitung   |                |*Lagging Tail*  |                |
+|Koffing     |                |*Smoke Ball*    |                |
+|Weezing     |                |*Smoke Ball*    |                |
+|Chansey     |*Lucky Punch*   |                |                |
+|Horsea      |                |*Dragon Scale*  |                |
+|Seadra      |                |*Dragon Scale*  |                |
+|Goldeen     |                |*Mystic Water*  |                |
+|Seaking     |                |*Mystic Water*  |                |
+|Staryu      |*Stardust*      |*Star Piece*    |                |
+|Starmie     |*Stardust*      |*Star Piece*    |                |
+|Electabuzz  |                |*Electirizer*   |                |
+|Magmar      |                |*Magmarizer*    |                |
+|Lapras      |*Mystic Water*  |*Mystic Water*  |*Mystic Water*  |
+|Ditto       |*Quick Powder*  |*Metal Powder*  |                |
+|Snorlax     |*Leftovers*     |*Leftovers*     |*Leftovers*     |
+|Dratini     |                |*Dragon Scale*  |                |
+|Dragonair   |                |*Dragon Scale*  |                |
+|Dragonite   |                |*Dragon Scale*  |                |
+|Mew         |*Lum Berry*     |*Lum Berry*     |*Lum Berry*     |
+|Chinchou    |                |*Deep Sea Scale*|                |
+|Lanturn     |                |*Deep Sea Scale*|                |
+|Cleffa      |                |*Moon Stone*    |                |
+|Bellossom   |                |*Absorb Bulb*   |                |
+|Politoed    |                |*King's Rock*   |                |
+|Yanma       |                |*Wide Lens*     |                |
+|Slowking    |                |*King's Rock*   |                |
+|Steelix     |                |*Metal Coat*    |                |
+|Qwilfish    |                |*Poison Barb*   |                |
+|Shuckle     |*Berry Juice*   |*Berry Juice*   |*Berry Juice*   |
+|Sneasel     |                |*Quick Claw*    |                |
+|Corsola     |                |*Luminous Moss* |                |
+|Skarmory    |                |*Metal Coat*    |                |
+|Kingdra     |                |*Dragon Scale*  |                |
+|Elekid      |                |*Electirizer*   |                |
+|Magby       |                |*Magmarizer*    |                |
+|Miltank     |*Moomoo Milk*   |*Moomoo Milk*   |*Moomoo Milk*   |
+|Blissey     |                |*Lucky Egg*     |                |
+|Ho-oh       |*Sacred Ash*    |*Sacred Ash*    |*Sacred Ash*    |
+|Celebi      |*Lum Berry*     |*Lum Berry*     |*Lum Berry*     |
+|Zigzagoon   |*Potion*        |*Revive*        |                |
+|Linoone     |*Potion*        |*Max Revive*    |                |
+|Wurmple     |*Pecha Berry*   |*Bright Powder* |                |
+|Beautifly   |                |*Shed Shell*    |                |
+|Dustox      |                |*Shed Shell*    |                |
+|Lotad       |                |*Mental Herb*   |                |
+|Lombre      |                |*Mental Herb*   |                |
+|Ludicolo    |                |*Mental Herb*   |                |
+|Seedot      |                |*Power Herb*    |                |
+|Nuzleaf     |                |*Power Herb*    |                |
+|Shiftry     |                |*Power Herb*    |                |
+|Wingull     |*Pretty Wing*   |                |                |
+|Pelipper    |*Pretty Wing*   |                |                |
+|Surskit     |*Honey*         |                |                |
+|Masquerain  |                |*Silver Powder* |                |
+|Shroomish   |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Breloom     |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Nincada     |                |*Soft Sand*     |                |
+|Makuhita    |                |*Black Belt*    |                |
+|Hariyama    |                |*King's Rock*   |                |
+|Nosepass    |                |*Magnet*        |                |
+|Sableye     |                |*Wide Lens*     |                |
+|Mawile      |                |*Iron Ball*     |                |
+|Aron        |                |*Hard Stone*    |                |
+|Lairon      |                |*Hard Stone*    |                |
+|Aggron      |                |*Hard Stone*    |                |
+|Plusle      |                |*Cell Battery*  |                |
+|Minun       |                |*Cell Battery*  |                |
+|Volbeat     |                |*Bright Powder* |                |
+|Illumise    |                |*Bright Powder* |                |
+|Roselia     |                |*Poison Barb*   |                |
+|Gulpin      |*Oran Berry*    |*Sitrus Berry*  |                |
+|Swalot      |*Oran Berry*    |*Sitrus Berry*  |                |
+|Carvanha    |                |*Deep Sea Tooth*|                |
+|Sharpedo    |                |*Deep Sea Tooth*|                |
+|Torkoal     |                |*Charcoal*      |                |
+|Trapinch    |                |*Soft Sand*     |                |
+|Cacnea      |                |*Sticky Barb*   |                |
+|Cacturne    |                |*Sticky Barb*   |                |
+|Zangoose    |                |*Quick Claw*    |                |
+|Seviper     |                |*Shed Shell*    |                |
+|Lunatone    |*Stardust*      |*Moon Stone*    |                |
+|Solrock     |*Stardust*      |*Sun Stone*     |                |
+|Baltoy      |                |*Light Clay*    |                |
+|Claydol     |                |*Light Clay*    |                |
+|Lileep      |                |*Big Root*      |                |
+|Cradily     |                |*Big Root*      |                |
+|Castform    |*Mystic Water*  |*Mystic Water*  |*Mystic Water*  |
+|Shuppet     |                |*Spell Tag*     |                |
+|Banette     |                |*Spell Tag*     |                |
+|Duskull     |                |*Spell Tag*     |                |
+|Dusclops    |                |*Spell Tag*     |                |
+|Chimecho    |                |*Cleanse Tag*   |                |
+|Snorunt     |                |*Snowball*      |                |
+|Clamperl    |*Pearl*         |*Big Pearl*     |                |
+|Huntail     |                |*Deep Sea Tooth*|                |
+|Gorebyss    |                |*Deep Sea Scale*|                |
+|Relicanth   |                |*Deep Sea Scale*|                |
+|Luvdisc     |*Heart Scale*   |                |                |
+|Bagon       |                |*Dragon Fang*   |                |
+|Shelgon     |                |*Dragon Fang*   |                |
+|Salamence   |                |*Dragon Fang*   |                |
+|Beldum      |                |*Metal Coat*    |                |
+|Metang      |                |*Metal Coat*    |                |
+|Metagross   |                |*Metal Coat*    |                |
+|Jirachi     |*Star Piece*    |*Star Piece*    |*Star Piece*    |
+|Kricketot   |                |*Metronome*     |                |
+|Kricketune  |                |*Metronome*     |                |
+|Budew       |                |*Poison Barb*   |                |
+|Roserade    |                |*Poison Barb*   |                |
+|Wormadam    |                |*Silver Powder* |                |
+|Mothim      |                |*Silver Powder* |                |
+|Combee      |                |*Honey*         |                |
+|Vespiquen   |                |*Poison Barb*   |                |
+|Cherubi     |                |*Miracle Seed*  |                |
+|Cherrim     |                |*Miracle Seed*  |                |
+|Chingling   |                |*Cleanse Tag*   |                |
+|Bronzor     |                |*Metal Coat*    |                |
+|Bronzong    |                |*Metal Coat*    |                |
+|Happiny     |*Oval Stone*    |                |                |
+|Chatot      |                |*Metronome*     |                |
+|Munchlax    |*Leftovers*     |*Leftovers*     |*Leftovers*     |
+|Skorupi     |                |*Poison Barb*   |                |
+|Drapion     |                |*Poison Barb*   |                |
+|Croagunk    |                |*Black Sludge*  |                |
+|Toxicroak   |                |*Black Sludge*  |                |
+|Snover      |                |*Never-Melt Ice*|                |
+|Abomasnow   |                |*Never-Melt Ice*|                |
+|Weavile     |                |*Quick Claw*    |                |
+|Magnezone   |                |*Metal Coat*    |                |
+|Lickilicky  |                |*Lagging Tail*  |                |
+|Electivire  |                |*Electirizer*   |                |
+|Magmortar   |                |*Magmarizer*    |                |
+|Yanmega     |                |*Wide Lens*     |                |
+|Probopass   |                |*Magnet*        |                |
+|Dusknoir    |                |*Spell Tag*     |                |
+|Shaymin     |*Lum Berry*     |*Lum Berry*     |*Lum Berry*     |
+|Roggenrola  |*Everstone*     |*Hard Stone*    |                |
+|Boldore     |*Everstone*     |*Hard Stone*    |                |
+|Gigalith    |*Everstone*     |*Hard Stone*    |                |
+|Audino      |*Oran Berry*    |*Sitrus Berry*  |                |
+|Throh       |                |*Black Belt*    |                |
+|Sawk        |                |*Black Belt*    |                |
+|Sewaddle    |                |*Mental Herb*   |                |
+|Swadloon    |                |*Mental Herb*   |                |
+|Leavanny    |                |*Mental Herb*   |                |
+|Cottonee    |                |*Absorb Bulb*   |                |
+|Whimsicott  |                |*Absorb Bulb*   |                |
+|Petilil     |                |*Absorb Bulb*   |                |
+|Lilligant   |                |*Absorb Bulb*   |                |
+|Basculin    |                |                |*Deep Sea Tooth*|
+|Sandile     |                |*Black Glasses* |                |
+|Krokorok    |                |*Black Glasses* |                |
+|Krookodile  |                |*Black Glasses* |                |
+|Maractus    |                |*Miracle Seed*  |                |
+|Dwebble     |                |*Hard Stone*    |                |
+|Crustle     |                |*Hard Stone*    |                |
+|Scraggy     |                |*Shed Shell*    |                |
+|Scrafty     |                |*Shed Shell*    |                |
+|Yamask      |                |*Spell Tag*     |                |
+|Cofagrigus  |                |*Spell Tag*     |                |
+|Trubbish    |                |*Silk Scarf*    |                |
+|Garbodor    |*Silk Scarf*    |*Black Sludge*  |                |
+|Vanillite   |                |*Never-Melt Ice*|                |
+|Vanillish   |                |*Never-Melt Ice*|                |
+|Vanilluxe   |                |*Never-Melt Ice*|                |
+|Foongus     |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Amoonguss   |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Ferroseed   |                |*Sticky Barb*   |                |
+|Ferrothorn  |                |*Sticky Barb*   |                |
+|Cryogonal   |                |*Never-Melt Ice*|                |
+|Stunfisk    |                |*Soft Sand*     |                |
+|Druddigon   |                |*Dragon Fang*   |                |
+|Golett      |                |*Light Clay*    |                |
+|Golurk      |                |*Light Clay*    |                |
+|Volcarona   |*Silver Powder* |*Silver Powder* |*Silver Powder* |
+|Meloetta    |*Star Piece*    |*Star Piece*    |*Star Piece*    |
+|Pancham     |                |*Mental Herb*   |                |
+|Pangoro     |                |*Mental Herb*   |                |
+|Hawlucha    |                |*King's Rock*   |                |
+|Goomy       |                |*Shed Shell*    |                |
+|Sliggoo     |                |*Shed Shell*    |                |
+|Pikipek     |                |*Oran Berry*    |                |
+|Trumbeak    |                |*Sitrus Berry*  |                |
+|Toucannon   |                |*Rawst Berry*   |                |
+|Yungoos     |                |*Pecha Berry*   |                |
+|Gumshoos    |                |*Pecha Berry*   |                |
+|Charjabug   |                |*Cell Battery*  |                |
+|Crabrawler  |                |*Aspear Berry*  |                |
+|Crabominable|                |*Cheri Berry*   |                |
+|Oricorio    |                |*Honey*         |                |
+|Cutiefly    |                |*Honey*         |                |
+|Ribombee    |                |*Honey*         |                |
+|Mareanie    |                |*Poison Barb*   |                |
+|Toxapex     |                |*Poison Barb*   |                |
+|Mudbray     |                |*Light Clay*    |                |
+|Mudsdale    |                |*Light Clay*    |                |
+|Dewpider    |                |*Mystic Water*  |                |
+|Araquanid   |                |*Mystic Water*  |                |
+|Fomantis    |                |*Miracle Seed*  |                |
+|Lurantis    |                |*Miracle Seed*  |                |
+|Morelull    |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Shiinotic   |*Tiny Mushroom* |*Big Mushroom*  |                |
+|Salandit    |                |*Smoke Ball*    |                |
+|Salazzle    |                |*Smoke Ball*    |                |
+|Bounsweet   |                |*Elemental Seed*|                |
+|Steenee     |                |*Elemental Seed*|                |
+|Tsareena    |                |*Elemental Seed*|                |
+|Comfey      |                |*Elemental Seed*|                |
+|Sandygast   |                |*Spell Tag*     |                |
+|Palossand   |                |*Spell Tag*     |                |
+|Minior      |                |*Star Piece*    |                |
+|Turtonator  |                |*Charcoal*      |                |
+|Togedemaru  |                |*Elemental Seed*|                |
+|Mimikyu     |                |*Chesto Berry*  |                |
+|Bruxish     |                |*Razor Fang*    |                |
+|Drampa      |                |*Persim Berry*  |                |
+|Jangmo-o    |                |*Razor Claw*    |                |
+|Hakamo-o    |                |*Razor Claw*    |                |
+|Kommo-o     |*Razor Claw*    |                |                |
+
+
 
 ## Full Password List
 
