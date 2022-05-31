@@ -116,7 +116,11 @@ Heavy Work In Progress :)
   - [Calcenon City](#calcenon-city)
   - [Cinder Badge](#cinder-badge)
 - [Episode 14: //outlier.corruption](#episode-14-outliercorruption)
+  - [11 Badge Quests](#11-badge-quests)
+  - [Mountain Range Diving](#mountain-range-diving)
+  - [Ametrine City](#ametrine-city)
 - [Appendices](#appendices)
+  - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
     - [Quality of Life Passwords](#quality-of-life-passwords)
@@ -360,7 +364,7 @@ Anyways, down and to the right from here you'll find some more trainers. During 
 
 Immediately above this intersection you'll find a pile of trash paper on the left side, between two girders. One tile up and one tile right from that contains a hidden *Purple Shard*.
 
-There's nothing else here for now, so head down and left from this area and enter the first house that you can. Inside, you'll find a *Pokesnax*! This item is crucial for getting certain Pokemon. Back outside, go one tile left and all the way down. In the final tile you can stand on is a hidden *Exp. Candy XS*. 
+There's nothing else here for now, so head down and left from this area and enter the first house that you can. Inside, you'll find a *PokeSnax*! This item is crucial for getting certain Pokemon. Back outside, go one tile left and all the way down. In the final tile you can stand on is a hidden *Exp. Candy XS*. 
 
 Head back up and to the right, and you'll find another trainer. The building directly above him has a pile of trash paper to its right, which contains a hidden *Blue Shard*. Up from here, in a box you can find a hidden *Common Candy*. Since we are holding the snax, talk to the dumpster next to it to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**. 
 
@@ -481,9 +485,9 @@ Peridot Ward Snax Shop
 
 |Item       |Price      |
 |-----------|-----------|
-|*Pokesnax* |$650       |
+|*PokeSnax* |$650       |
 
-If you use up your Pokesnax and need more, this is the place. Note that he won't be here unless the weather is clear or sunny. 
+If you use up your PokeSnax and need more, this is the place. Note that he won't be here unless the weather is clear or sunny. 
 
 In the "Jasper" gate here you can find a *Genius Wing* in a rock. Outside you'll find a hidden *Green Shard* a tile to the right of the pair of trash paper tiles. To the right past the trainer a rock contains a hidden *Purple Shard*.
 
@@ -784,7 +788,7 @@ I don't think you need to spend your precious money on Exp. Candy since grinding
 
 Back outside, follow Victoria to the right. If you'd like to get to battle Victoria and potentially get a point with her in a bit, talk to Florinia. 
 
-Two tiles south of the nearby statue you'll find a *Pokesnax*, and another *Pokesnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
+Two tiles south of the nearby statue you'll find a *PokeSnax*, and another *PokeSnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
 
 Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. As I did with Teddiursa, I will come back to it once we can access all the locations. For now, exit the building. Two tiles to the right, you'll find a hidden *Dire Hit*. 
 
@@ -794,7 +798,7 @@ While it's windy, you can catch wild **Hoppip** here! Anyways, enter the slums.
 
 ## Obsidia Slums
 
-Grab a *Potion* in the trash can to the left and head up. A box in the upper right corner contains a *Great Ball*. Heading down and to the left, the open toolchest next to the nerd contains a *Pokesnax*; the pot to the left contains a *Red Shard*.
+Grab a *Potion* in the trash can to the left and head up. A box in the upper right corner contains a *Great Ball*. Heading down and to the left, the open toolchest next to the nerd contains a *PokeSnax*; the pot to the left contains a *Red Shard*.
 
 To the left you'll find a Light Shard, which heals your party but disappears after. You can always leave it here for a little while until you need it more, if you'd like.
 
@@ -907,7 +911,7 @@ Back in the main basement area, go between the escalators to get a *Cotton Candy
 
 Back upstairs and in the hub, take the escalator to go up. A box on the right contains an *Awakening*. Head to the right and jump your way through this path, pick up a hidden *Exp. Candy XS* and an *Antidote* in rocks on the right side, and go down. Here you'll find an abandoned egg. When it hatches it will be **Bronzor**, **Ducklett**, or **Drowzee**, determined randomly.
 
-Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut, then head back to where Victoria was arguing with the guy earlier and talk to the trashcan to get a *Pokesnax*.
+Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut, then head back to where Victoria was arguing with the guy earlier and talk to the trashcan to get a *PokeSnax*.
 
 With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden ** two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
 
@@ -1075,7 +1079,7 @@ Department Store 1F Left Shop
 |*Escape Rope*  |$550           |
 |*Common Candy* |$150           |
 |*Repel*        |$400           |
-|*Pokesnax*     |$400           |
+|*PokeSnax*     |$400           |
 
 Department Store 1F Right Shop
 
@@ -1125,7 +1129,7 @@ The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hid
 
 Head up into Onyx Ward from the northeastern corner of Obsidia. Onyx Ward is pretty small, but there are some things we can do here before challenging the gym.
 
-Head up on the right side. Across from the third lamppost on the sidewalk you can find a hidden *Cheri Berry*. Making your way around to the top left corner past the front of the school, the second tile from the left contains a hidden *Antidote*. The rock below contains a *Carbos* and the rock down from here contains a *Pokesnax*. 
+Head up on the right side. Across from the third lamppost on the sidewalk you can find a hidden *Cheri Berry*. Making your way around to the top left corner past the front of the school, the second tile from the left contains a hidden *Antidote*. The rock below contains a *Carbos* and the rock down from here contains a *PokeSnax*. 
 
 Anyways, we can't yet enter the Move Relearner house, so enter the apartment to the right. Talk to the girl on the left twice - for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 
@@ -1450,7 +1454,7 @@ After the battle, you'll be sent outside. Answer Corey how you like here, then g
 
 Exit Malchous Forest Park in the top right corner. In the first house, you'll be able to defeat a Meteor Grunt to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 
-Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *Pokesnax*.
+Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *PokeSnax*.
 
 Past the Pokemon Center, enter the first building you see. Talk to the guy here to activate a quest. You can also enter the elevator room here to get the *Forest Field Readout*. 
 
@@ -1490,7 +1494,7 @@ Head outside and up to access the next ward.
 
 ## Rhodochrine Jungle & The Underroot
 
-Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *Pokesnax*. 
+Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *PokeSnax*. 
 
 While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to the kid here and he will go home.
 
@@ -1699,7 +1703,7 @@ Beryl Ward Snax Shop
 
 |Item       |Price      |
 |-----------|-----------|
-|*Pokesnax* |$650       |
+|*PokeSnax* |$650       |
 
 Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax.
 
@@ -1949,7 +1953,7 @@ Sweet Scent Flower Shop Top
 |*Rose Incense* |$9600          |
 |*Floral Charm* |$1500          |
 |*Sachet*       |$1000          |
-|*Pokesnax*     |$400           |
+|*PokeSnax*     |$400           |
 
 We will eventually need a Floral Charm and around 25-30 Honeys for sidequests later. There is technically a cheaper option to get the honey later on, however. 
 
@@ -2044,7 +2048,7 @@ Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out t
 
 You'll notice that we're back on B1F, so head back down the ladder below. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll be on B1F.
 
-Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here then immediately sneak past some rocks to the left. You'll obtain *TM69 Rock Polish*! Head back down the stairs and climb the stairs to the right. You'll find a hidden *Psychic Gem*, *X Speed*, and *Pokesnax* along the way.
+Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here then immediately sneak past some rocks to the left. You'll obtain *TM69 Rock Polish*! Head back down the stairs and climb the stairs to the right. You'll find a hidden *Psychic Gem*, *X Speed*, and *PokeSnax* along the way.
 
 Finally, we can take the huge series of ledges to take the third path from the left. Grab the hidden *X Sp. Atk* then head down the ladder here.
 
@@ -2857,7 +2861,7 @@ Apophyll Beach
 
 You can also catch **Pyukumuku** chilling all around the beach.
 
-Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *Pokesnax*, *Common Candy*, *Full Heal*, *Blue Shard*. 
+Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokeSnax*, *Common Candy*, *Full Heal*, *Blue Shard*. 
 
 You'll enter the Apophyll Academy map by going to the left at the top. Go all the way around the academy sticking to this map: hidden here are *Super Potion*, *Shoal Shell*,  *Blue Shard*, *Full Heal*, and *Soft Sand*. Back down at the academy's front entrance, go down from here. You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
 
@@ -3670,7 +3674,7 @@ Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have t
 
 ## Underground Railnet East
 
-Back on the ground floor, head east to enter another part of the railnet. This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *Pokesnaxs*, and *Super Repel*.
+Back on the ground floor, head east to enter another part of the railnet. This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*.
 
 You can also find a bunch more of those shallow walls that you can use Rock Smash on. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left to create a shortcut to the Aron room. 
 
@@ -3699,7 +3703,7 @@ Tanzan Mountain 1F
 
 On the left as you walk in, you'll see whichever of **Solrock** and **Lunatone** that you didn't get to catch earlier.
 
-On this map, you'll find hidden *X Speed*, *Pokesnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
+On this map, you'll find hidden *X Speed*, *PokeSnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
 
 Talk to Charlotte then emerge at the top into Tanzan Cove.
 
@@ -3723,7 +3727,7 @@ Tanzan Cove
 |Goldeen           |70 |
 |**Seaking**       |30 |
 
-In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *Pokesnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
+In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokeSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
 
 Enter the house at the top.
 
@@ -4441,7 +4445,7 @@ Before hopping up or down any edges, you can find a hidden *Nugget* here. Head d
 
 Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll embark on in a bit. Upstairs someone will give us the password *allfieldapp*, and another person will tell us they lost their glasses. This will also be our main healing hub for now. Upstairs, you can do an in-game trade: our Dunsparce for **Tyrogue**. Nice. Grab the *Wide Lens* here as well.
 
-Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*. Down again you'll find hidden *Ice Heal* and *Pokesnax*. Finally, on the bottom tier, you can find hidden *Red Shard*, *Purple Shard*, and *Pokeball*. You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a mount and we can head back up Route 1!
+Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*. Down again you'll find hidden *Ice Heal* and *PokeSnax*. Finally, on the bottom tier, you can find hidden *Red Shard*, *Purple Shard*, and *Pokeball*. You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a mount and we can head back up Route 1!
 
 This time, as you go right, take the time to knock out every single Tauros. Even if we can't see them right now, there are logs in the woods that Bouffalant will be able to take care of for us, so it's a good idea to move every single one of them right now while we're exploring Route 1 anyways.
 
@@ -4477,7 +4481,7 @@ You'll eventually make your way back to the area where we fought Fern. To progre
 
 On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mushroom*. To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards - past it, you can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale*. You'll notice we can't access the area at the bottom-right while on a Tauros, so we'll come back here later on. Continue knocking out the Tauros to get Bouffalant to push logs as we progress.
 
-On the next hill you can get a hidden *Pokesnax*, *Purple Shard*, and *Pokeball*. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, *Zinc*, *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*. 
+On the next hill you can get a hidden *PokeSnax*, *Purple Shard*, and *Pokeball*. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, *Zinc*, *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*. 
 
 With that out of the way, dismount off your Tauros with 'A' and jump down the ledges down and to the left until we reach the secluded part we skipped earlier. Beat this final Tauros to move one more log, then grab the hidden *Super Repel*. Up above you should find another pair of fighting bulls - beat Bouffalant to get another Tauros mount, then return all the way to the right. We can't do anything in the top area for now, so head down and into the Vanhanen Labyrinth.
 
@@ -5410,7 +5414,7 @@ Agate Circus Snax Shop
 
 |Item           |Price  |
 |---------------|-------|
-|*Pokesnax*     |$650   |
+|*PokeSnax*     |$650   |
 
 Agate Circus Ice Cream Shop
 
@@ -5552,7 +5556,7 @@ Down the nearby stairs you can walk through the valley between the rocks to clim
 
 To the right from here, go down and grab hidden *X Sp. Atk* and *Revive*. Can't go further, so head back and go all the way left. Grab a hidden *Telluric Seed*, beat the clown, and grab a hidden *Red Shard* and go down the stairs. Again we will be blocked, so go back up and right then go down the stairs.
 
-Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *Pokesnax*, and hop your way to the bottom right side of the area. Climb down the stairs. 
+Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokeSnax*, and hop your way to the bottom right side of the area. Climb down the stairs. 
 
 Snag the *Blue Shard* to the left, then get some sleep poweer and talk to Crustle. We'll need to move it down and right. Precisely: 
 
@@ -5605,7 +5609,7 @@ Celestinine Cascade
 |                  |   |                  |   |
 |                  |   |                  |   |
 
-In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *Pokesnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
+In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokeSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 
@@ -5732,7 +5736,7 @@ Celestinine Cascade
 |Lumineon          |30 |
 |Wishiwashi        |6  |
 
-Surf to the left. Hidden are *Water Gem*, 2 *Pokesnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poke Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
+Surf to the left. Hidden are *Water Gem*, 2 *PokeSnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poke Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
 
 Talk to the clown with the Politoed and Torkoal for a battle.
 
@@ -5885,7 +5889,7 @@ Inside this cave you can find a hidden *Hyper Potion*, *Red Shard*, 2 *Repels*, 
 
 Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resist Wing*, and *Exp. Candy XL*. 
 
-Enter the next cave. Inside you can find hidden *Pokesnax*, and *Potion*, as well as Team Meteor! Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
+Enter the next cave. Inside you can find hidden *PokeSnax*, and *Potion*, as well as Team Meteor! Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
 
 In this room, you can get hidden *Repeat Ball*, *Fire Gem*, and *Great Ball*. The next room contains a hidden *Super Repel* and *Poke Ball*. 
 
@@ -6124,7 +6128,23 @@ With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F
 
 ## Ametrine City
 
-Hidden here you'll find a *Purple Shard* 
+Ametrine City
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Snover            |20 |Snover            |20 |Snover            |20 |
+|**Vulpix-Alola**  |20 |**Vulpix-Alola**  |20 |**Vulpix-Alola**  |20 |
+|**Drampa**        |11 |Bergmite          |10 |Bergmite          |10 |
+|Bergmite          |10 |Piloswine         |10 |Piloswine         |10 |
+|Piloswine         |10 |Beartic           |10 |Beartic           |10 |
+|Beartic           |10 |**Drampa**        |10 |**Drampa**        |10 |
+|Abomasnow         |5  |Abomasnow         |5  |Noctowl           |10 |
+|**Ambipom**       |5  |**Ambipom**       |5  |Furfrou           |5  |
+|Furfrou           |5  |Furfrou           |5  |**Vanillish**     |4  |
+|**Vanillish**     |4  |**Vanillish**     |4  |Absol             |1  |
+|                  |   |Absol             |1  |                  |   |
+
+Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokeSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and*Zinc* as you proceed. Talk to Shelly here.
 
 # Appendices
 
@@ -6403,8 +6423,6 @@ Some wild Pokemon have a chance of holding an item when they are encountered in 
 |Jangmo-o    |                |*Razor Claw*    |                |
 |Hakamo-o    |                |*Razor Claw*    |                |
 |Kommo-o     |*Razor Claw*    |                |                |
-
-
 
 ## Full Password List
 
