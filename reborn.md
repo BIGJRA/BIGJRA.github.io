@@ -6568,13 +6568,29 @@ For winning, you'll get the *Gravity Badge* which lets us actually use Waterfall
 
 # Episode 15: Cascade
 
-Head back outside. Before we proceed with the story, we've actually only seen like 30% of the massive three-mountain complex, much more of it is now accessible thanks to Waterfall. So, I will cover that in the next section.
+Head back outside. Before we proceed with the story, we've actually only seen like 30% of the massive three-mountain complex; much more of it is now accessible thanks to Waterfall. So, I will cover that in the next section.
 
 ## Mountain Range Waterfallin'
 
+Enter Ametrine Mountain via the Route 3 entrance. Climb the nearby waterfall. Upstairs on 3F, you can get a hidden *Green Shard* and *Never-Melt Ice*. Across the ice you can find a hidden *Potion*. On the ice puzzle to the left, creep along the tiles above the ice, then go down onto a rock, left, and up. Grab a hidden *Super Potion*. Head up the waterfall to 4F.
 
+At the top you can grab a hidden *Escape Rope*. Sadly we can't proceed on this route without Rock Climb, so hop down the ledge and make your way back down to 2F. 
 
-TODO: big room before room w abomasite has these encounters for some reason which is diff from the usual:
+Back on 2F, make your way to the waterfall down and left from the Route 2 entrance, then go down it. To the right, you'll find a hidden *Purple Shard*, *Escape Rope*, and *Exp. Candy L*. By smashing its favorite rock, you can catch a **Sneasel**. 
+
+Surf down the waterfall to the left, then pick up a hidden *Full Heal* on the right. Land on the left side and make your way across the ice. Grab a hidden *Red Shard* and push the boulder to the left. Head back up the waterfall, go left, pick up hidden *Paralyze Heal* and *Purple Shard*, then go down at the dive spot.
+
+You'll find a hidden *Blue Shard* in the first room. Notice that there's a hard-to-spot door on the right side of the area - head in. This room contains a hidden *Antidote* and *Red Shard*. Surface here.
+
+Grab a hidden *Full Heal* and *Health Wing* then proceed to the ice. Make your way to the top right corner of this area, and surf down. Grab a hidden *Water Gem* and climb down the fall.
+
+In this next room, go left across the ice. Pick up a hidden *Green Shard* and *Pretty Wing*, then climb the waterfalls to the left. In the pool at the top, you can find **Totodile** jumping around. Talk to it while it's in the air for a battle.
+
+Back at the ice puzzle in the room, go up this time. Grab hidden *Stardust* and cross this ice. Before going down the dive spot, go down the fall to get a hidden *Full Restore*. Dive down up above. Grab a hidden *X Sp. Def* on this map and enter the door towards the bottom. In the next room you can get a hidden *Purple Shard* and *Dark Gem*. Surface at the other end.
+
+You can get a hidden *Pearl* and *Red Shard* in the next room, as well as *TM01 Work Up* and a *Razor Fang*. Backtrack all the way back to B1F.
+
+This time, cross the ice to the left. Grab the hidden *Poke Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the door at the bottom.
 
 Celestinine Mountain B2F / Ametrine Mountain B2F Underwater Caverns
 
@@ -6582,9 +6598,73 @@ Celestinine Mountain B2F / Ametrine Mountain B2F Underwater Caverns
 |------------------|---|
 |Chinchou          |30 |
 |Clamperl          |25 |
-|Wailord           |24 |
+|**Wailord**       |24 |
 |Lanturn           |15 |
 |Relicanth         |6  |
+
+In this large room you can get an *Exp. Candy XL* and the *Snorlium-Z* as well as a hidden *Green Shard*, *Water Stone*, and *Super Potion*.
+
+Also, specifically on Friday, you can find a **Lapras** roaming around this room!
+
+Enter the door in the lower left side. In the next room you can find a hidden *Green Shard* and *Link Stone*, as well as the *Abomasite*! 
+
+With that, backtrack all the way to Ametrine Mountain 1F where we pushed the boulder earlier. Go down some waterfalls until you reach Celestinine Mountain 1F, then go down the waterfall in the bottom right. At the split, go up and grab the hidden *Repel* then dive down. 
+
+Underwater, pick up a hidden *Ultra Ball*, *Exp. Candy XL*, *Iron*, and *Clever Wing*. Surface in the bottom left corner and cross the ice to get *TM47 Low Sweep*, then backtrack to the fork and go down.
+
+Pick up a hidden *PP Up* by going up and left. Surf down the waterfall at the bottom. In the right corner you can get a *Potion*, but unfortunately that's all we can do here without Rock Climb. Backtrack to Celestinine Mountain 1F, then go up the ladder in the upper right side to return to 2F. Dive down at the crescent shaped spot and surface at the spot in the upper right side.
+
+Climb the waterfall here to reach 3F. On this floor, you'll need to push boulders into the dead ends in order to skate around the entire area. You'll find a hidden *Aspear Berry* within, and a *Exp. Candy L* and hidden *Nugget* in the top left corner. Climb the waterfall to 4F.
+
+Celestinine Mountain 4F
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Finneon           |70 |Remoraid          |60 |
+|Wishiwashi        |30 |Clauncher         |20 |
+|                  |   |**Feebas**        |20 |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Buizel            |24 |Wailmer           |60 |
+|Swinub            |20 |Lumineon          |30 |
+|Cubchoo           |14 |Golduck           |5  |
+|Floatzel          |11 |Wishiwashi        |4  |
+|Piloswine         |10 |Dewgong           |1  |
+|Beartic           |10 |                  |   |
+|Sandshrew         |5  |                  |   |
+|Sandslash         |5  |                  |   |
+|Delibird          |1  |                  |   |
+
+We can fish up an ugly fish on this floor! This room contains a hidden *Flying Gem* and *Green Shard* as well as *TM03 Psyshock*, a *Dragon Scale*, *Timid Mint*, *Water Memory*, and *Exp. Candy XL*. 
+
+Backtrack all the way to Celestinine 2F once more, and make your way back to 1F. Go left across the ice to enter Citrine Mountain 1F. Surf straight down and pick up a hidden *Green Shard*, *Shoal Salt*, and *PokeSnax*. Push the nearby boulder to the left, then go up the waterfall and cross the now open ice patch. 
+
+With the Silver Ring in hand, we can catch Corey's **Skuntank** here! Behind it, pick up the *Silver Card*. 
+
+Make your way to Citrine Mountain 2F and climb the waterfall. Pick up the *Prism Scale* and hidden *Common Candy*. Climb the waterfall at the top. Here, you'll find 3 *Exp. Candy XL*, *Amplified Rock*, *Grass Memory*, *TM74 Gyro Ball*, hidden *Super Repel*, *Great Ball*, *Guard Spec.* and *Shoal Salt*. Oh, and you can get Corey's **Mareanie** here!
+
+That wraps up our massive collection effort in the mountain complex. Return to Celestinine Cascade and head down the waterfall when you're ready.
+
+## Water Treatment Center
+
+Talk to Titania here, then enter the North Obsidia Water Grid at the bottom.
+
+Water Treatment Center
+
+|Land              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Gulpin            |45 |Gulpin            |60 |
+|Grimer            |40 |Grimer            |30 |
+|Swalot            |10 |Muk               |9  |
+|Muk               |5  |Swalot            |1  |
+
+|Old Rod           |%  |Good Rod          |%  |
+|------------------|---|------------------|---|
+|Gulpin            |70 |Gulpin            |60 |
+|Grimer            |30 |Grimer            |20 |
+|                  |   |Muk               |20 |
+|                  |   |                  |   |
 
 # Appendices
 
