@@ -6228,10 +6228,10 @@ From here, head up to the now-open apartment at the center of town. Go to the to
 **In order to access the exclusive postgame route, you need to refuse Blake all three times.**
 
 Relationship Point Choices:
-- Give Blake the ring right away (Blake +2, Cal -2)
-- Refuse Blake once, then give him the ring (Blake +2, Cal -2, Shelly -1)
-- Refuse Blake twice, then give him the ring (Blake +2, Cal -2, Shelly -1, Heather -1)
-- Refuse Blake all three times. (Anna +1, Shade +1, Cal +2, Shelly -2, Blake -2, Heather -2)
+- Give Blake the ring right away (+2 Blake, -2 Cal)
+- Refuse Blake once, then give him the ring (+2 Blake, -2 Cal, -1 Shelly)
+- Refuse Blake twice, then give him the ring (+2 Blake, -2 Cal, -1 Shelly, -1 Heather)
+- Refuse Blake all three times. (Anna +1, Shade +1, Cal +2, -2 Shelly, -2 Blake, -1 Heather)
 
 If you gave Blake the ring, you'll get *TMX5 Waterfall.* If you didn't, you'll need to head outside to talk to Cal, then come back in to Blake's apartment.
 
@@ -7004,8 +7004,8 @@ I don't recommend reading this list until you've played through the game once - 
 | moneybags / richboy / doublemoney | Doubles the amount of money received by trainers. |
 | fullivs / 31ivs / allivs / mischievous | Sets all player Pokemon's IV's to 31. Disables online. |
 | emptyivs / 0ivs / noivs | Sets all player Pokemon's IV's to 0. |
-| leveloffset / setlevel / flatlevel | Allows you to provide an integer between -99, 99 that will be added to all trainer levels in the game. |
-| percentlevel / levelpercent | Allows you to provide a non-negative integer between 0, 999 that will be multiplied as a percent to all trainer levels in the game.
+| leveloffset / setlevel / flatlevel | Allows you to provide an integer in [-99, 99] that will be added to all trainer levels in the game. |
+| percentlevel / levelpercent | Allows you to provide a non-negative integer in [0, 999] that will be multiplied as a percent to all trainer levels in the game.
 | stopitems | Prevents enemy trainers from using bag items like Potions and X-Attacks during battle. |
 | stopgains | Prevents the player's Pokemon from gaining EV's after battle. |
 | noexp / zeroexp / 0exp | Prevents the player's Pokemon from gaining exp.
