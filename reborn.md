@@ -2820,7 +2820,9 @@ Relationship Point Choices:
 - Tell Ace you think they might be a double double agent (+1 Ace)
 - Tell Ace you don't think they could be a double double agent (-1 Ace)
 
-With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto. To get this Ditto, wake up Abra with Loudred, then use Abra to teleport Vanillite out of the top left cage. Then use Abra again to teleport Makuhita to the top left cage. Talk to that cage to get **Ditto**! 
+With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto, and we can get some goodies with it.
+
+Wake up Abra with Loudred, then use Abra to teleport Vanillite out of the top left cage. Next, use Abra again to teleport Lickitung to the top left cage. Talk to the top left cage to get a *Rare Candy*! Use Abra again to teleport Makuhita to the top left cage. Talk to that cage to get **Ditto**! 
 
 From here, teleport Vanillite out of the cage nearest the guard - I will call this the "attack" cage. You'll want to then teleport Cyndaquil into the attack cage. The guard will stop us from attacking however. So, talk to Loudred to lose your hearing then to Jigglypuff to put the guard to sleep. Make Cyndaquil attack the bars.
 
