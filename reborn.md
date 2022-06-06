@@ -124,6 +124,12 @@ Heavy Work In Progress :)
   - [Glitch City](#glitch-city)
 - [Episode 15: Cascade](#episode-15-cascade)
   - [Mountain Range Waterfallin'](#mountain-range-waterfallin)
+  - [Water Treatment Center](#water-treatment-center)
+    - [Choice: Zekrom Route Taka Fight](#choice-zekrom-route-taka-fight)
+    - [Ace Fight](#ace-fight)
+  - [Fiore Mansion Gauntlet](#fiore-mansion-gauntlet)
+  - [Suspension Badge](#suspension-badge)
+- [Episode 16: A City, Reborn](#episode-16-a-city-reborn)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -3154,7 +3160,7 @@ This field can't be changed naturally, so you can try your best to work within i
 
 Relationship Point Choices:
 - Defeat Kiki on your first try (+1 Victoria)
-- Defeat Kiki on the second, etc. try (-2 Victoria)
+- Defeat Kiki on the second, third, etc. try (-2 Victoria)
 
 # Episode 7: Poison In Vain
 
@@ -4274,7 +4280,7 @@ Another single Pokemon boss, this time with a Mega Steelix. Since it's slow you 
 
 Relationship Point Choices:
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
-- Beat Steelix on the second, etc. try (+2 Saphira)
+- Beat Steelix on the second, third, etc. try (+2 Saphira)
 
 Tanzan Depths (Main Areas)
 
@@ -5500,8 +5506,14 @@ Head out then come back in to have some conversations for relationship points if
 
 Relationship Point Choices:
 - Speak to Aya (+1 Aya)
+
+Relationship Point Choices:
 - Speak to Cain (+1 Aya)
+
+Relationship Point Choices:
 - Speak to Ciel (+2 Samson, -1 Ciel)
+
+Relationship Point Choices:
 - Speak to Samson (+2 Ciel, -1 Samson)
 
 Exit the Big Top. You'll notice another tutor on the left side of the circus.
@@ -5684,9 +5696,17 @@ Enter the circus back room. Once more we can have multiple conversations for rel
 
 Relationship Point Choices:
 - Talk to Aya (+1 Terra)
+
+Relationship Point Choices:
 - Talk to Cain (+1 Aya) 
+
+Relationship Point Choices:
 - Talk to Hardy (+1 Aya) 
+
+Relationship Point Choices:
 - Talk to Terra (+1 Terra)
+
+Relationship Point Choices:
 - Talk to Ciel (+1 Terra)
 
 Save and talk to Samson when you're ready for a fight.
@@ -5728,8 +5748,8 @@ Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight f
 Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! Compared to some of the simpler fields, Big Top Arena is really broad and opens up a ton of strategies you can use against this guy. If nothing else, notice that what I mentioned about Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you can survive long enough to use it. It is also the move you get from using Nature Power on this field, allowing even more Pokemon to use this strategy. You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary. There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokemon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... meaning Oricorio can actually fairly easily sweep him with a bit of support. If you are able to cripple his Pokemon long enough to boost yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many options that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like Sturdy + Counter for the tricky ones if need be. 
 
 Relationship Point Choices:
-- Defeat Samson on your 1st attempt (+2 Ciel)
-- Defeat Samson on your 2nd, etc. attempt (-1 Ciel)
+- Defeat Samson on your first try (+2 Ciel)
+- Defeat Samson on your second, third, etc. try (-1 Ciel)
 
 Once you win, you'll get the *Strike Badge* and *TM31 Brick Break*.
 
@@ -5895,7 +5915,11 @@ Route 3
 
 Relationship Point Choices:
 - Return to Ametrine while Aya is your partner (-1 Aya, -1 Hardy)
+
+Relationship Point Choices
 - Wipe out at any point with Aya as your partner (-1 Aya, -1 Hardy)
+
+Relationship Point Choices:
 - Talk to Aya while you are partnered (+1 Aya for each of 4 dialogues, +4 total)
 
 Route 3 Caves
@@ -6113,6 +6137,8 @@ To the right of the high striker you'll see a new vendor. For three Green Shards
 <img src="/assets/media/reborn/turtwig.jpg"/>
 
 For winning you'll get a Mew! Just kidding, of course, you get a **Turtwig!**
+
+Talk to the person in the top right guarding the Ferris Wheel to get the *Fighting Memory*.
 
 ## Mountain Range Divin'
 
@@ -6384,6 +6410,8 @@ Before we proceed with the story, we can head over to Calcenon to get the follow
 
 Relationship Point Choices:
 - Talk to Cain in Calcenon after fighting Blake (+1 Cain)
+
+Relationship Point Choices:
 - Talk to Hardy in Calcenon after fighting Blake (+1 Hardy)
 
 You can also head into Charlotte's gym - if you decided to 'cheat' and open the secret door earlier, you can now follow the path to get the *Charizardite X*.  
@@ -6423,6 +6451,8 @@ Glitch Opal Ward
 
 Relationship Point Choices:
 - Talk to Timmy (+1 Terra)
+
+Relationship Point Choices:
 - Talk to an NPC who tells you about oddishweed (+1 Terra)
 
 Enter the ladder in the glitchy mess on the left. Inside Rocket Hideout, proceed through the dungeon as you probably have tens of times over and grab the *Super Potion* as you go.
@@ -6654,19 +6684,398 @@ Talk to Titania here, then enter the North Obsidia Water Grid at the bottom.
 
 Water Treatment Center
 
-|Land              |%  |Water             |%  |
+|Mud Puddles       |%  |Water             |%  |
 |------------------|---|------------------|---|
 |Gulpin            |45 |Gulpin            |60 |
-|Grimer            |40 |Grimer            |30 |
-|Swalot            |10 |Muk               |9  |
-|Muk               |5  |Swalot            |1  |
+|**Grimer-Alola**  |40 |**Grimer-Alola**  |30 |
+|**Swalot**        |10 |**Muk-Alola**     |9  |
+|**Muk-Alola**     |5  |**Swalot**        |1  |
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
 |Gulpin            |70 |Gulpin            |60 |
-|Grimer            |30 |Grimer            |20 |
-|                  |   |Muk               |20 |
-|                  |   |                  |   |
+|**Grimer-Alola**  |30 |**Grimer-Alola**  |20 |
+|                  |   |**Muk-Alola**     |20 |
+
+In this area, we can hop across piles of trash if they're 2 spaces away. Make your way to the machine to the left - this is a water level machine. Pressing it will lower the water, letting us move trash around and progress. For now, lower the water and make your way to the right. In the very bottom right corner, in the mud, you'll find the *Murkwater Surface Field Readout* hidden behind a pillar. Go up and right to enter the Central Obsidia Water Grid.
+
+Talk to Titania then hop down. If you go left, you can use a panel to open a shortcut.
+
+Talk to Titania a few times in the center if you want.
+
+Relationship Point Choices:
+- Give Titania some candy when she says she is hungry (+1 Titania)
+
+Lower the water level, then head down into the mud at the top. Push each of the trash to the right such that you'll be able to hop across them into the upper right area. Generally, keep in mind that when the water level rises, the trash will end up one tile higher than they appear to be on when the water level is lowered. Raise the water level when you're done and hop across. You can also use the panel to make a shortcut. Enter the Onyx Water Grid.
+
+In this next room, Titania will be stranded on an island and the water level will be lowered. Push the trash into a position such that Titania will be able to jump across it to the right, then make your way up and to the right to raise the water. Once Titania clears the way, lower the water once more and go down into the Coral Water Grid.
+
+Defeat the grunts towards the bottom, then go up and head down into the mud. Push the garbage above Titania so she can hop across. Raise the water, watch her move into a new spot, then lower the water and move the trash to help her again. Raise the water. Once Titania opens the way, lower the water and cross back into the Central Obsidia Water Grid.
+
+Open the gate here. Lower the water level at the center and return to the bottom right corner, going down the stairs and following the path. Push the garbage into place so you can hop across, then raise the water and hop across. Use the panel up here, then lower the water level once more, then enter the door at the bottom left side to enter the Opal Water Grid.
+
+Proceed to the left to enter the Peridot Water Grid. Use the panel here. Return to Opal Water Grid, go up into the North Obsidia Water Grid, and lower the water level if it is not down already. Move the two piles of trash from their current locations to the left side of the machine so that you can hop to the door at the left. Raise the water level and enter the Peridot Water Grid at this entrance.
+
+Exit out of the door at the top right. Enter the next door and go up to get a *Hyper Potion*. Go back down and left into the Peridot Water Grid. You'll be able to hop across some trash here to get a *Quick Ball* and the *PULSE Readout 3*. You can also talk to the shutter here to open a door at the top of this room.
+
+Enter this new room, and grab a hidden *Cell Battery*. In the top right is an *Electirizer*. Exit and re-enter, and now there will be an Electrode in the corner. Battle it and transform the Short-Circuit Field into Factory Field. Talk to the nearby machine to get **Fennekin**! 
+
+Relationship Point Choices:
+- Read the note that comes with Fennekin (+1 Ace)
+
+Return to the previous room. Enter the Lapis Water Grid via the door at the top left. Go up to the top and go down the stairs to the mud. If you sneak past the trash to the bottom left you can get a *Smoke Ball*. Next, push the four rightmost trash to be all in a line, separated by two between each and such that the middle two surround the white pipe. Raise the water level, and you should now be able to hop across them altogether. Unlock the shutter, lower the water, and grab the *Beryl Grid Key*. 
+
+Return to the previous room and use the gate at the bottom to reach the machine, then lower the water level. Unfortunately you'll have to return to the North Obsidia Grid and cross to the left to reach the upper area of the Peridot Grid once more.
+
+Return to the Peridot Grid, and go right and down, then cross the mud. On the left side of the map, you'll see more stairs onto the mud, which eventually lead you to a hidden *Black Sludge*. Cross to the left into the Jasper Water Grid. Head left, then follow the path when the water is lowered. Go down onto the bottom section of the mud and go left to get a hidden *Full Heal*. Back on the land, defeat the grunts with Titania then proceed into the door at the top with your key.
+
+In the Beryl Water Grid, go to the right, and Titania will get trapped. Head left and go down the stairs. Move the two trashes such that you can hop across up and right. Titania will help us out by raising and lowering the water level as we go, so don't worry. In the next area, push the garbage such that you can go across to the left.
+
+Go down from here and follow the path through some rooms to the right, opening shutters for shortcuts as you go.
+
+Pokemon Stopple. Field: Murkwater Field
+- PULSE Swalot, Lv. 80, @Black Sludge, Ability: Water Absorb, Calm Nature, IVs: 27, EVs: 252/0/252/0/0/4. Typing: Water/Poison. Stat Spread: 100/73/210/40/110/210
+    - Sludge Wave
+    - Recover
+    - Infestation
+    - Discharge
+
+PULSE Swalot is slow but extremely bulky, and also has not 1, not 2, but 3 separate ways to heal - Recover, Black Sludge, and healing via its ability on the field. It also is Poison-type, so you can't use Toxic and wait like you could with Avalugg. It also hits respectably hard, and thanks to Discharge paralysis and Infestation flat damage, so you're likly going to have a hard time trying to get your own tank set up against it. I recommend trying to neutralize its healing - Knock Off or Trick with a Sticky Barb, Gastro Acid or Entrainment, Heal Block or Taunt are all options that can successfully prevent it from getting HP back. Then, you can exploit the fact that Electric moves are boosted on this field to finally knock it out! 
+
+Once you win, the Water Treatment Center will get fixed, but we'll need to make the water level in each room rise to make it clean again. To start, raise the water level nearby! Note that the normal water can be surfed on! Head east into the Central Obsidia Grid and fix the water level in here. Note you can surf to the right now to get *TM67 Smart Strike*.
+
+Enter the Coral Water Grid in the bottom right. Fix the water, then enter the Onyx Grid at the top. Fix the water in here, then surf to the top of the room to get *TM93 Wild Charge*. Walk all the way back to the North Obsidia Grid.
+
+Fix the water here, head left into the Peridot Ward, and fix the water once more. Head up into the Lapis Grid and fix the water. Fix the Jasper Grid's water, grab the *Scope Lens*, and finally return to the Beryl grid. Talk to Titania in the upper right corner. Surf to the top left corner of the room and proceed through all the barriers, then free Titania below. Use the Light Shard and go in. 
+
+You'll have a decision to make.
+
+**In order to access the exclusive postgame route, you need to NOT battle Taka.**
+
+All of the other choices we've made so far actually pale in comparison to the butterfly effect that comes following this choice. For reasons that will become clearer later on, the results of choosing to fight Taka are called the *Zekrom Route* and the results of choosing to not fight Taka are called the *Reshiram Route* by the community, and this guide will also use these conventions.
+
+Relationship Point Choices:
+- Fight Taka (+2 Taka, +1 Ace, -1 Titania)
+- Don't Fight Taka (+1 Anna, +1 Shade, -1 Ace, -2 Taka)
+
+### Choice: Zekrom Route Taka Fight
+
+If you're on the Reshiram route, skip ahead to the next section.
+
+Meteor Admin Taka. Field: 
+- Klefki, Lv. 69, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Spikes
+    - Thunder Wave
+    - Light Screen
+    - Foul Play
+- Exeggutor (Exeggutor-Alola), Lv. 71, @Sitrus Berry, Ability: Harvest, Brave Nature, IVs: 32, EVs: 252/0/252/0/4/0
+    - Trick Room
+    - Dragon Hammer
+    - Stomp Tantrum
+    - Seed Bomb
+- Komala, Lv. 69, @Leftovers, Ability: Comatose, Sassy Nature, IVs: 32, EVs: 248/0/8/0/0/252
+    - Wish
+    - Return
+    - Sucker Punch
+    - Bulk Up
+- Gliscor, Lv. 71, @Toxic Orb, Ability: Poison Heal, Brave Nature, IVs: 32, EVs: 252/0/4/0/0/252
+    - Protect
+    - Earthquake
+    - Acrobatics
+    - Roost
+- Minior, Lv. 69, @White Herb, Ability: Shields Down, Naive Nature, IVs: 31, EVs: 0/252/0/108/148/0
+    - Shell Smash
+    - Acrobatics
+    - Power Gem
+    - Earthquake
+- Chatot, Lv. 73, @Synthetic Seed, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Heat Wave
+    - Nasty Plot
+    - Hyper Voice
+    - Roost
+
+Time for another fight with Taka, but this one isn't really too hard hopefully. If you have something to deal with his lead, an Ice-type can basically steamroll his team.
+
+### Ace Fight
+
+Regardless of your route you'll have to fight Ace.
+
+Meteor Agent Ace of Spades (Max Potion). Field: 
+- Roserade, Lv. 71, @Focus Sash, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Nature Power
+    - Giga Drain
+    - Dazzling Gleam
+    - Toxic Spikes
+- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Night Daze
+    - Nasty Plot
+    - Flamethrower
+    - Extrasensory
+- Delphox, Lv. 74, @Synthetic Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Mystical Fire
+    - Psyshock
+    - Dazzling Gleam
+    - Shadow Ball
+- Nidoqueen, Lv. 71, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Earth Power
+    - Flamethrower
+    - Thunderbolt
+    - Sludge Bomb
+- Klinklang, Lv. 72, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Gear Grind
+    - Shift Gear
+    - Zap Cannon
+    - Wild Charge
+- Metagross, Lv. 74, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Earthquake
+    - Meteor Mash
+    - Zen Headbutt
+    - Bullet Punch
+
+Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to round out the well rounded squad. Flying and Ground-types working together in combination hit 5/6 mons super-effectively, so if you can manage speed and use these moves you will likely find a way to succeed.
+
+After this fight, return to the front of the Water Treatment Center and climb the waterfall. 
+
+## Fiore Mansion Gauntlet
+
+Make your way towards the Fiore Mansion, and you'll meet up with some old characters and obtain *TMX2 Fly*! About time. Heal and prepare your team and then head in... we have a huge Gauntlet coming up! Thankfully, this one will heal us between each fight.
+
+Meteor Ace Kenan and Meteor Ace Diana. Field: No Field
+- Leavanny, Lv. 68, Ability: Swarm, Serious Nature, IVs: 10
+    - Leaf Storm
+    - Throat Chop
+    - Sticky Web
+    - X-Scissor
+- Purugly, Lv. 68, Ability: Thick Fat, Serious Nature, IVs: 10
+    - Hypnosis
+    - Throat Chop
+    - Frustration
+    - Bulldoze
+- Machamp, Lv. 69, Ability: No Guard, Serious Nature, IVs: 10
+    - Wide Guard
+    - Dynamic Punch
+    - Ice Punch
+    - Rock Slide
+- Golem, Lv. 70, Ability: Sturdy, Serious Nature, IVs: 10
+    - Explosion
+    - Earthquake
+    - Rock Slide
+    - Gyro Ball
+    - Meteor Ace Diana. Field: 
+- Grumpig, Lv. 68, Ability: Thick Fat, Serious Nature, IVs: 10
+    - Icy Wind
+    - Reflect
+    - Psychic
+    - Light Screen
+- Noctowl, Lv. 69, Ability: Tinted Lens, Serious Nature, IVs: 10
+    - Hypnosis
+    - Air Slash
+    - Psychic
+    - Heat Wave
+- Manectric, Lv. 68, Ability: Lightning Rod, Serious Nature, IVs: 10
+    - Overheat
+    - Discharge
+    - Thunder Wave
+    - Hidden Power
+- Salazzle, Lv. 69, Ability: Corrosion, Serious Nature, IVs: 10
+    - Sludge Bomb
+    - Flamethrower
+    - Nasty Plot
+    - Dragon Pulse
+- Vileplume, Lv. 70, Ability: Effect Spore, Serious Nature, IVs: 10
+    - Sludge Bomb
+    - Giga Drain
+    - Sleep Powder
+    - Dazzling Gleam
+
+This first fight is a 12v9 against some grunts. Florinia is pretty helpful here, and none of their Pokemon are too strong. It's more of a warmup fight.
+
+Agent Blake and Swag Jockey Fern. Field: No Field
+- Walrein, Lv. 72, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 20, EVs: 252/0/4/0/0/252
+    - Protect
+    - Blizzard
+    - Surf
+    - Stockpile
+- Mamoswine, Lv. 71, Ability: Thick Fat, Adamant Nature, IVs: 20
+    - Earthquake
+    - Rock Slide
+    - Ice Shard
+    - Icicle Crash
+- Gyarados, Lv. 71, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Stone Edge
+    - Dragon Dance
+    - Waterfall
+    - Crunch
+- Weavile, Lv. 72, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Icicle Crash
+    - Poison Jab
+    - Ice Shard
+    - Knock Off
+- Starmie, Lv. 71, @Icy Rock, Ability: Natural Cure, Timid Nature, IVs: 31
+    - Blizzard
+    - Hail
+    - Thunder
+    - Light Screen
+- Sandslash (Sandslash-Alola), Lv. 73, Ability: Slush Rush, Adamant Nature, IVs: 10, EVs: 4/252/0/252/0/0
+    - Earthquake
+    - Swords Dance
+    - Rock Slide
+    - Iron Head
+- Haxorus, Lv. 71, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 10
+    - Superpower
+    - Outrage
+    - Dragon Dance
+    - Poison Jab
+- Rhyperior, Lv. 71, Ability: Solid Rock, Brave Nature, IVs: 10
+    - Earthquake
+    - Rock Slide
+    - Fire Punch
+    - Megahorn
+- Krookodile, Lv. 72, Ability: Moxie, Jolly Nature, IVs: 15
+    - Earthquake
+    - Brick Break
+    - Throat Chop
+    - Rock Slide
+- Scizor, Lv. 71, Ability: Technician, Adamant Nature, IVs: 15
+    - Bullet Punch
+    - Bug Bite
+    - Swords Dance
+    - Superpower
+- Roserade, Lv. 72, Ability: Poison Point, Timid Nature, IVs: 20, EVs: 4/0/0/252/252/0
+    - Sleep Powder
+    - Giga Drain
+    - Sludge Bomb
+    - Hidden Power
+- Decidueye, Lv. 73, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+    - Spirit Shackle
+    - Shadow Sneak
+    - Brave Bird
+    - Leaf Blade
+
+This battle in the gauntlet is a bit harder. Since Florinia's team is so slow, I really recommend using Trick Room in this fight - if you can ensure Scizor dies, you can generally overrun their teams with strong super-effective moves. We've beaten these two on their own so if you can generally figure out how to support Florinia in taking them out, you can find a way through this fight.
+
+Relationship Point Choices:
+- Florinia joins your team after you did not defeat Solaris on Pyrous (+1 Florinia)
+- Julia joins your team after you did defeat Solaris on Pyrous (+1 Julia, -1 Fern)
+
+Meteor Leader Solaris and New World Orderly John. Field: No Field
+- Scizor, Lv. 72, Ability: Technician, Adamant Nature, IVs: 31
+    - Bullet Punch
+    - U-turn
+    - Roost
+    - Superpower
+- Mandibuzz, Lv. 72, @Leftovers, Ability: Overcoat, Bold Nature, IVs: 31
+    - Roost
+    - Snarl
+    - Toxic
+    - Foul Play
+- Gyarados, Lv. 73, @Leftovers, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Dragon Dance
+    - Earthquake
+    - Waterfall
+    - Outrage
+- Tyranitar, Lv. 73, @Smooth Rock, Ability: Sand Stream, Adamant Nature, IVs: 31
+    - Dragon Dance
+    - Earthquake
+    - Superpower
+    - Rock Slide
+- Excadrill, Lv. 72, @Life Orb, Ability: Sand Rush, Adamant Nature, IVs: 31
+    - Earthquake
+    - Rock Slide
+    - Swords Dance
+    - Iron Head
+- Garchomp, Lv. 76, Ability: Rough Skin, Adamant Nature, IVs: 31
+    - Dragon Rush
+    - Earthquake
+    - Fire Fang
+    - Stone Edge
+- Whiscash, Lv. 70, @Sitrus Berry, Ability: Oblivious, Adamant Nature, IVs: 31
+    - Dragon Dance
+    - Rock Slide
+    - Waterfall
+    - Zen Headbutt
+- Magnezone, Lv. 72, @Air Balloon, Ability: Analytic, Modest Nature, IVs: 31
+    - Discharge
+    - Thunder Wave
+    - Flash Cannon
+    - Hidden Power
+- Eelektross, Lv. 71, @Assault Vest, Ability: Levitate, Modest Nature, IVs: 31
+    - Thunderbolt
+    - Giga Drain
+    - Flamethrower
+    - Acid Spray
+- Toucannon, Lv. 71, @Muscle Band, Ability: Skill Link, Brave Nature, IVs: 31
+    - Beak Blast
+    - Knock Off
+    - Roost
+    - Brick Break
+- Slowbro, Lv. 71, @Leftovers, Ability: Own Tempo, Bold Nature, IVs: 31
+    - Icy Wind
+    - Light Screen
+    - Flamethrower
+    - Scald
+
+The hardest battle in this gauntlet is the last one. On one hand, Solaris' team basically consists of six threats - Bullet Punch Scizor, Gyarados, Tyranitar, and Garchomp among them. On the other hand, John's team consists of some slower Pokemon to dampen Trick Room, with much wider coverage and some support moves. Nothing on their team is entirely dead weight really, and since you only get to control the actions of one of two of the Pokemon on your side, you can't really do any insane doubles strats to force a ton of momentum onto your side.
+
+Plus, if you defeated Solaris on Pyrous, you'll have Julia as a partner, who sadly doesn't have a very good time overall against the pair thanks to their numerous Ground and Electric types, though she can help against some of the Flying types. She also literally has a Rotom Fan with an Air Balloon... Otherwise, you'll have Florinia as a partner once more, making Trick Room more potent and allowing her to do a decent amount of the work. I recommend quick-saving before this fight and resetting at least a few times just to try different moves at different times - with the 12v12 format, things can change dramatically depending on what the pairings happen to be at any given moment. If you have to quit to change up your team, you'll have to fight the first two again.
+
+After these events finish playing out, head outside of the building and talk to Titania. Return to the circus!
+
+## Suspension Badge
+
+Talk to Samson. You'll be given the *Battle Pass - Suspension*. Sweet. Save, then talk to Ciel when you're ready for another gym battle!
+
+Skydancer Ciel (3x Ultra Potion). Field: Big Top Arena
+- Togekiss, Lv. 75, @Leftovers, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Roost
+    - Air Slash
+    - Aura Sphere
+    - Thunder Wave
+- Minior, Lv. 75, @Focus Sash, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Acrobatics
+    - Earthquake
+    - Rock Slide
+    - Shell Smash
+- Noivern, Lv. 75, @Assault Vest, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Acrobatics
+    - Boomburst
+    - Dragon Pulse
+    - Heat Wave
+- Gliscor, Lv. 75, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Earthquake
+    - Acrobatics
+    - Roost
+    - Defog
+- Oricorio (Oricorio-Baile), Lv. 75, @Synthetic Seed, Ability: Dancer, Timid Nature, IVs: 31, EVs: 100/0/0/156/252/0
+    - RevelationDance
+    - Roost
+    - Air Slash
+    - Baton Pass
+- Altaria, Lv. 78, @Altarianite, Ability: Cloud Nine, Rash Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Earthquake
+    - Hyper Voice
+    - Roost
+    - Sing
+
+Ciel is the first fight for a badge that repeats the field used by another, but it is still very different. Many of the strategies I recommended using to beat Samson are employed by Ciel against you in this fight - the emphasis is no longer on High Striker moves - Altaria, Minior, and Gliscor have Earthquake, and that's it. Instead, she relies on super-boosted Acrobatics, Revelation Dance, and sound-based moves that dazzle the crowd and gain power. Oh, and she has the first enemy Mega Pokemon we have to face in Mega Altaria. 
+
+Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, additionally, Electric-type Revelation Dance can rip through all but Gliscor and Altaria pretty easily, so you can just use her strategies right back at her. Even if you don't care a ton about the field, you can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
+
+Relationship Point Choices:
+- Defeat Ciel on your first try (+2 Samson)
+- Defeat Ciel on your second, third, etc. try (-1 Samson)
+
+For winning, you'll get the Suspension Badge, boosting our cap to a whopping Lv. 80! You'll also get *TM62 Acrobatics*. Useful. Most importantly though, we can now Fly... meaning we can once more return to Reborn City.
+
+# Episode 16: A City, Reborn
+
+Head outside the big top. Before we fly back to Reborn City and other previously inaccessible areas, we can snag a new more points.
+
+Relationship Point Choices:
+- Talk to Hardy on Route 4 (+1 Hardy)
+
+Relationship Point Choices:
+- Talk to Cain in Calcenon City (+1 Cain)
 
 # Appendices
 
