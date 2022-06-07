@@ -2838,7 +2838,7 @@ Pick up a hidden *Dire Hit* on this floor, then go down the stairs to the left. 
 
 Head back upstairs and take the stairs on the right to 1F. Beat the grunts and activate the wall panels. Pick up a *Super Potion* and hidden *Purple Shard* and *Super Repel*. 
 
-Towards the bottom of the area you'll find more stairs, so take these to go up. Go to the right here and you'll find a machine with some green lights on it. Inside, you can get *Exp. Candy L*. You can also find a *Thunderstone* and a hidden *Revive*. Activate the panel at the top and go back down. To the left, you'll see an open door. Get ready for battle.
+Towards the bottom of the area you'll find more stairs, so take these to go up to 2F. Go to the right here and you'll find a machine with some green lights on it. Inside, you can get *Exp. Candy L*. You can also find a *Thunderstone* and a hidden *Revive*. Activate the panel at the top and go back down. To the left, you'll see an open door. Get ready for battle.
 
 Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field
 - Glaceon, Lv. 37, @Never-Melt Ice, Ability: Ice Body, Hardy Nature, IVs: 31
@@ -6297,7 +6297,7 @@ Relationship Point Choices:
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
 
-Pokemon Pariah. Field: 
+Pokemon Pariah. Field: Snowy Mountain Field
 - Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Extreme Speed
     - Meteor Mash
@@ -6762,7 +6762,7 @@ Relationship Point Choices:
 
 If you're on the Reshiram route, skip ahead to the next section.
 
-Meteor Admin Taka. Field: 
+Meteor Admin Taka. Field: Factory Field
 - Klefki, Lv. 69, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
     - Spikes
     - Thunder Wave
@@ -6800,7 +6800,7 @@ Time for another fight with Taka, but this one isn't really too hard hopefully. 
 
 Regardless of your route you'll have to fight Ace.
 
-Meteor Agent Ace of Spades (Max Potion). Field: 
+Meteor Agent Ace of Spades (Max Potion). Field: Factory Field
 - Roserade, Lv. 71, @Focus Sash, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/252/0
     - Nature Power
     - Giga Drain
@@ -6861,7 +6861,6 @@ Meteor Ace Kenan and Meteor Ace Diana. Field: No Field
     - Earthquake
     - Rock Slide
     - Gyro Ball
-    - Meteor Ace Diana. Field: 
 - Grumpig, Lv. 68, Ability: Thick Fat, Serious Nature, IVs: 10
     - Icy Wind
     - Reflect
