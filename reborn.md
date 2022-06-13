@@ -5275,7 +5275,7 @@ While on the subject of long trips just to use Blast Powder for single items, ta
 
 Ok, with those out of the way, head to the Underroot in Beryl. You'll see a green crystal on the right side of the area, so activate it. Cutting some wiggly trees here will allow us to get the *Ampharosite* as well as the *Meadow Plate* and an **Axew** egg. Sweet.
 
-There is one more thing we can do right now. Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head to the right and around to the top, then use the Yureyu Key to get the *Magnet* and the *Ghostium-Z*. Sweet. Next, head around to the other side of the factory and again use the Yureyu Key to get inside. 
+Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head to the right and around to the top, then use the Yureyu Key to get the *Magnet* and the *Ghostium-Z*. Sweet. Next, head around to the other side of the factory and again use the Yureyu Key to get inside. 
 
 Yureyu Power Plant (Backroom)
 
@@ -5293,6 +5293,8 @@ Yureyu Power Plant (Backroom)
 |**Klinklang**     |1  |
 
 Each of the Poke Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**. 
+
+While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to Simon in the Tanzan Meteor Base, you'll see him here. Talk to him to continue his sidequest - then head down to the building to the right of the Peridot Ward Pokemart to talk to him once more. That's all we can do with this quest for now.
 
 ## Eclipse Badge
 
@@ -7075,6 +7077,138 @@ Relationship Point Choices:
 
 Relationship Point Choices:
 - Talk to Cain in Calcenon City (+1 Cain)
+
+## Tanzan Cove Water Exploration
+
+So, we now have access to a ton of areas we've previously visited, plus we can now use Surf, Waterfall, and Dive. I'll later explain the bizarre choice of going here first, I will first take us to Tanzan Cove. So, fly to the Belrose Manse.
+
+Dive underwater in the Tanzan Cove. 
+
+Tanzan Cove Underwater
+
+|Land              |%  |
+|------------------|---|
+|Shellos           |20 |
+|Barboach          |20 |
+|Wooper            |20 |
+|**Gastrodon**     |10 |
+|Whiscash          |10 |
+|Quagsire          |10 |
+|Basculin          |6  |
+|Luvdisc           |4  |
+
+Down here you'll find a *Metronome*, *Big Nugget*, and the *Flower Garden Field Readout* as well as hidden *Escape Rope*, *Potion*, *Repel*, *Awakening*, *Grass Gem*, *Burn Heal*, *Red Shard*, *Chesto Berry*, *X Sp. Atk*, and *Great Ball*. Talk to the bodies of the Meteor grunts down here to get a *Spooky Plate*, and *Hyper Potion*. In particular, make sure you talk to the body with the missing ID tag on the left side of the area.
+
+Return to the surface and talk to the fisherman on the right side of the map. If you've done all the steps of Simon's quest so far, you'll be given the *Super Rod*! I brought us here first so I could list surfing and super rod encounters at the same time :\)
+
+Tanzan Cove
+
+|Water             |%  |Super Rod         |%  |
+|------------------|---|------------------|---|
+|Ducklett          |60 |Luvdisc           |45 |
+|Lumineon          |30 |Whiscash          |40 |
+|Seaking           |6  |**Mantine**       |15 |
+|Swanna            |4  |                  |   |
+
+To continue Simon's quest, we'll need to donate 3 locally-caught Whiscash to this guy. Do so, and you'll get the *ID Tag*. We'll finish this quest a bit later.
+
+For now, surf across the lake to the island on the left. Grab the hidden *Calcium* then go into the cave. 
+
+Tanzan Mountain Inner, Tanzan Depths Inner
+
+|Cave              |%  |
+|------------------|---|
+|Onix              |20 |
+|Graveler          |20 |
+|Durant            |14 |
+|**Drilbur**       |10 |
+|Sandslash         |10 |
+|Arbok             |10 |
+|Dugtrio           |5  |
+|Seviper           |5  |
+|**Hippowdon**     |4  |
+|**Steelix**       |1  |
+|**Excadrill**     |1  |
+
+Grab the *Pearl* and hidden *Blue Shard* in here, then exit.
+
+## Neo Opal Ward
+
+Ok, with that out of the way, we can finally begin to explore Neo Reborn City - The entire city actually was renovated while we were away. Neat. Go ahead and fly there. 
+
+If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her, so I will pass on doing so for now.
+
+Neo Opal Ward
+
+|Land (Morning/Day)|%  |Land (Night)      |%  |
+|------------------|---|------------------|---|
+|Rattata           |20 |Rattata           |20 |
+|Bidoof            |20 |Meowth            |20 |
+|Patrat            |10 |Spinarak          |10 |
+|Pidgey            |10 |Hoothoot          |10 |
+|Zigzagoon         |10 |Zigzagoon         |10 |
+|Meowth            |10 |**Persian**       |10 |
+|**Raticate**      |5  |**Raticate**      |5  |
+|Pidgeotto         |5  |Noctowl           |5  |
+|Linoone           |4  |Linoone           |5  |
+|Watchog           |4  |Ariados           |5  |
+|**Persian**       |2  |                  |   |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |**Kingler**       |40 |
+|                  |   |Corphish          |20 |**Staryu**        |40 |
+|                  |   |Clauncher         |20 |**Crawdaunt**     |15 |
+|                  |   |                  |   |**Clawitzer**     |4  |
+|                  |   |                  |   |**Sharpedo**      |1  |
+
+|Water             |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Tentacool         |60 |Pineco            |35 |
+|**Wingull**       |30 |Spearow           |30 |
+|**Tentacruel**    |5  |Combee            |25 |
+|**Pelipper**      |4  |Fearow            |5  |
+|Mantine           |1  |**Forretress**    |4  |
+|                  |   |**Vespiquen**     |1  |
+
+Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super Repel*, and *Hyper Potion*. To access the water part of the ward, enter the area under the bridge via Peridot where we once encountered Pansear / Panpour, then surf down and to the right to emerge. Follow this path through to South Obsidia Ward to get a *White Flute*. 
+
+## Neo Peridot Ward
+
+That's all for Opal right now, so head west into Peridot. 
+
+Neo Peridot Ward, Neo Lower Peridot Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Ledyba            |30 |Dustox            |30 |Hoothoot          |20 |
+|Ledian            |21 |Beautifly         |30 |Noctowl           |20 |
+|Dustox            |10 |Electrike         |10 |Dustox            |10 |
+|Beautifly         |10 |**Grubbin**       |10 |Electrike         |10 |
+|**Grubbin**       |10 |**Butterfree**    |10 |Beautifly         |10 |
+|**Butterfree**    |10 |Cherrim           |4  |**Joltik**        |10 |
+|**Charjabug**     |4  |**Charjabug**     |4  |Ariados           |8  |
+|Cherrim           |4  |**Manectric**     |1  |**Butterfree**    |5  |
+|**Vikavolt**      |1  |**Vikavolt**      |1  |**Galvantula**    |5  |
+|                  |   |                  |   |**Manectric**     |2  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |Headbutt Rare     |%  |Headbutt Common   |%  |
+|------------------|---|------------------|---|------------------|---|
+|Tentacool         |60 |Pineco            |65 |Pineco            |65 |
+|Wingull           |30 |Burmy             |25 |Burmy             |25 |
+|Tentacruel        |5  |Wormadam          |5  |Mothim            |5  |
+|Pelipper          |4  |Forretress        |4  |Forretress        |4  |
+|Mantine           |1  |Mothim            |1  |Wormadam          |1  |
+
+
 
 # Appendices
 

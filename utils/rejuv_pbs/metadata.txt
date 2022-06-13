@@ -1,0 +1,3526 @@
+[000]
+WildVictoryME=Victory!.mp3
+BicycleBGM=Music - Bike.mp3
+PlayerA=TRAINER_AEVIS,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=TRAINER_AEVIA,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=LEADER_MARIANETTE,trchar091,trchar091_bike,trchar091_surf.png,trchar091run,DupeTrainerDive.png,trchar091,trchar091
+PlayerD=CHILDOFLIGHT,trchar00001.png,trchar00001.png,trchar00001.png,trchar00001.png,trchar00001.png,trchar00001.png,xxx
+PlayerE=TRAINER_ARIA,trchar003,girl_bike2,girl_surf_offset2,BGirlRun,girl_dive_offset2,BGirl_Fish_Offset,Bgirl_fishsurf_offset
+PlayerF=TRAINER_AXEL,trchar004,boy_bike2,boy_surf_offset2,Boy_Run2,boy_dive2,boy_fish_offset2,boy_fishsurf_offset2
+PlayerG=TRAINER_ALAIN,nb_walk2,Nb2_Bike,Nb2_Surf,nb_run2,Nb2_Dive,nb_fish_offset,Nb2_surf_Fish
+PlayerH=TRAINER_AERO,nb_walk,Nb_Bike,Nb_Surf,nb_run,nb_dive,nb_fish,nb_surf_fish
+PlayerI=TRAINER_ANA,BGirlwalk,BGirlAerialDrive,BGirlAquaDrive,BGirlrun2,BgirlDiveDrive,BgirlFishingDrive,BgirlFishingDrive
+
+#BB Melia vs Madelis
+PlayerJ=TRAINER_MELIA1,NPC 30,BGirlAerialDrive,BGirlAquaDrive,NPC 30,XXX,BgirlFishingDrive,BgirlFishingDrive
+
+#Emma
+PlayerK=HOOD,trchar091_2,xxx,xxx,trchar091run_2
+
+#Lavender Hospital
+PlayerL=LEADER_LAVENDER,trchar209_2
+
+#Melia
+PlayerM=ENIGMA_2,VMeliaRed_6,pkmn_togekisse,xxx,VMeliaRed_6_1
+
+#Ren
+PlayerN=OUTCAST,trchar002_1,trchar002_bike,trchar002_surf,trchar002_run
+
+#Melia (library)
+PlayerO=ENIGMA_2,VMeliaRed_7
+
+#Aelita
+PlayerP=STUDENT_3,Aelita_7,Aelita_7_2,xxx,Aelita_7_run
+
+#~~Alexandra~~ Adam?
+PlayerQ=ELITE_ALEXANDRA,trchar109,xxx,xxx,trchar109_run
+
+#mr Erinnaes
+PlayerR=CANDIDGIRL2,trchar117_10,xxx,xxx,trchar091run_9,trchar117_dive
+
+#Aelita ANGY
+PlayerS=STUDENT_2,Aelita_3
+
+#Amber but she's in Cooleg
+PlayerT=LEADER_AMBER2,trchar099_6,xxx,xxx,trchar099_6_run
+
+#Sucky Bakery
+PlayerU=LEADER_SAKI2,trchar087_4,xxx,xxx,trchar087_4_run
+
+#Huey
+PlayerV=OPTKID,trchar250,xxx,xxx,trchar250_run
+
+#Lavender....in.......SPACE@@@@
+PlayerW=LEADER_LAVENDER,trchar091,XXX,XXX,trchar091run
+
+#Melia-Past?
+PlayerX=ENIGMA_1,NPC 30_1_3,xxx,xxx,NPC 30_1_3_run
+
+#Adam
+PlayerY=LEADER_ADAM,trchar86
+
+TrainerBattleBGM=Battle - Trainers.mp3
+WildBattleBGM=Wild Battle - Regular.mp3
+Home=304,19,9,8
+TrainerVictoryME=Victory!.mp3
+SurfBGM=Music - Surf.mp3
+[002]
+# Gate Plaza
+MapPosition=0,11,13
+ShowArea=true
+[003]
+# Route 11
+MapPosition=0,15,4
+BicycleAlways=false
+Bicycle=true
+Outdoor=true
+DiveMap=594
+ShowArea=true
+Weather=Snow,100
+[004]
+# Amethyst Cave
+MapPosition=0,18,15
+BattleBack=AmethystCave
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[005]
+# Route 1
+MapPosition=0,10,14
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[006]
+# Valor Mountain
+MapPosition=1,15,7
+[007]
+# Sensei's House
+MapPosition=0,18,10
+Outdoor=false
+ShowArea=true
+[008]
+# Goldenwood Cave
+MapPosition=0,10,12
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[009]
+# Dream District
+MapPosition=3,17,15
+HealingSpot=9,12,37
+BattleBack=Dream
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[010]
+# Generator Chamber
+MapPosition=0,18,9
+Outdoor=false
+ShowArea=true
+[011]
+# Wispy Ruins
+MapPosition=0,13,11
+BattleBack=Haunted3
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[012]
+# Wispy Chasm
+DarkMap=false
+MapPosition=0,14,8
+BattleBack=Haunted3
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[013]
+# Akuwa Town
+MapPosition=0,14,4
+HealingSpot=13,30,44
+BicycleAlways=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,20
+[014]
+# Blacksteeple Castle
+BattleBack=Chess1
+Outdoor=true
+ShowArea=false
+[015]
+# Help Plaza
+MapPosition=0,18,11
+Outdoor=false
+ShowArea=true
+[017]
+# Goldenleaf Town
+MapPosition=0,14,13
+Outdoor=false
+ShowArea=false
+[019]
+# East Gearen City - Neo
+MapPosition=0,10,16
+HealingSpot=19,42,50
+BattleBack=GearenNew
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[020]
+# Gearen Alleyway
+MapPosition=0,10,16
+BattleBack=City
+Outdoor=true
+ShowArea=true
+[021]
+# Oceana Pier
+MapPosition=0,10,18
+HealingSpot=21,44,7
+BattleBack=City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,100
+[022]
+# Garufa Ruins
+MapPosition=0,19,9
+BattleBack=Ruin
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[023]
+# Castillo De la Ángel
+MapPosition=1,6,4
+BattleBack=IndoorE
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[024]
+# Gearen Park
+MapPosition=0,11,16
+BattleBack=Grassy
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[025]
+# Goldenwood Forest
+MapPosition=0,10,13
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[026]
+# Help Plaza
+MapPosition=1,18,9
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[027]
+# Akuwa Aquarium
+MapPosition=0,14,4
+BicycleAlways=false
+BattleBack=IndoorE
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[028]
+# Axis High University
+MapPosition=3,14,5
+HealingSpot=28,29,14
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[029]
+# I39-N24-K98
+MapPosition=1,19,13
+Outdoor=false
+DiveMap=588
+ShowArea=true
+[030]
+# Sheridan Village
+MapPosition=4,14,9
+BattleBack=6
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[032]
+# Rift Paradise
+MapPosition=0,26,9
+BattleBack=Dimensional
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[033]
+# Nightmare Realm
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Nightmare_1.mp3
+ShowArea=false
+[034]
+# Xen Lounge
+[036]
+# Hospital of Hope
+MapPosition=3,8,10
+HealingSpot=36,18,21
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[037]
+# ???
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+[038]
+# Sheridan Arena (COPY)
+BattleBack=Forest
+Bicycle=false
+Outdoor=true
+ShowArea=false
+[039]
+# Honec Shrine
+MapPosition=2,23,10
+BicycleAlways=false
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[040]
+# Terajuma Pier
+MapPosition=1,18,13
+BicycleAlways=false
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=false
+Weather=Storm,100
+[043]
+# Central Square
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[044]
+# East Gearen City | Neo
+MapPosition=0,10,16
+BicycleAlways=false
+BattleBack=GearenNew
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[046]
+# Terajuma
+Outdoor=true
+[047]
+# Madelis' Palace
+MapPosition=0,18,9
+BattleBack=XenInterior
+Outdoor=false
+ShowArea=true
+[048]
+# East Gearen City
+MapPosition=0,10,16
+SnapEdges=false
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[049]
+# District of Hope
+MapPosition=3,8,14
+HealingSpot=49,20,8
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[050]
+# Goldenwood Forest
+MapPosition=0,10,13
+BattleBack=GoldForest
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[051]
+# East Gearen City
+BattleBack=City
+Bicycle=false
+Outdoor=true
+SnapEdges=true
+ShowArea=false
+Weather=Storm,100
+[052]
+# Hospital of Hope
+MapPosition=3,8,9
+[053]
+# Nightmare Realm
+BattleBack=SnowNight
+Outdoor=false
+ShowArea=false
+[055]
+# Abandoned Sewers
+MapPosition=0,10,16
+BattleBack=Sewers
+Outdoor=false
+ShowArea=true
+[056]
+# Pokemon Hospital
+MapPosition=3,7,14
+[057]
+# Land of Broken Dreams
+BattleBack=Starlight1
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[058]
+# East Gearen City
+MapPosition=0,10,16
+BattleBack=City
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,40
+[059]
+# East Gearen City
+MapPosition=0,10,16
+BattleBack=City
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,60
+[061]
+# Shopping Emporium
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[062]
+# Celgearn Castle
+Bicycle=true
+Outdoor=true
+WildBattleBGM=
+ShowArea=false
+Weather=Rain,100
+[063]
+# Kakori Gym
+MapPosition=1,18,9
+Outdoor=false
+[064]
+# Corrupted Cave
+MapPosition=0,18,9
+BattleBack=Corrupted
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[065]
+# Kakori Gym
+MapPosition=1,18,9
+BattleBack=ForestCave
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[066]
+# Nightmare Realm
+BattleBack=FieldNight
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[067]
+# Route 3
+MapPosition=0,16,11
+BattleBack=Field
+Outdoor=true
+ShowArea=true
+[068]
+# Oceana Pier Gate
+MapPosition=0,10,17
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[069]
+# Route 3
+MapPosition=0,16,12
+BattleBack=Forest
+Outdoor=true
+ShowArea=false
+[071]
+# Route 3
+MapPosition=0,16,13
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[072]
+# Garufa Ruins
+MapPosition=0,19,9
+SnapEdges=true
+Outdoor=false
+ShowArea=true
+[073]
+# Wispy Tower
+MapPosition=0,12,11
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[074]
+# Axis High University
+MapPosition=3,14,2
+BattleBack=AxisHigh
+Outdoor=false
+ShowArea=false
+[075]
+# Evergreen Island
+MapPosition=0,15,2
+Bicycle=true
+Outdoor=true
+DiveMap=595
+ShowArea=true
+Weather=Snow,100
+[076]
+# Zorrialyn Desert
+MapPosition=2,6,13
+BattleBack=Desert
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[077]
+# Amethyst Depths
+MapPosition=0,18,15
+BattleBack=AmethystCave
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[078]
+# Rift Lethal Forest
+MapPosition=0,26,15
+BattleBack=Dimensional
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[079]
+# Oceana Pier
+MapPosition=0,10,18
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[080]
+# Water Treatment Center
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[081]
+# THIEF'S DUNGEON!
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[082]
+# Goldenleaf Town
+MapPosition=0,14,13
+HealingSpot=82,39,26
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[084]
+# Rift Dragon Gate
+BattleBack=Dimensional
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=true
+Weather=Storm,100
+[085]
+# Nightmare City
+BattleBack=DreamNight
+[086]
+# Nightmare Casino
+MapPosition=3,15,8
+[087]
+# Route 10
+MapPosition=2,26,6
+BattleBack=Route9
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,90
+[088]
+# Xen Battleship
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[089]
+# Xen Battleship
+MapPosition=1,15,18
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[090]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[091]
+# Forgotten Path
+MapPosition=0,14,12
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[092]
+# Parks and Rec. Center
+MapPosition=0,10,16
+[094]
+# School of Nightmares
+MapPosition=3,14,2
+BattleBack=NightmareSchool
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[095]
+# Wispy Path
+MapPosition=0,12,13
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[096]
+# Altered Dimension
+BattleBack=Psychic
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[097]
+# Phasial Cave
+DarkMap=true
+MapPosition=0,16,12
+BattleBack=CaveDark
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[098]
+# Dr.Jenkel's Lab
+MapPosition=0,9,16
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[099]
+# School of Nightmares
+MapPosition=3,14,2
+BattleBack=NightmareSchool
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[100]
+# Route 11
+MapPosition=0,16,3
+Bicycle=true
+Outdoor=true
+DiveMap=596
+ShowArea=true
+Weather=Snow,100
+[101]
+# District of Hope
+MapPosition=3,7,15
+[102]
+# Wispy Tower
+MapPosition=0,12,11
+HealingSpot=102,20,32
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[103]
+# Akuwa Town
+MapPosition=0,14,4
+Outdoor=false
+ShowArea=false
+[105]
+# Pokemon Center
+MapPosition=0,14,4
+Outdoor=false
+ShowArea=true
+[106]
+# Route 4
+MapPosition=4,14,8
+BattleBack=2
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[107]
+# Garufa Ruins
+MapPosition=0,19,9
+BattleBack=Ruin
+Outdoor=false
+[108]
+# Poké Mart
+MapPosition=0,14,4
+[109]
+# Amethyst Depths
+MapPosition=0,18,15
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[111]
+# Axis Factory
+MapPosition=3,15,1
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[112]
+# Darchlight Manor
+MapPosition=2,19,12
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[113]
+# Darchlight Manor
+MapPosition=2,19,12
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[114]
+# Testing Map
+BattleBack=Forest
+[115]
+# Route 4
+MapPosition=0,14,7
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[116]
+# Phasial Cave
+MapPosition=0,16,12
+BattleBack=CrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[117]
+# Help Plaza
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[118]
+# Forest of Time
+MapPosition=1,18,6
+BattleBack=Time
+Bicycle=true
+Outdoor=false
+ShowArea=true
+Weather=Snow,100
+[119]
+# Carotos Mountain
+MapPosition=0,18,9
+BattleBack=Volcano
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[120]
+# Lighthouse
+MapPosition=1,18,7
+[122]
+# Route 4
+Outdoor=true
+ShowArea=false
+[123]
+# Celgearn Castle
+MapPosition=0,3,9
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[124]
+# Madelis' Laboratory
+MapPosition=0,18,9
+BattleBack=XenInterior
+Outdoor=false
+ShowArea=true
+[126]
+# Den of Souls
+MapPosition=4,15,8
+BattleBack=Ruin2
+SnapEdges=false
+Outdoor=false
+[127]
+# Sheridan Village
+MapPosition=4,14,8
+BattleBack=0
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[128]
+# Blacksteeple Island
+Outdoor=false
+[129]
+# Route 4
+MapPosition=0,14,7
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[130]
+# Route 4
+MapPosition=0,14,7
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[131]
+# Spring of Purification
+MapPosition=4,14,8
+BattleBack=Ruin
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[132]
+# Route 4
+MapPosition=4,14,7
+[133]
+# Abandoned Lab
+MapPosition=0,17,16
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[134]
+# Oceana Pier | Neo
+MapPosition=0,10,18
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[135]
+# Garufa Ruins
+MapPosition=0,19,9
+BattleBack=Ruin
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[137]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[138]
+# Chamber of Awakening
+MapPosition=0,19,9
+BattleBack=Corrupted
+Outdoor=false
+ShowArea=true
+[139]
+# Valor Mountain
+MapPosition=1,18,6
+BattleBack=Cave
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[140]
+# Valor Mountain
+MapPosition=1,15,7
+BattleBack=Volcano
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[142]
+# Moon Field
+MapPosition=0,15,11
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[143]
+# Garufa Ruins
+MapPosition=0,19,9
+BattleBack=Ruin
+Outdoor=false
+ShowArea=true
+[144]
+# Nightmare Realm
+BattleBack=Factory
+Outdoor=false
+ShowArea=false
+[145]
+# Hidden Axis Lab
+MapPosition=3,14,0
+BattleBack=Factory
+Outdoor=false
+[146]
+# Valor Mountain
+MapPosition=1,15,7
+BattleBack=Icy
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[147]
+# Castillo De la Ángel
+Bicycle=false
+Outdoor=true
+DiveMap=170
+ShowArea=true
+[148]
+# Castillo De la Ángel
+BattleBack=CaveAqua
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[149]
+# Mirage Woods
+MapPosition=0,16,10
+BattleBack=Forest
+Outdoor=true
+ShowArea=true
+[151]
+# Toy Box
+MapPosition=3,15,8
+BattleBack=Psychic_2
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[152]
+# Rift Paradise
+BattleBack=Mountain
+Outdoor=false
+[153]
+# Hidden Lab
+MapPosition=0,18,9
+Outdoor=false
+ShowArea=true
+[154]
+# Kakori Gym
+MapPosition=1,18,9
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[155]
+# Darchlight Manor
+MapPosition=2,19,12
+BattleBack=Darchlight
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[156]
+# Valor Chamber
+MapPosition=1,18,6
+BattleBack=Underwater
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[157]
+# Goldenwood Cave
+MapPosition=0,10,12
+BattleBack=Cave
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[158]
+# Goldenwood Grove
+MapPosition=0,10,11
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[159]
+# Amethyst Cave
+MapPosition=0,18,14
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[160]
+# School of Nightmares
+[161]
+# Amethyst Cave
+MapPosition=0,18,13
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[162]
+# Amethyst Mines
+MapPosition=0,18,15
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[163]
+# Gate Plaza
+MapPosition=0,17,11
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[165]
+# 3rd HQ
+MapPosition=0,10,10
+BattleBack=PowerPlant
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[166]
+# Route 4
+MapPosition=0,14,5
+BicycleAlways=false
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[167]
+# Route 4
+MapPosition=0,14,5
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[169]
+# Zeight
+BattleBack=BlacksteepleIndoor
+Outdoor=false
+[170]
+# Terajuma Trench
+[172]
+# Castillo De la Ángel
+BattleBack=IndoorE
+Outdoor=false
+ShowArea=false
+[175]
+# Valor Cliffside
+MapPosition=1,18,6
+BattleBack=Mountain
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[176]
+# ACDMC Center
+MapPosition=0,14,4
+ShowArea=true
+[177]
+MapPosition=1,15,7
+BattleBack=Cave
+Bicycle=true
+ShowArea=true
+[178]
+MapPosition=1,15,7
+BattleBack=Icy
+[179]
+MapPosition=1,15,7
+BattleBack=Volcano
+[180]
+# East Gearen Station
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[181]
+MapPosition=1,15,7
+BattleBack=Icy
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[183]
+MapPosition=0,18,13
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[184]
+# Amethyst Cave
+MapPosition=0,18,12
+BattleBack=AmethystCave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[185]
+# RV
+MapPosition=0,16,12
+Outdoor=false
+ShowArea=false
+[186]
+# Mirage Cave
+MapPosition=0,16,9
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[187]
+# Everglade Mall
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[189]
+# Tecanlite Factory
+MapPosition=0,8,16
+BattleBack=Factory
+Outdoor=false
+ShowArea=true
+[190]
+# Goldenwood Forest
+MapPosition=0,10,13
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[191]
+# Terajuma Island
+MapPosition=1,19,13
+HealingSpot=191,25,34
+BattleBack=Field
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+DiveMap=587
+SafariMap=false
+[192]
+# Main Street
+MapPosition=3,14,15
+HealingSpot=192,25,21
+BattleBack=Dream
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[193]
+# Dream District
+MapPosition=3,11,15
+HealingSpot=193,33,11
+BattleBack=Dream
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[194]
+# Central Square
+MapPosition=3,14,12
+HealingSpot=194,31,9
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[195]
+# Residential District
+MapPosition=3,11,12
+HealingSpot=195,33,13
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[196]
+# Abandoned Apartments
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[197]
+# Dream District
+MapPosition=3,10,12
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+SafariMap=false
+[198]
+MapPosition=0,10,16
+BattleBack=Sewers
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[199]
+# Route 2
+MapPosition=0,17,16
+BattleBack=Meadow
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,10
+[200]
+# Cliffside Grave
+MapPosition=0,18,12
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[202]
+# Texen's House
+MapPosition=0,18,10
+Outdoor=false
+ShowArea=true
+[202]
+# Texen's House
+BattleBack=BigTop
+MapPosition=0,18,10
+Outdoor=false
+ShowArea=true
+[204]
+# Magnolia Library
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[205]
+# Wetlands Laboratory
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[206]
+# Spring of Purification
+MapPosition=0,19,11
+HealingSpot=206,15,13
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[207]
+# Terajuma Pier
+MapPosition=1,18,13
+BattleBack=Field
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+DiveMap=605
+ShowArea=true
+[208]
+# Deep Terajuma Jungle
+MapPosition=1,17,12
+BattleBack=Water
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[209]
+# Shopping District
+MapPosition=3,17,12
+HealingSpot=209,46,38
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[210]
+# Terajuma Jungle
+MapPosition=1,18,12
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+Weather=Rain,10
+[211]
+# Jirukala Cavern
+MapPosition=1,17,12
+BattleBack=Cave
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[214]
+# Removed
+MapPosition=0,18,10
+[215]
+MapPosition=1,18,6
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+WildBattleBGM=
+ShowArea=true
+[216]
+# Goldenwood Forest
+MapPosition=0,10,13
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+WildBattleBGM=
+ShowArea=true
+[217]
+# Goldenwood Park
+MapPosition=0,10,13
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+WildBattleBGM=
+ShowArea=true
+SafariMap=false
+[218]
+# Dream District
+MapPosition=3,14,8
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[219]
+# Lost Castle
+MapPosition=0,14,12
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[220]
+# Goldenwood Fish Guild
+MapPosition=0,10,13
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[221]
+# Sheridan Wetlands
+MapPosition=0,19,7
+BattleBack=Swamp
+SnapEdges=true
+Outdoor=true
+ShowArea=true
+Dungeon=false
+[222]
+# Wetlands Laboratory
+MapPosition=0,19,7
+BattleBack=Factory
+Outdoor=false
+DiveMap=205
+ShowArea=true
+[223]
+# Hidden Cave
+MapPosition=0,19,6
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[224]
+# Rift Beach Concert
+MapPosition=1,15,11
+BattleBack=Dimensional
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[225]
+# Valor Summit
+MapPosition=1,18,6
+BattleBack=Voltop
+Bicycle=true
+Outdoor=true
+WildBattleBGM=
+ShowArea=true
+[226]
+# Strange Cabin
+MapPosition=1,18,7
+Outdoor=false
+ShowArea=true
+[227]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+[228]
+# Chrisola Hotel Rooftop
+MapPosition=0,10,16
+BattleBack=City
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[229]
+# Eclysia Pyramid
+MapPosition=2,7,3
+BattleBack=Ruin2
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[230]
+# Chrisola Hotel
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[233]
+MapPosition=4,14,8
+Outdoor=true
+ShowArea=true
+[234]
+# Kugearen City
+MapPosition=4,15,8
+BattleBack=6
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[236]
+# Route 3
+MapPosition=4,15,8
+BattleBack=0
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[237]
+# Amberette Town
+MapPosition=4,15,8
+BattleBack=0
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[238]
+# West Gearen City
+MapPosition=0,8,16
+HealingSpot=238,34,16
+BattleBack=City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[239]
+# West Gearen City
+MapPosition=0,8,16
+BattleBack=City
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[240]
+# Kugearen Woods
+WildVictoryME=Victory - RSE!.mp3
+MapPosition=4,14,8
+BattleBack=2
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+TrainerVictoryME=Victory! - RSETRAINER!.mp3
+[241]
+# Marble Mansion
+MapPosition=4,14,8
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[242]
+# Kugearen City
+MapPosition=4,14,8
+BattleBack=6
+Outdoor=false
+[243]
+MapPosition=4,14,8
+[244]
+# Heracross Woods
+MapPosition=4,15,8
+BattleBack=2
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[245]
+# Secret Shore
+MapPosition=0,20,7
+HealingSpot=245,19,11
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[246]
+MapPosition=4,15,8
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[247]
+# REMOVED
+BicycleAlways=false
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[248]
+MapPosition=4,15,8
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+WildBattleBGM=
+ShowArea=false
+[249]
+# Amberette Town
+MapPosition=4,14,8
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[250]
+# Marble Mansion
+MapPosition=4,14,8
+Outdoor=false
+ShowArea=true
+[252]
+# Sapphire Museum
+MapPosition=1,10,9
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[253]
+# Gearen News HQ
+MapPosition=0,8,16
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[254]
+# Route 9
+MapPosition=2,25,7
+BattleBack=Route9
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[256]
+# WG Power Plant
+MapPosition=0,8,16
+BattleBack=Factory
+Outdoor=false
+[257]
+# Scholar District
+MapPosition=3,19,7
+HealingSpot=257,42,21
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[258]
+# National Park
+MapPosition=3,18,5
+BattleBack=Dream
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[259]
+# Blakeory Atheneum
+MapPosition=3,20,5
+[260]
+# Recreation Center
+MapPosition=3,18,6
+[261]
+# Junction Bridge
+MapPosition=0,9,16
+BattleBack=City
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+WildBattleBGM=
+ShowArea=true
+[262]
+# Hidden Ritual 
+MapPosition=3,14,8
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+WildBattleBGM=
+ShowArea=true
+[263]
+# Poké Mart
+MapPosition=1,18,9
+Outdoor=false
+WildBattleBGM=
+[264]
+# Gearen Laboratory
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[265]
+# Help Plaza
+MapPosition=0,8,16
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+WildBattleBGM=
+ShowArea=false
+[266]
+# West Gearen City
+MapPosition=0,8,16
+Bicycle=false
+Outdoor=false
+WildBattleBGM=
+[268]
+# Deep Terajuma Jungle
+MapPosition=1,16,12
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+WildBattleBGM=
+ShowArea=true
+[269]
+# Evergreen Cave [North]
+MapPosition=0,16,2
+BattleBack=Cave
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+WildBattleBGM=
+ShowArea=true
+[270]
+# Blakeory Manor 
+MapPosition=0,8,16
+Outdoor=false
+ShowArea=true
+[271]
+# WG Generator Room
+MapPosition=0,8,16
+Outdoor=false
+[272]
+# The Lost Camp
+MapPosition=0,13,6
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[273]
+# Route 9
+MapPosition=2,25,6
+HealingSpot=273,40,43
+BattleBack=Route9
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[274]
+# Maman's Abode
+MapPosition=0,13,6
+Outdoor=false
+ShowArea=true
+[275]
+# REMOVED
+MapPosition=0,13,6
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[277]
+# REMOVED
+MapPosition=0,13,6
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[278]
+# Terajuma Coral Reef
+BattleBack=Underwater
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[280]
+# Pokemon Center
+MapPosition=4,14,8
+Outdoor=false
+ShowArea=true
+[281]
+# Poke Mart
+MapPosition=4,14,8
+Outdoor=false
+ShowArea=true
+[282]
+# Dream District
+MapPosition=3,17,15
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[283]
+# Botanical Garden
+MapPosition=3,17,14
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[284]
+# ???
+[285]
+# Rose Theatre
+MapPosition=2,25,6
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[286]
+# Grand Dream Station
+MapPosition=3,17,15
+ShowArea=true
+[287]
+# Dream District
+MapPosition=3,14,15
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[288]
+# Pokemon Center
+MapPosition=3,14,15
+Outdoor=false
+ShowArea=true
+[289]
+# Pokemon Center
+MapPosition=3,18,6
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[290]
+# Dream District
+MapPosition=3,11,15
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[291]
+# PokeStar Studios
+MapPosition=3,11,13
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[292]
+MapPosition=3,14,8
+Outdoor=false
+ShowArea=true
+[293]
+# Unown Dimension
+MapPosition=0,11,17
+BattleBack=99
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+WildBattleBGM=
+[294]
+# Central Building
+MapPosition=3,14,10
+Outdoor=false
+ShowArea=true
+[295]
+# Deep Terajuma Jungle
+MapPosition=1,17,11
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[296]
+# Dream District
+MapPosition=3,10,11
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[297]
+# Mirage Center
+MapPosition=0,16,10
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[298]
+# Kakori Village
+MapPosition=1,18,9
+HealingSpot=298,39,38
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+Weather=Rain,10
+[299]
+# Route 5
+MapPosition=1,18,8
+BattleBack=AshenBeach
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[300]
+# Valor Shore
+MapPosition=1,18,7
+BattleBack=AshenBeach
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,20
+[301]
+# Route 6
+MapPosition=1,17,9
+Bicycle=true
+Outdoor=true
+DiveMap=278
+ShowArea=true
+[302]
+# Aquamarine Cave
+MapPosition=1,16,9
+BattleBack=CaveAqua
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[303]
+# Blacksteeple Mines
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[304]
+# Gearen Laboratory
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[305]
+# Department of Dreams
+MapPosition=3,17,12
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[306]
+# Melia's Room
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[307]
+# Magnolia Theatre
+MapPosition=3,17,11
+Outdoor=false
+ShowArea=true
+[308]
+# Jenner's Lab
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[309]
+# Aquamarine Cave
+MapPosition=1,16,9
+BattleBack=CaveAqua
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[310]
+# EV Training Room
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[311]
+# Axis High University
+MapPosition=3,14,3
+Outdoor=true
+ShowArea=true
+[312]
+# Dream Complex
+MapPosition=3,11,11
+ShowArea=true
+[313]
+# Central Penthouse
+MapPosition=3,11,10
+HealingSpot=313,20,16
+Outdoor=false
+ShowArea=true
+[314]
+# Right Wing Penthouse
+MapPosition=3,11,10
+Outdoor=false
+ShowArea=true
+[315]
+# Rose Theatre
+MapPosition=2,25,6
+Outdoor=false
+ShowArea=true
+[316]
+MapPosition=0,10,16
+Outdoor=false
+ShowArea=true
+[317]
+# Judicial District
+MapPosition=3,23,13
+HealingSpot=317,49,19
+BattleBack=Dream
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[319]
+# Carotos Mountain
+MapPosition=0,18,9
+BattleBack=Volcano
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[320]
+# East Gearen City
+MapPosition=0,10,16
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[321]
+# Goldenwood Forest
+MapPosition=0,10,13
+BattleBack=GoldForest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[322]
+# Route 5
+WildVictoryME=Victory! - RSETRAINER!.mp3
+MapPosition=4,14,8
+BattleBack=0
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=false
+[323]
+# Aquamarine Depths
+MapPosition=1,16,9
+BattleBack=CaveAqua
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[324]
+# Aquamarine Chamber
+MapPosition=1,16,9
+BattleBack=Water
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+DiveMap=598
+ShowArea=true
+[325]
+# Secluded Shore
+MapPosition=1,16,9
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[326]
+# Aquamarine Shrine
+MapPosition=1,16,9
+BattleBack=CaveAqua
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+DiveMap=598
+ShowArea=true
+[327]
+# Teila Resort
+MapPosition=1,14,9
+HealingSpot=327,15,29
+BattleBack=Water
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[328]
+# Kristiline Town
+MapPosition=1,10,9
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[329]
+# Kristiline Town
+MapPosition=1,10,9
+HealingSpot=329,22,13
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[330]
+# Hiyoshi City
+MapPosition=4,14,8
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[331]
+# Kakori Village
+MapPosition=1,18,9
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[332]
+# Ranger HQ
+MapPosition=1,18,9
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[333]
+# Teila Resort
+MapPosition=1,14,9
+BicycleAlways=false
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[334]
+# Teila Resort
+MapPosition=1,14,9
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[335]
+# Tesla's Villa
+MapPosition=1,14,9
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[336]
+# Kristiline Town
+MapPosition=1,10,9
+[337]
+# Church of Theolia
+MapPosition=1,10,7
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[338]
+# Tower of Theolia
+BattleBack=Angie
+Bicycle=false
+Outdoor=true
+ShowArea=true
+Weather=Blizzard,100
+[340]
+# Tower of Theolia F2
+BattleBack=Angie
+Outdoor=false
+ShowArea=true
+[341]
+# Tower of Theolia F3
+BattleBack=Angie
+Outdoor=false
+ShowArea=true
+[342]
+# Grand Express
+MapPosition=0,13,14
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[343]
+# Tower of Theolia F4
+BattleBack=Angie
+Outdoor=false
+ShowArea=true
+[344]
+# Tower of Theolia
+BattleBack=Angie
+Bicycle=false
+Outdoor=true
+ShowArea=true
+Weather=Blizzard,100
+[345]
+# Tower of Theolia F5
+BattleBack=Angie
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[346]
+# Battlefield of the Gods
+BattleBack=Angie
+Bicycle=false
+Outdoor=true
+ShowArea=true
+Weather=Blizzard,100
+[347]
+# Ranger Center
+MapPosition=1,17,11
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[350]
+# Route 7
+MapPosition=2,24,12
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[351]
+# Route 7
+MapPosition=2,23,12
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[352]
+# Route 7
+MapPosition=2,23,11
+BattleBack=Field
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+Weather=Rain,100
+[353]
+# Oblitus Town 
+MapPosition=2,24,13
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[354]
+# Route 7 | Yui's Ranch
+MapPosition=2,24,11
+BattleBack=Field
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[355]
+# Route 7 | GDC Gate
+MapPosition=2,24,10
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[356]
+# Honec Woods
+MapPosition=2,23,10
+BattleBack=Swamp
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+Weather=Rain,80
+[357]
+# Darchlight Woods
+MapPosition=2,22,12
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[358]
+# Darchlight Woods 
+MapPosition=2,20,12
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[359]
+# Darchlight Woods
+MapPosition=2,22,11
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+Weather=Rain,20
+[360]
+# Darchlight Woods
+MapPosition=2,19,12
+BattleBack=Darchlight
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[361]
+# Route 8
+MapPosition=2,18,12
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[362]
+# Darchlight Woods
+MapPosition=2,20,11
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+[363]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[365]
+# Darchlight Labs
+MapPosition=2,20,10
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[366]
+# Tower of Theolia F2
+BattleBack=Angie
+Outdoor=false
+ShowArea=true
+[367]
+# Oblitus Town
+MapPosition=2,24,13
+Outdoor=false
+[368]
+# Darchlight Woods
+MapPosition=2,20,11
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+Weather=Rain,100
+[369]
+# Honec Woods
+MapPosition=2,23,10
+BattleBack=Swamp
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+DiveMap=599
+ShowArea=true
+Weather=Rain,100
+[370]
+# Honec Woods
+MapPosition=2,23,10
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,80
+[371]
+# Azure Shore
+MapPosition=2,20,13
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[373]
+# Zorrialyn Desert
+MapPosition=2,8,11
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[374]
+# Hiyoshi Pass
+MapPosition=4,15,9
+BattleBack=2
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=RSE - Battle.mp3
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=false
+[375]
+# Hiyoshi City
+MapPosition=4,14,8
+BattleBack=Field
+Outdoor=false
+ShowArea=true
+[376]
+# Route 7
+MapPosition=2,24,11
+Outdoor=false
+[377]
+# Judicial District
+MapPosition=3,23,12
+[378]
+# Police Department
+MapPosition=3,23,13
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[379]
+# District Building
+MapPosition=3,24,11
+[380]
+# Pokemon Center
+MapPosition=3,23,12
+[383]
+# Gate Plaza
+MapPosition=0,23,13
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[384]
+# Bladestar HQ
+MapPosition=3,17,14
+[385]
+# MOVIE WORLD
+MapPosition=3,14,8
+[386]
+# Bladestar Grand Hall
+MapPosition=3,17,14
+[387]
+# The Underground
+MapPosition=3,11,15
+BattleBack=City
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[388]
+# The Underground
+MapPosition=3,11,16
+[389]
+# The Final Trial
+MapPosition=0,10,16
+BattleBack=Ruin2
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[390]
+# Chrysalis Courtyard
+MapPosition=0,10,16
+BattleBack=Grassy
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,100
+[391]
+# Chrysalis Courtyard
+BattleBack=Grassy
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=true
+Weather=Rain,100
+[392]
+# Chrysalis Manor
+MapPosition=0,10,16
+BattleBack=IndoorB
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[393]
+MapPosition=0,10,16
+BattleBack=IndoorB
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[394]
+# Goldenwood Grove
+MapPosition=0,10,11
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[395]
+# 3rd Layer
+MapPosition=0,10,10
+BattleBack=CaveAqua
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[396]
+# Secret Shrine
+MapPosition=0,9,12
+BicycleAlways=false
+BattleBack=GoldForest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[399]
+[400]
+# Goldenleaf Theatre
+MapPosition=0,14,13
+BattleBack=Haunted2
+Outdoor=false
+ShowArea=false
+[401]
+# Backstage Theatre
+MapPosition=0,14,13
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[403]
+# Forsaken Laboratory
+MapPosition=0,12,11
+BattleBack=Shortcircuit
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[404]
+MapPosition=0,12,11
+BattleBack=Xeninterior
+[405]
+# Pom-Pom Meadow
+MapPosition=0,17,15
+BattleBack=
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Sunny,30
+[406]
+# Hula Meadow
+MapPosition=1,16,11
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[407]
+# Rejuvenation Co.
+MapPosition=4,14,12
+BattleBack=2
+Outdoor=true
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[408]
+# Sensu Meadow
+MapPosition=2,21,12
+BattleBack=Darchlight
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[410]
+# Kakori Depths
+MapPosition=1,18,9
+BattleBack=ForestCave
+Bicycle=false
+Outdoor=false
+ShowArea=true
+Weather=Rain,100
+[411]
+# Help Plaza
+MapPosition=1,10,9
+[413]
+# Chamber of Awakening
+MapPosition=1,15,7
+BattleBack=Water
+Bicycle=false
+Outdoor=false
+DiveMap=156
+ShowArea=true
+[414]
+# Club S.T.F.U.
+MapPosition=1,14,9
+BattleBack=DanceFloor
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[415]
+# WG Sewage Managemnt
+MapPosition=0,8,16
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[418]
+# Hidden Library
+MapPosition=0,11,17
+BattleBack=Ruin
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[419]
+# Forlorned Cavern
+MapPosition=2,26,7
+BattleBack=Route9
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+[420]
+# Axis High University
+MapPosition=3,14,2
+BattleBack=AxisHigh
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[421]
+# Floria Island
+SnapEdges=true
+Outdoor=false
+[422]
+# Castle Zygara
+MapPosition=3,15,8
+BattleBack=Ruin2
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[423]
+# Sheridan Village
+MapPosition=0,18,11
+HealingSpot=423,50,18
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[424]
+# Sheridan Arena
+MapPosition=0,18,10
+HealingSpot=424,19,11
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[425]
+# Sheridan Village
+MapPosition=0,18,11
+Outdoor=false
+ShowArea=false
+[426]
+# Sensei's Garden
+MapPosition=0,18,10
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[432]
+# River's End
+MapPosition=0,16,14
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[433]
+# River's End
+MapPosition=0,16,15
+Outdoor=false
+[434]
+MapPosition=0,12,11
+BattleBack=XenInterior
+Outdoor=false
+ShowArea=true
+[435]
+# Blacksteeple Castle
+BattleBack=BlacksteepleOutdoor
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[436]
+# Blacksteeple Quarry
+BattleBack=BlacksteepleOutdoor
+Bicycle=false
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[437]
+# Blacksteeple Garden
+BattleBack=BlacksteepleOutdoor
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[438]
+# Blacksteeple Castle
+BicycleAlways=false
+BattleBack=BlacksteepleIndoor
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[440]
+# Blacksteeple Castle
+BattleBack=BlacksteepleIndoor
+[443]
+# Blacksteeple Castle
+BattleBack=BlacksteepleIndoor
+Outdoor=false
+[445]
+# Central Building - 36th Floor-
+MapPosition=3,14,9
+[446]
+# Bladestar Labs
+MapPosition=2,20,10
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[447]
+# Bladestar Labs
+MapPosition=2,20,9
+BattleBack=Volcano
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[448]
+# Main Building
+MapPosition=3,11,15
+BicycleAlways=false
+BattleBack=Bladestar
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[449]
+# Bladestar Labs
+MapPosition=3,17,14
+BattleBack=Bladestar
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[450]
+# Distant Time
+MapPosition=4,14,7
+BattleBack=Cave
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+[452]
+# S.S. Paradise
+MapPosition=4,15,8
+[453]
+# S.S. Paradise
+MapPosition=4,14,8
+[454]
+MapPosition=4,14,8
+[455]
+MapPosition=4,14,8
+BicycleAlways=false
+[456]
+# S.S. Paradise
+MapPosition=4,14,8
+BattleBack=XenInterior
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[457]
+# Blacksteeple Port
+[458]
+MapPosition=4,14,8
+[459]
+MapPosition=4,14,8
+[460]
+MapPosition=4,14,8
+[461]
+# Blacksteeple Playroom
+MapPosition=4,14,9
+BattleBack=Chess
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[462]
+[463]
+MapPosition=4,14,8
+[464]
+MapPosition=4,14,8
+[465]
+MapPosition=4,14,7
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=false
+Weather=Rain,100
+[466]
+MapPosition=4,15,8
+[467]
+# Sacrificial Chamber
+MapPosition=4,15,8
+BattleBack=Ruin2
+Outdoor=false
+ShowArea=false
+[468]
+# Golden Arena
+BattleBack=GoldenArena
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[469]
+MapPosition=3,14,8
+[470]
+# Evergreen Forest
+MapPosition=0,15,1
+BattleBack=Time
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[471]
+# Spring of Preservation
+MapPosition=0,15,1
+BattleBack=Time
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[472]
+# Nana's House
+MapPosition=0,15,2
+Outdoor=false
+ShowArea=true
+[473]
+# Route 11
+MapPosition=0,16,3
+Bicycle=true
+Outdoor=true
+DiveMap=597
+ShowArea=false
+Weather=Snow,100
+[474]
+# Route 2
+MapPosition=0,17,16
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,100
+[475]
+# Rift Isolated Dream
+BattleBack=AelitaRift
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[476]
+MapPosition=0,14,13
+[477]
+# Sewers
+[478]
+# Zorrialyn Desert
+MapPosition=2,7,11
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+[479]
+# Seabound Cave
+MapPosition=0,16,3
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[480]
+# Seabound Cave
+MapPosition=0,16,3
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[481]
+# Evergreen Cave [South]
+MapPosition=0,15,3
+BattleBack=Icy2
+Outdoor=false
+ShowArea=true
+[482]
+# Evergreen Cave [South]
+MapPosition=0,15,3
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[483]
+# Evergreen Cave [South]
+MapPosition=0,15,3
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[484]
+# East Gearen Gym
+MapPosition=0,10,16
+BattleBack=IndoorVenam
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[485]
+# Evergreen Cave [North]
+MapPosition=0,16,2
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[486]
+# Evergreen Cave [North]
+MapPosition=0,16,2
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[488]
+# Amethyst Grotto
+MapPosition=0,18,16
+BattleBack=Ruin3
+SnapEdges=true
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[489]
+# Wispy Ruins
+MapPosition=0,14,8
+BattleBack=Haunted3
+SnapEdges=false
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[490]
+# Evergreen Cave [North]
+MapPosition=0,16,2
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[491]
+# Evergreen Cave [North]
+MapPosition=0,16,2
+BicycleAlways=false
+BattleBack=Icy2
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[492]
+# Garufa Ruins
+MapPosition=0,19,9
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[493]
+# CUTSCENE AREA
+MapPosition=0,22,13
+BattleBack=Haunted
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[494]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Outdoor=false
+ShowArea=true
+[495]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[496]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[497]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[498]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[499]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[500]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[501]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[502]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+[503]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+SnapEdges=true
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[504]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+SnapEdges=true
+[505]
+# Darchlight Caves
+MapPosition=2,20,10
+BattleBack=DarkCrystalCavern
+Outdoor=false
+ShowArea=true
+[506]
+# Forgotten Hill
+MapPosition=2,20,11
+BattleBack=Darchlight
+SnapEdges=true
+Outdoor=true
+ShowArea=true
+[507]
+# Wispy Treasury
+MapPosition=0,14,8
+BattleBack=Haunted3
+ShowArea=false
+[508]
+# Wispy Chasm
+MapPosition=0,13,11
+BicycleAlways=false
+BattleBack=Haunted3
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[510]
+# Zorrialyn Desert
+MapPosition=2,6,11
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[511]
+# Sand Stream Cave
+MapPosition=2,5,11
+BattleBack=Desert
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[512]
+# Sand Stream Cave
+MapPosition=2,5,11
+BattleBack=Desert
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+[513]
+# Sand Stream Cave
+MapPosition=2,5,11
+BattleBack=Desert
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[514]
+# Sand Stream Depths
+MapPosition=2,5,11
+BattleBack=Desert
+Bicycle=true
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[515]
+# Zorrialyn Coast
+MapPosition=2,6,12
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[516]
+# Sashila Village
+MapPosition=2,4,12
+BattleBack=Desert
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+ShowArea=true
+Weather=Sandstorm,10
+[517]
+# Sashila Village
+MapPosition=2,4,12
+BattleBack=Desert
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[518]
+# Alamissa Urben
+MapPosition=2,7,10
+BattleBack=DesertNight
+Bicycle=false
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[519]
+# Voidal Chasm B3
+MapPosition=2,8,10
+BattleBack=Dimensional1
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[520]
+# Voidal Chasm B2
+MapPosition=2,8,10
+BattleBack=Dimensional1
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[521]
+# Voidal Chasm B2
+MapPosition=2,8,10
+BattleBack=Dimensional1
+WildBattleBGM=Wild Battle - Badlands.mp3
+[522]
+# Voidal Chasm B1
+MapPosition=2,8,10
+BattleBack=Dimensional1
+Bicycle=true
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[523]
+# Ruined City
+MapPosition=2,7,12
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+Weather=Sandstorm,100
+[524]
+# Ruined City
+MapPosition=2,7,13
+BattleBack=Desert
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Battle - Trainers3.mp3
+ShowArea=false
+[525]
+# Zorrialyn Desert
+MapPosition=2,8,12
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers3.mp3
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[526]
+# Alamissa Urben
+[527]
+# Alamissa Urben
+MapPosition=2,7,10
+Outdoor=false
+ShowArea=false
+[528]
+# REMOVED
+MapPosition=3,7,9
+[529]
+# Hospital of Ruin
+MapPosition=3,7,9
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[531]
+# Alamissa Gallery
+MapPosition=2,7,10
+[532]
+# Voidal Chasm B3
+MapPosition=2,8,10
+BattleBack=Dimensional1
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[533]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+BattleBack=Haunted3
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[534]
+# Zone Zero Outskirts
+MapPosition=2,7,9
+HealingSpot=534,25,26
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[535]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+BattleBack=Haunted3
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+Dungeon=false
+[536]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+BattleBack=Haunted3
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[537]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+BattleBack=Haunted3
+Outdoor=false
+DiveMap=541
+[538]
+# Ancient Story
+BattleBack=Underwater
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[539]
+# Zorrialyn Crypt
+MapPosition=2,7,13
+BattleBack=Haunted3
+Bicycle=false
+Outdoor=false
+DiveMap=542
+ShowArea=true
+[540]
+# Isle of Angels
+MapPosition=1,10,8
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+TrainerBattleBGM=Battle - Trainers2.mp3
+ShowArea=true
+[541]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+[542]
+# Zorrialyn Labyrinth
+MapPosition=2,7,13
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[543]
+# Tyluric Falls
+MapPosition=1,17,10
+BattleBack=Forest
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[544]
+# Madelis' Palace
+MapPosition=0,18,9
+Outdoor=false
+ShowArea=false
+[545]
+# Rejuvenation Co.
+MapPosition=3,14,8
+BattleBack=6
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[546]
+# Isle of Angels
+MapPosition=1,10,8
+BicycleAlways=false
+BattleBack=Snow
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Snow,100
+[547]
+# Jeminra Cave
+MapPosition=1,19,9
+BattleBack=Corrupted
+Bicycle=true
+Outdoor=false
+ShowArea=true
+SafariMap=true
+[549]
+# Physical Rehab Center
+MapPosition=3,8,7
+[550]
+# Gregorian Lake
+MapPosition=3,14,8
+BicycleAlways=false
+BattleBack=0
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - RSE.mp3
+ShowArea=true
+[551]
+# Underground Sanctuary
+MapPosition=3,14,8
+BattleBack=Ruin
+Bicycle=false
+Outdoor=false
+TrainerBattleBGM=RSE - Enemy Battle.mp3
+ShowArea=true
+[552]
+# Underground Sanctuary
+MapPosition=3,14,8
+BattleBack=DimensionalGard
+SnapEdges=false
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[553]
+# Grand Dream Stadium
+MapPosition=2,24,7
+[554]
+# Grand Dream Stadium
+[555]
+# Grand Dream Stadium
+MapPosition=2,24,7
+BicycleAlways=false
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[556]
+# Grand Dream Ball
+MapPosition=3,18,3
+Bicycle=false
+Outdoor=true
+ShowArea=true
+[557]
+# Mysterious Manor
+MapPosition=4,15,8
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[559]
+# Garufan Chamber
+MapPosition=0,18,13
+BattleBack=Ruin
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[560]
+# Strange House
+MapPosition=2,6,14
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[561]
+# Jeminra Woods
+MapPosition=1,19,9
+BattleBack=AshenBeach
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+[562]
+# Jeminra Woods
+MapPosition=1,19,9
+BattleBack=Forest
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+[563]
+# Jeminra Cave
+MapPosition=1,19,9
+BicycleAlways=false
+BattleBack=Cave
+Bicycle=true
+Outdoor=false
+ShowArea=false
+SafariMap=true
+[564]
+# Jeminra Woods
+MapPosition=1,19,9
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+MapSize=0,
+[565]
+# Jeminra Woods
+MapPosition=1,19,9
+Bicycle=true
+Outdoor=true
+SafariMap=true
+[566]
+# Jeminra Woods
+MapPosition=1,19,9
+BattleBack=AshenBeach
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+[567]
+# Jeminra Woods
+MapPosition=1,19,9
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+[568]
+# REMOVED
+MapPosition=0,13,6
+BattleBack=
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[569]
+# Jeminra Woods
+MapPosition=1,20,9
+BattleBack=
+SnapEdges=false
+Bicycle=true
+Outdoor=true
+ShowArea=false
+SafariMap=true
+[571]
+# Gearen Park
+MapPosition=0,10,16
+BicycleAlways=false
+BattleBack=GearenNew
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[573]
+# Zone Zero
+MapPosition=2,7,9
+BicycleAlways=false
+BattleBack=Desert
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[574]
+# Zone Zero
+MapPosition=2,7,9
+SnapEdges=false
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[575]
+# Abandoned Apartment
+MapPosition=2,7,9
+BattleBack=IndoorD
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[576]
+# Zone Zero
+MapPosition=2,7,7
+BattleBack=Desert
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[577]
+# Underground Sanctuary
+MapPosition=2,7,7
+BattleBack=Desert2
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[578]
+# Zone Zero
+MapPosition=2,7,4
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
+[579]
+# Reldin Island
+MapPosition=2,4,6
+BattleBack=Volcano
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[580]
+# Pyramid Grounds
+HealingSpot=580,38,30
+BattleBack=Desert
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[582]
+# Ignis Ironworks
+MapPosition=0,8,16
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[583]
+# Spring of Rejuvenation
+MapPosition=2,7,3
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[584]
+# Eclysia Pyramid
+MapPosition=2,7,3
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[585]
+# Eclysia Pyramid
+MapPosition=2,7,3
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[586]
+# Eclysia Skyview
+MapPosition=2,7,3
+BattleBack=Desert3
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[588]
+# S.S. Oceana Wreckage
+MapPosition=1,22,11
+BattleBack=Underwater
+SnapEdges=true
+Bicycle=false
+Outdoor=true
+ShowArea=true
+SafariMap=false
+[589]
+# Nastasia's Airship
+BattleBack=Factory
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[590]
+# Sheridan Arena
+BattleBack=Forest
+SnapEdges=true
+Outdoor=true
+[591]
+# Apartment Depths
+MapPosition=2,7,8
+BattleBack=Desert
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[594]
+# Evergreen Trench
+DarkMap=false
+MapPosition=0,15,4
+BattleBack=Underwater
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[595]
+# Evergreen Trench
+MapPosition=0,15,2
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[596]
+# Evergreen Trench
+MapPosition=0,16,3
+BicycleAlways=false
+BattleBack=Underwater
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[600]
+# Kingdom of Goomidra
+MapPosition=2,21,10
+HealingSpot=600,50,47
+BicycleAlways=false
+BattleBack=Swamp
+Bicycle=true
+Outdoor=true
+ShowArea=true
+Weather=Rain,20
+[603]
+# Castle Zygara
+MapPosition=2,7,13
+BattleBack=Ruin2
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=false
+[604]
+# Spring Maintenance 
+MapPosition=0,15,2
+BattleBack=Shortcircuit
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[605]
+# S.S. Oceana Wreckage
+MapPosition=1,22,11
+BattleBack=Underwater
+Bicycle=false
+Outdoor=false
+DiveMap=191
+ShowArea=true
+[606]
+# Pyramid Grounds
+MapPosition=2,7,3
+HealingSpot=606,38,27
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle - Badlands.mp3
+ShowArea=true
