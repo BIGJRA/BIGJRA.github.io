@@ -133,9 +133,23 @@ Heavy Work In Progress :)
   - [Tanzan Cove Water Exploration](#tanzan-cove-water-exploration)
   - [Neo Opal Ward](#neo-opal-ward)
   - [Neo Peridot Ward](#neo-peridot-ward)
-  - [Neo Jasper Ward and Malchous Forest](#neo-jasper-ward-and-malchous-forest)
+  - [Neo Jasper Ward & Malchous Forest](#neo-jasper-ward--malchous-forest)
   - [Neo Beryl Ward](#neo-beryl-ward)
   - [Neo Lapis Ward](#neo-lapis-ward)
+  - [Neo North Obsidia Ward](#neo-north-obsidia-ward)
+  - [Neo Central Obsidia Ward](#neo-central-obsidia-ward)
+  - [Neo South Obsidia Ward & Neo Coral Ward](#neo-south-obsidia-ward--neo-coral-ward)
+  - [Neo Onyx Ward](#neo-onyx-ward)
+  - [Neo Spinel Town & Chrysolia Spring](#neo-spinel-town--chrysolia-spring)
+  - [Iolia Valley & Aventurine Woods Water Exploration](#iolia-valley--aventurine-woods-water-exploration)
+  - [Neo Apophyll Beach](#neo-apophyll-beach)
+  - [Azurine Lake](#azurine-lake)
+  - [Trading Sequence Quest](#trading-sequence-quest)
+  - [Agate Circus Fishing](#agate-circus-fishing)
+  - [Mega Z-Ring Quest](#mega-z-ring-quest)
+  - [Devon Co?](#devon-co)
+  - [Silvon Scope Quest](#silvon-scope-quest)
+  - [Amaranth Badge](#amaranth-badge)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -320,7 +334,7 @@ Grand Hall Common Candy Shop
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. Note that the current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
-Default Mart (0 Badges)
+Default Shop
 
 |Item           |Price      |
 |---------------|-----------|
@@ -496,7 +510,7 @@ Outside, enter the small building to the left and pickup the *Potion*. Outside, 
 
 Straight to the left out the door you'll find some trash paper, and to the left of it is a hidden *Common Candy*. Inside the next building is another *Common Candy*. 
 
-The "Default Marts" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward one will have the same inventory as the Grand Hall one until we get a badge, then they will both upgrade. 
+The "Default Shops" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward one will have the same inventory as the Grand Hall one until we get a badge, then they will both upgrade. 
 
 Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money. Outside to the right in a box is a hidden *Potion*. A pile of trash paper in the very top left contains a hidden *Clever Wing* (which, again, is good to sell). A guy in the adjacent building will give us a *Common Candy*. Outside there is a shop.
 
@@ -690,7 +704,7 @@ Next, enter the Grand Hall. The Common Candy salesman is now gone but in his pla
 
 Now that we have a badge, Pokemarts will be updated:
 
-Default Mart (1 Badge)
+Default Shop (1 Badge)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -793,7 +807,7 @@ Sweet Kiss Top Clerk Shop
 |*Red-Hots*         |$850       |
 |*Cotton Candy*     |$5000      |
 
-If you're planning on evolving Swirlix, grab a Whipped Dream. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
+If you're planning on evolving Swirlix, grab a Whipped Dream. We will eventually need another Whipped Dream for a quest. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
 
 Sweet Kiss Bottom Clerk Shop
 
@@ -1376,9 +1390,9 @@ Exit Florinia's Arena. There are a few things we can do now that we have 2 badge
 
 First, head to the room containing the nurse in the Trainer School. A girl towards the left side will trade you battle advice for *TM100 Confide*!  
 
-Now that we have 2 badges, the Pokemarts have updated inventory now:
+Now that we have 2 badges, the Pokemarts and candy store have updated inventory now:
 
-Default Mart (2 Badges)
+Default Shop (2 Badges)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -1389,6 +1403,15 @@ Default Mart (2 Badges)
 |*Escape Rope*  |$550       |
 |*Super Repel*  |$700       |
 |*Poke Ball*    |$200       |
+
+Sweet Kiss Bottom Clerk Shop (2 Badges)
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Exp. Candy XS*    |$500       |
+|*Exp. Candy S*     |$2000      |
+|*Rare Candy*       |$12000     |
 
 Head to Obsidia Park. While it's sunny outside and you have snax in your bag, you can catch a stationary **Petilil**!
 
@@ -1978,7 +2001,7 @@ Sweet Scent Flower Shop Top
 
 We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is technically a cheaper option to get the honey later on, however. 
 
-Sweet Scent Flower Shop Bottom
+Sweet Scent Flower Shop Middle
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2002,7 +2025,7 @@ Department Store 4F Left Shop
 |*Absorb Bulb*  |$1200          |
 |*Snowball*     |$1000          |
 
-Some consumables that may be useful in a pinch.
+Some consumables that may be useful in a pinch. We will much later on need a White Herb for a quest.
 
 Department Store 4F Right Shop
 
@@ -2518,6 +2541,17 @@ Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with t
 ## Rock Smash Exploration
 
 The first place we can go that has new stuff is the Onyx Ward. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*. 
+
+As you make your way back through Obsidia, note that the candy store has a new kind of Exp. Candy for sale.
+Sweet Kiss Bottom Clerk Shop (3 Badges)
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Exp. Candy XS*    |$500       |
+|*Exp. Candy S*     |$2000      |
+|*Exp. Candy M*     |$5000      |
+|*Rare Candy*       |$12000     |
 
 In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*. 
 
@@ -3569,9 +3603,9 @@ Cal will give you *TMX4 Strength*!
 
 Having Strength means there is a lot of exploration that we can now do. First of all, put Chingling into your party with the Soothe Bell attached. We'll need it evolved for a quest soon, so might as well take advantage of all the walking we are about to do.
 
-First, note that the Pokemarts have new inventory now.
+First, note that the Pokemarts and the candy store have new inventory now.
 
-Default Mart (5 Badges)
+Default Shop (5 Badges)
 
 |Item           |Price      |
 |---------------|-----------|
@@ -3583,6 +3617,17 @@ Default Mart (5 Badges)
 |*Super Repel*  |$700       |
 |*Poke Ball*    |$200       |
 |*Great Ball*   |$600       |
+
+Sweet Kiss Bottom Clerk Shop (5 Badges)
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Exp. Candy XS*    |$500       |
+|*Exp. Candy S*     |$2000      |
+|*Exp. Candy M*     |$5000      |
+|*Exp. Candy L*     |$10000     |
+|*Rare Candy*       |$12000     |
 
 Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge. Go down and right. You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* then find *TM94 Secret Power*. Exit the mountain.
 
@@ -3806,10 +3851,19 @@ Make your way forward and around to the left. You'll see a cave entrance hidden 
 
 Chrysolia Spring 1F
 
-|Old Rod           |%  |
-|------------------|---|
-|Shellos           |70 |
-|Barboach          |30 |
+|Cave              |%  |Old Rod           |%  |
+|------------------|---|------------------|---|
+|Noibat            |20 |Shellos           |70 |
+|Numel             |20 |Barboach          |30 |
+|Panpour           |10 |
+|Pansear           |10 |
+|Oricorio          |10 |
+|Onix              |10 |
+|Kecleon           |10 |
+|**Simisear**      |4  |
+|**Simipour**      |4  |
+|**Gastrodon**     |1  |
+|**Camerupt**      |1  |
 
 More importantly, you'll find a *Mystic Water* and hidden *Link Stone* inside. 
 
@@ -4660,6 +4714,20 @@ With that, agree to leave together. Exit out of the Grand Gate, then make your w
 
 We're gonna need about 30 Honeys for the next section - you can either buy it directly, buy about 25 Ice Creams and/or Candies to trade in a bit, or a single Blue Moon Ice Cream works too.
 
+It's worth noting that we can buy Exp. Candy XL's now:
+
+Sweet Kiss Bottom Clerk Shop (7 Badges)
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Exp. Candy XS*    |$500       |
+|*Exp. Candy S*     |$2000      |
+|*Exp. Candy M*     |$5000      |
+|*Exp. Candy L*     |$10000     |
+|*Exp. Candy XL*    |$20000     |
+|*Rare Candy*       |$12000     |
+
 ## North Aventurine Woods Exploration
 
 Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right. Enter 1N, the first entrance to the forest that you see. This will simply spit us out at 2N. To the right, you'll find 3N. 
@@ -4731,8 +4799,7 @@ Pick up the hidden *Revive* in the next area, then use the Honey tree and fight 
 
 Next, we'll be entering 4S - you'll know you're in the right place if you recognized where we fought Fern. Anyways, lather the Honey tree closest to you and fight Pinsir, then make your way right. Don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree, defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening. Go that way, and pull out our Floral Charm when prompted to battle **Flabebe**! Head straight to the right and grab the *Oddishweed*. Head back and get lulled into a daze to return to Route 1.
 
-Again, enter 4S, this time, heading down. Use the nearby Honey tree two times to clear both obstacles. Go down and immediately to the right, use another Honey tree and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and 
-a hidden *Telluric Seed*. 
+Again, enter 4S, this time, heading down. Use the nearby Honey tree two times to clear both obstacles. Go down and immediately to the right, use another Honey tree and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and a hidden *Telluric Seed*. Make sure you save one of these Custap Berries for a quest later on.
 
 Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*. Go right from here and grab the hidden *Fire Gem*. Down the ledge you'll finally see why I had us do 8S first... anyways follow the path right then go up. Get the hidden *PP Up* and finally dismount, then head up into the grass. 
 
@@ -4926,7 +4993,7 @@ Seventh Street Right Wares Shop
 |*Float Stone*      |$400           |
 |*Binding Band*     |$1700          |
 
-Grab a Soul Candle for a quest later on. 
+Grab a Soul Candle for a quest later on, and a Stick for a different quest later on.
 
 To the right, you'll see one of your gang members making a sale:
 
@@ -6210,7 +6277,7 @@ Enter the small building nearby. Inside, talk to the old man to begin a quest. Y
 
 Head west at the next fork. You can get a hidden *Ether* around here. Enter this building. On the second floor, trade away your Pidove to a kid to get an *Old Amber*. Sweet. Head back outside and go to the left. You'll see a Lucario on a building, who will then run off. Follow it all the way right to the narrow cliffside, and it will run off with its egg.
 
-Back at the main village fork, go down. In the south side of the city you can pick up hidden *Stardust*, *Big Pearl*, *Repel*, *Chewing Gum*, *Green Shard*, *Red Shard*, *X Sp. Atk*, *Full Heal*, *Tiny Mushroom*, and *Antidote*. 
+Back at the main village fork, go down. In the south side of the city you can pick up hidden *Stardust*, *Big Pearl*, *Repel*, *Chewing Gum*, *Green Shard*, *Red Shard*, *X Sp. Atk*, *Full Heal*, *Tiny Mushroom*, and *Antidote*. Make sure you save this (or any) Tiny Mushroom for a quest later.
 
 In the house next to the Pokemon Center, talk to the guy to learn of a glitch in his computer. Talk to the machine for a short battle gauntlet!
 
@@ -7099,7 +7166,7 @@ Tanzan Cove Underwater
 |Shellos           |20 |
 |Barboach          |20 |
 |Wooper            |20 |
-|**Gastrodon**     |10 |
+|Gastrodon         |10 |
 |Whiscash          |10 |
 |Quagsire          |10 |
 |Basculin          |6  |
@@ -7220,7 +7287,7 @@ Neo Peridot Ward, Neo Lower Peridot Ward
 
 First, head up into the park to the right of the Pokemon Centerpokem to talk to Elder Seacrest. He will give us a quest: collect the four types of mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
-South Peridot Alley
+Neo South Peridot Alley
 
 |Cave              |%  |
 |------------------|---|
@@ -7275,7 +7342,7 @@ Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you 
 
 Enter the North Peridot Alleyway outside.
 
-North Peridot Alley
+Neo North Peridot Alley
 
 |Cave              |%  |
 |------------------|---|
@@ -7292,7 +7359,7 @@ North Peridot Alley
 
 You can find a hidden *Revive*.
 
-## Neo Jasper Ward and Malchous Forest
+## Neo Jasper Ward & Malchous Forest
 
 That wraps up Peridot, so head into Neo Jasper Ward.
 
@@ -7319,7 +7386,7 @@ Inside the police station, talk to the chief to continue the stolen Pokemon ques
 
 Enter Malchous Forest to the left. 
 
-Malchous Forest Park
+Neo Malchous Forest Park
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7338,7 +7405,7 @@ Malchous Forest Park
 
 Later on, we'll need a Male Lurantis and a Female Lurantis for a quest, so it might be a good opportunity to get those now. 
 
-You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. The former gym has been replaced with soft soil to grow berries in - to start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
+You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. Make sure you don't sell the former. The abandoned gym has been replaced with soft soil to grow berries in - to start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
 
 ## Neo Beryl Ward
 
@@ -7437,7 +7504,587 @@ Next, enter Corey's gym. Use the card we got from behind Skuntank here to open a
 
 That wraps up the things on the west side of Reborn City, so fly over to Lapis next. 
 
-madame craudberry more like madame fraudberry
+Neo Lapis Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Ledian            |20 |Houndour          |20 |Murkrow           |20 |
+|Meowth-Alola      |20 |Meowth-Alola      |20 |Meowth-Alola      |20 |
+|Espurr            |10 |Espurr            |10 |Espurr            |10 |
+|Chingling         |10 |Chingling         |10 |Chingling         |10 |
+|Rattata-Alola     |10 |Rattata-Alola     |10 |Rattata-Alola     |10 |
+|Poochyena         |10 |Poochyena         |10 |Poochyena         |10 |
+|Mightyena         |5  |Mightyena         |5  |Mightyena         |5  |
+|Raticate-Alola    |5  |Raticate-Alola    |5  |Raticate-Alola    |5  |
+|Chimecho          |4  |Chimecho          |4  |Chimecho          |4  |
+|Persian-Alola     |4  |Persian-Alola     |4  |Persian-Alola     |4  |
+|Meowstic          |2  |**Houndoom**      |1  |**Houndoom**      |1  |
+|                  |   |Meowstic          |1  |Meowstic          |1  |
+
+Hidden around Lapis you'll be able to find a *Genius Wing*, *X Attack*, *Peppermint*, *Great Ball*, *Purple Shard*, *Exp. Candy L*, as well as the *Stable Mulch* in the park at the top.
+
+The flower shop on the left side has some new items for sale.
+
+Sweet Scent Flower Shop Middle (13 Badges)
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Red Nectar*       |$3000          |
+|*Yellow Nectar*    |$3000          |
+|*Pink Nectar*      |$3000          |
+|*Purple Nectar*    |$3000          |
+|*Elemental Seed*   |$5000          |
+|*Magical Seed*     |$5000          |
+|*Telluric Seed*    |$5000          |
+|*Synthetic Seed*   |$5000          |
+
+Sweet Scent Flower Shop Bottom
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Durin Berry*      |$800           |
+|*Watmel Berry*     |$800           |
+|*Belue Berry*      |$800           |
+|*Kee Berry*        |$800           |
+|*Maranga Berry*    |$800           |
+
+You can also talk to a girl near the top and show her the Budew that we once got after it fell off the wall, and she'll tell us about the password *budewit*. 
+
+Enter Lapis Alleyway next. Inside, you'll find more soil containing *4 Rowap Berries*, *4 Ganlon Berries*, *4 Jaboca Berries*, and *2 Sitrus Berries*. 
+
+Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokemon earlier.
+
+Seventh Street Pokemon Seller Move Tutor 
+
+|Move               |Price          |
+|-------------------|---------------|
+|Knock Off          |8 Red Shards   |
+|Iron Head          |7 Purple Shards|
+|Zen Headbutt       |6 Green Shards |
+|Liquidation        |6 Blue Shards  |
+
+You can also talk to your gang leader to learn the purpose of the applications, but regardless of your gang you can't complete this quest yet, so we'll come back later.
+
+## Neo North Obsidia Ward
+
+Pop back up in Lapis and head east into North Obsidia.
+
+Neo North Obsidia Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Buneary           |20 |Buneary           |20 |Hoothoot          |20 |
+|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
+|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
+|Sentret           |10 |Venonat           |10 |Oddish            |10 |
+|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
+|Sunflora          |10 |Sunflora          |10 |Noctowl           |10 |
+|Weepinbell        |5  |**Lopunny**       |8  |Sudowoodo         |5  |
+|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
+|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
+|**Lopunny**       |4  |**Vigoroth**      |2  |**Roselia**       |4  |
+|**Vigoroth**      |2  |                  |   |Venomoth          |2  |
+
+Talk to the girl outside the nightclub to get a *Nightclub Application*. 
+
+Enter the Spyce restaurant on the right. At the counter you can grab a *Spyce Application*. Once the chef pops out of the kitchen, talk to him to begin the chef's quest. He'll ask us to bring the following items: Honey, Tiny Mushroom, Balm Mushroom, Slowpoke Tail, White Herb, Stick, Sweet Heart, Moomoo Milk, Energy Root, Custap Berry,  Whipped Dream, and Shoal Salt. A few of these we may not have quite yet, so I will return in a bit to finish this quest. 
+
+Enter the North Obsidia Alleyway next. 
+
+Neo North Obsidia Alleyway
+
+|Cave              |%  |
+|------------------|---|
+|Poochyena         |20 |
+|Yungoos           |20 |
+|Purrloin          |10 |
+|Zangoose          |10 |
+|**Gumshoos**      |10 |
+|Mightyena         |10 |
+|Houndour          |8  |
+|Liepard           |5  |
+|Skuntank          |5  |
+|Houndoom          |2  |
+
+You'll find a *Magical Seed* and hidden *Dusk Ball* and *Max Elixir*.
+
+## Neo Central Obsidia Ward
+
+Head south into Central Obsidia. 
+
+Neo Obsidia Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Sunflora          |20 |Sunflora          |20 |Hoothoot          |20 |
+|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
+|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
+|Sentret           |10 |Venonat           |10 |Makuhita          |10 |
+|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
+|Makuhita          |10 |Makuhita          |10 |Noctowl           |10 |
+|Weepinbell        |5  |Lopunny           |8  |Sudowoodo         |5  |
+|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
+|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
+|Lopunny           |4  |Vigoroth          |2  |Roselia           |4  |
+|Vigoroth          |2  |                  |   |Venomoth          |2  |
+
+Hidden around this part of the ward are an *HP Up*, *Pop Rocks*, *Green Shard*, *Elemental Seed*, as well as the *Growth Mulch* in the park on the bottom right side.
+
+Notice that means we have now found all four of the mulches, so talk to Seacrest in Lower Peridot to get the *Venusaurite* and an *Insect Plate*. The nearby assistant will give you the *Decidium-Z*.
+
+Back in Obsidia, there are tons of shops we can access. Enter the Sweet Co. HQ in the former Yureyu building. Talk to someone behind the desk to get a *Sweet Application*. 
+
+Enter the building to the right on Saffron Street. After seeing a conversation, talk to the girl to learn about the invisible obstacles in Beryl. We can't do anything about it yet though. The person at the top will give us the *Silph Application*. 
+
+In the building to the right you can get a *Medicine Application*. 
+
+Madame Meganium's Shop
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Energy Root*      |$800           |
+|*Energy Powder*    |$500           |
+|*Heal Powder*      |$450           |
+|*Revival Herb*     |$2800          |
+|*Power Herb*       |$1000          |
+|*White Herb*       |$1000          |
+
+You can buy the Energy Root and White Herb for the Spyce if needed.
+
+While we were gone we got two stickers, so we can access some new floors of the Department Store.
+
+Department Store 9F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Fire Stone*   |$2100          |
+|*Water Stone*  |$2100          |
+|*Leaf Stone*   |$2100          |
+|*Thunder Stone*|$2100          |
+|*Moon Stone*   |$2100          |
+|*Sun Stone*    |$2100          |
+|*Dusk Stone*   |$2100          |
+|*Dawn Stone*   |$2100          |
+|*Shiny Stone*  |$2100          |
+
+Department Store 9F Right Shop
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Link Stone*       |$4000          |
+|*Ice Stone*        |$2100          |
+|*PP Up*            |$10000         |
+|*Up-Grade*         |$2100          |
+|*Prism Scale*      |$2500          |
+|*Oval Stone*       |$2100          |
+|*Amplified Rock*   |$3000          |
+|*TM22 Solar Beam*  |$15000         |
+
+Department Store 10F Left Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Ultra Potion* |$1200          |
+|*Max Repel*    |$900           |
+|*Full Restore* |$3000          |
+|*Ultra Ball*   |$1200          |
+|*Revive*       |$1500          |
+
+Department Store 10F Right Shop
+
+|Item           |Price          |
+|---------------|---------------|
+|*Liechi Berry* |$1200          |
+|*Ganlon Berry* |$1200          |
+|*Salac Berry*  |$1200          |
+|*Petaya Berry* |$1200          |
+|*Apicot Berry* |$1200          |
+|*Lum Berry*    |$800           |
+|*Jaboca Berry* |$1200          |
+|*Rowap Berry*  |$1200          |
+|*Custap Berry* |$1200          |
+
+You can buy a Custap Berry for the Spyce if you need. You can also buy the good standard items, some decent berries, and tons of useful evolution items! 
+
+Enter the Obsidia Daycare. In exchange for $100000 you'll be able to use an incubator - which instantly generates and hatches eggs. Extremely useful. An NPC in the Pokemon Center will then tell you about the password *earlyincu*. 
+
+Inside the Cafe Salon, you can pick up a *Salon Application*. 
+
+Enter the Critical Capture building. You can pick up a *Critical Application*. There is also a new clerk here.
+
+Critical Capture Shop Left Clerk
+
+|Item           |Price      |
+|---------------|-----------|
+|*Repeat Ball*  |$1000      |
+|*Luxury Ball*  |$1000      |
+|*Dusk Ball*    |$1000      |
+|*Heal Ball*    |$300       |
+|*Quick Ball*   |$1300      |
+|*Dream Ball*   |$1000      |
+|*Cherish Ball* |$200       |
+|*Level Ball*   |$1300      |
+|*Lure Ball*    |$300       |
+
+Talk to the other person in here and he will take the Corrupted Poke Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
+
+Enter the Sweet Kiss Candy store.
+
+Sweet Kiss Top Clerk Shop
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Whipped Dream*    |$1000      |
+|*Peppermint*       |$600       |
+|*Chewing Gum*      |$800       |
+|*Pop Rocks*        |$750       |
+|*Salt-Water Taffy* |$850       |
+|*Red-Hots*         |$850       |
+|*Cotton Candy*     |$5000      |
+|*Sweet Heart*      |$100       |
+
+Buy the Sweet Heart for Spyce.
+
+Enter the Obsidia Alleyway next.
+
+Neo Obsidia Alleyway
+
+|Cave              |%  |
+|------------------|---|
+|Yungoos           |20 |
+|Poochyena         |20 |
+|Zangoose          |10 |
+|Stunky            |10 |
+|Gumshoos          |10 |
+|Mightyena         |10 |
+|Litleo            |8  |
+|Liepard           |5  |
+|Skuntank          |5  |
+|**Pyroar**        |2  |
+
+Inside you'll learn about the password *nuzlocke*. You can also find a hidden *Revive*. 
+
+## Neo South Obsidia Ward & Neo Coral Ward
+
+Head into South Obsidia. 
+
+Neo South Obsidia Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Buneary           |20 |Buneary           |20 |Hoothoot          |20 |
+|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
+|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
+|Sentret           |10 |Venonat           |10 |Oddish            |10 |
+|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
+|Sunflora          |10 |Sunflora          |10 |Noctowl           |10 |
+|Weepinbell        |5  |Lopunny           |8  |Sudowoodo         |5  |
+|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
+|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
+|Lopunny           |4  |Vigoroth          |2  |Roselia           |4  |
+|Vigoroth          |2  |                  |   |Venomoth          |2  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |
+|------------------|---|
+|Tentacool         |60 |
+|Wingull           |30 |
+|Tentacruel        |5  |
+|Pelipper          |4  |
+|Mantine           |1  |
+
+
+You'll be able to find hidden *PP Up* and *Blue Shard* in the ward. You can also enter the Glamazonia Salon to get a *Glamazonia Application*. 
+
+Go south into Coral. 
+
+Coral Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Wingull           |20 |Wingull           |20 |Hoothoot          |20 |
+|**Snubbull**      |20 |**Snubbull**      |20 |**Snubbull**      |20 |
+|**Lombre**        |10 |**Lombre**        |10 |**Lombre**        |10 |
+|Bibarel           |10 |Bibarel           |10 |Bibarel           |10 |
+|Pelipper          |10 |Pelipper          |10 |Noctowl           |10 |
+|Surskit           |10 |Surskit           |10 |Surskit           |10 |
+|Skitty            |5  |Skitty            |5  |Skitty            |5  |
+|**Mime Jr.**      |5  |Spoink            |5  |Spoink            |5  |
+|**Masquerain**    |4  |**Masquerain**    |4  |**Masquerain**    |4  |
+|**Granbull**      |4  |**Granbull**      |4  |**Granbull**      |4  |
+|**Delcatty**      |1  |**Delcatty**      |1  |**Delcatty**      |1  |
+|**Mr. Mime**      |1  |**Grumpig**       |1  |**Grumpig**       |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |
+|------------------|---|
+|Tentacool         |60 |
+|Wingull           |30 |
+|Tentacruel        |5  |
+|Pelipper          |4  |
+|Mantine           |1  |
+
+You can find hidden *Green Shard*, *Fairy Gem*, *Magical Seed*, and *Max Repel*. 
+
+Enter the building in the upper right side. Danielle will give you another quiz! Feel free to go find the answers yourself if you'd like. Otherwise, here they are. 
+
+> 15, 30, 23, 0, 42, any answer
+
+Once you succeed, you'll get the *Fairy Tale Field Readout*. 
+
+Talk to one of the fisherman at the bottom of Coral Ward and agree to buy the *Slowpoke Tail* for the ridiculous price. Once he learns you're doing it for Spyce, you'll get it for free. 
+
+Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. Behind the bottom lighthouse is a hidden dive spot. 
+
+Coral Lighthouse, Coral Ward Diving, Azurine Lake Diving Interiors
+
+|Cave              |%  |
+|------------------|---|
+|**Frillish**      |20 |
+|Chinchou          |20 |
+|Pyukumuku         |20 |
+|Corsola           |14 |
+|**Wimpod**        |10 |
+|Remoraid          |5  |
+|Mareanie          |5  |
+|Skrelp            |5  |
+|**Golisopod**     |1  |
+
+You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and surface in the lighthouse. Up the ladder you can get a *Big Nugget*, *Jolly Mint*, and *Coral Key*. Make your way back to the bay and use the key on the other lighthouse door. Dive down and go left and prepare for a battle. 
+
+Pokemon Predators. Field: Underwater Field
+- Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+    - Aqua Tail
+    - Crunch
+    - Ice Fang
+    - Shell Smash
+- Gorebyss, Lv. 78, @Bright Powder, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/4/252/0
+    - Muddy Water
+    - Blizzard
+    - Rest
+    - Double Team
+
+This is a 6v2 fight that might kick your butt simply because Underwater Field allows these two to outspeed nearly every Pokemon you have and either hit hard with field boosted moves or set up with Shell Smash / Double Team. If you can control the speed somehow or have something bulky enough to hit back, you can find a way through this one.
+
+Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. 
+
+## Neo Onyx Ward
+
+Next, fly into Onyx Ward. You can find a hidden *Burn Heal*, *X Defend*, and *Red Shard*. A person in the upper left corner will also give you a *Full Restore*.
+
+Head up to the rooftop garden if you'd like. 
+
+Onyx Ward
+
+|Land (Morning/Day)|%  |Land (Night)      |%  |
+|------------------|---|------------------|---|
+|Spearow           |20 |Venonat           |20 |
+|Pidove            |20 |Hoothoot          |20 |
+|Bellsprout        |10 |Noctowl           |11 |
+|Venonat           |10 |Bellsprout        |10 |
+|Fearow            |10 |Murkrow           |10 |
+|Tranquill         |10 |Fearow            |10 |
+|Pichu             |5  |Pichu             |5  |
+|Weepinbell        |5  |Weepinbell        |5  |
+|**Pikachu**       |5  |**Pikachu**       |5  |
+|Venomoth          |4  |Venomoth          |4  |
+|Unfezant          |1  |                  |   |
+
+Enter the Onyx Trainer School and go all the way to the left. Talk to the girl here to get a *Sweet Heart*. On the second floor, enter the open double doors then go up the stairs to the third floor. Talk to the girl on the left. Return to the first girl and you'll get a *Incinium-Z*! 
+
+By now, we should be able to give all the ingredients to the Spyce. Once you do, you'll get 2 *Leftovers*! 
+
+## Neo Spinel Town & Chrysolia Spring
+
+That wraps up things in the city limits for right now, so fly over to Spinel Town. Enter the museum.
+
+Towards the top of the ground floor you'll see a new entrance to a gift shop. 
+
+Spinel Museum Gift Shop Left
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Black Belt*       |$9800      |
+|*Black Glasses*    |$9800      |
+|*Charcoal*         |$9800      |
+|*Dragon Fang*      |$9800      |
+|*Hard Stone*       |$9800      |
+|*Magnet*           |$9800      |
+|*Metal Coat*       |$9800      |
+|*Miracle Seed*     |$9800      |
+|*Mystic Water*     |$9800      |
+|*Never-Melt Ice*   |$9800      |
+
+Spinel Museum Gift Shop Middle
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Poison Barb*      |$9800      |
+|*Sharp Beak*       |$9800      |
+|*Silk Scarf*       |$9800      |
+|*Silver Powder*    |$9800      |
+|*Soft Sand*        |$9800      |
+|*Spell Tag*        |$9800      |
+|*Twisted Spoon*    |$9800      |
+|*Pixie Plate*      |$9800      |
+|*Thick Club*       |$9800      |
+
+Spinel Museum Gift Shop Right
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Dome Fossil*      |$9800      |
+|*Root Fossil*      |$9800      |
+|*Skull Fossil*     |$9800      |
+
+We also got a couple fossils while we were away - meaning we can now get the other one of  **Archen** or **Tirtouga** as well as **Aerodactyl**! 
+
+Make your way down to Chrysolia Forest and enter the Chrysolia Spring. 
+
+Chrysolia Spring 1F
+
+|Water             |%  |Super Rod         |%  |
+|------------------|---|------------------|---|
+|Shellos           |60 |**Slowpoke**      |40 |
+|Barboach          |30 |Gastrodon         |40 |
+|Gastrodon         |5  |Whiscash          |15 |
+|Whiscash          |4  |Quagsire          |4  |
+|Quagsire          |1  |Clawitzer         |1  |
+
+Surf across and push the first boulder out of the way and grab a hidden *Common Candy*. Towards the top, you'll need to push a boulder onto a nearby water stream, when you do so, it will make the other one larger. Surf onto that larger jet to be pushed up on a ledge! Grab the hidden *Red Shard* and *X Defend* then push the boulder into the hole. Grab the *Red Card* then jump down.
+
+Chrysolia Spring B1F, Chrysolia Spring Sauna
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |70 |Shellos           |60 |Slowpoke          |40 |
+|Barboach          |30 |Barboach          |20 |Gastrodon         |40 |
+|                  |   |Clauncher         |20 |Whiscash          |15 |
+|                  |   |                  |   |Quagsire          |4  |
+|                  |   |                  |   |Clawitzer         |1  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Oricorio          |20 |Shellos           |60 |
+|Numel             |20 |Barboach          |30 |
+|Panpour           |10 |Gastrodon         |5  |
+|Pansear           |10 |Whiscash          |4  |
+|**Noivern**       |10 |Quagsire          |1  |
+|Darumaka          |10 |                  |   |
+|**Torkoal**       |5  |                  |   |
+|Kecleon           |5  |                  |   |
+|Simisear          |4  |                  |   |
+|Simipour          |4  |                  |   |
+|Gastrodon         |1  |                  |   |
+|Camerupt          |1  |                  |   |
+
+Head up and grab the *Exp. Candy XL*. Next, go all the way down and take the large jet back to the first floor. Grab the hidden *Psychic Gem* then head back to B1F. 
+
+Essentially, this single boulder in the center can solve four different puzzles, each in a different corner of this room. 
+
+I will start with the top left direction. For this direction, you'll essentially need to push this boulder onto the nearby water stream... but despite being only 2 tiles away, we will need to push it the long way all the way around the lake here. Note that as you push the boulder, it will block your path at various points, and if you can't access the direction you need to push the boulder from, try surfing around to get it. Note that you can push it while you're surfing next to it, but can't push it into the surf water.
+
+This area contains a hidden *Elixir*, *Green Shard*, and *Rock Gem*. Once you successfully push the boulder into the final spot, step onto the tall water jet to return to 1F. You can get a hidden *Water Gem* here. Push the boulder in the top right corner onto the jet in the bottom left corner, then hop up the ledge and enter the cave. 
+
+Inside the sauna, if you want, you can blow away the steam with a wind-based move, but it's not necessary other than for visibility. You can get an *Exp. Candy XL*, *Timid Mint*, and the *Cameruptite* in here.
+
+Make your way back to B1F, this time doing the bottom left direction with the boulder. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
+
+In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole, get the hidden *Red Shard*, then go into the sauna. 
+
+Grab the *Modest Mint*. There are three jets in this room - the bottom one is inaccessible by boulders. Push the two boulders onto the other two, then go up the tall jet. Grab the *Exp. Candy XL* and *TM50 Overheat* here.
+
+Return to B1F, this time doing the top right direction with the boulder. Grab the hidden *Water Gem* here. You'll need to temporarily push the boulder up, surf across, and move another boulder out of the way in order to push the boulder down and onto the jet. 
+
+On 1F, grab the hidden *Dusk Ball*. Essentially 5 of these boulders are duds, and you'll need to get them out of the way of the single boulder that you can move onto the jet. Of the bottom right pair, it is the left one. Once you get it into place go up the jet and follow the path to the sauna.
+
+In here, you can get a *Jolly Mint*, *Red Flute*, *Big Nugget*, and *Exp. Candy XL*. 
+
+Make your way back to B1F, and finally push the boulder in the bottom right direction. You'll find a hidden *Big Pearl* and *Flame Plate* in this area. This puzzle should be straightforward by now, just note that you'll need to at some point surf across the rightmost pond and push the second boulder right to clear the path. Use the big jet to reach 1F.
+
+Up here, you can get a hidden *Awakening*. To finish this puzzle, you'll need to push the boulder counter-clockwise around this area to reach the jet. Follow the path to the final sauna. 
+
+This room has a lot of ledges, and is a bit chaotic. Clear the fog if you're confused. You'll find an *Exp. Candy XL*, *Adamant Mint*, *TM61 Will-o-Wisp*, as well as a hidden *Fire Gem*. Exit the Chrysolia Spring once you're done. 
+
+## Iolia Valley & Aventurine Woods Water Exploration
+
+Fly on over to the Vanhanen Castle and make your way to the Iolia Valley. 
+
+Iolia Valley
+
+|Water             |%  |Super Rod         |%  |
+|------------------|---|------------------|---|
+|Wailmer           |64 |Alomomola         |40 |
+|Lumineon          |30 |Luvdisc           |40 |
+|Seaking           |6  |Dewgong           |20 |
+
+Climb the waterfall at the top of the area, grab the hidden *Nugget*, and follow the path to get a *Dark Material*. Next, surf your way all the way down the valley. Use the green crystal beneath the waterfall to get *TM89 U-Turn*. 
+
+Exit the valley and return to Route 1. Grab a Tauros and head into the top right North Aventurine Woods entrance. 
+
+North Aventurine Woods 
+
+|Super Rod / Water |%  |
+|------------------|---|
+|Dewpider          |95 |
+|Araquanid         |5  |
+
+At the top, you can surf across to get the *Sharpedonite*!
+
+Make your way all the way to the left to the entrance of North Aventurine Woods that leads to Celestinine Mountain 2F. Across the ice and in the bottom left corner we can now surf on this body of water. You'll find a *Shoal Shell* and hidden *Revive* directly across. Dive down to the right.
+
+Down here, you'll find a hidden *Steel Gem*, 2 *Blue Shards*, *Ether*, and *Rare Candy*. You'll also find 5 *Exp. Candy XL* at the top. Towards the right, there is a door to a deeper cavern, surface to get a *Deep Sea Scale* and a *Big Nugget*. 
+
+That's it for this area right now! 
+
+## Neo Apophyll Beach
+
+Content (include pyrous charmander)
+
+## Azurine Lake
+
+Content
+
+## Trading Sequence Quest
+
+Content
+
+## Agate Circus Fishing
+
+need to include super rod for places like celestinine cascade and ametrine mt as well
+
+## Mega Z-Ring Quest
+
+Content
+
+## Devon Co?
+
+Content
+
+## Silvon Scope Quest
+
+Content
+
+## Amaranth Badge
+
+Content
+
+
+
 
 
 
