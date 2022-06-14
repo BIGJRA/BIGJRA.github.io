@@ -7136,7 +7136,9 @@ Grab the *Pearl* and hidden *Blue Shard* in here, then exit.
 
 Ok, with that out of the way, we can finally begin to explore Neo Reborn City - The entire city actually was renovated while we were away. Neat. Go ahead and fly there. 
 
-If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her, so I will pass on doing so for now.
+If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her, so I will pass on doing so for now. 
+
+Note that there are a ton of sidequests and main quests that will take us all over the city and to other areas beyond, so there isn't really a clean way to cover all of it without a bit of backtracking here and there. For now, I will take us through every ward one-by-one to cover everything we can get right now. Thankfully there are no more cracks in the streets and we can fly to any ward we choose, so that makes it simpler.
 
 Neo Opal Ward
 
@@ -7207,6 +7209,227 @@ Neo Peridot Ward, Neo Lower Peridot Ward
 |Tentacruel        |5  |Wormadam          |5  |Mothim            |5  |
 |Pelipper          |4  |Forretress        |4  |Forretress        |4  |
 |Mantine           |1  |Mothim            |1  |Wormadam          |1  |
+
+First, head up into the park to the right of the Pokemon Centerpokem to talk to Elder Seacrest. He will give us a quest: collect the four types of mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
+
+South Peridot Alley
+
+|Cave              |%  |
+|------------------|---|
+|Espurr            |20 |
+|Poochyena         |20 |
+|Zangoose          |10 |
+|Stunky            |10 |
+|Mightyena         |10 |
+|**Meowstic**      |10 |
+|Electrike         |8  |
+|**Liepard**       |5  |
+|Skuntank          |5  |
+|Manectric         |2  |
+
+Hidden here are *Dark Gem*, *Red Shard*, and *Flying Gem*.
+
+Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poke Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
+
+In the former Mosswater Factory there is now a market.
+
+Mosswater Market Move Tutor: Max
+
+|Move               |Price          |
+|-------------------|---------------|
+|Aqua Tail          |5 Blue Shards  |
+|Icy Wind           |6 Green Shards |
+|Signal Beam        |5 Purple Shards|
+|Throat Chop        |6 Red Shards   |
+
+Mosswater Market Move Tutor: Myles
+
+|Move               |Price          |
+|-------------------|---------------|
+|Drain Punch        |6 Blue Shards  |
+|Tailwind           |7 Green Shards |
+|Zen Headbutt       |5 Purple Shards|
+|Stealth Rock       |7 Red Shards   |
+
+There is also a guy selling a new item that will allow you to move all EV's from one stat into another. 
+
+Mosswater Market Tuner Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|5x EV Tuners   |$40000     |
+
+Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*. 
+
+Enter the building that Simon is in and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
+
+Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained a PULSE, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
+
+Enter the North Peridot Alleyway outside.
+
+North Peridot Alley
+
+|Cave              |%  |
+|------------------|---|
+|Espurr            |20 |
+|Poochyena         |20 |
+|Purrloin          |10 |
+|Zangoose          |10 |
+|Mightyena         |10 |
+|Meowstic          |10 |
+|Electrike         |8  |
+|Liepard           |5  |
+|Skuntank          |5  |
+|Manectric         |2  |
+
+You can find a hidden *Revive*.
+
+## Neo Jasper Ward and Malchous Forest
+
+That wraps up Peridot, so head into Neo Jasper Ward.
+
+Neo Jasper Ward
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Beedrill          |20 |Beedrill          |20 |Beedrill          |20 |
+|Vivillon          |20 |Vivillon          |20 |Noctowl           |20 |
+|Emolga            |10 |**Leavanny**      |10 |Parasect          |10 |
+|**Leavanny**      |10 |Growlithe         |10 |Growlithe         |10 |
+|Ledian            |10 |Carnivine         |10 |Carnivine         |10 |
+|Pidgeotto         |10 |Pidgeotto         |10 |Pidgeotto         |10 |
+|**Weepinbell**    |5  |Emolga            |5  |Ariados           |8  |
+|Gloom             |5  |Gloom             |5  |**Weepinbell**    |5  |
+|Mareep            |4  |Mareep            |4  |Gloom             |5  |
+|**Flaaffy**       |4  |**Flaaffy**       |4  |**Pidgeot**       |1  |
+|**Pidgeot**       |1  |**Pidgeot**       |1  |**Ampharos**      |1  |
+|**Ampharos**      |1  |**Ampharos**      |1  |                  |   |
+
+Hidden in the ward you'll find a *Cheri Berry*, *Rawst Berry*, and *Grass Gem*. 
+
+Inside the police station, talk to the chief to continue the stolen Pokemon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight. We'll find the other two later.
+
+Enter Malchous Forest to the left. 
+
+Malchous Forest Park
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Beedrill          |20 |Beedrill          |20 |Beedrill          |20 |
+|Vivillon          |20 |Vivillon          |20 |Noctowl           |20 |
+|Leavanny          |10 |Leavanny          |10 |Parasect          |10 |
+|**Lurantis**      |10 |**Lurantis**      |10 |**Lurantis**      |10 |
+|Ledian            |10 |Carnivine         |10 |Carnivine         |10 |
+|Pidgeotto         |10 |Pidgeotto         |10 |Pidgeotto         |10 |
+|Weepinbell        |5  |Weepinbell        |5  |Ariados           |8  |
+|Gloom             |5  |Gloom             |5  |Weepinbell        |5  |
+|Mareep            |4  |Mareep            |4  |Gloom             |5  |
+|Flaaffy           |4  |Flaaffy           |4  |Pidgeot           |1  |
+|Pidgeot           |1  |Pidgeot           |1  |Ampharos          |1  |
+|Ampharos          |1  |Ampharos          |1  |                  |   |
+
+Later on, we'll need a Male Lurantis and a Female Lurantis for a quest, so it might be a good opportunity to get those now. 
+
+You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. The former gym has been replaced with soft soil to grow berries in - to start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
+
+## Neo Beryl Ward
+
+Head into Beryl next. Go right across the Beryl Bridge. If you show the Yureyu Key we got earlier to the tech guy near the power plant, you'll get a *Zap Plate*. 
+
+Neo Beryl Ward
+
+|Land (Morning/Day)|%  |Land (Night)      |%  |
+|------------------|---|------------------|---|
+|Fearow            |20 |Hoothoot          |20 |
+|Arbok             |20 |Arbok             |20 |
+|Teddiursa         |10 |Meowth            |20 |
+|Bunnelby          |10 |Noctowl           |15 |
+|Phanpy            |10 |Teddiursa         |10 |
+|Doduo             |10 |Persian           |9  |
+|Dodrio            |9  |Ursaring          |6  |
+|Donphan           |5  |                  |   |
+|Diggersby         |4  |                  |   |
+|Ursaring          |2  |                  |   |
+
+You'll notice that there are a ton of invisible obstacles all over Beryl and the surrounding areas, but we can't do anything about them right now. Still, we can maneuver around many of them to get some goodies.
+
+Hidden in Beryl you can get a *Poison Gem*, *Blue Shard*, *Magical Seed*, *Red Shard*, and the *Gooey Mulch* in the central park. 
+
+Neo Beryl Ward (Hill)
+
+|Land (Morning/Day)|%  |Land (Night)      |%  |
+|------------------|---|------------------|---|
+|Fearow            |20 |Hoothoot          |20 |
+|Arbok             |20 |Arbok             |20 |
+|Teddiursa         |10 |Noctowl           |15 |
+|Bunnelby          |10 |Teddiursa         |10 |
+|Phanpy            |10 |Shuppet           |10 |
+|Doduo             |10 |Drifloon          |10 |
+|Dodrio            |9  |Persian           |5  |
+|Donphan           |5  |**Banette**       |4  |
+|Diggersby         |4  |**Drifblim**      |4  |
+|Ursaring          |2  |Ursaring          |2  |
+
+|Headbutt Rare     |%  |Headbutt Common   |%  |
+|------------------|---|------------------|---|
+|Pineco            |30 |Pineco            |30 |
+|Aipom             |25 |Aipom             |25 |
+|Burmy             |20 |Burmy             |20 |
+|Wormadam          |10 |Mothim            |10 |
+|Forretress        |10 |Forretress        |10 |
+|Ambipom           |5  |Ambipom           |5  |
+
+On the hill by Corey's gym you can find a hidden *Purple Shard* and *HP Up*.
+
+Neo Beryl Cemetery
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Fearow            |20 |Fearow            |20 |Hoothoot          |20 |
+|Arbok             |20 |Arbok             |20 |Arbok             |20 |
+|Teddiursa         |10 |Teddiursa         |10 |Noctowl           |15 |
+|Bunnelby          |10 |Bunnelby          |10 |Teddiursa         |10 |
+|Phanpy            |10 |Phanpy            |10 |Shuppet           |10 |
+|Doduo             |10 |Doduo             |10 |Drifloon          |10 |
+|Donphan           |5  |Donphan           |5  |Persian           |5  |
+|Dodrio            |5  |**Fletchinder**   |5  |Banette           |4  |
+|Diggersby         |4  |Diggersby         |4  |Drifblim          |4  |
+|**Fletchinder**   |4  |Dodrio            |4  |**Talonflame**    |1  |
+|**Talonflame**    |1  |**Talonflame**    |1  |Ursaring          |1  |
+|Ursaring          |1  |Ursaring          |1  |                  |   |
+
+|Headbutt Rare     |%  |Headbutt Common   |%  |
+|------------------|---|------------------|---|
+|Pineco            |30 |Pineco            |30 |
+|Aipom             |25 |Aipom             |25 |
+|Burmy             |20 |Burmy             |20 |
+|Mothim            |10 |Wormadam          |10 |
+|Forretress        |10 |Forretress        |10 |
+|Ambipom           |5  |Ambipom           |5  |
+
+Before we leave, there are a few more things to do in Beryl. Enter the library and pick up the *Library Application* at the desk. This is the first of many applications we can grab to help us complete a sidequest later on. Upstairs you'll learn about the *monowoke* password. At the southwest corner of town, there is a shop run by the Inspector guy.
+
+The Emporium Shop
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|*Full Incense*         |$9600      |
+|*Lax Incense*          |$9600      |
+|*Luck Incense*         |$9600      |
+|*Odd Incense*          |$9600      |
+|*Pure Incense*         |$9600      |
+|*Rose Incense*         |$9600      |
+|*Sea Incense*          |$9600      |
+|*Wave Incense*         |$9600      |
+|*Rock Incense*         |$9600      |
+
+Next, enter Corey's gym. Use the card we got from behind Skuntank here to open a secret room containing 4 *EV Boosters* and a *Data Chip*. 
+
+## Neo Lapis Ward
+
+That wraps up the things on the west side of Reborn City, so fly over to Lapis next. 
+
+madame craudberry more like madame fraudberry
 
 
 
