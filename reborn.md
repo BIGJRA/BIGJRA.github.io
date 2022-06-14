@@ -6422,7 +6422,9 @@ Relationship Point Choices:
 Relationship Point Choices:
 - Talk to Hardy in Calcenon after fighting Blake (+1 Hardy)
 
-You can also head into Charlotte's gym - if you decided to 'cheat' and open the secret door earlier, you can now follow the path to get the *Charizardite X*.  
+You can also head into Charlotte's gym - if you decided to 'cheat' and open the secret door earlier, you can now follow the path to get the *Charizardite X*.
+
+Enter the house to the left of the gym if you refused to give Blake the Ruby Ring. Inside the bedroom you can get the *Shiny Charm*! If not, you'll be able to get it later on. 
 
 With that out of the way, return to the Circus. Enter the Big Top and talk to Samson in the back. Terra will go into the computer... So it's up to us to follow, so talk to Samson and go in.
 
