@@ -1,5 +1,5 @@
 014, 015, 017, 097, 109
-Apophyll Academy, Coral Ward, Apophyll Beach
+Apophyll Academy, Apophyll Beach, Coral Ward
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -100,7 +100,7 @@ Apophyll Cave 2F
 |Crustle           |1  |                  |   |
 
 033, 034, 035, 199, 201, 202, 203, 204
-Pyrous Mountain 3F, Pyrous Mountain 2F, Pyrous Mountain B1F, Pyrous Mountain 1F
+Pyrous Mountain 1F, Pyrous Mountain 2F, Pyrous Mountain 3F, Pyrous Mountain B1F
 
 |Cave              |%  |
 |------------------|---|
@@ -130,7 +130,7 @@ Obsidia Ward
 |                  |   |Sunflora          |5  |                  |   |
 
 037, 057
-Peridot Ward, Lower Peridot Ward
+Lower Peridot Ward, Peridot Ward
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -319,7 +319,7 @@ Rhodochrine Jungle
 |                  |   |Tangela           |5  |                  |   |
 
 151, 152
-Beryl Ward, Beryl Cemetery
+Beryl Cemetery, Beryl Ward
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -413,7 +413,7 @@ Grand Stairway B1F
 |Dunsparce         |1  |
 
 179, 512
-Grand Stairway B3F, Grand Stairway B2F
+Grand Stairway B2F, Grand Stairway B3F
 
 |Cave              |%  |
 |------------------|---|
@@ -433,7 +433,7 @@ Grand Stairway B3F
 |Unown             |100|
 
 184, 185, 186
-Beryl Cave B1F, Beryl Cave 1F, Beryl Cave B2F
+Beryl Cave 1F, Beryl Cave B1F, Beryl Cave B2F
 
 |Cave              |%  |
 |------------------|---|
@@ -530,7 +530,7 @@ Byxbysion Wasteland
 |Graveler          |5  |Inkay             |10 |
 
 214, 216, 217, 219
-Byxbysion Grotto, Hidden Tunnel, Byxbysion Tunnels
+Byxbysion Grotto, Byxbysion Tunnels, Hidden Tunnel
 
 |Cave              |%  |
 |------------------|---|
@@ -1017,7 +1017,7 @@ Route 3
 |                  |   |Absol             |1  |                  |   |
 
 364, 366, 373, 374, 375, 390
-Ametrine Mountain 3F, Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 4F, Ametrine Mountain 5F
+Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mountain 4F, Ametrine Mountain 5F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1041,7 +1041,7 @@ Ametrine Mountain 3F, Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mount
 |Snorunt           |4  |                  |   |
 
 371, 615, 616, 618
-Tanzan Mountain, Tanzan Depths
+Tanzan Depths, Tanzan Mountain
 
 |Cave              |%  |
 |------------------|---|
@@ -1074,7 +1074,7 @@ Celestinine Cascade
 |                  |   |Rhydon            |4  |                  |   |
 
 376, 377, 378
-Ametrine Mountain B2F, Ametrine Mountain B3F, Ametrine Mountain B1F
+Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1120,7 +1120,7 @@ Ametrine Mountain B4F
 |Snorunt           |4  |                  |   |
 
 380, 384, 385, 430
-Celestinine Mountain 2F, Celestinine Mountain 3F, Celestinine Mountain 1F
+Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain 3F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1143,7 +1143,7 @@ Celestinine Mountain 2F, Celestinine Mountain 3F, Celestinine Mountain 1F
 |Delibird          |1  |                  |   |
 
 381, 383
-Citrine Mountain 3F, Citrine Mountain 1F
+Citrine Mountain 1F, Citrine Mountain 3F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1187,7 +1187,7 @@ Citrine Mountain 2F
 |Beartic           |1  |                  |   |
 
 386, 387, 433, 434
-Celestinine Mountain B2F, Celestinine Mountain B1F
+Celestinine Mountain B1F, Celestinine Mountain B2F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1209,7 +1209,7 @@ Celestinine Mountain B2F, Celestinine Mountain B1F
 |Delibird          |1  |                  |   |
 
 389, 391, 392, 393, 394, 395, 397, 398, 399, 401, 403, 431
-Celestinine Mountain 2F, Ametrine Mountain B1F, Celestinine Mountain 1F, Ametrine Mountain 1F, Ametrine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F, Ametrine Mountain B3F, Ametrine Mountain B2F
+Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F, Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F
 
 |Land              |%  |
 |------------------|---|
@@ -1307,7 +1307,7 @@ Ametrine City
 |                  |   |Absol             |1  |                  |   |
 
 440, 441, 442
-Ametrine Mountain 8F, Ametrine Mountain 6F, Ametrine Mountain 7F
+Ametrine Mountain 6F, Ametrine Mountain 7F, Ametrine Mountain 8F
 
 |Cave              |%  |
 |------------------|---|
@@ -1410,7 +1410,7 @@ Chrysolia Forest
 |Altaria           |5  |                  |   |                  |   |
 
 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505
-Jasper Water Grid, Opal Water Grid, Lapis Water Grid, North Obsidia Water Grid, Coral Water Grid, Peridot Water Grid, Central Obsidia Water Grid, Water Treatment Center, Beryl Water Grid, Onyx Water Grid
+Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Grid, Lapis Water Grid, North Obsidia Water Grid, Onyx Water Grid, Opal Water Grid, Peridot Water Grid, Water Treatment Center
 
 |Land              |%  |
 |------------------|---|
@@ -1441,7 +1441,7 @@ Iolia Valley
 |Sableye           |100|
 
 513, 536, 538, 562, 564
-Apophyll Academy, Apophyll Beach, Opal Ward, Azurine Lake
+Apophyll Academy, Apophyll Beach, Azurine Lake, Opal Ward
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1511,7 +1511,7 @@ Obsidia Ward
 |Vigoroth          |2  |                  |   |Venomoth          |2  |
 
 522, 530
-Peridot Ward, Lower Peridot Ward
+Lower Peridot Ward, Peridot Ward
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1990,7 +1990,7 @@ Onyx Ward
 |Unfezant          |1  |                  |   |
 
 575, 576, 577, 578, 579, 608
-Coral Ward, Azurine Lake
+Azurine Lake, Coral Ward
 
 |Cave              |%  |
 |------------------|---|
@@ -2161,7 +2161,7 @@ Tanzan Depths
 |Excadrill         |1  |
 
 638, 639, 640, 641, 644, 647, 648, 650
-Teknite Cave 4F, Teknite Cave 3F, Teknite Cave 2F, Teknite Cave
+Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F
 
 |Cave              |%  |
 |------------------|---|
@@ -2240,7 +2240,7 @@ Teknite Cave 3-4F
 |Aggron            |1  |                  |   |
 
 651, 652, 653, 654, 655, 656, 657, 658, 659
-Sugiline Cave B1F, Sugiline Cave
+Sugiline Cave, Sugiline Cave B1F
 
 |Cave              |%  |
 |------------------|---|
@@ -2944,7 +2944,7 @@ Victory Road
 |Absol             |1  |
 
 786, 790, 791, 811
-Victory Road B2F, Victory Road B1F
+Victory Road B1F, Victory Road B2F
 
 |Cave              |%  |
 |------------------|---|
@@ -3106,7 +3106,7 @@ Victory Road B3F
 |Steelix           |1  |
 
 803, 807
-Victory Road B5F, Victory Road B4F
+Victory Road B4F, Victory Road B5F
 
 |Cave              |%  |
 |------------------|---|
@@ -3124,7 +3124,7 @@ Victory Road B5F, Victory Road B4F
 |Gallade           |1  |
 
 804, 808
-Victory Road B5F, Victory Road B4F
+Victory Road B4F, Victory Road B5F
 
 |Cave              |%  |
 |------------------|---|

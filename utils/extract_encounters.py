@@ -218,7 +218,7 @@ def write_to_file_2():
 
     for thing, l in s.items():
         codes = ', '.join([thing[0] for thing in l])
-        names = ', '.join(list(set([thing[1] for thing in l])))
+        names = ', '.join(sorted(list(set([thing[1] for thing in l]))))
         out.append(codes)
         out.append('\n')
         out.append(names)
