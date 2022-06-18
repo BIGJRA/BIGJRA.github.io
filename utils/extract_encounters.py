@@ -40,9 +40,9 @@ ENC_NAMES = {
     "HeadbuttLowHeadbuttHigh": "Headbutt"
 }
 
-
 def read_me(game_name='reborn'):
-    with open(f"utils\{game_name}_pbs\encounters.txt") as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'encounters.txt')
+    with open(filename) as f:
         data = f.read()
     return data
 

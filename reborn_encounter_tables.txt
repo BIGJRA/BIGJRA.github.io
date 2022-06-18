@@ -1,5 +1,5 @@
 014, 015, 017, 097, 109
-Coral Ward, Apophyll Beach, Apophyll Academy
+Apophyll Academy, Coral Ward, Apophyll Beach
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -100,7 +100,7 @@ Apophyll Cave 2F
 |Crustle           |1  |                  |   |
 
 033, 034, 035, 199, 201, 202, 203, 204
-Pyrous Mountain 3F, Pyrous Mountain 2F, Pyrous Mountain 1F, Pyrous Mountain B1F
+Pyrous Mountain 3F, Pyrous Mountain 2F, Pyrous Mountain B1F, Pyrous Mountain 1F
 
 |Cave              |%  |
 |------------------|---|
@@ -413,7 +413,7 @@ Grand Stairway B1F
 |Dunsparce         |1  |
 
 179, 512
-Grand Stairway B2F, Grand Stairway B3F
+Grand Stairway B3F, Grand Stairway B2F
 
 |Cave              |%  |
 |------------------|---|
@@ -433,7 +433,7 @@ Grand Stairway B3F
 |Unown             |100|
 
 184, 185, 186
-Beryl Cave B2F, Beryl Cave B1F, Beryl Cave 1F
+Beryl Cave B1F, Beryl Cave 1F, Beryl Cave B2F
 
 |Cave              |%  |
 |------------------|---|
@@ -530,7 +530,7 @@ Byxbysion Wasteland
 |Graveler          |5  |Inkay             |10 |
 
 214, 216, 217, 219
-Hidden Tunnel, Byxbysion Grotto, Byxbysion Tunnels
+Byxbysion Grotto, Hidden Tunnel, Byxbysion Tunnels
 
 |Cave              |%  |
 |------------------|---|
@@ -694,13 +694,13 @@ Lost Railcave
 
 |Cave              |%  |
 |------------------|---|
-|Kecleon           |29 |
+|Kecleon           |24 |
 |Graveler          |20 |
 |Noibat            |20 |
 |Sandshrew         |10 |
 |Onix              |10 |
+|Swinub            |10 |
 |Smeargle          |6  |
-|Swinub            |5  |
 
 260
 Tanzan Depths
@@ -1017,7 +1017,7 @@ Route 3
 |                  |   |Absol             |1  |                  |   |
 
 364, 366, 373, 374, 375, 390
-Ametrine Mountain 4F, Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mountain 5F
+Ametrine Mountain 3F, Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 4F, Ametrine Mountain 5F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1041,7 +1041,7 @@ Ametrine Mountain 4F, Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mount
 |Snorunt           |4  |                  |   |
 
 371, 615, 616, 618
-Tanzan Depths, Tanzan Mountain
+Tanzan Mountain, Tanzan Depths
 
 |Cave              |%  |
 |------------------|---|
@@ -1120,7 +1120,7 @@ Ametrine Mountain B4F
 |Snorunt           |4  |                  |   |
 
 380, 384, 385, 430
-Celestinine Mountain 1F, Celestinine Mountain 3F, Celestinine Mountain 2F
+Celestinine Mountain 2F, Celestinine Mountain 3F, Celestinine Mountain 1F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1178,7 +1178,7 @@ Citrine Mountain 2F
 |Cave              |%  |Water             |%  |
 |------------------|---|------------------|---|
 |Woobat            |30 |Golduck           |60 |
-|Swinub            |30 |Wishiwashi        |30 |
+|Bergmite          |30 |Wishiwashi        |30 |
 |Phanpy            |15 |Lumineon          |5  |
 |Cubchoo           |14 |Octillery         |5  |
 |Sandshrew         |5  |                  |   |
@@ -1187,7 +1187,7 @@ Citrine Mountain 2F
 |Beartic           |1  |                  |   |
 
 386, 387, 433, 434
-Celestinine Mountain B1F, Celestinine Mountain B2F
+Celestinine Mountain B2F, Celestinine Mountain B1F
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1209,7 +1209,7 @@ Celestinine Mountain B1F, Celestinine Mountain B2F
 |Delibird          |1  |                  |   |
 
 389, 391, 392, 393, 394, 395, 397, 398, 399, 401, 403, 431
-Celestinine Mountain B1F, Ametrine Mountain B3F, Ametrine Mountain 1F, Celestinine Mountain B3F, Ametrine Mountain B1F, Celestinine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B2F, Celestinine Mountain 2F
+Celestinine Mountain 2F, Ametrine Mountain B1F, Celestinine Mountain 1F, Ametrine Mountain 1F, Ametrine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F, Ametrine Mountain B3F, Ametrine Mountain B2F
 
 |Land              |%  |
 |------------------|---|
@@ -1241,7 +1241,7 @@ Celestinine Mountain 4F
 |Delibird          |1  |                  |   |
 
 400, 402, 435, 436
-Celestinine Mountain B2F, Ametrine Mountain B2F
+Ametrine Mountain B2F, Celestinine Mountain B2F
 
 |Land              |%  |
 |------------------|---|
@@ -1410,7 +1410,7 @@ Chrysolia Forest
 |Altaria           |5  |                  |   |                  |   |
 
 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505
-Onyx Water Grid, Lapis Water Grid, Beryl Water Grid, Peridot Water Grid, Water Treatment Center, Coral Water Grid, Central Obsidia Water Grid, Opal Water Grid, Jasper Water Grid, North Obsidia Water Grid
+Jasper Water Grid, Opal Water Grid, Lapis Water Grid, North Obsidia Water Grid, Coral Water Grid, Peridot Water Grid, Central Obsidia Water Grid, Water Treatment Center, Beryl Water Grid, Onyx Water Grid
 
 |Land              |%  |
 |------------------|---|
@@ -1441,7 +1441,7 @@ Iolia Valley
 |Sableye           |100|
 
 513, 536, 538, 562, 564
-Apophyll Academy, Opal Ward, Apophyll Beach, Azurine Lake
+Apophyll Academy, Apophyll Beach, Opal Ward, Azurine Lake
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1892,7 +1892,7 @@ Beryl Cemetery
 |Ambipom           |5  |Ambipom           |5  |
 
 563, 568
-Pyrous Mountain, Apophyll Beach
+Apophyll Beach, Pyrous Mountain
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -1989,8 +1989,8 @@ Onyx Ward
 |Venomoth          |4  |Venomoth          |4  |
 |Unfezant          |1  |                  |   |
 
-575, 576, 577, 578, 579, 608, 610
-Coral Lighthouse, Coral Ward, Azurine Lake
+575, 576, 577, 578, 579, 608
+Coral Ward, Azurine Lake
 
 |Cave              |%  |
 |------------------|---|
@@ -2068,7 +2068,31 @@ Azurine Island
 |Mantine           |1  |Mothim            |5  |
 |                  |   |Forretress        |5  |
 
-603, 604, 605
+603, 604
+Azurine Cave
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Noibat            |20 |Sealeo            |60 |
+|Binacle           |20 |Wingull           |30 |
+|Krabby            |10 |Tentacruel        |5  |
+|Corphish          |10 |Pelipper          |4  |
+|Shellos           |10 |Mantine           |1  |
+|Gastrodon         |10 |                  |   |
+|Crawdaunt         |9  |                  |   |
+|Kingler           |9  |                  |   |
+|Barbaracle        |1  |                  |   |
+|Noivern           |1  |                  |   |
+
+605
 Azurine Cave
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
@@ -2106,6 +2130,22 @@ Tanzan Cove
 |Basculin          |6  |
 |Luvdisc           |4  |
 
+610
+Coral Lighthouse
+
+|Cave              |%  |
+|------------------|---|
+|Frillish          |20 |
+|Chinchou          |20 |
+|Pyukumuku         |20 |
+|Corsola           |14 |
+|Wimpod            |10 |
+|Remoraid          |5  |
+|Mareanie          |5  |
+|Skrelp            |4  |
+|Toxapex           |1  |
+|Golisopod         |1  |
+
 614
 Tanzan Depths
 
@@ -2121,7 +2161,7 @@ Tanzan Depths
 |Excadrill         |1  |
 
 638, 639, 640, 641, 644, 647, 648, 650
-Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F
+Teknite Cave 4F, Teknite Cave 3F, Teknite Cave 2F, Teknite Cave
 
 |Cave              |%  |
 |------------------|---|
@@ -2200,7 +2240,7 @@ Teknite Cave 3-4F
 |Aggron            |1  |                  |   |
 
 651, 652, 653, 654, 655, 656, 657, 658, 659
-Sugiline Cave, Sugiline Cave B1F
+Sugiline Cave B1F, Sugiline Cave
 
 |Cave              |%  |
 |------------------|---|
@@ -2218,7 +2258,7 @@ Sugiline Cave, Sugiline Cave B1F
 |Cacturne          |1  |
 
 661, 662
-Sugiline Ruin B1F, Sugiline Ruin
+Sugiline Ruin, Sugiline Ruin B1F
 
 |Cave              |%  |
 |------------------|---|
@@ -2922,7 +2962,7 @@ Victory Road B2F, Victory Road B1F
 |Steelix           |1  |
 
 788, 792
-Victory Road 2F, Charous Mountain
+Charous Mountain, Victory Road 2F
 
 |Cave              |%  |
 |------------------|---|
@@ -3056,7 +3096,7 @@ Victory Road B3F
 |Luxray            |20 |
 |Crobat            |10 |
 |Houndoom          |10 |
-|Dusclops          |10 |
+|Xatu              |10 |
 |Ampharos          |10 |
 |Salazzle          |5  |
 |Arcanine          |5  |
@@ -3132,7 +3172,7 @@ Victory Road B5F
 |Dragalge          |10 |
 |Golurk            |5  |
 |Sableye           |5  |
-|Dusclops          |4  |
+|Xatu              |4  |
 |Espeon            |4  |
 |Tsareena          |1  |
 |Houndoom          |1  |
@@ -3700,13 +3740,13 @@ Cauldron of the Future
 |------------------|---|
 |Hakamo-o          |20 |
 |Malamar           |20 |
-|Golduck           |10 |
+|Aerodactyl        |10 |
 |Bruxish           |10 |
-|Shiinotic         |10 |
+|Blacephalon       |10 |
 |Liepard           |10 |
 |Jellicent         |5  |
 |Celesteela        |5  |
-|Aerodactyl        |4  |
+|Type: Null        |4  |
 |Guzzlord          |4  |
 |Kommo-o           |2  |
 
@@ -3879,6 +3919,12 @@ Rhodochrine Tree
 |Dustox            |4  |
 |Sceptile          |1  |
 |Decidueye         |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Staryu            |100|Starmie           |100|Starmie           |95 |
+|                  |   |                  |   |Froakie           |4  |
+|                  |   |                  |   |Frogadier         |1  |
 
 894
 Endgame
