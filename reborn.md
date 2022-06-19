@@ -144,8 +144,10 @@ Heavy Work In Progress :)
   - [Iolia Valley & Aventurine Woods Water Exploration](#iolia-valley--aventurine-woods-water-exploration)
   - [Neo Apophyll Beach](#neo-apophyll-beach)
   - [Azurine Lake](#azurine-lake)
+  - [Neo Azurine Island](#neo-azurine-island)
   - [Trading Sequence Quest](#trading-sequence-quest)
   - [Agate Circus Fishing](#agate-circus-fishing)
+  - [Beldum Quest](#beldum-quest)
   - [Mega Z-Ring Quest](#mega-z-ring-quest)
   - [Devon Co?](#devon-co)
   - [Silvon Scope Quest](#silvon-scope-quest)
@@ -3875,15 +3877,15 @@ Head back up and go left, continuing our linear travel through the teleporting t
 
 Lost Railcave
 
-|Cave                   |%  |
-|-----------------------|---|
-|Kecleon                |29 |
-|**Graveler-Alola**     |20 |
-|Noibat                 |20 |
-|Sandshrew              |10 |
-|Onix                   |10 |
-|**Smeargle**           |6  |
-|**Swinub**             |5  |
+|Cave              |%  |
+|------------------|---|
+|Kecleon           |24 |
+|**Graveler-Alola**|20 |
+|Noibat            |20 |
+|Sandshrew         |10 |
+|Onix              |10 |
+|**Swinub**        |10 |
+|**Smeargle**      |6  |
 
 Inside the railcave, start by entering the entrance that is not being pointed to by the three ends of the train tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* as well as **Eevee**!
 
@@ -7405,7 +7407,9 @@ Neo Malchous Forest Park
 
 Later on, we'll need a Male Lurantis and a Female Lurantis for a quest, so it might be a good opportunity to get those now. 
 
-You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. Make sure you don't sell the former. The abandoned gym has been replaced with soft soil to grow berries in - to start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
+You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. Make sure you don't sell the former. The abandoned gym has been replaced with soft soil to grow berries in. To start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
+
+You'll also find another guy who looks like Corin Rouge you can fight in the Forest Park!
 
 ## Neo Beryl Ward
 
@@ -7850,7 +7854,7 @@ Talk to one of the fisherman at the bottom of Coral Ward and agree to buy the *S
 
 Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. Behind the bottom lighthouse is a hidden dive spot. 
 
-Coral Lighthouse, Coral Ward Diving, Azurine Lake Diving Interiors
+Coral Ward Underwater, Azurine Lake Diving Interiors
 
 |Cave              |%  |
 |------------------|---|
@@ -7880,7 +7884,22 @@ Pokemon Predators. Field: Underwater Field
 
 This is a 6v2 fight that might kick your butt simply because Underwater Field allows these two to outspeed nearly every Pokemon you have and either hit hard with field boosted moves or set up with Shell Smash / Double Team. If you can control the speed somehow or have something bulky enough to hit back, you can find a way through this one.
 
-Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. 
+Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. There's also a slightly different encounter table here.
+
+Coral Lighthouse Underwater
+
+|Cave              |%  |
+|------------------|---|
+|Frillish          |20 |
+|Chinchou          |20 |
+|Pyukumuku         |20 |
+|Corsola           |14 |
+|Wimpod            |10 |
+|Remoraid          |5  |
+|Mareanie          |5  |
+|Skrelp            |4  |
+|**Toxapex**       |1  |
+|Golisopod         |1  |
 
 ## Neo Onyx Ward
 
@@ -8053,11 +8072,184 @@ That's it for this area right now!
 
 ## Neo Apophyll Beach
 
-Content (include pyrous charmander)
+Fly over to the Apophyll Academy and enter the academy. Talk to the girl in the first room to get the *Apophyll Application*. In the academy's center area you can find a hidden *Purple Shard*. 
+
+Head down into the meditation spot where we once met Kiki.
+
+Neo Apophyll Academy Meditation Area
+
+|Rock Smash        |%  |
+|------------------|---|
+|Geodude           |60 |
+|Shuckle           |30 |
+|Binacle           |5  |
+|Graveler          |4  |
+|**Barbaracle**    |1  |
+
+You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give candy when you beat them. Head up to the area surrounding the academy.
+
+Neo Apophyll Beach / Azurine Lake
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Sand              |%  |Water             |%  |Rock Smash        |%  |
+|------------------|---|------------------|---|------------------|---|
+|Sandygast         |40 |Tentacool         |60 |Krabby            |60 |
+|Wingull           |30 |Wingull           |30 |Corphish          |30 |
+|Pelipper          |20 |Tentacruel        |5  |Binacle           |5  |
+|Palossand         |10 |Pelipper          |4  |Kingler           |4  |
+|                  |   |Mantine           |1  |Barbaracle        |1  |
+
+In the map surrounding the academy, you'll be able to find 3 hidden *Shoal Shells* and a *Protein*, as well as hidden *Shoal Shell* and *Health Wing* above the academy.
+
+Head to the Apophyll Beach to the right side of the academy. On this map you'll be able to find a hidden *Calcium* and 5 *Shoal Shells*. Making our way to the map on the left side of the academy, we can get a hidden *Ultra Potion*, *Star Piece*, and *Rock Gem*. 
+
+Next, make your way all the way to the top of Pyrous Mountain. From the bottom of the lava crater we can actually fish.
+
+Pyrous Mountain Crater
+
+|Super Rod         |%  |
+|------------------|---|
+|**Charmander**    |95 |
+|**Charmeleon**    |4  |
+|**Charizard**     |1  |
 
 ## Azurine Lake
 
-Content
+Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation.
+
+Azurine Cave South
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Noibat            |20 |Tentacool         |60 |
+|Binacle           |20 |Wingull           |30 |
+|Krabby            |10 |Tentacruel        |5  |
+|Corphish          |10 |Pelipper          |4  |
+|Shellos           |10 |Mantine           |1  |
+|Gastrodon         |10 |                  |   |
+|Crawdaunt         |9  |                  |   |
+|Kingler           |9  |                  |   |
+|Barbaracle        |1  |                  |   |
+|Noivern           |1  |                  |   |
+
+Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hidden *Great Ball* and *Focus Sash*.
+
+Head down and to the right. You'll see a narrow strip of sand, which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area. 
+
+Azurine Lake Underwater
+
+|Land              |%  |
+|------------------|---|
+|Frillish          |20 |
+|Pyukumuku         |20 |
+|Wimpod            |10 |
+|Mareanie          |10 |
+|**Jellicent**     |10 |
+|Octillery         |10 |
+|Wailord           |5  |
+|Dhelmise          |5  |
+|**Eelektrik**     |5  |
+|Toxapex           |4  |
+|**Dragalge**      |1  |
+
+Hidden on this underwater map you can find a *Shoal Shell*, *Purple Shard*, *Awakening*, *Blue Shard*, *Ultra Potion*, and *Poke Ball*. You'll notice that the buildings around here are numbered, and many of them are locked, but some are not. Starting from the bottom, we will explore them.
+
+On the right side you can enter one house containing a *Relic Silver* as well as a hidden *Salt-Water Taffy* and the *F14 Key*. To the left and slightly up you'll find another unlocked building containing 5 *Exp. Candy XL* as well as a hidden *Blue Shard*. Up from here, you'll find a locked building called Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the *S9 Key* hidden. Up from here you'll find an open house containing a *Relic Copper* and the *F34 Key* hidden. 
+
+Make your way to the very bottom of the underwater area and use your new key on the corresponding building. Inside you can get a *Relic Copper* as well as a hidden *Water Gem* and the *F1 Key*. Make your way all the way to the top of the underwater area now and use the key to get a *Blue Flute*. 
+
+Surface somewhere in the upper part of the underwater map. You can find a hidden *Paralyze Heal* and 2 *Shoal Shells*.  
+
+That wraps up this section of the lake for now. Fly over to Coral Ward and surf west. Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*. You'll also be able to battle the third guy who looks like Corin Rouge here!
+
+From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks. Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here. 
+
+Inside the top house you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island.
+
+Return to the spot with the swimmer and the Corin Rouge faker, then make your way west (to the south is Azurine Island, which I'll cover later on). Once you hit a wall, a little bit down you'll see another strip of sand that you can land on. 
+
+Grab the hidden *Carbos* here and surf down and left. Before diving down, go to the left onto another sandy island to get a hidden *X Speed* and *Elixir*. At the top left corner is another 2-by-2 dive spot, so go down here to get a hidden *Super Repel* and *TM16 Light Screen*. 
+
+Now, return to the larger dive spot we previously skipped to reach the Sunrise Apartments area. Hidden on the underwater map you'll find a *Green Shard*, *Blue Shard*, *Big Pearl*, and *Purple Shard*. 
+
+The building in the bottom right side is unlocked, and you'll find a *Relic Copper* as well as a hidden *Green Shard* and the *S12 Key*. There is another unlocked house at the top containing a *Relic Silver*, and a hidden *Paralyze Heal* and the *K33 Key*. 
+
+Surface towards the top of the underwater area and go up and left to reach an island. Grab the *Water Stone* and hidden *Shoal Shell* it contains then surf up and to the right. You can get a hidden *Red Card* in the bottom right corner. Dive down here.
+
+On this map you can get a hidden *Green Shard*, *X Speed*, and *Red Shard*. We can unlock the S12 house all the way to the right to get a *Relic Copper* as well as a hidden *Green Shard* and the *S4 Key*. A nearby building is unlocked and contains a *Heart Scale* and hidden *Ice Heal*. Unlock the S9 building to the left to get the *Glalitite* and a hidden *Purple Shard*. You can unlock S4 in the bottom left to get *TM98 Power-Up-Punch* and a hidden *Escape Rope*. 
+
+Fly to Peridot Ward. Make your way to the building Simon is in and go south, and you'll be able to surf from here. Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way. 
+
+You'll be spit out right next to Apophyll Cave. Notice that there is a small path you can surf through to go up from here, so take it. At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening. Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island. 
+
+Dive down here into the Kingsbury Apartments area. Underwater you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*. 
+
+Now I will explore the buildings from the top. In the top left corner one is unlocked and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head right from here and enter an unlocked building to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building containing a *Relic Silver* as well as hidden *Red-Hots*, *Pokesnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
+
+Enter the building to the left to get a hidden *Blue Shard*, *Purple Shard* and the *K5 Key*. Left and up from here you can enter the K22 building to get a *Relic Copper* as well as a hidden *Blue Shard* and the *K2 Key*. Head all the way up in the underwater section and enter K2 to get the hidden *F10 Key*. Around to the right you can enter K5 and get a *Max Revive*. Nice.
+
+Next, in the underwater section, on the left side of the loop you'll notice a bright 2-by-2 spot. Surface here specifically and surf around to the other side, grabbing the hidden *Level Ball*. Enter this cave. 
+
+Azurine Cave North
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Noibat            |20 |Sealeo            |60 |
+|Binacle           |20 |Wingull           |30 |
+|Krabby            |10 |Tentacruel        |5  |
+|Corphish          |10 |Pelipper          |4  |
+|Shellos           |10 |Mantine           |1  |
+|Gastrodon         |10 |                  |   |
+|Crawdaunt         |9  |                  |   |
+|Kingler           |9  |                  |   |
+|Barbaracle        |1  |                  |   |
+|Noivern           |1  |                  |   |
+
+Past a hidden *Genius Wing* you'll see a Pyukumuku atop a hill, who we can battle.
+
+High King of the Pyukumuku. Field: Cave Field
+- Pyukumuku, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/100/0/0/160
+    - Recover
+    - Soak
+    - Toxic
+    - Block
+
+An annoying set that might ruin your team if you're unprepared! Taunt and Toxic completely shut it down, however.
+
+Beyond, you'll get *TM59 Brutal Swing*. Head up the waterfall. You can get an *Exp. Candy XL* up here as well as a hidden *Hyper Potion*. Atop another waterfall is a hidden *Icicle Plate*. You'll notice that we can't access the other room thanks to a strong current - we'll need to transform the Water Surface into the Icy Field! You can use Blizzard yourself or surf until you find a wild Sealeo and hope that it uses it.
+
+Enter the cave once it freezes over and you can get the *Aloraichium-Z* as well as the *Audinite*. You can also get a hidden *Exp. Candy L* and *Level Ball*. 
+
+Exit this cave, and make your way back into the large underwater area. Now, surf to the bottom left corner of the area. Enter the unlocked house at the bottom to get a *Relic Copper*. Hidden here is a *Purple Shard* and the *Diamond Ring*, an item we will use for a sidequest in a few subsections. Back outside, surface in this corner of the underwater map. On the left you'll notice a 2-by-2 dive spot that will lead you to the *Altarianite*. 
+
+There is one more thing we can do in these apartment areas: we have one key remaining. Fly back to the Apophyll Academy and make your way east onto the sand strip to re-enter the Fairview Apartments area. Towards the top on the right side underwater you'll find the F10 building which contains the *Beedrillite*! 
+
+## Neo Azurine Island
+
+To finish off our exploration of the Azurine Lake, we will next check out Azurine Island. Surf west from Coral Ward and go down when you're able to to reach Azurine Island once more. 
 
 ## Trading Sequence Quest
 
@@ -8066,6 +8258,10 @@ Content
 ## Agate Circus Fishing
 
 need to include super rod for places like celestinine cascade and ametrine mt as well
+
+## Beldum Quest 
+
+Content
 
 ## Mega Z-Ring Quest
 
