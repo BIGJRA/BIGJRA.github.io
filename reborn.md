@@ -149,7 +149,7 @@ Heavy Work In Progress :)
   - [Agate Circus Fishing](#agate-circus-fishing)
   - [Beldum Quest](#beldum-quest)
   - [Mega Z-Ring Quest](#mega-z-ring-quest)
-  - [Devon Co?](#devon-co)
+  - [Devon Corporation](#devon-corporation)
   - [Silvon Scope Quest](#silvon-scope-quest)
   - [Amaranth Badge](#amaranth-badge)
 - [Appendices](#appendices)
@@ -8532,7 +8532,7 @@ With all five Pokemon returned, return to DJ Arclight. Your prize will be the *M
 Relationship Point Choices:
 - Complete the Mega-Z Ring Quest (+2 Arclight)
 
-## Devon Co?
+## Devon Corporation
 
 With all of that content out of the way, we can finally proceed with the story! Return to the Grand Hall and talk to Ame. She'll task us with finding Arc, Victoria, and Adrienn.
 
@@ -8555,7 +8555,6 @@ We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the
 Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground-type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles.
 
 That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. Scale the building until you find yourself in a strange new place.
-
 
 ## Silvon Scope Quest
 
