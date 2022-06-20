@@ -7567,6 +7567,8 @@ Seventh Street Pokemon Seller Move Tutor
 |Zen Headbutt       |6 Green Shards |
 |Liquidation        |6 Blue Shards  |
 
+Enter the watering hole and go down the now-open ladder. This is a shortcut to the Water Treatment Center and also contains a *Black Flute*. 
+
 You can also talk to your gang leader to learn the purpose of the applications, but regardless of your gang you can't complete this quest yet, so we'll come back later.
 
 ## Neo North Obsidia Ward
@@ -8249,15 +8251,142 @@ There is one more thing we can do in these apartment areas: we have one key rema
 
 ## Neo Azurine Island
 
-To finish off our exploration of the Azurine Lake, we will next check out Azurine Island. Surf west from Coral Ward and go down when you're able to to reach Azurine Island once more. 
+To finish off our exploration of the Azurine Lake, we will next check out Azurine Island. Surf west from Coral Ward and go down when you're able to to reach Azurine Island once more.
+
+Neo Azurine Island
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Foongus           |20 |Foongus           |20 |Foongus           |20 |
+|Gloom             |20 |Gloom             |20 |Gloom             |20 |
+|Wooper            |10 |Wooper            |10 |Ariados           |10 |
+|Shellos           |10 |Shellos           |10 |Skorupi           |10 |
+|Yanma             |10 |Shelmet           |10 |Parasect          |10 |
+|Gastrodon         |10 |Gastrodon         |10 |Golbat            |10 |
+|Palpitoad         |5  |Palpitoad         |5  |Palpitoad         |5  |
+|Quagsire          |5  |Quagsire          |5  |Quagsire          |5  |
+|Amoonguss         |4  |Amoonguss         |4  |Amoonguss         |4  |
+|**Yanmega**       |4  |**Accelgor**      |4  |Drapion           |4  |
+|**Vileplume**     |1  |**Vileplume**     |1  |**Vileplume**     |1  |
+|**Seismitoad**    |1  |**Seismitoad**    |1  |**Seismitoad**    |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Tentacool         |60 |Burmy             |30 |
+|Wingull           |30 |Exeggcute         |30 |
+|Tentacruel        |5  |Pineco            |25 |
+|Pelipper          |4  |Wormadam          |5  |
+|Mantine           |1  |Mothim            |5  |
+|                  |   |Forretress        |5  |
+
+Note that there are many Foongus and Amoonguss disguised as items, but fighting them now can save you some time for a later sidequest. 
+
+Just for fun, I will change it up and do a counter-clockwise spiral inwards this time to get all the items.
+
+Snag a *Tiny Mushroom* and hidden *Clever Wing* on the first island. Surfing to the left you can get a hidden *Big Mushroom*. Surf down from here and pick up the *Tiny Mushroom* towards the bottom left side of the area. Another *Tiny Mushroom* is to the right, and yet another *Tiny Mushroom* past the building to the right. You'll also find a hidden *X Sp. Def* here.Continuing our trip around the outside, you'll find a hidden *Elemental Seed* in a shrub. Above you can get a hidden *Blue Shard*. Towards the top of the loop, you can get a *Tiny Mushroom* and a hidden *Telluric Seed*.
+
+Now, head down to the middle island and cut the tree. Follow the path right and defeat the Foongus and jump down the ledge. To the right you'll find a hidden *Resist Wing*. Head right more from here and surf down, defeating Foongus as you go. Head left from here. Pick up a *Tiny Mushroom* as well as a hidden *Tiny Mushroom* to the left in a rock. Left from here is a hidden *Repel*. That does it for this island, for now.
 
 ## Trading Sequence Quest
 
-Content
+Now, it's time to do something with the Diamond Ring we found underwater. Fly over to Jasper Ward and enter the top left building. Inside, give the girl here the ring we found to get the *Classified Information*. 
+
+Next, head over to Peridot Ward and enter the building to the left of the North Peridot Alley. Defeat the cop inside and after a conversation you'll get the *Pink Pearl*. Grab the *Mind Plate* behind.
+
+Fly over to Coral Ward and enter the northern warehouse. Talk to the girl with Spoink to get the *Crystal Ball*. 
+
+Fly over to Jasper once more and attempt to enter the building on the right side of the area. Defeat the two trainers who challenge you, then enter the building. In the room at the top you can get a *Yellow Flute* and the *Starlight Arena Field Readout*. Head upstairs and talk to the lady to get the *'R' Key*! You can also talk to her again for some lore.
+
+Head into the Blacksteam Shelter in Peridot Ward. In the room where we were once stuck in a cage, talk to Randall and return his key. In return, you'll get his **Klefki**!
+
+You'll notice that our new Pokemon is actually holding the *Sanctum Key*. Head back down to Seventh Street with this key in your bag, and return to the subseven sanctum. In the mazelike room, enter the door on the left side with the key. Pick up the *Dark Material* and 3 *Exp. Candy XL*. Read the green books for some lore and note the colors of the Arceus statues on the left for later, then head out. That's it for this questline right now!
 
 ## Agate Circus Fishing
 
-need to include super rod for places like celestinine cascade and ametrine mt as well
+With the Super Rod in our bag, there are some new Pokemon we can get in the circus-and-beyond area. Fly back to the Agate Circus. You can get a *Circus Application* towards the top of the area while you're here. For completeness here are all of the encounters:
+
+Celestinine Cascade
+
+|Super Rod         |%  |
+|------------------|---|
+|Wishiwashi        |40 |
+|Lumineon          |40 |
+|**Shellder**      |15 |
+|Dewgong           |4  |
+|Octillery         |1  |
+
+Ametrine Mountain 1F / 2F / 3F / 4F / 5F
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Seadra            |40 |
+|Shellder          |15 |
+|Qwilfish          |4  |
+|Basculin          |1  |
+
+Ametrine Mountain B1F / B2F / B3F
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Seadra            |40 |
+|Shellder          |16 |
+|Qwilfish          |4  |
+
+Celestinine Mountain 1F / 2F / 3F
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Clauncher         |40 |
+|Shellder          |15 |
+|Qwilfish          |4  |
+|Basculin          |1  |
+
+Celestinine Mountain B1F / B2F
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Clauncher         |40 |
+|Shellder          |16 |
+|Qwilfish          |4  |
+
+Celestinine Mountain 4F
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Clauncher         |40 |
+|Shellder          |15 |
+|Feebas            |5  |
+
+Citrine Mountain 
+
+|Super Rod         |%  |
+|------------------|---|
+|Octillery         |40 |
+|Clauncher         |40 |
+|Shellder          |15 |
+|Qwilfish          |5  |
+
+Water Treatment Center 
+
+|Super Rod         |%  |
+|------------------|---|
+|Muk-Alola         |44 |
+|Swalot            |40 |
+|Tentacool         |15 |
+|Tentacruel        |1  |
 
 ## Beldum Quest 
 
