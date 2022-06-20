@@ -8390,15 +8390,172 @@ Water Treatment Center
 
 ## Beldum Quest 
 
-Content
+Time for a weird one.
+
+Fly over to the Byxbysion Wasteland. Inside the hideout, drop all but 1 Pokemon in the PC - we are going to intentionally white out in a second, so this will save us a lot of time. If they have Memento or Explosion that's extra good, but make sure they are strong enough to also defeat a Level 47 Bouffalant.
+
+Talk to the malfunctioning healing machine and plug in a data chip to fix it. Heal at this machine.
+
+Fly over to Route 1 Nature Center and defeat a Bouffalant to climb a Tauros. Next, you'll need to white out while riding Tauros - fighting another Tauros or Bouffalant may make this easier.
+
+Once you reappear in Lana's house... you'll somehow still be on your Tauros, but I assure you this is not a bug but a feature. 
+
+Exit the building and go down. Hop down the ledge beyond the rock smash, and climb up the nearby ledge. Enter the cave and go into the secret path behind the left canister. Follow this path to the left and climb the ledge and push the boulder to reach the area where we once found Squirtle.
+
+From here, climb the ledges up and to the right to reach the previously unreachable cave entrance. Climb the ladder and go up the ledge. Grab the *Big Nugget*, save, and talk to the broken canister at the top for a battle with a Lv. 1 **Beldum**. You'll have to be careful to not let it knock itself out with Take Down. Its low catch rate will also complicate things, so reset if you need to.
+
+Once you're done, head outside and ditch Tauros. Thanks, Tauros! 
 
 ## Mega Z-Ring Quest
 
-Content
+There's one more major quest that we can take care of! If we skip this section and proceed with the story, this will actually be locked of for us for another two badges or so, so take care of this now if you don't wanna miss this excellent reward. 
+
+Head over to the Nightclub in North Obsidia. You'll see DJ Arclight inside if you've bought all of the Pokemon from the Seventh Street Pokemon seller. If not, now's a good time to get them all. Anyways, we'll be tasked with returning five of the Pokemon that we found then.
+
+Head to Jasper Ward and take the Loudred out of the PC. Talk to the person in the bottom left two times and she will take back her Loudred.
+
+Next, take Jigglypuff out of the PC and head over to the North Peridot Alley. Talk to the bottom guy a few times and defeat him in battle. Afterwards, return to the Jasper Ward and give the Jigglypuff to the Loudred girl.
+
+Fly over to the Apophyll Academy and get Makuhita out of the PC next. Talk to the girl in the middle of the rooms on the left side of the outside area. Fly back to North Obsidia and talk to Arc to get the *DJ Arc Autograph* and give it to the girl at Apophyll. Talk to her again to give her Makuhita, then once more after that.
+
+Fly over to Spinel Town next and grab Roggenrola from the PC. Two buildings from the left of the museum, you'll find a guy who you can give Roggenrola back to. Talk to him again to get the *McKrezzy Autograph*. Return to the PC and prep your full team for battle, then talk to McKrezzy for a fight.
+
+Guitarist McKrezzy. Field: No Field
+- Incineroar, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Darkest Lariat
+    - Cross Chop
+    - Flare Blitz
+    - Outrage
+- Starmie, Lv. 77, @Damp Rock, Ability: Natural Cure, Timid Nature, IVs: 31
+    - Thunder
+    - Rain Dance
+    - Hydro Pump
+    - Ice Beam
+- Armaldo, Lv. 78, @Passho Berry, Ability: Swift Swim, Adamant Nature, IVs: 31
+    - Swords Dance
+    - X-Scissor
+    - Rock Slide
+    - Aqua Tail
+- Omastar, Lv. 78, @Focus Sash, Ability: Swift Swim, Modest Nature, IVs: 31
+    - Shell Smash
+    - Hydro Pump
+    - Ice Beam
+    - Hidden Power
+- Flygon, Lv. 77, @Muscle Band, Ability: Levitate, Jolly Nature, IVs: 31
+    - Dragon Claw
+    - Earthquake
+    - Dragon Dance
+    - Superpower
+- Staraptor, Lv. 79, @Fightinium-Z, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Roost
+    - Brave Bird
+    - Close Combat
+    - Tailwind
+
+He has a strong team but with no field, it shouldn't be too much to devise a strategy to defeat him. Note that his Staraptor can use a Z-Crystal.
+
+For winning, you'll get *TM15 Hyper Beam*. 
+
+Fly back to Apophyll and give Makuhita girl the autograph to get the *Headphones*, then go to Jasper Ward once more and give them to the Loudred girl. 
+
+Fly to Lapis Ward and enter the house to the left of the Pokemart. You'll learn that the lady's son has been kidnapped! Head back to the North Peridot Alley and talk to the Jigglypuff guy once more. 
+
+Fly over to Onyx Ward, prepare your team and save, then head to the rooftop. 
+
+Q Gang Colin and Q Gang Matthew. Field: No Field 
+- Weezing, Lv. 73, Ability: Levitate, Bold Nature, IVs: 31
+    - Destiny Bond
+    - Fire Blast
+    - Sludge Bomb
+    - Infestation
+- Mudsdale, Lv. 74, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31
+    - Superpower
+    - Heavy Slam
+    - Rock Slide
+    - High Horsepower
+- Zangoose, Lv. 76, @Toxic Orb, Ability: Toxic Boost, Jolly Nature, IVs: 31
+    - Close Combat
+    - Quick Attack
+    - Shadow Claw
+    - Swords Dance
+- Muk (Muk-Alola), Lv. 73, Ability: Power Of Alchemy, Calm Nature, IVs: 31
+    - Minimize
+    - Sludge Wave
+    - Fire Blast
+    - Giga Drain
+- Tsareena, Lv. 74, @Life Orb, Ability: Queen Majesty, Adamant Nature, IVs: 31
+    - Play Rough
+    - High Jump Kick
+    - Power Whip
+    - Knock Off
+- Lickilicky, Lv. 76, Ability: Own Tempo, Bashful Nature, IVs: 31
+    - Power Whip
+    - Muddy Water
+    - Blizzard
+    - Hammer Arm
+
+This battle isn't particularly tough and a few fast sweepers can probably bowl through them. The problem is that you don't get to heal before the next fight, so try to limit your casualties as much as possible for this fight.
+
+Mastermind Eustace. Field: No Field
+- Manectric, Lv. 81, @Choice Specs, Ability: Lightning Rod, Timid Nature, IVs: 31
+    - Volt Switch
+    - Flamethrower
+    - Thunderbolt
+    - Hidden Power
+- Sceptile, Lv. 81, @Sitrus Berry, Ability: Unburden, Jolly Nature, IVs: 31
+    - Swords Dance
+    - Leaf Blade
+    - Earthquake
+    - Rock Slide
+- Sharpedo, Lv. 82, @Life Orb, Ability: Speed Boost, Adamant Nature, IVs: 31
+    - Aqua Jet
+    - Waterfall
+    - Crunch
+    - Earthquake
+- Scizor, Lv. 83, Ability: Technician, Adamant Nature, IVs: 31
+    - U-turn
+    - Bullet Punch
+    - Superpower
+    - Thief
+- Alakazam, Lv. 84, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31
+    - Psychic
+    - Focus Blast
+    - Recover
+    - Charge Beam
+
+Again, this is made harder by the fact that you can't heal. His Pokemon are pretty much all of the fast sweeper variety, meaning Trick Room or Tailwind support for a strong attacker may be the key here. Watch out for Bullet Punch on Scizor.
+
+Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your party. Give it back to Eustace upstairs.
+
+With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. Of course, we will be getting more of these as well.
+
+Relationship Point Choices:
+- Complete the Mega-Z Ring Quest (+2 Arclight)
 
 ## Devon Co?
 
-Content
+With all of that content out of the way, we can finally proceed with the story! Return to the Grand Hall and talk to Ame. She'll task us with finding Arc, Victoria, and Adrienn.
+
+Arc can be found outside his nightclub, Victoria in the Beryl Cemetery, and Adrienn outside their gym in Coral. Talk to Ame again once you've gathered them.
+
+Enter the Underground Railnet and make your way to the room with the tracks that can be manipulated, then go into the second from the top path that leads to the room containing Aron - you'll know you're on the right track when you see an Absol. 
+
+Relationship Point Choices:
+- Tell Arclight you're ready to infiltrate Devon (+1 Victoria)
+- Tell Arclight you're not ready to infiltrate Devon (-1 Victoria, -1 Arclight)
+
+Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the grunts! Note that your battle partner is decided by how many points with each character you have right now: you'll get Victoria if her score is at least two points higher than Arclights, and him otherwise.
+
+Relationship Point Choices:
+- Battle with Victoria in the Devon Basement (+1 Victoria)
+- Battle with Arclight in the Devon Basement (+1 Arclight)
+
+We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*. 
+
+Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground-type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles.
+
+That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. Scale the building until you find yourself in a strange new place.
+
 
 ## Silvon Scope Quest
 
