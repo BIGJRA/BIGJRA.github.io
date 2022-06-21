@@ -8712,6 +8712,8 @@ Exit Devon and enter the actually-legitimate Silph building. Talk to the lady he
 
 Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get stopped by one feel free to destroy it for being in the way. Enter Rhodochrine Jungle next and make your way down to the Underroot.
 
+Head left underneath the waterfall, and continue going left until you run into *TM33 Reflect*!
+
 The Underroot
 
 |Water             |%  |Super Rod         |%  |
@@ -8757,7 +8759,7 @@ Kecleon Refugees. Field: Cave Field
     - Foul Play
     - Recover
     - Thunderbolt
-    - - Kecleon, Lv. 65, Serious Nature, IVs: 10
+- Kecleon, Lv. 65, Serious Nature, IVs: 10
     - Shadow Sneak
     - Ancient Power
     - Stealth Rock
@@ -8811,10 +8813,75 @@ Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Ch
 
 That's it for the side content, so head down to the Coral Ward and talk to Adrienn in their gym.
 
+Relationship Point Choices:
+- Say you will become the champion (+1 Adrienn)
+- Say you will not become the champion (-2 Adrienn)
 
+They will then ask us to help out with a quest. It's optional but pretty easy and gives you some rewards, so why not. We have to search Reborn City looking for volunteers to help out with city cleanup efforts. There are 15 people we can get in total:
 
+1. Coral Ward tunnel, brown-haired girl 
+2. Obsidia Ward Park, blue-haired girl against the right wall
+3. Onyx Arcade, yellow-haired guy wandering around on the right side
+4. South Obsidia Ward, yellow-haired guy in the bottom left corner
+5. Obsidia Alleyway, yellow-haired girl wandering around 
+6. North Obsidia Ward, blue-haired glasses guy near the stairway
+7. Lapis Ward, silver-haired girl in the park south of the PokeMart
+8. Lower Peridot Ward, brown-haired guy wandering around east of the train station
+9. Lower Peridot Ward, blue-hatted guy in the last building before the railnet
+10. Lower Peridot Alleyway, black-haired girl
+11. Blacksteam Shelter, black-haired guy on the couch on 1F in the bottom left corner
+12. Jasper Ward, light brown-haired girl in the building to the left of the police station
+13. Beryl Bridge, girl with blue ribbons on the left side of the bridge
+14. Beryl Ward, tan-hatted guy left of the gym
+15. Beryl Library, pink-haired child just above the entrance
 
+Return to Adrienn after finding as many volunteers as you like. For finding at least 10, you'll get *Wise Glasses*! For finding all 15, you'll also get an *Ability Capsule* and a *Star Piece*! 
 
+Relationship Point Choices:
+- Find 10-14 volunteers (+1 Adrienn)
+- Find all 15 volunteers (+2 Adrienn)
+
+With that out of the way, it's time for our 14th gym battle.
+
+Visionary Adrienn (3x Ultra Potion). Field: Misty Terrain atop Fairy Tale Field
+- Granbull, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Earthquake
+    - Close Combat
+    - Play Rough
+    - Rock Slide
+- Gardevoir, Lv. 77, @Wise Glasses, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 0/0/4/252/252/0
+    - Icy Wind
+    - Dazzling Gleam
+    - Psychic
+    - Focus Blast
+- Togekiss, Lv. 77, @Kebia Berry, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Aura Sphere
+    - Dazzling Gleam
+    - Flamethrower
+    - Psyshock
+- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/4/252/252/0
+    - Dazzling Gleam
+    - Tailwind
+    - Hurricane
+    - Nature Power
+- Mawile, Lv. 78, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Iron Head
+    - Play Rough
+    - Rock Slide
+    - Sucker Punch
+- Florges, Lv. 84, @Leftovers, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Dazzling Gleam
+    - Hidden Power
+    - Wish
+    - Nature Power
+
+Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokemon by 1.5x. Combine this with two Pokemon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy-type and Steel-type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
+
+Although this team on these fields is particularly stacked, you do have some options. For one, you can usually get a free boost on the first turn with Wide Guard thanks to Rock Slide/Earthquake and Dazzling Gleam being oft used moves. Consider changing the field at first to Corrosive Mist Field if you can - it will cripple their team, but you do have to use Clear Smog, Poison Gas, or Smog twice to make that work. What tends to work better though is leaning fully into the Fairy Tale Arena - you can blow the mist away yourself, then utilize boosted Steel moves to tear their team apart. Mawile is still a difficult threat to deal with, so if you can get around Mawile with some Steel attackers in the back, that may be a winning strategy.
+
+For winning, you'll get the Amaranth Badge which boosts our cap to 85. You'll also get *TM99 Dazzling Gleam*! 
+
+Before we leave the gym, head to the top of the room. You'll find a hidden *Heart Scale* up here. Heal up if you need to - if you've progressed the quest up to this point, you can also talk to the left side of the flowery 'X' to find Corin Rouge! Battle him.
 
 # Appendices
 
