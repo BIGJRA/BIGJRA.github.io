@@ -8556,6 +8556,89 @@ Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe t
 
 That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. Scale the building until you find yourself in a strange new place.
 
+Heal and prepare your team as necessary, then proceed to the right.
+
+Sensei Victoria. Field: Factory Field
+- Mienshao, Lv. 74, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Knock Off
+    - High Jump Kick
+    - U-turn
+    - Fake Out
+- Raichu (Raichu-Alola), Lv. 75, @Synthetic Seed, Ability: Surge Surfer, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Nuzzle
+    - Nasty Plot
+    - Psyshock
+    - Discharge
+- Gallade, Lv. 77, @Salac Berry, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Throat Chop
+    - Zen Headbutt
+    - Swords Dance
+    - Close Combat
+- Togekiss, Lv. 74, @King's Rock, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Dazzling Gleam
+    - Air Slash
+    - Aura Sphere
+    - Nasty Plot
+- Lucario, Lv. 76, @Wise Glasses, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Aura Sphere
+    - Flash Cannon
+    - Calm Mind
+    - Shadow Ball
+- Incineroar, Lv. 77, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Earthquake
+    - Knock Off
+    - Flare Blitz
+    - Outrage
+
+Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. By now you're probably well acquainted with the Factory Field by this point so you can exploit that to win if you're stuck, or really just overwhelm her with a coherent singles strategy like Trick Room or setting up a sweeper.
+
+Once you win, proceed to the next room at the top.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DJ Arclight. Field: Factory Field
+- Jolteon, Lv. 77, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Shadow Ball
+    - Signal Beam
+    - Hidden Power
+    - Discharge
+- Luxray, Lv. 75, @Amplifield Rock, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 0/252/0/252/0/0
+    - Electric Terrain
+    - Wild Charge
+    - Superpower
+    - Throat Chop
+- Raichu, Lv. 75, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/252/0/0
+    - Focus Blast
+    - Thunderbolt
+    - Hidden Power
+    - Nasty Plot
+- Exploud, Lv. 75, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/0/200/0
+    - Boomburst
+    - Ice Beam
+    - Earthquake
+    - Surf
+- Noivern, Lv. 76, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Dragon Pulse
+    - Boomburst
+    - Hurricane
+    - Heat Wave
+- Ampharos, Lv. 78, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/224/252/0
+    - Discharge
+    - Zap Cannon
+    - Dragon Pulse
+    - Agility
+
 ## Silvon Scope Quest
 
 Content
