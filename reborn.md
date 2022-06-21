@@ -152,6 +152,7 @@ Heavy Work In Progress :)
   - [Devon Corporation](#devon-corporation)
   - [Silvon Scope Quest](#silvon-scope-quest)
   - [Amaranth Badge](#amaranth-badge)
+- [Episode 17: Rust Thicker Than Water](#episode-17-rust-thicker-than-water)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -8882,6 +8883,8 @@ Although this team on these fields is particularly stacked, you do have some opt
 For winning, you'll get the Amaranth Badge which boosts our cap to 85. You'll also get *TM99 Dazzling Gleam*! 
 
 Before we leave the gym, head to the top of the room. You'll find a hidden *Heart Scale* up here. Heal up if you need to - if you've progressed the quest up to this point, you can also talk to the left side of the flowery 'X' to find Corin Rouge! Battle him.
+
+# Episode 17: Rust Thicker Than Water
 
 # Appendices
 
