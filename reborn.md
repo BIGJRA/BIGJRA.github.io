@@ -8183,7 +8183,7 @@ From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot betwe
 
 Inside the top house you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island.
 
-Return to the spot with the swimmer and the Corin Rouge faker, then make your way west (to the south is Azurine Island, which I'll cover later on). Once you hit a wall, a little bit down you'll see another strip of sand that you can land on. 
+Return to the spot with the swimmer, then make your way west (to the south is Azurine Island, which I'll cover later on). Once you hit a wall, a little bit down you'll see another strip of sand that you can land on. 
 
 Grab the hidden *Carbos* here and surf down and left. Before diving down, go to the left onto another sandy island to get a hidden *X Speed* and *Elixir*. At the top left corner is another 2-by-2 dive spot, so go down here to get a hidden *Super Repel* and *TM16 Light Screen*. 
 
@@ -8592,20 +8592,21 @@ Sensei Victoria. Field: Factory Field
 
 Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. By now you're probably well acquainted with the Factory Field by this point so you can exploit that to win if you're stuck, or really just overwhelm her with a coherent singles strategy like Trick Room or setting up a sweeper.
 
-Once you win, proceed to the next room at the top.
+Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
+Activate the first monitor, then go up and activate the monitor above. Use the purple pads to go back down and reactivate the first monitor, then go left. You'll be forced up, so activate the nearby monitor but then go towards the right.
 
+Once you enter the maxeline section, go up as soon as you are able, then go right. Heal if you want then go up, down, and right to reach another panel. Activate it.
 
+Follow the long green path back to the left. Go down, left, and up as soon as you're forced to. At the top left corner of the area you'll see some familiar four-direction panels. Essentially you can just cram yourself in at the top over and over until you emerge at the top right. Just be cautious of the electric tiles you'll be launched onto.
 
+You can turn off the electric tiles in the top right side of the area and proceed to the next section. Note you can buy Common Candies here if you need them.
 
+Relationship Point Choices:
+- Tell Arclight you will fight (+1 Victoria, +1 Arclight)
+- Tell Arclight you refuse (+2 Adrienn, -1 Victoria, -1 Arclight)
 
-
-
-
-
-
-
-
+Either way you have to fight.
 
 DJ Arclight. Field: Factory Field
 - Jolteon, Lv. 77, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
@@ -8639,13 +8640,176 @@ DJ Arclight. Field: Factory Field
     - Dragon Pulse
     - Agility
 
+Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric-type Pokemon, plus he might change the field to Electric Terrain. Most of his Pokemon are fast and use Special Moves - Luxray being a counterexample to the latter and Ampharos being a counterexample to the former. I'm sure you can find a way to emerge victorious.
+
+Note that we'll have a Light Shard later on in this room; since it can't fully knock you out, might as well ignore the tiles until then.
+
+Enter the next room. Go as left as you can, then go up-left on the spinner. Follow the path up and right, then down and left. Next go up-left on the spinner from the right and activate the panel. Head to the right on the now rightward pointing green belt.
+
+In this next area, go down-left on the spinner then loop back around above. Go down-right on the spinner this time, then go right twice, then left twice. You'll be able to grab the *PULSE Readout 1*. 
+
+You'll be forced to go down into the spinner again, so do our loop trick again to get to the mazelike section once more. This time go right and up, and enter the spinner from the bottom to turn it yellow. Make your way back down and do the loop trick again. This time go down towards the bottom spinner and make your way around it a few times so that you end up on its right side. Go up from here until you can go left, then cross the spinner to use the monitor.
+
+Sadly, you'll need to make your way all the way back through the spinners we've already visited to reach the top right corner of the room, this time going up and past the green belt. Activate this monitor then make your way back towards the left side of the room and go up when you can. Activate the two monitors beyond and follow the path to the stairs.
+
+In the next room, may the spirit of Budew bless us all.
+
+One more puzzle room for now. Follow the ropes to go up and pop out at the top on the left side, then go right back into the maze on the right side, going down, left, and up to the monitor. Follow the green rope to the right.
+
+Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend saving for just in case you get shocked by accident. Anyways, this next section mostly plays itself: activate monitors as you reach them and dive into the cycle of spinners! Just to save you the agony, switch the Blue tiles to be on as you do this first part. Activate the final two monitors, prepare your team, and head up.
+
+Relationship Point Choices:
+- Say you did come to destroy everything here (-1 Eve, -1 Lumi)
+- Say you didn't come to destroy everything here (+1 Eve, +1 Lumi)
+
+Meteor Admin ZEL (2x Ultra Potion). Field: Factory Field
+- Aurorus, Lv. 74, @Focus Sash, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Flash Cannon
+    - Stealth Rock
+    - Ice Beam
+    - Thunderbolt
+- Glaceon, Lv. 77, @Synthetic Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Blizzard
+    - Shadow Ball
+    - Yawn
+    - Wish
+- Alakazam, Lv. 74, @Twisted Spoon, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Psyshock
+    - Recover
+    - Shadow Ball
+    - Charge Beam
+- Espeon, Lv. 77, @Synthetic Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 252/4/0/252/0/0
+    - Dazzling Gleam
+    - Light Screen
+    - Reflect
+    - Psyshock
+- Umbreon, Lv. 77, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Double Team
+    - Wish
+    - Foul Play
+    - Toxic
+- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Magnet Pull, Timid Nature, IVs: 31, EVs: 252/0/0/0/252/4. Stat Spread: 70/70/160/70/230/140. Ability: Levitate.
+    - Magnet Bomb
+    - Discharge
+    - Autotomize
+    - Hidden Power
+
+Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic-type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is of course Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Of course, its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
+
+To win this one, I recommend figuring out how to position yourself around Magnezone then working backwards from there. For example, if you want to take it out with Special Fire-moves, figure out how to get the sun out beforehand. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it With only 70 base sweet and no EV's in this area, you'll find yourself likely able to outspeed, so placing one or two strong hits will really be the key. With a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest, you should be able to find a way through this one.
+
+Talk to Zel in the bottom right corner, then head out, press the panel, and go left. Press the final panel of the area, and exit back into Reborn City.
+
 ## Silvon Scope Quest
 
-Content
+With all that out of the way we can proceed to the next badge. There is one more quest that's opened up however that we can now do, so I'll cover that first. 
+
+Reenter the actual Devon Corp. building in Obsidia, and make your way upstairs. Now the floor tiles will be going crazy and you can't control them. Honestly, I recommend grabbing some potions and just healing once we reach the top, since we will only have to deal with a single battle against 3 Pokemon. You can even challenge yourself to see if you can win with 6 Pokemon at 1 HP.
+
+Past the guy at the top, you can pick up a *Devon Scope Model* as well as the *Electric Memory* and *TM81 X-Scissor*. 
+
+Exit Devon and enter the actually-legitimate Silph building. Talk to the lady here to get the *Silvon Scope*! 
+
+Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get stopped by one feel free to destroy it for being in the way. Enter Rhodochrine Jungle next and make your way down to the Underroot.
+
+The Underroot
+
+|Water             |%  |Super Rod         |%  |
+|------------------|---|------------------|---|
+|Psyduck           |60 |Seaking           |40 |
+|Lombre            |30 |Golduck           |40 |
+|Seaking           |5  |Whiscash          |15 |
+|Golduck           |4  |Dragalge          |5  |
+|**Ludicolo**      |1  |                  |   |
+
+Via following the path on the right side down, reach the large pool of water, then surf across. You'll find the *Blastoisinite* while you're here!
+
+Climb the waterfall and grab the hidden *Rock Gem*. Prepare your team and talk to the invisible object at the bottom of the stairs.
+
+Kecleon Refugees. Field: Cave Field
+- Kecleon, Lv. 67, Serious Nature, IVs: 10
+    - Foul Play
+    - Rock Tomb
+    - Dizzy Punch
+    - Icy Wind
+- Kecleon, Lv. 65, Serious Nature, IVs: 10
+    - Shadow Sneak
+    - Ancient Power
+    - Thunder Wave
+    - Sucker Punch
+- Kecleon, Lv. 64, Serious Nature, IVs: 10
+    - Thief
+    - Rock Tomb
+    - Fake Out
+    - Drain Punch
+- Kecleon, Lv. 66, Serious Nature, IVs: 10
+    - Dizzy Punch
+    - Rock Tomb
+    - Fake Out
+    - Knock Off
+- Kecleon, Lv. 68, Serious Nature, IVs: 10
+    - Sucker Punch
+    - Rock Slide
+    - Shadow Sneak
+    - Brick Break
+- Kecleon, Lv. 69, Serious Nature, IVs: 10
+    - Rock Slide
+    - Foul Play
+    - Recover
+    - Thunderbolt
+    - - Kecleon, Lv. 65, Serious Nature, IVs: 10
+    - Shadow Sneak
+    - Ancient Power
+    - Stealth Rock
+    - Sucker Punch
+- Kecleon, Lv. 66, Serious Nature, IVs: 10
+    - Dizzy Punch
+    - Rock Tomb
+    - Fake Out
+    - Hidden Power
+- Kecleon, Lv. 69, Serious Nature, IVs: 10
+    - Psybeam
+    - Foul Play
+    - Recover
+    - Aerial Ace
+- Kecleon, Lv. 64, Serious Nature, IVs: 10
+    - Thief
+    - Rock Tomb
+    - Fake Out
+    - Trick Room
+- Kecleon, Lv. 67, Serious Nature, IVs: 10
+    - Foul Play
+    - Rock Slide
+    - Dizzy Punch
+    - Flamethrower
+- Kecleon, Lv. 68, Serious Nature, IVs: 10
+    - Sucker Punch
+    - Rock Slide
+    - Recover
+    - Ice Beam
+
+So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's a good chance you can just one shot all of them, especially if you're using field-boosted Rock Slide. Be careful of their types changing and of course the seemingly endless uses of Fake Out and Sucker Punch, however.
+
+Purple Kecleon. Field: Cave Field
+- Purple Kecleon, Lv. 81, @Sitrus Berry, Ability: Color Change, Adamant Nature, IVs: 31, EVs: 252/4/0/252/0/0. Stat Spread: 130/120/90/95/60/130
+    - Recover
+    - Drain Punch
+    - Knock Off
+    - Rock Slide
+
+Of course, the cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. As before if you're struggling, I recommend having two or three Pokemon specifically chosen to deal with the first fight and the rest saved up to deal with this one, just in case.
+
+Past here you can get a hidden *Repel* as well as **Treecko**! 
+
+Escape back to Beryl Ward. We can now notably access the backrooms of the library once more. Enter the left room and press the books in a familiar order. 
+
+> That is, the order of the Arceus Statues in the Subseven Sanctum! So, Green, Red, Purple, Yellow, Blue, White
+
+Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst* which lets us catch Pokemon a bit easier. 
 
 ## Amaranth Badge
 
-Content
+That's it for the side content, so head down to the Coral Ward and talk to Adrienn in their gym.
 
 
 
