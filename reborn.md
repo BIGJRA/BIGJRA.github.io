@@ -153,6 +153,10 @@ Heavy Work In Progress :)
   - [Silvon Scope Quest](#silvon-scope-quest)
   - [Amaranth Badge](#amaranth-badge)
 - [Episode 17: Rust Thicker Than Water](#episode-17-rust-thicker-than-water)
+  - [Reborn Restoration Projects](#reborn-restoration-projects)
+    - [Affordable Living in Obsidia Project](#affordable-living-in-obsidia-project)
+    - [Railnet Reconstruction Project](#railnet-reconstruction-project)
+    - [Azurine Nature Center Project](#azurine-nature-center-project)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -8882,9 +8886,205 @@ Although this team on these fields is particularly stacked, you do have some opt
 
 For winning, you'll get the Amaranth Badge which boosts our cap to 85. You'll also get *TM99 Dazzling Gleam*! 
 
+# Episode 17: Rust Thicker Than Water
+
 Before we leave the gym, head to the top of the room. You'll find a hidden *Heart Scale* up here. Heal up if you need to - if you've progressed the quest up to this point, you can also talk to the left side of the flowery 'X' to find Corin Rouge! Battle him.
 
-# Episode 17: Rust Thicker Than Water
+Return to the north side of Peridot Ward and talk to the Corin Rouge lookalike here. He will jump on a train to escape! Darn.
+
+Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety Goggles*. This massive quest quest will be over soon, I swear.
+
+## Reborn Restoration Project 1
+
+Anyways, head over to the Grand Hall. One of the guys behind the desk will be accepting donations for one of three projects.
+
+We can only choose to fund one right now, then each of the other two as soon as we get the fifteenth and sixteenth gym badges respectively. You won't be missing out on anything in the long term depending on your choice here. If you want to make a more informed choice, read the following three subsections to see what the rewards are for each. 
+
+As soon as you fully fund a project, you will be able to access the Grand Hall basement, so head down there. The bottom room on the right contains an *Adamant Mint*, a *Modest Mint*, and 3 *Exp. Candy XL*. Next door you'll find 2 *EV Boosters*. 
+
+If you enter the room at the very top and talk to the computer, you can get a *Lopunnite* and unleash Vulpix. Do it even if you don't like Mega Lopunny, trust me. There is one more quest we can start in the basement but I will cover it a bit later.
+
+Anyways, the three options:
+
+- [Affordable Living in Obsidia](#affordable-living-in-obsidia-project) ($60000)
+- [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
+- [Azurine Nature Center](#azurine-nature-center-project) ($80000)
+
+### Affordable Living in Obsidia Project
+
+Donate the $60000 to fund this project. Head down to the South Obsidia Ward once you complete it, you'll notice that the whole area has been revamped and the Slums are no more.
+
+Neo South Obsidia Ward (Renovated)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Primeape          |30 |Watchog           |30 |Watchog           |30 |
+|Watchog           |25 |Crabrawler        |20 |Tranquill         |20 |
+|Crabrawler        |20 |Gumshoos          |14 |Pancham           |15 |
+|Machoke           |14 |Primeape          |10 |Gumshoos          |15 |
+|Unfezant          |6  |Machop            |10 |Primeape          |10 |
+|Gumshoos          |5  |Machoke           |10 |**Pangoro**       |10 |
+|                  |   |Unfezant          |6  |                  |   |
+
+You'll be able to find Berries growing at the bottom, namely 2 *Lansat Berries*, 2 *Apicot Berries*, 2 *Petaya Berries*, 2 *Salac Berries*, 2 *Ganlon Berries*, and 2 *Liechi Berries*.  
+
+Enter the building and talk to a guy behind the counter to get a *GUM Key*. You can also grab a *SOLICE Application* here, which we will need if we're doing the Magma Gang application quest.
+
+Outside, talk to the girl up and to the right of the SOLICE office and agree to help with her quest.
+
+Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're ready.
+
+Hard Hat Raph and Hard Hat Manwe. Field: Forest Field
+- Scizor, Lv. 74, @Leftovers, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Cut
+    - Tailwind
+    - Bullet Punch
+    - Bug Bite
+- Samurott, Lv. 75, @Expert Belt, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Cut
+    - Liquidation
+    - Megahorn
+    - Sacred Sword
+- Heracross, Lv. 76, @Life Orb, Ability: Swarm, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Cut
+    - Megahorn
+    - Close Combat
+    - Bulldoze
+- Breloom, Lv. 78, @Telluric Seed, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Mach Punch
+    - Seed Bomb
+    - Spore
+    - Cut
+- Farfetch'd, Lv. 100, @Stick, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Leaf Blade
+    - Night Slash
+    - Brave Bird
+    - Cut
+- Bisharp, Lv. 74, @Choice Band, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Cut
+    - Sucker Punch
+    - Iron Head
+    - Poison Jab
+- Torterra, Lv. 75, @Telluric Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 6/252/0/252/0/0
+    - Cut
+    - Rock Polish
+    - Earthquake
+    - Swords Dance
+- Scyther, Lv. 77, @Life Orb, Ability: Technician, Jolly Nature, IVs: 31, EVs: 6/252/0/252/0/0
+    - Cut
+    - Knock Off
+    - Bug Bite
+    - Aerial Ace
+- Hawlucha, Lv. 78, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 6/252/0/252/0/0
+    - Cut
+    - Acrobatics
+    - Flying Press
+    - High Jump Kick
+- Farfetch'd, Lv. 100, @Stick, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Leaf Blade
+    - Night Slash
+    - Brave Bird
+    - Cut
+
+Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokemon will be helpful here.
+
+Once you succeed, your next destination will be the Water Treatment Center. 
+
+Pokemon Stoplettes. Field: Factory Field
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Gunk Shot
+    - Pain Split
+    - Toxic
+    - Destiny Bond
+
+These things are tough but a powerful Ground-type sweeper can probably do the trick. Once you win, Sandy will leave.
+
+While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond.
+
+Essentially, we will need to move green sections of pipe into place so that they will complete the entire pipe circuit such that we end up in the upper right hand corner. This is a fun one to solve yourself, in my opinion, but here is a solution:
+
+- In the bottom left corner, move the vertical pipe to the right one tile, into place.
+- Head down from here and move the horizontal pipe up two tiles, into place.
+- Head all the way to the right side, as far right as you can go without moving more pipes. Up from here, push a horizontal pipe up two, out of its place for now. 
+- Grab *TM84 Poison Jab* here.
+- From here go straight down. Push the rightmost horizontal pipe down two spaces, again out of its final place for now.
+- Down from here, the left of the two vertical pipes can be pushed left two spaces, into place.
+- The pipe to the right, the other vertical pipe, can be pushed two spaces left as well, into place.
+- Up and slightly left from here you'll see a column of horizontal pipes. You can safely push the bottom-most one down four spaces, into place.
+- Go up and push the second-from-the-bottom horizontal pipe down four tiles, into place.
+- From here, up and left a few tiles is a vertical pipe. Pushing it four tiles would put it in place - push it six to the left for now to keep the corridor open.
+- For each of the next three horizontal pipes in the column, push them down two tiles each, into their respective places.
+- Next, make your way to the top-left side of the room. You'll notice two vertical pipes in a row at the top of the room, and below the right of the pair is another vertical pipe. Push this one left six times, into place.
+- Down from here is a horizontal pipe you can push three tiles down, into place.
+- The vertical pipe currently against the left wall is the first in a long row of vertical pipes. You can now safely push the second vertical pipe in this row left 8 times, into place.
+- Down and right from here you'll find a horizontal pipe that can be pushed down four times, into place.
+- Go straight up, and push the two vertical pipes along the top wall right four tiles respectively, into place for both.
+- You can now safely push the third in the long row of vertical pipes left six spaces, into place.
+- Go right and down. You'll see a horizontal pipe that you can push down four spaces into place. 
+- Down from here you can push another horizontal pipe up two spaces, into place.
+- Go up from here to return to the right side of the area. Up from the long column you'll find a U shaped alcove. Push the top-left vertical pipe two tiles right, out of place for now.
+- You'll now be able to push the fourth vertical pipe in the long row left four tiles, into place. 
+- Head down to the bottom right corner. Push the bottom right pipe up two tiles, into place. 
+- To escape from here, go up and left. You'll notice that we previously pushed this vertical pipe two spaces left of its place to escape, so now we can push it to the right now two spaces, into place.
+- Go up and back into the U-shaped alcove. Push the third and second vertical pipes from the right in the long row left four times respectively, into place.
+- Of the two horizontal pipes remaining nearby, push the bottom one two times, into place.
+- Push the final horizontal pipe down twice, into place.
+- Push the vertical pipe in the top left corner left twice, into place.
+- To escape the alcove, push the vertical pipe on the right side right twice. 
+- Only two pipes remain out of place: push them down twice and left twice to finish the puzzle!
+
+Talk to the computer in this area to get a **Goomy**! 
+
+If you push the nearby vertical pipe left two times to re-enter the U-shaped alcove, you can talk to the pipe on the wall to return to the front of the room. 
+
+With that out of the way, return to the Grand Hall basement. In the bottom right room, you'll find Sandy again. Talk to her in here... and after everything plays out, you'll get the *Waterium-Z*. Nice.
+
+That's it for this restoration project.
+
+### Railnet Reconstruction Project
+
+Donate the $100000 to fund this project.
+
+This section is a stub for now - I will complete it along with the E18 content.
+
+### Azurine Nature Center Project
+
+Donate the $80000 to fund this project.
+
+This section is a stub for now - I will complete it along with the E18 content.
+
+## Beginning the Starter Egg Quest
+
+## Gang Application Sidequest
+
+
+
+
 
 # Appendices
 
