@@ -1267,7 +1267,7 @@ Fern can be tough to defeat now that his Budew and Rowlet have evolved. Roselia 
 
 Before we continue to the gym, now is a good time to wrap up a couple of quests and areas. 
 
-First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1065 Coins for free.
+First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1125 Coins for free.
 
 Onyx Arcade Coin Shop
 
