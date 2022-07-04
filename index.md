@@ -2,6 +2,8 @@
 
 This site contains my full 100% walkthroughs for Pokemon Reborn and Pokemon Rejuvenation. The former is still a work in progress!
 
+Note that for many puzzles in Reborn especially I resort to text summaries in order to get a draft published, so if you are interested in submitting picture guides message me.
+
 Do you notice **inconsistencies** with style or formatting? Do you have **feature requests** and **ideas**? Do you see any **inaccuracies** with the content? Or, do you want to **contribute directly** to the site? 
 
 If so, message me on Discord: **BIGJRA#3883**.
