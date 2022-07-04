@@ -6397,32 +6397,32 @@ If you gave Blake the ring, skip ahead to the next section.
 Due to our actions we still don't have Waterfall, but there's an extra fight to compensate!
 
 Meteor Private Aster (2x Ultra Potion). Field: Icy Field
-- Solrock, Lv. 84, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
+- Solrock, Lv. 68, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
     - Stealth Rock
     - Reflect
     - Explosion
     - Light Screen
-- Golurk, Lv. 84, Ability: No Guard, Bashful Nature, IVs: 31
+- Golurk, Lv. 68, Ability: No Guard, Bashful Nature, IVs: 31
     - Dynamic Punch
     - Earthquake
-    - Thunder Punch
+    - Stone Edge
     - Shadow Punch
-- Krookodile, Lv. 85, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
+- Krookodile, Lv. 69, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
     - Earthquake
     - Outrage
     - Rock Slide
     - Foul Play
-- Passimian, Lv. 85, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Passimian, Lv. 69, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Close Combat
     - Earthquake
     - Rock Slide
     - Gunk Shot
-- Lycanroc (Lycanroc-Midday), Lv. 86, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Lycanroc (Lycanroc-Midday), Lv. 70, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Brick Break
     - Rock Slide
     - Crunch
     - Drill Run
-- Lycanroc (Lycanroc-Midnight), Lv. 88, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Lycanroc (Lycanroc-Midnight), Lv. 73, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
     - Thunder Punch
     - Stone Edge
     - Throat Chop
