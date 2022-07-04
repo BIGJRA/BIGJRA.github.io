@@ -153,10 +153,12 @@ Heavy Work In Progress :)
   - [Silvon Scope Quest](#silvon-scope-quest)
   - [Amaranth Badge](#amaranth-badge)
 - [Episode 17: Rust Thicker Than Water](#episode-17-rust-thicker-than-water)
-  - [Reborn Restoration Projects](#reborn-restoration-projects)
+  - [Reborn Restoration Project 1](#reborn-restoration-project-1)
     - [Affordable Living in Obsidia Project](#affordable-living-in-obsidia-project)
     - [Railnet Reconstruction Project](#railnet-reconstruction-project)
     - [Azurine Nature Center Project](#azurine-nature-center-project)
+  - [Beginning the Starter Egg Quest](#beginning-the-starter-egg-quest)
+  - [Gang Application Sidequest](#gang-application-sidequest)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -9078,13 +9080,23 @@ Donate the $80000 to fund this project.
 
 This section is a stub for now - I will complete it along with the E18 content.
 
-## Beginning the Starter Egg Quest
-
 ## Gang Application Sidequest
 
+Stub
 
+## Beginning the Starter Egg Quest
 
+Head into the Grand Hall basement and enter the middle room on the left side. Kanaya will task us with donating one egg of each of the 21 starter Pokemon! 
 
+Regardless of choices, it is guaranteed that you will have been able to obtain Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Mudkip, Turtwig, Piplup, Tepig, Chespin, Fennekin, and Popplio, bringing our total to a minimum of 13 starters so far. You can search the page for these events if you'd like to get them now.
+
+You may have Oshawott or Litten if you completed a gang sidequest, and you may also have Bulbasaur and Chimchar if you upgraded Azurine Island. Potentially you may also have one more starter, chosen at the very beginning, but for now I will just assume we have only the ones every player is guaranteed to have. Feel free to also donate these if you have them as well.
+
+If you have the incubator, doing this breeding shouldn't take too much time, so get eggs of these 13+ Pokemon now. For donating 3, 6, 9, and 12, we'll get the *Reset Disc- HP*, *Reset Disc- ATK*, *Reset Disc- DEF*, and *Reset Disc- SPATK*. These will help us reset EV's to zero, helpful if you want to completely change up how you're running a Pokemon or get rid of junk EV's from the beginning of the game. As we get more (guaranteed) starters, we'll come back.
+
+## Tourmaline Desert 
+
+Stub
 
 # Appendices
 
