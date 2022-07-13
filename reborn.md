@@ -3864,8 +3864,8 @@ Chrysolia Spring 1F
 |------------------|---|------------------|---|
 |Noibat            |20 |Shellos           |70 |
 |Numel             |20 |Barboach          |30 |
-|Panpour           |10 |
-|Pansear           |10 |
+|**Panpour**       |10 |
+|**Pansear**       |10 |
 |Oricorio          |10 |
 |Onix              |10 |
 |Kecleon           |10 |
@@ -4104,7 +4104,7 @@ Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena
 
 Serra is a tough gym leader that operates on a very unique field effect - instead of thinking about how to beat a Hail-team like you normally would, you really should study the field effect in detail to devise a strategy. Anyways, her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use your own screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers have a chance to hit anyways even when they miss - some attacks are even boosted, which explains why Serra has five special attackers. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast and like to try to crit you. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier, the latter two like to set up free 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice-type and uses the Mirror Arena to great effect.
 
-In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Wide Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel-type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
+In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel-type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
 
 It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra to play on a more even playing field. However:
 
@@ -4356,9 +4356,9 @@ Tanzan Depths (Main Areas)
 |Cave              |%  |
 |------------------|---|
 |Onix              |20 |
-|Geodude           |20 |
+|Geodude-Alola     |20 |
 |**Sandslash**     |14 |
-|Graveler          |10 |
+|Graveler-Alola    |10 |
 |Diglett           |10 |
 |Arbok             |10 |
 |**Hippopotas**    |6  |
@@ -4462,8 +4462,8 @@ South Aventurine Woods
 |Buneary           |20 |Pachirisu         |24 |Paras             |20 |
 |Ledyba            |20 |Buneary           |20 |Spinarak          |20 |
 |**Passimian**     |10 |**Passimian**     |10 |**Passimian**     |10 |
-|**Panpour**       |10 |**Panpour**       |10 |**Panpour**       |10 |
-|**Pansear**       |10 |**Pansear**       |10 |**Pansear**       |10 |
+|Panpour           |10 |Panpour           |10 |Panpour           |10 |
+|Pansear           |10 |Pansear           |10 |Pansear           |10 |
 |Pansage           |10 |Pansage           |10 |Pansage           |10 |
 |Pachirisu         |9  |**Bewear**        |6  |Ariados           |6  |
 |Ledian            |6  |**Sudowoodo**     |5  |**Kricketune**    |5  |
@@ -7203,7 +7203,7 @@ Tanzan Mountain Inner, Tanzan Depths Inner
 |Cave              |%  |
 |------------------|---|
 |Onix              |20 |
-|Graveler          |20 |
+|Graveler-Alola    |20 |
 |Durant            |14 |
 |**Drilbur**       |10 |
 |Sandslash         |10 |
