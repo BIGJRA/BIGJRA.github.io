@@ -3365,7 +3365,7 @@ Byxbysion Wasteland
 |Rock Smash        |%  |Headbutt          |%  |
 |------------------|---|------------------|---|
 |Geodude           |60 |Pineco            |75 |
-|Nincada           |35 |Unown             |15 |
+|**Nincada**       |35 |Unown             |15 |
 |Graveler          |5  |**Inkay**         |10 |
 
 In this first area you can find 2 hidden *Blue Shards*, *Green Shard*, *Potion*, *Telluric Seed*, and *Poison Gem*. Follow the ledge at the bottom and pick up a hidden *Full Heal* and *Red Shard*. A nearby slide will take you to a hidden *Green Shard* and *Escape Rope*. Read the grave while you're here to initiate a quest.
@@ -8904,7 +8904,13 @@ We can only choose to fund one right now, then each of the other two as soon as 
 
 As soon as you fully fund a project, you will be able to access the Grand Hall basement, so head down there. The bottom room on the right contains an *Adamant Mint*, a *Modest Mint*, and 3 *Exp. Candy XL*. Next door you'll find 2 *EV Boosters*. 
 
+Relationship Point Choices:
+- Talk to Victoria in the Grand Hall basement (+1 Victoria)
+
 If you enter the room at the very top and talk to the computer, you can get a *Lopunnite* and unleash Vulpix. Do it even if you don't like Mega Lopunny, trust me. There is one more quest we can start in the basement but I will cover it a bit later.
+
+Relationship Point Choices:
+- Fund Project #1 (+1 Adrienn)
 
 Anyways, the three options:
 
@@ -8990,6 +8996,9 @@ Hard Hat Raph and Hard Hat Manwe. Field: Forest Field
 
 Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokemon will be helpful here.
 
+Relationship Point Choices:
+- Help Sandy in Malchous Forest (-1 Adrienn)
+
 Once you succeed, your next destination will be the Water Treatment Center. 
 
 Pokemon Stoplettes. Field: Factory Field
@@ -9025,6 +9034,9 @@ Pokemon Stoplettes. Field: Factory Field
     - Destiny Bond
 
 These things are tough but a powerful Ground-type sweeper can probably do the trick. Once you win, Sandy will leave.
+
+Relationship Point Choices:
+- Help Sandy in the WTC (-1 Adrienn)
 
 While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond.
 
@@ -9122,7 +9134,115 @@ If you have the incubator, doing this breeding shouldn't take too much time, so 
 
 ## Tourmaline Desert 
 
-Stub
+Make your way to the train station in Lower Peridot Ward, and take the train out to the Tourmaline Desert.
+
+### Choice: Reshiram Route Taka Fight
+
+If you already fought Taka at the WTC, skip ahead to the next section. 
+
+If you didn't fight Taka at the WTC, now will be the time to fight him!
+
+Vagrant Scion Taka. Field: Desert Field
+- Chatot, Lv. 83, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Heat Wave
+    - Nasty Plot
+    - Hyper Voice
+    - Encore
+- Exeggutor (Exeggutor-Alola), Lv. 77, Ability: Harvest, Adamant Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Nature Power
+    - Dragon Hammer
+    - Earthquake
+    - Wood Hammer
+- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Substitute
+    - Thunder Wave
+    - Swagger
+    - Foul Play
+- Gliscor, Lv. 78, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Stealth Rock
+    - Earthquake
+    - U-turn
+    - Roost
+- Komala, Lv. 77, @Leftovers, Ability: Comatose, Careful Nature, IVs: 31, EVs: 248/0/8/0/0/252
+    - Wish
+    - Return
+    - Knock Off
+    - Bulk Up
+- Minior, Lv. 78, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Shell Smash
+    - Acrobatics
+    - Rock Slide
+    - Earthquake
+
+You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down, so this fight probably won't be too terrible for you. As always, beware of a Shell Smash Minior sweep.
+
+Relationship Point Choices:
+- Tell Taka that you will not keep on winning (+1 Taka)
+
+Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay pluses to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. However you will have to be careful that he doesn't knock out wild Pokemon you want to catch, though you can return later once he is no longer with you.
+
+**In order to access the exclusive postgame route, you need to allow Taka to join you.**
+
+It's worth noting that refusing him here sends you down a different story path than the Reshiram and Zekrom routes, often called the "Hell Route" by the community. (I've never played this route so if you notice inconsistencies with the guide on Hell Route please let me know.)
+
+Relationship Point Choices:
+- Don't allow Taka to come with you in the desert (-3 Taka)
+
+If he does join you, you'll lose points for leaving the desert while he's with you.
+
+Relationship Point Choices:
+- Leave the desert while Taka is your partner (-2 Taka)
+
+Once you make your choice, it's time to start exploring the desert...
+
+### Greater Tourmaline Desert
+
+So, the most dreaded part of writing this guide for me has finally arrived. I'll briefly explain the problem as well as my approach. Note that this all really doesn't matter much if you're not going out of your way to collect all the hidden items so you can just grab the items and Pokemon that you want and ignore the complications.
+
+Essentially the greater part of Tourmaline Desert is really huge. That alone makes it hard to point to specific items. However there are actually 4 versions of this large map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well. 
+
+What I recommend is exploring the map you have landed on first without touching any of the oases - touching the light shard nearby the oasis will switch the map you're on. Doing this exactly 3 times will switch a DIFFERENT desert map between two versions, but we don't want to do this just yet. I will number the four maps 1, 2, 3, 4. Note that when you switch the map you're on you'll go up one map number, wrapping map 4 back to map 1. 
+
+To find the map you're on to start, you'll want to find your oasis. I provide images of each oasis below.
+
+Oasis 1: On the upper/middle of the left side of the desert 
+<img src="/assets/media/reborn/oasis1.jpg"/>
+
+Oasis 2: Middle of the right side of the desert
+<img src="/assets/media/reborn/oasis2.jpg"/>
+
+Oasis 3: On the lower/middle of the left side of the desert
+<img src="/assets/media/reborn/oasis3.jpg"/>
+
+Oasis 4: Bottom of the right side of the desert
+<img src="/assets/media/reborn/oasis4.jpg"/>
+
+So, once you find the map you're on, now we can start getting things!
+
+Greater Tourmaline Desert
+
+|Super Rod         |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Gastrodon         |44 |Mandibuzz         |65 |
+|Shellos           |40 |**Gliscor**       |31 |
+|Bruxish           |16 |Skarmory          |4  |
+
+|Cave              |%  |
+|------------------|---|
+|Marowak           |4+ |
+|**Cacturne**      |4+ |
+|**Maractus**      |4+ |
+|**Krookodile**    |4+ |
+|Excadrill         |4+ |
+|Dugtrio           |4+ |
+|**Mandibuzz**     |4+ |
+|**Darmanitan**    |4+ |
+|**Heliolisk**     |4+ |
+|Hippowdon         |4+ |
+|**Skarmory**      |1  |
+|**Scrafty**       |1  |
+
+You can encounter the same Pokemon on the various maps but at different rates. Thankfully, with the Magnetic Lure, you will be able to get whatever you don't already have easily.
 
 # Appendices
 

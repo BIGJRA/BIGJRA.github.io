@@ -1132,7 +1132,7 @@ Meteor Admin Taka (2x Hyper Potion). Field:
 - Klefki, Lv. 40, Ability: Prankster, Bold Nature, IVs: 13
     - Spikes
     - Mirror Shot
-    -  Draining Kiss
+    - Draining Kiss
     - Foul Play
 - Exeggutor (Exeggutor-Alola), Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
     - Dragon Hammer
@@ -10038,7 +10038,7 @@ Wandering Spirit Zippo. Field:
     - Superpower
     - Pursuit
 
-Creeping Pokémon. Field: 
+Creeping Pokï¿½mon. Field: 
 - Shiinotic, Lv. 104, @Big Root, Ability: Effect Spore, Sassy Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Spore
     - Strength Sap
