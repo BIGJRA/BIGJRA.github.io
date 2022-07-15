@@ -2100,7 +2100,7 @@ Down from here there are essentially four paths we can take down the ledges. I s
 
 > The solution: use Magnitude or Bulldoze here on the field. Many of the wild Pokemon have one of these moves.
 
-Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out then go up the ladder at the top. You can find a hidden *Heart Scale* as well as a *Magical Seed* and a *Exp. Candy M*. Can't do anything else here so head up the next ladder. In here you can pick up an *Ability Capsule* and hidden *Exp. Candy M* and *Red Hots*. 
+Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out then go up the ladder at the top. You can find a hidden *Heart Scale* as well as a *Magical Seed* and a *Exp. Candy M*. Can't do anything else here so head up the next ladder. In here you can pick up an *Ability Capsule* and hidden *Exp. Candy M* and *Red-Hots*. 
 
 You'll notice that we're back on B1F, so head back down the ladder below. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll be on B1F.
 
@@ -9204,7 +9204,7 @@ So, the most dreaded part of writing this guide for me has finally arrived. I'll
 
 Essentially the greater part of Tourmaline Desert is really huge. That alone makes it hard to point to specific items. However there are actually 4 versions of this large map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well. 
 
-What I recommend is exploring the map you have landed on first without touching any of the oases - touching the light shard nearby the oasis will switch the map you're on. Doing this exactly 3 times will switch a DIFFERENT desert map between two versions, but we don't want to do this just yet. I will number the four maps 1, 2, 3, 4. Note that when you switch the map you're on you'll go up one map number, wrapping map 4 back to map 1. 
+What I recommend is exploring the map you have landed on first without touching any of the oases - touching the light shard nearby the oasis will switch the map you're on. Doing this exactly 3 times will switch a DIFFERENT desert map between two versions, but we don't want to do this just yet. I will number the four maps 1, 2, 3, 4. Note that when you switch the map you're on you'll go to a random, different number, so to be sure you'll have to search for the oasis every time. 
 
 To find the map you're on to start, you'll want to find your oasis. I provide images of each oasis below.
 
@@ -9245,7 +9245,54 @@ Greater Tourmaline Desert
 |**Skarmory**      |1  |
 |**Scrafty**       |1  |
 
+You'll also find many stationary **Exeggutor-Alola** around the desert.
+
 You can encounter the same Pokemon on the various maps but at different rates. Thankfully, with the Magnetic Lure, you will be able to get whatever you don't already have easily.
+
+First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, and finally grabbing whatever is in the center of the desert. 
+
+Note that Taka often has something to say when you find these if he is with you.
+
+- In the top left corner up on a hill, you can get hidden 3 *Exp. Candy XL*. 
+- As you climb down the top left hill, go slightly right as you head down. You'll see a *Stone Plate* on top of a hill.
+- On the left side, you can hop across some blocks after defeating some Exeggutor-Alola to get *TM72 Volt Switch*! 
+- In the bottom left corner of the desert, you'll be able to pick up a *Focus Sash*.
+- On the very bottom-middle of the desert you can find 6 *Poke Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
+- Hugging the right wall of the desert, you'll find a *Relic Copper*. 
+- Past Sugiline Cave, hugging the right wall and going up, you'll find a *Max Elixir* near some dead trees.
+- Up and to the right of the previous Max Elixir, you can find a hidden *Star Piece* in a rock.
+- In the far northeast side of the desert, you can climb a sand dune to get onto a hill. Up and to the right you'll find a hidden *Synthetic Seed*.
+- Pretty much in the center of the desert you'll see a broken statue. The main statue is too faded to read but the broken off gargoyle contains a hidden *Max Elixir*. 
+
+Aside from all these items, each of the four maps has its own list of hidden items. These aren't even particularly worth searching for but for completeness I list them here.
+
+**Map 1**
+
+- On the hill where we found the 3 Exp. Candies, you can find a hidden *Magical Seed*.
+- A hidden *Green Shard* is in a skull above the oasis.
+- A hidden *Liechi Berry*, *Elixir*, *Red Shard*, and *Resist Wing* are nearby the oasis, in the upper left side of the map below the hill.
+- East of the oasis in a dead tree is a *Telluric Seed*.
+- Down from the oasis is a cactus, containing a *Leaf Stone*.
+- Down from here, you'll eventually find the train station where we can return to Reborn City. Hidden on the station is *Red-Hots*.
+- Straight west from the station is a *Blue Shard*.
+- Down and left from here you'll see a tall pillar. Northwest of it, you can get a hidden *Common Candy* in a dead tree.
+- North and slightly west of the pile of Poke Balls in the south desert, you'll find a hidden *X Speed*.
+- Hugging the right side of the desert and going up, you'll see a small hill and a few patches of green. One contains a hidden *Great Ball*. 
+- On the east side of the map, southeast of the Sugiline Cave, you'll find a hidden *Purple Shard* in a desert rose flower. You'll know you're close when you see a bunch of desert rose trees.
+- Straight west and slightly up from the previous item, you can find a hidden *Tiny Mushroom* between some palm trees.
+- East of Sugiline Cave, you can find an *Exp. Candy XL*. 
+- In the northeast side of the desert map north of where we previously found the hidden Star Piece, you can get a hidden *Rawst Berry*.
+- Go straight up from here past the trains. You'll see a hidden *Full Heal* in a rock. 
+- A decent bit west of the previous item, you'll find a hidden *Fire Gem*. 
+- West of the here, you can find a *Dawn Stone* hidden in a rock.
+- Back on the left side of the desert, straight east of the Stone Plate rock, under some tracks you'll find a hidden *Fairy Gem*.
+- Going straight east from the Fairy Gem, past the fork in the tracks you'll see a large hill. On the other side is a skull containing a *Rare Bone*. 
+- Down and to the left from here, you'll lose the train tracks but will eventually find them again in the sand. Left of here in a patch of green, you can get a *Dire Hit*.
+
+**Map 2**
+
+- 
+
 
 # Appendices
 
