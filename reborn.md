@@ -9377,7 +9377,7 @@ Phew! That's everything we can grab in the Greater Tourmaline Desert.
 Note that if Taka is with you:
 
 Relationship Point Choices:
-- Talk to Taka in the Greater Tourmaline Desert while he's with you (+1 Taka)
+- Talk to Taka in the Tourmaline Desert while he's with you (+1 Taka)
 
 It's also worth noting that Taka has 36 different dialogues, some changing depending on your current location. If you talk to him in any location and he asks if you hate his father, you'll potentially get another point.
 
@@ -9434,7 +9434,7 @@ So, there are also multiple maps going on in the Northeast Tourmaline Desert, bu
 |Dugtrio           |10 |
 |Mandibuzz         |5  |
 |Darmanitan        |5  |
-|Lairon            |4  |
+|**Lairon**        |4  |
 |Hippowdon         |4  |
 |Skarmory          |1  |
 |Drapion           |1  |
@@ -9484,7 +9484,88 @@ After buying as much lemonade as you can carry if you'd like, head into the Mira
 
 ## Mirage Tower
 
-Stub
+Welcome to the Mirage Tower, one of my favorite side areas in the game. We can either climb the tower or access the secret basement. I will go with the basement first.
+
+To reach the basement, you'll need to smash every mirror along the top wall with Rock Smash. Doing this will hurt your party members, so healing them if you don't have Taka may be smart. Speaking of Taka:
+
+Relationship Point Choices:
+- Talk to Taka in the Mirage Tower while he's with you (+1 Taka)
+
+Anyways, head through the opened door to the basement.
+
+Mirage Tower B1F
+
+|Cave              |%  |
+|------------------|---|
+|**Marowak-Alola** |29 |
+|Sandslash         |24 |
+|Lairon            |10 |
+|Dusclops          |10 |
+|Dugtrio           |10 |
+|Cofagrigus        |10 |
+|Banette           |6  |
+|Excadrill         |1  |
+
+This is a dark, mazelike room. To progress you will sorta have to do a clockwise spiral outward, grabbing items as you go. Hidden in the basement you can find a *Super Potion*, 2 *Red Shards*, *Purple Shard*, *Ultra Ball*, *Green Shard*, *Cotton Candy*, *Ghost Gem*, *Great Ball*, and *Heart Scale*.
+
+Towards the top of the area, you'll notice a **Mimikyu** that you can battle and catch! Nearby it, you'll find the *Poison Memory* and a hidden *Elemental Seed*.
+
+Return to the Mirage Tower proper. Next, we will climb the tower, solving puzzles as we go! Note that your actions on the block will affect the other, but the blocks won't move if pushed against a barrier. I will put the solutions in invisible text.
+
+Puzzle 1:
+> U U U R R
+
+Puzzle 2: 
+> U U L L D D D D R R
+
+Puzzle 3:
+> D L D D D L L L L D R D D D R R R R D
+
+Puzzle 4:
+> D D D R U R R R D R D D R
+
+You'll need to go back the way you came and go up at the fork in the stairs to progress.
+
+Puzzle 5:
+> R R R R R D D D R R D D D R L L U L L L L R R R
+
+To progress from here, go up through the hole in the glass that will be created.
+
+Puzzle 6:
+> R R R R R L D D D D D D L L L U U U U L D U U
+
+Follow the path back from here... into the Tourmaline Desert once more?
+
+Northeast Tourmaline Desert?
+
+|Super Rod         |%  |
+|------------------|---|
+|Gastrodon         |40 |
+|Bruxish           |40 |
+|**Phione**        |20 |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Marowak           |20 |Mandibuzz         |60 |
+|Cacturne          |20 |Gliscor           |31 |
+|Maractus          |10 |Sigilyph          |5  |
+|Krookodile        |10 |Skarmory          |4  |
+|Excadrill         |10 |                  |   |
+|Vibrava           |10 |                  |   |
+|Dugtrio           |5  |                  |   |
+|Darmanitan        |5  |                  |   |
+|Heliolisk         |4  |                  |   |
+|Flygon            |4  |                  |   |
+|Hippowdon         |1  |                  |   |
+|Skarmory          |1  |                  |   |
+
+So, we can get another legendary here, if you can call it that!
+
+Although you might be tempted to head back into the tower, try heading down from here...
+
+Following this path will lead us to the top of Mirage Tower! Here we can pick up the *Normalium-Z*, *TM04 Calm Mind*, and of course, **Honedge**. Excellent rewards, and I recommend training this thing up right away if one of your team members is falling off, as Aegislash is one of the best Pokemon in this game!
+
+That's it for the Mirage Tower for now.
 
 ## Sugiline Cave
 
