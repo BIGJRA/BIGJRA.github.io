@@ -9658,11 +9658,86 @@ You can also interact with the basins around the area and put in some snax. Head
 
 ## Teknite Cave & Teknite Ridge
 
-Stub
+Next, we're going to take a trip to the Teknite Cave in the northwest corner of the Tourmaline Desert. You can save some time by having Pokemon in your party with Power Gem, a ground-shaking move (TM Bulldoze works), and Tailwind, but we can proceed without these moves by having wild Pokemon use them in battle. Enter the cave.
+
+Teknite Cave Dry Areas
+
+|Cave              |%  |
+|------------------|---|
+|Boldore           |20 |
+|Aron              |20 |
+|Carbink           |10 |
+|Durant            |10 |
+|Lairon            |10 |
+|Dugtrio           |10 |
+|**Turtonator**    |9  |
+|Heatmor           |5  |
+|Sandslash         |4  |
+|Gigalith          |1  |
+|**Aggron**        |1  |
+
+In the first room, grab the hidden *Tamato Berry* then proceed to 2F. In the next, grab the *Mountain Field Readout*, *Dawn Stone*, and hidden *Magical Seed*. 
+
+You'll notice that the "stones shimmer with light" when you enter. As we know by now that means we have to change the field somehow to proceed - we'll need to transform the Cave Field into Crystal Cavern Field. The only way we can right now is via use of Power Gem - note that wild Carbink can use this move, so if you don't have it on you, you can just encounter one and hope it uses this move. After the cave is transformed, use the red crystal to create a rock smash wall, and proceed to 3F. 
+
+Grab the hidden *Purple Shard* then transform the field to Crystal Cavern. Use the green crystal to remove the obstacle. Note that we won't be able to proceed - you'll need to use Bulldoze, Earthquake, Magnitude, or Fissure to switch back to Cave from here. If you don't have these moves, wild Sandslash, Dugtrio, and maybe others should have one of these moves. Once the field is changed and a gem is destroyed to clear a path, move to the top of this room then switch to Crystal Cavern once more. Use the crystal, smash the wall, and proceed to 4F.
+
+Switch to Crystal Cavern, then remove the obstacle. Grab the hidden *Iron* and *Potion*. Switch back to Cave and grab a hidden *Burn Heal* at the top and *Mental Herb* at the bottom. Enter the bottom left room to re-enter 3F, grab the hidden *Synthetic Seed*, and proceed to the room on the left.
+
+Teknite Cave Wet Area
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Remoraid          |60 |Qwilfish          |45 |
+|Goldeen           |30 |Seaking           |20 |Remoraid          |40 |
+|                  |   |Qwilfish          |20 |Octillery         |15 |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Boldore           |20 |Finneon           |60 |
+|Aron              |20 |Goldeen           |30 |
+|Durant            |10 |Lumineon          |6  |
+|Lairon            |10 |Seaking           |4  |
+|Dugtrio           |10 |                  |   |
+|Heatmor           |10 |                  |   |
+|Sandslash         |9  |                  |   |
+|Turtonator        |9  |                  |   |
+|Gigalith          |1  |                  |   |
+|Aggron            |1  |                  |   |
+
+Surf to a hidden *Repel*. Switch to a Cave Field and use the blue crystal at the bottom to cross the water. Grab a hidden *Magical Seed* and proceed. Grab the *Buginium-Z* and the hidden *Blue Shard*. Return to 4F, this time going through the top left exit.
+
+Teknite Ridge
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Durant            |20 |Durant            |20 |Durant            |20 |
+|Heatmor           |20 |Heatmor           |20 |Heatmor           |20 |
+|Turtonator        |15 |Turtonator        |15 |**Minior**        |19 |
+|Talonflame        |11 |Talonflame        |10 |Talonflame        |11 |
+|Pidgeot           |10 |Sandslash         |10 |Lycanroc          |10 |
+|Mandibuzz         |10 |Mandibuzz         |10 |Mandibuzz         |10 |
+|Lycanroc          |5  |Lycanroc          |5  |Turtonator        |5  |
+|Skarmory          |4  |**Braviary**      |4  |Skarmory          |4  |
+|**Braviary**      |4  |Skarmory          |4  |Gliscor           |1  |
+|Gliscor           |1  |Pidgeot           |1  |                  |   |
+|                  |   |Gliscor           |1  |                  |   |
+
+Pushing the strength boulders out of the way, hop across to the bottom left corner to get a hidden *Relic Copper*. Hopping to the top right, you can get a hidden *Health Wing*. Finally, hop to the top left to re-enter Teknite Cave. Grab a hidden *Paralyze Heal* and proceed to the next Teknite Ridge map.
+
+On this map, you can find a hidden *Green Shard*, *Roseli Berry*, *Potion*, *Escape Rope*, *Quick Ball* as well as 3 *Exp. Candy XL* and *TM75 Swords Dance*. Hop across some rocks to the left to get a hidden *Nugget* and the *Mawilite*! 
+
+Return to the 4F map with branching paths, this time going up and right. On this map, you won't be able to fully explore as is, but by using Tailwind in a battle, you can now jump three horizontal spaces instead of two! Wild Pidgeot and Talonflame may use this move if you don't have it on you.
+
+Hop your way to the next by the entrance to get the *Pidgeotite*. Hopping to the right from here you'll find the *Ice Memory*. Back nearby the entrance, hop slightly up and left to get a hidden *Hyper Potion* in a rock. Hop to the landmass to your right, and grab the hidden *Leppa Berry*. Hugging the top left as much as possible, hop across to the top-left corner of the map. Jump down just one ledge, then go right. Hop to a nearby rock for a hidden *Level Ball*, then grab the *PP Max* at the top.
+
+Hop back to the central landmass, this time climbing a bit higher and hopping to the right. It's a bit hard to spot, but to proceed, you'll need to hop at the top left corner of the next landmass up and around to the next landmass at the top. Hopping down one ledge, go right and hop up and around. Follow this path to the top of the hill to get a **Rowlet** egg!
+
+That's it for the Teknite Range, so feel free to fly out of here back to Lower Peridot if you want.
 
 ## 1R253 Scrapyard
 
-Stub
+Time to proceed to the next story area! You've probably seen a large area surrounded by tons of traincars in the central northern desert - this is our destination. Actually, to start, make your way to the Northwestern Tourmaline Desert to start. 
 
 ## Once Upon a Somewhere
 
