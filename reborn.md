@@ -9210,6 +9210,8 @@ Once you make your choice, it's time to start exploring the desert...
 
 ### Greater Tourmaline Desert
 
+If you want to just blaze through the story, head straight up in the desert until you reach an area with tons of trains, then complete the 1R253 Scrapyard section and proceed from there. There are tons and tons of actually good Pokemon and items that become available around the desert, so we'll spend a while exploring side areas for now.
+
 So, the most dreaded part of writing this guide for me has finally arrived. I'll briefly explain the problem as well as my approach. Note that this all really doesn't matter much if you're not going out of your way to collect all the hidden items so you can just grab the items and Pokemon that you want and ignore the complications.
 
 Essentially the greater part of Tourmaline Desert is really huge. That alone makes it hard to point to specific items. However there are actually 4 versions of this large map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well. 
@@ -9302,7 +9304,7 @@ Aside from all these items, each of the four maps has its own list of hidden ite
 - Straight west and slightly up from the previous item, you can find a hidden *Tiny Mushroom* between some palm trees.
 - East of Sugiline Cave, you can find an *Exp. Candy XL*. 
 - In the northeast side of the desert map north of where we previously found the hidden Star Piece, you can get a hidden *Rawst Berry*.
-- Go straight up from here past the trains. You'll see a hidden *Full Heal* in a rock. 
+- Go straight up from here. You'll see a hidden *Full Heal* in a rock. 
 - A decent bit west of the previous item, you'll find a hidden *Fire Gem*. 
 - West of the here, you can find a *Dawn Stone* hidden in a rock.
 - Back on the left side of the desert, straight east of the Stone Plate rock, under some tracks you'll find a hidden *Fairy Gem*.
@@ -9569,7 +9571,90 @@ That's it for the Mirage Tower for now.
 
 ## Sugiline Cave
 
-Next, I'll take us to the Sugiline Cave. 
+Next, I'll take us to the Sugiline Cave. Head over to the east side of the greater desert and hug the right wall until you see a massive opening in a dune, then head in.
+
+As in the other areas:
+
+Relationship Point Choices:
+- Talk to Taka while he's with you in the Sugiline Cave (+1 Taka)
+
+Sugiline Cave
+
+|Cave              |%  |
+|------------------|---|
+|Boldore           |20 |
+|Sandslash         |20 |
+|Durant            |10 |
+|Crustle           |10 |
+|Dugtrio           |10 |
+|**Heatmor**       |10 |
+|Marowak           |5  |
+|Drapion           |5  |
+|Maractus          |4  |
+|Scrafty           |4  |
+|**Gigalith**      |1  |
+|Cacturne          |1  |
+
+Essentially Sugiline Cave has two floors: 1F, and B1F. Falling down a sand vortex on 1F leads you to B1F, but falling down a vortex in B1F brings you all the way back to the beginning of the cave. For this reason, I recommend quick-saving like crazy in here so you don't waste time and repels getting back to where you are. 
+
+On this first map, you can get a hidden *X Sp. Atk*, *Pop Rocks*, *Blue Shard*, and *Ultra Potion*. Drop down the bottom-left vortex first to B1F.
+
+Grab the hidden *Elemental Seed* and *Big Mushroom* and take the ladder to 1F. 
+
+On this map you can get a hidden *Elemental Seed*, *Red Shard*, *Great Ball*, and *Ultra Ball*. Step into the bottom-left most vortex to get a *Max Elixir*. Unfortunately from here we have no choice but to step into the vortex to return to the front of the dungeon, so take the bottom left vortex and follow the path to where we were before.
+
+This time, take the vortex up and slightly right from the pot that contained the Great Ball. In this area of B1F you can find a hidden *Cheri Berry*, *Protein*, and *Ether*. Again, we'll have to jump in a vortex from here and return to the 1F level above.
+
+This time, take the top right vortex, then climb the ladder in the area you land in. Up here, pick up the *Draco Plate* and hidden *Super Repel*. Again jump into the vortices and make your way back to 1F. 
+
+Jump in the top left vortex this time. You can find a hidden *PokeSnax* in this room. Void out and return for the final time, in this section of the dungeon, at least!
+
+Finally, jump into the vortex on the left side of the pot. Climb the ladder at the top of the rocky path.
+
+In this next room, you can find a hidden *X Speed* and *Dark Gem*. Be extra careful here, as all vortices but the correct one will immediately yeet you back to the starting point. The correct one is the one in the middle of the top three, so head down it.
+
+On B1F, be careful to not fall in again and pick up hidden *Telluric Seed*, *Super Potion*, and *Red Shard*, then climb the ladder on the right side.
+
+Grab the hidden *Purple Shard* and proceed into the room on the right. Push the button in the Arceus statue to finish the left section of the cave! Make your way back to the entrance.
+
+Next, step into the bottom right vortex in the entry room. 
+
+In this room, you can get a hidden *Carbos*, *Pecha Berry*, and *Blue Shard*. Climb the ladder at the top.
+
+In this next room, you can find 2 hidden *Elemental Seeds*, *PokeSnax*, and *Green Shard*. Jump into the vortex on the middle of the right side of the room, below a cactus. Pick up a *Link Stone* then void out and return to the previous room.
+
+Next, jump into the middle of the top three vortices. Be careful here as you grab hidden *Ice Heal*, *Antidote*, and *Star Piece*. Climb the ladder on the left side and push the button in the Arceus statue. Return to the front of the dungeon.
+
+Next, enter the vortex at the very top of the entrance room. Down here you can find a hidden *X Speed* and *PP Up*. Climb the ladder to get a *Magical Seed* and hidden *Star Piece*, then return to the front of the dungeon.
+
+Finally, hop down the vortex straight up from the cave's entrance. Here, you can find a hidden *Synthetic Seed*, *Blue Shard*, *Great Ball*, and *Common Candy*.
+
+In the next room, grab a hidden *Genius Wing* and *Exp. Candy XL*, then proceed into the next room. You might wanna save here - all the Garchomp statues can come alive and fight you!
+
+While a fast Ice type can make this not really a problem, they can wear most teams down quickly. Technically you can actually get through this room without having a single battle with very careful movement, so figure out how to get through however you like.
+
+Sugiline Ruin
+
+|Cave              |%  |
+|------------------|---|
+|Boldore           |20 |
+|Sandslash         |20 |
+|Durant            |10 |
+|Crustle           |10 |
+|Dugtrio           |10 |
+|Heatmor           |10 |
+|Claydol           |9  |
+|Drapion           |5  |
+|Sigilyph          |5  |
+|Gigalith          |1  |
+
+Explore this room. You can find 2 hidden *Red Shards*, *Elemental Seed*, *Ultra Ball*, *Great Ball*, *Blast Powder*, *Purple Shard*, and *Iron*. At the top, you can get *TM71 Stone Edge*! 
+
+Talk to the Arceus statue at the top, and vortices will show up all around. Hop down any one of them to reach Sugiline Ruin B1F.
+
+On this floor, you can find the *Medichamite*, an *Impish Mint*, *Bold Mint*, and 3 *Exp. Candy XL* as well as a hidden *Super Potion*, *Escape Rope*, 2 *Green Shards*, *Dragon Gem*, and *Muscle Wing*. 
+
+You can also interact with the basins around the area and put in some snax. Head up the ladder, then jump down the corresponding vortex above that basin. You'll be able to battle and catch **Gible**! Very nice. Head out of the dungeon via a nearby vortex and return to the desert.
 
 ## Teknite Cave & Teknite Ridge
 
