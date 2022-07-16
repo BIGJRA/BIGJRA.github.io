@@ -6763,8 +6763,8 @@ Celestinine Mountain 4F
 |Floatzel          |11 |Wishiwashi        |4  |
 |Piloswine         |10 |Dewgong           |1  |
 |Beartic           |10 |                  |   |
-|Sandshrew         |5  |                  |   |
-|Sandslash         |5  |                  |   |
+|Sandshrew-Alola   |5  |                  |   |
+|Sandslash-Alola   |5  |                  |   |
 |Delibird          |1  |                  |   |
 
 We can fish up an ugly fish on this floor! This room contains a hidden *Flying Gem* and *Green Shard* as well as *TM03 Psyshock*, a *Dragon Scale*, *Timid Mint*, *Water Memory*, and *Exp. Candy XL*. 
@@ -9259,6 +9259,14 @@ You'll also find many stationary **Exeggutor-Alola** around the desert.
 
 You can encounter the same Pokemon on the various maps but at different rates. Thankfully, with the Magnetic Lure, you will be able to get whatever you don't already have easily.
 
+For what it's worth, there are transitions from each map into two OTHER maps... which we will explore later. For now, keep in mind you don't want to go more north than these two images, the northwest and northeast borders:
+
+<img src="/assets/media/reborn/td_nw_border.jpg"/>
+
+<img src="/assets/media/reborn/td_ne_border.jpg"/>
+
+For now, don't enter any train cars yet, either.
+
 First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, and finally grabbing whatever is in the center of the desert. Note that the large opening in a sand dune is Sugiline Cave, for the purposes of navigation. We'll explore there later.
 
 Note that Taka often has something to say when you find these if he is with you.
@@ -9274,7 +9282,7 @@ Note that Taka often has something to say when you find these if he is with you.
 - Past Sugiline Cave, hugging the right wall and going up, you'll find a *Max Elixir* near some dead trees.
 - Up and to the right of the previous Max Elixir, you can find a hidden *Star Piece* in a rock.
 - In the far northeast side of the desert, you can climb a sand dune to get onto a hill. Up and to the right you'll find a hidden *Synthetic Seed*.
-- Pretty much in the center of the desert you'll see a broken statue. The main statue is too faded to read but the broken off gargoyle contains a hidden *Max Elixir*. 
+- Pretty much in the center of the desert you'll see a section of vertical tracks. To the left of it, you'll see a broken statue. The main statue is too faded to read but the broken off gargoyle contains a hidden *Max Elixir*. 
 
 Aside from all these items, each of the four maps has its own list of hidden items. These aren't even particularly worth searching for but for completeness I list them here.
 
@@ -9331,7 +9339,7 @@ For some reason, just on this map, you can give a guy in the bottom right corner
 - In the bottom right side of the desert, a rock will hide a *Nugget*. Just up from here in a patch of green is another rock containing a *Grass Gem*.
 - Go up from here, passing between a small hill and a pillar. Up from here you'll find a desert rose containing a hidden *Ultra Ball*.
 - Up from the Ultra Ball you'll see a bunch of bushes and cacti. Going right around the mountain, you'll find a hidden *Blast Powder*.
-- In a patch of green nearby a train track corner, towards the top right corner of the desert but a bit out from the wall, you can find a *Purple Shard*, and a *Poison Gem* just above here near a train car.
+- Head way up from here. In a patch of green nearby a train track corner, towards the top right corner of the desert but a bit out from the wall, you can find a *Purple Shard*, and a *Poison Gem* just above here near a train car.
 - Straight left from the Poison Gem, follow the tracks to reach a hidden *Stardust*.
 - Just before you reach the top right corner of the desert, on your left is a mountain with a broken statue head beneath containing a *Steel Gem*. 
 - Hidden in a pile of rocks in the north east of here is a *Nugget*, and a *Green Shard* to the northeast in a bush.
@@ -9376,21 +9384,111 @@ It's also worth noting that Taka has 36 different dialogues, some changing depen
 Relationship Point Choices:
 - Tell Taka you don't hate Solaris (+1 Taka)
 
+### Northwest Tourmaline Desert
+
+Next, we're going to explore the northwest side of the Tourmaline Desert. Thankfully there is only one map this time and it is relatively narrow. Make your way to the northwest side of the greater desert and start following the tracks up. As before, don't enter any of the traincars quite yet.
+
+Northwest Tourmaline Desert
+
+|Cave              |%  |
+|------------------|---|
+|Marowak           |20 |
+|Sandslash         |20 |
+|**Lycanroc**      |10 |
+|Krookodile        |10 |
+|Excadrill         |10 |
+|Dugtrio           |10 |
+|Mandibuzz         |5  |
+|Darmanitan        |5  |
+|Heliolisk         |4  |
+|Hippowdon         |4  |
+|Skarmory          |1  |
+|Gliscor           |1  |
+
+From bottom to top ordered roughly you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokeSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poke Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*. 
+
+You'll also notice a few non-hidden items: along the right side you can get a *Relic Copper* and a *Max Ether*. On the left side, past a dangerous trainer with F.E.A.R., you'll be able to get *TM08 Bulk Up*. 
+
+Note that at the very top of the area we won't be able to move on thanks to an intense sandstorm - this is actually the region's border, so don't worry about trying to pass here as we will not be able to. You'll also notice a cave entrance in the top left corner - this is the Teknite Cave. I am gonna explore here later on, but you can jump to that section if you want to explore it now.
+
 ### Northeast Tourmaline Desert
 
-Stub
+Next, we're gonna checkout the final part of the outside desert area. Make your way to the upper right hand corner of the greater desert area we've explored so far.
 
-### Northwest Tourmaline Desert
+So, there are also multiple maps going on in the Northeast Tourmaline Desert, but thankfully there are only two and it's pretty easy to tell where you are. If you haven't messed with any oases yet, you'll be on the dirty version, which I will explore first.
+
+**Northeast Tourmaline Desert (Dirty)**
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Grimer            |100|Grimer            |60 |Muk               |100|
+|                  |   |Muk               |40 |                  |   |
+
+|Cave              |%  |
+|------------------|---|
+|Marowak           |20 |
+|Cacturne          |20 |
+|Maractus          |10 |
+|Krookodile        |10 |
+|Excadrill         |10 |
+|Dugtrio           |10 |
+|Mandibuzz         |5  |
+|Darmanitan        |5  |
+|Lairon            |4  |
+|Hippowdon         |4  |
+|Skarmory          |1  |
+|Drapion           |1  |
+
+Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poke Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*. 
+
+At the wasteland at the top you can get *TM36 Sludge Bomb*!
+
+With this map fully explored, now we can finally proceed to mess with the oases. Essentially, as explained before, each time you touch a light shard at a mirage, the map will switch to a different one. If you've done this any multiple of three times, the map on the northeast will transform from the dirty map to the clean map. So, go search for three mirages, grab the hidden items on the respective Greater Tourmaline map you land on if you'd like, then return here to explore the Mirage version.
+
+**Northeast Tourmaline Desert (Mirage)**
+
+|Super Rod         |%  |
+|------------------|---|
+|Gastrodon         |44 |
+|Shellos           |40 |
+|Bruxish           |16 |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Marowak           |20 |Mandibuzz         |60 |
+|Cacturne          |20 |Gliscor           |31 |
+|Maractus          |10 |Sigilyph          |5  |
+|Krookodile        |10 |Skarmory          |4  |
+|Excadrill         |10 |                  |   |
+|Dugtrio           |10 |                  |   |
+|**Vibrava**       |5  |                  |   |
+|Darmanitan        |5  |                  |   |
+|Heliolisk         |4  |                  |   |
+|Hippowdon         |4  |                  |   |
+|Skarmory          |1  |                  |   |
+|**Flygon**        |1  |                  |   |
+
+Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokeSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poke Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
+
+Before we enter the tower, there's another thing we can do out here. Surf around the back of the tower. There's a hidden stairs directly behind the tower we can use to get onto the mountainside. Follow this path to get a hidden *Stardust*, *Swift Wing*, and *Blue Shard*. 
+
+You can pet Leafeon here for the Eeveelution petting quest. By defeating the Lv. 100 Exeggutor-Alola in the pot, you can talk to the pot to get the *Dragonium-Z*! There is also a top tier NPC and shop here.
+
+Marcello's Lemonade Shop
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|*Lemonade*             |$350       |
+
+After buying as much lemonade as you can carry if you'd like, head into the Mirage Tower.
+
+## Mirage Tower
 
 Stub
 
 ## Sugiline Cave
 
 Next, I'll take us to the Sugiline Cave. 
-
-## Mirage Tower
-
-Stub
 
 ## Teknite Cave & Teknite Ridge
 
