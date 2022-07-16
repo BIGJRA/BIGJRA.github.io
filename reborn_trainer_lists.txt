@@ -2285,7 +2285,7 @@ Lepidopterist Bennett (2x Berry Ice Cream). Field:
 - Vivillon, Lv. 48, @Bright Powder, Ability: Compound Eyes, Modest Nature, IVs: 31
     - Quiver Dance
     - Sleep Powder
-    -  Draining Kiss
+    - Draining Kiss
     - Signal Beam
 - Dustox, Lv. 49, @Bright Powder, Ability: Shield Dust, Modest Nature, IVs: 31
     - Moonlight
@@ -3018,7 +3018,7 @@ Guardian Princess Titania (3x Ultra Potion). Field:
 - Klefki, Lv. 84, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 192/0/252/0/0/64
     - Thunder Wave
     - Flash Cannon
-    -  Draining Kiss
+    - Draining Kiss
     - Calm Mind
 - Scizor, Lv. 86, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
     - Swords Dance
@@ -3050,7 +3050,7 @@ Guardian Exile Titania (3x Ultra Potion). Field:
 - Klefki, Lv. 84, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 192/0/252/0/0/64
     - Thunder Wave
     - Flash Cannon
-    -  Draining Kiss
+    - Draining Kiss
     - Calm Mind
 - Scizor, Lv. 86, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
     - Swords Dance
@@ -8022,7 +8022,7 @@ Swimmer Xerciel. Field:
 - Gorebyss, Lv. 73, @White Herb, Ability: Swift Swim, Modest Nature
     - Shell Smash
     - Surf
-    -  Draining Kiss
+    - Draining Kiss
     - Shadow Ball
 
 Swimmer Tsuki. Field: 
@@ -8655,7 +8655,7 @@ Hotshot Jace. Field:
     - Weather Ball
     - Hidden Power
 - Comfey, Lv. 86, @Big Root, Ability: Triage, Serious Nature, IVs: 10
-    -  Draining Kiss
+    - Draining Kiss
     - Light Screen
     - Petal Dance
     - Dazzling Gleam
@@ -11178,7 +11178,7 @@ Anomaly Hoopa. Field:
     - Gyro Ball
     - Trick Room
 - Comfey, Lv. 120, @Life Orb, Ability: Triage, Modest Nature, IVs: 32, EVs: 252/0/0/0/252/4
-    -  Draining Kiss
+    - Draining Kiss
     - Giga Drain
     - Floral Healing
     - Dazzling Gleam
@@ -11923,7 +11923,7 @@ Mordant Urchin Lin. Field:
 - Audino, Lv. 125, @Audinite, Ability: Regenerator, Calm Nature, IVs: 20, EVs: 252/252/252/252/252/252
     - Psych Up
     - Calm Mind
-    -  Draining Kiss
+    - Draining Kiss
     - Simple Beam
 - Clefable, Lv. 125, @Leftovers, Ability: Magic Guard, Calm Nature, IVs: 20, EVs: 252/252/252/252/252/252
     - Cosmic Power
@@ -13321,7 +13321,7 @@ Acolyte Ioletta. Field:
     - Dragon Rush
     - Earthquake
 - Comfey, Lv. 127, @Magical Seed, Ability: Triage, Modest Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    -  Draining Kiss
+    - Draining Kiss
     - Dazzling Gleam
     - Giga Drain
     - Nature Power
@@ -14153,7 +14153,7 @@ Umbral Noel. Field:
     - Will-O-Wisp
 - Tapu Lele, Lv. 145, @Lum Berry, Ability: Psychic Surge, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Psyshock
-    -  Draining Kiss
+    - Draining Kiss
     - Psych Up
     - Focus Blast
 - Mew, Lv. 145, @Mewnium-Z, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -14304,7 +14304,7 @@ Anomalized Giratina. Field:
 - Jynx, Lv. 140, @Focus Sash, Ability: Dry Skin, Timid Nature, IVs: 31, EVs: 0/0/4/252/252/0
     - Signal Beam
     - Ice Beam
-    -  Draining Kiss
+    - Draining Kiss
     - Nasty Plot
 - Weavile, Lv. 140, @Focus Sash, Ability: Pickpocket, Timid Nature, IVs: 31, EVs: 0/252/0/252/0/4
     - Knock Off
@@ -15048,7 +15048,7 @@ Dashing Rogue Corin-Rouge. Field:
 - Klefki, Lv. 100, @Magical Seed, Ability: Magician, Modest Nature, IVs: 31, EVs: 252/0/0/4/252/0
     - Thunder Wave
     - Spikes
-    -  Draining Kiss
+    - Draining Kiss
     - Crafty Shield
 - Hoopa, Lv. 100, @Magical Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 0/0/4/252/252/0
     - Hyperspace Hole
@@ -16251,7 +16251,7 @@ Entity Shade. Field:
 
 Entity Shade. Field: 
 - Froslass, Lv. 100, @Focus Sash, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 0/0/4/252/252/0
-    -  Draining Kiss
+    - Draining Kiss
     - Spikes
     - Hex
     - Thunder Wave
@@ -19891,7 +19891,7 @@ Elite Four Floral Artist Laura. Field:
     - Giga Drain
     - Psychic
 - Comfey, Lv. 100, @Synthetic Seed, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    -  Draining Kiss
+    - Draining Kiss
     - Giga Drain
     - Hidden Power
     - Growth

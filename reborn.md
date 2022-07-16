@@ -169,7 +169,7 @@ Heavy Work In Progress :)
   - [Teknite Cave & Teknite Ridge](#teknite-cave--teknite-ridge)
   - [1R253 Scrapyard](#1r253-scrapyard)
   - [Once Upon a Somewhere](#once-upon-a-somewhere)
-  - [Badge](#badge)
+  - [Alloy Badge](#alloy-badge)
   - [Reborn Restoration Project 2](#reborn-restoration-project-2)
   - [Other Badge](#other-badge)
 - [Appendices](#appendices)
@@ -9097,13 +9097,13 @@ That's it for this restoration project.
 
 Donate the $100000 to fund this project.
 
-This section is a stub for now - I will complete it along with the E18 content.
+This section is a stub for now - I will complete it along with the E17 content.
 
 ### Azurine Nature Center Project
 
 Donate the $80000 to fund this project.
 
-This section is a stub for now - I will complete it along with the E18 content.
+This section is a stub for now - I will complete it along with the E17 content.
 
 ## Gang Application Sidequest
 
@@ -9660,6 +9660,11 @@ You can also interact with the basins around the area and put in some snax. Head
 
 Next, we're going to take a trip to the Teknite Cave in the northwest corner of the Tourmaline Desert. You can save some time by having Pokemon in your party with Power Gem, a ground-shaking move (TM Bulldoze works), and Tailwind, but we can proceed without these moves by having wild Pokemon use them in battle. Enter the cave.
 
+As in the other areas:
+
+Relationship Point Choices:
+- Talk to Taka while he's with you in the Teknite Cave/Ridge (+1 Taka)
+
 Teknite Cave Dry Areas
 
 |Cave              |%  |
@@ -9684,7 +9689,29 @@ Grab the hidden *Purple Shard* then transform the field to Crystal Cavern. Use t
 
 Switch to Crystal Cavern, then remove the obstacle. Grab the hidden *Iron* and *Potion*. Switch back to Cave and grab a hidden *Burn Heal* at the top and *Mental Herb* at the bottom. Enter the bottom left room to re-enter 3F, grab the hidden *Synthetic Seed*, and proceed to the room on the left.
 
-Teknite Cave Wet Area
+Teknite Cave Wet Area (No Crystals)
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Remoraid          |60 |Qwilfish          |45 |
+|Goldeen           |30 |Seaking           |20 |Remoraid          |40 |
+|                  |   |Qwilfish          |20 |Octillery         |15 |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Boldore           |20 |Finneon           |60 |
+|Aron              |20 |Goldeen           |30 |
+|Carbink           |10 |Lumineon          |6  |
+|Lairon            |10 |Seaking           |4  |
+|Dugtrio           |10 |                  |   |
+|Heatmor           |10 |                  |   |
+|Sandslash         |9  |                  |   |
+|Durant            |5  |                  |   |
+|Turtonator        |4  |                  |   |
+|Gigalith          |1  |                  |   |
+|Aggron            |1  |                  |   |
+
+Teknite Cave Wet Area (Crystals)
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9737,19 +9764,250 @@ That's it for the Teknite Range, so feel free to fly out of here back to Lower P
 
 ## 1R253 Scrapyard
 
+If you have Taka with you and want him to stay with you for more points, conversations, and free heals, save this area for later, as once we get a fair bit in, he will leave our side.
+
+As in the other areas:
+
+Relationship Point Choices:
+- Talk to Taka while he's with you in the 1R253 Scrapyard (+1 Taka)
+
 Time to proceed to the next story area! You've probably seen a large area surrounded by tons of traincars in the central northern desert - this is our destination. Actually, to start, make your way to the Northwestern Tourmaline Desert to start. 
+
+At the bottom right of this map but before you enter the Greater Tourmaline map, you will find a entrance to a train car. Go through this train car, and you'll emerge in the 1R253 Scrapyard!
+
+1R253 Scrapyard
+
+|Cave              |%  |Rock Smash        |%  |
+|------------------|---|------------------|---|
+|Steelix           |20 |Nosepass          |60 |
+|Lairon            |20 |Shuckle           |30 |
+|Krookodile        |10 |**Probopass**     |9  |
+|Excadrill         |10 |Torkoal           |1  |
+|Dugtrio           |10 |                  |   |
+|Skarmory          |10 |                  |   |
+|Marowak           |5  |                  |   |
+|Darmanitan        |5  |                  |   |
+|**Probopass**     |4  |                  |   |
+|Sandslash         |4  |                  |   |
+|Hippowdon         |1  |                  |   |
+|Aggron            |1  |                  |   |
+
+Go straight up and grab the *Max Repel*. Towards the bottom of the area you'll see a green train with an open door - getting inside, we can use it to move forward, unless there is a Rock Smash boulder on the track. This puzzle is a pretty fun one in my opinion, so feel free to skip ahead until the next section if you'd like to try to solve it all yourself. 
+
+So, use this train to go forward, pushing a different train onto some vertical tracks. From here, go straight up and into a train car. Follow the path through many different cars until you emerge once more. Smash the rock then backtrack through this train. Going down then left and back up, you can now use the train at the top to go right. 
+
+From here, you'll be... railroaded... into going to the right and down. Once you hop down a horizontal ledge look to the right to smash a rock, then continue down your path. Finally, you'll be spit out in the main area of the scrapyard. If you enter the train cars at the very bottom, you can return to the Greater Tourmaline Desert, so if you need to fly out of here to heal, that's where you'll return. 
+
+Head up and enter the nearby train, then hop down the ledge to the left. Smash two rocks below and to the left. Continuing left and down, enter the train. It will only go a few tiles, so head right from here to enter the next train. On top of the hill, grab the *Max Repel* and *Steel Memory*, then jump down. Head left around this hill and smash the rock, then go back down below the hill, and enter the nearest green train to the right. This will drop you off near another green train, which you can now ride west.
+
+From here, go down as far as you can, then head right. We are going to exit this area via the train cars at the bottom. Back on the outside of the scrapyard, head to the right, and you'll see another traincar entrance to the scrapyard. Use this entrance to re-enter the scrapyard.
+
+This path will take you to a train, which you can now ride all the way left. Once it bumps a train out of the way, go down from here and enter the vertical train to go up to enter a new map!
+
+Grab the hidden *Dire Hit* and *Synthetic Seed* on the map. Enter the horizontal train in the bottom left, then climb the hill. Hop down the ledges to climb down the hill. Follow the new path far to the southwest to get 3 *Exp. Candy XL*, then jump in the nearby train and ride it left. Head back to the top right and take the vertical train for a ride downward!
+
+Grab the hidden *Big Mushroom* and enter the nearby train car. Follow the path through these cars until you emerge once more into the outside air.
+
+This area is sometimes referred to as Train Town and thankfully you'll be able to fly here in the future. Taka leaves your party here as well.
+
+Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poke Ball*, *Purple Shard*, and *PokeSnax*. 
+
+If Taka is with you, he will take a rest and lie down in a train car on the bottom right side of the area. Talk to Europa before you follow him if you like.
+
+Relationship Point Choices:
+- Tell Europa Taka is your boyfriend (+1 Taka)
+
+You can talk to the residents of the Train Town and learn about them. In the bottom left train, if you've been to Mirage Tower, you'll see a warp that will bring you there. Handy.
+
+Depending on the time of day, Bouffalant Bill will be either outside or in a train car on the upper right side of the area that contains a healing machine. He will sell us some stuff.
+
+Bouffalant Bill Shop
+
+|Item           |Price      |
+|---------------|-----------|
+|*Poke Ball*    |$200       |
+|*Great Ball*   |$600       |
+|*Ultra Ball*   |$1200      |
+|*Max Repel*    |$900       |
+|*Escape Rope*  |$550       |
+|*Full Heal*    |$600       |
+|*Ultra Potion* |$1200      |
+
+In a train car at the top of the area you can access a PC and meet Stephoscope. Talking to her twice after visiting Teknite Ridge, you'll be given the *Houndoominite*. Excellent.
+
+More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokemon and then stole it from us. We've watched our Pokemon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokemon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the gold price for the Pokemon sixteen episodes ago. But now it's time to pay the iron price by defeating Corin Rouge once and for all.
+
+Dashing Rogue Corin-Rouge (Ultra Potion). Field: Desert Field
+- Klefki, Lv. 81, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/0/4/252/0
+    - Spikes
+    - Thunder Wave
+    - Swagger
+    - Foul Play
+- Cacturne, Lv. 82, @Bright Powder, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Sucker Punch
+    - Needle Arm
+    - Swords Dance
+    - Substitute
+- Liepard, Lv. 82, @Muscle Band, Ability: Limber, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Encore
+    - Play Rough
+    - U-turn
+    - Foul Play
+- Sandslash, Lv. 83, @Muscle Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 128/128/0/252/0/0
+    - Earthquake
+    - Swords Dance
+    - Stone Edge
+    - X-Scissor
+- Delphox, Lv. 86, @Firium-Z, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Heat Wave
+    - Psyshock
+    - Solar Beam
+    - Dazzling Gleam
+- Magikarp, Lv. 5, Serious Nature, IVs: 10
+    - Splash
+    - Flail
+    - Tackle
+    - Bounce
+
+This cruel thief has a Z move and some Pokemon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
+
+By defeating him we can finally get our hands on our birthright. We get **Magikarp**.
+
+Of course I jest, but Gyarados is one of the strongest Pokemon in the game, so it is indeed worth it.
+
+Make your way out of the Train Town via the train car at the bottom. In the next area you can get a hidden *X Sp. Atk* and *X Speed*. You'll notice an entrance to a train car in the top right corner, which is where we'll go to continue the story. For now there are a couple goodies in the scrapyard that we couldn't access before, so I'll get those first.
+
+Down and right from here you can find the *Amulet Coin* and a hidden *Blue Shard*. Left of here you'll find a *Max Repel* and a hidden *Heart Scale* and *Green Shard*. Enter the train at the end of the path, picking up the *Exp. Candy XL* and *Star Piece* in the pit. Climb out via the railroad tracks, and follow the track that this train just took up to get 
+*TM19 Roost*. 
+
+Next, head down from here, then left as soon as you're able. Make your way to the top left corner of the area, where you'll now be able to pick up a *Max Elixir*.
+
+That wraps up all we can get in the scrapyard, so fly back over to Train Town, exit out the bottom and enter the train car in the top right corner of the next area.
+
+Follow the path through a ton of train cars until you emerge... what?
 
 ## Once Upon a Somewhere
 
-Stub
+You'll find yourself in a new location entirely. Not what you expected, huh?
 
-## Badge
+Once Upon a Somewhere / Once Upon a Waste of Time
 
-Stub
+|Land              |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|**Lilligant**     |20 |Ribombee          |55 |
+|**Aromatisse**    |20 |**Ferroseed**     |20 |
+|Illumise          |10 |**Musharna**      |10 |
+|**Cinccino**      |10 |Altaria           |10 |
+|Volbeat           |10 |**Ferrothorn**    |5  |
+|Rapidash          |10 |
+|Audino            |5  |
+|Druddigon         |5  |
+|**Escavalier**    |4  |
+|**Chansey**       |4  |
+|Altaria           |1  |
+|**Florges**       |1  |
+
+It seems like this first map is an infinite maze - it essentially is. Try biking in random directions until you see a set of stairs ascending upwards, then take those. You'll see them eventually, I'm sure.
+
+On the next map, you can find a hidden *Green Shard* and *Sitrus Berry*. Proceed into the castle. Here, you'll have to fight some Knights as you proceed. 
+
+You'll wake up in a tower. Read the placards at each floor as you go up or down the stairs until you see a pile of books leading out of a window.
+
+On the exterior of the tower, climb the vines. On the left at the top you'll see the *Dragon's Den Field Readout*. As you head right, Titania will talk to you.
+
+Relationship Point Choices:
+- Tell Titania you trust her, while you have >= 0 points with her (+1 Titania)
+- Tell Titania you trust her, while you have < 0 points with her (-1 Titania)
+- Tell Titania you don't trust her, while you have >= 0 points with her (-1 Titania)
+- Tell Titania you don't trust her, while you have < 0 points with her (Titania's total becomes *f(c)*), where *f(c) = min(0, c + 4)* and *c* is the current number of points you have with her.
+
+Complicated, but anyways, she'll give you the *Sapphire Bracelets*. Proceed right.
+
+Grab the hidden *Super Potion*, *Ultra Potion*, and non-hidden *Dragon Fang* in the Belly of the Beast, then prepare for a battle. Depending on your choices, it'll be different.
+
+If you're on, well, Reshiram Route, you'll get this: 
+
+The Legendary Dragon. Field: Dragon's Den
+- Reshiram, Lv. 90, @Elemental Seed, Ability: Turboblaze, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Blue Flare
+    - Roost
+    - Dragon Pulse
+    - Solar Beam
+
+Whereas, surprise, if you're on Zekrom Route, you'll get this:
+
+The Legendary Dragon. Field: Dragon's Den
+- Zekrom, Lv. 90, @Groundium-Z, Ability: Teravolt, Jolly Nature, IVs: 31, EVs: 252/4/0/252/0/0
+    - Bolt Strike
+    - Roost
+    - Outrage
+    - Earth Power
+
+At least now you know why the routes are named as they are. Win your conquest with whatever clever tactics or raw strength you need to slay a dragon, and proceed.
+
+Pick up the hidden *Health Wing*, *Revive*, and *Lava Cookie* beyond, and watch the scenes play out at the top of the room.
+
+Head up at the top to Titania's arena! 
+
+## Alloy Badge
+
+Before starting the battle, you can jump into the blue hole at the top and go left from here if you want a shortcut to Train Town for some prep - there's a good chance your team won't be good enough for the upcoming gym fight. Anyways, up from here is a hole you can jump into to return to the tower. Along the way back to the gym, you'll even find a *Rare Candy*!
+
+Guardian Princess Titania (3x Ultra Potion). Field: Fairy Tale Arena (Active Hail)
+- Sandslash (Sandslash-Alola), Lv. 83, @Light Clay, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 128/252/0/128/0/0
+    - Aurora Veil
+    - Icicle Crash
+    - Earthquake
+    - Iron Head
+- Empoleon, Lv. 85, @Petaya Berry, Ability: Torrent, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
+    - Agility
+    - Scald
+    - Flash Cannon
+    - Blizzard
+- Excadrill, Lv. 86, @Magical Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Sandstorm
+    - Earthquake
+    - Swords Dance
+    - Smart Strike
+- Klefki, Lv. 84, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 192/0/252/0/0/64
+    - Thunder Wave
+    - Flash Cannon
+    - Draining Kiss
+    - Calm Mind
+- Scizor, Lv. 86, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Swords Dance
+    - Roost
+    - Bullet Punch
+    - Bug Bite
+- Aegislash, Lv. 90, @Magical Seed, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - King's Shield
+    - Shadow Sneak
+    - Swords Dance
+    - Sacred Sword
+
+The Fairy Tale arena boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokemon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary! (just know that in previous versions the seed would also boost Attack for free...)
+
+There are a good number of strategies that remain for you to use, thankfully. A Pokemon with Protect, Swords Dance, and a move like Earthquake or Brick Break can probably sweep through most of the team with a bit of speed control support as long as they can live a priority attack or two. There are a ton of abilities and moves that allow you to gain Defense, so if you're able to deal with Klefki and Empoleon there may be a working strategy involving going all in on Defense boosts to neutralize her attack boosts and such. There are also some boosts to attacks and abilities: Mystical Fire / Magician and Sparkling Aria / Oceanic Operetta do get boosted here if you want to try to sweep with your starter Delphox or Primarina! Queenly Majesty gives a boost to damage, combine this with its natural ability to cancel out Bullet Punch and Shadow Sneak, and Tsareena may end up being very helpful here. The Magical Seed giving a free turn can also be used by you, with the added bonus of you being able to hard switch in to a contact move to force a stat lower on one of her party members if need be. If you're really stuck, you can literally consider going 6 Magical Seeds held to grant yourself 6 free turns - this is what I did once upon a time to win this fight with a Fairy monotype.
+
+For winning, you'll get the *Alloy Badge*, boosting the level cap to 90. You also get *TM91 Flash Cannon*.
 
 ## Reborn Restoration Project 2
 
-Stub
+Pokemon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
+
+If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. 
+
+Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
+
+Relationship Point Choices:
+- Fund Project #2 (+1 Adrienn)
+
+If you'd like to complete another one, the choices and corresponding references are here:
+
+- [Affordable Living in Obsidia](#affordable-living-in-obsidia-project) ($60000)
+- [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
+- [Azurine Nature Center](#azurine-nature-center-project) ($80000)
+
 
 ## Other Badge
 
