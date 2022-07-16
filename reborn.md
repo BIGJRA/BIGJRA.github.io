@@ -163,7 +163,7 @@ Heavy Work In Progress :)
     - [Choice: Reshiram Route Taka Fight](#choice-reshiram-route-taka-fight)
     - [Greater Tourmaline Desert](#greater-tourmaline-desert)
     - [Northeast Tourmaline Desert](#northeast-tourmaline-desert)
-  - [Northwest Tourmaline Desert](#northwest-tourmaline-desert)
+    - [Northwest Tourmaline Desert](#northwest-tourmaline-desert)
   - [Sugiline Cave](#sugiline-cave)
   - [Mirage Tower](#mirage-tower)
   - [Teknite Cave & Teknite Ridge](#teknite-cave--teknite-ridge)
@@ -9380,7 +9380,7 @@ Relationship Point Choices:
 
 Stub
 
-## Northwest Tourmaline Desert
+### Northwest Tourmaline Desert
 
 Stub
 
