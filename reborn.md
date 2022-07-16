@@ -1970,7 +1970,7 @@ Head up the stairs to your left to enter the final ward of the city we've yet to
 
 Talk to the girl with the colorful hair in front of the very tall building, then make your way to the very top of the area to talk to the purple haired girl and the guy with red hair. After this conversation we'll be free to explore the area.
 
-Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
+Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
 
 You can enter the Alleyway towards the middle of the ward, but we won't talk to the guys in here quite yet. 
 
@@ -9249,9 +9249,11 @@ You'll also find many stationary **Exeggutor-Alola** around the desert.
 
 You can encounter the same Pokemon on the various maps but at different rates. Thankfully, with the Magnetic Lure, you will be able to get whatever you don't already have easily.
 
-First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, and finally grabbing whatever is in the center of the desert. 
+First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, and finally grabbing whatever is in the center of the desert. Note that the large opening in a sand dune is Sugiline Cave, for the purposes of navigation. We'll explore there later.
 
 Note that Taka often has something to say when you find these if he is with you.
+
+**On all maps (only obtainable once)**
 
 - In the top left corner up on a hill, you can get hidden 3 *Exp. Candy XL*. 
 - As you climb down the top left hill, go slightly right as you head down. You'll see a *Stone Plate* on top of a hill.
@@ -9291,8 +9293,118 @@ Aside from all these items, each of the four maps has its own list of hidden ite
 
 **Map 2**
 
-- 
+- On the hill where we found the 3 Exp. Candies, you can find a hidden *Chewing Gum*.
+- South of the hill, you can get a hidden *Poke Snax* between some rock pillars.
+- On the left side of the desert you'll see a clump of desert roses and cacti. Nearby is a hidden *Oval Stone*. 
+- Hugging the left wall of the desert, you'll find a hidden *Green Shard* in a bush.
+- Across the desert, north of where we found the Relic Copper earlier, you can find a hidden *Green Shard* and *Purple Shard* near desert rose trees.
+- Near the oasis on the right side of the desert, you can find hidden *Ability Capsule*, *Petaya Berry*, and *Carbos*. 
+- In the northeastern corner of the desert you can find a hidden *Ultra Ball* and *Exp. Candy XL* in some rocks.
+- Back down from here, slightly south and west from the oasis, you can find a hidden *Green Shard* in a skull by a hill.
+- Left from the previous item you'll find train tracks. Follow these up to get a hidden *Purple Shard*. 
+- Up and left from here you'll find a *Bug Gem* on top of a dune.
 
+**Map 3**
+
+- Just below the hill where we found the 3 Exp. Candies, you can find a hidden *Heart Scale* and *Red-Hots*.
+- Following the left wall down, you can get a *Blue Shard* in a bush.
+- Further down the left wall, nearby a desert rose patch you can get a *Calcium* and a *Dragon Gem*. 
+- Follow the left wall down, on the other side of the bend in the wall you can find a hidden *Peppermint* near a dead tree.
+- Nearby the oasis on the left side of the map, you can find a hidden *Relic Gold*, *Salac Berry*, and *Protein*.
+- To the right and slightly up from the oasis, you'll find a hidden *Red Shard*.
+- On the train platform down and to the right of the oasis you can get a hidden *Sun Stone*.
+- Across the tracks from the station and slightly down you'll find a hidden *Red Shard* near a pillar.
+- Slightly to the left of the pile of Poke Balls, you'll be able to find a hidden *Pop Rocks* under the tracks.
+
+For some reason, just on this map, you can give a guy in the bottom right corner some Fresh Water in exchange for a new password: *gen5weather*. Anyways, back to the items:
+
+- In the bottom right side of the desert, a rock will hide a *Nugget*. Just up from here in a patch of green is another rock containing a *Grass Gem*.
+- Go up from here, passing between a small hill and a pillar. Up from here you'll find a desert rose containing a hidden *Ultra Ball*.
+- Up from the Ultra Ball you'll see a bunch of bushes and cacti. Going right around the mountain, you'll find a hidden *Blast Powder*.
+- In a patch of green nearby a train track corner, towards the top right corner of the desert but a bit out from the wall, you can find a *Purple Shard*, and a *Poison Gem* just above here near a train car.
+- Straight left from the Poison Gem, follow the tracks to reach a hidden *Stardust*.
+- Just before you reach the top right corner of the desert, on your left is a mountain with a broken statue head beneath containing a *Steel Gem*. 
+- Hidden in a pile of rocks in the north east of here is a *Nugget*, and a *Green Shard* to the northeast in a bush.
+- Go straight left from this area into the area with many train tracks. In a rock pile you'll be able to find a hidden *Protein*.
+- Continuing left from here, slightly up is a hidden *Water Stone* fittingly in a cactus.
+- Going straight left from here once more, you'll find a hidden *Poke Snax* in a rock. 
+
+**Map 4**
+
+- On the hill where we found the 3 Exp. Candies, you can find a hidden *Common Candy*.
+- Down from the hill, you'll find a bush containing another hidden *Common Candy*.
+- Right from here, at the bend in the first track you'll find a rock containing a *Rock Gem*.
+- Follow this track eastward. Below the first palm tree east of the bend, you'll find a hidden *Poke Ball*.
+- Back at the bend to the left, go straight down. At the base of a medium-sized hill is a skull containing a hidden *Blast Powder*.
+- There is a desert rose patch down and to the left from here, containing a hidden *Zinc*.
+- Down from here you'll find a rock containing a *Cotton Candy*.
+- Much further down the wall on the left side, in two rocks are a *Magical Seed* and *Salt-Water Taffy*.
+- From the area where we got the Volt Switch TM, go straight east across the tracks to find a hidden *Iron*. 
+- Slightly to the northeast of the pile of Poke Balls, you'll find a hidden *Purple Shard*.
+- Around the oasis in the bottom right corner, you can find a hidden *Sitrus Berry*, *Dusk Ball*, and *Relic Copper*.
+- Just before the Sugiline Cave on the east side of the desert you'll find an area with a lot of cacti and bushes. Nearby are 3 hidden *Green Shards*.
+- Straight up from here, follow the wall up and to the right. Near the dead trees, we can find a hidden *Purple Shard*. 
+- Continue north and slightly left from here. In a green patch with bushes and a cactus you can find another hidden *Purple Shard*. Following the nearby tracks left, you'll find a hidden *Ultra Ball*. 
+- Slightly up and to the right, you'll find a hidden *Burn Heal* in a statue head at the base of a mountain and a hidden *Big Pearl* in a bush to the right.
+- In the northeast corner of the map, you'll find a hidden *Escape Rope* and *X Accuracy*. 
+- Left from here, in a rock beneath a hill, you can find a hidden *Purple Shard*.
+- Go left from here. Nearby the train cars, you can find a hidden *Blue Shard* in a rock.
+- Continue going farther to the left. Just before the final vertical train tracks is a rock containing a hidden *Awakening*.
+- Near the dead center of the desert, you'll find a small grove of trees near a train track. You'll find a hidden *Escape Rope*. 
+- Up and left from here is a patch of green containing another hidden *Green Shard*.
+- Follow the nearby tracks straight down to find a hidden *Fire Stone*.
+
+Phew! That's everything we can grab in the Greater Tourmaline Desert. 
+
+Note that if Taka is with you:
+
+Relationship Point Choices:
+- Talk to Taka in the Greater Tourmaline Desert while he's with you (+1 Taka)
+
+It's also worth noting that Taka has 36 different dialogues, some changing depending on your current location. If you talk to him in any location and he asks if you hate his father, you'll potentially get another point.
+
+Relationship Point Choices:
+- Tell Taka you don't hate Solaris (+1 Taka)
+
+### Northeast Tourmaline Desert
+
+Stub
+
+## Northwest Tourmaline Desert
+
+Stub
+
+## Sugiline Cave
+
+Next, I'll take us to the Sugiline Cave. 
+
+## Mirage Tower
+
+Stub
+
+## Teknite Cave & Teknite Ridge
+
+Stub
+
+## 1R253 Scrapyard
+
+Stub
+
+## Once Upon a Somewhere
+
+Stub
+
+## Badge
+
+Stub
+
+## Reborn Restoration Project 2
+
+Stub
+
+## Other Badge
+
+Stub
 
 # Appendices
 
