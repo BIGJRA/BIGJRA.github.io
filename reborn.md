@@ -158,7 +158,7 @@ Heavy Work In Progress :)
     - [Railnet Reconstruction Project](#railnet-reconstruction-project)
     - [Azurine Nature Center Project](#azurine-nature-center-project)
   - [Gang Application Sidequest](#gang-application-sidequest)
-  - [Beginning the Starter Egg Quest](#beginning-the-starter-egg-quest)
+  - [Starter Egg Quest Part 1](#starter-egg-quest-part-1)
   - [Tourmaline Desert](#tourmaline-desert)
     - [Choice: Reshiram Route Taka Fight](#choice-reshiram-route-taka-fight)
     - [Greater Tourmaline Desert](#greater-tourmaline-desert)
@@ -174,6 +174,19 @@ Heavy Work In Progress :)
   - [Torrent Badge](#torrent-badge)
     - [Reshiram Route: Fiore Gym](#reshiram-route-fiore-gym)
     - [Zekrom Route: Fiore Gym](#zekrom-route-fiore-gym)
+- [Episode 18: Void-Kissed](#episode-18-void-kissed)
+  - [Reborn Restoration Project 3](#reborn-restoration-project-3)
+  - [Starter Egg Quest Part 2](#starter-egg-quest-part-2)
+  - [Rock Climb Exploration](#rock-climb-exploration)
+  - [Route 4](#route-4-1)
+  - [Glass Workstation](#glass-workstation)
+  - [The Raid on Agate City](#the-raid-on-agate-city)
+  - [Agate City & Sidequests](#agate-city--sidequests)
+  - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
+  - [Finishing the Starter Egg Quest](#finishing-the-starter-egg-quest)
+  - [Completing the Pokedex](#completing-the-pokedex)
+  - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
+  - [Placeholder Badge](#placeholder-badge)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -9103,7 +9116,7 @@ That's it for this restoration project.
 
 [Jump back: 14 Badges](#gang-application-sidequest)
 [Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#rock-climb-exploration)
+[Jump back: 16 Badges](#starter-egg-quest-part-2)
 
 ### Railnet Reconstruction Project
 
@@ -9185,7 +9198,7 @@ That's it for this restoration project.
 
 [Jump back: 14 Badges](#gang-application-sidequest)
 [Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#rock-climb-exploration)
+[Jump back: 16 Badges](#starter-egg-quest-part-2)
 
 ### Azurine Nature Center Project
 
@@ -9249,7 +9262,7 @@ That's it for this restoration project.
 
 [Jump back: 14 Badges](#gang-application-sidequest)
 [Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#rock-climb-exploration)
+[Jump back: 16 Badges](#starter-egg-quest-part-2)
 
 ## Gang Application Sidequest
 
@@ -9281,7 +9294,7 @@ Note that if you haven't fixed the slums yet, you won't be able to finish this q
 
 For completing this quest, you'll be given a **Litten** holding a *Choice Scarf*.
 
-## Beginning the Starter Egg Quest
+## Starter Egg Quest Part 1
 
 Head into the Grand Hall basement and enter the middle room on the left side. Kanaya will task us with donating one egg of each of the 21 starter Pokemon! 
 
@@ -10367,7 +10380,26 @@ Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge*
 
 # Episode 18: Void-Kissed
 
-Exit the gym! 
+Exit the gym! Time to progress the story just a little bit in order to knock out some sidequests.
+
+Head over to Calcenon City, then enter "that one apartment building where a bunch of plot happens, for some reason". You know the one.
+
+Relationship Point Choices:
+- Agree with Hardy about charging the base (+1 Hardy, -1 Florinia)
+- Disagree with Hardy about charging the base (-1 Hardy, +1 Florinia)
+
+Head out towards Route 4. In the gatehouse, talk to Charlotte if you'd like.
+
+Relationship Point Choices:
+- Tell Charlotte you believe her while you have >= 0 points with her (+1 Charlotte)
+- Tell Charlotte you believe her while you have < 0 points with her (-1 Charlotte)
+- Tell Charlotte you don't believe her while you have >= 0 points with her (-1 Charlotte)
+- Tell Charlotte you don't believe her while you have < 0 points with her (+1 Charlotte)
+
+Relationship Point Choices:
+- Tell Charlotte you are going to do something about it (+1 Charlotte)
+
+Head out to Route 4. On the east end of the right, you'll see Hardy standing next to a Rock Climbing wall, and as you might guess, he gives us *TMX9 Rock Climb*. Up the nearby hill would be where we'd go to continue the story, but we do have a few sidequests to take care of in the meantime!
 
 ## Reborn Restoration Project 3
 
@@ -10384,10 +10416,53 @@ If you'd like to complete another one, the choices and corresponding references 
 - [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
 - [Azurine Nature Center](#azurine-nature-center-project) ($80000)
 
+## Starter Egg Quest Part 2
+
+Since the last time we made progress on this quest, it is now guaranteed that we can complete all three of the restoration projects, meaning by now it is guaranteed that we can breed Bulbasaur, Chimchar, and either Oshawott or Litten depending on gang choice. We also recently found Rowlet, so we can donate four more eggs to Kamaya in the Grand Hall.
+
+This brings the total up to 17/21 eggs donated; since we passed 15, that means we get the *Reset Disc- SPDEF* as a reward. The next time I will bring us back here, we will for sure have the last four starters to finish this quest.
+
 ## Rock Climb Exploration
 
-Head over to Route 4.
+We've chopped down menacing small trees. We've smashed brittle rocks and pushed aside heavy boulders. We've crossed massive bodies of water, gone up perilous waterfalls and dived down to the deepest trenches imaginable. We've lit up the darkest of dungeons and flown across the vast Reborn Region. But now? It's finally time to climb rocks.
 
+You can probably tell we're reaching the endgame, so there are tons of excellent but optional rewards that we can now get with Rock Climb. Follow along to grab 'em all, or jump to the Route 4 section to get on with the story.
+
+## Route 4
+
+Stub
+
+## Glass Workstation
+
+Stub
+
+## The Raid on Agate City
+
+Stub
+
+## Agate City & Sidequests
+
+Stub
+
+## Bee's Pokedex Completion Quest Part 1
+
+Stub
+
+## Finishing the Starter Egg Quest
+
+Stub
+
+## Completing the Pokedex
+
+Stub
+
+## Bee's Pokedex Completion Quest Part 2
+
+Stub
+
+## Placeholder Badge
+
+Stub
 
 # Appendices
 
