@@ -9114,9 +9114,8 @@ With that out of the way, return to the Grand Hall basement. In the bottom right
 
 That's it for this restoration project.
 
-[Jump back: 14 Badges](#gang-application-sidequest)
-[Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#starter-egg-quest-part-2)
+Jump back to the correct section:
+[14 Badges](#gang-application-sidequest) | [15 Badges](#torrent-badge) | [16 Badges](#starter-egg-quest-part-2)
 
 ### Railnet Reconstruction Project
 
@@ -9196,9 +9195,8 @@ Return to the guy in the Grand Hall basement who gave us this quest to get the *
 
 That's it for this restoration project.
 
-[Jump back: 14 Badges](#gang-application-sidequest)
-[Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#starter-egg-quest-part-2)
+Jump back to the correct section:
+[14 Badges](#gang-application-sidequest) | [15 Badges](#torrent-badge) | [16 Badges](#starter-egg-quest-part-2)
 
 ### Azurine Nature Center Project
 
@@ -9260,9 +9258,8 @@ A lady on the left will give us 2 *Leaf Stones* and a mission: to donate a male 
 
 That's it for this restoration project.
 
-[Jump back: 14 Badges](#gang-application-sidequest)
-[Jump back: 15 Badges](#torrent-badge)
-[Jump back: 16 Badges](#starter-egg-quest-part-2)
+Jump back to the correct section:
+[14 Badges](#gang-application-sidequest) | [15 Badges](#torrent-badge) | [16 Badges](#starter-egg-quest-part-2)
 
 ## Gang Application Sidequest
 
