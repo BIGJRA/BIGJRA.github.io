@@ -171,7 +171,9 @@ Heavy Work In Progress :)
   - [Once Upon a Somewhere](#once-upon-a-somewhere)
   - [Alloy Badge](#alloy-badge)
   - [Reborn Restoration Project 2](#reborn-restoration-project-2)
-  - [Other Badge](#other-badge)
+  - [Torrent Badge](#torrent-badge)
+    - [Reshiram Route: Fiore Gym](#reshiram-route-fiore-gym)
+    - [Zekrom Route: Fiore Gym](#zekrom-route-fiore-gym)
 - [Appendices](#appendices)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
@@ -1459,6 +1461,8 @@ Jasper Ward
 |Pidgey            |20 |
 |**Carnivine**     |7  |
 |**Pidgeotto**     |4  |
+
+It's worth noting that when we have like 11 more badges we will eventually want a Carnivine for an in-game trade.
 
 Talk to Corey and Heather here, then head into the police station. Talk to the chief here, who will tell you about his missing officers. You don't have to find them, but doing so is the first step to doing the more exclusive postgame story route. If you'd like to play the route of the game that involves not finding the officers in time, you can skip finding one of the officers until you complete up to the end of this section, then find them afterwards to get the quest rewards.
 
@@ -7358,6 +7362,8 @@ Mosswater Market Tuner Shop
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*. 
 
+Outside her house and down, there is a tent. Hidden underneath this tent is an NPC who will give you the *Expert Belt*. I have played this game many times and only just learned about this.
+
 Enter the building that Simon is in and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
 
 Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained a PULSE, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
@@ -8909,6 +8915,8 @@ Return to the north side of Peridot Ward and talk to the Corin Rouge lookalike h
 
 Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety Goggles*. This massive quest quest will be over soon, I swear.
 
+Head down to the Lower Peridot Ward. If we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokemon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
+
 ## Reborn Restoration Project 1
 
 Anyways, head over to the Grand Hall. One of the guys behind the desk will be accepting donations for one of three projects.
@@ -9093,17 +9101,155 @@ With that out of the way, return to the Grand Hall basement. In the bottom right
 
 That's it for this restoration project.
 
+[Jump back: 14 Badges](#gang-application-sidequest)
+[Jump back: 15 Badges](#torrent-badge)
+[Jump back: 16 Badges](#rock-climb-exploration)
+
 ### Railnet Reconstruction Project
 
 Donate the $100000 to fund this project.
 
-This section is a stub for now - I will complete it along with the E17 content.
+Essentially, this project funds a revamp of the Underground Railnet, so most of the things we can now get surround that. To start, head to Peridot Ward and head east into the Underground Railnet entrance under Opal Ward.
+
+This area is the "Lost and Found". Always obtainable here are the *Assault Vest* and *Iron Plate*. If you realize that you missed out on getting any important items due to story progression such as Key Items, PULSE and Field Readouts, or TMs, check back here and they might just be here!
+
+Next, enter the Devon Co. building and head down the stairs. The basement stairs will be blocked off, allowing us to grab the *Steelixite*! 
+
+Enter the railnet building to the left of the Pokemon Center in Obsidia. This is now the Goldenrod Station of the functioning railnet - we will be visiting each station to see what's new there. We don't lose money buying tickets, but the subway isn't really any more useful than Fly, which we already have, so this is really just for exploration. 
+
+Anyways, the Grandview Station is just the building we used to get to the desert previously, so there's nothing new there. The Ivyline Station is in the basement of the Onyx Trainer School, but we also aren't getting anything other than NPC dialogue there. Same for the Sunset Station, which is just outside in Northern Peridot Ward. Continuing the bad luck of no new content is the Heatherhill Station which brings us to the Jasper Ward Pokemon Center, and the Peony Station, which brings us to a random building in the Lapis Ward. 
+
+The Kingsbury Station though? It brings us to a random building in Beryl Ward, but an NPC inside will give us the *Weakness Policy*. Insert world's longest "yea boi" here. But the Shantyport Station in Coral Ward? That's where the real reward is at. Bring an NPC in here a Probopass for an in-game trade for his **Togepi** egg. Nice.
+
+I jest, but there is one more reward we can get out of doing this renovation project. In the Grand Hall basement, a nerdy NPC in the bottom left corner will tell us about an issue with the railnet renovation. Prepare your team as needed and head over to the Byxbysion Wasteland.
+
+Via climbing through the building as we have before, hop down a ledge at the top to reach the upper left corner of the wasteland, and enter the cave. Go left, and follow the path into a building which contains a hidden *Telluric Seed* and *Exp. Candy XL*. Proceeding left, you can enter one final section of the underground railnet. Be prepared for a mini-gauntlet.
+
+Pokemon Refugees. Field: Cave Field
+- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+- Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+- Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
+    - Earthquake
+
+This fight exploits the cave field to collapse in on your Pokemon - instantly KO'ing most Pokemon. The Sturdy + Custap Berry combo makes it common for each Pokemon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokemon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokemon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
+
+Pokemon Refugees. Field: Cave Field
+- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Rock Slide
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bulldoze
+- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Rock Slide
+    - Bulldoze
+
+Possibly benefitting from the collapses your team suffer in the first battle, this doubles team goes all in on a similar strategy, this time with Rock Head to prevent any of the Aggron from taking collapse damage. With their Seeds, they'll gain defense, so your physical moves won't easily take them down in time. Wide Guard is even better this time, as your second active Pokemon can then focus on knocking out the Aggron. You can also just point-blank sweep them with two Pokemon running Aura Sphere, Focus Blast, Earth Power, Surf, and the like, so that's an option too. Again Bulletproof and Rock Head trivialize this fight.
+
+Once you succeed in here, you can get the *Aggronite* and a hidden *Ultra Ball* and *Max Repel*. There are also encounters down here. 
+
+Underground Railnet (Aggron Area)
+
+|Cave              |%  |
+|------------------|---|
+|Lairon            |24 |
+|Aron              |20 |
+|Klink             |20 |
+|Graveler          |10 |
+|Noivern           |10 |
+|Klang             |5  |
+|Mawile            |5  |
+|Aggron            |5  |
+|Klinklang         |1  |
+
+Return to the guy in the Grand Hall basement who gave us this quest to get the *Firium-Z*.
+
+That's it for this restoration project.
+
+[Jump back: 14 Badges](#gang-application-sidequest)
+[Jump back: 15 Badges](#torrent-badge)
+[Jump back: 16 Badges](#rock-climb-exploration)
 
 ### Azurine Nature Center Project
 
 Donate the $80000 to fund this project.
 
-This section is a stub for now - I will complete it along with the E17 content.
+Surf on down to the Azurine Island once more from Coral Ward, and make your way to the building at the bottom. This will then be added as a Fly location, so you can easily get back here in the future.
+
+Inside the building, you can get a *Toxic Plate*. You can also learn about the password *weathermod*. Upstairs, you'll find 5 *Exp. Candy XL*, as well as an *EV Booster* and *Max Ether*. If you didn't do the Chikorita event earlier, you can get it on the roof now.
+
+In front of the building, a person will offer you an in-game trade: your Carnivine for a **Chimchar** egg. Nice.
+
+Of course, the Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokemon now!
+
+Neo Azurine Island (Renovated)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Yanma             |20 |Wooper            |20 |Wooper            |20 |
+|Gloom             |20 |Gloom             |20 |Gloom             |20 |
+|Quagsire          |10 |Quagsire          |10 |Quagsire          |10 |
+|Gastrodon         |10 |Gastrodon         |10 |Golbat            |10 |
+|Palpitoad         |10 |Palpitoad         |10 |Palpitoad         |10 |
+|Yanmega           |10 |Accelgor          |10 |Ariados           |10 |
+|**Pinsir**        |5  |**Pinsir**        |5  |**Pinsir**        |5  |
+|**Heracross**     |5  |**Heracross**     |5  |**Heracross**     |5  |
+|Foongus           |4  |Foongus           |4  |Foongus           |4  |
+|**Bulbasaur**     |4  |**Bulbasaur**     |4  |Drapion           |4  |
+|Vileplume         |1  |Vileplume         |1  |Vileplume         |1  |
+|Seismitoad        |1  |Seismitoad        |1  |Seismitoad        |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Tentacool         |60 |Burmy             |30 |
+|Wingull           |30 |Exeggcute         |30 |
+|Tentacruel        |5  |Pineco            |25 |
+|Pelipper          |4  |Wormadam          |5  |
+|Mantine           |1  |Mothim            |5  |
+|                  |   |Forretress        |5  |
+
+Time to finally comb the Azurine Island for items one last time. We're also going to encounter more Foongus and Amoonguss in disguise, make sure you defeat or run from them to get them out of the way for a quest here.
+
+This time I'll go left from the building to start. Grab the hidden *Big Mushroom* here, then another *Big Mushroom* to the left. Defeat the nearby Amoonguss, then head right. You'll find a hidden *Big Mushroom* in a rock, and a non-hidden *Big Mushroom* below. To the right and down is another hidden *Big Mushroom* in a bush. Going up from here you can find, shocker, a hidden *Big Mushroom* left of the water.
+
+Up the river is another hidden *Big Mushroom* in a rock, and one out in the open to the left. Here you can meet the guy asking us to eradicate the Foongus and Amoonguss - once we finish we will return to him. To the left of him you'll find... a hidden *Blue Shard*! Surprise! Anyways, surf up and to the left from here to get a hidden *Big Mushroom* in a rock, and a hidden *Common Candy* in a bush below. Another *Big Mushroom* is hidden on the same island where we once landed for the first time. Down and to the left you can get a hidden *Tiny Mushroom*. Across the water on the largest island, you can pick up another *Big Mushroom*, and a hidden *Full Heal* to the right. 
+
+Down the ledge and across the water, talk to the nature guy once more to get a *Rocky Helmet*. Sweet.
+
+There is one more thing we can do for this restoration project. Fly over to the Grand Hall and go to the basement. In the top right hallway, you can talk to a guy who will tell you that they are looking for sample Pokemon at Azurine Island. Fly back there.
+
+A lady on the left will give us 2 *Leaf Stones* and a mission: to donate a male and female each of Lurantis and Simisage. I recommend just breeding each using the incubator until you get the desired gender, then leveling the Fomantis up to get Lurantis and using the Leaf Stones on Pansage to get **Simisage**. Donate all four and return to the Grand Hall to get the *Grassium-Z*.
+
+That's it for this restoration project.
+
+[Jump back: 14 Badges](#gang-application-sidequest)
+[Jump back: 15 Badges](#torrent-badge)
+[Jump back: 16 Badges](#rock-climb-exploration)
 
 ## Gang Application Sidequest
 
@@ -9991,6 +10137,8 @@ There are a good number of strategies that remain for you to use, thankfully. A 
 
 For winning, you'll get the *Alloy Badge*, boosting the level cap to 90. You also get *TM91 Flash Cannon*.
 
+Jump down the pit at the top and go left to return to Train Town.
+
 ## Reborn Restoration Project 2
 
 Pokemon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
@@ -10008,10 +10156,238 @@ If you'd like to complete another one, the choices and corresponding references 
 - [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
 - [Azurine Nature Center](#azurine-nature-center-project) ($80000)
 
+There is one more thing we can do before continuing: fly over to Calcenon City.
 
-## Other Badge
+Relationship Point Choices:
+- Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
 
-Stub
+## Torrent Badge
+
+With that out of the way, we can pretty much head right to the next gym. Fly to the Celestinine Cascade and enter the Fiore Mansion. You can pet Vaporeon for that quest, and talk to Julia for some A+ gym advice. Enter the gym room at the back.
+
+### Reshiram Route: Fiore Gym
+
+If you're on the Zekrom Route, skip ahead to the next section.
+
+Unfortunately this gym's layout is super confusing, but I will guide us through. For now, dive down here and then make your way down at the three-way fork. Thankfully this way is very linear, so go straight. Once you have two waterfalls to choose from, go up the left to get a hidden *Heart Scale* then proceed. 
+
+Surface in the gym room, then talk to Amaria. Use the warp to return to the front of the gym, for it's time to look for Amaria. You'll need to find her three times.
+
+This time, head right at the underwater fork. When you surface, you can get a hidden *Full Restore*. The path from here is linear. When you surface next, you can get a hidden *Ultra Potion* on the left. Continuing, when you encounter a fork, go down instead of left. Amaria #1 is encountered in the next room, on the left side of the loop.
+
+Continue into the next room in the bottom right. Going right at the fork will lead you to an *Elemental Seed*. Follow the path through, surfacing. Continue to follow the path at the next dive spot. At the fork, go left instead of right.
+
+Exit this next room at the top and surface to get a *Max Revive*. Dive back down, this time exiting the large room in the southeast exit. Exit this room on the northeast side.
+
+Go left at the first fork to reach the *Slowbronite*! Back at the fork head straight up, and then left as soon as you can to surface. There's a hidden *Ability Capsule* at the base of the waterfall. Grab it, then head back up the waterfall and dive down into the room we were just in. In the southeast is Amaria #2. From here, head into the room we previously visited in the southwest corner.
+
+You'll find Amaria #3 in the pocket towards the center of the room.
+
+Relationship Point Choices:
+- Find Amaria #3 and say no (-4 Amaria)
+- Find Amaria #3 and say yes (-3 Amaria)
+
+After the scenes that play out here, you'll end up in the Fiore Mansion. Prepare yourself, then return to the gym when ready.
+
+Take the teleporter to the gym arena and talk to Amaria. 
+
+Amaria will ask you if you want to battle in Singles or Doubles - but she'll actually challenge you in the format opposite of what you request!
+
+Jetsam Amaria (Singles) (3x Ultra Potion). Field: Water Surface
+- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Scald
+    - Thunderbolt
+    - Light Screen
+    - Ice Beam
+- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Dive
+    - Hidden Power
+    - Ice Beam
+    - Whirlpool
+- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/52/206/0
+    - Ice Beam
+    - Giga Drain
+    - Focus Blast
+    - Surf
+- Swampert, Lv. 87, @Swampertite, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Dive
+    - Earthquake
+    - Stone Edge
+    - Whirlpool
+- Kingdra, Lv. 88, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/156/252/0
+    - Scald
+    - Dragon Pulse
+    - Ice Beam
+    - Whirlpool
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Curse
+    - Rest
+    - Dive
+    - Ice Shard
+
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric-types and maybe Grass-types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Alolan Raichu for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+
+Jetsam Amaria (Doubles) (3x Ultra Potion). Field: Water Surface
+- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/0/156/0
+    - Shadow Ball
+    - Ice Beam
+    - Dive
+    - Surf
+- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
+    - Sludge Bomb
+    - Surf
+    - Earthquake
+    - Focus Blast
+- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Energy Ball
+    - Dazzling Gleam
+    - Surf
+    - Ice Beam
+- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/0/200/0
+    - Volt Switch
+    - Surf
+    - Thunderbolt
+    - Whirlpool
+- Blastoise, Lv. 88, @Blastoisinite, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Aura Sphere
+    - Surf
+    - Ice Beam
+    - Whirlpool
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/0/100
+    - Protect
+    - Rest
+    - Perish Song
+    - Surf
+
+Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water-types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric-types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise can mega-evolve, making its Aura Sphere a bit stronger and raising its stats somewhat. 
+
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Alolan Raichu can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+
+
+Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
+
+### Zekrom Route: Fiore Gym
+
+If you're on the Reshiram Route, skip ahead to the next section.
+
+Unfortunately this gym's layout is super confusing, but I will guide us through. For now, dive down here and then make your way down at the three-way fork. Thankfully this way is very linear, so go straight. Once you have two waterfalls to choose from, go up the left to get a hidden *Heart Scale* then proceed. 
+
+Surface in the gym room, then talk to Titania. Use the warp to return to the front of the gym, for it's time to look for Amaria. You'll need to find her three times.
+
+This time, head right at the underwater fork. When you surface, you can get a hidden *Full Restore*. The path from here is linear. When you surface next, you can get a hidden *Ultra Potion* on the left. Continuing, when you encounter a fork, go down instead of left. Enter the next room.
+
+Continue into the next room in the bottom right. Going right at the fork will lead you to an *Elemental Seed*. Follow the path through, surfacing. Continue to follow the path at the next dive spot. At the fork, go left instead of right. The next room contains Amaria #1 swimming around the upper loop. 
+
+Exit this room at the top and surface to get a *Max Revive*. Dive back down, this time exiting the large room in the southeast exit. In a loop to the right, you'll find Amaria #2. Exit this room on the northeast side.
+
+Go left at the first fork to reach the *Slowbronite*! Back at the fork head straight up, and then left as soon as you can to surface. There's a hidden *Ability Capsule* at the base of the waterfall. Grab it, then head back up the waterfall and dive down into the room we were just in. In the northeast is Amaria #3. From here, head into the room we previously visited in the southwest corner.
+
+Continue through this room and follow the path to the next in the bottom left corner. Exit the next room via the left-most exit, and at the fork in the next room, go right. Surface here, then follow the path at the next dive spot. This is the fork where we started our diving, so enter the door at the top and surface, then leave. Prepare yourself, then return to the gym when ready.
+
+Take the teleporter to the gym arena and talk to Titania, then to Amaria. 
+
+Amaria will ask you if you want to battle in Singles or Doubles. 
+
+Flotsam Amaria (Singles) (2x Ultra Potion). Field: Water Surface
+- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Scald
+    - Thunderbolt
+    - Light Screen
+    - Ice Beam
+- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Dive
+    - Hidden Power
+    - Ice Beam
+    - Whirlpool
+- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/52/206/0
+    - Ice Beam
+    - Giga Drain
+    - Focus Blast
+    - Surf
+- Swampert, Lv. 87, @Assault Vest, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/4/252/0/0/0
+    - Dive
+    - Earthquake
+    - Stone Edge
+    - Whirlpool
+- Kingdra, Lv. 88, @Dragonium-Z, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/156/252/0
+    - Scald
+    - Dragon Pulse
+    - Ice Beam
+    - Whirlpool
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Curse
+    - Rest
+    - Dive
+    - Ice Shard
+
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric-types and maybe Grass-types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon-type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Alolan Raichu for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+
+Flotsam Amaria (Doubles) (2x Ultra Potion). Field: Water Surface
+- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/0/156/0
+    - Shadow Ball
+    - Ice Beam
+    - Dive
+    - Surf
+- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
+    - Sludge Bomb
+    - Surf
+    - Earthquake
+    - Focus Blast
+- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Energy Ball
+    - Dazzling Gleam
+    - Surf
+    - Ice Beam
+- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/0/200/0
+    - Volt Switch
+    - Surf
+    - Thunderbolt
+    - Whirlpool
+- Blastoise, Lv. 88, @Fightinium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Aura Sphere
+    - Surf
+    - Ice Beam
+    - Whirlpool
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/0/100
+    - Protect
+    - Rest
+    - Perish Song
+    - Surf
+
+Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water-types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric-types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise has a Fighting-type Z-move, as well.
+
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Alolan Raichu can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+
+
+Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
+
+# Episode 18: Void-Kissed
+
+Exit the gym! 
+
+## Reborn Restoration Project 3
+
+With 16 badges in hand, we can finally complete the third and last of the Grand Hall restoration projects. 
+
+Relationship Point Choices:
+- Fund Project #3 (+1 Adrienn)
+
+Once you've funded all three projects, the guy at the desk will give you the *Absolite*. 
+
+If you'd like to complete another one, the choices and corresponding references are here:
+
+- [Affordable Living in Obsidia](#affordable-living-in-obsidia-project) ($60000)
+- [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
+- [Azurine Nature Center](#azurine-nature-center-project) ($80000)
+
+## Rock Climb Exploration
+
+Head over to Route 4.
+
 
 # Appendices
 
