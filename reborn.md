@@ -52,10 +52,10 @@ Heavy Work In Progress :)
     - [Choice: The Magma Gang 2](#choice-the-magma-gang-2)
     - [Choice: The Aqua Gang 2](#choice-the-aqua-gang-2)
   - [Rock Smash Exploration](#rock-smash-exploration)
-    - [A Trip to the Stairway](#a-trip-to-the-stairway)
-    - [A Trip to the Slums](#a-trip-to-the-slums)
-    - [A Trip to Beryl Cave](#a-trip-to-beryl-cave)
-    - [A Trip to Citrine Mountain](#a-trip-to-citrine-mountain)
+    - [Smashin' at the Stairway](#smashin-at-the-stairway)
+    - [Smashin' at the Slums](#smashin-at-the-slums)
+    - [Smashin' at Beryl Cave](#smashin-at-beryl-cave)
+    - [Smashin' at Citrine Mountain](#smashin-at-citrine-mountain)
   - [Omen Badge](#omen-badge)
 - [Episode 6: Poison In Vein](#episode-6-poison-in-vein)
   - [Blacksteam Factory](#blacksteam-factory)
@@ -737,7 +737,7 @@ Head nearby the train station in Lower Peridot. While it is raining, if you have
 
 Nearby you'll find a hiker. Talk to him, then talk to the person in the house containing Whismur earlier on. Return to the hiker and follow him to the house to receive **Onix**!
 
-Next, enter the Grand Hall. The Common Candy salesman is now gone but in his place is a person who will give us the *Rainbow Field* readout. You probably can't do much with this one yet, but once you are able to create the Rainbow Field yourself, you do lots of crazy things in battle on it.
+Next, enter the Grand Hall. The Common Candy salesman is now gone but in his place is a person who will give us the *Rainbow Field Readout*. You probably can't do much with this one yet, but once you are able to create the Rainbow Field yourself, you do lots of crazy things in battle on it.
 
 Now that we have a badge, Pokemarts will be updated:
 
@@ -2596,7 +2596,7 @@ In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwor
 
 Make your way to the North Obsidia Ward. Here you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for trade items. It's pricey, but if you have a Pokemon like Graveler you're trying to evolve it's worth picking up.
 
-### A Trip to the Stairway
+### Smashin' at the Stairway
 
 Head over to the Grand Stairway and make your way to B1F. At the top right, smash a rock, pick up a hidden *Green Shard*, then go up. In this new room you can find a hidden *PP Up*, *Exp. Candy L*, and a stationary *Exp. Candy M*. Talk to the hiker in here for a *Mining Kit*. 
 
@@ -2662,7 +2662,7 @@ We can't revive the fossils or use the Odd Keystone just yet but we will soon en
 
 Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly. 
 
-### A Trip to the Slums
+### Smashin' at the Slums
 
 Next, we're going to head on over to the Obsidia Slums. On the first floor of the main area of the slums take the top left escalator down to reach B1F. Then go between the escalators through the door here, and use the Dull Key inside. Grab a hidden *Calcium* then enter the next room.
 
@@ -2748,7 +2748,7 @@ Department Store 5F Right Shop
 
 The Power Items downstairs may be 50% more expensive than these but you can buy them just once and use them infinitely many times while these are consumable. No reason to ever buy here.
 
-### A Trip to Beryl Cave
+### Smashin' at Beryl Cave
 
 Next, make your way all the way back to Beryl Ward. In the graveyard area we can smash some rocks to reach a new cave.
 
@@ -2783,7 +2783,7 @@ Just gotta find a way to hit Shiftry with a Bug move and you'll probably win her
 
 The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu**. 
 
-### A Trip to Citrine Mountain
+### Smashin' at Citrine Mountain
 
 Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 
@@ -10423,7 +10423,82 @@ This brings the total up to 17/21 eggs donated; since we passed 15, that means w
 
 We've chopped down menacing small trees. We've smashed brittle rocks and pushed aside heavy boulders. We've crossed massive bodies of water, gone up perilous waterfalls and dived down to the deepest trenches imaginable. We've lit up the darkest of dungeons and flown across the vast Reborn Region. But now? It's finally time to climb rocks.
 
-You can probably tell we're reaching the endgame, so there are tons of excellent but optional rewards that we can now get with Rock Climb. Follow along to grab 'em all, or jump to the Route 4 section to get on with the story.
+You can probably tell we're reaching the endgame, so there are tons of excellent but optional rewards that we can now get with Rock Climb. Follow along to grab 'em all, or jump to the Route 4 section to get on with the story. Note that any rock walls that I don't mention here are merely shortcuts (and, mostly obsolete thanks to Fly).
+
+### Climbin' at Azurine & Apophyll
+
+I'll start with some easy ones. Fly over to Azurine Island. Surf up from the nature center - towards the middle of the big island, you'll see a climbable wall. At the end of the short path above it, you'll be able to pick up the *Poisonium-Z*!
+
+Next, fly over to Apophyll Beach. Make your way towards Pyrous Mountain, and climb down to get *TM52 Focus Blast*. Hope you don't miss!
+
+### Climbin' at Teknite Ridge
+
+First, fly over to the desert. Make your way all the way to the Teknite Cave in the northwest. Progress through the cave until you reach the split paths on 4F. Use the top left exit and make your way all the way to the dead end. 
+
+By hopping across some rocks to the top left corner, you'll notice a climbing wall. At the top, you can find a hidden *Ability Capsule* and a **Jangmo'o** egg! Sweet.
+
+That's not all we can do in the Teknite Ridge, but we will be accessing a different side of the ridge to finish up.
+
+Fly over to the Beryl Ward, and enter the Beryl Cave. On 1F, you can use Rock Climb to access a new area. Grab the hidden *Red Shard* and head into the next room, which has a hidden *Hard Stone*. Climb up once more to emerge into a new section of the Teknite Ridge.
+
+Teknite Ridge (Beryl Cave Area)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Durant            |20 |Durant            |20 |Durant            |20 |
+|Heatmor           |20 |Heatmor           |20 |Heatmor           |20 |
+|Turtonator        |15 |Turtonator        |15 |Druddigon         |19 |
+|Accelgor          |14 |Druddigon         |15 |Sandslash         |10 |
+|Sandslash         |10 |Sandslash         |11 |Accelgor          |10 |
+|Graveler          |10 |Graveler          |10 |Graveler          |10 |
+|Druddigon         |5  |Accelgor          |4  |Turtonator        |5  |
+|**Lickilicky**    |4  |**Lickilicky**    |4  |**Lickilicky**    |5  |
+|Talonflame        |1  |Gliscor           |1  |Gliscor           |1  |
+|Gliscor           |1  |                  |   |                  |   |
+
+Hidden on this map, we can obtain a *Green Shard*, *Energy Powder*, *Dusk Ball*, *Common Candy*, and *Calcium*. Enter the cave at the top.
+
+Teknite Cave (Beryl Cave Area)
+
+|Cave              |%  |
+|------------------|---|
+|Boldore           |20 |
+|Aron              |20 |
+|Durant            |10 |
+|Lairon            |10 |
+|Dugtrio           |10 |
+|Heatmor           |10 |
+|Sandslash         |9  |
+|Turtonator        |9  |
+|Gigalith          |1  |
+|Aggron            |1  |
+ 
+Grab the hidden *Heart Scale*. We'll need to transform this field to Dark Crystal Cavern - using the TM for Dark Pulse, this should be doable. 
+
+Once you succeed, smash the wall at the top and proceed to the next room. Head up once you're ready for a fight.
+
+Pokemon Fulgor. Field: Dark Crystal Cavern
+- Volcarona, Lv. 100, @Sitrus Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Quiver Dance
+    - Signal Beam
+    - Giga Drain
+    - Heat Wave
+
+A fight against one excellent Pokemon, but I'm sure you can find a way to defeat it by now. Pick up the *Catching Charm: Ruby* here, as well as the hidden *Fire Stone* and *Ability Capsule*. Talk to the sunburst thing in the top right side of the room to battle and catch **Larvesta**! 
+
+Exit the cave. You can fly out from the Ridge.
+
+### Climbin' at Route 2 and Route 3
+
+Fly to the Celestinine Cascade. By heading down the stairs from the Fiore Gym, climb the first rock wall you see to get *TM28 Leech Life*. If you haven't moved the nearby Crustle to access the cave behind it, Rock Climb will make doing this easy.
+
+Make your way to the north side of Route 2. On the right, you'll see a short climb leading to 5 *Exp. Candy XL*. 
+
+Next, climb the ladder to Route 3. Climb down the single tile Rock Climb to skip the first cave, then go as far right as you can. Enter the next cave and climb the rock in the top left corner inside to get a hidden *Exp. Candy XL*. From here, proceed all the way through the cave as we did once before until you emerge back on Route 3.
+
+From here, go right and climb down the rocks nearby. Grab the hidden *Synthetic Seed* and enter the nearby cave. Here, you can get *TM53 Energy Ball*, a *Dragon Fang*, and a hidden *Full Restore*. Exit this cave.
+
+### Climbin' in Tanzan Mountain
 
 ## Route 4
 
