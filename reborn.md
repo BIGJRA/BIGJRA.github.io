@@ -4475,7 +4475,24 @@ Make your way back to where the meteor base was and use the cave on the right to
 
 Enter the room at the bottom. This is the room where Steelix was tunneling previously. Going straight to the right, you'll find a *Metal Coat* - meaning you can now get your own!
 
-Head up and to the left. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room go up, you'll see an iron girder opening a path. Here you can grab an *Upgrade*. 
+Head up and to the left. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room go up, you'll see an iron girder opening a path to a new room.
+
+Tanzan Depths (Across the Beam)
+
+|Cave              |%  |
+|------------------|---|
+|Onix              |20 |
+|Geodude-Alola     |20 |
+|Sandslash         |14 |
+|Graveler-Alola    |10 |
+|Diglett           |10 |
+|Arbok             |10 |
+|Dugtrio           |5  |
+|Hippopotas        |5  |
+|Durant            |5  |
+|**Hippowdon**         |1  |
+
+Here you can grab an *Upgrade*. 
 
 That's all for now, so you can Dig or Escape Rope to get back to Tanzan Mountain proper and go up from the area where you got the jewelry from Saphira.
 
@@ -7240,7 +7257,7 @@ Tanzan Mountain Inner, Tanzan Depths Inner
 |Arbok             |10 |
 |Dugtrio           |5  |
 |Seviper           |5  |
-|**Hippowdon**     |4  |
+|Hippowdon         |4  |
 |**Steelix**       |1  |
 |**Excadrill**     |1  |
 
@@ -10499,6 +10516,36 @@ Next, climb the ladder to Route 3. Climb down the single tile Rock Climb to skip
 From here, go right and climb down the rocks nearby. Grab the hidden *Synthetic Seed* and enter the nearby cave. Here, you can get *TM53 Energy Ball*, a *Dragon Fang*, and a hidden *Full Restore*. Exit this cave.
 
 ### Climbin' in Tanzan Mountain
+
+Fly over to the Tanzan Cove and enter the main part of Tanzan Mountain. Go past the meteor base and down the stairs to enter the Tanzan Depths.
+
+In the area where we fought Steelix, make your way to the top left and climb across the metal beam. Climb up here. You'll find a *Muscle Band*, *Rock Memory*, *Big Nugget*, and *Kangaskhanite* here as well as hidden items: *Escape Rope*, 4 *Tiny Mushrooms*, *Green Shard*, *Red Shard*, *Exp. Candy XL*, *Awakening*, *Blue Shard*, and *Carbos*. 
+
+Enter any one of the three caves.
+
+Tanzan Depths (Small Back Caves)
+
+|Cave              |%  |
+|------------------|---|
+|Sandslash         |30 |
+|Graveler-Alola    |20 |
+|Dugtrio           |15 |
+|Durant            |14 |
+|Hippowdon         |14 |
+|Seviper           |5  |
+|Steelix           |1  |
+|Excadrill         |1  |
+
+Use Earthquake, Magnitude, etc. in a battle twice to make some green crystal gems fall - this is necessary to explore the other part of the Tanzan Depths.
+
+Use an Escape Rope or Dig to save time if you'd like, and return to Tanzan Cove. Surf across the cove and enter the Tanzan Mountain entrance here. Climb down the rocks.
+
+In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Repel*, *Escape Rope*, 2 *PokeSnax*, *Purple Shard*, *Stardust*, and *Great Ball*, as well as tons of mining rocks. Once you get everything, break the ground by using Magnitude or Earthquake twice in battle once more.
+
+The floor will collapse, creating a new climbing wall. Head down. In the next room, talk to the Green Crystal to get Larvitar to move. You can get a hidden *Green Shard* and *Awakening* in here. Proceed to the next room.
+
+
+
 
 ## Route 4
 
