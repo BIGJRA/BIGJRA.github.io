@@ -8384,7 +8384,7 @@ Ametrine Mountain 1F / 2F / 3F / 4F / 5F
 |Super Rod         |%  |
 |------------------|---|
 |Octillery         |40 |
-|Seadra            |40 |
+|**Seadra**        |40 |
 |Shellder          |15 |
 |Qwilfish          |4  |
 |Basculin          |1  |
@@ -10515,7 +10515,7 @@ Next, climb the ladder to Route 3. Climb down the single tile Rock Climb to skip
 
 From here, go right and climb down the rocks nearby. Grab the hidden *Synthetic Seed* and enter the nearby cave. Here, you can get *TM53 Energy Ball*, a *Dragon Fang*, and a hidden *Full Restore*. Exit this cave.
 
-### Climbin' in Tanzan Mountain
+### Climbin' in Tanzan Depths
 
 Fly over to the Tanzan Cove and enter the main part of Tanzan Mountain. Go past the meteor base and down the stairs to enter the Tanzan Depths.
 
@@ -10544,12 +10544,77 @@ In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Rep
 
 The floor will collapse, creating a new climbing wall. Head down. In the next room, talk to the Green Crystal to get Larvitar to move. You can get a hidden *Green Shard* and *Awakening* in here. Proceed to the next room.
 
+Here is the first of the Larvitar puzzles. By knocking down the four green crystals, we can use them as directions that we want Larvitar to go. As long as there is a path in the specified direction (up, down, left, right) to a translucent rock, it will go there and remove it. I will provide routes in invisible text that remove the most rocks and allow you to get all items.
 
+> U U U R R D R R R U R L D R R R D D R
 
+Pick up the now-accessible *Jolly Mint* and *Timid Mint*. Proceed to the next room.
+
+> L U R D U R R R U L R D R L U R U L R R R R R R D R R D L D D L D U R D D 
+
+Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door in the bottom left side where Larvitar entered will lead you to an *Ability Capsule*. Backtrack and enter the next room in the top right.
+
+> L U U R U U L D U R D R D U U R R R U U R R R D D D L D U L R D D L D R
+
+Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed.
+
+In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, of course, you can battle and catch **Larvitar**! 
+
+That's all we can do here, so escape from this cave.
+
+### Climbin' in the Iolia Valley
+
+Make your way to the east side of Route 1, then Rock Slide down into the Iolia Valley. Make your way to Luna's gym room. You can actually rock climb in here. 
+
+Do so, then use the purple crystal to grab a *Dark Material*. Exit the cave.
+
+We should now have 3 Dark Materials - one is at the top of the waterfall in this valley, the other was in the locked room of the Sanctum. With all three in your bag as well as a Soul Candle, fly over to Lapis Ward and make your way down to the Subseven Sanctum.
+
+Talk to the summoning table for a battle with **Deino**.
+
+### Climbin' in the Mountains
+
+Next, it's time to enter the three-mountain complex one more time for a few goodies. Fly over to the Route 1 Nature Center, grab a Tauros and make your way to the Celestinine Mountain B2F entrance via the North Aventurine Woods.
+
+At the top of the ice puzzle, you'll see a climbing wall. Go up it, then surf to the left and push the nearby boulder to the left. Rock climb back down, this time making your way down the stairs to the left of the ice puzzle. Head up past the pushed boulder to get a *Life Orb*. Pokemon Showdown, here we come.
+
+From here, our next destination is Ametrine Mountain 2F. You can either go through the mountain complex to get there or just fly to the Circus or Ametrine City and make your way there that way.
+
+We've gone this path once before to get some items. Climb the waterfall to 3F, then cross the ice north. Carefully go across the ice on the top left side to climb another fall to 4F. Once you reach 4F, save the game for in case you mess up, then beach at the top. You'll see a rock chilling in the middle of the ice puzzle towards the top left side. Drop down the ledge such that you'll be stopped by that rock, then go right and up into a climbable wall. Grab a hidden *Blue Shard* then go up to 5F. 
+
+Complete an ice puzzle here, grab a *Paralyze Heal*, then take the waterfall down. Not down one floor, not two, but down EIGHT floors, you'll land on Ametrine Mountain B4F.
+
+Ametrine Mountain B4F
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Remoraid          |60 |Octillery         |40 |
+|Wishiwashi        |30 |Horsea            |20 |Seadra            |40 |
+|                  |   |Qwilfish          |20 |Shellder          |15 |
+|                  |   |                  |   |**Dratini**       |5  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Cubchoo           |20 |Wailmer           |60 |
+|Spheal            |20 |Seel              |30 |
+|Beartic           |11 |Lumineon          |5  |
+|Delibird          |11 |Wishiwashi        |4  |
+|Bergmite          |10 |Dewgong           |1  |
+|Sealeo            |10 |                  |   |
+|Sandshrew         |5  |                  |   |
+|Sandslash         |5  |                  |   |
+|Cryogonal         |4  |                  |   |
+|Snorunt           |4  |                  |   |
+
+Yay, another pseudo legendary now obtainable.
+
+On this floor, you can also pick up the *Icium-Z* as well as a *Jolly Mint* and 4 *Exp. Candy XL*. You can also find a hidden *Burn Heal* and *Antidote* down here.
+
+That's all we can do in here, so escape the mountains however you please.
 
 ## Route 4
 
-Stub
+That wraps up all the optional rocks that we can climb, so fly on back to Calcenon and head east to where Hardy is on Route 4.
 
 ## Glass Workstation
 
