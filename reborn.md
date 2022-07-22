@@ -10061,7 +10061,7 @@ More importantly than all that though... by talking to *him* on the east side of
     - Tackle
     - Bounce
 
-This cruel thief has a Z move and some Pokemon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
+This cruel thief has a Z-move and some Pokemon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
 
 By defeating him we can finally get our hands on our birthright. We get **Magikarp**.
 
@@ -10800,9 +10800,9 @@ This time, climb the waterfall at the top. This map has encounter Variation 6.
 |Wishiwashi        |6  |
 |Seaking           |4  |
 
-Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so. The next map has a different encounter table as well: Variation 6.
+Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so. The next map has a different encounter table as well: Variation 7.
 
-**Upper Route 4 (Variation 6)**
+**Upper Route 4 (Variation 7)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10848,8 +10848,62 @@ This is a very tough fight with a custom, overpowered Breloom robot! Thankfully 
 
 Once you win, a **Gastly** will pop out of the robot. It will run around the robot to hide from you, but you can battle it by talking to it if you're quick enough. I recommend disabling speed up for this part. 
 
+Return to the area with the lake. This time, take the rock climbing path in the top right corner. This new snowy map has encounter Variation 3. Grab the hidden *Purple Shard* here.
 
+As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire-type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire-type Z-move. Once the field is changed, you'll be sent to a new map with encounter Variation 2. Use the hopping stones to enter the cave.
 
+**Charous Mountain B2F**
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
+|Lumineon          |30 |Horsea            |20 |Seadra            |40 |
+|                  |   |Qwilfish          |20 |**Cloyster**      |15 |
+|                  |   |                  |   |Qwilfish          |4  |
+|                  |   |                  |   |**Kingdra**       |1  |
+
+|Cave              |%  |Water             |%  |
+|------------------|---|------------------|---|
+|Beartic           |20 |Wailmer           |60 |
+|Sealeo            |20 |Seel              |30 |
+|**Avalugg**       |20 |Lumineon          |5  |
+|**Glalie**        |14 |Wishiwashi        |4  |
+|Sandslash-Alola   |10 |Dewgong           |1  |
+|**Walrein**       |6  |                  |   |
+|**Froslass**      |5  |                  |   |
+|**Crabominable**  |4  |                  |   |
+|Absol             |1  |                  |   |
+
+As in the previous map, it is hinted that we're gonna want to change the field, this time from Icy Field to Cave Field. Doing this will open the above water encounters as well as letting you grab the *Heracronite* and hidden *Focus Sash* in the pond.
+
+Of course, this room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the top.
+
+The map you'll emerge on has encounter Variation 5. Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
+
+This time, make your way all the way to the bottom right corner of the map. Climb down here. You'll land on a snowy map with encounter Variation 3. Once more, burn the Snow on the Mountain away to reach a map with encounter Variation 2. More importantly, this will uncover the *Lycanium-Z*.
+
+Climb back to the previous map, this time going down the rocks to the left. This next map uses encounter Variation 1. You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
+
+Use the rock wall in the bottom right corner to reach a new map, which uses 
+encounter Variation 2. Grab the hidden *Escape Rope* here. Transform the field to Snowy Mountain and the encounters will switch to be Variation 3. A new rock climb path will be created, so follow it up.
+
+This next map uses encounter Variation 3 as well. Pick up the *Ultra Potion* and hidden *Liechi Berry*, then melt the Snowy Mountain as we've done before, to a map with Variation 2 encounters. Anyways, in exchange for a Revive, you'll be able to obtain our friend from earlier and the final pseudo-legendary: **Bagon**. 
+
+Head back two maps. This time, use the rock climb in the bottom-left corner to go down.
+
+This next map has another large lake and encounter Variation 4. You can find a hidden *Elemental Seed*, *Ultra Ball*, *Moon Stone*, and *Rawst Berry* here. Surfing across the water to the little island, you can get a 
+*Max Elixir* and a hidden *Heart Scale*.
+
+Climb the rocks in the upper left corner to reach a new section of the first Upper Route 4 map we landed on, containing the *Mimikium-Z*. Let's snuggle forever. Return to the previous map.
+
+That's it for Route 4 exploration and goodies, so talk to Hardy in the big open area on the left side of the area.
+
+Relationship Point Choices:
+- Take on Hardy's bet (+1 Hardy)
+
+Enter the building, and look around with Hardy. Once he leaves, follow him outside and talk to him again. Move the metal plate. If you took on the bet you'll get $2000. 
+
+Up and to the right, you'll see a now-accessible ladder, and Absol. Don't we love it when Absol shows up? Head down the ladder...
 
 ## Glass Workstation
 
