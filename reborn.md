@@ -10614,7 +10614,223 @@ That's all we can do in here, so escape the mountains however you please.
 
 ## Route 4
 
-That wraps up all the optional rocks that we can climb, so fly on back to Calcenon and head east to where Hardy is on Route 4.
+That wraps up all the optional rocks that we can climb, so fly on back to Calcenon and head east to where Hardy is on Route 4. Climb the rocks here.
+
+Note that there are a lot of different encounter tables for the various maps of Route 4. I will point out which variation is which for each map. This first map uses Variation 1.
+
+Upper Route 4 (Variation 1)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Abomasnow         |10 |**Whimsicott**    |10 |Abomasnow         |10 |
+|**Whimsicott**    |10 |Abomasnow         |10 |Noctowl           |10 |
+|**Sawsbuck**      |10 |**Sawsbuck**      |10 |Hypno             |10 |
+|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
+|**Wigglytuff**    |5  |**Wigglytuff**    |5  |Zebstrika         |5  |
+|Hypno             |5  |Hypno             |5  |Chansey           |5  |
+|Zangoose          |5  |Zebstrika         |4  |**Bisharp**       |4  |
+|**Shroomish**     |4  |**Shroomish**     |4  |**Shroomish**     |4  |
+|Zebstrika         |1  |**Bisharp**       |1  |**Trevenant**     |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+|Headbutt          |%  |
+|------------------|---|
+|Swablu            |30 |
+|Pineco            |25 |
+|Aipom             |20 |
+|Forretress        |14 |
+|Altaria           |6  |
+|Ambipom           |5  |
+
+On the map you can get a hidden *Red Shard*, *Guard Spec*, *Heart Scale*, and *Green Shard*. Climb the rock to the next map, which also has the encounter table Variation 1.
+
+Grab a hidden *Cotton Candy* here then use the left of the two rock climbs to go up. Grab a hidden *Telluric Seed* and proceed up the next slope. Here, you can get a hidden *Max Repel*, *Red Shard*, and *Escape Rope* on this level. Towards the bottom left side, there is a climbing path that goes down and left. Climb down it.
+
+This brings us back to the first map we were on, at a different point. Grab a hidden *Synthetic Seed* then climb up the rocks on the left. Grab the *Full Restore* and the hidden *Green Shard*.
+
+Make your way back to the previous map and go up the slope towards the top. On this map, a chill will settle in the air. Encounters here are Variation 2.
+
+Upper Route 4 (Variation 2)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Whimsicott        |10 |Whimsicott        |10 |Zebstrika         |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Noctowl           |10 |
+|Chansey           |10 |Chansey           |10 |Hypno             |10 |
+|Wigglytuff        |10 |Wigglytuff        |10 |Chimecho          |10 |
+|Zangoose          |6  |Hypno             |5  |Chansey           |5  |
+|Hypno             |5  |Zebstrika         |5  |Bisharp           |5  |
+|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
+|**Scyther**       |4  |**Scyther**       |4  |**Scyther**       |4  |
+|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to need to transform the field. Battles are fought on the Mountain Field - to transform it into Snowy Mountain, you'll need to use Blizzard, Subzero Slammer via the Ice-type Z crystal we got previously, or by letting Hail be on the field for 3 turns. Piloswine will be able to use Blizzard, so you can try to encounter one if you don't have these moves.
+
+Once you do, snow will gather on the map, actually transforming it into a map with different encounters - Variation 3.
+
+Upper Route 4 (Variation 3)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Abomasnow         |10 |Beartic           |10 |Abomasnow         |10 |
+|Beartic           |10 |Abomasnow         |10 |Noctowl           |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
+|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
+|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
+|Hypno             |5  |Hypno             |5  |Chansey           |5  |
+|Zangoose          |5  |Zebstrika         |4  |Beartic           |4  |
+|Zebstrika         |4  |Bisharp           |4  |Bisharp           |4  |
+|**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |
+|                  |   |Absol             |1  |Absol             |1  |
+
+Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill, and back down to the first fork. Climb up the hill to a new map with a lake on it, which has encounters Variation 4.
+
+Upper Route 4 (Variation 4)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Abomasnow         |10 |Whimsicott        |10 |Abomasnow         |10 |
+|Whimsicott        |10 |Abomasnow         |10 |Noctowl           |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
+|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
+|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
+|Hypno             |5  |Hypno             |5  |Chansey           |5  |
+|Zangoose          |5  |Zebstrika         |4  |Bisharp           |4  |
+|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
+|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
+|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
+|                  |   |Basculin          |20 |Basculin          |15 |
+|                  |   |                  |   |Slowpoke          |5  |
+
+|Water             |%  |Headbutt          |%  |
+|------------------|---|------------------|---|
+|Wailmer           |60 |Swablu            |30 |
+|Lumineon          |30 |Pineco            |25 |
+|Wishiwashi        |6  |Aipom             |20 |
+|Seaking           |4  |Forretress        |14 |
+|                  |   |Altaria           |6  |
+|                  |   |Ambipom           |5  |
+
+On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ice Gem*, *Salt-Water Taffy*, *Ice Heal*, and *Hyper Potion*. There are lots of paths we can go from here, and I will start by doing the rock climb path in the top left, accessible via surfing on the water. To reach the water, surf from the hop rock with the little stairs at the bottom.
+
+This map has encounter Variation 5.
+
+Upper Route 4 (Variation 5)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Abomasnow         |10 |Whimsicott        |10 |Abomasnow         |10 |
+|Whimsicott        |10 |Abomasnow         |10 |Noctowl           |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
+|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
+|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
+|Hypno             |5  |Hypno             |5  |Chansey           |5  |
+|Zangoose          |5  |Zebstrika         |4  |Bisharp           |4  |
+|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
+|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+On the next map you can find a hidden *PokeSnax* and an *Ice Stone*. Climb back down the hill.
+
+This time, climb the waterfall at the top. This map has encounter Variation 6.
+
+Upper Route 4 (Variation 6)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Whimsicott        |10 |Whimsicott        |10 |Zebstrika         |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Noctowl           |10 |
+|Chansey           |10 |Chansey           |10 |Hypno             |10 |
+|Wigglytuff        |10 |Wigglytuff        |10 |Chimecho          |10 |
+|Zangoose          |6  |Hypno             |5  |Chansey           |5  |
+|Hypno             |5  |Zebstrika         |5  |Bisharp           |5  |
+|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
+|Scyther           |4  |Scyther           |4  |Scyther           |4  |
+|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
+|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
+|                  |   |Basculin          |20 |Basculin          |15 |
+|                  |   |                  |   |Slowpoke          |5  |
+
+|Water             |%  |
+|------------------|---|
+|Wailmer           |60 |
+|Lumineon          |30 |
+|Wishiwashi        |6  |
+|Seaking           |4  |
+
+Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so. The next map has a different encounter table as well: Variation 6.
+
+Upper Route 4 (Variation 6)
+
+|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
+|------------------|---|------------------|---|------------------|---|
+|Audino            |20 |Audino            |20 |Audino            |20 |
+|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
+|Abomasnow         |10 |Beartic           |10 |Abomasnow         |10 |
+|Beartic           |10 |Abomasnow         |10 |Noctowl           |10 |
+|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
+|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
+|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
+|Hypno             |5  |Hypno             |5  |Chansey           |5  |
+|Zangoose          |5  |Zebstrika         |4  |Beartic           |4  |
+|Zebstrika         |4  |Bisharp           |4  |Bisharp           |4  |
+|Ninetales-Alola   |1  |Ninetales-Alola   |1  |Ninetales-Alola   |1  |
+|                  |   |Absol             |1  |Absol             |1  |
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
+|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
+|                  |   |Basculin          |20 |Basculin          |15 |
+|                  |   |                  |   |Slowpoke          |5  |
+
+|Water             |%  |
+|------------------|---|
+|Wailmer           |60 |
+|Lumineon          |30 |
+|Wishiwashi        |6  |
+|Seaking           |4  |
+
+Once you succeed, climb the mountain. We'll land on a higher part of a map from earlier. Enter the shed here. 
+
+Pick up *TM73 Thunder Wave* here. Press 'A' while you're above the disconnected wires to connect them, prepare your team, then make your way to the top left corner for a fight.
+
+BreloomBot CL:4R1-C3. Field: Short-Circuit Field
+- CL:4R1-C3 Breloom, Lv. 90, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Spore
+    - Magnet Bomb
+    - Shadow Punch
+    - Shift Gear
+
+This is a very tough fight with a custom, overpowered Breloom robot! Thankfully it's still a 6v1 so you should be able to figure out a way to take it out. It does have mixed attacks, the ability to put you to sleep, and a set up move, so be careful as it alone can counter many strategies. 
+
+Once you win, a **Gastly** will pop out of the robot. It will run around the robot to hide from you, but you can battle it by talking to it if you're quick enough. I recommend disabling speed up for this part. 
+
+
+
 
 ## Glass Workstation
 
