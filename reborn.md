@@ -10635,9 +10635,9 @@ That's all we can do in here, so escape the mountains however you please.
 
 That wraps up all the optional rocks that we can climb, so fly on back to Calcenon and head east to where Hardy is on Route 4. Climb the rocks here.
 
-Note that there are a lot of different encounter tables for the various maps of Route 4. I will point out which variation is which for each map. This first map uses Variation 1.
+Note that there are a lot of different encounter tables for the various maps of Route 4.
 
-**Upper Route 4 (Variation 1)**
+**Upper Route 4 (Forest Field Maps, No Water)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10663,15 +10663,15 @@ Note that there are a lot of different encounter tables for the various maps of 
 |Altaria           |6  |
 |Ambipom           |5  |
 
-On the map you can get a hidden *Red Shard*, *Guard Spec*, *Heart Scale*, and *Green Shard*. Climb the rock to the next map, which also has the encounter table Variation 1.
+On the map you can get a hidden *Red Shard*, *Guard Spec*, *Heart Scale*, and *Green Shard*. Climb the rock to the next map.
 
 Grab a hidden *Cotton Candy* here then use the left of the two rock climbs to go up. Grab a hidden *Telluric Seed* and proceed up the next slope. Here, you can get a hidden *Max Repel*, *Red Shard*, and *Escape Rope* on this level. Towards the bottom left side, there is a climbing path that goes down and left. Climb down it.
 
 This brings us back to the first map we were on, at a different point. Grab a hidden *Synthetic Seed* then climb up the rocks on the left. Grab the *Full Restore* and the hidden *Green Shard*.
 
-Make your way back to the previous map and go up the slope towards the top. On this map, a chill will settle in the air. Encounters here are Variation 2.
+Make your way back to the previous map and go up the slope towards the top. On this map, a chill will settle in the air.
 
-**Upper Route 4 (Variation 2)**
+**Upper Route 4 (Mountain Field Maps, No Water)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10690,9 +10690,9 @@ Make your way back to the previous map and go up the slope towards the top. On t
 
 Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to need to transform the field. Battles are fought on the Mountain Field - to transform it into Snowy Mountain, you'll need to use Blizzard, Subzero Slammer via the Ice-type Z crystal we got previously, or by letting Hail be on the field for 3 turns. Piloswine will be able to use Blizzard, so you can try to encounter one if you don't have these moves.
 
-Once you do, snow will gather on the map, actually transforming it into a map with different encounters - Variation 3.
+Once you do, snow will gather on the map.
 
-**Upper Route 4 (Variation 3)**
+**Upper Route 4 (Snowy Mountain Maps, No Water)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10709,9 +10709,9 @@ Once you do, snow will gather on the map, actually transforming it into a map wi
 |**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |
 |                  |   |Absol             |1  |Absol             |1  |
 
-Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill, and back down to the first fork. Climb up the hill to a new map with a lake on it, which has encounters Variation 4.
+Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill, and back down to the first fork. Climb up the hill to a new map with a lake on it.
 
-**Upper Route 4 (Variation 4)**
+**Upper Route 4 (Large Lake Maps)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10746,9 +10746,7 @@ Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill
 
 On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ice Gem*, *Salt-Water Taffy*, *Ice Heal*, and *Hyper Potion*. There are lots of paths we can go from here, and I will start by doing the rock climb path in the top left, accessible via surfing on the water. To reach the water, surf from the hop rock with the little stairs at the bottom.
 
-This map has encounter Variation 5.
-
-**Upper Route 4 (Variation 5)**
+**Upper Route 4 (Shed & Charous Peak Maps)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10767,9 +10765,9 @@ This map has encounter Variation 5.
 
 On the next map you can find a hidden *PokeSnax* and an *Ice Stone*. Climb back down the hill.
 
-This time, climb the waterfall at the top. This map has encounter Variation 6.
+This time, climb the waterfall at the top.
 
-**Upper Route 4 (Variation 6)**
+**Upper Route 4 (Mountain Field Map with Small Waterfall)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10800,9 +10798,9 @@ This time, climb the waterfall at the top. This map has encounter Variation 6.
 |Wishiwashi        |6  |
 |Seaking           |4  |
 
-Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so. The next map has a different encounter table as well: Variation 7.
+Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so.
 
-**Upper Route 4 (Variation 7)**
+**Upper Route 4 (Snowy Mountain Field Map with Small Waterfall)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10848,9 +10846,9 @@ This is a very tough fight with a custom, overpowered Breloom robot! Thankfully 
 
 Once you win, a **Gastly** will pop out of the robot. It will run around the robot to hide from you, but you can battle it by talking to it if you're quick enough. I recommend disabling speed up for this part. 
 
-Return to the area with the lake. This time, take the rock climbing path in the top right corner. This new snowy map has encounter Variation 3. Grab the hidden *Purple Shard* here.
+Return to the area with the lake. This time, take the rock climbing path in the top right corner. Grab the hidden *Purple Shard* here.
 
-As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire-type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire-type Z-move. Once the field is changed, you'll be sent to a new map with encounter Variation 2. Use the hopping stones to enter the cave.
+As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire-type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire-type Z-move. Once the field is changed, you'll be sent to a new map. Use the hopping stones to enter the cave.
 
 **Charous Mountain B2F**
 
@@ -10878,21 +10876,19 @@ As in the previous map, it is hinted that we're gonna want to change the field, 
 
 Of course, this room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the top.
 
-The map you'll emerge on has encounter Variation 5. Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
+Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
 
-This time, make your way all the way to the bottom right corner of the map. Climb down here. You'll land on a snowy map with encounter Variation 3. Once more, burn the Snow on the Mountain away to reach a map with encounter Variation 2. More importantly, this will uncover the *Lycanium-Z*.
+This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*.
 
-Climb back to the previous map, this time going down the rocks to the left. This next map uses encounter Variation 1. You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
+Climb back to the previous map, this time going down the rocks to the left. You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
 
-Use the rock wall in the bottom right corner to reach a new map, which uses 
-encounter Variation 2. Grab the hidden *Escape Rope* here. Transform the field to Snowy Mountain and the encounters will switch to be Variation 3. A new rock climb path will be created, so follow it up.
+Use the rock wall in the bottom right corner to reach a new map. Grab the hidden *Escape Rope* here. Transform the field to Snowy Mountain and a new rock climb path will be created, so follow it up.
 
-This next map uses encounter Variation 3 as well. Pick up the *Ultra Potion* and hidden *Liechi Berry*, then melt the Snowy Mountain as we've done before, to a map with Variation 2 encounters. Anyways, in exchange for a Revive, you'll be able to obtain our friend from earlier and the final pseudo-legendary: **Bagon**. 
+Pick up the *Ultra Potion* and hidden *Liechi Berry*, then melt the Snowy Mountain as we've done before. In exchange for a Revive, you'll be able to obtain our friend from earlier and the final pseudo-legendary: **Bagon**. 
 
-Head back two maps. This time, use the rock climb in the bottom-left corner to go down.
+Head back two maps. This time, use the rock climb in the bottom-left corner to go down to another map with a large lake.
 
-This next map has another large lake and encounter Variation 4. You can find a hidden *Elemental Seed*, *Ultra Ball*, *Moon Stone*, and *Rawst Berry* here. Surfing across the water to the little island, you can get a 
-*Max Elixir* and a hidden *Heart Scale*.
+You can find a hidden *Elemental Seed*, *Ultra Ball*, *Moon Stone*, and *Rawst Berry* here. Surfing across the water to the little island, you can get a *Max Elixir* and a hidden *Heart Scale*.
 
 Climb the rocks in the upper left corner to reach a new section of the first Upper Route 4 map we landed on, containing the *Mimikium-Z*. Let's snuggle forever. Return to the previous map.
 
