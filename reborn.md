@@ -300,7 +300,7 @@ Proceed to the right into Opal Ward. A girl at the bottom of the area will give 
 
 If the weather is sunny you will see an Ice Cream Cart here.
 
-Opal Ward Ice Cream Shop
+**Opal Ward Ice Cream Shop**
 
 |Item                   |Price      |
 |-----------------------|-----------|
@@ -374,7 +374,7 @@ A guy behind the desk will allow us to bring in grinding trainers to the grand h
 
 Talk to a guy next to some display cases if you'd like to buy some candy.
 
-Grand Hall Common Candy Shop
+**Grand Hall Common Candy Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -382,7 +382,7 @@ Grand Hall Common Candy Shop
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. If you're not doing hardcap, they can help us keep your Pokemon under the level cap, thus obeying your commands. Note that the current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
-Default Shop
+**Default Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -404,7 +404,7 @@ Note that for now I will not be listing the teams of all of the rando trainers s
 
 Anyways, there is grass here, which means we can obtain new team members! I will be **bolding** any Pokemon that are new.
 
-Opal Ward
+**Opal Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -453,7 +453,7 @@ Head to the left of the Pokemon center, and go down. In the top of two trash pap
 
 Back outside, we can actually fish in the dirty water.
 
-Lower Peridot Ward / Peridot Ward
+**Lower Peridot Ward / Peridot Ward**
 
 |Old Rod           |%  |
 |------------------|---|
@@ -461,7 +461,7 @@ Lower Peridot Ward / Peridot Ward
 
 You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy. If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
-Peridot Ward Pool
+**Peridot Ward Pool**
 
 |Old Rod           |%  |
 |------------------|---|
@@ -474,7 +474,7 @@ If it is still a clear daytime, here you'll be able to talk to Teddiursa again, 
 
 Enter the building here and talk to the old man for a battle. If you win, you'll be able to enter his garden. 
 
-Lower Peridot Ward / Peridot Ward
+**Lower Peridot Ward / Peridot Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -500,7 +500,7 @@ Kricketune with its Fury Cutter attack and Technician ability can be incredible 
 
 Back outside, talk to the yellow haired guy for a battle. When you beat him you can access the Lower Peridot Alley.
 
-Lower Peridot Alley
+**Lower Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -514,7 +514,7 @@ To the right of the blue bin is a hidden *Dark Gem*. After defeating the trainer
 
 Head outside and go to the right under the bridge. When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly determined. The second from the right box on the bottom row contains a *Purple Shard*. Head to the right.
 
-Underground Railnet (Opal Area)
+**Underground Railnet (Opal Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -544,7 +544,7 @@ Inside this house you'll find the guy who stole our Pokemon earlier, but you got
 
 Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game, and if you want the non-unique rewards, you'll need to give it back. So, if you want the rewards but want to use the Jigglypuff line, consider breeding it once we get daycare access. Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
 
-North Peridot Alley
+**North Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -562,7 +562,7 @@ The "Default Shops" in this game operate similarly to main Pokemon game shops in
 
 Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money. Outside to the right in a box is a hidden *Potion*. A pile of trash paper in the very top left contains a hidden *Clever Wing* (which, again, is good to sell). A guy in the adjacent building will give us a *Common Candy*. Outside there is a shop.
 
-Peridot Ward Snax Shop
+**Peridot Ward Snax Shop**
 
 |Item       |Price      |
 |-----------|-----------|
@@ -597,7 +597,7 @@ This one is a bit harder than the first two rival fights of course, but nothing 
 
 Around this time, my Bidoof was able to learn Headbutt, so there are a few Pokemon you can now obtain. First, head to the garden:
 
-Lower Peridot Ward / Peridot Ward
+**Lower Peridot Ward / Peridot Ward**
 
 |Headbutt          |%  |
 |------------------|---|
@@ -606,7 +606,7 @@ Lower Peridot Ward / Peridot Ward
 
 Note that we will eventually want a Mothim for an in-game trade, so ensure you catch a Male Burmy at some point. Next, head back to Opal Ward.
 
-Opal Ward 
+**Opal Ward** 
 
 |Headbutt          |%  |
 |------------------|---|
@@ -752,7 +752,7 @@ Next, enter the Grand Hall. The Common Candy salesman is now gone but in his pla
 
 Now that we have a badge, Pokemarts will be updated:
 
-Default Shop (1 Badge)
+**Default Shop (1 Badge)**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -781,7 +781,7 @@ A lady on the right will ask to see a Pokemon with maximum friendship. Your star
 
 The building to the right is Critical Capture, where you can buy custom balls.
 
-Critical Capture Shop Right Clerk
+**Critical Capture Shop Right Clerk**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -803,7 +803,7 @@ Enter the building to the right, and talk to the daycare couple one-by-one over 
 
 In a house to the left, we'll learn about an in-game trade we can't complete just yet. Head outside and to the left, grab a hidden *Steel Gem* in a rock, and go down the stairs to access a new part of the railnet.
 
-Underground Railnet (Obsidia Area)
+**Underground Railnet (Obsidia Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -817,7 +817,7 @@ There is also an *Escape Rope* hidden in the left area.
 
 Head back out and enter the Devon Corp building on the main street.
 
-Devon Corp Shop
+**Devon Corp Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -833,7 +833,7 @@ The next building in line is the Sweet Kiss Candy Shop building. In the top left
 
 At the top, a kid really wants some Vanilla Ice Cream. Since he's blocking the machine though we can't get any here - you'll have to wait until it's sunny and buy some from Opal Ward. Give it to this kid and then buy a Vanilla Ice Cream for $1000 from the vending machine - it will be a **Vanillite** in disguise! After this the vending machine will be normal again.
 
-Sweet Kiss Ice Cream Vending Machine Shop
+**Sweet Kiss Ice Cream Vending Machine Shop**
 
 |Item                   |Price      |
 |-----------------------|-----------|
@@ -843,7 +843,7 @@ Sweet Kiss Ice Cream Vending Machine Shop
 
 There is a 1% chance you will actually get a *Blue Moon Ice Cream* whenever you buy any one of these. Choc and Berry are more expensive here than in Opal Ward, so there's really no reason to buy these here ever.
 
-Sweet Kiss Top Clerk Shop
+**Sweet Kiss Top Clerk Shop**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -857,7 +857,7 @@ Sweet Kiss Top Clerk Shop
 
 If you're planning on evolving Swirlix, grab a Whipped Dream. We will eventually need another Whipped Dream for a quest. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
 
-Sweet Kiss Bottom Clerk Shop
+**Sweet Kiss Bottom Clerk Shop**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -914,7 +914,7 @@ Relationship Point Choices:
 
 After that's done, head down the escalator to the right. There are encounters in this area.
 
-Obsidia Slums B1F
+**Obsidia Slums B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -929,7 +929,7 @@ A long time from now you can trade Pidove away for something much better, so cat
 
 There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak between the escalators here - pick up a hidden *Max Repel* in a rock and a *Carbos* (read: $4900) in the next room. We can't progress further here, so go back upstairs and go through the door
 
-Obsidia Slums 1F
+**Obsidia Slums 1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -942,7 +942,7 @@ Obsidia Slums 1F
 
 A box to the left contains *Pop Rocks*. Defeat the trainer, hop across, defeat another, and pick up the hidden *Rawst Berry* in a rock up here. Head upstairs.
 
-Obsidia Slums 2F
+**Obsidia Slums 2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -961,7 +961,7 @@ Make your way to the top right corner of 3F and then head down. In the very bott
 
 Head left and emerge onto the roof. There's another Light Shard here - usually they mean either "you're halfway through a dungeon" or "there's a super hard fight coming up". Anyways, follow the path and talk to Mankey in the elevator. Take it to 1F to open a shortcut, then take it to B1F.
 
-Slums B1F Vending Machine Shop
+**Slums B1F Vending Machine Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -1002,8 +1002,7 @@ With that, head back to the top right corner and enter the door. Talk to the Spo
 
 Welcome to Coral Ward. In the right rock as you enter you can get a *Potion*, then an *Ultra Potion* in a rock to the left of the apartments. Heading down from here you can grab a hidden *Purple Shard* one tile down and one tile right of the bottom left warehouse entrance, and a *Chewing Gum* in the box below. There is a *Repel* in the right rock below the singular house. Finally there is an *Aspear Berry* in a rock between the two warehouses on the right.
 
-014
-Coral Ward
+**Coral Ward**
 
 |Old Rod           |%  |
 |------------------|---|
@@ -1055,7 +1054,7 @@ Talk to the kid here - we will reunite him with his mother as soon as we can. En
 
 Back in Obsidia Ward, we can actually access one more area before we proceed: at the left end of the ward, chop down the tree and go south. Defeating this trainer gives us access to the Obsidia Alleyway.
 
-Obsidia Alleyway
+**Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -1085,7 +1084,7 @@ If you're able to defeat this thing, you'll get **Litleo**!
 
 With all that out of the way, return to the park area and talk to Victoria, Amaria, and Florinia. Head into Obsidia Park. Note that once we are done here we can't re-enter, so if you want the hidden items and such grab them while we're here. All of the Pokemon will be available later, though.
 
-Obsidia Park
+**Obsidia Park**
 
 |Land              |%  |
 |------------------|---|
@@ -1121,7 +1120,7 @@ As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow,
 
 Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
 
-Obsidia Ward
+**Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1156,7 +1155,7 @@ Heading north from the park, all the way right from the manhole cover you can fi
 
 The first building here is the Department Store. Head inside, we can buy some things.
 
-Department Store 1F Left Shop
+**Department Store 1F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1166,7 +1165,7 @@ Department Store 1F Left Shop
 |*Repel*        |$400           |
 |*PokeSnax*     |$400           |
 
-Department Store 1F Right Shop
+**Department Store 1F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1179,7 +1178,7 @@ Department Store 1F Right Shop
 
 We can also talk to an employee to get the *Membership Card* and the *Department Store Sticker: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
 
-Department Store 2F Left Shop
+**Department Store 2F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1191,7 +1190,7 @@ Department Store 2F Left Shop
 |*Aspear Berry* |$400           |
 |*Persim Berry* |$400           |
 
-Department Store 2F Right Shop
+**Department Store 2F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1218,7 +1217,7 @@ Head up on the right side. Across from the third lamppost on the sidewalk you ca
 
 Anyways, we can't yet enter the Move Relearner house, so enter the apartment to the right. Talk to the girl on the left twice - for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 
-Onyx Arcade Loto Attendant
+**Onyx Arcade Loto Attendant**
 
 |Prize          |Digits Matched|
 |---------------|--------------|
@@ -1238,7 +1237,7 @@ In the first door upstairs, a guy will give you the *Coin Case*! The next room c
 
 In this door, go to the left. Here you'll find the first tutors.
 
-Onyx Trainer School Move Tutor 1
+**Onyx Trainer School Move Tutor 1**
 
 |Move           |Price      |
 |---------------|-----------|
@@ -1249,7 +1248,7 @@ Onyx Trainer School Move Tutor 1
 
 It's worth noting that every tutor in the game will only charge you once per move - so don't feel bad about deleting a tutor move once you've learned it once since you can go get it back for free.
 
-Onyx Trainer School Move Tutor 2
+**Onyx Trainer School Move Tutor 2**
 
 |Move           |Price      |
 |---------------|-----------|
@@ -1260,7 +1259,7 @@ Onyx Trainer School Move Tutor 2
 
 In the room above there are more tutors!
 
-Onyx Trainer School Move Tutor 3
+**Onyx Trainer School Move Tutor 3**
 
 |Move           |Price      |
 |---------------|-----------|
@@ -1269,7 +1268,7 @@ Onyx Trainer School Move Tutor 3
 |Block          |$500       |
 |Worry Seed     |$1000      |
 
-Onyx Trainer School Move Tutor 4
+**Onyx Trainer School Move Tutor 4**
 
 |Move           |Price      |
 |---------------|-----------|
@@ -1312,7 +1311,7 @@ Before we continue to the gym, now is a good time to wrap up a couple of quests 
 
 First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1125 Coins for free.
 
-Onyx Arcade Coin Shop
+**Onyx Arcade Coin Shop**
 
 |Item       |Price          |
 |-----------|---------------|
@@ -1330,7 +1329,7 @@ Speaking of Voltorb Flip, here are the tips I recommend as a long time Voltorb F
 5. It is crucial that you learn what the remaining point values in a row is. For example, in a row with 8/2V, suppose you have flipped one tile and it is a 3. Then in 4 remaining spots, two are Voltorb, so the other two sum to 5. This means one is a 2 and one is a 3, meaning you can try to pick which columns can fit the 2 at that spot and which could fit the 3. Alternatively, in a 5/1V, the minute you see a 2 flipped, you are done, since the rest can then only be 1 or Voltorb.
 6. Have fun! It is a bit frustrating when you get to Level 7 and then immediately flip a Voltorb, going all the way back. But the most important thing is fun - remember you can come back later to play and get the rewards.
 
-Onyx Arcade TM Shop
+**Onyx Arcade TM Shop**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -1340,7 +1339,7 @@ Onyx Arcade TM Shop
 
 Of these, Substitute is probably the best one, but you can certainly get some mileage out of the other two with the right Pokemon.
 
-Onyx Arcade Pokemon Shop
+**Onyx Arcade Pokemon Shop**
 
 |Pokemon        |Price      |
 |---------------|-----------|
@@ -1354,7 +1353,7 @@ Even if you're not interested in getting everything here, most of these Pokemon 
 
 Back outside, head into the building to the left. Fern's friend will feel bad and let us access the rooftop garden. Up here you'll find *TM63 Embargo*.
 
-Onyx Ward Rooftop
+**Onyx Ward Rooftop**
 
 |Land              |%  |
 |------------------|---|
@@ -1442,7 +1441,7 @@ First, head to the room containing the nurse in the Trainer School. A girl towar
 
 Now that we have 2 badges, the Pokemarts and candy store have updated inventory now:
 
-Default Shop (2 Badges)
+**Default Shop (2 Badges)**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -1454,7 +1453,7 @@ Default Shop (2 Badges)
 |*Super Repel*  |$700       |
 |*Poke Ball*    |$200       |
 
-Sweet Kiss Bottom Clerk Shop (2 Badges)
+**Sweet Kiss Bottom Clerk Shop (2 Badges)**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -1477,7 +1476,7 @@ Finally, head to the apartment in the top left corner of Peridot Ward. Now that 
 
 Leave this house, and head into the Jasper gate to your right. Talk to the guard here and head into Jasper Ward.
 
-Jasper Ward
+**Jasper Ward**
 
 |Cave              |%  |
 |------------------|---|
@@ -1504,7 +1503,7 @@ Relationship Point Choices:
 
 Head to the left into the Forest Park.
 
-Malchous Forest Park
+**Malchous Forest Park**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1558,7 +1557,7 @@ Outside, you can now grab a *Paralyze Heal* and save Police Officer #2. Grab a h
 
 Before we continue into the next ward, there's a quick thing we can do. Exit Jasper Ward to the south (there's a shortcut below the Mareep building) and head to the right. Enter the first house you see in Peridot Ward, and talk to the girls inside for *Department Store Sticker: Tangela* as well as *TM88 Sleep Talk*.
 
-Department Store 3F Left Shop
+**Department Store 3F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1572,7 +1571,7 @@ Department Store 3F Left Shop
 |*Ring Target*  |$200           |
 |*Metronome*    |$1500          |
 
-Department Store 3F Right Shop
+**Department Store 3F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -1596,7 +1595,7 @@ While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to 
 
 Back in Beryl, head left.
 
-West Beryl Ward
+**West Beryl Ward**
 
 |Cave              |%  |
 |------------------|---|
@@ -1610,7 +1609,7 @@ West Beryl Ward
 
 Grab a hidden *Red Shard* and an *X Attack* in the house. Make your way left, grab the hidden *Poke Ball*, and enter the jungle.
 
-Rhodochrine Jungle
+**Rhodochrine Jungle**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1693,7 +1692,7 @@ Head back across the bridge, and from here go down to find a hidden *Purple Shar
 
 Hidden here is an *Exp. Candy S*. We can't do anything with these glowy rocks for a while, so head out of this area.
 
-The Underroot
+**The Underroot**
 
 |Land              |%  |Old Rod           |%  |
 |------------------|---|------------------|---|
@@ -1714,7 +1713,7 @@ Back in the Underroot, take the path up from here and cut the wiggly tree. Take 
 
 Follow the path all the way down and to the right. Inside a house here is a lady. She will tutor us a pretty good move... but only if you have a Grass-type starter. Since Grass type starters kinda suck compared to Fire-type and Water-type starters, here's a bit of compensation.
 
-Rhodochrine Jungle Move Tutor (If you chose a Grass-type Starter)
+**Rhodochrine Jungle Move Tutor (If you chose a Grass-type Starter)**
 
 |Move       |Price|
 |-----------|-----|
@@ -1797,7 +1796,7 @@ Before we do anything else, talk to the backpacker nearby a dumpster down from t
 
 Nearby, on clear days, you'll find another snax vendor. 
 
-Beryl Ward Snax Shop
+**Beryl Ward Snax Shop**
 
 |Item       |Price      |
 |-----------|-----------|
@@ -1809,7 +1808,7 @@ Inside the Pokemon center, an NPC will tell you a password: *easyhms*. This one 
 
 Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poke Ball*.
 
-North Beryl Ward / Beryl Cemetery
+**North Beryl Ward / Beryl Cemetery**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1978,7 +1977,7 @@ Finding this last item will put us in front of the nightclub: from 8PM to 4AM yo
 
 Outside, the building to your right contains a *Telluric Seed*. There's an alleyway outside containing some gang members nearby. 
 
-North Obsidia Alleyway
+**North Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -1993,7 +1992,7 @@ Don't talk to the guys here quite yet though - we'll be making a choice in a bit
 
 Next, enter the Spyce restaurant below and to the right. A guy inside will give you a *Full Incense*. In a nearby trash can you can find *TM56 Fling*. 
 
-The Spyce Drink Shop
+**The Spyce Drink Shop**
 
 |Item           |Price  |
 |---------------|-------|
@@ -2016,7 +2015,7 @@ Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *
 
 You can enter the Alleyway towards the middle of the ward, but we won't talk to the guys in here quite yet. 
 
-Lapis Alleyway
+**Lapis Alleyway**
 
 |Cave                  |%  |
 |----------------------|---|
@@ -2030,7 +2029,7 @@ Lapis Alleyway
 
 Enter the building in the middle of the top row of buildings, just to the left of the gym. The guy inside will teach your starter the pledge moves for some shards.
 
-Lapis Ward Pledge Move Tutor
+**Lapis Ward Pledge Move Tutor**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -2042,7 +2041,7 @@ Enter the flower shop on the left side of the ward. Someone inside will give you
 
 <img src="/assets/media/reborn/spritzee.jpg"/>
 
-Sweet Scent Flower Shop Top
+**Sweet Scent Flower Shop Top**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2055,7 +2054,7 @@ Sweet Scent Flower Shop Top
 
 We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is technically a cheaper option to get the honey later on, however. 
 
-Sweet Scent Flower Shop Middle
+**Sweet Scent Flower Shop Middle**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2068,7 +2067,7 @@ If you're planning on switching around your Oricorio a lot, this is the shop for
 
 Enter a small house on the left side of the ward and talk to a guy to get *TM21 Frustration*. In the Pokemart to your right, talk to a guy with a hood to get *TM07 Hail*. Next, enter the building to the right. For saving the kid from Scolipede, the mom here will give you the *Department Store Sticker: Drifloon*. 
 
-Department Store 4F Left Shop
+**Department Store 4F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2081,7 +2080,7 @@ Department Store 4F Left Shop
 
 Some consumables that may be useful in a pinch. We will much later on need a White Herb for a quest.
 
-Department Store 4F Right Shop
+**Department Store 4F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2108,7 +2107,7 @@ Relationship Point Choices:
 
 You can find a hidden *Rock Gem* on the stairs. Head on down the ladder. You can find a *Green Shard* hidden in this first area. Head down the stairs again.
 
-Grand Stairway B1F
+**Grand Stairway B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2124,7 +2123,7 @@ We will eventually need both a Chimecho and a Dunsparce for some sidequests, so 
 
 On this floor you'll find a hidden *Ghost Gem*. Head down the ladder. 
 
-Grand Stairway B2F / B3F East
+**Grand Stairway B2F / B3F East**
 
 |Cave              |%  |
 |------------------|---|
@@ -2150,7 +2149,7 @@ Head down to the sequence of ledges again. This time we will take the second-pat
 
 Finally, we can take the huge series of ledges to take the third path from the left. Grab the hidden *X Sp. Atk* then head down the ladder here.
 
-Grand Stairway B3F Main
+**Grand Stairway B3F Main**
 
 |Cave              |%  |
 |------------------|---|
@@ -2318,7 +2317,7 @@ Make your way to the shack to the right of the flower shop in Lapis Ward. Talk t
 
 Just for completeness, Archer won't be blocking the pond in the alleyway anymore so we can fish here now.
 
-Lapis Alleyway
+**Lapis Alleyway**
 
 |Old Rod           |%  |
 |------------------|---|
@@ -2509,7 +2508,7 @@ You'll notice that the doctor has a strong team full of Electric and Psychic typ
 
 Outside, accept Anna's request for fast travel. We'll find ourselves back in the Underground Railnet. Head to the east and smash the rock to progress. 
 
-Underground Railnet (Middle Area)
+**Underground Railnet (Middle Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -2555,7 +2554,7 @@ This can be a tough fight since his levels are above your cap and he has Drizzle
 
 Once you win, the Aqua Gang will retreat. We can actually now access the pond in the back, nothing new though.
 
-Lapis Alleyway
+**Lapis Alleyway**
 
 |Old Rod           |%  |
 |------------------|---|
@@ -2597,7 +2596,8 @@ Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with t
 The first place we can go that has new stuff is the Onyx Ward. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*. 
 
 As you make your way back through Obsidia, note that the candy store has a new kind of Exp. Candy for sale.
-Sweet Kiss Bottom Clerk Shop (3 Badges)
+
+**Sweet Kiss Bottom Clerk Shop (3 Badges)**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -2615,7 +2615,9 @@ Make your way to the North Obsidia Ward. Here you'll see a guy selling a single 
 
 Head over to the Grand Stairway and make your way to B1F. At the top right, smash a rock, pick up a hidden *Green Shard*, then go up. In this new room you can find a hidden *PP Up*, *Exp. Candy L*, and a stationary *Exp. Candy M*. Talk to the hiker in here for a *Mining Kit*. 
 
-The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items, picked via the following probabilities:
+The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items.
+
+**Mining Probabilities**
 
 |Item             |%     |
 |-----------------|------|
@@ -2681,7 +2683,7 @@ Back in the main part of B1F, head to the left and smash the rock to go down a l
 
 Next, we're going to head on over to the Obsidia Slums. On the first floor of the main area of the slums take the top left escalator down to reach B1F. Then go between the escalators through the door here, and use the Dull Key inside. Grab a hidden *Calcium* then enter the next room.
 
-Slums Playground Entrance Room
+**Slums Playground Entrance Room**
 
 |Cave              |%  |
 |------------------|---|
@@ -2693,7 +2695,7 @@ Slums Playground Entrance Room
 
 Grab the *Super Repel* and enter the next room.
 
-Slums Playground Main Room
+**Slums Playground Main Room**
 
 |Cave              |%  |
 |------------------|---|
@@ -2710,7 +2712,7 @@ You'll need to defeat the Pangoro around the room and activate the switches beyo
 
 Exit this area and make your way to the top right corner of the main room in the slums. Go down the escalator then enter the room on the right side. Down the stairs you can smash some rocks and head in to a new area of the Railnet.
 
-Underground Railnet (Train Tracks Area)
+**Underground Railnet (Train Tracks Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -2730,7 +2732,7 @@ We don't have Flash yet, so this area can be a bit annoying to search for items 
 
 Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a *Dusk Stone*. Inside another smash wall you can find the *Cave Field Readout*. Before you leave this area though, headbutt the tall iron poles here!
 
-Underground Railnet Poles
+**Underground Railnet Poles**
 
 |Headbutt          |%  |
 |------------------|---|
@@ -2738,7 +2740,7 @@ Underground Railnet Poles
 
 Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokemon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
 
-Department Store 5F Left Shop
+**Department Store 5F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2750,7 +2752,7 @@ Department Store 5F Left Shop
 
 The first buyable Great Balls and Super Repels? Sign me up.
 
-Department Store 5F Right Shop
+**Department Store 5F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -2767,7 +2769,7 @@ The Power Items downstairs may be 50% more expensive than these but you can buy 
 
 Next, make your way all the way back to Beryl Ward. In the graveyard area we can smash some rocks to reach a new cave.
 
-Beryl Cave
+**Beryl Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -2802,7 +2804,7 @@ The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you ha
 
 Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 
-Citrine Mountain 2F
+**Citrine Mountain 2F**
 
 |Cave                   |%  |
 |-----------------------|---|
@@ -2840,7 +2842,7 @@ Relationship Point Choices:
 
 That wraps up all the sidequests for now, so enter the power plant on the east side of the Beryl Bridge near Citrine Mt. 
 
-Yureyu Power Plant (Main Areas)
+**Yureyu Power Plant (Main Areas)**
 
 |Cave              |%  |
 |------------------|---|
@@ -2968,7 +2970,7 @@ Make your way to the Coral Ward and enter the only remaining locked warehouse. I
 
 As soon as you enter, go straight left and weave between the hills to get a *Wave Incense*.
 
-Apophyll Beach
+**Apophyll Beach**
 
 |Cave              |%  |Rock Smash        |%  |Old Rod           |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2982,7 +2984,7 @@ Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shell
 
 You'll enter the Apophyll Academy map by going to the left at the top. Go all the way around the academy sticking to this map: hidden here are *Super Potion*, *Shoal Shell*,  *Blue Shard*, *Full Heal*, and *Soft Sand*. Back down at the academy's front entrance, go down from here. You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
 
-Apophyll Academy / Apophyll Beach West
+**Apophyll Academy / Apophyll Beach West**
 
 |Rock Smash        |%  |Old Rod           |%  |
 |------------------|---|------------------|---|
@@ -2996,7 +2998,7 @@ If it is storming, you can find a **Corsola** on the left side of the area who w
 
 Head back to the Apophyll Academy. Now, we're going to head inside.
 
-Apophyll Academy Shop
+**Apophyll Academy Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -3014,7 +3016,7 @@ Head up to reach the middle part of the area. Fight some trainers and pick up a 
 
 Enter the area at the top, then go up the stairs. Talk to every NPC here and agree to study with those who ask. One is a tutor.
 
-Apophyll Academy Move Tutor
+**Apophyll Academy Move Tutor**
 
 |Move       |Price          |
 |-----------|---------------|
@@ -3030,7 +3032,7 @@ Relationship Point Chocies:
 
 Back down from here, attempt to steal the TV. Once you win, return to the girl who requested it to get *Department Store Sticker: Meditite*. 
 
-Department Store 6F Left Shop
+**Department Store 6F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -3044,7 +3046,7 @@ Department Store 6F Left Shop
 |*Chilan Berry* |$1200          |
 |*Roseli Berry* |$1200          |
 
-Department Store 6F Right Shop
+**Department Store 6F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -3064,7 +3066,7 @@ Anyways, back in Apophyll we are next going to explore the optional area Apophyl
 
 ## Apophyll Cave
 
-Apophyll Cave 1F
+**Apophyll Cave 1F**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -3080,7 +3082,7 @@ In item balls you can find the *Oval Charm*, and *Dragon Memory*. Hidden on the 
 
 The NPC in the top right will do an in-game trade: your Ledian for his **Shieldon**.
 
-Apophyll Cave 2F
+**Apophyll Cave 2F**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -3139,7 +3141,7 @@ Relationship Point Choices:
 
 Now I will tackle climbing Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually. It is located at the bottom left corner of Apophyll Beach.
 
-Pyrous Mountain B1F / 1F / 2F / 3F
+**Pyrous Mountain B1F / 1F / 2F / 3F**
 
 |Cave                   |%  |
 |-----------------------|---|
@@ -3155,7 +3157,7 @@ Pyrous Mountain B1F / 1F / 2F / 3F
 
 You can also find Magcargo by smashing the nearby pillars. Anyways, nothing to do on 1F so go to B1F via the ladder. You'll see a pillar glowing, which means we can drain lava by rock smashing it. Do so, then go down the ladder to the left to B2F.
 
-Pyrous Mountain B2F
+**Pyrous Mountain B2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3260,7 +3262,7 @@ Relationship Point Choices:
 
 Take the yacht to Azurine Island.
 
-Azurine Island
+**Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3394,7 +3396,7 @@ Relationship Point Choices:
 
 After the scenes on top of Pyrous, head back to Reborn City and go to the South Obsidia Ward. Talk to Cain to enter the Byxbysion Wasteland.
 
-Byxbysion Wasteland
+**Byxbysion Wasteland**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3506,7 +3508,7 @@ After you win, we are able to proceed to a gym battle, but opening up the canist
 
 Head down from the wasteland hideout, smash the rock and go down the ledge. You'll see that the left building door is now open. 
 
-Hidden Tunnel / Byxbysion Grotto / Byxbysion Tunnels 1
+**Hidden Tunnel / Byxbysion Grotto / Byxbysion Tunnels 1**
 
 |Cave              |%  |
 |------------------|---|
@@ -3520,7 +3522,7 @@ Hidden Tunnel / Byxbysion Grotto / Byxbysion Tunnels 1
 
 The tunnel is straightforward - enter the cave entrance at the end to reach another tunnel.
 
-Byxbysion Tunnels 2
+**Byxbysion Tunnels 2**
 
 |Cave              |%  |
 |------------------|---|
@@ -3659,7 +3661,7 @@ Having Strength means there is a lot of exploration that we can now do. First of
 
 First, note that the Pokemarts and the candy store have new inventory now.
 
-Default Shop (5 Badges)
+**Default Shop (5 Badges)**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -3672,7 +3674,7 @@ Default Shop (5 Badges)
 |*Poke Ball*    |$200       |
 |*Great Ball*   |$600       |
 
-Sweet Kiss Bottom Clerk Shop (5 Badges)
+**Sweet Kiss Bottom Clerk Shop (5 Badges)**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -3827,7 +3829,7 @@ Talk to Charlotte - CHOO CHOO!
 
 We will emerge in a new area. Here, you'll find a *Purple Shard*, *Full Heal*, *Normal Gem*, and *Elemental Seed*. If it's raining, a guy on this map will tell us about the password *stablweather*. You can actually choose whether to go to the Belrose Manse via Tanzan Mountain first, or to go to Spinel Town via the forest first. Here, we will go to Belrose first, but you can skip this section and come back to it after Spinel if you'd like.
 
-Tanzan Mountain
+**Tanzan Mountain**
 
 |Cave                   |%  |
 |-----------------------|---|
@@ -3844,7 +3846,7 @@ On this map, you'll find hidden *X Speed*, *PokeSnax*, *Hyper Potion*, 2 *Blue S
 
 Talk to Charlotte then emerge at the top into Tanzan Cove.
 
-Tanzan Cove
+**Tanzan Cove**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3880,7 +3882,7 @@ Relationship Point Choices:
 
 Make your way back through Tanzan Mountain and enter the forest.
 
-Chrysolia Forest (Main)
+**Chrysolia Forest (Main)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3903,7 +3905,7 @@ Chrysolia Forest (Main)
 
 Make your way forward and around to the left. You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
 
-Chrysolia Spring 1F
+**Chrysolia Spring 1F**
 
 |Cave              |%  |Old Rod           |%  |
 |------------------|---|------------------|---|
@@ -3927,7 +3929,7 @@ Towards the bottom of the area you'll see a single tree blocking off an open pat
 
 Head back up and go left, continuing our linear travel through the teleporting tree forest. In the bottom right part of the forest you'll see a lone tree guarding a patch of grass - you know what to do. Follow this path to reach a cave.
 
-Lost Railcave
+**Lost Railcave**
 
 |Cave              |%  |
 |------------------|---|
@@ -3945,7 +3947,7 @@ Back in the main area of the railcave, enter the room closest to two of the thre
 
 Back in the forest, continue your circles around and around. Once you reach the upper right side of the area you'll see a path leading to the right. Here you'll find a hidden *Ability Capsule*. Head into the clearing here.
 
-Chrysolia Forest (Clearing)
+**Chrysolia Forest (Clearing)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -4001,7 +4003,7 @@ Return to Tanzan Mountain. Inside, you'll find the grunts from earlier. Defeat t
 
 Now that we have a new rod there are a lot of encounters we can now get.
 
-Chrysolia Spring 1F
+**Chrysolia Spring 1F**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4009,7 +4011,7 @@ Chrysolia Spring 1F
 |Barboach          |20 |
 |**Clauncher**     |20 |
 
-Tanzan Cove
+**Tanzan Cove**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4021,7 +4023,7 @@ Make sure you catch a Luvdisc for an in-game trade we'll get to in a bit.
 
 Once you return to Reborn City via the railnet, we can now snag the other gang mascot than ours. If you joined Magma Gang, head over to Lapis Alleyway. 
 
-Lapis Alleyway
+**Lapis Alleyway**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4032,7 +4034,7 @@ If you joined Aqua Gang, head over to North Obsidia Alleyway, where you will be 
 
 Anyways, some more encounters:
 
-Lower Peridot Ward / Azurine Island / Apophyll Beach / Coral Ward
+**Lower Peridot Ward / Azurine Island / Apophyll Beach / Coral Ward**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4040,7 +4042,7 @@ Lower Peridot Ward / Azurine Island / Apophyll Beach / Coral Ward
 |**Tentacool**     |20 |
 |Skrelp            |20 |
 
-Lower Peridot Ward Pool
+**Lower Peridot Ward Pool**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4048,7 +4050,7 @@ Lower Peridot Ward Pool
 |Finneon           |20 |
 |Seaking           |20 |
 
-The Underroot
+**The Underroot**
 
 |Good Rod          |%  |
 |------------------|---|
@@ -4169,7 +4171,7 @@ Exit the gym.
 
 Make your way out of Spinel Town and head back towards Tanzan Mountain. You'll finally be able to enter the Pokemart here! One person sells the default items, but there is another vendor.
 
-Chrysolia Pokemart Herb Shop
+**Chrysolia Pokemart Herb Shop**
 
 |Item               |Price  |
 |-------------------|-------|
@@ -4198,7 +4200,7 @@ We can talk to Noel to advance the plot, but we can actually use the second Herb
 
 Head over to the Chrysolia Forest and go up. You'll find the lady that was teleported off the bench here. Give her the Herbal Extract to get *Department Store Sticker: Chansey*. 
 
-Department Store 7F Left Shop
+**Department Store 7F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -4212,7 +4214,7 @@ Department Store 7F Left Shop
 |*Ice Gem*      |$1200          |
 |*Fairy Gem*    |$1200          |
 
-Department Store 7F Right Shop
+**Department Store 7F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -4396,7 +4398,7 @@ Relationship Point Choices:
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
 - Beat Steelix on the second, third, etc. try (+2 Saphira)
 
-Tanzan Depths (Main Areas)
+**Tanzan Depths (Main Areas)**
 
 |Cave              |%  |
 |------------------|---|
@@ -4492,7 +4494,7 @@ Enter the room at the bottom. This is the room where Steelix was tunneling previ
 
 Head up and to the left. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room go up, you'll see an iron girder opening a path to a new room.
 
-Tanzan Depths (Across the Beam)
+**Tanzan Depths (Across the Beam)**
 
 |Cave              |%  |
 |------------------|---|
@@ -4517,7 +4519,7 @@ Only in Pokemon Reborn do we finally reach Route 1 after getting 7 badges.
 
 We actually start in the South Aventurine Woods, however.
 
-South Aventurine Woods
+**South Aventurine Woods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -4583,7 +4585,7 @@ A good sweeper can find some success if they resist Haxorus or Rhydon's attacks,
 
 So, now we get to explore Route 1. It's quite huge.
 
-Route 1
+**Route 1**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -4614,7 +4616,7 @@ This time, as you go right, take the time to knock out every single Tauros. Even
 
 You'll notice as you go that you will be unable to go through tall grass on your Tauros. The first time it totally blocks your progress right, enter the forest entrance directly up from this area.
 
-North Aventurine Woods
+**North Aventurine Woods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -4650,7 +4652,7 @@ With that out of the way, dismount off your Tauros with 'A' and jump down the le
 
 ## Vanhanen Castle
 
-Vanhanen Labyrinth
+**Vanhanen Labyrinth**
 
 |Land              |%  |
 |------------------|---|
@@ -4722,7 +4724,7 @@ Hey look! We made it to another chunk of the grand stairway that we couldn't acc
 
 After a scene, you'll be free to explore. 
 
-Citae Astrae Bottom
+**Citae Astrae Bottom**
 
 |Land              |%  |
 |------------------|---|
@@ -4754,7 +4756,7 @@ Note that we will eventually get points for free for being the other genders too
 
 Use the Light Shard (or wait till we catch a few Pokemon) and head out.
 
-Citae Astrae Top
+**Citae Astrae Top**
 
 |Cave              |%  |
 |------------------|---|
@@ -4787,7 +4789,7 @@ We're gonna need about 30 Honeys for the next section - you can either buy it di
 
 It's worth noting that we can buy Exp. Candy XL's now:
 
-Sweet Kiss Bottom Clerk Shop (7 Badges)
+**Sweet Kiss Bottom Clerk Shop (7 Badges)**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -4809,7 +4811,7 @@ Head to the right from here and go through another set of tall grass, but don't 
 
 Down from here, you'll find a hidden *Mental Herb* and another honey tree. Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass the old web spot and go up the next ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave.
 
-Celestinine Mountain B2F / B1F
+**Celestinine Mountain B2F / B1F**
 
 |Cave              |%  |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -4831,7 +4833,7 @@ Grab a Tauros mount and head east from 3N in search for 4N. Once you find it, gr
 
 A Pikachu on the ground floor is actually a tutor.
 
-Nyu's Pikachu Move Tutor
+**Nyu's Pikachu Move Tutor**
 
 | Move      |Price  |
 |-----------|-------|
@@ -4849,7 +4851,7 @@ To the right, 6N will spit us back out onto Route 1, so find 7N to the east. Pic
 
 Head back out to Route 1, and pick up a Tauros mount. Head right back in to 7N and go up the ledge at the top. Grab the *Sharp Beak* as well as hidden *Synthetic Seed* and *Tiny Mushroom*. 
 
-North Aventurine Woods
+**North Aventurine Woods**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -4880,7 +4882,7 @@ Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on t
 
 Return to the Route 1 Nature Center and talk to the guy on the second floor who lost his specs. In exchange for the Tech Glasses we will get *Department Store Sticker: Heracross*! 
 
-Department Store 8F Left Shop
+**Department Store 8F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -4895,7 +4897,7 @@ Department Store 8F Left Shop
 
 I've never used any of these in my life, but if you want to go for it.
 
-Department Store 8F Right Shop
+**Department Store 8F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -4994,7 +4996,7 @@ Wander around the area and defeat all the trainers. Hidden around the map you'll
 
 Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you first 1, then 2, then 3 from then on of a random color of shard. Useful. Up and to the right we'll find a couple of tutors.
 
-Seventh Street Upper-right Move Tutor Top
+**Seventh Street Upper-right Move Tutor Top**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -5003,7 +5005,7 @@ Seventh Street Upper-right Move Tutor Top
 |Electroweb     |3 Green Shards |
 |Sky Attack     |2 Red Shards   |
 
-Seventh Street Upper-right Move Tutor Bottom
+**Seventh Street Upper-right Move Tutor Bottom**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -5012,7 +5014,7 @@ Seventh Street Upper-right Move Tutor Bottom
 |Laser Focus    |1 Blue Shard   |
 |Skill Swap     |1 Green Shard  |
 
-Seventh Street Middle Move Tutor Top
+**Seventh Street Middle Move Tutor Top**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -5021,7 +5023,7 @@ Seventh Street Middle Move Tutor Top
 |Super Fang     |3 Green Shards |
 |Shock Wave     |3 Red Shards   |
 
-Seventh Street Middle Move Tutor Bottom
+**Seventh Street Middle Move Tutor Bottom**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -5034,7 +5036,7 @@ None of these are mindblowing in general but some of them can be useful for cert
 
 The guy to the right is selling random stuff
 
-Seventh Street Right Wares Shop
+**Seventh Street Right Wares Shop**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -5050,7 +5052,7 @@ Seventh Street Right Wares Shop
 
 Pricey, but we finally have the ability to get as many data chips as we want for password inputs. We will also want a Magnet Powder for a quest later. There is another seller in the bottom left corner
 
-Seventh Street Right Wares Shop
+**Seventh Street Right Wares Shop**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -5068,7 +5070,7 @@ Grab a Soul Candle for a quest later on, and a Stick for a different quest later
 
 To the right, you'll see one of your gang members making a sale:
 
-Seventh Street Blast Powder Shop
+**Seventh Street Blast Powder Shop**
 
 |Item           |Price  |
 |---------------|-------|
@@ -5078,7 +5080,7 @@ Blast Powder will essentially let us mine all the mining rocks a second time. Bu
 
 Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokemon we previously worked with in the Blacksteam Meteor Factory. 
 
-Seventh Street Pokemon Seller
+**Seventh Street Pokemon Seller**
 
 |Pokemon        |Price          |
 |---------------|---------------|
@@ -5296,7 +5298,7 @@ For winning, you'll get *TM11 Sunny Day*.
 
 Head over to Vanhanen Labyrinth. Hidden behind the big tree in the top right is the entrance to Iolia Valley. Talk to the red gem to create a rock smash wall. Head through the path.
 
-Iolia Valley
+**Iolia Valley**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -5319,7 +5321,7 @@ Iolia Valley
 
 In this first area you can find a hidden *Ultra Ball*, *Awakening*, and *Blue Shard*. In the bottom left, use the red key once more to open a rock smash wall, then go inside the new cave. 
 
-Iolia Valley Caves
+**Iolia Valley Caves**
 
 |Cave              |%  |
 |------------------|---|
@@ -5348,7 +5350,7 @@ Grab the *Purple Crystal Key*! Talk to the nearby purple crystal to mutate the c
 
 Head up from here and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokemon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
 
-Iolia Valley Northeast Dark Cave
+**Iolia Valley Northeast Dark Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -5421,7 +5423,7 @@ Ok, with those out of the way, head to the Underroot in Beryl. You'll see a gree
 
 Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head to the right and around to the top, then use the Yureyu Key to get the *Magnet* and the *Ghostium-Z*. Sweet. Next, head around to the other side of the factory and again use the Yureyu Key to get inside. 
 
-Yureyu Power Plant (Backroom)
+**Yureyu Power Plant (Backroom)**
 
 |Cave              |%  |
 |------------------|---|
@@ -5506,13 +5508,13 @@ Hidden around the circus, you'll find 3 *Blue Shards*, *Oran Berry*, *Red Shard*
 
 Starting at the entrance we came in through and working vaguely clockwise, there are tons of things to buy, minigames, etc.
 
-Agate Circus Cotton Candy Shop
+**Agate Circus Cotton Candy Shop**
 
 |Item           |Price  |
 |---------------|-------|
 |*Cotton Candy* |$5000  |
 
-Agate Circus General Goods Shop
+**Agate Circus General Goods Shop**
 
 |Item           |Price  |
 |---------------|-------|
@@ -5525,7 +5527,7 @@ Agate Circus General Goods Shop
 
 We can finally buy Ultra Balls! Although it's expensive, the Eviolite can turn certain Pokemon like Porygon 2 and Dusclops into monsters for this part of the game.
 
-Agate Circus Pledge Move Tutor
+**Agate Circus Pledge Move Tutor**
 
 |Move           |Price          |
 |---------------|---------------|
@@ -5535,7 +5537,7 @@ Agate Circus Pledge Move Tutor
 
 We had access to this in Lapis, but here's one for this section of the game if you need it. There's a Move Relearner in the bottom right corner, again doing it for one Heart Scale per move.
 
-Agate Circus Friendship Berries
+**Agate Circus Friendship Berries**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -5554,7 +5556,7 @@ To the left is a tile puzzle, which you can play in exchange for 1 Green Shard. 
 
 Winning will reward you a *Cover Fossil*. To the left is another person selling *Ability Capsules* in exchange for 1, then 2, then 3 of (a) random color shard(s). 
 
-Agate Circus Balloon Shop
+**Agate Circus Balloon Shop**
 
 |Item           |Price  |
 |---------------|-------|
@@ -5568,7 +5570,7 @@ To the left is another tile puzzle, which you can play in exchange for 1 Red Sha
 
 Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
-Agate Circus Move Tutor Bottom 
+**Agate Circus Move Tutor Bottom** 
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -5577,7 +5579,7 @@ Agate Circus Move Tutor Bottom
 |Stomping Tantrum   |4 Purple Shards|
 |Low Kick           |6 Red Shards   |
 
-Agate Circus Move Tutor Top 
+**Agate Circus Move Tutor Top**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -5588,13 +5590,13 @@ Agate Circus Move Tutor Top
 
 Down from here there are more stores and such.
 
-Agate Circus Snax Shop
+**Agate Circus Snax Shop**
 
 |Item           |Price  |
 |---------------|-------|
 |*PokeSnax*     |$650   |
 
-Agate Circus Ice Cream Shop
+**Agate Circus Ice Cream Shop**
 
 |Item                   |Price      |
 |-----------------------|-----------|
@@ -5611,7 +5613,9 @@ There is another tile puzzle here, but this one has different mechanics. I recom
 
 Once you win, you'll get a **Timburr**!
 
-Next to this you'll find the High Striker. It costs $350 to play each time. The rewards you can get from playing are as follows:
+Next to this you'll find the High Striker. It costs $350 to play each time. 
+
+**High Striker Rewards**
 
 |Reward         |Chance |
 |---------------|-------|
@@ -5624,7 +5628,7 @@ After you've gotten the grand prize, from then on it will be replaced with getti
 
 Once you get a Poke Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*. 
 
-Agate Circus Power Items Shop
+**Agate Circus Power Items Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -5664,7 +5668,7 @@ Relationship Point Choices:
 
 Exit the Big Top. You'll notice another tutor on the left side of the circus.
 
-Agate Circus Fake Samson Move Tutor
+**Agate Circus Fake Samson Move Tutor**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -5679,7 +5683,7 @@ Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, 
 
 Head up the elevator and walk outside.
 
-Route 2
+**Route 2**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -5717,7 +5721,7 @@ From here, climb the stairs and make your way down the first ledge on the gray r
 
 Climb up the stairs to the right. You'll find a hidden *Ultra Potion* and *Green Shard*, and be able to hop across Crustle to go left at the top. Pick up *TM58 Sky Drop* and a hidden *Super Potion*. To the left across the final Crustle you can get a hidden *Ether* and *Purple Shard*. Head into the mountain here.
  
-Ametrine Mountain
+**Ametrine Mountain**
 
 |Cave              |%  |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -5770,7 +5774,7 @@ Jump over the placed Crustle and move the remaining one off the cliff and into i
 
 Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Grab the hidden *Flying Gem*. 
 
-Celestinine Cascade
+**Celestinine Cascade**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -5920,7 +5924,7 @@ Relationship Point Choices:
 
 I'll start by exploring the rest of the area we are currently in, the Celestinine Cascade.
 
-Celestinine Cascade 
+**Celestinine Cascade** 
 
 |Water             |%  |
 |------------------|---|
@@ -5963,7 +5967,7 @@ Talk to the clown with the Politoed and Torkoal for a battle.
 
 Head up to enter Citrine Mountain! We've actually been in this mountain once before, but from a different side.
 
-Citrine Mountain 1F / 3F
+**Citrine Mountain 1F / 3F**
 
 |Cave              |%  |Water             |%  |
 |------------------|---|------------------|---|
@@ -5988,7 +5992,7 @@ Hidden on this floor you'll find 7 *Shoal Salts*, *Green Shard*, *Ultra Potion*,
 
 On the top there is a ladder that will take us to the familiar 2F. Up here you'll find a hidden *Zinc*, and *Ultra Ball* but that's about it. Back on 1F, surf to the upper right corner to enter Celestinine Mountain 1F. 
 
-Celestinine Mountain 1F / 2F / 3F
+**Celestinine Mountain 1F / 2F / 3F**
 
 |Cave              |%  |Water             |%  |
 |------------------|---|------------------|---|
@@ -6016,7 +6020,7 @@ Cross the ice puzzle to get to the left. Precisely:
 
 Follow the body of water up from here to enter Ametrine Mountain 2F.
 
-Ametrine Mountain
+**Ametrine Mountain**
 
 |Water             |%  |
 |------------------|---|
@@ -6041,7 +6045,7 @@ Anyways, return to Ametrine 2F, surf to the left, and cross the simple ice puzzl
 
 ## Route 3 & LCCC
 
-Route 3
+**Route 3**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -6068,7 +6072,7 @@ Relationship Point Choices
 Relationship Point Choices:
 - Talk to Aya while you are partnered (+1 Aya for each of 4 dialogues, +4 total)
 
-Route 3 Caves
+**Route 3 Caves**
 
 |Cave              |%  |
 |------------------|---|
@@ -6154,7 +6158,7 @@ After the fight, go to the left and grab *TM43 Flame Charge* within the room. He
 
 ## Route 4
 
-Route 4 (Lower)
+**Route 4 (Lower)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -6296,7 +6300,7 @@ Go left up the stairs at your first opportunity, and make your way across the ic
 
 Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
 
-Celestinine Mountain B1F / B3F / 1F / 2F / Ametrine Mountain B3F / B2F / B1F / 1F / 2F Underwater Tunnels
+**Celestinine Mountain B1F / B3F / 1F / 2F / Ametrine Mountain B3F / B2F / B1F / 1F / 2F Underwater Tunnels**
 
 |Land              |%  |
 |------------------|---|
@@ -6326,7 +6330,7 @@ With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F
 
 ## Ametrine City
 
-Ametrine City
+**Ametrine City**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -6570,7 +6574,7 @@ Welcome to Glitch City. Note that as we clear parts of this area we will never b
 
 Make your way through Kanto Route 23 as normal until Terra destroys the guy! Go down the ladder that appears here.
 
-Glitch Mt Moon
+**Glitch Mt Moon**
 
 |Cave              |%  |
 |------------------|---|
@@ -6586,7 +6590,7 @@ Relationship Point Choices:
 
 Exit out the bottom.
 
-Glitch Opal Ward
+**Glitch Opal Ward**
 
 |Land              |%  |
 |------------------|---|
@@ -6618,7 +6622,7 @@ Relationship Point Choices:
 
 Enter the house usually containing Mr. Fuji to continue.
 
-Glitch Byxbysion Wasteland
+**Glitch Byxbysion Wasteland**
 
 |Land              |%  |
 |------------------|---|
@@ -6646,15 +6650,15 @@ Relationship Point Choices:
 
 Back upstairs, enter the smaller of two gaps to proceed.
 
-Glitch Citae Astrae
+**Glitch Citae Astrae**
 
 |Land              |%  |
 |------------------|---|
-|Shiny Porygon (!) |100|
+|Shiny Porygon     |100|
 
 Exit at the bottom.
 
-Glitch Victory Road
+**Glitch Victory Road**
 
 |Cave              |%  |
 |------------------|---|
@@ -6669,7 +6673,7 @@ Glitch Victory Road
 
 Exit at the top.
 
-Glitch Cerulean Cave
+**Glitch Cerulean Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -6772,7 +6776,7 @@ You can get a hidden *Pearl* and *Red Shard* in the next room, as well as *TM01 
 
 This time, cross the ice to the left. Grab the hidden *Poke Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the door at the bottom.
 
-Celestinine Mountain B2F / Ametrine Mountain B2F Underwater Caverns
+**Celestinine Mountain B2F / Ametrine Mountain B2F Underwater Caverns**
 
 |Land              |%  |
 |------------------|---|
@@ -6796,7 +6800,7 @@ Pick up a hidden *PP Up* by going up and left. Surf down the waterfall at the bo
 
 Climb the waterfall here to reach 3F. On this floor, you'll need to push boulders into the dead ends in order to skate around the entire area. You'll find a hidden *Aspear Berry* within, and a *Exp. Candy L* and hidden *Nugget* in the top left corner. Climb the waterfall to 4F.
 
-Celestinine Mountain 4F
+**Celestinine Mountain 4F**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -6830,7 +6834,7 @@ That wraps up our massive collection effort in the mountain complex. Return to C
 
 Talk to Titania here, then enter the North Obsidia Water Grid at the bottom.
 
-Water Treatment Center
+**Water Treatment Center**
 
 |Mud Puddles       |%  |Water             |%  |
 |------------------|---|------------------|---|
@@ -7230,7 +7234,7 @@ So, we now have access to a ton of areas we've previously visited, plus we can n
 
 Dive underwater in the Tanzan Cove. 
 
-Tanzan Cove Underwater
+**Tanzan Cove Underwater**
 
 |Land              |%  |
 |------------------|---|
@@ -7247,7 +7251,7 @@ Down here you'll find a *Metronome*, *Big Nugget*, and the *Flower Garden Field 
 
 Return to the surface and talk to the fisherman on the right side of the map. If you've done all the steps of Simon's quest so far, you'll be given the *Super Rod*! I brought us here first so I could list surfing and super rod encounters at the same time :\)
 
-Tanzan Cove
+**Tanzan Cove**
 
 |Water             |%  |Super Rod         |%  |
 |------------------|---|------------------|---|
@@ -7260,7 +7264,7 @@ To continue Simon's quest, we'll need to donate 3 locally-caught Whiscash to thi
 
 For now, surf across the lake to the island on the left. Grab the hidden *Calcium* then go into the cave. 
 
-Tanzan Mountain Inner, Tanzan Depths Inner
+**Tanzan Mountain Inner, Tanzan Depths Inner**
 
 |Cave              |%  |
 |------------------|---|
@@ -7286,7 +7290,7 @@ If you want to blitz through the story, you can talk to Ame in the Grand Hall an
 
 Note that there are a ton of sidequests and main quests that will take us all over the city and to other areas beyond, so there isn't really a clean way to cover all of it without a bit of backtracking here and there. For now, I will take us through every ward one-by-one to cover everything we can get right now. Thankfully there are no more cracks in the streets and we can fly to any ward we choose, so that makes it simpler.
 
-Neo Opal Ward
+**Neo Opal Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -7325,7 +7329,7 @@ Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super 
 
 That's all for Opal right now, so head west into Peridot. 
 
-Neo Peridot Ward, Neo Lower Peridot Ward
+**Neo Peridot Ward, Neo Lower Peridot Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7358,7 +7362,7 @@ Neo Peridot Ward, Neo Lower Peridot Ward
 
 First, head up into the park to the right of the Pokemon Centerpokem to talk to Elder Seacrest. He will give us a quest: collect the four types of mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
-Neo South Peridot Alley
+**Neo South Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -7379,7 +7383,7 @@ Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*,
 
 In the former Mosswater Factory there is now a market.
 
-Mosswater Market Move Tutor: Max
+**Mosswater Market Move Tutor: Max**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -7388,7 +7392,7 @@ Mosswater Market Move Tutor: Max
 |Signal Beam        |5 Purple Shards|
 |Throat Chop        |6 Red Shards   |
 
-Mosswater Market Move Tutor: Myles
+**Mosswater Market Move Tutor: Myles**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -7399,7 +7403,7 @@ Mosswater Market Move Tutor: Myles
 
 There is also a guy selling a new item that will allow you to move all EV's from one stat into another. 
 
-Mosswater Market Tuner Shop
+**Mosswater Market Tuner Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -7415,7 +7419,7 @@ Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you 
 
 Enter the North Peridot Alleyway outside.
 
-Neo North Peridot Alley
+**Neo North Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -7436,7 +7440,7 @@ You can find a hidden *Revive*.
 
 That wraps up Peridot, so head into Neo Jasper Ward.
 
-Neo Jasper Ward
+**Neo Jasper Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7459,7 +7463,7 @@ Inside the police station, talk to the chief to continue the stolen Pokemon ques
 
 Enter Malchous Forest to the left. 
 
-Neo Malchous Forest Park
+**Neo Malchous Forest Park**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7486,7 +7490,7 @@ You'll also find another guy who looks like Corin Rouge you can fight in the For
 
 Head into Beryl next. Go right across the Beryl Bridge. If you show the Yureyu Key we got earlier to the tech guy near the power plant, you'll get a *Zap Plate*. 
 
-Neo Beryl Ward
+**Neo Beryl Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -7505,7 +7509,7 @@ You'll notice that there are a ton of invisible obstacles all over Beryl and the
 
 Hidden in Beryl you can get a *Poison Gem*, *Blue Shard*, *Magical Seed*, *Red Shard*, and the *Gooey Mulch* in the central park. 
 
-Neo Beryl Ward (Hill)
+**Neo Beryl Ward (Hill)**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -7531,7 +7535,7 @@ Neo Beryl Ward (Hill)
 
 On the hill by Corey's gym you can find a hidden *Purple Shard* and *HP Up*.
 
-Neo Beryl Cemetery
+**Neo Beryl Cemetery**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7559,7 +7563,7 @@ Neo Beryl Cemetery
 
 Before we leave, there are a few more things to do in Beryl. Enter the library and pick up the *Library Application* at the desk. This is the first of many applications we can grab to help us complete a sidequest later on. Upstairs you'll learn about the *monowoke* password. At the southwest corner of town, there is a shop run by the Inspector guy.
 
-The Emporium Shop
+**The Emporium Shop**
 
 |Item                   |Price      |
 |-----------------------|-----------|
@@ -7579,7 +7583,7 @@ Next, enter Corey's gym. Use the card we got from behind Skuntank here to open a
 
 That wraps up the things on the west side of Reborn City, so fly over to Lapis next. 
 
-Neo Lapis Ward
+**Neo Lapis Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7600,7 +7604,7 @@ Hidden around Lapis you'll be able to find a *Genius Wing*, *X Attack*, *Pepperm
 
 The flower shop on the left side has some new items for sale.
 
-Sweet Scent Flower Shop Middle (13 Badges)
+**Sweet Scent Flower Shop Middle (13 Badges)**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -7613,7 +7617,7 @@ Sweet Scent Flower Shop Middle (13 Badges)
 |*Telluric Seed*    |$5000          |
 |*Synthetic Seed*   |$5000          |
 
-Sweet Scent Flower Shop Bottom
+**Sweet Scent Flower Shop Bottom**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -7629,7 +7633,7 @@ Enter Lapis Alleyway next. Inside, you'll find more soil containing *4 Rowap Ber
 
 Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokemon earlier.
 
-Seventh Street Pokemon Seller Move Tutor 
+**Seventh Street Pokemon Seller Move Tutor**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -7646,7 +7650,7 @@ You can also talk to your gang leader to learn the purpose of the applications, 
 
 Pop back up in Lapis and head east into North Obsidia.
 
-Neo North Obsidia Ward
+**Neo North Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7668,7 +7672,7 @@ Enter the Spyce restaurant on the right. At the counter you can grab a *Spyce Ap
 
 Enter the North Obsidia Alleyway next. 
 
-Neo North Obsidia Alleyway
+**Neo North Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -7689,7 +7693,7 @@ You'll find a *Magical Seed* and hidden *Dusk Ball* and *Max Elixir*.
 
 Head south into Central Obsidia. 
 
-Neo Obsidia Ward
+**Neo Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7715,7 +7719,7 @@ Enter the building to the right on Saffron Street. After seeing a conversation, 
 
 In the building to the right you can get a *Medicine Application*. 
 
-Madame Meganium's Shop
+**Madame Meganium's Shop**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -7730,7 +7734,7 @@ You can buy the Energy Root and White Herb for the Spyce if needed.
 
 While we were gone we got two stickers, so we can access some new floors of the Department Store.
 
-Department Store 9F Left Shop
+**Department Store 9F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -7744,7 +7748,7 @@ Department Store 9F Left Shop
 |*Dawn Stone*   |$2100          |
 |*Shiny Stone*  |$2100          |
 
-Department Store 9F Right Shop
+**Department Store 9F Right Shop**
 
 |Item               |Price          |
 |-------------------|---------------|
@@ -7757,7 +7761,7 @@ Department Store 9F Right Shop
 |*Amplified Rock*   |$3000          |
 |*TM22 Solar Beam*  |$15000         |
 
-Department Store 10F Left Shop
+**Department Store 10F Left Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -7767,7 +7771,7 @@ Department Store 10F Left Shop
 |*Ultra Ball*   |$1200          |
 |*Revive*       |$1500          |
 
-Department Store 10F Right Shop
+**Department Store 10F Right Shop**
 
 |Item           |Price          |
 |---------------|---------------|
@@ -7789,7 +7793,7 @@ Inside the Cafe Salon, you can pick up a *Salon Application*.
 
 Enter the Critical Capture building. You can pick up a *Critical Application*. There is also a new clerk here.
 
-Critical Capture Shop Left Clerk
+**Critical Capture Shop Left Clerk**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -7807,7 +7811,7 @@ Talk to the other person in here and he will take the Corrupted Poke Ball we fou
 
 Enter the Sweet Kiss Candy store.
 
-Sweet Kiss Top Clerk Shop
+**Sweet Kiss Top Clerk Shop**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -7824,7 +7828,7 @@ Buy the Sweet Heart for Spyce.
 
 Enter the Obsidia Alleyway next.
 
-Neo Obsidia Alleyway
+**Neo Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -7845,7 +7849,7 @@ Inside you'll learn about the password *nuzlocke*. You can also find a hidden *R
 
 Head into South Obsidia. 
 
-Neo South Obsidia Ward
+**Neo South Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7882,7 +7886,7 @@ You'll be able to find hidden *PP Up* and *Blue Shard* in the ward. You can also
 
 Go south into Coral. 
 
-Coral Ward
+**Coral Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -7927,7 +7931,7 @@ Talk to one of the fisherman at the bottom of Coral Ward and agree to buy the *S
 
 Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. Behind the bottom lighthouse is a hidden dive spot. 
 
-Coral Ward Underwater, Azurine Lake Diving Interiors
+**Coral Ward Underwater, Azurine Lake Diving Interiors**
 
 |Cave              |%  |
 |------------------|---|
@@ -7959,7 +7963,7 @@ This is a 6v2 fight that might kick your butt simply because Underwater Field al
 
 Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. There's also a slightly different encounter table here.
 
-Coral Lighthouse Underwater
+**Coral Lighthouse Underwater**
 
 |Cave              |%  |
 |------------------|---|
@@ -7980,7 +7984,7 @@ Next, fly into Onyx Ward. You can find a hidden *Burn Heal*, *X Defend*, and *Re
 
 Head up to the rooftop garden if you'd like. 
 
-Onyx Ward
+**Onyx Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -8006,7 +8010,7 @@ That wraps up things in the city limits for right now, so fly over to Spinel Tow
 
 Towards the top of the ground floor you'll see a new entrance to a gift shop. 
 
-Spinel Museum Gift Shop Left
+**Spinel Museum Gift Shop Left**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -8021,7 +8025,7 @@ Spinel Museum Gift Shop Left
 |*Mystic Water*     |$9800      |
 |*Never-Melt Ice*   |$9800      |
 
-Spinel Museum Gift Shop Middle
+**Spinel Museum Gift Shop Middle**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -8035,7 +8039,7 @@ Spinel Museum Gift Shop Middle
 |*Pixie Plate*      |$9800      |
 |*Thick Club*       |$9800      |
 
-Spinel Museum Gift Shop Right
+**Spinel Museum Gift Shop Right**
 
 |Item               |Price      |
 |-------------------|-----------|
@@ -8047,7 +8051,7 @@ We also got a couple fossils while we were away - meaning we can now get the oth
 
 Make your way down to Chrysolia Forest and enter the Chrysolia Spring. 
 
-Chrysolia Spring 1F
+**Chrysolia Spring 1F**
 
 |Water             |%  |Super Rod         |%  |
 |------------------|---|------------------|---|
@@ -8059,7 +8063,7 @@ Chrysolia Spring 1F
 
 Surf across and push the first boulder out of the way and grab a hidden *Common Candy*. Towards the top, you'll need to push a boulder onto a nearby water stream, when you do so, it will make the other one larger. Surf onto that larger jet to be pushed up on a ledge! Grab the hidden *Red Shard* and *X Defend* then push the boulder into the hole. Grab the *Red Card* then jump down.
 
-Chrysolia Spring B1F, Chrysolia Spring Sauna
+**Chrysolia Spring B1F, Chrysolia Spring Sauna**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -8116,7 +8120,7 @@ This room has a lot of ledges, and is a bit chaotic. Clear the fog if you're con
 
 Fly on over to the Vanhanen Castle and make your way to the Iolia Valley. 
 
-Iolia Valley
+**Iolia Valley**
 
 |Water             |%  |Super Rod         |%  |
 |------------------|---|------------------|---|
@@ -8128,7 +8132,7 @@ Climb the waterfall at the top of the area, grab the hidden *Nugget*, and follow
 
 Exit the valley and return to Route 1. Grab a Tauros and head into the top right North Aventurine Woods entrance. 
 
-North Aventurine Woods 
+**North Aventurine Woods**
 
 |Super Rod / Water |%  |
 |------------------|---|
@@ -8149,7 +8153,7 @@ Fly over to the Apophyll Academy and enter the academy. Talk to the girl in the 
 
 Head down into the meditation spot where we once met Kiki.
 
-Neo Apophyll Academy Meditation Area
+**Neo Apophyll Academy Meditation Area**
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -8161,7 +8165,7 @@ Neo Apophyll Academy Meditation Area
 
 You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give candy when you beat them. Head up to the area surrounding the academy.
 
-Neo Apophyll Beach / Azurine Lake
+**Neo Apophyll Beach / Azurine Lake**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -8185,7 +8189,7 @@ Head to the Apophyll Beach to the right side of the academy. On this map you'll 
 
 Next, make your way all the way to the top of Pyrous Mountain. From the bottom of the lava crater we can actually fish.
 
-Pyrous Mountain Crater
+**Pyrous Mountain Crater**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8197,7 +8201,7 @@ Pyrous Mountain Crater
 
 Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation.
 
-Azurine Cave South
+**Azurine Cave South**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -8224,7 +8228,7 @@ Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hi
 
 Head down and to the right. You'll see a narrow strip of sand, which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area. 
 
-Azurine Lake Underwater
+**Azurine Lake Underwater**
 
 |Land              |%  |
 |------------------|---|
@@ -8278,7 +8282,7 @@ Enter the building to the left to get a hidden *Blue Shard*, *Purple Shard* and 
 
 Next, in the underwater section, on the left side of the loop you'll notice a bright 2-by-2 spot. Surface here specifically and surf around to the other side, grabbing the hidden *Level Ball*. Enter this cave. 
 
-Azurine Cave North
+**Azurine Cave North**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -8324,7 +8328,7 @@ There is one more thing we can do in these apartment areas: we have one key rema
 
 To finish off our exploration of the Azurine Lake, we will next check out Azurine Island. Surf west from Coral Ward and go down when you're able to to reach Azurine Island once more.
 
-Neo Azurine Island
+**Neo Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -8384,7 +8388,7 @@ You'll notice that our new Pokemon is actually holding the *Sanctum Key*. Head b
 
 With the Super Rod in our bag, there are some new Pokemon we can get in the circus-and-beyond area. Fly back to the Agate Circus. You can get a *Circus Application* towards the top of the area while you're here. For completeness here are all of the encounters:
 
-Celestinine Cascade
+**Celestinine Cascade**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8394,7 +8398,7 @@ Celestinine Cascade
 |Dewgong           |4  |
 |Octillery         |1  |
 
-Ametrine Mountain 1F / 2F / 3F / 4F / 5F
+**Ametrine Mountain 1F / 2F / 3F / 4F / 5F**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8404,7 +8408,7 @@ Ametrine Mountain 1F / 2F / 3F / 4F / 5F
 |Qwilfish          |4  |
 |Basculin          |1  |
 
-Ametrine Mountain B1F / B2F / B3F
+**Ametrine Mountain B1F / B2F / B3F**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8413,7 +8417,7 @@ Ametrine Mountain B1F / B2F / B3F
 |Shellder          |16 |
 |Qwilfish          |4  |
 
-Celestinine Mountain 1F / 2F / 3F
+**Celestinine Mountain 1F / 2F / 3F**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8423,7 +8427,7 @@ Celestinine Mountain 1F / 2F / 3F
 |Qwilfish          |4  |
 |Basculin          |1  |
 
-Celestinine Mountain B1F / B2F
+**Celestinine Mountain B1F / B2F**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8432,7 +8436,7 @@ Celestinine Mountain B1F / B2F
 |Shellder          |16 |
 |Qwilfish          |4  |
 
-Celestinine Mountain 4F
+**Celestinine Mountain 4F**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8441,7 +8445,7 @@ Celestinine Mountain 4F
 |Shellder          |15 |
 |Feebas            |5  |
 
-Citrine Mountain 
+**Citrine Mountain** 
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8450,7 +8454,7 @@ Citrine Mountain
 |Shellder          |15 |
 |Qwilfish          |5  |
 
-Water Treatment Center 
+**Water Treatment Center** 
 
 |Super Rod         |%  |
 |------------------|---|
@@ -8785,7 +8789,7 @@ Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get
 
 Head left underneath the waterfall, and continue going left until you run into *TM33 Reflect*!
 
-The Underroot
+**The Underroot**
 
 |Water             |%  |Super Rod         |%  |
 |------------------|---|------------------|---|
@@ -8988,7 +8992,7 @@ Anyways, the three options:
 
 Donate the $60000 to fund this project. Head down to the South Obsidia Ward once you complete it, you'll notice that the whole area has been revamped and the Slums are no more.
 
-Neo South Obsidia Ward (Renovated)
+**Neo South Obsidia Ward (Renovated)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9209,7 +9213,7 @@ Possibly benefitting from the collapses your team suffer in the first battle, th
 
 Once you succeed in here, you can get the *Aggronite* and a hidden *Ultra Ball* and *Max Repel*. There are also encounters down here. 
 
-Underground Railnet (Aggron Area)
+**Underground Railnet (Aggron Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -9242,7 +9246,7 @@ In front of the building, a person will offer you an in-game trade: your Carnivi
 
 Of course, the Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokemon now!
 
-Neo Azurine Island (Renovated)
+**Neo Azurine Island (Renovated)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9299,7 +9303,7 @@ The train station in Lower Peridot where we started our journey is now open. Ins
 
 Make your way down to Seventh Street and find your corresponding gang leader. He'll ask us to give matching job applications to each of the members of their gang. Note that the blast powder salesmen will still sell to you on their respective jobsites. Anyways, the correct applications:
 
-**Magma Gang**
+**Magma Gang Applications**
 
 |Member     |Application        |
 |-----------|-------------------|
@@ -9311,7 +9315,7 @@ Make your way down to Seventh Street and find your corresponding gang leader. He
 
 Note that if you haven't fixed the slums yet, you won't be able to finish this quest with the Magma Gang yet. For completing it all you'll be given **Oshawott** holding a *Choice Band*.
 
-**Aqua Gang**
+**Aqua Gang Applications**
 
 |Member     |Application        |
 |-----------|-------------------|
@@ -9422,7 +9426,7 @@ Oasis 4: Bottom of the right side of the desert
 
 So, once you find the map you're on, now we can start getting things!
 
-Greater Tourmaline Desert
+**Greater Tourmaline Desert**
 
 |Super Rod         |%  |Water             |%  |
 |------------------|---|------------------|---|
@@ -9578,7 +9582,7 @@ Relationship Point Choices:
 
 Next, we're going to explore the northwest side of the Tourmaline Desert. Thankfully there is only one map this time and it is relatively narrow. Make your way to the northwest side of the greater desert and start following the tracks up. As before, don't enter any of the traincars quite yet.
 
-Northwest Tourmaline Desert
+**Northwest Tourmaline Desert**
 
 |Cave              |%  |
 |------------------|---|
@@ -9664,7 +9668,7 @@ Before we enter the tower, there's another thing we can do out here. Surf around
 
 You can pet Leafeon here for the Eeveelution petting quest. By defeating the Lv. 100 Exeggutor-Alola in the pot, you can talk to the pot to get the *Dragonium-Z*! There is also a top tier NPC and shop here.
 
-Marcello's Lemonade Shop
+**Marcello's Lemonade Shop**
 
 |Item                   |Price      |
 |-----------------------|-----------|
@@ -9683,7 +9687,7 @@ Relationship Point Choices:
 
 Anyways, head through the opened door to the basement.
 
-Mirage Tower B1F
+**Mirage Tower B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -9726,7 +9730,7 @@ Puzzle 6:
 
 Follow the path back from here... into the Tourmaline Desert once more?
 
-Northeast Tourmaline Desert?
+**Northeast Tourmaline Desert?**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -9766,7 +9770,7 @@ As in the other areas:
 Relationship Point Choices:
 - Talk to Taka while he's with you in the Sugiline Cave (+1 Taka)
 
-Sugiline Cave
+**Sugiline Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -9821,7 +9825,7 @@ In the next room, grab a hidden *Genius Wing* and *Exp. Candy XL*, then proceed 
 
 While a fast Ice type can make this not really a problem, they can wear most teams down quickly. Technically you can actually get through this room without having a single battle with very careful movement, so figure out how to get through however you like.
 
-Sugiline Ruin
+**Sugiline Ruin**
 
 |Cave              |%  |
 |------------------|---|
@@ -9853,7 +9857,7 @@ As in the other areas:
 Relationship Point Choices:
 - Talk to Taka while he's with you in the Teknite Cave/Ridge (+1 Taka)
 
-Teknite Cave Dry Areas
+**Teknite Cave Dry Areas**
 
 |Cave              |%  |
 |------------------|---|
@@ -9877,7 +9881,7 @@ Grab the hidden *Purple Shard* then transform the field to Crystal Cavern. Use t
 
 Switch to Crystal Cavern, then remove the obstacle. Grab the hidden *Iron* and *Potion*. Switch back to Cave and grab a hidden *Burn Heal* at the top and *Mental Herb* at the bottom. Enter the bottom left room to re-enter 3F, grab the hidden *Synthetic Seed*, and proceed to the room on the left.
 
-Teknite Cave Wet Area (No Crystals)
+**Teknite Cave Wet Area (No Crystals)**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9899,7 +9903,7 @@ Teknite Cave Wet Area (No Crystals)
 |Gigalith          |1  |                  |   |
 |Aggron            |1  |                  |   |
 
-Teknite Cave Wet Area (Crystals)
+**Teknite Cave Wet Area (Crystals)**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9922,7 +9926,7 @@ Teknite Cave Wet Area (Crystals)
 
 Surf to a hidden *Repel*. Switch to a Cave Field and use the blue crystal at the bottom to cross the water. Grab a hidden *Magical Seed* and proceed. Grab the *Buginium-Z* and the hidden *Blue Shard*. Return to 4F, this time going through the top left exit.
 
-Teknite Ridge
+**Teknite Ridge**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -9963,7 +9967,7 @@ Time to proceed to the next story area! You've probably seen a large area surrou
 
 At the bottom right of this map but before you enter the Greater Tourmaline map, you will find a entrance to a train car. Go through this train car, and you'll emerge in the 1R253 Scrapyard!
 
-1R253 Scrapyard
+**1R253 Scrapyard**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -10009,7 +10013,7 @@ You can talk to the residents of the Train Town and learn about them. In the bot
 
 Depending on the time of day, Bouffalant Bill will be either outside or in a train car on the upper right side of the area that contains a healing machine. He will sell us some stuff.
 
-Bouffalant Bill Shop
+**Bouffalant Bill Shop**
 
 |Item           |Price      |
 |---------------|-----------|
@@ -10078,7 +10082,7 @@ Follow the path through a ton of train cars until you emerge... what?
 
 You'll find yourself in a new location entirely. Not what you expected, huh?
 
-Once Upon a Somewhere / Once Upon a Waste of Time
+**Once Upon a Somewhere / Once Upon a Waste of Time**
 
 |Land              |%  |Headbutt          |%  |
 |------------------|---|------------------|---|
@@ -10473,7 +10477,7 @@ That's not all we can do in the Teknite Ridge, but we will be accessing a differ
 
 Fly over to the Beryl Ward, and enter the Beryl Cave. On 1F, you can use Rock Climb to access a new area. Grab the hidden *Red Shard* and head into the next room, which has a hidden *Hard Stone*. Climb up once more to emerge into a new section of the Teknite Ridge.
 
-Teknite Ridge (Beryl Cave Area)
+**Teknite Ridge (Beryl Cave Area)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10490,7 +10494,7 @@ Teknite Ridge (Beryl Cave Area)
 
 Hidden on this map, we can obtain a *Green Shard*, *Energy Powder*, *Dusk Ball*, *Common Candy*, and *Calcium*. Enter the cave at the top.
 
-Teknite Cave (Beryl Cave Area)
+**Teknite Cave (Beryl Cave Area)**
 
 |Cave              |%  |
 |------------------|---|
@@ -10538,7 +10542,7 @@ In the area where we fought Steelix, make your way to the top left and climb acr
 
 Enter any one of the three caves.
 
-Tanzan Depths (Small Back Caves)
+**Tanzan Depths (Small Back Caves)**
 
 |Cave              |%  |
 |------------------|---|
@@ -10599,7 +10603,7 @@ We've gone this path once before to get some items. Climb the waterfall to 3F, t
 
 Complete an ice puzzle here, grab a *Paralyze Heal*, then take the waterfall down. Not down one floor, not two, but down EIGHT floors, you'll land on Ametrine Mountain B4F.
 
-Ametrine Mountain B4F
+**Ametrine Mountain B4F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10633,7 +10637,7 @@ That wraps up all the optional rocks that we can climb, so fly on back to Calcen
 
 Note that there are a lot of different encounter tables for the various maps of Route 4. I will point out which variation is which for each map. This first map uses Variation 1.
 
-Upper Route 4 (Variation 1)
+**Upper Route 4 (Variation 1)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10667,7 +10671,7 @@ This brings us back to the first map we were on, at a different point. Grab a hi
 
 Make your way back to the previous map and go up the slope towards the top. On this map, a chill will settle in the air. Encounters here are Variation 2.
 
-Upper Route 4 (Variation 2)
+**Upper Route 4 (Variation 2)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10688,7 +10692,7 @@ Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to ne
 
 Once you do, snow will gather on the map, actually transforming it into a map with different encounters - Variation 3.
 
-Upper Route 4 (Variation 3)
+**Upper Route 4 (Variation 3)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10707,7 +10711,7 @@ Upper Route 4 (Variation 3)
 
 Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill, and back down to the first fork. Climb up the hill to a new map with a lake on it, which has encounters Variation 4.
 
-Upper Route 4 (Variation 4)
+**Upper Route 4 (Variation 4)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10744,7 +10748,7 @@ On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ic
 
 This map has encounter Variation 5.
 
-Upper Route 4 (Variation 5)
+**Upper Route 4 (Variation 5)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10765,7 +10769,7 @@ On the next map you can find a hidden *PokeSnax* and an *Ice Stone*. Climb back 
 
 This time, climb the waterfall at the top. This map has encounter Variation 6.
 
-Upper Route 4 (Variation 6)
+**Upper Route 4 (Variation 6)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10798,7 +10802,7 @@ Upper Route 4 (Variation 6)
 
 Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so. The next map has a different encounter table as well: Variation 6.
 
-Upper Route 4 (Variation 6)
+**Upper Route 4 (Variation 6)**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -10839,7 +10843,6 @@ Pick up *TM73 Thunder Wave* here. Press 'A' while you're above the disconnected 
   - Magnet Bomb
   - Shadow Punch
   - Shift Gear
-
 
 This is a very tough fight with a custom, overpowered Breloom robot! Thankfully it's still a 6v1 so you should be able to figure out a way to take it out. It does have mixed attacks, the ability to put you to sleep, and a set up move, so be careful as it alone can counter many strategies. 
 
