@@ -178,6 +178,12 @@ Heavy Work In Progress :)
   - [Reborn Restoration Project 3](#reborn-restoration-project-3)
   - [Starter Egg Quest Part 2](#starter-egg-quest-part-2)
   - [Rock Climb Exploration](#rock-climb-exploration)
+    - [Climbin' at Azurine & Apophyll](#climbin-at-azurine--apophyll)
+    - [Climbin' at Teknite Ridge](#climbin-at-teknite-ridge)
+    - [Climbin' at Route 2 and Route 3](#climbin-at-route-2-and-route-3)
+    - [Climbin' in Tanzan Depths](#climbin-in-tanzan-depths)
+    - [Climbin' in the Iolia Valley](#climbin-in-the-iolia-valley)
+    - [Climbin' in the Mountains](#climbin-in-the-mountains)
   - [Route 4](#route-4-1)
   - [Glass Workstation](#glass-workstation)
   - [The Raid on Agate City](#the-raid-on-agate-city)
@@ -188,6 +194,11 @@ Heavy Work In Progress :)
   - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
   - [Placeholder Badge](#placeholder-badge)
 - [Appendices](#appendices)
+  - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
+    - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
+    - [PULSE Form Lookup](#pulse-form-lookup)
+    - [Other Form Lookup](#other-form-lookup)
+    - [Dev Fight Form Lookup](#dev-fight-form-lookup)
   - [Wild Held Items](#wild-held-items)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
@@ -1098,13 +1109,15 @@ Cut two more wiggly trees. Before we head left, we can actually sneak up past a 
 Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
 
 Meteor Admin ZEL. Field: Forest Field
-- PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Poison
+- PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7.
     - Wrap
     - Vine Whip
     - Acid Spray
     - Mega Drain
 
-This is our first battle with a PULSE! As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
+This is our first battle with a PULSE! For this, and all custom Pokemon forms in this game, I provide a reference for base stats, typing, and other data [in the appendices](#custom-pokemon-form-lookup). The Field Notes app in game also has you covered, minus specific numbers. 
+
+As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
 
 Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
 
@@ -1510,7 +1523,7 @@ Double back around to the path on top, defeat a grunt then chop the tree. Down f
 
 Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
 
-Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the **PULSE Readou*t 5B*. 
+Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the **PULSE Readout 5B*. 
 
 Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
 
@@ -1525,7 +1538,7 @@ Meteor Admin Taka (Super Potion). Field: Rocky Field
     - Nasty Plot
     - Chatter
     - Taunt
-- PULSE Tangrowth B, Lv. 24, @Oran Berry, Ability: Arena Trap, Impish Nature, IVs: 31. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Ground
+- PULSE Tangrowth B, Lv. 24, @Oran Berry, Ability: Arena Trap, Impish Nature, IVs: 31.
     - Leech Seed
     - Vine Whip
     - Sand Tomb
@@ -2935,7 +2948,7 @@ Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field
     - Assurance
     - Quick Attack
     - Confuse Ray
-- PULSE Muk, Lv. 42, @Leftovers, Ability: Protean, Modest Nature, IVs: 31. Stat Spread: 105/105/70/40/97/250. 
+- PULSE Muk, Lv. 42, @Leftovers, Ability: Protean, Modest Nature, IVs: 31. 
     - Sludge Wave
     - Mud Bomb
     - Muddy Water
@@ -3535,7 +3548,7 @@ Pokemon Horde. Field: Wasteland Field
     - Sludge Bomb
     - Self-Destruct
     - Acid Spray
-- Mr. Bigglesworth, Lv. 65, @Black Sludge, Ability: Gooey, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0. Stat Spread: 80/135/107/85/60/107
+- Mr. Bigglesworth (PULSE Garbodor), Lv. 65, @Black Sludge, Ability: Gooey, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0.
     - Gunk Shot
     - Pain Split
     - Stockpile
@@ -4398,13 +4411,13 @@ Tanzan Depths (Main Areas)
 Once you emerge, make your way back into the base and head to the back room. Once you do it will be time for another fight! 
 
 Meteor Admin ZEL. Field: Factory Field
-- PULSE Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31. Stat Spread: 25/20/115/140/195/155. Typing: Psychic/Steel
+- PULSE Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31.
     - Hyper Beam
     - Dark Pulse
     - Hyper Beam
     - Hyper Beam
 
-Seriously. Of course, when you're only fighting one Pokemon with very low HP that has to deal with recharge much of the time, it shouldn't be too hard. Disabling Dark pulse will let your Ghost sit there for free, Mirror Coat and Metal Burst can work great here, etc. There's lots of options for this PULSE. 
+Seriously. Of course, when you're only fighting one Pokemon with very low HP that has to deal with recharge much of the time, it shouldn't be too hard. Disabling Dark pulse will let your Ghost sit there for free, Mirror Coat and Metal Burst can work great here, etc. There's lots of options for this one. 
 
 Head all the way back to Tanzan Cove and talk to Anna inside. It's time for another gym battle!
 
@@ -6299,13 +6312,13 @@ Make your way back. Next, go to Ametrine Mountain 2F. Northeast of the iceberg, 
 Follow the path, diving up and down as you go. Once you pop up, you'll find another PULSE!
 
 Pokemon Redoubt. Field: Icy Field
-- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/0/4. Stat Spread: 105/160/255/10/97/255
+- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/0/4.
     - Hammer Arm
     - Earthquake
     - Recover
     - Avalanche
 
-As you can tell, this PULSE has 255 in Def and SpD, and a respectable HP. On top of this it has Leftovers and Recover, meaning it is extremely hard to kill by raw damage alone. It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side, which can break Sashes and Sturdy. There are still a number of strategies that make this easy - it is a 6v1, after all. Toxic, for example, is pretty great. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc. 
+With 255 in Def and SpD and a respectable HP, this thing is tanky. On top of this it has Leftovers and Recover, meaning it is extremely hard to kill by raw damage alone. It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side, which can break Sashes and Sturdy. There are still a number of strategies that make this easy - it is a 6v1, after all. Toxic, for example, is pretty great. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc. 
 
 With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F. Up here you can get a hidden *Green Shard*, *X Attack*, and *Blue Shard*. On the next floor, you'll find a hidden *Ice Gem*. Make your way to the door on the middle of the right side of the ice puzzle and exit.
 
@@ -6867,7 +6880,7 @@ In the Beryl Water Grid, go to the right, and Titania will get trapped. Head lef
 Go down from here and follow the path through some rooms to the right, opening shutters for shortcuts as you go.
 
 Pokemon Stopple. Field: Murkwater Field
-- PULSE Swalot, Lv. 80, @Black Sludge, Ability: Water Absorb, Calm Nature, IVs: 27, EVs: 252/0/252/0/0/4. Typing: Water/Poison. Stat Spread: 100/73/210/40/110/210
+- PULSE Swalot, Lv. 80, @Black Sludge, Ability: Water Absorb, Calm Nature, IVs: 27, EVs: 252/0/252/0/0/4.
     - Sludge Wave
     - Recover
     - Infestation
@@ -7396,7 +7409,7 @@ Outside her house and down, there is a tent. Hidden underneath this tent is an N
 
 Enter the building that Simon is in and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
 
-Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained a PULSE, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
+Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained Muk, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
 
 Enter the North Peridot Alleyway outside.
 
@@ -8744,7 +8757,7 @@ Meteor Admin ZEL (2x Ultra Potion). Field: Factory Field
     - Wish
     - Foul Play
     - Toxic
-- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Magnet Pull, Timid Nature, IVs: 31, EVs: 252/0/0/0/252/4. Stat Spread: 70/70/160/70/230/140. Ability: Levitate.
+- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/0/252/4.
     - Magnet Bomb
     - Discharge
     - Autotomize
@@ -10865,6 +10878,200 @@ Stub
 Stub
 
 # Appendices
+
+## Custom Pokemon Form Lookup
+
+Pokemon Reborn uses Gen 7 Pokemon, forms, and mechanics. Details for all canon forms can be found on [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) or your favorite Pokemon Database. However, these resources will not have any information on Reborn's custom forms.
+
+While Pokemon Reborn doesn't have any entirely new Pokemon, it does include new forms for many Pokemon. Aside from the Aevian forms, all of these are not available to the player and are instead boss Pokemon. I include full details for these below. Note that these forms can be considered spoilers!
+
+Any attributes that are not listed are unchanged from the base form.
+
+### Obtainable Custom Form Lookup
+
+**Aevian Misdreavus** (Obtainable)
+- Base Stats: 60 HP, 85 Atk, 60 Def, 85 SpA, 60 SpD, 85 Spe 
+- Typing: Grass/Ghost
+- Height: 7
+- Weight: 420
+- Abilities: Magic Bounce, Poison Point, Tangling Hair
+- Evolution Method: Leaf Stone
+- Moves:
+  
+|Level  |Move           |
+|-------|---------------|
+|1      |Growl          |
+|1      |Vine Whip      |
+|5      |Poison Powder  |   
+|10     |Astonish       |   
+|14     |Confuse Ray    |   
+|19     |Snap Trap      |   
+|23     |Hex            |   
+|28     |Giga Drain     |   
+|32     |Ingrain        |   
+|37     |Grudge         |   
+|41     |Shadow Ball    |   
+|46     |Perish Song    |   
+|50     |Power Whip     |   
+|55     |Power Gem      |   
+|Egg    |Curse          |   
+|Egg    |Destiny Bond   |   
+|Egg    |Growth         |   
+|Egg    |Me First       |   
+|Egg    |Memento        |   
+|Egg    |Nasty Plot     |   
+|Egg    |Clear Smog     |   
+|Egg    |Screech        |   
+|Egg    |Shadow Sneak   |   
+|Egg    |Life Dew       |   
+|Egg    |Toxic          |   
+|Egg    |Sucker Punch   |   
+|Egg    |Wonder Room    |   
+
+**Aevian Mismagius** (Obtainable)
+- Base Stats: 60 HP, 105 Atk, 60 Def, 105 SpA, 60 SpD, 105 Spe
+- Typing: Grass/Ghost
+- Weight: 10
+- Abilities: Magic Bounce, Poison Point, Tangling Hair
+- Moves:
+  
+|Level  |Move           |
+|-------|---------------|
+|1      |Poison Jab     |
+|1      |Power Gem      |   
+|1      |Phantom Force  |   
+|1      |Lucky Chant    |   
+|1      |Magical Leaf   |
+|1      |Growl          |
+|1      |Vine Whip      |
+|1      |Poison Powder  |
+|1      |Astonish       |
+|Evo.   |Shadow Claw    |
+
+
+### PULSE Form Lookup
+
+**PULSE Tangrowth C**
+- Base Stats: 100 HP, 70 Atk, 200 Def, 70 SpA, 160 SpD, 10 Spe
+- Typing: Grass/Poison
+- Weight: 2675
+- Ability: Filter
+
+**PULSE Tangrowth B**
+- Base Stats: 100 HP, 70 Atk, 200 Def, 70 SpA, 160 SpD, 10 Spe
+- Typing: Grass/Ground
+- Weight: 2675
+- Ability: Arena Trap
+
+**PULSE Tangrowth A**
+- Base Stats: 100 HP, 70 Atk, 200 Def, 70 SpA, 160 SpD, 10 Spe
+- Typing: Grass/Rock
+- Weight: 2675
+- Ability: Stamina
+
+**PULSE Muk**
+- Base Stats: 105 HP, 105 Atk, 70 Def, 97 SpA, 250 SpD, 40 Spe
+- Weight: 1023
+- Ability: Protean
+
+**PULSE Camerupt**
+- Base Stats: 1 HP, 10 Atk, 10 Def, 170 SpA, 10 SpD, 10 Spe
+- Typing: Fire/Ghost
+- Weight: 2707
+- Ability: Sturdy
+
+**PULSE Garbodor**
+- Base Stats: 80 HP, 135 Atk, 107 Def, 60 SpA, 107 SpD, 85 Spe
+- Height: 6033
+- Weight: 2366
+- Ability: Gooey
+
+**PULSE Abra**
+- Base Stats: 25 HP, 20 Atk, 115 Def, 195 SpA, 155 SpD, 140 Spe
+- Typing: Psychic/Steel
+- Weight: 862
+- Ability: Stamina
+
+**PULSE Avalugg**
+- Base Stats: 105 HP, 160 Atk, 255 Def, 97 SpA, 255 SpD, 10 Spe
+- Weight: 8780
+- Ability: Solid Rock
+
+**PULSE Swalot**
+- Base Stats: 100 HP, 73 Atk, 210 Def, 110 SpA, 210 SpD, 40 Spe
+- Typing: Poison/Water
+- Weight: 4621
+- Ability: Water Absorb
+
+**PULSE Magnezone**
+- Base Stats: 70 HP, 70 Atk, 160 Def, 230 SpA, 140 SpD, 70 Spe
+- Weight: 1673
+- Ability: Levitate
+
+**PULSE Hypno**
+- Base Stats: 120 HP, 65 Atk, 190 Def, 125 SpA, 225 SpD, 80 Spe
+- Typing: Psychic/Dark
+- Weight: 208
+- Ability: No Guard
+
+**PULSE Clawitzer**
+- Base Stats: 252 HP, 1 Atk, 60 Def, 120 SpA, 70 SpD, 252 Spe
+- Typing: Water/Dragon
+- Weight: 573
+- Ability: Contrary
+
+**PULSE Mr. Mime**
+- Base Stats: 252 HP, 1 Atk, 190 Def, 1 SpA, 190 SpD, 252 Spe
+- Typing: Dark/Ghost
+- Weight: 483
+- Ability: Wonder Guard
+
+**PULSE Arceus**
+- Base Stats: 255 HP, 125 Atk, 155 Def, 125 SpA, 155 SpD, 160 Spe
+- Weight: 9084
+
+### Other Form Lookup
+
+**Purple Kecleon**
+- Base Stats: 130 HP, 120 Atk, 90 Def, 60 SpA, 130 SpD, 95 Spe
+
+**CL:4R1-C3 Breloom**
+- Base Stats: 210 HP, 160 Atk, 140 Def, 60 SpA, 100 SpD, 100 Spe
+- Typing: Steel/Fighting
+- Weight: 5328
+
+**Crystal Aegislash**
+- Base Stats: 200 HP, 150 Atk, 150 Def, 150 SpA, 150 SpD, 70 Spe
+- EV Yield: 2 Atk, 2 SpD
+- Typing: Steel/Fairy
+- Ability: Friend Guard
+
+### Dev Fight Form Lookup
+
+**Mismageon (Glaceon)**
+- Base Stats: 65 HP, 60 Atk, 110 Def, 130 SpA, 105 SpD, 105 Spe
+- Typing: Ice/Ghost
+
+**Meech (Cinccino)**
+- Base Stats: 75 HP, 125 Atk, 110 Def, 40 SpA, 80 SpD, 135 Spe
+- Typing: Normal/Fairy
+- Ability: Skill Link
+
+**Dev Lilligant**
+- Ability: Simple
+
+**Dev Dedenne**
+- Ability: Simple
+
+**Dev Smeargle**
+- Ability: Prankster
+
+**Dev Marshadow**
+- Ability: Simple
+
+**Dev Silvally**
+- Typing: Steel
+- Ability: Intimidate
 
 ## Wild Held Items
 
