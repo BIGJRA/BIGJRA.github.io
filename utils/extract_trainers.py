@@ -48,41 +48,46 @@ def get_ability_from_id(id, pokemon_name):
 
 
 def create_trainertype_lookup():
-    with open(rf"utils\reborn_pbs\trainertypes.txt") as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'trainertypes.txt')
+    with open(filename) as f:
         data = f.read()
     d = {}
     for line in data.splitlines()[1:]:
         parts = line.split(',')
-        d[parts[1]] = parts[2]
+        d[parts[1].strip()] = parts[2].strip()
     return d
 
 def create_item_lookup():
-    with open(rf"utils\reborn_pbs\items.txt") as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'items.txt')
+    with open(filename) as f:
         data = f.read()
     d = {}
     for line in data.splitlines()[1:]:
         parts = line.split(',')
-        d[parts[1]] = parts[2]
+        d[parts[1].strip()] = parts[2].strip()
     return d
 
 def create_move_lookup():
-    with open(rf"utils\reborn_pbs\moves.txt") as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'moves.txt')
+    with open(filename) as f:
         data = f.read()
     d = {}
     for line in data.splitlines():
         parts = line.split(',')
-        d[parts[1]] = parts[2]
+        d[parts[1].strip()] = parts[2].strip()
     return d
 
 def create_ability_lookup():
-    with open(rf"utils\reborn_pbs\abilities.txt", encoding='utf8') as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'abilities.txt')
+    with open(filename) as f:
         ability_data = f.read()
     ability_dict = {}
     for line in ability_data.splitlines():
         parts = line.split(',')
         ability_dict[parts[1]] = parts[2]
 
-    with open(rf"utils\reborn_pbs\pokemon.txt", encoding='utf8') as f:
+    filename2 = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'pokemon.txt')
+    with open(filename2, encoding='utf8') as f:
         data = f.read()
     d = {}
     split = re.split(r'\[\d+\]\n', data)
@@ -100,7 +105,8 @@ def create_ability_lookup():
     return d
 
 def read_me(game_name='reborn', file="trainers"):
-    with open(rf"utils\{game_name}_pbs\{file}.txt", encoding='utf8') as f:
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'trainers.txt')
+    with open(filename) as f:
         data = f.read()
     return data
 
@@ -275,11 +281,12 @@ item_lookup = create_item_lookup()
 ability_lookup = create_ability_lookup()
 data = []
 blocks = split_text_into_blocks(text)
+print (f"Total blocks found: {len(blocks)}. Processing...")
 count = 0
 for block in blocks:
     count +=  1
     data.append((get_data_from_block(block)))
-    if count % 100 == 0:
-        print (count)
+    if count < 5 or count % 25 == 0:
+        print (f"Completed block: {count}...")
 write_me(json.dumps(data))
 print ("DONE")

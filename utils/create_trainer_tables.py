@@ -53,10 +53,15 @@ def generate_trainer(trainer):
             else:
                 strs.append(f"{c[item]}x {item}")
         return f" ({', '.join(strs)})"
-    lines.append(f'{trainer["trainer_class"]} {trainer["trainer_name"]}{get_item_string()}. Field: ')
+    lines.append(f'**{trainer["trainer_class"]} {trainer["trainer_name"]}{get_item_string()}. Field: **')
     
     def ev_print(evs_list):
-        return '/'.join([str(ev) for ev in evs_list])
+        # Here I assume EVs come in as HP/ATK/DEF/SPE/SPA/SPD but will
+        # Print them in the format HP/ATK/DEF/SPA/SPD/SPE
+        clone = list(evs_list)
+        speed = clone.pop(3)
+        clone.append(speed)
+        return '/'.join([str(ev) for ev in clone])
 
     for pokemon in trainer["pokemon"]:
         str_parts = []
@@ -64,10 +69,8 @@ def generate_trainer(trainer):
         if pokemon["name"] == pokemon["form"] or pokemon["form"] in odd_ones:
             str_parts.append(pokemon["name"])
         else:
-            text = f"{pokemon['name']} ({pokemon['form']})"
-            if text[-2:] == "()":
-                print (pokemon)
-            str_parts.append(f"{pokemon['name']} ({pokemon['form']})")
+            dash_index = pokemon['form'].index('-')
+            str_parts.append(f"{pokemon['name']}{pokemon['form'][dash_index:]}")
 
         str_parts.append(f"Lv. {pokemon['level']}")
         
@@ -81,7 +84,12 @@ def generate_trainer(trainer):
             str_parts.append(f"{pokemon['nature']} Nature")
 
         if pokemon['ivs']: 
-            str_parts.append(f"IVs: {pokemon['ivs']}")
+            # abusing python typing because i don't remember type, like a boss
+            if pokemon['ivs'] in (32, '32'):
+                str_parts.append(f"IVs: 31 (0 Speed)")
+            else:
+                str_parts.append(f"IVs: {pokemon['ivs']}")
+
 
         if pokemon['evs'] != [0,0,0,0,0,0]:
             str_parts.append(f"EVs: {ev_print(pokemon['evs'])}")

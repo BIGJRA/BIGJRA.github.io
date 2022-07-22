@@ -342,7 +342,7 @@ If you save in front of the starters (quicksave is, by default, 'D'), you can re
 
 Talk to Ame as soon as you're done, and you'll be taken downstairs and fight your first battle!
 
-Pretty Boy Cain. Field: No Field
+**Pretty Boy Cain. Field: No Field**
 - Nidoran M., Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
     - Tackle
     - Leer
@@ -354,7 +354,7 @@ Relationship Point Choices:
 
 Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
 
-Apprentice Victoria. Field: No Field
+**Apprentice Victoria. Field: No Field**
 - Litten, Lv. 5, Ability: Blaze, Bashful Nature, IVs: 10
     - Scratch
     - Growl
@@ -542,7 +542,7 @@ Up from here, when the weather is clear or sunny, as long as you are holding Ros
 
 Inside this house you'll find the guy who stole our Pokemon earlier, but you gotta pay another $500! Just kidding, you gotta fight both him and the initial salesman and you won't even get your Pokemon. We'll just have to continue this quest later.
 
-Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game, and if you want the (non-unique) rewards, you'll need to give it back. So, if you want the rewards but want to use it, consider breeding it once we get daycare access. Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
+Head down and enter the tall building to your right. Inside two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game, and if you want the non-unique rewards, you'll need to give it back. So, if you want the rewards but want to use the Jigglypuff line, consider breeding it once we get daycare access. Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
 
 North Peridot Alley
 
@@ -576,7 +576,7 @@ Now that we've completed this loop, head back to the bottom left corner of the a
 
 When you're ready, talk to the green haired guy for a battle.
 
-Swag Jockey Fern (Potion). Field: No Field
+**Swag Jockey Fern (Potion). Field: No Field**
 - Budew, Lv. 13, @Oran Berry, Ability: Poison Point, IVs: 10
     - Mega Drain
     - Natural Gift
@@ -665,7 +665,7 @@ Relationship Point Choices:
 
 Either way, head in to the room at the top when you're ready for a fight.
 
-Meteor Private Aster and Meteor Private Eclipse. Field: Factory Field
+**Meteor Private Aster & Meteor Private Eclipse. Field: Factory Field**
 - Rockruff, Lv. 16, Ability: Steadfast, IVs: 31
     - Thunder Fang
     - Howl
@@ -704,7 +704,7 @@ Cheer Captain Julia (2x Potion). Field: Electric Terrain.
     - Charge Beam
     - Encore
     - Quick Attack
-- Geodude (Geodude-Alola), Lv. 12, Ability: Galvanize, Adamant Nature, IVs: 20
+- Geodude-Alola, Lv. 12, Ability: Galvanize, Adamant Nature, IVs: 20
     - Self-Destruct
     - Tackle
     - Charge
@@ -719,7 +719,7 @@ Cheer Captain Julia (2x Potion). Field: Electric Terrain.
     - Charge Beam
     - Encore
     - Quick Attack
-- Oricorio (Oricorio-Pom-Pom), Lv. 14, Ability: Dancer, Quirky Nature, IVs: 10
+- Oricorio-Pom-Pom, Lv. 14, Ability: Dancer, Quirky Nature, IVs: 10
     - Work Up
     - Tailwind
     - Pound
@@ -885,7 +885,7 @@ To the left you'll find a Light Shard, which heals your party but disappears aft
 
 If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier.
 
-Apprentice Victoria (2x Potion). Field: No Field 
+**Apprentice Victoria (2x Potion). Field: No Field**
 - Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
     - Magical Leaf
     - Confusion
@@ -980,7 +980,7 @@ Talk to the box in front of the elevator to watch it scurry away. Enter the elev
 
 Enter the big door back on B1F and head up. Once you see this box move twice, head straight to the right to get a hidden *Oran Berry* in a box. In a trash can at the top of this room you can find a hidden *Poke Ball*. In the next room, it's time for a battle!
 
-Pokemon Gang. Field: No Field
+**Pokemon Gang. Field: No Field**
 - Scraggy, Lv. 15, Ability: Intimidate, IVs: 15
 - Scraggy, Lv. 16, Ability: Moxie, IVs: 10
 - Scraggy, Lv. 17, Ability: Shed Skin, IVs: 10
@@ -1021,8 +1021,8 @@ On the dock, if it is raining and you have Snax, you can obtain **Lotad**.
 
 Talk to the blue haired girl towards the top. 
 
-Pretty Boy Cain (2x Potion). Field: Misty Terrain
-- Grimer (Grimer-Alola), Lv. 17, Ability: Poison Touch, Serious Nature, IVs: 10
+**Pretty Boy Cain (2x Potion). Field: Misty Terrain**
+- Grimer-Alola, Lv. 17, Ability: Poison Touch, Serious Nature, IVs: 10
     - Gastro Acid
     - Curse
     - Taunt
@@ -1074,7 +1074,7 @@ To the left of the area, a **Minun** or a **Plusle** will pop out and join you i
 
 If this is a bit too hard for now feel free to skip this one, but if you enter the Underground Railnet from the Obsidia entrance you'll find Litleo and have to fight a strong Pokemon. 
 
-Pokemon Mechanightmare. Field: Cave Field
+**Pokemon Mechanightmare. Field: Cave Field**
 - Klinklang, Lv. 35, Ability: Clear Body, Modest Nature, IVs: 30
     - Discharge
     - Charge Beam
@@ -1108,8 +1108,8 @@ Cut two more wiggly trees. Before we head left, we can actually sneak up past a 
 
 Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
 
-Meteor Admin ZEL. Field: Forest Field
-- PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7.
+**Meteor Admin ZEL. Field: Forest Field**
+- PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7
     - Wrap
     - Vine Whip
     - Acid Spray
@@ -1141,8 +1141,8 @@ While we're nearby, enter the Pokemon center and talk to the mom inside. Tell he
 
 Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
 
-Posh Suzy. Field: No Field
-- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
+**Posh Suzy. Field: No Field**
+- Tsareena, Lv. 45, Ability: Queen Majesty, Adamant Nature, IVs: 31
     - Synthesis
     - Aromatherapy
     - Play Rough
@@ -1289,7 +1289,7 @@ Enter the door above and to the right and talk to the girl for a *Telluric Seed*
 
 Head to the left. Defeat these trainers then head into the room on the left. Time for another rival battle.
 
-Swag Jockey Fern (2x Super Potion). Field: No Field
+**Swag Jockey Fern (2x Super Potion). Field: No Field**
 - Sandile, Lv. 23, Ability: Moxie, Bashful Nature, IVs: 20
     - Mud-Slap
     - Bite
@@ -1394,7 +1394,7 @@ With all that out of the way we can head back to the gym. In order to battle Flo
 
 Head to the left and enter the gym room for a battle.
 
-Head Instructor Florinia (2x Super Potion). Field: Desert Field
+**Head Instructor Florinia (2x Super Potion). Field: Desert Field**
 - Maractus, Lv. 22, Ability: Water Absorb, Quirky Nature, IVs: 1
     - Nature Power
     - Pin Missile
@@ -1527,7 +1527,7 @@ Head back down, defeat the grunts, then go down from here. You'll find a hidden 
 
 Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
 
-Meteor Admin Taka (Super Potion). Field: Rocky Field
+**Meteor Admin Taka (Super Potion). Field: Rocky Field**
 - Exeggcute, Lv. 22, Ability: Harvest, IVs: 10
     - Poison Powder
     - Leech Seed
@@ -1747,11 +1747,13 @@ Back outside, chop the tree to your left and enter the felled building. Beat the
 Relationship Point Choices:
 - Talk to Amaria in the jungle (+1 Amaria)
 
-Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area, so prepare your team as necessary. 
+Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area. 
 
 **In order to access the exclusive postgame route, you need to save all five officers by this point.**
 
-Meteor Manager Ace of Clubs (Super Potion). Field: Forest Field
+Prepare your team as necessary, and head up.
+
+**Meteor Manager Ace of Clubs (Super Potion). Field: Forest Field**
 - Zorua, Lv. 25, @Telluric Seed, Ability: Illusion, Serious Nature, IVs: 20
     - Pursuit
     - Grass Knot
@@ -1844,7 +1846,7 @@ If you want to access Corey's bedroom, you can turn all the pillars red.
 
 Head up and into the battle room.
 
-Agent Corey (2x Super Potion). Field: Corrosive Field
+**Agent Corey (2x Super Potion). Field: Corrosive Field**
 - Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 10
     - Acid
     - Toxic Spikes
@@ -1890,7 +1892,7 @@ Turn all of the pillars blue. Each one will also change its neighbors, so keep t
 
 Talk to the agent in his room, then head up into the arena once you're ready.
 
-Agent Borealis (Super Potion). Field: Corrosive Mist Field atop Corrosive Field
+**Agent Borealis (Super Potion). Field: Corrosive Mist Field atop Corrosive Field**
 - Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 5
     - Acid
     - Bubble
@@ -2156,13 +2158,13 @@ Grand Stairway B3F Main
 
 Talk to the guy in the center here, then head to the left and talk to the two here for a battle.
 
-Meteor Private Aster and Meteor Private Eclipse (2x Super Potion). Field: Crystal Cavern Field
+**Meteor Private Aster and Meteor Private Eclipse (2x Super Potion). Field: Crystal Cavern Field**
 - Lunatone, Lv. 30, IVs: 10
     - Rock Polish
     - Psywave
     - Hypnosis
     - Rock Slide
-- Lycanroc (Lycanroc-Midday), Lv. 32, Ability: Sand Rush, Jolly Nature, IVs: 20
+- Lycanroc-Midday, Lv. 32, Ability: Sand Rush, Jolly Nature, IVs: 20
     - Fire Fang
     - Accelerock
     - Bite
@@ -2172,7 +2174,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Super Potion). Field: Crysta
     - Psywave
     - Fire Spin
     - Rock Slide
-- Lycanroc (Lycanroc-Midnight), Lv. 32, Ability: No Guard, Adamant Nature, IVs: 20
+- Lycanroc-Midnight, Lv. 32, Ability: No Guard, Adamant Nature, IVs: 20
     - Thunder Fang
     - Rock Tomb
     - Bite
@@ -2187,7 +2189,7 @@ Back in North Obsidia Ward, Victoria will request that you battle her.
 Relationship Point Choices:
 - Say No to Victoria's battle request (-1 Victoria)
 
-Apprentice Victoria (2x Super Potion). Field: No Field
+**Apprentice Victoria (2x Super Potion). Field: No Field**
 - Pancham, Lv. 30, Ability: Scrappy, Adamant Nature, IVs: 10
     - Arm Thrust
     - Work Up
@@ -2213,7 +2215,7 @@ Since last time, Victoria has evolved some of her team, but she shouldn't be too
 
 This is technically part of another gauntlet: time for another battle right after, though you do get healed.
 
-Swag Jockey Fern (2x Super Potion). Field: No Field
+**Swag Jockey Fern (2x Super Potion). Field: No Field**
 - Rhyhorn, Lv. 30, Ability: Reckless, Brave Nature, IVs: 20
     - Bulldoze
     - Rock Blast
@@ -2398,18 +2400,18 @@ After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug
 
 Head outside the gym after watching the scene in Shelly's room. After you head outside, you have another rival battle.
 
-Pretty Boy Cain (2x Super Potion). Field: No Field 
+**Pretty Boy Cain (2x Super Potion). Field: No Field**
 - Brionne, Lv. 32, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 15
     - Icy Wind
     - Disarming Voice
     - Bubble Beam
     - Sing
-- Marowak (Marowak-Alola), Lv. 33, Ability: Lightning Rod, Adamant Nature, IVs: 15
+- Marowak-Alola, Lv. 33, Ability: Lightning Rod, Adamant Nature, IVs: 15
     - Flame Wheel
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Grimer (Grimer-Alola), Lv. 35, Ability: Poison Touch, Brave Nature, IVs: 15
+- Grimer-Alola, Lv. 35, Ability: Poison Touch, Brave Nature, IVs: 15
     - Poison Fang
     - Minimize
     - Disable
@@ -2476,7 +2478,7 @@ Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will
 
 Back in the left hallway, use the *Archive Key* to grab an *Exp. Candy L* and read some more books about the orphanage's characters. With that, head all the way up to the top of the orphanage to bust out.
 
-Dr. Sigmund Connal. Field: No Field
+**Dr. Sigmund Connal. Field: No Field**
 - Electivire, Lv. 38, Ability: Motor Drive, Jolly Nature, IVs: 31
     - Volt Switch
     - Thunder Wave
@@ -2497,7 +2499,7 @@ Dr. Sigmund Connal. Field: No Field
     - Ominous Wind
     - Thunder Wave
     - Confuse Ray
-- Raichu (Raichu-Alola), Lv. 36, Ability: Surge Surfer, Modest Nature, IVs: 15
+- Raichu-Alola, Lv. 36, Ability: Surge Surfer, Modest Nature, IVs: 15
     - Volt Switch
     - Psychic
     - Nuzzle
@@ -2532,7 +2534,7 @@ If you joined Aqua last chapter, skip ahead to the next section.
 
 Return to Maxwell in North Obsidia, then head over to the Aqua Gang's hideout in Lapis. Defeat the guards at the entrance. Grab *TM41 Torment* while you're here and prepare for a battle.
 
-Aqua Mastermind Archer (2x Berry Ice Cream). Field: No Field
+**Aqua Mastermind Archer (2x Berry Ice Cream). Field: No Field**
 - Pelipper, Lv. 41, Ability: Drizzle, Modest Nature, IVs: 20
     - Roost
     - Tailwind
@@ -2567,7 +2569,7 @@ If you joined Magma last chapter, skip ahead to the next section.
 
 Return to Archer in Lapis, then head over to the Magma Gang's hideout in North Obsidia. Defeat the guards at the entrance. Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare for a battle.
 
-Magma Kingpin Maxwell (2x Berry Ice Cream). Field: No Field
+**Magma Kingpin Maxwell (2x Berry Ice Cream). Field: No Field**
 - Ninetales, Lv. 41, Ability: Drought, Modest Nature, IVs: 20
     - Will-O-Wisp
     - Payback
@@ -2784,7 +2786,7 @@ Well, we're back in the Rhodochrine Jungle, in a new area this time. You can fin
 
 On windy days, you can have a battle!
 
-Pokemon Tribe. Field: Forest Field
+**Pokemon Tribe. Field: Forest Field**
 - Nuzleaf, Lv. 20, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
@@ -2822,7 +2824,7 @@ This time, go up. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Prote
 
 Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
 
-Pokemon Savage. Field: Icy Field
+**Pokemon Savage. Field: Icy Field**
 - Beartic, Lv. 65, Serious Nature, IVs: 10
   - Blizzard
   - Flail
@@ -2851,7 +2853,7 @@ Yureyu Power Plant (Main Areas)
 
 Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle.
 
-Entity Shade (2x Hyper Potion). Field: Short-Circuit Field
+**Entity Shade (2x Hyper Potion). Field: Short-Circuit Field**
 - Gengar, Lv. 35, @Wide Lens, Ability: Cursed Body, Bashful Nature, IVs: 31
     - Hypnosis
     - Dream Eater
@@ -2932,7 +2934,7 @@ Head back upstairs and take the stairs on the right to 1F. Beat the grunts and a
 
 Towards the bottom of the area you'll find more stairs, so take these to go up to 2F. Go to the right here and you'll find a machine with some green lights on it. Inside, you can get *Exp. Candy L*. You can also find a *Thunderstone* and a hidden *Revive*. Activate the panel at the top and go back down. To the left, you'll see an open door. Get ready for battle.
 
-Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field
+**Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field**
 - Glaceon, Lv. 37, @Never-Melt Ice, Ability: Ice Body, Hardy Nature, IVs: 31
     - Ice Shard
     - Icy Wind
@@ -3103,7 +3105,7 @@ Head into the back room of the academy and talk to Kiki again. She will tell us 
 
 To fight Victoria, head into the courtyard of the academy.
 
-Apprentice Victoria (2x Choc Ice Cream). Field: Ashen Beach
+**Apprentice Victoria (2x Choc Ice Cream). Field: Ashen Beach**
 - Pangoro, Lv. 38, @Shell Bell, Ability: Iron Fist, Adamant Nature, IVs: 30
     - Bullet Punch
     - Payback
@@ -3114,7 +3116,7 @@ Apprentice Victoria (2x Choc Ice Cream). Field: Ashen Beach
     - Fake Out
     - Meditate
     - Rock Tomb
-- Raichu (Raichu-Alola), Lv. 39, Ability: Surge Surfer, IVs: 30
+- Raichu-Alola, Lv. 39, Ability: Surge Surfer, IVs: 30
     - Hidden Power
     - Nasty Plot
     - Psychic
@@ -3168,7 +3170,7 @@ Head back to 1F, where the lava will now be drained as well. Follow the path up 
 
 Make your way back to 3F, then go across the empty pool. On 4F you can find a hidden *X Defend* before exiting to the peak. The peak hides a *Exp. Candy L*.
 
-Igneous Cal (2x Hyper Potion). Field: Super-Heated Field
+**Igneous Cal (2x Hyper Potion). Field: Super-Heated Field**
 - Barbaracle, Lv. 38, Ability: Tough Claws, Brave Nature, IVs: 20
     - Stealth Rock
     - Slash
@@ -3214,7 +3216,7 @@ Relationship Point Choices:
 
 To finish off this section, we have to battle Kiki in the main courtyard. Prepare your team because this is a toughie. Make sure to save before, just in case.
 
-Sensei Kiki (2x Hyper Potion). Field: Ashen Beach
+**Sensei Kiki (2x Hyper Potion). Field: Ashen Beach**
 - Machamp, Lv. 40, @Leftovers, Ability: No Guard, Adamant Nature, IVs: 20
     - Strength
     - Meditate
@@ -3295,7 +3297,7 @@ Head down the ledge on the east island. You can find a hidden *Swift Wing* here 
 
 You can head down as soon as you touch land to get a *Miracle Seed*. Back on land, you'll find a hidden *Great Ball* and *Guard Spec.* Use the Light Shard and head left. Before continuing left to the next island, you can go down via the ivy to find one hidden *Dusk Ball* and one non-hidden *Dusk Ball*. Head up and left when you're ready.
 
-Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp Field
+**Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp Field**
 - Solrock, Lv. 38, Bashful Nature, IVs: 20
     - Cosmic Power
     - Psywave
@@ -3306,7 +3308,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp 
     - Double-Edge
     - Bulk Up
     - Bulldoze
-- Lycanroc (Lycanroc-Midnight), Lv. 41, Ability: No Guard, Adamant Nature, IVs: 31
+- Lycanroc-Midnight, Lv. 41, Ability: No Guard, Adamant Nature, IVs: 31
     - Thunder Fang
     - Rock Slide
     - Crunch
@@ -3321,7 +3323,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp 
     - Instruct
     - Reflect
     - Nature Power
-- Lycanroc (Lycanroc-Midday), Lv. 41, Ability: Sand Rush, Jolly Nature, IVs: 31
+- Lycanroc-Midday, Lv. 41, Ability: Sand Rush, Jolly Nature, IVs: 31
     - Fire Fang
     - Accelerock
     - Rock Slide
@@ -3333,13 +3335,13 @@ Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Esc
 
 Pick up the *PULSE Readout 6* and talk to the machine in the top to reveal a secret passageway. Heal or switch up your team and go up.
 
-Meteor Admin Taka (2x Hyper Potion). Field: Factory Field
+**Meteor Admin Taka (2x Hyper Potion). Field: Factory Field**
 - Klefki, Lv. 40, Ability: Prankster, Bold Nature, IVs: 13
     - Spikes
     - Mirror Shot
     - Draining Kiss
     - Foul Play
-- Exeggutor (Exeggutor-Alola), Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
+- Exeggutor-Alola, Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
     - Dragon Hammer
     - Wood Hammer
     - Hypnosis
@@ -3374,7 +3376,7 @@ Once you reach the peak, it's time for that battle I was talking about.
 
 **In order to access the exclusive postgame route, you need to win this battle.**
 
-Meteor Leader Solaris (2x Full Heal). Field: Super-Heated Field
+**Meteor Leader Solaris (2x Full Heal). Field: Super-Heated Field**
 - Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
     - Dragon Rush
     - Earthquake
@@ -3419,7 +3421,7 @@ Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyp
 
 In the bottom right section, use the Light Shard and talk to Ace for a battle.
 
-Meteor Agent Ace of Diamonds (Hyper Potion). Field: Wasteland Field
+**Meteor Agent Ace of Diamonds (Hyper Potion). Field: Wasteland Field**
 - Zoroark, Lv. 40, Ability: Illusion, Jolly Nature, IVs: 31
     - Swagger
     - U-turn
@@ -3459,7 +3461,7 @@ In the top right corner of the area, you can find hidden *Ground Gem*, *Purple S
 
 Talk to Cain if you'd like then enter the building. Heal and prepare your team, save, then enter the room on the left.
 
-Swag Jockey Fern (2x Choc Ice Cream). Field: Wasteland Field
+**Swag Jockey Fern (2x Choc Ice Cream). Field: Wasteland Field**
 - Rhydon, Lv. 43, Ability: Reckless, Brave Nature, IVs: 10
     - Stone Edge
     - Drill Run
@@ -3537,7 +3539,7 @@ Interact with both canisters to make the bookshelf in the back get moved over. I
 
 Inside the room to the left, you can use an Odd Keystone if you've found one via mining to get **Spiritomb**. The second room contains *TM66 Payback*. Prepare yourself and enter the third room.
 
-Pokemon Horde. Field: Wasteland Field
+**Pokemon Horde. Field: Wasteland Field**
 - Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
     - Toxic Spikes
     - Sludge Bomb
@@ -3548,7 +3550,7 @@ Pokemon Horde. Field: Wasteland Field
     - Sludge Bomb
     - Self-Destruct
     - Acid Spray
-- Mr. Bigglesworth (PULSE Garbodor), Lv. 65, @Black Sludge, Ability: Gooey, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0.
+- Mr. Bigglesworth (PULSE Garbodor), Lv. 65, @Black Sludge, Ability: Stench, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Gunk Shot
     - Pain Split
     - Stockpile
@@ -3566,7 +3568,7 @@ Once you appear outside, go down the slide here and grab a hidden *Moon Stone*. 
 
 Enter the gym room, save, and talk to Aya.
 
-Wasteland Punk Aya (2x Hyper Potion). Field: Wasteland Field
+**Wasteland Punk Aya (2x Hyper Potion). Field: Wasteland Field**
 - Nidoqueen, Lv. 41, @Black Sludge, Ability: Poison Point, Bashful Nature, IVs: 31
     - Sludge Wave
     - Stealth Rock
@@ -3614,23 +3616,23 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
 Relationship Point Choices:
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
-Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field
+**Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field**
 - Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
     - Thrash
     - Throat Chop
     - Poison Tail
     - Shadow Ball
-- Marowak (Marowak-Alola), Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 10
+- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 10
     - Flame Wheel
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Meowstic (Meowstic-Female), Lv. 44, Ability: Competitive, Timid Nature, IVs: 10
+- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 10
     - Charge Beam
     - Psychic
     - Shadow Ball
     - Light Screen
-- Muk (Muk-Alola), Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 10
+- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 10
     - Gunk Shot
     - Minimize
     - Power-Up Punch
@@ -3690,7 +3692,7 @@ Relationship Point Choices:
 
 Next, we're gonna return to Byxbysion Wasteland. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave. 
 
-Spectral Kiki. Field: Wasteland Field
+**Spectral Kiki. Field: Wasteland Field**
 - Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
     - Meditate
     - Thunder Punch
@@ -3735,7 +3737,7 @@ Relationship Point Choices:
 
 If you said no to Sigmund, skip ahead to the next section.
 
-Dr. Sigmund Connal (2x Hyper Potion). Field: Factory Field
+**Dr. Sigmund Connal (2x Hyper Potion). Field: Factory Field**
 - Musharna, Lv. 45, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
     - Psychic Terrain
     - Moonlight
@@ -3746,7 +3748,7 @@ Dr. Sigmund Connal (2x Hyper Potion). Field: Factory Field
     - Dragon Pulse
     - Nature Power
     - Hyper Voice
-- Raichu (Raichu-Alola), Lv. 46, Ability: Surge Surfer, Modest Nature, IVs: 25
+- Raichu-Alola, Lv. 46, Ability: Surge Surfer, Modest Nature, IVs: 25
     - Volt Switch
     - Psychic
     - Nasty Plot
@@ -3773,7 +3775,7 @@ Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will u
 
 If you said yes to Sigmund, skip ahead to the next section.
 
-Meteor Admin Sirius (2x Hyper Potion). Field: No Field
+**Meteor Admin Sirius (2x Hyper Potion). Field: No Field**
 - Minior, Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
     - Shell Smash
     - Charge Beam
@@ -4073,7 +4075,7 @@ Relationship Point Choices:
 
 Save before you enter the third room.
 
-Lepidopterist Bennett (2x Berry Ice Cream). Field: Mirror Arena
+**Lepidopterist Bennett (2x Berry Ice Cream). Field: Mirror Arena**
 - Larvesta, Lv. 47, @Wide Lens, Ability: Flame Body, Adamant Nature, IVs: 31
     - Flame Charge
     - Bug Bite
@@ -4113,13 +4115,13 @@ Relationship Point Choices:
 
 Break the last mirror and head into the gym arena when you're ready.
 
-Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena
+**Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena**
 - Glaceon, Lv. 48, @Light Clay, Ability: Snow Cloak, Calm Nature, IVs: 31
     - Wish
     - Ice Beam
     - Signal Beam
     - Aurora Veil
-- Ninetales (Ninetales-Alola), Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 31
+- Ninetales-Alola, Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 31
     - Nasty Plot
     - Dazzling Gleam
     - Aurora Beam
@@ -4129,7 +4131,7 @@ Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena
     - Surf
     - Signal Beam
     - Ice Beam
-- Sandslash (Sandslash-Alola), Lv. 47, @Wide Lens, Ability: Slush Rush, Adamant Nature, IVs: 25
+- Sandslash-Alola, Lv. 47, @Wide Lens, Ability: Slush Rush, Adamant Nature, IVs: 25
     - Iron Head
     - Icicle Crash
     - Brick Break
@@ -4139,7 +4141,7 @@ Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena
     - Focus Blast
     - Psyshock
     - Ice Beam
-- Froslass, Lv. 50, @Bright Powder, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Froslass, Lv. 50, @Bright Powder, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Ice Beam
     - Double Team
     - Pain Split
@@ -4244,7 +4246,7 @@ If you didn't fight Sigmund at Yureyu and instead fought Sirius, skip ahead to t
 
 Anyways, you'll have to first fight two orderlies. Afterwards, you'll be healed but thrust into another battle.
 
-Meteor Admin Sirius (3x Hyper Potion). Field: No Field
+**Meteor Admin Sirius (3x Hyper Potion). Field: No Field**
 - Minior, Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
     - Shell Smash
     - Dazzling Gleam
@@ -4294,7 +4296,7 @@ If you fought Sigmund at Yureyu, skip ahead to the next section.
 
 Anyways, it's time for another battle with the doc.
 
-Dr. Sigmund Connal (2x Hyper Potion). Field: No Field
+**Dr. Sigmund Connal (2x Hyper Potion). Field: No Field**
 - Musharna, Lv. 48, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
     - Psychic Terrain
     - Moonlight
@@ -4305,7 +4307,7 @@ Dr. Sigmund Connal (2x Hyper Potion). Field: No Field
     - Dragon Pulse
     - Nature Power
     - Hyper Voice
-- Raichu (Raichu-Alola), Lv. 49, Ability: Surge Surfer, Modest Nature, IVs: 25
+- Raichu-Alola, Lv. 49, Ability: Surge Surfer, Modest Nature, IVs: 25
     - Volt Switch
     - Psychic
     - Nasty Plot
@@ -4381,8 +4383,8 @@ Relationship Point Choices:
 
 Go out and head up. You'll see some dialogue. Head down from here, you'll see a new path open up. Continue this process until you have to participate in a battle!
 
-Pokemon Gargantuan. Field: Rocky Field
-- Steelix (Steelix-Mega), Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/0/252
+**Pokemon Gargantuan. Field: Rocky Field**
+- Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
     - Earthquake
     - Stone Edge
     - Crunch
@@ -4410,7 +4412,7 @@ Tanzan Depths (Main Areas)
 
 Once you emerge, make your way back into the base and head to the back room. Once you do it will be time for another fight! 
 
-Meteor Admin ZEL. Field: Factory Field
+**Meteor Admin ZEL. Field: Factory Field**
 - PULSE Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31.
     - Hyper Beam
     - Dark Pulse
@@ -4423,7 +4425,7 @@ Head all the way back to Tanzan Cove and talk to Anna inside. It's time for anot
 
 ## Standard Badge
 
-Prodigy Noel (3x Hyper Potion). Field: Grassy Terrain
+**Prodigy Noel (3x Hyper Potion). Field: Grassy Terrain**
 - Cinccino, Lv. 54, @King's Rock, Ability: Skill Link, Adamant Nature, IVs: 31
     - Tail Slap
     - U-turn
@@ -4449,7 +4451,7 @@ Prodigy Noel (3x Hyper Potion). Field: Grassy Terrain
     - Brave Bird
     - Steel Wing
     - Facade
-- Clefable, Lv. 55, @Elemental Seed, Ability: Magic Guard, Calm Nature, IVs: 31, EVs: 252/0/204/0/52/0
+- Clefable, Lv. 55, @Elemental Seed, Ability: Magic Guard, Calm Nature, IVs: 31, EVs: 252/0/204/52/0/0
     - Moonblast
     - Calm Mind
     - Soft-Boiled
@@ -4543,7 +4545,7 @@ To this day I don't really understand "Rare" vs. "Common" headbutt trees... but 
 
 You'll find hidden *Purple Shard* and *Green Shard* here, but we can't go left or right in this area quite yet. Instead, head up and enter Route 1 proper... but prepare yourself.
 
-Swag Jockey Fern (2x Berry Ice Cream). Field: Grassy Terrain
+**Swag Jockey Fern (2x Berry Ice Cream). Field: Grassy Terrain**
 - Haxorus, Lv. 52, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 31
     - Taunt
     - Dragon Claw
@@ -4564,18 +4566,18 @@ Swag Jockey Fern (2x Berry Ice Cream). Field: Grassy Terrain
     - Double Team
     - Wing Attack
     - Swords Dance
-- Roserade, Lv. 54, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Roserade, Lv. 54, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Sleep Powder
     - Giga Drain
     - Extrasensory
     - Hidden Power
-- Decidueye, Lv. 54, @Elemental Seed, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+- Decidueye, Lv. 54, @Elemental Seed, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Swords Dance
     - Leaf Blade
     - Spirit Shackle
     - Shadow Sneak
 
-Oh boy, if Fern was ever a tough fight wait until he has the power of a beneficial field behind him. His Roserade and Decidueye are as always a tough combo: Roserade will put you to sleep, Decidueye will try to sweep, and both will sit back, passively heal, and enjoy the field boosts. His Rhydon is annoyingly tanky thanks to its Eviolite and has wide coverage but doesn't hit too hard, but his Haxorus and Krookodile (and Scyther, I guess) will try to sweep you with attack / speed boosts. 
+Oh boy, if Fern was ever a tough fight, wait until he has the power of a beneficial field behind him. His Roserade and Decidueye are as always a tough combo: Roserade will put you to sleep, Decidueye will try to sweep, and both will sit back, passively heal, and enjoy the field boosts. His Rhydon is annoyingly tanky thanks to its Eviolite and has wide coverage but doesn't hit too hard. His Haxorus and Krookodile (and Scyther, I guess) will try to sweep you with attack / speed boosts. 
 
 A good sweeper can find some success if they resist Haxorus or Rhydon's attacks, but you'll have to watch out for Shadow Sneak. You can also mutate the field to Burning if you want, obviously neutering his Grass types instead of helping them. I'd make the case that Noel is overall a harder fight than Fern in general so by making it here you should be able to succeed.
 
@@ -4669,8 +4671,8 @@ Relationship Point Choices:
 
 Anyways, talk to Luna.
 
-Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field
-- Muk (Muk-Alola), Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15. (Pawn)
+**Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field**
+- Muk-Alola, Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15 (Pawn)
     - Gunk Shot
     - Minimize
     - Knock Off
@@ -4680,12 +4682,12 @@ Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field
     - Play Rough
     - Swords Dance
     - Shadow Sneak
-- Meowstic (Meowstic-Female), Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
+- Meowstic-Female, Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
     - Charge Beam
     - Psychic
     - Shadow Ball
     - Light Screen
-- Marowak (Marowak-Alola), Lv. 54, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 15 (Rook)
+- Marowak-Alola, Lv. 54, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 15 (Rook)
     - Flare Blitz
     - Stomp Tantrum
     - Shadow Bone
@@ -4695,7 +4697,7 @@ Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field
     - Sparkling Aria
     - Blizzard
     - Reflect
-- Nidoking, Lv. 55, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0 (Queen)
+- Nidoking, Lv. 55, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252 (Queen)
     - Earthquake
     - Throat Chop
     - Poison Jab
@@ -4710,7 +4712,7 @@ Anyways, once you win, we can talk to Luna.
 Relationship Point Choices:
 - Talk to Luna after G.Gardevoir is captured (+1 Luna)
 
- head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly. 
+Head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly. 
 
 ## Citae Astrae
 
@@ -4765,7 +4767,7 @@ Once you're ready, talk to El at the top. You will have to choice between siding
 
 **In order to access the exclusive postgame route, you need to side with Radomus and win.**
 
-Parson El (2x Full Heal). Field: Crystal Cavern Field
+**Parson El (2x Full Heal). Field: Crystal Cavern Field**
 - Arceus, Lv. 75, @Leftovers, Ability: Multitype, Quiet Nature
     - Recover
     - Judgment
@@ -4940,7 +4942,7 @@ Enter room 4. This is a harder one but you can use the trick from the last room 
 
 Head up and into the next room when you are ready for your gym battle.
 
-Grandmaster Radomus (2x Ultra Potion). Field: Chess Arena
+**Grandmaster Radomus (2x Ultra Potion). Field: Chess Arena**
 - Reuniclus, Lv. 57, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: IVs: 31 (0 Speed) (Pawn)
     - Trick Room
     - Psychic
@@ -4966,7 +4968,7 @@ Grandmaster Radomus (2x Ultra Potion). Field: Chess Arena
     - Meteor Mash
     - Ice Punch
     - Strength
-- Gardevoir, Lv. 60, @Sitrus Berry, Ability: Trace, Sassy Nature, IVs: IVs: 31 (0 Speed), EVs: 252/0/0/0/252/5. (Queen)
+- Gardevoir, Lv. 60, @Sitrus Berry, Ability: Trace, Sassy Nature, IVs: IVs: 31 (0 Speed), EVs: 252/0/0/252/5/0. (Queen)
     - Calm Mind
     - Wish
     - Psychic
@@ -5130,7 +5132,7 @@ In the next room, you'll need to defeat grunts around the room and interact with
 
 Once the door is opened towards the middle, prepare for a battle and head up.
 
-Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field
+**Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field**
 - Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
     - Psychic
     - Dazzling Gleam
@@ -5185,23 +5187,23 @@ Back in seventh, the house in the bottom left corner will now be unlocked. If yo
 
 Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off, and your gang leader telling you to meet at her house in Lapis, so do so.
 
-Harridan Craudburry. Field: No Field
-- Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/252/0/0
+**Harridan Craudburry. Field: No Field**
+- Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Leaf Blade
     - Strength Sap
     - Sludge Bomb
     - Sleep Powder
-- Qwilfish, Lv. 60, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/252/0/0
+- Qwilfish, Lv. 60, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
     - Explosion
     - Waterfall
     - Destiny Bond
     - Throat Chop
-- Amoonguss, Lv. 61, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Amoonguss, Lv. 61, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Spore
     - Giga Drain
     - Sludge Bomb
     - Synthesis
-- Crabominable, Lv. 62, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/20/0/0
+- Crabominable, Lv. 62, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/0/0/20
     - Ice Hammer
     - Close Combat
     - Earthquake
@@ -5220,7 +5222,7 @@ As usual, if you are in the Aqua Gang, skip ahead to the next section.
 
 Head outside, and talk to Maxwell. He will give us *TM11 Sunny Day*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Archer who you can battle!
 
-Aqua Mastermind Archer. Field: No Field
+**Aqua Mastermind Archer. Field: No Field**
 - Pelipper, Lv. 58, Ability: Drizzle, Modest Nature, IVs: 20
     - Hydro Pump
     - Hurricane
@@ -5241,7 +5243,7 @@ Aqua Mastermind Archer. Field: No Field
     - Hydro Cannon
     - Ice Beam
     - Yawn
-- Sharpedo, Lv. 62, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Sharpedo, Lv. 62, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Aqua Jet
     - Crunch
     - Earthquake
@@ -5259,7 +5261,7 @@ As usual, if you are in the Magma Gang, skip ahead to the next section.
 
 Head outside, and talk to Archer. He will give us *TM18 Rain Dance*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Maxwell who you can battle!
 
-Magma Kingpin Maxwell. Field: No Field
+**Magma Kingpin Maxwell. Field: No Field**
 - Ninetales, Lv. 58, @Wise Glasses, Ability: Drought, Modest Nature, IVs: 31
     - Will-O-Wisp
     - Fire Blast
@@ -5280,7 +5282,7 @@ Magma Kingpin Maxwell. Field: No Field
     - Air Slash
     - Dragon Pulse
     - Blast Burn
-- Houndoom, Lv. 62, @Wise Glasses, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Houndoom, Lv. 62, @Wise Glasses, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nasty Plot
     - Flamethrower
     - Dark Pulse
@@ -5356,7 +5358,7 @@ Back outside, make your way to the entrance to the valley once more. Enter the c
 
 To progress, return to the entrance, un-mutate the cave we just mutated, then go through the original cave once more. Following the cave to where we got the green key, we'll see a Light Shard. Use it, then create another red cave entrance and go in.
 
-Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern 
+**Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern**
 - Larvesta, Lv. 58, Ability: Flame Body, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Flame Charge
     - Bug Bite
@@ -5382,7 +5384,7 @@ Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern
     - Giga Drain
     - Ancient Power
     - Signal Beam
-- Butterfree, Lv. 64, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Butterfree, Lv. 64, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Sleep Powder
     - Quiver Dance
     - Signal Beam
@@ -5442,33 +5444,33 @@ While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to
 
 Return to the Iolia Valley and take the warp to Luna's room.
 
-Dark Dreamer Luna (3x Ultra Potion). Field: Dark Crystal Cavern
+**Dark Dreamer Luna (3x Ultra Potion). Field: Dark Crystal Cavern**
 - Bisharp, Lv. 63, @Rocky Helmet, Ability: Defiant, Impish Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Iron Head
     - Night Slash
     - Sucker Punch
     - Stealth Rock
-- Absol, Lv. 64, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Absol, Lv. 64, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Swords Dance
     - Sucker Punch
     - Play Rough
     - Night Slash
-- Honchkrow, Lv. 63, @Muscle Band, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/252/0/4
+- Honchkrow, Lv. 63, @Muscle Band, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Sucker Punch
     - Night Slash
     - Roost
     - Brave Bird
-- Weavile, Lv. 64, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Weavile, Lv. 64, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Power-Up Punch
     - Poison Jab
     - Ice Shard
     - Night Slash
-- Tyranitar, Lv. 63, @Magical Seed, Ability: Unnerve, Adamant Nature, IVs: 31, EVs: 0/252/0/252/0/4
+- Tyranitar, Lv. 63, @Magical Seed, Ability: Unnerve, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Brick Break
     - Iron Head
     - Crunch
     - Stone Edge
-- Umbreon, Lv. 65, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Umbreon, Lv. 65, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Moonlight
     - Dark Pulse
     - Double Team
@@ -5807,13 +5809,13 @@ Back downstairs, you'll be given the *Battle Pass - Strike*. With that out of th
 
 Enter the Big Top for a fight.
 
-Ringmaster Alistasia. Field: Big Top Arena
-- Pyroar, Lv. 64, @Power Herb, Ability: Rivalry, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**Ringmaster Alistasia. Field: Big Top Arena**
+- Pyroar, Lv. 64, @Power Herb, Ability: Rivalry, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Heat Wave
     - Solar Beam
     - Snarl
     - Hyper Voice
-- Luxray, Lv. 65, @Choice Scarf, Ability: Intimidate, Serious Nature, IVs: 31, EVs: 128/252/4/0/128/0
+- Luxray, Lv. 65, @Choice Scarf, Ability: Intimidate, Serious Nature, IVs: 31, EVs: 128/252/4/128/0/0
     - Volt Switch
     - Superpower
     - Iron Tail
@@ -5823,12 +5825,12 @@ Ringmaster Alistasia. Field: Big Top Arena
     - Ice Shard
     - Heavy Slam
     - Brutal Swing
-- Primarina, Lv. 66, @Leftovers, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Primarina, Lv. 66, @Leftovers, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Sparkling Aria
     - Moonblast
     - Sing
     - Ice Beam
-- Blaziken, Lv. 67, @Focus Sash, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 0/252/0/252/0/4
+- Blaziken, Lv. 67, @Focus Sash, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Swords Dance
     - Acrobatics
     - Brick Break
@@ -5855,33 +5857,33 @@ Relationship Point Choices:
 
 Save and talk to Samson when you're ready for a fight.
 
-Strongman Samson (2x Ultra Potion). Field: Big Top Arena
-- Hariyama, Lv. 67, @Rocky Helmet, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+**Strongman Samson (2x Ultra Potion). Field: Big Top Arena**
+- Hariyama, Lv. 67, @Rocky Helmet, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Heavy Slam
     - Smack Down
     - Brick Break
     - Knock Off
-- Mienshao, Lv. 68, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Mienshao, Lv. 68, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Acrobatics
     - U-turn
     - Brick Break
     - Poison Jab
-- Lucario, Lv. 68, @Focus Sash, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Lucario, Lv. 68, @Focus Sash, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Swords Dance
     - Extreme Speed
     - Brick Break
     - Meteor Mash
-- Hawlucha, Lv. 66, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 23, EVs: 4/252/0/252/0/0
+- Hawlucha, Lv. 66, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
     - Roost
     - Flying Press
     - Acrobatics
     - Poison Jab
-- Blaziken, Lv. 69, @Synthetic Seed, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Blaziken, Lv. 69, @Synthetic Seed, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Acrobatics
     - Protect
     - Brick Break
     - Blaze Kick
-- Conkeldurr, Lv. 71, @Synthetic Seed, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+- Conkeldurr, Lv. 71, @Synthetic Seed, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Drain Punch
     - Poison Jab
     - Knock Off
@@ -5930,7 +5932,7 @@ Surf to the left. Hidden are *Water Gem*, 2 *PokeSnax*, *Potion*, *Calcium*, *Ge
 
 Talk to the clown with the Politoed and Torkoal for a battle.
 
-Clown Bindra. Field: Rainbow Field on top of Rocky Field
+**Clown Bindra. Field: Rainbow Field atop Rocky Field**
 - Raichu, Lv. 69, @Magical Seed, Ability: Lightning Rod, Naive Nature, IVs: 31
     - Heart Stamp
     - Hidden Power
@@ -6091,7 +6093,7 @@ Head outside and go right. Pick up a hidden *X Defend* along the way. Right befo
 
 In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. Enter the next room, change up your team if necessary, then head in to the next room.
 
-Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factory Field
+**Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factory Field**
 - Solrock, Lv. 65, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
     - Rock Slide
     - Reflect
@@ -6112,7 +6114,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factor
     - Outrage
     - Rock Slide
     - Foul Play
-- Lycanroc (Lycanroc-Midnight), Lv. 68, @Life Orb, Ability: No Guard, Adamant Nature, IVs: 31
+- Lycanroc-Midnight, Lv. 68, @Life Orb, Ability: No Guard, Adamant Nature, IVs: 31
     - Thunder Fang
     - Stone Edge
     - Sucker Punch
@@ -6137,7 +6139,7 @@ Meteor Private Aster and Meteor Private Eclipse (2x Ultra Potion). Field: Factor
     - Confuse Ray
     - Recover
     - Blizzard
-- Lycanroc (Lycanroc-Midday), Lv. 68, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31
+- Lycanroc-Midday, Lv. 68, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31
     - Brick Break
     - Rock Slide
     - Crunch
@@ -6216,33 +6218,33 @@ If you do want to open the secret room, you'll need to make the top area tiles l
 
 When you're ready, take on the Fire-type gym leader!
 
-Firebug Charlotte (2x Ultra Potion). Field: Super-Heated Field
-- Darmanitan, Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+**Firebug Charlotte (2x Ultra Potion). Field: Super-Heated Field**
+- Darmanitan, Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Rock Slide
     - Flare Blitz
     - U-turn
     - Hammer Arm
-- Typhlosion, Lv. 69, @Sitrus Berry, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Typhlosion, Lv. 69, @Sitrus Berry, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Eruption
     - Solar Beam
     - Heat Wave
     - Hidden Power
-- Rotom (Rotom-Heat), Lv. 68, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/4/0/0/252
+- Rotom-Heat, Lv. 68, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
     - Reflect
     - Volt Switch
     - Overheat
     - Hidden Power
-- Delphox, Lv. 69, @Light Clay, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Delphox, Lv. 69, @Light Clay, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Light Screen
     - Heat Wave
     - Flamethrower
     - Psyshock
-- Volcarona, Lv. 70, @Charti Berry, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/252/252/0/0
+- Volcarona, Lv. 70, @Charti Berry, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/252/0/0/252
     - Giga Drain
     - Quiver Dance
     - Heat Wave
     - Hidden Power
-- Ninetales, Lv. 72, @Telluric Seed, Ability: Drought, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Ninetales, Lv. 72, @Telluric Seed, Ability: Drought, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Heat Wave
     - Solar Beam
     - Hidden Power
@@ -6311,8 +6313,8 @@ Make your way back. Next, go to Ametrine Mountain 2F. Northeast of the iceberg, 
 
 Follow the path, diving up and down as you go. Once you pop up, you'll find another PULSE!
 
-Pokemon Redoubt. Field: Icy Field
-- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/0/4.
+**Pokemon Redoubt. Field: Icy Field**
+- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/4/0.
     - Hammer Arm
     - Earthquake
     - Recover
@@ -6350,7 +6352,7 @@ Back at the main village fork, go down. In the south side of the city you can pi
 
 In the house next to the Pokemon Center, talk to the guy to learn of a glitch in his computer. Talk to the machine for a short battle gauntlet!
 
-MIS5INGN0 4B 8 4 8. Field: Glitch Field
+**MIS5INGN0 4B 8 4 8. Field: Glitch Field**
 - Parasect, Lv. 74, Ability: Effect Spore, Serious Nature, IVs: 10
     - Spore
     - Nature Power
@@ -6362,7 +6364,7 @@ MIS5INGN0 4B 8 4 8. Field: Glitch Field
     - Hyper Beam
     - Tri Attack
 
-MIS5INGN0 'Ng'Mp. Field: Glitch Field
+**MIS5INGN0 'Ng'Mp. Field: Glitch Field**
 - Weepinbell, Lv. 75, Ability: Chlorophyll, Serious Nature, IVs: 10
     - Sludge Bomb
     - Nature Power
@@ -6374,7 +6376,7 @@ MIS5INGN0 'Ng'Mp. Field: Glitch Field
     - Blizzard
     - Psychic
 
-PKMNPKMNT X C. Field: Glitch Field
+**PKMNPKMNT X C. Field: Glitch Field**
 - Tangela, Lv. 76, Ability: Leaf Guard, Serious Nature, IVs: 10
     - Amnesia
     - Nature Power
@@ -6441,8 +6443,8 @@ Relationship Point Choices:
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
 
-Pokemon Pariah. Field: Snowy Mountain Field
-- Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+**Pokemon Pariah. Field: Snowy Mountain Field**
+- Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Extreme Speed
     - Meteor Mash
     - Swords Dance
@@ -6458,7 +6460,7 @@ If you gave Blake the ring, skip ahead to the next section.
 
 Due to our actions we still don't have Waterfall, but there's an extra fight to compensate!
 
-Meteor Private Aster (2x Ultra Potion). Field: Icy Field
+**Meteor Private Aster (2x Ultra Potion). Field: Icy Field**
 - Solrock, Lv. 68, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
     - Stealth Rock
     - Reflect
@@ -6474,17 +6476,17 @@ Meteor Private Aster (2x Ultra Potion). Field: Icy Field
     - Outrage
     - Rock Slide
     - Foul Play
-- Passimian, Lv. 69, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Passimian, Lv. 69, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Close Combat
     - Earthquake
     - Rock Slide
     - Gunk Shot
-- Lycanroc (Lycanroc-Midday), Lv. 70, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Lycanroc-Midday, Lv. 70, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Brick Break
     - Rock Slide
     - Crunch
     - Drill Run
-- Lycanroc (Lycanroc-Midnight), Lv. 73, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Lycanroc-Midnight, Lv. 73, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Thunder Punch
     - Stone Edge
     - Throat Chop
@@ -6500,7 +6502,7 @@ Inside this cave you can get a hidden *PP Up* and an *Ultra Potion* upstairs.
 
 Emerge into the outside once more, pick up the *Common Candy* and *Shoal Shell*, then prepare for a fight at the top.
 
-Agent Blake (2x Ultra Potion). Field: Snowy Mountain Field
+**Agent Blake (2x Ultra Potion). Field: Snowy Mountain Field**
 - Gyarados, Lv. 72, Ability: Intimidate, Adamant Nature, IVs: 31
     - Stone Edge
     - Dragon Dance
@@ -6511,7 +6513,7 @@ Agent Blake (2x Ultra Potion). Field: Snowy Mountain Field
     - Stealth Rock
     - Ice Shard
     - Icicle Crash
-- Weavile, Lv. 73, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Weavile, Lv. 73, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Night Slash
     - Power-Up Punch
     - Ice Shard
@@ -6521,12 +6523,12 @@ Agent Blake (2x Ultra Potion). Field: Snowy Mountain Field
     - Hail
     - Thunder
     - Light Screen
-- Walrein, Lv. 74, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 31, EVs: 252/0/4/0/0/252
+- Walrein, Lv. 74, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
     - Protect
     - Avalanche
     - Surf
     - Stockpile
-- Sandslash (Sandslash-Alola), Lv. 74, Ability: Slush Rush, Adamant Nature, IVs: 15, EVs: 4/252/0/252/0/0
+- Sandslash-Alola, Lv. 74, Ability: Slush Rush, Adamant Nature, IVs: 15, EVs: 4/252/0/0/0/252
     - Earthquake
     - Swords Dance
     - Rock Slide
@@ -6683,8 +6685,8 @@ Glitch Cerulean Cave
 
 In Cerulean Cave you can get a *Max Repel*. The other ball is a Light Shard, useful because:
 
-PKMNPKMNT M2. Field: Glitch Field
-- Mewtwo, Lv. 75, @Leftovers, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**PKMNPKMNT M2. Field: Glitch Field**
+- Mewtwo, Lv. 75, @Leftovers, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Psystrike
     - Recover
     - Thunderbolt
@@ -6694,8 +6696,8 @@ Bringing Mewtwo back to where it belongs with Glitch Field: completely broken. O
 
 Proceed and get ready for the gym battle! Note that you can actually exit back to the circus easily in case you want to do more prep.
 
-M3G4 T3RR4 (3x Ultra Potion). Field: Glitch Field
-- Nidoking, Lv. 73, @Life Orb, Ability: Sheer Force, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**M3G4 T3RR4 (3x Ultra Potion). Field: Glitch Field**
+- Nidoking, Lv. 73, @Life Orb, Ability: Sheer Force, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Amnesia
     - Blizzard
     - Thunderbolt
@@ -6705,22 +6707,22 @@ M3G4 T3RR4 (3x Ultra Potion). Field: Glitch Field
     - Stealth Rock
     - Yawn
     - Stone Edge
-- Excadrill, Lv. 73, @Life Orb, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Excadrill, Lv. 73, @Life Orb, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Earthquake
     - X-Scissor
     - Rock Slide
     - Swords Dance
-- Palossand, Lv. 73, @Synthetic Seed, Ability: Sand Veil, Rash Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Palossand, Lv. 73, @Synthetic Seed, Ability: Sand Veil, Rash Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Giga Drain
     - Shore Up
     - Psychic
     - Amnesia
-- Quagsire, Lv. 72, @Synthetic Seed, Ability: Unaware, Bold Nature, IVs: 20, EVs: 252/0/252/0/0/4
+- Quagsire, Lv. 72, @Synthetic Seed, Ability: Unaware, Bold Nature, IVs: 20, EVs: 252/0/252/0/4/0
     - Scald
     - Amnesia
     - Blizzard
     - Recover
-- Garchomp, Lv. 75, @Assault Vest, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Garchomp, Lv. 75, @Assault Vest, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
     - Draco Meteor
     - Bulldoze
     - Stone Edge
@@ -6879,8 +6881,8 @@ In the Beryl Water Grid, go to the right, and Titania will get trapped. Head lef
 
 Go down from here and follow the path through some rooms to the right, opening shutters for shortcuts as you go.
 
-Pokemon Stopple. Field: Murkwater Field
-- PULSE Swalot, Lv. 80, @Black Sludge, Ability: Water Absorb, Calm Nature, IVs: 27, EVs: 252/0/252/0/0/4.
+**Pokemon Stopple. Field: Murkwater Field**
+- PULSE Swalot, Lv. 80, @Black Sludge, Ability: Water Absorb, Calm Nature, IVs: 27, EVs: 252/0/252/0/4/0.
     - Sludge Wave
     - Recover
     - Infestation
@@ -6908,33 +6910,33 @@ Relationship Point Choices:
 
 If you're on the Reshiram route, skip ahead to the next section.
 
-Meteor Admin Taka. Field: Factory Field
-- Klefki, Lv. 69, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+**Meteor Admin Taka. Field: Factory Field**
+- Klefki, Lv. 69, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Spikes
     - Thunder Wave
     - Light Screen
     - Foul Play
-- Exeggutor (Exeggutor-Alola), Lv. 71, @Sitrus Berry, Ability: Harvest, Brave Nature, IVs: 32, EVs: 252/0/252/0/4/0
+- Exeggutor-Alola, Lv. 71, @Sitrus Berry, Ability: Harvest, Brave Nature, IVs: 31 (0 Speed), EVs: 252/0/252/4/0/0
     - Trick Room
     - Dragon Hammer
     - Stomp Tantrum
     - Seed Bomb
-- Komala, Lv. 69, @Leftovers, Ability: Comatose, Sassy Nature, IVs: 32, EVs: 248/0/8/0/0/252
+- Komala, Lv. 69, @Leftovers, Ability: Comatose, Sassy Nature, IVs: 31 (0 Speed), EVs: 248/0/8/0/252/0
     - Wish
     - Return
     - Sucker Punch
     - Bulk Up
-- Gliscor, Lv. 71, @Toxic Orb, Ability: Poison Heal, Brave Nature, IVs: 32, EVs: 252/0/4/0/0/252
+- Gliscor, Lv. 71, @Toxic Orb, Ability: Poison Heal, Brave Nature, IVs: 31 (0 Speed), EVs: 252/0/4/0/252/0
     - Protect
     - Earthquake
     - Acrobatics
     - Roost
-- Minior, Lv. 69, @White Herb, Ability: Shields Down, Naive Nature, IVs: 31, EVs: 0/252/0/108/148/0
+- Minior, Lv. 69, @White Herb, Ability: Shields Down, Naive Nature, IVs: 31, EVs: 0/252/0/148/0/108
     - Shell Smash
     - Acrobatics
     - Power Gem
     - Earthquake
-- Chatot, Lv. 73, @Synthetic Seed, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Chatot, Lv. 73, @Synthetic Seed, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Heat Wave
     - Nasty Plot
     - Hyper Voice
@@ -6946,33 +6948,33 @@ Time for another fight with Taka, but this one isn't really too hard hopefully. 
 
 Regardless of your route you'll have to fight Ace.
 
-Meteor Agent Ace of Spades (Max Potion). Field: Factory Field
-- Roserade, Lv. 71, @Focus Sash, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**Meteor Agent Ace of Spades (Max Potion). Field: Factory Field**
+- Roserade, Lv. 71, @Focus Sash, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nature Power
     - Giga Drain
     - Dazzling Gleam
     - Toxic Spikes
-- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Night Daze
     - Nasty Plot
     - Flamethrower
     - Extrasensory
-- Delphox, Lv. 74, @Synthetic Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Delphox, Lv. 74, @Synthetic Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Mystical Fire
     - Psyshock
     - Dazzling Gleam
     - Shadow Ball
-- Nidoqueen, Lv. 71, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Nidoqueen, Lv. 71, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Earth Power
     - Flamethrower
     - Thunderbolt
     - Sludge Bomb
-- Klinklang, Lv. 72, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Klinklang, Lv. 72, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Gear Grind
     - Shift Gear
     - Zap Cannon
     - Wild Charge
-- Metagross, Lv. 74, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+- Metagross, Lv. 74, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Earthquake
     - Meteor Mash
     - Zen Headbutt
@@ -6986,7 +6988,7 @@ After this fight, return to the front of the Water Treatment Center and climb th
 
 Make your way towards the Fiore Mansion, and you'll meet up with some old characters and obtain *TMX2 Fly*! About time. Heal and prepare your team and then head in... we have a huge Gauntlet coming up! Thankfully, this one will heal us between each fight.
 
-Meteor Ace Kenan and Meteor Ace Diana. Field: No Field
+**Meteor Ace Kenan and Meteor Ace Diana. Field: No Field**
 - Leavanny, Lv. 68, Ability: Swarm, Serious Nature, IVs: 10
     - Leaf Storm
     - Throat Chop
@@ -7035,8 +7037,8 @@ Meteor Ace Kenan and Meteor Ace Diana. Field: No Field
 
 This first fight is a 12v9 against some grunts. Florinia is pretty helpful here, and none of their Pokemon are too strong. It's more of a warmup fight.
 
-Agent Blake and Swag Jockey Fern. Field: No Field
-- Walrein, Lv. 72, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 20, EVs: 252/0/4/0/0/252
+**Agent Blake and Swag Jockey Fern. Field: No Field**
+- Walrein, Lv. 72, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 20, EVs: 252/0/4/0/252/0
     - Protect
     - Blizzard
     - Surf
@@ -7051,7 +7053,7 @@ Agent Blake and Swag Jockey Fern. Field: No Field
     - Dragon Dance
     - Waterfall
     - Crunch
-- Weavile, Lv. 72, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Weavile, Lv. 72, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Icicle Crash
     - Poison Jab
     - Ice Shard
@@ -7061,7 +7063,7 @@ Agent Blake and Swag Jockey Fern. Field: No Field
     - Hail
     - Thunder
     - Light Screen
-- Sandslash (Sandslash-Alola), Lv. 73, Ability: Slush Rush, Adamant Nature, IVs: 10, EVs: 4/252/0/252/0/0
+- Sandslash-Alola, Lv. 73, Ability: Slush Rush, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
     - Earthquake
     - Swords Dance
     - Rock Slide
@@ -7086,12 +7088,12 @@ Agent Blake and Swag Jockey Fern. Field: No Field
     - Bug Bite
     - Swords Dance
     - Superpower
-- Roserade, Lv. 72, Ability: Poison Point, Timid Nature, IVs: 20, EVs: 4/0/0/252/252/0
+- Roserade, Lv. 72, Ability: Poison Point, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
     - Sleep Powder
     - Giga Drain
     - Sludge Bomb
     - Hidden Power
-- Decidueye, Lv. 73, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+- Decidueye, Lv. 73, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Spirit Shackle
     - Shadow Sneak
     - Brave Bird
@@ -7103,7 +7105,7 @@ Relationship Point Choices:
 - Florinia joins your team after you did not defeat Solaris on Pyrous (+1 Florinia)
 - Julia joins your team after you did defeat Solaris on Pyrous (+1 Julia, -1 Fern)
 
-Meteor Leader Solaris and New World Orderly John. Field: No Field
+**Meteor Leader Solaris and New World Orderly John. Field: No Field**
 - Scizor, Lv. 72, Ability: Technician, Adamant Nature, IVs: 31
     - Bullet Punch
     - U-turn
@@ -7170,18 +7172,18 @@ After these events finish playing out, head outside of the building and talk to 
 
 Talk to Samson. You'll be given the *Battle Pass - Suspension*. Sweet. Save, then talk to Ciel when you're ready for another gym battle!
 
-Skydancer Ciel (3x Ultra Potion). Field: Big Top Arena
-- Togekiss, Lv. 75, @Leftovers, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+**Skydancer Ciel (3x Ultra Potion). Field: Big Top Arena**
+- Togekiss, Lv. 75, @Leftovers, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/0/0/252
     - Roost
     - Air Slash
     - Aura Sphere
     - Thunder Wave
-- Minior, Lv. 75, @Focus Sash, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Minior, Lv. 75, @Focus Sash, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Acrobatics
     - Earthquake
     - Rock Slide
     - Shell Smash
-- Noivern, Lv. 75, @Assault Vest, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Noivern, Lv. 75, @Assault Vest, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Acrobatics
     - Boomburst
     - Dragon Pulse
@@ -7191,12 +7193,12 @@ Skydancer Ciel (3x Ultra Potion). Field: Big Top Arena
     - Acrobatics
     - Roost
     - Defog
-- Oricorio (Oricorio-Baile), Lv. 75, @Synthetic Seed, Ability: Dancer, Timid Nature, IVs: 31, EVs: 100/0/0/156/252/0
+- Oricorio-Baile, Lv. 75, @Synthetic Seed, Ability: Dancer, Timid Nature, IVs: 31, EVs: 100/0/0/252/0/156
     - RevelationDance
     - Roost
     - Air Slash
     - Baton Pass
-- Altaria, Lv. 78, @Altarianite, Ability: Cloud Nine, Rash Nature, IVs: 31, EVs: 252/0/0/252/0/4
+- Altaria, Lv. 78, @Altarianite, Ability: Cloud Nine, Rash Nature, IVs: 31, EVs: 252/0/0/0/4/252
     - Earthquake
     - Hyper Voice
     - Roost
@@ -7941,13 +7943,13 @@ Coral Ward Underwater, Azurine Lake Diving Interiors
 
 You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and surface in the lighthouse. Up the ladder you can get a *Big Nugget*, *Jolly Mint*, and *Coral Key*. Make your way back to the bay and use the key on the other lighthouse door. Dive down and go left and prepare for a battle. 
 
-Pokemon Predators. Field: Underwater Field
-- Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/4/0/0
+**Pokemon Predators. Field: Underwater Field**
+- Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Aqua Tail
     - Crunch
     - Ice Fang
     - Shell Smash
-- Gorebyss, Lv. 78, @Bright Powder, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/4/252/0
+- Gorebyss, Lv. 78, @Bright Powder, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
     - Muddy Water
     - Blizzard
     - Rest
@@ -8301,14 +8303,14 @@ Azurine Cave North
 
 Past a hidden *Genius Wing* you'll see a Pyukumuku atop a hill, who we can battle.
 
-High King of the Pyukumuku. Field: Cave Field
-- Pyukumuku, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/100/0/0/160
+**High King of the Pyukumuku. Field: Cave Field**
+- Pyukumuku, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/100/0/160/0
     - Recover
     - Soak
     - Toxic
     - Block
 
-An annoying set that might ruin your team if you're unprepared! Taunt and Toxic completely shut it down, however.
+An annoying set that might ruin your team if you're unprepared! Taunt and Toxic completely shut it down, however. You can also take the cave ceiling down!
 
 Beyond, you'll get *TM59 Brutal Swing*. Head up the waterfall. You can get an *Exp. Candy XL* up here as well as a hidden *Hyper Potion*. Atop another waterfall is a hidden *Icicle Plate*. You'll notice that we can't access the other room thanks to a strong current - we'll need to transform the Water Surface into the Icy Field! You can use Blizzard yourself or surf until you find a wild Sealeo and hope that it uses it.
 
@@ -8489,7 +8491,7 @@ Fly over to the Apophyll Academy and get Makuhita out of the PC next. Talk to th
 
 Fly over to Spinel Town next and grab Roggenrola from the PC. Two buildings from the left of the museum, you'll find a guy who you can give Roggenrola back to. Talk to him again to get the *McKrezzy Autograph*. Return to the PC and prep your full team for battle, then talk to McKrezzy for a fight.
 
-Guitarist McKrezzy. Field: No Field
+**Guitarist McKrezzy. Field: No Field**
 - Incineroar, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31
     - Darkest Lariat
     - Cross Chop
@@ -8531,7 +8533,7 @@ Fly to Lapis Ward and enter the house to the left of the Pokemart. You'll learn 
 
 Fly over to Onyx Ward, prepare your team and save, then head to the rooftop. 
 
-Q Gang Colin and Q Gang Matthew. Field: No Field 
+**Q Gang Colin and Q Gang Matthew. Field: No Field**
 - Weezing, Lv. 73, Ability: Levitate, Bold Nature, IVs: 31
     - Destiny Bond
     - Fire Blast
@@ -8547,7 +8549,7 @@ Q Gang Colin and Q Gang Matthew. Field: No Field
     - Quick Attack
     - Shadow Claw
     - Swords Dance
-- Muk (Muk-Alola), Lv. 73, Ability: Power Of Alchemy, Calm Nature, IVs: 31
+- Muk-Alola, Lv. 73, Ability: Power Of Alchemy, Calm Nature, IVs: 31
     - Minimize
     - Sludge Wave
     - Fire Blast
@@ -8565,7 +8567,7 @@ Q Gang Colin and Q Gang Matthew. Field: No Field
 
 This battle isn't particularly tough and a few fast sweepers can probably bowl through them. The problem is that you don't get to heal before the next fight, so try to limit your casualties as much as possible for this fight.
 
-Mastermind Eustace. Field: No Field
+**Mastermind Eustace. Field: No Field**
 - Manectric, Lv. 81, @Choice Specs, Ability: Lightning Rod, Timid Nature, IVs: 31
     - Volt Switch
     - Flamethrower
@@ -8627,28 +8629,28 @@ That's all you really need to know to scale this building. Note that it is alway
 
 Heal and prepare your team as necessary, then proceed to the right.
 
-Sensei Victoria. Field: Factory Field
-- Mienshao, Lv. 74, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+**Sensei Victoria. Field: Factory Field**
+- Mienshao, Lv. 74, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Knock Off
     - High Jump Kick
     - U-turn
     - Fake Out
-- Raichu (Raichu-Alola), Lv. 75, @Synthetic Seed, Ability: Surge Surfer, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Raichu-Alola, Lv. 75, @Synthetic Seed, Ability: Surge Surfer, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nuzzle
     - Nasty Plot
     - Psyshock
     - Discharge
-- Gallade, Lv. 77, @Salac Berry, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Gallade, Lv. 77, @Salac Berry, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Throat Chop
     - Zen Headbutt
     - Swords Dance
     - Close Combat
-- Togekiss, Lv. 74, @King's Rock, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Togekiss, Lv. 74, @King's Rock, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Dazzling Gleam
     - Air Slash
     - Aura Sphere
     - Nasty Plot
-- Lucario, Lv. 76, @Wise Glasses, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Lucario, Lv. 76, @Wise Glasses, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Aura Sphere
     - Flash Cannon
     - Calm Mind
@@ -8677,33 +8679,33 @@ Relationship Point Choices:
 
 Either way you have to fight.
 
-DJ Arclight. Field: Factory Field
-- Jolteon, Lv. 77, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**DJ Arclight. Field: Factory Field**
+- Jolteon, Lv. 77, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Shadow Ball
     - Signal Beam
     - Hidden Power
     - Discharge
-- Luxray, Lv. 75, @Amplifield Rock, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 0/252/0/252/0/0
+- Luxray, Lv. 75, @Amplifield Rock, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 0/252/0/0/0/252
     - Electric Terrain
     - Wild Charge
     - Superpower
     - Throat Chop
-- Raichu, Lv. 75, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/252/0/0
+- Raichu, Lv. 75, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Focus Blast
     - Thunderbolt
     - Hidden Power
     - Nasty Plot
-- Exploud, Lv. 75, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/0/200/0
+- Exploud, Lv. 75, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/200/0/0
     - Boomburst
     - Ice Beam
     - Earthquake
     - Surf
-- Noivern, Lv. 76, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Noivern, Lv. 76, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Dragon Pulse
     - Boomburst
     - Hurricane
     - Heat Wave
-- Ampharos, Lv. 78, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/224/252/0
+- Ampharos, Lv. 78, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/252/0/224
     - Discharge
     - Zap Cannon
     - Dragon Pulse
@@ -8731,33 +8733,33 @@ Relationship Point Choices:
 - Say you did come to destroy everything here (-1 Eve, -1 Lumi)
 - Say you didn't come to destroy everything here (+1 Eve, +1 Lumi)
 
-Meteor Admin ZEL (2x Ultra Potion). Field: Factory Field
-- Aurorus, Lv. 74, @Focus Sash, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+**Meteor Admin ZEL (2x Ultra Potion). Field: Factory Field**
+- Aurorus, Lv. 74, @Focus Sash, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Flash Cannon
     - Stealth Rock
     - Ice Beam
     - Thunderbolt
-- Glaceon, Lv. 77, @Synthetic Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Glaceon, Lv. 77, @Synthetic Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Blizzard
     - Shadow Ball
     - Yawn
     - Wish
-- Alakazam, Lv. 74, @Twisted Spoon, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Alakazam, Lv. 74, @Twisted Spoon, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Psyshock
     - Recover
     - Shadow Ball
     - Charge Beam
-- Espeon, Lv. 77, @Synthetic Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 252/4/0/252/0/0
+- Espeon, Lv. 77, @Synthetic Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Dazzling Gleam
     - Light Screen
     - Reflect
     - Psyshock
-- Umbreon, Lv. 77, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Umbreon, Lv. 77, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Double Team
     - Wish
     - Foul Play
     - Toxic
-- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/0/252/4.
+- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
     - Magnet Bomb
     - Discharge
     - Autotomize
@@ -8797,7 +8799,7 @@ Via following the path on the right side down, reach the large pool of water, th
 
 Climb the waterfall and grab the hidden *Rock Gem*. Prepare your team and talk to the invisible object at the bottom of the stairs.
 
-Kecleon Refugees. Field: Cave Field
+**Kecleon Refugees and Kecleon Runaways. Field: Cave Field**
 - Kecleon, Lv. 67, Serious Nature, IVs: 10
     - Foul Play
     - Rock Tomb
@@ -8861,8 +8863,8 @@ Kecleon Refugees. Field: Cave Field
 
 So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's a good chance you can just one shot all of them, especially if you're using field-boosted Rock Slide. Be careful of their types changing and of course the seemingly endless uses of Fake Out and Sucker Punch, however.
 
-Purple Kecleon. Field: Cave Field
-- Purple Kecleon, Lv. 81, @Sitrus Berry, Ability: Color Change, Adamant Nature, IVs: 31, EVs: 252/4/0/252/0/0. Stat Spread: 130/120/90/95/60/130
+**Purple Kecleon. Field: Cave Field**
+- Purple Kecleon, Lv. 81, @Sitrus Berry, Ability: Color Change, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Recover
     - Drain Punch
     - Knock Off
@@ -8912,33 +8914,33 @@ Relationship Point Choices:
 
 With that out of the way, it's time for our 14th gym battle.
 
-Visionary Adrienn (3x Ultra Potion). Field: Misty Terrain atop Fairy Tale Field
+**Visionary Adrienn (3x Ultra Potion). Field: Misty Terrain atop Fairy Tale Field**
 - Granbull, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Earthquake
     - Close Combat
     - Play Rough
     - Rock Slide
-- Gardevoir, Lv. 77, @Wise Glasses, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 0/0/4/252/252/0
+- Gardevoir, Lv. 77, @Wise Glasses, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Icy Wind
     - Dazzling Gleam
     - Psychic
     - Focus Blast
-- Togekiss, Lv. 77, @Kebia Berry, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Togekiss, Lv. 77, @Kebia Berry, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Aura Sphere
     - Dazzling Gleam
     - Flamethrower
     - Psyshock
-- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/4/252/252/0
+- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/4/252/0/252
     - Dazzling Gleam
     - Tailwind
     - Hurricane
     - Nature Power
-- Mawile, Lv. 78, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+- Mawile, Lv. 78, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Iron Head
     - Play Rough
     - Rock Slide
     - Sucker Punch
-- Florges, Lv. 84, @Leftovers, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+- Florges, Lv. 84, @Leftovers, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Dazzling Gleam
     - Hidden Power
     - Wish
@@ -9006,7 +9008,7 @@ Outside, talk to the girl up and to the right of the SOLICE office and agree to 
 
 Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're ready.
 
-Hard Hat Raph and Hard Hat Manwe. Field: Forest Field
+**Hard Hat Raph and Hard Hat Manwe. Field: Forest Field**
 - Scizor, Lv. 74, @Leftovers, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Cut
     - Tailwind
@@ -9037,17 +9039,17 @@ Hard Hat Raph and Hard Hat Manwe. Field: Forest Field
     - Sucker Punch
     - Iron Head
     - Poison Jab
-- Torterra, Lv. 75, @Telluric Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 6/252/0/252/0/0
+- Torterra, Lv. 75, @Telluric Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
     - Cut
     - Rock Polish
     - Earthquake
     - Swords Dance
-- Scyther, Lv. 77, @Life Orb, Ability: Technician, Jolly Nature, IVs: 31, EVs: 6/252/0/252/0/0
+- Scyther, Lv. 77, @Life Orb, Ability: Technician, Jolly Nature, IVs: 31, EVs: 6/252/0/0/0/252
     - Cut
     - Knock Off
     - Bug Bite
     - Aerial Ace
-- Hawlucha, Lv. 78, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 6/252/0/252/0/0
+- Hawlucha, Lv. 78, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
     - Cut
     - Acrobatics
     - Flying Press
@@ -9065,33 +9067,33 @@ Relationship Point Choices:
 
 Once you succeed, your next destination will be the Water Treatment Center. 
 
-Pokemon Stoplettes. Field: Factory Field
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+**Pokemon Stoplettes. Field: Factory Field**
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
     - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
     - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
     - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
     - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
     - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/0/252
+- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
     - Toxic
@@ -9167,7 +9169,7 @@ I jest, but there is one more reward we can get out of doing this renovation pro
 
 Via climbing through the building as we have before, hop down a ledge at the top to reach the upper left corner of the wasteland, and enter the cave. Go left, and follow the path into a building which contains a hidden *Telluric Seed* and *Exp. Candy XL*. Proceeding left, you can enter one final section of the underground railnet. Be prepared for a mini-gauntlet.
 
-Pokemon Refugees. Field: Cave Field
+**Pokemon Refugees. Field: Cave Field**
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
     - Earthquake
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
@@ -9183,23 +9185,23 @@ Pokemon Refugees. Field: Cave Field
 
 This fight exploits the cave field to collapse in on your Pokemon - instantly KO'ing most Pokemon. The Sturdy + Custap Berry combo makes it common for each Pokemon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokemon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokemon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
 
-Pokemon Refugees. Field: Cave Field
-- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+**Pokemon Refugees. Field: Cave Field**
+- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Rock Slide
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
-- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Rock Slide
     - Bulldoze
 
@@ -9341,33 +9343,33 @@ If you already fought Taka at the WTC, skip ahead to the next section.
 
 If you didn't fight Taka at the WTC, now will be the time to fight him!
 
-Vagrant Scion Taka. Field: Desert Field
-- Chatot, Lv. 83, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**Vagrant Scion Taka. Field: Desert Field**
+- Chatot, Lv. 83, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Heat Wave
     - Nasty Plot
     - Hyper Voice
     - Encore
-- Exeggutor (Exeggutor-Alola), Lv. 77, Ability: Harvest, Adamant Nature, IVs: 31, EVs: 252/0/252/0/4/0
+- Exeggutor-Alola, Lv. 77, Ability: Harvest, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
     - Nature Power
     - Dragon Hammer
     - Earthquake
     - Wood Hammer
-- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Substitute
     - Thunder Wave
     - Swagger
     - Foul Play
-- Gliscor, Lv. 78, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/0/4/0/0/252
+- Gliscor, Lv. 78, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/0/4/0/252/0
     - Stealth Rock
     - Earthquake
     - U-turn
     - Roost
-- Komala, Lv. 77, @Leftovers, Ability: Comatose, Careful Nature, IVs: 31, EVs: 248/0/8/0/0/252
+- Komala, Lv. 77, @Leftovers, Ability: Comatose, Careful Nature, IVs: 31, EVs: 248/0/8/0/252/0
     - Wish
     - Return
     - Knock Off
     - Bulk Up
-- Minior, Lv. 78, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Minior, Lv. 78, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Shell Smash
     - Acrobatics
     - Rock Slide
@@ -10023,28 +10025,28 @@ In a train car at the top of the area you can access a PC and meet Stephoscope. 
 
 More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokemon and then stole it from us. We've watched our Pokemon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokemon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the gold price for the Pokemon sixteen episodes ago. But now it's time to pay the iron price by defeating Corin Rouge once and for all.
 
-Dashing Rogue Corin-Rouge (Ultra Potion). Field: Desert Field
-- Klefki, Lv. 81, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/0/4/252/0
+**Dashing Rogue Corin-Rouge (Ultra Potion). Field: Desert Field**
+- Klefki, Lv. 81, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/0/252/0/4
     - Spikes
     - Thunder Wave
     - Swagger
     - Foul Play
-- Cacturne, Lv. 82, @Bright Powder, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
+- Cacturne, Lv. 82, @Bright Powder, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Sucker Punch
     - Needle Arm
     - Swords Dance
     - Substitute
-- Liepard, Lv. 82, @Muscle Band, Ability: Limber, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
+- Liepard, Lv. 82, @Muscle Band, Ability: Limber, Adamant Nature, IVs: 31, EVs: 252/0/252/0/0/4
     - Encore
     - Play Rough
     - U-turn
     - Foul Play
-- Sandslash, Lv. 83, @Muscle Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 128/128/0/252/0/0
+- Sandslash, Lv. 83, @Muscle Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 128/128/0/0/0/252
     - Earthquake
     - Swords Dance
     - Stone Edge
     - X-Scissor
-- Delphox, Lv. 86, @Firium-Z, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Delphox, Lv. 86, @Firium-Z, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Heat Wave
     - Psyshock
     - Solar Beam
@@ -10140,7 +10142,7 @@ Head up at the top to Titania's arena!
 Before starting the battle, you can jump into the blue hole at the top and go left from here if you want a shortcut to Train Town for some prep - there's a good chance your team won't be good enough for the upcoming gym fight. Anyways, up from here is a hole you can jump into to return to the tower. Along the way back to the gym, you'll even find a *Rare Candy*!
 
 Guardian Princess Titania (3x Ultra Potion). Field: Fairy Tale Arena (Active Hail)
-- Sandslash (Sandslash-Alola), Lv. 83, @Light Clay, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 128/252/0/128/0/0
+- Sandslash-Alola, Lv. 83, @Light Clay, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 128/252/0/128/0/0
     - Aurora Veil
     - Icicle Crash
     - Earthquake
@@ -10233,18 +10235,18 @@ Take the teleporter to the gym arena and talk to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles - but she'll actually challenge you in the format opposite of what you request!
 
-Jetsam Amaria (Singles) (3x Ultra Potion). Field: Water Surface
-- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**Jetsam Amaria (3x Ultra Potion). Field: Water Surface**
+- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Scald
     - Thunderbolt
     - Light Screen
     - Ice Beam
-- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/4/0/252
     - Dive
     - Hidden Power
     - Ice Beam
     - Whirlpool
-- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/52/206/0
+- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/206/0/52
     - Ice Beam
     - Giga Drain
     - Focus Blast
@@ -10254,12 +10256,12 @@ Jetsam Amaria (Singles) (3x Ultra Potion). Field: Water Surface
     - Earthquake
     - Stone Edge
     - Whirlpool
-- Kingdra, Lv. 88, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/156/252/0
+- Kingdra, Lv. 88, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/252/0/156
     - Scald
     - Dragon Pulse
     - Ice Beam
     - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
     - Curse
     - Rest
     - Dive
@@ -10269,33 +10271,33 @@ Surprise, the Water gym leader has a team built for the Water Surface and Underw
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Alolan Raichu for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-Jetsam Amaria (Doubles) (3x Ultra Potion). Field: Water Surface
-- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/0/156/0
+**Jetsam Amaria (3x Ultra Potion). Field: Water Surface**
+- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
     - Shadow Ball
     - Ice Beam
     - Dive
     - Surf
-- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
+- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/252/0/128
     - Sludge Bomb
     - Surf
     - Earthquake
     - Focus Blast
-- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Energy Ball
     - Dazzling Gleam
     - Surf
     - Ice Beam
-- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/0/200/0
+- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/200/0/0
     - Volt Switch
     - Surf
     - Thunderbolt
     - Whirlpool
-- Blastoise, Lv. 88, @Blastoisinite, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Blastoise, Lv. 88, @Blastoisinite, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Aura Sphere
     - Surf
     - Ice Beam
     - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/0/100
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/100/0
     - Protect
     - Rest
     - Perish Song
@@ -10330,18 +10332,18 @@ Take the teleporter to the gym arena and talk to Titania, then to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles. 
 
-Flotsam Amaria (Singles) (2x Ultra Potion). Field: Water Surface
-- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+**Flotsam Amaria (2x Ultra Potion). Field: Water Surface**
+- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Scald
     - Thunderbolt
     - Light Screen
     - Ice Beam
-- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/4/0/252
     - Dive
     - Hidden Power
     - Ice Beam
     - Whirlpool
-- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/52/206/0
+- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/206/0/52
     - Ice Beam
     - Giga Drain
     - Focus Blast
@@ -10351,12 +10353,12 @@ Flotsam Amaria (Singles) (2x Ultra Potion). Field: Water Surface
     - Earthquake
     - Stone Edge
     - Whirlpool
-- Kingdra, Lv. 88, @Dragonium-Z, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/156/252/0
+- Kingdra, Lv. 88, @Dragonium-Z, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/252/0/156
     - Scald
     - Dragon Pulse
     - Ice Beam
     - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
     - Curse
     - Rest
     - Dive
@@ -10366,33 +10368,33 @@ Surprise, the Water gym leader has a team built for the Water Surface and Underw
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Alolan Raichu for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-Flotsam Amaria (Doubles) (2x Ultra Potion). Field: Water Surface
-- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/0/156/0
+**Flotsam Amaria (2x Ultra Potion). Field: Water Surface**
+- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
     - Shadow Ball
     - Ice Beam
     - Dive
     - Surf
-- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
+- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/252/0/128
     - Sludge Bomb
     - Surf
     - Earthquake
     - Focus Blast
-- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Energy Ball
     - Dazzling Gleam
     - Surf
     - Ice Beam
-- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/0/200/0
+- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/200/0/0
     - Volt Switch
     - Surf
     - Thunderbolt
     - Whirlpool
-- Blastoise, Lv. 88, @Fightinium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/252/0
+- Blastoise, Lv. 88, @Fightinium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Aura Sphere
     - Surf
     - Ice Beam
     - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/0/100
+- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/100/0
     - Protect
     - Rest
     - Perish Song
@@ -10507,7 +10509,7 @@ Grab the hidden *Heart Scale*. We'll need to transform this field to Dark Crysta
 
 Once you succeed, smash the wall at the top and proceed to the next room. Head up once you're ready for a fight.
 
-Pokemon Fulgor. Field: Dark Crystal Cavern
+**Pokemon Fulgor. Field: Dark Crystal Cavern**
 - Volcarona, Lv. 100, @Sitrus Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Quiver Dance
     - Signal Beam
@@ -10831,12 +10833,13 @@ Once you succeed, climb the mountain. We'll land on a higher part of a map from 
 
 Pick up *TM73 Thunder Wave* here. Press 'A' while you're above the disconnected wires to connect them, prepare your team, then make your way to the top left corner for a fight.
 
-BreloomBot CL:4R1-C3. Field: Short-Circuit Field
-- CL:4R1-C3 Breloom, Lv. 90, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
-    - Spore
-    - Magnet Bomb
-    - Shadow Punch
-    - Shift Gear
+**BreloomBot CL:4R1-C3. Field: Short-Circuit Field**
+- CL:4R1-C3 Breloom, Lv. 90, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+  - Spore
+  - Magnet Bomb
+  - Shadow Punch
+  - Shift Gear
+
 
 This is a very tough fight with a custom, overpowered Breloom robot! Thankfully it's still a 6v1 so you should be able to figure out a way to take it out. It does have mixed attacks, the ability to put you to sleep, and a set up move, so be careful as it alone can counter many strategies. 
 
