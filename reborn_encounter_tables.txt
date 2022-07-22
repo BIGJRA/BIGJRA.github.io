@@ -1,5 +1,5 @@
 014, 015, 017, 097, 109
-Apophyll Academy, Apophyll Beach, Coral Ward
+**Apophyll Academy, Apophyll Beach, Coral Ward**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -8,7 +8,7 @@ Apophyll Academy, Apophyll Beach, Coral Ward
 |                  |   |Skrelp            |20 |
 
 016
-Apophyll Beach
+**Apophyll Beach**
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -17,7 +17,7 @@ Apophyll Beach
 |Binacle           |1  |
 
 018, 020
-Apophyll Beach
+**Apophyll Beach**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -32,7 +32,7 @@ Apophyll Beach
 |                  |   |Binacle           |5  |
 
 019
-Apophyll Beach
+**Apophyll Beach**
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -41,7 +41,7 @@ Apophyll Beach
 |Binacle           |1  |
 
 021
-Pyrous Mountain
+**Pyrous Mountain**
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -49,7 +49,7 @@ Pyrous Mountain
 |Shuckle           |10 |
 
 027
-Pyrous Mountain
+**Pyrous Mountain**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -58,7 +58,7 @@ Pyrous Mountain
 |Charizard         |1  |
 
 029
-Opal Ward
+**Opal Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -76,7 +76,7 @@ Opal Ward
 |Combee            |30 |
 
 030
-Apophyll Cave
+**Apophyll Cave**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -87,7 +87,7 @@ Apophyll Cave
 |Stunfisk          |7  |                  |   |
 
 031
-Apophyll Cave 2F
+**Apophyll Cave 2F**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -100,7 +100,7 @@ Apophyll Cave 2F
 |Crustle           |1  |                  |   |
 
 033, 034, 035, 199, 201, 202, 203, 204
-Pyrous Mountain 1F, Pyrous Mountain 2F, Pyrous Mountain 3F, Pyrous Mountain B1F
+**Pyrous Mountain 1F, Pyrous Mountain 2F, Pyrous Mountain 3F, Pyrous Mountain B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -115,7 +115,7 @@ Pyrous Mountain 1F, Pyrous Mountain 2F, Pyrous Mountain 3F, Pyrous Mountain B1F
 |Magcargo          |1  |
 
 036
-Obsidia Ward
+**Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -130,7 +130,7 @@ Obsidia Ward
 |                  |   |Sunflora          |5  |                  |   |
 
 037, 057
-Lower Peridot Ward, Peridot Ward
+**Lower Peridot Ward, Peridot Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -152,7 +152,7 @@ Lower Peridot Ward, Peridot Ward
 |Burmy             |45 |
 
 041, 633
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -161,7 +161,7 @@ Underground Railnet
 |Stunky            |6  |
 
 046
-Lower Peridot Ward
+**Lower Peridot Ward**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -170,7 +170,7 @@ Lower Peridot Ward
 |                  |   |Seaking           |20 |
 
 052
-Lower Peridot Alley
+**Lower Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -179,7 +179,7 @@ Lower Peridot Alley
 |Poochyena         |18 |
 
 058
-North Peridot Alley
+**North Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -188,7 +188,7 @@ North Peridot Alley
 |Purrloin          |21 |
 
 088
-Obsidia Slums B1F
+**Obsidia Slums B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -200,7 +200,7 @@ Obsidia Slums B1F
 |Crabrawler        |10 |
 
 090
-Obsidia Slums 1F
+**Obsidia Slums 1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -212,7 +212,7 @@ Obsidia Slums 1F
 |Slakoth           |10 |
 
 091
-Obsidia Slums 2F
+**Obsidia Slums 2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -224,7 +224,7 @@ Obsidia Slums 2F
 |Meowth            |10 |
 
 103, 635
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -233,7 +233,7 @@ Underground Railnet
 |Klink             |20 |
 
 105
-Obsidia Alleyway
+**Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -243,7 +243,7 @@ Obsidia Alleyway
 |Poochyena         |13 |
 
 107
-REMOVED
+**REMOVED**
 
 |Land              |%  |
 |------------------|---|
@@ -253,7 +253,7 @@ REMOVED
 |Sunflora          |10 |
 
 128
-Onyx Ward
+**Onyx Ward**
 
 |Land              |%  |
 |------------------|---|
@@ -264,7 +264,7 @@ Onyx Ward
 |Venonat           |10 |
 
 130, 134, 135, 137, 138
-Jasper Ward
+**Jasper Ward**
 
 |Cave              |%  |
 |------------------|---|
@@ -276,7 +276,7 @@ Jasper Ward
 |Pidgeotto         |4  |
 
 132
-Malchous Forest Park
+**Malchous Forest Park**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -290,7 +290,7 @@ Malchous Forest Park
 |                  |   |Carnivine         |1  |                  |   |
 
 149
-Beryl Ward
+**Beryl Ward**
 
 |Cave              |%  |
 |------------------|---|
@@ -303,7 +303,7 @@ Beryl Ward
 |Oddish            |9  |
 
 150
-Rhodochrine Jungle
+**Rhodochrine Jungle**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -319,7 +319,7 @@ Rhodochrine Jungle
 |                  |   |Tangela           |5  |                  |   |
 
 151, 152
-Beryl Cemetery, Beryl Ward
+**Beryl Cemetery, Beryl Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -339,7 +339,7 @@ Beryl Cemetery, Beryl Ward
 |Aipom             |10 |
 
 153
-The Underroot
+**The Underroot**
 
 |Land              |%  |
 |------------------|---|
@@ -370,7 +370,7 @@ The Underroot
 |Ludicolo          |1  |
 
 165
-North Obsidia Alleyway
+**North Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -382,7 +382,7 @@ North Obsidia Alleyway
 |Mightyena         |2  |
 
 170
-Lapis Alleyway
+**Lapis Alleyway**
 
 |Old Rod           |%  |Good Rod          |%  |
 |------------------|---|------------------|---|
@@ -400,7 +400,7 @@ Lapis Alleyway
 |Persian           |1  |
 
 178
-Grand Stairway B1F
+**Grand Stairway B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -413,7 +413,7 @@ Grand Stairway B1F
 |Dunsparce         |1  |
 
 179, 512
-Grand Stairway B2F, Grand Stairway B3F
+**Grand Stairway B2F, Grand Stairway B3F**
 
 |Cave              |%  |
 |------------------|---|
@@ -426,14 +426,14 @@ Grand Stairway B2F, Grand Stairway B3F
 |Dunsparce         |5  |
 
 180
-Grand Stairway B3F
+**Grand Stairway B3F**
 
 |Cave              |%  |
 |------------------|---|
 |Unown             |100|
 
 184, 185, 186
-Beryl Cave 1F, Beryl Cave B1F, Beryl Cave B2F
+**Beryl Cave 1F, Beryl Cave B1F, Beryl Cave B2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -447,7 +447,7 @@ Beryl Cave 1F, Beryl Cave B1F, Beryl Cave B2F
 |Vivillon          |1  |
 
 196, 634
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -461,7 +461,7 @@ Underground Railnet
 |Klang             |1  |
 
 198
-Yureyu Power Plant
+**Yureyu Power Plant**
 
 |Cave              |%  |
 |------------------|---|
@@ -473,7 +473,7 @@ Yureyu Power Plant
 |Klang             |1  |
 
 200
-Pyrous Mountain B2F - Sp.Atk EVs
+**Pyrous Mountain B2F - Sp.Atk EVs**
 
 |Cave              |%  |
 |------------------|---|
@@ -481,7 +481,7 @@ Pyrous Mountain B2F - Sp.Atk EVs
 |Numel             |50 |
 
 206
-Azurine Island
+**Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -510,7 +510,7 @@ Azurine Island
 |Exeggcute         |15 |
 
 209
-Byxbysion Wasteland
+**Byxbysion Wasteland**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -530,7 +530,7 @@ Byxbysion Wasteland
 |Graveler          |5  |Inkay             |10 |
 
 214, 216, 217, 219
-Byxbysion Grotto, Byxbysion Tunnels, Hidden Tunnel
+**Byxbysion Grotto, Byxbysion Tunnels, Hidden Tunnel**
 
 |Cave              |%  |
 |------------------|---|
@@ -543,7 +543,7 @@ Byxbysion Grotto, Byxbysion Tunnels, Hidden Tunnel
 |Golbat            |4  |
 
 215
-Byxbysion Tunnels
+**Byxbysion Tunnels**
 
 |Cave              |%  |
 |------------------|---|
@@ -557,7 +557,7 @@ Byxbysion Tunnels
 |Nidorino          |5  |
 
 228
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -572,7 +572,7 @@ Underground Railnet
 |Klang             |1  |
 
 229
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |Headbutt          |%  |
 |------------------|---|------------------|---|
@@ -587,7 +587,7 @@ Underground Railnet
 |Klang             |1  |                  |   |
 
 231
-Tanzan Mountain
+**Tanzan Mountain**
 
 |Cave              |%  |
 |------------------|---|
@@ -599,7 +599,7 @@ Tanzan Mountain
 |Sandile           |6  |
 
 232
-Tanzan Cove
+**Tanzan Cove**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -628,7 +628,7 @@ Tanzan Cove
 |Swanna            |4  |
 
 234
-Chrysolia Forest
+**Chrysolia Forest**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -650,7 +650,7 @@ Chrysolia Forest
 |Pineco            |10 |
 
 238
-Chrysolia Spring 1F
+**Chrysolia Spring 1F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -675,7 +675,7 @@ Chrysolia Spring 1F
 |Camerupt          |1  |                  |   |
 
 247, 258, 259, 261, 262, 263, 264
-Tanzan Depths
+**Tanzan Depths**
 
 |Cave              |%  |
 |------------------|---|
@@ -690,7 +690,7 @@ Tanzan Depths
 |Durant            |5  |
 
 251
-Lost Railcave
+**Lost Railcave**
 
 |Cave              |%  |
 |------------------|---|
@@ -703,7 +703,7 @@ Lost Railcave
 |Smeargle          |6  |
 
 260
-Tanzan Depths
+**Tanzan Depths**
 
 |Cave              |%  |
 |------------------|---|
@@ -719,7 +719,7 @@ Tanzan Depths
 |Hippowdon         |1  |
 
 269
-Obsidia Park
+**Obsidia Park**
 
 |Land              |%  |
 |------------------|---|
@@ -733,14 +733,14 @@ Obsidia Park
 |Bonsly            |5  |
 
 280
-Wasteland Wall
+**Wasteland Wall**
 
 |Land              |%  |
 |------------------|---|
 |Mew               |100|
 
 281
-Yureyu Power Plant
+**Yureyu Power Plant**
 
 |Cave              |%  |
 |------------------|---|
@@ -756,7 +756,7 @@ Yureyu Power Plant
 |Klinklang         |1  |
 
 282, 283, 284
-South Aventurine Woods
+**South Aventurine Woods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -781,7 +781,7 @@ South Aventurine Woods
 |Mothim            |4  |Wormadam          |4  |
 
 285, 286, 287, 290, 291
-Route 1
+**Route 1**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -799,7 +799,7 @@ Route 1
 |Mudsdale          |1  |Mudsdale          |1  |                  |   |
 
 288
-North Aventurine Woods
+**North Aventurine Woods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -824,7 +824,7 @@ North Aventurine Woods
 |Mothim            |4  |Wormadam          |4  |
 
 289
-North Aventurine Woods
+**North Aventurine Woods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -854,7 +854,7 @@ North Aventurine Woods
 |Mothim            |4  |Wormadam          |4  |
 
 292
-Vanhanen Labyrinth
+**Vanhanen Labyrinth**
 
 |Land              |%  |
 |------------------|---|
@@ -867,7 +867,7 @@ Vanhanen Labyrinth
 |Furfrou           |2  |
 
 305
-Citae Astrae
+**Citae Astrae**
 
 |Land              |%  |
 |------------------|---|
@@ -879,7 +879,7 @@ Citae Astrae
 |Hypno             |1  |
 
 306
-Citae Astrae
+**Citae Astrae**
 
 |Cave              |%  |
 |------------------|---|
@@ -889,7 +889,7 @@ Citae Astrae
 |Sigilyph          |6  |
 
 320
-Slums Playground
+**Slums Playground**
 
 |Cave              |%  |
 |------------------|---|
@@ -900,7 +900,7 @@ Slums Playground
 |Primeape          |2  |
 
 321
-Slums Playground
+**Slums Playground**
 
 |Cave              |%  |
 |------------------|---|
@@ -912,7 +912,7 @@ Slums Playground
 |Primeape          |2  |
 
 333, 334, 335
-Iolia Valley
+**Iolia Valley**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -940,7 +940,7 @@ Iolia Valley
 |Seaking           |6  |
 
 340, 341, 342, 343, 344, 346, 347, 348, 349
-Iolia Valley
+**Iolia Valley**
 
 |Cave              |%  |
 |------------------|---|
@@ -952,7 +952,7 @@ Iolia Valley
 |Bronzong          |1  |
 
 358, 360
-Route 2
+**Route 2**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -969,7 +969,7 @@ Route 2
 |                  |   |Absol             |1  |                  |   |
 
 359
-Celestinine Cascade
+**Celestinine Cascade**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1000,7 +1000,7 @@ Celestinine Cascade
 |Wishiwashi        |6  |
 
 361, 404
-Route 3
+**Route 3**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1017,7 +1017,7 @@ Route 3
 |                  |   |Absol             |1  |                  |   |
 
 364, 366, 373, 374, 375, 390
-Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mountain 4F, Ametrine Mountain 5F
+**Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mountain 4F, Ametrine Mountain 5F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1041,7 +1041,7 @@ Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mount
 |Snorunt           |4  |                  |   |
 
 371, 615, 616, 618
-Tanzan Depths, Tanzan Mountain
+**Tanzan Depths, Tanzan Mountain**
 
 |Cave              |%  |
 |------------------|---|
@@ -1058,7 +1058,7 @@ Tanzan Depths, Tanzan Mountain
 |Excadrill         |1  |
 
 372
-Celestinine Cascade
+**Celestinine Cascade**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1074,7 +1074,7 @@ Celestinine Cascade
 |                  |   |Rhydon            |4  |                  |   |
 
 376, 377, 378
-Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F
+**Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1097,7 +1097,7 @@ Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F
 |Snorunt           |4  |                  |   |
 
 379
-Ametrine Mountain B4F
+**Ametrine Mountain B4F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1120,7 +1120,7 @@ Ametrine Mountain B4F
 |Snorunt           |4  |                  |   |
 
 380, 384, 385, 430
-Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain 3F
+**Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain 3F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1143,7 +1143,7 @@ Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain 3F
 |Delibird          |1  |                  |   |
 
 381, 383
-Citrine Mountain 1F, Citrine Mountain 3F
+**Citrine Mountain 1F, Citrine Mountain 3F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1166,7 +1166,7 @@ Citrine Mountain 1F, Citrine Mountain 3F
 |Sandslash         |1  |                  |   |
 
 382
-Citrine Mountain 2F
+**Citrine Mountain 2F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1187,7 +1187,7 @@ Citrine Mountain 2F
 |Beartic           |1  |                  |   |
 
 386, 387, 433, 434
-Celestinine Mountain B1F, Celestinine Mountain B2F
+**Celestinine Mountain B1F, Celestinine Mountain B2F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1209,7 +1209,7 @@ Celestinine Mountain B1F, Celestinine Mountain B2F
 |Delibird          |1  |                  |   |
 
 389, 391, 392, 393, 394, 395, 397, 398, 399, 401, 403, 431
-Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F, Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F
+**Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F, Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F**
 
 |Land              |%  |
 |------------------|---|
@@ -1219,7 +1219,7 @@ Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B1F, Ametrine Moun
 |Relicanth         |10 |
 
 396
-Celestinine Mountain 4F
+**Celestinine Mountain 4F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1241,7 +1241,7 @@ Celestinine Mountain 4F
 |Delibird          |1  |                  |   |
 
 400, 402, 435, 436
-Ametrine Mountain B2F, Celestinine Mountain B2F
+**Ametrine Mountain B2F, Celestinine Mountain B2F**
 
 |Land              |%  |
 |------------------|---|
@@ -1252,7 +1252,7 @@ Ametrine Mountain B2F, Celestinine Mountain B2F
 |Relicanth         |6  |
 
 405, 409, 410, 411
-Route 3
+**Route 3**
 
 |Cave              |%  |
 |------------------|---|
@@ -1266,7 +1266,7 @@ Route 3
 |Magneton          |5  |
 
 412
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1290,7 +1290,7 @@ Route 4
 |                  |   |                  |   |Slowpoke          |5  |
 
 439
-Ametrine City
+**Ametrine City**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1307,7 +1307,7 @@ Ametrine City
 |                  |   |Absol             |1  |                  |   |
 
 440, 441, 442
-Ametrine Mountain 6F, Ametrine Mountain 7F, Ametrine Mountain 8F
+**Ametrine Mountain 6F, Ametrine Mountain 7F, Ametrine Mountain 8F**
 
 |Cave              |%  |
 |------------------|---|
@@ -1323,7 +1323,7 @@ Ametrine Mountain 6F, Ametrine Mountain 7F, Ametrine Mountain 8F
 |Snorunt           |4  |
 
 445
-Mt Moon
+**Mt Moon**
 
 |Cave              |%  |
 |------------------|---|
@@ -1333,7 +1333,7 @@ Mt Moon
 |Clefairy          |1  |
 
 447
-Opal Ward
+**Opal Ward**
 
 |Land              |%  |
 |------------------|---|
@@ -1345,7 +1345,7 @@ Opal Ward
 |Ekans             |5  |
 
 450
-Byxbysion Wasteland
+**Byxbysion Wasteland**
 
 |Land              |%  |
 |------------------|---|
@@ -1362,14 +1362,14 @@ Byxbysion Wasteland
 |Hypno             |1  |
 
 452
-Citae Astrae
+**Citae Astrae**
 
 |Land              |%  |
 |------------------|---|
 |Porygon           |100|
 
 453
-Victory Road
+**Victory Road**
 
 |Cave              |%  |
 |------------------|---|
@@ -1383,7 +1383,7 @@ Victory Road
 |Graveler          |1  |
 
 455
-Cerulean Cave
+**Cerulean Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -1398,7 +1398,7 @@ Cerulean Cave
 |Raichu            |5  |
 
 465
-Chrysolia Forest
+**Chrysolia Forest**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1410,7 +1410,7 @@ Chrysolia Forest
 |Altaria           |5  |                  |   |                  |   |
 
 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505
-Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Grid, Lapis Water Grid, North Obsidia Water Grid, Onyx Water Grid, Opal Water Grid, Peridot Water Grid, Water Treatment Center
+**Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Grid, Lapis Water Grid, North Obsidia Water Grid, Onyx Water Grid, Opal Water Grid, Peridot Water Grid, Water Treatment Center**
 
 |Land              |%  |
 |------------------|---|
@@ -1434,14 +1434,14 @@ Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Gri
 |Swalot            |1  |
 
 507
-Iolia Valley
+**Iolia Valley**
 
 |Cave              |%  |
 |------------------|---|
 |Sableye           |100|
 
 513, 536, 538, 562, 564
-Apophyll Academy, Apophyll Beach, Azurine Lake, Opal Ward
+**Apophyll Academy, Apophyll Beach, Azurine Lake, Opal Ward**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1460,7 +1460,7 @@ Apophyll Academy, Apophyll Beach, Azurine Lake, Opal Ward
 |Mantine           |1  |
 
 519
-Opal Ward
+**Opal Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -1494,7 +1494,7 @@ Opal Ward
 |                  |   |Vespiquen         |1  |
 
 520
-Obsidia Ward
+**Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1511,7 +1511,7 @@ Obsidia Ward
 |Vigoroth          |2  |                  |   |Venomoth          |2  |
 
 522, 530
-Lower Peridot Ward, Peridot Ward
+**Lower Peridot Ward, Peridot Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1543,7 +1543,7 @@ Lower Peridot Ward, Peridot Ward
 |Mantine           |1  |Mothim            |1  |Wormadam          |1  |
 
 523
-Jasper Ward
+**Jasper Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1561,7 +1561,7 @@ Jasper Ward
 |Ampharos          |1  |Ampharos          |1  |                  |   |
 
 524
-Lapis Ward
+**Lapis Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1579,7 +1579,7 @@ Lapis Ward
 |                  |   |Meowstic          |1  |Meowstic          |1  |
 
 525
-Beryl Ward
+**Beryl Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -1604,7 +1604,7 @@ Beryl Ward
 |Ambipom           |5  |Ambipom           |5  |
 
 526
-Coral Ward
+**Coral Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1638,7 +1638,7 @@ Coral Ward
 |Mantine           |1  |
 
 527
-North Obsidia Ward
+**North Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1655,7 +1655,7 @@ North Obsidia Ward
 |Vigoroth          |2  |                  |   |Venomoth          |2  |
 
 528
-South Obsidia Ward
+**South Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1688,7 +1688,7 @@ South Obsidia Ward
 |Mantine           |1  |
 
 529
-North Obsidia Alleyway
+**North Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -1704,7 +1704,7 @@ North Obsidia Alleyway
 |Houndoom          |2  |
 
 531
-South Peridot Alley
+**South Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -1720,7 +1720,7 @@ South Peridot Alley
 |Manectric         |2  |
 
 532
-North Peridot Alley
+**North Peridot Alley**
 
 |Cave              |%  |
 |------------------|---|
@@ -1736,7 +1736,7 @@ North Peridot Alley
 |Manectric         |2  |
 
 533
-Malchous Forest Park
+**Malchous Forest Park**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1754,7 +1754,7 @@ Malchous Forest Park
 |Ampharos          |1  |Ampharos          |1  |                  |   |
 
 544
-Beryl Ward
+**Beryl Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -1779,7 +1779,7 @@ Beryl Ward
 |Ambipom           |5  |Ambipom           |5  |
 
 545, 546
-Chrysolia Spring B1F, Chrysolia Spring Sauna
+**Chrysolia Spring B1F, Chrysolia Spring Sauna**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1805,7 +1805,7 @@ Chrysolia Spring B1F, Chrysolia Spring Sauna
 |Camerupt          |1  |                  |   |
 
 547, 553, 556, 558, 574
-Azurine Lake
+**Azurine Lake**
 
 |Land              |%  |
 |------------------|---|
@@ -1822,7 +1822,7 @@ Azurine Lake
 |Dragalge          |1  |
 
 550
-REMOVED
+**REMOVED**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1840,7 +1840,7 @@ REMOVED
 |                  |   |Tangrowth         |1  |                  |   |
 
 551
-Beryl Ward
+**Beryl Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -1865,7 +1865,7 @@ Beryl Ward
 |Ambipom           |5  |Ambipom           |5  |
 
 552
-Beryl Cemetery
+**Beryl Cemetery**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1892,7 +1892,7 @@ Beryl Cemetery
 |Ambipom           |5  |Ambipom           |5  |
 
 563, 568
-Apophyll Beach, Pyrous Mountain
+**Apophyll Beach, Pyrous Mountain**
 
 |Rock Smash        |%  |
 |------------------|---|
@@ -1903,7 +1903,7 @@ Apophyll Beach, Pyrous Mountain
 |Barbaracle        |1  |
 
 565, 566, 567
-Apophyll Beach
+**Apophyll Beach**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1922,7 +1922,7 @@ Apophyll Beach
 |                  |   |Mantine           |1  |Barbaracle        |1  |
 
 569
-Azurine Island
+**Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -1957,7 +1957,7 @@ Azurine Island
 |                  |   |Forretress        |5  |
 
 570
-Obsidia Alleyway
+**Obsidia Alleyway**
 
 |Cave              |%  |
 |------------------|---|
@@ -1973,7 +1973,7 @@ Obsidia Alleyway
 |Pyroar            |2  |
 
 573
-Onyx Ward
+**Onyx Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
@@ -1990,7 +1990,7 @@ Onyx Ward
 |Unfezant          |1  |                  |   |
 
 575, 576, 577, 578, 579, 608
-Azurine Lake, Coral Ward
+**Azurine Lake, Coral Ward**
 
 |Cave              |%  |
 |------------------|---|
@@ -2005,7 +2005,7 @@ Azurine Lake, Coral Ward
 |Golisopod         |1  |
 
 585
-South Obsidia Ward
+**South Obsidia Ward**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2034,7 +2034,7 @@ South Obsidia Ward
 |Mantine           |1  |
 
 586
-Azurine Island
+**Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2069,7 +2069,7 @@ Azurine Island
 |                  |   |Forretress        |5  |
 
 603, 604
-Azurine Cave
+**Azurine Cave**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2093,7 +2093,7 @@ Azurine Cave
 |Noivern           |1  |                  |   |
 
 605
-Azurine Cave
+**Azurine Cave**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2117,7 +2117,7 @@ Azurine Cave
 |Noivern           |1  |                  |   |
 
 607
-Tanzan Cove
+**Tanzan Cove**
 
 |Land              |%  |
 |------------------|---|
@@ -2131,7 +2131,7 @@ Tanzan Cove
 |Luvdisc           |4  |
 
 610
-Coral Lighthouse
+**Coral Lighthouse**
 
 |Cave              |%  |
 |------------------|---|
@@ -2147,7 +2147,7 @@ Coral Lighthouse
 |Golisopod         |1  |
 
 614
-Tanzan Depths
+**Tanzan Depths**
 
 |Cave              |%  |
 |------------------|---|
@@ -2161,7 +2161,7 @@ Tanzan Depths
 |Excadrill         |1  |
 
 638, 639, 640, 641, 644, 647, 648, 650
-Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F
+**Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2178,7 +2178,7 @@ Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F
 |Aggron            |1  |
 
 642, 643, 646
-Teknite Ridge
+**Teknite Ridge**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2195,7 +2195,7 @@ Teknite Ridge
 |                  |   |Gliscor           |1  |                  |   |
 
 645
-Teknite Cave 3-4F
+**Teknite Cave 3-4F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2218,7 +2218,7 @@ Teknite Cave 3-4F
 |Aggron            |1  |                  |   |
 
 649
-Teknite Cave 3-4F
+**Teknite Cave 3-4F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2240,7 +2240,7 @@ Teknite Cave 3-4F
 |Aggron            |1  |                  |   |
 
 651, 652, 653, 654, 655, 656, 657, 658, 659
-Sugiline Cave, Sugiline Cave B1F
+**Sugiline Cave, Sugiline Cave B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2258,7 +2258,7 @@ Sugiline Cave, Sugiline Cave B1F
 |Cacturne          |1  |
 
 661, 662
-Sugiline Ruin, Sugiline Ruin B1F
+**Sugiline Ruin, Sugiline Ruin B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2274,7 +2274,7 @@ Sugiline Ruin, Sugiline Ruin B1F
 |Gigalith          |1  |
 
 663
-1R253 Scrapyard
+**1R253 Scrapyard**
 
 |Cave              |%  |Rock Smash        |%  |
 |------------------|---|------------------|---|
@@ -2292,7 +2292,7 @@ Sugiline Ruin, Sugiline Ruin B1F
 |Aggron            |1  |                  |   |
 
 669
-Mirage Tower B1F
+**Mirage Tower B1F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2306,7 +2306,7 @@ Mirage Tower B1F
 |Excadrill         |1  |
 
 675, 861
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2330,7 +2330,7 @@ Tourmaline Desert
 |Skarmory          |1  |                  |   |
 
 687
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Cave              |%  |
 |------------------|---|
@@ -2348,7 +2348,7 @@ Tourmaline Desert
 |Gliscor           |1  |
 
 688
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2372,7 +2372,7 @@ Tourmaline Desert
 |Flygon            |1  |                  |   |
 
 692
-1R253 Scrapyard
+**1R253 Scrapyard**
 
 |Cave              |%  |
 |------------------|---|
@@ -2390,7 +2390,7 @@ Tourmaline Desert
 |Aggron            |1  |
 
 694
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2414,7 +2414,7 @@ Tourmaline Desert
 |Scrafty           |1  |                  |   |
 
 695
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2437,7 +2437,7 @@ Tourmaline Desert
 |Drapion           |1  |
 
 696
-Once Upon a Somewhere
+**Once Upon a Somewhere**
 
 |Land              |%  |
 |------------------|---|
@@ -2455,7 +2455,7 @@ Once Upon a Somewhere
 |Florges           |1  |
 
 697, 700
-Once Upon a Somewhere, Once Upon a Waste of Time
+**Once Upon a Somewhere, Once Upon a Waste of Time**
 
 |Land              |%  |
 |------------------|---|
@@ -2481,7 +2481,7 @@ Once Upon a Somewhere, Once Upon a Waste of Time
 |Ferrothorn        |5  |
 
 703
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2505,7 +2505,7 @@ Tourmaline Desert
 |Scrafty           |1  |                  |   |
 
 704
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2529,7 +2529,7 @@ Tourmaline Desert
 |Scrafty           |1  |                  |   |
 
 705
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Super Rod         |%  |
 |------------------|---|
@@ -2553,7 +2553,7 @@ Tourmaline Desert
 |Scrafty           |1  |                  |   |
 
 710, 711, 714
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2580,7 +2580,7 @@ Route 4
 |Ambipom           |5  |
 
 712, 719, 722, 724, 728
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2598,7 +2598,7 @@ Route 4
 |                  |   |Absol             |1  |Absol             |1  |
 
 713, 715
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2632,7 +2632,7 @@ Route 4
 |                  |   |Ambipom           |5  |
 
 716
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2662,7 +2662,7 @@ Route 4
 |                  |   |Ambipom           |5  |
 
 717, 720
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2680,7 +2680,7 @@ Route 4
 |                  |   |Absol             |1  |Absol             |1  |
 
 718
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2712,7 +2712,7 @@ Route 4
 |Seaking           |4  |
 
 721, 723, 725, 727, 729
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2730,7 +2730,7 @@ Route 4
 |                  |   |Absol             |1  |Absol             |1  |
 
 726
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2762,7 +2762,7 @@ Route 4
 |Seaking           |4  |
 
 741
-Agate City
+**Agate City**
 
 |Land              |%  |
 |------------------|---|
@@ -2778,7 +2778,7 @@ Agate City
 |Kingdra           |1  |
 
 742
-Route 4
+**Route 4**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2810,7 +2810,7 @@ Route 4
 |Seaking           |4  |
 
 744
-Teknite Ridge
+**Teknite Ridge**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2826,7 +2826,7 @@ Teknite Ridge
 |Gliscor           |1  |                  |   |                  |   |
 
 745, 746
-Teknite Cave
+**Teknite Cave**
 
 |Cave              |%  |
 |------------------|---|
@@ -2842,7 +2842,7 @@ Teknite Cave
 |Aggron            |1  |
 
 749
-Charous Mountain B2F
+**Charous Mountain B2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2857,7 +2857,7 @@ Charous Mountain B2F
 |Absol             |1  |
 
 750
-Charous Mountain B2F
+**Charous Mountain B2F**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2880,7 +2880,7 @@ Charous Mountain B2F
 |Absol             |1  |                  |   |
 
 760
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -2895,7 +2895,7 @@ Underground Railnet
 |Klinklang         |1  |
 
 762
-Underground Railnet
+**Underground Railnet**
 
 |Cave              |%  |
 |------------------|---|
@@ -2909,7 +2909,7 @@ Underground Railnet
 |Klang             |1  |
 
 763
-Agate City
+**Agate City**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -2926,7 +2926,7 @@ Agate City
 |Seaking           |4  |
 
 783, 812, 813
-Victory Road
+**Victory Road**
 
 |Cave              |%  |
 |------------------|---|
@@ -2944,7 +2944,7 @@ Victory Road
 |Absol             |1  |
 
 786, 790, 791, 811
-Victory Road B1F, Victory Road B2F
+**Victory Road B1F, Victory Road B2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2962,7 +2962,7 @@ Victory Road B1F, Victory Road B2F
 |Steelix           |1  |
 
 788, 792
-Charous Mountain, Victory Road 2F
+**Charous Mountain, Victory Road 2F**
 
 |Cave              |%  |
 |------------------|---|
@@ -2980,7 +2980,7 @@ Charous Mountain, Victory Road 2F
 |Alakazam          |1  |
 
 794
-Charous Path
+**Charous Path**
 
 |Land              |%  |
 |------------------|---|
@@ -2998,7 +2998,7 @@ Charous Path
 |Absol             |1  |
 
 796, 798
-Victory Road
+**Victory Road**
 
 |Cave              |%  |
 |------------------|---|
@@ -3016,7 +3016,7 @@ Victory Road
 |Snorlax           |1  |
 
 797
-Victory Road
+**Victory Road**
 
 |Cave              |%  |
 |------------------|---|
@@ -3034,7 +3034,7 @@ Victory Road
 |Snorlax           |1  |
 
 799
-Victory Road B3F
+**Victory Road B3F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3052,7 +3052,7 @@ Victory Road B3F
 |Steelix           |1  |
 
 800
-Victory Road B3F
+**Victory Road B3F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3070,7 +3070,7 @@ Victory Road B3F
 |Steelix           |1  |
 
 801
-Victory Road B3F
+**Victory Road B3F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3088,7 +3088,7 @@ Victory Road B3F
 |Steelix           |1  |
 
 802
-Victory Road B3F
+**Victory Road B3F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3106,7 +3106,7 @@ Victory Road B3F
 |Steelix           |1  |
 
 803, 807
-Victory Road B4F, Victory Road B5F
+**Victory Road B4F, Victory Road B5F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3124,7 +3124,7 @@ Victory Road B4F, Victory Road B5F
 |Gallade           |1  |
 
 804, 808
-Victory Road B4F, Victory Road B5F
+**Victory Road B4F, Victory Road B5F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3142,7 +3142,7 @@ Victory Road B4F, Victory Road B5F
 |Armaldo           |1  |
 
 809
-Victory Road B5F
+**Victory Road B5F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3160,7 +3160,7 @@ Victory Road B5F
 |Electivire        |1  |
 
 810
-Victory Road B5F
+**Victory Road B5F**
 
 |Cave              |%  |
 |------------------|---|
@@ -3178,7 +3178,7 @@ Victory Road B5F
 |Houndoom          |1  |
 
 831
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3196,7 +3196,7 @@ New World
 |Gardevoir         |1  |
 
 825
-New World - Regis
+**New World - Regis**
 
 |Land              |%  |
 |------------------|---|
@@ -3214,14 +3214,14 @@ New World - Regis
 |Muk               |1  |
 
 833
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
 |Unown             |100|
 
 834
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3255,7 +3255,7 @@ New World
 |Magikarp          |1  |
 
 835
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3273,7 +3273,7 @@ New World
 |Ferrothorn        |1  |
 
 836, 837
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3291,7 +3291,7 @@ New World
 |Flygon            |1  |
 
 838
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3309,7 +3309,7 @@ New World
 |Guzzlord          |1  |
 
 839
-New World
+**New World**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3325,7 +3325,7 @@ New World
 |Tentacruel        |1  |
 
 840
-Chrysolia Deepwoods
+**Chrysolia Deepwoods**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3343,7 +3343,7 @@ Chrysolia Deepwoods
 |Meganium          |1  |Victreebel        |1  |Smeargle          |1  |
 
 841
-Twilight Desert
+**Twilight Desert**
 
 |Cave              |%  |
 |------------------|---|
@@ -3361,7 +3361,7 @@ Twilight Desert
 |Umbreon           |1  |
 
 844
-Vacant Past
+**Vacant Past**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3370,7 +3370,7 @@ Vacant Past
 |                  |   |                  |   |Feebas            |1  |
 
 847
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3388,7 +3388,7 @@ New World
 |Nihilego          |1  |
 
 848
-Manyworld Forest
+**Manyworld Forest**
 
 |Land              |%  |
 |------------------|---|
@@ -3418,7 +3418,7 @@ Manyworld Forest
 |Relicanth         |100|
 
 849
-Aegir Cave
+**Aegir Cave**
 
 |Land              |%  |
 |------------------|---|
@@ -3440,7 +3440,7 @@ Aegir Cave
 |Wurmple           |100|
 
 850
-Aegir Cave
+**Aegir Cave**
 
 |Land              |%  |
 |------------------|---|
@@ -3470,7 +3470,7 @@ Aegir Cave
 |Masquerain        |5  |                  |   |
 
 851
-Aegir Cave
+**Aegir Cave**
 
 |Land              |%  |
 |------------------|---|
@@ -3481,7 +3481,7 @@ Aegir Cave
 |Relicanth         |12 |
 
 852
-New World - Victini
+**New World - Victini**
 
 |Land              |%  |
 |------------------|---|
@@ -3499,7 +3499,7 @@ New World - Victini
 |Beheeyem          |1  |
 
 856
-Unexplored Territory
+**Unexplored Territory**
 
 |Land              |%  |
 |------------------|---|
@@ -3513,7 +3513,7 @@ Unexplored Territory
 |Vaporeon          |5  |
 
 857
-Unexplored Territory
+**Unexplored Territory**
 
 |Land              |%  |
 |------------------|---|
@@ -3544,7 +3544,7 @@ Unexplored Territory
 |Lapras            |5  |
 
 859
-Unexplored Territory
+**Unexplored Territory**
 
 |Land              |%  |
 |------------------|---|
@@ -3562,7 +3562,7 @@ Unexplored Territory
 |Kabutops          |1  |
 
 860
-Aegir Cave Depths
+**Aegir Cave Depths**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3586,7 +3586,7 @@ Aegir Cave Depths
 |Araquanid         |1  |                  |   |
 
 862
-Splash Grounds
+**Splash Grounds**
 
 |Cave              |%  |
 |------------------|---|
@@ -3604,7 +3604,7 @@ Splash Grounds
 |Kingdra           |1  |
 
 863
-Tourmaline Desert
+**Tourmaline Desert**
 
 |Land              |%  |
 |------------------|---|
@@ -3617,7 +3617,7 @@ Tourmaline Desert
 |Phione            |10 |
 
 866
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3631,7 +3631,7 @@ New World
 |Honchkrow         |5  |
 
 869
-Manyworld Pool
+**Manyworld Pool**
 
 |Land              |%  |
 |------------------|---|
@@ -3649,7 +3649,7 @@ Manyworld Pool
 |Croconaw          |1  |
 
 870
-Ametrine Core
+**Ametrine Core**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3674,7 +3674,7 @@ Ametrine Core
 |Froslass          |1  |                  |   |
 
 872
-Ametrine Core
+**Ametrine Core**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3699,7 +3699,7 @@ Ametrine Core
 |Spiritomb         |1  |                  |   |
 
 873
-Ametrine Core
+**Ametrine Core**
 
 |Cave              |%  |
 |------------------|---|
@@ -3716,7 +3716,7 @@ Ametrine Core
 |Charizard         |1  |
 
 875
-Chrysolia Deepwoods
+**Chrysolia Deepwoods**
 
 |Cave              |%  |
 |------------------|---|
@@ -3734,7 +3734,7 @@ Chrysolia Deepwoods
 |Toucannon         |1  |
 
 876
-Cauldron of the Future
+**Cauldron of the Future**
 
 |Land              |%  |
 |------------------|---|
@@ -3755,7 +3755,7 @@ Cauldron of the Future
 |Cosmog            |100|
 
 878
-Idyll of Pestilence
+**Idyll of Pestilence**
 
 |Land              |%  |
 |------------------|---|
@@ -3786,7 +3786,7 @@ Idyll of Pestilence
 |Tentacruel        |5  |
 
 879
-Idyll of Panaceance
+**Idyll of Panaceance**
 
 |Land              |%  |
 |------------------|---|
@@ -3817,7 +3817,7 @@ Idyll of Panaceance
 |Dewgong           |1  |
 
 881
-Mirage Tower?
+**Mirage Tower?**
 
 |Cave              |%  |
 |------------------|---|
@@ -3831,7 +3831,7 @@ Mirage Tower?
 |Excadrill         |1  |
 
 882
-Mirage Tower?
+**Mirage Tower?**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
@@ -3857,7 +3857,7 @@ Mirage Tower?
 |Floatzel          |1  |                  |   |
 
 883
-New World
+**New World**
 
 |Land              |%  |
 |------------------|---|
@@ -3888,7 +3888,7 @@ New World
 |Poliwrath         |4  |
 
 887
-New World Helix
+**New World Helix**
 
 |Land              |%  |
 |------------------|---|
@@ -3904,7 +3904,7 @@ New World Helix
 |Dewgong           |5  |
 
 889
-Rhodochrine Tree
+**Rhodochrine Tree**
 
 |Land              |%  |
 |------------------|---|
@@ -3927,7 +3927,7 @@ Rhodochrine Tree
 |                  |   |                  |   |Frogadier         |1  |
 
 894
-Endgame
+**Endgame**
 
 |Land              |%  |
 |------------------|---|
@@ -3944,7 +3944,7 @@ Endgame
 |Magnezone         |2  |
 
 895
-Neoteric Isle
+**Neoteric Isle**
 
 |Land              |%  |
 |------------------|---|
@@ -3978,7 +3978,7 @@ Neoteric Isle
 |Pidgeotto         |1  |
 
 896
-Citae Prisma
+**Citae Prisma**
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|

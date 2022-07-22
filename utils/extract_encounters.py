@@ -176,30 +176,6 @@ def process_mini_tables(mini_tables):
             finals.append(combine_tables(x))
     return finals
 
-def write_to_file():
-    text = read_me()
-    out = []
-    blocks = split_text_into_blocks(text)
-    for block in blocks:
-        data = get_data_from_block(block)
-        #print (data)
-        tables = get_markdown_tables(data)
-        #print (*tables)
-        out.append(data["area_code"])
-        out.append('\n')
-        out.append(data["area_name"])
-        out.append("\n\n")
-        #print (data["area_code"])
-        for thing in process_mini_tables(tables):
-            #print (thing)
-            out.append(thing)
-            out.append('\n\n')
-        #print (*process_mini_tables(tables), sep = '\n\n')
-        out.append("\n")
-    #print (*tables, sep='\n\n')
-    write_me(''.join(out))
-    print ("Done")
-
 def write_to_file_2():
     text = read_me()
     out = []
@@ -218,7 +194,7 @@ def write_to_file_2():
 
     for thing, l in s.items():
         codes = ', '.join([thing[0] for thing in l])
-        names = ', '.join(sorted(list(set([thing[1] for thing in l]))))
+        names = '**' + ', '.join(sorted(list(set([thing[1] for thing in l])))) + '**'
         out.append(codes)
         out.append('\n')
         out.append(names)
@@ -229,5 +205,4 @@ def write_to_file_2():
     write_me(''.join(out))
     print ("Done")
 
-#write_to_file()
 write_to_file_2()
