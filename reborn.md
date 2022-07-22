@@ -184,7 +184,7 @@ Heavy Work In Progress :)
     - [Climbin' in Tanzan Depths](#climbin-in-tanzan-depths)
     - [Climbin' in the Iolia Valley](#climbin-in-the-iolia-valley)
     - [Climbin' in the Mountains](#climbin-in-the-mountains)
-  - [Route 4](#route-4-1)
+  - [Upper Route 4](#upper-route-4)
   - [Glass Workstation](#glass-workstation)
   - [The Raid on Agate City](#the-raid-on-agate-city)
   - [Agate City & Sidequests](#agate-city--sidequests)
@@ -10631,7 +10631,7 @@ On this floor, you can also pick up the *Icium-Z* as well as a *Jolly Mint* and 
 
 That's all we can do in here, so escape the mountains however you please.
 
-## Route 4
+## Upper Route 4
 
 That wraps up all the optional rocks that we can climb, so fly on back to Calcenon and head east to where Hardy is on Route 4. Climb the rocks here.
 
