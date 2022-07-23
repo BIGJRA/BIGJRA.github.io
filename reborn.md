@@ -27,30 +27,30 @@ Heavy Work In Progress :)
   - [2 Badge Quests](#2-badge-quests)
   - [Jasper Ward & Malchous Forest Park](#jasper-ward--malchous-forest-park)
   - [Rhodochrine Jungle & The Underroot](#rhodochrine-jungle--the-underroot)
-    - [Choice: Trapped in a Cage](#choice-trapped-in-a-cage)
-    - [Choice: Snuck Around the Grunts](#choice-snuck-around-the-grunts)
+    - [Cage Trap Route](#cage-trap-route)
+    - [Snuck Around Route](#snuck-around-route)
     - [Exploring the Jungle](#exploring-the-jungle)
     - [Exploring the Underroot](#exploring-the-underroot)
     - [Finishing Up in the Jungle](#finishing-up-in-the-jungle)
   - [Beryl Ward & Beryl Cemetery](#beryl-ward--beryl-cemetery)
   - [VS. Agent Borealis](#vs-agent-borealis)
-    - [Choice: Didn't Save Police Officers in Time](#choice-didnt-save-police-officers-in-time)
-    - [Choice: Saved Police Officers](#choice-saved-police-officers)
+    - [Didn't Save Police Route](#didnt-save-police-route)
+    - [Saved Police Officers Route](#saved-police-officers-route)
 - [Episode 4: Aftershocks](#episode-4-aftershocks)
   - [The Mystery Egg and Other Quests](#the-mystery-egg-and-other-quests)
   - [North Obsidia Ward](#north-obsidia-ward)
   - [Lapis Ward](#lapis-ward)
   - [The Grand Stairway](#the-grand-stairway)
   - [Joining a Gang](#joining-a-gang)
-    - [Choice: The Magma Gang](#choice-the-magma-gang)
-    - [Choice: The Aqua Gang](#choice-the-aqua-gang)
+    - [The Magma Gang Route](#the-magma-gang-route)
+    - [The Aqua Gang Route](#the-aqua-gang-route)
     - [Getting the Bicycle and Zorua](#getting-the-bicycle-and-zorua)
   - [Cocoon Badge](#cocoon-badge)
 - [Episode 5: Escape! from Reborn City](#episode-5-escape-from-reborn-city)
   - [Lapis Ward Orphanage](#lapis-ward-orphanage)
   - [Defeating the Rival Gang](#defeating-the-rival-gang)
-    - [Choice: The Magma Gang 2](#choice-the-magma-gang-2)
-    - [Choice: The Aqua Gang 2](#choice-the-aqua-gang-2)
+    - [The Magma Gang Route Part 2](#the-magma-gang-route-part-2)
+    - [The Aqua Gang Route Part 2](#the-aqua-gang-route-part-2)
   - [Rock Smash Exploration](#rock-smash-exploration)
     - [Smashin' at the Stairway](#smashin-at-the-stairway)
     - [Smashin' at the Slums](#smashin-at-the-slums)
@@ -71,8 +71,8 @@ Heavy Work In Progress :)
 - [Episode 8: Of Fathers Forgotten](#episode-8-of-fathers-forgotten)
   - [Strength Exploration](#strength-exploration)
   - [Yureyu Building](#yureyu-building)
-    - [Choice: Fight Sigmund](#choice-fight-sigmund)
-    - [Choice: Don't Fight Sigmund](#choice-dont-fight-sigmund)
+    - [Fought Sigmund at Yureyu Route](#fought-sigmund-at-yureyu-route)
+    - [Didn't Fight Sigmund at Yureyu Route](#didnt-fight-sigmund-at-yureyu-route)
   - [Underground Railnet East](#underground-railnet-east)
   - [Tanzan Cove](#tanzan-cove)
   - [Chrysolia Forest](#chrysolia-forest)
@@ -82,8 +82,8 @@ Heavy Work In Progress :)
 - [Episode 9: Sister's Keeper](#episode-9-sisters-keeper)
   - [Two Herbal Extracts](#two-herbal-extracts)
   - [Defending Belrose Manse](#defending-belrose-manse)
-    - [Choice: Fought Sigmund at Yureyu](#choice-fought-sigmund-at-yureyu)
-    - [Choice: Didn't Fight Sigmund at Yureyu](#choice-didnt-fight-sigmund-at-yureyu)
+    - [Fought Sigmund at Yureyu Route Part 2](#fought-sigmund-at-yureyu-route-part-2)
+    - [Didn't Fight Sigmund at Yureyu Part 2](#didnt-fight-sigmund-at-yureyu-part-2)
   - [Tanzan Meteor Base](#tanzan-meteor-base)
   - [Tanzan Depths](#tanzan-depths)
   - [Standard Badge](#standard-badge)
@@ -99,8 +99,8 @@ Heavy Work In Progress :)
   - [Seventh Street](#seventh-street)
   - [Subseven Sanctum](#subseven-sanctum)
   - [A Cult and a Gang: Sidequests](#a-cult-and-a-gang-sidequests)
-    - [Choice: The Magma Gang 3](#choice-the-magma-gang-3)
-    - [Choice: The Aqua Gang 3](#choice-the-aqua-gang-3)
+    - [The Magma Gang Route Part 3](#the-magma-gang-route-part-3)
+    - [The Aqua Gang Route Part 3](#the-aqua-gang-route-part-3)
   - [Iolia Valley](#iolia-valley)
   - [Blast Powder and Crystal Key Goodies](#blast-powder-and-crystal-key-goodies)
   - [Eclipse Badge](#eclipse-badge)
@@ -119,13 +119,13 @@ Heavy Work In Progress :)
   - [11 Badge Quests](#11-badge-quests)
   - [Mountain Range Divin'](#mountain-range-divin)
   - [Ametrine City](#ametrine-city)
-    - [Choice: Refused Giving Up the Ruby Ring](#choice-refused-giving-up-the-ruby-ring)
+    - [Refused Blake Route: Aster Fight](#refused-blake-route-aster-fight)
     - [The Battle Atop Ametrine](#the-battle-atop-ametrine)
   - [Glitch City](#glitch-city)
 - [Episode 15: Cascade](#episode-15-cascade)
   - [Mountain Range Waterfallin'](#mountain-range-waterfallin)
   - [Water Treatment Center](#water-treatment-center)
-    - [Choice: Zekrom Route Taka Fight](#choice-zekrom-route-taka-fight)
+    - [Zekrom Route Taka Fight](#zekrom-route-taka-fight)
     - [Ace Fight](#ace-fight)
   - [Fiore Mansion Gauntlet](#fiore-mansion-gauntlet)
   - [Suspension Badge](#suspension-badge)
@@ -160,7 +160,7 @@ Heavy Work In Progress :)
   - [Gang Application Sidequest](#gang-application-sidequest)
   - [Starter Egg Quest Part 1](#starter-egg-quest-part-1)
   - [Tourmaline Desert](#tourmaline-desert)
-    - [Choice: Reshiram Route Taka Fight](#choice-reshiram-route-taka-fight)
+    - [Reshiram Route Taka Fight](#reshiram-route-taka-fight)
     - [Greater Tourmaline Desert](#greater-tourmaline-desert)
     - [Northwest Tourmaline Desert](#northwest-tourmaline-desert)
     - [Northeast Tourmaline Desert](#northeast-tourmaline-desert)
@@ -186,6 +186,9 @@ Heavy Work In Progress :)
     - [Climbin' in the Mountains](#climbin-in-the-mountains)
   - [Upper Route 4](#upper-route-4)
   - [Glass Workstation](#glass-workstation)
+    - [Gave Blake the Ring Route Aster Fight](#gave-blake-the-ring-route-aster-fight)
+    - [Finishing Up in the Workstation](#finishing-up-in-the-workstation)
+    - [The Glass Gauntlet](#the-glass-gauntlet)
   - [The Raid on Agate City](#the-raid-on-agate-city)
   - [Agate City & Sidequests](#agate-city--sidequests)
   - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
@@ -1630,7 +1633,7 @@ Grab a hidden *Exp. Candy XS* here, then head up and get a hidden *Rawst Berry* 
 
 The jungle is huge, so I explain the results of this choice first, guide both routes to the same location, then explore the jungle after this convergence. 
 
-### Choice: Trapped in a Cage
+### Cage Trap Route
 
 If you were trapped in a cage, read on, otherwise, jump to the next section.
 
@@ -1657,7 +1660,7 @@ Relationship Point Choices:
 
 Head east from here, and go slightly south once you reach a Meteor Grunt. Continue south until you hit a Gentleman, then go straight east and follow the path up the hill via stairs. The house here is a healing house, should you need it.
 
-### Choice: Snuck Around the Grunts
+### Snuck Around Route
 
 If you managed to carefully sneak around the grunts, read on, otherwise jump to the next section.
 
@@ -1837,9 +1840,9 @@ That about wraps up everything we can do for now, so head into the abandoned gym
 
 Head into the gym.
 
-### Choice: Didn't Save Police Officers in Time
+### Didn't Save Police Route
 
-If you didn't make this choice, skip ahead to the next subsection.
+If you saved the officers before fighting Ace, skip ahead to the next subsection.
 
 If you want to access Corey's bedroom, you can turn all the pillars red.
 
@@ -1881,7 +1884,7 @@ As you can probably tell from the Corrosive Field notes, you'll be worn down by 
 
 The key here is putting yourself in a position to be able to deal with Crobat. It's frail enough to die to one or two well placed super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at knocking out the fodder to open up Crobat for the rest of your team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison-type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
 
-### Choice: Saved Police Officers
+### Saved Police Officers Route
 
 If you didn't make this choice, skip ahead to the next section.
 
@@ -2289,7 +2292,7 @@ Before we do though we can start a sidequest.
 
 We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now. You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
 
-### Choice: The Magma Gang
+### The Magma Gang Route
 
 Skip to the next section if you chose the Aqua Gang.
  
@@ -2305,7 +2308,7 @@ We can now continue our ongoing stolen Pokemon quest as well. Just south of the 
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
 
-### Choice: The Aqua Gang
+### The Aqua Gang Route
 
 Skip to the next section if you chose the Magma Gang.
 
@@ -2527,7 +2530,7 @@ You can also find a hidden *Pecha Berry*, *Carbos*, *Purple Shard*, *Red Shard*,
 
 It's time to help out our friendly gang once more.
 
-### Choice: The Magma Gang 2
+### The Magma Gang Route Part 2
 
 If you joined Aqua last chapter, skip ahead to the next section.
 
@@ -2562,7 +2565,7 @@ Once you win, the Aqua Gang will retreat. We can actually now access the pond in
 
 Anyways, return to Maxwell at your alleyway to get **Houndour**. That's it with the Magma Gang for another few badges, however.
 
-### Choice: The Aqua Gang 2
+### The Aqua Gang Route Part 2
 
 If you joined Magma last chapter, skip ahead to the next section.
 
@@ -3735,7 +3738,7 @@ Relationship Point Choices:
 - Say Yes to Sigmund asking if you'll fight him (+1 Heather, -1 Sigmund)
 - Say No to Sigmund asking if you'll fight him (+1 Sigmund, -1 Heather, -1 Cain)
 
-### Choice: Fight Sigmund
+### Fought Sigmund at Yureyu Route
 
 If you said no to Sigmund, skip ahead to the next section.
 
@@ -3773,7 +3776,7 @@ If you said no to Sigmund, skip ahead to the next section.
 
 Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Factory field will boost the former and the Psychic Terrain the latter, so make sure you neutralize whatever the biggest threat of your two opponent is each turn and you'll probably win.
 
-### Choice: Don't Fight Sigmund
+### Didn't Fight Sigmund at Yureyu Route
 
 If you said yes to Sigmund, skip ahead to the next section.
 
@@ -4242,7 +4245,7 @@ Relationship Point Choices:
 
 The story will diverge a little bit depending on what our choice was at Yureyu. This section gets a bit hairy since there are FOUR different story splits. Let me know if you have suggestions or spot discrepancies since I cannot play all four routes at once.
 
-### Choice: Fought Sigmund at Yureyu
+### Fought Sigmund at Yureyu Route Part 2
 
 If you didn't fight Sigmund at Yureyu and instead fought Sirius, skip ahead to the next section.
 
@@ -4292,7 +4295,7 @@ If you chose to stay downstairs the Twins will be captured. Talk to the group in
 
 If you go upstairs, this results in Laura being captured. Talk to Saphira downstairs. 
 
-### Choice: Didn't Fight Sigmund at Yureyu
+### Didn't Fight Sigmund at Yureyu Part 2
 
 If you fought Sigmund at Yureyu, skip ahead to the next section.
 
@@ -5218,7 +5221,7 @@ Back outside, if you haven't already seen the scene, walk south from the psychol
 
 If this was a normal Pokemon game, this fight would be pretty hard relative to the others. However this is Pokemon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokemon - should be nothing for you at this point. You can exploit Slaking's Truant with Protect to set up or something if you need to.
 
-### Choice: The Magma Gang 3
+### The Magma Gang Route Part 3
 
 As usual, if you are in the Aqua Gang, skip ahead to the next section.
 
@@ -5257,7 +5260,7 @@ For winning, you'll get *TM18 Rain Dance*.
 
 You'll also notice that since Maxwell is gone from the North Obsidia Ward, you can now grab the hidden *X Attack* behind him and get another Houndour.
 
-### Choice: The Aqua Gang 3
+### The Aqua Gang Route Part 3
 
 As usual, if you are in the Magma Gang, skip ahead to the next section.
 
@@ -6458,7 +6461,7 @@ It can sweep you if you're not prepared, but you can handle this surely. Once yo
 
 Head into the cave entrance back on the main path.
 
-### Choice: Refused Giving Up the Ruby Ring
+### Refused Blake Route: Aster Fight
 
 If you gave Blake the ring, skip ahead to the next section. 
 
@@ -6910,7 +6913,7 @@ Relationship Point Choices:
 - Fight Taka (+2 Taka, +1 Ace, -1 Titania)
 - Don't Fight Taka (+1 Anna, +1 Shade, -1 Ace, -2 Taka)
 
-### Choice: Zekrom Route Taka Fight
+### Zekrom Route Taka Fight
 
 If you're on the Reshiram route, skip ahead to the next section.
 
@@ -9341,7 +9344,7 @@ If you have the incubator, doing this breeding shouldn't take too much time, so 
 
 Make your way to the train station in Lower Peridot Ward, and take the train out to the Tourmaline Desert.
 
-### Choice: Reshiram Route Taka Fight
+### Reshiram Route Taka Fight
 
 If you already fought Taka at the WTC, skip ahead to the next section. 
 
@@ -10903,7 +10906,124 @@ Up and to the right, you'll see a now-accessible ladder, and Absol. Don't we lov
 
 ## Glass Workstation
 
-Stub
+Talk to Hardy, then follow him into the elevator. Talk to Bennett.
+
+Relationship Point Choices:
+- Say "To be stronger than anyone" (-1 Bennett)
+- Say "To win Luna" (Neutral)
+- Say "To make things different" (+2 Bennett)
+- Say that you don't remember (+1 Bennett)
+
+Once you wake up, climb up the ladder, and go left into the opening. Follow Glaceon down the path. You'll see one of its abilities: to bridge short gaps on the upper floor with its ice. Jump down to the bottom floor. There's a door towards the bottom here which contains a healing machine and PC.
+
+This building is basically a big puzzle. Feel free to skip ahead if you'd rather solve it yourself.
+
+Talk to Glaceon again to see another of its abilities: creating a path over lava. Confront the Meteor Grunt at the top, and he will run away. Thankfully there is another way in: down and to the left, you'll see a glass window! By now hopefully we should know what to do when we see glass.
+
+Defeat the Team Meteor Grunt, and talk to the monitor in the corner to open the door. Glaceon will start to follow you. You can talk to it to heal status conditions on your team members for free. You can also choose whether to pet Glaceon or not, for the quest but also for points and a different battle later on. Pretty intense choice, I know.
+
+Relationship Point Choices:
+- Pet Glaceon (+2 Lumi)
+- Don't pet Glaceon (-3 Lumi)
+
+Exit this room and make your way left. Use Glaceon's ability on the lava in both places, then make your way to the left. Glaceon can also create paths across sand, so do so here. Make your way to the top left side of the room and attempt to enter the small room towards the top. Defeat the grunt.
+
+He'll lock you out, so make your way back towards the right. A path will be cleared for you, so break the nearby glass and defeat another grunt inside. Talk to the monitor in the corner to open the door, then talk to Espeon's cage. We can't get it out of here quite yet, however. 
+
+Exit this room at the bottom. You'll notice another glass window to the right, which you can again smash your way into. Defeat the grunt and pick up the *Timid Mint*, 3 *Exp. Candy XL*, and *PP All*. Exit this room.
+
+There's nowhere else to go but up the ladder to the right. Unfortunately Glaceon can't follow you up the ladder, so keep that in mind. Anyways, follow this linear path into another room, defeat the grunt, and grab the *Cage Key*. Head all the way back, join back up with Glaceon, and free Espeon!
+
+Espeon can use Future Sight, which shows a blurry image of our next objectives. Helpful if you get stuck... or you can just read on. Anyways, you can also choose to pet Espeon for the quest, and for points.
+
+Relationship Point Choices:
+- Pet Espeon (+1 Eve)
+- Don't pet Espeon (-1 Eve)
+
+You'll notice that Espeon and Glaceon won't both be able to follow you at the same time, so you'll need to position the one you don't wanna take with you in the right place. You'll see what I mean now: switch to Glaceon outside, then head to the left of the nearby pallet of glass. Talk to Glaceon, and tell it to stay where it is. Head back to get Espeon, who can use telekinesis to move glass. Back on the side where Glaceon is, move this glass pallet up by interacting with it, then pressing up. 
+
+From here, go right across the sand, then up at the first lava bridge. Move the glass at the top to the left, then smash your way into the nearby room via the window. Defeat the two scientists here, then talk to the monitor at the top to unlock the elevator.
+
+Back outside, move the right glass pallet down to save a bit of time later on. Make your way to the bottom right corner of this room and move the glass up to get the *Sablenite*. Move this pallet back down by going around.
+
+Heading left, you'll see three pallets of glass close to each other. Before we move these, you're going to want to actually swap Espeon for Glaceon. Drop off Glaceon on the right side of these three pallets. Go pickup Espeon once more, and move the pallets respectively up, left, and down to open a path. 
+
+From here, swap back to Glaceon, then drop it off near the ladder in the bottom right. Head back up to grab Espeon, then make your way back to the ladder where Glaceon is. Move the nearby glass up, then enter the door along this path. Past a grunt is 2 *EV Boosters*.
+
+Anyways, head outside and go left. Move the bottom-most of the three glass pallets back up so we can pass along the bottom. Switch to Glaceon and make a path over the ice in the bottom left. Switch back to Espeon.
+
+Enter the bottom left room where we found the key. Move each of the five glass pallets left to reach *TM29 Psychic*! Exit this room. Cross the lava and move the nearby glass up. Go right from here, and move a glass pallet to the right to get the *Gyaradosite*! 
+
+Make your way to Glaceon, and reverse the steps we took to get both Pokemon to the bottom so that both Pokemon are now back towards the top. After clearing a path to the elevator in the top left corner, switch to Glaceon and head up to B1F.
+
+From here, follow the path to the left, bridging gaps with ice. Enter the next room. Defeat the grunt to pick up 3 *Exp. Candy XL* and an *EV Tuner*. Back at the elevator, go straight to the right and use Glaceon to bridge a gap towards *PULSE Readout 8*. Up and left from here, you'll find a room containing glass, so we'll come back later. Continue bridging gaps and enter the room on the right. 
+
+### Gave Blake the Ring Route Aster Fight
+
+If you refused giving Blake the ring, skip ahead to the next section.
+
+**Meteor Private Aster (2x Ultra Potion). Field: Factory Field**
+- Solrock, Lv. 84, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
+    - Stealth Rock
+    - Reflect
+    - Explosion
+    - Light Screen
+- Golurk, Lv. 84, Ability: No Guard, Bashful Nature, IVs: 31
+    - Dynamic Punch
+    - Earthquake
+    - Thunder Punch
+    - Shadow Punch
+- Krookodile, Lv. 85, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Earthquake
+    - Outrage
+    - Rock Slide
+    - Foul Play
+- Passimian, Lv. 85, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Close Combat
+    - Earthquake
+    - Rock Slide
+    - Gunk Shot
+- Lycanroc-Midday, Lv. 86, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Brick Break
+    - Rock Slide
+    - Crunch
+    - Drill Run
+- Lycanroc-Midnight, Lv. 88, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Thunder Punch
+    - Stone Edge
+    - Throat Chop
+    - Swords Dance
+
+It's been a while since we've seen Aster on this route. This time he encorporates a few of Eclipse's Pokemon into his own team. As usual, he focuses on Rock and Ground types, with Passimian there to provide hard hitting coverage. His team is generally pretty fast and physical, so speed control and/or some physical tanks will probably be able to find success. If you can tank an Explosion from Solrock and set up, he has no priority moves to prevent a sweep.
+
+He'll give you the *Meteor Card*.
+
+### Finishing Up in the Workstation
+
+If you didn't get it from Aster, grab the *Meteor Card* at the top. You can also get 3 *Exp. Candy XL*. Open the pods in this room. 
+
+Relationship Point Choices:
+- Use Heal Bell on Noel (+1 Noel)
+
+Take the elevator back to the bottom floor. Before we continue, take Glaceon into the elevator where Hardy is sleeping.
+
+Relationship Point Choices:
+- Use Heal Bell on Hardy twice (+1 Hardy)
+
+Next, switch back to Espeon. Return to the room on the upper floor with the glass. Move the glass out of the way. Note that despite every pallet in the dungeon so far appearing to only move "along the grain", you'll need to push the bottom right one down to finish this puzzle. It's a bit odd but mess around with this puzzle a few times and you'll figure it out. Anyways, you'll get a *Reborn Ball*! This is Reborn's Master Ball.
+
+Return to B2F, and switch to Glaceon. Move Glaceon up and to the left of the rightmost sand pit, then switch back to Espeon. From here, take Espeon to the top right, pushing the first and second glass pallets to the right. Head back and switch to Glaceon, then use it to make a path across lava in the top left. Grab the 5 *Exp. Candy XL*. 
+
+Position Glaceon exactly in this spot: 
+
+<img src="/assets/media/reborn/glass_glaceon.jpg"/>
+
+Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way so you can switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
+
+Undo the moves we did to reach the top right corner. Head to the top left corner and use Espeon to finally clear a path to the door. This is it for exploration. Prepare your team as best you can for the shenanigans to come, and enter the door at the top!
+
+### The Glass Gauntlet
+
 
 ## The Raid on Agate City
 
