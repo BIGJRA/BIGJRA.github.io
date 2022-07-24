@@ -293,7 +293,7 @@ After you're done inputting passwords, enjoy the rest of your train ride!
 
 As soon as you're off the train, you'll have a conversation with Ame and Julia. I won't be explaining story events much at all in this walkthrough. This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less. What do they do? [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) explains it pretty well, so you can read that to decide if you want to care about them or not. Whenever a choice is not listed, it has no effect on the points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Yes (+1 Julia)
 
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem*. There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so. I will try my best to explain the positions of all the hidden items that I can until then.
@@ -353,7 +353,7 @@ Talk to Ame as soon as you're done, and you'll be taken downstairs and fight you
   
 Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Cain in battle (+1 Cain)
 
 Once you are done with that battle, you'll be healed, then thrust into another without changing things up. While this isn't too bad right now, this will happen more in this game. One thing I should note is that if you spam the quicksave key specifically while a character is moving, you can save between battles. 
@@ -365,7 +365,7 @@ Once you are done with that battle, you'll be healed, then thrust into another w
 
 You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Victoria in battle (+1 Victoria)
 
 After the battle, Ame will give you the *Pokedex*, the *Pokegear,* and of course the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
@@ -496,7 +496,7 @@ You'll fight a trainer in a small park. Once you beat her, talk to her again for
 
 Back up from here, enter the building. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Accept Kricketot (+1 Shelly)
 - Reject Kricketot (-1 Shelly)
 
@@ -634,7 +634,7 @@ With that out of the way, time to progress the story. Make sure you have your be
 
 You have to two choices: you can head straight to the Mosswater Industrial above Seacrest's Garden, or take a detour first to the Lower Peridot Ward gym. In either case, talk to the character standing in front of the factory when you're ready.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Headed straight to Mosswater Industrial (Fern +1)
 - Detoured to Lower Peridot Gym before going to Mosswater (Julia +1)
 
@@ -642,12 +642,12 @@ Relationship Point Choices:
 
 Time for our first dungeon proper! Fern will join us as a partner. Partners are special in this game for a few reasons. Leaving your partner (here, leaving Mosswater Industrial) has a negative effect:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Leave Fern and exit the factory (-1 Fern, just once)
 
 However, talking to your partner while they're walking with you has a positive effect:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Fern while you are together (+1 Fern, just once)
   
 Another cool thing is that partners will heal you after each battle!
@@ -656,14 +656,14 @@ Enter the next room and talk with Ace. We'll be wandering around the factory, de
 
 To the left across a bridge, you'll see one flashing terminal: XX7X. In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later... A terminal to the right shows 3XXX, and the one in the top right corner shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Push the same elevator button as the floor you are on (-1 Fern)
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right, and interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. In this room, use the terminal to discover the hint X8XX. Back outside, go left. In here is another terminal: 4XXX, plus one more with some lore. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. Beat the grunts and pickup the explosives!
 
 Back in the central room, choose which of the two characters to talk to.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Julia after getting the boomies (+1 Julia, -1 Florinia)
 - Talk to Florinia after getting the boomies (-1 Julia, +1 Florinia)
 
@@ -685,7 +685,7 @@ Depending on what Pokemon you have this can be a bit difficult since they like t
 
 Outside the factory, Florinia will ask you a question.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Yes (+1 Florinia)
 
 You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. Anyways, if you noticed, we were battling on the Factory Field earlier. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
@@ -778,7 +778,7 @@ When you're ready, talk to Victoria on the right side of Opal Bridge. New area t
 
 Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokemon's friendship for $1500. Do this once if you have the money. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Get at least one massage at the Central Salon (+1 Serra)
 
 A lady on the right will ask to see a Pokemon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
@@ -913,7 +913,7 @@ If you talked to Victoria near the park earlier, head up and talk to Victoria fo
 
 Her Torracat likes to try to set up on you, so be careful of that. Otherwise her team isn't anything too crazy - Ralts and Pichu are pretty weak and you can set up on them.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Victoria in the Slums (+1 Victoria)
 
 After that's done, head down the escalator to the right. There are encounters in this area.
@@ -1285,7 +1285,7 @@ Head upstairs to grab the *Desert Field Readout*!
 
 Head downstairs from here, head out to the main hall and go downstairs again.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Yes (+1 Hardy)
 
 Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut.
@@ -1501,7 +1501,7 @@ Grab a hidden *Super Potion* outside then enter the building here, then exit thr
 
 Head back down into the building below and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building. Head outside at the bottom.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Yes (+1 Heather)
 - No (-1 Heather)
 
@@ -1640,7 +1640,7 @@ If you were trapped in a cage, read on, otherwise, jump to the next section.
 
 You'll wake up in a cage and Fern will taunt you here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Reject begging Fern (-1 Fern)
 - Beg Fern once, then reject him (Neutral)
 - Beg Fern twice, then reject him (+1 Fern)
@@ -1651,12 +1651,12 @@ If you do reject him, eventually you will be let out anyways.
 
 Head up and to the right to free Cain from his cage.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Freed Cain from the cage (+1 Cain)
 
 Head down from here and talk to the lever. Heather will show up and pull the switch to activate these bridges.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Got stuck in a cage (-1 Heather)
 
 Head east from here, and go slightly south once you reach a Meteor Grunt. Continue south until you hit a Gentleman, then go straight east and follow the path up the hill via stairs. The house here is a healing house, should you need it.
@@ -1667,7 +1667,7 @@ If you managed to carefully sneak around the grunts, read on, otherwise jump to 
 
 Head up and to the right and you'll find Fern. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talked to Fern atop the hill (+1 Fern)
 
 The building to your right is a healing house, should you need it.
@@ -1742,12 +1742,12 @@ You can walk on the tops of bookshelves in here, do so to get *TM20 Safeguard* a
 
 Enter the left room of the library if you'd like. Inside you'll meet a man.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Radomus in the library (+1 Radomus)
 
 Back outside, chop the tree to your left and enter the felled building. Beat the grunt and re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Amaria in the jungle (+1 Amaria)
 
 Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area. 
@@ -1789,7 +1789,7 @@ One thing to consider is that past Braixen a Bug-type can do pretty well here ag
 
 Once you win, you can find a *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Find all five officers before fighting Ace (+1 Heather, +1 Anna, +1 Shade)
 
 ## Beryl Ward & Beryl Cemetery
@@ -1941,7 +1941,7 @@ First, after the events at the bridge, enter Corey's gym and enter his bedroom a
 
 Next, head to the Beryl Library. Talk to the Gothitelle here, then pick up trash and stray books all around the library by spamming the action button. Once you finish, talk to Gothitelle for a *Soul Candle*. You can also talk to one of the **Gothita** to obtain it.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Clean up the Library (+1 Adrienn)
   
 Head on over to the Beryl Cemetery at night. Talk to one of the pumpkins with a Soul Candle in your bag and you can catch **Pumpkaboo**.
@@ -2006,7 +2006,7 @@ Next, enter the Spyce restaurant below and to the right. A guy inside will give 
 
 Back in the main part of the ward, talk to the people here and in the nearby buildings if you'd like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Fern in North Obsidia Ward (+1 Fern)
 
 ## Lapis Ward
@@ -2106,7 +2106,7 @@ Anyways, that's all we can do in Lapis for now, so head back down to the North O
 
 Talk to Cain here, and he will distract an officer so you can slip by. 
 
-Relationship Point Choices: 
+**Relationship Point Choices:** 
 - Talk to the guard 4 times while Cain is distracting him (-1 Cain)
 
 You can find a hidden *Rock Gem* on the stairs. Head on down the ladder. You can find a *Green Shard* hidden in this first area. Head down the stairs again.
@@ -2189,7 +2189,7 @@ You can accept Victoria's fast travel request afterwards.
 
 Back in North Obsidia Ward, Victoria will request that you battle her.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say No to Victoria's battle request (-1 Victoria)
 
 **Apprentice Victoria (2x Super Potion). Field: No Field**
@@ -2246,7 +2246,7 @@ After winning, you'll be given *TMX7 Rock Smash*. We can't use it in the field y
 
 Head to the nightclub up and to the right. You'll see a guy outside who you can talk to.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Meet DJ Arclight outside the nightclub (+1 Arclight)
 
 Head back to Lapis Ward and attempt to enter the gym. Time for another rival battle, with a new rival, that is.
@@ -2284,7 +2284,7 @@ Head into the gym and go upstairs. Talk to the group here, then head outside and
 
 After you leave, head back to the gym and go upstairs. We have our next mission: challenging Shelly for a badge. We can talk to Victoria here as well.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Victoria after Shelly tells you to have a battle with her (+1 Cal)
 
 Before we do though we can start a sidequest.
@@ -2393,7 +2393,7 @@ I think this fight is wonderful because it sweeps the feet out from under new pl
 
 To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire-type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Also, Rock Slide. Tons of options here if you think ahead about what your strategy will be.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Shelly on your first try (+1 Victoria)
 - Defeat Shelly on a second, third, etc. try (-1 Victoria)
 
@@ -2427,7 +2427,7 @@ Head outside the gym after watching the scene in Shelly's room. After you head o
 
 This battle probably won't be too tough if you could defeat Shelly. Nidoking hits hard, but it still has fairly weak STAB attacks. Defeat him with your best strategies. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Agree to save Heather (+1 Cain)
 - Refuse to help Heather (-1 Cain)
 
@@ -2437,44 +2437,44 @@ With that, Cain and Shelly will head over to the Orphanage.
 
 Head into the Orphanage as soon as the door opens. You'll be paired up with either Cain or Shelly depending on who you have more relationship points with at this moment.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat the Orderlies with Cain (+1 Cain)
 - Defeat the Orderlies with Shelly (+1 Shelly)
 
 After this fight, you'll be free to explore. Keep in mind though:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Leave the Orphanage while partnered (-1 Cain, -1 Shelly, -1 Charlotte, -1 Noel, -1 Heather)
 
 But you can also gain points:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Shelly while partnered (+1 Shelly)
 
 We can now choose where to go.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Enter the hallway first before exploring upstairs (-1 Shelly)
 
 So, we're gonna head upstairs first. Defeat orderlies as you go up. You'll eventually get locked out from continuing, so head downstairs and talk to Anna again.
 
 Enter the open door on the first floor. Be careful about trying to enter the doors on the left.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - The Player is male and tries to enter the Girls' Bathroom two times (-1 Shelly)
 
 Beat the orderlies in the room above. You can read the green books for some background on the new characters. Back outside, head down and to the left. Defeat more orderlies and pick up a *Data Chip*. Talk to the green computer screen nearby to open a lock. 
 
 Head back upstairs and go through the now-opened path.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Ignore Noel in the cage (-1 Noel)
   
 Defeat the orderlies upstairs then open the patient cages. You can find a hidden *Great Ball* here. Grab the *Paralyze Heal* on your way down.
 
 On the first floor enter the room on the right.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Charlotte twice while she's in a cage (-2 Charlotte)
 
 Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*. Defeat some orderlies, then at the bottom grab the *Odd Incense* and the *Archive Key*. 
@@ -2839,7 +2839,7 @@ Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue
 
 This looks like quite the intimidating battle, but it has default moves. Blizzard will tear you up but it only has 5 PP, so if you can stall those out and get a Ghost type onto the field you're solid. It does like to heal but if you can set up somehow you should be ok. After winning, you'll get **Smoochum**.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Save Smoochum (+2 Blake)
 
 ## Omen Badge
@@ -2907,22 +2907,22 @@ Before we continue, there is a pretty awesome Pokemon we can get right now. Head
 
 Head to the factory on the west side of Peridot. We can talk to the characters here for some points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Cain we can trust Ace (+1 Ace, +1 Amaria, -1 Cain)
 - Tell Cain we cannot trust Ace (+1 Cain, -1 Ace)
 
 Talk to Ace and tell them your favorite nature, and they'll give you the respective *Mint*.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Get a mint from Ace (+1 Ace)
 
 Talk to Amaria to get on top of the building, and head in. Defeat the grunts, then go down the stairs.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Amaria you trust her (+1 Amaria)
 - Tell Amaria you don't trust her (-1 Amaria)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Ace you think they might be a double double agent (+1 Ace)
 - Tell Ace you don't think they could be a double double agent (-1 Ace)
 
@@ -3104,7 +3104,7 @@ On the second floor you can find in item balls *Exp. Candy L*, *Water Stone*, an
 
 Now we can continue with the story. Head into the meditation area to the south of the academy and talk to the pink haired lady.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Kiki you are a new student (+1 Cal, +1 Victoria)
 
 Head into the back room of the academy and talk to Kiki again. She will tell us that we have to battle Victoria or we have to battle Cal. We actually can do both of them, so I will cover both fights. If you feel like skipping one of them, you can.
@@ -3140,7 +3140,7 @@ To fight Victoria, head into the courtyard of the academy.
 
 Victoria is starting to really beef up her team but still isn't incredibly tough. She picked up a Mienfoo and finally evolved her other four team members, so they can actually deal damage now. You'll notice from the field notes that Strength and Meditate are boosted on this field, so watch out for those. With good coverage and/or exploiting the field you can win this battle!
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Victoria at Apophyll Academy (+1 Victoria)
 
 Now I will tackle climbing Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually. It is located at the bottom left corner of Apophyll Beach.
@@ -3210,12 +3210,12 @@ Make your way back to 3F, then go across the empty pool. On 4F you can find a hi
 
 Cal now has a full team of six and of course gets the full benefit of the field. It boosts Scald as well as the Fire moves, and can turn into the Burning Field if Magmortar gets to use Lava Plume. Aside from Scald your own Water types will have a tougher time on this field. Luckily, he still makes some suboptimal moves - his Typhlosion hits hardest with Solar Beam and his Charizard is physical, for example. Past Hakamo-o a Rock type or two can pretty much destroy his whole team. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Cal atop Pyrous Mountain (+2 Cal)
 
 Return to Kiki's room once you're done with your chosen battle(s) and talk to them inside.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Victoria you cannot keep a secret (-1 Victoria)
 
 ## VS. The Sensei
@@ -3258,7 +3258,7 @@ Man this fight kicks my butt on at least half of my replays. Ashen Beach field h
 
 This field can't be changed naturally, so you can try your best to work within it. One obvious answer within is that Psychic, Zen Headbutt, and Calm Mind get boosts here, so if you can get around Hitmonlee and Toxicroak's priority/speedy dark moves you can sweep that way somehow. Stoutland and Sandslash's Sand Rush is always on and could help with certain strategies. The Sand and Mud moves also get boosted here as do Muddy Water and Surf, so if you need extra damage you may consider those. Otherwise, it's really all just about maintaining some kind of momentum. If you're able to bait out Toxicroak's 5 Sucker Punches very carefully you can set up on it for example. Your own uses of Nature Power into Meditate can turn many physical attackers into potential sweepers, so that's something to consider. This one is hard for me everytime but I always eventually figure it out, so can you!
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Kiki on your first try (+1 Victoria)
 - Defeat Kiki on the second, third, etc. try (-2 Victoria)
 
@@ -3373,7 +3373,7 @@ Once you're back on Apophyll, prepare your team. It's worth pointing out that in
 
 Head in and you'll be partnered up with Victoria.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Try to leave Pyrous while partnered with Victoria (-2 Victoria)
 
 Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go.
@@ -3393,7 +3393,7 @@ This is an "impossible battle" in the normal sense that the story will progress 
 
 > You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokemon or something with attack-lowering moves can open it up to not kill some of your Pokemon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Solaris on Pyrous (+1 Cain, +1 Victoria, +1 Cal, +1 Shade, +1 Anna, +3 Taka)
 
 ## Byxbysion Wasteland
@@ -3503,7 +3503,7 @@ Fern is back with a full team. His general strategies remain the same: Krookodil
 
 Past the Ground types, a Poison type can abuse the field to sweep the field. Nature Power turns into Gunk Shot and, as an added bonus, is immune to Sucker Punch. Once you can get past Roserade he doesn't have an incredible amount of speed so a boosted sweeper can probably succeed here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Fern on the first try (+1 Aya, +1 Hardy)
 
 After you win, we are able to proceed to a gym battle, but opening up the canisters actually opened up a second half of the wasteland we can explore for some goodies, so we'll go ahead and do that now. This is optional.
@@ -3610,7 +3610,7 @@ Aya is another difficult doubles gym leader. The field boosts her Sludge Waves a
 
 The key to this battle in my experience is letting Toxapex hang out on the left side and do everything in your power to incapacitate and knock out the Pokemon on the right. Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. For that reason, putting Psychic-type attackers, and/or Steel/Poison-type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively. You can also use your own entry hazard spam or the Telluric seed to boost a sweeper. If you could figure out Shelly way back when I think you can find a way to best Aya.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Beat Aya on the first try (+1 Hardy, +1 Fern)
 
 Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 50 cap finally. We also get to use Strength in the field, finally!
@@ -3619,7 +3619,7 @@ Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 
 
 Make your way all the way back out of the Wasteland. You'll find Cain near the exit. Prepare for a fight.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
 **Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field**
@@ -3653,7 +3653,7 @@ Another fight with Cain, this time on a field that benefits his team to some ext
 
 Return to South Obsidia Ward.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say you believe Cal (+1 Cal)
 - Say you don't believe Cal (-1 Cal)
 
@@ -3693,7 +3693,7 @@ Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge. Go d
 
 Make your way west to the Beryl Cemetery. Victoria is down from here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Victoria in the cemetery (+2 Victoria)
 
 Next, we're gonna return to Byxbysion Wasteland. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave. 
@@ -3725,17 +3725,17 @@ With that out of the way, head into the Underground Railnet and use Strength to 
 
 You'll be partnered with Cain.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk with Cain while you're in Yureyu (+1 Cain)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Try to leave Yureyu while partnered with Cain (-1 Cain)
 
 It's a very straightforward area: defeat all the Meteor grunts as you make your way up. Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
 **In order to access the exclusive postgame route, you need to refuse fighting Sigmund at Yureyu.**
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say Yes to Sigmund asking if you'll fight him (+1 Heather, -1 Sigmund)
 - Say No to Sigmund asking if you'll fight him (+1 Sigmund, -1 Heather, -1 Cain)
 
@@ -3823,7 +3823,7 @@ You can also find a bunch more of those shallow walls that you can use Rock Smas
 
 Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done. Talk to Noel when you have the correct layout. Re-enter the train, talk to Shelly if you'd like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Shelly she was helpful (+1 Shelly)
 - Tell Shelly she was not helpful (-1 Shelly)
 
@@ -3874,12 +3874,12 @@ In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, 
 
 Enter the house at the top.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Enter Belrose Manse before going to Voclain Estate (+1 Noel, +1 Laura)
 
 To the left you can see something glowing in a bookshelf. Interact with it to get the *Family Picture* for a sidequest way down the road. Anyways, talk to everyone in the house then head out.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Shelly in Belrose Manse (+1 Shelly)
 
 ## Chrysolia Forest
@@ -3984,12 +3984,12 @@ In the downstairs area of the museum at night, you'll see two Meteor grunts. Tal
 
 Outside, attempt to enter the Voclain Estate in the top right corner. Before you talk to Serra, talk to Bennett if you want points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Bennett you knew Cascoon had perfect memories (+1 Bennett)
 
 I hope they remember me killing 15 of them with Fire-type moves in Pokemon Legends Arceus. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Bennett a second time (+1 Bennett)
 
 In the upstairs rooms, you can find *Silk Scarf*, the *Mirror Arena Field Readout*, *TM85 Dream Eater*, *Bug Memory*, and *Weakness Policy*. You'll also find Kadabra girl's last bookshelf in Bennett's room.
@@ -4074,7 +4074,7 @@ Enter the room towards the back to reach the gym. In each room, you'll have to l
 
 For each of the three puzzle rooms (so, a max of +3), you can get the following:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Smash the correct mirror on the first try (+1 Serra)
 - Smash 2-5 incorrect mirrors before finding the answer (-1 Serra)
 - Smash 6-7 incorrect mirrors before finding the answer (-2 Serra)
@@ -4115,7 +4115,7 @@ Save before you enter the third room.
 
 It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he pretty strongly optimizes his team around the Mirror Field. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits, and his Pokemon hit moderately hard and fast. Literally all but one of them have Quiver Dance too, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. You can also take advantage of the Mirror Field yourself, if you'd like.
 
-Relationship Point Choices: 
+**Relationship Point Choices:** 
 - Beat Bennett on the first try (+1 Elias, -1 Bennett)
 - Beat Bennett on the second, etc. try (+1 Bennett, -1 Elias)
 
@@ -4159,14 +4159,14 @@ In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Vei
 
 It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra to play on a more even playing field. However:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Break the Mirror Field in the gym fight (-1 Serra)
 
 Once you win, you'll get the *Rime Badge* which boosts our cap to Lv. 55. You'll also get *TM70 Aurora Veil*. 
 
 # Episode 9: Sister's Keeper
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Serra on the couch after the battle (+1 Serra)
 
 Exit the gym.
@@ -4187,17 +4187,17 @@ The Powders aren't really worth it unless you're going for a Frustration build, 
 
 If you chose to go to Spinel Town before Belrose Manse, you can read the above section on Tanzan Cove for encounters, items, etc. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeated Serra and got Herbal Medicine before entering the Belrose Manse (+1 Charlotte)
 
 Anyways, head to Belrose Manse and go upstairs. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Noel without Herbal Extract in your inventory (-1 Noel)
 
 Give the medicine to Anna and she will feel better. Head outside.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Shelly while Noel wants to battle you.
 
 We can talk to Noel to advance the plot, but we can actually use the second Herbal Extract we got right now to get a nice reward, so I'll take care of that now. 
@@ -4238,10 +4238,10 @@ With that out of the way, head back to the Tanzan Cove. Prepare your team for a 
 
 ## Defending Belrose Manse
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Saphira you don't understand (-1 Saphira)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Charlotte you want to beat Meteor faces (+1 Charlotte)
 
 The story will diverge a little bit depending on what our choice was at Yureyu. This section gets a bit hairy since there are FOUR different story splits. Let me know if you have suggestions or spot discrepancies since I cannot play all four routes at once.
@@ -4288,7 +4288,7 @@ On this route this is our first battle with Sirius, and we don't get a partner. 
 
 Afterwards, the game will give us another choice that affects the story! Either we will go upstairs or stay downstairs.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Go Upstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Noel, -1 Saphira, -1 Laura, -1 Sigmund)
 - Stay Downstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Saphira)
 
@@ -4340,13 +4340,13 @@ Afterwards, you will make another choice that will affect the game!
 
 **In order to access the exclusive postgame route, you need to stop Sigmund after fighting him.**
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Choose to stop Sigmund after fighting him (+1 Saphira, +1 Shelly, +1 Charlotte, +1 Noel, +1 Anna, +1 Shade, -1 Laura, -2 Sigmund)
 - Choose to stop Sirius after fighting Sigmund (+1 Laura, -2 Saphira, -1 Noel)
 
 If Saphira was abducted, you'll also see a hole in the wall that opens up. You can actually use the hole instead of the door to enter and exit.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Exit or enter the Belrose Manse through the hole in the wall (-1 Laura)
 
 ## Tanzan Meteor Base
@@ -4367,7 +4367,7 @@ Use this rotary to go left. Head into the room at the bottom to grab *PULSE Read
 
 Enter the room to the left. If anyone except Saphira was abducted earlier, you can get relationship points here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - After Noel and Anna are abducted, talk to them in the cage (+2 Noel)
 - After Charlotte and Shelly are abducted, talk to them in the cage (+1 Shelly, +1 Charlotte)
 - After Laura is abducted, talk to her in the cage (+1 Laura)
@@ -4384,7 +4384,7 @@ Enter the door at the top!
 
 If Saphira was abducted, you'll be here with Laura.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Laura in the depths (+2 Laura)
 
 Go out and head up. You'll see some dialogue. Head down from here, you'll see a new path open up. Continue this process until you have to participate in a battle!
@@ -4398,7 +4398,7 @@ Go out and head up. You'll see some dialogue. Head down from here, you'll see a 
 
 Another single Pokemon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
 - Beat Steelix on the second, third, etc. try (+2 Saphira)
 
@@ -4469,7 +4469,7 @@ Clefable's Magic Guard is an annoying ability that means you need to overwhelm i
 
 In a pinch, this fight becomes much easier if you change the field to the Burning Field or the Corrosive Field. However Laura doesn't like you destroying her flower garden!
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Beat Noel on Burning Field (-2 Laura)
 - Beat Noel on Corrosive Field (-1 Laura)
 
@@ -4479,7 +4479,7 @@ For winning, you'll get the *Standard Badge* which boosts our cap to 60. We'll a
 
 Back inside, talk to the crew here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Laura on the couch (+1 Laura)
 
 Next, talk to Noel in the stairs room. You'll hear a non-Julia boom, indicating it's time to return to Tanzan Mountain once more.
@@ -4672,7 +4672,7 @@ You can get the *Chess Arena Field Readout* as well as hidden *Ice Gem*, *Red Sh
 
 Heal and prep your team, then enter the next room. Here we can pet Umbreon for the quest, but make sure you do this now since this is a limited time petting opportunity! 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Pet Luna's Umbreon (+1 Luna)
 
 Anyways, talk to Luna.
@@ -4715,7 +4715,7 @@ Anyways, with all that said, Cain doesn't really have a ton of optimization here
 
 Anyways, once you win, we can talk to Luna.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Luna after G.Gardevoir is captured (+1 Luna)
 
 Head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly. 
@@ -4747,11 +4747,11 @@ Enter the building here. We can use our Ruby Ring to access a door. Inside, you'
 
 After the puzzle, go through the teleporter. You can actually make your way back through the purple teleporter to grab a *Exp. Candy XL*. With that, head up and into the door.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Agree to give Adrienn the ring (+1 Adrienn, -1 Cain)
 - Refuse to give Adrienn the ring (-1 Adrienn, +1 Cain)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Adrienn about the pronouns when the player is Non-binary (+1 Adrienn)
 
 Note that we will eventually get points for free for being the other genders too. Enter the red door for another logic puzzle.
@@ -4782,7 +4782,7 @@ Once you're ready, talk to El at the top. You will have to choice between siding
 
 One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic-type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Side with El and lose (+3 Elias, +1 Adrienn, -3 Gardevoir, -2 Luna, -2 Radomus)
 - Side with El and win (+1 Cain, +2 Elias, +2 Adrienn, -2 Gardevoir, -2 Luna, -2 Radomus)
 - Side with Radomus and win (+2 Radomus, +2 Luna, +3 Gardevoir, +1 Anna, +1 Shade, +1 Cain, -1 Adrienn, -2 Elias)
@@ -4847,7 +4847,7 @@ Talk to the guy upstairs - he will tell us he is the PC administrator, and also 
 
 Back outside, go right. You'll see another Honey tree - defeat Pinsir to clear some webs. We can ignore the nearby log. Grab the hidden *Burn Heal* and go up - we'll be blocked by a log for now! So, exit to Route 1, hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say you did see that just now (-1 Titania)
 - Say you didn't see that just now (-2 Titania)
 
@@ -4922,7 +4922,7 @@ After talking to the group at the entrance, go up two rooms. Radomus will explai
 
 Talk to Elias here for more details on the puzzle, etc.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Ask Elias about himself (+1 Elias)
 
 The screen in here will also tell us what our current team chess piece ranks would be in its current ordering, useful for planning for the upcoming fight.
@@ -4931,7 +4931,7 @@ Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
 
 > Rook up 7; king up 5, and right 2. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Get the first chess puzzle right on your first try (+1 Radomus)
 
 Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
@@ -5105,7 +5105,7 @@ For one, if you've kept up so far with the sidequest involving that Pokemon stol
 
 Anyways, exit this area. Once you buy all of the Pokemon, DJ Arclight will give you a *Lucky Egg*. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Buy all of the seventh street stolen Pokemon (+1 Arclight)
 
 The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want! Don't need to rely on finding mints anymore, which is really nice.
@@ -5172,13 +5172,13 @@ Once the door is opened towards the middle, prepare for a battle and head up.
 
 Another battle with Meteor's Ace themselves! 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Ace Loyalty (+1 Ace, -1 Elias)
 - Tell Ace Blood (+1 Elias, -1 Ace)
 
 Back outside in the Beryl Wall, another conversation will occur.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Luna you are afraid of the dark (-1 Luna)
 - Tell Luna you aren't afraid of the dark after siding with El (Neutral)
 - Tell Luna you aren't afraid of the dark after siding with Radomus (+1 Luna)
@@ -5346,7 +5346,7 @@ Once again return to the center of the valley. Talk to the glowing blue crystal 
 
 On the other side of the water, go up first, then follow the path, using your keys. You'll find a hidden *Purple Shard* and *Blue Shard* along the way. Activate the green crystal at the end, then return to the ice bridge and go down. Along this path, grab the hidden *Green Shard* and *Magical Seed*. Once you enter your newly created cave entrance, Bennett will confront you.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Bennett you will let him do what he has to (+1 Bennett)
 - Tell Bennett you will not let him do what he has to (-1 Bennett)
 
@@ -5398,7 +5398,7 @@ To progress, return to the entrance, un-mutate the cave we just mutated, then go
 
 Poor guy couldn't even level his Larvesta up once more to have Volcarona. Once more, he benefits from the field he's on, this time, in the form of boosted Signal Beams. But again his bugs are fairly frail and have lots of exploitable weaknesses, so you should be able to figure this one out.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Beat Bennett on your first try (+1 Luna, -2 Bennett)
 
 With that, we could challenge Luna. There are actually a few things we can do now that we have a few blast powders and the crystal keys. Skip ahead if you just wanna do the fight now.
@@ -5651,23 +5651,23 @@ Back outside, talk to the ringmaster in the upper left corner. Make your way to 
 
 Finally, talk to Samson next to the high striker. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Samson as he clears the way, when the player is female (+1 Samson)
 
 Head in to the Big Top, and talk to Aya on the couch. After a conversation you'll get the *Powder Vial*.
 
 Head out then come back in to have some conversations for relationship points if you'd like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Aya (+1 Aya)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Cain (+1 Aya)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Ciel (+2 Samson, -1 Ciel)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Speak to Samson (+2 Ciel, -1 Samson)
 
 Exit the Big Top. You'll notice another tutor on the left side of the circus.
@@ -5805,7 +5805,7 @@ In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, 
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - If you saw Titania on Route 1, tell her you'll keep the secret (+1 Titania)
 - If you saw Titania on Route 1, tell her you won't keep the secret (-1 Titania)
 
@@ -5848,19 +5848,19 @@ The ringmaster has a team of circus-themed Pokemon that like to use the field ef
 
 Enter the circus back room. Once more we can have multiple conversations for relationship points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Aya (+1 Terra)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Cain (+1 Aya) 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy (+1 Aya) 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Terra (+1 Terra)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Ciel (+1 Terra)
 
 Save and talk to Samson when you're ready for a fight.
@@ -5901,7 +5901,7 @@ Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight f
 
 Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! Compared to some of the simpler fields, Big Top Arena is really broad and opens up a ton of strategies you can use against this guy. If nothing else, notice that what I mentioned about Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you can survive long enough to use it. It is also the move you get from using Nature Power on this field, allowing even more Pokemon to use this strategy. You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary. There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokemon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... meaning Oricorio can actually fairly easily sweep him with a bit of support. If you are able to cripple his Pokemon long enough to boost yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many options that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like Sturdy + Counter for the tricky ones if need be. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Samson on your first try (+2 Ciel)
 - Defeat Samson on your second, third, etc. try (-1 Ciel)
 
@@ -5911,11 +5911,11 @@ Once you win, you'll get the *Strike Badge* and *TM31 Brick Break*.
 
 With 10 badges in hand, return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Titania you were reading the journal (Neutral)
 - Tell Titania you weren't reading the journal (-1 Titania)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Amaria that Titania is wrong (+2 Amaria, -2 Titania)
 - Tell Amaria that Titania is right (-2 Amaria, +2 Titania)
 
@@ -5923,7 +5923,7 @@ Relationship Point Choices:
 
 We can't follow them down the waterfall, but we can now explore with Surf! One quick note:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Read Titania's diary once she is down the cascade (-1 Titania)
 
 I'll start by exploring the rest of the area we are currently in, the Celestinine Cascade.
@@ -6036,7 +6036,7 @@ Follow the body of water up from here to enter Ametrine Mountain 2F.
 
 You'll eventually notice on the right the area we once came in via Route 2. Now you know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Blake at the bottom of the circus (+1 Blake)
 
 There's also a Pokemon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I figured I should cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see. 
@@ -6067,13 +6067,13 @@ Anyways, return to Ametrine 2F, surf to the left, and cross the simple ice puzzl
 
 ...So much for entering Calcenon City. Make your way right, picking up hidden *Ultra Potion* and *Green Shard* along the way. Aya will join us as a partner!
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Return to Ametrine while Aya is your partner (-1 Aya, -1 Hardy)
 
 Relationship Point Choices
 - Wipe out at any point with Aya as your partner (-1 Aya, -1 Hardy)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Aya while you are partnered (+1 Aya for each of 4 dialogues, +4 total)
 
 **Route 3 Caves**
@@ -6155,7 +6155,7 @@ In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. 
 
 Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokemon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Aya gets kidnapped (-2 Aya. This is not a choice, actually.)
 
 After the fight, go to the left and grab *TM43 Flame Charge* within the room. Head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
@@ -6190,19 +6190,19 @@ Enter the gym at the top of the city.
 
 Talk to Hardy in the left side of the city for some points if you'd like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy and Fern on the left side of the city (+1 Fern)
 
 Talk to Saphira here twice. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Charlotte you would throw her to the dogs for the ring with Saphira Points > 0 (+2 Charlotte, -1 Hardy, +1 Saphira)
 - Tell Charlotte you would throw her to the dogs for the ring with Saphira Points <= 0 (+2 Charlotte, -1 Hardy, -1 Saphira)
 - Tell Charlotte you would not throw her to the dogs (-2 Charlotte, +1 Hardy)
 
 Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell us it's time for a gym battle, so head back into Calcenon.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Saphira and Sigmund on the west side of the city (-1 Sigmund)
 
 ## Cinder Badge
@@ -6215,7 +6215,7 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 Head up to where Charlotte is. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
 
 Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg, you can skip to the right.
@@ -6268,12 +6268,12 @@ Once you win, you'll get the *Cinder Badge* which allows us to use Dive in the f
 
 After your gym fight, enter the building in the bottom left side of Calcenon. You'll get *TMX6 Dive* inside! We could have gone in here earlier, but:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Beat Charlotte before getting Dive (+1 Noel, +1 Shelly)
 
 You can also talk to Hardy in here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy in the Calcenon house about Charlotte (+1 Hardy)
 
 With that, we now have all we need to Dive! There are a few quick things we can do, however!
@@ -6409,7 +6409,7 @@ From here, head up to the now-open apartment at the center of town. Go to the to
 
 **In order to access the exclusive postgame route, you need to refuse Blake all three times.**
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Give Blake the ring right away (+2 Blake, -2 Cal)
 - Refuse Blake once, then give him the ring (+2 Blake, -2 Cal, -1 Shelly)
 - Refuse Blake twice, then give him the ring (+2 Blake, -2 Cal, -1 Shelly, -1 Heather)
@@ -6419,7 +6419,7 @@ If you gave Blake the ring, you'll get *TMX5 Waterfall.* If you didn't, you'll n
 
 Now we have to search Blake's room for clues to make a way out.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Check under Blake's bed (-1 Blake)
 
 Under the left couch you'll find *3 Coins*, while the chair towards the bottom contains *1 Coin* and the bottom right sofa contains *2 Coins*. In the trash can at the top you'll find the head of a key. The game console contains a Program Disc. The drawer at the bottom contains a key handle, so you can open the cabinet at the top to get a power cable. Use the cable and the disc on the computer to open a prompt for a password. To get the password, search all the books and flowers around the room and talk to Shelly a few times! Input the code once you have it:
@@ -6430,7 +6430,7 @@ Enter the secret passage and follow the path! On 6F you can find a hidden *Iron*
 
 Head outside and pick up the hidden *Flying Gem*. Talk to Shelly here. Once you have freed Heather, head into the shack and talk to the machine to get the *Flying Memory*! 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Free Heather after refusing to give Blake the ring (+1 Heather)
 
 Make your way back to the main part of Ametrine and go all the way left. You'll have to defeat a few Meteor Grunts.
@@ -6439,14 +6439,14 @@ Grab a hidden *Red Shard*, *Dire Hit*, and *Repel* as you climb. You'll see a na
 
 Beat the grunts and continue. Pick up the hidden *Red-Hots* and *Swift Wing* then fight the next grunts.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Shelly after she gets tired, after giving Blake the ring (+1 Shelly)
 
 Continue up the mountain. You'll see another fork, one path leading you around a narrow cliff to the right that loops you to a lower path. Follow it to get a hidden *Ice Gem* and *TM79 Frost Breath*. 
 
 Continue down the main path, picking up the hidden *Ice Heal*, *Telluric Seed*, *Max Repel*, and *Repel* along the way.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - After saving the police and exposing Corey, give Blake the ring, watch Blake and Heather's conversation (+1 Heather)
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
@@ -6548,12 +6548,12 @@ You have lots of options in fact beyond the standard overpowered doubles strats 
 
 Once you win, Blake will fail. Wah.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - If Saphira was abducted earlier, Cal tells you about Terra and Lin in depth (+1 Terra)
 
 Cal will offer you a ride back to the main part of Ametrine.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Refuse Cal's offer down the mountain (-1 Cal)
 
 Before we leave, enter the small house just south of Blake's apartment and give the girl inside a Floral Charm in exchange for the *Banettite*! Next, head on over to the Pokemart. Inside, a person will give you a *Magmarizer*.
@@ -6562,10 +6562,10 @@ Before we leave, enter the small house just south of Blake's apartment and give 
 
 Before we proceed with the story, we can head over to Calcenon to get the following points:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Cain in Calcenon after fighting Blake (+1 Cain)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy in Calcenon after fighting Blake (+1 Hardy)
 
 You can also head into Charlotte's gym - if you decided to 'cheat' and open the secret door earlier, you can now follow the path to get the *Charizardite X*.
@@ -6589,7 +6589,7 @@ Make your way through Kanto Route 23 as normal until Terra destroys the guy! Go 
 
 In Mt. Moon, pick up 2 *Potions*, an *Escape Rope* and a *Rare Candy*.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to the sign in the middle that welcomes you to Mt.b00ty! (+1 Terra)
 
 Exit out the bottom.
@@ -6605,23 +6605,23 @@ Exit out the bottom.
 |Meowth            |5  |
 |Ekans             |5  |
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Timmy (+1 Terra)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to an NPC who tells you about oddishweed (+1 Terra)
 
 Enter the ladder in the glitchy mess on the left. Inside Rocket Hideout, proceed through the dungeon as you probably have tens of times over and grab the *Super Potion* as you go.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Red in the bottom left corner (+1 Terra)
 
 When you get to the other side, use the elevator and not the stairs. In Lavender Town:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to an NPC who talks about M3GAT3RR4 (+1 Terra)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to the grave at the bottom of the area (+1 Terra)
 
 Enter the house usually containing Mr. Fuji to continue.
@@ -6642,14 +6642,14 @@ Enter the house usually containing Mr. Fuji to continue.
 |**Marowak**       |1  |
 |Hypno             |1  |
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to the computer akin to where we once fought Ace (+1 Terra)
 
 Head left, hopping down ledges as you go. Enter the door at the top.
 
 In the Pokemon Mansion, grab the *Iron* to the right then press the switch. Down from here, take the stairs on the right to get a *Dubious Disc* and hidden *Max Potion*. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to the diary in the mansion (+1 Terra)
 
 Back upstairs, enter the smaller of two gaps to proceed.
@@ -6749,7 +6749,7 @@ The first thing I recommend for this fight is literally to find a list such as [
 
 > Oh, and if you are able to make the Sandstorm and Stealth Rocks go away and kill Hippowdon, Shedinja with a seed is literally invincible.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Terra (-4 Terra, actually not a choice)
 
 For winning, you'll get the *Gravity Badge* which lets us actually use Waterfall. We also get *TM78 Bulldoze*! We did it.
@@ -6859,7 +6859,7 @@ Talk to Titania then hop down. If you go left, you can use a panel to open a sho
 
 Talk to Titania a few times in the center if you want.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Give Titania some candy when she says she is hungry (+1 Titania)
 
 Lower the water level, then head down into the mud at the top. Push each of the trash to the right such that you'll be able to hop across them into the upper right area. Generally, keep in mind that when the water level rises, the trash will end up one tile higher than they appear to be on when the water level is lowered. Raise the water level when you're done and hop across. You can also use the panel to make a shortcut. Enter the Onyx Water Grid.
@@ -6876,7 +6876,7 @@ Exit out of the door at the top right. Enter the next door and go up to get a *H
 
 Enter this new room, and grab a hidden *Cell Battery*. In the top right is an *Electirizer*. Exit and re-enter, and now there will be an Electrode in the corner. Battle it and transform the Short-Circuit Field into Factory Field. Talk to the nearby machine to get **Fennekin**! 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Read the note that comes with Fennekin (+1 Ace)
 
 Return to the previous room. Enter the Lapis Water Grid via the door at the top left. Go up to the top and go down the stairs to the mud. If you sneak past the trash to the bottom left you can get a *Smoke Ball*. Next, push the four rightmost trash to be all in a line, separated by two between each and such that the middle two surround the white pipe. Raise the water level, and you should now be able to hop across them altogether. Unlock the shutter, lower the water, and grab the *Beryl Grid Key*. 
@@ -6910,7 +6910,7 @@ You'll have a decision to make.
 
 All of the other choices we've made so far actually pale in comparison to the butterfly effect that comes following this choice. For reasons that will become clearer later on, the results of choosing to fight Taka are called the *Zekrom Route* and the results of choosing to not fight Taka are called the *Reshiram Route* by the community, and this guide will also use these conventions.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Fight Taka (+2 Taka, +1 Ace, -1 Titania)
 - Don't Fight Taka (+1 Anna, +1 Shade, -1 Ace, -2 Taka)
 
@@ -7109,7 +7109,7 @@ This first fight is a 12v9 against some grunts. Florinia is pretty helpful here,
 
 This battle in the gauntlet is a bit harder. Since Florinia's team is so slow, I really recommend using Trick Room in this fight - if you can ensure Scizor dies, you can generally overrun their teams with strong super-effective moves. We've beaten these two on their own so if you can generally figure out how to support Florinia in taking them out, you can find a way through this fight.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Florinia joins your team after you did not defeat Solaris on Pyrous (+1 Florinia)
 - Julia joins your team after you did defeat Solaris on Pyrous (+1 Julia, -1 Fern)
 
@@ -7216,7 +7216,7 @@ Ciel is the first fight for a badge that repeats the field used by another, but 
 
 Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, additionally, Electric-type Revelation Dance can rip through all but Gliscor and Altaria pretty easily, so you can just use her strategies right back at her. Even if you don't care a ton about the field, you can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Defeat Ciel on your first try (+2 Samson)
 - Defeat Ciel on your second, third, etc. try (-1 Samson)
 
@@ -7226,10 +7226,10 @@ For winning, you'll get the Suspension Badge, boosting our cap to a whopping Lv.
 
 Head outside the big top. Before we fly back to Reborn City and other previously inaccessible areas, we can snag a new more points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy on Route 4 (+1 Hardy)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Cain in Calcenon City (+1 Cain)
 
 ## Tanzan Cove Water Exploration
@@ -8608,7 +8608,7 @@ Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your p
 
 With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. Of course, we will be getting more of these as well.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Complete the Mega-Z Ring Quest (+2 Arclight)
 
 ## Devon Corporation
@@ -8619,13 +8619,13 @@ Arc can be found outside his nightclub, Victoria in the Beryl Cemetery, and Adri
 
 Enter the Underground Railnet and make your way to the room with the tracks that can be manipulated, then go into the second from the top path that leads to the room containing Aron - you'll know you're on the right track when you see an Absol. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Arclight you're ready to infiltrate Devon (+1 Victoria)
 - Tell Arclight you're not ready to infiltrate Devon (-1 Victoria, -1 Arclight)
 
 Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the grunts! Note that your battle partner is decided by how many points with each character you have right now: you'll get Victoria if her score is at least two points higher than Arclights, and him otherwise.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Battle with Victoria in the Devon Basement (+1 Victoria)
 - Battle with Arclight in the Devon Basement (+1 Arclight)
 
@@ -8681,7 +8681,7 @@ Follow the long green path back to the left. Go down, left, and up as soon as yo
 
 You can turn off the electric tiles in the top right side of the area and proceed to the next section. Note you can buy Common Candies here if you need them.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Arclight you will fight (+1 Victoria, +1 Arclight)
 - Tell Arclight you refuse (+2 Adrienn, -1 Victoria, -1 Arclight)
 
@@ -8737,7 +8737,7 @@ One more puzzle room for now. Follow the ropes to go up and pop out at the top o
 
 Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend saving for just in case you get shocked by accident. Anyways, this next section mostly plays itself: activate monitors as you reach them and dive into the cycle of spinners! Just to save you the agony, switch the Blue tiles to be on as you do this first part. Activate the final two monitors, prepare your team, and head up.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say you did come to destroy everything here (-1 Eve, -1 Lumi)
 - Say you didn't come to destroy everything here (+1 Eve, +1 Lumi)
 
@@ -8892,7 +8892,7 @@ Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Ch
 
 That's it for the side content, so head down to the Coral Ward and talk to Adrienn in their gym.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say you will become the champion (+1 Adrienn)
 - Say you will not become the champion (-2 Adrienn)
 
@@ -8916,7 +8916,7 @@ They will then ask us to help out with a quest. It's optional but pretty easy an
 
 Return to Adrienn after finding as many volunteers as you like. For finding at least 10, you'll get *Wise Glasses*! For finding all 15, you'll also get an *Ability Capsule* and a *Star Piece*! 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Find 10-14 volunteers (+1 Adrienn)
 - Find all 15 volunteers (+2 Adrienn)
 
@@ -8978,12 +8978,12 @@ We can only choose to fund one right now, then each of the other two as soon as 
 
 As soon as you fully fund a project, you will be able to access the Grand Hall basement, so head down there. The bottom room on the right contains an *Adamant Mint*, a *Modest Mint*, and 3 *Exp. Candy XL*. Next door you'll find 2 *EV Boosters*. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Victoria in the Grand Hall basement (+1 Victoria)
 
 If you enter the room at the very top and talk to the computer, you can get a *Lopunnite* and unleash Vulpix. Do it even if you don't like Mega Lopunny, trust me. There is one more quest we can start in the basement but I will cover it a bit later.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Fund Project #1 (+1 Adrienn)
 
 Anyways, the three options:
@@ -9070,7 +9070,7 @@ Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're
 
 Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokemon will be helpful here.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Help Sandy in Malchous Forest (-1 Adrienn)
 
 Once you succeed, your next destination will be the Water Treatment Center. 
@@ -9109,7 +9109,7 @@ Once you succeed, your next destination will be the Water Treatment Center.
 
 These things are tough but a powerful Ground-type sweeper can probably do the trick. Once you win, Sandy will leave.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Help Sandy in the WTC (-1 Adrienn)
 
 While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond.
@@ -9385,7 +9385,7 @@ If you didn't fight Taka at the WTC, now will be the time to fight him!
 
 You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down, so this fight probably won't be too terrible for you. As always, beware of a Shell Smash Minior sweep.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Taka that you will not keep on winning (+1 Taka)
 
 Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay pluses to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. However you will have to be careful that he doesn't knock out wild Pokemon you want to catch, though you can return later once he is no longer with you.
@@ -9394,12 +9394,12 @@ Once you win, Taka will ask if you will let him join your party while you travel
 
 It's worth noting that refusing him here sends you down a different story path than the Reshiram and Zekrom routes, often called the "Hell Route" by the community. (I've never played this route so if you notice inconsistencies with the guide on Hell Route please let me know.)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Don't allow Taka to come with you in the desert (-3 Taka)
 
 If he does join you, you'll lose points for leaving the desert while he's with you.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Leave the desert while Taka is your partner (-2 Taka)
 
 Once you make your choice, it's time to start exploring the desert...
@@ -9574,12 +9574,12 @@ Phew! That's everything we can grab in the Greater Tourmaline Desert.
 
 Note that if Taka is with you:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Taka in the Tourmaline Desert while he's with you (+1 Taka)
 
 It's also worth noting that Taka has 36 different dialogues, some changing depending on your current location. If you talk to him in any location and he asks if you hate his father, you'll potentially get another point.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Taka you don't hate Solaris (+1 Taka)
 
 ### Northwest Tourmaline Desert
@@ -9686,7 +9686,7 @@ Welcome to the Mirage Tower, one of my favorite side areas in the game. We can e
 
 To reach the basement, you'll need to smash every mirror along the top wall with Rock Smash. Doing this will hurt your party members, so healing them if you don't have Taka may be smart. Speaking of Taka:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Taka in the Mirage Tower while he's with you (+1 Taka)
 
 Anyways, head through the opened door to the basement.
@@ -9771,7 +9771,7 @@ Next, I'll take us to the Sugiline Cave. Head over to the east side of the great
 
 As in the other areas:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Taka while he's with you in the Sugiline Cave (+1 Taka)
 
 **Sugiline Cave**
@@ -9858,7 +9858,7 @@ Next, we're going to take a trip to the Teknite Cave in the northwest corner of 
 
 As in the other areas:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Taka while he's with you in the Teknite Cave/Ridge (+1 Taka)
 
 **Teknite Cave Dry Areas**
@@ -9964,7 +9964,7 @@ If you have Taka with you and want him to stay with you for more points, convers
 
 As in the other areas:
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Taka while he's with you in the 1R253 Scrapyard (+1 Taka)
 
 Time to proceed to the next story area! You've probably seen a large area surrounded by tons of traincars in the central northern desert - this is our destination. Actually, to start, make your way to the Northwestern Tourmaline Desert to start. 
@@ -10010,7 +10010,7 @@ Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*
 
 If Taka is with you, he will take a rest and lie down in a train car on the bottom right side of the area. Talk to Europa before you follow him if you like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Europa Taka is your boyfriend (+1 Taka)
 
 You can talk to the residents of the Train Town and learn about them. In the bottom left train, if you've been to Mirage Tower, you'll see a warp that will bring you there. Handy.
@@ -10111,7 +10111,7 @@ You'll wake up in a tower. Read the placards at each floor as you go up or down 
 
 On the exterior of the tower, climb the vines. On the left at the top you'll see the *Dragon's Den Field Readout*. As you head right, Titania will talk to you.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Titania you trust her, while you have >= 0 points with her (+1 Titania)
 - Tell Titania you trust her, while you have < 0 points with her (-1 Titania)
 - Tell Titania you don't trust her, while you have >= 0 points with her (-1 Titania)
@@ -10197,7 +10197,7 @@ If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up 
 
 Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Fund Project #2 (+1 Adrienn)
 
 If you'd like to complete another one, the choices and corresponding references are here:
@@ -10208,7 +10208,7 @@ If you'd like to complete another one, the choices and corresponding references 
 
 There is one more thing we can do before continuing: fly over to Calcenon City.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
 
 ## Torrent Badge
@@ -10233,7 +10233,7 @@ Go left at the first fork to reach the *Slowbronite*! Back at the fork head stra
 
 You'll find Amaria #3 in the pocket towards the center of the room.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Find Amaria #3 and say no (-4 Amaria)
 - Find Amaria #3 and say yes (-3 Amaria)
 
@@ -10421,19 +10421,19 @@ Exit the gym! Time to progress the story just a little bit in order to knock out
 
 Head over to Calcenon City, then enter "that one apartment building where a bunch of plot happens, for some reason". You know the one.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Agree with Hardy about charging the base (+1 Hardy, -1 Florinia)
 - Disagree with Hardy about charging the base (-1 Hardy, +1 Florinia)
 
 Head out towards Route 4. In the gatehouse, talk to Charlotte if you'd like.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Charlotte you believe her while you have >= 0 points with her (+1 Charlotte)
 - Tell Charlotte you believe her while you have < 0 points with her (-1 Charlotte)
 - Tell Charlotte you don't believe her while you have >= 0 points with her (-1 Charlotte)
 - Tell Charlotte you don't believe her while you have < 0 points with her (+1 Charlotte)
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Tell Charlotte you are going to do something about it (+1 Charlotte)
 
 Head out to Route 4. On the east end of the right, you'll see Hardy standing next to a Rock Climbing wall, and as you might guess, he gives us *TMX9 Rock Climb*. Up the nearby hill would be where we'd go to continue the story, but we do have a few sidequests to take care of in the meantime!
@@ -10442,7 +10442,7 @@ Head out to Route 4. On the east end of the right, you'll see Hardy standing nex
 
 With 16 badges in hand, we can finally complete the third and last of the Grand Hall restoration projects. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Fund Project #3 (+1 Adrienn)
 
 Once you've funded all three projects, the guy at the desk will give you the *Absolite*. 
@@ -10898,7 +10898,7 @@ Climb the rocks in the upper left corner to reach a new section of the first Upp
 
 That's it for Route 4 exploration and goodies, so talk to Hardy in the big open area on the left side of the area.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Take on Hardy's bet (+1 Hardy)
 
 Enter the building, and look around with Hardy. Once he leaves, follow him outside and talk to him again. Move the metal plate. If you took on the bet you'll get $2000. 
@@ -10909,7 +10909,7 @@ Up and to the right, you'll see a now-accessible ladder, and Absol. Don't we lov
 
 Talk to Hardy, then follow him into the elevator. Talk to Bennett.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Say "To be stronger than anyone" (-1 Bennett)
 - Say "To win Luna" (Neutral)
 - Say "To make things different" (+2 Bennett)
@@ -10923,7 +10923,7 @@ Talk to Glaceon again to see another of its abilities: creating a path over lava
 
 Defeat the Team Meteor Grunt, and talk to the monitor in the corner to open the door. Glaceon will start to follow you. You can talk to it to heal status conditions on your team members for free. You can also choose whether to pet Glaceon or not, for the quest but also for points and a different battle later on. Pretty intense choice, I know.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Pet Glaceon (+2 Lumi)
 - Don't pet Glaceon (-3 Lumi)
 
@@ -10937,7 +10937,7 @@ There's nowhere else to go but up the ladder to the right. Unfortunately Glaceon
 
 Espeon can use Future Sight, which shows a blurry image of our next objectives. Helpful if you get stuck... or you can just read on. Anyways, you can also choose to pet Espeon for the quest, and for points.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Pet Espeon (+1 Eve)
 - Don't pet Espeon (-1 Eve)
 
@@ -11003,12 +11003,12 @@ He'll give you the *Meteor Card*.
 
 If you didn't get it from Aster, grab the *Meteor Card* at the top. You can also get 3 *Exp. Candy XL*. Open the pods in this room. 
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Use Heal Bell on Noel (+1 Noel)
 
 Take the elevator back to the bottom floor. Before we continue, take Glaceon into the elevator where Hardy is sleeping.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Use Heal Bell on Hardy twice (+1 Hardy)
 
 Next, switch back to Espeon. Return to the room on the upper floor with the glass. Move the glass out of the way. Note that despite every pallet in the dungeon so far appearing to only move "along the grain", you'll need to push the bottom right one down to finish this puzzle. It's a bit odd but mess around with this puzzle a few times and you'll figure it out. Anyways, you'll get a *Reborn Ball*! This is Reborn's Master Ball.
@@ -11209,7 +11209,7 @@ When you reach a table full of starters, talk to the position corresponding to t
 
 Later on, you'll pass Aya's segment. You can optionally talk to Cain for a third time.
 
-Relationship Point Choices:
+**Relationship Point Choices:**
 - Talk to Cain in The Void after Aya's section (+1 Cain)
 
 After seeing Luna and Taka on the left side, a voice will talk to you. Prepare your team before going up, as there's a fight coming up!
@@ -11227,11 +11227,163 @@ Keep following the path, and you'll eventually exit the Void. After another mass
 
 ## The Raid on Agate City
 
-Stub
+Back in Calcenon City, talk to Shelly towards the right side of the map. Enter the "story building" in Calcenon for some points.
+
+**Relationship Point Choices:**
+- Talk to Shelly while she is talking to Titania/Serra (+1 Shelly)
+
+**Relationship Point Choices:**
+- Reshiram Route only: Talk to Titania while she is talking to Shelly (+1 Titania)
+- Zekrom Route only: Talk to Serra while she is talking to Shelly (+1 Serra)
+
+Talk to Eve near the Pokemon Center.
+
+**Relationship Point Choices:**
+- Talk to Eve and learn about all the PULSEs remaining (+1 Eve)
+
+Enter the "story building" once more. The squad will leave for Agate City, so fly over to Vanhanen Labyrinth and enter Agate City from the south once more.
+
+A note:
+
+**Relationship Point Choices:**
+- Reshiram Route only: Talk to Titania while doing the Agate raid (-1 Titania)
+
+Defeat the grunts as you progress upwards. Past the Light Shard is a mini-gauntlet.
+
+**New World Orderly Howaya & New World Orderly Christina. Field: No Field**
+- Ludicolo, Lv. 87, Ability: Swift Swim, Serious Nature, IVs: 10
+    - Rain Dance
+    - Giga Drain
+    - Surf
+    - Ice Beam
+- Lapras, Lv. 87, Ability: Water Absorb, Serious Nature, IVs: 10
+    - Smart Strike
+    - Dragon Dance
+    - Waterfall
+    - Ice Shard
+- Magneton, Lv. 88, Ability: Sturdy, Serious Nature, IVs: 10
+    - Discharge
+    - Flash Cannon
+    - Electric Terrain
+    - Explosion
+- Lanturn, Lv. 89, Ability: Volt Absorb, Serious Nature, IVs: 10
+    - Discharge
+    - Icy Wind
+    - Surf
+    - Dazzling Gleam
+- Porygon-Z, Lv. 89, Ability: Adaptability, Serious Nature, IVs: 10
+    - Thunderbolt
+    - Ice Beam
+    - Tri Attack
+    - Dark Pulse
+- Beheeyem, Lv. 87, Ability: Telepathy, Serious Nature, IVs: 10
+    - Psychic
+    - Energy Ball
+    - Dark Pulse
+    - Shadow Ball
+- Eelektross, Lv. 87, @Amplifield Rock, Serious Nature, IVs: 10
+    - Throat Chop
+    - Ion Deluge
+    - Rock Slide
+    - Wild Charge
+- Cryogonal, Lv. 88, Serious Nature, IVs: 10
+    - Icy Wind
+    - Light Screen
+    - Reflect
+    - Freeze-Dry
+- Seismitoad, Lv. 89, @Zoom Lens, Ability: Swift Swim, Serious Nature, IVs: 10
+    - Muddy Water
+    - Hyper Voice
+    - Sludge Wave
+    - Earth Power
+- Clefable, Lv. 89, @Charcoal, Ability: Magic Guard, Serious Nature, IVs: 10
+    - Moonblast
+    - Wish
+    - Protect
+    - Fire Blast
+
+This fight is a 12v10, with Hardy on your side. Shouldn't be too crazy with his help, just know that whatever team you prepare for the following battle is what you'll be stuck with for this one.
+
+**Meteor Leader Solaris (Full Restore). Field: No Field**
+- Staraptor, Lv. 89, @Leftovers, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 156/100/0/0/0/252
+    - Return
+    - Close Combat
+    - U-turn
+    - Brave Bird
+- Scizor, Lv. 88, @Life Orb, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Bullet Punch
+    - U-turn
+    - Superpower
+    - Knock Off
+- Gyarados, Lv. 90, @Wacan Berry, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Earthquake
+    - Waterfall
+    - Outrage
+- Tyranitar, Lv. 89, @Smooth Rock, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Stone Edge
+    - Earthquake
+    - Crunch
+    - Fire Punch
+- Excadrill, Lv. 90, @Focus Sash, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - Rock Slide
+    - Swords Dance
+    - Iron Head
+- Garchomp, Lv. 93, @Garchompite, Ability: Rough Skin, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Swords Dance
+    - Earthquake
+    - Dragon Claw
+    - Stone Edge
+
+After all this time, we finally get to fight Meteor's Leader Solaris, one-on-one. No field effects are in play this fight: it's just the raw power of basically a Gen 7 OU team versus yours. Staraptor with Intimidate that hits hard? Yep. Technician Scizor with ridiculously strong Bullet Punch? Yep. Dragon Dance Gyarados? Yep. Tyranitar and Excadrill sand core? Of course. And on top of all that is his Mega Garchomp. That is not a typo above: it really does have max EVs in every stat, thanks to its PULSE 2. Get used to these for the end game. Essentially what this means is Garchomp will hit hard but also be bulky enough to live a couple of attacks.
+
+At this point you also have a lot of mega Pokemon and Z-moves to your name. In particular, I find that the Icium-Z can often ensure a kill on Garchomp if you need. It's worth noting that he doesn't have a single special attack on his team... so you can focus your team entirely on physical defense. Some fast (or slow under Trick Room) special attackers running Fire, Ice, and Electric moves will be able to get 5 out of 6 of his party members super-effectively... leaving Tyranitar an excellent candidate for a Close Combat or something. I believe in your ability to defeat this guy!
+
+Make your way to the right. You'll reach a dead end, so surf up to the left of a tree to continue on.
+
+**Agate City**
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
+|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
+|                  |   |Basculin          |20 |Basculin          |15 |
+|                  |   |                  |   |Slowpoke          |5  |
+
+|Water             |%  |
+|------------------|---|
+|Wailmer           |60 |
+|Lumineon          |30 |
+|Wishiwashi        |6  |
+|Seaking           |4  |
+
+Climb the first waterfall and grab the hidden *Stardust*. After climbing the second waterfall, head to the left. You'll find a hidden *Quick Ball*. Go down the waterfall and dive down.
+
+**Agate City Underwater**
+
+|Land              |%  |
+|------------------|---|
+|Corphish          |30 |
+|Clamperl          |20 |
+|Chinchou          |10 |
+|Seadra            |10 |
+|Lanturn           |10 |
+|**Huntail**       |5  |
+|**Gorebyss**      |5  |
+|Crawdaunt         |5  |
+|Mantine           |4  |
+|Kingdra           |1  |
+
+You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poke Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
+
+In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky Egg*, then backtrack to the main part of the city. To the east of the Pokemon Center, watch the scenes play out then talk to Shelly. Hardy will then extend an offer to challenge his gym!
 
 ## Agate City & Sidequests
 
-Stub
+We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokemon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
+
+
 
 ## Bee's Pokedex Completion Quest Part 1
 
