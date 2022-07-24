@@ -11199,6 +11199,8 @@ Even after making it through the previous two battles, you're thrusted into a th
 
 Otherwise there's not really a ton I can say: spam 'D' to drop a save before this fight and just play it out as many times as it takes for you to realize where the threats to your team are, and how you can overcome them. Conserving momentum is key as before, Trick Room as always is very potent, and weather and/or the field can help you steamroll. Using Snatch or Brick Break to mess with Aurora Veil, changing the weather, etc. are good options. Even if you have dropped a save mid-gauntlet, don't be afraid to throw away some money (or load a backup save) to better prepare for the gauntlet.
 
+Once you win this battle, you'll find yourself in an area simply called "???".
+
 ## Inside The Void
 
 Stub
