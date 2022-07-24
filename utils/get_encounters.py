@@ -1,11 +1,19 @@
 
+from multiprocessing.sharedctypes import Value
 import os
 import re
+import sys
 from collections import defaultdict
+from turtle import write_docstringdict
+from common import *
 
-POKEMON_WIDTH = 19
-PERCENT_WIDTH = 3
+POKEMON_WIDTH = 19 # width of pokemon name column for encounter md tables
+PERCENT_WIDTH = 3 # width of percent for encounter md tables. 
+# (always 3 for vals <= 100)
+
 ENC_TYPES = {
+    # stores probability array per encounter type as defined in 
+    # pokemon essentials
     "Land": [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
     "LandMorning": [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
     "LandDay": [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
@@ -19,6 +27,7 @@ ENC_TYPES = {
     "HeadbuttLow": [30, 25, 20, 10, 5, 5, 4, 1],
     "HeadbuttHigh": [30, 25, 20, 10, 5, 5, 4, 1]
 }
+
 ENC_NAMES = {
     # Keys are internal name concatenations
     # Values are readable representations of each grouping
@@ -41,7 +50,8 @@ ENC_NAMES = {
     "HeadbuttHigh": "Headbutt Common",
     "HeadbuttLowHeadbuttHigh": "Headbutt"
 }
-CORRECTED_NAMES = {
+
+CORR_MON_NAMES = {
         # keys are internal names, values are formatted names
         # for usage: if not listed, use internal name
         "Nidoranma": "Nidoran M.",
@@ -75,8 +85,8 @@ def split_text_into_blocks(text):
 
 def get_correct_pokemon_name(string):
     ans = string.capitalize()
-    if ans in CORRECTED_NAMES:
-        return CORRECTED_NAMES[ans]
+    if ans in CORR_MON_NAMES:
+        return CORR_MON_NAMES[ans]
     return ans
 
 def get_data_from_block(block):
@@ -85,7 +95,6 @@ def get_data_from_block(block):
     data['area_code'], data['area_name'] = content[0].split(' # ')
     if data['area_name'][-1] == ' ':
         data['area_name'] = data['area_name'][:-1]
-    #print (content[0].split(' # '))
     data['encounter_rates'] = tuple(content[1].split(','))
     for line in content[2:]:
         if line == '':
@@ -170,11 +179,11 @@ def process_mini_tables(mini_tables):
             finals.append(combine_tables(x))
     return finals
 
-def write_to_file_2():
-    text = read_me()
+def process_encounters(data, game="reborn"):
     out = []
     s = {}
-    blocks = split_text_into_blocks(text)
+    blocks = split_text_into_blocks(data)
+
     for block in blocks:
         data = get_data_from_block(block)
         tables = get_markdown_tables(data)
@@ -182,9 +191,6 @@ def write_to_file_2():
         if not string_tables in s:
             s[string_tables] = []
         s[string_tables].append((data["area_code"], data["area_name"]))
-        if data["area_name"][-1] == " ":
-            print (data["area_name"])
-        # out.append("\n")
 
     for thing, l in s.items():
         codes = ', '.join([thing[0] for thing in l])
@@ -196,7 +202,21 @@ def write_to_file_2():
         out.append(thing)
         out.append("\n\n")
 
-    write_me(''.join(out))
-    print ("Done")
+    return(''.join(out))
 
-write_to_file_2()
+def main():
+    try:
+        game = sys.argv[1].lower()
+    except IndexError:
+        print ("WARNING: Game not provided as argument. Proceeding with game='reborn'...")
+        game = "reborn"
+    if game not in GAMES:
+        raise ValueError(f"{game} is not a valid game.")
+
+    data = read_pbs_file("encounters", game)
+    outfile = write_resource_file(process_encounters(data, game), "encounters")
+    print (f"Generated encounters textfile at {outfile}.")
+
+
+if __name__ == "__main__":
+    main()

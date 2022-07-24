@@ -30,15 +30,6 @@ odd_ones.extend([
     "Wishiwashi-Solo"
 ])
 
-def read_me():
-    with open(f"reborn_trainer_data.txt") as f:
-        data = f.read()
-    return data
-
-def write_me(content):
-    with open(f"reborn_trainer_lists.txt", 'w') as f:
-        f.write(content)
-
 def generate_trainer(trainer):
     lines = []
 

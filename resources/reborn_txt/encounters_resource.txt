@@ -1,0 +1,3989 @@
+014, 015, 017, 097, 109
+**Apophyll Academy, Apophyll Beach, Coral Ward**
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Grimer             |100|Muk                |60 |
+|                   |   |Tentacool          |20 |
+|                   |   |Skrelp             |20 |
+
+016
+**Apophyll Beach**
+
+|Rock Smash         |%  |
+|-------------------|---|
+|Geodude            |60 |
+|Shuckle            |39 |
+|Binacle            |1  |
+
+018, 020
+**Apophyll Beach**
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Grimer             |100|Muk                |60 |
+|                   |   |Tentacool          |20 |
+|                   |   |Skrelp             |20 |
+
+|Cave               |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|
+|Sandygast          |98 |Krabby             |90 |
+|Palossand          |2  |Corphish           |5  |
+|                   |   |Binacle            |5  |
+
+019
+**Apophyll Beach**
+
+|Rock Smash         |%  |
+|-------------------|---|
+|Krabby             |90 |
+|Corphish           |9  |
+|Binacle            |1  |
+
+021
+**Pyrous Mountain**
+
+|Rock Smash         |%  |
+|-------------------|---|
+|Geodude            |90 |
+|Shuckle            |10 |
+
+027
+**Pyrous Mountain**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Charmander         |95 |
+|Charmeleon         |4  |
+|Charizard          |1  |
+
+029
+**Opal Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Rattata            |30 |Rattata            |30 |
+|Bidoof             |30 |Meowth             |20 |
+|Patrat             |15 |Ekans              |20 |
+|Pidgey             |15 |Hoothoot           |17 |
+|Meowth             |5  |Spinarak           |13 |
+|Ekans              |5  |                   |   |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Pineco             |40 |
+|Spearow            |30 |
+|Combee             |30 |
+
+030
+**Apophyll Cave**
+
+|Cave               |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|
+|Graveler           |30 |Geodude            |60 |
+|Crabrawler         |25 |Nosepass           |40 |
+|Noibat             |20 |                   |   |
+|Numel              |18 |                   |   |
+|Stunfisk           |7  |                   |   |
+
+031
+**Apophyll Cave 2F**
+
+|Cave               |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|
+|Crabrawler         |25 |Geodude            |60 |
+|Dwebble            |24 |Nosepass           |40 |
+|Graveler           |20 |                   |   |
+|Numel              |14 |                   |   |
+|Noibat             |10 |                   |   |
+|Stunfisk           |6  |                   |   |
+|Crustle            |1  |                   |   |
+
+033, 034, 035, 199, 201, 202, 203, 204
+**Pyrous Mountain 1F, Pyrous Mountain 2F, Pyrous Mountain 3F, Pyrous Mountain B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Numel              |25 |
+|Diglett            |20 |
+|Noibat             |14 |
+|Slugma             |10 |
+|Sawk               |10 |
+|Throh              |10 |
+|Graveler           |6  |
+|Dugtrio            |4  |
+|Magcargo           |1  |
+
+036
+**Obsidia Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |30 |Oddish             |20 |Hoothoot           |40 |
+|Bellsprout         |20 |Bellsprout         |20 |Bellsprout         |20 |
+|Sunkern            |20 |Venonat            |10 |Oddish             |20 |
+|Oddish             |15 |Sentret            |10 |Venonat            |18 |
+|Sentret            |5  |Buneary            |10 |Bonsly             |2  |
+|Slakoth            |5  |Bonsly             |10 |                   |   |
+|Sunflora           |5  |Sunkern            |10 |                   |   |
+|                   |   |Slakoth            |5  |                   |   |
+|                   |   |Sunflora           |5  |                   |   |
+
+037, 057
+**Lower Peridot Ward, Peridot Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Ledyba             |30 |Caterpie           |30 |Hoothoot           |30 |
+|Cherubi            |24 |Wurmple            |30 |Spinarak           |24 |
+|Wurmple            |20 |Sunkern            |30 |Wurmple            |20 |
+|Caterpie           |20 |Cherubi            |10 |Caterpie           |20 |
+|Sunkern            |6  |                   |   |Sunkern            |6  |
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Grimer             |100|Muk                |60 |
+|                   |   |Tentacool          |20 |
+|                   |   |Skrelp             |20 |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Swablu             |55 |
+|Burmy              |45 |
+
+041, 633
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Noibat             |74 |
+|Woobat             |20 |
+|Stunky             |6  |
+
+046
+**Lower Peridot Ward**
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Goldeen            |70 |Goldeen            |60 |
+|Finneon            |30 |Finneon            |20 |
+|                   |   |Seaking            |20 |
+
+052
+**Lower Peridot Alley**
+
+|Cave               |%  |
+|-------------------|---|
+|Trubbish           |60 |
+|Stunky             |22 |
+|Poochyena          |18 |
+
+058
+**North Peridot Alley**
+
+|Cave               |%  |
+|-------------------|---|
+|Trubbish           |45 |
+|Poochyena          |34 |
+|Purrloin           |21 |
+
+088
+**Obsidia Slums B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Pidove             |30 |
+|Trubbish           |20 |
+|Mankey             |20 |
+|Pancham            |10 |
+|Yungoos            |10 |
+|Crabrawler         |10 |
+
+090
+**Obsidia Slums 1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Pidove             |30 |
+|Trubbish           |20 |
+|Mankey             |20 |
+|Pancham            |10 |
+|Yungoos            |10 |
+|Slakoth            |10 |
+
+091
+**Obsidia Slums 2F**
+
+|Cave               |%  |
+|-------------------|---|
+|Pidove             |30 |
+|Trubbish           |20 |
+|Mankey             |20 |
+|Pancham            |10 |
+|Yungoos            |10 |
+|Meowth             |10 |
+
+103, 635
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Noibat             |60 |
+|Woobat             |20 |
+|Klink              |20 |
+
+105
+**Obsidia Alleyway**
+
+|Cave               |%  |
+|-------------------|---|
+|Trubbish           |45 |
+|Koffing            |22 |
+|Yungoos            |20 |
+|Poochyena          |13 |
+
+107
+**REMOVED**
+
+|Land               |%  |
+|-------------------|---|
+|Venonat            |30 |
+|Bellsprout         |30 |
+|Oddish             |30 |
+|Sunflora           |10 |
+
+128
+**Onyx Ward**
+
+|Land               |%  |
+|-------------------|---|
+|Bellsprout         |35 |
+|Tranquill          |25 |
+|Pidove             |20 |
+|Spearow            |10 |
+|Venonat            |10 |
+
+130, 134, 135, 137, 138
+**Jasper Ward**
+
+|Cave               |%  |
+|-------------------|---|
+|Beedrill           |25 |
+|Sewaddle           |24 |
+|Scatterbug         |20 |
+|Pidgey             |20 |
+|Carnivine          |7  |
+|Pidgeotto          |4  |
+
+132
+**Malchous Forest Park**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Beedrill           |20 |Beedrill           |30 |Scatterbug         |20 |
+|Sewaddle           |20 |Pidgey             |20 |Spinarak           |20 |
+|Scatterbug         |20 |Fomantis           |10 |Hoothoot           |20 |
+|Ledyba             |19 |Scatterbug         |10 |Paras              |19 |
+|Fomantis           |10 |Oddish             |10 |Fomantis           |10 |
+|Pidgey             |10 |Bellsprout         |10 |Pansage            |6  |
+|Pansage            |1  |Pansage            |9  |Carnivine          |5  |
+|                   |   |Carnivine          |1  |                   |   |
+
+149
+**Beryl Ward**
+
+|Cave               |%  |
+|-------------------|---|
+|Pansage            |20 |
+|Pidgeotto          |20 |
+|Spearow            |15 |
+|Bellsprout         |14 |
+|Scatterbug         |11 |
+|Sewaddle           |11 |
+|Oddish             |9  |
+
+150
+**Rhodochrine Jungle**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Sewaddle           |30 |Spearow            |20 |Paras              |24 |
+|Ledian             |20 |Pansage            |20 |Hoothoot           |20 |
+|Spearow            |11 |Gloom              |10 |Ariados            |20 |
+|Scatterbug         |10 |Sewaddle           |10 |Gloom              |10 |
+|Dedenne            |10 |Scatterbug         |10 |Spinarak           |10 |
+|Ledyba             |9  |Dedenne            |10 |Tangela            |9  |
+|Pansage            |5  |Doduo              |5  |Pachirisu          |5  |
+|Pachirisu          |4  |Pachirisu          |5  |Farfetch'd         |2  |
+|Farfetch'd         |1  |Farfetch'd         |5  |                   |   |
+|                   |   |Tangela            |5  |                   |   |
+
+151, 152
+**Beryl Cemetery, Beryl Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Fearow             |20 |Fearow             |20 |Meowth             |44 |
+|Spearow            |20 |Doduo              |20 |Noctowl            |25 |
+|Phanpy             |14 |Ekans              |20 |Ekans              |20 |
+|Arbok              |11 |Phanpy             |14 |Hoothoot           |10 |
+|Doduo              |10 |Arbok              |11 |Arbok              |1  |
+|Fletchling         |10 |Fletchling         |10 |                   |   |
+|Ekans              |10 |Bunnelby           |5  |                   |   |
+|Bunnelby           |5  |                   |   |                   |   |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Pineco             |55 |
+|Burmy              |35 |
+|Aipom              |10 |
+
+153
+**The Underroot**
+
+|Land               |%  |
+|-------------------|---|
+|Zigzagoon          |20 |
+|Morelull           |20 |
+|Noibat             |10 |
+|Psyduck            |10 |
+|Kecleon            |10 |
+|Spinda             |10 |
+|Woobat             |5  |
+|Shuppet            |5  |
+|Phantump           |5  |
+|Bunnelby           |5  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Barboach           |70 |Psyduck            |60 |Seaking            |40 |
+|Chinchou           |30 |Skrelp             |20 |Golduck            |40 |
+|                   |   |Whiscash           |20 |Whiscash           |15 |
+|                   |   |                   |   |Dragalge           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Psyduck            |60 |
+|Lombre             |30 |
+|Seaking            |5  |
+|Golduck            |4  |
+|Ludicolo           |1  |
+
+165
+**North Obsidia Alleyway**
+
+|Cave               |%  |
+|-------------------|---|
+|Stunky             |25 |
+|Trubbish           |20 |
+|Poochyena          |20 |
+|Yungoos            |20 |
+|Espurr             |13 |
+|Mightyena          |2  |
+
+170
+**Lapis Alleyway**
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Barboach           |100|Barboach           |80 |
+|                   |   |Carvanha           |20 |
+
+|Cave               |%  |
+|-------------------|---|
+|Stunky             |25 |
+|Trubbish           |20 |
+|Rattata            |20 |
+|Meowth             |20 |
+|Espurr             |13 |
+|Raticate           |1  |
+|Persian            |1  |
+
+178
+**Grand Stairway B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Sandshrew          |30 |
+|Graveler           |21 |
+|Noibat             |20 |
+|Diglett            |10 |
+|Geodude            |10 |
+|Chingling          |8  |
+|Dunsparce          |1  |
+
+179, 512
+**Grand Stairway B2F, Grand Stairway B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Sandshrew          |30 |
+|Graveler           |25 |
+|Geodude            |15 |
+|Diglett            |10 |
+|Chingling          |10 |
+|Unown              |5  |
+|Dunsparce          |5  |
+
+180
+**Grand Stairway B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Unown              |100|
+
+184, 185, 186
+**Beryl Cave 1F, Beryl Cave B1F, Beryl Cave B2F**
+
+|Cave               |%  |
+|-------------------|---|
+|Scatterbug         |30 |
+|Morelull           |30 |
+|Bunnelby           |15 |
+|Noibat             |15 |
+|Spewpa             |4  |
+|Shiinotic          |4  |
+|Diggersby          |1  |
+|Vivillon           |1  |
+
+196, 634
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Noibat             |30 |
+|Klink              |20 |
+|Geodude            |10 |
+|Graveler           |10 |
+|Woobat             |10 |
+|Mawile             |10 |
+|Skorupi            |9  |
+|Klang              |1  |
+
+198
+**Yureyu Power Plant**
+
+|Cave               |%  |
+|-------------------|---|
+|Voltorb            |30 |
+|Klink              |30 |
+|Yamask             |15 |
+|Duskull            |14 |
+|Togedemaru         |10 |
+|Klang              |1  |
+
+200
+**Pyrous Mountain B2F - Sp.Atk EVs**
+
+|Cave               |%  |
+|-------------------|---|
+|Slugma             |50 |
+|Numel              |50 |
+
+206
+**Azurine Island**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Palpitoad          |25 |Palpitoad          |25 |Foongus            |20 |
+|Foongus            |20 |Foongus            |20 |Gloom              |20 |
+|Yanma              |16 |Gloom              |20 |Palpitoad          |15 |
+|Wooper             |10 |Wooper             |10 |Skorupi            |10 |
+|Shellos            |10 |Shellos            |10 |Zubat              |10 |
+|Gloom              |10 |Shelmet            |6  |Amoonguss          |10 |
+|Quagsire           |5  |Quagsire           |5  |Quagsire           |5  |
+|Amoonguss          |4  |Amoonguss          |4  |Paras              |4  |
+|                   |   |                   |   |Golbat             |4  |
+|                   |   |                   |   |Parasect           |1  |
+|                   |   |                   |   |Ariados            |1  |
+
+|Old Rod            |%  |Good Rod           |%  |
+|-------------------|---|-------------------|---|
+|Grimer             |100|Muk                |60 |
+|                   |   |Tentacool          |20 |
+|                   |   |Skrelp             |20 |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Pineco             |55 |
+|Burmy              |30 |
+|Exeggcute          |15 |
+
+209
+**Byxbysion Wasteland**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Skorupi            |30 |Muk                |30 |Skorupi            |20 |
+|Arbok              |25 |Trubbish           |20 |Weezing            |20 |
+|Trubbish           |20 |Arbok              |11 |Cubone             |13 |
+|Munna              |11 |Koffing            |10 |Venipede           |10 |
+|Ekans              |10 |Venipede           |10 |Koffing            |10 |
+|Venipede           |4  |Ekans              |10 |Whirlipede         |10 |
+|                   |   |Weezing            |9  |Drapion            |10 |
+|                   |   |                   |   |Muk                |7  |
+
+|Rock Smash         |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Geodude            |60 |Pineco             |75 |
+|Nincada            |35 |Unown              |15 |
+|Graveler           |5  |Inkay              |10 |
+
+214, 216, 217, 219
+**Byxbysion Grotto, Byxbysion Tunnels, Hidden Tunnel**
+
+|Cave               |%  |
+|-------------------|---|
+|Zubat              |30 |
+|Trubbish           |20 |
+|Solosis            |20 |
+|Koffing            |10 |
+|Onix               |10 |
+|Mawile             |6  |
+|Golbat             |4  |
+
+215
+**Byxbysion Tunnels**
+
+|Cave               |%  |
+|-------------------|---|
+|Trubbish           |20 |
+|Zubat              |20 |
+|Nidoran M.         |15 |
+|Nidoran F.         |15 |
+|Solosis            |10 |
+|Koffing            |10 |
+|Nidorina           |5  |
+|Nidorino           |5  |
+
+228
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Noibat             |30 |
+|Klink              |25 |
+|Geodude            |10 |
+|Graveler           |10 |
+|Woobat             |10 |
+|Mawile             |9  |
+|Skorupi            |4  |
+|Drapion            |1  |
+|Klang              |1  |
+
+229
+**Underground Railnet**
+
+|Cave               |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Noibat             |30 |Aron               |100|
+|Klink              |25 |                   |   |
+|Geodude            |10 |                   |   |
+|Graveler           |10 |                   |   |
+|Woobat             |10 |                   |   |
+|Mawile             |9  |                   |   |
+|Skorupi            |4  |                   |   |
+|Drapion            |1  |                   |   |
+|Klang              |1  |                   |   |
+
+231
+**Tanzan Mountain**
+
+|Cave               |%  |
+|-------------------|---|
+|Geodude            |20 |
+|Noibat             |20 |
+|Sandshrew          |20 |
+|Onix               |20 |
+|Kecleon            |14 |
+|Sandile            |6  |
+
+232
+**Tanzan Cove**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Cutiefly           |20 |Cutiefly           |20 |Dedenne            |25 |
+|Ducklett           |20 |Oricorio           |20 |Cutiefly           |20 |
+|Audino             |15 |Togedemaru         |10 |Togedemaru         |10 |
+|Poliwag            |15 |Ducklett           |10 |Paras              |10 |
+|Ledian             |14 |Comfey             |10 |Comfey             |10 |
+|Oricorio           |10 |Ribombee           |10 |Ribombee           |10 |
+|Ribombee           |5  |Audino             |9  |Oricorio           |5  |
+|Poliwhirl          |1  |Swanna             |6  |Audino             |5  |
+|                   |   |Dedenne            |5  |Ariados            |4  |
+|                   |   |                   |   |Parasect           |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Goldeen            |70 |Basculin           |60 |Luvdisc            |45 |
+|Seaking            |30 |Mantyke            |20 |Whiscash           |40 |
+|                   |   |Luvdisc            |20 |Mantine            |15 |
+
+|Water              |%  |
+|-------------------|---|
+|Ducklett           |60 |
+|Lumineon           |30 |
+|Seaking            |6  |
+|Swanna             |4  |
+
+234
+**Chrysolia Forest**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Spinda             |21 |Spinda             |25 |Pikipek            |20 |
+|Pikipek            |20 |Pikipek            |20 |Furfrou            |20 |
+|Ledian             |14 |Deerling           |10 |Spinda             |10 |
+|Furfrou            |10 |Furfrou            |10 |Paras              |10 |
+|Deerling           |10 |Trumbeak           |10 |Togedemaru         |10 |
+|Comfey             |10 |Comfey             |10 |Trumbeak           |10 |
+|Togedemaru         |5  |Togedemaru         |5  |Comfey             |5  |
+|Audino             |5  |Audino             |5  |Audino             |5  |
+|Minccino           |4  |Minccino           |4  |Volbeat            |5  |
+|Toucannon          |1  |Toucannon          |1  |Illumise           |5  |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Taillow            |60 |
+|Chatot             |30 |
+|Pineco             |10 |
+
+238
+**Chrysolia Spring 1F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |70 |Shellos            |60 |Slowpoke           |40 |
+|Barboach           |30 |Barboach           |20 |Gastrodon          |40 |
+|                   |   |Clauncher          |20 |Whiscash           |15 |
+|                   |   |                   |   |Quagsire           |4  |
+|                   |   |                   |   |Clawitzer          |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Noibat             |20 |Shellos            |60 |
+|Numel              |20 |Barboach           |30 |
+|Panpour            |10 |Gastrodon          |5  |
+|Pansear            |10 |Whiscash           |4  |
+|Oricorio           |10 |Quagsire           |1  |
+|Onix               |10 |                   |   |
+|Kecleon            |10 |                   |   |
+|Simisear           |4  |                   |   |
+|Simipour           |4  |                   |   |
+|Gastrodon          |1  |                   |   |
+|Camerupt           |1  |                   |   |
+
+247, 258, 259, 261, 262, 263, 264
+**Tanzan Depths**
+
+|Cave               |%  |
+|-------------------|---|
+|Onix               |20 |
+|Geodude            |20 |
+|Sandslash          |14 |
+|Graveler           |10 |
+|Diglett            |10 |
+|Arbok              |10 |
+|Hippopotas         |6  |
+|Dugtrio            |5  |
+|Durant             |5  |
+
+251
+**Lost Railcave**
+
+|Cave               |%  |
+|-------------------|---|
+|Kecleon            |24 |
+|Graveler           |20 |
+|Noibat             |20 |
+|Sandshrew          |10 |
+|Onix               |10 |
+|Swinub             |10 |
+|Smeargle           |6  |
+
+260
+**Tanzan Depths**
+
+|Cave               |%  |
+|-------------------|---|
+|Onix               |20 |
+|Geodude            |20 |
+|Sandslash          |14 |
+|Graveler           |10 |
+|Diglett            |10 |
+|Arbok              |10 |
+|Dugtrio            |5  |
+|Hippopotas         |5  |
+|Durant             |5  |
+|Hippowdon          |1  |
+
+269
+**Obsidia Park**
+
+|Land               |%  |
+|-------------------|---|
+|Venonat            |20 |
+|Bellsprout         |20 |
+|Oddish             |20 |
+|Sunkern            |15 |
+|Buneary            |10 |
+|Sunflora           |5  |
+|Slakoth            |5  |
+|Bonsly             |5  |
+
+280
+**Wasteland Wall**
+
+|Land               |%  |
+|-------------------|---|
+|Mew                |100|
+
+281
+**Yureyu Power Plant**
+
+|Cave               |%  |
+|-------------------|---|
+|Togedemaru         |20 |
+|Klink              |20 |
+|Electrode          |15 |
+|Voltorb            |10 |
+|Yamask             |10 |
+|Duskull            |10 |
+|Klang              |5  |
+|Cofagrigus         |5  |
+|Dusclops           |4  |
+|Klinklang          |1  |
+
+282, 283, 284
+**South Aventurine Woods**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |20 |Pachirisu          |24 |Paras              |20 |
+|Ledyba             |20 |Buneary            |20 |Spinarak           |20 |
+|Passimian          |10 |Passimian          |10 |Passimian          |10 |
+|Panpour            |10 |Panpour            |10 |Panpour            |10 |
+|Pansear            |10 |Pansear            |10 |Pansear            |10 |
+|Pansage            |10 |Pansage            |10 |Pansage            |10 |
+|Pachirisu          |9  |Bewear             |6  |Ariados            |6  |
+|Ledian             |6  |Sudowoodo          |5  |Kricketune         |5  |
+|Primeape           |4  |Primeape           |4  |Bewear             |5  |
+|Bewear             |1  |Loudred            |1  |Primeape           |4  |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Combee             |40 |Combee             |40 |
+|Swablu             |25 |Swablu             |25 |
+|Taillow            |20 |Taillow            |20 |
+|Komala             |6  |Komala             |6  |
+|Pineco             |5  |Pineco             |5  |
+|Mothim             |4  |Wormadam           |4  |
+
+285, 286, 287, 290, 291
+**Route 1**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Deerling           |20 |Deerling           |20 |Arbok              |24 |
+|Cherubi            |20 |Ponyta             |20 |Ponyta             |20 |
+|Tauros             |10 |Tauros             |10 |Tauros             |10 |
+|Bouffalant         |10 |Bouffalant         |10 |Bouffalant         |10 |
+|Miltank            |10 |Miltank            |10 |Karrablast         |10 |
+|Kangaskhan         |10 |Kangaskhan         |10 |Kangaskhan         |10 |
+|Mudbray            |5  |Skiddo             |5  |Audino             |5  |
+|Skiddo             |5  |Linoone            |5  |Linoone            |5  |
+|Audino             |4  |Mudbray            |4  |Mudbray            |4  |
+|Cherrim            |4  |Audino             |4  |Rapidash           |1  |
+|Gogoat             |1  |Gogoat             |1  |Mudsdale           |1  |
+|Mudsdale           |1  |Mudsdale           |1  |                   |   |
+
+288
+**North Aventurine Woods**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |20 |Pachirisu          |24 |Paras              |20 |
+|Ledyba             |20 |Buneary            |20 |Spinarak           |20 |
+|Oranguru           |10 |Oranguru           |10 |Oranguru           |10 |
+|Panpour            |10 |Panpour            |10 |Panpour            |10 |
+|Pansear            |10 |Pansear            |10 |Pansear            |10 |
+|Pansage            |10 |Pansage            |10 |Pansage            |10 |
+|Pachirisu          |9  |Bewear             |6  |Ariados            |6  |
+|Ledian             |6  |Sudowoodo          |5  |Sudowoodo          |5  |
+|Primeape           |4  |Primeape           |4  |Bewear             |5  |
+|Bewear             |1  |Loudred            |1  |Primeape           |4  |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Combee             |40 |Combee             |40 |
+|Swablu             |25 |Swablu             |25 |
+|Taillow            |20 |Taillow            |20 |
+|Komala             |6  |Komala             |6  |
+|Pineco             |5  |Pineco             |5  |
+|Mothim             |4  |Wormadam           |4  |
+
+289
+**North Aventurine Woods**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |20 |Pachirisu          |24 |Paras              |20 |
+|Ledyba             |20 |Buneary            |20 |Spinarak           |20 |
+|Oranguru           |10 |Oranguru           |10 |Oranguru           |10 |
+|Panpour            |10 |Panpour            |10 |Panpour            |10 |
+|Pansear            |10 |Pansear            |10 |Pansear            |10 |
+|Pansage            |10 |Pansage            |10 |Pansage            |10 |
+|Pachirisu          |9  |Bewear             |6  |Ariados            |6  |
+|Ledian             |6  |Sudowoodo          |5  |Sudowoodo          |5  |
+|Primeape           |4  |Primeape           |4  |Bewear             |5  |
+|Bewear             |1  |Loudred            |1  |Primeape           |4  |
+
+|Old Rod            |%  |Water/G+S Rods     |%  |
+|-------------------|---|-------------------|---|
+|Dewpider           |100|Dewpider           |95 |
+|                   |   |Araquanid          |5  |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Combee             |40 |Combee             |40 |
+|Swablu             |25 |Swablu             |25 |
+|Taillow            |20 |Taillow            |20 |
+|Komala             |6  |Komala             |6  |
+|Pineco             |5  |Pineco             |5  |
+|Mothim             |4  |Wormadam           |4  |
+
+292
+**Vanhanen Labyrinth**
+
+|Land               |%  |
+|-------------------|---|
+|Girafarig          |24 |
+|Ponyta             |20 |
+|Deerling           |15 |
+|Stantler           |15 |
+|Kecleon            |14 |
+|Skiddo             |10 |
+|Furfrou            |2  |
+
+305
+**Citae Astrae**
+
+|Land               |%  |
+|-------------------|---|
+|Unown              |44 |
+|Drowzee            |20 |
+|Baltoy             |20 |
+|Elgyem             |14 |
+|Claydol            |1  |
+|Hypno              |1  |
+
+306
+**Citae Astrae**
+
+|Cave               |%  |
+|-------------------|---|
+|Unown              |64 |
+|Natu               |20 |
+|Xatu               |10 |
+|Sigilyph           |6  |
+
+320
+**Slums Playground**
+
+|Cave               |%  |
+|-------------------|---|
+|Pancham            |50 |
+|Pidove             |24 |
+|Mankey             |15 |
+|Watchog            |9  |
+|Primeape           |2  |
+
+321
+**Slums Playground**
+
+|Cave               |%  |
+|-------------------|---|
+|Pancham            |40 |
+|Watchog            |19 |
+|Mankey             |15 |
+|Pidove             |14 |
+|Trubbish           |10 |
+|Primeape           |2  |
+
+333, 334, 335
+**Iolia Valley**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Wynaut             |20 |Wynaut             |20 |Wynaut             |20 |
+|Beautifly          |20 |Ducklett           |20 |Dustox             |20 |
+|Ducklett           |10 |Hoppip             |10 |Ducklett           |10 |
+|Ledian             |10 |Pidove             |10 |Ariados            |10 |
+|Tranquill          |10 |Tranquill          |10 |Tranquill          |10 |
+|Silcoon            |10 |Wurmple            |10 |Cascoon            |10 |
+|Seel               |8  |Seel               |8  |Seel               |8  |
+|Skiploom           |5  |Skiploom           |5  |Hoothoot           |5  |
+|Petilil            |5  |Petilil            |5  |Noctowl            |5  |
+|Swanna             |2  |Swanna             |2  |Swanna             |2  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Seaking            |60 |Alomomola          |40 |
+|Goldeen            |30 |Lumineon           |20 |Luvdisc            |40 |
+|                   |   |Alomomola          |20 |Dewgong            |20 |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |64 |
+|Lumineon           |30 |
+|Seaking            |6  |
+
+340, 341, 342, 343, 344, 346, 347, 348, 349
+**Iolia Valley**
+
+|Cave               |%  |
+|-------------------|---|
+|Graveler           |30 |
+|Woobat             |20 |
+|Bronzor            |20 |
+|Carbink            |19 |
+|Swoobat            |10 |
+|Bronzong           |1  |
+
+358, 360
+**Route 2**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Hawlucha           |27 |Donphan            |21 |Noctowl            |30 |
+|Rufflet            |20 |Rufflet            |20 |Meditite           |20 |
+|Meditite           |10 |Meditite           |10 |Donphan            |11 |
+|Boldore            |10 |Boldore            |10 |Boldore            |10 |
+|Rhyhorn            |10 |Rhyhorn            |10 |Rhyhorn            |10 |
+|Ursaring           |10 |Ursaring           |10 |Mienfoo            |5  |
+|Machoke            |5  |Mienfoo            |5  |Rhydon             |5  |
+|Trapinch           |4  |Rhydon             |5  |Vullaby            |4  |
+|Rockruff           |4  |Machoke            |4  |Rockruff           |4  |
+|                   |   |Rockruff           |4  |Absol              |1  |
+|                   |   |Absol              |1  |                   |   |
+
+359
+**Celestinine Cascade**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Hawlucha           |30 |Rufflet            |20 |Noctowl            |30 |
+|Rufflet            |20 |Donphan            |20 |Meditite           |20 |
+|Meditite           |10 |Meditite           |10 |Donphan            |11 |
+|Boldore            |10 |Boldore            |10 |Boldore            |10 |
+|Rhyhorn            |10 |Rhyhorn            |10 |Rhyhorn            |10 |
+|Ursaring           |10 |Ursaring           |10 |Mienfoo            |5  |
+|Rockruff           |5  |Mienfoo            |6  |Rockruff           |5  |
+|Machoke            |5  |Rockruff           |5  |Machoke            |4  |
+|                   |   |Machoke            |4  |Rhydon             |4  |
+|                   |   |Rhydon             |4  |Absol              |1  |
+|                   |   |Absol              |1  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Wishiwashi         |60 |Wishiwashi         |40 |
+|Wishiwashi         |30 |Lumineon           |20 |Lumineon           |40 |
+|                   |   |Remoraid           |20 |Shellder           |15 |
+|                   |   |                   |   |Dewgong            |4  |
+|                   |   |                   |   |Octillery          |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |64 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+
+361, 404
+**Route 3**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Mienfoo            |20 |Golett             |20 |Golett             |20 |
+|Ursaring           |20 |Mienfoo            |20 |Ursaring           |20 |
+|Bronzong           |16 |Starly             |10 |Graveler           |20 |
+|Starly             |10 |Staravia           |10 |Noctowl            |20 |
+|Staravia           |10 |Ursaring           |10 |Gligar             |8  |
+|Graveler           |10 |Graveler           |10 |Bronzor            |5  |
+|Gligar             |8  |Gligar             |8  |Bronzong           |5  |
+|Bronzor            |5  |Bronzor            |5  |Golurk             |1  |
+|Staraptor          |1  |Bronzong           |5  |Absol              |1  |
+|                   |   |Golurk             |1  |                   |   |
+|                   |   |Absol              |1  |                   |   |
+
+364, 366, 373, 374, 375, 390
+**Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain 3F, Ametrine Mountain 4F, Ametrine Mountain 5F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Seadra             |40 |
+|                   |   |Qwilfish           |20 |Shellder           |15 |
+|                   |   |                   |   |Qwilfish           |4  |
+|                   |   |                   |   |Basculin           |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Cubchoo            |20 |Wailmer            |60 |
+|Spheal             |20 |Seel               |30 |
+|Beartic            |11 |Lumineon           |5  |
+|Delibird           |11 |Wishiwashi         |4  |
+|Bergmite           |10 |Dewgong            |1  |
+|Sealeo             |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Cryogonal          |4  |                   |   |
+|Snorunt            |4  |                   |   |
+
+371, 615, 616, 618
+**Tanzan Depths, Tanzan Mountain**
+
+|Cave               |%  |
+|-------------------|---|
+|Onix               |20 |
+|Graveler           |20 |
+|Durant             |14 |
+|Drilbur            |10 |
+|Sandslash          |10 |
+|Arbok              |10 |
+|Dugtrio            |5  |
+|Seviper            |5  |
+|Hippowdon          |4  |
+|Steelix            |1  |
+|Excadrill          |1  |
+
+372
+**Celestinine Cascade**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Hawlucha           |30 |Donphan            |21 |Noctowl            |30 |
+|Rufflet            |20 |Rufflet            |20 |Meditite           |20 |
+|Meditite           |10 |Meditite           |10 |Donphan            |11 |
+|Boldore            |10 |Boldore            |10 |Boldore            |10 |
+|Rhyhorn            |10 |Rhyhorn            |10 |Rhyhorn            |10 |
+|Ursaring           |10 |Ursaring           |10 |Mienfoo            |6  |
+|Rockruff           |5  |Mienfoo            |6  |Rockruff           |5  |
+|Machoke            |5  |Rockruff           |5  |Machoke            |4  |
+|                   |   |Machoke            |4  |Rhydon             |4  |
+|                   |   |Rhydon             |4  |                   |   |
+
+376, 377, 378
+**Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Seadra             |40 |
+|                   |   |Qwilfish           |20 |Shellder           |16 |
+|                   |   |                   |   |Qwilfish           |4  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Cubchoo            |20 |Wailmer            |60 |
+|Spheal             |20 |Seel               |30 |
+|Beartic            |11 |Lumineon           |5  |
+|Delibird           |11 |Wishiwashi         |4  |
+|Bergmite           |10 |Dewgong            |1  |
+|Sealeo             |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Cryogonal          |4  |                   |   |
+|Snorunt            |4  |                   |   |
+
+379
+**Ametrine Mountain B4F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Seadra             |40 |
+|                   |   |Qwilfish           |20 |Shellder           |15 |
+|                   |   |                   |   |Dratini            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Cubchoo            |20 |Wailmer            |60 |
+|Spheal             |20 |Seel               |30 |
+|Beartic            |11 |Lumineon           |5  |
+|Delibird           |11 |Wishiwashi         |4  |
+|Bergmite           |10 |Dewgong            |1  |
+|Sealeo             |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Cryogonal          |4  |                   |   |
+|Snorunt            |4  |                   |   |
+
+380, 384, 385, 430
+**Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain 3F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Qwilfish           |20 |Shellder           |15 |
+|                   |   |                   |   |Qwilfish           |4  |
+|                   |   |                   |   |Basculin           |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Buizel             |24 |Wailmer            |60 |
+|Swinub             |20 |Lumineon           |30 |
+|Cubchoo            |14 |Golduck            |5  |
+|Floatzel           |11 |Wishiwashi         |4  |
+|Piloswine          |10 |Dewgong            |1  |
+|Beartic            |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Delibird           |1  |                   |   |
+
+381, 383
+**Citrine Mountain 1F, Citrine Mountain 3F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Remoraid           |70 |Remoraid           |60 |Octillery          |40 |
+|Basculin           |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Octillery          |20 |Shellder           |15 |
+|                   |   |                   |   |Qwilfish           |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Woobat             |20 |Golduck            |60 |
+|Swinub             |20 |Wishiwashi         |30 |
+|Piloswine          |15 |Lumineon           |5  |
+|Cubchoo            |10 |Octillery          |5  |
+|Swoobat            |10 |                   |   |
+|Phanpy             |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Beartic            |5  |                   |   |
+|Donphan            |4  |                   |   |
+|Sandslash          |1  |                   |   |
+
+382
+**Citrine Mountain 2F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Remoraid           |70 |Remoraid           |60 |Octillery          |40 |
+|Basculin           |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Octillery          |20 |Shellder           |15 |
+|                   |   |                   |   |Qwilfish           |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Woobat             |30 |Golduck            |60 |
+|Bergmite           |30 |Wishiwashi         |30 |
+|Phanpy             |15 |Lumineon           |5  |
+|Cubchoo            |14 |Octillery          |5  |
+|Sandshrew          |5  |                   |   |
+|Donphan            |4  |                   |   |
+|Sandslash          |1  |                   |   |
+|Beartic            |1  |                   |   |
+
+386, 387, 433, 434
+**Celestinine Mountain B1F, Celestinine Mountain B2F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Qwilfish           |20 |Shellder           |16 |
+|                   |   |                   |   |Qwilfish           |4  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Buizel             |24 |Wailmer            |60 |
+|Swinub             |20 |Lumineon           |30 |
+|Cubchoo            |14 |Golduck            |5  |
+|Floatzel           |11 |Wishiwashi         |4  |
+|Piloswine          |10 |Dewgong            |1  |
+|Beartic            |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Delibird           |1  |                   |   |
+
+389, 391, 392, 393, 394, 395, 397, 398, 399, 401, 403, 431
+**Ametrine Mountain 1F, Ametrine Mountain 2F, Ametrine Mountain B1F, Ametrine Mountain B2F, Ametrine Mountain B3F, Celestinine Mountain 1F, Celestinine Mountain 2F, Celestinine Mountain B1F, Celestinine Mountain B3F**
+
+|Land               |%  |
+|-------------------|---|
+|Clamperl           |45 |
+|Chinchou           |30 |
+|Lanturn            |15 |
+|Relicanth          |10 |
+
+396
+**Celestinine Mountain 4F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Feebas             |20 |Shellder           |15 |
+|                   |   |                   |   |Feebas             |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Buizel             |24 |Wailmer            |60 |
+|Swinub             |20 |Lumineon           |30 |
+|Cubchoo            |14 |Golduck            |5  |
+|Floatzel           |11 |Wishiwashi         |4  |
+|Piloswine          |10 |Dewgong            |1  |
+|Beartic            |10 |                   |   |
+|Sandshrew          |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Delibird           |1  |                   |   |
+
+400, 402, 435, 436
+**Ametrine Mountain B2F, Celestinine Mountain B2F**
+
+|Land               |%  |
+|-------------------|---|
+|Chinchou           |30 |
+|Clamperl           |25 |
+|Wailord            |24 |
+|Lanturn            |15 |
+|Relicanth          |6  |
+
+405, 409, 410, 411
+**Route 3**
+
+|Cave               |%  |
+|-------------------|---|
+|Graveler           |20 |
+|Shiinotic          |20 |
+|Kangaskhan         |18 |
+|Druddigon          |12 |
+|Rhydon             |10 |
+|Piloswine          |10 |
+|Magnemite          |5  |
+|Magneton           |5  |
+
+412
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Cottonee           |14 |Zebstrika          |11 |Noctowl            |20 |
+|Blitzle            |14 |Cottonee           |10 |Snover             |10 |
+|Zebstrika          |11 |Snover             |10 |Bronzong           |10 |
+|Snover             |10 |Blitzle            |10 |Zebstrika          |5  |
+|Bronzor            |5  |Bronzor            |5  |Phantump           |5  |
+|Bronzong           |5  |Bronzong           |5  |Pawniard           |4  |
+|Abomasnow          |1  |Pawniard           |4  |Abomasnow          |4  |
+|                   |   |Abomasnow          |4  |Absol              |2  |
+|                   |   |Absol              |1  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+439
+**Ametrine City**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Snover             |20 |Snover             |20 |Snover             |20 |
+|Vulpix             |20 |Vulpix             |20 |Vulpix             |20 |
+|Drampa             |11 |Bergmite           |10 |Bergmite           |10 |
+|Bergmite           |10 |Piloswine          |10 |Piloswine          |10 |
+|Piloswine          |10 |Beartic            |10 |Beartic            |10 |
+|Beartic            |10 |Drampa             |10 |Drampa             |10 |
+|Abomasnow          |5  |Abomasnow          |5  |Noctowl            |10 |
+|Ambipom            |5  |Ambipom            |5  |Furfrou            |5  |
+|Furfrou            |5  |Furfrou            |5  |Vanillish          |4  |
+|Vanillish          |4  |Vanillish          |4  |Absol              |1  |
+|                   |   |Absol              |1  |                   |   |
+
+440, 441, 442
+**Ametrine Mountain 6F, Ametrine Mountain 7F, Ametrine Mountain 8F**
+
+|Cave               |%  |
+|-------------------|---|
+|Cubchoo            |20 |
+|Spheal             |20 |
+|Beartic            |11 |
+|Delibird           |11 |
+|Bergmite           |10 |
+|Sealeo             |10 |
+|Sandshrew          |5  |
+|Sandslash          |5  |
+|Cryogonal          |4  |
+|Snorunt            |4  |
+
+445
+**Mt Moon**
+
+|Cave               |%  |
+|-------------------|---|
+|Zubat              |79 |
+|Geodude            |15 |
+|Paras              |5  |
+|Clefairy           |1  |
+
+447
+**Opal Ward**
+
+|Land               |%  |
+|-------------------|---|
+|Rattata            |30 |
+|Bidoof             |30 |
+|Patrat             |15 |
+|Pidgey             |15 |
+|Meowth             |5  |
+|Ekans              |5  |
+
+450
+**Byxbysion Wasteland**
+
+|Land               |%  |
+|-------------------|---|
+|Grimer             |40 |
+|Muk                |10 |
+|Koffing            |10 |
+|Zubat              |10 |
+|Weezing            |10 |
+|Ekans              |5  |
+|Arbok              |5  |
+|Cubone             |4  |
+|Drowzee            |4  |
+|Marowak            |1  |
+|Hypno              |1  |
+
+452
+**Citae Astrae**
+
+|Land               |%  |
+|-------------------|---|
+|Porygon            |100|
+
+453
+**Victory Road**
+
+|Cave               |%  |
+|-------------------|---|
+|Onix               |30 |
+|Machop             |25 |
+|Zubat              |20 |
+|Geodude            |10 |
+|Golbat             |5  |
+|Machoke            |5  |
+|Marowak            |4  |
+|Graveler           |1  |
+
+455
+**Cerulean Cave**
+
+|Cave               |%  |
+|-------------------|---|
+|Rhydon             |20 |
+|Electrode          |20 |
+|Marowak            |10 |
+|Venomoth           |10 |
+|Parasect           |10 |
+|Dodrio             |10 |
+|Hypno              |10 |
+|Arbok              |5  |
+|Raichu             |5  |
+
+465
+**Chrysolia Forest**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Ledian             |33 |Kecleon            |46 |Kecleon            |50 |
+|Kecleon            |22 |Hoppip             |30 |Hoppip             |20 |
+|Ledyba             |20 |Swablu             |15 |Dustox             |15 |
+|Hoppip             |10 |Altaria            |9  |Swablu             |10 |
+|Swablu             |10 |                   |   |Altaria            |5  |
+|Altaria            |5  |                   |   |                   |   |
+
+467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505
+**Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Grid, Lapis Water Grid, North Obsidia Water Grid, Onyx Water Grid, Opal Water Grid, Peridot Water Grid, Water Treatment Center**
+
+|Land               |%  |
+|-------------------|---|
+|Gulpin             |45 |
+|Grimer             |40 |
+|Swalot             |10 |
+|Muk                |5  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Gulpin             |70 |Gulpin             |60 |Muk                |44 |
+|Grimer             |30 |Grimer             |20 |Swalot             |40 |
+|                   |   |Muk                |20 |Tentacool          |15 |
+|                   |   |                   |   |Tentacruel         |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Gulpin             |60 |
+|Grimer             |30 |
+|Muk                |9  |
+|Swalot             |1  |
+
+507
+**Iolia Valley**
+
+|Cave               |%  |
+|-------------------|---|
+|Sableye            |100|
+
+513, 536, 538, 562, 564
+**Apophyll Academy, Apophyll Beach, Azurine Lake, Opal Ward**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Tentacool          |60 |
+|Wingull            |30 |
+|Tentacruel         |5  |
+|Pelipper           |4  |
+|Mantine            |1  |
+
+519
+**Opal Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Rattata            |20 |Rattata            |20 |
+|Bidoof             |20 |Meowth             |20 |
+|Patrat             |10 |Spinarak           |10 |
+|Pidgey             |10 |Hoothoot           |10 |
+|Zigzagoon          |10 |Zigzagoon          |10 |
+|Meowth             |10 |Persian            |10 |
+|Raticate           |5  |Raticate           |5  |
+|Pidgeotto          |5  |Noctowl            |5  |
+|Linoone            |4  |Linoone            |5  |
+|Watchog            |4  |Ariados            |5  |
+|Persian            |2  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Tentacool          |60 |Pineco             |35 |
+|Wingull            |30 |Spearow            |30 |
+|Tentacruel         |5  |Combee             |25 |
+|Pelipper           |4  |Fearow             |5  |
+|Mantine            |1  |Forretress         |4  |
+|                   |   |Vespiquen          |1  |
+
+520
+**Obsidia Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Sunflora           |20 |Sunflora           |20 |Hoothoot           |20 |
+|Bellsprout         |20 |Oddish             |20 |Venonat            |20 |
+|Oddish             |10 |Bonsly             |10 |Bellsprout         |10 |
+|Sentret            |10 |Venonat            |10 |Makuhita           |10 |
+|Slakoth            |10 |Slakoth            |10 |Budew              |10 |
+|Makuhita           |10 |Makuhita           |10 |Noctowl            |10 |
+|Weepinbell         |5  |Lopunny            |8  |Sudowoodo          |5  |
+|Gloom              |5  |Sudowoodo          |5  |Gloom              |5  |
+|Furret             |4  |Gloom              |5  |Weepinbell         |4  |
+|Lopunny            |4  |Vigoroth           |2  |Roselia            |4  |
+|Vigoroth           |2  |                   |   |Venomoth           |2  |
+
+522, 530
+**Lower Peridot Ward, Peridot Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Ledyba             |30 |Dustox             |30 |Hoothoot           |20 |
+|Ledian             |21 |Beautifly          |30 |Noctowl            |20 |
+|Dustox             |10 |Electrike          |10 |Dustox             |10 |
+|Beautifly          |10 |Grubbin            |10 |Electrike          |10 |
+|Grubbin            |10 |Butterfree         |10 |Beautifly          |10 |
+|Butterfree         |10 |Cherrim            |4  |Joltik             |10 |
+|Charjabug          |4  |Charjabug          |4  |Ariados            |8  |
+|Cherrim            |4  |Manectric          |1  |Butterfree         |5  |
+|Vikavolt           |1  |Vikavolt           |1  |Galvantula         |5  |
+|                   |   |                   |   |Manectric          |2  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Tentacool          |60 |Pineco             |65 |Pineco             |65 |
+|Wingull            |30 |Burmy              |25 |Burmy              |25 |
+|Tentacruel         |5  |Wormadam           |5  |Mothim             |5  |
+|Pelipper           |4  |Forretress         |4  |Forretress         |4  |
+|Mantine            |1  |Mothim             |1  |Wormadam           |1  |
+
+523
+**Jasper Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Beedrill           |20 |Beedrill           |20 |Beedrill           |20 |
+|Vivillon           |20 |Vivillon           |20 |Noctowl            |20 |
+|Emolga             |10 |Leavanny           |10 |Parasect           |10 |
+|Leavanny           |10 |Growlithe          |10 |Growlithe          |10 |
+|Ledian             |10 |Carnivine          |10 |Carnivine          |10 |
+|Pidgeotto          |10 |Pidgeotto          |10 |Pidgeotto          |10 |
+|Weepinbell         |5  |Emolga             |5  |Ariados            |8  |
+|Gloom              |5  |Gloom              |5  |Weepinbell         |5  |
+|Mareep             |4  |Mareep             |4  |Gloom              |5  |
+|Flaaffy            |4  |Flaaffy            |4  |Pidgeot            |1  |
+|Pidgeot            |1  |Pidgeot            |1  |Ampharos           |1  |
+|Ampharos           |1  |Ampharos           |1  |                   |   |
+
+524
+**Lapis Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Ledian             |20 |Houndour           |20 |Murkrow            |20 |
+|Meowth             |20 |Meowth             |20 |Meowth             |20 |
+|Espurr             |10 |Espurr             |10 |Espurr             |10 |
+|Chingling          |10 |Chingling          |10 |Chingling          |10 |
+|Rattata            |10 |Rattata            |10 |Rattata            |10 |
+|Poochyena          |10 |Poochyena          |10 |Poochyena          |10 |
+|Mightyena          |5  |Mightyena          |5  |Mightyena          |5  |
+|Raticate           |5  |Raticate           |5  |Raticate           |5  |
+|Chimecho           |4  |Chimecho           |4  |Chimecho           |4  |
+|Persian            |4  |Persian            |4  |Persian            |4  |
+|Meowstic           |2  |Houndoom           |1  |Houndoom           |1  |
+|                   |   |Meowstic           |1  |Meowstic           |1  |
+
+525
+**Beryl Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Fearow             |20 |Hoothoot           |20 |
+|Arbok              |20 |Arbok              |20 |
+|Teddiursa          |10 |Meowth             |20 |
+|Bunnelby           |10 |Noctowl            |15 |
+|Phanpy             |10 |Teddiursa          |10 |
+|Doduo              |10 |Persian            |9  |
+|Dodrio             |9  |Ursaring           |6  |
+|Donphan            |5  |                   |   |
+|Diggersby          |4  |                   |   |
+|Ursaring           |2  |                   |   |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Pineco             |30 |Pineco             |30 |
+|Aipom              |25 |Aipom              |25 |
+|Burmy              |20 |Burmy              |20 |
+|Mothim             |10 |Wormadam           |10 |
+|Forretress         |10 |Forretress         |10 |
+|Ambipom            |5  |Ambipom            |5  |
+
+526
+**Coral Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Wingull            |20 |Wingull            |20 |Hoothoot           |20 |
+|Snubbull           |20 |Snubbull           |20 |Snubbull           |20 |
+|Lombre             |10 |Lombre             |10 |Lombre             |10 |
+|Bibarel            |10 |Bibarel            |10 |Bibarel            |10 |
+|Pelipper           |10 |Pelipper           |10 |Noctowl            |10 |
+|Surskit            |10 |Surskit            |10 |Surskit            |10 |
+|Skitty             |5  |Skitty             |5  |Skitty             |5  |
+|Mime Jr.           |5  |Spoink             |5  |Spoink             |5  |
+|Masquerain         |4  |Masquerain         |4  |Masquerain         |4  |
+|Granbull           |4  |Granbull           |4  |Granbull           |4  |
+|Delcatty           |1  |Delcatty           |1  |Delcatty           |1  |
+|Mr. Mime           |1  |Grumpig            |1  |Grumpig            |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Tentacool          |60 |
+|Wingull            |30 |
+|Tentacruel         |5  |
+|Pelipper           |4  |
+|Mantine            |1  |
+
+527
+**North Obsidia Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |20 |Buneary            |20 |Hoothoot           |20 |
+|Bellsprout         |20 |Oddish             |20 |Venonat            |20 |
+|Oddish             |10 |Bonsly             |10 |Bellsprout         |10 |
+|Sentret            |10 |Venonat            |10 |Oddish             |10 |
+|Slakoth            |10 |Slakoth            |10 |Budew              |10 |
+|Sunflora           |10 |Sunflora           |10 |Noctowl            |10 |
+|Weepinbell         |5  |Lopunny            |8  |Sudowoodo          |5  |
+|Gloom              |5  |Sudowoodo          |5  |Gloom              |5  |
+|Furret             |4  |Gloom              |5  |Weepinbell         |4  |
+|Lopunny            |4  |Vigoroth           |2  |Roselia            |4  |
+|Vigoroth           |2  |                   |   |Venomoth           |2  |
+
+528
+**South Obsidia Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Buneary            |20 |Buneary            |20 |Hoothoot           |20 |
+|Bellsprout         |20 |Oddish             |20 |Venonat            |20 |
+|Oddish             |10 |Bonsly             |10 |Bellsprout         |10 |
+|Sentret            |10 |Venonat            |10 |Oddish             |10 |
+|Slakoth            |10 |Slakoth            |10 |Budew              |10 |
+|Sunflora           |10 |Sunflora           |10 |Noctowl            |10 |
+|Weepinbell         |5  |Lopunny            |8  |Sudowoodo          |5  |
+|Gloom              |5  |Sudowoodo          |5  |Gloom              |5  |
+|Furret             |4  |Gloom              |5  |Weepinbell         |4  |
+|Lopunny            |4  |Vigoroth           |2  |Roselia            |4  |
+|Vigoroth           |2  |                   |   |Venomoth           |2  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Tentacool          |60 |
+|Wingull            |30 |
+|Tentacruel         |5  |
+|Pelipper           |4  |
+|Mantine            |1  |
+
+529
+**North Obsidia Alleyway**
+
+|Cave               |%  |
+|-------------------|---|
+|Poochyena          |20 |
+|Yungoos            |20 |
+|Purrloin           |10 |
+|Zangoose           |10 |
+|Gumshoos           |10 |
+|Mightyena          |10 |
+|Houndour           |8  |
+|Liepard            |5  |
+|Skuntank           |5  |
+|Houndoom           |2  |
+
+531
+**South Peridot Alley**
+
+|Cave               |%  |
+|-------------------|---|
+|Espurr             |20 |
+|Poochyena          |20 |
+|Zangoose           |10 |
+|Stunky             |10 |
+|Mightyena          |10 |
+|Meowstic           |10 |
+|Electrike          |8  |
+|Liepard            |5  |
+|Skuntank           |5  |
+|Manectric          |2  |
+
+532
+**North Peridot Alley**
+
+|Cave               |%  |
+|-------------------|---|
+|Espurr             |20 |
+|Poochyena          |20 |
+|Purrloin           |10 |
+|Zangoose           |10 |
+|Mightyena          |10 |
+|Meowstic           |10 |
+|Electrike          |8  |
+|Liepard            |5  |
+|Skuntank           |5  |
+|Manectric          |2  |
+
+533
+**Malchous Forest Park**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Beedrill           |20 |Beedrill           |20 |Beedrill           |20 |
+|Vivillon           |20 |Vivillon           |20 |Noctowl            |20 |
+|Leavanny           |10 |Leavanny           |10 |Parasect           |10 |
+|Lurantis           |10 |Lurantis           |10 |Lurantis           |10 |
+|Ledian             |10 |Carnivine          |10 |Carnivine          |10 |
+|Pidgeotto          |10 |Pidgeotto          |10 |Pidgeotto          |10 |
+|Weepinbell         |5  |Weepinbell         |5  |Ariados            |8  |
+|Gloom              |5  |Gloom              |5  |Weepinbell         |5  |
+|Mareep             |4  |Mareep             |4  |Gloom              |5  |
+|Flaaffy            |4  |Flaaffy            |4  |Pidgeot            |1  |
+|Pidgeot            |1  |Pidgeot            |1  |Ampharos           |1  |
+|Ampharos           |1  |Ampharos           |1  |                   |   |
+
+544
+**Beryl Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Fearow             |20 |Hoothoot           |20 |
+|Arbok              |20 |Arbok              |20 |
+|Teddiursa          |10 |Meowth             |20 |
+|Bunnelby           |10 |Noctowl            |15 |
+|Phanpy             |10 |Teddiursa          |10 |
+|Doduo              |10 |Persian            |9  |
+|Dodrio             |9  |Ursaring           |6  |
+|Donphan            |5  |                   |   |
+|Diggersby          |4  |                   |   |
+|Ursaring           |2  |                   |   |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Pineco             |30 |Pineco             |30 |
+|Aipom              |25 |Aipom              |25 |
+|Burmy              |20 |Burmy              |20 |
+|Wormadam           |10 |Mothim             |10 |
+|Forretress         |10 |Forretress         |10 |
+|Ambipom            |5  |Ambipom            |5  |
+
+545, 546
+**Chrysolia Spring B1F, Chrysolia Spring Sauna**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |70 |Shellos            |60 |Slowpoke           |40 |
+|Barboach           |30 |Barboach           |20 |Gastrodon          |40 |
+|                   |   |Clauncher          |20 |Whiscash           |15 |
+|                   |   |                   |   |Quagsire           |4  |
+|                   |   |                   |   |Clawitzer          |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Oricorio           |20 |Shellos            |60 |
+|Numel              |20 |Barboach           |30 |
+|Panpour            |10 |Gastrodon          |5  |
+|Pansear            |10 |Whiscash           |4  |
+|Noivern            |10 |Quagsire           |1  |
+|Darumaka           |10 |                   |   |
+|Torkoal            |5  |                   |   |
+|Kecleon            |5  |                   |   |
+|Simisear           |4  |                   |   |
+|Simipour           |4  |                   |   |
+|Gastrodon          |1  |                   |   |
+|Camerupt           |1  |                   |   |
+
+547, 553, 556, 558, 574
+**Azurine Lake**
+
+|Land               |%  |
+|-------------------|---|
+|Frillish           |20 |
+|Pyukumuku          |20 |
+|Wimpod             |10 |
+|Mareanie           |10 |
+|Jellicent          |10 |
+|Octillery          |10 |
+|Wailord            |5  |
+|Dhelmise           |5  |
+|Eelektrik          |5  |
+|Toxapex            |4  |
+|Dragalge           |1  |
+
+550
+**REMOVED**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Fearow             |20 |Fearow             |20 |Noctowl            |20 |
+|Gloom              |20 |Gloom              |20 |Ariados            |20 |
+|Weepinbell         |20 |Pansage            |10 |Nuzleaf            |20 |
+|Pansage            |10 |Weepinbell         |10 |Parasect           |20 |
+|Ledian             |10 |Kecleon            |10 |Tangela            |5  |
+|Tropius            |7  |Nuzleaf            |10 |Kecleon            |5  |
+|Kecleon            |5  |Tangela            |5  |Shiftry            |5  |
+|Vivillon           |4  |Tropius            |5  |Tangrowth          |5  |
+|Leavanny           |4  |Vivillon           |4  |                   |   |
+|                   |   |Leavanny           |4  |                   |   |
+|                   |   |Shiftry            |1  |                   |   |
+|                   |   |Tangrowth          |1  |                   |   |
+
+551
+**Beryl Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Fearow             |20 |Hoothoot           |20 |
+|Arbok              |20 |Arbok              |20 |
+|Teddiursa          |10 |Noctowl            |15 |
+|Bunnelby           |10 |Teddiursa          |10 |
+|Phanpy             |10 |Shuppet            |10 |
+|Doduo              |10 |Drifloon           |10 |
+|Dodrio             |9  |Persian            |5  |
+|Donphan            |5  |Banette            |4  |
+|Diggersby          |4  |Drifblim           |4  |
+|Ursaring           |2  |Ursaring           |2  |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Pineco             |30 |Pineco             |30 |
+|Aipom              |25 |Aipom              |25 |
+|Burmy              |20 |Burmy              |20 |
+|Wormadam           |10 |Mothim             |10 |
+|Forretress         |10 |Forretress         |10 |
+|Ambipom            |5  |Ambipom            |5  |
+
+552
+**Beryl Cemetery**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Fearow             |20 |Fearow             |20 |Hoothoot           |20 |
+|Arbok              |20 |Arbok              |20 |Arbok              |20 |
+|Teddiursa          |10 |Teddiursa          |10 |Noctowl            |15 |
+|Bunnelby           |10 |Bunnelby           |10 |Teddiursa          |10 |
+|Phanpy             |10 |Phanpy             |10 |Shuppet            |10 |
+|Doduo              |10 |Doduo              |10 |Drifloon           |10 |
+|Donphan            |5  |Donphan            |5  |Persian            |5  |
+|Dodrio             |5  |Fletchinder        |5  |Banette            |4  |
+|Diggersby          |4  |Diggersby          |4  |Drifblim           |4  |
+|Fletchinder        |4  |Dodrio             |4  |Talonflame         |1  |
+|Talonflame         |1  |Talonflame         |1  |Ursaring           |1  |
+|Ursaring           |1  |Ursaring           |1  |                   |   |
+
+|Headbutt Rare      |%  |Headbutt Common    |%  |
+|-------------------|---|-------------------|---|
+|Pineco             |30 |Pineco             |30 |
+|Aipom              |25 |Aipom              |25 |
+|Burmy              |20 |Burmy              |20 |
+|Mothim             |10 |Wormadam           |10 |
+|Forretress         |10 |Forretress         |10 |
+|Ambipom            |5  |Ambipom            |5  |
+
+563, 568
+**Apophyll Beach, Pyrous Mountain**
+
+|Rock Smash         |%  |
+|-------------------|---|
+|Geodude            |60 |
+|Shuckle            |30 |
+|Binacle            |5  |
+|Graveler           |4  |
+|Barbaracle         |1  |
+
+565, 566, 567
+**Apophyll Beach**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Cave               |%  |Water              |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Sandygast          |40 |Tentacool          |60 |Krabby             |60 |
+|Wingull            |30 |Wingull            |30 |Corphish           |30 |
+|Pelipper           |20 |Tentacruel         |5  |Binacle            |5  |
+|Palossand          |10 |Pelipper           |4  |Kingler            |4  |
+|                   |   |Mantine            |1  |Barbaracle         |1  |
+
+569
+**Azurine Island**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Foongus            |20 |Foongus            |20 |Foongus            |20 |
+|Gloom              |20 |Gloom              |20 |Gloom              |20 |
+|Wooper             |10 |Wooper             |10 |Ariados            |10 |
+|Shellos            |10 |Shellos            |10 |Skorupi            |10 |
+|Yanma              |10 |Shelmet            |10 |Parasect           |10 |
+|Gastrodon          |10 |Gastrodon          |10 |Golbat             |10 |
+|Palpitoad          |5  |Palpitoad          |5  |Palpitoad          |5  |
+|Quagsire           |5  |Quagsire           |5  |Quagsire           |5  |
+|Amoonguss          |4  |Amoonguss          |4  |Amoonguss          |4  |
+|Yanmega            |4  |Accelgor           |4  |Drapion            |4  |
+|Vileplume          |1  |Vileplume          |1  |Vileplume          |1  |
+|Seismitoad         |1  |Seismitoad         |1  |Seismitoad         |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Tentacool          |60 |Burmy              |30 |
+|Wingull            |30 |Exeggcute          |30 |
+|Tentacruel         |5  |Pineco             |25 |
+|Pelipper           |4  |Wormadam           |5  |
+|Mantine            |1  |Mothim             |5  |
+|                   |   |Forretress         |5  |
+
+570
+**Obsidia Alleyway**
+
+|Cave               |%  |
+|-------------------|---|
+|Yungoos            |20 |
+|Poochyena          |20 |
+|Zangoose           |10 |
+|Stunky             |10 |
+|Gumshoos           |10 |
+|Mightyena          |10 |
+|Litleo             |8  |
+|Liepard            |5  |
+|Skuntank           |5  |
+|Pyroar             |2  |
+
+573
+**Onyx Ward**
+
+|Land (Morning/Day) |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|
+|Spearow            |20 |Venonat            |20 |
+|Pidove             |20 |Hoothoot           |20 |
+|Bellsprout         |10 |Noctowl            |11 |
+|Venonat            |10 |Bellsprout         |10 |
+|Fearow             |10 |Murkrow            |10 |
+|Tranquill          |10 |Fearow             |10 |
+|Pichu              |5  |Pichu              |5  |
+|Weepinbell         |5  |Weepinbell         |5  |
+|Pikachu            |5  |Pikachu            |5  |
+|Venomoth           |4  |Venomoth           |4  |
+|Unfezant           |1  |                   |   |
+
+575, 576, 577, 578, 579, 608
+**Azurine Lake, Coral Ward**
+
+|Cave               |%  |
+|-------------------|---|
+|Frillish           |20 |
+|Chinchou           |20 |
+|Pyukumuku          |20 |
+|Corsola            |14 |
+|Wimpod             |10 |
+|Remoraid           |5  |
+|Mareanie           |5  |
+|Skrelp             |5  |
+|Golisopod          |1  |
+
+585
+**South Obsidia Ward**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Primeape           |30 |Watchog            |30 |Watchog            |30 |
+|Watchog            |25 |Crabrawler         |20 |Tranquill          |20 |
+|Crabrawler         |20 |Gumshoos           |14 |Pancham            |15 |
+|Machoke            |14 |Primeape           |10 |Gumshoos           |15 |
+|Unfezant           |6  |Machop             |10 |Primeape           |10 |
+|Gumshoos           |5  |Machoke            |10 |Pangoro            |10 |
+|                   |   |Unfezant           |6  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Tentacool          |60 |
+|Wingull            |30 |
+|Tentacruel         |5  |
+|Pelipper           |4  |
+|Mantine            |1  |
+
+586
+**Azurine Island**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Yanma              |20 |Wooper             |20 |Wooper             |20 |
+|Gloom              |20 |Gloom              |20 |Gloom              |20 |
+|Quagsire           |10 |Quagsire           |10 |Quagsire           |10 |
+|Gastrodon          |10 |Gastrodon          |10 |Golbat             |10 |
+|Palpitoad          |10 |Palpitoad          |10 |Palpitoad          |10 |
+|Yanmega            |10 |Accelgor           |10 |Ariados            |10 |
+|Pinsir             |5  |Pinsir             |5  |Pinsir             |5  |
+|Heracross          |5  |Heracross          |5  |Heracross          |5  |
+|Foongus            |4  |Foongus            |4  |Foongus            |4  |
+|Bulbasaur          |4  |Bulbasaur          |4  |Drapion            |4  |
+|Vileplume          |1  |Vileplume          |1  |Vileplume          |1  |
+|Seismitoad         |1  |Seismitoad         |1  |Seismitoad         |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Tentacool          |60 |Burmy              |30 |
+|Wingull            |30 |Exeggcute          |30 |
+|Tentacruel         |5  |Pineco             |25 |
+|Pelipper           |4  |Wormadam           |5  |
+|Mantine            |1  |Mothim             |5  |
+|                   |   |Forretress         |5  |
+
+603, 604
+**Azurine Cave**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Noibat             |20 |Sealeo             |60 |
+|Binacle            |20 |Wingull            |30 |
+|Krabby             |10 |Tentacruel         |5  |
+|Corphish           |10 |Pelipper           |4  |
+|Shellos            |10 |Mantine            |1  |
+|Gastrodon          |10 |                   |   |
+|Crawdaunt          |9  |                   |   |
+|Kingler            |9  |                   |   |
+|Barbaracle         |1  |                   |   |
+|Noivern            |1  |                   |   |
+
+605
+**Azurine Cave**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |100|Carvanha           |60 |Kingler            |40 |
+|                   |   |Corphish           |20 |Staryu             |40 |
+|                   |   |Clauncher          |20 |Crawdaunt          |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Sharpedo           |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Noibat             |20 |Tentacool          |60 |
+|Binacle            |20 |Wingull            |30 |
+|Krabby             |10 |Tentacruel         |5  |
+|Corphish           |10 |Pelipper           |4  |
+|Shellos            |10 |Mantine            |1  |
+|Gastrodon          |10 |                   |   |
+|Crawdaunt          |9  |                   |   |
+|Kingler            |9  |                   |   |
+|Barbaracle         |1  |                   |   |
+|Noivern            |1  |                   |   |
+
+607
+**Tanzan Cove**
+
+|Land               |%  |
+|-------------------|---|
+|Shellos            |20 |
+|Barboach           |20 |
+|Wooper             |20 |
+|Gastrodon          |10 |
+|Whiscash           |10 |
+|Quagsire           |10 |
+|Basculin           |6  |
+|Luvdisc            |4  |
+
+610
+**Coral Lighthouse**
+
+|Cave               |%  |
+|-------------------|---|
+|Frillish           |20 |
+|Chinchou           |20 |
+|Pyukumuku          |20 |
+|Corsola            |14 |
+|Wimpod             |10 |
+|Remoraid           |5  |
+|Mareanie           |5  |
+|Skrelp             |4  |
+|Toxapex            |1  |
+|Golisopod          |1  |
+
+614
+**Tanzan Depths**
+
+|Cave               |%  |
+|-------------------|---|
+|Sandslash          |30 |
+|Graveler           |20 |
+|Dugtrio            |15 |
+|Durant             |14 |
+|Hippowdon          |14 |
+|Seviper            |5  |
+|Steelix            |1  |
+|Excadrill          |1  |
+
+638, 639, 640, 641, 644, 647, 648, 650
+**Teknite Cave, Teknite Cave 2F, Teknite Cave 3F, Teknite Cave 4F**
+
+|Cave               |%  |
+|-------------------|---|
+|Boldore            |20 |
+|Aron               |20 |
+|Carbink            |10 |
+|Durant             |10 |
+|Lairon             |10 |
+|Dugtrio            |10 |
+|Turtonator         |9  |
+|Heatmor            |5  |
+|Sandslash          |4  |
+|Gigalith           |1  |
+|Aggron             |1  |
+
+642, 643, 646
+**Teknite Ridge**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Durant             |20 |Durant             |20 |Durant             |20 |
+|Heatmor            |20 |Heatmor            |20 |Heatmor            |20 |
+|Turtonator         |15 |Turtonator         |15 |Minior             |19 |
+|Talonflame         |11 |Talonflame         |10 |Talonflame         |11 |
+|Pidgeot            |10 |Sandslash          |10 |Lycanroc           |10 |
+|Mandibuzz          |10 |Mandibuzz          |10 |Mandibuzz          |10 |
+|Lycanroc           |5  |Lycanroc           |5  |Turtonator         |5  |
+|Skarmory           |4  |Braviary           |4  |Skarmory           |4  |
+|Braviary           |4  |Skarmory           |4  |Gliscor            |1  |
+|Gliscor            |1  |Pidgeot            |1  |                   |   |
+|                   |   |Gliscor            |1  |                   |   |
+
+645
+**Teknite Cave 3-4F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Qwilfish           |45 |
+|Goldeen            |30 |Seaking            |20 |Remoraid           |40 |
+|                   |   |Qwilfish           |20 |Octillery          |15 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Boldore            |20 |Finneon            |60 |
+|Aron               |20 |Goldeen            |30 |
+|Carbink            |10 |Lumineon           |6  |
+|Lairon             |10 |Seaking            |4  |
+|Dugtrio            |10 |                   |   |
+|Heatmor            |10 |                   |   |
+|Sandslash          |9  |                   |   |
+|Durant             |5  |                   |   |
+|Turtonator         |4  |                   |   |
+|Gigalith           |1  |                   |   |
+|Aggron             |1  |                   |   |
+
+649
+**Teknite Cave 3-4F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Qwilfish           |45 |
+|Goldeen            |30 |Seaking            |20 |Remoraid           |40 |
+|                   |   |Qwilfish           |20 |Octillery          |15 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Boldore            |20 |Finneon            |60 |
+|Aron               |20 |Goldeen            |30 |
+|Durant             |10 |Lumineon           |6  |
+|Lairon             |10 |Seaking            |4  |
+|Dugtrio            |10 |                   |   |
+|Heatmor            |10 |                   |   |
+|Sandslash          |9  |                   |   |
+|Turtonator         |9  |                   |   |
+|Gigalith           |1  |                   |   |
+|Aggron             |1  |                   |   |
+
+651, 652, 653, 654, 655, 656, 657, 658, 659
+**Sugiline Cave, Sugiline Cave B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Boldore            |20 |
+|Sandslash          |20 |
+|Durant             |10 |
+|Crustle            |10 |
+|Dugtrio            |10 |
+|Heatmor            |10 |
+|Marowak            |5  |
+|Drapion            |5  |
+|Maractus           |4  |
+|Scrafty            |4  |
+|Gigalith           |1  |
+|Cacturne           |1  |
+
+661, 662
+**Sugiline Ruin, Sugiline Ruin B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Boldore            |20 |
+|Sandslash          |20 |
+|Durant             |10 |
+|Crustle            |10 |
+|Dugtrio            |10 |
+|Heatmor            |10 |
+|Claydol            |9  |
+|Drapion            |5  |
+|Sigilyph           |5  |
+|Gigalith           |1  |
+
+663
+**1R253 Scrapyard**
+
+|Cave               |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|
+|Steelix            |20 |Nosepass           |60 |
+|Lairon             |20 |Shuckle            |30 |
+|Krookodile         |10 |Probopass          |9  |
+|Excadrill          |10 |Torkoal            |1  |
+|Dugtrio            |10 |                   |   |
+|Skarmory           |10 |                   |   |
+|Marowak            |5  |                   |   |
+|Darmanitan         |5  |                   |   |
+|Probopass          |4  |                   |   |
+|Sandslash          |4  |                   |   |
+|Hippowdon          |1  |                   |   |
+|Aggron             |1  |                   |   |
+
+669
+**Mirage Tower B1F**
+
+|Cave               |%  |
+|-------------------|---|
+|Marowak            |29 |
+|Sandslash          |24 |
+|Lairon             |10 |
+|Dusclops           |10 |
+|Dugtrio            |10 |
+|Cofagrigus         |10 |
+|Banette            |6  |
+|Excadrill          |1  |
+
+675, 861
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |40 |
+|Bruxish            |40 |
+|Phione             |20 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Marowak            |20 |Mandibuzz          |60 |
+|Cacturne           |20 |Gliscor            |31 |
+|Maractus           |10 |Sigilyph           |5  |
+|Krookodile         |10 |Skarmory           |4  |
+|Excadrill          |10 |                   |   |
+|Vibrava            |10 |                   |   |
+|Dugtrio            |5  |                   |   |
+|Darmanitan         |5  |                   |   |
+|Heliolisk          |4  |                   |   |
+|Flygon             |4  |                   |   |
+|Hippowdon          |1  |                   |   |
+|Skarmory           |1  |                   |   |
+
+687
+**Tourmaline Desert**
+
+|Cave               |%  |
+|-------------------|---|
+|Marowak            |20 |
+|Sandslash          |20 |
+|Lycanroc           |10 |
+|Krookodile         |10 |
+|Excadrill          |10 |
+|Dugtrio            |10 |
+|Mandibuzz          |5  |
+|Darmanitan         |5  |
+|Heliolisk          |4  |
+|Hippowdon          |4  |
+|Skarmory           |1  |
+|Gliscor            |1  |
+
+688
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |44 |
+|Shellos            |40 |
+|Bruxish            |16 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Marowak            |20 |Mandibuzz          |60 |
+|Cacturne           |20 |Gliscor            |31 |
+|Maractus           |10 |Sigilyph           |5  |
+|Krookodile         |10 |Skarmory           |4  |
+|Excadrill          |10 |                   |   |
+|Dugtrio            |10 |                   |   |
+|Vibrava            |5  |                   |   |
+|Darmanitan         |5  |                   |   |
+|Heliolisk          |4  |                   |   |
+|Hippowdon          |4  |                   |   |
+|Skarmory           |1  |                   |   |
+|Flygon             |1  |                   |   |
+
+692
+**1R253 Scrapyard**
+
+|Cave               |%  |
+|-------------------|---|
+|Steelix            |20 |
+|Lairon             |20 |
+|Krookodile         |10 |
+|Excadrill          |10 |
+|Dugtrio            |10 |
+|Skarmory           |10 |
+|Marowak            |5  |
+|Darmanitan         |5  |
+|Probopass          |4  |
+|Sandslash          |4  |
+|Hippowdon          |1  |
+|Aggron             |1  |
+
+694
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |44 |
+|Shellos            |40 |
+|Bruxish            |16 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Marowak            |20 |Mandibuzz          |65 |
+|Cacturne           |20 |Gliscor            |31 |
+|Maractus           |10 |Skarmory           |4  |
+|Krookodile         |10 |                   |   |
+|Excadrill          |10 |                   |   |
+|Dugtrio            |10 |                   |   |
+|Mandibuzz          |5  |                   |   |
+|Darmanitan         |5  |                   |   |
+|Heliolisk          |4  |                   |   |
+|Hippowdon          |4  |                   |   |
+|Skarmory           |1  |                   |   |
+|Scrafty            |1  |                   |   |
+
+695
+**Tourmaline Desert**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Grimer             |100|Grimer             |60 |Muk                |100|
+|                   |   |Muk                |40 |                   |   |
+
+|Cave               |%  |
+|-------------------|---|
+|Marowak            |20 |
+|Cacturne           |20 |
+|Maractus           |10 |
+|Krookodile         |10 |
+|Excadrill          |10 |
+|Dugtrio            |10 |
+|Mandibuzz          |5  |
+|Darmanitan         |5  |
+|Lairon             |4  |
+|Hippowdon          |4  |
+|Skarmory           |1  |
+|Drapion            |1  |
+
+696
+**Once Upon a Somewhere**
+
+|Land               |%  |
+|-------------------|---|
+|Lilligant          |20 |
+|Aromatisse         |20 |
+|Illumise           |10 |
+|Cinccino           |10 |
+|Volbeat            |10 |
+|Rapidash           |10 |
+|Audino             |5  |
+|Druddigon          |5  |
+|Escavalier         |4  |
+|Chansey            |4  |
+|Altaria            |1  |
+|Florges            |1  |
+
+697, 700
+**Once Upon a Somewhere, Once Upon a Waste of Time**
+
+|Land               |%  |
+|-------------------|---|
+|Lilligant          |20 |
+|Aromatisse         |20 |
+|Illumise           |10 |
+|Cinccino           |10 |
+|Volbeat            |10 |
+|Rapidash           |10 |
+|Audino             |5  |
+|Druddigon          |5  |
+|Escavalier         |4  |
+|Chansey            |4  |
+|Altaria            |1  |
+|Florges            |1  |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Ribombee           |55 |
+|Ferroseed          |20 |
+|Musharna           |10 |
+|Altaria            |10 |
+|Ferrothorn         |5  |
+
+703
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |44 |
+|Shellos            |40 |
+|Bruxish            |16 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Dugtrio            |20 |Mandibuzz          |65 |
+|Mandibuzz          |20 |Gliscor            |31 |
+|Krookodile         |10 |Skarmory           |4  |
+|Marowak            |10 |                   |   |
+|Cacturne           |10 |                   |   |
+|Maractus           |10 |                   |   |
+|Excadrill          |5  |                   |   |
+|Darmanitan         |5  |                   |   |
+|Heliolisk          |4  |                   |   |
+|Hippowdon          |4  |                   |   |
+|Skarmory           |1  |                   |   |
+|Scrafty            |1  |                   |   |
+
+704
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |44 |
+|Shellos            |40 |
+|Bruxish            |16 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Excadrill          |20 |Mandibuzz          |65 |
+|Heliolisk          |20 |Gliscor            |31 |
+|Dugtrio            |10 |Skarmory           |4  |
+|Marowak            |10 |                   |   |
+|Cacturne           |10 |                   |   |
+|Maractus           |10 |                   |   |
+|Krookodile         |5  |                   |   |
+|Mandibuzz          |5  |                   |   |
+|Darmanitan         |4  |                   |   |
+|Hippowdon          |4  |                   |   |
+|Skarmory           |1  |                   |   |
+|Scrafty            |1  |                   |   |
+
+705
+**Tourmaline Desert**
+
+|Super Rod          |%  |
+|-------------------|---|
+|Gastrodon          |44 |
+|Shellos            |40 |
+|Bruxish            |16 |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Maractus           |20 |Mandibuzz          |65 |
+|Krookodile         |20 |Gliscor            |31 |
+|Marowak            |10 |Skarmory           |4  |
+|Cacturne           |10 |                   |   |
+|Excadrill          |10 |                   |   |
+|Dugtrio            |10 |                   |   |
+|Mandibuzz          |5  |                   |   |
+|Heliolisk          |5  |                   |   |
+|Darmanitan         |4  |                   |   |
+|Hippowdon          |4  |                   |   |
+|Skarmory           |1  |                   |   |
+|Scrafty            |1  |                   |   |
+
+710, 711, 714
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Abomasnow          |10 |Whimsicott         |10 |Abomasnow          |10 |
+|Whimsicott         |10 |Abomasnow          |10 |Noctowl            |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Hypno              |10 |
+|Chansey            |10 |Chansey            |10 |Chimecho           |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Zebstrika          |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
+|Shroomish          |4  |Shroomish          |4  |Shroomish          |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Swablu             |30 |
+|Pineco             |25 |
+|Aipom              |20 |
+|Forretress         |14 |
+|Altaria            |6  |
+|Ambipom            |5  |
+
+712, 719, 722, 724, 728
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Whimsicott         |10 |Whimsicott         |10 |Zebstrika          |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Noctowl            |10 |
+|Chansey            |10 |Chansey            |10 |Hypno              |10 |
+|Wigglytuff         |10 |Wigglytuff         |10 |Chimecho           |10 |
+|Zangoose           |6  |Hypno              |5  |Chansey            |5  |
+|Hypno              |5  |Zebstrika          |5  |Bisharp            |5  |
+|Shroomish          |4  |Shroomish          |4  |Shroomish          |4  |
+|Scyther            |4  |Scyther            |4  |Scyther            |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+713, 715
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Abomasnow          |10 |Whimsicott         |10 |Abomasnow          |10 |
+|Whimsicott         |10 |Abomasnow          |10 |Noctowl            |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Hypno              |10 |
+|Chansey            |10 |Chansey            |10 |Chimecho           |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Zebstrika          |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
+|Shroomish          |4  |Shroomish          |4  |Shroomish          |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Wailmer            |60 |Swablu             |30 |
+|Lumineon           |30 |Pineco             |25 |
+|Wishiwashi         |6  |Aipom              |20 |
+|Seaking            |4  |Forretress         |14 |
+|                   |   |Altaria            |6  |
+|                   |   |Ambipom            |5  |
+
+716
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |40 |Audino             |40 |Audino             |40 |
+|Wigglytuff         |25 |Wigglytuff         |25 |Chansey            |25 |
+|Chansey            |20 |Chansey            |20 |Wigglytuff         |20 |
+|Snivy              |5  |Snivy              |5  |Snivy              |5  |
+|Zangoose           |5  |Servine            |4  |Servine            |4  |
+|Servine            |4  |Zebstrika          |4  |Bisharp            |4  |
+|Serperior          |1  |Serperior          |1  |Serperior          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Wailmer            |60 |Swablu             |30 |
+|Lumineon           |30 |Pineco             |25 |
+|Wishiwashi         |6  |Aipom              |20 |
+|Seaking            |4  |Forretress         |14 |
+|                   |   |Altaria            |6  |
+|                   |   |Ambipom            |5  |
+
+717, 720
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Abomasnow          |10 |Whimsicott         |10 |Abomasnow          |10 |
+|Whimsicott         |10 |Abomasnow          |10 |Noctowl            |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Hypno              |10 |
+|Chansey            |10 |Chansey            |10 |Chimecho           |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Zebstrika          |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
+|Shroomish          |4  |Shroomish          |4  |Shroomish          |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+718
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Whimsicott         |10 |Whimsicott         |10 |Zebstrika          |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Noctowl            |10 |
+|Chansey            |10 |Chansey            |10 |Hypno              |10 |
+|Wigglytuff         |10 |Wigglytuff         |10 |Chimecho           |10 |
+|Zangoose           |6  |Hypno              |5  |Chansey            |5  |
+|Hypno              |5  |Zebstrika          |5  |Bisharp            |5  |
+|Shroomish          |4  |Shroomish          |4  |Shroomish          |4  |
+|Scyther            |4  |Scyther            |4  |Scyther            |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |60 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+|Seaking            |4  |
+
+721, 723, 725, 727, 729
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Abomasnow          |10 |Beartic            |10 |Abomasnow          |10 |
+|Beartic            |10 |Abomasnow          |10 |Noctowl            |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Hypno              |10 |
+|Chansey            |10 |Chansey            |10 |Chimecho           |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Zebstrika          |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Beartic            |4  |
+|Zebstrika          |4  |Bisharp            |4  |Bisharp            |4  |
+|Ninetales          |1  |Ninetales          |1  |Ninetales          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+726
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |20 |Piloswine          |20 |Piloswine          |20 |
+|Abomasnow          |10 |Beartic            |10 |Abomasnow          |10 |
+|Beartic            |10 |Abomasnow          |10 |Noctowl            |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Hypno              |10 |
+|Chansey            |10 |Chansey            |10 |Chimecho           |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Zebstrika          |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Beartic            |4  |
+|Zebstrika          |4  |Bisharp            |4  |Bisharp            |4  |
+|Ninetales          |1  |Ninetales          |1  |Ninetales          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |60 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+|Seaking            |4  |
+
+741
+**Agate City**
+
+|Land               |%  |
+|-------------------|---|
+|Corphish           |30 |
+|Clamperl           |20 |
+|Chinchou           |10 |
+|Seadra             |10 |
+|Lanturn            |10 |
+|Huntail            |5  |
+|Gorebyss           |5  |
+|Crawdaunt          |5  |
+|Mantine            |4  |
+|Kingdra            |1  |
+
+742
+**Route 4**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Marill             |20 |Marill             |20 |Marill             |20 |
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |10 |Piloswine          |10 |Piloswine          |10 |
+|Whimsicott         |10 |Whimsicott         |10 |Zebstrika          |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Noctowl            |10 |
+|Chansey            |10 |Chansey            |10 |Hypno              |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Chimecho           |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
+|Azumarill          |4  |Azumarill          |4  |Azumarill          |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |60 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+|Seaking            |4  |
+
+744
+**Teknite Ridge**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Durant             |20 |Durant             |20 |Durant             |20 |
+|Heatmor            |20 |Heatmor            |20 |Heatmor            |20 |
+|Turtonator         |15 |Turtonator         |15 |Druddigon          |19 |
+|Accelgor           |14 |Druddigon          |15 |Sandslash          |10 |
+|Sandslash          |10 |Sandslash          |11 |Accelgor           |10 |
+|Graveler           |10 |Graveler           |10 |Graveler           |10 |
+|Druddigon          |5  |Accelgor           |4  |Turtonator         |5  |
+|Lickilicky         |4  |Lickilicky         |4  |Lickilicky         |5  |
+|Talonflame         |1  |Gliscor            |1  |Gliscor            |1  |
+|Gliscor            |1  |                   |   |                   |   |
+
+745, 746
+**Teknite Cave**
+
+|Cave               |%  |
+|-------------------|---|
+|Boldore            |20 |
+|Aron               |20 |
+|Durant             |10 |
+|Lairon             |10 |
+|Dugtrio            |10 |
+|Heatmor            |10 |
+|Sandslash          |9  |
+|Turtonator         |9  |
+|Gigalith           |1  |
+|Aggron             |1  |
+
+749
+**Charous Mountain B2F**
+
+|Cave               |%  |
+|-------------------|---|
+|Beartic            |20 |
+|Sealeo             |20 |
+|Avalugg            |20 |
+|Glalie             |14 |
+|Sandslash          |10 |
+|Walrein            |6  |
+|Froslass           |5  |
+|Crabominable       |4  |
+|Absol              |1  |
+
+750
+**Charous Mountain B2F**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Lumineon           |30 |Horsea             |20 |Seadra             |40 |
+|                   |   |Qwilfish           |20 |Cloyster           |15 |
+|                   |   |                   |   |Qwilfish           |4  |
+|                   |   |                   |   |Kingdra            |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Beartic            |20 |Wailmer            |60 |
+|Sealeo             |20 |Seel               |30 |
+|Avalugg            |20 |Lumineon           |5  |
+|Glalie             |14 |Wishiwashi         |4  |
+|Sandslash          |10 |Dewgong            |1  |
+|Walrein            |6  |                   |   |
+|Froslass           |5  |                   |   |
+|Crabominable       |4  |                   |   |
+|Absol              |1  |                   |   |
+
+760
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Lairon             |24 |
+|Aron               |20 |
+|Klink              |20 |
+|Graveler           |10 |
+|Noivern            |10 |
+|Klang              |5  |
+|Mawile             |5  |
+|Aggron             |5  |
+|Klinklang          |1  |
+
+762
+**Underground Railnet**
+
+|Cave               |%  |
+|-------------------|---|
+|Noibat             |40 |
+|Klink              |25 |
+|Geodude            |10 |
+|Graveler           |10 |
+|Mawile             |9  |
+|Skorupi            |4  |
+|Drapion            |1  |
+|Klang              |1  |
+
+763
+**Agate City**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |60 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+|Seaking            |4  |
+
+783, 812, 813
+**Victory Road**
+
+|Cave               |%  |
+|-------------------|---|
+|Aggron             |20 |
+|Gigalith           |20 |
+|Bisharp            |10 |
+|Alakazam           |10 |
+|Exploud            |10 |
+|Rapidash           |10 |
+|Shiftry            |5  |
+|Jynx               |5  |
+|Ditto              |4  |
+|Nidoking           |4  |
+|Luxray             |1  |
+|Absol              |1  |
+
+786, 790, 791, 811
+**Victory Road B1F, Victory Road B2F**
+
+|Cave               |%  |
+|-------------------|---|
+|Klinklang          |20 |
+|Dusclops           |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Nidoqueen          |10 |
+|Ampharos           |10 |
+|Luxray             |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Probopass          |1  |
+|Steelix            |1  |
+
+788, 792
+**Charous Mountain, Victory Road 2F**
+
+|Cave               |%  |
+|-------------------|---|
+|Spiritomb          |20 |
+|Crabominable       |20 |
+|Crobat             |10 |
+|Exploud            |10 |
+|Bisharp            |10 |
+|Mawile             |10 |
+|Gallade            |5  |
+|Gigalith           |5  |
+|Ampharos           |4  |
+|Rapidash           |4  |
+|Absol              |1  |
+|Alakazam           |1  |
+
+794
+**Charous Path**
+
+|Land               |%  |
+|-------------------|---|
+|Crabominable       |20 |
+|Weavile            |20 |
+|Ninetales          |10 |
+|Drifblim           |10 |
+|Medicham           |10 |
+|Spiritomb          |10 |
+|Walrein            |5  |
+|Sableye            |5  |
+|Glaceon            |4  |
+|Jynx               |4  |
+|Nidoking           |1  |
+|Absol              |1  |
+
+796, 798
+**Victory Road**
+
+|Cave               |%  |
+|-------------------|---|
+|Aggron             |20 |
+|Bisharp            |20 |
+|Alakazam           |10 |
+|Rapidash           |10 |
+|Nidoking           |10 |
+|Luxray             |10 |
+|Shiftry            |5  |
+|Jolteon            |5  |
+|Ditto              |4  |
+|Wobbuffet          |4  |
+|Absol              |1  |
+|Snorlax            |1  |
+
+797
+**Victory Road**
+
+|Cave               |%  |
+|-------------------|---|
+|Houndoom           |20 |
+|Zoroark            |20 |
+|Gallade            |10 |
+|Glalie             |10 |
+|Arcanine           |10 |
+|Nidoqueen          |10 |
+|Weavile            |5  |
+|Altaria            |5  |
+|Ariados            |4  |
+|Magmortar          |4  |
+|Crabominable       |1  |
+|Snorlax            |1  |
+
+799
+**Victory Road B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Darmanitan         |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Pyroar             |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+800
+**Victory Road B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Poliwrath          |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Weavile            |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+801
+**Victory Road B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Trevenant          |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Vespiquen          |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+802
+**Victory Road B3F**
+
+|Cave               |%  |
+|-------------------|---|
+|Musharna           |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Xatu               |10 |
+|Ampharos           |10 |
+|Salazzle           |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+803, 807
+**Victory Road B4F, Victory Road B5F**
+
+|Cave               |%  |
+|-------------------|---|
+|Darmanitan         |20 |
+|Pangoro            |20 |
+|Hariyama           |10 |
+|Pyroar             |10 |
+|Honchkrow          |10 |
+|Conkeldurr         |10 |
+|Hitmonlee          |5  |
+|Ariados            |5  |
+|Gliscor            |4  |
+|Flareon            |4  |
+|Zoroark            |1  |
+|Gallade            |1  |
+
+804, 808
+**Victory Road B4F, Victory Road B5F**
+
+|Cave               |%  |
+|-------------------|---|
+|Walrein            |20 |
+|Poliwrath          |20 |
+|Slowking           |10 |
+|Jellicent          |10 |
+|Octillery          |10 |
+|Weavile            |10 |
+|Altaria            |5  |
+|Vaporeon           |5  |
+|Toxicroak          |4  |
+|Hitmonchan         |4  |
+|Carracosta         |1  |
+|Armaldo            |1  |
+
+809
+**Victory Road B5F**
+
+|Cave               |%  |
+|-------------------|---|
+|Crobat             |20 |
+|Trevenant          |20 |
+|Hitmontop          |10 |
+|Slaking            |10 |
+|Dhelmise           |10 |
+|Scolipede          |10 |
+|Vespiquen          |5  |
+|Swellow            |5  |
+|Leafeon            |4  |
+|Galvantula         |4  |
+|Golisopod          |1  |
+|Electivire         |1  |
+
+810
+**Victory Road B5F**
+
+|Cave               |%  |
+|-------------------|---|
+|Musharna           |20 |
+|Mismagius          |20 |
+|Cofagrigus         |10 |
+|Clefable           |10 |
+|Salazzle           |10 |
+|Dragalge           |10 |
+|Golurk             |5  |
+|Sableye            |5  |
+|Xatu               |4  |
+|Espeon             |4  |
+|Tsareena           |1  |
+|Houndoom           |1  |
+
+831
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Linoone            |20 |
+|Musharna           |20 |
+|Wigglytuff         |10 |
+|Mightyena          |10 |
+|Camerupt           |10 |
+|Gumshoos           |10 |
+|Komala             |5  |
+|Ursaring           |5  |
+|Shiinotic          |4  |
+|Amoonguss          |4  |
+|Cinccino           |1  |
+|Gardevoir          |1  |
+
+825
+**New World - Regis**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Golurk             |20 |
+|Tangrowth          |10 |
+|Slurpuff           |10 |
+|Camerupt           |10 |
+|Crustle            |10 |
+|Pangoro            |5  |
+|Bronzong           |5  |
+|Magcargo           |4  |
+|Amoonguss          |4  |
+|Wobbuffet          |1  |
+|Muk                |1  |
+
+833
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Unown              |100|
+
+834
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Raichu             |20 |
+|Ampharos           |10 |
+|Luxray             |10 |
+|Gigalith           |10 |
+|Aggron             |10 |
+|Lycanroc           |5  |
+|Sandslash          |5  |
+|Electivire         |4  |
+|Jolteon            |4  |
+|Steelix            |1  |
+|Skarmory           |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Luvdisc            |70 |Luvdisc            |60 |Gorebyss           |40 |
+|Qwilfish           |30 |Alomomola          |20 |Huntail            |40 |
+|                   |   |Seadra             |20 |Slowking           |15 |
+|                   |   |                   |   |Kingdra            |4  |
+|                   |   |                   |   |Dratini            |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Pelipper           |60 |
+|Mantine            |30 |
+|Politoed           |5  |
+|Phione             |4  |
+|Magikarp           |1  |
+
+835
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Vivillon           |20 |
+|Wormadam           |20 |
+|Sudowoodo          |10 |
+|Venomoth           |10 |
+|Klinklang          |10 |
+|Durant             |10 |
+|Aggron             |5  |
+|Vileplume          |5  |
+|Cradily            |4  |
+|Bastiodon          |4  |
+|Toucannon          |1  |
+|Ferrothorn         |1  |
+
+836, 837
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Braviary           |20 |
+|Wynaut             |10 |
+|Claydol            |10 |
+|Masquerain         |10 |
+|Armaldo            |10 |
+|Emolga             |5  |
+|Manectric          |5  |
+|Stunfisk           |4  |
+|Malamar            |4  |
+|Shiftry            |1  |
+|Flygon             |1  |
+
+838
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Bewear             |20 |
+|Steelix            |20 |
+|Wigglytuff         |10 |
+|Gigalith           |10 |
+|Camerupt           |10 |
+|Drifblim           |10 |
+|Hippowdon          |5  |
+|Forretress         |5  |
+|Chansey            |4  |
+|Wailord            |4  |
+|Snorlax            |1  |
+|Guzzlord           |1  |
+
+839
+**New World**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Quagsire           |55 |
+|Clawitzer          |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Quagsire           |20 |Dhelmise           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Pelipper           |60 |
+|Seaking            |30 |
+|Gastrodon          |9  |
+|Tentacruel         |1  |
+
+840
+**Chrysolia Deepwoods**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Tropius            |20 |Tropius            |20 |Carnivine          |20 |
+|Exeggutor          |20 |Toucannon          |20 |Furfrou            |20 |
+|Furfrou            |10 |Sawsbuck           |10 |Exeggutor          |10 |
+|Ledian             |10 |Furfrou            |10 |Parasect           |10 |
+|Smeargle           |10 |Exeggutor          |10 |Victreebel         |10 |
+|Sawsbuck           |10 |Bellossom          |10 |Tropius            |10 |
+|Tangrowth          |5  |Tangrowth          |5  |Tangrowth          |5  |
+|Toucannon          |5  |Whimsicott         |5  |Audino             |5  |
+|Cinccino           |4  |Cinccino           |4  |Volbeat            |4  |
+|Audino             |4  |Smeargle           |4  |Illumise           |4  |
+|Victreebel         |1  |Sceptile           |1  |Toucannon          |1  |
+|Meganium           |1  |Victreebel         |1  |Smeargle           |1  |
+
+841
+**Twilight Desert**
+
+|Cave               |%  |
+|-------------------|---|
+|Mandibuzz          |20 |
+|Marowak            |20 |
+|Magneton           |10 |
+|Golem              |10 |
+|Lunatone           |10 |
+|Rampardos          |10 |
+|Stakataka          |5  |
+|Aerodactyl         |5  |
+|Mawile             |4  |
+|Dhelmise           |4  |
+|Weavile            |1  |
+|Umbreon            |1  |
+
+844
+**Vacant Past**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Goldeen            |100|Goldeen            |60 |Seaking            |95 |
+|                   |   |Seaking            |40 |Magikarp           |4  |
+|                   |   |                   |   |Feebas             |1  |
+
+847
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Raichu             |20 |
+|Luxray             |10 |
+|Carbink            |10 |
+|Umbreon            |10 |
+|Solrock            |10 |
+|Lunatone           |5  |
+|Sableye            |5  |
+|Minior             |4  |
+|Rotom              |4  |
+|Shiinotic          |1  |
+|Nihilego           |1  |
+
+848
+**Manyworld Forest**
+
+|Land               |%  |
+|-------------------|---|
+|Sudowoodo          |20 |
+|Delcatty           |20 |
+|Lunatone           |10 |
+|Solrock            |10 |
+|Farfetch'd         |10 |
+|Primeape           |10 |
+|Snorlax            |5  |
+|Skarmory           |5  |
+|Bayleef            |4  |
+|Quilava            |4  |
+|Togetic            |1  |
+|Dragonite          |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Omanyte            |70 |Omanyte            |60 |Omanyte            |40 |
+|Kabuto             |30 |Kabuto             |20 |Kabuto             |40 |
+|                   |   |Tirtouga           |20 |Omastar            |15 |
+|                   |   |                   |   |Kabutops           |4  |
+|                   |   |                   |   |Carracosta         |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Relicanth          |100|
+
+849
+**Aegir Cave**
+
+|Land               |%  |
+|-------------------|---|
+|Simisage           |20 |
+|Girafarig          |20 |
+|Carbink            |10 |
+|Zebstrika          |10 |
+|Sawsbuck           |10 |
+|Farfetch'd         |10 |
+|Stantler           |5  |
+|Rapidash           |5  |
+|Mudsdale           |4  |
+|Swoobat            |4  |
+|Gourgeist          |1  |
+|Golurk             |1  |
+
+|Headbutt           |%  |
+|-------------------|---|
+|Wurmple            |100|
+
+850
+**Aegir Cave**
+
+|Land               |%  |
+|-------------------|---|
+|Simisage           |20 |
+|Girafarig          |20 |
+|Carbink            |10 |
+|Zebstrika          |10 |
+|Sawsbuck           |10 |
+|Farfetch'd         |10 |
+|Stantler           |5  |
+|Rapidash           |5  |
+|Mudsdale           |4  |
+|Swoobat            |4  |
+|Gourgeist          |1  |
+|Golurk             |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Clauncher          |70 |Wishiwashi         |60 |Clawitzer          |80 |
+|Wishiwashi         |30 |Clawitzer          |20 |Wishiwashi         |15 |
+|                   |   |Wimpod             |20 |Golisopod          |5  |
+
+|Water              |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|
+|Surskit            |90 |Shuckle            |100|
+|Drifblim           |5  |                   |   |
+|Masquerain         |5  |                   |   |
+
+851
+**Aegir Cave**
+
+|Land               |%  |
+|-------------------|---|
+|Lanturn            |30 |
+|Seaking            |20 |
+|Golisopod          |20 |
+|Corsola            |18 |
+|Relicanth          |12 |
+
+852
+**New World - Victini**
+
+|Land               |%  |
+|-------------------|---|
+|Simisear           |20 |
+|Simipour           |20 |
+|Sudowoodo          |10 |
+|Komala             |10 |
+|Roserade           |10 |
+|Seaking            |10 |
+|Heatmor            |5  |
+|Camerupt           |5  |
+|Sigilyph           |4  |
+|Darmanitan         |4  |
+|Nidoking           |1  |
+|Beheeyem           |1  |
+
+856
+**Unexplored Territory**
+
+|Land               |%  |
+|-------------------|---|
+|Dewgong            |25 |
+|Lanturn            |20 |
+|Octillery          |15 |
+|Seaking            |10 |
+|Corsola            |10 |
+|Quagsire           |10 |
+|Gyarados           |5  |
+|Vaporeon           |5  |
+
+857
+**Unexplored Territory**
+
+|Land               |%  |
+|-------------------|---|
+|Xatu               |20 |
+|Azumarill          |20 |
+|Fearow             |10 |
+|Jumpluff           |10 |
+|Scyther            |10 |
+|Farfetch'd         |10 |
+|Rapidash           |5  |
+|Golduck            |5  |
+|Espeon             |5  |
+|Electrode          |4  |
+|Ninetales          |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Kabuto             |70 |Omanyte            |60 |Omastar            |41 |
+|Omanyte            |30 |Qwilfish           |20 |Mantine            |40 |
+|                   |   |Staryu             |20 |Qwilfish           |15 |
+|                   |   |                   |   |Starmie            |4  |
+
+|Water              |%  |
+|-------------------|---|
+|Golduck            |60 |
+|Kabutops           |30 |
+|Aerodactyl         |5  |
+|Lapras             |5  |
+
+859
+**Unexplored Territory**
+
+|Land               |%  |
+|-------------------|---|
+|Ariados            |20 |
+|Yanmega            |20 |
+|Butterfree         |10 |
+|Beedrill           |10 |
+|Victreebel         |10 |
+|Farfetch'd         |10 |
+|Honchkrow          |5  |
+|Vileplume          |5  |
+|Vaporeon           |4  |
+|Ninetales          |4  |
+|Espeon             |1  |
+|Kabutops           |1  |
+
+860
+**Aegir Cave Depths**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Frillish           |100|Frillish           |60 |Jellicent          |55 |
+|                   |   |Alomomola          |20 |Alomomola          |40 |
+|                   |   |Staryu             |20 |Starmie            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Sableye            |20 |Lumineon           |60 |
+|Carbink            |20 |Empoleon           |30 |
+|Froslass           |10 |Chimecho           |5  |
+|Mawile             |10 |Lapras             |4  |
+|Vivillon           |10 |Azumarill          |1  |
+|Ribombee           |10 |                   |   |
+|Butterfree         |5  |                   |   |
+|Roserade           |5  |                   |   |
+|Volbeat            |4  |                   |   |
+|Illumise           |4  |                   |   |
+|Florges            |1  |                   |   |
+|Araquanid          |1  |                   |   |
+
+862
+**Splash Grounds**
+
+|Cave               |%  |
+|-------------------|---|
+|Corsola            |20 |
+|Carracosta         |20 |
+|Jellicent          |10 |
+|Dhelmise           |10 |
+|Dragalge           |10 |
+|Gorebyss           |10 |
+|Huntail            |5  |
+|Ditto              |5  |
+|Phione             |4  |
+|Toxapex            |4  |
+|Primarina          |1  |
+|Kingdra            |1  |
+
+863
+**Tourmaline Desert**
+
+|Land               |%  |
+|-------------------|---|
+|Gastrodon          |20 |
+|Basculin           |20 |
+|Bruxish            |20 |
+|Seaking            |10 |
+|Corsola            |10 |
+|Quagsire           |10 |
+|Phione             |10 |
+
+866
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Tyrantrum          |30 |
+|Mr. Mime           |20 |
+|Druddigon          |10 |
+|Weavile            |10 |
+|Persian            |10 |
+|Malamar            |9  |
+|Blacephalon        |6  |
+|Honchkrow          |5  |
+
+869
+**Manyworld Pool**
+
+|Land               |%  |
+|-------------------|---|
+|Qwilfish           |20 |
+|Remoraid           |20 |
+|Seel               |10 |
+|Spheal             |10 |
+|Shellder           |10 |
+|Golduck            |10 |
+|Quagsire           |5  |
+|Lapras             |5  |
+|Poliwrath          |4  |
+|Starmie            |4  |
+|Vaporeon           |1  |
+|Croconaw           |1  |
+
+870
+**Ametrine Core**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
+|                   |   |Qwilfish           |20 |Cloyster           |15 |
+|                   |   |                   |   |Kingdra            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Beartic            |20 |Wailmer            |60 |
+|Swoobat            |20 |Seel               |30 |
+|Avalugg            |10 |Lumineon           |5  |
+|Magcargo           |10 |Wishiwashi         |4  |
+|Vanilluxe          |10 |Dewgong            |1  |
+|Delibird           |10 |                   |   |
+|Mamoswine          |5  |                   |   |
+|Jynx               |5  |                   |   |
+|Cryogonal          |4  |                   |   |
+|Glalie             |4  |                   |   |
+|Magmar             |1  |                   |   |
+|Froslass           |1  |                   |   |
+
+872
+**Ametrine Core**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
+|                   |   |Qwilfish           |20 |Cloyster           |15 |
+|                   |   |                   |   |Kingdra            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Beartic            |20 |Wailmer            |60 |
+|Swoobat            |20 |Seel               |30 |
+|Mamoswine          |10 |Lumineon           |5  |
+|Magcargo           |10 |Wishiwashi         |4  |
+|Golem              |10 |Dewgong            |1  |
+|Heatmor            |10 |                   |   |
+|Dugtrio            |5  |                   |   |
+|Electabuzz         |5  |                   |   |
+|Claydol            |4  |                   |   |
+|Glalie             |4  |                   |   |
+|Magmar             |1  |                   |   |
+|Spiritomb          |1  |                   |   |
+
+873
+**Ametrine Core**
+
+|Cave               |%  |
+|-------------------|---|
+|Magcargo           |30 |
+|Swoobat            |20 |
+|Camerupt           |10 |
+|Golem              |10 |
+|Heatmor            |10 |
+|Dugtrio            |5  |
+|Weezing            |5  |
+|Claydol            |4  |
+|Torkoal            |4  |
+|Magmar             |1  |
+|Charizard          |1  |
+
+875
+**Chrysolia Deepwoods**
+
+|Cave               |%  |
+|-------------------|---|
+|Garbodor           |20 |
+|Parasect           |20 |
+|Golem              |10 |
+|Weezing            |10 |
+|Mawile             |10 |
+|Victreebel         |10 |
+|Steelix            |5  |
+|Tangrowth          |5  |
+|Crobat             |4  |
+|Audino             |4  |
+|Smeargle           |1  |
+|Toucannon          |1  |
+
+876
+**Cauldron of the Future**
+
+|Land               |%  |
+|-------------------|---|
+|Hakamo-o           |20 |
+|Malamar            |20 |
+|Aerodactyl         |10 |
+|Bruxish            |10 |
+|Blacephalon        |10 |
+|Liepard            |10 |
+|Jellicent          |5  |
+|Celesteela         |5  |
+|Type: Null         |4  |
+|Guzzlord           |4  |
+|Kommo-o            |2  |
+
+|Super Rod          |%  |
+|-------------------|---|
+|Cosmog             |100|
+
+878
+**Idyll of Pestilence**
+
+|Land               |%  |
+|-------------------|---|
+|Ariados            |20 |
+|Amoonguss          |20 |
+|Parasect           |10 |
+|Venusaur           |10 |
+|Muk                |10 |
+|Malamar            |10 |
+|Nihilego           |6  |
+|Honchkrow          |5  |
+|Weezing            |4  |
+|Skuntank           |4  |
+|Salazzle           |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Skrelp             |70 |Frillish           |60 |Dragalge           |41 |
+|Mareanie           |30 |Qwilfish           |20 |Jellicent          |40 |
+|                   |   |Quagsire           |20 |Toxapex            |15 |
+|                   |   |                   |   |Dhelmise           |4  |
+
+|Water              |%  |
+|-------------------|---|
+|Dragalge           |60 |
+|Qwilfish           |30 |
+|Sharpedo           |5  |
+|Tentacruel         |5  |
+
+879
+**Idyll of Panaceance**
+
+|Land               |%  |
+|-------------------|---|
+|Shiftry            |20 |
+|Whimsicott         |20 |
+|Swellow            |10 |
+|Ursaring           |10 |
+|Muk                |10 |
+|Breloom            |10 |
+|Kartana            |6  |
+|Florges            |6  |
+|Sawsbuck           |4  |
+|Jumpluff           |4  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Feebas             |70 |Wishiwashi         |60 |Vaporeon           |41 |
+|Seel               |30 |Pyukumuku          |20 |Ludicolo           |40 |
+|                   |   |Dewgong            |20 |Milotic            |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+
+|Water              |%  |
+|-------------------|---|
+|Floatzel           |60 |
+|Vaporeon           |30 |
+|Wailmer            |5  |
+|Golduck            |4  |
+|Dewgong            |1  |
+
+881
+**Mirage Tower?**
+
+|Cave               |%  |
+|-------------------|---|
+|Marowak            |29 |
+|Sandslash          |24 |
+|Aggron             |10 |
+|Dusknoir           |10 |
+|Dugtrio            |10 |
+|Cofagrigus         |10 |
+|Banette            |6  |
+|Excadrill          |1  |
+
+882
+**Mirage Tower?**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Feebas             |70 |Wishiwashi         |60 |Azumarill          |40 |
+|Marill             |30 |Starmie            |20 |Vaporeon           |40 |
+|                   |   |Jellicent          |20 |Milotic            |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+|                   |   |                   |   |Primarina          |1  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Mismagius          |20 |Floatzel           |60 |
+|Sandslash          |20 |Vaporeon           |30 |
+|Starmie            |10 |Starmie            |5  |
+|Dusknoir           |10 |Golduck            |4  |
+|Golduck            |10 |Tentacruel         |1  |
+|Carbink            |10 |                   |   |
+|Golurk             |5  |                   |   |
+|Klefki             |5  |                   |   |
+|Nihilego           |4  |                   |   |
+|Vaporeon           |4  |                   |   |
+|Banette            |1  |                   |   |
+|Floatzel           |1  |                   |   |
+
+883
+**New World**
+
+|Land               |%  |
+|-------------------|---|
+|Pyroar             |20 |
+|Solrock            |20 |
+|Buzzwole           |11 |
+|Rapidash           |11 |
+|Lilligant          |10 |
+|Leavanny           |10 |
+|Talonflame         |5  |
+|Druddigon          |5  |
+|Claydol            |4  |
+|Gumshoos           |4  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |70 |Gastrodon          |60 |Dhelmise           |40 |
+|Wooper             |30 |Quagsire           |20 |Wailord            |40 |
+|                   |   |Seadra             |20 |Gastrodon          |15 |
+|                   |   |                   |   |Quagsire           |4  |
+|                   |   |                   |   |Kingdra            |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailord            |60 |
+|Gastrodon          |30 |
+|Seismitoad         |6  |
+|Poliwrath          |4  |
+
+887
+**New World Helix**
+
+|Land               |%  |
+|-------------------|---|
+|Cryogonal          |20 |
+|Emolga             |20 |
+|Beartic            |10 |
+|Chandelure         |10 |
+|Zebstrika          |10 |
+|Stakataka          |10 |
+|Eelektross         |5  |
+|Heatmor            |5  |
+|Volcarona          |5  |
+|Dewgong            |5  |
+
+889
+**Rhodochrine Tree**
+
+|Land               |%  |
+|-------------------|---|
+|Lilligant          |30 |
+|Liepard            |20 |
+|Lurantis           |10 |
+|Exeggutor          |10 |
+|Leavanny           |10 |
+|Tsareena           |5  |
+|Spiritomb          |5  |
+|Aromatisse         |4  |
+|Dustox             |4  |
+|Sceptile           |1  |
+|Decidueye          |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Staryu             |100|Starmie            |100|Starmie            |95 |
+|                   |   |                   |   |Froakie            |4  |
+|                   |   |                   |   |Frogadier          |1  |
+
+894
+**Endgame**
+
+|Land               |%  |
+|-------------------|---|
+|Muk                |20 |
+|Tangrowth          |20 |
+|Garbodor           |10 |
+|Avalugg            |10 |
+|Swalot             |10 |
+|Abra               |10 |
+|Camerupt           |5  |
+|Hypno              |5  |
+|Clawitzer          |4  |
+|Mr. Mime           |4  |
+|Magnezone          |2  |
+
+895
+**Neoteric Isle**
+
+|Land               |%  |
+|-------------------|---|
+|Muk                |20 |
+|Rapidash           |20 |
+|Vileplume          |10 |
+|Xurkitree          |10 |
+|Nidoking           |10 |
+|Nidoqueen          |10 |
+|Machamp            |5  |
+|Donphan            |5  |
+|Wigglytuff         |4  |
+|Tauros             |4  |
+|Venusaur           |1  |
+|Charizard          |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Psyduck            |70 |Seadra             |80 |Poliwhirl          |40 |
+|Staryu             |30 |Poipole            |20 |Kingler            |40 |
+|                   |   |                   |   |Dewgong            |15 |
+|                   |   |                   |   |Gyarados           |4  |
+|                   |   |                   |   |Blastoise          |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Golduck            |60 |
+|Tentacruel         |30 |
+|Vaporeon           |5  |
+|Pidgeot            |4  |
+|Pidgeotto          |1  |
+
+896
+**Citae Prisma**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Tynamo             |70 |Eelektrik          |60 |Dragalge           |40 |
+|Deino              |30 |Zweilous           |20 |Eelektross         |40 |
+|                   |   |Eelektross         |20 |Pheromosa          |19 |
+|                   |   |                   |   |Hydreigon          |1  |
+

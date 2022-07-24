@@ -1,4 +1,7 @@
 import os
+import sys
+
+GAMES = ["reborn", "rejuv"]
 
 def read_pbs_file(pbs_file_name, game='reborn'):
     directory = game.capitalize() + "_pbs"
@@ -14,12 +17,12 @@ def read_pbs_file(pbs_file_name, game='reborn'):
 
 def write_resource_file(text, pbs_file_name, game='reborn'):
     directory = game.capitalize() + "_txt"
-    file = pbs_file_name.lower() + ".txt"
+    file = pbs_file_name.lower() + "_resource.txt"
     name = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io',
      'resources', directory, file)
     try:
         with open(name, 'w') as f:
             f.write(text)
-        return True
+        return name
     except FileNotFoundError as e:
         print (e)
