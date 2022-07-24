@@ -11203,7 +11203,27 @@ Once you win this battle, you'll find yourself in an area simply called "???".
 
 ## Inside The Void
 
-Stub
+This area is fairly straightforward, as whatever branching paths there are don't really lead anywhere. It's a very story-centric area, so if you are digging the story, talk to every NPC you can and pay attention to your surroundings as you make your way through the void.
+
+When you reach a table full of starters, talk to the position corresponding to the starter you picked when starting the game.
+
+Later on, you'll pass Aya's segment. You can optionally talk to Cain for a third time.
+
+Relationship Point Choices:
+- Talk to Cain in The Void after Aya's section (+1 Cain)
+
+After seeing Luna and Taka on the left side, a voice will talk to you. Prepare your team before going up, as there's a fight coming up!
+
+**PULSE Hypno. Field: Starlight Arena**
+- PULSE Hypno, Lv. 100, @Big Root, Ability: No Guard, Calm Nature, IVs: 31, EVs: 0/0/252/4/252/0
+    - Hypnosis
+    - Dream Eater
+    - Dark Pulse
+    - Calm Mind
+
+The only way it's healing itself is with Dream Eater, so a Dark-type can slowly whittle it down. With a 4X weakness to bug and a weakness to field-boosted Fairy moves, there's a good chance you'll have something to deal with it. You can also stall with Toxic! Chesto Berries, Safeguard, Sleep Talk, etc. can all help you deal with its 100% accurate Hypnosis as well. Honestly if you can make it through the gauntlet with your team I'm sure you can find a way to beat one PULSE.
+
+Keep following the path, and you'll eventually exit the Void. After another massive conversation, accept the fast travel request to get the heck out of the Glass Workstation.
 
 ## The Raid on Agate City
 
