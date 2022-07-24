@@ -3,7 +3,7 @@ import os
 import re
 from collections import defaultdict
 
-POKEMON_WIDTH = 18
+POKEMON_WIDTH = 19
 PERCENT_WIDTH = 3
 ENC_TYPES = {
     "Land": [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
@@ -20,6 +20,8 @@ ENC_TYPES = {
     "HeadbuttHigh": [30, 25, 20, 10, 5, 5, 4, 1]
 }
 ENC_NAMES = {
+    # Keys are internal name concatenations
+    # Values are readable representations of each grouping
     "OldRod": "Old Rod",
     "GoodRod": "Good Rod",
     "SuperRod": "Super Rod",
@@ -39,28 +41,9 @@ ENC_NAMES = {
     "HeadbuttHigh": "Headbutt Common",
     "HeadbuttLowHeadbuttHigh": "Headbutt"
 }
-
-def read_me(game_name='reborn'):
-    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'encounters.txt')
-    with open(filename) as f:
-        data = f.read()
-    return data
-
-def write_me(content, game_name="reborn"):
-    with open(f"{game_name}_encounter_tables.txt", 'w') as f:
-        f.write(content)
-
-def split_text_into_blocks(text):
-    blocks = []
-    for block in re.split('\n*#[#]+\n*', text):
-        if block == "":
-            continue
-        blocks.append(block)
-    return blocks
-
-def get_correct_pokemon_name(string):
-    ans = string.capitalize()
-    d = {
+CORRECTED_NAMES = {
+        # keys are internal names, values are formatted names
+        # for usage: if not listed, use internal name
         "Nidoranma": "Nidoran M.",
         "Nidoranfe": "Nidoran F.",
         "Mimejr": "Mime Jr.",
@@ -81,8 +64,19 @@ def get_correct_pokemon_name(string):
         "Porygon2": "Porygon2",
         "Flabebe": "Flabebe"
     }
-    if ans in d:
-        return d[ans]
+
+def split_text_into_blocks(text):
+    blocks = []
+    for block in re.split('\n*#[#]+\n*', text):
+        if block == "":
+            continue
+        blocks.append(block)
+    return blocks
+
+def get_correct_pokemon_name(string):
+    ans = string.capitalize()
+    if ans in CORRECTED_NAMES:
+        return CORRECTED_NAMES[ans]
     return ans
 
 def get_data_from_block(block):
