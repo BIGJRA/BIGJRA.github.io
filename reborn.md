@@ -189,6 +189,7 @@ Heavy Work In Progress :)
     - [Gave Blake the Ring Route Aster Fight](#gave-blake-the-ring-route-aster-fight)
     - [Finishing Up in the Workstation](#finishing-up-in-the-workstation)
     - [The Glass Gauntlet](#the-glass-gauntlet)
+  - [Inside The Void](#inside-the-void)
   - [The Raid on Agate City](#the-raid-on-agate-city)
   - [Agate City & Sidequests](#agate-city--sidequests)
   - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
@@ -11024,6 +11025,183 @@ Undo the moves we did to reach the top right corner. Head to the top left corner
 
 ### The Glass Gauntlet
 
+Now begins one of the most glorious parts of Reborn. I'll let each of the fights speak for itself.
+
+**Pretty Boy Cain and Bookworm Shelly. Field: Factory Field**
+- Marowak-Alola, Lv. 82, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 15, EVs: 252/252/4/0/0/0
+    - Fire Punch
+    - Rock Slide
+    - Shadow Bone
+    - Iron Head
+- Meowstic-Female, Lv. 81, @Damp Rock, Ability: Competitive, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+    - Charge Beam
+    - Psychic
+    - Reflect
+    - Rain Dance
+- Primarina, Lv. 82, @Mystic Water, Ability: Liquid Voice, Modest Nature, IVs: 31, EVs: 128/0/0/252/0/128
+    - Dazzling Gleam
+    - Hyper Voice
+    - Blizzard
+    - Icy Wind
+- Mimikyu, Lv. 81, @Electric Gem, Ability: Disguise, Lonely Nature, IVs: 31, EVs: 128/0/0/252/0/128
+    - Thunder
+    - Play Rough
+    - Swords Dance
+    - Shadow Claw
+- Muk-Alola, Lv. 81, @Black Sludge, Ability: Power Of Alchemy, Brave Nature, IVs: 15, EVs: 252/252/4/0/0/0
+    - Gunk Shot
+    - Thunder Punch
+    - Knock Off
+    - Rock Slide
+- Nidoking, Lv. 83, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Earth Power
+    - Blizzard
+    - Thunder
+    - Flamethrower
+- Ribombee, Lv. 81, @Babiri Berry, Ability: Sweet Veil, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Sticky Web
+    - Pollen Puff
+    - Light Screen
+- Vivillon, Lv. 80, @Synthetic Seed, Ability: Compound Eyes, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Signal Beam
+    - Sleep Powder
+    - Hurricane
+    - Giga Drain
+- Scolipede, Lv. 81, @Muscle Band, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Stomp Tantrum
+    - Steamroller
+    - Poison Jab
+- Volcarona, Lv. 82, @Leftovers, Ability: Swarm, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Heat Wave
+    - Quiver Dance
+    - Signal Beam
+    - Hurricane
+- Yanmega, Lv. 83, @Wise Glasses, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Signal Beam
+    - Shadow Ball
+    - Air Slash
+    - Giga Drain
+- Leavanny, Lv. 83, @Assault Vest, Ability: Swarm, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Fell Stinger
+    - Knock Off
+    - Seed Bomb
+    - Poison Jab
+
+This battle is our first 12v6! On average each of our Pokemon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (of course, there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokemon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
+
+Of course, Shelly's entire team is weak to Rock Slide, so it's not a bad idea to operate from the doubles priniciple: "support your Rock Slider at all costs". Heat Wave is also pretty potent here for similar reasons - a sun team can devastate here. You can fairly easily opt for a speed control strategy of some sort - Magic Bouncing back the Sticky Web or embracing it and abusing 8 turn Trick Room are excellent choices. You can also use Factory Field to your advantage blah blah... you knew that by now. Optimize your team to the max cap, come with a strategy to conserve momentum, and you'll be able to find a way to come out on top.
+
+**??? ?????. Field: Factory Field**
+- Weavile, Lv. 83, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Icicle Crash
+    - Poison Jab
+    - Brick Break
+    - Night Slash
+- Gothitelle, Lv. 83, @Leftovers, Ability: Shadow Tag, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Calm Mind
+    - Charge Beam
+    - Foul Play
+    - Psychic
+- Mismagius, Lv. 84, @Synthetic Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Shadow Ball
+    - Thunderbolt
+    - Nasty Plot
+    - Dazzling Gleam
+- Honchkrow, Lv. 84, @Life Orb, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Sucker Punch
+    - Superpower
+    - Roost
+    - Brave Bird
+- Absol, Lv. 85, @Absolite, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Swords Dance
+    - Superpower
+    - Play Rough
+    - Knock Off
+- Umbreon, Lv. 86, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Wish
+    - Foul Play
+    - Protect
+    - Toxic
+
+Ok, so after finally overcoming a fight with all the odds stacked against you... surprise, a singles fight against a mystery trainer. You can't switch out your team at all but thankfully you do get a heal before this one.
+
+Here's the thing. This fight, generally speaking, isn't gonna be the worst thing in the world. It's a 6v6 and your opponent has a mostly frail team plus Umbreon and sort of Gothitelle. If that's all there was to say, I'd assume you'd be able to find a way through this one and that would be that. The problem is: *any Pokemon that are fainted at the end of this fight stay fainted for the next*, basically as if you use Full Restores on all living Pokemon and nothing more. And for the next fight, you'll really want as many Pokemon as you can take. 
+
+So, with the goal of simply making sure that every one of your Pokemon stays alive? Weavile has a Focus Sash, meaning your lead for the whole gauntlet needs to be able to deal two hits of damage without dying (or switch). Mismagius is fast and if you make the mistake of letting it set up a Nasty Plot, there's a good chance it will claim a soul or two. Honchkrow is really nasty, with Sucker Punch allowing it to punish weakened Pokemon. Umbreon is annoyingly bulky, with Foul Play to hurt your physical attackers even more. Mega Absol is of course really strong and you're usually going to find yourself in a kill or be killed scenario with it. Finally there is Gothitelle... who has Shadow Tag and Calm Mind. Meaning if there's any Pokemon on your team the AI has realized it can beat by switching in Gothitelle at any time... that Pokemon is as good as dead!
+
+So now you see the challenge this seemingly simple 6v6 fight offers. If you think you can beat the next fight with 4-5 Pokemon alive, feel free to try if you are having a hard time with this one. There are some general tips I recommend to make it through this one with minimal casualties, however. For Weavile, Fake Out, multi-hit moves, and Sandstorm are all viable ways to break the sash, so setting up your gauntlet team with one of these first in your party will probably help. Honchkrow likes to come in on a weakened Pokemon, so try to anticipate Sucker Punch and either switch or set up further if you can. Keep in mind if you're faster than Honchkrow, other priority moves like Quick Attack will go before Sucker Punch. Make sure you're always ready for a Gothitelle switch in, or maybe learn exactly when the AI will try to switch it in so you can pivot to something that can knock it out. Speed control, either by superior stats, Tailwind, Trick Room, etc., will then be key to one-shotting Mismagius and Absol before they can get you. If you are able to 2HKO Umbreon, it won't be able to heal itself, so making sure you have either a physical attacker that can live some Foul Plays or a really strong special attacker are key. Even though you already have to plan for other fights with your team... keeping these tips in mind will help you overcome this obstacle, hopefully.
+
+**??? ????? & ??? ?????. Field: Factory Field**
+- Clefable, Lv. 81, @Leftovers, Ability: Magic Guard, Hardy Nature, IVs: 15, EVs: 252/0/0/252/4/0
+    - Blizzard
+    - Dazzling Gleam
+    - Fire Blast
+    - Thunder Wave
+- Bisharp, Lv. 83, @Dread Plate, Ability: Defiant, Adamant Nature, IVs: 15, EVs: 252/252/0/0/4/0
+    - Knock Off
+    - Iron Head
+    - Brick Break
+    - Sucker Punch
+- Metagross, Lv. 82, @Leftovers, Ability: Clear Body, Adamant Nature, IVs: 15, EVs: 252/252/4/0/0/0
+    - Zen Headbutt
+    - Meteor Mash
+    - Ice Punch
+    - Rock Slide
+- Alakazam, Lv. 82, @Amplifield Rock, Ability: Magic Guard, Modest Nature, IVs: 15, EVs: 4/0/0/252/0/252
+    - Psychic Terrain
+    - Psychic
+    - Calm Mind
+    - Dazzling Gleam
+- Espeon, Lv. 83, @Twisted Spoon, Ability: Magic Bounce, Timid Nature, IVs: 30, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Psyshock
+    - Calm Mind
+    - Signal Beam
+- Gardevoir, Lv. 85, @Gardevoirite, Ability: Trace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Calm Mind
+    - Thunderbolt
+    - Psychic
+    - Hyper Voice
+- Ninetales-Alola, Lv. 81, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 15, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Dazzling Gleam
+    - Freeze-Dry
+    - Aurora Veil
+- Sandslash-Alola, Lv. 82, @Muscle Band, Ability: Slush Rush, Adamant Nature, IVs: 15, EVs: 4/252/0/0/0/252
+    - Iron Head
+    - Icicle Crash
+    - Knock Off
+    - Rock Slide
+- Bronzong, Lv. 82, @Leftovers, Ability: Levitate, Brave Nature, IVs: 15, EVs: 252/252/0/0/4/0
+    - Gyro Ball
+    - Zen Headbutt
+    - Psywave
+    - Rock Slide
+- Jynx, Lv. 82, @Synthetic Seed, Ability: Dry Skin, Modest Nature, IVs: 25, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Shadow Ball
+    - Blizzard
+    - Nasty Plot
+- Glaceon, Lv. 83, @Light Clay, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 100/0/0/156/0/252
+    - Aurora Veil
+    - Blizzard
+    - Signal Beam
+    - Shadow Ball
+- Froslass, Lv. 84, @Icium-Z, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Destiny Bond
+    - Thunderbolt
+    - Shadow Ball
+
+Even after making it through the previous two battles, you're thrusted into a third, and surprise, its another 12v6. While opponent levels are indeed a bit lower, without being able to change your team after the previous two fights and the aforementioned faint follow-through, you might even be stuck doing this fight as a 12v4 or 12v5. The good news here is that almost everything in this fight is a frail Ice or Psychic type. The real exceptions here are Bronzong and Metagross, both of which are extremely bulky and can hit really hard on this field, Clefable, who likes to spread Paralysis as a lead, and Bisharp, who can keep up the pressure with Sucker Punch and has enough bulk to live a good chunk of even super effective moves. Ninetales' hail and Aurora Veil are, as always, very beneficial to their team, as is the 8-turn Psychic Terrain Alakazam will try to get off. Really seems like there are lots of threats and not enough Pokemon to cover them all.
+
+Otherwise there's not really a ton I can say: spam 'D' to drop a save before this fight and just play it out as many times as it takes for you to realize where the threats to your team are, and how you can overcome them. Conserving momentum is key as before, Trick Room as always is very potent, and weather and/or the field can help you steamroll. Using Snatch or Brick Break to mess with Aurora Veil, changing the weather, etc. are good options. Even if you have dropped a save mid-gauntlet, don't be afraid to throw away some money (or load a backup save) to better prepare for the gauntlet.
+
+## Inside The Void
+
+Stub
 
 ## The Raid on Agate City
 
