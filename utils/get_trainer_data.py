@@ -1,5 +1,4 @@
 from common import *
-import os
 import re
 from collections import defaultdict
 import json
@@ -12,36 +11,32 @@ def create_lookup(pbs_type):
         d[parts[1].strip()] = parts[2].strip()
     return d
 
+def create_ability_lookup_UNUSED():
+    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'abilities.txt')
+    with open(filename) as f:
+        ability_data = f.read()
+    ability_dict = {}
+    for line in ability_data.splitlines():
+        parts = line.split(',')
+        ability_dict[parts[1]] = parts[2]
 
-
-# def create_ability_lookup():
-#     filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'abilities.txt')
-#     with open(filename) as f:
-#         ability_data = f.read()
-#     ability_dict = {}
-#     for line in ability_data.splitlines():
-#         parts = line.split(',')
-#         ability_dict[parts[1]] = parts[2]
-
-#     filename2 = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'pokemon.txt')
-#     with open(filename2, encoding='utf8') as f:
-#         data = f.read()
-#     d = {}
-#     split = re.split(r'\[\d+\]\n', data)
-#     del split[0]
-#     for idx in range(len(split)):
-#         lines = split[idx].splitlines()
-#         name = lines[1][13:]
-#         d[name] = {}
-#         for idx in range(len(lines)):
-#             if lines[idx][:4] == "Abil":
-#                 found = idx
-#                 break
-#         for idx, ability in enumerate(lines[found].split('=')[1].split(',')):
-#             d[name][idx] = ability_dict[ability]
-#     return d
-
-
+    filename2 = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'pokemon.txt')
+    with open(filename2, encoding='utf8') as f:
+        data = f.read()
+    d = {}
+    split = re.split(r'\[\d+\]\n', data)
+    del split[0]
+    for idx in range(len(split)):
+        lines = split[idx].splitlines()
+        name = lines[1][13:]
+        d[name] = {}
+        for idx in range(len(lines)):
+            if lines[idx][:4] == "Abil":
+                found = idx
+                break
+        for idx, ability in enumerate(lines[found].split('=')[1].split(',')):
+            d[name][idx] = ability_dict[ability]
+    return d
 
 def split_text_into_blocks(text):
     blocks = []
@@ -63,6 +58,10 @@ def split_text_into_blocks(text):
 
 def get_data_from_block(block: str, lookup: dict):
     lines = block.splitlines()
+    # TODO: Take out PBS comments and whitespace they r ruining me
+    for pos in range(len(lines)):
+        line = lines[pos]
+        
     data = {}
     data["trainer_class"] = lookup['trainertypes'][lines[0]]
     data["trainer_name"] = lines[1].split(',')[0]
