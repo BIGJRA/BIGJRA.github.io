@@ -205,13 +205,7 @@ def process_encounters(data, game="reborn"):
     return(''.join(out))
 
 def main():
-    try:
-        game = sys.argv[1].lower()
-    except IndexError:
-        print ("WARNING: Game not provided as argument. Proceeding with game='reborn'...")
-        game = "reborn"
-    if game not in GAMES:
-        raise ValueError(f"{game} is not a valid game.")
+    game = process_game_arg()
 
     data = read_pbs_file("encounters", game)
     outfile = write_resource_file(process_encounters(data, game), "encounters")
