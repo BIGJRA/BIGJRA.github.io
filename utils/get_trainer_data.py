@@ -9,33 +9,10 @@ import json
 from functools import cache
 
 @cache
-def get_form_from_id(id, pokemon_name):
-    pokemon_name = pokemon_name.lower()
-    url = fr'https://pokeapi.co/api/v2/pokemon-species/{pokemon_name}'
-    response = requests.get(url) 
-    d = response.json()
-    try:
-        answer = d['varieties'][id]['pokemon']['name'].title()
-    except IndexError:
-        try:
-            answer = d['varieties'][id - 1]['pokemon']['name'].title()
-        except:
-            answer = d['varieties'][id - 2]['pokemon']['name'].title()
-    return answer
+
 
 @cache
-def get_ability_from_id(id, pokemon_name):
-    pokemon_name = pokemon_name.lower()
-    response = requests.get(fr'https://pokeapi.co/api/v2/pokemon/{pokemon_name}') 
-    d = response.json()
-    try:
-        answer = d['abilities'][id]['ability']['name'].title()
-    except IndexError:
-        try:
-            answer = d['abilities'][id - 1]['ability']['name'].title()
-        except:
-            answer = d['abilities'][id - 2]['ability']['name'].title()
-    return answer.replace('-',' ')
+
 
 # @cache
 # def get_ability_from_id_native(id, pokemon_name):
