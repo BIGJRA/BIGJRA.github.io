@@ -26,7 +26,8 @@ def pokeapi_request_json(body):
         print (e)
         return
 
-def generate_form_id_lookup():
+def generate_form_id_lookup(verbose=False):
+    print ("Pulling Form data from pokeapi...")
     lookup = {}
     # keys are pokemon name string
     # value is dict: form_no int, pokemon form name string
@@ -38,10 +39,12 @@ def generate_form_id_lookup():
         lookup[name] = {}
         for form_no in range(len(d['varieties'])):
             lookup[name][form_no] = d['varieties'][form_no]['pokemon']['name']
-        print (name, lookup[name])
+        if verbose:
+            print (name, lookup[name])
     return lookup
 
-def generate_ability_id_lookup(form_data):
+def generate_ability_id_lookup(form_data, verbose=False):
+    print ("Pulling Ability data from pokeapi...")
     lookup = {}
     # keys are pokemon name string
     # value is dict: ability_id int, ability name string
@@ -54,6 +57,7 @@ def generate_ability_id_lookup(form_data):
             lookup[form_name] = {}
             for ability_id in range(len(d['abilities'])):
                 lookup[form_name][ability_id] = d['abilities'][ability_id]['ability']['name'].replace('-',' ').title()
+        if verbose:
             print (form_name, lookup[form_name])
     return lookup
 
