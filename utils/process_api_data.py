@@ -41,6 +41,7 @@ def generate_form_id_lookup(verbose=False):
             lookup[name][form_no] = d['varieties'][form_no]['pokemon']['name']
         if verbose:
             print (name, lookup[name])
+    return lookup
 
 def generate_ability_id_lookup(form_data, verbose=False):
     print ("Pulling Ability data from pokeapi...")
@@ -58,6 +59,16 @@ def generate_ability_id_lookup(form_data, verbose=False):
                 lookup[form_name][ability_id] = d['abilities'][ability_id]['ability']['name'].replace('-',' ').title()
         if verbose:
             print (form_name, lookup[form_name])
+
+    # HARD FIXES
+    fixes = [
+        ('hawlucha', '0', '1')
+        ]
+    for name, id1, id2 in fixes:
+        lookup[name][id1], lookup[name][id2] = lookup[name][id2], lookup[name][id1]
+        if verbose:
+            print (name, lookup[name])
+
     return lookup
 
 def main(verbose=True):

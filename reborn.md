@@ -1145,7 +1145,7 @@ While we're nearby, enter the Pokemon center and talk to the mom inside. Tell he
 Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
 
 **Posh Suzy. Field: No Field**
-- Tsareena, Lv. 45, Ability: Queen Majesty, Adamant Nature, IVs: 31
+- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
     - Synthesis
     - Aromatherapy
     - Play Rough
@@ -1777,7 +1777,7 @@ Prepare your team as necessary, and head up.
     - Fire Spin
     - Hypnosis
     - Flame Charge
-- PULSE Tangrowth A, Lv. 30, @Pecha Berry, Ability: Stamina Serious Nature, IVs: 10. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Rock
+- PULSE Tangrowth A, Lv. 29, @Pecha Berry, Ability: Stamina, Serious Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Rock
     - Growth
     - Mega Drain
     - Stored Power
@@ -3428,35 +3428,35 @@ Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyp
 In the bottom right section, use the Light Shard and talk to Ace for a battle.
 
 **Meteor Agent Ace of Diamonds (Hyper Potion). Field: Wasteland Field**
-- Zoroark, Lv. 40, Ability: Illusion, Jolly Nature, IVs: 31
+- Zoroark, Lv. 41, Ability: Illusion, Jolly Nature, IVs: 20
     - Swagger
     - U-turn
     - Punishment
     - Low Sweep
-- Clefable, Lv. 41, @Sitrus Berry, Ability: Magic Guard, Adamant Nature, IVs: 31
+- Clefable, Lv. 41, @Sitrus Berry, Ability: Magic Guard, Adamant Nature, IVs: 20
     - Belly Drum
     - Drain Punch
     - Ice Punch
     - Meteor Mash
-- Honchkrow, Lv. 41, @Enigma Berry, Ability: Moxie, Adamant Nature, IVs: 31
+- Honchkrow, Lv. 41, @Enigma Berry, Ability: Super Luck, Adamant Nature, IVs: 20
     - Sucker Punch
     - Heat Wave
-    - Superpower
+    - Steel Wing
     - Drill Peck
-- Bronzong, Lv. 42, @Telluric Seed, Ability: Heatproof, Brave Nature, IVs: 31
+- Bronzong, Lv. 42, @Telluric Seed, Ability: Levitate, Brave Nature, IVs: 25
     - Gyro Ball
     - Zen Headbutt
     - Toxic
     - Protect
-- Mismagius, Lv. 42, @Pecha Berry, Ability: Levitate, Modest Nature, IVs: 31
+- Mismagius, Lv. 41, Ability: Levitate, Modest Nature, IVs: 25
     - Mystical Fire
     - Power Gem
     - Shadow Ball
     - Thunder Wave
-- Delphox, Lv. 43, @Sitrus Berry, Ability: Magician, Modest Nature, IVs: 31
+- Delphox, Lv. 43, Ability: Magician, Modest Nature, IVs: 31
     - Mystical Fire
     - Psyshock
-    - Dazzling Gleam
+    - Thunder Punch
     - Foul Play
 
 Ace has a full team but it isn't particularly bolstered by the field. Be careful not to let Honchkrow or Clefable sweep you and I'm sure you can find a way through this fight.
@@ -3468,17 +3468,17 @@ In the top right corner of the area, you can find hidden *Ground Gem*, *Purple S
 Talk to Cain if you'd like then enter the building. Heal and prepare your team, save, then enter the room on the left.
 
 **Swag Jockey Fern (2x Choc Ice Cream). Field: Wasteland Field**
-- Rhydon, Lv. 43, Ability: Reckless, Brave Nature, IVs: 10
+- Rhydon, Lv. 43, @Muscle Band, Ability: Reckless, Brave Nature, IVs: 25
     - Stone Edge
     - Drill Run
     - Chip Away
     - Fire Fang
-- Krookodile, Lv. 43, Adamant Nature, IVs: 15
+- Krookodile, Lv. 43, Ability: Intimidate, Adamant Nature, IVs: 20
     - Fire Fang
     - Dig
     - Crunch
     - Thunder Fang
-- Scyther, Lv. 43, Ability: Technician, Adamant Nature, IVs: 20
+- Scyther, Lv. 43, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 25
     - X-Scissor
     - Double Team
     - Slash
@@ -3633,7 +3633,7 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 10
+- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 10
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -4127,12 +4127,12 @@ Break the last mirror and head into the gym arena when you're ready.
     - Ice Beam
     - Signal Beam
     - Aurora Veil
-- Ninetales-Alola, Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 31
+- Ninetales-Alola, Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 25
     - Nasty Plot
     - Dazzling Gleam
     - Aurora Beam
     - Aurora Veil
-- Lapras, Lv. 48, @Synthetic Seed, Ability: Shell Armor, Modest Nature, IVs: 31
+- Lapras, Lv. 48, @Synthetic Seed, Ability: Shell Armor, Modest Nature, IVs: 15
     - Thunderbolt
     - Surf
     - Signal Beam
@@ -4688,7 +4688,7 @@ Anyways, talk to Luna.
     - Play Rough
     - Swords Dance
     - Shadow Sneak
-- Meowstic-Female, Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
+- Meowstic-Male, Lv. 54, @Wise Glasses, Ability: Prankster, Timid Nature, IVs: 20 (Knight)
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -5141,30 +5141,30 @@ Once the door is opened towards the middle, prepare for a battle and head up.
 **Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field**
 - Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
     - Psychic
-    - Dazzling Gleam
+    - Signal Beam
     - Trick
     - Energy Ball
-- Zoroark, Lv. 62, @Magical Seed, Ability: Illusion, Timid Nature, IVs: 31
+- Zoroark, Lv. 62, @Black Glasses, Ability: Illusion, Timid Nature, IVs: 31
     - Foul Play
     - Flamethrower
     - Extrasensory
     - Grass Knot
-- Togekiss, Lv. 60, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31
+- Togekiss, Lv. 60, @Leftovers, Ability: Serene Grace, Quiet Nature, IVs: 31
     - Dazzling Gleam
     - Air Slash
-    - Body Slam
+    - Grass Knot
     - Roost
-- Primarina, Lv. 61, @Assault Vest, Ability: Torrent, Modest Nature, IVs: 31
+- Primarina, Lv. 61, Ability: Torrent, Modest Nature, IVs: 31
     - Sparkling Aria
     - Moonblast
     - Icy Wind
     - Hyper Voice
-- Porygon-Z, Lv. 61, @Wise Glasses, Ability: Download, Modest Nature, IVs: 31
+- Porygon-Z, Lv. 60, Ability: Download, Modest Nature, IVs: 31
     - Tri Attack
-    - Psyshock
+    - Blizzard
     - Thunderbolt
     - Recover
-- Delphox, Lv. 63, @Magical Seed, Ability: Magician, Modest Nature, IVs: 31
+- Delphox, Lv. 62, @Sitrus Berry, Ability: Magician, Modest Nature, IVs: 31
     - Mystical Fire
     - Psyshock
     - Dazzling Gleam
@@ -5897,7 +5897,7 @@ Save and talk to Samson when you're ready for a fight.
     - Knock Off
     - Bulk Up
 
-Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight for weeks! For one, 10 of his 24 moves are "high-striker" moves, meaning they get multiplied by a random multiplier between 0.5x and 3x. Only, his Hariyama and Conkeldurr are guaranteed high rolls due to their ability, and any Pokemon with increased attack also has a better chance at high rolls, meaning Synthetic Seed Hawlucha and Blaziken as well as Swords Dance Lucario can all get really high rolls! Essentially this means that most of the time you get hit by a high striker move you are going to be absolutely bodied! On top of this, Lucario's Swords Dance does 3 stages per use, and his Acrobatics will hit with 165 base power regardless of item held! With Conkeldurr sitting at 90 speed and Hawlucha literally outspeeding every single Pokemon I know of that you can have once it gets its Unburden boost, his team is well suited to deal with all kinds of speed set ups and easily crush your puny Pokemon with high striker moves. Thanks to Brick Break, your puny screens will be crushed as well. All in all a tough fight!
+Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight for weeks! For one, 10 of his 24 moves are "high-striker" moves, meaning they get multiplied by a random multiplier between 0.5x and 3x. Only, his Hariyama and Conkeldurr are guaranteed high rolls due to their ability, and any Pokemon with increased attack also has a better chance at high rolls, meaning Synthetic Seed Hawlucha and Blaziken as well as Swords Dance Lucario can all get really high rolls! Essentially this means that most of the time you get hit by a high striker move you are going to be absolutely bodied! On top of this, Lucario's Swords Dance does 3 stages per use, and his Acrobatics will hit with 165 base power regardless of item held! With Conkeldurr sitting at 90 speed *total* and Hawlucha having Unburden, his team is well suited to deal with all kinds of speed set ups and easily crush your pathetic Pokemon with high striker moves. Thanks to Brick Break, your puny screens will be crushed as well. All in all a tough fight!
 
 Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! Compared to some of the simpler fields, Big Top Arena is really broad and opens up a ton of strategies you can use against this guy. If nothing else, notice that what I mentioned about Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you can survive long enough to use it. It is also the move you get from using Nature Power on this field, allowing even more Pokemon to use this strategy. You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary. There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokemon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... meaning Oricorio can actually fairly easily sweep him with a bit of support. If you are able to cripple his Pokemon long enough to boost yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many options that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like Sturdy + Counter for the tricky ones if need be. 
 
@@ -6247,7 +6247,7 @@ When you're ready, take on the Fire-type gym leader!
     - Heat Wave
     - Flamethrower
     - Psyshock
-- Volcarona, Lv. 70, @Charti Berry, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/252/0/0/252
+- Volcarona, Lv. 70, @Charti Berry, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Giga Drain
     - Quiver Dance
     - Heat Wave
@@ -6957,34 +6957,34 @@ Time for another fight with Taka, but this one isn't really too hard hopefully. 
 Regardless of your route you'll have to fight Ace.
 
 **Meteor Agent Ace of Spades (Max Potion). Field: Factory Field**
-- Roserade, Lv. 71, @Focus Sash, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Roserade, Lv. 70, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nature Power
     - Giga Drain
     - Dazzling Gleam
     - Toxic Spikes
-- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Zoroark, Lv. 72, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Night Daze
     - Nasty Plot
     - Flamethrower
     - Extrasensory
-- Delphox, Lv. 74, @Synthetic Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Delphox, Lv. 72, @Synthetic Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Mystical Fire
     - Psyshock
     - Dazzling Gleam
     - Shadow Ball
-- Nidoqueen, Lv. 71, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+- Nidoqueen, Lv. 71, @Wise Glasses, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Earth Power
     - Flamethrower
     - Thunderbolt
     - Sludge Bomb
-- Klinklang, Lv. 72, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+- Klinklang, Lv. 70, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Gear Grind
     - Shift Gear
     - Zap Cannon
     - Wild Charge
-- Metagross, Lv. 74, @Synthetic Seed, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+- Metagross, Lv. 72, @Enigma Berry, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Earthquake
-    - Meteor Mash
+    - Iron Head
     - Zen Headbutt
     - Bullet Punch
 
@@ -8562,7 +8562,7 @@ Fly over to Onyx Ward, prepare your team and save, then head to the rooftop.
     - Sludge Wave
     - Fire Blast
     - Giga Drain
-- Tsareena, Lv. 74, @Life Orb, Ability: Queen Majesty, Adamant Nature, IVs: 31
+- Tsareena, Lv. 74, @Life Orb, Ability: Queenly Majesty, Adamant Nature, IVs: 31
     - Play Rough
     - High Jump Kick
     - Power Whip
@@ -8938,7 +8938,7 @@ With that out of the way, it's time for our 14th gym battle.
     - Dazzling Gleam
     - Flamethrower
     - Psyshock
-- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/4/252/0/252
+- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Dazzling Gleam
     - Tailwind
     - Hurricane
@@ -11033,7 +11033,7 @@ Now begins one of the most glorious parts of Reborn. I'll let each of the fights
     - Rock Slide
     - Shadow Bone
     - Iron Head
-- Meowstic-Female, Lv. 81, @Damp Rock, Ability: Competitive, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+- Meowstic-Male, Lv. 81, @Damp Rock, Ability: Prankster, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
     - Charge Beam
     - Psychic
     - Reflect
@@ -11184,7 +11184,7 @@ So now you see the challenge this seemingly simple 6v6 fight offers. If you thin
     - Shadow Ball
     - Blizzard
     - Nasty Plot
-- Glaceon, Lv. 83, @Light Clay, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 100/0/0/156/0/252
+- Glaceon, Lv. 83, @Light Clay, Ability: Ice Body, Modest Nature, IVs: 31, EVs: 100/0/0/156/0/252
     - Aurora Veil
     - Blizzard
     - Signal Beam

@@ -2625,7 +2625,7 @@
     - Extreme Speed
     - Brick Break
     - Meteor Mash
-- Hawlucha, Lv. 66, @Synthetic Seed, Ability: Limber, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
+- Hawlucha, Lv. 66, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
     - Roost
     - Flying Press
     - Acrobatics
@@ -4256,7 +4256,7 @@
     - Knock Off
     - Bug Bite
     - Aerial Ace
-- Hawlucha, Lv. 78, @Telluric Seed, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
+- Hawlucha, Lv. 78, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
     - Cut
     - Acrobatics
     - Flying Press
@@ -7518,7 +7518,7 @@
     - Double Team
 
 **Clown Indra. Field: **
-- Hawlucha, Lv. 58, @Air Balloon, Ability: Unburden, Jolly Nature, IVs: 10
+- Hawlucha, Lv. 58, @Air Balloon, Ability: Limber, Jolly Nature, IVs: 10
     - Sky Attack
     - High Jump Kick
     - Acrobatics
@@ -7688,7 +7688,7 @@
     - Double Team
 
 **Clown Indra. Field: **
-- Hawlucha, Lv. 68, @Power Herb, Ability: Unburden, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
+- Hawlucha, Lv. 68, @Power Herb, Ability: Limber, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
     - Sky Attack
     - High Jump Kick
     - Acrobatics
@@ -10228,7 +10228,7 @@
     - Moonblast
     - Sing
     - Ice Beam
-- Hawlucha, Lv. 113, @Flying Gem, Ability: Limber, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 113, @Flying Gem, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Acrobatics
     - Swords Dance
     - High Jump Kick
@@ -10257,17 +10257,17 @@
     - Swords Dance
 
 **All for One. Field: **
-- Silvally, Lv. 114, @Leftovers, Ability: Rks System, Bold Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Silvally, Lv. 114, @Leftovers, Ability: RKS System, Bold Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Tailwind
     - Snarl
     - Parting Shot
     - Icy Wind
-- Silvally, Lv. 114, @Magical Seed, Ability: Rks System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
+- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Snarl
     - Multi-Attack
     - Heat Wave
     - Rock Slide
-- Silvally, Lv. 114, @Magical Seed, Ability: Rks System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
+- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Snarl
     - Multi-Attack
     - Draco Meteor
@@ -10763,7 +10763,7 @@
     - Sludge Wave
     - Steam Eruption
     - Earth Power
-- Silvally, Lv. 120, @Steel Memory, Ability: Rks System, Serious Nature, IVs: 31, EVs: 0/252/0/252/0/4
+- Silvally, Lv. 120, @Steel Memory, Ability: RKS System, Serious Nature, IVs: 31, EVs: 0/252/0/252/0/4
     - Surf
     - Heat Wave
     - Multi-Attack
@@ -11267,7 +11267,7 @@
     - Volt Switch
     - Flash Cannon
     - Thunderbolt
-- Magearna, Lv. 120, @Leftovers, Ability: Soul Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+- Magearna, Lv. 120, @Leftovers, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Shift Gear
     - Dazzling Gleam
     - Thunderbolt
@@ -11279,7 +11279,7 @@
     - Shift Gear
 
 **Ringmaster Alistasia. Field: **
-- Hawlucha, Lv. 120, @Flying Gem, Ability: Limber, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 120, @Flying Gem, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Acrobatics
     - Swords Dance
     - High Jump Kick
@@ -11644,7 +11644,7 @@
     - Return
     - Seed Bomb
     - U-turn
-- Magearna, Lv. 120, @Leftovers, Ability: Soul Heart, Quiet Nature, IVs: 31, EVs: 252/252/252/252/252/252
+- Magearna, Lv. 120, @Leftovers, Ability: Soul-Heart, Quiet Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Shift Gear
     - Fleur Cannon
     - Brick Break
@@ -11885,7 +11885,7 @@
     - Nature Power
     - Hidden Power
     - Safeguard
-- Magearna, Lv. 125, @Magical Seed, Ability: Soul Heart, Timid Nature, IVs: 5, EVs: 4/0/0/252/0/252
+- Magearna, Lv. 125, @Magical Seed, Ability: Soul-Heart, Timid Nature, IVs: 5, EVs: 4/0/0/252/0/252
     - Aura Sphere
     - Solar Beam
     - Dazzling Gleam
@@ -11993,7 +11993,7 @@
     - Dazzling Gleam
     - Foul Play
     - Thunder Wave
-- Magearna, Lv. 125, @Life Orb, Ability: Soul Heart, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+- Magearna, Lv. 125, @Life Orb, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Aurora Beam
     - Dazzling Gleam
     - Signal Beam
@@ -12131,7 +12131,7 @@
     - Wish
     - Protect
     - Psyshock
-- Magearna, Lv. 125, @Assault Vest, Ability: Soul Heart, Calm Nature, IVs: 31, EVs: 252/0/0/0/4/252
+- Magearna, Lv. 125, @Assault Vest, Ability: Soul-Heart, Calm Nature, IVs: 31, EVs: 252/0/0/0/4/252
     - Aura Sphere
     - Fleur Cannon
     - Ice Beam
@@ -13386,7 +13386,7 @@
     - Extreme Speed
     - Eruption
     - Extrasensory
-- Magearna, Lv. 130, @Magical Seed, Ability: Soul Heart, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+- Magearna, Lv. 130, @Magical Seed, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
     - Fleur Cannon
     - Volt Switch
     - Aura Sphere
@@ -13546,7 +13546,7 @@
     - Overheat
     - Snarl
     - Swift
-- Magearna, Lv. 134, @Leftovers, Ability: Soul Heart, Calm Nature, IVs: 3, EVs: 252/0/0/4/252/0
+- Magearna, Lv. 134, @Leftovers, Ability: Soul-Heart, Calm Nature, IVs: 3, EVs: 252/0/0/4/252/0
     - Heart Swap
     - Fleur Cannon
     - Flash Cannon
@@ -14626,7 +14626,7 @@
     - Eruption
     - Brick Break
     - Ancient Power
-- Magearna, Lv. 145, @Magical Seed, Ability: Soul Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Magearna, Lv. 145, @Magical Seed, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Fleur Cannon
     - Volt Switch
     - Flash Cannon
@@ -14776,7 +14776,7 @@
     - Play Rough
     - Ice Punch
     - Brick Break
-- Magearna, Lv. 150, @Assault Vest, Ability: Soul Heart, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
+- Magearna, Lv. 150, @Assault Vest, Ability: Soul-Heart, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
     - Volt Switch
     - Fleur Cannon
     - Aurora Beam
@@ -15035,7 +15035,7 @@
     - Techno Blast
     - Flash Cannon
     - Thunderbolt
-- Magearna, Lv. 100, @Leftovers, Ability: Soul Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+- Magearna, Lv. 100, @Leftovers, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Shift Gear
     - Dazzling Gleam
     - Thunderbolt
@@ -15146,7 +15146,7 @@
     - Moonblast
     - Sing
     - Ice Beam
-- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Acrobatics
     - Swords Dance
     - High Jump Kick
@@ -17089,7 +17089,7 @@
     - Spore
     - Swords Dance
     - Bullet Seed
-- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Limber, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Roost
     - Flying Press
     - Acrobatics
@@ -17121,7 +17121,7 @@
     - Stone Edge
     - Close Combat
     - Swords Dance
-- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Limber, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 100, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Roost
     - Flying Press
     - Acrobatics
@@ -17584,7 +17584,7 @@
     - Return
     - Rock Slide
     - Earthquake
-- Hawlucha, Lv. 100, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+- Hawlucha, Lv. 100, @Telluric Seed, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
     - Acrobatics
     - Rock Slide
     - High Jump Kick
@@ -17808,7 +17808,7 @@
     - Shadow Claw
     - Play Rough
     - Shadow Sneak
-- Magearna, Lv. 100, @Elemental Seed, Ability: Soul Heart, Bold Nature, IVs: 31, EVs: 252/0/152/104/0/0
+- Magearna, Lv. 100, @Elemental Seed, Ability: Soul-Heart, Bold Nature, IVs: 31, EVs: 252/0/152/104/0/0
     - Dazzling Gleam
     - Aura Sphere
     - Flash Cannon
@@ -17840,7 +17840,7 @@
     - Psyshock
     - Shadow Ball
     - Signal Beam
-- Magearna, Lv. 100, @Magical Seed, Ability: Soul Heart, Bold Nature, IVs: 31, EVs: 252/0/152/104/0/0
+- Magearna, Lv. 100, @Magical Seed, Ability: Soul-Heart, Bold Nature, IVs: 31, EVs: 252/0/152/104/0/0
     - Dazzling Gleam
     - Aura Sphere
     - Flash Cannon
@@ -17909,7 +17909,7 @@
     - Diamond Storm
     - Moonblast
     - Rock Polish
-- Magearna, Lv. 100, @Synthetic Seed, Ability: Soul Heart, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+- Magearna, Lv. 100, @Synthetic Seed, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Shift Gear
     - Thunderbolt
     - Flash Cannon
@@ -17941,7 +17941,7 @@
     - Magnet Rise
     - Thunder Wave
     - Play Rough
-- Magearna, Lv. 100, @Assault Vest, Ability: Soul Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
+- Magearna, Lv. 100, @Assault Vest, Ability: Soul-Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
     - Fleur Cannon
     - Volt Switch
     - Flash Cannon
@@ -17985,7 +17985,7 @@
     - Diamond Storm
     - Nature Power
     - Stealth Rock
-- Magearna, Lv. 100, @Magical Seed, Ability: Soul Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
+- Magearna, Lv. 100, @Magical Seed, Ability: Soul-Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
     - Fleur Cannon
     - Aura Sphere
     - Flash Cannon
@@ -18059,7 +18059,7 @@
     - Meteor Mash
     - Close Combat
     - Bullet Punch
-- Magearna, Lv. 100, @Assault Vest, Ability: Soul Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
+- Magearna, Lv. 100, @Assault Vest, Ability: Soul-Heart, Calm Nature, IVs: 31, EVs: 252/0/0/104/152/0
     - Fleur Cannon
     - Volt Switch
     - Flash Cannon
@@ -18192,7 +18192,7 @@
     - Earthquake
     - Stone Edge
     - Zen Headbutt
-- Magearna, Lv. 100, @Leftovers, Ability: Soul Heart, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+- Magearna, Lv. 100, @Leftovers, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
     - Calm Mind
     - Trick Room
     - Fleur Cannon
@@ -19014,7 +19014,7 @@
     - Discharge
     - Flamethrower
     - Hidden Power
-- Magearna, Lv. 100, @Synthetic Seed, Ability: Soul Heart, Hasty Nature, IVs: 31, EVs: 0/196/0/60/0/252
+- Magearna, Lv. 100, @Synthetic Seed, Ability: Soul-Heart, Hasty Nature, IVs: 31, EVs: 0/196/0/60/0/252
     - Shift Gear
     - Iron Head
     - Dazzling Gleam
@@ -19998,7 +19998,7 @@
     - Iron Head
     - Sucker Punch
     - Brick Break
-- Magearna, Lv. 100, @Assault Vest, Ability: Soul Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Magearna, Lv. 100, @Assault Vest, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Fleur Cannon
     - Flash Cannon
     - Aura Sphere
@@ -20682,27 +20682,27 @@
     - Hidden Power
 
 **Mordant Urchin Lin. Field: **
-- Silvally, Lv. 100, @Focus Sash, Ability: Rks System, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+- Silvally, Lv. 100, @Focus Sash, Ability: RKS System, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Parting Shot
     - Multi-Attack
     - Thunder Wave
     - Swagger
-- Silvally, Lv. 100, @Leftovers, Ability: Rks System, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+- Silvally, Lv. 100, @Leftovers, Ability: RKS System, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Swords Dance
     - Multi-Attack
     - Flame Charge
     - Rock Slide
-- Silvally, Lv. 100, @Magical Seed, Ability: Rks System, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+- Silvally, Lv. 100, @Magical Seed, Ability: RKS System, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Parting Shot
     - Draco Meteor
     - Tri Attack
     - Icy Wind
-- Silvally, Lv. 100, @Magical Seed, Ability: Rks System, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+- Silvally, Lv. 100, @Magical Seed, Ability: RKS System, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Parting Shot
     - Air Slash
     - Flash Cannon
     - Flamethrower
-- Silvally, Lv. 100, @Choice Band, Ability: Rks System, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+- Silvally, Lv. 100, @Choice Band, Ability: RKS System, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Parting Shot
     - Multi-Attack
     - Crunch
@@ -20766,7 +20766,7 @@
     - Spacial Rend
     - Vacuum Wave
     - Tailwind
-- Silvally, Lv. 100, @Psychic Memory, Ability: Rks System, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+- Silvally, Lv. 100, @Psychic Memory, Ability: RKS System, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Multi-Attack
     - Shift Gear
     - Drain Punch
@@ -20921,7 +20921,7 @@
     - Blue Flare
     - Psystrike
     - Dark Pulse
-- Silvally, Lv. 100, @Choice Band, Ability: Rks System, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+- Silvally, Lv. 100, @Choice Band, Ability: RKS System, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - U-turn
     - Sunsteel Strike
     - Freeze Shock
@@ -20963,7 +20963,7 @@
     - Laser Focus
     - Pollen Puff
     - Roar of Time
-- Silvally, Lv. 100, @Muscle Band, Ability: Rks System, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+- Silvally, Lv. 100, @Muscle Band, Ability: RKS System, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Spotlight
     - Lunge
     - Multi-Attack

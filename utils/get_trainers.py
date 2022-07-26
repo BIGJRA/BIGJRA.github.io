@@ -280,6 +280,9 @@ def generate_trainer_string(trainer):
 
         if pokemon['ability_id'] != '-1':
             str_parts.append(f"Ability: {pokemon['ability'].title()}")
+            
+            # Fixes small format issues 
+            str_parts[-1] = str_parts[-1].replace("Rks", "RKS").replace("Soul Heart", "Soul-Heart")
         
         if pokemon['nature']: 
             str_parts.append(f"{pokemon['nature']} Nature")
@@ -328,7 +331,6 @@ def generate_trainer_text(text, game='reborn'):
         out.append(generate_trainer_string(trainer))
     
     return '\n\n'.join(out)
-
 
 def main():
     game = process_game_arg()
