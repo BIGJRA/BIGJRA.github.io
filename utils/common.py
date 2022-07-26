@@ -1,5 +1,8 @@
 import os
 import sys
+import json
+from collections import defaultdict
+
 
 GAMES = ["reborn", "rejuv"]
 MON_NAME_FIX_DICT = {
@@ -64,3 +67,10 @@ def process_game_arg():
     if game not in GAMES:
         raise ValueError(f"{game} is not a valid game.")
     return game
+
+def read_api_json(json_file_name):
+    try: 
+        with open(os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', 'resources', json_file_name)) as f:
+            return json.load(f)
+    except FileNotFoundError as e:
+        print (e)
