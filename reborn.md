@@ -122,7 +122,7 @@ Heavy Work In Progress :)
     - [Refused Blake Route: Aster Fight](#refused-blake-route-aster-fight)
     - [The Battle Atop Ametrine](#the-battle-atop-ametrine)
   - [Glitch City](#glitch-city)
-- [Episode 15: Cascade](#episode-15-cascade)
+- [Episode 15: Never After](#episode-15-never-after)
   - [Mountain Range Waterfallin'](#mountain-range-waterfallin)
   - [Water Treatment Center](#water-treatment-center)
     - [Zekrom Route Taka Fight](#zekrom-route-taka-fight)
@@ -6754,7 +6754,7 @@ The first thing I recommend for this fight is literally to find a list such as [
 
 For winning, you'll get the *Gravity Badge* which lets us actually use Waterfall. We also get *TM78 Bulldoze*! We did it.
 
-# Episode 15: Cascade
+# Episode 15: Never After
 
 Head back outside. Before we proceed with the story, we've actually only seen like 30% of the massive three-mountain complex; much more of it is now accessible thanks to Waterfall. So, I will cover that in the next section.
 
