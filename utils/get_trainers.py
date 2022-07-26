@@ -42,33 +42,6 @@ def create_lookup(pbs_type):
         d[parts[1].strip()] = parts[2].strip()
     return d
 
-def create_ability_lookup_UNUSED():
-    filename = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'abilities.txt')
-    with open(filename) as f:
-        ability_data = f.read()
-    ability_dict = {}
-    for line in ability_data.splitlines():
-        parts = line.split(',')
-        ability_dict[parts[1]] = parts[2]
-
-    filename2 = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', '_datafiles', 'reborn_pbs', 'pokemon.txt')
-    with open(filename2, encoding='utf8') as f:
-        data = f.read()
-    d = {}
-    split = re.split(r'\[\d+\]\n', data)
-    del split[0]
-    for idx in range(len(split)):
-        lines = split[idx].splitlines()
-        name = lines[1][13:]
-        d[name] = {}
-        for idx in range(len(lines)):
-            if lines[idx][:4] == "Abil":
-                found = idx
-                break
-        for idx, ability in enumerate(lines[found].split('=')[1].split(',')):
-            d[name][idx] = ability_dict[ability]
-    return d
-
 def split_text_into_blocks(text):
     blocks = []
     for block in re.split('\n*#[-]+\n*', text):
@@ -135,16 +108,16 @@ def get_data_from_block(block: str, lookup: dict):
             "level":0,
             "item": '',
             "moves":[],
-            "ability_id":-1,
+            "ability_id":'-1',
             "ability": '',
-            "gender": "",
-            "form_id": 0,
+            #"gender": "",
+            "form_id": '0',
             "form": '',
-            "shininess": False,
+            #"shininess": False,
             "nature": "Serious",
             "ivs": 10,
-            "happiness": 70,
-            "nickname": "",
+            #"happiness": 70,
+            #"nickname": "",
             "shadow": False,
             "evs": [0,0,0,0,0,0],
             "style_name": '',
@@ -178,32 +151,35 @@ def get_data_from_block(block: str, lookup: dict):
             if line_parts[9] == '':
                 p_list[-1]["form_id"] = '0'
             else:
-                p_list[-1]["form_id"] = line_parts[9]
+                if line_parts[9] == "O":
+                    p_list[-1]["form_id"] = '0'
+                else:
+                    p_list[-1]["form_id"] = line_parts[9]
         except (IndexError):
-            pass
+            p_list[-1]["form_id"] = '0'
 
         # gets ability id if there is one
         try: 
             if line_parts[7] == '':
-                p_list[-1]["ability_id"] = '0'
+                pass
             else:
                 p_list[-1]["ability_id"] = line_parts[7]
         except (IndexError):
-            pass
-
-        # adds ability
-        p_list[-1]["api-name"] = p_list[-1]["form"].lower()
-        try:
-            p_list[-1]["form"] = lookup['pokemon_forms'][p_list[-1]["name"].lower()][p_list[-1]["form_id"]]
-        except (IndexError) as e:
             continue
-        except KeyError:
-            p_list[-1]["form"] = "PLACEHOLDER-FORM"
 
         # adds form
-        if p_list[-1]["form"] == "PLACEHOLDER-FORM":
-            p_list[-1]["ability"] = "PLACEHOLDER-ABILITY"
-        else:
+        run_again = True
+        working_name = p_list[-1]["name"].lower().replace(' ', '-').replace('.','').replace("'",'')
+        id = int(p_list[-1]["form_id"])
+        while run_again:
+            try:    
+                p_list[-1]["form"] = lookup['pokemon_forms'][working_name][str(id)]
+                run_again = False
+            except KeyError as e:
+                id -= 1
+
+        # adds ability
+        if p_list[-1]["ability_id"] != '-1':
             id = int(p_list[-1]["ability_id"])
             try:
                 p_list[-1]["ability"] = lookup['pokemon_abilities'][p_list[-1]["form"].lower()][str(id)].capitalize()
@@ -215,11 +191,11 @@ def get_data_from_block(block: str, lookup: dict):
             except (IndexError, ValueError) as e:
                 continue
 
-        # adds gender
-        try:
-            p_list[-1]["gender"] = line_parts[8]
-        except IndexError:
-            continue
+        # adds gender. unused
+        # try:
+        #     p_list[-1]["gender"] = line_parts[8]
+        # except IndexError:
+        #     continue
 
         # adds shininess. unused later in the program.
         # try:
@@ -292,24 +268,18 @@ def generate_trainer_string(trainer):
 
     for pokemon in trainer["pokemon"]:
         str_parts = []
-
-        if pokemon["name"] == pokemon["form"] or pokemon["form"] in ODD_ONES:
+        if pokemon["form"].title() in ODD_ONES:
             str_parts.append(pokemon["name"])
         else:
-            #print (pokemon['form'])
-            try:
-                dash_index = pokemon['form'].index('-')
-                str_parts.append((f"{pokemon['name']}{pokemon['form'][dash_index:]}").capitalize())
-            except:
-                str_parts.append(f"{pokemon['name']}")
+            str_parts.append(f"{pokemon['form'].title()}")
 
         str_parts.append(f"Lv. {pokemon['level']}")
         
         if pokemon['item']:
             str_parts.append(f"@{pokemon['item']}")
 
-        if pokemon['ability_id'] != -1 and pokemon['ability'] != '':
-            str_parts.append(f"Ability: {pokemon['ability']}")
+        if pokemon['ability_id'] != '-1':
+            str_parts.append(f"Ability: {pokemon['ability'].title()}")
         
         if pokemon['nature']: 
             str_parts.append(f"{pokemon['nature']} Nature")
@@ -340,6 +310,11 @@ def generate_trainer_text(text, game='reborn'):
     
     lookup["pokemon_abilities"] = read_api_json("api_ability_data.json")
     lookup["pokemon_forms"] = read_api_json("api_form_data.json")
+
+    #print (lookup["pokemon_abilities"])
+    #print (lookup["pokemon_forms"])
+
+
 
     data = []
     blocks = split_text_into_blocks(text)

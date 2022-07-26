@@ -41,7 +41,6 @@ def generate_form_id_lookup(verbose=False):
             lookup[name][form_no] = d['varieties'][form_no]['pokemon']['name']
         if verbose:
             print (name, lookup[name])
-    return lookup
 
 def generate_ability_id_lookup(form_data, verbose=False):
     print ("Pulling Ability data from pokeapi...")
@@ -61,7 +60,7 @@ def generate_ability_id_lookup(form_data, verbose=False):
             print (form_name, lookup[form_name])
     return lookup
 
-def main(verbose=False):
+def main(verbose=True):
     form_data = generate_form_id_lookup(verbose)
     write_api_data_json(form_data, "api_form_data.json")
     ability_data = generate_ability_id_lookup(form_data, verbose)
