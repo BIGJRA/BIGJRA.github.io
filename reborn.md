@@ -441,7 +441,7 @@ Also, specifically when the weather is thunderstorming, you'll find **Blitzle** 
 
 To the left, you'll find a couple of black and green street signs. All the way down and one tile to the right of the top-left sign, you'll find a hidden *Paralyze Heal*. 
 
-To the left, you'll find another Pokemon Center. The rock just outside to the left contains a hidden *Elemental Seed*. Hang on to this for now - it will be useful later on. In a house to the left, you can take a quiz to find out what kind of Pokemon you'd be, just for fun. Enneagram? Myers-Briggs? Nah. *This* is the real personality quiz.
+To the left, you'll find another Pokemon Center. The rock just outside to the left contains a hidden *Elemental Seed*. Hang on to this for now - it will be useful later on. In a house to the l, you can take a quiz to find out what kind of Pokemon you'd be. Enneagram? Myers-Briggs? Nah. *This* is the real personality quiz. You'll also be given a *Type Gem* corresponding to the type you get, as well as learn about the *mono[type]* password.
 
 Anyways, down and to the right from here you'll find some more trainers. During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it. 
 
@@ -514,7 +514,7 @@ Back outside, talk to the yellow haired guy for a battle. When you beat him you 
 
 Poochyena evolves early and can have the Moxie ability, so it can be fantastic in the early game.
 
-To the right of the blue bin is a hidden *Dark Gem*. After defeating the trainer on the left you'll get a *Super Potion*. During thunderstorms specifically, you'll be able to get **Tynamo**!
+To the right of the blue bin is a hidden *Dark Gem*. In a box on the bottom left is a hidden *Potion*. After defeating the trainer on the left you'll get a *Super Potion*. During thunderstorms specifically, you'll be able to get **Tynamo**!
 
 Head outside and go to the right under the bridge. When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly determined. The second from the right box on the bottom row contains a *Purple Shard*. Head to the right.
 
@@ -536,7 +536,7 @@ Between two boxes on the left, you can find a hidden *Poke Ball*. In a rock up a
 
 Head back up, then go left. To the left of the factory there is a barrel containing an *Ability Capsule*! Make sure you get it soon because it will eventually become unobtainable.
 
-To the right of here is a trainer with a red hat. Depending on where he challenges you you may need to go around, but between a rock and a barrel above him you'll find a hidden *Burn Heal*. The barrel on the other side of this small building contains a hidden *Red Shard* The in-game trade I mentioned earlier is in this house, but we probably aren't quite ready for it yet, so head up.
+To the right of here is a trainer with a red hat. Depending on where he challenges you you may need to go around, but between a rock and a barrel above him you'll find a hidden *Burn Heal*. The barrel on the other side of this small building contains a hidden *Red Shard*. The in-game trade I mentioned earlier is in this house, but we probably aren't quite ready for it yet, so head up.
 
 Up and to the left of the rock above the street sign you can find a hidden *Blue Shard*, and straight up from here the top of two boxes contains a *Paralyze Heal*. Up from here go left, then in a rock behind a dumpster you can get a hidden *Calcium*. I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money.
 
@@ -4936,7 +4936,7 @@ Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
 
 Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
 
-> Knight up 3, and right 3; Rook right 1, up 7, right 1; Bishop up-left 4.
+> Knight up 3, and right 3; Rook right 1, up 7, right 1; Bishop up-left 2, down-left 1, up-left 1.
 
 Enter room 3. Luna's trick can help us out here.
 
