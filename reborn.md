@@ -198,7 +198,7 @@ Heavy Work In Progress :)
     - [Moving Pieces Into Place](#moving-pieces-into-place)
   - [Murmina's Quest](#murminas-quest)
   - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
-  - [Finishing the Starter Egg Quest](#finishing-the-starter-egg-quest)
+  - [Starter Egg Quest Part 3](#starter-egg-quest-part-3)
   - [Completing the Pokedex](#completing-the-pokedex)
   - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
   - [Placeholder Badge](#placeholder-badge)
@@ -11663,15 +11663,28 @@ Follow the path from here and grab the *Charizardite X* if you didn't get it ear
 
 ## Bee's Pokedex Completion Quest Part 1
 
-Stub
+Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokemon we've added to our Pokedex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokemon. Your mileage will certainly vary depending on what evolutions you've done, which Pokemon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokemon at this time. So, you'll get the following rewards:
 
-## Finishing the Starter Egg Quest
+**Bee Pokedex Rewards (Part 1)**
+|Pokemon Caught |Reward         |
+|---------------|---------------|
+|100            |*Galladite*    |
+|200            |**Froakie**    |
+|300            |*TM13 Ice Beam*|
+|400            |*Scizorite*    |
+|500            |*Electrium-Z*  |
 
-Stub
+Clearly some excellent rewards in here, and we're not even done with the quest.
+
+## Starter Egg Quest Part 3
+
+Did you notice? After obtaining Froakie, we actually now have obtained all 21 starters! Breed whichever of Oshawott and Litten that is newer, as well as Snivy, Torchic, and Froakie, donating all four eggs to Kamaya in the Grand Hall. 
+
+For reaching 18 eggs donated, you'll be given the *Reset Disc- SPEED*. The rewards for donating all 21 are even better: you'll get *TM26 Earthquake*, *Psychium-Z*, and *Garchompite*. 
 
 ## Completing the Pokedex
 
-Stub
+Even better: did you notice? After obtaining Froakie, we actually now have obtained at least one member of every single non-legendary evolution line in the game, plus Type:Null and Phione. This also means that we actually can carry out the rest of Bee's quest right now, before we even get the last two badges! That also means that we're going to have to do a lot of evolving and breeding... so if you don't care enough about these rewards, or would rather do the quest later, you can skip this part. 
 
 ## Bee's Pokedex Completion Quest Part 2
 
