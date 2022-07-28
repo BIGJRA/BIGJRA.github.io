@@ -191,7 +191,8 @@ Heavy Work In Progress :)
     - [The Glass Gauntlet](#the-glass-gauntlet)
   - [Inside The Void](#inside-the-void)
   - [The Raid on Agate City](#the-raid-on-agate-city)
-  - [Agate City & Sidequests](#agate-city--sidequests)
+  - [Agate City](#agate-city)
+  - [Route 4 Sidequests](#route-4-sidequests)
   - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
   - [Finishing the Starter Egg Quest](#finishing-the-starter-egg-quest)
   - [Completing the Pokedex](#completing-the-pokedex)
@@ -6218,7 +6219,7 @@ Head up to where Charlotte is.
 **Relationship Point Choices:**
 - Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
 
-Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg, you can skip to the right.
+Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg for players on their second run, you can skip to the right.
 
 If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
@@ -11379,11 +11380,282 @@ You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poke Ba
 
 In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky Egg*, then backtrack to the main part of the city. To the east of the Pokemon Center, watch the scenes play out then talk to Shelly. Hardy will then extend an offer to challenge his gym!
 
-## Agate City & Sidequests
+## Agate City
 
 We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokemon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
 
+Starting at the Pokemon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
 
+Back at the Pokemon Center, this time go east. Talk to the lady in the house here to begin another quest, which we'll complete in a bit.
+
+We'll come back to the next house up and to the right in a bit. Enter the apartment complex beyond, next to the rock climb. In the lobby, if you previously joined the Aqua Gang, you will have the opportunity to complete an in-game trade: your Oranguru for **Oshawott**. 
+
+Head up from here. Near the gym, you'll find a hidden *Everstone*. Back down and to the right, climb up the rocks in the northeast side of the city, and follow the path. Grab a hidden *Ability Capsule* as you scale waterfalls. 
+
+## Route 4 Sidequests
+
+By climbing the top waterfall, you'll emerge in a new area of Route 4. 
+
+**Route 4 (Agate Area)**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|**Marill**         |20 |**Marill**         |20 |**Marill**         |20 |
+|Audino             |20 |Audino             |20 |Audino             |20 |
+|Piloswine          |10 |Piloswine          |10 |Piloswine          |10 |
+|Whimsicott         |10 |Whimsicott         |10 |Zebstrika          |10 |
+|Sawsbuck           |10 |Sawsbuck           |10 |Noctowl            |10 |
+|Chansey            |10 |Chansey            |10 |Hypno              |10 |
+|Wigglytuff         |5  |Wigglytuff         |5  |Chimecho           |5  |
+|Hypno              |5  |Hypno              |5  |Chansey            |5  |
+|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
+|**Azumarill**      |4  |**Azumarill**      |4  |**Azumarill**      |4  |
+|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Wailmer            |60 |
+|Lumineon           |30 |
+|Wishiwashi         |6  |
+|Seaking            |4  |
+
+Grab the *Ground Memory* as well as the hidden *Health Wing* and *X Sp. Def*. Climbing the waterfall at the top will return us to a map we had previously visited.
+
+From here, make your way to the other map with the lake - you'll need to climb up a couple of rocks. In the southwest corner of the higher lake, you'll see the Hiker from Agate City. Talk to him for a battle.
+
+**Hiker Karim. Field: Forest Field**
+- Golem, Lv. 88, @Custap Berry, Ability: Sturdy, Adamant Nature, IVs: 31
+    - Stealth Rock
+    - Stone Edge
+    - Explosion
+    - Stomp Tantrum
+- Altaria, Lv. 89, @Leftovers, Ability: Natural Cure, Modest Nature, IVs: 31
+    - Heat Wave
+    - Tailwind
+    - Roost
+    - Dragon Pulse
+- Rhyperior, Lv. 90, @Assault Vest, Ability: Solid Rock, Adamant Nature, IVs: 31
+    - Rock Wrecker
+    - Drill Run
+    - Outrage
+    - Ice Punch
+- Throh, Lv. 90, @Leftovers, Ability: Mold Breaker, Adamant Nature, IVs: 31
+    - Circle Throw
+    - Bulk Up
+    - Stone Edge
+    - Knock Off
+- Kommo-o, Lv. 91, @Sitrus Berry, Ability: Soundproof, Adamant Nature, IVs: 31
+    - Iron Head
+    - Drain Punch
+    - Dragon Dance
+    - Dragon Claw
+
+Once you defeat him, he will let his Pokemon out to hang out on the map. Talk to the Hiker for 5 *PokeSnax*. Talk to him again. He'll ask if you have a spare belt in your bag. By giving a Black Belt, you'll get a *Fist Plate*. If you don't have any Black Belts in your bag but you do have an Expert Belt, you can trade it for a *Life Orb*. Note that we will be able to get more Expert Belts in a bit, so don't feel bad about trading it away if you'd like.
+
+Once you've done these things, give snax to the Pokemon. Specifically, give a snax to Altaria, then another to Golem. By doing so, a new rock path will open up, so climb down to reach a new area.
+
+**Route 4 (Small River Area)**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Audino             |40 |Audino             |40 |Audino             |40 |
+|Wigglytuff         |25 |Wigglytuff         |25 |Chansey            |25 |
+|Chansey            |20 |Chansey            |20 |Wigglytuff         |20 |
+|**Snivy**          |5  |**Snivy**          |5  |**Snivy**          |5  |
+|Zangoose           |5  |**Servine**        |4  |**Servine**        |4  |
+|**Servine**        |4  |Zebstrika          |4  |Bisharp            |4  |
+|**Serperior**      |1  |**Serperior**      |1  |**Serperior**      |1  |
+|                   |   |Absol              |1  |Absol              |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
+|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
+|                   |   |Basculin           |20 |Basculin           |15 |
+|                   |   |                   |   |Slowpoke           |5  |
+
+|Water              |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Wailmer            |60 |Swablu             |30 |
+|Lumineon           |30 |Pineco             |25 |
+|Wishiwashi         |6  |Aipom              |20 |
+|Seaking            |4  |Forretress         |14 |
+|                   |   |Altaria            |6  |
+|                   |   |Ambipom            |5  |
+
+Grab the *Sceptilite* and *Big Nugget*. Hidden here is a *Blue Shard* and an *Ultra Potion*. That's it for Route 4 for now!
+
+## Magic Square Quest
+
+Fly over to North Obsidia Ward next. North of the Spyce, enter the open door into the building where we once fought ZEL and Magnezone. Talk to the monitor in the first room, and use your Meteor Card on it. Talk to the now-open shafts behind to jump down.
+
+In a room to the right, you can get an *EV Tuner* and 5 *Exp. Candy XL*. You can also read the book to the right to get some lore (including Sirius' real name LOL).
+
+Back in the main room, time for one of the community's most dreaded puzzles. Talk to the monitor at the bottom to learn of our quest. We'll need to make it so both 3x3 squares are magic squares, that is, all rows, columns, and diagonals add up to the same number: 15. Additionally, only the middle square can be the same across the two squares.
+
+There are essentially two parts to this quest: figuring out what numbers you want where, and actually moving them into place. It's also worth noting that for some reason whether or not Saphira was kidnapped back in Belrose actually affects the starting positions of the numbers, but my solving method actually works for both versions.
+
+### What Goes Where?
+
+I actually graduated with a degree in Mathematics once upon a time and do Computer Science-adjacent stuff for a living. So I'm gonna nerd out for a little while. Skip ahead a bit if you just want to see what the solution looks like. :)
+
+<img src="/assets/media/reborn/magic_square_0.jpg"/>
+
+So, first we are going to figure out what we want, where. It can be proven fairly easily that the middle is 5. Here's why:
+
+Notice that from the middle row: B1 + B2 + B3 = 15, and from the diagonals that A1 + B2 + C3 = 15, and C1 + B2 + A3 = 15. Adding these three equations and moving things around a bit, we see (A1 + B1 + C1) + (A3 + B3 + C3) + 3 * B2 = 45.
+
+We also can observe from the first and third column that A1 + B1 + C1 = 15 and A3 + B3 + C3 = 15. Thus simplifying the above result leads to 3 * B2 = 15, so B2 is 5.
+
+<img src="/assets/media/reborn/magic_square_1.jpg"/>
+
+I'll solve for just one magic square for now.
+
+We might as well try putting 1 in a corner and seeing what happens. Since we can just rotate the square, without loss of generality we can see what happens when we place it in the top left corner of one of the magic squares and seeing if a contradiction arises. This will also force 9 to be in the opposite corner to keep with the 15 sum rule. 
+
+<img src="/assets/media/reborn/magic_square_2.jpg"/>
+
+Consider the highlighted tiles. Each cannot be 1, 5, 9 since each is used, so it must be inclusively between 2 and 4, or inclusively between 6 and 8. If the tile is at most 4, then the remaining tile in the row with 1 would have to be at least 10, which is impossible. If the tile is at least 6, the column with 9 would be too large. So there is no possible value that works in either highlighted tile, meaning that putting 1 in the corner leads to no solutions. Therefore, we can assume 1 is in one of the four tiles adjacent to the middle, making 9 appear opposite. Again without loss of generality due to rotations, I'll put 1 on the left.
+
+<img src="/assets/media/reborn/magic_square_3.jpg"/>
+
+The column containing 1 has two empty tiles that will add up to 14, meaning the only possibility with the remaining numbers is for them to be 6 and 8 (as 2, 3, 4 are too small, and we can't use 7 twice). Since we can simply reflect our square across the horizontal line through the center, again there is no loss to generality to put 6 on top, and 8 below. Solving the diagonals puts 4 in the bottom right and 2 in the top right. Then all we have to do is put 3 and 7 into the final cells, which leaves us with one completed square.
+
+<img src="/assets/media/reborn/magic_square_4.jpg"/>
+
+Of course, you can check that each row, column, and diagonal add up to 15 if you don't believe me. The final stipulation of this puzzle is that only the center can be the same across puzzles. To deal with this issue, I simply rotate the puzzle by 90 degrees: obviously the rows, columns, and diagonals all still add up to 15, but now each non-5 piece is in a different place.
+
+<img src="/assets/media/reborn/magic_square_5.jpg"/>
+
+This is the solution we will solve for. Of course, due to rotations and reflections as mentioned before, one or both of your squares may look different from mine.
+
+### Moving Pieces Into Place
+
+Now, we just have to execute. Some players seem to be driven kinda mad by this step, but I am here to tell you about an algorithm with a handy invariant that guarantees we can complete the puzzle pretty easily! Essentially, we will solve piece by piece: by column, then by row. In fact, we can guarantee that we will be able to solve the first five columns in this way without messing up anything that came before! 
+
+<img src="/assets/media/reborn/magic_square_6.jpg"/>
+
+Suppose we are solving for the highlighted tile on the left (the *destination*), and we need to move 5 in (the *target*). Note that the tiles in all the columns to the left (just column 1) have already been solved, and the tiles above our target as well (here, just column 2, row 1). We intend to keep the puzzle this way after putting the next tile into position. So, here's the algorithm:
+
+- If the target is in the same column as the destination, we can do a few things. 
+    - If the destination is the top tile, simply move the column until the target is at the destination, then we are done. 
+    - If you the destination is the bottom tile, then the tile will already be correct, so we are done. 
+    - Otherwise, the destination will be in the middle, and the target will be in the bottom row. Simply move the bottom row right, the column now containing the target up, then reset the bottom row by moving it back left once. 
+
+- If the target is in the same row as the destination, move the column containing the target up once so that it is no longer in the same row.
+
+<img src="/assets/media/reborn/magic_square_7.jpg"/>
+
+- Move the row containing the destination right as many times as it takes for the destination tile to be directly above/below the target.
+
+<img src="/assets/media/reborn/magic_square_8.jpg"/>
+
+- Move the column containing the target up or down so that the target is now in the correct row.
+
+<img src="/assets/media/reborn/magic_square_9.jpg"/>
+
+- Now, simply move the row containing the target back to the left until it is once more solved. You'll notice that if you did the steps right, it will leave all the previously solved pieces the same, and put the new piece into the correct spot.
+
+<img src="/assets/media/reborn/magic_square_10.jpg"/>
+
+Next, you'd move a 3 into the destination below the 5 we just moved in, then the 2 into the destination: top tile of the next column, and so on. That's really all there is to moving pieces in the first five columns into place. Do so, and your puzzle will look something like this:
+
+<img src="/assets/media/reborn/magic_square_11.jpg"/>
+
+In my case, the dashes will represent 2, 6, and 7. Moving the rightmost column up or down if necessary to put the correct number into the top right, either this will solve the puzzle right away, or it will have the other two numbers switched around. If this occurs, essentially it means that you put the wrong number into the left side puzzle. Your board should look somewhat like this in this case:
+
+<img src="/assets/media/reborn/magic_square_12.jpg"/>
+
+There is a simple fix however: switch 6's. Simply move the right column up, the first row left, the right column down, and the first row right again. Finally, move the right column down once again. 
+
+Anyways, once you complete the puzzle, the *Darkinium-Z*, the *Gardevoirite*, and *TM24 Thunderbolt* will drop down. Very nice. You'll also notice that the screen has changed a bit: one number per column is now white.
+
+Head on back to Agate City, and enter the building to the right of the Pokemon Center. Talk to the lady and give her the code in white we just found: 139749.
+
+In the next room, you can get the *Manectite* as well as *Department Store Sticker: Manectric*. Hallelujah. You know what that means!
+
+**Department Store 11F Left Shop**
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Rocky Helmet*     |$5000          |
+|*Shed Shell*       |$2000          |
+|*Expert Belt*      |$4000          |
+|*Safety Goggles*   |$999           |
+|*Flame Orb*        |$2000          |
+|*Toxic Orb*        |$2000          |
+|*Wise Glasses*     |$5000          |
+|*Wide Lens*        |$2500          |
+|*Muscle Band*      |$5000          |
+|*Black Sludge*     |$2500          |
+
+**Department Store 11F Right Shop**
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Magmarizer*       |$2100          |
+|*Electirizer*      |$2100          |
+|*Protector*        |$2100          |
+|*Reaper Cloth*     |$2100          |
+|*Dubious Disc*     |$2100          |
+|*King's Rock*      |$3000          |
+|*Dragon Scale*     |$2100          |
+|*Razor Fang*       |$2100          |
+|*Razor Claw*       |$2100          |
+|*Metal Coat*       |$2100          |
+|*Deep Sea Tooth*   |$200           |
+|*Deep Sea Scale*   |$200           |
+
+A lot of high-tier held items and evolution items, all now available in bulk.
+
+## Murmina's Quest
+
+Fly over to Calcenon City next. Down the steps to Route 3, go east and into the little cave. Inside, you'll find a trainer who will fight you!
+
+**Doxy Murmina. Field: Factory Field**
+- Lapras, Lv. 92, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Freeze-Dry
+    - Surf
+    - Blizzard
+    - Signal Beam
+- Gengar, Lv. 93, @Life Orb, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Sludge Bomb
+    - Shadow Ball
+    - Thunder
+    - Dazzling Gleam
+- Metagross, Lv. 95, @Muscle Band, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Meteor Mash
+    - Agility
+    - Earthquake
+    - Zen Headbutt
+- Ninetales, Lv. 94, @Focus Sash, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Pulse
+    - Nasty Plot
+    - Fire Blast
+    - Energy Ball
+- Steelix, Lv. 93, @Steelixite, Ability: Sturdy, Adamant Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Curse
+    - Earthquake
+    - Gyro Ball
+    - Nature Power
+
+This is actually a somewhat tough team, with Mega-Steelix in the back as well! Nothing you can't handle, though. She'll leave, talking about Caroline's basement. This next part of the quest is... really weird and hard to figure out, but I got you. 
+
+Fly over to Agate City, and enter the building below the gym. There is a child in the bottom right (who kinda blends in with the chair?!) who will let you access the basement. Pay very close attention to the tiles in this basement, then fly back to Calcenon City.
+
+Enter Charlotte's gym, and make your way to the back. I actually mentioned this before in the guide, since you can open the secret door at any time, and doing so earlier allows us access to an extra Charlotte point and an early Mega Stone. If you didn't open the door then, we need to make the tiles in the back section of Charlotte's gym match the tile layout in the random Agate basement. It should look like this when you're done:
+
+<img src="/assets/media/reborn/charsecret.jpg"/>
+
+Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 
 ## Bee's Pokedex Completion Quest Part 1
 
