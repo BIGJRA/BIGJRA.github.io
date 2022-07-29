@@ -6227,7 +6227,7 @@ Technically you shouldn't know how to open the secret room by this point... So i
 
 If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
-<img src="/assets/media/reborn/charsecret.jpg"/>
+<img src="/assets/media/reborn/calcsecret.jpg"/>
 
 When you're ready, take on the Fire-type gym leader!
 
@@ -11657,7 +11657,7 @@ Fly over to Agate City, and enter the building below the gym. There is a child i
 
 Enter Charlotte's gym, and make your way to the back. I actually mentioned this before in the guide, since you can open the secret door at any time, and doing so earlier allows us access to an extra Charlotte point and an early Mega Stone. If you didn't open the door then, we need to make the tiles in the back section of Charlotte's gym match the tile layout in the random Agate basement. It should look like this when you're done:
 
-<img src="/assets/media/reborn/charsecret.jpg"/>
+<img src="/assets/media/reborn/calcsecret.jpg"/>
 
 Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 
@@ -11685,6 +11685,8 @@ For reaching 18 eggs donated, you'll be given the *Reset Disc- SPEED*. The rewar
 ## Completing the Pokedex
 
 Even better: did you notice? After obtaining Froakie, we actually now have obtained at least one member of every single non-legendary evolution line in the game, plus Type:Null and Phione. This also means that we actually can carry out the rest of Bee's quest right now, before we even get the last two badges! That also means that we're going to have to do a lot of evolving and breeding... so if you don't care enough about these rewards, or would rather do the quest later, you can skip this part. 
+
+Note: A-Raichu, A-Golem as well
 
 ## Bee's Pokedex Completion Quest Part 2
 
