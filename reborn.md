@@ -11902,32 +11902,33 @@ Enter the Agate City gym and defeat the three trainers on the right side. Talk t
 If you talk to the guy again and say "Help", he'll battle us, then tell us what to play. Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
 
 **Rockstar Hardy. Field: Rocky Field**
-- Lycanroc-Midday, Lv. 92, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Drill Run
-    - Rock Smash
-    - Zen Headbutt
-- Gigalith, Lv. 90, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+**Rockstar Hardy (2x Full Restore). Field: **
+- Gigalith, Lv. 90, @Choice Band, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Stomp Tantrum
     - Rock Slide
     - Rock Smash
     - Throat Chop
-- Archeops, Lv. 91, @Sitrus Berry, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Aqua Tail
-    - Endeavor
-    - Acrobatics
-- Rampardos, Lv. 91, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Iron Head
-    - Fire Punch
-    - Rock Smash
-- Aerodactyl, Lv. 92, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+- Aerodactyl, Lv. 92, @Aerodactylite, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Aqua Tail
     - Rock Slide
     - Aerial Ace
     - Rock Smash
-- Lycanroc-Dusk, Lv. 97, Ability: Tough Claws, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+- Lycanroc-Midday, Lv. 92, @Choice Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Drill Run
+    - Rock Smash
+    - Zen Headbutt
+- Archeops, Lv. 91, @Flying Gem, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Rock Slide
+    - Aqua Tail
+    - Endeavor
+    - Acrobatics
+- Rampardos, Lv. 91, @Choice Scarf, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Iron Head
+    - Fire Punch
+    - Rock Smash
+- Lycanroc-Dusk, Lv. 97, @Telluric Seed, Ability: Tough Claws, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Rock Slide
     - Accelerock
     - Rock Smash
