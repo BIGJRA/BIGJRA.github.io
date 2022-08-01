@@ -5196,6 +5196,8 @@ Ok, so there are a few sidequests we can take care of in and around Seventh. Fir
 
 Back in seventh, the house in the bottom left corner will now be unlocked. If you have a Helix Fossil and do not have a Dome Fossil in your bag, the Twitch Plays Pokemon cultist will ask us to bring a Farfetch'd to him. Do so, and you'll get a choice between the *Sail Fossil* and the *Jaw Fossil*. Since we already have Amaura, no point in getting the former, so pick up the Jaw.
 
+Although we now have both Amaura and a Jaw Fossil, it's worth noting that the cultist will ask for a Pidgeot in exchange for another fossil. Afterwards, you can trade Helix Fossils for more Jaw and Sail fossils if you want more.
+
 Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off, and your gang leader telling you to meet at her house in Lapis, so do so.
 
 **Harridan Craudburry. Field: No Field**
