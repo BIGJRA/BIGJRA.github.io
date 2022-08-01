@@ -199,7 +199,7 @@ Heavy Work In Progress :)
   - [Murmina's Quest](#murminas-quest)
   - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
   - [Starter Egg Quest Part 3](#starter-egg-quest-part-3)
-  - [Completing the Pokedex](#completing-the-pokedex)
+  - [Completing the Pokedex (Minus Most Legendaries)](#completing-the-pokedex-minus-most-legendaries)
   - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
   - [Placeholder Badge](#placeholder-badge)
 - [Appendices](#appendices)
@@ -2826,7 +2826,6 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 |**Sandslash-Alola**    |1  |
 |**Beartic**            |1  |
 
-
 Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal.
 
 Next, go down from the top of the area, grab the hidden *Super Potion* to the right then choose to go down at the fork. Go down at the fork after that to talk to **Croagunk** who will join us thanks to the Silver Ring. Grab a hidden *Burn Heal* and return to the first fork.
@@ -4006,7 +4005,7 @@ Return to Chrysolia Forest - you'll have to basically do the circles in reverse.
 
 Down from here, you'll find the teleported fountain. **Remoraid** will jump out for you to battle.
 
-Return to Tanzan Mountain. Inside, you'll find the grunts from earlier. Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** and **Tirtouga** respectively.
+Return to Tanzan Mountain. Inside, you'll find the grunts from earlier. Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
 
 ## Good Rod Encounters and Other Things
 
@@ -4516,7 +4515,7 @@ Head up and to the left. You'll see a new cave entrance here. Inside you'll find
 |Dugtrio           |5  |
 |Hippopotas        |5  |
 |Durant            |5  |
-|**Hippowdon**         |1  |
+|**Hippowdon**     |1  |
 
 Here you can grab an *Upgrade*. 
 
@@ -5534,7 +5533,7 @@ Starting at the entrance we came in through and working vaguely clockwise, there
 |*Hyper Potion* |$1000  |
 |*Eviolite*     |$20000 |
 
-We can finally buy Ultra Balls! Although it's expensive, the Eviolite can turn certain Pokemon like Porygon 2 and Dusclops into monsters for this part of the game.
+We can finally buy Ultra Balls! Although it's expensive, the Eviolite can turn certain Pokemon like Porygon2 and Dusclops into monsters for this part of the game.
 
 **Agate Circus Pledge Move Tutor**
 
@@ -6215,7 +6214,9 @@ Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell
 Enter Charlotte's gym when you are ready. The puzzle here is basically the same as Wallace's from generation 3: you have to carefully step on every gray tile exactly once and make it to the other side's stairs. For precise solutions:
 
 > Puzzle 1: U U L L U U U R D R D R D R U U L U L U
+
 > Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U
+
 > Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
 
 Head up to where Charlotte is. 
@@ -10480,7 +10481,7 @@ Next, fly over to Apophyll Beach. Make your way towards Pyrous Mountain, and cli
 
 First, fly over to the desert. Make your way all the way to the Teknite Cave in the northwest. Progress through the cave until you reach the split paths on 4F. Use the top left exit and make your way all the way to the dead end. 
 
-By hopping across some rocks to the top left corner, you'll notice a climbing wall. At the top, you can find a hidden *Ability Capsule* and a **Jangmo'o** egg! Sweet.
+By hopping across some rocks to the top left corner, you'll notice a climbing wall. At the top, you can find a hidden *Ability Capsule* and a **Jangmo-o** egg! Sweet.
 
 That's not all we can do in the Teknite Ridge, but we will be accessing a different side of the ridge to finish up.
 
@@ -11668,11 +11669,11 @@ Fly back to Agate City, this time heading into the small house towards the right
 **Bee Pokedex Rewards (Part 1)**
 |Pokemon Caught |Reward         |
 |---------------|---------------|
-|100            |*Galladite*    |
-|200            |**Froakie**    |
-|300            |*TM13 Ice Beam*|
-|400            |*Scizorite*    |
-|500            |*Electrium-Z*  |
+|100+           |*Galladite*    |
+|200+           |**Froakie**    |
+|300+           |*TM13 Ice Beam*|
+|400+           |*Scizorite*    |
+|500+           |*Electrium-Z*  |
 
 Clearly some excellent rewards in here, and we're not even done with the quest.
 
@@ -11682,11 +11683,192 @@ Did you notice? After obtaining Froakie, we actually now have obtained all 21 st
 
 For reaching 18 eggs donated, you'll be given the *Reset Disc- SPEED*. The rewards for donating all 21 are even better: you'll get *TM26 Earthquake*, *Psychium-Z*, and *Garchompite*. 
 
-## Completing the Pokedex
+## Completing the Pokedex (Minus Most Legendaries)
 
 Even better: did you notice? After obtaining Froakie, we actually now have obtained at least one member of every single non-legendary evolution line in the game, plus Type:Null and Phione. This also means that we actually can carry out the rest of Bee's quest right now, before we even get the last two badges! That also means that we're going to have to do a lot of evolving and breeding... so if you don't care enough about these rewards, or would rather do the quest later, you can skip this part. 
 
-Note: A-Raichu, A-Golem as well
+The following is a table of Pokemon you'll need to breed or evolve at this point in order to complete the Pokedex:
+
+|Pokemon to Obtain  | Method                                            |
+|-------------------|---------------------------------------------------|
+|**Ivysaur**        |Evolve Bulbasaur @ Lv. 16                          | 
+|**Venusaur**       |Evolve Ivysaur @ Lv. 32                            | 
+|**Wartortle**      |Evolve Squirtle @ Lv. 16                           | 
+|**Blastoise**      |Evolve Wartortle @ Lv. 16                          | 
+|**Metapod**        |Evolve Caterpie @ Lv. 7                            |
+|**Weedle**         |Breed Beedrill                                     |
+|**Kakuna**         |Evolve Weedle @ Lv. 7                              |
+|**Nidoqueen**      |Evolve Nidorino via Moon Stone                     |
+|**Nidoking**       |Evolve Nidorina via Moon Stone                     |
+|**Clefable**       |Evolve Clefairy via Moon Stone                     |
+|**Ninetales**      |Evolve Vulpix via Fire Stone                       |
+|**Arcanine**       |Evolve Growlithe via Fire Stone                    |
+|**Poliwrath**      |Evolve Poliwhirl via Water Stone                   |
+|**Kadabra**        |Evolve Abra @ Lv. 16                               |
+|**Alakazam**       |Evolve Kadabra via Link Stone                      |
+|**Machamp**        |Evolve Machoke via Link Stone                      |
+|**Victreebel**     |Evolve Weepinbell via Leaf Stone                   |
+|**Golem**          |Evolve Graveler via Link Stone                     |
+|**Slowbro**        |Evolve Slowpoke @ Lv. 37                           |
+|**Haunter**        |Evolve Gastly @ Lv. 25                             |
+|**Gengar**         |Evolve Haunter via Link Stone                      |
+|**Exeggutor**      |Evolve Exeggcute via Leaf Stone                    |
+|**Hitmonlee**      |Evolve Tyrogue @ Lv. 20, Atk > Def                 |
+|**Hitmonchan**     |Evolve Tyrogue @ Lv. 20, Atk < Def                 |
+|**Starmie**        |Evolve Staryu via Water Stone                      |
+|**Jynx**           |Evolve Smoochum @ Lv. 30                           |
+|**Electabuzz**     |Evolve Elekid @ Lv. 30                             |
+|**Magmar**         |Evolve Magby @ Lv. 30                              |
+|**Gyarados**       |Evolve Magikarp @ Lv. 20                           |
+|**Vaporeon**       |Evolve Eevee via Water Stone                       |
+|**Jolteon**        |Evolve Eevee via Thunder Stone                     |
+|**Flareon**        |Evolve Eevee via Fire Stone                        |
+|**Omastar**        |Evolve Omanyte @ Lv. 40                            |
+|**Kabutops**       |Evolve Kabuto @ Lv. 40                             |
+|**Snorlax**        |Evolve Munchlax via Friendship                     |
+|**Dragonair**      |Evolve Dratini @ Lv. 30                            |
+|**Dragonite**      |Evolve Dragonair @ Lv. 55                          |
+|**Bayleef**        |Evolve Chikorita @ Lv. 16                          |
+|**Meganium**       |Evolve Bayleef @ Lv. 32                            |
+|**Quilava**        |Evolve Cyndaquil @ Lv. 14                          |
+|**Typhlosion**     |Evolve Quilava @ Lv. 36                            |
+|**Croconaw**       |Evolve Totodile @ Lv. 18                           |
+|**Feraligatr**     |Evolve Croconaw @ Lv. 30                           |
+|**Crobat**         |Evolve Golbat via Friendship                       |
+|**Cleffa**         |Breed Clefairy/Clefable                            |
+|**Togetic**        |Evolve Togepi via Friendship                       |
+|**Bellossom**      |Evolve Gloom via Sun Stone                         |
+|**Politoed**       |Evolve Poliwhirl via Link Stone & King's Rock      |
+|**Jumpluff**       |Evolve Skiploom @ Lv. 27                           |
+|**Espeon**         |Evolve Eevee via Friendship (Day, no Fairy moves)  |
+|**Umbreon**        |Evolve Eevee via Friendship (Night, no Fairy moves)|
+|**Slowking**       |Evolve Slowpoke via Link Stone & King's Rock       |
+|**Wobbuffet**      |Evolve Wynaut @ Lv. 15                             |
+|**Scizor**         |Evolve Scyther via Link Stone & Metal Coat         |
+|**Porygon2**       |Evolve Porygon via Link Stone & Upgrade            |
+|**Hitmontop**      |Evolve Tyrogue @ Lv. 20, Atk = Def                 |
+|**Blissey**        |Evolve Chansey via Happiness                       |
+|**Pupitar**        |Evolve Larvitar @ Lv. 30                           |
+|**Tyranitar**      |Evolve Pupitar @ Lv. 55                            |
+|**Grovyle**        |Evolve Treecko @ Lv. 16                            |
+|**Sceptile**       |Evolve Grovyle @ Lv. 36                            |
+|**Combusken**      |Evolve Torchic @ Lv. 16                            |
+|**Blaziken**       |Evolve Combusken @ Lv. 36                          |
+|**Marshtomp**      |Evolve Mudkip @ Lv. 16                             |
+|**Swampert**       |Evolve Marshtomp @ Lv. 36                          |
+|**Seedot**         |Breed Nuzleaf/Shiftry                              |
+|**Shiftry**        |Evolve Nuzleaf via Leaf Stone                      |
+|**Swellow**        |Evolve Taillow @ Lv. 22                            |
+|**Kirlia**         |Evolve Ralts @ Lv. 20                              |
+|**Gardevoir**      |Evolve Kirlia @ Lv. 30                             |
+|**Breloom**        |Evolve Shroomish @ Lv. 23                          |
+|**Slaking**        |Evolve Vigoroth @ Lv. 36                           |
+|**Ninjask**        |Evolve Nincada @ Lv. 20                            |
+|**Shedinja**       |Evolve Nincada @ Lv. 20 w/ Poke Ball & Party Slot  |
+|**Exploud**        |Evolve Loudred @ Lv. 40                            |
+|**Hariyama**       |Evolve Makuhita @ Lv. 24                           |
+|**Azurill**        |Breed Marill/Azumarill w/ Sea Incense              |
+|**Medicham**       |Evolve Meditite @ Lv. 37                           |
+|**Cacnea**         |Breed Cacturne                                     |
+|**Cradily**        |Evolve Lileep @ Lv. 40                             |
+|**Armaldo**        |Evolve Anorith @ Lv. 40                            |
+|**Milotic**        |Evolve Feebas via Link Stone & Prism Scale         |
+|**Shelgon**        |Evolve Bagon @ Lv. 30                              |
+|**Salamence**      |Evolve Shelgon @ Lv. 50                            |
+|**Metang**         |Evolve Beldum @ Lv. 20                             |
+|**Metagross**      |Evolve Metang @ Lv. 45                             |
+|**Grotle**         |Evolve Turtwig @ Lv. 18                            |
+|**Torterra**       |Evolve Grotle @ Lv. 32                             |
+|**Monferno**       |Evolve Chimchar @ Lv. 14                           |
+|**Infernape**      |Evolve Monferno @ Lv. 36                           |
+|**Prinplup**       |Evolve Piplup @ Lv. 16                             |
+|**Empoleon**       |Evolve Prinplup @ Lv. 36                           |
+|**Roserade**       |Evolve Roselia via Shiny Stone                     |
+|**Rampardos**      |Evolve Cranidos @ Lv. 30                           |
+|**Bastiodon**      |Evolve Shieldon @ Lv. 30                           |
+|**Mismagius**      |Evolve Misdreavus via Dusk Stone                   |
+|**Honchkrow**      |Evolve Murkrow via Dusk Stone                      |
+|**Purugly**        |Evolve Glameow @ Lv. 38                            |
+|**Gabite**         |Evolve Gible @ Lv. 24                              |
+|**Garchomp**       |Evolve Gabite @ Lv. 48                             |
+|**Lucario**        |Evolve Riolu via Friendship (Day)                  |
+|**Toxicroak**      |Evolve Croagunk @ Lv. 37                           |
+|**Weavile**        |Evolve Sneasel via Razor Claw Lv. (Night)          |
+|**Magnezone**      |Evolve Magneton via Lv. @ Power Plant              |
+|**Rhyperior**      |Evolve Rhydon via Link Stone & Protector           |
+|**Tangrowth**      |Evolve Tangela via Lv. w/ Ancient Power            |
+|**Electivire**     |Evolve Electabuzz via Link Stone & Electirizer     |
+|**Magmortar**      |Evolve Magmar via Link Stone & Magmarizer          |
+|**Togekiss**       |Evolve Togetic via Shiny Stone                     |
+|**Leafeon**        |Evolve Eevee via Lv. @ Chrysolia Mossy Rock        |
+|**Glaceon**        |Evolve Eevee via Lv. @ Celestinine B2F Icy Rock    |
+|**Mamoswine**      |Evolve Piloswine via Lv. w/ Ancient Power          |
+|**Porygon-Z**      |Evolve Porygon2 via Link Stone & Dubious Disc      |
+|**Gallade**        |Evolve Male Kirlia via Dawn Stone                  |
+|**Dusknoir**       |Evolve Dusknoir via Link Stone & Reaper Cloth      |
+|**Pignite**        |Evolve Tepig @ Lv. 17                              |
+|**Emboar**         |Evolve Pignite @ Lv. 36                            |
+|**Dewott**         |Evolve Oshawott @ Lv. 17                           |
+|**Samurott**       |Evolve Dewott @ Lv. 36                             |
+|**Herdier**        |Evolve Lillipup @ Lv. 16                           |
+|**Stoutland**      |Evolve Herdier @ Lv. 32                            |
+|**Gurdurr**        |Evolve Timburr @ Lv. 25                            |
+|**Conkeldurr**     |Evolve Gurdurr via Link Stone                      |
+|**Tympole**        |Breed Palpitoad/Seismitoad                         |
+|**Swadloon**       |Evolve Sewaddle @ Lv. 20                           |
+|**Scolipede**      |Evolve Whirlipede @ Lv. 30                         |
+|**Krokorok**       |Evolve Sandile @ Lv. 29                            |
+|**Carracosta**     |Evolve Tirtouga @ Lv. 37                           |
+|**Archeops**       |Evolve Archen @ Lv. 37                             |
+|**Garbodor**       |Evolve Trubbish @ Lv. 36                           |
+|**Zoroark**        |Evolve Zorua @ Lv. 30                              |
+|**Gothorita**      |Evolve Gothita @ Lv. 32                            |
+|**Gothitelle**     |Evolve Gothorita @ Lv. 41                          |
+|**Duosion**        |Evolve Solosis @ Lv. 32                            |
+|**Reuniclus**      |Evolve Duosion @ Lv. 41                            |
+|**Vanilluxe**      |Evolve Vanillish @ Lv. 47                          |
+|**Eelektross**     |Evolve Eelektrik via Thunder Stone                 |
+|**Beheeyem**       |Evolve Elgyem @ Lv. 42                             |
+|**Lampent**        |Evolve Litwick @ Lv. 41                            |
+|**Chandelure**     |Evolve Lampent via Dusk Stone                      |
+|**Fraxure**        |Evolve Axew @ Lv. 38                               |
+|**Haxorus**        |Evolve Fraxure @ Lv. 48                            |
+|**Mienshao**       |Evolve Mienfoo @ Lv. 50                            |
+|**Zweilous**       |Evolve Deino @ Lv. 50                              |
+|**Hydreigon**      |Evolve Zweilous @ Lv. 64                           |
+|**Volcarona**      |Evolve Larvesta @ Lv. 59                           |
+|**Quilladin**      |Evolve Chespin @ Lv. 16                            |
+|**Chesnaught**     |Evolve Quilladin @ Lv. 36                          |
+|**Braixen**        |Evolve Fennekin @ Lv. 16                           |
+|**Delphox**        |Evolve Braixen @ Lv. 36                            |
+|**Frogadier**      |Evolve Froakie @ Lv. 16                            |
+|**Greninja**       |Evolve Frogadier @ Lv. 36                          |
+|**Floette**        |Evolve Flabebe @ Lv. 19                            |
+|**Doublade**       |Evolve Honedge @ Lv. 35                            |
+|**Aegislash**      |Evolve Doublade via Dusk Stone                     |
+|**Slurpuff**       |Evolve Swirlix via Link Stone & Whipped Dream      |
+|**Malamar**        |Evolve Inkay @ Lv. 30 (mash B during evolution)    |
+|**Tyrantrum**      |Evolve Tyrunt @ Lv. 39 (Day)                       |
+|**Aurorus**        |Evolve Amaura @ Lv. 39 (Night)                     |
+|**Sylveon**        |Evolve Eevee via Friendship (w/ a Fairy Move)      |
+|**Sliggoo**        |Evolve Goomy @ Lv. 40                              |
+|**Goodra**         |Evolve Sliggoo @ Lv. 50 @ Rainy Area               |
+|**Gourgeist**      |Evolve Pumpkaboo via Link Stone                    |
+|**Dartrix**        |Evolve Rowlet @ Lv. 17                             |
+|**Decidueye**      |Evolve Dartrix @ Lv. 34                            |
+|**Torracat**       |Evolve Litten @ Lv. 17                             |
+|**Incineroar**     |Evolve Torracat @ Lv. 34                           |
+|**Brionne**        |Evolve Popplio @ Lv. 17                            |
+|**Primarina**      |Evolve Brionne @ Lv. 34                            |
+|**Salazzle**       |Evolve Female Salandit @ Lv. 33                    |
+|**Stufful**        |Breed Bewear                                       |
+|**Steenee**        |Evolve Bounsweet @ Lv. 18                          |
+|**Tsareena**       |Evolve Steenee via Lv. w/ Stomp                    |
+|**Silvally**       |Evolve Type: Null via Friendship                   |
+|**Hakamo-o**       |Evolve Jangmo-o @ Lv. 35                           |
+|**Kommo-o**        |Evolve Hakamo-o @ Lv. 45                           |
+|**Raichu-Alola**   |Evolve Pikachu via Thunder Stone @ Apophyll Beach  |
+|**Golem-Alola**    |Evolve Graveler-Alola via Link Stone               |
 
 ## Bee's Pokedex Completion Quest Part 2
 
