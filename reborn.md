@@ -201,7 +201,8 @@ Heavy Work In Progress :)
   - [Starter Egg Quest Part 3](#starter-egg-quest-part-3)
   - [Completing the Pokedex (Minus Most Legendaries)](#completing-the-pokedex-minus-most-legendaries)
   - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
-  - [Placeholder Badge](#placeholder-badge)
+  - [Geode Badge](#geode-badge)
+- [Episode 19: Pokemon Reborn](#episode-19-pokemon-reborn)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -11389,6 +11390,12 @@ In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky
 
 We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokemon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
 
+Fly over to the Agate Circus and head into the Big Top.
+
+Relationship Point Choices:
+- (Refuse Blake Route Only) Talk to Ciel on the top left side of the circus after the raid (+1 Ciel, +1 Ace)
+- (Give Ruby Ring Route Only) Talk to Samson in the Big Top after the raid (+1 Samson)
+
 Starting at the Pokemon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
 
 Back at the Pokemon Center, this time go east. Talk to the lady in the house here to begin another quest, which we'll complete in a bit.
@@ -11886,11 +11893,55 @@ Hell yes. One of the best Ultra Beasts is ours, before the last two gyms!
 
 Use the move relearner or tutor to teach it Dragon Pulse and give it a level, and it will evolve into **Naganadel**.
 
-## Placeholder Badge
+## Geode Badge
 
 Well, not much else to do for now than to finally take on the seventeenth gym leader.
 
-# Appendice
+Enter the Agate City gym and defeat the three trainers on the right side. Talk to the guy in the top left corner for a guide to the gym. The guy here will play a musical riff that we are supposed to change the blocks on the right to match musically.
+
+If you talk to the guy again and say "Help", he'll battle us, then tell us what to play. Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
+
+**Rockstar Hardy. Field: Rocky Field**
+- Lycanroc-Midday, Lv. 92, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Drill Run
+    - Rock Smash
+    - Zen Headbutt
+- Gigalith, Lv. 90, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Stomp Tantrum
+    - Rock Slide
+    - Rock Smash
+    - Throat Chop
+- Archeops, Lv. 91, @Sitrus Berry, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Aqua Tail
+    - Endeavor
+    - Acrobatics
+- Rampardos, Lv. 91, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Iron Head
+    - Fire Punch
+    - Rock Smash
+- Aerodactyl, Lv. 92, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Aqua Tail
+    - Rock Slide
+    - Aerial Ace
+    - Rock Smash
+- Lycanroc-Dusk, Lv. 97, Ability: Tough Claws, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Accelerock
+    - Rock Smash
+    - Drill Run
+
+This might be the "simplest" gym fight yet. Boosted Rock Slide from two Pokemon at once will probably drive you mad. It also adds extra damage when it flinches you. His team minus Gigalith are all fast and hard-hitting Rock types that all have this move, many above the level cap. That's really all there is to say about him: you'll be hit hard, fast, and likely flinch a lot.
+
+If you are able to dispense with Gigalith, a slow team can steamroll his frail Pokemon under Trick Room. You can also take advantage of the move Wide Guard to prevent Rock Slide spam. There are tons of other things you can do, and if you've made it here I think you can find a way through Hardy.
+
+When you win, you'll get the Geode Badge, which boosts our level cap up to 95. You'll also get *TM80 Rock Slide*. Sweet.
+
+# Episode 19: Pokemon Reborn 
+
+# Appendices
 
 ## Custom Pokemon Form Lookup
 
