@@ -11870,15 +11870,27 @@ The following is a table of Pokemon you'll need to breed or evolve at this point
 |**Raichu-Alola**   |Evolve Pikachu via Thunder Stone @ Apophyll Beach  |
 |**Golem-Alola**    |Evolve Graveler-Alola via Link Stone               |
 
+Note that the Alolan forms don't count towards the overall completion of your Pokedex. The magic number for a completed Pokedex is **731** obtained.
+
 ## Bee's Pokedex Completion Quest Part 2
 
-Stub
+Fly back over to Agate City once you've gotten all 731 Pokemon so far. Talk to Bee once more.
+
+|Pokemon Caught |Reward         |
+|---------------|---------------|
+|600+           |*Groundium-Z*  |
+|700+           |*Blazikenite*  |
+|731            |**Poipole**    |
+
+Hell yes. One of the best Ultra Beasts is ours, before the last two gyms!
+
+Use the move relearner or tutor to teach it Dragon Pulse and give it a level, and it will evolve into **Naganadel**.
 
 ## Placeholder Badge
 
-Stub
+Well, not much else to do for now than to finally take on the seventeenth gym leader.
 
-# Appendices
+# Appendice
 
 ## Custom Pokemon Form Lookup
 
