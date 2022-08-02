@@ -11676,6 +11676,7 @@ Follow the path from here and grab the *Charizardite X* if you didn't get it ear
 Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokemon we've added to our Pokedex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokemon. Your mileage will certainly vary depending on what evolutions you've done, which Pokemon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokemon at this time. So, you'll get the following rewards:
 
 **Bee Pokedex Rewards (Part 1)**
+
 |Pokemon Caught |Reward         |
 |---------------|---------------|
 |100+           |*Galladite*    |
@@ -11884,6 +11885,8 @@ Note that the Alolan forms don't count towards the overall completion of your Po
 ## Bee's Pokedex Completion Quest Part 2
 
 Fly back over to Agate City once you've gotten all 731 Pokemon so far. Talk to Bee once more.
+
+**Bee Pokedex Rewards (Part 2)**
 
 |Pokemon Caught |Reward         |
 |---------------|---------------|
