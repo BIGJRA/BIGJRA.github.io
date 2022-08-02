@@ -11906,8 +11906,7 @@ Enter the Agate City gym and defeat the three trainers on the right side. Talk t
 
 If you talk to the guy again and say "Help", he'll battle us, then tell us what to play. Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
 
-**Rockstar Hardy. Field: Rocky Field**
-**Rockstar Hardy (2x Full Restore). Field: **
+**Rockstar Hardy (2x Full Restore). Field: Rocky Field**
 - Gigalith, Lv. 90, @Choice Band, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
     - Stomp Tantrum
     - Rock Slide
