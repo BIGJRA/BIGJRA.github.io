@@ -210,6 +210,7 @@ Heavy Work In Progress :)
     - [Other Form Lookup](#other-form-lookup)
     - [Dev Fight Form Lookup](#dev-fight-form-lookup)
   - [Wild Held Items](#wild-held-items)
+  - [Mining Item Probabilities](#mining-item-probabilities)
   - [Full Password List](#full-password-list)
     - [Monorun Passwords](#monorun-passwords)
     - [Quality of Life Passwords](#quality-of-life-passwords)
@@ -2625,65 +2626,9 @@ Make your way to the North Obsidia Ward. Here you'll see a guy selling a single 
 
 Head over to the Grand Stairway and make your way to B1F. At the top right, smash a rock, pick up a hidden *Green Shard*, then go up. In this new room you can find a hidden *PP Up*, *Exp. Candy L*, and a stationary *Exp. Candy M*. Talk to the hiker in here for a *Mining Kit*. 
 
-The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items.
+The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items. 
 
-**Mining Probabilities**
-
-|Item             |%     |
-|-----------------|------|
-|*Helix Fossil*   |1.17% |
-|*Root Fossil*    |0.78% |
-|*Claw Fossil*    |0.78% |
-|*Dome Fossil*    |0.78% |
-|*Skull Fossil*   |0.78% |
-|*Armor Fossil*   |0.78% |
-|*Sun Stone*      |1.17% |
-|*Shiny Stone*    |1.17% |
-|*Dawn Stone*     |1.17% |
-|*Ice Stone*      |1.17% |
-|*Dusk Stone*     |1.17% |
-|*Thunder Stone*  |1.17% |
-|*Fire Stone*     |1.17% |
-|*Water Stone*    |1.17% |
-|*Leaf Stone*     |1.17% |
-|*Moon Stone*     |1.17% |
-|*Oval Stone*     |1.94% |
-|*Everstone*      |1.94% |
-|*Star Piece*     |2.91% |
-|*Rare Bone*      |1.94% |
-|*Revive*         |2.91% |
-|*Max Revive*     |0.97% |
-|*Light Clay*     |1.94% |
-|*Hard Stone*     |1.94% |
-|*Heart Scale*    |16.50%|
-|*Iron Ball*      |1.94% |
-|*Odd Keystone*   |0.97% |
-|*Heat Rock*      |1.94% |
-|*Damp Rock*      |1.94% |
-|*Smooth Rock*    |1.94% |
-|*Icy Rock*       |1.94% |
-|*Amplifield Rock*|1.94% |
-|*Red Shard*      |7.77% |
-|*Green Shard*    |7.77% |
-|*Purple Shard*   |7.77% |
-|*Blue Shard*     |7.77% |
-|*Insect Plate*   |0.39% |
-|*Dread Plate*    |0.39% |
-|*Draco Plate*    |0.39% |
-|*Zap Plate*      |0.39% |
-|*Fist Plate*     |0.39% |
-|*Flame Plate*    |0.39% |
-|*Meadow Plate*   |0.39% |
-|*Earth Plate*    |0.39% |
-|*Icicle Plate*   |0.39% |
-|*Toxic Plate*    |0.39% |
-|*Mind Plate*     |0.39% |
-|*Stone Plate*    |0.39% |
-|*Sky Plate*      |0.39% |
-|*Spooky Plate*   |0.39% |
-|*Iron Plate*     |0.39% |
-|*Splash Plate*   |0.39% |
-|*Pixie Plate*    |0.39% |
+Item probabilities are listed [in the appendices](#mining-item-probabilities).
 
 We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room but of course feel free to break them as you see them.
 
@@ -12417,6 +12362,66 @@ Some wild Pokemon have a chance of holding an item when they are encountered in 
 |Jangmo-o    |                |*Razor Claw*    |                |
 |Hakamo-o    |                |*Razor Claw*    |                |
 |Kommo-o     |*Razor Claw*    |                |                |
+
+## Mining Item Probabilities
+
+The following table lists the chances of each item being generated in a mining rock:
+
+|Item             |%     |
+|-----------------|------|
+|*Helix Fossil*   |1.17% |
+|*Root Fossil*    |0.78% |
+|*Claw Fossil*    |0.78% |
+|*Dome Fossil*    |0.78% |
+|*Skull Fossil*   |0.78% |
+|*Armor Fossil*   |0.78% |
+|*Sun Stone*      |1.17% |
+|*Shiny Stone*    |1.17% |
+|*Dawn Stone*     |1.17% |
+|*Ice Stone*      |1.17% |
+|*Dusk Stone*     |1.17% |
+|*Thunder Stone*  |1.17% |
+|*Fire Stone*     |1.17% |
+|*Water Stone*    |1.17% |
+|*Leaf Stone*     |1.17% |
+|*Moon Stone*     |1.17% |
+|*Oval Stone*     |1.94% |
+|*Everstone*      |1.94% |
+|*Star Piece*     |2.91% |
+|*Rare Bone*      |1.94% |
+|*Revive*         |2.91% |
+|*Max Revive*     |0.97% |
+|*Light Clay*     |1.94% |
+|*Hard Stone*     |1.94% |
+|*Heart Scale*    |16.50%|
+|*Iron Ball*      |1.94% |
+|*Odd Keystone*   |0.97% |
+|*Heat Rock*      |1.94% |
+|*Damp Rock*      |1.94% |
+|*Smooth Rock*    |1.94% |
+|*Icy Rock*       |1.94% |
+|*Amplifield Rock*|1.94% |
+|*Red Shard*      |7.77% |
+|*Green Shard*    |7.77% |
+|*Purple Shard*   |7.77% |
+|*Blue Shard*     |7.77% |
+|*Insect Plate*   |0.39% |
+|*Dread Plate*    |0.39% |
+|*Draco Plate*    |0.39% |
+|*Zap Plate*      |0.39% |
+|*Fist Plate*     |0.39% |
+|*Flame Plate*    |0.39% |
+|*Meadow Plate*   |0.39% |
+|*Earth Plate*    |0.39% |
+|*Icicle Plate*   |0.39% |
+|*Toxic Plate*    |0.39% |
+|*Mind Plate*     |0.39% |
+|*Stone Plate*    |0.39% |
+|*Sky Plate*      |0.39% |
+|*Spooky Plate*   |0.39% |
+|*Iron Plate*     |0.39% |
+|*Splash Plate*   |0.39% |
+|*Pixie Plate*    |0.39% |
 
 ## Full Password List
 
