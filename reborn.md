@@ -9283,7 +9283,7 @@ Note that if you haven't fixed the slums yet, you won't be able to finish this q
 |Mannie     |Construction       |
 |Archer     |Silph              |
 
-For completing this quest, you'll be given a **Litten** holding a *Choice Scarf*.
+For completing this quest, you'll be given a **Litten** holding *Choice Specs*.
 
 ## Starter Egg Quest Part 1
 
