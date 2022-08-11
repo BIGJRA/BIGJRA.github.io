@@ -894,7 +894,7 @@ Grab a *Potion* in the trash can to the left and head up. A box in the upper rig
 
 To the left you'll find a Light Shard, which heals your party but disappears after. You can always leave it here for a little while until you need it more, if you'd like.
 
-If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier.
+If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokeSnax*.
 
 **Apprentice Victoria (2x Potion). Field: No Field**
 - Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
@@ -964,7 +964,7 @@ A box to the left contains *Pop Rocks*. Defeat the trainer, hop across, defeat a
 |Yungoos           |10 |
 |Meowth            |10 |
 
-Hop your way to the left, down, pick up a hidden *Potion* in a box here, then go right and pick up the *Moon Stone* here. Anyways, head up the stairs here.
+Hop your way to the left, down, pick up a hidden *Potion* in a box here, then go right and pick up the *Moon Stone*, and the hidden *Exp. Candy XS* above it in a box. Anyways, head up the stairs here.
 
 Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back down.
 
@@ -1005,7 +1005,7 @@ Back in the main basement area, go between the escalators to get a *Cotton Candy
 
 Back upstairs and in the hub, take the escalator to go up. A box on the right contains an *Awakening*. Head to the right and jump your way through this path, pick up a hidden *Exp. Candy XS* and an *Antidote* in rocks on the right side, and go down. Here you'll find an abandoned egg. When it hatches it will be **Bronzor**, **Ducklett**, or **Drowzee**, determined randomly.
 
-Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut, then head back to where Victoria was arguing with the guy earlier and talk to the trashcan to get a *PokeSnax*.
+Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut.
 
 With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden ** two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
 
