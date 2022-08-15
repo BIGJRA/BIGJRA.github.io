@@ -203,6 +203,10 @@ Heavy Work In Progress :)
   - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
   - [Geode Badge](#geode-badge)
 - [Episode 19: Pokemon Reborn](#episode-19-pokemon-reborn)
+  - [Labradorra City](#labradorra-city)
+  - [Scarborough Quest](#scarborough-quest)
+  - [LCCC Second Visit](#lccc-second-visit)
+  - [Labradorra Tournament of Booty](#labradorra-tournament-of-booty)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -10836,7 +10840,7 @@ Of course, this room also has a secret. From the pond, go clockwise around the r
 
 Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
 
-This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*.
+This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*. I think it's worth noting here that in Pokemon Reborn the exclusive Z-move Splintered Stormshards carries forward its canon effect of destroying Field Effects... including all of Reborn's custom ones. If you really find yourself in a rut of being unable to deal with an opponent's field synergy, it may be worth considering training a Lycanroc to remove it.
 
 Climb back to the previous map, this time going down the rocks to the left. You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
 
@@ -11889,7 +11893,509 @@ If you are able to dispense with Gigalith, a slow team can steamroll his frail P
 
 When you win, you'll get the Geode Badge, which boosts our level cap up to 95. You'll also get *TM80 Rock Slide*. Sweet.
 
-# Episode 19: Pokemon Reborn 
+# Episode 19: Pokemon Reborn
+
+Ok, there is no official episode title for the final chapter of the main game, so I defer to the classic: simply giving it the name of the game.
+
+Anyways, exit Hardy's gym.
+
+## Labradorra City
+
+Fly over to Calcenon City. Talk to Hardy on the west side of the city.
+
+**Relationship Point Choices**:
+- Tell Hardy you're ready to fight Meteor (+1 Hardy)
+- Tell Hardy you're not ready to fight Meteor (-1 Hardy)
+
+**Relationship Point Choices**:
+- Tell Hardy that you'll trust Bennett (+2 Bennett, +2 Laura, +1 Eve, -2 Saphira)
+- Tell Hardy that you won't trust Bennett (+2 Saphira, -2 Bennett, -1 Laura)
+
+After the conversation concludes, you'll regain control. There are more optional conversations we can have for points.
+
+**Relationship Point Choices**:
+- Talk to Charlotte in the story apartment, answering "Yes" (+1 Saphira, -1 Laura)
+- Talk to Charlotte in the story apartment, answering "No" (+1 Laura, -1 Saphira)
+- Talk to Charlotte in the story apartment, pressing 'B' to not answer (+1 Charlotte)
+
+**Relationship Point Choices**:
+- Talk to Julia in Calcenon (+1 Julia)
+
+**Relationship Point Choices**:
+- On Reshiram route only, talk to Amaria in Calcenon (-1 Julia)
+
+**Relationship Point Choices**:
+- Talk to *Cal* in *Cal*cenon City (+1 Cal)
+
+**Relationship Point Choices**:
+- Talk to Noel in Calcenon, answering "decide" (+1 Noel)
+- Talk to Noel in Calcenon, answering "feel" (-1 Noel)
+
+Anyways, once you're ready, talk to Bennett on the west side of the city to finally begin our infiltration into Labradorra City.
+  
+Grab the hidden *Health Wing*, *Potion*, and *Nugget* here. Prepare yourself for the first battle of this chapter... I wiped here on my first time! So did apparently many of the other beta testers, so don't feel too bad. 
+
+**Meteor Ace Kenan. Field: No Field**
+- Leavanny, Lv. 88, @Focus Sash, Ability: Swarm, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Leaf Storm
+    - Throat Chop
+    - Sticky Web
+    - X-Scissor
+- Golem, Lv. 88, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Explosion
+    - Earthquake
+    - Rock Slide
+    - Gyro Ball
+- Purugly, Lv. 88, @Life Orb, Ability: Thick Fat, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fake Out
+    - Sucker Punch
+    - Frustration
+    - Play Rough
+- Machamp, Lv. 89, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dynamic Punch
+    - Bullet Punch
+    - Ice Punch
+    - Rock Slide
+- Volcarona, Lv. 90, @Wiki Berry, Ability: Flame Body, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Quiver Dance
+    - Fire Blast
+    - Bug Buzz
+    - Giga Drain
+
+This battle hopefully makes it apparent thanks to universal PULSE 2 how threatening the endgame will be. Even though Kenan is just a generic Meteor Ace, expect to see fights like this going forward.
+
+Grab the hidden *Purple Shard* and continue.
+
+**Meteor Ace Diana. Field: No Field**
+- Grumpig, Lv. 87, @Kasib Berry, Ability: Thick Fat, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Shadow Ball
+    - Reflect
+    - Psychic
+    - Light Screen
+- Noctowl, Lv. 88, @Choice Specs, Ability: Tinted Lens, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moonblast
+    - Hurricane
+    - Psychic
+    - Heat Wave
+- Manectric, Lv. 88, @Life Orb, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Hidden Power
+    - Thunderbolt
+    - Thunder Wave
+    - Flamethrower
+- Salazzle, Lv. 89, @Black Sludge, Ability: Corrosion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sludge Bomb
+    - Flamethrower
+    - Nasty Plot
+    - Toxic
+- Vileplume, Lv. 89, @Black Sludge, Ability: Effect Spore, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sludge Bomb
+    - Giga Drain
+    - Sleep Powder
+    - Moonblast
+
+Defeat the next Meteor Ace and head up to watch the scene. Before we continue, head back up to the Pokemon Center. Up and to the right is a path to a hidden *Max Repel* and a now-opened building. Talking to Noel inside will get you the *PULSE Readout 10*. 
+
+**Relationship Point Choices**:
+- Get the PULSE 10 Notes before defeating this PULSE (+1 Eve)
+
+In the bottom left side of the city, a newly-opened path will lead to a building. Inside is a double battle with Victoria as a partner.
+
+**Meteor Ace Steven and Meteor Ace Avril. Field: No Field**
+- Tyranitar, Lv. 89, @Weakness Policy, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Crunch
+    - Rock Slide
+    - Stealth Rock
+    - Aqua Tail
+- Vikavolt, Lv. 89, @Choice Specs, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Bug Buzz
+    - Energy Ball
+    - Volt Switch
+    - Flash Cannon
+- Excadrill, Lv. 89, @Chople Berry, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Drill Run
+    - Rock Slide
+    - Iron Head
+    - Swords Dance
+- Mamoswine, Lv. 89, @Life Orb, Ability: Thick Fat, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Icicle Crash
+    - Stomp Tantrum
+    - Ice Shard
+    - Rock Slide
+- Mudsdale, Lv. 90, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Close Combat
+    - High Horsepower
+    - Counter
+    - Rock Slide
+- Lumineon, Lv. 89, @Sitrus Berry, Ability: Swift Swim, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Scald
+    - Tailwind
+    - Blizzard
+    - U-turn
+- Minior, Lv. 88, @White Herb, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Shell Smash
+    - Acrobatics
+    - Rock Slide
+    - Earthquake
+- Chandelure, Lv. 89, @Wise Glasses, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Shadow Ball
+    - Energy Ball
+    - Psychic
+- Golisopod, Lv. 89, @Muscle Band, Ability: Emergency Exit, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Liquidation
+    - First Impression
+    - Leech Life
+    - Brick Break
+- Gothitelle, Lv. 90, @Wise Glasses, Ability: Frisk, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psychic
+    - Dark Pulse
+    - Calm Mind
+    - Thunderbolt
+
+Head up and see who's in the back of this building.
+
+**Relationship Point Choices**:
+- Reshiram Route Only: Tell Solaris you wish him dead (+1 Victoria, -1 Cal)
+- Reshiram Route Only: Tell Solaris you don't wish him dead (+1 Cal, -1 Victoria)
+
+Head outside and go left. Grab the hidden *Full Heal*, and *Max Potion*. Fight the next Meteor.
+
+**Meteor Ace Audrey. Field: No Field**
+- Tentacruel, Lv. 88, @Black Sludge, Ability: Clear Body, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sludge Wave
+    - Hydro Pump
+    - Giga Drain
+    - Dazzling Gleam
+- Vanilluxe, Lv. 88, @Choice Specs, Ability: Ice Body, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Blizzard
+    - Signal Beam
+    - Freeze-Dry
+    - Mirror Shot
+- Corsola, Lv. 89, @Rindo Berry, Ability: Regenerator, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Recover
+    - Scald
+    - Toxic
+    - Power Gem
+- Heracross, Lv. 89, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Swords Dance
+    - Close Combat
+    - Megahorn
+    - Throat Chop
+- Marowak, Lv. 90, @Thick Club, Ability: Battle Armor, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Bonemerang
+    - Iron Head
+    - Rock Slide
+    - Throat Chop
+
+Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
+
+**Relationship Point Choices**:
+- On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
+- On Reshiram Route only, tell Amaria you don't trust her (-1 Amaria)
+
+**New World Cultist Arcturus & New World Cultist Angela. Field: No Field**
+- Lanturn, Lv. 89, @Assault Vest, Ability: Illuminate, Modest Nature, EVs: 252/252/252/252/252/252
+    - Surf
+    - Volt Switch
+    - Discharge
+    - Blizzard
+- Jolteon, Lv. 89, @Life Orb, Ability: Volt Absorb, Modest Nature, EVs: 252/252/252/252/252/252
+    - Discharge
+    - Shadow Ball
+    - Signal Beam
+    - Volt Switch
+- Vaporeon, Lv. 89, @Leftovers, Ability: Water Absorb, Modest Nature, EVs: 252/252/252/252/252/252
+    - Surf
+    - Blizzard
+    - Wish
+    - Protect
+- Drampa, Lv. 89, @Life Orb, Ability: Berserk, Modest Nature, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Blizzard
+    - Surf
+    - Hyper Voice
+- Goodra, Lv. 89, @Wide Lens, Ability: Gooey, Mild Nature, EVs: 252/252/252/252/252/252
+    - Muddy Water
+    - Blizzard
+    - Power Whip
+    - Fire Blast
+- Cacturne, Lv. 89, @Life Orb, Ability: Water Absorb, Adamant Nature, EVs: 252/252/252/252/252/252
+    - Seed Bomb
+    - Sucker Punch
+    - Swords Dance
+    - Brick Break
+- Sylveon, Lv. 89, @Leftovers, Ability: Pixilate, Bold Nature, EVs: 252/252/252/252/252/252
+    - Hyper Voice
+    - Psyshock
+    - Wish
+    - Protect
+- Florges, Lv. 89, @Leftovers, Ability: Symbiosis, Bold Nature, EVs: 252/252/252/252/252/252
+    - Synthesis
+    - Dazzling Gleam
+    - Light Screen
+    - Energy Ball
+
+After you defeat them, grab the hidden *Revive* and *Ice Heal*. Enter the nearby building. Follow the path inside.
+
+**Techie Deryl and Techie Naoman. Field: No Field**
+- Trevenant, Lv. 88, @Life Orb, Ability: Natural Cure, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Drain Punch
+    - Horn Leech
+    - Shadow Claw
+    - Rock Slide
+- Vikavolt, Lv. 89, @Choice Specs, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Energy Ball
+    - Thunderbolt
+    - Flash Cannon
+    - Bug Buzz
+- Reuniclus, Lv. 89, @Leftovers, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psychic
+    - Thunder
+    - Recover
+    - Calm Mind
+- Zoroark, Lv. 88, @Choice Scarf, Ability: Illusion, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dark Pulse
+    - Shadow Ball
+    - Focus Blast
+    - Trick
+- Grumpig, Lv. 89, @Light Clay, Ability: Thick Fat, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Shadow Ball
+    - Light Screen
+    - Focus Blast
+    - Psychic
+- Magnezone, Lv. 89, @Choice Specs, Ability: Sturdy, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Thunderbolt
+    - Flash Cannon
+    - Signal Beam
+    - Hidden Power
+
+Head up the ladder prepared for a tough battle.
+
+**Meteor Grunt Zero (2x Full Restore). Field: No Field**
+- Spiritomb, Lv. 92, @Black Glasses, Ability: Pressure, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Will-O-Wisp
+    - Pursuit
+    - Shadow Sneak
+    - Foul Play
+- Houndoom, Lv. 92, @Focus Sash, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Flamethrower
+    - Dark Pulse
+    - Nasty Plot
+    - Sludge Bomb
+- Honchkrow, Lv. 93, @Life Orb, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Superpower
+    - Brave Bird
+    - Sucker Punch
+    - Night Slash
+- Weavile, Lv. 93, @Life Orb, Ability: Pickpocket, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Knock Off
+    - Icicle Crash
+    - Ice Shard
+    - Brick Break
+- Umbreon, Lv. 94, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Wish
+    - Protect
+    - Toxic
+    - Foul Play
+- PULSE Clawitzer, Lv. 95, @Wise Glasses, Ability: Contrary, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Overheat
+    - Origin Pulse
+    - Draco Meteor
+    - Fleur Cannon
+
+No field to worry about this time, just a fantastically put together mono-dark team of five with a PULSE monstrosity hiding in the back. Defeating Luna in the Glass Gauntlet should be adequate preparation for Zero's Pokemon: by now the core of Honchkrow, Weavile, and Umbreon should be familiar. Abusing Sucker Punch timing or faster priority to prevent a Honchkrow sweep, surviving a Weavile Ice Shard to kill it with something faster, and using a bulky Steel type to counter Umbreon are good places to start with these. Spiritomb plays a similar role to Umbreon, being bulky and punishing your physical attackers, but isn't too intense and can't do much to your own physical walls. Houndoom has a sash and likes to set up but isn't too bulky, meaning you can dent it then knock it out with some priority if you are able. 
+
+PULSE Clawitzer, of course, makes this fight a bit harder - he'll always send it out last. Although you may have a Pokemon able to withstand one base 120 Special-based attack, one use of any of three of its attacks will double its special attack thanks to Contrary. Another boost will basically allow it to eradicate any Pokemon you have. With its 252 base speed, you will not be able to outspeed it under normal circumstances at all, so it basically steamrolls most teams pretty easily. Therefore, the key to defeating Clawitzer is by taking advantage of the turns you have beforehand fighting Zero's other Pokemon to proactively put yourself into a winning condition. The obvious one you may think of by now is Trick Room - even if you're trading blow for blow, two or three really strong Dragon or Fairy-type attacks will be able to knock it out, and you're basically guaranteed to go first in Trick Room, thanks to Clawitzer's insane speed stat. You can also take advantage of the first turn it is out, before it has any boosts, to suppress or change its ability: thereafter all of its moves except Origin Pulse will actually harm it, instead of helping it. Sturdy or Sash + Mirror Coat on a Pokemon with lots of HP may work too, just keep in mind it does have 252 base and max EV's in HP.
+
+Once you defeat Zero, make your way back through the previous building. You'll notice some of the screens on the walls have changed, so keep in mind what they indicate. There are two secret numbers here: one is obvious, the other, not quite as much.
+
+Back outside, talk to Taka and Solaris down from here if you are on Zekrom Route if you'd like.
+
+**Relationship Point Choices**:
+- On Zekrom Route only, talk to Taka and Solaris after PULSE Clawitzer (+2 Taka)
+
+Anyways, head to the center of the city next. After this scene, head to the bottom-left side of the city. A path to a building at the bottom will now be open. Grab the hidden *Dire Hit* and head in. Talk to Eve in here to get some information about the next PULSE battle we'll be doing if you'd like.
+
+**Relationship Point Choices:**
+- Talk to Eve about the upcoming PULSE battle (+1 Eve)
+
+## Scarborough Quest
+
+Before continuing, we can actually do one more quick quest. If you don't want to break up the current pace of the Labradorra siege you can come back to this quest, but I recommend it for some potentially helpful rewards for the next fight. Head to the building in the bottom-right side of Labradorra. Inside is a screen that we can use to enter passwords (we found these earlier). The first password is:
+
+> 2368
+
+As a reward for inputting it, we can get the *Swampertite*! Very nice tool for a rain team. The second, harder to spot password is: 
+
+> 3862
+
+For inputting this one, we'll get a Sylveon, holding a *Ribbon Collar*. 
+
+Fly over to Jasper Ward and enter the second apartment from the left, on the bottom street. Talk to the attendant here to get access to the above floors. Head all the way to the top floor to get the *Fairium-Z*. Back down on the second floor, enter Apt. 2 and talk to the Gardevoir. Next, give the ribbon collar to Lottie to get the final one: *Department Store Sticker: Eevee*! Quite a sad story but hey, a nice reward.
+
+Department Store Penthouse Shop
+
+|Item               |Price          |
+|-------------------|---------------|
+|*Eviolite*         |$20000         |
+|*Leftovers*        |$40000         |
+|*Life Orb*         |$30000         |
+|*Focus Sash*       |$20000         |
+|*Exp. Share*       |$3000          |
+|*Weakness Policy*  |$4000          |
+|*Sitrus Berry*     |$800           |
+|*Leppa Berry*      |$2000          |
+|*Reset Disc- ALL*  |$50000         |
+
+There is also a person up here who will max out a Pokemon's friendship for $5000, which is nice. 
+
+In exchange for a Fresh Water, Soda Pop, and Lemonade, a child here will give you *TM25 Thunder*, *TM14 Blizzard*, and *TM38 Fire Blast*. Sweet.
+
+In the bottom right side of the penthouse, there's a poor employee forced to battle us with a team of six Blissey, and you'll also get 20 *Exp. Candy XL* for each victory. You'll never need to grind anywhere else!
+
+## LCCC Second Visit
+
+With that quest out of the way, fly on back to Labradorra City. Make your way to a building in the bottom left corner, where you will have a brief chat with Lin. Inside the building, climb down the ladder to enter the LCCC once more.
+
+At the first fork, head up to get a hidden *Elixir* and 7 *Fairy Gems*. Back down from here, go down once you reach the next fork. Along this path you can get a hidden *Revive*, *Max Repel*, and *HP Up*. Talk to the computer here with a Data Chip in your bag to turn it on. Back in the area with the Fairy Gems, talk to the now-lit computer screen to open a door. 
+
+Back in the main hallway, proceed to the right until you come to a four-way junction. Up from here is a hidden *Oran Berry*. Follow the path down from here. By talking to the computer screens here we can follow this path into the Calcenon side of the LCCC. Up the ladder, grab the *Charizardite Y* and open a shortcut to Calcenon City.
+
+Head back down to the LCCC, this time, going right at the four-way junction. Grab the hidden *Ultra Potion* and *Friend Ball* along the path, and prepare before proceeding. Time for yet another PULSE fight...
+
+**Master Mime and Dr. Sigmund Connal. Field: Short-Circuit Field**
+- PULSE Mr. Mime, Lv. 100, @Leftovers, Ability: Wonder Guard, Careful Nature, IVs: 31, EVs: 236/0/16/0/252/0
+    - Instruct
+    - Night Shade
+    - Moonlight
+    - Entrainment
+- Aromatisse, Lv. 93, @Amplifield Rock, Ability: Aroma Veil, Modest Nature, IVs: 31, EVs: 200/0/56/252/0/0
+    - Dazzling Gleam
+    - Psychic
+    - Flash Cannon
+    - Thunder
+- Drampa, Lv. 94, @Life Orb, Ability: Berserk, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Hyper Voice
+    - Surf
+    - Heat Wave
+    - Roost
+- Raichu-Alola, Lv. 94, @Synthetic Seed, Ability: Surge Surfer, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Volt Switch
+    - Psychic
+    - Focus Blast
+    - Discharge
+- Rotom-Frost, Lv. 94, @Icium-Z, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Discharge
+    - Shadow Ball
+    - Blizzard
+    - Foul Play
+- Alakazam, Lv. 95, @Alakazite, Ability: Synchronize, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Dazzling Gleam
+    - Psychic
+    - Signal Beam
+    - Shadow Ball
+- Electivire, Lv. 95, @Life Orb, Ability: Motor Drive, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Thunder Punch
+    - Cross Chop
+    - Earthquake
+    - Ice Punch
+
+What a gut punch on a first playthrough - both in battle, and just in general! Ok, so the good news is: once the PULSE is dead, then you'll be able to 2v1 Sigmund's team. The bad news is, well, as you can see there are quite a lot of shenanigans going on here! The obvious one is that Mr. Mime has Wonder Guard and is Dark/Ghost type. Thankfully we're not in Gen 5 anymore and this means it's weak to Fairy-type moves, but just that one type - everything else will clink off of him like an Iron Sword on an Armor Knight. On top of this, it has very high defensive stats and a healing move, meaning even if you are using Fairy-moves they may not be able to easily do the job. What's more: it also has Entrainment, and will almost always use it on Sigmund's ally Pokemon when it gets a chance, meaning Aromatisse and potentially more Pokemon will also get immunity from most moves. Although Mime has no attack power of its own, it just uses Instruct, granting Sigmund's Pokemon two uses total of his various field-boosted Electric, Ghost, and Fairy moves, so you'll likely be worn down and unable to really do anything against either Pokemon on the first attempt! 
+
+In my opinion, your first priority should be taking out the PULSE at all costs. Aromatisse does hit fairly hard, but a couple Pokemon with some special bulk should be able to stick around for a few turns to help you accomplish a win condition. The next issue is actually killing Mime. You can opt for some kind of set-up move or Fake Tears / Screech + Moonblast / Play Rough or similar strategies potentially, and may be able to outpace its healing capacities and bring it down. With the Fairy Gems we picked up and more notably the Fairy Z-Crystal, you can boost these attacks to get extra damage out of them that may do the trick. It is also susceptible to status and weather, so I recommend using Toxic on Mime during the first turn, and Aromatisse the second. Keep a sizable chunk of your team alive from here, and you'll eventually watch both of your opponents perish, then you can focus on taking out the rest of Sigmund's team. Mega Alakazam is particularly threatening as are Raichu and Electivire if you're unprepared for them... but really with 2 Pokemon on your side, I'm sure you can figure something out.
+
+Once you defeat this harrowing PULSE fight, exit the LCCC back into Labradorra. In the house where we previously talked to Eve, you can get the just-a-bit-too-late *PULSE Readout 9*.
+
+Enter the building up and right from the LCCC, where we previously saw Sigmund run away from us. On the ground is a sparkling object, the *Orphanage Key*! 
+
+Flying over to the Lapis Ward, you can now access the Orphanage once again. Making your way to the top, you'll find the *Alakazite*.
+
+## Labradorra Tournament of Booty
+
+Make preparations for a sequence of battles, noting that you won't be able to leave during. Fly back to Labradorra once you're ready, and enter the large building at the top-left side of the city.
+
+After a scene explaining what we're in for, well, I just hope you're ready. Note that you can buy vending machine drinks and Common Candies here if you need to. Talk to folks around the lobby if you'd like. 
+
+**Relationship Point Choices**
+- Tell Victoria you think the tournament is wrong (+1 Victoria)
+- Tell Victoria you think the tournament is not wrong (-1 Victoria)
+
+**Relationship Point Choices**:
+- Talk to Titania again, after she tells you to leave her alone (-1 Titania)
+
+**Relationship Point Choices**:
+- Talk to Noel in the lobby (+1 Noel)
+
+Enter your open door, prepare your team, then head in for our first fight.
+
+**Snow Angel Lumi and Sunray Eve. Field: Inverse Field**
+- Ninetales-Alola, Lv. 93, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 10, EVs: 0/0/0/252/4/252
+    - Aurora Veil
+    - Protect
+    - Icy Wind
+    - Dazzling Gleam
+- Mamoswine, Lv. 93, @Choice Band, Ability: Snow Cloak, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
+    - Icicle Crash
+    - Stealth Rock
+    - Return
+    - Earthquake
+- Lapras, Lv. 94, @Magical Seed, Ability: Water Absorb, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
+    - Blizzard
+    - Hydro Pump
+    - Psychic
+    - Dragon Pulse
+- Aurorus, Lv. 94, @Choice Specs, Ability: Snow Warning, Modest Nature, IVs: 10, EVs: 0/0/0/252/4/252
+    - Blizzard
+    - Earth Power
+    - Flash Cannon
+    - Hidden Power
+- Goodra, Lv. 94, @Assault Vest, Ability: Sap Sipper, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
+    - Dragon Pulse
+    - Muddy Water
+    - Thunderbolt
+    - Focus Blast
+- Glaceon, Lv. 95, @Magical Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 0/0/252/0/4/252
+    - Blizzard
+    - Wish
+    - Hyper Voice
+    - Helping Hand
+- Porygon2, Lv. 93, @Magical Seed, Ability: Download, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
+    - Conversion
+    - Thunderbolt
+    - Tri Attack
+    - Blizzard
+- Sigilyph, Lv. 93, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
+    - Synchronoise
+    - Tailwind
+    - Protect
+    - Energy Ball
+- Alakazam, Lv. 94, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 10, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Shadow Ball
+    - Grass Knot
+    - Dazzling Gleam
+- Reuniclus, Lv. 94, @Leftovers, Ability: Magic Guard, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
+    - Protect
+    - Psyshock
+    - Shadow Ball
+    - Focus Blast
+- Metagross, Lv. 94, @Weakness Policy, Ability: Clear Body, Jolly Nature, IVs: 10, EVs: 0/252/0/0/4/252
+    - Meteor Mash
+    - Protect
+    - Zen Headbutt
+    - Return
+- Espeon, Lv. 95, @Normal Gem, Ability: Magic Bounce, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Shadow Ball
+    - Hyper Beam
+    - Grass Knot
+
+Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TM's on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
+
+Once you succeed, follow the path to the next area.
+
+**Relationship Point Choices**:
+- On Reshiram Route only, talk to Cal, when the player is male (+1 Cal)
 
 # Appendices
 
