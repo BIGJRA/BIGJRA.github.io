@@ -207,6 +207,7 @@ Heavy Work In Progress :)
   - [Scarborough Quest](#scarborough-quest)
   - [LCCC Second Visit](#lccc-second-visit)
   - [Labradorra Tournament of Booty](#labradorra-tournament-of-booty)
+  - [Treasure Badge](#treasure-badge)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -12396,6 +12397,145 @@ Once you succeed, follow the path to the next area.
 
 **Relationship Point Choices**:
 - On Reshiram Route only, talk to Cal, when the player is male (+1 Cal)
+
+Prepare and head in to the next fight. The following two fights are fought in a different order depending on your route. Anyways:
+
+If you're on Reshiram fight, this will be the first battle, on Zekrom, the second.
+
+**Reborn Cal. Field: Dragon's Den**
+- Magmortar, Lv. 93, @Elemental Seed, Ability: Flame Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Focus Blast
+    - Thunderbolt
+    - Lava Plume
+    - Blast Burn
+- Arcanine, Lv. 93, @Life Orb, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Extreme Speed
+    - Flare Blitz
+    - Close Combat
+    - Outrage
+- Camerupt, Lv. 93, @Elemental Seed, Ability: Magma Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Nature Power
+    - Lava Plume
+    - Earth Power
+    - Yawn
+- Kommo-o, Lv. 94, @Focus Sash, Ability: Bulletproof, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Close Combat
+    - Poison Jab
+    - Outrage
+- Charizard, Lv. 94, @Choice Scarf, Ability: Blaze, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fire Blast
+    - Dragon Pulse
+    - Focus Blast
+    - Air Slash
+- Medicham, Lv. 95, @Medichamite, Ability: Pure Power, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Fake Out
+    - High Jump Kick
+    - Zen Headbutt
+    - Fire Punch
+
+For our next fight with our pal Cal we get another glimpse at the Dragon's Den field, which boosts his Fire and Dragon moves and weakens your Water and Ice moves. You can still use Rock and Ground type moves to deal with his Fire types, just be careful of a Kommo-o setup and Mega Medicham. A moderately tough fight but you'll be able to figure it out!
+
+If you're on Zekrom route, you'll get this fight next, and on Reshiram route you'll get it second:
+
+**Head Instructor Florinia. Field: Glitch Field**
+- Hippowdon, Lv. 93, @Smooth Rock, Ability: Sand Stream, Impish Nature, IVs: 30, EVs: 252/252/0/0/0/4
+    - Earthquake
+    - Slack Off
+    - Stone Edge
+    - Stealth Rock
+- Torterra, Lv. 94, @Synthetic Seed, Ability: Shell Armor, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Giga Drain
+    - Leaf Storm
+    - Amnesia
+    - Nature Power
+- Ferrothorn, Lv. 94, @Assault Vest, Ability: Iron Barbs, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Explosion
+    - Hidden Power
+    - Giga Drain
+    - Nature Power
+- Sandslash, Lv. 94, @Focus Sash, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - Swords Dance
+    - Stone Edge
+    - X-Scissor
+- Tangrowth, Lv. 94, @Synthetic Seed, Ability: Regenerator, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Hidden Power
+    - Giga Drain
+    - Nature Power
+    - Rock Slide
+- Cradily, Lv. 95, @Synthetic Seed, Ability: Suction Cups, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Stockpile
+    - Giga Drain
+    - Recover
+    - Stone Edge
+
+Ah, the Glitch Field makes a return. Grass and Ground types generally have pretty good synergy with this field, and again you'll see familiar strategies here like Synthetic Seed bulk and Amnesia + Leaf Storm to ignore drops. Ferrothorn and Cradily can actually use their Special Defense as an attacking stat, so be cautious of those things. As with the Terra fight, curate a team specifically for success on Glitch, and you should be able to find a way through this one.
+
+Once you've finished both fights, make your way further into the tournament, where Saphira's gym will become open!
+
+## Treasure Badge
+
+Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, then proceed to the top of the area and talk to the chest.
+
+**Relationship Point Choices**:
+
+This conversation has tons of branches, so I made a flowchart. Note that all points here are for or against Saphira.
+
+<img src="/assets/media/reborn/saphira_points.jpg"/>
+
+Next, you'll have to defend the chest against a barrage of Pokemon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokemon will fly, and some will run at you. The Knights are slow, but have 3 Pokemon apiece, so make sure you are able to defeat them. Also, save often!
+
+Once you make it past the challengers in the gauntlet, you'll have one more:
+
+**Pokemon Gargantuan. Field: Dragon's Den**
+- Steelix-Mega, Lv. 100, @Assault Vest, Ability: Sand Force, Adamant Nature, IVs: 31, EVs: 3252/252/4/0/252/0
+    - Earthquake
+    - Dragon Tail
+    - Fire Fang
+    - Heavy Slam
+
+This guy is bulkier than normal: the 3252 EV's in HP is not a typo. A move like Endeavor can help solve that problem if you are really stuck here.
+
+Once you beat it, the path to Saphira will open. Time for our eighteenth and final gym battle!
+
+**Keeper Saphira (3x Full Restore). Field: Dragon's Den**
+- Noivern, Lv. 95, @Elemental Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Boomburst
+    - Dragon Pulse
+    - Flamethrower
+    - Defog
+- Salamence, Lv. 96, @Focus Sash, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Dragon Claw
+    - Earthquake
+    - Fire Fang
+- Garchomp, Lv. 96, @Choice Scarf, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - Dragon Claw
+    - Poison Jab
+    - Iron Head
+- Haxorus, Lv. 95, @Focus Sash, Ability: Mold Breaker, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Poison Jab
+    - Dragon Claw
+    - Earthquake
+- Charizard, Lv. 97, @Charizardite X, Ability: Blaze, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Dragon Claw
+    - Flare Blitz
+    - Earthquake
+- Dragonite, Lv. 100, @Iapapa Berry, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/64/0/0/0/192
+    - Dragon Dance
+    - Dragon Claw
+    - Fire Punch
+    - Extreme Speed
+
+Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokemon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokemon, as well. Garchomp will outspeed your team thanks to its Sash, and not a single Pokemon is a slacker that will let you easily set up on it.
+
+Of course, since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon-types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
+
+Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100! 
 
 # Appendices
 
