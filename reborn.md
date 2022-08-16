@@ -12476,7 +12476,7 @@ Once you've finished both fights, make your way further into the tournament, whe
 
 ## Treasure Badge
 
-Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, then proceed to the top of the area and talk to the chest.
+Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Heart Scale* within. Proceed to the top of the area and talk to the chest.
 
 **Relationship Point Choices**:
 
@@ -12485,6 +12485,12 @@ This conversation has tons of branches, so I made a flowchart. Note that all poi
 <img src="/assets/media/reborn/saphira_points.jpg"/>
 
 Next, you'll have to defend the chest against a barrage of Pokemon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokemon will fly, and some will run at you. The Knights are slow, but have 3 Pokemon apiece, so make sure you are able to defeat them. Also, save often!
+
+**Relationship Point Choices**:
+- Lose the chest challenge the first time (-1 Saphira)
+
+**Relationship Point Choices**:
+- Exit the gym during the chest challenge (-1 Saphira)
 
 Once you make it past the challengers in the gauntlet, you'll have one more:
 
