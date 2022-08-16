@@ -208,6 +208,8 @@ Heavy Work In Progress :)
   - [LCCC Second Visit](#lccc-second-visit)
   - [Labradorra Tournament of Booty](#labradorra-tournament-of-booty)
   - [Treasure Badge](#treasure-badge)
+  - [Escaping the Tournament](#escaping-the-tournament)
+  - [Victory Road](#victory-road)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -10152,7 +10154,7 @@ Jump down the pit at the top and go left to return to Train Town.
 
 Pokemon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
 
-If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. 
+If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. Even if you have completed this part, fly over to the Nightclub anyways, where you can pet Jolteon for the quest.
 
 Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
 
@@ -12542,6 +12544,50 @@ Saphira's team doesn't pull punches: six of the best Dragon types in the game al
 Of course, since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon-types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
 Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100! 
+
+## Escaping the Tournament
+
+Talk to Florinia back in the lobby, in the top right corner. After a long scene, Terra will delete your fonts.
+
+**M3G4 T3RR4 (3x Max Potion). Field: Glitch Field**
+- Excadrill, Lv. 96, @Life Orb, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - X-Scissor
+    - Rock Slide
+    - Swords Dance
+- Donphan, Lv. 1, @Shell Bell, Ability: Sturdy, IVs: 10
+    - Ice Shard
+    - Endeavor
+- Chansey, Lv. 96, @Eviolite, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 4/0/252/0/252/0
+    - Blizzard
+    - Thunderbolt
+    - Psychic
+    - Soft-Boiled
+- Quagsire, Lv. 97, @Synthetic Seed, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Scald
+    - Amnesia
+    - Blizzard
+    - Recover
+- Porygon-Z, Lv. 97, @Normalium-Z, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 6/0/0/252/0/252
+    - Psychic
+    - Blizzard
+    - Thunderbolt
+    - Conversion
+- Garchomp, Lv. 98, @Assault Vest, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Draco Meteor
+    - Bulldoze
+    - Stone Edge
+    - Flamethrower
+
+An epic meme team. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then, of course, is FEAR Donphan hiding in the back. You can probably find a way through this one... but the fonts are gone! Better hope you know which moveslot contains which move.
+
+Once you beat M3G4 T3RR4 once more, exit the tournament building via the path in the top left.
+
+Some routes have a scene that plays here. Either way, you can now pet Sylveon for the quest. In fact, this is the last of the Eeveelutions, so if you've pet all of them so far, you can fly over to Spinel Town and talk to a girl in the right apartment building to get a *Choice Scarf* and the password *eeveeplease*.
+
+Fly back to Victory Road. Inside the Pokemon Center, talk to an NPC who will send us on a quest. He'll give us the *Spirit Tracker*.
+
+## Victory Road
 
 # Appendices
 
