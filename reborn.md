@@ -945,7 +945,7 @@ After that's done, head down the escalator to the right. There are encounters in
 
 A long time from now you can trade Pidove away for something much better, so catch one if you like.
 
-There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak between the escalators here - pick up a hidden *Max Repel* in a rock and a *Carbos* (read: $4900) in the next room. We can't progress further here, so go back upstairs and go through the door
+There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak between the escalators here - pick up a hidden *Max Repel* in a rock and a *Carbos* (read: $4900) in the next room. We can't progress further here, so go back upstairs and go through the door.
 
 **Obsidia Slums 1F**
 
@@ -1014,7 +1014,7 @@ Back upstairs and in the hub, take the escalator to go up. A box on the right co
 
 Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut.
 
-With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden ** two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
+With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden *Repel* two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
 
 ## Coral Ward
 
@@ -1121,7 +1121,7 @@ Again we are backtracking to go through the middle path to cut a wiggly tree, th
 
 To the right, you can cut another and follow its path to a fight with a grunt. Straight down from here is a hidden *Super Potion*! Follow the path to watch a scene, but a wiggly tree then head back and up at the road. A bush past the road hides a *Green Shard*.
 
-Cut two more wiggly trees. Before we head left, we can actually sneak up past a tree to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*  
+Cut two more wiggly trees. Before we head left, we can actually sneak up past a tree to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*. 
 
 Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
 
@@ -1134,7 +1134,7 @@ Back down from here, follow the leftward path. In the second rock you'll find an
 
 This is our first battle with a PULSE! For this, and all custom Pokemon forms in this game, I provide a reference for base stats, typing, and other data [in the appendices](#custom-pokemon-form-lookup). The Field Notes app in game also has you covered, minus specific numbers. 
 
-As you can see from its stats (HP/Atk/Def/Spe/SpA/SpD) Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
+As you can see from its stats, Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
 
 Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
 
@@ -1154,7 +1154,7 @@ Once you succeed, the vines will recede and we'll be back in the park. A bush to
 
 Catch a Sentret for an in-game trade, and evolve it by raising it to Lv. 15 to get **Furret**. In the house nearby the Pokemon Center, you can trade it to get **Castform**!
 
-While we're nearby, enter the Pokemon center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
+While we're nearby, enter the Pokemon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
 
 Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
 
@@ -1327,7 +1327,7 @@ Fern can be tough to defeat now that his Budew and Rowlet have evolved. Roselia 
 
 Before we continue to the gym, now is a good time to wrap up a couple of quests and areas. 
 
-First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1125 Coins for free.
+First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1205 Coins for free.
 
 **Onyx Arcade Coin Shop**
 
@@ -1540,7 +1540,7 @@ Double back around to the path on top, defeat a grunt then chop the tree. Down f
 
 Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
 
-Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the **PULSE Readout 5B*. 
+Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*. 
 
 Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
 
@@ -1688,7 +1688,7 @@ The building to your right is a healing house, should you need it.
 
 ### Exploring the Jungle
 
-Now, regardless of your choice you should be in the same place, so I can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the file will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
+Now, regardless of your choice you should be in the same place, so I can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
 
 Head back up and go left. Here you'll see a gentleman, and in this area a hidden *Liechi Berry* and *Great Ball*. Up a hill in the top right part of this valley you can chop a wiggly tree.
 
@@ -2265,7 +2265,7 @@ Head to the nightclub up and to the right. You'll see a guy outside who you can 
 
 Head back to Lapis Ward and attempt to enter the gym. Time for another rival battle, with a new rival, that is.
 
-Volcanic Cal. Field: No Field / Rainbow Field
+**Volcanic Cal. Field: No Field / Rainbow Field**
 - Torkoal, Lv. 30, @Heat Rock, Ability: Drought, Mild Nature, IVs: 5
     - Stealth Rock
     - Fire Spin
@@ -4778,13 +4778,15 @@ Down from here, you'll find a hidden *Mental Herb* and another honey tree. Inter
 |------------------|---|------------------|---|------------------|---|
 |**Buizel**        |24 |Finneon           |70 |Remoraid          |60 |
 |Swinub            |20 |**Wishiwashi**    |30 |Clauncher         |20 |
-|Cubchoo           |14 |                  |   |Qwilfish          |20 |
+|Cubchoo           |14 |                  |   |**Qwilfish**      |20 |
 |**Floatzel**      |11 |
 |**Piloswine**     |10 |
 |Beartic           |10 |
 |Sandshrew-Alola   |5  |
 |Sandslash-Alola   |5  |
 |Delibird          |1  |
+
+Note that we will eventually want a Qwilfish for an in-game trade.
 
 Grab the hidden *Ether* and *Repel*, then make your way to the ice puzzle. Slide your way to the center, then slide left and up from the top left part of the center to get the *Icy Field Readout*. Oh, and the Icy Rock to evolve Eevee into Glaceon is here as well. Slide to the left and down to head down some stairs from here.
 
