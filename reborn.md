@@ -12591,6 +12591,104 @@ Fly back to Victory Road. Inside the Pokemon Center, talk to an NPC who will sen
 
 ## Victory Road
 
+Head into the Victory Road. 
+
+**Victory Road (Entrance & Hub Rooms)**
+
+|Cave               |%  |
+|-------------------|---|
+|Aggron             |20 |
+|Gigalith           |20 |
+|Bisharp            |10 |
+|Alakazam           |10 |
+|Exploud            |10 |
+|Rapidash           |10 |
+|Shiftry            |5  |
+|Jynx               |5  |
+|Ditto              |4  |
+|Nidoking           |4  |
+|Luxray             |1  |
+|Absol              |1  |
+
+In the first room, you can get a hidden *Hyper Potion*, *HP Up*, and *Big Nugget*. 
+
+Enter the next room at the top. You'll notice a flashing sound and animation when you walk in this room - this indicates that there are still spirits on this map that we can fight. We will do the spirit fighting itself in a bit.
+
+Head up the stairs to the right and pick up the hidden *Protein*. Talk to the map at the top of the hill to get a sneak peek on what, and who, awaits us on the right side of the room. When you're ready, push the nearby boulder onto the pressure pad. Head down the stairs, dodging Blake's Icicle Crash attacks as you go, then head to the top left of the room. Talk to the map here for another sneak peek at the rest of this large room, then enter the next room at the top. 
+
+Around the outsides of this room, you can find a hidden *Ice Gem* and *Blue Shard*. By sneaking around the bottom side of the room, you'll find the first of the spirits, who we can optionally fight. I won't post detailed strategy notes for these fights: use your knowledge of the fields and the Pokemon in your roster to grasp victory!
+
+**Wandering Spirit Diana. Field: Holy Field**
+- Rotom-Wash, Lv. 95, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
+    - Hydro Pump
+    - Thunderbolt
+    - Will-O-Wisp
+    - Hidden Power
+- Alakazam, Lv. 95, @Magical Seed, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Focus Blast
+    - Shadow Ball
+    - Energy Ball
+- Serperior, Lv. 95, @Assault Vest, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Dragon Pulse
+    - Hidden Power
+    - Knock Off
+- Weavile, Lv. 95, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Taunt
+    - Ice Punch
+    - Night Slash
+    - Low Kick
+- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Dragon Claw
+    - Extreme Speed
+    - Fire Punch
+    - Rock Slide
+- Scizor, Lv. 95, @Life Orb, Ability: Technician, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Swords Dance
+    - Bullet Punch
+    - Bug Bite
+    - Quick Attack
+
+Defeating one spirit won't appear to do much for us, but for defeating multiple, we'll be able to obtain some decent rewards later on.
+
+Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. I personally love these, though it seems some people don't. Regardless, I will be explaining my solution methods and giving hints, as well as simply listing the answers for those who don't like these kind of puzzles and just want to move on. 
+
+You could use Pen and Paper I suppose, but I prefer to be more digital. A spreadsheet works the best for me, so you can download my go-to logic puzzle spreadsheet here. 
+
+The clues this round are:
+
+1. No two crystals share the same quality.
+2. The Hardness of Ruby is 7.
+3. Ruby is larger than Amethyst, but it is not the largest.
+4. Amethyst's Purity is 'Middling.
+5. The 'Pure' gem is Medium-sized.
+6. Emerald is less pure than Ruby, but more pure than Sapphire.
+7. The smallest gem is also the softest.
+8. Sapphire's Hardness is less than Emerald's Hardness.
+9. The largest gem is the least pure.
+
+So, we can get to work. The spreadsheet can help you with this process, essentially, following a few "base rules" will get you where you want to be:
+
+1. Cross things out as soon as they are logically impossible.
+2. All the puzzles here will have rule #1 as above - this helps us out a lot, as it means we can use the process of elimination constantly.
+3. By knowing that the gem of quality A is quality X, you know that the gem of quality A is NOT anything else in the category containing X and vice versa.
+4. If a gem of quality A is quality X, a gem of quality B is quality Y, and X < Y, that automatically means A cannot be the largest in the category containing X and Y, and similarly, B cannot be the smallest in this category.
+5. In the above example, this also means you can automatically rule out the gem with quality A as Y, and the gem with quality B as X. Even when X and Y are not in the same category, this case applies.
+
+That's pretty much it - if you use these rules, the nine items above plus careful use of the spreadsheet will be enough to guarantee that you can solve these! The solution for the first puzzle:
+
+<img src="/assets/media/reborn/vr_puzzle_1.jpg"/>
+
+Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. Atk* and proceed to the next room.
+
+
+
+
+
+
+
+
 # Appendices
 
 ## Custom Pokemon Form Lookup
