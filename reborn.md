@@ -4625,7 +4625,7 @@ With that out of the way, dismount off your Tauros with 'A' and jump down the le
 |Skiddo            |10 |
 |Furfrou           |2  |
  
-You can get the *Chess Arena Field Readout* as well as hidden *Ice Gem*, *Red Shard*, *Nugget*, *Blue Shard*, *Exp. Candy XL*, *Timer Ball*, *Dusk Ball*, *Tiny Mushroom*, *Purple Shard*, *Health Wing*, *Magical Seed*, and *Quick Ball* all throughout the labyrinth. Grab the *Purple Shard* in a nearby rock then enter the castle. 
+You can get the *Chess Board Field Readout* as well as hidden *Ice Gem*, *Red Shard*, *Nugget*, *Blue Shard*, *Exp. Candy XL*, *Timer Ball*, *Dusk Ball*, *Tiny Mushroom*, *Purple Shard*, *Health Wing*, *Magical Seed*, and *Quick Ball* all throughout the labyrinth. Grab the *Purple Shard* in a nearby rock then enter the castle. 
 
 Heal and prep your team, then enter the next room. Here we can pet Umbreon for the quest, but make sure you do this now since this is a limited time petting opportunity! 
 
@@ -4634,7 +4634,7 @@ Heal and prep your team, then enter the next room. Here we can pet Umbreon for t
 
 Anyways, talk to Luna.
 
-**Pretty Boy Cain (2x Moomoo Milk). Field: Chess Field**
+**Pretty Boy Cain (2x Moomoo Milk). Field: Chess Board**
 - Muk-Alola, Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15 (Pawn)
     - Gunk Shot
     - Minimize
@@ -4666,7 +4666,7 @@ Anyways, talk to Luna.
     - Poison Jab
     - Megahorn
 
-This battle features the new Chess Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
+This battle features the new Chess Board Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
 
 Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is of course annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
 
@@ -4907,7 +4907,7 @@ Enter room 4. This is a harder one but you can use the trick from the last room 
 
 Head up and into the next room when you are ready for your gym battle.
 
-**Grandmaster Radomus (2x Ultra Potion). Field: Chess Arena**
+**Grandmaster Radomus (2x Ultra Potion). Field: Chess Board**
 - Reuniclus, Lv. 57, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: IVs: 31 (0 Speed) (Pawn)
     - Trick Room
     - Psychic
@@ -12593,6 +12593,8 @@ Fly back to Victory Road. Inside the Pokemon Center, talk to an NPC who will sen
 
 Head into the Victory Road. 
 
+### Entry Areas
+
 **Victory Road (Entrance & Hub Rooms)**
 
 |Cave               |%  |
@@ -12652,9 +12654,9 @@ Around the outsides of this room, you can find a hidden *Ice Gem* and *Blue Shar
 
 Defeating one spirit won't appear to do much for us, but for defeating multiple, we'll be able to obtain some decent rewards later on.
 
-Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. I personally love these, though it seems some people don't. Regardless, I will be explaining my solution methods and giving hints, as well as simply listing the answers for those who don't like these kind of puzzles and just want to move on. 
+Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. I personally love these, though it seems some people don't. 
 
-You could use Pen and Paper I suppose, but I prefer to be more digital. A spreadsheet works the best for me, so you can download my go-to logic puzzle spreadsheet here. 
+You could use Pen and Paper I suppose, but a spreadsheet works the best for me. You can download my go-to logic puzzle spreadsheet here. 
 
 The clues this round are:
 
@@ -12668,26 +12670,396 @@ The clues this round are:
 8. Sapphire's Hardness is less than Emerald's Hardness.
 9. The largest gem is the least pure.
 
-So, we can get to work. The spreadsheet can help you with this process, essentially, following a few "base rules" will get you where you want to be:
+So, we can get to work. The spreadsheet can help you with this process.
 
-1. Cross things out as soon as they are logically impossible.
-2. All the puzzles here will have rule #1 as above - this helps us out a lot, as it means we can use the process of elimination constantly.
-3. By knowing that the gem of quality A is quality X, you know that the gem of quality A is NOT anything else in the category containing X and vice versa.
-4. If a gem of quality A is quality X, a gem of quality B is quality Y, and X < Y, that automatically means A cannot be the largest in the category containing X and Y, and similarly, B cannot be the smallest in this category.
-5. In the above example, this also means you can automatically rule out the gem with quality A as Y, and the gem with quality B as X. Even when X and Y are not in the same category, this case applies.
+Some of these hints are straightforward, but there are a few things that might not be as obvious here:
 
-That's pretty much it - if you use these rules, the nine items above plus careful use of the spreadsheet will be enough to guarantee that you can solve these! The solution for the first puzzle:
+- From Clue 3, we notice that Ruby is larger than Amethyst, hence Ruby cannot be size 5, and Amethyst cannot be size 8. Since Ruby is not the largest, Ruby also cannot be size 8, so it is at most 7, meaning Amethyst cannot be size 7. Look for opportunities like these to rule out pairings.
+- Clues 4 and 6 can actually entirely tell us the purity of the four gems. Clues comparing three gems are very helpful.
+- Clues like 7 appear to not help us figure out which color is which property at first, but it also means you can automatically know that if Ruby is Small, then it is 5, and vice versa. On the spreadsheet, you can create a rectangle of "O"s, with a top line across the gem section at the top, and a bottom line going from the diagonal line to the final node. When you're stuck, try filling these in.
+- You'll also notice throughout that in each 4-by-4 box, if any row or column has only 1 non-X space, you can automatically fill it in with an O.
+
+Putting these steps together should get you a solution. 
+
+The solution for the first puzzle:
 
 <img src="/assets/media/reborn/vr_puzzle_1.jpg"/>
 
 Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. Atk* and proceed to the next room.
 
+Be careful, as Blake will again drop Icicles on you that can harm your Pokemon. Climb the stairs to the right and follow the path to fight another spirit.
 
+**Wandering Spirit Jonathan. Field: Big Top Arena**
+- Togekiss, Lv. 95, @Synthetic Seed, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Air Slash
+    - Dazzling Gleam
+    - Heat Wave
+    - Defog
+- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
+    - Shadow Ball
+    - Heat Wave
+    - Trick Room
+    - Hidden Power
+- Talonflame, Lv. 95, @Iapapa Berry, Ability: Gale Wings, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/4/0/0/252
+    - Brave Bird
+    - Swords Dance
+    - Flare Blitz
+    - Quick Guard
+- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
+    - Mach Punch
+    - Drain Punch
+    - Knock Off
+    - Rock Slide
+- Rotom-Wash, Lv. 95, @Wiki Berry, Ability: Levitate, Quiet Nature, IVs: 31 (0 Speed), EVs: 0/0/128/252/128/0
+    - Hydro Pump
+    - Thunderbolt
+    - Will-O-Wisp
+    - Hidden Power
+- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Relaxed Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
+    - Recover
+    - Trick Room
+    - Blizzard
+    - Thunderbolt
 
+Back down the stairs, follow the path down this time. You'll see the first railcart puzzle of this section, this one is pretty easy to get you into it.
 
+- Talk to the filled minecart at the top. It will move down and left.
+- Switch both levers.
+- Talk to the minecart again. It will go left and dump out its rocks, creating a shortcut to the start.
+- Switch the left lever, then jump in the minecart and enter the next room.
 
+**Victory Road B1F, Victory Road B2F**
 
+|Cave               |%  |
+|-------------------|---|
+|Klinklang          |20 |
+|Dusclops           |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Nidoqueen          |10 |
+|Ampharos           |10 |
+|Luxray             |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Probopass          |1  |
+|Steelix            |1  |
 
+You can check out the map in this next room if you'd like.
+
+Jump into this minecart to proceed to the main part of this room, then go right to talk to Charlotte. Head left after the conversation to grab a hidden *Revive*. Time for another minecart puzzle.
+
+- Jump into the minecart towards the bottom left of the area. Switch the lever here.
+- Jump back in the minecart. Pick up a hidden *Super Repel* and jump in the left minecart.
+- Switch this lever and jump back in the minecart.
+- Follow the path down and right, then switch this lever.
+- Jump back in the minecart, and reverse the steps until you reach the right side of the area.
+- If you'd like, cross the tracks at the gold spots on the ground, and follow the Rock Climb path for a spirit fight.
+
+**Wandering Spirit Lexi. Field: Rainbow Field**
+- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Scald
+    - Protect
+    - Encore
+    - Ice Beam
+- Lapras, Lv. 95, @Leftovers, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Waterfall
+    - Curse
+    - Avalanche
+    - Rest
+- Scizor, Lv. 95, @Focus Sash, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/100/0/0/156/0
+    - Bullet Punch
+    - Bug Bite
+    - Swords Dance
+    - Roost
+- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Quiet Nature, IVs: 31, EVs: 0/0/128/252/128/0
+    - Hurricane
+    - Superpower
+    - Thunder
+    - Roost
+- Jolteon, Lv. 95, @Choice Specs, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Thunderbolt
+    - Volt Switch
+    - Shadow Ball
+    - Hidden Power
+- Amoonguss, Lv. 95, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/176/0/80/0
+    - Spore
+    - Giga Drain
+    - Rage Powder
+    - Hidden Power
+
+Anyways,
+
+- Jump into the lower minecart to reach the next area.
+- Jump into one more new minecart and use Rock Climb.
+- You'll need to push this Strength boulder onto the pressure pad by going left, up, right, and up. Save often to ensure you aren't wasting time if you mess up. 
+- Go up through this new path, and switch the lever. Back down, jump into the top minecart.
+- Switch this lever, then jump back into this minecart.
+- Head back up above the pressure pad and switch this lever back.
+- Go down and once more jump into the top minecart.
+- Jump into the next minecart to emerge in the top area once more. Push this strength boulder up twice.
+
+If you'd like, head left between the two sets of stairs here. Follow this path to a hidden *Green Shard* and the *Tyranitarite*.
+
+- From here, we'll actually need to back track all the way to the top left corner of the room. Aside from the boulder moving, you'll need to reverse all the steps we took to get here.
+- Push the boulder left and onto the pressure pad.
+- Switch the lever in the newly opened path.
+- Jump in the nearby minecart to exit this room.
+
+We'll be back in the main room from here. Again, Blake will be trying to hit us with Icicles, so be careful. Climb down the stairs, pushing boulders aside as you go. Climb up some rocks to get a hidden *Synthetic Seed*.
+
+When you reach the section with tons of rocks, your goal will be to push the bottom right one to the right, to where the item ball containing the *Escape Rope* is. If you can do this, then you can walk down and push a rock onto a pressure pad. To do this, go down and right first, then slalom down and left, then finally go down and right again. Save beforehand to make sure you don't get stuck and have to actually use the Escape Rope!
+
+Follow the opened path downward, pushing the boulder onto the pad. Going up and around, push another boulder out of the way, then go down to the bottom left. Grab the hidden *Ultra Potion* and jump into the minecart here. Push this lever, then jump back into this minecart.
+
+Before we enter the door at the bottom, climb the rocks to the right and follow the path to another spirit.
+
+**Wandering Spirit Fezz. Field: Swamp Field**
+- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Surf
+    - Psychic
+    - Protect
+    - Icy Wind
+- Swampert, Lv. 95, @Swampertite, Ability: Torrent, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Ice Punch
+    - Waterfall
+    - Stomp Tantrum
+    - Protect
+- Ludicolo, Lv. 95, @Telluric Seed, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Surf
+    - Giga Drain
+    - Ice Beam
+    - Focus Blast
+- Aegislash, Lv. 95, @Leftovers, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Swords Dance
+    - Shadow Sneak
+    - Iron Head
+    - King's Shield
+- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Mach Punch
+    - Drain Punch
+    - Knock Off
+    - Rock Slide
+- Noivern, Lv. 95, @Telluric Seed, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Hurricane
+    - Super Fang
+    - Boomburst
+    - Taunt
+
+Head back down and enter the door at the bottom. This puts us in the higher level of the previous room. Check out the map if you want, then exit through the door at the top.
+
+### Exploding the Pillar
+
+**Victory Road 2F, Charous Mountain**
+
+|Cave               |%  |
+|-------------------|---|
+|Spiritomb          |20 |
+|Crabominable       |20 |
+|Crobat             |10 |
+|Exploud            |10 |
+|Bisharp            |10 |
+|Mawile             |10 |
+|Gallade            |5  |
+|Gigalith           |5  |
+|Ampharos           |4  |
+|Rapidash           |4  |
+|Absol              |1  |
+|Alakazam           |1  |
+
+Talk to Charlotte, then head up. You can find a hidden *Calcium* here. Check the map if you like.
+
+Go right and down from the map and follow this path. At the fork, use Blast Powder on the rock blocking the rock climb path, then follow the path all the way to a *PP All*. 
+
+Backtrack to the fork, this time going left. On the hill is a spirit.
+
+**Wandering Spirit Kamina. Field: Chess Board**
+- Alakazam, Lv. 95, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psyshock
+    - Focus Blast
+    - Shadow Ball
+    - Hidden Power
+- Honchkrow, Lv. 95, @Life Orb, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Brave Bird
+    - Superpower
+    - Sucker Punch
+    - Taunt
+- Porygon-Z, Lv. 95, @King's Rock, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Tri Attack
+    - Discharge
+    - Dark Pulse
+    - Hidden Power
+- Machamp, Lv. 95, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Stone Edge
+    - Dynamic Punch
+    - Payback
+    - Bullet Punch
+- Volcarona, Lv. 95, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Quiver Dance
+    - Heat Wave
+    - Bug Buzz
+    - Giga Drain
+- Garchomp, Lv. 95, @Choice Scarf, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - Outrage
+    - Poison Jab
+    - Iron Head
+
+Backtrack to the center of the room.
+
+Up and left from the map, you'll see another rock climb path fork. Go left first, picking up the hidden *Swift Wing* along the way. You'll see another fork as you go - go left first. Follow the path to the *Kommonium-Z*! 
+
+Back at the fork, cross the tracks. Follow the path to a hidden *Heart Scale* and another spirit.
+
+**Wandering Spirit Trevor. Field: Rainbow Field**
+- Rotom-Wash, Lv. 95, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
+    - Hydro Pump
+    - Thunderbolt
+    - Rain Dance
+    - Pain Split
+- Dragonite, Lv. 95, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Rock Slide
+    - Dragon Claw
+    - Fire Punch
+    - Extreme Speed
+- Infernape, Lv. 95, @Life Orb, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Rock Slide
+    - Close Combat
+    - Fake Out
+- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Dragon Pulse
+    - Hidden Power
+    - Sunny Day
+- Starmie, Lv. 95, @Magical Seed, Ability: Analytic, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Ice Beam
+    - Hydro Pump
+    - Thunderbolt
+    - Rapid Spin
+- Honchkrow, Lv. 95, @Life Orb, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Sucker Punch
+    - Heat Wave
+    - Brave Bird
+    - Superpower
+
+Backtrack to the center area with the map, and climb the rocks to your right. Grab the hidden *Blue Shard* and climb up to fight another spirit.
+
+**Wandering Spirit Cloud. Field: Underwater Field**
+- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Scald
+    - Toxic
+    - Haze
+    - Ice Beam
+- Tentacruel, Lv. 95, @Black Sludge, Ability: Rain Dish, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Scald
+    - Sludge Bomb
+    - Protect
+    - Rapid Spin
+- Ferrothorn, Lv. 95, @Leftovers, Ability: Iron Barbs, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
+    - Stealth Rock
+    - Power Whip
+    - Gyro Ball
+    - Leech Seed
+- Ludicolo, Lv. 95, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Surf
+    - Giga Drain
+    - Ice Beam
+    - Focus Blast
+- Kabutops, Lv. 95, @Assault Vest, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Rock Slide
+    - Stone Edge
+    - Waterfall
+    - Superpower
+- Salamence, Lv. 95, @Elemental Seed, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Rock Slide
+    - Outrage
+    - Fly
+    - Earthquake
+
+Return to the center of the room, and make your way to the right. There are four minecarts here - we will need to take all four of these, though we can do it in any order. I will start by jumping in the bottom minecart.
+
+When you land, Blake will be shooting Icicles at us once more. Start by pushing the nearby boulder up as much as it will go, then hop into the minecart. Push the boulder left and up onto the pressure pad, hop back in the minecart, switch the lever, and hop in the minecart again.
+
+In the basement, our goal will be to successfully push the minecart full of explosives into the pillar in the top right corner. To accomplish this, we'll need a straight track from the start to the pillar, since any intermediate positions will cause it to bounce back. The steps for this room are:
+
+- Push the nearby boulder up and out of the way. You can grab a hidden *Electric Gem* via the Rock Climb path. Don't jump down the ledge though, climb back down.
+- Switch the bottom lever. Go up from here and smash the rock and push the left boulder to the left.
+- Head back down to the bottom and switch the second and third levers from the bottom.
+- Go up and left, and press the top-left lever.
+- Cross the tracks to the left, go down, and follow the now-opened path to the right. Push the right boulder down twice. Switch the nearby lever.
+- Switch off the lever in the top left.
+- Following the left path, head back to the bottom of this area. Flip the bottom switch.
+- Talk to the minecart. It should explode the pillar. Switch the bottom lever once more and return to the rock climb spot. Follow the path down, around, and out - grabbing the hidden *Purple Shard* along the way.
+
+That's it for this portion - head up and return to Charlotte's room. We have to pick another minecart: I will do the left one this time.
+
+In the bottom left, you can get a hidden *Blue Shard* by Rock Climb. Don't jump down the ledge though. There is a boulder in the right side, we will need to push it onto the pressure pad at the bottom. Unfortunately the gems and rocks in the center of the room are in the way - you'll need to push it to the top left corner before it can successfully go down and onto the pressure pad. Jump into the minecart.
+
+This room has a similar puzzle to the previous, though this time the explosives can stop at intermediate points. The solution:
+
+- Switch the top left lever then push the minecart. Switch this lever back.
+- Switch the bottom left lever, then go right and switch the bottom right lever. 
+- Switch the now-opened lever in the top right, then the top middle lever.
+- Switch off the bottom left lever, then push the minecart. Switch the lever back.
+- Switch off the bottom right lever, then push the minecart. Again, switch the lever back.
+- Surprise: switch off the top right lever, then push the minecart and switch the lever back.
+- Switch both of the leftmost levers on top and push the minecart. Follow it up.
+- Switch the first lever you reach and push the cart. Repeat this for the top lever by going all the way around, and the pillar will explode once more.
+- Climb down the rocks on the left side to exit.
+
+Make your way back to Charlotte's room and choose a new minecart: I will do the one on the right.
+
+There is a substantial puzzle in Blake's Icicle hell, so be careful. The steps:
+
+- Jump in the cart and flip the nearby lever. Jump in the cart to the left.
+- Push the boulder to the right, and grab a hidden *Max Repel* up above.
+- Jump back into the minecart at the bottom. Transfer to the other minecart.
+- From here, push the filled cart. Make your way back to the top left corner.
+- Flip the nearby switch and talk to the filled cart. Use Rock Climb on the path that opens to reach the basement once more.
+
+Time for another "strength puzzle that takes way longer than it seems it should". This time, you'll need to move the boulder that starts on top into the center of the track loop. To do this, continually move it clockwise around the loop, pushing it inward whenever you can without it getting stuck. You'll need to do a lot of track-crossing to succeed. The good news is: once you get it onto the pressure pad, the explosives will ram into the pillar with a simple push. Exit in the bottom right.
+
+One more path to go down: take the top minecart in Charlotte's room.
+
+In this next room, you'll need to push both boulders to the left. The final move has to be made from the other side. Note that queueing up both boulders will prevent you from solving either. Climb down into the pit when you're ready.
+
+In this room, you'll need to load carts with rocks, dumping it to create climbing paths. The solution:
+
+- Switch the lever and jump in the cart. Fill it with rocks. Switch the lever back and push the cart down. 
+- Head down and take the cart back up. Fill it with rocks once more.
+- Switch the two levers below. Push the cart again, then follow it down and ride it back up. Fill it up!
+- Switch the bottom lever, then make your way back up to the cart. Push it down.
+- Climb down all the rocks and push the explosives into the pillar.
+
+Climb down to the left, then go up and talk to Charlotte. We have successfully destroyed the pillar!
+
+### Next Section
+
+Make your way down two rooms, to the large room where Icicles rained down. Take the cart up, then go slightly up and to the right over the rock climbs. After talking to Charlotte, go right. Grab the hidden *Purple Shard*. Enter the next cave. After seeing a conversation and avoiding Fern's arrows, enter the cave at the top.
+
+There is a hidden *Max Potion* and *Green Shard* in this room. Anyways, time for our second logic puzzle. The hints and spreadsheet from the previous puzzle should be useful here as well, note that there are more categories this time. The clues:
+
+1. No two crystals share any same quality.
+2. The second hardest gem is 'Pure'.
+3. Ruby has more Foliation than, and is larger than, Sapphire.
+4. Sapphire is more pure than Amethyst.
+5. The third hardest gem is of 'Middling' Purity.
+6. Neither Emerald nor Amethyst is either the least or most pure.
+7. The hardest gem has the most Foliation.
+8. Sapphire has less Foliation than the 'Pure' gem, which has less Foliation than Amethyst.
+9. The softest gem is the smallest one.
+10. Emerald is smaller than Ruby, which is smaller than Amethyst.
+
+The solution:
+
+<img src="/assets/media/reborn/vr_puzzle_1.jpg"/>
+
+Grab the hidden *Muscle Wing* in the bottom right corner and return to the arrow hell room. In here, you'll need to push boulders out of the way. Save often, and turning off super speed for your sanity. Note that when you reach two pressure pads, push the boulder up once, climb around, then push it down twice to proceed. Along this path you'll get a *Max Revive* and hidden *X Sp. Def* and *Ultra Potion*. 
+
+You'll need to push boulders along the path into specific places and push one more onto a pressure pad and... yeah. We trap ourselves. Thankfully we get rescued by cart! Grab the hidden *Green Shard* and enter the next room.
+
+Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another massive rail puzzle.
 
 # Appendices
 
@@ -12716,7 +13088,7 @@ Any attributes that are not listed are unchanged from the base form.
 |1      |Vine Whip      |
 |5      |Poison Powder  |   
 |10     |Astonish       |   
-|14     |Confuse Ray    |   
+|14     |Confuse Ray    |    
 |19     |Snap Trap      |   
 |23     |Hex            |   
 |28     |Giga Drain     |   
