@@ -210,6 +210,13 @@ Heavy Work In Progress :)
   - [Treasure Badge](#treasure-badge)
   - [Escaping the Tournament](#escaping-the-tournament)
   - [Victory Road](#victory-road)
+    - [Logic Puzzle 1](#logic-puzzle-1)
+    - [The First Rail Puzzles](#the-first-rail-puzzles)
+    - [Exploding the Pillar](#exploding-the-pillar)
+    - [Logic Puzzle 2](#logic-puzzle-2)
+    - [The Final Rail Puzzle](#the-final-rail-puzzle)
+    - [Introduction to the Gem Rooms](#introduction-to-the-gem-rooms)
+    - [Logic Puzzle 3](#logic-puzzle-3)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -12593,7 +12600,7 @@ Fly back to Victory Road. Inside the Pokemon Center, talk to an NPC who will sen
 
 Head into the Victory Road. 
 
-### Entry Areas
+### Logic Puzzle 1
 
 **Victory Road (Entrance & Hub Rooms)**
 
@@ -12686,6 +12693,8 @@ The solution for the first puzzle:
 <img src="/assets/media/reborn/vr_puzzle_1.jpg"/>
 
 Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. Atk* and proceed to the next room.
+
+### The First Rail Puzzles
 
 Be careful, as Blake will again drop Icicles on you that can harm your Pokemon. Climb the stairs to the right and follow the path to fight another spirit.
 
@@ -13034,7 +13043,7 @@ In this room, you'll need to load carts with rocks, dumping it to create climbin
 
 Climb down to the left, then go up and talk to Charlotte. We have successfully destroyed the pillar!
 
-### Next Section
+### Logic Puzzle 2
 
 Make your way down two rooms, to the large room where Icicles rained down. Take the cart up, then go slightly up and to the right over the rock climbs. After talking to Charlotte, go right. Grab the hidden *Purple Shard*. Enter the next cave. After seeing a conversation and avoiding Fern's arrows, enter the cave at the top.
 
@@ -13053,13 +13062,373 @@ There is a hidden *Max Potion* and *Green Shard* in this room. Anyways, time for
 
 The solution:
 
-<img src="/assets/media/reborn/vr_puzzle_1.jpg"/>
+<img src="/assets/media/reborn/vr_puzzle_2.jpg"/>
 
 Grab the hidden *Muscle Wing* in the bottom right corner and return to the arrow hell room. In here, you'll need to push boulders out of the way. Save often, and turning off super speed for your sanity. Note that when you reach two pressure pads, push the boulder up once, climb around, then push it down twice to proceed. Along this path you'll get a *Max Revive* and hidden *X Sp. Def* and *Ultra Potion*. 
 
 You'll need to push boulders along the path into specific places and push one more onto a pressure pad and... yeah. We trap ourselves. Thankfully we get rescued by cart! Grab the hidden *Green Shard* and enter the next room.
 
-Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another massive rail puzzle.
+### The Final Rail Puzzle
+
+Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another massive rail puzzle. Solution:
+
+- Jump into the railcart on the bottom. Climb the nearby rocks to get a hidden *Red Shard*.
+- There will now be three railcarts all in the same area. Jump into the middle one to reach a spirit.
+
+**Wandering Spirit Leo. Field: Chess Board**
+- Slowking, Lv. 95, @Leftovers, Ability: Regenerator, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
+    - Ice Beam
+    - Scald
+    - Trick Room
+    - Psychic
+- Staraptor, Lv. 95, @Choice Band, Ability: Reckless, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Brave Bird
+    - Double-Edge
+    - Close Combat
+    - U-turn
+- Escavalier, Lv. 95, @King's Rock, Ability: Overcoat, Adamant Nature, IVs: 31, EVs: 128/252/0/0/128/0
+    - Swords Dance
+    - Pursuit
+    - Megahorn
+    - Knock Off
+- Tangrowth, Lv. 95, @Synthetic Seed, Ability: Regenerator, Brave Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Hidden Power
+    - Brick Break
+    - Rock Slide
+    - Power Whip
+- Eelektross, Lv. 95, @Muscle Band, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/252/128/0/128/0
+    - Coil
+    - Dragon Tail
+    - Drain Punch
+    - Thunder Punch
+- Hydreigon, Lv. 95, @Choice Specs, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
+    - Earth Power
+    - Heat Wave
+    - Dark Pulse
+    - Draco Meteor
+
+Anyways, back to the puzzle.
+
+- Take this minecart back, then jump into the top minecart. Smash the nearby rock.
+- Take the minecart back up, and jump into the bottom of three minecarts. From here, jump into the other minecart, on the upper right side.
+- Grab the hidden *Red Shard*, then the hidden *PP Up* by crossing all the tracks. 
+- Back near the minecart, push the boulder down and right onto the pressure pad.
+- Take this minecart back to the right. There is a path to the left across some tracks that lead to a lever. Switch it.
+- Jump into the bottom minecart, and it will take you to another lever. Switch it.
+- Use the cart to go back down, then cross tracks to the lever to switch back the previous lever.
+- Jump into the bottom cart one more, then into the top of three minecarts. To your right is a lever - switch it.
+- Jump back into this minecart, then into the middle of three minecarts. This will take you to a pile of rocks - fill the cart, then push it.
+- Climb down the rocks and jump into the top minecart. Switch off the lever to your right. Next, go up from the boulder, and cross the long line of tracks. This will lead you to another lever - switch it.
+- Jump back in the minecart in the bottom left, then push the cart full of rocks.
+- Jump into the top minecart, then follow the path up and left from the boulder across the tracks once more. You'll now see a new climbable path - take it, then talk to the explosives.
+- Push the cart full of explosives, then push the nearby lever across some tracks. 
+- Make your way to the bottom left corner. Jump into this minecart to return to the top left corner. Talk to the filled cart to make an explosion!
+- Jump into the bottom minecart. From here, go left and up, pushing the lever here. Take the minecart again to reach the top right side of the area, where you can finally exit.
+
+### Introduction to the Gem Rooms
+
+The next room I will call the "hub" room for now. In the hub room, climb down either rock. You can get a hidden *Elemental Seed* here. Climb the rocks on the left side of this area. You can get a hidden *Max Repel*. Enter the Sapphire area.
+
+**Victory Road B3F (Sapphire)**
+
+|Cave               |%  |
+|-------------------|---|
+|Poliwrath          |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Weavile            |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+Grab the hidden *Chewing Gum*. Use the Blue Crystal Key atop the hill to create a path in the ice puzzle. Cross this and grab a hidden *Cheri Berry*. Proceed to the next room.
+
+**Victory Road B3F (Emerald)**
+
+|Cave               |%  |
+|-------------------|---|
+|Trevenant          |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Vespiquen          |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+Pick up the hidden *Green Shard* and *Cotton Candy*, then use the Green Crystal Key atop the hill. Climb up to the right and exit back into the hub room.
+
+Grab a hidden *Hyper Potion*, then use Strength to push the boulder onto the pressure pad. After this is done, make your way to the right side of the hub, grab the hidden *Red Shard*, and enter the Ruby room.
+
+**Victory Road B3F (Ruby)**
+
+|Cave               |%  |
+|-------------------|---|
+|Darmanitan         |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Dusclops           |10 |
+|Ampharos           |10 |
+|Pyroar             |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+Use the Red Crystal Key and follow the path. You can get a hidden *Zinc* on your way out.
+
+**Victory Road B3F (Amethyst)**
+
+|Cave               |%  |
+|-------------------|---|
+|Musharna           |20 |
+|Luxray             |20 |
+|Crobat             |10 |
+|Houndoom           |10 |
+|Xatu               |10 |
+|Ampharos           |10 |
+|Salazzle           |5  |
+|Arcanine           |5  |
+|Umbreon            |4  |
+|Eelektross         |4  |
+|Nidoqueen          |1  |
+|Steelix            |1  |
+
+Grab the hidden *Telluric Seed* and *Fairy Gem*, then use the Purple Crystal Key. Climb up and out to the left.
+
+Back in the hub, pick up the hidden *Swift Wing* and push the boulder into place. Climb to the center of the hub and go down through the now-opened gates. Use the levers to open some shortcuts. Follow this path to the next room.
+
+### Logic Puzzle 3
+
+We're back in the room with the massive rail puzzle - but worry not, as we don't have to do any more railing for now. Pick up the hidden *Ultra Ball*, *Heart Scale*, *Star Piece*, and *Max Elixir* as you proceed through the path and into the next room. 
+
+In here, you can get a hidden *Red Shard*. Follow the path through to the next room.
+
+After a conversation, proceed through this room. Grab a hidden *Ice Heal* as you move through this room.
+
+Enter the next room and grab the hidden *Magical Seed*. Pick up the hidden *Max Elixir* and *Purple Shard* in the rest of the room after another conversation.
+
+Oh boy, it's time for another logic puzzle - this time with five categories. Hope you're ready. 
+
+The clues:
+
+1. No two crystals share the same quality.
+2. Ruby is bigger than Sapphire.
+3. Sapphire's Purity is less than Ruby's Purity, which is less than Amethyst's Purity.
+4. Amethyst does not have 'Vitreous' Luster.
+5. Ruby is more lustrous than Amethyst, which is more lustrous than Sapphire.
+6. Amethyst is not 'Miniscule'.
+7. Ruby has less Foliation than Sapphire.
+8. The largest gem is more lustrous than the smallest gem.
+9. The gem with 'Difficult' Foliation is smaller than Emerald.
+10. Amethyst has 'Eminent' Foliation.
+11. The gems are, in order of ascending hardness: the 'Medium' gem, the 'Middling' Purity gem, the gem with the least foliation, and the 'Pearly' gem.
+12. The 'Indistinct' gem is also the least pure.
+
+The solution:
+
+<img src="/assets/media/reborn/vr_puzzle_3.jpg"/>
+
+Proceed into the next room once you're done.
+
+Grab the hidden *Elemental Seed*. At the fork, go down to grab a hidden *Calcium* and fight another spirit.
+
+**Wandering Spirit Owen. Field: Desert Field**
+- Rhyperior, Lv. 95, @Leftovers, Ability: Solid Rock, Adamant Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Stealth Rock
+    - Stone Edge
+    - Ice Punch
+    - Earthquake
+- Ninetales, Lv. 95, @Air Balloon, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Role Play
+    - Heat Wave
+    - Solar Beam
+    - Dark Pulse
+- Leafeon, Lv. 95, @Life Orb, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Synthesis
+    - Dig
+    - Return
+    - Leaf Blade
+- Chandelure, Lv. 95, @Telluric Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shadow Ball
+    - Heat Wave
+    - Overheat
+    - Energy Ball
+- Charizard, Lv. 95, @Choice Scarf, Ability: Solar Power, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Dragon Pulse
+    - Solar Beam
+    - Air Slash
+    - Heat Wave
+- Sawsbuck, Lv. 95, @Choice Band, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Return
+    - Wild Charge
+    - Jump Kick
+    - Horn Leech
+
+Head back up to the fork and go right. After a few more climbs you'll find another fork. Going straight will lead you to another spirit.
+
+**Wandering Spirit Duster. Field: Big Top Arena**
+- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Mach Punch
+    - Drain Punch
+    - Bulk Up
+    - Rock Slide
+- Slowbro, Lv. 95, @Weakness Policy, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Scald
+    - Psyshock
+    - Ice Beam
+    - Slack Off
+- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shadow Ball
+    - Heat Wave
+    - Overheat
+    - Energy Ball
+- Amoonguss, Lv. 95, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/176/0/80/0
+    - Spore
+    - Giga Drain
+    - Clear Smog
+    - Hidden Power
+- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Fire Punch
+    - Ice Punch
+    - Rock Slide
+    - Earthquake
+- Gliscor, Lv. 95, @Toxic Orb, Ability: Poison Heal, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Swords Dance
+    - Earthquake
+    - Ice Fang
+    - Protect
+
+Continue along the path from here. Grab the hidden *Max Ether* along the way. Exit the mountain.
+
+**Charous Path**
+
+|Land               |%  |
+|-------------------|---|
+|Crabominable       |20 |
+|Weavile            |20 |
+|Ninetales          |10 |
+|Drifblim           |10 |
+|Medicham           |10 |
+|Spiritomb          |10 |
+|Walrein            |5  |
+|Sableye            |5  |
+|Glaceon            |4  |
+|Jynx               |4  |
+|Nidoking           |1  |
+|Absol              |1  |
+
+Another mostly linear path. At the fork, go left to get a hidden *Ultra Potion* and fight a spirit.
+
+**Wandering Spirit Jonah. Field: Snowy Mountain**
+- Noivern, Lv. 95, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Boomburst
+    - Dragon Pulse
+    - Flamethrower
+    - Air Cutter
+- Chandelure, Lv. 95, @Magical Seed, Ability: Flame Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
+    - Shadow Ball
+    - Heat Wave
+    - Hidden Power
+    - Energy Ball
+- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Relaxed Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
+    - Recover
+    - Trick Room
+    - Blizzard
+    - Thunderbolt
+- Azumarill, Lv. 95, @Sitrus Berry, Ability: Huge Power, Brave Nature, IVs: 31 (0 Speed), EVs: 252/128/0/128/0/0
+    - Belly Drum
+    - Aqua Jet
+    - Play Rough
+    - Brick Break
+- Aegislash, Lv. 95, @Leftovers, Ability: Stance Change, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/128/0/128/0
+    - Sacred Sword
+    - King's Shield
+    - Shadow Sneak
+    - Rock Slide
+- Malamar, Lv. 95, @Fightinium-Z, Ability: Contrary, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/128/0/128/0
+    - Trick Room
+    - Night Slash
+    - Psycho Cut
+    - Superpower
+
+Back at the fork, go up and left. Grab a hidden *Ultra Ball* as you proceed. Enter the next room.
+
+### Logic Puzzle 4
+
+Grab a hidden *X Attack* in here. If you follow a path on the right side up and over the machines, you can find the *Gengarite* as well as another spirit.
+
+**Wandering Spirit Zippo. Field: Icy Field**
+- Gengar, Lv. 95, @Elemental Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Icy Wind
+    - Shadow Ball
+    - Focus Blast
+    - Thunderbolt
+- Dragonite, Lv. 95, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Earthquake
+    - Outrage
+    - Fire Punch
+    - Extreme Speed
+- Starmie, Lv. 95, @Elemental Seed, Ability: Analytic, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Surf
+    - Thunderbolt
+    - Rapid Spin
+- Jolteon, Lv. 95, @Elemental Seed, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Thunderbolt
+    - Signal Beam
+    - Shadow Ball
+    - Hidden Power
+- Weavile, Lv. 95, @Choice Band, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Night Slash
+    - Ice Shard
+    - Ice Punch
+    - Brick Break
+- Scizor, Lv. 95, @Choice Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - U-turn
+    - Bullet Punch
+    - Superpower
+    - Pursuit
+
+Head back down to the main part of the room: there is another logic puzzle waiting for us... And this one, is a doozy.
+
+The clues:
+
+1. No two crystals share any same quality.
+2. The Habit of the second hardest gem is less than the Habit of the 'Pure' gem, which is less than the Habit of the Emerald.
+3. The Purity of the 'Vitreous' gem is less than the Purity of Emerald, which is less than the Purity of the 'Pearly' gem.
+4. The Luster of the 'Miniscule' gem is less than the Luster of the 'Medium' gem, which is less than the Luster of the 'Hexagonal' gem.
+5. The Hardness of the 'Small' gem is less than the Hardness of the Amethyst, which is less than the Hardness of the 'Pure' gem.
+6. The 'Middling' Purity gem's Luster is less than the Luster of the 'Medium' gem.
+7. The Foliation of the 'Pearly' gem is less than the Foliation of the 'Vitreous' gem which is less than the Foliation of the 'Silky' gem.
+8. The Habit of the 'Silky' gem is less than the Habit of the most pure gem.
+9. The Size of the 'Impure' gem is less than the Size of the 'Perfect' Foliation gem, which is less than the Size of the Sapphire.
+10. The Foliation of Amethyst is less than the Foliation of the second hardest gem, which is less than the Foliation of the Sapphire.
+
+The solution:
+
+<img src="/assets/media/reborn/vr_puzzle_4.jpg"/>
+
+**Relationship Point Choices**:
+- Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)
+- Attempt the logic puzzle incorrectly six times, causing Radomus to solve it (-1 Radomus)
+
+Grab the hidden *Max Revive* beyond the gate.
+
+### Dropping the Stalactite
+
+
 
 # Appendices
 
