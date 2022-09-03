@@ -215,8 +215,14 @@ Heavy Work In Progress :)
     - [Exploding the Pillar](#exploding-the-pillar)
     - [Logic Puzzle 2](#logic-puzzle-2)
     - [The Final Rail Puzzle](#the-final-rail-puzzle)
-    - [Introduction to the Gem Rooms](#introduction-to-the-gem-rooms)
+    - [Introduction to the Gem Chambers](#introduction-to-the-gem-chambers)
     - [Logic Puzzle 3](#logic-puzzle-3)
+    - [Logic Puzzle 4](#logic-puzzle-4)
+    - [Dropping the Stalactite](#dropping-the-stalactite)
+    - [Fire & Ice Room](#fire--ice-room)
+    - [The Ruby Chamber](#the-ruby-chamber)
+    - [The Sapphire Chamber](#the-sapphire-chamber)
+    - [The Emerald Chamber](#the-emerald-chamber)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -13125,7 +13131,7 @@ Anyways, back to the puzzle.
 - Make your way to the bottom left corner. Jump into this minecart to return to the top left corner. Talk to the filled cart to make an explosion!
 - Jump into the bottom minecart. From here, go left and up, pushing the lever here. Take the minecart again to reach the top right side of the area, where you can finally exit.
 
-### Introduction to the Gem Rooms
+### Introduction to the Gem Chambers
 
 The next room I will call the "hub" room for now. In the hub room, climb down either rock. You can get a hidden *Elemental Seed* here. Climb the rocks on the left side of this area. You can get a hidden *Max Repel*. Enter the Sapphire area.
 
@@ -13146,7 +13152,43 @@ The next room I will call the "hub" room for now. In the hub room, climb down ei
 |Nidoqueen          |1  |
 |Steelix            |1  |
 
-Grab the hidden *Chewing Gum*. Use the Blue Crystal Key atop the hill to create a path in the ice puzzle. Cross this and grab a hidden *Cheri Berry*. Proceed to the next room.
+Grab the hidden *Chewing Gum*. You'll notice a rock climb path on the left side of the room - follow it to reach a spirit.
+
+**Wandering Spirit Savage. Field: Water Surface**
+- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Scald
+    - Protect
+    - Encore
+    - Ice Beam
+- Lapras, Lv. 95, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Waterfall
+    - Curse
+    - Avalanche
+    - Rest
+- Ludicolo, Lv. 95, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Surf
+    - Giga Drain
+    - Ice Beam
+    - Focus Blast
+- Seismitoad, Lv. 95, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Sludge Wave
+    - Earth Power
+    - Surf
+    - Focus Blast
+- Kingdra, Lv. 95, @Leftovers, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Dragon Dance
+    - Substitute
+    - Waterfall
+    - Outrage
+- Gorebyss, Lv. 95, @White Herb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Surf
+    - Ice Beam
+    - Shell Smash
+    - Hidden Power
+  
+Fun fact about this one: apparently when Savage challenged the Reborn League back in the day, Shade used a Shedinja. Look at Savage's team and tell me why you think he ended up going mad. 
+
+Use the Blue Crystal Key atop the hill to create a path in the ice puzzle. Cross this and grab a hidden *Cheri Berry*. Proceed to the next room.
 
 **Victory Road B3F (Emerald)**
 
@@ -13424,9 +13466,463 @@ The solution:
 - Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)
 - Attempt the logic puzzle incorrectly six times, causing Radomus to solve it (-1 Radomus)
 
-Grab the hidden *Max Revive* beyond the gate.
+Grab the hidden *Max Revive* beyond the gate and proceed to the next room. 
 
 ### Dropping the Stalactite
+
+Go down the path and talk to Hardy here, and the stalactite will be dropped. Back to the left, a new path will be opened up. Left and up from here, you can get a hidden *Synthetic Seed* and fight a spirit.
+
+**Wandering Spirit Quinn. Field: Inverse Field**
+- Gengar, Lv. 95, @Focus Sash, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Icy Wind
+    - Shadow Ball
+    - Focus Blast
+    - Thunderbolt
+- Sceptile, Lv. 95, @Magical Seed, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Acrobatics
+    - Leaf Blade
+    - Rock Slide
+    - Swords Dance
+- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Calm Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Toxic
+    - Thunderbolt
+    - Ice Beam
+    - Recover
+- Dragonite, Lv. 95, @Magical Seed, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Dragon Claw
+    - Dragon Dance
+    - Rock Slide
+    - Extreme Speed
+- Slowbro, Lv. 95, @Weakness Policy, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Scald
+    - Psychic
+    - Thunder Wave
+    - Slack Off
+- Infernape, Lv. 95, @Life Orb, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Rock Slide
+    - Mach Punch
+    - Fake Out
+
+Head down from here, and you'll find yourself in the left side of this large room. Down from here you can find rocks to climb to proceed to the right. Grab a hidden *Dusk Ball* here, then go down the rocks on the bottom. The cave entrance here is just a shortcut to a previous area, so go to the right instead. Pick up the hidden *Magical Seed* and fight another spirit.
+
+**Wandering Spirit Troy. Field: Mountain Field**
+- Rotom-Wash, Lv. 95, @Wiki Berry, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
+    - Hydro Pump
+    - Thunderbolt
+    - Will-O-Wisp
+    - Hidden Power
+- Dragonite, Lv. 95, @Telluric Seed, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Rock Slide
+    - Dragon Claw
+    - Fire Punch
+    - Extreme Speed
+- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Dragon Pulse
+    - Hidden Power
+    - Sunny Day
+- Scizor, Lv. 95, @Flying Gem, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Bullet Punch
+    - U-turn
+    - Superpower
+    - Acrobatics
+- Alakazam, Lv. 95, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psyshock
+    - Focus Blast
+    - Shadow Ball
+    - Hidden Power
+- Infernape, Lv. 95, @Telluric Seed, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Rock Slide
+    - Close Combat
+    - Fake Out
+
+Make your way back to the center of the room. To the right of where Fern trapped us, climb up and grab the hidden *Muscle Wing*. Exit out to Charous Path.
+
+When you reach a fork, go down the rocks to get the *Metagrossite*! Back on the main path is a hidden *Calcium*, and *PokeSnax*.
+
+At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshiram route, you'll obtain Taka's Chatot. Grab the *Purple Shard* and continue into the next room.
+
+### Fire & Ice Room
+
+**Victory Road (Last Two Rooms)**
+
+|Cave               |%  |
+|-------------------|---|
+|Aggron             |20 |
+|Bisharp            |20 |
+|Alakazam           |10 |
+|Rapidash           |10 |
+|Nidoking           |10 |
+|Luxray             |10 |
+|Shiftry            |5  |
+|Jolteon            |5  |
+|Ditto              |4  |
+|Wobbuffet          |4  |
+|Absol              |1  |
+|Snorlax            |1  |
+
+In here, grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before proceeding with the main path of Victory Road, there is one side area we can go to. On the right side of this room, you'll see a path that leads to the bottom right corner of the room, where you can fight a spirit.
+
+**Wandering Spirit King. Field: Desert Field**
+- Gengar, Lv. 95, @Telluric Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shadow Ball
+    - Thunderbolt
+    - Focus Blast
+    - Hidden Power
+- Lucario, Lv. 95, @Focus Sash, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Extreme Speed
+    - Crunch
+    - Swords Dance
+    - Close Combat
+- Weavile, Lv. 95, @Choice Band, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Pursuit
+    - Ice Shard
+    - Ice Punch
+    - Low Kick
+- Excadrill, Lv. 95, @Focus Sash, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Swords Dance
+    - Earthquake
+    - Brick Break
+    - Rock Slide
+- Tyranitar, Lv. 95, @Life Orb, Ability: Sand Stream, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Dragon Dance
+    - Crunch
+    - Earthquake
+    - Thunder Punch
+- Togekiss, Lv. 95, @Telluric Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Air Slash
+    - Aura Sphere
+    - Nasty Plot
+    - Roost
+
+Climb the nearby rocks to enter the side area.
+
+**Victory Road (Fire & Ice Room)**
+
+|Cave               |%  |
+|-------------------|---|
+|Houndoom           |20 |
+|Zoroark            |20 |
+|Gallade            |10 |
+|Glalie             |10 |
+|Arcanine           |10 |
+|Nidoqueen          |10 |
+|Weavile            |5  |
+|Altaria            |5  |
+|Ariados            |4  |
+|Magmortar          |4  |
+|Crabominable       |1  |
+|Snorlax            |1  |
+
+Grab the hidden *Burn Heal* and *Fairy Gem* in the starting area.
+
+Make your way onto the ice on the left side of the area, and loop your way all the way around to activate the Blue Crystal. Thankfully there aren't that many possible moves to make here, so I'm sure you can get this.
+
+Back on the land, head to the right side of the area and grab the three *Glitter Balls* in the right side of the area, then activate the Red Crystal.
+
+Next, proceed through the red rock and ice bridge path that is now to your right. Push the nearby strength boulder down so it is out of the way, then return to the Red Crystal and activate it again.
+
+Down and left, a new path will be opened up. Climb down onto the ice and go up to activate another Blue Crystal. Return to the left side of the room to grab the *Lucarionite* and fight another spirit.
+
+**Wandering Spirit Franz. Field: Chess Board**
+- Serperior, Lv. 95, @Light Clay, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Dragon Pulse
+    - Reflect
+    - Light Screen
+- Bisharp, Lv. 95, @Focus Sash, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Stealth Rock
+    - Dual Chop
+    - Sucker Punch
+    - Swords Dance
+- Druddigon, Lv. 95, @King's Rock, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Outrage
+    - Fire Punch
+    - Rock Slide
+    - Thunder Punch
+- Reuniclus, Lv. 95, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Trick Room
+    - Psychic
+    - Energy Ball
+    - Focus Blast
+- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Shadow Ball
+    - Heat Wave
+    - Trick Room
+    - Memento
+- Escavalier, Lv. 95, @King's Rock, Ability: Overcoat, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
+    - Swords Dance
+    - Iron Head
+    - Megahorn
+    - Pursuit
+
+With that, return to the previous room.
+
+### The Ruby Chamber
+
+Step on the panel towards the top and talk to Florinia. Heading down from here, a warp tile will appear. Take it to return to the hub room from earlier.
+
+We need to return to each of the four gem rooms we were in earlier. I will start with Ruby, in the top right corner.
+
+Use the Red Crystal Key and go up. Grab the hidden *Tiny Mushroom*. Proceed to the next room.
+
+**Victory Road B4F, Victory Road B5F (Ruby)**
+
+|Cave               |%  |
+|-------------------|---|
+|Darmanitan         |20 |
+|Pangoro            |20 |
+|Hariyama           |10 |
+|Pyroar             |10 |
+|Honchkrow          |10 |
+|Conkeldurr         |10 |
+|Hitmonlee          |5  |
+|Ariados            |5  |
+|Gliscor            |4  |
+|Flareon            |4  |
+|Zoroark            |1  |
+|Gallade            |1  |
+
+Pick up the hidden *HP Up* here. As you might expect, it's time for a larger puzzle involving the Red Crystals that move rock climb spots around.
+
+- Climb to the right and push the boulder left, out of the way. Climb back down, activate the crystal, then go right and follow the path.
+- Activate the crystal on the hill, then go right and activate the next crystal. Reset the first one so you can go left up both rocks.
+- Follow this path to the left. You'll reach another crystal: activate it. To proceed, you'll need to double back around the bottom side of the room.
+- Activate both crystals you find in the next area. Follow the path this creates, then use the left crystal to create a new path to the left. Follow it up.
+- Push the boulder out of the way here, then activate the nearby crystal. You'll have to go down and make your way back up to the area on the left like we did before. Past the boulder, there should be a new path in the top left to follow. Down from here is a spirit.
+
+**Wandering Spirit Godot. Field: Burning Field**
+- Typhlosion, Lv. 95, @Elemental Seed, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Heat Wave
+    - Hidden Power
+    - Focus Blast
+    - Eruption
+- Feraligatr, Lv. 95, @Life Orb, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Dragon Dance
+    - Waterfall
+    - Crunch
+    - Ice Fang
+- Espeon, Lv. 95, @Elemental Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Shadow Ball
+    - Hidden Power
+    - Toxic
+- Sableye, Lv. 95, @Leftovers, Ability: Prankster, Impish Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Toxic
+    - Confuse Ray
+    - Detect
+    - Taunt
+- Lucario, Lv. 95, @Elemental Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Extreme Speed
+    - Ice Punch
+    - Swords Dance
+    - Close Combat
+- Haxorus, Lv. 95, @Muscle Band, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Dual Chop
+    - Dragon Dance
+    - Earthquake
+    - Night Slash
+
+Continuing with the puzzle:
+
+- Up and left, activate another crystal. Once more, we'll have to drop down and make our way back.
+- Climb the new set of rocks, but don't go up the one to the left quite yet. Follow this path up, then activate the crystal by climbing down.
+- Back down and left, climb up as high as you can. Go down and activate the nearby crystal.
+- Make your way back to the left side of the room and go up to get 3 *Glitter Balls*!
+- Down from here and towards the center, climb down the rocks. You should now be on the upper side of a lava pool.
+- Use the two crystals here to navigate around the center of the area, grabbing a hidden *Dragon Gem* in the middle, then go right. Grab the hidden *Escape Rope*.
+- Climb down the lower rocks to push the rock onto the pressure pad, then activate the crystal. Follow the path to the right side of the area.
+- Again, you'll use two sets of two crystals each to maneuver through this area. You'll need to backtrack through the right side of the center for this part.
+- Creep along the right side as you go up, and grab a hidden *Purple Shard*. Before entering the cave, follow the path on the right side down to reach another spirit.
+
+**Wandering Spirit Allan. Field: Psychic Terrain**
+- Ninetales, Lv. 95, @Magical Seed, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Nasty Plot
+    - Substitute
+    - Flamethrower
+    - Solar Beam
+- Chandelure, Lv. 95, @Magical Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shadow Ball
+    - Heat Wave
+    - Pain Split
+    - Will-O-Wisp
+- Gardevoir, Lv. 95, @Magical Seed, Ability: Telepathy, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Calm Mind
+    - Thunderbolt
+    - Psychic
+    - Focus Blast
+- Milotic, Lv. 95, @Leftovers, Ability: Marvel Scale, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Rest
+    - Sleep Talk
+    - Dragon Tail
+    - Scald
+- Lilligant, Lv. 95, @Focus Sash, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Giga Drain
+    - Quiver Dance
+    - Sleep Powder
+    - Hidden Power
+- Mismagius, Lv. 95, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Nasty Plot
+    - Thunderbolt
+    - Shadow Ball
+    - Hidden Power
+
+I'm pretty sure this is the first fight in the game with natural Psychic Terrain. Thankfully it's not too crazy for now... just wait until the postgame........
+
+Anyways, return to the top right corner to enter B5F. Prepare for a fight.
+
+**Meteor Admin Sirius (2x Full Restore). Field: Dragon's Den**
+- Manectric, Lv. 97, @Manectite, Ability: Lightning Rod, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Volt Switch
+    - Overheat
+    - Snarl
+    - Discharge
+- Marowak-Alola, Lv. 97, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Outrage
+    - Shadow Bone
+    - Rock Slide
+    - Flare Blitz
+- Minior, Lv. 98, @White Herb, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Shell Smash
+    - Acrobatics
+    - Iron Head
+    - Rock Slide
+- Tyrantrum, Lv. 98, @Focus Sash, Ability: Rock Head, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Superpower
+    - Head Smash
+    - Dragon Claw
+    - Dragon Dance
+- Seviper, Lv. 98, @Flame Orb, Ability: Shed Skin, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sludge Bomb
+    - Giga Drain
+    - Flamethrower
+    - Sludge Wave
+- Chandelure, Lv. 100, @Elemental Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Energy Ball
+    - Psychic
+    - Shadow Ball
+
+Our final fight with this guy is a toughie, but nothing you can't handle by now. His leads employ tried-and-true double strategies in Intimidate + Lightning Rod Discharge, which can spread paralysis and prevent you from easily Earthquaking them. Tyrantrum makes amazing use of the field - as one Dragon Dance will boost it to +2, making it able to OHKO most of your Pokemon with ease. However, with good doubles strategies and/or a bit of Dragon move spam, you can surely defeat Paul from accounting.
+
+After winning, you'll be free to explore this room. Make sure you grab the 3 *Ruby Stars* before leaving, as we'll need those. Oh, and get the hidden *Big Nugget* too. Take the warp point back to the hub!
+
+### The Sapphire Chamber
+
+Use one of the three conveniently placed Light Shards if you want, and make your way to the Sapphire room in the top left. Pick up the hidden *Max Ether* and proceed.
+
+**Victory Road B4F, Victory Road B5F (Sapphire)**
+
+|Cave               |%  |
+|-------------------|---|
+|Walrein            |20 |
+|Poliwrath          |20 |
+|Slowking           |10 |
+|Jellicent          |10 |
+|Octillery          |10 |
+|Weavile            |10 |
+|Altaria            |5  |
+|Vaporeon           |5  |
+|Toxicroak          |4  |
+|Hitmonchan         |4  |
+|Carracosta         |1  |
+|Armaldo            |1  |
+
+In this room, we have to use Blue Crystals to open up spots on the ice for navigation. There's a crystal to the left: use it to make a path across the ice, then cross and climb up.
+
+Grab the hidden *Magical Seed* then enter the next ice puzzle. You'll need to first make your way to the very bottom of the ice, climb up, and activate the crystal. Before proceeding, there is a sneaky rock climb path on the right side here leading to a spirit.
+
+**Wandering Spirit Josh. Field: Big Top Arena**
+- Aerodactyl, Lv. 95, @Focus Sash, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Stealth Rock
+    - Taunt
+    - Stone Edge
+    - Earthquake
+- Espeon, Lv. 95, @Leftovers, Ability: Magic Bounce, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
+    - Psychic
+    - Calm Mind
+    - Hidden Power
+    - Wish
+- Sceptile, Lv. 95, @Synthetic Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Leaf Blade
+    - Swords Dance
+    - Dragon Claw
+    - Earthquake
+- Carracosta, Lv. 95, @White Herb, Ability: Solid Rock, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Shell Smash
+    - Stone Edge
+    - Aqua Jet
+    - Earthquake
+- Scrafty, Lv. 95, @Leftovers, Ability: Moxie, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Drain Punch
+    - Bulk Up
+    - Payback
+    - Ice Punch
+- Volcarona, Lv. 95, @Wiki Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Bug Buzz
+    - Quiver Dance
+    - Fiery Dance
+    - Hurricane
+
+Anyways, back down on the puzzle, we can now reach the top middle to activate another crystal. This lets you get to the top left and escape. 
+
+Head right, picking up the hidden *Blue Shard*. This next ice sheet is massive, so here's a step by step guide for this part:
+
+- L U L D R D R U L, activate the crystal at the top of the hill, then climb back down.
+- R D L U L U U L U L U L D R U L U L D L, activate crystal.
+- D R U R D, activate crystal.
+- Make your way back to the starting tile, U L D L U R U L U R D L U R, activate crystal.
+- Make your way back to the starting tile, U L D L U L U L U L D, activate crystal.
+- R D L L U L U R D L D R U R, climb up. Grab the hidden *Guard Spec*.
+
+Head into the next room when you're ready.
+
+**Relationship Point Choices**:
+- Tell Blake you will get in his way (-1 Blake)
+- Tell Blake you won't get in his way (+1 Blake)
+
+**Agent Blake (2x Full Restore). Field: Icy Field**
+- Starmie, Lv. 96, @Light Clay, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Surf
+    - Reflect
+    - Ice Beam
+    - Thunderbolt
+- Walrein, Lv. 97, @Leftovers, Ability: Ice Body, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Curse
+    - Yawn
+    - Waterfall
+    - Avalanche
+- Mamoswine, Lv. 97, @Elemental Seed, Ability: Snow Cloak, Adamant Nature, IVs: 25, EVs: 252/252/252/252/252/252
+    - Earthquake
+    - Knock Off
+    - Ice Shard
+    - Icicle Crash
+- Gyarados, Lv. 97, @Elemental Seed, Ability: Moxie, Adamant Nature, IVs: 25, EVs: 252/252/252/252/252/252
+    - Earthquake
+    - Stone Edge
+    - Waterfall
+    - Crunch
+- Weavile, Lv. 97, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Icicle Crash
+    - Brick Break
+    - Ice Shard
+    - Knock Off
+- Sandslash-Alola, Lv. 100, @Iapapa Berry, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Earthquake
+    - Swords Dance
+    - Icicle Crash
+    - Iron Head
+
+One more round with this guy too. Unfortunately for us, his team of Water and Ice types doesn't mess around, combining two of the best offensive types with a field effect that lets them stack speed on you, power up their attacks, neutralize Fire and Rock moves easily, and more. This time, the field isn't stacked on top of a Water Surface, so you can't burn it away. Fighting and Electric moves are generally good keys to victory for this fight, especially if you have some priority moves that help you boost your speed and Brick Break to knock out his screens.
+
+Grab the hidden *Heart Scale* and *Protein* as well as the three *Sapphire Stars*, then warp back.
+
+### The Emerald Chamber
+
+
+
 
 
 
