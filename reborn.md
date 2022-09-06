@@ -223,6 +223,9 @@ Heavy Work In Progress :)
     - [The Ruby Chamber](#the-ruby-chamber)
     - [The Sapphire Chamber](#the-sapphire-chamber)
     - [The Emerald Chamber](#the-emerald-chamber)
+    - [The Amethyst Chamber](#the-amethyst-chamber)
+    - [Victory over Victory Road](#victory-over-victory-road)
+  - [Reborn Elite Four & Champion](#reborn-elite-four--champion)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -13920,10 +13923,315 @@ Grab the hidden *Heart Scale* and *Protein* as well as the three *Sapphire Stars
 
 ### The Emerald Chamber
 
+Enter the Emerald room in the bottom left next.
 
+Grab the hidden *Max Elixir* and exit at the bottom.
 
+In this next room, pick up the hidden *Repel* and *Ultra Ball*. There is a path along the bottom that will take you to a Green Crystal: activate it.
 
+Head to the middle of the room and climb down, then activate the Green Crystal. Fern will start firing arrows at us. Once you get control, turn off speed up for your sanity, then start avoiding the arrows. If you get hit by one, it will drag you backwards, and deal damage to your team. There is a Light Shard at the bottom of the room. Since your Pokemon won't die from the arrows, might as well solve most of the puzzle before using the Shard. Oh, and there's a hidden *Genius Wing* on the left side if you have an opportunity to grab it.
 
+On the left side of the area, climb the ivy to follow the path we made earlier to a spirit.
+
+**Wandering Spirit Nate. Field: Desert Field**
+- Tyranitar, Lv. 95, @Telluric Seed, Ability: Sand Stream, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Dragon Dance
+    - Stealth Rock
+    - Earthquake
+    - Thunder Punch
+- Gengar, Lv. 95, @Life Orb, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shadow Ball
+    - Thunderbolt
+    - Destiny Bond
+    - Hidden Power
+- Lucario, Lv. 95, @Telluric Seed, Ability: Justified, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Vacuum Wave
+    - Dark Pulse
+    - Nasty Plot
+    - Aura Sphere
+- Excadrill, Lv. 95, @Telluric Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Swords Dance
+    - Earthquake
+    - X-Scissor
+    - Rock Slide
+- Garchomp, Lv. 95, @Telluric Seed, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Earthquake
+    - Dragon Claw
+    - Fire Fang
+    - Swords Dance
+- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Glare
+    - Hidden Power
+    - Dragon Tail
+
+To defeat Fern in this room:
+
+- Back down in the main area, follow the ground-level path on the left side. Push the boulder up, right, and up, onto the pressure pad.
+- Next, follow the second ground-level path from the left up, and pull the lever.
+- Climb the ivy between the paths and go up. Push the lever, then talk to the Crystal to deal the first blow to Decidueye.
+- Climb the next ivy to the right, and activate this lever.
+- Go to the third ground-level path from the left and go up. Pull the lever at its end.
+- Head over to the rightmost ground-level path, go up, and switch the lever.
+- Climb the next ivy from the left that we haven't yet climbed, and switch the lever.
+- In the bottom left side of the area, there is a boulder. You'll need to push it right and up the second from the right ground-level path.
+- This will open up the path up from the rightmost ivy. Follow it, switch the lever, and activate the crystal to deal the second blow to Decidueye.
+- Finally, the middle ivy path will be open. Follow it to the crystal and deliver the last blow to Decidueye.
+
+With that out of the way, now is a great chance to use the Light Shard! You can now take the long path up to the top of the room. Grab the hidden *Grass Gem*, then climb the rocks on the right side of the top of the room to reach another spirit.
+
+**Wandering Spirit Taro. Field: Ashen Beach**
+- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Crunch
+    - Rock Slide
+    - Earthquake
+    - Ice Punch
+- Mamoswine, Lv. 95, @Choice Band, Ability: Thick Fat, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Icicle Crash
+    - Earthquake
+    - Ice Shard
+    - Rock Slide
+- Excadrill, Lv. 95, @Telluric Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Swords Dance
+    - Earthquake
+    - X-Scissor
+    - Rock Slide
+- Cradily, Lv. 95, @Leftovers, Ability: Storm Drain, Calm Nature, IVs: 31, EVs: 0/0/4/252/252/0
+    - Stockpile
+    - Toxic
+    - Energy Ball
+    - Ancient Power
+- Omastar, Lv. 95, @Telluric Seed, Ability: Shell Armor, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shell Smash
+    - Hidden Power
+    - Ice Beam
+    - Scald
+- Golurk, Lv. 95, @Telluric Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Polish
+    - Dynamic Punch
+    - Earthquake
+    - Shadow Punch
+
+Back down the rocks, enter the door at the top.
+
+**Victory Road B5F (Emerald)**
+
+|Cave               |%  |
+|-------------------|---|
+|Crobat             |20 |
+|Trevenant          |20 |
+|Hitmontop          |10 |
+|Slaking            |10 |
+|Dhelmise           |10 |
+|Scolipede          |10 |
+|Vespiquen          |5  |
+|Swellow            |5  |
+|Leafeon            |4  |
+|Galvantula         |4  |
+|Golisopod          |1  |
+|Electivire         |1  |
+
+Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and of course the 3 *Emerald Stars*. You can also find one more spirit by climbing a hill in the middle and using the Green Crystal Key.
+
+**Wandering Spirit Tenshi. Field: Grassy Terrain**
+- Metagross, Lv. 95, @Assault Vest, Ability: Clear Body, Brave Nature, IVs: 31, EVs: 0/252/4/0/252/0
+    - Meteor Mash
+    - Bullet Punch
+    - Grass Knot
+    - Psychic
+- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Leaf Storm
+    - Hidden Power
+    - Leech Seed
+    - Substitute
+- Jolteon, Lv. 95, @Choice Specs, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Thunderbolt
+    - Volt Switch
+    - Shadow Ball
+    - Hidden Power
+- Haxorus, Lv. 95, @Elemental Seed, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Outrage
+    - Dragon Dance
+    - Earthquake
+    - Brick Break
+- Ninetales, Lv. 95, @Life Orb, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Solar Beam
+    - Hypnosis
+    - Flamethrower
+    - Psyshock
+- Salamence, Lv. 95, @Elemental Seed, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Dragon Claw
+    - Earthquake
+    - Flamethrower
+
+Use the warp tile to return to the hub room.
+
+### The Amethyst Chamber
+
+Finally, head over to the Amethyst room in the bottom right corner. Pickup the hidden *Max Ether* and proceed into the room at the bottom.
+
+Grab the hidden *Calcium* near the start, then prepare yourself for what's to come! Basically, you'll need to dodge the void, which aims for you. Getting hit by it will send you back to the start, unfortunately. To proceed in each area, look for the Purple Crystal and get the void to land on top of it.
+
+More tips: don't use repels, since the "another?" message will actually cause you to be a sitting duck for the void. Create straight lines for the void to follow onto the crystals to make it more predictable. Finally, save often!
+
+Once you exit the room at the bottom successfully, you can return to the previous room, where you will no longer be chased. In here we can find a hidden *Protein* and *Carbos*.
+
+In the bottom left side of the room, we can access a path that takes us up some rocks and to a spirit.
+
+**Wandering Spirit Ikaru. Field: Psychic Terrain**
+- Bronzong, Lv. 95, @Leftovers, Ability: Levitate, Sassy Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Stealth Rock
+    - Toxic
+    - Gyro Ball
+    - Light Screen
+- Alakazam, Lv. 95, @Magical Seed, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Focus Blast
+    - Shadow Ball
+    - Energy Ball
+- Weavile, Lv. 95, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Aerial Ace
+    - Ice Punch
+    - Night Slash
+    - Low Kick
+- Mismagius, Lv. 95, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Nasty Plot
+    - Thunderbolt
+    - Shadow Ball
+    - Hidden Power
+- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Dragon Dance
+    - Dragon Claw
+    - Fire Punch
+    - Roost
+- Carracosta, Lv. 95, @White Herb, Ability: Sturdy, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Shell Smash
+    - Stone Edge
+    - Waterfall
+    - Earthquake
+
+Once you're done, enter the room at the bottom right. 
+
+**Victory Road B5F (Amethyst)**
+
+|Cave               |%  |
+|-------------------|---|
+|Musharna           |20 |
+|Mismagius          |20 |
+|Cofagrigus         |10 |
+|Clefable           |10 |
+|Salazzle           |10 |
+|Dragalge           |10 |
+|Golurk             |5  |
+|Sableye            |5  |
+|Xatu               |4  |
+|Espeon             |4  |
+|Tsareena           |1  |
+|Houndoom           |1  |
+
+Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and of course the 3 *Amethyst Stars*. Return to the hub room.
+
+### Victory over Victory Road
+
+Take the warp back to Florinia. You'll need to place 7 of the 12 stars into the slots, then step on the tile above. On the left side, you'll see gems light up gold corresponding to the number of correct stars you've picked. On the right, you'll see gems light up silver corresponding to the correct orientation of the gems.
+
+And... it's actually random what the correct answer is per save file, so I can't just give you the solution this time.
+
+Solving this thankfully isn't too bad (especially compared to the last Logic Puzzle we did...) since we have infinite tries. What I like to do is place all 3 Ruby Stars in, and see how many light up. Take away all but that number of Ruby Stars, then move them around until the right side lights up with the same number. Repeat this for Sapphire Stars next, knowing that the Ruby gems are correct. Emerald can then assume Ruby and Sapphire are correct... so it's pretty simple from here. Soon you'll be done!
+
+Enter the next room and pick up the hidden *Full Heal*. Once you're ready for a tough fight, head up and right.
+
+**Swag Jockey Fern. Field: Crystal Cavern**
+- Rhyperior, Lv. 100, @Iapapa Berry, Ability: Solid Rock, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Drill Run
+    - Rock Tomb
+    - Stealth Rock
+    - Rock Polish
+- Haxorus, Lv. 100, @Focus Sash, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dragon Dance
+    - Outrage
+    - Rock Tomb
+    - Poison Jab
+- Scizor, Lv. 100, @Scizorite, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Bullet Punch
+    - Bug Bite
+    - Swords Dance
+    - Roost
+- Serperior, Lv. 100, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Leaf Storm
+    - Nature Power
+    - Dragon Pulse
+    - Hidden Power
+- Krookodile, Lv. 100, @Choice Scarf, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Outrage
+    - Knock Off
+    - Rock Tomb
+    - Earthquake
+- Decidueye, Lv. 100, @Decidium-Z, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Spirit Shackle
+    - Shadow Sneak
+    - Swords Dance
+    - Leaf Blade
+
+One more round with our favorite Swag Jockey. His team is pimped out for maximal pain on the field, which... aside from an early game Aster & Eclipse fight and Ditto-Arceus, we haven't gotten to fight any significant trainers on. Three of his Pokemon have Rock Tomb, which gets a 2.25x power boost here and alternate hitting with Fire, Water, Grass, then Psychic sub-typing, cyclically. Any Pokemon's use of a Rock move, Multi-Attack, Strength, or Rock Climb will cause the sub-typing to move to the next, in fact. Dragon moves are also boosted here, so Haxorus (perhaps after a Dragon Dance), Krookodile (who will outspeed with its Scarf) and Serperior (perhaps after a Contrary Leaf Storm) will tear through you with theirs. Rhyperior's Rock Polish actually also boosts both attacking stats on this field, so if you can't take it out in the first turn, it might sweep you. It's also worth noting that Krookodile's Earthquake will turn the field to a Cave, where this move can now hit Flying-type Pokemon you were hoping to switch in on it. Oh, and he has a Bullet Punch machine in Mega Scizor and a Z-Move 'roided Decidueye with priority.
+
+By now, I know you can win this one! Aside from a generally well-built team, Pokemon that make careful use of the moves I mentioned earlier to gain beneficial sub-typings and ruin Fern's sub-typings can be useful here. Dragon types can fairly easily sweep here if you can get some momentum and Stealth Rocks going, as well. Transform it into the Dark Crystal Cavern or Cave if you like those options better.
+
+Once you win, proceed to the right. Before we leave though, there is one last spirit that we can fight - hug the bottom wall as you go right to reach them. Grab the hidden *Ultra Potion* while you're here. 
+
+**Wandering Spirit Saya. Field: Glitch Field**
+- Gengar, Lv. 95, @Synthetic Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Thunderbolt
+    - Energy Ball
+    - Hidden Power
+- Empoleon, Lv. 95, @Life Orb, Ability: Torrent, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Aqua Jet
+    - Scald
+    - Blizzard
+    - Grass Knot
+- Ditto, Lv. 95, @Choice Scarf, Ability: Imposter, Modest Nature, IVs: 31, EVs: 252/0/0/0/0/0
+    - Transform
+- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Psychic
+    - Heat Wave
+    - Hidden Power
+    - Energy Ball
+- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Earthquake
+    - Stone Edge
+    - Superpower
+    - Crunch
+- Haxorus, Lv. 95, @Muscle Band, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Poison Jab
+    - Dragon Dance
+    - Earthquake
+    - Brick Break
+
+Make your way to the exit, grabbing the final hidden item of Victory Road... a *Blue Shard*. Exciting.
+
+In the outside area in which you emerge, hug the bottom wall to pick up the *New World Field Readout*. Study up!
+
+Head into the Pokemon Center up and to the right, and talk to the girl behind the counter to learn a bit about Reborn's Elite Four. 
+
+Before we do that, however, fly on over to the other side of Victory Road, just north of Labradorra. If you've been fighting the spirits, we can get rewards for doing so! Talk to Azer.
+
+|Reward                                             |Number of Spirits Collected    |
+|---------------------------------------------------|-------------------------------|
+|*Choice Specs*, *Steelium-Z*                       |5+                             |
+|*Choice Band*, *Flyinium-Z*                        |10+                            |
+|*Choice Scarf*, *Fightinium-Z*                     |15+                            |
+|*Assault Vest*, *Focus Sash*                       |20+                            |
+|*Catching Charm: Emerald*, *Life Orb*, *Leftovers* |25                             |
+    
+You'll also get the *Exp. All* for catching all the spirits if you haven't obtained it yet.
+
+With that taken care of... that's really it. Every Pokemon, Mega Stone, Z-Crystal, hold item, TM... aside from those that relate to Legendary Pokemon, we now have 'em all. Nothing else is holding us back from finally doing this thing. Fly on back to Charous Mountain in the top right corner of the region and prepare yourself as best you can for what's to come.
+
+## Reborn Elite Four & Champion
+
+Coming soon!
 
 # Appendices
 
