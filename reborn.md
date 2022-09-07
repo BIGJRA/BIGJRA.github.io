@@ -13067,7 +13067,8 @@ Climb down to the left, then go up and talk to Charlotte. We have successfully d
 
 Make your way down two rooms, to the large room where Icicles rained down. Take the cart up, then go slightly up and to the right over the rock climbs. After talking to Charlotte, go right. Grab the hidden *Purple Shard*. Enter the next cave. After seeing a conversation and avoiding Fern's arrows, enter the cave at the top.
 
-There is a hidden *Max Potion* and *Green Shard* in this room. Anyways, time for our second logic puzzle. The hints and spreadsheet from the previous puzzle should be useful here as well, note that there are more categories this time. The clues:
+There is a hidden *Max Potion* and *Green Shard* in this room. Anyways, time for our second logic puzzle. The hints and <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a> from the previous puzzle should be useful here as well, note that there are more categories this time. 
+The clues:
 
 1. No two crystals share any same quality.
 2. The second hardest gem is 'Pure'.
@@ -13275,7 +13276,7 @@ After a conversation, proceed through this room. Grab a hidden *Ice Heal* as you
 
 Enter the next room and grab the hidden *Magical Seed*. Pick up the hidden *Max Elixir* and *Purple Shard* in the rest of the room after another conversation.
 
-Oh boy, it's time for another logic puzzle - this time with five categories. Hope you're ready. 
+Oh boy, it's time for another logic puzzle - this time with five categories. Download the <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a> if you'd like. Hope you're ready. 
 
 The clues:
 
@@ -13457,7 +13458,7 @@ Grab a hidden *X Attack* in here. If you follow a path on the right side up and 
     - Superpower
     - Pursuit
 
-Head back down to the main part of the room: there is another logic puzzle waiting for us... And this one, is a doozy.
+Head back down to the main part of the room: there is another logic puzzle waiting for us... And this one, is a doozy. If you have managed to avoid using the <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a> by now, I recommend it.
 
 The clues:
 
