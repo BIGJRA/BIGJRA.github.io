@@ -14499,7 +14499,7 @@ If you have missed at least one of these requirements, you will have the followi
     - Draco Meteor
     - Throat Chop
     - Roost
-- *Missing 1+ Requirement* PULSE Arceus, Lv. 100, @Life Orb, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+- *Missing 1+ Requirement:* PULSE Arceus, Lv. 100, @Life Orb, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Moonlight
     - Judgment
     - Doom Desire
