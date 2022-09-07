@@ -12604,9 +12604,19 @@ Some routes have a scene that plays here. Either way, you can now pet Sylveon fo
 
 Fly back to Victory Road. Inside the Pokemon Center, talk to an NPC who will send us on a quest. He'll give us the *Spirit Tracker*.
 
+Before we enter Victory Road, there's actually one more tutor that we now have access to. Fly over to the Grand Hall and talk to the guy to your right.
+
+Move Tutor Lykos
+
+|Move           |Price      |
+|---------------|-----------|
+|Celebrate      |Free       | 
+
+Fun fact: this NPC was put in the game in honor of forum user LykosHand, who frequently wishes users a happy birthday! I have probably received 5 or 6 of these messages to date; they always make me celebrate. Thanks, Lykos.
+
 ## Victory Road
 
-Head into the Victory Road. 
+Fly on back, and head into the Victory Road. 
 
 ### Logic Puzzle 1
 
@@ -14231,7 +14241,307 @@ With that taken care of... that's really it. Every Pokemon, Mega Stone, Z-Crysta
 
 ## Reborn Elite Four & Champion
 
-Coming soon!
+Enter the Charous Hall, to the right of the Pokemon Center. Reminisce on the eighteen gyms you've beaten as you head up! Once you pass into the door at the top, you'll be unable to return, so make sure you're ready.
+
+**Elite Four Wind Maiden Heather (2x Full Restore). Field: Mountain Field**
+- Crobat, Lv. 100, @Focus Sash, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - U-turn
+    - Tailwind
+    - Brave Bird
+    - Cross Poison
+- Nidoking, Lv. 100, @Life Orb, Ability: Sheer Force, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Thunder
+    - Earth Power
+    - Rock Slide
+    - Sludge Wave
+- Gyarados, Lv. 100, @Flyinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Bounce
+    - Earthquake
+    - Waterfall
+    - Stone Edge
+- Archeops, Lv. 100, @Flying Gem, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Tailwind
+    - Stone Edge
+    - Acrobatics
+    - Earthquake
+- Gengar, Lv. 100, @Life Orb, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Thunder
+    - Ominous Wind
+    - Icy Wind
+    - Sludge Bomb
+- Salamence, Lv. 100, @Salamencite, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Stone Edge
+    - Roost
+    - Return
+    - Earthquake
+
+Do you remember when we fought Corey, obtained the Silver Ring, and later found five of his six Pokemon? Now we know where his Crobat went. Fittingly, Heather uses Flying and Poison type Pokemon.
+
+On this field, Tailwind lasts for five turns and sets up Strong Winds. Crobat's speed and its Sash means you're not going to be able to easily steamroll with Ice, Electric, and Rock-type moves once it gets off Tailwind. Archeops, another fast Pokemon, also has this move for support. Flying moves and Rock moves are all boosted here, meaning Crobat, Archeops, Gyarados with its Z-Crystal, and Salamence will all hit like trucks. Additionally, her Gengar's Icy Wind and Ominous Wind are boosted by 1.5x on this field, then again by 1.5x whenever Strong Winds are present. Oh, and Thunder never misses. A very tough optimized fight, but nothing too unexpected for Reborn's Elite Four.
+
+It's hard to recommend changing up your team specifically for this fight, because you have to bring the same team through the entire Elite Four. Still, if you are stuck on this fight, there are a lot of things you can use. For example, while Strong Winds do neutralize Flying-type weaknesses, you can use the Thunder, Icy Wind, Hyper Voice, and Rock move boosts yourself to narrow the gap. Especially once Crobat and Archeops are down, that may be the way to victory. Trick Room will also help you turn Tailwind on its head if need be, where a Pokemon like Decidueye with a 1.5x attack boost from Long Reach may be able to sweep. You can also use your own Flying types to deal massive damage: Talonflame's Gale Wings is always on while Strong Winds are on, for example. Alternatively, you could consider switching the field to Snowy Mountain via the Blizzard TM if you want to use Ice moves more effectively.
+
+Once you win, you'll get the *Ruby Ring*. Proceed to the next room.
+
+**Elite Four Tag Team Bennett & Laura (2x Full Restore). Field: Flower Garden**
+- Galvantula, Lv. 100, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Sticky Web
+    - Bug Buzz
+    - Thunder
+    - Electroweb
+- Whimsicott, Lv. 100, @Synthetic Seed, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Giga Drain
+    - Hurricane
+    - Nature Power
+- Venusaur, Lv. 100, @Grassium-Z, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nature Power
+    - Sleep Powder
+    - Hidden Power
+    - Giga Drain
+- Leavanny, Lv. 100, @Synthetic Seed, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Leaf Blade
+    - Fell Stinger
+    - Knock Off
+    - Poison Jab
+- Volcarona, Lv. 100, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fiery Dance
+    - Hurricane
+    - Bug Buzz
+    - Quiver Dance
+- Lilligant, Lv. 100, @Synthetic Seed, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Sleep Powder
+    - Giga Drain
+    - Growth
+    - Hidden Power
+
+Good news: it's not a 12v6. Bad news: Bennett and Laura use Bug and Grass types on the most broken field effect in the game that we haven't yet seen even once: Flower Garden, with natural Rain to boot. Flower Garden has 5 stages, each stage essentially being more beneficial for their team than the last. It starts at Stage 1, but the Synthetic Seeds on the leads will automatically bump it up to Stage 3. With three more seeds in the back, Venusaur's Bloom Doom, Lilligant's Growth, and three users of Nature Power which becomes Growth, the field will stage up for each. Swarm will always be on, boosting Volcarona and Galvantula's Bug Buzz, and gets an additional boost on Stages 3 and 5. If used at Stage 1 or 3, Growth will get powered up, so watch out for that. Grass moves get increasingly powerful as the stage increases, and Bug moves have boosts specifically on Stages 2 and 4. The five Synthetic Seeds also boost Special Defense and grant Ingrain, which is four times as powerful on Stage 4 specifically. Oh, and in Stages 4 and 5, Chlorophyll will always be on, meaning half of their Pokemon will consistently outspeed and destroy your team with their field-boosted moves. Lots to try to remember even though you can't access the field notes during the fight.
+
+One thing to consider is just using the field yourself. If you can spare a party slot or two, you can bring a few Pokemon optimized for Stage 5 Flower Field and go off. Bennett and Laura only take advantage of maybe half of the boosts this field provides, so you can try to just overwhelm them yourself if you want. For example, Sweet Scent at Stage 5 lowers Eva, Def, and SpD by 3 stages each, so using this move with something fast can set up your other Pokemon for easy knockouts. Flower Shield and Flower Veil grant massive defense boosts to your Pokemon and Grass type allies, meaning you can just out-tank your Grass-type opponents by targeting the Bug-types first. Infestation does a massive 1/3 HP each turn, so if you can get this move out and wait out a few turns, you can easily clean up that way. Nature Power is Growth up until Stage 5, when it becomes Petal Blizzard, meaning this move will allow your Pokemon to set up and sweep all in one! You can also use your own offensive Bug moves - fighting Swarm users with Swarm users may be smart, or you can carefully keep the field at Stage 4 in order to benefit from those boosts.
+
+Or, you can try to fight the Flower Field directly. Cut gets a 1.5x boost and deals an additional 2x damage to Grass types, meaning it can effectively hit with 150 Power against the Grass types. Cut and X-Scissor cut down the stage by one, meaning once all the seeds are exhausted, you may be able to keep the Stage relatively low. Using the Poisonium-Z to fire off a Acid Downpour will instantly take the field back to Stage 1. With good timing this will allow you to halt their momentum and hopefully get some of your own going. 
+
+Perhaps you could just change the field altogether: Sun will turn the field into the Rainbow Field for a little while, so you can try to devise a strategy involving that field if you want. What's better though is Burning Field. The Rain will stop you from turning the field to Burning Field, as would Sand. It's a bit tricky to set up, but Hail (we have the TM) followed up by a burning move like Lava Plume or Inferno Overdrive (we have the Z-Crystal) will succeed at this task! You can probably guess how well your opponents team will do on the Burning Field.
+
+**Relationship Point Choices:**
+- Tell Bennett you know what Apolysis is (+1 Bennett)
+
+You'll get the *Sapphire Bracelets* for winning. Proceed to the next room, and ride the tile elevators upward.
+
+**Elite Four Agent Elias (2x Full Restore). Field: Holy Field**
+- Noivern, Lv. 100, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Boomburst
+    - Flamethrower
+    - Dragon Pulse
+    - Psychic
+- Kommo-o, Lv. 100, @Kommonium-Z, Ability: Bulletproof, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Clanging Scales
+    - Earthquake
+    - Close Combat
+    - Poison Jab
+- Dragonite, Lv. 100, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Outrage
+    - Extreme Speed
+    - Earthquake
+    - Brick Break
+- Drampa, Lv. 100, @Wiki Berry, Ability: Berserk, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Nature Power
+    - Dragon Pulse
+    - Surf
+    - Flamethrower
+- Ditto, Lv. 100, @Choice Scarf, Ability: Imposter, Timid Nature, IVs: 31, EVs: 252/0/0/0/0/0
+    - Transform
+- Kangaskhan, Lv. 100, @Kangaskhanite, Ability: Early Bird, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Power-Up Punch
+    - Earthquake
+    - Return
+    - Rock Tomb
+
+We finally get to fight Arceus' favorite holy man. He uses Normal and Dragon types on the Holy Field. Notably, Normal moves become super effective against Ghost and Dark types, and special Normal moves like Noivern's Boomburst get a power boost. Dragon and Psychic moves also get boosts, making Noivern, Kommo-o, Dragonite, and Drampa even more powerful. On the Physical side, Dragonite's Extremespeed and Mega Kangaskhan's Return also get boosted on this field. With Mega Kangaskhan's double Power-Up-Punch, Noivern's SpA boosting seed, and Kommo-o's omniboosting Z-Move, there are a lot of threats that can set up on you, making the aforementioned moves even more powerful. Oh, and he has a Choice Scarf Imposter Ditto that loves to swap in as soon as any of your sweepers set up to outspeed and kill.
+
+There are no built in field switches for this one, but it does leave you a few great options. Notably, special Fairy-type moves and your own Dragon-type moves are boosted here, so if you're able to get them off, you can potentially dispatch Noivern, Drampa, Kommo-O, and Dragonite after hazards. You can also abuse Nature Power Judgement, Return, and Extremespeed for massive power boosts. Rock and Steel types can switch in on Dragonite doing a power trip with Extremespeed, giving them a chance to turn momentum in your favor. Just have a plan for Ditto! 
+
+Take the *Emerald Brooch* and proceed to the next room.
+
+**Elite Four Starcrosser Anna (2x Full Restore). Field: Starlight Arena**
+- Ninetales-Alola, Lv. 100, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Aurora Veil
+    - Moonblast
+    - Aurora Beam
+    - Extrasensory
+- Starmie, Lv. 100, @Magical Seed, Ability: Illuminate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Flash Cannon
+    - Scald
+    - Thunderbolt
+- Gardevoir, Lv. 100, @Magical Seed, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Moonblast
+    - Focus Blast
+    - Signal Beam
+- Sylveon, Lv. 100, @Leftovers, Ability: Pixilate, Calm Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Swift
+    - Wish
+    - Shadow Ball
+    - Protect
+- Metagross, Lv. 100, @Metagrossite, Ability: Clear Body, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Meteor Mash
+    - Earthquake
+    - Zen Headbutt
+    - Bullet Punch
+- Jirachi, Lv. 100, @Psychium-Z, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Flash Cannon
+    - Wish
+    - Psychic
+    - Cosmic Power
+
+The last Elite Four member is a child who will destroy your team with her Psychic and Fairy types on top of the Starlight Arena. Of course, Psychic and Fairy moves are boosted here, and Dark moves get a Fairy subtyping, taking away one of Metagross' weaknesses. There are further boosts for Ninetales' Aurora Beam, Gardevoir's Signal Beam, Starmie's Flash Cannon, Gardevoir and Ninetales' Moonblast, Sylveon's Swift, and a massive boost for Mega Metagross' Meteor Mash that shreds almost any Pokemon that doesn't resist it. Starmie with its seed and ability gets +3 SpA upon switch in, which paired with its high speed and coverage moves, means danger. Defensively, Cosmic Power and Wish are boosted, so Sylveon and Jirachi can potentially tank you. Ninetales' Aurora Veil is also always enabled.
+
+If you want to win this one, as usual I think you can get away with taking advantage of the field yourself. Your own Meteor Mash, Mirror Shot, and Moonblast can all be potentially viable here. Wish and Moonlight heal more than usual, and Cosmic Power works for you too, so you can take advantage of the lack of priority aside from Bullet Punch to set up a tank of your own. Any weather condition will turn off the type boosts and the Fairy subtyping for Dark moves, so if you want to neuter her offensive power to some extent you can change the weather. We can't destroy the field or change it naturally, so make use of your teams synergy and the field effect to win this one.
+
+You'll get the *Amethyst Pendant*. Proceed to the Champion room when you're ready.
+
+You knew this was coming:
+
+**Meteor Champion Lin (2x Full Restore). Field: No Field**
+- Ninetales-Alola, Lv. 100, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aurora Veil
+    - Moonblast
+    - Freeze-Dry
+    - Foul Play
+- Gardevoir, Lv. 100, @Gardevoirite, Ability: Trace, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psychic
+    - Moonblast
+    - Shadow Ball
+    - Thunderbolt
+- Garchomp, Lv. 100, @Choice Scarf, Ability: Rough Skin, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Outrage
+    - Earthquake
+    - Dragon Claw
+    - Stone Edge
+- *On Reshiram Route*: Conkeldurr, Lv. 100, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Drain Punch
+    - Mach Punch
+    - Facade
+    - Knock Off
+- *On Zekrom Route*: Togekiss, Lv. 100, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Nasty Plot
+    - Thunder Wave
+    - Air Slash
+    - Roost
+- Delphox, Lv. 100, @Choice Specs, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Mystical Fire
+    - Psyshock
+    - Dazzling Gleam
+    - Shadow Ball
+- PULSE Abra, Lv. 100, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psyshock
+    - Flash Cannon
+    - Aura Sphere
+    - Shadow Ball
+
+So, a Champion fight. If you look carefully, you'll notice that this team is almost entirely comprised of Pokemon stolen from Lin's victims... Ninetales from Ame, Gossip Gardevoir, Garchomp from Solaris, Conkeldurr/Togekiss from Samson/Ciel, and Delphox from Ace... So that's something. No field this time, so compared to the previous four fights this one generally won't be as bad. There is PULSE Abra in the back, this time not using Hyper Beam every turn, so you have to find a way to live its high powered special moves and hit back hard after defeating the other five Pokemon. You can take out the champion, I believe in you!
+
+Once you regain control, head up and through the path. You'll need to use the Emerald Brooch on the first floor and solve a quick logic puzzle.  
+
+> Or so it would seem. All four are Dark.
+
+In the Sapphire Bracelet room ahead is... another puzzle? Just choose an answer for each one. Proceeding from here, you can get the *PULSE Readout 11*. Oh boy.
+
+Make your way to the top of the Arc and talk to Lin. Prepare your team and head in... Reborn's REAL champion fight is ahead. 
+
+Across this guide I've mentioned various choices that you can make to reach an exclusive postgame route - known by the community as the Anna Route. If you do not complete any one of the requirements for the Anna route, you will instead be on the Lin Route for the postgame. However, I actually think the first time player will get MORE out of the Lin Route than the Anna Route as far as the story goes, so don't feel like you're left out if you have missed one of the requirements. The Lin Route is still great and you should consider doing it first, going back for the Anna Route in a second playthrough. There is still one 'choice' left to make, so you can still opt out of the Anna Route if you'd like.
+
+A summary of the Anna Route requirements till now:
+
+1. Find all the police officers before fighting Ace in the Jungle
+2. Defeat Solaris atop Pyrous Mountain
+3. Refuse to fight Sigmund at Yureyu
+4. Stop the doctor at Belrose
+5. Side with Radomus at Citae Astrae, then defeat El
+6. Don't give Blake the Ruby Ring
+7. Refuse to fight Taka at the WTC
+8. Allow Taka to join you in the desert
+
+If you have missed at least one of these requirements, you will have the following fight:
+
+**Meteor Champion Lin (2x Full Restore). Field: New World**
+- Mismagius, Lv. 100, @Life Orb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dazzling Gleam
+    - Shadow Ball
+    - Power Gem
+    - Foul Play
+- Honchkrow, Lv. 100, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Night Slash
+    - Roost
+    - Brave Bird
+    - Sucker Punch
+- Clefable, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Cosmic Power
+    - Moonblast
+    - Soft-Boiled
+    - Fire Blast
+- Celesteela, Lv. 100, @Leftovers, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Flamethrower
+    - Flash Cannon
+    - Giga Drain
+    - Leech Seed
+- Hydreigon, Lv. 100, @White Herb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dark Pulse
+    - Earth Power
+    - Flash Cannon
+    - Draco Meteor
+- *All 8 Requirements:* Flygon, Lv. 100, @Life Orb, Ability: Levitate, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Earth Power
+    - Draco Meteor
+    - Throat Chop
+    - Roost
+- *Missing 1+ Requirement* PULSE Arceus, Lv. 100, @Life Orb, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moonlight
+    - Judgment
+    - Doom Desire
+    - Dark Pulse
+
+If you thought Lin's earlier fight was a bit too easy... well... there's this... a fitting end to the main game of Pokemon Reborn... and it's just brutal. 
+
+Let me first pause to make fun of some of you. Did you create your team largely around utilizing a specific weather condition? Or, are you even more crafty and use Pledge moves to create your own field, or perhaps the Lycanium-Z to destroy fields you don't like? Do you like the move Earthquake? Well, surprise, none of those things work here. Weather effects and generated fields simply do not work, so you'll always be fighting on New World without weather. And to lose against this fight means you'll have to go all the way back through the previous five. Your team is complete trash without your weather or field? Sucks for you! Remake it and battle your way all the way back. By the way, when I said "some of you", I meant me in the past, marching on in with a Rain Mono-Water team. Pelipper literally died in one shot to every single one of Lin's Pokemon no matter what I did. Sad. But I did eventually win!
+
+So, onto the fight itself. Power Gem, Earth Power, Draco Meteor, Dazzling Gleam, Flash Cannon, and Dark-type moves are all boosted here. All of her Pokemon have at least one of these. The New World Field also has this thing where grounded Pokemon have three-quarters speed and levitating Pokemon have slightly lowered Defenses. Lin having 4/5 non-grounded Pokemon essentially means unless you have a lot of them too, you're going to basically be losing speed battles you'd otherwise win. The defense drop is cancelled out on her Pokemon by virtue of the PULSE2 adding defenses to the sweepers anyways. 
+
+As for the team itself, it's real good. Mismagius is a cruel lead, taking advantage of the field boosts and speed nerf to hit fast and hard. Honchkrow is there to ruin your sweeper's day, getting off Sucker Punch to probably knock you out and snowball into a sweep. Clefable does usual Clefable things: saying NOPE to your boosts, getting double Cosmic Power boosts, and laughing in your crying face. Flygon (on Anna Route) and Hydreigon like to mercilessly overwhelm your Pokemon with their wide coverage. And, of course, she also has our first enemy Ultra Beast... ugh. This thing is super tanky, has a STAB boosted move in Flash Cannon and good coverage in Flamethrower and Giga Drain, and also carries Leech Seed just in case you thought you were smart about using a tanky Pokemon of some kind. And the most cursed ability ever: Beast Boost, which will raise its SpA in this case.
+
+You'll notice that I haven't mentioned the puppy in the room. It seems like the route that so far is harder to get into has an easier time with this fight, and that's true... sorta. While Anna Route gets PULSE Arceus replaced by Flygon, winning the first, easier fight will actually send you right into another fight. Of course, no healing or switching your team around in between.
+
+**Mordant Urchin Lin (3x Full Restore). Field: New World**
+- Arceus, Lv. 100, @Darkinium-Z, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moonlight
+    - Judgment
+    - Doom Desire
+    - Dark Pulse
+
+So, yeah. With a 975 Base Stat Total, Perfect IVs, and a PULSE 2, no matter your route, you get to fight this thing, and if you're fighting it separately, you don't get to carry any momentum like stat boosts or hazards over from fighting the other six Pokemon. For that reason, doing the two-fight gauntlet version is strictly harder than the one-fight version, so I will give some advice for doing the gauntlet version.
+
+It's worth noting that this is actually the 9th and final Anna Route requirement:
+
+**Note: Once you win the first fight, if you lose the second fight, you will be kicked out of Anna Route.**
+
+You'll also have to fight the first New World Lin fight again, this time, it will be the version without Arceus.You can restore a backup if you want. There's actually one automatically created for you in the saves folder.
+
+Anyways, onto the strategy. Really, these fights come down to choreographing every single move pretty much. If you don't know whether Honchkrow is going to Sucker Punch or use its Z-move, you will probably lose. If a random attack of yours misses, it will likely throw off the whole fight and you will lose. Lots and lots of trial and error will probably be key here. I recommend setting your Z-move to Steel, Poison, or Rock in most cases. Clefable is usually the most annoying Pokemon to take out aside from Arceus, so having either a super-effective nuke or a field-boosted Continental Crush to take it out is usually a good idea. You may instead want to use it on Celesteela, in which case Fire, Electric, or field-boosted Dark are good bets. Even though all the other stuff like field changes and weather are out, ol' reliable TRICK ROOM is here to save the day - it even gets an automatic 8 turns on this field, freeing up your Trick Room user to hold something else like Light Clay. A Z-move of one of the aforementioned types or Mold Breaker on a slow set-up sweeper under Trick Room can barrel through the bulk of the team, freeing you up to worry about Arceus! 
+
+One more fun tech is that the Magical Seed grants an omniboost while causing you to recharge. If you hard switch, the Pokemon that comes out gets the recharge turn cancelled out as part of the switching turn, so that's nice. If you have a Pokemon with Recycle, it will cause the seed to be regenerated and consumed, but the recharge turn will again be done on that turn... meaning you can literally omniboost all the way to +6 if you have some way to not die in the meantime. A fun thing to turn to if all else seems lost.
+
+Then there's Arceus. In the easier version, it is holding a Life Orb, so poisoning it then hiding behind Substitutes can be a funny way to watch it knock itself out. Unfortunately the harder version has a Z-Crystal and you don't get the time to set up anything on it, so you're going to have to use whatever scraps of your team remain after the previous fight to do... some cheap crap, pretty much. My first time it was just double Protect on Speed Boost Sharpedo followed by Destiny Bond. This time it was Accelerock for some chip plus a Sturdy Metal Burst. Some people will call strategies like these cheap, but what else can you really do against a Pokemon with 975 BST, full EV's, and IV's, and field boosts too? Do what you must and win both fights if you want to stay on Anna Route, or defeat just the one-team version to proceed to Lin Route.
+
+**Relationship Point Choices**:
+- Defeat the 2-fight Lin Gauntlet and advance to Anna Route (-2 Terra)
+
+Either way, once you complete this fight, you're like, done? You've completed the main game of Pokemon Reborn! Congratulations! I am proud of you! And thanks for reading so far :)
+
+Head to any PC if you want to look at your Hall of Fame progress!
+
+
+
 
 # Appendices
 
@@ -14346,7 +14656,7 @@ Any attributes that are not listed are unchanged from the base form.
 - Base Stats: 25 HP, 20 Atk, 115 Def, 195 SpA, 155 SpD, 140 Spe
 - Typing: Psychic/Steel
 - Weight: 862
-- Ability: Stamina
+- Ability: Magic Guard
 
 **PULSE Avalugg**
 - Base Stats: 105 HP, 160 Atk, 255 Def, 97 SpA, 255 SpD, 10 Spe
