@@ -12681,7 +12681,9 @@ Defeating one spirit won't appear to do much for us, but for defeating multiple,
 
 Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. I personally love these, though it seems some people don't. 
 
-You could use Pen and Paper I suppose, but a spreadsheet works the best for me. You can download my go-to logic puzzle spreadsheet here. 
+You could use Pen & Paper I suppose, but a spreadsheet works the best for me. 
+
+<a href="resources\vr_logic_puzzle_sheets.xlsx">You can download my go-to logic puzzle spreadsheet here. </a>
 
 The clues this round are:
 
