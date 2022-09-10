@@ -14090,6 +14090,8 @@ More tips: don't use repels, since the "another?" message will actually cause yo
 
 Once you exit the room at the bottom successfully, you can return to the previous room, where you will no longer be chased. In here we can find a hidden *Protein* and *Carbos*.
 
+Towards the top of the room, you can follow a rock climb path to the *Salamencite*!
+
 In the bottom left side of the room, we can access a path that takes us up some rocks and to a spirit.
 
 **Wandering Spirit Ikaru. Field: Psychic Terrain**
