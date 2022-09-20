@@ -14545,8 +14545,85 @@ Either way, once you complete this fight, you're like, done? You've completed th
 
 Head to any PC if you want to look at your Hall of Fame progress!
 
+# Postgame Episode 1: A Whole New World
 
+Bear with me: postgame is less episodically structured than the main game, and there aren't chapter names. So, I came up with my own names, with help from the Patreon Discord.
 
+Anyways, the first thing we're going to do is grab the fourth Catching Charm. To do so, head over to the Grand Hall basement and talk to Ame's PC. Open the secret path!
+
+In my honest opinion, you should save actually talking to all these NPC's and reading the content here until after you've also beaten the postgame. Make a beeline to the room in the top right corner, grab the *Catching Charm: Sapphire*, then leave. Don't worry, I will cover the rest of this area towards the end of the guide.
+
+It's also worth noting at this point that the level cap has silently gone up to Lv. 105! 
+
+## The Nightclub
+
+Head over to North Obsidia Ward - we can finally enter the nightclub!
+
+Once you talk to Arclight, you'll be free to move around. If you talk to the machine to the left of the nerd at the top, you can turn the chaotic lights off, if you'd like. Talk to the nerd here to record Pokemon's movesets - by doing this, you can save time (and Heart Scales) from having to visit tutors.
+
+Talk to the various characters around the nightclub, if you'd like.
+
+In the top left corner, there are various battle facilities. Winning them grants you Battle Points (BP) which can be exchanged for items.
+
+**Nightclub BP Shop (Bottom)**
+
+|Item               |Price    |
+|-------------------|---------|
+|*Lonely Mint*      |1 BP     |
+|*Brave Mint*       |1 BP     |
+|*Adamant Mint*     |1 BP     |
+|*Naughty Mint*     |1 BP     |
+|*Bold Mint*        |1 BP     |
+|*Relaxed Mint*     |1 BP     |
+|*Impish Mint*      |1 BP     |
+|*Lax Mint*         |1 BP     |
+|*Timid Mint*       |1 BP     |
+|*Hasty Mint*       |1 BP     |
+|*Serious Mint*     |1 BP     |
+|*Jolly Mint*       |1 BP     |
+|*Naive Mint*       |1 BP     |
+|*Modest Mint*      |1 BP     |
+|*Mild Mint*        |1 BP     |
+|*Quiet Mint*       |1 BP     |
+|*Rash Mint*        |1 BP     |
+|*Calm Mint*        |1 BP     |
+|*Gentle Mint*      |1 BP     |
+|*Sassy Mint*       |1 BP     |
+|*Careful Mint*     |1 BP     |
+
+**Nightclub BP Shop (Middle)**
+
+|Item               |Price    |
+|-------------------|---------|
+|*Choice Band*      |24 BP    |
+|*Choice Specs*     |24 BP    |
+|*Choice Scarf*     |27 BP    |
+|*Focus Sash*       |5 BP     |
+|*EXP All Upgrade*  |1 BP     |
+|*Remote PC*        |14 BP    |
+|*5 Cell Batteries* |5 BP     |
+
+Note that the Remote PC is only available after buying the EXP All Upgrade, and the batteries only after the PC.
+
+**Nightclub BP Shop (Top)**
+
+|Item               |Price    |
+|-------------------|---------|
+|*8 Exp. Candy XL*  |1 BP     |
+|*50 Exp. Candy XL* |5 BP     |
+|*Ability Capsule*  |1 BP     |
+|*2 Heart Scales*   |2 BP     |
+|*Rare Candy*       |1 BP     |
+|*3 EV Tuners*      |2 BP     |
+|*2 EV Boosters*    |3 BP     |
+|*PP All*           |4 BP     |
+|*Reborn Ball*      |9 BP     |
+|*10 Glitter Balls* |5 BP     |
+|*Sacred Ash*       |13 BP    |
+
+To win BP, you can participate in the Battle Tower and Battle Factory-style competitions, participate in Theme Teams, or do Mix N' Match. Try out these options and earn some BP if you'd like!
+
+On the right side of the room, talk to Cass. She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
 
 # Appendices
 
