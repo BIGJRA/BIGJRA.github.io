@@ -226,6 +226,20 @@ Heavy Work In Progress :)
     - [The Amethyst Chamber](#the-amethyst-chamber)
     - [Victory over Victory Road](#victory-over-victory-road)
   - [Reborn Elite Four & Champion](#reborn-elite-four--champion)
+- [Postgame Episode 1: A Whole New World](#postgame-episode-1-a-whole-new-world)
+  - [The Nightclub](#the-nightclub)
+  - [Vanhanen Castle: New World](#vanhanen-castle-new-world)
+- [Postgame Episode 2: Fetch, Doggy!](#postgame-episode-2-fetch-doggy)
+  - [Fetching the Legendary Birds](#fetching-the-legendary-birds)
+  - [Fetching the Lake Spirits](#fetching-the-lake-spirits)
+  - [Route 1 New World](#route-1-new-world)
+  - [Route 2 New World](#route-2-new-world)
+- [Postgame Episode 3: The Umbral Issue](#postgame-episode-3-the-umbral-issue)
+  - [Route 3 New World](#route-3-new-world)
+  - [Route 4 New World](#route-4-new-world)
+  - [Chrysolia Backwoods](#chrysolia-backwoods)
+  - [Umbral Battle at Vanhanen Castle](#umbral-battle-at-vanhanen-castle)
+- [Postgame Episode 4: Across Space & Time](#postgame-episode-4-across-space--time)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -14623,7 +14637,877 @@ Note that the Remote PC is only available after buying the EXP All Upgrade, and 
 
 To win BP, you can participate in the Battle Tower and Battle Factory-style competitions, participate in Theme Teams, or do Mix N' Match. Try out these options and earn some BP if you'd like!
 
-On the right side of the room, talk to Cass. She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
+On the right side of the room, talk to Cass. 
+
+**Relationship Point Choices:**
+- Tell Cass you aren't ready to start your first postgame quest repeatedly (-1 Noel, -1 Serra)
+
+She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
+
+## Vanhanen Castle: New World
+
+Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a New World Door on the second level. Head in.
+
+**New World (Vanhanen Castle)**
+
+|Land               |%  |
+|-------------------|---|
+|Linoone            |20 |
+|Musharna           |20 |
+|Wigglytuff         |10 |
+|Mightyena          |10 |
+|Camerupt           |10 |
+|Gumshoos           |10 |
+|Komala             |5  |
+|Ursaring           |5  |
+|Shiinotic          |4  |
+|Amoonguss          |4  |
+|Cinccino           |1  |
+|Gardevoir          |1  |
+
+Enter the door in the top right, follow the path, and talk to the orb. Return to the New World hub. This time, follow the door in the top left. Talk to the orb at the end and return. Finally, go to the bottom right and talk to the Shiinotic.
+
+**Creeping Pokémon. Field: Chess Arena**
+- Shiinotic, Lv. 104, @Big Root, Ability: Effect Spore, Sassy Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Spore
+    - Strength Sap
+    - Dream Eater
+    - Moonblast
+
+Talk to the next orb. The door at the top of the hub will now be open: follow it and defeat another Shiinotic. Grab the next orb.
+
+Back in the hub, enter the top right room once more. The door at teh top will now be unlocked, so follow it in.
+
+**Anomaly Cresselia. Field: New World**
+- Lunatone, Lv. 102, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
+    - Stealth Rock
+    - Power Gem
+    - Moonblast
+    - Hypnosis
+- Amoonguss, Lv. 102, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Spore
+    - Giga Drain
+    - Sludge Bomb
+    - Nature Power
+- Musharna, Lv. 102, @Leftovers, Ability: Synchronize, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Hypnosis
+    - Calm Mind
+    - Psyshock
+    - Dazzling Gleam
+- Jumpluff, Lv. 103, @Flying Gem, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Sleep Powder
+    - Leech Seed
+    - Substitute
+    - Acrobatics
+- Cresselia, Lv. 103, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Lunar Dance
+    - Lunar Dance
+    - Lunar Dance
+    - Lunar Dance
+- Cresselia, Lv. 105, @Magical Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moonlight
+    - Moonblast
+    - Psychic
+    - Aurora Beam
+
+Our first Anomaly battle! Note that this another fight on the New World field. The first four Pokemon use this field beneficially to some extent, but Ice and field-boosted Dark moves can generally shut them down. The first Cresselia will always use Lunar Dance, sacrificing itself to give an omniboost to the second Cresselia. Note the Magical Seed, meaning the second Cresselia will always get two omniboosts, but will need to recharge on the first turn it is out. That means you can use Toxic, Psych Up, Haze, Trick Room, etc. for free and whittle it down with the remainder of your team.
+
+Once you win, you'll be immediately thrown into a battle with a wild **Cresselia**, which you can now catch. Don't worry, this fight is much easier than the previous, you just have to catch it. It's worth noting that you can often mash the auto-save key (default 'D') between the Anomaly battle and the legendary fight if you want. You can also grind the Nightclub facilities to get Reborn Balls if catching the legendaries is too much of a pain.
+
+Luna will give us the *Gather Cube* afterwards. Sorry for any Rejuvenation players having terrible flashbacks right about now.
+
+Return to the Nightclub!
+
+While you're here, more NPC's will have returned to the nightclub. In particular, you can show Florinia the Naganadel we got earlier (or other Ultra Beasts we'll find later) to get 5 *Beast Balls*.
+
+**Relationship Point Choices:**
+- Show Florinia an Ultra Beast (+1 Florinia)
+
+That's it for the first Postgame Episode!
+
+# Postgame Episode 2: Fetch, Doggy!
+
+Time for some more legendary quests. Note that your level cap has silently gone up to Lv. 110. Note that within each section, these quests can be done in any order, so feel free to bounce around if you'd like.
+
+## Fetching the Legendary Birds
+
+Talk to Cass behind the counter once more. She'll tell us about three birds that we have to find in thematically-relevant locations. Hmm...
+
+Fly over to Ametrine City, then climb the mountain. Where we once fought Blake, you can fight and catch **Articuno**.
+
+Fly over to Beryl Ward, and go across the bridge to the east. In the factory where Shade once was, we can catch **Zapdos**.
+
+Finally, fly over to Apophyll Academy, and climb Pyrous Mountain. At the top of the volcano is **Moltres**.
+
+As of Gen VII, 9.6% of all Pokemon were legendaries... too many, perhaps, GF? Anyways, that's why not every quest could realistically be a huge affair. Don't worry if these three bored you though, many fantastic quests are still to come.
+
+Return to the Nightclub. If you want, get Articuno out of the PC and talk to Lumi a few times.
+
+**Relationship Point Choices:**
+- Show Lumi your Articuno (+1 Lumi)
+
+## Fetching the Lake Spirits
+
+Back in the Nightclub, talk to Seacrest. He will tell us that the Lake Spirits, fittingly, are abround the lake.
+
+Fly to Coral Ward, then go west. Head left at the fork, then follow the rocks along the bottom left and down until you reach a sandbank. Go right, dive down, go up, then surface. You'll find **Azelf** chilling at the top.
+
+From here, retrace your steps until you reach the sandbar. From here, go straight up and hug the left wall until you reach another sandbar, then go left. Dive down here, go up, surface, go up and left, cross the sand, and dive down once more. You'll find **Uxie** in the top right corner.
+
+Surface, and fly to Apophyll Academy. From here, follow the path up towards the Apophyll Cave, surfing up and following the small path right towards the dive spot. Dive down. A bit down and right from the top left corner is a small 2x2 spot to surface - do so here. Enter Apophyll Cave. You'll need to freeze the water here in a battle by using Blizzard or Subzero Slammer. Enter the cave up and to the left to find **Mesprit**!
+
+## Route 1 New World
+
+Head back to the Nightclub. Talk to Randall this time and get the quest to visit Route 1 next. 
+
+Fly over to the Route 1 Nature Center, and talk to Sandy outside. We are looking for three anomalies. The first is actually on the roof of this building, so climb the stairs inside and enter.
+
+**New World (Route 1 West)**
+
+|Land               |%  |
+|-------------------|---|
+|Unown              |100|
+
+Follow the path here.
+
+**Anomaly Entei. Field: New World**
+- Aromatisse, Lv. 103, @Focus Sash, Ability: Aroma Veil, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
+    - Trick Room
+    - Nasty Plot
+    - Moonblast
+    - Hidden Power
+- Ursaring, Lv. 103, @Flame Orb, Ability: Guts, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
+    - Facade
+    - Knock Off
+    - Close Combat
+    - Swords Dance
+- Vileplume, Lv. 104, @Choice Specs, Ability: Chlorophyll, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/4/0
+    - Sludge Bomb
+    - Moonblast
+    - Petal Dance
+    - Hidden Power
+- Camerupt, Lv. 104, @Cameruptite, Ability: Magma Armor, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
+    - Eruption
+    - Nature Power
+    - Earth Power
+    - Ancient Power
+- Primarina, Lv. 105, @Choice Specs, Ability: Torrent, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
+    - Moonblast
+    - Ice Beam
+    - Psychic
+    - Hydro Pump
+- Entei, Lv. 107, @Life Orb, Ability: Pressure, Naughty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sacred Fire
+    - Stone Edge
+    - Extreme Speed
+    - Eruption
+
+Another Trick Room oriented New World team. This time Aromatisse has a Sash, so OHKO'ing it is not an option. Thankfully, it is the only Trick Room user, meaning once the Trick Room wears off, you're good to go. Ursaring, Primarina, and especially Mega Camerupt are extremely strong under the Trick Room, so stalling it out may be ideal. Entei is last and is actually fast, so watch out for that. You can wall it out with a bulky Rock/Ground type entirely, so defeating it shouldn't be too bad.
+
+You can catch **Entei** afterwards. I also just realized that the realm containing Entei has only wild Unown. Sick reference!
+
+Return to Route 1, and take a Tauros to the east. If you haven't solved the Aventurine Woods puzzles... you'll have to now. Anyways, use a Tauros to follow the long path in South Aventurine Woods to the southeast, where you'll find a New World Door.
+
+**New World (Route 1 South)**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Luvdisc            |70 |Luvdisc            |60 |Gorebyss           |40 |
+|Qwilfish           |30 |Alomomola          |20 |Huntail            |40 |
+|                   |   |Seadra             |20 |Slowking           |15 |
+|                   |   |                   |   |Kingdra            |4  |
+|                   |   |                   |   |Dratini            |1  |
+
+|Water              |%  |
+|-------------------|---|
+|Pelipper           |60 |
+|Mantine            |30 |
+|Politoed           |5  |
+|Phione             |4  |
+|Magikarp           |1  |
+
+Surf up. While you're going up, hug the right wall. You'll get a *Max Revive* and find:
+
+**ZCell 01: New World (Route 2 South)**
+
+<img src="/assets/media/reborn/zcell_01.jpg"/>
+
+Head left and up for another Anomaly battle.
+
+**Anomaly Suicune. Field: Water Surface**
+- Ludicolo, Lv. 103, @Elemental Seed, Ability: Swift Swim, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Surf
+    - Giga Drain
+    - Ice Beam
+    - Synthesis
+- Alomomola, Lv. 103, @Elemental Seed, Ability: Hydration, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Rest
+    - Toxic
+    - Knock Off
+    - Soak
+- Goodra, Lv. 104, @Elemental Seed, Ability: Sap Sipper, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Muddy Water
+    - Dragon Pulse
+    - Thunderbolt
+    - Rest
+- Lapras, Lv. 104, @Elemental Seed, Ability: Hydration, Adamant Nature, IVs: 31, EVs: 0/252/252/0/0/4
+    - Waterfall
+    - Ice Shard
+    - Rest
+    - Curse
+- Vaporeon, Lv. 105, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 0/0/0/252/252/4
+    - Acid Armor
+    - Surf
+    - Ice Beam
+    - Rest
+- Suicune, Lv. 107, @Elemental Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Surf
+    - Ice Beam
+    - Calm Mind
+    - Hidden Power
+
+Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokemon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water-type's weaknesses, as long as you have a strategy for Ludicolo and Goodra. 
+
+Once you win, you'll be able to battle and catch **Suicune**.
+
+Back on Route 1, towards the east side of the Route, grab a Tauros and enter the second-to-last entrance to North Aventurine Woods. There's a ledge right and up you can climb to reach a New World Door.
+
+**New World (Route 1 North)**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Raichu             |20 |
+|Ampharos           |10 |
+|Luxray             |10 |
+|Gigalith           |10 |
+|Aggron             |10 |
+|Lycanroc           |5  |
+|Sandslash          |5  |
+|Electivire         |4  |
+|Jolteon            |4  |
+|Steelix            |1  |
+|Skarmory           |1  |
+
+As you climb the stairs, hug the left wall and follow the path.
+
+**ZCell 02: New World (Route 2 North)**
+
+<img src="/assets/media/reborn/zcell_02.jpg"/>
+
+**Anomaly Raikou. Field: Mountain Field**
+- Rotom-Frost, Lv. 103, @Icium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/252/252/4/0
+    - Thunder
+    - Blizzard
+    - Hidden Power
+    - Pain Split
+- Froslass, Lv. 103, @Focus Sash, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Icy Wind
+    - Ominous Wind
+    - Spikes
+    - Thunder
+- Porygon-Z, Lv. 104, @Choice Specs, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Icy Wind
+    - Thunder
+    - Psyshock
+    - Tri Attack
+- Sandslash-Alola, Lv. 104, @Choice Band, Ability: Slush Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Icicle Crash
+    - Earthquake
+    - Iron Head
+- Togekiss, Lv. 105, @Leftovers, Ability: Hustle, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Aura Sphere
+    - Ominous Wind
+    - Air Slash
+    - Roost
+- Raikou, Lv. 107, @Telluric Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Shadow Ball
+    - Thunder
+    - Aura Sphere
+    - Hidden Power
+
+Rotom will usually use its Z-Move to transform the field to Snowy Mountain. You can dampen the team's strategies somewhat by preventing this from happening by OHKO'ing Rotom, if you want. These two field effects are pretty stacked, damage-wise, so read up on the Field Manual if you're stuck on it. Trick Room can also help out here, preventing Sandslash and Raikou from going on killing streaks. 
+
+Once you win, you can battle and catch **Raikou**.
+
+Return to the Nightclub once you're done.
+
+## Route 2 New World
+
+Back in the Nightclub, talk to Zero and accept his quest. Fly over to the Celestinine Cascade and go right onto Route 2. If the leftmost Crustle is still in the way, climb some nearby rocks to get some Red Powder, then remove the Crustle. Enter this cave and the New World Door.
+
+**New World (Route 2)**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Golurk             |20 |
+|Tangrowth          |10 |
+|Slurpuff           |10 |
+|Camerupt           |10 |
+|Crustle            |10 |
+|Pangoro            |5  |
+|Bronzong           |5  |
+|Magcargo           |4  |
+|Amoonguss          |4  |
+|Wobbuffet          |1  |
+|Muk                |1  |
+
+Talk to Amaria inside to the right. You'll need to find someone who can read Braille to help. 
+
+Fly over to Coral Ward, and enter the apartment on the upper side. Talk to Danielle inside, who will sass you then meet you in the Route 2 New World.
+
+Talk to her... and we'll have to play Simon Says. Follow the instructions that Simon says precisely, and a new door will open. Follow it.
+
+**Golem Anomaly. Field: New World**
+- Stakataka, Lv. 106, @Leftovers, Ability: Beast Boost, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
+    - Trick Room
+    - Gyro Ball
+    - Stone Edge
+    - Stealth Rock
+- Tyranitar, Lv. 107, @Darkinium-Z, Ability: Unnerve, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/0/4/252
+    - Dark Pulse
+    - Earth Power
+    - Ancient Power
+    - Ice Beam
+- Mawile, Lv. 107, @Mawilite, Ability: Hyper Cutter, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
+    - Play Rough
+    - Sucker Punch
+    - Power-Up Punch
+    - Thunder Punch
+- Regirock, Lv. 109, @Choice Band, Ability: Clear Body, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
+    - Hammer Arm
+    - Stone Edge
+    - Fire Punch
+    - Stomp Tantrum
+- Regice, Lv. 109, @Choice Specs, Ability: Clear Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
+    - Ice Beam
+    - Ancient Power
+    - Thunderbolt
+    - Signal Beam
+- Registeel, Lv. 109, @Magical Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Seismic Toss
+    - Protect
+    - Toxic
+    - Rest
+
+This team generally relies upon Stakataka's Trick Room, which can easily be shut down by OHKO'ing it. The move Earth Power can easily do the trick. Regirock and Regice eat up Physical and Special moves, holding a Band and Specs, respectively. Registeel gets an Omniboost and will try to stall you out with Toxic and Seismic Toss. The Tyranitar is a special set, benefitting from the field effect with most of its moves, and Mega Mawile rounds out the team with very strong Sucker Punch, potentially boosted by Power-Up-Punch. If you can take out the Trick Room, set up a Sweeper (ideally with a Fighting-type move), and have a plan to deal with Sucker Punch, you're golden.
+
+With that out of the way, we'll be free to explore from here in three directions. I start by going left. Talk to the braille tablet here, then to Danielle when you're ready. Time for more Simon Says. Note that you will have to move yourself to move the boulders as instructed - this is ok and won't ruin your attempt. Enter the opened door, where you can find and catch **Regirock**.
+
+Back out in the main room, go up at the fork. Talk to the Braille, then Danielle to get instructions. Here, we'll have to do 5 slides across the ice to break all five tiles, but never stepping over one incorrectly. We need to slide: Left, Right, Left, Up, Right. The key here is that you can slide on the other spots of ice just as long as you don't hit the same spot twice. With the ice spots numbered 1-5, top to bottom:
+
+- Go left to break 2
+- Go right to break 3
+- Go left to break 1, then go up, right, down to sneak your way back to the right side of the ice
+- Go up to break 4, then go right, down, left across the ice, down across the ice.
+- From here, go right to break 5.
+
+Head in to catch **Regice**.
+
+Make your way to the right side of the main room now, talk to the Braille once more. Danielle will make us play Danielle Says this time. Ignore her when Simon says, but listen when Danielle says. Once you succeed, head through the door to catch **Registeel**!
+
+Make your way out of the New World. 
+
+# Postgame Episode 3: The Umbral Issue
+
+Back in the Nightclub, there are new quests we can pursue. The level cap has also been raised to Lv. 115.
+
+## Route 3 New World
+
+Talk to Sandy and accept her quest to check out Route 3.
+
+Fly over to Calcenon, then go down the stairs and right onto the route. Head east and into the first cave, where you'll find a New World Door.
+
+**New World (Route 3)**
+
+|Land               |%  |
+|-------------------|---|
+|Vivillon           |20 |
+|Wormadam           |20 |
+|Sudowoodo          |10 |
+|Venomoth           |10 |
+|Klinklang          |10 |
+|Durant             |10 |
+|Aggron             |5  |
+|Vileplume          |5  |
+|Cradily            |4  |
+|Bastiodon          |4  |
+|Toucannon          |1  |
+|Ferrothorn         |1  |
+
+Head up and talk to the Ringmaster. Once Virizion runs off, follow it left. You'll be attacked with gusts of wind, so it might be smart to turn off super speed. Once Virizion runs off again, the gusts will stop.
+
+Head down and right when you're ready.
+
+**Anomaly One for All and All for One. Field: New World**
+- Cobalion, Lv. 112, @Sitrus Berry, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Secret Power
+    - Sacred Sword
+    - Volt Switch
+    - Stealth Rock
+- Terrakion, Lv. 111, @Magical Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Swords Dance
+    - Rock Slide
+    - Sacred Sword
+    - Bulldoze
+- Virizion, Lv. 112, @Magical Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sacred Sword
+    - Leaf Blade
+    - Stone Edge
+    - Swords Dance
+- Silvally, Lv. 114, @Leftovers, Ability: RKS System, Bold Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Tailwind
+    - Snarl
+    - Parting Shot
+    - Icy Wind
+- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Snarl
+    - Multi-Attack
+    - Heat Wave
+    - Rock Slide
+- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Snarl
+    - Multi-Attack
+    - Draco Meteor
+    - Parting Shot
+
+Ringmaster Alistasia will be your ally, meaning you do have a numbers advantage in this one. If you can keep her Primarina alive and give it Trick Room support, it can fairly easily deal with Cobalion's trio. Focus on knocking these out first since alone the Silvally trio is not very threatening.
+
+With the battle done, two of the three will run off to allow you to catch them. **Virizion** can be caught to the left in the grassy area. On the right side of the area, you'll find **Cobalion**.
+
+Head outside of the New World. Make your way through the Route 3 Cave system as normal. In the Sapphire Cave you'll find **Terrakion** up some rocks.
+
+But wait, there's more! Return to the New World Door in the Ruby Cave and talk to the Ringmaster at the top of the area. Head in to the next area.
+
+**New World (Route 3 Back)**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Lumineon           |60 |Quagsire           |55 |
+|Clawitzer          |30 |Clauncher          |20 |Clauncher          |40 |
+|                   |   |Quagsire           |20 |Dhelmise           |5  |
+
+|Water              |%  |
+|-------------------|---|
+|Pelipper           |60 |
+|Seaking            |30 |
+|Gastrodon          |9  |
+|Tentacruel         |1  |
+
+Head up when you're ready for one heck of a battle.
+
+**Anomaly Keldeo & the Spectral Swords of Justice. Field: Ashen Beach**
+- Weavile, Lv. 115, @Life Orb, Ability: Pressure, Jolly Nature, IVs: 20, EVs: 0/252/0/0/4/252
+    - Beat Up
+    - Ice Shard
+    - Brick Break
+    - Knock Off
+- Charizard, Lv. 115, @Charizardite Y, Ability: Blaze, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+    - Beat Up
+    - Solar Beam
+    - Focus Blast
+    - Flamethrower
+- Togekiss, Lv. 115, @Choice Specs, Ability: Hustle, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+    - Air Slash
+    - Aura Sphere
+    - Psychic
+    - Dazzling Gleam
+- Zoroark, Lv. 115, @Choice Specs, Ability: Illusion, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+    - Focus Blast
+    - Dark Pulse
+    - Sludge Bomb
+    - Hidden Power
+- Kommo-o, Lv. 115, @Kommonium-Z, Ability: Soundproof, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+    - Clanging Scales
+    - Focus Blast
+    - Flash Cannon
+    - Flamethrower
+- Keldeo, Lv. 115, @Leftovers, Ability: Justified, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Surf
+    - Focus Blast
+    - Calm Mind
+    - Hidden Power
+- Cobalion, Lv. 115, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/0/0/0/4/252
+    - Stealth Rock
+    - Strength
+    - Zen Headbutt
+    - Iron Head
+- Terrakion, Lv. 115, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Earthquake
+    - Strength
+    - Rock Polish
+- Virizion, Lv. 115, Ability: Justified, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Calm Mind
+    - Focus Blast
+    - Giga Drain
+    - Hidden Power
+- Seismitoad, Lv. 115, Ability: Water Absorb, Modest Nature, IVs: 20, EVs: 252/0/0/252/4/0
+    - Muddy Water
+    - Mud Bomb
+    - Focus Blast
+    - Hidden Power
+- Vaporeon, Lv. 115, @Choice Specs, Ability: Water Absorb, Bold Nature, IVs: 20, EVs: 0/0/252/252/0/4
+    - Blizzard
+    - Muddy Water
+    - Hidden Power
+    - Shadow Ball
+- Lucario, Lv. 115, @Lucarionite, Ability: Steadfast, Timid Nature, IVs: 20, EVs: 0/0/0/252/4/252
+    - Dark Pulse
+    - Focus Blast
+    - Calm Mind
+    - Psychic
+
+We once had an optional Victoria battle on Ashen Beach, then the Kiki fight. One of the Victory Road spirits battled on it too, but this is the fourth significant battle in the whole game here. May take a bit of time to get used to it again! 
+
+Anyways, this is definitely the hardest fight in the Postgame so far. 12 Pokemon that are all arguably threats, inherently or because of the field, against you and an ally that loves to make terrible decisions sometimes (COME ON PRIMARINA TARGET KELDEO IT'S THE OBVIOUS THREAT). You do have to have some kind of plan for the opener: Weavile uses Beat Up on Cobalion, granting it +5 attack by the turn's end. Not good. On top of that, all the field boosted mud attacks, Surf, and Focus Blast will mess you up. I recommend first stopping Weavile, getting up Trick Room and doing everything in your power to defeat the right side first, then hoping you end up in a position where Alistasia's Hawlucha is alive, since it can OHKO all three of the Swords of Justice and Mega Lucario. This one is tough, you may have to change up your team immensely, but you can find a way to come out on top for sure.
+
+Afterwards, you'll be able to battle and catch **Keldeo**! Thankfully your team will be healed beforehand.
+
+If you refused to give Blake the Ruby Ring, you'll have another fight now.
+
+**Umbral Samson. Field: Ashen Beach**
+- Blaziken, Lv. 115, @Focus Sash, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Protect
+    - Flamethrower
+    - Focus Blast
+    - Hidden Power
+- Pheromosa, Lv. 115, @Life Orb, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Focus Blast
+    - Bug Buzz
+    - Ice Beam
+    - Quiver Dance
+- Gardevoir, Lv. 115, @Sitrus Berry, Ability: Synchronize, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Focus Blast
+    - Moonblast
+    - Psychic
+    - Hidden Power
+- Lopunny, Lv. 115, @Lopunnite, Ability: Cute Charm, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fake Out
+    - Strength
+    - Ice Punch
+    - Quick Attack
+- Mismagius, Lv. 115, @Colbur Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Calm Mind
+    - Psychic
+    - Shadow Ball
+    - Hidden Power
+- Jynx, Lv. 115, @Choice Scarf, Ability: Oblivious, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Focus Blast
+    - Psychic
+    - Ice Beam
+    - Hidden Power
+
+An interesting team for Samson, focusing this time on feminity in particular. Be careful of the numerous Focus Blasts, particularly on his Ultra Beast Pheromosa, which can easily set up on you. Lots of speed here so as usual I will suggest Trick Room.
+
+**Relationship Point Choices:**
+- After refusing to give Blake the ring, defeat Umbral Samson (+1 Samson)
+
+Accept Alistasia's offer to return to the Nightclub.
+
+## Route 4 New World
+
+Talk to Aster and accept his quest to head over to Route 4 via Calcenon City. Climb the rocks, then at the fork go up. Go left from here to find a New World Door.
+
+**New World (Route 4)**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Braviary           |20 |
+|Wynaut             |10 |
+|Claydol            |10 |
+|Masquerain         |10 |
+|Armaldo            |10 |
+|Emolga             |5  |
+|Manectric          |5  |
+|Stunfisk           |4  |
+|Malamar            |4  |
+|Shiftry            |1  |
+|Flygon             |1  |
+
+Follow the straightforward path up, and down. Eventually, from above, you'll see light bridges shining from the level down below - keep track of where these are. Once you go back down the ladder, you'll need to hop across to the north, then follow the path. Use the first invisible bridge to continue.
+
+You'll reach a fork here: go to the left, follow the ladders up and down, then interact with the orb.
+
+Backtrack to the fork, this time, going across the narrow path on the bottom right. Once you climb back down the ladder, hug the right wall here to reach:
+
+<img src="/assets/media/reborn/zcell_03_path.jpg"/>
+
+**ZCell 03: New World (Route 4)**
+
+<img src="/assets/media/reborn/zcell_03.jpg"/>
+
+Continue following the path from here. You'll reach what appears to be a dead end: there is an invisible bridge on the right side that will bring us back to a landmass with two ladders we visited previously. Take the bottom ladder and follow the path to exit this section of the New World.
+
+Back on Route 4, make your way past the first lake map, on route to the Glass Workstation, but go right on the next map instead, down the rocks. You'll see another New World Door, so head in.
+
+Follow the path, then climb the ladder. It will take you up to see more light bridges. Head back down and take it to the left. Again you'll eventually appear to reach a dead end, but invisible bridges will take you across. Climb the ladder to see some more light bridges that we didn't see before.
+
+Head all the way back to nearby the New World Door, and go left across the invisible bridge. Follow the path across invisible bridge after invisible bridge from here, hopping across to other landmasses when necessary. Eventually you'll reach a ladder, where you can find another orb! You can now hop up from here and go left to reach a warp that will take you back to a New World Door.
+
+Back on Route 4, make your way to the map containing the Glass Workstation. Surf on the lake, and take the waterfall at the bottom of the map. Enter the New World Door on this next map.
+
+Follow the path here down. Climb the ladder to see some light bridges down below.
+
+Backtrack, then use the invisible bridges you now know about. Follow the path from here down to another ladder. View the bridges, then head back down the ladder, go up, and cross the invisible bridge at the top. You'll reach another ladder. Talk to the third orb!
+
+Head up, and cross the bridge to the right. You'll now notice hop platforms going up from here, so follow this path up when you're ready.
+
+**Djinn Anomaly. Field: New World**
+- Tornadus-Incarnate, Lv. 115, @Life Orb, Ability: Prankster, Hasty Nature, IVs: 23, EVs: 4/0/0/252/0/252
+    - Tailwind
+    - Superpower
+    - Hurricane
+    - Knock Off
+- Thundurus-Incarnate, Lv. 115, @Darkinium-Z, Ability: Prankster, Timid Nature, IVs: 23, EVs: 4/0/0/252/0/252
+    - Thunder Wave
+    - Nasty Plot
+    - Dark Pulse
+    - Flash Cannon
+- Landorus-Incarnate, Lv. 115, @Life Orb, Ability: Sheer Force, Naive Nature, IVs: 23, EVs: 0/252/0/4/0/252
+    - Earth Power
+    - Rock Slide
+    - Knock Off
+    - Focus Blast
+- Thundurus-Therian, Lv. 115, @Magical Seed, Ability: Volt Absorb, Modest Nature, IVs: 23, EVs: 4/0/0/252/0/252
+    - Flash Cannon
+    - Focus Blast
+    - Nasty Plot
+    - Thunderbolt
+- Tornadus-Therian, Lv. 115, @Rocky Helmet, Ability: Regenerator, Timid Nature, IVs: 23, EVs: 252/0/4/0/0/252
+    - Hurricane
+    - Heat Wave
+    - U-turn
+    - Knock Off
+- Landorus-Therian, Lv. 115, @Magical Seed, Ability: Intimidate, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
+    - Stone Edge
+    - Knock Off
+    - Brick Break
+    - Swords Dance
+
+Trick Room + Ice Move = Profit.
+
+Once you defeat this team, the three will split up. Hopping across the rocks in all three directions, you can catch **Tornadus**, **Thundurus**, and **Landorus**.
+
+Once you're done and try to head out of this area, if you gave Blake the Ruby Ring, you'll have a battle here.
+
+**Umbral Ciel. Field: New World**
+- Archeops, Lv. 115, @Focus Sash, Ability: Defeatist, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - U-turn
+    - Ancient Power
+    - Crunch
+    - Tailwind
+- Celesteela, Lv. 115, @Magical Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Flash Cannon
+    - Leech Seed
+    - Protect
+    - Flamethrower
+- Gyarados, Lv. 115, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Waterfall
+    - Crunch
+    - Stone Edge
+    - Dragon Dance
+- Zapdos, Lv. 115, @Leftovers, Ability: Static, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Volt Switch
+    - Heat Wave
+    - Ancient Power
+    - Roost
+- Pinsir, Lv. 115, @Pinsirite, Ability: Hyper Cutter, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Knock Off
+    - Close Combat
+    - Quick Attack
+    - Secret Power
+- Landorus-Incarnate, Lv. 115, @Magical Seed, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Earth Power
+    - Focus Blast
+    - Psychic
+    - Sludge Wave
+
+Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokemon but have weakened defenses. Celesteela, of course, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and of course Trick Room for this one.
+
+**Relationship Point Choices:**
+- After giving Blake the ring, defeat Umbral Ciel (+1 Ciel)
+
+Head down from here, use the warp, and return to the Nightclub.
+
+## Chrysolia Backwoods
+
+Talk to Nyu in the Nightclub and accept his quest.
+
+Fly over to Spinel Town, then make your way to the train in the bottom side of the Chrysolia Forest. Enter the New World Door to the right.
+
+**New World (Chrysolia Forest)**
+
+|Land               |%  |
+|-------------------|---|
+|Bewear             |20 |
+|Steelix            |20 |
+|Wigglytuff         |10 |
+|Gigalith           |10 |
+|Camerupt           |10 |
+|Drifblim           |10 |
+|Hippowdon          |5  |
+|Forretress         |5  |
+|Chansey            |4  |
+|Wailord            |4  |
+|Snorlax            |1  |
+|**Guzzlord**       |1  |
+
+The Ultra Beasts are wild, so keep an eye out. Magnetic Lure, of course, makes getting one easier.
+
+Follow the path and exit through the New World Door on the other side.
+
+**Chrysolia Deepwoods**
+
+|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Tropius            |20 |Tropius            |20 |Carnivine          |20 |
+|Exeggutor          |20 |Toucannon          |20 |Furfrou            |20 |
+|Furfrou            |10 |Sawsbuck           |10 |Exeggutor          |10 |
+|Ledian             |10 |Furfrou            |10 |Parasect           |10 |
+|Smeargle           |10 |Exeggutor          |10 |Victreebel         |10 |
+|Sawsbuck           |10 |Bellossom          |10 |Tropius            |10 |
+|Tangrowth          |5  |Tangrowth          |5  |Tangrowth          |5  |
+|Toucannon          |5  |Whimsicott         |5  |Audino             |5  |
+|Cinccino           |4  |Cinccino           |4  |Volbeat            |4  |
+|Audino             |4  |Smeargle           |4  |Illumise           |4  |
+|Victreebel         |1  |Sceptile           |1  |Toucannon          |1  |
+|Meganium           |1  |Victreebel         |1  |Smeargle           |1  |
+
+On this map, you can find a hidden *Purple Shard*, *Great Ball*, *Max Repel*, *Zinc*, *Quick Ball*, *Exp. Candy XL*, *Red-Hots*, *Dusk Ball*, *Super Repel*, *Oran Berry*, *Iron*, *Red Shard*, and *Ultra Ball*. Once you've finished exploring the woods, head to the large structure in the center.
+
+Follow the arrows to the statue to the right and press the button. Talk to Smeargle. He was kind enough to write instructions for us in this next area! How nice. Essentially, you'll need follow the numbered instructions one by one in this area. Note that once you complete the first 6 steps you can go to the far top right corner and grab the *Reveal Glass*.
+
+Once you succeed at solving Smeargle's helpful instructions, enter the New World Door at the top. Hug the right wall as you proceed.
+
+**ZCell 04: New World (Chrysolia Forest)**
+
+<img src="/assets/media/reborn/zcell_04.jpg"/>
+
+Head up when you're ready.
+
+**Anomaly Regigigas. Field: New World**
+- Stakataka, Lv. 111, @Focus Sash, Ability: Beast Boost, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
+    - Trick Room
+    - Gyro Ball
+    - Rock Slide
+    - Stealth Rock
+- Tyranitar, Lv. 112, @Tyranitarite, Ability: Sand Stream, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
+    - Dark Pulse
+    - Earth Power
+    - Rock Slide
+    - Ice Beam
+- Registeel, Lv. 114, @Magical Seed, Ability: Clear Body, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
+    - Seismic Toss
+    - Protect
+    - Toxic
+    - Rest
+- Regirock, Lv. 114, @Choice Band, Ability: Clear Body, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
+    - Hammer Arm
+    - Rock Slide
+    - Fire Punch
+    - Stomp Tantrum
+- Regice, Lv. 114, @Choice Specs, Ability: Clear Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/4/0
+    - Blizzard
+    - Ancient Power
+    - Thunderbolt
+    - Signal Beam
+- Regigigas, Lv. 114, @Magical Seed, Ability: Slow Start, Naughty Nature, IVs: 31, EVs: 0/252/252/252/252/252
+    - Knock Off
+    - Rock Slide
+    - Nature Power
+    - Secret Power
+
+This one isn't too bad really, again it's a Trick Room Team that relies entirely upon it's lead, meaning if you can prevent Trick Room, cancel it out, or stall it out, you'll be just fine. Everything is weak to Fighting-type moves, too!
+
+Afterwards, you'll be challenged to a battle, where you can catch **Regigigas**. Head out once you're done...
+
+## Umbral Battle at Vanhanen Castle
+
+Your level cap is now Lv. 120, by the way.
+
+Back in the Nightclub, talk to Seacrest, and accept the quest. Head over to Vanhanen Castle when you're ready... Oh boy.
+
+**Umbral Radomus & Anomaly Gardevoir. Field: Chess Arena**
+- Bisharp, Lv. 115, @Dread Plate, Ability: Defiant, Adamant Nature, EVs: 252/252/252/252/252/252
+    - Stealth Rock
+    - Iron Head
+    - Sucker Punch
+    - Swords Dance
+- Samurott, Lv. 115, @Expert Belt, Ability: Shell Armor, Serious Nature, EVs: 252/252/252/252/252/252
+    - Smart Strike
+    - Sacred Sword
+    - Liquidation
+    - Megahorn
+- Kartana, Lv. 115, @Life Orb, Ability: Beast Boost, Jolly Nature, EVs: 252/252/252/252/252/252
+    - Smart Strike
+    - Knock Off
+    - Brick Break
+    - Leaf Blade
+- Lopunny, Lv. 115, @Lopunnite, Ability: Limber, Adamant Nature, EVs: 252/252/252/252/252/252
+    - Fake Out
+    - Secret Power
+    - Drain Punch
+    - Power-Up Punch
+- Escavalier, Lv. 116, @King's Rock, Ability: Overcoat, Adamant Nature, EVs: 252/252/252/252/252/252
+    - Smart Strike
+    - Megahorn
+    - Fell Stinger
+    - Drill Run
+- Alakazam, Lv. 117, @Psychium-Z, Ability: Magic Guard, Timid Nature, EVs: 252/252/252/252/252/252
+    - Psychic
+    - Calm Mind
+    - Dazzling Gleam
+    - Recover
+- Cloyster, Lv. 115, @White Herb, Ability: Skill Link, Adamant Nature, EVs: 4/252/0/0/0/252
+    - Shell Smash
+    - Icicle Spear
+    - Razor Shell
+    - Smart Strike
+- Tsareena, Lv. 115, @Assault Vest, Ability: Queenly Majesty, Adamant Nature, EVs: 252/252/0/0/4/0
+    - Play Rough
+    - Power Whip
+    - U-turn
+    - High Jump Kick
+- Aegislash, Lv. 115, @Leftovers, Ability: Stance Change, Adamant Nature, EVs: 252/252/0/0/4/0
+    - King's Shield
+    - Shadow Sneak
+    - Iron Head
+    - Swords Dance
+- Diggersby, Lv. 115, @Life Orb, Ability: Huge Power, Adamant Nature, EVs: 252/252/0/0/4/0
+    - Secret Power
+    - Rock Slide
+    - Bulldoze
+    - Gunk Shot
+- Aggron, Lv. 116, @King's Rock, Ability: Rock Head, Adamant Nature, EVs: 252/252/4/0/0/0
+    - Rock Slide
+    - Smart Strike
+    - Power-Up Punch
+    - Aqua Tail
+- Gardevoir, Lv. 117, @Gardevoirite, Ability: Synchronize, Timid Nature, EVs: 252/252/252/252/252/252
+    - Focus Blast
+    - Psychic
+    - Calm Mind
+    - Hyper Voice
+
+12V6 NOOOOOOOOOOOOOOOOOOOOOOOO
+
+So yeah this one is really hard. Two megas! Two entire teams that are specifically designed with basically the best candidates for every chess piece! The best non-legendary Pokemon in the game in Aegislash! It's just... brutal. Even if you go for Stomping Tantrum or Tectonic Rage to destroy the board... you're still stuck fighting all of these guys. Trying Trick Room? Aegislash, Aggron, and Escavalier are slow, while Kartana and Lopunny are super fast.
+
+Anyways, I think there are two strategies to consider. The first, while not that simple as mentioned earlier, is simply to smash the field and just overwhelm your opponents with a very well prepared doubles team. Setting up a sweeper or two with speed and good coverage can be difficult to pull off, but can make it work. A lot of the team relies on Physical moves this time, so if you can deal with Kartana's Brick Break, Reflect can be helpful here.
+
+Alternatively, you can try to use the Chess Arena to your own benefit. Of course, having two pawns means you get free Focus Sashes to try to develop some momentum, though Cloyster's multi-hit moves do make this difficult. Setting up a good hard-hitting King via the King's Rock can be crucial, especially if they are on the slower side.
+
+Either approach may yield you results but don't be afraid to try, try again, try again more times, cry, and try again. Eventually you'll probably succeed.
+
+Accept the warp once you win back to the Nightclub. That's it for this section.
+
+# Postgame Episode 4: Across Space & Time
+
+To be continued!
 
 # Appendices
 
