@@ -228,7 +228,7 @@ Heavy Work In Progress :)
   - [Reborn Elite Four & Champion](#reborn-elite-four--champion)
 - [Postgame Episode 1: A Whole New World](#postgame-episode-1-a-whole-new-world)
   - [The Nightclub](#the-nightclub)
-  - [Vanhanen Castle: New World](#vanhanen-castle-new-world)
+  - [Vanhanen Castle New World](#vanhanen-castle-new-world)
 - [Postgame Episode 2: Fetch, Doggy!](#postgame-episode-2-fetch-doggy)
   - [Fetching the Legendary Birds](#fetching-the-legendary-birds)
   - [Fetching the Lake Spirits](#fetching-the-lake-spirits)
@@ -240,6 +240,8 @@ Heavy Work In Progress :)
   - [Chrysolia Backwoods](#chrysolia-backwoods)
   - [Umbral Battle at Vanhanen Castle](#umbral-battle-at-vanhanen-castle)
 - [Postgame Episode 4: Across Space & Time](#postgame-episode-4-across-space--time)
+  - [Twilight Desert](#twilight-desert)
+  - [Anomaly at Chrysolia Springs](#anomaly-at-chrysolia-springs)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -14644,7 +14646,7 @@ On the right side of the room, talk to Cass.
 
 She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
 
-## Vanhanen Castle: New World
+## Vanhanen Castle New World
 
 Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a New World Door on the second level. Head in.
 
@@ -15615,11 +15617,226 @@ That's all we have to do here for now. If you redo the first lever on the outsid
 
 Anyways, that's all for this area for a while. Feel free to return for more Cell and Negative Imprints. Return to the Nightclub!
 
-## Zeraora Quest
+## Anomaly at Chrysolia Springs
 
+Talk to your gang leader on the right side, and they'll tell you about something going down at the Chrysolia Springs. Head over to Spinel Town, make your way into the forest, then enter the Springs on the left side. 
 
+Surf across, push the boulder out of the way, then jump down to the basement floor. Head up once you're ready!
 
+**Anomaly Volcanion. Field: Super-Heated Field**
+- Dragonite, Lv. 120, @Light Clay, Ability: Multiscale, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Hurricane
+    - Heat Wave
+    - Reflect
+    - Light Screen
+- Tornadus-Incarnate, Lv. 120, @Telluric Seed, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Hurricane
+    - Heat Wave
+    - U-turn
+    - Tailwind
+- Volcanion, Lv. 120, @Elemental Seed, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Sludge Wave
+    - Steam Eruption
+    - Earth Power
+- Silvally, Lv. 120, @Steel Memory, Ability: RKS System, Serious Nature, IVs: 31, EVs: 0/252/0/252/0/4
+    - Surf
+    - Heat Wave
+    - Multi-Attack
+    - Rock Slide
+- Hydreigon, Lv. 120, @Life Orb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Heat Wave
+    - Surf
+    - Dark Pulse
+    - Dragon Pulse
+- Naganadel, Lv. 120, @Choice Specs, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Heat Wave
+    - Sludge Wave
+    - Dragon Pulse
+    - Thunderbolt
 
+Another anomaly fight. If you could make it here, I'm sure this one won't be too intense. Of course, field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, but surely you can find a way to gain momentum and win this one.
+
+After winning, you'll be able to fight **Volcanion**. Exit and return to the Nightclub once you're done.
+
+## Poachers in the Chrysolia Deepwoods
+
+Next, talk to Smeargle to get a new quest. Head outside and talk to Arclight, then fly over to Spinel Town. Enter the forest and enter the Lost Railcave in the bottom-right corner.
+
+In each room, enter the door that has two rocks closest to it. Eventually you will reach a room containing Arclight. After the conversation, enter the New World Door in the next path. 
+
+**New World (Chrysolia Railcave)**
+
+|Land               |%  |
+|-------------------|---|
+|Golem              |20 |
+|Raichu             |20 |
+|Luxray             |10 |
+|Carbink            |10 |
+|Umbreon            |10 |
+|Solrock            |10 |
+|Lunatone           |5  |
+|Sableye            |5  |
+|Minior             |4  |
+|Rotom              |4  |
+|Shiinotic          |1  |
+|**Nihilego**       |1  |
+
+Make your way to the top right side of the area. You'll be able to sneak down to the upper path, follow this all the way around to the bottom left side to reach:
+
+**ZCell 15: New World (Chrysolia Railcave)**
+
+<img src="/assets/media/reborn/zcell_15.jpg"/>
+
+Back in the main area, interact with the tall pillar at the top of the hill to create some electric platforms at the bottom right. The path from here is straightforward... and if you're on Lin Route, you'll even get taunted as you activate the pillars.
+
+One of the islands towards the bottom has a *Max Repel* on it. Eventually you'll have to backtrack to reach the next set of electric platforms, proceed to the left once you backtrack enough. 
+
+On Lin Route, you'll be given a prompt to release some of your Pokemon. This event is huge and branching... but aside from tons of great dialogue, the only thing that 'matters' aside from your morals is that if you release a lot of Pokemon, you'll get a *Sacred Ash*. You can back out of the PC a bunch of times if you don't want to release anything.
+
+Once the pillar is activated, cross the bridge to the right, then again to a new landmass. In the top right, corner, you can find:
+
+**ZCell 16: New World (Chrysolia Railcave)**
+
+<img src="/assets/media/reborn/zcell_16.jpg"/>
+
+Enter the New World Door at the bottom to return to the Chrysolia Deepwoods. Talk to Arclight here, then make your way through the Deepwoods to defeat the poachers. Arclight will heal you, if you need it. The first is up from Arclight:
+
+**Poacher Margo. Field: Forest Field**
+- Nidoking, Lv. 117, @Life Orb, Ability: Sheer Force, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Flamethrower
+    - Earth Power
+    - Sludge Wave
+    - Ice Beam
+- Crobat, Lv. 118, @Heat Rock, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Sunny Day
+    - U-turn
+    - Cross Poison
+    - Super Fang
+- Shiftry, Lv. 118, @Focus Sash, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nasty Plot
+    - Solar Beam
+    - Foul Play
+    - Focus Blast
+- Umbreon, Lv. 119, @Leftovers, Ability: Synchronize, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Moonlight
+    - Toxic
+    - Foul Play
+    - Double Team
+- Venusaur, Lv. 119, @Life Orb, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Solar Beam
+    - Sludge Wave
+    - Giga Drain
+    - Sleep Powder
+- Houndoom, Lv. 120, @Houndoominite, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Pulse
+    - Sunny Day
+    - Solar Beam
+    - Heat Wave
+
+The second can be found where the DNA Splicers were, on the top right side of the large structure.
+
+**Poacher Atreus. Field: Forest Field**
+- Nidoqueen, Lv. 117, @Telluric Seed, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Stealth Rock
+    - Earth Power
+    - Sludge Wave
+    - Flamethrower
+- Mightyena, Lv. 118, @Choice Band, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Crunch
+    - Play Rough
+    - Foul Play
+    - Fire Fang
+- Cradily, Lv. 118, @Leftovers, Ability: Storm Drain, Careful Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Curse
+    - Recover
+    - Seed Bomb
+    - Stone Edge
+- Umbreon, Lv. 119, @Leftovers, Ability: Synchronize, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Moonlight
+    - Toxic
+    - Foul Play
+    - Double Team
+- Sceptile, Lv. 119, @Focus Sash, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Swords Dance
+    - Leaf Blade
+    - Acrobatics
+    - Drain Punch
+- Gengar, Lv. 120, @Gengarite, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Shadow Ball
+    - Giga Drain
+    - Sludge Bomb
+    - Focus Blast
+
+The third can be found on top of the bridge, accessible via the bottom right side of the map.
+
+**Poacher Willow. Field: Forest Field**
+- Muk, Lv. 117, @Black Sludge, Ability: Poison Touch, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Gunk Shot
+    - Fire Punch
+    - Minimize
+    - Power-Up Punch
+- Vileplume, Lv. 118, @Choice Specs, Ability: Effect Spore, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Sludge Bomb
+    - Moonblast
+    - Hidden Power
+    - Giga Drain
+- Victreebel, Lv. 118, @Telluric Seed, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Swords Dance
+    - Nature Power
+    - Sucker Punch
+    - Strength Sap
+- Swalot, Lv. 119, @Leftovers, Ability: Sticky Hold, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
+    - Double Team
+    - Toxic
+    - Pain Split
+    - Mud-Slap
+- Weezing, Lv. 119, @Leftovers, Ability: Levitate, Calm Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Fire Blast
+    - Will-O-Wisp
+    - Pain Split
+    - Sludge Bomb
+- Absol, Lv. 120, @Absolite, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
+    - Play Rough
+    - Swords Dance
+    - Sucker Punch
+    - Stone Edge
+
+Head to the top right corner once you're ready to fight the Commissioner.
+
+**Commissioner Shannon. Field: Forest Field**
+- Exploud, Lv. 120, @Choice Specs, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Boomburst
+    - Ice Beam
+    - Focus Blast
+    - Flamethrower
+- Hippowdon, Lv. 120, @Leftovers, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Slack Off
+    - Stomp Tantrum
+    - Fire Fang
+    - Yawn
+- Mudsdale, Lv. 120, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - High Horsepower
+    - Iron Head
+    - Low Kick
+    - Rock Slide
+- Darmanitan, Lv. 120, @Choice Band, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Fire Punch
+    - Rock Slide
+    - U-turn
+    - Hammer Arm
+- Marowak-Alola, Lv. 120, @Sitrus Berry, Ability: Lightning Rod, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Bonemerang
+    - Shadow Bone
+    - Stone Edge
+    - Flare Blitz
+- Sceptile, Lv. 120, @Sceptilite, Ability: Unburden, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Focus Blast
+    - Giga Drain
+    - Dragon Pulse
+    - Hidden Power
+
+Nothing too crazy here, though there is a good mix of fast and slow, bulky and hard-hitting. Once you win, talk to **Zeraora** to obtain it! Accept the fast travel back to the Nightclub. 
 
 # Appendices
 
