@@ -15507,7 +15507,119 @@ Accept the warp once you win back to the Nightclub. That's it for this section.
 
 # Postgame Episode 4: Across Space & Time
 
-To be continued!
+Back in the Nightclub, we can pick from a large number of quests.
+
+## Twilight Desert
+
+First, talk to Marcello on the left for a new quest. He'll also sell us some Lemonade!
+
+**Marcello's Lemonade Shop (Nightclub)**
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|*Lemonade*             |$350       |
+|*Blue Moon Lemonade*   |$100000000 |
+
+We actually can't progress to the end of postgame without buying a Blue Moon.... just kidding. But I bet I got some of you!
+
+Make your way to the Grandview Station, then head to the desert. As soon as you get off the train, go up a few tiles from the train station then go straight to the right. You'll find a New World Door!
+
+**Twilight Desert**
+
+|Cave               |%  |
+|-------------------|---|
+|Mandibuzz          |20 |
+|Marowak            |20 |
+|Magneton           |10 |
+|Golem              |10 |
+|Lunatone           |10 |
+|Rampardos          |10 |
+|**Stakataka**      |5  |
+|Aerodactyl         |5  |
+|Mawile             |4  |
+|Dhelmise           |4  |
+|Weavile            |1  |
+|Umbreon            |1  |
+
+This map actually loops back onto itself from its west and east ends, so is a bit tricky to navigate. Hope you like Zygarde Cells, by the way. If you don't care about collecting them, you can just go straight up in this area.
+
+Start by going straight to the left, hugging the bottom wall. You'll eventually find:
+
+**ZCell 05: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_05.jpg"/>
+
+Make your way back to the entrance area, and go up into the next horizontal section. Go right, then down and left to reach:
+
+**ZCell 06: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_06.jpg"/>
+
+Make your way back to the "middle" of the map, and go up into the next horizontal section once more. To your right is a narrow pathway, but it leads to a dead end. Instead, go slightly up and follow the path left. You'll see two cells we can't get quite yet - keep following the path left for now. Eventually, you'll reach:
+
+**ZCell 07: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_07.jpg"/>
+
+Backtrack all the way to the previous fork, this time, going up to the next horizontal section. Left from here, you'll find:
+
+**ZCell 08: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_08.jpg"/>
+
+Next, go straight to the right, and follow the twisting path to the right. You'll eventually reach the other cell we saw earlier:
+
+**ZCell 09: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_09.jpg"/>
+
+Head all the way back to the fork. Hopefully we're starting to understand how this area works! At this next fork, go left until you reach:
+
+**ZCell 10: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_10.jpg"/>
+
+As you might expect, going right at the fork will lead you to:
+
+**ZCell 11: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_11.jpg"/>
+
+Back at the fork, climb the first set of dunes to go up a tier, but don't climb up the second quite yet. Follow the narrow path to the right to:
+
+**ZCell 12: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_12.jpg"/>
+
+Back at the fork, climb the final set of dunes. Going up from here, you'll see a large structure. Start by going to the left. You'll see a lever at the top of some stairs - pull it. Head left from here, and you'll find:
+
+**ZCell 13: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_13.jpg"/>
+
+From here, continue going around the loop until you see an open door up some stairs. Head in. Inside, you'll find two screens. Talk to each screen, then head back out.
+
+Go left from here, and you'll find a path up that leads to another lever and a door. The door is currently a dead end, so pull the lever, then left once more. Pull the first lever that we saw once more, then go left again. Enter the now-open door that you'll see. Talk to the machine to get:
+
+**ZCell 14: Twilight Desert**
+
+<img src="/assets/media/reborn/zcell_14.jpg"/>
+
+Talk to the machine on the right, and you'll be able to merge ten of the cells we've found so far into **Zygarde 10%**. You can deconstruct this Zygarde, if you want.
+
+Head outside, and go to the right. Past the first lever, there will be a new opened door. One of the monitors in here will give you as many Zygarde Cells as you've found so far in *Cell Imprints*, the game's ONLY way of increasing IV's on our Pokemon. As you might guess, the Cells are limited in total number, so be sure when you use these on your Pokemon. You can come back here anytime to get more as you get more Cells. Anyways, talk to the other machine then head back outside.
+
+From here, go right, then up. The gate inside is now gone, so you can head up. Talk to Florinia.
+
+That's all we have to do here for now. If you redo the first lever on the outside, the stairs to the left that lead into a room we previously checked out will reappear, and inside you can actually trade  Cell Imprints for *Negative Imprints*, which instead turn an IV to 0. Helpful for maximizing a Trick Room user's effectiveness. Given the limited number of these in the game, I don't recommend using them for lowering Atk, since the confusion damage is negligible at best.
+
+Anyways, that's all for this area for a while. Feel free to return for more Cell and Negative Imprints. Return to the Nightclub!
+
+## Zeraora Quest
+
+
+
+
 
 # Appendices
 
