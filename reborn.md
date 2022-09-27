@@ -242,6 +242,10 @@ Heavy Work In Progress :)
 - [Postgame Episode 4: Across Space & Time](#postgame-episode-4-across-space--time)
   - [Twilight Desert](#twilight-desert)
   - [Anomaly at Chrysolia Springs](#anomaly-at-chrysolia-springs)
+  - [Poachers in the Chrysolia Deepwoods](#poachers-in-the-chrysolia-deepwoods)
+  - [Aegis Cave](#aegis-cave)
+  - [The Agate Circus Ferris Wheel](#the-agate-circus-ferris-wheel)
+  - [What Lies Past Manyworld Forest](#what-lies-past-manyworld-forest)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -15236,7 +15240,7 @@ You'll reach a fork here: go to the left, follow the ladders up and down, then i
 
 Backtrack to the fork, this time, going across the narrow path on the bottom right. Once you climb back down the ladder, hug the right wall here to reach:
 
-<img src="/assets/media/reborn/zcell_03_path.jpg"/>
+<img src="/assets/media/reborn/genie_cell_path.jpg"/>
 
 **ZCell 03: New World (Route 4)**
 
@@ -15837,6 +15841,603 @@ Head to the top right corner once you're ready to fight the Commissioner.
     - Hidden Power
 
 Nothing too crazy here, though there is a good mix of fast and slow, bulky and hard-hitting. Once you win, talk to **Zeraora** to obtain it! Accept the fast travel back to the Nightclub. 
+
+## Aegis Cave
+
+Talk to Randall in the Nightclub, and accept his quest. Fly over to the Victory Road Pokemon Center.
+
+Enter Victory Road, then follow Victini up. Enter the room directly up, and follow Bennett into the next room... I audibly gasped when I saw what was next.
+
+Another LOGIC PUZZLE! As always, I will recommend using the <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a>.
+
+The clues:
+
+1. No two crystals share any same quality.
+2. The Purity of the 'Coxcomb' gem is less than the Purity of the 'Miniscule' gem, which is less than the Purity of the 'Vitreous' gem.
+3. The Hardness of the 'Eminent' gem is less than the Hardness of the 'Perfect' gem, which is less than the Hardness of the 'Cubic' gem.
+4. The Purity of the gem with a Hardness of 5 is less than the Purity of the gem with 'Perfect' Foliation, which is less than the Purity of the 'Pearly' gem.
+5. The Luster of the 'Tabular' gem is less than the luster of the 'Cubic' gem, which is less than the Luster of the gem with 'Indistinct' Foliation.
+6. The Size of the 'Coxcomb' gem is less than the Size of the 'Indistinct' gem, which is less than the Size of the gem with a Hardness of 8.
+7. The Foliation of the 'Hexagonal' gem is less than the Foliation of the 'Large' gem, which is less than the Foliation of the gem with a Hardness of 7.
+8. The Habit of the 'Flawless' gem is less than the Habit of the 'Pearly' gem, which is less than the Habit of the 'Silky' gem.
+
+You'll also notice that there are rocks on some of the tracks for the gems: this provides us more information for our puzzle. I have blocked out the corresponding spaces in the spreadsheet.
+
+The solution:
+
+<img src="/assets/media/reborn/vr_puzzle_5.jpg"/>
+
+Bennett will just do it for you if you fail too many times.
+
+**Relationship Point Choices**:
+- Solve Logic Puzzle 5 in five or fewer tries (+1 Bennett)
+
+Once you succeed, head up. Grab the hidden *Exp. Candy XL* and proceed. Enter the New World Door.
+
+**New World (Victory Road)**
+
+|Land               |%  |
+|-------------------|---|
+|Simisear           |20 |
+|Simipour           |20 |
+|Sudowoodo          |10 |
+|Komala             |10 |
+|Roserade           |10 |
+|Seaking            |10 |
+|Heatmor            |5  |
+|Camerupt           |5  |
+|Sigilyph           |4  |
+|Darmanitan         |4  |
+|Nidoking           |1  |
+|Beheeyem           |1  |
+
+Follow the path to the next area.
+
+**Aegir Cave**
+
+|Land               |%  |
+|-------------------|---|
+|Simisage           |20 |
+|Girafarig          |20 |
+|Carbink            |10 |
+|Zebstrika          |10 |
+|Sawsbuck           |10 |
+|Farfetch'd         |10 |
+|Stantler           |5  |
+|Rapidash           |5  |
+|Mudsdale           |4  |
+|Swoobat            |4  |
+|Gourgeist          |1  |
+|Golurk             |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Clauncher          |70 |Wishiwashi         |60 |Clawitzer          |80 |
+|Wishiwashi         |30 |Clawitzer          |20 |Wishiwashi         |15 |
+|                   |   |Wimpod             |20 |Golisopod          |5  |
+
+|Water              |%  |Rock Smash         |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Surskit            |90 |Shuckle            |100|Wurmple            |100|
+|Drifblim           |5  |                   |   |                   |   |
+|Masquerain         |5  |                   |   |                   |   |
+
+Head to the left and talk to Bennett and Serra. Bennett will ask us to gather 7 ingredients: Sweet Apple, Tart Apple, Balm Mushroom, Pecha Berry, Berry Juice, Stick, and Rage Powder. He'll also offer to teach Headbutt to one of our Pokemon, if we need it.
+
+Time to wander around the area looking for these things. On this floor you can find a hidden *Ultra Ball*, *Nest Ball*, and *Ability Capsule*. Start by jumping into the hole towards the left side, down a muddy slope. On this bottom level, you can talk to a tree to get the *Sweet Apple*. 
+
+Jump down the muddy slope to the left. Towards the top of this area, hop across the pillars to get a hidden *Blue Shard*, *Stardust*, and *Full Heal*. You can also grab the *Tart Apple* in a nearby tree. Backtrack, and go down to find a hidden *Ultra Ball*. Going to the right will lead us to red trees where we can grab some *Rage Powder*. Climb the ladder to the left.
+
+Back on the upper level, you can find a hidden *Pecha Berry* in a rock. You can also steal them from wild Wurmple if you lose this one, somehow. On the bottom right of this area are some pillars, leading to a hidden *Dusk Ball* as well as:
+
+**ZCell 17: Aegir Cave**
+
+<img src="/assets/media/reborn/zcell_17.jpg"/>
+
+Return to the bottom floor and take the ladder up, in the top left. Make your way back to Bennett, then jump in the hole above him. Grab the hidden *Ultra Ball*, then climb down the rocks and get onto the water. Grab the hidden *Nugget* below the pillars, as well as:
+
+**ZCell 18: Aegir Cave**
+
+<img src="/assets/media/reborn/zcell_18.jpg"/>
+
+Return to the upper level. All the way in the bottom right corner, you can jump across a stone and into a hole. Climb the waterfall to reach:
+
+**ZCell 19: Aegir Cave**
+
+<img src="/assets/media/reborn/zcell_19.jpg"/>
+
+Head back down and dive.
+
+**Aegir Cave Underwater**
+
+|Land               |%  |
+|-------------------|---|
+|Lanturn            |30 |
+|Seaking            |20 |
+|Golisopod          |20 |
+|Corsola            |18 |
+|Relicanth          |12 |
+
+You'll find a hidden *Max Repel*, *Super Potion*, and *Net Ball* down here. Surface at the end, grabbing the hidden *Berry Juice* in this room. You can steal these from wild Shuckle if you lose this one. 
+
+Exit from here at the bottom, grab the hidden *Dusk Ball*, and hop down onto the lake. Pick up the *Ultra Ball* in the middle of the lake, then climb the waterfall at the top of the area. Inside the cave is a *Balm Mushroom*.
+
+Back down on the large lake, dive down. You'll be able to find a hidden *Blue Shard*, *Rawst Berry*, *Exp. Candy XL*, and *Elixir*. Enter the cave here to find:
+
+**ZCell 20: Aegir Cave**
+
+<img src="/assets/media/reborn/zcell_20.jpg"/>
+
+Talk to Serra near the bottom of the lake, then head right and climb the ladder. Back on the upper level, go to the top right corner and use the ladder here to reach a *Stick*. That's all the ingredients, so return to Bennett. Once you're ready, talk to **Victini** for a battle!
+
+Agree to walk back with them.
+
+## The Agate Circus Ferris Wheel
+
+Talk to Cass in the Nightclub, then fly over to the Agate Circus. The Ferris Wheel area is finally open, so make your way there.
+
+Grab the hidden *Beast Ball* to the left.
+
+**Agate Circus Ferris Wheel Shop**
+
+|Item                   |Price      |
+|-----------------------|-----------|
+|*Beast Ball*           |$9000      |
+
+You can buy a couple more of these to make bagging the Ultra Beasts easier, if you want.
+
+Once the crowd clears, you can pick up a hidden *Full Restore* and *Purple Shard*. Talk to the ringmaster to get signed up for the tournament, then talk to the clowns when you're ready. It's a 3v3 tournament on random fields.
+
+**Guitarist McKrezzy. Field: Random Field**
+- Leavanny, Lv. 120, @Life Orb, Ability: Chlorophyll, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - X-Scissor
+    - Nature Power
+    - Leaf Blade
+    - Knock Off
+- Kommo-o, Lv. 120, @Kommonium-Z, Ability: Soundproof, Rash Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Clanging Scales
+    - Ice Punch
+    - Close Combat
+    - Poison Jab
+- Exploud, Lv. 120, @Life Orb, Ability: Scrappy, Modest Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Boomburst
+    - Fire Blast
+    - Surf
+    - Shadow Ball
+
+Nothing crazy here, just be careful of the Kommo-o sweep.
+
+The hidden *Max Revive* will be accessible after this one. Talk to the Ringmaster to get the next pairings.
+
+**Cheer Captain Julia. Field: Random Field**
+- Galvantula, Lv. 120, @Life Orb, Ability: Compound Eyes, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Sticky Web
+    - Thunder
+    - Bug Buzz
+    - Volt Switch
+- Rotom-Wash, Lv. 120, @Waterium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Hydro Pump
+    - Thunderbolt
+    - Will-O-Wisp
+    - Pain Split
+- Ampharos, Lv. 120, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
+    - Volt Switch
+    - Dragon Pulse
+    - Power Gem
+    - Thunder
+
+Especially with a non-electric Field Effect, shouldn't be too hard.
+
+The third pairing:
+
+**BreloomBot CL:4R1-C3. Field: Random Field**
+- Magnezone, Lv. 120, @Choice Specs, Ability: Magnet Pull, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Signal Beam
+    - Volt Switch
+    - Flash Cannon
+    - Thunderbolt
+- Magearna, Lv. 120, @Leftovers, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Shift Gear
+    - Dazzling Gleam
+    - Thunderbolt
+    - Flash Cannon
+- CL:4R1-C3 Breloom, Lv. 120, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Spore
+    - Magnet Bomb
+    - Shadow Punch
+    - Shift Gear
+
+This one is surprisingly tough. Even with a field effect that is beneficial, you still have to contend with the raw power of Magnezone, easy boosting potential of Magearna, and especially the absolute unit that is CL:4R1-C3 Breloom. Consider setting up on Magnezone somehow in order to oneshot the latter two. You can always save and reset for a more beneficial field, in a pinch.
+
+**Ringmaster Alistasia. Field: Random Field**
+- Hawlucha, Lv. 120, @Flying Gem, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Acrobatics
+    - Swords Dance
+    - High Jump Kick
+    - Roost
+- Blaziken, Lv. 120, @Focus Sash, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Swords Dance
+    - Acrobatics
+    - Superpower
+    - Blaze Kick
+- Primarina, Lv. 120, @Primarium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Sparkling Aria
+    - Moonblast
+    - Sing
+    - Ice Beam
+
+Shouldn't be too ridiculous as long as you're aware of the horrors these three are capable of.
+
+Finally, the last match is with Cass. If we pet Glaceon way back in the glass workstation, we will get to fight the first team:
+
+**Friendly Local Cass. Field: Random Field**
+- Ninetales-Alola, Lv. 120, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Aurora Veil
+    - Blizzard
+    - Moonblast
+    - Dark Pulse
+- Cinccino, Lv. 120, @Choice Band, Ability: Skill Link, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Bullet Seed
+    - Tail Slap
+    - Rock Blast
+    - Knock Off
+- Gardevoir, Lv. 120, @Gardevoirite, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Hyper Voice
+    - Psyshock
+    - Shadow Ball
+    - Thunderbolt
+
+Nothing too impossible here. If we didn't pet Glaceon, however.......
+
+**Friendly Local Cass. Field: Random Field**
+- Naganadel, Lv. 120, @Leftovers, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Fire Blast
+    - Sludge Wave
+    - Draco Meteor
+    - U-turn
+- Necrozma-Dawn, Lv. 120, @Ultranecrozium-Z, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Photon Geyser
+    - Moongeist Beam
+    - Dragon Pulse
+    - Heat Wave
+- Rayquaza, Lv. 120, @Choice Band, Ability: Air Lock, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Dragon Ascent
+    - Extreme Speed
+    - V-create
+    - Outrage
+
+Ouch. Win however you can, but you deserve this.
+
+Talk to the Ringmaster once you're done, and Meloetta will run over to the battle wheel.
+
+**Anomaly Meloetta & Her Multilyrical Melody. Field: Random Field**
+- Malamar, Lv. 120, @Amplifield Rock, Ability: Contrary, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Topsy-Turvy
+    - Superpower
+    - Knock Off
+    - Psycho Cut
+- Articuno, Lv. 120, @Choice Specs, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Signal Beam
+    - Hidden Power
+    - Hurricane
+- Abomasnow, Lv. 120, @Abomasite, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Blizzard
+    - Giga Drain
+    - Focus Blast
+    - Hyper Beam
+- Malamar, Lv. 120, @Amplifield Rock, Ability: Contrary, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Topsy-Turvy
+    - Superpower
+    - Knock Off
+    - Psycho Cut
+- Ninetales-Alola, Lv. 120, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Aurora Veil
+    - Blizzard
+    - Moonblast
+    - Dark Pulse
+- Meloetta-Aria, Lv. 120, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Energy Ball
+    - Hyper Voice
+    - Psyshock
+    - Dazzling Gleam
+- Furret, Lv. 120, @Magical Seed, Ability: Run Away, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Follow Me
+    - Power-Up Punch
+    - Baton Pass
+    - Amnesia
+- Celebi, Lv. 120, @Magical Seed, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Giga Drain
+    - Psychic
+    - Earth Power
+    - Baton Pass
+- Blaziken, Lv. 120, @Magical Seed, Ability: Speed Boost, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Baton Pass
+    - Acrobatics
+    - Brick Break
+    - Poison Jab
+- Glaceon, Lv. 120, @Magical Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Signal Beam
+    - Hyper Voice
+    - Baton Pass
+- Absol, Lv. 120, @Absolite, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Knock Off
+    - Superpower
+    - Sucker Punch
+    - Baton Pass
+- Meloetta-Pirouette, Lv. 120, @Magical Seed, Ability: Serene Grace, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Acrobatics
+    - Close Combat
+    - Return
+    - Thunder Punch
+
+Another 12v6. Oh boy. Although the field is random, there is a good chance that one of the Malamars will try to use Topsy-Turvy, transforming the field into Inverse Field. Just like on New World, that will activate all of the Magical Seeds, turning them into omniboosts. On top of the fact that they have lots of coverage in the types made extra good on this field - Ice, Bug, etc., means you'll be taking a lot of damage real fast. Either you can try to roll with this field, bringing moves that will be able to hit super effectively on Inverse, or you can suppress it by knocking out both Malamar's before it's too late. This can be especially beneficial if you end up on a field effect that your team likes and you want to preserve it. Otherwise, standard doubles strategies you've surely had to learn by now will hopefully net you the win eventually.
+
+Head back to the Nightclub!
+
+## What Lies Past Manyworld Forest
+
+Next, we're going to talk to Simon. He'll tell us about something happening in Agate City, so fly on over there. Dive down to reach the area where Lin got her Relic Stone, then enter the New World Door.
+
+**Manyworld Pool**
+
+|Land               |%  |
+|-------------------|---|
+|Qwilfish           |20 |
+|Remoraid           |20 |
+|Seel               |10 |
+|Spheal             |10 |
+|Shellder           |10 |
+|Golduck            |10 |
+|Quagsire           |5  |
+|Lapras             |5  |
+|Poliwrath          |4  |
+|Starmie            |4  |
+|Vaporeon           |1  |
+|Croconaw           |1  |
+
+Hidden right behind the door is:
+
+**ZCell 21: Manyworld Pool**
+
+<img src="/assets/media/reborn/zcell_21.jpg"/>
+
+You can also find a hidden *Max Revive*, *Exp. Candy XL*, and a *Dusk Ball*. Surface on the other end.
+
+**Manyworld Forest**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Sudowoodo          |20 |Relicanth          |100|
+|Delcatty           |20 |                   |   |
+|Lunatone           |10 |                   |   |
+|Solrock            |10 |                   |   |
+|Farfetch'd         |10 |                   |   |
+|Primeape           |10 |                   |   |
+|Snorlax            |5  |                   |   |
+|Skarmory           |5  |                   |   |
+|Bayleef            |4  |                   |   |
+|Quilava            |4  |                   |   |
+|Togetic            |1  |                   |   |
+|Dragonite          |1  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Omanyte            |70 |Omanyte            |60 |Omanyte            |40 |
+|Kabuto             |30 |Kabuto             |20 |Kabuto             |40 |
+|                   |   |Tirtouga           |20 |Omastar            |15 |
+|                   |   |                   |   |Kabutops           |4  |
+|                   |   |                   |   |Carracosta         |1  |
+
+This map is huge but mostly empty. Make your way to the bottom left corner to find:
+
+**ZCell 22: Manyworld Forest**
+
+<img src="/assets/media/reborn/zcell_22.jpg"/>
+
+Towards the top of the area, you'll be able to hop across some space platforms. In the center only on Anna Route, you'll find a *Fresh Water*. Don't waste it. Go to the left to find:
+
+**ZCell 23: Manyworld Forest**
+
+<img src="/assets/media/reborn/zcell_23.jpg"/>
+
+Down from here, you can hop across some platforms to grab the *Tapunium-Z*. Back up from here, you'll occasionally see a moving platform. Use it to reach a *Sacred Ash* at the top. Go back to the center.
+
+Going as far to the right as possible, you'll be able to ride another moving platform to reach:
+
+**ZCell 24: Manyworld Forest**
+
+<img src="/assets/media/reborn/zcell_24.jpg"/>
+
+Back in the middle, go up. On Lin Route, now you'll get a *Fresh Water*. Pour the Fresh Water onto the Celebi.
+
+Climb through the New World Door to emerge next to the Pokemon League. If Taka is currently alive for you, he'll be here, otherwise it will be Elias. Whomever is here will give you another *Fresh Water*. Prepare your best team, stock up on healing items, etc. as if you were locking yourself into an Elite Four challenge. Hint: we basically are. Don't be afraid to eat a loss and change up your team if one of the following battles is too much for now.
+
+Give the Fresh Water to Celebi. In the past, talk to Taube at the top for a battle.
+
+**Guiding Star Taube. Field: Holy Field**
+- Furret, Lv. 120, @Focus Sash, Ability: Keen Eye, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Follow Me
+    - Toxic
+    - Super Fang
+    - Return
+- Bibarel, Lv. 120, @Life Orb, Ability: Simple, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Swords Dance
+    - Aqua Jet
+    - Quick Attack
+    - Bulldoze
+- Lucario, Lv. 120, @Lucarionite, Ability: Inner Focus, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Bullet Punch
+    - Extreme Speed
+    - Vacuum Wave
+    - Power-Up Punch
+- Ribombee, Lv. 120, @Magical Seed, Ability: Shield Dust, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Pollen Puff
+    - Dazzling Gleam
+    - Nature Power
+    - Quiver Dance
+- Chatot, Lv. 120, @Magical Seed, Ability: Tangled Feet, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Boomburst
+    - Nasty Plot
+    - Heat Wave
+    - Protect
+- Garchomp, Lv. 120, @Rocky Helmet, Ability: Rough Skin, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Dragon Claw
+    - Earthquake
+    - Rock Slide
+    - Swords Dance
+
+Ame made Bibarel competent! Nothing too crazy here though, basically a Doubles version of Elias' Elite Four fight, with 100% less Ditto. Trick Room works wonders here... as expected.
+
+**Anomaly Celebi. Field: Flower Garden Field**
+- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Jolly Nature, IVs: 31, EVs: 4/0/252/0/0/252
+    - Spore
+    - Nature Power
+    - Baton Pass
+    - Leaf Blade
+- Celebi, Lv. 120, @Big Root, Ability: Natural Cure, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Leech Life
+    - Horn Leech
+    - Drain Punch
+    - Ingrain
+- Celebi, Lv. 120, @Big Root, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Oblivion Wing
+    - Giga Drain
+    - Parabolic Charge
+    - Ingrain
+- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nature Power
+    - Infestation
+    - Flamethrower
+    - Energy Ball
+- Celebi, Lv. 120, @Choice Scarf, Ability: Natural Cure, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Trick
+    - Sleep Powder
+    - Secret Power
+    - Fire Lash
+- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Photon Geyser
+    - Fusion Flare
+    - Energy Ball
+    - Sleep Powder
+
+A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokemon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug-type move like TM X-Scissor are pretty much all you'll need!
+
+Talk to Celebi to jump into the future.
+
+**Elite Four Skyspectre Elena. Field: Mountain Field**
+- Drifblim, Lv. 120, @Sitrus Berry, Ability: Unburden, Timid Nature, IVs: 31, EVs: 4/0/252/0/252/0
+    - Tailwind
+    - Thunder
+    - Ominous Wind
+    - Icy Wind
+- Dragonite, Lv. 120, @Light Clay, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Light Screen
+    - Reflect
+    - Thunder Wave
+    - Dragon Claw
+- Marowak-Alola, Lv. 120, @Assault Vest, Ability: Rock Head, Adamant Nature, IVs: 31, EVs: 0/252/252/0/4/0
+    - Shadow Bone
+    - Earthquake
+    - Fire Punch
+    - Iron Head
+- Aerodactyl, Lv. 120, @Choice Band, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Rock Slide
+    - Iron Head
+    - Double-Edge
+    - Crunch
+- Decidueye, Lv. 120, @Life Orb, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Shadow Sneak
+    - Brave Bird
+    - Leaf Blade
+    - Nature Power
+- Salamence, Lv. 120, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Heat Wave
+    - Hyper Voice
+    - Twister
+    - Ominous Wind
+
+Very similar to Heather's Elite Four battle, Elena also uses the Mountain Field and Tailwind to set up Strong Winds, neutralizing Flying's weaknesses. Dragonite likes to set screens - on top of Multiscale, this makes it annoyingly tanky, so consider Brick Break for this fight. Trick Room is good as usual, and turning the field into a Snowy Mountain can allow you to overpower with Ice moves. Just watch out for Marowak in both cases. Anyways, lots of options to win this one. 
+
+Talk to Celebi to proceed to the next area.
+
+**League Manager Amethyst. Field: Starlight Arena**
+- Ninetales-Alola, Lv. 120, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Aurora Veil
+    - Moonblast
+    - Aurora Beam
+    - Extrasensory
+- Lopunny, Lv. 120, @Lopunnite, Ability: Limber, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Cosmic Power
+    - Power-Up Punch
+    - Return
+    - Drain Punch
+- Sylveon, Lv. 120, @Leftovers, Ability: Pixilate, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Wish
+    - Protect
+    - Swift
+    - Yawn
+- Primarina, Lv. 120, @Assault Vest, Ability: Torrent, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Moonblast
+    - Sparkling Aria
+    - Hyper Voice
+    - Psychic
+- Whimsicott, Lv. 120, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Substitute
+    - Leech Seed
+    - Moonblast
+    - Encore
+- Absol, Lv. 120, @Darkinium-Z, Ability: Super Luck, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Sucker Punch
+    - Swords Dance
+    - Night Slash
+    - Psycho Cut
+
+I wonder if Amethyst likes Alolan Ninetales? And Fairy and Dark types? Boosted on the Starlight Arena? Of course, with the wrinkle of Mega Lopunny to consider, this shouldn't be too insane for anyone who could beat Anna earlier.
+
+Celebi will take you ahead in time once more.
+
+**Reborn Champion Shelly. Field: Fairy Tale Field**
+- Muk-Alola, Lv. 120, @Magical Seed, Ability: Power Of Alchemy, Careful Nature, IVs: 31, EVs: 0/252/0/0/252/4
+    - Acid Armor
+    - Crunch
+    - Poison Jab
+    - Power-Up Punch
+- Scizor, Lv. 120, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Swords Dance
+    - Roost
+    - Bullet Punch
+    - Night Slash
+- Yanmega, Lv. 120, @Life Orb, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Detect
+    - Bug Buzz
+    - Air Slash
+    - Hidden Power
+- Primarina, Lv. 120, @Primarium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Sparkling Aria
+    - Moonblast
+    - Amnesia
+    - Substitute
+- Xerneas, Lv. 120, @Power Herb, Ability: Fairy Aura, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Moonblast
+    - Geomancy
+    - Nature Power
+    - Focus Blast
+- Leavanny, Lv. 120, @Magical Seed, Ability: Overcoat, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Swords Dance
+    - Slash
+    - Leaf Blade
+    - X-Scissor
+
+What would be a gauntlet of four trainers without healing or switching your Pokemon without a Champion fight at the end? At this point in the game, her Yanmega, Leavanny, and Primarina are nothing we can't handle. Alolan Muk gets free defenses on this field thanks to its ability, and can boost its Atk and Def further on its free first turn from seed. Then there are the two demons. Mega Scizor is, by now, at least a known demon. It can boost to +3 with Swords Dance then hit like an absolute menace with Bullet Punch. The first time we have to fight a Xerneas is here however... and there's a reason this thing is regarded as so good. If you're not careful it will get +2 in SpA, SpD, and Spe then sweep you with field boosted Moonblast and Secret Sword. Ouch!
+
+A well chosen sweeper can deal with everything barring these two. If you're stuck on them, consider something with a Fire move for Scizor and a physical boosted Steel move for Xerneas. Using Magical Seeds on your own Pokemon will extend the "free turn" effect to them as well, so that may just be the key to overcoming Reborn's future champion.
+
+Talk to Shelly once you're done here. You'll be taken back to your time... and you can talk to **Celebi** to take it with you! Hooray! Return to the Nightclub.
+
+
+
 
 # Appendices
 
