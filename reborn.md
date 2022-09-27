@@ -17071,7 +17071,13 @@ Once you cross the ice puzzle, go to the top left corner of this room and dive d
 |Gyarados           |5  |
 |Vaporeon           |5  |
 
-Proceed to the dive spot and surface. Head up onto the land once you're ready for a battle with Florinia as your ally.
+Proceed to the dive spot and surface. Go down and weasel your way between some rocks to find:
+
+**ZCell 26: Unexplored Territory**
+
+<img src="/assets/media/reborn/zcell_26.jpg"/>
+
+Head up onto the land once you're ready for a battle with Florinia as your ally.
 
 **Anomaly Latias & Anomaly Latios. Field: Mountain Field**
 - Cobalion, Lv. 125, @Light Clay, Ability: Justified, Jolly Nature, IVs: 10, EVs: 252/4/0/0/0/252
@@ -17137,13 +17143,49 @@ Proceed to the dive spot and surface. Head up onto the land once you're ready fo
 
 Nothing too insane here - another Mountain Field fight. Only Cobalion and Typhlosion resist Ice on this field, so I recommend switching it to Snowy Mountain and going nuts if you get stuck. 
 
-Once you succeed, head north across the water and talk to Latias again. Essentially, the next quest will require us to build a translation key based on these orb things, scattered all around this little town. Explore every corner of this town - some are accessible only via the water, to find the way.
+Once you succeed, head north across the water and talk to Latias again. Essentially, the next quest will require us to build a translation key based on these orb things, scattered all around this little town. Explore every corner of this town - some are accessible only via the water, to find the way. Be sure to try to weasel your way between the rocks on the lake - there are some accessible paths you might not expect.
 
+By the way, in the bottom left corner, you can find:
 
+**ZCell 27: Unexplored Territory**
 
+<img src="/assets/media/reborn/zcell_27.jpg"/>
 
+Once you've found as many translations as you can, talk to Latias to learn a list of possible emotions, in English. These include Shock, Anxiety, Grief, Sorrow, Fear, Envy, Guilt, Passion, Confidence, Emptiness, Pride, Joy, Love, Disgust, Anger, and Apathy. Essentially, we will need to talk to the Florinia's around the area, diagnose them for one of these emotions, then translate it from the English word into the "emotion" word. 
 
+The Florinia to the left of Latias, across the bridge, is the first one I was able to solve. The answer:
 
+> ANGER, which translates to GMKR@
+
+You'll also be able to help the Florinia in the double-doored building to the right, on the second floor. The solution:
+
+> GUILT, which translates to K=XJ7
+
+The bottom right Florinia across some water has the solution:
+
+> SORROW, which translates to F5@@5#
+
+With all three solved, you can proceed to the next area, to the left of where Latias previously was. The cipher will remain the same, with new keys discovered in this next area.
+
+The Florinia to the bottom right of Latias:
+
+> JOY, which translates to %5H
+
+At the top of the large building in the top left corner, the solution:
+
+> PASSION, which translates to YGFFX5M
+
+Return to Latias, up from here is a new path we can follow. Inside this forest-like room, we can diagnose another emotion:
+
+> FEAR, which translates to ?RG@
+
+Back outside, a new gate will open to the right. Follow it, get some new clues, and talk to her at the top to solve the final puzzle:
+
+> LOVE, which translates to J5TR
+
+With that, Florinia will have some revelations and leave. **Latias** and **Latios** will now go with you, as well!
+
+On Lin Route, you'll even get the chance to fast travel out of here. Somehow, return to the Nightclub.
 
 # Appendices
 
