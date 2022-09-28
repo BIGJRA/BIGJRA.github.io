@@ -6402,6 +6402,8 @@ In the house next to the Pokemon Center, talk to the guy to learn of a glitch in
 
 These battles aren't particularly tough, but it is our first real exposure to fighting on the glitch field, so try to get used to its quirks here. For winning, you'll obtain the *Department Store Sticker: Porygon-Z*. 
 
+Talk to the people around the ice rink to progress the story.
+
 Enter the building above the ice rink. You'll get the *Battle Pass - Gravity*. Can't use it quite yet though. Back outside, talk to Shelly. While we're here, navigate through the ice rink and the child obstacles to reach the exit at the bottom. Follow it to get *TM95 Snarl*.
 
 From here, head up to the now-open apartment at the center of town. Go to the top floor and talk to Shelly.
