@@ -17073,7 +17073,32 @@ Once you cross the ice puzzle, go to the top left corner of this room and dive d
 |Gyarados           |5  |
 |Vaporeon           |5  |
 
-Proceed to the dive spot and surface. Go down and weasel your way between some rocks to find:
+Proceed to the dive spot and surface. 
+
+**Unexplored Territory**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Xatu               |20 |Golduck            |60 |
+|Azumarill          |20 |Kabutops           |30 |
+|Fearow             |10 |Aerodactyl         |5  |
+|Jumpluff           |10 |Lapras             |5  |
+|Scyther            |10 |                   |   |
+|Farfetch'd         |10 |                   |   |
+|Rapidash           |5  |                   |   |
+|Golduck            |5  |                   |   |
+|Espeon             |5  |                   |   |
+|Electrode          |4  |                   |   |
+|Ninetales          |1  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Kabuto             |70 |Omanyte            |60 |Omastar            |41 |
+|Omanyte            |30 |Qwilfish           |20 |Mantine            |40 |
+|                   |   |Staryu             |20 |Qwilfish           |15 |
+|                   |   |                   |   |Starmie            |4  |
+
+Go down and weasel your way between some rocks to find:
 
 **ZCell 26: Unexplored Territory**
 
@@ -17177,7 +17202,26 @@ At the top of the large building in the top left corner, the solution:
 
 > PASSION, which translates to YGFFX5M
 
-Return to Latias, up from here is a new path we can follow. Inside this forest-like room, we can diagnose another emotion:
+Return to Latias, up from here is a new path we can follow. Enter this room.
+
+**Unexplored Territory Forest Room**
+
+|Land               |%  |
+|-------------------|---|
+|Ariados            |20 |
+|Yanmega            |20 |
+|Butterfree         |10 |
+|Beedrill           |10 |
+|Victreebel         |10 |
+|Farfetch'd         |10 |
+|Honchkrow          |5  |
+|Vileplume          |5  |
+|Vaporeon           |4  |
+|Ninetales          |4  |
+|Espeon             |1  |
+|Kabutops           |1  |
+
+Inside this forest-like room, we can diagnose another emotion:
 
 > FEAR, which translates to ?RG@
 
@@ -17188,6 +17232,242 @@ Back outside, a new gate will open to the right. Follow it, get some new clues, 
 With that, Florinia will have some revelations and leave. **Latias** and **Latios** will now go with you, as well!
 
 On Lin Route, you'll even get the chance to fast travel out of here. Somehow, return to the Nightclub.
+
+## Aegir Cave Depths
+
+Talk to Aster in the Nightclub and agree to the quest. Make your way through Victory Road into the Aegir Cave once more.
+
+When you're in Aegir Cave, make your way down onto the lake and dive down. You'll see a crack of light towards the bottom, slightly right and down from the underwater cave entrance we previously entered. Enter the cave via this crack of light and surface.
+
+**Aegir Cave Depths**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Frillish           |100|Frillish           |60 |Jellicent          |55 |
+|                   |   |Alomomola          |20 |Alomomola          |40 |
+|                   |   |Staryu             |20 |Starmie            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Sableye            |20 |Lumineon           |60 |
+|Carbink            |20 |Empoleon           |30 |
+|Froslass           |10 |Chimecho           |5  |
+|Mawile             |10 |Lapras             |4  |
+|Vivillon           |10 |Azumarill          |1  |
+|Ribombee           |10 |                   |   |
+|Butterfree         |5  |                   |   |
+|Roserade           |5  |                   |   |
+|Volbeat            |4  |                   |   |
+|Illumise           |4  |                   |   |
+|Florges            |1  |                   |   |
+|Araquanid          |1  |                   |   |
+
+Grab a hidden *Rawst Berry*, then surf to the left and climb the waterfall to reach:
+
+**ZCell 28: Aegir Cave Depths**
+
+<img src="/assets/media/reborn/zcell_28.jpg"/>
+
+You can also climb the rightmost waterfall by going around the rocks to get the *Prison Bottle*!
+
+Climb down the waterfall at the bottom to descend.
+
+Grab the hidden *Dusk Ball*, *Fairy Gem*, *Max Potion*, *Exp. Candy XL*, and *Iron* in here. Climb the ladder to the right.
+
+This floor has a hidden *Rock Gem* and *Super Repel*. Continue up the ladder to the next floor, which contains a hidden *Full Restore*. Climb up once more to find an *Exp. Candy XL* and a hidden *Purple Shard* and *Protein*. The next floor has a hidden *Purple Shard* and *Max Repel*. Enter the New World Door at the end.
+
+Talk to the earring at the top, then exit back to the Aegir Cave Depths once the scene occurs. Now we'll be descending, following the paths that will open up as we go.
+
+You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next has a hidden *Red Shard*, *Stardust*, and *Cotton Candy*. Crossing the waterfall and climbing down the ladder will lead you to a hidden *Great Ball* and:
+
+**ZCell 29: Aegir Cave Depths**
+
+<img src="/assets/media/reborn/zcell_29.jpg"/>
+
+Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poke Ball*. Talk to our pal when you're ready for a fight.
+
+**Umbral Cain. Field: Dark Crystal Cavern**
+- Sandslash-Alola, Lv. 125, @Focus Sash, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aurora Veil
+    - Night Slash
+    - Iron Head
+    - Ice Punch
+- Klefki, Lv. 125, @Leftovers, Ability: Prankster, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Flash Cannon
+    - Dazzling Gleam
+    - Foul Play
+    - Thunder Wave
+- Magearna, Lv. 125, @Life Orb, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aurora Beam
+    - Dazzling Gleam
+    - Signal Beam
+    - Flash Cannon
+- Lucario, Lv. 125, @Choice Specs, Ability: Justified, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aura Sphere
+    - Flash Cannon
+    - Dark Pulse
+    - Dragon Pulse
+- Mawile, Lv. 125, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Crunch
+    - Rock Slide
+    - Play Rough
+    - Brick Break
+- Primarina, Lv. 125, @Choice Specs, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dazzling Gleam
+    - Ice Beam
+    - Psychic
+    - Hydro Pump
+
+First fight on this field in a while, but it's only a 6v6. Psh.
+
+In the next room, use the Light Shard and grab the hidden *Dusk Ball* and *Max Repel*. Head up when you're ready.
+
+**Anomaly Diancie & the Crystal Aegislash. Field: Dark Crystal Cavern**
+- Diancie, Lv. 125, @Diancite, Ability: Clear Body, Serious Nature, IVs: 31, EVs: 852/252/252/252/252/252
+    - Diamond Storm
+    - Dazzling Gleam
+    - Earth Power
+    - King's Shield
+- Crystal Aegislash, Lv. 125, @Expert Belt, Ability: Friend Guard, Serious Nature, IVs: 31, EVs: 1508/252/252/252/252/252
+    - Aurora Veil
+    - Heal Pulse
+    - Sunsteel Strike
+    - Dazzling Gleam
+
+Of course, these two don't make up a massive team, but are surely a huge pain. Try to get rid of Diancie on the first turn: the simplest way is probably using the Steelium-Z. Afterward, two at a time, you'll have to wear down the Crystal Aegislash. Knocking down one of its defensive stats may be useful - due to its massive HP, Counter and Mirror Coat may not be as effective. Endeavor, Destiny Bond, etc. are all excellent here as well. Or, the fun way: changing the field to Cave and collapsing it!
+
+Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Return to the Nightclub!
+
+## Ametrine Core
+
+Talk to your gang leader and accept the quest. He gives us the hint that we'll need to reach our destination by diving somewhere in Celestinine Mountain. Fly over to Route 1, get on a Tauros, and make your way to the mountain via the North Aventurine Woods, third entrance from the left. Once inside, surf to the bottom left corner and dive down. Towards the top of the underwater area, you'll see a lit up door, so head through it and surface. Enter the next room to reach the Ametrine Core.
+
+**Ametrine Core (First Room)**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
+|                   |   |Qwilfish           |20 |Cloyster           |15 |
+|                   |   |                   |   |Kingdra            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Beartic            |20 |Wailmer            |60 |
+|Swoobat            |20 |Seel               |30 |
+|Avalugg            |10 |Lumineon           |5  |
+|Magcargo           |10 |Wishiwashi         |4  |
+|Vanilluxe          |10 |Dewgong            |1  |
+|Delibird           |10 |                   |   |
+|Mamoswine          |5  |                   |   |
+|Jynx               |5  |                   |   |
+|Cryogonal          |4  |                   |   |
+|Glalie             |4  |                   |   |
+|Magmar             |1  |                   |   |
+|Froslass           |1  |                   |   |
+
+Talk to Cal at the entrance, then head up and smash the rock. Talk to Cal at the top, and Blake will show up. Essentially, we'll need to switch the room from hot (Cal) to cold (Blake) and vice versa to clear obstacles.
+
+- Start by making it hot and talk to the crystal down and to the left. Make your way down and left to talk to another crystal. 
+- Next, make it cold and follow the now-opened path to the bottom left and cross the ice. Head up from here, surf across, and use this crystal to make a path back to the center. Down and to the right is another crystal: use it to make more lava platforms.
+- Make it hot, then go to the right. Up from here, use the next crystal.
+- Making it cold again, follow the path to the right that we just opened. Activate the crystal here, then return to the center.
+- Make it hot, then follow the long path in the bottom right corner of the room to another crystal.
+- Make it cold. Straight up from here is a crystal: activate it. Next, go to the left of the center and activate the crystal on top of the stairs to the left. Go to the right side of the room, now following the path to reach the top, and activate a crystal to make another shortcut to the center. 
+- Make it hot, go to the top of the room, and smash the rock. 
+- Make it cold one more time and follow the path at the top to another crystal. Head into the next room at the top.
+
+**Ametrine Core (Second Room)**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
+|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
+|                   |   |Qwilfish           |20 |Cloyster           |15 |
+|                   |   |                   |   |Kingdra            |5  |
+
+|Cave               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Beartic            |20 |Wailmer            |60 |
+|Swoobat            |20 |Seel               |30 |
+|Mamoswine          |10 |Lumineon           |5  |
+|Magcargo           |10 |Wishiwashi         |4  |
+|Golem              |10 |Dewgong            |1  |
+|Heatmor            |10 |                   |   |
+|Dugtrio            |5  |                   |   |
+|Electabuzz         |5  |                   |   |
+|Claydol            |4  |                   |   |
+|Glalie             |4  |                   |   |
+|Magmar             |1  |                   |   |
+|Spiritomb          |1  |                   |   |
+
+In this room, another puzzle awaits.
+
+- Start by using the crystal to the left.
+- Turn it cold and activate the crystal up on the hill. Follow the new path across the lava and push the boulder to the right, out of the way.
+- Make it hot, then surf up, use the crystal, and return to the bottom.
+- Make it cold and use the crystal above. Cross the lava, activate the next crystal, and return.
+- Make it hot, then activate the crystal in the top left.
+- Make it cold once more. This time, head to the left side of the room, and hop down the long chain of ledges. It will take you around to the right side of the room, where you can activate another crystal. Cross the lava and push this boulder to the left.
+- Turn up the heat and climb down the ladder at the top!
+
+**Ametrine Core (Third Room)**
+
+|Cave               |%  |
+|-------------------|---|
+|Magcargo           |30 |
+|Swoobat            |20 |
+|Camerupt           |10 |
+|Golem              |10 |
+|Heatmor            |10 |
+|Dugtrio            |5  |
+|Weezing            |5  |
+|Claydol            |4  |
+|Torkoal            |4  |
+|Magmar             |1  |
+|Charizard          |1  |
+
+Follow the path from here. Time for a battle!
+
+**Anomaly Heatran. Field: Corrosive Mist Field**
+- Tyranitar, Lv. 125, @Elemental Seed, Ability: Sand Stream, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Stealth Rock
+    - Flamethrower
+    - Dark Pulse
+    - Thunderbolt
+- Excadrill, Lv. 125, @Choice Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Iron Head
+    - Earthquake
+    - Rock Tomb
+    - Brick Break
+- Primarina, Lv. 125, @Elemental Seed, Ability: Liquid Voice, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Psychic
+    - Hidden Power
+    - Moonblast
+    - Hyper Voice
+- Charizard, Lv. 125, @Charizardite X, Ability: Solar Power, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Mega Kick
+    - Dragon Dance
+    - Dragon Claw
+    - Fire Punch
+- Zygarde-50, Lv. 125, @Focus Sash, Ability: Aura Break, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Extreme Speed
+    - ThousandArrows
+    - Dragon Dance
+    - Dragon Tail
+- Heatran, Lv. 125, @Air Balloon, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Magma Storm
+    - Flash Cannon
+    - Earth Power
+    - Dragon Pulse
+
+Well, that at least explains why Blake and Cal kept talking about poisonous gases. You can blow away this field if the Poison is too much for you, but it does poison lots of your opponents too, so a Poison or Steel type might be able to stall their way to victory.
+
+Once you win, you can catch **Heatran**!
+
+Blow the popsicle stand and return to the Nightclub.
+
+
 
 # Appendices
 
