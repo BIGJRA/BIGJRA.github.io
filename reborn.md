@@ -246,6 +246,16 @@ Heavy Work In Progress :)
   - [Aegis Cave](#aegis-cave)
   - [The Agate Circus Ferris Wheel](#the-agate-circus-ferris-wheel)
   - [What Lies Past Manyworld Forest](#what-lies-past-manyworld-forest)
+  - [The Heist on the Train](#the-heist-on-the-train)
+  - [Aiding and Abetting Bladestar?](#aiding-and-abetting-bladestar)
+- [Postgame Episode 5: Wish Upon a Star](#postgame-episode-5-wish-upon-a-star)
+  - [Unexplored Territory](#unexplored-territory)
+  - [Aegir Cave Depths](#aegir-cave-depths)
+  - [Ametrine Core](#ametrine-core)
+  - [Splash Grounds](#splash-grounds)
+  - [Tabula Rasa](#tabula-rasa)
+  - [Not Truly For Children](#not-truly-for-children)
+- [Postgame Episode 6: Lights Out](#postgame-episode-6-lights-out)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -18005,9 +18015,159 @@ This fight is where fun comes to die! Psych Up! Serene Grace spam! And worst of 
 
 That's it for this tier of legendary quests! Return to the Nightclub when you're ready to.
 
-## Postgame Episode 6: Lights Out
+# Postgame Episode 6: Lights Out
 
 Rejoice, for the Level Cap is now Lv. 130!
+
+## Triskeline Toybox
+
+Accept Randall's quest. Fly over to the Tanzan Cove and enter the Tanzan Mountain. Enter the room on the west side of the mountain and follow the path onto the Wasteland Wall. Proceed through the strength puzzles and enter the room hidden behind the blue canister on the right once you're prepared for a fight.
+
+**Swag Jockey Fern. Field: Wasteland Field**
+- Haxorus, Lv. 128, @Focus Sash, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Outrage
+    - Rock Tomb
+    - Poison Jab
+- Scizor, Lv. 129, @Scizorite, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Bullet Punch
+    - Bug Bite
+    - Swords Dance
+    - Roost
+- Serperior, Lv. 129, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Leaf Storm
+    - Giga Drain
+    - Dragon Pulse
+    - Hidden Power
+- Buzzwole, Lv. 128, @Assault Vest, Ability: Beast Boost, Adamant Nature, IVs: 31, EVs: 0/252/128/0/128/0
+    - Leech Life
+    - Power-Up Punch
+    - Ice Punch
+    - Stone Edge
+- Krookodile, Lv. 130, @Choice Scarf, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Outrage
+    - Knock Off
+    - Stone Edge
+    - Stomp Tantrum
+- Decidueye, Lv. 130, @Decidium-Z, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Spirit Shackle
+    - Shadow Sneak
+    - Swords Dance
+    - Leaf Blade
+
+Fern finally replaces his annoying Roserade... with a Buzzwole! Is that fitting or what! Speaking of, Buzzwole can go on a rampage with Power-Up Punch on top of Beast Boost, so watch out for that. Otherwise, it's same ol' Fern doing the same ol' Fern things.
+
+Enter the New World Door once you beat him.
+
+Welcome to the Triskeline Toybox. Jump across the pink balls to the next area. Head up three sets of stairs from here to find:
+
+**ZCell 34: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_34.jpg"/>
+
+You can actually open the two chests to the left to get 3 *EV Boosters* and an *Ability Capsule*. Head up another set of stairs to open 2 more chests, containing a *Jolly Mint* and a *Timid Mint*. Down and right from here you can open 2 more chests to get a *PP All* and the *Mewnium-Z*. To the right:
+
+**ZCell 35: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_35.jpg"/>
+
+Down from here, hop across the pink balls to reach:
+
+**ZCell 36: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_36.jpg"/>
+
+Hop to the left, make your way to the bottom left corner, and hop to the left once more. Follow this path.
+
+**ZCell 37: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_37.jpg"/>
+
+Snorlax and Charizard block two of the chests, but you can open the one on the left to get 3 *Exp. Candy XL*. Head up from here:
+
+**ZCell 38: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_38.jpg"/>
+
+Open the chest to the right to find 8 *Glitter Balls*. Go down the stairs below and go right to open another chest, containing an *EV Tuner*. Climb back up the stairs to the left and hop across the pink balls:
+
+**ZCell 39: Triskeline Toybox**
+
+<img src="/assets/media/reborn/zcell_39.jpg"/>
+
+Hop across to the right, then go down and left. You'll see a Lapras plush: hop up from here.
+
+**Anomaly Mewtwo. Field: Starlight Arena**
+- Victini, Lv. 130, @Magical Seed, Ability: Victory Star, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Searing Shot
+    - Dazzling Gleam
+    - Psyshock
+    - Glaciate
+- Tapu Lele, Lv. 130, @Magical Seed, Ability: Telepathy, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Psychic
+    - Focus Blast
+    - Shadow Ball
+- Latios, Lv. 130, @Latiosite, Ability: Levitate, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Luster Purge
+    - Draco Meteor
+    - Earthquake
+    - Ice Beam
+- Hoopa-Unbound, Lv. 130, @Choice Scarf, Ability: Magician, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - HyperspaceFury
+    - Hyperspace Hole
+    - Gunk Shot
+    - Signal Beam
+- Sylveon, Lv. 130, @Magical Seed, Ability: Pixilate, Bold Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Swift
+    - Calm Mind
+    - Psyshock
+    - Wish
+- Mewtwo, Lv. 130, @Magical Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aurora Veil
+    - Nature Power
+    - Psystrike
+    - Vacuum Wave
+
+A decently tough fight on the Starlight Arena, but nothing you shouldn't be able to handle. 
+
+We'll need to chase Mew around after this. You can first find it in the bottom left side of the area, disguised as Cubone. Next, you'll find it disguised as the middle of three Jigglypuff on the right side of the area. Next is as a Chikorita on a table near the entrance. Finally, return to where we fought the Anomaly and talk to it once more. Go through the New World Door!
+
+**Chrysolia Deepwoods Cave**
+
+|Cave               |%  |
+|-------------------|---|
+|Garbodor           |20 |
+|Parasect           |20 |
+|Golem              |10 |
+|Weezing            |10 |
+|Mawile             |10 |
+|Victreebel         |10 |
+|Steelix            |5  |
+|Tangrowth          |5  |
+|Crobat             |4  |
+|Audino             |4  |
+|Smeargle           |1  |
+|Toucannon          |1  |
+
+In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ultra Ball*, *Ultra Potion*, and *Exp. Candy XL*. Halfway up the stairs, follow the path to a hidden *Dusk Ball* and:
+
+**ZCell 40: Chrysolia Deepwoods Cave**
+
+<img src="/assets/media/reborn/zcell_40.jpg"/>
+
+Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage.
+
+**Relationship Point Choices:**
+- Let Fern out right away (+1 Fern)
+- Make Fern beg once, then let him out (-1 Fern)
+- Make Fern beg twice, then let him out (-2 Fern)
+- Make Fern beg three times, then let him out (-3 Fern)
+- Make Fern beg four times, then let him out (-6 Fern)
+  
+Accept the fast travel request. We'll be getting Mew later.
+
+
 
 # Appendices
 
