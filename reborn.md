@@ -237,7 +237,7 @@ Heavy Work In Progress :)
 - [Postgame Episode 3: The Umbral Issue](#postgame-episode-3-the-umbral-issue)
   - [Route 3 New World](#route-3-new-world)
   - [Route 4 New World](#route-4-new-world)
-  - [Chrysolia Backwoods](#chrysolia-backwoods)
+  - [Chrysolia Deepwoods](#chrysolia-deepwoods)
   - [Umbral Battle at Vanhanen Castle](#umbral-battle-at-vanhanen-castle)
 - [Postgame Episode 4: Across Space & Time](#postgame-episode-4-across-space--time)
   - [Twilight Desert](#twilight-desert)
@@ -256,6 +256,9 @@ Heavy Work In Progress :)
   - [Tabula Rasa](#tabula-rasa)
   - [Not Truly For Children](#not-truly-for-children)
 - [Postgame Episode 6: Lights Out](#postgame-episode-6-lights-out)
+  - [Triskeline Toybox](#triskeline-toybox)
+  - [The Return of Kiki?](#the-return-of-kiki)
+  - [Neo Blacksteam Fabrication](#neo-blacksteam-fabrication)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -15351,7 +15354,7 @@ Ciel uses a team full of Flying types on New World Field, meaning they'll all ha
 
 Head down from here, use the warp, and return to the Nightclub.
 
-## Chrysolia Backwoods
+## Chrysolia Deepwoods
 
 Talk to Nyu in the Nightclub and accept his quest.
 
@@ -18167,6 +18170,387 @@ Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the le
   
 Accept the fast travel request. We'll be getting Mew later.
 
+## The Return of Kiki?
+
+Accept Simon's quest and fly over to Apophyll Academy. Talk to Victoria in the courtyard. We'll need to talk to various people in the courtyard that she points out, and battle them. Talk to the guy in the center a few times and beat him. The next target is someone on the second floor walkway, left side. Finally, talk to the person in the middle of the top arc of people. Once you're ready, head up.
+
+**Umbral Kiki. Field: Ashen Beach**
+- Palossand, Lv. 130, @Leftovers, Ability: Water Compaction, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Stealth Rock
+    - Shore Up
+    - Hidden Power
+    - Earth Power
+- Garchomp, Lv. 130, @Life Orb, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Poison Jab
+    - Stone Edge
+    - Earthquake
+    - Sand Attack
+- Suicune, Lv. 130, @Leftovers, Ability: Inner Focus, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Calm Mind
+    - Rest
+    - Whirlpool
+    - Hidden Power
+- Kingdra, Lv. 130, @Telluric Seed, Ability: Sniper, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Surf
+    - Draco Meteor
+    - Hidden Power
+    - Ice Beam
+- Gallade, Lv. 130, @Galladite, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Zen Headbutt
+    - Poison Jab
+    - Swords Dance
+    - Drain Punch
+- Marshadow, Lv. 130, @Marshadium-Z, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Spectral Thief
+    - Force Palm
+    - Bulk Up
+    - Shadow Sneak
+
+A tough fight on the Ashen Beach field. Suicune has double-strength Calm Mind with Rest, so will try to sweep you. Mega Gallade is absurdly powerful as well. Garchomp, Sniper Kingdra, and Palossand are each threatening in their own way. Finally, Marshadow is in the back, prepared to steal your stat boosts, use its Z-Move, and sweep. If you're struggling on this one, I recommend baiting out a heal from Suicune and setting up a physical sweeper in the meantime. Even with one or two Calm Minds, its moves don't have that much Base Power, so you might be able to set up and 2HKO Suicune and snowball into a sweep.
+
+Head into the back room once you're done and catch **Marshadow**! Return to the Nightclub.
+
+## Neo Blacksteam Fabrication
+
+Talk to Ringmaster and accept the quest. Head over to the Blacksteam Shelter and enter the room in the back on 1F.
+
+Talk to all the named characters in here. Head outside and talk to Aya, then return to this room and talk to her again. Next, head to the basement of the shelter. You'll find a New World Door! 
+
+**Anomaly Genesect & Anomaly Genesect. Field: Short-Circuit Field**
+- Klefki, Lv. 126, @Light Clay, Ability: Prankster, Modest Nature, IVs: 31
+    - Dazzling Gleam
+    - Flash Cannon
+    - Reflect
+    - Light Screen
+- Ferrothorn, Lv. 126, @Assault Vest, Ability: Iron Barbs, Adamant Nature, IVs: 31
+    - Nature Power
+    - Power Whip
+    - Knock Off
+    - Poison Jab
+- Genesect, Lv. 126, @Choice Band, Ability: Download, Jolly Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Magnet Bomb
+    - Gunk Shot
+    - U-turn
+    - Shadow Claw
+- Probopass, Lv. 126, @Synthetic Seed, Ability: Sturdy, Modest Nature, IVs: 31
+    - Zap Cannon
+    - Discharge
+    - Flash Cannon
+    - Dazzling Gleam
+- Dhelmise, Lv. 126, @Life Orb, Ability: Steelworker, Adamant Nature, IVs: 31
+    - Anchor Shot
+    - Shadow Claw
+    - Power Whip
+    - Rock Slide
+- Steelix, Lv. 126, @Steelixite, Ability: Rock Head, Adamant Nature, IVs: 31
+    - Nature Power
+    - Earthquake
+    - Rock Slide
+    - Wide Guard
+- Bisharp, Lv. 126, @Chople Berry, Ability: Defiant, Adamant Nature, IVs: 31
+    - Night Slash
+    - Brick Break
+    - Iron Head
+    - Stone Edge
+- Genesect, Lv. 126, @Life Orb, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Zap Cannon
+    - Blizzard
+    - Flash Cannon
+
+With Aya as your partner, it won't be too bad. Keep her Salazzle and Naganadel alive, supporting their Heat Wave's. 
+
+Head up from here. Once Aya presses the switch, you can explore this area a bit. Head straight up and talk to Aya near the Genesects.
+
+From the center of the room, go right and use the panel. Go up from here and team up with Arclight for a fight.
+
+**Anomaly Genesect & Anomaly Genesect. Field: Short-Circuit Field**
+- Ampharos, Lv. 126, @Wide Lens, Ability: Plus, Modest Nature, IVs: 31
+    - Zap Cannon
+    - Dragon Pulse
+    - Signal Beam
+    - Volt Switch
+- Eelektross, Lv. 126, @Life Orb, Ability: Levitate, Modest Nature, IVs: 31
+    - Zap Cannon
+    - Volt Switch
+    - Flamethrower
+    - Giga Drain
+- Vikavolt, Lv. 127, @Choice Scarf, Ability: Levitate, Modest Nature, IVs: 31
+    - Zap Cannon
+    - Volt Switch
+    - Bug Buzz
+    - Energy Ball
+- Zapdos, Lv. 127, @Leftovers, Ability: Pressure, Modest Nature, IVs: 31
+    - Zap Cannon
+    - Tailwind
+    - Volt Switch
+    - Heat Wave
+- Genesect, Lv. 127, @Shock Drive, Ability: Download, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Zap Cannon
+    - U-turn
+    - Blizzard
+- Klinklang, Lv. 126, @Wide Lens, Ability: Plus, Serious Nature, IVs: 31
+    - Volt Switch
+    - Zap Cannon
+    - Gear Grind
+    - Wild Charge
+- Manectric, Lv. 126, @Choice Specs, Ability: Minus, Timid Nature, IVs: 31
+    - Discharge
+    - Overheat
+    - Volt Switch
+    - Signal Beam
+- Golem-Alola, Lv. 127, @Custap Berry, Ability: Galvanize, Adamant Nature, IVs: 31
+    - Nature Power
+    - Explosion
+    - Earthquake
+    - Double-Edge
+- Raikou, Lv. 127, @Choice Specs, Ability: Inner Focus, Timid Nature, IVs: 31
+    - Volt Switch
+    - Thunderbolt
+    - Extrasensory
+    - Shadow Ball
+- Genesect, Lv. 127, @Shock Drive, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Zap Cannon
+    - U-turn
+    - Giga Drain
+A decently tough battle with a lot of Electric types, themed around Shock Drive Genesect. Ground types will generally do well here if you can cover their weaknesses. Tailwind is a good choice to support the already speedy team that Arclight has. Just be prepared for the Genesects - Fire moves are obviously great here.
+
+Win to get the *Shock Drive*. Return to the center - one of the computer terminals will allow us to insert the Shock Drive, which causes the room to light up. Go to the right and use the panel to remove a shutter. Next, go to the left and follow the path through an opened gate to a panel, which we can use to open a shutter at the bottom. Return to the center and remove the Shock Drive - this will cause the surges of electricity to go away, meaning we can follow the path on the left down.
+
+Following this path, open the shutter at the bottom. Returning to the center, switch the bottom terminal back off, and the gate below you will open. Go down and through the now open path to reach another fight.
+
+**Anomaly Genesect. Field: Short-Circuit Field**
+- Sandslash-Alola, Lv. 128, @Life Orb, Ability: Slush Rush, Adamant Nature, IVs: 31
+    - Rock Slide
+    - Icicle Crash
+    - Iron Head
+    - Shadow Claw
+- Porygon-Z, Lv. 128, @Life Orb, Ability: Download, Timid Nature, IVs: 31
+    - Zap Cannon
+    - Blizzard
+    - Shadow Ball
+    - Tri Attack
+- Aurorus, Lv. 128, @Synthetic Seed, Ability: Snow Warning, Modest Nature, IVs: 31
+    - Nature Power
+    - Blizzard
+    - Flash Cannon
+    - Discharge
+- Froslass, Lv. 128, @Life Orb, Ability: Snow Cloak, Timid Nature, IVs: 31
+    - Destiny Bond
+    - Shadow Ball
+    - Blizzard
+    - Thunderbolt
+- Regice, Lv. 128, @Leftovers, Ability: Clear Body, Modest Nature, IVs: 31
+    - Blizzard
+    - Zap Cannon
+    - Charge Beam
+    - Flash Cannon
+- Genesect, Lv. 128, @Chill Drive, Ability: Download, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Zap Cannon
+    - U-turn
+    - Techno Blast
+- Ninetales-Alola, Lv. 128, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 31
+    - Aurora Veil
+    - Dazzling Gleam
+    - Blizzard
+    - Dark Pulse
+- Aegislash, Lv. 128, @Leftovers, Ability: Stance Change, Modest Nature, IVs: 31
+    - Wide Guard
+    - Shadow Ball
+    - Flash Cannon
+    - King's Shield
+- Rotom-Frost, Lv. 128, @Electrium-Z, Ability: Levitate, Timid Nature, IVs: 31
+    - Volt Switch
+    - Blizzard
+    - Shadow Ball
+    - Thunder
+- Weavile, Lv. 128, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 31
+    - Night Slash
+    - Icicle Crash
+    - Ice Shard
+    - Low Kick
+- Articuno, Lv. 128, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31
+    - Tailwind
+    - Aurora Veil
+    - Blizzard
+    - Hurricane
+- Genesect, Lv. 128, @Chill Drive, Ability: Download, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Blizzard
+    - Zap Cannon
+    - Giga Drain
+
+Of course, this one is themed around the Chill Drive. With Cain as an ally, thankfully this isn't too bad. We've dealt with Alolan Ninetales leads like 234901348 times by now, so I'm sure you can figure this one out. It helps that all but Aurorus and Porygon-Z are weak to Fire. 
+
+Win to get the *Chill Drive*. Return to the center and insert it. Also, reinsert the Shock Drive and use the shutter terminal at the bottom. Head up and talk to Aya. Follow the path to the left and activate the shutter.
+
+Remove the Shock Drive and use the shutter terminal. Go down, left, then all the way to the top left corner of the room for another fight, with Titania as a partner.
+
+**Anomaly Genesect & Anomaly Genesect. Field: **
+- Infernape, Lv. 129, Ability: Iron Fist, Modest Nature, IVs: 10
+    - Thunder Punch
+    - U-turn
+    - Flare Blitz
+    - Earthquake
+- Ninetales, Lv. 129, @Heat Rock, Ability: Drought, Adamant Nature, IVs: 10
+    - Heat Wave
+    - Foul Play
+    - Dark Pulse
+    - Extrasensory
+- Incineroar, Lv. 129, @Synthetic Seed, Ability: Intimidate, Adamant Nature, IVs: 10
+    - Darkest Lariat
+    - Flare Blitz
+    - Thunder Punch
+    - Cross Chop
+- Blacephalon, Lv. 129, Ability: Beast Boost, Timid Nature, IVs: 10
+    - Mind Blown
+    - Shadow Ball
+    - Flamethrower
+    - Heat Wave
+- Moltres, Lv. 129, @Life Orb, Ability: Pressure, Rash Nature, IVs: 10
+    - Heat Wave
+    - Tailwind
+    - U-turn
+    - Solar Beam
+- Genesect, Lv. 129, @Burn Drive, Ability: Download, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Zap Cannon
+    - U-turn
+    - Solar Beam
+- Darmanitan, Lv. 129, Ability: Sheer Force, Jolly Nature, IVs: 10
+    - U-turn
+    - Flare Blitz
+    - Hammer Arm
+    - Rock Slide
+- Marowak-Alola, Lv. 129, @Thick Club, Ability: Cursed Body, Adamant Nature, IVs: 10
+    - Shadow Bone
+    - Flare Blitz
+    - Thunder Punch
+    - Rock Slide
+- Rotom-Heat, Lv. 129, @Electrium-Z, Ability: Levitate, Modest Nature, IVs: 10
+    - Thunder
+    - Volt Switch
+    - Overheat
+    - Shadow Ball
+- Victini, Lv. 129, @Synthetic Seed, Ability: Victory Star, Timid Nature, IVs: 10
+    - Searing Shot
+    - Dazzling Gleam
+    - Thunderbolt
+    - Shadow Ball
+- Entei, Lv. 129, @Synthetic Seed, Ability: Pressure, Jolly Nature, IVs: 10
+    - Bulldoze
+    - Sacred Fire
+    - Stone Edge
+    - Iron Head
+- Genesect, Lv. 129, @Burn Drive, Ability: Download, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Zap Cannon
+    - Solar Beam
+    - Flamethrower
+
+The Burn Drive team. Although Titania is weak to Fire on paper, her team is pretty solid for this fight overall. Maybe it's just because her team is so solid in general. Anyways, Water, Rock, and Ground type moves will do great here, or you can double down and run your own Fire types under Sun. 
+
+You'll get the *Burn Drive* once you win. Make your way to the center and insert it, then use the shutter terminal. Make your way to the bottom right corner and use a panel to remove a shutter - a shortcut to the entrance. Head up from the center next, talking to Aya. Go to the right and talk to another panel to remove a shutter.
+
+Return to the center and remove the Burn Drive. Go down, follow the path right and up, and talk to a panel at the end of this path. Return to the center. Activate the shutter terminal and insert the Shock Drive, then head to the right and follow the path to the top right. Talk to the machine here and activate combustion power. This will open up a path above to a tag battle with Hardy.
+
+**Anomaly Genesect & Anomaly Genesect. Field: Factory Field**
+- Greninja, Lv. 130, @Life Orb, Ability: Protean, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Pulse
+    - Surf
+    - Mat Block
+    - U-turn
+- Seismitoad, Lv. 130, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Muddy Water
+    - Earth Power
+    - Focus Blast
+    - Sludge Bomb
+- Blastoise, Lv. 130, @Blastoisinite, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Aura Sphere
+    - Dark Pulse
+    - Muddy Water
+    - Flash Cannon
+- Lanturn, Lv. 130, @Leftovers, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Hydro Pump
+    - Volt Switch
+    - Thunder
+    - Dazzling Gleam
+- Suicune, Lv. 130, @Synthetic Seed, Ability: Inner Focus, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Tailwind
+    - Blizzard
+    - Scald
+    - Shadow Ball
+- Genesect, Lv. 130, @Douse Drive, Ability: Download, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Techno Blast
+    - Thunder
+    - U-turn
+    - Gunk Shot
+- Politoed, Lv. 130, @Damp Rock, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Blizzard
+    - Surf
+    - Focus Blast
+    - Psychic
+- Escavalier, Lv. 130, @Synthetic Seed, Ability: Swarm, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Megahorn
+    - Iron Head
+    - Drill Run
+    - Knock Off
+- Empoleon, Lv. 130, @Synthetic Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 0/56/0/252/0/200
+    - Surf
+    - Blizzard
+    - Flash Cannon
+    - Aqua Jet
+- Rotom-Wash, Lv. 130, @Electrium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Volt Switch
+    - Thunder
+    - Hydro Pump
+    - Shadow Ball
+- Forretress, Lv. 130, @Synthetic Seed, Ability: Sturdy, Brave Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Zap Cannon
+    - Giga Drain
+    - Gyro Ball
+    - Volt Switch
+- Genesect, Lv. 130, @Douse Drive, Ability: Download, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Techno Blast
+    - Thunder
+    - Blizzard
+    - Giga Drain
+
+Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokemon are generally fast and frail and will die to the Water-type moves, so look out for that.
+
+Once you win, you'll get the *Douse Drive*. Head back to the top area and talk to Hardy if you'd like.
+
+**Relationship Point Choices**:
+- Talk to Hardy when he's with Aya in the Neo Blacksteam Fabrication (+1 Aya)
+
+Make your way to the center, remove the Chill Drive and Shock Drive, insert the Douse Drive, and use the shutter terminal. Go down, right, and all the way up to reach a machine. Activate the steam power system - in a nearby capsule, you'll find:
+
+**ZCell 41: Neo Blacksteam Fabrication**
+
+<img src="/assets/media/reborn/zcell_41.jpg"/>
+
+Return to the center. Remove the Burn Drive and put in the Chill Drive, then go to the bottom right corner of the room where there is another machine. Activate the supercooling system here - in the capsule, you'll find:
+
+**ZCell 42: Neo Blacksteam Fabrication**
+
+<img src="/assets/media/reborn/zcell_42.jpg"/>
+
+Back in the center, put in the Shock Drive. Make your way to the bottom left corner, and activate hydroelectric power. In the capsule:
+
+**ZCell 43: Neo Blacksteam Fabrication**
+
+<img src="/assets/media/reborn/zcell_43.jpg"/>
+
+That about covers the goodies, so make your way back to the center. Remove all drives except for the Douse Drive and Burn Drive, then make your way around the bottom, up the left side, and to the top of the room. You'll find a **Genesect** to catch up here!
+
+Make your way back to the center of the room, remove the remaining Drives, then exit at the bottom. Talk to Aya to view a scene, then go to the right. On Lin Route, you'll have an extra straightforward step to do here. Return to the Nightclub!
+
+## Idyll of Pestilence & Panaceance
+
+Accept Danielle's quest, then head over to the Peridot Ward. In Seacrest's garden, you'll find a New World Door!
 
 
 # Appendices
