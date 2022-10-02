@@ -18552,6 +18552,266 @@ Make your way back to the center of the room, remove the remaining Drives, then 
 
 Accept Danielle's quest, then head over to the Peridot Ward. In Seacrest's garden, you'll find a New World Door!
 
+**Idyll of Pestilence**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Ariados            |20 |Dragalge           |60 |
+|Amoonguss          |20 |Qwilfish           |30 |
+|Parasect           |10 |Sharpedo           |5  |
+|Venusaur           |10 |Tentacruel         |5  |
+|Muk                |10 |
+|Malamar            |10 |
+|Nihilego           |6  |
+|Honchkrow          |5  |
+|Weezing            |4  |
+|Skuntank           |4  |
+|Salazzle           |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Skrelp             |70 |Frillish           |60 |Dragalge           |41 |
+|Mareanie           |30 |Qwilfish           |20 |Jellicent          |40 |
+|                   |   |Quagsire           |20 |Toxapex            |15 |
+|                   |   |                   |   |Dhelmise           |4  |
+
+Make your way to the top of the hill in the center of the map. 
+
+**Relationship Point Choices:**
+- Agree to stop Eve (+1 Lumi)
+- Refuse to stop Eve (+1 Eve)
+
+If you choose to stop Eve, you'll have to battle her, else, you'll have to fight Lumi.
+
+**Snow Angel Lumi. Field: Wasteland**
+- Ninetales-Alola, Lv. 130, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
+    - Aurora Veil
+    - Nasty Plot
+    - Blizzard
+    - Dazzling Gleam
+- Glaceon, Lv. 130, @Life Orb, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 0/0/252/0/4/252
+    - Blizzard
+    - Wish
+    - Shadow Ball
+    - Signal Beam
+- Lapras, Lv. 130, @Leftovers, Ability: Water Absorb, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Dragon Dance
+    - Waterfall
+    - Ice Shard
+    - Smart Strike
+- Aurorus, Lv. 130, @Assault Vest, Ability: Snow Warning, Quiet Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Blizzard
+    - Earth Power
+    - Thunderbolt
+    - Nature Power
+- Goodra, Lv. 130, @Assault Vest, Ability: Gooey, Serious Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Power Whip
+    - Muddy Water
+    - Sludge Bomb
+    - Dragon Pulse
+- Latias, Lv. 130, @Telluric Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psycho Shift
+    - Mist Ball
+    - Dragon Pulse
+    - Surf
+
+**Sunray Eve. Field: Wasteland**
+- Alakazam, Lv. 130, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Focus Blast
+    - Psychic
+    - Calm Mind
+    - Dazzling Gleam
+- Espeon, Lv. 130, @Life Orb, Ability: Magic Bounce, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Shadow Ball
+    - Dazzling Gleam
+    - Calm Mind
+- Porygon-Z, Lv. 130, @Normalium-Z, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Conversion
+    - Thunderbolt
+    - Tri Attack
+    - Shadow Ball
+- Sigilyph, Lv. 130, @Telluric Seed, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Psycho Shift
+    - Roost
+    - Cosmic Power
+    - Stored Power
+- Metagross, Lv. 130, @Metagrossite, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Meteor Mash
+    - Bullet Punch
+    - Zen Headbutt
+    - Hammer Arm
+- Latios, Lv. 130, @Telluric Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psycho Shift
+    - Dragon Pulse
+    - Luster Purge
+    - Thunderbolt
+
+Either way, once you win, you'll get your next objective: collecting 5 Shaymin. The first one is right above you - they look like bushes.
+
+Make your way up and right. In this area, you can find an *Ultra Ball*. Navigate through the massive hop rock maze at the top, then interact with the orb on the next island. At the bottom of this island is a springy grass - step on it to reach another island with the second Shaymin. Use the springy grass to return to the center.
+
+Make your way around the center to the top left. Use the springy grass here to hop between hills. Once you reach a choice, use the leftmost one; at the next, use the bottom one. Grab the orb at the top of this hill, then use the bottom springy grass to return to the hill with three. Again, use the left one, and at the next hill, use the top one by the tree. At the next fork, go up to reach the third Shaymin!
+
+We can actually surf here - climb the waterfall to reach an *EV Booster* and a *Max Revive*. Anyways, use the springy grass near Shaymin to reach the center again. 
+
+Next, go to the bottom right, where the hedge maze is. At the first fork, go left to reach an orb. Make your way through the rest of the maze to get the fourth Shaymin in the bottom right corner, then return to the center.
+
+Finally, make your way to the bottom left corner, where the mushrooms are. Walk under the first two mushrooms to clear a path forward. Go to the top left, stand under the mushroom, and grab the nearby *Telluric Seed*. If you go up from this mushroom, you can reach a springy grass that will take you to: 
+
+**ZCell 44: Idyll of Pestilence**
+
+<img src="/assets/media/reborn/zcell_44.jpg"/>
+
+Return to the mushroom area. Follow the left edge of this area down, then go right, using three mushrooms along the way. Talk to the orb at the end here, then return to the center. Walk under the mushroom in the bottom right to reach the fifth Shaymin! Return to the top of the hill in the center.
+
+Talk to Eve once, then again for a battle. 
+
+**Anomaly Shaymin & Gracidea Friends. Field: Wasteland**
+- Registeel, Lv. 130, @Telluric Seed, Ability: Clear Body, Careful Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Stealth Rock
+    - Toxic
+    - Protect
+    - Power-Up Punch
+- Venusaur, Lv. 130, @Venusaurite, Ability: Overgrow, Bold Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Sleep Powder
+    - Venoshock
+    - Leaf Storm
+    - Synthesis
+- Naganadel, Lv. 130, @Dragonium-Z, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Venoshock
+    - Heat Wave
+    - Draco Meteor
+    - Dark Pulse
+- Scrafty, Lv. 130, @Red Card, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Dragon Tail
+    - Bulk Up
+    - Drain Punch
+    - Knock Off
+- Skarmory, Lv. 130, @Red Card, Ability: Sturdy, Impish Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Spikes
+    - Whirlwind
+    - Roost
+    - Thief
+- Shaymin-Sky, Lv. 130, @Life Orb, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Seed Flare
+    - Moonblast
+    - Earth Power
+    - Air Slash
+- Klefki, Lv. 130, @Sitrus Berry, Ability: Prankster, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Spikes
+    - Play Rough
+    - Thunder Wave
+    - Reflect
+- Roserade, Lv. 130, @Telluric Seed, Ability: Technician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Venoshock
+    - Sleep Powder
+    - Giga Drain
+    - Hidden Power
+- Scizor, Lv. 130, @Red Card, Ability: Swarm, Careful Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Bullet Punch
+    - Roost
+    - Knock Off
+    - Bug Bite
+- Cresselia, Lv. 130, @Red Card, Ability: Levitate, Calm Nature, IVs: 31, EVs: 252/0/0/4/0/252
+    - Recycle
+    - Moonlight
+    - Moonblast
+    - Thunder Wave
+- Steelix, Lv. 130, @Steelixite, Ability: Rock Head, Impish Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Dragon Tail
+    - Gyro Ball
+    - Curse
+    - Wide Guard
+- Dragalge, Lv. 130, @Red Card, Ability: Poison Point, Calm Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Dragon Tail
+    - Venoshock
+    - Hydro Pump
+    - Focus Blast
+
+Eve will be your ally. The opponents team largely relies on hazard damage, corrosion damage, and switching your Pokemon out with things like Whirlwind and Red Cards. Sticky Hold and Suction Cups can help alleviate these issues, as can Rapid Spin and Defog. Shaymin will also frequently transform the field to Grassy Terrain, so keep that in mind.
+
+Once you win, the Shaymin will purify the area! This area is slightly different but has the same layout as the wasteland version.
+
+**Idyll of Panaceance**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Shiftry            |20 |Floatzel           |60 |
+|Whimsicott         |20 |Vaporeon           |30 |
+|Swellow            |10 |Wailmer            |5  |
+|Ursaring           |10 |Golduck            |4  |
+|Muk                |10 |Dewgong            |1  |
+|Breloom            |10 |
+|**Kartana**        |6  |
+|Florges            |6  |
+|Sawsbuck           |4  |
+|Jumpluff           |4  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Feebas             |70 |Wishiwashi         |60 |Vaporeon           |41 |
+|Seel               |30 |Pyukumuku          |20 |Ludicolo           |40 |
+|                   |   |Dewgong            |20 |Milotic            |15 |
+|                   |   |                   |   |Clawitzer          |4  |
+
+Our first destination is the hedge maze. Follow the path up, escape the maze, and go around. Activate the orb at the end. Make your way back around and go through the now-open hedge path. Activate the next orb and repeat a few times. You'll reach the first of four *Gracidea* in the bottom right!
+
+Next, head to the mushroom area in the bottom left. Activate the red mushroom, then leave this area. Head to the top left corner next, with all the springy grass. You'll see a mushroom near the entrance glowing red. Following the path, use the bottom of two grasses at all three of the first forks. At the choice of three grasses, use the one on the left, then the top right in the next choice. Finally, choose the top grass to reach the second *Gracidea*. Climb back up this waterfall to get the *Soul Dew*!
+
+Make your way back to the mushroom area in the bottom left corner. Proceed through the path till you reach a purple mushroom. Step under it, then take the bottom springy grass to escape this area for now.
+
+Make your way to the top right corner once more. Hop to the left to get a *Full Restore*. Hop your way down and right to get:
+
+**ZCell 45: Idyll of Panaceance**
+
+<img src="/assets/media/reborn/zcell_45.jpg"/>
+
+Hop to the island in the top right corner. Talk to the orb then use the springy grass to reach the third *Gracidea*.
+
+Finally, return to the mushrooms in the bottom left corner. Follow the path through activating the purple mushroom as before, but take the top springy grass this time. Use the blue mushroom, then go down. Activate mushrooms as you go, making sure to go left once you use the red mushroom. Talk to the orb at the end of the path.
+
+Use the blue mushroom down and left from here, then follow the opened path. Use a red mushroom once more, then the blue mushroom in the bottom right corner. Grab the final *Gracidea*! 
+
+Return to the center. Craudberry will show up... and we have a bit of an interesting battle-based quest to take care of!
+
+**Harridan Craudburry. Field: Flower Garden Field**
+- Victreebel, Lv. 130, @Leftovers, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Leaf Blade
+    - Taunt
+    - Sludge Bomb
+    - Cut
+- Qwilfish, Lv. 130, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Cut
+    - Waterfall
+    - Taunt
+    - Throat Chop
+- Amoonguss, Lv. 130, @Poisonium-Z, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Grassy Terrain
+    - Giga Drain
+    - Sludge Bomb
+    - Synthesis
+- Heatmor, Lv. 130, Ability: Gluttony, Timid Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Giga Drain
+    - Hidden Power
+    - Focus Blast
+- Torkoal, Lv. 130, Ability: Drought, Modest Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Explosion
+    - Fissure
+    - Double Team
+- Crobat, Lv. 130, Ability: Inner Focus, Timid Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Heat Wave
+    - Taunt
+    - Sludge Bomb
+    - Giga Drain
+
+Winning this battle isn't hard. However, the catch here is that we actually need to end the battle with the Flower Garden Field at Stage 5... and Craudberry does everything in her power to ruin this mission.
+
+To win, you'll have to keep a few things in mind. First, that her Heat Waves on Heatmor, Torkoal, and Crobat will turn the field into Burning Field when it is not raining, but Rain plus Torkoal's Drought will turn the field to Rainbow. Next, Acid Downpour will reset the field to Stage 1, so you'll need to either knock out Amoonguss in one turn or worry about building up the field after the Z-Move is used. It's Grassy Terrain is also annoying, since it will also reset your progress. Finally, Cut and X-Scissor cut the field down a stage for each use, so you probably want to make sure Victreebel and Qwilfish don't use it much. To actually boost the stage of the field, the easiest way is just using Synthetic Seeds on your party, but moves like Growth, Rototiller, and Water Sport are viable too. 
+
+Talk to the nearby **Shaymin** once you're done to take it with you! To the right is a *Gracidea* that you can keep. Return to the Nightclub once you're done!
 
 # Appendices
 
