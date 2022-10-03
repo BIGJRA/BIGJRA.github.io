@@ -17030,7 +17030,7 @@ Sweet. There's just one more thing to do - finish catching the next legendary! F
 
 Climb the convenient ladder to grab an *Exp. Candy XL*, then go around the right. When you're ready, head up for an Anomaly!
 
-**Anomaly Magearna. Field: **
+**Anomaly Magearna. Field: Factory Field**
 - Roserade, Lv. 120, @Life Orb, Ability: Technician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Toxic Spikes
     - Giga Drain
@@ -17629,7 +17629,7 @@ Catch **Tapu Koko** once you win!
 
 Next is the Sapphire Room - and the schtick is the same, this time you have to transform the field into Misty Terrain.
 
-**Anomaly Tapu-Fini. Field: **
+**Anomaly Tapu-Fini. Field: Misty Terrain**
 - Ribombee, Lv. 125, @Focus Sash, Ability: Shield Dust, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Silver Wind
     - Moonblast
@@ -18394,7 +18394,7 @@ Win to get the *Chill Drive*. Return to the center and insert it. Also, reinsert
 
 Remove the Shock Drive and use the shutter terminal. Go down, left, then all the way to the top left corner of the room for another fight, with Titania as a partner.
 
-**Anomaly Genesect & Anomaly Genesect. Field: **
+**Anomaly Genesect & Anomaly Genesect. Field: Short-Circuit Field**
 - Infernape, Lv. 129, Ability: Iron Fist, Modest Nature, IVs: 10
     - Thunder Punch
     - U-turn
@@ -18957,6 +18957,11 @@ Well, the field will instantly change to Grassy Terrain, then likely to Burning 
 
 Anyways, return to the Nightclub!
 
+While you're here, if you're on Reshiram Route, Taka will ask you to see his Chatot. We got this back in Victory Road.
+
+**Relationship Point Choices:**
+- Show Taka his Chatot in Reshiram Route (+2 Taka)
+
 ## Endgame
 
 This next one has some hard fights, so prep your team accordingly. 
@@ -19019,7 +19024,7 @@ Anyways, we'll get our quest above. Collecting three Nanab Berries? Simple!
 
 Start by following the path around to the left, and grab the hidden *Pretty Wing*. Proceed and you'll see... oh god.
 
-**Master Mime. Field: **
+**Master Mime. Field: Glitch Field**
 - PULSE Abra, Lv. 130, @Leftovers, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Prismatic Laser
     - Frenzy Plant
@@ -19086,7 +19091,7 @@ Get the second *Nanab Berry* for winning.
 
 Back in the center, head up. On a small path to the right is a hidden *Swift Wing*. Past ??? is a hidden *Muscle Wing*. Up from here is a hidden *Resist Wing*, and a *Genius Wing* and *Clever Wing* are to the left.
 
-**PULSE Tangrowth. Field: **
+**PULSE Tangrowth. Field: Swamp Field**
 - PULSE Tangrowth C, Lv. 130, @Amplifield Rock, Ability: Filter, Relaxed Nature, EVs: 252/0/252/0/4/0
     - Trick Room
     - Poison Gas
