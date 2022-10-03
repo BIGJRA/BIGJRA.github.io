@@ -19273,9 +19273,11 @@ Once you awaken in a new area, use the Light Shard and head up from here for one
 
 A pretty annoying team that relies on, well, putting you to sleep constantly. Every single one is weak to Fairy moves, however, so a couple speedy Dazzling Gleam users trivialize this fight.
 
-Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it.
+Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it. Return to the Nigthclub!
 
+# Postgame Episode 7: Up, Down, n' All Around
 
+The level cap now sits at Lv. 135.
 
 # Appendices
 
