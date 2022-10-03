@@ -18955,7 +18955,327 @@ Well, the field will instantly change to Grassy Terrain, then likely to Burning 
 
 Anyways, return to the Nightclub!
 
-## The Nightmare
+## Endgame
+
+This next one has some hard fights, so prep your team accordingly. 
+
+Accept the final quest at the Nightclub then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
+
+**PULSE Hypno. Field: Chess Arena**
+- Swoobat, Lv. 130, @Wise Glasses, Ability: Simple, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nasty Plot
+    - Psychic
+    - Heat Wave
+    - Air Slash
+- Golisopod, Lv. 130, @Assault Vest, Ability: Emergency Exit, Adamant Nature, IVs: 31, EVs: 4/252/0/0/252/0
+    - First Impression
+    - Strength
+    - Liquidation
+    - Knock Off
+- Aegislash, Lv. 130, @Leftovers, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - King's Shield
+    - Shadow Sneak
+    - Iron Head
+    - Wide Guard
+- PULSE Hypno, Lv. 130, @Lum Berry, Ability: No Guard, Sassy Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Dark Void
+    - Dream Eater
+    - Ancient Power
+    - Foul Play
+- Rhyperior, Lv. 130, @King's Rock, Ability: Solid Rock, Adamant Nature, IVs: 31, EVs: 4/252/0/0/252/0
+    - Smart Strike
+    - Swords Dance
+    - Rock Slide
+    - Drill Run
+- Banette, Lv. 130, @Banettite, Ability: Cursed Body, Adamant Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Sucker Punch
+    - Shadow Sneak
+    - Destiny Bond
+    - Gunk Shot
+
+Another fight with PULSE Hypno, this time with the support of a full team on the Chess Arena. I recommend Quick Guard for this fight - you'll be able to block First Impression, all of the King Rhyperior's moves, and Sucker Punch. You'll also be at the mercy of Hypno's Dark Void, so Safeguard, Chesto Berries, Sleep Talk, etc. can all be useful in keeping your momentum here. If you don't already have a Z-Move planned out, the Buginium-Z can be crucial to taking out Hypno. Bring your own King for some priority shenanigans if needed.
+
+**Endgame**
+
+|Land               |%  |
+|-------------------|---|
+|Muk                |20 |
+|Tangrowth          |20 |
+|Garbodor           |10 |
+|Avalugg            |10 |
+|Swalot             |10 |
+|Abra               |10 |
+|Camerupt           |5  |
+|Hypno              |5  |
+|Clawitzer          |4  |
+|Mr. Mime           |4  |
+|Magnezone          |2  |
+
+There's something all of these wild Pokemon have in common... hmm...
+
+Anyways, we'll get our quest above. Collecting three Nanab Berries? Simple!
+
+Start by following the path around to the left, and grab the hidden *Pretty Wing*. Proceed and you'll see... oh god.
+
+**Master Mime. Field: **
+- PULSE Abra, Lv. 130, @Leftovers, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Prismatic Laser
+    - Frenzy Plant
+    - Metronome
+    - Blast Burn
+- PULSE Clawitzer, Lv. 130, @Leftovers, Ability: Contrary, Timid Nature, EVs: 252/0/0/4/0/252
+    - Origin Pulse
+    - Draco Meteor
+    - Overheat
+    - Hydro Cannon
+- PULSE Magnezone, Lv. 130, @Leftovers, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Parabolic Charge
+    - Core Enforcer
+    - Bolt Strike
+    - Recover
+- PULSE Mr. Mime, Lv. 130, @Life Orb, Ability: Wonder Guard, Timid Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Psycho Boost
+- PULSE Muk, Lv. 130, @Assault Vest, Ability: Protean, Adamant Nature, IVs: 31, EVs: 252/0/0/0/252/4
+    - Giga Drain
+    - Shadow Sneak
+    - Fire Blast
+    - Explosion
+
+Five PULSEs in one battle, on a field that makes this fight very interesting. First out is PULSE Abra, with three special moves that trade massive power for a recharge turn, and Metronome. While the latter isn't really an issue, this field makes it so recharge moves don't waste a turn whenever they secure knockouts, meaning whenever the powerful Abra can one shot you, it doesn't ever recharge. Clawitzer works basically the same as before, though it has Hydro Cannon to achieve the same effect as Abra. Magnezone has Bolt Strike for damage, Core Enforcer for coverage, and Parabolic Charge and Recover for healing, on top of Levitate, meaning it is hard to take down. PULSE Muk is mostly a special set with Protean Giga Drain and Fire Blast, but can use priority Shadow Sneak as well as Explosion, which acts basically as a nuke on this field. Finally there is PULSE Mr. Mime, who has only Psycho Boost. The 1 base SpA and Psycho Boost SpA drops gets ignored in favor of Mime's 190 SpD, so it can fire off this move over and over. Note that it's Wonder Guard plus the fact that Fairy moves are turned into Normal on this field means... you can't even damage it under normal means.
+
+So, it's all pretty intense, but doable. One thing to try is just changing the field outright - with the four Tapus, various weather conditions, pledge moves, etc. you can quash the team's strategies. Trick Room is additionally good here as well, only Muk is somewhat slow. If you do play on the field, I recommend some combination of the following: a Dark type with a lot of SpD to deal with Abra, such as Umbreon, for the immunity to its strongest move: Prismatic Laser. If it can then survive Frenzy Plant and Blast Burn, you can then take advantage of its recharge turn. A fast Pokemon with Smack Down, another with a physical Ground move to take care of Magnezone. Mirror Coat, Gastro Acid, Topsy-Turvy, Haze, etc. are all good moves to counter Clawitzer's strategy if you're having trouble, or you can use the Dragonium-Z to nuke it. A Dark type with Toxic is my recommended strategy to deal with Mime since it can't touch a Dark type, bonus points if you have a set up move to help deal with the rest of the team. Anything with decent SpD can probably handle Muk; bonus points if you can bait it's Explosion and Protect or something like that. 
+
+Once you win, you'll get the first *Nanab Berry*! 
+
+Back in the center, you'll find Anna, who can heal your team. Anyways, proceed to the right side next. Grab the hidden *Health Wing* then go down for another fight.
+
+**PULSE Camerupt. Field: New World**
+- PULSE Camerupt, Lv. 130, @Lum Berry, Ability: Sturdy, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Eruption
+    - Shadow Ball
+    - Earth Power
+    - Snarl
+- Whimsicott, Lv. 130, @Leftovers, Ability: Prankster, Timid Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Safeguard
+    - Protect
+    - Moonblast
+    - Hurricane
+- Meowstic-Male, Lv. 130, @Leftovers, Ability: Prankster, Modest Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Safeguard
+    - Protect
+    - Psychic
+    - Dark Pulse
+- Klefki, Lv. 130, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Foul Play
+    - Safeguard
+    - Protect
+    - Dazzling Gleam
+- Amoonguss, Lv. 130, @Black Sludge, Ability: Effect Spore, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Spore
+    - Strength Sap
+    - Rage Powder
+    - Sludge Bomb
+
+The PULSE we never actually got to fight is here at last... and it's about as annoying as you'd expect. Basically, it has Shedinja's 1 HP gimmick on top of Sturdy, meaning it just shrugs off every attack! On top of its Lum Berry and the rest of the team having Safeguard and Rage Powder, the team makes every attempt to prevent you from simply poisoning it. The New World field prevents weather chip damage as well. With field-boosted Earth Power and always max power Eruption, it hits hard too, so trying to stall out its PP may result in your team dead. The rest of the team is a solid Double's support team. 
+
+How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokemon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokemon with Mold Breaker, Gastro Acid, Worry Seed, etc., since Camerupt can then be literally knocked out with Lick or any other non Normal/Fighting-type attacking move once it loses its ability. Then the rest of the fight is fairly simple.
+
+Get the second *Nanab Berry* for winning.
+
+Back in the center, head up. On a small path to the right is a hidden *Swift Wing*. Past ??? is a hidden *Muscle Wing*. Up from here is a hidden *Resist Wing*, and a *Genius Wing* and *Clever Wing* are to the left.
+
+**PULSE Tangrowth. Field: **
+- PULSE Tangrowth C, Lv. 130, @Amplifield Rock, Ability: Filter, Relaxed Nature, EVs: 252/0/252/0/4/0
+    - Trick Room
+    - Poison Gas
+    - Sludge Wave
+    - Baneful Bunker
+- PULSE Avalugg, Lv. 130, @Assault Vest, Ability: Solid Rock, Brave Nature, EVs: 252/252/0/0/4/0
+    - Heavy Slam
+    - Ice Shard
+    - Precipice Blades
+    - Smack Down
+- PULSE Tangrowth B, Lv. 130, @Amplifield Rock, Ability: Arena Trap, Sassy Nature, EVs: 252/0/4/0/252/0
+    - Trick Room
+    - Sleep Powder
+    - Petal Blizzard
+    - Mud Bomb
+- PULSE Swalot, Lv. 130, @Telluric Seed, Ability: Water Absorb, Sassy Nature, EVs: 252/0/4/252/0/0
+    - Clear Smog
+    - Muddy Water
+    - Giga Drain
+    - Nasty Plot
+- PULSE Tangrowth A, Lv. 130, @Lum Berry, Ability: Stamina, Brave Nature, EVs: 252/252/4/0/0/0
+    - Power Whip
+    - Roar
+    - Strength Sap
+    - Rock Slide
+
+We already fought the "absurdly strong PULSEs who are good on Glitch Field" so now it's time for the "absurdly tanky PULSEs who are good on the Swamp Field". As you can probably tell, these PULSEs are dedicated to bulk, healing, and gradually wearing you down. They also use Trick Room to take advantage of their generally low speed. On top of this, their Poison and Mud-based Water and Ground moves are all powered up here.
+
+As in the other fight, you can use the various generated fields we've collected by now if you want to take some of the wind out of their strategy. You can also stick it out on the Swamp Field if you want. One thing to try would be to set up your own tanks - Steel and Poison types can use the Telluric Seed to great effect here, for example. Sludge Wave and Gunk Shot get a 2.25x boost on this field, so you can try to set up and use that move to overwhelm your opponents - only Swalot resists Poison. Sleep Powder has perfect accuracy on this field - so I recommend using this move liberally to prevent Trick Room, allow your partner to set up, etc. You can also use Toxic on half of the team, or consider something like the Ghost-type version of Curse to rapidly drain HP.
+
+Win to nab the third *Nanab Berry*, then return to the ??? guy. Up and to the right, you'll be able to follow a new path. Hug the bottom wall to reach:
+
+**ZCell 46: Endgame**
+
+<img src="/assets/media/reborn/zcell_46.jpg"/>
+
+Or so it would seem. Talk to Shiv up from here for a battle!
+
+**Dreamer Shiv. Field: Forest Field**
+- Roserade, Lv. 130, @Focus Sash, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nature Power
+    - Sleep Powder
+    - Toxic Spikes
+    - Giga Drain
+- Charizard, Lv. 130, @Magical Seed, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fire Blast
+    - Solar Beam
+    - Dragon Pulse
+    - Focus Blast
+- Weavile, Lv. 130, @Dark Gem, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Ice Shard
+    - Ice Punch
+    - Night Slash
+    - Poison Jab
+- Metagross, Lv. 130, @Metagrossite, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Meteor Mash
+    - Bullet Punch
+    - Zen Headbutt
+    - Earthquake
+- Gyarados, Lv. 130, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Earthquake
+    - Waterfall
+    - Crunch
+- Aipom, Lv. 130, @King's Rock, Ability: Skill Link, Jolly Nature, IVs: 31, EVs: 1000/1252/0/0/0/252
+    - Knock Off
+    - Low Sweep
+    - Tail Slap
+    - Bounce
+
+Oh. Your team is all set to Lv. 1 and you can't use bag items. Oh no.
+
+Unlike Solaris at Pyrous, this battle truly is intended to be lost, and there is no reward other than a few lines of dialogue for winning. That said, the only way you really can win is via strategies like FEAR... but it is technically doable if you feel like it.
+
+With all that taken care of, you'll receive Darkrai! Return to the Nightclub.
+
+## Water Treatment Center Anomaly?
+
+Talk to Smeargle and accept the quest. Head on down to the Water Treatment Center and make your way to the room in the top right corner, the Onyx Water Grid. Enter the New World Door!
+
+**Umbral Corey. Field: No Field**
+- Nidoqueen, Lv. 130, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Stealth Rock
+    - Earth Power
+    - Sludge Wave
+    - Ice Beam
+- Crobat, Lv. 130, @Muscle Band, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Leech Life
+    - Brave Bird
+    - Roost
+    - Tailwind
+- Toxapex, Lv. 130, @Black Sludge, Ability: Merciless, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Baneful Bunker
+    - Recover
+    - Scald
+    - Haze
+- Dragalge, Lv. 130, @Dragonium-Z, Ability: Adaptability, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Draco Meteor
+    - Sludge Bomb
+    - Toxic Spikes
+    - Shadow Ball
+- Skuntank, Lv. 130, @Life Orb, Ability: Aftermath, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fire Blast
+    - Sucker Punch
+    - Play Rough
+    - Swagger
+- Toxicroak, Lv. 130, @Life Orb, Ability: Dry Skin, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Gunk Shot
+    - Drain Punch
+    - Sucker Punch
+    - Swords Dance
+
+A fight with Umbral Corey! Nothing much to say here, you can beat him. 
+
+Head on back to the Nightclub and OH GOD
+
+Ok, so we were actually still dreaming. Head down from here and talk to Luna again. To progress, reverse course and go up instead - you'll see Shiv again and have to fight him!
+
+**Dreamer Shiv. Field: Starlight Arena**
+- Roserade, Lv. 130, @Focus Sash, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Nature Power
+    - Sleep Powder
+    - Toxic Spikes
+    - Giga Drain
+- Charizard, Lv. 130, @Magical Seed, Ability: Blaze, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fire Blast
+    - Solar Beam
+    - Dragon Pulse
+    - Focus Blast
+- Weavile, Lv. 130, @Dark Gem, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Ice Shard
+    - Ice Punch
+    - Night Slash
+    - Poison Jab
+- Metagross, Lv. 130, @Metagrossite, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Meteor Mash
+    - Bullet Punch
+    - Zen Headbutt
+    - Earthquake
+- Gyarados, Lv. 130, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Dragon Dance
+    - Earthquake
+    - Waterfall
+    - Crunch
+- Aipom, Lv. 130, @King's Rock, Ability: Skill Link, Jolly Nature, IVs: 31, EVs: 1000/1252/0/0/0/252
+    - Knock Off
+    - Low Sweep
+    - Tail Slap
+    - Bounce
+
+Thankfully, this fight isn't too bad with your team actually at their normal levels. 
+
+Once you awaken in a new area, use the Light Shard and head up from here for one more battle!
+
+**Anomaly Darkrai. Field: New World**
+- Darkrai, Lv. 130, @Air Balloon, Ability: Bad Dreams, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Void
+    - Spacial Rend
+    - Dark Pulse
+    - Dream Eater
+- Breloom, Lv. 130, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
+    - Spore
+    - Leech Seed
+    - Drain Punch
+    - Swords Dance
+- Sableye, Lv. 130, @Sablenite, Ability: Prankster, Relaxed Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Nightmare
+    - Knock Off
+    - Recover
+    - Dazzling Gleam
+- Darkrai, Lv. 130, @Magical Seed, Ability: Bad Dreams, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dark Void
+    - Spacial Rend
+    - Dark Pulse
+    - Nightmare
+- Meloetta-Pirouette, Lv. 130, @Magical Seed, Ability: Serene Grace, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Relic Song
+    - Wake-Up Slap
+    - Knock Off
+    - Stone Edge
+- PULSE Hypno, Lv. 130, @Sitrus Berry, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Belly Drum
+    - Dynamic Punch
+    - Meteor Mash
+    - Play Rough
+
+A pretty annoying team that relies on, well, putting you to sleep constantly. Every single one is weak to Fairy moves, however, so a couple speedy Dazzling Gleam users trivialize this fight.
+
+Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it.
+
+
 
 # Appendices
 
