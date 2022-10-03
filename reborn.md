@@ -259,6 +259,9 @@ Heavy Work In Progress :)
   - [Triskeline Toybox](#triskeline-toybox)
   - [The Return of Kiki?](#the-return-of-kiki)
   - [Neo Blacksteam Fabrication](#neo-blacksteam-fabrication)
+  - [Idyll of Pestilence & Panaceance](#idyll-of-pestilence--panaceance)
+  - [Anomalies at Subseven Sanctum](#anomalies-at-subseven-sanctum)
+  - [The Nightmare](#the-nightmare)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -18550,7 +18553,7 @@ Make your way back to the center of the room, remove the remaining Drives, then 
 
 ## Idyll of Pestilence & Panaceance
 
-Accept Danielle's quest, then head over to the Peridot Ward. In Seacrest's garden, you'll find a New World Door!
+Accept Zero's quest, then head over to the Peridot Ward. In Seacrest's garden, you'll find a New World Door!
 
 **Idyll of Pestilence**
 
@@ -18812,6 +18815,147 @@ Winning this battle isn't hard. However, the catch here is that we actually need
 To win, you'll have to keep a few things in mind. First, that her Heat Waves on Heatmor, Torkoal, and Crobat will turn the field into Burning Field when it is not raining, but Rain plus Torkoal's Drought will turn the field to Rainbow. Next, Acid Downpour will reset the field to Stage 1, so you'll need to either knock out Amoonguss in one turn or worry about building up the field after the Z-Move is used. It's Grassy Terrain is also annoying, since it will also reset your progress. Finally, Cut and X-Scissor cut the field down a stage for each use, so you probably want to make sure Victreebel and Qwilfish don't use it much. To actually boost the stage of the field, the easiest way is just using Synthetic Seeds on your party, but moves like Growth, Rototiller, and Water Sport are viable too. 
 
 Talk to the nearby **Shaymin** once you're done to take it with you! To the right is a *Gracidea* that you can keep. Return to the Nightclub once you're done!
+
+## Anomalies at Subseven Sanctum
+
+Accept Danielle's quest. Make your way to the Subseven Sanctum and enter the room on the left side of the maze. Talk to Luna then enter the door.
+
+Defeat the acolytes. You'll wake up in a cage - you can talk to the Arceus statue to walk through walls for a finite number of tiles. The 'A' key brings you back to the last statue you have used, if you get stuck.
+
+Start by using this statue and going straight up. Talk to the Blue Statue to the left, then return to your cell. Talk to Lukah in his, then go up the stairs yourself.
+
+In this hallway, go up and left to enter the room with the New World Door we were previously in. If you talk to any of the statues on the left side, you can walk through the wall to reach the Red Statue. Return to the previous room.
+
+This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Activate the Purple Statue next.
+
+<img src="/assets/media/reborn/subseven_path_1.jpg"/>
+
+Undo your steps to return to the entrance of the room. The next path you have to take will lead you to the Green Statue. Note that if you mess up and end up in some of the rooms on the left side, you'll have to go back to the beginning and start again.
+
+<img src="/assets/media/reborn/subseven_path_2.jpg"/>
+
+Return to the entrance area once more. Finally, we simply have to make it to the top of this room and climb the stairs. The path:
+
+<img src="/assets/media/reborn/subseven_path_3.jpg"/>
+
+Use the Light Shard if necessary and talk to the space deity in the room for a battle.
+
+**Anomaly Palkia. Field: Holy Field**
+- Entei, Lv. 130, @Choice Scarf, Ability: Pressure, Serious Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Sacred Fire
+    - Extreme Speed
+    - Eruption
+    - Extrasensory
+- Magearna, Lv. 130, @Magical Seed, Ability: Soul-Heart, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Fleur Cannon
+    - Volt Switch
+    - Aura Sphere
+    - Ice Beam
+- Meloetta-Aria, Lv. 130, @Magical Seed, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Relic Song
+    - Dazzling Gleam
+    - Psyshock
+    - Energy Ball
+- Jirachi, Lv. 130, @Magical Seed, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Ancient Power
+    - Dazzling Gleam
+    - Psyshock
+    - Doom Desire
+- Victini, Lv. 130, @Life Orb, Ability: Victory Star, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - V-create
+    - Bolt Strike
+    - U-turn
+    - Zen Headbutt
+- Palkia, Lv. 130, @Magical Seed, Ability: Telepathy, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Spacial Rend
+    - Hydro Pump
+    - Earth Power
+    - Ancient Power
+
+A lot of Ground weaknesses here, so taking advantage of the fact that your allies won't be hurt by Earthquake on this field might be the key. Note that Magearna gets stronger for every knockout, so targeting it first may be helpful. Trick Room is also great for this one. 
+
+Afterwards, you can catch **Palkia**!
+
+With that taken care of, the maze below will now be fixed. Head into the door on the right side and use the Light Shard. Time to battle the time deity next.
+
+**Anomaly Dialga. Field: Holy Field**
+- Celebi, Lv. 130, @Magical Seed, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Psyshock
+    - Giga Drain
+    - Ancient Power
+- Hoopa-Unbound, Lv. 130, @Sitrus Berry, Ability: Magician, Lonely Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Hyperspace Hole
+    - HyperspaceFury
+    - Gunk Shot
+    - Brick Break
+- Volcanion, Lv. 130, @Magical Seed, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Sludge Wave
+    - Steam Eruption
+    - Heat Wave
+    - Flash Cannon
+- Meloetta-Pirouette, Lv. 130, @Fightinium-Z, Ability: Serene Grace, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Close Combat
+    - Stone Edge
+    - Retaliate
+    - Ice Punch
+- Keldeo, Lv. 130, @Magical Seed, Ability: Justified, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Secret Sword
+    - Surf
+    - Icy Wind
+    - Hidden Power
+- Dialga, Lv. 130, @Magical Seed, Ability: Telepathy, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Roar of Time
+    - Ancient Power
+    - Fire Blast
+    - Aura Sphere
+
+Another Holy Field doubles battle. A fast Bug type or two can solve the problem of the leads. The rest of the team is pretty diverse but I'm sure you can find a way to take advantage of their weaknesses. 
+
+Catch **Dialga** once you win!
+
+If you beat Solaris at Pyrous and are on Reshiram Route, you'll get a battle here:
+
+**Umbral Taka. Field: Holy Field**
+- Tapu Bulu, Lv. 130, @Eject Button, Ability: Grassy Surge, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Nature Madness
+    - Rock Slide
+    - Superpower
+    - Megahorn
+- Charizard, Lv. 130, @Charizardite Y, Ability: Solar Power, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Solar Beam
+    - Air Slash
+    - Focus Blast
+- Infernape, Lv. 130, @Elemental Seed, Ability: Blaze, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Heat Wave
+    - Rock Slide
+    - Vacuum Wave
+    - Close Combat
+- Heatran, Lv. 130, @Sitrus Berry, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Eruption
+    - Earth Power
+    - Flash Cannon
+    - Magma Storm
+- Blacephalon, Lv. 130, @Elemental Seed, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Mind Blown
+    - Shadow Ball
+    - Will-O-Wisp
+    - Psychic
+- Volcarona, Lv. 130, @Elemental Seed, Ability: Swarm, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Struggle Bug
+    - Psychic
+    - Heat Wave
+    - Roost
+
+Well, the field will instantly change to Grassy Terrain, then likely to Burning Field thanks to Heat Wave and Eruption. Rock, Water, and Ground moves make this simple once you can take out Tapu Bulu.
+
+**Relationship Point Choices:**
+- If you beat Solaris at Pyrous and are on Reshiram Route, finish the sanctum quest (+2 Luna)
+
+Anyways, return to the Nightclub!
+
+## The Nightmare
 
 # Appendices
 
