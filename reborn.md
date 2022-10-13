@@ -6921,7 +6921,7 @@ Once you win, the Water Treatment Center will get fixed, but we'll need to make 
 
 Enter the Coral Water Grid in the bottom right. Fix the water, then enter the Onyx Grid at the top. Fix the water in here, then surf to the top of the room to get *TM93 Wild Charge*. Walk all the way back to the North Obsidia Grid.
 
-Fix the water here, head left into the Peridot Ward, and fix the water once more. Head up into the Lapis Grid and fix the water. Fix the Jasper Grid's water, grab the *Scope Lens*, and finally return to the Beryl grid. Talk to Titania in the upper right corner. Surf to the top left corner of the room and proceed through all the barriers, then free Titania below. Use the Light Shard and go in. 
+Fix the water here, head left into the Peridot Water Grid, and raise the water level once more. Head up into the Lapis Grid and fix the water. Fix the Jasper Grid's water, grab the *Scope Lens*, and finally return to the Beryl grid. Talk to Titania in the upper right corner. Surf to the top left corner of the room and proceed through all the barriers, then free Titania below. Use the Light Shard and go in. 
 
 You'll have a decision to make.
 
@@ -7662,7 +7662,7 @@ Make your way down to Seventh Street. There is a new move tutor here - the guy w
 |-------------------|---------------|
 |Knock Off          |8 Red Shards   |
 |Iron Head          |7 Purple Shards|
-|Zen Headbutt       |6 Green Shards |
+|Giga Drain         |6 Green Shards |
 |Liquidation        |6 Blue Shards  |
 
 Enter the watering hole and go down the now-open ladder. This is a shortcut to the Water Treatment Center and also contains a *Black Flute*. 
@@ -8706,33 +8706,33 @@ You can turn off the electric tiles in the top right side of the area and procee
 
 Either way you have to fight.
 
-**DJ Arclight. Field: Factory Field**
-- Jolteon, Lv. 77, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Shadow Ball
-    - Signal Beam
-    - Hidden Power
-    - Discharge
+**DJ Arclight (2x Hyper Potion). Field: Factory Field**
 - Luxray, Lv. 75, @Amplifield Rock, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 0/252/0/0/0/252
     - Electric Terrain
     - Wild Charge
     - Superpower
     - Throat Chop
-- Raichu, Lv. 75, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
+- Raichu, Lv. 76, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
     - Focus Blast
     - Thunderbolt
     - Hidden Power
     - Nasty Plot
-- Exploud, Lv. 75, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/200/0/0
+- Exploud, Lv. 75, @Sitrus Berry, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/200/0/0
     - Boomburst
     - Ice Beam
     - Earthquake
     - Surf
-- Noivern, Lv. 76, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+- Noivern, Lv. 77, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Dragon Pulse
     - Boomburst
     - Hurricane
     - Heat Wave
-- Ampharos, Lv. 78, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/252/0/224
+- Jolteon, Lv. 78, @Petaya Berry, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Shadow Ball
+    - Signal Beam
+    - Hidden Power
+    - Discharge
+- Ampharos, Lv. 79, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/252/0/224
     - Discharge
     - Zap Cannon
     - Dragon Pulse
@@ -8923,7 +8923,7 @@ They will then ask us to help out with a quest. It's optional but pretty easy an
 4. South Obsidia Ward, yellow-haired guy in the bottom left corner
 5. Obsidia Alleyway, yellow-haired girl wandering around 
 6. North Obsidia Ward, blue-haired glasses guy near the stairway
-7. Lapis Ward, silver-haired girl in the park south of the PokeMart
+7. Lapis Ward, silver-haired woman in the park south of the PokeMart
 8. Lower Peridot Ward, brown-haired guy wandering around east of the train station
 9. Lower Peridot Ward, blue-hatted guy in the last building before the railnet
 10. Lower Peridot Alleyway, black-haired girl
@@ -10621,7 +10621,7 @@ At the top of the ice puzzle, you'll see a climbing wall. Go up it, then surf to
 
 From here, our next destination is Ametrine Mountain 2F. You can either go through the mountain complex to get there or just fly to the Circus or Ametrine City and make your way there that way.
 
-We've gone this path once before to get some items. Climb the waterfall to 3F, then cross the ice north. Carefully go across the ice on the top left side to climb another fall to 4F. Once you reach 4F, save the game for in case you mess up, then beach at the top. You'll see a rock chilling in the middle of the ice puzzle towards the top left side. Drop down the ledge such that you'll be stopped by that rock, then go right and up into a climbable wall. Grab a hidden *Blue Shard* then go up to 5F. 
+We've gone this path once before to get some items. Climb the waterfall in the northeast side of Ametrine Mountain 2F to reach 3F, then cross the ice north. Carefully go across the ice on the top left side to climb another fall to 4F. Once you reach 4F, save the game for in case you mess up, then beach at the top. You'll see a rock chilling in the middle of the ice puzzle towards the top left side. Drop down the ledge such that you'll be stopped by that rock, then go right and up into a climbable wall. Grab a hidden *Blue Shard* then go up to 5F. 
 
 Complete an ice puzzle here, grab a *Paralyze Heal*, then take the waterfall down. Not down one floor, not two, but down EIGHT floors, you'll land on Ametrine Mountain B4F.
 
@@ -15758,7 +15758,7 @@ Enter the New World Door at the bottom to return to the Chrysolia Deepwoods. Tal
     - Solar Beam
     - Heat Wave
 
-The second can be found where the DNA Splicers were, on the top right side of the large structure.
+The second can be found where the Reveal Glass was, on the top right side of the large structure.
 
 **Poacher Atreus. Field: Forest Field**
 - Nidoqueen, Lv. 117, @Telluric Seed, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
