@@ -8907,6 +8907,8 @@ Escape back to Beryl Ward. We can now notably access the backrooms of the librar
 
 Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst* which lets us catch Pokemon a bit easier. 
 
+One more quick thing if you'd like: Fly on over to Calcenon City and go to Route 4. Hop across the rocks at the lake during the nighttime to catch Absol. 
+
 ## Amaranth Badge
 
 That's it for the side content, so head down to the Coral Ward and talk to Adrienn in their gym.
