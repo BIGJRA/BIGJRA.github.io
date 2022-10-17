@@ -19282,11 +19282,355 @@ Once you awaken in a new area, use the Light Shard and head up from here for one
 
 A pretty annoying team that relies on, well, putting you to sleep constantly. Every single one is weak to Fairy moves, however, so a couple speedy Dazzling Gleam users trivialize this fight.
 
-Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it. Return to the Nigthclub!
+Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it. Return to the Nightclub!
 
 # Postgame Episode 7: Up, Down, n' All Around
 
 The level cap now sits at Lv. 135.
+
+## Rhodochrine Tree
+
+Accept Nyu's quest in the Nightclub, then fly over to Beryl Ward. Enter Rhodochrine Jungle and make your way to the large tree at the top. Talk to Lumi here and agree to fetch the food from the Spyce. Make your way to Spyce in the North Obsidia Ward, get the 6 *Bubble Teas* from the lady behind the counter, then return to the jungle.
+
+Talk to Lumi outside once more, and you'll see a New World Door has opened. Great. Before we enter it though, head down to the Underroot. You'll find Shelly along with all of the following:
+
+**ZCell 47: The Underroot**
+
+<img src="/assets/media/reborn/zcell_47.jpg"/>
+
+**ZCell 48: The Underroot**
+
+<img src="/assets/media/reborn/zcell_48.jpg"/>
+
+**ZCell 49: The Underroot**
+
+<img src="/assets/media/reborn/zcell_49.jpg"/>
+
+**ZCell 50: The Underroot**
+
+<img src="/assets/media/reborn/zcell_50.jpg"/>
+
+**ZCell 51: The Underroot**
+
+<img src="/assets/media/reborn/zcell_51.jpg"/>
+
+**ZCell 52: The Underroot**
+
+<img src="/assets/media/reborn/zcell_52.jpg"/>
+
+**ZCell 53: The Underroot**
+
+<img src="/assets/media/reborn/zcell_53.jpg"/>
+
+**ZCell 54: The Underroot**
+
+<img src="/assets/media/reborn/zcell_54.jpg"/>
+
+**ZCell 55: The Underroot**
+
+<img src="/assets/media/reborn/zcell_55.jpg"/>
+
+**ZCell 56: The Underroot**
+
+<img src="/assets/media/reborn/zcell_56.jpg"/>
+
+With those all taken care of, return to the Rhodochrine Tree and enter the New World Door.
+
+The tree is another puzzle! Essentially, the goal will be to 'balance' the Anomalous (light) and Umbral (dark) energy in each room by knocking out Pokemon of each kind.
+
+In the first room, knock out one of the Espeon to proceed.
+
+Essentially, each species has a prime number 'value' among the first 8 primes - adding up the values for Anomalous and Umbral Pokemon in each room yet to be knocked out will tell you the current score - make them equal to continue. Note that you can't simply knock all of the Pokemon out - there must be at least one of each type still around.
+
+In the second room, you'll be told Chingling is 2, Espeon is 3, and Mightyena is 5. By extension from the first floor, you'll be able to conclude Umbreon is 3. 
+
+> The solution: since Mightyena is the only Umbral Pokemon it must be kept alive: bringing the Anomalous total to 5 requires knocking out one Chingling.
+
+In the third room, the Anomalous total is 7, and the Umbral total is 10. Eve will tell us Togetic is 7 before having to flee, so Noel will join us as we proceed. 
+
+> The solution: To bring the Umbral total down to 7, knocking out Umbreon is the way. Note that this implies that Mismagius is worth 7.
+
+In the fourth room, the totals are 12 and 14, respectively.  There are two Mismagius, a Togetic, a Cleffa, and an Espeon in this room.
+
+> The solution: Since we know the values of Togetic and Espeon, we can conclude Cleffa is 2. We know that we will need to knock out at least one Umbral Pokemon but not both... so knocking out one Mismagius leads to an Umbral total of 7. To the Anomalous total down from 12, then, we'll need to knock out Cleffa and Espeon.
+
+The fifth room has totals of 10 and 9, respectively. There are three Umbreon here, as well as one each of Flabebe, Floette, and Florges. We aren't directly given the values of any of these three, however.
+
+> The solution: Since the three Anomalous Pokemon have prime values, the only way to make 10 from three primes is by adding 2, 3, and 5. The game doesn't really tell you this until after this puzzle, but within evolutionary lines the further along species has the higher values - so Flabebe is 2, Floette is 3, and Florges is 5. With that information, we know we will need to knock out either one or two Umbreons to make an Umbral total of 3 or 6... but the latter cannot be obtained by any sum of 2, 3, and 5. So, knock out two Umbreon, Flabebe, and Florges to reach a balance of 3. 
+
+The sixth room has totals of 30 and 26. On the Anomalous side, you'll notice 2 Floette, 1 Florges, 1 Chingling, 2 Espeon, and 1 Granbull. On the Umbral side, you'll notice 2 Zweilous.
+
+> The solution: Since we have 2 Zweilous and an Umbral total of 26, we can conclude Zweilous is 13. By subtracting one 2, four 3's, and one 5 from 30, we can conclude that Granbull is 11. Since we can't simply remove 4 from the Anomalous side to reach 26, we'll need to knock out one Zweilous, making the target 13. As for the Anomalous side, knocking out Granbull, and any two of the Floette and Espeon will reach the balance of 13.
+
+The seventh room has 24 and 21. There is 1 Spritzee and 2 Kadabra in here, as well as 1 Houndour, 1 Murkrow, and 1 Zweilous.
+
+> The solution: First, we can figure out the values. Note that the Anomalous total is even, and the 2 Kadabra together will always have an even total. This implies Spritzee is even, since it is a prime, Spritzee is 2. We can thus conclude Kadabra is 11. On the other side, Murkrow and Houndour together add up to 8, meaning one of them must be 3 and the other 5. Shelving this for now, we now look at all the possible states of the Anomalous side. Keeping 2/3 alive would result in a total of either 13 or 22, while keeping only 1/3 alive would result in a total of either 2 or 11. None of the Umbral Pokemon are valued 2 or 11, and the Dark total begins at 21, meaning 13 must be the target value - knocking out one Kadabra will get us there on the Anomalous side. Luckily for us, Zweilous is valued 13, so we can knock out Houndour and Murkrow without being sure of their values to finish this room.
+
+The eighth room has 18 and 24. The Anomalous Pokemon are 1 Granbull and 1 Togetic, and the Umbral Pokemon are 1 Houndour, 1 Drifloon, and 1 Mandibuzz.
+
+> The solution: First, we will try to figure out what we can learn about the values of the Umbral Pokemon. If Houndour is 3, then Drifloon and Mandibuzz will total 21. Two odd numbers can't sum to an odd number, so one of them must be 2, meaning the other would be 19. If instead Houndour is 5, then Drifloon and Mandibuzz would total 19; by similar logic, would then be 2 and 17. We know that we will need to target either 7 or 11 thanks to the Anomalous side only having 2 Pokemon. So, how can we total 7 or 11 in the first case, where the Umbral values are 2, 3, 19? Well, we can't - one knockout would mean a total 5, 21, or 22. In the second case, however, the Umbral values being 2, 5, 17 would mean we simply have to knock out the 17 - since a solution exists, we can conclude Houndour is 5. We still aren't told whether Drifloon is 2 or 17, but later puzzles reveal that we can assume all evolutionary line members should be assumed to exist, even if they aren't present - meaning we can assume Vullaby exists, so Mandibuzz can't be the lowest prime in 2. So Drifloon is 2 and Mandibuzz is 17, and knocking out Mandibuzz and Granbull is all you need to do.
+
+The ninth room has 20 and 31. The Anomalous Pokemon are 1 Clefable and 1 Chimecho, while the Umbral Pokemon are 1 Poochyena, 1 Eevee, 1 Vullaby, 3 Deino, 1 Hydreigon, and 1 Misdreavus. We are also finally actually told that evolutions increase in value. 
+
+> The solution: This one is thankfully easier than it seems - since we know Zweilous is 13, Hydreigon must thus be 17 or 19. There are 7 non Hydreigon Umbral Pokemon. If Hydreigon is 19, then the remaining value is 12... which is not enough for the remaning 7 that all have a minimum of 2. It IS enough when Hydreigon is 17, however, meaning all of the other Umbral Pokemon are 2. So, that's nice. As for the Anomalous two, we know they total 20, hence must be 7 and 13 or 3 and 17. We can't generate 7 or 13 on the Umbral Side, so Chimecho and Clefable are 3 and 17. Since Cleffa is 2, we can infer the existence of Clefairy who must be at least 3. So Clefable isn't 3 and must thus be 17! 
+Knocking out everything except Hydreigon and Clefable does the trick.
+
+With that, we finally reach the top of the tree!
+
+**Rhodochrine Tree**
+
+|Land               |%  |
+|-------------------|---|
+|Lilligant          |30 |
+|Liepard            |20 |
+|Lurantis           |10 |
+|Exeggutor          |10 |
+|Leavanny           |10 |
+|Tsareena           |5  |
+|Spiritomb          |5  |
+|Aromatisse         |4  |
+|Dustox             |4  |
+|Sceptile           |1  |
+|Decidueye          |1  |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Staryu             |100|Starmie            |100|Starmie            |95 |
+|                   |   |                   |   |Froakie            |4  |
+|                   |   |                   |   |Frogadier          |1  |
+
+Go to the left all the way to what appears like a dead end, and you'll be able to get:
+
+**ZCell 57: Rhodochrine Tree**
+
+<img src="/assets/media/reborn/zcell_57.jpg"/>
+
+You can also surf across the water on the right side of the area to reach:
+
+**ZCell 58: Rhodochrine Tree**
+
+<img src="/assets/media/reborn/zcell_58.jpg"/>
+
+Talk to Noel once more and you'll be taken to the base of the tree. That's it for this quest right now... we'll finish it up later. Return to the Nightclub!
+
+## Mirage Tower Mirages
+
+Accept the quest from Aster, then fly over to Train Town in the desert. Take the portal to the Mirage Tower. 
+
+Talk to Laura in the first room. We'll get a choice on going higher in the tower to find Charlotte and lower to find Saphira - we'll be able to do both, though. I'll start by going up. Follow the path through the Mirage Tower the same way as before. When you reach the room that contained Honedge, enter the New World Door.
+
+In this section, more of the same kind of puzzle we did previously in the tower. Only now you can touch the puzzles on both sides. Here I will say the left puzzle is "P1" and the right puzzle is "P2" for notation. 
+
+Solution 1:
+> P1: U L L L, P2: U U R R R U U D D L L L L L R R D D, P1: R D
+
+Solution 2:
+> P1: D D D R D R R R U L U L L L, P2: U U U U R R R R R, P1: L L, P2: D D
+
+The third puzzle has a secret. See if you can figure it out.
+> The secret is that you can take pieces out of the inscribed squares... anywhere on the map. Anyways, one possible solution:
+> P2: R R, P1: L L, P2: U U, P1: L L U U, P2: L L U R R U U L D D D D D D D D R R R R R U U U U L L D, P1: D D D R R R R R R L L L L D D L L, P2: D D
+
+In the next room, you can talk to Charlotte on Lin Route:
+
+**Relationship Point Choices:**
+- On Lin Route, Tell Charlotte her line was badass (+1 Charlotte)
+
+Solution 4:
+> P1: D D L L, P2: U U, P1: R R, P2: D D, P1: U
+
+Once you finish the puzzle, you can grab:
+
+**ZCell 59: Mirage Tower?**
+
+<img src="/assets/media/reborn/zcell_59.jpg"/>
+
+You can also get the *Solganium-Z* here. Proceed to the next room.
+
+Solution 5:
+> P1: D D D R D R R R U L L L L, P2: U U U U R R R, P1: L U R R, P2: U L D L D, P1: R, P2: D D L, P1: D
+
+Once you succed, you'll get the *Latiasite* and *Latiosite*! Nice. However, there's still more to do: return to the previous room.
+
+You can kinda walk up past the New World Door, finding another New World Door at the very top. In the next room is an Anomaly!
+
+**Anomaly Ho-oh. Field: Mirror Arena**
+- Articuno, Lv. 135, @Synthetic Seed, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
+    - Aurora Veil
+    - Aurora Beam
+    - Ancient Power
+    - Roost
+- Shaymin-Sky, Lv. 135, @Choice Specs, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dazzling Gleam
+    - Seed Flare
+    - Earth Power
+    - Air Slash
+- Celesteela, Lv. 135, @Magical Seed, Ability: Beast Boost, Calm Nature, IVs: 31, EVs: 4/0/0/252/252/0
+    - Flash Cannon
+    - Leech Seed
+    - Protect
+    - Giga Drain
+- Latias, Lv. 135, @Latiasite, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Mist Ball
+    - Ice Beam
+    - Calm Mind
+    - Roost
+- Hydreigon, Lv. 135, @Darkinium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Pulse
+    - Flash Cannon
+    - Draco Meteor
+    - Roost
+- Ho-oh, Lv. 135, @Magical Seed, Ability: Regenerator, Serious Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sacred Fire
+    - Earthquake
+    - Recover
+    - Ancient Power
+
+If the field is broken, you'll go to New World... where all the Magical Seeds and many of your opponents moves will be activated. The team is all Flying or Dragon type, so make sure you can exploit those two weaknesses with some sweepers to win.
+
+Afterwards, you'll be able to catch **Ho-oh**! Accept the fast travel request to the entrance to the Mirage Tower. Next, break all of the mirrors on this floor to open a bath to Mirage Tower B1F.
+
+You'll find a New World Door to the left, so head on in. Talk to Saphira, then head down the ladder. At the end of the path is a mirror. Smashing it will take you to a different dimension of sorts. Push the stone up, then un-smash the mirror - the ladder has moved! Take it to proceed.
+
+In the next area, head down the ladder to get a hidden *Rare Bone*. Head up, then enter the crystal dimension. Head through the New World Door at the bottom to get:
+
+**ZCell 60: Mirage Tower?**
+
+<img src="/assets/media/reborn/zcell_60.jpg"/>
+
+Complete the rest of the room: using what we've just learned will make it straightforward. Push the stone in a clockwise loop around the room to continuously push the ladder.
+
+The next section is generally similar, note that you can access the mirror from upper levels and lower levels. On the left side of the loop, you'll be able to push the stone into a rectangle - if you can get it into the bottom left corner, the ladder will take you to the *Lunalium-Z* as well as: 
+
+**ZCell 61: Mirage Tower?**
+
+<img src="/assets/media/reborn/zcell_61.jpg"/>
+
+Make it to the end of the room and exit at the top. You'll talk to Saphira here, and also you'll be able to find:
+
+**ZCell 62: Mirage Tower?**
+
+<img src="/assets/media/reborn/zcell_62.jpg"/>
+
+Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this rather straightforward path to another Anomaly!
+
+**Anomaly Lugia. Field: Dark Crystal Cavern**
+- Mismagius, Lv. 135, @Magical Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Power Gem
+    - Shadow Ball
+    - Dazzling Gleam
+    - Will-O-Wisp
+- Dialga, Lv. 135, @Magical Seed, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Stealth Rock
+    - Power Gem
+    - Draco Meteor
+    - Flash Cannon
+- Kommo-o, Lv. 135, @Kommonium-Z, Ability: Bulletproof, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Poison Jab
+    - Clanging Scales
+    - Earthquake
+    - Close Combat
+- Mew, Lv. 135, @Leftovers, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
+    - Nature Power
+    - Aurora Veil
+    - Dazzling Gleam
+    - Dark Pulse
+- Diancie, Lv. 135, @Diancite, Ability: Clear Body, Rash Nature, IVs: 31, EVs: 0/252/0/4/0/252
+    - Dazzling Gleam
+    - Diamond Storm
+    - Rock Polish
+    - Earth Power
+- Lugia, Lv. 135, @Magical Seed, Ability: Multiscale, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Roost
+    - Ancient Power
+    - Ice Beam
+    - Aeroblast
+
+Been a while since we've had to fight on this terrain, but you can surely handle it. Be careful of Kommo-o with it's Z-Move and the very bulky Lugia.
+
+Win, and you can catch **Lugia**! Accept the fast travel back up, watch the conversation, then head back to the Nightclub.
+
+## New World Crash
+
+Accept Simon's quest, then fly over to the Beryl Ward. Cross the bridge and enter Citrine Mountain. Make your way to the bottom right corner of the room, then climb up the rocks and surf to the waterfall in the top right corner. Enter the New World Door.
+
+After the conversation in the middle, follow the narrow paths to the corners of the area and talk to the small rocks. Once you've done all four, go to the top of the area for an Anomaly battle!
+
+**Anomaly Deoxys. Field: Starlight Arena**
+- Deoxys-Speed, Lv. 135, @Light Clay, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Stealth Rock
+    - Spikes
+    - Reflect
+    - Light Screen
+- Metagross, Lv. 135, @Metagrossite, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Meteor Mash
+    - Bullet Punch
+    - Earthquake
+    - Zen Headbutt
+- Darkrai, Lv. 135, @Darkinium-Z, Ability: Bad Dreams, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Spacial Rend
+    - Dark Pulse
+    - Psychic
+    - Nasty Plot
+- Genesect, Lv. 135, @Life Orb, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Techno Blast
+    - Ice Beam
+    - Psychic
+    - Flash Cannon
+- Clefable, Lv. 135, @Leftovers, Ability: Unaware, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Cosmic Power
+    - Toxic
+    - Moonblast
+    - Soft-Boiled
+- Deoxys-Defense, Lv. 135, @Magical Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Nasty Plot
+    - Cosmic Power
+    - Recover
+    - Flash Cannon
+
+Nothing too crazy here, I guess. Deoxys Defense is probably the most threatening - if it can set up defenses AND offenses, you're going to have a bad time. Abuse Dark type moves being buffed on this field to one shot it if you need to.
+
+Once you win, you can catch **Deoxys**!
+
+That's pretty much it, so leave.
+
+## Cauldron of the Future
+
+Accept Sandy's quest next, then make your way through the desert all the way to Teknite Cave. Make your way to the Teknite Ridge via going left at the fork in the cave. Climb the rocks at the top to reach a New World Door! Enter it.
+
+**Cauldron of the Future**
+
+|Land               |%  |
+|-------------------|---|
+|Hakamo-o           |20 |
+|Malamar            |20 |
+|Aerodactyl         |10 |
+|Bruxish            |10 |
+|Blacephalon        |10 |
+|Liepard            |10 |
+|Jellicent          |5  |
+|**Celesteela**     |5  |
+|Type: Null         |4  |
+|Guzzlord           |4  |
+|Kommo-o            |2  |
+
+|Super Rod          |%  |
+|-------------------|---|
+|**Cosmog**         |100|
+
+Pretty sweet - we can catch Celesteela now, as well as Cosmog. Fish in the void lake near Adrienn to get some! Grab two of them (four for the living dex) to also obtain **Cosmoem**, **Solgaleo**, and **Lunala** by evolving at Lv. 43, 53 during the day, and 53 during the night, respectively. You can also get another Type: Null here for living dex purposes if you like.
+
+Follow the path to the left to find:
+
+**ZCell 63: Cauldron of the Future**
+
+<img src="/assets/media/reborn/zcell_63.jpg"/>
+
+It's also worth noting that the glowing mining rocks here will infinitely replenish if you exit this area and return, so no need to buy Blast Powder or worry about the finite number of rocks in the region.
+
+Once you're done here, return to the Nightclub.
+
+
 
 # Appendices
 
