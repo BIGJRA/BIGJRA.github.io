@@ -11,3 +11,11 @@ Remaining Zygarde Cells (71 Total):
 - Distorted Space: 1 Cell
 - Neoteric Isle: 5 Cells
 - Citae Prisma: 2 Cells 
+
+Remaining Relationship Points (Thanks to Vixen!):
+- *Save Ace with Taka as your partner:
+    - +1 Ace
+- Show Ace their Fennekin:
+    - +1 Ace
+- Abandon Lin to catch Arceus first if she had been the postgame lead:
+    - -3 Terra

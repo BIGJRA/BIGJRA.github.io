@@ -240,7 +240,7 @@ Heavy Work In Progress :)
   - [Chrysolia Deepwoods](#chrysolia-deepwoods)
   - [Umbral Battle at Vanhanen Castle](#umbral-battle-at-vanhanen-castle)
 - [Postgame Episode 4: Across Space & Time](#postgame-episode-4-across-space--time)
-  - [Twilight Desert](#twilight-desert)
+  - [Twilight Desert (Part 1)](#twilight-desert-part-1)
   - [Anomaly at Chrysolia Springs](#anomaly-at-chrysolia-springs)
   - [Poachers in the Chrysolia Deepwoods](#poachers-in-the-chrysolia-deepwoods)
   - [Aegis Cave](#aegis-cave)
@@ -264,6 +264,12 @@ Heavy Work In Progress :)
   - [Endgame](#endgame)
   - [Water Treatment Center Anomaly?](#water-treatment-center-anomaly)
 - [Postgame Episode 7: Up, Down, n' All Around](#postgame-episode-7-up-down-n-all-around)
+  - [Rhodochrine Tree (Part 1)](#rhodochrine-tree-part-1)
+  - [Mirage Tower Mirages](#mirage-tower-mirages)
+  - [New World Crash](#new-world-crash)
+  - [Cauldron of the Future](#cauldron-of-the-future)
+  - [Umbral Battles in Aegir Cave (Part 1)](#umbral-battles-in-aegir-cave-part-1)
+  - [New World Helix](#new-world-helix)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -11965,31 +11971,31 @@ Anyways, exit Hardy's gym.
 
 Fly over to Calcenon City. Talk to Hardy on the west side of the city.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Tell Hardy you're ready to fight Meteor (+1 Hardy)
 - Tell Hardy you're not ready to fight Meteor (-1 Hardy)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Tell Hardy that you'll trust Bennett (+2 Bennett, +2 Laura, +1 Eve, -2 Saphira)
 - Tell Hardy that you won't trust Bennett (+2 Saphira, -2 Bennett, -1 Laura)
 
 After the conversation concludes, you'll regain control. There are more optional conversations we can have for points.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Charlotte in the story apartment, answering "Yes" (+1 Saphira, -1 Laura)
 - Talk to Charlotte in the story apartment, answering "No" (+1 Laura, -1 Saphira)
 - Talk to Charlotte in the story apartment, pressing 'B' to not answer (+1 Charlotte)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Julia in Calcenon (+1 Julia)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - On Reshiram route only, talk to Amaria in Calcenon (-1 Julia)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to *Cal* in *Cal*cenon City (+1 Cal)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Noel in Calcenon, answering "decide" (+1 Noel)
 - Talk to Noel in Calcenon, answering "feel" (-1 Noel)
 
@@ -12057,7 +12063,7 @@ Grab the hidden *Purple Shard* and continue.
 
 Defeat the next Meteor Ace and head up to watch the scene. Before we continue, head back up to the Pokemon Center. Up and to the right is a path to a hidden *Max Repel* and a now-opened building. Talking to Noel inside will get you the *PULSE Readout 10*. 
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Get the PULSE 10 Notes before defeating this PULSE (+1 Eve)
 
 In the bottom left side of the city, a newly-opened path will lead to a building. Inside is a double battle with Victoria as a partner.
@@ -12116,7 +12122,7 @@ In the bottom left side of the city, a newly-opened path will lead to a building
 
 Head up and see who's in the back of this building.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Reshiram Route Only: Tell Solaris you wish him dead (+1 Victoria, -1 Cal)
 - Reshiram Route Only: Tell Solaris you don't wish him dead (+1 Cal, -1 Victoria)
 
@@ -12151,7 +12157,7 @@ Head outside and go left. Grab the hidden *Full Heal*, and *Max Potion*. Fight t
 
 Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
 - On Reshiram Route only, tell Amaria you don't trust her (-1 Amaria)
 
@@ -12273,7 +12279,7 @@ Once you defeat Zero, make your way back through the previous building. You'll n
 
 Back outside, talk to Taka and Solaris down from here if you are on Zekrom Route if you'd like.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - On Zekrom Route only, talk to Taka and Solaris after PULSE Clawitzer (+2 Taka)
 
 Anyways, head to the center of the city next. After this scene, head to the bottom-left side of the city. A path to a building at the bottom will now be open. Grab the hidden *Dire Hit* and head in. Talk to Eve in here to get some information about the next PULSE battle we'll be doing if you'd like.
@@ -12382,10 +12388,10 @@ After a scene explaining what we're in for, well, I just hope you're ready. Note
 - Tell Victoria you think the tournament is wrong (+1 Victoria)
 - Tell Victoria you think the tournament is not wrong (-1 Victoria)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Titania again, after she tells you to leave her alone (-1 Titania)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Noel in the lobby (+1 Noel)
 
 Enter your open door, prepare your team, then head in for our first fight.
@@ -12456,7 +12462,7 @@ Your partner will be Cal or Florinia, depending on the route you're on. This is 
 
 Once you succeed, follow the path to the next area.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - On Reshiram Route only, talk to Cal, when the player is male (+1 Cal)
 
 Prepare and head in to the next fight. The following two fights are fought in a different order depending on your route. Anyways:
@@ -12539,7 +12545,7 @@ Once you've finished both fights, make your way further into the tournament, whe
 
 Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Heart Scale* within. Proceed to the top of the area and talk to the chest.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 
 This conversation has tons of branches, so I made a flowchart. Note that all points here are for or against Saphira.
 
@@ -12547,10 +12553,10 @@ This conversation has tons of branches, so I made a flowchart. Note that all poi
 
 Next, you'll have to defend the chest against a barrage of Pokemon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokemon will fly, and some will run at you. The Knights are slow, but have 3 Pokemon apiece, so make sure you are able to defeat them. Also, save often!
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Lose the chest challenge the first time (-1 Saphira)
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Exit the gym during the chest challenge (-1 Saphira)
 
 Once you make it past the challengers in the gauntlet, you'll have one more:
@@ -13519,7 +13525,7 @@ The solution:
 
 <img src="/assets/media/reborn/vr_puzzle_4.jpg"/>
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)
 - Attempt the logic puzzle incorrectly six times, causing Radomus to solve it (-1 Radomus)
 
@@ -13936,7 +13942,7 @@ Head right, picking up the hidden *Blue Shard*. This next ice sheet is massive, 
 
 Head into the next room when you're ready.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Tell Blake you will get in his way (-1 Blake)
 - Tell Blake you won't get in his way (+1 Blake)
 
@@ -14580,7 +14586,7 @@ One more fun tech is that the Magical Seed grants an omniboost while causing you
 
 Then there's Arceus. In the easier version, it is holding a Life Orb, so poisoning it then hiding behind Substitutes can be a funny way to watch it knock itself out. Unfortunately the harder version has a Z-Crystal and you don't get the time to set up anything on it, so you're going to have to use whatever scraps of your team remain after the previous fight to do... some cheap crap, pretty much. My first time it was just double Protect on Speed Boost Sharpedo followed by Destiny Bond. This time it was Accelerock for some chip plus a Sturdy Metal Burst. Some people will call strategies like these cheap, but what else can you really do against a Pokemon with 975 BST, full EV's, and IV's, and field boosts too? Do what you must and win both fights if you want to stay on Anna Route, or defeat just the one-team version to proceed to Lin Route.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Defeat the 2-fight Lin Gauntlet and advance to Anna Route (-2 Terra)
 
 Either way, once you complete this fight, you're like, done? You've completed the main game of Pokemon Reborn! Congratulations! I am proud of you! And thanks for reading so far :)
@@ -15537,7 +15543,7 @@ Accept the warp once you win back to the Nightclub. That's it for this section.
 
 Back in the Nightclub, we can pick from a large number of quests.
 
-## Twilight Desert
+## Twilight Desert (Part 1)
 
 First, talk to Marcello on the left for a new quest. He'll also sell us some Lemonade!
 
@@ -15891,7 +15897,7 @@ The solution:
 
 Bennett will just do it for you if you fail too many times.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Solve Logic Puzzle 5 in five or fewer tries (+1 Bennett)
 
 Once you succeed, head up. Grab the hidden *Exp. Candy XL* and proceed. Enter the New World Door.
@@ -16468,7 +16474,7 @@ Return to the chief and state that you're done with the investigation when you'r
 
 You can now accuse one of the culprits. Each will battle you once accused. You can also talk to the chief multiple times to accuse them. Afterwards, you'll need to check your bag and "Use" the Blue Orb that you find inside to continue. 
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Accuse Julia of stealing the orbs (-1 Julia)
 
 However, there is one more option: you can check your bag to find the Blue Orb inside *before* making any accusation: this will cause everyone to fight you in a gauntlet, with Anomaly Hoopa as your partner.
@@ -16830,7 +16836,7 @@ PULSE 2 Mega Garchomp, Unaware Quagsire, and tanky Palossand are annoying as alw
 
 Back in the train station, talk with the group here.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Tell Adrienn you had to bring Terra back (+1 Terra)
 
 You'll also be given **Hoopa**! Walk on back to the nightclub.
@@ -17022,7 +17028,7 @@ To win, I will once again recommend Trick Room - Volcarona, Delphox, Pheromosa, 
 
 Talk to Bennett before proceeding if you'd like.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Tell Bennett he is creepy (-1 Bennett)
 - Tell Bennett he is not creepy (+2 Bennett)
 
@@ -18530,7 +18536,7 @@ Finally, the Douse Drive themed team. This one is a bit harder in my opinion tha
 
 Once you win, you'll get the *Douse Drive*. Head back to the top area and talk to Hardy if you'd like.
 
-**Relationship Point Choices**:
+**Relationship Point Choices:**
 - Talk to Hardy when he's with Aya in the Neo Blacksteam Fabrication (+1 Aya)
 
 Make your way to the center, remove the Chill Drive and Shock Drive, insert the Douse Drive, and use the shutter terminal. Go down, right, and all the way up to reach a machine. Activate the steam power system - in a nearby capsule, you'll find:
@@ -19288,7 +19294,7 @@ Once you win, you'll be able to catch **Darkrai**, for real this time. I mean it
 
 The level cap now sits at Lv. 135.
 
-## Rhodochrine Tree
+## Rhodochrine Tree (Part 1)
 
 Accept Nyu's quest in the Nightclub, then fly over to Beryl Ward. Enter Rhodochrine Jungle and make your way to the large tree at the top. Talk to Lumi here and agree to fetch the food from the Spyce. Make your way to Spyce in the North Obsidia Ward, get the 6 *Bubble Teas* from the lady behind the counter, then return to the jungle.
 
@@ -19629,6 +19635,112 @@ Follow the path to the left to find:
 It's also worth noting that the glowing mining rocks here will infinitely replenish if you exit this area and return, so no need to buy Blast Powder or worry about the finite number of rocks in the region.
 
 Once you're done here, return to the Nightclub.
+
+## Umbral Battles in Aegir Cave (Part 1)
+
+Accept Maxwell's quest next. Return to the desert and make your way to the Sugiline Cave. Make your way to the back via the Garchomp Statue maze. Enter the New World Door just to the right of the top of the room!
+
+**New World (Sugiline Cave)**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Pyroar             |20 |Wailord            |60 |
+|Solrock            |20 |Gastrodon          |30 |
+|**Buzzwole**       |11 |Seismitoad         |6  |
+|Rapidash           |11 |Poliwrath          |4  |
+|Lilligant          |10 |                   |   |
+|Leavanny           |10 |                   |   |
+|Talonflame         |5  |                   |   |
+|Druddigon          |5  |                   |   |
+|Claydol            |4  |                   |   |
+|Gumshoos           |4  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Shellos            |70 |Gastrodon          |60 |Dhelmise           |40 |
+|Wooper             |30 |Quagsire           |20 |Wailord            |40 |
+|                   |   |Seadra             |20 |Gastrodon          |15 |
+|                   |   |                   |   |Quagsire           |4  |
+|                   |   |                   |   |Kingdra            |1  |
+
+Follow the path to the New World Door in the water. Head down from here to the island in the middle of the Aegir Cave lake.
+
+**Umbral Amaria. Field: Water Surface**
+- Tapu Bulu, Lv. 135, @Elemental Seed, Ability: Grassy Surge, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Wood Hammer
+    - Superpower
+    - Rock Slide
+    - Nature Power
+- Celesteela, Lv. 135, @Elemental Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Flamethrower
+    - Leech Seed
+    - Protect
+    - Giga Drain
+- Volcarona, Lv. 135, @Elemental Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Giga Drain
+    - Bug Buzz
+    - Heat Wave
+    - Quiver Dance
+- Volcanion, Lv. 135, @Elemental Seed, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sludge Bomb
+    - Steam Eruption
+    - Earth Power
+    - Heat Wave
+- Palkia, Lv. 135, @Electrium-Z, Ability: Telepathy, Timid Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Thunder
+    - Spacial Rend
+    - Surf
+    - Aura Sphere
+- Kyogre, Lv. 135, @Blue Orb, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Thunder
+    - Origin Pulse
+    - Calm Mind
+    - Ice Beam
+
+The fight will go instantly to Grassy Terrain for a little while. As long as you have a few Specially Defensive and fast Pokemon, letting Celesteela hang around while you attack the other, faster Pokemon on the field can be a good idea. Changing the field to Corrosive Field can be useful for gaining momentum.
+
+**Umbral Titania. Field: Cave Field**
+- Togekiss, Lv. 135, @Telluric Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Ancient Power
+    - Air Slash
+    - Thunder Wave
+    - Roost
+- Diancie, Lv. 135, @Diancite, Ability: Clear Body, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Diamond Storm
+    - Stealth Rock
+    - Moonblast
+    - Earth Power
+- Regigigas, Lv. 135, @Leftovers, Ability: Slow Start, Impish Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Secret Power
+    - Wide Guard
+    - Thunder Wave
+    - Double Team
+- Marshadow, Lv. 135, @Marshadium-Z, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Spectral Thief
+    - Rock Tomb
+    - Rolling Kick
+    - Shadow Sneak
+- Dialga, Lv. 135, @Telluric Seed, Ability: Pressure, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Hyper Voice
+    - Draco Meteor
+    - Power Gem
+    - Ice Beam
+- Groudon, Lv. 135, @Red Orb, Ability: Drought, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Rock Tomb
+    - Precipice Blades
+    - Rock Polish
+    - Heat Wave
+
+Another pretty tough one. Diamond Storm and Power Gem both turn the field to the Crystal Cavern Field, so watch out for that. A couple Steel leads might be ideal to start here - speed and/or Bullet Punch can help them OHKO Diancie. The rest of the team is generally weak to some combination of Ground and Fighting type moves barring Marshadow - who has priority, a Z-Move, and Spectral Thief to ruin your set ups. Take advantage of Regigigas being a sort of underwhelming support set to take out the threats if you need to.
+
+Once you win against both Umbral opponents, talk to Florinia.
+
+**Relationship Point Choices:**
+- Tell Florinia you understand your next objective (+1 Florinia)
+
+Florinia will tell us that we need to catch Rayquaza in order to fix the issues here. We will do so, but later on. That's it for this quest for now, so make your way back to the Nightclub.
+
+## New World Helix
 
 
 
