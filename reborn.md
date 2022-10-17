@@ -18573,13 +18573,13 @@ Accept Zero's quest, then head over to the Peridot Ward. In Seacrest's garden, y
 |Amoonguss          |20 |Qwilfish           |30 |
 |Parasect           |10 |Sharpedo           |5  |
 |Venusaur           |10 |Tentacruel         |5  |
-|Muk                |10 |
-|Malamar            |10 |
-|Nihilego           |6  |
-|Honchkrow          |5  |
-|Weezing            |4  |
-|Skuntank           |4  |
-|Salazzle           |1  |
+|Muk                |10 |                   |   |
+|Malamar            |10 |                   |   |
+|Nihilego           |6  |                   |   |
+|Honchkrow          |5  |                   |   |
+|Weezing            |4  |                   |   |
+|Skuntank           |4  |                   |   |
+|Salazzle           |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|

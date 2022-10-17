@@ -60,20 +60,14 @@
 029
 **Opal Ward**
 
-|Land (Morning/Day) |%  |Land (Night)       |%  |
-|-------------------|---|-------------------|---|
-|Rattata            |30 |Rattata            |30 |
-|Bidoof             |30 |Meowth             |20 |
-|Patrat             |15 |Ekans              |20 |
-|Pidgey             |15 |Hoothoot           |17 |
-|Meowth             |5  |Spinarak           |13 |
-|Ekans              |5  |                   |   |
-
-|Headbutt           |%  |
-|-------------------|---|
-|Pineco             |40 |
-|Spearow            |30 |
-|Combee             |30 |
+|Land (Morning/Day) |%  |Land (Night)       |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Rattata            |30 |Rattata            |30 |Pineco             |40 |
+|Bidoof             |30 |Meowth             |20 |Spearow            |30 |
+|Patrat             |15 |Ekans              |20 |Combee             |30 |
+|Pidgey             |15 |Hoothoot           |17 |                   |   |
+|Meowth             |5  |Spinarak           |13 |                   |   |
+|Ekans              |5  |                   |   |                   |   |
 
 030
 **Apophyll Cave**
@@ -341,18 +335,18 @@
 153
 **The Underroot**
 
-|Land               |%  |
-|-------------------|---|
-|Zigzagoon          |20 |
-|Morelull           |20 |
-|Noibat             |10 |
-|Psyduck            |10 |
-|Kecleon            |10 |
-|Spinda             |10 |
-|Woobat             |5  |
-|Shuppet            |5  |
-|Phantump           |5  |
-|Bunnelby           |5  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Zigzagoon          |20 |Psyduck            |60 |
+|Morelull           |20 |Lombre             |30 |
+|Noibat             |10 |Seaking            |5  |
+|Psyduck            |10 |Golduck            |4  |
+|Kecleon            |10 |Ludicolo           |1  |
+|Spinda             |10 |                   |   |
+|Woobat             |5  |                   |   |
+|Shuppet            |5  |                   |   |
+|Phantump           |5  |                   |   |
+|Bunnelby           |5  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -360,14 +354,6 @@
 |Chinchou           |30 |Skrelp             |20 |Golduck            |40 |
 |                   |   |Whiscash           |20 |Whiscash           |15 |
 |                   |   |                   |   |Dragalge           |5  |
-
-|Water              |%  |
-|-------------------|---|
-|Psyduck            |60 |
-|Lombre             |30 |
-|Seaking            |5  |
-|Golduck            |4  |
-|Ludicolo           |1  |
 
 165
 **North Obsidia Alleyway**
@@ -1412,12 +1398,12 @@
 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505
 **Beryl Water Grid, Central Obsidia Water Grid, Coral Water Grid, Jasper Water Grid, Lapis Water Grid, North Obsidia Water Grid, Onyx Water Grid, Opal Water Grid, Peridot Water Grid, Water Treatment Center**
 
-|Land               |%  |
-|-------------------|---|
-|Gulpin             |45 |
-|Grimer             |40 |
-|Swalot             |10 |
-|Muk                |5  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Gulpin             |45 |Gulpin             |60 |
+|Grimer             |40 |Grimer             |30 |
+|Swalot             |10 |Muk                |9  |
+|Muk                |5  |Swalot             |1  |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -1425,13 +1411,6 @@
 |Grimer             |30 |Grimer             |20 |Swalot             |40 |
 |                   |   |Muk                |20 |Tentacool          |15 |
 |                   |   |                   |   |Tentacruel         |1  |
-
-|Water              |%  |
-|-------------------|---|
-|Gulpin             |60 |
-|Grimer             |30 |
-|Muk                |9  |
-|Swalot             |1  |
 
 507
 **Iolia Valley**
@@ -2457,28 +2436,20 @@
 697, 700
 **Once Upon a Somewhere, Once Upon a Waste of Time**
 
-|Land               |%  |
-|-------------------|---|
-|Lilligant          |20 |
-|Aromatisse         |20 |
-|Illumise           |10 |
-|Cinccino           |10 |
-|Volbeat            |10 |
-|Rapidash           |10 |
-|Audino             |5  |
-|Druddigon          |5  |
-|Escavalier         |4  |
-|Chansey            |4  |
-|Altaria            |1  |
-|Florges            |1  |
-
-|Headbutt           |%  |
-|-------------------|---|
-|Ribombee           |55 |
-|Ferroseed          |20 |
-|Musharna           |10 |
-|Altaria            |10 |
-|Ferrothorn         |5  |
+|Land               |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Lilligant          |20 |Ribombee           |55 |
+|Aromatisse         |20 |Ferroseed          |20 |
+|Illumise           |10 |Musharna           |10 |
+|Cinccino           |10 |Altaria            |10 |
+|Volbeat            |10 |Ferrothorn         |5  |
+|Rapidash           |10 |                   |   |
+|Audino             |5  |                   |   |
+|Druddigon          |5  |                   |   |
+|Escavalier         |4  |                   |   |
+|Chansey            |4  |                   |   |
+|Altaria            |1  |                   |   |
+|Florges            |1  |                   |   |
 
 703
 **Tourmaline Desert**
@@ -3223,20 +3194,20 @@
 834
 **New World**
 
-|Land               |%  |
-|-------------------|---|
-|Golem              |20 |
-|Raichu             |20 |
-|Ampharos           |10 |
-|Luxray             |10 |
-|Gigalith           |10 |
-|Aggron             |10 |
-|Lycanroc           |5  |
-|Sandslash          |5  |
-|Electivire         |4  |
-|Jolteon            |4  |
-|Steelix            |1  |
-|Skarmory           |1  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Golem              |20 |Pelipper           |60 |
+|Raichu             |20 |Mantine            |30 |
+|Ampharos           |10 |Politoed           |5  |
+|Luxray             |10 |Phione             |4  |
+|Gigalith           |10 |Magikarp           |1  |
+|Aggron             |10 |                   |   |
+|Lycanroc           |5  |                   |   |
+|Sandslash          |5  |                   |   |
+|Electivire         |4  |                   |   |
+|Jolteon            |4  |                   |   |
+|Steelix            |1  |                   |   |
+|Skarmory           |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3245,14 +3216,6 @@
 |                   |   |Seadra             |20 |Slowking           |15 |
 |                   |   |                   |   |Kingdra            |4  |
 |                   |   |                   |   |Dratini            |1  |
-
-|Water              |%  |
-|-------------------|---|
-|Pelipper           |60 |
-|Mantine            |30 |
-|Politoed           |5  |
-|Phione             |4  |
-|Magikarp           |1  |
 
 835
 **New World**
@@ -3390,20 +3353,20 @@
 848
 **Manyworld Forest**
 
-|Land               |%  |
-|-------------------|---|
-|Sudowoodo          |20 |
-|Delcatty           |20 |
-|Lunatone           |10 |
-|Solrock            |10 |
-|Farfetch'd         |10 |
-|Primeape           |10 |
-|Snorlax            |5  |
-|Skarmory           |5  |
-|Bayleef            |4  |
-|Quilava            |4  |
-|Togetic            |1  |
-|Dragonite          |1  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Sudowoodo          |20 |Relicanth          |100|
+|Delcatty           |20 |                   |   |
+|Lunatone           |10 |                   |   |
+|Solrock            |10 |                   |   |
+|Farfetch'd         |10 |                   |   |
+|Primeape           |10 |                   |   |
+|Snorlax            |5  |                   |   |
+|Skarmory           |5  |                   |   |
+|Bayleef            |4  |                   |   |
+|Quilava            |4  |                   |   |
+|Togetic            |1  |                   |   |
+|Dragonite          |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3413,61 +3376,47 @@
 |                   |   |                   |   |Kabutops           |4  |
 |                   |   |                   |   |Carracosta         |1  |
 
-|Water              |%  |
-|-------------------|---|
-|Relicanth          |100|
-
 849
 **Aegir Cave**
 
-|Land               |%  |
-|-------------------|---|
-|Simisage           |20 |
-|Girafarig          |20 |
-|Carbink            |10 |
-|Zebstrika          |10 |
-|Sawsbuck           |10 |
-|Farfetch'd         |10 |
-|Stantler           |5  |
-|Rapidash           |5  |
-|Mudsdale           |4  |
-|Swoobat            |4  |
-|Gourgeist          |1  |
-|Golurk             |1  |
-
-|Headbutt           |%  |
-|-------------------|---|
-|Wurmple            |100|
+|Land               |%  |Headbutt           |%  |
+|-------------------|---|-------------------|---|
+|Simisage           |20 |Wurmple            |100|
+|Girafarig          |20 |                   |   |
+|Carbink            |10 |                   |   |
+|Zebstrika          |10 |                   |   |
+|Sawsbuck           |10 |                   |   |
+|Farfetch'd         |10 |                   |   |
+|Stantler           |5  |                   |   |
+|Rapidash           |5  |                   |   |
+|Mudsdale           |4  |                   |   |
+|Swoobat            |4  |                   |   |
+|Gourgeist          |1  |                   |   |
+|Golurk             |1  |                   |   |
 
 850
 **Aegir Cave**
 
-|Land               |%  |
-|-------------------|---|
-|Simisage           |20 |
-|Girafarig          |20 |
-|Carbink            |10 |
-|Zebstrika          |10 |
-|Sawsbuck           |10 |
-|Farfetch'd         |10 |
-|Stantler           |5  |
-|Rapidash           |5  |
-|Mudsdale           |4  |
-|Swoobat            |4  |
-|Gourgeist          |1  |
-|Golurk             |1  |
+|Land               |%  |Water              |%  |Rock Smash         |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Simisage           |20 |Surskit            |90 |Shuckle            |100|
+|Girafarig          |20 |Drifblim           |5  |                   |   |
+|Carbink            |10 |Masquerain         |5  |                   |   |
+|Zebstrika          |10 |                   |   |                   |   |
+|Sawsbuck           |10 |                   |   |                   |   |
+|Farfetch'd         |10 |                   |   |                   |   |
+|Stantler           |5  |                   |   |                   |   |
+|Rapidash           |5  |                   |   |                   |   |
+|Mudsdale           |4  |                   |   |                   |   |
+|Swoobat            |4  |                   |   |                   |   |
+|Gourgeist          |1  |                   |   |                   |   |
+|Golurk             |1  |                   |   |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
 |Clauncher          |70 |Wishiwashi         |60 |Clawitzer          |80 |
 |Wishiwashi         |30 |Clawitzer          |20 |Wishiwashi         |15 |
 |                   |   |Wimpod             |20 |Golisopod          |5  |
-
-|Water              |%  |Rock Smash         |%  |
-|-------------------|---|-------------------|---|
-|Surskit            |90 |Shuckle            |100|
-|Drifblim           |5  |                   |   |
-|Masquerain         |5  |                   |   |
 
 851
 **Aegir Cave**
@@ -3515,19 +3464,19 @@
 857
 **Unexplored Territory**
 
-|Land               |%  |
-|-------------------|---|
-|Xatu               |20 |
-|Azumarill          |20 |
-|Fearow             |10 |
-|Jumpluff           |10 |
-|Scyther            |10 |
-|Farfetch'd         |10 |
-|Rapidash           |5  |
-|Golduck            |5  |
-|Espeon             |5  |
-|Electrode          |4  |
-|Ninetales          |1  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Xatu               |20 |Golduck            |60 |
+|Azumarill          |20 |Kabutops           |30 |
+|Fearow             |10 |Aerodactyl         |5  |
+|Jumpluff           |10 |Lapras             |5  |
+|Scyther            |10 |                   |   |
+|Farfetch'd         |10 |                   |   |
+|Rapidash           |5  |                   |   |
+|Golduck            |5  |                   |   |
+|Espeon             |5  |                   |   |
+|Electrode          |4  |                   |   |
+|Ninetales          |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3535,13 +3484,6 @@
 |Omanyte            |30 |Qwilfish           |20 |Mantine            |40 |
 |                   |   |Staryu             |20 |Qwilfish           |15 |
 |                   |   |                   |   |Starmie            |4  |
-
-|Water              |%  |
-|-------------------|---|
-|Golduck            |60 |
-|Kabutops           |30 |
-|Aerodactyl         |5  |
-|Lapras             |5  |
 
 859
 **Unexplored Territory**
@@ -3757,19 +3699,19 @@
 878
 **Idyll of Pestilence**
 
-|Land               |%  |
-|-------------------|---|
-|Ariados            |20 |
-|Amoonguss          |20 |
-|Parasect           |10 |
-|Venusaur           |10 |
-|Muk                |10 |
-|Malamar            |10 |
-|Nihilego           |6  |
-|Honchkrow          |5  |
-|Weezing            |4  |
-|Skuntank           |4  |
-|Salazzle           |1  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Ariados            |20 |Dragalge           |60 |
+|Amoonguss          |20 |Qwilfish           |30 |
+|Parasect           |10 |Sharpedo           |5  |
+|Venusaur           |10 |Tentacruel         |5  |
+|Muk                |10 |                   |   |
+|Malamar            |10 |                   |   |
+|Nihilego           |6  |                   |   |
+|Honchkrow          |5  |                   |   |
+|Weezing            |4  |                   |   |
+|Skuntank           |4  |                   |   |
+|Salazzle           |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3778,28 +3720,21 @@
 |                   |   |Quagsire           |20 |Toxapex            |15 |
 |                   |   |                   |   |Dhelmise           |4  |
 
-|Water              |%  |
-|-------------------|---|
-|Dragalge           |60 |
-|Qwilfish           |30 |
-|Sharpedo           |5  |
-|Tentacruel         |5  |
-
 879
 **Idyll of Panaceance**
 
-|Land               |%  |
-|-------------------|---|
-|Shiftry            |20 |
-|Whimsicott         |20 |
-|Swellow            |10 |
-|Ursaring           |10 |
-|Muk                |10 |
-|Breloom            |10 |
-|Kartana            |6  |
-|Florges            |6  |
-|Sawsbuck           |4  |
-|Jumpluff           |4  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Shiftry            |20 |Floatzel           |60 |
+|Whimsicott         |20 |Vaporeon           |30 |
+|Swellow            |10 |Wailmer            |5  |
+|Ursaring           |10 |Golduck            |4  |
+|Muk                |10 |Dewgong            |1  |
+|Breloom            |10 |                   |   |
+|Kartana            |6  |                   |   |
+|Florges            |6  |                   |   |
+|Sawsbuck           |4  |                   |   |
+|Jumpluff           |4  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3807,14 +3742,6 @@
 |Seel               |30 |Pyukumuku          |20 |Ludicolo           |40 |
 |                   |   |Dewgong            |20 |Milotic            |15 |
 |                   |   |                   |   |Clawitzer          |4  |
-
-|Water              |%  |
-|-------------------|---|
-|Floatzel           |60 |
-|Vaporeon           |30 |
-|Wailmer            |5  |
-|Golduck            |4  |
-|Dewgong            |1  |
 
 881
 **Mirage Tower?**
@@ -3859,18 +3786,18 @@
 883
 **New World**
 
-|Land               |%  |
-|-------------------|---|
-|Pyroar             |20 |
-|Solrock            |20 |
-|Buzzwole           |11 |
-|Rapidash           |11 |
-|Lilligant          |10 |
-|Leavanny           |10 |
-|Talonflame         |5  |
-|Druddigon          |5  |
-|Claydol            |4  |
-|Gumshoos           |4  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Pyroar             |20 |Wailord            |60 |
+|Solrock            |20 |Gastrodon          |30 |
+|Buzzwole           |11 |Seismitoad         |6  |
+|Rapidash           |11 |Poliwrath          |4  |
+|Lilligant          |10 |                   |   |
+|Leavanny           |10 |                   |   |
+|Talonflame         |5  |                   |   |
+|Druddigon          |5  |                   |   |
+|Claydol            |4  |                   |   |
+|Gumshoos           |4  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3879,13 +3806,6 @@
 |                   |   |Seadra             |20 |Gastrodon          |15 |
 |                   |   |                   |   |Quagsire           |4  |
 |                   |   |                   |   |Kingdra            |1  |
-
-|Water              |%  |
-|-------------------|---|
-|Wailord            |60 |
-|Gastrodon          |30 |
-|Seismitoad         |6  |
-|Poliwrath          |4  |
 
 887
 **New World Helix**
@@ -3946,20 +3866,20 @@
 895
 **Neoteric Isle**
 
-|Land               |%  |
-|-------------------|---|
-|Muk                |20 |
-|Rapidash           |20 |
-|Vileplume          |10 |
-|Xurkitree          |10 |
-|Nidoking           |10 |
-|Nidoqueen          |10 |
-|Machamp            |5  |
-|Donphan            |5  |
-|Wigglytuff         |4  |
-|Tauros             |4  |
-|Venusaur           |1  |
-|Charizard          |1  |
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Muk                |20 |Golduck            |60 |
+|Rapidash           |20 |Tentacruel         |30 |
+|Vileplume          |10 |Vaporeon           |5  |
+|Xurkitree          |10 |Pidgeot            |4  |
+|Nidoking           |10 |Pidgeotto          |1  |
+|Nidoqueen          |10 |                   |   |
+|Machamp            |5  |                   |   |
+|Donphan            |5  |                   |   |
+|Wigglytuff         |4  |                   |   |
+|Tauros             |4  |                   |   |
+|Venusaur           |1  |                   |   |
+|Charizard          |1  |                   |   |
 
 |Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
 |-------------------|---|-------------------|---|-------------------|---|
@@ -3968,14 +3888,6 @@
 |                   |   |                   |   |Dewgong            |15 |
 |                   |   |                   |   |Gyarados           |4  |
 |                   |   |                   |   |Blastoise          |1  |
-
-|Water              |%  |
-|-------------------|---|
-|Golduck            |60 |
-|Tentacruel         |30 |
-|Vaporeon           |5  |
-|Pidgeot            |4  |
-|Pidgeotto          |1  |
 
 896
 **Citae Prisma**

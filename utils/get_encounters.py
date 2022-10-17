@@ -172,6 +172,11 @@ def process_mini_tables(mini_tables):
         else:
             other_ones.append(table)
     #print (land_ones, other_ones, rod_ones)
+    #print (len(land_ones), len(other_ones))
+    if len(land_ones) + len(other_ones) <= 3 and len(land_ones) > 0:
+        land_ones.extend(other_ones)
+        other_ones = []
+
     finals = []
     for x in [land_ones, rod_ones, other_ones]:
         x.sort(key = lambda y: list(ENC_NAMES.values()).index(y[1: 1 + POKEMON_WIDTH].rstrip())) 
