@@ -266,10 +266,12 @@ Heavy Work In Progress :)
 - [Postgame Episode 7: Up, Down, n' All Around](#postgame-episode-7-up-down-n-all-around)
   - [Rhodochrine Tree (Part 1)](#rhodochrine-tree-part-1)
   - [Mirage Tower Mirages](#mirage-tower-mirages)
-  - [New World Crash](#new-world-crash)
+  - [New World Crash (Part 1)](#new-world-crash-part-1)
   - [Cauldron of the Future](#cauldron-of-the-future)
   - [Umbral Battles in Aegir Cave (Part 1)](#umbral-battles-in-aegir-cave-part-1)
   - [New World Helix](#new-world-helix)
+  - [New World Crash (Part 2)](#new-world-crash-part-2)
+  - [](#)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -13436,7 +13438,7 @@ Continue along the path from here. Grab the hidden *Max Ether* along the way. Ex
 
 Another mostly linear path. At the fork, go left to get a hidden *Ultra Potion* and fight a spirit.
 
-**Wandering Spirit Jonah. Field: Snowy Mountain**
+**Wandering Spirit Jonah. Field: Fairy Tale Field**
 - Noivern, Lv. 95, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Boomburst
     - Dragon Pulse
@@ -19556,7 +19558,7 @@ Been a while since we've had to fight on this terrain, but you can surely handle
 
 Win, and you can catch **Lugia**! Accept the fast travel back up, watch the conversation, then head back to the Nightclub.
 
-## New World Crash
+## New World Crash (Part 1)
 
 Accept Simon's quest, then fly over to the Beryl Ward. Cross the bridge and enter Citrine Mountain. Make your way to the bottom right corner of the room, then climb up the rocks and surf to the waterfall in the top right corner. Enter the New World Door.
 
@@ -19638,7 +19640,7 @@ Once you're done here, return to the Nightclub.
 
 ## Umbral Battles in Aegir Cave (Part 1)
 
-Accept Maxwell's quest next. Return to the desert and make your way to the Sugiline Cave. Make your way to the back via the Garchomp Statue maze. Enter the New World Door just to the right of the top of the room!
+Accept your gang leader's quest next. Return to the desert and make your way to the Sugiline Cave. Make your way to the back via the Garchomp Statue maze. Enter the New World Door just to the right of the top of the room!
 
 **New World (Sugiline Cave)**
 
@@ -19741,6 +19743,397 @@ Once you win against both Umbral opponents, talk to Florinia.
 Florinia will tell us that we need to catch Rayquaza in order to fix the issues here. We will do so, but later on. That's it for this quest for now, so make your way back to the Nightclub.
 
 ## New World Helix
+
+Finally, accept Smeargle's quest. Head over to Apophyll Cave and make your way to 2F. Enter the New World Door!
+
+**New World Helix**
+
+|Land               |%  |
+|-------------------|---|
+|Cryogonal          |20 |
+|Emolga             |20 |
+|Beartic            |10 |
+|Chandelure         |10 |
+|Zebstrika          |10 |
+|Stakataka          |10 |
+|Eelektross         |5  |
+|Heatmor            |5  |
+|Volcarona          |5  |
+|Dewgong            |5  |
+
+Depending on your route, you'll see Taka or Zero above, who will join you for this quest.
+
+Switching between us and them with the "A" key, you'll need to progress with each character to get the other to proceed. To succeed:
+
+- As the Ex-Meteor (XM), activate the orb by going down.
+- As the main character (MC), head up and activate a crystal by going clockwise.
+- XM: Go up as far as you can and talk to Abomasnow and use Snow Warning.
+- MC: Continue along the path, past the snowdrift.
+- XM: Go all the way down, until you reach the orb you can't do anything with.
+- MC: Talk to Altaria and use Cloud Nine.
+- XM: Activate the orb.
+- MC: Cross the ice to the right and activate the orb. Cross back left, talk to Abomasnow on the ice, then go back down and right. Use the crystal.
+- XM: Go all the way back up and follow the path. Use the crystal.
+- MC: Climb down the icy stairs. Talk to Altaria, then talk to the orb. Go down into the ice puzzle here and talk to Abomasnow.
+- XM: Go down from here. Activate the crystal, then go down past the snowdrift.
+- MC: Using the patch in the ice, head down. Stand near the frozen orb.
+- XM: Talk to Altaria.
+- MC: Use the orb.
+- XM: Go to the left. Activate the crystal.
+- MC: Head back up to the ice maze and talk to Abomasnow. Head back down.
+- XM: Go up and left, and climb down the snowdrift.
+- MC: Talk to Altaria.
+- XM: Use the orb, activate the crystal beyond, then use the second orb beyond. Head back to the ice puzzle and talk to Abomasnow.
+- MC: Head up the snow drift, talk to Altaria, and follow the path to another orb.
+- XM: Follow the path to the next frozen orb.
+- MC: Backtrack to the nearest Altaria and talk to it.
+- XM: Use the orb, then talk to Abomasnow.
+- MC: Follow the path all the way to the nine gemstones.
+- XM: Make your way to the nine gemstones.
+
+You'll need to transform the gemstones near MC black, and the ones near XM white. Each gemstone also changes the ones immediately around it. It shouldn't be too hard with some trial and error.
+
+**Anomaly Zekrom & Anomaly Reshiram. Field: Icy Field**
+- Ninetales-Alola, Lv. 133, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 3, EVs: 252/0/0/4/0/252
+    - Aurora Veil
+    - Blizzard
+    - Dark Pulse
+    - Dazzling Gleam
+- Kangaskhan, Lv. 132, @Kangaskhanite, Ability: Scrappy, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
+    - Fake Out
+    - Secret Power
+    - Power-Up Punch
+    - Rock Slide
+- Golem, Lv. 133, @Custap Berry, Ability: Sturdy, Adamant Nature, IVs: 3, EVs: 252/252/0/0/4/0
+    - Explosion
+    - Rock Slide
+    - Steamroller
+    - Wild Charge
+- Mimikyu, Lv. 133, @Life Orb, Ability: Disguise, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
+    - Shadow Sneak
+    - Play Rough
+    - Swords Dance
+    - Leech Life
+- Lycanroc-Dusk, Lv. 133, @Lycanium-Z, Ability: Tough Claws, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
+    - Sucker Punch
+    - Stone Edge
+    - Brick Break
+    - Drill Run
+- Zekrom, Lv. 135, @Life Orb, Ability: Teravolt, Adamant Nature, IVs: 3, EVs: 252/252/252/252/252/252
+    - Fusion Bolt
+    - Hone Claws
+    - Rock Slide
+    - Outrage
+- Glaceon, Lv. 133, @Elemental Seed, Ability: Snow Cloak, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Shadow Ball
+    - Wish
+    - Hidden Power
+- Weavile, Lv. 132, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 3, EVs: 0/252/0/0/4/252
+    - Ice Shard
+    - Brick Break
+    - Poison Jab
+    - Throat Chop
+- Banette, Lv. 133, @Banettite, Ability: Insomnia, Adamant Nature, IVs: 3, EVs: 252/252/4/0/0/0
+    - Destiny Bond
+    - Shadow Sneak
+    - Sucker Punch
+    - Gunk Shot
+- Guzzlord, Lv. 133, @Life Orb, Ability: Beast Boost, Adamant Nature, IVs: 3, EVs: 0/0/128/252/128/0
+    - Steamroller
+    - Rock Slide
+    - Wide Guard
+    - Knock Off
+- Raikou, Lv. 133, @Life Orb, Ability: Pressure, Timid Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Extreme Speed
+    - Aura Sphere
+    - Hidden Power
+    - Thunderbolt
+- Reshiram, Lv. 135, @Life Orb, Ability: Turboblaze, Modest Nature, IVs: 3, EVs: 252/252/252/252/252/252
+    - Fusion Flare
+    - Ancient Power
+    - Earth Power
+    - Dragon Pulse
+
+This first fight can be fairly tough - this field pushes the Icy Field to its limit. With Aurora Veil, your opponents will likely be able to stick around while they build up speed from priority attacks. Mega Kangaskhan can use Fake Out and Power Up Punch to reach +2 in Atk and Spe, so be wary when it comes out. Generally, the team is weak to Rock, Ground, and Ice moves, so try to use those if you can.
+
+**Anomaly Kyurem & Multi-iterative Fusion Simulations. Field: New World Field**
+- Manectric, Lv. 134, @Manectite, Ability: Lightning Rod, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Volt Switch
+    - Overheat
+    - Snarl
+    - Swift
+- Magearna, Lv. 134, @Leftovers, Ability: Soul-Heart, Calm Nature, IVs: 3, EVs: 252/0/0/4/252/0
+    - Heart Swap
+    - Fleur Cannon
+    - Flash Cannon
+    - Thunder Wave
+- Shaymin-Sky, Lv. 134, @Choice Specs, Ability: Serene Grace, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Nature Power
+    - Seed Flare
+    - Dazzling Gleam
+    - Air Slash
+- Victini, Lv. 134, @Choice Band, Ability: Victory Star, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
+    - Fusion Bolt
+    - V-create
+    - Zen Headbutt
+    - U-turn
+- Zekrom, Lv. 135, @Magical Seed, Ability: Teravolt, Adamant Nature, IVs: 3, EVs: 252/4/0/0/0/252
+    - Fusion Bolt
+    - Roost
+    - Dragon Tail
+    - Thunder Wave
+- Kyurem-White, Lv. 135, @Power Herb, Ability: Turboblaze, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fusion Bolt
+    - Freeze Shock
+    - Rock Slide
+    - Outrage
+- Mew, Lv. 134, @Wiki Berry, Ability: Synchronize, Bold Nature, IVs: 3, EVs: 252/0/252/4/0/0
+    - Tailwind
+    - Vacuum Wave
+    - Ancient Power
+    - Stealth Rock
+- Salamence, Lv. 134, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Swift
+    - Draco Meteor
+    - Heat Wave
+    - Roost
+- Hoopa-Unbound, Lv. 134, @Darkinium-Z, Ability: Magician, Adamant Nature, IVs: 3, EVs: 0/252/4/0/0/252
+    - HyperspaceFury
+    - Drain Punch
+    - Gunk Shot
+    - Ice Punch
+- Victini, Lv. 134, @Choice Specs, Ability: Victory Star, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Fusion Flare
+    - Dazzling Gleam
+    - Glaciate
+    - Psyshock
+- Reshiram, Lv. 135, @Magical Seed, Ability: Turboblaze, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
+    - Fusion Flare
+    - Draco Meteor
+    - Roost
+    - Ancient Power
+- Kyurem-Black, Lv. 135, @Power Herb, Ability: Teravolt, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fusion Flare
+    - Ice Burn
+    - Ancient Power
+    - Draco Meteor
+
+Although you do get healed, you'll be thrust into a second Double battle. While it's hard to rely on your ally acting in your favor, Taka does sometimes use Tailwind, which can help out. All but Magearna and Mew are weak to either Rock or Fairy moves, so Rock Slide and especially field-boosted Dazzling Gleam may be very helpful here.
+
+Once you win, three doors will open. Inside each, you can catch **Reshiram**, **Zekrom**, and **Kyurem**! Once you catch the third, prepare your team before you head back out.
+
+**Umbral Agent Ace. Field: New World**
+- Latias, Lv. 135, @Eject Button, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Mist Ball
+    - Draco Meteor
+    - Reflect
+    - Hidden Power
+- Latios, Lv. 135, @Soul Dew, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Luster Purge
+    - Dragon Pulse
+    - Calm Mind
+    - Recover
+- Mesprit, Lv. 135, @Magical Seed, Ability: Levitate, Mild Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Recycle
+    - Dazzling Gleam
+    - Psyshock
+    - Fire Punch
+- Hoopa, Lv. 135, @Magical Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Hyperspace Hole
+    - Dark Pulse
+    - Thunderbolt
+    - Focus Blast
+- Sableye, Lv. 135, @Sablenite, Ability: Prankster, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Recover
+    - Will-O-Wisp
+    - Foul Play
+    - Shadow Ball
+- Zoroark, Lv. 135, @Darkinium-Z, Ability: Illusion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Night Daze
+    - Flamethrower
+    - Shadow Ball
+    - Extrasensory
+
+Nothing too crazy for this point in the game, but still a formidable challenge. Boosted Dark and Fairy moves will make it easier.
+
+**Relationship Point Choices:**
+- Defeat Umbral Ace while Taka is partnered with you, Reshiram Route only (+1 Ace)
+
+Accept the fast travel request once you're done!
+
+In the Nightclub, you can show Ace the Fennekin (or Braixen, Delphox) that we obtained back in the Water Treatment Center, if you'd like.
+
+**Relationship Point Choices:**
+- Show Ace the WTC Fennekin (+1 Ace)
+
+Talking to them again, you can get a *Red Card*.
+
+## New World Crash (Part 2)
+
+Oh yeah, surprise level cap increase to Lv. 140. Talk to Zero to get the next quest. We need to return to the New World Crash via the door in Citrine Mountain, so make your way back there.
+
+Talk to the woman in front of the meteor for a fight.
+
+**Lost Starscaper Zina. Field: **
+- Zoroark, Lv. 135, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Night Daze
+    - Focus Blast
+    - Nasty Plot
+    - Flamethrower
+- Delphox, Lv. 135, @Magical Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dazzling Gleam
+    - Fire Blast
+    - Psychic
+    - Wish
+- Absol, Lv. 135, @Absolite, Ability: Justified, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sucker Punch
+    - Play Rough
+    - Fire Blast
+    - Ice Beam
+- Yveltal, Lv. 135, @Life Orb, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Oblivion Wing
+    - Dark Pulse
+    - U-turn
+    - Sucker Punch
+- Xerneas, Lv. 135, @Magical Seed, Ability: Fairy Aura, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Geomancy
+    - Moonblast
+    - Aurora Beam
+    - Close Combat
+- Lunala, Lv. 135, @Lunalium-Z, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moongeist Beam
+    - Roost
+    - Moonblast
+    - Psyshock
+
+Nothing too crazy, but you will notice that we really are in the endgame now as we're up against 3 Ubers casually sprinkled into this team. 
+
+Once you win, we'll get our next destination: the Byxbysion Wasteland.
+
+## Distorted Space
+
+Fly over to Byxbysion and make your way into the tunnels. In the room with the branches, enter the second entrance when you're ready.
+
+**Anomaly Naganadel. Field: Wasteland**
+- Ferrothorn, Lv. 140, @Leftovers, Ability: Iron Barbs, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Leech Seed
+    - Power Whip
+    - Nature Power
+    - Protect
+- Heatran, Lv. 140, @Leftovers, Ability: Flash Fire, Quiet Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Nature Power
+    - Earth Power
+    - Magma Storm
+    - Protect
+- Solgaleo, Lv. 140, @Life Orb, Ability: Full Metal Body, Naughty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sunsteel Strike
+    - Fire Blast
+    - Stone Edge
+    - Knock Off
+- Lucario, Lv. 140, @Lucarionite, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Meteor Mash
+    - High Jump Kick
+    - Bullet Punch
+    - Hone Claws
+- Nidoking, Lv. 140, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Earth Power
+    - Sludge Wave
+    - Ice Beam
+    - Flamethrower
+- Naganadel, Lv. 140, @Dragonium-Z, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Draco Meteor
+    - Heat Wave
+    - Venoshock
+    - Nasty Plot
+
+This is pretty brutal for a singles fight. For one, the team is entirely resistant to basically any way that you would want to try to use the field for your own gain due to Steel and Poison typings. With the field preventing hazard set up and an extremely strong Mega Lucario Bullet Punch to prevent any clever Trick Room sweeping, many of the usually good strategies are busted here. Earth Power, Drill Run, and High Horsepower are all Ground-type options that aren't weakened by this field if you want to try them.
+
+Once you win, enter the New World Door to reach Distorted Space. 
+
+Defeat the Malamar here. Afterwards, talking to any Malamar will switch which sections of path are walkable and which are not. A path through, with color changes indicating use of Malamar, is as follows:
+
+<img src="/assets/media/reborn/distorted_space_1.jpg"/>
+
+The second room introduces a new wrinkle - the space bending statues we used in the Dialga/Palkia quest are back, and used in conjunction with the Malamar. Before continuing, talk to the first accessible Malamar, then walk back through the portal to the previous room. Use the statue to go left to grab the *Marshadium-Z*! Anyways, the path through the second room is as follows:
+
+<img src="/assets/media/reborn/distorted_space_2.jpg"/>
+
+Note that once you reach the gold stars the second time, you'll need to talk to Malamar while you still have your walk-through-walls ability from the upper statue, then head right back up to these two statues to continue.
+
+In the next room, we first will need to interact with the two orbs towards the bottom of the map. Once you do, you'll use statues and Malamar to return to the entrance to this room, ready to go again.
+
+To reach the left orb, follow this path:
+
+<img src="/assets/media/reborn/distorted_space_3.jpg"/>
+
+To reach the right orb, follow this path, noting that at the Blue Star, you'll need to talk to Malamar then press 'A' to return to the previous statue:
+
+<img src="/assets/media/reborn/distorted_space_4.jpg"/>
+
+With that taken care of, use the only available statue to reach the center of the middle section above. Grab the *Lustrous Orb*, *Adamant Orb*, as well as:
+
+**ZCell 64: Distorted Space**
+
+<img src="/assets/media/reborn/zcell_64.jpg"/>
+
+This final puzzle in here is a bit more complicated. If you're on Anna Route, this puzzle will basically be solved for you automatically, so I'll show the full solution for Lin Route here. First, use the statue to reach Malamar, then make your way back to the center. We can solve this puzzle entirely without having to use Malamar again after this (to be sure you're on the right one, make sure the left Giratina statue is activated). 
+
+Anyways, at any instant you have three actions that you can take - press the left column, press the right column, and press the center. There are five colors in play: White (W), Light Gray (L), Gray (G), Dark Gray (D), and Black (B). When you press the left column, the five tiles in the column will shift cyclically. To reach the left column, you'll need to use the statue to walk through walls. The right column works similarly, though you won't have to do any phasing.
+
+Talking to the center is a bit more complex: when you talk to the center, it will pull the top block from each of the columns and combine them to make a composite color. W + G = L, for example, and W + B = G. In cases where there is an odd number of 'gaps', it will favor the extreme, so W + L = W, and W + D = L. It will also shift the current five blocks in the center downward, and split the bottom-most block into two components, which will go to the bottom of the left and right columns respectively. To win, you'll need to fill the center column with, bottom to top, B, D, G, L, W blocks.
+
+Figuring out what is going on might be harder than doing the puzzle itself, which you can kinda brute force. Honestly, I recommend spending a minute or two just randomly pressing the center and each column until you have a big mess of different colors all over the puzzle. Then, use the two columns to pull blocks that will generate B into the top - either B + B or B + D will work. Next, pull in blocks that will generate D, then G, L, and finally W. If at any point you are unable to create the desired block, simply continuously press the center 9 times and mess with the columns some more until you're able to. Head through the door when you're ready!
+
+**Anomalized Giratina. Field: Inverse Field**
+- Jynx, Lv. 140, @Focus Sash, Ability: Dry Skin, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Signal Beam
+    - Ice Beam
+    - Draining Kiss
+    - Nasty Plot
+- Weavile, Lv. 140, @Focus Sash, Ability: Pickpocket, Timid Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Knock Off
+    - Ice Shard
+    - Poison Jab
+    - Power-Up Punch
+- Lugia, Lv. 140, @Magical Seed, Ability: Multiscale, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
+    - Recover
+    - Toxic
+    - Dragon Tail
+    - Psychic
+- Meloetta-Pirouette, Lv. 140, @Magical Seed, Ability: Serene Grace, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Drain Punch
+    - Acrobatics
+    - Return
+    - Thunder Punch
+- Yveltal, Lv. 140, @Choice Scarf, Ability: Dark Aura, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Dark Pulse
+    - Oblivion Wing
+    - Heat Wave
+    - U-turn
+- Giratina-Origin, Lv. 140, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Aura Sphere
+    - Energy Ball
+    - Hex
+    - Will-O-Wisp
+
+Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice-types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own. I also had a great time destroying the field with the Lycanium-Z and steamrolling, if that's your thing.
+
+Catch **Giratina** once you win.
+
+If you're on Anna Route, you'll need to reset the game a few times through some deceptive "Bad End" screens to proceed. Anyways, return to the Nightclub to really begin wrapping up the postgame!
+
+# Postgame Episode 8: A Canvas of Cyclical Conflict
+
+Word. Level cap up to Lv. 145.
+
+Postgame Episode 8 soon to come...
+
+
+
+
+
+
 
 
 

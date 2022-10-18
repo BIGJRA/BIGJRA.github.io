@@ -1,21 +1,24 @@
 Remaining Tasks:
-- Tier 7: Up, Down, and All Around
-  - Apophyll Cave - Reshiram/Zekrom/Kyurem
-  - Byxbysion Wasteland - Giratina
 - Tier 8: A Canvas of Cyclical Conflict
+  - Citae Prisma: Pheromosa, Necrozma
+  - Twilight Desert: Zygarde 100%
+  - Rhodochrine Tree: Xerneas, Yveltal
+  - Charous Mountain: Rayquaza
+  - Aegir Cave: Groudon, Kyogre
+  - Battle Pavilion: Mewtwo Pt. 1
+  - Neoteric Isle: Xurkitree, Mew, Mewtwo
 - Tier 9: Pokemon Reborn, Reborn!
-    - Arceus Quest
-    - Dev Room
+  - Arceus Quest
+  - Dev Room
 
 Remaining Zygarde Cells (71 Total):
-- Distorted Space: 1 Cell
 - Neoteric Isle: 5 Cells
 - Citae Prisma: 2 Cells 
 
 Remaining Relationship Points (Thanks to Vixen!):
-- *Save Ace with Taka as your partner:
-    - +1 Ace
-- Show Ace their Fennekin:
-    - +1 Ace
 - Abandon Lin to catch Arceus first if she had been the postgame lead:
-    - -3 Terra
+  - -3 Terra
+
+Misc:
+- Bee quests and rewards
+- Check in on legendary items
