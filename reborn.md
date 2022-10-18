@@ -20129,14 +20129,6 @@ Word. Level cap up to Lv. 145.
 
 Postgame Episode 8 soon to come...
 
-
-
-
-
-
-
-
-
 # Appendices
 
 ## Custom Pokemon Form Lookup
