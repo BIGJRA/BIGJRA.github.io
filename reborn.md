@@ -243,7 +243,7 @@ Heavy Work In Progress :)
   - [Twilight Desert (Part 1)](#twilight-desert-part-1)
   - [Anomaly at Chrysolia Springs](#anomaly-at-chrysolia-springs)
   - [Poachers in the Chrysolia Deepwoods](#poachers-in-the-chrysolia-deepwoods)
-  - [Aegis Cave](#aegis-cave)
+  - [Aegir Cave](#aegir-cave)
   - [The Agate Circus Ferris Wheel](#the-agate-circus-ferris-wheel)
   - [What Lies Past Manyworld Forest](#what-lies-past-manyworld-forest)
   - [The Heist on the Train](#the-heist-on-the-train)
@@ -271,7 +271,26 @@ Heavy Work In Progress :)
   - [Umbral Battles in Aegir Cave (Part 1)](#umbral-battles-in-aegir-cave-part-1)
   - [New World Helix](#new-world-helix)
   - [New World Crash (Part 2)](#new-world-crash-part-2)
-  - [](#)
+  - [Distorted Space](#distorted-space)
+- [Postgame Episode 8: A Canvas of Cyclical Conflict](#postgame-episode-8-a-canvas-of-cyclical-conflict)
+  - [Citae Prisma](#citae-prisma)
+  - [Chasing the Super High-Speed Pokemon](#chasing-the-super-high-speed-pokemon)
+  - [Umbral Battles in Aegir Cave (Part 2)](#umbral-battles-in-aegir-cave-part-2)
+- [Appendices](#appendices)
+  - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
+    - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
+    - [PULSE Form Lookup](#pulse-form-lookup)
+    - [Other Form Lookup](#other-form-lookup)
+    - [Dev Fight Form Lookup](#dev-fight-form-lookup)
+  - [Wild Held Items](#wild-held-items)
+  - [Mining Item Probabilities](#mining-item-probabilities)
+  - [Full Password List](#full-password-list)
+    - [Monorun Passwords](#monorun-passwords)
+    - [Quality of Life Passwords](#quality-of-life-passwords)
+    - [Difficulty Passwords](#difficulty-passwords)
+    - [Shenanigan Passwords](#shenanigan-passwords)
+    - [Bulk Passwords](#bulk-passwords)
+
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -15872,7 +15891,7 @@ Head to the top right corner once you're ready to fight the Commissioner.
 
 Nothing too crazy here, though there is a good mix of fast and slow, bulky and hard-hitting. Once you win, talk to **Zeraora** to obtain it! Accept the fast travel back to the Nightclub. 
 
-## Aegis Cave
+## Aegir Cave
 
 Talk to Randall in the Nightclub, and accept his quest. Fly over to the Victory Road Pokemon Center.
 
@@ -20232,6 +20251,49 @@ All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are 
 
 Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
 
+## Chasing the Super High-Speed Pokemon
+
+Accept Danielle's quest, then fly over to the Pokemon League on Charous Mountain. Head down to the large dragon statue here for a battle.
+
+**Anomaly Rayquaza. Field: Snowy Mountain**
+- Rayquaza, Lv. 145, @Life Orb, Ability: Air Lock, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Dragon Ascent
+    - Icy Wind
+    - Thunder
+    - Earthquake
+- Kyogre, Lv. 145, @Blue Orb, Ability: Drizzle, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Thunder
+    - Icy Wind
+    - Origin Pulse
+    - Hidden Power
+- Yveltal, Lv. 145, @Life Orb, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 0/4/0/252/0/252
+    - Oblivion Wing
+    - Rock Slide
+    - Sucker Punch
+    - Taunt
+- Deoxys-Attack, Lv. 145, @Life Orb, Ability: Pressure, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Thunder
+    - Icy Wind
+    - Psycho Boost
+    - Superpower
+- Ninetales-Alola, Lv. 145, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Blizzard
+    - Moonblast
+    - Aurora Veil
+    - Foul Play
+- Darkrai, Lv. 145, @Telluric Seed, Ability: Bad Dreams, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Icy Wind
+    - Ominous Wind
+    - Thunder
+    - Spacial Rend
+
+Another tough double battle with a lot of hard hitting Pokemon. I recommend Light Screen and Trick Room - combined, your Pokemon will get slower with every use of Icy Wind, allowing them to hit first. You can switch the field to Mountain if you'd like. 
+
+Once you win, Rayquaza will run off... and roam the Reborn region! It functions pretty similarly to the main series roamers - when you switch areas, Rayquaza probably will, too. And, just like the main series games, simply using your Reborn Ball on it is the easiest thing to do. I generally run around Reborn City and check the map until Rayquaza happens to be in the same ward as you, then use Repels to weed out everything else except Rayquaza, who is at Lv. 145. 
+
+Anyways, succeed and catch **Rayquaza**, then return to the Nightclub.
+
+## Umbral Battles in Aegir Cave (Part 2)
 
 # Appendices
 
