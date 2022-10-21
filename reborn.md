@@ -276,6 +276,9 @@ Heavy Work In Progress :)
   - [Citae Prisma](#citae-prisma)
   - [Chasing the Super High-Speed Pokemon](#chasing-the-super-high-speed-pokemon)
   - [Umbral Battles in Aegir Cave (Part 2)](#umbral-battles-in-aegir-cave-part-2)
+    - [Gauntlet Fight 2 (Amaria Version)](#gauntlet-fight-2-amaria-version)
+    - [Gauntlet Fight 2 (Titania Version)](#gauntlet-fight-2-titania-version)
+  - [The Mysterious Battle Pavilion Challenger](#the-mysterious-battle-pavilion-challenger)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -20500,6 +20503,32 @@ Return to the Nightclub!
 
 Accept the Ringmaster's quest next. We'll actually need to win a few battles in the Battle Pavilion on the left side of the Nightclub to proceed, so prepare your best team of 3. You can't use Megas or Z-Moves, nor the strong legendaries... so keep that in mind. 
 
+Once you beat 4 trainers, you'll face off against this one:
+
+**Definitely Not Mewtwo. Field: Rainbow Field**
+- Probopass, Lv. 100, @Air Balloon, Serious Nature, IVs: 10
+    - Stealth Rock
+    - Discharge
+    - Flash Cannon
+    - Earth Power
+- Amoonguss, Lv. 100, @Black Sludge, Serious Nature, IVs: 10
+    - Spore
+    - Giga Drain
+    - Toxic
+    - Venoshock
+- Mewtwo, Lv. 100, @Mewtwonite X, Serious Nature, IVs: 10
+    - Drain Punch
+    - Earthquake
+    - Ice Punch
+    - Psystrike
+
+You do have to fight one of the strongest Mega Evolutions without being able to use the same feature, but I think you can find a team that will be able to manage. 4 randomized fights beforehand shouldn't be too terrible, I hope.
+
+Well, our challenger flies away after we win. Interesting. That's it for whatever that was, so... make your way a few tiles over to the legendary staging area of the Nightclub.
+
+## Neoteric Isle
+
+Head over to talk to the Ringmaster once more. Head over to Tanzan Mountain, make your way all the way down to the New World Door beneath the Steelix tunnel room, then head in. 
 
 # Appendices
 
