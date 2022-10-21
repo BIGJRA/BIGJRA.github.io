@@ -13,7 +13,6 @@ Remaining Tasks:
 
 Remaining Zygarde Cells (71 Total):
 - Neoteric Isle: 5 Cells
-- Citae Prisma: 2 Cells 
 
 Remaining Relationship Points (Thanks to Vixen!):
 - Abandon Lin to catch Arceus first if she had been the postgame lead:

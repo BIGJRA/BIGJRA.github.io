@@ -20127,7 +20127,111 @@ If you're on Anna Route, you'll need to reset the game a few times through some 
 
 Word. Level cap up to Lv. 145.
 
-Postgame Episode 8 soon to come...
+## Citae Prisma
+
+Accept Randall's quest, then fly over to Beryl. Enter Beryl Cave and make your way through until you reach the New World Door. Head on in.
+
+Talk to Serra above. There are some encounters here in the water - notably, one of the strongest Ultra Beasts.
+
+**Citae Prisma**
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Tynamo             |70 |Eelektrik          |60 |Dragalge           |40 |
+|Deino              |30 |Zweilous           |20 |Eelektross         |40 |
+|                   |   |Eelektross         |20 |**Pheromosa**      |19 |
+|                   |   |                   |   |Hydreigon          |1  |
+
+Head up and talk to Luna and Elias. Talking to them will make the room dark or light, respectively. Study the puzzle in the light, then turn it dark to complete it.
+
+Essentially, we will want to make a beam in the center of the room hit one of the four crystals in the corners. Our first goal will be hitting the Blue Crystal. Start by moving the mirror up to hit it:
+
+<img src="/assets/media/reborn/citae_prisma_1.jpg"/>
+
+Use the crystal, cross the bridge above, and talk to the orb.
+
+You'll notice that there are now two mirrors. Move them in the light, switch it in the dark, then move them again in the darkness. You'll see outlines of the mirrors left over, and using the activated Purple Crystal will move all mirrors from their current locations to their previous locations. Keep this in mind as we solve the future puzzles.
+
+Our next goal will be hitting Green. Position the crystals in the light, then move them like so:
+
+<img src="/assets/media/reborn/citae_prisma_2.jpg"/>
+
+Activate the purple crystal. Next, you'll want to move one mirror into place such that a well timed Purple Crystal activation will allow the light to reach Green. The image below shows the direction the light will travel - you must time your use of the Purple Crystal while the light is in the red zone in order to succeed. Turn off speed up for these puzzles.
+
+<img src="/assets/media/reborn/citae_prisma_3.jpg"/>
+
+Activate the crystal, then smash the debris on the puzzle board. Our next mission will be to activate the Blue and Green crystals at the same time - note that using the prism in the center will reset all crystals but Purple. We now have a beam that goes left out of the prism, so that's useful. First, you'll need to place the mirrors in the light, then move them into place in the dark. First, you'll need to charge Purple like before, so set it up like this:
+
+<img src="/assets/media/reborn/citae_prisma_4.jpg"/>
+
+Activate Purple. Next, move the mirror into place and solve like before, using Purple while BOTH lights are in their respective 'red zone':
+
+<img src="/assets/media/reborn/citae_prisma_5.jpg"/>
+
+Activate both Blue and Green, then follow the path to the right to reach another orb. Also, just across the ice bridge, attempt to walk into the bottom right corner to find: 
+
+**ZCell 65: Citae Prisma**
+
+<img src="/assets/media/reborn/zcell_65.jpg"/>
+
+Our next mission will be to activate Green, Red, and Blue all at the same time. Set up the mirrors in the light, activate Purple as usual, then set up the mirrors to complete the puzzle, which thankfully isn't too different from the previous. Set them up and solve:
+
+<img src="/assets/media/reborn/citae_prisma_6.jpg"/>
+
+Activate all three crystals, then make your way to the left to reach another orb. You can also now go up from the puzzle to get:
+
+**ZCell 66: Citae Prisma**
+
+<img src="/assets/media/reborn/zcell_66.jpg"/>
+
+Talk to Serra in the puzzle, and you'll notice that the final mirror we get is broken. Use the light at the middle, and it will actually go through Serra towards the direction she's facing, so she's essentially a rotatable mirror. We can't teleport her anywhere using the Purple Crystal, though. Our final goal is to have all four crystals activated at once. Again, we can activate Purple beforehand, but we need to set it up so that once we use the prism in the middle, all four beams of light eventually find a respective crystal. 
+
+First, set up all the crystals and Serra into their final positions, then turn it light, and dark again. 
+
+<img src="/assets/media/reborn/citae_prisma_7.jpg"/>
+
+Using the prism will activate Purple, so do that next. From here, move the crystals into their next positions. The timing is really tight on this one, but you should be able to make it work. Use the Purple Crystal as soon as the light passes both of the circled mirrors, and you should be ok.
+
+<img src="/assets/media/reborn/citae_prisma_8.jpg"/>
+
+You'll get confirmation from Serra once you're successful. Activate Blue again to cross the ice bridge and enter the door above. Time for an Anomaly battle once you're ready.
+
+**Anomaly Necrozma. Field: Rainbow Field (Or, by choice in Lin Route, Crystal Cavern Field)**
+- Necrozma, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Stealth Rock
+    - Photon Geyser
+    - Heat Wave
+    - Light Screen
+- Necrozma-Dawn, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Moongeist Beam
+    - Photon Geyser
+    - Power Gem
+    - Hidden Power
+- Necrozma-Dusk, Lv. 145, @Magical Seed, Ability: Prism Armor, Adamant Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Sunsteel Strike
+    - Photon Geyser
+    - Swords Dance
+    - Earthquake
+- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Moongeist Beam
+    - Moonblast
+    - Psyshock
+    - Heat Wave
+- Solgaleo, Lv. 145, @Magical Seed, Ability: Full Metal Body, Naive Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Sunsteel Strike
+    - Flame Charge
+    - Rock Slide
+    - Psychic
+- Necrozma-Dawn, Lv. 145, @Ultranecrozium-Z, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Photon Geyser
+    - Dragon Pulse
+    - Moongeist Beam
+    - Earth Power
+
+All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. Of course, all of them share the Psychic-type, so you can try to sweep with Ghost and Dark moves or something.
+
+Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
+
 
 # Appendices
 
