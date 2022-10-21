@@ -1,6 +1,5 @@
 Remaining Tasks:
 - Tier 8: A Canvas of Cyclical Conflict
-  - Aegir Cave: Groudon, Kyogre
   - Battle Pavilion: Mewtwo Pt. 1
   - Neoteric Isle: Xurkitree, Mew, Mewtwo
   - Twilight Desert: Zygarde 100%

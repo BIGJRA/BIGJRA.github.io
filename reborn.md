@@ -291,21 +291,6 @@ Heavy Work In Progress :)
     - [Shenanigan Passwords](#shenanigan-passwords)
     - [Bulk Passwords](#bulk-passwords)
 
-- [Appendices](#appendices)
-  - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
-    - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
-    - [PULSE Form Lookup](#pulse-form-lookup)
-    - [Other Form Lookup](#other-form-lookup)
-    - [Dev Fight Form Lookup](#dev-fight-form-lookup)
-  - [Wild Held Items](#wild-held-items)
-  - [Mining Item Probabilities](#mining-item-probabilities)
-  - [Full Password List](#full-password-list)
-    - [Monorun Passwords](#monorun-passwords)
-    - [Quality of Life Passwords](#quality-of-life-passwords)
-    - [Difficulty Passwords](#difficulty-passwords)
-    - [Shenanigan Passwords](#shenanigan-passwords)
-    - [Bulk Passwords](#bulk-passwords)
-
 # Episode 1: Reborn, the City of Ruin
 
 Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
@@ -1525,7 +1510,7 @@ Head to the left and enter the gym room for a battle.
 
 This is a pretty neat and out of the ordinary team that helps teach the player about the versatility of field effects. In general, the Desert Field actually doesn't really benefit Grass types or most grass type moves. Regardless, Florinia's team is mostly built around using the field successfully. Specifically, Needle Arm, Pin Missile, and Sand Tomb are all boosted by the field, and most of her Pokemon have access to these moves. Cacnea's Sand Veil is always activated here, and Ferroseed's Telluric Seed allows it to gain a bit more bulk and speed in exchange for being trapped by Sand Tomb. Sandstorm lasts for eight turns on the field, and Ferroseed, Cacnea, and Cradily will all be immune to its damage while you may not. Cradily also gets a Special Defense boost from the sand, adding to its already strong bulk with Stockpile and Recover. On top of all that, Nature Power turns into boosted Sand Tomb, and Cottonee has priority on this move due to Prankster!
 
-All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying-type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
+All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
 
 After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE Readout 5C*. The level cap also shoots up to 35!
 
@@ -1809,9 +1794,9 @@ Head to the right first. You'll find a hidden *Chesto Berry* here. Take the near
 
 Back in the Underroot, take the path up from here and cut the wiggly tree. Take the nearby stairs to access another section of jungle. Go up here to find a hidden *Ether* and **Stantler**. 
 
-Follow the path all the way down and to the right. Inside a house here is a lady. She will tutor us a pretty good move... but only if you have a Grass-type starter. Since Grass type starters kinda suck compared to Fire-type and Water-type starters, here's a bit of compensation.
+Follow the path all the way down and to the right. Inside a house here is a lady. She will tutor us a pretty good move... but only if you have a Grass type starter. Since Grass type starters kinda suck compared to Fire type and Water type starters, here's a bit of compensation.
 
-**Rhodochrine Jungle Move Tutor (If you chose a Grass-type Starter)**
+**Rhodochrine Jungle Move Tutor (If you chose a Grass type Starter)**
 
 |Move       |Price|
 |-----------|-----|
@@ -1880,7 +1865,7 @@ Prepare your team as necessary, and head up.
 
 Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokemon in this guide, but that Pokemon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia as we've seen with Fern is a hard hitting and healing monster in the early game. With the PULSE in the back, this can be a tough fight, especially if you're not careful and let it use double-power Growth and/or let it collect Stamina boosts, since then it bowls you over with Stored Power and Mega Drain.
 
-One thing to consider is that past Braixen a Bug-type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to light the field up and watch their time minus Braixen and Baltoy burn passively each turn.
+One thing to consider is that past Braixen a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to light the field up and watch their time minus Braixen and Baltoy burn passively each turn.
 
 Once you win, you can find a *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
@@ -1976,9 +1961,9 @@ Head up and into the battle room.
     - Air Cutter
     - Roost
 
-As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison-type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always on, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
+As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always on, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
 
-The key here is putting yourself in a position to be able to deal with Crobat. It's frail enough to die to one or two well placed super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at knocking out the fodder to open up Crobat for the rest of your team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison-type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
+The key here is putting yourself in a position to be able to deal with Crobat. It's frail enough to die to one or two well placed super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at knocking out the fodder to open up Crobat for the rest of your team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
 
 ### Saved Police Officers Route
 
@@ -2022,7 +2007,7 @@ Talk to the agent in his room, then head up into the arena once you're ready.
     - Air Cutter
     - Nasty Plot
 
-As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel-types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock, and if you let it boost it's basically over most of the time.
+As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock, and if you let it boost it's basically over most of the time.
 
 On this field, you really have to find a way to very quickly take out the team without suffering too many casualties yourself and find a way to deal with Crobat, since it likes to revenge kill your Pokemon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well placed super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. I recommend using Fire moves too since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokemon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.
 
@@ -2373,7 +2358,7 @@ Head back to Lapis Ward and attempt to enter the gym. Time for another rival bat
     - Feint Attack
     - Fire Punch
 
-I often find that it is raining when I start this fight, hence Drought Torkoal may cause it to be a Rainbow Field battle for eight turns. This makes Nature Power turn into boosted Aurora Beam, interestingly giving Ice-type coverage to a Fire-type Sun team. Anyways, his team is fairly strong for this point under sun, so you're gonna have to be careful of letting his Houndoom and Magmortar destroy you with powered-up Fire moves. The Rainbow field will also increase chances to burn, so your physical attackers may become crippled. One strategy you can use is changing the weather to something else, Rain will dampen his attacks and the other two will cancel the Rainbow Field. If you can knock out Torkoal he has no way to set up Sun, so you can use the Protect and Substitute TMs we now have to stall out the sun if you need to. Weaken his weather and field advantage and you can win.
+I often find that it is raining when I start this fight, hence Drought Torkoal may cause it to be a Rainbow Field battle for eight turns. This makes Nature Power turn into boosted Aurora Beam, interestingly giving Ice type coverage to a Fire type Sun team. Anyways, his team is fairly strong for this point under sun, so you're gonna have to be careful of letting his Houndoom and Magmortar destroy you with powered-up Fire moves. The Rainbow field will also increase chances to burn, so your physical attackers may become crippled. One strategy you can use is changing the weather to something else, Rain will dampen his attacks and the other two will cancel the Rainbow Field. If you can knock out Torkoal he has no way to set up Sun, so you can use the Protect and Substitute TMs we now have to stall out the sun if you need to. Weaken his weather and field advantage and you can win.
 
 Head into the gym and go upstairs. Talk to the group here, then head outside and attempt to enter the orphanage in the center of town. A girl will leave. Head in. Inside, you'll have to defeat an Orderly.
 
@@ -2484,9 +2469,9 @@ Bookworm Shelly (2x Hyper Potion). Field: Forest Field, Natural Rain
     - Struggle Bug
     - Dazzling Gleam
 
-I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is the rain that's present here - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire-types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
+I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is the rain that's present here - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
 
-To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire-type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Also, Rock Slide. Tons of options here if you think ahead about what your strategy will be.
+To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Also, Rock Slide. Tons of options here if you think ahead about what your strategy will be.
 
 **Relationship Point Choices:**
 - Defeat Shelly on your first try (+1 Victoria)
@@ -2929,9 +2914,9 @@ Enter the two rooms on either side and talk to two monitors within to see four t
     - Shadow Claw
     - Play Rough
 
-Finally time to take on the Ghost-type leader. If you check your field notes for Short-Circuit right away you'll probably notice some of the things that make Shade difficult to fight - most of his Ghost-type moves get a boost on this field, but so do the Electric-type moves on half of his team. He also has near full IV's on his entire team for the first time. Gengar is a solid lead that likes to hit really hard or put you to sleep, so you might need to plan ahead with some priority or anti-sleep measures. Doublade and Banette give themselves a bit of bulk with their seeds while Mimikyu's Disguise ability infamously gives it a free turn to get to +2 Attack or revenge kill for free. 
+Finally time to take on the Ghost type leader. If you check your field notes for Short-Circuit right away you'll probably notice some of the things that make Shade difficult to fight - most of his Ghost type moves get a boost on this field, but so do the Electric type moves on half of his team. He also has near full IV's on his entire team for the first time. Gengar is a solid lead that likes to hit really hard or put you to sleep, so you might need to plan ahead with some priority or anti-sleep measures. Doublade and Banette give themselves a bit of bulk with their seeds while Mimikyu's Disguise ability infamously gives it a free turn to get to +2 Attack or revenge kill for free. 
 
-That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric-type moves, so if you have a strategy using Gear Grind or an Electric-type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
+That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric type moves, so if you have a strategy using Gear Grind or an Electric type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
 
 After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can of course use Flash now.
 
@@ -3645,7 +3630,7 @@ Enter the gym room, save, and talk to Aya.
 
 Aya is another difficult doubles gym leader. The field boosts her Sludge Waves and Venusaur's Power Whip for one. Entry Hazards are all turned into end-of-turn effects - Toxic Spikes and Stealth Rocks will do damage and the former will Poison your Pokemon. With the speedy Nidoqueen and Salazzle paired with the bulky Toxapex and Dragalge, with Venusaur and Drapion for coverage, her team is well suited to deal with many of the strategies you might think to use. Earthquake is weakened by 4 times on this field, so that's not really an option. 
 
-The key to this battle in my experience is letting Toxapex hang out on the left side and do everything in your power to incapacitate and knock out the Pokemon on the right. Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. For that reason, putting Psychic-type attackers, and/or Steel/Poison-type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively. You can also use your own entry hazard spam or the Telluric seed to boost a sweeper. If you could figure out Shelly way back when I think you can find a way to best Aya.
+The key to this battle in my experience is letting Toxapex hang out on the left side and do everything in your power to incapacitate and knock out the Pokemon on the right. Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. For that reason, putting Psychic type attackers, and/or Steel/Poison type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively. You can also use your own entry hazard spam or the Telluric seed to boost a sweeper. If you could figure out Shelly way back when I think you can find a way to best Aya.
 
 **Relationship Point Choices:**
 - Beat Aya on the first try (+1 Hardy, +1 Fern)
@@ -4024,7 +4009,7 @@ Outside, attempt to enter the Voclain Estate in the top right corner. Before you
 **Relationship Point Choices:**
 - Tell Bennett you knew Cascoon had perfect memories (+1 Bennett)
 
-I hope they remember me killing 15 of them with Fire-type moves in Pokemon Legends Arceus. 
+I hope they remember me killing 15 of them with Fire type moves in Pokemon Legends Arceus. 
 
 **Relationship Point Choices:**
 - Talk to Bennett a second time (+1 Bennett)
@@ -4191,9 +4176,9 @@ Break the last mirror and head into the gym arena when you're ready.
     - Pain Split
     - Shadow Ball
 
-Serra is a tough gym leader that operates on a very unique field effect - instead of thinking about how to beat a Hail-team like you normally would, you really should study the field effect in detail to devise a strategy. Anyways, her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use your own screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers have a chance to hit anyways even when they miss - some attacks are even boosted, which explains why Serra has five special attackers. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast and like to try to crit you. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier, the latter two like to set up free 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice-type and uses the Mirror Arena to great effect.
+Serra is a tough gym leader that operates on a very unique field effect - instead of thinking about how to beat a Hail-team like you normally would, you really should study the field effect in detail to devise a strategy. Anyways, her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use your own screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers have a chance to hit anyways even when they miss - some attacks are even boosted, which explains why Serra has five special attackers. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast and like to try to crit you. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier, the latter two like to set up free 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice type and uses the Mirror Arena to great effect.
 
-In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel-type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
+In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
 
 It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra to play on a more even playing field. However:
 
@@ -4501,9 +4486,9 @@ Head all the way back to Tanzan Cove and talk to Anna inside. It's time for anot
     - Soft-Boiled
     - Stored Power
 
-Shocker, another tough gym leader in Pokemon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal-type team (ok, 5/6ths of a Normal-type team plus Clefable).
+Shocker, another tough gym leader in Pokemon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal type team (ok, 5/6ths of a Normal type team plus Clefable).
 
-Clefable's Magic Guard is an annoying ability that means you need to overwhelm it physically despite its seed boost or get it before it can Calm Mind too much, but thankfully it means it doesn't have Unaware. This means you can get your own sweeper set up potentially against Bewear or Girafarig and maybe steamroll his team. Fighting types can potentially destroy the Cinccino but won't see a ton of success against the rest of the team. Since Normal-types have no other weaknesses, you might have to turn to using the field to your benefit. Although Girafarig has Sap Sipper to absorb Grass-type moves, you can go with a hyper-offensive Grass-type strategy, keeping Swellow in mind. Coil and Growth are boosted on this field, so it shouldn't be impossible to set up. You can also take advantage of the boost to Fire-moves - in particular Bewear will get crushed by them. Keep in mind too that the Elemental Seed can potentially allow you to more easily survive Cinccino and/or get your own tank set up. 
+Clefable's Magic Guard is an annoying ability that means you need to overwhelm it physically despite its seed boost or get it before it can Calm Mind too much, but thankfully it means it doesn't have Unaware. This means you can get your own sweeper set up potentially against Bewear or Girafarig and maybe steamroll his team. Fighting types can potentially destroy the Cinccino but won't see a ton of success against the rest of the team. Since Normal types have no other weaknesses, you might have to turn to using the field to your benefit. Although Girafarig has Sap Sipper to absorb Grass type moves, you can go with a hyper-offensive Grass type strategy, keeping Swellow in mind. Coil and Growth are boosted on this field, so it shouldn't be impossible to set up. You can also take advantage of the boost to Fire-moves - in particular Bewear will get crushed by them. Keep in mind too that the Elemental Seed can potentially allow you to more easily survive Cinccino and/or get your own tank set up. 
 
 In a pinch, this fight becomes much easier if you change the field to the Burning Field or the Corrosive Field. However Laura doesn't like you destroying her flower garden!
 
@@ -4818,7 +4803,7 @@ Once you're ready, talk to El at the top. You will have to choice between siding
     - Shadow Ball
     - Focus Blast
 
-One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic-type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
+One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
 
 **Relationship Point Choices:**
 - Side with El and lose (+3 Elias, +1 Adrienn, -3 Gardevoir, -2 Luna, -2 Radomus)
@@ -5020,7 +5005,7 @@ Head up and into the next room when you are ready for your gym battle.
     - Psychic
     - Moonblast
 
-Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Malamar will then go for its Contrary Superpower set up while Reuniclus likes to hit insanely hard and go first with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock-type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room. Finally, his Gardevoir is EV trained, has a berry, and hits really hard with boosted Psychic but can also set up on you. 
+Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Malamar will then go for its Contrary Superpower set up while Reuniclus likes to hit insanely hard and go first with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room. Finally, his Gardevoir is EV trained, has a berry, and hits really hard with boosted Psychic but can also set up on you. 
 
 One strategy you can try to use to win is essentially to shut down Trick Room altogether. Using moves like Fake Out will allow you to knock out the Trick Room users on the second turn with super-effective Bug/Dark/Ghost moves, opening you up to exploit the low speeds on everything except Metagross with priority to get an easy sweep. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it. Alternatively, Slowking and Reuniclus are the only Pokemon that excel dramatically in Trick Room of this team, so you can just embrace the Trick Room and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower mons will be outspeeding everything except Metagross and maybe Slowking, allowing you to exploit the relatively low defenses of the team barring Gardevoir. 
 
@@ -5528,7 +5513,7 @@ Time to fight Reborn's Dark type gym leader. Her field will boost the power of D
 
 The good news is that by this point you should have lots of options to deal with the team. If you want to stay with the Dark Crystal Cavern field, you can use Aurora Veil without Hail or use your own Dark types to get the defense boosts. Dazzling Gleam and Signal Beam get boosted on this field, effectively cancelling out the defenses boost of her team if you use these moves. If you can get around Honchkrow, Fighting types and Bug types with high attack can generally succeed here too in spite of the added defense. You can also take advantage of the fact that she has a singular special move on her entire team and bring a team with lots of Defense to go blow-for-blow. 
 
-There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon-type moves more effectively if you'd like. Alternatively you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to ignore their bulk and nuke the opponents with more uses of the Earthquake-esque moves and profit from boosted Rock-type moves as well as boosted Hyper Voice and Boomburst. In either case Tyranitar will still be a menace, but past Bisharp she has no Rock-resists. 
+There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon type moves more effectively if you'd like. Alternatively you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to ignore their bulk and nuke the opponents with more uses of the Earthquake-esque moves and profit from boosted Rock type moves as well as boosted Hyper Voice and Boomburst. In either case Tyranitar will still be a menace, but past Bisharp she has no Rock-resists. 
 
 Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70, coincidentally about the point where normal Pokemon games just... end. Plus, she'll give us *TM97 Dark Pulse*! Nice.
 
@@ -5782,7 +5767,7 @@ Climb up the stairs to the right. You'll find a hidden *Ultra Potion* and *Green
 |**Cryogonal**     |4  |                  |   |                  |   |
 |**Snorunt**       |4  |                  |   |                  |   |
 
-Without Surf we can't really do much here other than catch some Water and Ice-type Pokemon, so head back out onto Route 2. 
+Without Surf we can't really do much here other than catch some Water and Ice type Pokemon, so head back out onto Route 2. 
 
 Make your way back to the platform with the trees, and get onto the stairs in the bottom right corner. Hop your way onto the platform containing a hiker and pick up the hidden *Guard Spec.* and *Full Heal*. Climb the stairs, beat the clown, and pick up another hidden *Guard Spec.*
 
@@ -6268,7 +6253,7 @@ If you do want to open the secret room, you'll need to make the top area tiles l
 
 <img src="/assets/media/reborn/calcsecret.jpg"/>
 
-When you're ready, take on the Fire-type gym leader!
+When you're ready, take on the Fire type gym leader!
 
 **Firebug Charlotte (2x Ultra Potion). Field: Super-Heated Field**
 - Darmanitan, Lv. 68, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
@@ -6302,7 +6287,7 @@ When you're ready, take on the Fire-type gym leader!
     - Hidden Power
     - Nasty Plot
 
-Time for another of Reborn's double battle gym leaders. Her two leads, Darmanitan and Typhlosion, are incredibly fast and hit like trucks with their Fire moves. Particularly, Eruption will turn the field to Burning Field, making things even more difficult. Then, in the back, she has a seeded Ninetales who will amplify her Fire-type moves even more thanks to Drought, which also will cancel out your own helpful weather. With a bulky Rotom that can counter Water and Ground types easily and the speedy Heat Wave + coverage moves sets she has on her Delphox and Volcarona, Charlotte has a pretty strong team that can overwhelm unprepared teams by their sheer field-boosted power.
+Time for another of Reborn's double battle gym leaders. Her two leads, Darmanitan and Typhlosion, are incredibly fast and hit like trucks with their Fire moves. Particularly, Eruption will turn the field to Burning Field, making things even more difficult. Then, in the back, she has a seeded Ninetales who will amplify her Fire type moves even more thanks to Drought, which also will cancel out your own helpful weather. With a bulky Rotom that can counter Water and Ground types easily and the speedy Heat Wave + coverage moves sets she has on her Delphox and Volcarona, Charlotte has a pretty strong team that can overwhelm unprepared teams by their sheer field-boosted power.
 
 Both the Super-Heated Field and Burning Field benefit Charlotte a lot, but one hilarious strategy you can try is just using your own Fire types. You can just use your own Eruption, Heat Wave, etc. on her offense-oriented team. Alternatively if you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room with many different Pokemon, and once you have it, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-Heated Field damage weakener. You can alternatively outspeed via the Telluric Seed, a pretty incredible item when put on fast sweepers. There are tons of other crafty doubles strategies you can use on this fight, so get creative!
 
@@ -6588,9 +6573,9 @@ Emerge into the outside once more, pick up the *Common Candy* and *Shoal Shell*,
     - Rock Slide
     - Iron Head
 
-Blake has a pretty tough doubles team that takes advantage of the power of Water and Ice-types but mainly from the physical side. Intimidate Gyarados is good as usual, and paired with Snow Cloak Mamoswine they can crush your Pokemon that aren't as defensively blessed. In the back he has the speedy combo of Weavile, Starmie, and Slush Rush Sandslash, plus has a bulky Walrein with an extra 1.5x boost to defense thanks to natural hail. On top of that, the field boosts all of his Ice type attacks as well as Rock Slide, plus makes Thunder perfectly accurate. All in all this is a tough fight but not unbeatable!
+Blake has a pretty tough doubles team that takes advantage of the power of Water and Ice types but mainly from the physical side. Intimidate Gyarados is good as usual, and paired with Snow Cloak Mamoswine they can crush your Pokemon that aren't as defensively blessed. In the back he has the speedy combo of Weavile, Starmie, and Slush Rush Sandslash, plus has a bulky Walrein with an extra 1.5x boost to defense thanks to natural hail. On top of that, the field boosts all of his Ice type attacks as well as Rock Slide, plus makes Thunder perfectly accurate. All in all this is a tough fight but not unbeatable!
 
-You have lots of options in fact beyond the standard overpowered doubles strats you generally have access to now like Wide Guard + Trick Room. For example, you too can harness perfectly accurate Thunder to easily dispatch Gyarados and Starmie. This field may help out Ice-types but arguably it can help Flying-types even more: Flying attacks are boosted by 1.5x here and Tailwind grants Strong Winds, allowing your Flying-types to ignore their Ice weaknesses and granting another 1.5x boost! There are also a ton of boosted attacks and abilities on this field - a shoutout to Aurorus, who gets 1.5x for Refrigerate, AND 1.5x for Hyper Voice being boosted, AND 1.5x for Ice-type moves being boosted on this field! You can also turn it to mountain with a burning move to cancel out the Ice-type bonus on Rock-type moves, too!
+You have lots of options in fact beyond the standard overpowered doubles strats you generally have access to now like Wide Guard + Trick Room. For example, you too can harness perfectly accurate Thunder to easily dispatch Gyarados and Starmie. This field may help out Ice types but arguably it can help Flying types even more: Flying attacks are boosted by 1.5x here and Tailwind grants Strong Winds, allowing your Flying types to ignore their Ice weaknesses and granting another 1.5x boost! There are also a ton of boosted attacks and abilities on this field - a shoutout to Aurorus, who gets 1.5x for Refrigerate, AND 1.5x for Hyper Voice being boosted, AND 1.5x for Ice type moves being boosted on this field! You can also turn it to mountain with a burning move to cancel out the Ice type bonus on Rock type moves, too!
 
 Once you win, Blake will fail. Wah.
 
@@ -6787,11 +6772,11 @@ Time to take on M3G4 T3RR4. As you've probably come to learn by now, the Glitch 
 1. Type Matchups: all moves of the original physical types will be physical and all moves of the original special types will be special; additionally, Dark, Steel, and Fairy moves will all be retyped as Normal, Dragon always hits neutrally, Bug and Poison hit each other super-effectively, Ice hits Fire neutrally, and Psychic is immune to Ghost. Therefore, Pokemon like Weavile will find themselves significantly snubbed without attack-based STAB's. In some cases this can be good for you though, such as how physical Fighting types now have a stronger option in physical Focus Blast. 
 2. Special attack damage: special attacks will be based on the higher stat of your SpA and SpD... an utter game changer, as now Special walls such as Shuckle and Toxapex are able to hit hard for once. It also means that raising Special Defense will increase both offensive and defensive capabilities - so moves like Cosmic Power and Stockpile basically lend themselves to creating a 1 Pokemon army. 
 3. Speedy crits: the faster Pokemon on the field always gets a bonus to critical hit chance, so with a Razor Claw held you're getting crits for free 50% of the time, and nearly always with moves like Night Slash! Helpful for ignoring those aforementioned defense boosts. 
-4. The Synthetic Seed turns a Pokemon into ???-type *with no weaknesses* and raises Defense. There are a few more things you can read about in the field notes but these are the main ones.
+4. The Synthetic Seed turns a Pokemon into ??? type *with no weaknesses* and raises Defense. There are a few more things you can read about in the field notes but these are the main ones.
 
 So, onto how Terra uses this field. You'll get a good example of principle 2 right away in her Nidoking, who will get bulkier and stronger by using Amnesia and then can hit hard with extra-accurate Blizzard, T-Bolt and Flamethrower to round out its special coverage. Hippowdon is bulky and likes to put you to sleep and hit with the ol' reliable Rock / Ground offensive combo, but more importantly, it sets up weather for its buddy Sand Rush Excadrill (who gets increased crit thanks to being fast!) to set up or just plain sweep you with it's insanely high attack stat. If that wasn't enough she has a mixed Garchomp who gets to ignore the SpA drops of Draco Meteor by calculating based on its SpD stat but can also hit with physical Bulldoze and Stone Edge. Rounding out her team is Palossand and Quagsire, each with the Synthetic Seed, neutralizing their weaknesses entirely and allowing each to set up with Amnesia and Recovery moves. Quagsire even has Unaware to ruin whatever similar SpD stacking strategy you have going! All in all a tough team that may really mess you up if you aren't using the field to maximum effect for your team.
 
-The first thing I recommend for this fight is literally to find a list such as [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) and use it to find some Pokemon with really high SpD, since they are generally the best for this field. Especially if they have moves like Amnesia, Stockpile, or Cosmic Power, then you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed. As I mentioned earlier, you can also try to stack your own crit monster, which should allow you a much easier time with the bulkier members of her team. One other thing to consider we saw earlier in the Mewtwo fight - Psychic moves get buffed, so you can find a Pokemon with suitable SpA or SpD and wear her down with those. 90% accurate Blizzard can be useful against Garchomp, Nidoking, and Hippowdon as well. Explosion halves defense as well, useful as a last-minute nuke against the ???-type tanks. You can also consider using Roar or Whirlwind on the pair, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them. 
+The first thing I recommend for this fight is literally to find a list such as [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) and use it to find some Pokemon with really high SpD, since they are generally the best for this field. Especially if they have moves like Amnesia, Stockpile, or Cosmic Power, then you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed. As I mentioned earlier, you can also try to stack your own crit monster, which should allow you a much easier time with the bulkier members of her team. One other thing to consider we saw earlier in the Mewtwo fight - Psychic moves get buffed, so you can find a Pokemon with suitable SpA or SpD and wear her down with those. 90% accurate Blizzard can be useful against Garchomp, Nidoking, and Hippowdon as well. Explosion halves defense as well, useful as a last-minute nuke against the ??? type tanks. You can also consider using Roar or Whirlwind on the pair, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them. 
 
 > Oh, and if you are able to make the Sandstorm and Stealth Rocks go away and kill Hippowdon, Shedinja with a seed is literally invincible.
 
@@ -6942,7 +6927,7 @@ Go down from here and follow the path through some rooms to the right, opening s
     - Infestation
     - Discharge
 
-PULSE Swalot is slow but extremely bulky, and also has not 1, not 2, but 3 separate ways to heal - Recover, Black Sludge, and healing via its ability on the field. It also is Poison-type, so you can't use Toxic and wait like you could with Avalugg. It also hits respectably hard, and thanks to Discharge paralysis and Infestation flat damage, so you're likly going to have a hard time trying to get your own tank set up against it. I recommend trying to neutralize its healing - Knock Off or Trick with a Sticky Barb, Gastro Acid or Entrainment, Heal Block or Taunt are all options that can successfully prevent it from getting HP back. Then, you can exploit the fact that Electric moves are boosted on this field to finally knock it out! 
+PULSE Swalot is slow but extremely bulky, and also has not 1, not 2, but 3 separate ways to heal - Recover, Black Sludge, and healing via its ability on the field. It also is Poison type, so you can't use Toxic and wait like you could with Avalugg. It also hits respectably hard, and thanks to Discharge paralysis and Infestation flat damage, so you're likly going to have a hard time trying to get your own tank set up against it. I recommend trying to neutralize its healing - Knock Off or Trick with a Sticky Barb, Gastro Acid or Entrainment, Heal Block or Taunt are all options that can successfully prevent it from getting HP back. Then, you can exploit the fact that Electric moves are boosted on this field to finally knock it out! 
 
 Once you win, the Water Treatment Center will get fixed, but we'll need to make the water level in each room rise to make it clean again. To start, raise the water level nearby! Note that the normal water can be surfed on! Head east into the Central Obsidia Grid and fix the water level in here. Note you can surf to the right now to get *TM67 Smart Strike*.
 
@@ -6996,7 +6981,7 @@ If you're on the Reshiram route, skip ahead to the next section.
     - Hyper Voice
     - Roost
 
-Time for another fight with Taka, but this one isn't really too hard hopefully. If you have something to deal with his lead, an Ice-type can basically steamroll his team.
+Time for another fight with Taka, but this one isn't really too hard hopefully. If you have something to deal with his lead, an Ice type can basically steamroll his team.
 
 ### Ace Fight
 
@@ -7034,7 +7019,7 @@ Regardless of your route you'll have to fight Ace.
     - Zen Headbutt
     - Bullet Punch
 
-Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to round out the well rounded squad. Flying and Ground-types working together in combination hit 5/6 mons super-effectively, so if you can manage speed and use these moves you will likely find a way to succeed.
+Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to round out the well rounded squad. Flying and Ground types working together in combination hit 5/6 mons super-effectively, so if you can manage speed and use these moves you will likely find a way to succeed.
 
 After this fight, return to the front of the Water Treatment Center and climb the waterfall. 
 
@@ -7260,7 +7245,7 @@ Talk to Samson. You'll be given the *Battle Pass - Suspension*. Sweet. Save, the
 
 Ciel is the first fight for a badge that repeats the field used by another, but it is still very different. Many of the strategies I recommended using to beat Samson are employed by Ciel against you in this fight - the emphasis is no longer on High Striker moves - Altaria, Minior, and Gliscor have Earthquake, and that's it. Instead, she relies on super-boosted Acrobatics, Revelation Dance, and sound-based moves that dazzle the crowd and gain power. Oh, and she has the first enemy Mega Pokemon we have to face in Mega Altaria. 
 
-Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, additionally, Electric-type Revelation Dance can rip through all but Gliscor and Altaria pretty easily, so you can just use her strategies right back at her. Even if you don't care a ton about the field, you can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
+Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, additionally, Electric type Revelation Dance can rip through all but Gliscor and Altaria pretty easily, so you can just use her strategies right back at her. Even if you don't care a ton about the field, you can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
 
 **Relationship Point Choices:**
 - Defeat Ciel on your first try (+2 Samson)
@@ -8677,7 +8662,7 @@ Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the
 
 We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*. 
 
-Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground-type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles.
+Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles.
 
 That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. Scale the building until you find yourself in a strange new place.
 
@@ -8765,7 +8750,7 @@ Either way you have to fight.
     - Dragon Pulse
     - Agility
 
-Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric-type Pokemon, plus he might change the field to Electric Terrain. Most of his Pokemon are fast and use Special Moves - Luxray being a counterexample to the latter and Ampharos being a counterexample to the former. I'm sure you can find a way to emerge victorious.
+Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, plus he might change the field to Electric Terrain. Most of his Pokemon are fast and use Special Moves - Luxray being a counterexample to the latter and Ampharos being a counterexample to the former. I'm sure you can find a way to emerge victorious.
 
 Note that we'll have a Light Shard later on in this room; since it can't fully knock you out, might as well ignore the tiles until then.
 
@@ -8819,7 +8804,7 @@ Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend 
     - Autotomize
     - Hidden Power
 
-Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic-type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is of course Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Of course, its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
+Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is of course Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Of course, its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
 
 To win this one, I recommend figuring out how to position yourself around Magnezone then working backwards from there. For example, if you want to take it out with Special Fire-moves, figure out how to get the sun out beforehand. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it With only 70 base sweet and no EV's in this area, you'll find yourself likely able to outspeed, so placing one or two strong hits will really be the key. With a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest, you should be able to find a way through this one.
 
@@ -9002,7 +8987,7 @@ With that out of the way, it's time for our 14th gym battle.
     - Wish
     - Nature Power
 
-Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokemon by 1.5x. Combine this with two Pokemon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy-type and Steel-type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
+Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokemon by 1.5x. Combine this with two Pokemon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy type and Steel type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
 
 Although this team on these fields is particularly stacked, you do have some options. For one, you can usually get a free boost on the first turn with Wide Guard thanks to Rock Slide/Earthquake and Dazzling Gleam being oft used moves. Consider changing the field at first to Corrosive Mist Field if you can - it will cripple their team, but you do have to use Clear Smog, Poison Gas, or Smog twice to make that work. What tends to work better though is leaning fully into the Fairy Tale Arena - you can blow the mist away yourself, then utilize boosted Steel moves to tear their team apart. Mawile is still a difficult threat to deal with, so if you can get around Mawile with some Steel attackers in the back, that may be a winning strategy.
 
@@ -9155,7 +9140,7 @@ Once you succeed, your next destination will be the Water Treatment Center.
     - Toxic
     - Destiny Bond
 
-These things are tough but a powerful Ground-type sweeper can probably do the trick. Once you win, Sandy will leave.
+These things are tough but a powerful Ground type sweeper can probably do the trick. Once you win, Sandy will leave.
 
 **Relationship Point Choices:**
 - Help Sandy in the WTC (-1 Adrienn)
@@ -10322,9 +10307,9 @@ Amaria will ask you if you want to battle in Singles or Doubles - but she'll act
     - Dive
     - Ice Shard
 
-Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric-types and maybe Grass-types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
-You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 **Jetsam Amaria (3x Ultra Potion). Field: Water Surface**
 - Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
@@ -10358,9 +10343,9 @@ You can consider trying to change up the field - Murkwater Surface can wear down
     - Perish Song
     - Surf
 
-Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water-types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric-types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise can mega-evolve, making its Aura Sphere a bit stronger and raising its stats somewhat. 
+Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise can mega-evolve, making its Aura Sphere a bit stronger and raising its stats somewhat. 
 
-As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 
 Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
@@ -10419,9 +10404,9 @@ Amaria will ask you if you want to battle in Singles or Doubles.
     - Dive
     - Ice Shard
 
-Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric-types and maybe Grass-types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon-type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
-You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 **Flotsam Amaria (2x Ultra Potion). Field: Water Surface**
 - Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
@@ -10455,9 +10440,9 @@ You can consider trying to change up the field - Murkwater Surface can wear down
     - Perish Song
     - Surf
 
-Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water-types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric-types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise has a Fighting-type Z-move, as well.
+Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise has a Fighting type Z-move, as well.
 
-As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water-type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 
 Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
@@ -10739,7 +10724,7 @@ Make your way back to the previous map and go up the slope towards the top. On t
 |Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
 |                  |   |Absol             |1  |Absol             |1  |
 
-Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to need to transform the field. Battles are fought on the Mountain Field - to transform it into Snowy Mountain, you'll need to use Blizzard, Subzero Slammer via the Ice-type Z crystal we got previously, or by letting Hail be on the field for 3 turns. Piloswine will be able to use Blizzard, so you can try to encounter one if you don't have these moves.
+Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to need to transform the field. Battles are fought on the Mountain Field - to transform it into Snowy Mountain, you'll need to use Blizzard, Subzero Slammer via the Ice type Z crystal we got previously, or by letting Hail be on the field for 3 turns. Piloswine will be able to use Blizzard, so you can try to encounter one if you don't have these moves.
 
 Once you do, snow will gather on the map.
 
@@ -10899,7 +10884,7 @@ Once you win, a **Gastly** will pop out of the robot. It will run around the rob
 
 Return to the area with the lake. This time, take the rock climbing path in the top right corner. Grab the hidden *Purple Shard* here.
 
-As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire-type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire-type Z-move. Once the field is changed, you'll be sent to a new map. Use the hopping stones to enter the cave.
+As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire type Z-move. Once the field is changed, you'll be sent to a new map. Use the hopping stones to enter the cave.
 
 **Charous Mountain B2F**
 
@@ -11268,7 +11253,7 @@ After seeing Luna and Taka on the left side, a voice will talk to you. Prepare y
     - Dark Pulse
     - Calm Mind
 
-The only way it's healing itself is with Dream Eater, so a Dark-type can slowly whittle it down. With a 4X weakness to bug and a weakness to field-boosted Fairy moves, there's a good chance you'll have something to deal with it. You can also stall with Toxic! Chesto Berries, Safeguard, Sleep Talk, etc. can all help you deal with its 100% accurate Hypnosis as well. Honestly if you can make it through the gauntlet with your team I'm sure you can find a way to beat one PULSE.
+The only way it's healing itself is with Dream Eater, so a Dark type can slowly whittle it down. With a 4X weakness to bug and a weakness to field-boosted Fairy moves, there's a good chance you'll have something to deal with it. You can also stall with Toxic! Chesto Berries, Safeguard, Sleep Talk, etc. can all help you deal with its 100% accurate Hypnosis as well. Honestly if you can make it through the gauntlet with your team I'm sure you can find a way to beat one PULSE.
 
 Keep following the path, and you'll eventually exit the Void. After another massive conversation, accept the fast travel request to get the heck out of the Glass Workstation.
 
@@ -12294,7 +12279,7 @@ Head up the ladder prepared for a tough battle.
 
 No field to worry about this time, just a fantastically put together mono-dark team of five with a PULSE monstrosity hiding in the back. Defeating Luna in the Glass Gauntlet should be adequate preparation for Zero's Pokemon: by now the core of Honchkrow, Weavile, and Umbreon should be familiar. Abusing Sucker Punch timing or faster priority to prevent a Honchkrow sweep, surviving a Weavile Ice Shard to kill it with something faster, and using a bulky Steel type to counter Umbreon are good places to start with these. Spiritomb plays a similar role to Umbreon, being bulky and punishing your physical attackers, but isn't too intense and can't do much to your own physical walls. Houndoom has a sash and likes to set up but isn't too bulky, meaning you can dent it then knock it out with some priority if you are able. 
 
-PULSE Clawitzer, of course, makes this fight a bit harder - he'll always send it out last. Although you may have a Pokemon able to withstand one base 120 Special-based attack, one use of any of three of its attacks will double its special attack thanks to Contrary. Another boost will basically allow it to eradicate any Pokemon you have. With its 252 base speed, you will not be able to outspeed it under normal circumstances at all, so it basically steamrolls most teams pretty easily. Therefore, the key to defeating Clawitzer is by taking advantage of the turns you have beforehand fighting Zero's other Pokemon to proactively put yourself into a winning condition. The obvious one you may think of by now is Trick Room - even if you're trading blow for blow, two or three really strong Dragon or Fairy-type attacks will be able to knock it out, and you're basically guaranteed to go first in Trick Room, thanks to Clawitzer's insane speed stat. You can also take advantage of the first turn it is out, before it has any boosts, to suppress or change its ability: thereafter all of its moves except Origin Pulse will actually harm it, instead of helping it. Sturdy or Sash + Mirror Coat on a Pokemon with lots of HP may work too, just keep in mind it does have 252 base and max EV's in HP.
+PULSE Clawitzer, of course, makes this fight a bit harder - he'll always send it out last. Although you may have a Pokemon able to withstand one base 120 Special-based attack, one use of any of three of its attacks will double its special attack thanks to Contrary. Another boost will basically allow it to eradicate any Pokemon you have. With its 252 base speed, you will not be able to outspeed it under normal circumstances at all, so it basically steamrolls most teams pretty easily. Therefore, the key to defeating Clawitzer is by taking advantage of the turns you have beforehand fighting Zero's other Pokemon to proactively put yourself into a winning condition. The obvious one you may think of by now is Trick Room - even if you're trading blow for blow, two or three really strong Dragon or Fairy type attacks will be able to knock it out, and you're basically guaranteed to go first in Trick Room, thanks to Clawitzer's insane speed stat. You can also take advantage of the first turn it is out, before it has any boosts, to suppress or change its ability: thereafter all of its moves except Origin Pulse will actually harm it, instead of helping it. Sturdy or Sash + Mirror Coat on a Pokemon with lots of HP may work too, just keep in mind it does have 252 base and max EV's in HP.
 
 Once you defeat Zero, make your way back through the previous building. You'll notice some of the screens on the walls have changed, so keep in mind what they indicate. There are two secret numbers here: one is obvious, the other, not quite as much.
 
@@ -12389,7 +12374,7 @@ Head back down to the LCCC, this time, going right at the four-way junction. Gra
     - Earthquake
     - Ice Punch
 
-What a gut punch on a first playthrough - both in battle, and just in general! Ok, so the good news is: once the PULSE is dead, then you'll be able to 2v1 Sigmund's team. The bad news is, well, as you can see there are quite a lot of shenanigans going on here! The obvious one is that Mr. Mime has Wonder Guard and is Dark/Ghost type. Thankfully we're not in Gen 5 anymore and this means it's weak to Fairy-type moves, but just that one type - everything else will clink off of him like an Iron Sword on an Armor Knight. On top of this, it has very high defensive stats and a healing move, meaning even if you are using Fairy-moves they may not be able to easily do the job. What's more: it also has Entrainment, and will almost always use it on Sigmund's ally Pokemon when it gets a chance, meaning Aromatisse and potentially more Pokemon will also get immunity from most moves. Although Mime has no attack power of its own, it just uses Instruct, granting Sigmund's Pokemon two uses total of his various field-boosted Electric, Ghost, and Fairy moves, so you'll likely be worn down and unable to really do anything against either Pokemon on the first attempt! 
+What a gut punch on a first playthrough - both in battle, and just in general! Ok, so the good news is: once the PULSE is dead, then you'll be able to 2v1 Sigmund's team. The bad news is, well, as you can see there are quite a lot of shenanigans going on here! The obvious one is that Mr. Mime has Wonder Guard and is Dark/Ghost type. Thankfully we're not in Gen 5 anymore and this means it's weak to Fairy type moves, but just that one type - everything else will clink off of him like an Iron Sword on an Armor Knight. On top of this, it has very high defensive stats and a healing move, meaning even if you are using Fairy-moves they may not be able to easily do the job. What's more: it also has Entrainment, and will almost always use it on Sigmund's ally Pokemon when it gets a chance, meaning Aromatisse and potentially more Pokemon will also get immunity from most moves. Although Mime has no attack power of its own, it just uses Instruct, granting Sigmund's Pokemon two uses total of his various field-boosted Electric, Ghost, and Fairy moves, so you'll likely be worn down and unable to really do anything against either Pokemon on the first attempt! 
 
 In my opinion, your first priority should be taking out the PULSE at all costs. Aromatisse does hit fairly hard, but a couple Pokemon with some special bulk should be able to stick around for a few turns to help you accomplish a win condition. The next issue is actually killing Mime. You can opt for some kind of set-up move or Fake Tears / Screech + Moonblast / Play Rough or similar strategies potentially, and may be able to outpace its healing capacities and bring it down. With the Fairy Gems we picked up and more notably the Fairy Z-Crystal, you can boost these attacks to get extra damage out of them that may do the trick. It is also susceptible to status and weather, so I recommend using Toxic on Mime during the first turn, and Aromatisse the second. Keep a sizable chunk of your team alive from here, and you'll eventually watch both of your opponents perish, then you can focus on taking out the rest of Sigmund's team. Mega Alakazam is particularly threatening as are Raichu and Electivire if you're unprepared for them... but really with 2 Pokemon on your side, I'm sure you can figure something out.
 
@@ -12627,7 +12612,7 @@ Once you beat it, the path to Saphira will open. Time for our eighteenth and fin
 
 Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokemon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokemon, as well. Garchomp will outspeed your team thanks to its Sash, and not a single Pokemon is a slacker that will let you easily set up on it.
 
-Of course, since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon-types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
+Of course, since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
 Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100! 
 
@@ -14258,7 +14243,7 @@ Enter the next room and pick up the hidden *Full Heal*. Once you're ready for a 
     - Swords Dance
     - Leaf Blade
 
-One more round with our favorite Swag Jockey. His team is pimped out for maximal pain on the field, which... aside from an early game Aster & Eclipse fight and Ditto-Arceus, we haven't gotten to fight any significant trainers on. Three of his Pokemon have Rock Tomb, which gets a 2.25x power boost here and alternate hitting with Fire, Water, Grass, then Psychic sub-typing, cyclically. Any Pokemon's use of a Rock move, Multi-Attack, Strength, or Rock Climb will cause the sub-typing to move to the next, in fact. Dragon moves are also boosted here, so Haxorus (perhaps after a Dragon Dance), Krookodile (who will outspeed with its Scarf) and Serperior (perhaps after a Contrary Leaf Storm) will tear through you with theirs. Rhyperior's Rock Polish actually also boosts both attacking stats on this field, so if you can't take it out in the first turn, it might sweep you. It's also worth noting that Krookodile's Earthquake will turn the field to a Cave, where this move can now hit Flying-type Pokemon you were hoping to switch in on it. Oh, and he has a Bullet Punch machine in Mega Scizor and a Z-Move 'roided Decidueye with priority.
+One more round with our favorite Swag Jockey. His team is pimped out for maximal pain on the field, which... aside from an early game Aster & Eclipse fight and Ditto-Arceus, we haven't gotten to fight any significant trainers on. Three of his Pokemon have Rock Tomb, which gets a 2.25x power boost here and alternate hitting with Fire, Water, Grass, then Psychic sub-typing, cyclically. Any Pokemon's use of a Rock move, Multi-Attack, Strength, or Rock Climb will cause the sub-typing to move to the next, in fact. Dragon moves are also boosted here, so Haxorus (perhaps after a Dragon Dance), Krookodile (who will outspeed with its Scarf) and Serperior (perhaps after a Contrary Leaf Storm) will tear through you with theirs. Rhyperior's Rock Polish actually also boosts both attacking stats on this field, so if you can't take it out in the first turn, it might sweep you. It's also worth noting that Krookodile's Earthquake will turn the field to a Cave, where this move can now hit Flying type Pokemon you were hoping to switch in on it. Oh, and he has a Bullet Punch machine in Mega Scizor and a Z-Move 'roided Decidueye with priority.
 
 By now, I know you can win this one! Aside from a generally well-built team, Pokemon that make careful use of the moves I mentioned earlier to gain beneficial sub-typings and ruin Fern's sub-typings can be useful here. Dragon types can fairly easily sweep here if you can get some momentum and Stealth Rocks going, as well. Transform it into the Dark Crystal Cavern or Cave if you like those options better.
 
@@ -14351,9 +14336,9 @@ Enter the Charous Hall, to the right of the Pokemon Center. Reminisce on the eig
 
 Do you remember when we fought Corey, obtained the Silver Ring, and later found five of his six Pokemon? Now we know where his Crobat went. Fittingly, Heather uses Flying and Poison type Pokemon.
 
-On this field, Tailwind lasts for five turns and sets up Strong Winds. Crobat's speed and its Sash means you're not going to be able to easily steamroll with Ice, Electric, and Rock-type moves once it gets off Tailwind. Archeops, another fast Pokemon, also has this move for support. Flying moves and Rock moves are all boosted here, meaning Crobat, Archeops, Gyarados with its Z-Crystal, and Salamence will all hit like trucks. Additionally, her Gengar's Icy Wind and Ominous Wind are boosted by 1.5x on this field, then again by 1.5x whenever Strong Winds are present. Oh, and Thunder never misses. A very tough optimized fight, but nothing too unexpected for Reborn's Elite Four.
+On this field, Tailwind lasts for five turns and sets up Strong Winds. Crobat's speed and its Sash means you're not going to be able to easily steamroll with Ice, Electric, and Rock type moves once it gets off Tailwind. Archeops, another fast Pokemon, also has this move for support. Flying moves and Rock moves are all boosted here, meaning Crobat, Archeops, Gyarados with its Z-Crystal, and Salamence will all hit like trucks. Additionally, her Gengar's Icy Wind and Ominous Wind are boosted by 1.5x on this field, then again by 1.5x whenever Strong Winds are present. Oh, and Thunder never misses. A very tough optimized fight, but nothing too unexpected for Reborn's Elite Four.
 
-It's hard to recommend changing up your team specifically for this fight, because you have to bring the same team through the entire Elite Four. Still, if you are stuck on this fight, there are a lot of things you can use. For example, while Strong Winds do neutralize Flying-type weaknesses, you can use the Thunder, Icy Wind, Hyper Voice, and Rock move boosts yourself to narrow the gap. Especially once Crobat and Archeops are down, that may be the way to victory. Trick Room will also help you turn Tailwind on its head if need be, where a Pokemon like Decidueye with a 1.5x attack boost from Long Reach may be able to sweep. You can also use your own Flying types to deal massive damage: Talonflame's Gale Wings is always on while Strong Winds are on, for example. Alternatively, you could consider switching the field to Snowy Mountain via the Blizzard TM if you want to use Ice moves more effectively.
+It's hard to recommend changing up your team specifically for this fight, because you have to bring the same team through the entire Elite Four. Still, if you are stuck on this fight, there are a lot of things you can use. For example, while Strong Winds do neutralize Flying type weaknesses, you can use the Thunder, Icy Wind, Hyper Voice, and Rock move boosts yourself to narrow the gap. Especially once Crobat and Archeops are down, that may be the way to victory. Trick Room will also help you turn Tailwind on its head if need be, where a Pokemon like Decidueye with a 1.5x attack boost from Long Reach may be able to sweep. You can also use your own Flying types to deal massive damage: Talonflame's Gale Wings is always on while Strong Winds are on, for example. Alternatively, you could consider switching the field to Snowy Mountain via the Blizzard TM if you want to use Ice moves more effectively.
 
 Once you win, you'll get the *Ruby Ring*. Proceed to the next room.
 
@@ -14391,7 +14376,7 @@ Once you win, you'll get the *Ruby Ring*. Proceed to the next room.
 
 Good news: it's not a 12v6. Bad news: Bennett and Laura use Bug and Grass types on the most broken field effect in the game that we haven't yet seen even once: Flower Garden, with natural Rain to boot. Flower Garden has 5 stages, each stage essentially being more beneficial for their team than the last. It starts at Stage 1, but the Synthetic Seeds on the leads will automatically bump it up to Stage 3. With three more seeds in the back, Venusaur's Bloom Doom, Lilligant's Growth, and three users of Nature Power which becomes Growth, the field will stage up for each. Swarm will always be on, boosting Volcarona and Galvantula's Bug Buzz, and gets an additional boost on Stages 3 and 5. If used at Stage 1 or 3, Growth will get powered up, so watch out for that. Grass moves get increasingly powerful as the stage increases, and Bug moves have boosts specifically on Stages 2 and 4. The five Synthetic Seeds also boost Special Defense and grant Ingrain, which is four times as powerful on Stage 4 specifically. Oh, and in Stages 4 and 5, Chlorophyll will always be on, meaning half of their Pokemon will consistently outspeed and destroy your team with their field-boosted moves. Lots to try to remember even though you can't access the field notes during the fight.
 
-One thing to consider is just using the field yourself. If you can spare a party slot or two, you can bring a few Pokemon optimized for Stage 5 Flower Field and go off. Bennett and Laura only take advantage of maybe half of the boosts this field provides, so you can try to just overwhelm them yourself if you want. For example, Sweet Scent at Stage 5 lowers Eva, Def, and SpD by 3 stages each, so using this move with something fast can set up your other Pokemon for easy knockouts. Flower Shield and Flower Veil grant massive defense boosts to your Pokemon and Grass type allies, meaning you can just out-tank your Grass-type opponents by targeting the Bug-types first. Infestation does a massive 1/3 HP each turn, so if you can get this move out and wait out a few turns, you can easily clean up that way. Nature Power is Growth up until Stage 5, when it becomes Petal Blizzard, meaning this move will allow your Pokemon to set up and sweep all in one! You can also use your own offensive Bug moves - fighting Swarm users with Swarm users may be smart, or you can carefully keep the field at Stage 4 in order to benefit from those boosts.
+One thing to consider is just using the field yourself. If you can spare a party slot or two, you can bring a few Pokemon optimized for Stage 5 Flower Field and go off. Bennett and Laura only take advantage of maybe half of the boosts this field provides, so you can try to just overwhelm them yourself if you want. For example, Sweet Scent at Stage 5 lowers Eva, Def, and SpD by 3 stages each, so using this move with something fast can set up your other Pokemon for easy knockouts. Flower Shield and Flower Veil grant massive defense boosts to your Pokemon and Grass type allies, meaning you can just out-tank your Grass type opponents by targeting the Bug types first. Infestation does a massive 1/3 HP each turn, so if you can get this move out and wait out a few turns, you can easily clean up that way. Nature Power is Growth up until Stage 5, when it becomes Petal Blizzard, meaning this move will allow your Pokemon to set up and sweep all in one! You can also use your own offensive Bug moves - fighting Swarm users with Swarm users may be smart, or you can carefully keep the field at Stage 4 in order to benefit from those boosts.
 
 Or, you can try to fight the Flower Field directly. Cut gets a 1.5x boost and deals an additional 2x damage to Grass types, meaning it can effectively hit with 150 Power against the Grass types. Cut and X-Scissor cut down the stage by one, meaning once all the seeds are exhausted, you may be able to keep the Stage relatively low. Using the Poisonium-Z to fire off a Acid Downpour will instantly take the field back to Stage 1. With good timing this will allow you to halt their momentum and hopefully get some of your own going. 
 
@@ -14433,7 +14418,7 @@ You'll get the *Sapphire Bracelets* for winning. Proceed to the next room, and r
 
 We finally get to fight Arceus' favorite holy man. He uses Normal and Dragon types on the Holy Field. Notably, Normal moves become super effective against Ghost and Dark types, and special Normal moves like Noivern's Boomburst get a power boost. Dragon and Psychic moves also get boosts, making Noivern, Kommo-o, Dragonite, and Drampa even more powerful. On the Physical side, Dragonite's Extremespeed and Mega Kangaskhan's Return also get boosted on this field. With Mega Kangaskhan's double Power-Up-Punch, Noivern's SpA boosting seed, and Kommo-o's omniboosting Z-Move, there are a lot of threats that can set up on you, making the aforementioned moves even more powerful. Oh, and he has a Choice Scarf Imposter Ditto that loves to swap in as soon as any of your sweepers set up to outspeed and kill.
 
-There are no built in field switches for this one, but it does leave you a few great options. Notably, special Fairy-type moves and your own Dragon-type moves are boosted here, so if you're able to get them off, you can potentially dispatch Noivern, Drampa, Kommo-O, and Dragonite after hazards. You can also abuse Nature Power Judgement, Return, and Extremespeed for massive power boosts. Rock and Steel types can switch in on Dragonite doing a power trip with Extremespeed, giving them a chance to turn momentum in your favor. Just have a plan for Ditto! 
+There are no built in field switches for this one, but it does leave you a few great options. Notably, special Fairy type moves and your own Dragon type moves are boosted here, so if you're able to get them off, you can potentially dispatch Noivern, Drampa, Kommo-O, and Dragonite after hazards. You can also abuse Nature Power Judgement, Return, and Extremespeed for massive power boosts. Rock and Steel types can switch in on Dragonite doing a power trip with Extremespeed, giving them a chance to turn momentum in your favor. Just have a plan for Ditto! 
 
 Take the *Emerald Brooch* and proceed to the next room.
 
@@ -14580,7 +14565,7 @@ If you thought Lin's earlier fight was a bit too easy... well... there's this...
 
 Let me first pause to make fun of some of you. Did you create your team largely around utilizing a specific weather condition? Or, are you even more crafty and use Pledge moves to create your own field, or perhaps the Lycanium-Z to destroy fields you don't like? Do you like the move Earthquake? Well, surprise, none of those things work here. Weather effects and generated fields simply do not work, so you'll always be fighting on New World without weather. And to lose against this fight means you'll have to go all the way back through the previous five. Your team is complete trash without your weather or field? Sucks for you! Remake it and battle your way all the way back. By the way, when I said "some of you", I meant me in the past, marching on in with a Rain Mono-Water team. Pelipper literally died in one shot to every single one of Lin's Pokemon no matter what I did. Sad. But I did eventually win!
 
-So, onto the fight itself. Power Gem, Earth Power, Draco Meteor, Dazzling Gleam, Flash Cannon, and Dark-type moves are all boosted here. All of her Pokemon have at least one of these. The New World Field also has this thing where grounded Pokemon have three-quarters speed and levitating Pokemon have slightly lowered Defenses. Lin having 4/5 non-grounded Pokemon essentially means unless you have a lot of them too, you're going to basically be losing speed battles you'd otherwise win. The defense drop is cancelled out on her Pokemon by virtue of the PULSE2 adding defenses to the sweepers anyways. 
+So, onto the fight itself. Power Gem, Earth Power, Draco Meteor, Dazzling Gleam, Flash Cannon, and Dark type moves are all boosted here. All of her Pokemon have at least one of these. The New World Field also has this thing where grounded Pokemon have three-quarters speed and levitating Pokemon have slightly lowered Defenses. Lin having 4/5 non-grounded Pokemon essentially means unless you have a lot of them too, you're going to basically be losing speed battles you'd otherwise win. The defense drop is cancelled out on her Pokemon by virtue of the PULSE2 adding defenses to the sweepers anyways. 
 
 As for the team itself, it's real good. Mismagius is a cruel lead, taking advantage of the field boosts and speed nerf to hit fast and hard. Honchkrow is there to ruin your sweeper's day, getting off Sucker Punch to probably knock you out and snowball into a sweep. Clefable does usual Clefable things: saying NOPE to your boosts, getting double Cosmic Power boosts, and laughing in your crying face. Flygon (on Anna Route) and Hydreigon like to mercilessly overwhelm your Pokemon with their wide coverage. And, of course, she also has our first enemy Ultra Beast... ugh. This thing is super tanky, has a STAB boosted move in Flash Cannon and good coverage in Flamethrower and Giga Drain, and also carries Leech Seed just in case you thought you were smart about using a tanky Pokemon of some kind. And the most cursed ability ever: Beast Boost, which will raise its SpA in this case.
 
@@ -14921,7 +14906,7 @@ Head left and up for another Anomaly battle.
     - Calm Mind
     - Hidden Power
 
-Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokemon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water-type's weaknesses, as long as you have a strategy for Ludicolo and Goodra. 
+Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokemon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water type's weaknesses, as long as you have a strategy for Ludicolo and Goodra. 
 
 Once you win, you'll be able to battle and catch **Suicune**.
 
@@ -15047,7 +15032,7 @@ Talk to her... and we'll have to play Simon Says. Follow the instructions that S
     - Toxic
     - Rest
 
-This team generally relies upon Stakataka's Trick Room, which can easily be shut down by OHKO'ing it. The move Earth Power can easily do the trick. Regirock and Regice eat up Physical and Special moves, holding a Band and Specs, respectively. Registeel gets an Omniboost and will try to stall you out with Toxic and Seismic Toss. The Tyranitar is a special set, benefitting from the field effect with most of its moves, and Mega Mawile rounds out the team with very strong Sucker Punch, potentially boosted by Power-Up-Punch. If you can take out the Trick Room, set up a Sweeper (ideally with a Fighting-type move), and have a plan to deal with Sucker Punch, you're golden.
+This team generally relies upon Stakataka's Trick Room, which can easily be shut down by OHKO'ing it. The move Earth Power can easily do the trick. Regirock and Regice eat up Physical and Special moves, holding a Band and Specs, respectively. Registeel gets an Omniboost and will try to stall you out with Toxic and Seismic Toss. The Tyranitar is a special set, benefitting from the field effect with most of its moves, and Mega Mawile rounds out the team with very strong Sucker Punch, potentially boosted by Power-Up-Punch. If you can take out the Trick Room, set up a Sweeper (ideally with a Fighting type move), and have a plan to deal with Sucker Punch, you're golden.
 
 With that out of the way, we'll be free to explore from here in three directions. I start by going left. Talk to the braille tablet here, then to Danielle when you're ready. Time for more Simon Says. Note that you will have to move yourself to move the boulders as instructed - this is ok and won't ruin your attempt. Enter the opened door, where you can find and catch **Regirock**.
 
@@ -15476,7 +15461,7 @@ Head up when you're ready.
     - Nature Power
     - Secret Power
 
-This one isn't too bad really, again it's a Trick Room Team that relies entirely upon it's lead, meaning if you can prevent Trick Room, cancel it out, or stall it out, you'll be just fine. Everything is weak to Fighting-type moves, too!
+This one isn't too bad really, again it's a Trick Room Team that relies entirely upon it's lead, meaning if you can prevent Trick Room, cancel it out, or stall it out, you'll be just fine. Everything is weak to Fighting type moves, too!
 
 Afterwards, you'll be challenged to a battle, where you can catch **Regigigas**. Head out once you're done...
 
@@ -16371,7 +16356,7 @@ Ame made Bibarel competent! Nothing too crazy here though, basically a Doubles v
     - Energy Ball
     - Sleep Powder
 
-A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokemon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug-type move like TM X-Scissor are pretty much all you'll need!
+A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokemon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug type move like TM X-Scissor are pretty much all you'll need!
 
 Talk to Celebi to jump into the future.
 
@@ -18553,7 +18538,7 @@ Return to the center and remove the Burn Drive. Go down, follow the path right a
     - Blizzard
     - Giga Drain
 
-Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokemon are generally fast and frail and will die to the Water-type moves, so look out for that.
+Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokemon are generally fast and frail and will die to the Water type moves, so look out for that.
 
 Once you win, you'll get the *Douse Drive*. Head back to the top area and talk to Hardy if you'd like.
 
@@ -19114,7 +19099,7 @@ Back in the center, you'll find Anna, who can heal your team. Anyways, proceed t
 
 The PULSE we never actually got to fight is here at last... and it's about as annoying as you'd expect. Basically, it has Shedinja's 1 HP gimmick on top of Sturdy, meaning it just shrugs off every attack! On top of its Lum Berry and the rest of the team having Safeguard and Rage Powder, the team makes every attempt to prevent you from simply poisoning it. The New World field prevents weather chip damage as well. With field-boosted Earth Power and always max power Eruption, it hits hard too, so trying to stall out its PP may result in your team dead. The rest of the team is a solid Double's support team. 
 
-How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokemon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokemon with Mold Breaker, Gastro Acid, Worry Seed, etc., since Camerupt can then be literally knocked out with Lick or any other non Normal/Fighting-type attacking move once it loses its ability. Then the rest of the fight is fairly simple.
+How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokemon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokemon with Mold Breaker, Gastro Acid, Worry Seed, etc., since Camerupt can then be literally knocked out with Lick or any other non Normal/Fighting type attacking move once it loses its ability. Then the rest of the fight is fairly simple.
 
 Get the second *Nanab Berry* for winning.
 
@@ -19149,7 +19134,7 @@ Back in the center, head up. On a small path to the right is a hidden *Swift Win
 
 We already fought the "absurdly strong PULSEs who are good on Glitch Field" so now it's time for the "absurdly tanky PULSEs who are good on the Swamp Field". As you can probably tell, these PULSEs are dedicated to bulk, healing, and gradually wearing you down. They also use Trick Room to take advantage of their generally low speed. On top of this, their Poison and Mud-based Water and Ground moves are all powered up here.
 
-As in the other fight, you can use the various generated fields we've collected by now if you want to take some of the wind out of their strategy. You can also stick it out on the Swamp Field if you want. One thing to try would be to set up your own tanks - Steel and Poison types can use the Telluric Seed to great effect here, for example. Sludge Wave and Gunk Shot get a 2.25x boost on this field, so you can try to set up and use that move to overwhelm your opponents - only Swalot resists Poison. Sleep Powder has perfect accuracy on this field - so I recommend using this move liberally to prevent Trick Room, allow your partner to set up, etc. You can also use Toxic on half of the team, or consider something like the Ghost-type version of Curse to rapidly drain HP.
+As in the other fight, you can use the various generated fields we've collected by now if you want to take some of the wind out of their strategy. You can also stick it out on the Swamp Field if you want. One thing to try would be to set up your own tanks - Steel and Poison types can use the Telluric Seed to great effect here, for example. Sludge Wave and Gunk Shot get a 2.25x boost on this field, so you can try to set up and use that move to overwhelm your opponents - only Swalot resists Poison. Sleep Powder has perfect accuracy on this field - so I recommend using this move liberally to prevent Trick Room, allow your partner to set up, etc. You can also use Toxic on half of the team, or consider something like the Ghost type version of Curse to rapidly drain HP.
 
 Win to nab the third *Nanab Berry*, then return to the ??? guy. Up and to the right, you'll be able to follow a new path. Hug the bottom wall to reach:
 
@@ -19515,7 +19500,7 @@ You can kinda walk up past the New World Door, finding another New World Door at
 
 If the field is broken, you'll go to New World... where all the Magical Seeds and many of your opponents moves will be activated. The team is all Flying or Dragon type, so make sure you can exploit those two weaknesses with some sweepers to win.
 
-Afterwards, you'll be able to catch **Ho-oh**! Accept the fast travel request to the entrance to the Mirage Tower. Next, break all of the mirrors on this floor to open a bath to Mirage Tower B1F.
+Afterwards, you'll be able to catch **Ho-oh**, who is holding a *Sacred Ash*! Accept the fast travel request to the entrance to the Mirage Tower. Next, break all of the mirrors on this floor to open a bath to Mirage Tower B1F.
 
 You'll find a New World Door to the left, so head on in. Talk to Saphira, then head down the ladder. At the end of the path is a mirror. Smashing it will take you to a different dimension of sorts. Push the stone up, then un-smash the mirror - the ladder has moved! Take it to proceed.
 
@@ -20066,7 +20051,7 @@ Fly over to Byxbysion and make your way into the tunnels. In the room with the b
     - Venoshock
     - Nasty Plot
 
-This is pretty brutal for a singles fight. For one, the team is entirely resistant to basically any way that you would want to try to use the field for your own gain due to Steel and Poison typings. With the field preventing hazard set up and an extremely strong Mega Lucario Bullet Punch to prevent any clever Trick Room sweeping, many of the usually good strategies are busted here. Earth Power, Drill Run, and High Horsepower are all Ground-type options that aren't weakened by this field if you want to try them.
+This is pretty brutal for a singles fight. For one, the team is entirely resistant to basically any way that you would want to try to use the field for your own gain due to Steel and Poison typings. With the field preventing hazard set up and an extremely strong Mega Lucario Bullet Punch to prevent any clever Trick Room sweeping, many of the usually good strategies are busted here. Earth Power, Drill Run, and High Horsepower are all Ground type options that aren't weakened by this field if you want to try them.
 
 Once you win, enter the New World Door to reach Distorted Space. 
 
@@ -20136,7 +20121,7 @@ Figuring out what is going on might be harder than doing the puzzle itself, whic
     - Hex
     - Will-O-Wisp
 
-Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice-types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own. I also had a great time destroying the field with the Lycanium-Z and steamrolling, if that's your thing.
+Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own. I also had a great time destroying the field with the Lycanium-Z and steamrolling, if that's your thing.
 
 Catch **Giratina** once you win.
 
@@ -20247,7 +20232,7 @@ You'll get confirmation from Serra once you're successful. Activate Blue again t
     - Moongeist Beam
     - Earth Power
 
-All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. Of course, all of them share the Psychic-type, so you can try to sweep with Ghost and Dark moves or something.
+All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. Of course, all of them share the Psychic type, so you can try to sweep with Ghost and Dark moves or something.
 
 Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
 
@@ -20294,6 +20279,227 @@ Once you win, Rayquaza will run off... and roam the Reborn region! It functions 
 Anyways, succeed and catch **Rayquaza**, then return to the Nightclub.
 
 ## Umbral Battles in Aegir Cave (Part 2)
+
+Now that we have Rayquaza, we can go help out the OTS squad over in the Aegir Cave. Make your way there. Add Rayquaza to your party, then talk to Florinia. She'll then let you access the PC one more time before the gauntlet of sheer pain that follows. 
+
+**Umbral Amaria & Umbral Titania. Field: Cave Field**
+- Jolteon, Lv. 137, @Life Orb, Ability: Quick Feet, Mild Nature, EVs: 0/0/4/252/0/252
+    - Discharge
+    - Synchronoise
+    - Roar
+    - Hyper Beam
+- Primarina, Lv. 138, @Life Orb, Ability: Torrent, Mild Nature, EVs: 0/0/4/252/0/252
+    - Sparkling Aria
+    - Perish Song
+    - Blizzard
+    - Dazzling Gleam
+- Meganium, Lv. 139, @Life Orb, Ability: Overgrow, Naughty Nature, EVs: 0/252/4/0/0/252
+    - Earthquake
+    - Petal Blizzard
+    - Outrage
+    - Double-Edge
+- Quagsire, Lv. 139, @Life Orb, Ability: Unaware, Rash Nature, EVs: 0/128/4/128/0/252
+    - Surf
+    - Earthquake
+    - Sludge Wave
+    - Recover
+- Lapras, Lv. 141, @Life Orb, Ability: Hydration, Rash Nature, EVs: 0/0/4/252/0/252
+    - Perish Song
+    - Bulldoze
+    - Surf
+    - Blizzard
+- Kyogre, Lv. 141, @Blue Orb, Ability: Drizzle, Rash Nature, EVs: 0/52/4/200/0/252
+    - Surf
+    - Earthquake
+    - Calm Mind
+    - Blizzard
+- Heliolisk, Lv. 137, @Life Orb, Ability: Solar Power, Mild Nature, EVs: 0/0/4/252/0/252
+    - Parabolic Charge
+    - Surf
+    - Hyper Voice
+    - Dark Pulse
+- Gengar, Lv. 138, @Life Orb, Ability: Cursed Body, Mild Nature, EVs: 0/52/4/200/0/252
+    - Explosion
+    - Sludge Wave
+    - Perish Song
+    - Shadow Ball
+- Flygon, Lv. 139, @Life Orb, Ability: Levitate, Mild Nature, EVs: 0/200/4/52/0/252
+    - Boomburst
+    - Earthquake
+    - Brutal Swing
+    - Heat Wave
+- Exploud, Lv. 139, @Life Orb, Ability: Scrappy, Naughty Nature, EVs: 0/52/4/200/0/252
+    - Boomburst
+    - Teeter Dance
+    - Earthquake
+    - Surf
+- Victini, Lv. 141, @Life Orb, Ability: Victory Star, Mild Nature, EVs: 0/200/4/52/0/252
+    - Searing Shot
+    - Bolt Strike
+    - U-turn
+    - Zen Headbutt
+- Groudon, Lv. 141, @Red Orb, Ability: Drought, Lonely Nature, EVs: 0/200/4/52/0/252
+    - Earthquake
+    - Brutal Swing
+    - Swords Dance
+    - Lava Plume
+
+This battle isn't that crazy - you'll notice that most of their Pokemon have moves that indiscriminately damage all Pokemon, including their allies. Bulky Pokemon, Wide Guard, etc. will help here. You'll also notice that if Kyogre and Groudon come in at the same time, the field will change to the Rainbow Field. Rock Slide gets power on the Cave Field and extra flinch chance on the Rainbow Field, so I recommend using it for this fight.
+
+The second battle of this gauntlet is determined by which route you're on, and who you have more relationship points with. On Lin Route, you'll fight whichever you have fewer points with. On Anna Route, you'll fight whichever you have more points with. On Lin Route, you'll get all your Pokemon healed to full, while in Anna Route, only non-fainted Pokemon will be restored, similar to the Glass Gauntlet.
+
+### Gauntlet Fight 2 (Amaria Version)
+
+If you instead fought Titania, skip ahead to the next section.
+
+**Umbral Amaria & Anomaly Kyogre. Field: Water Surface**
+- Kingdra, Lv. 141, @Wide Lens, Ability: Swift Swim, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Blizzard
+    - Muddy Water
+    - Draco Meteor
+    - Flash Cannon
+- Ninetales-Alola, Lv. 141, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Aurora Veil
+    - Moonblast
+    - Blizzard
+    - Dark Pulse
+- Zapdos, Lv. 142, @Charti Berry, Ability: Static, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Thunder
+    - Heat Wave
+    - Tailwind
+    - Hidden Power
+- Toxapex, Lv. 142, @Elemental Seed, Ability: Merciless, Calm Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Recover
+    - Whirlpool
+    - Baneful Bunker
+    - Wide Guard
+- Palkia, Lv. 143, @Life Orb, Ability: Telepathy, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
+    - Thunder
+    - Surf
+    - Incinerate
+    - Spacial Rend
+- Salamence, Lv. 145, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Hyper Voice
+    - Roost
+    - Protect
+    - Heat Wave
+- Volcanion, Lv. 142, @Leftovers, Ability: Water Absorb, Modest Nature, IVs: 15, EVs: 252/0/0/252/0/4
+    - Heat Wave
+    - Surf
+    - Earth Power
+    - Protect
+- Manaphy, Lv. 141, @Elemental Seed, Ability: Hydration, Modest Nature, IVs: 15, EVs: 0/0/0/252/4/252
+    - Rest
+    - Tail Glow
+    - Surf
+    - Dazzling Gleam
+- Swampert, Lv. 141, @Swampertite, Ability: Torrent, Adamant Nature, IVs: 15, EVs: 252/252/0/0/0/4
+    - Rock Slide
+    - Earthquake
+    - Dive
+    - Superpower
+- Tentacruel, Lv. 142, @Black Sludge, Ability: Rain Dish, Calm Nature, IVs: 15, EVs: 4/0/0/252/0/252
+    - Whirlpool
+    - Sludge Bomb
+    - Hex
+    - Rapid Spin
+- Kyurem-White, Lv. 143, @Elemental Seed, Ability: Turboblaze, Rash Nature, IVs: 15, EVs: 252/0/4/252/0/0
+    - Fusion Bolt
+    - Ice Beam
+    - Rock Slide
+    - Roost
+- Kyogre, Lv. 145, @Blue Orb, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Thunder
+    - Origin Pulse
+    - Calm Mind
+    - Ice Beam
+  
+This fight is absolute suffering. Even if you get your team fully healed because of Lin Route... it's still a 12v6 against a Water Surface team that might even go underwater. Even your fast grounded Pokemon will just get easily outsped. Surf will roll your over. Even if you use Trick Room, a few slower choices like Toxapex will mess up your strategy. Especially positioned as it is in the gauntlet, this might be my least favorite fight in this game... maybe minus the end game gauntlet, which we'll get to in due time. Electric moves will get you somewhat across the finish line potentially, or you could try some shenanigans on the Icy Field or Murkwater Fields, I guess. Good luck.
+
+Once you win this fight, you'll be able to catch **Kyogre**, who holds the *Blue Orb*!
+
+Head into the New World via surfing up the waterfalls, where you'll be able to find and catch **Groudon**, who holds the *Red Orb*! 
+
+Return to the Nightclub!
+
+### Gauntlet Fight 2 (Titania Version)
+
+If you are instead fighting Amaria, skip ahead to the next section.
+
+**Umbral Titania & Anomaly Groudon. Field: Grassy Terrain**
+- Ninetales, Lv. 143, @Heat Rock, Ability: Drought, Timid Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Solar Beam
+    - Fire Blast
+    - Dark Pulse
+    - Hidden Power
+- Houndoom, Lv. 143, @Houndoominite, Ability: Flash Fire, Timid Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Solar Beam
+    - Fire Blast
+    - Dark Pulse
+    - Sludge Bomb
+- Ho-oh, Lv. 143, @Life Orb, Ability: Regenerator, Hasty Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Sacred Fire
+    - Brave Bird
+    - Earth Power
+    - Recover
+- Lunala, Lv. 144, @Lunalium-Z, Ability: Shadow Shield, Calm Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Solar Beam
+    - Moongeist Beam
+    - Moonblast
+    - Psyshock
+- Reshiram, Lv. 145, @Life Orb, Ability: Turboblaze, Hasty Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Solar Beam
+    - Blue Flare
+    - Rock Slide
+    - Roost
+- Aegislash, Lv. 145, @Leftovers, Ability: Stance Change, Modest Nature, IVs: 20, EVs: 252/252/252/252/252/252
+    - Shadow Ball
+    - Flash Cannon
+    - Wide Guard
+    - King's Shield
+- Venusaur, Lv. 145, @Elemental Seed, Ability: Chlorophyll, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Sludge Bomb
+    - Solar Beam
+    - Weather Ball
+    - Grass Whistle
+- Shaymin-Sky, Lv. 145, @Life Orb, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Seed Flare
+    - Air Slash
+    - Earth Power
+    - Dazzling Gleam
+- Pheromosa, Lv. 145, @Elemental Seed, Ability: Beast Boost, Hasty Nature, IVs: 31, EVs: 0/252/0/4/0/252
+    - U-turn
+    - Blizzard
+    - Silver Wind
+    - High Jump Kick
+- Xurkitree, Lv. 145, @Elemental Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Solar Beam
+    - Nature Power
+    - Tail Glow
+    - Dazzling Gleam
+- Blaziken, Lv. 145, @Blazikenite, Ability: Speed Boost, Lonely Nature, IVs: 31, EVs: 252/252/0/4/0/0
+    - Protect
+    - Solar Beam
+    - Heat Wave
+    - High Jump Kick
+- Groudon, Lv. 145, @Red Orb, Ability: Drought, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Eruption
+    - Precipice Blades
+    - Solar Beam
+    - Rock Slide
+
+Thankfully I generally think this fight is much nicer than the Amaria fight, but it is still a very tough 12v6. There are a lot of Fire types here, so a sweeper with Ground and Rock moves might be good here. You can transform the Grassy Terrain into Corrosive Field potentially if that will help you. Burning Field activates Elemental Seeds and boosts their many Fire type moves, so it might not be the best choice. I will shoutout Mega Tyranitar for this fight, who basically turns off the strategy of the lead Ninetales and Venusaur, allowing a Dragon Dance sweep.
+
+Once you win, you can catch **Groudon**, who holds the *Red Orb*!
+
+Head into the New World via surfing up the waterfalls, where you'll be able to find and catch **Kyogre**, who holds the *Blue Orb*! 
+
+Return to the Nightclub!
+
+## The Mysterious Battle Pavilion Challenger
+
+Accept the Ringmaster's quest next. We'll actually need to win a few battles in the Battle Pavilion on the left side of the Nightclub to proceed, so prepare your best team of 3. You can't use Megas or Z-Moves, nor the strong legendaries... so keep that in mind. 
+
 
 # Appendices
 
