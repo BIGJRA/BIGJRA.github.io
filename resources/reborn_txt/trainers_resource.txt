@@ -11673,7 +11673,7 @@
     - Fire Punch
 - Zygarde-50, Lv. 125, @Focus Sash, Ability: Aura Break, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Extreme Speed
-    - ThousandArrows
+    - Thousand Arrows
     - Dragon Dance
     - Dragon Tail
 - Heatran, Lv. 125, @Air Balloon, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -14490,7 +14490,7 @@
 - Zygarde-10-Power-Construct, Lv. 145, @Synthetic Seed, Ability: Power Construct, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Core Enforcer
     - Sludge Wave
-    - ThousandArrows
+    - Thousand Arrows
     - Dragon Dance
 
 **Anomaly Rayquaza. Field: **
@@ -14814,7 +14814,7 @@
     - Fire Blast
     - Protect
 - Zygarde-50, Lv. 150, @Assault Vest, Ability: Aura Break, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - ThousandArrows
+    - Thousand Arrows
     - Core Enforcer
     - Extreme Speed
     - Brick Break
@@ -15198,12 +15198,12 @@
     - Stealth Rock
     - Spore
 - Zygarde-50, Lv. 100, @Choice Band, Ability: Aura Break, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - ThousandArrows
+    - Thousand Arrows
     - Thousand Waves
     - Outrage
     - Extreme Speed
 - Zygarde-50, Lv. 100, @Leftovers, Ability: Aura Break, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - ThousandArrows
+    - Thousand Arrows
     - Dragon Tail
     - Rest
     - Sleep Talk
@@ -17433,7 +17433,7 @@
     - Rest
     - Dragon Dance
     - Thousand Waves
-    - ThousandArrows
+    - Thousand Arrows
 
 **M3G4 Terra. Field: **
 - Gliscor, Lv. 100, @Elemental Seed, Ability: Hyper Cutter, Jolly Nature, IVs: 31, EVs: 0/0/128/0/128/252
@@ -17497,7 +17497,7 @@
     - Rest
     - Dragon Dance
     - Thousand Waves
-    - ThousandArrows
+    - Thousand Arrows
 
 **M3G4 Terra. Field: **
 - Seismitoad, Lv. 100, @Focus Sash, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
@@ -19652,7 +19652,7 @@
     - Outrage
     - Throat Chop
 - Zygarde-50, Lv. 100, @Magical Seed, Ability: Aura Break, Quiet Nature, IVs: 31, EVs: 252/128/0/128/0/0
-    - ThousandArrows
+    - Thousand Arrows
     - Core Enforcer
     - Hidden Power
     - Brick Break
@@ -20831,7 +20831,7 @@
     - Power Whip
     - Sacred Sword
 - Zygarde-10-Power-Construct, Lv. 100, @Choice Band, Ability: Power Construct, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - ThousandArrows
+    - Thousand Arrows
     - Outrage
     - Extreme Speed
     - Precipice Blades
@@ -20893,7 +20893,7 @@
     - Fell Stinger
     - Leech Life
     - Poison Jab
-    - ThousandArrows
+    - Thousand Arrows
 - Minior, Lv. 100, @White Herb, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Diamond Storm
     - Precipice Blades
@@ -21417,7 +21417,7 @@
 
 **Held at Gunpoint Perry. Field: **
 - Archeops, Lv. 101, @Figy Berry, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - ThousandArrows
+    - Thousand Arrows
     - Diamond Storm
     - Dragon Ascent
     - Tailwind
