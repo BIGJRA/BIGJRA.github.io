@@ -5,8 +5,6 @@ title: |
 
 <p id="title-text">Pokemon Reborn Walkthrough </p>
 
-Heavy Work In Progress :)
-
 - [Episode 1: Reborn, the City of Ruin](#episode-1-reborn-the-city-of-ruin)
   - [All Aboard!](#all-aboard)
   - [Grand Hall](#grand-hall)
@@ -42,15 +40,15 @@ Heavy Work In Progress :)
   - [Lapis Ward](#lapis-ward)
   - [The Grand Stairway](#the-grand-stairway)
   - [Joining a Gang](#joining-a-gang)
-    - [The Magma Gang Route](#the-magma-gang-route)
-    - [The Aqua Gang Route](#the-aqua-gang-route)
+    - [The Magma Gang Route (Part 1)](#the-magma-gang-route-part-1)
+    - [The Aqua Gang Route (Part 2)](#the-aqua-gang-route-part-2)
     - [Getting the Bicycle and Zorua](#getting-the-bicycle-and-zorua)
   - [Cocoon Badge](#cocoon-badge)
 - [Episode 5: Escape! from Reborn City](#episode-5-escape-from-reborn-city)
   - [Lapis Ward Orphanage](#lapis-ward-orphanage)
   - [Defeating the Rival Gang](#defeating-the-rival-gang)
-    - [The Magma Gang Route Part 2](#the-magma-gang-route-part-2)
-    - [The Aqua Gang Route Part 2](#the-aqua-gang-route-part-2)
+    - [The Magma Gang Route (Part 2)](#the-magma-gang-route-part-2)
+    - [The Aqua Gang Route (Part 2)](#the-aqua-gang-route-part-2-1)
   - [Rock Smash Exploration](#rock-smash-exploration)
     - [Smashin' at the Stairway](#smashin-at-the-stairway)
     - [Smashin' at the Slums](#smashin-at-the-slums)
@@ -158,7 +156,7 @@ Heavy Work In Progress :)
     - [Railnet Reconstruction Project](#railnet-reconstruction-project)
     - [Azurine Nature Center Project](#azurine-nature-center-project)
   - [Gang Application Sidequest](#gang-application-sidequest)
-  - [Starter Egg Quest Part 1](#starter-egg-quest-part-1)
+  - [Starter Egg Quest (Part 1)](#starter-egg-quest-part-1)
   - [Tourmaline Desert](#tourmaline-desert)
     - [Reshiram Route Taka Fight](#reshiram-route-taka-fight)
     - [Greater Tourmaline Desert](#greater-tourmaline-desert)
@@ -197,10 +195,10 @@ Heavy Work In Progress :)
     - [What Goes Where?](#what-goes-where)
     - [Moving Pieces Into Place](#moving-pieces-into-place)
   - [Murmina's Quest](#murminas-quest)
-  - [Bee's Pokedex Completion Quest Part 1](#bees-pokedex-completion-quest-part-1)
+  - [Bee's Pokedex Completion Quest (Part 1)](#bees-pokedex-completion-quest-part-1)
   - [Starter Egg Quest Part 3](#starter-egg-quest-part-3)
   - [Completing the Pokedex (Minus Most Legendaries)](#completing-the-pokedex-minus-most-legendaries)
-  - [Bee's Pokedex Completion Quest Part 2](#bees-pokedex-completion-quest-part-2)
+  - [Bee's Pokedex Completion Quest (Part 2)](#bees-pokedex-completion-quest-part-2)
   - [Geode Badge](#geode-badge)
 - [Episode 19: Pokemon Reborn](#episode-19-pokemon-reborn)
   - [Labradorra City](#labradorra-city)
@@ -279,6 +277,9 @@ Heavy Work In Progress :)
     - [Gauntlet Fight 2 (Amaria Version)](#gauntlet-fight-2-amaria-version)
     - [Gauntlet Fight 2 (Titania Version)](#gauntlet-fight-2-titania-version)
   - [The Mysterious Battle Pavilion Challenger](#the-mysterious-battle-pavilion-challenger)
+  - [Neoteric Isle](#neoteric-isle)
+  - [Twilight Desert (Part 2)](#twilight-desert-part-2)
+  - [Rhodochrine Tree (Part 2)](#rhodochrine-tree-part-2)
 - [Appendices](#appendices)
   - [Custom Pokemon Form Lookup](#custom-pokemon-form-lookup)
     - [Obtainable Custom Form Lookup](#obtainable-custom-form-lookup)
@@ -2376,7 +2377,7 @@ Before we do though we can start a sidequest.
 
 We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now. You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
 
-### The Magma Gang Route
+### The Magma Gang Route (Part 1)
 
 Skip to the next section if you chose the Aqua Gang.
 
@@ -2392,7 +2393,7 @@ We can now continue our ongoing stolen Pokemon quest as well. Just south of the 
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
 
-### The Aqua Gang Route
+### The Aqua Gang Route (Part 2)
 
 Skip to the next section if you chose the Magma Gang.
 
@@ -2614,7 +2615,7 @@ You can also find a hidden *Pecha Berry*, *Carbos*, *Purple Shard*, *Red Shard*,
 
 It's time to help out our friendly gang once more.
 
-### The Magma Gang Route Part 2
+### The Magma Gang Route (Part 2)
 
 If you joined Aqua last chapter, skip ahead to the next section.
 
@@ -2649,7 +2650,7 @@ Once you win, the Aqua Gang will retreat. We can actually now access the pond in
 
 Anyways, return to Maxwell at your alleyway to get **Houndour**. That's it with the Magma Gang for another few badges, however.
 
-### The Aqua Gang Route Part 2
+### The Aqua Gang Route (Part 2)
 
 If you joined Magma last chapter, skip ahead to the next section.
 
@@ -9367,7 +9368,7 @@ Note that if you haven't fixed the slums yet, you won't be able to finish this q
 
 For completing this quest, you'll be given a **Litten** holding *Choice Specs*.
 
-## Starter Egg Quest Part 1
+## Starter Egg Quest (Part 1)
 
 Head into the Grand Hall basement and enter the middle room on the left side. Kanaya will task us with donating one egg of each of the 21 starter Pokemon! 
 
@@ -11697,7 +11698,7 @@ Enter Charlotte's gym, and make your way to the back. I actually mentioned this 
 
 Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 
-## Bee's Pokedex Completion Quest Part 1
+## Bee's Pokedex Completion Quest (Part 1)
 
 Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokemon we've added to our Pokedex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokemon. Your mileage will certainly vary depending on what evolutions you've done, which Pokemon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokemon at this time. So, you'll get the following rewards:
 
@@ -11908,7 +11909,7 @@ The following is a table of Pokemon you'll need to breed or evolve at this point
 
 Note that the Alolan forms don't count towards the overall completion of your Pokedex. The magic number for a completed Pokedex is **731** obtained.
 
-## Bee's Pokedex Completion Quest Part 2
+## Bee's Pokedex Completion Quest (Part 2)
 
 Fly back over to Agate City once you've gotten all 731 Pokemon so far. Talk to Bee once more.
 
@@ -17487,7 +17488,7 @@ Follow the path from here. Time for a battle!
     - Fire Punch
 - Zygarde-50, Lv. 125, @Focus Sash, Ability: Aura Break, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Extreme Speed
-    - ThousandArrows
+    - Thousand Arrows
     - Dragon Dance
     - Dragon Tail
 - Heatran, Lv. 125, @Air Balloon, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -18845,7 +18846,7 @@ Start by using this statue and going straight up. Talk to the Blue Statue to the
 
 In this hallway, go up and left to enter the room with the New World Door we were previously in. If you talk to any of the statues on the left side, you can walk through the wall to reach the Red Statue. Return to the previous room.
 
-This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Activate the Purple Statue next.
+This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Note that you can get up to two 'extra steps' by talking to the statue from above, in certain situations, so if it seems like it's impossible to reach the next area, try doing that. Activate the Purple Statue next.
 
 <img src="/assets/media/reborn/subseven_path_1.jpg"/>
 
@@ -20529,6 +20530,477 @@ Well, our challenger flies away after we win. Interesting. That's it for whateve
 ## Neoteric Isle
 
 Head over to talk to the Ringmaster once more. Head over to Tanzan Mountain, make your way all the way down to the New World Door beneath the Steelix tunnel room, then head in. 
+
+**Neoteric Isle**
+
+|Land               |%  |Water              |%  |
+|-------------------|---|-------------------|---|
+|Muk                |20 |Golduck            |60 |
+|Rapidash           |20 |Tentacruel         |30 |
+|Vileplume          |10 |Vaporeon           |5  |
+|**Xurkitree**      |10 |Pidgeot            |4  |
+|Nidoking           |10 |Pidgeotto          |1  |
+|Nidoqueen          |10 |                   |   |
+|Machamp            |5  |                   |   |
+|Donphan            |5  |                   |   |
+|Wigglytuff         |4  |                   |   |
+|Tauros             |4  |                   |   |
+|Venusaur           |1  |                   |   |
+|Charizard          |1  |                   |   |
+
+|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
+|-------------------|---|-------------------|---|-------------------|---|
+|Psyduck            |70 |Seadra             |80 |Poliwhirl          |40 |
+|Staryu             |30 |Poipole            |20 |Kingler            |40 |
+|                   |   |                   |   |Dewgong            |15 |
+|                   |   |                   |   |Gyarados           |4  |
+|                   |   |                   |   |Blastoise          |1  |
+
+Our final Ultra Beast is located here! Anyways, at the first fork, head down and surf to reach the *N-Lunarizer* as well as: 
+
+**ZCell 67: Neoteric Isle**
+
+<img src="/assets/media/reborn/zcell_67.jpg"/>
+
+Continuing on the path, you'll see another:
+
+**ZCell 68: Neoteric Isle**
+
+<img src="/assets/media/reborn/zcell_68.jpg"/>
+
+There is one more outside - follow the path to the left of the first tall tower to reach:
+
+**ZCell 69: Neoteric Isle**
+
+<img src="/assets/media/reborn/zcell_69.jpg"/>
+
+Head back to the first tall tower and enter. Prepare yourself however you can and attempt to enter the door at the top:
+
+**Alter Clone. Field: Factory Field**
+- Your Team, with PULSE 2!
+
+An interesting gimmick fight - you have to fight your team, but with PULSE 2. So, your sweepers will be bulkier than usual and your tanks will have more offensive power. One obvious answer to this fight is Trick Room - all of your alter will have 252 in Speed, but you don't have to. Then you can try to get a set up sweep going. There are also ways to cheese this fight with one Pokemon if you're really stuck.
+
+Enter this room. On the left wall you'll see one tile that doesn't look right - walk into it to reach another door. Inside, you can get:  
+
+**ZCell 70: Neoteric Isle**
+
+<img src="/assets/media/reborn/zcell_70.jpg"/>
+
+Head up and talk to Fern, then enter the door to the right. You'll find the *N-Solarizer* as well as: 
+
+**ZCell 71: Neoteric Isle**
+
+<img src="/assets/media/reborn/zcell_71.jpg"/>
+
+Back at the fork, go up for one heck of a battle.
+
+**Anomaly Mewtwo & Anomaly Mew. Field: Holy Field**
+- Tyranitar, Lv. 145, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
+    - Brutal Swing
+    - Rock Slide
+    - Superpower
+    - Dragon Claw
+- Kommo-o, Lv. 145, @Kommonium-Z, Ability: Overcoat, Naive Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Clanging Scales
+    - Close Combat
+    - Poison Jab
+    - Brutal Swing
+- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Moongeist Beam
+    - Psychic
+    - Moonblast
+    - Heat Wave
+- Groudon, Lv. 145, @Red Orb, Ability: Drought, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Precipice Blades
+    - Eruption
+    - Brick Break
+    - Ancient Power
+- Magearna, Lv. 145, @Magical Seed, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fleur Cannon
+    - Volt Switch
+    - Flash Cannon
+    - Aura Sphere
+- Mewtwo, Lv. 145, @Mewtwonite Y, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psystrike
+    - Tri Attack
+    - Blizzard
+    - Fire Blast
+- Terrakion, Lv. 145, @Leftovers, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
+    - Stealth Rock
+    - Sacred Sword
+    - Rock Slide
+    - Zen Headbutt
+- Keldeo, Lv. 145, @Life Orb, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Secret Sword
+    - Hydro Pump
+    - Aqua Jet
+    - Icy Wind
+- Necrozma-Dawn, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
+    - Moongeist Beam
+    - Photon Geyser
+    - Flash Cannon
+    - Heat Wave
+- Meloetta-Aria, Lv. 145, @Magical Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Relic Song
+    - Dazzling Gleam
+    - Psyshock
+    - Recycle
+- Mew, Lv. 145, @Mewnium-Z, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Psychic
+    - Nature Power
+    - Dazzling Gleam
+    - Ancient Power
+- Mewtwo, Lv. 145, @Mewtwonite X, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Rock Slide
+    - Drain Punch
+    - Zen Headbutt
+    - Thunder Punch
+
+This fight is, well, rough. 12v6 on the Holy Field with a fun chance of Mew's Z-move transforming the field into Psychic Terrain. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokemon on Turn 1. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. Those two are weak to Ground, so you can take advantage of the field protecting your teammates and use Earthquake in conjuction. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, so that's nice. 
+
+However you manage to win this one, once you regain control, talk to **Mew** and **Mewtwo** for a chance to catch each. Nothing we can do to help out our friend here for now, so return to the Nightclub.
+
+## Twilight Desert (Part 2)
+
+With all 71 Zygarde Cells collected, it's a great time to head on back to the Twilight Desert! Talk to Marcello in the Nightclub and then enter the New World Door in the Tourmaline Desert to the right of the train platform.
+
+First, if you'd like to, talk to the machine in one of the side rooms to exchange your Zygarde Cells for more Cell Imprints, and exchange some for Negative Imprints if you'd like. 
+
+Head into the main building and talk to Terra here. If you have at least 50 cells, the path will be opened here, and a decent reward will be available later. If not, Terra will ask you if you want to go collect the rest. If not, you'll instead have to fight some battles:
+
+If you have fewer than 10 Cells, you'll fight:
+
+**MIS5INGN0 5Sj. Field: Glitch Field**
+- Roserade, Lv. 140, @Assault Vest, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 0/0/4/0/252/252
+    - Giga Drain
+    - Extrasensory
+    - Leaf Storm
+    - Hidden Power
+- Nidoking, Lv. 141, @Synthetic Seed, Ability: Sheer Force, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
+    - Amnesia
+    - Flamethrower
+    - Blizzard
+    - Thunderbolt
+- Jirachi, Lv. 141, @Chesto Berry, Ability: Serene Grace, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Energy Ball
+    - Rest
+    - Metronome
+    - Psychic
+
+Then, if you have fewer than 20 Cells, you'll fight:
+
+**PKMNPKMNT HHHHH. Field: Glitch Field**
+- Araquanid, Lv. 140, @Life Orb, Ability: Water Bubble, Rash Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Sticky Web
+    - Liquidation
+    - Giga Drain
+    - Blizzard
+- Lickilicky, Lv. 141, @Choice Scarf, Ability: Own Tempo, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Explosion
+- Victini, Lv. 142, @Assault Vest, Ability: Victory Star, Calm Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Psyshock
+    - Blue Flare
+    - Bolt Strike
+    - Energy Ball
+- Tyranitar, Lv. 142, @Assault Vest, Ability: Sand Stream, Modest Nature, IVs: 31, EVs: 252/4/0/0/252/0
+    - Blizzard
+    - Stone Edge
+    - Dark Pulse
+    - Water Pulse
+
+Then, if you have fewer than 30 Cells, you'll fight:
+
+**OPKMN4X 404. Field: Glitch Field**
+- Rotom-Frost, Lv. 141, @Synthetic Seed, Ability: Levitate, Calm Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Blizzard
+    - Thunderbolt
+    - Reflect
+    - Light Screen
+- Tauros, Lv. 142, @Life Orb, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Giga Impact
+    - Stone Edge
+    - Earthquake
+    - Iron Head
+- Hoopa, Lv. 142, @Assault Vest, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Hyperspace Hole
+    - Energy Ball
+    - Charge Beam
+    - Shadow Ball
+- Exeggutor, Lv. 143, @Sitrus Berry, Ability: Harvest, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
+    - Giga Drain
+    - Psyshock
+    - Nature Power
+    - Sleep Powder
+- Swellow, Lv. 143, @Scope Lens, Ability: Scrappy, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Focus Energy
+    - Boomburst
+    - Brave Bird
+    - U-turn
+
+If you have fewer than 40 Cells, you'll fight:
+
+**M1SS1NGO 0x5656. Field: Glitch Field**
+- Carbink, Lv. 140, @Synthetic Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Reflect
+    - Psychic
+    - Moonblast
+    - Hidden Power
+- Whimsicott, Lv. 141, @Leftovers, Ability: Prankster, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Nature Power
+    - Encore
+    - Tailwind
+    - Giga Drain
+- Slowbro, Lv. 142, @Slowbronite, Ability: Oblivious, Bold Nature, IVs: 31, EVs: 252/0/4/252/0/0
+    - Blizzard
+    - Psyshock
+    - Scald
+    - Slack Off
+- Muk-Alola, Lv. 143, @Air Balloon, Ability: Power Of Alchemy, Adamant Nature, IVs: 15, EVs: 252/4/0/0/252/0
+    - Gunk Shot
+    - Explosion
+    - Knock Off
+    - Shadow Ball
+- Ninetales-Alola, Lv. 144, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Aurora Veil
+    - Moonblast
+    - Blizzard
+    - Psyshock
+- Landorus-Incarnate, Lv. 144, @Air Balloon, Ability: Sheer Force, Naive Nature, IVs: 31, EVs: 252/252/4/0/0/0
+    - Earthquake
+    - Rock Slide
+    - Focus Blast
+    - Knock Off
+
+Finally, for having fewer than 50 Cells, you'll fight:
+
+**M1SS1NGO MRMR2. Field: Glitch Field**
+- Xurkitree, Lv. 140, @Focus Sash, Ability: Beast Boost, Bold Nature, IVs: 31, EVs: 252/0/4/0/0/252
+    - Power Whip
+    - Thunderbolt
+    - Tail Glow
+    - Hidden Power
+- Diancie, Lv. 141, @Synthetic Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Diamond Storm
+    - Psychic
+    - Earth Power
+    - Moonblast
+- Regice, Lv. 142, @Synthetic Seed, Ability: Clear Body, Timid Nature, IVs: 31, EVs: 252/0/0/0/4/252
+    - Amnesia
+    - Frost Breath
+    - Rock Polish
+    - Thunderbolt
+- Milotic, Lv. 143, @Leftovers, Ability: Marvel Scale, Calm Nature, IVs: 31, EVs: 252/0/0/0/252/4
+    - Scald
+    - Blizzard
+    - Aqua Ring
+    - Recover
+- Volcarona, Lv. 144, @Life Orb, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Tailwind
+    - Fiery Dance
+    - Giga Drain
+    - Psychic
+- Clefable, Lv. 145, @Sitrus Berry, Ability: Unaware, Naughty Nature, IVs: 31, EVs: 0/252/4/0/0/252
+    - Metronome
+    - Shadow Ball
+    - Belly Drum
+    - Drain Punch
+
+Either by fighting or by simply walking, proceed up from here. If you had at least 50 cells before, you'll need to enhance your Zygarde at this machine, to create **Zygarde 50%**. Otherwise, you'll simply need to create a Zygarde 10% via the other machine, so you'll still need a minimum of 10 cells. Once you have the desired Zygarde Form, show it to Terra.
+
+Hilariously, on Lin Route, you can just... opt out of fighting Anomaly Zygarde here. If you are on Anna Route or opt in:
+
+**Anomalized Zygarde. Field: Glitch Field**
+- Kyurem-Black, Lv. 145, @Life Orb, Ability: Teravolt, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Fusion Flare
+    - Blizzard
+    - Roost
+    - Dragon Breath
+- Deoxys-Attack, Lv. 145, @Synthetic Seed, Ability: Pressure, Rash Nature, IVs: 31, EVs: 4/0/252/252/0/0
+    - Psychic
+    - Ice Beam
+    - Hyper Beam
+    - Recover
+- Gyarados, Lv. 145, @Gyaradosite, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
+    - Fire Blast
+    - Blizzard
+    - Hydro Pump
+    - Earthquake
+- Chansey, Lv. 145, @Eviolite, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 252/0/0/0/252/4
+    - Blizzard
+    - Soft-Boiled
+    - Psychic
+    - Toxic
+- Toxapex, Lv. 145, @Synthetic Seed, Ability: Merciless, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Baneful Bunker
+    - Blizzard
+    - Recover
+    - Knock Off
+- Zygarde-10, Lv. 145, @Synthetic Seed, Ability: Power Construct, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Core Enforcer
+    - Sludge Wave
+    - Thousand Arrows
+    - Dragon Dance
+
+Glitch Field team that maximizes the shenanigans of the field. Set up a physical sweeper on Toxapex or something to win this one.
+
+Once you win, or if you skipped the fight, you'll get **Zygarde 100%**. Neat. 
+
+Before we leave, Walk to the right onto the green tile, then go left down the path. Solve the puzzle at this monitor. When finished, it will look like:
+
+<img src="/assets/media/reborn/zygarde.jpg"/>
+
+As for actually solving it, you'll notice that you are essentially dragging rows and columns. This is actually very similar to solving the magic square puzzle once you know where everything goes - if we're solving top to bottom, left to right, simply drag the column down so that the target space is in line with the target piece, move the row containing it over so it fits, then move the column back into place. If you could figure out that other puzzle, this one won't be too bad.
+
+Head back to the right to pick up the *DNA Splicers*. Anyways, return to Reborn City.
+
+## Rhodochrine Tree (Part 2)
+
+With 100% Zygarde in your party, talk to Shelly in the Underroot. If you had gotten at least 50 Cells in the previous quest, you'll now get Elias' 6IV Ditto. Helpful for some late game breeding.
+
+Make your way all the way back up the Rhodochrine Tree. The barriers will be gone now, so we can explore the top. Going up and left, then crossing under a waterfall, you can find the *Diancite*. 
+
+Continuing along this path, you'll see Anomaly Xerneas. Talk to it when you're ready.
+
+**Anomaly Xerneas & Umbral Noel. Field: Psychic Terrain**
+- Cosmoem, Lv. 145, @Magical Seed, Ability: Sturdy, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Splash
+    - Cosmic Power
+- Cosmoem, Lv. 145, @Normalium-Z, Ability: Sturdy, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Splash
+    - Cosmic Power
+- Spiritomb, Lv. 145, @Magical Seed, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
+    - Calm Mind
+    - Pain Split
+    - Snarl
+    - Psychic
+- Blaziken, Lv. 145, @Blazikenite, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Heat Wave
+    - Protect
+    - Baton Pass
+    - Focus Blast
+- Lugia, Lv. 145, @Magical Seed, Ability: Multiscale, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
+    - Icy Wind
+    - Ancient Power
+    - Roost
+    - Calm Mind
+- Xerneas, Lv. 145, @Power Herb, Ability: Fairy Aura, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Geomancy
+    - Moonblast
+    - Aurora Beam
+    - Psyshock
+- Ribombee, Lv. 145, @Focus Sash, Ability: Sweet Veil, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - After You
+    - Pollen Puff
+    - Dazzling Gleam
+    - Psych Up
+- Giratina-Origin, Lv. 145, @Griseous Orb, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psych Up
+    - Hex
+    - Draco Meteor
+    - Will-O-Wisp
+- Tapu Lele, Lv. 145, @Lum Berry, Ability: Psychic Surge, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psyshock
+    - Draining Kiss
+    - Psych Up
+    - Focus Blast
+- Mew, Lv. 145, @Mewnium-Z, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Psychic
+    - Psych Up
+    - Frost Breath
+    - Heal Pulse
+- Sylveon, Lv. 145, @Leftovers, Ability: Pixilate, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Wish
+    - Psych Up
+    - Swift
+    - Psyshock
+- Clefable, Lv. 145, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moonblast
+    - Soft-Boiled
+    - Psych Up
+    - Fire Blast
+
+This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokemon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokemon's SpA, and go H.A.M. If you want to avoid this, taking out Cosmoem ASAP is a good idea. I then recommend your own Pokemon with Psych Up to steal Lugia's Calm Mind or something and do a counter-sweep. 
+
+Once you win, Noel will give you **Xerneas**!
+
+Make your way to the bottom right corner of the area for another fight.
+
+**Anomaly Yveltal. Field: Starlight Arena**
+- Cresselia, Lv. 145, @Leftovers, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
+    - Moonblast
+    - Lunar Dance
+    - Psyshock
+    - Light Screen
+- Solgaleo, Lv. 145, @Solganium-Z, Ability: Full Metal Body, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Sunsteel Strike
+    - Superpower
+    - Earthquake
+    - Zen Headbutt
+- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Cosmic Power
+    - Moongeist Beam
+    - Night Daze
+    - Roost
+- Milotic, Lv. 145, @Magical Seed, Ability: Marvel Scale, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
+    - Toxic
+    - Wish
+    - Protect
+    - Hydro Pump
+- Xerneas, Lv. 145, @Leftovers, Ability: Fairy Aura, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
+    - Geomancy
+    - Moonblast
+    - Aurora Beam
+    - Psyshock
+- Yveltal, Lv. 145, @Magical Seed, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Oblivion Wing
+    - Psychic
+    - Dark Pulse
+    - Sucker Punch
+
+Boosted Dark moves are pretty incredible here - pair a sweeper with something to deal with Xerneas and Yveltal, and you should be ok. Yveltal in particular is annoying thanks to its Dark Aura field boosted Sucker Punches, so keep that in mind. 
+
+Once you win, you can catch **Yveltal**.
+
+Talk to Noel towards the top, then attempt to exit once you're ready for one more fight.
+
+**Umbral Eclipse. Field: Rainbow Field**
+- Milotic, Lv. 145, @Magical Seed, Ability: Marvel Scale, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Toxic
+    - Recover
+    - Protect
+    - Hydro Pump
+- Necrozma, Lv. 145, @Magical Seed, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Photon Geyser
+    - Recycle
+    - Dragon Pulse
+    - Protect
+- Lunala, Lv. 145, @Lunalium-Z, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Moongeist Beam
+    - Moonblast
+    - Psyshock
+    - Hidden Power
+- Entei, Lv. 145, @Leftovers, Ability: Inner Focus, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Sacred Fire
+    - Extreme Speed
+    - Stone Edge
+    - Curse
+- Audino, Lv. 145, @Audinite, Ability: Regenerator, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Rest
+    - Sleep Talk
+    - Hidden Power
+    - Calm Mind
+- Chandelure, Lv. 145, @Magical Seed, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
+    - Fire Blast
+    - Hidden Power
+    - Psychic
+    - Energy Ball
+
+The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokemon will be a pain to take out. Unless, of course, you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
+
+Once you win, accept the fast travel request to return to the Nightclub.
+
+
 
 # Appendices
 
