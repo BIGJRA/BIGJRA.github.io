@@ -6355,7 +6355,7 @@ Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
 |**Lanturn**       |15 |
 |**Relicanth**     |10 |
 
-Emerge at the other dive spot. You can find a hidden *PokeSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back. Next, head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
+Emerge at the other dive spot. You can find a hidden *PokeSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back. Next, head to Celestinine Mountain B2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
 
 To the right, you'll find the *Snowy Mountain Field Readout*. Up and to the right you'll find a *Water Stone*. Emerge at the dive spot in the upper right side. Up here you'll find the *PULSE Readout 2*. Oh dear.
 
