@@ -1564,7 +1564,7 @@ Head into the Obsidia Slums. Nearby where we first entered on the first floor, y
 
 Head left and take the elevator down to B1F. Immediately head left and go up, following the path. If you have snax in your bag, you can catch **Makuhita**!
 
-Back in Opal Ward, specifically if you randomly got Clamperl earlier in Onyx Ward, a person near the water at the bottom will give you a *Deepseatooth* or a *Deepseascale*, randomly determined.
+Back in Opal Ward, specifically if you randomly got Clamperl earlier in Onyx Ward, a person near the water at the bottom will give you a *Deep Sea Tooth* or a *Deep Sea Scale*, randomly determined.
 
 Finally, head to the apartment in the top left corner of Peridot Ward. Now that we have two badges we can finally take home **Snubbull** or **Stufful**, randomly determined.
 
@@ -6940,7 +6940,7 @@ Go down from here and follow the path through some rooms to the right, opening s
     - Infestation
     - Discharge
 
-PULSE Swalot is slow but extremely bulky, and also has not 1, not 2, but 3 separate ways to heal - Recover, Black Sludge, and healing via its ability on the field. It also is Poison type, so you can't use Toxic and wait like you could with Avalugg. It also hits respectably hard, and thanks to Discharge paralysis and Infestation flat damage, so you're likly going to have a hard time trying to get your own tank set up against it. I recommend trying to neutralize its healing - Knock Off or Trick with a Sticky Barb, Gastro Acid or Entrainment, Heal Block or Taunt are all options that can successfully prevent it from getting HP back. Then, you can exploit the fact that Electric moves are boosted on this field to finally knock it out! 
+PULSE Swalot is slow but extremely bulky, and also has not 1, not 2, but 3 separate ways to heal - Recover, Black Sludge, and healing via its ability on the field. It also is Poison type, so you can't use Toxic and wait like you could with Avalugg. It also hits respectably hard, and thanks to Discharge paralysis and Infestation flat damage, so you're likely going to have a hard time trying to get your own tank set up against it. I recommend trying to neutralize its healing - Knock Off or Trick with a Sticky Barb, Gastro Acid or Entrainment, Heal Block or Taunt are all options that can successfully prevent it from getting HP back. Then, you can exploit the fact that Electric moves are boosted on this field to finally knock it out! 
 
 Once you win, the Water Treatment Center will get fixed, but we'll need to make the water level in each room rise to make it clean again. To start, raise the water level nearby! Note that the normal water can be surfed on! Head east into the Central Obsidia Grid and fix the water level in here. Note you can surf to the right now to get *TM67 Smart Strike*.
 
@@ -7408,7 +7408,7 @@ That's all for Opal right now, so head west into Peridot.
 |Pelipper          |4  |Forretress        |4  |Forretress        |4  |
 |Mantine           |1  |Mothim            |1  |Wormadam          |1  |
 
-First, head up into the park to the right of the Pokemon Centerpokem to talk to Elder Seacrest. He will give us a quest: collect the four types of mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
+First, head up into the park to the right of the Pokemon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
 **Neo South Peridot Alley**
 
