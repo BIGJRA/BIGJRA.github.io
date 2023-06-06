@@ -306,15 +306,15 @@ title: |
 
 # Episode 1: Reborn, the City of Ruin
 
-Welcome to my 100% walkthrough. I love this game, I hope you will too, and I hope this walkthrough can help you if you get stuck or if you want to collect everything that you can in the game.
+Welcome to my 100% walkthrough of Pokemon Reborn.
 
-My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
+My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you. 
 
-Since this guide is complete, there are some parts that may spoil events that happen later in the game. I try to be vague about these things, but you may want to consider playing the game once first without referencing this walkthrough if this is a concern.
+Since this guide is complete, there are some parts that may spoil events that happen later in the game. I try to be vague about story details, but you may want to consider playing the game once first without referencing this walkthrough if this is a concern.
 
 ## All Aboard!
 
-The game will first ask you to choose a player character and gender. It will then ask you if you want to view controls. You can actually rebind controls with F1 and even add controller support! Once you've gotten acquainted with your chosen controls, you'll find yourself on the train.
+The game will first ask you to choose a player character and gender. It will then ask you if you want to view controls. You can actually rebind controls with F1 and even add controller support if you'd like! Once you've gotten acquainted with your chosen controls, you'll find yourself on the train.
 
 Ame will ask you if you have any special instructions or passwords. From the game's readme:
 
@@ -365,18 +365,16 @@ Ame will ask you if you have any special instructions or passwords. From the gam
     <p>Other hidden passwords may be able to be found in the game.</p>
 </div>
 
-If this is your first time playing, don't worry too much about passwords - in fact you can activate passwords later on into the game if you'd like. 
+If this is your first time playing, don't worry too much about passwords - in fact, you can activate passwords later on into the game if you change your mind or discover a new password.
 
-If you want some of my opinions on these passwords:
-
-- If you want to do a challenge run, try one of the *mono\[type\]* passwords. It doesn't enforce any explicit rules for battle, it simply guarantees you suitable Pokemon for random events. I love to do monotype runs (for example, [here's one I have already completed!](https://www.reddit.com/r/PokemonReborn/comments/uh5wnk/i_cleared_the_entirety_of_e19_with_only_water/) ) so I really recommend trying one of these especially for a second playthrough.
-- I don't prefer these personally, but you can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
-- *hardcap* lets you avoid disobeying via overlevelling, and *easyhms* allows you to use HM's without teaching them to your Pokemon.  I think it is worthwhile to play the game without these two to get the "classic" reborn experience at least once, but if you know you'd prefer the quality of life that comes with these passwords feel free to use them.
+- If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokemon for random events. I love to do monotype runs (for example, [here's one I have already completed!](https://www.reddit.com/r/PokemonReborn/comments/uh5wnk/i_cleared_the_entirety_of_e19_with_only_water/) ) and I really recommend trying one of these especially for a second playthrough.
+- You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
+- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HM's without teaching them to your Pokemon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.
-- *fullevs* ramps up the difficulty significantly by making every Pokemon both hit hard and have some bulk. I only recommend this for players with experience.
+- *fullevs* ramps up the difficulty significantly by making every Pokemon both hit hard and have some bulk. Reborn is already a tough game without this password, so tread carefully with this one.
 - *allfieldapp* lets you see data about fields from the start. If you're following this guide I'll be picking up all the notes naturally anyways, so unless you really want to know right away how each field works you'll be ok skipping this one.
-- *litemode* is a good choice if you are struggling or want to experience the wonderful characters, world, and puzzles without as much emphasis on battling prowess.
+- *litemode* is a good choice if you are struggling or want to experience the wonderful characters, world, and puzzles without spending too much time on the battles.
 
 Regardless, *this guide will be from the perspective of a player who is using no passwords.* 
 
@@ -384,14 +382,24 @@ After you're done inputting passwords, enjoy the rest of your train ride!
 
 ## Grand Hall
 
-As soon as you're off the train, you'll have a conversation with Ame and Julia. I won't be explaining story events much at all in this walkthrough. This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less. What do they do? [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) explains it pretty well, so you can read that to decide if you want to care about them or not. Whenever a choice is not listed, it has no effect on the points.
+As soon as you're off the train, you'll have a conversation with Ame and Julia. Note that I won't be summarizing story events much in this walkthrough aside from gameplay implications.
+
+This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokemon, Items, or the like. 
 
 **Relationship Point Choices:**
 - Yes (+1 Julia)
 
-Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem*. There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so. I will try my best to explain the positions of all the hidden items that I can until then.
+(Whenever a dialogue choice is not listed, it has no effect on the points.)
 
-Heading to the right, you'll see a black and green streetsign. Two tiles to the right is a pile of trash containing a hidden *Poke Ball*. To the right you'll find a manhole cover - on the left side is a hidden *Red Shard*. Shards will actually be pretty useful in Reborn for obtaining Ability Capsules and Pokemon as well as learning moves via tutors.
+<img src="/assets/media/reborn/hidden001.jpg"/>
+
+Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem* (A). There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so.
+
+More hidden items:
+- (B): Poke Ball
+- (C): Red Shard
+
+It's worth noting that shards are useful in Reborn for obtaining Ability Capsules and Pokemon as well as learning moves via tutors.
 
 Proceed to the right into Opal Ward. A girl at the bottom of the area will give you a *Potion*. In general, talk to as many people in Reborn as you can - they offer helpful tips for battles, give you useful items, etc.
 
