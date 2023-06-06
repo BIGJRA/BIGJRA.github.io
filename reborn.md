@@ -391,7 +391,7 @@ This conversation does quietly show off a mechanic in Pokemon Reborn: relationsh
 
 (Whenever a dialogue choice is not listed, it has no effect on the points.)
 
-<img src="/assets/media/reborn/hidden001.jpg"/>
+<img src="/assets/media/reborn/hidden001.png"/>
 
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem* (A). There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so.
 
