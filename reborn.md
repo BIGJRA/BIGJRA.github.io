@@ -20346,7 +20346,7 @@ Oh yeah, surprise level cap increase to Lv. 140. Talk to Zero to get the next qu
 
 Talk to the woman in front of the meteor for a fight.
 
-**Lost Starscaper Zina. Field: **
+**Lost Starscaper Zina. Field: Starlight Arena**
 - Zoroark, Lv. 135, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Night Daze
     - Focus Blast

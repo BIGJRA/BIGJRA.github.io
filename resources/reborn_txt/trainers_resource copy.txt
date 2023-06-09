@@ -19,7 +19,6 @@
     - Crunch
     - Heavy Slam
 
-
 **Pretty Boy Cain (2x Potion). Field: **
 - Grimer-Alola, Lv. 17, Ability: Poison Touch, Serious Nature, IVs: 10
     - Gastro Acid
@@ -4812,8 +4811,6 @@
 - Mudsdale, Lv. 42, Serious Nature, IVs: 10
 - Muk-Alola, Lv. 43, Serious Nature, IVs: 10
 
-
-
 **Meteor Grunt Demian. Field: **
 - Venomoth, Lv. 40, Serious Nature, IVs: 10
 - Graveler, Lv. 40, Serious Nature, IVs: 10
@@ -4861,7 +4858,6 @@
     - Earthquake
     - Aqua Tail
     - Roost
-
 
 **Meteor Grunt Antoine. Field: **
 - Mightyena, Lv. 40, Serious Nature, IVs: 10
@@ -8587,8 +8583,6 @@
 - Grovyle, Lv. 21, Serious Nature, IVs: 10
 - Charmeleon, Lv. 21, Serious Nature, IVs: 10
 - Kirlia, Lv. 21, Serious Nature, IVs: 10
-
-
 
 **Casanova Zach. Field: **
 - Ivysaur, Lv. 35, Serious Nature, IVs: 10
