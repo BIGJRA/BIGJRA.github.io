@@ -4965,14 +4965,6 @@
 - Solrock, Lv. 54, Serious Nature, IVs: 10
 - Palossand, Lv. 55, Serious Nature, IVs: 10
 
-**Meteor Grunt Grant. Field: **
-- Venonat, Lv. 18, Serious Nature, IVs: 10
-- Crabrawler, Lv. 19, Serious Nature, IVs: 10
-
-**Meteor Grunt Janis. Field: **
-- Jangmo-o, Lv. 18, Serious Nature, IVs: 10
-- Minior, Lv. 19, Serious Nature, IVs: 10
-
 **Meteor Grunt Ringo. Field: **
 - Venipede, Lv. 21, Serious Nature, IVs: 10
 - Lunatone, Lv. 22, Serious Nature, IVs: 10
@@ -6314,59 +6306,6 @@
 - Lapras, Lv. 37, Serious Nature, IVs: 10
 - Sharpedo, Lv. 38, Serious Nature, IVs: 10
 
-**Casanova Elio. Field: **
-- Whismur, Lv. 14, Serious Nature, IVs: 10
-
-**Doxy Elena. Field: **
-- Sewaddle, Lv. 15, Serious Nature, IVs: 10
-
-**Hotshot Zane. Field: **
-- Nincada, Lv. 12, Serious Nature, IVs: 10
-- Slakoth, Lv. 12, Serious Nature, IVs: 10
-
-**Street Rat Franklin. Field: **
-- Togedemaru, Lv. 13, Serious Nature, IVs: 10
-
-**Hotshot Davinson. Field: **
-- Snivy, Lv. 16, Serious Nature, IVs: 10
-
-**Street Rat Wayne. Field: **
-- Pidgey, Lv. 16, Serious Nature, IVs: 10
-- Pidove, Lv. 16, Serious Nature, IVs: 10
-- Pidgeotto, Lv. 18, Serious Nature, IVs: 10
-
-**Street Rat Omar. Field: **
-- Chingling, Lv. 15, Serious Nature, IVs: 10
-- Mankey, Lv. 15, Serious Nature, IVs: 10
-
-**Street Rat Rafe. Field: **
-- Pansear, Lv. 17, Serious Nature, IVs: 10
-- Mime Jr., Lv. 18, Serious Nature, IVs: 10
-
-**Street Rat Gregory. Field: **
-- Yungoos, Lv. 15, Serious Nature, IVs: 10
-
-**Street Rat Ulf. Field: **
-- Dunsparce, Lv. 16, Serious Nature, IVs: 10
-
-**Street Rat Brody. Field: **
-- Espurr, Lv. 17, Serious Nature, IVs: 10
-
-**Techie Neville. Field: **
-- Joltik, Lv. 16, Serious Nature, IVs: 10
-
-**Street Rat Mason. Field: **
-- Cascoon, Lv. 16, Serious Nature, IVs: 10
-    - Harden
-    - Tackle
-- Paras, Lv. 16, Serious Nature, IVs: 10
-
-**Street Rat Dax. Field: **
-- Silcoon, Lv. 16, Serious Nature, IVs: 10
-    - Harden
-    - Tackle
-- Seedot, Lv. 17, Serious Nature, IVs: 10
-
 **Fisherman Wade. Field: **
 - Grimer, Lv. 14, Serious Nature, IVs: 10
 - Grimer, Lv. 14, Serious Nature, IVs: 10
@@ -7011,11 +6950,6 @@
 **Nature Girl Kacey. Field: **
 - Krabby, Lv. 40, Serious Nature, IVs: 10
 - Binacle, Lv. 44, Serious Nature, IVs: 10
-
-**Youngster Kai. Field: **
-- Feebas, Lv. 19, Serious Nature, IVs: 10
-- Swinub, Lv. 19, Serious Nature, IVs: 10
-- Drilbur, Lv. 19, Serious Nature, IVs: 10
 
 **Hiker Odin. Field: **
 - Snorlax, Lv. 67, Serious Nature, IVs: 10

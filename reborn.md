@@ -1185,7 +1185,7 @@ Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mo
 
 Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. Reborn doesn't always force you to keep the default field around, however: if you have Zigzagoon, you can use Mud Sport to destroy the field, making things a bit more even for you.
 
-Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
 
 # Episode 2: Reap What's Been Sewn
 
@@ -1199,7 +1199,7 @@ Head nearby the train station in Lower Peridot. While it is raining, if you have
 
 Nearby you'll find a hiker. Talk to him, then talk to the person in the house containing Whismur earlier on. Return to the hiker and follow him to the house to receive **Onix**!
 
-Next, enter the Grand Hall. The Common Candy salesman is now gone but in his place is a person who will give us the *Rainbow Field Readout*. You probably can't do much with this one yet, but once you are able to create the Rainbow Field yourself, you do lots of crazy things in battle on it.
+Next, enter the Grand Hall. The Common Candy salesman near the shop is now gone, but in his place is a person with glasses who will give us the *Rainbow Field Readout*. Keep this field in mind for later.
 
 Now that we have a badge, Pokemarts will be updated:
 
@@ -1217,11 +1217,21 @@ Now that we have a badge, Pokemarts will be updated:
 
 Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
 
-You'll also notice that there are more trainers on Opal Bridge - when you get a new badge, this often happens, so watch out!
+You'll also notice that there are more trainers on Opal Bridge. Again clockwise:
 
+**Hotshot Zane. Field: No Field**
+- Nincada, Lv. 12, Serious Nature, IVs: 10
+- Slakoth, Lv. 12, Serious Nature, IVs: 10
+
+**Doxy Elena. Field: No Field**
+- Sewaddle, Lv. 15, Serious Nature, IVs: 10
+
+**Casanova Elio. Field: No Field**
+- Whismur, Lv. 14, Serious Nature, IVs: 10
+ 
 ## Obsidia Ward
 
-When you're ready, talk to Victoria on the right side of Opal Bridge. New area time!
+When you're ready, talk to Victoria on the right side of Opal Bridge.
 
 Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokemon's friendship for $1500. Do this once if you have the money. 
 
@@ -1248,11 +1258,22 @@ The building to the right is Critical Capture, where you can buy custom balls.
 
 Most of these are really not too worth it right now compared to the regular variety (especially Friend Ball... yikes) but I recommend picking up a few Love Balls - their 4x catch rate can be activated 100% of the time given you're trying to catch a non-genderless Pokemon and you have at least 1 male and at least 1 female Pokemon in your party, helpful for Pokemon with lower catch rates we may encounter.
 
-Outside, head right and up. Enter the Pokemon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
+Outside, head right and up.
 
-Enter the building to the right, and talk to the daycare couple one-by-one over and over until they drop their facade and battle you. Eventually, we will be freeing the real daycare couple! 
+**Street Rat Franklin. Field: No Field**
+- Togedemaru, Lv. 13, Serious Nature, IVs: 10
 
-In a house to the left, we'll learn about an in-game trade we can't complete just yet. Head outside and to the left, grab a hidden *Steel Gem* in a rock, and go down the stairs to access a new part of the railnet.
+Enter the Pokemon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
+
+Enter the building to the right, and talk to the daycare couple one-by-one over and over until they drop their facade and battle you. 
+
+**Meteor Grunt Grant & Meteor Grunt Janis. Field: No Field**
+- Venonat, Lv. 18, Serious Nature, IVs: 10
+- Crabrawler, Lv. 19, Serious Nature, IVs: 10
+- Jangmo-o, Lv. 18, Serious Nature, IVs: 10
+- Minior, Lv. 19, Serious Nature, IVs: 10
+
+Eventually, we will be freeing the real daycare couple! In a house to the left, we'll learn about an in-game trade we can't complete just yet. Head outside, and to the left, grab a hidden *Steel Gem* in the rock. Go down the stairs to access a new part of the railnet.
 
 **Underground Railnet (Obsidia Area)**
 
@@ -1262,9 +1283,7 @@ In a house to the left, we'll learn about an in-game trade we can't complete jus
 |Woobat            |20 |
 |**Klink**         |20 |
 
-Klink is pretty good on the Factory Field which we'll be seeing a lot in this game.
-
-There is also an *Escape Rope* hidden in the left area.
+Klink is pretty good on the Factory Field which we'll be seeing a lot in this game. There is also an *Escape Rope* hidden in the leftmost rock.
 
 Head back out and enter the Devon Corp building on the main street.
 
@@ -1316,23 +1335,62 @@ If you're planning on evolving Swirlix, grab a Whipped Dream. We will eventually
 |*Exp. Candy XS*    |$500       |
 |*Rare Candy*       |$12000     |
 
-I don't think you need to spend your precious money on Exp. Candy since grinding trainers give them every time you beat them.
+Since grinding trainers give them every time you beat them, you don't need to spend your precious money on Exp. Candy or the expensive Rare Candies.
 
 Back outside, follow Victoria to the right. If you'd like to get to battle Victoria and potentially get a point with her in a bit, talk to Florinia. 
 
-Two tiles south of the nearby statue you'll find a *PokeSnax*, and another *PokeSnax* is hidden down and to the right, above the upper right part of the rightmost building. Head back to the left and go down towards the South Obsidia Ward! The tile above the bottommost dancing vine contains a hidden *Potion*.
+<img src="/assets/media/reborn/hidden011.png"/>
 
-Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. As I did with Teddiursa, I will come back to it once we can access all the locations. For now, exit the building. Two tiles to the right, you'll find a hidden *Dire Hit*. 
+- (A): *PokeSnax*
+- (B): *PokeSnax*
 
-Head down from here. Between the first two girders is a hidden *Blue Shard*, and past the trainer in the first box you can find a hidden *Green Shard*. 
+Head left and down.
+
+**Hotshot Davinson. Field: No Field**
+- Snivy, Lv. 16, Serious Nature, IVs: 10
+
+Grab the hidden *Potion* (C), then proceed into South Obsidia Ward.
+
+Enter the building here and talk to the guy here. His Lillipup will run off - we will have to chase it. I will come back to this quest once we can access all the locations. For now, exit the building and follow the path down.
+
+**Street Rat Wayne. Field: No Field**
+- Pidgey, Lv. 16, Serious Nature, IVs: 10
+- Pidove, Lv. 16, Serious Nature, IVs: 10
+- Pidgeotto, Lv. 18, Serious Nature, IVs: 10
+
+<img src="/assets/media/reborn/hidden012.png"/>
+
+- (A): *Dire Hit*
+- (B): *Blue Shard*
+- (C): *Green Shard*
 
 While it's windy, you can catch wild **Hoppip** here! Anyways, enter the slums.
 
 ## Obsidia Slums
 
-Grab a *Potion* in the trash can to the left and head up. A box in the upper right corner contains a *Great Ball*. Heading down and to the left, the open toolchest next to the nerd contains a *PokeSnax*; the pot to the left contains a *Red Shard*.
+Grab a *Potion* (A, below) in the trash can to the left and head up.
 
-To the left you'll find a Light Shard, which heals your party but disappears after. You can always leave it here for a little while until you need it more, if you'd like.
+**Street Rat Rafe. Field: No Field**
+- Pansear, Lv. 17, Serious Nature, IVs: 10
+- Mime Jr., Lv. 18, Serious Nature, IVs: 10
+
+**Street Rat Omar. Field: No Field**
+- Chingling, Lv. 15, Serious Nature, IVs: 10
+- Mankey, Lv. 15, Serious Nature, IVs: 10
+
+<img src="/assets/media/reborn/hidden013.png"/>
+
+- (B): *Great Ball*
+- (C): *PokeSnax*
+- (D): *Red Shard*
+
+**Street Rat Ulf. Field: No Field**
+- Dunsparce, Lv. 16, Serious Nature, IVs: 10
+  
+**Street Rat Gregory. Field: No Field**
+- Yungoos, Lv. 15, Serious Nature, IVs: 10
+
+To the left you'll find a Light Shard, which heals your party but disappears after. 
 
 If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokeSnax*.
 
@@ -1378,7 +1436,13 @@ After that's done, head down the escalator to the right. There are encounters in
 
 A long time from now you can trade Pidove away for something much better, so catch one if you like.
 
-There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak between the escalators here - pick up a hidden *Max Repel* in a rock and a *Carbos* (read: $4900) in the next room. We can't progress further here, so go back upstairs and go through the door.
+<img src="/assets/media/reborn/hidden014.png"/>
+
+- (A): *Oran Berry*
+- (B): *Great Ball*, not hidden
+- (C): *Max Repel*
+
+Sneak between the escalators to reach the latter and a *Carbos* in the next room. Head back up the escalator and go up to proceed.
 
 **Obsidia Slums 1F**
 
@@ -1391,7 +1455,18 @@ There's an *Oran Berry* in this rock, and a *Great Ball* below. You can sneak be
 |Yungoos           |10 |
 |**Slakoth**       |10 |
 
-A box to the left contains *Pop Rocks*. Defeat the trainer, hop across, defeat another, and pick up the hidden *Rawst Berry* in a rock up here. Head upstairs.
+**Techie Neville. Field: No Field**
+- Joltik, Lv. 16, Serious Nature, IVs: 10
+
+**Street Rat Brody. Field: No Field**
+- Espurr, Lv. 17, Serious Nature, IVs: 10
+
+<img src="/assets/media/reborn/hidden015.png"/>
+
+- (A): *Pop Rocks*
+- (B): *Rawst Berry*
+
+Head upstairs.
 
 **Obsidia Slums 2F**
 
@@ -1404,11 +1479,22 @@ A box to the left contains *Pop Rocks*. Defeat the trainer, hop across, defeat a
 |Yungoos           |10 |
 |Meowth            |10 |
 
-Hop your way to the left, down, pick up a hidden *Potion* in a box here, then go right and pick up the *Moon Stone*, and the hidden *Exp. Candy XS* above it in a box. Anyways, head up the stairs here.
+Head to the left, then go up the stairs once more. Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back downstairs and follow the path clockwise around the room, picking up items:
 
-Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back down.
+<img src="/assets/media/reborn/hidden016.png"/>
 
-Make your way to the top right corner of 3F and then head down. In the very bottom right there is a hidden *Ice Heal*.
+- (A): *Moon Stone*. You need to be up against the bottom fence to hop across to reach this one.
+- (B): *Exp. Candy XS*
+- (C): *Potion*
+- (D): *Ice Heal*
+
+**Street Rat Mason. Field: **
+- Cascoon, Lv. 16, Serious Nature, IVs: 10
+    - Harden
+    - Tackle
+- Paras, Lv. 16, Serious Nature, IVs: 10
+
+One of Ame's stated goals with Reborn was to ensure every Pokemon appeared in at least one enemy team. Here's to Cascoon!
 
 Head left and emerge onto the roof. There's another Light Shard here - usually they mean either "you're halfway through a dungeon" or "there's a super hard fight coming up". Anyways, follow the path and talk to Mankey in the elevator. Take it to 1F to open a shortcut, then take it to B1F.
 
@@ -1418,17 +1504,41 @@ Head left and emerge onto the roof. There's another Light Shard here - usually t
 |---------------|-----------|
 |*Fresh Water*  |$200       |
 
-Sometimes you even get two! Anyways, the jar to the left of the elevator contains a hidden  *Normal Gem* and the toolchest at the bottom by the youngster contains a *Exp. Candy S*. 
+Sometimes you even get two! Talk to the guy at the bottom of the area... turns out this is the guy who stole our $1000 Pokemon from the thieves in Peridot! 
 
-If you talk to this guy, he'll battle you - turns out this is the guy who stole our $1000 Pokemon from the thieves in Peridot! But... he sold it to someone else. To be continued!
+**Youngster Kai. Field: No Field**
+- Feebas, Lv. 19, Serious Nature, IVs: 10
+- Swinub, Lv. 19, Serious Nature, IVs: 10
+- Drilbur, Lv. 19, Serious Nature, IVs: 10
 
-Before we enter the big door in here, go left and talk to the second box for hidden *Red-Hots*. In the bottom left corner is a hidden *Green Shard*. You can sneak up and to the left past the elevator, if you do, you can get a hidden *Purple Shard* in the topmost rock.
+But, alas, he sold it to someone else. This quest to be continued once more!
+
+<img src="/assets/media/reborn/hidden017.png"/>
+
+- (A): *Normal Gem*
+- (B): *Exp. Candy S*
+- (C): *Red-Hots*
+- (D): *Green Shard*
+- (E): *Purple Shard*
 
 Enter the gap on the left and pick up the *Friend Ball*. Head back out.
 
-Talk to the box in front of the elevator to watch it scurry away. Enter the elevator and go to 1F. Grab the *Net Ball* and talk to the kid here to make him move. In the elevator again go to 2F to grab *TM60 Quash*. Oh yeah.
+Talk to the box in front of the elevator to watch it scurry away. Enter the elevator and go to 1F. Grab the *Net Ball* and talk to the kid here to make him move, opening a shortcut. In the elevator again, go to 2F to grab *TM60 Quash*. Quash!!!!!
 
-Enter the big door back on B1F and head up. Once you see this box move twice, head straight to the right to get a hidden *Oran Berry* in a box. In a trash can at the top of this room you can find a hidden *Poke Ball*. In the next room, it's time for a battle!
+Back on B1F, enter the big door and head up. 
+
+**Street Rat Dax. Field: No Field**
+- Silcoon, Lv. 16, Serious Nature, IVs: 10
+    - Harden
+    - Tackle
+- Seedot, Lv. 17, Serious Nature, IVs: 10
+
+<img src="/assets/media/reborn/hidden018.png"/>
+
+- (A): *Oran Berry*
+- (B): *Poke Ball*
+
+In the next room, it's time for a battle!
 
 **Pokemon Gang. Field: No Field**
 - Scraggy, Lv. 15, Ability: Intimidate, IVs: 15
@@ -1438,15 +1548,37 @@ Enter the big door back on B1F and head up. Once you see this box move twice, he
 
 As long as you are able to bully Scrafty when it comes out you should be able to make this work with a team of six.
 
-There's a *Potion* in a rock to the left and a *Blue Shard* in the last rock before leaving the room. In the next room, there's a hidden *Potion* in the box on the left and an *Exp. Candy S* in a rock towards the exit. 
+<img src="/assets/media/reborn/hidden019.png"/>
 
-Back in the main basement area, go between the escalators to get a *Cotton Candy*. A rock down from here contains a *Burn Heal*. In the room to the right, you can find a hidden *Antidote*, a *Cheri Berry* in the trashcan downstairs as well as a *Super Potion* lying around and an *Exp. Candy S* in the rock below. 
+- (A): *Potion*
+- (B): *Blue Shard*
 
-Back upstairs and in the hub, take the escalator to go up. A box on the right contains an *Awakening*. Head to the right and jump your way through this path, pick up a hidden *Exp. Candy XS* and an *Antidote* in rocks on the right side, and go down. Here you'll find an abandoned egg. When it hatches it will be **Bronzor**, **Ducklett**, or **Drowzee**, determined randomly.
+Proceed to the next room.
 
-Back in the main hub, talk to the backpacker below to get the grate opened for a shortcut.
+<img src="/assets/media/reborn/hidden020.png"/>
 
-With that, head back to the top right corner and enter the door. Talk to the Spoink hiding under some beams here. Then we can finally emerge into the daylight! There is a hidden *Repel* two spaces right and two spaces down from the bottom-most rock in this area. Enter Coral Ward at the bottom when you are ready.
+- (A): *Potion*
+- (B): *Exp. Candy S*
+
+We're back in the large basement area for the third time. Lots of items to get here; follow the path down and to the right.
+
+<img src="/assets/media/reborn/hidden021.png"/>
+
+- (A): *Cotton Candy*, between escalators
+- (B): *Burn Heal*
+- (C): *Antidote*
+- (D): *Cheri Berry*
+- (E): *Super Potion*, not hidden
+- (F): *Exp. Candy S*
+
+This is a dead end without Rock Smash. Backtrack your way to the escalators and go up. Talk to the backpacker below to get the grate opened for a shortcut.
+
+A box on the right contains an *Awakening*. Head to the right and jump your way through this path, pick up a hidden *Exp. Candy XS* and an *Antidote* in rocks on the right side, and go down. Here you'll find an abandoned egg. When it hatches it will be **Bronzor**, **Ducklett**, or **Drowzee**, determined randomly. 
+
+Backtrack to the previous room and follow the path up. Talk to the Spoink hiding under some beams here to begin a quest, then emerge into daylight! 
+
+<img src="/assets/media/reborn/hidden021.png"/>
+Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
 ## Coral Ward
 
