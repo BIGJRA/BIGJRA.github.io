@@ -13,7 +13,6 @@ title: |
   - [Peridot Ward](#peridot-ward)
   - [Mosswater Industrial](#mosswater-industrial)
   - [Grand Hall Trainers 1](#grand-hall-trainers-1)
-      - [Sunday](#sunday)
   - [Volt Badge](#volt-badge)
 - [Episode 2: Reap What's Been Sewn](#episode-2-reap-whats-been-sewn)
   - [1 Badge Quests](#1-badge-quests)
@@ -1086,7 +1085,7 @@ Return to the guy who will give you 5 *Exp. Candy S*. Nice.
 
 Now is a good time to mention the Grand Hall repeatable grinding trainers in the top right corner. Each day of the week, different trainers will be available for grinding. At set points in the game, the trainers will get stronger and their rewards better. For now, each trainer will give you 2 *Exp. Candy S* when you defeat them, useful for bringing your levels up. The game will also heal your party after defeating one to save time! The trainers are as follows:
 
-**Arcade Star Carol (SUNDAY). Field: No Field**
+**Arcade Star Carol (SUN). Field: No Field**
 - Totodile, Lv. 10, Serious Nature, IVs: 10
 - Sentret, Lv. 10, Serious Nature, IVs: 10
 - Chikorita, Lv. 10, Serious Nature, IVs: 10
@@ -1134,17 +1133,17 @@ By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 
 
 Enter the Neo-Circuit Power-Plant gym when you're ready. The puzzle is simple: beat a trainer, talk to Voltorb, talk to the metal grate standing in your way.
 
-**Techie Ivan. Field: No Field**
+**Techie Ivan. Field: Factory Field**
 - Voltorb, Lv. 11, Serious Nature, IVs: 10
 - Voltorb, Lv. 11, Serious Nature, IVs: 10
   
-**Techie Bill. Field: No Field**
+**Techie Bill. Field: Factory Field**
 - Mareep, Lv. 14, Serious Nature, IVs: 10
 
-**Hotshot Lennon. Field: No Field**
+**Hotshot Lennon. Field: Factory Field**
 - Shinx, Lv. 12, Serious Nature, IVs: 10
 
-**Techie Yan. Field: No Field**
+**Techie Yan. Field: Factory Field**
 - Tynamo, Lv. 14, Serious Nature, IVs: 10
 
 Study the Electric Terrain Field Notes and talk to the gym leader when you're ready.
