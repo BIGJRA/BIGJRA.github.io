@@ -3767,18 +3767,6 @@
     - Hidden Power
     - Air Slash
 
-**Pokemon Strays. Field: **
-- Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
-    - Snarl
-    - Swagger
-    - Assurance
-    - Thunder Fang
-- Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
-    - Snarl
-    - Swagger
-    - Assurance
-    - Fire Fang
-
 **Pokemon Swarm. Field: **
 - Venipede, Lv. 34, Ability: Poison Point, Serious Nature, IVs: 10
     - Toxic
@@ -6306,29 +6294,6 @@
 - Lapras, Lv. 37, Serious Nature, IVs: 10
 - Sharpedo, Lv. 38, Serious Nature, IVs: 10
 
-**Fisherman Wade. Field: **
-- Grimer, Lv. 14, Serious Nature, IVs: 10
-- Grimer, Lv. 14, Serious Nature, IVs: 10
-- Pyukumuku, Lv. 20, Serious Nature, IVs: 10
-
-**Hotshot Vinny. Field: **
-- Minccino, Lv. 16, Serious Nature, IVs: 10
-- Trapinch, Lv. 17, Serious Nature, IVs: 10
-
-**Youngster Terrance. Field: **
-- Squirtle, Lv. 13, Serious Nature, IVs: 10
-- Torkoal, Lv. 13, Serious Nature, IVs: 10
-- Turtwig, Lv. 13, Serious Nature, IVs: 10
-- Tirtouga, Lv. 13, Serious Nature, IVs: 10
-
-**Punk Brittnay. Field: **
-- Lotad, Lv. 16, Serious Nature, IVs: 10
-- Deerling, Lv. 16, Serious Nature, IVs: 10
-
-**Street Rat Carter. Field: **
-- Barboach, Lv. 16, Serious Nature, IVs: 10
-- Spinda, Lv. 16, Serious Nature, IVs: 10
-
 **Arcade Star Eilee. Field: **
 - Happiny, Lv. 16, Serious Nature, IVs: 10
 - Stufful, Lv. 16, Serious Nature, IVs: 10
@@ -6395,10 +6360,6 @@
 - Eevee, Lv. 19, Serious Nature, IVs: 10
 - Oshawott, Lv. 19, Serious Nature, IVs: 10
 - Phanpy, Lv. 20, Serious Nature, IVs: 10
-
-**Punk Sally. Field: **
-- Spritzee, Lv. 16, Serious Nature, IVs: 10
-- Teddiursa, Lv. 16, Serious Nature, IVs: 10
 
 **Youngster Bart. Field: **
 - Kakuna, Lv. 19, Serious Nature, IVs: 10

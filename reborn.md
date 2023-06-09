@@ -1577,12 +1577,22 @@ A box on the right contains an *Awakening*. Head to the right and jump your way 
 
 Backtrack to the previous room and follow the path up. Talk to the Spoink hiding under some beams here to begin a quest, then emerge into daylight! 
 
-<img src="/assets/media/reborn/hidden021.png"/>
+<img src="/assets/media/reborn/hidden022.png"/>
+
 Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
 ## Coral Ward
 
-Welcome to Coral Ward. In the right rock as you enter you can get a *Potion*, then an *Ultra Potion* in a rock to the left of the apartments. Heading down from here you can grab a hidden *Purple Shard* one tile down and one tile right of the bottom left warehouse entrance, and a *Chewing Gum* in the box below. There is a *Repel* in the right rock below the singular house. Finally there is an *Aspear Berry* in a rock between the two warehouses on the right.
+Welcome to Coral Ward.
+
+<img src="/assets/media/reborn/hidden023.png"/>
+
+- (A): *Potion*
+- (B): *Ultra Potion*
+- (C): *Purple Shard*
+- (D): *Chewing Gum*
+- (E): *Repel*
+- (F): *Aspear Berry*
 
 **Coral Ward**
 
@@ -1599,6 +1609,11 @@ As a reward for completing the quiz you'll get the *Misty Terrain Readout*. Usef
 In a house below, there is an in-game trade. Raise your Patrat to Lv. 20 to get **Watchog**, then trade it for a **Nosepass**.
 
 On the dock, if it is raining and you have Snax, you can obtain **Lotad**.
+
+**Fisherman Wade. Field: Misty Terrain**
+- Grimer, Lv. 14, Serious Nature, IVs: 10
+- Grimer, Lv. 14, Serious Nature, IVs: 10
+- Pyukumuku, Lv. 20, Serious Nature, IVs: 10
 
 Talk to the blue haired girl towards the top. 
 
@@ -1632,9 +1647,19 @@ After the battle, you'll be given *TMX1 Cut*!
 
 Return to South Obsidia Ward and use your new field move to chop down the tree. Thankfully in this game HMs can be deleted from your Pokemon at will.
 
+**Street Rat Carter. Field: No Field**
+- Barboach, Lv. 16, Serious Nature, IVs: 10
+- Spinda, Lv. 16, Serious Nature, IVs: 10
+
 Talk to the kid here - we will reunite him with his mother as soon as we can. Enter the Glazamonia Salon here. If we ever get a Furfrou, we can groom it here. They also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
 
-Back in Obsidia Ward, we can actually access one more area before we proceed: at the left end of the ward, chop down the tree and go south. Defeating this trainer gives us access to the Obsidia Alleyway.
+Back in Obsidia Ward, we can actually access one more area before we proceed: at the left end of the ward, chop down the tree and go south. 
+
+**Hotshot Vinny. Field: No Field**
+- Minccino, Lv. 16, Serious Nature, IVs: 10
+- Trapinch, Lv. 17, Serious Nature, IVs: 10
+
+Defeating this trainer gives us access to the Obsidia Alleyway.
 
 **Obsidia Alleyway**
 
@@ -1645,11 +1670,37 @@ Back in Obsidia Ward, we can actually access one more area before we proceed: at
 |Yungoos           |20 |
 |Poochyena         |13 |
 
-There is a hidden *Potion* in the first rock on top, and a *Green Shard* in the box in the top right.
+**Youngster Terrance. Field: No Field**
+- Squirtle, Lv. 13, Serious Nature, IVs: 10
+- Torkoal, Lv. 13, Serious Nature, IVs: 10
+- Turtwig, Lv. 13, Serious Nature, IVs: 10
+- Tirtouga, Lv. 13, Serious Nature, IVs: 10
+
+**Punk Sally. Field: No Field**
+- Spritzee, Lv. 16, Serious Nature, IVs: 10
+- Teddiursa, Lv. 16, Serious Nature, IVs: 10
+
+**Punk Brittnay. Field: No Field**
+- Lotad, Lv. 16, Serious Nature, IVs: 10
+- Deerling, Lv. 16, Serious Nature, IVs: 10
+
+There is a hidden *Potion* in the top rock immediately upon entering the area, and a *Green Shard* in the box in the top rdight.
 
 At the top of the area during the morning and day, you'll find a Litleo, who will run off.
 
 At night, you'll see two Mightyena's bullying **Electrike**, who will join you if you can defeat them.
+
+**Pokemon Strays. Field: No Field**
+- Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
+    - Snarl
+    - Swagger
+    - Assurance
+    - Thunder Fang
+- Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
+    - Snarl
+    - Swagger
+    - Assurance
+    - Fire Fang
 
 To the left of the area, a **Minun** or a **Plusle** will pop out and join you if you give it snax. You can get both by exiting and re-entering.
 
