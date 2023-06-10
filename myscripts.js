@@ -19,6 +19,6 @@ function topFunction() {
 
 $(document).ready(function(){
   $("img").each(function() {
-     $(this).attr(onclick, "window.open(this.src, '_blank');")
+     $(this).attr("onclick", "window.open(this.src, '_blank');")
   });
 });
