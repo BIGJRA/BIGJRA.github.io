@@ -1487,7 +1487,7 @@ Head to the left, then go up the stairs once more. Talk to Corey here, then pick
 - (C): *Potion*
 - (D): *Ice Heal*
 
-**Street Rat Mason. Field: **
+**Street Rat Mason. Field: No Field**
 - Cascoon, Lv. 16, Serious Nature, IVs: 10
     - Harden
     - Tackle
@@ -1729,15 +1729,48 @@ With all that out of the way, return to the park area and talk to Victoria, Amar
 |Slakoth           |5  |
 |**Bonsly**        |5  |
 
-Head to the left and grab an *Oran Berry* in the third bush. Grab the *Poke Ball* beyond the first grunt then go right. A bush here will contain a *Chesto Berry*. Cut the wiggly tree and backtrack. Cut another wiggly tree near the entrance and follow the path. After passing the grey street twice the first bush will contain a *Leppa Berry*. Cut this wiggly tree.
+<img src="/assets/media/reborn/hidden024.png"/>
 
-Again we are backtracking to go through the middle path to cut a wiggly tree, then through the left path. Following the newly opened area up, grab a *Pecha Berry* in a bush, then head right to cut a wiggly tree to open up a shortcut!
+You can start by grabbing a hidden *Oran Berry* (A) in the third bush to the left.
 
-To the right, you can cut another and follow its path to a fight with a grunt. Straight down from here is a hidden *Super Potion*! Follow the path to watch a scene, but a wiggly tree then head back and up at the road. A bush past the road hides a *Green Shard*.
+**Meteor Grunt Chad. Field: Forest Field**
+- Tepig, Lv. 16, Serious Nature, IVs: 10
+- Spearow, Lv. 17, Serious Nature, IVs: 10
 
-Cut two more wiggly trees. Before we head left, we can actually sneak up past a tree to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*. 
+Pick up some more items:
 
-Back down from here, follow the leftward path. In the second rock you'll find an *Antidote*. Use the Light Shard if you'd like, then prepare for a battle!
+- (B): *Poke Ball*, not hidden
+- (C): *Chesto Berry*
+  
+Cut wiggly tree #1, then make your way back to the entrance. 
+
+<img src="/assets/media/reborn/hidden025.png"/>
+
+Cut wiggly tree #2 near the entrance, and follow the new path down and to the right. Pick up the *Leppa Berry* (D) then cut wiggly tree #3. From here, return to the entrance by going right, down, then back to the left.
+
+<img src="/assets/media/reborn/hidden026.png"/>
+
+Up from here, cut down wiggly tree #4. This opens up a path to the left, so follow the path left from the entrance of the area. Grab a *Pecha Berry* (E) in a bush, then head right to cut wiggly tree #5 to open up a shortcut. Go right to cut wiggly tree #6.
+
+Follow the path to the right from here.
+
+<img src="/assets/media/reborn/hidden027.png"/>
+
+**Meteor Grunt Minta. Field: Forest Field**
+- Makuhita, Lv. 16, Serious Nature, IVs: 10
+- Bonsly, Lv. 17, Serious Nature, IVs: 10
+
+Straight down from here is a hidden *Super Potion* (F). Follow the path to watch a scene, cut wiggly tree #7, then take the paved road upwards. Grab the hidden *Green Shard* (G).
+
+**Meteor Grunt Christopher & Meteor Grunt Ama. Field: Forest Field**
+- Shuckle, Lv. 17, Serious Nature, IVs: 10
+- Hoothoot, Lv. 17, Serious Nature, IVs: 10
+  
+<img src="/assets/media/reborn/hidden028.png"/>
+
+Cut wiggly trees #8 and #9. Follow the blue line from here to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*. 
+
+Back down from here, follow the yellow path to the left. In the second rock you'll find an *Antidote* (H). Use the Light Shard if you'd like, then prepare for a battle!
 
 **Meteor Admin ZEL. Field: Forest Field**
 - PULSE Tangrowth C, Lv. 22, Ability: Filter, Calm Nature, IVs: 7
@@ -1750,7 +1783,7 @@ This is our first battle with a PULSE! For this, and all custom Pokemon forms in
 
 As you can see from its stats, Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
 
-Once you succeed, the vines will recede and we'll be back in the park. A bush to the left contains a hidden *Heart Scale* while sneaking around through the bottom right area of the park will lead you to a rock containing an *Exp. Candy M*.
+Once you succeed, the vines will recede and we'll be back in the park. 
 
 **Obsidia Ward**
 
@@ -1766,26 +1799,28 @@ Once you succeed, the vines will recede and we'll be back in the park. A bush to
 |                  |   |Slakoth           |5  |                  |   |
 |                  |   |Sunflora          |5  |                  |   |
 
-Catch a Sentret for an in-game trade, and evolve it by raising it to Lv. 15 to get **Furret**. In the house nearby the Pokemon Center, you can trade it to get **Castform**!
+Catch a Sentret and add it to your team for an in-game trade in a bit if you'd like. 
 
-While we're nearby, enter the Pokemon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
+There are some hidden items in this area as well:
 
-Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
+<img src="/assets/media/reborn/hidden029.png"/>
 
-**Posh Suzy. Field: No Field**
-- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
-    - Synthesis
-    - Aromatherapy
-    - Play Rough
-    - Trop Kick
+- (A): *Heart Scale*
+- (B): *Exp. Candy M*
+- (C): *Super Potion*
 
-Obviously this is a pretty tough fight for this point in the game, feel free to return to it later. Maybe a fire type might be able to lower its stats or something since it resists both of its attack moves?
+To the left of the Super Potion is a trainer.
 
-If you're able to win, you'll get **Bounsweet**!
+**Arcade Star Eilee. Field: No Field**
+- Happiny, Lv. 16, Serious Nature, IVs: 10
+- Stufful, Lv. 16, Serious Nature, IVs: 10
 
-Heading north from the park, all the way right from the manhole cover you can find a hidden *Super Potion*. 
+Pick up the last few hidden items here:
 
-The first building here is the Department Store. Head inside, we can buy some things.
+- (D): *Cotton Candy*
+- (E): *Red Shard*
+
+The building on the left is Silph Co., but we can't do much here for now. The right building here is the Department Store. Shopping!!!!!
 
 **Department Store 1F Left Shop**
 
@@ -1835,7 +1870,24 @@ We can also talk to an employee to get the *Membership Card* and the *Department
 
 Our Pokemon have been getting random EV's so far - if you in the future want to EV train your Pokemon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
 
-Outside, head left and grab hidden *Cotton Candy* and *Red Shard* in some rocks. That's pretty much all we can do in Obsidia for now, but before we continue the story we can take a brief detour back to Coral Ward for some goodies.
+Make your way down and left to the Obsidia Pokemon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*! 
+
+If you're interested in a trade, evolve Sentret we got earlier by raising it to Lv. 15 to get **Furret**. In the house left from the Pokemon Center, you can trade it to get **Castform**!
+
+Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
+
+**Posh Suzy. Field: No Field**
+- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
+    - Synthesis
+    - Aromatherapy
+    - Play Rough
+    - Trop Kick
+
+Obviously this is a pretty tough fight for this point in the game, feel free to return to it later. Maybe a fire type might be able to lower its stats or something since it resists both of its attack moves?
+
+If you're able to win, you'll get **Bounsweet**!
+
+That's pretty much all we can do in Obsidia for now, but before we continue the story we can take a brief detour back to Coral Ward for some goodies.
 
 The warehouse key we got earlier works on three of the warehouses here. In the left one, you'll find the real daycare couple! By freeing them, the daycare will now be in service for all your breeding needs.
 
@@ -1845,9 +1897,36 @@ The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hid
 
 Head up into Onyx Ward from the northeastern corner of Obsidia. Onyx Ward is pretty small, but there are some things we can do here before challenging the gym.
 
-Head up on the right side. Across from the third lamppost on the sidewalk you can find a hidden *Cheri Berry*. Making your way around to the top left corner past the front of the school, the second tile from the left contains a hidden *Antidote*. The rock below contains a *Carbos* and the rock down from here contains a *PokeSnax*. 
+First, we'll do a counter-clockwise loop of the area. Trainers include:
 
-Anyways, we can't yet enter the Move Relearner house, so enter the apartment to the right. Talk to the girl on the left twice - for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
+**Youngster Baxter. Field: No Field**
+- Grubbin, Lv. 16, Serious Nature, IVs: 10
+- Psyduck, Lv. 16, Serious Nature, IVs: 10
+
+**Hotshot Joel. Field: No Field**
+- Mantyke, Lv. 16, Serious Nature, IVs: 10
+- Vullaby, Lv. 16, Serious Nature, IVs: 10
+
+**Arcade Star Tammy. Field: No Field**
+- Poliwag, Lv. 17, Serious Nature, IVs: 10
+
+**Punk Ginelle. Field: No Field**
+- Azurill, Lv. 18, Serious Nature, IVs: 10
+
+**Arcade Star Jacee. Field: No Field**
+- Cutiefly, Lv. 16, Serious Nature, IVs: 10
+- Ponyta, Lv. 16, Serious Nature, IVs: 10
+
+There are hidden items too:
+
+<img src="/assets/media/reborn/hidden030.png"/>
+
+- (A): *Cheri Berry*
+- (B): *Antidote*
+- (C): *Carbos*
+- (D): *PokeSnax*
+
+The bottom left building is the Move Relearner house, but we can't enter it yet. Head in to the apartment to the right and talk to the girl on the left twice; for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 
 **Onyx Arcade Loto Attendant**
 
@@ -1863,9 +1942,39 @@ We don't have a Coin Case yet, so there's not much to do yet. We can play the lo
 
 Enter the trainer school at the top left entrance. Fern will lock us out, so head outside and defeat the trainer to enter the school at the top right entrance.
 
+**Hotshot Blane. Field: No Field**
+- Wingull, Lv. 17, Serious Nature, IVs: 10
+- Dewpider, Lv. 17, Serious Nature, IVs: 10
+
 This area is mostly linear with a few detours. Talk to every green bookshelf and stray green book that you find lying around - they'll give us lore as well as the answers to some questions we'll need to answer later on.
 
-In the first door upstairs, a guy will give you the *Coin Case*! The next room contains *Protective Pads*. The room after that contains a *Quick Claw*. Talk to a guy staring at the wall in the hallway from the right to open up a door to the left.
+**Arcade Star Tristy & Youngster Jojo. Field: No Field**
+- Cherubi, Lv. 17, Serious Nature, IVs: 10
+- Buizel, Lv. 18, Serious Nature, IVs: 10
+- Taillow, Lv. 17, Serious Nature, IVs: 10
+- Morelull, Lv. 17, Serious Nature, IVs: 10
+
+**Hotshot Noah. Field: No Field**
+- Lileep, Lv. 16, Serious Nature, IVs: 10
+- Exeggcute, Lv. 16, Serious Nature, IVs: 10
+
+In the first door upstairs, a guy will give you the *Coin 
+Case*! 
+
+**Elder Landon. Field: No Field**
+- Wooper, Lv. 18, Serious Nature, IVs: 10
+- Shuppet, Lv. 18, Serious Nature, IVs: 10
+
+The next room contains *Protective Pads*. 
+
+**Hotshot Terry. Field: No Field**
+- Starly, Lv. 17, Serious Nature, IVs: 10
+- Pachirisu, Lv. 17, Serious Nature, IVs: 10
+
+**Arcade Star Susan. Field: No Field**
+- Combee, Lv. 18, Serious Nature, IVs: 10
+
+The third room contains a *Quick Claw*. Talk to a guy staring at the wall in the hallway from the right to open up a door to the left.
 
 In this door, go to the left. Here you'll find the first tutors.
 
@@ -1916,9 +2025,22 @@ Head downstairs from here, head out to the main hall and go downstairs again.
 **Relationship Point Choices:**
 - Yes (+1 Hardy)
 
-Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut.
+Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut. Head to the left. 
 
-Head to the left. Defeat these trainers then head into the room on the left. Time for another rival battle.
+**Youngster Trey. Field: No Field**
+- Rattata, Lv. 17, Serious Nature, IVs: 10
+- Shellos, Lv. 18, Serious Nature, IVs: 10
+- Swirlix, Lv. 19, Serious Nature, IVs: 10
+
+**Arcade Star Lithi. Field: No Field**
+- Porygon, Lv. 17, Serious Nature, IVs: 10
+- Torchic, Lv. 18, Serious Nature, IVs: 10
+
+**Youngster Destry. Field: No Field**
+- Cyndaquil, Lv. 17, Serious Nature, IVs: 10
+- Larvitar, Lv. 17, Serious Nature, IVs: 10
+
+Proceed to the left a few rooms for another rival battle.
 
 **Swag Jockey Fern (2x Super Potion). Field: No Field**
 - Sandile, Lv. 23, Ability: Moxie, Bashful Nature, IVs: 20
@@ -1950,16 +2072,11 @@ First, head on over to the Arcade. With our Coin Case, we can now go to town her
 |50 Coins   |$1000          |
 |500 Coins  |$10000         |
 
-Unless you're coming back here really late in the game, don't buy coins. They're way too expensive and by playing Voltorb Flip, you can get them for free. You can also play the slots or the roulette... but these are really slow and Voltorb Flip is 100% the way to go here. The magic number to get all the rewards is 23900 Coins.
+Unless you're coming back here really late in the game, don't buy coins. They're way too expensive, and with the free coins you can get up to the magic number needed to get all the rewards: 23900 coins. 
 
-Speaking of Voltorb Flip, here are the tips I recommend as a long time Voltorb Flip Player:
+You can play the slots, roulette, or Voltorb Flip. Previous versions of the guide recommended Voltorb Flip to grind all your coins, but I've since realized that the fastest strategy by far is the 100 coin Roulette board. 
 
-1. You can use a calculator to get started with learning what optimal moves are, but in general your coins over time is best served by just playing the game quickly yourself. Even when you lose, it's not too hard to pick back up and try again, even if you get shot all the way down to Level 1. 
-2. The game often forces you to make guesses, sometimes 50-50 guesses even. Try to make the guesses that have the least chance of failure first when you find yourself in a no-guarantees situation.
-3. Any row (or column, I will call them rows for simplicity) that adds up to 5 can be entirely ignored since there are no 2's and 3's. The only times you should intentionally flip 1's are when you are 100% sure they are not Voltorbs and simply want to make the board have less unflipped tiles.
-4. Any rows without Voltorb should be flipped immediately. When there are no such rows... just make your best guess as to where 2's and 3's are in the rows with the least Voltorb probabilities and go from there.
-5. It is crucial that you learn what the remaining point values in a row is. For example, in a row with 8/2V, suppose you have flipped one tile and it is a 3. Then in 4 remaining spots, two are Voltorb, so the other two sum to 5. This means one is a 2 and one is a 3, meaning you can try to pick which columns can fit the 2 at that spot and which could fit the 3. Alternatively, in a 5/1V, the minute you see a 2 flipped, you are done, since the rest can then only be 1 or Voltorb.
-6. Have fun! It is a bit frustrating when you get to Level 7 and then immediately flip a Voltorb, going all the way back. But the most important thing is fun - remember you can come back later to play and get the rewards.
+All you need to do is save before playing the board, pick any spot (12x payout), and play all seven balls. Note that you need to switch to a new spot if you get a jackpot on your current pick. Reset if you don't get a single jackpot on any of the seven balls, otherwise, save after all seven balls have been played. Even if you only hit one spot, you'll net 500 coins per round, a payout which only gets better the more jackpots you manage to get. You'll reach your target in no time.
 
 **Onyx Arcade TM Shop**
 
@@ -1969,7 +2086,7 @@ Speaking of Voltorb Flip, here are the tips I recommend as a long time Voltorb F
 |*TM42 Facade*      |4000 Coins |
 |*TM90 Substitute*  |7000 Coins |
 
-Of these, Substitute is probably the best one, but you can certainly get some mileage out of the other two with the right Pokemon.
+These TMs have very wide movepools, so grabbing them will generally be helpful in the early game when your movesets aren't complete yet.
 
 **Onyx Arcade Pokemon Shop**
 
@@ -1981,7 +2098,13 @@ Of these, Substitute is probably the best one, but you can certainly get some mi
 |**Nidoran M**  |3500 Coins |
 |**Shinx**      |5000 Coins |
 
-Even if you're not interested in getting everything here, most of these Pokemon are good for the upcoming gym. If the egg we previously got was Remoraid, you can get Mantyke and immediately evolve it which is neat. Nidoran M also can immediately evolve twice with the Moon Stone we got earlier. Snover can generate Snow Warning if you'd like to use that to your advantage.
+All of these Pokemon have something going for them:
+
+- If the egg we previously got was Remoraid, you can get Mantyke and immediately evolve it into Mantine, which is really overpowered at this point in the game. 
+- Nidoran M also can immediately evolve twice with the Moon Stone we got earlier, and Nidoking tears through this part of the game. 
+- Snover can generate Snow Warning, our first weather ability.
+- Slugma
+- Shinx is one of the first Intimidate users we can get and evolves quickly.
 
 Back outside, head into the building to the left. Fern's friend will feel bad and let us access the rooftop garden. Up here you'll find *TM63 Embargo*.
 
@@ -2057,9 +2180,9 @@ Head to the left and enter the gym room for a battle.
     - Recover
     - Sandstorm
 
-This is a pretty neat and out of the ordinary team that helps teach the player about the versatility of field effects. In general, the Desert Field actually doesn't really benefit Grass types or most grass type moves. Regardless, Florinia's team is mostly built around using the field successfully. Specifically, Needle Arm, Pin Missile, and Sand Tomb are all boosted by the field, and most of her Pokemon have access to these moves. Cacnea's Sand Veil is always activated here, and Ferroseed's Telluric Seed allows it to gain a bit more bulk and speed in exchange for being trapped by Sand Tomb. Sandstorm lasts for eight turns on the field, and Ferroseed, Cacnea, and Cradily will all be immune to its damage while you may not. Cradily also gets a Special Defense boost from the sand, adding to its already strong bulk with Stockpile and Recover. On top of all that, Nature Power turns into boosted Sand Tomb, and Cottonee has priority on this move due to Prankster!
+This is a pretty neat and out of the ordinary team that helps teach the player about the versatility of field effects. In general, the Desert Field actually doesn't really benefit Grass types or most grass type moves. Regardless, Florinia's team is mostly built around using the field successfully. Specifically, most of her team have at least one of Needle Arm, Pin Missile, and Sand Tomb, which are all boosted by the field. Cacnea's Sand Veil is always activated here, and Ferroseed's Telluric Seed allows it to gain a bit more bulk and speed in exchange for being trapped by Sand Tomb. Sandstorm lasts for eight turns on the field, and Ferroseed, Cacnea, and Cradily will all be immune to its damage while you may not. Cradily also gets a Special Defense boost from the sand, adding to its already strong bulk with Stockpile and Recover. On top of all that, Nature Power turns into boosted Sand Tomb, and Cottonee has priority with this move due to Prankster!
 
-All that goes to show how even fields that aren't *obviously* beneficial like Electric Terrain for Julia can lead to difficult teams. Aside from Pin Missile Linoone you don't really have many options to abuse the field yourself yet, so the key will be to overwhelming her. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Castform's Sunny Day to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. You might have to think outside the box a little but this fight is fun to figure out, and you can do it.
+All that goes to show how even fields that aren't as *obviously* beneficial like Electric Terrain for Julia can lead to difficult challenges. Aside from Pin Missile Linoone you don't really have many options to get boosts from the field yourself yet, so the key will be to overwhelming her otherwise. Fury Cutter is a pretty great move for this fight - you can get around Ferroseed's Iron Barbs with the Protective Pads we found earlier, and after a few uses the move will tear through Cradily before it can bulk up. Snover is also a good option if you want to cancel out the Sandstorm with a different weather condition, or you could use Sunny Day with Castform or Cherrim to sweep with Fire moves under the 8-turn Desert Field sun. You could also try to run a Flying type offensive core, which ignores Sand Tomb and can pretty easily deal with everything except Cradily. A great example of having to think outside the box in Reborn; you can do it!
 
 After winning you'll get the *Canopy Badge* as well as *TM96 Nature Power*. You'll also receive the *PULSE Dex* as well as the *PULSE Readout 5C*. The level cap also shoots up to 35!
 

@@ -181,28 +181,6 @@
     - Thunder
     - Flamethrower
 
-**Apprentice Victoria (2x Potion). Field: **
-- Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
-    - Magical Leaf
-    - Confusion
-    - Disarming Voice
-    - Double Team
-- Pichu, Lv. 18, @Eviolite, Ability: Static, IVs: 31
-    - Sweet Kiss
-    - Fake Out
-    - Nasty Plot
-    - Thunder Shock
-- Pancham, Lv. 18, Ability: Scrappy, Adamant Nature, IVs: 10
-    - Arm Thrust
-    - Work Up
-    - Comet Punch
-    - Karate Chop
-- Torracat, Lv. 19, Ability: Intimidate, IVs: 30
-    - Flame Charge
-    - Dual Chop
-    - Power Trip
-    - Bulk Up
-
 **Apprentice Victoria. Field: **
 - Torracat, Lv. 33, Ability: Intimidate, IVs: 31
     - Bite
@@ -396,40 +374,6 @@
     - Darkest Lariat
     - Flare Blitz
     - Cross Chop
-
-**Swag Jockey Fern (Potion). Field: **
-- Budew, Lv. 13, @Oran Berry, Ability: Poison Point, IVs: 10
-    - Mega Drain
-    - Natural Gift
-    - Stun Spore
-    - Covet
-- Sandile, Lv. 13, Ability: Moxie, IVs: 10
-    - Power Trip
-    - Snatch
-    - Rage
-    - Sand Tomb
-- Rowlet, Lv. 14, Ability: Overgrow, IVs: 15
-    - Leafage
-    - Peck
-    - Ominous Wind
-    - Confuse Ray
-
-**Swag Jockey Fern (2x Super Potion). Field: **
-- Sandile, Lv. 23, Ability: Moxie, Bashful Nature, IVs: 20
-    - Mud-Slap
-    - Bite
-    - Sand Attack
-    - Rage
-- Roselia, Lv. 24, Ability: Poison Point, Timid Nature, IVs: 31
-    - Leech Seed
-    - Stun Spore
-    - Mega Drain
-    - Poison Sting
-- Dartrix, Lv. 25, Ability: Overgrow, Bashful Nature, IVs: 28
-    - Pluck
-    - Razor Leaf
-    - Ominous Wind
-    - Nature Power
 
 **Swag Jockey Fern (2x Super Potion). Field: **
 - Rhyhorn, Lv. 30, Ability: Reckless, Brave Nature, IVs: 20
@@ -843,10 +787,6 @@
 
 **Meteor Admin ZEL. Field: **
 - Tangrowth, Lv. 22, @PULSE, Ability: Leaf Guard, Calm Nature, IVs: 7
-    - Wrap
-    - Vine Whip
-    - Acid Spray
-    - Mega Drain
 
 **Meteor Admin ZEL. Field: **
 - Glaceon, Lv. 24, Ability: Ice Body, Modest Nature, IVs: 5
@@ -957,38 +897,6 @@
     - Origin Pulse
     - Draco Meteor
     - Fleur Cannon
-
-**Head Instructor Florinia (2x Super Potion). Field: **
-- Maractus, Lv. 22, Ability: Water Absorb, Quirky Nature, IVs: 1
-    - Nature Power
-    - Pin Missile
-    - Needle Arm
-    - Spikes
-- Cottonee, Lv. 24, Ability: Prankster, Impish Nature, IVs: 25
-    - Leech Seed
-    - Poison Powder
-    - Nature Power
-    - Protect
-- Ferroseed, Lv. 22, @Telluric Seed, Ability: Iron Barbs, IVs: 5
-    - Leech Seed
-    - Nature Power
-    - Pin Missile
-    - Sandstorm
-- Breloom, Lv. 23, Ability: Poison Heal, Bashful Nature, IVs: 1
-    - Leech Seed
-    - Spore
-    - Mach Punch
-    - Mega Drain
-- Cacnea, Lv. 23, @Big Root, Ability: Sand Veil, Adamant Nature, IVs: 15
-    - Sand Attack
-    - Pin Missile
-    - Leech Seed
-    - Nature Power
-- Cradily, Lv. 24, Ability: Suction Cups, Careful Nature, IVs: 15
-    - Stockpile
-    - Smack Down
-    - Recover
-    - Sandstorm
 
 **Head Instructor Florinia. Field: **
 - Hippowdon, Lv. 68, @Yache Berry, Ability: Sand Force, Impish Nature, IVs: 30
@@ -3833,13 +3741,6 @@
     - Crunch
     - Hammer Arm
 
-**Pokemon Mechanightmare. Field: **
-- Klinklang, Lv. 35, Ability: Clear Body, Modest Nature, IVs: 30
-    - Discharge
-    - Charge Beam
-    - Mirror Shot
-    - Autotomize
-
 **Harridan Craudburry. Field: **
 - Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Leaf Blade
@@ -4972,9 +4873,6 @@
     - Poison Jab
 
 **Meteor Grunt Christopher. Field: **
-- Shuckle, Lv. 17, Serious Nature, IVs: 10
-
-**Meteor Grunt Christopher. Field: **
 - Gabite, Lv. 39, Serious Nature, IVs: 10
 - Shuckle, Lv. 39, Serious Nature, IVs: 10
 - Doublade, Lv. 40, Serious Nature, IVs: 10
@@ -5011,9 +4909,6 @@
     - Draco Meteor
     - Fire Blast
     - Dark Pulse
-
-**Meteor Grunt Ama. Field: **
-- Hoothoot, Lv. 17, Serious Nature, IVs: 10
 
 **Meteor Grunt Ama. Field: **
 - Noctowl, Lv. 39, Serious Nature, IVs: 10
@@ -5054,17 +4949,9 @@
     - Magnet Rise
 
 **Meteor Grunt Chad. Field: **
-- Tepig, Lv. 16, Serious Nature, IVs: 10
-- Spearow, Lv. 17, Serious Nature, IVs: 10
-
-**Meteor Grunt Chad. Field: **
 - Venomoth, Lv. 39, Serious Nature, IVs: 10
 - Pignite, Lv. 39, Serious Nature, IVs: 10
 - Fearow, Lv. 40, Serious Nature, IVs: 10
-
-**Meteor Grunt Minta. Field: **
-- Makuhita, Lv. 16, Serious Nature, IVs: 10
-- Bonsly, Lv. 17, Serious Nature, IVs: 10
 
 **Meteor Grunt Minta. Field: **
 - Hariyama, Lv. 39, Serious Nature, IVs: 10
@@ -6293,68 +6180,6 @@
 - Toxapex, Lv. 37, Serious Nature, IVs: 10
 - Lapras, Lv. 37, Serious Nature, IVs: 10
 - Sharpedo, Lv. 38, Serious Nature, IVs: 10
-
-**Arcade Star Eilee. Field: **
-- Happiny, Lv. 16, Serious Nature, IVs: 10
-- Stufful, Lv. 16, Serious Nature, IVs: 10
-
-**Youngster Baxter. Field: **
-- Grubbin, Lv. 16, Serious Nature, IVs: 10
-- Psyduck, Lv. 16, Serious Nature, IVs: 10
-
-**Hotshot Joel. Field: **
-- Mantyke, Lv. 16, Serious Nature, IVs: 10
-- Vullaby, Lv. 16, Serious Nature, IVs: 10
-
-**Hotshot Noah. Field: **
-- Lileep, Lv. 16, Serious Nature, IVs: 10
-- Exeggcute, Lv. 16, Serious Nature, IVs: 10
-
-**Arcade Star Tammy. Field: **
-- Poliwag, Lv. 17, Serious Nature, IVs: 10
-
-**Arcade Star Jacee. Field: **
-- Cutiefly, Lv. 16, Serious Nature, IVs: 10
-- Ponyta, Lv. 16, Serious Nature, IVs: 10
-
-**Punk Ginelle. Field: **
-- Azurill, Lv. 18, Serious Nature, IVs: 10
-
-**Hotshot Blane. Field: **
-- Wingull, Lv. 17, Serious Nature, IVs: 10
-- Dewpider, Lv. 17, Serious Nature, IVs: 10
-
-**Arcade Star Tristy. Field: **
-- Cherubi, Lv. 17, Serious Nature, IVs: 10
-- Buizel, Lv. 18, Serious Nature, IVs: 10
-
-**Youngster Jojo. Field: **
-- Taillow, Lv. 17, Serious Nature, IVs: 10
-- Morelull, Lv. 17, Serious Nature, IVs: 10
-
-**Elder Landon. Field: **
-- Wooper, Lv. 18, Serious Nature, IVs: 10
-- Shuppet, Lv. 18, Serious Nature, IVs: 10
-
-**Hotshot Terry. Field: **
-- Starly, Lv. 17, Serious Nature, IVs: 10
-- Pachirisu, Lv. 17, Serious Nature, IVs: 10
-
-**Arcade Star Susan. Field: **
-- Combee, Lv. 18, Serious Nature, IVs: 10
-
-**Youngster Trey. Field: **
-- Rattata, Lv. 17, Serious Nature, IVs: 10
-- Shellos, Lv. 18, Serious Nature, IVs: 10
-- Swirlix, Lv. 19, Serious Nature, IVs: 10
-
-**Arcade Star Lithi. Field: **
-- Porygon, Lv. 17, Serious Nature, IVs: 10
-- Torchic, Lv. 18, Serious Nature, IVs: 10
-
-**Youngster Destry. Field: **
-- Cyndaquil, Lv. 17, Serious Nature, IVs: 10
-- Larvitar, Lv. 17, Serious Nature, IVs: 10
 
 **Hotshot Skye. Field: **
 - Eevee, Lv. 19, Serious Nature, IVs: 10
@@ -7821,13 +7646,6 @@
     - High Jump Kick
     - Play Rough
     - Nature Power
-
-**Posh Suzy. Field: **
-- Tsareena, Lv. 45, Ability: Queenly Majesty, Adamant Nature, IVs: 31
-    - Synthesis
-    - Aromatherapy
-    - Play Rough
-    - Trop Kick
 
 **Ranger Addison. Field: **
 - Marowak, Lv. 77, @Thick Club, Serious Nature, IVs: 10
