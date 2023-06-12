@@ -446,7 +446,7 @@ Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually 
 
 Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter! 
 
-It is ultimately up to you what you choose of course. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
+It is ultimately up to you what you choose. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
 
 If you save in front of the starters (quicksave is, by default, 'D'), you can reset (resetting is, by default, F12. You will become very familiar with this button.) until you get one with satisfactory nature, ability, IV's, and even shininess. The shiny rate in this game is roughly 1 in 91 in this game, so you might just end up with a shiny starter on your first try!
 
@@ -474,7 +474,7 @@ You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefull
 **Relationship Point Choices:**
 - Defeat Victoria in battle (+1 Victoria)
 
-After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and of course the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
+After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
 Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often. 
 
@@ -1181,7 +1181,7 @@ Study the Electric Terrain Field Notes and talk to the gym leader when you're re
     - Rollout
     - Charge
 
-Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your Lv. 20 and under Pokemon quickly with Sonic Boom. Her Electrode of course is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
+Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your Lv. 20 and under Pokemon quickly with Sonic Boom. Her Electrode is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
 
 Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. Reborn doesn't always force you to keep the default field around, however: if you have Zigzagoon, you can use Mud Sport to destroy the field, making things a bit more even for you.
 
@@ -2812,9 +2812,9 @@ Head up and into the battle room.
     - Air Cutter
     - Roost
 
-As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always on, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
+As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too threatening aside from his priority Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always activated, but it's slow and not too bulky. His Skuntank however can hit decently hard by stacking Acid Sprays, and with its bulk, it can be a threat. You also need to be careful of Aftermath, which can knock out your sweeper. Most difficult of all is his Crobat, since it outspeeds almost every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
 
-The key here is putting yourself in a position to be able to deal with Crobat. It's frail enough to die to one or two well placed super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at knocking out the fodder to open up Crobat for the rest of your team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
+The key here is putting yourself in a position to be able to deal with Crobat. Thankfully, it's frail enough to die to one or two strong super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at sweeping the weaker members of the team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
 
 ### Saved Police Officers Route
 
@@ -2869,11 +2869,13 @@ Talk to the agent in his room, then head up into the arena once you're ready.
     - Air Cutter
     - Nasty Plot
 
-As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too bad if you're able to knock it out before it can ruin you with Sucker Punch. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but since you outspeed it you may be able to strike at it first. However Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can be a threat. Crobat however is a menace right now, since it basically outspeeds every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock, and if you let it boost it's basically over most of the time.
+As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too strong, though it's Sucker Punch does have priority. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but it is slow and not too bulky. However, Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can stick around for a bit. It's Aftermath ability can also knock out your sweeper, so be careful. The biggest threat on his team is Crobat: it outspeeds almost every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock. If you let it boost with Nasty Plot, it's very hard to win from there.
 
-On this field, you really have to find a way to very quickly take out the team without suffering too many casualties yourself and find a way to deal with Crobat, since it likes to revenge kill your Pokemon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well placed super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Of course, your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types too are good as long as you can play around Sucker Punch. I recommend using Fire moves too since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokemon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.
+On this field, you really have to go fast so you're not worn down by Poison. On top of this, your goal has to be finding a way to deal with Crobat, since it likes to revenge kill your Pokemon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well strong super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. I recommend using Fire moves since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokemon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.
 
 # Episode 4: Aftershocks
+
+No gym badge or TM is awarded to you after this fight.
 
 To continue the story, head to Beryl Bridge and watch the scene. After you see an explosion with Fern, our next destination will be the North Obsidia Ward, but there are some very worthwhile quests we can do in the meantime.
 
@@ -2932,7 +2934,7 @@ The Mystery Egg can actually hatch to be one of 18 different Pokemon - all of wh
 - **Rockruff**
 - **Larvesta**
 
-Of course, we can get the other 17 at a later time.
+We can get the other 17 at a later time.
 
 ## North Obsidia Ward
 
@@ -3059,7 +3061,7 @@ Some consumables that may be useful in a pinch. We will much later on need a Whi
 |*Power Band*   |$15000         |
 |*TM48 Round*   |$9000          |
 
-Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokemon and cancel out other EV's. Meaning if you catch a new Pokemon you simply have to defeat any 8 Pokemon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. Of course, these are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
+Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokemon and cancel out other EV's. Meaning if you catch a new Pokemon you simply have to defeat any 8 Pokemon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. These are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
 
 Anyways, that's all we can do in Lapis for now, so head back down to the North Obsidia Ward.
 
@@ -3584,7 +3586,7 @@ The Mining Kit allows us to finally deal with all those glowing rocks everywhere
 
 Item probabilities are listed [in the appendices](#mining-item-probabilities).
 
-We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room but of course feel free to break them as you see them.
+We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room, but feel free to break them as you see them.
 
 Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly. 
 
@@ -3799,7 +3801,7 @@ Finally time to take on the Ghost type leader. If you check your field notes for
 
 That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric type moves, so if you have a strategy using Gear Grind or an Electric type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
 
-After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can of course use Flash now.
+After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can use Flash now.
 
 # Episode 6: Poison In Vein
 
@@ -3868,7 +3870,7 @@ Towards the bottom of the area you'll find more stairs, so take these to go up t
 
 This time ZEL comes at us with both a PULSE and three Eeveelutions. The first three members of the team aren't particularly awful - something with a bit of physical bulk and some healing can take Umbreon and a fast physical attacker or two can deal with Glaceon and Espeon.
 
-Of course, the PULSE can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokemon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last. 
+The PULSE Muk can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokemon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last. 
 
 Once you win, you'll get the *Harbor Key*. 
 
@@ -4112,7 +4114,7 @@ Make your way back to 3F, then go across the empty pool. On 4F you can find a hi
     - Solar Beam
     - Lava Plume
 
-Cal now has a full team of six and of course gets the full benefit of the field. It boosts Scald as well as the Fire moves, and can turn into the Burning Field if Magmortar gets to use Lava Plume. Aside from Scald your own Water types will have a tougher time on this field. Luckily, he still makes some suboptimal moves - his Typhlosion hits hardest with Solar Beam and his Charizard is physical, for example. Past Hakamo-o a Rock type or two can pretty much destroy his whole team. 
+Cal now has a full team of six and gets the full benefit of the field. It boosts Scald as well as the Fire moves, and can turn into the Burning Field if Magmortar gets to use Lava Plume. Aside from Scald your own Water types will have a tougher time on this field. Luckily, he still makes some suboptimal moves - his Typhlosion hits hardest with Solar Beam and his Charizard is physical, for example. Past Hakamo-o a Rock type or two can pretty much destroy his whole team. 
 
 **Relationship Point Choices:**
 - Defeat Cal atop Pyrous Mountain (+2 Cal)
@@ -5329,7 +5331,7 @@ Once you emerge, make your way back into the base and head to the back room. Onc
     - Hyper Beam
     - Hyper Beam
 
-Seriously. Of course, when you're only fighting one Pokemon with very low HP that has to deal with recharge much of the time, it shouldn't be too hard. Disabling Dark pulse will let your Ghost sit there for free, Mirror Coat and Metal Burst can work great here, etc. There's lots of options for this one. 
+Seriously. Thankfully, when you're only fighting one Pokemon with very low HP that has to deal with recharge, you can find a way to open an opportunity to knock it out. Disabling Dark Pulse will let your Ghost type easily win. Alternatively Mirror Coat and Metal Burst can work great here. There's lots of options for this one. 
 
 Head all the way back to Tanzan Cove and talk to Anna inside. It's time for another gym battle!
 
@@ -5615,7 +5617,7 @@ Anyways, talk to Luna.
 
 This battle features the new Chess Board Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
 
-Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is of course annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
+Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
 
 Anyways, once you win, we can talk to Luna.
 
@@ -7200,7 +7202,7 @@ To the right of the high striker you'll see a new vendor. For three Green Shards
 
 <img class="tabImage" src="/assets/media/reborn/turtwig.jpg"/>
 
-For winning you'll get a Mew! Just kidding, of course, you get a **Turtwig!**
+For winning you'll get a **Turtwig!**
 
 Talk to the person in the top right guarding the Ferris Wheel to get the *Fighting Memory*.
 
@@ -7370,7 +7372,7 @@ After beating the grunts here, go to the left and follow the path along the narr
     - Swords Dance
     - Close Combat
 
-It can sweep you if you're not prepared, but you can handle this surely. Once you win, head into the cave to get a *Fairy Memory* and an egg that will of course hatch into **Riolu**. 
+It can sweep you if you're not prepared, but you can handle this surely. Once you win, head into the cave to get a *Fairy Memory* and an egg that will hatch into **Riolu**. 
 
 Head into the cave entrance back on the main path.
 
@@ -9518,7 +9520,7 @@ Again, this is made harder by the fact that you can't heal. His Pokemon are pret
 
 Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your party. Give it back to Eustace upstairs.
 
-With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. Of course, we will be getting more of these as well.
+With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. We will be getting more of these as well.
 
 **Relationship Point Choices:**
 - Complete the Mega-Z Ring Quest (+2 Arclight)
@@ -9685,7 +9687,7 @@ Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend 
     - Autotomize
     - Hidden Power
 
-Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is of course Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Of course, its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
+Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
 
 To win this one, I recommend figuring out how to position yourself around Magnezone then working backwards from there. For example, if you want to take it out with Special Fire-moves, figure out how to get the sun out beforehand. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it With only 70 base speed and no EV's in this area, you'll find yourself likely able to outspeed, so placing one or two strong hits will really be the key. With a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest, you should be able to find a way through this one.
 
@@ -9781,7 +9783,7 @@ Climb the waterfall and grab the hidden *Rock Gem*. Prepare your team and talk t
     - Recover
     - Ice Beam
 
-So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's a good chance you can just one shot all of them, especially if you're using field-boosted Rock Slide. Be careful of their types changing and of course the seemingly endless uses of Fake Out and Sucker Punch, however.
+So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's a good chance you can just one shot all of them, especially if you're using field-boosted Rock Slide. Be careful of their types changing and the seemingly endless uses of Fake Out and Sucker Punch, however.
 
 **Purple Kecleon. Field: Cave Field**
 - Purple Kecleon, Lv. 81, @Sitrus Berry, Ability: Color Change, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
@@ -9790,7 +9792,7 @@ So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's 
     - Knock Off
     - Rock Slide
 
-Of course, the cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. As before if you're struggling, I recommend having two or three Pokemon specifically chosen to deal with the first fight and the rest saved up to deal with this one, just in case.
+The cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. As before if you're struggling, I recommend having two or three Pokemon specifically chosen to deal with the first fight and the rest saved up to deal with this one, just in case.
 
 Past here you can get a hidden *Repel* as well as **Treecko**! 
 
@@ -10162,7 +10164,7 @@ Inside the building, you can get a *Toxic Plate*. You can also learn about the p
 
 In front of the building, a person will offer you an in-game trade: your Carnivine for a **Chimchar** egg. Nice.
 
-Of course, the Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokemon now!
+The Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokemon now!
 
 **Neo Azurine Island (Renovated)**
 
@@ -10675,7 +10677,7 @@ So, we can get another legendary here, if you can call it that!
 
 Although you might be tempted to head back into the tower, try heading down from here...
 
-Following this path will lead us to the top of Mirage Tower! Here we can pick up the *Normalium-Z*, *TM04 Calm Mind*, and of course, **Honedge**. Excellent rewards, and I recommend training this thing up right away if one of your team members is falling off, as Aegislash is one of the best Pokemon in this game!
+Following this path will lead us to the top of Mirage Tower! Here we can pick up the *Normalium-Z*, *TM04 Calm Mind*, and **Honedge**. Excellent rewards, and I recommend training this thing up right away if one of your team members is falling off, as Aegislash is one of the best Pokemon in this game!
 
 That's it for the Mirage Tower for now.
 
@@ -10981,9 +10983,7 @@ More importantly than all that though... by talking to *him* on the east side of
 
 This cruel thief has a Z-move and some Pokemon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
 
-By defeating him we can finally get our hands on our birthright. We get **Magikarp**.
-
-Of course I jest, but Gyarados is one of the strongest Pokemon in the game, so it is indeed worth it.
+By defeating him we can finally get our hands on our legendary weapon: **Magikarp**. I jest, but Gyarados is one of the strongest Pokemon in the game, so it is indeed worth it.
 
 Make your way out of the Train Town via the train car at the bottom. In the next area you can get a hidden *X Sp. Atk* and *X Speed*. You'll notice an entrance to a train car in the top right corner, which is where we'll go to continue the story. For now there are a couple goodies in the scrapyard that we couldn't access before, so I'll get those first.
 
@@ -11494,7 +11494,7 @@ Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door i
 
 Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed.
 
-In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, of course, you can battle and catch **Larvitar**! 
+In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**! 
 
 That's all we can do here, so escape from this cave.
 
@@ -11791,7 +11791,7 @@ As you're hinted to do, we'll need to transform the Snowy Mountain Field here in
 
 As in the previous map, it is hinted that we're gonna want to change the field, this time from Icy Field to Cave Field. Doing this will open the above water encounters as well as letting you grab the *Heracronite* and hidden *Focus Sash* in the pond.
 
-Of course, this room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the top.
+This room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the top.
 
 Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
 
@@ -12002,9 +12002,9 @@ Now begins one of the most glorious parts of Reborn. I'll let each of the fights
     - Seed Bomb
     - Poison Jab
 
-This battle is our first 12v6! On average each of our Pokemon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (of course, there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokemon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
+This battle is our first 12v6! On average each of our Pokemon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokemon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
 
-Of course, Shelly's entire team is weak to Rock Slide, so it's not a bad idea to operate from the doubles priniciple: "support your Rock Slider at all costs". Heat Wave is also pretty potent here for similar reasons - a sun team can devastate here. You can fairly easily opt for a speed control strategy of some sort - Magic Bouncing back the Sticky Web or embracing it and abusing 8 turn Trick Room are excellent choices. You can also use Factory Field to your advantage blah blah... you knew that by now. Optimize your team to the max cap, come with a strategy to conserve momentum, and you'll be able to find a way to come out on top.
+Shelly's entire team is weak to Rock Slide, so it's not a bad idea to operate from the doubles priniciple: "support your Rock Slider at all costs". Heat Wave is also pretty potent here for similar reasons - a sun team can devastate here. You can fairly easily opt for a speed control strategy of some sort - Magic Bouncing back the Sticky Web or embracing it and abusing 8 turn Trick Room are excellent choices. You can also use Factory Field to your advantage blah blah... you knew that by now. Optimize your team to the max cap, come with a strategy to conserve momentum, and you'll be able to find a way to come out on top.
 
 **??? ?????. Field: Factory Field**
 - Weavile, Lv. 83, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
@@ -12042,7 +12042,7 @@ Ok, so after finally overcoming a fight with all the odds stacked against you...
 
 Here's the thing. This fight, generally speaking, isn't gonna be the worst thing in the world. It's a 6v6 and your opponent has a mostly frail team plus Umbreon and sort of Gothitelle. If that's all there was to say, I'd assume you'd be able to find a way through this one and that would be that. The problem is: *any Pokemon that are fainted at the end of this fight stay fainted for the next*, basically as if you use Full Restores on all living Pokemon and nothing more. And for the next fight, you'll really want as many Pokemon as you can take. 
 
-So, with the goal of simply making sure that every one of your Pokemon stays alive? Weavile has a Focus Sash, meaning your lead for the whole gauntlet needs to be able to deal two hits of damage without dying (or switch). Mismagius is fast and if you make the mistake of letting it set up a Nasty Plot, there's a good chance it will claim a soul or two. Honchkrow is really nasty, with Sucker Punch allowing it to punish weakened Pokemon. Umbreon is annoyingly bulky, with Foul Play to hurt your physical attackers even more. Mega Absol is of course really strong and you're usually going to find yourself in a kill or be killed scenario with it. Finally there is Gothitelle... who has Shadow Tag and Calm Mind. Meaning if there's any Pokemon on your team the AI has realized it can beat by switching in Gothitelle at any time... that Pokemon is as good as dead!
+So, with the goal of simply making sure that every one of your Pokemon stays alive? Weavile has a Focus Sash, meaning your lead for the whole gauntlet needs to be able to deal two hits of damage without dying (or switch). Mismagius is fast and if you make the mistake of letting it set up a Nasty Plot, there's a good chance it will claim a soul or two. Honchkrow is really nasty, with Sucker Punch allowing it to punish weakened Pokemon. Umbreon is annoyingly bulky, with Foul Play to hurt your physical attackers even more. Mega Absol is really strong, and you're usually going to find yourself in a kill or be killed scenario with it. Finally there is Gothitelle... who has Shadow Tag and Calm Mind. Meaning if there's any Pokemon on your team the AI has realized it can beat by switching in Gothitelle at any time... that Pokemon is as good as dead!
 
 So now you see the challenge this seemingly simple 6v6 fight offers. If you think you can beat the next fight with 4-5 Pokemon alive, feel free to try if you are having a hard time with this one. There are some general tips I recommend to make it through this one with minimal casualties, however. For Weavile, Fake Out, multi-hit moves, and Sandstorm are all viable ways to break the sash, so setting up your gauntlet team with one of these first in your party will probably help. Honchkrow likes to come in on a weakened Pokemon, so try to anticipate Sucker Punch and either switch or set up further if you can. Keep in mind if you're faster than Honchkrow, other priority moves like Quick Attack will go before Sucker Punch. Make sure you're always ready for a Gothitelle switch in, or maybe learn exactly when the AI will try to switch it in so you can pivot to something that can knock it out. Speed control, either by superior stats, Tailwind, Trick Room, etc., will then be key to one-shotting Mismagius and Absol before they can get you. If you are able to 2HKO Umbreon, it won't be able to heal itself, so making sure you have either a physical attacker that can live some Foul Plays or a really strong special attacker are key. Even though you already have to plan for other fights with your team... keeping these tips in mind will help you overcome this obstacle, hopefully.
 
@@ -12249,7 +12249,7 @@ This fight is a 12v10, with Hardy on your side. Shouldn't be too crazy with his 
     - Dragon Claw
     - Stone Edge
 
-After all this time, we finally get to fight Meteor's Leader Solaris, one-on-one. No field effects are in play this fight: it's just the raw power of basically a Gen 7 OU team versus yours. Staraptor with Intimidate that hits hard? Yep. Technician Scizor with ridiculously strong Bullet Punch? Yep. Dragon Dance Gyarados? Yep. Tyranitar and Excadrill sand core? Of course. And on top of all that is his Mega Garchomp. That is not a typo above: it really does have max EVs in every stat, thanks to its PULSE 2. Get used to these for the end game. Essentially what this means is Garchomp will hit hard but also be bulky enough to live a couple of attacks.
+After all this time, we finally get to fight Meteor's Leader Solaris, one-on-one. No field effects are in play this fight: it's just the raw power of basically a Gen 7 OU team versus yours. Staraptor with Intimidate that hits hard? Yep. Technician Scizor with ridiculously strong Bullet Punch? Yep. Dragon Dance Gyarados? Yep. Tyranitar and Excadrill sand core? It's there! And on top of all that is his Mega Garchomp. That is not a typo above: it really does have max EVs in every stat, thanks to its PULSE 2. Get used to these for the end game. Essentially what this means is Garchomp will hit hard but also be bulky enough to live a couple of attacks.
 
 At this point you also have a lot of mega Pokemon and Z-moves to your name. In particular, I find that the Icium-Z can often ensure a kill on Garchomp if you need. It's worth noting that he doesn't have a single special attack on his team... so you can focus your team entirely on physical defense. Some fast (or slow under Trick Room) special attackers running Fire, Ice, and Electric moves will be able to get 5 out of 6 of his party members super-effectively... leaving Tyranitar an excellent candidate for a Close Combat or something. I believe in your ability to defeat this guy!
 
@@ -12449,11 +12449,11 @@ The column containing 1 has two empty tiles that will add up to 14, meaning the 
 
 <img class="tabImage" src="/assets/media/reborn/magic_square_4.jpg"/>
 
-Of course, you can check that each row, column, and diagonal add up to 15 if you don't believe me. The final stipulation of this puzzle is that only the center can be the same across puzzles. To deal with this issue, I simply rotate the puzzle by 90 degrees: obviously the rows, columns, and diagonals all still add up to 15, but now each non-5 piece is in a different place.
+You can check that each row, column, and diagonal add up to 15 if you don't believe me. The final stipulation of this puzzle is that only the center can be the same across puzzles. To deal with this issue, I simply rotate the puzzle by 90 degrees: obviously the rows, columns, and diagonals all still add up to 15, but now each non-5 piece is in a different place.
 
 <img class="tabImage" src="/assets/media/reborn/magic_square_5.jpg"/>
 
-This is the solution we will solve for. Of course, due to rotations and reflections as mentioned before, one or both of your squares may look different from mine.
+This is the solution we will solve for. Due to rotations and reflections as mentioned before, one or both of your squares may look different from mine.
 
 ### Moving Pieces Into Place
 
@@ -13160,7 +13160,7 @@ Head up the ladder prepared for a tough battle.
 
 No field to worry about this time, just a fantastically put together mono-dark team of five with a PULSE monstrosity hiding in the back. Defeating Luna in the Glass Gauntlet should be adequate preparation for Zero's Pokemon: by now the core of Honchkrow, Weavile, and Umbreon should be familiar. Abusing Sucker Punch timing or faster priority to prevent a Honchkrow sweep, surviving a Weavile Ice Shard to kill it with something faster, and using a bulky Steel type to counter Umbreon are good places to start with these. Spiritomb plays a similar role to Umbreon, being bulky and punishing your physical attackers, but isn't too intense and can't do much to your own physical walls. Houndoom has a sash and likes to set up but isn't too bulky, meaning you can dent it then knock it out with some priority if you are able. 
 
-PULSE Clawitzer, of course, makes this fight a bit harder - he'll always send it out last. Although you may have a Pokemon able to withstand one base 120 Special-based attack, one use of any of three of its attacks will double its special attack thanks to Contrary. Another boost will basically allow it to eradicate any Pokemon you have. With its 252 base speed, you will not be able to outspeed it under normal circumstances at all, so it basically steamrolls most teams pretty easily. Therefore, the key to defeating Clawitzer is by taking advantage of the turns you have beforehand fighting Zero's other Pokemon to proactively put yourself into a winning condition. The obvious one you may think of by now is Trick Room - even if you're trading blow for blow, two or three really strong Dragon or Fairy type attacks will be able to knock it out, and you're basically guaranteed to go first in Trick Room, thanks to Clawitzer's insane speed stat. You can also take advantage of the first turn it is out, before it has any boosts, to suppress or change its ability: thereafter all of its moves except Origin Pulse will actually harm it, instead of helping it. Sturdy or Sash + Mirror Coat on a Pokemon with lots of HP may work too, just keep in mind it does have 252 base and max EV's in HP.
+PULSE Clawitzer makes this fight a bit harder - he'll always send it out last. Although you may have a Pokemon able to withstand one base 120 Special-based attack, one use of any of three of its attacks will double its special attack thanks to Contrary. Another boost will basically allow it to eradicate any Pokemon you have. With its 252 base speed, you will not be able to outspeed it under normal circumstances at all, so it basically steamrolls most teams pretty easily. Therefore, the key to defeating Clawitzer is by taking advantage of the turns you have beforehand fighting Zero's other Pokemon to proactively put yourself into a winning condition. The obvious one you may think of by now is Trick Room - even if you're trading blow for blow, two or three really strong Dragon or Fairy type attacks will be able to knock it out, and you're basically guaranteed to go first in Trick Room, thanks to Clawitzer's insane speed stat. You can also take advantage of the first turn it is out, before it has any boosts, to suppress or change its ability: thereafter all of its moves except Origin Pulse will actually harm it, instead of helping it. Sturdy or Sash + Mirror Coat on a Pokemon with lots of HP may work too, just keep in mind it does have 252 base and max EV's in HP.
 
 Once you defeat Zero, make your way back through the previous building. You'll notice some of the screens on the walls have changed, so keep in mind what they indicate. There are two secret numbers here: one is obvious, the other, not quite as much.
 
@@ -13493,7 +13493,7 @@ Once you beat it, the path to Saphira will open. Time for our eighteenth and fin
 
 Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokemon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokemon, as well. Garchomp will outspeed your team thanks to its Sash, and not a single Pokemon is a slacker that will let you easily set up on it.
 
-Of course, since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
+Since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
 Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100! 
 
@@ -13531,7 +13531,7 @@ Talk to Florinia back in the lobby, in the top right corner. After a long scene,
     - Stone Edge
     - Flamethrower
 
-An epic meme team. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then, of course, is FEAR Donphan hiding in the back. You can probably find a way through this one... but the fonts are gone! Better hope you know which moveslot contains which move.
+An epic meme team. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then you have FEAR Donphan hiding in the back. You can probably find a way through this one... but the fonts are gone! Better hope you know which moveslot contains which move.
 
 Once you beat M3G4 T3RR4 once more, exit the tournament building via the path in the top left.
 
@@ -14979,7 +14979,7 @@ Back down the rocks, enter the door at the top.
 |Golisopod          |1  |
 |Electivire         |1  |
 
-Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and of course the 3 *Emerald Stars*. You can also find one more spirit by climbing a hill in the middle and using the Green Crystal Key.
+Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and the 3 *Emerald Stars*. You can also find one more spirit by climbing a hill in the middle and using the Green Crystal Key.
 
 **Wandering Spirit Tenshi. Field: Grassy Terrain**
 - Metagross, Lv. 95, @Assault Vest, Ability: Clear Body, Brave Nature, IVs: 31, EVs: 0/252/4/0/252/0
@@ -15080,7 +15080,7 @@ Once you're done, enter the room at the bottom right.
 |Tsareena           |1  |
 |Houndoom           |1  |
 
-Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and of course the 3 *Amethyst Stars*. Return to the hub room.
+Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and the 3 *Amethyst Stars*. Return to the hub room.
 
 ### Victory over Victory Road
 
@@ -15335,7 +15335,7 @@ Take the *Emerald Brooch* and proceed to the next room.
     - Psychic
     - Cosmic Power
 
-The last Elite Four member is a child who will destroy your team with her Psychic and Fairy types on top of the Starlight Arena. Of course, Psychic and Fairy moves are boosted here, and Dark moves get a Fairy subtyping, taking away one of Metagross' weaknesses. There are further boosts for Ninetales' Aurora Beam, Gardevoir's Signal Beam, Starmie's Flash Cannon, Gardevoir and Ninetales' Moonblast, Sylveon's Swift, and a massive boost for Mega Metagross' Meteor Mash that shreds almost any Pokemon that doesn't resist it. Starmie with its seed and ability gets +3 SpA upon switch in, which paired with its high speed and coverage moves, means danger. Defensively, Cosmic Power and Wish are boosted, so Sylveon and Jirachi can potentially tank you. Ninetales' Aurora Veil is also always enabled.
+The last Elite Four member is a child who will destroy your team with her Psychic and Fairy types on top of the Starlight Arena. Psychic and Fairy moves are boosted here, and Dark moves get a Fairy subtyping, taking away one of Metagross' weaknesses. There are further boosts for Ninetales' Aurora Beam, Gardevoir's Signal Beam, Starmie's Flash Cannon, Gardevoir and Ninetales' Moonblast, Sylveon's Swift, and a massive boost for Mega Metagross' Meteor Mash that shreds almost any Pokemon that doesn't resist it. Starmie with its seed and ability gets +3 SpA upon switch in, which paired with its high speed and coverage moves, means danger. Defensively, Cosmic Power and Wish are boosted, so Sylveon and Jirachi can potentially tank you. Ninetales' Aurora Veil is also always enabled.
 
 If you want to win this one, as usual I think you can get away with taking advantage of the field yourself. Your own Meteor Mash, Mirror Shot, and Moonblast can all be potentially viable here. Wish and Moonlight heal more than usual, and Cosmic Power works for you too, so you can take advantage of the lack of priority aside from Bullet Punch to set up a tank of your own. Any weather condition will turn off the type boosts and the Fairy subtyping for Dark moves, so if you want to neuter her offensive power to some extent you can change the weather. We can't destroy the field or change it naturally, so make use of your teams synergy and the field effect to win this one.
 
@@ -15448,9 +15448,9 @@ Let me first pause to make fun of some of you. Did you create your team largely 
 
 So, onto the fight itself. Power Gem, Earth Power, Draco Meteor, Dazzling Gleam, Flash Cannon, and Dark type moves are all boosted here. All of her Pokemon have at least one of these. The New World Field also has this thing where grounded Pokemon have three-quarters speed and levitating Pokemon have slightly lowered Defenses. Lin having 4/5 non-grounded Pokemon essentially means unless you have a lot of them too, you're going to basically be losing speed battles you'd otherwise win. The defense drop is cancelled out on her Pokemon by virtue of the PULSE2 adding defenses to the sweepers anyways. 
 
-As for the team itself, it's real good. Mismagius is a cruel lead, taking advantage of the field boosts and speed nerf to hit fast and hard. Honchkrow is there to ruin your sweeper's day, getting off Sucker Punch to probably knock you out and snowball into a sweep. Clefable does usual Clefable things: saying NOPE to your boosts, getting double Cosmic Power boosts, and laughing in your crying face. Flygon (on Anna Route) and Hydreigon like to mercilessly overwhelm your Pokemon with their wide coverage. And, of course, she also has our first enemy Ultra Beast... ugh. This thing is super tanky, has a STAB boosted move in Flash Cannon and good coverage in Flamethrower and Giga Drain, and also carries Leech Seed just in case you thought you were smart about using a tanky Pokemon of some kind. And the most cursed ability ever: Beast Boost, which will raise its SpA in this case.
+As for the team itself, it's real good. Mismagius is a cruel lead, taking advantage of the field boosts and speed nerf to hit fast and hard. Honchkrow is there to ruin your sweeper's day, getting off Sucker Punch to probably knock you out and snowball into a sweep. Clefable does usual Clefable things: saying NOPE to your boosts, getting double Cosmic Power boosts, and laughing in your crying face. Flygon (on Anna Route) and Hydreigon like to mercilessly overwhelm your Pokemon with their wide coverage. She also has the first enemy Ultra Beast... ugh. This thing is super tanky, has a STAB boosted move in Flash Cannon and good coverage in Flamethrower and Giga Drain, and also carries Leech Seed just in case you thought you were smart about using a tanky Pokemon of some kind. And the most cursed ability ever: Beast Boost, which will raise its SpA in this case.
 
-You'll notice that I haven't mentioned the puppy in the room. It seems like the route that so far is harder to get into has an easier time with this fight, and that's true... sorta. While Anna Route gets PULSE Arceus replaced by Flygon, winning the first, easier fight will actually send you right into another fight. Of course, no healing or switching your team around in between.
+You'll notice that I haven't mentioned the puppy in the room. It seems like the route that so far is harder to get into has an easier time with this fight, and that's true... sorta. While Anna Route gets PULSE Arceus replaced by Flygon, winning the first, easier fight will actually send you right into another fight. No healing or switching your team around in between.
 
 **Mordant Urchin Lin (3x Full Restore). Field: New World**
 - Arceus, Lv. 100, @Darkinium-Z, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -16247,7 +16247,7 @@ Once you're done and try to head out of this area, if you gave Blake the Ruby Ri
     - Psychic
     - Sludge Wave
 
-Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokemon but have weakened defenses. Celesteela, of course, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and of course Trick Room for this one.
+Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokemon but have weakened defenses. Celesteela, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and Trick Room for this one.
 
 **Relationship Point Choices:**
 - After giving Blake the ring, defeat Umbral Ciel (+1 Ciel)
@@ -16277,7 +16277,7 @@ Fly over to Spinel Town, then make your way to the train in the bottom side of t
 |Snorlax            |1  |
 |**Guzzlord**       |1  |
 
-The Ultra Beasts are wild, so keep an eye out. Magnetic Lure, of course, makes getting one easier.
+The Ultra Beasts are wild, so keep an eye out. Magnetic Lure makes getting one easier.
 
 Follow the path and exit through the New World Door on the other side.
 
@@ -16420,7 +16420,7 @@ So yeah this one is really hard. Two megas! Two entire teams that are specifical
 
 Anyways, I think there are two strategies to consider. The first, while not that simple as mentioned earlier, is simply to smash the field and just overwhelm your opponents with a very well prepared doubles team. Setting up a sweeper or two with speed and good coverage can be difficult to pull off, but can make it work. A lot of the team relies on Physical moves this time, so if you can deal with Kartana's Brick Break, Reflect can be helpful here.
 
-Alternatively, you can try to use the Chess Arena to your own benefit. Of course, having two pawns means you get free Focus Sashes to try to develop some momentum, though Cloyster's multi-hit moves do make this difficult. Setting up a good hard-hitting King via the King's Rock can be crucial, especially if they are on the slower side.
+Alternatively, you can try to use the Chess Arena to your own benefit. Having two pawns means you get free Focus Sashes to try to develop some momentum, though Cloyster's multi-hit moves do make this difficult. Setting up a good hard-hitting King via the King's Rock can be crucial, especially if they are on the slower side.
 
 Either approach may yield you results but don't be afraid to try, try again, try again more times, cry, and try again. Eventually you'll probably succeed.
 
@@ -16574,7 +16574,7 @@ Surf across, push the boulder out of the way, then jump down to the basement flo
     - Dragon Pulse
     - Thunderbolt
 
-Another anomaly fight. If you could make it here, I'm sure this one won't be too intense. Of course, field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, but surely you can find a way to gain momentum and win this one.
+Another anomaly fight. If you could make it here, I'm sure this one won't be too intense. Field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, but surely you can find a way to gain momentum and win this one.
 
 After winning, you'll be able to fight **Volcanion**. Exit and return to the Nightclub once you're done.
 
@@ -17309,7 +17309,7 @@ Talk to Celebi to proceed to the next area.
     - Night Slash
     - Psycho Cut
 
-I wonder if Amethyst likes Alolan Ninetales? And Fairy and Dark types? Boosted on the Starlight Arena? Of course, with the wrinkle of Mega Lopunny to consider, this shouldn't be too insane for anyone who could beat Anna earlier.
+I wonder if Amethyst likes Alolan Ninetales? And Fairy and Dark types? Boosted on the Starlight Arena? With the wrinkle of Mega Lopunny to consider, this shouldn't be too insane for anyone who could beat Anna earlier.
 
 Celebi will take you ahead in time once more.
 
@@ -17685,7 +17685,7 @@ Jump through the portal. You'll find yourself back in the Route 4 New World - fo
 
 You'll next find yourself in the Vanhanen Castle New World - straight up from here is the portal. Follow the path in the New World Route 2 until the fork, then go left. Enter the door to find the next ring.
 
-You'll find yourself now in New World Route 3. Prepare yourself, then make your way to the Keldeo beach fight area. Of course it would be this field, because you now get to fight:
+You'll find yourself now in New World Route 3. Prepare yourself, then make your way to the Keldeo beach fight area. You now get to fight:
 
 **Umbral Terra. Field: Ashen Beach**
 - Claydol, Lv. 120, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -18247,7 +18247,7 @@ In the next room, use the Light Shard and grab the hidden *Dusk Ball* and *Max R
     - Sunsteel Strike
     - Dazzling Gleam
 
-Of course, these two don't make up a massive team, but are surely a huge pain. Try to get rid of Diancie on the first turn: the simplest way is probably using the Steelium-Z. Afterward, two at a time, you'll have to wear down the Crystal Aegislash. Knocking down one of its defensive stats may be useful - due to its massive HP, Counter and Mirror Coat may not be as effective. Endeavor, Destiny Bond, etc. are all excellent here as well. Or, the fun way: changing the field to Cave and collapsing it!
+These two don't make up a massive team, but are quite a huge pain. Try to get rid of Diancie on the first turn: the simplest way is probably using the Steelium-Z. Afterward, two at a time, you'll have to wear down the Crystal Aegislash. Knocking down one of its defensive stats may be useful - due to its massive HP, Counter and Mirror Coat may not be as effective. Endeavor, Destiny Bond, etc. are all excellent here as well. Or, the fun way: changing the field to Cave and collapsing it!
 
 Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Return to the Nightclub!
 
@@ -18463,7 +18463,7 @@ The path from here contains a *Relic Copper* but also two *Relic Silvers*! Use t
     - Water Pulse
     - Dazzling Gleam
 
-A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs, Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed, and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. Of course, these Pokemon have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge. 
+A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs, Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed, and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. These Pokemon do have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge. 
 
 If you want to run with the field, you can use your own Water types and carefully navigate a sweep. One alternative, fun idea is to bring a fast Flying or Water type to use Fly or Dive to bring the fight to the Water Surface, which takes away the crazy speed difference and takes away the type changes on the four. Then you can sweep more "normally" or switch again to Murkwater or Icy Field if you feel like it.
 
@@ -19283,7 +19283,7 @@ Following this path, open the shutter at the bottom. Returning to the center, sw
     - Zap Cannon
     - Giga Drain
 
-Of course, this one is themed around the Chill Drive. With Cain as an ally, thankfully this isn't too bad. We've dealt with Alolan Ninetales leads like 234901348 times by now, so I'm sure you can figure this one out. It helps that all but Aurorus and Porygon-Z are weak to Fire. 
+This one is themed around the Chill Drive. With Cain as an ally, thankfully this isn't too bad. We've dealt with Alolan Ninetales leads like 234901348 times by now, so I'm sure you can figure this one out. It helps that all but Aurorus and Porygon-Z are weak to Fire. 
 
 Win to get the *Chill Drive*. Return to the center and insert it. Also, reinsert the Shock Drive and use the shutter terminal at the bottom. Head up and talk to Aya. Follow the path to the left and activate the shutter.
 
@@ -21113,7 +21113,7 @@ You'll get confirmation from Serra once you're successful. Activate Blue again t
     - Moongeist Beam
     - Earth Power
 
-All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. Of course, all of them share the Psychic type, so you can try to sweep with Ghost and Dark moves or something.
+All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. All of them share the Psychic type, so you can try to sweep with Ghost and Dark moves or something.
 
 Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
 
@@ -21873,7 +21873,7 @@ Talk to Noel towards the top, then attempt to exit once you're ready for one mor
     - Psychic
     - Energy Ball
 
-The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokemon will be a pain to take out. Unless, of course, you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
+The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokemon will be a pain to take out... unless you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
 
 Once you win, accept the fast travel request to return to the Nightclub. Now that we have rescued Eclipse, fly over to Calcenon City and enter her father's house. After a scene inside, Eclipse will give you the *Mewtwonite X* and the *Mewtwonite Y*! You can also talk to the father to get the password: *shinycharm*. Nice.
 
