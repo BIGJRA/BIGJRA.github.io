@@ -2040,6 +2040,11 @@ Enter the door above and to the right and talk to the girl for a *Telluric Seed*
 - Cyndaquil, Lv. 17, Serious Nature, IVs: 10
 - Larvitar, Lv. 17, Serious Nature, IVs: 10
 
+**Hotshot Skye. Field: No Field**
+- Eevee, Lv. 19, Serious Nature, IVs: 10
+- Oshawott, Lv. 19, Serious Nature, IVs: 10
+- Phanpy, Lv. 20, Serious Nature, IVs: 10
+
 Proceed to the left a few rooms for another rival battle.
 
 **Swag Jockey Fern (2x Super Potion). Field: No Field**
@@ -2140,6 +2145,65 @@ After talking to it in the apartment in South Obsidia Ward it will randomly go t
 
 Once you find it, head back to the Onyx Ward. To the left of the Move Relearner house, you'll see the owner with it. You can then obtain **Lillipup**.
 
+## Grand Hall Trainers 2
+
+After defeating Julia, the Grand Hall trainers have gotten stronger. Defeating them will now yield 4 *Exp. Candy S*! The updated teams are as follows:
+
+**Arcade Star Carol (SUN). Field: No Field**
+- Croconaw, Lv. 22, Serious Nature, IVs: 10
+- Furret, Lv. 23, Serious Nature, IVs: 10
+- Bayleef, Lv. 23, Serious Nature, IVs: 10
+
+**Hotshot Fawkes (SUN). Field: No Field**
+- Honedge, Lv. 20, Serious Nature, IVs: 10
+- Quilava, Lv. 21, Serious Nature, IVs: 10
+- Frogadier, Lv. 22, Serious Nature, IVs: 10
+
+**Casanova Gibson (SUN). Field: No Field**
+- Cranidos, Lv. 20, Serious Nature, IVs: 10
+- Sawk, Lv. 20, Ability: Inner Focus, Serious Nature, IVs: 10
+- Kabuto, Lv. 22, Serious Nature, IVs: 10
+
+**Youngster Jonah (MON). Field: No Field**
+- Squirtle, Lv. 20, Serious Nature, IVs: 10
+- Squirtle, Lv. 21, Serious Nature, IVs: 10
+- Wartortle, Lv. 22, Serious Nature, IVs: 10
+
+**Hotshot Jace (TUE). Field: No Field**
+- Drifloon, Lv. 21, Serious Nature, IVs: 10
+- Watchog, Lv. 21, Serious Nature, IVs: 10
+- Pawniard, Lv. 22, Serious Nature, IVs: 10
+
+**Psychic Silva (WED). Field: No Field**
+- Mawile, Lv. 22, Serious Nature, IVs: 10
+- Natu, Lv. 23, Serious Nature, IVs: 10
+
+**Elder JB (THU). Field: No Field**
+- Braixen, Lv. 21, Serious Nature, IVs: 10
+- Frogadier, Lv. 21, Serious Nature, IVs: 10
+- Goomy, Lv. 20, Serious Nature, IVs: 10
+
+**Techie Will (FRI). Field: No Field**
+- Grovyle, Lv. 21, Serious Nature, IVs: 10
+- Charmeleon, Lv. 21, Serious Nature, IVs: 10
+- Kirlia, Lv. 21, Serious Nature, IVs: 10
+
+**Elder Anthony (SAT). Field: No Field**
+- Rufflet, Lv. 23, Serious Nature, IVs: 10
+- Gible, Lv. 24, Serious Nature, IVs: 10
+  
+**Hotshot Emile (SAT). Field: No Field**
+- Servine, Lv. 20, Serious Nature, IVs: 10
+- Kirlia, Lv. 22, Serious Nature, IVs: 10
+- Quilava, Lv. 21, Serious Nature, IVs: 10
+- Nidorino, Lv. 22, Serious Nature, IVs: 10
+
+**Casanova Zach & Lady Beau (SAT). Field: No Field**
+- Solosis, Lv. 21, Serious Nature, IVs: 10
+- Ivysaur, Lv. 23, Serious Nature, IVs: 10
+- Jigglypuff, Lv. 23, Serious Nature, IVs: 10
+- Togetic, Lv. 24, Serious Nature, IVs: 10
+
 ## Canopy Badge
 
 With all that out of the way we can head back to the gym. In order to battle Florinia, we're gonna need to answer all the quiz questions. The answers are here, from right to left:
@@ -2225,6 +2289,12 @@ Head left and take the elevator down to B1F. Immediately head left and go up, fo
 
 Back in Opal Ward, specifically if you randomly got Clamperl earlier in Onyx Ward, a person near the water at the bottom will give you a *Deep Sea Tooth* or a *Deep Sea Scale*, randomly determined.
 
+There is also a new trainer on the Opal Bridge:
+
+**Youngster Bart. Field: No Field**
+- Kakuna, Lv. 19, Serious Nature, IVs: 10
+- Trumbeak, Lv. 20, Serious Nature, IVs: 10
+
 Finally, head to the apartment in the top left corner of Peridot Ward. Now that we have two badges we can finally take home **Snubbull** or **Stufful**, randomly determined.
 
 ## Jasper Ward & Malchous Forest Park
@@ -2248,9 +2318,41 @@ Talk to Corey and Heather here, then head into the police station. Talk to the c
 
 In general, I will mention story splits and how choices affect post-game route availability just so you can keep your options open.
 
-Grab a hidden *Super Potion* outside then enter the building here, then exit through the top. Outside you'll find a Pokemon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
+Outside, you'll find a Meteor Grunt to the right.
 
-Head back down into the building below and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building. Head outside at the bottom.
+**Meteor Grunt Simon. Field: No Field**
+- Mudbray, Lv. 19, Serious Nature, IVs: 10
+- Grimer-Alola, Lv. 21, Serious Nature, IVs: 10
+
+To the left, grab a hidden *Super Potion*. At night you can fight a cop.
+
+**Police Officer Joe. Field: No Field**
+- Growlithe, Lv. 23, Serious Nature, IVs: 10
+- Growlithe, Lv. 23, Serious Nature, IVs: 10
+
+Enter the building here. 
+
+**Hotshot Ross. Field: No Field**
+- Spewpa, Lv. 19, Serious Nature, IVs: 10
+    - Tackle
+    - Harden
+    - Protect
+- Metapod, Lv. 19, Serious Nature, IVs: 10
+    - Tackle
+    - Harden
+
+**Street Rat Morrison. Field: No Field**
+- Kricketune, Lv. 22, Serious Nature, IVs: 10
+
+Exit through the top, where you'll find a Pokemon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
+
+Head back down into the building below and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building. 
+
+**Meteor Grunt Tara. Field: No Field**
+- Venipede, Lv. 20, Serious Nature, IVs: 10
+- Golbat, Lv. 21, Serious Nature, IVs: 10
+
+Head outside at the bottom.
 
 **Relationship Point Choices:**
 - Yes (+1 Heather)
@@ -2271,15 +2373,31 @@ Head to the left into the Forest Park.
 |**Pansage**       |1  |**Pansage**       |9  |Carnivine         |5  |
 |                  |   |Carnivine         |1  |                  |   |
 
-Head towards the center of the area, and chop the wiggly tree nearby. Following the path that this opens up, you can grab hidden *X Speed, Full Heal,* and *Telluric Seed*. Chop the two wiggly trees nearby and receive a *Super Potion* from Heather.
+Head towards the center of the area, and chop the wiggly tree nearby. Following the path that this opens up below, you can grab hidden *X Speed*, *Full Heal,* and *Telluric Seed*. Chop the wiggly tree to the right nearby and receive a *Super Potion* from Heather, then chop the wiggly tree immediately to the left.
 
-Double back around to the path on top, defeat a grunt then chop the tree. Down from here you can now head left, so battle a grunt and proceed. 
+From here, backtrack to the entrance of the forest. Go up and left, choosing to go left instead of climbing the two-tile wide set of stairs. Follow this path up and climb three sets of stairs: you'll see a Meteor Grunt here. 
 
-Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined.
+**Meteor Grunt Ringo. Field: Forest Field**
+- Venipede, Lv. 21, Serious Nature, IVs: 10
+- Lunatone, Lv. 22, Serious Nature, IVs: 10
 
-Head back down, defeat the grunts, then go down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*. 
+Chop down the wiggly tree here. Down just one set of stairs, you can now head left to find another grunt.
 
-Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M*. Head up for a battle. 
+**Meteor Grunt Rod. Field: Forest Field**
+- Beedrill, Lv. 21, Serious Nature, IVs: 10
+- Solrock, Lv. 22, Serious Nature, IVs: 10
+
+Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined. Head back from here and fight the grunts.
+
+**Meteor Grunt Regina & Meteor Grunt Gretchen. Field: Forest Field**
+- Steenee, Lv. 21, Serious Nature, IVs: 10
+- Servine, Lv. 21, Serious Nature, IVs: 10
+- Skitty, Lv. 20, Serious Nature, IVs: 10
+- Helioptile, Lv. 21, Serious Nature, IVs: 10
+
+Go right and down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*. 
+
+Head back up, talk to Heather for a heal, then climb the vines on the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M* (minor, but missable if you don't grab them right now). Head up for a battle. 
 
 **Meteor Admin Taka (Super Potion). Field: Rocky Field**
 - Exeggcute, Lv. 22, Ability: Harvest, IVs: 10
@@ -2298,11 +2416,16 @@ Head back up, talk to Heather for a heal, then climb the nearby pillar, hop over
     - Sand Tomb
     - Rock Tomb
 
-Taka will fight you on the Rocky Field. We don't have details on this field yet, but you will observe that Rock Tomb will be stronger here. The Telluric Seed can be helpful here: by testing it you'll notice that it raises Defense but does Stealth Rock damage. Since Exeggcute doesn't hit that hard you can take the chance to set up on it and then hit Tangrowth hard. This entire team is weak to Ice, so keep that in mind.
+Taka will fight you on the Rocky Field. We don't have the notes for this field yet, but you will observe that Rock Tomb will be stronger here. The Telluric Seed can be helpful here: by testing it you'll notice that it raises Defense but does Stealth Rock damage. Since Exeggcute doesn't hit that hard you can take the chance to set up offenses on it, then you can hit the slow PULSE Tangrowth hard. Also, this entire team is weak to Ice.
 
 After the battle, you'll be sent outside. Answer Corey how you like here, then grab hidden *X Defend* and *Green Shard* as well as a *Big Root*.
 
-Exit Malchous Forest Park in the top right corner. In the first house, you'll be able to defeat a Meteor Grunt to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
+Exit Malchous Forest Park in the top right corner. In the first house, you'll find a grunt. 
+
+**Meteor Grunt Ray. Field: No Field**
+- Raticate-Alola, Lv. 22, Serious Nature, IVs: 10
+
+Defeat him to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 
 Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *PokeSnax*.
 
@@ -2389,6 +2512,10 @@ The jungle is huge, so I explain the results of this choice first, guide both ro
 
 If you were trapped in a cage, read on, otherwise, jump to the next section.
 
+Roughly, you'll want to follow the blue path in the following image:
+
+<img src="/assets/media/reborn/cagepath.png"/>
+
 You'll wake up in a cage and Fern will taunt you here.
 
 **Relationship Point Choices:**
@@ -2416,7 +2543,7 @@ Head east from here, and go slightly south once you reach a Meteor Grunt. Contin
 
 If you managed to carefully sneak around the grunts, read on, otherwise jump to the next section.
 
-Head up and to the right and you'll find Fern. 
+Head up the stairs on the right, and you'll find Fern. 
 
 **Relationship Point Choices:**
 - Talked to Fern atop the hill (+1 Fern)
@@ -2425,7 +2552,9 @@ The building to your right is a healing house, should you need it.
 
 ### Exploring the Jungle
 
-Now, regardless of your choice you should be in the same place, so I can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
+Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
+
+<img src="/assets/media/reborn/rhodo1.png"/>
 
 Head back up and go left. Here you'll see a gentleman, and in this area a hidden *Liechi Berry* and *Great Ball*. Up a hill in the top right part of this valley you can chop a wiggly tree.
 
