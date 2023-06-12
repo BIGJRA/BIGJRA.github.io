@@ -3601,23 +3601,6 @@
     - Hidden Power
     - Air Slash
 
-**Pokemon Swarm. Field: **
-- Venipede, Lv. 34, Ability: Poison Point, Serious Nature, IVs: 10
-    - Toxic
-    - Protect
-    - Venoshock
-    - Bug Bite
-- Venipede, Lv. 34, Ability: Swarm, Serious Nature, IVs: 10
-    - Poison Tail
-    - Pursuit
-    - Rollout
-    - Bug Bite
-- Scolipede, Lv. 42, @Muscle Band, Ability: Speed Boost, Serious Nature, IVs: 10
-    - Steamroller
-    - Poison Tail
-    - Pursuit
-    - Rollout
-
 **Pokemon Savage. Field: **
 - Beartic, Lv. 65, Serious Nature, IVs: 10
 
@@ -4323,10 +4306,6 @@
     - Stone Edge
     - Poison Jab
 
-**Meteor Grunt Bruno. Field: **
-- Growlithe, Lv. 22, Serious Nature, IVs: 10
-- Herdier, Lv. 23, Serious Nature, IVs: 10
-
 **Meteor Ace Bruno. Field: **
 - Arcanine, Lv. 69, Ability: Intimidate, Serious Nature, IVs: 10
     - Heat Wave
@@ -4549,10 +4528,6 @@
     - Dragon Tail
 
 **Meteor Grunt Coleman. Field: **
-- Timburr, Lv. 22, Serious Nature, IVs: 10
-- Steenee, Lv. 24, Serious Nature, IVs: 10
-
-**Meteor Grunt Coleman. Field: **
 - Golbat, Lv. 41, Serious Nature, IVs: 10
 - Gurdurr, Lv. 41, Serious Nature, IVs: 10
 - Tsareena, Lv. 42, Serious Nature, IVs: 10
@@ -4561,10 +4536,6 @@
 - Golbat, Lv. 47, Serious Nature, IVs: 10
 - Gurdurr, Lv. 47, Serious Nature, IVs: 10
 - Tsareena, Lv. 48, Serious Nature, IVs: 10
-
-**Meteor Grunt Mary. Field: **
-- Mareanie, Lv. 23, Serious Nature, IVs: 10
-- Boldore, Lv. 23, Serious Nature, IVs: 10
 
 **Meteor Grunt Mary. Field: **
 - Toxapex, Lv. 41, Serious Nature, IVs: 10
@@ -4908,9 +4879,6 @@
     - Surf
 
 **Meteor Grunt Kenneth. Field: **
-- Pignite, Lv. 24, Serious Nature, IVs: 10
-
-**Meteor Grunt Kenneth. Field: **
 - Mothim, Lv. 42, Serious Nature, IVs: 10
 - Emboar, Lv. 43, Serious Nature, IVs: 10
 
@@ -4918,10 +4886,6 @@
 - Minior, Lv. 52, Serious Nature, IVs: 10
 - Mothim, Lv. 52, Serious Nature, IVs: 10
 - Emboar, Lv. 53, Serious Nature, IVs: 10
-
-**Meteor Grunt Brenna. Field: **
-- Emolga, Lv. 23, Serious Nature, IVs: 10
-- Dewott, Lv. 23, Serious Nature, IVs: 10
 
 **Meteor Grunt Brenna. Field: **
 - Emolga, Lv. 41, Serious Nature, IVs: 10
@@ -6079,25 +6043,6 @@
 - Toxapex, Lv. 37, Serious Nature, IVs: 10
 - Lapras, Lv. 37, Serious Nature, IVs: 10
 - Sharpedo, Lv. 38, Serious Nature, IVs: 10
-
-**Ranger Endow. Field: **
-- Tranquill, Lv. 25, Serious Nature, IVs: 10
-- Ivysaur, Lv. 26, Serious Nature, IVs: 10
-
-**Gentleman Ben. Field: **
-- Bagon, Lv. 25, Serious Nature, IVs: 10
-- Munchlax, Lv. 26, Serious Nature, IVs: 10
-
-**Police Officer Lambert. Field: **
-- Herdier, Lv. 27, Serious Nature, IVs: 10
-- Growlithe, Lv. 27, Serious Nature, IVs: 10
-
-**Police Officer Jameson. Field: **
-- Growlithe, Lv. 28, Serious Nature, IVs: 10
-
-**Police Officer Blackwell. Field: **
-- Flaaffy, Lv. 27, Serious Nature, IVs: 10
-- Growlithe, Lv. 28, Serious Nature, IVs: 10
 
 **Psychic Inuki. Field: **
 - Porygon2, Lv. 26, Serious Nature, IVs: 10

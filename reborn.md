@@ -21,6 +21,7 @@ title: |
   - [Coral Ward](#coral-ward)
   - [Obsidia Park](#obsidia-park)
   - [Onyx Ward](#onyx-ward)
+  - [Grand Hall Trainers 2](#grand-hall-trainers-2)
   - [Canopy Badge](#canopy-badge)
 - [Episode 3: Domino](#episode-3-domino)
   - [2 Badge Quests](#2-badge-quests)
@@ -2147,7 +2148,7 @@ Once you find it, head back to the Onyx Ward. To the left of the Move Relearner 
 
 ## Grand Hall Trainers 2
 
-After defeating Julia, the Grand Hall trainers have gotten stronger. Defeating them will now yield 4 *Exp. Candy S*! The updated teams are as follows:
+After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defeating them will now yield 4 *Exp. Candy S*! The updated teams are as follows:
 
 **Arcade Star Carol (SUN). Field: No Field**
 - Croconaw, Lv. 22, Serious Nature, IVs: 10
@@ -2552,23 +2553,62 @@ The building to your right is a healing house, should you need it.
 
 ### Exploring the Jungle
 
-Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue. Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
+Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue. 
 
 <img class="tabImage" src="/assets/media/reborn/rhodo1.png"/>
 
-Head back up and go left. Here you'll see a gentleman, and in this area a hidden *Liechi Berry* and *Great Ball*. Up a hill in the top right part of this valley you can chop a wiggly tree.
+Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west. 
 
-Head back down the hill after the scene and go to the left. On this next hill you can obtain a hidden *X Speed*. To the northeast you'll find a hidden *Antidote*. Head back down.
+<img class="tabImage" src="/assets/media/reborn/rhodo2.png"/>
 
-We'll get to the cave entrance at the top later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
+Head back up and go left. Here you'll see a gentleman.
 
-Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. After you grab the readout, step on the trap here. This brings us to the Underroot - but we will explore this area fully in a little bit. For now, grab the hidden *Exp. Candy S* in a rock to the right, jump down the ledge and take the stairs here to return to the familiar part of the jungle.
+**Gentleman Ben. Field: Forest Field**
+- Bagon, Lv. 25, Serious Nature, IVs: 10
+- Munchlax, Lv. 26, Serious Nature, IVs: 10
 
-That's it for this branch of the jungle - for now, we're gonna head all the way back to the healing house from earlier. Go straight down from here and follow the path across the bridge. Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
+**Meteor Grunt Coleman. Field: Forest Field**
+- Timburr, Lv. 22, Serious Nature, IVs: 10
+- Steenee, Lv. 24, Serious Nature, IVs: 10
 
-Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*.
+In this area you can find a hidden *Liechi Berry* and *Great Ball*. To the right of the grunt, climb the hill and chop a wiggly tree.
 
-Take the other path of the fork now. You'll find a hidden *Calcium* here. Head to the left across the bridge and pick up an *Exp. Candy M*. Specifically on sunny days, you can battle and catch **Tropius** here as well. It's very strong for this point in the game, so be careful.
+<img class="tabImage" src="/assets/media/reborn/rhodo3.png"/>
+
+Head back down the hill after the scene and go to the left. 
+
+**Meteor Grunt Kenneth. Field: Forest Field**
+- Pignite, Lv. 24, Serious Nature, IVs: 10
+
+On this next hill you can obtain a hidden *X Speed*. Climbing stairs to the northeast will lead to a hidden *Antidote*. We'll get to the cave entrance at the top of this area later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
+
+<img class="tabImage" src="/assets/media/reborn/rhodo4.png"/>
+
+Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. *After* you grab the readout, step on the trap. 
+
+This brings us to the Underroot - but we will explore this area fully in a little bit. For now, grab the hidden *Exp. Candy S* in a rock to the right, jump down the ledge and take the stairs here to return to a familiar part of the jungle.
+
+Our next move is going to be to head all the way back to the healing house from earlier by going down, right at the gentleman, then up the hill to the right. Heal if you'd like. 
+
+<img class="tabImage" src="/assets/media/reborn/rhodo5.png"/>
+
+Go straight down from here and follow the path across the bridge. 
+
+**Meteor Grunt Mary. Field: Forest Field**
+- Mareanie, Lv. 23, Serious Nature, IVs: 10
+- Boldore, Lv. 23, Serious Nature, IVs: 10
+
+Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
+
+<img class="tabImage" src="/assets/media/reborn/rhodo6.png"/>
+
+Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*. Take the other path of the fork now. 
+
+**Ranger Endow. Field: Forest Field**
+- Tranquill, Lv. 25, Serious Nature, IVs: 10
+- Ivysaur, Lv. 26, Serious Nature, IVs: 10 
+ 
+You'll find a hidden *Calcium* here. Head to the left across the bridge and pick up an *Exp. Candy M*. Specifically on sunny days, you can battle and catch **Tropius** here as well. It's very strong for this point in the game, so be careful.
 
 Head back across the bridge, and from here go down to find a hidden *Purple Shard* and a *Great Ball*. That pretty much covers the part of the jungle we have been able to access for now, so it's time to explore the Underroot. Nearby you'll see a trap spot on the ground, step on it to fall in.
 
@@ -2603,7 +2643,13 @@ Follow the path all the way down and to the right. Inside a house here is a lady
 |-----------|-----|
 |Giga Drain |Free |
 
-Before we leave this section of jungle, there is a broken building with some lights on to the left. Enter this building and defeat a Team Meteor Grunt to free Police Officer #3.
+Before we leave this section of jungle, there is a broken building with some lights on to the left. 
+
+**Meteor Grunt Bruno. Field: No Field**
+- Growlithe, Lv. 22, Serious Nature, IVs: 10
+- Herdier, Lv. 23, Serious Nature, IVs: 10
+
+Defeat him to free Police Officer #3.
 
 Back in the Underroot go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
 
@@ -2626,7 +2672,13 @@ Enter the left room of the library if you'd like. Inside you'll meet a man.
 **Relationship Point Choices:**
 - Talk to Radomus in the library (+1 Radomus)
 
-Back outside, chop the tree to your left and enter the felled building. Beat the grunt and re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
+Back outside, chop the tree to your left and enter the felled building.
+
+**Meteor Grunt Brenna. Field: No Field**
+- Emolga, Lv. 23, Serious Nature, IVs: 10
+- Dewott, Lv. 23, Serious Nature, IVs: 10
+
+Re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
 
 **Relationship Point Choices:**
 - Talk to Amaria in the jungle (+1 Amaria)
@@ -2664,9 +2716,9 @@ Prepare your team as necessary, and head up.
     - Stored Power
     - Rock Tomb
 
-Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokemon in this guide, but that Pokemon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia as we've seen with Fern is a hard hitting and healing monster in the early game. With the PULSE in the back, this can be a tough fight, especially if you're not careful and let it use double-power Growth and/or let it collect Stamina boosts, since then it bowls you over with Stored Power and Mega Drain.
+Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokemon in this guide, but that Pokemon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia, as we've seen with Fern, is a hard hitting and healing monster in the early game. Be extra careful with Tangrowth: it likes to get boosts from double-strength Growth and Stamina, then hit hard with Stored Power. 
 
-One thing to consider is that past Braixen a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to light the field up and watch their time minus Braixen and Baltoy burn passively each turn.
+One thing to consider is that past Braixen a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to transform the field to Burning and watch their team, minus Braixen and Baltoy, burn passively each turn.
 
 Once you win, you can find a *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
@@ -2687,9 +2739,7 @@ Nearby, on clear days, you'll find another snax vendor.
 |-----------|-----------|
 |*PokeSnax* |$650       |
 
-Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax.
-
-Inside the Pokemon center, an NPC will tell you a password: *easyhms*. This one was in the readme, but you can input it with a Data Chip if you didn't input it yet and Cut has been too annoying so far.
+Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokemon center, an NPC will tell you a password: *easyhms*.
 
 Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poke Ball*.
 
@@ -2770,7 +2820,18 @@ The key here is putting yourself in a position to be able to deal with Crobat. I
 
 If you didn't make this choice, skip ahead to the next section.
 
-Talk to the chief to get the *Corrosive Mist Field Readout*. Defeat the officers milling about.
+Talk to the chief to get the *Corrosive Mist Field Readout*.
+
+**Police Officer Jameson. Field: No Field**
+- Growlithe, Lv. 28, Serious Nature, IVs: 10
+
+**Police Officer Lambert. Field: No Field**
+- Herdier, Lv. 27, Serious Nature, IVs: 10
+- Growlithe, Lv. 27, Serious Nature, IVs: 10
+
+**Police Officer Blackwell. Field: No Field**
+- Flaaffy, Lv. 27, Serious Nature, IVs: 10
+- Growlithe, Lv. 28, Serious Nature, IVs: 10
 
 Turn all of the pillars blue. Each one will also change its neighbors, so keep that in mind while you solve this puzzle.
 
@@ -2827,7 +2888,26 @@ Next, head to the Beryl Library. Talk to the Gothitelle here, then pick up trash
 
 Head on over to the Beryl Cemetery at night. Talk to one of the pumpkins with a Soul Candle in your bag and you can catch **Pumpkaboo**.
 
-Head down into Jasper Ward and go left. You'll see a kid being bullied by some Venipede and Scolipede. Defeat them, and the kid will head back to his home.
+Head down into Jasper Ward and go left. You'll see a kid being bullied by some Venipede and Scolipede. 
+
+**Pokemon Swarm. Field: No Field**
+- Venipede, Lv. 34, Ability: Poison Point, Serious Nature, IVs: 10
+    - Toxic
+    - Protect
+    - Venoshock
+    - Bug Bite
+- Venipede, Lv. 34, Ability: Swarm, Serious Nature, IVs: 10
+    - Poison Tail
+    - Pursuit
+    - Rollout
+    - Bug Bite
+- Scolipede, Lv. 42, @Muscle Band, Ability: Speed Boost, Serious Nature, IVs: 10
+    - Steamroller
+    - Poison Tail
+    - Pursuit
+    - Rollout
+
+Defeat them, and the kid will head back to his home.
 
 Next, it's time for the big one. Head back to the Jasper Police Station and talk to the chief, then talk to the female **Growlithe**. That alone is a decent reward, but we can take this Growlithe and any male Pokemon in its egg group to the daycare to produce an egg. Bring an egg back to the police station and we can trade it with the guy at the bottom to get what the community calls the Mystery Egg.
 
