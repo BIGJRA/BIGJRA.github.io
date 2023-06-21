@@ -45,6 +45,7 @@ title: |
     - [The Magma Gang Route (Part 1)](#the-magma-gang-route-part-1)
     - [The Aqua Gang Route (Part 2)](#the-aqua-gang-route-part-2)
     - [Getting the Bicycle and Zorua](#getting-the-bicycle-and-zorua)
+  - [Grand Hall Trainers 3](#grand-hall-trainers-3)
   - [Cocoon Badge](#cocoon-badge)
 - [Episode 5: Escape! from Reborn City](#episode-5-escape-from-reborn-city)
   - [Lapis Ward Orphanage](#lapis-ward-orphanage)
@@ -2877,7 +2878,7 @@ On this field, you really have to go fast so you're not worn down by Poison. On 
 
 No gym badge or TM is awarded to you after this fight.
 
-To continue the story, head to Beryl Bridge and watch the scene. After you see an explosion with Fern, our next destination will be the North Obsidia Ward, but there are some very worthwhile quests we can do in the meantime.
+To continue the story, you can either head to Beryl Bridge and watch the intense scene, or make your way south through Jasper to Peridot to skip it. Regardless our next story destination will be the North Obsidia Ward, but there are some very worthwhile quests we can do in the meantime.
 
 ## The Mystery Egg and Other Quests
 
@@ -2938,7 +2939,26 @@ We can get the other 17 at a later time.
 
 ## North Obsidia Ward
 
-With that taken care of, we're going back to Opal Ward to head up at the bridge. You'll enter North Obsidia Ward. Defeat some trainers and you'll be able to explore the ward. You'll find hidden *Zinc*, *X Sp. Def*, *Super Potion*, *Ether*, *Common Candy*, *Synthetic Seed*, *Ability Capsule*, *Chewing Gum*, and *Great Ball*.
+With that taken care of, we're going back to Opal Ward to head up at the bridge. You'll enter North Obsidia Ward. 
+
+**Psychic Inuki. Field: No Field**
+- Porygon2, Lv. 26, Serious Nature, IVs: 10
+
+**Arcade Star Miku. Field: No Field**
+- Swablu, Lv. 25, Serious Nature, IVs: 10
+
+**Arcade Star Akemi. Field: No Field**
+- Snubbull, Lv. 24, Serious Nature, IVs: 10
+- Comfey, Lv. 24, Serious Nature, IVs: 10
+
+One more trainer is to the right at the stairs.
+
+**Street Rat Waldon. Field: No Field**
+- Shroomish, Lv. 24, Serious Nature, IVs: 10
+- Hippopotas, Lv. 24, Serious Nature, IVs: 10
+- Grotle, Lv. 25, Serious Nature, IVs: 10
+
+You'll find hidden *Zinc*, *X Sp. Def*, *Super Potion*, *Ether*, *Common Candy*, *Synthetic Seed*, *Ability Capsule*, *Chewing Gum*, and *Great Ball* around the ward.
 
 Finding this last item will put us in front of the nightclub: from 8PM to 4AM you can enter. You can get one of the best TM's in the game here: *TM17 Protect*!
 
@@ -2976,7 +2996,33 @@ Back in the main part of the ward, talk to the people here and in the nearby bui
 
 Head up the stairs to your left to enter the final ward of the city we've yet to explore!
 
-Talk to the girl with the colorful hair in front of the very tall building, then make your way to the very top of the area to talk to the purple haired girl and the guy with red hair. After this conversation we'll be free to explore the area.
+**Lady Lenore (Full Restore). Field: No Field**
+- Luvdisc, Lv. 26, Serious Nature, IVs: 10
+- Murkrow, Lv. 26, Serious Nature, IVs: 10
+
+Talk to the girl with the colorful hair in front of the very tall building, then head left.
+
+**Hotshot Cole (Full Restore). Field: No Field**
+- Quilava, Lv. 25, Serious Nature, IVs: 10
+- Skiddo, Lv. 26, Serious Nature, IVs: 10
+
+**Casanova Wiley (Full Restore). Field: No Field**
+- Staravia, Lv. 26, Serious Nature, IVs: 10
+
+**Lady Anastasia (Full Restore). Field: No Field**
+- Mudkip, Lv. 25, Serious Nature, IVs: 10
+    - Rock Throw
+    - Bide
+    - Mud Sport
+    - Water Gun
+- Marshtomp, Lv. 25, Serious Nature, IVs: 10
+- Wailmer, Lv. 26, Serious Nature, IVs: 10
+
+Make your way to the very top of the area to talk to the purple haired girl and the guy with red hair. After this conversation we'll be free to explore the area. On the right:
+
+**Gentleman Murray (Full Restore). Field: No Field**
+- Sunkern, Lv. 25, Serious Nature, IVs: 10
+- Marill, Lv. 25, Serious Nature, IVs: 10
 
 Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
 
@@ -3019,7 +3065,7 @@ Enter the flower shop on the left side of the ward. Someone inside will give you
 |*Sachet*       |$1000          |
 |*PokeSnax*     |$400           |
 
-We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is technically a cheaper option to get the honey later on, however. 
+We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is a cheaper option to get the honey later on, however. 
 
 **Sweet Scent Flower Shop Middle**
 
@@ -3110,9 +3156,9 @@ Down from here there are essentially four paths we can take down the ledges. I s
 
 Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out then go up the ladder at the top. You can find a hidden *Heart Scale* as well as a *Magical Seed* and a *Exp. Candy M*. Can't do anything else here so head up the next ladder. In here you can pick up an *Ability Capsule* and hidden *Exp. Candy M* and *Red-Hots*. 
 
-You'll notice that we're back on B1F, so head back down the ladder below. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll be on B1F.
+You'll notice that we're back on B1F, so head back down the ladder below to reach the ledges on B2F. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll find ourselves at the familiar area of B1F.
 
-Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here then immediately sneak past some rocks to the left. You'll obtain *TM69 Rock Polish*! Head back down the stairs and climb the stairs to the right. You'll find a hidden *Psychic Gem*, *X Speed*, and *PokeSnax* along the way.
+Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here. You'll see a little pool of water coming out of the wall - head to the left from here, past some rocks to the left, to  obtain *TM69 Rock Polish*! Head back down until you can go to the right. Climb these stairs - you'll find a hidden *Psychic Gem*, *X Speed*, and *PokeSnax* along the way.
 
 Finally, we can take the huge series of ledges to take the third path from the left. Grab the hidden *X Sp. Atk* then head down the ladder here.
 
@@ -3148,9 +3194,7 @@ Talk to the guy in the center here, then head to the left and talk to the two he
 
 Their four rock types have their attacks boosted on the field. They're all pretty fast, especially Midday Lycanroc, so you have to have a bit of bulk to live. With the help of Victoria's fighting type moves though you will probably be able to find a way through this with a team of six.
 
-You can accept Victoria's fast travel request afterwards.
-
-Back in North Obsidia Ward, Victoria will request that you battle her.
+You can accept Victoria's fast travel request afterwards.Back in North Obsidia Ward, Victoria will request that you battle her.
 
 **Relationship Point Choices:**
 - Say No to Victoria's battle request (-1 Victoria)
@@ -3177,9 +3221,9 @@ Back in North Obsidia Ward, Victoria will request that you battle her.
     - Double Kick
     - Lick
 
-Since last time, Victoria has evolved some of her team, but she shouldn't be too much of a threat if you've been able to defeat all the gym leaders to this point. She has a bit of diversity on her team: Kirlia and Pikachu can hit moderately hard with their STAB Special moves. Torracat will dampen a physical sweeper if you have one. Ultimately you can probably find a way to set up on Pancham or just overwhelm her in a 6v4.
+Since last time, Victoria has evolved some of her team, but she shouldn't be too much of a threat if you've been able to defeat all the gym leaders to this point. She has a bit of diversity on her team: Kirlia and Pikachu can hit moderately hard with their STAB Special moves. Torracat will dampen your physical sweeper and fight get some lucky flinches with Bite or Fire Fang. Ultimately, you can probably find a way to set up on Pancham or just overwhelm her in a 6v4.
 
-This is technically part of another gauntlet: time for another battle right after, though you do get healed.
+This is part of another gauntlet: time for another battle right after, though you do get healed.
 
 **Swag Jockey Fern (2x Super Potion). Field: No Field**
 - Rhyhorn, Lv. 30, Ability: Reckless, Brave Nature, IVs: 20
@@ -3203,7 +3247,7 @@ This is technically part of another gauntlet: time for another battle right afte
     - Extrasensory
     - Hidden Power
 
-Since last time, Fern has evolved his Roselia into Roserade, picked up a Rhyhorn, and evolved his Sandile. You don't want to let Krokorok sweep you, but it thankfully isn't too strong until it gets it's first boost, so a good switch can help against it. The big threat here is 31IV Roserade - it's really fast and likes to pickup one-shots with Giga Drain and heal off whatever damage you've managed to get on it. Thankfully Rhyhorn isn't really a threat to most Pokemon, so the key to this fight is figuring out how to put yourself in a position to knock out Roserade before it comes out. 
+Since last time, Fern has evolved his Roselia into Roserade, picked up a Rhyhorn, and evolved his Sandile. Thankfully, Rhyhorn and Dartrix aren't too incredible and each have exploitable 4x weaknesses. You don't want to let Krokorok sweep you, but it isn't too strong until it gets it's first boost, so a good switch can help against it. The big threat here is 31 IV Roserade - it's really fast and likes to pickup one-shots with Giga Drain and heal off whatever damage you've managed to get on it. Thankfully Rhyhorn isn't really a threat to most Pokemon, so the key to this fight is figuring out how to put yourself in a position to knock out Roserade before it comes out. 
 
 After winning, you'll be given *TMX7 Rock Smash*. We can't use it in the field yet, however.
 
@@ -3212,9 +3256,9 @@ Head to the nightclub up and to the right. You'll see a guy outside who you can 
 **Relationship Point Choices:**
 - Meet DJ Arclight outside the nightclub (+1 Arclight)
 
-Head back to Lapis Ward and attempt to enter the gym. Time for another rival battle, with a new rival, that is.
+Head back to Lapis Ward and attempt to enter the gym. Time for a battle!
 
-**Volcanic Cal. Field: No Field / Rainbow Field**
+**Volcanic Cal. Field: Rainbow Field atop No Field**
 - Torkoal, Lv. 30, @Heat Rock, Ability: Drought, Mild Nature, IVs: 5
     - Stealth Rock
     - Fire Spin
@@ -3241,20 +3285,23 @@ Head back to Lapis Ward and attempt to enter the gym. Time for another rival bat
     - Feint Attack
     - Fire Punch
 
-I often find that it is raining when I start this fight, hence Drought Torkoal may cause it to be a Rainbow Field battle for eight turns. This makes Nature Power turn into boosted Aurora Beam, interestingly giving Ice type coverage to a Fire type Sun team. Anyways, his team is fairly strong for this point under sun, so you're gonna have to be careful of letting his Houndoom and Magmortar destroy you with powered-up Fire moves. The Rainbow field will also increase chances to burn, so your physical attackers may become crippled. One strategy you can use is changing the weather to something else, Rain will dampen his attacks and the other two will cancel the Rainbow Field. If you can knock out Torkoal he has no way to set up Sun, so you can use the Protect and Substitute TMs we now have to stall out the sun if you need to. Weaken his weather and field advantage and you can win.
+The game makes it rain on the overworld before this fight, so Drought Torkoal will cause it to be a Rainbow Field battle for eight turns. This makes Nature Power turn into boosted Aurora Beam, interestingly giving Ice type coverage to a Fire monotype team. Anyways, his team is fairly strong for this point under sun, so you're gonna have to be careful not to let his Houndoom and Magmortar destroy you with powered up Fire moves. The Rainbow field will also increase chances to burn, so your physical attackers may become crippled. One strategy you can use is changing the weather to something else; Rain will dampen his attacks, while the other two will cancel the Rainbow Field and deal chip damage. If you can knock out Torkoal he has no way to set up Sun after the first time, so you can use the Protect and Substitute TMs we now have to stall out the sun if you need to.
 
-Head into the gym and go upstairs. Talk to the group here, then head outside and attempt to enter the orphanage in the center of town. A girl will leave. Head in. Inside, you'll have to defeat an Orderly.
+Head into the gym and go upstairs. Talk to the group here, then head outside and attempt to enter the orphanage in the center of Lapis Ward. A girl will leave. Head in. Inside, you'll have to defeat an Orderly.
+
+**Orderly John. Field: No Field**
+- Slowpoke, Lv. 31, Serious Nature, IVs: 10
+- Eelektrik, Lv. 31, Serious Nature, IVs: 10
+- Magneton, Lv. 32, Serious Nature, IVs: 10
 
 After you leave, head back to the gym and go upstairs. We have our next mission: challenging Shelly for a badge. We can talk to Victoria here as well.
 
 **Relationship Point Choices:**
 - Talk to Victoria after Shelly tells you to have a battle with her (+1 Cal)
 
-Before we do though we can start a sidequest.
-
 ## Joining a Gang
 
-We actually have to join a gang to progress the story. Technically we can do this later, but there are some nice rewards we can get right now, so we might as well start now. You actually get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
+Before fighting Shelly, time for a quest. We are required to join a gang to finish the game. Technically we can do this later, but we might as well start now since there are some nice rewards. You get to choose which gang to join: the Magma Gang in the North Obsidia Alleyway, or the Aqua Gang in the Lapis Alleyway. Head over to your choice of alleyway.
 
 ### The Magma Gang Route (Part 1)
 
@@ -3262,21 +3309,54 @@ Skip to the next section if you chose the Aqua Gang.
 
 Talk to the guys guarding the North Obsidia alleyway for a battle.
 
+**Magma Gang Nihil & Magma Gang Kriz. Field: No Field**
+- Vulpix, Lv. 31, Serious Nature, IVs: 10
+- Slugma, Lv. 31, Serious Nature, IVs: 10
+- Houndour, Lv. 32, Serious Nature, IVs: 10
+- Numel, Lv. 31, Serious Nature, IVs: 10
+- Fennekin, Lv. 31, Serious Nature, IVs: 10
+- Houndour, Lv. 32, Serious Nature, IVs: 10
+
 Once you make it in, you'll find *TM46 Thief* as well as a hidden *Red-Hots*. Talk to Maxwell in the back. 
 
 Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Maxwell here. Then make your way to Ms. Craudberry's house down from the Pokemon Center. Head into the backroom.
 
-Inside, defeat the Aqua associates here. You'll find a *Fire Stone* as well as **Buizel**. Head back to your alleyway after grabbing it and talk to Maxwell here. 
+**Aqua Gang Pierce. Field: No Field**
+- Carvanha, Lv. 32, Serious Nature, IVs: 10
+- Clauncher, Lv. 33, Serious Nature, IVs: 10
+- Ludicolo, Lv. 33, Serious Nature, IVs: 10
+
+**Aqua Gang DeFacto. Field: No Field**
+- Slowpoke, Lv. 32, Serious Nature, IVs: 10
+- Carvanha, Lv. 33, Serious Nature, IVs: 10
+- Staryu, Lv. 33, Serious Nature, IVs: 10
+
+You'll find a *Fire Stone* as well as **Buizel**. Talk to Maxwell inside, then head back to the Lapis Alleyway to talk to him again. 
 
 We can now continue our ongoing stolen Pokemon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member. He will tell you he already lost the Pokemon to an Aqua Gang member, but will give you a *Metronome*. 
 
-Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
+Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. 
+
+**Aqua Gang Jakob. Field: No Field**
+- Toxapex, Lv. 37, Serious Nature, IVs: 10
+- Lapras, Lv. 37, Serious Nature, IVs: 10
+- Sharpedo, Lv. 38, Serious Nature, IVs: 10
+
+Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
 
 ### The Aqua Gang Route (Part 2)
 
 Skip to the next section if you chose the Magma Gang.
 
 Talk to the guys guarding the Lapis alleyway for a battle.
+
+**Aqua Gang Mannie & Aqua Gang Razzy. Field: No Field**
+- Clamperl, Lv. 31, Serious Nature, IVs: 10
+- Froakie, Lv. 31, Serious Nature, IVs: 10
+- Carvanha, Lv. 32, Serious Nature, IVs: 10
+- Remoraid, Lv. 31, Serious Nature, IVs: 10
+- Totodile, Lv. 31, Serious Nature, IVs: 10
+- Carvanha, Lv. 32, Serious Nature, IVs: 10
 
 Once you make it in, you'll find *TM41 Torment*. Talk to Archer in the back.
 
@@ -3290,27 +3370,125 @@ Just for completeness, Archer won't be blocking the pond in the alleyway anymore
 |------------------|---|
 |Barboach          |100|
 
-Anyways, make your way to Ms. Craudberry's house down from the Lapis Pokemon Center. Head into the backroom.
+Anyways, make your way to Ms. Craudberry's house, which is south of the Lapis Pokemon Center. Head into the backroom.
 
-Inside, defeat the Magma associates here. You'll find a *Water Stone* as well as **Ponyta**. Head back to your alleyway after grabbing it and talk to Archer here. 
+**Magma Gang Darm. Field: No Field**
+- Darumaka, Lv. 32, Serious Nature, IVs: 10
+- Houndour, Lv. 33, Serious Nature, IVs: 10
+- Darumaka, Lv. 33, Serious Nature, IVs: 10
 
-We can now continue our ongoing stolen Pokemon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member. Defeat him, and he will tell you an Aqua Gang member has the Pokemon already.
+**Magma Gang Break. Field: No Field**
+- Houndour, Lv. 32, Serious Nature, IVs: 10
+- Litleo, Lv. 33, Serious Nature, IVs: 10
+- Lampent, Lv. 33, Serious Nature, IVs: 10
+
+You'll find a *Water Stone* as well as **Ponyta**. Talk to Archer inside, then head back to the North Obsidia Alleyway to talk to him again.
+
+We can now continue our ongoing stolen Pokemon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member. 
+
+**Magma Gang Bunson. Field: No Field**
+- Ninetales, Lv. 37, Serious Nature, IVs: 10
+- Houndoom, Lv. 37, Serious Nature, IVs: 10
+- Turtonator, Lv. 38, Serious Nature, IVs: 10
+
+Defeat him, and he will tell you an Aqua Gang member has the Pokemon already.
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. You'll learn that he already sold the Pokemon to someone in 7th Street, but he'll give you a *Metronome*. That's all we can do for now.
 
 ### Getting the Bicycle and Zorua
 
-Regardless of your gang choice, head over to Madame Craudberry's house once more. Inside, she'll try to get you arrested, but if you have saved all the police officers they'll trust that you are not a gang member. Hehehe.
+Regardless of your gang choice, head over to Madame Craudberry's house once more. Inside, she'll try to get you arrested, but if you have saved all the Jasper Ward police officers, they'll trust that you are not a gang member. Hehehe.
 
-Head outside and try to leave, and the cop will even give you a *Bike Voucher*!
+Head outside and try to leave, and the cop will even give you a *Bike Voucher*! Enter the building below and trade it away to get the *Bicycle*! Heck yes.
 
-Enter the building below and trade it away to get the *Bicycle*! Heck yes.
+Now that we have our fancy bicycle, we can very quickly get all the way to Beryl Ward from Lapis Ward... so let's do that. Go onto the rooftop of the building where we once captured Helioptile on a clear night, and you'll see... Corey? Make your way to Peridot Ward next, where you'll encounter him near the Pokemart. Finally, head to North Obsidia Ward and enter the building to the left of the alleyway. Inside you'll find him once more... and be able to catch **Zorua**!
 
-Now that we have our fancy bicycle, we can very quickly get all the way to Beryl Ward... so let's do that. Go onto the rooftop of the building where we once captured Helioptile on a clear night, and you'll see... Corey? Make your way to Peridot Ward next, where you'll encounter him near the Pokemart. Finally, head to North Obsidia Ward and enter the building to the left of the alleyway. Inside you'll find him once more... and be able to catch **Zorua**!
+## Grand Hall Trainers 3
+
+After defeating Corey, the trainers in the Grand Hall have gotten stronger once again. Defeating them will now yield 5 *Exp. Candy M*! The updated teams are as follows:
+
+**Arcade Star Carol (SUN). Field: No Field**
+- Croconaw, Lv. 35, Serious Nature, IVs: 10
+- Furret, Lv. 35, Serious Nature, IVs: 10
+- Furfrou, Lv. 35, Serious Nature, IVs: 10
+- Bayleef, Lv. 35, Serious Nature, IVs: 10
+
+**Hotshot Fawkes (SUN). Field: No Field**
+- Honedge, Lv. 33, Serious Nature, IVs: 10
+- Quilava, Lv. 35, Serious Nature, IVs: 10
+- Greninja, Lv. 37, Serious Nature, IVs: 10
+
+**Casanova Gibson (SUN). Field: No Field**
+- Cranidos, Lv. 37, Serious Nature, IVs: 10
+- Sawk, Lv. 37, Ability: Inner Focus, Serious Nature, IVs: 10
+- Kabuto, Lv. 37, Serious Nature, IVs: 10
+
+**Youngster Jonah (MON). Field: No Field**
+- Squirtle, Lv. 30, Quirky Nature, IVs: 15
+- Squirtle, Lv. 34, Serious Nature, IVs: 15
+- Wartortle, Lv. 38, Bashful Nature, IVs: 15
+- Wartortle, Lv. 42, Docile Nature, IVs: 15
+
+**Hotshot Jace (TUE). Field: No Field**
+- Drifloon, Lv. 32, Serious Nature, IVs: 10
+- Watchog, Lv. 33, Serious Nature, IVs: 10
+- Pawniard, Lv. 34, Serious Nature, IVs: 10
+- Comfey, Lv. 35, Serious Nature, IVs: 10
+
+**Psychic Silva (WED). Field: No Field**
+- Mawile, Lv. 35, Serious Nature, IVs: 10
+- Xatu, Lv. 36, Serious Nature, IVs: 10
+- Sneasel, Lv. 39, Serious Nature, IVs: 10
+
+**Elder JB (THU). Field: No Field**
+- Braixen, Lv. 34, Serious Nature, IVs: 10
+- Frogadier, Lv. 34, Serious Nature, IVs: 10
+- Goomy, Lv. 34, Serious Nature, IVs: 10
+
+**Techie Will (FRI). Field: No Field**
+- Grovyle, Lv. 34, Serious Nature, IVs: 10
+- Charmeleon, Lv. 35, Serious Nature, IVs: 10
+- Gardevoir, Lv. 36, Serious Nature, IVs: 10
+
+**Elder Anthony (SAT). Field: No Field**
+- Rufflet, Lv. 34, Serious Nature, IVs: 10
+- Gible, Lv. 36, Serious Nature, IVs: 10
+- Gabite, Lv. 38, Serious Nature, IVs: 10
+  
+**Hotshot Emile (SAT). Field: No Field**
+- Servine, Lv. 31, Serious Nature, IVs: 10
+- Gardevoir, Lv. 33, Serious Nature, IVs: 10
+- Quilava, Lv. 35, Serious Nature, IVs: 10
+- Nidoking, Lv. 37, Serious Nature, IVs: 10
+
+**Casanova Zach & Lady Beau (SAT). Field: No Field**
+- Ivysaur, Lv. 35, Serious Nature, IVs: 10
+- Duosion, Lv. 36, Serious Nature, IVs: 10
+- Jigglypuff, Lv. 35, Serious Nature, IVs: 10
+- Togetic, Lv. 36, Serious Nature, IVs: 10
 
 ## Cocoon Badge
 
-Now it's time to go for our badge. Head into Shelly's gym and go to the right. There is a front area, a back area, and upstairs - your goal is to turn every single monitor that is in the area on and still successfully get to the upstairs area and cross the bookshelves. You can only cross from the front to the back area if one of the red, blue, and yellow stacks is exactly 1 unit tall. 
+Now it's time to go for our badge. Head into Shelly's gym and go to the right. 
+
+**Techie Eugene. Field: Forest Field**
+- Burmy, Lv. 29, Serious Nature, IVs: 10
+- Mothim, Lv. 30, Serious Nature, IVs: 10
+- Wormadam, Lv. 30, Serious Nature, IVs: 10
+
+**Lady Eve. Field: Forest Field**
+- Shuckle, Lv. 32, Ability: Contrary, Serious Nature, IVs: 10
+
+In the back, accessible by using either of the two monitors behind the trainers:
+
+**Techie Charlie. Field: Forest Field**
+- Beautifly, Lv. 30, Serious Nature, IVs: 10
+- Charjabug, Lv. 30, Serious Nature, IVs: 10
+
+**Lady Lily. Field: Forest Field**
+- Swadloon, Lv. 31, Serious Nature, IVs: 10
+
+There is a front area, a back area, and upstairs - your goal is to turn every single monitor that is in the area on and still successfully get to the upstairs area and cross the bookshelves. You can only cross from the front to the back area if one of the red, blue, and yellow stacks is exactly 1 unit tall. 
 
 Using this information, it can be fun to try to solve this puzzle yourself. The game actually has a cheeky secret way to solve it though:
 
@@ -3320,7 +3498,7 @@ Whichever way you solve the puzzle, click the final monitor that you can find up
 
 Head up, and save before you fight Shelly. 
 
-Bookworm Shelly (2x Hyper Potion). Field: Forest Field, Natural Rain
+**Bookworm Shelly (2x Hyper Potion). Field: Forest Field**
 - Illumise, Lv. 32, @Damp Rock, Ability: Prankster, Modest Nature, IVs: 2
     - Rain Dance
     - Struggle Bug
@@ -3352,15 +3530,17 @@ Bookworm Shelly (2x Hyper Potion). Field: Forest Field, Natural Rain
     - Struggle Bug
     - Dazzling Gleam
 
-I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is the rain that's present here - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
+I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. More notable however is Prankster Illumise's eight turn Rain Dance - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire types, and powers the various Water moves she uses. Plus it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for. 
 
-To win, you'll have to come up with a solid strategy, luckily at this point in the game you do have some options. Castform's Sunny Day or mystery egg Vulpix's Drought will make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm, just be careful since her Illumise and Araquanid can switch it back. If you do so you can use specific Fire type moves to turn the field to Burning which... completely ruins her team. Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. You can also bring your own Swift Swim team to abuse the rain and outspeed her team. Also, Rock Slide. Tons of options here if you think ahead about what your strategy will be.
+To win, you'll have to come up with a solid doubles strategy. Luckily at this point in the game you do have some options. The simplest yet cheesiest option is to use Castform/Cherrim's Sunny Day or mystery egg Vulpix's Drought to make it sunny, which turns the field to Rainbow Field. You can then exploit the Rainbow Field by using Nature Power into boosted Aurora Beam and/or 140 flat damage Sonicboom to win. You can also switch up the weather to Hail or Sandstorm - this allows you to use specific Fire type moves to turn the field to the Burning Field, which is basically game over for Shelly if Illumise is knocked out. 
+
+Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can to some extent really shine here. You can use Telluric Seeds if you have them as well. Alternatively, bring your own Swift Swim team to abuse the rain and outspeed her team. Also consider the funny Rock Slide button. Tons of options here if you think ahead about what your strategy will be.
 
 **Relationship Point Choices:**
 - Defeat Shelly on your first try (+1 Victoria)
 - Defeat Shelly on a second, third, etc. try (-1 Victoria)
 
-After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug* and also get to use Lv. 40 Pokemon and use Rock Smash in the field.
+After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug*, you get to use Lv. 40 Pokemon, and you can now use Rock Smash in the field.
 
 # Episode 5: Escape! from Reborn City
 
@@ -3404,7 +3584,19 @@ Head into the Orphanage as soon as the door opens. You'll be paired up with eith
 - Defeat the Orderlies with Cain (+1 Cain)
 - Defeat the Orderlies with Shelly (+1 Shelly)
 
-After this fight, you'll be free to explore. Keep in mind though:
+**Orderly Timothy & Orderly Chris. Field: No Field**
+- Petilil, Lv. 32, Serious Nature, IVs: 10
+- Wynaut, Lv. 32, Serious Nature, IVs: 10
+- Bruxish, Lv. 33, Serious Nature, IVs: 10
+- Magmar, Lv. 31, Serious Nature, IVs: 10
+- Electabuzz, Lv. 31, Serious Nature, IVs: 10
+    - Light Screen
+    - Thunder Punch
+    - Thunder Wave
+    - Low Kick
+- Aromatisse, Lv. 32, Serious Nature, IVs: 10
+  
+After this fight, you'll be free to explore with Shelly as a partner. Keep in mind though:
 
 **Relationship Point Choices:**
 - Leave the Orphanage while partnered (-1 Cain, -1 Shelly, -1 Charlotte, -1 Noel, -1 Heather)
@@ -3419,28 +3611,87 @@ We can now choose where to go.
 **Relationship Point Choices:**
 - Enter the hallway first before exploring upstairs (-1 Shelly)
 
-So, we're gonna head upstairs first. Defeat orderlies as you go up. You'll eventually get locked out from continuing, so head downstairs and talk to Anna again.
+So, we're gonna head upstairs first. Defeat orderlies as you go up. 
+
+**Orderly Allyssa & Orderly Stephanie. Field: No Field**
+- Tentacool, Lv. 33, Serious Nature, IVs: 10
+- Shiinotic, Lv. 33, Serious Nature, IVs: 10
+- Kadabra, Lv. 33, Serious Nature, IVs: 10
+- Dartrix, Lv. 33, Serious Nature, IVs: 10
+- Tynamo, Lv. 34, Serious Nature, IVs: 10
+- Toxapex, Lv. 33, Serious Nature, IVs: 10
+
+**Orderly Bishop & Orderly Roth. Field: No Field**
+- Clefairy, Lv. 34, Serious Nature, IVs: 10
+- Persian, Lv. 34, Serious Nature, IVs: 10
+- Golett, Lv. 34, Serious Nature, IVs: 10
+- Shellder, Lv. 34, Serious Nature, IVs: 10
+- Blitzle, Lv. 34, Serious Nature, IVs: 10
+- Klang, Lv. 34, Serious Nature, IVs: 10
+
+You'll be prevented from continuing upstairs, so head downstairs and talk to Anna again.
 
 Enter the open door on the first floor. Be careful about trying to enter the doors on the left.
 
 **Relationship Point Choices:**
 - The Player is male and tries to enter the Girls' Bathroom two times (-1 Shelly)
 
-Beat the orderlies in the room above. You can read the green books for some background on the new characters. Back outside, head down and to the left. Defeat more orderlies and pick up a *Data Chip*. Talk to the green computer screen nearby to open a lock. 
+Beat the orderlies in the room above.
+
+**Orderly Howaya & Orderly Callie. Field: No Field**
+- Lombre, Lv. 33, Serious Nature, IVs: 10
+- Magnemite, Lv. 33, Serious Nature, IVs: 10
+- Chinchou, Lv. 34, Serious Nature, IVs: 10
+- Diglett-Alola, Lv. 33, Serious Nature, IVs: 10
+- Corphish, Lv. 33, Serious Nature, IVs: 10
+- Hypno, Lv. 34, Serious Nature, IVs: 10
+
+You can read the green books for some background on the new characters. Back outside, head down and to the left.
+
+**Orderly Danielle & Orderly Ramsey. Field: No Field**
+- Piplup, Lv. 33, Serious Nature, IVs: 10
+- Nosepass, Lv. 34, Serious Nature, IVs: 10
+- Prinplup, Lv. 35, Serious Nature, IVs: 10
+- Pikachu, Lv. 33, Serious Nature, IVs: 10
+- Magnemite, Lv. 33, Serious Nature, IVs: 10
+- Elgyem, Lv. 34, Serious Nature, IVs: 10
+
+Pick up a *Data Chip* down here. Talk to the green computer screen nearby to open a lock. 
 
 Head back upstairs and go through the now-opened path.
 
 **Relationship Point Choices:**
 - Ignore Noel in the cage (-1 Noel)
 
-Defeat the orderlies upstairs then open the patient cages. You can find a hidden *Great Ball* here. Grab the *Paralyze Heal* on your way down.
+Defeat the orderlies upstairs.
 
-On the first floor enter the room on the right.
+**Orderly Charity & Orderly John. Field: No Field**
+- Kadabra, Lv. 33, Serious Nature, IVs: 10
+- Yanma, Lv. 33, Serious Nature, IVs: 10
+- Venomoth, Lv. 34, Serious Nature, IVs: 10
+- Elgyem, Lv. 34, Serious Nature, IVs: 10
+- Eelektrik, Lv. 33, Serious Nature, IVs: 10
+- Slowpoke, Lv. 34, Serious Nature, IVs: 10
+- Magneton, Lv. 35, Serious Nature, IVs: 10
+
+Open the patient cages. You can find a hidden *Great Ball* here. Head downstairs and grab the *Paralyze Heal* on your way down.
+
+On the first floor, enter the room on the right.
 
 **Relationship Point Choices:**
 - Talk to Charlotte twice while she's in a cage (-2 Charlotte)
 
-Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*. Defeat some orderlies, then at the bottom grab the *Odd Incense* and the *Archive Key*. 
+Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*. 
+
+**Orderly Christina & Orderly Matt. Field: No Field**
+- Elgyem, Lv. 32, Serious Nature, IVs: 10
+- Eelektrik, Lv. 33, Serious Nature, IVs: 10
+- Cryogonal, Lv. 34, Serious Nature, IVs: 10
+- Klink, Lv. 33, Serious Nature, IVs: 10
+- Drowzee, Lv. 33, Serious Nature, IVs: 10
+- Claydol, Lv. 33, Serious Nature, IVs: 10
+
+Defeat some orderlies, then at the bottom grab the *Odd Incense* and the *Archive Key*, which is hidden behind the foliage of the right plant. 
 
 Back in the left hallway, use the *Archive Key* to grab an *Exp. Candy L* and read some more books about the orphanage's characters. With that, head all the way up to the top of the orphanage to bust out.
 
