@@ -5539,17 +5539,6 @@
 - Sharpedo, Lv. 54, Serious Nature, IVs: 10
 - Feraligatr, Lv. 55, Serious Nature, IVs: 10
 
-**Elder Yagami. Field: **
-- Spheal, Lv. 32, Serious Nature, IVs: 10
-
-**Casanova Daniel. Field: **
-- Shedinja, Lv. 31, Serious Nature, IVs: 10
-- Deino, Lv. 32, Serious Nature, IVs: 10
-
-**Psychic Michael. Field: **
-- Inkay, Lv. 32, Serious Nature, IVs: 10
-- Misdreavus, Lv. 32, Serious Nature, IVs: 10
-
 **Psychic Rin. Field: **
 - Pumpkaboo, Lv. 34, Serious Nature, IVs: 10
 - Yamask, Lv. 34, Serious Nature, IVs: 10

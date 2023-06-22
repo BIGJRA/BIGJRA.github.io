@@ -3741,6 +3741,21 @@ Outside, accept Anna's request for fast travel. We'll find ourselves back in the
 
 You can also find a hidden *Pecha Berry*, *Carbos*, *Purple Shard*, *Red Shard*, and *Fire Gem* here. In the bottom right corner you can get the *Dull Key*. Open the gate on the right for a shortcut, then talk to the group at the top. Sounds like we're going to be taking on another gym leader soon, but before that there are tons of areas we can now access thanks to Rock Smash. Oh, and we get to strike at the heart of our enemy gang.
 
+Make your way over to the Opal Bridge. As you make your way into North Obsidia Ward, you'll find more enemy trainers.
+
+**Psychic Michael. Field: No Field**
+- Inkay, Lv. 32, Serious Nature, IVs: 10
+- Misdreavus, Lv. 32, Serious Nature, IVs: 10
+
+**Casanova Daniel. Field: No Field**
+- Shedinja, Lv. 31, Serious Nature, IVs: 10
+- Deino, Lv. 32, Serious Nature, IVs: 10
+
+**Elder Yagami. Field: No Field**
+- Spheal, Lv. 32, Serious Nature, IVs: 10
+
+North of here, you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for Pokemon that need to be traded otherwise. To evolve Pokemon that normally trade while holding items, you can give them their item and use the Link Stone on them. This one is pricey, but if you have a Pokemon like Graveler you're trying to evolve, it's worth picking up.
+
 ## Defeating the Rival Gang
 
 It's time to help out our friendly gang once more.
@@ -3749,7 +3764,17 @@ It's time to help out our friendly gang once more.
 
 If you joined Aqua last chapter, skip ahead to the next section.
 
-Return to Maxwell in North Obsidia, then head over to the Aqua Gang's hideout in Lapis. Defeat the guards at the entrance. Grab *TM41 Torment* while you're here and prepare for a battle.
+Return to Maxwell in North Obsidia, then head over to the Aqua Gang's hideout in Lapis. Defeat the guards at the entrance. 
+
+**Aqua Gang Mannie & Aqua Gang Razzy. Field: No Field**
+- Clamperl, Lv. 31, Serious Nature, IVs: 10
+- Froakie, Lv. 31, Serious Nature, IVs: 10
+- Carvanha, Lv. 32, Serious Nature, IVs: 10
+- Remoraid, Lv. 31, Serious Nature, IVs: 10
+- Totodile, Lv. 31, Serious Nature, IVs: 10
+- Carvanha, Lv. 32, Serious Nature, IVs: 10
+
+Grab *TM41 Torment* while you're here and prepare for a battle.
 
 **Aqua Mastermind Archer (2x Berry Ice Cream). Field: No Field**
 - Pelipper, Lv. 41, Ability: Drizzle, Modest Nature, IVs: 20
@@ -3784,7 +3809,17 @@ Anyways, return to Maxwell at your alleyway to get **Houndour**. That's it with 
 
 If you joined Magma last chapter, skip ahead to the next section.
 
-Return to Archer in Lapis, then head over to the Magma Gang's hideout in North Obsidia. Defeat the guards at the entrance. Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare for a battle.
+Return to Archer in Lapis, then head over to the Magma Gang's hideout in North Obsidia. Defeat the guards at the entrance. 
+
+**Magma Gang Nihil & Magma Gang Kriz. Field: No Field**
+- Vulpix, Lv. 31, Serious Nature, IVs: 10
+- Slugma, Lv. 31, Serious Nature, IVs: 10
+- Houndour, Lv. 32, Serious Nature, IVs: 10
+- Numel, Lv. 31, Serious Nature, IVs: 10
+- Fennekin, Lv. 31, Serious Nature, IVs: 10
+- Houndour, Lv. 32, Serious Nature, IVs: 10
+
+Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare for a battle.
 
 **Magma Kingpin Maxwell (2x Berry Ice Cream). Field: No Field**
 - Ninetales, Lv. 41, Ability: Drought, Modest Nature, IVs: 20
@@ -3811,23 +3846,9 @@ Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with t
 
 ## Rock Smash Exploration
 
-The first place we can go that has new stuff is the Onyx Ward. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*. 
-
-As you make your way back through Obsidia, note that the candy store has a new kind of Exp. Candy for sale.
-
-**Sweet Kiss Bottom Clerk Shop (3 Badges)**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Common Candy*     |$150       |
-|*Exp. Candy XS*    |$500       |
-|*Exp. Candy S*     |$2000      |
-|*Exp. Candy M*     |$5000      |
-|*Rare Candy*       |$12000     |
+Head over to the Onyx Ward next. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*. 
 
 In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*. 
-
-Make your way to the North Obsidia Ward. Here you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for trade items. It's pricey, but if you have a Pokemon like Graveler you're trying to evolve it's worth picking up.
 
 ### Smashin' at the Stairway
 
@@ -4127,7 +4148,7 @@ Once you win, you'll get the *Harbor Key*.
 
 ## Apophyll Beach
 
-Make your way to the Coral Ward and enter the only remaining locked warehouse. Inside, you can take the boat to Apophyll Beach!
+Make your way towards the Coral Ward and enter the locked warehouse in the top left. Inside, you can take the boat to Apophyll Beach!
 
 As soon as you enter, go straight left and weave between the hills to get a *Wave Incense*.
 
