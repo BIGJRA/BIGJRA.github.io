@@ -3854,13 +3854,15 @@ In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwor
 
 Head over to the Grand Stairway and make your way to B1F. At the top right, smash a rock, pick up a hidden *Green Shard*, then go up. In this new room you can find a hidden *PP Up*, *Exp. Candy L*, and a stationary *Exp. Candy M*. Talk to the hiker in here for a *Mining Kit*. 
 
-The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame except the prizes are actually good. Each stone will generate 2-4 items. 
+The Mining Kit allows us to finally deal with all those glowing rocks everywhere. Essentially we get to play the Gen 4 mining minigame, except the prizes are actually good! Each stone will generate 2-4 items. 
 
 Item probabilities are listed [in the appendices](#mining-item-probabilities).
 
-We can't revive the fossils or use the Odd Keystone just yet but we will soon enough. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items though you can get at least one of each somewhere else in the game as well. There is an incredible number of these throughout the game so feel free to destroy the rocks as you see them. I won't be pointing out when there are rocks in a given room, but feel free to break them as you see them.
+We can't revive the fossils or use the Odd Keystone just yet, but hold onto them if you get them. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items, though you can get at least one of each somewhere else in the game as well. There is an incredible number of these glowing rocks throughout the game. I won't be pointing out when there are rocks in a given room, but feel free to break them as you see them.
 
-Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You'll find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. Back at the part with the sequence of ledges, take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Solrock** or **Lunatone**, determined randomly. 
+Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You may find **Solrock** here - this is a randomly determined event. You'll also find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*. 
+
+Make your way back to the part with the sequence of ledges on B2F, and take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Lunatone** if you didn't find Solrock earlier.
 
 ### Smashin' at the Slums
 
@@ -3876,7 +3878,7 @@ Next, we're going to head on over to the Obsidia Slums. On the first floor of th
 |Watchog           |9  |
 |**Primeape**      |2  |
 
-Grab the *Super Repel* and enter the next room.
+Grab the *Super Repel* and hidden *Exp. Candy L* and enter the next room.
 
 **Slums Playground Main Room**
 
@@ -3891,7 +3893,25 @@ Grab the *Super Repel* and enter the next room.
 
 You can find a *Sun Stone* on the floor. The hidden items in this room are *Purple Shard*, *Red Shard*, *Full Heal*, and *Protein*.
 
-You'll need to defeat the Pangoro around the room and activate the switches beyond them. Once you've defeated the third in the middle, you will get **Scraggy**! Afterwards you can pick up a *Brave Mint*, *Exp. Candy L*, and hidden *Exp. Candy XL* and *Full Restore*.
+You'll need to defeat the two Pangoro on each side of the room and activate the switches beyond them. 
+
+**Pokemon Don. Field: No Field**
+- Pangoro, Lv. 45, Ability: Scrappy, Adamant Nature, IVs: 20
+    - Body Slam
+    - Circle Throw
+    - Crunch
+    - Vital Throw
+
+By going to the left side of the room and walking on the floor between the platforms, you can reach the middle of the room.
+
+**Pokemon Don. Field: No Field**
+- Pangoro, Lv. 50, @Sitrus Berry, Ability: Iron Fist, Adamant Nature, IVs: 30
+    - Body Slam
+    - Circle Throw
+    - Crunch
+    - Hammer Arm
+
+Once you've defeated the third in the middle, you will get **Scraggy**! Afterwards you can pick up a *Brave Mint*, *Exp. Candy L*, and hidden *Exp. Candy XL* and *Full Restore*.
 
 Exit this area and make your way to the top right corner of the main room in the slums. Go down the escalator then enter the room on the right side. Down the stairs you can smash some rocks and head in to a new area of the Railnet.
 
@@ -3909,7 +3929,7 @@ Exit this area and make your way to the top right corner of the main room in the
 |**Drapion**       |1  |
 |Klang             |1  |
 
-Pick up the *Light Ball* and hidden 2 *Common Candies* and *Red Shard*. You can smash the dark spot on the way to access another area. Grab the hidden *Hyper Potion*, *Purple Shard*, and *Dusk Ball* as you sneak through this path. Smash the wall on the other side and push the switch here, then go left.
+Pick up the *Light Ball* and hidden 2 *Common Candies* and *Red Shard*. You can smash the dark spot on the wallx to access another area. Grab the hidden *Hyper Potion*, *Purple Shard*, and *Dusk Ball* as you sneak through this path. Smash the wall on the other side and push the switch here, then go left.
 
 We don't have Flash yet, so this area can be a bit annoying to search for items and such. In the top right corner you can smash a rock to free a guy. You'll find hidden *X Sp. Atk* and *Rock Gem* nearby. There's also a smash wall above you containing an *Ability Capsule*. Make your way down the stairs to the right. You'll find a hidden *Green Shard*. Go down more stairs and go straight up. Inside a smash wall you can find *TMX8 Flash*... but we don't have the badge to use it yet. Darn.
 
@@ -3981,7 +4001,7 @@ On windy days, you can have a battle!
 
 Just gotta find a way to hit Shiftry with a Bug move and you'll probably win here. As a reward, you'll get **Nuzleaf** by talking to it.
 
-The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu**. 
+The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole. 
 
 ### Smashin' at Citrine Mountain
 
@@ -4000,13 +4020,13 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 |**Sandslash-Alola**    |1  |
 |**Beartic**            |1  |
 
-Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal.
+<img class="tabImage" src="/assets/media/reborn/citrine2f.png"/>
 
-Next, go down from the top of the area, grab the hidden *Super Potion* to the right then choose to go down at the fork. Go down at the fork after that to talk to **Croagunk** who will join us thanks to the Silver Ring. Grab a hidden *Burn Heal* and return to the first fork.
-
-This time, go up. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Protein*, and *Hyper Potion*. It will fork again. Down the left fork you can find a hidden *Hyper Potion*, *Purple Shard*, and *Shoal Salt* and pick up the *Short-Circuit Field Readout* here. Will be useful soon!
-
-Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
+1. Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal. Head back to the entrance.
+2. Go down from the top of the area, grab the hidden *Super Potion* to the right. Head back up.
+3. Talk to **Croagunk** down from here, who will join us thanks to the Silver Ring. Get a hidden *Burn Heal* and Backtrack six platforms.
+4. Go left. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Protein*, and *Hyper Potion*. It will fork again eventually: go down the left fork. You can find a hidden *Hyper Potion*, *Purple Shard*, and *Shoal Salt*. Also, pick up the *Short-Circuit Field Readout* here. Will be useful soon!
+5. Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
 
 **Pokemon Savage. Field: Icy Field**
 - Beartic, Lv. 65, Serious Nature, IVs: 10
@@ -4015,10 +4035,12 @@ Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue
   - Hail
   - Rest
 
-This looks like quite the intimidating battle, but it has default moves. Blizzard will tear you up but it only has 5 PP, so if you can stall those out and get a Ghost type onto the field you're solid. It does like to heal but if you can set up somehow you should be ok. After winning, you'll get **Smoochum**.
+This looks like quite the intimidating battle due to the level difference, but it has its default moves. Blizzard will tear you up but it only has 5 PP, so if you can stall those out with the Protect TM and get a Ghost type onto the field to whittle it down with status moves, you're basically set. After winning, you'll get **Smoochum**.
 
 **Relationship Point Choices:**
 - Save Smoochum (+2 Blake)
+
+Exit the cave via Escape Rope or backtracking to the top of the previous room.
 
 ## Omen Badge
 
@@ -4035,7 +4057,11 @@ That wraps up all the sidequests for now, so enter the power plant on the east s
 |**Togedemaru**    |10 |
 |Klang             |1  |
 
-Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle.
+Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle. If you're having a hard time seeing, here's what the side rooms look like:
+
+<img class="tabImage" src="/assets/media/reborn/yureyu.png"/>
+
+Anyways, talk to the figure straight up from the entrance to the plant when you're ready.
 
 **Entity Shade (2x Hyper Potion). Field: Short-Circuit Field**
 - Gengar, Lv. 35, @Wide Lens, Ability: Cursed Body, Bashful Nature, IVs: 31
@@ -4069,17 +4095,30 @@ Enter the two rooms on either side and talk to two monitors within to see four t
     - Shadow Claw
     - Play Rough
 
-Finally time to take on the Ghost type leader. If you check your field notes for Short-Circuit right away you'll probably notice some of the things that make Shade difficult to fight - most of his Ghost type moves get a boost on this field, but so do the Electric type moves on half of his team. He also has near full IV's on his entire team for the first time. Gengar is a solid lead that likes to hit really hard or put you to sleep, so you might need to plan ahead with some priority or anti-sleep measures. Doublade and Banette give themselves a bit of bulk with their seeds while Mimikyu's Disguise ability infamously gives it a free turn to get to +2 Attack or revenge kill for free. 
+Finally time to take on the Ghost type leader. If you check your field notes for Short-Circuit, you'll notice some of the things that make Shade difficult to fight. Most of his Ghost type moves get a boost on this field as do the Electric type moves on half of his team. He also has near full IV's on his entire team, a rarity for us so far. Gengar is a solid lead that likes to hit really hard or put you to sleep, so you might need to plan ahead with some priority or anti-sleep measures. Doublade and Banette give themselves a bit of bulk with their seeds while Mimikyu's Disguise ability infamously gives it a free turn to get to +2 Attack or revenge kill for free. 
 
-That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or your own fast Banette will probably work out well here. There also isn't really anything that effectively can stop a fast Dark type other than Mimikyu, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to the normal Factory Field when you use certain Electric type moves, so if you have a strategy using Gear Grind or an Electric type core you could probably make that work once you get past Rotom. If you've beat all the trainers to this point I'm sure you can find a way to defeat Mr. Smiles.
+That said, there are a lot of fairly reliable ways to beat the Entity. One lies in the typing: if you can't beat him, join him. Your own Ghost type moves will also be boosted by the field, so something like Unburden Drifblim or a fast Banette can work out well here. Past Mimikyu there also isn't really anything that effectively can stop a fast Dark type such as Chlorophyll Shiftry, so you can try to overwhelm him with super-effective damage that way as well. The field will also switch to Factory Field when certain moves like Discharge are used, so if you have a strategy involving Gear Grind or an Electric type core you could probably make that work, though note Rotom likes to change the field back with its own Discharge.
 
 After you win, you'll get the *Omen Badge* as well as *TM65 Shadow Claw*. Our new cap is Lv. 45 and we can use Flash now.
 
 # Episode 6: Poison In Vein
 
-Head out from the Abandoned Power Plant and return to Jasper Ward and attempt to enter Peridot. You'll meet up with Cain here, so follow him into the Police Station. 
+Head out from the Abandoned Power Plant and return to Jasper Ward and attempt to enter Peridot. You'll meet up with Cain here, so follow him into the Police Station and watch the scene.
 
-Before we continue, there is a pretty awesome Pokemon we can get right now. Head over to the Lapis Alleyway during a windy night. There, you'll find **Murkrow**!
+Before we continue with the story, head over to the Opal Ward. Once more, there are new trainers on the bridge.
+
+**Psychic Rin. Field: No Field**
+- Pumpkaboo, Lv. 34, Serious Nature, IVs: 10
+- Yamask, Lv. 34, Serious Nature, IVs: 10
+  
+**Psychic Damon. Field: No Field**
+- Gastly, Lv. 35, Serious Nature, IVs: 10
+- Litwick, Lv. 35, Serious Nature, IVs: 10
+
+**Techie Caleb. Field: No Field**
+- Porygon, Lv. 34, Serious Nature, IVs: 10
+
+Head over to the Lapis Alleyway during a windy night. There, you'll find **Murkrow**!
 
 ## Blacksteam Factory
 
@@ -4094,7 +4133,13 @@ Talk to Ace and tell them your favorite nature, and they'll give you the respect
 **Relationship Point Choices:**
 - Get a mint from Ace (+1 Ace)
 
-Talk to Amaria to get on top of the building, and head in. Defeat the grunts, then go down the stairs.
+Talk to Amaria to get on top of the building, and head in. 
+
+**Meteor Grunt Ricardo & Meteor Grunt Hilda. Field: Factory Field**
+- Lairon, Lv. 34, Serious Nature, IVs: 10
+- Golbat, Lv. 34, Serious Nature, IVs: 10
+
+Defeat the grunts with Amaria, then go down the stairs.
 
 **Relationship Point Choices:**
 - Tell Amaria you trust her (+1 Amaria)
@@ -4104,19 +4149,96 @@ Talk to Amaria to get on top of the building, and head in. Defeat the grunts, th
 - Tell Ace you think they might be a double double agent (+1 Ace)
 - Tell Ace you don't think they could be a double double agent (-1 Ace)
 
-With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto, and we can get some goodies with it.
+With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto, and we can get some goodies with it. To get all the goodies and escape from the cage, talk to the Pokemon in this order:
 
-Wake up Abra with Loudred, then use Abra to teleport Vanillite out of the top left cage. Next, use Abra again to teleport Lickitung to the top left cage. Talk to the top left cage to get a *Rare Candy*! Use Abra again to teleport Makuhita to the top left cage. Talk to that cage to get **Ditto**! 
+- Loudred
+- Abra
+- Vanillite
+- Abra
+- Lickitung
+- Lickitung/Ditto: Doing this will get you a *Rare Candy*.
+- Abra
+- Lickitung/Ditto
+- Abra
+- Makuhita
+- Makuhita/Ditto: Doing this will get you **Ditto**!
+- Abra
+- Vanillite
+- Abra
+- Cyndaquil
+- Loudred
+- Jigglypuff
+- Cyndaquil: use Flamethrower
+- Loudred
+- Abra
+- Cyndaquil
+- Abra
+- Vanillite
+- Loudred
+- Jigglypuff
+- Vanillite: use Ice Beam
+- Loudred
+- Abra
+- Vanillite
+- Abra
+- Roggenrola
+- Loudred
+- Jigglypuff
+- Roggenrola: use Rock Blast
+- Loudred
 
-From here, teleport Vanillite out of the cage nearest the guard - I will call this the "attack" cage. You'll want to then teleport Cyndaquil into the attack cage. The guard will stop us from attacking however. So, talk to Loudred to lose your hearing then to Jigglypuff to put the guard to sleep. Make Cyndaquil attack the bars.
+Now you can escape and talk to the guard for a fight.
 
-Repeat this process twice more, with Vanillite and Roggenrola in the attack cage, and you'll be able to escape. You can use Loudred to wake up the guard for a battle if you'd like. What's better, you can even teleport the guard into a cage. Nice.
+**Meteor Grunt Sanchez. Field: Factory Field**
+- Shelmet, Lv. 34, Serious Nature, IVs: 10
+- Palpitoad, Lv. 35, Serious Nature, IVs: 10
+
+As a bonus: use Abra to teleport the guard into a cage. Nice.
 
 Pick up a hidden *Dire Hit* on this floor, then go down the stairs to the left. In this room you can find a *Magnet Powder*, *Exp. Candy L*, *TM49 Echoed Voice* and the *PULSE Readout 4*. 
 
-Head back upstairs and take the stairs on the right to 1F. Beat the grunts and activate the wall panels. Pick up a *Super Potion* and hidden *Purple Shard* and *Super Repel*. 
+Head back upstairs and take the stairs on the right to 1F. 
 
-Towards the bottom of the area you'll find more stairs, so take these to go up to 2F. Go to the right here and you'll find a machine with some green lights on it. Inside, you can get *Exp. Candy L*. You can also find a *Thunderstone* and a hidden *Revive*. Activate the panel at the top and go back down. To the left, you'll see an open door. Get ready for battle.
+**Techie Naoman. Field: Factory Field**
+- Zorua, Lv. 34, Serious Nature, IVs: 10
+- Spoink, Lv. 35, Serious Nature, IVs: 10
+ 
+Grab the *Super Potion*.
+
+**Meteor Grunt Devin. Field: Factory Field**
+- Croagunk, Lv. 34, Serious Nature, IVs: 10
+- Graveler-Alola, Lv. 35, Serious Nature, IVs: 10
+
+**Meteor Knight Kenan. Field: Factory Field**
+- Machop, Lv. 34, Serious Nature, IVs: 10
+- Graveler, Lv. 34, Serious Nature, IVs: 10
+
+Beat the grunts and activate the wall panel in the top right corner. This allows you to enter and exit the factory freely, on the right side of the room. Pick up hidden *Purple Shard* and *Super Repel* on this floor.
+
+**Meteor Dame Diana. Field: Factory Field**
+- Electrike, Lv. 34, Serious Nature, IVs: 10
+- Gloom, Lv. 34, Serious Nature, IVs: 10
+- Salandit, Lv. 34, Serious Nature, IVs: 10
+
+Towards the bottom of the area you'll find more stairs, so take these to go up to 2F.
+
+**Meteor Knight Steven. Field: Factory Field**
+- Charjabug, Lv. 34, Serious Nature, IVs: 10
+- Mudsdale, Lv. 34, Serious Nature, IVs: 10
+
+Grab the hidden *Revive* to the left, then go to the right here. Talk to the machine with some green lights on it to get *Exp. Candy L*. 
+
+**Techie Deryl. Field: Factory Field**
+- Trevenant, Lv. 34, Serious Nature, IVs: 10
+- Charjabug, Lv. 35, Serious Nature, IVs: 10
+
+You can find a *Thunderstone* here.
+
+**Meteor Dame Avril. Field: Factory Field**
+- Finneon, Lv. 34, Serious Nature, IVs: 10
+- Gothorita, Lv. 34, Serious Nature, IVs: 10
+
+Activate the panel at the top right and go back downstairs. To the left, you'll see an open door. Get ready for battle.
 
 **Meteor Admin ZEL (2x Hyper Potion). Field: Factory Field**
 - Glaceon, Lv. 37, @Never-Melt Ice, Ability: Ice Body, Hardy Nature, IVs: 31
@@ -4140,7 +4262,7 @@ Towards the bottom of the area you'll find more stairs, so take these to go up t
     - Muddy Water
     - Discharge
 
-This time ZEL comes at us with both a PULSE and three Eeveelutions. The first three members of the team aren't particularly awful - something with a bit of physical bulk and some healing can take Umbreon and a fast physical attacker or two can deal with Glaceon and Espeon.
+This time ZEL comes at us with both a PULSE and three Eeveelutions. The first three members of the team aren't particularly tough - something with a bit of physical bulk and a healing option can take Umbreon, while a fast physical attacker or two can deal with Glaceon and Espeon.
 
 The PULSE Muk can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokemon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last. 
 

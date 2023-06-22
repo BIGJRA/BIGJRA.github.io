@@ -599,28 +599,6 @@
     - Roost
     - Hidden Power
 
-**Meteor Admin ZEL (2x Hyper Potion). Field: **
-- Glaceon, Lv. 37, @Never-Melt Ice, Ability: Ice Body, Hardy Nature, IVs: 31
-    - Ice Shard
-    - Icy Wind
-    - Mirror Coat
-    - Bite
-- Espeon, Lv. 37, @Twisted Spoon, Ability: Magic Bounce, Modest Nature, IVs: 31
-    - Morning Sun
-    - Psychic
-    - Signal Beam
-    - Yawn
-- Umbreon, Lv. 37, @Lum Berry, Ability: Synchronize, Adamant Nature, IVs: 31
-    - Moonlight
-    - Assurance
-    - Quick Attack
-    - Confuse Ray
-- Muk-Alola, Lv. 42, @Leftovers, Ability: Poison Touch, Modest Nature, IVs: 31
-    - Sludge Wave
-    - Mud Bomb
-    - Muddy Water
-    - Discharge
-
 **Meteor Admin ZEL. Field: **
 - Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
     - Hyper Beam
@@ -1065,38 +1043,6 @@
     - Knock Off
     - Seed Bomb
     - Poison Jab
-
-**Entity Shade (2x Hyper Potion). Field: **
-- Gengar, Lv. 35, @Wide Lens, Ability: Cursed Body, Bashful Nature, IVs: 31
-    - Hypnosis
-    - Dream Eater
-    - Shadow Ball
-    - Thunderbolt
-- Dhelmise, Lv. 35, @Lum Berry, Ability: Steelworker, Brave Nature, IVs: 25
-    - Brick Break
-    - Giga Drain
-    - Anchor Shot
-    - Shadow Claw
-- Rotom, Lv. 37, @Leftovers, Bold Nature, IVs: 25
-    - Pain Split
-    - Confuse Ray
-    - Shadow Ball
-    - Discharge
-- Banette, Lv. 36, @Synthetic Seed, Ability: Cursed Body, Bashful Nature, IVs: 31
-    - Shadow Claw
-    - Knock Off
-    - Dazzling Gleam
-    - Destiny Bond
-- Doublade, Lv. 37, @Synthetic Seed, Ability: No Guard, Brave Nature, IVs: 31 (0 Speed)
-    - Gyro Ball
-    - Shadow Claw
-    - Brick Break
-    - Swords Dance
-- Mimikyu, Lv. 38, @Sitrus Berry, Ability: Disguise, Jolly Nature, IVs: 31
-    - Thunderbolt
-    - Swords Dance
-    - Shadow Claw
-    - Play Rough
 
 **Aqua Mastermind Archer (2x Berry Ice Cream). Field: **
 - Pelipper, Lv. 41, Ability: Drizzle, Modest Nature, IVs: 20
@@ -2497,13 +2443,6 @@
     - Swords Dance
     - Sacred Sword
 
-**Beau Amaria. Field: **
-- Lapras, Lv. 87, Ability: Hydration, Bashful Nature, IVs: 31
-    - Waterfall
-    - Ice Beam
-    - Sing
-    - Ice Shard
-
 **Flotsam Amaria (2x Ultra Potion). Field: **
 - Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Scald
@@ -3226,17 +3165,6 @@
     - Hidden Power
     - Air Slash
 
-**Pokemon Savage. Field: **
-- Beartic, Lv. 65, Serious Nature, IVs: 10
-
-**Pokemon Tribe. Field: **
-- Nuzleaf, Lv. 20, Serious Nature, IVs: 10
-- Nuzleaf, Lv. 25, Serious Nature, IVs: 10
-- Nuzleaf, Lv. 25, Serious Nature, IVs: 10
-- Nuzleaf, Lv. 30, Serious Nature, IVs: 10
-- Nuzleaf, Lv. 30, Serious Nature, IVs: 10
-- Shiftry, Lv. 55, Serious Nature, IVs: 10
-
 **Spectral Kiki. Field: **
 - Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
     - Meditate
@@ -3260,20 +3188,6 @@
     - Pain Split
     - Stockpile
     - Drain Punch
-
-**Pokemon Don. Field: **
-- Pangoro, Lv. 45, Ability: Scrappy, Adamant Nature, IVs: 20
-    - Body Slam
-    - Circle Throw
-    - Crunch
-    - Vital Throw
-
-**Pokemon Don. Field: **
-- Pangoro, Lv. 50, @Sitrus Berry, Ability: Iron Fist, Adamant Nature, IVs: 30
-    - Body Slam
-    - Circle Throw
-    - Crunch
-    - Hammer Arm
 
 **Harridan Craudburry. Field: **
 - Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
@@ -3971,9 +3885,6 @@
     - Liquidation
 
 **Meteor Grunt Ricardo. Field: **
-- Lairon, Lv. 34, Serious Nature, IVs: 10
-
-**Meteor Grunt Ricardo. Field: **
 - Whirlipede, Lv. 42, Serious Nature, IVs: 10
 - Lairon, Lv. 43, Serious Nature, IVs: 10
 
@@ -4037,10 +3948,6 @@
     - Rock Slide
 
 **Meteor Grunt Sanchez. Field: **
-- Shelmet, Lv. 34, Serious Nature, IVs: 10
-- Palpitoad, Lv. 35, Serious Nature, IVs: 10
-
-**Meteor Grunt Sanchez. Field: **
 - Lunatone, Lv. 44, Serious Nature, IVs: 10
 - Accelgor, Lv. 45, Serious Nature, IVs: 10
 - Seismitoad, Lv. 46, Serious Nature, IVs: 10
@@ -4093,10 +4000,6 @@
     - Thunderbolt
     - Earth Power
     - Psychic
-
-**Meteor Grunt Devin. Field: **
-- Croagunk, Lv. 34, Serious Nature, IVs: 10
-- Graveler-Alola, Lv. 35, Serious Nature, IVs: 10
 
 **Meteor Grunt Devin. Field: **
 - Solrock, Lv. 44, Serious Nature, IVs: 10
@@ -4170,9 +4073,6 @@
 - Piloswine, Lv. 47, Serious Nature, IVs: 10
 - Toxapex, Lv. 49, Serious Nature, IVs: 10
 - Gigalith, Lv. 47, Serious Nature, IVs: 10
-
-**Meteor Grunt Hilda. Field: **
-- Golbat, Lv. 34, Serious Nature, IVs: 10
 
 **Meteor Grunt Hilda. Field: **
 - Quilladin, Lv. 42, Serious Nature, IVs: 10
@@ -4799,10 +4699,6 @@
     - Fire Blast
 
 **Techie Naoman. Field: **
-- Zorua, Lv. 34, Serious Nature, IVs: 10
-- Spoink, Lv. 35, Serious Nature, IVs: 10
-
-**Techie Naoman. Field: **
 - Zoroark, Lv. 53, Serious Nature, IVs: 10
 - Grumpig, Lv. 53, Serious Nature, IVs: 10
 
@@ -4839,10 +4735,6 @@
     - Flash Cannon
     - Signal Beam
     - Hidden Power
-
-**Meteor Knight Steven. Field: **
-- Charjabug, Lv. 34, Serious Nature, IVs: 10
-- Mudsdale, Lv. 34, Serious Nature, IVs: 10
 
 **Meteor Knight Steven. Field: **
 - Vikavolt, Lv. 53, Serious Nature, IVs: 10
@@ -4892,10 +4784,6 @@
     - High Horsepower
     - Counter
     - Rock Slide
-
-**Meteor Knight Kenan. Field: **
-- Machop, Lv. 34, Serious Nature, IVs: 10
-- Graveler, Lv. 34, Serious Nature, IVs: 10
 
 **Meteor Knight Kenan. Field: **
 - Machoke, Lv. 53, Serious Nature, IVs: 10
@@ -4969,10 +4857,6 @@
     - Giga Drain
 
 **Meteor Dame Avril. Field: **
-- Finneon, Lv. 34, Serious Nature, IVs: 10
-- Gothorita, Lv. 34, Serious Nature, IVs: 10
-
-**Meteor Dame Avril. Field: **
 - Lumineon, Lv. 53, Serious Nature, IVs: 10
 - Golisopod, Lv. 53, Serious Nature, IVs: 10
 - Gothitelle, Lv. 53, Serious Nature, IVs: 10
@@ -5025,11 +4909,6 @@
     - Dark Pulse
     - Calm Mind
     - Thunderbolt
-
-**Meteor Dame Diana. Field: **
-- Electrike, Lv. 34, Serious Nature, IVs: 10
-- Gloom, Lv. 34, Serious Nature, IVs: 10
-- Salandit, Lv. 34, Serious Nature, IVs: 10
 
 **Meteor Dame Diana. Field: **
 - Manectric, Lv. 53, Serious Nature, IVs: 10
@@ -5111,10 +4990,6 @@
     - Giga Drain
     - Sleep Powder
     - Moonblast
-
-**Techie Deryl. Field: **
-- Trevenant, Lv. 34, Serious Nature, IVs: 10
-- Charjabug, Lv. 35, Serious Nature, IVs: 10
 
 **Techie Deryl. Field: **
 - Trevenant, Lv. 53, Serious Nature, IVs: 10
@@ -5538,17 +5413,6 @@
 - Octillery, Lv. 54, Serious Nature, IVs: 10
 - Sharpedo, Lv. 54, Serious Nature, IVs: 10
 - Feraligatr, Lv. 55, Serious Nature, IVs: 10
-
-**Psychic Rin. Field: **
-- Pumpkaboo, Lv. 34, Serious Nature, IVs: 10
-- Yamask, Lv. 34, Serious Nature, IVs: 10
-
-**Psychic Damon. Field: **
-- Gastly, Lv. 35, Serious Nature, IVs: 10
-- Litwick, Lv. 35, Serious Nature, IVs: 10
-
-**Techie Caleb. Field: **
-- Porygon, Lv. 34, Serious Nature, IVs: 10
 
 **Fisherman Jerry. Field: **
 - Grimer, Lv. 35, Serious Nature, IVs: 10
