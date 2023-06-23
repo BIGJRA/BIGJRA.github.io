@@ -1795,7 +1795,7 @@ Once you succeed, the vines will recede and we'll be back in the park.
 |Bellsprout        |20 |Bellsprout        |20 |Bellsprout        |20 |
 |Sunkern           |20 |Venonat           |10 |Oddish            |20 |
 |Oddish            |15 |**Sentret**       |10 |Venonat           |18 |
-|Sentret           |5  |Buneary           |10 |Bonsly            |2  |
+|**Sentret**       |5  |Buneary           |10 |Bonsly            |2  |
 |Slakoth           |5  |Bonsly            |10 |                  |   |
 |Sunflora          |5  |Sunkern           |10 |                  |   |
 |                  |   |Slakoth           |5  |                  |   |
@@ -4286,7 +4286,38 @@ You can also catch **Pyukumuku** chilling all around the beach.
 
 Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokeSnax*, *Common Candy*, *Full Heal*, *Blue Shard*. 
 
-You'll enter the Apophyll Academy map by going to the left at the top. Go all the way around the academy sticking to this map: hidden here are *Super Potion*, *Shoal Shell*,  *Blue Shard*, *Full Heal*, and *Soft Sand*. Back down at the academy's front entrance, go down from here. You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
+Trainers on this part of the beach:
+
+**Fisherman Jerry. Field: Ashen Beach**
+- Grimer, Lv. 35, Serious Nature, IVs: 10
+
+**Nature Girl Minnie. Field: Ashen Beach**
+- Riolu, Lv. 38, Serious Nature, IVs: 10
+
+**Fisherman Moritz. Field: Ashen Beach**
+- Frillish, Lv. 38, Serious Nature, IVs: 10
+
+**Battle Girl Mauve. Field: Ashen Beach**
+- Combusken, Lv. 35, Serious Nature, IVs: 10
+
+You'll enter the Apophyll Academy map by going to the left at the top. Go all the way around the academy sticking to this map: hidden here are *Super Potion*, *Shoal Shell*, *Blue Shard*, *Full Heal*, and *Soft Sand*. 
+
+**Fisherman Daniel. Field: Ashen Beach**
+- Wishiwashi, Lv. 37, Serious Nature, IVs: 10
+
+Back down at the academy's front entrance, go down from here. 
+
+**Black Belt Paul. Field: Ashen Beach**
+- Tyrogue, Lv. 34, Serious Nature, IVs: 10
+- Hitmontop, Lv. 37, Serious Nature, IVs: 10
+
+**Hiker Greyson. Field: Ashen Beach**
+- Sandygast, Lv. 38, Serious Nature, IVs: 10
+
+**Battle Girl Tina. Field: Ashen Beach**
+- Meditite, Lv. 36, Serious Nature, IVs: 10
+
+You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
 
 **Apophyll Academy / Apophyll Beach West**
 
@@ -4296,11 +4327,24 @@ You'll enter the Apophyll Academy map by going to the left at the top. Go all th
 |**Shuckle**       |39 |                  |   |
 |Binacle           |1  |                  |   |
 
-Before we continue the story, head to the left side of the academy to reach a new section of beach. Across the wide band from the Pyrous Mountain entrance at the bottom to the Apophyll Cave entrance at the top, you'll find hidden *Swift Wing*, *Green Shard*, *Star Piece*, *Telluric Seed*, 3 *Shoal Shells*, 2 *Stardusts*, 2 *Purple Shards*, *Exp. Candy L*, *X Sp. Def*, and *Red Shard*. 
+Before we continue the story, head to the left side of the academy to reach a new section of beach. Go down and left from here.
 
-If it is storming, you can find a **Corsola** on the left side of the area who will join you in exchange for snax.
+**Hiker Jack. Field: Rocky Field**
+- Archen, Lv. 38, Serious Nature, IVs: 10
 
-Head back to the Apophyll Academy. Now, we're going to head inside.
+You'll see the entrance to Pyrous Mountain here - we won't be entering quite yet. Make your way up the western part of the beach from here. 
+
+**Nature Girl Ici. Field: Ashen Beach**
+- Throh, Lv. 38, Serious Nature, IVs: 10
+
+**Psychic Juan. Field: Ashen Beach**
+- Raichu-Alola, Lv. 38, Serious Nature, IVs: 10
+
+On the western beach, you can find hidden items:  *Swift Wing*, *Green Shard*, *Star Piece*, *Telluric Seed*, 3 *Shoal Shells*, 2 *Stardusts*, 2 *Purple Shards*, *Exp. Candy L*, *X Sp. Def*, and *Red Shard*. 
+
+If it is storming, you can find a **Corsola** on the left side of the area who will join you in exchange for snax. 
+
+The Apophyll Cave is up from here, but we will return in a bit. Head back to the Apophyll Academy. Now, we're going to head inside.
 
 **Apophyll Academy Shop**
 
@@ -4316,7 +4360,22 @@ Head back to the Apophyll Academy. Now, we're going to head inside.
 |*Super Repel*  |$700       |
 |*Poke Ball*    |$200       |
 
-Head up to reach the middle part of the area. Fight some trainers and pick up a hidden *Guard Spec.* Now we are going to enter the six doors in this area: the top left has a *Black Belt*, the girl in the bottom left wants us to steal a TV for her (in a bit), the Dudebro in the top right wants Protein in exchange for his *Ashen Beach Field Readout*, the guy in the middle right will give us *Pure Incense*, the bottom right room contains a person who will tell us about the *unrealtime* password and a person who judges Hidden Power types. 
+Head up to reach the middle part of the area.
+
+**Black Belt Ryan. Field: Ashen Beach**
+- Chimchar, Lv. 35, Serious Nature, IVs: 10
+- Monferno, Lv. 35, Serious Nature, IVs: 10
+
+**Nature Girl Cocoa. Field: Ashen Beach**
+- Hitmonchan, Lv. 37, Serious Nature, IVs: 10
+
+**Black Belt Mason. Field: Ashen Beach**
+- Primeape, Lv. 38, Serious Nature, IVs: 10
+
+**Battle Girl Lisa. Field: Ashen Beach**
+- Poliwhirl, Lv. 38, Serious Nature, IVs: 10
+
+Pick up a hidden *Guard Spec.* Now we are going to enter the six doors in this area: the top left has a *Black Belt*, the girl in the bottom left wants us to steal a TV for her (in a bit), the Dudebro in the top right wants Protein in exchange for his *Ashen Beach Field Readout*, the guy in the middle right will give us *Pure Incense*, the bottom right room contains a person who will tell us about the *unrealtime* password and a person who judges Hidden Power types. 
 
 Enter the area at the top, then go up the stairs. Talk to every NPC here and agree to study with those who ask. One is a tutor.
 
@@ -4329,12 +4388,18 @@ Enter the area at the top, then go up the stairs. Talk to every NPC here and agr
 |Endeavor   |3 Green Shards |
 |Pain Split |3 Red Shards   |
 
-Head out the door to the right, then go down. In the next room talk to the NPCs again and study with them. Head out the door to the right and talk to the girl on the path to get **Meditite**. 
+Head out the door on the bottom right, then walk across the roof. In the next room, talk to the NPCs again and study with them. Head out the door to the left, and talk to the girl on the roof to get **Meditite**. 
 
 Relationship Point Chocies:
 - Obtain Meditite (+1 Victoria)
 
-Back down from here, attempt to steal the TV. Once you win, return to the girl who requested it to get *Department Store Sticker: Meditite*. 
+Back down from here, attempt to steal the TV.
+
+**Nature Girl Kacey. Field: No Field**
+- Krabby, Lv. 40, Serious Nature, IVs: 10
+- Binacle, Lv. 44, Serious Nature, IVs: 10
+
+Once you win, return to the girl who requested it to get *Department Store Sticker: Meditite*. 
 
 **Department Store 6F Left Shop**
 
@@ -4366,7 +4431,7 @@ Back down from here, attempt to steal the TV. Once you win, return to the girl w
 
 The type berries are all pretty useful when you need them, but I would recommend only stocking up when you know you need some because of the price.
 
-Anyways, back in Apophyll we are next going to explore the optional area Apophyll Cave at the very top of the beach.
+Anyways, back in Apophyll, we are next going to explore the optional area Apophyll Cave at the very top-left corner of the beach.
 
 ## Apophyll Cave
 
@@ -4381,6 +4446,21 @@ Anyways, back in Apophyll we are next going to explore the optional area Apophyl
 |**Stunfisk**      |7  |                  |   |
 
 We will eventually be able to trade Stunfisk later on, so get one if you can.
+
+**Battle Girl Dillon. Field: Cave Field**
+- Pyukumuku, Lv. 40, @Leftovers, Ability: Unaware, Serious Nature, IVs: 10
+    - Soak
+    - Toxic
+    - Recover
+- Shuckle, Lv. 41, @Leftovers, Ability: Contrary, Serious Nature, IVs: 10
+    - Shell Smash
+    - Rest
+    - Toxic
+- Delibird, Lv. 42, @Wide Lens, Ability: Hustle, Serious Nature, IVs: 10
+    - Fake Out
+    - Drill Peck
+    - Brick Break
+    - Ice Shard
 
 In item balls you can find the *Oval Charm*, and *Dragon Memory*. Hidden on the first floor is a *Heat Rock*, *Blue Shard*, *Super Potion*, and *Exp. Candy M*.
 
@@ -4438,12 +4518,12 @@ To fight Victoria, head into the courtyard of the academy.
     - Iron Head
     - Fire Fang
 
-Victoria is starting to really beef up her team but still isn't incredibly tough. She picked up a Mienfoo and finally evolved her other four team members, so they can actually deal damage now. You'll notice from the field notes that Strength and Meditate are boosted on this field, so watch out for those. With good coverage and/or exploiting the field you can win this battle!
+Victoria has a tougher team than last time. She picked up a Mienfoo and finally evolved her other four team members, so they can actually deal significant damage now. You'll notice from the field notes that Strength and Meditate are boosted on this field, so watch out for those. With good coverage and/or exploiting the field you can win this battle!
 
 **Relationship Point Choices:**
 - Defeat Victoria at Apophyll Academy (+1 Victoria)
 
-Now I will tackle climbing Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually. It is located at the bottom left corner of Apophyll Beach.
+Cal is on the top of Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually, so I do it now. Make your way to the mountain via the bottom left corner of Apophyll Beach.
 
 **Pyrous Mountain B1F / 1F / 2F / 3F**
 
@@ -4470,7 +4550,7 @@ You can also find Magcargo by smashing the nearby pillars. Anyways, nothing to d
 
 Grab a hidden *Red Shard* and drain the lava. Head up the ladder and immediately come back down. If it is still glowing, you can smash the pillar to get **Turtonator**. This is one of two possibilities of a randomly determined event.
 
-Back on B1F, you'll see that the lava has drained, so go into the empty pool and go down. Head down the ladder here, and you'll find a hidden *Charcoal*. If you didn't get Turtonator earlier, there will be a **Heatmor** here to catch. Back upstairs, jump down the hole in the pool to get a *Flame Orb* as well as the *Super-Heated Field Readout*.
+Back on B1F, you'll see that the lava has drained, so go into the empty pool and go down. Head down the ladder here, and you'll find a hidden *Charcoal* and a *Fire Stone*. If you didn't get Turtonator earlier, there will be a **Heatmor** here to catch. Back upstairs, jump down the hole in the floor to get a *Flame Orb* as well as the *Super-Heated Field Readout*.
 
 Head back to 1F, where the lava will now be drained as well. Follow the path up to 3F. A lava pool will force you to the left back to 2F, where you can drain the lava. Take the ladder to 1F then head to the left to drain it again. Finally, return to B1F then B2F to finish draining the lava as we did before. 
 
@@ -4554,9 +4634,9 @@ To finish off this section, we have to battle Kiki in the main courtyard. Prepar
     - Strength
     - Ice Punch
 
-Man this fight kicks my butt on at least half of my replays. Ashen Beach field has so many little things that help her team of six fully evolved Fighting types that you really have to be on your toes to survive this battle. Her lead either will go straight for a field boosted Strength if your lead is weak or will set up +3 Attack on the first turn, so it is hard to immediately get momentum. In the back is Toxicroak who loves setting up and punishing you with Sucker Punch, Hitmonlee, who will outspeed the whole world thanks to Unburden, Gallade who... is just OK honestly, Lucario who is the sole special attacker and loves to get a double boost with field-boosted Calm Mind, and Medicham, who hits like a truck. Medicham and Lucario also ignore accuracy and evasion!
+Man this fight kicks my butt on at least half of my replays. Ashen Beach field has so many little things that help her team of six fully evolved Fighting types that you really have to be on your toes to survive this battle. Her lead either will go straight for a field boosted Strength or will set up +3 Attack on the first turn, so it is hard to immediately get momentum. In the back is Toxicroak who loves setting up and punishing you with Sucker Punch, Hitmonlee, who will outspeed everything thanks to the combo of Normal Gem, Fake Out, and Unburden, Gallade who... is just OK but still strong, Lucario who is the sole special attacker and loves to get a double boost with field-boosted Calm Mind, and Medicham, who hits like a truck and always crits thanks to its seed. Medicham and Lucario also ignore accuracy and evasion with their abilities!
 
-This field can't be changed naturally, so you can try your best to work within it. One obvious answer within is that Psychic, Zen Headbutt, and Calm Mind get boosts here, so if you can get around Hitmonlee and Toxicroak's priority/speedy dark moves you can sweep that way somehow. Stoutland and Sandslash's Sand Rush is always on and could help with certain strategies. The Sand and Mud moves also get boosted here as do Muddy Water and Surf, so if you need extra damage you may consider those. Otherwise, it's really all just about maintaining some kind of momentum. If you're able to bait out Toxicroak's 5 Sucker Punches very carefully you can set up on it for example. Your own uses of Nature Power into Meditate can turn many physical attackers into potential sweepers, so that's something to consider. This one is hard for me everytime but I always eventually figure it out, so can you!
+This field can't be changed naturally, but you there are powerful tricks you can use to exploit it. Psychic, Zen Headbutt, and Calm Mind get boosts here, so if you can get around Hitmonlee and Toxicroak's priority/speedy dark moves, a Psychic type can do heavy damage. The Sand and Mud moves also get boosted here as do Muddy Water and Surf, so if you need extra damage, they're great options especially under Rain. Otherwise, it's really all just about countering the priority moves and building momentum. If you're able to bait out Toxicroak's 5 Sucker Punches, you can use those turns to set up a sweeper of your own. Exploit Nature Power too: since it turns into Meditate, it can turn many physical attackers into potential sweepers. This one is hard for me everytime but I always eventually figure it out, so can you!
 
 **Relationship Point Choices:**
 - Defeat Kiki on your first try (+1 Victoria)
