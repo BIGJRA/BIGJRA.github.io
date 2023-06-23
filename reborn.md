@@ -65,7 +65,9 @@ title: |
   - [Pyrous Mountain](#pyrous-mountain)
   - [VS. The Sensei](#vs-the-sensei)
 - [Episode 7: Poison In Vain](#episode-7-poison-in-vain)
+  - [Azurine Island](#azurine-island)
   - [The Battle for Apophyll](#the-battle-for-apophyll)
+  - [Grand Hall Trainers 4](#grand-hall-trainers-4)
   - [Byxbysion Wasteland](#byxbysion-wasteland)
   - [Byxbysion Tunnels](#byxbysion-tunnels)
   - [Blight Badge](#blight-badge)
@@ -4646,6 +4648,8 @@ This field can't be changed naturally, but you there are powerful tricks you can
 
 Take the yacht to Azurine Island.
 
+## Azurine Island
+
 **Azurine Island**
 
 |Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
@@ -4670,11 +4674,11 @@ Take the yacht to Azurine Island.
 
 With that, we can start to explore this island. Note that many item balls are Foongus in disguise.
 
-The first island has a *Potion* and hidden *Pretty Wing*. The next area contains a *Great Ball* and hidden *Hyper Potion*. Before cutting the tree go to the left to get  a hidden *Red Shard* and *TM83 Infestation*. 
+The first island has a *Potion* and hidden *Pretty Wing*. The next area contains a *Great Ball* and hidden *Hyper Potion*. Before cutting the tree go to the left across the moss to get a hidden *Red Shard* and *TM83 Infestation*. 
 
 Cut the tree and go right. Before going down the ledge you can get an *Antidote* as well as hidden *Ice Gem*, *Resist Wing* and 2 *TinyMushrooms*. You'll find a hidden *Purple Shard* below.
 
-On the next island to the right, you can find a hidden *Green Shard*, *Tiny Mushroom*,*Red Shard*, and *Synthetic Seed*. Following the path behind the Foongus in the bottom left you can get a *Shiny Stone*.
+On the next island to the right, you can find a hidden *Green Shard*, *Tiny Mushroom*, *Red Shard*, and *Synthetic Seed*. Following the path behind the Foongus in the bottom left you can get a *Shiny Stone*.
 
 Back up from here, cross to the right. You can find a hidden *Green Shard* on this island. At the top left there is a path across the water that will lead to a hidden *Thunderstone*. 
 
@@ -4714,7 +4718,7 @@ You can head down as soon as you touch land to get a *Miracle Seed*. Back on lan
     - Rock Slide
     - Crush Claw
 
-Another battle with Aster and Eclipse, this time featuring a full team, however this one shouldn't usually be too bad. Deal with Solrock and Lunatone as you usually do, then you'll have the other four. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokemon with Nature Power into field-boosted Muddy Water, so be careful of that, but you should be able to take it down otherwise without too much trouble.
+Another battle with Aster and Eclipse, this time featuring a full team. Solrock and Lunatone are somewhat slow and have many weaknesses. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokemon with Nature Power into field-boosted Muddy Water, so be careful of that.
 
 Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Escape Rope*. Cut the tree up from here to get another hidden *Tiny Mushroom*. Go down from here. You'll find a *Magical Seed* and hidden *Purple Shard*. Head down and right to grab a hidden *Tiny Mushroom* and a hidden *Green Shard* a bit further... and we can finally enter the building here. 
 
@@ -4742,22 +4746,62 @@ Pick up the *PULSE Readout 6* and talk to the machine in the top to reveal a sec
     - Chatter
     - Roost
 
-Time to fight Taka again. Although he has added Klefki and Gligar to his team, neither should be too threatening. Just be careful of Exeggutor hitting hard with its STABs and Nature Power into Gear Grind and also Chatot setting up on you.
+Time to fight Taka again. Although he has added Klefki and Gligar to his team, neither should be too threatening. Just be careful of Exeggutor hitting hard with its STABs and Nature Power -> Gear Grind, and also Chatot setting up on you.
 
 Accept Cain's fast travel request. 
 
 ## The Battle for Apophyll
 
-Once you're back on Apophyll, prepare your team. It's worth pointing out that in the battle winning is optional, but there are strategies to win if you're interested. Head down to Pyrous Mountain.
+Once you're back on Apophyll, prepare your team. It's worth pointing out that winning the upcoming boss battle  is optional, but there are strategies to win if you're interested. Head down to Pyrous Mountain.
 
 Head in and you'll be partnered up with Victoria.
 
 **Relationship Point Choices:**
 - Try to leave Pyrous while partnered with Victoria (-2 Victoria)
 
-Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go.
+**Meteor Grunt Ama & Meteor Grunt Christopher. Field: Super-Heated Field**
+- Noctowl, Lv. 39, Serious Nature, IVs: 10
+- Dodrio, Lv. 39, Serious Nature, IVs: 10
+- Klang, Lv. 40, Serious Nature, IVs: 10
+- Gabite, Lv. 39, Serious Nature, IVs: 10
+- Shuckle, Lv. 39, Serious Nature, IVs: 10
+- Doublade, Lv. 40, Serious Nature, IVs: 10
 
-Once you reach the peak, it's time for that battle I was talking about. 
+Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go. To the left:
+
+**Meteor Grunt Antoine & Meteor Grunt Demian. Field: Super-Heated Field**
+- Mightyena, Lv. 40, Serious Nature, IVs: 10
+- Liepard, Lv. 40, Serious Nature, IVs: 10
+- Venomoth, Lv. 40, Serious Nature, IVs: 10
+- Graveler, Lv. 40, Serious Nature, IVs: 10
+
+On B1F:
+
+**Meteor Grunt Minta & Meteor Grunt Chad. Field: Super-Heated Field**
+- Hariyama, Lv. 39, Serious Nature, IVs: 10
+- Sudowoodo, Lv. 39, Serious Nature, IVs: 10
+- Haunter, Lv. 40, Serious Nature, IVs: 10
+- Venomoth, Lv. 39, Serious Nature, IVs: 10
+- Pignite, Lv. 39, Serious Nature, IVs: 10
+- Fearow, Lv. 40, Serious Nature, IVs: 10
+
+Back on 1F, following the path up the mountain:
+
+**Meteor Grunt Michaela & Meteor Grunt Winter. Field: Super-Heated Field**
+- Skuntank, Lv. 40, Serious Nature, IVs: 10
+- Minior, Lv. 40, Serious Nature, IVs: 10
+- Metang, Lv. 40, Serious Nature, IVs: 10
+- Milotic, Lv. 40, Serious Nature, IVs: 10
+
+**Meteor Dame Regina & Meteor Dame Gretchen. Field: Super-Heated Field**
+- Tsareena, Lv. 40, Serious Nature, IVs: 10
+- Houndoom, Lv. 41, Serious Nature, IVs: 10
+- Serperior, Lv. 40, Serious Nature, IVs: 10
+- Delcatty, Lv. 40, Serious Nature, IVs: 10
+- Lunatone, Lv. 40, Serious Nature, IVs: 10
+- Heliolisk, Lv. 41, Serious Nature, IVs: 10
+
+Once you reach the peak, it's time for that boss battle I was talking about. 
 
 **In order to access the exclusive postgame route, you need to win this battle.**
 
@@ -4774,6 +4818,100 @@ This is an "impossible battle" in the normal sense that the story will progress 
 
 **Relationship Point Choices:**
 - Defeat Solaris on Pyrous (+1 Cain, +1 Victoria, +1 Cal, +1 Shade, +1 Anna, +3 Taka)
+
+Return to Reborn City after the scenes here conclude.
+
+## Grand Hall Trainers 4
+
+Once more, trainers in the Grand Hall have gotten stronger. Defeating them will now yield 5 *Exp. Candy L*, so grinding weaker team members is much easier. The updated teams are as follows:
+
+**Arcade Star Carol (SUN). Field: No Field**
+- Feraligatr, Lv. 50, Serious Nature, IVs: 10
+- Furret, Lv. 50, Serious Nature, IVs: 10
+- Furfrou, Lv. 50, Serious Nature, IVs: 10
+- Meganium, Lv. 50, Serious Nature, IVs: 10
+
+**Hotshot Fawkes (SUN). Field: No Field**
+- Doublade, Lv. 47, Serious Nature, IVs: 10
+- Typhlosion, Lv. 49, Serious Nature, IVs: 10
+- Greninja, Lv. 50, Serious Nature, IVs: 10
+
+**Casanova Gibson (SUN). Field: No Field**
+- Rampardos, Lv. 50, Serious Nature, IVs: 10
+- Sawk, Lv. 50, Ability: Inner Focus, Serious Nature, IVs: 10
+- Kabutops, Lv. 50, Serious Nature, IVs: 10
+
+**Youngster Jonah (MON). Field: No Field**
+- Squirtle, Lv. 45, @Leftovers, Quirky Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+- Wartortle, Lv. 47, @Leftovers, Serious Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Aqua Tail
+- Wartortle, Lv. 50, @Leftovers, Bashful Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+- Blastoise, Lv. 52, @Leftovers, Docile Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+
+**Hotshot Jace (TUE). Field: No Field**
+- Drifblim, Lv. 47, Serious Nature, IVs: 10
+- Watchog, Lv. 46, Serious Nature, IVs: 10
+- Pawniard, Lv. 46, Serious Nature, IVs: 10
+- Comfey, Lv. 48, Serious Nature, IVs: 10
+
+**Psychic Silva (WED). Field: No Field**
+- Mawile, Lv. 47, @Assault Vest, Ability: Sheer Force, Adamant Nature, IVs: 15
+    - Play Rough
+    - Sucker Punch
+    - Iron Head
+    - Ice Fang
+- Xatu, Lv. 46, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
+    - Light Screen
+    - Reflect
+    - Giga Drain
+    - Roost
+- Weavile, Lv. 50, @Choice Band, Ability: Pressure, Jolly Nature, IVs: 15
+    - Icicle Crash
+    - Night Slash
+    - Low Kick
+    - Poison Jab
+
+**Elder JB (THU). Field: No Field**
+- Delphox, Lv. 49, Serious Nature, IVs: 10
+- Greninja, Lv. 49, Serious Nature, IVs: 10
+- Sliggoo, Lv. 49, Serious Nature, IVs: 10
+
+**Techie Will (FRI). Field: No Field**
+- Sceptile, Lv. 49, Serious Nature, IVs: 10
+- Charizard, Lv. 50, Serious Nature, IVs: 10
+- Gardevoir, Lv. 51, Serious Nature, IVs: 10
+
+**Elder Anthony (SAT). Field: No Field**
+- Rufflet, Lv. 49, Serious Nature, IVs: 10
+- Goodra, Lv. 51, Serious Nature, IVs: 10
+- Garchomp, Lv. 53, Serious Nature, IVs: 10
+  
+**Hotshot Emile (SAT). Field: No Field**
+- Serperior, Lv. 46, Serious Nature, IVs: 10
+- Gardevoir, Lv. 48, Serious Nature, IVs: 10
+- Typhlosion, Lv. 50, Serious Nature, IVs: 10
+- Nidoking, Lv. 52, Serious Nature, IVs: 10
+
+**Casanova Zach & Lady Beau (SAT). Field: No Field**
+- Venusaur, Lv. 50, Serious Nature, IVs: 10
+- Reuniclus, Lv. 51, Serious Nature, IVs: 10
+- Wigglytuff, Lv. 50, Serious Nature, IVs: 10
+- Togekiss, Lv. 51, Serious Nature, IVs: 10
 
 ## Byxbysion Wasteland
 
