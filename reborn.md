@@ -5140,31 +5140,31 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
 **Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field**
+- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 15
+    - Flame Wheel
+    - Bonemerang
+    - Shadow Bone
+    - Will-O-Wisp
+- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 15
+    - Charge Beam
+    - Psychic
+    - Shadow Ball
+    - Light Screen
+- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 15
+    - Gunk Shot
+    - Minimize
+    - Disable
+    - Knock Off
+- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
+    - Sparkling Aria
+    - Icy Wind
+    - Moonblast
+    - Sing
 - Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
     - Thrash
     - Throat Chop
     - Poison Tail
     - Shadow Ball
-- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 10
-    - Flame Wheel
-    - Bonemerang
-    - Shadow Bone
-    - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 10
-    - Charge Beam
-    - Psychic
-    - Shadow Ball
-    - Light Screen
-- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 10
-    - Gunk Shot
-    - Minimize
-    - Power-Up Punch
-    - Knock Off
-- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
-    - Water Pledge
-    - Icy Wind
-    - Disarming Voice
-    - Sing
 
 Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokemon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
 
@@ -5206,14 +5206,38 @@ First, note that the Pokemarts and the candy store have new inventory now.
 |*Exp. Candy L*     |$10000     |
 |*Rare Candy*       |$12000     |
 
-Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge. Go down and right. You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* then find *TM94 Secret Power*. Exit the mountain.
+Back in Opal Ward, there are new trainers on the bridge.
+
+**Street Rat Owen. Field: No Field**
+- Ninetales, Lv. 44, IVs: 10
+    - Ember
+    - Quick Attack
+    - Confuse Ray
+    - Safeguard
+
+**Hotshot Mikey. Field: No Field**
+- Togedemaru, Lv. 44, Serious Nature, IVs: 10
+
+**Posh Lulu. Field: No Field**
+- Smeargle, Lv. 43, Serious Nature, IVs: 10
+    - Water Pledge
+    - Thunder Wave
+    - Razor Shell
+    - Boomburst
+- Munna, Lv. 44, Serious Nature, IVs: 10
+
+Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge. 
+
+<img class="tabImage" src="/assets/media/reborn/citrine2f2.png"/>
+
+Go down and right (1). You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left (2) and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* as well as *TM94 Secret Power*. Exit the mountain.
 
 Make your way west to the Beryl Cemetery. Victoria is down from here.
 
 **Relationship Point Choices:**
 - Talk to Victoria in the cemetery (+2 Victoria)
 
-Next, we're gonna return to Byxbysion Wasteland. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave. 
+Next, we're gonna return to Byxbysion Wasteland. Make your way to the right, going down the slide as before. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave. 
 
 **Spectral Kiki. Field: Wasteland Field**
 - Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
@@ -5222,7 +5246,7 @@ Next, we're gonna return to Byxbysion Wasteland. After exiting the tall building
     - Drain Punch
     - Ice Punch
 
-Another tough fight with a single Pokemon but at this point you should have a strategy to deal with these.
+Another tough fight with a single Pokemon, but you have some cheese strategies in your back pocket if need be.
 
 Win and you'll obtain **Misdreavus**.
 
@@ -5248,7 +5272,45 @@ You'll be partnered with Cain.
 **Relationship Point Choices:**
 - Try to leave Yureyu while partnered with Cain (-1 Cain)
 
-It's a very straightforward area: defeat all the Meteor grunts as you make your way up. Once we reach the floor that Sigmund is on, we'll have a story choice to make.
+It's a very straightforward area: defeat all the Meteor grunts as you make your way up. 
+
+**Meteor Grunt Hilda & Meteor Grunt Ricardo. Field: Short-Circuit Field**
+- Quilladin, Lv. 42, Serious Nature, IVs: 10
+- Golbat, Lv. 43, Serious Nature, IVs: 10
+- Whirlipede, Lv. 42, Serious Nature, IVs: 10
+- Lairon, Lv. 43, Serious Nature, IVs: 10
+
+**Meteor Grunt Kenneth & Meteor Grunt Brenna. Field: Short-Circuit Field**
+- Mothim, Lv. 42, Serious Nature, IVs: 10
+- Emboar, Lv. 43, Serious Nature, IVs: 10
+- Emolga, Lv. 41, Serious Nature, IVs: 10
+- Minior, Lv. 41, Serious Nature, IVs: 10
+- Samurott, Lv. 42, Serious Nature, IVs: 10
+
+**Meteor Grunt Simon & Meteor Grunt Tara. Field: Short-Circuit Field**
+- Carnivine, Lv. 42, Serious Nature, IVs: 10
+- Mudsdale, Lv. 42, Serious Nature, IVs: 10
+- Muk-Alola, Lv. 43, Serious Nature, IVs: 10
+- Whirlipede, Lv. 42, Serious Nature, IVs: 10
+- Onix, Lv. 42, Serious Nature, IVs: 10
+- Golbat, Lv. 43, Serious Nature, IVs: 10
+
+**Meteor Grunt Mary & Meteor Grunt Coleman. Field: Short-Circuit Field**
+- Toxapex, Lv. 41, Serious Nature, IVs: 10
+- Gigalith, Lv. 43, Serious Nature, IVs: 10
+- Golbat, Lv. 41, Serious Nature, IVs: 10
+- Gurdurr, Lv. 41, Serious Nature, IVs: 10
+- Tsareena, Lv. 42, Serious Nature, IVs: 10
+
+**Meteor Knight Ringo & Meteor Knight Rod. Field: Short-Circuit Field**
+- Whirlipede, Lv. 43, Serious Nature, IVs: 10
+- Lunatone, Lv. 43, Serious Nature, IVs: 10
+- Passimian, Lv. 44, Serious Nature, IVs: 10
+- Beedrill, Lv. 43, Serious Nature, IVs: 10
+- Solrock, Lv. 43, Serious Nature, IVs: 10
+- Sandygast, Lv. 44, Serious Nature, IVs: 10
+
+Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
 **In order to access the exclusive postgame route, you need to refuse fighting Sigmund at Yureyu.**
 
@@ -5292,7 +5354,7 @@ If you said no to Sigmund, skip ahead to the next section.
     - Low Kick
     - Ice Punch
 
-Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Factory field will boost the former and the Psychic Terrain the latter, so make sure you neutralize whatever the biggest threat of your two opponent is each turn and you'll probably win.
+Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Factory field will boost the former and the Psychic Terrain the latter, so make sure you neutralize the most threatening of your two opponents is each turn and you'll probably win.
 
 ### Didn't Fight Sigmund at Yureyu Route
 
@@ -5344,7 +5406,7 @@ Talk to Shelly on the right side of the area, then enter the train at the bottom
 - Tell Shelly she was helpful (+1 Shelly)
 - Tell Shelly she was not helpful (-1 Shelly)
 
-Talk to Charlotte - CHOO CHOO!
+Talk to Charlotte. CHOO CHOO!
 
 ## Tanzan Cove
 

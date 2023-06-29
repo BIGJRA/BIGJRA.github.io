@@ -19,60 +19,6 @@
     - Crunch
     - Heavy Slam
 
-**Pretty Boy Cain (2x Choc Ice Cream). Field: **
-- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 15
-    - Flame Wheel
-    - Bonemerang
-    - Shadow Bone
-    - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 15
-    - Charge Beam
-    - Psychic
-    - Shadow Ball
-    - Light Screen
-- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 15
-    - Gunk Shot
-    - Minimize
-    - Disable
-    - Knock Off
-- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
-    - Sparkling Aria
-    - Icy Wind
-    - Moonblast
-    - Sing
-- Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
-    - Thrash
-    - Throat Chop
-    - Poison Tail
-    - Shadow Ball
-
-**Pretty Boy Cain (Berry Ice Cream). Field: **
-- Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
-    - Thrash
-    - Throat Chop
-    - Poison Tail
-    - Shadow Ball
-- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 10
-    - Flame Wheel
-    - Bonemerang
-    - Shadow Bone
-    - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 10
-    - Charge Beam
-    - Psychic
-    - Shadow Ball
-    - Light Screen
-- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 10
-    - Gunk Shot
-    - Minimize
-    - Power-Up Punch
-    - Knock Off
-- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
-    - Water Pledge
-    - Icy Wind
-    - Disarming Voice
-    - Sing
-
 **Pretty Boy Cain (2x Moomoo Milk). Field: **
 - Muk-Alola, Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15
     - Gunk Shot
@@ -646,28 +592,6 @@
     - Recover
     - Stone Edge
 
-**Meteor Admin Taka (2x Hyper Potion). Field: **
-- Klefki, Lv. 40, Ability: Prankster, Bold Nature, IVs: 13
-    - Spikes
-    - Mirror Shot
-    - Draining Kiss
-    - Foul Play
-- Exeggutor-Alola, Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
-    - Dragon Hammer
-    - Wood Hammer
-    - Hypnosis
-    - Nature Power
-- Gligar, Lv. 42, Ability: Sand Veil, Adamant Nature, IVs: 30
-    - U-turn
-    - Acrobatics
-    - Night Slash
-    - Roost
-- Chatot, Lv. 45, @Sitrus Berry, Ability: Keen Eye, Timid Nature, IVs: 31
-    - Heat Wave
-    - Nasty Plot
-    - Chatter
-    - Roost
-
 **Meteor Admin Taka. Field: **
 - Klefki, Lv. 69, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Spikes
@@ -892,23 +816,6 @@
     - Seed Bomb
     - Poison Jab
 
-**Aqua Mastermind Archer (2x Berry Ice Cream). Field: **
-- Pelipper, Lv. 41, Ability: Drizzle, Modest Nature, IVs: 20
-    - Roost
-    - Tailwind
-    - Brine
-    - Ice Beam
-- Blastoise, Lv. 42, Ability: Torrent, Adamant Nature, IVs: 20
-    - Aqua Tail
-    - Bite
-    - Skull Bash
-    - Yawn
-- Sharpedo, Lv. 45, Ability: Speed Boost, Adamant Nature, IVs: 31
-    - Aqua Jet
-    - Crunch
-    - Slash
-    - Ice Fang
-
 **Aqua Mastermind Archer. Field: **
 - Pelipper, Lv. 58, Ability: Drizzle, Modest Nature, IVs: 20
     - Hydro Pump
@@ -935,23 +842,6 @@
     - Crunch
     - Earthquake
     - Ice Fang
-
-**Magma Kingpin Maxwell (2x Berry Ice Cream). Field: **
-- Ninetales, Lv. 41, Ability: Drought, Modest Nature, IVs: 20
-    - Will-O-Wisp
-    - Payback
-    - Flamethrower
-    - Confuse Ray
-- Charizard, Lv. 42, Ability: Solar Power, Modest Nature, IVs: 20
-    - Dragon Rage
-    - Hidden Power
-    - Flame Burst
-    - Ancient Power
-- Houndoom, Lv. 45, Ability: Flash Fire, Adamant Nature, IVs: 31
-    - Fire Fang
-    - Feint Attack
-    - Thunder Fang
-    - Return
 
 **Magma Kingpin Maxwell. Field: **
 - Ninetales, Lv. 58, @Wise Glasses, Ability: Drought, Modest Nature, IVs: 31
@@ -1108,13 +998,6 @@
     - Zen Headbutt
     - Fire Punch
 
-**Meteor Leader Solaris (2x Full Heal). Field: **
-- Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
-    - Dragon Rush
-    - Earthquake
-    - Fire Fang
-    - Stone Edge
-
 **Meteor Leader Solaris. Field: **
 - Scizor, Lv. 72, Ability: Technician, Adamant Nature, IVs: 31
     - Bullet Punch
@@ -1212,38 +1095,6 @@
     - Aqua Tail
 
 **Dr. Sigmund Connal (2x Hyper Potion). Field: **
-- Musharna, Lv. 45, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
-    - Psychic Terrain
-    - Moonlight
-    - Psyshock
-    - Dazzling Gleam
-- Drampa, Lv. 46, Ability: Berserk, Modest Nature, IVs: 25
-    - Thunderbolt
-    - Dragon Pulse
-    - Nature Power
-    - Hyper Voice
-- Raichu-Alola, Lv. 46, Ability: Surge Surfer, Modest Nature, IVs: 25
-    - Volt Switch
-    - Psychic
-    - Nasty Plot
-    - Thunderbolt
-- Hypno, Lv. 47, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
-    - Hypnosis
-    - Nasty Plot
-    - Psychic
-    - Dazzling Gleam
-- Rotom, Lv. 47, Ability: Levitate, Timid Nature, IVs: 25
-    - Thunderbolt
-    - Hex
-    - Will-O-Wisp
-    - Foul Play
-- Electivire, Lv. 48, Ability: Motor Drive, Jolly Nature, IVs: 31
-    - Thunder Punch
-    - Fire Punch
-    - Low Kick
-    - Ice Punch
-
-**Dr. Sigmund Connal (2x Hyper Potion). Field: **
 - Musharna, Lv. 48, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
     - Psychic Terrain
     - Moonlight
@@ -1306,38 +1157,6 @@
     - Cross Chop
     - Earthquake
     - Ice Punch
-
-**Meteor Admin Sirius (2x Hyper Potion). Field: **
-- Minior, Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
-    - Shell Smash
-    - Charge Beam
-    - Power Gem
-    - Dazzling Gleam
-- Tyrantrum, Lv. 46, Ability: Strong Jaw, Adamant Nature, IVs: 30
-    - Rock Slide
-    - Crunch
-    - Dragon Claw
-    - Dragon Dance
-- Toucannon, Lv. 46, Ability: Skill Link, Adamant Nature, IVs: 30
-    - Beak Blast
-    - Rock Blast
-    - Tailwind
-    - Roost
-- Manectric, Lv. 47, Ability: Static, Timid Nature, IVs: 30
-    - Flamethrower
-    - Volt Switch
-    - Discharge
-    - Snarl
-- Seviper, Lv. 47, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
-    - Throat Chop
-    - Poison Jab
-    - Rest
-    - Aqua Tail
-- Chandelure, Lv. 48, @Synthetic Seed, Ability: Infiltrator, Timid Nature, IVs: 31
-    - Heat Wave
-    - Energy Ball
-    - Psychic
-    - Shadow Ball
 
 **Meteor Admin Sirius (3x Hyper Potion). Field: **
 - Minior, Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
@@ -2917,13 +2736,6 @@
     - Hidden Power
     - Air Slash
 
-**Spectral Kiki. Field: **
-- Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
-    - Meditate
-    - Thunder Punch
-    - Drain Punch
-    - Ice Punch
-
 **Harridan Craudburry. Field: **
 - Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Leaf Blade
@@ -3620,10 +3432,6 @@
     - Liquidation
 
 **Meteor Grunt Ricardo. Field: **
-- Whirlipede, Lv. 42, Serious Nature, IVs: 10
-- Lairon, Lv. 43, Serious Nature, IVs: 10
-
-**Meteor Grunt Ricardo. Field: **
 - Minior, Lv. 52, Serious Nature, IVs: 10
 - Whirlipede, Lv. 52, Serious Nature, IVs: 10
 - Aggron, Lv. 53, Serious Nature, IVs: 10
@@ -3791,27 +3599,14 @@
     - Dragon Tail
 
 **Meteor Grunt Coleman. Field: **
-- Golbat, Lv. 41, Serious Nature, IVs: 10
-- Gurdurr, Lv. 41, Serious Nature, IVs: 10
-- Tsareena, Lv. 42, Serious Nature, IVs: 10
-
-**Meteor Grunt Coleman. Field: **
 - Golbat, Lv. 47, Serious Nature, IVs: 10
 - Gurdurr, Lv. 47, Serious Nature, IVs: 10
 - Tsareena, Lv. 48, Serious Nature, IVs: 10
 
 **Meteor Grunt Mary. Field: **
-- Toxapex, Lv. 41, Serious Nature, IVs: 10
-- Gigalith, Lv. 43, Serious Nature, IVs: 10
-
-**Meteor Grunt Mary. Field: **
 - Piloswine, Lv. 47, Serious Nature, IVs: 10
 - Toxapex, Lv. 49, Serious Nature, IVs: 10
 - Gigalith, Lv. 47, Serious Nature, IVs: 10
-
-**Meteor Grunt Hilda. Field: **
-- Quilladin, Lv. 42, Serious Nature, IVs: 10
-- Golbat, Lv. 43, Serious Nature, IVs: 10
 
 **Meteor Grunt Hilda. Field: **
 - Tirtouga, Lv. 52, Serious Nature, IVs: 10
@@ -3844,11 +3639,6 @@
     - Wood Hammer
     - Hammer Arm
     - Rock Slide
-
-**Meteor Grunt Simon. Field: **
-- Carnivine, Lv. 42, Serious Nature, IVs: 10
-- Mudsdale, Lv. 42, Serious Nature, IVs: 10
-- Muk-Alola, Lv. 43, Serious Nature, IVs: 10
 
 **Meteor Knight Demian. Field: **
 - Diggersby, Lv. 65, Serious Nature, IVs: 10
@@ -3965,25 +3755,10 @@
     - Earthquake
     - Fire Punch
 
-**Meteor Grunt Tara. Field: **
-- Whirlipede, Lv. 42, Serious Nature, IVs: 10
-- Onix, Lv. 42, Serious Nature, IVs: 10
-- Golbat, Lv. 43, Serious Nature, IVs: 10
-
-**Meteor Knight Rod. Field: **
-- Beedrill, Lv. 43, Serious Nature, IVs: 10
-- Solrock, Lv. 43, Serious Nature, IVs: 10
-- Sandygast, Lv. 44, Serious Nature, IVs: 10
-
 **Meteor Knight Rod. Field: **
 - Beedrill, Lv. 54, Serious Nature, IVs: 10
 - Solrock, Lv. 54, Serious Nature, IVs: 10
 - Palossand, Lv. 55, Serious Nature, IVs: 10
-
-**Meteor Knight Ringo. Field: **
-- Whirlipede, Lv. 43, Serious Nature, IVs: 10
-- Lunatone, Lv. 43, Serious Nature, IVs: 10
-- Passimian, Lv. 44, Serious Nature, IVs: 10
 
 **Meteor Knight Ringo. Field: **
 - Lunatone, Lv. 54, Serious Nature, IVs: 10
@@ -4093,18 +3868,9 @@
     - Surf
 
 **Meteor Grunt Kenneth. Field: **
-- Mothim, Lv. 42, Serious Nature, IVs: 10
-- Emboar, Lv. 43, Serious Nature, IVs: 10
-
-**Meteor Grunt Kenneth. Field: **
 - Minior, Lv. 52, Serious Nature, IVs: 10
 - Mothim, Lv. 52, Serious Nature, IVs: 10
 - Emboar, Lv. 53, Serious Nature, IVs: 10
-
-**Meteor Grunt Brenna. Field: **
-- Emolga, Lv. 41, Serious Nature, IVs: 10
-- Minior, Lv. 41, Serious Nature, IVs: 10
-- Samurott, Lv. 42, Serious Nature, IVs: 10
 
 **Meteor Grunt Brenna. Field: **
 - Carnivine, Lv. 52, Serious Nature, IVs: 10
@@ -5102,24 +4868,6 @@
 - Octillery, Lv. 54, Serious Nature, IVs: 10
 - Sharpedo, Lv. 54, Serious Nature, IVs: 10
 - Feraligatr, Lv. 55, Serious Nature, IVs: 10
-
-**Street Rat Owen. Field: **
-- Ninetales, Lv. 44, IVs: 10
-    - Ember
-    - Quick Attack
-    - Confuse Ray
-    - Safeguard
-
-**Posh Lulu. Field: **
-- Smeargle, Lv. 43, Serious Nature, IVs: 10
-    - Water Pledge
-    - Thunder Wave
-    - Razor Shell
-    - Boomburst
-- Munna, Lv. 44, Serious Nature, IVs: 10
-
-**Hotshot Mikey. Field: **
-- Togedemaru, Lv. 44, Serious Nature, IVs: 10
 
 **Casanova Christian. Field: **
 - Mimikyu, Lv. 44, Serious Nature, IVs: 10
