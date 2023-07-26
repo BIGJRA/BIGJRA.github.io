@@ -12,13 +12,6 @@
     - Draco Meteor
     - Fleur Cannon
 
-**Pokemon Gargantuan. Field: **
-- Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Earthquake
-    - Stone Edge
-    - Crunch
-    - Heavy Slam
-
 **Pretty Boy Cain (2x Moomoo Milk). Field: **
 - Muk-Alola, Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15
     - Gunk Shot
@@ -424,13 +417,6 @@
     - RevelationDance
     - Roost
     - Hidden Power
-
-**Meteor Admin ZEL. Field: **
-- Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
-    - Hyper Beam
-    - Dark Pulse
-    - Hyper Beam
-    - Hyper Beam
 
 **Meteor Admin ZEL (2x Ultra Potion). Field: **
 - Aurorus, Lv. 74, @Focus Sash, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
@@ -1094,38 +1080,6 @@
     - Cross Poison
     - Aqua Tail
 
-**Dr. Sigmund Connal (2x Hyper Potion). Field: **
-- Musharna, Lv. 48, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
-    - Psychic Terrain
-    - Moonlight
-    - Psyshock
-    - Dazzling Gleam
-- Drampa, Lv. 49, Ability: Berserk, Modest Nature, IVs: 25
-    - Thunderbolt
-    - Dragon Pulse
-    - Nature Power
-    - Hyper Voice
-- Raichu-Alola, Lv. 49, Ability: Surge Surfer, Modest Nature, IVs: 25
-    - Volt Switch
-    - Psychic
-    - Nasty Plot
-    - Thunderbolt
-- Hypno, Lv. 50, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
-    - Hypnosis
-    - Nasty Plot
-    - Psychic
-    - Dazzling Gleam
-- Rotom, Lv. 50, Ability: Levitate, Timid Nature, IVs: 25
-    - Thunderbolt
-    - Hex
-    - Will-O-Wisp
-    - Foul Play
-- Electivire, Lv. 51, Ability: Motor Drive, Jolly Nature, IVs: 31
-    - Thunder Punch
-    - Fire Punch
-    - Low Kick
-    - Ice Punch
-
 **Dr. Sigmund Connal. Field: **
 - Aromatisse, Lv. 93, @Amplifield Rock, Ability: Aroma Veil, Modest Nature, IVs: 31, EVs: 200/0/56/252/0/0
     - Dazzling Gleam
@@ -1157,38 +1111,6 @@
     - Cross Chop
     - Earthquake
     - Ice Punch
-
-**Meteor Admin Sirius (3x Hyper Potion). Field: **
-- Minior, Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
-    - Shell Smash
-    - Dazzling Gleam
-    - Power Gem
-    - Psychic
-- Tyrantrum, Lv. 49, Ability: Strong Jaw, Adamant Nature, IVs: 30
-    - Earthquake
-    - Crunch
-    - Dragon Claw
-    - Dragon Dance
-- Toucannon, Lv. 50, Ability: Skill Link, Adamant Nature, IVs: 30
-    - Beak Blast
-    - Rock Blast
-    - Tailwind
-    - Roost
-- Manectric, Lv. 50, Ability: Static, Timid Nature, IVs: 30
-    - Volt Switch
-    - Discharge
-    - Flamethrower
-    - Snarl
-- Seviper, Lv. 51, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
-    - Throat Chop
-    - Poison Jab
-    - Rest
-    - Aqua Tail
-- Chandelure, Lv. 52, @Wise Glasses, Ability: Infiltrator, Timid Nature, IVs: 31
-    - Heat Wave
-    - Energy Ball
-    - Psychic
-    - Shadow Ball
 
 **Meteor Admin Sirius (2x Full Restore). Field: **
 - Manectric, Lv. 97, @Manectite, Ability: Lightning Rod, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -3368,11 +3290,6 @@
     - Liquidation
 
 **Meteor Grunt Ricardo. Field: **
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Whirlipede, Lv. 52, Serious Nature, IVs: 10
-- Aggron, Lv. 53, Serious Nature, IVs: 10
-
-**Meteor Grunt Ricardo. Field: **
 - Minior, Lv. 56, Serious Nature, IVs: 10
 - Scolipede, Lv. 56, Serious Nature, IVs: 10
 - Aggron, Lv. 57, Serious Nature, IVs: 10
@@ -3524,20 +3441,10 @@
     - Stone Edge
     - Dragon Tail
 
-**Meteor Grunt Coleman. Field: **
-- Golbat, Lv. 47, Serious Nature, IVs: 10
-- Gurdurr, Lv. 47, Serious Nature, IVs: 10
-- Tsareena, Lv. 48, Serious Nature, IVs: 10
-
 **Meteor Grunt Mary. Field: **
 - Piloswine, Lv. 47, Serious Nature, IVs: 10
 - Toxapex, Lv. 49, Serious Nature, IVs: 10
 - Gigalith, Lv. 47, Serious Nature, IVs: 10
-
-**Meteor Grunt Hilda. Field: **
-- Tirtouga, Lv. 52, Serious Nature, IVs: 10
-- Crobat, Lv. 52, Serious Nature, IVs: 10
-- Chesnaught, Lv. 53, Serious Nature, IVs: 10
 
 **Meteor Grunt Hilda. Field: **
 - Carracosta, Lv. 55, Serious Nature, IVs: 10
@@ -3681,20 +3588,6 @@
     - Earthquake
     - Fire Punch
 
-**Meteor Knight Rod. Field: **
-- Beedrill, Lv. 54, Serious Nature, IVs: 10
-- Solrock, Lv. 54, Serious Nature, IVs: 10
-- Palossand, Lv. 55, Serious Nature, IVs: 10
-
-**Meteor Knight Ringo. Field: **
-- Lunatone, Lv. 54, Serious Nature, IVs: 10
-- Passimian, Lv. 54, Serious Nature, IVs: 10
-- Scolipede, Lv. 55, Ability: Poison Point, Serious Nature, IVs: 10
-    - Steamroller
-    - Protect
-    - Rock Slide
-    - Poison Jab
-
 **Meteor Grunt Christopher. Field: **
 - Gabite, Lv. 54, Serious Nature, IVs: 10
 - Shuckle, Lv. 58, Serious Nature, IVs: 10
@@ -3761,16 +3654,6 @@
     - Gear Grind
     - Magnet Rise
 
-**Meteor Dame Regina. Field: **
-- Tsareena, Lv. 49, Serious Nature, IVs: 10
-- Houndoom, Lv. 48, Serious Nature, IVs: 10
-- Serperior, Lv. 49, Serious Nature, IVs: 10
-
-**Meteor Dame Gretchen. Field: **
-- Delcatty, Lv. 48, Serious Nature, IVs: 10
-- Lunatone, Lv. 49, Serious Nature, IVs: 10
-- Heliolisk, Lv. 49, Serious Nature, IVs: 10
-
 **Meteor Dame Gretchen. Field: **
 - Houndoom, Lv. 71, Ability: Flash Fire, Serious Nature, IVs: 10
     - Heat Wave
@@ -3792,22 +3675,6 @@
     - Bulldoze
     - Focus Blast
     - Surf
-
-**Meteor Grunt Kenneth. Field: **
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Mothim, Lv. 52, Serious Nature, IVs: 10
-- Emboar, Lv. 53, Serious Nature, IVs: 10
-
-**Meteor Grunt Brenna. Field: **
-- Carnivine, Lv. 52, Serious Nature, IVs: 10
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Samurott, Lv. 53, Serious Nature, IVs: 10
-
-**Orderly John. Field: **
-- Toucannon, Lv. 43, Serious Nature, IVs: 10
-- Eelektross, Lv. 43, Serious Nature, IVs: 10
-- Slowbro, Lv. 44, Serious Nature, IVs: 10
-- Magneton, Lv. 45, Serious Nature, IVs: 10
 
 **New World Orderly John. Field: **
 - Whiscash, Lv. 70, @Sitrus Berry, Ability: Oblivious, Adamant Nature, IVs: 31
@@ -4080,10 +3947,6 @@
     - Fire Blast
 
 **Techie Naoman. Field: **
-- Zoroark, Lv. 53, Serious Nature, IVs: 10
-- Grumpig, Lv. 53, Serious Nature, IVs: 10
-
-**Techie Naoman. Field: **
 - Magnezone, Lv. 82, @Choice Specs, Serious Nature, IVs: 10
     - Thunderbolt
     - Flash Cannon
@@ -4116,11 +3979,6 @@
     - Flash Cannon
     - Signal Beam
     - Hidden Power
-
-**Meteor Knight Steven. Field: **
-- Vikavolt, Lv. 53, Serious Nature, IVs: 10
-- Piloswine, Lv. 53, Serious Nature, IVs: 10
-- Mudsdale, Lv. 53, Serious Nature, IVs: 10
 
 **Meteor Knight Steven. Field: **
 - Mamoswine, Lv. 66, Serious Nature, IVs: 10
@@ -4165,11 +4023,6 @@
     - High Horsepower
     - Counter
     - Rock Slide
-
-**Meteor Knight Kenan. Field: **
-- Machoke, Lv. 53, Serious Nature, IVs: 10
-- Darmanitan, Lv. 53, Serious Nature, IVs: 10
-- Golem, Lv. 54, Serious Nature, IVs: 10
 
 **Meteor Knight Kenan. Field: **
 - Purugly, Lv. 66, Serious Nature, IVs: 10
@@ -4238,11 +4091,6 @@
     - Giga Drain
 
 **Meteor Dame Avril. Field: **
-- Lumineon, Lv. 53, Serious Nature, IVs: 10
-- Golisopod, Lv. 53, Serious Nature, IVs: 10
-- Gothitelle, Lv. 53, Serious Nature, IVs: 10
-
-**Meteor Dame Avril. Field: **
 - Minior, Lv. 66, Serious Nature, IVs: 10
     - Stealth Rock
     - Acrobatics
@@ -4290,11 +4138,6 @@
     - Dark Pulse
     - Calm Mind
     - Thunderbolt
-
-**Meteor Dame Diana. Field: **
-- Manectric, Lv. 53, Serious Nature, IVs: 10
-- Salazzle, Lv. 53, Serious Nature, IVs: 10
-- Vileplume, Lv. 54, Serious Nature, IVs: 10
 
 **Meteor Dame Diana. Field: **
 - Noctowl, Lv. 65, Serious Nature, IVs: 10
@@ -4373,10 +4216,6 @@
     - Moonblast
 
 **Techie Deryl. Field: **
-- Trevenant, Lv. 53, Serious Nature, IVs: 10
-- Vikavolt, Lv. 53, Serious Nature, IVs: 10
-
-**Techie Deryl. Field: **
 - Trevenant, Lv. 82, Serious Nature, IVs: 10
     - Bulldoze
     - Horn Leech
@@ -4409,11 +4248,6 @@
     - Thunder
     - Recover
     - Calm Mind
-
-**Orderly David. Field: **
-- Ferroseed, Lv. 43, Serious Nature, IVs: 10
-- Vibrava, Lv. 43, Serious Nature, IVs: 10
-- Luxio, Lv. 44, Serious Nature, IVs: 10
 
 **New World Orderly David. Field: **
 - Ferrothorn, Lv. 73, Ability: Iron Barbs, Serious Nature, IVs: 10
