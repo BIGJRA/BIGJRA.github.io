@@ -5396,11 +5396,19 @@ Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have t
 
 ## Underground Railnet East
 
-Back on the ground floor, head east to enter another part of the railnet. This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*.
+Back on the ground floor, head east to enter another part of the railnet. 
 
-You can also find a bunch more of those shallow walls that you can use Rock Smash on. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left to create a shortcut to the Aron room. 
+<img class="tabImage" src="/assets/media/reborn/railnet_east.png"/>
 
-Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done. Talk to Noel when you have the correct layout. Re-enter the train, talk to Shelly if you'd like.
+This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
+
+You can also find a bunch more of those shallow walls that you can use Rock Smash on - indicated by green arrows above. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left (circled in blue) to create a shortcut to the Aron room. 
+
+Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done.
+
+If you get stuck, set up the tracks such that the train would follow the orange arrow in the above image.
+
+Talk to Noel when you have the correct layout. Re-enter the train. Talk to Shelly if you'd like.
 
 **Relationship Point Choices:**
 - Tell Shelly she was helpful (+1 Shelly)
@@ -5463,7 +5471,7 @@ To the left you can see something glowing in a bookshelf. Interact with it to ge
 
 ## Chrysolia Forest
 
-Make your way back through Tanzan Mountain and enter the forest.
+Make your way back through Tanzan Mountain and exit at the bottom. Enter the forest on the bottom right side of this map.
 
 **Chrysolia Forest (Main)**
 
@@ -5486,7 +5494,13 @@ Make your way back through Tanzan Mountain and enter the forest.
 |**Chatot**        |30 |
 |Pineco            |10 |
 
-Make your way forward and around to the left. You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
+Make your way forward and follow the path up and around to the left. 
+
+**Ranger Elizabeth. Field: Forest Field**
+- Dratini, Lv. 44, Serious Nature, IVs: 10
+- Sunflora, Lv. 45, Serious Nature, IVs: 10
+
+You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
 
 **Chrysolia Spring 1F**
 
@@ -5506,11 +5520,26 @@ Make your way forward and around to the left. You'll see a cave entrance hidden 
 
 More importantly, you'll find a *Mystic Water* and hidden *Link Stone* inside. 
 
-Back outside, head to the left and down, and attempt to exit the forest. A nearby tree will disappear, so follow the newly created path. By now you've noticed that stuff is teleporting in and out - in general we want to follow the linear path forwards, even if it does take us through parts we've seen before.
+Back outside, head to the left and down, and attempt to exit the forest. A nearby tree will disappear, so follow the newly created path downwards. By now you've noticed that stuff is teleporting in and out. While this is confusing, the good news is that the path is mostly linear from here.
 
-Towards the bottom of the area you'll see a single tree blocking off an open patch of grass, approaching the tree will make it disappear. Down from here you'll find a hidden *Synthetic Seed*, *Exp. Candy L*, and *Heart Scale*. To the right, you can talk to someone for the *Grassy Terrain Field Readout* and pick up a *Mild Mint* and a *Hasty Mint*. Enter the train to the left, and pick up the egg. It'll be **Cacnea** or **Maractus**, randomly determined.
+**Casanova Christian. Field: Forest Field**
+- Mimikyu, Lv. 44, Serious Nature, IVs: 10
 
-Head back up and go left, continuing our linear travel through the teleporting tree forest. In the bottom right part of the forest you'll see a lone tree guarding a patch of grass - you know what to do. Follow this path to reach a cave.
+Go up, right, and down. You'll notice a single tree blocking off an open path below; approaching the tree will make it disappear. Follow this new path to find a hidden *Synthetic Seed*, *Exp. Candy L*, and *Heart Scale*. To the right, you can talk to someone for the *Grassy Terrain Field Readout* and pick up a *Mild Mint* and a *Hasty Mint*. Enter the train to the left, and pick up the egg. It'll be **Cacnea** or **Maractus**, randomly determined.
+
+Head back up and go left, continuing our linear travel through the teleporting tree forest. You'll go up towards the entrance, then go right. 
+
+**Posh Ceratisa. Field: Forest Field**
+- Muk, Lv. 40, Serious Nature, IVs: 10
+    - Minimize
+    - Gunk Shot
+    - Mud Bomb
+    - Screech
+- Magneton, Lv. 41, Serious Nature, IVs: 10
+- Gabite, Lv. 42, Serious Nature, IVs: 10
+- Donphan, Lv. 42, Serious Nature, IVs: 10
+
+In the bottom right part of the forest you'll see a lone tree guarding an open path - you know what to do. Follow this path to reach a cave.
 
 **Lost Railcave**
 
@@ -5524,11 +5553,20 @@ Head back up and go left, continuing our linear travel through the teleporting t
 |**Swinub**        |10 |
 |**Smeargle**      |6  |
 
-Inside the railcave, start by entering the entrance that is not being pointed to by the three ends of the train tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* as well as **Eevee**!
+Inside the railcave, start by entering the entrance that is not being pointed to by the three ends of the train tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* and **Eevee**! You can read the Captain's Log here as well.
 
 Back in the main area of the railcave, enter the room closest to two of the three rocks. Repeat this process over and over until you reach a room containing a hidden *Ability Capsule*, the *Psychic Terrain Field Readout*, and *TM32 Double Team*. 
 
-Back in the forest, continue your circles around and around. Once you reach the upper right side of the area you'll see a path leading to the right. Here you'll find a hidden *Ability Capsule*. Head into the clearing here.
+Back in the forest, continue your circles by going left instead of up. Once you reach the upper right side of the area you'll see a path leading to the right. 
+
+**Lady Aurelia. Field: Forest Field / Burning Field**
+- Typhlosion, Lv. 45, Ability: Flash Fire, Serious Nature, IVs: 10
+    - Lava Plume
+    - Eruption
+    - Fire Pledge
+    - Nature Power
+
+Here you'll find a hidden *Ability Capsule*. Head into the clearing here.
 
 **Chrysolia Forest (Clearing)**
 
@@ -5543,15 +5581,15 @@ Back in the forest, continue your circles around and around. Once you reach the 
 
 You'll find a hidden *Elemental Seed* as well as the *Burning Field Readout*, a *Quiet Mint* and an *Exp. Candy L*. This is also the Mossy Rock where you can get Leafeon. 
 
-Finally, continue your circles in the main part of the forest until you finally reach Spinel Town.
+Continue your circles by going up and left. You'll finally be able to enter Spinel Town at the clearing in the top right side!
 
 ## Spinel Town
 
-You'll notice that everything is chaos here, teleporting like crazy. Enter a house on the left side and a girl's furniture will all disappear. She'll ask us to get it back, so head out of her house.
+You'll notice that everything is chaos here, teleporting like crazy. Enter an apartment building on the left side and a girl's furniture will all disappear. She'll ask us to get it back, so head out of her house.
 
 Down from here, there's a tree in front of a house. The tree will move when you approach it. Inside, you can return the Kadabra girl's bed, and pick up the *Good Rod*! Outside, the fountain will disappear as you approach. Heading towards the center of town, you'll see the Kadabra girl's TV on top of a building. Trying to enter the Pokemart will cause it to teleport as well. To the right, you'll see Kadabra girl's bookshelf.
 
-Enter the left apartment building. Inside, you'll find Kadabra girl's table. In the building to the right, a person inside will offer to trade your Shelmet and Karrablast for their respective evolutions. You will also be asked to pet every Eeveelution. This is a sidequest we won't be finishing for a very long time but at least we know.
+Enter the left tall apartment building. Inside, you'll find Kadabra girl's table. In the building to the right, a person inside will offer to trade your Shelmet and Karrablast for their respective evolutions. You will also be asked to pet every Eeveelution: new long sidequest!
 
 Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokemon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*. 
 
@@ -5559,7 +5597,7 @@ Enter the museum. Unfortunately every time we enter here it will cost $500. You 
 
 Anyways, head down and out of the door upstairs here and into the door on the other side to pick up the *Eevium-Z*. We can't use Mega Stones or Z-Crystals yet. Kadabra girl's nightstand is also in here, as well as a standard Ice Cream vending machine that contains a Vanillite like in the Sweet Co.
 
-In the downstairs area of the museum at night, you'll see two Meteor grunts. Talk to them and they will flee to Tanzan Mountain. We will get to them in a bit. There's a *Luxury Ball* in the trash to the right.
+In the downstairs area of the museum at night, you'll see two Meteor grunts. Talk to them and they will flee to Tanzan Mountain. We will get to them in a bit. Oh, and there's a *Luxury Ball* in the trash to the right.
 
 Outside, attempt to enter the Voclain Estate in the top right corner. Before you talk to Serra, talk to Bennett if you want points.
 
@@ -5577,11 +5615,21 @@ With that, we should now have all of the furniture back, so return to the girl t
 
 Grab your Male Burmy from the PC and level it to 20 so it evolves into **Mothim**.
 
-Return to Chrysolia Forest - you'll have to basically do the circles in reverse. On your way you'll find the house that teleported earlier. A guy inside will do an in-game trade: your Mothim for his **Bruxish**.
+Return to Chrysolia Forest - you'll have to basically do the circles in reverse to exit the forest. On your way you'll find the house that teleported earlier. A guy inside will do an in-game trade: your Mothim for his **Bruxish**.
 
 Down from here, you'll find the teleported fountain. **Remoraid** will jump out for you to battle.
 
-Return to Tanzan Mountain. Inside, you'll find the grunts from earlier. Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
+Return to Tanzan Mountain. Inside, you'll find the grunts from earlier.
+
+**Meteor Grunt Devin & Meteor Grunt Sanchez. Field: Cave Field**
+- Solrock, Lv. 44, Serious Nature, IVs: 10
+- Escavalier, Lv. 45, Serious Nature, IVs: 10
+- Golem-Alola, Lv. 46, Serious Nature, IVs: 10
+- Lunatone, Lv. 44, Serious Nature, IVs: 10
+- Accelgor, Lv. 45, Serious Nature, IVs: 10
+- Seismitoad, Lv. 46, Serious Nature, IVs: 10
+
+Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
 
 ## Good Rod Encounters and Other Things
 
@@ -5642,15 +5690,15 @@ Anyways, some more encounters:
 |Skrelp            |20 |
 |**Whiscash**      |20 |
 
-The other important thing we can do in Reborn City is to head on over to Onyx Ward and return the House Key to the girl here to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades via mining. Take advantage of this as you like, then take the boat to Apophyll. 
+The other important thing we can do in Reborn City is to head on over to Onyx Ward and return the House Key to the girl here to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades thanks to mining. Juice up your movesets if you'd like.
 
-Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**. 
+Take the Coral Ward boat to Apophyll. Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**. 
 
-That wraps up this part, so head all the way back through the railnet and the forest to Spinel Town and enter the Voclain Estate.
+That wraps up the sidequests, so head all the way back through the railnet and the forest to Spinel Town and enter the Voclain Estate.
 
 ## Rime Badge
 
-Enter the room towards the back to reach the gym. In each room, you'll have to look for something that's wrong on one of the two sides. It could be a misplaced or miscolored item or something thematically tied to the gym. Anyways, once you find this discrepancy, smash the wall immediately above. 
+Enter the room towards the back to reach the gym. In each room, you'll have to look for something that's wrong on one of the two sides. It could be a misplaced or miscolored item or something thematically tied to the gym. Anyways, once you find this discrepancy, smash the wall immediately above. If you're wrong, your party will take some damage, but you can always heal.
 
 For each of the three puzzle rooms (so, a max of +3), you can get the following:
 
@@ -5658,6 +5706,22 @@ For each of the three puzzle rooms (so, a max of +3), you can get the following:
 - Smash the correct mirror on the first try (+1 Serra)
 - Smash 2-5 incorrect mirrors before finding the answer (-1 Serra)
 - Smash 6-7 incorrect mirrors before finding the answer (-2 Serra)
+
+**Posh Lydia. Field: Mirror Arena**
+- Vanillite, Lv. 45, Serious Nature, IVs: 10
+- Vanillish, Lv. 46, Serious Nature, IVs: 10
+
+**Posh Lallia. Field: Mirror Arena**
+- Amaura, Lv. 45, Serious Nature, IVs: 10
+- Piloswine, Lv. 46, Serious Nature, IVs: 10
+
+**Posh Lania. Field: Mirror Arena**
+- Cubchoo, Lv. 46, Serious Nature, IVs: 10
+- Glalie, Lv. 47, Serious Nature, IVs: 10
+
+**Posh Layla. Field: Mirror Arena**
+- Bergmite, Lv. 46, Serious Nature, IVs: 10
+- Dewgong, Lv. 47, Serious Nature, IVs: 10
 
 Save before you enter the third room.
 
@@ -5693,7 +5757,7 @@ Save before you enter the third room.
     - Signal Beam
     - Giga Drain
 
-It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he pretty strongly optimizes his team around the Mirror Field. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits, and his Pokemon hit moderately hard and fast. Literally all but one of them have Quiver Dance too, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. You can also take advantage of the Mirror Field yourself, if you'd like.
+It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he has a highly optimized team for the Mirror Arena. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits. With field boosted moves like Signal Beam, his Pokemon hit hard and fast. Five of six have Quiver Dance, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. It's a good opportunity to try out your own Mirror Arena boosts - read the field notes.
 
 **Relationship Point Choices:** 
 - Beat Bennett on the first try (+1 Elias, -1 Bennett)
@@ -5733,11 +5797,13 @@ Break the last mirror and head into the gym arena when you're ready.
     - Pain Split
     - Shadow Ball
 
-Serra is a tough gym leader that operates on a very unique field effect - instead of thinking about how to beat a Hail-team like you normally would, you really should study the field effect in detail to devise a strategy. Anyways, her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use your own screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers have a chance to hit anyways even when they miss - some attacks are even boosted, which explains why Serra has five special attackers. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast and like to try to crit you. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier, the latter two like to set up free 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice type and uses the Mirror Arena to great effect.
+Serra is a tough gym leader that operates on the back of her very unique field effect. Instead of thinking about how to beat a Hail-team like you normally would, you have to play around the fields various Accuracy and Evasion shenanigans. Her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers, of which Serra has five, have a chance to hit anyways even when they miss - some of their attacks are even boosted in this case. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast as well. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier. The latter two like to set up 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice type and uses the Mirror Arena to great effect.
 
-In general, your own weather and Brick Break / Psychic Fangs to fight Aurora Veil are generally good options, but as I said the field is also tough to overcome. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well.  There is a list of abilities that you can use to get Accuracy or Evasion, we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the Evasion + misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats. All of these are nice, but it turns out there's something EVEN BETTER that you can use. That is, Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel type move that will never miss... against a team full of Ice types - only Glaceon and Lapras take neutral damage from it. 
+As you would assume just looking at the team, non-hail weather, and Brick Break / Psychic Fangs are generally good things to bring. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well. There is a list of abilities that you can use to get Accuracy or Evasion, and we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats and knock out a threat like Lapras. 
 
-It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra to play on a more even playing field. However:
+All of these things are nice, but it turns out there's something *even better* that you can use. Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel type move that will never miss... against a team full of Ice types - only Lapras and Sandslash take neutral damage from it. On top of Chlorophyll, this allows even a team of all Grass types to effortlessly sweep the team of Ice types!
+
+It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra onto a more even playing field. However:
 
 **Relationship Point Choices:**
 - Break the Mirror Field in the gym fight (-1 Serra)

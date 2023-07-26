@@ -1222,38 +1222,6 @@
     - Psychic
     - Shadow Ball
 
-**Lepidopterist Bennett (2x Berry Ice Cream). Field: **
-- Larvesta, Lv. 47, @Wide Lens, Ability: Flame Body, Adamant Nature, IVs: 31
-    - Flame Charge
-    - Bug Bite
-    - Zen Headbutt
-    - Morning Sun
-- Venomoth, Lv. 48, Ability: Shield Dust, Timid Nature, IVs: 31
-    - Quiver Dance
-    - Baton Pass
-    - Sleep Powder
-    - Signal Beam
-- Vivillon, Lv. 48, @Bright Powder, Ability: Compound Eyes, Modest Nature, IVs: 31
-    - Quiver Dance
-    - Sleep Powder
-    - Draining Kiss
-    - Signal Beam
-- Dustox, Lv. 49, @Bright Powder, Ability: Shield Dust, Modest Nature, IVs: 31
-    - Moonlight
-    - Quiver Dance
-    - Signal Beam
-    - Giga Drain
-- Masquerain, Lv. 49, @Leftovers, Ability: Intimidate, Modest Nature, IVs: 31
-    - Quiver Dance
-    - Roost
-    - Hydro Pump
-    - Signal Beam
-- Butterfree, Lv. 50, @Synthetic Seed, Ability: Compound Eyes, Modest Nature, IVs: 31
-    - Sleep Powder
-    - Quiver Dance
-    - Signal Beam
-    - Giga Drain
-
 **Lepidopterist Bennett (2x Moomoo Milk). Field: **
 - Larvesta, Lv. 58, Ability: Flame Body, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
     - Flame Charge
@@ -1292,38 +1260,6 @@
     - Judgment
     - Shadow Ball
     - Focus Blast
-
-**Beauty Queen Serra (3x Hyper Potion). Field: **
-- Glaceon, Lv. 48, @Light Clay, Ability: Snow Cloak, Calm Nature, IVs: 31
-    - Wish
-    - Ice Beam
-    - Signal Beam
-    - Aurora Veil
-- Ninetales-Alola, Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 25
-    - Nasty Plot
-    - Dazzling Gleam
-    - Aurora Beam
-    - Aurora Veil
-- Lapras, Lv. 48, @Synthetic Seed, Ability: Shell Armor, Modest Nature, IVs: 15
-    - Thunderbolt
-    - Surf
-    - Signal Beam
-    - Ice Beam
-- Sandslash-Alola, Lv. 47, @Wide Lens, Ability: Slush Rush, Adamant Nature, IVs: 25
-    - Iron Head
-    - Icicle Crash
-    - Brick Break
-    - Swords Dance
-- Jynx, Lv. 49, @Bright Powder, Ability: Dry Skin, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Focus Blast
-    - Psyshock
-    - Ice Beam
-- Froslass, Lv. 50, @Bright Powder, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Ice Beam
-    - Double Team
-    - Pain Split
-    - Shadow Ball
 
 **??? ?????. Field: **
 - Ninetales-Alola, Lv. 81, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 15, EVs: 4/0/0/252/0/252
@@ -3490,11 +3426,6 @@
     - Brave Bird
     - Rock Slide
 
-**Meteor Grunt Sanchez. Field: **
-- Lunatone, Lv. 44, Serious Nature, IVs: 10
-- Accelgor, Lv. 45, Serious Nature, IVs: 10
-- Seismitoad, Lv. 46, Serious Nature, IVs: 10
-
 **Meteor Ace Sanchez. Field: **
 - Ariados, Lv. 69, Ability: Sniper, Serious Nature, IVs: 10
     - Shadow Sneak
@@ -3543,11 +3474,6 @@
     - Thunderbolt
     - Earth Power
     - Psychic
-
-**Meteor Grunt Devin. Field: **
-- Solrock, Lv. 44, Serious Nature, IVs: 10
-- Escavalier, Lv. 45, Serious Nature, IVs: 10
-- Golem-Alola, Lv. 46, Serious Nature, IVs: 10
 
 **Meteor Ace Devin. Field: **
 - Unfezant, Lv. 69, Ability: Super Luck, Serious Nature, IVs: 10
@@ -4869,34 +4795,10 @@
 - Sharpedo, Lv. 54, Serious Nature, IVs: 10
 - Feraligatr, Lv. 55, Serious Nature, IVs: 10
 
-**Casanova Christian. Field: **
-- Mimikyu, Lv. 44, Serious Nature, IVs: 10
-
 **Street Rat Austin. Field: **
 - Vigoroth, Lv. 58, Serious Nature, IVs: 10
 - Gumshoos, Lv. 59, Serious Nature, IVs: 10
 - Tropius, Lv. 58, Serious Nature, IVs: 10
-
-**Ranger Elizabeth. Field: **
-- Dratini, Lv. 44, Serious Nature, IVs: 10
-- Sunflora, Lv. 45, Serious Nature, IVs: 10
-
-**Posh Ceratisa. Field: **
-- Muk, Lv. 40, Serious Nature, IVs: 10
-    - Minimize
-    - Gunk Shot
-    - Mud Bomb
-    - Screech
-- Magneton, Lv. 41, Serious Nature, IVs: 10
-- Gabite, Lv. 42, Serious Nature, IVs: 10
-- Donphan, Lv. 42, Serious Nature, IVs: 10
-
-**Lady Aurelia. Field: **
-- Typhlosion, Lv. 45, Ability: Flash Fire, Serious Nature, IVs: 10
-    - Lava Plume
-    - Eruption
-    - Fire Pledge
-    - Nature Power
 
 **Youngster Elliot. Field: **
 - Gothita, Lv. 20, Serious Nature, IVs: 10
@@ -5395,22 +5297,6 @@
     - Power-Up Punch
     - Hyper Beam
     - Focus Blast
-
-**Posh Lydia. Field: **
-- Vanillite, Lv. 45, Serious Nature, IVs: 10
-- Vanillish, Lv. 46, Serious Nature, IVs: 10
-
-**Posh Layla. Field: **
-- Bergmite, Lv. 46, Serious Nature, IVs: 10
-- Dewgong, Lv. 47, Serious Nature, IVs: 10
-
-**Posh Lallia. Field: **
-- Amaura, Lv. 45, Serious Nature, IVs: 10
-- Piloswine, Lv. 46, Serious Nature, IVs: 10
-
-**Posh Lania. Field: **
-- Cubchoo, Lv. 46, Serious Nature, IVs: 10
-- Glalie, Lv. 47, Serious Nature, IVs: 10
 
 **Clown Indra. Field: **
 - Scizor, Lv. 58, @Air Balloon, Ability: Light Metal, Adamant Nature, IVs: 10
