@@ -6222,7 +6222,7 @@ Back inside, talk to the crew here.
 **Relationship Point Choices:**
 - Talk to Laura on the couch (+1 Laura)
 
-Next, talk to Noel in the stairs room. You'll hear a non-Julia boom, indicating it's time to return to Tanzan Mountain once more.
+Next, talk to Noel in the stairs room. You'll hear a (non-Julia induced) boom, indicating it's time to return to Tanzan Mountain once more.
 
 ## Tanzan Mountain Boom and Goodies
 
@@ -6230,13 +6230,11 @@ Enter Tanzan Mountain and this time go to the left. You'll see a barrier is now 
 
 You'll get the *Ruby Ring* and *Amethyst Pendant*! Sweet.
 
-There are also hidden *Ice Heal*, *Red Shard*, and *Revive* here. The room to the right contains nothing we can do for now however. If we head up, we can reach the next area to progress the story, however there are a few goodies here in Tanzan Mountain that we can now access.
+There are also hidden *Ice Heal*, *Red Shard*, and *Revive* in this room. Meeting Saphira allows us to access a few more goodies in Tanzan Mountain before we proceed through the door at the top.
 
-Make your way back to where the meteor base was and use the cave on the right to get to the Depths. In this first room you can find 2 hidden *Green Shards*, *Burn Heal*, *Potion*, and *Clever Wing*. 
+Make your way back to the meteor base on the right side and follow the path. In this first room you can find 2 hidden *Green Shards*, *Burn Heal*, *Potion*, and *Clever Wing*. Exit at the bottom left. This is the room where Steelix was tunneling previously. Going straight to the right, you'll find a *Metal Coat* - meaning you can now get your own Steelix!
 
-Enter the room at the bottom. This is the room where Steelix was tunneling previously. Going straight to the right, you'll find a *Metal Coat* - meaning you can now get your own!
-
-Head up and to the left. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room go up, you'll see an iron girder opening a path to a new room.
+Head left, up, and left again. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room, go up and walk across the iron girder, and enter the door to the next room.
 
 **Tanzan Depths (Across the Beam)**
 
@@ -6255,11 +6253,9 @@ Head up and to the left. You'll see a new cave entrance here. Inside you'll find
 
 Here you can grab an *Upgrade*. 
 
-That's all for now, so you can Dig or Escape Rope to get back to Tanzan Mountain proper and go up from the area where you got the jewelry from Saphira.
+That's all for Tanzan Depths for now, so you can Dig or Escape Rope to get back to Tanzan Mountain proper and go up from the area where you got the jewelry from Saphira.
 
 ## Route 1
-
-Only in Pokemon Reborn do we finally reach Route 1 after getting 7 badges.
 
 We actually start in the South Aventurine Woods, however.
 
@@ -6287,7 +6283,7 @@ We actually start in the South Aventurine Woods, however.
 |Pineco            |5  |Pineco            |5  |
 |Mothim            |4  |**Wormadam**      |4  |
 
-To this day I don't really understand "Rare" vs. "Common" headbutt trees... but you can always evolve a Burmy to get the other one if it's not working out.
+To this day I don't really understand "Rare" vs. "Common" headbutt trees... but you can always evolve a Burmy to get the other evolution if you really want to.
 
 You'll find hidden *Purple Shard* and *Green Shard* here, but we can't go left or right in this area quite yet. Instead, head up and enter Route 1 proper... but prepare yourself.
 
@@ -6327,7 +6323,7 @@ Oh boy, if Fern was ever a tough fight, wait until he has the power of a benefic
 
 A good sweeper can find some success if they resist Haxorus or Rhydon's attacks, but you'll have to watch out for Shadow Sneak. You can also mutate the field to Burning if you want, obviously neutering his Grass types instead of helping them. I'd make the case that Noel is overall a harder fight than Fern in general so by making it here you should be able to succeed.
 
-So, now we get to explore Route 1. It's quite huge.
+So, now we get to explore Route 1. Only in Pokemon Reborn do we finally reach Route 1 after getting 7 badges.
 
 **Route 1**
 
@@ -6348,17 +6344,50 @@ So, now we get to explore Route 1. It's quite huge.
 
 You'll also find pairs of Tauros and Bouffalant all over the route. If you fight Tauros, the Bouffalant will go running off in the direction it's facing, which means that any logs in the way will be pushed. If you fight Bouffalant, Tauros will let you ride it, meaning you can now go up ledges. Game changer.
 
-As a note: there are a bunch of entrances to the North and South Aventurine Woods scattered about Route 1. I'll cover the optional sidequests in the woods a bit later on in the guide fully, so for now I will just focus on Route 1 itself mainly.
+As a note: there are a bunch of entrances to the North and South Aventurine Woods scattered about Route 1. I'll take us into the woods to explore a bit later and focus on Route 1 for now.
 
-Before hopping up or down any edges, you can find a hidden *Nugget* here. Head down one ledge to the left, in this area you can find hidden *Blue Shard*, *Red Shard*, and *Purple Shard*. Head down the ledge to the left. Here you'll find hidden *X Sp. Atk*, *Elemental Seed*, and *Blue Shard*. Go down the next ledge to find hidden *Carbos*, *Green Shard*, and *Great Ball*. Hop down the ledge to the left to get hidden *Escape Rope*, *Blue Shard*, and *Grass Gem*. The Miltank around here will do a trade with us: one Oran Berry for its *Moomoo Milk*. Make sure you have at least one Moomoo Milk in your bag for a quest way later. Anyways, head inside.
+<img class="tabImage" src="/assets/media/reborn/route1_1.jpg"/>
+
+Start by going left. Before hopping up or down any edges, you can find a hidden *Nugget* here. Head down one ledge to the left, in this "level" of the route, you can find hidden *Blue Shard*, *Red Shard*, and *Purple Shard*. Defeat the two circled Tauros here to cause Bouffalant to clear some paths for us, which will come in handy later on. 
+
+**Youngster Elliot. Field: Grassy Terrain**
+- Gothita, Lv. 20, Serious Nature, IVs: 10
+- Luxray, Lv. 60, Serious Nature, IVs: 10
+
+Head down the ledge to the left. On this level, you'll find hidden *X Sp. Atk*, *Elemental Seed*, and *Blue Shard*. Defeat the next circled Tauros to clear another path in the Aventurine Woods, then go down the next ledge. Up from here, defeat the Tauros (top left of the above image) to open a shortcut. You'll also find a hidden *Carbos* here.
+
+<img class="tabImage" src="/assets/media/reborn/route1_2.jpg"/>
+
+Hidden to the left are a *Green Shard* and *Great Ball*. Hop down the ledge to the left to get hidden *Escape Rope*, *Blue Shard*, and *Grass Gem*. The Miltank around here will do a trade with us: one Oran Berry for its *Moomoo Milk*. Make sure you have at least one Moomoo Milk in your bag for a quest way later.
+
+**Techie Armin. Field: Grassy Terrain**
+- Golisopod, Lv. 52, Serious Nature, IVs: 10
+
+Anyways, head inside the building here.
 
 Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll embark on in a bit. Upstairs someone will give us the password *allfieldapp*, and another person will tell us they lost their glasses. This will also be our main healing hub for now. Upstairs, you can do an in-game trade: our Dunsparce for **Tyrogue**. Nice. Grab the *Wide Lens* here as well.
 
-Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*. Down again you'll find hidden *Ice Heal* and *PokeSnax*. Finally, on the bottom tier, you can find hidden *Red Shard*, *Purple Shard*, and *Poke Ball*. You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a mount and we can head back up Route 1!
+Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*.
 
-This time, as you go right, take the time to knock out every single Tauros. Even if we can't see them right now, there are logs in the woods that Bouffalant will be able to take care of for us, so it's a good idea to move every single one of them right now while we're exploring Route 1 anyways.
+**Techie Cameron. Field: Grassy Terrain**
+- Gardevoir, Lv. 53, Serious Nature, IVs: 10
+- Ampharos, Lv. 55, Serious Nature, IVs: 10
 
-You'll notice as you go that you will be unable to go through tall grass on your Tauros. The first time it totally blocks your progress right, enter the forest entrance directly up from this area.
+Defeat the Tauros to the right to open another shortcut. Jump down once more.
+
+**Hiker Oltan. Field: Grassy Terrain**
+- Pinsir, Lv. 51, Serious Nature, IVs: 10
+
+You can find hidden *Ice Heal* and *PokeSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poke Ball*. 
+
+**Ranger Nelly. Field: Grassy Terrain**
+- Zebstrika, Lv. 53, Serious Nature, IVs: 10
+
+You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a Tauros mount, which we can use to climb the ledges back up Route 1! Make your way back to where we fought Fern. You'll notice as you go that you will be unable to go through tall grass on your Tauros. The path through this section of woods on Tauros looks like the following:
+
+<img class="tabImage" src="/assets/media/reborn/route1_3.jpg"/>
+
+Note that this means we do have to briefly enter the North Aventurine Woods to keep our mount - alternatively you could also climb the ledge near the youngster, dismount, then get a new Tauros mount to the right. This takes more time however, so I recommend the woods when traversing Route 1 here.
 
 **North Aventurine Woods**
 
@@ -6384,13 +6413,83 @@ You'll notice as you go that you will be unable to go through tall grass on your
 |Pineco            |5  |Pineco            |5  |
 |Mothim            |4  |Wormadam          |4  |
 
-You can also find a hidden *Poke Ball* in here. Make your way out to the right and back onto Route 1.
+You can also find a hidden *Poke Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
 
-You'll eventually make your way back to the area where we fought Fern. To progress to the right while still on your Tauros, you'll need to have a Bouffalant move a log. Anyways, to the right you can find an *Exp. Candy L* as well as 2 hidden *Green Shards*, and *Electric Gem*. Note while you're here that you can pet Flareon, the first of many Eeveelutions we'll need to pet for that sidequest.
+<img class="tabImage" src="/assets/media/reborn/route1_4.jpg"/>
 
-On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mushroom*. To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards - past it, you can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale*. You'll notice we can't access the area at the bottom-right while on a Tauros, so we'll come back here later on. Continue knocking out the Tauros to get Bouffalant to push logs as we progress.
+To progress to the right while still on your Tauros, you'll need to have the top left Bouffalant move a log, so defeat Tauros. Hop up the ledge to the right.
 
-On the next hill you can get a hidden *PokeSnax*, *Purple Shard*, and *Poke Ball*. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, *Zinc*, *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*. 
+**Ranger Steve. Field: Grassy Terrain**
+- Krookodile, Lv. 49, Serious Nature, IVs: 10
+- Pyroar, Lv. 48, Serious Nature, IVs: 10
+- Feraligatr, Lv. 49, Serious Nature, IVs: 10
+- Arbok, Lv. 50, Serious Nature, IVs: 10
+- Mantine, Lv. 50, Serious Nature, IVs: 10
+
+**Hotshot Hark. Field: Grassy Terrain**
+- Flareon, Lv. 51, @Ganlon Berry, Serious Nature, IVs: 10
+    - Natural Gift
+    - Last Resort
+- Flareon, Lv. 52, @Belue Berry, Serious Nature, IVs: 10
+    - Natural Gift
+    - Superpower
+    - Flare Blitz
+    - Iron Tail
+- Flareon, Lv. 53, @Liechi Berry, Serious Nature, IVs: 10
+    - Natural Gift
+    - Superpower
+    - Flare Blitz
+    - Iron Tail
+- Flareon, Lv. 54, @Durin Berry, Serious Nature, IVs: 10
+    - Natural Gift
+    - Superpower
+    - Flare Blitz
+    - Iron Tail
+
+You can find an *Exp. Candy L* as well as 2 hidden *Green Shards*, and *Electric Gem*. Note while you're here that you can pet Flareon, the first of many Eeveelutions we'll need to pet for that sidequest.
+
+On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mushroom*. 
+
+**Hiker Rufus. Field: Grassy Terrain**
+- Loudred, Lv. 50, Serious Nature, IVs: 10
+- Crabominable, Lv. 51, Serious Nature, IVs: 10
+
+**Hotshot Brian. Field: Grassy Terrain**
+- Starmie, Lv. 50, Serious Nature, IVs: 10
+    - Hydro Pump
+    - Swift
+    - Recover
+    - Confuse Ray
+- Skarmory, Lv. 50, Serious Nature, IVs: 10
+
+Defeat the two Tauros here to get Bouffalant to push more logs out of the way.
+
+<img class="tabImage" src="/assets/media/reborn/route1_5.jpg"/>
+
+To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards. Jump down it.
+
+**Hiker Montgomery. Field: Grassy Terrain**
+- Tauros, Lv. 51, Serious Nature, IVs: 10
+
+**Ranger Sully. Field: Grassy Terrain**
+- Rapidash, Lv. 54, Serious Nature, IVs: 10
+
+You can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale* in this area. You'll notice we can't access the walled off area at the bottom-right while on a Tauros, so we'll come back here later on. Knock out the Tauros in the top area and progress up the next hill.
+
+On the next hill you can get a hidden *PokeSnax*, and *Purple Shard*.
+
+<img class="tabImage" src="/assets/media/reborn/route1_6.jpg"/>
+
+Grab the hidden *Poke Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, and *Zinc*.
+
+**Ranger Medius. Field: Grassy Terrain**
+- Karrablast, Lv. 52, Serious Nature, IVs: 10
+- Miltank, Lv. 52, Serious Nature, IVs: 10
+
+**Hiker Rosch. Field: Grassy Terrain**
+- Linoone, Lv. 54, Serious Nature, IVs: 10
+
+Grab the hidden *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*. 
 
 With that out of the way, dismount off your Tauros with 'A' and jump down the ledges down and to the left until we reach the secluded part we skipped earlier. Beat this final Tauros to move one more log, then grab the hidden *Super Repel*. Up above you should find another pair of fighting bulls - beat Bouffalant to get another Tauros mount, then return all the way to the right. We can't do anything in the top area for now, so head down and into the Vanhanen Labyrinth.
 
@@ -6449,9 +6548,9 @@ Anyways, talk to Luna.
     - Poison Jab
     - Megahorn
 
-This battle features the new Chess Board Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily this means that the opponents' teams will always use the same ranks, so I will list them for each chess fight.
+This battle features the new Chess Board Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially, each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily, this means that the opponents' teams will always predictably use the same ranks, so I will list them for each major chess fight.
 
-Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is annoying thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
+Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is always a bit annoying to fight thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
 
 Anyways, once you win, we can talk to Luna.
 
