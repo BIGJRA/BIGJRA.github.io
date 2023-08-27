@@ -6628,7 +6628,7 @@ One thing to note is that Judgement will cycle between gaining Fire, Water, Gras
 
 With that, agree to leave together. Exit out of the Grand Gate, then make your way to Coral Ward. Talk to Adrienn here, then accept fast travel if you wish back to Vanhanen Castle. I will recommend not doing that so we can prep for an upcoming sidequest.
 
-We're gonna need about 30 Honeys for the next section - you can either buy it directly, buy about 25 Ice Creams and/or Candies to trade in a bit, or a single Blue Moon Ice Cream works too.
+We're gonna need about 30 Honeys for the next section - I recommend buying only about 5 honeys and then making sure you have 8-9 candies in your bag, as we will be able to trade them for honey later. A single Blue Moon Ice Cream can also be exchanged for tons of Honey if you happen to have one.
 
 It's worth noting that we can buy Exp. Candy XL's now:
 
@@ -6646,13 +6646,19 @@ It's worth noting that we can buy Exp. Candy XL's now:
 
 ## North Aventurine Woods Exploration
 
-Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right. Enter 1N, the first entrance to the forest that you see. This will simply spit us out at 2N. To the right, you'll find 3N. 
+Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right. 
 
-Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it (immediately, unlike past versions). If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
+<img class="tabImage" src="/assets/media/reborn/route1_7.jpg"/>
 
-Head to the right from here and go through another set of tall grass, but don't go down this ledge just yet. If you do, step on the flower but don't pull out the Floral Charm just set - I'm saving that for a specific flower later on. Not pulling it out will send you back to Route 1, whenever you get stuck.
+Enter 1N, the first entrance to the forest that you see. This will simply spit us out at 2N. To the right, enter 3N. 
 
-Down from here, you'll find a hidden *Mental Herb* and another honey tree. Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass the old web spot and go up the next ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave.
+<img class="tabImage" src="/assets/media/reborn/naw_1.jpg"/>
+
+Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree (A) here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it (immediately, unlike past versions of the game ). If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
+
+Head to the right from here and go through another set of tall grass, but don't go down this ledge just yet. Throughout our adventures in the woods, if you appear to be stuck, step on the flower but don't pull out the Floral Charm just set - I'm saving that for a specific flower later on - and you'll be sent back to Route 1.
+
+Down from here, you'll find a hidden *Mental Herb* and another honey tree (B). Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass tree A and climb the ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave here.
 
 **Celestinine Mountain B2F / B1F**
 
@@ -6672,9 +6678,15 @@ Note that we will eventually want a Qwilfish for an in-game trade.
 
 Grab the hidden *Ether* and *Repel*, then make your way to the ice puzzle. Slide your way to the center, then slide left and up from the top left part of the center to get the *Icy Field Readout*. Oh, and the Icy Rock to evolve Eevee into Glaceon is here as well. Slide to the left and down to head down some stairs from here.
 
-Pick up an *Ice Stone* up here as well as a hidden *Potion*. You can also find *TM23 Smack Down* in here. Do some fishing if you'd like, then exit out to the woods the way we came in.
+Pick up an *Ice Stone* up here as well as a hidden *Potion*. You can also find *TM23 Smack Down* in here. Do some fishing if you'd like, then exit out to the woods the way we came in and return to Route 1.
 
-Grab a Tauros mount and head east from 3N in search for 4N. Once you find it, grab the hidden *Dire Hit* and *Big Mushroom*. To the left, you'll find a web we can destroy next to a Honey Tree, but there's no point to using a Honey on this one actually. Head back to the right and go up, then dismount. Past the tall grass, you'll find some soil to plant berries in if you'd like as well as the *Pikanium-Z* and a *Green Shard*. Enter the building here.
+<img class="tabImage" src="/assets/media/reborn/route1_8.jpg"/>
+
+Grab a Tauros mount and head east from 3N in search for 4N. Once you find it, head in. 
+
+<img class="tabImage" src="/assets/media/reborn/naw_2.jpg"/>
+
+Grab the hidden *Dire Hit* and *Big Mushroom*. If you go up and left, "To C" on the map, you can reach a tree (C) from the previous map under which we can fight a Pinsir to open a shortcut, though this one isn't required to get any rewards. Head back to the right and go up, then dismount. Past the tall grass, you'll find some soil to plant berries in if you'd like as well as the *Pikanium-Z* and a *Green Shard*. Enter the building here.
 
 A Pikachu on the ground floor is actually a tutor.
 
@@ -6686,13 +6698,17 @@ A Pikachu on the ground floor is actually a tutor.
 
 Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokemon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*. 
 
-Back outside, go right. You'll see another Honey tree - defeat Pinsir to clear some webs. We can ignore the nearby log. Grab the hidden *Burn Heal* and go up - we'll be blocked by a log for now! So, exit to Route 1, hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
+Back outside, go down then right. You'll see another Honey tree (D) - defeat Pinsir to clear some webs. Unless you really like the animation of Pinsir smashing logs, we can ignore the nearby short log. Grab the hidden *Burn Heal* and go up - we'll be blocked by long log for now! Exit to Route 1.
+
+<img class="tabImage" src="/assets/media/reborn/route1_9.jpg"/>
+
+Hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
 
 **Relationship Point Choices:**
 - Say you did see that just now (-1 Titania)
 - Say you didn't see that just now (-2 Titania)
 
-To the right, 6N will spit us back out onto Route 1, so find 7N to the east. Pick up the hidden *Paralyze Heal*. Dismount if you haven't already, then go left and up. You'll find a Honey tree - beat Heracross to clear a log to the left. Head back down and to the right here, then go up through the tall grass. There's another Honey tree - beat Heracross again to clear a log.
+To the right, 6N will spit us back out onto Route 1, so enter 7N to the east. Pick up the hidden *Paralyze Heal* and dismount, then go left and up. You'll find Honey tree E here - beat Heracross to clear a log to the left. Head back down and to the right here, then go up through the tall grass. There's another Honey tree (F) - beat Heracross again to clear a log.
 
 Head back out to Route 1, and pick up a Tauros mount. Head right back in to 7N and go up the ledge at the top. Grab the *Sharp Beak* as well as hidden *Synthetic Seed* and *Tiny Mushroom*. 
 
@@ -6703,27 +6719,49 @@ Head back out to Route 1, and pick up a Tauros mount. Head right back in to 7N a
 |**Dewpider**      |100|**Dewpider**      |95 |
 |                  |   |**Araquanid**     |5  |
 
-Finally, head back to Route 1, pick up a Tauros mount (if there are none, go west) and enter 4N once more. Follow the path to the right and go up the ledge here. Grab the *Exp. Candy XL*, *Calm Mint*, *Careful Mint*, and 2 *Lum Berries*. Also you can find hidden *Great Ball* and *Red Shard*. Return to Route 1.
+Finally, head back to Route 1, pick up a Tauros mount (if there are none, go west through 6N to 5N) and enter 4N once more. Follow the path to the right and go up the ledge here. Grab the *Exp. Candy XL*, *Calm Mint*, *Careful Mint*, and 2 *Lum Berries*. Also you can find hidden *Great Ball* and *Red Shard*. Return to Route 1.
 
 ## South Aventurine Woods Exploration
 
-Unfortunately getting everything in the South Aventurine Woods is a bit complicated, to make things easier, we will start at 8S and then go from the left afterwards. From the Vanhanen Labyrinth, enter the first south woods entrance from the right (this will be 8S, using the left-to-right numbering). Note you'll have to dismount to get here. 
+Getting everything in the South Aventurine Woods is a bit more complicated, so to make things easier, we will start at the rightmost entrance to the South Aventurine Woods first. 
 
-Inside, grab the hidden *Revive* then use the Honey tree two times to destroy both of the nearby obstacles. With that out of the way, head all the way to the west, heal if you'd like, then enter 1S on the south side of Route 1.
+<img class="tabImage" src="/assets/media/reborn/route1_9.jpg"/>
 
-Grab a hidden *Clever Wing* then go up the ledge and follow the path. Talk to the Honey tree and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S. Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the honey tree and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again and go up the right ledge then go down. Once you reach the last ledge, dismount and go down through the tall grass. Use the Honey tree and fight Heracross this time, then return to Route 1. Shocker - grab another Tauros, enter 2S, this time following the path down first. Jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount.
+Head east on Route 1 and enter 8S in the above map, noting that you'll have to dismount in order to reach this woods entrance. 
 
-Pick up the hidden *Revive* in the next area, then use the Honey tree and fight Heracross. Exit out of 3S above, get a Tauros mount, and return. Go up the ledge at the bottom, use the Honey tree and fight Pinsir. Grab the hidden *Purple Shard*, and you'll notice we can't progress this way any further. Return to Route 1.
+<img class="tabImage" src="/assets/media/reborn/saw_3.jpg"/>
 
-Next, we'll be entering 4S - you'll know you're in the right place if you recognized where we fought Fern. Anyways, lather the Honey tree closest to you and fight Pinsir, then make your way right. Don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree, defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening. Go that way, and pull out our Floral Charm when prompted to battle **Flabebe**! Head straight to the right and grab the *Oddishweed*. Head back and get lulled into a daze to return to Route 1.
+Inside, grab the hidden *Revive* then use the Honey tree (Q) two times to destroy both of the nearby obstacles. Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side at 6S. Our next destination is all the way to the west, so stop by the Route 1 Nature Center to heal if you'd like
 
-Again, enter 4S, this time, heading down. Use the nearby Honey tree two times to clear both obstacles. Go down and immediately to the right, use another Honey tree and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and a hidden *Telluric Seed*. Make sure you save one of these Custap Berries for a quest later on.
+<img class="tabImage" src="/assets/media/reborn/route1_7.jpg"/>
 
-Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*. Go right from here and grab the hidden *Fire Gem*. Down the ledge you'll finally see why I had us do 8S first... anyways follow the path right then go up. Get the hidden *PP Up* and finally dismount, then head up into the grass. 
+Enter 1S on the far west side of Route 1. 
 
-Here, you can grab a *Razor Claw* and *TM40 Aerial Ace* as well as hidden *Silver Powder* and *Magical Seed*. You'll also find a Heracross and a Pinsir here. To get **Heracross** defeat the Pinsir, and to get **Pinsir** defeat the Heracross. We'll be able to obtain the other later.
+<img class="tabImage" src="/assets/media/reborn/saw_1.jpg"/>
 
-Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side via 6S. That wraps up our exploration of the woods!
+Grab a hidden *Clever Wing* then go up the ledge and follow the path. Dismount, then talk to Honey tree (G) and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S. Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the Honey tree (I) and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again. Go right at this fork, staying on Tauros to climb the ledge below tree (I). Dismount up here and go down through the tall grass. Use the Honey tree (H) and fight Heracross this time, then return to Route 1. One more time, get a Tauros and re-enter 2S, this time going down at the fork. Follow the path and jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount.
+
+Pick up the hidden *Revive* in the next area, then use the Honey tree (J) and fight Heracross. Exit out of 3S above, get a Tauros mount, and return to 3S. Go up the ledge at the bottom, use the Honey tree (K) and fight Pinsir. Grab the hidden *Purple Shard*. You'll notice we can't progress this way any further. Return to Route 1.
+
+<img class="tabImage" src="/assets/media/reborn/route1_8.jpg"/>
+
+Next, we'll be entering 4S - you'll know you're in the right place if you recognized where we fought Fern. 
+
+<img class="tabImage" src="/assets/media/reborn/saw_2.jpg"/>
+
+Anyways, lather the Honey tree closest to you (N) and fight Pinsir, then make your way right and dismount - don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree (P); defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening (orange in the above image). Pull out the Floral Charm when prompted to to battle **Flabebe**! Head straight to the right and grab the hidden *Oddishweed* in the bush. Head back and get lulled into a daze to return to Route 1.
+
+Again, enter 4S, this time not needing a Tauros mount, and head down. Use the nearby Honey tree (M) two times to clear both obstacles. Go down and immediately to the right, use another Honey tree (O) and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan (L) and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and a hidden *Telluric Seed*. Make sure you save one of these Custap Berries for a quest later on.
+
+Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*, then head right. 
+
+<img class="tabImage" src="/assets/media/reborn/saw_3.jpg"/>
+
+Grab the hidden *Fire Gem*. Down the ledge you'll finally see why I had us do 8S first... anyways follow the path right then go up. Get the hidden *PP Up* and finally dismount, then head up into the grass. 
+
+Here, you can grab a *Razor Claw* and *TM40 Aerial Ace* as well as hidden *Silver Powder* and *Magical Seed*. You'll also find a Heracross and a Pinsir here, but you need to choose. To get **Heracross** defeat the Pinsir, and to get **Pinsir** defeat the Heracross. We'll be able to obtain the other later.
+
+That wraps up our exploration of the woods!
 
 Return to the Route 1 Nature Center and talk to the guy on the second floor who lost his specs. In exchange for the Tech Glasses we will get *Department Store Sticker: Heracross*! 
 
@@ -6740,7 +6778,7 @@ Return to the Route 1 Nature Center and talk to the guy on the second floor who 
 |*X Accuracy*   |$950           |
 |*Dire Hit*     |$650           |
 
-I've never used any of these in my life, but if you want to go for it.
+I've never used any of these in my entire life, but if you want to, go for it.
 
 **Department Store 8F Right Shop**
 
