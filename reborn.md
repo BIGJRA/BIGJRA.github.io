@@ -1603,9 +1603,14 @@ Welcome to Coral Ward.
 |------------------|---|
 |Grimer            |100|
 
-Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are. Whenever you see the following spoiler bar, highlight the text to view the spoiler.
+Inside the apartment complex at the top, you'll meet Danielle who will give you a quiz. Feel free to go find the answers yourself if you'd like. Otherwise, here they are. 
 
-> 4, 7, 31
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    4, 7, 31
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Coral Quiz Answers</a>
+</div>
 
 As a reward for completing the quiz you'll get the *Misty Terrain Readout*. Useful, since Coral Ward is covered in mist.
 
