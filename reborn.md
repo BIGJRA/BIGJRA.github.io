@@ -1609,7 +1609,7 @@ Inside the apartment complex at the top, you'll meet Danielle who will give you 
   <div class="spoilerText" style="display:none">
     4, 7, 31
   </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Coral Quiz Answers</a>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Coral Quiz Answers</a>
 </div>
 
 As a reward for completing the quiz you'll get the *Misty Terrain Readout*. Useful, since Coral Ward is covered in mist.
@@ -2217,7 +2217,12 @@ After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defe
 
 With all that out of the way we can head back to the gym. In order to battle Florinia, we're gonna need to answer all the quiz questions. The answers are here, from right to left:
 
-> 1, 367, True, 410, True, 37, 15, True
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    1, 367, True, 410, True, 37, 15, True
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Onyx Gym Quiz Answers</a>
+</div>
 
 Head to the left and enter the gym room for a battle.
 
@@ -3159,7 +3164,12 @@ Pick up a hidden *Red Shard* and a *Dire Hit* to the right. Below here, you'll n
 
 Down from here there are essentially four paths we can take down the ledges. I start by heading down the rightmost path first. Pick up a hidden *Guard Spec* then take the ladder. In the next room you can grab a hidden *Star Piece* then head into the small cave here. "The Crystals glimmer with fissures" is a clue related to field effects - see if you can figure it out. 
 
-> The solution: use Magnitude or Bulldoze here on the field. Many of the wild Pokemon have one of these moves.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    The solution: use Magnitude or Bulldoze here on the field. Many of the wild Pokemon have one of these moves.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the answer</a>
+</div>
 
 Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out then go up the ladder at the top. You can find a hidden *Heart Scale* as well as a *Magical Seed* and a *Exp. Candy M*. Can't do anything else here so head up the next ladder. In here you can pick up an *Ability Capsule* and hidden *Exp. Candy M* and *Red-Hots*. 
 
@@ -3499,7 +3509,11 @@ There is a front area, a back area, and upstairs - your goal is to turn every si
 
 Using this information, it can be fun to try to solve this puzzle yourself. The game actually has a cheeky secret way to solve it though:
 
-> Simply check monitors for a light above or below it. If it is yellow, ignore it, if it is green, click that one next.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Simply check monitors for a light above or below it. If it is yellow, ignore it, if it is green, click that one next.  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the secret to the Lapis Gym puzzle</a>
+</div>
 
 Whichever way you solve the puzzle, click the final monitor that you can find upstairs, then cross the bookshelves. You can find a *Leaf Stone* nearby.
 
@@ -4819,7 +4833,11 @@ Once you reach the peak, it's time for that boss battle I was talking about.
 
 This is an "impossible battle" in the normal sense that the story will progress if you lose, but it actually does acknowledge your success with being a precondition for one of the postgame routes as well as some points. For that reason I will hide the text on my recommendations.
 
-> You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokemon or something with attack-lowering moves can open it up to not kill some of your Pokemon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokemon or something with attack-lowering moves can open it up to not kill some of your Pokemon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Garchomp strategies</a>
+</div>
 
 **Relationship Point Choices:**
 - Defeat Solaris on Pyrous (+1 Cain, +1 Victoria, +1 Cal, +1 Shade, +1 Anna, +3 Taka)
@@ -6587,7 +6605,11 @@ In this area, you can find 5 hidden *Star Pieces*, *Shoal Shell*, and *Shiny Sto
 
 Enter the building here. We can use our Ruby Ring to access a door. Inside, you'll find the first of many of Reborn's logic-by-contradiction puzzles. The ones in here shouldn't be too crazy, so I recommend solving these yourself. Anyways, the answer:
 
-> Chimchar Dark, Monferno Dark, Infernape Light
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Chimchar Dark, Monferno Dark, Infernape Light </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Chimchar puzzle answer</a>
+</div>
 
 After the puzzle, go through the teleporter. You can actually make your way back through the purple teleporter to grab a *Exp. Candy XL*. With that, head up and into the door.
 
@@ -6600,7 +6622,12 @@ After the puzzle, go through the teleporter. You can actually make your way back
 
 Note that we will eventually get points for free for being the other genders too. Enter the red door for another logic puzzle.
 
-> Hitmonchan: Dark, Hitmonlee: Light, Tyrogue: Light, Hitmontop: Dark
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Hitmonchan: Dark, Hitmonlee: Light, Tyrogue: Light, Hitmontop: Dark 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Tyrogue puzzle answer</a>
+</div>
 
 Use the Light Shard (or wait till we catch a few Pokemon) and head out.
 
@@ -6813,22 +6840,42 @@ The screen in here will also tell us what our current team chess piece ranks wou
 
 Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
 
-> Rook up 7; king up 5, and right 2. 
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Rook up 7; king up 5, and right 2. 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #1</a>
+</div>
 
 **Relationship Point Choices:**
 - Get the first chess puzzle right on your first try (+1 Radomus)
 
 Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
 
-> Knight up 3, and right 3; Rook right 1, up 7, right 1; Bishop up-left 2, down-left 1, up-left 1.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Knight up 3, and right 3; Rook right 1, up 7, right 1; Bishop up-left 2, down-left 1, up-left 1. 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #2</a>
+</div>
 
 Enter room 3. Luna's trick can help us out here.
 
-> Rightmost Pawn up 1; Second-rightmost Pawn up 6, promote to Knight, down 4, left 6, up 2; Rightmost Knight up 3, left 5, up 2.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Rightmost Pawn up 1; Second-rightmost Pawn up 6, promote to Knight, down 4, left 6, up 2; Rightmost Knight up 3, left 5, up 2.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #3</a>
+</div
 
 Enter room 4. This is a harder one but you can use the trick from the last room to figure it out.
 
-> Pawn up 5, promote to Queen, down 5, right 1; Rightmost Knight left 1, up 2, left 3, up 3, right 3, down 1; Bishop up-left 2, Leftmost Knight up 2.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Pawn up 5, promote to Queen, down 5, right 1; Rightmost Knight left 1, up 2, left 3, up 3, right 3, down 1; Bishop up-left 2, Leftmost Knight up 2.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #4</a>
+</div>
 
 Head up and into the next room when you are ready for your gym battle.
 
@@ -7018,7 +7065,12 @@ You'll need to go up here, but you can't see the full body of the guard above. T
 
 In the next room, you'll need to defeat grunts around the room and interact with 4 statues and input numbers that correspond to the respective scriptures. Solutions:
 
-> Green: 3827, Purple: 0204, Red: 2303, Blue: 1605
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Green: 3827, Purple: 0204, Red: 2303, Blue: 1605
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the statue puzzle</a>
+</div>
 
 Once the door is opened towards the middle, prepare for a battle and head up.
 
@@ -7593,21 +7645,41 @@ If you go up from here you'll find a hidden *Telluric Seed*, but can't progress 
 
 Grab some sleep powder and talk to the rock towards the top to summon a Crustle. Talk to it to put it to sleep, then push it to the right side so that it falls into the hole. A precise guide to moving this first Crustle:
 
-> Right 3, Up 1, Right 4, Up 2, Right 3, Up 1, Right 5, Down 2, Right 3
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Right 3, Up 1, Right 4, Up 2, Right 3, Up 1, Right 5, Down 2, Right 3
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 1 movements</a>
+</div>
 
 Grab some more sleep powder then head to the bottom right corner of this level. You'll find a rock that lets us climb up, so do so. Hop left then immediately down onto a cliffside. To the left from here you'll find a hidden *Link Stone*. Back near the stairs, make your way to the top left side of this area, carefully avoiding the wobbly rocks. On the higher platform, talk to the rock to summon a Crustle, then push it into the hole at the top of this area. Precisely:
 
-> Left 4, Up 8, Right 1, Up 4, Right 1, Up 3
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 4, Up 8, Right 1, Up 4, Right 1, Up 3
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 2 movements</a>
+</div>
 
 Make your way back down to the larger area, get another dose of sleep powder, then return to the upper left area.
 
 Climb onto the white rock via the stairs then go right for a hidden *Ability Capsule*. Go to the left and use the cliff to hop over to the rock face up and to the right. Use the sleep powder on the Crustle in the nearby rock, then push this crustle off the ledge to the right. This is a bit of a tricky maneuver - keep in mind that you can hop your way around to get a better angle. Precisely:
 
-> Left 2, go up the stairs, hop down, and go down ledges to loop around to get on top of Crustle, Down 1, take the stairs to the left up, hop down, and hop your way to the rightmost stairs, Right 3, Down 1. 
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 2, go up the stairs, hop down, and go down ledges to loop around to get on top of Crustle, Down 1, take the stairs to the left up, hop down, and hop your way to the rightmost stairs, Right 3, Down 1. 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 3 movements</a>
+</div>
 
 From here, climb the stairs and make your way down the first ledge on the gray rock face and hop to the right onto the rock with stairs.  You'll need to finish moving the Crustle we previously knocked down the cliff into the hole at the top. Precisely:
 
-> Right 2, Down 1, Right 2, Up 3, Left 1, Up all the way
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Right 2, Down 1, Right 2, Up 3, Left 1, Up all the way 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 4 movements</a>
+</div>
 
 Climb up the stairs to the right. You'll find a hidden *Ultra Potion* and *Green Shard*, and be able to hop across Crustle to go left at the top. Pick up *TM58 Sky Drop* and a hidden *Super Potion*. To the left across the final Crustle you can get a hidden *Ether* and *Purple Shard*. Head into the mountain here.
 
@@ -7638,29 +7710,54 @@ Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Ex
 
 Snag the *Blue Shard* to the left, then get some sleep poweer and talk to Crustle. We'll need to move it down and right. Precisely: 
 
-> Left 2, Down 1, Right 2, Down 5, Right 3, Down 1, Right 3
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 2, Down 1, Right 2, Down 5, Right 3, Down 1, Right 3 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 5 movements</a>
+</div>
 
 Down from here, you can hop onto some reddish rocks. Hop down and to the right to pick up the *Rocky Field Readout*. Head back up to the higher platform, go up the stairs, and hop your way left to where the ranger is. Go down the stairs here, then pick up a hidden *Red Shard* in this lower area.
 
 Grab some sleep powder and put the Crustle in the bottom right corner to sleep. We'll need to push it off a cliff down and to the left. Precisely: 
 
-> Left 4, Down 4, Left 2, Down 4, Left 1, Down 6, Right 1, Down 8
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 4, Down 4, Left 2, Down 4, Left 1, Down 6, Right 1, Down 8
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 6 movements</a>
+</div>
 
 Take the nearby stairs and take the path up and left. Get more sleep powder then push Crustle. We'll need to get it off of two cliffs. Precisely:
 
-> Left 5, Down 1 off the cliff, Left 4, Down 2, Right 2, Down 1
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 5, Down 1 off the cliff, Left 4, Down 2, Right 2, Down 1
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 7 movements</a>
+</div>
 
 Grab the hidden *Swift Wing, Big Mushroom, Fire Stone*, and *Paralyze Heal* then return to the rock stairs down and right.
 
 Hop to the right this time, taking a stop on the narrow cliffside to the right. Use the sleep powder on the Crustle and push it off the cliff at the bottom. Precisely: 
 
-> Left 2, Down 5, Right 1, Down 6
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 2, Down 5, Right 1, Down 6
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 8 movements</a>
+</div>
 
 Pick up the hidden *Red Shard* then continue the rock hop up and around to the right. Grab a hidden *Ground Gem*. The path to the right, including a Crustle from earlier, will take us to the start of Route 2, a helpful shortcut. Go down the stairs from here and beat the hiker.
 
 Jump over the placed Crustle and move the remaining one off the cliff and into its final destination. Precisely: 
 
-> Left 2, Down 2, Right 1, Down 4 off the cliff, Left 5, Up 5, Right 1, Up 1.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Left 2, Down 2, Right 1, Down 4 off the cliff, Left 5, Up 5, Right 1, Up 1.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 9 movements</a>
+</div>
 
 Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Grab the hidden *Flying Gem*. 
 
@@ -7905,8 +8002,15 @@ On the top there is a ladder that will take us to the familiar 2F. Up here you'l
 Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to to the top right, and surf to the right and grab a hidden *Ultra Ball*. The bottom of this map will lead you out to the cascade we saw earlier. Without Dive and Waterfall there isn't much to do in here, so go up the ladder in the top right corner.
 
 Cross the ice puzzle to get to the left. Precisely: 
-> Up, Left, Down, Left, Up, Left, Down, Left to go from the right side to the left side
-> Right, Down, Left, Up, Right, Down, Right, Up, Right, Down to go from the left side to the right side
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Up, Left, Down, Left, Up, Left, Down, Left to go from the right side to the left side<br/>
+    Right, Down, Left, Up, Right, Down, Right, Up, Right, Down to go from the left side to the right side
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for ice puzzle movements</a>
+</div>
+
 
 Follow the body of water up from here to enter Ametrine Mountain 2F.
 
@@ -8095,11 +8199,14 @@ Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell
 
 Enter Charlotte's gym when you are ready. The puzzle here is basically the same as Wallace's from generation 3: you have to carefully step on every gray tile exactly once and make it to the other side's stairs. For precise solutions:
 
-> Puzzle 1: U U L L U U U R D R D R D R U U L U L U
-
-> Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U
-
-> Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Puzzle 1: U U L L U U U R D R D R D R U U L U L U <br/>
+    Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U <br/>
+    Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for puzzle solutions</a>
+</div>
 
 Head up to where Charlotte is. 
 
@@ -8314,7 +8421,12 @@ Now we have to search Blake's room for clues to make a way out.
 
 Under the left couch you'll find *3 Coins*, while the chair towards the bottom contains *1 Coin* and the bottom right sofa contains *2 Coins*. In the trash can at the top you'll find the head of a key. The game console contains a Program Disc. The drawer at the bottom contains a key handle, so you can open the cabinet at the top to get a power cable. Use the cable and the disc on the computer to open a prompt for a password. To get the password, search all the books and flowers around the room and talk to Shelly a few times! Input the code once you have it:
 
->5083164
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    5083164  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the code</a>
+</div>
 
 Enter the secret passage and follow the path! On 6F you can find a hidden *Iron*.
 
@@ -8635,9 +8747,14 @@ Time to take on M3G4 T3RR4. As you've probably come to learn by now, the Glitch 
 
 So, onto how Terra uses this field. You'll get a good example of principle 2 right away in her Nidoking, who will get bulkier and stronger by using Amnesia and then can hit hard with extra-accurate Blizzard, T-Bolt and Flamethrower to round out its special coverage. Hippowdon is bulky and likes to put you to sleep and hit with the ol' reliable Rock / Ground offensive combo, but more importantly, it sets up weather for its buddy Sand Rush Excadrill (who gets increased crit thanks to being fast!) to set up or just plain sweep you with it's insanely high attack stat. If that wasn't enough she has a mixed Garchomp who gets to ignore the SpA drops of Draco Meteor by calculating based on its SpD stat but can also hit with physical Bulldoze and Stone Edge. Rounding out her team is Palossand and Quagsire, each with the Synthetic Seed, neutralizing their weaknesses entirely and allowing each to set up with Amnesia and Recovery moves. Quagsire even has Unaware to ruin whatever similar SpD stacking strategy you have going! All in all a tough team that may really mess you up if you aren't using the field to maximum effect for your team.
 
-The first thing I recommend for this fight is literally to find a list such as [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) and use it to find some Pokemon with really high SpD, since they are generally the best for this field. Especially if they have moves like Amnesia, Stockpile, or Cosmic Power, then you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed. As I mentioned earlier, you can also try to stack your own crit monster, which should allow you a much easier time with the bulkier members of her team. One other thing to consider we saw earlier in the Mewtwo fight - Psychic moves get buffed, so you can find a Pokemon with suitable SpA or SpD and wear her down with those. 90% accurate Blizzard can be useful against Garchomp, Nidoking, and Hippowdon as well. Explosion halves defense as well, useful as a last-minute nuke against the ??? type tanks. You can also consider using Roar or Whirlwind on the pair, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them. 
+The first thing I recommend for this fight is literally to find a list such as [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) and use it to find some Pokemon with really high SpD, since they are generally the best for this field. Especially if they have moves like Amnesia, Stockpile, or Cosmic Power - you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed. As I mentioned earlier, you can also try to stack your own crit monster, which should allow you a much easier time with the bulkier members of her team. One other thing to consider we saw earlier in the Mewtwo fight - Psychic moves get buffed, so you can find a Pokemon with suitable SpA or SpD and wear her down with those. 90% accurate Blizzard can be useful against Garchomp, Nidoking, and Hippowdon as well. Explosion halves defense as well, useful as a last-minute nuke against the ??? type tanks. You can also consider using Roar or Whirlwind on the pair, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them. 
 
-> Oh, and if you are able to make the Sandstorm and Stealth Rocks go away and kill Hippowdon, Shedinja with a seed is literally invincible.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Oh, and if you are able to make the Sandstorm and Stealth Rocks go away and kill Hippowdon, Shedinja with a seed is literally invincible.  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for one more secret tip :)</a>
+</div>
 
 **Relationship Point Choices:**
 - Defeat Terra (-4 Terra, actually not a choice)
@@ -9817,7 +9934,12 @@ You can find hidden *Green Shard*, *Fairy Gem*, *Magical Seed*, and *Max Repel*.
 
 Enter the building in the upper right side. Danielle will give you another quiz! Feel free to go find the answers yourself if you'd like. Otherwise, here they are. 
 
-> 15, 30, 23, 0, 42, any answer
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    15, 30, 23, 0, 42, any answer
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for quiz answers</a>
+</div>
 
 Once you succeed, you'll get the *Fairy Tale Field Readout*. 
 
@@ -10774,7 +10896,11 @@ Past here you can get a hidden *Repel* as well as **Treecko**!
 
 Escape back to Beryl Ward. We can now notably access the backrooms of the library once more. Enter the left room and press the books in a familiar order. 
 
-> That is, the order of the Arceus Statues in the Subseven Sanctum! So, Green, Red, Purple, Yellow, Blue, White
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+        That is, the order of the Arceus Statues in the Subseven Sanctum! So, Green, Red, Purple, Yellow, Blue, White  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the answer to the puzzle</a>
+</div>
 
 Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst* which lets us catch Pokemon a bit easier. 
 
@@ -11603,26 +11729,61 @@ Towards the top of the area, you'll notice a **Mimikyu** that you can battle and
 Return to the Mirage Tower proper. Next, we will climb the tower, solving puzzles as we go! Note that your actions on the block will affect the other, but the blocks won't move if pushed against a barrier. I will put the solutions in invisible text.
 
 Puzzle 1:
-> U U U R R
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    U U U R R  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 1 solution</a>
+</div>
 
 Puzzle 2: 
-> U U L L D D D D R R
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    U U L L D D D D R R
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 2 solution</a>
+</div>
 
 Puzzle 3:
-> D L D D D L L L L D R D D D R R R R D
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    D L D D D L L L L D R D D D R R R R D
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 3 solution</a>
+</div>
 
 Puzzle 4:
-> D D D R U R R R D R D D R
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    D D D R U R R R D R D D R
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 4 solution</a>
+</div>
 
 You'll need to go back the way you came and go up at the fork in the stairs to progress.
 
 Puzzle 5:
-> R R R R R D D D R R D D D R L L U L L L L R R R
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    R R R R R D D D R R D D D R L L U L L L L R R R
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 5 solution</a>
+</div>
 
 To progress from here, go up through the hole in the glass that will be created.
 
 Puzzle 6:
-> R R R R R L D D D D D D L L L U U U U L D U U
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    R R R R R L D D D D D D L L L U U U U L D U U
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 6 solution</a>
+</div>
 
 Follow the path back from here... into the Tourmaline Desert once more?
 
@@ -12458,19 +12619,32 @@ The floor will collapse, creating a new climbing wall. Head down. In the next ro
 
 Here is the first of the Larvitar puzzles. By knocking down the four green crystals, we can use them as directions that we want Larvitar to go. As long as there is a path in the specified direction (up, down, left, right) to a translucent rock, it will go there and remove it. I will provide routes in invisible text that remove the most rocks and allow you to get all items.
 
-> U U U R R D R R R U R L D R R R D D R
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    U U U R R D R R R U R L D R R R D D R
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 1 Solution</a>
+</div>
 
 Pick up the now-accessible *Jolly Mint* and *Timid Mint*. Proceed to the next room.
 
-> L U R D U R R R U L R D R L U R U L R R R R R R D R R D L D D L D U R D D 
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    L U R D U R R R U L R D R L U R U L R R R R R R D R R D L D D L D U R D D
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 2 Solution</a>
+</div>
 
 Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door in the bottom left side where Larvitar entered will lead you to an *Ability Capsule*. Backtrack and enter the next room in the top right.
 
-> L U U R U U L D U R D R D U U R R R U U R R R D D D L D U L R D D L D R
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    L U U R U U L D U R D R D U U R R R U U R R R D D D L D U L R D D L D R
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 3 Solution</a>
+</div>
 
-Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed.
-
-In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**! 
+Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed. In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**! 
 
 That's all we can do here, so escape from this cave.
 
@@ -14154,11 +14328,21 @@ Anyways, head to the center of the city next. After this scene, head to the bott
 
 Before continuing, we can actually do one more quick quest. If you don't want to break up the current pace of the Labradorra siege you can come back to this quest, but I recommend it for some potentially helpful rewards for the next fight. Head to the building in the bottom-right side of Labradorra. Inside is a screen that we can use to enter passwords (we found these earlier). The first password is:
 
-> 2368
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    2368  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the first password</a>
+</div>
 
 As a reward for inputting it, we can get the *Swampertite*! Very nice tool for a rain team. The second, harder to spot password is: 
 
-> 3862
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    3862  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the second password</a>
+</div>
 
 For inputting this one, we'll get a Sylveon, holding a *Ribbon Collar*. 
 
@@ -16360,7 +16544,12 @@ So, a Champion fight. If you look carefully, you'll notice that this team is alm
 
 Once you regain control, head up and through the path. You'll need to use the Emerald Brooch on the first floor and solve a quick logic puzzle.  
 
-> Or so it would seem. All four are Dark.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Or so it would seem. All four are Dark.  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the puzzle solution</a>
+</div>
 
 In the Sapphire Bracelet room ahead is... another puzzle? Just choose an answer for each one. Proceeding from here, you can get the *PULSE Readout 11*. Oh boy.
 
@@ -19071,25 +19260,50 @@ Once you've found as many translations as you can, talk to Latias to learn a lis
 
 The Florinia to the left of Latias, across the bridge, is the first one I was able to solve. The answer:
 
-> ANGER, which translates to GMKR@
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    ANGER, which translates to GMKR@
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #1</a>
+</div>
 
 You'll also be able to help the Florinia in the double-doored building to the right, on the second floor. The solution:
 
-> GUILT, which translates to K=XJ7
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    GUILT, which translates to K=XJ7
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #2</a>
+</div>
 
 The bottom right Florinia across some water has the solution:
 
-> SORROW, which translates to F5@@5#
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    SORROW, which translates to F5@@5#
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #3</a>
+</div>
 
 With all three solved, you can proceed to the next area, to the left of where Latias previously was. The cipher will remain the same, with new keys discovered in this next area.
 
 The Florinia to the bottom right of Latias:
 
-> JOY, which translates to %5H
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    JOY, which translates to %5H
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #4</a>
+</div>
 
 At the top of the large building in the top left corner, the solution:
 
-> PASSION, which translates to YGFFX5M
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    PASSION, which translates to YGFFX5M
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #5</a>
+</div>
 
 Return to Latias, up from here is a new path we can follow. Enter this room.
 
@@ -19112,11 +19326,21 @@ Return to Latias, up from here is a new path we can follow. Enter this room.
 
 Inside this forest-like room, we can diagnose another emotion:
 
-> FEAR, which translates to ?RG@
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    FEAR, which translates to ?RG@
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #6</a>
+</div>
 
 Back outside, a new gate will open to the right. Follow it, get some new clues, and talk to her at the top to solve the final puzzle:
 
-> LOVE, which translates to J5TR
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    LOVE, which translates to J5TR
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Emotion #7</a>
+</div>
 
 With that, Florinia will have some revelations and leave. **Latias** and **Latios** will now go with you, as well!
 
@@ -21213,36 +21437,75 @@ Essentially, each species has a prime number 'value' among the first 8 primes - 
 
 In the second room, you'll be told Chingling is 2, Espeon is 3, and Mightyena is 5. By extension from the first floor, you'll be able to conclude Umbreon is 3. 
 
-> The solution: since Mightyena is the only Umbral Pokemon it must be kept alive: bringing the Anomalous total to 5 requires knocking out one Chingling.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Since Mightyena is the only Umbral Pokemon it must be kept alive: bringing the Anomalous total to 5 requires knocking out one Chingling.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 In the third room, the Anomalous total is 7, and the Umbral total is 10. Eve will tell us Togetic is 7 before having to flee, so Noel will join us as we proceed. 
 
-> The solution: To bring the Umbral total down to 7, knocking out Umbreon is the way. Note that this implies that Mismagius is worth 7.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    To bring the Umbral total down to 7, knocking out Umbreon is the way. Note that this implies that Mismagius is worth 7.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 In the fourth room, the totals are 12 and 14, respectively.  There are two Mismagius, a Togetic, a Cleffa, and an Espeon in this room.
 
-> The solution: Since we know the values of Togetic and Espeon, we can conclude Cleffa is 2. We know that we will need to knock out at least one Umbral Pokemon but not both... so knocking out one Mismagius leads to an Umbral total of 7. To the Anomalous total down from 12, then, we'll need to knock out Cleffa and Espeon.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    The solution: Since we know the values of Togetic and Espeon, we can conclude Cleffa is 2. We know that we will need to knock out at least one Umbral Pokemon but not both... so knocking out one Mismagius leads to an Umbral total of 7. To the Anomalous total down from 12, then, we'll need to knock out Cleffa and Espeon.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 The fifth room has totals of 10 and 9, respectively. There are three Umbreon here, as well as one each of Flabebe, Floette, and Florges. We aren't directly given the values of any of these three, however.
 
-> The solution: Since the three Anomalous Pokemon have prime values, the only way to make 10 from three primes is by adding 2, 3, and 5. The game doesn't really tell you this until after this puzzle, but within evolutionary lines the further along species has the higher values - so Flabebe is 2, Floette is 3, and Florges is 5. With that information, we know we will need to knock out either one or two Umbreons to make an Umbral total of 3 or 6... but the latter cannot be obtained by any sum of 2, 3, and 5. So, knock out two Umbreon, Flabebe, and Florges to reach a balance of 3. 
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Since the three Anomalous Pokemon have prime values, the only way to make 10 from three primes is by adding 2, 3, and 5. The game doesn't really tell you this until after this puzzle, but within evolutionary lines the further along species has the higher values - so Flabebe is 2, Floette is 3, and Florges is 5. With that information, we know we will need to knock out either one or two Umbreons to make an Umbral total of 3 or 6... but the latter cannot be obtained by any sum of 2, 3, and 5. So, knock out two Umbreon, Flabebe, and Florges to reach a balance of 3. 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 The sixth room has totals of 30 and 26. On the Anomalous side, you'll notice 2 Floette, 1 Florges, 1 Chingling, 2 Espeon, and 1 Granbull. On the Umbral side, you'll notice 2 Zweilous.
 
-> The solution: Since we have 2 Zweilous and an Umbral total of 26, we can conclude Zweilous is 13. By subtracting one 2, four 3's, and one 5 from 30, we can conclude that Granbull is 11. Since we can't simply remove 4 from the Anomalous side to reach 26, we'll need to knock out one Zweilous, making the target 13. As for the Anomalous side, knocking out Granbull, and any two of the Floette and Espeon will reach the balance of 13.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Since we have 2 Zweilous and an Umbral total of 26, we can conclude Zweilous is 13. By subtracting one 2, four 3's, and one 5 from 30, we can conclude that Granbull is 11. Since we can't simply remove 4 from the Anomalous side to reach 26, we'll need to knock out one Zweilous, making the target 13. As for the Anomalous side, knocking out Granbull, and any two of the Floette and Espeon will reach the balance of 13.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 The seventh room has 24 and 21. There is 1 Spritzee and 2 Kadabra in here, as well as 1 Houndour, 1 Murkrow, and 1 Zweilous.
 
-> The solution: First, we can figure out the values. Note that the Anomalous total is even, and the 2 Kadabra together will always have an even total. This implies Spritzee is even, since it is a prime, Spritzee is 2. We can thus conclude Kadabra is 11. On the other side, Murkrow and Houndour together add up to 8, meaning one of them must be 3 and the other 5. Shelving this for now, we now look at all the possible states of the Anomalous side. Keeping 2/3 alive would result in a total of either 13 or 22, while keeping only 1/3 alive would result in a total of either 2 or 11. None of the Umbral Pokemon are valued 2 or 11, and the Dark total begins at 21, meaning 13 must be the target value - knocking out one Kadabra will get us there on the Anomalous side. Luckily for us, Zweilous is valued 13, so we can knock out Houndour and Murkrow without being sure of their values to finish this room.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    First, we can figure out the values. Note that the Anomalous total is even, and the 2 Kadabra together will always have an even total. This implies Spritzee is even, since it is a prime, Spritzee is 2. We can thus conclude Kadabra is 11. On the other side, Murkrow and Houndour together add up to 8, meaning one of them must be 3 and the other 5. Shelving this for now, we now look at all the possible states of the Anomalous side. Keeping 2/3 alive would result in a total of either 13 or 22, while keeping only 1/3 alive would result in a total of either 2 or 11. None of the Umbral Pokemon are valued 2 or 11, and the Dark total begins at 21, meaning 13 must be the target value - knocking out one Kadabra will get us there on the Anomalous side. Luckily for us, Zweilous is valued 13, so we can knock out Houndour and Murkrow without being sure of their values to finish this room.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 The eighth room has 18 and 24. The Anomalous Pokemon are 1 Granbull and 1 Togetic, and the Umbral Pokemon are 1 Houndour, 1 Drifloon, and 1 Mandibuzz.
 
-> The solution: First, we will try to figure out what we can learn about the values of the Umbral Pokemon. If Houndour is 3, then Drifloon and Mandibuzz will total 21. Two odd numbers can't sum to an odd number, so one of them must be 2, meaning the other would be 19. If instead Houndour is 5, then Drifloon and Mandibuzz would total 19; by similar logic, would then be 2 and 17. We know that we will need to target either 7 or 11 thanks to the Anomalous side only having 2 Pokemon. So, how can we total 7 or 11 in the first case, where the Umbral values are 2, 3, 19? Well, we can't - one knockout would mean a total 5, 21, or 22. In the second case, however, the Umbral values being 2, 5, 17 would mean we simply have to knock out the 17 - since a solution exists, we can conclude Houndour is 5. We still aren't told whether Drifloon is 2 or 17, but later puzzles reveal that we can assume all evolutionary line members should be assumed to exist, even if they aren't present - meaning we can assume Vullaby exists, so Mandibuzz can't be the lowest prime in 2. So Drifloon is 2 and Mandibuzz is 17, and knocking out Mandibuzz and Granbull is all you need to do.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    First, we will try to figure out what we can learn about the values of the Umbral Pokemon. If Houndour is 3, then Drifloon and Mandibuzz will total 21. Two odd numbers can't sum to an odd number, so one of them must be 2, meaning the other would be 19. If instead Houndour is 5, then Drifloon and Mandibuzz would total 19; by similar logic, would then be 2 and 17. We know that we will need to target either 7 or 11 thanks to the Anomalous side only having 2 Pokemon. So, how can we total 7 or 11 in the first case, where the Umbral values are 2, 3, 19? Well, we can't - one knockout would mean a total 5, 21, or 22. In the second case, however, the Umbral values being 2, 5, 17 would mean we simply have to knock out the 17 - since a solution exists, we can conclude Houndour is 5. We still aren't told whether Drifloon is 2 or 17, but later puzzles reveal that we can assume all evolutionary line members should be assumed to exist, even if they aren't present - meaning we can assume Vullaby exists, so Mandibuzz can't be the lowest prime in 2. So Drifloon is 2 and Mandibuzz is 17, and knocking out Mandibuzz and Granbull is all you need to do.  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 The ninth room has 20 and 31. The Anomalous Pokemon are 1 Clefable and 1 Chimecho, while the Umbral Pokemon are 1 Poochyena, 1 Eevee, 1 Vullaby, 3 Deino, 1 Hydreigon, and 1 Misdreavus. We are also finally actually told that evolutions increase in value. 
 
-> The solution: This one is thankfully easier than it seems - since we know Zweilous is 13, Hydreigon must thus be 17 or 19. There are 7 non Hydreigon Umbral Pokemon. If Hydreigon is 19, then the remaining value is 12... which is not enough for the remaning 7 that all have a minimum of 2. It IS enough when Hydreigon is 17, however, meaning all of the other Umbral Pokemon are 2. So, that's nice. As for the Anomalous two, we know they total 20, hence must be 7 and 13 or 3 and 17. We can't generate 7 or 13 on the Umbral Side, so Chimecho and Clefable are 3 and 17. Since Cleffa is 2, we can infer the existence of Clefairy who must be at least 3. So Clefable isn't 3 and must thus be 17! 
-Knocking out everything except Hydreigon and Clefable does the trick.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    This one is thankfully easier than it seems - since we know Zweilous is 13, Hydreigon must thus be 17 or 19. There are 7 non Hydreigon Umbral Pokemon. If Hydreigon is 19, then the remaining value is 12... which is not enough for the remaning 7 that all have a minimum of 2. It IS enough when Hydreigon is 17, however, meaning all of the other Umbral Pokemon are 2. So, that's nice. As for the Anomalous two, we know they total 20, hence must be 7 and 13 or 3 and 17. We can't generate 7 or 13 on the Umbral Side, so Chimecho and Clefable are 3 and 17. Since Cleffa is 2, we can infer the existence of Clefairy who must be at least 3. So Clefable isn't 3 and must thus be 17! Knocking out everything except Hydreigon and Clefable does the trick.  
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
+</div>
 
 With that, we finally reach the top of the tree!
 
@@ -21290,23 +21553,41 @@ Talk to Laura in the first room. We'll get a choice on going higher in the tower
 
 In this section, more of the same kind of puzzle we did previously in the tower. Only now you can touch the puzzles on both sides. Here I will say the left puzzle is "P1" and the right puzzle is "P2" for notation. 
 
-Solution 1:
-> P1: U L L L, P2: U U R R R U U D D L L L L L R R D D, P1: R D
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    P1: U L L L, P2: U U R R R U U D D L L L L L R R D D, P1: R D 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the first puzzle</a>
+</div>
 
-Solution 2:
-> P1: D D D R D R R R U L U L L L, P2: U U U U R R R R R, P1: L L, P2: D D
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    P1: D D D R D R R R U L U L L L, P2: U U U U R R R R R, P1: L L, P2: D D
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the second puzzle</a>
+</div>
 
 The third puzzle has a secret. See if you can figure it out.
-> The secret is that you can take pieces out of the inscribed squares... anywhere on the map. Anyways, one possible solution:
-> P2: R R, P1: L L, P2: U U, P1: L L U U, P2: L L U R R U U L D D D D D D D D R R R R R U U U U L L D, P1: D D D R R R R R R L L L L D D L L, P2: D D
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    The secret is that you can take pieces out of the inscribed squares... anywhere on the map. Anyways, one possible solution: <br/>
+    P2: R R, P1: L L, P2: U U, P1: L L U U, P2: L L U R R U U L D D D D D D D D R R R R R U U U U L L D, P1: D D D R R R R R R L L L L D D L L, P2: D D
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the third puzzle</a>
+</div>
 
 In the next room, you can talk to Charlotte on Lin Route:
 
 **Relationship Point Choices:**
 - On Lin Route, Tell Charlotte her line was badass (+1 Charlotte)
 
-Solution 4:
-> P1: D D L L, P2: U U, P1: R R, P2: D D, P1: U
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    P1: D D L L, P2: U U, P1: R R, P2: D D, P1: U
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the fourth puzzle</a>
+</div>
 
 Once you finish the puzzle, you can grab:
 
@@ -21316,8 +21597,12 @@ Once you finish the puzzle, you can grab:
 
 You can also get the *Solganium-Z* here. Proceed to the next room.
 
-Solution 5:
-> P1: D D D R D R R R U L L L L, P2: U U U U R R R, P1: L U R R, P2: U L D L D, P1: R, P2: D D L, P1: D
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    P1: D D D R D R R R U L L L L, P2: U U U U R R R, P1: L U R R, P2: U L D L D, P1: R, P2: D D L, P1: D
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the fifth puzzle</a>
+</div>
 
 Once you succed, you'll get the *Latiasite* and *Latiosite*! Nice. However, there's still more to do: return to the previous room.
 
