@@ -18,7 +18,7 @@
     - Rock Slide
     - Shadow Bone
     - Iron Head
-- Meowstic-Male, Lv. 81, @Damp Rock, Ability: Prankster, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+- Meowstic-Female, Lv. 81, @Damp Rock, Ability: Competitive, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
     - Charge Beam
     - Psychic
     - Reflect

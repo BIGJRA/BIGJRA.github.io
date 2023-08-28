@@ -74,7 +74,7 @@
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 15
+- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 15
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -106,7 +106,7 @@
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 10
+- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 10
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -133,7 +133,7 @@
     - Play Rough
     - Swords Dance
     - Shadow Sneak
-- Meowstic-Male, Lv. 54, @Wise Glasses, Ability: Prankster, Timid Nature, IVs: 20
+- Meowstic-Female, Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -160,7 +160,7 @@
     - Rock Slide
     - Shadow Bone
     - Iron Head
-- Meowstic-Male, Lv. 81, @Damp Rock, Ability: Prankster, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+- Meowstic-Female, Lv. 81, @Damp Rock, Ability: Competitive, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
     - Charge Beam
     - Psychic
     - Reflect
@@ -7019,7 +7019,7 @@
     - Reflect
     - Fake Out
     - Psychic
-- Meowstic-Male, Lv. 52, Ability: Prankster, Serious Nature, IVs: 10
+- Meowstic-Female, Lv. 52, Ability: Competitive, Serious Nature, IVs: 10
     - Calm Mind
     - Thunderbolt
     - Shadow Ball
