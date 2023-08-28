@@ -6866,7 +6866,7 @@ Enter room 3. Luna's trick can help us out here.
     Rightmost Pawn up 1; Second-rightmost Pawn up 6, promote to Knight, down 4, left 6, up 2; Rightmost Knight up 3, left 5, up 2.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #3</a>
-</div
+</div>
 
 Enter room 4. This is a harder one but you can use the trick from the last room to figure it out.
 
