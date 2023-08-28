@@ -5168,7 +5168,7 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
     - Bonemerang
     - Shadow Bone
     - Will-O-Wisp
-- Meowstic-Male, Lv. 44, Ability: Prankster, Timid Nature, IVs: 15
+- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 15
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -6550,7 +6550,7 @@ Anyways, talk to Luna.
     - Play Rough
     - Swords Dance
     - Shadow Sneak
-- Meowstic-Male, Lv. 54, @Wise Glasses, Ability: Prankster, Timid Nature, IVs: 20 (Knight)
+- Meowstic-Female, Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
     - Charge Beam
     - Psychic
     - Shadow Ball
@@ -6850,7 +6850,26 @@ Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
 **Relationship Point Choices:**
 - Get the first chess puzzle right on your first try (+1 Radomus)
 
+**Psychic Parsley. Field: Chess Board**
+- Sigilyph, Lv. 55, Serious Nature, IVs: 10
+    - Cosmic Power
+    - Psychic
+    - Air Slash
+    - Roost
+
 Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
+
+**Psychic Sage. Field: Chess Board**
+- Meowstic-Male, Lv. 56, Ability: Infiltrator, Serious Nature, IVs: 10
+    - Calm Mind
+    - Reflect
+    - Fake Out
+    - Psychic
+- Meowstic-Female, Lv. 52, Ability: Competitive, Serious Nature, IVs: 10
+    - Calm Mind
+    - Thunderbolt
+    - Shadow Ball
+    - Stored Power
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
@@ -13096,7 +13115,7 @@ Now begins one of the most glorious parts of Reborn. I'll let each of the fights
     - Rock Slide
     - Shadow Bone
     - Iron Head
-- Meowstic-Male, Lv. 81, @Damp Rock, Ability: Prankster, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
+- Meowstic-Female, Lv. 81, @Damp Rock, Ability: Competitive, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
     - Charge Beam
     - Psychic
     - Reflect
@@ -16753,7 +16772,7 @@ Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a N
 
 Enter the door in the top right, follow the path, and talk to the orb. Return to the New World hub. This time, follow the door in the top left. Talk to the orb at the end and return. Finally, go to the bottom right and talk to the Shiinotic.
 
-**Creeping Pokémon. Field: Chess Arena**
+**Creeping Pokémon. Field: Chess Board**
 - Shiinotic, Lv. 104, @Big Root, Ability: Effect Spore, Sassy Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Spore
     - Strength Sap
@@ -17517,7 +17536,7 @@ Your level cap is now Lv. 120, by the way.
 
 Back in the Nightclub, talk to Seacrest, and accept the quest. Head over to Vanhanen Castle when you're ready... Oh boy.
 
-**Umbral Radomus & Anomaly Gardevoir. Field: Chess Arena**
+**Umbral Radomus & Anomaly Gardevoir. Field: Chess Board**
 - Bisharp, Lv. 115, @Dread Plate, Ability: Defiant, Adamant Nature, EVs: 252/252/252/252/252/252
     - Stealth Rock
     - Iron Head
@@ -17585,7 +17604,7 @@ So yeah this one is really hard. Two megas! Two entire teams that are specifical
 
 Anyways, I think there are two strategies to consider. The first, while not that simple as mentioned earlier, is simply to smash the field and just overwhelm your opponents with a very well prepared doubles team. Setting up a sweeper or two with speed and good coverage can be difficult to pull off, but can make it work. A lot of the team relies on Physical moves this time, so if you can deal with Kartana's Brick Break, Reflect can be helpful here.
 
-Alternatively, you can try to use the Chess Arena to your own benefit. Having two pawns means you get free Focus Sashes to try to develop some momentum, though Cloyster's multi-hit moves do make this difficult. Setting up a good hard-hitting King via the King's Rock can be crucial, especially if they are on the slower side.
+Alternatively, you can try to use the Chess Board to your own benefit. Having two pawns means you get free Focus Sashes to try to develop some momentum, though Cloyster's multi-hit moves do make this difficult. Setting up a good hard-hitting King via the King's Rock can be crucial, especially if they are on the slower side.
 
 Either approach may yield you results but don't be afraid to try, try again, try again more times, cry, and try again. Eventually you'll probably succeed.
 
@@ -21063,7 +21082,7 @@ This next one has some hard fights, so prep your team accordingly.
 
 Accept the final quest at the Nightclub then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
 
-**PULSE Hypno. Field: Chess Arena**
+**PULSE Hypno. Field: Chess Board**
 - Swoobat, Lv. 130, @Wise Glasses, Ability: Simple, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nasty Plot
     - Psychic
@@ -21095,7 +21114,7 @@ Accept the final quest at the Nightclub then fly over to Agate City. Head down t
     - Destiny Bond
     - Gunk Shot
 
-Another fight with PULSE Hypno, this time with the support of a full team on the Chess Arena. I recommend Quick Guard for this fight - you'll be able to block First Impression, all of the King Rhyperior's moves, and Sucker Punch. You'll also be at the mercy of Hypno's Dark Void, so Safeguard, Chesto Berries, Sleep Talk, etc. can all be useful in keeping your momentum here. If you don't already have a Z-Move planned out, the Buginium-Z can be crucial to taking out Hypno. Bring your own King for some priority shenanigans if needed.
+Another fight with PULSE Hypno, this time with the support of a full team on the Chess Board. I recommend Quick Guard for this fight - you'll be able to block First Impression, all of the King Rhyperior's moves, and Sucker Punch. You'll also be at the mercy of Hypno's Dark Void, so Safeguard, Chesto Berries, Sleep Talk, etc. can all be useful in keeping your momentum here. If you don't already have a Z-Move planned out, the Buginium-Z can be crucial to taking out Hypno. Bring your own King for some priority shenanigans if needed.
 
 **Endgame**
 
