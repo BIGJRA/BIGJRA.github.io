@@ -4602,25 +4602,6 @@
 - Gumshoos, Lv. 59, Serious Nature, IVs: 10
 - Tropius, Lv. 58, Serious Nature, IVs: 10
 
-**Psychic Parsley. Field: **
-- Sigilyph, Lv. 55, Serious Nature, IVs: 10
-    - Cosmic Power
-    - Psychic
-    - Air Slash
-    - Roost
-
-**Psychic Sage. Field: **
-- Meowstic-Male, Lv. 56, Ability: Infiltrator, Serious Nature, IVs: 10
-    - Calm Mind
-    - Reflect
-    - Fake Out
-    - Psychic
-- Meowstic-Male, Lv. 52, Ability: Prankster, Serious Nature, IVs: 10
-    - Calm Mind
-    - Thunderbolt
-    - Shadow Ball
-    - Stored Power
-
 **Psychic Rosemary. Field: **
 - Beldum, Lv. 50, Serious Nature, IVs: 10
 - Metagross, Lv. 56, @King's Rock, Serious Nature, IVs: 10

@@ -110,7 +110,7 @@ def get_data_from_block(block: str, lookup: dict):
             "moves":[],
             "ability_id":'-1',
             "ability": '',
-            #"gender": "",
+            "gender": "",
             "form_id": '0',
             "form": '',
             #"shininess": False,
@@ -191,11 +191,11 @@ def get_data_from_block(block: str, lookup: dict):
             except (IndexError, ValueError) as e:
                 continue
 
-        # adds gender. unused
-        # try:
-        #     p_list[-1]["gender"] = line_parts[8]
-        # except IndexError:
-        #     continue
+        #adds gender
+        try:
+            p_list[-1]["gender"] = line_parts[8]
+        except IndexError:
+            continue
 
         # adds shininess. unused later in the program.
         # try:
@@ -284,6 +284,12 @@ def generate_trainer_string(trainer):
             # Fixes small format issues 
             str_parts[-1] = str_parts[-1].replace("Rks", "RKS").replace("Soul Heart", "Soul-Heart")
         
+        # meowstic handling - just replace form name and ability if 2
+        if pokemon["name"].upper() == "MEOWSTIC" and pokemon["gender"] == "F":
+            str_parts[0] = "Meowstic-Female"
+            if pokemon["ability_id"] == '2':
+                str_parts[-1] = "Ability: Competitive"
+
         if pokemon['nature']: 
             str_parts.append(f"{pokemon['nature']} Nature")
 
