@@ -610,38 +610,6 @@
     - Rock Slide
     - Earthquake
 
-**Meteor Agent Ace of Hearts (Ultra Potion). Field: **
-- Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
-    - Psychic
-    - Signal Beam
-    - Trick
-    - Energy Ball
-- Zoroark, Lv. 62, @Black Glasses, Ability: Illusion, Timid Nature, IVs: 31
-    - Foul Play
-    - Flamethrower
-    - Extrasensory
-    - Grass Knot
-- Togekiss, Lv. 60, @Leftovers, Ability: Serene Grace, Quiet Nature, IVs: 31
-    - Dazzling Gleam
-    - Air Slash
-    - Grass Knot
-    - Roost
-- Primarina, Lv. 61, Ability: Torrent, Modest Nature, IVs: 31
-    - Sparkling Aria
-    - Moonblast
-    - Icy Wind
-    - Hyper Voice
-- Porygon-Z, Lv. 60, Ability: Download, Modest Nature, IVs: 31
-    - Tri Attack
-    - Blizzard
-    - Thunderbolt
-    - Recover
-- Delphox, Lv. 62, @Sitrus Berry, Ability: Magician, Modest Nature, IVs: 31
-    - Mystical Fire
-    - Psyshock
-    - Dazzling Gleam
-    - Foul Play
-
 **Meteor Agent Ace of Spades (Max Potion). Field: **
 - Roserade, Lv. 70, Ability: Technician, Rash Nature, IVs: 31, EVs: 4/0/0/252/0/252
     - Nature Power
@@ -737,60 +705,6 @@
     - Knock Off
     - Seed Bomb
     - Poison Jab
-
-**Aqua Mastermind Archer. Field: **
-- Pelipper, Lv. 58, Ability: Drizzle, Modest Nature, IVs: 20
-    - Hydro Pump
-    - Hurricane
-    - Roost
-    - Tailwind
-- Relicanth, Lv. 58, Ability: Rock Head, Bashful Nature, IVs: 30
-    - Hydro Pump
-    - Head Smash
-    - Double-Edge
-    - Yawn
-- Seaking, Lv. 59, Ability: Lightning Rod, Adamant Nature, IVs: 30
-    - Drill Run
-    - Waterfall
-    - Megahorn
-    - Poison Jab
-- Blastoise, Lv. 60, Ability: Torrent, Modest Nature, IVs: 20
-    - Hydro Pump
-    - Hydro Cannon
-    - Ice Beam
-    - Yawn
-- Sharpedo, Lv. 62, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Aqua Jet
-    - Crunch
-    - Earthquake
-    - Ice Fang
-
-**Magma Kingpin Maxwell. Field: **
-- Ninetales, Lv. 58, @Wise Glasses, Ability: Drought, Modest Nature, IVs: 31
-    - Will-O-Wisp
-    - Fire Blast
-    - Extrasensory
-    - Confuse Ray
-- Heatmor, Lv. 58, @Muscle Band, Ability: White Smoke, Adamant Nature, IVs: 31
-    - Hone Claws
-    - Fire Punch
-    - Thunder Punch
-    - Sucker Punch
-- Turtonator, Lv. 59, @Wise Glasses, Ability: Shell Armor, Bashful Nature, IVs: 31
-    - Shell Trap
-    - Overheat
-    - Explosion
-    - Dragon Pulse
-- Charizard, Lv. 60, @Wise Glasses, Ability: Solar Power, Modest Nature, IVs: 31
-    - Flamethrower
-    - Air Slash
-    - Dragon Pulse
-    - Blast Burn
-- Houndoom, Lv. 62, @Wise Glasses, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Flamethrower
-    - Dark Pulse
-    - Sludge Bomb
 
 **Reborn Cal. Field: **
 - Magmortar, Lv. 71, Ability: Flame Body, Modest Nature, IVs: 31
@@ -2452,33 +2366,6 @@
     - Hidden Power
     - Air Slash
 
-**Harridan Craudburry. Field: **
-- Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Leaf Blade
-    - Strength Sap
-    - Sludge Bomb
-    - Sleep Powder
-- Qwilfish, Lv. 60, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Explosion
-    - Waterfall
-    - Destiny Bond
-    - Throat Chop
-- Amoonguss, Lv. 61, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Synthesis
-- Crabominable, Lv. 62, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/0/0/20
-    - Ice Hammer
-    - Close Combat
-    - Earthquake
-    - Stone Edge
-- Slaking, Lv. 63, @Leftovers, Ability: Truant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Hammer Arm
-    - Slack Off
-    - Frustration
-    - Night Slash
-
 **Clown Bindra. Field: **
 - Raichu, Lv. 69, @Magical Seed, Ability: Lightning Rod, Naive Nature, IVs: 31
     - Heart Stamp
@@ -3147,11 +3034,6 @@
     - Knock Off
     - Liquidation
 
-**Meteor Grunt Ricardo. Field: **
-- Minior, Lv. 56, Serious Nature, IVs: 10
-- Scolipede, Lv. 56, Serious Nature, IVs: 10
-- Aggron, Lv. 57, Serious Nature, IVs: 10
-
 **Meteor Ace Ricardo. Field: **
 - Slurpuff, Lv. 71, Ability: Unburden, Serious Nature, IVs: 10
     - Play Rough
@@ -3299,11 +3181,6 @@
     - Stone Edge
     - Dragon Tail
 
-**Meteor Grunt Hilda. Field: **
-- Carracosta, Lv. 55, Serious Nature, IVs: 10
-- Crobat, Lv. 57, Serious Nature, IVs: 10
-- Chesnaught, Lv. 58, Serious Nature, IVs: 10
-
 **Meteor Ace Hilda. Field: **
 - Druddigon, Lv. 71, Ability: Rough Skin, Serious Nature, IVs: 10
     - Outrage
@@ -3441,12 +3318,6 @@
     - Earthquake
     - Fire Punch
 
-**Meteor Grunt Christopher. Field: **
-- Gabite, Lv. 54, Serious Nature, IVs: 10
-- Shuckle, Lv. 58, Serious Nature, IVs: 10
-- Pupitar, Lv. 54, Serious Nature, IVs: 10
-- Doublade, Lv. 54, Serious Nature, IVs: 10
-
 **Meteor Ace Christopher. Field: **
 - Shuckle, Lv. 88, Ability: Sturdy, Serious Nature, IVs: 10
     - Stealth Rock
@@ -3473,12 +3344,6 @@
     - Draco Meteor
     - Fire Blast
     - Dark Pulse
-
-**Meteor Grunt Ama. Field: **
-- Noctowl, Lv. 55, Serious Nature, IVs: 10
-- Dodrio, Lv. 56, Serious Nature, IVs: 10
-- Fearow, Lv. 57, Serious Nature, IVs: 10
-- Klinklang, Lv. 58, Serious Nature, IVs: 10
 
 **Meteor Ace Ama. Field: **
 - Dodrio, Lv. 87, Ability: Early Bird, Serious Nature, IVs: 10
@@ -4129,9 +3994,6 @@
     - Rock Slide
     - Dragon Rush
 
-**Acolyte Lyla. Field: **
-- Wigglytuff, Lv. 62, Serious Nature, IVs: 10
-
 **New World Cultist Lyla. Field: **
 - Noivern, Lv. 73, Ability: Telepathy, Serious Nature, IVs: 10
     - Boomburst
@@ -4170,10 +4032,6 @@
     - Outrage
     - Earthquake
     - Poison Jab
-
-**Acolyte Kaiden. Field: **
-- Ledian, Lv. 62, Serious Nature, IVs: 10
-- Floatzel, Lv. 61, Serious Nature, IVs: 10
 
 **New World Cultist Kaiden. Field: **
 - Ledian, Lv. 75, Ability: Iron Fist, Serious Nature, IVs: 10
@@ -4214,9 +4072,6 @@
     - Knock Off
     - Thunder Punch
 
-**Acolyte Ezra. Field: **
-- Ditto, Lv. 64, Serious Nature, IVs: 10
-
 **New World Cultist Ezra. Field: **
 - Ditto, Lv. 73, Ability: Imposter, Serious Nature, IVs: 10
     - Transform
@@ -4255,13 +4110,6 @@
     - Close Combat
     - Poison Jab
     - Flamethrower
-
-**Acolyte Brenda. Field: **
-- Dragonair, Lv. 62, Serious Nature, IVs: 10
-- Shelgon, Lv. 62, Serious Nature, IVs: 10
-
-**Acolyte Arcturus. Field: **
-- Drampa, Lv. 62, Serious Nature, IVs: 10
 
 **New World Cultist Arcturus. Field: **
 - Vaporeon, Lv. 72, Ability: Water Absorb, Serious Nature, IVs: 10
@@ -4351,11 +4199,6 @@
     - Surf
     - Hyper Voice
 
-**Acolyte Angela. Field: **
-- Flabebe, Lv. 59, Serious Nature, IVs: 10
-- Floette, Lv. 60, Serious Nature, IVs: 10
-- Politoed, Lv. 62, Serious Nature, IVs: 10
-
 **New World Cultist Angela. Field: **
 - Cacturne, Lv. 72, Ability: Water Absorb, Serious Nature, IVs: 10
     - Seed Bomb
@@ -4439,9 +4282,6 @@
     - Close Combat
     - Swords Dance
 
-**Acolyte Wes. Field: **
-- Alakazam, Lv. 61, Serious Nature, IVs: 10
-
 **New World Cultist Wes. Field: **
 - Jumpluff, Lv. 72, Ability: Leaf Guard, Serious Nature, IVs: 10
     - Sleep Powder
@@ -4458,76 +4298,6 @@
     - Psychic
     - Hidden Power
     - Energy Ball
-
-**Acolyte Tanner. Field: **
-- Pidgeot, Lv. 61, Serious Nature, IVs: 10
-
-**Aqua Gang Pierce. Field: **
-- Sharpedo, Lv. 54, Serious Nature, IVs: 10
-- Clawitzer, Lv. 55, Serious Nature, IVs: 10
-- Ludicolo, Lv. 55, Serious Nature, IVs: 10
-
-**Magma Gang Darm. Field: **
-- Houndoom, Lv. 54, Serious Nature, IVs: 10
-- Darmanitan, Lv. 55, Serious Nature, IVs: 10
-- Darmanitan, Lv. 55, Serious Nature, IVs: 10
-
-**Magma Gang Nihil. Field: **
-- Ninetales, Lv. 54, Serious Nature, IVs: 10
-- Magcargo, Lv. 54, Serious Nature, IVs: 10
-- Houndoom, Lv. 55, Serious Nature, IVs: 10
-
-**Aqua Gang Razzy. Field: **
-- Octillery, Lv. 54, Serious Nature, IVs: 10
-- Sharpedo, Lv. 54, Serious Nature, IVs: 10
-- Feraligatr, Lv. 55, Serious Nature, IVs: 10
-
-**Street Rat Austin. Field: **
-- Vigoroth, Lv. 58, Serious Nature, IVs: 10
-- Gumshoos, Lv. 59, Serious Nature, IVs: 10
-- Tropius, Lv. 58, Serious Nature, IVs: 10
-
-**Street Rat Andy. Field: **
-- Doduo, Lv. 58, Serious Nature, IVs: 10
-- Dodrio, Lv. 59, Serious Nature, IVs: 10
-
-**Street Rat Kevin. Field: **
-- Bruxish, Lv. 60, Serious Nature, IVs: 10
-
-**Street Rat Chaz. Field: **
-- Woobat, Lv. 59, Serious Nature, IVs: 10
-- Swoobat, Lv. 60, Serious Nature, IVs: 10
-
-**Hotshot Kellam. Field: **
-- Bronzor, Lv. 59, Serious Nature, IVs: 10
-- Sealeo, Lv. 60, Serious Nature, IVs: 10
-
-**Street Rat Yan. Field: **
-- Chimecho, Lv. 60, Serious Nature, IVs: 10
-
-**Punk Celina. Field: **
-- Axew, Lv. 59, Serious Nature, IVs: 10
-- Lopunny, Lv. 60, Serious Nature, IVs: 10
-
-**Street Rat Hyde. Field: **
-- Basculin, Lv. 60, Serious Nature, IVs: 10
-
-**Street Rat Drake. Field: **
-- Arbok, Lv. 60, Serious Nature, IVs: 10
-    - Coil
-    - Gunk Shot
-    - Earthquake
-    - Fire Fang
-- Haxorus, Lv. 61, Serious Nature, IVs: 10
-    - Dragon Claw
-    - Outrage
-    - Superpower
-    - Iron Tail
-- Bisharp, Lv. 63, Serious Nature, IVs: 10
-    - Sucker Punch
-    - Iron Head
-    - Swords Dance
-    - Throat Chop
 
 **Clown Aaron. Field: **
 - Sableye, Lv. 64, @Air Balloon, Serious Nature, IVs: 10
@@ -5556,23 +5326,6 @@
 - Weavile, Lv. 72, Serious Nature, IVs: 10
 - Galvantula, Lv. 72, Serious Nature, IVs: 10
 - Spiritomb, Lv. 72, Serious Nature, IVs: 10
-
-**Orderly Nadira. Field: **
-- Mimikyu, Lv. 56, Serious Nature, IVs: 10
-    - Swords Dance
-    - Drain Punch
-    - Shadow Sneak
-    - Play Rough
-- Mismagius, Lv. 57, Serious Nature, IVs: 10
-    - Nasty Plot
-    - Power Gem
-    - Thunderbolt
-    - Shadow Ball
-- Tsareena, Lv. 59, Serious Nature, IVs: 10
-    - Power Whip
-    - High Jump Kick
-    - Play Rough
-    - Nature Power
 
 **Ranger Addison. Field: **
 - Marowak, Lv. 77, @Thick Club, Serious Nature, IVs: 10

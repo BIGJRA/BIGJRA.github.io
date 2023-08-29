@@ -97,6 +97,7 @@ title: |
   - [Citae Astrae](#citae-astrae)
   - [North Aventurine Woods Exploration](#north-aventurine-woods-exploration)
   - [South Aventurine Woods Exploration](#south-aventurine-woods-exploration)
+  - [Grand Hall Trainers 5](#grand-hall-trainers-5)
   - [Millenium Badge](#millenium-badge)
 - [Episode 11: Out of Light](#episode-11-out-of-light)
   - [Seventh Street](#seventh-street)
@@ -3859,7 +3860,7 @@ Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare f
     - Thunder Fang
     - Return
 
-This can be a tough fight since his levels are above your cap and he has Drought on his side. That said with no Heat Rock Ninetales is the only sun setter, and only for 5 turns, so you can pretty easily use Protect to make it go away and then go to town. His Houndoom is physical so doesn't hit very hard, while his Charizard is really only super threatening under the sun, so you can surely find a way through.
+This can be a tough fight since his levels are above your cap and he has Drought on his side. As long as Ninetales doesn't switch, there will only be 5 turns of sun, so you can pretty easily use Protect to make it go away and then go to town. His Houndoom is physical and doesn't hit very hard, while his Charizard is only threatening under the sun.
 
 Once you win, the Magma Gang will retreat. Behind where Maxwell was you can get a hidden *X Attack*. 
 
@@ -7067,15 +7068,81 @@ Once you win, you'll get the *Millenium Badge* which pushes our cap up to Lv. 65
 
 # Episode 11: Out of Light
 
-After everything goes dark, head out of the gym. Once you get outside, use the Light Shard since your team will probably be pretty crippled. Head out into the labyrinth. One of the meteor grunts is Radomus in disguise and will allow you to escape via walking on top of the hedges. Make your way out of the labyrinth, hop on the circling Tauros to skip to the other side of Route 1, then enter Reborn City.
+After everything goes dark, head out of the gym. Once you get outside, use the Light Shard and head out into the labyrinth. 
+
+**Meteor Grunt Ricardo. Field: Grassy Terrain**
+- Minior, Lv. 56, Serious Nature, IVs: 10
+- Scolipede, Lv. 56, Serious Nature, IVs: 10
+- Aggron, Lv. 57, Serious Nature, IVs: 10
+
+The grunt to the left is Radomus in disguise and will allow you to escape via walking on top of the hedges. Make your way to the other side of the labyrinth and battle the grunts if you wish. 
+
+**Meteor Grunt Christopher. Field: Grassy Terrain**
+- Gabite, Lv. 54, Serious Nature, IVs: 10
+- Shuckle, Lv. 58, Serious Nature, IVs: 10
+- Pupitar, Lv. 54, Serious Nature, IVs: 10
+- Doublade, Lv. 54, Serious Nature, IVs: 10
+
+**Meteor Grunt Hilda. Field: Grassy Terrain**
+- Carracosta, Lv. 55, Serious Nature, IVs: 10
+- Crobat, Lv. 57, Serious Nature, IVs: 10
+- Chesnaught, Lv. 58, Serious Nature, IVs: 10
+
+**Meteor Grunt Ama. Field: Grassy Terrain**
+- Noctowl, Lv. 55, Serious Nature, IVs: 10
+- Dodrio, Lv. 56, Serious Nature, IVs: 10
+- Fearow, Lv. 57, Serious Nature, IVs: 10
+- Klinklang, Lv. 58, Serious Nature, IVs: 10
+
+Escape the labyrinth, hop on the circling Tauros to skip to the other side of Route 1, then enter Reborn City.
 
 ## Seventh Street
 
+If you haven't completed the [gang sidequest](#joining-a-gang) up until now, you'll need to do that now.
+
 Talk to your gang leader, and they will tell you about Seventh Street. To reach it with Aqua Gang, use the top left house in Lapis, with Magma Gang, use a house on the left in the center of Lapis. 
 
-Wander around the area and defeat all the trainers. Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Shards*, 2 *Green Shards*, *Pecha Berry*, *X Sp. Atk*, 2 *Red Shards*, and *Calcium*. The house in the middle of the top contains a healing point and PC. Talk to all of the NPC's in the area and you'll learn about what you can get down here in 7th.
+Wander around the area and defeat all the trainers. Top to bottom:
 
-Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you first 1, then 2, then 3 from then on of a random color of shard. Useful. Up and to the right we'll find a couple of tutors.
+**Street Rat Austin. Field: No Field**
+- Vigoroth, Lv. 58, Serious Nature, IVs: 10
+- Gumshoos, Lv. 59, Serious Nature, IVs: 10
+- Tropius, Lv. 58, Serious Nature, IVs: 10
+
+**Street Rat Chaz. Field: No Field**
+- Woobat, Lv. 59, Serious Nature, IVs: 10
+- Swoobat, Lv. 60, Serious Nature, IVs: 10
+
+**Aqua Gang Pierce. Field: No Field** (Magma Gang only)
+- Sharpedo, Lv. 54, Serious Nature, IVs: 10
+- Clawitzer, Lv. 55, Serious Nature, IVs: 10
+- Ludicolo, Lv. 55, Serious Nature, IVs: 10
+
+**Magma Gang Darm. Field: No Field** (Aqua Gang only)
+- Houndoom, Lv. 54, Serious Nature, IVs: 10
+- Darmanitan, Lv. 55, Serious Nature, IVs: 10
+- Darmanitan, Lv. 55, Serious Nature, IVs: 10
+
+**Magma Gang Nihil. Field: No Field** (Aqua Gang only)
+- Ninetales, Lv. 54, Serious Nature, IVs: 10
+- Magcargo, Lv. 54, Serious Nature, IVs: 10
+- Houndoom, Lv. 55, Serious Nature, IVs: 10
+
+**Aqua Gang Razzy. Field: No Field** (Magma Gang only)
+- Octillery, Lv. 54, Serious Nature, IVs: 10
+- Sharpedo, Lv. 54, Serious Nature, IVs: 10
+- Feraligatr, Lv. 55, Serious Nature, IVs: 10
+
+**Street Rat Andy. Field: No Field**
+- Doduo, Lv. 58, Serious Nature, IVs: 10
+- Dodrio, Lv. 59, Serious Nature, IVs: 10
+
+**Street Rat Kevin. Field: No Field**
+- Bruxish, Lv. 60, Serious Nature, IVs: 10
+
+ Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Shards*, 2 *Green Shards*, *Pecha Berry*, *X Sp. Atk*, 2 *Red Shards*, and *Calcium*. The house in the middle of the top contains a healing point and PC. Talk to all of the NPC's in the area and you'll learn about what you can get down here in 7th.
+
+Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you one for first 1, then 2, and from then on 3 shards of a random color. Useful! Up and to the right we'll find a couple of tutors.
 
 **Seventh Street Upper-right Move Tutor Top**
 
@@ -7113,9 +7180,9 @@ Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll
 |Heal Bell      |4 Green Shards |
 |Bug Bite       |3 Red Shards   |
 
-None of these are mindblowing in general but some of them can be useful for certain strategies. As usual, these are pay once, redeem forever so you can always come back to relearn them.
+None of these are mindblowing, but some of them can be useful for certain strategies. As usual, these are pay once, relearn forever.
 
-The guy to the right is selling random stuff
+The guy to the right is selling random stuff:
 
 **Seventh Street Right Wares Shop**
 
@@ -7147,7 +7214,7 @@ Pricey, but we finally have the ability to get as many data chips as we want for
 |*Float Stone*      |$400           |
 |*Binding Band*     |$1700          |
 
-Grab a Soul Candle for a quest later on, and a Stick for a different quest later on.
+Grab a Soul Candle and a Stick for later quests.
 
 To the right, you'll see one of your gang members making a sale:
 
@@ -7174,51 +7241,145 @@ Enter the cage area in the bottom right corner. Here, a guy will be selling all 
 |**Jigglypuff** |5 Green Shards |
 |**Cyndaquil**  |9 Red Shards   |
 
-Something important to note is there is a sidequest later that will involve returning Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners, so I recommend breeding them if you want to use them, and keeping the originals somewhere in your PC. The reward is really, really good, so keep that in mind. The rest you can train up as you wish.
+There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners. I recommend breeding these Pokemon if you want to use them long term, keeping the originals in your PC.
 
-If you've been picking up all the hidden shards I've pointed out and have been mining most of the rocks, getting every Pokemon should be no problem at this point. Shards will pretty much from now on only be useful for unlocking future tutors and buying Ability Capsules and a few other small things.
+If you've been picking up hidden items and mining most of the rocks, you should have enough shards to get every Pokemon here, but you can always come back later to complete this quest. From now on, shards will mainly be useful only for unlocking tutors and buying Ability Capsules.
 
-For one, if you've kept up so far with the sidequest involving that Pokemon stolen from us in the Grand Hall, all the way back in the first part, you can now continue that quest. For just 2 Blue Shards, you can buy back your Pokemon... just kidding, it gets stolen again. Sigh.
+If you've kept up so far with the game-spanning quest, beginning with our purchase of a mystery Pokemon from the Grand Hall, you can now continue it. For just 2 Blue Shards, you can buy back your Pokemon... just kidding, it gets stolen again!!!
 
 Anyways, exit this area. Once you buy all of the Pokemon, DJ Arclight will give you a *Lucky Egg*. 
 
 **Relationship Point Choices:**
 - Buy all of the seventh street stolen Pokemon (+1 Arclight)
 
-The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want! Don't need to rely on finding mints anymore, which is really nice.
+The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want, meaning we don't need to rely on finding mints anymore. Keep the mints you find though as they can help you switch abilities on the go if you need a speed boosting nature for a specific fight or something similar.
 
-Enter the nearby grotto. Note that there is a sneaky hidden item behind a trainer on the left, make sure you draw him out at least 1 tile when he notices you in order to get it. Anyways, hidden in this room is *Black Glasses*, *Red Shard*, and *Exp. Candy XL*. 
+Enter the nearby grotto on the right. Note that there is a sneaky hidden item behind a trainer on the left, so make sure you draw him out at least 1 tile when he notices you in order to get it. 
 
-North of the top tutors, you'll see a shadow indicating an entrance. Inside, talk to the green machine to get a *Synthetic Seed*. Defeat the researcher in here and agree to participate in her sidequest.
+**Street Rat Hyde. Field: No Field**
+- Basculin, Lv. 60, Serious Nature, IVs: 10
+
+**Hotshot Kellam. Field: No Field**
+- Bronzor, Lv. 59, Serious Nature, IVs: 10
+- Sealeo, Lv. 60, Serious Nature, IVs: 10
+
+Anyways, hidden in this room is *Black Glasses*, *Red Shard*, and *Exp. Candy XL*. 
+
+North of the top tutors, you'll see a shadow indicating an entrance. Inside, talk to the green machine to get a *Synthetic Seed*. Talk to the researcher on the left for a battle.
+
+**Orderly Nadira. Field: Factory Field**
+- Mimikyu, Lv. 56, Serious Nature, IVs: 10
+    - Swords Dance
+    - Drain Punch
+    - Shadow Sneak
+    - Play Rough
+- Mismagius, Lv. 57, Serious Nature, IVs: 10
+    - Nasty Plot
+    - Power Gem
+    - Thunderbolt
+    - Shadow Ball
+- Tsareena, Lv. 59, Serious Nature, IVs: 10
+    - Power Whip
+    - High Jump Kick
+    - Play Rough
+    - Nature Power
+
+Defeat the researcher in here and agree to participate in her sidequest.
 
 First, you'll need to bring her a Carvanha. Note that these will be gone forever. We can fish one in the nearby Lapis Alleyway. Next, you'll need an Unfezant. You can get Tranquill on the Onyx Rooftop: evolve it at Lv. 31 to get **Unfezant**, then donate it. Finally, we'll need Luxray. You can get Shinx in the Game Corner, evolve it at Lv. 15 then again at Lv. 30 to get **Luxio** then **Luxray**. Donate the latter. Exit Seventh to Lapis Ward, then come back down. Save the game and talk to Nadira. You'll be able to catch **Type: Null**, our first legendary!
 
-On the north side of the main part of seventh, talk to your gang member and he'll mention seeing Bennett in the watering hole. Enter the watering hole, heal if you want, then head out and into the grotto on the right. Grab the hidden *Blue Shard* then talk to Bennett here.
+On the north side of the main part of seventh, talk to your gang member and he'll mention seeing Bennett in the watering hole. Enter the watering hole, heal if you want, then head out and into the grotto on the right. 
 
-Back outside, a door will be open above you. Head up and to the right. You'll find a mining rock - break it and then use Blast Powder, then pick up the hidden *'Rare Candy'*. Head back to Seventh and it will be stolen! Head all the way to the bottom left of the area and you'll find the thief. Battle him to get it back. Enter the top grotto and give it to a guy to obtain **Piplup**!
+**Punk Celina. Field: No Field**
+- Axew, Lv. 59, Serious Nature, IVs: 10
+- Lopunny, Lv. 60, Serious Nature, IVs: 10
+
+**Street Rat Yan. Field: No Field**
+- Chimecho, Lv. 60, Serious Nature, IVs: 10
+
+Grab the hidden *Blue Shard* then talk to Bennett here.
+
+Back outside, a door will be open above you. Head up and to the right. You'll find a mining rock - break it and then use Blast Powder, then pick up the hidden *'Rare Candy'*. Head back to Seventh and it will be stolen! Head all the way to the bottom left of the area and you'll find the thief. Battle him to get it back. 
+
+**Street Rat Drake. Field: No Field**
+- Arbok, Lv. 60, Serious Nature, IVs: 10
+    - Coil
+    - Gunk Shot
+    - Earthquake
+    - Fire Fang
+- Haxorus, Lv. 61, Serious Nature, IVs: 10
+    - Dragon Claw
+    - Outrage
+    - Superpower
+    - Iron Tail
+- Bisharp, Lv. 63, Serious Nature, IVs: 10
+    - Sucker Punch
+    - Iron Head
+    - Swords Dance
+    - Throat Chop
+
+Enter the top grotto and give it to a guy to obtain **Piplup**!
 
 Reenter the narrow hole in the wall. You can find hidden *Purple Shard* and *Chewing Gum* as you go left. Enter the room in the bottom left!
 
 ## Subseven Sanctum
 
-You'll be moved to a cage. Read the green book here - in fact, every green book you see around this dungeon. Keep note of what the scripture says as well as the numbers at the end.
+You'll be moved to a cage. Read the green book here - in fact, read every green book you see around this dungeon. Keep note of what the scripture says as well as the numbers at the end.
 
-Head out once Klefki opens the door. Welcome to Reborn's stealth section. I recommend saving often and if you get caught just reloading - save yourself the time. You might also want to turn off speed-up. Head right and go up the second from right passage, then go right and into the open door. Read these books and grab the *Spell Tag* and *Holy Field Readout*. 
+Head out once Klefki opens the door. Welcome to Reborn's stealth section! 
 
-Back outside, sneak past the nearby guard by going up at the right time, then go left when you can. You'll notice you can't go too far left, so you'll need to time going down past a patrolling guard, then once he passes you, go up, left, and down so he can't see you anymore. From here, head left once he moves back to the right, but don't go too far left. You'll next need to go down, left, down, then left once more. Time going up along the left wall, then take the first right. 
+<img class="tabImage" src="/assets/media/reborn/hidden001.png"/>
 
-You'll need to go up here, but you can't see the full body of the guard above. This might take a couple of resets, but you'll need to perfectly time going up and then left based on whether you are seeing the front or back of the legs of the sprite. Yeah. Once you succeed, you'll need to loop around and repeat to go up from the guard. Head up and right and go up the stairs - the guards will all leave, so you can now navigate this room as you like without getting caught.
+In the artistic masterpiece above, the red entities are the guards, as well as their view ranges. The yellow paths indicate the movement patterns and view changes of certain guards, and the blue line represents the path the player must take. I recommend saving often, specifically at the blue blobs. If you get caught, just reload to save yourself the time. You might also want to turn off speed-up. 
 
-In the next room, you'll need to defeat grunts around the room and interact with 4 statues and input numbers that correspond to the respective scriptures. Solutions:
+Enter the door on the right side while traversing the maze. While inside, read these books and grab the *Spell Tag* and *Holy Field Readout*. 
+
+Back outside, sneak past the nearby guard by going up at the right time, then go left when you can. You'll notice you can't go too far left, so you'll need to time going down past a patrolling guard, then once he passes you, go up, left, and down so he can't see you anymore. From here, head left once he moves back to the right, but don't go too far left. 
+
+Past the locked door on the left, you'll need to go up straight towards a guard who rotates, but you can't see his full sprite. This might take a couple of resets, but you'll need to perfectly time going up and then left based on whether you are seeing the front or back of the legs of the sprite. 
+
+Once you take the stairs at the top, the guards will all leave, so you can now navigate this room as you like without getting caught.
+
+In the next room, there are grunts to fight. Going clockwise around the outside of the room first:
+
+**Acolyte Lyla. Field: Holy Field**
+- Wigglytuff, Lv. 62, Serious Nature, IVs: 10
+
+**Acolyte Kaiden. Field: Holy Field**
+- Ledian, Lv. 62, Serious Nature, IVs: 10
+- Floatzel, Lv. 61, Serious Nature, IVs: 10
+
+**Acolyte Ezra. Field: Holy Field**
+- Ditto, Lv. 64, Serious Nature, IVs: 10
+
+**Acolyte Brenda. Field: Holy Field**
+- Dragonair, Lv. 62, Serious Nature, IVs: 10
+- Shelgon, Lv. 62, Serious Nature, IVs: 10
+
+To progress, we'll need to interact with 4 statues and input numbers that correspond to the respective scriptures. In each corner, a statue is protected by a guard. The statue guards, again in a clockwise order from the bottom of the room:
+
+**Acolyte Tanner. Field: Holy Field**
+- Pidgeot, Lv. 61, Serious Nature, IVs: 10
+
+**Acolyte Arcturus. Field: Holy Field**
+- Drampa, Lv. 62, Serious Nature, IVs: 10
+
+**Acolyte Angela. Field: Holy Field**
+- Flabebe, Lv. 59, Serious Nature, IVs: 10
+- Floette, Lv. 60, Serious Nature, IVs: 10
+- Politoed, Lv. 62, Serious Nature, IVs: 10
+
+**Acolyte Wes. Field: Holy Field**
+- Alakazam, Lv. 61, Serious Nature, IVs: 10
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Green: 3827, Purple: 0204, Red: 2303, Blue: 1605
+    Green: 3827, Blue: 1605, Red: 2303, Purple: 0204
   </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the statue puzzle</a>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solutions to the statue puzzle</a>
 </div>
 
-Once the door is opened towards the middle, prepare for a battle and head up.
+Enter the codes in each statue, prepare for a battle, then go up towards the middle from the bottom of the room.
 
 **Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field**
 - Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
@@ -7252,7 +7413,7 @@ Once the door is opened towards the middle, prepare for a battle and head up.
     - Dazzling Gleam
     - Foul Play
 
-Another battle with Meteor's Ace themselves! 
+Another battle with Meteor's Ace themselves, and the first boss fight on the Holy Field. Read up on the Field Notes and you can do it!
 
 **Relationship Point Choices:**
 - Tell Ace Loyalty (+1 Ace, -1 Elias)
@@ -7269,13 +7430,13 @@ You'll then get the *Red Crystal Key*! Don't accept Cain's fast travel request -
 
 ## A Cult and a Gang: Sidequests
 
-Ok, so there are a few sidequests we can take care of in and around Seventh. First, head right back into the Subseven Sanctum and talk to the pentagram thing. With a Soul Candle in our bag, we'll be able to catch **Litwick**. 
+There are a few sidequests we can take care of in and around Seventh. First, head right back into the Subseven Sanctum and talk to the pentagram thing. With a Soul Candle in our bag, we'll be able to catch **Litwick**. 
 
 Back in seventh, the house in the bottom left corner will now be unlocked. If you have a Helix Fossil and do not have a Dome Fossil in your bag, the Twitch Plays Pokemon cultist will ask us to bring a Farfetch'd to him. Do so, and you'll get a choice between the *Sail Fossil* and the *Jaw Fossil*. Since we already have Amaura, no point in getting the former, so pick up the Jaw.
 
 Although we now have both Amaura and a Jaw Fossil, it's worth noting that the cultist will ask for a Pidgeot in exchange for another fossil. Afterwards, you can trade Helix Fossils for more Jaw and Sail fossils if you want more.
 
-Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off, and your gang leader telling you to meet at her house in Lapis, so do so.
+Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off.Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
 
 **Harridan Craudburry. Field: No Field**
 - Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
