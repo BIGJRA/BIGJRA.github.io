@@ -6105,7 +6105,14 @@ Continue down. You'll see a purple tile, step on it and you'll end up in the lef
 - Whirlipede, Lv. 52, Serious Nature, IVs: 10
 - Aggron, Lv. 53, Serious Nature, IVs: 10
 
-Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
+Enter the room above.
+
+**Meteor Grunt Mary. Field: Factory Field**
+- Piloswine, Lv. 47, Serious Nature, IVs: 10
+- Toxapex, Lv. 49, Serious Nature, IVs: 10
+- Gigalith, Lv. 47, Serious Nature, IVs: 10
+
+Nothing to do above, so head back down. Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
 
 **Meteor Dame Avril & Meteor Knight Steven. Field: Factory Field**
 - Lumineon, Lv. 53, Serious Nature, IVs: 10
@@ -6825,11 +6832,112 @@ I've never used any of these in my entire life, but if you want to, go for it.
 
 We've gotten some of these already but sheesh finally some mildly decent non-consumable held items for sale.
 
+## Grand Hall Trainers 5
+
+By defeating Noel, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L.* The updated teams are as follows:
+
+**Arcade Star Carol (SUN). Field: No Field**
+- Meowstic, Lv. 56, Serious Nature, IVs: 10
+- Feraligatr, Lv. 57, Serious Nature, IVs: 10
+- Furret, Lv. 58, Serious Nature, IVs: 10
+- Furfrou, Lv. 59, Serious Nature, IVs: 10
+- Meganium, Lv. 60, Serious Nature, IVs: 10
+
+**Hotshot Fawkes (SUN). Field: No Field**
+- Dragalge, Lv. 56, Serious Nature, IVs: 10
+- Aegislash, Lv. 57, Serious Nature, IVs: 10
+- Typhlosion, Lv. 59, Serious Nature, IVs: 10
+- Greninja, Lv. 60, Serious Nature, IVs: 10
+
+**Casanova Gibson (SUN). Field: No Field**
+- Bastiodon, Lv. 59, Serious Nature, IVs: 10
+- Rampardos, Lv. 60, Serious Nature, IVs: 10
+- Sawk, Lv. 60, Ability: Inner Focus, Serious Nature, IVs: 10
+- Kabutops, Lv. 60, Serious Nature, IVs: 10
+
+**Youngster Jonah (MON). Field: No Field**
+- Squirtle, Lv. 55, @Leftovers, Quirky Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+- Wartortle, Lv. 57, @Leftovers, Serious Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Aqua Tail
+- Blastoise, Lv. 60, @Leftovers, Bashful Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+- Blastoise, Lv. 62, @Leftovers, Docile Nature, IVs: 15
+    - Skull Bash
+    - Iron Defense
+    - Rain Dance
+    - Hydro Pump
+
+**Hotshot Jace (TUE). Field: No Field**
+- Drifblim, Lv. 57, Serious Nature, IVs: 10
+- Watchog, Lv. 56, Serious Nature, IVs: 10
+- Cherrim, Lv. 56, Serious Nature, IVs: 10
+- Bisharp, Lv. 56, Serious Nature, IVs: 10
+- Comfey, Lv. 58, Serious Nature, IVs: 10
+
+**Psychic Silva (WED). Field: No Field**
+- Mawile, Lv. 57, @Assault Vest, Ability: Sheer Force, Adamant Nature, IVs: 15
+    - Play Rough
+    - Sucker Punch
+    - Iron Head
+    - Ice Fang
+- Xatu, Lv. 56, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
+    - Light Screen
+    - Reflect
+    - Giga Drain
+    - Roost
+- Carracosta, Lv. 56, Serious Nature, IVs: 10
+- Weavile, Lv. 60, @Choice Band, Ability: Pressure, Jolly Nature, IVs: 15
+    - Icicle Crash
+    - Night Slash
+    - Low Kick
+    - Poison Jab
+
+**Elder JB (THU). Field: No Field**
+- Delphox, Lv. 59, Serious Nature, IVs: 10
+- Greninja, Lv. 59, Serious Nature, IVs: 10
+- Goodra, Lv. 59, Serious Nature, IVs: 10
+
+**Techie Will (FRI). Field: No Field**
+- Swampert, Lv. 58, Serious Nature, IVs: 10
+- Sceptile, Lv. 59, Serious Nature, IVs: 10
+- Charizard, Lv. 60, Serious Nature, IVs: 10
+- Gardevoir, Lv. 61, Serious Nature, IVs: 10
+
+**Elder Anthony (SAT). Field: No Field**
+- Braviary, Lv. 59, Serious Nature, IVs: 10
+- Goodra, Lv. 61, Serious Nature, IVs: 10
+- Garchomp, Lv. 63, Serious Nature, IVs: 10
+  
+**Hotshot Emile (SAT). Field: No Field**
+- Rotom, Lv. 56, Serious Nature, IVs: 10
+- Serperior, Lv. 56, Serious Nature, IVs: 10
+- Gardevoir, Lv. 58, Serious Nature, IVs: 10
+- Typhlosion, Lv. 60, Serious Nature, IVs: 10
+- Nidoking, Lv. 62, Serious Nature, IVs: 10
+
+**Casanova Zach & Lady Beau (SAT). Field: No Field**
+- Komala, Lv. 54, Serious Nature, IVs: 10
+- Venusaur, Lv. 60, Serious Nature, IVs: 10
+- Reuniclus, Lv. 61, Serious Nature, IVs: 10
+- Chansey, Lv. 57, Serious Nature, IVs: 10
+- Wigglytuff, Lv. 58, Serious Nature, IVs: 10
+- Togekiss, Lv. 59, Serious Nature, IVs: 10
+
 With that out of the way, you can use the Tauros shortcut just north of the Grand Gate to make your way to Vanhanen Castle once more.
 
 ## Millenium Badge
 
-After talking to the group at the entrance, go up two rooms. Radomus will explain to us the puzzle. Enter the room on the left and grab a *Psychic Memory*. 
+After talking to the group at the entrance, go up two rooms. Radomus will explain the puzzle. Enter the room on the left and grab a *Psychic Memory*. 
 
 Talk to Elias here for more details on the puzzle, etc.
 
@@ -6887,6 +6995,15 @@ Enter room 3. Luna's trick can help us out here.
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #3</a>
 </div>
 
+**Psychic Rosemary. Field: Chess Board**
+- Beldum, Lv. 50, Serious Nature, IVs: 10
+- Metagross, Lv. 56, @King's Rock, Serious Nature, IVs: 10
+    - Zen Headbutt
+    - Iron Head
+    - Thunder Punch
+    - Bullet Punch
+- Metang, Lv. 51, Serious Nature, IVs: 10
+
 Enter room 4. This is a harder one but you can use the trick from the last room to figure it out.
 
 <div class="spoilerDiv">
@@ -6895,6 +7012,14 @@ Enter room 4. This is a harder one but you can use the trick from the last room 
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #4</a>
 </div>
+
+**Psychic Thyme. Field: Chess Board**
+- Unown, Lv. 50, Serious Nature, IVs: 10
+- Beheeyem, Lv. 55, Serious Nature, IVs: 10
+- Swoobat, Lv. 55, Serious Nature, IVs: 10
+- Wobbuffet, Lv. 55, Serious Nature, IVs: 10
+- Unown, Lv. 50, @King's Rock, Serious Nature, IVs: 10
+- Unown, Lv. 50, Serious Nature, IVs: 10
 
 Head up and into the next room when you are ready for your gym battle.
 
@@ -6930,13 +7055,15 @@ Head up and into the next room when you are ready for your gym battle.
     - Psychic
     - Moonblast
 
-Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Malamar will then go for its Contrary Superpower set up while Reuniclus likes to hit insanely hard and go first with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room. Finally, his Gardevoir is EV trained, has a berry, and hits really hard with boosted Psychic but can also set up on you. 
+Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Then, with their low speed advantage, Malamar will then usually go for its Contrary Superpower set up, while Reuniclus will try to hit insanely hard  with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room, which it has as a backup. Finally, his Gardevoir is EV trained, a bit tanky thanks to Queen bonuses, has a berry,  hits really hard with boosted Psychic, and can also set up on you. A stacked team that has a tendency to completely steamroll the unprepared under Trick Room.
 
-One strategy you can try to use to win is essentially to shut down Trick Room altogether. Using moves like Fake Out will allow you to knock out the Trick Room users on the second turn with super-effective Bug/Dark/Ghost moves, opening you up to exploit the low speeds on everything except Metagross with priority to get an easy sweep. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it. Alternatively, Slowking and Reuniclus are the only Pokemon that excel dramatically in Trick Room of this team, so you can just embrace the Trick Room and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower mons will be outspeeding everything except Metagross and maybe Slowking, allowing you to exploit the relatively low defenses of the team barring Gardevoir. 
+One strategy you can try to use to win is to shut down Trick Room altogether. Using moves like Fake Out, Taunt, Spore, etc. will allow you to stall the Trick Room users long enough that you can hopefully knock them out on the second or third turn with super-effective Bug/Dark/Ghost moves. Successfully defeating both leads before Trick Room allows you to exploit the low speeds! Metagross will still have priority and Slowking can use Trick Room when it comes in, so be careful of that. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it at any time. Alternatively, aside from Slowking and Reuniclus, the rest of his team has respectable base speed, so you can potentially win (lose?) the speed race and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower Pokemon may go first over everything except Metagross and Slowking. A Pokemon like Escavalier is great in this context.
 
-Your team composition is going to important regardless: you will probably want your leads to be your least bulky mons, especially if they have moves you need to use to get the ball rolling on your strategy like status conditions or hazards. Then, you're going to want your hardest hitting Pokemon to be a King if possible, though without a King's Rock at this point this can be tough to arrange. The rest will essentially fall naturally into Rook/Bishop/Queen - save a bulky attacker for the latter, and consider a Synthetic Seed if you have a special-attacking Bishop. If you happen to have a Pokemon with higher speed than anything else it will become a Knight and can be a great choice to OHKO Gardevoir towards the end. In terms of other Chess-field things: you can use Strength/Secret Power yourself for a field boost if you wish; these moves will shoot through the roof in power if you can confuse your opponents. You also get a boost when using Shadow Sneak and Sucker Punch, which you can use to ignore Trick Room speeds and steal some KO's against his Psychic types. Defensively, you can use Pokemon with Adaptability, Telepathy, Anticipation, or Synchronize to eat Radomus' Psychic and Strength attacks. Finally, you could also consider using Stomping Tantrum to cancel out the field altogether if you need to.
+Your team composition with respect to chess pieces is going to important regardless of your speed strategies. For your leads, take two Pokemon that can get you momentum for your strategy, keeping in mind that they're guaranteed to live one hit each as Pawns. Then, you're going to want your hardest hitting Pokemon or one that desperately needs priority to be a King if possible, though without a King's Rock at this point, this can be tough to arrange. The rest of your team will naturally fall into Rook/Bishop/Queen - save a bulky but strong attacker for the latter, and consider a Synthetic Seed if you have a special-attacking Bishop. If you happen to have a Pokemon with speed as its best stat, it will become a Knight and can be a great choice to OHKO Queen Gardevoir. Using the field notes, rearrange your team with respect to chess pieces accordingly.
 
-Once you win, you'll get the *Millenium Badge* which pushes our cap up to Lv. 65 as well as *TM92 Trick Room*. Finally we have pretty much the best TM in the game!
+You can exploit the Chess Board in other ways as well: you can use Strength/Secret Power yourself for a field boost. These moves will shoot through the roof in power if you can confuse your opponents with something like Teeter Dance first. You also get a boost when using Shadow Sneak and Sucker Punch, which you can use to ignore Trick Room speed tiers entirely and net some easy KO's against his frail Psychic types. Defensively, you can use Pokemon with Adaptability, Telepathy, Anticipation, or Synchronize to eat Radomus' Psychic and Strength attacks. And of course, there is always the angry child approach of using Stomping Tantrum to flip the board and go to a neutral field.
+
+Once you win, you'll get the *Millenium Badge* which pushes our cap up to Lv. 65 as well as *TM92 Trick Room*. Trick Room is a top 5 TM in the game due to its ability to reverse the sweeping power of speedy enemy field-boosted threats, so it's fantastic that we get it for the rest of the game!
 
 # Episode 11: Out of Light
 
@@ -9014,7 +9141,7 @@ Regardless of your route you'll have to fight Ace.
     - Zen Headbutt
     - Bullet Punch
 
-Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to round out the well rounded squad. Flying and Ground types working together in combination hit 5/6 mons super-effectively, so if you can manage speed and use these moves you will likely find a way to succeed.
+Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to round out the well rounded squad. Flying and Ground types working together in combination hit 5/6 Pokemon super-effectively, so if you can manage speed and use these moves you will likely find a way to succeed.
 
 After this fight, return to the front of the Water Treatment Center and climb the waterfall. 
 
@@ -23440,7 +23567,7 @@ Advice from the last fight generally holds here, but you'll need to be extra car
     - Overheat
     - Moonlight
 
-One more fight, and as you can tell, this one isn't easy, either. Again you'll need some way to use only 1 or 2 of your Pokemon to snowball into a sweep. The big problem here is that PULSE Arceus can heal itself as well as ignore the downsides of Roar of Time and Overheat, and becomes ??? type to negate its weaknesses. You can't easily muscle your way around it, and even a +6 boosted mon might not be able to take it out in one hit. At least you can look at this fight and the previous two for team member inspirations... I guess. Good luck!
+One more fight, and as you can tell, this one isn't easy, either. Again you'll need some way to use only 1 or 2 of your Pokemon to snowball into a sweep. The big problem here is that PULSE Arceus can heal itself as well as ignore the downsides of Roar of Time and Overheat, and becomes ??? type to negate its weaknesses. You can't easily muscle your way around it, and even a +6 boosted Pokemon might not be able to take it out in one hit. At least you can look at this fight and the previous two for team member inspirations... I guess. Good luck!
 
 Once you're done, you'll be immediately thrust into battle with **Arceus**, who you can finally catch. 
 

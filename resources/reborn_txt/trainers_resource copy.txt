@@ -140,38 +140,6 @@
     - Flare Blitz
     - Cross Chop
 
-**Swag Jockey Fern (2x Berry Ice Cream). Field: **
-- Haxorus, Lv. 52, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 31
-    - Taunt
-    - Dragon Claw
-    - Dragon Dance
-    - Iron Tail
-- Rhydon, Lv. 52, @Eviolite, Ability: Lightning Rod, Brave Nature, IVs: 31
-    - Drill Run
-    - Stone Edge
-    - Hammer Arm
-    - Fire Fang
-- Krookodile, Lv. 52, Ability: Moxie, Jolly Nature, IVs: 31
-    - Dig
-    - Brick Break
-    - Throat Chop
-    - Thunder Fang
-- Scyther, Lv. 53, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31
-    - X-Scissor
-    - Double Team
-    - Wing Attack
-    - Swords Dance
-- Roserade, Lv. 54, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sleep Powder
-    - Giga Drain
-    - Extrasensory
-    - Hidden Power
-- Decidueye, Lv. 54, @Elemental Seed, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Swords Dance
-    - Leaf Blade
-    - Spirit Shackle
-    - Shadow Sneak
-
 **Swag Jockey Fern. Field: **
 - Haxorus, Lv. 71, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 10
     - Superpower
@@ -1144,13 +1112,6 @@
     - Signal Beam
     - Giga Drain
 
-**Parson El (2x Full Heal). Field: **
-- Arceus, Lv. 75, @Leftovers, Ability: Multitype, Quiet Nature
-    - Recover
-    - Judgment
-    - Shadow Ball
-    - Focus Blast
-
 **??? ?????. Field: **
 - Ninetales-Alola, Lv. 81, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 15, EVs: 4/0/0/252/0/252
     - Blizzard
@@ -1184,82 +1145,11 @@
     - Shadow Ball
 
 **Pokemon Gargantuan. Field: **
-- Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Earthquake
-    - Stone Edge
-    - Crunch
-    - Heavy Slam
-
-**Pokemon Gargantuan. Field: **
 - Steelix-Mega, Lv. 100, @Assault Vest, Ability: Sand Force, Adamant Nature, IVs: 31, EVs: 3252/252/4/0/252/0
     - Earthquake
     - Dragon Tail
     - Fire Fang
     - Heavy Slam
-
-**Prodigy Noel (3x Hyper Potion). Field: **
-- Cinccino, Lv. 54, @King's Rock, Ability: Skill Link, Adamant Nature, IVs: 31
-    - Tail Slap
-    - U-turn
-    - Rock Blast
-    - Bullet Seed
-- Porygon-Z, Lv. 54, @Elemental Seed, Ability: Download, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Psychic
-    - Hidden Power
-    - Tri Attack
-- Bewear, Lv. 54, @Muscle Band, Ability: Fluffy, Adamant Nature, IVs: 31
-    - Hammer Arm
-    - Zen Headbutt
-    - Stomp Tantrum
-    - Ice Punch
-- Girafarig, Lv. 54, @Twisted Spoon, Ability: Sap Sipper, Timid Nature, IVs: 31
-    - Psychic
-    - Thunderbolt
-    - Thunder Wave
-    - Hidden Power
-- Swellow, Lv. 54, @Flame Orb, Ability: Guts, Jolly Nature, IVs: 31
-    - U-turn
-    - Brave Bird
-    - Steel Wing
-    - Facade
-- Clefable, Lv. 55, @Elemental Seed, Ability: Magic Guard, Calm Nature, IVs: 31, EVs: 252/0/204/52/0/0
-    - Moonblast
-    - Calm Mind
-    - Soft-Boiled
-    - Stored Power
-
-**Grandmaster Radomus (2x Ultra Potion). Field: **
-- Reuniclus, Lv. 57, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: 31 (0 Speed)
-    - Trick Room
-    - Psychic
-    - Focus Blast
-    - Toxic
-- Malamar, Lv. 58, @Rocky Helmet, Ability: Contrary, Brave Nature, IVs: 31 (0 Speed)
-    - Superpower
-    - Throat Chop
-    - Trick Room
-    - Rock Slide
-- Gallade, Lv. 58, @Muscle Band, Ability: Justified, Brave Nature, IVs: 31 (0 Speed)
-    - Strength
-    - Close Combat
-    - Knock Off
-    - Fire Punch
-- Slowking, Lv. 57, @Wise Glasses, Ability: Regenerator, Sassy Nature, IVs: 31 (0 Speed)
-    - Trick Room
-    - Nasty Plot
-    - Scald
-    - Psychic
-- Metagross, Lv. 59, @King's Rock, Ability: Clear Body, Brave Nature, IVs: 31 (0 Speed)
-    - Zen Headbutt
-    - Meteor Mash
-    - Ice Punch
-    - Strength
-- Gardevoir, Lv. 60, @Sitrus Berry, Ability: Trace, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/5/0
-    - Calm Mind
-    - Wish
-    - Psychic
-    - Moonblast
 
 **??? ?????. Field: **
 - Clefable, Lv. 81, @Leftovers, Ability: Magic Guard, Hardy Nature, IVs: 15, EVs: 252/0/0/252/4/0
@@ -3409,11 +3299,6 @@
     - Stone Edge
     - Dragon Tail
 
-**Meteor Grunt Mary. Field: **
-- Piloswine, Lv. 47, Serious Nature, IVs: 10
-- Toxapex, Lv. 49, Serious Nature, IVs: 10
-- Gigalith, Lv. 47, Serious Nature, IVs: 10
-
 **Meteor Grunt Hilda. Field: **
 - Carracosta, Lv. 55, Serious Nature, IVs: 10
 - Crobat, Lv. 57, Serious Nature, IVs: 10
@@ -4601,23 +4486,6 @@
 - Vigoroth, Lv. 58, Serious Nature, IVs: 10
 - Gumshoos, Lv. 59, Serious Nature, IVs: 10
 - Tropius, Lv. 58, Serious Nature, IVs: 10
-
-**Psychic Rosemary. Field: **
-- Beldum, Lv. 50, Serious Nature, IVs: 10
-- Metagross, Lv. 56, @King's Rock, Serious Nature, IVs: 10
-    - Zen Headbutt
-    - Iron Head
-    - Thunder Punch
-    - Bullet Punch
-- Metang, Lv. 51, Serious Nature, IVs: 10
-
-**Psychic Thyme. Field: **
-- Unown, Lv. 50, Serious Nature, IVs: 10
-- Beheeyem, Lv. 55, Serious Nature, IVs: 10
-- Swoobat, Lv. 55, Serious Nature, IVs: 10
-- Wobbuffet, Lv. 55, Serious Nature, IVs: 10
-- Unown, Lv. 50, @King's Rock, Serious Nature, IVs: 10
-- Unown, Lv. 50, Serious Nature, IVs: 10
 
 **Street Rat Andy. Field: **
 - Doduo, Lv. 58, Serious Nature, IVs: 10
@@ -6078,28 +5946,6 @@
     - Fire Fang
 
 **Youngster Jonah. Field: **
-- Squirtle, Lv. 55, @Leftovers, Quirky Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Wartortle, Lv. 57, @Leftovers, Serious Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Aqua Tail
-- Blastoise, Lv. 60, @Leftovers, Bashful Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Blastoise, Lv. 62, @Leftovers, Docile Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-
-**Youngster Jonah. Field: **
 - Squirtle, Lv. 82, @Leftovers, Quirky Nature, IVs: 15
     - Skull Bash
     - Iron Defense
@@ -6120,13 +5966,6 @@
     - Dark Pulse
     - Aura Sphere
     - Dragon Pulse
-
-**Hotshot Jace. Field: **
-- Drifblim, Lv. 57, Serious Nature, IVs: 10
-- Watchog, Lv. 56, Serious Nature, IVs: 10
-- Cherrim, Lv. 56, Serious Nature, IVs: 10
-- Bisharp, Lv. 56, Serious Nature, IVs: 10
-- Comfey, Lv. 58, Serious Nature, IVs: 10
 
 **Hotshot Jace. Field: **
 - Drifblim, Lv. 83, @Flame Orb, Ability: Flare Boost, Serious Nature, IVs: 10
@@ -6156,24 +5995,6 @@
     - Knock Off
 
 **Psychic Silva. Field: **
-- Mawile, Lv. 57, @Assault Vest, Ability: Sheer Force, Adamant Nature, IVs: 15
-    - Play Rough
-    - Sucker Punch
-    - Iron Head
-    - Ice Fang
-- Xatu, Lv. 56, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
-    - Light Screen
-    - Reflect
-    - Giga Drain
-    - Roost
-- Carracosta, Lv. 56, Serious Nature, IVs: 10
-- Weavile, Lv. 60, @Choice Band, Ability: Pressure, Jolly Nature, IVs: 15
-    - Icicle Crash
-    - Night Slash
-    - Low Kick
-    - Poison Jab
-
-**Psychic Silva. Field: **
 - Xatu, Lv. 84, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
     - Light Screen
     - Reflect
@@ -6194,11 +6015,6 @@
     - Sucker Punch
     - Iron Head
     - Rock Slide
-
-**Elder JB. Field: **
-- Delphox, Lv. 59, Serious Nature, IVs: 10
-- Greninja, Lv. 59, Serious Nature, IVs: 10
-- Goodra, Lv. 59, Serious Nature, IVs: 10
 
 **Elder JB. Field: **
 - Greninja, Lv. 85, @Life Orb, Ability: Protean, Serious Nature, IVs: 10
@@ -6223,12 +6039,6 @@
     - Rest
 
 **Techie Will. Field: **
-- Swampert, Lv. 58, Serious Nature, IVs: 10
-- Sceptile, Lv. 59, Serious Nature, IVs: 10
-- Charizard, Lv. 60, Serious Nature, IVs: 10
-- Gardevoir, Lv. 61, Serious Nature, IVs: 10
-
-**Techie Will. Field: **
 - Swampert, Lv. 85, @Assault Vest, Ability: Torrent, Serious Nature, IVs: 10
     - Hammer Arm
     - Earthquake
@@ -6249,11 +6059,6 @@
     - Psyshock
     - Focus Blast
     - Calm Mind
-
-**Casanova Zach. Field: **
-- Komala, Lv. 54, Serious Nature, IVs: 10
-- Venusaur, Lv. 60, Serious Nature, IVs: 10
-- Reuniclus, Lv. 61, Serious Nature, IVs: 10
 
 **Casanova Zach. Field: **
 - Komala, Lv. 85, @Assault Vest, Ability: Comatose, Serious Nature, IVs: 10
@@ -6278,11 +6083,6 @@
     - Synthesis
 
 **Lady Beau. Field: **
-- Chansey, Lv. 57, Serious Nature, IVs: 10
-- Wigglytuff, Lv. 58, Serious Nature, IVs: 10
-- Togekiss, Lv. 59, Serious Nature, IVs: 10
-
-**Lady Beau. Field: **
 - Blissey, Lv. 85, @Leftovers, Ability: Serene Grace, Serious Nature, IVs: 10
     - Seismic Toss
     - Thunder Wave
@@ -6303,13 +6103,6 @@
     - Calm Mind
     - Thunderbolt
     - Rest
-
-**Hotshot Emile. Field: **
-- Rotom, Lv. 56, Serious Nature, IVs: 10
-- Serperior, Lv. 56, Serious Nature, IVs: 10
-- Gardevoir, Lv. 58, Serious Nature, IVs: 10
-- Typhlosion, Lv. 60, Serious Nature, IVs: 10
-- Nidoking, Lv. 62, Serious Nature, IVs: 10
 
 **Hotshot Emile. Field: **
 - Rotom-Wash, Lv. 83, @Leftovers, Ability: Levitate, Serious Nature, IVs: 10
@@ -6339,11 +6132,6 @@
     - Poison Jab
 
 **Elder Anthony. Field: **
-- Braviary, Lv. 59, Serious Nature, IVs: 10
-- Goodra, Lv. 61, Serious Nature, IVs: 10
-- Garchomp, Lv. 63, Serious Nature, IVs: 10
-
-**Elder Anthony. Field: **
 - Braviary, Lv. 81, @Choice Band, Ability: Defiant, Serious Nature, IVs: 10
     - Brave Bird
     - Superpower
@@ -6359,12 +6147,6 @@
     - Dragon Rush
     - Stone Edge
     - Poison Jab
-
-**Casanova Gibson. Field: **
-- Bastiodon, Lv. 59, Serious Nature, IVs: 10
-- Rampardos, Lv. 60, Serious Nature, IVs: 10
-- Sawk, Lv. 60, Ability: Inner Focus, Serious Nature, IVs: 10
-- Kabutops, Lv. 60, Serious Nature, IVs: 10
 
 **Casanova Gibson. Field: **
 - Bastiodon, Lv. 85, @Custap Berry, Ability: Sturdy, Serious Nature, IVs: 10
@@ -6394,12 +6176,6 @@
     - X-Scissor
 
 **Hotshot Fawkes. Field: **
-- Dragalge, Lv. 56, Serious Nature, IVs: 10
-- Aegislash, Lv. 57, Serious Nature, IVs: 10
-- Typhlosion, Lv. 59, Serious Nature, IVs: 10
-- Greninja, Lv. 60, Serious Nature, IVs: 10
-
-**Hotshot Fawkes. Field: **
 - Dragalge, Lv. 83, @Assault Vest, Ability: Adaptability, Serious Nature, IVs: 10
     - Sludge Bomb
     - Dragon Pulse
@@ -6420,13 +6196,6 @@
     - Scald
     - Ice Beam
     - U-turn
-
-**Arcade Star Carol. Field: **
-- Meowstic, Lv. 56, Serious Nature, IVs: 10
-- Feraligatr, Lv. 57, Serious Nature, IVs: 10
-- Furret, Lv. 58, Serious Nature, IVs: 10
-- Furfrou, Lv. 59, Serious Nature, IVs: 10
-- Meganium, Lv. 60, Serious Nature, IVs: 10
 
 **Arcade Star Carol. Field: **
 - Meowstic-Male, Lv. 82, @Light Clay, Ability: Prankster, Serious Nature, IVs: 10
