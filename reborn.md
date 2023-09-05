@@ -7328,7 +7328,7 @@ You'll be moved to a cage. Read the green book here - in fact, read every green 
 
 Head out once Klefki opens the door. Welcome to Reborn's stealth section! 
 
-<img class="tabImage" src="/assets/media/reborn/hidden001.png"/>
+<img class="tabImage" src="/assets/media/reborn/subseven_mess.png"/>
 
 In the artistic masterpiece above, the red entities are the guards, as well as their view ranges. The yellow paths indicate the movement patterns and view changes of certain guards, and the blue line represents the path the player must take. I recommend saving often, specifically at the blue blobs. If you get caught, just reload to save yourself the time. You might also want to turn off speed-up. 
 
@@ -7587,7 +7587,7 @@ Make your way all the way back to the entrance of the valley. On the second tier
 
 Go down from here and use the red key to open a new door. Past the cave you can find a hidden *Red Shard* and the *Blue Crystal Key*. 
 
-Once again return to the center of the valley. Talk to the glowing blue crystal by the water to activate it and make an ice bridge.
+Once again return to the entrance of the valley. Talk to the glowing blue crystal by the water to activate it and make an ice bridge.
 
 On the other side of the water, go up first, then follow the path, using your keys. You'll find a hidden *Purple Shard* and *Blue Shard* along the way. Activate the green crystal at the end, then return to the ice bridge and go down. Along this path, grab the hidden *Green Shard* and *Magical Seed*. Once you enter your newly created cave entrance, Bennett will confront you.
 
@@ -7597,7 +7597,7 @@ On the other side of the water, go up first, then follow the path, using your ke
 
 Grab the *Purple Crystal Key*! Talk to the nearby purple crystal to mutate the cave. Outside the new exit, you can get a hidden *Red-Hots* and *X. Sp Atk*. In the next red cave, use the crystal to mutate another cave. Return all the way to the northmost ice bridge.
 
-Head up from here and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokemon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
+Head up and right from here, and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokemon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
 
 **Iolia Valley Northeast Dark Cave**
 
@@ -7605,9 +7605,9 @@ Head up from here and enter the cave. Mutate this cave with the purple crystal, 
 |------------------|---|
 |**Sableye**       |100|
 
-Back outside, make your way to the entrance to the valley once more. Enter the cave on the second tier, and activate the purple crystal to mutate it. Head back out and enter the cave on the first tier, and head out the newly formed exit. You'll find a *Dusk Stone* and a hidden *Rawst Berry*. 
+Back outside, make your way to the entrance to the valley once more. Enter the cave on the second tier, and activate the purple crystal to mutate it. Head back out and enter the cave on the first tier from the left, and head out the newly formed exit. You'll find a *Dusk Stone* and a hidden *Rawst Berry*. 
 
-To progress, return to the entrance, un-mutate the cave we just mutated, then go through the original cave once more. Following the cave to where we got the green key, we'll see a Light Shard. Use it, then create another red cave entrance and go in.
+To progress, return to the entrance, un-mutate the cave we just mutated via the second tier, then go through the cave on the first tier once more. Follow this path to a Light Shard, then create another red cave entrance and go in.
 
 **Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern**
 - Larvesta, Lv. 58, Ability: Flame Body, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
@@ -7641,14 +7641,14 @@ To progress, return to the entrance, un-mutate the cave we just mutated, then go
     - Signal Beam
     - Giga Drain
 
-Poor guy couldn't even level his Larvesta up once more to have Volcarona. Once more, he benefits from the field he's on, this time, in the form of boosted Signal Beams. But again his bugs are fairly frail and have lots of exploitable weaknesses, so you should be able to figure this one out.
+Poor guy couldn't even level his Larvesta up once more to have Volcarona. Regardless, he benefits from the field he's on, this time, in the form of boosted Signal Beams. Again his bugs are fairly frail and have lots of exploitable weaknesses, so you can use Rock and Fire moves to defeat him.
 
 **Relationship Point Choices:**
 - Beat Bennett on your first try (+1 Luna, -2 Bennett)
 
-With that, we could challenge Luna. There are actually a few things we can do now that we have a few blast powders and the crystal keys. Skip ahead if you just wanna do the fight now.
-
 ## Blast Powder and Crystal Key Goodies
+
+With that, we are able to challenge Luna. There are actually a few things we can do now that we have a few blast powders and the crystal keys. Skip ahead if you just wanna do the fight now.
 
 There should now be a purple warp in Luna's room that will take us to the entrance of Iolia Valley. Convenient! 
 
@@ -7656,17 +7656,34 @@ Head out of Iolia Valley and make your way through South Aventurine Woods to the
 
 Hop across some sneaky ledges onto the rocky texture of the cave, then make your way down and to the right. Exit onto the Chrysolia Pass.
 
-Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room as you try to solve this one.
+Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room to reset. The room looked like this when I solved it, if it is helpful:
+
+<img class="tabImage" src="/assets/media/reborn/wasteland_wall_boulders.png"/>
 
 Once you succeed, exit through the newly opened door. Head down the nearby ladder: this next puzzle will involve pushing boulders down holes to break rocks, and going up ladders. To go up, use the ladders on the left side of the area. 
 
-Once you finish this puzzle and emerge on top of the wall, head left to get the *Inverse Field Readout*. Right from here, there is a hidden cave entrance behind the canister. Inside, you can get the *Toxic Orb* and *Yureyu Key*. You can also talk to the canister here to get **Dhelmise**. Exit all the way out how you came in. 
+The sequence of steps to finish the puzzle should look something like this:
+
+- Go down the first ladder to the left
+- Head to the right and fall down the hole.
+- Push this boulder all the way to the right into the hole, then jump down.
+- Push the boulder to the right and climb up this ladder.
+- To the right, climb the ladder.
+- Push the boulder to the left into the hole and follow it in.
+- Ignore the boulder on the left, instead go to the right and jump in the hole.
+- Go left into the next hole. You'll 'respawn' to the ladder.
+- Go to the right and jump twice into the holes.
+- Climb the ladder to the right.
+- Push this boulder all the way right into the hole, then follow it in.
+- Push the boulder to the right side of the ladder, then climb up three times.
+
+Once you finish this puzzle and emerge on top of the wall, head left to get the *Inverse Field Readout*. Right from here, there is a hidden cave entrance behind the canister. Inside, you can get the *Toxic Orb* and *Yureyu Key*. You can also talk to the canister here to fight **Dhelmise**. Exit all the way out how you came in. 
 
 While we're nearby, head over to Spinel Town. We can revive the Jaw Fossil we got earlier to obtain **Tyrunt**!
 
-The next two have a very high trip-taken to value-of-reward ratio... but for completeness I'll get 'em anyways. Our next destination is Byxbysion Wasteland itself. Using the tunnels, make your way all the way back to the room where we fought Mr. Bigglesworth once upon a time. You can use your Blast Powder to access a *Dawn Stone*.
+The next two have a very high time-taken to value-of-reward ratio... but for completeness I'll get 'em anyways. Our first destination is Byxbysion Wasteland. Using the tunnels, make your way all the way back to the room where we fought Mr. Bigglesworth once upon a time. You can use your Blast Powder to access a *Dawn Stone*.
 
-While on the subject of long trips just to use Blast Powder for single items, take the boat to Apophyll Beach and enter Apophyll Cave. On the left side you can now use the powder to access a hidden *Max Revive*.
+Secondly, take the boat to Apophyll Beach and enter Apophyll Cave. On the left side you can now use the powder to access a hidden *Max Revive*.
 
 Ok, with those out of the way, head to the Underroot in Beryl. You'll see a green crystal on the right side of the area, so activate it. Cutting some wiggly trees here will allow us to get the *Ampharosite* as well as the *Meadow Plate* and an **Axew** egg. Sweet.
 
@@ -7727,11 +7744,11 @@ Return to the Iolia Valley and take the warp to Luna's room.
     - Double Team
     - Toxic
 
-Time to fight Reborn's Dark type gym leader. Her field will boost the power of Dark Pulse and Night Slash by 1.5x, not surprising for a Reborn gym fight really. What is more notable is that the field boosts the defenses of Dark types by 1.5x, so what'd normally be straightforward super-effective kills on Bisharp, Tyranitar, Absol, Weavile, and Honchkrow now aren't so certain, and the latter three can even stack attack on you and hit with wide coverage. Not to mention the already very bulky Umbreon, who now is even more bulky and can heal 75% of its health with Moonlight and also boost its Evasion. Plus, they all have perfect IV's and are all EV trained, a feature we'll see sticking around with the boss fights. Anyways, Luna is a pretty straightforward albeit tough fight that uses offensive and defensive boosts provided by the field pretty well.
+Time to fight Reborn's Dark type gym leader. Offensively, the field will boost the power of Dark Pulse and Night Slash by 1.5x. More notable is that the field boosts the defenses of Dark types by 1.5x, so what'd normally be straightforward super-effective kills on Bisharp, Tyranitar, Absol, Weavile, and Honchkrow now aren't so certain. Not to mention the effect this has on already very bulky Umbreon, who can heal 75% of its health with Moonlight and also boost its Evasion. Plus, they all have perfect IV's and are all EV trained, a feature we'll see sticking around with the boss fights. Anyways, this is a pretty straightforward albeit tough fight that uses offensive and defensive boosts provided by the field pretty well.
 
-The good news is that by this point you should have lots of options to deal with the team. If you want to stay with the Dark Crystal Cavern field, you can use Aurora Veil without Hail or use your own Dark types to get the defense boosts. Dazzling Gleam and Signal Beam get boosted on this field, effectively cancelling out the defenses boost of her team if you use these moves. If you can get around Honchkrow, Fighting types and Bug types with high attack can generally succeed here too in spite of the added defense. You can also take advantage of the fact that she has a singular special move on her entire team and bring a team with lots of Defense to go blow-for-blow. 
+The good news is that by this point you should have lots of options to deal with the team. If you want to stay with the Dark Crystal Cavern field, you can use Aurora Veil without needing Hail, or use your own Dark types to get the defense boosts. Dazzling Gleam and Signal Beam get boosted on this field, effectively cancelling out the defenses boost of her team if you use these moves. If you can get around Honchkrow, Fighting types and Bug types with high attack can generally succeed here too in spite of the added defense. You can also take advantage of the fact that she has a singular special move on her entire team and bring a team with lots of Defense to go blow-for-blow. 
 
-There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon type moves more effectively if you'd like. Alternatively you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to ignore their bulk and nuke the opponents with more uses of the Earthquake-esque moves and profit from boosted Rock type moves as well as boosted Hyper Voice and Boomburst. In either case Tyranitar will still be a menace, but past Bisharp she has no Rock-resists. 
+There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon type moves more effectively if you'd like. A special shoutout goes to Nature Power which turns into Power Gem on this field, a perfect counter to Sucker Punch Honchkrow. Alternatively, you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to sidestep the enemy bulk and power up Rock moves - only Bisharp resists them. With the Earthquake-esque moves, boosted Rock type moves, boosted Hyper Voice and Boomburst, there are powerful options on Cave. In either case Tyranitar will still be a menace, but can be taken down with a strong Fighting move.
 
 Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70, coincidentally about the point where normal Pokemon games just... end. Plus, she'll give us *TM97 Dark Pulse*! Nice.
 
