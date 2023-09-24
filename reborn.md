@@ -8319,7 +8319,7 @@ To the right from here, go down and grab hidden *X Sp. Atk* and *Revive*. Can't 
 
 Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokeSnax*, and hop your way to the bottom right side of the area. Climb down the stairs on the rock.
 
-Snag the *Blue Shard* to the left, then get some sleep poweer and talk to Crustle up and to the right. We'll need to move it down and right. Precisely: 
+Snag the *Blue Shard* to the left, then get some sleep powder and talk to Crustle up and to the right. We'll need to move it down and right. Precisely: 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
@@ -8968,7 +8968,87 @@ After the fight, go to the left and grab *TM43 Flame Charge* in the storage room
 |                  |   |**Abomasnow**     |4  |Absol             |2  |
 |                  |   |Absol             |1  |                  |   |
 
-Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, *Heart Scale*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire!
+Going up the left path first:
+
+**Hiker Odin. Field: Forest Field**
+- Snorlax, Lv. 67, Serious Nature, IVs: 10
+    - Rest
+    - Snore
+    - Body Slam
+    - Earthquake
+
+**Ace Trainer Eddie. Field: Forest Field**
+- Haxorus, Lv. 68, Serious Nature, IVs: 10
+    - Dragon Dance
+    - Outrage
+    - Earthquake
+    - Cut
+- Haxorus, Lv. 68, Serious Nature, IVs: 10
+    - Giga Impact
+    - Iron Tail
+    - Poison Jab
+    - Aqua Tail    
+
+**Nature Girl Ellen. Field: Forest Field**
+- Snover, Lv. 70, Serious Nature, IVs: 10
+    - Blizzard
+    - Giga Drain
+    - Ice Shard
+    - Protect
+- Abomasnow, Lv. 69, Serious Nature, IVs: 10
+    - Wood Hammer
+    - Earthquake
+    - Blizzard
+    - Protect
+
+Before going up the stairs to the left and to the right, go to the right and down to fight another trainer:
+
+**Hiker Goro. Field: Forest Field**
+- Lickitung, Lv. 70, Serious Nature, IVs: 10
+    - Body Slam
+    - Lick
+    - Dragon Tail
+    - Fire Blast
+- Cofagrigus, Lv. 69, Serious Nature, IVs: 10
+    - Shadow Ball
+    - Trick Room
+    - Will-O-Wisp
+    - Psychic
+
+Climbing the stairs up and to the right, you'll find another trainer:
+
+**Ranger Lassie. Field: Forest Field**
+- Snorunt, Lv. 66, Serious Nature, IVs: 10
+    - Blizzard
+    - Shadow Ball
+    - Water Pulse
+    - Attract
+- Audino, Lv. 67, Serious Nature, IVs: 10
+    - Wish
+    - Protect
+    - Toxic
+    - Double-Edge
+- Leafeon, Lv. 68, Serious Nature, IVs: 10
+    - Leaf Blade
+    - Frustration
+    - Synthesis
+    - Knock Off
+
+Finally, up the hill to the left is the last trainer here.
+
+**Hotshot George. Field: Forest Field**
+- Pupitar, Lv. 70, Serious Nature, IVs: 10
+    - Sandstorm
+    - Power-Up Punch
+    - Outrage
+    - Crunch
+- Kingler, Lv. 69, Serious Nature, IVs: 10
+    - Crabhammer
+    - Knock Off
+    - Superpower
+    - X-Scissor
+
+Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, *Heart Scale*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of hte map.
 
 Enter Calcenon City to the west.
 
@@ -8986,8 +9066,8 @@ Talk to Hardy in the left side of the city for some points if you'd like.
 Talk to Saphira here twice. 
 
 **Relationship Point Choices:**
-- Tell Charlotte you would throw her to the dogs for the ring with Saphira Points > 0 (+2 Charlotte, -1 Hardy, +1 Saphira)
-- Tell Charlotte you would throw her to the dogs for the ring with Saphira Points <= 0 (+2 Charlotte, -1 Hardy, -1 Saphira)
+- Tell Charlotte you would throw her to the dogs for the ring, while Saphira Points > 0 (+2 Charlotte, -1 Hardy, +1 Saphira)
+- Tell Charlotte you would throw her to the dogs for the ring, while Saphira Points <= 0 (+2 Charlotte, -1 Hardy, -1 Saphira)
 - Tell Charlotte you would not throw her to the dogs (-2 Charlotte, +1 Hardy)
 
 Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell us it's time for a gym battle, so head back into Calcenon.
@@ -9001,19 +9081,52 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Puzzle 1: U U L L U U U R D R D R D R U U L U L U <br/>
-    Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U <br/>
+    Puzzle 1: U U L L U U U R D R D R D R U U L U L U 
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the first puzzle solution</a>
+</div>
+
+**Elder Iroh. Field: Super-Heated Field**
+- Simisear, Lv. 70, Serious Nature, IVs: 10
+    - Nasty Plot
+    - Fire Blast
+    - Focus Blast
+    - Yawn
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the second puzzle solution</a>
+</div>
+
+**Ace Trainer Karus. Field: Super-Heated Field**
+- Flareon, Lv. 70, Serious Nature, IVs: 10
+    - Flare Blitz
+    - Superpower
+    - Quick Attack
+    - Iron Tail
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
     Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
   </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for puzzle solutions</a>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the third puzzle solution</a>
 </div>
+
+**Ace Trainer Nova. Field: Super-Heated Field**
+- Arcanine, Lv. 70, Serious Nature, IVs: 10
+    - Extreme Speed
+    - Flare Blitz
+    - Close Combat
+    - Crunch
 
 Head up to where Charlotte is. 
 
 **Relationship Point Choices:**
 - Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
 
-Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg for players on their second run, you can skip to the right.
+Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg for players on their second run, you can skip to the fight.
 
 If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
