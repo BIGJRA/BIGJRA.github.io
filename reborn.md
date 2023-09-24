@@ -126,6 +126,7 @@ title: |
   - [Ametrine City](#ametrine-city)
     - [Refused Blake Route: Aster Fight](#refused-blake-route-aster-fight)
     - [The Battle Atop Ametrine](#the-battle-atop-ametrine)
+  - [Clown Indra Fights 2](#clown-indra-fights-2)
   - [Glitch City](#glitch-city)
 - [Episode 15: Never After](#episode-15-never-after)
   - [Mountain Range Waterfallin'](#mountain-range-waterfallin)
