@@ -8601,7 +8601,16 @@ Talk to the clown with the Politoed and Torkoal for a battle.
     - Thunderbolt
     - Flash Cannon
 
-🅱️indra. Once you win against his Rainbow team you will get a *Full Heal*! Talk to him again and say yes! Then again and say no! Finally he will give you *TM39 Rock Tomb*. 
+🅱️indra. Once you win against his super sketchy Rainbow team you will get a *Full Heal*! Talk to him again and say yes! Then again and say no! Finally he will give you *TM39 Rock Tomb*. 
+
+Up from here is another clown.
+
+**Clown Aaron. Field: Rocky Field**
+- Sableye, Lv. 64, @Air Balloon, Serious Nature, IVs: 10
+    - Quash
+    - Quash
+    - Quash
+    - Quash
 
 Head up to enter Citrine Mountain! We've actually been in this mountain once before, but from a different side.
 
@@ -8628,7 +8637,7 @@ Head up to enter Citrine Mountain! We've actually been in this mountain once bef
 
 Hidden on this floor you'll find 7 *Shoal Salts*, *Green Shard*, *Ultra Potion*, *Revive*, *Normal Gem*, and *Heart Scale*, though the latter requires use of a Blast Powder.
 
-On the top there is a ladder that will take us to the familiar 2F. Up here you'll find a hidden *Zinc*, and *Ultra Ball* but that's about it. Back on 1F, surf to the upper right corner to enter Celestinine Mountain 1F. 
+On the top there is a ladder that will take us to a different side of the familiar 2F. Up here you'll find a hidden *Zinc*, and *Ultra Ball* but that's about it. Back on 1F, surf to the upper right corner to enter Celestinine Mountain 1F. 
 
 **Celestinine Mountain 1F / 2F / 3F**
 
@@ -8650,7 +8659,9 @@ On the top there is a ladder that will take us to the familiar 2F. Up here you'l
 |Wishiwashi        |30 |Clauncher         |20 |
 |                  |   |Qwilfish          |20 |
 
-Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to to the top right, and surf to the right and grab a hidden *Ultra Ball*. The bottom of this map will lead you out to the cascade we saw earlier. Without Dive and Waterfall there isn't much to do in here, so go up the ladder in the top right corner.
+Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to to the top right, and surf to the right and grab a hidden *Ultra Ball*. Note that the bottom of this map will lead you out to the cascade we saw earlier, so use this shortcut to heal if you like.
+
+Anyways, without Dive and Waterfall there isn't much else to do in Celestinine Mountain 1F, so go up the ladder in the top right corner.
 
 Cross the ice puzzle to get to the left. Precisely: 
 
@@ -8661,7 +8672,6 @@ Cross the ice puzzle to get to the left. Precisely:
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for ice puzzle movements</a>
 </div>
-
 
 Follow the body of water up from here to enter Ametrine Mountain 2F.
 
@@ -8675,7 +8685,7 @@ Follow the body of water up from here to enter Ametrine Mountain 2F.
 |Wishiwashi        |4  |
 |Dewgong           |1  |
 
-You'll eventually notice on the right the area we once came in via Route 2. Now you know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
+You'll eventually notice on the right the area connected to Route 2. Now we know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
 
 **Relationship Point Choices:**
 - Talk to Blake at the bottom of the circus (+1 Blake)
@@ -8706,7 +8716,7 @@ Anyways, return to Ametrine 2F, surf to the left, and cross the simple ice puzzl
 |                  |   |**Golurk**        |1  |                  |   |
 |                  |   |Absol             |1  |                  |   |
 
-...So much for entering Calcenon City. Make your way right, picking up hidden *Ultra Potion* and *Green Shard* along the way. Aya will join us as a partner!
+Grab the hidden *Potion*. Head right from here. And... so much for entering Calcenon City. Make your way right, picking up hidden *Ultra Potion* and *Green Shard* along the way. Aya will join us as a partner!
 
 **Relationship Point Choices:**
 - Return to Ametrine while Aya is your partner (-1 Aya, -1 Hardy)
@@ -8734,11 +8744,150 @@ Inside this cave you can find a hidden *Hyper Potion*, *Red Shard*, 2 *Repels*, 
 
 Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resist Wing*, and *Exp. Candy XL*. 
 
-Enter the next cave. Inside you can find hidden *PokeSnax*, and *Potion*, as well as Team Meteor! Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
+Enter the next cave. Inside you can find hidden *PokeSnax*, and *Potion*, as well as Team Meteor! 
 
-In this room, you can get hidden *Repeat Ball*, *Fire Gem*, and *Great Ball*. The next room contains a hidden *Super Repel* and *Poke Ball*. 
+**Meteor Grunt Geoff & Meteor Grunt Audrey. Field: Cave Field**
+- Lickilicky, Lv. 64, Serious Nature, IVs: 10
+    - Power Whip
+    - Gyro Ball
+    - Explosion
+    - Blizzard
+- Barbaracle, Lv. 65, Serious Nature, IVs: 10
+    - Shell Smash
+    - Rock Slide
+    - Razor Shell
+    - Night Slash
+- Dusclops, Lv. 66, Serious Nature, IVs: 10
+    - Will-O-Wisp
+    - Shadow Punch
+    - Rest
+    - Confuse Ray
+- Corsola, Lv. 65, Serious Nature, IVs: 10
+    - Mirror Coat
+    - Scald
+    - Head Smash
+    - Ancient Power
+- Marowak, Lv. 66, Serious Nature, IVs: 10
+    - Earthquake
+    - Iron Head
+    - Stone Edge
+    - Smack Down
 
-Head outside and go right. Pick up a hidden *X Defend* along the way. Right before the hop rocks you can get a hidden *Green Shard*. Hop down and enter the next cave.
+Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
+
+In this room, you can get hidden *Repeat Ball*, *Fire Gem*, and *Great Ball*. 
+
+**Meteor Knight Demian & Meteor Dame Antoine. Field: Cave Field**
+- Diggersby, Lv. 65, Serious Nature, IVs: 10
+    - Earthquake
+    - Frustration
+    - Swords Dance
+    - Quick Attack
+- Golem, Lv. 66, Serious Nature, IVs: 10
+    - Explosion
+    - Earthquake
+    - Smack Down
+    - Heavy Slam
+- Venomoth, Lv. 65, Serious Nature, IVs: 10
+    - Sleep Powder
+    - Quiver Dance
+    - Bug Buzz
+    - Psychic
+- Lurantis, Lv. 66, Serious Nature, IVs: 10
+    - Solar Blade
+    - X-Scissor
+    - Brick Break
+    - Poison Jab
+- Liepard, Lv. 65, Serious Nature, IVs: 10
+    - Fake Out
+    - Swagger
+    - Foul Play
+    - Substitute
+- Mightyena, Lv. 66, Serious Nature, IVs: 10
+    - Play Rough
+    - Sucker Punch
+    - Crunch
+    - Fire Fang
+
+Continue into the next room.
+
+**Meteor Knight Kenan & Meteor Dame Diana. Field: Cave Field**
+- Purugly, Lv. 66, Serious Nature, IVs: 10
+    - Hypnosis
+    - Sucker Punch
+    - Frustration
+    - U-turn
+- Machamp, Lv. 66, Ability: No Guard, Serious Nature, IVs: 10
+    - Knock Off
+    - Dynamic Punch
+    - Ice Punch
+    - Stone Edge
+- Golem, Lv. 67, Serious Nature, IVs: 10
+    - Explosion
+    - Earthquake
+    - Smack Down
+    - Gyro Ball
+- Noctowl, Lv. 65, Serious Nature, IVs: 10
+    - Hypnosis
+    - Air Slash
+    - Psychic
+    - Roost
+- Manectric, Lv. 66, Serious Nature, IVs: 10
+    - Overheat
+    - Thunderbolt
+    - Thunder Wave
+    - Hidden Power
+- Salazzle, Lv. 66, Serious Nature, IVs: 10
+    - Sludge Bomb
+    - Flamethrower
+    - Nasty Plot
+    - Hidden Power
+- Vileplume, Lv. 67, Serious Nature, IVs: 10
+    - Sludge Bomb
+    - Giga Drain
+    - Sleep Powder
+    - Moonlight
+
+Pick up the hidden *Super Repel* and *Poke Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way. 
+
+**Meteor Knight Steven & Meteor Dame Avril. Field: Rocky Field**
+- Mamoswine, Lv. 66, Serious Nature, IVs: 10
+    - Icicle Crash
+    - Earthquake
+    - Ice Shard
+    - Rock Slide
+- Vikavolt, Lv. 67, Serious Nature, IVs: 10
+    - Bug Buzz
+    - Zap Cannon
+    - Volt Switch
+    - Flash Cannon
+- Mudsdale, Lv. 68, Serious Nature, IVs: 10
+    - Superpower
+    - High Horsepower
+    - Counter
+    - Rock Slide
+- Minior, Lv. 66, Serious Nature, IVs: 10
+    - Stealth Rock
+    - Acrobatics
+    - Rock Slide
+    - Earthquake
+- Lumineon, Lv. 66, Serious Nature, IVs: 10
+    - Scald
+    - Silver Wind
+    - Ice Beam
+    - Attract
+- Golisopod, Lv. 66, Serious Nature, IVs: 10
+    - Liquidation
+    - Sucker Punch
+    - Leech Life
+    - Brick Break
+- Gothitelle, Lv. 67, Serious Nature, IVs: 10
+    - Psychic
+    - Dark Pulse
+    - Calm Mind
+    - Thunderbolt
+
+Right before the hop rocks you can get a hidden *Green Shard*. Hop down and enter the next cave.
 
 In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. Enter the next room, change up your team if necessary, then head in to the next room.
 
@@ -8799,7 +8948,7 @@ Time for another round with Aster and Eclipse! This time you'll have Aya as your
 **Relationship Point Choices:**
 - Aya gets kidnapped (-2 Aya. This is not a choice, actually.)
 
-After the fight, go to the left and grab *TM43 Flame Charge* within the room. Head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
+After the fight, go to the left and grab *TM43 Flame Charge* in the storage room. Return to the previous room and head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
 
 ## Route 4
 

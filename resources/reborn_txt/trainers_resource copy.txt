@@ -204,60 +204,6 @@
     - Swords Dance
     - Leaf Blade
 
-**Meteor Private Aster (Ultra Potion). Field: **
-- Solrock, Lv. 65, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
-    - Rock Slide
-    - Reflect
-    - Bulldoze
-    - Will-O-Wisp
-- Golurk, Lv. 66, Ability: No Guard, Bashful Nature, IVs: 31
-    - Dynamic Punch
-    - Bulldoze
-    - Rock Slide
-    - Phantom Force
-- Passimian, Lv. 66, @Life Orb, Ability: Receiver, Bashful Nature, IVs: 31
-    - Bulldoze
-    - Rock Slide
-    - Brick Break
-    - Giga Impact
-- Krookodile, Lv. 67, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Bulldoze
-    - Outrage
-    - Rock Slide
-    - Foul Play
-- Lycanroc-Midnight, Lv. 68, @Life Orb, Ability: No Guard, Adamant Nature, IVs: 31
-    - Thunder Fang
-    - Stone Edge
-    - Sucker Punch
-    - Swords Dance
-
-**Meteor Private Eclipse (Ultra Potion). Field: **
-- Lunatone, Lv. 65, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31
-    - Light Screen
-    - Moonblast
-    - Blizzard
-    - Icy Wind
-- Vileplume, Lv. 66, Ability: Effect Spore, Modest Nature, IVs: 31
-    - Sleep Powder
-    - Nature Power
-    - Sludge Bomb
-    - Petal Dance
-- Oranguru, Lv. 66, @Light Clay, Ability: Telepathy, Calm Nature, IVs: 31
-    - Foul Play
-    - Reflect
-    - Instruct
-    - Nature Power
-- Milotic, Lv. 67, @Leftovers, Ability: Marvel Scale, Modest Nature, IVs: 31
-    - Scald
-    - Confuse Ray
-    - Recover
-    - Blizzard
-- Lycanroc-Midday, Lv. 68, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31
-    - Brick Break
-    - Rock Slide
-    - Crunch
-    - Fire Fang
-
 **Meteor Private Aster (2x Ultra Potion). Field: **
 - Solrock, Lv. 68, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
     - Stealth Rock
@@ -897,38 +843,6 @@
     - Earthquake
     - Dragon Claw
     - Stone Edge
-
-**Wasteland Punk Aya. Field: **
-- Dragalge, Lv. 69, @Black Sludge, Ability: Adaptability, Modest Nature, IVs: 31
-    - Sludge Bomb
-    - Thunderbolt
-    - Hydro Pump
-    - Dragon Pulse
-- Venusaur, Lv. 65, Ability: Overgrow, Calm Nature, IVs: 31
-    - Leech Seed
-    - Power Whip
-    - Sludge Bomb
-    - Sleep Powder
-- Toxapex, Lv. 66, @Rocky Helmet, Ability: Merciless, Calm Nature, IVs: 31
-    - Sludge Bomb
-    - Icy Wind
-    - Blizzard
-    - Scald
-- Salazzle, Lv. 68, Ability: Corrosion, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Flamethrower
-    - Sludge Bomb
-    - Knock Off
-- Lycanroc-Dusk, Lv. 66, Ability: Tough Claws, Jolly Nature, IVs: 31
-    - Accelerock
-    - Rock Slide
-    - Swords Dance
-    - Crunch
-- Drapion, Lv. 67, @Black Sludge, Ability: Battle Armor, Careful Nature, IVs: 31
-    - Throat Chop
-    - Confuse Ray
-    - Cross Poison
-    - Aqua Tail
 
 **Dr. Sigmund Connal. Field: **
 - Aromatisse, Lv. 93, @Amplifield Rock, Ability: Aroma Veil, Modest Nature, IVs: 31, EVs: 200/0/56/252/0/0
@@ -2721,23 +2635,6 @@
     - Gyro Ball
     - Nature Power
 
-**Meteor Grunt Geoff. Field: **
-- Lickilicky, Lv. 64, Serious Nature, IVs: 10
-    - Power Whip
-    - Gyro Ball
-    - Explosion
-    - Blizzard
-- Barbaracle, Lv. 65, Serious Nature, IVs: 10
-    - Shell Smash
-    - Rock Slide
-    - Razor Shell
-    - Night Slash
-- Dusclops, Lv. 66, Serious Nature, IVs: 10
-    - Will-O-Wisp
-    - Shadow Punch
-    - Rest
-    - Confuse Ray
-
 **Meteor Ace Geoff. Field: **
 - Lickilicky, Lv. 71, Ability: Own Tempo, Serious Nature, IVs: 10
     - Power Whip
@@ -2776,18 +2673,6 @@
     - Head Smash
     - Ice Punch
     - Earthquake
-
-**Meteor Grunt Audrey. Field: **
-- Corsola, Lv. 65, Serious Nature, IVs: 10
-    - Mirror Coat
-    - Scald
-    - Head Smash
-    - Ancient Power
-- Marowak, Lv. 66, Serious Nature, IVs: 10
-    - Earthquake
-    - Iron Head
-    - Stone Edge
-    - Smack Down
 
 **Meteor Ace Audrey. Field: **
 - Vanilluxe, Lv. 71, Ability: Ice Body, Serious Nature, IVs: 10
@@ -3080,23 +2965,6 @@
     - Hammer Arm
     - Rock Slide
 
-**Meteor Knight Demian. Field: **
-- Diggersby, Lv. 65, Serious Nature, IVs: 10
-    - Earthquake
-    - Frustration
-    - Swords Dance
-    - Quick Attack
-- Golem, Lv. 66, Serious Nature, IVs: 10
-    - Explosion
-    - Earthquake
-    - Smack Down
-    - Heavy Slam
-- Venomoth, Lv. 65, Serious Nature, IVs: 10
-    - Sleep Powder
-    - Quiver Dance
-    - Bug Buzz
-    - Psychic
-
 **Meteor Ace Demian. Field: **
 - Jellicent, Lv. 71, Ability: Cursed Body, Serious Nature, IVs: 10
     - Water Spout
@@ -3123,23 +2991,6 @@
     - Earthquake
     - Aqua Tail
     - Roost
-
-**Meteor Dame Antoine. Field: **
-- Lurantis, Lv. 66, Serious Nature, IVs: 10
-    - Solar Blade
-    - X-Scissor
-    - Brick Break
-    - Poison Jab
-- Liepard, Lv. 65, Serious Nature, IVs: 10
-    - Fake Out
-    - Swagger
-    - Foul Play
-    - Substitute
-- Mightyena, Lv. 66, Serious Nature, IVs: 10
-    - Play Rough
-    - Sucker Punch
-    - Crunch
-    - Fire Fang
 
 **Meteor Ace Antoine. Field: **
 - Mamoswine, Lv. 71, Ability: Snow Cloak, Serious Nature, IVs: 10
@@ -3575,23 +3426,6 @@
     - Signal Beam
     - Hidden Power
 
-**Meteor Knight Steven. Field: **
-- Mamoswine, Lv. 66, Serious Nature, IVs: 10
-    - Icicle Crash
-    - Earthquake
-    - Ice Shard
-    - Rock Slide
-- Vikavolt, Lv. 67, Serious Nature, IVs: 10
-    - Bug Buzz
-    - Zap Cannon
-    - Volt Switch
-    - Flash Cannon
-- Mudsdale, Lv. 68, Serious Nature, IVs: 10
-    - Superpower
-    - High Horsepower
-    - Counter
-    - Rock Slide
-
 **Meteor Ace Steven. Field: **
 - Tyranitar, Lv. 89, @Weakness Policy, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Crunch
@@ -3618,23 +3452,6 @@
     - High Horsepower
     - Counter
     - Rock Slide
-
-**Meteor Knight Kenan. Field: **
-- Purugly, Lv. 66, Serious Nature, IVs: 10
-    - Hypnosis
-    - Sucker Punch
-    - Frustration
-    - U-turn
-- Machamp, Lv. 66, Ability: No Guard, Serious Nature, IVs: 10
-    - Knock Off
-    - Dynamic Punch
-    - Ice Punch
-    - Stone Edge
-- Golem, Lv. 67, Serious Nature, IVs: 10
-    - Explosion
-    - Earthquake
-    - Smack Down
-    - Gyro Ball
 
 **Meteor Ace Kenan. Field: **
 - Leavanny, Lv. 68, Ability: Swarm, Serious Nature, IVs: 10
@@ -3685,28 +3502,6 @@
     - Bug Buzz
     - Giga Drain
 
-**Meteor Dame Avril. Field: **
-- Minior, Lv. 66, Serious Nature, IVs: 10
-    - Stealth Rock
-    - Acrobatics
-    - Rock Slide
-    - Earthquake
-- Lumineon, Lv. 66, Serious Nature, IVs: 10
-    - Scald
-    - Silver Wind
-    - Ice Beam
-    - Attract
-- Golisopod, Lv. 66, Serious Nature, IVs: 10
-    - Liquidation
-    - Sucker Punch
-    - Leech Life
-    - Brick Break
-- Gothitelle, Lv. 67, Serious Nature, IVs: 10
-    - Psychic
-    - Dark Pulse
-    - Calm Mind
-    - Thunderbolt
-
 **Meteor Ace Avril. Field: **
 - Lumineon, Lv. 89, @Sitrus Berry, Ability: Swift Swim, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Scald
@@ -3733,28 +3528,6 @@
     - Dark Pulse
     - Calm Mind
     - Thunderbolt
-
-**Meteor Dame Diana. Field: **
-- Noctowl, Lv. 65, Serious Nature, IVs: 10
-    - Hypnosis
-    - Air Slash
-    - Psychic
-    - Roost
-- Manectric, Lv. 66, Serious Nature, IVs: 10
-    - Overheat
-    - Thunderbolt
-    - Thunder Wave
-    - Hidden Power
-- Salazzle, Lv. 66, Serious Nature, IVs: 10
-    - Sludge Bomb
-    - Flamethrower
-    - Nasty Plot
-    - Hidden Power
-- Vileplume, Lv. 67, Serious Nature, IVs: 10
-    - Sludge Bomb
-    - Giga Drain
-    - Sleep Powder
-    - Moonlight
 
 **Meteor Ace Diana. Field: **
 - Grumpig, Lv. 68, Ability: Thick Fat, Serious Nature, IVs: 10
@@ -4175,13 +3948,6 @@
     - Psychic
     - Hidden Power
     - Energy Ball
-
-**Clown Aaron. Field: **
-- Sableye, Lv. 64, @Air Balloon, Serious Nature, IVs: 10
-    - Quash
-    - Quash
-    - Quash
-    - Quash
 
 **Hiker Odin. Field: **
 - Snorlax, Lv. 67, Serious Nature, IVs: 10
