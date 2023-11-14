@@ -11878,7 +11878,9 @@ Next, make your way all the way to the top of Pyrous Mountain. From the bottom o
 
 ## Azurine Lake
 
-Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation.
+Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation (1).
+
+<img class="tabImage" src="/assets/media/reborn/azurine_567_1.png"/>
 
 **Azurine Cave South**
 
@@ -11905,7 +11907,28 @@ Next it's time to cover the actual Azurine Lake! There are tons of things we can
 
 Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hidden *Great Ball* and *Focus Sash*.
 
-Head down and to the right. You'll see a narrow strip of sand, which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area. 
+Head down and to the right, following the yellow arrow in the above. This is a pretty huge map and only one of multiple, but we'll explore it all in due time.
+
+<img class="tabImage" src="/assets/media/reborn/azurine_565_1.png"/>
+
+**Swimmer Tsuki. Field: Water Surface Field**
+- Bruxish, Lv. 72, @Choice Band, Ability: Strong Jaw, Adamant Nature, IVs: 20
+    - Poison Fang
+    - Psychic Fangs
+    - Crunch
+    - Liquidation
+- Alomomola, Lv. 73, @Elemental Seed, Ability: Regenerator, Bold Nature, IVs: 20
+    - Wish
+    - Protect
+    - Scald
+    - Knock Off
+- Starmie, Lv. 73, @Choice Specs, Ability: Natural Cure, Modest Nature, IVs: 20
+    - Surf
+    - Ice Beam
+    - Thunderbolt
+    - Psyshock
+
+Fight the swimmer if you'd like. You'll see a narrow strip of sand, on which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area (2). 
 
 **Azurine Lake Underwater**
 
@@ -11923,43 +11946,208 @@ Head down and to the right. You'll see a narrow strip of sand, which you can lan
 |Toxapex           |4  |
 |**Dragalge**      |1  |
 
-Hidden on this underwater map you can find a *Shoal Shell*, *Purple Shard*, *Awakening*, *Blue Shard*, *Ultra Potion*, and *Poke Ball*. You'll notice that the buildings around here are numbered, and many of them are locked, but some are not. Starting from the bottom, we will explore them.
+<img class="tabImage" src="/assets/media/reborn/azurine_547_1.png"/>
 
-On the right side you can enter one house containing a *Relic Silver* as well as a hidden *Salt-Water Taffy* and the *F14 Key*. To the left and slightly up you'll find another unlocked building containing 5 *Exp. Candy XL* as well as a hidden *Blue Shard*. Up from here, you'll find a locked building called Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the *S9 Key* hidden. Up from here you'll find an open house containing a *Relic Copper* and the *F34 Key* hidden. 
+My automated map screenshot tool hates seaweed tiles for some reason, so apologies for the blank tiles on the underwater maps.
 
-Make your way to the very bottom of the underwater area and use your new key on the corresponding building. Inside you can get a *Relic Copper* as well as a hidden *Water Gem* and the *F1 Key*. Make your way all the way to the top of the underwater area now and use the key to get a *Blue Flute*. 
+Hidden in this part of the large underwater area, you can find a *Shoal Shell*, *Awakening*, and *Purple Shard*. You'll notice that the buildings around here are numbered, and many of them are locked, but some are not. We won't be able to ever open some of them - I will note the locations of the ones we will so that they are easier to find later. Starting from the bottom, we will explore the open doors.
+
+On the right side you can enter a house (marked 3) containing a *Relic Silver* as well as a hidden *Salt-Water Taffy* and the *F14 Key*. To the left and slightly up you'll find another unlocked building (4) containing 5 *Exp. Candy XL* as well as a hidden *Blue Shard*. 
+
+<img class="tabImage" src="/assets/media/reborn/azurine_553_1.png"/>
+
+Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poke Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden. 
+
+<img class="tabImage" src="/assets/media/reborn/azurine_567_2.png"/>
 
 Surface somewhere in the upper part of the underwater map. You can find a hidden *Paralyze Heal* and 2 *Shoal Shells*.  
 
-That wraps up this section of the lake for now. Fly over to Coral Ward and surf west. Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*. You'll also be able to battle the third guy who looks like Corin Rouge here!
+Make your way to the very bottom of the underwater area and use your new key on Fairview 34. Inside you can get a *Relic Copper* as well as a hidden *Water Gem* and the *F1 Key*. Make your way all the way to the top of the underwater area now and use the key to get a *Blue Flute*. 
 
-From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks. Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here. 
+That wraps up this section of the lake for now. Fly over to Coral Ward and surf west. 
 
-Inside the top house you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island.
+<img class="tabImage" src="/assets/media/reborn/azurine_536_1.png"/>
 
-Return to the spot with the swimmer, then make your way west (to the south is Azurine Island, which I'll cover later on). Once you hit a wall, a little bit down you'll see another strip of sand that you can land on. 
+Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
-Grab the hidden *Carbos* here and surf down and left. Before diving down, go to the left onto another sandy island to get a hidden *X Speed* and *Elixir*. At the top left corner is another 2-by-2 dive spot, so go down here to get a hidden *Super Repel* and *TM16 Light Screen*. 
+**Swimmer Xerciel. Field: Water Surface**
+- Milotic, Lv. 72, @Elemental Seed, Ability: Competitive, Calm Nature
+    - Surf
+    - Recover
+    - Ice Beam
+    - Toxic
+- Raichu-Alola, Lv. 73, @Elemental Seed, Ability: Surge Surfer, Modest Nature
+    - Surf
+    - Thunderbolt
+    - Psyshock
+    - Nasty Plot
+- Gorebyss, Lv. 73, @White Herb, Ability: Swift Swim, Modest Nature
+    - Shell Smash
+    - Surf
+    - Draining Kiss
+    - Shadow Ball
+
+You'll also be able to battle the third guy who looks like Corin Rouge here!
+
+**Casanova Crimson. Field: Ashen Beach**
+- Bewear, Lv. 74, @Rocky Helmet, Ability: Fluffy, Adamant Nature, IVs: 31
+    - Ice Punch
+    - Earthquake
+    - Zen Headbutt
+    - Superpower
+- Sylveon, Lv. 76, @Wise Glasses, Ability: Pixilate, Modest Nature, IVs: 31
+    - Hyper Voice
+    - Hidden Power
+    - Wish
+    - Misty Terrain
+
+From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks (6). Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here. 
+
+<img class="tabImage" src="/assets/media/reborn/azurine_536_1.png"/>
+
+Inside the top house (7) you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island (8).
+
+Return to the spot with the swimmer, then make your way west towards Apophyll (to the south is Azurine Island, which I'll cover later on). 
+
+<img class="tabImage" src="/assets/media/reborn/azurine_567_3.png"/>
+
+Hopefully the layout of the Azurine Lake is starting to make a bit more sense - Peridot Ward is the northern edge, Apophyll Beach is in the southwest, Azurine Island is on the south side, and Coral Ward is the southeast edge.
+
+Once you hit a wall, a little bit down you'll see another strip of sand (9) that you can land on. Grab the hidden *Carbos* here and surf down and left. Before diving down, go to the left onto another sandy island (10) to get a hidden *X Speed* and *Elixir*. At the top left corner is another 2-by-2 dive spot, so go down here to get a hidden *Super Repel* and *TM16 Light Screen*. 
 
 Now, return to the larger dive spot we previously skipped to reach the Sunrise Apartments area. Hidden on the underwater map you'll find a *Green Shard*, *Blue Shard*, *Big Pearl*, and *Purple Shard*. 
 
-The building in the bottom right side is unlocked, and you'll find a *Relic Copper* as well as a hidden *Green Shard* and the *S12 Key*. There is another unlocked house at the top containing a *Relic Silver*, and a hidden *Paralyze Heal* and the *K33 Key*. 
+<img class="tabImage" src="/assets/media/reborn/azurine_553_2.png"/>
+
+The building in the bottom right side (11) is unlocked, and you'll find a *Relic Copper* as well as a hidden *Green Shard* and the *S12 Key*. There is another unlocked house at the top (12) containing a *Relic Silver*, and a hidden *Paralyze Heal* and the *K33 Key*. 
 
 Surface towards the top of the underwater area and go up and left to reach an island. Grab the *Water Stone* and hidden *Shoal Shell* it contains then surf up and to the right. You can get a hidden *Red Card* in the bottom right corner. Dive down here.
 
-On this map you can get a hidden *Green Shard*, *X Speed*, and *Red Shard*. We can unlock the S12 house all the way to the right to get a *Relic Copper* as well as a hidden *Green Shard* and the *S4 Key*. A nearby building is unlocked and contains a *Heart Scale* and hidden *Ice Heal*. Unlock the S9 building to the left to get the *Glalitite* and a hidden *Purple Shard*. You can unlock S4 in the bottom left to get *TM98 Power-Up-Punch* and a hidden *Escape Rope*. 
+On this map you can get a hidden *Green Shard*, *X Speed*, and *Red Shard*. We can unlock the S12 house all the way to the right to get a *Relic Copper* as well as a hidden *Green Shard* and the *S4 Key*. A nearby building (13) is unlocked and contains a *Heart Scale* and hidden *Ice Heal*. Unlock the S9 building to the left to get the *Glalitite* and a hidden *Purple Shard*. You can unlock S4 in the bottom left to get *TM98 Power-Up-Punch* and a hidden *Escape Rope*. 
 
-Fly to Peridot Ward. Make your way to the building Simon is in and go south, and you'll be able to surf from here. Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way. 
+That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelter (former site of PULSE Muk), you'll be able to surf south. 
 
-You'll be spit out right next to Apophyll Cave. Notice that there is a small path you can surf through to go up from here, so take it. At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening. Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island. 
+<img class="tabImage" src="/assets/media/reborn/azurine_522_1.png"/>
 
-Dive down here into the Kingsbury Apartments area. Underwater you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*. 
+**Swimmer Hubert. Field: Water Surface**
+- Kingdra, Lv. 72, @Choice Specs, Ability: Sniper, Modest Nature, IVs: 20
+    - Surf
+    - Draco Meteor
+    - Ice Beam
+    - Flash Cannon
+- Wishiwashi, Lv. 73, @Elemental Seed, Ability: Schooling, Quiet Nature, IVs: 20
+    - Surf
+    - Ice Beam
+    - Iron Tail
+    - Dive
+- Tentacruel, Lv. 73, @Elemental Seed, Ability: Clear Body, Modest Nature, IVs: 20
+    - Sludge Wave
+    - Surf
+    - Giga Drain
+    - Dazzling Gleam
 
-Now I will explore the buildings from the top. In the top left corner one is unlocked and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head right from here and enter an unlocked building to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building containing a *Relic Silver* as well as hidden *Red-Hots*, *Pokesnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
+<img class="tabImage" src="/assets/media/reborn/azurine_530_1.png"/>
 
-Enter the building to the left to get a hidden *Blue Shard*, *Purple Shard* and the *K5 Key*. Left and up from here you can enter the K22 building to get a *Relic Copper* as well as a hidden *Blue Shard* and the *K2 Key*. Head all the way up in the underwater section and enter K2 to get the hidden *F10 Key*. Around to the right you can enter K5 and get a *Max Revive*. Nice.
+**Swimmer Arlo. Field: Water Surface**
+- Rotom-Wash, Lv. 73, @Leftovers, Ability: Levitate, Modest Nature, IVs: 20
+    - Thunderbolt
+    - Hydro Pump
+    - Pain Split
+    - Volt Switch
+- Basculin-Red-Striped, Lv. 72, @Assault Vest, Ability: Reckless, Adamant Nature, IVs: 20
+    - Aqua Jet
+    - Crunch
+    - Waterfall
+    - Zen Headbutt
+- Jellicent, Lv. 73, @Elemental Seed, Ability: Water Absorb, Bold Nature, IVs: 20
+    - Acid Armor
+    - Surf
+    - Recover
+    - Will-O-Wisp
 
-Next, in the underwater section, on the left side of the loop you'll notice a bright 2-by-2 spot. Surface here specifically and surf around to the other side, grabbing the hidden *Level Ball*. Enter this cave. 
+**Swimmer Leigh. Field: Water Surface**
+- Azumarill, Lv. 72, @Sitrus Berry, Ability: Huge Power, Adamant Nature
+    - Belly Drum
+    - Aqua Jet
+    - Play Rough
+    - Knock Off
+- Primarina, Lv. 73, @Assault Vest, Ability: Torrent, Modest Nature
+    - Surf
+    - Psychic
+    - Moonblast
+    - Ice Beam
+- Greninja, Lv. 73, @Life Orb, Ability: Torrent, Rash Nature
+    - Water Shuriken
+    - Surf
+    - Dark Pulse
+    - Gunk Shot
+
+Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way towards Apophyll Cave.
+
+<img class="tabImage" src="/assets/media/reborn/azurine_538_1.png"/>
+
+**Swimmer Wilson. Field: Water Surface**
+- Blastoise, Lv. 72, @Elemental Seed, Ability: Torrent, Calm Nature, IVs: 20
+    - Surf
+    - Ice Beam
+    - Refresh
+    - Toxic
+- Golisopod, Lv. 73, @Sitrus Berry, Ability: Emergency Exit, Adamant Nature, IVs: 20
+    - First Impression
+    - Liquidation
+    - Leech Life
+    - Aqua Jet
+- Pyukumuku, Lv. 73, @Elemental Seed, Ability: Unaware, Calm Nature, IVs: 20
+    - Recover
+    - Toxic
+    - Block
+    - Soak
+
+You'll be spit out right next to Apophyll Cave. Notice that there is a small path (14) you can surf through to go up from here, so take it. 
+
+<img class="tabImage" src="/assets/media/reborn/azurine_530_2.png"/>
+
+At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island. 
+
+**Ranger Nhadala. Field: Water Surface**
+- Pelipper, Lv. 70, @Damp Rock, Ability: Drizzle, Serious Nature, IVs: 10
+    - Roost
+    - Surf
+    - Hurricane
+    - U-turn
+- Golduck, Lv. 71, @Choice Specs, Ability: Swift Swim, Serious Nature, IVs: 10
+    - Focus Blast
+    - Surf
+    - Ice Beam
+    - Psyshock
+- Lanturn, Lv. 72, @Leftovers, Ability: Volt Absorb, Serious Nature, IVs: 10
+    - Substitute
+    - Toxic
+    - Surf
+    - Discharge
+- Vaporeon, Lv. 72, @Assault Vest, Ability: Water Absorb, Serious Nature, IVs: 10
+    - Surf
+    - Ice Beam
+    - Hyper Voice
+    - Shadow Ball
+
+Dive down here into the Kingsbury Apartments area, and go all the way up.
+
+<img class="tabImage" src="/assets/media/reborn/azurine_574_1.png"/>
+
+In the top left corner, a building is unlocked (16) and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head down from here onto technically a new map.
+
+<img class="tabImage" src="/assets/media/reborn/azurine_558_1.png"/>
+
+On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*. 
+
+In the top right corner, enter an unlocked building (17) to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building (18) containing a *Relic Silver* as well as hidden *Red-Hots*, *Pokesnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
+
+Enter the building to the left (19) to get a hidden *Blue Shard*, *Purple Shard* and the *K5 Key*. Left and up from here you can enter the K22 building to get a *Relic Copper* as well as a hidden *Blue Shard* and the *K2 Key*. Head all the way up in the underwater section and enter K2 to get the hidden *F10 Key*. Around to the right you can enter K5 and get a *Max Revive*. Nice.
+
+Make your way all the way to the bottom left corner of the large underwater area. Enter the unlocked house at the bottom (20) to get a *Relic Copper*. Hidden here is a *Purple Shard* and the *Diamond Ring*, an item we will use for a sidequest in a few subsections. Back outside, surface in this corner of the underwater map. On the left you'll notice a 2-by-2 dive spot (21) that will lead you to the *Altarianite*. 
+
+Next, in the middle of the main underwater section, on the left side of the loop you'll notice a bright 2-by-2 spot (22). Surface here specifically and surf around to the other side, grabbing the hidden *Level Ball*. Enter this cave. 
 
 **Azurine Cave North**
 
@@ -11997,10 +12185,8 @@ An annoying set that might ruin your team if you're unprepared! Taunt and Toxic 
 
 Beyond, you'll get *TM59 Brutal Swing*. Head up the waterfall. You can get an *Exp. Candy XL* up here as well as a hidden *Hyper Potion*. Atop another waterfall is a hidden *Icicle Plate*. You'll notice that we can't access the other room thanks to a strong current - we'll need to transform the Water Surface into the Icy Field! You can use Blizzard yourself or surf until you find a wild Sealeo and hope that it uses it.
 
-Enter the cave once it freezes over and you can get the *Aloraichium-Z* as well as the *Audinite*. You can also get a hidden *Exp. Candy L* and *Level Ball*. 
-
-Exit this cave, and make your way back into the large underwater area. Now, surf to the bottom left corner of the area. Enter the unlocked house at the bottom to get a *Relic Copper*. Hidden here is a *Purple Shard* and the *Diamond Ring*, an item we will use for a sidequest in a few subsections. Back outside, surface in this corner of the underwater map. On the left you'll notice a 2-by-2 dive spot that will lead you to the *Altarianite*. 
-
+Enter the cave once it freezes over and you can get the *Aloraichium-Z* as well as the *Audinite*. You can also get a hidden *Exp. Candy L* and *Level Ball*. Exit this cave.
+ 
 There is one more thing we can do in these apartment areas: we have one key remaining. Fly back to the Apophyll Academy and make your way east onto the sand strip to re-enter the Fairview Apartments area. Towards the top on the right side underwater you'll find the F10 building which contains the *Beedrillite*! 
 
 ## Neo Azurine Island
