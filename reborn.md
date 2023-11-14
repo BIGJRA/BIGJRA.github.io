@@ -7892,7 +7892,24 @@ To the left is a tile puzzle, which you can play in exchange for 1 Green Shard. 
 
 <img class="tabImage" src="/assets/media/reborn/carracosta.jpg"/>
 
-Winning will reward you a *Cover Fossil*. To the left is another person selling *Ability Capsules* in exchange for 1, then 2, then 3 forevermore of random color shards. 
+Winning will reward you a *Cover Fossil*. Nearby the healing machine is a candy vendor:
+
+**Agate Circus Candy**
+
+|Item               |Price      |
+|-------------------|-----------|
+|*Common Candy*     |$150       |
+|*Red-Hots*         |$850       |
+|*Chewing Gum*      |$800       |
+|*Salt-Water Taffy* |$850       |
+|*Peppermint*       |$600       |
+|*Pop Rocks*        |$750       |
+|*Exp. Candy XS*    |$500       |
+|*Exp. Candy S*     |$2000      |
+|*Exp. Candy M*     |$5000      |
+|*Exp. Candy L*     |$10000     |
+
+To the left is another person selling *Ability Capsules* in exchange for 1, then 2, then 3 forevermore of random color shards. 
 
 **Agate Circus Balloon Shop**
 
@@ -8660,7 +8677,7 @@ On the top there is a ladder that will take us to a different side of the famili
 |Wishiwashi        |30 |Clauncher         |20 |
 |                  |   |Qwilfish          |20 |
 
-Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to to the top right, and surf to the right and grab a hidden *Ultra Ball*. Note that the bottom of this map will lead you out to the cascade we saw earlier, so use this shortcut to heal if you like.
+Hidden on this map are a *Super Potion*, and a *Full Heal*. Cross the ice to the top right, and surf to the right and grab a hidden *Ultra Ball*. Note that the bottom of this map will lead you out to the cascade we saw earlier, so use this shortcut to heal if you like.
 
 Anyways, without Dive and Waterfall there isn't much else to do in Celestinine Mountain 1F, so go up the ladder in the top right corner.
 
@@ -9049,7 +9066,7 @@ Finally, up the hill to the left is the last trainer here.
     - Superpower
     - X-Scissor
 
-Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, *Heart Scale*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of hte map.
+Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of the map.
 
 Enter Calcenon City to the west.
 
@@ -10815,44 +10832,27 @@ Grab the *Pearl* and hidden *Blue Shard* in here, then exit.
 
 Ok, with that out of the way, we can finally begin to explore Neo Reborn City - The entire city actually was renovated while we were away. Neat. Go ahead and fly there. 
 
-If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her, so I will pass on doing so for now. 
+If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her.
 
-Note that there are a ton of sidequests and main quests that will take us all over the city and to other areas beyond, so there isn't really a clean way to cover all of it without a bit of backtracking here and there. For now, I will take us through every ward one-by-one to cover everything we can get right now. Thankfully there are no more cracks in the streets and we can fly to any ward we choose, so that makes it simpler.
+There are a ton of sidequests and main quests that will take us all over the city and to other areas. For now, I will take us through every neo-ward one-by-one to cover everything we can get right now. The streets are now crackless and transportation more seamless due to Fly, so movement around the city is easier.
 
 **Neo Opal Ward**
 
-|Land (Morning/Day)|%  |Land (Night)      |%  |
-|------------------|---|------------------|---|
-|Rattata           |20 |Rattata           |20 |
-|Bidoof            |20 |Meowth            |20 |
-|Patrat            |10 |Spinarak          |10 |
-|Pidgey            |10 |Hoothoot          |10 |
-|Zigzagoon         |10 |Zigzagoon         |10 |
-|Meowth            |10 |**Persian**       |10 |
-|**Raticate**      |5  |**Raticate**      |5  |
-|Pidgeotto         |5  |Noctowl           |5  |
-|Linoone           |4  |Linoone           |5  |
-|Watchog           |4  |Ariados           |5  |
-|**Persian**       |2  |                  |   |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|Land (Morning/Day)|%  |Land (Night)      |%  |Headbutt          |%  |
 |------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |**Kingler**       |40 |
-|                  |   |Corphish          |20 |**Staryu**        |40 |
-|                  |   |Clauncher         |20 |**Crawdaunt**     |15 |
-|                  |   |                  |   |**Clawitzer**     |4  |
-|                  |   |                  |   |**Sharpedo**      |1  |
+|Rattata           |20 |Rattata           |20 |Pineco            |35 |
+|Bidoof            |20 |Meowth            |20 |Spearow           |30 |
+|Patrat            |10 |Spinarak          |10 |Combee            |25 |
+|Pidgey            |10 |Hoothoot          |10 |Fearow            |5  |
+|Zigzagoon         |10 |Zigzagoon         |10 |**Forretress**    |4  |
+|Meowth            |10 |**Persian**       |10 |**Vespiquen**     |1  |
+|**Raticate**      |5  |**Raticate**      |5  |                  |   |
+|Pidgeotto         |5  |Noctowl           |5  |                  |   |
+|Linoone           |4  |Linoone           |5  |                  |   |
+|Watchog           |4  |Ariados           |5  |                  |   |
+|**Persian**       |2  |                  |   |                  |   |
 
-|Water             |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Tentacool         |60 |Pineco            |35 |
-|**Wingull**       |30 |Spearow           |30 |
-|**Tentacruel**    |5  |Combee            |25 |
-|**Pelipper**      |4  |Fearow            |5  |
-|Mantine           |1  |**Forretress**    |4  |
-|                  |   |**Vespiquen**     |1  |
-
-Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super Repel*, and *Hyper Potion*. To access the water part of the ward, enter the area under the bridge via Peridot where we once encountered Pansear / Panpour, then surf down and to the right to emerge. Follow this path through to South Obsidia Ward to get a *White Flute*. 
+Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super Repel*, and *Hyper Potion*. 
 
 ## Neo Peridot Ward
 
@@ -10875,18 +10875,18 @@ That's all for Opal right now, so head west into Peridot.
 
 |Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
 |------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
+|Shellos           |100|Carvanha          |60 |**Kingler**       |40 |
+|                  |   |Corphish          |20 |**Staryu**        |40 |
+|                  |   |Clauncher         |20 |**Crawdaunt**     |15 |
+|                  |   |                  |   |**Clawitzer**     |4  |
+|                  |   |                  |   |**Sharpedo**      |1  |
 
 |Water             |%  |Headbutt Rare     |%  |Headbutt Common   |%  |
 |------------------|---|------------------|---|------------------|---|
 |Tentacool         |60 |Pineco            |65 |Pineco            |65 |
-|Wingull           |30 |Burmy             |25 |Burmy             |25 |
-|Tentacruel        |5  |Wormadam          |5  |Mothim            |5  |
-|Pelipper          |4  |Forretress        |4  |Forretress        |4  |
+|**Wingull**       |30 |Burmy             |25 |Burmy             |25 |
+|**Tentacruel**    |5  |Wormadam          |5  |Mothim            |5  |
+|**Pelipper**      |4  |Forretress        |4  |Forretress        |4  |
 |Mantine           |1  |Mothim            |1  |Wormadam          |1  |
 
 First, head up into the park to the right of the Pokemon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
@@ -10908,9 +10908,31 @@ First, head up into the park to the right of the Pokemon Center to talk to Elder
 
 Hidden here are *Dark Gem*, *Red Shard*, and *Flying Gem*.
 
+Back outside, go to the right towards the underground railroad. Enter the area under the bridge and surf down and to the right to emerge onto the water in Opal Ward.
+
+**Neo Opal Ward / Neo South Obsidia Ward**
+
+|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
+|------------------|---|------------------|---|------------------|---|
+|Shellos           |100|Carvanha          |60 |Kingler           |40 |
+|                  |   |Corphish          |20 |Staryu            |40 |
+|                  |   |Clauncher         |20 |Crawdaunt         |15 |
+|                  |   |                  |   |Clawitzer         |4  |
+|                  |   |                  |   |Sharpedo          |1  |
+
+|Water             |%  |
+|------------------|---|
+|Tentacool         |60 |
+|Wingull           |30 |
+|Tentacruel        |5  |
+|Pelipper          |4  |
+|Mantine           |1  |
+
+Follow this path through to South Obsidia Ward to get a *White Flute*. Return to Peridot. 
+
 Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poke Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
 
-In the former Mosswater Factory there is now a market.
+In the plot of the former Mosswater Factory there is now a market.
 
 **Mosswater Market Move Tutor: Max**
 
@@ -10936,13 +10958,13 @@ There is also a guy selling a new item that will allow you to move all EV's from
 
 |Item           |Price      |
 |---------------|-----------|
-|5x EV Tuners   |$40000     |
+|5x *EV Tuners* |$40000     |
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*. 
 
-Outside her house and down, there is a tent. Hidden underneath this tent is an NPC who will give you the *Expert Belt*. I have played this game many times and only just learned about this.
+Outside her house and down, there is a tent. Hidden underneath this tent is an NPC who will give you the *Expert Belt*. I have played this game many times and only recently learned about this.
 
-Enter the building that Simon is in and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
+Enter the building that Simon is in, to the east of the Industrial Factory, and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
 
 Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained Muk, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
 
@@ -10988,7 +11010,21 @@ That wraps up Peridot, so head into Neo Jasper Ward.
 
 Hidden in the ward you'll find a *Cheri Berry*, *Rawst Berry*, and *Grass Gem*. 
 
-Inside the police station, talk to the chief to continue the stolen Pokemon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight. We'll find the other two later.
+Inside the police station, talk to the chief to continue the stolen Pokemon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight.
+
+**Casanova Carmen. Field: No Field**
+- Persian-Alola, Lv. 74, @Wise Glasses, Ability: Fur Coat, Modest Nature, IVs: 31
+    - Power Gem
+    - Nasty Plot
+    - Thunderbolt
+    - Dark Pulse
+- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31
+    - Substitute
+    - Thunder Wave
+    - Swagger
+    - Foul Play
+
+We'll find the other two later.
 
 Enter Malchous Forest to the left. 
 
@@ -11013,7 +11049,19 @@ Later on, we'll need a Male Lurantis and a Female Lurantis for a quest, so it mi
 
 You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. Make sure you don't sell the former. The abandoned gym has been replaced with soft soil to grow berries in. To start, you can get *4 Enigma Berries*, *4 Starf Berries*, *2 Aguav Berries*, *2 Mago Berries*, *2 Micle Berries*, *2 Iapapa Berries*, *2 Figy Berries*, a *Leppa Berry*, and a *Wiki Berry*.
 
-You'll also find another guy who looks like Corin Rouge you can fight in the Forest Park!
+On the south side of the Forest Park, you'll also find another guy who looks like Corin Rouge!
+
+**Casanova Claret. Field: Forest Field**
+- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Jolly Nature, IVs: 31
+    - Dark Pulse
+    - Flamethrower
+    - Focus Blast
+    - Nasty Plot
+- Ninetales, Lv. 76, @Heat Rock, Ability: Drought, Modest Nature, IVs: 31
+    - Solar Beam
+    - Heat Wave
+    - Nasty Plot
+    - Dark Pulse
 
 ## Neo Beryl Ward
 
@@ -11173,7 +11221,7 @@ Make your way down to Seventh Street. There is a new move tutor here - the guy w
 
 Enter the watering hole and go down the now-open ladder. This is a shortcut to the Water Treatment Center and also contains a *Black Flute*. 
 
-You can also talk to your gang leader to learn the purpose of the applications, but regardless of your gang you can't complete this quest yet, so we'll come back later.
+You can also talk to your gang leader to learn the purpose of the applications we've been collecting. Regardless of your gang choice, you can't complete this quest yet, so we'll come back later.
 
 ## Neo North Obsidia Ward
 
@@ -11197,7 +11245,7 @@ Pop back up in Lapis and head east into North Obsidia.
 
 Talk to the girl outside the nightclub to get a *Nightclub Application*. 
 
-Enter the Spyce restaurant on the right. At the counter you can grab a *Spyce Application*. Once the chef pops out of the kitchen, talk to him to begin the chef's quest. He'll ask us to bring the following items: Honey, Tiny Mushroom, Balm Mushroom, Slowpoke Tail, White Herb, Stick, Sweet Heart, Moomoo Milk, Energy Root, Custap Berry,  Whipped Dream, and Shoal Salt. A few of these we may not have quite yet, so I will return in a bit to finish this quest. 
+Enter the Spyce restaurant on the right. At the counter you can grab a *Spyce Application*. Once the chef pops out of the kitchen, talk to him to begin the chef's quest. He'll ask us to bring the following items: Honey, Tiny Mushroom, Balm Mushroom, Slowpoke Tail, White Herb, Stick, Sweet Heart, Moomoo Milk, Energy Root, Custap Berry, Whipped Dream, and Shoal Salt. A few of these we don't yet have.
 
 Enter the North Obsidia Alleyway next. 
 
@@ -11394,23 +11442,6 @@ Head into South Obsidia.
 |Lopunny           |4  |Vigoroth          |2  |Roselia           |4  |
 |Vigoroth          |2  |                  |   |Venomoth          |2  |
 
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Water             |%  |
-|------------------|---|
-|Tentacool         |60 |
-|Wingull           |30 |
-|Tentacruel        |5  |
-|Pelipper          |4  |
-|Mantine           |1  |
-
-
 You'll be able to find hidden *PP Up* and *Blue Shard* in the ward. You can also enter the Glamazonia Salon to get a *Glamazonia Application*. 
 
 Go south into Coral. 
@@ -11463,7 +11494,49 @@ Once you succeed, you'll get the *Fairy Tale Field Readout*.
 
 Talk to one of the fisherman at the bottom of Coral Ward and agree to buy the *Slowpoke Tail* for the ridiculous price. Once he learns you're doing it for Spyce, you'll get it for free. 
 
-Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. Behind the bottom lighthouse is a hidden dive spot. 
+Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. From bottom to top:
+
+**Swimmer Owen. Field: Water Surface**
+- Wailord, Lv. 72, @Leftovers, Ability: Pressure, Serious Nature, IVs: 10
+    - Aqua Ring
+    - Protect
+    - Surf
+    - Water Spout
+- Walrein, Lv. 72, @Leftovers, Ability: Thick Fat, Serious Nature, IVs: 10
+    - Surf
+    - Ice Beam
+    - Toxic
+    - Protect
+- Whiscash, Lv. 73, @Leftovers, Ability: Hydration, Serious Nature, IVs: 10
+    - Bounce
+    - Dragon Dance
+    - Waterfall
+    - Spark
+
+**Swimmer Aidan. Field: Water Surface**
+- Slowbro, Lv. 73, @Elemental Seed, Ability: Regenerator, Calm Nature, IVs: 20
+    - Ice Beam
+    - Surf
+    - Slack Off
+    - Psyshock
+- Cloyster, Lv. 72, @White Herb, Ability: Skill Link, Serious Nature, IVs: 20
+    - Shell Smash
+    - Icicle Spear
+    - Rock Blast
+    - Surf
+- Vaporeon, Lv. 73, @Elemental Seed, Ability: Hydration, Bold Nature, IVs: 20
+    - Wish
+    - Surf
+    - Ice Beam
+    - Yawn
+
+**Fisherman Jacob. Field: Misty Terrain**
+- Dhelmise, Lv. 70, Serious Nature, IVs: 10
+- Magnezone, Lv. 71, Serious Nature, IVs: 10
+- Hariyama, Lv. 72, Serious Nature, IVs: 10
+- Raichu-Alola, Lv. 72, Serious Nature, IVs: 10
+
+Behind the bottom lighthouse is a hidden dive spot. 
 
 **Coral Ward Underwater, Azurine Lake Diving Interiors**
 
@@ -11581,7 +11654,7 @@ Towards the top of the ground floor you'll see a new entrance to a gift shop.
 |*Root Fossil*      |$9800      |
 |*Skull Fossil*     |$9800      |
 
-We also got a couple fossils while we were away - meaning we can now get the other one of  **Archen** or **Tirtouga** as well as **Aerodactyl**! 
+We also got a couple fossils while we were away - meaning upstairs we can now get the other one of **Archen** or **Tirtouga** as well as **Aerodactyl**! 
 
 Make your way down to Chrysolia Forest and enter the Chrysolia Spring. 
 
@@ -11626,29 +11699,55 @@ Head up and grab the *Exp. Candy XL*. Next, go all the way down and take the lar
 
 Essentially, this single boulder in the center can solve four different puzzles, each in a different corner of this room. 
 
-I will start with the top left direction. For this direction, you'll essentially need to push this boulder onto the nearby water stream... but despite being only 2 tiles away, we will need to push it the long way all the way around the lake here. Note that as you push the boulder, it will block your path at various points, and if you can't access the direction you need to push the boulder from, try surfing around to get it. Note that you can push it while you're surfing next to it, but can't push it into the surf water.
+I will start with the top left direction. For this direction, you'll essentially need to push this boulder onto the nearby water stream... but despite being only 2 tiles away, we will need to push it the long way all the way around the lake here. 
 
-This area contains a hidden *Elixir*, *Green Shard*, and *Rock Gem*. Once you successfully push the boulder into the final spot, step onto the tall water jet to return to 1F. You can get a hidden *Water Gem* here. Push the boulder in the top right corner onto the jet in the bottom left corner, then hop up the ledge and enter the cave. 
+The boulder's path should look like the following, just note that you'll need to surf to reach certain positions to continue its progress. You can push it while it's on land and you're on the water.
+
+<img class="tabImage" src="/assets/media/reborn/spring_b1nw.png"/>
+
+This area contains a hidden *Elixir*, *Green Shard*, and *Rock Gem*. Once you successfully push the boulder into the final spot, step onto the tall water jet to return to 1F. 
+
+You can get a hidden *Water Gem* here. Push the boulder in the top right corner onto the jet in the bottom left corner, then hop up the ledge and enter the cave. 
+
+<img class="tabImage" src="/assets/media/reborn/spring_1fnw.png"/>
 
 Inside the sauna, if you want, you can blow away the steam with a wind-based move, but it's not necessary other than for visibility. You can get an *Exp. Candy XL*, *Timid Mint*, and the *Cameruptite* in here.
 
-Make your way back to B1F, this time doing the bottom left direction with the boulder. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
+Make your way back to B1F. This time, push the boulder in the bottom left direction. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
 
-In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole, get the hidden *Red Shard*, then go into the sauna. 
+<img class="tabImage" src="/assets/media/reborn/spring_1fnw.png"/>
 
-Grab the *Modest Mint*. There are three jets in this room - the bottom one is inaccessible by boulders. Push the two boulders onto the other two, then go up the tall jet. Grab the *Exp. Candy XL* and *TM50 Overheat* here.
+In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole.
 
-Return to B1F, this time doing the top right direction with the boulder. Grab the hidden *Water Gem* here. You'll need to temporarily push the boulder up, surf across, and move another boulder out of the way in order to push the boulder down and onto the jet. 
+<img class="tabImage" src="/assets/media/reborn/spring_1fsw.png"/>
 
-On 1F, grab the hidden *Dusk Ball*. Essentially 5 of these boulders are duds, and you'll need to get them out of the way of the single boulder that you can move onto the jet. Of the bottom right pair, it is the left one. Once you get it into place go up the jet and follow the path to the sauna.
+Get the hidden *Red Shard*, then go into the nearby sauna. Grab the *Modest Mint* and hidden *Elixir*. There are three jets in this room - the bottom one is inaccessible by boulders. Push the two boulders onto the other two, then go up the tall jet. Grab the *Exp. Candy XL* and *TM50 Overheat* here.
+
+<img class="tabImage" src="/assets/media/reborn/spring_b2sw.png"/>
+
+Return to B1F, this time pushing the boulder in the top right direction. Grab the hidden *Water Gem* here. You'll need to temporarily push the boulder up, surf across, and move another boulder out of the way in order to push the boulder down and onto the jet. 
+
+<img class="tabImage" src="/assets/media/reborn/spring_b1ne.png"/>
+
+On 1F, grab the hidden *Dusk Ball*. Essentially 5 of these boulders are duds (in blue), and you'll need to get them out of the way of the single boulder (in green) that you can move onto the jet. Of the bottom right pair, it is the left one. Once you get it into place go up the jet and follow the path to the sauna.
+
+<img class="tabImage" src="/assets/media/reborn/spring_1fne.png"/>
 
 In here, you can get a *Jolly Mint*, *Red Flute*, *Big Nugget*, and *Exp. Candy XL*. 
 
-Make your way back to B1F, and finally push the boulder in the bottom right direction. You'll find a hidden *Big Pearl* and *Flame Plate* in this area. This puzzle should be straightforward by now, just note that you'll need to at some point surf across the rightmost pond and push the second boulder right to clear the path. Use the big jet to reach 1F.
+Make your way back to B1F, and finally push the boulder in the bottom right direction. You'll find a hidden *Big Pearl* and *Flame Plate* in this area. This puzzle should be straightforward by now, just note that you'll need to at some point surf across the rightmost pond and push the second boulder right to clear the path - see the yellow line. Use the big jet to reach 1F.
+
+<img class="tabImage" src="/assets/media/reborn/spring_b1se.png"/>
 
 Up here, you can get a hidden *Awakening*. To finish this puzzle, you'll need to push the boulder counter-clockwise around this area to reach the jet. Follow the path to the final sauna. 
 
-This room has a lot of ledges, and is a bit chaotic. Clear the fog if you're confused. You'll find an *Exp. Candy XL*, *Adamant Mint*, *TM61 Will-o-Wisp*, as well as a hidden *Fire Gem*. Exit the Chrysolia Spring once you're done. 
+<img class="tabImage" src="/assets/media/reborn/spring_1fse.png"/>
+
+This room has a lot of ledges, and is a bit chaotic. You'll find an *Exp. Candy XL*, *Adamant Mint*, *TM61 Will-o-Wisp*, as well as a hidden *Fire Gem*. 
+
+<img class="tabImage" src="/assets/media/reborn/spring_b2se.png"/>
+
+Exit the Chrysolia Spring once you're done. 
 
 ## Iolia Valley & Aventurine Woods Water Exploration
 
@@ -11662,7 +11761,7 @@ Fly on over to the Vanhanen Castle and make your way to the Iolia Valley.
 |Lumineon          |30 |Luvdisc           |40 |
 |Seaking           |6  |Dewgong           |20 |
 
-Climb the waterfall at the top of the area, grab the hidden *Nugget*, and follow the path to get a *Dark Material*. Next, surf your way all the way down the valley. Use the green crystal beneath the waterfall to get *TM89 U-Turn*. 
+Climb the waterfall at the top of the area, grab the hidden *Nugget*, and follow the path to get a *Dark Material*. Next, surf your way all the way down the river in the valley. Use the green crystal beneath the waterfall to get *TM89 U-Turn*. 
 
 Exit the valley and return to Route 1. Grab a Tauros and head into the top right North Aventurine Woods entrance. 
 
@@ -11697,7 +11796,53 @@ Head down into the meditation spot where we once met Kiki.
 |Graveler          |4  |
 |**Barbaracle**    |1  |
 
-You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give candy when you beat them. Head up to the area surrounding the academy.
+You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give 8 *Exp Candy XL* when you beat them. 
+
+**Battle Girl Akane. Field: Ashen Beach**
+- Medicham, Lv. 75, Ability: Pure Power, Bashful Nature, IVs: 15
+    - High Jump Kick
+    - Zen Headbutt
+    - Bullet Punch
+    - Ice Punch
+- Blaziken, Lv. 75, Ability: Speed Boost, Quirky Nature, IVs: 15
+    - Flare Blitz
+    - Earthquake
+    - Poison Jab
+    - Low Kick
+- Lucario, Lv. 75, Ability: Inner Focus, Serious Nature, IVs: 15
+    - Calm Mind
+    - Aura Sphere
+    - Psychic
+    - Flash Cannon
+- Raichu, Lv. 75, Ability: Lightning Rod, Docile Nature, IVs: 15
+    - Psychic
+    - Thunderbolt
+    - Focus Blast
+    - Hidden Power
+
+**Black Belt Nathaniel. Field: Ashen Beach**
+- Politoed, Lv. 75, Ability: Drizzle, Bashful Nature, IVs: 15
+    - Surf
+    - Focus Blast
+    - Hypnosis
+    - Ice Beam
+- Ampharos, Lv. 75, Ability: Static, Quirky Nature, IVs: 15
+    - Thunder
+    - Dragon Pulse
+    - Thunder Wave
+    - Focus Blast
+- Poliwrath, Lv. 75, Ability: Swift Swim, Serious Nature, IVs: 15
+    - Waterfall
+    - Brick Break
+    - Poison Jab
+    - Throat Chop
+- Toxicroak, Lv. 75, Ability: Dry Skin, Docile Nature, IVs: 15
+    - Sucker Punch
+    - Poison Jab
+    - Meditate
+    - Low Sweep
+
+Head up to the area surrounding the academy.
 
 **Neo Apophyll Beach / Azurine Lake**
 
@@ -24660,7 +24805,7 @@ Once you win, accept the fast travel request to return to the Nightclub. Now tha
 
 Oh, and there's one more thing we can do. Head over to talk to Bee in Agate City. 
 
-We'll learn that she wants to see all of the Ultra Beasts. If you've gotten Nihilego, Buzzwole, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Blacephalon, Poipole, Naganadel, Stakataka, and Blacephalon, talk to her to get the *Ultranecrozium-Z*! 
+We'll learn that she wants to see all of the Ultra Beasts. If you've gotten Nihilego, Buzzwole, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Poipole, Naganadel, Stakataka, and Blacephalon, talk to her to get the *Ultranecrozium-Z*! 
 
 She'll tell us what she wants to see next - full Pokedex completion. If you've been keeping up with the guide so far, we'll already be 806/807 of the way there... so we'll return soon, don't worry.
 
