@@ -5219,6 +5219,23 @@
     - Dragon Claw
     - Earthquake
 
+**Guitarist McKrezzy. Field: **
+- Leavanny, Lv. 120, @Life Orb, Ability: Chlorophyll, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - X-Scissor
+    - Nature Power
+    - Leaf Blade
+    - Knock Off
+- Kommo-o, Lv. 120, @Kommonium-Z, Ability: Soundproof, Rash Nature, IVs: 31, EVs: 4/252/0/0/0/252
+    - Clanging Scales
+    - Ice Punch
+    - Close Combat
+    - Poison Jab
+- Exploud, Lv. 120, @Life Orb, Ability: Scrappy, Modest Nature, IVs: 31, EVs: 0/252/0/0/4/252
+    - Boomburst
+    - Fire Blast
+    - Surf
+    - Shadow Ball
+
 **Cheer Captain Julia. Field: **
 - Galvantula, Lv. 120, @Life Orb, Ability: Compound Eyes, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Sticky Web
