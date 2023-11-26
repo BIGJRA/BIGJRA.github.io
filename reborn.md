@@ -11966,7 +11966,7 @@ Make your way to the very bottom of the underwater area and use your new key on 
 
 That wraps up this section of the lake for now. Fly over to Coral Ward and surf west. 
 
-<img class="tabImage" src="/assets/media/reborn/azurine_536_1.png"/>
+<img class="tabImage" src="/assets/media/reborn/azurine_556_1.png"/>
 
 Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
@@ -12105,7 +12105,7 @@ Battle the trainers as you proceed down and right. Once you encounter a fork in 
 
 You'll be spit out right next to Apophyll Cave. Notice that there is a small path (14) you can surf through to go up from here, so take it. 
 
-<img class="tabImage" src="/assets/media/reborn/azurine_530_2.png"/>
+<img class="tabImage" src="/assets/media/reborn/azurine_522_2.png"/>
 
 At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island. 
 
@@ -12231,19 +12231,87 @@ Note that there are many Foongus and Amoonguss disguised as items, but fighting 
 
 Just for fun, I will change it up and do a counter-clockwise spiral inwards this time to get all the items.
 
-Snag a *Tiny Mushroom* and hidden *Clever Wing* on the first island. Surfing to the left you can get a hidden *Big Mushroom*. Surf down from here and pick up the *Tiny Mushroom* towards the bottom left side of the area. Another *Tiny Mushroom* is to the right, and yet another *Tiny Mushroom* past the building to the right. You'll also find a hidden *X Sp. Def* here.Continuing our trip around the outside, you'll find a hidden *Elemental Seed* in a shrub. Above you can get a hidden *Blue Shard*. Towards the top of the loop, you can get a *Tiny Mushroom* and a hidden *Telluric Seed*.
+Snag a *Tiny Mushroom* and hidden *Clever Wing* on the first island. Surfing to the left you can get a hidden *Big Mushroom*. Surf down from here and pick up the *Tiny Mushroom* towards the bottom left side of the area. Another *Tiny Mushroom* is to the right, and yet another *Tiny Mushroom* past the building to the right. You'll also find a hidden *X Sp. Def* here. Continuing our trip around the outside, you'll find a hidden *Elemental Seed* in a shrub. Above you can get a hidden *Blue Shard*. Towards the top of the loop, you can get a *Tiny Mushroom* and a hidden *Telluric Seed*.
 
-Now, head down to the middle island and cut the tree. Follow the path right and defeat the Foongus and jump down the ledge. To the right you'll find a hidden *Resist Wing*. Head right more from here and surf down, defeating Foongus as you go. Head left from here. Pick up a *Tiny Mushroom* as well as a hidden *Tiny Mushroom* to the left in a rock. Left from here is a hidden *Repel*. That does it for this island, for now.
+Now, head down to the middle island and cut the tree. Follow the path right, defeat the Foongus, and jump down the ledge. To the right you'll find a hidden *Resist Wing*. Head right more from here and surf down, defeating Foongus as you go. Head left from here. Pick up a *Tiny Mushroom* as well as a hidden *Tiny Mushroom* to the left in a rock. Left from here is a hidden *Repel*. That does it for this island, for now.
 
 ## Trading Sequence Quest
 
 Now, it's time to do something with the Diamond Ring we found underwater. Fly over to Jasper Ward and enter the top left building. Inside, give the girl here the ring we found to get the *Classified Information*. 
 
-Next, head over to Peridot Ward and enter the building to the left of the North Peridot Alley. Defeat the cop inside and after a conversation you'll get the *Pink Pearl*. Grab the *Mind Plate* behind.
+Next, head over to Peridot Ward and enter the building to the left of the North Peridot Alley.
+
+**Police Officer Seer. Field: No Field**
+- Toxicroak, Lv. 73, Ability: Dry Skin, Adamant Nature, IVs: 31
+    - Sucker Punch
+    - Drain Punch
+    - Poison Jab
+    - Ice Punch
+- Stoutland, Lv. 74, @Sitrus Berry, Ability: Intimidate, Adamant Nature, IVs: 31
+    - Crunch
+    - Play Rough
+    - Yawn
+    - Giga Impact
+- Arcanine, Lv. 76, @Power Herb, Ability: Flash Fire, Modest Nature, IVs: 31
+    - Solar Beam
+    - Flamethrower
+    - Dragon Pulse
+    - Hidden Power
+- Machamp, Lv. 76, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31
+    - Dynamic Punch
+    - Knock Off
+    - Stone Edge
+    - Poison Jab
+
+Defeat the cop inside and after a conversation you'll get the *Pink Pearl*. Grab the *Mind Plate* behind.
 
 Fly over to Coral Ward and enter the northern warehouse. Talk to the girl with Spoink to get the *Crystal Ball*. 
 
-Fly over to Jasper once more and attempt to enter the building on the right side of the area. Defeat the two trainers who challenge you, then enter the building. In the room at the top you can get a *Yellow Flute* and the *Starlight Arena Field Readout*. Head upstairs and talk to the lady to get the *'R' Key*! You can also talk to her again for some lore.
+Fly over to Jasper once more and attempt to enter the building on the right side of the area. 
+
+**Ace Trainer Mattie & Ace Trainer Maddie. Field: No Field**
+- Ampharos, Lv. 73, @Light Clay, Ability: Static, Modest Nature, IVs: 31
+    - Thunder
+    - Signal Beam
+    - Dragon Pulse
+    - Light Screen
+- Dhelmise, Lv. 73, Ability: Steelworker, Jolly Nature, IVs: 31
+    - Anchor Shot
+    - Power Whip
+    - Rock Slide
+    - Phantom Force
+- Slowking, Lv. 74, Ability: Regenerator, Modest Nature, IVs: 31
+    - Scald
+    - Fire Blast
+    - Icy Wind
+    - Slack Off
+- Typhlosion, Lv. 76, @Sitrus Berry, Ability: Flash Fire, Timid Nature, IVs: 31
+    - Eruption
+    - Heat Wave
+    - Rock Slide
+    - Extrasensory
+- Absol, Lv. 73, @White Herb, Ability: Super Luck, Adamant Nature, IVs: 31
+    - Sucker Punch
+    - Play Rough
+    - Fire Blast
+    - Superpower
+- Kabutops, Lv. 73, @Focus Sash, Ability: Weak Armor, Adamant Nature, IVs: 31
+    - Rock Slide
+    - Waterfall
+    - Knock Off
+    - X-Scissor
+- Golurk, Lv. 74, Ability: No Guard, Adamant Nature, IVs: 31
+    - Rock Slide
+    - Dynamic Punch
+    - Ice Punch
+    - Hammer Arm
+- Infernape, Lv. 76, @Sitrus Berry, Ability: Blaze, Adamant Nature, IVs: 31
+    - Close Combat
+    - Rock Slide
+    - Flare Blitz
+    - Acrobatics
+
+Defeat the two trainers who challenge you, then enter the building. In the room at the top you can get a *Yellow Flute* and the *Starlight Arena Field Readout*. Head upstairs and talk to the lady to get the *'R' Key*! You can also talk to her again for some lore.
 
 Head into the Blacksteam Shelter in Peridot Ward. In the room where we were once stuck in a cage, talk to Randall and return his key. In return, you'll get his **Klefki**!
 
@@ -12336,7 +12404,7 @@ Fly over to the Byxbysion Wasteland. Inside the hideout, drop all but 1 Pokemon 
 
 Talk to the malfunctioning healing machine and plug in a data chip to fix it. Heal at this machine.
 
-Fly over to Route 1 Nature Center and defeat a Bouffalant to climb a Tauros. Next, you'll need to white out while riding Tauros - fighting another Tauros or Bouffalant may make this easier.
+Fly over to Route 1 Nature Center and defeat a Bouffalant to climb a Tauros. Next, you'll need to white out while riding Tauros.
 
 Once you reappear in Lana's house... you'll somehow still be on your Tauros, but I assure you this is not a bug but a feature. 
 
@@ -12352,9 +12420,28 @@ There's one more major quest that we can take care of! If we skip this section a
 
 Head over to the Nightclub in North Obsidia. You'll see DJ Arclight inside if you've bought all of the Pokemon from the Seventh Street Pokemon seller. If not, now's a good time to get them all. Anyways, we'll be tasked with returning five of the Pokemon that we found then.
 
-Head to Jasper Ward and take the Loudred out of the PC. Talk to the person in the bottom left two times and she will take back her Loudred.
+Head to Jasper Ward and take the Loudred out of the PC. Talk to a girl in the bottom left building two times and she will take back her Loudred.
 
-Next, take Jigglypuff out of the PC and head over to the North Peridot Alley. Talk to the bottom guy a few times and defeat him in battle. Afterwards, return to the Jasper Ward and give the Jigglypuff to the Loudred girl.
+Next, take Jigglypuff out of the PC and head over to the North Peridot Alley. Talk to the bottom guy a few times.
+
+**Q Gang Santiago. Field: No Field**
+- Azumarill, Lv. 79, Ability: Huge Power, Adamant Nature, IVs: 31
+    - Aqua Jet
+    - Play Rough
+    - Belly Drum
+    - Waterfall
+- Sylveon, Lv. 80, Ability: Pixilate, Modest Nature, IVs: 31
+    - Hyper Voice
+    - Wish
+    - Shadow Ball
+    - Hidden Power
+- Lopunny, Lv. 82, @Sitrus Berry, Ability: Limber, Jolly Nature, IVs: 31
+    - Power-Up Punch
+    - High Jump Kick
+    - Ice Punch
+    - Bounce
+
+After defeating him, return to the Jasper Ward and give the Jigglypuff to the Loudred girl.
 
 Fly over to the Apophyll Academy and get Makuhita out of the PC next. Talk to the girl in the middle of the rooms on the left side of the outside area. Fly back to North Obsidia and talk to Arc to get the *DJ Arc Autograph* and give it to the girl at Apophyll. Talk to her again to give her Makuhita, then once more after that.
 
@@ -12490,11 +12577,221 @@ Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the
 - Battle with Victoria in the Devon Basement (+1 Victoria)
 - Battle with Arclight in the Devon Basement (+1 Arclight)
 
+**New World Orderly Allyssa & New World Orderly Bishop. Field: Factory Field**
+- Grumpig, Lv. 73, Ability: Thick Fat, Serious Nature, IVs: 10
+    - Teeter Dance
+    - Icy Wind
+    - Light Screen
+    - Reflect
+- Shiinotic, Lv. 74, Ability: Effect Spore, Serious Nature, IVs: 10
+    - Spotlight
+    - Strength Sap
+    - Dazzling Gleam
+    - Spore
+- Tentacruel, Lv. 75, Ability: Liquid Ooze, Serious Nature, IVs: 10
+    - Hydro Pump
+    - Sludge Wave
+    - Ice Beam
+    - Dazzling Gleam
+- Alakazam, Lv. 75, Ability: Magic Guard, Serious Nature, IVs: 10
+    - Dazzling Gleam
+    - Psychic
+    - Charge Beam
+    - Focus Blast
+- Goodra, Lv. 75, Ability: Sap Sipper, Serious Nature, IVs: 10
+    - Draco Meteor
+    - Fire Blast
+    - Thunderbolt
+    - Sludge Wave
+- Clefable, Lv. 73, Ability: Magic Guard, Serious Nature, IVs: 10
+    - Metronome
+    - Dazzling Gleam
+    - Lucky Chant
+    - Follow Me
+- Persian, Lv. 73, Ability: Limber, Serious Nature, IVs: 10
+    - Icy Wind
+    - Dark Pulse
+    - Thunderbolt
+    - Power Gem
+- Durant, Lv. 74, Ability: Hustle, Serious Nature, IVs: 10
+    - Rock Slide
+    - Iron Head
+    - X-Scissor
+    - Crunch
+- Golurk, Lv. 75, Ability: No Guard, Serious Nature, IVs: 10
+    - Dynamic Punch
+    - Bulldoze
+    - Rock Slide
+    - Heavy Slam
+- Ribombee, Lv. 75, Ability: Shield Dust, Serious Nature, IVs: 10
+    - Moonblast
+    - Bug Buzz
+    - Psychic
+    - Quiver Dance
+
 We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*. 
 
-Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles.
+Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles. That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. 
 
-That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage. Scale the building until you find yourself in a strange new place.
+**New World Orderly Howaya & New World Orderly Callie. Field: Factory Field**
+- Ludicolo, Lv. 74, Ability: Swift Swim, Serious Nature, IVs: 10
+    - Rain Dance
+    - Giga Drain
+    - Scald
+    - Ice Beam
+- Lapras, Lv. 74, Ability: Water Absorb, Serious Nature, IVs: 10
+    - Smart Strike
+    - Dragon Dance
+    - Waterfall
+    - Ice Shard
+- Magneton, Lv. 75, Ability: Sturdy, Serious Nature, IVs: 10
+    - Thunder
+    - Flash Cannon
+    - Electric Terrain
+    - Explosion
+- Lanturn, Lv. 73, Ability: Volt Absorb, Serious Nature, IVs: 10
+    - Thunder
+    - Icy Wind
+    - Surf
+    - Dazzling Gleam
+- Porygon-Z, Lv. 74, Ability: Adaptability, Serious Nature, IVs: 10
+    - Thunderbolt
+    - Ice Beam
+    - Tri Attack
+    - Dark Pulse
+- Dugtrio-Alola, Lv. 75, Ability: Tangling Hair, Serious Nature, IVs: 10
+    - Earthquake
+    - Iron Head
+    - Sucker Punch
+    - Rock Slide
+- Hypno, Lv. 74, Ability: Inner Focus, Serious Nature, IVs: 10
+    - Trick Room
+    - Dazzling Gleam
+    - Psychic
+    - Assist
+- Skuntank, Lv. 74, Ability: Aftermath, Serious Nature, IVs: 10
+    - Explosion
+    - Flame Burst
+    - Poison Gas
+    - Smog
+- Crawdaunt, Lv. 75, Ability: Adaptability, Serious Nature, IVs: 10
+    - Crabhammer
+    - Night Slash
+    - Icy Wind
+    - Surf
+- Florges, Lv. 75, Ability: Flower Veil, Serious Nature, IVs: 10
+    - Moonblast
+    - Petal Dance
+    - Synthesis
+    - Attract    
+
+**New World Orderly Ramsey & New World Orderly Danielle. Field: Factory Field**
+- Magneton, Lv. 75, Ability: Sturdy, Serious Nature, IVs: 10
+    - Electric Terrain
+    - Magnet Bomb
+    - Discharge
+    - Flash Cannon
+- Raichu, Lv. 74, Ability: Lightning Rod, Serious Nature, IVs: 10
+    - Nasty Plot
+    - Discharge
+    - Hidden Power
+    - Focus Blast
+- Reuniclus, Lv. 74, Ability: Magic Guard, Serious Nature, IVs: 10
+    - Energy Ball
+    - Focus Blast
+    - Psyshock
+    - Recover
+- Beheeyem, Lv. 76, Ability: Synchronize, Serious Nature, IVs: 10
+    - Trick Room
+    - Energy Ball
+    - Psychic
+    - Signal Beam
+- Blissey, Lv. 75, Ability: Serene Grace, Serious Nature, IVs: 10
+    - Soft-Boiled
+    - Toxic
+    - Seismic Toss
+    - Hyper Voice
+- Slowbro, Lv. 74, Ability: Own Tempo, Serious Nature, IVs: 10
+    - Surf
+    - Psyshock
+    - Flamethrower
+    - Bulldoze
+- Sigilyph, Lv. 74, Ability: Magic Guard, Serious Nature, IVs: 10
+    - Psychic
+    - Dazzling Gleam
+    - Ancient Power
+    - Air Slash
+- Probopass, Lv. 76, Ability: Sturdy, Serious Nature, IVs: 10
+    - Discharge
+    - Zap Cannon
+    - Rock Slide
+    - Bulldoze
+- Empoleon, Lv. 76, Ability: Defiant, Serious Nature, IVs: 10
+    - Surf
+    - Flash Cannon
+    - Icy Wind
+    - Mist
+- Kingdra, Lv. 75, Serious Nature, IVs: 10
+    - Surf
+    - Dragon Pulse
+    - Dragon Dance
+    - Ice Beam    
+
+**New World Orderly Roth. Field: Factory Field**
+- Cloyster, Lv. 73, Ability: Skill Link, Serious Nature, IVs: 10
+    - Shell Smash
+    - Icicle Spear
+    - Rock Blast
+    - Hydro Pump
+- Heracross, Lv. 74, Ability: Moxie, Serious Nature, IVs: 10
+    - Stone Edge
+    - Earthquake
+    - Megahorn
+    - Close Combat
+- Zebstrika, Lv. 74, Ability: Sap Sipper, Serious Nature, IVs: 10
+    - Thunderbolt
+    - Overheat
+    - Hidden Power
+    - Signal Beam
+- Klinklang, Lv. 74, Ability: Plus, Serious Nature, IVs: 10
+    - Gear Grind
+    - Shift Gear
+    - Wild Charge
+    - Return
+- Gardevoir, Lv. 75, Ability: Synchronize, Serious Nature, IVs: 10
+    - Shadow Ball
+    - Moonblast
+    - Psyshock
+    - Thunderbolt
+
+**New World Orderly David. Field: Factory Field**
+- Ferrothorn, Lv. 73, Ability: Iron Barbs, Serious Nature, IVs: 10
+    - Gyro Ball
+    - Power Whip
+    - Curse
+    - Nature Power
+- Jumpluff, Lv. 74, Ability: Leaf Guard, Serious Nature, IVs: 10
+    - Leech Seed
+    - Substitute
+    - Sleep Powder
+    - Energy Ball
+- Gastrodon, Lv. 74, Ability: Storm Drain, Serious Nature, IVs: 10
+    - Blizzard
+    - Recover
+    - Muddy Water
+    - Infestation
+- Luxray, Lv. 74, Ability: Intimidate, Serious Nature, IVs: 10
+    - Superpower
+    - Ice Fang
+    - Wild Charge
+    - Throat Chop
+- Flygon, Lv. 75, Ability: Levitate, Serious Nature, IVs: 10
+    - Throat Chop
+    - Earthquake
+    - Rock Slide
+    - Dragon Rush    
+
+Scale the building until you find yourself in a strange new place.
 
 Heal and prepare your team as necessary, then proceed to the right.
 
@@ -12530,17 +12827,25 @@ Heal and prepare your team as necessary, then proceed to the right.
     - Flare Blitz
     - Outrage
 
-Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. By now you're probably well acquainted with the Factory Field by this point so you can exploit that to win if you're stuck, or really just overwhelm her with a coherent singles strategy like Trick Room or setting up a sweeper.
+Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplified Rock + Trick Room or a set-up sweeper with speed support.
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
-Activate the first monitor, then go up and activate the monitor above. Use the purple pads to go back down and reactivate the first monitor, then go left. You'll be forced up, so activate the nearby monitor but then go towards the right.
+<img class="tabImage" src="/assets/media/reborn/devon_001.png"/>
 
-Once you enter the maxeline section, go up as soon as you are able, then go right. Heal if you want then go up, down, and right to reach another panel. Activate it.
+Activate monitor #1, then go up and activate monitor #2 above. Use the purple pads to go back down and reactivate monitor #1, then go left. You'll be forced up here: activate monitor #3 then go towards the right.
 
-Follow the long green path back to the left. Go down, left, and up as soon as you're forced to. At the top left corner of the area you'll see some familiar four-direction panels. Essentially you can just cram yourself in at the top over and over until you emerge at the top right. Just be cautious of the electric tiles you'll be launched onto.
+In the rectangular mazelike area, you can go up then right as soon as possible to heal at a Light Shard (yellow path), but you'll need to make your way all the way back to the mazelike area. To proceed, go right, up, up, then right and down to monitor #4. From here, simply go to the left until you're forced down, then left and up to the top left corner of the room.
 
-You can turn off the electric tiles in the top right side of the area and proceed to the next section. Note you can buy Common Candies here if you need them.
+At the top left corner of the area you'll see some familiar four-direction spinners. Essentially you can just cram yourself in at the top entrance of the top left spinner over and over until you emerge at the top right. Just be sure to change the transceiver to the correct setting corresponding to where you will land.
+
+You can turn off the electric tiles in the top right side of the area at monitor #5 and proceed to the next section.
+
+**Devon Dungeon Vending Machine**
+
+|Item           |Price      |
+|---------------|-----------|
+|*Common Candy* |$400       |
 
 **Relationship Point Choices:**
 - Tell Arclight you will fight (+1 Victoria, +1 Arclight)
@@ -12580,23 +12885,29 @@ Either way you have to fight.
     - Dragon Pulse
     - Agility
 
-Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, plus he might change the field to Electric Terrain. Most of his Pokemon are fast and use Special Moves - Luxray being a counterexample to the latter and Ampharos being a counterexample to the former. I'm sure you can find a way to emerge victorious.
+Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, though he might change the field to Electric Terrain. Most of his Pokemon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
 
-Note that we'll have a Light Shard later on in this room; since it can't fully knock you out, might as well ignore the tiles until then.
+<img class="tabImage" src="/assets/media/reborn/devon_002.png"/>
 
-Enter the next room. Go as left as you can, then go up-left on the spinner. Follow the path up and right, then down and left. Next go up-left on the spinner from the right and activate the panel. Head to the right on the now rightward pointing green belt.
+Pro tip: there is a light shard later on in the next room, so you can ignore using the transponder for now and eat the electric damage.
 
-In this next area, go down-left on the spinner then loop back around above. Go down-right on the spinner this time, then go right twice, then left twice. You'll be able to grab the *PULSE Readout 1*. 
+Start by taking the right path up to monitor #1 (path A). Backtrack down a bit and follow the path to the right. The spinner will take you down and right - do a loop by going up and back to the right (path B). Using this spinner to go down and right now, go right, right, left, and left to get the *PULSE Readout 1* (path C). 
 
-You'll be forced to go down into the spinner again, so do our loop trick again to get to the mazelike section once more. This time go right and up, and enter the spinner from the bottom to turn it yellow. Make your way back down and do the loop trick again. This time go down towards the bottom spinner and make your way around it a few times so that you end up on its right side. Go up from here until you can go left, then cross the spinner to use the monitor.
+<img class="tabImage" src="/assets/media/reborn/devon_003.png"/>
 
-Sadly, you'll need to make your way all the way back through the spinners we've already visited to reach the top right corner of the room, this time going up and past the green belt. Activate this monitor then make your way back towards the left side of the room and go up when you can. Activate the two monitors beyond and follow the path to the stairs.
+You'll be forced to go down into the spinner again, so do the B-loop from before once more and then go down and right. Move right, right, up, and up to enter the upper spinner from the bottom, then go left and down to return to the central spinner (path D). Do another B-loop then go down towards the bottom-right spinner and make your way around it a few times so that you end up on its right side. Go up from here until you can go left, then cross the spinner to use monitor #2 (path E). Head left and down to reach the central spinner once more.
 
-In the next room, may the spirit of Budew bless us all.
+<img class="tabImage" src="/assets/media/reborn/devon_004.png"/>
 
-One more puzzle room for now. Follow the ropes to go up and pop out at the top on the left side, then go right back into the maze on the right side, going down, left, and up to the monitor. Follow the green rope to the right.
+Go down and right as before, using the bottom right spinner to reach the bottom right corner of the room, then go straight up (path F). Activate monitor #3, then make your way back towards the left side of the room and go up when you can (path G). Activate monitors #4 and #5 beyond, then follow the path to the stairs.
 
-Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend saving for just in case you get shocked by accident. Anyways, this next section mostly plays itself: activate monitors as you reach them and dive into the cycle of spinners! Just to save you the agony, switch the Blue tiles to be on as you do this first part. Activate the final two monitors, prepare your team, and head up.
+In the next room... well, may lord Budew have mercy on her soul.
+
+<img class="tabImage" src="/assets/media/reborn/devon_005.png"/>
+
+One more puzzle room for now. Follow the ropes to go up and pop out at the top on the left side, then go right back into the maze on the right side, going down, left, and up to the monitor. Follow the green path to the right. Use the spinner to reach the bottom, and use the Light Shard.
+
+Activate monitor #2, go up to activate monitor #3, then go back down to turn off monitor #2. From here, all you need to do is go up onto the green tile path left into the bottom spinner - it will send you into chain reactions of spinners. Activate monitor #4 when you reach it, then go back to the left. Do the same for monitor #5. Turn the electric tiles to blue before continuing, then make your way up the massive chain to monitor #6. Go right and activate monitor #7, then go up. Activate monitor #8 and head into the next room when you are ready.
 
 **Relationship Point Choices:**
 - Say you did come to destroy everything here (-1 Eve, -1 Lumi)
@@ -12634,11 +12945,11 @@ Use the spinner to reach the bottom, and use the Light Shard. Now I'd recommend 
     - Autotomize
     - Hidden Power
 
-Time for the toughest fight in this section, in my opinion. ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and both Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a better position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison, or, *shudder* use Double Team to dodge your attacks. The icing on top of the cake for this fight is Magnezone, who has incredible special attack and two different types of field boosted moves that can destroy most Pokemon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
+ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a good  position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison while it uses Double Team to dodge your attacks. The icing on top is Magnezone, who has an incredible special attack stat and two different types of field boosted moves that can destroy most Pokemon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
 
-To win this one, I recommend figuring out how to position yourself around Magnezone then working backwards from there. For example, if you want to take it out with Special Fire-moves, figure out how to get the sun out beforehand. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it With only 70 base speed and no EV's in this area, you'll find yourself likely able to outspeed, so placing one or two strong hits will really be the key. With a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest, you should be able to find a way through this one.
+To win this one, I recommend splitting your team into the anti-PULSE Magnezone segment and the anti-everything else segment, though these may overlap. With only 70 base speed and no speed EV's, you'll find yourself likely able to outspeed. Placing one or two strong hits will really be the key, so 2-3 Pokemon on your team with super-effective moves can do this job. For example, if you want to take it out with Special Fire-moves, figure out which Pokemon to use to get the sun out beforehand and which Pokemon you can use to knock it out. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it. The rest of your team can then consist of a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest!
 
-Talk to Zel in the bottom right corner, then head out, press the panel, and go left. Press the final panel of the area, and exit back into Reborn City.
+Talk to ZEL in the bottom left corner, then head out, use monitor #9, and go left. Talk to this monitor to release your allies, then exit.
 
 ## Silvon Scope Quest
 
