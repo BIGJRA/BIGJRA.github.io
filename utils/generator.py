@@ -44,6 +44,12 @@ title: Pokemon {version.capitalize()} Walkthrough
             if line == '' or line[0] != '!':
                 res.append(line)
             elif line[0] == '!':
+                
+                # This is the magic line of the rewrite. Using eval lets me put 
+                # Python calls straight into the raw markdowns with ! before, so they
+                # can execute dynamically whatever function is necessary. 
+                # each eval function should return a string of some kind (can be multiline)
+
                 function_result = eval(line[1:])
                 res.append(function_result)
         return '\n'.join(res)
