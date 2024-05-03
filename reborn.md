@@ -12953,13 +12953,30 @@ Talk to ZEL in the bottom left corner, then head out, use monitor #9, and go lef
 
 ## Silvon Scope Quest
 
-With all that out of the way we can proceed to the next badge. There is one more quest that's opened up however that we can now do, so I'll cover that first. 
+With all that out of the way we can proceed to the next badge. One more quest is open however; I'll cover that first. 
 
 Reenter the actual Devon Corp. building in Obsidia, and make your way upstairs. Now the floor tiles will be going crazy and you can't control them. Honestly, I recommend grabbing some potions and just healing once we reach the top, since we will only have to deal with a single battle against 3 Pokemon. You can even challenge yourself to see if you can win with 6 Pokemon at 1 HP.
 
-Past the guy at the top, you can pick up a *Devon Scope Model* as well as the *Electric Memory* and *TM81 X-Scissor*. 
+**Street Rat Alphonso. Field: Factory Field**
+- Archeops, Lv. 75, @Sitrus Berry, Ability: Defeatist, Jolly Nature, IVs: 31
+    - Rock Slide
+    - Acrobatics
+    - U-turn
+    - Crunch
+- Rhyperior, Lv. 75, @Passho Berry, Ability: Lightning Rod, Adamant Nature, IVs: 31
+    - Earthquake
+    - Megahorn
+    - Stone Edge
+    - Thunder Punch
+- Araquanid, Lv. 77, @Assault Vest, Ability: Water Bubble, Adamant Nature, IVs: 31
+    - Liquidation
+    - Leech Life
+    - Poison Jab
+    - Crunch
 
-Exit Devon and enter the actually-legitimate Silph building. Talk to the lady here to get the *Silvon Scope*! 
+You can pick up a *Devon Scope Model* as well as the *Electric Memory* and *TM81 X-Scissor*. 
+
+Exit Devon and enter the Silph building. Talk to the lady here to get the *Silvon Scope*! 
 
 Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get stopped by one feel free to destroy it for being in the way. Enter Rhodochrine Jungle next and make your way down to the Underroot.
 
@@ -13050,11 +13067,11 @@ So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's 
     - Knock Off
     - Rock Slide
 
-The cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. As before if you're struggling, I recommend having two or three Pokemon specifically chosen to deal with the first fight and the rest saved up to deal with this one, just in case.
+The cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. I recommend having two or three Pokemon prepared  to deal with the first doubles fight, and the rest saved up to deal with this one, just in case.
 
 Past here you can get a hidden *Repel* as well as **Treecko**! 
 
-Escape back to Beryl Ward. We can now notably access the backrooms of the library once more. Enter the left room and press the books in a familiar order. 
+Return to Beryl Ward. With the Kecleon gone, we can now access the library once more. Enter the left room and press the books in a familiar order. 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
@@ -13062,9 +13079,9 @@ Escape back to Beryl Ward. We can now notably access the backrooms of the librar
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the answer to the puzzle</a>
 </div>
 
-Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst* which lets us catch Pokemon a bit easier. 
+Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst*, a new item which increases our odds of capturing Pokemon.
 
-One more quick thing if you'd like: Fly on over to Calcenon City and go to Route 4. Hop across the rocks at the lake during the nighttime to catch Absol. 
+One more quick thing if you'd like: Fly on over to Calcenon City and go to Route 4. Hop across the rocks at the lake during the nighttime to catch Ame's Absol. 
 
 ## Amaranth Badge
 
