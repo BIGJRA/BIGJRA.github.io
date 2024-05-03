@@ -1,13 +1,11 @@
 from common import *
 
-current_directory = os.path.dirname(os.path.abspath(__file__))
-root_directory = os.path.dirname(current_directory)
+
 
 def generate_md_text(version="reborn"):
     def generate_md_pre_contents(version="reborn"):
         return f'''---
-title: |
-Pokemon {version.capitalize()} Walkthrough
+title: Pokemon {version.capitalize()} Walkthrough
 ---
 
 <p id="title-text">Pokemon {version.capitalize()} Walkthrough </p>
@@ -37,13 +35,29 @@ Pokemon {version.capitalize()} Walkthrough
         # TODO
         return ''
     
-    game_contents_dir = os.path.join(root_directory, version)
+    def generate_chapter_contents(type='main', num=1):
+        raw_md =  load_chapter_md(version, type, num) 
 
-    section_data = load_sections_yaml(os.path.join(game_contents_dir, 'sections.yml'))['sections']
+        # Store chapter text as an array of lines - join them at the end
+        res = []
+        for line in raw_md.split('\n'):
+            if line == '' or line[0] != '!':
+                res.append(line)
+            elif line[0] == '!':
+                function_result = eval(line[1:])
+                res.append(function_result)
+        return '\n'.join(res)
+    
+    section_data = load_sections_yaml(version)['sections']
 
     res = ''
     res += generate_md_pre_contents(version)
     res += generate_toc_contents(section_data)
+    for chapter_no in range(1, 20):
+        res += generate_chapter_contents('main', chapter_no)
+    for chapter_no in range(1, 10):
+        res += generate_chapter_contents('post', chapter_no)
+    res += generate_chapter_contents('appendices')    
     res += generate_md_post_contents(version)
 
     return res

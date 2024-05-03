@@ -6,10 +6,32 @@ import string
 
 from collections import defaultdict, deque
 
-def load_sections_yaml(file_path):
-    with open(file_path, 'r') as file:
-        sections = yaml.safe_load(file)
+UTILS_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(UTILS_DIR)
+
+def get_game_contents_dir(version):
+    return os.path.join(ROOT_DIR, version)
+
+def load_sections_yaml(version):
+    game_contents_dir = get_game_contents_dir(version)
+    file_path = os.path.join(game_contents_dir, 'sections.yml')
+    with open(file_path, 'r') as f:
+        sections = yaml.safe_load(f)
     return sections
+
+def load_chapter_md(version, type, chapter_num):
+    game_contents_dir = get_game_contents_dir(version)
+    if type != 'appendices':
+        file_path = os.path.join(game_contents_dir, f'{type}_ep_{str(chapter_num).zfill(2)}.md')
+    else:
+        file_path = os.path.join(game_contents_dir, 'appendices.md')
+    with open(file_path, 'r') as f:
+        contents = f.read()
+    return contents
+
+def function1(arg1):
+    return f"""Function put inside of text
+    This is an interpolated argument, set to "foo" in the markdown itself: {arg1}"""
 
 GAMES = ["reborn", "rejuv"]
 MON_NAME_FIX_DICT = {
