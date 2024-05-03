@@ -1,8 +1,15 @@
 import os
+import yaml
 import sys
 import json
-from collections import defaultdict
+import string
 
+from collections import defaultdict, deque
+
+def load_sections_yaml(file_path):
+    with open(file_path, 'r') as file:
+        sections = yaml.safe_load(file)
+    return sections
 
 GAMES = ["reborn", "rejuv"]
 MON_NAME_FIX_DICT = {
