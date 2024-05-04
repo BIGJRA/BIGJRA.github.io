@@ -9,15 +9,10 @@ from collections import defaultdict, deque
 UTILS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(UTILS_DIR)
 
+SECTIONS = {"reborn": (("main", 19), ("post", 9), ("appendices", 1)), "rejuv": (("main", 15),)}
+
 def get_game_contents_dir(version):
     return os.path.join(ROOT_DIR, version)
-
-def load_sections_yaml(version):
-    game_contents_dir = get_game_contents_dir(version)
-    file_path = os.path.join(game_contents_dir, 'sections.yml')
-    with open(file_path, 'r') as f:
-        sections = yaml.safe_load(f)
-    return sections
 
 def load_chapter_md(version, type, chapter_num):
     game_contents_dir = get_game_contents_dir(version)

@@ -11,27 +11,24 @@ title: Pokemon {version.capitalize()} Walkthrough
 <p id="title-text">Pokemon {version.capitalize()} Walkthrough </p>
 
 '''
-
-    def generate_toc_contents(sections_list):
+  
+    def generate_toc_contents():
         toc = ""
-        q = deque()
-        for section in sections_list[::-1]:
-            q.appendleft((section, 0))
-        while q:
-            section, indents = q.popleft()
-            next_line = f"""{"  " * indents}- [{section['title']}](#{
-                section['title']
-                .lower()
-                .translate(str.maketrans('', '', string.punctuation.replace('-', '')))
-                .replace(' ', '-')
-            })\n"""
-            toc += next_line
-            if 'subsections' in section:
-                for subsection in section['subsections'][::-1]:
-                    q.appendleft((subsection, indents + 1))
+        for chapter_type, total_chapters in SECTIONS[version]:
+            for chapter_num in range(1, total_chapters + 1):
+                raw_md = load_chapter_md(version, chapter_type, chapter_num)
+                for line in [line for line in raw_md.split('\n') if line.startswith('#')]:
+                    indents = len(line) - len(line.lstrip('#')) - 1
+                    next_line = f"""{"  " * indents}- [{line.lstrip('#')[1:]}](#{
+                        line.lstrip('#')
+                        .lower()
+                        .translate(str.maketrans('', '', string.punctuation.replace('-', '')))
+                        .replace(' ', '-')
+                    })\n"""
+                    toc += next_line
         return toc
-
-    def generate_md_post_contents(version="reborn"):
+   
+    def generate_md_post_contents():
         # TODO
         return ''
     
@@ -54,21 +51,17 @@ title: Pokemon {version.capitalize()} Walkthrough
                 res.append(function_result)
         return '\n'.join(res)
     
-    section_data = load_sections_yaml(version)['sections']
-
     res = ''
-    res += generate_md_pre_contents(version)
-    res += generate_toc_contents(section_data)
-    for chapter_no in range(1, 20):
-        res += generate_chapter_contents('main', chapter_no)
-    for chapter_no in range(1, 10):
-        res += generate_chapter_contents('post', chapter_no)
-    res += generate_chapter_contents('appendices')    
-    res += generate_md_post_contents(version)
+    res += generate_md_pre_contents()
+    res += generate_toc_contents()
+    for chapter_type, total_chapters in SECTIONS[version]:
+        for chapter_num in range(1, total_chapters + 1):
+            res += generate_chapter_contents(chapter_type, chapter_num)
+    res += generate_md_post_contents()
 
     return res
 
 
 if __name__ == "__main__":
     md = generate_md_text()
-    print(md)
+    # print(md)
