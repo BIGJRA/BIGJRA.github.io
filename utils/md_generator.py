@@ -1,6 +1,5 @@
 from common import *
-
-
+from function_wrapper import FunctionWrapper
 
 def generate_md_text(version="reborn"):
     def generate_md_pre_contents(version="reborn"):
@@ -20,13 +19,13 @@ title: Pokemon {version.capitalize()} Walkthrough
                 for line in [line for line in raw_md.split('\n') if line.startswith('#')]:
                     indents = len(line) - len(line.lstrip('#')) - 1
                     next_line = f"""{"  " * indents}- [{line.lstrip('#')[1:]}](#{
-                        line.lstrip('#')
+                        line.lstrip('#')[1:]
                         .lower()
                         .translate(str.maketrans('', '', string.punctuation.replace('-', '')))
                         .replace(' ', '-')
                     })\n"""
                     toc += next_line
-        return toc
+        return toc + '\n\n'
    
     def generate_md_post_contents():
         # TODO
@@ -41,16 +40,15 @@ title: Pokemon {version.capitalize()} Walkthrough
             if line == '' or line[0] != '!':
                 res.append(line)
             elif line[0] == '!':
-                
-                # This is the magic line of the rewrite. Using eval lets me put 
-                # Python calls straight into the raw markdowns with ! before, so they
-                # can execute dynamically whatever function is necessary. 
-                # each eval function should return a string of some kind (can be multiline)
-
-                function_result = eval(line[1:])
+                #Function Wrapper class does the magic of taking a line 
+                # beginning with ! and transforming it into a dynamic output:
+                # taking a shortened function name, arguments, and globals
+                function_result = function_wrapper.evaluate_function_from_string(line)
                 res.append(function_result)
         return '\n'.join(res)
     
+    function_wrapper = FunctionWrapper(version)
+
     res = ''
     res += generate_md_pre_contents()
     res += generate_toc_contents()
