@@ -244,7 +244,7 @@ Talk to the trainer here with the Snubbull or Stufful, and they will leave. Back
 
 For beating both of the trainers at the bottom of the stairs, you'll get an *Exp. Candy XS*. There are also some hidden items on the bridge:
 
-<img class="tabImage" src="/assets/media/reborn/hidden002.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden002.png"/>
 
 - (A): *Awakening*
 - (B): *Blue Shard*
@@ -277,7 +277,7 @@ In the Lower Peridot Ward, things have opened up! To the left is a trainer.
 
 Next, head right then up as soon as you can. 
 
-<img class="tabImage" src="/assets/media/reborn/hidden003.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden003.png"/>
 
 A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here. 
 
@@ -352,7 +352,7 @@ If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
 Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokemon's nickname from your party!
 
-<img class="tabImage" src="/assets/media/reborn/hidden004.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden004.png"/>
 
 - (A): *Heart Scale*
 - (B): *Purple Shard*
@@ -425,7 +425,7 @@ Poochyena evolves early and can have the Moxie ability, so it can be fantastic i
 
 There is a *Super Potion* here as well as some hidden items:
 
-<img class="tabImage" src="/assets/media/reborn/hidden005.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden005.png"/>
 
 - (A): *Dark Gem*
 - (B): *Potion*
@@ -460,7 +460,7 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 ## Peridot Ward
 
-<img class="tabImage" src="/assets/media/reborn/hidden006.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden006.png"/>
 
 - (A): *Poke Ball*
 - (B): *Oran Berry*
@@ -487,7 +487,7 @@ Also, another few hidden items:
 
 The in-game trade I mentioned earlier is in the nearby house, but we probably aren't quite ready for it yet, so head up.
 
-<img class="tabImage" src="/assets/media/reborn/hidden007.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden007.png"/>
 
 - (A): *Blue Shard*
 - (B): *Paralyze Heal*
@@ -506,7 +506,7 @@ The in-game trade I mentioned earlier is in the nearby house, but we probably ar
 
 Talk to the fountain while it is raining to battle **Surskit**! 
 
-<img class="tabImage" src="/assets/media/reborn/hidden008.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden008.png"/>
 
 The rock behind the dumpster in the bottom left corner of this plaza contains a *Calcium* (A). I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money. Also hidden:
 
@@ -556,7 +556,7 @@ Anyways, to the right of the tall building you can defeat another blonde haired 
 - Weedle, Lv. 9, Serious Nature, IVs: 10
 - Pineco, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden009.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden009.png"/>
 
 - (A): *Repel*
 - (B): *Green Shard*
@@ -589,7 +589,7 @@ If you use up your PokeSnax and need more, this is the place. Head to the right 
 - Spinarak, Lv. 9, Serious Nature, IVs: 10
 - Cutiefly, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden010.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden010.png"/>
 
 - (A): *Common Candy*
 - (B): *Potion*

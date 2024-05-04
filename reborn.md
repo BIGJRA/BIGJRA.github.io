@@ -399,7 +399,7 @@ This conversation does quietly show off a mechanic in Pokemon Reborn: relationsh
 
 (Whenever a dialogue choice is not listed, it has no effect on the points.)
 
-<img class="tabImage" src="/assets/media/reborn/hidden001.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden001.png"/>
 
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem* (A). There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so.
 
@@ -558,7 +558,7 @@ Talk to the trainer here with the Snubbull or Stufful, and they will leave. Back
 
 For beating both of the trainers at the bottom of the stairs, you'll get an *Exp. Candy XS*. There are also some hidden items on the bridge:
 
-<img class="tabImage" src="/assets/media/reborn/hidden002.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden002.png"/>
 
 - (A): *Awakening*
 - (B): *Blue Shard*
@@ -591,7 +591,7 @@ In the Lower Peridot Ward, things have opened up! To the left is a trainer.
 
 Next, head right then up as soon as you can.
 
-<img class="tabImage" src="/assets/media/reborn/hidden003.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden003.png"/>
 
 A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here.
 
@@ -666,7 +666,7 @@ If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
 Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokemon's nickname from your party!
 
-<img class="tabImage" src="/assets/media/reborn/hidden004.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden004.png"/>
 
 - (A): *Heart Scale*
 - (B): *Purple Shard*
@@ -739,7 +739,7 @@ Poochyena evolves early and can have the Moxie ability, so it can be fantastic i
 
 There is a *Super Potion* here as well as some hidden items:
 
-<img class="tabImage" src="/assets/media/reborn/hidden005.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden005.png"/>
 
 - (A): *Dark Gem*
 - (B): *Potion*
@@ -774,7 +774,7 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 ## Peridot Ward
 
-<img class="tabImage" src="/assets/media/reborn/hidden006.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden006.png"/>
 
 - (A): *Poke Ball*
 - (B): *Oran Berry*
@@ -801,7 +801,7 @@ Also, another few hidden items:
 
 The in-game trade I mentioned earlier is in the nearby house, but we probably aren't quite ready for it yet, so head up.
 
-<img class="tabImage" src="/assets/media/reborn/hidden007.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden007.png"/>
 
 - (A): *Blue Shard*
 - (B): *Paralyze Heal*
@@ -820,7 +820,7 @@ The in-game trade I mentioned earlier is in the nearby house, but we probably ar
 
 Talk to the fountain while it is raining to battle **Surskit**!
 
-<img class="tabImage" src="/assets/media/reborn/hidden008.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden008.png"/>
 
 The rock behind the dumpster in the bottom left corner of this plaza contains a *Calcium* (A). I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money. Also hidden:
 
@@ -870,7 +870,7 @@ Anyways, to the right of the tall building you can defeat another blonde haired 
 - Weedle, Lv. 9, Serious Nature, IVs: 10
 - Pineco, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden009.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden009.png"/>
 
 - (A): *Repel*
 - (B): *Green Shard*
@@ -903,7 +903,7 @@ If you use up your PokeSnax and need more, this is the place. Head to the right 
 - Spinarak, Lv. 9, Serious Nature, IVs: 10
 - Cutiefly, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden010.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden010.png"/>
 
 - (A): *Common Candy*
 - (B): *Potion*
@@ -1305,7 +1305,7 @@ Nothing special here for sale, but if you talk to the mysterious salesman, he'll
 
 The next building in line is the Sweet Kiss Candy Shop building. In the top left corner, you can complete a puzzle to get **Swirlix**! The completed puzzle looks like this:
 
-<img class="tabImage" src="/assets/media/reborn/swirlix.jpg"/>
+<img class="tabImage" src="/static/images/reborn/swirlix.jpg"/>
 
 At the top, a kid really wants some Vanilla Ice Cream. Since he's blocking the machine though we can't get any here - you'll have to wait until it's sunny and buy some from Opal Ward. Give it to this kid and then buy a Vanilla Ice Cream for $1000 from the vending machine - it will be a **Vanillite** in disguise! After this the vending machine will be normal again.
 
@@ -1345,7 +1345,7 @@ Since grinding trainers give them every time you beat them, you don't need to sp
 
 Back outside, follow Victoria to the right. If you'd like to get to battle Victoria and potentially get a point with her in a bit, talk to Florinia.
 
-<img class="tabImage" src="/assets/media/reborn/hidden011.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden011.png"/>
 
 - (A): *PokeSnax*
 - (B): *PokeSnax*
@@ -1364,7 +1364,7 @@ Enter the building here and talk to the guy here. His Lillipup will run off - we
 - Pidove, Lv. 16, Serious Nature, IVs: 10
 - Pidgeotto, Lv. 18, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden012.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden012.png"/>
 
 - (A): *Dire Hit*
 - (B): *Blue Shard*
@@ -1384,7 +1384,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 - Chingling, Lv. 15, Serious Nature, IVs: 10
 - Mankey, Lv. 15, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden013.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden013.png"/>
 
 - (B): *Great Ball*
 - (C): *PokeSnax*
@@ -1442,7 +1442,7 @@ After that's done, head down the escalator to the right. There are encounters in
 
 A long time from now you can trade Pidove away for something much better, so catch one if you like.
 
-<img class="tabImage" src="/assets/media/reborn/hidden014.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden014.png"/>
 
 - (A): *Oran Berry*
 - (B): *Great Ball*, not hidden
@@ -1467,7 +1467,7 @@ Sneak between the escalators to reach the latter and a *Carbos* in the next room
 **Street Rat Brody. Field: No Field**
 - Espurr, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden015.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden015.png"/>
 
 - (A): *Pop Rocks*
 - (B): *Rawst Berry*
@@ -1487,7 +1487,7 @@ Head upstairs.
 
 Head to the left, then go up the stairs once more. Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back downstairs and follow the path clockwise around the room, picking up items:
 
-<img class="tabImage" src="/assets/media/reborn/hidden016.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden016.png"/>
 
 - (A): *Moon Stone*. You need to be up against the bottom fence to hop across to reach this one.
 - (B): *Exp. Candy XS*
@@ -1519,7 +1519,7 @@ Sometimes you even get two! Talk to the guy at the bottom of the area... turns o
 
 But, alas, he sold it to someone else. This quest to be continued once more!
 
-<img class="tabImage" src="/assets/media/reborn/hidden017.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden017.png"/>
 
 - (A): *Normal Gem*
 - (B): *Exp. Candy S*
@@ -1539,7 +1539,7 @@ Back on B1F, enter the big door and head up.
     - Tackle
 - Seedot, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden018.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden018.png"/>
 
 - (A): *Oran Berry*
 - (B): *Poke Ball*
@@ -1554,21 +1554,21 @@ In the next room, it's time for a battle!
 
 As long as you are able to bully Scrafty when it comes out you should be able to make this work with a team of six.
 
-<img class="tabImage" src="/assets/media/reborn/hidden019.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden019.png"/>
 
 - (A): *Potion*
 - (B): *Blue Shard*
 
 Proceed to the next room.
 
-<img class="tabImage" src="/assets/media/reborn/hidden020.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden020.png"/>
 
 - (A): *Potion*
 - (B): *Exp. Candy S*
 
 We're back in the large basement area for the third time. Lots of items to get here; follow the path down and to the right.
 
-<img class="tabImage" src="/assets/media/reborn/hidden021.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden021.png"/>
 
 - (A): *Cotton Candy*, between escalators
 - (B): *Burn Heal*
@@ -1583,7 +1583,7 @@ A box on the right contains an *Awakening*. Head to the right and jump your way 
 
 Backtrack to the previous room and follow the path up. Talk to the Spoink hiding under some beams here to begin a quest, then emerge into daylight!
 
-<img class="tabImage" src="/assets/media/reborn/hidden022.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden022.png"/>
 
 Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
@@ -1591,7 +1591,7 @@ Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
 Welcome to Coral Ward.
 
-<img class="tabImage" src="/assets/media/reborn/hidden023.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden023.png"/>
 
 - (A): *Potion*
 - (B): *Ultra Potion*
@@ -1741,7 +1741,7 @@ With all that out of the way, return to the park area and talk to Victoria, Amar
 |Slakoth           |5  |
 |**Bonsly**        |5  |
 
-<img class="tabImage" src="/assets/media/reborn/hidden024.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden024.png"/>
 
 You can start by grabbing a hidden *Oran Berry* (A) in the third bush to the left.
 
@@ -1756,17 +1756,17 @@ Pick up some more items:
 
 Cut wiggly tree #1, then make your way back to the entrance.
 
-<img class="tabImage" src="/assets/media/reborn/hidden025.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden025.png"/>
 
 Cut wiggly tree #2 near the entrance, and follow the new path down and to the right. Pick up the *Leppa Berry* (D) then cut wiggly tree #3. From here, return to the entrance by going right, down, then back to the left.
 
-<img class="tabImage" src="/assets/media/reborn/hidden026.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden026.png"/>
 
 Up from here, cut down wiggly tree #4. This opens up a path to the left, so follow the path left from the entrance of the area. Grab a *Pecha Berry* (E) in a bush, then head right to cut wiggly tree #5 to open up a shortcut. Go right to cut wiggly tree #6.
 
 Follow the path to the right from here.
 
-<img class="tabImage" src="/assets/media/reborn/hidden027.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden027.png"/>
 
 **Meteor Grunt Minta. Field: Forest Field**
 - Makuhita, Lv. 16, Serious Nature, IVs: 10
@@ -1778,7 +1778,7 @@ Straight down from here is a hidden *Super Potion* (F). Follow the path to watch
 - Shuckle, Lv. 17, Serious Nature, IVs: 10
 - Hoothoot, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/assets/media/reborn/hidden028.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden028.png"/>
 
 Cut wiggly trees #8 and #9. Follow the blue line from here to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*.
 
@@ -1815,7 +1815,7 @@ Catch a Sentret and add it to your team for an in-game trade in a bit if you'd l
 
 There are some hidden items in this area as well:
 
-<img class="tabImage" src="/assets/media/reborn/hidden029.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden029.png"/>
 
 - (A): *Heart Scale*
 - (B): *Exp. Candy M*
@@ -1931,7 +1931,7 @@ First, we'll do a counter-clockwise loop of the area. Trainers include:
 
 There are hidden items too:
 
-<img class="tabImage" src="/assets/media/reborn/hidden030.png"/>
+<img class="tabImage" src="/static/images/reborn/hidden030.png"/>
 
 - (A): *Cheri Berry*
 - (B): *Antidote*
@@ -2531,7 +2531,7 @@ If you were trapped in a cage, read on, otherwise, jump to the next section.
 
 Roughly, you'll want to follow the blue path in the following image:
 
-<img class="tabImage" src="/assets/media/reborn/cagepath.png"/>
+<img class="tabImage" src="/static/images/reborn/cagepath.png"/>
 
 You'll wake up in a cage and Fern will taunt you here.
 
@@ -2571,11 +2571,11 @@ The building to your right is a healing house, should you need it.
 
 Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue.
 
-<img class="tabImage" src="/assets/media/reborn/rhodo1.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo1.png"/>
 
 Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west.
 
-<img class="tabImage" src="/assets/media/reborn/rhodo2.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo2.png"/>
 
 Head back up and go left. Here you'll see a gentleman.
 
@@ -2589,7 +2589,7 @@ Head back up and go left. Here you'll see a gentleman.
 
 In this area you can find a hidden *Liechi Berry* and *Great Ball*. To the right of the grunt, climb the hill and chop a wiggly tree.
 
-<img class="tabImage" src="/assets/media/reborn/rhodo3.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo3.png"/>
 
 Head back down the hill after the scene and go to the left.
 
@@ -2598,7 +2598,7 @@ Head back down the hill after the scene and go to the left.
 
 On this next hill you can obtain a hidden *X Speed*. Climbing stairs to the northeast will lead to a hidden *Antidote*. We'll get to the cave entrance at the top of this area later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
 
-<img class="tabImage" src="/assets/media/reborn/rhodo4.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo4.png"/>
 
 Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. *After* you grab the readout, step on the trap.
 
@@ -2606,7 +2606,7 @@ This brings us to the Underroot - but we will explore this area fully in a littl
 
 Our next move is going to be to head all the way back to the healing house from earlier by going down, right at the gentleman, then up the hill to the right. Heal if you'd like.
 
-<img class="tabImage" src="/assets/media/reborn/rhodo5.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo5.png"/>
 
 Go straight down from here and follow the path across the bridge.
 
@@ -2616,7 +2616,7 @@ Go straight down from here and follow the path across the bridge.
 
 Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
 
-<img class="tabImage" src="/assets/media/reborn/rhodo6.png"/>
+<img class="tabImage" src="/static/images/reborn/rhodo6.png"/>
 
 Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*. Take the other path of the fork now.
 
@@ -3067,7 +3067,7 @@ Enter the building in the middle of the top row of buildings, just to the left o
 
 Enter the flower shop on the left side of the ward. Someone inside will give you the *Wailmer Pail*. In the top left corner, you can complete a puzzle to get **Spritzee**! The completed puzzle looks like this:
 
-<img class="tabImage" src="/assets/media/reborn/spritzee.jpg"/>
+<img class="tabImage" src="/static/images/reborn/spritzee.jpg"/>
 
 **Sweet Scent Flower Shop Top**
 
@@ -4044,7 +4044,7 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 |**Sandslash-Alola**    |1  |
 |**Beartic**            |1  |
 
-<img class="tabImage" src="/assets/media/reborn/citrine2f.png"/>
+<img class="tabImage" src="/static/images/reborn/citrine2f.png"/>
 
 1. Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal. Head back to the entrance.
 2. Go down from the top of the area, grab the hidden *Super Potion* to the right. Head back up.
@@ -4083,7 +4083,7 @@ That wraps up all the sidequests for now, so enter the power plant on the east s
 
 Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle. If you're having a hard time seeing, here's what the side rooms look like:
 
-<img class="tabImage" src="/assets/media/reborn/yureyu.png"/>
+<img class="tabImage" src="/static/images/reborn/yureyu.png"/>
 
 Anyways, talk to the figure straight up from the entrance to the plant when you're ready.
 
@@ -5254,7 +5254,7 @@ Back in Opal Ward, there are new trainers on the bridge.
 
 Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge.
 
-<img class="tabImage" src="/assets/media/reborn/citrine2f2.png"/>
+<img class="tabImage" src="/static/images/reborn/citrine2f2.png"/>
 
 Go down and right (1). You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left (2) and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* as well as *TM94 Secret Power*. Exit the mountain.
 
@@ -5424,7 +5424,7 @@ Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have t
 
 Back on the ground floor, head east to enter another part of the railnet.
 
-<img class="tabImage" src="/assets/media/reborn/railnet_east.png"/>
+<img class="tabImage" src="/static/images/reborn/railnet_east.png"/>
 
 This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
 
@@ -6379,7 +6379,7 @@ You'll also find pairs of Tauros and Bouffalant all over the route. If you fight
 
 As a note: there are a bunch of entrances to the North and South Aventurine Woods scattered about Route 1. I'll take us into the woods to explore a bit later and focus on Route 1 for now.
 
-<img class="tabImage" src="/assets/media/reborn/route1_1.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_1.png"/>
 
 Start by going left. Before hopping up or down any edges, you can find a hidden *Nugget* here. Head down one ledge to the left, in this "level" of the route, you can find hidden *Blue Shard*, *Red Shard*, and *Purple Shard*. Defeat the two circled Tauros here to cause Bouffalant to clear some paths for us, which will come in handy later on.
 
@@ -6389,7 +6389,7 @@ Start by going left. Before hopping up or down any edges, you can find a hidden 
 
 Head down the ledge to the left. On this level, you'll find hidden *X Sp. Atk*, *Elemental Seed*, and *Blue Shard*. Defeat the next circled Tauros to clear another path in the Aventurine Woods, then go down the next ledge. Up from here, defeat the Tauros (top left of the above image) to open a shortcut. You'll also find a hidden *Carbos* here.
 
-<img class="tabImage" src="/assets/media/reborn/route1_2.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_2.png"/>
 
 Hidden to the left are a *Green Shard* and *Great Ball*. Hop down the ledge to the left to get hidden *Escape Rope*, *Blue Shard*, and *Grass Gem*. The Miltank around here will do a trade with us: one Oran Berry for its *Moomoo Milk*. Make sure you have at least one Moomoo Milk in your bag for a quest way later.
 
@@ -6418,7 +6418,7 @@ You can find hidden *Ice Heal* and *PokeSnax* here. Finally, on the bottom level
 
 You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a Tauros mount, which we can use to climb the ledges back up Route 1! Make your way back to where we fought Fern. You'll notice as you go that you will be unable to go through tall grass on your Tauros. The path through this section of woods on Tauros looks like the following:
 
-<img class="tabImage" src="/assets/media/reborn/route1_3.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_3.png"/>
 
 Note that this means we do have to briefly enter the North Aventurine Woods to keep our mount - alternatively you could also climb the ledge near the youngster, dismount, then get a new Tauros mount to the right. This takes more time however, so I recommend the woods when traversing Route 1 here.
 
@@ -6448,7 +6448,7 @@ Note that this means we do have to briefly enter the North Aventurine Woods to k
 
 You can also find a hidden *Poke Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
 
-<img class="tabImage" src="/assets/media/reborn/route1_4.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_4.png"/>
 
 To progress to the right while still on your Tauros, you'll need to have the top left Bouffalant move a log, so defeat Tauros. Hop up the ledge to the right.
 
@@ -6497,7 +6497,7 @@ On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mu
 
 Defeat the two Tauros here to get Bouffalant to push more logs out of the way.
 
-<img class="tabImage" src="/assets/media/reborn/route1_5.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_5.png"/>
 
 To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards. Jump down it.
 
@@ -6511,7 +6511,7 @@ You can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *H
 
 On the next hill you can get a hidden *PokeSnax*, and *Purple Shard*.
 
-<img class="tabImage" src="/assets/media/reborn/route1_6.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_6.png"/>
 
 Grab the hidden *Poke Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, and *Zinc*.
 
@@ -6690,11 +6690,11 @@ It's worth noting that we can buy Exp. Candy XL's now:
 
 Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right.
 
-<img class="tabImage" src="/assets/media/reborn/route1_7.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_7.png"/>
 
 Enter 1N, the first entrance to the forest that you see. This will simply spit us out at 2N. To the right, enter 3N.
 
-<img class="tabImage" src="/assets/media/reborn/naw_1.png"/>
+<img class="tabImage" src="/static/images/reborn/naw_1.png"/>
 
 Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree (A) here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it (immediately, unlike past versions of the game ). If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
 
@@ -6722,11 +6722,11 @@ Grab the hidden *Ether* and *Repel*, then make your way to the ice puzzle. Slide
 
 Pick up an *Ice Stone* up here as well as a hidden *Potion*. You can also find *TM23 Smack Down* in here. Do some fishing if you'd like, then exit out to the woods the way we came in and return to Route 1.
 
-<img class="tabImage" src="/assets/media/reborn/route1_8.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_8.png"/>
 
 Grab a Tauros mount and head east from 3N in search for 4N. Once you find it, head in.
 
-<img class="tabImage" src="/assets/media/reborn/naw_2.png"/>
+<img class="tabImage" src="/static/images/reborn/naw_2.png"/>
 
 Grab the hidden *Dire Hit* and *Big Mushroom*. If you go up and left, "To C" on the map, you can reach a tree (C) from the previous map under which we can fight a Pinsir to open a shortcut, though this one isn't required to get any rewards. Head back to the right and go up, then dismount. Past the tall grass, you'll find some soil to plant berries in if you'd like as well as the *Pikanium-Z* and a *Green Shard*. Enter the building here.
 
@@ -6742,7 +6742,7 @@ Talk to the guy upstairs - he will tell us he is the PC administrator, and also 
 
 Back outside, go down then right. You'll see another Honey tree (D) - defeat Pinsir to clear some webs. Unless you really like the animation of Pinsir smashing logs, we can ignore the nearby short log. Grab the hidden *Burn Heal* and go up - we'll be blocked by long log for now! Exit to Route 1.
 
-<img class="tabImage" src="/assets/media/reborn/route1_9.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_9.png"/>
 
 Hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
 
@@ -6767,29 +6767,29 @@ Finally, head back to Route 1, pick up a Tauros mount (if there are none, go wes
 
 Getting everything in the South Aventurine Woods is a bit more complicated, so to make things easier, we will start at the rightmost entrance to the South Aventurine Woods first.
 
-<img class="tabImage" src="/assets/media/reborn/route1_9.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_9.png"/>
 
 Head east on Route 1 and enter 8S in the above map, noting that you'll have to dismount in order to reach this woods entrance.
 
-<img class="tabImage" src="/assets/media/reborn/saw_3.png"/>
+<img class="tabImage" src="/static/images/reborn/saw_3.png"/>
 
 Inside, grab the hidden *Revive* then use the Honey tree (Q) two times to destroy both of the nearby obstacles. Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side at 6S. Our next destination is all the way to the west, so stop by the Route 1 Nature Center to heal if you'd like
 
-<img class="tabImage" src="/assets/media/reborn/route1_7.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_7.png"/>
 
 Enter 1S on the far west side of Route 1.
 
-<img class="tabImage" src="/assets/media/reborn/saw_1.png"/>
+<img class="tabImage" src="/static/images/reborn/saw_1.png"/>
 
 Grab a hidden *Clever Wing* then go up the ledge and follow the path. Dismount, then talk to Honey tree (G) and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S. Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the Honey tree (I) and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again. Go right at this fork, staying on Tauros to climb the ledge below tree (I). Dismount up here and go down through the tall grass. Use the Honey tree (H) and fight Heracross this time, then return to Route 1. One more time, get a Tauros and re-enter 2S, this time going down at the fork. Follow the path and jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount.
 
 Pick up the hidden *Revive* in the next area, then use the Honey tree (J) and fight Heracross. Exit out of 3S above, get a Tauros mount, and return to 3S. Go up the ledge at the bottom, use the Honey tree (K) and fight Pinsir. Grab the hidden *Purple Shard*. You'll notice we can't progress this way any further. Return to Route 1.
 
-<img class="tabImage" src="/assets/media/reborn/route1_8.png"/>
+<img class="tabImage" src="/static/images/reborn/route1_8.png"/>
 
 Next, we'll be entering 4S - you'll know you're in the right place if you recognized where we fought Fern.
 
-<img class="tabImage" src="/assets/media/reborn/saw_2.png"/>
+<img class="tabImage" src="/static/images/reborn/saw_2.png"/>
 
 Anyways, lather the Honey tree closest to you (N) and fight Pinsir, then make your way right and dismount - don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree (P); defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening (orange in the above image). Pull out the Floral Charm when prompted to to battle **Flabebe**! Head straight to the right and grab the hidden *Oddishweed* in the bush. Head back and get lulled into a daze to return to Route 1.
 
@@ -6797,7 +6797,7 @@ Again, enter 4S, this time not needing a Tauros mount, and head down. Use the ne
 
 Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*, then head right.
 
-<img class="tabImage" src="/assets/media/reborn/saw_3.png"/>
+<img class="tabImage" src="/static/images/reborn/saw_3.png"/>
 
 Grab the hidden *Fire Gem*. Down the ledge you'll finally see why I had us do 8S first... anyways follow the path right then go up. Get the hidden *PP Up* and finally dismount, then head up into the grass.
 
@@ -7330,7 +7330,7 @@ You'll be moved to a cage. Read the green book here - in fact, read every green 
 
 Head out once Klefki opens the door. Welcome to Reborn's stealth section!
 
-<img class="tabImage" src="/assets/media/reborn/subseven_mess.png"/>
+<img class="tabImage" src="/static/images/reborn/subseven_mess.png"/>
 
 In the artistic masterpiece above, the red entities are the guards, as well as their view ranges. The yellow paths indicate the movement patterns and view changes of certain guards, and the blue line represents the path the player must take. I recommend saving often, specifically at the blue blobs. If you get caught, just reload to save yourself the time. You might also want to turn off speed-up.
 
@@ -7660,7 +7660,7 @@ Hop across some sneaky ledges onto the rocky texture of the cave, then make your
 
 Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room to reset. The room looked like this when I solved it, if it is helpful:
 
-<img class="tabImage" src="/assets/media/reborn/wasteland_wall_boulders.png"/>
+<img class="tabImage" src="/static/images/reborn/wasteland_wall_boulders.png"/>
 
 Once you succeed, exit through the newly opened door. Head down the nearby ladder: this next puzzle will involve pushing boulders down holes to break rocks, and going up ladders. To go up, use the ladders on the left side of the area.
 
@@ -7890,7 +7890,7 @@ Just in case you need some.
 
 To the left is a tile puzzle, which you can play in exchange for 1 Green Shard. This is the solution:
 
-<img class="tabImage" src="/assets/media/reborn/carracosta.jpg"/>
+<img class="tabImage" src="/static/images/reborn/carracosta.jpg"/>
 
 Winning will reward you a *Cover Fossil*. Nearby the healing machine is a candy vendor:
 
@@ -7921,7 +7921,7 @@ Next, you'll find an NPC who will change your Pokemon's Hidden Power type in exc
 
 To the left is another tile puzzle, which you can play in exchange for 1 Red Shard. This is the solution:
 
-<img class="tabImage" src="/assets/media/reborn/archeops.jpg"/>
+<img class="tabImage" src="/static/images/reborn/archeops.jpg"/>
 
 Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
@@ -7964,7 +7964,7 @@ The Blue Moon Ice Cream shows up rarely with the same mechanics as before.
 
 There is another tile puzzle here, but this one has different mechanics. I recommend saving beforehand so if you get stuck you don't have to waste a shard when you reset. It costs 1 Purple Shard. Anyways, the finished puzzle looks like this:
 
-<img class="tabImage" src="/assets/media/reborn/conkeldurr.jpg"/>
+<img class="tabImage" src="/static/images/reborn/conkeldurr.jpg"/>
 
 Once you win, you'll get a **Timburr**!
 
@@ -9148,7 +9148,7 @@ Technically you shouldn't know how to open the secret room by this point... So i
 
 If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
-<img class="tabImage" src="/assets/media/reborn/calcsecret.jpg"/>
+<img class="tabImage" src="/static/images/reborn/calcsecret.jpg"/>
 
 When you're ready, take on the Fire type gym leader!
 
@@ -9214,7 +9214,7 @@ Head down to Route 3 via the new stairs. Down from here, you'll see a ladder. In
 
 To the right of the high striker you'll see a new vendor. For three Green Shards you can do another puzzle! This is in fact a [Fifteen Puzzle](https://en.wikipedia.org/wiki/15_puzzle). When you finish, it will look like this:
 
-<img class="tabImage" src="/assets/media/reborn/turtwig.jpg"/>
+<img class="tabImage" src="/static/images/reborn/turtwig.jpg"/>
 
 For winning you'll get a **Turtwig!**
 
@@ -10363,7 +10363,7 @@ Return to the previous room. Enter the Lapis Water Grid via the door to the left
 
 Make your way to the water machine and go down the stairs directly below you to the mud. If you sneak past the trash to the bottom left you can get a *Smoke Ball*. Next, push the four rightmost trash to be all in a line, separated by two between each and such that the middle two surround the white pipe.
 
-<img class="tabImage" src="/assets/media/reborn/wtc001.png"/>
+<img class="tabImage" src="/static/images/reborn/wtc001.png"/>
 
 Raise the water level, and you should now be able to hop across them altogether. Head to the top right corner.
 
@@ -11703,49 +11703,49 @@ I will start with the top left direction. For this direction, you'll essentially
 
 The boulder's path should look like the following, just note that you'll need to surf to reach certain positions to continue its progress. You can push it while it's on land and you're on the water.
 
-<img class="tabImage" src="/assets/media/reborn/spring_b1nw.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_b1nw.png"/>
 
 This area contains a hidden *Elixir*, *Green Shard*, and *Rock Gem*. Once you successfully push the boulder into the final spot, step onto the tall water jet to return to 1F.
 
 You can get a hidden *Water Gem* here. Push the boulder in the top right corner onto the jet in the bottom left corner, then hop up the ledge and enter the cave.
 
-<img class="tabImage" src="/assets/media/reborn/spring_1fnw.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_1fnw.png"/>
 
 Inside the sauna, if you want, you can blow away the steam with a wind-based move, but it's not necessary other than for visibility. You can get an *Exp. Candy XL*, *Timid Mint*, and the *Cameruptite* in here.
 
 Make your way back to B1F. This time, push the boulder in the bottom left direction. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
 
-<img class="tabImage" src="/assets/media/reborn/spring_1fnw.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_1fnw.png"/>
 
 In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole.
 
-<img class="tabImage" src="/assets/media/reborn/spring_1fsw.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_1fsw.png"/>
 
 Get the hidden *Red Shard*, then go into the nearby sauna. Grab the *Modest Mint* and hidden *Elixir*. There are three jets in this room - the bottom one is inaccessible by boulders. Push the two boulders onto the other two, then go up the tall jet. Grab the *Exp. Candy XL* and *TM50 Overheat* here.
 
-<img class="tabImage" src="/assets/media/reborn/spring_b2sw.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_b2sw.png"/>
 
 Return to B1F, this time pushing the boulder in the top right direction. Grab the hidden *Water Gem* here. You'll need to temporarily push the boulder up, surf across, and move another boulder out of the way in order to push the boulder down and onto the jet.
 
-<img class="tabImage" src="/assets/media/reborn/spring_b1ne.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_b1ne.png"/>
 
 On 1F, grab the hidden *Dusk Ball*. Essentially 5 of these boulders are duds (in blue), and you'll need to get them out of the way of the single boulder (in green) that you can move onto the jet. Of the bottom right pair, it is the left one. Once you get it into place go up the jet and follow the path to the sauna.
 
-<img class="tabImage" src="/assets/media/reborn/spring_1fne.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_1fne.png"/>
 
 In here, you can get a *Jolly Mint*, *Red Flute*, *Big Nugget*, and *Exp. Candy XL*.
 
 Make your way back to B1F, and finally push the boulder in the bottom right direction. You'll find a hidden *Big Pearl* and *Flame Plate* in this area. This puzzle should be straightforward by now, just note that you'll need to at some point surf across the rightmost pond and push the second boulder right to clear the path - see the yellow line. Use the big jet to reach 1F.
 
-<img class="tabImage" src="/assets/media/reborn/spring_b1se.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_b1se.png"/>
 
 Up here, you can get a hidden *Awakening*. To finish this puzzle, you'll need to push the boulder counter-clockwise around this area to reach the jet. Follow the path to the final sauna.
 
-<img class="tabImage" src="/assets/media/reborn/spring_1fse.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_1fse.png"/>
 
 This room has a lot of ledges, and is a bit chaotic. You'll find an *Exp. Candy XL*, *Adamant Mint*, *TM61 Will-o-Wisp*, as well as a hidden *Fire Gem*.
 
-<img class="tabImage" src="/assets/media/reborn/spring_b2se.png"/>
+<img class="tabImage" src="/static/images/reborn/spring_b2se.png"/>
 
 Exit the Chrysolia Spring once you're done.
 
@@ -11880,7 +11880,7 @@ Next, make your way all the way to the top of Pyrous Mountain. From the bottom o
 
 Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation (1).
 
-<img class="tabImage" src="/assets/media/reborn/azurine_567_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_567_1.png"/>
 
 **Azurine Cave South**
 
@@ -11909,7 +11909,7 @@ Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hi
 
 Head down and to the right, following the yellow arrow in the above. This is a pretty huge map and only one of multiple, but we'll explore it all in due time.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_565_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_565_1.png"/>
 
 **Swimmer Tsuki. Field: Water Surface Field**
 - Bruxish, Lv. 72, @Choice Band, Ability: Strong Jaw, Adamant Nature, IVs: 20
@@ -11946,7 +11946,7 @@ Fight the swimmer if you'd like. You'll see a narrow strip of sand, on which you
 |Toxapex           |4  |
 |**Dragalge**      |1  |
 
-<img class="tabImage" src="/assets/media/reborn/azurine_547_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_547_1.png"/>
 
 My automated map screenshot tool hates seaweed tiles for some reason, so apologies for the blank tiles on the underwater maps.
 
@@ -11954,11 +11954,11 @@ Hidden in this part of the large underwater area, you can find a *Shoal Shell*, 
 
 On the right side you can enter a house (marked 3) containing a *Relic Silver* as well as a hidden *Salt-Water Taffy* and the *F14 Key*. To the left and slightly up you'll find another unlocked building (4) containing 5 *Exp. Candy XL* as well as a hidden *Blue Shard*.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_553_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_553_1.png"/>
 
 Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poke Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_567_2.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_567_2.png"/>
 
 Surface somewhere in the upper part of the underwater map. You can find a hidden *Paralyze Heal* and 2 *Shoal Shells*.
 
@@ -11966,7 +11966,7 @@ Make your way to the very bottom of the underwater area and use your new key on 
 
 That wraps up this section of the lake for now. Fly over to Coral Ward and surf west.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_556_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_556_1.png"/>
 
 Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
@@ -12003,13 +12003,13 @@ You'll also be able to battle the third guy who looks like Corin Rouge here!
 
 From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks (6). Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_536_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_536_1.png"/>
 
 Inside the top house (7) you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island (8).
 
 Return to the spot with the swimmer, then make your way west towards Apophyll (to the south is Azurine Island, which I'll cover later on).
 
-<img class="tabImage" src="/assets/media/reborn/azurine_567_3.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_567_3.png"/>
 
 Hopefully the layout of the Azurine Lake is starting to make a bit more sense - Peridot Ward is the northern edge, Apophyll Beach is in the southwest, Azurine Island is on the south side, and Coral Ward is the southeast edge.
 
@@ -12017,7 +12017,7 @@ Once you hit a wall, a little bit down you'll see another strip of sand (9) that
 
 Now, return to the larger dive spot we previously skipped to reach the Sunrise Apartments area. Hidden on the underwater map you'll find a *Green Shard*, *Blue Shard*, *Big Pearl*, and *Purple Shard*.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_553_2.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_553_2.png"/>
 
 The building in the bottom right side (11) is unlocked, and you'll find a *Relic Copper* as well as a hidden *Green Shard* and the *S12 Key*. There is another unlocked house at the top (12) containing a *Relic Silver*, and a hidden *Paralyze Heal* and the *K33 Key*.
 
@@ -12027,7 +12027,7 @@ On this map you can get a hidden *Green Shard*, *X Speed*, and *Red Shard*. We c
 
 That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelter (former site of PULSE Muk), you'll be able to surf south.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_522_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_522_1.png"/>
 
 **Swimmer Hubert. Field: Water Surface**
 - Kingdra, Lv. 72, @Choice Specs, Ability: Sniper, Modest Nature, IVs: 20
@@ -12046,7 +12046,7 @@ That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelt
     - Giga Drain
     - Dazzling Gleam
 
-<img class="tabImage" src="/assets/media/reborn/azurine_530_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_530_1.png"/>
 
 **Swimmer Arlo. Field: Water Surface**
 - Rotom-Wash, Lv. 73, @Leftovers, Ability: Levitate, Modest Nature, IVs: 20
@@ -12084,7 +12084,7 @@ That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelt
 
 Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way towards Apophyll Cave.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_538_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_538_1.png"/>
 
 **Swimmer Wilson. Field: Water Surface**
 - Blastoise, Lv. 72, @Elemental Seed, Ability: Torrent, Calm Nature, IVs: 20
@@ -12105,7 +12105,7 @@ Battle the trainers as you proceed down and right. Once you encounter a fork in 
 
 You'll be spit out right next to Apophyll Cave. Notice that there is a small path (14) you can surf through to go up from here, so take it.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_522_2.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_522_2.png"/>
 
 At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island.
 
@@ -12133,11 +12133,11 @@ At the very top you can get a *King's Rock*. Head down, following the right wall
 
 Dive down here into the Kingsbury Apartments area, and go all the way up.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_574_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_574_1.png"/>
 
 In the top left corner, a building is unlocked (16) and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head down from here onto technically a new map.
 
-<img class="tabImage" src="/assets/media/reborn/azurine_558_1.png"/>
+<img class="tabImage" src="/static/images/reborn/azurine_558_1.png"/>
 
 On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*.
 
@@ -12831,7 +12831,7 @@ Time for another fight with Victoria, the first in a while. You'll notice that s
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
-<img class="tabImage" src="/assets/media/reborn/devon_001.png"/>
+<img class="tabImage" src="/static/images/reborn/devon_001.png"/>
 
 Activate monitor #1, then go up and activate monitor #2 above. Use the purple pads to go back down and reactivate monitor #1, then go left. You'll be forced up here: activate monitor #3 then go towards the right.
 
@@ -12887,23 +12887,23 @@ Either way you have to fight.
 
 Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, though he might change the field to Electric Terrain. Most of his Pokemon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
 
-<img class="tabImage" src="/assets/media/reborn/devon_002.png"/>
+<img class="tabImage" src="/static/images/reborn/devon_002.png"/>
 
 Pro tip: there is a light shard later on in the next room, so you can ignore using the transponder for now and eat the electric damage.
 
 Start by taking the right path up to monitor #1 (path A). Backtrack down a bit and follow the path to the right. The spinner will take you down and right - do a loop by going up and back to the right (path B). Using this spinner to go down and right now, go right, right, left, and left to get the *PULSE Readout 1* (path C).
 
-<img class="tabImage" src="/assets/media/reborn/devon_003.png"/>
+<img class="tabImage" src="/static/images/reborn/devon_003.png"/>
 
 You'll be forced to go down into the spinner again, so do the B-loop from before once more and then go down and right. Move right, right, up, and up to enter the upper spinner from the bottom, then go left and down to return to the central spinner (path D). Do another B-loop then go down towards the bottom-right spinner and make your way around it a few times so that you end up on its right side. Go up from here until you can go left, then cross the spinner to use monitor #2 (path E). Head left and down to reach the central spinner once more.
 
-<img class="tabImage" src="/assets/media/reborn/devon_004.png"/>
+<img class="tabImage" src="/static/images/reborn/devon_004.png"/>
 
 Go down and right as before, using the bottom right spinner to reach the bottom right corner of the room, then go straight up (path F). Activate monitor #3, then make your way back towards the left side of the room and go up when you can (path G). Activate monitors #4 and #5 beyond, then follow the path to the stairs.
 
 In the next room... well, may lord Budew have mercy on her soul.
 
-<img class="tabImage" src="/assets/media/reborn/devon_005.png"/>
+<img class="tabImage" src="/static/images/reborn/devon_005.png"/>
 
 One more puzzle room for now. Follow the ropes to go up and pop out at the top on the left side, then go right back into the maze on the right side, going down, left, and up to the monitor. Follow the green path to the right. Use the spinner to reach the bottom, and use the Light Shard.
 
@@ -13612,16 +13612,16 @@ What I recommend is exploring the map you have landed on first without touching 
 To find the map you're on to start, you'll want to find your oasis. I provide images of each oasis below.
 
 Oasis 1: On the upper/middle of the left side of the desert
-<img class="tabImage" src="/assets/media/reborn/oasis1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/oasis1.jpg"/>
 
 Oasis 2: Middle of the right side of the desert
-<img class="tabImage" src="/assets/media/reborn/oasis2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/oasis2.jpg"/>
 
 Oasis 3: On the lower/middle of the left side of the desert
-<img class="tabImage" src="/assets/media/reborn/oasis3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/oasis3.jpg"/>
 
 Oasis 4: Bottom of the right side of the desert
-<img class="tabImage" src="/assets/media/reborn/oasis4.jpg"/>
+<img class="tabImage" src="/static/images/reborn/oasis4.jpg"/>
 
 So, once you find the map you're on, now we can start getting things!
 
@@ -13654,9 +13654,9 @@ You can encounter the same Pokemon on the various maps but at different rates. T
 
 For what it's worth, there are transitions from each map into two OTHER maps... which we will explore later. For now, keep in mind you don't want to go more north than these two images, the northwest and northeast borders:
 
-<img class="tabImage" src="/assets/media/reborn/td_nw_border.jpg"/>
+<img class="tabImage" src="/static/images/reborn/td_nw_border.jpg"/>
 
-<img class="tabImage" src="/assets/media/reborn/td_ne_border.jpg"/>
+<img class="tabImage" src="/static/images/reborn/td_ne_border.jpg"/>
 
 For now, don't enter any train cars yet, either.
 
@@ -15257,7 +15257,7 @@ Return to B2F, and switch to Glaceon. Move Glaceon up and to the left of the rig
 
 Position Glaceon exactly in this spot:
 
-<img class="tabImage" src="/assets/media/reborn/glass_glaceon.jpg"/>
+<img class="tabImage" src="/static/images/reborn/glass_glaceon.jpg"/>
 
 Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way so you can switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
 
@@ -15752,7 +15752,7 @@ There are essentially two parts to this quest: figuring out what numbers you wan
 
 I actually graduated with a degree in Mathematics once upon a time and do Computer Science-adjacent stuff for a living. So I'm gonna nerd out for a little while. Skip ahead a bit if you just want to see what the solution looks like. :)
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_0.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_0.jpg"/>
 
 So, first we are going to figure out what we want, where. It can be proven fairly easily that the middle is 5. Here's why:
 
@@ -15760,25 +15760,25 @@ Notice that from the middle row: B1 + B2 + B3 = 15, and from the diagonals that 
 
 We also can observe from the first and third column that A1 + B1 + C1 = 15 and A3 + B3 + C3 = 15. Thus simplifying the above result leads to 3 * B2 = 15, so B2 is 5.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_1.jpg"/>
 
 I'll solve for just one magic square for now.
 
 We might as well try putting 1 in a corner and seeing what happens. Since we can just rotate the square, without loss of generality we can see what happens when we place it in the top left corner of one of the magic squares and seeing if a contradiction arises. This will also force 9 to be in the opposite corner to keep with the 15 sum rule.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_2.jpg"/>
 
 Consider the highlighted tiles. Each cannot be 1, 5, 9 since each is used, so it must be inclusively between 2 and 4, or inclusively between 6 and 8. If the tile is at most 4, then the remaining tile in the row with 1 would have to be at least 10, which is impossible. If the tile is at least 6, the column with 9 would be too large. So there is no possible value that works in either highlighted tile, meaning that putting 1 in the corner leads to no solutions. Therefore, we can assume 1 is in one of the four tiles adjacent to the middle, making 9 appear opposite. Again without loss of generality due to rotations, I'll put 1 on the left.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_3.jpg"/>
 
 The column containing 1 has two empty tiles that will add up to 14, meaning the only possibility with the remaining numbers is for them to be 6 and 8 (as 2, 3, 4 are too small, and we can't use 7 twice). Since we can simply reflect our square across the horizontal line through the center, again there is no loss to generality to put 6 on top, and 8 below. Solving the diagonals puts 4 in the bottom right and 2 in the top right. Then all we have to do is put 3 and 7 into the final cells, which leaves us with one completed square.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_4.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_4.jpg"/>
 
 You can check that each row, column, and diagonal add up to 15 if you don't believe me. The final stipulation of this puzzle is that only the center can be the same across puzzles. To deal with this issue, I simply rotate the puzzle by 90 degrees: obviously the rows, columns, and diagonals all still add up to 15, but now each non-5 piece is in a different place.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_5.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_5.jpg"/>
 
 This is the solution we will solve for. Due to rotations and reflections as mentioned before, one or both of your squares may look different from mine.
 
@@ -15786,7 +15786,7 @@ This is the solution we will solve for. Due to rotations and reflections as ment
 
 Now, we just have to execute. Some players seem to be driven kinda mad by this step, but I am here to tell you about an algorithm with a handy invariant that guarantees we can complete the puzzle pretty easily! Essentially, we will solve piece by piece: by column, then by row. In fact, we can guarantee that we will be able to solve the first five columns in this way without messing up anything that came before!
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_6.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_6.jpg"/>
 
 Suppose we are solving for the highlighted tile on the left (the *destination*), and we need to move 5 in (the *target*). Note that the tiles in all the columns to the left (just column 1) have already been solved, and the tiles above our target as well (here, just column 2, row 1). We intend to keep the puzzle this way after putting the next tile into position. So, here's the algorithm:
 
@@ -15797,27 +15797,27 @@ Suppose we are solving for the highlighted tile on the left (the *destination*),
 
 - If the target is in the same row as the destination, move the column containing the target up once so that it is no longer in the same row.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_7.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_7.jpg"/>
 
 - Move the row containing the destination right as many times as it takes for the destination tile to be directly above/below the target.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_8.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_8.jpg"/>
 
 - Move the column containing the target up or down so that the target is now in the correct row.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_9.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_9.jpg"/>
 
 - Now, simply move the row containing the target back to the left until it is once more solved. You'll notice that if you did the steps right, it will leave all the previously solved pieces the same, and put the new piece into the correct spot.
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_10.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_10.jpg"/>
 
 Next, you'd move a 3 into the destination below the 5 we just moved in, then the 2 into the destination: top tile of the next column, and so on. That's really all there is to moving pieces in the first five columns into place. Do so, and your puzzle will look something like this:
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_11.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_11.jpg"/>
 
 In my case, the dashes will represent 2, 6, and 7. Moving the rightmost column up or down if necessary to put the correct number into the top right, either this will solve the puzzle right away, or it will have the other two numbers switched around. If this occurs, essentially it means that you put the wrong number into the left side puzzle. Your board should look somewhat like this in this case:
 
-<img class="tabImage" src="/assets/media/reborn/magic_square_12.jpg"/>
+<img class="tabImage" src="/static/images/reborn/magic_square_12.jpg"/>
 
 There is a simple fix however: switch 6's. Simply move the right column up, the first row left, the right column down, and the first row right again. Finally, move the right column down once again.
 
@@ -15898,7 +15898,7 @@ Fly over to Agate City, and enter the building below the gym. There is a child i
 
 Enter Charlotte's gym, and make your way to the back. I actually mentioned this before in the guide, since you can open the secret door at any time, and doing so earlier allows us access to an extra Charlotte point and an early Mega Stone. If you didn't open the door then, we need to make the tiles in the back section of Charlotte's gym match the tile layout in the random Agate basement. It should look like this when you're done:
 
-<img class="tabImage" src="/assets/media/reborn/calcsecret.jpg"/>
+<img class="tabImage" src="/static/images/reborn/calcsecret.jpg"/>
 
 Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 
@@ -16773,7 +16773,7 @@ Enter Saphira's gym to the left, and talk to her in the corner. Next, familiariz
 
 This conversation has tons of branches, so I made a flowchart. Note that all points here are for or against Saphira.
 
-<img class="tabImage" src="/assets/media/reborn/saphira_points.jpg"/>
+<img class="tabImage" src="/static/images/reborn/saphira_points.jpg"/>
 
 Next, you'll have to defend the chest against a barrage of Pokemon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokemon will fly, and some will run at you. The Knights are slow, but have 3 Pokemon apiece, so make sure you are able to defeat them. Also, save often!
 
@@ -16982,7 +16982,7 @@ Putting these steps together should get you a solution.
 
 The solution for the first puzzle:
 
-<img class="tabImage" src="/assets/media/reborn/vr_puzzle_1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/vr_puzzle_1.jpg"/>
 
 Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. Atk* and proceed to the next room.
 
@@ -17355,7 +17355,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/assets/media/reborn/vr_puzzle_2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/vr_puzzle_2.jpg"/>
 
 Grab the hidden *Muscle Wing* in the bottom right corner and return to the arrow hell room. In here, you'll need to push boulders out of the way. Save often, and turning off super speed for your sanity. Note that when you reach two pressure pads, push the boulder up once, climb around, then push it down twice to proceed. Along this path you'll get a *Max Revive* and hidden *X Sp. Def* and *Ultra Potion*.
 
@@ -17567,7 +17567,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/assets/media/reborn/vr_puzzle_3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/vr_puzzle_3.jpg"/>
 
 Proceed into the next room once you're done.
 
@@ -17747,7 +17747,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/assets/media/reborn/vr_puzzle_4.jpg"/>
+<img class="tabImage" src="/static/images/reborn/vr_puzzle_4.jpg"/>
 
 **Relationship Point Choices:**
 - Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)
@@ -19093,7 +19093,7 @@ Surf up. While you're going up, hug the right wall. You'll get a *Max Revive* an
 
 **ZCell 01: New World (Route 2 South)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_01.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_01.jpg"/>
 
 Head left and up for another Anomaly battle.
 
@@ -19156,7 +19156,7 @@ As you climb the stairs, hug the left wall and follow the path.
 
 **ZCell 02: New World (Route 2 North)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_02.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_02.jpg"/>
 
 **Anomaly Raikou. Field: Mountain Field**
 - Rotom-Frost, Lv. 103, @Icium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/252/252/4/0
@@ -19497,11 +19497,11 @@ You'll reach a fork here: go to the left, follow the ladders up and down, then i
 
 Backtrack to the fork, this time, going across the narrow path on the bottom right. Once you climb back down the ladder, hug the right wall here to reach:
 
-<img class="tabImage" src="/assets/media/reborn/genie_cell_path.jpg"/>
+<img class="tabImage" src="/static/images/reborn/genie_cell_path.jpg"/>
 
 **ZCell 03: New World (Route 4)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_03.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_03.jpg"/>
 
 Continue following the path from here. You'll reach what appears to be a dead end: there is an invisible bridge on the right side that will bring us back to a landmass with two ladders we visited previously. Take the bottom ladder and follow the path to exit this section of the New World.
 
@@ -19648,7 +19648,7 @@ Once you succeed at solving Smeargle's helpful instructions, enter the New World
 
 **ZCell 04: New World (Chrysolia Forest)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_04.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_04.jpg"/>
 
 Head up when you're ready.
 
@@ -19810,55 +19810,55 @@ Start by going straight to the left, hugging the bottom wall. You'll eventually 
 
 **ZCell 05: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_05.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_05.jpg"/>
 
 Make your way back to the entrance area, and go up into the next horizontal section. Go right, then down and left to reach:
 
 **ZCell 06: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_06.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_06.jpg"/>
 
 Make your way back to the "middle" of the map, and go up into the next horizontal section once more. To your right is a narrow pathway, but it leads to a dead end. Instead, go slightly up and follow the path left. You'll see two cells we can't get quite yet - keep following the path left for now. Eventually, you'll reach:
 
 **ZCell 07: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_07.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_07.jpg"/>
 
 Backtrack all the way to the previous fork, this time, going up to the next horizontal section. Left from here, you'll find:
 
 **ZCell 08: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_08.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_08.jpg"/>
 
 Next, go straight to the right, and follow the twisting path to the right. You'll eventually reach the other cell we saw earlier:
 
 **ZCell 09: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_09.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_09.jpg"/>
 
 Head all the way back to the fork. Hopefully we're starting to understand how this area works! At this next fork, go left until you reach:
 
 **ZCell 10: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_10.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_10.jpg"/>
 
 As you might expect, going right at the fork will lead you to:
 
 **ZCell 11: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_11.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_11.jpg"/>
 
 Back at the fork, climb the first set of dunes to go up a tier, but don't climb up the second quite yet. Follow the narrow path to the right to:
 
 **ZCell 12: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_12.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_12.jpg"/>
 
 Back at the fork, climb the final set of dunes. Going up from here, you'll see a large structure. Start by going to the left. You'll see a lever at the top of some stairs - pull it. Head left from here, and you'll find:
 
 **ZCell 13: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_13.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_13.jpg"/>
 
 From here, continue going around the loop until you see an open door up some stairs. Head in. Inside, you'll find two screens. Talk to each screen, then head back out.
 
@@ -19866,7 +19866,7 @@ Go left from here, and you'll find a path up that leads to another lever and a d
 
 **ZCell 14: Twilight Desert**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_14.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_14.jpg"/>
 
 Talk to the machine on the right, and you'll be able to merge ten of the cells we've found so far into **Zygarde 10%**. You can deconstruct this Zygarde, if you want.
 
@@ -19947,7 +19947,7 @@ Make your way to the top right side of the area. You'll be able to sneak down to
 
 **ZCell 15: New World (Chrysolia Railcave)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_15.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_15.jpg"/>
 
 Back in the main area, interact with the tall pillar at the top of the hill to create some electric platforms at the bottom right. The path from here is straightforward... and if you're on Lin Route, you'll even get taunted as you activate the pillars.
 
@@ -19959,7 +19959,7 @@ Once the pillar is activated, cross the bridge to the right, then again to a new
 
 **ZCell 16: New World (Chrysolia Railcave)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_16.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_16.jpg"/>
 
 Enter the New World Door at the bottom to return to the Chrysolia Deepwoods. Talk to Arclight here, then make your way through the Deepwoods to defeat the poachers. Arclight will heal you, if you need it. The first is up from Arclight:
 
@@ -20122,7 +20122,7 @@ You'll also notice that there are rocks on some of the tracks for the gems: this
 
 The solution:
 
-<img class="tabImage" src="/assets/media/reborn/vr_puzzle_5.jpg"/>
+<img class="tabImage" src="/static/images/reborn/vr_puzzle_5.jpg"/>
 
 Bennett will just do it for you if you fail too many times.
 
@@ -20189,19 +20189,19 @@ Back on the upper level, you can find a hidden *Pecha Berry* in a rock. You can 
 
 **ZCell 17: Aegir Cave**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_17.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_17.jpg"/>
 
 Return to the bottom floor and take the ladder up, in the top left. Make your way back to Bennett, then jump in the hole above him. Grab the hidden *Ultra Ball*, then climb down the rocks and get onto the water. Grab the hidden *Nugget* below the pillars, as well as:
 
 **ZCell 18: Aegir Cave**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_18.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_18.jpg"/>
 
 Return to the upper level. All the way in the bottom right corner, you can jump across a stone and into a hole. Climb the waterfall to reach:
 
 **ZCell 19: Aegir Cave**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_19.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_19.jpg"/>
 
 Head back down and dive.
 
@@ -20223,7 +20223,7 @@ Back down on the large lake, dive down. You'll be able to find a hidden *Blue Sh
 
 **ZCell 20: Aegir Cave**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_20.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_20.jpg"/>
 
 Talk to Serra near the bottom of the lake, then head right and climb the ladder. Back on the upper level, go to the top right corner and use the ladder here to reach a *Stick*. That's all the ingredients, so return to Bennett. Once you're ready, talk to **Victini** for a battle!
 
@@ -20458,7 +20458,7 @@ Hidden right behind the door is:
 
 **ZCell 21: Manyworld Pool**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_21.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_21.jpg"/>
 
 You can also find a hidden *Max Revive*, *Exp. Candy XL*, and a *Dusk Ball*. Surface on the other end.
 
@@ -20491,13 +20491,13 @@ This map is huge but mostly empty. Make your way to the bottom left corner to fi
 
 **ZCell 22: Manyworld Forest**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_22.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_22.jpg"/>
 
 Towards the top of the area, you'll be able to hop across some space platforms. In the center only on Anna Route, you'll find a *Fresh Water*. Don't waste it. Go to the left to find:
 
 **ZCell 23: Manyworld Forest**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_23.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_23.jpg"/>
 
 Down from here, you can hop across some platforms to grab the *Tapunium-Z*. Back up from here, you'll occasionally see a moving platform. Use it to reach a *Sacred Ash* at the top. Go back to the center.
 
@@ -20505,7 +20505,7 @@ Going as far to the right as possible, you'll be able to ride another moving pla
 
 **ZCell 24: Manyworld Forest**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_24.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_24.jpg"/>
 
 Back in the middle, go up. On Lin Route, now you'll get a *Fresh Water*. Pour the Fresh Water onto the Celebi.
 
@@ -20955,7 +20955,7 @@ Hug the left side to reach:
 
 **ZCell 25: New World (Train)**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_25.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_25.jpg"/>
 
 Head to the top of the hill once you're ready.
 
@@ -21357,7 +21357,7 @@ Go down and weasel your way between some rocks to find:
 
 **ZCell 26: Unexplored Territory**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_26.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_26.jpg"/>
 
 Head up onto the land once you're ready for a battle with Florinia as your ally.
 
@@ -21431,7 +21431,7 @@ By the way, in the bottom left corner, you can find:
 
 **ZCell 27: Unexplored Territory**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_27.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_27.jpg"/>
 
 Once you've found as many translations as you can, talk to Latias to learn a list of possible emotions, in English. These include Shock, Anxiety, Grief, Sorrow, Fear, Envy, Guilt, Passion, Confidence, Emptiness, Pride, Joy, Love, Disgust, Anger, and Apathy. Essentially, we will need to talk to the Florinia's around the area, diagnose them for one of these emotions, then translate it from the English word into the "emotion" word.
 
@@ -21556,7 +21556,7 @@ Grab a hidden *Rawst Berry*, then surf to the left and climb the waterfall to re
 
 **ZCell 28: Aegir Cave Depths**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_28.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_28.jpg"/>
 
 You can also climb the rightmost waterfall by going around the rocks to get the *Prison Bottle*!
 
@@ -21572,7 +21572,7 @@ You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next ha
 
 **ZCell 29: Aegir Cave Depths**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_29.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_29.jpg"/>
 
 Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poke Ball*. Talk to our pal when you're ready for a fight.
 
@@ -21796,13 +21796,13 @@ Grab the *Relic Copper* in the first room. There is a small door to the right of
 
 **ZCell 30: Splash Zone**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_30.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_30.jpg"/>
 
 Back in the entrance room, enter the large door, and grab another 2 *Relic Coppers* in the next. Grab the 3 *Manaphy Gems* on the dais. Use it to open the door at the top. Grab the *Relic Copper* in the next room, and start by going right at the fork. Along the way, you'll find 2 *Relic Coppers* and:
 
 **ZCell 31: Splash Zone**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_31.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_31.jpg"/>
 
 Follow the other path from the fork. Pick up the *Relic Copper* and proceed. You'll find a room with... 2 more *Relic Coppers* and a door to use the Manaphy Gem on.
 
@@ -21861,7 +21861,7 @@ You'll learn about electricity sizzling through the air. Talk to the pillar in t
 
 **ZCell 32: Tabula Rasa**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_32.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_32.jpg"/>
 
 **Anomaly Tapu-Koko. Field: Electric Terrain**
 - Zeraora, Lv. 125, @Elemental Seed, Ability: Volt Absorb, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
@@ -22057,7 +22057,7 @@ After a small section as Siggy again, you'll find yourself in the Orphanage once
 
 **ZCell 33: Not Truly For Children**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_33.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_33.jpg"/>
 
 Approach the shining object downstairs once you're ready.
 
@@ -22343,37 +22343,37 @@ Welcome to the Triskeline Toybox. Jump across the pink balls to the next area. H
 
 **ZCell 34: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_34.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_34.jpg"/>
 
 You can actually open the two chests to the left to get 3 *EV Boosters* and an *Ability Capsule*. Head up another set of stairs to open 2 more chests, containing a *Jolly Mint* and a *Timid Mint*. Down and right from here you can open 2 more chests to get a *PP All* and the *Mewnium-Z*. To the right:
 
 **ZCell 35: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_35.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_35.jpg"/>
 
 Down from here, hop across the pink balls to reach:
 
 **ZCell 36: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_36.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_36.jpg"/>
 
 Hop to the left, make your way to the bottom left corner, and hop to the left once more. Follow this path.
 
 **ZCell 37: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_37.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_37.jpg"/>
 
 Snorlax and Charizard block two of the chests, but you can open the one on the left to get 3 *Exp. Candy XL*. Head up from here:
 
 **ZCell 38: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_38.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_38.jpg"/>
 
 Open the chest to the right to find 8 *Glitter Balls*. Go down the stairs below and go right to open another chest, containing an *EV Tuner*. Climb back up the stairs to the left and hop across the pink balls:
 
 **ZCell 39: Triskeline Toybox**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_39.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_39.jpg"/>
 
 Hop across to the right, then go down and left. You'll see a Lapras plush: hop up from here.
 
@@ -22434,7 +22434,7 @@ In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ul
 
 **ZCell 40: Chrysolia Deepwoods Cave**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_40.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_40.jpg"/>
 
 Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage.
 
@@ -22807,19 +22807,19 @@ Make your way to the center, remove the Chill Drive and Shock Drive, insert the 
 
 **ZCell 41: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_41.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_41.jpg"/>
 
 Return to the center. Remove the Burn Drive and put in the Chill Drive, then go to the bottom right corner of the room where there is another machine. Activate the supercooling system here - in the capsule, you'll find:
 
 **ZCell 42: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_42.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_42.jpg"/>
 
 Back in the center, put in the Shock Drive. Make your way to the bottom left corner, and activate hydroelectric power. In the capsule:
 
 **ZCell 43: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_43.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_43.jpg"/>
 
 That about covers the goodies, so make your way back to the center. Remove all drives except for the Douse Drive and Burn Drive, then make your way around the bottom, up the left side, and to the top of the room. You'll find a **Genesect** to catch up here!
 
@@ -22938,7 +22938,7 @@ Finally, make your way to the bottom left corner, where the mushrooms are. Walk 
 
 **ZCell 44: Idyll of Pestilence**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_44.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_44.jpg"/>
 
 Return to the mushroom area. Follow the left edge of this area down, then go right, using three mushrooms along the way. Talk to the orb at the end here, then return to the center. Walk under the mushroom in the bottom right to reach the fifth Shaymin! Return to the top of the hill in the center.
 
@@ -23042,7 +23042,7 @@ Make your way to the top right corner once more. Hop to the left to get a *Full 
 
 **ZCell 45: Idyll of Panaceance**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_45.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_45.jpg"/>
 
 Hop to the island in the top right corner. Talk to the orb then use the springy grass to reach the third *Gracidea*.
 
@@ -23102,15 +23102,15 @@ In this hallway, go up and left to enter the room with the New World Door we wer
 
 This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Note that you can get up to two 'extra steps' by talking to the statue from above, in certain situations, so if it seems like it's impossible to reach the next area, try doing that. Activate the Purple Statue next.
 
-<img class="tabImage" src="/assets/media/reborn/subseven_path_1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/subseven_path_1.jpg"/>
 
 Undo your steps to return to the entrance of the room. The next path you have to take will lead you to the Green Statue. Note that if you mess up and end up in some of the rooms on the left side, you'll have to go back to the beginning and start again.
 
-<img class="tabImage" src="/assets/media/reborn/subseven_path_2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/subseven_path_2.jpg"/>
 
 Return to the entrance area once more. Finally, we simply have to make it to the top of this room and climb the stairs. The path:
 
-<img class="tabImage" src="/assets/media/reborn/subseven_path_3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/subseven_path_3.jpg"/>
 
 Use the Light Shard if necessary and talk to the space deity in the room for a battle.
 
@@ -23398,7 +23398,7 @@ Win to nab the third *Nanab Berry*, then return to the ??? guy. Up and to the ri
 
 **ZCell 46: Endgame**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_46.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_46.jpg"/>
 
 Or so it would seem. Talk to Shiv up from here for a battle!
 
@@ -23566,43 +23566,43 @@ Talk to Lumi outside once more, and you'll see a New World Door has opened. Grea
 
 **ZCell 47: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_47.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_47.jpg"/>
 
 **ZCell 48: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_48.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_48.jpg"/>
 
 **ZCell 49: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_49.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_49.jpg"/>
 
 **ZCell 50: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_50.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_50.jpg"/>
 
 **ZCell 51: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_51.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_51.jpg"/>
 
 **ZCell 52: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_52.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_52.jpg"/>
 
 **ZCell 53: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_53.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_53.jpg"/>
 
 **ZCell 54: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_54.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_54.jpg"/>
 
 **ZCell 55: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_55.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_55.jpg"/>
 
 **ZCell 56: The Underroot**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_56.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_56.jpg"/>
 
 With those all taken care of, return to the Rhodochrine Tree and enter the New World Door.
 
@@ -23712,13 +23712,13 @@ Go to the left all the way to what appears like a dead end, and you'll be able t
 
 **ZCell 57: Rhodochrine Tree**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_57.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_57.jpg"/>
 
 You can also surf across the water on the right side of the area to reach:
 
 **ZCell 58: Rhodochrine Tree**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_58.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_58.jpg"/>
 
 Talk to Noel once more and you'll be taken to the base of the tree. That's it for this quest right now... we'll finish it up later. Return to the Nightclub!
 
@@ -23770,7 +23770,7 @@ Once you finish the puzzle, you can grab:
 
 **ZCell 59: Mirage Tower?**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_59.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_59.jpg"/>
 
 You can also get the *Solganium-Z* here. Proceed to the next room.
 
@@ -23827,7 +23827,7 @@ In the next area, head down the ladder to get a hidden *Rare Bone*. Head up, the
 
 **ZCell 60: Mirage Tower?**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_60.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_60.jpg"/>
 
 Complete the rest of the room: using what we've just learned will make it straightforward. Push the stone in a clockwise loop around the room to continuously push the ladder.
 
@@ -23835,13 +23835,13 @@ The next section is generally similar, note that you can access the mirror from 
 
 **ZCell 61: Mirage Tower?**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_61.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_61.jpg"/>
 
 Make it to the end of the room and exit at the top. You'll talk to Saphira here, and also you'll be able to find:
 
 **ZCell 62: Mirage Tower?**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_62.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_62.jpg"/>
 
 Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this rather straightforward path to another Anomaly!
 
@@ -23955,7 +23955,7 @@ Follow the path to the left to find:
 
 **ZCell 63: Cauldron of the Future**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_63.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_63.jpg"/>
 
 It's also worth noting that the glowing mining rocks here will infinitely replenish if you exit this area and return, so no need to buy Blast Powder or worry about the finite number of rocks in the region.
 
@@ -24376,11 +24376,11 @@ Once you win, enter the New World Door to reach Distorted Space.
 
 Defeat the Malamar here. Afterwards, talking to any Malamar will switch which sections of path are walkable and which are not. A path through, with color changes indicating use of Malamar, is as follows:
 
-<img class="tabImage" src="/assets/media/reborn/distorted_space_1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/distorted_space_1.jpg"/>
 
 The second room introduces a new wrinkle - the space bending statues we used in the Dialga/Palkia quest are back, and used in conjunction with the Malamar. Before continuing, talk to the first accessible Malamar, then walk back through the portal to the previous room. Use the statue to go left to grab the *Marshadium-Z*! Anyways, the path through the second room is as follows:
 
-<img class="tabImage" src="/assets/media/reborn/distorted_space_2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/distorted_space_2.jpg"/>
 
 Note that once you reach the gold stars the second time, you'll need to talk to Malamar while you still have your walk-through-walls ability from the upper statue, then head right back up to these two statues to continue.
 
@@ -24388,17 +24388,17 @@ In the next room, we first will need to interact with the two orbs towards the b
 
 To reach the left orb, follow this path:
 
-<img class="tabImage" src="/assets/media/reborn/distorted_space_3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/distorted_space_3.jpg"/>
 
 To reach the right orb, follow this path, noting that at the Blue Star, you'll need to talk to Malamar then press 'A' to return to the previous statue:
 
-<img class="tabImage" src="/assets/media/reborn/distorted_space_4.jpg"/>
+<img class="tabImage" src="/static/images/reborn/distorted_space_4.jpg"/>
 
 With that taken care of, use the only available statue to reach the center of the middle section above. Grab the *Lustrous Orb*, *Adamant Orb*, as well as:
 
 **ZCell 64: Distorted Space**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_64.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_64.jpg"/>
 
 This final puzzle in here is a bit more complicated. If you're on Anna Route, this puzzle will basically be solved for you automatically, so I'll show the full solution for Lin Route here. First, use the statue to reach Malamar, then make your way back to the center. We can solve this puzzle entirely without having to use Malamar again after this (to be sure you're on the right one, make sure the left Giratina statue is activated).
 
@@ -24469,7 +24469,7 @@ Head up and talk to Luna and Elias. Talking to them will make the room dark or l
 
 Essentially, we will want to make a beam in the center of the room hit one of the four crystals in the corners. Our first goal will be hitting the Blue Crystal. Start by moving the mirror up to hit it:
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_1.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_1.jpg"/>
 
 Use the crystal, cross the bridge above, and talk to the orb.
 
@@ -24477,45 +24477,45 @@ You'll notice that there are now two mirrors. Move them in the light, switch it 
 
 Our next goal will be hitting Green. Position the crystals in the light, then move them like so:
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_2.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_2.jpg"/>
 
 Activate the purple crystal. Next, you'll want to move one mirror into place such that a well timed Purple Crystal activation will allow the light to reach Green. The image below shows the direction the light will travel - you must time your use of the Purple Crystal while the light is in the red zone in order to succeed. Turn off speed up for these puzzles.
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_3.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_3.jpg"/>
 
 Activate the crystal, then smash the debris on the puzzle board. Our next mission will be to activate the Blue and Green crystals at the same time - note that using the prism in the center will reset all crystals but Purple. We now have a beam that goes left out of the prism, so that's useful. First, you'll need to place the mirrors in the light, then move them into place in the dark. First, you'll need to charge Purple like before, so set it up like this:
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_4.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_4.jpg"/>
 
 Activate Purple. Next, move the mirror into place and solve like before, using Purple while BOTH lights are in their respective 'red zone':
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_5.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_5.jpg"/>
 
 Activate both Blue and Green, then follow the path to the right to reach another orb. Also, just across the ice bridge, attempt to walk into the bottom right corner to find:
 
 **ZCell 65: Citae Prisma**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_65.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_65.jpg"/>
 
 Our next mission will be to activate Green, Red, and Blue all at the same time. Set up the mirrors in the light, activate Purple as usual, then set up the mirrors to complete the puzzle, which thankfully isn't too different from the previous. Set them up and solve:
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_6.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_6.jpg"/>
 
 Activate all three crystals, then make your way to the left to reach another orb. You can also now go up from the puzzle to get:
 
 **ZCell 66: Citae Prisma**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_66.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_66.jpg"/>
 
 Talk to Serra in the puzzle, and you'll notice that the final mirror we get is broken. Use the light at the middle, and it will actually go through Serra towards the direction she's facing, so she's essentially a rotatable mirror. We can't teleport her anywhere using the Purple Crystal, though. Our final goal is to have all four crystals activated at once. Again, we can activate Purple beforehand, but we need to set it up so that once we use the prism in the middle, all four beams of light eventually find a respective crystal.
 
 First, set up all the crystals and Serra into their final positions, then turn it light, and dark again.
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_7.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_7.jpg"/>
 
 Using the prism will activate Purple, so do that next. From here, move the crystals into their next positions. The timing is really tight on this one, but you should be able to make it work. Use the Purple Crystal as soon as the light passes both of the circled mirrors, and you should be ok.
 
-<img class="tabImage" src="/assets/media/reborn/citae_prisma_8.jpg"/>
+<img class="tabImage" src="/static/images/reborn/citae_prisma_8.jpg"/>
 
 You'll get confirmation from Serra once you're successful. Activate Blue again to cross the ice bridge and enter the door above. Time for an Anomaly battle once you're ready.
 
@@ -24875,19 +24875,19 @@ Our final Ultra Beast is located here! Anyways, at the first fork, head down and
 
 **ZCell 67: Neoteric Isle**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_67.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_67.jpg"/>
 
 Continuing on the path, you'll see another:
 
 **ZCell 68: Neoteric Isle**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_68.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_68.jpg"/>
 
 There is one more outside - follow the path to the left of the first tall tower to reach:
 
 **ZCell 69: Neoteric Isle**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_69.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_69.jpg"/>
 
 Head back to the first tall tower and enter. Prepare yourself however you can and attempt to enter the door at the top:
 
@@ -24900,13 +24900,13 @@ Enter this room. On the left wall you'll see one tile that doesn't look right - 
 
 **ZCell 70: Neoteric Isle**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_70.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_70.jpg"/>
 
 Head up and talk to Fern, then enter the door to the right. You'll find the *N-Solarizer* as well as:
 
 **ZCell 71: Neoteric Isle**
 
-<img class="tabImage" src="/assets/media/reborn/zcell_71.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zcell_71.jpg"/>
 
 Back at the fork, go up for one heck of a battle.
 
@@ -25163,7 +25163,7 @@ Once you win, or if you skipped the fight, you'll get **Zygarde 100%**. Neat.
 
 Before we leave, Walk to the right onto the green tile, then go left down the path. Solve the puzzle at this monitor. When finished, it will look like:
 
-<img class="tabImage" src="/assets/media/reborn/zygarde.jpg"/>
+<img class="tabImage" src="/static/images/reborn/zygarde.jpg"/>
 
 As for actually solving it, you'll notice that you are essentially dragging rows and columns. This is actually very similar to solving the magic square puzzle once you know where everything goes - if we're solving top to bottom, left to right, simply drag the column down so that the target space is in line with the target piece, move the row containing it over so it fits, then move the column back into place. If you could figure out that other puzzle, this one won't be too bad.
 

@@ -54,7 +54,7 @@ def generate_image_markdown(name, **kwargs):
 def generate_image_markdown(filename, **kwargs):
     version = kwargs["version"]
     #v = kwargs["version"] if "version" in kwargs else "reborn"
-    return f'<img class="tabImage" src="/assets/media/{version}/{filename}"/>'
+    return f'<img class="tabImage" src="/static/images/{version}/{filename}"/>'
 
 
 # def read_pbs_file(pbs_file_name, game='reborn'):

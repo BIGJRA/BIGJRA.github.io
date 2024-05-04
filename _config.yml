@@ -55,6 +55,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - raw/
+  - raw
   - utils/
   - resources/
+  - TODO.md
+  - requirements.txt
+  
