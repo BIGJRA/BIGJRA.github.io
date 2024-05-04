@@ -34,7 +34,7 @@ MON_NAME_FIX_DICT = {
 }
 
 def get_game_contents_dir(version):
-    return os.path.join(ROOT_DIR, version)
+    return os.path.join(ROOT_DIR, "raw", version)
 
 def load_chapter_md(version, type, chapter_num):
     game_contents_dir = get_game_contents_dir(version)
