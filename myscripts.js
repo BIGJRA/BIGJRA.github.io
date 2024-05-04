@@ -1,13 +1,14 @@
-mybutton = document.getElementById("myBtn");
+
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function () { scrollFunction() };
 
 function scrollFunction() {
+  btn = document.getElementById("toTopButton")
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
+    btn.style.display = "block";
   } else {
-    mybutton.style.display = "none";
+    btn.style.display = "none";
   }
 }
 
@@ -21,9 +22,9 @@ $(document).ready(function () {
   $("img.tabImage").each(function () {
     $(this).attr("onclick", "window.open(this.src, '_blank');")
   });
+  $('.spoilerBtn').click(function() {
+    $(this).parent().find('.spoilerText').css('display', 'block');
+    $(this).hide();
+  })
 });
 
-$('.spoilerBtn').click(function() {
-	$(this).parent().find('.spoilerText').css('display', 'block');
-  $(this).hide();
-})
