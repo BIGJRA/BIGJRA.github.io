@@ -280,7 +280,7 @@ Head up the stairs three times to the right to talk to Cpt. Augustus. He'll expl
 
 Once you regain control, follow the path and watch the events play out.
 
-## Oceana Pier 
+## Oceana Pier
 
 After either skipping the boat scenes or watching the cutscenes, talk to Tesla. Once you regain control, you can explore Oceana Pier.
 
@@ -1960,7 +1960,7 @@ This can be tough, but Marianette's Pokemon do help out.
 Relationship Point Choices:
 - It was cool. (Neutral)
 - Calm down. (Marianette -3)
-- You were a great help! (Marianette +3) 
+- You were a great help! (Marianette +3)
 
 Enter at the top and save Luca.
 
@@ -8092,11 +8092,11 @@ Route 9
 | **Lycanroc**   | 10       | **Pincurchin** | 1        |
 | **Talonflame** | 2        |                |          |
 
-| Old Rod         | %        | Good Rod        | %  | 
+| Old Rod         | %        | Good Rod        | %  |
 |-----------------|----------|-----------------|----|
-| Spheal          | 70       | Mantyke         | 60 | 
-| Mantyke         | 30       | Quagsire        | 20 | 
-|                 |          | Qwilfish        | 20 | 
+| Spheal          | 70       | Mantyke         | 60 |
+| Mantyke         | 30       | Quagsire        | 20 |
+|                 |          | Qwilfish        | 20 |
 
 Explore the route a bit. There is also an Audino Breeder in the area, each time you win, you will get 7 *Exp. Candy L.*
 
@@ -8131,7 +8131,7 @@ Forlorned Cavern
 | Rhyhorn           | 1        |                |          |
 | Rhydon            | 1        |                |          |
 
-| Old Rod         | %   | Good Rod        | %  |   
+| Old Rod         | %   | Good Rod        | %  |
 |-----------------|-----|-----------------|----|
 | Corphish        | 70  | Mantyke         | 60 |
 | Chewtle         | 30  | Quagsire        | 20 |
@@ -9275,7 +9275,7 @@ Zorrialyn Desert (Left Area)
 | **Nidoking**    | 1   | **Nidoking**    | 1   |              |    |
 
 | Water        | %    | Old Rod   | %   | Good Rod   | %   |
-|--------------|------|-----------|-----|------------|-----| 
+|--------------|------|-----------|-----|------------|-----|
 | Gastrodon    | 66   | Shellos   | 70  | Helioptile | 80  |
 | Whiscash     | 30   | Wooper    | 30  | Heliolisk  | 20  |
 | Quagsire     | 4    |           |     |            |     |
@@ -9556,10 +9556,10 @@ Hiyoshi Pass
 | Stantler      | 9        |                |          |
 | Bouffalant    | 1        |                |          |
 
-| Old Rod   | %    |Good Rod   | %    |    
+| Old Rod   | %    |Good Rod   | %    |
 |-----------|------|-----------|------|
 | Goldeen   | 100  |Remoraid   | 100  |
-      
+
 
 Grab the *TM27 Return* on the right.
 
@@ -10393,7 +10393,7 @@ Goldenwood Park
 | Unfezant     | 1        |                |     |
 
 | Old Rod    | %    | Good Rod        | %  |
-|------------|------|-----------------|----|  
+|------------|------|-----------------|----|
 | Finneon    | 70   | Lumineon        | 60 |
 | Clauncher  | 30   | Qwilfish        | 20 |
 |            |      | **Clawitzer**   | 20 |
@@ -10513,11 +10513,11 @@ Route 10
 | Lycanroc     | 10       | **Wingull**    | 1        |
 | Talonflame   | 2        |                |          |
 
-| Old Rod    | %   | Good Rod        | %    |   
+| Old Rod    | %   | Good Rod        | %    |
 |------------|-----|-----------------|------|
-| Spheal     | 70  | Mantyke         | 60   |   
-| Mantyke    | 30  | Quagsire        | 20   |   
-|            |     | **Shellder**    | 20   |   
+| Spheal     | 70  | Mantyke         | 60   |
+| Mantyke    | 30  | Quagsire        | 20   |
+|            |     | **Shellder**    | 20   |
 
 You can also catch the overhead **Wingull** and **Pelipper!**
 
@@ -11480,7 +11480,7 @@ Sheridan Arena
 
 Route 3 / Phasial Cave / Moon Field / Mirage Woods
 
-| Super Rod        | %        |        
+| Super Rod        | %        |
 |------------------|----------|
 | Drednaw          | 65       |
 | Quagsire         | 35       |
@@ -11527,7 +11527,7 @@ Akuwa Town
 
 Route 11 / Evergreen Island
 
-| Super Rod        | %        |    
+| Super Rod        | %        |
 |------------------|----------|
 | Luvdisc          | 60       |
 | Sealeo           | 30       |
@@ -11569,7 +11569,7 @@ Evergreen Cave Feebas Room
 
 Sheridan Wetlands
 
-| Super Rod        | %        |   
+| Super Rod        | %        |
 |------------------|----------|
 | Seismitoad       | 60       |
 | Gastrodon        | 30       |
@@ -11612,7 +11612,7 @@ Deep Terajuma Jungle / Terajuma Jungle
 
 Kakori Village
 
-| Super Rod        | %        |    
+| Super Rod        | %        |
 |------------------|----------|
 | Carvanha         | 90       |
 | Basculin         | 9        |
@@ -11875,7 +11875,7 @@ You'll need something with Dark Pulse or Night Daze - the easiest is the Spirito
 
 Phasial Cave Crystal Area
 
-| Cave        | %        | 
+| Cave        | %        |
 |-------------|----------|
 | Meowth      | 40       |
 | Chewtle     | 24       |

@@ -2,7 +2,7 @@
 
 Welcome to my 100% walkthrough of Pokemon Reborn.
 
-My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you. 
+My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
 
 Since this guide is complete, there are some parts that may spoil events that happen later in the game. I try to be vague about story details, but you may want to consider playing the game once first without referencing this walkthrough if this is a concern.
 
@@ -13,7 +13,7 @@ The game will first ask you to choose a player character and gender. It will the
 Ame will ask you if you have any special instructions or passwords. From the game's readme:
 
 <div id="quote">
-    <p> At the start of the game, you will be prompted for special instructions, or passwords. Below is a list of applicable passwords. Please note that these are features are considered a bonus, and may have some  unexpected interactions at times... 
+    <p> At the start of the game, you will be prompted for special instructions, or passwords. Below is a list of applicable passwords. Please note that these are features are considered a bonus, and may have some  unexpected interactions at times...
     </p><br><br>
     <p>Implement a hard EXP cap when maxed on badges, similar to Pokemon Rejuvenation: </p><br>
         <ul><li>Password: hardcap</li></ul><br>
@@ -43,18 +43,18 @@ Ame will ask you if you have any special instructions or passwords. From the gam
     <p>Randomly reshuffles species and moves as rolled at game start:</p>
         <ul><li>Password: randomizer</li></ul><br>
     <p>Pokemon do not need to know HM (TMX) moves in order to use them in the field:</p>
-        <ul><li>Password: easyhms</li></ul><br> 
+        <ul><li>Password: easyhms</li></ul><br>
     <p>Prohibits the player's use of items in trainer battles:</p>
-        <ul><li>Password: noitems</li></ul><br> 
+        <ul><li>Password: noitems</li></ul><br>
     <p>Sets all opposing trainer Pokemon to have 252 EVs and 31 IVs in all stats:</p>
         <ul><li>Password: fullevs</li></ul><br>
     <p>Sets all opposing trainer Pokemon to have 0 EVs and IVs in all stats:</p>
-        <ul><li>Password: litemode</li></ul><br>    
+        <ul><li>Password: litemode</li></ul><br>
     <p>Makes all Field	Notes visible immediately</p>
         <ul><li>Password: allfieldapp</li></ul><br>
     <p>Remove some randomness by making all attacks do consistent damage rather than a roll:</p>
         <ul><li>Password: nodamageroll</li></ul><br>
-    <p>Multiple passwords, including differing monotypes, may be used in tandem with 
+    <p>Multiple passwords, including differing monotypes, may be used in tandem with
     each other, but progress at your own risk~</p><br><br>
     <p>Other hidden passwords may be able to be found in the game.</p>
 </div>
@@ -70,7 +70,7 @@ If this is your first time playing, don't worry too much about passwords - in fa
 - *allfieldapp* lets you see data about fields from the start. If you're following this guide I'll be picking up all the notes naturally anyways, so unless you really want to know right away how each field works you'll be ok skipping this one.
 - *litemode* is a good choice if you are struggling or want to experience the wonderful characters, world, and puzzles without spending too much time on the battles.
 
-Regardless, *this guide will be from the perspective of a player who is using no passwords.* 
+Regardless, *this guide will be from the perspective of a player who is using no passwords.*
 
 After you're done inputting passwords, enjoy the rest of your train ride!
 
@@ -78,7 +78,7 @@ After you're done inputting passwords, enjoy the rest of your train ride!
 
 As soon as you're off the train, you'll have a conversation with Ame and Julia. Note that I won't be summarizing story events much in this walkthrough aside from gameplay implications.
 
-This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokemon, Items, or the like. 
+This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokemon, Items, or the like.
 
 **Relationship Point Choices:**
 - Yes (+1 Julia)
@@ -136,7 +136,7 @@ Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually 
 - **Litten**
 - **Popplio**
 
-Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter! 
+Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter!
 
 It is ultimately up to you what you choose. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
 
@@ -149,12 +149,12 @@ Talk to Ame as soon as you're done, and you'll be taken downstairs and fight you
     - Tackle
     - Leer
 
-Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required. 
+Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required.
 
 **Relationship Point Choices:**
 - Defeat Cain in battle (+1 Cain)
 
-Once you are done with that battle, you'll be healed, then thrust into another battle. This is the first of what are generally referred to in this game as "gauntlets". Although not necessarily intended by the game, it is worth noting that if you spam the quicksave key while a character is moving in the mid-gauntlet cutscenes, you can save between gauntlet battles. 
+Once you are done with that battle, you'll be healed, then thrust into another battle. This is the first of what are generally referred to in this game as "gauntlets". Although not necessarily intended by the game, it is worth noting that if you spam the quicksave key while a character is moving in the mid-gauntlet cutscenes, you can save between gauntlet battles.
 
 **Apprentice Victoria. Field: No Field**
 - Litten, Lv. 5, Ability: Blaze, Bashful Nature, IVs: 10
@@ -168,7 +168,7 @@ You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefull
 
 After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
-Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often. 
+Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often.
 
 Talk to the guy in the top left - he will tell us about the password *litemode*. We can't enter new passwords right now, but we will be able to later.
 
@@ -202,7 +202,7 @@ That's all we can really do in the Grand Hall for now, so head outside.
 
 ## Opal Ward
 
-To the right is a trainer. For enemy trainers, assume default level up moves, random abilities and nature, and no EVs when not listed. 
+To the right is a trainer. For enemy trainers, assume default level up moves, random abilities and nature, and no EVs when not listed.
 
 **Techie Jonathan. Field: No Field**
 - Yungoos, Lv. 4, Serious Nature, IVs: 10
@@ -249,7 +249,7 @@ For beating both of the trainers at the bottom of the stairs, you'll get an *Exp
 - (A): *Awakening*
 - (B): *Blue Shard*
 - (C): *Antidote*
-  
+
 In the top right, you'll find three bullies.
 
 **Youngster Randy. Field: No Field**
@@ -261,7 +261,7 @@ You'll need two Pokemon to be able to fight the last two, so catch a second if y
 - Fomantis, Lv. 6, Serious Nature, IVs: 10
 - Mudbray, Lv. 6, Serious Nature, IVs: 10
 
-When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokemon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon). 
+When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokemon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 
 If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt, which it learns at level 11. Also, it might be worthwhile to save before you get the Pokemon: both of these can have the Pickup ability, which can be incredible in Pokemon Reborn. [Click here for details about Pickup in Reborn.](https://www.rebornevo.com/pr/pickup/)
 
@@ -275,13 +275,13 @@ In the Lower Peridot Ward, things have opened up! To the left is a trainer.
 - Cleffa, Lv. 5, Serious Nature, IVs: 10
 - Panpour, Lv. 5, Serious Nature, IVs: 10
 
-Next, head right then up as soon as you can. 
+Next, head right then up as soon as you can.
 
 <img class="tabImage" src="/static/images/reborn/hidden003.png"/>
 
-A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here. 
+A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here.
 
-You'll find a gym here. We can't go in yet, but if you go up and around to the right, you'll find a *Gift Box*. 
+You'll find a gym here. We can't go in yet, but if you go up and around to the right, you'll find a *Gift Box*.
 
 Also, specifically when the weather is thunderstorming, you'll find **Blitzle** here. Since it's Lv. 15 it might be a bit too tough to deal with right now, so you can come back later. Note that this is the first encounter that is only possible with the right weather - if you'd like to avoid having to wait you can use the *weathermod* password at your next opportunity.
 
@@ -303,7 +303,7 @@ A riveting moveset.
 
 In the nearby house, you can take a quiz to find out what types of Pokemon you'd be. It's quite long, but a fun time. You'll also be given a *Type Gem* corresponding to the type you get, as well as learn about the *mono[type]* password.
 
-Anyways, go down and right from here. 
+Anyways, go down and right from here.
 
 **Doxy Hera. Field: No Field**
 - Igglybuff, Lv. 5, Serious Nature, IVs: 10
@@ -312,9 +312,9 @@ Anyways, go down and right from here.
 **Casanova Saad. Field: No Field**
 - Pansage, Lv. 7, Serious Nature, IVs: 10
 
-During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it. 
+During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it.
 
-Go left from this area and enter the first house that you can. Inside, you'll find a *PokeSnax*! This item is crucial for getting certain Pokemon. 
+Go left from this area and enter the first house that you can. Inside, you'll find a *PokeSnax*! This item is crucial for getting certain Pokemon.
 
 More hidden items around here include:
 
@@ -322,11 +322,11 @@ More hidden items around here include:
 - (E): *Exp. Candy XS*
 - (F): *Common Candy*
 
-With the PokeSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**. 
+With the PokeSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
 
-Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you! 
+Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you!
 
-On the left side of the Pokemon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*! 
+On the left side of the Pokemon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*!
 
 Back outside, we can actually fish in the dirty water.
 
@@ -336,7 +336,7 @@ Back outside, we can actually fish in the dirty water.
 |------------------|---|
 |**Grimer**        |100|
 
-You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy. 
+You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy.
 
 **Fisherman Morey. Field: No Field**
 - Goldeen, Lv. 10, Serious Nature, IVs: 10
@@ -359,14 +359,14 @@ Head out, and back up past the rod guy's house. You'll find the Name Rater's hou
 
 If it is still a clear daytime, here you'll be able to talk to Teddiursa again, who will run off to a random location. I will cover all the locations later on, but keep in mind finding it three times from here will allow you to battle and catch it.
 
-Enter the building here and talk to the old man for a battle. 
+Enter the building here and talk to the old man for a battle.
 
 **Elder Seacrest. Field: No Field**
 - Caterpie, Lv. 9, Serious Nature, IVs: 10
 - Wurmple, Lv. 9, Serious Nature, IVs: 10
 - Weedle, Lv. 9, Serious Nature, IVs: 10
 
-If you win, you'll be able to enter his garden. 
+If you win, you'll be able to enter his garden.
 
 **Lower Peridot Ward / Peridot Ward**
 
@@ -395,7 +395,7 @@ Once you beat her, talk to her again for a *Rose Incense*! More hidden items:
 - (C): *Antidote*
 - (D): *Paralyze Heal*
 
-Up from here, enter the building on the right. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here. 
+Up from here, enter the building on the right. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here.
 
 **Relationship Point Choices:**
 - Accept Kricketot (+1 Shelly)
@@ -432,7 +432,7 @@ There is a *Super Potion* here as well as some hidden items:
 
 During thunderstorms specifically, you'll be able to get **Tynamo** by talking to the beam.
 
-Head outside and go to the right under the bridge. 
+Head outside and go to the right under the bridge.
 
 **Street Rat Bob. Field: No Field**
 - Hoppip, Lv. 5, Serious Nature, IVs: 10
@@ -454,7 +454,7 @@ When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly dete
 |**Woobat**        |20 |
 |Stunky            |6  |
 
-Woobat can be pretty solid thanks to its Simple ability, and you can evolve it early with enough friendship. 
+Woobat can be pretty solid thanks to its Simple ability, and you can evolve it early with enough friendship.
 
 A rock at the top left contains a hidden *Guard Spec*. Once you're done here, head back to the left and go up past Seacrest's Garden to enter the northern part of Peridot Ward.
 
@@ -504,13 +504,13 @@ The in-game trade I mentioned earlier is in the nearby house, but we probably ar
 **Doxy Shawna. Field: No Field**
 - Oddish, Lv. 10, Serious Nature, IVs: 10
 
-Talk to the fountain while it is raining to battle **Surskit**! 
+Talk to the fountain while it is raining to battle **Surskit**!
 
 <img class="tabImage" src="/static/images/reborn/hidden008.png"/>
 
 The rock behind the dumpster in the bottom left corner of this plaza contains a *Calcium* (A). I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money. Also hidden:
 
-- (B): *Ether* 
+- (B): *Ether*
 - (C): *Potion*
 - (D): *Red Shard*
 
@@ -526,7 +526,7 @@ Enter the top left house when you're ready for a battle with the guy who stole o
 
 However, they don't actually have our purchased Pokemon, so we'll just have to continue this quest later.
 
-Head down and enter the tall building to your right. Inside, two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them. 
+Head down and enter the tall building to your right. Inside, two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them.
 
 **Meteor Grunt Geoff & Meteor Grunt Audrey. Field: No Field**
 - Duskull, Lv. 11, Serious Nature, IVs: 10
@@ -563,14 +563,14 @@ Anyways, to the right of the tall building you can defeat another blonde haired 
 
 Our first *Data Chip* is above. You can use it to add a password at any PC!
 
-Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left. We will traverse this loop clockwise. Enter the first building you come upon. At night, you can catch **Grubbin** or **Joltik**, randomly determined. Note that this will use up one of your snax, so you'll need to buy more to do other snax-related events. Inside the next building to the left is another *Common Candy*. 
+Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left. We will traverse this loop clockwise. Enter the first building you come upon. At night, you can catch **Grubbin** or **Joltik**, randomly determined. Note that this will use up one of your snax, so you'll need to buy more to do other snax-related events. Inside the next building to the left is another *Common Candy*.
 
 **Street Rat Charlie. Field: No Field**
 - Salandit, Lv. 10, Serious Nature, IVs: 10
 
 To the left is a Pokemart. The "Default Shops" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward shop will have the same inventory as the Grand Hall shop until we get a badge, then they will both upgrade, for example.
 
-Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money. 
+Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money.
 
 **Youngster Marshall. Field: No Field**
 - Surskit, Lv. 12, Serious Nature, IVs: 10
@@ -631,7 +631,7 @@ Around this time, your Zigzagoon/Bidoof will be able to learn Headbutt, so there
 
 Note that we will eventually want a Mothim for an in-game trade, so ensure you catch a Male Burmy at some point. Next, head back to Opal Ward.
 
-**Opal Ward** 
+**Opal Ward**
 
 |Headbutt          |%  |
 |------------------|---|
@@ -642,14 +642,14 @@ Note that we will eventually want a Mothim for an in-game trade, so ensure you c
 Now is a good time to finish the Teddiursa quest if you haven't already. Keep in mind this has to be done on a clear day. After talking to it in the bottom part of the Lower Peridot Ward and then again on the left side near the Name Rater's house, you'll need to find it three more times. It can be found in one of the following locations, then will be found in the two after it in the list (cyclically).
 
 1. Nearby the train station, where we started the game.
-2. Under the Opal Bridge, nearby Panpour/Pansear. 
+2. Under the Opal Bridge, nearby Panpour/Pansear.
 3. Above Mosswater Industrial in between two buildings.
 4. Next to the Upper Peridot Ward Pokemart.
 5. Next to the rock containing the Calcium near the fountain.
 6. Nearby the dumpster where we got Gulpin.
 7. In the bottom left corner of Seacrest's garden.
 
-**Teddiursa** will then battle you. 
+**Teddiursa** will then battle you.
 
 With that out of the way, time to progress the story. Make sure you have your best team for some battles coming up.
 
@@ -689,9 +689,9 @@ In the top left you'll find another terminal: X1XX. The three terminals nearby g
 
 **Meteor Grunt Sanchez & Meteor Grunt Devin. Field: Factory Field**
 - Tympole, Lv. 12, Serious Nature, IVs: 10
-- Geodude-Alola, Lv. 12, Serious Nature, IVs: 10 
- 
-A terminal to the right shows 3XXX. Down from here are more grunts. 
+- Geodude-Alola, Lv. 12, Serious Nature, IVs: 10
+
+A terminal to the right shows 3XXX. Down from here are more grunts.
 
 **Meteor Grunt Bruno & Meteor Grunt Ray. Field: Factory Field**
 - Lillipup, Lv. 12, Serious Nature, IVs: 10
@@ -714,19 +714,19 @@ On the second floor, Rini will start us off with part of the second password: XX
 - Beldum, Lv. 12, Serious Nature, IVs: 10
 - Stunky, Lv. 12, Serious Nature, IVs: 10
 
-Interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity. 
+Interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity.
 
 **Meteor Grunt Demian & Meteor Grunt Antoine. Field: Factory Field**
 - Venonat, Lv. 12, Serious Nature, IVs: 10
 - Poochyena, Lv. 12, Serious Nature, IVs: 10
 
-In this room, use the terminal to discover the hint X8XX. Back outside, go left. 
+In this room, use the terminal to discover the hint X8XX. Back outside, go left.
 
 **Meteor Grunt Janis & Meteor Grunt Grant. Field: Factory Field**
 - Minior, Lv. 13, Serious Nature, IVs: 10
 - Crabrawler, Lv. 13, Serious Nature, IVs: 10
 
-In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in. 
+In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in.
 
 **Meteor Grunt Rod & Meteor Grunt Ringo. Field: Factory Field**
 - Solrock, Lv. 13, Serious Nature, IVs: 10
@@ -761,11 +761,11 @@ Outside the factory, Florinia will ask you a question.
 
 You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. You may have noticed we were battling on the Factory Field inside Mosswater. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
 
-Before we continue with the story, there are a couple quests we can take care of now. 
+Before we continue with the story, there are a couple quests we can take care of now.
 
 Go to the factory area where we first met Fern, and talk to the scientist guy on the right side of the factory. He will give us the *Factory Field Readout*, so now we have more details whenever we have battles on the Factory Field that was in Mosswater.
 
-Head down and talk to the purple haired guy above the destroyed train station. A hotshot will steal his painkillers! Follow him inside the North Peridot Alley, where you can fight him. 
+Head down and talk to the purple haired guy above the destroyed train station. A hotshot will steal his painkillers! Follow him inside the North Peridot Alley, where you can fight him.
 
 **Hotshot Stiles. Field: No Field**
 - Timburr, Lv. 15, Serious Nature, IVs: 10
@@ -820,7 +820,7 @@ Now is a good time to mention the Grand Hall repeatable grinding trainers in the
 
 Use the trainers as you'd like to prepare for the gym.
 
-By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 15. If so, head into the house across from Mosswater to do an in-game trade for **Munna**! 
+By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 15. If so, head into the house across from Mosswater to do an in-game trade for **Munna**!
 
 ## Volt Badge
 
@@ -829,7 +829,7 @@ Enter the Neo-Circuit Power-Plant gym when you're ready. The puzzle is simple: b
 **Techie Ivan. Field: Factory Field**
 - Voltorb, Lv. 11, Serious Nature, IVs: 10
 - Voltorb, Lv. 11, Serious Nature, IVs: 10
-  
+
 **Techie Bill. Field: Factory Field**
 - Mareep, Lv. 14, Serious Nature, IVs: 10
 
