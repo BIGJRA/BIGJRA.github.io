@@ -32,6 +32,67 @@ MON_NAME_FIX_DICT = {
   "Flabebe" => ["Flabebe", "Flabebe"]
 }
 
+
+POKEMON_WIDTH = 19 # width of pokemon name column for encounter md tables
+PERCENT_WIDTH = 3 # width of percent for encounter md tables. 
+# (always 3 for vals <= 100)
+
+ENC_TYPES = {
+  "Land" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
+  "LandMorning" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
+  "LandDay" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
+  "LandNight" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
+  "Water" => [60, 30, 5, 4, 1],
+  "RockSmash" => [60, 30, 5, 4, 1],
+  "Cave" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
+  "OldRod" => [70, 30],
+  "GoodRod" => [60, 20, 20],
+  "SuperRod" => [40, 40, 15, 4, 1],
+  "HeadbuttLow" => [30, 25, 20, 10, 5, 5, 4, 1],
+  "HeadbuttHigh" => [30, 25, 20, 10, 5, 5, 4, 1]
+}
+
+ENC_NAMES = {
+  "OldRod" => "Old Rod",
+  "GoodRod" => "Good Rod",
+  "SuperRod" => "Super Rod",
+  "WaterGoodRodSuperRod" => "Water/G+S Rods",
+  "Land" => "Land",
+  "LandMorningLandDayLandNight" => "Land",
+  "LandMorning" => "Land (Morning)",
+  "LandDay" => "Land (Day)",
+  "LandMorningLandDay" => "Land (Morning/Day)",
+  "LandNight" => "Land (Night)",
+  "Cave" => "Cave",
+  "Water" => "Water",
+  "RockSmash" => "Rock Smash",
+  "HeadbuttLow" => "Headbutt Rare",
+  "HeadbuttHigh" => "Headbutt Common",
+  "HeadbuttLowHeadbuttHigh" => "Headbutt"
+}
+
+CORR_MON_NAMES = {
+  "Nidoranma" => "Nidoran M.",
+  "Nidoranfe" => "Nidoran F.",
+  "Mimejr" => "Mime Jr.",
+  "Mrmime" => "Mr. Mime",
+  "Typenull" => "Type: Null",
+  "Tapukoko" => "Tapu Koko",
+  "Tapubulu" => "Tapu Bulu",
+  "Tapufini" => "Tapu Fini",
+  "Tapulele" => "Tapu Lele",
+  "Mrrime" => "Mr. Rime",
+  "Hooh" => "Ho-oh",
+  "Porygonz" => "Porygon-Z",
+  "Jangmoo" => "Jangmo-o",
+  "Hakamoo" => "Hakamo-o",
+  "Kommoo" => "Kommo-o",
+  "Farfetchd" => "Farfetch'd",
+  "Sirfetchd" => "Sirfetch'd",
+  "Porygon2" => "Porygon2",
+  "Flabebe" => "Flabebe"
+}
+
 def get_game_contents_dir(version)
   File.join(ROOT_DIR, "raw", version)
 end
@@ -46,8 +107,3 @@ def load_chapter_md(version, type, chapter_num)
   File.read(file_path)
 end
 
-def generate_image_markdown(filename, **kwargs)
-  version = kwargs[:version]
-  #v = kwargs[:version] || "reborn"
-  "<img class=\"tabImage\" src=\"/static/images/#{version}/#{filename}\"/>"
-end

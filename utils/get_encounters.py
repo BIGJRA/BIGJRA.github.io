@@ -69,7 +69,7 @@ CORR_MON_NAMES = {
         "Flabebe": "Flabebe"
     }
 
-def generate_encounter_table(map_id, enc_type_exclude_list=None, to_bold=None, **kwargs):
+def generate_encounter_table(map_id, enc_type_exclude_list=None, to_bold=None,):
     version = kwargs["version"] if "version" in kwargs else 'reborn' 
     enc_filename = get_encounter_filename(version)
     map_encounters = get_encounters_from_file(map_id, enc_filename)

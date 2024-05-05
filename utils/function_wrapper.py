@@ -8,7 +8,7 @@ class FunctionWrapper:
         # I need to pass in version to basically all of the potential functions, so 
         # here we stick it in as as an argument. Anything that is consistent
         # across the whole document (ie. Version) should be used here:
-        self.attrs = {"version": version}
+        self.version = version
 
         # Shortnames (not required)
         self.shortnames = {"img": "generate_image_markdown"}
@@ -27,5 +27,5 @@ class FunctionWrapper:
         # Shortnames should make things quicker while coding - full function names work too
         func = self.shortnames[func_shortname] if func_shortname in self.shortnames else func_shortname
 
-        run_str = f"{func}({args}, **self.attrs)"
+        run_str = f"{func}({args})"
         return eval(run_str)

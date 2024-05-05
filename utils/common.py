@@ -52,11 +52,6 @@ def load_chapter_md(version, type, chapter_num):
         contents = f.read()
     return contents
 
-def generate_image_markdown(filename, **kwargs):
-    version = kwargs["version"]
-    #v = kwargs["version"] if "version" in kwargs else "reborn"
-    return f'<img class="tabImage" src="/static/images/{version}/{filename}"/>'
-
 # def read_pbs_file(pbs_file_name, game='reborn'):
 #     directory = game.capitalize() + "_pbs"
 #     file = pbs_file_name.lower() + ".txt"

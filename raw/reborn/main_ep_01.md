@@ -211,6 +211,8 @@ Anyways, there is grass here, which means we can obtain new team members! I will
 
 **Opal Ward**
 
+!enc(29, ["headbutt"], ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
+
 |Land (Morning/Day)|%  |Land (Night)      |%  |
 |------------------|---|------------------|---|
 |**Rattata**       |30 |**Rattata**       |30 |

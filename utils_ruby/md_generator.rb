@@ -2,7 +2,7 @@ require_relative 'common'
 require_relative 'function_wrapper'
 
 def generate_md_text(version = "reborn")
-  function_wrapper = FunctionWrapper.new(version)
+  func_wrapper = FunctionWrapper.new(version)
 
   def generate_md_pre_contents(version = "reborn")
     <<~PRE_CONTENTS
@@ -32,16 +32,13 @@ def generate_md_text(version = "reborn")
     end
     toc + "\n"
   end
-  
-  
-  
 
   def generate_md_post_contents
     # TODO
     ''
   end
   
-  def generate_chapter_contents(version, type, num, function_wrapper)
+  def generate_chapter_contents(version, type, num, func_wrapper)
     raw_md = load_chapter_md(version, type, num) 
 
     # Store chapter text as an array of lines - join them at the end
@@ -53,11 +50,10 @@ def generate_md_text(version = "reborn")
         # Function Wrapper class does the magic of taking a line 
         # beginning with ! and transforming it into a dynamic output:
         # taking a shortened function name, arguments, and globals
-        function_result = function_wrapper.evaluate_function_from_string(line)
+        function_result = func_wrapper.evaluate_function_from_string(line)
         res << function_result
       end
     end
-    puts res[-1]
     return res.join
   end
 
@@ -66,7 +62,7 @@ def generate_md_text(version = "reborn")
   res += generate_toc_contents(version)
   SECTIONS[version].each do |chapter_type, total_chapters|
     (1..total_chapters).each do |chapter_num|
-      res += generate_chapter_contents(version, chapter_type, chapter_num, function_wrapper)
+      res += generate_chapter_contents(version, chapter_type, chapter_num, func_wrapper)
       res += "\n"
     end
   end
@@ -74,6 +70,3 @@ def generate_md_text(version = "reborn")
   res.strip
   res
 end
-
-md = generate_md_text
-# puts(md)
