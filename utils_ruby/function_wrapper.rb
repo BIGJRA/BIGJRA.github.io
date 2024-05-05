@@ -27,6 +27,6 @@ class FunctionWrapper
     func = @shortnames[func_shortname] || func_shortname
 
     run_str = "#{func}(#{args}, **@attrs)"
-    eval(run_str)
+    return eval(run_str) + "\n" # evaluates function, preserves its newline
   end
 end

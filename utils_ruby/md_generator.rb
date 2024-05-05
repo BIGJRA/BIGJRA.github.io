@@ -30,7 +30,7 @@ def generate_md_text(version = "reborn")
         end
       end
     end
-    toc + "\n\n"
+    toc + "\n"
   end
   
   
@@ -57,7 +57,8 @@ def generate_md_text(version = "reborn")
         res << function_result
       end
     end
-    res.join
+    puts res[-1]
+    return res.join
   end
 
   res = ''
@@ -66,10 +67,11 @@ def generate_md_text(version = "reborn")
   SECTIONS[version].each do |chapter_type, total_chapters|
     (1..total_chapters).each do |chapter_num|
       res += generate_chapter_contents(version, chapter_type, chapter_num, function_wrapper)
+      res += "\n"
     end
   end
   res += generate_md_post_contents
-
+  res.strip
   res
 end
 
