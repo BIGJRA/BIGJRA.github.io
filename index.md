@@ -8,10 +8,10 @@ If so, submit an Issue on GitHub or message me on Discord: **BIGJRA#3883**.
 
 Click on the images below to access my walkthroughs.
 
-<a href="https://bigjra.github.io/reborn">
+<a href="/reborn">
 <img alt="Pokemon Reborn Walkthrough" src="/static/images/reborn_title.jpg"/>
 </a>
 
-<a href="https://bigjra.github.io/rejuv">
+<a href="/rejuv">
 <img alt="Pokemon Rejuvenation Walkthrough" src="/static/images/rejuv_title.jpg"/>
 </a>

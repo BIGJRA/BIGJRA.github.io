@@ -2,11 +2,17 @@ import os
 import sys
 import json
 import string
+import yaml
+import ruamel.yaml
 
 from collections import defaultdict, deque
 
+
 UTILS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(UTILS_DIR)
+CONFIG = yaml.safe_load(open(os.path.join(ROOT_DIR, "_config.yml")))
+
+SCRIPTS_DIR = CONFIG['scripts_dir']
 
 GAMES = ["reborn", "rejuv"]
 SECTIONS = {"reborn": (("main", 19), ("post", 9), ("appendices", 1)), "rejuv": (("main", 15),)}
@@ -46,16 +52,10 @@ def load_chapter_md(version, type, chapter_num):
         contents = f.read()
     return contents
 
-def generate_image_markdown(name, **kwargs):
-    print(name, kwargs)
-    v = kwargs["version"] if "version" in kwargs else "reborn"
-    return v
-
 def generate_image_markdown(filename, **kwargs):
     version = kwargs["version"]
     #v = kwargs["version"] if "version" in kwargs else "reborn"
     return f'<img class="tabImage" src="/static/images/{version}/{filename}"/>'
-
 
 # def read_pbs_file(pbs_file_name, game='reborn'):
 #     directory = game.capitalize() + "_pbs"
@@ -69,38 +69,38 @@ def generate_image_markdown(filename, **kwargs):
 #     except FileNotFoundError as e:
 #         print (e)
 
-def write_resource_file(text, pbs_file_name, game='reborn'):
+# def write_resource_file(text, pbs_file_name, game='reborn'):
 
-    directory = game.capitalize() + "_txt"
-    file = pbs_file_name.lower() + "_resource.txt"
-    name = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io',
-     'resources', directory, file)
-    try:
-        with open(name, 'w') as f:
-            f.write(text)
-        return name
-    except FileNotFoundError as e:
-        print (e)
+#     directory = game.capitalize() + "_txt"
+#     file = pbs_file_name.lower() + "_resource.txt"
+#     name = os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io',
+#      'resources', directory, file)
+#     try:
+#         with open(name, 'w') as f:
+#             f.write(text)
+#         return name
+#     except FileNotFoundError as e:
+#         print (e)
 
-def get_correct_pokemon_name(string):
-    ans = string.capitalize()
-    if ans in MON_NAME_FIX_DICT:
-        return MON_NAME_FIX_DICT[ans]
-    return [ans, ans]
+# def get_correct_pokemon_name(string):
+#     ans = string.capitalize()
+#     if ans in MON_NAME_FIX_DICT:
+#         return MON_NAME_FIX_DICT[ans]
+#     return [ans, ans]
 
-def process_game_arg():
-    try:
-        game = sys.argv[1].lower()
-    except IndexError:
-        print ("WARNING: Game not provided as argument. Proceeding with game='reborn'...")
-        game = "reborn"
-    if game not in GAMES:
-        raise ValueError(f"{game} is not a valid game.")
-    return game
+# def process_game_arg():
+#     try:
+#         game = sys.argv[1].lower()
+#     except IndexError:
+#         print ("WARNING: Game not provided as argument. Proceeding with game='reborn'...")
+#         game = "reborn"
+#     if game not in GAMES:
+#         raise ValueError(f"{game} is not a valid game.")
+#     return game
 
-def read_api_json(json_file_name):
-    try: 
-        with open(os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', 'resources', json_file_name)) as f:
-            return json.load(f)
-    except FileNotFoundError as e:
-        print (e)
+# def read_api_json(json_file_name):
+#     try: 
+#         with open(os.path.join(os.path.abspath(os.pardir), 'bigjra.github.io', 'resources', json_file_name)) as f:
+#             return json.load(f)
+#     except FileNotFoundError as e:
+#         print (e)

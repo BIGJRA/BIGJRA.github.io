@@ -1,4 +1,10 @@
+
+from multiprocessing.sharedctypes import Value
+import os
 import re
+import sys
+from collections import defaultdict
+from turtle import write_docstringdict
 from common import *
 
 POKEMON_WIDTH = 19 # width of pokemon name column for encounter md tables
@@ -68,35 +74,6 @@ CORR_MON_NAMES = {
         "Porygon2": "Porygon2",
         "Flabebe": "Flabebe"
     }
-
-def generate_encounter_table(map_id, enc_type_exclude_list=None, to_bold=None, **kwargs):
-    version = kwargs["version"] if "version" in kwargs else 'reborn' 
-    enc_filename = get_encounter_filename(version)
-    map_encounters = get_encounters_from_file(map_id, enc_filename)
-    
-
-
-def get_encounter_filename(version):
-    return os.path.join(SCRIPTS_DIR, version, 'enctext.rb')
-
-def get_encounters_from_file(map_id, filename):
-
-    # Load the Ruby hash from the file
-    with open(filename, 'r') as file:
-        data = file.read()
-        data = data.replace('\t', '  ')
-        data = re.sub(r' => ', ': ', data)
-
-    # Parse the Ruby hash using ruamel.yaml
-    yaml_data = ruamel.yaml.YAML(typ='unsafe', pure=True)
-    enchash = yaml_data.load(data)
-
-
-    print(enchash)
-                             
-
-generate_encounter_table(1)  
-
 
 def split_text_into_blocks(text):
     blocks = []
