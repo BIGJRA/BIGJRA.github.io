@@ -9,9 +9,8 @@ class EncounterGetter
     @enchash = load_enchash(version)
   end
 
-  def get_encounter_md(map_id, enc_type_exclude_list = nil, to_bold = nil)
+  def get_encounter_md(map_id, enc_type_exclude_list = nil)
     enc_type_exclude_list ||= []
-    to_bold ||= []
 
     data = get_map_object(map_id)
 
@@ -55,7 +54,6 @@ class EncounterGetter
       
       mons.dup.each do |pokemon, data|
         mons[pokemon]["levels"] = set_to_range_string(mons[pokemon]["levels"])
-        mons[pokemon]["bolded"] = to_bold.include?(pokemon.to_s.capitalize)
       end
       
 
@@ -122,15 +120,10 @@ class EncounterGetter
         # Add Pokemon's name to the first column
         td_name = doc.create_element('td')
         
-        # Check if the "bolded" flag is set
-        if mon_data["bolded"]
-          # Apply bold style to the content
-          bold = doc.create_element('strong')
-          bold.content = pokemon_name.to_s.capitalize
-          td_name.add_child(bold)
-        else
-          td_name.content = pokemon_name.to_s.capitalize
-        end
+        # Apply bold style to the content
+        bold = doc.create_element('strong')
+        bold.content = pokemon_name.to_s.capitalize
+        td_name.add_child(bold)
         tr.add_child(td_name)
         
         # Add levels to the second column

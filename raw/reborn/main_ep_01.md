@@ -207,11 +207,11 @@ To the right is a trainer. For enemy trainers, assume default level up moves, ra
 **Techie Jonathan. Field: No Field**
 - Yungoos, Lv. 4, Serious Nature, IVs: 10
 
-Anyways, there is grass here, which means we can obtain new team members! I will be **bolding** any Pokemon that are new.
+Anyways, there is grass here, which means we can obtain new team members!
 
 **Opal Ward**
 
-!enc(29, ["Headbutt"], ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
+!enc(29, ["Headbutt"])
 
 Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
 

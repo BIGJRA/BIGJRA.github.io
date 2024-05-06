@@ -46,8 +46,8 @@ class FunctionWrapper
     "<img class=\"tabImage\" src=\"/static/images/#{@version}/#{filename}\"/>"
   end
 
-  def generate_encounter_markdown(map_id, enc_type_exclude_list = nil, to_bold = nil)
-    return @encs.get_encounter_md(map_id, enc_type_exclude_list, to_bold)
+  def generate_encounter_markdown(map_id, enc_type_exclude_list = nil)
+    return @encs.get_encounter_md(map_id, enc_type_exclude_list)
   end
 
 end
