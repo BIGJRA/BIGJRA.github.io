@@ -118,7 +118,7 @@ class EncounterGetter
         tr = doc.create_element('tr')
         
         # Add Pokemon's name to the first column
-        td_name = doc.create_element('td')
+        td_name = doc.create_element('td', style: 'text-align: center')
         
         # Apply bold style to the content
         bold = doc.create_element('strong')
@@ -127,14 +127,14 @@ class EncounterGetter
         tr.add_child(td_name)
         
         # Add levels to the second column
-        td_levels = doc.create_element('td')
+        td_levels = doc.create_element('td', style: 'text-align: center')
         td_levels.content = mon_data["levels"]
         tr.add_child(td_levels)
         
         # Add encounter types to additional columns
         types.each do |encounter_type|
         # [:LandMorning, :LandDay, :LandNight].each do |encounter_type|
-          td_encounter_type = doc.create_element('td')
+          td_encounter_type = doc.create_element('td', style: 'text-align: center')
           td_encounter_type.content = mon_data[encounter_type].to_s + "%"
           tr.add_child(td_encounter_type)
         end
