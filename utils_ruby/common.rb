@@ -1,5 +1,6 @@
 require 'json'
 require 'yaml'
+require 'nokogiri'
 
 UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
@@ -9,6 +10,9 @@ SCRIPTS_DIR = CONFIG['scripts_dir']
 
 GAMES = ["reborn", "rejuv"]
 SECTIONS = {"reborn" => [["main", 19], ["post", 9], ["appendices", 1]], "rejuv" => [["main", 15]]}
+
+
+TYPE_IMGS = { :LandMorning => "morning", :LandDay => "day", :LandNight => "night", :OldRod => "oldrod", :GoodRod => "goodrod", :SuperRod => "superrod" }
 
 MON_NAME_FIX_DICT = {
   "Nidoranma" => ["Nidoran M.", "Nidoran-M"],
@@ -105,5 +109,19 @@ def load_chapter_md(version, type, chapter_num)
     file_path = File.join(game_contents_dir, 'appendices.md')
   end
   File.read(file_path)
+end
+
+def set_to_range_string(integers_set)
+  ranges = []
+
+  integers_set.sort.each do |num|
+    if ranges.empty? || ranges.last.last != num - 1
+      ranges << [num]
+    else
+      ranges.last << num
+    end
+  end
+
+  ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 

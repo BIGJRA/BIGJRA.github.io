@@ -211,16 +211,7 @@ Anyways, there is grass here, which means we can obtain new team members! I will
 
 **Opal Ward**
 
-!enc(29, ["headbutt"], ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
-
-|Land (Morning/Day)|%  |Land (Night)      |%  |
-|------------------|---|------------------|---|
-|**Rattata**       |30 |**Rattata**       |30 |
-|**Bidoof**        |30 |**Meowth**        |20 |
-|**Patrat**        |15 |**Ekans**         |20 |
-|**Pidgey**        |15 |**Hoothoot**      |17 |
-|**Meowth**        |5  |**Spinarak**      |13 |
-|**Ekans**         |5  |                  |   |
+!enc(29, ["Headbutt"], ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
 
 Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
 
@@ -246,7 +237,7 @@ Talk to the trainer here with the Snubbull or Stufful, and they will leave. Back
 
 For beating both of the trainers at the bottom of the stairs, you'll get an *Exp. Candy XS*. There are also some hidden items on the bridge:
 
-<img class="tabImage" src="/static/images/reborn/hidden002.png"/>
+!img("hidden002.png")
 
 - (A): *Awakening*
 - (B): *Blue Shard*
