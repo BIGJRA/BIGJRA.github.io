@@ -6,13 +6,13 @@ class EncounterGetter
 
   def initialize(version)
     @version = version
-    @enchash = load_enchash(version)
+    @enchash = load_enc_hash(version)
   end
 
   def get_encounter_md(map_id, enc_type_exclude_list = nil)
     enc_type_exclude_list ||= []
 
-    data = get_map_object(map_id)
+    data = @enchash[map_id]
 
     enc_groups = {
       "Grass": [:LandMorning, :LandDay, :LandNight],
@@ -148,26 +148,11 @@ class EncounterGetter
 
   end
 
-  private
-
-  def get_map_object(map_id)
-    return @enchash[map_id]
-  end
-
-  def load_enchash(version)
-    filename = get_encounter_filename(version)
-    data = File.read(filename)
-    eval(data)
-  end
-
-  def get_encounter_filename(version)
-    File.join(SCRIPTS_DIR, version, 'enctext.rb')
-  end
 end
 
 def main
   e = EncounterGetter.new('reborn')
-  puts e.get_encounter_md(29, [], ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
+  puts e.get_encounter_md(29, ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
 end
 
 main if __FILE__ == $PROGRAM_NAME

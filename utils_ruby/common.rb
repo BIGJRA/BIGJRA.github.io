@@ -8,7 +8,7 @@ CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, "_config.yml")))
 
 SCRIPTS_DIR = CONFIG['scripts_dir']
 
-GAMES = ["reborn", "rejuv"]
+GAME_DIRS = {"reborn" => CONFIG['reborn_dir'], "rejuv" => CONFIG['rejuv_dir']}
 SECTIONS = {"reborn" => [["main", 19], ["post", 9], ["appendices", 1]], "rejuv" => [["main", 15]]}
 
 
@@ -125,3 +125,12 @@ def set_to_range_string(integers_set)
   ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 
+def load_item_hash(version)
+  data = File.read(File.join(SCRIPTS_DIR, version, 'itemtext.rb'))
+  eval(data)
+end
+
+def load_enc_hash(version)
+  data = File.read(File.join(SCRIPTS_DIR, version, 'enctext.rb'))
+  eval(data)
+end

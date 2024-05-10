@@ -1,5 +1,6 @@
 require_relative 'common'
 require_relative 'encounter_getter'
+require_relative 'shop_getter'
 
 # This is the magic class of the rewrite. 
 # Each function should return a string of some kind (can be multiline)
@@ -17,10 +18,12 @@ class FunctionWrapper
     # Shortnames (not required)
     @shortnames = { 
       "img" => "generate_image_markdown",
-      "enc" => "generate_encounter_markdown"
+      "enc" => "generate_encounter_markdown",
+      "shop" => "generate_shop_markdown"
     }
 
     @encs = EncounterGetter.new(version)
+    @shops = ShopGetter.new(version)
 
   end
 
@@ -48,6 +51,10 @@ class FunctionWrapper
 
   def generate_encounter_markdown(map_id, enc_type_exclude_list = nil)
     return @encs.get_encounter_md(map_id, enc_type_exclude_list)
+  end
+
+  def generate_shop_markdown(shop_title, shop_items)
+    return @shops.generate_shop_markdown(shop_title, shop_items)
   end
 
 end
