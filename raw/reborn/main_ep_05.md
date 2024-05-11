@@ -476,7 +476,7 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 |**Sandslash-Alola**    |1  |
 |**Beartic**            |1  |
 
-<img class="tabImage" src="/static/images/reborn/citrine2f.png"/>
+!img("citrine2f.png")
 
 1. Start by going to the right. You'll find a hidden *Ability Capsule* and in the wall you can get **Amaura** as long as you have an Ice Heal. Head back to the entrance.
 2. Go down from the top of the area, grab the hidden *Super Potion* to the right. Head back up.
@@ -515,7 +515,7 @@ That wraps up all the sidequests for now, so enter the power plant on the east s
 
 Enter the two rooms on either side and talk to two monitors within to see four total scenes. Return to the entrance room and go up when you're ready for the gym battle. If you're having a hard time seeing, here's what the side rooms look like:
 
-<img class="tabImage" src="/static/images/reborn/yureyu.png"/>
+!img("yureyu.png")
 
 Anyways, talk to the figure straight up from the entrance to the plant when you're ready.
 

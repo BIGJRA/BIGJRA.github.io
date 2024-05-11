@@ -587,7 +587,7 @@ Technically you shouldn't know how to open the secret room by this point... So i
 
 If you do want to open the secret room, you'll need to make the top area tiles look exactly like this:
 
-<img class="tabImage" src="/static/images/reborn/calcsecret.jpg"/>
+!img("calcsecret.jpg")
 
 When you're ready, take on the Fire type gym leader!
 

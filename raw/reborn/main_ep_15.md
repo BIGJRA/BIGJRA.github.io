@@ -221,7 +221,7 @@ Return to the previous room. Enter the Lapis Water Grid via the door to the left
 
 Make your way to the water machine and go down the stairs directly below you to the mud. If you sneak past the trash to the bottom left you can get a *Smoke Ball*. Next, push the four rightmost trash to be all in a line, separated by two between each and such that the middle two surround the white pipe.
 
-<img class="tabImage" src="/static/images/reborn/wtc001.png"/>
+!img("wtc001.png")
 
 Raise the water level, and you should now be able to hop across them altogether. Head to the top right corner.
 

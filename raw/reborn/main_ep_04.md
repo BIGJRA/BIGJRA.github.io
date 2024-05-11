@@ -176,7 +176,7 @@ Enter the building in the middle of the top row of buildings, just to the left o
 
 Enter the flower shop on the left side of the ward. Someone inside will give you the *Wailmer Pail*. In the top left corner, you can complete a puzzle to get **Spritzee**! The completed puzzle looks like this:
 
-<img class="tabImage" src="/static/images/reborn/spritzee.jpg"/>
+!img("spritzee.jpg")
 
 **Sweet Scent Flower Shop Top**
 

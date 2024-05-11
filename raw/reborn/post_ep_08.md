@@ -21,7 +21,7 @@ Head up and talk to Luna and Elias. Talking to them will make the room dark or l
 
 Essentially, we will want to make a beam in the center of the room hit one of the four crystals in the corners. Our first goal will be hitting the Blue Crystal. Start by moving the mirror up to hit it:
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_1.jpg"/>
+!img("citae_prisma_1.jpg")
 
 Use the crystal, cross the bridge above, and talk to the orb.
 
@@ -29,45 +29,45 @@ You'll notice that there are now two mirrors. Move them in the light, switch it 
 
 Our next goal will be hitting Green. Position the crystals in the light, then move them like so:
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_2.jpg"/>
+!img("citae_prisma_2.jpg")
 
 Activate the purple crystal. Next, you'll want to move one mirror into place such that a well timed Purple Crystal activation will allow the light to reach Green. The image below shows the direction the light will travel - you must time your use of the Purple Crystal while the light is in the red zone in order to succeed. Turn off speed up for these puzzles.
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_3.jpg"/>
+!img("citae_prisma_3.jpg")
 
 Activate the crystal, then smash the debris on the puzzle board. Our next mission will be to activate the Blue and Green crystals at the same time - note that using the prism in the center will reset all crystals but Purple. We now have a beam that goes left out of the prism, so that's useful. First, you'll need to place the mirrors in the light, then move them into place in the dark. First, you'll need to charge Purple like before, so set it up like this:
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_4.jpg"/>
+!img("citae_prisma_4.jpg")
 
 Activate Purple. Next, move the mirror into place and solve like before, using Purple while BOTH lights are in their respective 'red zone':
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_5.jpg"/>
+!img("citae_prisma_5.jpg")
 
 Activate both Blue and Green, then follow the path to the right to reach another orb. Also, just across the ice bridge, attempt to walk into the bottom right corner to find:
 
 **ZCell 65: Citae Prisma**
 
-<img class="tabImage" src="/static/images/reborn/zcell_65.jpg"/>
+!img("zcell_65.jpg")
 
 Our next mission will be to activate Green, Red, and Blue all at the same time. Set up the mirrors in the light, activate Purple as usual, then set up the mirrors to complete the puzzle, which thankfully isn't too different from the previous. Set them up and solve:
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_6.jpg"/>
+!img("citae_prisma_6.jpg")
 
 Activate all three crystals, then make your way to the left to reach another orb. You can also now go up from the puzzle to get:
 
 **ZCell 66: Citae Prisma**
 
-<img class="tabImage" src="/static/images/reborn/zcell_66.jpg"/>
+!img("zcell_66.jpg")
 
 Talk to Serra in the puzzle, and you'll notice that the final mirror we get is broken. Use the light at the middle, and it will actually go through Serra towards the direction she's facing, so she's essentially a rotatable mirror. We can't teleport her anywhere using the Purple Crystal, though. Our final goal is to have all four crystals activated at once. Again, we can activate Purple beforehand, but we need to set it up so that once we use the prism in the middle, all four beams of light eventually find a respective crystal.
 
 First, set up all the crystals and Serra into their final positions, then turn it light, and dark again.
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_7.jpg"/>
+!img("citae_prisma_7.jpg")
 
 Using the prism will activate Purple, so do that next. From here, move the crystals into their next positions. The timing is really tight on this one, but you should be able to make it work. Use the Purple Crystal as soon as the light passes both of the circled mirrors, and you should be ok.
 
-<img class="tabImage" src="/static/images/reborn/citae_prisma_8.jpg"/>
+!img("citae_prisma_8.jpg")
 
 You'll get confirmation from Serra once you're successful. Activate Blue again to cross the ice bridge and enter the door above. Time for an Anomaly battle once you're ready.
 
@@ -427,19 +427,19 @@ Our final Ultra Beast is located here! Anyways, at the first fork, head down and
 
 **ZCell 67: Neoteric Isle**
 
-<img class="tabImage" src="/static/images/reborn/zcell_67.jpg"/>
+!img("zcell_67.jpg")
 
 Continuing on the path, you'll see another:
 
 **ZCell 68: Neoteric Isle**
 
-<img class="tabImage" src="/static/images/reborn/zcell_68.jpg"/>
+!img("zcell_68.jpg")
 
 There is one more outside - follow the path to the left of the first tall tower to reach:
 
 **ZCell 69: Neoteric Isle**
 
-<img class="tabImage" src="/static/images/reborn/zcell_69.jpg"/>
+!img("zcell_69.jpg")
 
 Head back to the first tall tower and enter. Prepare yourself however you can and attempt to enter the door at the top:
 
@@ -452,13 +452,13 @@ Enter this room. On the left wall you'll see one tile that doesn't look right - 
 
 **ZCell 70: Neoteric Isle**
 
-<img class="tabImage" src="/static/images/reborn/zcell_70.jpg"/>
+!img("zcell_70.jpg")
 
 Head up and talk to Fern, then enter the door to the right. You'll find the *N-Solarizer* as well as:
 
 **ZCell 71: Neoteric Isle**
 
-<img class="tabImage" src="/static/images/reborn/zcell_71.jpg"/>
+!img("zcell_71.jpg")
 
 Back at the fork, go up for one heck of a battle.
 
@@ -715,7 +715,7 @@ Once you win, or if you skipped the fight, you'll get **Zygarde 100%**. Neat.
 
 Before we leave, Walk to the right onto the green tile, then go left down the path. Solve the puzzle at this monitor. When finished, it will look like:
 
-<img class="tabImage" src="/static/images/reborn/zygarde.jpg"/>
+!img("zygarde.jpg")
 
 As for actually solving it, you'll notice that you are essentially dragging rows and columns. This is actually very similar to solving the magic square puzzle once you know where everything goes - if we're solving top to bottom, left to right, simply drag the column down so that the target space is in line with the target piece, move the row containing it over so it fits, then move the column back into place. If you could figure out that other puzzle, this one won't be too bad.
 

@@ -937,49 +937,49 @@ I will start with the top left direction. For this direction, you'll essentially
 
 The boulder's path should look like the following, just note that you'll need to surf to reach certain positions to continue its progress. You can push it while it's on land and you're on the water.
 
-<img class="tabImage" src="/static/images/reborn/spring_b1nw.png"/>
+!img("spring_b1nw.png")
 
 This area contains a hidden *Elixir*, *Green Shard*, and *Rock Gem*. Once you successfully push the boulder into the final spot, step onto the tall water jet to return to 1F.
 
 You can get a hidden *Water Gem* here. Push the boulder in the top right corner onto the jet in the bottom left corner, then hop up the ledge and enter the cave.
 
-<img class="tabImage" src="/static/images/reborn/spring_1fnw.png"/>
+!img("spring_1fnw.png")
 
 Inside the sauna, if you want, you can blow away the steam with a wind-based move, but it's not necessary other than for visibility. You can get an *Exp. Candy XL*, *Timid Mint*, and the *Cameruptite* in here.
 
 Make your way back to B1F. This time, push the boulder in the bottom left direction. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
 
-<img class="tabImage" src="/static/images/reborn/spring_1fnw.png"/>
+!img("spring_1fnw.png")
 
 In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole.
 
-<img class="tabImage" src="/static/images/reborn/spring_1fsw.png"/>
+!img("spring_1fsw.png")
 
 Get the hidden *Red Shard*, then go into the nearby sauna. Grab the *Modest Mint* and hidden *Elixir*. There are three jets in this room - the bottom one is inaccessible by boulders. Push the two boulders onto the other two, then go up the tall jet. Grab the *Exp. Candy XL* and *TM50 Overheat* here.
 
-<img class="tabImage" src="/static/images/reborn/spring_b2sw.png"/>
+!img("spring_b2sw.png")
 
 Return to B1F, this time pushing the boulder in the top right direction. Grab the hidden *Water Gem* here. You'll need to temporarily push the boulder up, surf across, and move another boulder out of the way in order to push the boulder down and onto the jet.
 
-<img class="tabImage" src="/static/images/reborn/spring_b1ne.png"/>
+!img("spring_b1ne.png")
 
 On 1F, grab the hidden *Dusk Ball*. Essentially 5 of these boulders are duds (in blue), and you'll need to get them out of the way of the single boulder (in green) that you can move onto the jet. Of the bottom right pair, it is the left one. Once you get it into place go up the jet and follow the path to the sauna.
 
-<img class="tabImage" src="/static/images/reborn/spring_1fne.png"/>
+!img("spring_1fne.png")
 
 In here, you can get a *Jolly Mint*, *Red Flute*, *Big Nugget*, and *Exp. Candy XL*.
 
 Make your way back to B1F, and finally push the boulder in the bottom right direction. You'll find a hidden *Big Pearl* and *Flame Plate* in this area. This puzzle should be straightforward by now, just note that you'll need to at some point surf across the rightmost pond and push the second boulder right to clear the path - see the yellow line. Use the big jet to reach 1F.
 
-<img class="tabImage" src="/static/images/reborn/spring_b1se.png"/>
+!img("spring_b1se.png")
 
 Up here, you can get a hidden *Awakening*. To finish this puzzle, you'll need to push the boulder counter-clockwise around this area to reach the jet. Follow the path to the final sauna.
 
-<img class="tabImage" src="/static/images/reborn/spring_1fse.png"/>
+!img("spring_1fse.png")
 
 This room has a lot of ledges, and is a bit chaotic. You'll find an *Exp. Candy XL*, *Adamant Mint*, *TM61 Will-o-Wisp*, as well as a hidden *Fire Gem*.
 
-<img class="tabImage" src="/static/images/reborn/spring_b2se.png"/>
+!img("spring_b2se.png")
 
 Exit the Chrysolia Spring once you're done.
 
@@ -1114,7 +1114,7 @@ Next, make your way all the way to the top of Pyrous Mountain. From the bottom o
 
 Next it's time to cover the actual Azurine Lake! There are tons of things we can do in this gargantuan area. To start, surf up from the Apophyll Academy, and enter the cave in the rock formation (1).
 
-<img class="tabImage" src="/static/images/reborn/azurine_567_1.png"/>
+!img("azurine_567_1.png")
 
 **Azurine Cave South**
 
@@ -1143,7 +1143,7 @@ Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hi
 
 Head down and to the right, following the yellow arrow in the above. This is a pretty huge map and only one of multiple, but we'll explore it all in due time.
 
-<img class="tabImage" src="/static/images/reborn/azurine_565_1.png"/>
+!img("azurine_565_1.png")
 
 **Swimmer Tsuki. Field: Water Surface Field**
 - Bruxish, Lv. 72, @Choice Band, Ability: Strong Jaw, Adamant Nature, IVs: 20
@@ -1180,7 +1180,7 @@ Fight the swimmer if you'd like. You'll see a narrow strip of sand, on which you
 |Toxapex           |4  |
 |**Dragalge**      |1  |
 
-<img class="tabImage" src="/static/images/reborn/azurine_547_1.png"/>
+!img("azurine_547_1.png")
 
 My automated map screenshot tool hates seaweed tiles for some reason, so apologies for the blank tiles on the underwater maps.
 
@@ -1188,11 +1188,11 @@ Hidden in this part of the large underwater area, you can find a *Shoal Shell*, 
 
 On the right side you can enter a house (marked 3) containing a *Relic Silver* as well as a hidden *Salt-Water Taffy* and the *F14 Key*. To the left and slightly up you'll find another unlocked building (4) containing 5 *Exp. Candy XL* as well as a hidden *Blue Shard*.
 
-<img class="tabImage" src="/static/images/reborn/azurine_553_1.png"/>
+!img("azurine_553_1.png")
 
 Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poke Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
 
-<img class="tabImage" src="/static/images/reborn/azurine_567_2.png"/>
+!img("azurine_567_2.png")
 
 Surface somewhere in the upper part of the underwater map. You can find a hidden *Paralyze Heal* and 2 *Shoal Shells*.
 
@@ -1200,7 +1200,7 @@ Make your way to the very bottom of the underwater area and use your new key on 
 
 That wraps up this section of the lake for now. Fly over to Coral Ward and surf west.
 
-<img class="tabImage" src="/static/images/reborn/azurine_556_1.png"/>
+!img("azurine_556_1.png")
 
 Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
@@ -1237,13 +1237,13 @@ You'll also be able to battle the third guy who looks like Corin Rouge here!
 
 From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks (6). Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here.
 
-<img class="tabImage" src="/static/images/reborn/azurine_536_1.png"/>
+!img("azurine_536_1.png")
 
 Inside the top house (7) you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island (8).
 
 Return to the spot with the swimmer, then make your way west towards Apophyll (to the south is Azurine Island, which I'll cover later on).
 
-<img class="tabImage" src="/static/images/reborn/azurine_567_3.png"/>
+!img("azurine_567_3.png")
 
 Hopefully the layout of the Azurine Lake is starting to make a bit more sense - Peridot Ward is the northern edge, Apophyll Beach is in the southwest, Azurine Island is on the south side, and Coral Ward is the southeast edge.
 
@@ -1251,7 +1251,7 @@ Once you hit a wall, a little bit down you'll see another strip of sand (9) that
 
 Now, return to the larger dive spot we previously skipped to reach the Sunrise Apartments area. Hidden on the underwater map you'll find a *Green Shard*, *Blue Shard*, *Big Pearl*, and *Purple Shard*.
 
-<img class="tabImage" src="/static/images/reborn/azurine_553_2.png"/>
+!img("azurine_553_2.png")
 
 The building in the bottom right side (11) is unlocked, and you'll find a *Relic Copper* as well as a hidden *Green Shard* and the *S12 Key*. There is another unlocked house at the top (12) containing a *Relic Silver*, and a hidden *Paralyze Heal* and the *K33 Key*.
 
@@ -1261,7 +1261,7 @@ On this map you can get a hidden *Green Shard*, *X Speed*, and *Red Shard*. We c
 
 That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelter (former site of PULSE Muk), you'll be able to surf south.
 
-<img class="tabImage" src="/static/images/reborn/azurine_522_1.png"/>
+!img("azurine_522_1.png")
 
 **Swimmer Hubert. Field: Water Surface**
 - Kingdra, Lv. 72, @Choice Specs, Ability: Sniper, Modest Nature, IVs: 20
@@ -1280,7 +1280,7 @@ That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelt
     - Giga Drain
     - Dazzling Gleam
 
-<img class="tabImage" src="/static/images/reborn/azurine_530_1.png"/>
+!img("azurine_530_1.png")
 
 **Swimmer Arlo. Field: Water Surface**
 - Rotom-Wash, Lv. 73, @Leftovers, Ability: Levitate, Modest Nature, IVs: 20
@@ -1318,7 +1318,7 @@ That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelt
 
 Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way towards Apophyll Cave.
 
-<img class="tabImage" src="/static/images/reborn/azurine_538_1.png"/>
+!img("azurine_538_1.png")
 
 **Swimmer Wilson. Field: Water Surface**
 - Blastoise, Lv. 72, @Elemental Seed, Ability: Torrent, Calm Nature, IVs: 20
@@ -1339,7 +1339,7 @@ Battle the trainers as you proceed down and right. Once you encounter a fork in 
 
 You'll be spit out right next to Apophyll Cave. Notice that there is a small path (14) you can surf through to go up from here, so take it.
 
-<img class="tabImage" src="/static/images/reborn/azurine_522_2.png"/>
+!img("azurine_522_2.png")
 
 At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island.
 
@@ -1367,11 +1367,11 @@ At the very top you can get a *King's Rock*. Head down, following the right wall
 
 Dive down here into the Kingsbury Apartments area, and go all the way up.
 
-<img class="tabImage" src="/static/images/reborn/azurine_574_1.png"/>
+!img("azurine_574_1.png")
 
 In the top left corner, a building is unlocked (16) and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head down from here onto technically a new map.
 
-<img class="tabImage" src="/static/images/reborn/azurine_558_1.png"/>
+!img("azurine_558_1.png")
 
 On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*.
 
@@ -2065,7 +2065,7 @@ Time for another fight with Victoria, the first in a while. You'll notice that s
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
-<img class="tabImage" src="/static/images/reborn/devon_001.png"/>
+!img("devon_001.png")
 
 Activate monitor #1, then go up and activate monitor #2 above. Use the purple pads to go back down and reactivate monitor #1, then go left. You'll be forced up here: activate monitor #3 then go towards the right.
 
@@ -2121,23 +2121,23 @@ Either way you have to fight.
 
 Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, though he might change the field to Electric Terrain. Most of his Pokemon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
 
-<img class="tabImage" src="/static/images/reborn/devon_002.png"/>
+!img("devon_002.png")
 
 Pro tip: there is a light shard later on in the next room, so you can ignore using the transponder for now and eat the electric damage.
 
 Start by taking the right path up to monitor #1 (path A). Backtrack down a bit and follow the path to the right. The spinner will take you down and right - do a loop by going up and back to the right (path B). Using this spinner to go down and right now, go right, right, left, and left to get the *PULSE Readout 1* (path C).
 
-<img class="tabImage" src="/static/images/reborn/devon_003.png"/>
+!img("devon_003.png")
 
 You'll be forced to go down into the spinner again, so do the B-loop from before once more and then go down and right. Move right, right, up, and up to enter the upper spinner from the bottom, then go left and down to return to the central spinner (path D). Do another B-loop then go down towards the bottom-right spinner and make your way around it a few times so that you end up on its right side. Go up from here until you can go left, then cross the spinner to use monitor #2 (path E). Head left and down to reach the central spinner once more.
 
-<img class="tabImage" src="/static/images/reborn/devon_004.png"/>
+!img("devon_004.png")
 
 Go down and right as before, using the bottom right spinner to reach the bottom right corner of the room, then go straight up (path F). Activate monitor #3, then make your way back towards the left side of the room and go up when you can (path G). Activate monitors #4 and #5 beyond, then follow the path to the stairs.
 
 In the next room... well, may lord Budew have mercy on her soul.
 
-<img class="tabImage" src="/static/images/reborn/devon_005.png"/>
+!img("devon_005.png")
 
 One more puzzle room for now. Follow the ropes to go up and pop out at the top on the left side, then go right back into the maze on the right side, going down, left, and up to the monitor. Follow the green path to the right. Use the spinner to reach the bottom, and use the Light Shard.
 

@@ -222,11 +222,11 @@ You'll reach a fork here: go to the left, follow the ladders up and down, then i
 
 Backtrack to the fork, this time, going across the narrow path on the bottom right. Once you climb back down the ladder, hug the right wall here to reach:
 
-<img class="tabImage" src="/static/images/reborn/genie_cell_path.jpg"/>
+!img("genie_cell_path.jpg")
 
 **ZCell 03: New World (Route 4)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_03.jpg"/>
+!img("zcell_03.jpg")
 
 Continue following the path from here. You'll reach what appears to be a dead end: there is an invisible bridge on the right side that will bring us back to a landmass with two ladders we visited previously. Take the bottom ladder and follow the path to exit this section of the New World.
 
@@ -373,7 +373,7 @@ Once you succeed at solving Smeargle's helpful instructions, enter the New World
 
 **ZCell 04: New World (Chrysolia Forest)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_04.jpg"/>
+!img("zcell_04.jpg")
 
 Head up when you're ready.
 

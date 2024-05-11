@@ -596,7 +596,7 @@ Enter Saphira's gym to the left, and talk to her in the corner. Next, familiariz
 
 This conversation has tons of branches, so I made a flowchart. Note that all points here are for or against Saphira.
 
-<img class="tabImage" src="/static/images/reborn/saphira_points.jpg"/>
+!img("saphira_points.jpg")
 
 Next, you'll have to defend the chest against a barrage of Pokemon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokemon will fly, and some will run at you. The Knights are slow, but have 3 Pokemon apiece, so make sure you are able to defeat them. Also, save often!
 
@@ -805,7 +805,7 @@ Putting these steps together should get you a solution.
 
 The solution for the first puzzle:
 
-<img class="tabImage" src="/static/images/reborn/vr_puzzle_1.jpg"/>
+!img("vr_puzzle_1.jpg")
 
 Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. Atk* and proceed to the next room.
 
@@ -1178,7 +1178,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/static/images/reborn/vr_puzzle_2.jpg"/>
+!img("vr_puzzle_2.jpg")
 
 Grab the hidden *Muscle Wing* in the bottom right corner and return to the arrow hell room. In here, you'll need to push boulders out of the way. Save often, and turning off super speed for your sanity. Note that when you reach two pressure pads, push the boulder up once, climb around, then push it down twice to proceed. Along this path you'll get a *Max Revive* and hidden *X Sp. Def* and *Ultra Potion*.
 
@@ -1390,7 +1390,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/static/images/reborn/vr_puzzle_3.jpg"/>
+!img("vr_puzzle_3.jpg")
 
 Proceed into the next room once you're done.
 
@@ -1570,7 +1570,7 @@ The clues:
 
 The solution:
 
-<img class="tabImage" src="/static/images/reborn/vr_puzzle_4.jpg"/>
+!img("vr_puzzle_4.jpg")
 
 **Relationship Point Choices:**
 - Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)

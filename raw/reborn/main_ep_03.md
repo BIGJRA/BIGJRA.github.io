@@ -262,7 +262,7 @@ If you were trapped in a cage, read on, otherwise, jump to the next section.
 
 Roughly, you'll want to follow the blue path in the following image:
 
-<img class="tabImage" src="/static/images/reborn/cagepath.png"/>
+!img("cagepath.png")
 
 You'll wake up in a cage and Fern will taunt you here.
 
@@ -302,11 +302,11 @@ The building to your right is a healing house, should you need it.
 
 Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue.
 
-<img class="tabImage" src="/static/images/reborn/rhodo1.png"/>
+!img("rhodo1.png")
 
 Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Full Heal* and go down from here. The grunts around the fire will be gone now, so you can pick up a hidden *Guard Spec* to the west.
 
-<img class="tabImage" src="/static/images/reborn/rhodo2.png"/>
+!img("rhodo2.png")
 
 Head back up and go left. Here you'll see a gentleman.
 
@@ -320,7 +320,7 @@ Head back up and go left. Here you'll see a gentleman.
 
 In this area you can find a hidden *Liechi Berry* and *Great Ball*. To the right of the grunt, climb the hill and chop a wiggly tree.
 
-<img class="tabImage" src="/static/images/reborn/rhodo3.png"/>
+!img("rhodo3.png")
 
 Head back down the hill after the scene and go to the left.
 
@@ -329,7 +329,7 @@ Head back down the hill after the scene and go to the left.
 
 On this next hill you can obtain a hidden *X Speed*. Climbing stairs to the northeast will lead to a hidden *Antidote*. We'll get to the cave entrance at the top of this area later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
 
-<img class="tabImage" src="/static/images/reborn/rhodo4.png"/>
+!img("rhodo4.png")
 
 Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. *After* you grab the readout, step on the trap.
 
@@ -337,7 +337,7 @@ This brings us to the Underroot - but we will explore this area fully in a littl
 
 Our next move is going to be to head all the way back to the healing house from earlier by going down, right at the gentleman, then up the hill to the right. Heal if you'd like.
 
-<img class="tabImage" src="/static/images/reborn/rhodo5.png"/>
+!img("rhodo5.png")
 
 Go straight down from here and follow the path across the bridge.
 
@@ -347,7 +347,7 @@ Go straight down from here and follow the path across the bridge.
 
 Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
 
-<img class="tabImage" src="/static/images/reborn/rhodo6.png"/>
+!img("rhodo6.png")
 
 Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*. Take the other path of the fork now.
 

@@ -260,7 +260,7 @@ You'll be moved to a cage. Read the green book here - in fact, read every green 
 
 Head out once Klefki opens the door. Welcome to Reborn's stealth section!
 
-<img class="tabImage" src="/static/images/reborn/subseven_mess.png"/>
+!img("subseven_mess.png")
 
 In the artistic masterpiece above, the red entities are the guards, as well as their view ranges. The yellow paths indicate the movement patterns and view changes of certain guards, and the blue line represents the path the player must take. I recommend saving often, specifically at the blue blobs. If you get caught, just reload to save yourself the time. You might also want to turn off speed-up.
 
@@ -590,7 +590,7 @@ Hop across some sneaky ledges onto the rocky texture of the cave, then make your
 
 Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room to reset. The room looked like this when I solved it, if it is helpful:
 
-<img class="tabImage" src="/static/images/reborn/wasteland_wall_boulders.png"/>
+!img("wasteland_wall_boulders.png")
 
 Once you succeed, exit through the newly opened door. Head down the nearby ladder: this next puzzle will involve pushing boulders down holes to break rocks, and going up ladders. To go up, use the ladders on the left side of the area.
 

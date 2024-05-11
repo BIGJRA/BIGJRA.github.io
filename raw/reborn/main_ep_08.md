@@ -94,7 +94,7 @@ Back in Opal Ward, there are new trainers on the bridge.
 
 Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge.
 
-<img class="tabImage" src="/static/images/reborn/citrine2f2.png"/>
+!img("citrine2f2.png")
 
 Go down and right (1). You'll see a strength boulder. Push it from the top so it goes down. Then, make your way around to the left (2) and step across the ice path that is now open. You will find a hidden *Shoal Salt* and *Red Shard* as well as *TM94 Secret Power*. Exit the mountain.
 
@@ -264,7 +264,7 @@ Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have t
 
 Back on the ground floor, head east to enter another part of the railnet.
 
-<img class="tabImage" src="/static/images/reborn/railnet_east.png"/>
+!img("railnet_east.png")
 
 This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
 

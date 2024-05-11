@@ -50,7 +50,7 @@ Go down and weasel your way between some rocks to find:
 
 **ZCell 26: Unexplored Territory**
 
-<img class="tabImage" src="/static/images/reborn/zcell_26.jpg"/>
+!img("zcell_26.jpg")
 
 Head up onto the land once you're ready for a battle with Florinia as your ally.
 
@@ -124,7 +124,7 @@ By the way, in the bottom left corner, you can find:
 
 **ZCell 27: Unexplored Territory**
 
-<img class="tabImage" src="/static/images/reborn/zcell_27.jpg"/>
+!img("zcell_27.jpg")
 
 Once you've found as many translations as you can, talk to Latias to learn a list of possible emotions, in English. These include Shock, Anxiety, Grief, Sorrow, Fear, Envy, Guilt, Passion, Confidence, Emptiness, Pride, Joy, Love, Disgust, Anger, and Apathy. Essentially, we will need to talk to the Florinia's around the area, diagnose them for one of these emotions, then translate it from the English word into the "emotion" word.
 
@@ -249,7 +249,7 @@ Grab a hidden *Rawst Berry*, then surf to the left and climb the waterfall to re
 
 **ZCell 28: Aegir Cave Depths**
 
-<img class="tabImage" src="/static/images/reborn/zcell_28.jpg"/>
+!img("zcell_28.jpg")
 
 You can also climb the rightmost waterfall by going around the rocks to get the *Prison Bottle*!
 
@@ -265,7 +265,7 @@ You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next ha
 
 **ZCell 29: Aegir Cave Depths**
 
-<img class="tabImage" src="/static/images/reborn/zcell_29.jpg"/>
+!img("zcell_29.jpg")
 
 Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poke Ball*. Talk to our pal when you're ready for a fight.
 
@@ -489,13 +489,13 @@ Grab the *Relic Copper* in the first room. There is a small door to the right of
 
 **ZCell 30: Splash Zone**
 
-<img class="tabImage" src="/static/images/reborn/zcell_30.jpg"/>
+!img("zcell_30.jpg")
 
 Back in the entrance room, enter the large door, and grab another 2 *Relic Coppers* in the next. Grab the 3 *Manaphy Gems* on the dais. Use it to open the door at the top. Grab the *Relic Copper* in the next room, and start by going right at the fork. Along the way, you'll find 2 *Relic Coppers* and:
 
 **ZCell 31: Splash Zone**
 
-<img class="tabImage" src="/static/images/reborn/zcell_31.jpg"/>
+!img("zcell_31.jpg")
 
 Follow the other path from the fork. Pick up the *Relic Copper* and proceed. You'll find a room with... 2 more *Relic Coppers* and a door to use the Manaphy Gem on.
 
@@ -554,7 +554,7 @@ You'll learn about electricity sizzling through the air. Talk to the pillar in t
 
 **ZCell 32: Tabula Rasa**
 
-<img class="tabImage" src="/static/images/reborn/zcell_32.jpg"/>
+!img("zcell_32.jpg")
 
 **Anomaly Tapu-Koko. Field: Electric Terrain**
 - Zeraora, Lv. 125, @Elemental Seed, Ability: Volt Absorb, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
@@ -750,7 +750,7 @@ After a small section as Siggy again, you'll find yourself in the Orphanage once
 
 **ZCell 33: Not Truly For Children**
 
-<img class="tabImage" src="/static/images/reborn/zcell_33.jpg"/>
+!img("zcell_33.jpg")
 
 Approach the shining object downstairs once you're ready.
 

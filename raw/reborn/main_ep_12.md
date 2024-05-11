@@ -134,7 +134,7 @@ Just in case you need some.
 
 To the left is a tile puzzle, which you can play in exchange for 1 Green Shard. This is the solution:
 
-<img class="tabImage" src="/static/images/reborn/carracosta.jpg"/>
+!img("carracosta.jpg")
 
 Winning will reward you a *Cover Fossil*. Nearby the healing machine is a candy vendor:
 
@@ -165,7 +165,7 @@ Next, you'll find an NPC who will change your Pokemon's Hidden Power type in exc
 
 To the left is another tile puzzle, which you can play in exchange for 1 Red Shard. This is the solution:
 
-<img class="tabImage" src="/static/images/reborn/archeops.jpg"/>
+!img("archeops.jpg")
 
 Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
@@ -208,7 +208,7 @@ The Blue Moon Ice Cream shows up rarely with the same mechanics as before.
 
 There is another tile puzzle here, but this one has different mechanics. I recommend saving beforehand so if you get stuck you don't have to waste a shard when you reset. It costs 1 Purple Shard. Anyways, the finished puzzle looks like this:
 
-<img class="tabImage" src="/static/images/reborn/conkeldurr.jpg"/>
+!img("conkeldurr.jpg")
 
 Once you win, you'll get a **Timburr**!
 

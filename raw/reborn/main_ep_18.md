@@ -613,7 +613,7 @@ Return to B2F, and switch to Glaceon. Move Glaceon up and to the left of the rig
 
 Position Glaceon exactly in this spot:
 
-<img class="tabImage" src="/static/images/reborn/glass_glaceon.jpg"/>
+!img("glass_glaceon.jpg")
 
 Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way so you can switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
 
@@ -1108,7 +1108,7 @@ There are essentially two parts to this quest: figuring out what numbers you wan
 
 I actually graduated with a degree in Mathematics once upon a time and do Computer Science-adjacent stuff for a living. So I'm gonna nerd out for a little while. Skip ahead a bit if you just want to see what the solution looks like. :)
 
-<img class="tabImage" src="/static/images/reborn/magic_square_0.jpg"/>
+!img("magic_square_0.jpg")
 
 So, first we are going to figure out what we want, where. It can be proven fairly easily that the middle is 5. Here's why:
 
@@ -1116,25 +1116,25 @@ Notice that from the middle row: B1 + B2 + B3 = 15, and from the diagonals that 
 
 We also can observe from the first and third column that A1 + B1 + C1 = 15 and A3 + B3 + C3 = 15. Thus simplifying the above result leads to 3 * B2 = 15, so B2 is 5.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_1.jpg"/>
+!img("magic_square_1.jpg")
 
 I'll solve for just one magic square for now.
 
 We might as well try putting 1 in a corner and seeing what happens. Since we can just rotate the square, without loss of generality we can see what happens when we place it in the top left corner of one of the magic squares and seeing if a contradiction arises. This will also force 9 to be in the opposite corner to keep with the 15 sum rule.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_2.jpg"/>
+!img("magic_square_2.jpg")
 
 Consider the highlighted tiles. Each cannot be 1, 5, 9 since each is used, so it must be inclusively between 2 and 4, or inclusively between 6 and 8. If the tile is at most 4, then the remaining tile in the row with 1 would have to be at least 10, which is impossible. If the tile is at least 6, the column with 9 would be too large. So there is no possible value that works in either highlighted tile, meaning that putting 1 in the corner leads to no solutions. Therefore, we can assume 1 is in one of the four tiles adjacent to the middle, making 9 appear opposite. Again without loss of generality due to rotations, I'll put 1 on the left.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_3.jpg"/>
+!img("magic_square_3.jpg")
 
 The column containing 1 has two empty tiles that will add up to 14, meaning the only possibility with the remaining numbers is for them to be 6 and 8 (as 2, 3, 4 are too small, and we can't use 7 twice). Since we can simply reflect our square across the horizontal line through the center, again there is no loss to generality to put 6 on top, and 8 below. Solving the diagonals puts 4 in the bottom right and 2 in the top right. Then all we have to do is put 3 and 7 into the final cells, which leaves us with one completed square.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_4.jpg"/>
+!img("magic_square_4.jpg")
 
 You can check that each row, column, and diagonal add up to 15 if you don't believe me. The final stipulation of this puzzle is that only the center can be the same across puzzles. To deal with this issue, I simply rotate the puzzle by 90 degrees: obviously the rows, columns, and diagonals all still add up to 15, but now each non-5 piece is in a different place.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_5.jpg"/>
+!img("magic_square_5.jpg")
 
 This is the solution we will solve for. Due to rotations and reflections as mentioned before, one or both of your squares may look different from mine.
 
@@ -1142,7 +1142,7 @@ This is the solution we will solve for. Due to rotations and reflections as ment
 
 Now, we just have to execute. Some players seem to be driven kinda mad by this step, but I am here to tell you about an algorithm with a handy invariant that guarantees we can complete the puzzle pretty easily! Essentially, we will solve piece by piece: by column, then by row. In fact, we can guarantee that we will be able to solve the first five columns in this way without messing up anything that came before!
 
-<img class="tabImage" src="/static/images/reborn/magic_square_6.jpg"/>
+!img("magic_square_6.jpg")
 
 Suppose we are solving for the highlighted tile on the left (the *destination*), and we need to move 5 in (the *target*). Note that the tiles in all the columns to the left (just column 1) have already been solved, and the tiles above our target as well (here, just column 2, row 1). We intend to keep the puzzle this way after putting the next tile into position. So, here's the algorithm:
 
@@ -1153,27 +1153,27 @@ Suppose we are solving for the highlighted tile on the left (the *destination*),
 
 - If the target is in the same row as the destination, move the column containing the target up once so that it is no longer in the same row.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_7.jpg"/>
+!img("magic_square_7.jpg")
 
 - Move the row containing the destination right as many times as it takes for the destination tile to be directly above/below the target.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_8.jpg"/>
+!img("magic_square_8.jpg")
 
 - Move the column containing the target up or down so that the target is now in the correct row.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_9.jpg"/>
+!img("magic_square_9.jpg")
 
 - Now, simply move the row containing the target back to the left until it is once more solved. You'll notice that if you did the steps right, it will leave all the previously solved pieces the same, and put the new piece into the correct spot.
 
-<img class="tabImage" src="/static/images/reborn/magic_square_10.jpg"/>
+!img("magic_square_10.jpg")
 
 Next, you'd move a 3 into the destination below the 5 we just moved in, then the 2 into the destination: top tile of the next column, and so on. That's really all there is to moving pieces in the first five columns into place. Do so, and your puzzle will look something like this:
 
-<img class="tabImage" src="/static/images/reborn/magic_square_11.jpg"/>
+!img("magic_square_11.jpg")
 
 In my case, the dashes will represent 2, 6, and 7. Moving the rightmost column up or down if necessary to put the correct number into the top right, either this will solve the puzzle right away, or it will have the other two numbers switched around. If this occurs, essentially it means that you put the wrong number into the left side puzzle. Your board should look somewhat like this in this case:
 
-<img class="tabImage" src="/static/images/reborn/magic_square_12.jpg"/>
+!img("magic_square_12.jpg")
 
 There is a simple fix however: switch 6's. Simply move the right column up, the first row left, the right column down, and the first row right again. Finally, move the right column down once again.
 
@@ -1254,7 +1254,7 @@ Fly over to Agate City, and enter the building below the gym. There is a child i
 
 Enter Charlotte's gym, and make your way to the back. I actually mentioned this before in the guide, since you can open the secret door at any time, and doing so earlier allows us access to an extra Charlotte point and an early Mega Stone. If you didn't open the door then, we need to make the tiles in the back section of Charlotte's gym match the tile layout in the random Agate basement. It should look like this when you're done:
 
-<img class="tabImage" src="/static/images/reborn/calcsecret.jpg"/>
+!img("calcsecret.jpg")
 
 Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 

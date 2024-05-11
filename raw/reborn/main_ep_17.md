@@ -455,16 +455,16 @@ What I recommend is exploring the map you have landed on first without touching 
 To find the map you're on to start, you'll want to find your oasis. I provide images of each oasis below.
 
 Oasis 1: On the upper/middle of the left side of the desert
-<img class="tabImage" src="/static/images/reborn/oasis1.jpg"/>
+!img("oasis1.jpg")
 
 Oasis 2: Middle of the right side of the desert
-<img class="tabImage" src="/static/images/reborn/oasis2.jpg"/>
+!img("oasis2.jpg")
 
 Oasis 3: On the lower/middle of the left side of the desert
-<img class="tabImage" src="/static/images/reborn/oasis3.jpg"/>
+!img("oasis3.jpg")
 
 Oasis 4: Bottom of the right side of the desert
-<img class="tabImage" src="/static/images/reborn/oasis4.jpg"/>
+!img("oasis4.jpg")
 
 So, once you find the map you're on, now we can start getting things!
 
@@ -497,9 +497,9 @@ You can encounter the same Pokemon on the various maps but at different rates. T
 
 For what it's worth, there are transitions from each map into two OTHER maps... which we will explore later. For now, keep in mind you don't want to go more north than these two images, the northwest and northeast borders:
 
-<img class="tabImage" src="/static/images/reborn/td_nw_border.jpg"/>
+!img("td_nw_border.jpg")
 
-<img class="tabImage" src="/static/images/reborn/td_ne_border.jpg"/>
+!img("td_ne_border.jpg")
 
 For now, don't enter any train cars yet, either.
 

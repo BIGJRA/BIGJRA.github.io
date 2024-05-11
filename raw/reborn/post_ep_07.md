@@ -10,43 +10,43 @@ Talk to Lumi outside once more, and you'll see a New World Door has opened. Grea
 
 **ZCell 47: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_47.jpg"/>
+!img("zcell_47.jpg")
 
 **ZCell 48: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_48.jpg"/>
+!img("zcell_48.jpg")
 
 **ZCell 49: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_49.jpg"/>
+!img("zcell_49.jpg")
 
 **ZCell 50: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_50.jpg"/>
+!img("zcell_50.jpg")
 
 **ZCell 51: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_51.jpg"/>
+!img("zcell_51.jpg")
 
 **ZCell 52: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_52.jpg"/>
+!img("zcell_52.jpg")
 
 **ZCell 53: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_53.jpg"/>
+!img("zcell_53.jpg")
 
 **ZCell 54: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_54.jpg"/>
+!img("zcell_54.jpg")
 
 **ZCell 55: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_55.jpg"/>
+!img("zcell_55.jpg")
 
 **ZCell 56: The Underroot**
 
-<img class="tabImage" src="/static/images/reborn/zcell_56.jpg"/>
+!img("zcell_56.jpg")
 
 With those all taken care of, return to the Rhodochrine Tree and enter the New World Door.
 
@@ -156,13 +156,13 @@ Go to the left all the way to what appears like a dead end, and you'll be able t
 
 **ZCell 57: Rhodochrine Tree**
 
-<img class="tabImage" src="/static/images/reborn/zcell_57.jpg"/>
+!img("zcell_57.jpg")
 
 You can also surf across the water on the right side of the area to reach:
 
 **ZCell 58: Rhodochrine Tree**
 
-<img class="tabImage" src="/static/images/reborn/zcell_58.jpg"/>
+!img("zcell_58.jpg")
 
 Talk to Noel once more and you'll be taken to the base of the tree. That's it for this quest right now... we'll finish it up later. Return to the Nightclub!
 
@@ -214,7 +214,7 @@ Once you finish the puzzle, you can grab:
 
 **ZCell 59: Mirage Tower?**
 
-<img class="tabImage" src="/static/images/reborn/zcell_59.jpg"/>
+!img("zcell_59.jpg")
 
 You can also get the *Solganium-Z* here. Proceed to the next room.
 
@@ -271,7 +271,7 @@ In the next area, head down the ladder to get a hidden *Rare Bone*. Head up, the
 
 **ZCell 60: Mirage Tower?**
 
-<img class="tabImage" src="/static/images/reborn/zcell_60.jpg"/>
+!img("zcell_60.jpg")
 
 Complete the rest of the room: using what we've just learned will make it straightforward. Push the stone in a clockwise loop around the room to continuously push the ladder.
 
@@ -279,13 +279,13 @@ The next section is generally similar, note that you can access the mirror from 
 
 **ZCell 61: Mirage Tower?**
 
-<img class="tabImage" src="/static/images/reborn/zcell_61.jpg"/>
+!img("zcell_61.jpg")
 
 Make it to the end of the room and exit at the top. You'll talk to Saphira here, and also you'll be able to find:
 
 **ZCell 62: Mirage Tower?**
 
-<img class="tabImage" src="/static/images/reborn/zcell_62.jpg"/>
+!img("zcell_62.jpg")
 
 Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this rather straightforward path to another Anomaly!
 
@@ -399,7 +399,7 @@ Follow the path to the left to find:
 
 **ZCell 63: Cauldron of the Future**
 
-<img class="tabImage" src="/static/images/reborn/zcell_63.jpg"/>
+!img("zcell_63.jpg")
 
 It's also worth noting that the glowing mining rocks here will infinitely replenish if you exit this area and return, so no need to buy Blast Powder or worry about the finite number of rocks in the region.
 
@@ -820,11 +820,11 @@ Once you win, enter the New World Door to reach Distorted Space.
 
 Defeat the Malamar here. Afterwards, talking to any Malamar will switch which sections of path are walkable and which are not. A path through, with color changes indicating use of Malamar, is as follows:
 
-<img class="tabImage" src="/static/images/reborn/distorted_space_1.jpg"/>
+!img("distorted_space_1.jpg")
 
 The second room introduces a new wrinkle - the space bending statues we used in the Dialga/Palkia quest are back, and used in conjunction with the Malamar. Before continuing, talk to the first accessible Malamar, then walk back through the portal to the previous room. Use the statue to go left to grab the *Marshadium-Z*! Anyways, the path through the second room is as follows:
 
-<img class="tabImage" src="/static/images/reborn/distorted_space_2.jpg"/>
+!img("distorted_space_2.jpg")
 
 Note that once you reach the gold stars the second time, you'll need to talk to Malamar while you still have your walk-through-walls ability from the upper statue, then head right back up to these two statues to continue.
 
@@ -832,17 +832,17 @@ In the next room, we first will need to interact with the two orbs towards the b
 
 To reach the left orb, follow this path:
 
-<img class="tabImage" src="/static/images/reborn/distorted_space_3.jpg"/>
+!img("distorted_space_3.jpg")
 
 To reach the right orb, follow this path, noting that at the Blue Star, you'll need to talk to Malamar then press 'A' to return to the previous statue:
 
-<img class="tabImage" src="/static/images/reborn/distorted_space_4.jpg"/>
+!img("distorted_space_4.jpg")
 
 With that taken care of, use the only available statue to reach the center of the middle section above. Grab the *Lustrous Orb*, *Adamant Orb*, as well as:
 
 **ZCell 64: Distorted Space**
 
-<img class="tabImage" src="/static/images/reborn/zcell_64.jpg"/>
+!img("zcell_64.jpg")
 
 This final puzzle in here is a bit more complicated. If you're on Anna Route, this puzzle will basically be solved for you automatically, so I'll show the full solution for Lin Route here. First, use the statue to reach Malamar, then make your way back to the center. We can solve this puzzle entirely without having to use Malamar again after this (to be sure you're on the right one, make sure the left Giratina statue is activated).
 

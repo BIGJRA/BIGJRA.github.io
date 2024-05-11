@@ -103,7 +103,7 @@ Surf up. While you're going up, hug the right wall. You'll get a *Max Revive* an
 
 **ZCell 01: New World (Route 2 South)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_01.jpg"/>
+!img("zcell_01.jpg")
 
 Head left and up for another Anomaly battle.
 
@@ -166,7 +166,7 @@ As you climb the stairs, hug the left wall and follow the path.
 
 **ZCell 02: New World (Route 2 North)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_02.jpg"/>
+!img("zcell_02.jpg")
 
 **Anomaly Raikou. Field: Mountain Field**
 - Rotom-Frost, Lv. 103, @Icium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/252/252/4/0

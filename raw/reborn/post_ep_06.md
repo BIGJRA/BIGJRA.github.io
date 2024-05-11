@@ -46,37 +46,37 @@ Welcome to the Triskeline Toybox. Jump across the pink balls to the next area. H
 
 **ZCell 34: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_34.jpg"/>
+!img("zcell_34.jpg")
 
 You can actually open the two chests to the left to get 3 *EV Boosters* and an *Ability Capsule*. Head up another set of stairs to open 2 more chests, containing a *Jolly Mint* and a *Timid Mint*. Down and right from here you can open 2 more chests to get a *PP All* and the *Mewnium-Z*. To the right:
 
 **ZCell 35: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_35.jpg"/>
+!img("zcell_35.jpg")
 
 Down from here, hop across the pink balls to reach:
 
 **ZCell 36: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_36.jpg"/>
+!img("zcell_36.jpg")
 
 Hop to the left, make your way to the bottom left corner, and hop to the left once more. Follow this path.
 
 **ZCell 37: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_37.jpg"/>
+!img("zcell_37.jpg")
 
 Snorlax and Charizard block two of the chests, but you can open the one on the left to get 3 *Exp. Candy XL*. Head up from here:
 
 **ZCell 38: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_38.jpg"/>
+!img("zcell_38.jpg")
 
 Open the chest to the right to find 8 *Glitter Balls*. Go down the stairs below and go right to open another chest, containing an *EV Tuner*. Climb back up the stairs to the left and hop across the pink balls:
 
 **ZCell 39: Triskeline Toybox**
 
-<img class="tabImage" src="/static/images/reborn/zcell_39.jpg"/>
+!img("zcell_39.jpg")
 
 Hop across to the right, then go down and left. You'll see a Lapras plush: hop up from here.
 
@@ -137,7 +137,7 @@ In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ul
 
 **ZCell 40: Chrysolia Deepwoods Cave**
 
-<img class="tabImage" src="/static/images/reborn/zcell_40.jpg"/>
+!img("zcell_40.jpg")
 
 Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage.
 
@@ -510,19 +510,19 @@ Make your way to the center, remove the Chill Drive and Shock Drive, insert the 
 
 **ZCell 41: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/static/images/reborn/zcell_41.jpg"/>
+!img("zcell_41.jpg")
 
 Return to the center. Remove the Burn Drive and put in the Chill Drive, then go to the bottom right corner of the room where there is another machine. Activate the supercooling system here - in the capsule, you'll find:
 
 **ZCell 42: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/static/images/reborn/zcell_42.jpg"/>
+!img("zcell_42.jpg")
 
 Back in the center, put in the Shock Drive. Make your way to the bottom left corner, and activate hydroelectric power. In the capsule:
 
 **ZCell 43: Neo Blacksteam Fabrication**
 
-<img class="tabImage" src="/static/images/reborn/zcell_43.jpg"/>
+!img("zcell_43.jpg")
 
 That about covers the goodies, so make your way back to the center. Remove all drives except for the Douse Drive and Burn Drive, then make your way around the bottom, up the left side, and to the top of the room. You'll find a **Genesect** to catch up here!
 
@@ -641,7 +641,7 @@ Finally, make your way to the bottom left corner, where the mushrooms are. Walk 
 
 **ZCell 44: Idyll of Pestilence**
 
-<img class="tabImage" src="/static/images/reborn/zcell_44.jpg"/>
+!img("zcell_44.jpg")
 
 Return to the mushroom area. Follow the left edge of this area down, then go right, using three mushrooms along the way. Talk to the orb at the end here, then return to the center. Walk under the mushroom in the bottom right to reach the fifth Shaymin! Return to the top of the hill in the center.
 
@@ -745,7 +745,7 @@ Make your way to the top right corner once more. Hop to the left to get a *Full 
 
 **ZCell 45: Idyll of Panaceance**
 
-<img class="tabImage" src="/static/images/reborn/zcell_45.jpg"/>
+!img("zcell_45.jpg")
 
 Hop to the island in the top right corner. Talk to the orb then use the springy grass to reach the third *Gracidea*.
 
@@ -805,15 +805,15 @@ In this hallway, go up and left to enter the room with the New World Door we wer
 
 This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Note that you can get up to two 'extra steps' by talking to the statue from above, in certain situations, so if it seems like it's impossible to reach the next area, try doing that. Activate the Purple Statue next.
 
-<img class="tabImage" src="/static/images/reborn/subseven_path_1.jpg"/>
+!img("subseven_path_1.jpg")
 
 Undo your steps to return to the entrance of the room. The next path you have to take will lead you to the Green Statue. Note that if you mess up and end up in some of the rooms on the left side, you'll have to go back to the beginning and start again.
 
-<img class="tabImage" src="/static/images/reborn/subseven_path_2.jpg"/>
+!img("subseven_path_2.jpg")
 
 Return to the entrance area once more. Finally, we simply have to make it to the top of this room and climb the stairs. The path:
 
-<img class="tabImage" src="/static/images/reborn/subseven_path_3.jpg"/>
+!img("subseven_path_3.jpg")
 
 Use the Light Shard if necessary and talk to the space deity in the room for a battle.
 
@@ -1101,7 +1101,7 @@ Win to nab the third *Nanab Berry*, then return to the ??? guy. Up and to the ri
 
 **ZCell 46: Endgame**
 
-<img class="tabImage" src="/static/images/reborn/zcell_46.jpg"/>
+!img("zcell_46.jpg")
 
 Or so it would seem. Talk to Shiv up from here for a battle!
 

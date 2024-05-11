@@ -110,7 +110,7 @@ Nothing special here for sale, but if you talk to the mysterious salesman, he'll
 
 The next building in line is the Sweet Kiss Candy Shop building. In the top left corner, you can complete a puzzle to get **Swirlix**! The completed puzzle looks like this:
 
-<img class="tabImage" src="/static/images/reborn/swirlix.jpg"/>
+!img("swirlix.jpg")
 
 At the top, a kid really wants some Vanilla Ice Cream. Since he's blocking the machine though we can't get any here - you'll have to wait until it's sunny and buy some from Opal Ward. Give it to this kid and then buy a Vanilla Ice Cream for $1000 from the vending machine - it will be a **Vanillite** in disguise! After this the vending machine will be normal again.
 
@@ -150,7 +150,7 @@ Since grinding trainers give them every time you beat them, you don't need to sp
 
 Back outside, follow Victoria to the right. If you'd like to get to battle Victoria and potentially get a point with her in a bit, talk to Florinia.
 
-<img class="tabImage" src="/static/images/reborn/hidden011.png"/>
+!img("hidden011.png")
 
 - (A): *PokeSnax*
 - (B): *PokeSnax*
@@ -169,7 +169,7 @@ Enter the building here and talk to the guy here. His Lillipup will run off - we
 - Pidove, Lv. 16, Serious Nature, IVs: 10
 - Pidgeotto, Lv. 18, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden012.png"/>
+!img("hidden012.png")
 
 - (A): *Dire Hit*
 - (B): *Blue Shard*
@@ -189,7 +189,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 - Chingling, Lv. 15, Serious Nature, IVs: 10
 - Mankey, Lv. 15, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden013.png"/>
+!img("hidden013.png")
 
 - (B): *Great Ball*
 - (C): *PokeSnax*
@@ -247,7 +247,7 @@ After that's done, head down the escalator to the right. There are encounters in
 
 A long time from now you can trade Pidove away for something much better, so catch one if you like.
 
-<img class="tabImage" src="/static/images/reborn/hidden014.png"/>
+!img("hidden014.png")
 
 - (A): *Oran Berry*
 - (B): *Great Ball*, not hidden
@@ -272,7 +272,7 @@ Sneak between the escalators to reach the latter and a *Carbos* in the next room
 **Street Rat Brody. Field: No Field**
 - Espurr, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden015.png"/>
+!img("hidden015.png")
 
 - (A): *Pop Rocks*
 - (B): *Rawst Berry*
@@ -292,7 +292,7 @@ Head upstairs.
 
 Head to the left, then go up the stairs once more. Talk to Corey here, then pick up a hidden *Exp. Candy S* in a jar below. Grab the *Zinc* at the top and head back downstairs and follow the path clockwise around the room, picking up items:
 
-<img class="tabImage" src="/static/images/reborn/hidden016.png"/>
+!img("hidden016.png")
 
 - (A): *Moon Stone*. You need to be up against the bottom fence to hop across to reach this one.
 - (B): *Exp. Candy XS*
@@ -324,7 +324,7 @@ Sometimes you even get two! Talk to the guy at the bottom of the area... turns o
 
 But, alas, he sold it to someone else. This quest to be continued once more!
 
-<img class="tabImage" src="/static/images/reborn/hidden017.png"/>
+!img("hidden017.png")
 
 - (A): *Normal Gem*
 - (B): *Exp. Candy S*
@@ -344,7 +344,7 @@ Back on B1F, enter the big door and head up.
     - Tackle
 - Seedot, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden018.png"/>
+!img("hidden018.png")
 
 - (A): *Oran Berry*
 - (B): *Poke Ball*
@@ -359,21 +359,21 @@ In the next room, it's time for a battle!
 
 As long as you are able to bully Scrafty when it comes out you should be able to make this work with a team of six.
 
-<img class="tabImage" src="/static/images/reborn/hidden019.png"/>
+!img("hidden019.png")
 
 - (A): *Potion*
 - (B): *Blue Shard*
 
 Proceed to the next room.
 
-<img class="tabImage" src="/static/images/reborn/hidden020.png"/>
+!img("hidden020.png")
 
 - (A): *Potion*
 - (B): *Exp. Candy S*
 
 We're back in the large basement area for the third time. Lots of items to get here; follow the path down and to the right.
 
-<img class="tabImage" src="/static/images/reborn/hidden021.png"/>
+!img("hidden021.png")
 
 - (A): *Cotton Candy*, between escalators
 - (B): *Burn Heal*
@@ -388,7 +388,7 @@ A box on the right contains an *Awakening*. Head to the right and jump your way 
 
 Backtrack to the previous room and follow the path up. Talk to the Spoink hiding under some beams here to begin a quest, then emerge into daylight!
 
-<img class="tabImage" src="/static/images/reborn/hidden022.png"/>
+!img("hidden022.png")
 
 Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
@@ -396,7 +396,7 @@ Grab the hidden *Repel* (A) and enter Coral Ward at the bottom.
 
 Welcome to Coral Ward.
 
-<img class="tabImage" src="/static/images/reborn/hidden023.png"/>
+!img("hidden023.png")
 
 - (A): *Potion*
 - (B): *Ultra Potion*
@@ -546,7 +546,7 @@ With all that out of the way, return to the park area and talk to Victoria, Amar
 |Slakoth           |5  |
 |**Bonsly**        |5  |
 
-<img class="tabImage" src="/static/images/reborn/hidden024.png"/>
+!img("hidden024.png")
 
 You can start by grabbing a hidden *Oran Berry* (A) in the third bush to the left.
 
@@ -561,17 +561,17 @@ Pick up some more items:
 
 Cut wiggly tree #1, then make your way back to the entrance.
 
-<img class="tabImage" src="/static/images/reborn/hidden025.png"/>
+!img("hidden025.png")
 
 Cut wiggly tree #2 near the entrance, and follow the new path down and to the right. Pick up the *Leppa Berry* (D) then cut wiggly tree #3. From here, return to the entrance by going right, down, then back to the left.
 
-<img class="tabImage" src="/static/images/reborn/hidden026.png"/>
+!img("hidden026.png")
 
 Up from here, cut down wiggly tree #4. This opens up a path to the left, so follow the path left from the entrance of the area. Grab a *Pecha Berry* (E) in a bush, then head right to cut wiggly tree #5 to open up a shortcut. Go right to cut wiggly tree #6.
 
 Follow the path to the right from here.
 
-<img class="tabImage" src="/static/images/reborn/hidden027.png"/>
+!img("hidden027.png")
 
 **Meteor Grunt Minta. Field: Forest Field**
 - Makuhita, Lv. 16, Serious Nature, IVs: 10
@@ -583,7 +583,7 @@ Straight down from here is a hidden *Super Potion* (F). Follow the path to watch
 - Shuckle, Lv. 17, Serious Nature, IVs: 10
 - Hoothoot, Lv. 17, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden028.png"/>
+!img("hidden028.png")
 
 Cut wiggly trees #8 and #9. Follow the blue line from here to reach a building: inside, you'll find *TM54 False Swipe* and the *Warehouse Key*. Back outside, follow a path straight to the left to obtain an *X Sp. Def*.
 
@@ -620,7 +620,7 @@ Catch a Sentret and add it to your team for an in-game trade in a bit if you'd l
 
 There are some hidden items in this area as well:
 
-<img class="tabImage" src="/static/images/reborn/hidden029.png"/>
+!img("hidden029.png")
 
 - (A): *Heart Scale*
 - (B): *Exp. Candy M*
@@ -736,7 +736,7 @@ First, we'll do a counter-clockwise loop of the area. Trainers include:
 
 There are hidden items too:
 
-<img class="tabImage" src="/static/images/reborn/hidden030.png"/>
+!img("hidden030.png")
 
 - (A): *Cheri Berry*
 - (B): *Antidote*

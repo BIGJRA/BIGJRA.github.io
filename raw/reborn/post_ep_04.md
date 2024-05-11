@@ -40,55 +40,55 @@ Start by going straight to the left, hugging the bottom wall. You'll eventually 
 
 **ZCell 05: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_05.jpg"/>
+!img("zcell_05.jpg")
 
 Make your way back to the entrance area, and go up into the next horizontal section. Go right, then down and left to reach:
 
 **ZCell 06: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_06.jpg"/>
+!img("zcell_06.jpg")
 
 Make your way back to the "middle" of the map, and go up into the next horizontal section once more. To your right is a narrow pathway, but it leads to a dead end. Instead, go slightly up and follow the path left. You'll see two cells we can't get quite yet - keep following the path left for now. Eventually, you'll reach:
 
 **ZCell 07: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_07.jpg"/>
+!img("zcell_07.jpg")
 
 Backtrack all the way to the previous fork, this time, going up to the next horizontal section. Left from here, you'll find:
 
 **ZCell 08: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_08.jpg"/>
+!img("zcell_08.jpg")
 
 Next, go straight to the right, and follow the twisting path to the right. You'll eventually reach the other cell we saw earlier:
 
 **ZCell 09: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_09.jpg"/>
+!img("zcell_09.jpg")
 
 Head all the way back to the fork. Hopefully we're starting to understand how this area works! At this next fork, go left until you reach:
 
 **ZCell 10: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_10.jpg"/>
+!img("zcell_10.jpg")
 
 As you might expect, going right at the fork will lead you to:
 
 **ZCell 11: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_11.jpg"/>
+!img("zcell_11.jpg")
 
 Back at the fork, climb the first set of dunes to go up a tier, but don't climb up the second quite yet. Follow the narrow path to the right to:
 
 **ZCell 12: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_12.jpg"/>
+!img("zcell_12.jpg")
 
 Back at the fork, climb the final set of dunes. Going up from here, you'll see a large structure. Start by going to the left. You'll see a lever at the top of some stairs - pull it. Head left from here, and you'll find:
 
 **ZCell 13: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_13.jpg"/>
+!img("zcell_13.jpg")
 
 From here, continue going around the loop until you see an open door up some stairs. Head in. Inside, you'll find two screens. Talk to each screen, then head back out.
 
@@ -96,7 +96,7 @@ Go left from here, and you'll find a path up that leads to another lever and a d
 
 **ZCell 14: Twilight Desert**
 
-<img class="tabImage" src="/static/images/reborn/zcell_14.jpg"/>
+!img("zcell_14.jpg")
 
 Talk to the machine on the right, and you'll be able to merge ten of the cells we've found so far into **Zygarde 10%**. You can deconstruct this Zygarde, if you want.
 
@@ -177,7 +177,7 @@ Make your way to the top right side of the area. You'll be able to sneak down to
 
 **ZCell 15: New World (Chrysolia Railcave)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_15.jpg"/>
+!img("zcell_15.jpg")
 
 Back in the main area, interact with the tall pillar at the top of the hill to create some electric platforms at the bottom right. The path from here is straightforward... and if you're on Lin Route, you'll even get taunted as you activate the pillars.
 
@@ -189,7 +189,7 @@ Once the pillar is activated, cross the bridge to the right, then again to a new
 
 **ZCell 16: New World (Chrysolia Railcave)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_16.jpg"/>
+!img("zcell_16.jpg")
 
 Enter the New World Door at the bottom to return to the Chrysolia Deepwoods. Talk to Arclight here, then make your way through the Deepwoods to defeat the poachers. Arclight will heal you, if you need it. The first is up from Arclight:
 
@@ -352,7 +352,7 @@ You'll also notice that there are rocks on some of the tracks for the gems: this
 
 The solution:
 
-<img class="tabImage" src="/static/images/reborn/vr_puzzle_5.jpg"/>
+!img("vr_puzzle_5.jpg")
 
 Bennett will just do it for you if you fail too many times.
 
@@ -419,19 +419,19 @@ Back on the upper level, you can find a hidden *Pecha Berry* in a rock. You can 
 
 **ZCell 17: Aegir Cave**
 
-<img class="tabImage" src="/static/images/reborn/zcell_17.jpg"/>
+!img("zcell_17.jpg")
 
 Return to the bottom floor and take the ladder up, in the top left. Make your way back to Bennett, then jump in the hole above him. Grab the hidden *Ultra Ball*, then climb down the rocks and get onto the water. Grab the hidden *Nugget* below the pillars, as well as:
 
 **ZCell 18: Aegir Cave**
 
-<img class="tabImage" src="/static/images/reborn/zcell_18.jpg"/>
+!img("zcell_18.jpg")
 
 Return to the upper level. All the way in the bottom right corner, you can jump across a stone and into a hole. Climb the waterfall to reach:
 
 **ZCell 19: Aegir Cave**
 
-<img class="tabImage" src="/static/images/reborn/zcell_19.jpg"/>
+!img("zcell_19.jpg")
 
 Head back down and dive.
 
@@ -453,7 +453,7 @@ Back down on the large lake, dive down. You'll be able to find a hidden *Blue Sh
 
 **ZCell 20: Aegir Cave**
 
-<img class="tabImage" src="/static/images/reborn/zcell_20.jpg"/>
+!img("zcell_20.jpg")
 
 Talk to Serra near the bottom of the lake, then head right and climb the ladder. Back on the upper level, go to the top right corner and use the ladder here to reach a *Stick*. That's all the ingredients, so return to Bennett. Once you're ready, talk to **Victini** for a battle!
 
@@ -688,7 +688,7 @@ Hidden right behind the door is:
 
 **ZCell 21: Manyworld Pool**
 
-<img class="tabImage" src="/static/images/reborn/zcell_21.jpg"/>
+!img("zcell_21.jpg")
 
 You can also find a hidden *Max Revive*, *Exp. Candy XL*, and a *Dusk Ball*. Surface on the other end.
 
@@ -721,13 +721,13 @@ This map is huge but mostly empty. Make your way to the bottom left corner to fi
 
 **ZCell 22: Manyworld Forest**
 
-<img class="tabImage" src="/static/images/reborn/zcell_22.jpg"/>
+!img("zcell_22.jpg")
 
 Towards the top of the area, you'll be able to hop across some space platforms. In the center only on Anna Route, you'll find a *Fresh Water*. Don't waste it. Go to the left to find:
 
 **ZCell 23: Manyworld Forest**
 
-<img class="tabImage" src="/static/images/reborn/zcell_23.jpg"/>
+!img("zcell_23.jpg")
 
 Down from here, you can hop across some platforms to grab the *Tapunium-Z*. Back up from here, you'll occasionally see a moving platform. Use it to reach a *Sacred Ash* at the top. Go back to the center.
 
@@ -735,7 +735,7 @@ Going as far to the right as possible, you'll be able to ride another moving pla
 
 **ZCell 24: Manyworld Forest**
 
-<img class="tabImage" src="/static/images/reborn/zcell_24.jpg"/>
+!img("zcell_24.jpg")
 
 Back in the middle, go up. On Lin Route, now you'll get a *Fresh Water*. Pour the Fresh Water onto the Celebi.
 
@@ -1185,7 +1185,7 @@ Hug the left side to reach:
 
 **ZCell 25: New World (Train)**
 
-<img class="tabImage" src="/static/images/reborn/zcell_25.jpg"/>
+!img("zcell_25.jpg")
 
 Head to the top of the hill once you're ready.
 

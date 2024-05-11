@@ -22,7 +22,7 @@ Head down to Route 3 via the new stairs. Down from here, you'll see a ladder. In
 
 To the right of the high striker you'll see a new vendor. For three Green Shards you can do another puzzle! This is in fact a [Fifteen Puzzle](https://en.wikipedia.org/wiki/15_puzzle). When you finish, it will look like this:
 
-<img class="tabImage" src="/static/images/reborn/turtwig.jpg"/>
+!img("turtwig.jpg")
 
 For winning you'll get a **Turtwig!**
 
