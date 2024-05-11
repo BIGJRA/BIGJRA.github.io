@@ -97,12 +97,12 @@ CORR_MON_NAMES = {
   "Flabebe" => "Flabebe"
 }
 
-def get_game_contents_dir(version)
-  File.join(ROOT_DIR, "raw", version)
+def get_game_contents_dir(game)
+  File.join(ROOT_DIR, "raw", game)
 end
 
-def load_chapter_md(version, type, chapter_num)
-  game_contents_dir = get_game_contents_dir(version)
+def load_chapter_md(game, type, chapter_num)
+  game_contents_dir = get_game_contents_dir(game)
   if type != 'appendices'
     file_path = File.join(game_contents_dir, "#{type}_ep_#{chapter_num.to_s.rjust(2, '0')}.md")
   else
@@ -125,12 +125,39 @@ def set_to_range_string(integers_set)
   ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 
-def load_item_hash(version)
-  data = File.read(File.join(SCRIPTS_DIR, version, 'itemtext.rb'))
+def load_item_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'itemtext.rb'))
   eval(data)
 end
 
-def load_enc_hash(version)
-  data = File.read(File.join(SCRIPTS_DIR, version, 'enctext.rb'))
+def load_enc_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'enctext.rb'))
   eval(data)
+end
+
+def load_trainer_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'trainertext.rb'))
+  base_hash = eval(data)
+  ret = {}
+  base_hash.each do |trainer_hash|
+    ret[trainer_hash[:teamid]] = trainer_hash
+  end
+  ret
+end
+
+def get_map_names(game)
+  ret = {}
+  data = File.read(File.join(SCRIPTS_DIR, game, 'metatext.rb'))
+  lines = data.split("\n")
+
+  lines.each_with_index do |line, index|
+    match = line.match(/^\s*(\d{1,3})\s*=>\s*{/)
+    if match
+      key = match[1].to_i
+      comment_line = lines[index - 1]
+      name = comment_line.match(/#(.+)/)[1].strip
+      ret[key] = name
+    end
+  end
+  ret
 end

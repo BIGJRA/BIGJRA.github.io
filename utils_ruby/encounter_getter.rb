@@ -1,18 +1,21 @@
 require_relative 'common'
 
 class EncounterGetter
-  attr_accessor :version
-  attr_accessor :enchash
+  attr_accessor :game
+  attr_accessor :enc_hash
+  attr_accessor :map_names
 
-  def initialize(version)
-    @version = version
-    @enchash = load_enc_hash(version)
+  def initialize(game, enc_hash=nil, map_names=nil)
+    @game = game
+    @encHash = enc_hash ||= load_enc_hash(game)
+    @mapNames = map_names ||= get_map_names(game)
   end
 
   def get_encounter_md(map_id, enc_type_exclude_list = nil)
     enc_type_exclude_list ||= []
 
-    data = @enchash[map_id]
+    data = @encHash[map_id]
+    map_name = @mapNames[map_id]
 
     enc_groups = {
       "Grass": [:LandMorning, :LandDay, :LandNight],
@@ -65,7 +68,7 @@ class EncounterGetter
       
       th = doc.create_element('th', colspan: num_cols)
       bold = doc.create_element('strong')
-      bold.content = group
+      bold.content = "#{map_name} Encounters: #{group}"
       th.add_child(bold)
       th['class'] = 'table-header'
       th['style'] = 'text-align: center;'

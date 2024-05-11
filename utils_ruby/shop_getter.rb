@@ -1,13 +1,12 @@
 require_relative 'common'
 
 class ShopGetter
-  attr_accessor :version
-  attr_accessor :itemhash
+  attr_accessor :game
+  attr_accessor :item_hash
 
-
-  def initialize(version)
-    @version = version
-    @itemhash = load_item_hash(@version)
+  def initialize(game, item_hash=nil)
+    @game = game
+    @item_hash = item_hash ||= load_item_hash(@game)
     @price_lookup = load_price_lookup()
   end
 
@@ -52,33 +51,6 @@ class ShopGetter
       table.add_child(td_price)
     end
 
-      
-    #     # Add Pokemon's name to the first column
-    #     td_name = doc.create_element('td', style: 'text-align: center')
-        
-    #     # Apply bold style to the content
-    #     bold = doc.create_element('strong')
-    #     bold.content = pokemon_name.to_s.capitalize
-    #     td_name.add_child(bold)
-    #     tr.add_child(td_name)
-        
-    #     # Add levels to the second column
-    #     td_levels = doc.create_element('td', style: 'text-align: center')
-    #     td_levels.content = mon_data["levels"]
-    #     tr.add_child(td_levels)
-        
-    #     # Add encounter types to additional columns
-    #     types.each do |encounter_type|
-    #     # [:LandMorning, :LandDay, :LandNight].each do |encounter_type|
-    #       td_encounter_type = doc.create_element('td', style: 'text-align: center')
-    #       td_encounter_type.content = mon_data[encounter_type].to_s + "%"
-    #       tr.add_child(td_encounter_type)
-    #     end
-
-    #     table.add_child(tr)
-    #   end
-    # end
-
     html_output = doc.to_html 
     return html_output.split("\n")[1..].join("\n")
 
@@ -88,7 +60,7 @@ class ShopGetter
 
   def load_price_lookup()
     prices = {}
-    @itemhash.each do |symbol, contents|
+    @item_hash.each do |symbol, contents|
       prices[contents[:name]] = contents[:price]
     end
     prices
@@ -98,7 +70,7 @@ end
 
 def main
   e = ShopGetter.new('reborn')
-  puts e.get_shop_items("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
+  puts e.generate_shop_markdown("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 end
 
 main if __FILE__ == $PROGRAM_NAME
