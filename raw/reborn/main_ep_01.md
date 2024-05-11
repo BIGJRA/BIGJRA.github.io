@@ -99,14 +99,7 @@ Proceed to the right into Opal Ward. A girl at the bottom of the area will give 
 
 If the weather is sunny you will see an Ice Cream Cart here.
 
-**Opal Ward Ice Cream Shop**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Vanilla Ice Cream*    |$400       |
-|*Choc Ice Cream*       |$600       |
-|*Berry Ice Cream*      |$800       |
-|*Blue Moon Ice Cream*\*|$20000     |
+!shop("Opal Ward Ice Cream Shop", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
 Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will be selling the rare Blue Moon Ice Cream. Note that talking to the vendor when they are not selling the ice cream activates a cooldown timer of one day, during which time they will not sell Blue Moon Ice Cream not matter how many times you reset. However, if you save *before* speaking to them, you can reset the game until they are carrying Blue Moon Ice Cream. It is too expensive for us right now by far, but should you ever want to buy it, keep this trick in mind.
 
@@ -114,27 +107,9 @@ Talk to the girl in front of the big building here, and you'll head in. Welcome 
 
 Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually get to choose between 21 starters, or you can let fate decide by using the computer at the top of the room. One amazing thing about Reborn is that you can obtain every single Pokemon in the first seven generations within a single save file of Reborn without trading, and that includes the starters. So, regardless of which you pick, you'll be able to get the other 20 eventually. Your choices are:
 
-- **Bulbasaur**
-- **Charmander**
-- **Squirtle**
-- **Chikorita**
-- **Cyndaquil**
-- **Totodile**
-- **Treecko**
-- **Torchic**
-- **Mudkip**
-- **Turtwig**
-- **Chimchar**
-- **Piplup**
-- **Snivy**
-- **Tepig**
-- **Oshawott**
-- **Chespin**
-- **Fennekin**
-- **Froakie**
-- **Rowlet**
-- **Litten**
-- **Popplio**
+- The Grass types: **Bulbasaur**, **Chikorita**, **Treecko**, **Turtwig**, **Snivy**, **Chespin**, **Rowlet**
+- The Fire types: **Charmander**, **Cyndaquil**, **Torchic**, **Chimchar**, **Tepig**, **Fennekin**, **Litten**
+- The Water types: **Squirtle**, **Totodile**, **Mudkip**, **Piplup**, **Oshawott**, **Froakie**, **Popplio**
 
 Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter!
 
@@ -270,7 +245,7 @@ In the Lower Peridot Ward, things have opened up! To the left is a trainer.
 
 Next, head right then up as soon as you can.
 
-<img class="tabImage" src="/static/images/reborn/hidden003.png"/>
+!img("hidden003.png")
 
 A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here.
 
@@ -345,7 +320,7 @@ If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
 Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokemon's nickname from your party!
 
-<img class="tabImage" src="/static/images/reborn/hidden004.png"/>
+!img("hidden004.png")
 
 - (A): *Heart Scale*
 - (B): *Purple Shard*
@@ -418,7 +393,7 @@ Poochyena evolves early and can have the Moxie ability, so it can be fantastic i
 
 There is a *Super Potion* here as well as some hidden items:
 
-<img class="tabImage" src="/static/images/reborn/hidden005.png"/>
+!img("hidden005.png")
 
 - (A): *Dark Gem*
 - (B): *Potion*
@@ -453,7 +428,7 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 ## Peridot Ward
 
-<img class="tabImage" src="/static/images/reborn/hidden006.png"/>
+!img("hidden006.png")
 
 - (A): *Poke Ball*
 - (B): *Oran Berry*
@@ -480,7 +455,7 @@ Also, another few hidden items:
 
 The in-game trade I mentioned earlier is in the nearby house, but we probably aren't quite ready for it yet, so head up.
 
-<img class="tabImage" src="/static/images/reborn/hidden007.png"/>
+!img("hidden007.png")
 
 - (A): *Blue Shard*
 - (B): *Paralyze Heal*
@@ -499,7 +474,7 @@ The in-game trade I mentioned earlier is in the nearby house, but we probably ar
 
 Talk to the fountain while it is raining to battle **Surskit**!
 
-<img class="tabImage" src="/static/images/reborn/hidden008.png"/>
+!img("hidden008.png")
 
 The rock behind the dumpster in the bottom left corner of this plaza contains a *Calcium* (A). I really recommend selling it for a clean $4900 - if you haven't noticed the trainers in this area don't give you much money. Also hidden:
 
@@ -549,7 +524,7 @@ Anyways, to the right of the tall building you can defeat another blonde haired 
 - Weedle, Lv. 9, Serious Nature, IVs: 10
 - Pineco, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden009.png"/>
+!img("hidden009.png")
 
 - (A): *Repel*
 - (B): *Green Shard*
@@ -582,7 +557,7 @@ If you use up your PokeSnax and need more, this is the place. Head to the right 
 - Spinarak, Lv. 9, Serious Nature, IVs: 10
 - Cutiefly, Lv. 9, Serious Nature, IVs: 10
 
-<img class="tabImage" src="/static/images/reborn/hidden010.png"/>
+!img("hidden010.png")
 
 - (A): *Common Candy*
 - (B): *Potion*
