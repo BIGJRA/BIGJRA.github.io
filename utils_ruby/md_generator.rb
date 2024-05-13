@@ -25,7 +25,6 @@ def generate_md_text(game = "reborn")
             indents = line[/^#+/].length - 1
             title = line.strip[indents + 1..].strip  # Remove the leading '#' and any extra spaces
             anchor_link = title.downcase.gsub(/[^a-z0-9é\s-]/, '').gsub(/\s/, '-')  # Convert title to lowercase, remove non-alphanumeric characters except spaces and dashes, and replace spaces with dashes
-            puts title, anchor_link
             toc += "#{'  ' * indents}- [#{title}](##{anchor_link})\n"
           end
         end
