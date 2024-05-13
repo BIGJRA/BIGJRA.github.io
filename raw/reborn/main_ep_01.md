@@ -205,8 +205,7 @@ In the top right, you'll find three bullies.
 
 You'll need two Pokémon to be able to fight the last two, so catch a second if you haven't yet.
 
-!battle(["Jackson", :COOLTRAINER_Male, 0])
-!battle(["Mack", :StreetRat, 0])
+!battle(["Jackson", :COOLTRAINER_Male, 0], nil, ["Mack", :StreetRat, 0])
 
 When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokémon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 

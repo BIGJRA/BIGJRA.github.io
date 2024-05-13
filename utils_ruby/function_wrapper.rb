@@ -70,8 +70,8 @@ class FunctionWrapper
     return @shopGetter.generate_shop_markdown(shop_title, shop_items)
   end
 
-  def generate_trainer_markdown(trainer_id)
-    return @trainerGetter.generate_trainer_markdown(trainer_id)
+  def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil )
+    return @trainerGetter.generate_trainer_markdown(trainer_id, field, second_trainer_id)
   end
 
 end
