@@ -119,10 +119,7 @@ If you save in front of the starters (quicksave is, by default, 'D'), you can re
 
 Talk to Ame as soon as you're done, and you'll be taken downstairs and fight your first battle! Don't worry quite yet about the "No Field" note.
 
-**Pretty Boy Cain. Field: No Field**
-- Nidoran M., Lv. 5, Ability: Hustle, Bashful Nature, IVs: 3
-    - Tackle
-    - Leer
+!battle(["Cain", :Cain, 0])
 
 Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required.
 
@@ -131,10 +128,7 @@ Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering
 
 Once you are done with that battle, you'll be healed, then thrust into another battle. This is the first of what are generally referred to in this game as "gauntlets". Although not necessarily intended by the game, it is worth noting that if you spam the quicksave key while a character is moving in the mid-gauntlet cutscenes, you can save between gauntlet battles.
 
-**Apprentice Victoria. Field: No Field**
-- Litten, Lv. 5, Ability: Blaze, Bashful Nature, IVs: 10
-    - Scratch
-    - Growl
+!battle(["Victoria", :Victoria, 0])
 
 You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required.
 
@@ -153,19 +147,13 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 **Grand Hall Common Candy Shop**
 
-|Item           |Price      |
-|---------------|-----------|
-|*Common Candy* | $75       |
+!shop("Grand Hall Candy Shop", ["Common Candy"])
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. Reborn's disobedience system means that Pokemon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
 **Default Shop**
 
-|Item           |Price      |
-|---------------|-----------|
-|*Potion*       |$300       |
-|*Antidote*     |$100       |
-|*Poke Ball*    |$200       |
+!shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poke Ball"])
 
 In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. Note that you get a *Premier Ball* with every 10 balls you purchase. Reborn is tight on money, so especially if you're not interested in using healing items during battles, you might be better off not spending your cash on Potions and Antidotes and running back to Pokemon Centers when needed instead.
 
@@ -177,10 +165,9 @@ That's all we can really do in the Grand Hall for now, so head outside.
 
 ## Opal Ward
 
-To the right is a trainer. For enemy trainers, assume default level up moves, random abilities and nature, and no EVs when not listed.
+To the right is a trainer.
 
-**Techie Jonathan. Field: No Field**
-- Yungoos, Lv. 4, Serious Nature, IVs: 10
+!battle(["Jonathan", :TechNerd, 0])
 
 Anyways, there is grass here, which means we can obtain new team members!
 
@@ -194,21 +181,15 @@ On the left side of the area, in the left broken statue you'll find a hidden *Gr
 
 Talk to the trainer here with the Snubbull or Stufful, and they will leave. Back at the bottom of the area, you'll now be able to fight trainers to get onto Opal Bridge. The trainers, going clockwise starting to the left:
 
-**Youngster Paul. Field: No Field**
-- Bellsprout, Lv. 4, Serious Nature, IVs: 10
+!battle(["Paul", :YOUNGSTER, 0])
 
-**Street Rat Andreas. Field: No Field**
-- Aipom, Lv. 5, Serious Nature, IVs: 10
+!battle(["Andreas", :StreetRat, 0])
 
-**Gentleman Norman. Field: No Field**
-- Bunnelby, Lv. 5, Serious Nature, IVs: 10
+!battle(["Norman", :GENTLEMAN, 0])
 
-**Posh Claudette. Field: No Field**
-- Meowth, Lv. 4, Serious Nature, IVs: 10
-- Meowth-Alola, Lv. 4, Serious Nature, IVs: 10
+!battle(["Claudette", :BEAUTY, 0])
 
-**Hotshot Eric. Field: No Field**
-- Bidoof, Lv. 5, Serious Nature, IVs: 10
+!battle(["Eric", :COOLTRAINER_Male, 0])
 
 For beating both of the trainers at the bottom of the stairs, you'll get an *Exp. Candy XS*. There are also some hidden items on the bridge:
 
@@ -220,14 +201,12 @@ For beating both of the trainers at the bottom of the stairs, you'll get an *Exp
 
 In the top right, you'll find three bullies.
 
-**Youngster Randy. Field: No Field**
-- Trubbish, Lv. 6, Serious Nature, IVs: 10
+!battle(["Randy", :YOUNGSTER, 0])
 
 You'll need two Pokemon to be able to fight the last two, so catch a second if you haven't yet.
 
-**Hotshot Jackson & Street Rat Mack. Field: No Field**
-- Fomantis, Lv. 6, Serious Nature, IVs: 10
-- Mudbray, Lv. 6, Serious Nature, IVs: 10
+!battle(["Jackson", :COOLTRAINER_Male, 0])
+!battle(["Mack", :StreetRat, 0])
 
 When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokemon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 

@@ -1,5 +1,5 @@
 ---
-title: Pokemon Reborn Walkthrough
+title: Pokémon Reborn Walkthrough
 ---
 
 <p id="title-text">Pokemon Reborn Walkthrough </p>

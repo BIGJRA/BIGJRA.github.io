@@ -155,7 +155,7 @@ end
 
 def main
   e = EncounterGetter.new('reborn')
-  puts e.get_encounter_md(29, ["Rattata", "Bidoof", "Patrat", "Pidgey", "Meowth", "Ekans", "Hoothoot", "Spinarak"])
+  puts e.get_encounter_md(29)
 end
 
 main if __FILE__ == $PROGRAM_NAME

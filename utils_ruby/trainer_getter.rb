@@ -86,13 +86,17 @@ class TrainerGetter
         "#{mon[:item] ? "@#{@item_hash[mon[:item]][:name]}" : ""}",
         "#{mon[:ability] ? "Ability: #{@ability_hash[mon[:ability]][:name]}" : ""}",
       ]
+
+      pokemon_form_1_key = @pokemon_hash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
+      pokemon_name = "#{@pokemon_hash[mon[:species]][pokemon_form_1_key][:name]}"
+
       mon_details_td = doc.create_element('td')
-      mon_details_td.add_child(doc.create_element('strong', "#{mon[:species].capitalize}"))
+      mon_details_td.add_child(doc.create_element('strong', pokemon_name))
       mon_details_td.add_child(mon_details_parts.reject{ |s| s.empty? }.join("\n"))
       content_row.add_child(mon_details_td)
 
       if mon[:moves]
-        content_row.add_child(doc.create_element('td', "- " + mon[:moves].map { |move| @move_hash[move][:name] }.join("\n- ")))
+        content_row.add_child(doc.create_element('td', "- " + mon[:moves].compact.map { |move| @move_hash[move][:name] }.join("\n- ")))
       else
         content_row.add_child(doc.create_element('td', "Default level up moves"))
       end
@@ -105,19 +109,18 @@ class TrainerGetter
         if mon[:iv] == 32
           iv_str = "IVs: 31 (0 Spe)"
         else
-          iv_str = "IVs: " + mon[:iv].to_s
+          iv_str = "IVs: #{mon[:iv]}"
         end
       end
 
       stat_details_parts = [
-        mon[:nature] ? "#{mon[:nature].capitalize} Nature" : "No Nature Specified",
-        mon[:ev] ? ev_str : "No EVs",
+        mon[:nature] ? "#{mon[:nature].capitalize} Nature" : "Hardy Nature",
+        mon[:ev] ? ev_str : "EVs: all #{[85, mon[:level] * 3 / 2].min}",
         mon[:iv] ? iv_str : "IVs: 10"
       ]
 
       stat_details_td = doc.create_element('td', stat_details_parts.reject{ |s| s.empty? }.join("\n"))
       content_row.add_child(stat_details_td)
-
     end
 
     html_output = doc.to_html 

@@ -36,7 +36,7 @@ class FunctionWrapper
       "img" => "generate_image_markdown",
       "enc" => "generate_encounter_markdown",
       "shop" => "generate_shop_markdown",
-      "fight" => "generate_trainer_markdown"
+      "battle" => "generate_trainer_markdown"
     }
 
   end
@@ -49,7 +49,7 @@ class FunctionWrapper
     returns a string in valid markdown format corresponding to the evaluated function.
     '''
     s = s.strip[1..-2]
-    func_shortname, args = s.split('(')
+    func_shortname, args = s.split('(', 2)
 
     # Shortnames should make things quicker while coding - full function names work too
     func = @shortNames[func_shortname] || func_shortname
