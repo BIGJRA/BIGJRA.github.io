@@ -168,6 +168,33 @@ def load_pokemon_hash(game)
   eval(data)
 end
 
+def load_mining_hash(game=nil)
+  if game && game.capitalize == "Rejuv"
+    lines = File.read(File.join(SCRIPTS_DIR, game, 'RejuvCustomScripts.rb'))
+  else
+    lines = File.read(File.join(SCRIPTS_DIR, 'MinigameMining.rb'))
+  end
+
+  item_hash = Hash.new(0)
+
+  lines.each_line do |line|
+    next if !line.match(/\[:\w+,\s*\d+,\s*\d+,\s*\d+,\s*\d+,\s*\d+,\s*\[[01\s,]+\]/)
+
+    item_symbol = line.match(/(\w+)/)[1].to_sym
+    probability = line.match(/(\d+)/)[0].to_i
+
+    item_hash[item_symbol] += probability
+  end
+
+  total_prob = item_hash.values.sum.to_f
+  item_hash.transform_values! { |prob| (prob / total_prob * 100).round(2) }
+
+  grouped_hash = item_hash.map { |sym, prob| [sym, prob] }.group_by(&:last).transform_values { |elements| elements.map(&:first) }
+
+  return grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
+end
+
+
 def get_map_names(game)
   ret = {}
   data = File.read(File.join(SCRIPTS_DIR, game, 'metatext.rb'))
@@ -184,3 +211,10 @@ def get_map_names(game)
   end
   ret
 end
+
+
+def main
+  p load_mining_hash
+end
+
+main if __FILE__ == $PROGRAM_NAME

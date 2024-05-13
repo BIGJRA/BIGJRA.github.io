@@ -474,61 +474,7 @@ Some wild Pokémon have a chance of holding an item when they are encountered in
 
 The following table lists the chances of each item being generated in a mining rock:
 
-|Item             |%     |
-|-----------------|------|
-|*Helix Fossil*   |1.17% |
-|*Root Fossil*    |0.78% |
-|*Claw Fossil*    |0.78% |
-|*Dome Fossil*    |0.78% |
-|*Skull Fossil*   |0.78% |
-|*Armor Fossil*   |0.78% |
-|*Sun Stone*      |1.17% |
-|*Shiny Stone*    |1.17% |
-|*Dawn Stone*     |1.17% |
-|*Ice Stone*      |1.17% |
-|*Dusk Stone*     |1.17% |
-|*Thunder Stone*  |1.17% |
-|*Fire Stone*     |1.17% |
-|*Water Stone*    |1.17% |
-|*Leaf Stone*     |1.17% |
-|*Moon Stone*     |1.17% |
-|*Oval Stone*     |1.94% |
-|*Everstone*      |1.94% |
-|*Star Piece*     |2.91% |
-|*Rare Bone*      |1.94% |
-|*Revive*         |2.91% |
-|*Max Revive*     |0.97% |
-|*Light Clay*     |1.94% |
-|*Hard Stone*     |1.94% |
-|*Heart Scale*    |16.50%|
-|*Iron Ball*      |1.94% |
-|*Odd Keystone*   |0.97% |
-|*Heat Rock*      |1.94% |
-|*Damp Rock*      |1.94% |
-|*Smooth Rock*    |1.94% |
-|*Icy Rock*       |1.94% |
-|*Amplifield Rock*|1.94% |
-|*Red Shard*      |7.77% |
-|*Green Shard*    |7.77% |
-|*Purple Shard*   |7.77% |
-|*Blue Shard*     |7.77% |
-|*Insect Plate*   |0.39% |
-|*Dread Plate*    |0.39% |
-|*Draco Plate*    |0.39% |
-|*Zap Plate*      |0.39% |
-|*Fist Plate*     |0.39% |
-|*Flame Plate*    |0.39% |
-|*Meadow Plate*   |0.39% |
-|*Earth Plate*    |0.39% |
-|*Icicle Plate*   |0.39% |
-|*Toxic Plate*    |0.39% |
-|*Mind Plate*     |0.39% |
-|*Stone Plate*    |0.39% |
-|*Sky Plate*      |0.39% |
-|*Spooky Plate*   |0.39% |
-|*Iron Plate*     |0.39% |
-|*Splash Plate*   |0.39% |
-|*Pixie Plate*    |0.39% |
+!mine()
 
 ## Full Password List
 

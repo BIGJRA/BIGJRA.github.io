@@ -36,7 +36,8 @@ class FunctionWrapper
       "img" => "generate_image_markdown",
       "enc" => "generate_encounter_markdown",
       "shop" => "generate_shop_markdown",
-      "battle" => "generate_trainer_markdown"
+      "battle" => "generate_trainer_markdown",
+      "mine" => "generate_mining_markdown"
     }
 
   end
@@ -60,6 +61,50 @@ class FunctionWrapper
 
   def generate_image_markdown(filename)
     "<img class=\"tabImage\" src=\"/static/images/#{@game}/#{filename}\"/>"
+  end
+
+  def generate_mining_markdown()
+    mining_hash = load_mining_hash(@game)
+    # Creates nokogiri HTML
+    doc = Nokogiri::HTML::Document.new
+    div = doc.create_element('div', class: 'mining_table')
+    doc.add_child(div)
+
+    table = doc.create_element('table')
+    div.add_child(table)
+
+    # Creates the header for the table
+    thead = doc.create_element('thead')
+    table.add_child(thead)
+    
+    table_header = doc.create_element('th', colspan: 2)
+    thead.add_child(table_header)
+
+    bold = doc.create_element('strong')
+    bold.content = "Mining Probabilities"
+    table_header.add_child(bold)
+    table_header['class'] = 'table-header'
+    table_header['style'] = 'text-align: center;'
+    
+    mining_hash.each do |prob, item_list|
+
+      content_row = doc.create_element('tr')
+      table.add_child(content_row)
+      
+      # Column 1: Item Name (italicized)
+      item_str = item_list.map {|sym| @itemHash[sym][:name] }.join(', ')
+      td_item = doc.create_element('td', style: 'text-align: center')
+      td_item.add_child(doc.create_element('em', content=item_str))
+      content_row.add_child(td_item)
+    
+      # Column 2: Probability
+      td_price = doc.create_element('td', style: 'text-align: center')
+      td_price.content = "#{prob}%"
+      content_row.add_child(td_price)
+    end
+
+    html_output = doc.to_html 
+    return html_output.split("\n")[1..].join("\n")
   end
 
   def generate_encounter_markdown(map_id, enc_type_exclude_list = nil)
