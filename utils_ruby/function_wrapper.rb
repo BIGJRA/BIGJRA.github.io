@@ -23,10 +23,13 @@ class FunctionWrapper
     @encHash = load_enc_hash(game)
     @itemHash = load_item_hash(game)
     @trainerHash = load_trainer_hash(game)
+    @trainerTypeHash = load_trainer_type_hash(game)
+    @moveHash = load_move_hash(game)
+    @abilityHash = load_ability_hash(game)
 
     @encGetter = EncounterGetter.new(game, @encHash, @mapNames)
     @shopGetter = ShopGetter.new(game, @itemHash)
-    @trainerGetter = TrainerGetter.new(game, @trainerHash, @itemHash)
+    @trainerGetter = TrainerGetter.new(game, @trainerHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash)
 
     @shortNames = { 
       "img" => "generate_image_markdown",

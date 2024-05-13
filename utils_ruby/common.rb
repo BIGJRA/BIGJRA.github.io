@@ -97,6 +97,9 @@ CORR_MON_NAMES = {
   "Flabebe" => "Flabebe"
 }
 
+EV_ARRAY = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
+
+
 def get_game_contents_dir(game)
   File.join(ROOT_DIR, "raw", game)
 end
@@ -143,6 +146,21 @@ def load_trainer_hash(game)
     ret[trainer_hash[:teamid]] = trainer_hash
   end
   ret
+end
+
+def load_trainer_type_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'ttypetext.rb'))
+  eval(data)
+end
+
+def load_ability_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'abiltext.rb'))
+  eval(data)
+end
+
+def load_move_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'movetext.rb'))
+  eval(data)
 end
 
 def get_map_names(game)

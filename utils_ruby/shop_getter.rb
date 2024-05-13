@@ -24,11 +24,11 @@ class ShopGetter
     thead = doc.create_element('thead')
     table.add_child(thead)
       
-    thead_row = doc.create_element('tr')
-    thead.add_child(thead_row)
+    # thead_row = doc.create_element('tr')
+    # thead.add_child(thead_row)
     
     table_header = doc.create_element('th', colspan: 2)
-    thead_row.add_child(table_header)
+    thead.add_child(table_header)
 
     bold = doc.create_element('strong')
     bold.content = "Shop: #{shop_title}"
@@ -43,12 +43,12 @@ class ShopGetter
       # Column 1: Item Name (italicized)
       td_item = doc.create_element('td', style: 'text-align: center')
       td_item.add_child(doc.create_element('em', content=item))
-      table.add_child(td_item)
+      content_row.add_child(td_item)
     
       # Column 2: Price
       td_price = doc.create_element('td', style: 'text-align: center')
       td_price.content = "$#{@price_lookup[item]}"
-      table.add_child(td_price)
+      content_row.add_child(td_price)
     end
 
     html_output = doc.to_html 
