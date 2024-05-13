@@ -163,6 +163,11 @@ def load_move_hash(game)
   eval(data)
 end
 
+def load_pokemon_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'montext.rb'))
+  eval(data)
+end
+
 def get_map_names(game)
   ret = {}
   data = File.read(File.join(SCRIPTS_DIR, game, 'metatext.rb'))

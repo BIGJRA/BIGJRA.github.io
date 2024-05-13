@@ -7,14 +7,16 @@ class TrainerGetter
   attr_accessor :item_hash
   attr_accessor :move_hash
   attr_accessor :ability_hash
+  attr_accessor :pokemon_hash
 
-  def initialize(game, trainer_hash=nil, trainer_type_hash=nil, item_hash=nil, move_hash=nil, ability_hash=nil)
+  def initialize(game, trainer_hash=nil, trainer_type_hash=nil, item_hash=nil, move_hash=nil, ability_hash=nil, pokemon_hash=nil)
     @game = game
     @trainer_hash = trainer_hash ||= load_trainer_hash(@game)
     @trainer_type_hash = trainer_type_hash ||= load_trainer_type_hash(@game)
     @item_hash = item_hash ||= load_item_hash(@game)
     @move_hash = move_hash ||= load_move_hash(@game)
     @ability_hash = ability_hash ||= load_ability_hash(@game)
+    @pokemon_hash = pokemon_hash ||= load_pokemon_hash(@game)
   end
 
   def generate_trainer_markdown(trainer_id, field=nil)
@@ -76,16 +78,10 @@ class TrainerGetter
     trainer_data[:mons].each do |mon|
       content_row = doc.create_element('tr')
       table.add_child(content_row)
-      
-      # Adds mon details: For example
-      # Muk (M)
-      # Alolan Forme
-      # Lv. 52
-      # @Black Sludge
 
       mon_details_parts = [
         "#{mon[:gender] ? " (#{mon[:gender]})" : " "}",
-        "#{mon[:form] ? "Form ##{mon[:form]}": ""}",
+        "#{mon[:form] ? @pokemon_hash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]]: ""}",
         "Lv. #{mon[:level]}",
         "#{mon[:item] ? "@#{@item_hash[mon[:item]][:name]}" : ""}",
         "#{mon[:ability] ? "Ability: #{@ability_hash[mon[:ability]][:name]}" : ""}",
@@ -98,7 +94,7 @@ class TrainerGetter
       if mon[:moves]
         content_row.add_child(doc.create_element('td', "- " + mon[:moves].map { |move| @move_hash[move][:name] }.join("\n- ")))
       else
-        content_row.add_child(doc.create_element('td', "---"))
+        content_row.add_child(doc.create_element('td', "Default level up moves"))
       end
 
       if mon[:ev]
@@ -122,37 +118,6 @@ class TrainerGetter
       stat_details_td = doc.create_element('td', stat_details_parts.reject{ |s| s.empty? }.join("\n"))
       content_row.add_child(stat_details_td)
 
-    #   # Column 2: Price
-    #   td_price = doc.create_element('td', style: 'text-align: center')
-    #   td_price.content = "$#{@price_lookup[item]}"
-    #   table.add_child(td_price)
-    # end
-
-      
-    #     # Add Pokemon's name to the first column
-    #     td_name = doc.create_element('td', style: 'text-align: center')
-        
-    #     # Apply bold style to the content
-    #     bold = doc.create_element('strong')
-    #     bold.content = pokemon_name.to_s.capitalize
-    #     td_name.add_child(bold)
-    #     tr.add_child(td_name)
-        
-    #     # Add levels to the second column
-    #     td_levels = doc.create_element('td', style: 'text-align: center')
-    #     td_levels.content = mon_data["levels"]
-    #     tr.add_child(td_levels)
-        
-    #     # Add encounter types to additional columns
-    #     types.each do |encounter_type|
-    #     # [:LandMorning, :LandDay, :LandNight].each do |encounter_type|
-    #       td_encounter_type = doc.create_element('td', style: 'text-align: center')
-    #       td_encounter_type.content = mon_data[encounter_type].to_s + "%"
-    #       tr.add_child(td_encounter_type)
-    #     end
-
-    #     table.add_child(tr)
-    #   end
     end
 
     html_output = doc.to_html 
