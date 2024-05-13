@@ -10,7 +10,8 @@ class ShopGetter
     @price_lookup = load_price_lookup()
   end
 
-  def generate_shop_markdown(shop_title, shop_items)
+  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil)
+    price_overrides ||= [nil] * shop_items.length
 
     # Creates nokogiri HTML
     doc = Nokogiri::HTML::Document.new
@@ -36,7 +37,7 @@ class ShopGetter
     table_header['class'] = 'table-header'
     table_header['style'] = 'text-align: center;'
     
-    shop_items.each do |item|
+    shop_items.each_with_index do |item, position|
       content_row = doc.create_element('tr')
       table.add_child(content_row)
       
@@ -47,7 +48,7 @@ class ShopGetter
     
       # Column 2: Price
       td_price = doc.create_element('td', style: 'text-align: center')
-      td_price.content = "$#{@price_lookup[item]}"
+      td_price.content = "$#{!price_overrides[position].nil? ? @price_lookup[item] : price_overrides[position].nil?}"
       content_row.add_child(td_price)
     end
 

@@ -189,12 +189,12 @@ class FunctionWrapper
   end
   
 
-  def generate_encounter_markdown(map_id, enc_type_exclude_list = nil)
-    return @encGetter.get_encounter_md(map_id, enc_type_exclude_list)
+  def generate_encounter_markdown(map_id, enc_type_exclude_list = nil, rods=nil)
+    return @encGetter.get_encounter_md(map_id, enc_type_exclude_list, rods)
   end
 
-  def generate_shop_markdown(shop_title, shop_items)
-    return @shopGetter.generate_shop_markdown(shop_title, shop_items)
+  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil)
+    return @shopGetter.generate_shop_markdown(shop_title, shop_items, price_overrides)
   end
 
   def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil )

@@ -121,6 +121,8 @@ Talk to Ame as soon as you're done, and you'll be taken downstairs and fight you
 
 !battle(["Cain", :Cain, 0])
 
+Note that when one number is listed for EVs and for IVs, it means all six stats have this value.
+
 Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required.
 
 **Relationship Point Choices:**
@@ -147,7 +149,7 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 **Grand Hall Common Candy Shop**
 
-!shop("Grand Hall Candy Shop", ["Common Candy"])
+!shop("Grand Hall Candy Shop", ["Common Candy"], [75])
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokémon's level. Reborn's disobedience system means that Pokémon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokémon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
@@ -156,8 +158,6 @@ As you might guess, Common Candies are the opposite of rare candies - they'll de
 !shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poké Ball"])
 
 In this guide I will be catching every single Pokémon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. Note that you get a *Premier Ball* with every 10 balls you purchase. Reborn is tight on money, so especially if you're not interested in using healing items during battles, you might be better off not spending your cash on Potions and Antidotes and running back to Pokémon Centers when needed instead.
-
-You can also get a single *Potion* in the PC storage.
 
 On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokémon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokémon for... 14 more badges.
 
@@ -217,9 +217,7 @@ That's it for Opal Ward for now, so head back towards the train station.
 
 In the Lower Peridot Ward, things have opened up! To the left is a trainer.
 
-**Doxy Lindsey. Field: No Field**
-- Cleffa, Lv. 5, Serious Nature, IVs: 10
-- Panpour, Lv. 5, Serious Nature, IVs: 10
+!battle(["Lindsey", :Doxy, 0])
 
 Next, head right then up as soon as you can.
 
@@ -238,12 +236,7 @@ To the left, there is a Pokémon Center, and some hidden items outside.
 
 Hang on to the latter for now - it will be useful later on. There is another trainer to the left:
 
-**Casanova Andy. Field: No Field**
-- Purrloin, Lv. 8, Serious Nature, IVs: 10
-    - Scratch
-    - Scratch
-    - Scratch
-    - Growl
+!battle(["Andy", :Casanova, 0])
 
 A riveting moveset.
 
@@ -251,12 +244,9 @@ In the nearby house, you can take a quiz to find out what types of Pokémon you'
 
 Anyways, go down and right from here.
 
-**Doxy Hera. Field: No Field**
-- Igglybuff, Lv. 5, Serious Nature, IVs: 10
-- Ducklett, Lv. 6, Serious Nature, IVs: 10
+!battle(["Hera", :Doxy, 0])
 
-**Casanova Saad. Field: No Field**
-- Pansage, Lv. 7, Serious Nature, IVs: 10
+!battle(["Saad", :Casanova, 0])
 
 During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it.
 
@@ -275,6 +265,8 @@ Return to the guy we gave money to - behind him in a house you will find **Mincc
 On the left side of the Pokémon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*!
 
 Back outside, we can actually fish in the dirty water.
+
+!enc(37, ["Headbutt", "Grass"], ["Old"])
 
 **Lower Peridot Ward / Peridot Ward**
 

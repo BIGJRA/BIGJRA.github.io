@@ -134,7 +134,7 @@ class TrainerGetter
         moves_str = "- " + mon[:moves].compact.map { |move| @move_hash[move][:name] }.join("\n- ")
         content_row.add_child(doc.create_element('td', moves_str))
     
-        ev_str = mon[:ev] ? "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }.join(", ") : "EVs: all #{[85, mon[:level] * 3 / 2].min}"
+        ev_str = mon[:ev] ? "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }.join(", ") : "EVs: #{[85, mon[:level] * 3 / 2].min}"
         iv_str = mon[:iv] ? (mon[:iv] == 32 ? "IVs: 31 (0 Spe)" : "IVs: #{mon[:iv]}") : "IVs: 10"
         stat_details_parts = [
           mon[:nature] ? "#{mon[:nature].capitalize} Nature" : "Hardy Nature",

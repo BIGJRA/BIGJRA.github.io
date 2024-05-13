@@ -11,8 +11,9 @@ class EncounterGetter
     @mapNames = map_names ||= get_map_names(game)
   end
 
-  def get_encounter_md(map_id, enc_type_exclude_list = nil)
+  def get_encounter_md(map_id, enc_type_exclude_list = nil, rods=nil)
     enc_type_exclude_list ||= []
+    rods ||= ["Old", "Good", "Super"]
 
     data = @encHash[map_id]
     map_name = @mapNames[map_id]
@@ -35,6 +36,11 @@ class EncounterGetter
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
       next if enc_type_exclude_list.include?(group.to_s)
+      if group == :Fishing
+        new_types = rods.map { |rod| "#{rod}Rod".to_sym if ["Old", "Good", "Super"].include?(rod) }.compact
+        types = new_types unless new_types.empty?
+      end
+
 
       # I group Land M/D/N together, and also fishing rods. This num_cols thus keeps the number of columns 
       # in the ultimate table together.
@@ -47,6 +53,7 @@ class EncounterGetter
       mons = Hash.new { |hash, key| hash[key] = { "levels" => Set.new }.merge(types.map { |type| [type, 0] }.to_h) }
       
       types.each do |type|
+        next if !data[type]
         data[type].each do |mon, arr|
           arr.each do |chance, min_value, max_value|
             mons[mon][type] += chance
@@ -88,7 +95,7 @@ class EncounterGetter
       th_rate = doc.create_element('th', colspan: num_cols - 2, class: 'table-header', style: 'text-align: center;')
       th_rate.content = "Rate"
 
-      if num_cols > 3 # need to use two rows in one if Morning/Day/Nite
+      if num_cols > 3 || group == :Fishing # need to use two rows in one if Morning/Day/Nite
         th_pokemon['rowspan'] = 2
         th_levels['rowspan'] = 2
         th_rate['colspan'] = num_cols - 2
@@ -100,7 +107,7 @@ class EncounterGetter
       thead.add_child(thead_row)
 
       # Adds third row of header: if necessary
-      if num_cols > 3
+      if num_cols > 3 || group == :Fishing
         thead_row_extended = doc.create_element('tr')
         
         types.each do |type|
@@ -156,6 +163,7 @@ end
 def main
   e = EncounterGetter.new('reborn')
   puts e.get_encounter_md(29)
+  puts e.get_encounter_md(37, [])
 end
 
 main if __FILE__ == $PROGRAM_NAME
