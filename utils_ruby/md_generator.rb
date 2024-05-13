@@ -7,10 +7,10 @@ def generate_md_text(game = "reborn")
   def generate_md_pre_contents(game = "reborn")
     <<~PRE_CONTENTS
       ---
-      title: Pokemon #{game.capitalize} Walkthrough
+      title: Pokémon #{game.capitalize} Walkthrough
       ---
 
-      <p id="title-text">Pokemon #{game.capitalize} Walkthrough </p>
+      <p id="title-text">Pokémon #{game.capitalize} Walkthrough </p>
 
     PRE_CONTENTS
   end

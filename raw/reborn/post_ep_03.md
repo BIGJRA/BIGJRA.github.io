@@ -150,7 +150,7 @@ Head up when you're ready for one heck of a battle.
 
 We once had an optional Victoria battle on Ashen Beach, then the Kiki fight. One of the Victory Road spirits battled on it too, but this is the fourth significant battle in the whole game here. May take a bit of time to get used to it again!
 
-Anyways, this is definitely the hardest fight in the Postgame so far. 12 Pokemon that are all arguably threats, inherently or because of the field, against you and an ally that loves to make terrible decisions sometimes (COME ON PRIMARINA TARGET KELDEO IT'S THE OBVIOUS THREAT). You do have to have some kind of plan for the opener: Weavile uses Beat Up on Cobalion, granting it +5 attack by the turn's end. Not good. On top of that, all the field boosted mud attacks, Surf, and Focus Blast will mess you up. I recommend first stopping Weavile, getting up Trick Room and doing everything in your power to defeat the right side first, then hoping you end up in a position where Alistasia's Hawlucha is alive, since it can OHKO all three of the Swords of Justice and Mega Lucario. This one is tough, you may have to change up your team immensely, but you can find a way to come out on top for sure.
+Anyways, this is definitely the hardest fight in the Postgame so far. 12 Pokémon that are all arguably threats, inherently or because of the field, against you and an ally that loves to make terrible decisions sometimes (COME ON PRIMARINA TARGET KELDEO IT'S THE OBVIOUS THREAT). You do have to have some kind of plan for the opener: Weavile uses Beat Up on Cobalion, granting it +5 attack by the turn's end. Not good. On top of that, all the field boosted mud attacks, Surf, and Focus Blast will mess you up. I recommend first stopping Weavile, getting up Trick Room and doing everything in your power to defeat the right side first, then hoping you end up in a position where Alistasia's Hawlucha is alive, since it can OHKO all three of the Swords of Justice and Mega Lucario. This one is tough, you may have to change up your team immensely, but you can find a way to come out on top for sure.
 
 Afterwards, you'll be able to battle and catch **Keldeo**! Thankfully your team will be healed beforehand.
 
@@ -314,7 +314,7 @@ Once you're done and try to head out of this area, if you gave Blake the Ruby Ri
     - Psychic
     - Sludge Wave
 
-Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokemon but have weakened defenses. Celesteela, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and Trick Room for this one.
+Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokémon but have weakened defenses. Celesteela, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and Trick Room for this one.
 
 **Relationship Point Choices:**
 - After giving Blake the ring, defeat Umbral Ciel (+1 Ciel)
@@ -483,7 +483,7 @@ Back in the Nightclub, talk to Seacrest, and accept the quest. Head over to Vanh
 
 12V6 NOOOOOOOOOOOOOOOOOOOOOOOO
 
-So yeah this one is really hard. Two megas! Two entire teams that are specifically designed with basically the best candidates for every chess piece! The best non-legendary Pokemon in the game in Aegislash! It's just... brutal. Even if you go for Stomping Tantrum or Tectonic Rage to destroy the board... you're still stuck fighting all of these guys. Trying Trick Room? Aegislash, Aggron, and Escavalier are slow, while Kartana and Lopunny are super fast.
+So yeah this one is really hard. Two megas! Two entire teams that are specifically designed with basically the best candidates for every chess piece! The best non-legendary Pokémon in the game in Aegislash! It's just... brutal. Even if you go for Stomping Tantrum or Tectonic Rage to destroy the board... you're still stuck fighting all of these guys. Trying Trick Room? Aegislash, Aggron, and Escavalier are slow, while Kartana and Lopunny are super fast.
 
 Anyways, I think there are two strategies to consider. The first, while not that simple as mentioned earlier, is simply to smash the field and just overwhelm your opponents with a very well prepared doubles team. Setting up a sweeper or two with speed and good coverage can be difficult to pull off, but can make it work. A lot of the team relies on Physical moves this time, so if you can deal with Kartana's Brick Break, Reflect can be helpful here.
 

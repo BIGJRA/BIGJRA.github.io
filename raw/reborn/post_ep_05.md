@@ -267,7 +267,7 @@ You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next ha
 
 !img("zcell_29.jpg")
 
-Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poke Ball*. Talk to our pal when you're ready for a fight.
+Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poké Ball*. Talk to our pal when you're ready for a fight.
 
 **Umbral Cain. Field: Dark Crystal Cavern**
 - Sandslash-Alola, Lv. 125, @Focus Sash, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -533,7 +533,7 @@ The path from here contains a *Relic Copper* but also two *Relic Silvers*! Use t
     - Water Pulse
     - Dazzling Gleam
 
-A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs, Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed, and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. These Pokemon do have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge.
+A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs, Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed, and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. These Pokémon do have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge.
 
 If you want to run with the field, you can use your own Water types and carefully navigate a sweep. One alternative, fun idea is to bring a fast Flying or Water type to use Fly or Dive to bring the fight to the Water Surface, which takes away the crazy speed difference and takes away the type changes on the four. Then you can sweep more "normally" or switch again to Murkwater or Icy Field if you feel like it.
 

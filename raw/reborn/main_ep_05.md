@@ -210,7 +210,7 @@ Make your way over to the Opal Bridge. As you make your way into North Obsidia W
 **Elder Yagami. Field: No Field**
 - Spheal, Lv. 32, Serious Nature, IVs: 10
 
-North of here, you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for Pokemon that need to be traded otherwise. To evolve Pokemon that normally trade while holding items, you can give them their item and use the Link Stone on them. This one is pricey, but if you have a Pokemon like Graveler you're trying to evolve, it's worth picking up.
+North of here, you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for Pokémon that need to be traded otherwise. To evolve Pokémon that normally trade while holding items, you can give them their item and use the Link Stone on them. This one is pricey, but if you have a Pokémon like Graveler you're trying to evolve, it's worth picking up.
 
 ## Defeating the Rival Gang
 
@@ -304,7 +304,7 @@ Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with t
 
 Head over to the Onyx Ward next. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*.
 
-In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*.
+In Lapis Ward a lady in the Pokémon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*.
 
 ### Smashin' at the Stairway
 
@@ -351,7 +351,7 @@ You can find a *Sun Stone* on the floor. The hidden items in this room are *Purp
 
 You'll need to defeat the two Pangoro on each side of the room and activate the switches beyond them.
 
-**Pokemon Don. Field: No Field**
+**Pokémon Don. Field: No Field**
 - Pangoro, Lv. 45, Ability: Scrappy, Adamant Nature, IVs: 20
     - Body Slam
     - Circle Throw
@@ -360,7 +360,7 @@ You'll need to defeat the two Pangoro on each side of the room and activate the 
 
 By going to the left side of the room and walking on the floor between the platforms, you can reach the middle of the room.
 
-**Pokemon Don. Field: No Field**
+**Pokémon Don. Field: No Field**
 - Pangoro, Lv. 50, @Sitrus Berry, Ability: Iron Fist, Adamant Nature, IVs: 30
     - Body Slam
     - Circle Throw
@@ -397,7 +397,7 @@ Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a 
 |------------------|---|
 |**Aron**          |100|
 
-Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokemon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
+Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokémon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
 
 **Department Store 5F Left Shop**
 
@@ -407,7 +407,7 @@ Head all the way back through the railnet and the slums to escape, then go to th
 |*Super Potion* |$700           |
 |*Super Repel*  |$700           |
 |*Full Heal*    |$600           |
-|*Poke Doll*    |$1000          |
+|*Poké Doll*    |$1000          |
 
 The first buyable Great Balls and Super Repels? Sign me up.
 
@@ -447,7 +447,7 @@ Well, we're back in the Rhodochrine Jungle, in a new area this time. You can fin
 
 On windy days, you can have a battle!
 
-**Pokemon Tribe. Field: Forest Field**
+**Pokémon Tribe. Field: Forest Field**
 - Nuzleaf, Lv. 20, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
@@ -457,7 +457,7 @@ On windy days, you can have a battle!
 
 Just gotta find a way to hit Shiftry with a Bug move and you'll probably win here. As a reward, you'll get **Nuzleaf** by talking to it.
 
-The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
+The totem at the top here also has Pokémon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokémon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokémon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
 
 ### Smashin' at Citrine Mountain
 
@@ -484,7 +484,7 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 4. Go left. Along this path you'll find *Blue Shard*, *Shoal Salt*, *Protein*, and *Hyper Potion*. It will fork again eventually: go down the left fork. You can find a hidden *Hyper Potion*, *Purple Shard*, and *Shoal Salt*. Also, pick up the *Short-Circuit Field Readout* here. Will be useful soon!
 5. Back up at the fork, go right. You'll find another 2 hidden *Shoal Salts*, *Blue Shard*, and *Max Repel*. Enter the cave entrance up from here, and pick up the hidden *Red Shard* as well as the *Exp. Candy M* and *NeverMeltIce* inside. Talk to Smoochum when you're ready.
 
-**Pokemon Savage. Field: Icy Field**
+**Pokémon Savage. Field: Icy Field**
 - Beartic, Lv. 65, Serious Nature, IVs: 10
   - Blizzard
   - Flail

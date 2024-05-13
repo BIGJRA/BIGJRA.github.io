@@ -12,7 +12,7 @@ Nearby you'll find a hiker. Talk to him, then talk to the person in the house co
 
 Next, enter the Grand Hall. The Common Candy salesman near the shop is now gone, but in his place is a person with glasses who will give us the *Rainbow Field Readout*. Keep this field in mind for later.
 
-Now that we have a badge, Pokemarts will be updated:
+Now that we have a badge, Pokémarts will be updated:
 
 **Default Shop (1 Badge)**
 
@@ -24,7 +24,7 @@ Now that we have a badge, Pokemarts will be updated:
 |*Burn Heal*    |$250       |
 |*Escape Rope*  |$550       |
 |*Repel*        |$400       |
-|*Poke Ball*    |$200       |
+|*Poké Ball*    |$200       |
 
 Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
 
@@ -44,12 +44,12 @@ You'll also notice that there are more trainers on Opal Bridge. Again clockwise:
 
 When you're ready, talk to Victoria on the right side of Opal Bridge.
 
-Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokemon's friendship for $1500. Do this once if you have the money.
+Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokémon's friendship for $1500. Do this once if you have the money.
 
 **Relationship Point Choices:**
 - Get at least one massage at the Central Salon (+1 Serra)
 
-A lady on the right will ask to see a Pokemon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
+A lady on the right will ask to see a Pokémon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
 
 The building to the right is Critical Capture, where you can buy custom balls.
 
@@ -67,14 +67,14 @@ The building to the right is Critical Capture, where you can buy custom balls.
 |*Timer Ball*   |$1000      |
 |*Friend Ball*  |$3000      |
 
-Most of these are really not too worth it right now compared to the regular variety (especially Friend Ball... yikes) but I recommend picking up a few Love Balls - their 4x catch rate can be activated 100% of the time given you're trying to catch a non-genderless Pokemon and you have at least 1 male and at least 1 female Pokemon in your party, helpful for Pokemon with lower catch rates we may encounter.
+Most of these are really not too worth it right now compared to the regular variety (especially Friend Ball... yikes) but I recommend picking up a few Love Balls - their 4x catch rate can be activated 100% of the time given you're trying to catch a non-genderless Pokémon and you have at least 1 male and at least 1 female Pokémon in your party, helpful for Pokémon with lower catch rates we may encounter.
 
 Outside, head right and up.
 
 **Street Rat Franklin. Field: No Field**
 - Togedemaru, Lv. 13, Serious Nature, IVs: 10
 
-Enter the Pokemon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
+Enter the Pokémon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
 
 Enter the building to the right, and talk to the daycare couple one-by-one over and over until they drop their facade and battle you.
 
@@ -104,7 +104,7 @@ Head back out and enter the Devon Corp building on the main street.
 |---------------|-----------|
 |*Potion*       |$300       |
 |*Repel*        |$400       |
-|*Poke Ball*    |$200       |
+|*Poké Ball*    |$200       |
 
 Nothing special here for sale, but if you talk to the mysterious salesman, he'll give you a free *Premier Ball* the first time.
 
@@ -152,8 +152,8 @@ Back outside, follow Victoria to the right. If you'd like to get to battle Victo
 
 !img("hidden011.png")
 
-- (A): *PokeSnax*
-- (B): *PokeSnax*
+- (A): *PokéSnax*
+- (B): *PokéSnax*
 
 Head left and down.
 
@@ -192,7 +192,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 !img("hidden013.png")
 
 - (B): *Great Ball*
-- (C): *PokeSnax*
+- (C): *PokéSnax*
 - (D): *Red Shard*
 
 **Street Rat Ulf. Field: No Field**
@@ -203,7 +203,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 
 To the left you'll find a Light Shard, which heals your party but disappears after.
 
-If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokeSnax*.
+If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokéSnax*.
 
 **Apprentice Victoria (2x Potion). Field: No Field**
 - Ralts, Lv. 18, @Wise Glasses, Ability: Synchronize, IVs: 31
@@ -305,7 +305,7 @@ Head to the left, then go up the stairs once more. Talk to Corey here, then pick
     - Tackle
 - Paras, Lv. 16, Serious Nature, IVs: 10
 
-One of Ame's stated goals with Reborn was to ensure every Pokemon appeared in at least one enemy team. Here's to Cascoon!
+One of Ame's stated goals with Reborn was to ensure every Pokémon appeared in at least one enemy team. Here's to Cascoon!
 
 Head left and emerge onto the roof. There's another Light Shard here - usually they mean either "you're halfway through a dungeon" or "there's a super hard fight coming up". Anyways, follow the path and talk to Mankey in the elevator. Take it to 1F to open a shortcut, then take it to B1F.
 
@@ -315,7 +315,7 @@ Head left and emerge onto the roof. There's another Light Shard here - usually t
 |---------------|-----------|
 |*Fresh Water*  |$200       |
 
-Sometimes you even get two! Talk to the guy at the bottom of the area... turns out this is the guy who stole our $1000 Pokemon from the thieves in Peridot!
+Sometimes you even get two! Talk to the guy at the bottom of the area... turns out this is the guy who stole our $1000 Pokémon from the thieves in Peridot!
 
 **Youngster Kai. Field: No Field**
 - Feebas, Lv. 19, Serious Nature, IVs: 10
@@ -347,11 +347,11 @@ Back on B1F, enter the big door and head up.
 !img("hidden018.png")
 
 - (A): *Oran Berry*
-- (B): *Poke Ball*
+- (B): *Poké Ball*
 
 In the next room, it's time for a battle!
 
-**Pokemon Gang. Field: No Field**
+**Pokémon Gang. Field: No Field**
 - Scraggy, Lv. 15, Ability: Intimidate, IVs: 15
 - Scraggy, Lv. 16, Ability: Moxie, IVs: 10
 - Scraggy, Lv. 17, Ability: Shed Skin, IVs: 10
@@ -461,7 +461,7 @@ After the battle, you'll be given *TMX1 Cut*!
 
 ## Obsidia Park
 
-Return to South Obsidia Ward and use your new field move to chop down the tree. Thankfully in this game HMs can be deleted from your Pokemon at will.
+Return to South Obsidia Ward and use your new field move to chop down the tree. Thankfully in this game HMs can be deleted from your Pokémon at will.
 
 **Street Rat Carter. Field: No Field**
 - Barboach, Lv. 16, Serious Nature, IVs: 10
@@ -506,7 +506,7 @@ At the top of the area during the morning and day, you'll find a Litleo, who wil
 
 At night, you'll see two Mightyena's bullying **Electrike**, who will join you if you can defeat them.
 
-**Pokemon Strays. Field: No Field**
+**Pokémon Strays. Field: No Field**
 - Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
     - Snarl
     - Swagger
@@ -520,9 +520,9 @@ At night, you'll see two Mightyena's bullying **Electrike**, who will join you i
 
 To the left of the area, a **Minun** or a **Plusle** will pop out and join you if you give it snax. You can get both by exiting and re-entering.
 
-If this is a bit too hard for now feel free to skip this one, but if you enter the Underground Railnet from the Obsidia entrance you'll find Litleo and have to fight a strong Pokemon.
+If this is a bit too hard for now feel free to skip this one, but if you enter the Underground Railnet from the Obsidia entrance you'll find Litleo and have to fight a strong Pokémon.
 
-**Pokemon Mechanightmare. Field: Cave Field**
+**Pokémon Mechanightmare. Field: Cave Field**
 - Klinklang, Lv. 35, Ability: Clear Body, Modest Nature, IVs: 30
     - Discharge
     - Charge Beam
@@ -531,7 +531,7 @@ If this is a bit too hard for now feel free to skip this one, but if you enter t
 
 If you're able to defeat this thing, you'll get **Litleo**!
 
-With all that out of the way, return to the park area and talk to Victoria, Amaria, and Florinia. Head into Obsidia Park. Note that once we are done here we can't re-enter, so if you want the hidden items and such grab them while we're here. All of the Pokemon will be available later, though.
+With all that out of the way, return to the park area and talk to Victoria, Amaria, and Florinia. Head into Obsidia Park. Note that once we are done here we can't re-enter, so if you want the hidden items and such grab them while we're here. All of the Pokémon will be available later, though.
 
 **Obsidia Park**
 
@@ -556,7 +556,7 @@ You can start by grabbing a hidden *Oran Berry* (A) in the third bush to the lef
 
 Pick up some more items:
 
-- (B): *Poke Ball*, not hidden
+- (B): *Poké Ball*, not hidden
 - (C): *Chesto Berry*
 
 Cut wiggly tree #1, then make your way back to the entrance.
@@ -596,9 +596,9 @@ Back down from here, follow the yellow path to the left. In the second rock you'
     - Acid Spray
     - Mega Drain
 
-This is our first battle with a PULSE! For this, and all custom Pokemon forms in this game, I provide a reference for base stats, typing, and other data [in the appendices](#custom-pokemon-form-lookup). The Field Notes app in game also has you covered, minus specific numbers.
+This is our first battle with a PULSE! For this, and all custom Pokémon forms in this game, I provide a reference for base stats, typing, and other data [in the appendices](#custom-pokemon-form-lookup). The Field Notes app in game also has you covered, minus specific numbers.
 
-As you can see from its stats, Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokemon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
+As you can see from its stats, Tangrowth is pretty slow, which luckily means you can take the chance to cripple it with paralysis or stat debuffs. It doesn't hit ridiculously hard either, so your Pokémon will likely be able to live a few turns before being knocked out, but you do have to be cautious of field-boosted Grass moves. The difficulty lies in its combination of Acid Spray and Mega Drain, as it likes to weaken you then heal back to full. Making sure that you're dealing more damage than it is able to heal will be the key here.
 
 Once you succeed, the vines will recede and we'll be back in the park.
 
@@ -643,11 +643,11 @@ The building on the left is Silph Co., but we can't do much here for now. The ri
 
 |Item           |Price          |
 |---------------|---------------|
-|*Poke Ball*    |$200           |
+|*Poké Ball*    |$200           |
 |*Escape Rope*  |$550           |
 |*Common Candy* |$150           |
 |*Repel*        |$400           |
-|*PokeSnax*     |$400           |
+|*PokéSnax*     |$400           |
 
 **Department Store 1F Right Shop**
 
@@ -685,11 +685,11 @@ We can also talk to an employee to get the *Membership Card* and the *Department
 |*Hondew Berry* |$500           |
 |*Grepa Berry*  |$500           |
 
-Our Pokemon have been getting random EV's so far - if you in the future want to EV train your Pokemon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
+Our Pokémon have been getting random EV's so far - if you in the future want to EV train your Pokémon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
 
-Make your way down and left to the Obsidia Pokemon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
+Make your way down and left to the Obsidia Pokémon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
 
-If you're interested in a trade, evolve Sentret we got earlier by raising it to Lv. 15 to get **Furret**. In the house left from the Pokemon Center, you can trade it to get **Castform**!
+If you're interested in a trade, evolve Sentret we got earlier by raising it to Lv. 15 to get **Furret**. In the house left from the Pokémon Center, you can trade it to get **Castform**!
 
 Take another visit to the Central Salon and talk to the people inside. Then return to the Glamazonia Salon and talk to the lady, who'll let you take home **Glameow**. They'll also lower their massage price to $1400. That's not all for this quest though, no. Take your Glameow to the Central Salon and show it to the lady on the right; she'll allow us to battle her.
 
@@ -708,7 +708,7 @@ That's pretty much all we can do in Obsidia for now, but before we continue the 
 
 The warehouse key we got earlier works on three of the warehouses here. In the left one, you'll find the real daycare couple! By freeing them, the daycare will now be in service for all your breeding needs.
 
-The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hiding in one of the boxes. The third warehouse contains a Meteor Grunt. Talking to him allows us to get a Pokemon later on. Also in here is a **Happiny**!
+The second warehouse contains a *Macho Brace* as well as **Spoink** randomly hiding in one of the boxes. The third warehouse contains a Meteor Grunt. Talking to him allows us to get a Pokémon later on. Also in here is a **Happiny**!
 
 ## Onyx Ward
 
@@ -741,7 +741,7 @@ There are hidden items too:
 - (A): *Cheri Berry*
 - (B): *Antidote*
 - (C): *Carbos*
-- (D): *PokeSnax*
+- (D): *PokéSnax*
 
 The bottom left building is the Move Relearner house, but we can't enter it yet. Head in to the apartment to the right and talk to the girl on the left twice; for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 
@@ -910,9 +910,9 @@ All you need to do is save before playing the board, pick any spot (12x payout),
 
 These TMs have very wide movepools, so grabbing them will generally be helpful in the early game when your movesets aren't complete yet.
 
-**Onyx Arcade Pokemon Shop**
+**Onyx Arcade Pokémon Shop**
 
-|Pokemon        |Price      |
+|Pokémon        |Price      |
 |---------------|-----------|
 |**Snover**     |600 Coins  |
 |**Slugma**     |1000 Coins |
@@ -920,7 +920,7 @@ These TMs have very wide movepools, so grabbing them will generally be helpful i
 |**Nidoran M**  |3500 Coins |
 |**Shinx**      |5000 Coins |
 
-All of these Pokemon have something going for them:
+All of these Pokémon have something going for them:
 
 - If the egg we previously got was Remoraid, you can get Mantyke and immediately evolve it into Mantine, which is really overpowered at this point in the game.
 - Nidoran M also can immediately evolve twice with the Moon Stone we got earlier, and Nidoking tears through this part of the game.

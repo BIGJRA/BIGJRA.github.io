@@ -32,7 +32,7 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
     - Poison Tail
     - Shadow Ball
 
-Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokemon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
+Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokémon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
 
 Return to South Obsidia Ward.
 
@@ -46,7 +46,7 @@ Cal will give you *TMX4 Strength*!
 
 Having Strength means there is a lot of exploration that we can now do. First of all, put Chingling into your party with the Soothe Bell attached. We'll need it evolved for a quest soon, so might as well take advantage of all the walking we are about to do.
 
-First, note that the Pokemarts and the candy store have new inventory now.
+First, note that the Pokémarts and the candy store have new inventory now.
 
 **Default Shop (5 Badges)**
 
@@ -58,7 +58,7 @@ First, note that the Pokemarts and the candy store have new inventory now.
 |*Burn Heal*    |$250       |
 |*Escape Rope*  |$550       |
 |*Super Repel*  |$700       |
-|*Poke Ball*    |$200       |
+|*Poké Ball*    |$200       |
 |*Great Ball*   |$600       |
 
 **Sweet Kiss Bottom Clerk Shop (5 Badges)**
@@ -112,7 +112,7 @@ Next, we're gonna return to Byxbysion Wasteland. Make your way to the right, goi
     - Drain Punch
     - Ice Punch
 
-Another tough fight with a single Pokemon, but you have some cheese strategies in your back pocket if need be.
+Another tough fight with a single Pokémon, but you have some cheese strategies in your back pocket if need be.
 
 Win and you'll obtain **Misdreavus**.
 
@@ -258,7 +258,7 @@ If you said yes to Sigmund, skip ahead to the next section.
     - Psychic
     - Shadow Ball
 
-Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have to be careful of Minior setting up. Otherwise his Pokemon are generally fast and strong but frail, so if you have good type advantages and basic doubles strategies you can certainly do it.
+Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have to be careful of Minior setting up. Otherwise his Pokémon are generally fast and strong but frail, so if you have good type advantages and basic doubles strategies you can certainly do it.
 
 ## Underground Railnet East
 
@@ -266,9 +266,9 @@ Back on the ground floor, head east to enter another part of the railnet.
 
 !img("railnet_east.png")
 
-This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
+This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokéSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
 
-You can also find a bunch more of those shallow walls that you can use Rock Smash on - indicated by green arrows above. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left (circled in blue) to create a shortcut to the Aron room.
+You can also find a bunch more of those shallow walls that you can use Rock Smash on - indicated by green arrows above. Behind these are *House Key*, *Iron Ball*, *Corrupted Poké Ball*, and *TM44 Rest*. You can also open the gate to the left (circled in blue) to create a shortcut to the Aron room.
 
 Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done.
 
@@ -299,7 +299,7 @@ We will emerge in a new area. Here, you'll find a *Purple Shard*, *Full Heal*, *
 
 On the left as you walk in, you'll see whichever of **Solrock** and **Lunatone** that you didn't get to catch earlier.
 
-On this map, you'll find hidden *X Speed*, *PokeSnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
+On this map, you'll find hidden *X Speed*, *PokéSnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
 
 Talk to Charlotte then emerge at the top into Tanzan Cove.
 
@@ -323,7 +323,7 @@ Talk to Charlotte then emerge at the top into Tanzan Cove.
 |Goldeen           |70 |
 |**Seaking**       |30 |
 
-In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokeSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
+In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokéSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
 
 Enter the house at the top.
 
@@ -453,11 +453,11 @@ Continue your circles by going up and left. You'll finally be able to enter Spin
 
 You'll notice that everything is chaos here, teleporting like crazy. Enter an apartment building on the left side and a girl's furniture will all disappear. She'll ask us to get it back, so head out of her house.
 
-Down from here, there's a tree in front of a house. The tree will move when you approach it. Inside, you can return the Kadabra girl's bed, and pick up the *Good Rod*! Outside, the fountain will disappear as you approach. Heading towards the center of town, you'll see the Kadabra girl's TV on top of a building. Trying to enter the Pokemart will cause it to teleport as well. To the right, you'll see Kadabra girl's bookshelf.
+Down from here, there's a tree in front of a house. The tree will move when you approach it. Inside, you can return the Kadabra girl's bed, and pick up the *Good Rod*! Outside, the fountain will disappear as you approach. Heading towards the center of town, you'll see the Kadabra girl's TV on top of a building. Trying to enter the Pokémart will cause it to teleport as well. To the right, you'll see Kadabra girl's bookshelf.
 
 Enter the left tall apartment building. Inside, you'll find Kadabra girl's table. In the building to the right, a person inside will offer to trade your Shelmet and Karrablast for their respective evolutions. You will also be asked to pet every Eeveelution: new long sidequest!
 
-Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokemon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*.
+Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokémon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*.
 
 Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and Shieldon. Unfortunately to finish the revival you have to leave the museum and pay the fee again! I will note that if you only have a single Helix Fossil, there is a quest later on that requires us to have one, so consider saving it for now if you aren't dying to have an Omanyte right now.
 
@@ -470,7 +470,7 @@ Outside, attempt to enter the Voclain Estate in the top right corner. Before you
 **Relationship Point Choices:**
 - Tell Bennett you knew Cascoon had perfect memories (+1 Bennett)
 
-I hope they remember me killing 15 of them with Fire type moves in Pokemon Legends Arceus.
+I hope they remember me killing 15 of them with Fire type moves in Pokémon Legends Arceus.
 
 **Relationship Point Choices:**
 - Talk to Bennett a second time (+1 Bennett)
@@ -623,7 +623,7 @@ Save before you enter the third room.
     - Signal Beam
     - Giga Drain
 
-It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he has a highly optimized team for the Mirror Arena. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits. With field boosted moves like Signal Beam, his Pokemon hit hard and fast. Five of six have Quiver Dance, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. It's a good opportunity to try out your own Mirror Arena boosts - read the field notes.
+It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he has a highly optimized team for the Mirror Arena. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits. With field boosted moves like Signal Beam, his Pokémon hit hard and fast. Five of six have Quiver Dance, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. It's a good opportunity to try out your own Mirror Arena boosts - read the field notes.
 
 **Relationship Point Choices:**
 - Beat Bennett on the first try (+1 Elias, -1 Bennett)
@@ -665,7 +665,7 @@ Break the last mirror and head into the gym arena when you're ready.
 
 Serra is a tough gym leader that operates on the back of her very unique field effect. Instead of thinking about how to beat a Hail-team like you normally would, you have to play around the fields various Accuracy and Evasion shenanigans. Her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers, of which Serra has five, have a chance to hit anyways even when they miss - some of their attacks are even boosted in this case. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast as well. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier. The latter two like to set up 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice type and uses the Mirror Arena to great effect.
 
-As you would assume just looking at the team, non-hail weather, and Brick Break / Psychic Fangs are generally good things to bring. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well. There is a list of abilities that you can use to get Accuracy or Evasion, and we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the misses + recoil damage and capitalize on the low Defense on Serra's Pokemon. Mirror Coat is a good option that you can use situationally to boost your defensive stats and knock out a threat like Lapras.
+As you would assume just looking at the team, non-hail weather, and Brick Break / Psychic Fangs are generally good things to bring. Luckily, as stacked the Mirror Arena is for Serra, you can pretty easily use it to your benefit as well. There is a list of abilities that you can use to get Accuracy or Evasion, and we also have access to the Lax Incense and Zoom Lens at this point. All of these will allow you to get a boosted critical hit ratio - with priority, that means you can pick up some easy one shots on the glass cannons. The accuracy ones in particular will allow your physical attackers to overcome the misses + recoil damage and capitalize on the low Defense on Serra's Pokémon. Mirror Coat is a good option that you can use situationally to boost your defensive stats and knock out a threat like Lapras.
 
 All of these things are nice, but it turns out there's something *even better* that you can use. Nature Power turns into Mirror Shot, which is boosted by two times and will always lower accuracy. That means any Special Attacker with access to Nature Power can use a 130 BP Steel type move that will never miss... against a team full of Ice types - only Lapras and Sandslash take neutral damage from it. On top of Chlorophyll, this allows even a team of all Grass types to effortlessly sweep the team of Ice types!
 

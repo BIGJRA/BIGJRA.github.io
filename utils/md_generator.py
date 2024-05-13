@@ -4,10 +4,10 @@ from function_wrapper import FunctionWrapper
 def generate_md_text(version="reborn"):
     def generate_md_pre_contents(version="reborn"):
         return f'''---
-title: Pokemon {version.capitalize()} Walkthrough
+title: Pokémon {version.capitalize()} Walkthrough
 ---
 
-<p id="title-text">Pokemon {version.capitalize()} Walkthrough </p>
+<p id="title-text">Pokémon {version.capitalize()} Walkthrough </p>
 
 '''
   

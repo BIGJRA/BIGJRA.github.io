@@ -6,7 +6,7 @@ To continue the story, you can either head to Beryl Bridge and watch the intense
 
 ## The Mystery Egg and Other Quests
 
-First, after the events at the bridge, enter Corey's gym and enter his bedroom area. Here you'll find the *Silver Ring*, which will help us get some familiar Pokemon! Speaking of which, make your way to the Underroot and head to the bottom right section, then go left and up to reach the large pool in the center. You'll find a **Skrelp** here who will see the Silver Ring and join your team.
+First, after the events at the bridge, enter Corey's gym and enter his bedroom area. Here you'll find the *Silver Ring*, which will help us get some familiar Pokémon! Speaking of which, make your way to the Underroot and head to the bottom right section, then go left and up to reach the large pool in the center. You'll find a **Skrelp** here who will see the Silver Ring and join your team.
 
 Next, head to the Beryl Library. Talk to the Gothitelle here, then pick up trash and stray books all around the library by spamming the action button. Once you finish, talk to Gothitelle for a *Soul Candle*. You can also talk to one of the **Gothita** to obtain it.
 
@@ -17,7 +17,7 @@ Head on over to the Beryl Cemetery at night. Talk to one of the pumpkins with a 
 
 Head down into Jasper Ward and go left. You'll see a kid being bullied by some Venipede and Scolipede.
 
-**Pokemon Swarm. Field: No Field**
+**Pokémon Swarm. Field: No Field**
 - Venipede, Lv. 34, Ability: Poison Point, Serious Nature, IVs: 10
     - Toxic
     - Protect
@@ -36,9 +36,9 @@ Head down into Jasper Ward and go left. You'll see a kid being bullied by some V
 
 Defeat them, and the kid will head back to his home.
 
-Next, it's time for the big one. Head back to the Jasper Police Station and talk to the chief, then talk to the female **Growlithe**. That alone is a decent reward, but we can take this Growlithe and any male Pokemon in its egg group to the daycare to produce an egg. Bring an egg back to the police station and we can trade it with the guy at the bottom to get what the community calls the Mystery Egg.
+Next, it's time for the big one. Head back to the Jasper Police Station and talk to the chief, then talk to the female **Growlithe**. That alone is a decent reward, but we can take this Growlithe and any male Pokémon in its egg group to the daycare to produce an egg. Bring an egg back to the police station and we can trade it with the guy at the bottom to get what the community calls the Mystery Egg.
 
-The Mystery Egg can actually hatch to be one of 18 different Pokemon - all of which are pretty solid team members in an early-game scenario where a lot of the available Pokemon suck. You'll get one of the following, randomly determined:
+The Mystery Egg can actually hatch to be one of 18 different Pokémon - all of which are pretty solid team members in an early-game scenario where a lot of the available Pokémon suck. You'll get one of the following, randomly determined:
 
 - **Azurill**
 - **Mareanie**
@@ -148,7 +148,7 @@ Make your way to the very top of the area to talk to the purple haired girl and 
 - Sunkern, Lv. 25, Serious Nature, IVs: 10
 - Marill, Lv. 25, Serious Nature, IVs: 10
 
-Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
+Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poké Ball*, *X Defend*, and *Exp. Candy M*.
 
 You can enter the Alleyway towards the middle of the ward, but we won't talk to the guys in here quite yet.
 
@@ -187,7 +187,7 @@ Enter the flower shop on the left side of the ward. Someone inside will give you
 |*Rose Incense* |$9600          |
 |*Floral Charm* |$1500          |
 |*Sachet*       |$1000          |
-|*PokeSnax*     |$400           |
+|*PokéSnax*     |$400           |
 
 We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is a cheaper option to get the honey later on, however.
 
@@ -202,7 +202,7 @@ We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests l
 
 If you're planning on switching around your Oricorio a lot, this is the shop for you.
 
-Enter a small house on the left side of the ward and talk to a guy to get *TM21 Frustration*. In the Pokemart to your right, talk to a guy with a hood to get *TM07 Hail*. Next, enter the building to the right. For saving the kid from Scolipede, the mom here will give you the *Department Store Sticker: Drifloon*.
+Enter a small house on the left side of the ward and talk to a guy to get *TM21 Frustration*. In the Pokémart to your right, talk to a guy with a hood to get *TM07 Hail*. Next, enter the building to the right. For saving the kid from Scolipede, the mom here will give you the *Department Store Sticker: Drifloon*.
 
 **Department Store 4F Left Shop**
 
@@ -231,7 +231,7 @@ Some consumables that may be useful in a pinch. We will much later on need a Whi
 |*Power Band*   |$15000         |
 |*TM48 Round*   |$9000          |
 
-Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokemon and cancel out other EV's. Meaning if you catch a new Pokemon you simply have to defeat any 8 Pokemon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. These are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
+Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokémon and cancel out other EV's. Meaning if you catch a new Pokémon you simply have to defeat any 8 Pokémon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. These are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
 
 Anyways, that's all we can do in Lapis for now, so head back down to the North Obsidia Ward.
 
@@ -278,7 +278,7 @@ Down from here there are essentially four paths we can take down the ledges. I s
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    The solution: use Magnitude or Bulldoze here on the field. Many of the wild Pokemon have one of these moves.
+    The solution: use Magnitude or Bulldoze here on the field. Many of the wild Pokémon have one of these moves.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the answer</a>
 </div>
@@ -287,7 +287,7 @@ Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out t
 
 You'll notice that we're back on B1F, so head back down the ladder below to reach the ledges on B2F. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll find ourselves at the familiar area of B1F.
 
-Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here. You'll see a little pool of water coming out of the wall - head to the left from here, past some rocks to the left, to  obtain *TM69 Rock Polish*! Head back down until you can go to the right. Climb these stairs - you'll find a hidden *Psychic Gem*, *X Speed*, and *PokeSnax* along the way.
+Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here. You'll see a little pool of water coming out of the wall - head to the left from here, past some rocks to the left, to  obtain *TM69 Rock Polish*! Head back down until you can go to the right. Climb these stairs - you'll find a hidden *Psychic Gem*, *X Speed*, and *PokéSnax* along the way.
 
 Finally, we can take the huge series of ledges to take the third path from the left. Grab the hidden *X Sp. Atk* then head down the ladder here.
 
@@ -376,7 +376,7 @@ This is part of another gauntlet: time for another battle right after, though yo
     - Extrasensory
     - Hidden Power
 
-Since last time, Fern has evolved his Roselia into Roserade, picked up a Rhyhorn, and evolved his Sandile. Thankfully, Rhyhorn and Dartrix aren't too incredible and each have exploitable 4x weaknesses. You don't want to let Krokorok sweep you, but it isn't too strong until it gets it's first boost, so a good switch can help against it. The big threat here is 31 IV Roserade - it's really fast and likes to pickup one-shots with Giga Drain and heal off whatever damage you've managed to get on it. Thankfully Rhyhorn isn't really a threat to most Pokemon, so the key to this fight is figuring out how to put yourself in a position to knock out Roserade before it comes out.
+Since last time, Fern has evolved his Roselia into Roserade, picked up a Rhyhorn, and evolved his Sandile. Thankfully, Rhyhorn and Dartrix aren't too incredible and each have exploitable 4x weaknesses. You don't want to let Krokorok sweep you, but it isn't too strong until it gets it's first boost, so a good switch can help against it. The big threat here is 31 IV Roserade - it's really fast and likes to pickup one-shots with Giga Drain and heal off whatever damage you've managed to get on it. Thankfully Rhyhorn isn't really a threat to most Pokémon, so the key to this fight is figuring out how to put yourself in a position to knock out Roserade before it comes out.
 
 After winning, you'll be given *TMX7 Rock Smash*. We can't use it in the field yet, however.
 
@@ -448,7 +448,7 @@ Talk to the guys guarding the North Obsidia alleyway for a battle.
 
 Once you make it in, you'll find *TM46 Thief* as well as a hidden *Red-Hots*. Talk to Maxwell in the back.
 
-Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Maxwell here. Then make your way to Ms. Craudberry's house down from the Pokemon Center. Head into the backroom.
+Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Maxwell here. Then make your way to Ms. Craudberry's house down from the Pokémon Center. Head into the backroom.
 
 **Aqua Gang Pierce. Field: No Field**
 - Carvanha, Lv. 32, Serious Nature, IVs: 10
@@ -462,7 +462,7 @@ Make your way to the shack to the right of the flower shop in Lapis Ward. Talk t
 
 You'll find a *Fire Stone* as well as **Buizel**. Talk to Maxwell inside, then head back to the Lapis Alleyway to talk to him again.
 
-We can now continue our ongoing stolen Pokemon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member. He will tell you he already lost the Pokemon to an Aqua Gang member, but will give you a *Metronome*.
+We can now continue our ongoing stolen Pokémon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member. He will tell you he already lost the Pokémon to an Aqua Gang member, but will give you a *Metronome*.
 
 Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member.
 
@@ -471,7 +471,7 @@ Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang me
 - Lapras, Lv. 37, Serious Nature, IVs: 10
 - Sharpedo, Lv. 38, Serious Nature, IVs: 10
 
-Defeat him... only to learn he already sold the Pokemon to someone in 7th Street. That's all we can do for now.
+Defeat him... only to learn he already sold the Pokémon to someone in 7th Street. That's all we can do for now.
 
 ### The Aqua Gang Route (Part 1)
 
@@ -499,7 +499,7 @@ Just for completeness, Archer won't be blocking the pond in the alleyway anymore
 |------------------|---|
 |Barboach          |100|
 
-Anyways, make your way to Ms. Craudberry's house, which is south of the Lapis Pokemon Center. Head into the backroom.
+Anyways, make your way to Ms. Craudberry's house, which is south of the Lapis Pokémon Center. Head into the backroom.
 
 **Magma Gang Darm. Field: No Field**
 - Darumaka, Lv. 32, Serious Nature, IVs: 10
@@ -513,16 +513,16 @@ Anyways, make your way to Ms. Craudberry's house, which is south of the Lapis Po
 
 You'll find a *Water Stone* as well as **Ponyta**. Talk to Archer inside, then head back to the North Obsidia Alleyway to talk to him again.
 
-We can now continue our ongoing stolen Pokemon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member.
+We can now continue our ongoing stolen Pokémon quest as well. Just south of the North Obsidia alleyway you can find a Magma Gang member.
 
 **Magma Gang Bunson. Field: No Field**
 - Ninetales, Lv. 37, Serious Nature, IVs: 10
 - Houndoom, Lv. 37, Serious Nature, IVs: 10
 - Turtonator, Lv. 38, Serious Nature, IVs: 10
 
-Defeat him, and he will tell you an Aqua Gang member has the Pokemon already.
+Defeat him, and he will tell you an Aqua Gang member has the Pokémon already.
 
-Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. You'll learn that he already sold the Pokemon to someone in 7th Street, but he'll give you a *Metronome*. That's all we can do for now.
+Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang member. You'll learn that he already sold the Pokémon to someone in 7th Street, but he'll give you a *Metronome*. That's all we can do for now.
 
 ### Getting the Bicycle and Zorua
 
@@ -530,7 +530,7 @@ Regardless of your gang choice, head over to Madame Craudberry's house once more
 
 Head outside and try to leave, and the cop will even give you a *Bike Voucher*! Enter the building below and trade it away to get the *Bicycle*! Heck yes.
 
-Now that we have our fancy bicycle, we can very quickly get all the way to Beryl Ward from Lapis Ward... so let's do that. Go onto the rooftop of the building where we once captured Helioptile on a clear night, and you'll see... Corey? Make your way to Peridot Ward next, where you'll encounter him near the Pokemart. Finally, head to North Obsidia Ward and enter the building to the left of the alleyway. Inside you'll find him once more... and be able to catch **Zorua**!
+Now that we have our fancy bicycle, we can very quickly get all the way to Beryl Ward from Lapis Ward... so let's do that. Go onto the rooftop of the building where we once captured Helioptile on a clear night, and you'll see... Corey? Make your way to Peridot Ward next, where you'll encounter him near the Pokémart. Finally, head to North Obsidia Ward and enter the building to the left of the alleyway. Inside you'll find him once more... and be able to catch **Zorua**!
 
 ## Grand Hall Trainers 3
 
@@ -673,4 +673,4 @@ Another generally solid strategy is just abusing the field with your own Bug typ
 - Defeat Shelly on your first try (+1 Victoria)
 - Defeat Shelly on a second, third, etc. try (-1 Victoria)
 
-After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug*, you get to use Lv. 40 Pokemon, and you can now use Rock Smash in the field.
+After you succeed, you will get the *Cocoon Badge* as well as *TM76 Struggle Bug*, you get to use Lv. 40 Pokémon, and you can now use Rock Smash in the field.

@@ -100,7 +100,7 @@ Go left from here, and you'll find a path up that leads to another lever and a d
 
 Talk to the machine on the right, and you'll be able to merge ten of the cells we've found so far into **Zygarde 10%**. You can deconstruct this Zygarde, if you want.
 
-Head outside, and go to the right. Past the first lever, there will be a new opened door. One of the monitors in here will give you as many Zygarde Cells as you've found so far in *Cell Imprints*, the game's ONLY way of increasing IV's on our Pokemon. As you might guess, the Cells are limited in total number, so be sure when you use these on your Pokemon. You can come back here anytime to get more as you get more Cells. Anyways, talk to the other machine then head back outside.
+Head outside, and go to the right. Past the first lever, there will be a new opened door. One of the monitors in here will give you as many Zygarde Cells as you've found so far in *Cell Imprints*, the game's ONLY way of increasing IV's on our Pokémon. As you might guess, the Cells are limited in total number, so be sure when you use these on your Pokémon. You can come back here anytime to get more as you get more Cells. Anyways, talk to the other machine then head back outside.
 
 From here, go right, then up. The gate inside is now gone, so you can head up. Talk to Florinia.
 
@@ -183,7 +183,7 @@ Back in the main area, interact with the tall pillar at the top of the hill to c
 
 One of the islands towards the bottom has a *Max Repel* on it. Eventually you'll have to backtrack to reach the next set of electric platforms, proceed to the left once you backtrack enough.
 
-On Lin Route, you'll be given a prompt to release some of your Pokemon. This event is huge and branching... but aside from tons of great dialogue, the only thing that 'matters' aside from your morals is that if you release a lot of Pokemon, you'll get a *Sacred Ash*. You can back out of the PC a bunch of times if you don't want to release anything.
+On Lin Route, you'll be given a prompt to release some of your Pokémon. This event is huge and branching... but aside from tons of great dialogue, the only thing that 'matters' aside from your morals is that if you release a lot of Pokémon, you'll get a *Sacred Ash*. You can back out of the PC a bunch of times if you don't want to release anything.
 
 Once the pillar is activated, cross the bridge to the right, then again to a new landmass. In the top right, corner, you can find:
 
@@ -331,7 +331,7 @@ Nothing too crazy here, though there is a good mix of fast and slow, bulky and h
 
 ## Aegir Cave
 
-Talk to Randall in the Nightclub, and accept his quest. Fly over to the Victory Road Pokemon Center.
+Talk to Randall in the Nightclub, and accept his quest. Fly over to the Victory Road Pokémon Center.
 
 Enter Victory Road, then follow Victini up. Enter the room directly up, and follow Bennett into the next room... I audibly gasped when I saw what was next.
 
@@ -409,7 +409,7 @@ Follow the path to the next area.
 |Drifblim           |5  |                   |   |                   |   |
 |Masquerain         |5  |                   |   |                   |   |
 
-Head to the left and talk to Bennett and Serra. Bennett will ask us to gather 7 ingredients: Sweet Apple, Tart Apple, Balm Mushroom, Pecha Berry, Berry Juice, Stick, and Rage Powder. He'll also offer to teach Headbutt to one of our Pokemon, if we need it.
+Head to the left and talk to Bennett and Serra. Bennett will ask us to gather 7 ingredients: Sweet Apple, Tart Apple, Balm Mushroom, Pecha Berry, Berry Juice, Stick, and Rage Powder. He'll also offer to teach Headbutt to one of our Pokémon, if we need it.
 
 Time to wander around the area looking for these things. On this floor you can find a hidden *Ultra Ball*, *Nest Ball*, and *Ability Capsule*. Start by jumping into the hole towards the left side, down a muddy slope. On this bottom level, you can talk to a tree to get the *Sweet Apple*.
 
@@ -739,7 +739,7 @@ Going as far to the right as possible, you'll be able to ride another moving pla
 
 Back in the middle, go up. On Lin Route, now you'll get a *Fresh Water*. Pour the Fresh Water onto the Celebi.
 
-Climb through the New World Door to emerge next to the Pokemon League. If Taka is currently alive for you, he'll be here, otherwise it will be Elias. Whomever is here will give you another *Fresh Water*. Prepare your best team, stock up on healing items, etc. as if you were locking yourself into an Elite Four challenge. Hint: we basically are. Don't be afraid to eat a loss and change up your team if one of the following battles is too much for now.
+Climb through the New World Door to emerge next to the Pokémon League. If Taka is currently alive for you, he'll be here, otherwise it will be Elias. Whomever is here will give you another *Fresh Water*. Prepare your best team, stock up on healing items, etc. as if you were locking yourself into an Elite Four challenge. Hint: we basically are. Don't be afraid to eat a loss and change up your team if one of the following battles is too much for now.
 
 Give the Fresh Water to Celebi. In the past, talk to Taube at the top for a battle.
 
@@ -809,7 +809,7 @@ Ame made Bibarel competent! Nothing too crazy here though, basically a Doubles v
     - Energy Ball
     - Sleep Powder
 
-A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokemon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug type move like TM X-Scissor are pretty much all you'll need!
+A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokémon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug type move like TM X-Scissor are pretty much all you'll need!
 
 Talk to Celebi to jump into the future.
 
@@ -917,9 +917,9 @@ Celebi will take you ahead in time once more.
     - Leaf Blade
     - X-Scissor
 
-What would be a gauntlet of four trainers without healing or switching your Pokemon without a Champion fight at the end? At this point in the game, her Yanmega, Leavanny, and Primarina are nothing we can't handle. Alolan Muk gets free defenses on this field thanks to its ability, and can boost its Atk and Def further on its free first turn from seed. Then there are the two demons. Mega Scizor is, by now, at least a known demon. It can boost to +3 with Swords Dance then hit like an absolute menace with Bullet Punch. The first time we have to fight a Xerneas is here however... and there's a reason this thing is regarded as so good. If you're not careful it will get +2 in SpA, SpD, and Spe then sweep you with field boosted Moonblast and Secret Sword. Ouch!
+What would be a gauntlet of four trainers without healing or switching your Pokémon without a Champion fight at the end? At this point in the game, her Yanmega, Leavanny, and Primarina are nothing we can't handle. Alolan Muk gets free defenses on this field thanks to its ability, and can boost its Atk and Def further on its free first turn from seed. Then there are the two demons. Mega Scizor is, by now, at least a known demon. It can boost to +3 with Swords Dance then hit like an absolute menace with Bullet Punch. The first time we have to fight a Xerneas is here however... and there's a reason this thing is regarded as so good. If you're not careful it will get +2 in SpA, SpD, and Spe then sweep you with field boosted Moonblast and Secret Sword. Ouch!
 
-A well chosen sweeper can deal with everything barring these two. If you're stuck on them, consider something with a Fire move for Scizor and a physical boosted Steel move for Xerneas. Using Magical Seeds on your own Pokemon will extend the "free turn" effect to them as well, so that may just be the key to overcoming Reborn's future champion.
+A well chosen sweeper can deal with everything barring these two. If you're stuck on them, consider something with a Fire move for Scizor and a physical boosted Steel move for Xerneas. Using Magical Seeds on your own Pokémon will extend the "free turn" effect to them as well, so that may just be the key to overcoming Reborn's future champion.
 
 Talk to Shelly once you're done here. You'll be taken back to your time... and you can talk to **Celebi** to take it with you! Hooray! Return to the Nightclub.
 
@@ -1342,9 +1342,9 @@ Once you emerge in Labradorra, you'll have to fight her.
 
 No "Bewitched Field" nonsense in this game.
 
-Once you win, she'll head to Ametrine City, so follow her and enter the former house of Lumi and Eve. After the conversation, fly on over to the Pokemon League.
+Once you win, she'll head to Ametrine City, so follow her and enter the former house of Lumi and Eve. After the conversation, fly on over to the Pokémon League.
 
-I sure hope you like fighting the Elite Four, because we're about to do it again... with Flora as an ally! Each of you will get to use only 3 Pokemon per fight. In general for these fights, it may be smarter to try to support Flora than to try to do your own thing. Keep that in mind as you plan your team of six.
+I sure hope you like fighting the Elite Four, because we're about to do it again... with Flora as an ally! Each of you will get to use only 3 Pokémon per fight. In general for these fights, it may be smarter to try to support Flora than to try to do your own thing. Keep that in mind as you plan your team of six.
 
 **Elite Four Wind Maiden Heather. Field: Mountain Field**
 - Crobat, Lv. 120, @Flying Gem, Ability: Infiltrator, Jolly Nature, EVs: 4/252/0/0/0/252
@@ -1481,9 +1481,9 @@ Dragonite likes to absolutely shred Flora's team with Extremespeed, so consider 
     - Hidden Power
     - Air Slash
 
-First time we have to fight Bennett solo since he became an Elite Four member, as well. He uses Rainbow Field, where 5 of his Pokemon get a boost to SpA and a Wish with their seeds. There are also tons of boosts to many of his moves. The field's Serene Grace effect also means that there is a high chance that Silver Wind will omniboost - if Pheromosa gets this, it's likely a game over. Flora's team being weak to Bug and Fire doesn't help.
+First time we have to fight Bennett solo since he became an Elite Four member, as well. He uses Rainbow Field, where 5 of his Pokémon get a boost to SpA and a Wish with their seeds. There are also tons of boosts to many of his moves. The field's Serene Grace effect also means that there is a high chance that Silver Wind will omniboost - if Pheromosa gets this, it's likely a game over. Flora's team being weak to Bug and Fire doesn't help.
 
-To win, I will once again recommend Trick Room - Volcarona, Delphox, Pheromosa, Ribombee are all fast and frail, so your own slow Pokemon with Flora's Ferrothorn can potentially be key here. Other options exist too, like making it rain and sweeping with Swift Swim users, for example.
+To win, I will once again recommend Trick Room - Volcarona, Delphox, Pheromosa, Ribombee are all fast and frail, so your own slow Pokémon with Flora's Ferrothorn can potentially be key here. Other options exist too, like making it rain and sweeping with Swift Swim users, for example.
 
 Talk to Bennett before proceeding if you'd like.
 
@@ -1529,8 +1529,8 @@ Climb the convenient ladder to grab an *Exp. Candy XL*, then go around the right
     - Brick Break
     - Iron Head
 
-Good ol' Factory Field. CL:4R1-C3 Breloom is back, this time with 5 other Pokemon to support it. Ferrothorn will make your Trick Room strategy tricky though not impossible to manage, so that's not an easy one-and-done thing either. With Roserade and Cinccino granting wide coverage, and Klinklang and Magearna getting really powerful on this field, you're going to need to be careful not to be swept here. You can turn it to Short-Circuit Field if you want, or just overpower them with your own speedy team. As long as you have something that can deal with CL:4R1-C3 somehow, the rest of the team will go down to Fire, Ground, and Fighting moves.
+Good ol' Factory Field. CL:4R1-C3 Breloom is back, this time with 5 other Pokémon to support it. Ferrothorn will make your Trick Room strategy tricky though not impossible to manage, so that's not an easy one-and-done thing either. With Roserade and Cinccino granting wide coverage, and Klinklang and Magearna getting really powerful on this field, you're going to need to be careful not to be swept here. You can turn it to Short-Circuit Field if you want, or just overpower them with your own speedy team. As long as you have something that can deal with CL:4R1-C3 somehow, the rest of the team will go down to Fire, Ground, and Fighting moves.
 
 Afterwards, you'll be able to catch **Magearna**!
 
-Head back to the nightclub. If you talk to Eve here, you can get **Aevian Misdreavus**, a cameo from Pokemon Rejuvenation. A Leaf Stone will evolve it into **Aevian Mismagius**.
+Head back to the nightclub. If you talk to Eve here, you can get **Aevian Misdreavus**, a cameo from Pokémon Rejuvenation. A Leaf Stone will evolve it into **Aevian Mismagius**.

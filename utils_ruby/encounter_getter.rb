@@ -120,7 +120,7 @@ class EncounterGetter
         # Create a table row element
         tr = doc.create_element('tr')
         
-        # Add Pokemon's name to the first column
+        # Add Pokémon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
         
         # Apply bold style to the content

@@ -123,7 +123,7 @@ That's all for Opal right now, so head west into Peridot.
 |**Pelipper**      |4  |Forretress        |4  |Forretress        |4  |
 |Mantine           |1  |Mothim            |1  |Wormadam          |1  |
 
-First, head up into the park to the right of the Pokemon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
+First, head up into the park to the right of the Pokémon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
 **Neo South Peridot Alley**
 
@@ -164,7 +164,7 @@ Back outside, go to the right towards the underground railroad. Enter the area u
 
 Follow this path through to South Obsidia Ward to get a *White Flute*. Return to Peridot.
 
-Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poke Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
+Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poké Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
 
 In the plot of the former Mosswater Factory there is now a market.
 
@@ -200,7 +200,7 @@ Outside her house and down, there is a tent. Hidden underneath this tent is an N
 
 Enter the building that Simon is in, to the east of the Industrial Factory, and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
 
-Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained Muk, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokemon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
+Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained Muk, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokémon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
 
 Enter the North Peridot Alleyway outside.
 
@@ -244,7 +244,7 @@ That wraps up Peridot, so head into Neo Jasper Ward.
 
 Hidden in the ward you'll find a *Cheri Berry*, *Rawst Berry*, and *Grass Gem*.
 
-Inside the police station, talk to the chief to continue the stolen Pokemon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight.
+Inside the police station, talk to the chief to continue the stolen Pokémon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight.
 
 **Casanova Carmen. Field: No Field**
 - Persian-Alola, Lv. 74, @Wise Glasses, Ability: Fur Coat, Modest Nature, IVs: 31
@@ -442,9 +442,9 @@ You can also talk to a girl near the top and show her the Budew that we once got
 
 Enter Lapis Alleyway next. Inside, you'll find more soil containing *4 Rowap Berries*, *4 Ganlon Berries*, *4 Jaboca Berries*, and *2 Sitrus Berries*.
 
-Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokemon earlier.
+Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokémon earlier.
 
-**Seventh Street Pokemon Seller Move Tutor**
+**Seventh Street Pokémon Seller Move Tutor**
 
 |Move               |Price          |
 |-------------------|---------------|
@@ -598,7 +598,7 @@ While we were gone we got two stickers, so we can access some new floors of the 
 
 You can buy a Custap Berry for the Spyce if you need. You can also buy the good standard items, some decent berries, and tons of useful evolution items!
 
-Enter the Obsidia Daycare. In exchange for $100000 you'll be able to use an incubator - which instantly generates and hatches eggs. Extremely useful. An NPC in the Pokemon Center will then tell you about the password *earlyincu*.
+Enter the Obsidia Daycare. In exchange for $100000 you'll be able to use an incubator - which instantly generates and hatches eggs. Extremely useful. An NPC in the Pokémon Center will then tell you about the password *earlyincu*.
 
 Inside the Cafe Salon, you can pick up a *Salon Application*.
 
@@ -618,7 +618,7 @@ Enter the Critical Capture building. You can pick up a *Critical Application*. T
 |*Level Ball*   |$1300      |
 |*Lure Ball*    |$300       |
 
-Talk to the other person in here and he will take the Corrupted Poke Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
+Talk to the other person in here and he will take the Corrupted Poké Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
 
 Enter the Sweet Kiss Candy store.
 
@@ -788,7 +788,7 @@ Behind the bottom lighthouse is a hidden dive spot.
 
 You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and surface in the lighthouse. Up the ladder you can get a *Big Nugget*, *Jolly Mint*, and *Coral Key*. Make your way back to the bay and use the key on the other lighthouse door. Dive down and go left and prepare for a battle.
 
-**Pokemon Predators. Field: Underwater Field**
+**Pokémon Predators. Field: Underwater Field**
 - Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Aqua Tail
     - Crunch
@@ -800,7 +800,7 @@ You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and 
     - Rest
     - Double Team
 
-This is a 6v2 fight that might kick your butt simply because Underwater Field allows these two to outspeed nearly every Pokemon you have and either hit hard with field boosted moves or set up with Shell Smash / Double Team. If you can control the speed somehow or have something bulky enough to hit back, you can find a way through this one.
+This is a 6v2 fight that might kick your butt simply because Underwater Field allows these two to outspeed nearly every Pokémon you have and either hit hard with field boosted moves or set up with Shell Smash / Double Team. If you can control the speed somehow or have something bulky enough to hit back, you can find a way through this one.
 
 Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. There's also a slightly different encounter table here.
 
@@ -1190,7 +1190,7 @@ On the right side you can enter a house (marked 3) containing a *Relic Silver* a
 
 !img("azurine_553_1.png")
 
-Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poke Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
+Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poké Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
 
 !img("azurine_567_2.png")
 
@@ -1369,13 +1369,13 @@ Dive down here into the Kingsbury Apartments area, and go all the way up.
 
 !img("azurine_574_1.png")
 
-In the top left corner, a building is unlocked (16) and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokemon or has a normal catch rate but *turns the Pokemon it catches shiny*. Very cool. Head down from here onto technically a new map.
+In the top left corner, a building is unlocked (16) and contains a *Glitter Ball*, which is a custom ball that either has a high catch rate on shiny Pokémon or has a normal catch rate but *turns the Pokémon it catches shiny*. Very cool. Head down from here onto technically a new map.
 
 !img("azurine_558_1.png")
 
-On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*.
+On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poké Ball*.
 
-In the top right corner, enter an unlocked building (17) to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building (18) containing a *Relic Silver* as well as hidden *Red-Hots*, *Pokesnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
+In the top right corner, enter an unlocked building (17) to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building (18) containing a *Relic Silver* as well as hidden *Red-Hots*, *Pokésnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
 
 Enter the building to the left (19) to get a hidden *Blue Shard*, *Purple Shard* and the *K5 Key*. Left and up from here you can enter the K22 building to get a *Relic Copper* as well as a hidden *Blue Shard* and the *K2 Key*. Head all the way up in the underwater section and enter K2 to get the hidden *F10 Key*. Around to the right you can enter K5 and get a *Max Revive*. Nice.
 
@@ -1549,11 +1549,11 @@ Defeat the two trainers who challenge you, then enter the building. In the room 
 
 Head into the Blacksteam Shelter in Peridot Ward. In the room where we were once stuck in a cage, talk to Randall and return his key. In return, you'll get his **Klefki**!
 
-You'll notice that our new Pokemon is actually holding the *Sanctum Key*. Head back down to Seventh Street with this key in your bag, and return to the subseven sanctum. In the mazelike room, enter the door on the left side with the key. Pick up the *Dark Material* and 3 *Exp. Candy XL*. Read the green books for some lore and note the colors of the Arceus statues on the left for later, then head out. That's it for this questline right now!
+You'll notice that our new Pokémon is actually holding the *Sanctum Key*. Head back down to Seventh Street with this key in your bag, and return to the subseven sanctum. In the mazelike room, enter the door on the left side with the key. Pick up the *Dark Material* and 3 *Exp. Candy XL*. Read the green books for some lore and note the colors of the Arceus statues on the left for later, then head out. That's it for this questline right now!
 
 ## Agate Circus Fishing
 
-With the Super Rod in our bag, there are some new Pokemon we can get in the circus-and-beyond area. Fly back to the Agate Circus. You can get a *Circus Application* towards the top of the area while you're here. For completeness here are all of the encounters:
+With the Super Rod in our bag, there are some new Pokémon we can get in the circus-and-beyond area. Fly back to the Agate Circus. You can get a *Circus Application* towards the top of the area while you're here. For completeness here are all of the encounters:
 
 **Celestinine Cascade**
 
@@ -1634,7 +1634,7 @@ With the Super Rod in our bag, there are some new Pokemon we can get in the circ
 
 Time for a weird one.
 
-Fly over to the Byxbysion Wasteland. Inside the hideout, drop all but 1 Pokemon in the PC - we are going to intentionally white out in a second, so this will save us a lot of time. If they have Memento or Explosion that's extra good, but make sure they are strong enough to also defeat a Level 47 Bouffalant.
+Fly over to the Byxbysion Wasteland. Inside the hideout, drop all but 1 Pokémon in the PC - we are going to intentionally white out in a second, so this will save us a lot of time. If they have Memento or Explosion that's extra good, but make sure they are strong enough to also defeat a Level 47 Bouffalant.
 
 Talk to the malfunctioning healing machine and plug in a data chip to fix it. Heal at this machine.
 
@@ -1652,7 +1652,7 @@ Once you're done, head outside and ditch Tauros. Thanks, Tauros!
 
 There's one more major quest that we can take care of! If we skip this section and proceed with the story, this will actually be locked of for us for another two badges or so, so take care of this now if you don't wanna miss this excellent reward.
 
-Head over to the Nightclub in North Obsidia. You'll see DJ Arclight inside if you've bought all of the Pokemon from the Seventh Street Pokemon seller. If not, now's a good time to get them all. Anyways, we'll be tasked with returning five of the Pokemon that we found then.
+Head over to the Nightclub in North Obsidia. You'll see DJ Arclight inside if you've bought all of the Pokémon from the Seventh Street Pokémon seller. If not, now's a good time to get them all. Anyways, we'll be tasked with returning five of the Pokémon that we found then.
 
 Head to Jasper Ward and take the Loudred out of the PC. Talk to a girl in the bottom left building two times and she will take back her Loudred.
 
@@ -1719,7 +1719,7 @@ For winning, you'll get *TM15 Hyper Beam*.
 
 Fly back to Apophyll and give Makuhita girl the autograph to get the *Headphones*, then go to Jasper Ward once more and give them to the Loudred girl.
 
-Fly to Lapis Ward and enter the house to the left of the Pokemart. You'll learn that the lady's son has been kidnapped! Head back to the North Peridot Alley and talk to the Jigglypuff guy once more.
+Fly to Lapis Ward and enter the house to the left of the Pokémart. You'll learn that the lady's son has been kidnapped! Head back to the North Peridot Alley and talk to the Jigglypuff guy once more.
 
 Fly over to Onyx Ward, prepare your team and save, then head to the rooftop.
 
@@ -1784,11 +1784,11 @@ This battle isn't particularly tough and a few fast sweepers can probably bowl t
     - Recover
     - Charge Beam
 
-Again, this is made harder by the fact that you can't heal. His Pokemon are pretty much all of the fast sweeper variety, meaning Trick Room or Tailwind support for a strong attacker may be the key here. Watch out for Bullet Punch on Scizor.
+Again, this is made harder by the fact that you can't heal. His Pokémon are pretty much all of the fast sweeper variety, meaning Trick Room or Tailwind support for a strong attacker may be the key here. Watch out for Bullet Punch on Scizor.
 
 Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your party. Give it back to Eustace upstairs.
 
-With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. We will be getting more of these as well.
+With all five Pokémon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. We will be getting more of these as well.
 
 **Relationship Point Choices:**
 - Complete the Mega-Z Ring Quest (+2 Arclight)
@@ -1865,7 +1865,7 @@ Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the
 
 We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*.
 
-Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokemon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles. That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage.
+Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokémon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles. That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage.
 
 **New World Orderly Howaya & New World Orderly Callie. Field: Factory Field**
 - Ludicolo, Lv. 74, Ability: Swift Swim, Serious Nature, IVs: 10
@@ -2061,7 +2061,7 @@ Heal and prepare your team as necessary, then proceed to the right.
     - Flare Blitz
     - Outrage
 
-Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplified Rock + Trick Room or a set-up sweeper with speed support.
+Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokémon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplified Rock + Trick Room or a set-up sweeper with speed support.
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
@@ -2119,7 +2119,7 @@ Either way you have to fight.
     - Dragon Pulse
     - Agility
 
-Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokemon, though he might change the field to Electric Terrain. Most of his Pokemon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
+Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokémon, though he might change the field to Electric Terrain. Most of his Pokémon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
 
 !img("devon_002.png")
 
@@ -2179,9 +2179,9 @@ Activate monitor #2, go up to activate monitor #3, then go back down to turn off
     - Autotomize
     - Hidden Power
 
-ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a good  position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison while it uses Double Team to dodge your attacks. The icing on top is Magnezone, who has an incredible special attack stat and two different types of field boosted moves that can destroy most Pokemon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
+ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a good  position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison while it uses Double Team to dodge your attacks. The icing on top is Magnezone, who has an incredible special attack stat and two different types of field boosted moves that can destroy most Pokémon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
 
-To win this one, I recommend splitting your team into the anti-PULSE Magnezone segment and the anti-everything else segment, though these may overlap. With only 70 base speed and no speed EV's, you'll find yourself likely able to outspeed. Placing one or two strong hits will really be the key, so 2-3 Pokemon on your team with super-effective moves can do this job. For example, if you want to take it out with Special Fire-moves, figure out which Pokemon to use to get the sun out beforehand and which Pokemon you can use to knock it out. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it. The rest of your team can then consist of a Pokemon to handle Umbreon and a physical sweeper or two to deal with the rest!
+To win this one, I recommend splitting your team into the anti-PULSE Magnezone segment and the anti-everything else segment, though these may overlap. With only 70 base speed and no speed EV's, you'll find yourself likely able to outspeed. Placing one or two strong hits will really be the key, so 2-3 Pokémon on your team with super-effective moves can do this job. For example, if you want to take it out with Special Fire-moves, figure out which Pokémon to use to get the sun out beforehand and which Pokémon you can use to knock it out. If you want to use Earthquake, figure out how to get Gravity on the field or use Smack Down on it. The rest of your team can then consist of a Pokémon to handle Umbreon and a physical sweeper or two to deal with the rest!
 
 Talk to ZEL in the bottom left corner, then head out, use monitor #9, and go left. Talk to this monitor to release your allies, then exit.
 
@@ -2189,7 +2189,7 @@ Talk to ZEL in the bottom left corner, then head out, use monitor #9, and go lef
 
 With all that out of the way we can proceed to the next badge. One more quest is open however; I'll cover that first.
 
-Reenter the actual Devon Corp. building in Obsidia, and make your way upstairs. Now the floor tiles will be going crazy and you can't control them. Honestly, I recommend grabbing some potions and just healing once we reach the top, since we will only have to deal with a single battle against 3 Pokemon. You can even challenge yourself to see if you can win with 6 Pokemon at 1 HP.
+Reenter the actual Devon Corp. building in Obsidia, and make your way upstairs. Now the floor tiles will be going crazy and you can't control them. Honestly, I recommend grabbing some potions and just healing once we reach the top, since we will only have to deal with a single battle against 3 Pokémon. You can even challenge yourself to see if you can win with 6 Pokémon at 1 HP.
 
 **Street Rat Alphonso. Field: Factory Field**
 - Archeops, Lv. 75, @Sitrus Berry, Ability: Defeatist, Jolly Nature, IVs: 31
@@ -2301,7 +2301,7 @@ So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's 
     - Knock Off
     - Rock Slide
 
-The cherry on top is that we have to fight a custom variant Kecleon as the final Pokemon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. I recommend having two or three Pokemon prepared  to deal with the first doubles fight, and the rest saved up to deal with this one, just in case.
+The cherry on top is that we have to fight a custom variant Kecleon as the final Pokémon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. I recommend having two or three Pokémon prepared  to deal with the first doubles fight, and the rest saved up to deal with this one, just in case.
 
 Past here you can get a hidden *Repel* as well as **Treecko**!
 
@@ -2313,7 +2313,7 @@ Return to Beryl Ward. With the Kecleon gone, we can now access the library once 
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the answer to the puzzle</a>
 </div>
 
-Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst*, a new item which increases our odds of capturing Pokemon.
+Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst*, a new item which increases our odds of capturing Pokémon.
 
 One more quick thing if you'd like: Fly on over to Calcenon City and go to Route 4. Hop across the rocks at the lake during the nighttime to catch Ame's Absol.
 
@@ -2333,7 +2333,7 @@ They will then ask us to help out with a quest. It's optional but pretty easy an
 4. South Obsidia Ward, yellow-haired guy in the bottom left corner
 5. Obsidia Alleyway, yellow-haired girl wandering around
 6. North Obsidia Ward, blue-haired glasses guy near the stairway
-7. Lapis Ward, silver-haired woman in the park south of the PokeMart
+7. Lapis Ward, silver-haired woman in the park south of the PokéMart
 8. Lower Peridot Ward, brown-haired guy wandering around east of the train station
 9. Lower Peridot Ward, blue-hatted guy in the last building before the railnet
 10. Lower Peridot Alleyway, black-haired girl
@@ -2383,7 +2383,7 @@ With that out of the way, it's time for our 14th gym battle.
     - Wish
     - Nature Power
 
-Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokemon by 1.5x. Combine this with two Pokemon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy type and Steel type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
+Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokémon by 1.5x. Combine this with two Pokémon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy type and Steel type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
 
 Although this team on these fields is particularly stacked, you do have some options. For one, you can usually get a free boost on the first turn with Wide Guard thanks to Rock Slide/Earthquake and Dazzling Gleam being oft used moves. Consider changing the field at first to Corrosive Mist Field if you can - it will cripple their team, but you do have to use Clear Smog, Poison Gas, or Smog twice to make that work. What tends to work better though is leaning fully into the Fairy Tale Arena - you can blow the mist away yourself, then utilize boosted Steel moves to tear their team apart. Mawile is still a difficult threat to deal with, so if you can get around Mawile with some Steel attackers in the back, that may be a winning strategy.
 

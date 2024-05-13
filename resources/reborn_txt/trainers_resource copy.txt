@@ -524,7 +524,7 @@
     - Thunderbolt
     - Shadow Ball
 
-**Pokemon Gargantuan. Field: **
+**Pokémon Gargantuan. Field: **
 - Steelix-Mega, Lv. 100, @Assault Vest, Ability: Sand Force, Adamant Nature, IVs: 31, EVs: 3252/252/4/0/252/0
     - Earthquake
     - Dragon Tail
@@ -1457,7 +1457,7 @@
     - Hidden Power
     - Air Slash
 
-**Pokemon Guardians. Field: **
+**Pokémon Guardians. Field: **
 - Haxorus, Lv. 93, @Sitrus Berry, Ability: Mold Breaker, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Swords Dance
     - Stomp Tantrum
@@ -1469,7 +1469,7 @@
     - Poison Jab
     - Outrage
 
-**Pokemon Daishou. Field: ** # Appears unused
+**Pokémon Daishou. Field: ** # Appears unused
 - Samurott, Lv. 78, @Sitrus Berry, Ability: Shell Armor, Lonely Nature, IVs: 31, EVs: 252/252/0/4/0/0
     - Waterfall
     - Scald
@@ -1520,7 +1520,7 @@
     - Shadow Punch
     - Shift Gear
 
-**Pokemon Fulgor. Field: **
+**Pokémon Fulgor. Field: **
 - Volcarona, Lv. 100, @Sitrus Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Quiver Dance
     - Signal Beam
@@ -1620,7 +1620,7 @@
     - Brave Bird
     - Cut
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
     - Earthquake
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
@@ -1634,7 +1634,7 @@
 - Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
     - Earthquake
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Rock Slide
     - Bulldoze
@@ -1645,7 +1645,7 @@
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
@@ -1656,7 +1656,7 @@
     - Rock Slide
     - Bulldoze
 
-**Pokemon Stoplettes. Field: **
+**Pokémon Stoplettes. Field: **
 - Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
@@ -2553,7 +2553,7 @@
     - Aurora Veil
     - Freeze-Dry
 
-**Pokemon Statuary. Field: **
+**Pokémon Statuary. Field: **
 - Garchomp, Lv. 75, @Muscle Band, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Earthquake
     - Dragon Rush
@@ -9048,7 +9048,7 @@
     - Earth Power
     - Sludge Bomb
 
-**Pokefan Nyu. Field: **
+**Pokéfan Nyu. Field: **
 - Pikachu, Lv. 100, @Light Ball, Ability: Static, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Nasty Plot
     - Surf

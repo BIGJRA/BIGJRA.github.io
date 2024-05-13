@@ -7,9 +7,9 @@ Exit the gym.
 
 ## Two Herbal Extracts
 
-Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokemart here! One person sells the default items, but there is another vendor.
+Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokémart here! One person sells the default items, but there is another vendor.
 
-**Chrysolia Pokemart Herb Shop**
+**Chrysolia Pokémart Herb Shop**
 
 |Item               |Price  |
 |-------------------|-------|
@@ -324,14 +324,14 @@ If Saphira was abducted, you'll be here with Laura.
 
 Go out and head up. You'll see some dialogue. Head down from here, you'll see a new path open up. Follow the new paths that keep opening up until you have to participate in a battle!
 
-**Pokemon Gargantuan. Field: Rocky Field**
+**Pokémon Gargantuan. Field: Rocky Field**
 - Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
     - Earthquake
     - Stone Edge
     - Crunch
     - Heavy Slam
 
-Another single Pokemon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit.
+Another single Pokémon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit.
 
 **Relationship Point Choices:**
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
@@ -360,7 +360,7 @@ Once you emerge, make your way back into the base and head to the back room. Onc
     - Hyper Beam
     - Hyper Beam
 
-Seriously. Thankfully, when you're only fighting one Pokemon with very low HP that has to deal with recharge, you can find a way to open an opportunity to knock it out. Disabling Dark Pulse will let your Ghost type easily win. Alternatively Mirror Coat and Metal Burst can work great here. There's lots of options for this one.
+Seriously. Thankfully, when you're only fighting one Pokémon with very low HP that has to deal with recharge, you can find a way to open an opportunity to knock it out. Disabling Dark Pulse will let your Ghost type easily win. Alternatively Mirror Coat and Metal Burst can work great here. There's lots of options for this one.
 
 Head all the way back to Tanzan Cove and talk to Anna inside. It's time for another gym battle!
 
@@ -398,7 +398,7 @@ Head all the way back to Tanzan Cove and talk to Anna inside. It's time for anot
     - Soft-Boiled
     - Stored Power
 
-Shocker, another tough gym leader in Pokemon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal type team (ok, 5/6 of a Normal type team plus Clefable).
+Shocker, another tough gym leader in Pokémon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal type team (ok, 5/6 of a Normal type team plus Clefable).
 
 Clefable's Magic Guard is an annoying ability that means you need to overwhelm it physically despite its seed boost or get it before it can Calm Mind too much, but thankfully it means it doesn't have Unaware. This means you can get your own sweeper set up potentially against Bewear or Girafarig and maybe steamroll his team. Fighting types can potentially destroy the Cinccino but won't see a ton of success against the rest of the team. Since Normal types have no other weaknesses, you might have to turn to using the field to your benefit. Although Girafarig has Sap Sipper to absorb Grass type moves, you can go with a hyper-offensive Grass type strategy, keeping Swellow in mind. Coil and Growth are boosted on this field, so it shouldn't be impossible to set up. You can also take advantage of the boost to Fire-moves - in particular Bewear will get crushed by them. Keep in mind too that the Elemental Seed can potentially allow you to more easily survive Cinccino and/or get your own tank set up.
 

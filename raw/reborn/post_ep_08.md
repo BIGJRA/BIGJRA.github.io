@@ -107,9 +107,9 @@ All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are 
 
 Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
 
-## Chasing the Super High-Speed Pokemon
+## Chasing the Super High-Speed Pokémon
 
-Accept Danielle's quest, then fly over to the Pokemon League on Charous Mountain. Head down to the large dragon statue here for a battle.
+Accept Danielle's quest, then fly over to the Pokémon League on Charous Mountain. Head down to the large dragon statue here for a battle.
 
 **Anomaly Rayquaza. Field: Snowy Mountain**
 - Rayquaza, Lv. 145, @Life Orb, Ability: Air Lock, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
@@ -143,7 +143,7 @@ Accept Danielle's quest, then fly over to the Pokemon League on Charous Mountain
     - Thunder
     - Spacial Rend
 
-Another tough double battle with a lot of hard hitting Pokemon. I recommend Light Screen and Trick Room - combined, your Pokemon will get slower with every use of Icy Wind, allowing them to hit first. You can switch the field to Mountain if you'd like.
+Another tough double battle with a lot of hard hitting Pokémon. I recommend Light Screen and Trick Room - combined, your Pokémon will get slower with every use of Icy Wind, allowing them to hit first. You can switch the field to Mountain if you'd like.
 
 Once you win, Rayquaza will run off... and roam the Reborn region! It functions pretty similarly to the main series roamers - when you switch areas, Rayquaza probably will, too. And, just like the main series games, simply using your Reborn Ball on it is the easiest thing to do. I generally run around Reborn City and check the map until Rayquaza happens to be in the same ward as you, then use Repels to weed out everything else except Rayquaza, who is at Lv. 145.
 
@@ -215,9 +215,9 @@ Now that we have Rayquaza, we can go help out the OTS squad over in the Aegir Ca
     - Swords Dance
     - Lava Plume
 
-This battle isn't that crazy - you'll notice that most of their Pokemon have moves that indiscriminately damage all Pokemon, including their allies. Bulky Pokemon, Wide Guard, etc. will help here. You'll also notice that if Kyogre and Groudon come in at the same time, the field will change to the Rainbow Field. Rock Slide gets power on the Cave Field and extra flinch chance on the Rainbow Field, so I recommend using it for this fight.
+This battle isn't that crazy - you'll notice that most of their Pokémon have moves that indiscriminately damage all Pokémon, including their allies. Bulky Pokémon, Wide Guard, etc. will help here. You'll also notice that if Kyogre and Groudon come in at the same time, the field will change to the Rainbow Field. Rock Slide gets power on the Cave Field and extra flinch chance on the Rainbow Field, so I recommend using it for this fight.
 
-The second battle of this gauntlet is determined by which route you're on, and who you have more relationship points with. On Lin Route, you'll fight whichever you have fewer points with. On Anna Route, you'll fight whichever you have more points with. On Lin Route, you'll get all your Pokemon healed to full, while in Anna Route, only non-fainted Pokemon will be restored, similar to the Glass Gauntlet.
+The second battle of this gauntlet is determined by which route you're on, and who you have more relationship points with. On Lin Route, you'll fight whichever you have fewer points with. On Anna Route, you'll fight whichever you have more points with. On Lin Route, you'll get all your Pokémon healed to full, while in Anna Route, only non-fainted Pokémon will be restored, similar to the Glass Gauntlet.
 
 ### Gauntlet Fight 2 (Amaria Version)
 
@@ -285,7 +285,7 @@ If you instead fought Titania, skip ahead to the next section.
     - Calm Mind
     - Ice Beam
 
-This fight is absolute suffering. Even if you get your team fully healed because of Lin Route... it's still a 12v6 against a Water Surface team that might even go underwater. Even your fast grounded Pokemon will just get easily outsped. Surf will roll your over. Even if you use Trick Room, a few slower choices like Toxapex will mess up your strategy. Especially positioned as it is in the gauntlet, this might be my least favorite fight in this game... maybe minus the end game gauntlet, which we'll get to in due time. Electric moves will get you somewhat across the finish line potentially, or you could try some shenanigans on the Icy Field or Murkwater Fields, I guess. Good luck.
+This fight is absolute suffering. Even if you get your team fully healed because of Lin Route... it's still a 12v6 against a Water Surface team that might even go underwater. Even your fast grounded Pokémon will just get easily outsped. Surf will roll your over. Even if you use Trick Room, a few slower choices like Toxapex will mess up your strategy. Especially positioned as it is in the gauntlet, this might be my least favorite fight in this game... maybe minus the end game gauntlet, which we'll get to in due time. Electric moves will get you somewhat across the finish line potentially, or you could try some shenanigans on the Icy Field or Murkwater Fields, I guess. Good luck.
 
 Once you win this fight, you'll be able to catch **Kyogre**, who holds the *Blue Orb*!
 
@@ -446,7 +446,7 @@ Head back to the first tall tower and enter. Prepare yourself however you can an
 **Alter Clone. Field: Factory Field**
 - Your Team, with PULSE 2!
 
-An interesting gimmick fight - you have to fight your team, but with PULSE 2. So, your sweepers will be bulkier than usual and your tanks will have more offensive power. One obvious answer to this fight is Trick Room - all of your alter will have 252 in Speed, but you don't have to. Then you can try to get a set up sweep going. There are also ways to cheese this fight with one Pokemon if you're really stuck.
+An interesting gimmick fight - you have to fight your team, but with PULSE 2. So, your sweepers will be bulkier than usual and your tanks will have more offensive power. One obvious answer to this fight is Trick Room - all of your alter will have 252 in Speed, but you don't have to. Then you can try to get a set up sweep going. There are also ways to cheese this fight with one Pokémon if you're really stuck.
 
 Enter this room. On the left wall you'll see one tile that doesn't look right - walk into it to reach another door. Inside, you can get:
 
@@ -524,7 +524,7 @@ Back at the fork, go up for one heck of a battle.
     - Zen Headbutt
     - Thunder Punch
 
-This fight is, well, rough. 12v6 on the Holy Field with a fun chance of Mew's Z-move transforming the field into Psychic Terrain. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokemon on Turn 1. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. Those two are weak to Ground, so you can take advantage of the field protecting your teammates and use Earthquake in conjuction. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, so that's nice.
+This fight is, well, rough. 12v6 on the Holy Field with a fun chance of Mew's Z-move transforming the field into Psychic Terrain. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokémon on Turn 1. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. Those two are weak to Ground, so you can take advantage of the field protecting your teammates and use Earthquake in conjuction. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, so that's nice.
 
 However you manage to win this one, once you regain control, talk to **Mew** and **Mewtwo** for a chance to catch each. Nothing we can do to help out our friend here for now, so return to the Nightclub.
 
@@ -787,7 +787,7 @@ Continuing along this path, you'll see Anomaly Xerneas. Talk to it when you're r
     - Psych Up
     - Fire Blast
 
-This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokemon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokemon's SpA, and go H.A.M. If you want to avoid this, taking out Cosmoem ASAP is a good idea. I then recommend your own Pokemon with Psych Up to steal Lugia's Calm Mind or something and do a counter-sweep.
+This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokémon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokémon's SpA, and go H.A.M. If you want to avoid this, taking out Cosmoem ASAP is a good idea. I then recommend your own Pokémon with Psych Up to steal Lugia's Calm Mind or something and do a counter-sweep.
 
 Once you win, Noel will give you **Xerneas**!
 
@@ -863,14 +863,14 @@ Talk to Noel towards the top, then attempt to exit once you're ready for one mor
     - Psychic
     - Energy Ball
 
-The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokemon will be a pain to take out... unless you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
+The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokémon will be a pain to take out... unless you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
 
 Once you win, accept the fast travel request to return to the Nightclub. Now that we have rescued Eclipse, fly over to Calcenon City and enter her father's house. After a scene inside, Eclipse will give you the *Mewtwonite X* and the *Mewtwonite Y*! You can also talk to the father to get the password: *shinycharm*. Nice.
 
-## Bee's Pokedex Completion Quest (Part 3)
+## Bee's Pokédex Completion Quest (Part 3)
 
 Oh, and there's one more thing we can do. Head over to talk to Bee in Agate City.
 
 We'll learn that she wants to see all of the Ultra Beasts. If you've gotten Nihilego, Buzzwole, Pheromosa, Xurkitree, Celesteela, Kartana, Guzzlord, Poipole, Naganadel, Stakataka, and Blacephalon, talk to her to get the *Ultranecrozium-Z*!
 
-She'll tell us what she wants to see next - full Pokedex completion. If you've been keeping up with the guide so far, we'll already be 806/807 of the way there... so we'll return soon, don't worry.
+She'll tell us what she wants to see next - full Pokédex completion. If you've been keeping up with the guide so far, we'll already be 806/807 of the way there... so we'll return soon, don't worry.

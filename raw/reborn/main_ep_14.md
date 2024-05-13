@@ -16,7 +16,7 @@ With that, we now have all we need to Dive! There are a few quick things we can 
 
 Enter the gate at the bottom of Calcenon. The guard inside will ask us to donate $40000 to repair the bridge that was broken in the previous chapter. Note that if you don't have enough cash, you'll need to go all the way through Route 4 and Route 3 caves to go between Ametrine Mountain and Calcenon City. Anyways, once you cough up the cash the bridge, will be fixed. Head outside and to the right on the stairs, and enter the cave here.
 
-Inside, you can get an *Electrizer*, *Magmarizer*, and *Ghost Memory*. Re-enter Calcenon City. In the building to the right of the Pokemon Center you can trade this Magmarizer to get a **Magby**! In a building to the right of the gym you can trade the Electrizer for an **Elekid**!
+Inside, you can get an *Electrizer*, *Magmarizer*, and *Ghost Memory*. Re-enter Calcenon City. In the building to the right of the Pokémon Center you can trade this Magmarizer to get a **Magby**! In a building to the right of the gym you can trade the Electrizer for an **Elekid**!
 
 Head down to Route 3 via the new stairs. Down from here, you'll see a ladder. Interact with it to create a quick shortcut that allows us to go from Calcenon to Agate Circus super easily! Head to the circus.
 
@@ -47,7 +47,7 @@ Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
 |**Lanturn**       |15 |
 |**Relicanth**     |10 |
 
-Emerge at the other dive spot. You can find a hidden *PokeSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back to the previous dive spot. Next, go up and right to head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
+Emerge at the other dive spot. You can find a hidden *PokéSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back to the previous dive spot. Next, go up and right to head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
 
 To the right, you'll find the *Snowy Mountain Field Readout*. Up and to the right you'll find a *Water Stone*. Emerge at the dive spot in the upper right side. Up here you'll find the *PULSE Readout 2*. Oh dear.
 
@@ -55,14 +55,14 @@ Make your way back to the crescent dive spot. Head up to reach Ametrine Mountain
 
 Follow the path, diving up and down as you go. Once you pop up inside the iceberg, you'll find another PULSE!
 
-**Pokemon Redoubt. Field: Icy Field**
+**Pokémon Redoubt. Field: Icy Field**
 - PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/4/0.
     - Hammer Arm
     - Earthquake
     - Recover
     - Avalanche
 
-With 255 in Def and SpD, a respectable HP, Leftovers and Recover, this thing is tanky! It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side. There are a number of strategies that make this doable - it is a 6v1 after all, so it can't shake off stat debuffs. Toxic, Protect, and a healing move on a physically defensive Pokemon alone can pretty much win this fight. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc.
+With 255 in Def and SpD, a respectable HP, Leftovers and Recover, this thing is tanky! It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side. There are a number of strategies that make this doable - it is a 6v1 after all, so it can't shake off stat debuffs. Toxic, Protect, and a healing move on a physically defensive Pokémon alone can pretty much win this fight. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc.
 
 With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F. Up here you can get a hidden *Green Shard*, *X Attack*, and *Blue Shard*. On the next floor, you'll find a hidden *Ice Gem*. By going to the bottom left corner then alternating between going right and up/down, make your way to the door on the middle of the right side of the ice puzzle and exit.
 
@@ -84,7 +84,7 @@ With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F
 |**Vanillish**     |4  |**Vanillish**     |4  |Absol             |1  |
 |                  |   |Absol             |1  |                  |   |
 
-Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokeSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and *Zinc* as you proceed. Talk to Shelly here.
+Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokéSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and *Zinc* as you proceed. Talk to Shelly here.
 
 Enter the small building nearby. Inside, talk to the old man to begin a quest. You can also talk to his computer to get the *Glitch Field Readout*.
 
@@ -92,7 +92,7 @@ Head west at the next fork. You can get a hidden *Ether* around here. In the fir
 
 Back at the main village fork, go down. In the south side of the city you can pick up hidden *Stardust*, *Big Pearl*, *Repel*, *Chewing Gum*, *Green Shard*, *Red Shard*, *X Sp. Atk*, *Full Heal*, *Tiny Mushroom*, and *Antidote*. Make sure you save this (or any) Tiny Mushroom for a quest later.
 
-In the house next to the Pokemon Center, talk to the guy to learn of a glitch in his computer. Talk to the machine for a short battle gauntlet!
+In the house next to the Pokémon Center, talk to the guy to learn of a glitch in his computer. Talk to the machine for a short battle gauntlet!
 
 **MIS5INGN0 4B 8 4 8. Field: Glitch Field**
 - Parasect, Lv. 74, Ability: Effect Spore, Serious Nature, IVs: 10
@@ -392,7 +392,7 @@ Continue down the main path, picking up the hidden *Ice Heal*, *Telluric Seed*, 
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
 
-**Pokemon Pariah. Field: Snowy Mountain Field**
+**Pokémon Pariah. Field: Snowy Mountain Field**
 - Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Extreme Speed
     - Meteor Mash
@@ -483,7 +483,7 @@ Emerge into the outside once more, pick up the *Common Candy* and *Shoal Shell*,
     - Rock Slide
     - Iron Head
 
-Blake has a pretty tough doubles team that takes advantage of the power of Water and Ice types, but mainly from the physical side. Intimidate Gyarados is good as usual, and paired with Snow Cloak Mamoswine, it can crush your Pokemon that aren't as defensively blessed. In the back he has the speedy combo of Weavile, Starmie, and Slush Rush Sandslash, plus has a bulky Walrein with an extra 1.5x boost to defense thanks to natural hail. On top of that, the field boosts all of his Ice type attacks as well as Rock Slide, plus makes Thunder perfectly accurate. All in all this is a tough fight but not unbeatable!
+Blake has a pretty tough doubles team that takes advantage of the power of Water and Ice types, but mainly from the physical side. Intimidate Gyarados is good as usual, and paired with Snow Cloak Mamoswine, it can crush your Pokémon that aren't as defensively blessed. In the back he has the speedy combo of Weavile, Starmie, and Slush Rush Sandslash, plus has a bulky Walrein with an extra 1.5x boost to defense thanks to natural hail. On top of that, the field boosts all of his Ice type attacks as well as Rock Slide, plus makes Thunder perfectly accurate. All in all this is a tough fight but not unbeatable!
 
 There are lots of Snowy Mountain Field interactions you can exploit if you want. For example, you too can harness perfectly accurate Thunder to easily dispatch Gyarados and Starmie. This field may help out Ice types but arguably it can help Flying types even more: Flying attacks are boosted by 1.5x here and Tailwind grants Strong Winds, allowing your Flying types to ignore their Ice weaknesses and granting another 1.5x boost to flying moves! There are also a ton of boosted attacks and abilities on this field - a shoutout to Aurorus, who gets 1.5x for Refrigerate, AND 1.5x for Hyper Voice being boosted, AND 1.5x for Ice type moves being boosted on this field! You can also turn it to mountain with a burning move to cancel out the Ice type bonus on Rock type moves, too! Otherwise, I'll sound like a broken record here - it's a doubles fight, so you'll get mileage out of Wide Guard, Trick Room, Protect, and other similar strategies.
 
@@ -497,7 +497,7 @@ Cal will offer you a ride back to the main part of Ametrine.
 **Relationship Point Choices:**
 - Refuse Cal's offer down the mountain (-1 Cal)
 
-Before we leave Ametrine City, enter the small house just south of Blake's apartment and give the girl inside a Floral Charm in exchange for the *Banettite*! Next, head on over to the Pokemart. Inside, a person will give you a *Magmarizer*.
+Before we leave Ametrine City, enter the small house just south of Blake's apartment and give the girl inside a Floral Charm in exchange for the *Banettite*! Next, head on over to the Pokémart. Inside, a person will give you a *Magmarizer*.
 
 Before we proceed with the story, we can head over to Calcenon via the Route 3 shortcut to get the following points:
 
@@ -782,7 +782,7 @@ Enter the ladder in the glitchy mess on the left to reach Rocket Hideout.
     - Dragon Claw
     - Brick Break
 
-Grab the *Super Potion* and make your way through the tile maze - it's the same as in Gen 1 Pokemon.
+Grab the *Super Potion* and make your way through the tile maze - it's the same as in Gen 1 Pokémon.
 
 **Relationship Point Choices:**
 - Talk to Red in the bottom left corner (+1 Terra)
@@ -818,7 +818,7 @@ Enter the house nearby the NPC to continue.
 
 Head left, hopping down ledges as you go. Enter the door at the top.
 
-In the Pokemon Mansion, grab the *Iron* to the right then press the switch.
+In the Pokémon Mansion, grab the *Iron* to the right then press the switch.
 
 **OPKMN4X PKMN. Field: Glitch Field**
 - Sandslash, Lv. 75, Ability: Sand Rush, Serious Nature, IVs: 10
@@ -889,7 +889,7 @@ In Cerulean Cave you can get a *Max Repel*. The other ball is a Light Shard, use
     - Thunderbolt
     - Ice Beam
 
-Bringing Mewtwo back to where it belongs with Glitch Field: completely broken. Of note is its Psystrike, which gets boosted by the field and Mewtwo's high Special Attack yet hits your Pokemon on their Defense. That said, there are still tons of ways to win these 6v1's as we've learned by now, so pick your favorite one.
+Bringing Mewtwo back to where it belongs with Glitch Field: completely broken. Of note is its Psystrike, which gets boosted by the field and Mewtwo's high Special Attack yet hits your Pokémon on their Defense. That said, there are still tons of ways to win these 6v1's as we've learned by now, so pick your favorite one.
 
 Proceed and get ready for the gym battle! Note that you can actually exit back to the circus easily in case you want to do more prep.
 
@@ -927,14 +927,14 @@ Proceed and get ready for the gym battle! Note that you can actually exit back t
 
 Time to take on M3G4 T3RR4. As you've probably come to learn by now, the Glitch Field is pretty funky, enough that I'm gonna cover its intricacies with a whole diatribe before we even fight her. There are a few really important things about this field that you need to remember:
 
-1. Type Matchups: all moves of the original physical types will be physical, and all moves of the original special types will be special, so we're back to certain Pokemon being snubbed and others strengthened depending on their movepools. Additionally, Dark, Steel, and Fairy moves will all be retyped as Normal, Dragon always hits neutrally, Bug and Poison hit each other super-effectively, Ice hits Fire neutrally, and Psychic is immune to Ghost. In some cases these changes can be good for you: such as how physical Fighting types now have a stronger option in physical Focus Blast, or how Bug and Poison types are generally better now.
-2. Special attack damage: special attacks will be based on the higher stat of your SpA and SpD... an utter game changer, as now Special walls such as Shuckle and Toxapex are able to hit hard! It also means that raising Special Defense will increase both offensive and defensive capabilities - so moves like Cosmic Power, Charge, and Stockpile can lend themselves to creating a 1 Pokemon army if you set up at the right time.
-3. Speedy crits: the faster Pokemon on the field always gets a bonus to critical hit chance, so with a Razor Claw held you're getting crits for free 50% of the time, and nearly always with moves like Night Slash! Helpful for ignoring those aforementioned defense boosts.
-4. The Synthetic Seed turns a Pokemon into ??? type *with no weaknesses* and raises Defense. There are a few more things you can read about in the field notes like the Psychic move boost, but these are the main things you have to consider.
+1. Type Matchups: all moves of the original physical types will be physical, and all moves of the original special types will be special, so we're back to certain Pokémon being snubbed and others strengthened depending on their movepools. Additionally, Dark, Steel, and Fairy moves will all be retyped as Normal, Dragon always hits neutrally, Bug and Poison hit each other super-effectively, Ice hits Fire neutrally, and Psychic is immune to Ghost. In some cases these changes can be good for you: such as how physical Fighting types now have a stronger option in physical Focus Blast, or how Bug and Poison types are generally better now.
+2. Special attack damage: special attacks will be based on the higher stat of your SpA and SpD... an utter game changer, as now Special walls such as Shuckle and Toxapex are able to hit hard! It also means that raising Special Defense will increase both offensive and defensive capabilities - so moves like Cosmic Power, Charge, and Stockpile can lend themselves to creating a 1 Pokémon army if you set up at the right time.
+3. Speedy crits: the faster Pokémon on the field always gets a bonus to critical hit chance, so with a Razor Claw held you're getting crits for free 50% of the time, and nearly always with moves like Night Slash! Helpful for ignoring those aforementioned defense boosts.
+4. The Synthetic Seed turns a Pokémon into ??? type *with no weaknesses* and raises Defense. There are a few more things you can read about in the field notes like the Psychic move boost, but these are the main things you have to consider.
 
 So, onto how Terra uses this field. You'll get a good example of the second principle right away in her Nidoking, who will get bulkier and *stronger* by using Amnesia. It can then hit hard with extra-accurate Blizzard, Thunderbolt and Flamethrower for wide special coverage. Hippowdon is bulky and likes to put you to sleep and hit with the ol' reliable Rock / Ground offensive combo, but more importantly, it sets up weather for its buddy Sand Rush Excadrill, who gets boosted critical hit rate as long as it's going first. If that wasn't enough she has a mixed Garchomp who gets to ignore the SpA drops of Draco Meteor by calculating special damage based on its SpD stat, but can also hit hard with physical Bulldoze and Stone Edge. Rounding out her team is Palossand and Quagsire, each with the Synthetic Seed, neutralizing their weaknesses entirely and allowing each to set up with Amnesia and Recovery moves. Quagsire even has Unaware to ruin whatever similar SpD stacking strategy you have going! All in all a tough team that may really mess you up if you aren't using the field to maximum effect for your team.
 
-The first thing I recommend for this fight is to literally use a list like [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) to find some Pokemon with really high SpD, since they are generally the best for this field. Even better if they have moves like Amnesia, Stockpile, or Cosmic Power - you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed of their own to avoid super-effective damage taken.  Ice, Water, Grass, and Psychic moves are generally the best choices offensively here - in particular, 90% accurate Blizzard and hits-defense Psyshock are good choices. It's worth noting that Explosion halves enemy defense, which makes it useful as a last-minute nuke against the ??? type tanks or Garchomp. If have a Pokemon with high speed and a move like Leaf Blade, you can also try to go for 100% critical hit chance, which should allow you a much easier time with the members of her team who stack SpD. You can also consider using Roar, Whirlwind, or Dragon Tail on the ??? type Pokemon, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them.
+The first thing I recommend for this fight is to literally use a list like [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) to find some Pokémon with really high SpD, since they are generally the best for this field. Even better if they have moves like Amnesia, Stockpile, or Cosmic Power - you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed of their own to avoid super-effective damage taken.  Ice, Water, Grass, and Psychic moves are generally the best choices offensively here - in particular, 90% accurate Blizzard and hits-defense Psyshock are good choices. It's worth noting that Explosion halves enemy defense, which makes it useful as a last-minute nuke against the ??? type tanks or Garchomp. If have a Pokémon with high speed and a move like Leaf Blade, you can also try to go for 100% critical hit chance, which should allow you a much easier time with the members of her team who stack SpD. You can also consider using Roar, Whirlwind, or Dragon Tail on the ??? type Pokémon, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">

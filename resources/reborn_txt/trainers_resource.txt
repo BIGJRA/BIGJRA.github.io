@@ -12,7 +12,7 @@
     - Draco Meteor
     - Fleur Cannon
 
-**Pokemon Gargantuan. Field: **
+**Pokémon Gargantuan. Field: **
 - Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
     - Earthquake
     - Stone Edge
@@ -862,7 +862,7 @@
     - Roost
     - Hidden Power
 
-**Pokemon Gang. Field: **
+**Pokémon Gang. Field: **
 - Scraggy, Lv. 15, Ability: Intimidate, IVs: 15
 - Scraggy, Lv. 16, Ability: Moxie, IVs: 10
 - Scraggy, Lv. 17, Ability: Shed Skin, IVs: 10
@@ -2408,14 +2408,14 @@
     - Thunderbolt
     - Shadow Ball
 
-**Pokemon Gargantuan. Field: **
+**Pokémon Gargantuan. Field: **
 - Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
     - Earthquake
     - Stone Edge
     - Crunch
     - Heavy Slam
 
-**Pokemon Gargantuan. Field: **
+**Pokémon Gargantuan. Field: **
 - Steelix-Mega, Lv. 100, @Assault Vest, Ability: Sand Force, Adamant Nature, IVs: 31, EVs: 3252/252/4/0/252/0
     - Earthquake
     - Dragon Tail
@@ -2673,7 +2673,7 @@
     - Hidden Power
     - Nasty Plot
 
-**Pokemon Redoubt. Field: **
+**Pokémon Redoubt. Field: **
 - Avalugg-Hisui, Lv. 70, @Leftovers, Ability: Ice Body, Brave Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Hammer Arm
     - Earthquake
@@ -2845,7 +2845,7 @@
     - Stone Edge
     - Flamethrower
 
-**Pokemon Stopple. Field: **
+**Pokémon Stopple. Field: **
 - Swalot, Lv. 80, @Black Sludge, Ability: Liquid Ooze, Calm Nature, IVs: 27, EVs: 252/0/252/0/4/0
     - Sludge Wave
     - Recover
@@ -3799,7 +3799,7 @@
 - Wurmple, Lv. 9, Serious Nature, IVs: 10
 - Weedle, Lv. 9, Serious Nature, IVs: 10
 
-**Pokemon Strays. Field: **
+**Pokémon Strays. Field: **
 - Mightyena, Lv. 25, Ability: Intimidate, Serious Nature, IVs: 10
     - Snarl
     - Swagger
@@ -3811,7 +3811,7 @@
     - Assurance
     - Fire Fang
 
-**Pokemon Swarm. Field: **
+**Pokémon Swarm. Field: **
 - Venipede, Lv. 34, Ability: Poison Point, Serious Nature, IVs: 10
     - Toxic
     - Protect
@@ -3828,10 +3828,10 @@
     - Pursuit
     - Rollout
 
-**Pokemon Savage. Field: **
+**Pokémon Savage. Field: **
 - Beartic, Lv. 65, Serious Nature, IVs: 10
 
-**Pokemon Tribe. Field: **
+**Pokémon Tribe. Field: **
 - Nuzleaf, Lv. 20, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
 - Nuzleaf, Lv. 25, Serious Nature, IVs: 10
@@ -3846,7 +3846,7 @@
     - Drain Punch
     - Ice Punch
 
-**Pokemon Horde. Field: **
+**Pokémon Horde. Field: **
 - Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
     - Toxic Spikes
     - Sludge Bomb
@@ -3863,21 +3863,21 @@
     - Stockpile
     - Drain Punch
 
-**Pokemon Don. Field: **
+**Pokémon Don. Field: **
 - Pangoro, Lv. 45, Ability: Scrappy, Adamant Nature, IVs: 20
     - Body Slam
     - Circle Throw
     - Crunch
     - Vital Throw
 
-**Pokemon Don. Field: **
+**Pokémon Don. Field: **
 - Pangoro, Lv. 50, @Sitrus Berry, Ability: Iron Fist, Adamant Nature, IVs: 30
     - Body Slam
     - Circle Throw
     - Crunch
     - Hammer Arm
 
-**Pokemon Mechanightmare. Field: **
+**Pokémon Mechanightmare. Field: **
 - Klinklang, Lv. 35, Ability: Clear Body, Modest Nature, IVs: 30
     - Discharge
     - Charge Beam
@@ -3938,7 +3938,7 @@
     - Thunderbolt
     - Flash Cannon
 
-**Pokemon Guardians. Field: **
+**Pokémon Guardians. Field: **
 - Haxorus, Lv. 93, @Sitrus Berry, Ability: Mold Breaker, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Swords Dance
     - Stomp Tantrum
@@ -3950,7 +3950,7 @@
     - Poison Jab
     - Outrage
 
-**Pokemon Pariah. Field: **
+**Pokémon Pariah. Field: **
 - Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
     - Extreme Speed
     - Meteor Mash
@@ -4028,7 +4028,7 @@
     - Knock Off
     - Rock Slide
 
-**Pokemon Daishou. Field: **
+**Pokémon Daishou. Field: **
 - Samurott, Lv. 78, @Sitrus Berry, Ability: Shell Armor, Lonely Nature, IVs: 31, EVs: 252/252/0/4/0/0
     - Waterfall
     - Scald
@@ -4116,7 +4116,7 @@
     - Ice Punch
     - Bounce
 
-**Pokemon Predators. Field: **
+**Pokémon Predators. Field: **
 - Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
     - Aqua Tail
     - Crunch
@@ -4167,7 +4167,7 @@
     - Shadow Punch
     - Shift Gear
 
-**Pokemon Fulgor. Field: **
+**Pokémon Fulgor. Field: **
 - Volcarona, Lv. 100, @Sitrus Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Quiver Dance
     - Signal Beam
@@ -4267,7 +4267,7 @@
     - Brave Bird
     - Cut
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
     - Earthquake
 - Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
@@ -4281,7 +4281,7 @@
 - Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
     - Earthquake
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Rock Slide
     - Bulldoze
@@ -4292,7 +4292,7 @@
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
 
-**Pokemon Refugees. Field: **
+**Pokémon Refugees. Field: **
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
     - Bulldoze
 - Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
@@ -4303,7 +4303,7 @@
     - Rock Slide
     - Bulldoze
 
-**Pokemon Stoplettes. Field: **
+**Pokémon Stoplettes. Field: **
 - Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
     - Gunk Shot
     - Pain Split
@@ -8287,7 +8287,7 @@
     - Aurora Veil
     - Freeze-Dry
 
-**Pokemon Statuary. Field: **
+**Pokémon Statuary. Field: **
 - Garchomp, Lv. 75, @Muscle Band, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
     - Earthquake
     - Dragon Rush
@@ -15174,7 +15174,7 @@
     - Earth Power
     - Sludge Bomb
 
-**Pokefan Nyu. Field: **
+**Pokéfan Nyu. Field: **
 - Pikachu, Lv. 100, @Light Ball, Ability: Static, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
     - Nasty Plot
     - Surf

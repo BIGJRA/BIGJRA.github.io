@@ -12,7 +12,7 @@ It's also worth noting at this point that the level cap has silently gone up to 
 
 Head over to North Obsidia Ward - we can finally enter the nightclub!
 
-Once you talk to Arclight, you'll be free to move around. If you talk to the machine to the left of the nerd at the top, you can turn the chaotic lights off, if you'd like. Talk to the nerd here to record Pokemon's movesets - by doing this, you can save time (and Heart Scales) from having to visit tutors.
+Once you talk to Arclight, you'll be free to move around. If you talk to the machine to the left of the nerd at the top, you can turn the chaotic lights off, if you'd like. Talk to the nerd here to record Pokémon's movesets - by doing this, you can save time (and Heart Scales) from having to visit tutors.
 
 Talk to the various characters around the nightclub, if you'd like.
 
@@ -149,7 +149,7 @@ Back in the hub, enter the top right room once more. The door at teh top will no
     - Psychic
     - Aurora Beam
 
-Our first Anomaly battle! Note that this another fight on the New World field. The first four Pokemon use this field beneficially to some extent, but Ice and field-boosted Dark moves can generally shut them down. The first Cresselia will always use Lunar Dance, sacrificing itself to give an omniboost to the second Cresselia. Note the Magical Seed, meaning the second Cresselia will always get two omniboosts, but will need to recharge on the first turn it is out. That means you can use Toxic, Psych Up, Haze, Trick Room, etc. for free and whittle it down with the remainder of your team.
+Our first Anomaly battle! Note that this another fight on the New World field. The first four Pokémon use this field beneficially to some extent, but Ice and field-boosted Dark moves can generally shut them down. The first Cresselia will always use Lunar Dance, sacrificing itself to give an omniboost to the second Cresselia. Note the Magical Seed, meaning the second Cresselia will always get two omniboosts, but will need to recharge on the first turn it is out. That means you can use Toxic, Psych Up, Haze, Trick Room, etc. for free and whittle it down with the remainder of your team.
 
 Once you win, you'll be immediately thrown into a battle with a wild **Cresselia**, which you can now catch. Don't worry, this fight is much easier than the previous, you just have to catch it. It's worth noting that you can often mash the auto-save key (default 'D') between the Anomaly battle and the legendary fight if you want. You can also grind the Nightclub facilities to get Reborn Balls if catching the legendaries is too much of a pain.
 

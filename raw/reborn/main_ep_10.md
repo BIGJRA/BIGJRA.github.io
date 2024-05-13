@@ -106,7 +106,7 @@ Oh boy, if Fern was ever a tough fight, wait until he has the power of a benefic
 
 A good sweeper can find some success if they resist Haxorus or Rhydon's attacks, but you'll have to watch out for Shadow Sneak. You can also mutate the field to Burning if you want, obviously neutering his Grass types instead of helping them. I'd make the case that Noel is overall a harder fight than Fern in general so by making it here you should be able to succeed.
 
-So, now we get to explore Route 1. Only in Pokemon Reborn do we finally reach Route 1 after getting 7 badges.
+So, now we get to explore Route 1. Only in Pokémon Reborn do we finally reach Route 1 after getting 7 badges.
 
 **Route 1**
 
@@ -161,7 +161,7 @@ Defeat the Tauros to the right to open another shortcut. Jump down once more.
 **Hiker Oltan. Field: Grassy Terrain**
 - Pinsir, Lv. 51, Serious Nature, IVs: 10
 
-You can find hidden *Ice Heal* and *PokeSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poke Ball*.
+You can find hidden *Ice Heal* and *PokéSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poké Ball*.
 
 **Ranger Nelly. Field: Grassy Terrain**
 - Zebstrika, Lv. 53, Serious Nature, IVs: 10
@@ -196,7 +196,7 @@ Note that this means we do have to briefly enter the North Aventurine Woods to k
 |Pineco            |5  |Pineco            |5  |
 |Mothim            |4  |Wormadam          |4  |
 
-You can also find a hidden *Poke Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
+You can also find a hidden *Poké Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
 
 !img("route1_4.png")
 
@@ -259,11 +259,11 @@ To the right you'll need to use the bottom of three ledges to make it to the rig
 
 You can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale* in this area. You'll notice we can't access the walled off area at the bottom-right while on a Tauros, so we'll come back here later on. Knock out the Tauros in the top area and progress up the next hill.
 
-On the next hill you can get a hidden *PokeSnax*, and *Purple Shard*.
+On the next hill you can get a hidden *PokéSnax*, and *Purple Shard*.
 
 !img("route1_6.png")
 
-Grab the hidden *Poke Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, and *Zinc*.
+Grab the hidden *Poké Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poké Ball*, *Red Shard*, and *Zinc*.
 
 **Ranger Medius. Field: Grassy Terrain**
 - Karrablast, Lv. 52, Serious Nature, IVs: 10
@@ -389,7 +389,7 @@ Note that we will eventually get points for free for being the other genders too
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Tyrogue puzzle answer</a>
 </div>
 
-Use the Light Shard (or wait till we catch a few Pokemon) and head out.
+Use the Light Shard (or wait till we catch a few Pokémon) and head out.
 
 **Citae Astrae Top**
 
@@ -488,7 +488,7 @@ A Pikachu on the ground floor is actually a tutor.
 |-----------|-------|
 |Volt Tackle|Free   |
 
-Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokemon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*.
+Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokémon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*.
 
 Back outside, go down then right. You'll see another Honey tree (D) - defeat Pinsir to clear some webs. Unless you really like the animation of Pinsir smashing logs, we can ignore the nearby short log. Grab the hidden *Burn Heal* and go up - we'll be blocked by long log for now! Exit to Route 1.
 
@@ -810,10 +810,10 @@ Head up and into the next room when you are ready for your gym battle.
 
 Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Then, with their low speed advantage, Malamar will then usually go for its Contrary Superpower set up, while Reuniclus will try to hit insanely hard  with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room, which it has as a backup. Finally, his Gardevoir is EV trained, a bit tanky thanks to Queen bonuses, has a berry,  hits really hard with boosted Psychic, and can also set up on you. A stacked team that has a tendency to completely steamroll the unprepared under Trick Room.
 
-One strategy you can try to use to win is to shut down Trick Room altogether. Using moves like Fake Out, Taunt, Spore, etc. will allow you to stall the Trick Room users long enough that you can hopefully knock them out on the second or third turn with super-effective Bug/Dark/Ghost moves. Successfully defeating both leads before Trick Room allows you to exploit the low speeds! Metagross will still have priority and Slowking can use Trick Room when it comes in, so be careful of that. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it at any time. Alternatively, aside from Slowking and Reuniclus, the rest of his team has respectable base speed, so you can potentially win (lose?) the speed race and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower Pokemon may go first over everything except Metagross and Slowking. A Pokemon like Escavalier is great in this context.
+One strategy you can try to use to win is to shut down Trick Room altogether. Using moves like Fake Out, Taunt, Spore, etc. will allow you to stall the Trick Room users long enough that you can hopefully knock them out on the second or third turn with super-effective Bug/Dark/Ghost moves. Successfully defeating both leads before Trick Room allows you to exploit the low speeds! Metagross will still have priority and Slowking can use Trick Room when it comes in, so be careful of that. If that isn't working, you can also bring an Oranguru from the forest and use Trick Room yourself to cancel it at any time. Alternatively, aside from Slowking and Reuniclus, the rest of his team has respectable base speed, so you can potentially win (lose?) the speed race and bring your own super slow team. Knocking out Reuniclus turn one or two will then mean your slower Pokémon may go first over everything except Metagross and Slowking. A Pokémon like Escavalier is great in this context.
 
-Your team composition with respect to chess pieces is going to important regardless of your speed strategies. For your leads, take two Pokemon that can get you momentum for your strategy, keeping in mind that they're guaranteed to live one hit each as Pawns. Then, you're going to want your hardest hitting Pokemon or one that desperately needs priority to be a King if possible, though without a King's Rock at this point, this can be tough to arrange. The rest of your team will naturally fall into Rook/Bishop/Queen - save a bulky but strong attacker for the latter, and consider a Synthetic Seed if you have a special-attacking Bishop. If you happen to have a Pokemon with speed as its best stat, it will become a Knight and can be a great choice to OHKO Queen Gardevoir. Using the field notes, rearrange your team with respect to chess pieces accordingly.
+Your team composition with respect to chess pieces is going to important regardless of your speed strategies. For your leads, take two Pokémon that can get you momentum for your strategy, keeping in mind that they're guaranteed to live one hit each as Pawns. Then, you're going to want your hardest hitting Pokémon or one that desperately needs priority to be a King if possible, though without a King's Rock at this point, this can be tough to arrange. The rest of your team will naturally fall into Rook/Bishop/Queen - save a bulky but strong attacker for the latter, and consider a Synthetic Seed if you have a special-attacking Bishop. If you happen to have a Pokémon with speed as its best stat, it will become a Knight and can be a great choice to OHKO Queen Gardevoir. Using the field notes, rearrange your team with respect to chess pieces accordingly.
 
-You can exploit the Chess Board in other ways as well: you can use Strength/Secret Power yourself for a field boost. These moves will shoot through the roof in power if you can confuse your opponents with something like Teeter Dance first. You also get a boost when using Shadow Sneak and Sucker Punch, which you can use to ignore Trick Room speed tiers entirely and net some easy KO's against his frail Psychic types. Defensively, you can use Pokemon with Adaptability, Telepathy, Anticipation, or Synchronize to eat Radomus' Psychic and Strength attacks. And of course, there is always the angry child approach of using Stomping Tantrum to flip the board and go to a neutral field.
+You can exploit the Chess Board in other ways as well: you can use Strength/Secret Power yourself for a field boost. These moves will shoot through the roof in power if you can confuse your opponents with something like Teeter Dance first. You also get a boost when using Shadow Sneak and Sucker Punch, which you can use to ignore Trick Room speed tiers entirely and net some easy KO's against his frail Psychic types. Defensively, you can use Pokémon with Adaptability, Telepathy, Anticipation, or Synchronize to eat Radomus' Psychic and Strength attacks. And of course, there is always the angry child approach of using Stomping Tantrum to flip the board and go to a neutral field.
 
 Once you win, you'll get the *Millenium Badge* which pushes our cap up to Lv. 65 as well as *TM92 Trick Room*. Trick Room is a top 5 TM in the game due to its ability to reverse the sweeping power of speedy enemy field-boosted threats, so it's fantastic that we get it for the rest of the game!

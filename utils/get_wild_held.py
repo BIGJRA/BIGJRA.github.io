@@ -76,7 +76,7 @@ def generate_table(data):
         p_len = max(p_len, len(pokemon))
         i_len = max(i_len, max([len(item) if item else 0 for item in items]))
     lines = [
-        f'|{"Pokemon".ljust(p_len)}|{"Common (50%)".ljust(i_len)}|{"Uncommon (5%)".ljust(i_len)}|{"Rare (1%)".ljust(i_len)}|',
+        f'|{"Pokémon".ljust(p_len)}|{"Common (50%)".ljust(i_len)}|{"Uncommon (5%)".ljust(i_len)}|{"Rare (1%)".ljust(i_len)}|',
         f"|{'-' * p_len}|{'-' * i_len}|{'-' * i_len}|{'-' * i_len}|"
     ]
     for pokemon, items in data.items():

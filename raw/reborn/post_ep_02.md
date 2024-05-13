@@ -12,7 +12,7 @@ Fly over to Beryl Ward, and go across the bridge to the east. In the factory whe
 
 Finally, fly over to Apophyll Academy, and climb Pyrous Mountain. At the top of the volcano is **Moltres**.
 
-As of Gen VII, 9.6% of all Pokemon were legendaries... too many, perhaps, GF? Anyways, that's why not every quest could realistically be a huge affair. Don't worry if these three bored you though, many fantastic quests are still to come.
+As of Gen VII, 9.6% of all Pokémon were legendaries... too many, perhaps, GF? Anyways, that's why not every quest could realistically be a huge affair. Don't worry if these three bored you though, many fantastic quests are still to come.
 
 Return to the Nightclub. If you want, get Articuno out of the PC and talk to Lumi a few times.
 
@@ -139,7 +139,7 @@ Head left and up for another Anomaly battle.
     - Calm Mind
     - Hidden Power
 
-Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokemon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water type's weaknesses, as long as you have a strategy for Ludicolo and Goodra.
+Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokémon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water type's weaknesses, as long as you have a strategy for Ludicolo and Goodra.
 
 Once you win, you'll be able to battle and catch **Suicune**.
 

@@ -69,7 +69,7 @@ class TrainerGetter
     # Header Row 2: Actual table headers
     thead_row = doc.create_element('tr')
 
-    ["Pokemon", "Moves", "Stat Info"].each do |col|
+    ["Pokémon", "Moves", "Stat Info"].each do |col|
       thead_row.add_child(doc.create_element('th', col, style: 'text-align: center;vertical-align : middle'))
     end
     table_header.add_child(thead_row)

@@ -72,7 +72,7 @@ You can head down as soon as you touch land to get a *Miracle Seed*. Back on lan
     - Rock Slide
     - Crush Claw
 
-Another battle with Aster and Eclipse, this time featuring a full team. Solrock and Lunatone are somewhat slow and have many weaknesses. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokemon with Nature Power into field-boosted Muddy Water, so be careful of that.
+Another battle with Aster and Eclipse, this time featuring a full team. Solrock and Lunatone are somewhat slow and have many weaknesses. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokémon with Nature Power into field-boosted Muddy Water, so be careful of that.
 
 Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Escape Rope*. Cut the tree up from here to get another hidden *Tiny Mushroom*. Go down from here. You'll find a *Magical Seed* and hidden *Purple Shard*. Head down and right to grab a hidden *Tiny Mushroom* and a hidden *Green Shard* a bit further... and we can finally enter the building here.
 
@@ -170,7 +170,7 @@ This is an "impossible battle" in the normal sense that the story will progress 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokemon or something with attack-lowering moves can open it up to not kill some of your Pokemon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.  </div>
+    You won't have an easy time with status conditions thanks to the Full Heals. There are still numerous things you can do here. The Focus Sash is always an option - putting it on a Counter Pokémon or something with attack-lowering moves can open it up to not kill some of your Pokémon. For an easier time, Bastiodon and Sudowoodo both get Sturdy and Metal Burst / Counter, Sharpedo can Speed Boost and use Destiny Bond, Murkrow can use Prankster Perish Song... the possibilities for this fight are vast.  </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Garchomp strategies</a>
 </div>
 
@@ -298,7 +298,7 @@ In this first area you can find 2 hidden *Blue Shards*, *Green Shard*, *Potion*,
 
 Enter the building and emerge at the top. On this upper platform you can find a hidden *Green Shard*. The slide to the left leads us back to the first area, so don't take that. Instead, go up from the statue and hop down the ledge, in the top left corner. You'll find hidden *Genius Wing*, *Ability Capsule*, *Green Shard*, *Ultra Ball*, and *Carbos*. In the top right side there is a canister you can talk to that will turn red - we will need to do this to multiple canisters across the wasteland to access a secret area. In the top left corner of this area you can enter a cave. Following it to the left and out you can get a hidden *Cotton Candy*. Back through the cave, go down and left, then down the ledge. Make your way back down the ledge and slide to reach the building with the stairs and emerge at the top.
 
-Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyper Potion*, *Exp. Candy L*, *Poke Ball*, *Purple Shard*, *Green Shard*, *Poison Barb*, *Purple Shard*, and *Protein*. Up from here you can find another canister to turn red. Up and to the left you can go through a building to find a hidden *Black Sludge*. Head to the bottom left of this segment. Hop down one ledge. Here you'll find another canister to turn red, the *Wasteland Field Readout* hiding behind a rock as well as hidden *Blue Shard* and *Peppermint*. From here you'll have to go back through the building and down the right slide to return to this area.
+Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyper Potion*, *Exp. Candy L*, *Poké Ball*, *Purple Shard*, *Green Shard*, *Poison Barb*, *Purple Shard*, and *Protein*. Up from here you can find another canister to turn red. Up and to the left you can go through a building to find a hidden *Black Sludge*. Head to the bottom left of this segment. Hop down one ledge. Here you'll find another canister to turn red, the *Wasteland Field Readout* hiding behind a rock as well as hidden *Blue Shard* and *Peppermint*. From here you'll have to go back through the building and down the right slide to return to this area.
 
 In the bottom right section, use the Light Shard and talk to Ace for a battle.
 
@@ -420,7 +420,7 @@ Interact with both canisters to move the bookshelf at the top, revealing a secre
 
 Inside the room to the left, you can use an Odd Keystone if you've found one via mining to get **Spiritomb**. The second room contains *TM66 Payback*. Prepare yourself and enter the third room.
 
-**Pokemon Horde. Field: Wasteland Field**
+**Pokémon Horde. Field: Wasteland Field**
 - Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
     - Toxic Spikes
     - Sludge Bomb
@@ -481,9 +481,9 @@ Enter the gym room, save, and talk to Aya.
     - Hydro Pump
     - Dragon Pulse
 
-Aya is another difficult doubles gym leader. For one, the field boosts her all-target Sludge Waves as well as Venusaur's Power Whip. Entry Hazards are all turned into end-of-turn effects: Toxic Spikes and Stealth Rocks will do damage and the former will Poison your Pokemon. With the speedy Nidoqueen and Salazzle, the bulky Toxapex and Dragalge, and Venusaur and Drapion for coverage, her team is well suited to deal with many of the strategies you might think to use. Plus, while you'd immediately think Earthquake is a good answer, the move's damage is quartered on this field, so that's not really an option.
+Aya is another difficult doubles gym leader. For one, the field boosts her all-target Sludge Waves as well as Venusaur's Power Whip. Entry Hazards are all turned into end-of-turn effects: Toxic Spikes and Stealth Rocks will do damage and the former will Poison your Pokémon. With the speedy Nidoqueen and Salazzle, the bulky Toxapex and Dragalge, and Venusaur and Drapion for coverage, her team is well suited to deal with many of the strategies you might think to use. Plus, while you'd immediately think Earthquake is a good answer, the move's damage is quartered on this field, so that's not really an option.
 
-The key to this battle in my experience is letting Toxapex hang out on the left side, especially if you can lower its Special Attack or put it to sleep.  Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. With two moves per turn focusing on the Pokemon to its right, you may be able to preserve momentum long enough to come out on top. For that reason, putting Psychic type attackers, and/or Steel/Poison type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively and the other two neutrally. You can also use your own entry hazard spam, standard doubles strategies like Wide Guard and Protect, or the Telluric seed to boost a sweeper.
+The key to this battle in my experience is letting Toxapex hang out on the left side, especially if you can lower its Special Attack or put it to sleep.  Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. With two moves per turn focusing on the Pokémon to its right, you may be able to preserve momentum long enough to come out on top. For that reason, putting Psychic type attackers, and/or Steel/Poison type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokémon super-effectively and the other two neutrally. You can also use your own entry hazard spam, standard doubles strategies like Wide Guard and Protect, or the Telluric seed to boost a sweeper.
 
 **Relationship Point Choices:**
 - Beat Aya on the first try (+1 Hardy, +1 Fern)

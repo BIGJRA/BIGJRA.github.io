@@ -107,7 +107,7 @@ Starting at the entrance we came in through and working vaguely clockwise, there
 |*Hyper Potion* |$1000  |
 |*Eviolite*     |$20000 |
 
-We can finally buy Ultra Balls! Also, although it's expensive, the Eviolite can turn certain Pokemon like Porygon2 and Dusclops into monsters for this part of the game.
+We can finally buy Ultra Balls! Also, although it's expensive, the Eviolite can turn certain Pokémon like Porygon2 and Dusclops into monsters for this part of the game.
 
 **Agate Circus Pledge Move Tutor**
 
@@ -161,7 +161,7 @@ To the left is another person selling *Ability Capsules* in exchange for 1, then
 |---------------|-------|
 |*Air Balloon*  |$400   |
 
-Next, you'll find an NPC who will change your Pokemon's Hidden Power type in exchange for a Heart Scale. Score another point for Reborn for "actually letting you customize any Pokemon" to let you win with your favorites. Past her is a nickname changer, also obsolete thanks to the party menu.
+Next, you'll find an NPC who will change your Pokémon's Hidden Power type in exchange for a Heart Scale. Score another point for Reborn for "actually letting you customize any Pokémon" to let you win with your favorites. Past her is a nickname changer, also obsolete thanks to the party menu.
 
 To the left is another tile puzzle, which you can play in exchange for 1 Red Shard. This is the solution:
 
@@ -193,7 +193,7 @@ Down from here there are more stores and such.
 
 |Item           |Price  |
 |---------------|-------|
-|*PokeSnax*     |$650   |
+|*PokéSnax*     |$650   |
 
 **Agate Circus Ice Cream Shop**
 
@@ -223,9 +223,9 @@ Next to this you'll find the High Striker. It costs $350 to play each time.
 |Money back     |22%    |
 |Nothing        |62%    |
 
-After you've gotten the grand prize, from then on it will be replaced with getting your money back and winning a *Poke Doll*. After getting Clefairy, you will win an actual *Poke Doll* from then on. There's a secret here too: if you do this with a pokemon with Huge Power, Guts, Pure Power, or Sheer Force at the front of your party, you will always get the jackpot!
+After you've gotten the grand prize, from then on it will be replaced with getting your money back and winning a *Poké Doll*. After getting Clefairy, you will win an actual *Poké Doll* from then on. There's a secret here too: if you do this with a pokemon with Huge Power, Guts, Pure Power, or Sheer Force at the front of your party, you will always get the jackpot!
 
-Once you get a Poke Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*.
+Once you get a Poké Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*.
 
 **Agate Circus Power Items Shop**
 
@@ -283,7 +283,7 @@ Exit the Big Top. You'll notice another tutor on the left side of the circus.
 |Fire Punch         |5 Purple Shards|
 |Ice Punch          |6 Red Shards   |
 
-Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a Cotton Candy, then an Air Balloon, then a Poke Doll. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*.
+Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a Cotton Candy, then an Air Balloon, then a Poké Doll. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*.
 
 ## Clown Indra Fights
 
@@ -545,7 +545,7 @@ Hop across Crustle to go left at the top. Pick up *TM58 Sky Drop* and a hidden *
 |**Cryogonal**     |4  |                  |   |                  |   |
 |**Snorunt**       |4  |                  |   |                  |   |
 
-Without Surf we can't really do much here other than catch some Water and Ice type Pokemon, so head back out onto Route 2.
+Without Surf we can't really do much here other than catch some Water and Ice type Pokémon, so head back out onto Route 2.
 
 Make your way back to the platform with the powder trees by hopping down across two Crustles and going to the left, then hopping your way down and to the right. From the rock with stairs in the bottom right corner, go up and right to hop across to the platform on the right.
 
@@ -579,7 +579,7 @@ Pick up another hidden *Guard Spec.* Down the nearby stairs, you can walk throug
 
 To the right from here, go down and grab hidden *X Sp. Atk* and *Revive*. Can't go further, so head back up to the gate, then go down the stairs below.
 
-Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokeSnax*, and hop your way to the bottom right side of the area. Climb down the stairs on the rock.
+Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokéSnax*, and hop your way to the bottom right side of the area. Climb down the stairs on the rock.
 
 Snag the *Blue Shard* to the left, then get some sleep powder and talk to Crustle up and to the right. We'll need to move it down and right. Precisely:
 
@@ -697,7 +697,7 @@ Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Gra
 |                  |   |                  |   |
 |                  |   |                  |   |
 
-In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokeSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
+In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokéSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 
@@ -740,7 +740,7 @@ Enter the Big Top for a fight.
     - Brick Break
     - Bulldoze
 
-The ringmaster has a team of circus-themed Pokemon that like to use the field effect well! You'll have to watch out for her boosted sound moves like Snarl and Sparkling Aria, as well as Blaziken getting +3 with Swords Dance on top of Speed Boost. If you can manage to not get swept by Blaziken, with some coverage you can probably find a way through this one.
+The ringmaster has a team of circus-themed Pokémon that like to use the field effect well! You'll have to watch out for her boosted sound moves like Snarl and Sparkling Aria, as well as Blaziken getting +3 with Swords Dance on top of Speed Boost. If you can manage to not get swept by Blaziken, with some coverage you can probably find a way through this one.
 
 Enter the circus back room. Once more we can have multiple conversations for relationship points.
 
@@ -793,9 +793,9 @@ Save and talk to Samson when you're ready for a fight.
     - Knock Off
     - Bulk Up
 
-Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight for weeks! For one, 10 of his 24 moves are "high-striker" moves, meaning they get multiplied by a random multiplier between 0.5x and 3x. However, his Hariyama and Conkeldurr are guaranteed high rolls due to their abilities, and any Pokemon with increased attack also has a better chance at high rolls, meaning Synthetic Seed Hawlucha and Blaziken as well as Swords Dance Lucario all get really high rolls! Essentially this means that most of the time you get hit by a high striker move, you are going to be absolutely bodied! On top of this, Lucario's Swords Dance boosts attack by 3 stages per use, and its Acrobatics will hit with 165 base power regardless of item held! With Conkeldurr sitting at 90 total speed to counter Trick Room and Hawlucha with Unburden to outspeed basically anything you have, his team is well suited to deal with all kinds of speed set ups and easily crush your pathetic Pokemon with high striker moves. Thanks to Brick Break, your puny screens will be crushed as well. All in all a tough fight!
+Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight for weeks! For one, 10 of his 24 moves are "high-striker" moves, meaning they get multiplied by a random multiplier between 0.5x and 3x. However, his Hariyama and Conkeldurr are guaranteed high rolls due to their abilities, and any Pokémon with increased attack also has a better chance at high rolls, meaning Synthetic Seed Hawlucha and Blaziken as well as Swords Dance Lucario all get really high rolls! Essentially this means that most of the time you get hit by a high striker move, you are going to be absolutely bodied! On top of this, Lucario's Swords Dance boosts attack by 3 stages per use, and its Acrobatics will hit with 165 base power regardless of item held! With Conkeldurr sitting at 90 total speed to counter Trick Room and Hawlucha with Unburden to outspeed basically anything you have, his team is well suited to deal with all kinds of speed set ups and easily crush your pathetic Pokémon with high striker moves. Thanks to Brick Break, your puny screens will be crushed as well. All in all a tough fight!
 
-Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! If nothing else, notice that what I mentioned about his Lucario's Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you are able to use it (or Nature Power, which becomes it). You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary, all of which are available nearby! There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokemon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... a good combo there for a certain Pokemon. If you are able to get away with boosting yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many crazy things that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like priority moves or Sturdy + Counter for the tricky ones if need be.
+Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! If nothing else, notice that what I mentioned about his Lucario's Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you are able to use it (or Nature Power, which becomes it). You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary, all of which are available nearby! There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokémon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... a good combo there for a certain Pokémon. If you are able to get away with boosting yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many crazy things that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like priority moves or Sturdy + Counter for the tricky ones if need be.
 
 **Relationship Point Choices:**
 - Defeat Samson on your first try (+2 Ciel)
