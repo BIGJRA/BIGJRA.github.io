@@ -11,7 +11,7 @@ class EncounterGetter
     @mapNames = map_names ||= get_map_names(game)
   end
 
-  def get_encounter_md(map_id, enc_type_exclude_list = nil, rods=nil)
+  def get_encounter_md(map_id, enc_type_exclude_list = nil, rods=nil, custom_map_name=nil)
     enc_type_exclude_list ||= []
     rods ||= ["Old", "Good", "Super"]
 
@@ -75,7 +75,7 @@ class EncounterGetter
       
       th = doc.create_element('th', colspan: num_cols)
       bold = doc.create_element('strong')
-      bold.content = "#{map_name} Encounters: #{group}"
+      bold.content = "#{custom_map_name ? custom_map_name : map_name} Encounters: #{group}"
       th.add_child(bold)
       th['class'] = 'table-header'
       th['style'] = 'text-align: center;'

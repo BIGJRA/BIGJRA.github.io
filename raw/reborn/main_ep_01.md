@@ -268,25 +268,13 @@ Back outside, we can actually fish in the dirty water.
 
 !enc(37, ["Headbutt", "Grass"], ["Old"])
 
-**Lower Peridot Ward / Peridot Ward**
-
-|Old Rod           |%  |
-|------------------|---|
-|**Grimer**        |100|
-
 You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy.
 
-**Fisherman Morey. Field: No Field**
-- Goldeen, Lv. 10, Serious Nature, IVs: 10
+!battle(["Morey", :FISHERMAN, 0])
 
 If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
-**Peridot Ward Pool**
-
-|Old Rod           |%  |
-|------------------|---|
-|**Goldeen**       |70 |
-|**Finneon**       |30 |
+!enc(46, [], ["Old"], "Lower Peridot Pool")
 
 Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokémon's nickname from your party!
 
@@ -299,34 +287,17 @@ If it is still a clear daytime, here you'll be able to talk to Teddiursa again, 
 
 Enter the building here and talk to the old man for a battle.
 
-**Elder Seacrest. Field: No Field**
-- Caterpie, Lv. 9, Serious Nature, IVs: 10
-- Wurmple, Lv. 9, Serious Nature, IVs: 10
-- Weedle, Lv. 9, Serious Nature, IVs: 10
+!battle(["Seacrest", :SEACREST, 0])
 
 If you win, you'll be able to enter his garden.
 
-**Lower Peridot Ward / Peridot Ward**
+!enc(37, ["Headbutt", "Fishing"])
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Ledyba**        |30 |**Caterpie**      |30 |Hoothoot          |30 |
-|**Cherubi**       |24 |**Wurmple**       |30 |Spinarak          |24 |
-|**Wurmple**       |20 |**Sunkern**       |30 |**Wurmple**       |20 |
-|**Caterpie**      |20 |**Cherubi**       |10 |**Caterpie**      |20 |
-|**Sunkern**       |6  |                  |   |**Sunkern**       |6  |
+There is a trade for Sunkern we can do later on, so I recommend catching one. The topmost bush in this garden contains a hidden *Grass Gem*.
 
-There is a trade for Sunkern we can do later on, so I recommend catching one.
+Back in the main part of the ward, head to the right. Enter the first building here. You'll find out about an injured Skitty - when we get an Oran Berry we will be back. Head outside and go right.
 
-Next, head to the right. Enter the first building here. You'll find out about an injured Skitty - when we get an Oran Berry we will be back. Head outside and go right.
-
-**Doxy Marigold. Field: No Field**
-- Pikipek, Lv. 5, Serious Nature, IVs: 10
-- Bounsweet, Lv. 7, Serious Nature, IVs: 10
-    - Splash
-    - Play Nice
-    - Rapid Spin
-    - Rapid Spin
+!battle(["Marigold", :Doxy, 0])
 
 Once you beat her, talk to her again for a *Rose Incense*! More hidden items:
 
@@ -343,23 +314,15 @@ Kricketune with its Fury Cutter attack and Technician ability can be incredible 
 
 Back outside, talk to the yellow haired guy for a battle.
 
-**Hotshot Seth. Field: No Field**
-- Wimpod, Lv. 10, Serious Nature, IVs: 10
+!battle(["Seth", :COOLTRAINER_Male, 0])
 
 When you beat him you can access the Lower Peridot Alley.
 
-**Lower Peridot Alley**
-
-|Cave              |%  |
-|------------------|---|
-|**Trubbish**      |60 |
-|**Stunky**        |22 |
-|**Poochyena**     |18 |
+!enc(52)
 
 Poochyena evolves early and can have the Moxie ability, so it can be fantastic in the early game.
 
-**Punk Macy. Field: No Field**
-- Buneary, Lv. 7, Serious Nature, IVs: 10
+!battle(["Macy", :Punk, 0])
 
 There is a *Super Potion* here as well as some hidden items:
 
@@ -372,25 +335,11 @@ During thunderstorms specifically, you'll be able to get **Tynamo** by talking t
 
 Head outside and go to the right under the bridge.
 
-**Street Rat Bob. Field: No Field**
-- Hoppip, Lv. 5, Serious Nature, IVs: 10
-    - Tackle
-    - Synthesis
-    - Tackle
-    - Tackle
-- Glameow, Lv. 5, Ability: Keen Eye, Bashful Nature
-    - Fake Out
-    - Scratch
+!battle(["Bob", :StreetRat, 0])
 
 When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly determined. The second from the right box on the bottom row contains a *Purple Shard*. Head to the right.
 
-**Underground Railnet (Opal Area)**
-
-|Cave              |%  |
-|------------------|---|
-|**Noibat**        |74 |
-|**Woobat**        |20 |
-|Stunky            |6  |
+!enc(41)
 
 Woobat can be pretty solid thanks to its Simple ability, and you can evolve it early with enough friendship.
 
@@ -406,17 +355,13 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 The Ability Capsule will become unobtainable after some more story events, so grab it while you can. In Reborn, you get to choose the Pokémon's target ability when you use one, including hidden abilities.
 
-With the Oran Berry, we can now enter the house immediately on the right back in Lower Peridot Ward to get **Skitty**. Back up from here there are some trainers.
+Choosing to save this Oran Berry for the first gym isn't a bad idea... though we can instead now enter the house immediately on the right back in Lower Peridot Ward to get **Skitty**. Back up from here there are some trainers.
 
-**Youngster Sid. Field: No Field**
-- Hoothoot, Lv. 8, Serious Nature, IVs: 10
+!battle(["Sid", :YOUNGSTER, 0])
 
-**Street Rat Murphy. Field: No Field**
-- Ledyba, Lv. 10, Serious Nature, IVs: 10
+!battle(["Murphy", :StreetRat, 0])
 
-**Youngster Tony. Field: No Field**
-- Kricketot, Lv. 7, Serious Nature, IVs: 10
-- Ekans, Lv. 8, Serious Nature, IVs: 10
+!battle(["Tony", :YOUNGSTER, 0])
 
 Also, another few hidden items:
 
@@ -430,17 +375,13 @@ The in-game trade I mentioned earlier is in the nearby house, but we probably ar
 - (A): *Blue Shard*
 - (B): *Paralyze Heal*
 
-**Street Rat Craig. Field: No Field**
-- Noibat, Lv. 8, Serious Nature, IVs: 10
+!battle(["Craig", :StreetRat, 0])
 
-**Youngster Jackie. Field: No Field**
-- Zigzagoon, Lv. 10, Serious Nature, IVs: 10
+!battle(["Jackie", :YOUNGSTER, 0])
 
-**Youngster Jimmy. Field: No Field**
-- Patrat, Lv. 10, Serious Nature, IVs: 10
+!battle(["Jimmy", :YOUNGSTER, 0])
 
-**Doxy Shawna. Field: No Field**
-- Oddish, Lv. 10, Serious Nature, IVs: 10
+!battle(["Shawna", :Doxy, 0])
 
 Talk to the fountain while it is raining to battle **Surskit**!
 
@@ -458,41 +399,27 @@ Up from here, when the weather is clear or sunny and you have a Rose Incense in 
 
 Enter the top left house when you're ready for a battle with the guy who stole our $500 Pokémon! Not just him though, you gotta fight both him and the initial salesman. What a snake!
 
-**Street Rat Arnie & Fisherman Milhouse. Field: No Field**
-- Fletchling, Lv. 11, Serious Nature, IVs: 10
-- Clauncher, Lv. 11, Serious Nature, IVs: 10
+!battle(["Arnie", :StreetRat, 0], nil, ["Milhouse", :FISHERMAN, 0])
 
 However, they don't actually have our purchased Pokémon, so we'll just have to continue this quest later.
 
 Head down and enter the tall building to your right. Inside, two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them.
 
-**Meteor Grunt Geoff & Meteor Grunt Audrey. Field: No Field**
-- Duskull, Lv. 11, Serious Nature, IVs: 10
-- Cubone, Lv. 11, Serious Nature, IVs: 10
+!battle(["Geoff", :MeteorGrunt, 0], nil, ["Audrey", :MeteorGrunt_090, 0])
 
 Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game; for a reward, you'll need to give it back. So, consider breeding it once we get daycare access if you want to use Wigglytuff.
 
-Anyways, to the right of the tall building you can defeat another blonde haired guy to get access to another alleyway.
+Anyways, head to the right from the tall building where the Team Meteor Grunts were hiding.
 
-**Hotshot Roger. Field: No Field**
-- Sandshrew, Lv. 8, Serious Nature, IVs: 10
-- Diglett, Lv. 9, Serious Nature, IVs: 10
+!battle(["Roger", :COOLTRAINER_Male, 0])
 
-**North Peridot Alley**
+Enter the North Peridot Alleyway behind him.
 
-|Cave              |%  |
-|------------------|---|
-|Trubbish          |45 |
-|Poochyena         |34 |
-|**Purrloin**      |21 |
+!enc(58)
 
-**Street Rat Reginald. Field: No Field**
-- Scatterbug, Lv. 7, Serious Nature, IVs: 10
-- Nidoran F., Lv. 9, Serious Nature, IVs: 10
+!battle(["Reginald", :StreetRat, 0])
 
-**Street Rat Erick. Field: No Field**
-- Weedle, Lv. 9, Serious Nature, IVs: 10
-- Pineco, Lv. 9, Serious Nature, IVs: 10
+!battle(["Erick", :StreetRat, 0])
 
 !img("hidden009.png")
 
@@ -501,31 +428,25 @@ Anyways, to the right of the tall building you can defeat another blonde haired 
 
 Our first *Data Chip* is above. You can use it to add a password at any PC!
 
-Outside, enter the small building to the left and pickup the *Potion*. Outside, head straight to the left. We will traverse this loop clockwise. Enter the first building you come upon. At night, you can catch **Grubbin** or **Joltik**, randomly determined. Note that this will use up one of your snax, so you'll need to buy more to do other snax-related events. Inside the next building to the left is another *Common Candy*.
+Head outside. Enter the small building to the left and pickup the *Potion*. 
 
-**Street Rat Charlie. Field: No Field**
-- Salandit, Lv. 10, Serious Nature, IVs: 10
+Outside, head straight to the left. We will traverse this loop clockwise. Enter the first building you come upon. At night, you can catch **Grubbin** or **Joltik**, randomly determined. Note that this will use up one of your snax, so you'll need to buy more to do other snax-related events. Inside the next building to the left is another *Common Candy*.
+
+!battle(["Charlie", :StreetRat, 0])
 
 To the left is a Pokémart. The "Default Shops" in this game operate similarly to main Pokémon game shops in that they update their inventory based on how many badges you have - the Peridot Ward shop will have the same inventory as the Grand Hall shop until we get a badge, then they will both upgrade, for example.
 
 Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money.
 
-**Youngster Marshall. Field: No Field**
-- Surskit, Lv. 12, Serious Nature, IVs: 10
+!battle(["Marshall", :YOUNGSTER, 0])
 
 In the building up and left from here, you can talk to a guy to get a *Common Candy*. Outside, during clear or sunny days, there is a shop.
 
-**Peridot Ward Snax Shop**
-
-|Item       |Price      |
-|-----------|-----------|
-|*PokéSnax* |$650       |
+!shop("Peridot Ward Snax Shop", ["PokéSnax"])
 
 If you use up your PokéSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
 
-**Punk Trill. Field: No Field**
-- Spinarak, Lv. 9, Serious Nature, IVs: 10
-- Cutiefly, Lv. 9, Serious Nature, IVs: 10
+!battle(["Trill", :Punk, 0])
 
 !img("hidden010.png")
 
@@ -539,43 +460,17 @@ If you use up your PokéSnax and need more, this is the place. Head to the right
 
 When you're ready, talk to the green haired guy for a battle.
 
-**Swag Jockey Fern (Potion). Field: No Field**
-- Budew, Lv. 13, @Oran Berry, Ability: Poison Point, IVs: 10
-    - Mega Drain
-    - Natural Gift
-    - Stun Spore
-    - Covet
-- Sandile, Lv. 13, Ability: Moxie, IVs: 10
-    - Power Trip
-    - Snatch
-    - Rage
-    - Sand Tomb
-- Rowlet, Lv. 14, Ability: Overgrow, IVs: 15
-    - Leafage
-    - Peck
-    - Ominous Wind
-    - Confuse Ray
+!battle(["Fern", :Hotshot, 0])
 
 This one is a bit harder than the first two rival fights! Watch out for his Budew, who likes to heal, and his Sandile who can rip through your team of six thanks to Moxie if you're not careful. His Rowlet also may juggernaut with a couple of Ominous Wind boosts, so be cautious of those as well. The Delibird we got earlier can shine in this battle (and arguably only this battle...)!
 
 Around this time, your Zigzagoon/Bidoof will be able to learn Headbutt, so there are a few Pokémon you can now obtain. First, head to the garden:
 
-**Lower Peridot Ward / Peridot Ward**
-
-|Headbutt          |%  |
-|------------------|---|
-|**Swablu**        |55 |
-|**Burmy**         |45 |
+!enc(37, ["Grass", "Fishing"])
 
 Note that we will eventually want a Mothim for an in-game trade, so ensure you catch a Male Burmy at some point. Next, head back to Opal Ward.
 
-**Opal Ward**
-
-|Headbutt          |%  |
-|------------------|---|
-|**Pineco**        |40 |
-|**Spearow**       |30 |
-|**Combee**        |30 |
+!enc(29, ["Grass"])
 
 Now is a good time to finish the Teddiursa quest if you haven't already. Keep in mind this has to be done on a clear day. After talking to it in the bottom part of the Lower Peridot Ward and then again on the left side near the Name Rater's house, you'll need to find it three more times. It can be found in one of the following locations, then will be found in the two after it in the list (cyclically).
 
@@ -611,35 +506,27 @@ However, talking to your partner while they're walking with you tends to have po
 
 Partners also fully heal your team after every battle, which can be useful for grinding.
 
+!battle(["Fern", :Hotshot, 3], nil, nil, true)
+
 Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. Start by going left.
 
-**Meteor Grunt Mary & Meteor Grunt Coleman. Field: Factory Field**
-- Roggenrola, Lv. 13, Serious Nature, IVs: 10
-- Bounsweet, Lv. 13, Serious Nature, IVs: 10
+!battle(["Mary", :MeteorGrunt_090, 0], "Factory Field", ["Coleman", :MeteorGrunt, 0])
 
 Across the bridge, you'll see one flashing terminal: XX7X. Continue up from here.
 
-**Meteor Grunt Hilda & Meteor Grunt Ricardo. Field: Factory Field**
-- Zubat, Lv. 12, Serious Nature, IVs: 10
-- Aron, Lv. 12, Serious Nature, IVs: 10
+!battle(["Hilda", :MeteorGrunt_090, 0], "Factory Field", ["Ricardo", :MeteorGrunt, 0])
 
 In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later. Head right.
 
-**Meteor Grunt Sanchez & Meteor Grunt Devin. Field: Factory Field**
-- Tympole, Lv. 12, Serious Nature, IVs: 10
-- Geodude-Alola, Lv. 12, Serious Nature, IVs: 10
+!battle(["Sanchez", :MeteorGrunt, 0], "Factory Field", ["Devin", :MeteorGrunt, 0])
 
 A terminal to the right shows 3XXX. Down from here are more grunts.
 
-**Meteor Grunt Bruno & Meteor Grunt Ray. Field: Factory Field**
-- Lillipup, Lv. 12, Serious Nature, IVs: 10
-- Rattata-Alola, Lv. 12, Serious Nature, IVs: 10
+!battle(["Bruno", :MeteorGrunt, 0], "Factory Field", ["Ray", :MeteorGrunt, 0])
 
 Head to the top right corner of the room to fight more grunts.
 
-**Meteor Grunt Simon & Meteor Grunt Tara. Field: Factory Field**
-- Grimer-Alola, Lv. 13, Serious Nature, IVs: 10
-- Zubat, Lv. 12, Serious Nature, IVs: 10
+!battle(["Simon", :MeteorGrunt, 0], "Factory Field", ["Tara", :MeteorGrunt_090, 0])
 
 Read the nearby terminal, which shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
 
@@ -648,27 +535,19 @@ Read the nearby terminal, which shows XXX9. Read the other two terminals nearby 
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right and cross the bridge.
 
-**Meteor Grunt Winter & Meteor Grunt Michaela. Field: Factory Field**
-- Beldum, Lv. 12, Serious Nature, IVs: 10
-- Stunky, Lv. 12, Serious Nature, IVs: 10
+!battle(["Winter", :MeteorGrunt, 0], "Factory Field", ["Michaela", :MeteorGrunt_090, 0])
 
 Interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity.
 
-**Meteor Grunt Demian & Meteor Grunt Antoine. Field: Factory Field**
-- Venonat, Lv. 12, Serious Nature, IVs: 10
-- Poochyena, Lv. 12, Serious Nature, IVs: 10
+!battle(["Demian", :MeteorGrunt, 0], "Factory Field", ["Antoine", :MeteorGrunt, 0])
 
 In this room, use the terminal to discover the hint X8XX. Back outside, go left.
 
-**Meteor Grunt Janis & Meteor Grunt Grant. Field: Factory Field**
-- Minior, Lv. 13, Serious Nature, IVs: 10
-- Crabrawler, Lv. 13, Serious Nature, IVs: 10
+!battle(["Janis", :MeteorGrunt_090, 0], "Factory Field", ["Grant", :MeteorGrunt, 0])
 
 In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in.
 
-**Meteor Grunt Rod & Meteor Grunt Ringo. Field: Factory Field**
-- Solrock, Lv. 13, Serious Nature, IVs: 10
-- Lunatone, Lv. 13, Serious Nature, IVs: 10
+!battle(["Rod", :MeteorGrunt, 0], "Factory Field", ["Ringo", :MeteorGrunt, 0])
 
 Pickup the explosives! Back in the central room, choose which of the two characters to talk to.
 
@@ -678,17 +557,7 @@ Pickup the explosives! Back in the central room, choose which of the two charact
 
 Either way, head in to the room at the top when you're ready for a fight.
 
-**Meteor Private Aster & Meteor Private Eclipse. Field: Factory Field**
-- Rockruff, Lv. 16, Ability: Steadfast, IVs: 31
-    - Thunder Fang
-    - Howl
-    - Bite
-    - Rock Throw
-- Rockruff, Lv. 16, Ability: Vital Spirit, IVs: 31
-    - Fire Fang
-    - Howl
-    - Bite
-    - Rock Throw
+!battle(["Aster", :AsterKnight, 1], "Factory Field", ["Eclipse", :EclipseDame, 1])
 
 Depending on what Pokémon you have this can be a bit difficult since they like to one-shot Fern's Budew, but your sheer numbers can probably overwhelm them regardless.
 
@@ -705,114 +574,70 @@ Go to the factory area where we first met Fern, and talk to the scientist guy on
 
 Head down and talk to the purple haired guy above the destroyed train station. A hotshot will steal his painkillers! Follow him inside the North Peridot Alley, where you can fight him.
 
-**Hotshot Stiles. Field: No Field**
-- Timburr, Lv. 15, Serious Nature, IVs: 10
-- Baltoy, Lv. 15, Serious Nature, IVs: 10
-- Skiploom, Lv. 16, Serious Nature, IVs: 10
+!battle(["Stiles", :COOLTRAINER_Male, 0])
 
-Return to the guy who will give you 5 *Exp. Candy S*. Nice.
+Return to the purple haired guy in Lower Peridot, who will give you 5 *Exp. Candy S*. Nice.
 
 ## Grand Hall Trainers 1
 
 Now is a good time to mention the Grand Hall repeatable grinding trainers in the top right corner. Each day of the week, different trainers will be available for grinding. At set points in the game, the trainers will get stronger and their rewards better. For now, each trainer will give you 2 *Exp. Candy S* when you defeat them, useful for bringing your levels up. The game will also heal your party after defeating one to save time! The trainers are as follows:
 
-**Arcade Star Carol (SUN). Field: No Field**
-- Totodile, Lv. 10, Serious Nature, IVs: 10
-- Sentret, Lv. 10, Serious Nature, IVs: 10
-- Chikorita, Lv. 10, Serious Nature, IVs: 10
+**Sunday:**
 
-**Hotshot Fawkes (SUN). Field: No Field**
-- Froakie, Lv. 14, Serious Nature, IVs: 10
+!battle(["Carol", :COOLTRAINER_Female, 3])
 
-**Casanova Gibson (SUN). Field: No Field**
-- Kabuto, Lv. 14, Serious Nature, IVs: 10
+!battle(["Gibson", :Casanova, 3])
 
-**Youngster Jonah (MON). Field: No Field**
-- Squirtle, Lv. 14, Docile Nature, IVs: 15
+**Monday:**
 
-**Hotshot Jace (TUE). Field: No Field**
-- Drifloon, Lv. 12, Serious Nature, IVs: 10
+!battle(["Jonah", :YOUNGSTER, 3])
 
-**Psychic Silva (WED). Field: No Field**
-- Natu, Lv. 12, Serious Nature, IVs: 10
+**Tuesday:**
 
-**Elder JB (THU). Field: No Field**
-- Froakie, Lv. 11, Serious Nature, IVs: 10
-- Fennekin, Lv. 11, Serious Nature, IVs: 10
+!battle(["Jace", :COOLTRAINER_Male, 3])
 
-**Techie Will (FRI). Field: No Field**
-- Treecko, Lv. 10, Serious Nature, IVs: 10
-- Charmander, Lv. 10, Serious Nature, IVs: 10
+**Wednesday:**
 
-**Elder Anthony (SAT). Field: No Field**
-- Rufflet, Lv. 12, Serious Nature, IVs: 10
+!battle(["Silva", :PSYCHIC_Male, 3])
 
-**Hotshot Emile (SAT). Field: No Field**
-- Nidoran M., Lv. 14, Serious Nature, IVs: 10
+**Thursday:**
 
-**Casanova Zach & Lady Beau (SAT). Field: No Field**
-- Bulbasaur, Lv. 11, Serious Nature, IVs: 10
-- Solosis, Lv. 12, Serious Nature, IVs: 10
-- Jigglypuff, Lv. 12, Serious Nature, IVs: 10
-- Togepi, Lv. 12, Serious Nature, IVs: 10
+!battle(["JB", :EXPERT_Male, 3])
+
+**Friday:**
+
+!battle(["Will", :TechNerd, 3])
+
+**Saturday:**
+
+!battle(["Anthony", :EXPERT_Male, 3])
+
+!battle(["Emile", :COOLTRAINER_Male, 3])
+
+!battle(["Zach", :Casanova, 3], nil, ["Beau", :LADY, 3])
 
 Use the trainers as you'd like to prepare for the gym.
 
-By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 15. If so, head into the house across from Mosswater to do an in-game trade for **Munna**!
+By now hopefully you've been able to evolve your Bidoof into **Bibarel** at Lv. 15. If so, head into the house across from Mosswater, in Upper Peridot, to do an in-game trade for **Munna**!
 
 ## Volt Badge
 
 Enter the Neo-Circuit Power-Plant gym when you're ready. The puzzle is simple: beat a trainer, talk to Voltorb, talk to the metal grate standing in your way.
 
-**Techie Ivan. Field: Factory Field**
-- Voltorb, Lv. 11, Serious Nature, IVs: 10
-- Voltorb, Lv. 11, Serious Nature, IVs: 10
+!battle(["Ivan", :TechNerd, 0], "Factory Field")
 
-**Techie Bill. Field: Factory Field**
-- Mareep, Lv. 14, Serious Nature, IVs: 10
+!battle(["Bill", :TechNerd, 0], "Factory Field")
 
-**Hotshot Lennon. Field: Factory Field**
-- Shinx, Lv. 12, Serious Nature, IVs: 10
+!battle(["Lennon", :COOLTRAINER_Male, 0], "Factory Field")
 
-**Techie Yan. Field: Factory Field**
-- Tynamo, Lv. 14, Serious Nature, IVs: 10
+!battle(["Yan", :TechNerd, 0], "Factory Field")
 
 Study the Electric Terrain Field Notes and talk to the gym leader when you're ready.
 
-**Cheer Captain Julia (2x Potion). Field: Electric Terrain.**
-- Minun, Lv. 12, Ability: Minus, Modest Nature, IVs: 10
-    - Nuzzle
-    - Charge Beam
-    - Encore
-    - Quick Attack
-- Geodude-Alola, Lv. 12, Ability: Galvanize, Adamant Nature, IVs: 20
-    - Self-Destruct
-    - Tackle
-    - Charge
-    - Rollout
-- Voltorb, Lv. 12, Ability: Aftermath, Adamant Nature, IVs: 20
-    - Explosion
-    - Rollout
-    - Charge Beam
-    - Sonic Boom
-- Plusle, Lv. 13, Ability: Lightning Rod, Modest Nature, IVs: 10
-    - Nuzzle
-    - Charge Beam
-    - Encore
-    - Quick Attack
-- Oricorio-Pom-Pom, Lv. 14, Ability: Dancer, Quirky Nature, IVs: 10
-    - Work Up
-    - Tailwind
-    - Pound
-    - Air Cutter
-- Electrode, Lv. 15, Ability: Aftermath, Bashful Nature, IVs: 24
-    - Charge Beam
-    - Sonic Boom
-    - Rollout
-    - Charge
+!battle(["Julia", :JULIA, 0], "Electric Terrain")
 
-Pokémon Reborn's first gym leader comes in pretty hot. You'll notice that she mostly uses two strategies across her team: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your Lv. 20 and under Pokémon quickly with Sonic Boom. Her Electrode is very fast, and can employ both of these strategies effectively and then take out a chunk of your HP on the way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
+Pokémon Reborn's first gym leader is live! Julia's team centers around two strategies: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your low maximum-HP Pokemon quickly with Sonic Boom. Her Electrode is very fast, and can employ both of these strategies effectively and then take out another chunk of HP on its way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio is on the team for coverage: it can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
 
-Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. Reborn doesn't always force you to keep the default field around, however: if you have Zigzagoon, you can use Mud Sport to destroy the field, making things a bit more even for you.
+Luckily, the team isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. *Reborn doesn't always force you to keep the default field around*, however: if you have Zigzagoon, you can use Mud Sport to destroy the Electric Terrain field entirely!
 
 Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokémon Reborn!

@@ -47,8 +47,9 @@ class ShopGetter
       content_row.add_child(td_item)
     
       # Column 2: Price
+      price = price_overrides[position].nil? ? @price_lookup[item] : price_overrides[position]
       td_price = doc.create_element('td', style: 'text-align: center')
-      td_price.content = "$#{!price_overrides[position].nil? ? @price_lookup[item] : price_overrides[position].nil?}"
+      td_price.content = "$#{price}"
       content_row.add_child(td_price)
     end
 
@@ -72,6 +73,8 @@ end
 def main
   e = ShopGetter.new('reborn')
   puts e.generate_shop_markdown("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
+  puts e.generate_shop_markdown("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"], [1,2,nil,4])
+
 end
 
 main if __FILE__ == $PROGRAM_NAME
