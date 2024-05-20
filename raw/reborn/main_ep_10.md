@@ -482,11 +482,7 @@ Grab the hidden *Dire Hit* and *Big Mushroom*. If you go up and left, "To C" on 
 
 A Pikachu on the ground floor is actually a tutor.
 
-**Nyu's Pikachu Move Tutor**
-
-| Move      |Price  |
-|-----------|-------|
-|Volt Tackle|Free   |
+!tutor("Nyu's Pikachu Move Tutor", ["Volt Tackle"], ["Free"])
 
 Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokémon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*.
 

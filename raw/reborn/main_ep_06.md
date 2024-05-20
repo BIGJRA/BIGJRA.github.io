@@ -276,14 +276,7 @@ Pick up a hidden *Guard Spec.* Now we are going to enter the six doors in this a
 
 Enter the area at the top, then go up the stairs. Talk to every NPC here and agree to study with those who ask. One is a tutor.
 
-**Apophyll Academy Move Tutor**
-
-|Move       |Price          |
-|-----------|---------------|
-|Gastro Acid|1 Blue Shard   |
-|Recycle    |2 Purple Shards|
-|Endeavor   |3 Green Shards |
-|Pain Split |3 Red Shards   |
+!tutor("Apophyll Academy Move Tutor", ["Gastro Acid", "Recycle", "Endeavor", "Pain Split"], ["1 Blue Shard", "2 Purple Shards", "3 Green Shards", "3 Red Shards"])
 
 Head out the door on the bottom right, then walk across the roof. In the next room, talk to the NPCs again and study with them. Head out the door to the left, and talk to the girl on the roof to get **Meditite**.
 

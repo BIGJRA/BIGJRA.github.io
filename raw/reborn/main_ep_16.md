@@ -168,23 +168,9 @@ Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*,
 
 In the plot of the former Mosswater Factory there is now a market.
 
-**Mosswater Market Move Tutor: Max**
+!tutor("Mosswater Market Move Tutor: Max", ["Aqua Tail", "Icy Wind", "Signal Beam", "Throat Chop"], ["5 Blue Shards", "6 Green Shards", "5 Purple Shards", "6 Red Shards"])
 
-|Move               |Price          |
-|-------------------|---------------|
-|Aqua Tail          |5 Blue Shards  |
-|Icy Wind           |6 Green Shards |
-|Signal Beam        |5 Purple Shards|
-|Throat Chop        |6 Red Shards   |
-
-**Mosswater Market Move Tutor: Myles**
-
-|Move               |Price          |
-|-------------------|---------------|
-|Drain Punch        |6 Blue Shards  |
-|Tailwind           |7 Green Shards |
-|Zen Headbutt       |5 Purple Shards|
-|Stealth Rock       |7 Red Shards   |
+!tutor("Mosswater Market Move Tutor: Myles", ["Drain Punch", "Tailwind", "Zen Headbutt", "Stealth Rock"], ["6 Blue Shards", "7 Green Shards", "5 Purple Shards", "7 Red Shards"])
 
 There is also a guy selling a new item that will allow you to move all EV's from one stat into another.
 
@@ -444,14 +430,7 @@ Enter Lapis Alleyway next. Inside, you'll find more soil containing *4 Rowap Ber
 
 Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokémon earlier.
 
-**Seventh Street Pokémon Seller Move Tutor**
-
-|Move               |Price          |
-|-------------------|---------------|
-|Knock Off          |8 Red Shards   |
-|Iron Head          |7 Purple Shards|
-|Giga Drain         |6 Green Shards |
-|Liquidation        |6 Blue Shards  |
+!tutor("Seventh Street Pokémon Seller Move Tutor", ["Knock Off", "Iron Head", "Giga Drain", "Liquidation"], ["8 Red Shards", "7 Purple Shards", "6 Green Shards", "6 Blue Shards"])
 
 Enter the watering hole and go down the now-open ladder. This is a shortcut to the Water Treatment Center and also contains a *Black Flute*.
 

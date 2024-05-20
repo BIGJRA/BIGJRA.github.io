@@ -76,41 +76,13 @@ Wander around the area and defeat all the trainers. Top to bottom:
 
 Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you one for first 1, then 2, and from then on 3 shards of a random color. Useful! Up and to the right we'll find a couple of tutors.
 
-**Seventh Street Upper-right Move Tutor Top**
+!tutor("Seventh Street Move Tutor 1", ["Role Play", "Covet", "Electroweb", "Sky Attack"], ["1 Purple Shard", "3 Blue Shards", "3 Green Shards", "2 Red Shards"])
 
-|Move           |Price          |
-|---------------|---------------|
-|Role Play      |1 Purple Shard |
-|Covet          |3 Blue Shards  |
-|Electroweb     |3 Green Shards |
-|Sky Attack     |2 Red Shards   |
+!tutor("Seventh Street Move Tutor 2", ["Trick", "Defog", "Laser Focus", "Skill Swap"], ["2 Purple Shards", "2 Red Shards", "1 Blue Shard", "1 Green Shard"])
 
-**Seventh Street Upper-right Move Tutor Bottom**
+!tutor("Seventh Street Move Tutor 3", ["Water Pulse", "Last Resort", "Super Fang", "Shock Wave"], ["3 Blue Shards", "2 Purple Shards", "3 Green Shards", "3 Red Shards"])
 
-|Move           |Price          |
-|---------------|---------------|
-|Trick          |2 Purple Shards|
-|Defog          |2 Red Shards   |
-|Laser Focus    |1 Blue Shard   |
-|Skill Swap     |1 Green Shard  |
-
-**Seventh Street Middle Move Tutor Top**
-
-|Move           |Price          |
-|---------------|---------------|
-|Water Pulse    |3 Blue Shards  |
-|Last Resort    |2 Purple Shards|
-|Super Fang     |3 Green Shards |
-|Shock Wave     |3 Red Shards   |
-
-**Seventh Street Middle Move Tutor Bottom**
-
-|Move           |Price          |
-|---------------|---------------|
-|Headbutt       |3 Blue Shards  |
-|Bounce         |3 Purple Shards|
-|Heal Bell      |4 Green Shards |
-|Bug Bite       |3 Red Shards   |
+!tutor("Seventh Street Move Tutor 4", ["Headbutt", "Bounce", "Heal Bell", "Bug Bite"], ["3 Blue Shards", "3 Purple Shards", "4 Green Shards", "3 Red Shards"])
 
 None of these are mindblowing, but some of them can be useful for certain strategies. As usual, these are pay once, relearn forever.
 

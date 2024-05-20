@@ -166,13 +166,7 @@ You can enter the Alleyway towards the middle of the ward, but we won't talk to 
 
 Enter the building in the middle of the top row of buildings, just to the left of the gym. The guy inside will teach your starter the pledge moves for some shards.
 
-**Lapis Ward Pledge Move Tutor**
-
-|Move           |Price          |
-|---------------|---------------|
-|Grass Pledge   |3 Green Shards |
-|Fire Pledge    |3 Red Shards   |
-|Water Pledge   |3 Blue Shards  |
+!tutor("Lapis Ward Move Tutor", ["Grass Pledge", "Fire Pledge", "Water Pledge"], ["3 Green Shards", "3 Red Shards", "3 Blue Shards"])
 
 Enter the flower shop on the left side of the ward. Someone inside will give you the *Wailmer Pail*. In the top left corner, you can complete a puzzle to get **Spritzee**! The completed puzzle looks like this:
 

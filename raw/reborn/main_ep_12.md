@@ -109,13 +109,7 @@ Starting at the entrance we came in through and working vaguely clockwise, there
 
 We can finally buy Ultra Balls! Also, although it's expensive, the Eviolite can turn certain Pokémon like Porygon2 and Dusclops into monsters for this part of the game.
 
-**Agate Circus Pledge Move Tutor**
-
-|Move           |Price          |
-|---------------|---------------|
-|Grass Pledge   |3 Green Shards |
-|Fire Pledge    |3 Red Shards   |
-|Water Pledge   |3 Blue Shards  |
+!tutor("Agate Circus Pledge Move Tutor", ["Grass Pledge", "Fire Pledge", "Water Pledge"], ["3 Green Shards", "3 Red Shards", "3 Blue Shards"])
 
 We had access to this in Lapis, but here's one for this section of the game if you need it. There's a Move Relearner in the bottom right corner, again doing it for one Heart Scale per move.
 
@@ -169,23 +163,9 @@ To the left is another tile puzzle, which you can play in exchange for 1 Red Sha
 
 Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
-**Agate Circus Move Tutor Bottom**
+!tutor("Agate Circus Move Tutor (Bottom)", ["Uproar", "Hyper Voice", "Stomping Tantrum", "Low Kick"], ["3 Blue Shards", "5 Green Shards", "4 Purple Shards", "6 Red Shards"])
 
-|Move               |Price          |
-|-------------------|---------------|
-|Uproar             |3 Blue Shards  |
-|Hyper Voice        |5 Green Shards |
-|Stomping Tantrum   |4 Purple Shards|
-|Low Kick           |6 Red Shards   |
-
-**Agate Circus Move Tutor Top**
-
-|Move               |Price          |
-|-------------------|---------------|
-|Iron Tail          |4 Blue Shards  |
-|Focus Punch        |3 Green Shards |
-|Drill Run          |4 Purple Shards|
-|Synthesis          |3 Red Shards   |
+!tutor("Agate Circus Move Tutor (Top)", ["Iron Tail", "Focus Punch", "Drill Run", "Synthesis"], ["4 Blue Shards", "3 Green Shards", "4 Purple Shards", "3 Red Shards"])
 
 Down from here there are more stores and such.
 
@@ -274,14 +254,7 @@ While we're in the big top, if you talk to a clown in the audience, they'll figh
 
 Exit the Big Top. You'll notice another tutor on the left side of the circus.
 
-**Agate Circus Fake Samson Move Tutor**
-
-|Move               |Price          |
-|-------------------|---------------|
-|Dual Chop          |4 Blue Shards  |
-|Thunder Punch      |5 Green Shards |
-|Fire Punch         |5 Purple Shards|
-|Ice Punch          |6 Red Shards   |
+!tutor("Agate Circus Fake Samson Move Tutor", ["Dual Chop", "Thunder Punch", "Fire Punch", "Ice Punch"], ["4 Blue Shards", "5 Green Shards", "5 Purple Shards", "6 Red Shards"])
 
 Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a Cotton Candy, then an Air Balloon, then a Poké Doll. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*.
 

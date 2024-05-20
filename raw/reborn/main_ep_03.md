@@ -29,8 +29,6 @@ Now that we have 2 badges, the Pokémarts and candy store have updated inventory
 |*Exp. Candy S*     |$2000      |
 |*Rare Candy*       |$12000     |
 
-Head to Obsidia Park. While it's sunny outside and you have snax in your bag, you can catch a stationary **Petilil**!
-
 Head into the Obsidia Slums. Nearby where we first entered on the first floor, you'll see a doctor talking to a child. Talk to him to get the *Itemfinder*! Note that this is a limited time event, so if you don't want to have to wait until we get four more badges to get the Itemfinder, act now! Since I assume you can use the itemfinder now, going forward in this guide, I will not describe exact locations of hidden items. You'll also find an *Exp. Candy M* here.
 
 Head left and take the elevator down to B1F. Immediately head left and go up, following the path. If you have snax in your bag, you can catch **Makuhita**!
@@ -384,11 +382,7 @@ Back in the Underroot, take the path up from here and cut the wiggly tree. Take 
 
 Follow the path all the way down and to the right. Inside a house here is a lady. She will tutor us a pretty good move... but only if you have a Grass type starter. Since Grass type starters kinda suck compared to Fire type and Water type starters, here's a bit of compensation.
 
-**Rhodochrine Jungle Move Tutor (If you chose a Grass type Starter)**
-
-|Move       |Price|
-|-----------|-----|
-|Giga Drain |Free |
+!tutor("Rhodochrine Move Tutor (Grass-type Starter Only)", ["Giga Drain"], ["Free"])
 
 Before we leave this section of jungle, there is a broken building with some lights on to the left.
 
