@@ -70,7 +70,9 @@ h1 {
 }
 
 h2 {
+  padding-bottom: 10px;
   font-size: 30px;
+  background-image: url('/static/images/bg_hr.png')
 }
 
 h3 {
@@ -471,7 +473,7 @@ table img {
 }
 
 table {
-    width: 90%;
+    width: 100%;
     overflow-x: auto
 }
 
