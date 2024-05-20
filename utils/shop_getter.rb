@@ -10,7 +10,7 @@ class ShopGetter
     @price_lookup = load_price_lookup()
   end
 
-  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil)
+  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil, bold_items=nil)
     price_overrides ||= [nil] * shop_items.length
 
     # Creates nokogiri HTML
@@ -43,13 +43,20 @@ class ShopGetter
       
       # Column 1: Item Name (italicized)
       td_item = doc.create_element('td', style: 'text-align: center')
-      td_item.add_child(doc.create_element('em', content=item))
+      if bold_items
+        td_item.add_child(doc.create_element('strong', content=item))
+      else
+        td_item.add_child(doc.create_element('em', content=item))
+      end
       content_row.add_child(td_item)
     
       # Column 2: Price
       price = price_overrides[position].nil? ? @price_lookup[item] : price_overrides[position]
+      if price_overrides[position].nil? || price_overrides[position].is_a?(Integer)
+        price = "$#{price}"
+      end
       td_price = doc.create_element('td', style: 'text-align: center')
-      td_price.content = "$#{price}"
+      td_price.content = price
       content_row.add_child(td_price)
     end
 
