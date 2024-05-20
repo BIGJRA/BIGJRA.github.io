@@ -145,7 +145,11 @@ class EncounterGetter
         types.each do |encounter_type|
         # [:LandMorning, :LandDay, :LandNight].each do |encounter_type|
           td_encounter_type = doc.create_element('td', style: 'text-align: center')
-          td_encounter_type.content = mon_data[encounter_type].to_s + "%"
+          if mon_data[encounter_type] == 0
+            td_encounter_type.content = "--"
+          else
+            td_encounter_type.content = mon_data[encounter_type].to_s + "%"
+          end
           tr.add_child(td_encounter_type)
         end
 
