@@ -38,7 +38,8 @@ class FunctionWrapper
       "shop" => "generate_shop_markdown",
       "battle" => "generate_trainer_markdown",
       "mine" => "generate_mining_markdown",
-      "wildheld" => "generate_wild_held_markdown"
+      "wildheld" => "generate_wild_held_markdown",
+      "tutor" => "generate_tutor_markdown"
     }
 
   end
@@ -188,19 +189,59 @@ class FunctionWrapper
     
   end
   
-
   def generate_encounter_markdown(map_id, enc_type_exclude_list = nil, rods=nil, custom_map_name=nil)
     return @encGetter.get_encounter_md(map_id, enc_type_exclude_list, rods, custom_map_name)
   end
 
-  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil)
-    return @shopGetter.generate_shop_markdown(shop_title, shop_items, price_overrides)
+  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil, bold_items=nil)
+    return @shopGetter.generate_shop_markdown(shop_title, shop_items, price_overrides, bold_items)
   end
 
   def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
     return @trainerGetter.generate_trainer_markdown(trainer_id, field, second_trainer_id, is_partner)
   end
 
+  def generate_tutor_markdown(tutor_title, moves, prices)
+    # Creates nokogiri HTML
+    doc = Nokogiri::HTML::Document.new
+    div = doc.create_element('div', class: 'tutor_table')
+    doc.add_child(div)
+
+    table = doc.create_element('table')
+    div.add_child(table)
+
+    # Creates the header for the table
+    thead = doc.create_element('thead')
+    table.add_child(thead)
+    
+    table_header = doc.create_element('th', colspan: 2)
+    thead.add_child(table_header)
+
+    bold = doc.create_element('strong')
+    bold.content = tutor_title
+    table_header.add_child(bold)
+    table_header['class'] = 'table-header'
+    table_header['style'] = 'text-align: center;'
+    
+    moves.zip(prices).each do |move, price|
+
+      content_row = doc.create_element('tr')
+      table.add_child(content_row)
+
+      # Column 1: Move Name (bolded)
+      td_move = doc.create_element('td', style: 'text-align: center')
+      td_move.add_child(doc.create_element('strong', content=move))
+      content_row.add_child(td_move)
+      
+      # Column 2: Mon List With Prob
+      td_price = doc.create_element('td', style: 'text-align: center')
+      td_price.content = price
+      content_row.add_child(td_price)
+    end
+
+    html_output = doc.to_html 
+    return html_output.split("\n")[1..].join("\n")
+  end
 end
 
 
