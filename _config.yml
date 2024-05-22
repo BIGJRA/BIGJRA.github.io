@@ -67,5 +67,3 @@ exclude:
 
 # Local scripts directory: Needed to generate content. Replace as necessary if this moves.
 scripts_dir: "C:/Users/jakes/reborn/Scripts"
-reborn_dir: "C:/Users/jakes/reborn"
-rejuv_dir: "" # TODO

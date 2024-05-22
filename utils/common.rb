@@ -8,7 +8,6 @@ CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, "_config.yml")))
 
 SCRIPTS_DIR = CONFIG['scripts_dir']
 
-GAME_DIRS = {"reborn" => CONFIG['reborn_dir'], "rejuv" => CONFIG['rejuv_dir']}
 SECTIONS = {"reborn" => [["main", 19], ["post", 9], ["appendices", 1]], "rejuv" => [["main", 15]]}
 
 
