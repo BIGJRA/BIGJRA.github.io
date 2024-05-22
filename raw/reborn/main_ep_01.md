@@ -640,4 +640,4 @@ Pokémon Reborn's first gym leader is live! Julia's team centers around two stra
 
 Luckily, the team isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. *Reborn doesn't always force you to keep the default field around*, however: if you have Zigzagoon, you can use Mud Sport to destroy the Electric Terrain field entirely!
 
-Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokémon Reborn!
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing Episode 1 of Pokémon Reborn!

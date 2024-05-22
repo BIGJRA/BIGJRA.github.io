@@ -143,7 +143,7 @@ The jungle is huge, so I explain the results of this choice first, guide both ro
 
 ### Cage Trap Route
 
-If you were trapped in a cage, read on, otherwise, jump to the next section.
+If you were trapped in a cage, read on, otherwise, [jump to the next section](#snuck-around-route).
 
 Roughly, you'll want to follow the blue path in the following image:
 
@@ -174,7 +174,7 @@ Head east from here, and go slightly south once you reach a Meteor Grunt. Contin
 
 ### Snuck Around Route
 
-If you managed to carefully sneak around the grunts, read on, otherwise jump to the next section.
+If you managed to carefully sneak around the grunts, read on, otherwise [jump to the next section](#exploring-the-jungle).
 
 Head up the stairs on the right, and you'll find Fern.
 
@@ -185,7 +185,7 @@ The building to your right is a healing house, should you need it.
 
 ### Exploring the Jungle
 
-Now, regardless of your choice you should be in the same place, nearby the healing house, so we can continue.
+All players following along should now be in the same place: next to the healing house.
 
 !img("rhodo1.png")
 
@@ -195,13 +195,9 @@ Itemfind here for an *Exp. Candy S* then head down the hill, pick up hidden *Ful
 
 Head back up and go left. Here you'll see a gentleman.
 
-**Gentleman Ben. Field: Forest Field**
-- Bagon, Lv. 25, Serious Nature, IVs: 10
-- Munchlax, Lv. 26, Serious Nature, IVs: 10
+!battle(["Ben", :GENTLEMAN, 0], "Forest Field")
 
-**Meteor Grunt Coleman. Field: Forest Field**
-- Timburr, Lv. 22, Serious Nature, IVs: 10
-- Steenee, Lv. 24, Serious Nature, IVs: 10
+!battle(["Coleman", :MeteorGrunt, 1], "Forest Field")
 
 In this area you can find a hidden *Liechi Berry* and *Great Ball*. To the right of the grunt, climb the hill and chop a wiggly tree.
 
@@ -209,14 +205,13 @@ In this area you can find a hidden *Liechi Berry* and *Great Ball*. To the right
 
 Head back down the hill after the scene and go to the left.
 
-**Meteor Grunt Kenneth. Field: Forest Field**
-- Pignite, Lv. 24, Serious Nature, IVs: 10
+!battle(["Kenneth", :MeteorGrunt, 0], "Forest Field")
 
 On this next hill you can obtain a hidden *X Speed*. Climbing stairs to the northeast will lead to a hidden *Antidote*. We'll get to the cave entrance at the top of this area later, for now, sneak around the building in the bottom left and pick up a hidden *Dark Gem*. You can actually enter the felled building to the right, inside you'll find *TM77 Psych Up*.
 
 !img("rhodo4.png")
 
-Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote* (that you can only get from the left, for some reason). Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. *After* you grab the readout, step on the trap.
+Back outside, head up the ramp to the left and pick up the hidden *Green Shard*. Cross the wooden bridge to the left and head up. Here you can find a hidden *Salac Berry*, *Paralyze Heal*, and an *Antidote*. Head back down the stairs but this time follow the narrow path up and to the right. You'll cross a bridge over land here, grab a hidden *Blue Shard* and carefully pick up the *PULSE Readout 5A* without stepping on the shifty 2-by-2 patch of land. *After* you grab the readout, step on the trap.
 
 This brings us to the Underroot - but we will explore this area fully in a little bit. For now, grab the hidden *Exp. Candy S* in a rock to the right, jump down the ledge and take the stairs here to return to a familiar part of the jungle.
 
@@ -226,19 +221,15 @@ Our next move is going to be to head all the way back to the healing house from 
 
 Go straight down from here and follow the path across the bridge.
 
-**Meteor Grunt Mary. Field: Forest Field**
-- Mareanie, Lv. 23, Serious Nature, IVs: 10
-- Boldore, Lv. 23, Serious Nature, IVs: 10
+!battle(["Mary", :MeteorGrunt_090, 1], "Forest Field")
 
-Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more notably, it will be holding the *Exp. Share*!
+Grab a hidden *Blue Shard* as you make your way left. Head up as soon as you can, here is a Light Shard and a building. Inside, you'll find a PC as well as a in-game trade: your Sunkern for either **Carbink**, **Mime Jr.**, **Cryogonal**, or **Furfrou**, determined randomly. Perhaps more importantly, it will be holding the *Exp. Share*!
 
 !img("rhodo6.png")
 
 Head outside and follow the path left. You'll find a hidden *Red Shard*. At the next fork, go up, where you'll find a hidden *Super Potion* and a *Telluric Seed*. Take the other path of the fork now.
 
-**Ranger Endow. Field: Forest Field**
-- Tranquill, Lv. 25, Serious Nature, IVs: 10
-- Ivysaur, Lv. 26, Serious Nature, IVs: 10
+!battle(["Endow", :PkMnRANGER_Male, 0], "Forest Field")
 
 You'll find a hidden *Calcium* here. Head to the left across the bridge and pick up an *Exp. Candy M*. Specifically on sunny days, you can battle and catch **Tropius** here as well. It's very strong for this point in the game, so be careful.
 
@@ -248,20 +239,7 @@ Head back across the bridge, and from here go down to find a hidden *Purple Shar
 
 Hidden here is an *Exp. Candy S*. We can't do anything with these glowy rocks for a while, so head out of this area.
 
-**The Underroot**
-
-|Land              |%  |Old Rod           |%  |
-|------------------|---|------------------|---|
-|**Zigzagoon**     |20 |**Barboach**      |70 |
-|**Morelull**      |20 |**Chinchou**      |30 |
-|Noibat            |10 |
-|**Psyduck**       |10 |
-|**Kecleon**       |10 |
-|**Spinda**        |10 |
-|Woobat            |5  |
-|**Shuppet**       |5  |
-|**Phantump**      |5  |
-|**Bunnelby**      |5  |
+!enc(153, ["Land", "Fishing"], ["Old"])
 
 Head to the right first. You'll find a hidden *Chesto Berry* here. Take the nearby stairs to reach a new area of the jungle. You can find a hidden *Red Shard* and *Exp. Candy S* here. You can also battle and catch **Taillow** at the top.
 
@@ -273,27 +251,25 @@ Follow the path all the way down and to the right. Inside a house here is a lady
 
 Before we leave this section of jungle, there is a broken building with some lights on to the left.
 
-**Meteor Grunt Bruno. Field: No Field**
-- Growlithe, Lv. 22, Serious Nature, IVs: 10
-- Herdier, Lv. 23, Serious Nature, IVs: 10
+!battle(["Bruno", :MeteorGrunt, 1], "Forest Field")
 
 Defeat him to free Police Officer #3.
 
-Back in the Underroot go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
+Back in the Underroot, go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
 
 Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poké Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
 
-Head down from here and take the stairs downward. Hug the left wall as you go down. You'll find a *Potion*, *Blue Shard*, *Energy Powder*, *Heavy Ball*, and an *Elemental Seed* on the ground. Use the Light Shard if you need it and head back up.
+Still in the Underroot, head down from here and take the stairs downward on the east side of the waterfall. Hug the left wall as you go down. You'll find a *Potion*, *Blue Shard*, *Energy Powder*, *Heavy Ball*, and an *Elemental Seed* on the ground. Use the Light Shard if you need it and head back up.
 
 At the first fork, now go to the right. Grab a hidden *Oran Berry* and a *Hyper Potion* on the ground. Back up from here, take a right at the next fork.
 
-Go to the right when you can, get a hidden *Ice Heal*, and emerge into the jungle once more.
+Go to the right when you can, get a hidden *Ice Heal*, and continue right to emerge into the jungle once more.
 
 ### Finishing Up in the Jungle
 
 Head out and to the right, and you'll actually pop out in Beryl Ward. There is a hidden *Super Potion* and a *PP Up* here. Head into this library.
 
-You can walk on the tops of bookshelves in here, do so to get *TM20 Safeguard* as well as the *Corrosive Field Readout*. Enter the door on the right. Inside you'll find an *Ill-Fated Doll* and by talking to Growlithe and then the crevasse you find will find out what happened to Police Officer #5. Reading on the job: never again.
+You can walk on the tops of bookshelves in here, do so to get *TM20 Safeguard* in the bottom-left corner as well as the *Corrosive Field Readout*. Enter the door on the right. Inside you'll find an *Ill-Fated Doll* and by talking to Growlithe and then the crevasse you find will find out what happened to Police Officer #5. Reading on the job: never again.
 
 Enter the left room of the library if you'd like. Inside you'll meet a man.
 
@@ -302,9 +278,7 @@ Enter the left room of the library if you'd like. Inside you'll meet a man.
 
 Back outside, chop the tree to your left and enter the felled building.
 
-**Meteor Grunt Brenna. Field: No Field**
-- Emolga, Lv. 23, Serious Nature, IVs: 10
-- Dewott, Lv. 23, Serious Nature, IVs: 10
+!battle(["Brenna", :MeteorGrunt_090, 0])
 
 Re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
 
@@ -317,38 +291,13 @@ Cut down the wiggly tree nearby, then head back through the path through Beryl b
 
 Prepare your team as necessary, and head up.
 
-**Meteor Manager Ace of Clubs (Super Potion). Field: Forest Field**
-- Zorua, Lv. 25, @Telluric Seed, Ability: Illusion, Serious Nature, IVs: 20
-    - Pursuit
-    - Grass Knot
-    - Feint Attack
-    - Taunt
-- Baltoy, Lv. 26, Ability: Levitate, Serious Nature, IVs: 20
-    - Psybeam
-    - Rock Tomb
-    - Mud-Slap
-    - Grass Knot
-- Roselia, Lv. 26, @Enigma Berry, Ability: Leaf Guard, Serious Nature, IVs: 15
-    - Giga Drain
-    - Extrasensory
-    - Natural Gift
-    - Leech Seed
-- Braixen, Lv. 28, @Sitrus Berry, Ability: Magician, Serious Nature, IVs: 20
-    - Psybeam
-    - Fire Spin
-    - Hypnosis
-    - Flame Charge
-- PULSE Tangrowth A, Lv. 29, @Pecha Berry, Ability: Stamina, Serious Nature, IVs: 7. Stat Spread: 100/70/200/10/70/160. Typing: Grass/Rock
-    - Growth
-    - Mega Drain
-    - Stored Power
-    - Rock Tomb
+!battle(["Ace of Clubs", :ACECLUBS, 0], "Forest Field")
 
-Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokémon in this guide, but that Pokémon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia, as we've seen with Fern, is a hard hitting and healing monster in the early game. Be extra careful with Tangrowth: it likes to get boosts from double-strength Growth and Stamina, then hit hard with Stored Power.
+Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokémon in this guide, but that Pokémon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia, as we've seen with Fern, is a hard hitting and healing monster in the early game. Be extra careful with the ultimate PULSE Tangrowth: it likes to get boosts from double-strength Growth and Stamina, then hit hard with Stored Power.
 
-One thing to consider is that past Braixen a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth if you so choose. If you're holding a Telluric Seed still, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokémon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to transform the field to Burning and watch their team, minus Braixen and Baltoy, burn passively each turn.
+One thing to consider is that, past Braixen, a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth. If you're holding a Telluric Seed, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokémon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to transform the field to Burning and watch the majority of their team burn passively each turn.
 
-Once you win, you can find a *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
+Once you win, you can find a hidden *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
 **Relationship Point Choices:**
 - Find all five officers before fighting Ace (+1 Heather, +1 Anna, +1 Shade)
@@ -356,6 +305,8 @@ Once you win, you can find a *Super Repel* in the next area. Head down. Here, yo
 ## Beryl Ward & Beryl Cemetery
 
 With that out of the way, we now can actually explore the main part of Beryl Ward.
+
+!enc(151)
 
 Before we do anything else, talk to the backpacker nearby a dumpster down from the Pokémart. If you give him $5000 he will give you the *Magnetic Lure*, an amazing item that, when equipped by your party leader, guarantees you will encounter a Pokémon you haven't caught yet in an area. No more do you have to aimlessly wander around an area looking for that 4% encounter!
 
@@ -365,32 +316,17 @@ Nearby, on clear days, you'll find another snax vendor.
 
 Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokémon center, an NPC will tell you a password: *easyhms*.
 
-Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poké Ball*.
+Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. 
 
-**North Beryl Ward / Beryl Cemetery**
+Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poké Ball*.
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Fearow**        |20 |**Fearow**        |20 |Meowth            |44 |
-|Spearow           |20 |Doduo             |20 |**Noctowl**       |25 |
-|**Phanpy**        |14 |Ekans             |20 |Ekans             |20 |
-|**Arbok**         |11 |**Phanpy**        |14 |Hoothoot          |10 |
-|Doduo             |10 |**Arbok**         |11 |**Arbok**         |1  |
-|**Fletchling**    |10 |**Fletchling**    |10 |                  |   |
-|Ekans             |10 |Bunnelby          |5  |                  |   |
-|Bunnelby          |5  |                  |   |                  |   |
-
-|Headbutt          |%  |
-|------------------|---|
-|Pineco            |55 |
-|Burmy             |35 |
-|**Aipom**         |10 |
+!enc(152)
 
 Next, we're gonna head back through the jungle to get to the library. In the left room you can find a *TwistedSpoon*. Could be useful soon.
 
 Back in the jungle, explore around the area where we fought Ace. You'll find a hidden *Petaya Berry*, *Red Shard* as well as a *Great Ball*.
 
-That about wraps up everything we can do for now, so head into the abandoned gym at the top of the hill in Beryl.
+That about wraps up everything we can do for now, so head to the top of the hill in Beryl.
 
 ## VS. Agent Borealis
 
@@ -398,43 +334,13 @@ Head into the gym.
 
 ### Didn't Save Police Route
 
-If you saved the officers before fighting Ace, skip ahead to the next subsection.
+If you saved the officers before fighting Ace, [jump to the next section](#saved-police-officers-route).
 
 If you want to access Corey's bedroom, you can turn all the pillars red.
 
 Head up and into the battle room.
 
-**Agent Corey (2x Super Potion). Field: Corrosive Field**
-- Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 10
-    - Acid
-    - Toxic Spikes
-    - Water Pulse
-    - Venom Drench
-- Mareanie, Lv. 26, @Telluric Seed, Ability: Merciless, Sassy Nature, IVs: 20
-    - Peck
-    - Bite
-    - Venoshock
-    - Toxic
-- Nidorina, Lv. 27, Ability: Hustle, Impish Nature, IVs: 20
-    - Double Kick
-    - Venom Drench
-    - Bite
-    - Disable
-- Croagunk, Lv. 27, @Black Glasses, Ability: Dry Skin, Bashful Nature, IVs: 10
-    - Sucker Punch
-    - Drain Punch
-    - Venoshock
-    - Mud Bomb
-- Skuntank, Lv. 27, Ability: Aftermath, Careful Nature, IVs: 15
-    - Pursuit
-    - Incinerate
-    - Smokescreen
-    - Acid Spray
-- Crobat, Lv. 30, Ability: Infiltrator, Timid Nature, IVs: 20
-    - Venom Drench
-    - Venoshock
-    - Air Cutter
-    - Roost
+!battle(["Corey", :Corey, 0], "Corrosive Field")
 
 As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too threatening aside from his priority Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always activated, but it's slow and not too bulky. His Skuntank however can hit decently hard by stacking Acid Sprays, and with its bulk, it can be a threat. You also need to be careful of Aftermath, which can knock out your sweeper. Most difficult of all is his Crobat, since it outspeeds almost every Pokémon you can have by this point and hits like a truck on this field with activated Venoshock.
 
@@ -442,57 +348,22 @@ The key here is putting yourself in a position to be able to deal with Crobat. T
 
 ### Saved Police Officers Route
 
-If you didn't make this choice, skip ahead to the next section.
+If you didn't make this choice, [jump to the next section](#episode-4-aftershocks).
 
 Talk to the chief to get the *Corrosive Mist Field Readout*.
 
-**Police Officer Jameson. Field: No Field**
-- Growlithe, Lv. 28, Serious Nature, IVs: 10
+!battle(["Jameson", :PoliceOfficer, 0])
 
-**Police Officer Lambert. Field: No Field**
-- Herdier, Lv. 27, Serious Nature, IVs: 10
-- Growlithe, Lv. 27, Serious Nature, IVs: 10
+!battle(["Lambert", :PoliceOfficer, 0])
 
-**Police Officer Blackwell. Field: No Field**
-- Flaaffy, Lv. 27, Serious Nature, IVs: 10
-- Growlithe, Lv. 28, Serious Nature, IVs: 10
+!battle(["Blackwell", :PoliceOfficer, 0])
 
 Turn all of the pillars blue. Each one will also change its neighbors, so keep that in mind while you solve this puzzle.
 
 Talk to the agent in his room, then head up into the arena once you're ready.
 
-**Agent Borealis (Super Potion). Field: Corrosive Mist Field atop Corrosive Field**
-- Skrelp, Lv. 26, @Focus Sash, Ability: Adaptability, Modest Nature, IVs: 5
-    - Acid
-    - Bubble
-    - Smokescreen
-    - Venom Drench
-- Mareanie, Lv. 26, Ability: Merciless, Sassy Nature, IVs: 5
-    - Peck
-    - Bite
-    - Venoshock
-    - Protect
-- Nidorina, Lv. 27, Ability: Hustle, Impish Nature, IVs: 10
-    - Double Kick
-    - Venom Drench
-    - Bite
-    - Disable
-- Croagunk, Lv. 27, Ability: Dry Skin, Bashful Nature, IVs: 5
-    - Sucker Punch
-    - Drain Punch
-    - Venoshock
-    - Mud Bomb
-- Skuntank, Lv. 27, Ability: Aftermath, Careful Nature
-    - Pursuit
-    - Flamethrower
-    - Smokescreen
-    - Acid Spray
-- Crobat, Lv. 30, Ability: Infiltrator, Timid Nature, IVs: 6
-    - Venom Drench
-    - Venoshock
-    - Air Cutter
-    - Nasty Plot
+!battle(["Borealis", :Corey, 0], "Corrosive Mist Field atop Corrosive Field")
 
-As you can probably tell from the Corrosive Mist Field notes, your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too strong, though it's Sucker Punch does have priority. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but it is slow and not too bulky. However, Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can stick around for a bit. It's Aftermath ability can also knock out your sweeper, so be careful. The biggest threat on his team is Crobat: it outspeeds almost every Pokémon you can have by this point and hits like a truck on this field with activated Venoshock. If you let it boost with Nasty Plot, it's very hard to win from there.
+The Corrosive Mist Field notes explain that your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too strong, though it's Sucker Punch does have priority. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but it is slow and not too bulky. However, Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can stick around for a bit. It's Aftermath ability can also knock out your sweeper, so be careful. The biggest threat on his team is Crobat: it outspeeds almost every Pokémon you can have by this point and hits like a truck on this field with activated Venoshock. If you let it boost with Nasty Plot, it's very hard to win from there.
 
 On this field, you really have to go fast so you're not worn down by Poison. On top of this, your goal has to be finding a way to deal with Crobat, since it likes to revenge kill your Pokémon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well strong super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. I recommend using Fire moves since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokémon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.
