@@ -20,9 +20,7 @@ Back in Opal Ward, specifically if you randomly got Clamperl earlier in Onyx War
 
 There is also a new trainer on the Opal Bridge:
 
-**Youngster Bart. Field: No Field**
-- Kakuna, Lv. 19, Serious Nature, IVs: 10
-- Trumbeak, Lv. 20, Serious Nature, IVs: 10
+!battle(["Bart", :YOUNGSTER, 0])
 
 Finally, head to the apartment in the top left corner of Peridot Ward. Now that we have two badges we can finally take home **Snubbull** or **Stufful**, randomly determined.
 
@@ -49,37 +47,23 @@ In general, I will mention story splits and how choices affect post-game route a
 
 Outside, you'll find a Meteor Grunt to the right.
 
-**Meteor Grunt Simon. Field: No Field**
-- Mudbray, Lv. 19, Serious Nature, IVs: 10
-- Grimer-Alola, Lv. 21, Serious Nature, IVs: 10
+!battle(["Simon", :MeteorGrunt, 1])
 
-To the left, grab a hidden *Super Potion*. At night you can fight a cop.
+To the left, grab a hidden *Super Potion*. At night only, you can fight a cop.
 
-**Police Officer Joe. Field: No Field**
-- Growlithe, Lv. 23, Serious Nature, IVs: 10
-- Growlithe, Lv. 23, Serious Nature, IVs: 10
+!battle(["Joe", :PoliceOfficer, 0])
 
 Enter the building here.
 
-**Hotshot Ross. Field: No Field**
-- Spewpa, Lv. 19, Serious Nature, IVs: 10
-    - Tackle
-    - Harden
-    - Protect
-- Metapod, Lv. 19, Serious Nature, IVs: 10
-    - Tackle
-    - Harden
+!battle(["Ross", :COOLTRAINER_Male, 0])
 
-**Street Rat Morrison. Field: No Field**
-- Kricketune, Lv. 22, Serious Nature, IVs: 10
+!battle(["Morrison", :StreetRat, 0])
 
-Exit through the top, where you'll find a Pokémon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
+Exit through the top right, where you'll find a Pokémon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
 
-Head back down into the building below and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building.
+Head back down into the building below the Pokemon Center and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building.
 
-**Meteor Grunt Tara. Field: No Field**
-- Venipede, Lv. 20, Serious Nature, IVs: 10
-- Golbat, Lv. 21, Serious Nature, IVs: 10
+!battle(["Tara", :MeteorGrunt_090, 1])
 
 Head outside at the bottom.
 
@@ -89,61 +73,27 @@ Head outside at the bottom.
 
 Head to the left into the Forest Park.
 
-**Malchous Forest Park**
+!enc(132)
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Beedrill          |20 |Beedrill          |30 |Scatterbug        |20 |
-|Sewaddle          |20 |Pidgey            |20 |Spinarak          |20 |
-|Scatterbug        |20 |**Fomantis**      |10 |Hoothoot          |20 |
-|Ledyba            |19 |Scatterbug        |10 |**Paras**         |19 |
-|**Fomantis**      |10 |Oddish            |10 |**Fomantis**      |10 |
-|Pidgey            |10 |Bellsprout        |10 |**Pansage**       |6  |
-|**Pansage**       |1  |**Pansage**       |9  |Carnivine         |5  |
-|                  |   |Carnivine         |1  |                  |   |
-
-Head towards the center of the area, and chop the wiggly tree nearby. Following the path that this opens up below, you can grab hidden *X Speed*, *Full Heal,* and *Telluric Seed*. Chop the wiggly tree to the right nearby and receive a *Super Potion* from Heather, then chop the wiggly tree immediately to the left.
+Head towards the center of the area, and chop the wiggly tree nearby. Following the path that this opens up below, you can grab hidden *X Speed*, *Full Heal*, and *Telluric Seed*. Chop the wiggly tree to the right nearby and receive a *Super Potion* from Heather, then chop the wiggly tree immediately to the left.
 
 From here, backtrack to the entrance of the forest. Go up and left, choosing to go left instead of climbing the two-tile wide set of stairs. Follow this path up and climb three sets of stairs: you'll see a Meteor Grunt here.
 
-**Meteor Grunt Ringo. Field: Forest Field**
-- Venipede, Lv. 21, Serious Nature, IVs: 10
-- Lunatone, Lv. 22, Serious Nature, IVs: 10
+!battle(["Ringo", :MeteorGrunt, 1], "Forest Field")
 
 Chop down the wiggly tree here. Down just one set of stairs, you can now head left to find another grunt.
 
-**Meteor Grunt Rod. Field: Forest Field**
-- Beedrill, Lv. 21, Serious Nature, IVs: 10
-- Solrock, Lv. 22, Serious Nature, IVs: 10
+!battle(["Rod", :MeteorGrunt, 1], "Forest Field")
 
-Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined. Head back from here and fight the grunts.
+Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* and *Exp. Candy S* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined. Head back from here and fight the grunts.
 
-**Meteor Grunt Regina & Meteor Grunt Gretchen. Field: Forest Field**
-- Steenee, Lv. 21, Serious Nature, IVs: 10
-- Servine, Lv. 21, Serious Nature, IVs: 10
-- Skitty, Lv. 20, Serious Nature, IVs: 10
-- Helioptile, Lv. 21, Serious Nature, IVs: 10
+!battle(["Regina", :MeteorGrunt_090, 0], "Forest Field", ["Gretchen", :MeteorGrunt_090, 0])
 
 Go right and down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*.
 
-Head back up, talk to Heather for a heal, then climb the vines on the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M* (minor, but missable if you don't grab them right now). Head up for a battle.
+Head back up, talk to Heather for a heal, then climb the vines on the nearby pillar, hop over to the main building, and head in. Jump on down. Grab a hidden *Red Shard* and *Exp. Candy M* (missable if you don't grab them right now). Head up for a battle.
 
-**Meteor Admin Taka (Super Potion). Field: Rocky Field**
-- Exeggcute, Lv. 22, Ability: Harvest, IVs: 10
-    - Poison Powder
-    - Leech Seed
-    - Barrage
-    - Bullet Seed
-- Chatot, Lv. 25, @Wide Lens, Ability: Keen Eye, IVs: 5
-    - Sing
-    - Nasty Plot
-    - Chatter
-    - Taunt
-- PULSE Tangrowth B, Lv. 24, @Oran Berry, Ability: Arena Trap, Impish Nature, IVs: 31.
-    - Leech Seed
-    - Vine Whip
-    - Sand Tomb
-    - Rock Tomb
+!battle(["Taka", :Taka, 0], "Rocky Field")
 
 Taka will fight you on the Rocky Field. We don't have the notes for this field yet, but you will observe that Rock Tomb will be stronger here. The Telluric Seed can be helpful here: by testing it you'll notice that it raises Defense but does Stealth Rock damage. Since Exeggcute doesn't hit that hard you can take the chance to set up offenses on it, then you can hit the slow PULSE Tangrowth hard. Also, this entire team is weak to Ice.
 
@@ -151,8 +101,7 @@ After the battle, you'll be sent outside. Answer Corey how you like here, then g
 
 Exit Malchous Forest Park in the top right corner. In the first house, you'll find a grunt.
 
-**Meteor Grunt Ray. Field: No Field**
-- Raticate-Alola, Lv. 22, Serious Nature, IVs: 10
+!battle(["Ray", :MeteorGrunt, 0])
 
 Defeat him to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 
@@ -170,7 +119,7 @@ Before we continue into the next ward, there's a quick thing we can do. Exit Jas
 
 Since money is still tight, I wouldn't recommend binging too many of these items for now, especially since most of them suck. We'll be able to get tons of the weather extending rocks, Iron Ball, and Light Clay after the next badge for free, but if your strategy involves weather or screens they are pretty cheap right now so it might be worth it for those.
 
-Head outside and up to access the next ward.
+Back in Jasper, return to the top-right corner and head up to access the next ward.
 
 ## Rhodochrine Jungle & The Underroot
 
@@ -180,36 +129,13 @@ While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to 
 
 Back in Beryl, head left.
 
-**West Beryl Ward**
+!enc(149)
 
-|Cave              |%  |
-|------------------|---|
-|Pansage           |20 |
-|Pidgeotto         |20 |
-|Spearow           |15 |
-|Bellsprout        |14 |
-|Scatterbug        |11 |
-|Sewaddle          |11 |
-|Oddish            |9  |
+Grab a hidden *Red Shard* outside, then an *X Attack* in the house. Make your way left, grab the hidden *Poké Ball*, and enter the jungle.
 
-Grab a hidden *Red Shard* and an *X Attack* in the house. Make your way left, grab the hidden *Poké Ball*, and enter the jungle.
+!enc(150)
 
-**Rhodochrine Jungle**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Sewaddle          |30 |Spearow           |20 |Paras             |24 |
-|**Ledian**        |20 |Pansage           |20 |Hoothoot          |20 |
-|Spearow           |11 |**Gloom**         |10 |**Ariados**       |20 |
-|Scatterbug        |10 |Sewaddle          |10 |**Gloom**         |10 |
-|**Dedenne**       |10 |Scatterbug        |10 |Spinarak          |10 |
-|Ledyba            |9  |**Dedenne**       |10 |**Tangela**       |9  |
-|Pansage           |5  |**Doduo**         |5  |**Pachirisu**     |5  |
-|**Pachirisu**     |4  |**Pachirisu**     |5  |**Farfetch'd**    |2  |
-|**Farfetch'd**    |1  |**Farfetch'd**    |5  |                  |   |
-|                  |   |**Tangela**       |5  |                  |   |
-
-Throughout this guide, whenever we are guaranteed the ability to catch Pokémon that was previously randomly determined such as Pachirisu, I will bold it both times. Catch a Ledian for an in-game trade later, and a Farfetch'd to trade for a fossil later on as well.
+Catch a Ledian for an in-game trade later, and a Farfetch'd to trade for a fossil later on as well.
 
 Grab a hidden *Exp. Candy XS* here, then head up and get a hidden *Rawst Berry* and *Rare Candy*, being careful to avoid stepping on the suspicious patch of grass. Head down and to the left, you'll see Meteor Grunts. You'll actually have a choice now on how to proceed - you can either step on the suspicious patch of grass or step on tall grass near the grunts to end up in a trap, or carefully sneak around the grunts and head up.
 
