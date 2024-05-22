@@ -6,12 +6,7 @@ Back in the Nightclub, we can pick from a large number of quests.
 
 First, talk to Marcello on the left for a new quest. He'll also sell us some Lemonade!
 
-**Marcello's Lemonade Shop (Nightclub)**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Lemonade*             |$350       |
-|*Blue Moon Lemonade*   |$100000000 |
+!shop("Marcello's Lemonade (Nightclub)", ["Lemonade", "Blue Moon Lemonade"], ["$350", "$100000000"])
 
 We actually can't progress to the end of postgame without buying a Blue Moon.... just kidding. But I bet I got some of you!
 
@@ -465,11 +460,7 @@ Talk to Cass in the Nightclub, then fly over to the Agate Circus. The Ferris Whe
 
 Grab the hidden *Beast Ball* to the left.
 
-**Agate Circus Ferris Wheel Shop**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Beast Ball*           |$9000      |
+!shop("Agate Circus Ferris Wheel", ["Beast Ball"], ["$9000"])
 
 You can buy a couple more of these to make bagging the Ultra Beasts easier, if you want.
 

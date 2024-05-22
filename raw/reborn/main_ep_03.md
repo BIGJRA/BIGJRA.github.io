@@ -8,26 +8,9 @@ First, head to the room containing the nurse in the Trainer School. A girl towar
 
 Now that we have 2 badges, the Pokémarts and candy store have updated inventory now:
 
-**Default Shop (2 Badges)**
+!shop("Default Mart (2-5 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
 
-|Item           |Price      |
-|---------------|-----------|
-|*Super Potion* |$700       |
-|*Antidote*     |$100       |
-|*Paralyze Heal*|$200       |
-|*Burn Heal*    |$250       |
-|*Escape Rope*  |$550       |
-|*Super Repel*  |$700       |
-|*Poké Ball*    |$200       |
-
-**Sweet Kiss Bottom Clerk Shop (2 Badges)**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Common Candy*     |$150       |
-|*Exp. Candy XS*    |$500       |
-|*Exp. Candy S*     |$2000      |
-|*Rare Candy*       |$12000     |
+!shop("Sweet Kiss (Bottom) (2-3 Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Rare Candy"], [nil, 500, 2000, nil])
 
 Head into the Obsidia Slums. Nearby where we first entered on the first floor, you'll see a doctor talking to a child. Talk to him to get the *Itemfinder*! Note that this is a limited time event, so if you don't want to have to wait until we get four more badges to get the Itemfinder, act now! Since I assume you can use the itemfinder now, going forward in this guide, I will not describe exact locations of hidden items. You'll also find an *Exp. Candy M* here.
 
@@ -181,31 +164,9 @@ Outside, you can now grab a *Paralyze Heal* and save Police Officer #2. Grab a h
 
 Before we continue into the next ward, there's a quick thing we can do. Exit Jasper Ward to the south (there's a shortcut below the Mareep building) and head to the right. Enter the first house you see in Peridot Ward, and talk to the girls inside for *Department Store Sticker: Tangela* as well as *TM88 Sleep Talk*.
 
-**Department Store 3F Left Shop**
+!shop("Department Store 3F (Left)", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Red Card", "Ring Target", "Metronome"])
 
-|Item           |Price          |
-|---------------|---------------|
-|*Sticky Barb*  |$600           |
-|*Lagging Tail* |$200           |
-|*Iron Ball*    |$1000          |
-|*Binding Band* |$1700          |
-|*Float Stone*  |$400           |
-|*Eject Button* |$1800          |
-|*Red Card*     |$1800          |
-|*Ring Target*  |$200           |
-|*Metronome*    |$1500          |
-
-**Department Store 3F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Heat Rock*    |$200           |
-|*Icy Rock*     |$200           |
-|*Smooth Rock*  |$200           |
-|*Damp Rock*    |$200           |
-|*Grip Claw*    |$200           |
-|*Light Clay*   |$200           |
-|*Everstone*    |$200           |
+!shop("Department Store 3F (Right)", ["Heat Rock", "Icy Rock", "Smooth Rock", "Damp Rock", "Grip Claw", "Light Clay", "Everstone"])
 
 Since money is still tight, I wouldn't recommend binging too many of these items for now, especially since most of them suck. We'll be able to get tons of the weather extending rocks, Iron Ball, and Light Clay after the next badge for free, but if your strategy involves weather or screens they are pretty cheap right now so it might be worth it for those.
 
@@ -474,11 +435,7 @@ Before we do anything else, talk to the backpacker nearby a dumpster down from t
 
 Nearby, on clear days, you'll find another snax vendor.
 
-**Beryl Ward Snax Shop**
-
-|Item       |Price      |
-|-----------|-----------|
-|*PokéSnax* |$650       |
+!shop("Beryl Ward Snax", ["PokéSnax"], [200])
 
 Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokémon center, an NPC will tell you a password: *easyhms*.
 

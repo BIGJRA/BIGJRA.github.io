@@ -316,11 +316,15 @@ Item probabilities are listed [in the appendices](#mining-item-probabilities).
 
 We can't revive the fossils or use the Odd Keystone just yet, but hold onto them if you get them. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items, though you can get at least one of each somewhere else in the game as well. There is an incredible number of these glowing rocks throughout the game. I won't be pointing out when there are rocks in a given room, but feel free to break them as you see them.
 
-Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You may find **Solrock** here - this is a randomly determined event. You'll also find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*.
+Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You may find **Solrock** here - this is a randomly determined event. You'll also find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplifield Rock*.
 
 Make your way back to the part with the sequence of ledges on B2F, and take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Lunatone** if you didn't find Solrock earlier.
 
 ### Smashin' at the Slums
+
+Next, head to Obsidia Ward. The Sweet Shop has new inventory.
+
+!shop("Sweet Kiss (Bottom) (4 Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Rare Candy"], [nil, 500, 2000, 5000, nil])
 
 Next, we're going to head on over to the Obsidia Slums. On the first floor of the main area of the slums take the top left escalator down to reach B1F. Then go between the escalators through the door here, and use the Dull Key inside. Grab a hidden *Calcium* then enter the next room.
 
@@ -399,28 +403,11 @@ Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a 
 
 Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokémon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
 
-**Department Store 5F Left Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Great Ball*   |$600           |
-|*Super Potion* |$700           |
-|*Super Repel*  |$700           |
-|*Full Heal*    |$600           |
-|*Poké Doll*    |$1000          |
+!shop("Department Store 5F (Left)", ["Great Ball", "Super Potion", "Super Repel", "Full Heal", "Poké Doll"])
 
 The first buyable Great Balls and Super Repels? Sign me up.
 
-**Department Store 5F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*HP Up*        |$9800          |
-|*Protein*      |$9800          |
-|*Carbos*       |$9800          |
-|*Zinc*         |$9800          |
-|*Calcium*      |$9800          |
-|*Iron*         |$9800          |
+!shop("Department Store 5F (Right)", ["HP Up", "Protein", "Carbos", "Zinc", "Calcium", "Iron"])
 
 The Power Items downstairs may be 50% more expensive than these but you can buy them just once and use them infinitely many times while these are consumable. No reason to ever buy here.
 

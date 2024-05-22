@@ -14,7 +14,7 @@ Next, enter the Grand Hall. The Common Candy salesman near the shop is now gone,
 
 Now that we have a badge, Pokémarts will be updated:
 
-!shop("Default Shop (1 Badge)", ["Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Repel", "Poké Ball"])
+!shop("Default Mart (1 Badge)", ["Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Repel", "Poké Ball"])
 
 Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
 
@@ -71,15 +71,15 @@ The next building in line is the Sweet Kiss Candy Shop building. In the top left
 
 At the top, a kid really wants some Vanilla Ice Cream. Since he's blocking the machine though we can't get any here - you'll have to wait until it's sunny and buy some from Opal Ward. Give it to this kid and then buy a Vanilla Ice Cream for $1000 from the vending machine - it will be a **Vanillite** in disguise! After this the vending machine will be normal again.
 
-!shop("Sweet Kiss Vending Machine", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream"])
+!shop("Sweet Kiss Vending", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream"])
 
 There is a 1% chance you will actually get a *Blue Moon Ice Cream* whenever you buy any one of these. Choc and Berry are more expensive here than in Opal Ward, so there's really no reason to buy these here ever.
 
-!shop("Sweet Kiss (Top)", ["Whipped Dream", "Peppermint", "Chewing Gum", "Pop Rocks", "Salt-Water Taffy", "Red-Hots", "Cotton Candy"])
+!shop("Sweet Kiss (Top) (0-12 Badges)", ["Whipped Dream", "Peppermint", "Chewing Gum", "Pop Rocks", "Salt-Water Taffy", "Red-Hots", "Cotton Candy"])
 
 If you're planning on evolving Swirlix, grab a Whipped Dream. We will eventually need another Whipped Dream for a quest. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
 
-!shop("Sweet Kiss (Bottom)", ["Common Candy", "Exp. Candy XS", "Rare Candy"], [nil, 500, nil])
+!shop("Sweet Kiss (Bottom) (0-1 Badges)", ["Common Candy", "Exp. Candy XS", "Rare Candy"], [nil, 500, nil])
 
 Since grinding trainers give them every time you beat them, you don't need to spend your precious money on Exp. Candy or the expensive Rare Candies.
 
@@ -181,7 +181,7 @@ One of Ame's stated goals with Reborn was to ensure every Pokémon appeared in a
 
 Head left and emerge onto the roof. There's another Light Shard here - usually they mean either "you're halfway through a dungeon" or "there's a super hard fight coming up". Anyways, follow the path and talk to Mankey in the elevator. Take it to 1F to open a shortcut, then take it to B1F.
 
-!shop("Obsidia Slums Vending Machine", ["Fresh Water"])
+!shop("Obsidia Slums Vending", ["Fresh Water"])
 
 Sometimes you even get two! Talk to the guy at the bottom of the area... turns out this is the guy who stole our $1000 Pokémon from the thieves in Peridot!
 
@@ -547,7 +547,7 @@ Before we continue to the gym, now is a good time to wrap up a couple of quests 
 
 First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1205 Coins for free.
 
-!shop("Onyx Arcade Coin Shop", ["50 Coins", "500 Coins"], [1000, 10000])
+!shop("Onyx Arcade Coins", ["50 Coins", "500 Coins"], [1000, 10000])
 
 Unless you're coming back here really late in the game, don't buy coins. They're way too expensive, and starting with the free coins you can get up to the magic number needed to get all the rewards: 23900 coins.
 
@@ -555,11 +555,11 @@ You can play the slots, roulette, or Voltorb Flip. Previous versions of the guid
 
 All you need to do is save before playing the board, pick any spot (12x payout), and play all seven balls. Note that you need to switch to a new spot if you get a jackpot on your current pick. Reset if you don't get a single jackpot on any of the seven balls, otherwise, save after all seven balls have been played. Even if you only hit one spot, you'll net 500 coins per round, a payout which only gets better the more jackpots you manage to get. You'll reach your target in no time.
 
-!shop("Onyx Arcade TM Shop", ["TM45 Attract", "TM42 Facade", "TM90 Substitute"], ["1000 Coins", "4000 Coins", "7000 Coins"])
+!shop("Onyx Arcade TMs", ["TM45 Attract", "TM42 Facade", "TM90 Substitute"], ["1000 Coins", "4000 Coins", "7000 Coins"])
 
 These TMs have very wide pools of candidates, so grabbing them will generally be helpful in the early game when your movesets aren't complete yet.
 
-!shop("Onyx Arcade Pokémon Shop", ["Snover", "Slugma", "Mantyke", "Nidoran M", "Shinx"], ["600 Coins", "1000 Coins", "1800 Coins", "3500 Coins", "5000 Coins"], true)
+!shop("Onyx Arcade Pokémon", ["Snover", "Slugma", "Mantyke", "Nidoran M", "Shinx"], ["600 Coins", "1000 Coins", "1800 Coins", "3500 Coins", "5000 Coins"], true)
 
 All of these Pokémon have something going for them:
 

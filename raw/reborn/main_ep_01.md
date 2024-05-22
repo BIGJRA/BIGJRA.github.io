@@ -99,7 +99,7 @@ Proceed to the right into Opal Ward. A girl at the bottom of the area will give 
 
 If the weather is sunny you will see an Ice Cream Cart here.
 
-!shop("Opal Ward Ice Cream Shop", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
+!shop("Opal Ward Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
 Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will be selling the rare Blue Moon Ice Cream. Note that talking to the vendor when they are not selling the ice cream activates a cooldown timer of one day, during which time they will not sell Blue Moon Ice Cream not matter how many times you reset. However, if you save *before* speaking to them, you can reset the game until they are carrying Blue Moon Ice Cream. It is too expensive for us right now by far, but should you ever want to buy it, keep this trick in mind.
 
@@ -149,7 +149,7 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 **Grand Hall Common Candy Shop**
 
-!shop("Grand Hall Candy Shop", ["Common Candy"], [75])
+!shop("Grand Hall Candy", ["Common Candy"], [75])
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokémon's level. Reborn's disobedience system means that Pokémon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokémon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
@@ -442,7 +442,7 @@ Anyways, a small house up from here contains a *Protein*, which again I recommen
 
 In the building up and left from here, you can talk to a guy to get a *Common Candy*. Outside, during clear or sunny days, there is a shop.
 
-!shop("Peridot Ward Snax Shop", ["PokéSnax"])
+!shop("Peridot Ward Snax", ["PokéSnax"], [200])
 
 If you use up your PokéSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
 

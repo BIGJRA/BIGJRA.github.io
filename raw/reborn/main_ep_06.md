@@ -243,19 +243,7 @@ If it is storming, you can find a **Corsola** on the left side of the area who w
 
 The Apophyll Cave is up from here, but we will return in a bit. Head back to the Apophyll Academy. Now, we're going to head inside.
 
-**Apophyll Academy Shop**
-
-|Item           |Price      |
-|---------------|-----------|
-|*Super Potion* |$700       |
-|*Common Candy* |$150       |
-|*Antidote*     |$100       |
-|*Awakening*    |$250       |
-|*Paralyze Heal*|$200       |
-|*Burn Heal*    |$250       |
-|*Escape Rope*  |$550       |
-|*Super Repel*  |$700       |
-|*Poké Ball*    |$200       |
+!shop("Apophyll Academy", ["Super Potion", "Common Candy", "Antidote", "Awakening", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
 
 Head up to reach the middle part of the area.
 
@@ -291,33 +279,9 @@ Back down from here, attempt to steal the TV.
 
 Once you win, return to the girl who requested it to get *Department Store Sticker: Meditite*.
 
-**Department Store 6F Left Shop**
+!shop("Department Store 6F (Left)", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
 
-|Item           |Price          |
-|---------------|---------------|
-|*Kebia Berry*  |$1200          |
-|*Shuca Berry*  |$1200          |
-|*Coba Berry*   |$1200          |
-|*Haban Berry*  |$1200          |
-|*Hasib Berry*  |$1200          |
-|*Colbur Berry* |$1200          |
-|*Babiri Berry* |$1200          |
-|*Chilan Berry* |$1200          |
-|*Roseli Berry* |$1200          |
-
-**Department Store 6F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Occa Berry*   |$1200          |
-|*Passho Berry* |$1200          |
-|*Wacan Berry*  |$1200          |
-|*Rindo Berry*  |$1200          |
-|*Yache Berry*  |$1200          |
-|*Payapa Berry* |$1200          |
-|*Tanga Berry*  |$1200          |
-|*Charti Berry* |$1200          |
-|*Chople Berry* |$1200          |
+!shop("Department Store 6F (Right)", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Chople Berry"])
 
 The type berries are all pretty useful when you need them, but I would recommend only stocking up when you know you need some because of the price.
 

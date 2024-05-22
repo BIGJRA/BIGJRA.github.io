@@ -46,31 +46,9 @@ Cal will give you *TMX4 Strength*!
 
 Having Strength means there is a lot of exploration that we can now do. First of all, put Chingling into your party with the Soothe Bell attached. We'll need it evolved for a quest soon, so might as well take advantage of all the walking we are about to do.
 
-First, note that the Pokémarts and the candy store have new inventory now.
+First, note that the candy store has new inventory now.
 
-**Default Shop (5 Badges)**
-
-|Item           |Price      |
-|---------------|-----------|
-|*Super Potion* |$700       |
-|*Antidote*     |$100       |
-|*Paralyze Heal*|$200       |
-|*Burn Heal*    |$250       |
-|*Escape Rope*  |$550       |
-|*Super Repel*  |$700       |
-|*Poké Ball*    |$200       |
-|*Great Ball*   |$600       |
-
-**Sweet Kiss Bottom Clerk Shop (5 Badges)**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Common Candy*     |$150       |
-|*Exp. Candy XS*    |$500       |
-|*Exp. Candy S*     |$2000      |
-|*Exp. Candy M*     |$5000      |
-|*Exp. Candy L*     |$10000     |
-|*Rare Candy*       |$12000     |
+!shop("Sweet Kiss (Bottom) (5-6 Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Rare Candy"], [nil, 500, 2000, 5000, 10000, nil])
 
 Back in Opal Ward, there are new trainers on the bridge.
 

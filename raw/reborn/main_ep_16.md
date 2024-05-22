@@ -70,6 +70,10 @@ If you want to blitz through the story, you can talk to Ame in the Grand Hall an
 
 There are a ton of sidequests and main quests that will take us all over the city and to other areas. For now, I will take us through every neo-ward one-by-one to cover everything we can get right now. The streets are now crackless and transportation more seamless due to Fly, so movement around the city is easier.
 
+With 13 Badges, the default shop inventory has updated: 
+
+!shop("Default Mart (13-16 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
+
 **Neo Opal Ward**
 
 |Land (Morning/Day)|%  |Land (Night)      |%  |Headbutt          |%  |
@@ -174,11 +178,7 @@ In the plot of the former Mosswater Factory there is now a market.
 
 There is also a guy selling a new item that will allow you to move all EV's from one stat into another.
 
-**Mosswater Market Tuner Shop**
-
-|Item           |Price      |
-|---------------|-----------|
-|5x *EV Tuners* |$40000     |
+!shop("Mosswater Market Tuners", ["5x EV Tuners"], [40000])
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*.
 
@@ -360,19 +360,7 @@ On the hill by Corey's gym you can find a hidden *Purple Shard* and *HP Up*.
 
 Before we leave, there are a few more things to do in Beryl. Enter the library and pick up the *Library Application* at the desk. This is the first of many applications we can grab to help us complete a sidequest later on. Upstairs you'll learn about the *monowoke* password. At the southwest corner of town, there is a shop run by the Inspector guy.
 
-**The Emporium Shop**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Full Incense*         |$9600      |
-|*Lax Incense*          |$9600      |
-|*Luck Incense*         |$9600      |
-|*Odd Incense*          |$9600      |
-|*Pure Incense*         |$9600      |
-|*Rose Incense*         |$9600      |
-|*Sea Incense*          |$9600      |
-|*Wave Incense*         |$9600      |
-|*Rock Incense*         |$9600      |
+!shop("The Emporium", ["Full Incense", "Lax Incense", "Luck Incense", "Odd Incense", "Pure Incense", "Rose Incense", "Sea Incense", "Wave Incense", "Rock Incense"])
 
 Next, enter Corey's gym. Use the card we got from behind Skuntank here to open a secret room containing 4 *EV Boosters* and a *Data Chip*.
 
@@ -401,28 +389,9 @@ Hidden around Lapis you'll be able to find a *Genius Wing*, *X Attack*, *Pepperm
 
 The flower shop on the left side has some new items for sale.
 
-**Sweet Scent Flower Shop Middle (13 Badges)**
+!shop("Sweet Scent Flowers (Middle) (13+ Badges)", ["Red Nectar", "Yellow Nectar", "Pink Nectar", "Purple Nectar", "Elemental Seed", "Magical Seed", "Telluric Seed", "Synthetic Seed"])
 
-|Item               |Price          |
-|-------------------|---------------|
-|*Red Nectar*       |$3000          |
-|*Yellow Nectar*    |$3000          |
-|*Pink Nectar*      |$3000          |
-|*Purple Nectar*    |$3000          |
-|*Elemental Seed*   |$5000          |
-|*Magical Seed*     |$5000          |
-|*Telluric Seed*    |$5000          |
-|*Synthetic Seed*   |$5000          |
-
-**Sweet Scent Flower Shop Bottom**
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Durin Berry*      |$800           |
-|*Watmel Berry*     |$800           |
-|*Belue Berry*      |$800           |
-|*Kee Berry*        |$800           |
-|*Maranga Berry*    |$800           |
+!shop("Sweet Scent Flowers (Bottom)", ["Durin Berry", "Watmel Berry", "Belue Berry", "Kee Berry", "Maranga Berry"])
 
 You can also talk to a girl near the top and show her the Budew that we once got after it fell off the wall, and she'll tell us about the password *budewit*.
 
@@ -509,71 +478,19 @@ Enter the building to the right on Saffron Street. After seeing a conversation, 
 
 In the building to the right you can get a *Medicine Application*.
 
-**Madame Meganium's Shop**
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Energy Root*      |$800           |
-|*Energy Powder*    |$500           |
-|*Heal Powder*      |$450           |
-|*Revival Herb*     |$2800          |
-|*Power Herb*       |$1000          |
-|*White Herb*       |$1000          |
+!shop("Madame Meganium", ["Energy Root", "Energy Powder", "Heal Powder", "Revival Herb", "Power Herb", "White Herb"])
 
 You can buy the Energy Root and White Herb for the Spyce if needed.
 
 While we were gone we got two stickers, so we can access some new floors of the Department Store.
 
-**Department Store 9F Left Shop**
+!shop("Department Store 9F (Left)", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunder Stone", "Moon Stone", "Sun Stone", "Dusk Stone", "Dawn Stone", "Shiny Stone"])
 
-|Item           |Price          |
-|---------------|---------------|
-|*Fire Stone*   |$2100          |
-|*Water Stone*  |$2100          |
-|*Leaf Stone*   |$2100          |
-|*Thunder Stone*|$2100          |
-|*Moon Stone*   |$2100          |
-|*Sun Stone*    |$2100          |
-|*Dusk Stone*   |$2100          |
-|*Dawn Stone*   |$2100          |
-|*Shiny Stone*  |$2100          |
+!shop("Department Store 9F (Right)", ["Link Stone", "Ice Stone", "PP Up", "Up-Grade", "Prism Scale", "Oval Stone", "Amplifield Rock", "TM22 Solar Beam"], [nil, nil, nil, nil, nil, nil, nil, 15000])
 
-**Department Store 9F Right Shop**
+!shop("Department Store 10F (Left)", ["Ultra Potion", "Max Repel", "Full Restore", "Ultra Ball", "Revive"])
 
-|Item               |Price          |
-|-------------------|---------------|
-|*Link Stone*       |$4000          |
-|*Ice Stone*        |$2100          |
-|*PP Up*            |$10000         |
-|*Up-Grade*         |$2100          |
-|*Prism Scale*      |$2500          |
-|*Oval Stone*       |$2100          |
-|*Amplified Rock*   |$3000          |
-|*TM22 Solar Beam*  |$15000         |
-
-**Department Store 10F Left Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Ultra Potion* |$1200          |
-|*Max Repel*    |$900           |
-|*Full Restore* |$3000          |
-|*Ultra Ball*   |$1200          |
-|*Revive*       |$1500          |
-
-**Department Store 10F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Liechi Berry* |$1200          |
-|*Ganlon Berry* |$1200          |
-|*Salac Berry*  |$1200          |
-|*Petaya Berry* |$1200          |
-|*Apicot Berry* |$1200          |
-|*Lum Berry*    |$800           |
-|*Jaboca Berry* |$1200          |
-|*Rowap Berry*  |$1200          |
-|*Custap Berry* |$1200          |
+!shop("Department Store 10F (Right)", ["Liechi Berry", "Ganlon Berry", "Salac Berry", "Petaya Berry", "Apicot Berry", "Lum Berry", "Jaboca Berry", "Rowap Berry", "Custap Berry"])
 
 You can buy a Custap Berry for the Spyce if you need. You can also buy the good standard items, some decent berries, and tons of useful evolution items!
 
@@ -583,36 +500,13 @@ Inside the Cafe Salon, you can pick up a *Salon Application*.
 
 Enter the Critical Capture building. You can pick up a *Critical Application*. There is also a new clerk here.
 
-**Critical Capture Shop Left Clerk**
-
-|Item           |Price      |
-|---------------|-----------|
-|*Repeat Ball*  |$1000      |
-|*Luxury Ball*  |$1000      |
-|*Dusk Ball*    |$1000      |
-|*Heal Ball*    |$300       |
-|*Quick Ball*   |$1300      |
-|*Dream Ball*   |$1000      |
-|*Cherish Ball* |$200       |
-|*Level Ball*   |$1300      |
-|*Lure Ball*    |$300       |
+!shop("Critical Capture (Left)", ["Repeat Ball", "Luxury Ball", "Dusk Ball", "Heal Ball", "Quick Ball", "Dream Ball", "Cherish Ball", "Level Ball", "Lure Ball"])
 
 Talk to the other person in here and he will take the Corrupted Poké Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
 
 Enter the Sweet Kiss Candy store.
 
-**Sweet Kiss Top Clerk Shop**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Whipped Dream*    |$1000      |
-|*Peppermint*       |$600       |
-|*Chewing Gum*      |$800       |
-|*Pop Rocks*        |$750       |
-|*Salt-Water Taffy* |$850       |
-|*Red-Hots*         |$850       |
-|*Cotton Candy*     |$5000      |
-|*Sweet Heart*      |$100       |
+!shop("Sweet Kiss (Top) (13+ Badges)", ["Whipped Dream", "Peppermint", "Chewing Gum", "Pop Rocks", "Salt-Water Taffy", "Red-Hots", "Cotton Candy", "Sweet Heart"])
 
 Buy the Sweet Heart for Spyce.
 
@@ -830,42 +724,13 @@ That wraps up things in the city limits for right now, so fly over to Spinel Tow
 
 Towards the top of the ground floor you'll see a new entrance to a gift shop.
 
-**Spinel Museum Gift Shop Left**
+Sure, here's the updated strings with the third argument filled based on the provided pricing information:
 
-|Item               |Price      |
-|-------------------|-----------|
-|*Black Belt*       |$9800      |
-|*Black Glasses*    |$9800      |
-|*Charcoal*         |$9800      |
-|*Dragon Fang*      |$9800      |
-|*Hard Stone*       |$9800      |
-|*Magnet*           |$9800      |
-|*Metal Coat*       |$9800      |
-|*Miracle Seed*     |$9800      |
-|*Mystic Water*     |$9800      |
-|*Never-Melt Ice*   |$9800      |
+!shop("Spinel Museum Gifts (Left)", ["Black Belt", "Black Glasses", "Charcoal", "Dragon Fang", "Hard Stone", "Magnet", "Metal Coat", "Miracle Seed", "Mystic Water", "Never-Melt Ice"], [nil, nil, 9800, nil, 9800, nil, 9800, nil, nil, nil])
 
-**Spinel Museum Gift Shop Middle**
+!shop("Spinel Museum Gifts (Middle)", ["Poison Barb", "Sharp Beak", "Silk Scarf", "Silver Powder", "Soft Sand", "Spell Tag", "Twisted Spoon", "Pixie Plate", "Thick Club"], [nil, nil, nil, nil, nil, nil, nil, 9800, 9800])
 
-|Item               |Price      |
-|-------------------|-----------|
-|*Poison Barb*      |$9800      |
-|*Sharp Beak*       |$9800      |
-|*Silk Scarf*       |$9800      |
-|*Silver Powder*    |$9800      |
-|*Soft Sand*        |$9800      |
-|*Spell Tag*        |$9800      |
-|*Twisted Spoon*    |$9800      |
-|*Pixie Plate*      |$9800      |
-|*Thick Club*       |$9800      |
-
-**Spinel Museum Gift Shop Right**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Dome Fossil*      |$9800      |
-|*Root Fossil*      |$9800      |
-|*Skull Fossil*     |$9800      |
+!shop("Spinel Museum Gifts (Right)", ["Dome Fossil", "Root Fossil", "Skull Fossil"], [9800, 9800, 9800])
 
 We also got a couple fossils while we were away - meaning upstairs we can now get the other one of **Archen** or **Tirtouga** as well as **Aerodactyl**!
 
@@ -2040,7 +1905,7 @@ Heal and prepare your team as necessary, then proceed to the right.
     - Flare Blitz
     - Outrage
 
-Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokémon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplified Rock + Trick Room or a set-up sweeper with speed support.
+Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokémon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplifield Rock + Trick Room or a set-up sweeper with speed support.
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
@@ -2054,11 +1919,7 @@ At the top left corner of the area you'll see some familiar four-direction spinn
 
 You can turn off the electric tiles in the top right side of the area at monitor #5 and proceed to the next section.
 
-**Devon Dungeon Vending Machine**
-
-|Item           |Price      |
-|---------------|-----------|
-|*Common Candy* |$400       |
+!shop("Devon Dungeon Vending", ["Common Candy"])
 
 **Relationship Point Choices:**
 - Tell Arclight you will fight (+1 Victoria, +1 Arclight)

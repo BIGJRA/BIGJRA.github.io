@@ -422,19 +422,9 @@ With that, agree to leave together. Exit out of the Grand Gate, then make your w
 
 We're gonna need about 30 Honeys for the next section - I recommend buying only about 5 honeys and then making sure you have 8-9 candies in your bag, as we will be able to trade them for honey later. A single Blue Moon Ice Cream can also be exchanged for tons of Honey if you happen to have one.
 
-It's worth noting that we can buy Exp. Candy XL's now:
+One other note:
 
-**Sweet Kiss Bottom Clerk Shop (7 Badges)**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Common Candy*     |$150       |
-|*Exp. Candy XS*    |$500       |
-|*Exp. Candy S*     |$2000      |
-|*Exp. Candy M*     |$5000      |
-|*Exp. Candy L*     |$10000     |
-|*Exp. Candy XL*    |$20000     |
-|*Rare Candy*       |$12000     |
+!shop("Sweet Kiss (Bottom) (7+ Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Exp. Candy XL", "Rare Candy"], [nil, 500, 2000, 5000, 10000, 20000, nil])
 
 ## North Aventurine Woods Exploration
 
@@ -553,31 +543,11 @@ That wraps up our exploration of the woods!
 
 Return to the Route 1 Nature Center and talk to the guy on the second floor who lost his specs. In exchange for the Tech Glasses we will get *Department Store Sticker: Heracross*!
 
-**Department Store 8F Left Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*X Attack*     |$500           |
-|*X Defend*     |$550           |
-|*X Sp. Atk*    |$350           |
-|*X Speed*      |$350           |
-|*X Sp. Def*    |$350           |
-|*Guard Spec.*  |$700           |
-|*X Accuracy*   |$950           |
-|*Dire Hit*     |$650           |
+!shop("Department Store 8F (Left)", ["X Attack", "X Defend", "X Sp. Atk", "X Speed", "X Sp. Def", "Guard Spec.", "X Accuracy", "Dire Hit"])
 
 I've never used any of these in my entire life, but if you want to, go for it.
 
-**Department Store 8F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Big Root*     |$1200          |
-|*Focus Band*   |$2500          |
-|*Zoom Lens*    |$1200          |
-|*Scope Lens*   |$2200          |
-|*Bright Powder*|$2000          |
-|*Quick Claw*   |$1800          |
+!shop("Department Store 8F (Right)", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Bright Powder", "Quick Claw"])
 
 We've gotten some of these already but sheesh finally some mildly decent non-consumable held items for sale.
 

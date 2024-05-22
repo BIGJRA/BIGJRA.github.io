@@ -103,13 +103,7 @@ Don't talk to the guys here quite yet though - we'll be making a choice in a bit
 
 Next, enter the Spyce restaurant below and to the right. A guy inside will give you a *Full Incense*. In a nearby trash can you can find *TM56 Fling*.
 
-**The Spyce Drink Shop**
-
-|Item           |Price  |
-|---------------|-------|
-|*Fresh Water*  |$200   |
-|*Soda Pop*     |$300   |
-|*Lemonade*     |$350   |
+!shop("The Spyce", ["Fresh Water", "Soda Pop", "Lemonade"])
 
 Back in the main part of the ward, talk to the people here and in the nearby buildings if you'd like.
 
@@ -172,58 +166,21 @@ Enter the flower shop on the left side of the ward. Someone inside will give you
 
 !img("spritzee.jpg")
 
-**Sweet Scent Flower Shop Top**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Honey*        |$1000          |
-|*Oran Berry*   |$200           |
-|*Rose Incense* |$9600          |
-|*Floral Charm* |$1500          |
-|*Sachet*       |$1000          |
-|*PokéSnax*     |$400           |
+!shop("Sweet Scent Flowers (Top)", ["Honey", "Oran Berry", "Rose Incense", "Floral Charm", "Sachet", "PokéSnax"])
 
 We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is a cheaper option to get the honey later on, however.
 
-**Sweet Scent Flower Shop Middle**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Red Nectar*   |$3000          |
-|*Yellow Nectar*|$3000          |
-|*Pink Nectar*  |$3000          |
-|*Purple Nectar*|$3000          |
+!shop("Sweet Scent Flowers (Middle) (0-12 Badges)", ["Red Nectar", "Yellow Nectar", "Pink Nectar", "Purple Nectar"])
 
 If you're planning on switching around your Oricorio a lot, this is the shop for you.
 
 Enter a small house on the left side of the ward and talk to a guy to get *TM21 Frustration*. In the Pokémart to your right, talk to a guy with a hood to get *TM07 Hail*. Next, enter the building to the right. For saving the kid from Scolipede, the mom here will give you the *Department Store Sticker: Drifloon*.
 
-**Department Store 4F Left Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Air Balloon*  |$400           |
-|*White Herb*   |$1000          |
-|*Mental Herb*  |$1000          |
-|*Power Herb*   |$1000          |
-|*Absorb Bulb*  |$1200          |
-|*Snowball*     |$1000          |
+!shop("Department Store 4F (Left)", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball"])
 
 Some consumables that may be useful in a pinch. We will much later on need a White Herb for a quest.
 
-**Department Store 4F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Smoke Ball*   |$2150          |
-|*Destiny Knot* |$8000          |
-|*Power Weight* |$15000         |
-|*Power Bracer* |$15000         |
-|*Power Belt*   |$15000         |
-|*Power Anklet* |$15000         |
-|*Power Lens*   |$15000         |
-|*Power Band*   |$15000         |
-|*TM48 Round*   |$9000          |
+!shop("Department Store 4F (Right)", ["Smoke Ball", "Destiny Knot", "Power Weight", "Power Bracer", "Power Belt", "Power Anklet", "Power Lens", "Power Band", "TM48 Round"], [nil, nil, nil, nil, nil, nil, nil, nil, 9000])
 
 Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokémon and cancel out other EV's. Meaning if you catch a new Pokémon you simply have to defeat any 8 Pokémon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. These are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
 

@@ -76,7 +76,7 @@ Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine
 
 With the Silver Ring in hand, we can catch Corey's **Skuntank** here! Behind it, pick up the *Silver Card*.
 
-Make your way to Citrine Mountain 2F by climbing the ladder in the top left corner, and climb the waterfall. Pick up the *Prism Scale* and hidden *Common Candy*. Climb the waterfall at the top to reach 3F. Here, you'll find 3 *Exp. Candy XL*, *Amplified Rock*, *Grass Memory*, *TM74 Gyro Ball*, hidden *Super Repel*, *Great Ball*, *Guard Spec.* and *Shoal Salt*. Oh, and you can get Corey's **Mareanie** here!
+Make your way to Citrine Mountain 2F by climbing the ladder in the top left corner, and climb the waterfall. Pick up the *Prism Scale* and hidden *Common Candy*. Climb the waterfall at the top to reach 3F. Here, you'll find 3 *Exp. Candy XL*, *Amplifield Rock*, *Grass Memory*, *TM74 Gyro Ball*, hidden *Super Repel*, *Great Ball*, *Guard Spec.* and *Shoal Salt*. Oh, and you can get Corey's **Mareanie** here!
 
 That wraps up our massive collection effort in the mountain complex. Return to Celestinine Cascade and head down the waterfall when you're ready.
 

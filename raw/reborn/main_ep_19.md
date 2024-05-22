@@ -4,6 +4,10 @@ Ok, there is no official episode title for the final chapter of the main game, s
 
 Anyways, exit Hardy's gym.
 
+First, a new default mart inventory update:
+
+!shop("Default Mart (17 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion", "Max Potion"])
+
 ## Labradorra City
 
 Fly over to Calcenon City. Talk to Hardy on the west side of the city.
@@ -348,19 +352,7 @@ For inputting this one, we'll get a Sylveon, holding a *Ribbon Collar*.
 
 Fly over to Jasper Ward and enter the second apartment from the left, on the bottom street. Talk to the attendant here to get access to the above floors. Head all the way to the top floor to get the *Fairium-Z*. Back down on the second floor, enter Apt. 2 and talk to the Gardevoir. Next, give the ribbon collar to Lottie to get the final one: *Department Store Sticker: Eevee*! Quite a sad story but hey, a nice reward.
 
-Department Store Penthouse Shop
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Eviolite*         |$20000         |
-|*Leftovers*        |$40000         |
-|*Life Orb*         |$30000         |
-|*Focus Sash*       |$20000         |
-|*Exp. Share*       |$3000          |
-|*Weakness Policy*  |$4000          |
-|*Sitrus Berry*     |$800           |
-|*Leppa Berry*      |$2000          |
-|*Reset Disc- ALL*  |$50000         |
+!shop("Department Store Penthouse", ["Eviolite", "Leftovers", "Life Orb", "Focus Sash", "Exp. Share", "Weakness Policy", "Sitrus Berry", "Leppa Berry", "Reset Disc- ALL"])
 
 There is also a person up here who will max out a Pokémon's friendship for $5000, which is nice.
 
@@ -704,6 +696,10 @@ Before we enter Victory Road, there's actually one more tutor that we now have a
 !tutor("Move Tutor Lykos", ["Celebrate"], ["Free"])
 
 Fun fact: this NPC was put in the game in honor of forum user LykosHand, who frequently wishes users a happy birthday! I have probably received 5 or 6 of these messages to date; they always make me celebrate. Thanks, Lykos.
+
+With all 18 badges, there is one more Default Mart update as well:
+
+!shop("Default Mart (18 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion", "Ultra Potion", "Max Potion", "Full Restore", "Revive"])
 
 ## Victory Road
 

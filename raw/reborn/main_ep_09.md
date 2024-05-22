@@ -9,13 +9,7 @@ Exit the gym.
 
 Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokémart here! One person sells the default items, but there is another vendor.
 
-**Chrysolia Pokémart Herb Shop**
-
-|Item               |Price  |
-|-------------------|-------|
-|*Herbal Extract*   |$600   |
-|*Energy Powder*    |$500   |
-|*Heal Powder*      |$450   |
+!shop("Chrysolia Pokémart Herbs", ["Herbal Extract", "Energy Powder", "Heal Powder"])
 
 The Powders aren't really worth it unless you're going for a Frustration build, but we will need two Herbal Extracts: one for a sidequest and one to continue the story.
 
@@ -38,35 +32,15 @@ We can talk to Noel to advance the plot, but we can actually use the second Herb
 
 Head over to the Chrysolia Forest and go up. You'll find the lady that was teleported off the bench here. Give her the Herbal Extract to get *Department Store Sticker: Chansey*.
 
-**Department Store 7F Left Shop**
+!shop("Department Store 7F (Left)", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem", "Fairy Gem"])
 
-|Item           |Price          |
-|---------------|---------------|
-|*Psychic Gem*  |$1200          |
-|*Bug Gem*      |$1200          |
-|*Rock Gem*     |$1200          |
-|*Ghost Gem*    |$1200          |
-|*Dark Gem*     |$1200          |
-|*Dragon Gem*   |$1200          |
-|*Steel Gem*    |$1200          |
-|*Ice Gem*      |$1200          |
-|*Fairy Gem*    |$1200          |
-
-**Department Store 7F Right Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Fire Gem*     |$1200          |
-|*Water Gem*    |$1200          |
-|*Normal Gem*   |$1200          |
-|*Grass Gem*    |$1200          |
-|*Electric Gem* |$1200          |
-|*Poison Gem*   |$1200          |
-|*Ground Gem*   |$1200          |
-|*Fighting Gem* |$1200          |
-|*Flying Gem*   |$1200          |
+!shop("Department Store 7F (Right)", ["Fire Gem", "Water Gem", "Normal Gem", "Grass Gem", "Electric Gem", "Poison Gem", "Ground Gem", "Fighting Gem", "Flying Gem"])
 
 You can grab some gems if you have a strategy that relies on them such as Flying-gem Acrobatics or Unburden Normal-gem Fake Out.
+
+Also worth noting is that the default mart inventory has been updated:
+
+!shop("Default Mart (6-9 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball", "Great Ball"])
 
 With that out of the way, head back to the Tanzan Cove. Prepare your team for a battle and talk to Noel...
 

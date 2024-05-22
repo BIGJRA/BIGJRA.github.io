@@ -710,11 +710,7 @@ Before we enter the tower, there's another thing we can do out here. Surf around
 
 You can pet Leafeon here for the Eeveelution petting quest. By defeating the Lv. 100 Exeggutor-Alola in the pot, you can talk to the pot to get the *Dragonium-Z*! There is also a top tier NPC and shop here.
 
-**Marcello's Lemonade Shop**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Lemonade*             |$350       |
+!shop("Marcello's Lemonade", ["Lemonade"])
 
 After buying as much lemonade as you can carry if you'd like, head into the Mirage Tower.
 
@@ -1090,17 +1086,7 @@ You can talk to the residents of the Train Town and learn about them. In the bot
 
 Depending on the time of day, Bouffalant Bill will be either outside or in a train car on the upper right side of the area that contains a healing machine. He will sell us some stuff.
 
-**Bouffalant Bill Shop**
-
-|Item           |Price      |
-|---------------|-----------|
-|*Poké Ball*    |$200       |
-|*Great Ball*   |$600       |
-|*Ultra Ball*   |$1200      |
-|*Max Repel*    |$900       |
-|*Escape Rope*  |$550       |
-|*Full Heal*    |$600       |
-|*Ultra Potion* |$1200      |
+!shop("Bouffalant Bill", ["Poké Ball", "Great Ball", "Ultra Ball", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
 
 In a train car at the top of the area you can access a PC and meet Stephoscope. Talking to her twice after visiting Teknite Ridge, you'll be given the *Houndoominite*. Excellent.
 

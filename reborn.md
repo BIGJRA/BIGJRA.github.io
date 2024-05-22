@@ -3883,7 +3883,7 @@ Item probabilities are listed [in the appendices](#mining-item-probabilities).
 
 We can't revive the fossils or use the Odd Keystone just yet, but hold onto them if you get them. The evolution stones can help you evolve your team if you manage to find them, and Heart Scales and Shards will be useful throughout the game. The remaining items are generally good hold items, though you can get at least one of each somewhere else in the game as well. There is an incredible number of these glowing rocks throughout the game. I won't be pointing out when there are rocks in a given room, but feel free to break them as you see them.
 
-Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You may find **Solrock** here - this is a randomly determined event. You'll also find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplified Rock*.
+Back in the main part of B1F, head to the left and smash the rock to go down a ladder. You may find **Solrock** here - this is a randomly determined event. You'll also find a hidden *Red Shard* as well as a *Rare Candy* and an *Amplifield Rock*.
 
 Make your way back to the part with the sequence of ledges on B2F, and take the second path from the left. You'll be able to smash a rock to get an *Exp. Candy M*. Next, head back up and take the rightmost path. Smash some rocks along the path to access a hidden *Exp. Candy M*. Following this path up, you'll find **Lunatone** if you didn't find Solrock earlier.
 
@@ -10217,7 +10217,7 @@ Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine
 
 With the Silver Ring in hand, we can catch Corey's **Skuntank** here! Behind it, pick up the *Silver Card*.
 
-Make your way to Citrine Mountain 2F by climbing the ladder in the top left corner, and climb the waterfall. Pick up the *Prism Scale* and hidden *Common Candy*. Climb the waterfall at the top to reach 3F. Here, you'll find 3 *Exp. Candy XL*, *Amplified Rock*, *Grass Memory*, *TM74 Gyro Ball*, hidden *Super Repel*, *Great Ball*, *Guard Spec.* and *Shoal Salt*. Oh, and you can get Corey's **Mareanie** here!
+Make your way to Citrine Mountain 2F by climbing the ladder in the top left corner, and climb the waterfall. Pick up the *Prism Scale* and hidden *Common Candy*. Climb the waterfall at the top to reach 3F. Here, you'll find 3 *Exp. Candy XL*, *Amplifield Rock*, *Grass Memory*, *TM74 Gyro Ball*, hidden *Super Repel*, *Great Ball*, *Guard Spec.* and *Shoal Salt*. Oh, and you can get Corey's **Mareanie** here!
 
 That wraps up our massive collection effort in the mountain complex. Return to Celestinine Cascade and head down the waterfall when you're ready.
 
@@ -11334,7 +11334,7 @@ While we were gone we got two stickers, so we can access some new floors of the 
 |*Up-Grade*         |$2100          |
 |*Prism Scale*      |$2500          |
 |*Oval Stone*       |$2100          |
-|*Amplified Rock*   |$3000          |
+|*Amplifield Rock*   |$3000          |
 |*TM22 Solar Beam*  |$15000         |
 
 **Department Store 10F Left Shop**
@@ -12826,7 +12826,7 @@ Heal and prepare your team as necessary, then proceed to the right.
     - Flare Blitz
     - Outrage
 
-Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplified Rock + Trick Room or a set-up sweeper with speed support.
+Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokemon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplifield Rock + Trick Room or a set-up sweeper with speed support.
 
 Once you win, proceed to the next room at the top. Our A-button transceiver will still work in this area, so keep that in mind before you step on floor tiles that push you into unlit tiles. In this part of the dungeon we'll need to activate wall panels to switch the direction of the floortiles.
 
@@ -14820,7 +14820,7 @@ Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door i
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 3 Solution</a>
 </div>
 
-Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed. In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**!
+Pick up the *Amplifield Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed. In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**!
 
 That's all we can do here, so escape from this cave.
 

@@ -3117,7 +3117,7 @@ Mining Probabilities
 | *Damp Rock*      | 1.7%          |
 | *Smooth Rock*    | 1.7%          |
 | *Icy Rock*       | 1.7%          |
-| *Amplified Rock* | 0.3%          |
+| *Amplifield Rock* | 0.3%          |
 | *Red Shard*      | 8.7%          |
 | *Green Shard*    | 8.7%          |
 | *Yellow Shard*   | 8.7%          |
@@ -10733,7 +10733,7 @@ League Scout Amanda (Factory Field)
     -   Fake Out
     -   Darkest Lariat
     -   Thunderpunch
--   Bronzong, Level 83. @ Amplified Rock.
+-   Bronzong, Level 83. @ Amplifield Rock.
     -   Rock Slide
     -   Gyro Ball
     -   Psywave
@@ -11331,7 +11331,7 @@ Cross the bridge near the AA grunt. Go straight up and follow this path all the 
 Head back out, but when you reach a fork, head left and go up the stairs here to get onto the area where Karen and Karrina are fighting.
 
 Gang Leader Karrina (Blessed Field)
--   Musharna, Level 84. @ Amplified Rock.
+-   Musharna, Level 84. @ Amplifield Rock.
     -   Gravity
     -   Dazzling Gleam
     -   Psyshock

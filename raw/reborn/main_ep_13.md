@@ -1,6 +1,10 @@
 # Episode 13: Cascade
 
-With 10 badges in hand, return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
+With 10 badges in hand, there is another default shop update.
+
+!shop("Default Mart (10-12 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion"])
+
+Return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
 
 **Relationship Point Choices:**
 - Tell Titania you were reading the journal (Neutral)

@@ -90,22 +90,9 @@ Hidden around the circus, you'll find 3 *Blue Shards*, *Oran Berry*, *Red Shard*
 
 Starting at the entrance we came in through and working vaguely clockwise, there are tons of things to buy, minigames, etc.
 
-**Agate Circus Cotton Candy Shop**
+!shop("Agate Circus Cotton Candy", ["Cotton Candy"])
 
-|Item           |Price  |
-|---------------|-------|
-|*Cotton Candy* |$5000  |
-
-**Agate Circus General Goods Shop**
-
-|Item           |Price  |
-|---------------|-------|
-|*Ultra Ball*   |$1200  |
-|*Super Repel*  |$700   |
-|*Escape Rope*  |$550   |
-|*Full Heal*    |$600   |
-|*Hyper Potion* |$1000  |
-|*Eviolite*     |$20000 |
+!shop("Agate Circus General Goods", ["Ultra Ball", "Super Repel", "Escape Rope", "Full Heal", "Hyper Potion", "Eviolite"])
 
 We can finally buy Ultra Balls! Also, although it's expensive, the Eviolite can turn certain Pokémon like Porygon2 and Dusclops into monsters for this part of the game.
 
@@ -113,16 +100,7 @@ We can finally buy Ultra Balls! Also, although it's expensive, the Eviolite can 
 
 We had access to this in Lapis, but here's one for this section of the game if you need it. There's a Move Relearner in the bottom right corner, again doing it for one Heart Scale per move.
 
-**Agate Circus Friendship Berries**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Pomeg Berry*  |$500           |
-|*Kelpsy Berry* |$500           |
-|*Qualot Berry* |$500           |
-|*Tamato Berry* |$500           |
-|*Hondew Berry* |$500           |
-|*Grepa Berry*  |$500           |
+!shop("Agate Circus Friendship Berries", ["Pomeg Berry", "Kelpsy Berry", "Qualot Berry", "Tamato Berry", "Hondew Berry", "Grepa Berry"])
 
 Just in case you need some.
 
@@ -132,28 +110,11 @@ To the left is a tile puzzle, which you can play in exchange for 1 Green Shard. 
 
 Winning will reward you a *Cover Fossil*. Nearby the healing machine is a candy vendor:
 
-**Agate Circus Candy**
-
-|Item               |Price      |
-|-------------------|-----------|
-|*Common Candy*     |$150       |
-|*Red-Hots*         |$850       |
-|*Chewing Gum*      |$800       |
-|*Salt-Water Taffy* |$850       |
-|*Peppermint*       |$600       |
-|*Pop Rocks*        |$750       |
-|*Exp. Candy XS*    |$500       |
-|*Exp. Candy S*     |$2000      |
-|*Exp. Candy M*     |$5000      |
-|*Exp. Candy L*     |$10000     |
+!shop("Agate Circus Candy", ["Common Candy", "Red-Hots", "Chewing Gum", "Salt-Water Taffy", "Peppermint", "Pop Rocks", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L"], [nil, nil, nil, nil, nil, nil, 500, 2000, 5000, 10000])
 
 To the left is another person selling *Ability Capsules* in exchange for 1, then 2, then 3 forevermore of random color shards.
 
-**Agate Circus Balloon Shop**
-
-|Item           |Price  |
-|---------------|-------|
-|*Air Balloon*  |$400   |
+!shop("Agate Circus Balloon", ["Air Balloon"])
 
 Next, you'll find an NPC who will change your Pokémon's Hidden Power type in exchange for a Heart Scale. Score another point for Reborn for "actually letting you customize any Pokémon" to let you win with your favorites. Past her is a nickname changer, also obsolete thanks to the party menu.
 
@@ -169,20 +130,9 @@ Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
 Down from here there are more stores and such.
 
-**Agate Circus Snax Shop**
+!shop("Agate Circus Snax", ["PokéSnax"], [200])
 
-|Item           |Price  |
-|---------------|-------|
-|*PokéSnax*     |$650   |
-
-**Agate Circus Ice Cream Shop**
-
-|Item                   |Price      |
-|-----------------------|-----------|
-|*Vanilla Ice Cream*    |$400       |
-|*Choc Ice Cream*       |$600       |
-|*Berry Ice Cream*      |$800       |
-|*Blue Moon Ice Cream*\*|$20000     |
+!shop("Agate Circus Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
 The Blue Moon Ice Cream shows up rarely with the same mechanics as before.
 
@@ -207,16 +157,7 @@ After you've gotten the grand prize, from then on it will be replaced with getti
 
 Once you get a Poké Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*.
 
-**Agate Circus Power Items Shop**
-
-|Item           |Price          |
-|---------------|---------------|
-|*Power Weight* |$15000         |
-|*Power Bracer* |$15000         |
-|*Power Belt*   |$15000         |
-|*Power Anklet* |$15000         |
-|*Power Lens*   |$15000         |
-|*Power Band*   |$15000         |
+!shop("Agate Circus Power Items", ["Power Weight", "Power Bracer", "Power Belt", "Power Anklet", "Power Lens", "Power Band"])
 
 Enter the gate on the right side that we came in from. Upstairs, a girl will take four Shoal Salts and four Shoal Shells and make us a *Shell Bell*! To her right, there is a clown who gives us a riddle. Solve the riddle for an in-game trade: our Stunfisk for his **Vulpix**!
 

@@ -88,62 +88,23 @@ None of these are mindblowing, but some of them can be useful for certain strate
 
 The guy to the right is selling random stuff:
 
-**Seventh Street Right Wares Shop**
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Adrenaline Orb*   |$300           |
-|*Metal Powder*     |$300           |
-|*Ill-Fated Doll*   |$300           |
-|*Iron Ball*        |$1000          |
-|*Lucky Punch*      |$200           |
-|*Eject Button*     |$1800          |
-|*Data Chip*        |$5000          |
-|*Magnet Powder*    |$600           |
-|*TM64 Explosion*   |$7500          |
+!shop("Seventh Street Misc. Wares (Right)", ["Adrenaline Orb", "Metal Powder", "Ill-Fated Doll", "Iron Ball", "Lucky Punch", "Eject Button", "Data Chip", "Magnet Powder", "TM64 Explosion"], [nil, nil, nil, nil, nil, nil, nil, nil, 7500])
 
 Pricey, but we finally have the ability to get as many data chips as we want for password inputs. We will also want a Magnet Powder for a quest later. There is another seller in the bottom left corner.
 
-**Seventh Street Right Wares Shop**
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Oval Stone*       |$2100          |
-|*Quick Powder*     |$300           |
-|*Sticky Barb*      |$600           |
-|*Charcoal*         |$800           |
-|*Soul Candle*      |$2000          |
-|*Light Ball*       |$500           |
-|*Stick*            |$200           |
-|*Float Stone*      |$400           |
-|*Binding Band*     |$1700          |
+!shop("Seventh Street Misc. Wares (Left)", ["Oval Stone", "Quick Powder", "Sticky Barb", "Charcoal", "Soul Candle", "Light Ball", "Stick", "Float Stone", "Binding Band"])
 
 Grab a Soul Candle and a Stick for later quests.
 
 To the right, you'll see one of your gang members making a sale:
 
-**Seventh Street Blast Powder Shop**
-
-|Item           |Price  |
-|---------------|-------|
-|*Blast Powder* |$2000  |
+!shop("Seventh Street Blast Powder Shop", ["Blast Powder"])
 
 Blast Powder will essentially let us mine all the mining rocks a second time. Buy at least 5 for now since there are a few things actually gated behind the mining rocks we'll want to grab, but getting more won't hurt. For what it's worth, saving in front of a rock until you find a Star Piece or Rare Bone in the rubble you can guarantee a return on investment for these things.
 
 Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokémon we previously worked with in the Blacksteam Meteor Factory.
 
-**Seventh Street Pokémon Seller**
-
-|Pokémon        |Price          |
-|---------------|---------------|
-|Vanillite      |3 Purple Shards|
-|Loudred        |5 Blue Shards  |
-|**Roggenrola** |3 Red Shards   |
-|**Abra**       |8 Purple Shards|
-|**Lickitung**  |7 Blue Shards  |
-|Makuhita       |3 Green Shards |
-|**Jigglypuff** |5 Green Shards |
-|**Cyndaquil**  |9 Red Shards   |
+!shop("Seventh Street Pokémon", ["Vanillite", "Loudred", "Roggenrola", "Abra", "Lickitung", "Makuhita", "Jigglypuff", "Cyndaquil"], ["3 Purple Shards", "5 Blue Shards", "3 Red Shards", "8 Purple Shards", "7 Blue Shards", "3 Green Shards", "5 Green Shards", "9 Red Shards"], true)
 
 There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners. I recommend breeding these Pokémon if you want to use them long term, keeping the originals in your PC.
 

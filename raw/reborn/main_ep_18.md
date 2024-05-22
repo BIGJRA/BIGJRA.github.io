@@ -177,7 +177,7 @@ Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door i
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 3 Solution</a>
 </div>
 
-Pick up the *Amplified Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed. In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**!
+Pick up the *Amplifield Rock*, *Adamant Mint*, and 4 *Glitter Balls*, then proceed. In this next room, you can get the *Rockium-Z* as well as a hidden *Dark Gem* and 3 *Exp. Candy XL*. And, you can battle and catch **Larvitar**!
 
 That's all we can do here, so escape from this cave.
 
@@ -1183,37 +1183,10 @@ Head on back to Agate City, and enter the building to the right of the Pokémon 
 
 In the next room, you can get the *Manectite* as well as *Department Store Sticker: Manectric*. Hallelujah. You know what that means!
 
-**Department Store 11F Left Shop**
+!shop("Department Store 11F (Left)", ["Rocky Helmet", "Shed Shell", "Expert Belt", "Safety Goggles", "Flame Orb", "Toxic Orb", "Wise Glasses", "Wide Lens", "Muscle Band", "Black Sludge"])
 
-|Item               |Price          |
-|-------------------|---------------|
-|*Rocky Helmet*     |$5000          |
-|*Shed Shell*       |$2000          |
-|*Expert Belt*      |$4000          |
-|*Safety Goggles*   |$999           |
-|*Flame Orb*        |$2000          |
-|*Toxic Orb*        |$2000          |
-|*Wise Glasses*     |$5000          |
-|*Wide Lens*        |$2500          |
-|*Muscle Band*      |$5000          |
-|*Black Sludge*     |$2500          |
+!shop("Department Store 11F (Right)", ["Magmarizer", "Electirizer", "Protector", "Reaper Cloth", "Dubious Disc", "King's Rock", "Dragon Scale", "Razor Fang", "Razor Claw", "Metal Coat", "Deep Sea Tooth", "Deep Sea Scale"])
 
-**Department Store 11F Right Shop**
-
-|Item               |Price          |
-|-------------------|---------------|
-|*Magmarizer*       |$2100          |
-|*Electirizer*      |$2100          |
-|*Protector*        |$2100          |
-|*Reaper Cloth*     |$2100          |
-|*Dubious Disc*     |$2100          |
-|*King's Rock*      |$3000          |
-|*Dragon Scale*     |$2100          |
-|*Razor Fang*       |$2100          |
-|*Razor Claw*       |$2100          |
-|*Metal Coat*       |$2100          |
-|*Deep Sea Tooth*   |$200           |
-|*Deep Sea Scale*   |$200           |
 
 A lot of high-tier held items and evolution items, all now available in bulk.
 
