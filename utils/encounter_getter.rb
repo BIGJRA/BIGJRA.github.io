@@ -11,8 +11,8 @@ class EncounterGetter
     @mapNames = map_names ||= get_map_names(game)
   end
 
-  def get_encounter_md(map_id, enc_type_exclude_list = nil, rods=nil, custom_map_name=nil)
-    enc_type_exclude_list ||= []
+  def get_encounter_md(map_id, include_list = nil, rods=nil, custom_map_name=nil)
+    include_list ||= []
     rods ||= ["Old", "Good", "Super"]
 
     data = @encHash[map_id]
@@ -35,7 +35,7 @@ class EncounterGetter
 
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
-      next if enc_type_exclude_list.include?(group.to_s)
+      next if !include_list.empty? && !include_list.include?(group.to_s)
       if group == :Fishing
         new_types = rods.map { |rod| "#{rod}Rod".to_sym if ["Old", "Good", "Super"].include?(rod) }.compact
         types = new_types unless new_types.empty?
@@ -166,8 +166,12 @@ end
 
 def main
   e = EncounterGetter.new('reborn')
+  puts e.get_encounter_md(29, ["Grass"])
+  puts "PAUSE"
+  puts e.get_encounter_md(29, ["Headbutt"])
+  puts "PAUSE2"
   puts e.get_encounter_md(29)
-  puts e.get_encounter_md(37, [])
+
 end
 
 main if __FILE__ == $PROGRAM_NAME

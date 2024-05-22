@@ -173,7 +173,7 @@ Anyways, there is grass here, which means we can obtain new team members!
 
 **Opal Ward**
 
-!enc(29, ["Headbutt"])
+!enc(29, ["Grass"])
 
 Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokémon in trees. We will also be able to trade away Bibarel for a different Pokémon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
 
@@ -266,7 +266,7 @@ On the left side of the Pokémon Center, you can find a hidden *Poison Gem* in s
 
 Back outside, we can actually fish in the dirty water.
 
-!enc(37, ["Headbutt", "Grass"], ["Old"])
+!enc(37, ["Fishing"], ["Old"])
 
 You can talk to the group below if you'd like, but you can't do anything here quite yet. To the right, you'll find a building to the left and up of the snax house. Inside, you'll be able to battle a guy.
 
@@ -274,7 +274,7 @@ You can talk to the group below if you'd like, but you can't do anything here qu
 
 If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
-!enc(46, [], ["Old"], "Lower Peridot Pool")
+!enc(46, nil, ["Old"], "Lower Peridot Pool")
 
 Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokémon's nickname from your party!
 
@@ -291,7 +291,7 @@ Enter the building here and talk to the old man for a battle.
 
 If you win, you'll be able to enter his garden.
 
-!enc(37, ["Headbutt", "Fishing"])
+!enc(37, ["Grass"])
 
 There is a trade for Sunkern we can do later on, so I recommend catching one. The topmost bush in this garden contains a hidden *Grass Gem*.
 
@@ -466,11 +466,11 @@ This one is a bit harder than the first two rival fights! Watch out for his Bude
 
 Around this time, your Zigzagoon/Bidoof will be able to learn Headbutt, so there are a few Pokémon you can now obtain. First, head to the garden:
 
-!enc(37, ["Grass", "Fishing"])
+!enc(37, ["Headbutt"])
 
 Note that we will eventually want a Mothim for an in-game trade, so ensure you catch a Male Burmy at some point. Next, head back to Opal Ward.
 
-!enc(29, ["Grass"])
+!enc(29, ["Headbutt"])
 
 Now is a good time to finish the Teddiursa quest if you haven't already. Keep in mind this has to be done on a clear day. After talking to it in the bottom part of the Lower Peridot Ward and then again on the left side near the Name Rater's house, you'll need to find it three more times. It can be found in one of the following locations, then will be found in the two after it in the list (cyclically).
 
