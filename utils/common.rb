@@ -10,7 +10,6 @@ SCRIPTS_DIR = CONFIG['scripts_dir']
 
 SECTIONS = {"reborn" => [["main", 19], ["post", 9], ["appendices", 1]], "rejuv" => [["main", 15]]}
 
-
 TYPE_IMGS = { :LandMorning => "morning", :LandDay => "day", :LandNight => "night", :OldRod => "oldrod", :GoodRod => "goodrod", :SuperRod => "superrod" }
 
 MON_NAME_FIX_DICT = {
