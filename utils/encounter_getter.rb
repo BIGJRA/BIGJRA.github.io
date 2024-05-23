@@ -5,10 +5,12 @@ class EncounterGetter
   attr_accessor :enc_hash
   attr_accessor :map_names
 
-  def initialize(game, enc_hash=nil, map_names=nil)
+  def initialize(game, enc_hash=nil, map_names=nil, enc_map_wrapper=nil, mon_hash=nil)
     @game = game
     @encHash = enc_hash ||= load_enc_hash(game)
     @mapNames = map_names ||= get_map_names(game)
+    @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game)
+    @monHash = mon_hash ||= load_pokemon_hash(game)
   end
 
   def get_encounter_md(map_id, include_list = nil, rods=nil, custom_map_name=nil)
@@ -65,7 +67,6 @@ class EncounterGetter
       mons.dup.each do |pokemon, data|
         mons[pokemon]["levels"] = set_to_range_string(mons[pokemon]["levels"])
       end
-      
 
       # Creates the header for the table
       thead = doc.create_element('thead')
@@ -123,16 +124,25 @@ class EncounterGetter
       
       table.add_child(thead)
 
-      mons.each do |pokemon_name, mon_data|
+      mons.each do |mon, mon_data|
         # Create a table row element
         tr = doc.create_element('tr')
         
         # Add Pokémon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
-        
-        # Apply bold style to the content
+
+        base_form = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @monHash[mon][base_form][:name]
+
+        if @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
+          form = @encMapWrapper.get_enc_maps(mon)[map_id]
+          form_key = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
+
+          pokemon_name_formatted += " (#{form_key})".sub(" Form", "")
+        end
+
         bold = doc.create_element('strong')
-        bold.content = pokemon_name.to_s.capitalize
+        bold.content = pokemon_name_formatted
         td_name.add_child(bold)
         tr.add_child(td_name)
         
@@ -166,11 +176,10 @@ end
 
 def main
   e = EncounterGetter.new('reborn')
-  puts e.get_encounter_md(29, ["Grass"])
-  puts "PAUSE"
-  puts e.get_encounter_md(29, ["Headbutt"])
-  puts "PAUSE2"
-  puts e.get_encounter_md(29)
+  #puts e.get_encounter_md(29, ["Grass"])
+  #puts e.get_encounter_md(29, ["Headbutt"])
+  #puts e.get_encounter_md(29)
+  puts e.get_encounter_md(170, ["Cave"])
 
 end
 

@@ -27,8 +27,9 @@ class FunctionWrapper
     @moveHash = load_move_hash(game)
     @abilityHash = load_ability_hash(game)
     @pokemonHash = load_pokemon_hash(game)
+    @encMapWrapper = EncounterMapWrapper.new(game)
 
-    @encGetter = EncounterGetter.new(game, @encHash, @mapNames)
+    @encGetter = EncounterGetter.new(game, @encHash, @mapNames, @encMapWrapper, @pokemonHash)
     @shopGetter = ShopGetter.new(game, @itemHash)
     @trainerGetter = TrainerGetter.new(game, @trainerHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash, @pokemonHash)
 

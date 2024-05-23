@@ -10,90 +10,7 @@ SCRIPTS_DIR = CONFIG['scripts_dir']
 
 SECTIONS = {"reborn" => [["main", 19], ["post", 9], ["appendices", 1]], "rejuv" => [["main", 15]]}
 
-TYPE_IMGS = { :LandMorning => "morning", :LandDay => "day", :LandNight => "night", :OldRod => "oldrod", :GoodRod => "goodrod", :SuperRod => "superrod" }
-
-MON_NAME_FIX_DICT = {
-  "Nidoranma" => ["Nidoran M.", "Nidoran-M"],
-  "Nidoranfe" => ["Nidoran F.", "Nidoran-F"],
-  "Mimejr" => ["Mime Jr.", "Mime-Jr"],
-  "Mrmime" => ["Mr. Mime", "Mr-Mime"],
-  "Typenull" => ["Type: Null", "Type-Null"],
-  "Tapukoko" => ["Tapu Koko", "Tapu-Koko"],
-  "Tapubulu" => ["Tapu Bulu", "Tapu-Bulu"],
-  "Tapufini" => ["Tapu Fini", "Tapu-Fini"],
-  "Tapulele" => ["Tapu Lele", "Tapu-Lele"],
-  "Mrrime" => ["Mr. Rime", "Mr-Rime"],
-  "Hooh" => ["Ho-oh", "Ho-oh"],
-  "Porygonz" => ["Porygon-Z", "Porygon-Z"],
-  "Jangmoo" => ["Jangmo-o", "Jangmo-o"],
-  "Hakamoo" => ["Hakamo-o", "Hakamo-o"],
-  "Kommoo" => ["Kommo-o", "Kommo-o"],
-  "Farfetchd" => ["Farfetch'd", "Farfetchd"],
-  "Sirfetchd" => ["Sirfetch'd", "Sirfetchd"],
-  "Porygon2" => ["Porygon2", "Porygon2"],
-  "Flabebe" => ["Flabebe", "Flabebe"]
-}
-
-
-POKEMON_WIDTH = 19 # width of pokemon name column for encounter md tables
-PERCENT_WIDTH = 3 # width of percent for encounter md tables. 
-# (always 3 for vals <= 100)
-
-ENC_TYPES = {
-  "Land" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
-  "LandMorning" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
-  "LandDay" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
-  "LandNight" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
-  "Water" => [60, 30, 5, 4, 1],
-  "RockSmash" => [60, 30, 5, 4, 1],
-  "Cave" => [20, 20, 10, 10, 10, 10, 5, 5, 4, 4, 1, 1],
-  "OldRod" => [70, 30],
-  "GoodRod" => [60, 20, 20],
-  "SuperRod" => [40, 40, 15, 4, 1],
-  "HeadbuttLow" => [30, 25, 20, 10, 5, 5, 4, 1],
-  "HeadbuttHigh" => [30, 25, 20, 10, 5, 5, 4, 1]
-}
-
-ENC_NAMES = {
-  "OldRod" => "Old Rod",
-  "GoodRod" => "Good Rod",
-  "SuperRod" => "Super Rod",
-  "WaterGoodRodSuperRod" => "Water/G+S Rods",
-  "Land" => "Land",
-  "LandMorningLandDayLandNight" => "Land",
-  "LandMorning" => "Land (Morning)",
-  "LandDay" => "Land (Day)",
-  "LandMorningLandDay" => "Land (Morning/Day)",
-  "LandNight" => "Land (Night)",
-  "Cave" => "Cave",
-  "Water" => "Water",
-  "RockSmash" => "Rock Smash",
-  "HeadbuttLow" => "Headbutt Rare",
-  "HeadbuttHigh" => "Headbutt Common",
-  "HeadbuttLowHeadbuttHigh" => "Headbutt"
-}
-
-CORR_MON_NAMES = {
-  "Nidoranma" => "Nidoran M.",
-  "Nidoranfe" => "Nidoran F.",
-  "Mimejr" => "Mime Jr.",
-  "Mrmime" => "Mr. Mime",
-  "Typenull" => "Type: Null",
-  "Tapukoko" => "Tapu Koko",
-  "Tapubulu" => "Tapu Bulu",
-  "Tapufini" => "Tapu Fini",
-  "Tapulele" => "Tapu Lele",
-  "Mrrime" => "Mr. Rime",
-  "Hooh" => "Ho-oh",
-  "Porygonz" => "Porygon-Z",
-  "Jangmoo" => "Jangmo-o",
-  "Hakamoo" => "Hakamo-o",
-  "Kommoo" => "Kommo-o",
-  "Farfetchd" => "Farfetch'd",
-  "Sirfetchd" => "Sirfetch'd",
-  "Porygon2" => "Porygon2",
-  "Flabebe" => "Flabebe"
-}
+TYPE_IMGS = {:LandMorning => "morning", :LandDay => "day", :LandNight => "night", :OldRod => "oldrod", :GoodRod => "goodrod", :SuperRod => "superrod" }
 
 EV_ARRAY = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
 
@@ -192,7 +109,6 @@ def load_mining_hash(game=nil)
   return grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
 end
 
-
 def get_map_names(game)
   ret = {}
   data = File.read(File.join(SCRIPTS_DIR, game, 'metatext.rb'))
@@ -210,9 +126,72 @@ def get_map_names(game)
   ret
 end
 
+class EncounterMapWrapper
+  def initialize(game)
+    @data = {}
+    parse_file(game)
+    case game
+    when "reborn" then @encounterMaps = {
+      :RATTATA    => {1 => "Rattata"},
+      :RATICATE   => {1 => "Rattata"},
+      :SANDSHREW  => {1 => "Sandshrew"},
+      :SANDSLASH  => {1 => "Sandshrew"},
+      :VULPIX     => {1 => "Vulpix"},
+      :NINETALES  => {1 => "Vulpix"},
+      :DIGLETT    => {1 => "Diglett"},
+      :DUGTRIO    => {1 => "Diglett"},
+      :MEOWTH     => {1 => "Rattata"},
+      :PERSIAN    => {1 => "Rattata"},
+      :GEODUDE    => {1 => "Geodude"},
+      :GRAVELER   => {1 => "Geodude"},
+      :GOLEM      => {1 => "Geodude"},
+      :GRIMER     => {1 => "Grimer"},
+      :MUK        => {1 => "Grimer"},
+      :MAROWAK    => {1 => "Cubone"},
+    }
+    when "rejuv" then {}
+    end
+    
+  end
+
+  def get_enc_maps(pokemon_symbol)
+    form_data = @encounterMaps[pokemon_symbol]
+    return {} unless form_data
+    
+    form_number = form_data.keys.first
+    mon_name = form_data.values.first
+    result = {}
+    @data[mon_name].each { |num| result[num] = form_number }
+    result
+  end
+  
+  
+  private
+
+  def parse_file(game)
+    file_contents = File.read(File.join(SCRIPTS_DIR, game, 'SystemConstants.rb'))
+    relevant_contents = file_contents.scan(/# Evos first(.*?)# \* Constants for maps to reflect sprites on/m)
+  
+    relevant_contents[0][0].scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/) do |pokemon_name, pokemon_numbers|
+      process_assignment(pokemon_name.strip, pokemon_numbers)
+    end
+  end
+  
+  def process_assignment(pokemon_name, pokemon_numbers)
+    numbers_array = pokemon_numbers.split(',').map(&:strip).map(&:to_i)
+    @data[pokemon_name] = numbers_array
+  end
+  
+  def parse_map_numbers(pokemon_numbers)
+    pokemon_numbers.scan(/\d+/).map(&:to_i)
+  end
+end
 
 def main
-  p load_mining_hash
+  wrapper = EncounterMapWrapper.new('reborn')
+  p wrapper.get_enc_maps(:Marowak)
+  p wrapper.get_enc_maps(:Grimer)
+  p wrapper.get_enc_maps(:Meowth)
 end
 
 main if __FILE__ == $PROGRAM_NAME
