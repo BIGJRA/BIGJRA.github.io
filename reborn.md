@@ -376,7 +376,7 @@ If this is your first time playing, don't worry too much about passwords - in fa
 
 - If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokemon for random events. I love to do monotype runs (for example, [here's one I have already completed!](https://www.reddit.com/r/PokemonReborn/comments/uh5wnk/i_cleared_the_entirety_of_e19_with_only_water/) ) and I really recommend trying one of these especially for a second playthrough.
 - You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
-- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HM's without teaching them to your Pokemon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
+- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HMs without teaching them to your Pokemon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.
 - *fullevs* ramps up the difficulty significantly by making every Pokemon both hit hard and have some bulk. Reborn is already a tough game without this password, so tread carefully with this one.
@@ -1190,7 +1190,7 @@ Pokemon Reborn's first gym leader comes in pretty hot. You'll notice that she mo
 
 Her team luckily isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. Reborn doesn't always force you to keep the default field around, however: if you have Zigzagoon, you can use Mud Sport to destroy the field, making things a bit more even for you.
 
-Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TMs are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing section 1 of Pokemon Reborn!
 
 # Episode 2: Reap What's Been Sewn
 
@@ -2974,7 +2974,7 @@ One more trainer is to the right at the stairs.
 
 You'll find hidden *Zinc*, *X Sp. Def*, *Super Potion*, *Ether*, *Common Candy*, *Synthetic Seed*, *Ability Capsule*, *Chewing Gum*, and *Great Ball* around the ward.
 
-Finding this last item will put us in front of the nightclub: from 8PM to 4AM you can enter. You can get one of the best TM's in the game here: *TM17 Protect*!
+Finding this last item will put us in front of the nightclub: from 8PM to 4AM you can enter. You can get one of the best TMs in the game here: *TM17 Protect*!
 
 Outside, the building to your right contains a *Telluric Seed*. There's an alleyway outside containing some gang members nearby.
 
@@ -16681,7 +16681,7 @@ Enter your open door, prepare your team, then head in for our first fight.
     - Hyper Beam
     - Grass Knot
 
-Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TM's on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
+Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TMs on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
 
 Once you succeed, follow the path to the next area.
 
@@ -16831,7 +16831,7 @@ Saphira's team doesn't pull punches: six of the best Dragon types in the game al
 
 Since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
-Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100!
+Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TMs. The cap also becomes Lv. 100!
 
 ## Escaping the Tournament
 

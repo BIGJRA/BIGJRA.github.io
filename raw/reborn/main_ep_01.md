@@ -63,7 +63,7 @@ If this is your first time playing, don't worry too much about passwords - in fa
 
 - If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokémon for random events. I really recommend trying one of these especially for a second playthrough.
 - You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
-- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HM's without teaching them to your Pokémon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
+- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HMs without teaching them to your Pokémon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.
 - *fullevs* ramps up the difficulty significantly by making every Pokémon both hit hard and have some bulk. Reborn is already a tough game without this password, so tread carefully with this one.
@@ -640,4 +640,4 @@ Pokémon Reborn's first gym leader is live! Julia's team centers around two stra
 
 Luckily, the team isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. *Reborn doesn't always force you to keep the default field around*, however: if you have Zigzagoon, you can use Mud Sport to destroy the Electric Terrain field entirely!
 
-Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TM's are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing Episode 1 of Pokémon Reborn!
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TMs are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing Episode 1 of Pokémon Reborn!

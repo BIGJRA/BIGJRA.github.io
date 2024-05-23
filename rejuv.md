@@ -552,7 +552,7 @@ AP Shop
 |*Sp. Atk Card*         |10 AP  |
 |*Sp. Def Card*         |10 AP  |
 
-I wouldn't recommend buying any of the first nine items until you get everything else. Golden Items allow us to use HM's without needing a Pokemon in the party that has learned them. The Cards allow us to access EV training rooms. Exp. All is very helpful for grinding, but with the grinders and Exp. Candies, it may not be the most useful thing for its high price yet. The cards let you into the basement of the Gearen lab to do rapid EV training. When you do get access to each EV room, inside you'll find the respective Power item: *Power Anklet, Power Band, Power Belt, Power Bracer, Power Lens, Power Weight.*
+I wouldn't recommend buying any of the first nine items until you get everything else. Golden Items allow us to use HMs without needing a Pokemon in the party that has learned them. The Cards allow us to access EV training rooms. Exp. All is very helpful for grinding, but with the grinders and Exp. Candies, it may not be the most useful thing for its high price yet. The cards let you into the basement of the Gearen lab to do rapid EV training. When you do get access to each EV room, inside you'll find the respective Power item: *Power Anklet, Power Band, Power Belt, Power Bracer, Power Lens, Power Weight.*
 
 When I play, I tend to buy the Golden Hammer first, then begin collecting the Cards. I'll buy the Golden Axe as soon as I get Cut, then finish with AP cards. Then I'll buy the rest of the Golden Items as I need them, and the Exp. All when I have enough AP.
 
@@ -2934,7 +2934,7 @@ She won't upgrade further until we've found four children - so let's go ahead an
 4.  Matthew can be found on Route 3, the second bridge from the bottom.
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
 
-These are the only five we can get before we get a few more HM's, so return to the Lost Camp and there'll be a few new things we can do.
+These are the only five we can get before we get a few more HMs, so return to the Lost Camp and there'll be a few new things we can do.
 
 First, Maman will let us donate again. Donate another $2500, and the camp will be upgraded for a second time! Exit and return.
 

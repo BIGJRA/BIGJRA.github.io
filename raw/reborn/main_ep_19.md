@@ -497,7 +497,7 @@ Enter your open door, prepare your team, then head in for our first fight.
     - Hyper Beam
     - Grass Knot
 
-Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TM's on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
+Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TMs on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
 
 Once you succeed, follow the path to the next area.
 
@@ -647,7 +647,7 @@ Saphira's team doesn't pull punches: six of the best Dragon types in the game al
 
 Since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokémon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokémon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
-Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TM's. The cap also becomes Lv. 100!
+Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Dragon Claw*! That makes 18 badges and all 100 (+9) TMs. The cap also becomes Lv. 100!
 
 ## Escaping the Tournament
 
