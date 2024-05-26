@@ -37,6 +37,9 @@ class EncounterGetter
 
     found_group = false
 
+    table = doc.create_element('table')
+    div.add_child(table)
+
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
       next if !include_list.empty? && !include_list.include?(group.to_s)
@@ -50,9 +53,6 @@ class EncounterGetter
       # I group Land M/D/N together, and also fishing rods. This num_cols thus keeps the number of columns 
       # in the ultimate table together.
       num_cols = types.length + 2
-
-      table = doc.create_element('table')
-      div.add_child(table)
 
       # Creates a hash where mons will note every possible level, and rates per encounter type
       mons = Hash.new { |hash, key| hash[key] = { "levels" => Set.new }.merge(types.map { |type| [type, 0] }.to_h) }
