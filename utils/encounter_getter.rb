@@ -35,6 +35,8 @@ class EncounterGetter
     div = doc.create_element('div', class: 'encounter_section')
     doc.add_child(div)
 
+    found_group = false
+
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
       next if !include_list.empty? && !include_list.include?(group.to_s)
@@ -43,6 +45,7 @@ class EncounterGetter
         types = new_types unless new_types.empty?
       end
 
+      found_group = true
 
       # I group Land M/D/N together, and also fishing rods. This num_cols thus keeps the number of columns 
       # in the ultimate table together.
@@ -167,6 +170,8 @@ class EncounterGetter
       end
     end
 
+    throw "No encounter tables found for specified" if !found_group 
+
     html_output = doc.to_html 
     return html_output.split("\n")[1..].join("\n")
 
@@ -180,7 +185,7 @@ def main
   #puts e.get_encounter_md(29, ["Headbutt"])
   #puts e.get_encounter_md(29)
   puts e.get_encounter_md(170, ["Cave"])
-
+  puts e.get_encounter_md(229, ["Headbutt"])
 end
 
 main if __FILE__ == $PROGRAM_NAME

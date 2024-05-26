@@ -506,7 +506,7 @@ However, talking to your partner while they're walking with you tends to have po
 
 Partners also fully heal your team after every battle, which can be useful for grinding.
 
-!battle(["Fern", :Hotshot, 3], nil, nil, true)
+!partner(["Fern", :Hotshot, 3])
 
 Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. Start by going left.
 

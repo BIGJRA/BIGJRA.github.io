@@ -189,9 +189,10 @@ end
 
 def main
   wrapper = EncounterMapWrapper.new('reborn')
-  p wrapper.get_enc_maps(:Marowak)
+  p wrapper.get_enc_maps(:MAROWAK)
   p wrapper.get_enc_maps(:Grimer)
   p wrapper.get_enc_maps(:Meowth)
+  p wrapper.get_enc_maps(:CRABOMINABLE)
 end
 
 main if __FILE__ == $PROGRAM_NAME

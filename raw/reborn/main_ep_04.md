@@ -160,7 +160,7 @@ Finally, we can take the huge series of ledges to take the third path from the l
 
 Talk to the guy in the center here, then head to the left and talk to the two here for a battle. Victoria will partner with us:
 
-!battle(["Victoria", :Victoria, 2], nil, nil, true)
+!partner(["Victoria", :Victoria, 2])
 
 !battle(["Aster", :AsterKnight, 2], "Crystal Cavern", ["Eclipse", :EclipseDame, 2])
 
@@ -209,7 +209,7 @@ Before fighting Shelly, time for a quest. We are required to join a gang to fini
 
 ### The Magma Gang Route (Part 1)
 
-Skip to the next section if you chose the Aqua Gang.
+If you chose the Aqua Gang, [jump to the next section](#the-aqua-gang-route-part-1)
 
 Talk to the guys guarding the North Obsidia alleyway for a battle.
 
@@ -235,7 +235,7 @@ Defeat him... only to learn he already sold the Pokémon to someone in 7th Stree
 
 ### The Aqua Gang Route (Part 1)
 
-Skip to the next section if you chose the Magma Gang.
+If you chose the Magma Gang, [jump to the next section](#getting-the-bicycle-and-zorua)
 
 Talk to the guys guarding the Lapis alleyway for a battle.
 

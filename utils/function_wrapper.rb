@@ -40,7 +40,8 @@ class FunctionWrapper
       "battle" => "generate_trainer_markdown",
       "mine" => "generate_mining_markdown",
       "wildheld" => "generate_wild_held_markdown",
-      "tutor" => "generate_tutor_markdown"
+      "tutor" => "generate_tutor_markdown",
+      "partner" => "generate_partner_markdown"
     }
 
   end
@@ -200,6 +201,10 @@ class FunctionWrapper
 
   def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
     return @trainerGetter.generate_trainer_markdown(trainer_id, field, second_trainer_id, is_partner)
+  end
+
+  def generate_partner_markdown(trainer_id)
+    return generate_trainer_markdown(trainer_id, nil, nil, true)
   end
 
   def generate_tutor_markdown(tutor_title, moves, prices)

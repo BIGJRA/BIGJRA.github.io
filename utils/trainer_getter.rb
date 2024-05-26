@@ -21,7 +21,7 @@ class TrainerGetter
 
   def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
     raise "Trainer ID #{trainer_id} not in Trainer Hash" if !@trainer_hash[trainer_id]
-    raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainer_hash[trainer_id]
+    raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainer_hash[second_trainer_id]
     raise "Not a field - probably put trainer 2 in field arg: #{field}" if (field && !field.index('[').nil?)
 
     trainer_data = @trainer_hash[trainer_id]
@@ -80,7 +80,7 @@ class TrainerGetter
       th.add_child(field_div)
     end
   
-    if !item_symbols.empty?
+    if !is_partner && !item_symbols.empty?
       item_str = item_symbols.map { |sym, count| "#{@item_hash[sym][:name]} #{count > 1 ? "(#{count})" : ""}" }
       items_div = doc.create_element('div')
       items_div.content = "Items: #{item_str.join(', ')}"
