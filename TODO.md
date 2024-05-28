@@ -1,1 +1,6 @@
-Add regular trainers... sometime in the future. Message me if you want to help with this.
+- [ ] Complete a replay of Reborn 19.5, updating the guide appropriately
+- [ ] Use new Ruby Util functions to update all the content in Reborn
+- [ ] Update the homepage to make it a better portfolio
+- [ ] Add a sidebar navigation menu
+- [ ] Complete a replay of Rejuv 13.5, updating the guide appropriately
+- [ ] Use new Ruby Util functions to update all the content in Rejuv
