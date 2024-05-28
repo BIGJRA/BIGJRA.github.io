@@ -30,6 +30,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 github:
   is_project_page: true
 
+discord:
+  url: https://discord.gg/3r83avH4sv
+
 # Build settings
 theme: jekyll-theme-slate
 
