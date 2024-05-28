@@ -37,8 +37,7 @@ class EncounterGetter
 
     found_group = false
 
-    table = doc.create_element('table')
-    div.add_child(table)
+
 
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
@@ -57,6 +56,9 @@ class EncounterGetter
       # Creates a hash where mons will note every possible level, and rates per encounter type
       mons = Hash.new { |hash, key| hash[key] = { "levels" => Set.new }.merge(types.map { |type| [type, 0] }.to_h) }
       
+      table = doc.create_element('table')
+      div.add_child(table)
+
       types.each do |type|
         next if !data[type]
         data[type].each do |mon, arr|

@@ -4,27 +4,7 @@ Take the yacht to Azurine Island.
 
 ## Azurine Island
 
-**Azurine Island**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Palpitoad**     |25 |**Palpitoad**     |25 |**Foongus**       |20 |
-|**Foongus**       |20 |**Foongus**       |20 |Gloom             |20 |
-|**Yanma**         |16 |Gloom             |20 |**Palpitoad**     |15 |
-|**Wooper**        |10 |**Wooper**        |10 |Skorupi           |10 |
-|**Shellos**       |10 |**Shellos**       |10 |**Zubat**         |10 |
-|Gloom             |10 |**Shelmet**       |6  |**Amoonguss**     |10 |
-|**Quagsire**      |5  |**Quagsire**      |5  |**Quagsire**      |5  |
-|**Amoonguss**     |4  |**Amoonguss**     |4  |Paras             |4  |
-|                  |   |                  |   |**Golbat**        |4  |
-|                  |   |                  |   |**Parasect**      |1  |
-|                  |   |                  |   |Ariados           |1  |
-
-|Old Rod           |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Grimer            |100|Pineco            |55 |
-|                  |   |Burmy             |30 |
-|                  |   |**Exeggcute**     |15 |
+!enc(206, nil, ["Old"])
 
 With that, we can start to explore this island. Note that many item balls are Foongus in disguise.
 
@@ -40,37 +20,7 @@ Head down the ledge on the east island. You can find a hidden *Swift Wing* here 
 
 You can head down as soon as you touch land to get a *Miracle Seed*. Back on land, you'll find a hidden *Great Ball* and *Guard Spec.* Use the Light Shard and head left. Before continuing left to the next island, you can go down via the ivy to find one hidden *Dusk Ball* and one non-hidden *Dusk Ball*. Head up and left when you're ready.
 
-**Meteor Private Aster and Meteor Private Eclipse (2x Hyper Potion). Field: Swamp Field**
-- Solrock, Lv. 38, Bashful Nature, IVs: 20
-    - Cosmic Power
-    - Psywave
-    - Fire Spin
-    - Rock Slide
-- Passimian, Lv. 39, Ability: Receiver, Adamant Nature, IVs: 10
-    - Brick Break
-    - Double-Edge
-    - Bulk Up
-    - Bulldoze
-- Lycanroc-Midnight, Lv. 41, Ability: No Guard, Adamant Nature, IVs: 31
-    - Thunder Fang
-    - Rock Slide
-    - Crunch
-    - Swords Dance
-- Lunatone, Lv. 38, Bashful Nature, IVs: 20
-    - Cosmic Power
-    - Psywave
-    - Hypnosis
-    - Rock Slide
-- Oranguru, Lv. 39, Ability: Telepathy, Modest Nature, IVs: 10
-    - Foul Play
-    - Instruct
-    - Reflect
-    - Nature Power
-- Lycanroc-Midday, Lv. 41, Ability: Sand Rush, Jolly Nature, IVs: 31
-    - Fire Fang
-    - Accelerock
-    - Rock Slide
-    - Crush Claw
+!battle(["Aster", :AsterKnight, 3], "Swamp Field", ["Eclipse", :EclipseDame, 3])
 
 Another battle with Aster and Eclipse, this time featuring a full team. Solrock and Lunatone are somewhat slow and have many weaknesses. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokémon with Nature Power into field-boosted Muddy Water, so be careful of that.
 
@@ -78,27 +28,7 @@ Left from here you'll grab a hidden *Potion*, *Tiny Mushroom*, *Ether*, and *Esc
 
 Pick up the *PULSE Readout 6* and talk to the machine in the top to reveal a secret passageway. Heal or switch up your team and go up.
 
-**Meteor Admin Taka (2x Hyper Potion). Field: Factory Field**
-- Klefki, Lv. 40, Ability: Prankster, Bold Nature, IVs: 13
-    - Spikes
-    - Mirror Shot
-    - Draining Kiss
-    - Foul Play
-- Exeggutor-Alola, Lv. 41, @Sitrus Berry, Ability: Harvest, Adamant Nature, IVs: 30
-    - Dragon Hammer
-    - Wood Hammer
-    - Hypnosis
-    - Nature Power
-- Gligar, Lv. 42, Ability: Sand Veil, Adamant Nature, IVs: 30
-    - U-turn
-    - Acrobatics
-    - Night Slash
-    - Roost
-- Chatot, Lv. 45, @Sitrus Berry, Ability: Keen Eye, Timid Nature, IVs: 31
-    - Heat Wave
-    - Nasty Plot
-    - Chatter
-    - Roost
+!battle(["Taka", :Taka, 1], "Factory Field")
 
 Time to fight Taka again. Although he has added Klefki and Gligar to his team, neither should be too threatening. Just be careful of Exeggutor hitting hard with its STABs and Nature Power -> Gear Grind, and also Chatot setting up on you.
 
