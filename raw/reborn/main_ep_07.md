@@ -40,61 +40,32 @@ Once you're back on Apophyll, prepare your team. It's worth pointing out that wi
 
 Head in and you'll be partnered up with Victoria.
 
+!partner(["Victoria", :Victoria, 5])
+
 **Relationship Point Choices:**
 - Try to leave Pyrous while partnered with Victoria (-2 Victoria)
 
-**Meteor Grunt Ama & Meteor Grunt Christopher. Field: Super-Heated Field**
-- Noctowl, Lv. 39, Serious Nature, IVs: 10
-- Dodrio, Lv. 39, Serious Nature, IVs: 10
-- Klang, Lv. 40, Serious Nature, IVs: 10
-- Gabite, Lv. 39, Serious Nature, IVs: 10
-- Shuckle, Lv. 39, Serious Nature, IVs: 10
-- Doublade, Lv. 40, Serious Nature, IVs: 10
+!battle(["Ama", :MeteorGrunt, 1], "Super-Heated Field", ["Christopher", :MeteorGrunt, 1])
 
 Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go. To the left:
 
-**Meteor Grunt Antoine & Meteor Grunt Demian. Field: Super-Heated Field**
-- Mightyena, Lv. 40, Serious Nature, IVs: 10
-- Liepard, Lv. 40, Serious Nature, IVs: 10
-- Venomoth, Lv. 40, Serious Nature, IVs: 10
-- Graveler, Lv. 40, Serious Nature, IVs: 10
+!battle(["Antoine", :MeteorGrunt, 1], "Super-Heated Field", ["Demian", :MeteorGrunt, 1])
 
 On B1F:
 
-**Meteor Grunt Minta & Meteor Grunt Chad. Field: Super-Heated Field**
-- Hariyama, Lv. 39, Serious Nature, IVs: 10
-- Sudowoodo, Lv. 39, Serious Nature, IVs: 10
-- Haunter, Lv. 40, Serious Nature, IVs: 10
-- Venomoth, Lv. 39, Serious Nature, IVs: 10
-- Pignite, Lv. 39, Serious Nature, IVs: 10
-- Fearow, Lv. 40, Serious Nature, IVs: 10
+!battle(["Minta", :MeteorGrunt_090, 1], "Super-Heated Field", ["Chad", :MeteorGrunt, 1])
 
 Back on 1F, following the path up the mountain:
 
-**Meteor Grunt Michaela & Meteor Grunt Winter. Field: Super-Heated Field**
-- Skuntank, Lv. 40, Serious Nature, IVs: 10
-- Minior, Lv. 40, Serious Nature, IVs: 10
-- Metang, Lv. 40, Serious Nature, IVs: 10
-- Milotic, Lv. 40, Serious Nature, IVs: 10
+!battle(["Michaela", :MeteorGrunt_090, 1], "Super-Heated Field", ["Winter", :MeteorGrunt, 1])
 
-**Meteor Dame Regina & Meteor Dame Gretchen. Field: Super-Heated Field**
-- Tsareena, Lv. 40, Serious Nature, IVs: 10
-- Houndoom, Lv. 41, Serious Nature, IVs: 10
-- Serperior, Lv. 40, Serious Nature, IVs: 10
-- Delcatty, Lv. 40, Serious Nature, IVs: 10
-- Lunatone, Lv. 40, Serious Nature, IVs: 10
-- Heliolisk, Lv. 41, Serious Nature, IVs: 10
+!battle(["Regina", :MeteorDame, 0], "Super-Heated Field", ["Gretchen", :MeteorDame, 0])
 
-Once you reach the peak, it's time for that boss battle I was talking about.
+Once you reach the peak, Victoria will separate from us as a partner. It's time for that boss battle I was talking about.
 
 **In order to access the exclusive postgame route, you need to win this battle.**
 
-**Meteor Leader Solaris (2x Full Heal). Field: Super-Heated Field**
-- Garchomp, Lv. 75, @Leftovers, Ability: Rough Skin, Adamant Nature, IVs: 31
-    - Dragon Rush
-    - Earthquake
-    - Fire Fang
-    - Stone Edge
+!battle(["Solaris", :Solaris, 0], "Super-Heated Field")
 
 This is an "impossible battle" in the normal sense that the story will progress if you lose, but it actually does acknowledge your success with being a precondition for one of the postgame routes as well as some points. For that reason I will hide the text on my recommendations.
 
@@ -113,116 +84,45 @@ Return to Reborn City after the scenes here conclude.
 
 Once more, trainers in the Grand Hall have gotten stronger. Defeating them will now yield 5 *Exp. Candy L*, so grinding weaker team members is much easier. The updated teams are as follows:
 
-**Arcade Star Carol (SUN). Field: No Field**
-- Feraligatr, Lv. 50, Serious Nature, IVs: 10
-- Furret, Lv. 50, Serious Nature, IVs: 10
-- Furfrou, Lv. 50, Serious Nature, IVs: 10
-- Meganium, Lv. 50, Serious Nature, IVs: 10
+**Sunday:**
 
-**Hotshot Fawkes (SUN). Field: No Field**
-- Doublade, Lv. 47, Serious Nature, IVs: 10
-- Typhlosion, Lv. 49, Serious Nature, IVs: 10
-- Greninja, Lv. 50, Serious Nature, IVs: 10
+!battle(["Carol", :COOLTRAINER_Female, 1])
 
-**Casanova Gibson (SUN). Field: No Field**
-- Rampardos, Lv. 50, Serious Nature, IVs: 10
-- Sawk, Lv. 50, Ability: Inner Focus, Serious Nature, IVs: 10
-- Kabutops, Lv. 50, Serious Nature, IVs: 10
+!battle(["Gibson", :Casanova, 1])
 
-**Youngster Jonah (MON). Field: No Field**
-- Squirtle, Lv. 45, @Leftovers, Quirky Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Wartortle, Lv. 47, @Leftovers, Serious Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Aqua Tail
-- Wartortle, Lv. 50, @Leftovers, Bashful Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Blastoise, Lv. 52, @Leftovers, Docile Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
+**Monday:**
 
-**Hotshot Jace (TUE). Field: No Field**
-- Drifblim, Lv. 47, Serious Nature, IVs: 10
-- Watchog, Lv. 46, Serious Nature, IVs: 10
-- Pawniard, Lv. 46, Serious Nature, IVs: 10
-- Comfey, Lv. 48, Serious Nature, IVs: 10
+!battle(["Jonah", :YOUNGSTER, 1])
 
-**Psychic Silva (WED). Field: No Field**
-- Mawile, Lv. 47, @Assault Vest, Ability: Sheer Force, Adamant Nature, IVs: 15
-    - Play Rough
-    - Sucker Punch
-    - Iron Head
-    - Ice Fang
-- Xatu, Lv. 46, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
-    - Light Screen
-    - Reflect
-    - Giga Drain
-    - Roost
-- Weavile, Lv. 50, @Choice Band, Ability: Pressure, Jolly Nature, IVs: 15
-    - Icicle Crash
-    - Night Slash
-    - Low Kick
-    - Poison Jab
+**Tuesday:**
 
-**Elder JB (THU). Field: No Field**
-- Delphox, Lv. 49, Serious Nature, IVs: 10
-- Greninja, Lv. 49, Serious Nature, IVs: 10
-- Sliggoo, Lv. 49, Serious Nature, IVs: 10
+!battle(["Jace", :COOLTRAINER_Male, 1])
 
-**Techie Will (FRI). Field: No Field**
-- Sceptile, Lv. 49, Serious Nature, IVs: 10
-- Charizard, Lv. 50, Serious Nature, IVs: 10
-- Gardevoir, Lv. 51, Serious Nature, IVs: 10
+**Wednesday:**
 
-**Elder Anthony (SAT). Field: No Field**
-- Rufflet, Lv. 49, Serious Nature, IVs: 10
-- Goodra, Lv. 51, Serious Nature, IVs: 10
-- Garchomp, Lv. 53, Serious Nature, IVs: 10
+!battle(["Silva", :PSYCHIC_Male, 1])
 
-**Hotshot Emile (SAT). Field: No Field**
-- Serperior, Lv. 46, Serious Nature, IVs: 10
-- Gardevoir, Lv. 48, Serious Nature, IVs: 10
-- Typhlosion, Lv. 50, Serious Nature, IVs: 10
-- Nidoking, Lv. 52, Serious Nature, IVs: 10
+**Thursday:**
 
-**Casanova Zach & Lady Beau (SAT). Field: No Field**
-- Venusaur, Lv. 50, Serious Nature, IVs: 10
-- Reuniclus, Lv. 51, Serious Nature, IVs: 10
-- Wigglytuff, Lv. 50, Serious Nature, IVs: 10
-- Togekiss, Lv. 51, Serious Nature, IVs: 10
+!battle(["JB", :EXPERT_Male, 1])
+
+**Friday:**
+
+!battle(["Will", :TechNerd, 1])
+
+**Saturday:**
+
+!battle(["Anthony", :EXPERT_Male, 1])
+
+!battle(["Emile", :COOLTRAINER_Male, 1])
+
+!battle(["Zach", :Casanova, 1], nil, ["Beau", :LADY, 1])
 
 ## Byxbysion Wasteland
 
 Head to the eastern side of the South Obsidia Ward. Talk to Cain to enter the Byxbysion Wasteland.
 
-**Byxbysion Wasteland**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Skorupi           |30 |**Muk**           |30 |Skorupi           |20 |
-|Arbok             |25 |Trubbish          |20 |**Weezing**       |20 |
-|Trubbish          |20 |Arbok             |11 |**Cubone**        |13 |
-|Munna             |11 |Koffing           |10 |**Venipede**      |10 |
-|Ekans             |10 |**Venipede**      |10 |Koffing           |10 |
-|**Venipede**      |4  |Ekans             |10 |**Whirlipede**    |10 |
-|                  |   |Weezing           |9  |Drapion           |10 |
-|                  |   |                  |   |**Muk**           |7  |
-
-|Rock Smash        |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Geodude           |60 |Pineco            |75 |
-|**Nincada**       |35 |Unown             |15 |
-|Graveler          |5  |**Inkay**         |10 |
+!enc(209)
 
 In this first area you can find 2 hidden *Blue Shards*, *Green Shard*, *Potion*, *Telluric Seed*, and *Poison Gem*. Follow the ledge at the bottom and pick up a hidden *Full Heal* and *Red Shard*. A nearby slide will take you to a hidden *Green Shard* and *Escape Rope*. Read the grave while you're here to initiate a quest.
 
@@ -232,39 +132,9 @@ Take the slide to the right now. You can find hidden *X Defend*, *X Speed*, *Hyp
 
 In the bottom right section, use the Light Shard and talk to Ace for a battle.
 
-**Meteor Agent Ace of Diamonds (Hyper Potion). Field: Wasteland Field**
-- Zoroark, Lv. 41, Ability: Illusion, Jolly Nature, IVs: 20
-    - Swagger
-    - U-turn
-    - Punishment
-    - Low Sweep
-- Clefable, Lv. 41, @Sitrus Berry, Ability: Magic Guard, Adamant Nature, IVs: 20
-    - Belly Drum
-    - Drain Punch
-    - Ice Punch
-    - Meteor Mash
-- Honchkrow, Lv. 41, @Enigma Berry, Ability: Super Luck, Adamant Nature, IVs: 20
-    - Sucker Punch
-    - Heat Wave
-    - Steel Wing
-    - Drill Peck
-- Bronzong, Lv. 42, @Telluric Seed, Ability: Levitate, Brave Nature, IVs: 25
-    - Gyro Ball
-    - Zen Headbutt
-    - Toxic
-    - Protect
-- Mismagius, Lv. 41, Ability: Levitate, Modest Nature, IVs: 25
-    - Mystical Fire
-    - Power Gem
-    - Shadow Ball
-    - Thunder Wave
-- Delphox, Lv. 43, Ability: Magician, Modest Nature, IVs: 31
-    - Mystical Fire
-    - Psyshock
-    - Thunder Punch
-    - Foul Play
+!battle(["Ace of Diamonds", :ACEDIAMONDS, 0], "Wasteland Field")
 
-Ace has a full team but it isn't particularly bolstered by the field. Be careful not to let Honchkrow or Clefable sweep you and I'm sure you can find a way through this fight.
+Ace has a full team but it isn't particularly bolstered by the field. Be careful not to let Honchkrow or Clefable sweep you and you can find a way through this fight!
 
 Talk to the screen beyond them to unlock a door down and to the right. Exit the building at the top and go down the first slide. You'll find a *Lax Incense* up here. Go down the slide to the left. You'll find a hidden *Green Shard*, *Heart Scale*, and *Calcium*, as well as another canister to turn red. Down the ledge, you'll need to go through the building again. Take the slide on the right now, and grab the hidden *Potion*.
 
@@ -272,37 +142,7 @@ In the top right corner of the area, you can find hidden *Ground Gem*, *Purple S
 
 Talk to Cain if you'd like then enter the building. Heal and prepare your team, save, then enter the room on the left.
 
-**Swag Jockey Fern (2x Choc Ice Cream). Field: Wasteland Field**
-- Rhydon, Lv. 43, @Muscle Band, Ability: Reckless, Brave Nature, IVs: 25
-    - Stone Edge
-    - Drill Run
-    - Chip Away
-    - Fire Fang
-- Krookodile, Lv. 43, Ability: Intimidate, Adamant Nature, IVs: 20
-    - Fire Fang
-    - Dig
-    - Crunch
-    - Thunder Fang
-- Scyther, Lv. 43, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 25
-    - X-Scissor
-    - Double Team
-    - Slash
-    - Wing Attack
-- Fraxure, Lv. 42, Ability: Mold Breaker, Adamant Nature, IVs: 31
-    - Taunt
-    - Dual Chop
-    - Dragon Dance
-    - Stomp Tantrum
-- Roserade, Lv. 44, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31
-    - Sleep Powder
-    - Giga Drain
-    - Extrasensory
-    - Hidden Power
-- Decidueye, Lv. 45, @Lum Berry, Ability: Long Reach, Adamant Nature, IVs: 31
-    - Leaf Blade
-    - Swords Dance
-    - Sucker Punch
-    - Spirit Shackle
+!battle(["Fern", :Hotshot, 4], "Wasteland Field")
 
 Fern is back with a full team. His general strategies remain the same: Krookodile will try to sweep, Roserade will hit hard and fast with Giga Drain to heal itself, and Decidueye will try to Sucker Punch you and/or sweep with Swords Dance. Scyther hits fairly hard with its STABs, especially Technician Wing Attack. Fraxure and Rhydon aren't as bad but you still have to be careful.
 
@@ -317,61 +157,27 @@ Before doing the gym battle, there is some side content. Turn all the canisters 
 
 Head down from the wasteland hideout, smash the rock and go down the ledge. You'll see that the left building door is now open.
 
-**Hidden Tunnel / Byxbysion Grotto / Byxbysion Tunnels 1**
-
-|Cave              |%  |
-|------------------|---|
-|Zubat             |30 |
-|Trubbish          |20 |
-|**Solosis**       |20 |
-|Koffing           |10 |
-|Onix              |10 |
-|Mawile            |6  |
-|Golbat            |4  |
+!enc(214, nil, nil, "Byxbysion Tunnels 1")
 
 The tunnel is straightforward - enter the cave entrance at the end to reach another tunnel.
 
-**Byxbysion Tunnels 2**
-
-|Cave              |%  |
-|------------------|---|
-|Trubbish          |20 |
-|Zubat             |20 |
-|Nidoran M.        |15 |
-|**Nidoran F.**    |15 |
-|Solosis           |10 |
-|Koffing           |10 |
-|Nidorina          |5  |
-|**Nidorino**      |5  |
+!enc(215, nil, nil, "Byxbysion Tunnels 2")
 
 Emerge on the other side and go down the slide. Grab a hidden *Synthetic Seed* and go down the next slide. Here a guy will tell you about the password *nodamageroll*. Grab a hidden *Red Shard* and enter the next cave. Follow the path through to the outside. The next area will have a hidden *Sticky Barb* and *Full Heal*, and a *Poison Barb* to the right. Enter the next cave entrance.
 
 Interact with both canisters to move the bookshelf at the top, revealing a secret room. Inside it, you can find a hidden *Sun Stone*.
 
+!enc(217, nil, nil, "Byxbysion Grotto / Hidden Tunnel")
+
 Inside the room to the left, you can use an Odd Keystone if you've found one via mining to get **Spiritomb**. The second room contains *TM66 Payback*. Prepare yourself and enter the third room.
 
-**Pokémon Horde. Field: Wasteland Field**
-- Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
-    - Toxic Spikes
-    - Sludge Bomb
-    - Self-Destruct
-    - Acid Spray
-- Trubbish, Lv. 30, Ability: Aftermath, Bashful Nature, IVs: 31
-    - Toxic Spikes
-    - Sludge Bomb
-    - Self-Destruct
-    - Acid Spray
-- Mr. Bigglesworth (PULSE Garbodor), Lv. 65, @Black Sludge, Ability: Stench, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Gunk Shot
-    - Pain Split
-    - Stockpile
-    - Drain Punch
+!battle(["Horde", :BUGCATCHER, 0], "Wasteland Field")
 
 Mr. Bigglesworth is tough and also our first opponent that is EV trained. You can set up while the Trubbish are out with your own Steel or Poison type then destroy him. Sad :(
 
 Behind you'll find *TM09 Venoshock* as well as the *PULSE Readout 0*.
 
-That's it for this part, so return to the room with the two canisters. Hidden behind the left one is another tunnel. As you follow the path you can get a hidden *Focus Sash*. Nice.
+That's it for this area, so return to the room with the two canisters. Hidden behind the left one is another tunnel. As you follow the path you can get a hidden *Focus Sash*. Nice.
 
 Once you appear outside, go down the slide here and grab a hidden *Moon Stone*. Go in the cave and head up the ladder, then go right back down this ladder to reach a new area...? This doesn't really make sense, but neither does much of the wasteland, really. The mining rock here is all we can get right now, so head up the ladder, go down the slide, and then make your way all the way back to the Wasteland hideout.
 
@@ -379,37 +185,7 @@ Once you appear outside, go down the slide here and grab a hidden *Moon Stone*. 
 
 Enter the gym room, save, and talk to Aya.
 
-**Wasteland Punk Aya (2x Hyper Potion). Field: Wasteland Field**
-- Nidoqueen, Lv. 41, @Black Sludge, Ability: Poison Point, Bashful Nature, IVs: 31
-    - Sludge Wave
-    - Stealth Rock
-    - Crunch
-    - Stomp Tantrum
-- Toxapex, Lv. 41, @Black Sludge, Ability: Merciless, Calm Nature, IVs: 31
-    - Sludge Wave
-    - Recover
-    - Icy Wind
-    - Toxic Spikes
-- Venusaur, Lv. 42, Ability: Overgrow, Bashful Nature, IVs: 31
-    - Stomp Tantrum
-    - Power Whip
-    - Nature Power
-    - Leech Seed
-- Drapion, Lv. 42, @Muscle Band, Ability: Battle Armor, Careful Nature, IVs: 31
-    - Knock Off
-    - Fire Fang
-    - Cross Poison
-    - Aqua Tail
-- Salazzle, Lv. 42, @Focus Sash, Ability: Corrosion, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Heat Wave
-    - Sludge Wave
-    - Disable
-- Dragalge, Lv. 45, @Black Sludge, Ability: Adaptability, Modest Nature, IVs: 31
-    - Sludge Wave
-    - Shadow Ball
-    - Hydro Pump
-    - Dragon Pulse
+!battle(["Aya", :AYA, 0], "Wasteland Field")
 
 Aya is another difficult doubles gym leader. For one, the field boosts her all-target Sludge Waves as well as Venusaur's Power Whip. Entry Hazards are all turned into end-of-turn effects: Toxic Spikes and Stealth Rocks will do damage and the former will Poison your Pokémon. With the speedy Nidoqueen and Salazzle, the bulky Toxapex and Dragalge, and Venusaur and Drapion for coverage, her team is well suited to deal with many of the strategies you might think to use. Plus, while you'd immediately think Earthquake is a good answer, the move's damage is quartered on this field, so that's not really an option.
 
