@@ -129,18 +129,7 @@ In the area where we fought Steelix, make your way to the top left and climb acr
 
 Enter any one of the three caves.
 
-**Tanzan Depths (Small Back Caves)**
-
-|Cave              |%  |
-|------------------|---|
-|Sandslash         |30 |
-|Graveler-Alola    |20 |
-|Dugtrio           |15 |
-|Durant            |14 |
-|Hippowdon         |14 |
-|Seviper           |5  |
-|Steelix           |1  |
-|Excadrill         |1  |
+!enc(614, nil, nil, "Tanzan Depths (Gem Caves)")
 
 Use Earthquake, Magnitude, etc. in a battle twice to make some green crystal gems fall - this is necessary to explore the other part of the Tanzan Depths.
 

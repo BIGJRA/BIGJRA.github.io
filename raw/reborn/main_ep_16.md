@@ -44,21 +44,7 @@ To continue Simon's quest, we'll need to donate 3 locally-caught Whiscash to thi
 
 For now, surf across the lake to the island on the left. Grab the hidden *Calcium* then go into the cave.
 
-**Tanzan Mountain Inner, Tanzan Depths Inner**
-
-|Cave              |%  |
-|------------------|---|
-|Onix              |20 |
-|Graveler-Alola    |20 |
-|Durant            |14 |
-|**Drilbur**       |10 |
-|Sandslash         |10 |
-|Arbok             |10 |
-|Dugtrio           |5  |
-|Seviper           |5  |
-|Hippowdon         |4  |
-|**Steelix**       |1  |
-|**Excadrill**     |1  |
+!enc(615, nil, nil, "Tanzan Mountain/Depths (Rock Climb)")
 
 Grab the *Pearl* and hidden *Blue Shard* in here, then exit.
 

@@ -19,20 +19,7 @@ Make your way back to the meteor base on the right side and follow the path. In 
 
 Head left, up, and left again. You'll see a new cave entrance here. Inside you'll find the *Thick Club* as well as some mining rocks. Back outside this room, go up and walk across the iron girder, and enter the door to the next room.
 
-**Tanzan Depths (Across the Beam)**
-
-|Cave              |%  |
-|------------------|---|
-|Onix              |20 |
-|Geodude-Alola     |20 |
-|Sandslash         |14 |
-|Graveler-Alola    |10 |
-|Diglett           |10 |
-|Arbok             |10 |
-|Dugtrio           |5  |
-|Hippopotas        |5  |
-|Durant            |5  |
-|**Hippowdon**     |1  |
+!enc(260, nil, nil, "Tanzan Depths (Across the Beam)")
 
 Here you can grab an *Upgrade*.
 

@@ -5,32 +5,7 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
 **Relationship Point Choices:**
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
-**Pretty Boy Cain (Berry Ice Cream). Field: Wasteland Field**
-- Marowak-Alola, Lv. 44, Ability: Lightning Rod, Adamant Nature, IVs: 15
-    - Flame Wheel
-    - Bonemerang
-    - Shadow Bone
-    - Will-O-Wisp
-- Meowstic-Female, Lv. 44, Ability: Competitive, Timid Nature, IVs: 15
-    - Charge Beam
-    - Psychic
-    - Shadow Ball
-    - Light Screen
-- Muk-Alola, Lv. 44, Ability: Poison Touch, Brave Nature, IVs: 15
-    - Gunk Shot
-    - Minimize
-    - Disable
-    - Knock Off
-- Primarina, Lv. 45, @Zoom Lens, Ability: Torrent, Modest Nature, IVs: 20
-    - Sparkling Aria
-    - Icy Wind
-    - Moonblast
-    - Sing
-- Nidoking, Lv. 46, Ability: Sheer Force, Bashful Nature, IVs: 31
-    - Thrash
-    - Throat Chop
-    - Poison Tail
-    - Shadow Ball
+!battle(["Cain", :Cain, 4], "Wasteland Field")
 
 Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokémon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
 
@@ -52,23 +27,11 @@ First, note that the candy store has new inventory now.
 
 Back in Opal Ward, there are new trainers on the bridge.
 
-**Street Rat Owen. Field: No Field**
-- Ninetales, Lv. 44, IVs: 10
-    - Ember
-    - Quick Attack
-    - Confuse Ray
-    - Safeguard
+!battle(["Owen", :StreetRat, 0])
 
-**Hotshot Mikey. Field: No Field**
-- Togedemaru, Lv. 44, Serious Nature, IVs: 10
+!battle(["Mikey", :COOLTRAINER_Male, 0])
 
-**Posh Lulu. Field: No Field**
-- Smeargle, Lv. 43, Serious Nature, IVs: 10
-    - Water Pledge
-    - Thunder Wave
-    - Razor Shell
-    - Boomburst
-- Munna, Lv. 44, Serious Nature, IVs: 10
+!battle(["Lulu", :BEAUTY, 0])
 
 Next, make your way all the way up to Citrine Mountain 2F via Beryl Bridge.
 
@@ -83,12 +46,7 @@ Make your way west to the Beryl Cemetery. Victoria is down from here.
 
 Next, we're gonna return to Byxbysion Wasteland. Make your way to the right, going down the slide as before. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave.
 
-**Spectral Kiki. Field: Wasteland Field**
-- Medicham, Lv. 65, Ability: Pure Power, Jolly Nature, IVs: 31
-    - Meditate
-    - Thunder Punch
-    - Drain Punch
-    - Ice Punch
+!battle(["Kiki", :Spectral, 0], "Wasteland Field")
 
 Another tough fight with a single Pokémon, but you have some cheese strategies in your back pocket if need be.
 
@@ -116,43 +74,19 @@ You'll be partnered with Cain.
 **Relationship Point Choices:**
 - Try to leave Yureyu while partnered with Cain (-1 Cain)
 
+!partner(["Cain", :Cain, 4])
+
 It's a very straightforward area: defeat all the Meteor grunts as you make your way up.
 
-**Meteor Grunt Hilda & Meteor Grunt Ricardo. Field: Short-Circuit Field**
-- Quilladin, Lv. 42, Serious Nature, IVs: 10
-- Golbat, Lv. 43, Serious Nature, IVs: 10
-- Whirlipede, Lv. 42, Serious Nature, IVs: 10
-- Lairon, Lv. 43, Serious Nature, IVs: 10
+!battle(["Hilda", :MeteorGrunt_090, 2], "Short-Circuit Field", ["Ricardo", :MeteorGrunt, 2])
 
-**Meteor Grunt Kenneth & Meteor Grunt Brenna. Field: Short-Circuit Field**
-- Mothim, Lv. 42, Serious Nature, IVs: 10
-- Emboar, Lv. 43, Serious Nature, IVs: 10
-- Emolga, Lv. 41, Serious Nature, IVs: 10
-- Minior, Lv. 41, Serious Nature, IVs: 10
-- Samurott, Lv. 42, Serious Nature, IVs: 10
+!battle(["Kenneth", :MeteorGrunt, 1], "Short-Circuit Field", ["Brenna", :MeteorGrunt_090, 1])
 
-**Meteor Grunt Simon & Meteor Grunt Tara. Field: Short-Circuit Field**
-- Carnivine, Lv. 42, Serious Nature, IVs: 10
-- Mudsdale, Lv. 42, Serious Nature, IVs: 10
-- Muk-Alola, Lv. 43, Serious Nature, IVs: 10
-- Whirlipede, Lv. 42, Serious Nature, IVs: 10
-- Onix, Lv. 42, Serious Nature, IVs: 10
-- Golbat, Lv. 43, Serious Nature, IVs: 10
+!battle(["Simon", :MeteorGrunt, 2], "Short-Circuit Field", ["Tara", :MeteorGrunt_090, 2])
 
-**Meteor Grunt Mary & Meteor Grunt Coleman. Field: Short-Circuit Field**
-- Toxapex, Lv. 41, Serious Nature, IVs: 10
-- Gigalith, Lv. 43, Serious Nature, IVs: 10
-- Golbat, Lv. 41, Serious Nature, IVs: 10
-- Gurdurr, Lv. 41, Serious Nature, IVs: 10
-- Tsareena, Lv. 42, Serious Nature, IVs: 10
+!battle(["Mary", :MeteorGrunt_090, 2], "Short-Circuit Field", ["Coleman", :MeteorGrunt, 2])
 
-**Meteor Knight Ringo & Meteor Knight Rod. Field: Short-Circuit Field**
-- Whirlipede, Lv. 43, Serious Nature, IVs: 10
-- Lunatone, Lv. 43, Serious Nature, IVs: 10
-- Passimian, Lv. 44, Serious Nature, IVs: 10
-- Beedrill, Lv. 43, Serious Nature, IVs: 10
-- Solrock, Lv. 43, Serious Nature, IVs: 10
-- Sandygast, Lv. 44, Serious Nature, IVs: 10
+!battle(["Ringo", :MeteorKnight, 0], "Short-Circuit Field", ["Rod", :MeteorKnight, 0])
 
 Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
@@ -164,77 +98,17 @@ Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
 ### Fought Sigmund at Yureyu Route
 
-If you said no to Sigmund, skip ahead to the next section.
+If you said no to Sigmund, [jump to the next section](#didnt-fight-sigmund-at-yureyu-route)
 
-**Dr. Sigmund Connal (2x Hyper Potion). Field: Factory Field**
-- Musharna, Lv. 45, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
-    - Psychic Terrain
-    - Moonlight
-    - Psyshock
-    - Dazzling Gleam
-- Drampa, Lv. 46, Ability: Berserk, Modest Nature, IVs: 25
-    - Thunderbolt
-    - Dragon Pulse
-    - Nature Power
-    - Hyper Voice
-- Raichu-Alola, Lv. 46, Ability: Surge Surfer, Modest Nature, IVs: 25
-    - Volt Switch
-    - Psychic
-    - Nasty Plot
-    - Thunderbolt
-- Hypno, Lv. 47, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
-    - Hypnosis
-    - Nasty Plot
-    - Psychic
-    - Dazzling Gleam
-- Rotom, Lv. 47, Ability: Levitate, Timid Nature, IVs: 25
-    - Thunderbolt
-    - Hex
-    - Will-O-Wisp
-    - Foul Play
-- Electivire, Lv. 48, Ability: Motor Drive, Jolly Nature, IVs: 31
-    - Thunder Punch
-    - Fire Punch
-    - Low Kick
-    - Ice Punch
+!battle(["Sigmund Connal", :DOCTOR, 0], "Short-Circuit Field")
 
-Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Factory field will boost the former and the Psychic Terrain the latter, so make sure you neutralize the most threatening of your two opponents is each turn and you'll probably win.
+Thanks to the assistance of Cain, this one shouldn't be too bad. Musharna will use Psychic Terrain like last time, and his Electric and Psychic core will try to wear you down. The Short-Circuit Field will boost the former and the Psychic Terrain the latter, so make sure you neutralize the most threatening of your two opponents is each turn and you'll probably win.
 
 ### Didn't Fight Sigmund at Yureyu Route
 
-If you said yes to Sigmund, skip ahead to the next section.
+If you said yes to Sigmund, [jump to the next section](#underground-railnet-east)
 
-**Meteor Admin Sirius (2x Hyper Potion). Field: No Field**
-- Minior, Lv. 45, Ability: Shields Down, Modest Nature, IVs: 20
-    - Shell Smash
-    - Charge Beam
-    - Power Gem
-    - Dazzling Gleam
-- Tyrantrum, Lv. 46, Ability: Strong Jaw, Adamant Nature, IVs: 30
-    - Rock Slide
-    - Crunch
-    - Dragon Claw
-    - Dragon Dance
-- Toucannon, Lv. 46, Ability: Skill Link, Adamant Nature, IVs: 30
-    - Beak Blast
-    - Rock Blast
-    - Tailwind
-    - Roost
-- Manectric, Lv. 47, Ability: Static, Timid Nature, IVs: 30
-    - Flamethrower
-    - Volt Switch
-    - Discharge
-    - Snarl
-- Seviper, Lv. 47, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
-    - Throat Chop
-    - Poison Jab
-    - Rest
-    - Aqua Tail
-- Chandelure, Lv. 48, @Synthetic Seed, Ability: Infiltrator, Timid Nature, IVs: 31
-    - Heat Wave
-    - Energy Ball
-    - Psychic
-    - Shadow Ball
+!battle(["Sirius", :Sirius, 0], "Short-Circuit Field")
 
 Thanks to the assistance of Cain, this one shouldn't be too tough. You'll have to be careful of Minior setting up. Otherwise his Pokémon are generally fast and strong but frail, so if you have good type advantages and basic doubles strategies you can certainly do it.
 
@@ -264,16 +138,7 @@ Talk to Charlotte. CHOO CHOO!
 
 We will emerge in a new area. Here, you'll find a *Purple Shard*, *Full Heal*, *Normal Gem*, and *Elemental Seed*. If it's raining, a guy on this map will tell us about the password *stablweather*. You can actually choose whether to go to the Belrose Manse via Tanzan Mountain first, or to go to Spinel Town via the forest first. Here, we will go to Belrose first, but you can skip this section and come back to it after Spinel if you'd like.
 
-**Tanzan Mountain**
-
-|Cave                   |%  |
-|-----------------------|---|
-|**Geodude-Alola**      |20 |
-|Noibat                 |20 |
-|Sandshrew              |20 |
-|Onix                   |20 |
-|Kecleon                |14 |
-|**Sandile**            |6  |
+!enc(231)
 
 On the left as you walk in, you'll see whichever of **Solrock** and **Lunatone** that you didn't get to catch earlier.
 
@@ -281,25 +146,7 @@ On this map, you'll find hidden *X Speed*, *PokéSnax*, *Hyper Potion*, 2 *Blue 
 
 Talk to Charlotte then emerge at the top into Tanzan Cove.
 
-**Tanzan Cove**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Cutiefly**      |20 |**Cutiefly**      |20 |Dedenne           |25 |
-|**Ducklett**      |20 |**Oricorio**      |20 |**Cutiefly**      |20 |
-|**Audino**        |15 |Togedemaru        |10 |Togedemaru        |10 |
-|**Poliwag**       |15 |**Ducklett**      |10 |Paras             |10 |
-|Ledian            |14 |**Comfey**        |10 |**Comfey**        |10 |
-|**Oricorio**      |10 |**Ribombee**      |10 |**Ribombee**      |10 |
-|**Ribombee**      |5  |**Audino**        |9  |**Oricorio**      |5  |
-|**Poliwhirl**     |1  |**Swanna**        |6  |**Audino**        |5  |
-|                  |   |Dedenne           |5  |Ariados           |4  |
-|                  |   |                  |   |Parasect          |1  |
-
-|Old Rod           |%  |
-|------------------|---|
-|Goldeen           |70 |
-|**Seaking**       |30 |
+!enc(232, ["Grass", "Fishing"], ["Old"])
 
 In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokéSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
 
@@ -317,111 +164,45 @@ To the left you can see something glowing in a bookshelf. Interact with it to ge
 
 Make your way back through Tanzan Mountain and exit at the bottom. Enter the forest on the bottom right side of this map.
 
-**Chrysolia Forest (Main)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Spinda            |21 |Spinda            |25 |**Pikipek**       |20 |
-|**Pikipek**       |20 |**Pikipek**       |20 |**Furfrou**       |20 |
-|Ledian            |14 |**Deerling**      |10 |Spinda            |10 |
-|**Furfrou**       |10 |**Furfrou**       |10 |Paras             |10 |
-|**Deerling**      |10 |**Trumbeak**      |10 |Togedemaru        |10 |
-|Comfey            |10 |Comfey            |10 |**Trumbeak**      |10 |
-|Togedemaru        |5  |Togedemaru        |5  |Comfey            |5  |
-|Audino            |5  |Audino            |5  |Audino            |5  |
-|**Minccino**      |4  |**Minccino**      |4  |**Volbeat**       |5  |
-|**Toucannon**     |1  |**Toucannon**     |1  |**Illumise**      |5  |
-
-|Headbutt          |%  |
-|------------------|---|
-|Taillow           |60 |
-|**Chatot**        |30 |
-|Pineco            |10 |
+!enc(234)
 
 Make your way forward and follow the path up and around to the left.
 
-**Ranger Elizabeth. Field: Forest Field**
-- Dratini, Lv. 44, Serious Nature, IVs: 10
-- Sunflora, Lv. 45, Serious Nature, IVs: 10
+!battle(["Elizabeth", :RANGERF, 0], "Forest Field")
 
 You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
 
 **Chrysolia Spring 1F**
 
-|Cave              |%  |Old Rod           |%  |
-|------------------|---|------------------|---|
-|Noibat            |20 |Shellos           |70 |
-|Numel             |20 |Barboach          |30 |
-|**Panpour**       |10 |
-|**Pansear**       |10 |
-|Oricorio          |10 |
-|Onix              |10 |
-|Kecleon           |10 |
-|**Simisear**      |4  |
-|**Simipour**      |4  |
-|**Gastrodon**     |1  |
-|**Camerupt**      |1  |
+!enc(238, ["Cave", "Fishing"], ["Old"])
 
 More importantly, you'll find a *Mystic Water* and hidden *Link Stone* inside.
 
 Back outside, head to the left and down, and attempt to exit the forest. A nearby tree will disappear, so follow the newly created path downwards. By now you've noticed that stuff is teleporting in and out. While this is confusing, the good news is that the path is mostly linear from here.
 
-**Casanova Christian. Field: Forest Field**
-- Mimikyu, Lv. 44, Serious Nature, IVs: 10
+!battle(["Christian", :Casanova, 0], "Forest Field")
 
 Go up, right, and down. You'll notice a single tree blocking off an open path below; approaching the tree will make it disappear. Follow this new path to find a hidden *Synthetic Seed*, *Exp. Candy L*, and *Heart Scale*. To the right, you can talk to someone for the *Grassy Terrain Field Readout* and pick up a *Mild Mint* and a *Hasty Mint*. Enter the train to the left, and pick up the egg. It'll be **Cacnea** or **Maractus**, randomly determined.
 
 Head back up and go left, continuing our linear travel through the teleporting tree forest. You'll go up towards the entrance, then go right.
 
-**Posh Ceratisa. Field: Forest Field**
-- Muk, Lv. 40, Serious Nature, IVs: 10
-    - Minimize
-    - Gunk Shot
-    - Mud Bomb
-    - Screech
-- Magneton, Lv. 41, Serious Nature, IVs: 10
-- Gabite, Lv. 42, Serious Nature, IVs: 10
-- Donphan, Lv. 42, Serious Nature, IVs: 10
+!battle(["Ceratisa", :BEAUTY, 0], "Forest Field")
 
 In the bottom right part of the forest you'll see a lone tree guarding an open path - you know what to do. Follow this path to reach a cave.
 
-**Lost Railcave**
+!enc(251)
 
-|Cave              |%  |
-|------------------|---|
-|Kecleon           |24 |
-|**Graveler-Alola**|20 |
-|Noibat            |20 |
-|Sandshrew         |10 |
-|Onix              |10 |
-|**Swinub**        |10 |
-|**Smeargle**      |6  |
+Inside the railcave, there are two secret paths to goodies. First, you'll notice that each room has train tracks that point to three out of the four directions: start by entering the entrance that is not being pointed to by the tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* and **Eevee**! You can read the Captain's Log here as well.
 
-Inside the railcave, start by entering the entrance that is not being pointed to by the three ends of the train tracks. Repeat this process over and over until you reach a room containing an *Ill-Fated Doll* and **Eevee**! You can read the Captain's Log here as well.
-
-Back in the main area of the railcave, enter the room closest to two of the three rocks. Repeat this process over and over until you reach a room containing a hidden *Ability Capsule*, the *Psychic Terrain Field Readout*, and *TM32 Double Team*.
+Back in the main area of the railcave, you'll notice that each room contains three rocks. In each room two of these rocks are close to one of the four directions - enter this direction. Repeat this process over and over until you reach a room containing a hidden *Ability Capsule*, the *Psychic Terrain Field Readout*, and *TM32 Double Team*.
 
 Back in the forest, continue your circles by going left instead of up. Once you reach the upper right side of the area you'll see a path leading to the right.
 
-**Lady Aurelia. Field: Forest Field / Burning Field**
-- Typhlosion, Lv. 45, Ability: Flash Fire, Serious Nature, IVs: 10
-    - Lava Plume
-    - Eruption
-    - Fire Pledge
-    - Nature Power
+!battle(["Aurelia", :LADY, 0], "Forest Field")
 
 Here you'll find a hidden *Ability Capsule*. Head into the clearing here.
 
-**Chrysolia Forest (Clearing)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Ledian            |33 |Kecleon           |46 |Kecleon           |50 |
-|Kecleon           |22 |Hoppip            |30 |Hoppip            |20 |
-|Ledyba            |20 |Swablu            |15 |**Dustox**        |15 |
-|Hoppip            |10 |**Altaria**       |9  |Swablu            |10 |
-|Swablu            |10 |                  |   |**Altaria**       |5  |
-|**Altaria**       |5  |                  |   |                  |   |
+!enc(465, nil, nil, "Chrysolia Forest (Clearing)")
 
 You'll find a hidden *Elemental Seed* as well as the *Burning Field Readout*, a *Quiet Mint* and an *Exp. Candy L*. This is also the Mossy Rock where you can get Leafeon.
 
@@ -437,9 +218,9 @@ Enter the left tall apartment building. Inside, you'll find Kadabra girl's table
 
 Talk to a lady sitting on the bench, and she will completely disappear. Ok then. Go down and to the right: a house here will also disappear. Beyond it you will find Kadabra girl's first chair. Her second chair is up and to the right of the Pokémon Center. Speaking of, a guy inside the center will tell us a password: *hardcap*.
 
-Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and Shieldon. Unfortunately to finish the revival you have to leave the museum and pay the fee again! I will note that if you only have a single Helix Fossil, there is a quest later on that requires us to have one, so consider saving it for now if you aren't dying to have an Omanyte right now.
+Enter the museum. Unfortunately every time we enter here it will cost $500. You can explore the museum to learn a bunch of lore. Upstairs is a person who will revive our fossils! So, that means depending on what you've found mining it is now possible to get **Omanyte**, **Kabuto**, **Lileep**, **Anorith**, **Cranidos**, and **Shieldon**. Unfortunately to finish the revival you have to leave the museum and pay the fee again! I will note that if you only have a single Helix Fossil, there is a quest later on that requires us to have one, so consider saving it for now if you aren't dying to have an Omanyte right now.
 
-Anyways, head down and out of the door upstairs here and into the door on the other side to pick up the *Eevium-Z*. We can't use Mega Stones or Z-Crystals yet. Kadabra girl's nightstand is also in here, as well as a standard Ice Cream vending machine that contains a Vanillite like in the Sweet Co.
+Anyways, head down and out of the door upstairs here and into the door on the other side to pick up the *Eevium-Z*. We can't use Mega Stones or Z-Crystals yet. Kadabra girl's nightstand is also in here, as well as a standard Ice Cream vending machine that contains a **Vanillite** like in the Sweet Co.
 
 In the downstairs area of the museum at night, you'll see two Meteor grunts. Talk to them and they will flee to Tanzan Mountain. We will get to them in a bit. Oh, and there's a *Luxury Ball* in the trash to the right.
 
@@ -457,6 +238,10 @@ In the upstairs rooms, you can find *Silk Scarf*, the *Mirror Arena Field Readou
 
 With that, we should now have all of the furniture back, so return to the girl to get the *Exp. All*. An excellent item that levels your whole team and prevents leveling over the cap.
 
+## Good Rod Encounters and Other Things
+
+We could now go for the next badge, though there are many new Pokemon and items we can now get after visiting Spinel Town.
+
 Grab your Male Burmy from the PC and level it to 20 so it evolves into **Mothim**.
 
 Return to Chrysolia Forest - you'll have to basically do the circles in reverse to exit the forest. On your way you'll find the house that teleported earlier. A guy inside will do an in-game trade: your Mothim for his **Bruxish**.
@@ -465,84 +250,41 @@ Down from here, you'll find the teleported fountain. **Remoraid** will jump out 
 
 Return to Tanzan Mountain. Inside, you'll find the grunts from earlier.
 
-**Meteor Grunt Devin & Meteor Grunt Sanchez. Field: Cave Field**
-- Solrock, Lv. 44, Serious Nature, IVs: 10
-- Escavalier, Lv. 45, Serious Nature, IVs: 10
-- Golem-Alola, Lv. 46, Serious Nature, IVs: 10
-- Lunatone, Lv. 44, Serious Nature, IVs: 10
-- Accelgor, Lv. 45, Serious Nature, IVs: 10
-- Seismitoad, Lv. 46, Serious Nature, IVs: 10
+!battle(["Devin", :MeteorGrunt, 2], "Cave Field", ["Sanchez", :MeteorGrunt, 2])
 
-Defeat them and return to the museum. Talk to the museum guy to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
-
-## Good Rod Encounters and Other Things
+Defeat them here - we will return to the museum later to claim our reward. 
 
 Now that we have a new rod there are a lot of encounters we can now get.
 
-**Chrysolia Spring 1F**
+!enc(238, ["Fishing"], ["Good"])
 
-|Good Rod          |%  |
-|------------------|---|
-|Shellos           |60 |
-|Barboach          |20 |
-|**Clauncher**     |20 |
-
-**Tanzan Cove**
-
-|Good Rod          |%  |
-|------------------|---|
-|**Basculin**      |60 |
-|Mantyke           |20 |
-|**Luvdisc**       |20 |
+!enc(232, ["Fishing"], ["Good"])
 
 Make sure you catch a Luvdisc for an in-game trade we'll get to in a bit.
 
 Once you return to Reborn City via the railnet, we can now snag the other gang mascot than ours. If you joined Magma Gang, head over to Lapis Alleyway.
 
-**Lapis Alleyway**
-
-|Good Rod          |%  |
-|------------------|---|
-|Barboach          |80 |
-|**Carvanha**      |20 |
+!enc(170, ["Fishing"], ["Good"])
 
 If you joined Aqua Gang, head over to North Obsidia Alleyway, where you will be able to find **Houndour** inside.
 
-Anyways, some more encounters:
+Anyways, some more encounters await: whether you go fishing from the Peridot side, Coral Side, Azurine Island, or Apophyll Beach side:
 
-**Lower Peridot Ward / Azurine Island / Apophyll Beach / Coral Ward**
+!enc(97, ["Fishing"], ["Good"], "Azurine Lake")
 
-|Good Rod          |%  |
-|------------------|---|
-|Muk               |60 |
-|**Tentacool**     |20 |
-|Skrelp            |20 |
+!enc(46, nil, ["Good"], "Lower Peridot Pool")
 
-**Lower Peridot Ward Pool**
+!enc(153, ["Fishing"], ["Good"])
 
-|Good Rod          |%  |
-|------------------|---|
-|Goldeen           |60 |
-|Finneon           |20 |
-|Seaking           |20 |
-
-**The Underroot**
-
-|Good Rod          |%  |
-|------------------|---|
-|Psyduck           |60 |
-|Skrelp            |20 |
-|**Whiscash**      |20 |
-
-The other important thing we can do in Reborn City is to head on over to Onyx Ward and return the House Key to the girl here to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades thanks to mining. Juice up your movesets if you'd like.
+The other major thing we can do now in Reborn City is to head on over to Onyx Ward and return the House Key to the girl on the west side to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades thanks to mining. Juice up your movesets if you'd like.
 
 Take the Coral Ward boat to Apophyll. Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**.
 
-That wraps up the sidequests, so head all the way back through the railnet and the forest to Spinel Town and enter the Voclain Estate.
+Finally, head all the way back through the railnet and the forest to Spinel Town. Talk to the museum curator to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
 
 ## Rime Badge
 
-Enter the room towards the back to reach the gym. In each room, you'll have to look for something that's wrong on one of the two sides. It could be a misplaced or miscolored item or something thematically tied to the gym. Anyways, once you find this discrepancy, smash the wall immediately above. If you're wrong, your party will take some damage, but you can always heal.
+Return to Voclain Estate. Enter the room towards the back to reach the gym. In each room, you'll have to look for something that's wrong on one of the two sides. It could be a misplaced or miscolored item or something thematically tied to the gym. Anyways, once you find this discrepancy, smash the wall immediately above. If you're wrong, your party will take some damage, but you can always heal.
 
 For each of the three puzzle rooms (so, a max of +3), you can get the following:
 
@@ -551,55 +293,17 @@ For each of the three puzzle rooms (so, a max of +3), you can get the following:
 - Smash 2-5 incorrect mirrors before finding the answer (-1 Serra)
 - Smash 6-7 incorrect mirrors before finding the answer (-2 Serra)
 
-**Posh Lydia. Field: Mirror Arena**
-- Vanillite, Lv. 45, Serious Nature, IVs: 10
-- Vanillish, Lv. 46, Serious Nature, IVs: 10
+!battle(["Lydia", :BEAUTY, 0], "Mirror Arena")
 
-**Posh Lallia. Field: Mirror Arena**
-- Amaura, Lv. 45, Serious Nature, IVs: 10
-- Piloswine, Lv. 46, Serious Nature, IVs: 10
+!battle(["Lallia", :BEAUTY, 0], "Mirror Arena")
 
-**Posh Lania. Field: Mirror Arena**
-- Cubchoo, Lv. 46, Serious Nature, IVs: 10
-- Glalie, Lv. 47, Serious Nature, IVs: 10
+!battle(["Lania", :BEAUTY, 0], "Mirror Arena")
 
-**Posh Layla. Field: Mirror Arena**
-- Bergmite, Lv. 46, Serious Nature, IVs: 10
-- Dewgong, Lv. 47, Serious Nature, IVs: 10
+!battle(["Layla", :BEAUTY, 0], "Mirror Arena")
 
 Save before you enter the third room.
 
-**Lepidopterist Bennett (2x Berry Ice Cream). Field: Mirror Arena**
-- Larvesta, Lv. 47, @Wide Lens, Ability: Flame Body, Adamant Nature, IVs: 31
-    - Flame Charge
-    - Bug Bite
-    - Zen Headbutt
-    - Morning Sun
-- Venomoth, Lv. 48, Ability: Shield Dust, Timid Nature, IVs: 31
-    - Quiver Dance
-    - Baton Pass
-    - Sleep Powder
-    - Signal Beam
-- Vivillon, Lv. 48, @Bright Powder, Ability: Compound Eyes, Modest Nature, IVs: 31
-    - Quiver Dance
-    - Sleep Powder
-    - Draining Kiss
-    - Signal Beam
-- Dustox, Lv. 49, @Bright Powder, Ability: Shield Dust, Modest Nature, IVs: 31
-    - Moonlight
-    - Quiver Dance
-    - Signal Beam
-    - Giga Drain
-- Masquerain, Lv. 49, @Leftovers, Ability: Intimidate, Modest Nature, IVs: 31
-    - Quiver Dance
-    - Roost
-    - Hydro Pump
-    - Signal Beam
-- Butterfree, Lv. 50, @Synthetic Seed, Ability: Compound Eyes, Modest Nature, IVs: 31
-    - Sleep Powder
-    - Quiver Dance
-    - Signal Beam
-    - Giga Drain
+!battle(["Bennett", :BENNETT, 0], "Mirror Arena")
 
 It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he has a highly optimized team for the Mirror Arena. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits. With field boosted moves like Signal Beam, his Pokémon hit hard and fast. Five of six have Quiver Dance, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. It's a good opportunity to try out your own Mirror Arena boosts - read the field notes.
 
@@ -609,37 +313,7 @@ It's time for our first battle with Bennett. Despite mainly using the crappy ear
 
 Break the last mirror and head into the gym arena when you're ready.
 
-**Beauty Queen Serra (3x Hyper Potion). Field: Mirror Arena**
-- Glaceon, Lv. 48, @Light Clay, Ability: Snow Cloak, Calm Nature, IVs: 31
-    - Wish
-    - Ice Beam
-    - Signal Beam
-    - Aurora Veil
-- Ninetales-Alola, Lv. 48, @Icy Rock, Ability: Snow Warning, Calm Nature, IVs: 25
-    - Nasty Plot
-    - Dazzling Gleam
-    - Aurora Beam
-    - Aurora Veil
-- Lapras, Lv. 48, @Synthetic Seed, Ability: Shell Armor, Modest Nature, IVs: 15
-    - Thunderbolt
-    - Surf
-    - Signal Beam
-    - Ice Beam
-- Sandslash-Alola, Lv. 47, @Wide Lens, Ability: Slush Rush, Adamant Nature, IVs: 25
-    - Iron Head
-    - Icicle Crash
-    - Brick Break
-    - Swords Dance
-- Jynx, Lv. 49, @Bright Powder, Ability: Dry Skin, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Focus Blast
-    - Psyshock
-    - Ice Beam
-- Froslass, Lv. 50, @Bright Powder, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Ice Beam
-    - Double Team
-    - Pain Split
-    - Shadow Ball
+!battle(["Serra", :SERRA, 0], "Mirror Arena")
 
 Serra is a tough gym leader that operates on the back of her very unique field effect. Instead of thinking about how to beat a Hail-team like you normally would, you have to play around the fields various Accuracy and Evasion shenanigans. Her Bright Powder, Wide Lens, and Synthetic Seeds as well as Snow Cloak abilities all raise accuracy or evasion and boost critical-hit rate. For that reason you won't really be able to pull off a Special Defense boosting strategy nor use screens. In general, physical attackers will have a much harder time here since when they miss, they take damage. Special attackers, of which Serra has five, have a chance to hit anyways even when they miss - some of their attacks are even boosted in this case. Her Jynx, Froslass, and Sandslash under Hail are all incredibly fast as well. On the flip side, Glaceon, Alola-tales, and Lapras are a bit tankier. The latter two like to set up 8-turn Aurora Veil to further support their defensive strategy. All in all this is a tough fight that doubles down on the weaknesses of the Ice type and uses the Mirror Arena to great effect.
 

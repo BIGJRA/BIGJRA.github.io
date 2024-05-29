@@ -23,11 +23,11 @@ class EncounterGetter
     enc_groups = {
       "Grass": [:LandMorning, :LandDay, :LandNight],
       "Land": [:Land],
-      "Headbutt": [:Headbutt],
-      "Fishing": [:OldRod, :GoodRod, :SuperRod],
-      "Surfing": [:Water],
       "Cave": [:Cave],
-      "Rock Smash": [:RockSmash]
+      "Surfing": [:Water],
+      "Headbutt": [:Headbutt],
+      "Rock Smash": [:RockSmash],
+      "Fishing": [:OldRod, :GoodRod, :SuperRod],
     }
 
     # Creates nokogiri HTML

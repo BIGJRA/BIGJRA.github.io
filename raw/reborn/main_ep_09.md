@@ -7,13 +7,15 @@ Exit the gym.
 
 ## Two Herbal Extracts
 
-Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokémart here! One person sells the default items, but there is another vendor.
+Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokémart here! One person sells the now-updated default items, but there is another vendor.
+
+!shop("Default Mart (6-9 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball", "Great Ball"])
 
 !shop("Chrysolia Pokémart Herbs", ["Herbal Extract", "Energy Powder", "Heal Powder"])
 
 The Powders aren't really worth it unless you're going for a Frustration build, but we will need two Herbal Extracts: one for a sidequest and one to continue the story.
 
-If you chose to go to Spinel Town before Belrose Manse, you can read the above section on Tanzan Cove for encounters, items, etc.
+If you chose to go to Spinel Town before Belrose Manse, you can [read the above section on Tanzan Cove](#tanzan-cove) for encounters, items, etc.
 
 **Relationship Point Choices:**
 - Defeated Serra and got Herbal Medicine before entering the Belrose Manse (+1 Charlotte)
@@ -38,10 +40,6 @@ Head over to the Chrysolia Forest and go up. You'll find the lady that was telep
 
 You can grab some gems if you have a strategy that relies on them such as Flying-gem Acrobatics or Unburden Normal-gem Fake Out.
 
-Also worth noting is that the default mart inventory has been updated:
-
-!shop("Default Mart (6-9 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball", "Great Ball"])
-
 With that out of the way, head back to the Tanzan Cove. Prepare your team for a battle and talk to Noel...
 
 ## Defending Belrose Manse
@@ -56,52 +54,15 @@ The story will diverge a little bit depending on what our choice was at Yureyu. 
 
 ### Fought Sigmund at Yureyu Route Part 2
 
-If you didn't fight Sigmund at Yureyu and instead fought Sirius, skip ahead to the next section.
+If you didn't fight Sigmund at Yureyu and instead fought Sirius, [jump to the next section](#didnt-fight-sigmund-at-yureyu-part-2).
 
 Anyways, you'll have to first fight two orderlies.
 
-**Orderly John & Orderly David. Field: No Field**
-- Toucannon, Lv. 43, Serious Nature, IVs: 10
-- Eelektross, Lv. 43, Serious Nature, IVs: 10
-- Slowbro, Lv. 44, Serious Nature, IVs: 10
-- Magneton, Lv. 45, Serious Nature, IVs: 10
-- Ferroseed, Lv. 43, Serious Nature, IVs: 10
-- Vibrava, Lv. 43, Serious Nature, IVs: 10
-- Luxio, Lv. 44, Serious Nature, IVs: 10
+!battle(["John", :Orderly, 2], nil, ["David", :Orderly, 1])
 
 Afterwards, you'll be healed but thrust into another battle.
 
-**Meteor Admin Sirius (3x Hyper Potion). Field: No Field**
-- Minior, Lv. 48, Ability: Shields Down, Modest Nature, IVs: 20
-    - Shell Smash
-    - Dazzling Gleam
-    - Power Gem
-    - Psychic
-- Tyrantrum, Lv. 49, Ability: Strong Jaw, Adamant Nature, IVs: 30
-    - Earthquake
-    - Crunch
-    - Dragon Claw
-    - Dragon Dance
-- Toucannon, Lv. 50, Ability: Skill Link, Adamant Nature, IVs: 30
-    - Beak Blast
-    - Rock Blast
-    - Tailwind
-    - Roost
-- Manectric, Lv. 50, Ability: Static, Timid Nature, IVs: 30
-    - Volt Switch
-    - Discharge
-    - Flamethrower
-    - Snarl
-- Seviper, Lv. 51, @Leftovers, Ability: Shed Skin, Careful Nature, IVs: 31
-    - Throat Chop
-    - Poison Jab
-    - Rest
-    - Aqua Tail
-- Chandelure, Lv. 52, @Wise Glasses, Ability: Infiltrator, Timid Nature, IVs: 31
-    - Heat Wave
-    - Energy Ball
-    - Psychic
-    - Shadow Ball
+!battle(["Sirius", :Sirius, 0])
 
 On this route this is our first battle with Sirius, and we don't get a partner. His team is all about hitting hard with well-rounded coverage. In particular you have to watch out for his Chandelure, who is fast and can hit most types super effectively. Minior can set up if you have a bad lead against it, and Manectric uses fast offense and pivot moves. The rest are fairly slow. No field effect to worry about here, so pick your best counters to his team and you can overcome.
 
@@ -117,41 +78,11 @@ If you go upstairs, this results in Laura being captured. Talk to Saphira downst
 
 ### Didn't Fight Sigmund at Yureyu Part 2
 
-If you fought Sigmund at Yureyu, skip ahead to the next section.
+If you fought Sigmund at Yureyu, [jump to the next section](#tanzan-meteor-base).
 
 Anyways, it's time for another battle with the doc.
 
-**Dr. Sigmund Connal (2x Hyper Potion). Field: No Field**
-- Musharna, Lv. 48, @Amplifield Rock, Ability: Telepathy, Modest Nature, IVs: 25
-    - Psychic Terrain
-    - Moonlight
-    - Psyshock
-    - Dazzling Gleam
-- Drampa, Lv. 49, Ability: Berserk, Modest Nature, IVs: 25
-    - Thunderbolt
-    - Dragon Pulse
-    - Nature Power
-    - Hyper Voice
-- Raichu-Alola, Lv. 49, Ability: Surge Surfer, Modest Nature, IVs: 25
-    - Volt Switch
-    - Psychic
-    - Nasty Plot
-    - Thunderbolt
-- Hypno, Lv. 50, @Wide Lens, Ability: Insomnia, Modest Nature, IVs: 25
-    - Hypnosis
-    - Nasty Plot
-    - Psychic
-    - Dazzling Gleam
-- Rotom, Lv. 50, Ability: Levitate, Timid Nature, IVs: 25
-    - Thunderbolt
-    - Hex
-    - Will-O-Wisp
-    - Foul Play
-- Electivire, Lv. 51, Ability: Motor Drive, Jolly Nature, IVs: 31
-    - Thunder Punch
-    - Fire Punch
-    - Low Kick
-    - Ice Punch
+!battle(["Sigmund Connal", :DOCTOR, 1])
 
 This fight can be tough thanks to his usage of the very broken Psychic Terrain - it will double Musharna's speed, boost his Psychic attacks plus Hex, and make Hypnosis actually reliable. Consider knocking out Musharna, then trying to stall out the terrain to neutralize this strategy; alternatively, you can use Hex yourself to deal heavy damage. In the back is his Electivire, who is fast and hits hard with Ice Punch, so be careful with your Ground types. A well rounded team will be able to succeed with the right approach.
 
@@ -178,45 +109,27 @@ The next room contains a hidden *Green Shard*, *Pecha Berry*, and *Blue Shard*. 
 
 There will be a lot of these rotary thingies all over the base. Essentially they will send you 90 degrees in the indicated direction, but once you use it, it'll send you in the opposite direction next time. So, you'll only be able to go left for now.
 
-**Meteor Grunt Kenneth. Field: Factory Field**
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Mothim, Lv. 52, Serious Nature, IVs: 10
-- Emboar, Lv. 53, Serious Nature, IVs: 10
+!battle(["Kenneth", :MeteorGrunt, 2], "Factory Field")
 
 Head up and into the room. This next room has tiles that will teleport you to the same color equivalent in a different room - and those in that room will teleport you back. You'll need to reach the top of each room to deactivate a panel. To succeed, one strategy is this:
 
 Use the left panel, then go left, down, up, up and use the computer. Spam down and eventually you can return to the bottom of the room. Ensuring we are starting in the right room this time, use the right panel, then go right, down, up, up, and use this computer. Spam down, again use the white panels at the bottom to pop out in the right side.
 
-**Meteor Grunt Brenna. Field: Factory Field**
-- Carnivine, Lv. 52, Serious Nature, IVs: 10
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Samurott, Lv. 53, Serious Nature, IVs: 10
+!battle(["Brenna", :MeteorGrunt_090, 2], "Factory Field")
 
 Head up via the rotary and go in the door at the top. Use the next rotary to go left.
 
-**Meteor Grunt Hilda. Field: Factory Field**
-- Tirtouga, Lv. 52, Serious Nature, IVs: 10
-- Crobat, Lv. 52, Serious Nature, IVs: 10
-- Chesnaught, Lv. 53, Serious Nature, IVs: 10
+!battle(["Hilda", :MeteorGrunt_090, 3], "Factory Field")
 
 Head into the room at the bottom.
 
-**Meteor Dame Regina. Field: Factory Field**
-- Tsareena, Lv. 49, Serious Nature, IVs: 10
-- Houndoom, Lv. 48, Serious Nature, IVs: 10
-- Serperior, Lv. 49, Serious Nature, IVs: 10
+!battle(["Regina", :MeteorDame, 1], "Factory Field")
 
 Grab *PULSE Readout 7* and return to the previous room. Enter the room to the left.
 
 If anyone except Saphira was abducted earlier, you can fight a few trainers as well as get relationship points here.
 
-**Meteor Knight Kenan & Meteor Dame Diana. Field: Factory Field**
-- Machoke, Lv. 53, Serious Nature, IVs: 10
-- Darmanitan, Lv. 53, Serious Nature, IVs: 10
-- Golem, Lv. 54, Serious Nature, IVs: 10
-- Manectric, Lv. 53, Serious Nature, IVs: 10
-- Salazzle, Lv. 53, Serious Nature, IVs: 10
-- Vileplume, Lv. 54, Serious Nature, IVs: 10
+!battle(["Kenan", :MeteorKnight, 1], "Factory Field", ["Diana", :MeteorDame, 1])
 
 **Relationship Point Choices:**
 - After Noel and Anna are abducted, talk to them in the cage (+2 Noel)
@@ -225,65 +138,33 @@ If anyone except Saphira was abducted earlier, you can fight a few trainers as w
 
 Return to the previous room, then go up.
 
-**Meteor Grunt Coleman. Field: Factory Field**
-- Golbat, Lv. 47, Serious Nature, IVs: 10
-- Gurdurr, Lv. 47, Serious Nature, IVs: 10
-- Tsareena, Lv. 48, Serious Nature, IVs: 10
+!battle(["Coleman", :MeteorGrunt, 3], "Factory Field")
 
 Follow the path down from the rotary.
 
-**Meteor Dame Gretchen. Field: Factory Field**
-- Delcatty, Lv. 48, Serious Nature, IVs: 10
-- Lunatone, Lv. 49, Serious Nature, IVs: 10
-- Heliolisk, Lv. 49, Serious Nature, IVs: 10
+!battle(["Gretchen", :MeteorDame, 1], "Factory Field")
 
 Continue down. You'll see a purple tile, step on it and you'll end up in the left side of the base again. Once more, go up, this time, you'll be sent up via the rotary. Go left onto the blue tile for now, then the rotary will send you down again. In the next room you'll go to the right this time. You'll get an *Exp. Candy L*! Use the nearby purple tile and you'll emerge on the right side of the area.
 
-**Meteor Grunt Ricardo. Field: Factory Field**
-- Minior, Lv. 52, Serious Nature, IVs: 10
-- Whirlipede, Lv. 52, Serious Nature, IVs: 10
-- Aggron, Lv. 53, Serious Nature, IVs: 10
+!battle(["Ricardo", :MeteorGrunt, 3], "Factory Field")
 
 Enter the room above.
 
-**Meteor Grunt Mary. Field: Factory Field**
-- Piloswine, Lv. 47, Serious Nature, IVs: 10
-- Toxapex, Lv. 49, Serious Nature, IVs: 10
-- Gigalith, Lv. 47, Serious Nature, IVs: 10
+!battle(["Mary", :MeteorGrunt_090, 3], "Factory Field")
 
-Nothing to do above, so head back down. Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
+Nothing else to do above, so head back down. Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
 
-**Meteor Dame Avril & Meteor Knight Steven. Field: Factory Field**
-- Lumineon, Lv. 53, Serious Nature, IVs: 10
-- Golisopod, Lv. 53, Serious Nature, IVs: 10
-- Gothitelle, Lv. 53, Serious Nature, IVs: 10
-- Vikavolt, Lv. 53, Serious Nature, IVs: 10
-- Piloswine, Lv. 53, Serious Nature, IVs: 10
-- Mudsdale, Lv. 53, Serious Nature, IVs: 10
+!battle(["Avril", :MeteorDame, 1], "Factory Field", ["Steven", :MeteorKnight, 1])
 
 Head back to the left and take the rotary to go up.
 
-**Meteor Knight Ringo. Field: Factory Field**
-- Lunatone, Lv. 54, Serious Nature, IVs: 10
-- Passimian, Lv. 54, Serious Nature, IVs: 10
-- Scolipede, Lv. 55, Ability: Poison Point, Serious Nature, IVs: 10
-    - Steamroller
-    - Protect
-    - Rock Slide
-    - Poison Jab
+!battle(["Ringo", :MeteorKnight, 1], "Factory Field")
 
-**Techie Deryl. Field: Factory Field**
-- Trevenant, Lv. 53, Serious Nature, IVs: 10
-- Vikavolt, Lv. 53, Serious Nature, IVs: 10
+!battle(["Deryl", :TechNerd, 1], "Factory Field")
 
-**Meteor Knight Rod. Field: Factory Field**
-- Beedrill, Lv. 54, Serious Nature, IVs: 10
-- Solrock, Lv. 54, Serious Nature, IVs: 10
-- Palossand, Lv. 55, Serious Nature, IVs: 10
+!battle(["Rod", :MeteorKnight, 1], "Factory Field")
 
-**Techie Naoman. Field: Factory Field**
-- Zoroark, Lv. 53, Serious Nature, IVs: 10
-- Grumpig, Lv. 53, Serious Nature, IVs: 10
+!battle(["Naoman", :TechNerd, 1], "Factory Field")
 
 Talk to the grunts and scientists up here and talk to the computers to open up the door at the top as well as a shortcut in the bottom-left corner. Talk to Simon here (he won't fight you) to start up a sidequest later.
 
@@ -296,14 +177,13 @@ If Saphira was abducted, you'll be here with Laura.
 **Relationship Point Choices:**
 - Talk to Laura in the depths (+2 Laura)
 
-Go out and head up. You'll see some dialogue. Head down from here, you'll see a new path open up. Follow the new paths that keep opening up until you have to participate in a battle!
+Go out and head up. 
 
-**Pokémon Gargantuan. Field: Rocky Field**
-- Steelix-Mega, Lv. 75, @Sitrus Berry, Ability: Sand Force, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Earthquake
-    - Stone Edge
-    - Crunch
-    - Heavy Slam
+!enc(247)
+
+You'll see some dialogue. Head down from here, you'll see a new path open up. Follow the new paths that keep opening up until you have to participate in a battle!
+
+!battle(["Gargantuan", :Steelix, 0], "Rocky Field")
 
 Another single Pokémon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit.
 
@@ -311,28 +191,9 @@ Another single Pokémon boss, this time with a Mega Steelix. Since it's slow you
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
 - Beat Steelix on the second, third, etc. try (+2 Saphira)
 
-**Tanzan Depths (Main Areas)**
-
-|Cave              |%  |
-|------------------|---|
-|Onix              |20 |
-|Geodude-Alola     |20 |
-|**Sandslash**     |14 |
-|Graveler-Alola    |10 |
-|Diglett           |10 |
-|Arbok             |10 |
-|**Hippopotas**    |6  |
-|**Dugtrio**       |5  |
-|**Durant**        |5  |
-
 Once you emerge, make your way back into the base and head to the back room. Once you do it will be time for another fight!
 
-**Meteor Admin ZEL. Field: Factory Field**
-- PULSE Abra, Lv. 75, @Silk Scarf, Ability: Magic Guard, Modest Nature, IVs: 31.
-    - Hyper Beam
-    - Dark Pulse
-    - Hyper Beam
-    - Hyper Beam
+!battle(["ZEL", :ZEL, 3], "Factory Field")
 
 Seriously. Thankfully, when you're only fighting one Pokémon with very low HP that has to deal with recharge, you can find a way to open an opportunity to knock it out. Disabling Dark Pulse will let your Ghost type easily win. Alternatively Mirror Coat and Metal Burst can work great here. There's lots of options for this one.
 
@@ -340,37 +201,7 @@ Head all the way back to Tanzan Cove and talk to Anna inside. It's time for anot
 
 ## Standard Badge
 
-**Prodigy Noel (3x Hyper Potion). Field: Grassy Terrain**
-- Cinccino, Lv. 54, @King's Rock, Ability: Skill Link, Adamant Nature, IVs: 31
-    - Tail Slap
-    - U-turn
-    - Rock Blast
-    - Bullet Seed
-- Porygon-Z, Lv. 54, @Elemental Seed, Ability: Download, Timid Nature, IVs: 31
-    - Nasty Plot
-    - Psychic
-    - Hidden Power
-    - Tri Attack
-- Bewear, Lv. 54, @Muscle Band, Ability: Fluffy, Adamant Nature, IVs: 31
-    - Hammer Arm
-    - Zen Headbutt
-    - Stomp Tantrum
-    - Ice Punch
-- Girafarig, Lv. 54, @Twisted Spoon, Ability: Sap Sipper, Timid Nature, IVs: 31
-    - Psychic
-    - Thunderbolt
-    - Thunder Wave
-    - Hidden Power
-- Swellow, Lv. 54, @Flame Orb, Ability: Guts, Jolly Nature, IVs: 31
-    - U-turn
-    - Brave Bird
-    - Steel Wing
-    - Facade
-- Clefable, Lv. 55, @Elemental Seed, Ability: Magic Guard, Calm Nature, IVs: 31, EVs: 252/0/204/52/0/0
-    - Moonblast
-    - Calm Mind
-    - Soft-Boiled
-    - Stored Power
+!battle(["Noel", :NOEL, 0], "Grassy Terrain")
 
 Shocker, another tough gym leader in Pokémon Reborn. You'll notice that Noel uses Normal types on a field that doesn't really benefit most of his moves, instead, he'll mainly profit off of the free healing each turn. His seeded Clefable, Girafarig, and Bewear in particular are all fairly bulky and have good coverage to mess up your team. With the addition of a Porygon-Z who gets extra bulk thanks to its seed and hits like a truck and the demon spawn known as King's Rock Cinccino, you're in for a tough fight against a well-rounded Normal type team (ok, 5/6 of a Normal type team plus Clefable).
 
