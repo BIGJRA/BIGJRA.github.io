@@ -151,7 +151,7 @@ Anyways, with all that said, Cain doesn't really have a ton of optimization here
 Anyways, once you win, we can talk to Luna.
 
 **Relationship Point Choices:**
-- Talk to Luna after G.Gardevoir is captured (+1 Luna)
+- Talk to Luna after G. Gardevoir is captured (+1 Luna)
 
 Head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly.
 

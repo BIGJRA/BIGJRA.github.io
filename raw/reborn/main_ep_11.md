@@ -2,29 +2,15 @@
 
 After everything goes dark, head out of the gym. Once you get outside, use the Light Shard and head out into the labyrinth.
 
-**Meteor Grunt Ricardo. Field: Grassy Terrain**
-- Minior, Lv. 56, Serious Nature, IVs: 10
-- Scolipede, Lv. 56, Serious Nature, IVs: 10
-- Aggron, Lv. 57, Serious Nature, IVs: 10
+!battle(["Ricardo", :MeteorGrunt, 4], "Grassy Terrain")
 
 The grunt to the left is Radomus in disguise and will allow you to escape via walking on top of the hedges. Make your way to the other side of the labyrinth and battle the grunts if you wish.
 
-**Meteor Grunt Christopher. Field: Grassy Terrain**
-- Gabite, Lv. 54, Serious Nature, IVs: 10
-- Shuckle, Lv. 58, Serious Nature, IVs: 10
-- Pupitar, Lv. 54, Serious Nature, IVs: 10
-- Doublade, Lv. 54, Serious Nature, IVs: 10
+!battle(["Christopher", :MeteorGrunt, 2], "Grassy Terrain")
 
-**Meteor Grunt Hilda. Field: Grassy Terrain**
-- Carracosta, Lv. 55, Serious Nature, IVs: 10
-- Crobat, Lv. 57, Serious Nature, IVs: 10
-- Chesnaught, Lv. 58, Serious Nature, IVs: 10
+!battle(["Hilda", :MeteorGrunt_090, 4], "Grassy Terrain")
 
-**Meteor Grunt Ama. Field: Grassy Terrain**
-- Noctowl, Lv. 55, Serious Nature, IVs: 10
-- Dodrio, Lv. 56, Serious Nature, IVs: 10
-- Fearow, Lv. 57, Serious Nature, IVs: 10
-- Klinklang, Lv. 58, Serious Nature, IVs: 10
+!battle(["Ama", :MeteorGrunt, 2], "Grassy Terrain")
 
 Escape the labyrinth, hop on the circling Tauros to skip to the other side of Route 1, then enter Reborn City.
 
@@ -34,45 +20,25 @@ If you haven't completed the [gang sidequest](#joining-a-gang) up until now, you
 
 Talk to your gang leader, and they will tell you about Seventh Street. To reach it with Aqua Gang, use the top left house in Lapis, with Magma Gang, use a house on the left in the center of Lapis.
 
-Wander around the area and defeat all the trainers. Top to bottom:
+Wander around the area and defeat all the trainers. Note that you'll only need to fight the Aqua Gang members if you're in Magma Gang and vice versa. From top to bottom:
 
-**Street Rat Austin. Field: No Field**
-- Vigoroth, Lv. 58, Serious Nature, IVs: 10
-- Gumshoos, Lv. 59, Serious Nature, IVs: 10
-- Tropius, Lv. 58, Serious Nature, IVs: 10
+!battle(["Austin", :StreetRat, 0])
 
-**Street Rat Chaz. Field: No Field**
-- Woobat, Lv. 59, Serious Nature, IVs: 10
-- Swoobat, Lv. 60, Serious Nature, IVs: 10
+!battle(["Chaz", :StreetRat, 0])
 
-**Aqua Gang Pierce. Field: No Field** (Magma Gang only)
-- Sharpedo, Lv. 54, Serious Nature, IVs: 10
-- Clawitzer, Lv. 55, Serious Nature, IVs: 10
-- Ludicolo, Lv. 55, Serious Nature, IVs: 10
+!battle(["Pierce", :AQUA2, 1])
 
-**Magma Gang Darm. Field: No Field** (Aqua Gang only)
-- Houndoom, Lv. 54, Serious Nature, IVs: 10
-- Darmanitan, Lv. 55, Serious Nature, IVs: 10
-- Darmanitan, Lv. 55, Serious Nature, IVs: 10
+!battle(["Razzy", :AQUA1, 1])
 
-**Magma Gang Nihil. Field: No Field** (Aqua Gang only)
-- Ninetales, Lv. 54, Serious Nature, IVs: 10
-- Magcargo, Lv. 54, Serious Nature, IVs: 10
-- Houndoom, Lv. 55, Serious Nature, IVs: 10
+!battle(["Darm", :MAGMA2, 1])
 
-**Aqua Gang Razzy. Field: No Field** (Magma Gang only)
-- Octillery, Lv. 54, Serious Nature, IVs: 10
-- Sharpedo, Lv. 54, Serious Nature, IVs: 10
-- Feraligatr, Lv. 55, Serious Nature, IVs: 10
+!battle(["Nihil", :MAGMA1, 1])
 
-**Street Rat Andy. Field: No Field**
-- Doduo, Lv. 58, Serious Nature, IVs: 10
-- Dodrio, Lv. 59, Serious Nature, IVs: 10
+!battle(["Andy", :StreetRat, 0])
 
-**Street Rat Kevin. Field: No Field**
-- Bruxish, Lv. 60, Serious Nature, IVs: 10
+!battle(["Kevin", :StreetRat, 0])
 
- Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Shards*, 2 *Green Shards*, *Pecha Berry*, *X Sp. Atk*, 2 *Red Shards*, and *Calcium*. The house in the middle of the top contains a healing point and PC. Talk to all of the NPC's in the area and you'll learn about what you can get down here in 7th.
+Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Shards*, 2 *Green Shards*, *Pecha Berry*, *X Sp. Atk*, 2 *Red Shards*, and *Calcium*. The house in the middle of the top contains a healing point and PC. Talk to all of the NPC's in the area and you'll learn about what you can get down here in 7th.
 
 Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you one for first 1, then 2, and from then on 3 shards of a random color. Useful! Up and to the right we'll find a couple of tutors.
 
@@ -121,33 +87,15 @@ The house above is the Pokémon Psychologist. For just two Heart Scales (which w
 
 Enter the nearby grotto on the right. Note that there is a sneaky hidden item behind a trainer on the left, so make sure you draw him out at least 1 tile when he notices you in order to get it.
 
-**Street Rat Hyde. Field: No Field**
-- Basculin, Lv. 60, Serious Nature, IVs: 10
+!battle(["Hyde", :StreetRat, 0])
 
-**Hotshot Kellam. Field: No Field**
-- Bronzor, Lv. 59, Serious Nature, IVs: 10
-- Sealeo, Lv. 60, Serious Nature, IVs: 10
+!battle(["Kellam", :COOLTRAINER_Male, 0])
 
 Anyways, hidden in this room is *Black Glasses*, *Red Shard*, and *Exp. Candy XL*.
 
 North of the top tutors, you'll see a shadow indicating an entrance. Inside, talk to the green machine to get a *Synthetic Seed*. Talk to the researcher on the left for a battle.
 
-**Orderly Nadira. Field: Factory Field**
-- Mimikyu, Lv. 56, Serious Nature, IVs: 10
-    - Swords Dance
-    - Drain Punch
-    - Shadow Sneak
-    - Play Rough
-- Mismagius, Lv. 57, Serious Nature, IVs: 10
-    - Nasty Plot
-    - Power Gem
-    - Thunderbolt
-    - Shadow Ball
-- Tsareena, Lv. 59, Serious Nature, IVs: 10
-    - Power Whip
-    - High Jump Kick
-    - Play Rough
-    - Nature Power
+!battle(["Nadira", :OrderlyF, 0], "Factory Field")
 
 Defeat the researcher in here and agree to participate in her sidequest.
 
@@ -155,33 +103,15 @@ First, you'll need to bring her a Carvanha. Note that these will be gone forever
 
 On the north side of the main part of seventh, talk to your gang member and he'll mention seeing Bennett in the watering hole. Enter the watering hole, heal if you want, then head out and into the grotto on the right.
 
-**Punk Celina. Field: No Field**
-- Axew, Lv. 59, Serious Nature, IVs: 10
-- Lopunny, Lv. 60, Serious Nature, IVs: 10
+!battle(["Celina", :Punk, 0])
 
-**Street Rat Yan. Field: No Field**
-- Chimecho, Lv. 60, Serious Nature, IVs: 10
+!battle(["Yan", :StreetRat, 0])
 
 Grab the hidden *Blue Shard* then talk to Bennett here.
 
 Back outside, a door will be open above you. Head up and to the right. You'll find a mining rock - break it and then use Blast Powder, then pick up the hidden *'Rare Candy'*. Head back to Seventh and it will be stolen! Head all the way to the bottom left of the area and you'll find the thief. Battle him to get it back.
 
-**Street Rat Drake. Field: No Field**
-- Arbok, Lv. 60, Serious Nature, IVs: 10
-    - Coil
-    - Gunk Shot
-    - Earthquake
-    - Fire Fang
-- Haxorus, Lv. 61, Serious Nature, IVs: 10
-    - Dragon Claw
-    - Outrage
-    - Superpower
-    - Iron Tail
-- Bisharp, Lv. 63, Serious Nature, IVs: 10
-    - Sucker Punch
-    - Iron Head
-    - Swords Dance
-    - Throat Chop
+!battle(["Drake", :StreetRat, 0])
 
 Enter the top grotto and give it to a guy to obtain **Piplup**!
 
@@ -207,35 +137,23 @@ Once you take the stairs at the top, the guards will all leave, so you can now n
 
 In the next room, there are grunts to fight. Going clockwise around the outside of the room first:
 
-**Acolyte Lyla. Field: Holy Field**
-- Wigglytuff, Lv. 62, Serious Nature, IVs: 10
+!battle(["Lyla", :CultistF, 0], "Holy Field")
 
-**Acolyte Kaiden. Field: Holy Field**
-- Ledian, Lv. 62, Serious Nature, IVs: 10
-- Floatzel, Lv. 61, Serious Nature, IVs: 10
+!battle(["Kaiden", :Cultist, 0], "Holy Field")
 
-**Acolyte Ezra. Field: Holy Field**
-- Ditto, Lv. 64, Serious Nature, IVs: 10
+!battle(["Ezra", :Cultist, 0], "Holy Field")
 
-**Acolyte Brenda. Field: Holy Field**
-- Dragonair, Lv. 62, Serious Nature, IVs: 10
-- Shelgon, Lv. 62, Serious Nature, IVs: 10
+!battle(["Brenda", :CultistF, 0], "Holy Field")
 
 To progress, we'll need to interact with 4 statues and input numbers that correspond to the respective scriptures. In each corner, a statue is protected by a guard. The statue guards, again in a clockwise order from the bottom of the room:
 
-**Acolyte Tanner. Field: Holy Field**
-- Pidgeot, Lv. 61, Serious Nature, IVs: 10
+!battle(["Tanner", :Cultist, 0], "Holy Field")
 
-**Acolyte Arcturus. Field: Holy Field**
-- Drampa, Lv. 62, Serious Nature, IVs: 10
+!battle(["Arcturus", :Cultist, 0], "Holy Field")
 
-**Acolyte Angela. Field: Holy Field**
-- Flabebe, Lv. 59, Serious Nature, IVs: 10
-- Floette, Lv. 60, Serious Nature, IVs: 10
-- Politoed, Lv. 62, Serious Nature, IVs: 10
+!battle(["Angela", :CultistF, 0], "Holy Field")
 
-**Acolyte Wes. Field: Holy Field**
-- Alakazam, Lv. 61, Serious Nature, IVs: 10
+!battle(["Wes", :Cultist, 0], "Holy Field")
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
@@ -246,37 +164,7 @@ To progress, we'll need to interact with 4 statues and input numbers that corres
 
 Enter the codes in each statue, prepare for a battle, then go up towards the middle from the bottom of the room.
 
-**Meteor Agent Ace of Hearts (Ultra Potion). Field: Holy Field**
-- Alakazam, Lv. 60, @Choice Scarf, Ability: Magic Guard, Modest Nature, IVs: 31
-    - Psychic
-    - Signal Beam
-    - Trick
-    - Energy Ball
-- Zoroark, Lv. 62, @Black Glasses, Ability: Illusion, Timid Nature, IVs: 31
-    - Foul Play
-    - Flamethrower
-    - Extrasensory
-    - Grass Knot
-- Togekiss, Lv. 60, @Leftovers, Ability: Serene Grace, Quiet Nature, IVs: 31
-    - Dazzling Gleam
-    - Air Slash
-    - Grass Knot
-    - Roost
-- Primarina, Lv. 61, Ability: Torrent, Modest Nature, IVs: 31
-    - Sparkling Aria
-    - Moonblast
-    - Icy Wind
-    - Hyper Voice
-- Porygon-Z, Lv. 60, Ability: Download, Modest Nature, IVs: 31
-    - Tri Attack
-    - Blizzard
-    - Thunderbolt
-    - Recover
-- Delphox, Lv. 62, @Sitrus Berry, Ability: Magician, Modest Nature, IVs: 31
-    - Mystical Fire
-    - Psyshock
-    - Dazzling Gleam
-    - Foul Play
+!battle(["Ace of Hearts", :ACEHEARTS, 0], "Holy Field")
 
 Another battle with Meteor's Ace themselves, and the first boss fight on the Holy Field. Read up on the Field Notes and you can do it!
 
@@ -301,69 +189,19 @@ Back in seventh, the house in the bottom left corner will now be unlocked. If yo
 
 Although we now have both Amaura and a Jaw Fossil, it's worth noting that the cultist will ask for a Pidgeot in exchange for another fossil. Afterwards, you can trade Helix Fossils for more Jaw and Sail fossils if you want more.
 
-Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokémon sellers to see Madame Craudberry storm off.Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
+Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokémon sellers to see Madame Craudberry storm off. Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
 
-**Harridan Craudburry. Field: No Field**
-- Victreebel, Lv. 60, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Leaf Blade
-    - Strength Sap
-    - Sludge Bomb
-    - Sleep Powder
-- Qwilfish, Lv. 60, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Explosion
-    - Waterfall
-    - Destiny Bond
-    - Throat Chop
-- Amoonguss, Lv. 61, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Synthesis
-- Crabominable, Lv. 62, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/0/0/20
-    - Ice Hammer
-    - Close Combat
-    - Earthquake
-    - Stone Edge
-- Slaking, Lv. 63, @Leftovers, Ability: Truant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Hammer Arm
-    - Slack Off
-    - Frustration
-    - Night Slash
+!battle(["Craudburry", :HARRIDAN, 0])
 
-If this was a normal Pokémon game, this fight would be pretty hard relative to the others. However this is Pokémon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokémon - should be nothing for you at this point. You can exploit Slaking's Truant with Protect to set up or something if you need to.
+If this was a normal Pokémon game, this fight would be pretty hard relative to the others. However this is Pokémon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokémon.
 
-### The Magma Gang Route Part 3
+### The Magma Gang Route (Part 3)
 
-As usual, if you are in the Aqua Gang, skip ahead to the next section.
+If you are a part of the Aqua Gang, [jump to the next section](#the-aqua-gang-route-part-3)
 
 Head outside, and talk to Maxwell. He will give us *TM11 Sunny Day*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Archer who you can battle!
 
-**Aqua Mastermind Archer. Field: No Field**
-- Pelipper, Lv. 58, Ability: Drizzle, Modest Nature, IVs: 20
-    - Hydro Pump
-    - Hurricane
-    - Roost
-    - Tailwind
-- Relicanth, Lv. 58, Ability: Rock Head, Bashful Nature, IVs: 30
-    - Hydro Pump
-    - Head Smash
-    - Double-Edge
-    - Yawn
-- Seaking, Lv. 59, Ability: Lightning Rod, Adamant Nature, IVs: 30
-    - Drill Run
-    - Waterfall
-    - Megahorn
-    - Poison Jab
-- Blastoise, Lv. 60, Ability: Torrent, Modest Nature, IVs: 20
-    - Hydro Pump
-    - Hydro Cannon
-    - Ice Beam
-    - Yawn
-- Sharpedo, Lv. 62, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Aqua Jet
-    - Crunch
-    - Earthquake
-    - Ice Fang
+!battle(["Archer", :Archer, 1])
 
 Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokémon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority but everything else is slow enough that you can figure this one out, I'm sure.
 
@@ -371,38 +209,13 @@ For winning, you'll get *TM18 Rain Dance*.
 
 You'll also notice that since Maxwell is gone from the North Obsidia Ward, you can now grab the hidden *X Attack* behind him and get another Houndour.
 
-### The Aqua Gang Route Part 3
+### The Aqua Gang Route (Part 3)
 
-As usual, if you are in the Magma Gang, skip ahead to the next section.
+If you are a part of the Magma Gang, [jump to the next section](#iolia-valley)
 
 Head outside, and talk to Archer. He will give us *TM18 Rain Dance*. Return to Seventh Street and enter the bottom grotto. Inside, you'll find Maxwell who you can battle!
 
-**Magma Kingpin Maxwell. Field: No Field**
-- Ninetales, Lv. 58, @Wise Glasses, Ability: Drought, Modest Nature, IVs: 31
-    - Will-O-Wisp
-    - Fire Blast
-    - Extrasensory
-    - Confuse Ray
-- Heatmor, Lv. 58, @Muscle Band, Ability: White Smoke, Adamant Nature, IVs: 31
-    - Hone Claws
-    - Fire Punch
-    - Thunder Punch
-    - Sucker Punch
-- Turtonator, Lv. 59, @Wise Glasses, Ability: Shell Armor, Bashful Nature, IVs: 31
-    - Shell Trap
-    - Overheat
-    - Explosion
-    - Dragon Pulse
-- Charizard, Lv. 60, @Wise Glasses, Ability: Solar Power, Modest Nature, IVs: 31
-    - Flamethrower
-    - Air Slash
-    - Dragon Pulse
-    - Blast Burn
-- Houndoom, Lv. 62, @Wise Glasses, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Flamethrower
-    - Dark Pulse
-    - Sludge Bomb
+!battle(["Maxwell", :Maxwell, 1])
 
 Maxwell uses his sun team once more, but you'll notice it's not really optimized. His Ninetales is the only mechanism to summon sun, and the rest of his Pokémon have no sun-boosted abilities past Charizard. So it's really just a weak Fire-monotype team that you should be able to deal with once the sun is gone. Houndoom and Charizard can hit pretty hard but exploiting the team's many weaknesses shouldn't be too tough.
 
@@ -412,39 +225,11 @@ For winning, you'll get *TM11 Sunny Day*.
 
 Head over to Vanhanen Labyrinth. Hidden behind the big tree in the top right is the entrance to Iolia Valley. Talk to the red gem to create a rock smash wall. Head through the path.
 
-**Iolia Valley**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Wynaut**        |20 |**Wynaut**        |20 |**Wynaut**        |20 |
-|**Beautifly**     |20 |Ducklett          |20 |Dustox            |20 |
-|Ducklett          |10 |Hoppip            |10 |Ducklett          |10 |
-|Ledian            |10 |Pidove            |10 |Ariados           |10 |
-|Tranquill         |10 |Tranquill         |10 |Tranquill         |10 |
-|**Silcoon**       |10 |Wurmple           |10 |**Cascoon**       |10 |
-|**Seel**          |8  |**Seel**          |8  |**Seel**          |8  |
-|**Skiploom**      |5  |**Skiploom**      |5  |Hoothoot          |5  |
-|Petilil           |5  |Petilil           |5  |Noctowl           |5  |
-|Swanna            |2  |Swanna            |2  |Swanna            |2  |
-
-|Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|
-|Finneon           |70 |Seaking           |60 |
-|Goldeen           |30 |**Lumineon**      |20 |
-|                  |   |**Alomomola**     |20 |
+!enc(333, ["Grass", "Fishing"], ["Old", "Good"])
 
 In this first area you can find a hidden *Ultra Ball*, *Awakening*, and *Blue Shard*. In the bottom left, use the red key once more to open a rock smash wall, then go inside the new cave.
 
-**Iolia Valley Caves**
-
-|Cave              |%  |
-|------------------|---|
-|Graveler-Alola    |30 |
-|Woobat            |20 |
-|**Bronzor**       |20 |
-|**Carbink**       |19 |
-|**Swoobat**       |10 |
-|**Bronzong**      |1  |
+!enc(340, nil, nil, "Iolia Valley Caves")
 
 Exit at the bottom. In the next area, grab the hidden *Purple Shard* then make a new cave entrance. Finally, grab the hidden *Green Shard* and pick up the *Green Crystal Key*.
 
@@ -464,49 +249,15 @@ Grab the *Purple Crystal Key*! Talk to the nearby purple crystal to mutate the c
 
 Head up and right from here, and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokémon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
 
-**Iolia Valley Northeast Dark Cave**
-
-|Cave              |%  |
-|------------------|---|
-|**Sableye**       |100|
+!enc(507, nil, nil, "Iolia Valley Northeast Dark Cave")
 
 Back outside, make your way to the entrance to the valley once more. Enter the cave on the second tier, and activate the purple crystal to mutate it. Head back out and enter the cave on the first tier from the left, and head out the newly formed exit. You'll find a *Dusk Stone* and a hidden *Rawst Berry*.
 
 To progress, return to the entrance, un-mutate the cave we just mutated via the second tier, then go through the cave on the first tier once more. Follow this path to a Light Shard, then create another red cave entrance and go in.
 
-**Lepidopterist Bennett (2x Moomoo Milk). Field: Dark Crystal Cavern**
-- Larvesta, Lv. 58, Ability: Flame Body, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Flame Charge
-    - Bug Bite
-    - Zen Headbutt
-    - Morning Sun
-- Venomoth, Lv. 63, @Leftovers, Ability: Shield Dust, Timid Nature, IVs: 31
-    - Quiver Dance
-    - Baton Pass
-    - Sleep Powder
-    - Signal Beam
-- Dustox, Lv. 63, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31
-    - Quiver Dance
-    - Shadow Ball
-    - Signal Beam
-    - Moonlight
-- Scyther, Lv. 62, Ability: Technician, Adamant Nature, IVs: 31
-    - Swords Dance
-    - Night Slash
-    - Wing Attack
-    - Bug Bite
-- Yanmega, Lv. 63, @Life Orb, Ability: Speed Boost, Modest Nature, IVs: 31
-    - Protect
-    - Giga Drain
-    - Ancient Power
-    - Signal Beam
-- Butterfree, Lv. 64, @Leftovers, Ability: Compound Eyes, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sleep Powder
-    - Quiver Dance
-    - Signal Beam
-    - Giga Drain
+!battle(["Bennett", :BENNETT, 1], "Dark Crystal Cavern")
 
-Poor guy couldn't even level his Larvesta up once more to have Volcarona. Regardless, he benefits from the field he's on, this time, in the form of boosted Signal Beams. Again his bugs are fairly frail and have lots of exploitable weaknesses, so you can use Rock and Fire moves to defeat him.
+Poor guy couldn't even level his Larvesta up once more to have Volcarona. Regardless, he benefits from the field he's on, this time in the form of boosted Signal Beams. Again his bugs are fairly frail and have lots of exploitable weaknesses, so you can use Rock and Fire moves to defeat him.
 
 **Relationship Point Choices:**
 - Beat Bennett on your first try (+1 Luna, -2 Bennett)
@@ -519,9 +270,11 @@ There should now be a purple warp in Luna's room that will take us to the entran
 
 Head out of Iolia Valley and make your way through South Aventurine Woods to the Tanzan Mountain. Go right when you can into the room that Saphira burst out of earlier. You can use the green key to open a new pathway.
 
+!img("tanzan_east.png")
+
 Hop across some sneaky ledges onto the rocky texture of the cave, then make your way down and to the right. Exit onto the Chrysolia Pass.
 
-Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next rooms, move boulders out of the way and grab the *Escape Rope*. The next room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room to reset. The room looked like this when I solved it, if it is helpful:
+Pick up a hidden *Hyper Potion* and *Normal Gem* as you make your way south. In the next two rooms, move boulders out of the way and grab the *Escape Rope*. The large room is a bit harder: you'll need to carefully move boulders and touch all three of the canisters to turn them red without getting stuck. If you need to, you can exit the room to reset. The room looked like this when I solved it:
 
 !img("wasteland_wall_boulders.png")
 
@@ -542,7 +295,7 @@ The sequence of steps to finish the puzzle should look something like this:
 - Push this boulder all the way right into the hole, then follow it in.
 - Push the boulder to the right side of the ladder, then climb up three times.
 
-Once you finish this puzzle and emerge on top of the wall, head left to get the *Inverse Field Readout*. Right from here, there is a hidden cave entrance behind the canister. Inside, you can get the *Toxic Orb* and *Yureyu Key*. You can also talk to the canister here to fight **Dhelmise**. Exit all the way out how you came in.
+Once you finish this puzzle and emerge on top of the wall, head left to get the *Inverse Field Readout*. Right from here, there is a hidden cave entrance behind the canister. Inside, you can get the *Toxic Orb* and *Yureyu Key*. You can also talk to the canister here to fight **Dhelmise**. Exit to Tanzan Mountain... backtracking the entire way.
 
 While we're nearby, head over to Spinel Town. We can revive the Jaw Fossil we got earlier to obtain **Tyrunt**!
 
@@ -554,20 +307,7 @@ Ok, with those out of the way, head to the Underroot in Beryl. You'll see a gree
 
 Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head to the right and around to the top, then use the Yureyu Key to get the *Magnet* and the *Ghostium-Z*. Sweet. Next, head around to the other side of the factory and again use the Yureyu Key to get inside.
 
-**Yureyu Power Plant (Backroom)**
-
-|Cave              |%  |
-|------------------|---|
-|Togedemaru        |20 |
-|Klink             |20 |
-|**Electrode**     |15 |
-|Voltorb           |10 |
-|Yamask            |10 |
-|Duskull           |10 |
-|Klang             |5  |
-|**Cofagrigus**    |5  |
-|**Dusclops**      |4  |
-|**Klinklang**     |1  |
+!enc(281, nil, nil, "Yureyu Power Plant Backroom")
 
 Each of the Poké Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**.
 
@@ -577,37 +317,7 @@ While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to
 
 Return to the Iolia Valley and take the warp to Luna's room.
 
-**Dark Dreamer Luna (3x Ultra Potion). Field: Dark Crystal Cavern**
-- Bisharp, Lv. 63, @Rocky Helmet, Ability: Defiant, Impish Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Iron Head
-    - Night Slash
-    - Sucker Punch
-    - Stealth Rock
-- Absol, Lv. 64, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Sucker Punch
-    - Play Rough
-    - Night Slash
-- Honchkrow, Lv. 63, @Muscle Band, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Sucker Punch
-    - Night Slash
-    - Roost
-    - Brave Bird
-- Weavile, Lv. 64, @Focus Sash, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Power-Up Punch
-    - Poison Jab
-    - Ice Shard
-    - Night Slash
-- Tyranitar, Lv. 63, @Magical Seed, Ability: Unnerve, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Brick Break
-    - Iron Head
-    - Crunch
-    - Stone Edge
-- Umbreon, Lv. 65, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Moonlight
-    - Dark Pulse
-    - Double Team
-    - Toxic
+!battle(["Luna", :LUNA, 0], "Dark Crystal Cavern")
 
 Time to fight Reborn's Dark type gym leader. Offensively, the field will boost the power of Dark Pulse and Night Slash by 1.5x. More notable is that the field boosts the defenses of Dark types by 1.5x, so what'd normally be straightforward super-effective kills on Bisharp, Tyranitar, Absol, Weavile, and Honchkrow now aren't so certain. Not to mention the effect this has on already very bulky Umbreon, who can heal 75% of its health with Moonlight and also boost its Evasion. Plus, they all have perfect IV's and are all EV trained, a feature we'll see sticking around with the boss fights. Anyways, this is a pretty straightforward albeit tough fight that uses offensive and defensive boosts provided by the field pretty well.
 
