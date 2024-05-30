@@ -29,90 +29,21 @@ That's all for Tanzan Depths for now, so you can Dig or Escape Rope to get back 
 
 We actually start in the South Aventurine Woods, however.
 
-**South Aventurine Woods**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Buneary           |20 |Pachirisu         |24 |Paras             |20 |
-|Ledyba            |20 |Buneary           |20 |Spinarak          |20 |
-|**Passimian**     |10 |**Passimian**     |10 |**Passimian**     |10 |
-|Panpour           |10 |Panpour           |10 |Panpour           |10 |
-|Pansear           |10 |Pansear           |10 |Pansear           |10 |
-|Pansage           |10 |Pansage           |10 |Pansage           |10 |
-|Pachirisu         |9  |**Bewear**        |6  |Ariados           |6  |
-|Ledian            |6  |**Sudowoodo**     |5  |**Kricketune**    |5  |
-|Primeape          |4  |Primeape          |4  |**Bewear**        |5  |
-|**Bewear**        |1  |**Loudred**       |1  |Primeape          |4  |
-
-|Headbutt Rare     |%  |Headbutt Common   |%  |
-|------------------|---|------------------|---|
-|Combee            |40 |Combee            |40 |
-|Swablu            |25 |Swablu            |25 |
-|Taillow           |20 |Taillow           |20 |
-|**Komala**        |6  |**Komala**        |6  |
-|Pineco            |5  |Pineco            |5  |
-|Mothim            |4  |**Wormadam**      |4  |
-
-To this day I don't really understand "Rare" vs. "Common" headbutt trees... but you can always evolve a Burmy to get the other evolution if you really want to.
+!enc(282)
 
 You'll find hidden *Purple Shard* and *Green Shard* here, but we can't go left or right in this area quite yet. Instead, head up and enter Route 1 proper... but prepare yourself.
 
-**Swag Jockey Fern (2x Berry Ice Cream). Field: Grassy Terrain**
-- Haxorus, Lv. 52, @Dragon Fang, Ability: Mold Breaker, Adamant Nature, IVs: 31
-    - Taunt
-    - Dragon Claw
-    - Dragon Dance
-    - Iron Tail
-- Rhydon, Lv. 52, @Eviolite, Ability: Lightning Rod, Brave Nature, IVs: 31
-    - Drill Run
-    - Stone Edge
-    - Hammer Arm
-    - Fire Fang
-- Krookodile, Lv. 52, Ability: Moxie, Jolly Nature, IVs: 31
-    - Dig
-    - Brick Break
-    - Throat Chop
-    - Thunder Fang
-- Scyther, Lv. 53, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31
-    - X-Scissor
-    - Double Team
-    - Wing Attack
-    - Swords Dance
-- Roserade, Lv. 54, @Leftovers, Ability: Poison Point, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sleep Powder
-    - Giga Drain
-    - Extrasensory
-    - Hidden Power
-- Decidueye, Lv. 54, @Elemental Seed, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Swords Dance
-    - Leaf Blade
-    - Spirit Shackle
-    - Shadow Sneak
+!battle(["Fern", :Hotshot, 5], "Grassy Terrain")
 
-Oh boy, if Fern was ever a tough fight, wait until he has the power of a beneficial field behind him. His Roserade and Decidueye are as always a tough combo: Roserade will put you to sleep, Decidueye will try to sweep, and both will sit back, passively heal, and enjoy the field boosts. His Rhydon is annoyingly tanky thanks to its Eviolite and has wide coverage but doesn't hit too hard. His Haxorus and Krookodile (and Scyther, I guess) will try to sweep you with attack / speed boosts.
+It's almost like Fern was just waiting on the very edge of the map with Grassy Terrain to fight us! His Roserade and Decidueye are as always a tough combo: Roserade will put you to sleep, Decidueye will try to sweep, and both will sit back, passively heal, and enjoy the field boosts. His Rhydon is annoyingly tanky thanks to its Eviolite and has wide coverage but doesn't hit too hard. His Haxorus and Krookodile (and Scyther, I guess) will try to sweep you with attack / speed boosts.
 
 A good sweeper can find some success if they resist Haxorus or Rhydon's attacks, but you'll have to watch out for Shadow Sneak. You can also mutate the field to Burning if you want, obviously neutering his Grass types instead of helping them. I'd make the case that Noel is overall a harder fight than Fern in general so by making it here you should be able to succeed.
 
 So, now we get to explore Route 1. Only in Pokémon Reborn do we finally reach Route 1 after getting 7 badges.
 
-**Route 1**
+!enc(285)
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Deerling          |20 |Deerling          |20 |Arbok             |24 |
-|Cherubi           |20 |**Ponyta**        |20 |**Ponyta**        |20 |
-|**Tauros**        |10 |**Tauros**        |10 |**Tauros**        |10 |
-|**Bouffalant**    |10 |**Bouffalant**    |10 |**Bouffalant**    |10 |
-|**Miltank**       |10 |**Miltank**       |10 |**Karrablast**    |10 |
-|**Kangaskhan**    |10 |**Kangaskhan**    |10 |**Kangaskhan**    |10 |
-|**Mudbray**       |5  |**Skiddo**        |5  |Audino            |5  |
-|**Skiddo**        |5  |**Linoone**       |5  |**Linoone**       |5  |
-|Audino            |4  |**Mudbray**       |4  |**Mudbray**       |4  |
-|**Cherrim**       |4  |Audino            |4  |**Rapidash**      |1  |
-|**Gogoat**        |1  |**Gogoat**        |1  |**Mudsdale**      |1  |
-|**Mudsdale**      |1  |**Mudsdale**      |1  |                  |   |
-
-You'll also find pairs of Tauros and Bouffalant all over the route. If you fight Tauros, the Bouffalant will go running off in the direction it's facing, which means that any logs in the way will be pushed. If you fight Bouffalant, Tauros will let you ride it, meaning you can now go up ledges. Game changer.
+You'll also find pairs of **Tauros** and **Bouffalant** all over the route. If you fight Tauros, the Bouffalant will go running off in the direction it's facing, which means that any logs in the way will be pushed. If you fight Bouffalant, Tauros will let you ride it, meaning you can now go up ledges. Game changer.
 
 As a note: there are a bunch of entrances to the North and South Aventurine Woods scattered about Route 1. I'll take us into the woods to explore a bit later and focus on Route 1 for now.
 
@@ -120,9 +51,7 @@ As a note: there are a bunch of entrances to the North and South Aventurine Wood
 
 Start by going left. Before hopping up or down any edges, you can find a hidden *Nugget* here. Head down one ledge to the left, in this "level" of the route, you can find hidden *Blue Shard*, *Red Shard*, and *Purple Shard*. Defeat the two circled Tauros here to cause Bouffalant to clear some paths for us, which will come in handy later on.
 
-**Youngster Elliot. Field: Grassy Terrain**
-- Gothita, Lv. 20, Serious Nature, IVs: 10
-- Luxray, Lv. 60, Serious Nature, IVs: 10
+!battle(["Elliot", :YOUNGSTER, 0], "Grassy Terrain")
 
 Head down the ledge to the left. On this level, you'll find hidden *X Sp. Atk*, *Elemental Seed*, and *Blue Shard*. Defeat the next circled Tauros to clear another path in the Aventurine Woods, then go down the next ledge. Up from here, defeat the Tauros (top left of the above image) to open a shortcut. You'll also find a hidden *Carbos* here.
 
@@ -130,8 +59,7 @@ Head down the ledge to the left. On this level, you'll find hidden *X Sp. Atk*, 
 
 Hidden to the left are a *Green Shard* and *Great Ball*. Hop down the ledge to the left to get hidden *Escape Rope*, *Blue Shard*, and *Grass Gem*. The Miltank around here will do a trade with us: one Oran Berry for its *Moomoo Milk*. Make sure you have at least one Moomoo Milk in your bag for a quest way later.
 
-**Techie Armin. Field: Grassy Terrain**
-- Golisopod, Lv. 52, Serious Nature, IVs: 10
+!battle(["Armin", :TechNerd, 0], "Grassy Terrain")
 
 Anyways, head inside the building here.
 
@@ -139,19 +67,15 @@ Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll emb
 
 Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*.
 
-**Techie Cameron. Field: Grassy Terrain**
-- Gardevoir, Lv. 53, Serious Nature, IVs: 10
-- Ampharos, Lv. 55, Serious Nature, IVs: 10
+!battle(["Cameron", :TechNerd, 0], "Grassy Terrain")
 
 Defeat the Tauros to the right to open another shortcut. Jump down once more.
 
-**Hiker Oltan. Field: Grassy Terrain**
-- Pinsir, Lv. 51, Serious Nature, IVs: 10
+!battle(["Oltan", :HIKER, 0], "Grassy Terrain")
 
 You can find hidden *Ice Heal* and *PokéSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poké Ball*.
 
-**Ranger Nelly. Field: Grassy Terrain**
-- Zebstrika, Lv. 53, Serious Nature, IVs: 10
+!battle(["Nelly", :RANGERF, 0], "Grassy Terrain")
 
 You'll notice inside the gate at the bottom we can't do anything, so head back out. Knock out a Bouffalant to get a Tauros mount, which we can use to climb the ledges back up Route 1! Make your way back to where we fought Fern. You'll notice as you go that you will be unable to go through tall grass on your Tauros. The path through this section of woods on Tauros looks like the following:
 
@@ -159,29 +83,7 @@ You'll notice inside the gate at the bottom we can't do anything, so head back o
 
 Note that this means we do have to briefly enter the North Aventurine Woods to keep our mount - alternatively you could also climb the ledge near the youngster, dismount, then get a new Tauros mount to the right. This takes more time however, so I recommend the woods when traversing Route 1 here.
 
-**North Aventurine Woods**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Buneary           |20 |Pachirisu         |24 |Paras             |20 |
-|Ledyba            |20 |Buneary           |20 |Spinarak          |20 |
-|**Oranguru**      |10 |**Oranguru**      |10 |**Oranguru**      |10 |
-|Panpour           |10 |Panpour           |10 |Panpour           |10 |
-|Pansear           |10 |Pansear           |10 |Pansear           |10 |
-|Pansage           |10 |Pansage           |10 |Pansage           |10 |
-|Pachirisu         |9  |Bewear            |6  |Ariados           |6  |
-|Ledian            |6  |Sudowoodo         |5  |Sudowoodo         |5  |
-|Primeape          |4  |Primeape          |4  |Bewear            |5  |
-|Bewear            |1  |Loudred           |1  |Primeape          |4  |
-
-|Headbutt Rare     |%  |Headbutt Common   |%  |
-|------------------|---|------------------|---|
-|Combee            |40 |Combee            |40 |
-|Swablu            |25 |Swablu            |25 |
-|Taillow           |20 |Taillow           |20 |
-|Komala            |6  |Komala            |6  |
-|Pineco            |5  |Pineco            |5  |
-|Mothim            |4  |Wormadam          |4  |
+!enc(289, ["Grass", "Headbutt"])
 
 You can also find a hidden *Poké Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
 
@@ -189,48 +91,17 @@ You can also find a hidden *Poké Ball* in here. Make your way out to the right 
 
 To progress to the right while still on your Tauros, you'll need to have the top left Bouffalant move a log, so defeat Tauros. Hop up the ledge to the right.
 
-**Ranger Steve. Field: Grassy Terrain**
-- Krookodile, Lv. 49, Serious Nature, IVs: 10
-- Pyroar, Lv. 48, Serious Nature, IVs: 10
-- Feraligatr, Lv. 49, Serious Nature, IVs: 10
-- Arbok, Lv. 50, Serious Nature, IVs: 10
-- Mantine, Lv. 50, Serious Nature, IVs: 10
+!battle(["Steve", :PkMnRANGER_Male, 0], "Grassy Terrain")
 
-**Hotshot Hark. Field: Grassy Terrain**
-- Flareon, Lv. 51, @Ganlon Berry, Serious Nature, IVs: 10
-    - Natural Gift
-    - Last Resort
-- Flareon, Lv. 52, @Belue Berry, Serious Nature, IVs: 10
-    - Natural Gift
-    - Superpower
-    - Flare Blitz
-    - Iron Tail
-- Flareon, Lv. 53, @Liechi Berry, Serious Nature, IVs: 10
-    - Natural Gift
-    - Superpower
-    - Flare Blitz
-    - Iron Tail
-- Flareon, Lv. 54, @Durin Berry, Serious Nature, IVs: 10
-    - Natural Gift
-    - Superpower
-    - Flare Blitz
-    - Iron Tail
+!battle(["Hark", :COOLTRAINER_Male, 0], "Grassy Terrain")
 
 You can find an *Exp. Candy L* as well as 2 hidden *Green Shards*, and *Electric Gem*. Note while you're here that you can pet Flareon, the first of many Eeveelutions we'll need to pet for that sidequest.
 
 On the next ledge to the right you'll find a *Great Ball*, *Ether*, and *Tiny Mushroom*.
 
-**Hiker Rufus. Field: Grassy Terrain**
-- Loudred, Lv. 50, Serious Nature, IVs: 10
-- Crabominable, Lv. 51, Serious Nature, IVs: 10
+!battle(["Rufus", :HIKER, 0], "Grassy Terrain")
 
-**Hotshot Brian. Field: Grassy Terrain**
-- Starmie, Lv. 50, Serious Nature, IVs: 10
-    - Hydro Pump
-    - Swift
-    - Recover
-    - Confuse Ray
-- Skarmory, Lv. 50, Serious Nature, IVs: 10
+!battle(["Brian", :COOLTRAINER_Male, 0], "Grassy Terrain")
 
 Defeat the two Tauros here to get Bouffalant to push more logs out of the way.
 
@@ -238,11 +109,9 @@ Defeat the two Tauros here to get Bouffalant to push more logs out of the way.
 
 To the right you'll need to use the bottom of three ledges to make it to the right on your Tauros. Up here you'll find hidden *Great Ball* and *Super Potion*. The ledge to the right is the only one on the route that goes downwards. Jump down it.
 
-**Hiker Montgomery. Field: Grassy Terrain**
-- Tauros, Lv. 51, Serious Nature, IVs: 10
+!battle(["Montgomery", :HIKER, 0], "Grassy Terrain")
 
-**Ranger Sully. Field: Grassy Terrain**
-- Rapidash, Lv. 54, Serious Nature, IVs: 10
+!battle(["Sully", :RANGERF, 0], "Grassy Terrain")
 
 You can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale* in this area. You'll notice we can't access the walled off area at the bottom-right while on a Tauros, so we'll come back here later on. Knock out the Tauros in the top area and progress up the next hill.
 
@@ -252,12 +121,9 @@ On the next hill you can get a hidden *PokéSnax*, and *Purple Shard*.
 
 Grab the hidden *Poké Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poké Ball*, *Red Shard*, and *Zinc*.
 
-**Ranger Medius. Field: Grassy Terrain**
-- Karrablast, Lv. 52, Serious Nature, IVs: 10
-- Miltank, Lv. 52, Serious Nature, IVs: 10
+!battle(["Medius", :RANGERF, 0], "Grassy Terrain")
 
-**Hiker Rosch. Field: Grassy Terrain**
-- Linoone, Lv. 54, Serious Nature, IVs: 10
+!battle(["Rosch", :HIKER, 0], "Grassy Terrain")
 
 Grab the hidden *Ghost Gem*, 2 *Purple Shards*, and *Synthetic Seed*. In the bottom corner you can use Strength to get a *Protector*.
 
@@ -265,17 +131,7 @@ With that out of the way, dismount off your Tauros with 'A' and jump down the le
 
 ## Vanhanen Castle
 
-**Vanhanen Labyrinth**
-
-|Land              |%  |
-|------------------|---|
-|**Girafarig**     |24 |
-|Ponyta            |20 |
-|Deerling          |15 |
-|Stantler          |15 |
-|Kecleon           |14 |
-|Skiddo            |10 |
-|Furfrou           |2  |
+!enc(292)
 
 You can get the *Chess Board Field Readout* as well as hidden *Ice Gem*, *Red Shard*, *Nugget*, *Blue Shard*, *Exp. Candy XL*, *Timer Ball*, *Dusk Ball*, *Tiny Mushroom*, *Purple Shard*, *Health Wing*, *Magical Seed*, and *Quick Ball* all throughout the labyrinth. Grab the *Purple Shard* in a nearby rock then enter the castle.
 
@@ -286,39 +142,9 @@ Heal and prep your team, then enter the next room. Here we can pet Umbreon for t
 
 Anyways, talk to Luna.
 
-**Pretty Boy Cain (2x Moomoo Milk). Field: Chess Board**
-- Muk-Alola, Lv. 52, @Black Sludge, Ability: Poison Touch, Brave Nature, IVs: 15 (Pawn)
-    - Gunk Shot
-    - Minimize
-    - Knock Off
-    - Power-Up Punch
-- Mimikyu, Lv. 53, Ability: Disguise, Jolly Nature, IVs: 31 (King)
-    - Drain Punch
-    - Play Rough
-    - Swords Dance
-    - Shadow Sneak
-- Meowstic-Female, Lv. 54, @Wise Glasses, Ability: Competitive, Timid Nature, IVs: 20 (Knight)
-    - Charge Beam
-    - Psychic
-    - Shadow Ball
-    - Light Screen
-- Marowak-Alola, Lv. 54, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 15 (Rook)
-    - Flare Blitz
-    - Stomp Tantrum
-    - Shadow Bone
-    - Will-O-Wisp
-- Primarina, Lv. 54, Ability: Torrent, Modest Nature, IVs: 31 (Bishop)
-    - Moonblast
-    - Sparkling Aria
-    - Blizzard
-    - Reflect
-- Nidoking, Lv. 55, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252 (Queen)
-    - Earthquake
-    - Throat Chop
-    - Poison Jab
-    - Megahorn
+!battle(["Cain", :Cain, 5], "Chess Board")
 
-This battle features the new Chess Board Field. While stuff like Grassy Terrain and Super-Heated Field are farily intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially, each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily, this means that the opponents' teams will always predictably use the same ranks, so I will list them for each major chess fight.
+This battle features the new Chess Board Field. While fields like Grassy Terrain and Super-Heated Field are fairly intuitive, you really should read up about Chess Board field as much as possible and use this battle to learn the ins-and-outs. Essentially, each team member will get a chess board piece rank that will affect various things like stat boosts and even priority. They are fixed for each ordered team, although some will change depending on ordering, so keep that in mind as you make a chess board team. Luckily, this means that the opponents' teams will always predictably use the same ranks, so I will list them for each major chess fight.
 
 Anyways, with all that said, Cain doesn't really have a ton of optimization here with his team, although it is getting better. He now uses Mimikyu, which is always a bit annoying to fight thanks to its ability and optimal moveset. His Muk and Nidoking are strong as ever, and his Primarina and Marowak may be slow but will hit you really hard. The key to winning this one is probably just consistent fast offense with a couple of things in the back to deal with Mimikyu and Nidoking if need be.
 
@@ -337,16 +163,7 @@ Hey look! We made it to another chunk of the grand stairway that we couldn't acc
 
 After a scene, you'll be free to explore.
 
-**Citae Astrae Bottom**
-
-|Land              |%  |
-|------------------|---|
-|Unown             |44 |
-|**Drowzee**       |20 |
-|**Baltoy**        |20 |
-|**Elgyem**        |14 |
-|**Claydol**       |1  |
-|**Hypno**         |1  |
+!enc(305)
 
 In this area, you can find 5 hidden *Star Pieces*, *Shoal Shell*, and *Shiny Stone*. Say that ten times fast.
 
@@ -378,25 +195,13 @@ Note that we will eventually get points for free for being the other genders too
 
 Use the Light Shard (or wait till we catch a few Pokémon) and head out.
 
-**Citae Astrae Top**
-
-|Cave              |%  |
-|------------------|---|
-|Unown             |64 |
-|Natu              |20 |
-|**Xatu**          |10 |
-|**Sigilyph**      |6  |
+!enc(306, nil, nil, "Citae Astrae Rooftop")
 
 Once you're ready, talk to El at the top. You will have to choice between siding with El, or Radomus. If you choose the former, you're allowed to lose the upcoming battle, but if you choose the latter, you must win to progress.
 
 **In order to access the exclusive postgame route, you need to side with Radomus and win.**
 
-**Parson El (2x Full Heal). Field: Crystal Cavern Field**
-- Arceus, Lv. 75, @Leftovers, Ability: Multitype, Quiet Nature
-    - Recover
-    - Judgment
-    - Shadow Ball
-    - Focus Blast
+!battle(["El", :EL, 0], "Crystal Cavern")
 
 One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
 
@@ -409,7 +214,7 @@ With that, agree to leave together. Exit out of the Grand Gate, then make your w
 
 We're gonna need about 30 Honeys for the next section - I recommend buying only about 5 honeys and then making sure you have 8-9 candies in your bag, as we will be able to trade them for honey later. A single Blue Moon Ice Cream can also be exchanged for tons of Honey if you happen to have one.
 
-One other note:
+Not that you should spend your money on them, but the Sweet Kiss now sells higher-tier Exp. Candies!
 
 !shop("Sweet Kiss (Bottom) (7+ Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Exp. Candy XL", "Rare Candy"], [nil, 500, 2000, 5000, 10000, 20000, nil])
 
@@ -423,25 +228,13 @@ Enter 1N, the first entrance to the forest that you see. This will simply spit u
 
 !img("naw_1.png")
 
-Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree (A) here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it (immediately, unlike past versions of the game ). If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
+Go up and you'll find a hidden *Paralyze Heal* and a *Potion*. A web will block us from proceeding, so we'll have to dismount up here and walk through the tall grass to the left. You can talk to the tree (A) here to slather it with honey - when you do, Heracross and Pinsir will show up and fight for it. If you need a nearby web broken, defeat Pinsir and Heracross will do it for you. If you need a nearby log broken, defeat Heracross, and Pinsir will do it for you. Note that throughout the woods we cannot catch these two bugs. Anyways, defeat the Pinsir here.
 
-Head to the right from here and go through another set of tall grass, but don't go down this ledge just yet. Throughout our adventures in the woods, if you appear to be stuck, step on the flower but don't pull out the Floral Charm just set - I'm saving that for a specific flower later on - and you'll be sent back to Route 1.
+Head to the right from here and go through another set of tall grass, but don't go down this ledge just yet. Throughout our adventures in the woods, if you appear to be stuck, step on the Red and White flower tile - don't pull out the Floral Charm just set, I'm saving that for a specific flower later on - and you'll be sent back to Route 1.
 
-Down from here, you'll find a hidden *Mental Herb* and another honey tree (B). Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass tree A and climb the ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter the cave here.
+Down from here, you'll find a hidden *Mental Herb* and another honey tree (B). Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass tree A and climb the ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter Celestinine Mountain here.
 
-**Celestinine Mountain B2F / B1F**
-
-|Cave              |%  |Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Buizel**        |24 |Finneon           |70 |Remoraid          |60 |
-|Swinub            |20 |**Wishiwashi**    |30 |Clauncher         |20 |
-|Cubchoo           |14 |                  |   |**Qwilfish**      |20 |
-|**Floatzel**      |11 |
-|**Piloswine**     |10 |
-|Beartic           |10 |
-|Sandshrew-Alola   |5  |
-|Sandslash-Alola   |5  |
-|Delibird          |1  |
+!enc(387, ["Cave", "Fishing"], ["Old", "Good"])
 
 Note that we will eventually want a Qwilfish for an in-game trade.
 
@@ -477,12 +270,7 @@ To the right, 6N will spit us back out onto Route 1, so enter 7N to the east. Pi
 
 Head back out to Route 1, and pick up a Tauros mount. Head right back in to 7N and go up the ledge at the top. Grab the *Sharp Beak* as well as hidden *Synthetic Seed* and *Tiny Mushroom*.
 
-**North Aventurine Woods**
-
-|Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|
-|**Dewpider**      |100|**Dewpider**      |95 |
-|                  |   |**Araquanid**     |5  |
+!enc(289, ["Fishing"], ["Old", "Good"])
 
 Finally, head back to Route 1, pick up a Tauros mount (if there are none, go west through 6N to 5N) and enter 4N once more. Follow the path to the right and go up the ledge here. Grab the *Exp. Candy XL*, *Calm Mint*, *Careful Mint*, and 2 *Lum Berries*. Also you can find hidden *Great Ball* and *Red Shard*. Return to Route 1.
 
@@ -496,7 +284,7 @@ Head east on Route 1 and enter 8S in the above map, noting that you'll have to d
 
 !img("saw_3.png")
 
-Inside, grab the hidden *Revive* then use the Honey tree (Q) two times to destroy both of the nearby obstacles. Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side at 6S. Our next destination is all the way to the west, so stop by the Route 1 Nature Center to heal if you'd like
+Inside, grab the hidden *Revive* then use the Honey tree (Q) two times to destroy both of the nearby obstacles. Exit out of 8S, then go left to 7S. You can get a *Water Gem* here and exit on the other side at 6S. Our next destination is all the way to the west, so stop by the Route 1 Nature Center to heal if you'd like.
 
 !img("route1_7.png")
 
@@ -504,9 +292,15 @@ Enter 1S on the far west side of Route 1.
 
 !img("saw_1.png")
 
-Grab a hidden *Clever Wing* then go up the ledge and follow the path. Dismount, then talk to Honey tree (G) and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S. Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the Honey tree (I) and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again. Go right at this fork, staying on Tauros to climb the ledge below tree (I). Dismount up here and go down through the tall grass. Use the Honey tree (H) and fight Heracross this time, then return to Route 1. One more time, get a Tauros and re-enter 2S, this time going down at the fork. Follow the path and jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount.
+Grab a hidden *Clever Wing* then go up the ledge and follow the path. Dismount, then talk to Honey tree (G) and beat the Pinsir. Down this ledge is 2S, which we can take to emerge onto Route 1. Find a Tauros mount and return to 2S.
 
-Pick up the hidden *Revive* in the next area, then use the Honey tree (J) and fight Heracross. Exit out of 3S above, get a Tauros mount, and return to 3S. Go up the ledge at the bottom, use the Honey tree (K) and fight Pinsir. Grab the hidden *Purple Shard*. You'll notice we can't progress this way any further. Return to Route 1.
+Up the ledge to the right you'll find a hidden *Max Repel*. Dismount up here, then go down through the patch of tall grass. Use the Honey tree (I) and fight Pinsir. Make your way back to Route 1, grab a Tauros, then reenter 2S yet again. 
+
+Go right at this fork, staying on Tauros to climb the ledge below tree (I). Dismount up here and go down through the tall grass. Use the Honey tree (H) and fight Heracross this time, then return to Route 1. One more time, get a Tauros and re-enter 2S.
+
+This time, go down at the first fork. Follow the path and jump up the ledge at the bottom. Pick up the *Link Stone*, 2 *Sitrus Berries*, and hidden *Magical Seed*. Drop down and go up the ledge immediately to the right, then dismount. Pick up the hidden *Revive* in the next area, then use the Honey tree (J) and fight Heracross. Exit out of 3S above, get a Tauros mount, and return to 3S.
+
+Go up the ledge at the bottom, use the Honey tree (K) and fight Pinsir. Grab the hidden *Purple Shard*. You'll notice we can't progress this way any further. Return to Route 1.
 
 !img("route1_8.png")
 
@@ -516,7 +310,9 @@ Next, we'll be entering 4S - you'll know you're in the right place if you recogn
 
 Anyways, lather the Honey tree closest to you (N) and fight Pinsir, then make your way right and dismount - don't go down the ledge to 5S though. Grab hidden *Escape Rope*, *Purple Shard*, and *Potion* then make your way down through the tall grass. At the bottom is another Honey tree (P); defeat Heracross here. Make your way back up partway through the tall grass and you'll notice an opening (orange in the above image). Pull out the Floral Charm when prompted to to battle **Flabebe**! Head straight to the right and grab the hidden *Oddishweed* in the bush. Head back and get lulled into a daze to return to Route 1.
 
-Again, enter 4S, this time not needing a Tauros mount, and head down. Use the nearby Honey tree (M) two times to clear both obstacles. Go down and immediately to the right, use another Honey tree (O) and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan (L) and fight Heracross. Follow the path to the left, and you'll emerge at 3S. Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and a hidden *Telluric Seed*. Make sure you save one of these Custap Berries for a quest later on.
+Again, enter 4S, this time not needing a Tauros mount, and head down. Use the nearby Honey tree (M) two times to clear both obstacles. Go down and immediately to the right, use another Honey tree (O) and fight Heracross. Finally, head left and down the ledge and use the Honey tree nearest Tanzan (L) and fight Heracross. Follow the path to the left, and you'll emerge at 3S. 
+
+Get a Tauros mount and reenter 3S, this time, going down and following the newly opened path. At a fork, you'll get *TM51*, 2 *Custap Berries*, and a hidden *Telluric Seed*. Make sure you save one of these Custap Berries for a quest later on.
 
 Follow the path to the right and up. You'll find a hidden *Purple Shard* and *Star Piece* along the way. Go left at the fork and pick up the *Tech Glasses* as well as a hidden *Repel* and *Link Stone*, then head right.
 
@@ -534,7 +330,7 @@ Return to the Route 1 Nature Center and talk to the guy on the second floor who 
 
 I've never used any of these in my entire life, but if you want to, go for it.
 
-!shop("Department Store 8F (Right)", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Bright Powder", "Quick Claw"])
+!shop("Department Store 8F (Right)", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Bright Powder", "Quick Claw", "Protective Pads"])
 
 We've gotten some of these already but sheesh finally some mildly decent non-consumable held items for sale.
 
@@ -542,102 +338,39 @@ We've gotten some of these already but sheesh finally some mildly decent non-con
 
 By defeating Noel, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L.* The updated teams are as follows:
 
-**Arcade Star Carol (SUN). Field: No Field**
-- Meowstic, Lv. 56, Serious Nature, IVs: 10
-- Feraligatr, Lv. 57, Serious Nature, IVs: 10
-- Furret, Lv. 58, Serious Nature, IVs: 10
-- Furfrou, Lv. 59, Serious Nature, IVs: 10
-- Meganium, Lv. 60, Serious Nature, IVs: 10
+**Sunday:**
 
-**Hotshot Fawkes (SUN). Field: No Field**
-- Dragalge, Lv. 56, Serious Nature, IVs: 10
-- Aegislash, Lv. 57, Serious Nature, IVs: 10
-- Typhlosion, Lv. 59, Serious Nature, IVs: 10
-- Greninja, Lv. 60, Serious Nature, IVs: 10
+!battle(["Carol", :COOLTRAINER_Female, 2])
 
-**Casanova Gibson (SUN). Field: No Field**
-- Bastiodon, Lv. 59, Serious Nature, IVs: 10
-- Rampardos, Lv. 60, Serious Nature, IVs: 10
-- Sawk, Lv. 60, Ability: Inner Focus, Serious Nature, IVs: 10
-- Kabutops, Lv. 60, Serious Nature, IVs: 10
+!battle(["Gibson", :Casanova, 2])
 
-**Youngster Jonah (MON). Field: No Field**
-- Squirtle, Lv. 55, @Leftovers, Quirky Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Wartortle, Lv. 57, @Leftovers, Serious Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Aqua Tail
-- Blastoise, Lv. 60, @Leftovers, Bashful Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
-- Blastoise, Lv. 62, @Leftovers, Docile Nature, IVs: 15
-    - Skull Bash
-    - Iron Defense
-    - Rain Dance
-    - Hydro Pump
+**Monday:**
 
-**Hotshot Jace (TUE). Field: No Field**
-- Drifblim, Lv. 57, Serious Nature, IVs: 10
-- Watchog, Lv. 56, Serious Nature, IVs: 10
-- Cherrim, Lv. 56, Serious Nature, IVs: 10
-- Bisharp, Lv. 56, Serious Nature, IVs: 10
-- Comfey, Lv. 58, Serious Nature, IVs: 10
+!battle(["Jonah", :YOUNGSTER, 2])
 
-**Psychic Silva (WED). Field: No Field**
-- Mawile, Lv. 57, @Assault Vest, Ability: Sheer Force, Adamant Nature, IVs: 15
-    - Play Rough
-    - Sucker Punch
-    - Iron Head
-    - Ice Fang
-- Xatu, Lv. 56, @Leftovers, Ability: Magic Bounce, Bold Nature, IVs: 15
-    - Light Screen
-    - Reflect
-    - Giga Drain
-    - Roost
-- Carracosta, Lv. 56, Serious Nature, IVs: 10
-- Weavile, Lv. 60, @Choice Band, Ability: Pressure, Jolly Nature, IVs: 15
-    - Icicle Crash
-    - Night Slash
-    - Low Kick
-    - Poison Jab
+**Tuesday:**
 
-**Elder JB (THU). Field: No Field**
-- Delphox, Lv. 59, Serious Nature, IVs: 10
-- Greninja, Lv. 59, Serious Nature, IVs: 10
-- Goodra, Lv. 59, Serious Nature, IVs: 10
+!battle(["Jace", :COOLTRAINER_Male, 2])
 
-**Techie Will (FRI). Field: No Field**
-- Swampert, Lv. 58, Serious Nature, IVs: 10
-- Sceptile, Lv. 59, Serious Nature, IVs: 10
-- Charizard, Lv. 60, Serious Nature, IVs: 10
-- Gardevoir, Lv. 61, Serious Nature, IVs: 10
+**Wednesday:**
 
-**Elder Anthony (SAT). Field: No Field**
-- Braviary, Lv. 59, Serious Nature, IVs: 10
-- Goodra, Lv. 61, Serious Nature, IVs: 10
-- Garchomp, Lv. 63, Serious Nature, IVs: 10
+!battle(["Silva", :PSYCHIC_Male, 2])
 
-**Hotshot Emile (SAT). Field: No Field**
-- Rotom, Lv. 56, Serious Nature, IVs: 10
-- Serperior, Lv. 56, Serious Nature, IVs: 10
-- Gardevoir, Lv. 58, Serious Nature, IVs: 10
-- Typhlosion, Lv. 60, Serious Nature, IVs: 10
-- Nidoking, Lv. 62, Serious Nature, IVs: 10
+**Thursday:**
 
-**Casanova Zach & Lady Beau (SAT). Field: No Field**
-- Komala, Lv. 54, Serious Nature, IVs: 10
-- Venusaur, Lv. 60, Serious Nature, IVs: 10
-- Reuniclus, Lv. 61, Serious Nature, IVs: 10
-- Chansey, Lv. 57, Serious Nature, IVs: 10
-- Wigglytuff, Lv. 58, Serious Nature, IVs: 10
-- Togekiss, Lv. 59, Serious Nature, IVs: 10
+!battle(["JB", :EXPERT_Male, 2])
+
+**Friday:**
+
+!battle(["Will", :TechNerd, 2])
+
+**Saturday:**
+
+!battle(["Anthony", :EXPERT_Male, 2])
+
+!battle(["Emile", :COOLTRAINER_Male, 2])
+
+!battle(["Zach", :Casanova, 2], nil, ["Beau", :LADY, 2])
 
 With that out of the way, you can use the Tauros shortcut just north of the Grand Gate to make your way to Vanhanen Castle once more.
 
@@ -664,26 +397,9 @@ Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
 **Relationship Point Choices:**
 - Get the first chess puzzle right on your first try (+1 Radomus)
 
-**Psychic Parsley. Field: Chess Board**
-- Sigilyph, Lv. 55, Serious Nature, IVs: 10
-    - Cosmic Power
-    - Psychic
-    - Air Slash
-    - Roost
+!battle(["Parsley", :PSYCHIC_Female, 0], "Chess Board")
 
 Move on to the next room. Note that the Bishops must be talked to first from one direction, then you choose its diagonal direction afterwards. So, to go up-left you talk to it from the right then press up, or talk to it from below and press left.
-
-**Psychic Sage. Field: Chess Board**
-- Meowstic-Male, Lv. 56, Ability: Infiltrator, Serious Nature, IVs: 10
-    - Calm Mind
-    - Reflect
-    - Fake Out
-    - Psychic
-- Meowstic-Female, Lv. 52, Ability: Competitive, Serious Nature, IVs: 10
-    - Calm Mind
-    - Thunderbolt
-    - Shadow Ball
-    - Stored Power
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
@@ -691,6 +407,8 @@ Move on to the next room. Note that the Bishops must be talked to first from one
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #2</a>
 </div>
+
+!battle(["Sage", :PSYCHIC_Male, 0], "Chess Board")
 
 Enter room 3. Luna's trick can help us out here.
 
@@ -701,14 +419,7 @@ Enter room 3. Luna's trick can help us out here.
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #3</a>
 </div>
 
-**Psychic Rosemary. Field: Chess Board**
-- Beldum, Lv. 50, Serious Nature, IVs: 10
-- Metagross, Lv. 56, @King's Rock, Serious Nature, IVs: 10
-    - Zen Headbutt
-    - Iron Head
-    - Thunder Punch
-    - Bullet Punch
-- Metang, Lv. 51, Serious Nature, IVs: 10
+!battle(["Rosemary", :PSYCHIC_Female, 0], "Chess Board")
 
 Enter room 4. This is a harder one but you can use the trick from the last room to figure it out.
 
@@ -719,47 +430,11 @@ Enter room 4. This is a harder one but you can use the trick from the last room 
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #4</a>
 </div>
 
-**Psychic Thyme. Field: Chess Board**
-- Unown, Lv. 50, Serious Nature, IVs: 10
-- Beheeyem, Lv. 55, Serious Nature, IVs: 10
-- Swoobat, Lv. 55, Serious Nature, IVs: 10
-- Wobbuffet, Lv. 55, Serious Nature, IVs: 10
-- Unown, Lv. 50, @King's Rock, Serious Nature, IVs: 10
-- Unown, Lv. 50, Serious Nature, IVs: 10
+!battle(["Thyme", :PSYCHIC_Male, 0], "Chess Board")
 
 Head up and into the next room when you are ready for your gym battle.
 
-**Grandmaster Radomus (2x Ultra Potion). Field: Chess Board**
-- Reuniclus, Lv. 57, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: IVs: 31 (0 Speed) (Pawn)
-    - Trick Room
-    - Psychic
-    - Focus Blast
-    - Toxic
-- Malamar, Lv. 58, @Rocky Helmet, Ability: Contrary, Brave Nature, IVs: IVs: 31 (0 Speed) (Pawn)
-    - Superpower
-    - Throat Chop
-    - Trick Room
-    - Rock Slide
-- Gallade, Lv. 58, @Muscle Band, Ability: Justified, Brave Nature, IVs: IVs: 31 (0 Speed) (Bishop)
-    - Strength
-    - Close Combat
-    - Knock Off
-    - Fire Punch
-- Slowking, Lv. 57, @Wise Glasses, Ability: Regenerator, Sassy Nature, IVs: IVs: 31 (0 Speed) (Rook)
-    - Trick Room
-    - Nasty Plot
-    - Scald
-    - Psychic
-- Metagross, Lv. 59, @King's Rock, Ability: Clear Body, Brave Nature, IVs: IVs: 31 (0 Speed) (King)
-    - Zen Headbutt
-    - Meteor Mash
-    - Ice Punch
-    - Strength
-- Gardevoir, Lv. 60, @Sitrus Berry, Ability: Trace, Sassy Nature, IVs: IVs: 31 (0 Speed), EVs: 252/0/0/252/5/0. (Queen)
-    - Calm Mind
-    - Wish
-    - Psychic
-    - Moonblast
+!battle(["Radomus", :RADOMUS, 0], "Chess Board")
 
 Especially if you've played previous versions, you'll notice that Radomus' team on top of his field is able to get up 8-Turn Trick Room almost always, since his two leads both have it and get a Focus Sash effect as pawns. Then, with their low speed advantage, Malamar will then usually go for its Contrary Superpower set up, while Reuniclus will try to hit insanely hard  with Psychic/Rock type boosted Psychic. His Gallade gets attack on switch in, has lots of coverage, and can use a boosted Rock type Strength, while his Metagross gets free +1 Priority on all of its hard-hitting attacks including Strength and Meteor Mash. Slowking gets defensive boosts upon switch in and can even set up Nasty Plot, and essentially outspeeds everything under Trick Room, which it has as a backup. Finally, his Gardevoir is EV trained, a bit tanky thanks to Queen bonuses, has a berry,  hits really hard with boosted Psychic, and can also set up on you. A stacked team that has a tendency to completely steamroll the unprepared under Trick Room.
 

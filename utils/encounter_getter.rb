@@ -37,8 +37,6 @@ class EncounterGetter
 
     found_group = false
 
-
-
     enc_groups.each do |group, types|
       next unless types.any? { |type| data.key?(type) }
       next if !include_list.empty? && !include_list.include?(group.to_s)
