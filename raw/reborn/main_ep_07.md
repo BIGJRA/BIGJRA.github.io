@@ -20,7 +20,7 @@ Head down the ledge on the east island. You can find a hidden *Swift Wing* here 
 
 You can head down as soon as you touch land to get a *Miracle Seed*. Back on land, you'll find a hidden *Great Ball* and *Guard Spec.* Use the Light Shard and head left. Before continuing left to the next island, you can go down via the ivy to find one hidden *Dusk Ball* and one non-hidden *Dusk Ball*. Head up and left when you're ready.
 
-!battle(["Aster", :AsterKnight, 3], "Swamp Field", ["Eclipse", :EclipseDame, 3])
+!dbattle(["Aster", :AsterKnight, 3], ["Eclipse", :EclipseDame, 3], "Swamp Field")
 
 Another battle with Aster and Eclipse, this time featuring a full team. Solrock and Lunatone are somewhat slow and have many weaknesses. The Lycanrocs and Passimian are speedy and hit hard, but after a few turns they'll all become slowed down by the field, allowing you to capitalize on their low bulk. Oranguru likes to use Instruct and/or hit both of your Pokémon with Nature Power into field-boosted Muddy Water, so be careful of that.
 
@@ -45,21 +45,21 @@ Head in and you'll be partnered up with Victoria.
 **Relationship Point Choices:**
 - Try to leave Pyrous while partnered with Victoria (-2 Victoria)
 
-!battle(["Ama", :MeteorGrunt, 1], "Super-Heated Field", ["Christopher", :MeteorGrunt, 1])
+!dbattle(["Ama", :MeteorGrunt, 1], ["Christopher", :MeteorGrunt, 1], "Super-Heated Field")
 
 Anyways, if you haven't explored Pyrous yet now you'll have to, so follow the directions in the above Pyrous section if you'd like. If you have, you just have to make it back up to the peak using the straightforward path, beating grunts as you go. To the left:
 
-!battle(["Antoine", :MeteorGrunt, 1], "Super-Heated Field", ["Demian", :MeteorGrunt, 1])
+!dbattle(["Antoine", :MeteorGrunt, 1], ["Demian", :MeteorGrunt, 1], "Super-Heated Field")
 
 On B1F:
 
-!battle(["Minta", :MeteorGrunt_090, 1], "Super-Heated Field", ["Chad", :MeteorGrunt, 1])
+!dbattle(["Minta", :MeteorGrunt_090, 1], ["Chad", :MeteorGrunt, 1], "Super-Heated Field")
 
 Back on 1F, following the path up the mountain:
 
-!battle(["Michaela", :MeteorGrunt_090, 1], "Super-Heated Field", ["Winter", :MeteorGrunt, 1])
+!dbattle(["Michaela", :MeteorGrunt_090, 1], ["Winter", :MeteorGrunt, 1], "Super-Heated Field")
 
-!battle(["Regina", :MeteorDame, 0], "Super-Heated Field", ["Gretchen", :MeteorDame, 0])
+!dbattle(["Regina", :MeteorDame, 0], ["Gretchen", :MeteorDame, 0], "Super-Heated Field")
 
 Once you reach the peak, Victoria will separate from us as a partner. It's time for that boss battle I was talking about.
 
@@ -116,7 +116,7 @@ Once more, trainers in the Grand Hall have gotten stronger. Defeating them will 
 
 !battle(["Emile", :COOLTRAINER_Male, 1])
 
-!battle(["Zach", :Casanova, 1], nil, ["Beau", :LADY, 1])
+!dbattle(["Zach", :Casanova, 1], ["Beau", :LADY, 1])
 
 ## Byxbysion Wasteland
 

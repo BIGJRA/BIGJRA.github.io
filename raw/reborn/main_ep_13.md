@@ -115,27 +115,27 @@ Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resis
 
 Enter the next cave. Inside you can find hidden *PokéSnax*, and *Potion*, as well as Team Meteor!
 
-!battle(["Geoff", :MeteorGrunt, 1], "Cave Field", ["Audrey", :MeteorGrunt_090, 1])
+!dbattle(["Geoff", :MeteorGrunt, 1], ["Audrey", :MeteorGrunt_090, 1], "Cave Field")
 
 Beyond you can find a hidden *Max Potion* and *Tiny Mushroom*. In the next room, use the panel and follow the path.
 
 In this room, you can get hidden *Repeat Ball*, *Fire Gem*, and *Great Ball*.
 
-!battle(["Demian", :MeteorKnight, 0], "Cave Field", ["Antoine", :MeteorDame, 0])
+!dbattle(["Demian", :MeteorKnight, 0], ["Antoine", :MeteorDame, 0], "Cave Field")
 
 Continue into the next room.
 
-!battle(["Kenan", :MeteorKnight, 2], "Cave Field", ["Diana", :MeteorDame, 2])
+!dbattle(["Kenan", :MeteorKnight, 2], ["Diana", :MeteorDame, 2], "Cave Field")
 
 Pick up the hidden *Super Repel* and *Poké Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
 
-!battle(["Steven", :MeteorKnight, 2], "Rocky Field", ["Avril", :MeteorDame, 2])
+!dbattle(["Steven", :MeteorKnight, 2], ["Avril", :MeteorDame, 2], "Rocky Field")
 
 Right before the hop rocks you can get a hidden *Green Shard*. Hop down and enter the next cave.
 
 In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. Enter the next room, change up your team if necessary, then head in to the next room.
 
-!battle(["Aster", :AsterKnight, 0], "Factory Field", ["Eclipse", :EclipseDame, 0])
+!dbattle(["Aster", :AsterKnight, 0], ["Eclipse", :EclipseDame, 0], "Factory Field")
 
 Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokémon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
 

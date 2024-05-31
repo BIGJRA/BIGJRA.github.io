@@ -162,7 +162,7 @@ Talk to the guy in the center here, then head to the left and talk to the two he
 
 !partner(["Victoria", :Victoria, 2])
 
-!battle(["Aster", :AsterKnight, 2], "Crystal Cavern", ["Eclipse", :EclipseDame, 2])
+!dbattle(["Aster", :AsterKnight, 2], ["Eclipse", :EclipseDame, 2], "Crystal Cavern")
 
 Their four rock types have their attacks boosted on the field. They're all pretty fast, especially Midday Lycanroc, so you have to have a bit of bulk to live. With the help of Victoria's fighting type moves though you will probably be able to find a way through this with a team of six.
 
@@ -213,7 +213,7 @@ If you chose the Aqua Gang, [jump to the next section](#the-aqua-gang-route-part
 
 Talk to the guys guarding the North Obsidia alleyway for a battle.
 
-!battle(["Nihil", :MAGMA1, 0], nil, ["Kriz", :MAGMA1, 0])
+!dbattle(["Nihil", :MAGMA1, 0], ["Kriz", :MAGMA1, 0])
 
 Once you make it in, you'll find *TM46 Thief* as well as a hidden *Red-Hots*. Talk to Maxwell in the back.
 
@@ -239,7 +239,7 @@ If you chose the Magma Gang, [jump to the next section](#getting-the-bicycle-and
 
 Talk to the guys guarding the Lapis alleyway for a battle.
 
-!battle(["Mannie", :AQUA1, 0], nil, ["Razzy", :AQUA1, 0])
+!dbattle(["Mannie", :AQUA1, 0], ["Razzy", :AQUA1, 0])
 
 Once you make it in, you'll find *TM41 Torment*. Talk to Archer in the back.
 
@@ -309,7 +309,7 @@ After defeating Corey, the trainers in the Grand Hall have gotten stronger once 
 
 !battle(["Emile", :COOLTRAINER_Male, 0])
 
-!battle(["Zach", :Casanova, 0], nil, ["Beau", :LADY, 0])
+!dbattle(["Zach", :Casanova, 0], ["Beau", :LADY, 0])
 
 ## Cocoon Badge
 

@@ -38,6 +38,7 @@ class FunctionWrapper
       "enc" => "generate_encounter_markdown",
       "shop" => "generate_shop_markdown",
       "battle" => "generate_trainer_markdown",
+      "dbattle" => "generate_double_markdown",
       "mine" => "generate_mining_markdown",
       "wildheld" => "generate_wild_held_markdown",
       "tutor" => "generate_tutor_markdown",
@@ -199,12 +200,16 @@ class FunctionWrapper
     return @shopGetter.generate_shop_markdown(shop_title, shop_items, price_overrides, bold_items)
   end
 
-  def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
-    return @trainerGetter.generate_trainer_markdown(trainer_id, field, second_trainer_id, is_partner)
+  def generate_trainer_markdown(trainer_id, field=nil)
+    return @trainerGetter.generate_trainer_markdown(trainer_id, field)
+  end
+
+  def generate_double_markdown(trainer_id1, trainer_id2, field=nil)
+    return @trainerGetter.generate_trainer_markdown(trainer_id1, field, trainer_id2)
   end
 
   def generate_partner_markdown(trainer_id)
-    return generate_trainer_markdown(trainer_id, nil, nil, true)
+    return @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, true)
   end
 
   def generate_tutor_markdown(tutor_title, moves, prices)

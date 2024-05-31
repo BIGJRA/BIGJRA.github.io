@@ -370,7 +370,7 @@ By defeating Noel, trainers in the Grand Hall have gotten stronger once more. De
 
 !battle(["Emile", :COOLTRAINER_Male, 2])
 
-!battle(["Zach", :Casanova, 2], nil, ["Beau", :LADY, 2])
+!dbattle(["Zach", :Casanova, 2], ["Beau", :LADY, 2])
 
 With that out of the way, you can use the Tauros shortcut just north of the Grand Gate to make your way to Vanhanen Castle once more.
 

@@ -117,31 +117,31 @@ Make your way back to the main part of Ametrine City and go all the way left. Yo
 
 !partner(["Cal", :REBORN, 0])
 
-!battle(["Bruno", :MeteorAceM, 0], "Snowy Mountain", ["Ray", :MeteorAceM, 0])
+!dbattle(["Bruno", :MeteorAceM, 0], ["Ray", :MeteorAceM, 0], "Snowy Mountain")
 
 Grab a hidden *Red Shard*, *Dire Hit*, and *Repel* as you climb. You'll see a narrow passage along the top that leads up and left, which you can follow to get a *Full Restore*. Head right.
 
 **Relationship Point Choices:**
 - After saving the police and exposing Corey and giving Blake the ring, watch Blake and Heather's conversation (+1 Heather)
 
-!battle(["Devin", :MeteorAceM, 0], "Snowy Mountain", ["Sanchez", :MeteorAceM, 0])
+!dbattle(["Devin", :MeteorAceM, 0], ["Sanchez", :MeteorAceM, 0], "Snowy Mountain")
 
 Beat the grunts and continue. Pick up the hidden *Red-Hots* and *Swift Wing* then fight the next grunts.
 
-!battle(["Geoff", :MeteorAceM, 0], "Snowy Mountain", ["Audrey", :MeteorAceF, 0])
+!dbattle(["Geoff", :MeteorAceM, 0], ["Audrey", :MeteorAceF, 0], "Snowy Mountain")
 
 **Relationship Point Choices:**
 - Talk to Shelly after she gets tired, after giving Blake the ring (+1 Shelly)
 
 Continue up the mountain.
 
-!battle(["Demian", :MeteorAceM, 0], "Snowy Mountain", ["Antoine", :MeteorAceF, 0])
+!dbattle(["Demian", :MeteorAceM, 0], ["Antoine", :MeteorAceF, 0], "Snowy Mountain")
 
 You'll see another fork, one path leading you around a narrow cliff to the right that loops you to a lower path. Follow it to get a hidden *Ice Gem* and *TM79 Frost Breath*.
 
 Continue down the main path, picking up the hidden *Ice Heal*, *Telluric Seed*, *Max Repel*, and *Repel* along the way.
 
-!battle(["Ricardo", :MeteorAceM, 0], "Snowy Mountain", ["Hilda", :MeteorAceF, 0])
+!dbattle(["Ricardo", :MeteorAceM, 0], ["Hilda", :MeteorAceF, 0], "Snowy Mountain")
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
 
@@ -311,7 +311,7 @@ In Cerulean Cave you can get a *Max Repel*. The other ball is a Light Shard, use
 
 !battle(["M2", :GLITCH2, 0], "Glitch Field")
 
-Bringing Mewtwo back to where it belongs with Glitch Field: completely broken. Of note is its Psystrike, which gets boosted by the field and Mewtwo's high Special Attack yet hits your Pokémon on their Defense. That said, there are still tons of ways to win these 6v1's as we've learned by now, so pick your favorite one.
+Bringing Mewtwo back to where it belongs with Glitch Field - completely broken. Of note is its Psystrike, which gets boosted by the field and Mewtwo's high Special Attack yet hits your Pokémon on their Defense. That said, there are still tons of ways to win these 6v1's as we've learned by now, so pick your favorite one.
 
 Proceed and get ready for the gym battle! Note that you can actually exit back to the circus easily in case you want to do more prep.
 

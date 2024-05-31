@@ -51,7 +51,7 @@ Enter the Pokémon Center, and talk to both the girl on the left and the mother 
 
 Enter the building to the right, and talk to the daycare couple one-by-one over and over until they drop their facade and battle you.
 
-!battle(["Grant", :MeteorGrunt, 1], nil, ["Janis", :MeteorGrunt_090, 1])
+!dbattle(["Grant", :MeteorGrunt, 1], ["Janis", :MeteorGrunt_090, 1])
 
 Eventually, we will be freeing the real daycare couple! In a house to the left, we'll learn about an in-game trade we can't complete just yet. Head outside, and to the left, grab a hidden *Steel Gem* in the rock. Go down the stairs to access a new part of the railnet.
 
@@ -360,7 +360,7 @@ Follow the path to the right from here.
 
 Straight down from here is a hidden *Super Potion* (F). Follow the path to watch a scene, cut wiggly tree #7, then take the paved road upwards. Grab the hidden *Green Shard* (G).
 
-!battle(["Christopher", :MeteorGrunt, 0], "Forest Field", ["Ama", :MeteorGrunt, 0])
+!dbattle(["Christopher", :MeteorGrunt, 0], ["Ama", :MeteorGrunt, 0], "Forest Field")
 
 !img("hidden028.png")
 
@@ -490,7 +490,7 @@ Enter the trainer school at the top left entrance. Fern will lock us out, so hea
 
 This area is mostly linear with a few detours. Talk to every green bookshelf and stray green book that you find lying around - they'll give us lore as well as the answers to some questions we'll need to answer later on.
 
-!battle(["Tristy", :COOLTRAINER_Female, 0], nil, ["Jojo", :YOUNGSTER, 0])
+!dbattle(["Tristy", :COOLTRAINER_Female, 0], ["Jojo", :YOUNGSTER, 0])
 
 !battle(["Noah", :COOLTRAINER_Male, 0])
 
@@ -659,7 +659,7 @@ After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defe
 
 !battle(["Emile", :COOLTRAINER_Male, 5])
 
-!battle(["Zach", :Casanova, 5], nil, ["Beau", :LADY, 5])
+!dbattle(["Zach", :Casanova, 5], ["Beau", :LADY, 5])
 
 ## Canopy Badge
 

@@ -205,7 +205,7 @@ In the top right, you'll find three bullies.
 
 You'll need two Pokémon to be able to fight the last two, so catch a second if you haven't yet.
 
-!battle(["Jackson", :COOLTRAINER_Male, 0], nil, ["Mack", :StreetRat, 0])
+!dbattle(["Jackson", :COOLTRAINER_Male, 0], ["Mack", :StreetRat, 0])
 
 When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokémon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 
@@ -399,13 +399,13 @@ Up from here, when the weather is clear or sunny and you have a Rose Incense in 
 
 Enter the top left house when you're ready for a battle with the guy who stole our $500 Pokémon! Not just him though, you gotta fight both him and the initial salesman. What a snake!
 
-!battle(["Arnie", :StreetRat, 0], nil, ["Milhouse", :FISHERMAN, 0])
+!dbattle(["Arnie", :StreetRat, 0], ["Milhouse", :FISHERMAN, 0])
 
 However, they don't actually have our purchased Pokémon, so we'll just have to continue this quest later.
 
 Head down and enter the tall building to your right. Inside, two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them.
 
-!battle(["Geoff", :MeteorGrunt, 0], nil, ["Audrey", :MeteorGrunt_090, 0])
+!dbattle(["Geoff", :MeteorGrunt, 0], ["Audrey", :MeteorGrunt_090, 0])
 
 Once you do, you can get **Igglybuff**! It's worth noting that she will eventually ask for this specific Igglybuff back later in the game; for a reward, you'll need to give it back. So, consider breeding it once we get daycare access if you want to use Wigglytuff.
 
@@ -510,23 +510,23 @@ Partners also fully heal your team after every battle, which can be useful for g
 
 Enter the next room and talk with Ace. We'll be wandering around the factory, defeating Team Meteor Grunts and looking for codes. Start by going left.
 
-!battle(["Mary", :MeteorGrunt_090, 0], "Factory Field", ["Coleman", :MeteorGrunt, 0])
+!dbattle(["Mary", :MeteorGrunt_090, 0], ["Coleman", :MeteorGrunt, 0], "Factory Field")
 
 Across the bridge, you'll see one flashing terminal: XX7X. Continue up from here.
 
-!battle(["Hilda", :MeteorGrunt_090, 0], "Factory Field", ["Ricardo", :MeteorGrunt, 0])
+!dbattle(["Hilda", :MeteorGrunt_090, 0], ["Ricardo", :MeteorGrunt, 0], "Factory Field")
 
 In the top left you'll find another terminal: X1XX. The three terminals nearby give us some lore that will be relevant later. Head right.
 
-!battle(["Sanchez", :MeteorGrunt, 0], "Factory Field", ["Devin", :MeteorGrunt, 0])
+!dbattle(["Sanchez", :MeteorGrunt, 0], ["Devin", :MeteorGrunt, 0], "Factory Field")
 
 A terminal to the right shows 3XXX. Down from here are more grunts.
 
-!battle(["Bruno", :MeteorGrunt, 0], "Factory Field", ["Ray", :MeteorGrunt, 0])
+!dbattle(["Bruno", :MeteorGrunt, 0], ["Ray", :MeteorGrunt, 0], "Factory Field")
 
 Head to the top right corner of the room to fight more grunts.
 
-!battle(["Simon", :MeteorGrunt, 0], "Factory Field", ["Tara", :MeteorGrunt_090, 0])
+!dbattle(["Simon", :MeteorGrunt, 0], ["Tara", :MeteorGrunt_090, 0], "Factory Field")
 
 Read the nearby terminal, which shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
 
@@ -535,19 +535,19 @@ Read the nearby terminal, which shows XXX9. Read the other two terminals nearby 
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right and cross the bridge.
 
-!battle(["Winter", :MeteorGrunt, 0], "Factory Field", ["Michaela", :MeteorGrunt_090, 0])
+!dbattle(["Winter", :MeteorGrunt, 0], ["Michaela", :MeteorGrunt_090, 0], "Factory Field")
 
 Interact with the terminal here to get the hint XXX2, and the other for lore. Head out to the left, and down at the first opportunity.
 
-!battle(["Demian", :MeteorGrunt, 0], "Factory Field", ["Antoine", :MeteorGrunt, 0])
+!dbattle(["Demian", :MeteorGrunt, 0], ["Antoine", :MeteorGrunt, 0], "Factory Field")
 
 In this room, use the terminal to discover the hint X8XX. Back outside, go left.
 
-!battle(["Janis", :MeteorGrunt_090, 0], "Factory Field", ["Grant", :MeteorGrunt, 0])
+!dbattle(["Janis", :MeteorGrunt_090, 0], ["Grant", :MeteorGrunt, 0], "Factory Field")
 
 In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in.
 
-!battle(["Rod", :MeteorGrunt, 0], "Factory Field", ["Ringo", :MeteorGrunt, 0])
+!dbattle(["Rod", :MeteorGrunt, 0], ["Ringo", :MeteorGrunt, 0], "Factory Field")
 
 Pickup the explosives! Back in the central room, choose which of the two characters to talk to.
 
@@ -557,7 +557,7 @@ Pickup the explosives! Back in the central room, choose which of the two charact
 
 Either way, head in to the room at the top when you're ready for a fight.
 
-!battle(["Aster", :AsterKnight, 1], "Factory Field", ["Eclipse", :EclipseDame, 1])
+!dbattle(["Aster", :AsterKnight, 1], ["Eclipse", :EclipseDame, 1], "Factory Field")
 
 Depending on what Pokémon you have this can be a bit difficult since they like to one-shot Fern's Budew, but your sheer numbers can probably overwhelm them regardless.
 
@@ -614,7 +614,7 @@ Now is a good time to mention the Grand Hall repeatable grinding trainers in the
 
 !battle(["Emile", :COOLTRAINER_Male, 3])
 
-!battle(["Zach", :Casanova, 3], nil, ["Beau", :LADY, 3])
+!dbattle(["Zach", :Casanova, 3], ["Beau", :LADY, 3])
 
 Use the trainers as you'd like to prepare for the gym.
 

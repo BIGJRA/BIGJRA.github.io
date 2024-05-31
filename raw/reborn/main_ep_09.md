@@ -58,7 +58,7 @@ If you didn't fight Sigmund at Yureyu and instead fought Sirius, [jump to the ne
 
 Anyways, you'll have to first fight two orderlies.
 
-!battle(["John", :Orderly, 2], nil, ["David", :Orderly, 1])
+!dbattle(["John", :Orderly, 2], ["David", :Orderly, 1])
 
 Afterwards, you'll be healed but thrust into another battle.
 
@@ -129,7 +129,7 @@ Grab *PULSE Readout 7* and return to the previous room. Enter the room to the le
 
 If anyone except Saphira was abducted earlier, you can fight a few trainers as well as get relationship points here.
 
-!battle(["Kenan", :MeteorKnight, 1], "Factory Field", ["Diana", :MeteorDame, 1])
+!dbattle(["Kenan", :MeteorKnight, 1], ["Diana", :MeteorDame, 1], "Factory Field")
 
 **Relationship Point Choices:**
 - After Noel and Anna are abducted, talk to them in the cage (+2 Noel)
@@ -154,7 +154,7 @@ Enter the room above.
 
 Nothing else to do above, so head back down. Enter the room on the right, pick up the *Revive* at the bottom, then talk to Saphira. You'll have to fight two grunts.
 
-!battle(["Avril", :MeteorDame, 1], "Factory Field", ["Steven", :MeteorKnight, 1])
+!dbattle(["Avril", :MeteorDame, 1], ["Steven", :MeteorKnight, 1], "Factory Field")
 
 Head back to the left and take the rotary to go up.
 

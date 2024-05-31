@@ -78,15 +78,15 @@ You'll be partnered with Cain.
 
 It's a very straightforward area: defeat all the Meteor grunts as you make your way up.
 
-!battle(["Hilda", :MeteorGrunt_090, 2], "Short-Circuit Field", ["Ricardo", :MeteorGrunt, 2])
+!dbattle(["Hilda", :MeteorGrunt_090, 2], ["Ricardo", :MeteorGrunt, 2], "Short-Circuit Field")
 
-!battle(["Kenneth", :MeteorGrunt, 1], "Short-Circuit Field", ["Brenna", :MeteorGrunt_090, 1])
+!dbattle(["Kenneth", :MeteorGrunt, 1], ["Brenna", :MeteorGrunt_090, 1], "Short-Circuit Field")
 
-!battle(["Simon", :MeteorGrunt, 2], "Short-Circuit Field", ["Tara", :MeteorGrunt_090, 2])
+!dbattle(["Simon", :MeteorGrunt, 2], ["Tara", :MeteorGrunt_090, 2], "Short-Circuit Field")
 
-!battle(["Mary", :MeteorGrunt_090, 2], "Short-Circuit Field", ["Coleman", :MeteorGrunt, 2])
+!dbattle(["Mary", :MeteorGrunt_090, 2], ["Coleman", :MeteorGrunt, 2], "Short-Circuit Field")
 
-!battle(["Ringo", :MeteorKnight, 0], "Short-Circuit Field", ["Rod", :MeteorKnight, 0])
+!dbattle(["Ringo", :MeteorKnight, 0], ["Rod", :MeteorKnight, 0], "Short-Circuit Field")
 
 Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
@@ -250,7 +250,7 @@ Down from here, you'll find the teleported fountain. **Remoraid** will jump out 
 
 Return to Tanzan Mountain. Inside, you'll find the grunts from earlier.
 
-!battle(["Devin", :MeteorGrunt, 2], "Cave Field", ["Sanchez", :MeteorGrunt, 2])
+!dbattle(["Devin", :MeteorGrunt, 2], ["Sanchez", :MeteorGrunt, 2], "Cave Field")
 
 Defeat them here - we will return to the museum later to claim our reward. 
 

@@ -87,7 +87,7 @@ Chop down the wiggly tree here. Down just one set of stairs, you can now head le
 
 Down from here you'll find some stairs leading to some grunts - but there is a secret passageway hidden to the left behind a tree. Follow this path to get a hidden *Revive* and *Exp. Candy S* as well as an egg. When it hatches it will be **Deerling**, **Skiddo**, **Girafarig**, or **Nincada**, randomly determined. Head back from here and fight the grunts.
 
-!battle(["Regina", :MeteorGrunt_090, 0], "Forest Field", ["Gretchen", :MeteorGrunt_090, 0])
+!dbattle(["Regina", :MeteorGrunt_090, 0], ["Gretchen", :MeteorGrunt_090, 0], "Forest Field")
 
 Go right and down from here. You'll find a hidden *Purple Shard* and the *PULSE Readout 5B*.
 

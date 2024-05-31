@@ -218,17 +218,7 @@ Hidden in the ward you'll find a *Cheri Berry*, *Rawst Berry*, and *Grass Gem*.
 
 Inside the police station, talk to the chief to continue the stolen Pokémon quest. If you head back into Peridot Ward, to the right of the Igglybuff lady's house, you'll see a guy who looks like Corin Rouge that you can fight.
 
-**Casanova Carmen. Field: No Field**
-- Persian-Alola, Lv. 74, @Wise Glasses, Ability: Fur Coat, Modest Nature, IVs: 31
-    - Power Gem
-    - Nasty Plot
-    - Thunderbolt
-    - Dark Pulse
-- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31
-    - Substitute
-    - Thunder Wave
-    - Swagger
-    - Foul Play
+!battle(["Carmen", :Casanova, 0])
 
 We'll find the other two later.
 
@@ -257,17 +247,7 @@ You'll find a *Balm Mushroom*, 5 *Exp. Candy L*, and a hidden *Synthetic Seed*. 
 
 On the south side of the Forest Park, you'll also find another guy who looks like Corin Rouge!
 
-**Casanova Claret. Field: Forest Field**
-- Zoroark, Lv. 74, @Focus Sash, Ability: Illusion, Jolly Nature, IVs: 31
-    - Dark Pulse
-    - Flamethrower
-    - Focus Blast
-    - Nasty Plot
-- Ninetales, Lv. 76, @Heat Rock, Ability: Drought, Modest Nature, IVs: 31
-    - Solar Beam
-    - Heat Wave
-    - Nasty Plot
-    - Dark Pulse
+!battle(["Claret", :Casanova, 0], "Forest Field")
 
 ## Neo Beryl Ward
 
@@ -589,45 +569,11 @@ Talk to one of the fisherman at the bottom of Coral Ward and agree to buy the *S
 
 Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on, but for now, fight the trainers here. From bottom to top:
 
-**Swimmer Owen. Field: Water Surface**
-- Wailord, Lv. 72, @Leftovers, Ability: Pressure, Serious Nature, IVs: 10
-    - Aqua Ring
-    - Protect
-    - Surf
-    - Water Spout
-- Walrein, Lv. 72, @Leftovers, Ability: Thick Fat, Serious Nature, IVs: 10
-    - Surf
-    - Ice Beam
-    - Toxic
-    - Protect
-- Whiscash, Lv. 73, @Leftovers, Ability: Hydration, Serious Nature, IVs: 10
-    - Bounce
-    - Dragon Dance
-    - Waterfall
-    - Spark
+!battle(["Owen", :SWIMMERBOI, 0], "Water Surface")
 
-**Swimmer Aidan. Field: Water Surface**
-- Slowbro, Lv. 73, @Elemental Seed, Ability: Regenerator, Calm Nature, IVs: 20
-    - Ice Beam
-    - Surf
-    - Slack Off
-    - Psyshock
-- Cloyster, Lv. 72, @White Herb, Ability: Skill Link, Serious Nature, IVs: 20
-    - Shell Smash
-    - Icicle Spear
-    - Rock Blast
-    - Surf
-- Vaporeon, Lv. 73, @Elemental Seed, Ability: Hydration, Bold Nature, IVs: 20
-    - Wish
-    - Surf
-    - Ice Beam
-    - Yawn
+!battle(["Aidan", :SWIMMERGRIL, 0], "Water Surface")
 
-**Fisherman Jacob. Field: Misty Terrain**
-- Dhelmise, Lv. 70, Serious Nature, IVs: 10
-- Magnezone, Lv. 71, Serious Nature, IVs: 10
-- Hariyama, Lv. 72, Serious Nature, IVs: 10
-- Raichu-Alola, Lv. 72, Serious Nature, IVs: 10
+!battle(["Jacob", :FISHERMAN, 0], "Misty Terrain")
 
 Behind the bottom lighthouse is a hidden dive spot.
 
@@ -647,17 +593,7 @@ Behind the bottom lighthouse is a hidden dive spot.
 
 You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and surface in the lighthouse. Up the ladder you can get a *Big Nugget*, *Jolly Mint*, and *Coral Key*. Make your way back to the bay and use the key on the other lighthouse door. Dive down and go left and prepare for a battle.
 
-**Pokémon Predators. Field: Underwater Field**
-- Huntail, Lv. 78, @White Herb, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Aqua Tail
-    - Crunch
-    - Ice Fang
-    - Shell Smash
-- Gorebyss, Lv. 78, @Bright Powder, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Muddy Water
-    - Blizzard
-    - Rest
-    - Double Team
+!battle(["Predators", :PREDATORS, 0], "Underwater")
 
 This is a 6v2 fight that might kick your butt simply because Underwater Field allows these two to outspeed nearly every Pokémon you have and either hit hard with field boosted moves or set up with Shell Smash / Double Team. If you can control the speed somehow or have something bulky enough to hit back, you can find a way through this one.
 
@@ -862,49 +798,9 @@ Head down into the meditation spot where we once met Kiki.
 
 You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give 8 *Exp Candy XL* when you beat them.
 
-**Battle Girl Akane. Field: Ashen Beach**
-- Medicham, Lv. 75, Ability: Pure Power, Bashful Nature, IVs: 15
-    - High Jump Kick
-    - Zen Headbutt
-    - Bullet Punch
-    - Ice Punch
-- Blaziken, Lv. 75, Ability: Speed Boost, Quirky Nature, IVs: 15
-    - Flare Blitz
-    - Earthquake
-    - Poison Jab
-    - Low Kick
-- Lucario, Lv. 75, Ability: Inner Focus, Serious Nature, IVs: 15
-    - Calm Mind
-    - Aura Sphere
-    - Psychic
-    - Flash Cannon
-- Raichu, Lv. 75, Ability: Lightning Rod, Docile Nature, IVs: 15
-    - Psychic
-    - Thunderbolt
-    - Focus Blast
-    - Hidden Power
+!battle(["Akane", :BATTLEGIRL, 0], "Ashen Beach")
 
-**Black Belt Nathaniel. Field: Ashen Beach**
-- Politoed, Lv. 75, Ability: Drizzle, Bashful Nature, IVs: 15
-    - Surf
-    - Focus Blast
-    - Hypnosis
-    - Ice Beam
-- Ampharos, Lv. 75, Ability: Static, Quirky Nature, IVs: 15
-    - Thunder
-    - Dragon Pulse
-    - Thunder Wave
-    - Focus Blast
-- Poliwrath, Lv. 75, Ability: Swift Swim, Serious Nature, IVs: 15
-    - Waterfall
-    - Brick Break
-    - Poison Jab
-    - Throat Chop
-- Toxicroak, Lv. 75, Ability: Dry Skin, Docile Nature, IVs: 15
-    - Sucker Punch
-    - Poison Jab
-    - Meditate
-    - Low Sweep
+!battle(["Nathaniel", :BLACKBELT, 0], "Ashen Beach")
 
 Head up to the area surrounding the academy.
 
@@ -975,22 +871,7 @@ Head down and to the right, following the yellow arrow in the above. This is a p
 
 !img("azurine_565_1.png")
 
-**Swimmer Tsuki. Field: Water Surface Field**
-- Bruxish, Lv. 72, @Choice Band, Ability: Strong Jaw, Adamant Nature, IVs: 20
-    - Poison Fang
-    - Psychic Fangs
-    - Crunch
-    - Liquidation
-- Alomomola, Lv. 73, @Elemental Seed, Ability: Regenerator, Bold Nature, IVs: 20
-    - Wish
-    - Protect
-    - Scald
-    - Knock Off
-- Starmie, Lv. 73, @Choice Specs, Ability: Natural Cure, Modest Nature, IVs: 20
-    - Surf
-    - Ice Beam
-    - Thunderbolt
-    - Psyshock
+!battle(["Tsuki", :SWIMMERGRIL, 0], "Water Surface")
 
 Fight the swimmer if you'd like. You'll see a narrow strip of sand, on which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area (2).
 
@@ -1034,36 +915,11 @@ That wraps up this section of the lake for now. Fly over to Coral Ward and surf 
 
 Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
-**Swimmer Xerciel. Field: Water Surface**
-- Milotic, Lv. 72, @Elemental Seed, Ability: Competitive, Calm Nature
-    - Surf
-    - Recover
-    - Ice Beam
-    - Toxic
-- Raichu-Alola, Lv. 73, @Elemental Seed, Ability: Surge Surfer, Modest Nature
-    - Surf
-    - Thunderbolt
-    - Psyshock
-    - Nasty Plot
-- Gorebyss, Lv. 73, @White Herb, Ability: Swift Swim, Modest Nature
-    - Shell Smash
-    - Surf
-    - Draining Kiss
-    - Shadow Ball
+!battle(["Xerciel", :SWIMMERGRIL, 0], "Water Surface")
 
 You'll also be able to battle the third guy who looks like Corin Rouge here!
 
-**Casanova Crimson. Field: Ashen Beach**
-- Bewear, Lv. 74, @Rocky Helmet, Ability: Fluffy, Adamant Nature, IVs: 31
-    - Ice Punch
-    - Earthquake
-    - Zen Headbutt
-    - Superpower
-- Sylveon, Lv. 76, @Wise Glasses, Ability: Pixilate, Modest Nature, IVs: 31
-    - Hyper Voice
-    - Hidden Power
-    - Wish
-    - Misty Terrain
+!battle(["Crimson", :Casanova, 0], "Ashen Beach")
 
 From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks (6). Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here.
 
@@ -1093,79 +949,19 @@ That's it for the Sunrise apartments. Fly to the Peridot Ward. East of the shelt
 
 !img("azurine_522_1.png")
 
-**Swimmer Hubert. Field: Water Surface**
-- Kingdra, Lv. 72, @Choice Specs, Ability: Sniper, Modest Nature, IVs: 20
-    - Surf
-    - Draco Meteor
-    - Ice Beam
-    - Flash Cannon
-- Wishiwashi, Lv. 73, @Elemental Seed, Ability: Schooling, Quiet Nature, IVs: 20
-    - Surf
-    - Ice Beam
-    - Iron Tail
-    - Dive
-- Tentacruel, Lv. 73, @Elemental Seed, Ability: Clear Body, Modest Nature, IVs: 20
-    - Sludge Wave
-    - Surf
-    - Giga Drain
-    - Dazzling Gleam
+!battle(["Hubert", :SWIMMERBOI, 0], "Water Surface")
 
 !img("azurine_530_1.png")
 
-**Swimmer Arlo. Field: Water Surface**
-- Rotom-Wash, Lv. 73, @Leftovers, Ability: Levitate, Modest Nature, IVs: 20
-    - Thunderbolt
-    - Hydro Pump
-    - Pain Split
-    - Volt Switch
-- Basculin-Red-Striped, Lv. 72, @Assault Vest, Ability: Reckless, Adamant Nature, IVs: 20
-    - Aqua Jet
-    - Crunch
-    - Waterfall
-    - Zen Headbutt
-- Jellicent, Lv. 73, @Elemental Seed, Ability: Water Absorb, Bold Nature, IVs: 20
-    - Acid Armor
-    - Surf
-    - Recover
-    - Will-O-Wisp
+!battle(["Arlo", :SWIMMERBOI, 0], "Water Surface")
 
-**Swimmer Leigh. Field: Water Surface**
-- Azumarill, Lv. 72, @Sitrus Berry, Ability: Huge Power, Adamant Nature
-    - Belly Drum
-    - Aqua Jet
-    - Play Rough
-    - Knock Off
-- Primarina, Lv. 73, @Assault Vest, Ability: Torrent, Modest Nature
-    - Surf
-    - Psychic
-    - Moonblast
-    - Ice Beam
-- Greninja, Lv. 73, @Life Orb, Ability: Torrent, Rash Nature
-    - Water Shuriken
-    - Surf
-    - Dark Pulse
-    - Gunk Shot
+!battle(["Leigh", :SWIMMERGRIL, 0], "Water Surface")
 
 Battle the trainers as you proceed down and right. Once you encounter a fork in Lower Peridot, go to the left all the way towards Apophyll Cave.
 
 !img("azurine_538_1.png")
 
-**Swimmer Wilson. Field: Water Surface**
-- Blastoise, Lv. 72, @Elemental Seed, Ability: Torrent, Calm Nature, IVs: 20
-    - Surf
-    - Ice Beam
-    - Refresh
-    - Toxic
-- Golisopod, Lv. 73, @Sitrus Berry, Ability: Emergency Exit, Adamant Nature, IVs: 20
-    - First Impression
-    - Liquidation
-    - Leech Life
-    - Aqua Jet
-- Pyukumuku, Lv. 73, @Elemental Seed, Ability: Unaware, Calm Nature, IVs: 20
-    - Recover
-    - Toxic
-    - Block
-    - Soak
+!battle(["Wilson", :SWIMMERBOI, 0], "Water Surface")
 
 You'll be spit out right next to Apophyll Cave. Notice that there is a small path (14) you can surf through to go up from here, so take it.
 
@@ -1173,27 +969,7 @@ You'll be spit out right next to Apophyll Cave. Notice that there is a small pat
 
 At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island.
 
-**Ranger Nhadala. Field: Water Surface**
-- Pelipper, Lv. 70, @Damp Rock, Ability: Drizzle, Serious Nature, IVs: 10
-    - Roost
-    - Surf
-    - Hurricane
-    - U-turn
-- Golduck, Lv. 71, @Choice Specs, Ability: Swift Swim, Serious Nature, IVs: 10
-    - Focus Blast
-    - Surf
-    - Ice Beam
-    - Psyshock
-- Lanturn, Lv. 72, @Leftovers, Ability: Volt Absorb, Serious Nature, IVs: 10
-    - Substitute
-    - Toxic
-    - Surf
-    - Discharge
-- Vaporeon, Lv. 72, @Assault Vest, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Surf
-    - Ice Beam
-    - Hyper Voice
-    - Shadow Ball
+!battle(["Nhadala", :RANGERF, 0], "Water Surface")
 
 Dive down here into the Kingsbury Apartments area, and go all the way up.
 
@@ -1238,12 +1014,7 @@ Next, in the middle of the main underwater section, on the left side of the loop
 
 Past a hidden *Genius Wing* you'll see a Pyukumuku atop a hill, who we can battle.
 
-**High King of the Pyukumuku. Field: Cave Field**
-- Pyukumuku, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/100/0/160/0
-    - Recover
-    - Soak
-    - Toxic
-    - Block
+!battle(["of the Pyukumuku", :PYUKMUK, 0], "Cave Field")
 
 An annoying set that might ruin your team if you're unprepared! Taunt and Toxic completely shut it down, however. You can also take the cave ceiling down!
 
@@ -1305,27 +1076,7 @@ Now, it's time to do something with the Diamond Ring we found underwater. Fly ov
 
 Next, head over to Peridot Ward and enter the building to the left of the North Peridot Alley.
 
-**Police Officer Seer. Field: No Field**
-- Toxicroak, Lv. 73, Ability: Dry Skin, Adamant Nature, IVs: 31
-    - Sucker Punch
-    - Drain Punch
-    - Poison Jab
-    - Ice Punch
-- Stoutland, Lv. 74, @Sitrus Berry, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Crunch
-    - Play Rough
-    - Yawn
-    - Giga Impact
-- Arcanine, Lv. 76, @Power Herb, Ability: Flash Fire, Modest Nature, IVs: 31
-    - Solar Beam
-    - Flamethrower
-    - Dragon Pulse
-    - Hidden Power
-- Machamp, Lv. 76, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31
-    - Dynamic Punch
-    - Knock Off
-    - Stone Edge
-    - Poison Jab
+!battle(["Seer", :PoliceOfficer, 0])
 
 Defeat the cop inside and after a conversation you'll get the *Pink Pearl*. Grab the *Mind Plate* behind.
 
@@ -1333,47 +1084,7 @@ Fly over to Coral Ward and enter the northern warehouse. Talk to the girl with S
 
 Fly over to Jasper once more and attempt to enter the building on the right side of the area.
 
-**Ace Trainer Mattie & Ace Trainer Maddie. Field: No Field**
-- Ampharos, Lv. 73, @Light Clay, Ability: Static, Modest Nature, IVs: 31
-    - Thunder
-    - Signal Beam
-    - Dragon Pulse
-    - Light Screen
-- Dhelmise, Lv. 73, Ability: Steelworker, Jolly Nature, IVs: 31
-    - Anchor Shot
-    - Power Whip
-    - Rock Slide
-    - Phantom Force
-- Slowking, Lv. 74, Ability: Regenerator, Modest Nature, IVs: 31
-    - Scald
-    - Fire Blast
-    - Icy Wind
-    - Slack Off
-- Typhlosion, Lv. 76, @Sitrus Berry, Ability: Flash Fire, Timid Nature, IVs: 31
-    - Eruption
-    - Heat Wave
-    - Rock Slide
-    - Extrasensory
-- Absol, Lv. 73, @White Herb, Ability: Super Luck, Adamant Nature, IVs: 31
-    - Sucker Punch
-    - Play Rough
-    - Fire Blast
-    - Superpower
-- Kabutops, Lv. 73, @Focus Sash, Ability: Weak Armor, Adamant Nature, IVs: 31
-    - Rock Slide
-    - Waterfall
-    - Knock Off
-    - X-Scissor
-- Golurk, Lv. 74, Ability: No Guard, Adamant Nature, IVs: 31
-    - Rock Slide
-    - Dynamic Punch
-    - Ice Punch
-    - Hammer Arm
-- Infernape, Lv. 76, @Sitrus Berry, Ability: Blaze, Adamant Nature, IVs: 31
-    - Close Combat
-    - Rock Slide
-    - Flare Blitz
-    - Acrobatics
+!dbattle(["Mattie", :AceTrainerM, 0], ["Maddie", :AceTrainerF, 0])
 
 Defeat the two trainers who challenge you, then enter the building. In the room at the top you can get a *Yellow Flute* and the *Starlight Arena Field Readout*. Head upstairs and talk to the lady to get the *'R' Key*! You can also talk to her again for some lore.
 
@@ -1488,22 +1199,7 @@ Head to Jasper Ward and take the Loudred out of the PC. Talk to a girl in the bo
 
 Next, take Jigglypuff out of the PC and head over to the North Peridot Alley. Talk to the bottom guy a few times.
 
-**Q Gang Santiago. Field: No Field**
-- Azumarill, Lv. 79, Ability: Huge Power, Adamant Nature, IVs: 31
-    - Aqua Jet
-    - Play Rough
-    - Belly Drum
-    - Waterfall
-- Sylveon, Lv. 80, Ability: Pixilate, Modest Nature, IVs: 31
-    - Hyper Voice
-    - Wish
-    - Shadow Ball
-    - Hidden Power
-- Lopunny, Lv. 82, @Sitrus Berry, Ability: Limber, Jolly Nature, IVs: 31
-    - Power-Up Punch
-    - High Jump Kick
-    - Ice Punch
-    - Bounce
+!battle(["Santiago", :CUEBALL, 0])
 
 After defeating him, return to the Jasper Ward and give the Jigglypuff to the Loudred girl.
 
@@ -1511,37 +1207,7 @@ Fly over to the Apophyll Academy and get Makuhita out of the PC next. Talk to th
 
 Fly over to Spinel Town next and grab Roggenrola from the PC. Two buildings from the left of the museum, you'll find a guy who you can give Roggenrola back to. Talk to him again to get the *McKrezzy Autograph*. Return to the PC and prep your full team for battle, then talk to McKrezzy for a fight.
 
-**Guitarist McKrezzy. Field: No Field**
-- Incineroar, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Darkest Lariat
-    - Cross Chop
-    - Flare Blitz
-    - Outrage
-- Starmie, Lv. 77, @Damp Rock, Ability: Natural Cure, Timid Nature, IVs: 31
-    - Thunder
-    - Rain Dance
-    - Hydro Pump
-    - Ice Beam
-- Armaldo, Lv. 78, @Passho Berry, Ability: Swift Swim, Adamant Nature, IVs: 31
-    - Swords Dance
-    - X-Scissor
-    - Rock Slide
-    - Aqua Tail
-- Omastar, Lv. 78, @Focus Sash, Ability: Swift Swim, Modest Nature, IVs: 31
-    - Shell Smash
-    - Hydro Pump
-    - Ice Beam
-    - Hidden Power
-- Flygon, Lv. 77, @Muscle Band, Ability: Levitate, Jolly Nature, IVs: 31
-    - Dragon Claw
-    - Earthquake
-    - Dragon Dance
-    - Superpower
-- Staraptor, Lv. 79, @Fightinium-Z, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Roost
-    - Brave Bird
-    - Close Combat
-    - Tailwind
+!battle(["McKrezzy", :MCKREZZY, 0])
 
 He has a strong team but with no field, it shouldn't be too much to devise a strategy to defeat him. Note that his Staraptor can use a Z-Crystal.
 
@@ -1553,68 +1219,13 @@ Fly to Lapis Ward and enter the house to the left of the Pokémart. You'll learn
 
 Fly over to Onyx Ward, prepare your team and save, then head to the rooftop.
 
-**Q Gang Colin and Q Gang Matthew. Field: No Field**
-- Weezing, Lv. 73, Ability: Levitate, Bold Nature, IVs: 31
-    - Destiny Bond
-    - Fire Blast
-    - Sludge Bomb
-    - Infestation
-- Mudsdale, Lv. 74, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31
-    - Superpower
-    - Heavy Slam
-    - Rock Slide
-    - High Horsepower
-- Zangoose, Lv. 76, @Toxic Orb, Ability: Toxic Boost, Jolly Nature, IVs: 31
-    - Close Combat
-    - Quick Attack
-    - Shadow Claw
-    - Swords Dance
-- Muk-Alola, Lv. 73, Ability: Power Of Alchemy, Calm Nature, IVs: 31
-    - Minimize
-    - Sludge Wave
-    - Fire Blast
-    - Giga Drain
-- Tsareena, Lv. 74, @Life Orb, Ability: Queenly Majesty, Adamant Nature, IVs: 31
-    - Play Rough
-    - High Jump Kick
-    - Power Whip
-    - Knock Off
-- Lickilicky, Lv. 76, Ability: Own Tempo, Bashful Nature, IVs: 31
-    - Power Whip
-    - Muddy Water
-    - Blizzard
-    - Hammer Arm
+!dbattle(["Colin", :CUEBALL, 0], ["Matthew", :CUEBALL, 0])
 
 This battle isn't particularly tough and a few fast sweepers can probably bowl through them. The problem is that you don't get to heal before the next fight, so try to limit your casualties as much as possible for this fight.
 
-**Mastermind Eustace. Field: No Field**
-- Manectric, Lv. 81, @Choice Specs, Ability: Lightning Rod, Timid Nature, IVs: 31
-    - Volt Switch
-    - Flamethrower
-    - Thunderbolt
-    - Hidden Power
-- Sceptile, Lv. 81, @Sitrus Berry, Ability: Unburden, Jolly Nature, IVs: 31
-    - Swords Dance
-    - Leaf Blade
-    - Earthquake
-    - Rock Slide
-- Sharpedo, Lv. 82, @Life Orb, Ability: Speed Boost, Adamant Nature, IVs: 31
-    - Aqua Jet
-    - Waterfall
-    - Crunch
-    - Earthquake
-- Scizor, Lv. 83, Ability: Technician, Adamant Nature, IVs: 31
-    - U-turn
-    - Bullet Punch
-    - Superpower
-    - Thief
-- Alakazam, Lv. 84, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31
-    - Psychic
-    - Focus Blast
-    - Recover
-    - Charge Beam
+!battle(["Eustace", :MASTERMIND, 0])
 
-Again, this is made harder by the fact that you can't heal. His Pokémon are pretty much all of the fast sweeper variety, meaning Trick Room or Tailwind support for a strong attacker may be the key here. Watch out for Bullet Punch on Scizor.
+His Pokémon are pretty much all of the fast sweeper variety, meaning Trick Room or Tailwind support for a strong attacker may be the key here. Watch out for Bullet Punch on Scizor.
 
 Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your party. Give it back to Eustace upstairs.
 
@@ -1641,255 +1252,25 @@ Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the
 - Battle with Victoria in the Devon Basement (+1 Victoria)
 - Battle with Arclight in the Devon Basement (+1 Arclight)
 
-**New World Orderly Allyssa & New World Orderly Bishop. Field: Factory Field**
-- Grumpig, Lv. 73, Ability: Thick Fat, Serious Nature, IVs: 10
-    - Teeter Dance
-    - Icy Wind
-    - Light Screen
-    - Reflect
-- Shiinotic, Lv. 74, Ability: Effect Spore, Serious Nature, IVs: 10
-    - Spotlight
-    - Strength Sap
-    - Dazzling Gleam
-    - Spore
-- Tentacruel, Lv. 75, Ability: Liquid Ooze, Serious Nature, IVs: 10
-    - Hydro Pump
-    - Sludge Wave
-    - Ice Beam
-    - Dazzling Gleam
-- Alakazam, Lv. 75, Ability: Magic Guard, Serious Nature, IVs: 10
-    - Dazzling Gleam
-    - Psychic
-    - Charge Beam
-    - Focus Blast
-- Goodra, Lv. 75, Ability: Sap Sipper, Serious Nature, IVs: 10
-    - Draco Meteor
-    - Fire Blast
-    - Thunderbolt
-    - Sludge Wave
-- Clefable, Lv. 73, Ability: Magic Guard, Serious Nature, IVs: 10
-    - Metronome
-    - Dazzling Gleam
-    - Lucky Chant
-    - Follow Me
-- Persian, Lv. 73, Ability: Limber, Serious Nature, IVs: 10
-    - Icy Wind
-    - Dark Pulse
-    - Thunderbolt
-    - Power Gem
-- Durant, Lv. 74, Ability: Hustle, Serious Nature, IVs: 10
-    - Rock Slide
-    - Iron Head
-    - X-Scissor
-    - Crunch
-- Golurk, Lv. 75, Ability: No Guard, Serious Nature, IVs: 10
-    - Dynamic Punch
-    - Bulldoze
-    - Rock Slide
-    - Heavy Slam
-- Ribombee, Lv. 75, Ability: Shield Dust, Serious Nature, IVs: 10
-    - Moonblast
-    - Bug Buzz
-    - Psychic
-    - Quiver Dance
+!dbattle(["Allyssa", :NWOrderlyF, 0], ["Bishop", :NWOrderly, 0], "Factory Field")
 
 We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*.
 
 Up the stairs, you'll see an electric floor mat. If the tile is lit it is safe to walk on, otherwise, your non Ground type Pokémon will take some damage when you step on it. You can use the A key to cycle between 3 sets of lit tiles. That's all you really need to know to scale this building. Note that it is always possible to clear each floor without taking damage.
 
-**New World Orderly Howaya & New World Orderly Callie. Field: Factory Field**
-- Ludicolo, Lv. 74, Ability: Swift Swim, Serious Nature, IVs: 10
-    - Rain Dance
-    - Giga Drain
-    - Scald
-    - Ice Beam
-- Lapras, Lv. 74, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Smart Strike
-    - Dragon Dance
-    - Waterfall
-    - Ice Shard
-- Magneton, Lv. 75, Ability: Sturdy, Serious Nature, IVs: 10
-    - Thunder
-    - Flash Cannon
-    - Electric Terrain
-    - Explosion
-- Lanturn, Lv. 73, Ability: Volt Absorb, Serious Nature, IVs: 10
-    - Thunder
-    - Icy Wind
-    - Surf
-    - Dazzling Gleam
-- Porygon-Z, Lv. 74, Ability: Adaptability, Serious Nature, IVs: 10
-    - Thunderbolt
-    - Ice Beam
-    - Tri Attack
-    - Dark Pulse
-- Dugtrio-Alola, Lv. 75, Ability: Tangling Hair, Serious Nature, IVs: 10
-    - Earthquake
-    - Iron Head
-    - Sucker Punch
-    - Rock Slide
-- Hypno, Lv. 74, Ability: Inner Focus, Serious Nature, IVs: 10
-    - Trick Room
-    - Dazzling Gleam
-    - Psychic
-    - Assist
-- Skuntank, Lv. 74, Ability: Aftermath, Serious Nature, IVs: 10
-    - Explosion
-    - Flame Burst
-    - Poison Gas
-    - Smog
-- Crawdaunt, Lv. 75, Ability: Adaptability, Serious Nature, IVs: 10
-    - Crabhammer
-    - Night Slash
-    - Icy Wind
-    - Surf
-- Florges, Lv. 75, Ability: Flower Veil, Serious Nature, IVs: 10
-    - Moonblast
-    - Petal Dance
-    - Synthesis
-    - Attract
+!dbattle(["Howaya", :NWOrderly, 0], ["Callie", :NWOrderlyF, 0], "Factory Field")
 
-**New World Orderly Ramsey & New World Orderly Danielle. Field: Factory Field**
-- Magneton, Lv. 75, Ability: Sturdy, Serious Nature, IVs: 10
-    - Electric Terrain
-    - Magnet Bomb
-    - Discharge
-    - Flash Cannon
-- Raichu, Lv. 74, Ability: Lightning Rod, Serious Nature, IVs: 10
-    - Nasty Plot
-    - Discharge
-    - Hidden Power
-    - Focus Blast
-- Reuniclus, Lv. 74, Ability: Magic Guard, Serious Nature, IVs: 10
-    - Energy Ball
-    - Focus Blast
-    - Psyshock
-    - Recover
-- Beheeyem, Lv. 76, Ability: Synchronize, Serious Nature, IVs: 10
-    - Trick Room
-    - Energy Ball
-    - Psychic
-    - Signal Beam
-- Blissey, Lv. 75, Ability: Serene Grace, Serious Nature, IVs: 10
-    - Soft-Boiled
-    - Toxic
-    - Seismic Toss
-    - Hyper Voice
-- Slowbro, Lv. 74, Ability: Own Tempo, Serious Nature, IVs: 10
-    - Surf
-    - Psyshock
-    - Flamethrower
-    - Bulldoze
-- Sigilyph, Lv. 74, Ability: Magic Guard, Serious Nature, IVs: 10
-    - Psychic
-    - Dazzling Gleam
-    - Ancient Power
-    - Air Slash
-- Probopass, Lv. 76, Ability: Sturdy, Serious Nature, IVs: 10
-    - Discharge
-    - Zap Cannon
-    - Rock Slide
-    - Bulldoze
-- Empoleon, Lv. 76, Ability: Defiant, Serious Nature, IVs: 10
-    - Surf
-    - Flash Cannon
-    - Icy Wind
-    - Mist
-- Kingdra, Lv. 75, Serious Nature, IVs: 10
-    - Surf
-    - Dragon Pulse
-    - Dragon Dance
-    - Ice Beam
+!dbattle(["Ramsey", :NWOrderly, 0], ["Danielle", :NWOrderlyF, 0], "Factory Field")
 
-**New World Orderly Roth. Field: Factory Field**
-- Cloyster, Lv. 73, Ability: Skill Link, Serious Nature, IVs: 10
-    - Shell Smash
-    - Icicle Spear
-    - Rock Blast
-    - Hydro Pump
-- Heracross, Lv. 74, Ability: Moxie, Serious Nature, IVs: 10
-    - Stone Edge
-    - Earthquake
-    - Megahorn
-    - Close Combat
-- Zebstrika, Lv. 74, Ability: Sap Sipper, Serious Nature, IVs: 10
-    - Thunderbolt
-    - Overheat
-    - Hidden Power
-    - Signal Beam
-- Klinklang, Lv. 74, Ability: Plus, Serious Nature, IVs: 10
-    - Gear Grind
-    - Shift Gear
-    - Wild Charge
-    - Return
-- Gardevoir, Lv. 75, Ability: Synchronize, Serious Nature, IVs: 10
-    - Shadow Ball
-    - Moonblast
-    - Psyshock
-    - Thunderbolt
+!battle(["Roth", :NWOrderly, 0], "Factory Field")
 
-**New World Orderly David. Field: Factory Field**
-- Ferrothorn, Lv. 73, Ability: Iron Barbs, Serious Nature, IVs: 10
-    - Gyro Ball
-    - Power Whip
-    - Curse
-    - Nature Power
-- Jumpluff, Lv. 74, Ability: Leaf Guard, Serious Nature, IVs: 10
-    - Leech Seed
-    - Substitute
-    - Sleep Powder
-    - Energy Ball
-- Gastrodon, Lv. 74, Ability: Storm Drain, Serious Nature, IVs: 10
-    - Blizzard
-    - Recover
-    - Muddy Water
-    - Infestation
-- Luxray, Lv. 74, Ability: Intimidate, Serious Nature, IVs: 10
-    - Superpower
-    - Ice Fang
-    - Wild Charge
-    - Throat Chop
-- Flygon, Lv. 75, Ability: Levitate, Serious Nature, IVs: 10
-    - Throat Chop
-    - Earthquake
-    - Rock Slide
-    - Dragon Rush
+!battle(["David", :NWOrderly, 0], "Factory Field")
 
 Scale the building until you find yourself in a strange new place.
 
 Heal and prepare your team as necessary, then proceed to the right.
 
-**Sensei Victoria. Field: Factory Field**
-- Mienshao, Lv. 74, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Knock Off
-    - High Jump Kick
-    - U-turn
-    - Fake Out
-- Raichu-Alola, Lv. 75, @Synthetic Seed, Ability: Surge Surfer, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nuzzle
-    - Nasty Plot
-    - Psyshock
-    - Discharge
-- Gallade, Lv. 77, @Salac Berry, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Throat Chop
-    - Zen Headbutt
-    - Swords Dance
-    - Close Combat
-- Togekiss, Lv. 74, @King's Rock, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Air Slash
-    - Aura Sphere
-    - Nasty Plot
-- Lucario, Lv. 76, @Wise Glasses, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aura Sphere
-    - Flash Cannon
-    - Calm Mind
-    - Shadow Ball
-- Incineroar, Lv. 77, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Earthquake
-    - Knock Off
-    - Flare Blitz
-    - Outrage
+!battle(["Victoria", :Victoria2, 1], "Factory Field")
 
 Time for another fight with Victoria, the first in a while. You'll notice that she has a full and varied team this time, with lots of faster Pokémon but also a few bulkier options in the back. Hopefully you're well acquainted with the Factory Field by this point, so you can exploit that to win if you're stuck. Overwhelm her with a coherent singles strategy like Amplifield Rock + Trick Room or a set-up sweeper with speed support.
 
@@ -1913,37 +1294,7 @@ You can turn off the electric tiles in the top right side of the area at monitor
 
 Either way you have to fight.
 
-**DJ Arclight (2x Hyper Potion). Field: Factory Field**
-- Luxray, Lv. 75, @Amplifield Rock, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 0/252/0/0/0/252
-    - Electric Terrain
-    - Wild Charge
-    - Superpower
-    - Throat Chop
-- Raichu, Lv. 76, @Wise Glasses, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Focus Blast
-    - Thunderbolt
-    - Hidden Power
-    - Nasty Plot
-- Exploud, Lv. 75, @Sitrus Berry, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/52/0/200/0/0
-    - Boomburst
-    - Ice Beam
-    - Earthquake
-    - Surf
-- Noivern, Lv. 77, @Wide Lens, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dragon Pulse
-    - Boomburst
-    - Hurricane
-    - Heat Wave
-- Jolteon, Lv. 78, @Petaya Berry, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Shadow Ball
-    - Signal Beam
-    - Hidden Power
-    - Discharge
-- Ampharos, Lv. 79, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 32/0/0/252/0/224
-    - Discharge
-    - Zap Cannon
-    - Dragon Pulse
-    - Agility
+!battle(["Arclight", :ARCLIGHT, 0], "Factory Field")
 
 Time for our first fight with the DJ. This one has a bit more synergy with Factory Field out of the box thanks to four Electric type Pokémon, though he might change the field to Electric Terrain. Most of his Pokémon are fast and use mostly Special Moves - Luxray being the sole counterexample to the latter and Ampharos being the sole counterexample to the former. The common attacking types of Ground, Ice, and Fighting cover all of his weaknesses.
 
@@ -1973,37 +1324,7 @@ Activate monitor #2, go up to activate monitor #3, then go back down to turn off
 - Say you did come to destroy everything here (-1 Eve, -1 Lumi)
 - Say you didn't come to destroy everything here (+1 Eve, +1 Lumi)
 
-**Meteor Admin ZEL (2x Ultra Potion). Field: Factory Field**
-- Aurorus, Lv. 74, @Focus Sash, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Flash Cannon
-    - Stealth Rock
-    - Ice Beam
-    - Thunderbolt
-- Glaceon, Lv. 77, @Synthetic Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Blizzard
-    - Shadow Ball
-    - Yawn
-    - Wish
-- Alakazam, Lv. 74, @Twisted Spoon, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psyshock
-    - Recover
-    - Shadow Ball
-    - Charge Beam
-- Espeon, Lv. 77, @Synthetic Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Dazzling Gleam
-    - Light Screen
-    - Reflect
-    - Psyshock
-- Umbreon, Lv. 77, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Double Team
-    - Wish
-    - Foul Play
-    - Toxic
-- PULSE Magnezone, Lv. 83, @Wiki Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Magnet Bomb
-    - Discharge
-    - Autotomize
-    - Hidden Power
+!battle(["ZEL", :ZEL, 4], "Factory Field")
 
 ZEL has a decently well rounded core of Ice and Psychic type special attackers, with various boosting held items to increase their potency and Electric and Ghost moves to take advantage of both Factory and Short-Circuit. If a physical sweeper can get around Aurorus' sash and outspeed these four you'll be in a good  position. Umbreon can be tricky however, as it will punish said physical attacker with Foul Play, heal itself with Wish and watch you die slowly of poison while it uses Double Team to dodge your attacks. The icing on top is Magnezone, who has an incredible special attack stat and two different types of field boosted moves that can destroy most Pokémon with ease. Its biggest weakness in Ground is pretty much patched out thanks to it gaining the Levitate Ability.
 
@@ -2017,22 +1338,7 @@ With all that out of the way we can proceed to the next badge. One more quest is
 
 Reenter the actual Devon Corp. building in Obsidia, and make your way upstairs. Now the floor tiles will be going crazy and you can't control them. Honestly, I recommend grabbing some potions and just healing once we reach the top, since we will only have to deal with a single battle against 3 Pokémon. You can even challenge yourself to see if you can win with 6 Pokémon at 1 HP.
 
-**Street Rat Alphonso. Field: Factory Field**
-- Archeops, Lv. 75, @Sitrus Berry, Ability: Defeatist, Jolly Nature, IVs: 31
-    - Rock Slide
-    - Acrobatics
-    - U-turn
-    - Crunch
-- Rhyperior, Lv. 75, @Passho Berry, Ability: Lightning Rod, Adamant Nature, IVs: 31
-    - Earthquake
-    - Megahorn
-    - Stone Edge
-    - Thunder Punch
-- Araquanid, Lv. 77, @Assault Vest, Ability: Water Bubble, Adamant Nature, IVs: 31
-    - Liquidation
-    - Leech Life
-    - Poison Jab
-    - Crunch
+!battle(["Alphonso", :StreetRat, 0], "Factory Field")
 
 You can pick up a *Devon Scope Model* as well as the *Electric Memory* and *TM81 X-Scissor*.
 
@@ -2056,6 +1362,7 @@ Via following the path on the right side down, reach the large pool of water, th
 
 Climb the waterfall and grab the hidden *Rock Gem*. Prepare your team and talk to the invisible object at the bottom of the stairs.
 
+!dbattle(["Runaways", :KECLEONS, 0], ["Refugees", :KECLEONS, 0], "Cave Field")
 **Kecleon Refugees and Kecleon Runaways. Field: Cave Field**
 - Kecleon, Lv. 67, Serious Nature, IVs: 10
     - Foul Play

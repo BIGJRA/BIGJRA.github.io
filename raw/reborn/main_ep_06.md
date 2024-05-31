@@ -29,7 +29,7 @@ Talk to Amaria to get on top of the building, and head in.
 
 !partner(["Amaria", :Fiancee, 0])
 
-!battle(["Ricardo", :MeteorGrunt, 1], "Factory Field", ["Hilda", :MeteorGrunt_090, 1])
+!dbattle(["Ricardo", :MeteorGrunt, 1], ["Hilda", :MeteorGrunt_090, 1], "Factory Field")
 
 Seems like our partner is actually the 16th gym leader. Defeat the grunts with her, grab a hidden *Antidote*, then go down the stairs.
 
@@ -159,9 +159,6 @@ Head up to reach the middle part of the area.
 !battle(["Mason", :BLACKBELT, 0], "Ashen Beach")
 
 !battle(["Lisa", :BATTLEGIRL, 0], "Ashen Beach")
-
-**Battle Girl Lisa. Field: Ashen Beach**
-- Poliwhirl, Lv. 38, Serious Nature, IVs: 10
 
 Pick up a hidden *Guard Spec*. Now we are going to enter the six doors in this area: the top left has a *Black Belt*, the girl in the bottom left wants us to steal a TV for her (in a bit), the Dudebro in the top right wants Protein in exchange for his *Ashen Beach Field Readout*, the guy in the middle right will give us *Pure Incense*, the bottom right room contains a person who will tell us about the *unrealtime* password and a person who judges Hidden Power types.
 

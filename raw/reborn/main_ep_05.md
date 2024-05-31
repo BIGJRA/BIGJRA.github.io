@@ -24,7 +24,7 @@ Head into the Orphanage as soon as the door opens. You'll be paired up with eith
 
 !partner(["Shelly", :SHELLY, 1])
 
-!battle(["Timothy", :Orderly, 0], nil, ["Chris", :Orderly, 0])
+!dbattle(["Timothy", :Orderly, 0], ["Chris", :Orderly, 0])
 
 After this fight, you'll be free to explore with Shelly (above) as a partner. Keep in mind though:
 
@@ -43,9 +43,9 @@ We can now choose where to go.
 
 So, we're gonna head upstairs first. Defeat orderlies as you go up.
 
-!battle(["Allyssa", :OrderlyF, 0], nil, ["Stephanie", :OrderlyF, 0])
+!dbattle(["Allyssa", :OrderlyF, 0], ["Stephanie", :OrderlyF, 0])
 
-!battle(["Bishop", :Orderly, 0], nil, ["Roth", :Orderly, 0])
+!dbattle(["Bishop", :Orderly, 0], ["Roth", :Orderly, 0])
 
 You'll be prevented from continuing upstairs, so head downstairs and talk to Anna again.
 
@@ -56,11 +56,11 @@ Enter the open door on the first floor. Be careful about trying to enter the doo
 
 Beat the orderlies in the room above.
 
-!battle(["Howaya", :Orderly, 0], nil, ["Callie", :OrderlyF, 0])
+!dbattle(["Howaya", :Orderly, 0], ["Callie", :OrderlyF, 0])
 
 You can read the green books for some background on the new characters. Back outside, head down and to the left.
 
-!battle(["Danielle", :OrderlyF, 0], nil, ["Ramsey", :Orderly, 0])
+!dbattle(["Danielle", :OrderlyF, 0], ["Ramsey", :Orderly, 0])
 
 Pick up a *Data Chip* down here. Talk to the green computer screen nearby to open a lock.
 
@@ -71,7 +71,7 @@ Head back upstairs and go through the now-opened path.
 
 Defeat the orderlies upstairs.
 
-!battle(["Charity", :OrderlyF, 0], nil, ["John", :Orderly, 1])
+!dbattle(["Charity", :OrderlyF, 0], ["John", :Orderly, 1])
 
 Open the patient cages. You can find a hidden *Great Ball* here. Head downstairs and grab the *Paralyze Heal* on your way down.
 
@@ -82,7 +82,7 @@ On the first floor, enter the room on the right.
 
 Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*.
 
-!battle(["Christina", :OrderlyF, 0], nil, ["Matt", :Orderly, 0])
+!dbattle(["Christina", :OrderlyF, 0], ["Matt", :Orderly, 0])
 
 Defeat some orderlies, then at the bottom grab the *Odd Incense* and the *Archive Key*, which is hidden behind the foliage of the right plant.
 
@@ -118,7 +118,7 @@ If you joined Aqua last chapter, [jump to the next section](#the-aqua-gang-route
 
 Return to Maxwell in North Obsidia, then head over to the Aqua Gang's hideout in Lapis. Defeat the guards at the entrance.
 
-!battle(["Mannie", :AQUA1, 0], nil, ["Razzy", :AQUA1, 0])
+!dbattle(["Mannie", :AQUA1, 0], ["Razzy", :AQUA1, 0])
 
 Grab *TM41 Torment* while you're here and prepare for a battle.
 
@@ -138,7 +138,7 @@ If you joined Magma last chapter, [jump to the next section](#rock-smash-explora
 
 Return to Archer in Lapis, then head over to the Magma Gang's hideout in North Obsidia. Defeat the guards at the entrance.
 
-!battle(["Nihil", :MAGMA1, 0], nil, ["Kriz", :MAGMA1, 0])
+!dbattle(["Nihil", :MAGMA1, 0], ["Kriz", :MAGMA1, 0])
 
 Grab *TM46 Thief* as well as a hidden *Red-Hots* while you're here and prepare for a battle.
 
