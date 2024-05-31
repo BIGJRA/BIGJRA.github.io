@@ -229,37 +229,7 @@ Once you succed, you'll get the *Latiasite* and *Latiosite*! Nice. However, ther
 
 You can kinda walk up past the New World Door, finding another New World Door at the very top. In the next room is an Anomaly!
 
-**Anomaly Ho-oh. Field: Mirror Arena**
-- Articuno, Lv. 135, @Synthetic Seed, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
-    - Aurora Veil
-    - Aurora Beam
-    - Ancient Power
-    - Roost
-- Shaymin-Sky, Lv. 135, @Choice Specs, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Seed Flare
-    - Earth Power
-    - Air Slash
-- Celesteela, Lv. 135, @Magical Seed, Ability: Beast Boost, Calm Nature, IVs: 31, EVs: 4/0/0/252/252/0
-    - Flash Cannon
-    - Leech Seed
-    - Protect
-    - Giga Drain
-- Latias, Lv. 135, @Latiasite, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Mist Ball
-    - Ice Beam
-    - Calm Mind
-    - Roost
-- Hydreigon, Lv. 135, @Darkinium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dark Pulse
-    - Flash Cannon
-    - Draco Meteor
-    - Roost
-- Ho-oh, Lv. 135, @Magical Seed, Ability: Regenerator, Serious Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Fire
-    - Earthquake
-    - Recover
-    - Ancient Power
+!battle(["Ho-oh", :HOOH, 0], "Mirror Arena")
 
 If the field is broken, you'll go to New World... where all the Magical Seeds and many of your opponents moves will be activated. The team is all Flying or Dragon type, so make sure you can exploit those two weaknesses with some sweepers to win.
 
@@ -289,37 +259,7 @@ Make it to the end of the room and exit at the top. You'll talk to Saphira here,
 
 Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this rather straightforward path to another Anomaly!
 
-**Anomaly Lugia. Field: Dark Crystal Cavern**
-- Mismagius, Lv. 135, @Magical Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Power Gem
-    - Shadow Ball
-    - Dazzling Gleam
-    - Will-O-Wisp
-- Dialga, Lv. 135, @Magical Seed, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Stealth Rock
-    - Power Gem
-    - Draco Meteor
-    - Flash Cannon
-- Kommo-o, Lv. 135, @Kommonium-Z, Ability: Bulletproof, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Poison Jab
-    - Clanging Scales
-    - Earthquake
-    - Close Combat
-- Mew, Lv. 135, @Leftovers, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
-    - Nature Power
-    - Aurora Veil
-    - Dazzling Gleam
-    - Dark Pulse
-- Diancie, Lv. 135, @Diancite, Ability: Clear Body, Rash Nature, IVs: 31, EVs: 0/252/0/4/0/252
-    - Dazzling Gleam
-    - Diamond Storm
-    - Rock Polish
-    - Earth Power
-- Lugia, Lv. 135, @Magical Seed, Ability: Multiscale, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Roost
-    - Ancient Power
-    - Ice Beam
-    - Aeroblast
+!battle(["Lugia", :LUGIA, 0], "Dark Crystal Cavern")
 
 Been a while since we've had to fight on this terrain, but you can surely handle it. Be careful of Kommo-o with it's Z-Move and the very bulky Lugia.
 
@@ -331,37 +271,7 @@ Accept Simon's quest, then fly over to the Beryl Ward. Cross the bridge and ente
 
 After the conversation in the middle, follow the narrow paths to the corners of the area and talk to the small rocks. Once you've done all four, go to the top of the area for an Anomaly battle!
 
-**Anomaly Deoxys. Field: Starlight Arena**
-- Deoxys-Speed, Lv. 135, @Light Clay, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/0/4/0/0/252
-    - Stealth Rock
-    - Spikes
-    - Reflect
-    - Light Screen
-- Metagross, Lv. 135, @Metagrossite, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Meteor Mash
-    - Bullet Punch
-    - Earthquake
-    - Zen Headbutt
-- Darkrai, Lv. 135, @Darkinium-Z, Ability: Bad Dreams, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Spacial Rend
-    - Dark Pulse
-    - Psychic
-    - Nasty Plot
-- Genesect, Lv. 135, @Life Orb, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Techno Blast
-    - Ice Beam
-    - Psychic
-    - Flash Cannon
-- Clefable, Lv. 135, @Leftovers, Ability: Unaware, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Cosmic Power
-    - Toxic
-    - Moonblast
-    - Soft-Boiled
-- Deoxys-Defense, Lv. 135, @Magical Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Nasty Plot
-    - Cosmic Power
-    - Recover
-    - Flash Cannon
+!battle(["Deoxys", :DEOXYS, 0], "Starlight Arena")
 
 Nothing too crazy here, I guess. Deoxys Defense is probably the most threatening - if it can set up defenses AND offenses, you're going to have a bad time. Abuse Dark type moves being buffed on this field to one shot it if you need to.
 
@@ -434,71 +344,11 @@ Accept your gang leader's quest next. Return to the desert and make your way to 
 
 Follow the path to the New World Door in the water. Head down from here to the island in the middle of the Aegir Cave lake.
 
-**Umbral Amaria. Field: Water Surface**
-- Tapu Bulu, Lv. 135, @Elemental Seed, Ability: Grassy Surge, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Wood Hammer
-    - Superpower
-    - Rock Slide
-    - Nature Power
-- Celesteela, Lv. 135, @Elemental Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Flamethrower
-    - Leech Seed
-    - Protect
-    - Giga Drain
-- Volcarona, Lv. 135, @Elemental Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Giga Drain
-    - Bug Buzz
-    - Heat Wave
-    - Quiver Dance
-- Volcanion, Lv. 135, @Elemental Seed, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sludge Bomb
-    - Steam Eruption
-    - Earth Power
-    - Heat Wave
-- Palkia, Lv. 135, @Electrium-Z, Ability: Telepathy, Timid Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Thunder
-    - Spacial Rend
-    - Surf
-    - Aura Sphere
-- Kyogre, Lv. 135, @Blue Orb, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Thunder
-    - Origin Pulse
-    - Calm Mind
-    - Ice Beam
+!battle(["Amaria", :UMBAMARIA, 0], "Water Surface")
 
 The fight will go instantly to Grassy Terrain for a little while. As long as you have a few Specially Defensive and fast Pokémon, letting Celesteela hang around while you attack the other, faster Pokémon on the field can be a good idea. Changing the field to Corrosive Field can be useful for gaining momentum.
 
-**Umbral Titania. Field: Cave Field**
-- Togekiss, Lv. 135, @Telluric Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Ancient Power
-    - Air Slash
-    - Thunder Wave
-    - Roost
-- Diancie, Lv. 135, @Diancite, Ability: Clear Body, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Diamond Storm
-    - Stealth Rock
-    - Moonblast
-    - Earth Power
-- Regigigas, Lv. 135, @Leftovers, Ability: Slow Start, Impish Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Secret Power
-    - Wide Guard
-    - Thunder Wave
-    - Double Team
-- Marshadow, Lv. 135, @Marshadium-Z, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Spectral Thief
-    - Rock Tomb
-    - Rolling Kick
-    - Shadow Sneak
-- Dialga, Lv. 135, @Telluric Seed, Ability: Pressure, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Hyper Voice
-    - Draco Meteor
-    - Power Gem
-    - Ice Beam
-- Groudon, Lv. 135, @Red Orb, Ability: Drought, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Rock Tomb
-    - Precipice Blades
-    - Rock Polish
-    - Heat Wave
+!battle(["Titania", :UMBTITANIA, 0], "Cave Field")
 
 Another pretty tough one. Diamond Storm and Power Gem both turn the field to the Crystal Cavern Field, so watch out for that. A couple Steel leads might be ideal to start here - speed and/or Bullet Punch can help them OHKO Diancie. The rest of the team is generally weak to some combination of Ground and Fighting type moves barring Marshadow - who has priority, a Z-Move, and Spectral Thief to ruin your set ups. Take advantage of Regigigas being a sort of underwhelming support set to take out the threats if you need to.
 
@@ -560,167 +410,17 @@ Switching between us and them with the "A" key, you'll need to progress with eac
 
 You'll need to transform the gemstones near MC black, and the ones near XM white. Each gemstone also changes the ones immediately around it. It shouldn't be too hard with some trial and error.
 
-**Anomaly Zekrom & Anomaly Reshiram. Field: Icy Field**
-- Ninetales-Alola, Lv. 133, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 3, EVs: 252/0/0/4/0/252
-    - Aurora Veil
-    - Blizzard
-    - Dark Pulse
-    - Dazzling Gleam
-- Kangaskhan, Lv. 132, @Kangaskhanite, Ability: Scrappy, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
-    - Fake Out
-    - Secret Power
-    - Power-Up Punch
-    - Rock Slide
-- Golem, Lv. 133, @Custap Berry, Ability: Sturdy, Adamant Nature, IVs: 3, EVs: 252/252/0/0/4/0
-    - Explosion
-    - Rock Slide
-    - Steamroller
-    - Wild Charge
-- Mimikyu, Lv. 133, @Life Orb, Ability: Disguise, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
-    - Shadow Sneak
-    - Play Rough
-    - Swords Dance
-    - Leech Life
-- Lycanroc-Dusk, Lv. 133, @Lycanium-Z, Ability: Tough Claws, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
-    - Sucker Punch
-    - Stone Edge
-    - Brick Break
-    - Drill Run
-- Zekrom, Lv. 135, @Life Orb, Ability: Teravolt, Adamant Nature, IVs: 3, EVs: 252/252/252/252/252/252
-    - Fusion Bolt
-    - Hone Claws
-    - Rock Slide
-    - Outrage
-- Glaceon, Lv. 133, @Elemental Seed, Ability: Snow Cloak, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Blizzard
-    - Shadow Ball
-    - Wish
-    - Hidden Power
-- Weavile, Lv. 132, @Life Orb, Ability: Pressure, Adamant Nature, IVs: 3, EVs: 0/252/0/0/4/252
-    - Ice Shard
-    - Brick Break
-    - Poison Jab
-    - Throat Chop
-- Banette, Lv. 133, @Banettite, Ability: Insomnia, Adamant Nature, IVs: 3, EVs: 252/252/4/0/0/0
-    - Destiny Bond
-    - Shadow Sneak
-    - Sucker Punch
-    - Gunk Shot
-- Guzzlord, Lv. 133, @Life Orb, Ability: Beast Boost, Adamant Nature, IVs: 3, EVs: 0/0/128/252/128/0
-    - Steamroller
-    - Rock Slide
-    - Wide Guard
-    - Knock Off
-- Raikou, Lv. 133, @Life Orb, Ability: Pressure, Timid Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Extreme Speed
-    - Aura Sphere
-    - Hidden Power
-    - Thunderbolt
-- Reshiram, Lv. 135, @Life Orb, Ability: Turboblaze, Modest Nature, IVs: 3, EVs: 252/252/252/252/252/252
-    - Fusion Flare
-    - Ancient Power
-    - Earth Power
-    - Dragon Pulse
+!dbattle(["Zekrom", :ZEKROM, 0], ["Reshiram", :RESHIRAM, 0], "Icy Field")
 
 This first fight can be fairly tough - this field pushes the Icy Field to its limit. With Aurora Veil, your opponents will likely be able to stick around while they build up speed from priority attacks. Mega Kangaskhan can use Fake Out and Power Up Punch to reach +2 in Atk and Spe, so be wary when it comes out. Generally, the team is weak to Rock, Ground, and Ice moves, so try to use those if you can.
 
-**Anomaly Kyurem & Multi-iterative Fusion Simulations. Field: New World Field**
-- Manectric, Lv. 134, @Manectite, Ability: Lightning Rod, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Volt Switch
-    - Overheat
-    - Snarl
-    - Swift
-- Magearna, Lv. 134, @Leftovers, Ability: Soul-Heart, Calm Nature, IVs: 3, EVs: 252/0/0/4/252/0
-    - Heart Swap
-    - Fleur Cannon
-    - Flash Cannon
-    - Thunder Wave
-- Shaymin-Sky, Lv. 134, @Choice Specs, Ability: Serene Grace, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Nature Power
-    - Seed Flare
-    - Dazzling Gleam
-    - Air Slash
-- Victini, Lv. 134, @Choice Band, Ability: Victory Star, Adamant Nature, IVs: 3, EVs: 4/252/0/0/0/252
-    - Fusion Bolt
-    - V-create
-    - Zen Headbutt
-    - U-turn
-- Zekrom, Lv. 135, @Magical Seed, Ability: Teravolt, Adamant Nature, IVs: 3, EVs: 252/4/0/0/0/252
-    - Fusion Bolt
-    - Roost
-    - Dragon Tail
-    - Thunder Wave
-- Kyurem-White, Lv. 135, @Power Herb, Ability: Turboblaze, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fusion Bolt
-    - Freeze Shock
-    - Rock Slide
-    - Outrage
-- Mew, Lv. 134, @Wiki Berry, Ability: Synchronize, Bold Nature, IVs: 3, EVs: 252/0/252/4/0/0
-    - Tailwind
-    - Vacuum Wave
-    - Ancient Power
-    - Stealth Rock
-- Salamence, Lv. 134, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Swift
-    - Draco Meteor
-    - Heat Wave
-    - Roost
-- Hoopa-Unbound, Lv. 134, @Darkinium-Z, Ability: Magician, Adamant Nature, IVs: 3, EVs: 0/252/4/0/0/252
-    - HyperspaceFury
-    - Drain Punch
-    - Gunk Shot
-    - Ice Punch
-- Victini, Lv. 134, @Choice Specs, Ability: Victory Star, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Fusion Flare
-    - Dazzling Gleam
-    - Glaciate
-    - Psyshock
-- Reshiram, Lv. 135, @Magical Seed, Ability: Turboblaze, Modest Nature, IVs: 3, EVs: 4/0/0/252/0/252
-    - Fusion Flare
-    - Draco Meteor
-    - Roost
-    - Ancient Power
-- Kyurem-Black, Lv. 135, @Power Herb, Ability: Teravolt, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fusion Flare
-    - Ice Burn
-    - Ancient Power
-    - Draco Meteor
+!dbattle(["Kyurem", :KYUREM1, 0], ["Fusion Simulations", :KYUREM2, 0], "New World")
 
 Although you do get healed, you'll be thrust into a second Double battle. While it's hard to rely on your ally acting in your favor, Taka does sometimes use Tailwind, which can help out. All but Magearna and Mew are weak to either Rock or Fairy moves, so Rock Slide and especially field-boosted Dazzling Gleam may be very helpful here.
 
 Once you win, three doors will open. Inside each, you can catch **Reshiram**, **Zekrom**, and **Kyurem**! Once you catch the third, prepare your team before you head back out.
 
-**Umbral Agent Ace. Field: New World**
-- Latias, Lv. 135, @Eject Button, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Mist Ball
-    - Draco Meteor
-    - Reflect
-    - Hidden Power
-- Latios, Lv. 135, @Soul Dew, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Luster Purge
-    - Dragon Pulse
-    - Calm Mind
-    - Recover
-- Mesprit, Lv. 135, @Magical Seed, Ability: Levitate, Mild Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Recycle
-    - Dazzling Gleam
-    - Psyshock
-    - Fire Punch
-- Hoopa, Lv. 135, @Magical Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Hyperspace Hole
-    - Dark Pulse
-    - Thunderbolt
-    - Focus Blast
-- Sableye, Lv. 135, @Sablenite, Ability: Prankster, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Recover
-    - Will-O-Wisp
-    - Foul Play
-    - Shadow Ball
-- Zoroark, Lv. 135, @Darkinium-Z, Ability: Illusion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Night Daze
-    - Flamethrower
-    - Shadow Ball
-    - Extrasensory
+!battle(["Ace", :UMBACE, 0], "New World")
 
 Nothing too crazy for this point in the game, but still a formidable challenge. Boosted Dark and Fairy moves will make it easier.
 
@@ -742,37 +442,7 @@ Oh yeah, surprise level cap increase to Lv. 140. Talk to Zero to get the next qu
 
 Talk to the woman in front of the meteor for a fight.
 
-**Lost Starscaper Zina. Field: Starlight Arena**
-- Zoroark, Lv. 135, @Focus Sash, Ability: Illusion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Night Daze
-    - Focus Blast
-    - Nasty Plot
-    - Flamethrower
-- Delphox, Lv. 135, @Magical Seed, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dazzling Gleam
-    - Fire Blast
-    - Psychic
-    - Wish
-- Absol, Lv. 135, @Absolite, Ability: Justified, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sucker Punch
-    - Play Rough
-    - Fire Blast
-    - Ice Beam
-- Yveltal, Lv. 135, @Life Orb, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Oblivion Wing
-    - Dark Pulse
-    - U-turn
-    - Sucker Punch
-- Xerneas, Lv. 135, @Magical Seed, Ability: Fairy Aura, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Geomancy
-    - Moonblast
-    - Aurora Beam
-    - Close Combat
-- Lunala, Lv. 135, @Lunalium-Z, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moongeist Beam
-    - Roost
-    - Moonblast
-    - Psyshock
+!battle(["Zina", :ZINA, 0], "Starlight Arena")
 
 Nothing too crazy, but you will notice that we really are in the endgame now as we're up against 3 Ubers casually sprinkled into this team.
 
@@ -782,37 +452,7 @@ Once you win, we'll get our next destination: the Byxbysion Wasteland.
 
 Fly over to Byxbysion and make your way into the tunnels. In the room with the branches, enter the second entrance when you're ready.
 
-**Anomaly Naganadel. Field: Wasteland**
-- Ferrothorn, Lv. 140, @Leftovers, Ability: Iron Barbs, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Leech Seed
-    - Power Whip
-    - Nature Power
-    - Protect
-- Heatran, Lv. 140, @Leftovers, Ability: Flash Fire, Quiet Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Nature Power
-    - Earth Power
-    - Magma Storm
-    - Protect
-- Solgaleo, Lv. 140, @Life Orb, Ability: Full Metal Body, Naughty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sunsteel Strike
-    - Fire Blast
-    - Stone Edge
-    - Knock Off
-- Lucario, Lv. 140, @Lucarionite, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Meteor Mash
-    - High Jump Kick
-    - Bullet Punch
-    - Hone Claws
-- Nidoking, Lv. 140, @Life Orb, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Earth Power
-    - Sludge Wave
-    - Ice Beam
-    - Flamethrower
-- Naganadel, Lv. 140, @Dragonium-Z, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Draco Meteor
-    - Heat Wave
-    - Venoshock
-    - Nasty Plot
+!battle(["Naganadel", :NAGANADEL, 0], "Wasteland")
 
 This is pretty brutal for a singles fight. For one, the team is entirely resistant to basically any way that you would want to try to use the field for your own gain due to Steel and Poison typings. With the field preventing hazard set up and an extremely strong Mega Lucario Bullet Punch to prevent any clever Trick Room sweeping, many of the usually good strategies are busted here. Earth Power, Drill Run, and High Horsepower are all Ground type options that aren't weakened by this field if you want to try them.
 
@@ -852,39 +492,9 @@ Talking to the center is a bit more complex: when you talk to the center, it wil
 
 Figuring out what is going on might be harder than doing the puzzle itself, which you can kinda brute force. Honestly, I recommend spending a minute or two just randomly pressing the center and each column until you have a big mess of different colors all over the puzzle. Then, use the two columns to pull blocks that will generate B into the top - either B + B or B + D will work. Next, pull in blocks that will generate D, then G, L, and finally W. If at any point you are unable to create the desired block, simply continuously press the center 9 times and mess with the columns some more until you're able to. Head through the door when you're ready!
 
-**Anomalized Giratina. Field: Inverse Field**
-- Jynx, Lv. 140, @Focus Sash, Ability: Dry Skin, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Signal Beam
-    - Ice Beam
-    - Draining Kiss
-    - Nasty Plot
-- Weavile, Lv. 140, @Focus Sash, Ability: Pickpocket, Timid Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Knock Off
-    - Ice Shard
-    - Poison Jab
-    - Power-Up Punch
-- Lugia, Lv. 140, @Magical Seed, Ability: Multiscale, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Recover
-    - Toxic
-    - Dragon Tail
-    - Psychic
-- Meloetta-Pirouette, Lv. 140, @Magical Seed, Ability: Serene Grace, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Drain Punch
-    - Acrobatics
-    - Return
-    - Thunder Punch
-- Yveltal, Lv. 140, @Choice Scarf, Ability: Dark Aura, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dark Pulse
-    - Oblivion Wing
-    - Heat Wave
-    - U-turn
-- Giratina-Origin, Lv. 140, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Aura Sphere
-    - Energy Ball
-    - Hex
-    - Will-O-Wisp
+!battle(["Giratina", :GIRATINA, 0], "Inverse Field")
 
-Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own. I also had a great time destroying the field with the Lycanium-Z and steamrolling, if that's your thing.
+Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own.
 
 Catch **Giratina** once you win.
 

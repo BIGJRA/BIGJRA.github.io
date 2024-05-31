@@ -44,63 +44,13 @@ Anyways, once you're ready, talk to Bennett on the west side of the city to fina
 
 Grab the hidden *Health Wing*, *Potion*, and *Nugget* here. Prepare yourself for the first battle of this chapter... I wiped here on my first time! So did apparently many of the other beta testers, so don't feel too bad.
 
-**Meteor Ace Kenan. Field: No Field**
-- Leavanny, Lv. 88, @Focus Sash, Ability: Swarm, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Leaf Storm
-    - Throat Chop
-    - Sticky Web
-    - X-Scissor
-- Golem, Lv. 88, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Explosion
-    - Earthquake
-    - Rock Slide
-    - Gyro Ball
-- Purugly, Lv. 88, @Life Orb, Ability: Thick Fat, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fake Out
-    - Sucker Punch
-    - Frustration
-    - Play Rough
-- Machamp, Lv. 89, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dynamic Punch
-    - Bullet Punch
-    - Ice Punch
-    - Rock Slide
-- Volcarona, Lv. 90, @Wiki Berry, Ability: Flame Body, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Quiver Dance
-    - Fire Blast
-    - Bug Buzz
-    - Giga Drain
+!battle(["Kenan", :MeteorAceM, 1])
 
 This battle hopefully makes it apparent thanks to universal PULSE 2 how threatening the endgame will be. Even though Kenan is just a generic Meteor Ace, expect to see fights like this going forward.
 
 Grab the hidden *Purple Shard* and continue.
 
-**Meteor Ace Diana. Field: No Field**
-- Grumpig, Lv. 87, @Kasib Berry, Ability: Thick Fat, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shadow Ball
-    - Reflect
-    - Psychic
-    - Light Screen
-- Noctowl, Lv. 88, @Choice Specs, Ability: Tinted Lens, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moonblast
-    - Hurricane
-    - Psychic
-    - Heat Wave
-- Manectric, Lv. 88, @Life Orb, Ability: Lightning Rod, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Hidden Power
-    - Thunderbolt
-    - Thunder Wave
-    - Flamethrower
-- Salazzle, Lv. 89, @Black Sludge, Ability: Corrosion, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sludge Bomb
-    - Flamethrower
-    - Nasty Plot
-    - Toxic
-- Vileplume, Lv. 89, @Black Sludge, Ability: Effect Spore, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sludge Bomb
-    - Giga Drain
-    - Sleep Powder
-    - Moonblast
+!battle(["Diana", :MeteorAceF, 1])
 
 Defeat the next Meteor Ace and head up to watch the scene. Before we continue, head back up to the Pokémon Center. Up and to the right is a path to a hidden *Max Repel* and a now-opened building. Talking to Noel inside will get you the *PULSE Readout 10*.
 
@@ -109,57 +59,7 @@ Defeat the next Meteor Ace and head up to watch the scene. Before we continue, h
 
 In the bottom left side of the city, a newly-opened path will lead to a building. Inside is a double battle with Victoria as a partner.
 
-**Meteor Ace Steven and Meteor Ace Avril. Field: No Field**
-- Tyranitar, Lv. 89, @Weakness Policy, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Crunch
-    - Rock Slide
-    - Stealth Rock
-    - Aqua Tail
-- Vikavolt, Lv. 89, @Choice Specs, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Bug Buzz
-    - Energy Ball
-    - Volt Switch
-    - Flash Cannon
-- Excadrill, Lv. 89, @Chople Berry, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Drill Run
-    - Rock Slide
-    - Iron Head
-    - Swords Dance
-- Mamoswine, Lv. 89, @Life Orb, Ability: Thick Fat, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Icicle Crash
-    - Stomp Tantrum
-    - Ice Shard
-    - Rock Slide
-- Mudsdale, Lv. 90, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Close Combat
-    - High Horsepower
-    - Counter
-    - Rock Slide
-- Lumineon, Lv. 89, @Sitrus Berry, Ability: Swift Swim, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Scald
-    - Tailwind
-    - Blizzard
-    - U-turn
-- Minior, Lv. 88, @White Herb, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shell Smash
-    - Acrobatics
-    - Rock Slide
-    - Earthquake
-- Chandelure, Lv. 89, @Wise Glasses, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Heat Wave
-    - Shadow Ball
-    - Energy Ball
-    - Psychic
-- Golisopod, Lv. 89, @Muscle Band, Ability: Emergency Exit, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Liquidation
-    - First Impression
-    - Leech Life
-    - Brick Break
-- Gothitelle, Lv. 90, @Wise Glasses, Ability: Frisk, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Dark Pulse
-    - Calm Mind
-    - Thunderbolt
+!dbattle(["Steven", :MeteorAceM, 0], ["Avril", :MeteorAceF, 0])
 
 Head up and see who's in the back of this building.
 
@@ -169,32 +69,7 @@ Head up and see who's in the back of this building.
 
 Head outside and go left. Grab the hidden *Full Heal*, and *Max Potion*. Fight the next Meteor.
 
-**Meteor Ace Audrey. Field: No Field**
-- Tentacruel, Lv. 88, @Black Sludge, Ability: Clear Body, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sludge Wave
-    - Hydro Pump
-    - Giga Drain
-    - Dazzling Gleam
-- Vanilluxe, Lv. 88, @Choice Specs, Ability: Ice Body, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Blizzard
-    - Signal Beam
-    - Freeze-Dry
-    - Mirror Shot
-- Corsola, Lv. 89, @Rindo Berry, Ability: Regenerator, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Recover
-    - Scald
-    - Toxic
-    - Power Gem
-- Heracross, Lv. 89, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Swords Dance
-    - Close Combat
-    - Megahorn
-    - Throat Chop
-- Marowak, Lv. 90, @Thick Club, Ability: Battle Armor, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Bonemerang
-    - Iron Head
-    - Rock Slide
-    - Throat Chop
+!battle(["Audrey", :MeteorAceF, 1])
 
 Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
 
@@ -202,115 +77,15 @@ Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the 
 - On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
 - On Reshiram Route only, tell Amaria you don't trust her (-1 Amaria)
 
-**New World Cultist Arcturus & New World Cultist Angela. Field: No Field**
-- Lanturn, Lv. 89, @Assault Vest, Ability: Illuminate, Modest Nature, EVs: 252/252/252/252/252/252
-    - Surf
-    - Volt Switch
-    - Discharge
-    - Blizzard
-- Jolteon, Lv. 89, @Life Orb, Ability: Volt Absorb, Modest Nature, EVs: 252/252/252/252/252/252
-    - Discharge
-    - Shadow Ball
-    - Signal Beam
-    - Volt Switch
-- Vaporeon, Lv. 89, @Leftovers, Ability: Water Absorb, Modest Nature, EVs: 252/252/252/252/252/252
-    - Surf
-    - Blizzard
-    - Wish
-    - Protect
-- Drampa, Lv. 89, @Life Orb, Ability: Berserk, Modest Nature, EVs: 252/252/252/252/252/252
-    - Heat Wave
-    - Blizzard
-    - Surf
-    - Hyper Voice
-- Goodra, Lv. 89, @Wide Lens, Ability: Gooey, Mild Nature, EVs: 252/252/252/252/252/252
-    - Muddy Water
-    - Blizzard
-    - Power Whip
-    - Fire Blast
-- Cacturne, Lv. 89, @Life Orb, Ability: Water Absorb, Adamant Nature, EVs: 252/252/252/252/252/252
-    - Seed Bomb
-    - Sucker Punch
-    - Swords Dance
-    - Brick Break
-- Sylveon, Lv. 89, @Leftovers, Ability: Pixilate, Bold Nature, EVs: 252/252/252/252/252/252
-    - Hyper Voice
-    - Psyshock
-    - Wish
-    - Protect
-- Florges, Lv. 89, @Leftovers, Ability: Symbiosis, Bold Nature, EVs: 252/252/252/252/252/252
-    - Synthesis
-    - Dazzling Gleam
-    - Light Screen
-    - Energy Ball
+!dbattle(["Arcturus", :NWCultist, 2], ["Angela", :NWCultistF, 1])
 
 After you defeat them, grab the hidden *Revive* and *Ice Heal*. Enter the nearby building. Follow the path inside.
 
-**Techie Deryl and Techie Naoman. Field: No Field**
-- Trevenant, Lv. 88, @Life Orb, Ability: Natural Cure, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Drain Punch
-    - Horn Leech
-    - Shadow Claw
-    - Rock Slide
-- Vikavolt, Lv. 89, @Choice Specs, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Energy Ball
-    - Thunderbolt
-    - Flash Cannon
-    - Bug Buzz
-- Reuniclus, Lv. 89, @Leftovers, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Thunder
-    - Recover
-    - Calm Mind
-- Zoroark, Lv. 88, @Choice Scarf, Ability: Illusion, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dark Pulse
-    - Shadow Ball
-    - Focus Blast
-    - Trick
-- Grumpig, Lv. 89, @Light Clay, Ability: Thick Fat, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shadow Ball
-    - Light Screen
-    - Focus Blast
-    - Psychic
-- Magnezone, Lv. 89, @Choice Specs, Ability: Sturdy, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Thunderbolt
-    - Flash Cannon
-    - Signal Beam
-    - Hidden Power
+!battle(["Deryl", :TechNerd, 3], ["Naoman", :TechNerd, 3])
 
 Head up the ladder prepared for a tough battle.
 
-**Meteor Grunt Zero (2x Full Restore). Field: No Field**
-- Spiritomb, Lv. 92, @Black Glasses, Ability: Pressure, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Will-O-Wisp
-    - Pursuit
-    - Shadow Sneak
-    - Foul Play
-- Houndoom, Lv. 92, @Focus Sash, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Flamethrower
-    - Dark Pulse
-    - Nasty Plot
-    - Sludge Bomb
-- Honchkrow, Lv. 93, @Life Orb, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Superpower
-    - Brave Bird
-    - Sucker Punch
-    - Night Slash
-- Weavile, Lv. 93, @Life Orb, Ability: Pickpocket, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Knock Off
-    - Icicle Crash
-    - Ice Shard
-    - Brick Break
-- Umbreon, Lv. 94, @Leftovers, Ability: Synchronize, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Wish
-    - Protect
-    - Toxic
-    - Foul Play
-- PULSE Clawitzer, Lv. 95, @Wise Glasses, Ability: Contrary, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Overheat
-    - Origin Pulse
-    - Draco Meteor
-    - Fleur Cannon
+!battle(["Zero", :ZEL2, 0])
 
 No field to worry about this time, just a fantastically put together mono-dark team of five with a PULSE monstrosity hiding in the back. Defeating Luna in the Glass Gauntlet should be adequate preparation for Zero's Pokémon: by now the core of Honchkrow, Weavile, and Umbreon should be familiar. Abusing Sucker Punch timing or faster priority to prevent a Honchkrow sweep, surviving a Weavile Ice Shard to kill it with something faster, and using a bulky Steel type to counter Umbreon are good places to start with these. Spiritomb plays a similar role to Umbreon, being bulky and punishing your physical attackers, but isn't too intense and can't do much to your own physical walls. Houndoom has a sash and likes to set up but isn't too bulky, meaning you can dent it then knock it out with some priority if you are able.
 
@@ -370,42 +145,7 @@ Back in the main hallway, proceed to the right until you come to a four-way junc
 
 Head back down to the LCCC, this time, going right at the four-way junction. Grab the hidden *Ultra Potion* and *Friend Ball* along the path, and prepare before proceeding. Time for yet another PULSE fight...
 
-**Master Mime and Dr. Sigmund Connal. Field: Short-Circuit Field**
-- PULSE Mr. Mime, Lv. 100, @Leftovers, Ability: Wonder Guard, Careful Nature, IVs: 31, EVs: 236/0/16/0/252/0
-    - Instruct
-    - Night Shade
-    - Moonlight
-    - Entrainment
-- Aromatisse, Lv. 93, @Amplifield Rock, Ability: Aroma Veil, Modest Nature, IVs: 31, EVs: 200/0/56/252/0/0
-    - Dazzling Gleam
-    - Psychic
-    - Flash Cannon
-    - Thunder
-- Drampa, Lv. 94, @Life Orb, Ability: Berserk, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Hyper Voice
-    - Surf
-    - Heat Wave
-    - Roost
-- Raichu-Alola, Lv. 94, @Synthetic Seed, Ability: Surge Surfer, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Volt Switch
-    - Psychic
-    - Focus Blast
-    - Discharge
-- Rotom-Frost, Lv. 94, @Icium-Z, Ability: Levitate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Discharge
-    - Shadow Ball
-    - Blizzard
-    - Foul Play
-- Alakazam, Lv. 95, @Alakazite, Ability: Synchronize, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Dazzling Gleam
-    - Psychic
-    - Signal Beam
-    - Shadow Ball
-- Electivire, Lv. 95, @Life Orb, Ability: Motor Drive, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Thunder Punch
-    - Cross Chop
-    - Earthquake
-    - Ice Punch
+!dbattle(["Mime", :MIME, 0], ["Sigmund Connal", :FRIEND, 0], "Short-Circuit Field")
 
 What a gut punch on a first playthrough - both in battle, and just in general! Ok, so the good news is: once the PULSE is dead, then you'll be able to 2v1 Sigmund's team. The bad news is, well, as you can see there are quite a lot of shenanigans going on here! The obvious one is that Mr. Mime has Wonder Guard and is Dark/Ghost type. Thankfully we're not in Gen 5 anymore and this means it's weak to Fairy type moves, but just that one type - everything else will clink off of him like an Iron Sword on an Armor Knight. On top of this, it has very high defensive stats and a healing move, meaning even if you are using Fairy-moves they may not be able to easily do the job. What's more: it also has Entrainment, and will almost always use it on Sigmund's ally Pokémon when it gets a chance, meaning Aromatisse and potentially more Pokémon will also get immunity from most moves. Although Mime has no attack power of its own, it just uses Instruct, granting Sigmund's Pokémon two uses total of his various field-boosted Electric, Ghost, and Fairy moves, so you'll likely be worn down and unable to really do anything against either Pokémon on the first attempt!
 
@@ -435,67 +175,7 @@ After a scene explaining what we're in for, well, I just hope you're ready. Note
 
 Enter your open door, prepare your team, then head in for our first fight.
 
-**Snow Angel Lumi and Sunray Eve. Field: Inverse Field**
-- Ninetales-Alola, Lv. 93, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 10, EVs: 0/0/0/252/4/252
-    - Aurora Veil
-    - Protect
-    - Icy Wind
-    - Dazzling Gleam
-- Mamoswine, Lv. 93, @Choice Band, Ability: Snow Cloak, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Icicle Crash
-    - Stealth Rock
-    - Return
-    - Earthquake
-- Lapras, Lv. 94, @Magical Seed, Ability: Water Absorb, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
-    - Blizzard
-    - Hydro Pump
-    - Psychic
-    - Dragon Pulse
-- Aurorus, Lv. 94, @Choice Specs, Ability: Snow Warning, Modest Nature, IVs: 10, EVs: 0/0/0/252/4/252
-    - Blizzard
-    - Earth Power
-    - Flash Cannon
-    - Hidden Power
-- Goodra, Lv. 94, @Assault Vest, Ability: Sap Sipper, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
-    - Dragon Pulse
-    - Muddy Water
-    - Thunderbolt
-    - Focus Blast
-- Glaceon, Lv. 95, @Magical Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 0/0/252/0/4/252
-    - Blizzard
-    - Wish
-    - Hyper Voice
-    - Helping Hand
-- Porygon2, Lv. 93, @Magical Seed, Ability: Download, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Conversion
-    - Thunderbolt
-    - Tri Attack
-    - Blizzard
-- Sigilyph, Lv. 93, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Synchronoise
-    - Tailwind
-    - Protect
-    - Energy Ball
-- Alakazam, Lv. 94, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Shadow Ball
-    - Grass Knot
-    - Dazzling Gleam
-- Reuniclus, Lv. 94, @Leftovers, Ability: Magic Guard, Modest Nature, IVs: 10, EVs: 252/0/0/252/4/0
-    - Protect
-    - Psyshock
-    - Shadow Ball
-    - Focus Blast
-- Metagross, Lv. 94, @Weakness Policy, Ability: Clear Body, Jolly Nature, IVs: 10, EVs: 0/252/0/0/4/252
-    - Meteor Mash
-    - Protect
-    - Zen Headbutt
-    - Return
-- Espeon, Lv. 95, @Normal Gem, Ability: Magic Bounce, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Shadow Ball
-    - Hyper Beam
-    - Grass Knot
+!dbattle(["Lumi", :LUMI, 0], ["Eve", :EVE, 0], "Inverse Field")
 
 Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TMs on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
 
@@ -508,73 +188,13 @@ Prepare and head in to the next fight. The following two fights are fought in a 
 
 If you're on Reshiram fight, this will be the first battle, on Zekrom, the second.
 
-**Reborn Cal. Field: Dragon's Den**
-- Magmortar, Lv. 93, @Elemental Seed, Ability: Flame Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Focus Blast
-    - Thunderbolt
-    - Lava Plume
-    - Blast Burn
-- Arcanine, Lv. 93, @Life Orb, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Extreme Speed
-    - Flare Blitz
-    - Close Combat
-    - Outrage
-- Camerupt, Lv. 93, @Elemental Seed, Ability: Magma Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Nature Power
-    - Lava Plume
-    - Earth Power
-    - Yawn
-- Kommo-o, Lv. 94, @Focus Sash, Ability: Bulletproof, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Close Combat
-    - Poison Jab
-    - Outrage
-- Charizard, Lv. 94, @Choice Scarf, Ability: Blaze, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Fire Blast
-    - Dragon Pulse
-    - Focus Blast
-    - Air Slash
-- Medicham, Lv. 95, @Medichamite, Ability: Pure Power, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Fake Out
-    - High Jump Kick
-    - Zen Headbutt
-    - Fire Punch
+!battle(["Cal", :REBORN, 3], "Dragon's Den")
 
 For our next fight with our pal Cal we get another glimpse at the Dragon's Den field, which boosts his Fire and Dragon moves and weakens your Water and Ice moves. You can still use Rock and Ground type moves to deal with his Fire types, just be careful of a Kommo-o setup and Mega Medicham. A moderately tough fight but you'll be able to figure it out!
 
 If you're on Zekrom route, you'll get this fight next, and on Reshiram route you'll get it second:
 
-**Head Instructor Florinia. Field: Glitch Field**
-- Hippowdon, Lv. 93, @Smooth Rock, Ability: Sand Stream, Impish Nature, IVs: 30, EVs: 252/252/0/0/0/4
-    - Earthquake
-    - Slack Off
-    - Stone Edge
-    - Stealth Rock
-- Torterra, Lv. 94, @Synthetic Seed, Ability: Shell Armor, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Giga Drain
-    - Leaf Storm
-    - Amnesia
-    - Nature Power
-- Ferrothorn, Lv. 94, @Assault Vest, Ability: Iron Barbs, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Explosion
-    - Hidden Power
-    - Giga Drain
-    - Nature Power
-- Sandslash, Lv. 94, @Focus Sash, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - Swords Dance
-    - Stone Edge
-    - X-Scissor
-- Tangrowth, Lv. 94, @Synthetic Seed, Ability: Regenerator, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Hidden Power
-    - Giga Drain
-    - Nature Power
-    - Rock Slide
-- Cradily, Lv. 95, @Synthetic Seed, Ability: Suction Cups, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Stockpile
-    - Giga Drain
-    - Recover
-    - Stone Edge
+!battle(["Florinia", :FLORINIA, 3], "Glitch Field")
 
 Ah, the Glitch Field makes a return. Grass and Ground types generally have pretty good synergy with this field, and again you'll see familiar strategies here like Synthetic Seed bulk and Amnesia + Leaf Storm to ignore drops. Ferrothorn and Cradily can actually use their Special Defense as an attacking stat, so be cautious of those things. As with the Terra fight, curate a team specifically for success on Glitch, and you should be able to find a way through this one.
 
@@ -600,48 +220,13 @@ Next, you'll have to defend the chest against a barrage of Pokémon and Knight t
 
 Once you make it past the challengers in the gauntlet, you'll have one more:
 
-**Pokémon Gargantuan. Field: Dragon's Den**
-- Steelix-Mega, Lv. 100, @Assault Vest, Ability: Sand Force, Adamant Nature, IVs: 31, EVs: 3252/252/4/0/252/0
-    - Earthquake
-    - Dragon Tail
-    - Fire Fang
-    - Heavy Slam
+!battle(["Gargantuan", :Steelix, 1], "Dragon's Den")
 
 This guy is bulkier than normal: the 3252 EV's in HP is not a typo. A move like Endeavor can help solve that problem if you are really stuck here.
 
 Once you beat it, the path to Saphira will open. Time for our eighteenth and final gym battle!
 
-**Keeper Saphira (3x Full Restore). Field: Dragon's Den**
-- Noivern, Lv. 95, @Elemental Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Boomburst
-    - Dragon Pulse
-    - Flamethrower
-    - Defog
-- Salamence, Lv. 96, @Focus Sash, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Dragon Claw
-    - Earthquake
-    - Fire Fang
-- Garchomp, Lv. 96, @Choice Scarf, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - Dragon Claw
-    - Poison Jab
-    - Iron Head
-- Haxorus, Lv. 95, @Focus Sash, Ability: Mold Breaker, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Poison Jab
-    - Dragon Claw
-    - Earthquake
-- Charizard, Lv. 97, @Charizardite X, Ability: Blaze, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Dragon Claw
-    - Flare Blitz
-    - Earthquake
-- Dragonite, Lv. 100, @Iapapa Berry, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/64/0/0/0/192
-    - Dragon Dance
-    - Dragon Claw
-    - Fire Punch
-    - Extreme Speed
+!battle(["Saphira", :SAPHIRA, 0], "Dragon's Den")
 
 Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokémon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokémon, as well. Garchomp will outspeed your team thanks to its Sash, and not a single Pokémon is a slacker that will let you easily set up on it.
 
@@ -653,35 +238,7 @@ Once you win, head down to the chest to get the *Treasure Badge* and *TM02 Drago
 
 Talk to Florinia back in the lobby, in the top right corner. After a long scene, Terra will delete your fonts.
 
-**M3G4 T3RR4 (3x Max Potion). Field: Glitch Field**
-- Excadrill, Lv. 96, @Life Orb, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - X-Scissor
-    - Rock Slide
-    - Swords Dance
-- Donphan, Lv. 1, @Shell Bell, Ability: Sturdy, IVs: 10
-    - Ice Shard
-    - Endeavor
-- Chansey, Lv. 96, @Eviolite, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Blizzard
-    - Thunderbolt
-    - Psychic
-    - Soft-Boiled
-- Quagsire, Lv. 97, @Synthetic Seed, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Scald
-    - Amnesia
-    - Blizzard
-    - Recover
-- Porygon-Z, Lv. 97, @Normalium-Z, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 6/0/0/252/0/252
-    - Psychic
-    - Blizzard
-    - Thunderbolt
-    - Conversion
-- Garchomp, Lv. 98, @Assault Vest, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Draco Meteor
-    - Bulldoze
-    - Stone Edge
-    - Flamethrower
+!battle(["T3RR4", :TERRA, 1], "Glitch Field")
 
 An epic meme team. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then you have FEAR Donphan hiding in the back. You can probably find a way through this one... but the fonts are gone! Better hope you know which moveslot contains which move.
 
@@ -732,37 +289,7 @@ Head up the stairs to the right and pick up the hidden *Protein*. Talk to the ma
 
 Around the outsides of this room, you can find a hidden *Ice Gem* and *Blue Shard*. By sneaking around the bottom side of the room, you'll find the first of the spirits, who we can optionally fight. I won't post detailed strategy notes for these fights: use your knowledge of the fields and the Pokémon in your roster to grasp victory!
 
-**Wandering Spirit Diana. Field: Holy Field**
-- Rotom-Wash, Lv. 95, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
-    - Hydro Pump
-    - Thunderbolt
-    - Will-O-Wisp
-    - Hidden Power
-- Alakazam, Lv. 95, @Magical Seed, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Focus Blast
-    - Shadow Ball
-    - Energy Ball
-- Serperior, Lv. 95, @Assault Vest, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Dragon Pulse
-    - Hidden Power
-    - Knock Off
-- Weavile, Lv. 95, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Taunt
-    - Ice Punch
-    - Night Slash
-    - Low Kick
-- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Dragon Claw
-    - Extreme Speed
-    - Fire Punch
-    - Rock Slide
-- Scizor, Lv. 95, @Life Orb, Ability: Technician, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Swords Dance
-    - Bullet Punch
-    - Bug Bite
-    - Quick Attack
+!battle(["Diana", :SPIRITF, 0], "Holy Field")
 
 Defeating one spirit won't appear to do much for us, but for defeating multiple, we'll be able to obtain some decent rewards later on.
 
@@ -805,37 +332,7 @@ Once you finish, talk to Cal and show him the solution. Grab the hidden *X Sp. A
 
 Be careful, as Blake will again drop Icicles on you that can harm your Pokémon. Climb the stairs to the right and follow the path to fight another spirit.
 
-**Wandering Spirit Jonathan. Field: Big Top Arena**
-- Togekiss, Lv. 95, @Synthetic Seed, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Air Slash
-    - Dazzling Gleam
-    - Heat Wave
-    - Defog
-- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
-    - Shadow Ball
-    - Heat Wave
-    - Trick Room
-    - Hidden Power
-- Talonflame, Lv. 95, @Iapapa Berry, Ability: Gale Wings, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/4/0/0/252
-    - Brave Bird
-    - Swords Dance
-    - Flare Blitz
-    - Quick Guard
-- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
-    - Mach Punch
-    - Drain Punch
-    - Knock Off
-    - Rock Slide
-- Rotom-Wash, Lv. 95, @Wiki Berry, Ability: Levitate, Quiet Nature, IVs: 31 (0 Speed), EVs: 0/0/128/252/128/0
-    - Hydro Pump
-    - Thunderbolt
-    - Will-O-Wisp
-    - Hidden Power
-- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Relaxed Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
-    - Recover
-    - Trick Room
-    - Blizzard
-    - Thunderbolt
+!battle(["Jonathan", :SPIRITM, 0], "Big Top Arena")
 
 Back down the stairs, follow the path down this time. You'll see the first railcart puzzle of this section, this one is pretty easy to get you into it.
 
@@ -872,37 +369,7 @@ Jump into this minecart to proceed to the main part of this room, then go right 
 - Jump back in the minecart, and reverse the steps until you reach the right side of the area.
 - If you'd like, cross the tracks at the gold spots on the ground, and follow the Rock Climb path for a spirit fight.
 
-**Wandering Spirit Lexi. Field: Rainbow Field**
-- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Scald
-    - Protect
-    - Encore
-    - Ice Beam
-- Lapras, Lv. 95, @Leftovers, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Waterfall
-    - Curse
-    - Avalanche
-    - Rest
-- Scizor, Lv. 95, @Focus Sash, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/100/0/0/156/0
-    - Bullet Punch
-    - Bug Bite
-    - Swords Dance
-    - Roost
-- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Quiet Nature, IVs: 31, EVs: 0/0/128/252/128/0
-    - Hurricane
-    - Superpower
-    - Thunder
-    - Roost
-- Jolteon, Lv. 95, @Choice Specs, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Thunderbolt
-    - Volt Switch
-    - Shadow Ball
-    - Hidden Power
-- Amoonguss, Lv. 95, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/176/0/80/0
-    - Spore
-    - Giga Drain
-    - Rage Powder
-    - Hidden Power
+!battle(["Lexi", :SPIRITF, 0], "Rainbow Field")
 
 Anyways,
 
@@ -930,37 +397,7 @@ Follow the opened path downward, pushing the boulder onto the pad. Going up and 
 
 Before we enter the door at the bottom, climb the rocks to the right and follow the path to another spirit.
 
-**Wandering Spirit Fezz. Field: Swamp Field**
-- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Surf
-    - Psychic
-    - Protect
-    - Icy Wind
-- Swampert, Lv. 95, @Swampertite, Ability: Torrent, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Ice Punch
-    - Waterfall
-    - Stomp Tantrum
-    - Protect
-- Ludicolo, Lv. 95, @Telluric Seed, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Surf
-    - Giga Drain
-    - Ice Beam
-    - Focus Blast
-- Aegislash, Lv. 95, @Leftovers, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Swords Dance
-    - Shadow Sneak
-    - Iron Head
-    - King's Shield
-- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Mach Punch
-    - Drain Punch
-    - Knock Off
-    - Rock Slide
-- Noivern, Lv. 95, @Telluric Seed, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Hurricane
-    - Super Fang
-    - Boomburst
-    - Taunt
+!battle(["Fezz", :SPIRITM, 0], "Swamp Field")
 
 Head back down and enter the door at the bottom. This puts us in the higher level of the previous room. Check out the map if you want, then exit through the door at the top.
 
@@ -989,37 +426,7 @@ Go right and down from the map and follow this path. At the fork, use Blast Powd
 
 Backtrack to the fork, this time going left. On the hill is a spirit.
 
-**Wandering Spirit Kamina. Field: Chess Board**
-- Alakazam, Lv. 95, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psyshock
-    - Focus Blast
-    - Shadow Ball
-    - Hidden Power
-- Honchkrow, Lv. 95, @Life Orb, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Brave Bird
-    - Superpower
-    - Sucker Punch
-    - Taunt
-- Porygon-Z, Lv. 95, @King's Rock, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Tri Attack
-    - Discharge
-    - Dark Pulse
-    - Hidden Power
-- Machamp, Lv. 95, @Assault Vest, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Stone Edge
-    - Dynamic Punch
-    - Payback
-    - Bullet Punch
-- Volcarona, Lv. 95, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/0/252/0/0/4
-    - Quiver Dance
-    - Heat Wave
-    - Bug Buzz
-    - Giga Drain
-- Garchomp, Lv. 95, @Choice Scarf, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - Outrage
-    - Poison Jab
-    - Iron Head
+!battle(["Kamina", :SPIRITM, 0], "Chess Board")
 
 Backtrack to the center of the room.
 
@@ -1027,71 +434,11 @@ Up and left from the map, you'll see another rock climb path fork. Go left first
 
 Back at the fork, cross the tracks. Follow the path to a hidden *Heart Scale* and another spirit.
 
-**Wandering Spirit Trevor. Field: Rainbow Field**
-- Rotom-Wash, Lv. 95, @Magical Seed, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
-    - Hydro Pump
-    - Thunderbolt
-    - Rain Dance
-    - Pain Split
-- Dragonite, Lv. 95, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Rock Slide
-    - Dragon Claw
-    - Fire Punch
-    - Extreme Speed
-- Infernape, Lv. 95, @Life Orb, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Heat Wave
-    - Rock Slide
-    - Close Combat
-    - Fake Out
-- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Dragon Pulse
-    - Hidden Power
-    - Sunny Day
-- Starmie, Lv. 95, @Magical Seed, Ability: Analytic, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Ice Beam
-    - Hydro Pump
-    - Thunderbolt
-    - Rapid Spin
-- Honchkrow, Lv. 95, @Life Orb, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Sucker Punch
-    - Heat Wave
-    - Brave Bird
-    - Superpower
+!battle(["Trevor", :SPIRITM, 0], "Rainbow Field")
 
 Backtrack to the center area with the map, and climb the rocks to your right. Grab the hidden *Blue Shard* and climb up to fight another spirit.
 
-**Wandering Spirit Cloud. Field: Underwater Field**
-- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Scald
-    - Toxic
-    - Haze
-    - Ice Beam
-- Tentacruel, Lv. 95, @Black Sludge, Ability: Rain Dish, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Scald
-    - Sludge Bomb
-    - Protect
-    - Rapid Spin
-- Ferrothorn, Lv. 95, @Leftovers, Ability: Iron Barbs, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
-    - Stealth Rock
-    - Power Whip
-    - Gyro Ball
-    - Leech Seed
-- Ludicolo, Lv. 95, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Surf
-    - Giga Drain
-    - Ice Beam
-    - Focus Blast
-- Kabutops, Lv. 95, @Assault Vest, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Rock Slide
-    - Stone Edge
-    - Waterfall
-    - Superpower
-- Salamence, Lv. 95, @Elemental Seed, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Rock Slide
-    - Outrage
-    - Fly
-    - Earthquake
+!battle(["Cloud", :SPIRITM, 0], "Underwater Field")
 
 Return to the center of the room, and make your way to the right. There are four minecarts here - we will need to take all four of these, though we can do it in any order. I will start by jumping in the bottom minecart.
 
@@ -1183,37 +530,7 @@ Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another 
 - Jump into the railcart on the bottom. Climb the nearby rocks to get a hidden *Red Shard*.
 - There will now be three railcarts all in the same area. Jump into the middle one to reach a spirit.
 
-**Wandering Spirit Leo. Field: Chess Board**
-- Slowking, Lv. 95, @Leftovers, Ability: Regenerator, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
-    - Ice Beam
-    - Scald
-    - Trick Room
-    - Psychic
-- Staraptor, Lv. 95, @Choice Band, Ability: Reckless, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Brave Bird
-    - Double-Edge
-    - Close Combat
-    - U-turn
-- Escavalier, Lv. 95, @King's Rock, Ability: Overcoat, Adamant Nature, IVs: 31, EVs: 128/252/0/0/128/0
-    - Swords Dance
-    - Pursuit
-    - Megahorn
-    - Knock Off
-- Tangrowth, Lv. 95, @Synthetic Seed, Ability: Regenerator, Brave Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Hidden Power
-    - Brick Break
-    - Rock Slide
-    - Power Whip
-- Eelektross, Lv. 95, @Muscle Band, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/252/128/0/128/0
-    - Coil
-    - Dragon Tail
-    - Drain Punch
-    - Thunder Punch
-- Hydreigon, Lv. 95, @Choice Specs, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Earth Power
-    - Heat Wave
-    - Dark Pulse
-    - Draco Meteor
+!battle(["Leo", :SPIRITM, 0], "Chess Board")
 
 Anyways, back to the puzzle.
 
@@ -1256,37 +573,7 @@ The next room I will call the "hub" room for now. In the hub room, climb down ei
 
 Grab the hidden *Chewing Gum*. You'll notice a rock climb path on the left side of the room - follow it to reach a spirit.
 
-**Wandering Spirit Savage. Field: Water Surface**
-- Politoed, Lv. 95, @Damp Rock, Ability: Drizzle, Bold Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Scald
-    - Protect
-    - Encore
-    - Ice Beam
-- Lapras, Lv. 95, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Waterfall
-    - Curse
-    - Avalanche
-    - Rest
-- Ludicolo, Lv. 95, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Surf
-    - Giga Drain
-    - Ice Beam
-    - Focus Blast
-- Seismitoad, Lv. 95, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Sludge Wave
-    - Earth Power
-    - Surf
-    - Focus Blast
-- Kingdra, Lv. 95, @Leftovers, Ability: Swift Swim, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Dragon Dance
-    - Substitute
-    - Waterfall
-    - Outrage
-- Gorebyss, Lv. 95, @White Herb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Surf
-    - Ice Beam
-    - Shell Smash
-    - Hidden Power
+!battle(["Savage", :SPIRITM, 0], "Water Surface")
 
 Fun fact about this one: apparently when Savage challenged the Reborn League back in the day, Shade used a Shedinja. Look at Savage's team and tell me why you think he ended up going mad.
 
@@ -1388,71 +675,11 @@ Proceed into the next room once you're done.
 
 Grab the hidden *Elemental Seed*. At the fork, go down to grab a hidden *Calcium* and fight another spirit.
 
-**Wandering Spirit Owen. Field: Desert Field**
-- Rhyperior, Lv. 95, @Leftovers, Ability: Solid Rock, Adamant Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Stealth Rock
-    - Stone Edge
-    - Ice Punch
-    - Earthquake
-- Ninetales, Lv. 95, @Air Balloon, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Role Play
-    - Heat Wave
-    - Solar Beam
-    - Dark Pulse
-- Leafeon, Lv. 95, @Life Orb, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Synthesis
-    - Dig
-    - Return
-    - Leaf Blade
-- Chandelure, Lv. 95, @Telluric Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shadow Ball
-    - Heat Wave
-    - Overheat
-    - Energy Ball
-- Charizard, Lv. 95, @Choice Scarf, Ability: Solar Power, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Dragon Pulse
-    - Solar Beam
-    - Air Slash
-    - Heat Wave
-- Sawsbuck, Lv. 95, @Choice Band, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Return
-    - Wild Charge
-    - Jump Kick
-    - Horn Leech
+!battle(["Owen", :SPIRITM, 0], "Desert Field")
 
 Head back up to the fork and go right. After a few more climbs you'll find another fork. Going straight will lead you to another spirit.
 
-**Wandering Spirit Duster. Field: Big Top Arena**
-- Conkeldurr, Lv. 95, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Mach Punch
-    - Drain Punch
-    - Bulk Up
-    - Rock Slide
-- Slowbro, Lv. 95, @Weakness Policy, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Scald
-    - Psyshock
-    - Ice Beam
-    - Slack Off
-- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shadow Ball
-    - Heat Wave
-    - Overheat
-    - Energy Ball
-- Amoonguss, Lv. 95, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/176/0/80/0
-    - Spore
-    - Giga Drain
-    - Clear Smog
-    - Hidden Power
-- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Fire Punch
-    - Ice Punch
-    - Rock Slide
-    - Earthquake
-- Gliscor, Lv. 95, @Toxic Orb, Ability: Poison Heal, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Swords Dance
-    - Earthquake
-    - Ice Fang
-    - Protect
+!battle(["Duster", :SPIRITM, 0], "Big Top Arena")
 
 Continue along the path from here. Grab the hidden *Max Ether* along the way. Exit the mountain.
 
@@ -1475,37 +702,7 @@ Continue along the path from here. Grab the hidden *Max Ether* along the way. Ex
 
 Another mostly linear path. At the fork, go left to get a hidden *Ultra Potion* and fight a spirit.
 
-**Wandering Spirit Jonah. Field: Fairy Tale Field**
-- Noivern, Lv. 95, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Boomburst
-    - Dragon Pulse
-    - Flamethrower
-    - Air Cutter
-- Chandelure, Lv. 95, @Magical Seed, Ability: Flame Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
-    - Shadow Ball
-    - Heat Wave
-    - Hidden Power
-    - Energy Ball
-- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Relaxed Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
-    - Recover
-    - Trick Room
-    - Blizzard
-    - Thunderbolt
-- Azumarill, Lv. 95, @Sitrus Berry, Ability: Huge Power, Brave Nature, IVs: 31 (0 Speed), EVs: 252/128/0/128/0/0
-    - Belly Drum
-    - Aqua Jet
-    - Play Rough
-    - Brick Break
-- Aegislash, Lv. 95, @Leftovers, Ability: Stance Change, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/128/0/128/0
-    - Sacred Sword
-    - King's Shield
-    - Shadow Sneak
-    - Rock Slide
-- Malamar, Lv. 95, @Fightinium-Z, Ability: Contrary, Brave Nature, IVs: 31 (0 Speed), EVs: 0/252/128/0/128/0
-    - Trick Room
-    - Night Slash
-    - Psycho Cut
-    - Superpower
+!battle(["Jonah", :SPIRITM, 0], "Fairy Tale Field")
 
 Back at the fork, go up and left. Grab a hidden *Ultra Ball* as you proceed. Enter the next room.
 
@@ -1513,37 +710,7 @@ Back at the fork, go up and left. Grab a hidden *Ultra Ball* as you proceed. Ent
 
 Grab a hidden *X Attack* in here. If you follow a path on the right side up and over the machines, you can find the *Gengarite* as well as another spirit.
 
-**Wandering Spirit Zippo. Field: Icy Field**
-- Gengar, Lv. 95, @Elemental Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Icy Wind
-    - Shadow Ball
-    - Focus Blast
-    - Thunderbolt
-- Dragonite, Lv. 95, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Earthquake
-    - Outrage
-    - Fire Punch
-    - Extreme Speed
-- Starmie, Lv. 95, @Elemental Seed, Ability: Analytic, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Surf
-    - Thunderbolt
-    - Rapid Spin
-- Jolteon, Lv. 95, @Elemental Seed, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Thunderbolt
-    - Signal Beam
-    - Shadow Ball
-    - Hidden Power
-- Weavile, Lv. 95, @Choice Band, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Night Slash
-    - Ice Shard
-    - Ice Punch
-    - Brick Break
-- Scizor, Lv. 95, @Choice Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - U-turn
-    - Bullet Punch
-    - Superpower
-    - Pursuit
+!battle(["Zippo", :SPIRITM, 0], "Icy Field")
 
 Head back down to the main part of the room: there is another logic puzzle waiting for us... And this one, is a doozy. If you have managed to avoid using the <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a> by now, I recommend it.
 
@@ -1574,71 +741,11 @@ Grab the hidden *Max Revive* beyond the gate and proceed to the next room.
 
 Go down the path and talk to Hardy here, and the stalactite will be dropped. Back to the left, a new path will be opened up. Left and up from here, you can get a hidden *Synthetic Seed* and fight a spirit.
 
-**Wandering Spirit Quinn. Field: Inverse Field**
-- Gengar, Lv. 95, @Focus Sash, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Icy Wind
-    - Shadow Ball
-    - Focus Blast
-    - Thunderbolt
-- Sceptile, Lv. 95, @Magical Seed, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Acrobatics
-    - Leaf Blade
-    - Rock Slide
-    - Swords Dance
-- Porygon2, Lv. 95, @Eviolite, Ability: Trace, Calm Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Toxic
-    - Thunderbolt
-    - Ice Beam
-    - Recover
-- Dragonite, Lv. 95, @Magical Seed, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Dragon Claw
-    - Dragon Dance
-    - Rock Slide
-    - Extreme Speed
-- Slowbro, Lv. 95, @Weakness Policy, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Scald
-    - Psychic
-    - Thunder Wave
-    - Slack Off
-- Infernape, Lv. 95, @Life Orb, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Heat Wave
-    - Rock Slide
-    - Mach Punch
-    - Fake Out
+!battle(["Quinn", :SPIRITM, 0], "Inverse Field")
 
 Head down from here, and you'll find yourself in the left side of this large room. Down from here you can find rocks to climb to proceed to the right. Grab a hidden *Dusk Ball* here, then go down the rocks on the bottom. The cave entrance here is just a shortcut to a previous area, so go to the right instead. Pick up the hidden *Magical Seed* and fight another spirit.
 
-**Wandering Spirit Troy. Field: Mountain Field**
-- Rotom-Wash, Lv. 95, @Wiki Berry, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/128/252/128/0
-    - Hydro Pump
-    - Thunderbolt
-    - Will-O-Wisp
-    - Hidden Power
-- Dragonite, Lv. 95, @Telluric Seed, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Rock Slide
-    - Dragon Claw
-    - Fire Punch
-    - Extreme Speed
-- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Dragon Pulse
-    - Hidden Power
-    - Sunny Day
-- Scizor, Lv. 95, @Flying Gem, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Bullet Punch
-    - U-turn
-    - Superpower
-    - Acrobatics
-- Alakazam, Lv. 95, @Life Orb, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psyshock
-    - Focus Blast
-    - Shadow Ball
-    - Hidden Power
-- Infernape, Lv. 95, @Telluric Seed, Ability: Blaze, Naive Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Heat Wave
-    - Rock Slide
-    - Close Combat
-    - Fake Out
+!battle(["Troy", :SPIRITM, 0], "Mountain Field")
 
 Make your way back to the center of the room. To the right of where Fern trapped us, climb up and grab the hidden *Muscle Wing*. Exit out to Charous Path.
 
@@ -1667,37 +774,7 @@ At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshira
 
 In here, grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before proceeding with the main path of Victory Road, there is one side area we can go to. On the right side of this room, you'll see a path that leads to the bottom right corner of the room, where you can fight a spirit.
 
-**Wandering Spirit King. Field: Desert Field**
-- Gengar, Lv. 95, @Telluric Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shadow Ball
-    - Thunderbolt
-    - Focus Blast
-    - Hidden Power
-- Lucario, Lv. 95, @Focus Sash, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Extreme Speed
-    - Crunch
-    - Swords Dance
-    - Close Combat
-- Weavile, Lv. 95, @Choice Band, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Pursuit
-    - Ice Shard
-    - Ice Punch
-    - Low Kick
-- Excadrill, Lv. 95, @Focus Sash, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Swords Dance
-    - Earthquake
-    - Brick Break
-    - Rock Slide
-- Tyranitar, Lv. 95, @Life Orb, Ability: Sand Stream, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Dragon Dance
-    - Crunch
-    - Earthquake
-    - Thunder Punch
-- Togekiss, Lv. 95, @Telluric Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Air Slash
-    - Aura Sphere
-    - Nasty Plot
-    - Roost
+!battle(["King", :SPIRITM, 0], "Desert Field")
 
 Climb the nearby rocks to enter the side area.
 
@@ -1728,37 +805,7 @@ Next, proceed through the red rock and ice bridge path that is now to your right
 
 Down and left, a new path will be opened up. Climb down onto the ice and go up to activate another Blue Crystal. Return to the left side of the room to grab the *Lucarionite* and fight another spirit.
 
-**Wandering Spirit Franz. Field: Chess Board**
-- Serperior, Lv. 95, @Light Clay, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Dragon Pulse
-    - Reflect
-    - Light Screen
-- Bisharp, Lv. 95, @Focus Sash, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Stealth Rock
-    - Dual Chop
-    - Sucker Punch
-    - Swords Dance
-- Druddigon, Lv. 95, @King's Rock, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Outrage
-    - Fire Punch
-    - Rock Slide
-    - Thunder Punch
-- Reuniclus, Lv. 95, @Synthetic Seed, Ability: Magic Guard, Quiet Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Trick Room
-    - Psychic
-    - Energy Ball
-    - Focus Blast
-- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Shadow Ball
-    - Heat Wave
-    - Trick Room
-    - Memento
-- Escavalier, Lv. 95, @King's Rock, Ability: Overcoat, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
-    - Swords Dance
-    - Iron Head
-    - Megahorn
-    - Pursuit
+!battle(["Franz", :SPIRITM, 0], "Chess Board")
 
 With that, return to the previous room.
 
@@ -1795,37 +842,7 @@ Pick up the hidden *HP Up* here. As you might expect, it's time for a larger puz
 - Activate both crystals you find in the next area. Follow the path this creates, then use the left crystal to create a new path to the left. Follow it up.
 - Push the boulder out of the way here, then activate the nearby crystal. You'll have to go down and make your way back up to the area on the left like we did before. Past the boulder, there should be a new path in the top left to follow. Down from here is a spirit.
 
-**Wandering Spirit Godot. Field: Burning Field**
-- Typhlosion, Lv. 95, @Elemental Seed, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Heat Wave
-    - Hidden Power
-    - Focus Blast
-    - Eruption
-- Feraligatr, Lv. 95, @Life Orb, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Dragon Dance
-    - Waterfall
-    - Crunch
-    - Ice Fang
-- Espeon, Lv. 95, @Elemental Seed, Ability: Magic Bounce, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Shadow Ball
-    - Hidden Power
-    - Toxic
-- Sableye, Lv. 95, @Leftovers, Ability: Prankster, Impish Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Toxic
-    - Confuse Ray
-    - Detect
-    - Taunt
-- Lucario, Lv. 95, @Elemental Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Extreme Speed
-    - Ice Punch
-    - Swords Dance
-    - Close Combat
-- Haxorus, Lv. 95, @Muscle Band, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Dual Chop
-    - Dragon Dance
-    - Earthquake
-    - Night Slash
+!battle(["Godot", :SPIRITM, 0], "Burning Field")
 
 Continuing with the puzzle:
 
@@ -1839,73 +856,13 @@ Continuing with the puzzle:
 - Again, you'll use two sets of two crystals each to maneuver through this area. You'll need to backtrack through the right side of the center for this part.
 - Creep along the right side as you go up, and grab a hidden *Purple Shard*. Before entering the cave, follow the path on the right side down to reach another spirit.
 
-**Wandering Spirit Allan. Field: Psychic Terrain**
-- Ninetales, Lv. 95, @Magical Seed, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Nasty Plot
-    - Substitute
-    - Flamethrower
-    - Solar Beam
-- Chandelure, Lv. 95, @Magical Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shadow Ball
-    - Heat Wave
-    - Pain Split
-    - Will-O-Wisp
-- Gardevoir, Lv. 95, @Magical Seed, Ability: Telepathy, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Calm Mind
-    - Thunderbolt
-    - Psychic
-    - Focus Blast
-- Milotic, Lv. 95, @Leftovers, Ability: Marvel Scale, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Rest
-    - Sleep Talk
-    - Dragon Tail
-    - Scald
-- Lilligant, Lv. 95, @Focus Sash, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Giga Drain
-    - Quiver Dance
-    - Sleep Powder
-    - Hidden Power
-- Mismagius, Lv. 95, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Nasty Plot
-    - Thunderbolt
-    - Shadow Ball
-    - Hidden Power
+!battle(["Allan", :SPIRITM, 0], "Psychic Terrain")
 
 I'm pretty sure this is the first fight in the game with natural Psychic Terrain. Thankfully it's not too crazy for now... just wait until the postgame........
 
 Anyways, return to the top right corner to enter B5F. Prepare for a fight.
 
-**Meteor Admin Sirius (2x Full Restore). Field: Dragon's Den**
-- Manectric, Lv. 97, @Manectite, Ability: Lightning Rod, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Volt Switch
-    - Overheat
-    - Snarl
-    - Discharge
-- Marowak-Alola, Lv. 97, @Thick Club, Ability: Lightning Rod, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Outrage
-    - Shadow Bone
-    - Rock Slide
-    - Flare Blitz
-- Minior, Lv. 98, @White Herb, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shell Smash
-    - Acrobatics
-    - Iron Head
-    - Rock Slide
-- Tyrantrum, Lv. 98, @Focus Sash, Ability: Rock Head, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Superpower
-    - Head Smash
-    - Dragon Claw
-    - Dragon Dance
-- Seviper, Lv. 98, @Flame Orb, Ability: Shed Skin, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sludge Bomb
-    - Giga Drain
-    - Flamethrower
-    - Sludge Wave
-- Chandelure, Lv. 100, @Elemental Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Heat Wave
-    - Energy Ball
-    - Psychic
-    - Shadow Ball
+!battle(["Sirius", :Sirius, 2], "Dragon's Den")
 
 Our final fight with this guy is a toughie, but nothing you can't handle by now. His leads employ tried-and-true double strategies in Intimidate + Lightning Rod Discharge, which can spread paralysis and prevent you from easily Earthquaking them. Tyrantrum makes amazing use of the field - as one Dragon Dance will boost it to +2, making it able to OHKO most of your Pokémon with ease. However, with good doubles strategies and/or a bit of Dragon move spam, you can surely defeat Paul from accounting.
 
@@ -1936,37 +893,7 @@ In this room, we have to use Blue Crystals to open up spots on the ice for navig
 
 Grab the hidden *Magical Seed* then enter the next ice puzzle. You'll need to first make your way to the very bottom of the ice, climb up, and activate the crystal. Before proceeding, there is a sneaky rock climb path on the right side here leading to a spirit.
 
-**Wandering Spirit Josh. Field: Big Top Arena**
-- Aerodactyl, Lv. 95, @Focus Sash, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Stealth Rock
-    - Taunt
-    - Stone Edge
-    - Earthquake
-- Espeon, Lv. 95, @Leftovers, Ability: Magic Bounce, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Psychic
-    - Calm Mind
-    - Hidden Power
-    - Wish
-- Sceptile, Lv. 95, @Synthetic Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Leaf Blade
-    - Swords Dance
-    - Dragon Claw
-    - Earthquake
-- Carracosta, Lv. 95, @White Herb, Ability: Solid Rock, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Shell Smash
-    - Stone Edge
-    - Aqua Jet
-    - Earthquake
-- Scrafty, Lv. 95, @Leftovers, Ability: Moxie, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Drain Punch
-    - Bulk Up
-    - Payback
-    - Ice Punch
-- Volcarona, Lv. 95, @Wiki Berry, Ability: Swarm, Timid Nature, IVs: 31, EVs: 252/0/252/0/0/4
-    - Bug Buzz
-    - Quiver Dance
-    - Fiery Dance
-    - Hurricane
+!battle(["Josh", :SPIRITM, 0], "Big Top Arena")
 
 Anyways, back down on the puzzle, we can now reach the top middle to activate another crystal. This lets you get to the top left and escape.
 
@@ -1985,37 +912,7 @@ Head into the next room when you're ready.
 - Tell Blake you will get in his way (-1 Blake)
 - Tell Blake you won't get in his way (+1 Blake)
 
-**Agent Blake (2x Full Restore). Field: Icy Field**
-- Starmie, Lv. 96, @Light Clay, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Surf
-    - Reflect
-    - Ice Beam
-    - Thunderbolt
-- Walrein, Lv. 97, @Leftovers, Ability: Ice Body, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Curse
-    - Yawn
-    - Waterfall
-    - Avalanche
-- Mamoswine, Lv. 97, @Elemental Seed, Ability: Snow Cloak, Adamant Nature, IVs: 25, EVs: 252/252/252/252/252/252
-    - Earthquake
-    - Knock Off
-    - Ice Shard
-    - Icicle Crash
-- Gyarados, Lv. 97, @Elemental Seed, Ability: Moxie, Adamant Nature, IVs: 25, EVs: 252/252/252/252/252/252
-    - Earthquake
-    - Stone Edge
-    - Waterfall
-    - Crunch
-- Weavile, Lv. 97, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Icicle Crash
-    - Brick Break
-    - Ice Shard
-    - Knock Off
-- Sandslash-Alola, Lv. 100, @Iapapa Berry, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Earthquake
-    - Swords Dance
-    - Icicle Crash
-    - Iron Head
+!battle(["Blake", :BLAKE, 2], "Icy Field")
 
 One more round with this guy too. Unfortunately for us, his team of Water and Ice types doesn't mess around, combining two of the best offensive types with a field effect that lets them stack speed on you, power up their attacks, neutralize Fire and Rock moves easily, and more. This time, the field isn't stacked on top of a Water Surface, so you can't burn it away. Fighting and Electric moves are generally good keys to victory for this fight, especially if you have some priority moves that help you boost your speed and Brick Break to knock out his screens.
 
@@ -2033,37 +930,7 @@ Head to the middle of the room and climb down, then activate the Green Crystal. 
 
 On the left side of the area, climb the ivy to follow the path we made earlier to a spirit.
 
-**Wandering Spirit Nate. Field: Desert Field**
-- Tyranitar, Lv. 95, @Telluric Seed, Ability: Sand Stream, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Dragon Dance
-    - Stealth Rock
-    - Earthquake
-    - Thunder Punch
-- Gengar, Lv. 95, @Life Orb, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shadow Ball
-    - Thunderbolt
-    - Destiny Bond
-    - Hidden Power
-- Lucario, Lv. 95, @Telluric Seed, Ability: Justified, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Vacuum Wave
-    - Dark Pulse
-    - Nasty Plot
-    - Aura Sphere
-- Excadrill, Lv. 95, @Telluric Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Swords Dance
-    - Earthquake
-    - X-Scissor
-    - Rock Slide
-- Garchomp, Lv. 95, @Telluric Seed, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - Dragon Claw
-    - Fire Fang
-    - Swords Dance
-- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Glare
-    - Hidden Power
-    - Dragon Tail
+!battle(["Nate", :SPIRITM, 0], "Desert Field")
 
 To defeat Fern in this room:
 
@@ -2080,37 +947,7 @@ To defeat Fern in this room:
 
 With that out of the way, now is a great chance to use the Light Shard! You can now take the long path up to the top of the room. Grab the hidden *Grass Gem*, then climb the rocks on the right side of the top of the room to reach another spirit.
 
-**Wandering Spirit Taro. Field: Ashen Beach**
-- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Crunch
-    - Rock Slide
-    - Earthquake
-    - Ice Punch
-- Mamoswine, Lv. 95, @Choice Band, Ability: Thick Fat, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Icicle Crash
-    - Earthquake
-    - Ice Shard
-    - Rock Slide
-- Excadrill, Lv. 95, @Telluric Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Swords Dance
-    - Earthquake
-    - X-Scissor
-    - Rock Slide
-- Cradily, Lv. 95, @Leftovers, Ability: Storm Drain, Calm Nature, IVs: 31, EVs: 0/0/4/252/252/0
-    - Stockpile
-    - Toxic
-    - Energy Ball
-    - Ancient Power
-- Omastar, Lv. 95, @Telluric Seed, Ability: Shell Armor, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shell Smash
-    - Hidden Power
-    - Ice Beam
-    - Scald
-- Golurk, Lv. 95, @Telluric Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Polish
-    - Dynamic Punch
-    - Earthquake
-    - Shadow Punch
+!battle(["Taro", :SPIRITM, 0])
 
 Back down the rocks, enter the door at the top.
 
@@ -2133,37 +970,7 @@ Back down the rocks, enter the door at the top.
 
 Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and the 3 *Emerald Stars*. You can also find one more spirit by climbing a hill in the middle and using the Green Crystal Key.
 
-**Wandering Spirit Tenshi. Field: Grassy Terrain**
-- Metagross, Lv. 95, @Assault Vest, Ability: Clear Body, Brave Nature, IVs: 31, EVs: 0/252/4/0/252/0
-    - Meteor Mash
-    - Bullet Punch
-    - Grass Knot
-    - Psychic
-- Serperior, Lv. 95, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Leaf Storm
-    - Hidden Power
-    - Leech Seed
-    - Substitute
-- Jolteon, Lv. 95, @Choice Specs, Ability: Volt Absorb, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Thunderbolt
-    - Volt Switch
-    - Shadow Ball
-    - Hidden Power
-- Haxorus, Lv. 95, @Elemental Seed, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Outrage
-    - Dragon Dance
-    - Earthquake
-    - Brick Break
-- Ninetales, Lv. 95, @Life Orb, Ability: Drought, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Solar Beam
-    - Hypnosis
-    - Flamethrower
-    - Psyshock
-- Salamence, Lv. 95, @Elemental Seed, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Dragon Claw
-    - Earthquake
-    - Flamethrower
+!battle(["Tenshi", :SPIRITM, 0], "Grassy Terrain")
 
 Use the warp tile to return to the hub room.
 
@@ -2181,37 +988,7 @@ Towards the top of the room, you can follow a rock climb path to the *Salamencit
 
 In the bottom left side of the room, we can access a path that takes us up some rocks and to a spirit.
 
-**Wandering Spirit Ikaru. Field: Psychic Terrain**
-- Bronzong, Lv. 95, @Leftovers, Ability: Levitate, Sassy Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Stealth Rock
-    - Toxic
-    - Gyro Ball
-    - Light Screen
-- Alakazam, Lv. 95, @Magical Seed, Ability: Magic Guard, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Focus Blast
-    - Shadow Ball
-    - Energy Ball
-- Weavile, Lv. 95, @Life Orb, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Aerial Ace
-    - Ice Punch
-    - Night Slash
-    - Low Kick
-- Mismagius, Lv. 95, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Nasty Plot
-    - Thunderbolt
-    - Shadow Ball
-    - Hidden Power
-- Dragonite, Lv. 95, @Leftovers, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Dragon Dance
-    - Dragon Claw
-    - Fire Punch
-    - Roost
-- Carracosta, Lv. 95, @White Herb, Ability: Sturdy, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Shell Smash
-    - Stone Edge
-    - Waterfall
-    - Earthquake
+!battle(["Ikaru", :IKARU, 0], "Psychic Terrain")
 
 Once you're done, enter the room at the bottom right.
 
@@ -2244,37 +1021,7 @@ Solving this thankfully isn't too bad (especially compared to the last Logic Puz
 
 Enter the next room and pick up the hidden *Full Heal*. Once you're ready for a tough fight, head up and right.
 
-**Swag Jockey Fern. Field: Crystal Cavern**
-- Rhyperior, Lv. 100, @Iapapa Berry, Ability: Solid Rock, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Drill Run
-    - Rock Tomb
-    - Stealth Rock
-    - Rock Polish
-- Haxorus, Lv. 100, @Focus Sash, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dragon Dance
-    - Outrage
-    - Rock Tomb
-    - Poison Jab
-- Scizor, Lv. 100, @Scizorite, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Bullet Punch
-    - Bug Bite
-    - Swords Dance
-    - Roost
-- Serperior, Lv. 100, @Life Orb, Ability: Contrary, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Leaf Storm
-    - Nature Power
-    - Dragon Pulse
-    - Hidden Power
-- Krookodile, Lv. 100, @Choice Scarf, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Outrage
-    - Knock Off
-    - Rock Tomb
-    - Earthquake
-- Decidueye, Lv. 100, @Decidium-Z, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Spirit Shackle
-    - Shadow Sneak
-    - Swords Dance
-    - Leaf Blade
+!battle(["Fern", :Hotshot, 7], "Crystal Cavern")
 
 One more round with our favorite Swag Jockey. His team is pimped out for maximal pain on the field, which... aside from an early game Aster & Eclipse fight and Ditto-Arceus, we haven't gotten to fight any significant trainers on. Three of his Pokémon have Rock Tomb, which gets a 2.25x power boost here and alternate hitting with Fire, Water, Grass, then Psychic sub-typing, cyclically. Any Pokémon's use of a Rock move, Multi-Attack, Strength, or Rock Climb will cause the sub-typing to move to the next, in fact. Dragon moves are also boosted here, so Haxorus (perhaps after a Dragon Dance), Krookodile (who will outspeed with its Scarf) and Serperior (perhaps after a Contrary Leaf Storm) will tear through you with theirs. Rhyperior's Rock Polish actually also boosts both attacking stats on this field, so if you can't take it out in the first turn, it might sweep you. It's also worth noting that Krookodile's Earthquake will turn the field to a Cave, where this move can now hit Flying type Pokémon you were hoping to switch in on it. Oh, and he has a Bullet Punch machine in Mega Scizor and a Z-Move 'roided Decidueye with priority.
 
@@ -2282,34 +1029,7 @@ By now, I know you can win this one! Aside from a generally well-built team, Pok
 
 Once you win, proceed to the right. Before we leave though, there is one last spirit that we can fight - hug the bottom wall as you go right to reach them. Grab the hidden *Ultra Potion* while you're here.
 
-**Wandering Spirit Saya. Field: Glitch Field**
-- Gengar, Lv. 95, @Synthetic Seed, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Thunderbolt
-    - Energy Ball
-    - Hidden Power
-- Empoleon, Lv. 95, @Life Orb, Ability: Torrent, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Aqua Jet
-    - Scald
-    - Blizzard
-    - Grass Knot
-- Ditto, Lv. 95, @Choice Scarf, Ability: Imposter, Modest Nature, IVs: 31, EVs: 252/0/0/0/0/0
-    - Transform
-- Chandelure, Lv. 95, @Synthetic Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Psychic
-    - Heat Wave
-    - Hidden Power
-    - Energy Ball
-- Tyranitar, Lv. 95, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Earthquake
-    - Stone Edge
-    - Superpower
-    - Crunch
-- Haxorus, Lv. 95, @Muscle Band, Ability: Mold Breaker, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Poison Jab
-    - Dragon Dance
-    - Earthquake
-    - Brick Break
+!battle(["Saya", :SPIRITF, 0], "Glitch Field")
 
 Make your way to the exit, grabbing the final hidden item of Victory Road... a *Blue Shard*. Exciting.
 
@@ -2335,37 +1055,7 @@ With that taken care of... that's really it. Every Pokémon, Mega Stone, Z-Cryst
 
 Enter the Charous Hall, to the right of the Pokémon Center. Reminisce on the eighteen gyms you've beaten as you head up! Once you pass into the door at the top, you'll be unable to return, so make sure you're ready.
 
-**Elite Four Wind Maiden Heather (2x Full Restore). Field: Mountain Field**
-- Crobat, Lv. 100, @Focus Sash, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - U-turn
-    - Tailwind
-    - Brave Bird
-    - Cross Poison
-- Nidoking, Lv. 100, @Life Orb, Ability: Sheer Force, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Earth Power
-    - Rock Slide
-    - Sludge Wave
-- Gyarados, Lv. 100, @Flyinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Bounce
-    - Earthquake
-    - Waterfall
-    - Stone Edge
-- Archeops, Lv. 100, @Flying Gem, Ability: Defeatist, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Tailwind
-    - Stone Edge
-    - Acrobatics
-    - Earthquake
-- Gengar, Lv. 100, @Life Orb, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Ominous Wind
-    - Icy Wind
-    - Sludge Bomb
-- Salamence, Lv. 100, @Salamencite, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Stone Edge
-    - Roost
-    - Return
-    - Earthquake
+!battle(["Heather", :HEATHER, 0], "Mountain Field")
 
 Do you remember when we fought Corey, obtained the Silver Ring, and later found five of his six Pokémon? Now we know where his Crobat went. Fittingly, Heather uses Flying and Poison type Pokémon.
 
@@ -2375,37 +1065,7 @@ It's hard to recommend changing up your team specifically for this fight, becaus
 
 Once you win, you'll get the *Ruby Ring*. Proceed to the next room.
 
-**Elite Four Tag Team Bennett & Laura (2x Full Restore). Field: Flower Garden**
-- Galvantula, Lv. 100, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sticky Web
-    - Bug Buzz
-    - Thunder
-    - Electroweb
-- Whimsicott, Lv. 100, @Synthetic Seed, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Giga Drain
-    - Hurricane
-    - Nature Power
-- Venusaur, Lv. 100, @Grassium-Z, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nature Power
-    - Sleep Powder
-    - Hidden Power
-    - Giga Drain
-- Leavanny, Lv. 100, @Synthetic Seed, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Leaf Blade
-    - Fell Stinger
-    - Knock Off
-    - Poison Jab
-- Volcarona, Lv. 100, @Synthetic Seed, Ability: Swarm, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Fiery Dance
-    - Hurricane
-    - Bug Buzz
-    - Quiver Dance
-- Lilligant, Lv. 100, @Synthetic Seed, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sleep Powder
-    - Giga Drain
-    - Growth
-    - Hidden Power
+!battle(["Bennett & Laura", :BENNETTLAURA, 0], "Flower Garden")
 
 Good news: it's not a 12v6. Bad news: Bennett and Laura use Bug and Grass types on the most broken field effect in the game that we haven't yet seen even once: Flower Garden, with natural Rain to boot. Flower Garden has 5 stages, each stage essentially being more beneficial for their team than the last. It starts at Stage 1, but the Synthetic Seeds on the leads will automatically bump it up to Stage 3. With three more seeds in the back, Venusaur's Bloom Doom, Lilligant's Growth, and three users of Nature Power which becomes Growth, the field will stage up for each. Swarm will always be on, boosting Volcarona and Galvantula's Bug Buzz, and gets an additional boost on Stages 3 and 5. If used at Stage 1 or 3, Growth will get powered up, so watch out for that. Grass moves get increasingly powerful as the stage increases, and Bug moves have boosts specifically on Stages 2 and 4. The five Synthetic Seeds also boost Special Defense and grant Ingrain, which is four times as powerful on Stage 4 specifically. Oh, and in Stages 4 and 5, Chlorophyll will always be on, meaning half of their Pokémon will consistently outspeed and destroy your team with their field-boosted moves. Lots to try to remember even though you can't access the field notes during the fight.
 
@@ -2420,34 +1080,7 @@ Perhaps you could just change the field altogether: Sun will turn the field into
 
 You'll get the *Sapphire Bracelets* for winning. Proceed to the next room, and ride the tile elevators upward.
 
-**Elite Four Agent Elias (2x Full Restore). Field: Holy Field**
-- Noivern, Lv. 100, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Boomburst
-    - Flamethrower
-    - Dragon Pulse
-    - Psychic
-- Kommo-o, Lv. 100, @Kommonium-Z, Ability: Bulletproof, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Clanging Scales
-    - Earthquake
-    - Close Combat
-    - Poison Jab
-- Dragonite, Lv. 100, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Outrage
-    - Extreme Speed
-    - Earthquake
-    - Brick Break
-- Drampa, Lv. 100, @Wiki Berry, Ability: Berserk, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Nature Power
-    - Dragon Pulse
-    - Surf
-    - Flamethrower
-- Ditto, Lv. 100, @Choice Scarf, Ability: Imposter, Timid Nature, IVs: 31, EVs: 252/0/0/0/0/0
-    - Transform
-- Kangaskhan, Lv. 100, @Kangaskhanite, Ability: Early Bird, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Power-Up Punch
-    - Earthquake
-    - Return
-    - Rock Tomb
+!battle(["Elias", :ELIAS, 0], "Holy Field")
 
 We finally get to fight Arceus' favorite holy man. He uses Normal and Dragon types on the Holy Field. Notably, Normal moves become super effective against Ghost and Dark types, and special Normal moves like Noivern's Boomburst get a power boost. Dragon and Psychic moves also get boosts, making Noivern, Kommo-o, Dragonite, and Drampa even more powerful. On the Physical side, Dragonite's Extremespeed and Mega Kangaskhan's Return also get boosted on this field. With Mega Kangaskhan's double Power-Up-Punch, Noivern's SpA boosting seed, and Kommo-o's omniboosting Z-Move, there are a lot of threats that can set up on you, making the aforementioned moves even more powerful. Oh, and he has a Choice Scarf Imposter Ditto that loves to swap in as soon as any of your sweepers set up to outspeed and kill.
 
@@ -2455,37 +1088,7 @@ There are no built in field switches for this one, but it does leave you a few g
 
 Take the *Emerald Brooch* and proceed to the next room.
 
-**Elite Four Starcrosser Anna (2x Full Restore). Field: Starlight Arena**
-- Ninetales-Alola, Lv. 100, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aurora Veil
-    - Moonblast
-    - Aurora Beam
-    - Extrasensory
-- Starmie, Lv. 100, @Magical Seed, Ability: Illuminate, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Flash Cannon
-    - Scald
-    - Thunderbolt
-- Gardevoir, Lv. 100, @Magical Seed, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Moonblast
-    - Focus Blast
-    - Signal Beam
-- Sylveon, Lv. 100, @Leftovers, Ability: Pixilate, Calm Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Swift
-    - Wish
-    - Shadow Ball
-    - Protect
-- Metagross, Lv. 100, @Metagrossite, Ability: Clear Body, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Meteor Mash
-    - Earthquake
-    - Zen Headbutt
-    - Bullet Punch
-- Jirachi, Lv. 100, @Psychium-Z, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Flash Cannon
-    - Wish
-    - Psychic
-    - Cosmic Power
+!battle(["Anna", :ANNA, 0], "Starlight Arena")
 
 The last Elite Four member is a child who will destroy your team with her Psychic and Fairy types on top of the Starlight Arena. Psychic and Fairy moves are boosted here, and Dark moves get a Fairy subtyping, taking away one of Metagross' weaknesses. There are further boosts for Ninetales' Aurora Beam, Gardevoir's Signal Beam, Starmie's Flash Cannon, Gardevoir and Ninetales' Moonblast, Sylveon's Swift, and a massive boost for Mega Metagross' Meteor Mash that shreds almost any Pokémon that doesn't resist it. Starmie with its seed and ability gets +3 SpA upon switch in, which paired with its high speed and coverage moves, means danger. Defensively, Cosmic Power and Wish are boosted, so Sylveon and Jirachi can potentially tank you. Ninetales' Aurora Veil is also always enabled.
 
@@ -2495,42 +1098,13 @@ You'll get the *Amethyst Pendant*. Proceed to the Champion room when you're read
 
 You knew this was coming:
 
-**Meteor Champion Lin (2x Full Restore). Field: No Field**
-- Ninetales-Alola, Lv. 100, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Aurora Veil
-    - Moonblast
-    - Freeze-Dry
-    - Foul Play
-- Gardevoir, Lv. 100, @Gardevoirite, Ability: Trace, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Moonblast
-    - Shadow Ball
-    - Thunderbolt
-- Garchomp, Lv. 100, @Choice Scarf, Ability: Rough Skin, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Outrage
-    - Earthquake
-    - Dragon Claw
-    - Stone Edge
-- *On Reshiram Route*: Conkeldurr, Lv. 100, @Flame Orb, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Drain Punch
-    - Mach Punch
-    - Facade
-    - Knock Off
-- *On Zekrom Route*: Togekiss, Lv. 100, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Nasty Plot
-    - Thunder Wave
-    - Air Slash
-    - Roost
-- Delphox, Lv. 100, @Choice Specs, Ability: Magician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Mystical Fire
-    - Psyshock
-    - Dazzling Gleam
-    - Shadow Ball
-- PULSE Abra, Lv. 100, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psyshock
-    - Flash Cannon
-    - Aura Sphere
-    - Shadow Ball
+**On Reshiram Route:**
+
+!battle(["Lin", :LIN, 0])
+
+**On Zekrom Route:**
+
+!battle(["Lin", :LIN, 1])
 
 So, a Champion fight. If you look carefully, you'll notice that this team is almost entirely comprised of Pokémon stolen from Lin's victims... Ninetales from Ame, Gossip Gardevoir, Garchomp from Solaris, Conkeldurr/Togekiss from Samson/Ciel, and Delphox from Ace... So that's something. No field this time, so compared to the previous four fights this one generally won't be as bad. There is PULSE Abra in the back, this time not using Hyper Beam every turn, so you have to find a way to live its high powered special moves and hit back hard after defeating the other five Pokémon. You can take out the champion, I believe in you!
 
@@ -2560,44 +1134,13 @@ A summary of the Anna Route requirements till now:
 7. Refuse to fight Taka at the WTC
 8. Allow Taka to join you in the desert
 
-If you have missed at least one of these requirements, you will have the following fight:
+**Lin Route Fight:**
 
-**Meteor Champion Lin (2x Full Restore). Field: New World**
-- Mismagius, Lv. 100, @Life Orb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dazzling Gleam
-    - Shadow Ball
-    - Power Gem
-    - Foul Play
-- Honchkrow, Lv. 100, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Night Slash
-    - Roost
-    - Brave Bird
-    - Sucker Punch
-- Clefable, Lv. 100, @Leftovers, Ability: Unaware, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Cosmic Power
-    - Moonblast
-    - Soft-Boiled
-    - Fire Blast
-- Celesteela, Lv. 100, @Leftovers, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Flamethrower
-    - Flash Cannon
-    - Giga Drain
-    - Leech Seed
-- Hydreigon, Lv. 100, @White Herb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dark Pulse
-    - Earth Power
-    - Flash Cannon
-    - Draco Meteor
-- *All 8 Requirements:* Flygon, Lv. 100, @Life Orb, Ability: Levitate, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Earth Power
-    - Draco Meteor
-    - Throat Chop
-    - Roost
-- *Missing 1+ Requirement:* PULSE Arceus, Lv. 100, @Life Orb, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moonlight
-    - Judgment
-    - Doom Desire
-    - Dark Pulse
+!battle(["Lin", :LIN, 2], "New World")
+
+**Anna Route Fight:**
+
+!battle(["Lin", :LIN, 3], "New World")
 
 If you thought Lin's earlier fight was a bit too easy... well... there's this... a fitting end to the main game of Pokémon Reborn... and it's just brutal.
 
@@ -2609,18 +1152,13 @@ As for the team itself, it's real good. Mismagius is a cruel lead, taking advant
 
 You'll notice that I haven't mentioned the puppy in the room. It seems like the route that so far is harder to get into has an easier time with this fight, and that's true... sorta. While Anna Route gets PULSE Arceus replaced by Flygon, winning the first, easier fight will actually send you right into another fight. No healing or switching your team around in between.
 
-**Mordant Urchin Lin (3x Full Restore). Field: New World**
-- Arceus, Lv. 100, @Darkinium-Z, Ability: Multitype, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moonlight
-    - Judgment
-    - Doom Desire
-    - Dark Pulse
+!battle(["Lin", :CHILDLIN, 0], "New World")
 
 So, yeah. With a 975 Base Stat Total, Perfect IVs, and a PULSE 2, no matter your route, you get to fight this thing, and if you're fighting it separately, you don't get to carry any momentum like stat boosts or hazards over from fighting the other six Pokémon. For that reason, doing the two-fight gauntlet version is strictly harder than the one-fight version, so I will give some advice for doing the gauntlet version.
 
 It's worth noting that this is actually the 9th and final Anna Route requirement:
 
-**Note: Once you win the first fight, if you lose the second fight, you will be kicked out of Anna Route.**
+**Once you win the first fight, if you lose the second fight, you will be kicked out of Anna Route.**
 
 You'll also have to fight the first New World Lin fight again, this time, it will be the version without Arceus.You can restore a backup if you want. There's actually one automatically created for you in the saves folder.
 

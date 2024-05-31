@@ -29,37 +29,7 @@ Head up and talk to the Ringmaster. Once Virizion runs off, follow it left. You'
 
 Head down and right when you're ready.
 
-**Anomaly One for All and All for One. Field: New World**
-- Cobalion, Lv. 112, @Sitrus Berry, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Secret Power
-    - Sacred Sword
-    - Volt Switch
-    - Stealth Rock
-- Terrakion, Lv. 111, @Magical Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Swords Dance
-    - Rock Slide
-    - Sacred Sword
-    - Bulldoze
-- Virizion, Lv. 112, @Magical Seed, Ability: Justified, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Sword
-    - Leaf Blade
-    - Stone Edge
-    - Swords Dance
-- Silvally, Lv. 114, @Leftovers, Ability: RKS System, Bold Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Tailwind
-    - Snarl
-    - Parting Shot
-    - Icy Wind
-- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Snarl
-    - Multi-Attack
-    - Heat Wave
-    - Rock Slide
-- Silvally, Lv. 114, @Magical Seed, Ability: RKS System, Quiet Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Snarl
-    - Multi-Attack
-    - Draco Meteor
-    - Parting Shot
+!dbattle(["One for All", :MUSKETEER1, 0], ["for One", :MUSKETEER2, 0], "New World")
 
 Ringmaster Alistasia will be your ally, meaning you do have a numbers advantage in this one. If you can keep her Primarina alive and give it Trick Room support, it can fairly easily deal with Cobalion's trio. Focus on knocking these out first since alone the Silvally trio is not very threatening.
 
@@ -86,67 +56,7 @@ But wait, there's more! Return to the New World Door in the Ruby Cave and talk t
 
 Head up when you're ready for one heck of a battle.
 
-**Anomaly Keldeo & the Spectral Swords of Justice. Field: Ashen Beach**
-- Weavile, Lv. 115, @Life Orb, Ability: Pressure, Jolly Nature, IVs: 20, EVs: 0/252/0/0/4/252
-    - Beat Up
-    - Ice Shard
-    - Brick Break
-    - Knock Off
-- Charizard, Lv. 115, @Charizardite Y, Ability: Blaze, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
-    - Beat Up
-    - Solar Beam
-    - Focus Blast
-    - Flamethrower
-- Togekiss, Lv. 115, @Choice Specs, Ability: Hustle, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
-    - Air Slash
-    - Aura Sphere
-    - Psychic
-    - Dazzling Gleam
-- Zoroark, Lv. 115, @Choice Specs, Ability: Illusion, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
-    - Focus Blast
-    - Dark Pulse
-    - Sludge Bomb
-    - Hidden Power
-- Kommo-o, Lv. 115, @Kommonium-Z, Ability: Soundproof, Timid Nature, IVs: 20, EVs: 4/0/0/252/0/252
-    - Clanging Scales
-    - Focus Blast
-    - Flash Cannon
-    - Flamethrower
-- Keldeo, Lv. 115, @Leftovers, Ability: Justified, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Surf
-    - Focus Blast
-    - Calm Mind
-    - Hidden Power
-- Cobalion, Lv. 115, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/0/0/0/4/252
-    - Stealth Rock
-    - Strength
-    - Zen Headbutt
-    - Iron Head
-- Terrakion, Lv. 115, Ability: Justified, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Earthquake
-    - Strength
-    - Rock Polish
-- Virizion, Lv. 115, Ability: Justified, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Calm Mind
-    - Focus Blast
-    - Giga Drain
-    - Hidden Power
-- Seismitoad, Lv. 115, Ability: Water Absorb, Modest Nature, IVs: 20, EVs: 252/0/0/252/4/0
-    - Muddy Water
-    - Mud Bomb
-    - Focus Blast
-    - Hidden Power
-- Vaporeon, Lv. 115, @Choice Specs, Ability: Water Absorb, Bold Nature, IVs: 20, EVs: 0/0/252/252/0/4
-    - Blizzard
-    - Muddy Water
-    - Hidden Power
-    - Shadow Ball
-- Lucario, Lv. 115, @Lucarionite, Ability: Steadfast, Timid Nature, IVs: 20, EVs: 0/0/0/252/4/252
-    - Dark Pulse
-    - Focus Blast
-    - Calm Mind
-    - Psychic
+!dbattle(["Keldeo", :KELDEO, 0], ["Swords of Justice", :MUSKETEER3, 0], "Ashen Beach")
 
 We once had an optional Victoria battle on Ashen Beach, then the Kiki fight. One of the Victory Road spirits battled on it too, but this is the fourth significant battle in the whole game here. May take a bit of time to get used to it again!
 
@@ -156,37 +66,7 @@ Afterwards, you'll be able to battle and catch **Keldeo**! Thankfully your team 
 
 If you refused to give Blake the Ruby Ring, you'll have another fight now.
 
-**Umbral Samson. Field: Ashen Beach**
-- Blaziken, Lv. 115, @Focus Sash, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Protect
-    - Flamethrower
-    - Focus Blast
-    - Hidden Power
-- Pheromosa, Lv. 115, @Life Orb, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Focus Blast
-    - Bug Buzz
-    - Ice Beam
-    - Quiver Dance
-- Gardevoir, Lv. 115, @Sitrus Berry, Ability: Synchronize, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Focus Blast
-    - Moonblast
-    - Psychic
-    - Hidden Power
-- Lopunny, Lv. 115, @Lopunnite, Ability: Cute Charm, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fake Out
-    - Strength
-    - Ice Punch
-    - Quick Attack
-- Mismagius, Lv. 115, @Colbur Berry, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Calm Mind
-    - Psychic
-    - Shadow Ball
-    - Hidden Power
-- Jynx, Lv. 115, @Choice Scarf, Ability: Oblivious, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Focus Blast
-    - Psychic
-    - Ice Beam
-    - Hidden Power
+!battle(["Samson", :UMBSAMSON, 0], "Ashen Beach")
 
 An interesting team for Samson, focusing this time on feminity in particular. Be careful of the numerous Focus Blasts, particularly on his Ultra Beast Pheromosa, which can easily set up on you. Lots of speed here so as usual I will suggest Trick Room.
 
@@ -244,37 +124,7 @@ Backtrack, then use the invisible bridges you now know about. Follow the path fr
 
 Head up, and cross the bridge to the right. You'll now notice hop platforms going up from here, so follow this path up when you're ready.
 
-**Djinn Anomaly. Field: New World**
-- Tornadus-Incarnate, Lv. 115, @Life Orb, Ability: Prankster, Hasty Nature, IVs: 23, EVs: 4/0/0/252/0/252
-    - Tailwind
-    - Superpower
-    - Hurricane
-    - Knock Off
-- Thundurus-Incarnate, Lv. 115, @Darkinium-Z, Ability: Prankster, Timid Nature, IVs: 23, EVs: 4/0/0/252/0/252
-    - Thunder Wave
-    - Nasty Plot
-    - Dark Pulse
-    - Flash Cannon
-- Landorus-Incarnate, Lv. 115, @Life Orb, Ability: Sheer Force, Naive Nature, IVs: 23, EVs: 0/252/0/4/0/252
-    - Earth Power
-    - Rock Slide
-    - Knock Off
-    - Focus Blast
-- Thundurus-Therian, Lv. 115, @Magical Seed, Ability: Volt Absorb, Modest Nature, IVs: 23, EVs: 4/0/0/252/0/252
-    - Flash Cannon
-    - Focus Blast
-    - Nasty Plot
-    - Thunderbolt
-- Tornadus-Therian, Lv. 115, @Rocky Helmet, Ability: Regenerator, Timid Nature, IVs: 23, EVs: 252/0/4/0/0/252
-    - Hurricane
-    - Heat Wave
-    - U-turn
-    - Knock Off
-- Landorus-Therian, Lv. 115, @Magical Seed, Ability: Intimidate, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
-    - Stone Edge
-    - Knock Off
-    - Brick Break
-    - Swords Dance
+!battle(["Anomaly", :GENIES, 0], "New World")
 
 Trick Room + Ice Move = Profit.
 
@@ -282,37 +132,7 @@ Once you defeat this team, the three will split up. Hopping across the rocks in 
 
 Once you're done and try to head out of this area, if you gave Blake the Ruby Ring, you'll have a battle here.
 
-**Umbral Ciel. Field: New World**
-- Archeops, Lv. 115, @Focus Sash, Ability: Defeatist, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - U-turn
-    - Ancient Power
-    - Crunch
-    - Tailwind
-- Celesteela, Lv. 115, @Magical Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Flash Cannon
-    - Leech Seed
-    - Protect
-    - Flamethrower
-- Gyarados, Lv. 115, @Darkinium-Z, Ability: Moxie, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Waterfall
-    - Crunch
-    - Stone Edge
-    - Dragon Dance
-- Zapdos, Lv. 115, @Leftovers, Ability: Static, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Volt Switch
-    - Heat Wave
-    - Ancient Power
-    - Roost
-- Pinsir, Lv. 115, @Pinsirite, Ability: Hyper Cutter, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Knock Off
-    - Close Combat
-    - Quick Attack
-    - Secret Power
-- Landorus-Incarnate, Lv. 115, @Magical Seed, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Earth Power
-    - Focus Blast
-    - Psychic
-    - Sludge Wave
+!battle(["Ciel", :UMBCIEL, 0], "New World")
 
 Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokémon but have weakened defenses. Celesteela, will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and Trick Room for this one.
 
@@ -377,37 +197,7 @@ Once you succeed at solving Smeargle's helpful instructions, enter the New World
 
 Head up when you're ready.
 
-**Anomaly Regigigas. Field: New World**
-- Stakataka, Lv. 111, @Focus Sash, Ability: Beast Boost, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Trick Room
-    - Gyro Ball
-    - Rock Slide
-    - Stealth Rock
-- Tyranitar, Lv. 112, @Tyranitarite, Ability: Sand Stream, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Dark Pulse
-    - Earth Power
-    - Rock Slide
-    - Ice Beam
-- Registeel, Lv. 114, @Magical Seed, Ability: Clear Body, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
-    - Seismic Toss
-    - Protect
-    - Toxic
-    - Rest
-- Regirock, Lv. 114, @Choice Band, Ability: Clear Body, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Hammer Arm
-    - Rock Slide
-    - Fire Punch
-    - Stomp Tantrum
-- Regice, Lv. 114, @Choice Specs, Ability: Clear Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/4/0
-    - Blizzard
-    - Ancient Power
-    - Thunderbolt
-    - Signal Beam
-- Regigigas, Lv. 114, @Magical Seed, Ability: Slow Start, Naughty Nature, IVs: 31, EVs: 0/252/252/252/252/252
-    - Knock Off
-    - Rock Slide
-    - Nature Power
-    - Secret Power
+!battle(["Regigigas", :REGIGIGAS, 0], "New World")
 
 This one isn't too bad really, again it's a Trick Room Team that relies entirely upon it's lead, meaning if you can prevent Trick Room, cancel it out, or stall it out, you'll be just fine. Everything is weak to Fighting type moves, too!
 
@@ -419,67 +209,7 @@ Your level cap is now Lv. 120, by the way.
 
 Back in the Nightclub, talk to Seacrest, and accept the quest. Head over to Vanhanen Castle when you're ready... Oh boy.
 
-**Umbral Radomus & Anomaly Gardevoir. Field: Chess Board**
-- Bisharp, Lv. 115, @Dread Plate, Ability: Defiant, Adamant Nature, EVs: 252/252/252/252/252/252
-    - Stealth Rock
-    - Iron Head
-    - Sucker Punch
-    - Swords Dance
-- Samurott, Lv. 115, @Expert Belt, Ability: Shell Armor, Serious Nature, EVs: 252/252/252/252/252/252
-    - Smart Strike
-    - Sacred Sword
-    - Liquidation
-    - Megahorn
-- Kartana, Lv. 115, @Life Orb, Ability: Beast Boost, Jolly Nature, EVs: 252/252/252/252/252/252
-    - Smart Strike
-    - Knock Off
-    - Brick Break
-    - Leaf Blade
-- Lopunny, Lv. 115, @Lopunnite, Ability: Limber, Adamant Nature, EVs: 252/252/252/252/252/252
-    - Fake Out
-    - Secret Power
-    - Drain Punch
-    - Power-Up Punch
-- Escavalier, Lv. 116, @King's Rock, Ability: Overcoat, Adamant Nature, EVs: 252/252/252/252/252/252
-    - Smart Strike
-    - Megahorn
-    - Fell Stinger
-    - Drill Run
-- Alakazam, Lv. 117, @Psychium-Z, Ability: Magic Guard, Timid Nature, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Calm Mind
-    - Dazzling Gleam
-    - Recover
-- Cloyster, Lv. 115, @White Herb, Ability: Skill Link, Adamant Nature, EVs: 4/252/0/0/0/252
-    - Shell Smash
-    - Icicle Spear
-    - Razor Shell
-    - Smart Strike
-- Tsareena, Lv. 115, @Assault Vest, Ability: Queenly Majesty, Adamant Nature, EVs: 252/252/0/0/4/0
-    - Play Rough
-    - Power Whip
-    - U-turn
-    - High Jump Kick
-- Aegislash, Lv. 115, @Leftovers, Ability: Stance Change, Adamant Nature, EVs: 252/252/0/0/4/0
-    - King's Shield
-    - Shadow Sneak
-    - Iron Head
-    - Swords Dance
-- Diggersby, Lv. 115, @Life Orb, Ability: Huge Power, Adamant Nature, EVs: 252/252/0/0/4/0
-    - Secret Power
-    - Rock Slide
-    - Bulldoze
-    - Gunk Shot
-- Aggron, Lv. 116, @King's Rock, Ability: Rock Head, Adamant Nature, EVs: 252/252/4/0/0/0
-    - Rock Slide
-    - Smart Strike
-    - Power-Up Punch
-    - Aqua Tail
-- Gardevoir, Lv. 117, @Gardevoirite, Ability: Synchronize, Timid Nature, EVs: 252/252/252/252/252/252
-    - Focus Blast
-    - Psychic
-    - Calm Mind
-    - Hyper Voice
+!dbattle(["Radomus", :UMBRADOMUS, 0], ["Gardevoir", :ANOMGARDEVOIR, 0], "Chess Board")
 
 12V6 NOOOOOOOOOOOOOOOOOOOOOOOO
 

@@ -43,37 +43,7 @@ Fly over to the Route 1 Nature Center, and talk to Sandy outside. We are looking
 
 Follow the path here.
 
-**Anomaly Entei. Field: New World**
-- Aromatisse, Lv. 103, @Focus Sash, Ability: Aroma Veil, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
-    - Trick Room
-    - Nasty Plot
-    - Moonblast
-    - Hidden Power
-- Ursaring, Lv. 103, @Flame Orb, Ability: Guts, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/4/0/0/0
-    - Facade
-    - Knock Off
-    - Close Combat
-    - Swords Dance
-- Vileplume, Lv. 104, @Choice Specs, Ability: Chlorophyll, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/4/0
-    - Sludge Bomb
-    - Moonblast
-    - Petal Dance
-    - Hidden Power
-- Camerupt, Lv. 104, @Cameruptite, Ability: Magma Armor, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
-    - Eruption
-    - Nature Power
-    - Earth Power
-    - Ancient Power
-- Primarina, Lv. 105, @Choice Specs, Ability: Torrent, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/4/252/0/0
-    - Moonblast
-    - Ice Beam
-    - Psychic
-    - Hydro Pump
-- Entei, Lv. 107, @Life Orb, Ability: Pressure, Naughty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Fire
-    - Stone Edge
-    - Extreme Speed
-    - Eruption
+!battle(["Entei", :ENTEI, 0], "New World")
 
 Another Trick Room oriented New World team. This time Aromatisse has a Sash, so OHKO'ing it is not an option. Thankfully, it is the only Trick Room user, meaning once the Trick Room wears off, you're good to go. Ursaring, Primarina, and especially Mega Camerupt are extremely strong under the Trick Room, so stalling it out may be ideal. Entei is last and is actually fast, so watch out for that. You can wall it out with a bulky Rock/Ground type entirely, so defeating it shouldn't be too bad.
 
@@ -107,37 +77,7 @@ Surf up. While you're going up, hug the right wall. You'll get a *Max Revive* an
 
 Head left and up for another Anomaly battle.
 
-**Anomaly Suicune. Field: Water Surface**
-- Ludicolo, Lv. 103, @Elemental Seed, Ability: Swift Swim, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Surf
-    - Giga Drain
-    - Ice Beam
-    - Synthesis
-- Alomomola, Lv. 103, @Elemental Seed, Ability: Hydration, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Rest
-    - Toxic
-    - Knock Off
-    - Soak
-- Goodra, Lv. 104, @Elemental Seed, Ability: Sap Sipper, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Muddy Water
-    - Dragon Pulse
-    - Thunderbolt
-    - Rest
-- Lapras, Lv. 104, @Elemental Seed, Ability: Hydration, Adamant Nature, IVs: 31, EVs: 0/252/252/0/0/4
-    - Waterfall
-    - Ice Shard
-    - Rest
-    - Curse
-- Vaporeon, Lv. 105, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 0/0/0/252/252/4
-    - Acid Armor
-    - Surf
-    - Ice Beam
-    - Rest
-- Suicune, Lv. 107, @Elemental Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Surf
-    - Ice Beam
-    - Calm Mind
-    - Hidden Power
+!battle(["Suicune", :SUICUNE, 0], "Water Surface")
 
 Don't worry: not all Anomalies will be on New World. Not that that makes this fight any better. All six Pokémon have Elemental Seeds, granting SpD and Aqua Ring. The team is particularly bulky, sporting all kinds of Def/SpD boosting moves, healing moves, Toxic, etc. Goodra serves as a blocker to Electric and Grass moves, too. If you are able to turn the field to Murkwater, they can't change it back, meaning all their Elemental Seeds will now Poison them, making their stall strategies much less effective. You can also use a set-up sweeper of some kind that uses Water type's weaknesses, as long as you have a strategy for Ludicolo and Goodra.
 
@@ -168,37 +108,7 @@ As you climb the stairs, hug the left wall and follow the path.
 
 !img("zcell_02.jpg")
 
-**Anomaly Raikou. Field: Mountain Field**
-- Rotom-Frost, Lv. 103, @Icium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 0/0/252/252/4/0
-    - Thunder
-    - Blizzard
-    - Hidden Power
-    - Pain Split
-- Froslass, Lv. 103, @Focus Sash, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Icy Wind
-    - Ominous Wind
-    - Spikes
-    - Thunder
-- Porygon-Z, Lv. 104, @Choice Specs, Ability: Adaptability, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Icy Wind
-    - Thunder
-    - Psyshock
-    - Tri Attack
-- Sandslash-Alola, Lv. 104, @Choice Band, Ability: Slush Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Icicle Crash
-    - Earthquake
-    - Iron Head
-- Togekiss, Lv. 105, @Leftovers, Ability: Hustle, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aura Sphere
-    - Ominous Wind
-    - Air Slash
-    - Roost
-- Raikou, Lv. 107, @Telluric Seed, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shadow Ball
-    - Thunder
-    - Aura Sphere
-    - Hidden Power
+!battle(["Raikou", :RAIKOU, 0], "Mountain Field")
 
 Rotom will usually use its Z-Move to transform the field to Snowy Mountain. You can dampen the team's strategies somewhat by preventing this from happening by OHKO'ing Rotom, if you want. These two field effects are pretty stacked, damage-wise, so read up on the Field Manual if you're stuck on it. Trick Room can also help out here, preventing Sandslash and Raikou from going on killing streaks.
 
@@ -233,37 +143,7 @@ Fly over to Coral Ward, and enter the apartment on the upper side. Talk to Danie
 
 Talk to her... and we'll have to play Simon Says. Follow the instructions that Simon says precisely, and a new door will open. Follow it.
 
-**Golem Anomaly. Field: New World**
-- Stakataka, Lv. 106, @Leftovers, Ability: Beast Boost, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Trick Room
-    - Gyro Ball
-    - Stone Edge
-    - Stealth Rock
-- Tyranitar, Lv. 107, @Darkinium-Z, Ability: Unnerve, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/0/0/0/4/252
-    - Dark Pulse
-    - Earth Power
-    - Ancient Power
-    - Ice Beam
-- Mawile, Lv. 107, @Mawilite, Ability: Hyper Cutter, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Play Rough
-    - Sucker Punch
-    - Power-Up Punch
-    - Thunder Punch
-- Regirock, Lv. 109, @Choice Band, Ability: Clear Body, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Hammer Arm
-    - Stone Edge
-    - Fire Punch
-    - Stomp Tantrum
-- Regice, Lv. 109, @Choice Specs, Ability: Clear Body, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Ice Beam
-    - Ancient Power
-    - Thunderbolt
-    - Signal Beam
-- Registeel, Lv. 109, @Magical Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Seismic Toss
-    - Protect
-    - Toxic
-    - Rest
+!battle(["Anomaly", :REGIS, 0], "New World")
 
 This team generally relies upon Stakataka's Trick Room, which can easily be shut down by OHKO'ing it. The move Earth Power can easily do the trick. Regirock and Regice eat up Physical and Special moves, holding a Band and Specs, respectively. Registeel gets an Omniboost and will try to stall you out with Toxic and Seismic Toss. The Tyranitar is a special set, benefitting from the field effect with most of its moves, and Mega Mawile rounds out the team with very strong Sucker Punch, potentially boosted by Power-Up-Punch. If you can take out the Trick Room, set up a Sweeper (ideally with a Fighting type move), and have a plan to deal with Sucker Punch, you're golden.
 

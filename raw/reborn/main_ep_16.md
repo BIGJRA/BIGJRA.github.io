@@ -1363,76 +1363,10 @@ Via following the path on the right side down, reach the large pool of water, th
 Climb the waterfall and grab the hidden *Rock Gem*. Prepare your team and talk to the invisible object at the bottom of the stairs.
 
 !dbattle(["Runaways", :KECLEONS, 0], ["Refugees", :KECLEONS, 0], "Cave Field")
-**Kecleon Refugees and Kecleon Runaways. Field: Cave Field**
-- Kecleon, Lv. 67, Serious Nature, IVs: 10
-    - Foul Play
-    - Rock Tomb
-    - Dizzy Punch
-    - Icy Wind
-- Kecleon, Lv. 65, Serious Nature, IVs: 10
-    - Shadow Sneak
-    - Ancient Power
-    - Thunder Wave
-    - Sucker Punch
-- Kecleon, Lv. 64, Serious Nature, IVs: 10
-    - Thief
-    - Rock Tomb
-    - Fake Out
-    - Drain Punch
-- Kecleon, Lv. 66, Serious Nature, IVs: 10
-    - Dizzy Punch
-    - Rock Tomb
-    - Fake Out
-    - Knock Off
-- Kecleon, Lv. 68, Serious Nature, IVs: 10
-    - Sucker Punch
-    - Rock Slide
-    - Shadow Sneak
-    - Brick Break
-- Kecleon, Lv. 69, Serious Nature, IVs: 10
-    - Rock Slide
-    - Foul Play
-    - Recover
-    - Thunderbolt
-- Kecleon, Lv. 65, Serious Nature, IVs: 10
-    - Shadow Sneak
-    - Ancient Power
-    - Stealth Rock
-    - Sucker Punch
-- Kecleon, Lv. 66, Serious Nature, IVs: 10
-    - Dizzy Punch
-    - Rock Tomb
-    - Fake Out
-    - Hidden Power
-- Kecleon, Lv. 69, Serious Nature, IVs: 10
-    - Psybeam
-    - Foul Play
-    - Recover
-    - Aerial Ace
-- Kecleon, Lv. 64, Serious Nature, IVs: 10
-    - Thief
-    - Rock Tomb
-    - Fake Out
-    - Trick Room
-- Kecleon, Lv. 67, Serious Nature, IVs: 10
-    - Foul Play
-    - Rock Slide
-    - Dizzy Punch
-    - Flamethrower
-- Kecleon, Lv. 68, Serious Nature, IVs: 10
-    - Sucker Punch
-    - Rock Slide
-    - Recover
-    - Ice Beam
 
 So yeah, you'll have to fight 12 of these guys. They're just Kecleon so there's a good chance you can just one shot all of them, especially if you're using field-boosted Rock Slide. Be careful of their types changing and the seemingly endless uses of Fake Out and Sucker Punch, however.
 
-**Purple Kecleon. Field: Cave Field**
-- Purple Kecleon, Lv. 81, @Sitrus Berry, Ability: Color Change, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Recover
-    - Drain Punch
-    - Knock Off
-    - Rock Slide
+!battle(["Kecleon", :KECLEON, 0], "Cave Field")
 
 The cherry on top is that we have to fight a custom variant Kecleon as the final Pokémon in our 13v6 gauntlet. If you use a Fighting move on it, be careful as then it will have STAB with Drain Punch. I recommend having two or three Pokémon prepared  to deal with the first doubles fight, and the rest saved up to deal with this one, just in case.
 
@@ -1484,37 +1418,7 @@ Return to Adrienn after finding as many volunteers as you like. For finding at l
 
 With that out of the way, it's time for our 14th gym battle.
 
-**Visionary Adrienn (3x Ultra Potion). Field: Misty Terrain atop Fairy Tale Field**
-- Granbull, Lv. 76, @Assault Vest, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Earthquake
-    - Close Combat
-    - Play Rough
-    - Rock Slide
-- Gardevoir, Lv. 77, @Wise Glasses, Ability: Telepathy, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Icy Wind
-    - Dazzling Gleam
-    - Psychic
-    - Focus Blast
-- Togekiss, Lv. 77, @Kebia Berry, Ability: Serene Grace, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Aura Sphere
-    - Dazzling Gleam
-    - Flamethrower
-    - Psyshock
-- Whimsicott, Lv. 76, @Wide Lens, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Tailwind
-    - Hurricane
-    - Nature Power
-- Mawile, Lv. 78, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Iron Head
-    - Play Rough
-    - Rock Slide
-    - Sucker Punch
-- Florges, Lv. 84, @Leftovers, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Dazzling Gleam
-    - Hidden Power
-    - Wish
-    - Nature Power
+!battle(["Adrienn", :ADRIENN, 0], "Misty Terrain atop Fairy Tale Field")
 
 Adrienn battles us in Doubles, and their team is quite formidable. The fight will start on the Misty Terrain, which notably boosts their Dazzling Gleam offensively, and boosts the Sp. Def of all of their Pokémon by 1.5x. Combine this with two Pokémon that have Intimidate, and you'll be having a very hard time scoring knockouts. Granbull, Gardevoir, Togekiss, and the overlevelled Florges all function how you'd expect, but it's worth noting that Nature Power is activated via Prankster meaning Whimsicott can use Mist Ball with priority for free. You'll also notice that it has Tailwind - meaning it can change the field altogether to the Fairy Tale Arena, upon which all the Fairy type and Steel type attacks will be boosted and Whimsicott gets Prankster boosted Sacred Sword. Mega Mawile becomes even more of a threat as a result, as well.
 

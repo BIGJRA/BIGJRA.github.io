@@ -168,10 +168,11 @@ class TrainerGetter
     return html_output.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
   end  
 
-  def report_missing_trainers()
+  def report_missing_trainers(include_bt=false)
     puts "UNUSED TRAINER IDs: "
     @trainerHash.each do |trainer_id, _data|
       next if @trainerStore.include?(trainer_id)
+      next if !include_bt && (10..20).include?(trainer_id[2]) || (1000..9999).include?(trainer_id[2])
       p trainer_id
     end
   end

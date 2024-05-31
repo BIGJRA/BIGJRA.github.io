@@ -63,6 +63,7 @@ exclude:
   - resources/
   - TODO.md
   - requirements.txt
+  - remaining_trainers*.txt
   
 #------------------------------------------------------------------------------------#
 # BIGJRA.github.io generator functionality configuration                             #

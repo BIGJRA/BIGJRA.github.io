@@ -54,93 +54,13 @@ Outside, talk to the girl up and to the right of the SOLICE office and agree to 
 
 Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're ready.
 
-**Hard Hat Raph and Hard Hat Manwe. Field: Forest Field**
-- Scizor, Lv. 74, @Leftovers, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Cut
-    - Tailwind
-    - Bullet Punch
-    - Bug Bite
-- Samurott, Lv. 75, @Expert Belt, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Cut
-    - Liquidation
-    - Megahorn
-    - Sacred Sword
-- Heracross, Lv. 76, @Life Orb, Ability: Swarm, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Cut
-    - Megahorn
-    - Close Combat
-    - Bulldoze
-- Breloom, Lv. 78, @Telluric Seed, Ability: Technician, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Mach Punch
-    - Seed Bomb
-    - Spore
-    - Cut
-- Farfetch'd, Lv. 100, @Stick, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Leaf Blade
-    - Night Slash
-    - Brave Bird
-    - Cut
-- Bisharp, Lv. 74, @Choice Band, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Cut
-    - Sucker Punch
-    - Iron Head
-    - Poison Jab
-- Torterra, Lv. 75, @Telluric Seed, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
-    - Cut
-    - Rock Polish
-    - Earthquake
-    - Swords Dance
-- Scyther, Lv. 77, @Life Orb, Ability: Technician, Jolly Nature, IVs: 31, EVs: 6/252/0/0/0/252
-    - Cut
-    - Knock Off
-    - Bug Bite
-    - Aerial Ace
-- Hawlucha, Lv. 78, @Telluric Seed, Ability: Limber, Adamant Nature, IVs: 31, EVs: 6/252/0/0/0/252
-    - Cut
-    - Acrobatics
-    - Flying Press
-    - High Jump Kick
-- Farfetch'd, Lv. 100, @Stick, Ability: Defiant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Leaf Blade
-    - Night Slash
-    - Brave Bird
-    - Cut
+!dbattle(["Raph", :HARDHAT, 0], ["Manwe", :HARDHAT, 0], "Forest Field")
 
 Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokémon will be helpful here.
 
 Once you succeed, your next destination will be the Water Treatment Center.
 
-**Pokémon Stoplettes. Field: Factory Field**
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
-- Gulpin, Lv. 83, @Eviolite, Ability: Liquid Ooze, Impish Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Gunk Shot
-    - Pain Split
-    - Toxic
-    - Destiny Bond
+!battle(["Stoplettes", :GULPIN, 0], "Factory Field")
 
 These things are tough but a powerful Ground type sweeper can probably do the trick. Once you win, Sandy will leave.
 
@@ -209,41 +129,11 @@ I jest, but there is one more reward we can get out of doing this renovation pro
 
 Via climbing through the building as we have before, hop down a ledge at the top to reach the upper left corner of the wasteland, and enter the cave. Go left, and follow the path into a building which contains a hidden *Telluric Seed* and *Exp. Candy XL*. Proceeding left, you can enter one final section of the underground railnet. Be prepared for a mini-gauntlet.
 
-**Pokémon Refugees. Field: Cave Field**
-- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
-- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
-- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
-- Aron, Lv. 20, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
-- Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
-- Lairon, Lv. 35, @Custap Berry, Ability: Sturdy, Jolly Nature, IVs: 31
-    - Earthquake
+!battle(["Refugees", :AGGRON, 0], "Cave Field")
 
 This fight exploits the cave field to collapse in on your Pokémon - instantly KO'ing most Pokémon. The Sturdy + Custap Berry combo makes it common for each Pokémon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokémon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokémon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
 
-**Pokémon Refugees. Field: Cave Field**
-- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Rock Slide
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Telluric Seed, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Bulldoze
-- Aggron, Lv. 75, @Rockium-Z, Ability: Rock Head, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Rock Slide
-    - Bulldoze
+!battle(["Refugees", :AGGRON, 1], "Cave Field")
 
 Possibly benefitting from the collapses your team suffer in the first battle, this doubles team goes all in on a similar strategy, this time with Rock Head to prevent any of the Aggron from taking collapse damage. With their Seeds, they'll gain defense, so your physical moves won't easily take them down in time. Wide Guard is even better this time, as your second active Pokémon can then focus on knocking out the Aggron. You can also just point-blank sweep them with two Pokémon running Aura Sphere, Focus Blast, Earth Power, Surf, and the like, so that's an option too. Again Bulletproof and Rock Head trivialize this fight.
 
@@ -383,37 +273,7 @@ If you already fought Taka at the WTC, skip ahead to the next section.
 
 If you didn't fight Taka at the WTC, now will be the time to fight him!
 
-**Vagrant Scion Taka. Field: Desert Field**
-- Chatot, Lv. 83, Ability: Keen Eye, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Nasty Plot
-    - Hyper Voice
-    - Encore
-- Exeggutor-Alola, Lv. 77, Ability: Harvest, Adamant Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Nature Power
-    - Dragon Hammer
-    - Earthquake
-    - Wood Hammer
-- Klefki, Lv. 76, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Substitute
-    - Thunder Wave
-    - Swagger
-    - Foul Play
-- Gliscor, Lv. 78, @Toxic Orb, Ability: Poison Heal, Adamant Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Stealth Rock
-    - Earthquake
-    - U-turn
-    - Roost
-- Komala, Lv. 77, @Leftovers, Ability: Comatose, Careful Nature, IVs: 31, EVs: 248/0/8/0/252/0
-    - Wish
-    - Return
-    - Knock Off
-    - Bulk Up
-- Minior, Lv. 78, Ability: Shields Down, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Shell Smash
-    - Acrobatics
-    - Rock Slide
-    - Earthquake
+!battle(["Taka", :Taka, 4], "Desert Field")
 
 You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down, so this fight probably won't be too terrible for you. As always, beware of a Shell Smash Minior sweep.
 
@@ -433,6 +293,8 @@ If he does join you, you'll lose points for leaving the desert while he's with y
 
 **Relationship Point Choices:**
 - Leave the desert while Taka is your partner (-2 Taka)
+
+!partner(["Taka", :Taka2, 0])
 
 Once you make your choice, it's time to start exploring the desert...
 
@@ -1086,37 +948,7 @@ In a train car at the top of the area you can access a PC and meet Stephoscope. 
 
 More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokémon and then stole it from us. We've watched our Pokémon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokémon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the gold price for the Pokémon sixteen episodes ago. But now it's time to pay the iron price by defeating Corin Rouge once and for all.
 
-**Dashing Rogue Corin-Rouge (Ultra Potion). Field: Desert Field**
-- Klefki, Lv. 81, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Spikes
-    - Thunder Wave
-    - Swagger
-    - Foul Play
-- Cacturne, Lv. 82, @Bright Powder, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Sucker Punch
-    - Needle Arm
-    - Swords Dance
-    - Substitute
-- Liepard, Lv. 82, @Muscle Band, Ability: Limber, Adamant Nature, IVs: 31, EVs: 252/0/252/0/0/4
-    - Encore
-    - Play Rough
-    - U-turn
-    - Foul Play
-- Sandslash, Lv. 83, @Muscle Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 128/128/0/0/0/252
-    - Earthquake
-    - Swords Dance
-    - Stone Edge
-    - X-Scissor
-- Delphox, Lv. 86, @Firium-Z, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Psyshock
-    - Solar Beam
-    - Dazzling Gleam
-- Magikarp, Lv. 5, Serious Nature, IVs: 10
-    - Splash
-    - Flail
-    - Tackle
-    - Bounce
+!battle(["Corin-Rouge", :CORINROUGE, 0], "Desert Field")
 
 This cruel thief has a Z-move and some Pokémon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
 
@@ -1173,21 +1005,11 @@ Grab the hidden *Super Potion*, *Ultra Potion*, and non-hidden *Dragon Fang* in 
 
 If you're on, well, Reshiram Route, you'll get this:
 
-The Legendary Dragon. Field: Dragon's Den
-- Reshiram, Lv. 90, @Elemental Seed, Ability: Turboblaze, Timid Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Blue Flare
-    - Roost
-    - Dragon Pulse
-    - Solar Beam
+!battle(["Dragon", :STATRESHIRAM, 0], "Dragon's Den")
 
 Whereas, surprise, if you're on Zekrom Route, you'll get this:
 
-The Legendary Dragon. Field: Dragon's Den
-- Zekrom, Lv. 90, @Groundium-Z, Ability: Teravolt, Jolly Nature, IVs: 31, EVs: 252/4/0/252/0/0
-    - Bolt Strike
-    - Roost
-    - Outrage
-    - Earth Power
+!battle(["Dragon", :STATZEKROM, 0], "Dragon's Den")
 
 At least now you know why the routes are named as they are. Win your conquest with whatever clever tactics or raw strength you need to slay a dragon, and proceed.
 
@@ -1199,37 +1021,7 @@ Head up at the top to Titania's arena!
 
 Before starting the battle, you can jump into the blue hole at the top and go left from here if you want a shortcut to Train Town for some prep - there's a good chance your team won't be good enough for the upcoming gym fight. Anyways, up from here is a hole you can jump into to return to the tower. Along the way back to the gym, you'll even find a *Rare Candy*!
 
-Guardian Princess Titania (3x Ultra Potion). Field: Fairy Tale Arena (Active Hail)
-- Sandslash-Alola, Lv. 83, @Light Clay, Ability: Slush Rush, Adamant Nature, IVs: 31, EVs: 128/252/0/128/0/0
-    - Aurora Veil
-    - Icicle Crash
-    - Earthquake
-    - Iron Head
-- Empoleon, Lv. 85, @Petaya Berry, Ability: Torrent, Modest Nature, IVs: 31, EVs: 128/0/0/128/252/0
-    - Agility
-    - Scald
-    - Flash Cannon
-    - Blizzard
-- Excadrill, Lv. 86, @Magical Seed, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
-    - Sandstorm
-    - Earthquake
-    - Swords Dance
-    - Smart Strike
-- Klefki, Lv. 84, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 192/0/252/0/0/64
-    - Thunder Wave
-    - Flash Cannon
-    - Draining Kiss
-    - Calm Mind
-- Scizor, Lv. 86, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/0/252
-    - Swords Dance
-    - Roost
-    - Bullet Punch
-    - Bug Bite
-- Aegislash, Lv. 90, @Magical Seed, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - King's Shield
-    - Shadow Sneak
-    - Swords Dance
-    - Sacred Sword
+!battle(["Titania", :TITANIA1, 0], "Fairy Tale Arena")
 
 The Fairy Tale arena boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary! (just know that in previous versions the seed would also boost Attack for free...)
 
@@ -1293,78 +1085,21 @@ Take the teleporter to the gym arena and talk to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles - but she'll actually challenge you in the format opposite of what you request!
 
-**Jetsam Amaria (3x Ultra Potion). Field: Water Surface**
-- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Scald
-    - Thunderbolt
-    - Light Screen
-    - Ice Beam
-- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/4/0/252
-    - Dive
-    - Hidden Power
-    - Ice Beam
-    - Whirlpool
-- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/206/0/52
-    - Ice Beam
-    - Giga Drain
-    - Focus Blast
-    - Surf
-- Swampert, Lv. 87, @Swampertite, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Dive
-    - Earthquake
-    - Stone Edge
-    - Whirlpool
-- Kingdra, Lv. 88, @Life Orb, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/252/0/156
-    - Scald
-    - Dragon Pulse
-    - Ice Beam
-    - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Curse
-    - Rest
-    - Dive
-    - Ice Shard
+**The Singles Team:**
+
+!battle(["Amaria", :AMARIA2, 0], "Water Surface")
 
 Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokémon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokémon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-**Jetsam Amaria (3x Ultra Potion). Field: Water Surface**
-- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
-    - Shadow Ball
-    - Ice Beam
-    - Dive
-    - Surf
-- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/252/0/128
-    - Sludge Bomb
-    - Surf
-    - Earthquake
-    - Focus Blast
-- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Energy Ball
-    - Dazzling Gleam
-    - Surf
-    - Ice Beam
-- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/200/0/0
-    - Volt Switch
-    - Surf
-    - Thunderbolt
-    - Whirlpool
-- Blastoise, Lv. 88, @Blastoisinite, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aura Sphere
-    - Surf
-    - Ice Beam
-    - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/100/0
-    - Protect
-    - Rest
-    - Perish Song
-    - Surf
+**The Doubles Team:**
+
+!battle(["Amaria", :AMARIA2, 1], "Water Surface")
 
 Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise can mega-evolve, making its Aura Sphere a bit stronger and raising its stats somewhat.
 
 As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokémon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
-
 
 Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
 
@@ -1390,73 +1125,17 @@ Take the teleporter to the gym arena and talk to Titania, then to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles.
 
-**Flotsam Amaria (2x Ultra Potion). Field: Water Surface**
-- Starmie, Lv. 86, @Light Clay, Ability: Illuminate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Scald
-    - Thunderbolt
-    - Light Screen
-    - Ice Beam
-- Wishiwashi, Lv. 86, @Wiki Berry, Ability: Schooling, Modest Nature, IVs: 31, EVs: 252/0/0/4/0/252
-    - Dive
-    - Hidden Power
-    - Ice Beam
-    - Whirlpool
-- Ludicolo, Lv. 87, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 252/0/0/206/0/52
-    - Ice Beam
-    - Giga Drain
-    - Focus Blast
-    - Surf
-- Swampert, Lv. 87, @Assault Vest, Ability: Torrent, Adamant Nature, IVs: 31, EVs: 252/4/252/0/0/0
-    - Dive
-    - Earthquake
-    - Stone Edge
-    - Whirlpool
-- Kingdra, Lv. 88, @Dragonium-Z, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 100/0/0/252/0/156
-    - Scald
-    - Dragon Pulse
-    - Ice Beam
-    - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Curse
-    - Rest
-    - Dive
-    - Ice Shard
+**The Singles Team:**
+
+!battle(["Amaria", :AMARIA1, 0], "Water Surface")
 
 Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokémon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokémon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-**Flotsam Amaria (2x Ultra Potion). Field: Water Surface**
-- Vaporeon, Lv. 86, @Assault Vest, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 252/0/100/156/0/0
-    - Shadow Ball
-    - Ice Beam
-    - Dive
-    - Surf
-- Seismitoad, Lv. 86, @Life Orb, Ability: Water Absorb, Modest Nature, IVs: 31, EVs: 128/0/0/252/0/128
-    - Sludge Bomb
-    - Surf
-    - Earthquake
-    - Focus Blast
-- Primarina, Lv. 87, @Elemental Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Energy Ball
-    - Dazzling Gleam
-    - Surf
-    - Ice Beam
-- Lanturn, Lv. 87, @Assault Vest, Ability: Volt Absorb, Modest Nature, IVs: 31, EVs: 252/0/56/200/0/0
-    - Volt Switch
-    - Surf
-    - Thunderbolt
-    - Whirlpool
-- Blastoise, Lv. 88, @Fightinium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aura Sphere
-    - Surf
-    - Ice Beam
-    - Whirlpool
-- Lapras, Lv. 92, @Elemental Seed, Ability: Hydration, Calm Nature, IVs: 31, EVs: 252/0/156/0/100/0
-    - Protect
-    - Rest
-    - Perish Song
-    - Surf
+**The Doubles Team:**
+
+!battle(["Amaria", :AMARIA1, 1], "Water Surface")
 
 Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise has a Fighting type Z-move, as well.
 

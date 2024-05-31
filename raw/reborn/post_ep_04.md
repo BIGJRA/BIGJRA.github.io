@@ -109,37 +109,7 @@ Talk to your gang leader on the right side, and they'll tell you about something
 
 Surf across, push the boulder out of the way, then jump down to the basement floor. Head up once you're ready!
 
-**Anomaly Volcanion. Field: Super-Heated Field**
-- Dragonite, Lv. 120, @Light Clay, Ability: Multiscale, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Hurricane
-    - Heat Wave
-    - Reflect
-    - Light Screen
-- Tornadus-Incarnate, Lv. 120, @Telluric Seed, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Hurricane
-    - Heat Wave
-    - U-turn
-    - Tailwind
-- Volcanion, Lv. 120, @Elemental Seed, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Heat Wave
-    - Sludge Wave
-    - Steam Eruption
-    - Earth Power
-- Silvally, Lv. 120, @Steel Memory, Ability: RKS System, Serious Nature, IVs: 31, EVs: 0/252/0/252/0/4
-    - Surf
-    - Heat Wave
-    - Multi-Attack
-    - Rock Slide
-- Hydreigon, Lv. 120, @Life Orb, Ability: Levitate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Surf
-    - Dark Pulse
-    - Dragon Pulse
-- Naganadel, Lv. 120, @Choice Specs, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Sludge Wave
-    - Dragon Pulse
-    - Thunderbolt
+!battle(["Volcanion", :VOLCANION, 0], "Super-Heated Field")
 
 Another anomaly fight. If you could make it here, I'm sure this one won't be too intense. Field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, but surely you can find a way to gain momentum and win this one.
 
@@ -188,139 +158,19 @@ Once the pillar is activated, cross the bridge to the right, then again to a new
 
 Enter the New World Door at the bottom to return to the Chrysolia Deepwoods. Talk to Arclight here, then make your way through the Deepwoods to defeat the poachers. Arclight will heal you, if you need it. The first is up from Arclight:
 
-**Poacher Margo. Field: Forest Field**
-- Nidoking, Lv. 117, @Life Orb, Ability: Sheer Force, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Flamethrower
-    - Earth Power
-    - Sludge Wave
-    - Ice Beam
-- Crobat, Lv. 118, @Heat Rock, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Sunny Day
-    - U-turn
-    - Cross Poison
-    - Super Fang
-- Shiftry, Lv. 118, @Focus Sash, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Solar Beam
-    - Foul Play
-    - Focus Blast
-- Umbreon, Lv. 119, @Leftovers, Ability: Synchronize, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Moonlight
-    - Toxic
-    - Foul Play
-    - Double Team
-- Venusaur, Lv. 119, @Life Orb, Ability: Chlorophyll, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Solar Beam
-    - Sludge Wave
-    - Giga Drain
-    - Sleep Powder
-- Houndoom, Lv. 120, @Houndoominite, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dark Pulse
-    - Sunny Day
-    - Solar Beam
-    - Heat Wave
+!battle(["Margo", :POACHERF, 0], "Forest Field")
 
 The second can be found where the Reveal Glass was, on the top right side of the large structure.
 
-**Poacher Atreus. Field: Forest Field**
-- Nidoqueen, Lv. 117, @Telluric Seed, Ability: Sheer Force, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Stealth Rock
-    - Earth Power
-    - Sludge Wave
-    - Flamethrower
-- Mightyena, Lv. 118, @Choice Band, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Crunch
-    - Play Rough
-    - Foul Play
-    - Fire Fang
-- Cradily, Lv. 118, @Leftovers, Ability: Storm Drain, Careful Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Curse
-    - Recover
-    - Seed Bomb
-    - Stone Edge
-- Umbreon, Lv. 119, @Leftovers, Ability: Synchronize, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Moonlight
-    - Toxic
-    - Foul Play
-    - Double Team
-- Sceptile, Lv. 119, @Focus Sash, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Leaf Blade
-    - Acrobatics
-    - Drain Punch
-- Gengar, Lv. 120, @Gengarite, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Shadow Ball
-    - Giga Drain
-    - Sludge Bomb
-    - Focus Blast
+!battle(["Atreus", :POACHERM, 0], "Forest Field")
 
 The third can be found on top of the bridge, accessible via the bottom right side of the map.
 
-**Poacher Willow. Field: Forest Field**
-- Muk, Lv. 117, @Black Sludge, Ability: Poison Touch, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Gunk Shot
-    - Fire Punch
-    - Minimize
-    - Power-Up Punch
-- Vileplume, Lv. 118, @Choice Specs, Ability: Effect Spore, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Sludge Bomb
-    - Moonblast
-    - Hidden Power
-    - Giga Drain
-- Victreebel, Lv. 118, @Telluric Seed, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Swords Dance
-    - Nature Power
-    - Sucker Punch
-    - Strength Sap
-- Swalot, Lv. 119, @Leftovers, Ability: Sticky Hold, Impish Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Double Team
-    - Toxic
-    - Pain Split
-    - Mud-Slap
-- Weezing, Lv. 119, @Leftovers, Ability: Levitate, Calm Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Fire Blast
-    - Will-O-Wisp
-    - Pain Split
-    - Sludge Bomb
-- Absol, Lv. 120, @Absolite, Ability: Justified, Jolly Nature, IVs: 31, EVs: 4/252/0/252/0/0
-    - Play Rough
-    - Swords Dance
-    - Sucker Punch
-    - Stone Edge
+!battle(["Willow", :POACHERF, 0], "Forest Field")
 
 Head to the top right corner once you're ready to fight the Commissioner.
 
-**Commissioner Shannon. Field: Forest Field**
-- Exploud, Lv. 120, @Choice Specs, Ability: Soundproof, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Boomburst
-    - Ice Beam
-    - Focus Blast
-    - Flamethrower
-- Hippowdon, Lv. 120, @Leftovers, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Slack Off
-    - Stomp Tantrum
-    - Fire Fang
-    - Yawn
-- Mudsdale, Lv. 120, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - High Horsepower
-    - Iron Head
-    - Low Kick
-    - Rock Slide
-- Darmanitan, Lv. 120, @Choice Band, Ability: Sheer Force, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Fire Punch
-    - Rock Slide
-    - U-turn
-    - Hammer Arm
-- Marowak-Alola, Lv. 120, @Sitrus Berry, Ability: Lightning Rod, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Bonemerang
-    - Shadow Bone
-    - Stone Edge
-    - Flare Blitz
-- Sceptile, Lv. 120, @Sceptilite, Ability: Unburden, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Focus Blast
-    - Giga Drain
-    - Dragon Pulse
-    - Hidden Power
+!battle(["Shannon", :SHANNON, 0], "Forest Field")
 
 Nothing too crazy here, though there is a good mix of fast and slow, bulky and hard-hitting. Once you win, talk to **Zeraora** to obtain it! Accept the fast travel back to the Nightclub.
 
@@ -466,189 +316,39 @@ You can buy a couple more of these to make bagging the Ultra Beasts easier, if y
 
 Once the crowd clears, you can pick up a hidden *Full Restore* and *Purple Shard*. Talk to the ringmaster to get signed up for the tournament, then talk to the clowns when you're ready. It's a 3v3 tournament on random fields.
 
-**Guitarist McKrezzy. Field: Random Field**
-- Leavanny, Lv. 120, @Life Orb, Ability: Chlorophyll, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - X-Scissor
-    - Nature Power
-    - Leaf Blade
-    - Knock Off
-- Kommo-o, Lv. 120, @Kommonium-Z, Ability: Soundproof, Rash Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Clanging Scales
-    - Ice Punch
-    - Close Combat
-    - Poison Jab
-- Exploud, Lv. 120, @Life Orb, Ability: Scrappy, Modest Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Boomburst
-    - Fire Blast
-    - Surf
-    - Shadow Ball
+!battle(["McKrezzy", :MCKREZZY, 1], "Random Field")
 
 Nothing crazy here, just be careful of the Kommo-o sweep.
 
 The hidden *Max Revive* will be accessible after this one. Talk to the Ringmaster to get the next pairings.
 
-**Cheer Captain Julia. Field: Random Field**
-- Galvantula, Lv. 120, @Life Orb, Ability: Compound Eyes, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Sticky Web
-    - Thunder
-    - Bug Buzz
-    - Volt Switch
-- Rotom-Wash, Lv. 120, @Waterium-Z, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Hydro Pump
-    - Thunderbolt
-    - Will-O-Wisp
-    - Pain Split
-- Ampharos, Lv. 120, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Volt Switch
-    - Dragon Pulse
-    - Power Gem
-    - Thunder
+!battle(["Julia", :JULIA, 3], "Random Field")
 
 Especially with a non-electric Field Effect, shouldn't be too hard.
 
 The third pairing:
 
-**BreloomBot CL:4R1-C3. Field: Random Field**
-- Magnezone, Lv. 120, @Choice Specs, Ability: Magnet Pull, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Signal Beam
-    - Volt Switch
-    - Flash Cannon
-    - Thunderbolt
-- Magearna, Lv. 120, @Leftovers, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Shift Gear
-    - Dazzling Gleam
-    - Thunderbolt
-    - Flash Cannon
-- CL:4R1-C3 Breloom, Lv. 120, @Muscle Band, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Spore
-    - Magnet Bomb
-    - Shadow Punch
-    - Shift Gear
+!battle(["CL:4R1-C3", :BRELOOM, 1], "Random Field")
 
 This one is surprisingly tough. Even with a field effect that is beneficial, you still have to contend with the raw power of Magnezone, easy boosting potential of Magearna, and especially the absolute unit that is CL:4R1-C3 Breloom. Consider setting up on Magnezone somehow in order to oneshot the latter two. You can always save and reset for a more beneficial field, in a pinch.
 
-**Ringmaster Alistasia. Field: Random Field**
-- Hawlucha, Lv. 120, @Flying Gem, Ability: Unburden, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Acrobatics
-    - Swords Dance
-    - High Jump Kick
-    - Roost
-- Blaziken, Lv. 120, @Focus Sash, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Swords Dance
-    - Acrobatics
-    - Superpower
-    - Blaze Kick
-- Primarina, Lv. 120, @Primarium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Sparkling Aria
-    - Moonblast
-    - Sing
-    - Ice Beam
+!battle(["Alistasia", :RINGMASTER, 1], "Random Field")
 
 Shouldn't be too ridiculous as long as you're aware of the horrors these three are capable of.
 
 Finally, the last match is with Cass. If we pet Glaceon way back in the glass workstation, we will get to fight the first team:
 
-**Friendly Local Cass. Field: Random Field**
-- Ninetales-Alola, Lv. 120, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Aurora Veil
-    - Blizzard
-    - Moonblast
-    - Dark Pulse
-- Cinccino, Lv. 120, @Choice Band, Ability: Skill Link, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Bullet Seed
-    - Tail Slap
-    - Rock Blast
-    - Knock Off
-- Gardevoir, Lv. 120, @Gardevoirite, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Hyper Voice
-    - Psyshock
-    - Shadow Ball
-    - Thunderbolt
+!battle(["Cass", :CASS, 1], "Random Field")
 
 Nothing too impossible here. If we didn't pet Glaceon, however.......
 
-**Friendly Local Cass. Field: Random Field**
-- Naganadel, Lv. 120, @Leftovers, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Fire Blast
-    - Sludge Wave
-    - Draco Meteor
-    - U-turn
-- Necrozma-Dawn, Lv. 120, @Ultranecrozium-Z, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Photon Geyser
-    - Moongeist Beam
-    - Dragon Pulse
-    - Heat Wave
-- Rayquaza, Lv. 120, @Choice Band, Ability: Air Lock, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Dragon Ascent
-    - Extreme Speed
-    - V-create
-    - Outrage
+!battle(["Cass", :CASS, 2], "Random Field")
 
 Ouch. Win however you can, but you deserve this.
 
 Talk to the Ringmaster once you're done, and Meloetta will run over to the battle wheel.
 
-**Anomaly Meloetta & Her Multilyrical Melody. Field: Random Field**
-- Malamar, Lv. 120, @Amplifield Rock, Ability: Contrary, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Topsy-Turvy
-    - Superpower
-    - Knock Off
-    - Psycho Cut
-- Articuno, Lv. 120, @Choice Specs, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Blizzard
-    - Signal Beam
-    - Hidden Power
-    - Hurricane
-- Abomasnow, Lv. 120, @Abomasite, Ability: Snow Warning, Modest Nature, IVs: 31, EVs: 252/0/4/0/0/252
-    - Blizzard
-    - Giga Drain
-    - Focus Blast
-    - Hyper Beam
-- Malamar, Lv. 120, @Amplifield Rock, Ability: Contrary, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Topsy-Turvy
-    - Superpower
-    - Knock Off
-    - Psycho Cut
-- Ninetales-Alola, Lv. 120, @Eject Button, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Aurora Veil
-    - Blizzard
-    - Moonblast
-    - Dark Pulse
-- Meloetta-Aria, Lv. 120, @Leftovers, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Energy Ball
-    - Hyper Voice
-    - Psyshock
-    - Dazzling Gleam
-- Furret, Lv. 120, @Magical Seed, Ability: Run Away, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Follow Me
-    - Power-Up Punch
-    - Baton Pass
-    - Amnesia
-- Celebi, Lv. 120, @Magical Seed, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Giga Drain
-    - Psychic
-    - Earth Power
-    - Baton Pass
-- Blaziken, Lv. 120, @Magical Seed, Ability: Speed Boost, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Baton Pass
-    - Acrobatics
-    - Brick Break
-    - Poison Jab
-- Glaceon, Lv. 120, @Magical Seed, Ability: Snow Cloak, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Blizzard
-    - Signal Beam
-    - Hyper Voice
-    - Baton Pass
-- Absol, Lv. 120, @Absolite, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Knock Off
-    - Superpower
-    - Sucker Punch
-    - Baton Pass
-- Meloetta-Pirouette, Lv. 120, @Magical Seed, Ability: Serene Grace, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Acrobatics
-    - Close Combat
-    - Return
-    - Thunder Punch
+!dbattle(["Meloetta", :MELOETTA, 0], ["Multilyrical Melody", :ANTICS, 0], "Random Field")
 
 Another 12v6. Oh boy. Although the field is random, there is a good chance that one of the Malamars will try to use Topsy-Turvy, transforming the field into Inverse Field. Just like on New World, that will activate all of the Magical Seeds, turning them into omniboosts. On top of the fact that they have lots of coverage in the types made extra good on this field - Ice, Bug, etc., means you'll be taking a lot of damage real fast. Either you can try to roll with this field, bringing moves that will be able to hit super effectively on Inverse, or you can suppress it by knocking out both Malamar's before it's too late. This can be especially beneficial if you end up on a field effect that your team likes and you want to preserve it. Otherwise, standard doubles strategies you've surely had to learn by now will hopefully net you the win eventually.
 
@@ -734,179 +434,29 @@ Climb through the New World Door to emerge next to the Pokémon League. If Taka 
 
 Give the Fresh Water to Celebi. In the past, talk to Taube at the top for a battle.
 
-**Guiding Star Taube. Field: Holy Field**
-- Furret, Lv. 120, @Focus Sash, Ability: Keen Eye, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Follow Me
-    - Toxic
-    - Super Fang
-    - Return
-- Bibarel, Lv. 120, @Life Orb, Ability: Simple, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Swords Dance
-    - Aqua Jet
-    - Quick Attack
-    - Bulldoze
-- Lucario, Lv. 120, @Lucarionite, Ability: Inner Focus, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Bullet Punch
-    - Extreme Speed
-    - Vacuum Wave
-    - Power-Up Punch
-- Ribombee, Lv. 120, @Magical Seed, Ability: Shield Dust, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Pollen Puff
-    - Dazzling Gleam
-    - Nature Power
-    - Quiver Dance
-- Chatot, Lv. 120, @Magical Seed, Ability: Tangled Feet, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Boomburst
-    - Nasty Plot
-    - Heat Wave
-    - Protect
-- Garchomp, Lv. 120, @Rocky Helmet, Ability: Rough Skin, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Dragon Claw
-    - Earthquake
-    - Rock Slide
-    - Swords Dance
+!battle(["Taube", :TAUBE, 0], "Holy Field")
 
 Ame made Bibarel competent! Nothing too crazy here though, basically a Doubles version of Elias' Elite Four fight, with 100% less Ditto. Trick Room works wonders here... as expected.
 
-**Anomaly Celebi. Field: Flower Garden Field**
-- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Jolly Nature, IVs: 31, EVs: 4/0/252/0/0/252
-    - Spore
-    - Nature Power
-    - Baton Pass
-    - Leaf Blade
-- Celebi, Lv. 120, @Big Root, Ability: Natural Cure, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Leech Life
-    - Horn Leech
-    - Drain Punch
-    - Ingrain
-- Celebi, Lv. 120, @Big Root, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Oblivion Wing
-    - Giga Drain
-    - Parabolic Charge
-    - Ingrain
-- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nature Power
-    - Infestation
-    - Flamethrower
-    - Energy Ball
-- Celebi, Lv. 120, @Choice Scarf, Ability: Natural Cure, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Trick
-    - Sleep Powder
-    - Secret Power
-    - Fire Lash
-- Celebi, Lv. 120, @Synthetic Seed, Ability: Natural Cure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Photon Geyser
-    - Fusion Flare
-    - Energy Ball
-    - Sleep Powder
+!battle(["Celebi", :CELEBI, 0], "Flower Garden")
 
 A bunch of illegal Celebi on the most broken field in the game. Joy. Plus, the first Celebi in particular is extremely annoying, with speedy Spore and moves to boost and grow the field. That said, you still are facing six Pokémon with the exact same weaknesses, including a double weakness to Bug. A Chesto Berry to deal with Spore, a speed boosting move, and a strong Bug type move like TM X-Scissor are pretty much all you'll need!
 
 Talk to Celebi to jump into the future.
 
-**Elite Four Skyspectre Elena. Field: Mountain Field**
-- Drifblim, Lv. 120, @Sitrus Berry, Ability: Unburden, Timid Nature, IVs: 31, EVs: 4/0/252/0/252/0
-    - Tailwind
-    - Thunder
-    - Ominous Wind
-    - Icy Wind
-- Dragonite, Lv. 120, @Light Clay, Ability: Multiscale, Jolly Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Light Screen
-    - Reflect
-    - Thunder Wave
-    - Dragon Claw
-- Marowak-Alola, Lv. 120, @Assault Vest, Ability: Rock Head, Adamant Nature, IVs: 31, EVs: 0/252/252/0/4/0
-    - Shadow Bone
-    - Earthquake
-    - Fire Punch
-    - Iron Head
-- Aerodactyl, Lv. 120, @Choice Band, Ability: Pressure, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Iron Head
-    - Double-Edge
-    - Crunch
-- Decidueye, Lv. 120, @Life Orb, Ability: Long Reach, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Shadow Sneak
-    - Brave Bird
-    - Leaf Blade
-    - Nature Power
-- Salamence, Lv. 120, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Hyper Voice
-    - Twister
-    - Ominous Wind
+!battle(["Elena", :ELENA, 0], "Mountain Field")
 
 Very similar to Heather's Elite Four battle, Elena also uses the Mountain Field and Tailwind to set up Strong Winds, neutralizing Flying's weaknesses. Dragonite likes to set screens - on top of Multiscale, this makes it annoyingly tanky, so consider Brick Break for this fight. Trick Room is good as usual, and turning the field into a Snowy Mountain can allow you to overpower with Ice moves. Just watch out for Marowak in both cases. Anyways, lots of options to win this one.
 
 Talk to Celebi to proceed to the next area.
 
-**League Manager Amethyst. Field: Starlight Arena**
-- Ninetales-Alola, Lv. 120, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Aurora Veil
-    - Moonblast
-    - Aurora Beam
-    - Extrasensory
-- Lopunny, Lv. 120, @Lopunnite, Ability: Limber, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Cosmic Power
-    - Power-Up Punch
-    - Return
-    - Drain Punch
-- Sylveon, Lv. 120, @Leftovers, Ability: Pixilate, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Wish
-    - Protect
-    - Swift
-    - Yawn
-- Primarina, Lv. 120, @Assault Vest, Ability: Torrent, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Moonblast
-    - Sparkling Aria
-    - Hyper Voice
-    - Psychic
-- Whimsicott, Lv. 120, @Leftovers, Ability: Prankster, Bold Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Substitute
-    - Leech Seed
-    - Moonblast
-    - Encore
-- Absol, Lv. 120, @Darkinium-Z, Ability: Super Luck, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Sucker Punch
-    - Swords Dance
-    - Night Slash
-    - Psycho Cut
+!battle(["Amethyst", :AME, 0], "Starlight Arena")
 
 I wonder if Amethyst likes Alolan Ninetales? And Fairy and Dark types? Boosted on the Starlight Arena? With the wrinkle of Mega Lopunny to consider, this shouldn't be too insane for anyone who could beat Anna earlier.
 
 Celebi will take you ahead in time once more.
 
-**Reborn Champion Shelly. Field: Fairy Tale Field**
-- Muk-Alola, Lv. 120, @Magical Seed, Ability: Power Of Alchemy, Careful Nature, IVs: 31, EVs: 0/252/0/0/252/4
-    - Acid Armor
-    - Crunch
-    - Poison Jab
-    - Power-Up Punch
-- Scizor, Lv. 120, @Scizorite, Ability: Technician, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Swords Dance
-    - Roost
-    - Bullet Punch
-    - Night Slash
-- Yanmega, Lv. 120, @Life Orb, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Detect
-    - Bug Buzz
-    - Air Slash
-    - Hidden Power
-- Primarina, Lv. 120, @Primarium-Z, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Sparkling Aria
-    - Moonblast
-    - Amnesia
-    - Substitute
-- Xerneas, Lv. 120, @Power Herb, Ability: Fairy Aura, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Moonblast
-    - Geomancy
-    - Nature Power
-    - Focus Blast
-- Leavanny, Lv. 120, @Magical Seed, Ability: Overcoat, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Slash
-    - Leaf Blade
-    - X-Scissor
+!battle(["Shelly", :FUTURESHELLY, 0], "Fairy Tale Field")
 
 What would be a gauntlet of four trainers without healing or switching your Pokémon without a Champion fight at the end? At this point in the game, her Yanmega, Leavanny, and Primarina are nothing we can't handle. Alolan Muk gets free defenses on this field thanks to its ability, and can boost its Atk and Def further on its free first turn from seed. Then there are the two demons. Mega Scizor is, by now, at least a known demon. It can boost to +3 with Swords Dance then hit like an absolute menace with Bullet Punch. The first time we have to fight a Xerneas is here however... and there's a reason this thing is regarded as so good. If you're not careful it will get +2 in SpA, SpD, and Spe then sweep you with field boosted Moonblast and Secret Sword. Ouch!
 
@@ -929,233 +479,17 @@ You can now accuse one of the culprits. Each will battle you once accused. You c
 
 However, there is one more option: you can check your bag to find the Blue Orb inside *before* making any accusation: this will cause everyone to fight you in a gauntlet, with Anomaly Hoopa as your partner.
 
-**New World Orderly John & Mastermind Eustace. Field: No Field**
-- Whiscash, Lv. 120, @Sitrus Berry, Ability: Oblivious, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Rock Slide
-    - Waterfall
-    - Zen Headbutt
-- Magnezone, Lv. 120, @Air Balloon, Ability: Analytic, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Discharge
-    - Thunder Wave
-    - Flash Cannon
-    - Hidden Power
-- Eelektross, Lv. 120, @Assault Vest, Ability: Levitate, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Thunderbolt
-    - Giga Drain
-    - Flamethrower
-    - Acid Spray
-- Toucannon, Lv. 120, @Muscle Band, Ability: Skill Link, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Beak Blast
-    - Knock Off
-    - Roost
-    - Brick Break
-- Exeggutor-Alola, Lv. 120, @Sitrus Berry, Ability: Harvest, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Draco Meteor
-    - Giga Drain
-    - Psyshock
-    - Synthesis
-- Slowbro, Lv. 120, @Slowbronite, Ability: Own Tempo, Bold Nature, IVs: 31, EVs: 4/0/252/252/0/0
-    - Icy Wind
-    - Light Screen
-    - Flamethrower
-    - Scald
-- Manectric, Lv. 120, @Choice Specs, Ability: Lightning Rod, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Volt Switch
-    - Flamethrower
-    - Thunderbolt
-    - Hidden Power
-- Sceptile, Lv. 120, @Sitrus Berry, Ability: Unburden, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Leaf Blade
-    - Earthquake
-    - Rock Slide
-- Sharpedo, Lv. 120, @Life Orb, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Aqua Jet
-    - Waterfall
-    - Crunch
-    - Earthquake
-- Scizor, Lv. 120, @Life Orb, Ability: Technician, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - U-turn
-    - Bullet Punch
-    - Superpower
-    - Thief
-- Aerodactyl, Lv. 120, @Flyinium-Z, Ability: Unnerve, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Sky Attack
-    - Stone Edge
-    - Roost
-    - Earthquake
-- Alakazam, Lv. 120, @Alakazite, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Focus Blast
-    - Recover
-    - Charge Beam
+!dbattle(["John", :NWOrderly, 1], ["Eustace", :MASTERMIND, 1])
 
-The second battle will be Julia and the opposing gang leader, depending on your choice:
+The second battle will be Julia and the opposing gang leader, depending on your gang choice:
 
-**Cheer Captain Julia. Field: No Field**
-- Galvantula, Lv. 120, @Life Orb, Ability: Compound Eyes, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Sticky Web
-    - Thunder
-    - Bug Buzz
-    - Volt Switch
-- Rotom-Wash, Lv. 120, @Leftovers, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Hydro Pump
-    - Thunderbolt
-    - Will-O-Wisp
-    - Shadow Ball
-- Ampharos, Lv. 120, @Ampharosite, Ability: Static, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Volt Switch
-    - Dragon Pulse
-    - Power Gem
-    - Thunder
-- Raichu-Alola, Lv. 120, @Aloraichium-Z, Ability: Surge Surfer, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Thunderbolt
-    - Psyshock
-    - Nasty Plot
-    - Surf
-- Magnezone, Lv. 120, @Choice Specs, Ability: Magnet Pull, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Hidden Power
-    - Thunderbolt
-    - Flash Cannon
-    - Signal Beam
-- Xurkitree, Lv. 120, @Life Orb, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Thunderbolt
-    - Energy Ball
-    - Dazzling Gleam
-    - Tail Glow
+!dbattle(["Julia", :JULIA, 2], ["Archer", :Archer, 2])
 
-Plus:
-
-**Magma Kingpin Maxwell. Field: No Field**
-- Ninetales, Lv. 120, @Heat Rock, Ability: Drought, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Will-O-Wisp
-    - Fire Blast
-    - Extrasensory
-    - Confuse Ray
-- Heatmor, Lv. 120, @Muscle Band, Ability: White Smoke, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Hone Claws
-    - Fire Punch
-    - Thunder Punch
-    - Sucker Punch
-- Turtonator, Lv. 120, @Wise Glasses, Ability: Shell Armor, Bashful Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Shell Trap
-    - Overheat
-    - Explosion
-    - Dragon Pulse
-- Charizard, Lv. 120, @Leftovers, Ability: Solar Power, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Flamethrower
-    - Air Slash
-    - Dragon Pulse
-    - Blast Burn
-- Chandelure, Lv. 120, @Leftovers, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Shadow Ball
-    - Flamethrower
-    - Calm Mind
-    - Substitute
-- Houndoom, Lv. 120, @Houndoominite, Ability: Flash Fire, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Flamethrower
-    - Dark Pulse
-    - Sludge Bomb
-
-Or:
-
-**Aqua Mastermind Archer. Field: No Field**
-- Pelipper, Lv. 120, @Damp Rock, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Hydro Pump
-    - Hurricane
-    - Roost
-    - Tailwind
-- Relicanth, Lv. 120, @Leftovers, Ability: Rock Head, Bashful Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Hydro Pump
-    - Head Smash
-    - Double-Edge
-    - Yawn
-- Seaking, Lv. 120, @Choice Band, Ability: Lightning Rod, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Drill Run
-    - Waterfall
-    - Megahorn
-    - Poison Jab
-- Blastoise, Lv. 120, @Leftovers, Ability: Torrent, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Hydro Pump
-    - Hydro Cannon
-    - Ice Beam
-    - Yawn
-- Mantine, Lv. 120, @Leftovers, Ability: Water Absorb, Calm Nature, IVs: 31, EVs: 252/0/0/0/252/4
-    - Roost
-    - Scald
-    - Air Slash
-    - Ice Beam
-- Sharpedo, Lv. 120, @Sharpedonite, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Aqua Jet
-    - Crunch
-    - Earthquake
-    - Ice Fang
+!dbattle(["Julia", :JULIA, 2], ["Maxwell", :Maxwell, 2])
 
 And finally, the last battle of the gauntlet:
 
-**Harridan Craudburry & Activist Sandy. Field: No Field**
-- Victreebel, Lv. 120, @Leftovers, Ability: Gluttony, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Leaf Blade
-    - Strength Sap
-    - Sludge Bomb
-    - Sleep Powder
-- Qwilfish, Lv. 120, Ability: Poison Point, Adamant Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Explosion
-    - Waterfall
-    - Destiny Bond
-    - Throat Chop
-- Amoonguss, Lv. 120, Ability: Effect Spore, Calm Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Synthesis
-- Crabominable, Lv. 120, @Assault Vest, Ability: Anger Point, Adamant Nature, IVs: 31, EVs: 236/252/0/0/0/20
-    - Ice Hammer
-    - Close Combat
-    - Earthquake
-    - Stone Edge
-- Shiinotic, Lv. 120, @Leftovers, Ability: Illuminate, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Moonblast
-    - Giga Drain
-    - Spore
-    - Leech Seed
-- Slaking, Lv. 120, @Leftovers, Ability: Truant, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Hammer Arm
-    - Slack Off
-    - Frustration
-    - Night Slash
-- Pelipper, Lv. 120, @Damp Rock, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Hurricane
-    - Roost
-    - U-turn
-    - Hydro Pump
-- Seismitoad, Lv. 120, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Earth Power
-    - Muddy Water
-    - Focus Blast
-    - Sludge Bomb
-- Ludicolo, Lv. 120, @Choice Specs, Ability: Swift Swim, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Scald
-    - Giga Drain
-    - Focus Blast
-    - Ice Beam
-- Torterra, Lv. 120, @Leftovers, Ability: Overgrow, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Crunch
-    - Stomp Tantrum
-    - Seed Bomb
-    - Iron Head
-- Sandslash, Lv. 120, @Choice Band, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Drill Run
-    - Knock Off
-    - Iron Head
-    - Rock Slide
-- Mudsdale, Lv. 120, @Assault Vest, Ability: Stamina, Adamant Nature, IVs: 31, EVs: 4/252/252/0/0/0
-    - Rock Slide
-    - High Horsepower
-    - Heavy Slam
-    - Close Combat
+!dbattle(["Craudburry", :HARRIDAN, 1], ["Sandy", :SANDY, 1])
 
 Whether you win the gauntlet or choose a different option, climb through the ring once you're in the engine room.
 
@@ -1180,67 +514,7 @@ Hug the left side to reach:
 
 Head to the top of the hill once you're ready.
 
-**Dashing Rogue Corin-Rouge & Anomaly Hoopa (Ultra Potion). Field: New World**
-- Klefki, Lv. 120, @Leftovers, Ability: Prankster, Bold Nature, EVs: 252/0/0/252/0/4
-    - Spikes
-    - Thunder Wave
-    - Swagger
-    - Foul Play
-- Cacturne, Lv. 120, @Bright Powder, Ability: Sand Veil, Adamant Nature, EVs: 4/252/0/0/0/252
-    - Sucker Punch
-    - Needle Arm
-    - Swords Dance
-    - Substitute
-- Liepard, Lv. 120, @Muscle Band, Ability: Limber, Adamant Nature, EVs: 252/0/252/0/0/4
-    - Encore
-    - Play Rough
-    - U-turn
-    - Foul Play
-- Sandslash, Lv. 120, @Muscle Band, Ability: Sand Rush, Adamant Nature, EVs: 128/128/0/0/0/252
-    - Earthquake
-    - Swords Dance
-    - Stone Edge
-    - X-Scissor
-- Delphox, Lv. 120, @Firium-Z, Ability: Magician, Timid Nature, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Psyshock
-    - Solar Beam
-    - Dazzling Gleam
-- Gyarados, Lv. 120, @Gyaradosite, Ability: Intimidate, Adamant Nature, EVs: 4/252/0/0/0/252
-    - Dragon Dance
-    - Crunch
-    - Earthquake
-    - Aqua Tail
-- Carbink, Lv. 120, @Amplifield Rock, Ability: Sturdy, Brave Nature, IVs: 31 (0 Speed), EVs: 252/0/128/0/128/0
-    - Trick Room
-    - Stealth Rock
-    - Explosion
-    - Helping Hand
-- Dusknoir, Lv. 120, @Life Orb, Ability: Frisk, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Rock Slide
-    - Shadow Sneak
-    - Sucker Punch
-    - Power-Up Punch
-- Stakataka, Lv. 120, @Leftovers, Ability: Beast Boost, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Rock Slide
-    - Superpower
-    - Gyro Ball
-    - Trick Room
-- Comfey, Lv. 120, @Life Orb, Ability: Triage, Modest Nature, IVs: 31 (0 Speed), EVs: 252/0/0/252/4/0
-    - Draining Kiss
-    - Giga Drain
-    - Floral Healing
-    - Dazzling Gleam
-- Sableye, Lv. 120, @Sablenite, Ability: Stall, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/0/0/4/0
-    - Protect
-    - Moonlight
-    - Dazzling Gleam
-    - Knock Off
-- Hoopa, Lv. 120, @Darkinium-Z, Ability: Magician, Quiet Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Hyperspace Hole
-    - Dark Pulse
-    - Signal Beam
-    - Focus Blast
+!dbattle(["Corin-Rouge", :CORINROUGE, 1],["Hoopa", :HOOPA, 0], "New World")
 
 Another New World field 12v6. Joy. It's worth noting that Hoopa's team is entirely Trick Room based and slow, while Corin-Rouge's team is a bit speedier altogether. Therefore I recommend either focusing on knocking out Hoopa's team so you can run with the Trick Room yourself, or focusing on knocking out Corin-Rouge first and suppressing/reversing Trick Room whenever possible. By now we also have a lot of legendaries whose signature moves are boosted on this field and Ultra Beasts who can sweep with some momentum, so despite how stacked against you this is, we do have some tools that we can use going forward.
 
@@ -1250,37 +524,7 @@ You'll next find yourself in the Vanhanen Castle New World - straight up from he
 
 You'll find yourself now in New World Route 3. Prepare yourself, then make your way to the Keldeo beach fight area. You now get to fight:
 
-**Umbral Terra. Field: Ashen Beach**
-- Claydol, Lv. 120, @Light Clay, Ability: Levitate, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Reflect
-    - Light Screen
-    - Stealth Rock
-    - Psychic
-- Palossand, Lv. 120, @Life Orb, Ability: Water Compaction, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shore Up
-    - Earth Power
-    - Shadow Ball
-    - Hidden Power
-- Golurk, Lv. 120, @Choice Band, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dynamic Punch
-    - Stone Edge
-    - Zen Headbutt
-    - Ice Punch
-- Swampert, Lv. 120, @Telluric Seed, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Focus Blast
-    - Surf
-    - Mud Bomb
-    - Hidden Power
-- Quagsire, Lv. 120, @Leftovers, Ability: Unaware, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Mud Bomb
-    - Surf
-    - Recover
-    - Toxic
-- Garchomp, Lv. 120, @Garchompite, Ability: Sand Veil, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Strength
-    - Stone Edge
-    - Dragon Claw
-    - Earthquake
+!battle(["Terra", :UMBTERRA, 0], "Ashen Beach")
 
 PULSE 2 Mega Garchomp, Unaware Quagsire, and tanky Palossand are annoying as always. Ashen Beach providing boosts to Surf, Strength, and Focus Blast doesn't help. But we're a champion of beating numerous 12v6 fights by now - surely this one won't be too intense, right? Enter the next ring and follow the path. LOL!
 
@@ -1299,109 +543,23 @@ Anyways, fly over to Agate and make your way to the Glass Workstation. The glass
 
 Once you emerge in Labradorra, you'll have to fight her.
 
-**Axis High Senior Flora. Field: No Field**
-- Tsareena, Lv. 120, @Assault Vest, Ability: Queenly Majesty, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Play Rough
-    - Power Whip
-    - U-turn
-    - Zen Headbutt
-- Aevian Mismagius, Lv. 120, @Expert Belt, Ability: Magic Bounce, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Leech Life
-    - Shadow Claw
-    - Power Whip
-    - Swords Dance
-- Ferrothorn, Lv. 120, @Leftovers, Ability: Iron Barbs, Brave Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Gyro Ball
-    - Seed Bomb
-    - Curse
-    - Stealth Rock
-- Roserade, Lv. 120, @Coba Berry, Ability: Technician, Timid Nature, IVs: 31, EVs: 148/0/4/100/0/252
-    - Giga Drain
-    - Sleep Powder
-    - Nature Power
-    - Weather Ball
-- Rotom-Mow, Lv. 120, @White Herb, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/4/0/0/252
-    - Will-O-Wisp
-    - Leaf Storm
-    - Thunder
-    - Volt Switch
-- Venusaur, Lv. 120, @Venusaurite, Ability: Overgrow, Bold Nature, IVs: 31, EVs: 232/0/128/4/104/20
-    - Leech Seed
-    - Sleep Powder
-    - Giga Drain
-    - Sludge Bomb
+!battle(["Flora", :FLORA, 0])
 
-No "Bewitched Field" nonsense in this game.
+No "Bewitched Field" in this game!
 
 Once you win, she'll head to Ametrine City, so follow her and enter the former house of Lumi and Eve. After the conversation, fly on over to the Pokémon League.
 
 I sure hope you like fighting the Elite Four, because we're about to do it again... with Flora as an ally! Each of you will get to use only 3 Pokémon per fight. In general for these fights, it may be smarter to try to support Flora than to try to do your own thing. Keep that in mind as you plan your team of six.
 
-**Elite Four Wind Maiden Heather. Field: Mountain Field**
-- Crobat, Lv. 120, @Flying Gem, Ability: Infiltrator, Jolly Nature, EVs: 4/252/0/0/0/252
-    - U-turn
-    - Tailwind
-    - Acrobatics
-    - Cross Poison
-- Landorus-Incarnate, Lv. 120, Ability: Sand Force, Adamant Nature, EVs: 4/252/0/0/0/252
-    - U-turn
-    - Stone Edge
-    - Knock Off
-    - Earthquake
-- Nidoking, Lv. 120, Ability: Sheer Force, Hasty Nature, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Earth Power
-    - Rock Slide
-    - Sludge Wave
-- Gyarados, Lv. 120, @Flyinium-Z, Ability: Moxie, Adamant Nature, EVs: 4/252/0/0/0/252
-    - Bounce
-    - Earthquake
-    - Waterfall
-    - Stone Edge
-- Gengar, Lv. 120, Ability: Cursed Body, Timid Nature, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Ominous Wind
-    - Icy Wind
-    - Sludge Bomb
-- Salamence, Lv. 120, @Salamencite, Ability: Intimidate, Jolly Nature, EVs: 4/252/0/0/0/252
-    - Rock Slide
-    - Roost
-    - Return
-    - Earthquake
+!partner(["Flora", :FLORA, 1])
+
+!battle(["Heather", :HEATHER, 1], "Mountain Field")
 
 Trick Room is the perfect choice here - turning Heather's Tailwind into a bad thing and letting Flora's Ferrothorn have the advantage.
 
-**Elite Four Floral Artist Laura. Field: Flower Garden**
-- Cherrim, Lv. 120, @Grassium-Z, Ability: Flower Gift, Hasty Nature, IVs: 31, EVs: 4/200/0/52/0/252
-    - Dazzling Gleam
-    - Weather Ball
-    - Flower Shield
-    - Petal Blizzard
-- Venusaur, Lv. 120, @Synthetic Seed, Ability: Chlorophyll, Adamant Nature, IVs: 31, EVs: 4/252/0/252/0/0
-    - Nature Power
-    - Sleep Powder
-    - Petal Blizzard
-    - Earthquake
-- Comfey, Lv. 120, @Synthetic Seed, Ability: Flower Veil, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Nature Power
-    - Tailwind
-    - Giga Drain
-- Whimsicott, Lv. 120, @Life Orb, Ability: Prankster, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Dazzling Gleam
-    - Giga Drain
-    - Hurricane
-    - Nature Power
-- Florges, Lv. 120, @Synthetic Seed, Ability: Flower Veil, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Petal Dance
-    - Dazzling Gleam
-    - Psychic
-    - Flower Shield
-- Lilligant, Lv. 120, @Life Orb, Ability: Chlorophyll, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sleep Powder
-    - Giga Drain
-    - Growth
-    - Hidden Power
+!partner(["Flora", :FLORA, 2])
+
+!battle(["Laura", :LAURA, 0], "Flower Garden")
 
 Our first fight against just Laura is mostly the same old shenanigans with the Flower Garden. Flora's team is benefitted by this field just as much as Laura though, so if you can identify the threats to Flora's team and focus on just them, there's a good chance Flora will do the heavy lifting here.
 
@@ -1409,68 +567,15 @@ Our first fight against just Laura is mostly the same old shenanigans with the F
 - Say "You Honor Me" (+1 Elias)
 - Say "Bow Before Me" (-1 Elias)
 
-**Elite Four Agent Elias. Field: Holy Field**
-- Noivern, Lv. 120, @Magical Seed, Ability: Infiltrator, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Boomburst
-    - Flamethrower
-    - Dragon Pulse
-    - Psychic
-- Kommo-o, Lv. 120, @Kommonium-Z, Ability: Bulletproof, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Clanging Scales
-    - Earthquake
-    - Close Combat
-    - Poison Jab
-- Dragonite, Lv. 120, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Outrage
-    - Extreme Speed
-    - Earthquake
-    - Brick Break
-- Drampa, Lv. 120, @Wiki Berry, Ability: Berserk, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Nature Power
-    - Dragon Pulse
-    - Surf
-    - Heat Wave
-- Ditto, Lv. 120, @Choice Scarf, Ability: Imposter, Timid Nature, IVs: 31, EVs: 252/0/0/0/0/0
-    - Transform
-- Kangaskhan, Lv. 120, @Kangaskhanite, Ability: Early Bird, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Power-Up Punch
-    - Earthquake
-    - Return
-    - Rock Slide
+!partner(["Flora", :FLORA, 3])
+
+!battle(["Elias", :ELIAS, 1], "Holy Field")
 
 Dragonite likes to absolutely shred Flora's team with Extremespeed, so consider neutralizing it by putting it to sleep, using Reflect, etc. Otherwise it's basically Elias' old team on doubles, so you can find a way through. Dazzling Gleam is a fantastic opening move!
 
-**Elite Four Imago Bennett. Field: Rainbow Field atop Forest Field**
-- Ribombee, Lv. 120, @Magical Seed, Ability: Shield Dust, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sticky Web
-    - Nature Power
-    - Moonblast
-    - Silver Wind
-- Genesect, Lv. 120, @Magical Seed, Ability: Download, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Tri Attack
-    - Blizzard
-    - Solar Beam
-    - Flash Cannon
-- Pheromosa, Lv. 120, @Magical Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Silver Wind
-    - Swift
-    - Focus Blast
-    - Hidden Power
-- Volcarona, Lv. 120, @Magical Seed, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Fiery Dance
-    - Silver Wind
-    - Giga Drain
-    - Heat Wave
-- Delphox, Lv. 120, @Magical Seed, Ability: Magician, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Mystical Fire
-    - Dazzling Gleam
-    - Psyshock
-    - Hidden Power
-- Charizard, Lv. 120, @Charizardite Y, Ability: Blaze, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Solar Beam
-    - Heat Wave
-    - Hidden Power
-    - Air Slash
+!partner(["Flora", :FLORA, 4])
+
+!battle(["Bennett", :BENNETT2, 0], "Rainbow Field atop Forest Field")
 
 First time we have to fight Bennett solo since he became an Elite Four member, as well. He uses Rainbow Field, where 5 of his Pokémon get a boost to SpA and a Wish with their seeds. There are also tons of boosts to many of his moves. The field's Serene Grace effect also means that there is a high chance that Silver Wind will omniboost - if Pheromosa gets this, it's likely a game over. Flora's team being weak to Bug and Fire doesn't help.
 
@@ -1488,37 +593,7 @@ Sweet. There's just one more thing to do - finish catching the next legendary! F
 
 Climb the convenient ladder to grab an *Exp. Candy XL*, then go around the right. When you're ready, head up for an Anomaly!
 
-**Anomaly Magearna. Field: Factory Field**
-- Roserade, Lv. 120, @Life Orb, Ability: Technician, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Toxic Spikes
-    - Giga Drain
-    - Dazzling Gleam
-    - Shadow Ball
-- CL:4R1-C3 Breloom, Lv. 120, @Life Orb, Ability: Technician, Adamant Nature, IVs: 31, EVs: 0/252/0/0/252/4
-    - Drain Punch
-    - Thunder Punch
-    - Bullet Punch
-    - Gear Grind
-- Klinklang, Lv. 120, @Leftovers, Ability: Clear Body, Adamant Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Shift Gear
-    - Gear Grind
-    - Wild Charge
-    - Iron Defense
-- Ferrothorn, Lv. 120, @Leftovers, Ability: Iron Barbs, Adamant Nature, IVs: 31, EVs: 252/0/252/0/4/0
-    - Nature Power
-    - Stealth Rock
-    - Leech Seed
-    - Knock Off
-- Cinccino, Lv. 120, @Life Orb, Ability: Technician, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Wake-Up Slap
-    - Return
-    - Seed Bomb
-    - U-turn
-- Magearna, Lv. 120, @Leftovers, Ability: Soul-Heart, Quiet Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shift Gear
-    - Fleur Cannon
-    - Brick Break
-    - Iron Head
+!battle(["Magearna", :MAGEARNA, 0], "Factory Field")
 
 Good ol' Factory Field. CL:4R1-C3 Breloom is back, this time with 5 other Pokémon to support it. Ferrothorn will make your Trick Room strategy tricky though not impossible to manage, so that's not an easy one-and-done thing either. With Roserade and Cinccino granting wide coverage, and Klinklang and Magearna getting really powerful on this field, you're going to need to be careful not to be swept here. You can turn it to Short-Circuit Field if you want, or just overpower them with your own speedy team. As long as you have something that can deal with CL:4R1-C3 somehow, the rest of the team will go down to Fire, Ground, and Fighting moves.
 

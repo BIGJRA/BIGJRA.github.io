@@ -71,37 +71,7 @@ Using the prism will activate Purple, so do that next. From here, move the cryst
 
 You'll get confirmation from Serra once you're successful. Activate Blue again to cross the ice bridge and enter the door above. Time for an Anomaly battle once you're ready.
 
-**Anomaly Necrozma. Field: Rainbow Field (Or, by choice in Lin Route, Crystal Cavern Field)**
-- Necrozma, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Stealth Rock
-    - Photon Geyser
-    - Heat Wave
-    - Light Screen
-- Necrozma-Dawn, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Moongeist Beam
-    - Photon Geyser
-    - Power Gem
-    - Hidden Power
-- Necrozma-Dusk, Lv. 145, @Magical Seed, Ability: Prism Armor, Adamant Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Sunsteel Strike
-    - Photon Geyser
-    - Swords Dance
-    - Earthquake
-- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Moongeist Beam
-    - Moonblast
-    - Psyshock
-    - Heat Wave
-- Solgaleo, Lv. 145, @Magical Seed, Ability: Full Metal Body, Naive Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Sunsteel Strike
-    - Flame Charge
-    - Rock Slide
-    - Psychic
-- Necrozma-Dawn, Lv. 145, @Ultranecrozium-Z, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Photon Geyser
-    - Dragon Pulse
-    - Moongeist Beam
-    - Earth Power
+!battle(["Necrozma", :NECROZMA, 0], "Rainbow Field or Crystal Cavern Field")
 
 All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. All of them share the Psychic type, so you can try to sweep with Ghost and Dark moves or something.
 
@@ -111,37 +81,7 @@ Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're
 
 Accept Danielle's quest, then fly over to the Pokémon League on Charous Mountain. Head down to the large dragon statue here for a battle.
 
-**Anomaly Rayquaza. Field: Snowy Mountain**
-- Rayquaza, Lv. 145, @Life Orb, Ability: Air Lock, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dragon Ascent
-    - Icy Wind
-    - Thunder
-    - Earthquake
-- Kyogre, Lv. 145, @Blue Orb, Ability: Drizzle, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Icy Wind
-    - Origin Pulse
-    - Hidden Power
-- Yveltal, Lv. 145, @Life Orb, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 0/4/0/252/0/252
-    - Oblivion Wing
-    - Rock Slide
-    - Sucker Punch
-    - Taunt
-- Deoxys-Attack, Lv. 145, @Life Orb, Ability: Pressure, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Thunder
-    - Icy Wind
-    - Psycho Boost
-    - Superpower
-- Ninetales-Alola, Lv. 145, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Blizzard
-    - Moonblast
-    - Aurora Veil
-    - Foul Play
-- Darkrai, Lv. 145, @Telluric Seed, Ability: Bad Dreams, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Icy Wind
-    - Ominous Wind
-    - Thunder
-    - Spacial Rend
+!battle(["Rayquaza", :RAYQUAZA, 0], "Snowy Mountain")
 
 Another tough double battle with a lot of hard hitting Pokémon. I recommend Light Screen and Trick Room - combined, your Pokémon will get slower with every use of Icy Wind, allowing them to hit first. You can switch the field to Mountain if you'd like.
 
@@ -153,67 +93,7 @@ Anyways, succeed and catch **Rayquaza**, then return to the Nightclub.
 
 Now that we have Rayquaza, we can go help out the OTS squad over in the Aegir Cave. Make your way there. Add Rayquaza to your party, then talk to Florinia. She'll then let you access the PC one more time before the gauntlet of sheer pain that follows.
 
-**Umbral Amaria & Umbral Titania. Field: Cave Field**
-- Jolteon, Lv. 137, @Life Orb, Ability: Quick Feet, Mild Nature, EVs: 0/0/4/252/0/252
-    - Discharge
-    - Synchronoise
-    - Roar
-    - Hyper Beam
-- Primarina, Lv. 138, @Life Orb, Ability: Torrent, Mild Nature, EVs: 0/0/4/252/0/252
-    - Sparkling Aria
-    - Perish Song
-    - Blizzard
-    - Dazzling Gleam
-- Meganium, Lv. 139, @Life Orb, Ability: Overgrow, Naughty Nature, EVs: 0/252/4/0/0/252
-    - Earthquake
-    - Petal Blizzard
-    - Outrage
-    - Double-Edge
-- Quagsire, Lv. 139, @Life Orb, Ability: Unaware, Rash Nature, EVs: 0/128/4/128/0/252
-    - Surf
-    - Earthquake
-    - Sludge Wave
-    - Recover
-- Lapras, Lv. 141, @Life Orb, Ability: Hydration, Rash Nature, EVs: 0/0/4/252/0/252
-    - Perish Song
-    - Bulldoze
-    - Surf
-    - Blizzard
-- Kyogre, Lv. 141, @Blue Orb, Ability: Drizzle, Rash Nature, EVs: 0/52/4/200/0/252
-    - Surf
-    - Earthquake
-    - Calm Mind
-    - Blizzard
-- Heliolisk, Lv. 137, @Life Orb, Ability: Solar Power, Mild Nature, EVs: 0/0/4/252/0/252
-    - Parabolic Charge
-    - Surf
-    - Hyper Voice
-    - Dark Pulse
-- Gengar, Lv. 138, @Life Orb, Ability: Cursed Body, Mild Nature, EVs: 0/52/4/200/0/252
-    - Explosion
-    - Sludge Wave
-    - Perish Song
-    - Shadow Ball
-- Flygon, Lv. 139, @Life Orb, Ability: Levitate, Mild Nature, EVs: 0/200/4/52/0/252
-    - Boomburst
-    - Earthquake
-    - Brutal Swing
-    - Heat Wave
-- Exploud, Lv. 139, @Life Orb, Ability: Scrappy, Naughty Nature, EVs: 0/52/4/200/0/252
-    - Boomburst
-    - Teeter Dance
-    - Earthquake
-    - Surf
-- Victini, Lv. 141, @Life Orb, Ability: Victory Star, Mild Nature, EVs: 0/200/4/52/0/252
-    - Searing Shot
-    - Bolt Strike
-    - U-turn
-    - Zen Headbutt
-- Groudon, Lv. 141, @Red Orb, Ability: Drought, Lonely Nature, EVs: 0/200/4/52/0/252
-    - Earthquake
-    - Brutal Swing
-    - Swords Dance
-    - Lava Plume
+!dbattle(["Amaria", :UMBAMARIA, 1], ["Titania", :UMBTITANIA, 1], "Cave Field")
 
 This battle isn't that crazy - you'll notice that most of their Pokémon have moves that indiscriminately damage all Pokémon, including their allies. Bulky Pokémon, Wide Guard, etc. will help here. You'll also notice that if Kyogre and Groudon come in at the same time, the field will change to the Rainbow Field. Rock Slide gets power on the Cave Field and extra flinch chance on the Rainbow Field, so I recommend using it for this fight.
 
@@ -223,67 +103,7 @@ The second battle of this gauntlet is determined by which route you're on, and w
 
 If you instead fought Titania, skip ahead to the next section.
 
-**Umbral Amaria & Anomaly Kyogre. Field: Water Surface**
-- Kingdra, Lv. 141, @Wide Lens, Ability: Swift Swim, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Blizzard
-    - Muddy Water
-    - Draco Meteor
-    - Flash Cannon
-- Ninetales-Alola, Lv. 141, @Light Clay, Ability: Snow Warning, Timid Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Aurora Veil
-    - Moonblast
-    - Blizzard
-    - Dark Pulse
-- Zapdos, Lv. 142, @Charti Berry, Ability: Static, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Thunder
-    - Heat Wave
-    - Tailwind
-    - Hidden Power
-- Toxapex, Lv. 142, @Elemental Seed, Ability: Merciless, Calm Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Recover
-    - Whirlpool
-    - Baneful Bunker
-    - Wide Guard
-- Palkia, Lv. 143, @Life Orb, Ability: Telepathy, Modest Nature, IVs: 10, EVs: 252/252/252/252/252/252
-    - Thunder
-    - Surf
-    - Incinerate
-    - Spacial Rend
-- Salamence, Lv. 145, @Salamencite, Ability: Intimidate, Modest Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Hyper Voice
-    - Roost
-    - Protect
-    - Heat Wave
-- Volcanion, Lv. 142, @Leftovers, Ability: Water Absorb, Modest Nature, IVs: 15, EVs: 252/0/0/252/0/4
-    - Heat Wave
-    - Surf
-    - Earth Power
-    - Protect
-- Manaphy, Lv. 141, @Elemental Seed, Ability: Hydration, Modest Nature, IVs: 15, EVs: 0/0/0/252/4/252
-    - Rest
-    - Tail Glow
-    - Surf
-    - Dazzling Gleam
-- Swampert, Lv. 141, @Swampertite, Ability: Torrent, Adamant Nature, IVs: 15, EVs: 252/252/0/0/0/4
-    - Rock Slide
-    - Earthquake
-    - Dive
-    - Superpower
-- Tentacruel, Lv. 142, @Black Sludge, Ability: Rain Dish, Calm Nature, IVs: 15, EVs: 4/0/0/252/0/252
-    - Whirlpool
-    - Sludge Bomb
-    - Hex
-    - Rapid Spin
-- Kyurem-White, Lv. 143, @Elemental Seed, Ability: Turboblaze, Rash Nature, IVs: 15, EVs: 252/0/4/252/0/0
-    - Fusion Bolt
-    - Ice Beam
-    - Rock Slide
-    - Roost
-- Kyogre, Lv. 145, @Blue Orb, Ability: Drizzle, Modest Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Thunder
-    - Origin Pulse
-    - Calm Mind
-    - Ice Beam
+!dbattle(["Amaria", :UMBAMARIA, 2], ["Kyogre", :KYOGRE, 0], "Water Surface")
 
 This fight is absolute suffering. Even if you get your team fully healed because of Lin Route... it's still a 12v6 against a Water Surface team that might even go underwater. Even your fast grounded Pokémon will just get easily outsped. Surf will roll your over. Even if you use Trick Room, a few slower choices like Toxapex will mess up your strategy. Especially positioned as it is in the gauntlet, this might be my least favorite fight in this game... maybe minus the end game gauntlet, which we'll get to in due time. Electric moves will get you somewhat across the finish line potentially, or you could try some shenanigans on the Icy Field or Murkwater Fields, I guess. Good luck.
 
@@ -297,67 +117,7 @@ Return to the Nightclub!
 
 If you are instead fighting Amaria, skip ahead to the next section.
 
-**Umbral Titania & Anomaly Groudon. Field: Grassy Terrain**
-- Ninetales, Lv. 143, @Heat Rock, Ability: Drought, Timid Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Solar Beam
-    - Fire Blast
-    - Dark Pulse
-    - Hidden Power
-- Houndoom, Lv. 143, @Houndoominite, Ability: Flash Fire, Timid Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Solar Beam
-    - Fire Blast
-    - Dark Pulse
-    - Sludge Bomb
-- Ho-oh, Lv. 143, @Life Orb, Ability: Regenerator, Hasty Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Sacred Fire
-    - Brave Bird
-    - Earth Power
-    - Recover
-- Lunala, Lv. 144, @Lunalium-Z, Ability: Shadow Shield, Calm Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Solar Beam
-    - Moongeist Beam
-    - Moonblast
-    - Psyshock
-- Reshiram, Lv. 145, @Life Orb, Ability: Turboblaze, Hasty Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Solar Beam
-    - Blue Flare
-    - Rock Slide
-    - Roost
-- Aegislash, Lv. 145, @Leftovers, Ability: Stance Change, Modest Nature, IVs: 20, EVs: 252/252/252/252/252/252
-    - Shadow Ball
-    - Flash Cannon
-    - Wide Guard
-    - King's Shield
-- Venusaur, Lv. 145, @Elemental Seed, Ability: Chlorophyll, Hasty Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Sludge Bomb
-    - Solar Beam
-    - Weather Ball
-    - Grass Whistle
-- Shaymin-Sky, Lv. 145, @Life Orb, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Seed Flare
-    - Air Slash
-    - Earth Power
-    - Dazzling Gleam
-- Pheromosa, Lv. 145, @Elemental Seed, Ability: Beast Boost, Hasty Nature, IVs: 31, EVs: 0/252/0/4/0/252
-    - U-turn
-    - Blizzard
-    - Silver Wind
-    - High Jump Kick
-- Xurkitree, Lv. 145, @Elemental Seed, Ability: Beast Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Solar Beam
-    - Nature Power
-    - Tail Glow
-    - Dazzling Gleam
-- Blaziken, Lv. 145, @Blazikenite, Ability: Speed Boost, Lonely Nature, IVs: 31, EVs: 252/252/0/4/0/0
-    - Protect
-    - Solar Beam
-    - Heat Wave
-    - High Jump Kick
-- Groudon, Lv. 145, @Red Orb, Ability: Drought, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Eruption
-    - Precipice Blades
-    - Solar Beam
-    - Rock Slide
+!dbattle(["Titania", :UMBTITANIA, 2], ["Groudon", :GROUDON, 0], "Grassy Terrain")
 
 Thankfully I generally think this fight is much nicer than the Amaria fight, but it is still a very tough 12v6. There are a lot of Fire types here, so a sweeper with Ground and Rock moves might be good here. You can transform the Grassy Terrain into Corrosive Field potentially if that will help you. Burning Field activates Elemental Seeds and boosts their many Fire type moves, so it might not be the best choice. I will shoutout Mega Tyranitar for this fight, who basically turns off the strategy of the lead Ninetales and Venusaur, allowing a Dragon Dance sweep.
 
@@ -373,22 +133,7 @@ Accept the Ringmaster's quest next. We'll actually need to win a few battles in 
 
 Once you beat 4 trainers, you'll face off against this one:
 
-**Definitely Not Mewtwo. Field: Rainbow Field**
-- Probopass, Lv. 100, @Air Balloon, Serious Nature, IVs: 10
-    - Stealth Rock
-    - Discharge
-    - Flash Cannon
-    - Earth Power
-- Amoonguss, Lv. 100, @Black Sludge, Serious Nature, IVs: 10
-    - Spore
-    - Giga Drain
-    - Toxic
-    - Venoshock
-- Mewtwo, Lv. 100, @Mewtwonite X, Serious Nature, IVs: 10
-    - Drain Punch
-    - Earthquake
-    - Ice Punch
-    - Psystrike
+!battle(["Mewtwo", :DEFNOT, 1000], "Rainbow Field")
 
 You do have to fight one of the strongest Mega Evolutions without being able to use the same feature, but I think you can find a team that will be able to manage. 4 randomized fights beforehand shouldn't be too terrible, I hope.
 
@@ -441,10 +186,7 @@ There is one more outside - follow the path to the left of the first tall tower 
 
 !img("zcell_69.jpg")
 
-Head back to the first tall tower and enter. Prepare yourself however you can and attempt to enter the door at the top:
-
-**Alter Clone. Field: Factory Field**
-- Your Team, with PULSE 2!
+Head back to the first tall tower and enter. Prepare yourself however you can and attempt to enter the door at the top: you'll have to fight **Alter Clone**, a trainer that copies your team and makes them PULSE 2!
 
 An interesting gimmick fight - you have to fight your team, but with PULSE 2. So, your sweepers will be bulkier than usual and your tanks will have more offensive power. One obvious answer to this fight is Trick Room - all of your alter will have 252 in Speed, but you don't have to. Then you can try to get a set up sweep going. There are also ways to cheese this fight with one Pokémon if you're really stuck.
 
@@ -462,67 +204,7 @@ Head up and talk to Fern, then enter the door to the right. You'll find the *N-S
 
 Back at the fork, go up for one heck of a battle.
 
-**Anomaly Mewtwo & Anomaly Mew. Field: Holy Field**
-- Tyranitar, Lv. 145, @Assault Vest, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/0/0/0/4
-    - Brutal Swing
-    - Rock Slide
-    - Superpower
-    - Dragon Claw
-- Kommo-o, Lv. 145, @Kommonium-Z, Ability: Overcoat, Naive Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Clanging Scales
-    - Close Combat
-    - Poison Jab
-    - Brutal Swing
-- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Moongeist Beam
-    - Psychic
-    - Moonblast
-    - Heat Wave
-- Groudon, Lv. 145, @Red Orb, Ability: Drought, Naughty Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Precipice Blades
-    - Eruption
-    - Brick Break
-    - Ancient Power
-- Magearna, Lv. 145, @Magical Seed, Ability: Soul-Heart, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Fleur Cannon
-    - Volt Switch
-    - Flash Cannon
-    - Aura Sphere
-- Mewtwo, Lv. 145, @Mewtwonite Y, Ability: Pressure, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psystrike
-    - Tri Attack
-    - Blizzard
-    - Fire Blast
-- Terrakion, Lv. 145, @Leftovers, Ability: Justified, Jolly Nature, IVs: 31, EVs: 252/4/0/0/0/252
-    - Stealth Rock
-    - Sacred Sword
-    - Rock Slide
-    - Zen Headbutt
-- Keldeo, Lv. 145, @Life Orb, Ability: Justified, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Secret Sword
-    - Hydro Pump
-    - Aqua Jet
-    - Icy Wind
-- Necrozma-Dawn, Lv. 145, @Magical Seed, Ability: Prism Armor, Modest Nature, IVs: 31, EVs: 252/0/0/252/0/4
-    - Moongeist Beam
-    - Photon Geyser
-    - Flash Cannon
-    - Heat Wave
-- Meloetta-Aria, Lv. 145, @Magical Seed, Ability: Serene Grace, Timid Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Relic Song
-    - Dazzling Gleam
-    - Psyshock
-    - Recycle
-- Mew, Lv. 145, @Mewnium-Z, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psychic
-    - Nature Power
-    - Dazzling Gleam
-    - Ancient Power
-- Mewtwo, Lv. 145, @Mewtwonite X, Ability: Pressure, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Rock Slide
-    - Drain Punch
-    - Zen Headbutt
-    - Thunder Punch
+!dbattle(["Mewtwo", :MEWTWO, 1], ["Mew", :MEW, 0], "Holy Field")
 
 This fight is, well, rough. 12v6 on the Holy Field with a fun chance of Mew's Z-move transforming the field into Psychic Terrain. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokémon on Turn 1. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. Those two are weak to Ground, so you can take advantage of the field protecting your teammates and use Earthquake in conjuction. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, so that's nice.
 
@@ -538,176 +220,29 @@ Head into the main building and talk to Terra here. If you have at least 50 cell
 
 If you have fewer than 10 Cells, you'll fight:
 
-**MIS5INGN0 5Sj. Field: Glitch Field**
-- Roserade, Lv. 140, @Assault Vest, Ability: Natural Cure, Timid Nature, IVs: 31, EVs: 0/0/4/0/252/252
-    - Giga Drain
-    - Extrasensory
-    - Leaf Storm
-    - Hidden Power
-- Nidoking, Lv. 141, @Synthetic Seed, Ability: Sheer Force, Calm Nature, IVs: 31, EVs: 252/0/252/0/0/4
-    - Amnesia
-    - Flamethrower
-    - Blizzard
-    - Thunderbolt
-- Jirachi, Lv. 141, @Chesto Berry, Ability: Serene Grace, Careful Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Energy Ball
-    - Rest
-    - Metronome
-    - Psychic
+!battle(["5Sj", :GLITCH1, 0], "Glitch Field")
 
 Then, if you have fewer than 20 Cells, you'll fight:
 
-**PKMNPKMNT HHHHH. Field: Glitch Field**
-- Araquanid, Lv. 140, @Life Orb, Ability: Water Bubble, Rash Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Sticky Web
-    - Liquidation
-    - Giga Drain
-    - Blizzard
-- Lickilicky, Lv. 141, @Choice Scarf, Ability: Own Tempo, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Explosion
-- Victini, Lv. 142, @Assault Vest, Ability: Victory Star, Calm Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Psyshock
-    - Blue Flare
-    - Bolt Strike
-    - Energy Ball
-- Tyranitar, Lv. 142, @Assault Vest, Ability: Sand Stream, Modest Nature, IVs: 31, EVs: 252/4/0/0/252/0
-    - Blizzard
-    - Stone Edge
-    - Dark Pulse
-    - Water Pulse
+!battle(["HHHHH", :GLITCH2, 0], "Glitch Field")
 
 Then, if you have fewer than 30 Cells, you'll fight:
 
-**OPKMN4X 404. Field: Glitch Field**
-- Rotom-Frost, Lv. 141, @Synthetic Seed, Ability: Levitate, Calm Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Blizzard
-    - Thunderbolt
-    - Reflect
-    - Light Screen
-- Tauros, Lv. 142, @Life Orb, Ability: Intimidate, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Giga Impact
-    - Stone Edge
-    - Earthquake
-    - Iron Head
-- Hoopa, Lv. 142, @Assault Vest, Ability: Magician, Timid Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Hyperspace Hole
-    - Energy Ball
-    - Charge Beam
-    - Shadow Ball
-- Exeggutor, Lv. 143, @Sitrus Berry, Ability: Harvest, Modest Nature, IVs: 31, EVs: 0/0/4/252/0/252
-    - Giga Drain
-    - Psyshock
-    - Nature Power
-    - Sleep Powder
-- Swellow, Lv. 143, @Scope Lens, Ability: Scrappy, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Focus Energy
-    - Boomburst
-    - Brave Bird
-    - U-turn
+!battle(["404", :GLITCH3, 0], "Glitch Field")
 
 If you have fewer than 40 Cells, you'll fight:
 
-**M1SS1NGO 0x5656. Field: Glitch Field**
-- Carbink, Lv. 140, @Synthetic Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Reflect
-    - Psychic
-    - Moonblast
-    - Hidden Power
-- Whimsicott, Lv. 141, @Leftovers, Ability: Prankster, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Nature Power
-    - Encore
-    - Tailwind
-    - Giga Drain
-- Slowbro, Lv. 142, @Slowbronite, Ability: Oblivious, Bold Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Blizzard
-    - Psyshock
-    - Scald
-    - Slack Off
-- Muk-Alola, Lv. 143, @Air Balloon, Ability: Power Of Alchemy, Adamant Nature, IVs: 15, EVs: 252/4/0/0/252/0
-    - Gunk Shot
-    - Explosion
-    - Knock Off
-    - Shadow Ball
-- Ninetales-Alola, Lv. 144, @Light Clay, Ability: Snow Cloak, Timid Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Aurora Veil
-    - Moonblast
-    - Blizzard
-    - Psyshock
-- Landorus-Incarnate, Lv. 144, @Air Balloon, Ability: Sheer Force, Naive Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Earthquake
-    - Rock Slide
-    - Focus Blast
-    - Knock Off
+!battle(["0x5656", :GLITCH4, 0], "Glitch Field")
 
 Finally, for having fewer than 50 Cells, you'll fight:
 
-**M1SS1NGO MRMR2. Field: Glitch Field**
-- Xurkitree, Lv. 140, @Focus Sash, Ability: Beast Boost, Bold Nature, IVs: 31, EVs: 252/0/4/0/0/252
-    - Power Whip
-    - Thunderbolt
-    - Tail Glow
-    - Hidden Power
-- Diancie, Lv. 141, @Synthetic Seed, Ability: Clear Body, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Diamond Storm
-    - Psychic
-    - Earth Power
-    - Moonblast
-- Regice, Lv. 142, @Synthetic Seed, Ability: Clear Body, Timid Nature, IVs: 31, EVs: 252/0/0/0/4/252
-    - Amnesia
-    - Frost Breath
-    - Rock Polish
-    - Thunderbolt
-- Milotic, Lv. 143, @Leftovers, Ability: Marvel Scale, Calm Nature, IVs: 31, EVs: 252/0/0/0/252/4
-    - Scald
-    - Blizzard
-    - Aqua Ring
-    - Recover
-- Volcarona, Lv. 144, @Life Orb, Ability: Flame Body, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Tailwind
-    - Fiery Dance
-    - Giga Drain
-    - Psychic
-- Clefable, Lv. 145, @Sitrus Berry, Ability: Unaware, Naughty Nature, IVs: 31, EVs: 0/252/4/0/0/252
-    - Metronome
-    - Shadow Ball
-    - Belly Drum
-    - Drain Punch
+!battle(["MRMR2", :GLITCH4, 0], "Glitch Field")
 
 Either by fighting or by simply walking, proceed up from here. If you had at least 50 cells before, you'll need to enhance your Zygarde at this machine, to create **Zygarde 50%**. Otherwise, you'll simply need to create a Zygarde 10% via the other machine, so you'll still need a minimum of 10 cells. Once you have the desired Zygarde Form, show it to Terra.
 
 Hilariously, on Lin Route, you can just... opt out of fighting Anomaly Zygarde here. If you are on Anna Route or opt in:
 
-**Anomalized Zygarde. Field: Glitch Field**
-- Kyurem-Black, Lv. 145, @Life Orb, Ability: Teravolt, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Fusion Flare
-    - Blizzard
-    - Roost
-    - Dragon Breath
-- Deoxys-Attack, Lv. 145, @Synthetic Seed, Ability: Pressure, Rash Nature, IVs: 31, EVs: 4/0/252/252/0/0
-    - Psychic
-    - Ice Beam
-    - Hyper Beam
-    - Recover
-- Gyarados, Lv. 145, @Gyaradosite, Ability: Moxie, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Fire Blast
-    - Blizzard
-    - Hydro Pump
-    - Earthquake
-- Chansey, Lv. 145, @Eviolite, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 252/0/0/0/252/4
-    - Blizzard
-    - Soft-Boiled
-    - Psychic
-    - Toxic
-- Toxapex, Lv. 145, @Synthetic Seed, Ability: Merciless, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Baneful Bunker
-    - Blizzard
-    - Recover
-    - Knock Off
-- Zygarde-10, Lv. 145, @Synthetic Seed, Ability: Power Construct, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Core Enforcer
-    - Sludge Wave
-    - Thousand Arrows
-    - Dragon Dance
+!battle(["Zygarde", :ZYGARDE, 0], "Glitch Field")
 
 Glitch Field team that maximizes the shenanigans of the field. Set up a physical sweeper on Toxapex or something to win this one.
 
@@ -729,63 +264,7 @@ Make your way all the way back up the Rhodochrine Tree. The barriers will be gon
 
 Continuing along this path, you'll see Anomaly Xerneas. Talk to it when you're ready.
 
-**Anomaly Xerneas & Umbral Noel. Field: Psychic Terrain**
-- Cosmoem, Lv. 145, @Magical Seed, Ability: Sturdy, Bold Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Splash
-    - Cosmic Power
-- Cosmoem, Lv. 145, @Normalium-Z, Ability: Sturdy, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Splash
-    - Cosmic Power
-- Spiritomb, Lv. 145, @Magical Seed, Ability: Infiltrator, Modest Nature, IVs: 31, EVs: 252/0/0/252/4/0
-    - Calm Mind
-    - Pain Split
-    - Snarl
-    - Psychic
-- Blaziken, Lv. 145, @Blazikenite, Ability: Speed Boost, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Protect
-    - Baton Pass
-    - Focus Blast
-- Lugia, Lv. 145, @Magical Seed, Ability: Multiscale, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Icy Wind
-    - Ancient Power
-    - Roost
-    - Calm Mind
-- Xerneas, Lv. 145, @Power Herb, Ability: Fairy Aura, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Geomancy
-    - Moonblast
-    - Aurora Beam
-    - Psyshock
-- Ribombee, Lv. 145, @Focus Sash, Ability: Sweet Veil, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - After You
-    - Pollen Puff
-    - Dazzling Gleam
-    - Psych Up
-- Giratina-Origin, Lv. 145, @Griseous Orb, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psych Up
-    - Hex
-    - Draco Meteor
-    - Will-O-Wisp
-- Tapu Lele, Lv. 145, @Lum Berry, Ability: Psychic Surge, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psyshock
-    - Draining Kiss
-    - Psych Up
-    - Focus Blast
-- Mew, Lv. 145, @Mewnium-Z, Ability: Synchronize, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Psych Up
-    - Frost Breath
-    - Heal Pulse
-- Sylveon, Lv. 145, @Leftovers, Ability: Pixilate, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Wish
-    - Psych Up
-    - Swift
-    - Psyshock
-- Clefable, Lv. 145, @Life Orb, Ability: Magic Guard, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moonblast
-    - Soft-Boiled
-    - Psych Up
-    - Fire Blast
+!dbattle(["Xerneas", :XERNEAS, 0], ["Noel", :UMBNOEL, 0], "Psychic Terrain")
 
 This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokémon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokémon's SpA, and go H.A.M. If you want to avoid this, taking out Cosmoem ASAP is a good idea. I then recommend your own Pokémon with Psych Up to steal Lugia's Calm Mind or something and do a counter-sweep.
 
@@ -793,37 +272,7 @@ Once you win, Noel will give you **Xerneas**!
 
 Make your way to the bottom right corner of the area for another fight.
 
-**Anomaly Yveltal. Field: Starlight Arena**
-- Cresselia, Lv. 145, @Leftovers, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/0/4/0/252
-    - Moonblast
-    - Lunar Dance
-    - Psyshock
-    - Light Screen
-- Solgaleo, Lv. 145, @Solganium-Z, Ability: Full Metal Body, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Sunsteel Strike
-    - Superpower
-    - Earthquake
-    - Zen Headbutt
-- Lunala, Lv. 145, @Magical Seed, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Cosmic Power
-    - Moongeist Beam
-    - Night Daze
-    - Roost
-- Milotic, Lv. 145, @Magical Seed, Ability: Marvel Scale, Calm Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Toxic
-    - Wish
-    - Protect
-    - Hydro Pump
-- Xerneas, Lv. 145, @Leftovers, Ability: Fairy Aura, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Geomancy
-    - Moonblast
-    - Aurora Beam
-    - Psyshock
-- Yveltal, Lv. 145, @Magical Seed, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Oblivion Wing
-    - Psychic
-    - Dark Pulse
-    - Sucker Punch
+!battle(["Yveltal", :YVELTAL, 0], "Starlight Arena")
 
 Boosted Dark moves are pretty incredible here - pair a sweeper with something to deal with Xerneas and Yveltal, and you should be ok. Yveltal in particular is annoying thanks to its Dark Aura field boosted Sucker Punches, so keep that in mind.
 
@@ -831,37 +280,7 @@ Once you win, you can catch **Yveltal**.
 
 Talk to Noel towards the top, then attempt to exit once you're ready for one more fight.
 
-**Umbral Eclipse. Field: Rainbow Field**
-- Milotic, Lv. 145, @Magical Seed, Ability: Marvel Scale, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Toxic
-    - Recover
-    - Protect
-    - Hydro Pump
-- Necrozma, Lv. 145, @Magical Seed, Ability: Prism Armor, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Photon Geyser
-    - Recycle
-    - Dragon Pulse
-    - Protect
-- Lunala, Lv. 145, @Lunalium-Z, Ability: Shadow Shield, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moongeist Beam
-    - Moonblast
-    - Psyshock
-    - Hidden Power
-- Entei, Lv. 145, @Leftovers, Ability: Inner Focus, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Fire
-    - Extreme Speed
-    - Stone Edge
-    - Curse
-- Audino, Lv. 145, @Audinite, Ability: Regenerator, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Rest
-    - Sleep Talk
-    - Hidden Power
-    - Calm Mind
-- Chandelure, Lv. 145, @Magical Seed, Ability: Flash Fire, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fire Blast
-    - Hidden Power
-    - Psychic
-    - Energy Ball
+!battle(["Eclipse", :UMBECLIPSE, 0], "Rainbow Field")
 
 The Magical Seeds grant a wish as well as a defense boost to the holder, so a lot of these Pokémon will be a pain to take out... unless you can knock them all out in one shot. A special sweeper, especially with Rainbow Field boosted moves, will be likely to succeed if you can set them up right.
 

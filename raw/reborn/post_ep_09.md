@@ -10,37 +10,7 @@ Make your way there, and talk to Noel. We'll need to bring Giratina to the meteo
 
 Next, slog through Tanzan Mountain to reach the Neoteric Isle once more. Talk to Florinia and Fern in the back room when you're ready.
 
-**Umbral Fern. Field: Holy Field**
-- Entei, Lv. 145, @Life Orb, Ability: Inner Focus, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Extreme Speed
-    - Sacred Fire
-    - Iron Head
-    - Stone Edge
-- Diancie, Lv. 146, @Magical Seed, Ability: Clear Body, Quirky Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Diamond Storm
-    - Moonblast
-    - Psychic
-    - Earth Power
-- Mawile, Lv. 146, @Mawilite, Ability: Intimidate, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sucker Punch
-    - Play Rough
-    - Brick Break
-    - Ice Punch
-- Kartana, Lv. 147, @Choice Band, Ability: Beast Boost, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Leaf Blade
-    - Knock Off
-    - Sacred Sword
-    - Psycho Cut
-- Roserade, Lv. 148, @Magical Seed, Ability: Technician, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Magical Leaf
-    - Nature Power
-    - Sludge Bomb
-    - Hidden Power
-- Serperior, Lv. 150, @Grassium-Z, Ability: Contrary, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Nature Power
-    - Leaf Storm
-    - Dragon Pulse
-    - Giga Drain
+!battle(["Fern", :UMBFERN, 0], "Holy Field")
 
 One more bout with our friend, Fern. No Mega Scizor this time - it's Mega Mawile, instead. Entei's Extremespeed and Mawile's Sucker Punch are potent anti-sweep options, while his Serperior and Kartana both attempt to sweep themselves. Everything here is weak to Fire, Ground, or both, so if you're stuck, orienting your team around moves of those types might be key. I'm sure you can figure out a way through this fight so far into this game.
 
@@ -58,105 +28,15 @@ A THREE FIGHT GAUNTLET AGAINST ALL PULSE2 WITH NO HEALING SO ITS EFFECTIVELY 18V
 
 ### Final Gauntlet (Lin Route)
 
-**Anamnestic Terra. Field: Big Top Arena**
-- Lycanroc-Dusk, Lv. 150, @Life Orb, Ability: Tough Claws, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Stone Edge
-    - Swords Dance
-    - Accelerock
-    - Brick Break
-- Landorus-Incarnate, Lv. 150, @Synthetic Seed, Ability: Sheer Force, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Earthquake
-    - Brick Break
-    - Brutal Swing
-    - Iron Tail
-- Altaria, Lv. 150, @Altarianite, Ability: Natural Cure, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Body Slam
-    - Dragon Dance
-    - Roost
-    - Dragon Rush
-- Meloetta-Pirouette, Lv. 150, @Synthetic Seed, Ability: Serene Grace, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Acrobatics
-    - Drain Punch
-    - Dual Chop
-    - Return
-- Kommo-o, Lv. 150, @Synthetic Seed, Ability: Soundproof, Naive Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Clanging Scales
-    - Close Combat
-    - Dragon Dance
-    - Poison Jab
-- Xerneas, Lv. 150, @Synthetic Seed, Ability: Fairy Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Close Combat
-    - Nature Power
-    - Horn Leech
-    - Moonblast
+!battle(["Terra", :ANAMTERRA, 0], "Big Top Arena")
 
 The gauntlet's structure being as it is basically means one thing - you HAVE TO SET UP SWEEP. There really isn't another option. Thankfully, in this first fight, only Lycanroc has priority, so Evoboost, Shell Smash, etc. are valid options that should be able to carry you through this one.
 
-**Mordant Urchin Lin. Field: New World**
-- Necrozma-Dusk, Lv. 150, @Leftovers, Ability: Prism Armor, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Trick Room
-    - Sunsteel Strike
-    - Photon Geyser
-    - Stealth Rock
-- Mawile, Lv. 150, @Mawilite, Ability: Intimidate, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Sucker Punch
-    - Play Rough
-    - Ice Punch
-    - Brick Break
-- Magearna, Lv. 150, @Assault Vest, Ability: Soul-Heart, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Volt Switch
-    - Fleur Cannon
-    - Aurora Beam
-    - Flash Cannon
-- Tyranitar, Lv. 150, @Darkinium-Z, Ability: Unnerve, Brave Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Crunch
-    - Ancient Power
-    - Earth Power
-    - Superpower
-- Volcanion, Lv. 150, @Choice Specs, Ability: Water Absorb, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Steam Eruption
-    - Fire Blast
-    - Earth Power
-    - Flash Cannon
-- Lunala, Lv. 150, @Leftovers, Ability: Shadow Shield, Sassy Nature, IVs: 31 (0 Speed), EVs: 252/252/252/252/252/0
-    - Trick Room
-    - Moongeist Beam
-    - Moonblast
-    - Roost
+!battle(["Lin", :CHILDLIN, 2], "New World")
 
 This second fight is in doubles, and the whole team is slow. Necrozma and Lunala each have Trick Room and will try to set it up - so making sure you have Taunt is pretty essential for this one. Everything is weak to Ground or Dark, so with field boosted Earth Power, Dark type moves, and maybe a Z-move in a pinch, you should then be able to find a combination of sweepers that is able to take this team out.
 
-**Anomaly Arceus. Field: New World**
-- Tornadus-Therian, Lv. 150, @Focus Sash, Ability: Regenerator, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Tailwind
-    - U-turn
-    - Hurricane
-    - Knock Off
-- Ho-oh, Lv. 150, @Leftovers, Ability: Pressure, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Fire
-    - U-turn
-    - Defog
-    - Brave Bird
-- Rayquaza, Lv. 150, @Magical Seed, Ability: Air Lock, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Dragon Ascent
-    - Extreme Speed
-    - Ancient Power
-    - Earth Power
-- Yveltal, Lv. 150, @Darkinium-Z, Ability: Dark Aura, Hasty Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sucker Punch
-    - Oblivion Wing
-    - U-turn
-    - Heat Wave
-- Cresselia, Lv. 150, @Focus Sash, Ability: Levitate, Hardy Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Lunar Dance
-    - Lunar Dance
-    - Lunar Dance
-    - Lunar Dance
-- PULSE Arceus, Lv. 150, @Magical Seed, Ability: Multitype, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Judgment
-    - Spacial Rend
-    - Psyshock
-    - Moonlight
+!battle(["Arceus", :ARCEUS, 0], "New World")
 
 Finally, the big one. Tornadus has a nasty habit of U-Turning into Rayquaza, who will instantly get the seed effect and Mega Evolve. We don't want that, so either anticipate the U-Turn with your lead and use an Ice or Fairy type move to oneshot Rayquaza, or do something to prevent Tornadus from living long enough to U-Turn. Yveltal has a Z-move and Sucker Punch, both of which get massive boosts in power, so you'll need to make sure you have a Pokémon that can outplay it here. Ho-oh is pretty chill comparably, though its Sacred Fire is boosted too.
 
@@ -173,105 +53,15 @@ Talk to Lin, either letting her come with you, or not. Exit the area!
 
 ### Final Gauntlet (Anna Route)
 
-**Anamnestic Shade. Field: Glitch Field**
-- Lugia, Lv. 150, @Assault Vest, Ability: Multiscale, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Blizzard
-    - Psyshock
-    - Giga Drain
-    - Surf
-- Articuno, Lv. 150, @Assault Vest, Ability: Snow Cloak, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Blizzard
-    - Bubble Beam
-    - Extrasensory
-    - Hidden Power
-- Giratina-Altered, Lv. 150, @Assault Vest, Ability: Pressure, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Draco Meteor
-    - Psychic
-    - Shadow Sneak
-    - Aqua Tail
-- Mimikyu, Lv. 150, @Assault Vest, Ability: Disguise, Careful Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Shadow Sneak
-    - Giga Drain
-    - Psychic
-    - Thunderbolt
-- Gengar, Lv. 150, @Gengarite, Ability: Cursed Body, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Giga Drain
-    - Ice Punch
-    - Fire Punch
-    - Psychic
-- Aegislash, Lv. 150, @Synthetic Seed, Ability: Stance Change, Adamant Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Sacred Sword
-    - King's Shield
-    - Swords Dance
-    - Giga Impact
+!battle(["Shade", :ANAMSHADE, 0], "Glitch Field")
 
 Arguably harder than the Lin Gauntlet, Anna's gauntlet is three fights that all take place on (with a sick looking backdrop) the Glitch Field. This first fight is notably hard thanks to the lead being Lugia, who is able to nuke almost everything with Psyshock, heal with Giga Drain, and use other coverage moves. Mimikyu's Disguise and Shadow Sneak make it hard to set up a fast frail sweeper. With Four Assault Vests, you're going to have a hard time breaking them Specially without a lot of set up. Then there are four other Pokémon pretty much optimized for Glitch Field. In this fight, and frankly the rest of them, I recommend abusing the Synthetic Seed yourself, and going all out with a move like Stockpile or Cosmic Power.
 
-**Dreamsick Anna. Field: Glitch Field**
-- Xurkitree, Lv. 150, @Leftovers, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Tail Glow
-    - Power Whip
-    - Thunderbolt
-    - Thunder Wave
-- Nihilego, Lv. 150, @Synthetic Seed, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psychic
-    - Thunderbolt
-    - Stealth Rock
-    - Toxic Spikes
-- Naganadel, Lv. 150, @Leftovers, Ability: Beast Boost, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Nasty Plot
-    - Outrage
-    - Fire Blast
-    - Protect
-- Zygarde-50, Lv. 150, @Assault Vest, Ability: Aura Break, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Thousand Arrows
-    - Core Enforcer
-    - Extreme Speed
-    - Brick Break
-- Gallade, Lv. 150, @Galladite, Ability: Steadfast, Jolly Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Drain Punch
-    - Psychic
-    - Earthquake
-    - Vacuum Wave
-- Jirachi, Lv. 150, @Leftovers, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Wish
-    - Cosmic Power
-    - Draco Meteor
-    - Protect
+!battle(["Anna", :ANNA2, 0], "Glitch Field")
 
 Advice from the last fight generally holds here, but you'll need to be extra careful of Xurkitree, who can counter your set up with it's own, as well as paralyze you. Thankfully, you'll probably have a bit more success on this one with a Special sweeper. Watch out for the hazards and status conditions of this team, and make sure Jirachi doesn't snowball too much.
 
-**Anomaly Arceus. Field: Glitch Field**
-- Jirachi, Lv. 150, @Leftovers, Ability: Serene Grace, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Stealth Rock
-    - Thunder
-    - Zen Headbutt
-    - Cosmic Power
-- Deoxys-Defense, Lv. 150, @Synthetic Seed, Ability: Pressure, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Psycho Boost
-    - Ice Beam
-    - Cosmic Power
-    - Recover
-- Kyurem-Black, Lv. 150, @Life Orb, Ability: Teravolt, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Fusion Flare
-    - Blizzard
-    - Outrage
-    - Roost
-- Groudon, Lv. 150, @Red Orb, Ability: Drought, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Precipice Blades
-    - Fire Blast
-    - Solar Beam
-    - Rock Slide
-- Necrozma-Dawn, Lv. 150, @Ultranecrozium-Z, Ability: Prism Armor, Rash Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moongeist Beam
-    - Outrage
-    - Photon Geyser
-    - Moonlight
-- PULSE Arceus, Lv. 150, @Synthetic Seed, Ability: Multitype, Calm Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Roar of Time
-    - Blizzard
-    - Overheat
-    - Moonlight
+!battle(["Arceus", :ARCEUS, 1], "Glitch Field")
 
 One more fight, and as you can tell, this one isn't easy, either. Again you'll need some way to use only 1 or 2 of your Pokémon to snowball into a sweep. The big problem here is that PULSE Arceus can heal itself as well as ignore the downsides of Roar of Time and Overheat, and becomes ??? type to negate its weaknesses. You can't easily muscle your way around it, and even a +6 boosted Pokémon might not be able to take it out in one hit. At least you can look at this fight and the previous two for team member inspirations... I guess. Good luck!
 

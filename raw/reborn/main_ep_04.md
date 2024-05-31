@@ -339,7 +339,7 @@ Whichever way you solve the puzzle, click the final monitor that you can find up
 
 Head up, and save before you fight Shelly.
 
-!battle(["Shelly", :FUTURESHELLY, 0], "Forest Field")
+!battle(["Shelly", :SHELLY, 0], "Forest Field")
 
 I think this fight is wonderful because it sweeps the feet out from under new players that think Bug is a terrible type. The Forest Field, as we've seen, powers up Struggle Bug. It also gives Anorith a free Spiky Shield due to its seed. There is yet more synergy with Prankster Illumise's eight turn Rain Dance - it prevents you from burning the forest down, activates Anorith's Swift Swim, weakens your Fire types, and boosts the various Water moves she uses. Plus, it's the first gym that fights in doubles and the combination of Intimidate and Struggle Bug can make your attacks weak - all this combines to making a difficult fight that your team might not immediately be prepared for.
 

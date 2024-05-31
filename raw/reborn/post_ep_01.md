@@ -58,48 +58,13 @@ Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a N
 
 Enter the door in the top right, follow the path, and talk to the orb. Return to the New World hub. This time, follow the door in the top left. Talk to the orb at the end and return. Finally, go to the bottom right and talk to the Shiinotic.
 
-**Creeping Pokémon. Field: Chess Board**
-- Shiinotic, Lv. 104, @Big Root, Ability: Effect Spore, Sassy Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Spore
-    - Strength Sap
-    - Dream Eater
-    - Moonblast
+!battle(["Pokémon", :SHIINOTIC, 0], "Chess Board")
 
 Talk to the next orb. The door at the top of the hub will now be open: follow it and defeat another Shiinotic. Grab the next orb.
 
 Back in the hub, enter the top right room once more. The door at teh top will now be unlocked, so follow it in.
 
-**Anomaly Cresselia. Field: New World**
-- Lunatone, Lv. 102, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Stealth Rock
-    - Power Gem
-    - Moonblast
-    - Hypnosis
-- Amoonguss, Lv. 102, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Nature Power
-- Musharna, Lv. 102, @Leftovers, Ability: Synchronize, Bold Nature, IVs: 31, EVs: 252/0/252/4/0/0
-    - Hypnosis
-    - Calm Mind
-    - Psyshock
-    - Dazzling Gleam
-- Jumpluff, Lv. 103, @Flying Gem, Ability: Infiltrator, Jolly Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Sleep Powder
-    - Leech Seed
-    - Substitute
-    - Acrobatics
-- Cresselia, Lv. 103, @Focus Sash, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/0/128/0/128/0
-    - Lunar Dance
-    - Lunar Dance
-    - Lunar Dance
-    - Lunar Dance
-- Cresselia, Lv. 105, @Magical Seed, Ability: Levitate, Timid Nature, IVs: 31, EVs: 252/252/252/252/252/252
-    - Moonlight
-    - Moonblast
-    - Psychic
-    - Aurora Beam
+!battle(["Cresselia", :CRESSELIA, 0], "New World")
 
 Our first Anomaly battle! Note that this another fight on the New World field. The first four Pokémon use this field beneficially to some extent, but Ice and field-boosted Dark moves can generally shut them down. The first Cresselia will always use Lunar Dance, sacrificing itself to give an omniboost to the second Cresselia. Note the Magical Seed, meaning the second Cresselia will always get two omniboosts, but will need to recharge on the first turn it is out. That means you can use Toxic, Psych Up, Haze, Trick Room, etc. for free and whittle it down with the remainder of your team.
 
