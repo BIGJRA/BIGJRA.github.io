@@ -101,7 +101,7 @@ After the battle, you'll be sent outside. Answer Corey how you like here, then g
 
 Exit Malchous Forest Park in the top right corner. In the first house, you'll find a grunt.
 
-!battle(["Ray", :MeteorGrunt, 0])
+!battle(["Ray", :MeteorGrunt, 1])
 
 Defeat him to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 

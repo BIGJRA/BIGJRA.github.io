@@ -6,8 +6,8 @@ class ShopGetter
 
   def initialize(game, item_hash=nil)
     @game = game
-    @item_hash = item_hash ||= load_item_hash(@game)
-    @price_lookup = load_price_lookup()
+    @itemHash = item_hash ||= load_item_hash(@game)
+    @priceLookup = load_price_lookup()
   end
 
   def generate_shop_markdown(shop_title, shop_items, price_overrides=nil, bold_items=nil)
@@ -51,7 +51,7 @@ class ShopGetter
       content_row.add_child(td_item)
     
       # Column 2: Price
-      price = price_overrides[position].nil? ? @price_lookup[item] : price_overrides[position]
+      price = price_overrides[position].nil? ? @priceLookup[item] : price_overrides[position]
       if price_overrides[position].nil? || price_overrides[position].is_a?(Integer)
         price = "$#{price}"
       end
@@ -69,7 +69,7 @@ class ShopGetter
 
   def load_price_lookup()
     prices = {}
-    @item_hash.each do |symbol, contents|
+    @itemHash.each do |symbol, contents|
       prices[contents[:name]] = contents[:price]
     end
     prices

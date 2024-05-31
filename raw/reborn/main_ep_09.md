@@ -62,7 +62,7 @@ Anyways, you'll have to first fight two orderlies.
 
 Afterwards, you'll be healed but thrust into another battle.
 
-!battle(["Sirius", :Sirius, 0])
+!battle(["Sirius", :Sirius, 1])
 
 On this route this is our first battle with Sirius, and we don't get a partner. His team is all about hitting hard with well-rounded coverage. In particular you have to watch out for his Chandelure, who is fast and can hit most types super effectively. Minior can set up if you have a bad lead against it, and Manectric uses fast offense and pivot moves. The rest are fairly slow. No field effect to worry about here, so pick your best counters to his team and you can overcome.
 

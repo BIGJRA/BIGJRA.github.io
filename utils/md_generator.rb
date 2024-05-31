@@ -68,5 +68,8 @@ def generate_md_text(game = "reborn")
   end
   res += generate_md_post_contents
   res.strip
+
+  func_wrapper.trainerGetter.report_missing_trainers
+
   res
 end

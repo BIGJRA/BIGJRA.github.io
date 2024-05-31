@@ -1,4 +1,5 @@
 require_relative 'common'
+require 'set'
 
 class TrainerGetter
   attr_accessor :game
@@ -11,24 +12,32 @@ class TrainerGetter
 
   def initialize(game, trainer_hash=nil, trainer_type_hash=nil, item_hash=nil, move_hash=nil, ability_hash=nil, pokemon_hash=nil)
     @game = game
-    @trainer_hash = trainer_hash ||= load_trainer_hash(@game)
-    @trainer_type_hash = trainer_type_hash ||= load_trainer_type_hash(@game)
-    @item_hash = item_hash ||= load_item_hash(@game)
-    @move_hash = move_hash ||= load_move_hash(@game)
-    @ability_hash = ability_hash ||= load_ability_hash(@game)
-    @pokemon_hash = pokemon_hash ||= load_pokemon_hash(@game)
+    @trainerHash = trainer_hash ||= load_trainer_hash(@game)
+    @trainerTypeHash = trainer_type_hash ||= load_trainer_type_hash(@game)
+    @itemHash = item_hash ||= load_item_hash(@game)
+    @moveHash = move_hash ||= load_move_hash(@game)
+    @abilityHash = ability_hash ||= load_ability_hash(@game)
+    @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game)
+
+    @trainerStore = Set[]
   end
 
   def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
-    raise "Trainer ID #{trainer_id} not in Trainer Hash" if !@trainer_hash[trainer_id]
-    raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainer_hash[second_trainer_id]
+    raise "Trainer ID #{trainer_id} not in Trainer Hash" if !@trainerHash[trainer_id]
+    raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainerHash[second_trainer_id]
     raise "Not a field - probably put trainer 2 in field arg: #{field}" if (field && !field.index('[').nil?)
 
-    trainer_data = @trainer_hash[trainer_id]
-    second_trainer_data = second_trainer_id ? @trainer_hash[second_trainer_id] : nil
+    trainer_data = @trainerHash[trainer_id]
+    second_trainer_data = second_trainer_id ? @trainerHash[second_trainer_id] : nil
 
-    trainer_name = "#{@trainer_type_hash[trainer_id[1]][:title]} #{trainer_id[0]}"
-    second_trainer_name = second_trainer_id ? "#{@trainer_type_hash[second_trainer_id[1]][:title]} #{second_trainer_id[0]}" : nil
+    puts "Trainer Data #{trainer_id} already in Store" if @trainerStore.include?(trainer_id)
+    puts "Trainer Data #{second_trainer_id} already in Store" if second_trainer_id && @trainerStore.include?(second_trainer_id)
+    
+    @trainerStore.add(trainer_id)
+    @trainerStore.add(second_trainer_id) if second_trainer_id
+  
+    trainer_name = "#{@trainerTypeHash[trainer_id[1]][:title]} #{trainer_id[0]}"
+    second_trainer_name = second_trainer_id ? "#{@trainerTypeHash[second_trainer_id[1]][:title]} #{second_trainer_id[0]}" : nil
   
     item_symbols = Hash.new(0)
     if trainer_data[:items]
@@ -81,7 +90,7 @@ class TrainerGetter
     end
   
     if !is_partner && !item_symbols.empty?
-      item_str = item_symbols.map { |sym, count| "#{@item_hash[sym][:name]} #{count > 1 ? "(#{count})" : ""}" }
+      item_str = item_symbols.map { |sym, count| "#{@itemHash[sym][:name]} #{count > 1 ? "(#{count})" : ""}" }
       items_div = doc.create_element('div')
       items_div.content = "Items: #{item_str.join(', ')}"
       th.add_child(items_div)
@@ -102,19 +111,19 @@ class TrainerGetter
         table.add_child(content_row)
 
         form = mon[:form] ? mon[:form] : 0
-        form_key = @pokemon_hash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[form]
-        form_data = @pokemon_hash[mon[:species]][form_key]
+        form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[form]
+        form_data = @pokemonHash[mon[:species]][form_key]
     
         mon_details_parts = [
           "#{mon[:gender] ? " (#{mon[:gender]})" : ""}, Lv. #{mon[:level]}",
-          "#{form > 0 ? @pokemon_hash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]]: ""}",
-          "#{mon[:item] ? "@#{@item_hash[mon[:item]][:name]}" : ""}",
-          "#{mon[:ability] ? "Ability: #{@ability_hash[mon[:ability]][:name]}" : ""}",
+          "#{form > 0 ? @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]]: ""}",
+          "#{mon[:item] ? "@#{@itemHash[mon[:item]][:name]}" : ""}",
+          "#{mon[:ability] ? "Ability: #{@abilityHash[mon[:ability]][:name]}" : ""}",
         ]
 
-        form_1_key = @pokemon_hash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
-        form_1_data = @pokemon_hash[mon[:species]][form_1_key]
-        pokemon_name = "#{@pokemon_hash[mon[:species]][form_1_key][:name]}"
+        form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
+        form_1_data = @pokemonHash[mon[:species]][form_1_key]
+        pokemon_name = "#{@pokemonHash[mon[:species]][form_1_key][:name]}"
 
         mon_details_td = doc.create_element('td')
         mon_details_td.add_child(doc.create_element('strong', pokemon_name))
@@ -140,7 +149,7 @@ class TrainerGetter
           end
         end
       
-        moves_str = "- " + mon[:moves].compact.map { |move| @move_hash[move][:name] }.join("\n- ")
+        moves_str = "- " + mon[:moves].compact.map { |move| @moveHash[move][:name] }.join("\n- ")
         content_row.add_child(doc.create_element('td', moves_str))
     
         ev_str = mon[:ev] ? "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }.join(", ") : "EVs: #{[85, mon[:level] * 3 / 2].min}"
@@ -158,6 +167,14 @@ class TrainerGetter
     html_output = doc.to_html 
     return html_output.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
   end  
+
+  def report_missing_trainers()
+    puts "UNUSED TRAINER IDs: "
+    @trainerHash.each do |trainer_id, _data|
+      next if @trainerStore.include?(trainer_id)
+      p trainer_id
+    end
+  end
   
 end
 

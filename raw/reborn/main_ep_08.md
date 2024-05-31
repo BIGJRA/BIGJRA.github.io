@@ -5,7 +5,7 @@ Make your way all the way back out of the Wasteland. You'll find Cain near the e
 **Relationship Point Choices:**
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
-!battle(["Cain", :Cain, 4], "Wasteland Field")
+!battle(["Cain", :Cain, 3], "Wasteland Field")
 
 Another fight with Cain, this time on a field that benefits his team to some extent. Most of his Pokémon aren't very fast, so a fast sweeper or two can probably clean house. Just watch out for Muk who hits like a truck and also has Minimize for extra shenanigans.
 
