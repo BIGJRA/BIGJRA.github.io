@@ -1252,6 +1252,10 @@ Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the
 - Battle with Victoria in the Devon Basement (+1 Victoria)
 - Battle with Arclight in the Devon Basement (+1 Arclight)
 
+!partner(["Victoria", :Victoria2, 0])
+
+!partner(["Arclight", :ARCLIGHT, 1])
+
 !dbattle(["Allyssa", :NWOrderlyF, 0], ["Bishop", :NWOrderly, 0], "Factory Field")
 
 We can't get the Mega Stone in the corner quite yet. Up the stairs, head out the door into the main area and talk to the shining spot to get a *Radio Transceiver*.
@@ -1383,6 +1387,47 @@ Return to Beryl Ward. With the Kecleon gone, we can now access the library once 
 Enter the secret door here to get *TM30 Shadow Ball* as well as the *Catching Charm: Amethyst*, a new item which increases our odds of capturing Pokémon.
 
 One more quick thing if you'd like: Fly on over to Calcenon City and go to Route 4. Hop across the rocks at the lake during the nighttime to catch Ame's Absol.
+
+## Grand Hall Trainers 6
+
+
+By defeating Noel, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L.* The updated teams are as follows:
+
+**Sunday:**
+
+!battle(["Carol", :COOLTRAINER_Female, 4])
+
+!battle(["Gibson", :Casanova, 4])
+
+!battle(["Fawkes", :COOLTRAINER_Male, 4])
+
+**Monday:**
+
+!battle(["Jonah", :YOUNGSTER, 4])
+
+**Tuesday:**
+
+!battle(["Jace", :COOLTRAINER_Male, 4])
+
+**Wednesday:**
+
+!battle(["Silva", :PSYCHIC_Male, 4])
+
+**Thursday:**
+
+!battle(["JB", :EXPERT_Male, 4])
+
+**Friday:**
+
+!battle(["Will", :TechNerd, 4])
+
+**Saturday:**
+
+!battle(["Anthony", :EXPERT_Male, 4])
+
+!battle(["Emile", :COOLTRAINER_Male, 4])
+
+!dbattle(["Zach", :Casanova, 4], ["Beau", :LADY, 4])
 
 ## Amaranth Badge
 

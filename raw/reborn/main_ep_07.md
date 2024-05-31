@@ -90,6 +90,8 @@ Once more, trainers in the Grand Hall have gotten stronger. Defeating them will 
 
 !battle(["Gibson", :Casanova, 1])
 
+!battle(["Fawkes", :COOLTRAINER_Male, 1])
+
 **Monday:**
 
 !battle(["Jonah", :YOUNGSTER, 1])

@@ -588,6 +588,8 @@ Now is a good time to mention the Grand Hall repeatable grinding trainers in the
 
 !battle(["Gibson", :Casanova, 3])
 
+!battle(["Fawkes", :COOLTRAINER_Male, 3])
+
 **Monday:**
 
 !battle(["Jonah", :YOUNGSTER, 3])

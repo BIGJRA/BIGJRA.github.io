@@ -344,6 +344,8 @@ By defeating Noel, trainers in the Grand Hall have gotten stronger once more. De
 
 !battle(["Gibson", :Casanova, 2])
 
+!battle(["Fawkes", :COOLTRAINER_Male, 2])
+
 **Monday:**
 
 !battle(["Jonah", :YOUNGSTER, 2])

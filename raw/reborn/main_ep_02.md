@@ -633,6 +633,8 @@ After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defe
 
 !battle(["Gibson", :Casanova, 5])
 
+!battle(["Fawkes", :COOLTRAINER_Male, 5])
+
 **Monday:**
 
 !battle(["Jonah", :YOUNGSTER, 5])

@@ -479,6 +479,8 @@ You can now accuse one of the culprits. Each will battle you once accused. You c
 
 However, there is one more option: you can check your bag to find the Blue Orb inside *before* making any accusation: this will cause everyone to fight you in a gauntlet, with Anomaly Hoopa as your partner.
 
+!partner(["Hoopa", :HOOPA, 0])
+
 !dbattle(["John", :NWOrderly, 1], ["Eustace", :MASTERMIND, 1])
 
 The second battle will be Julia and the opposing gang leader, depending on your gang choice:
@@ -514,7 +516,7 @@ Hug the left side to reach:
 
 Head to the top of the hill once you're ready.
 
-!dbattle(["Corin-Rouge", :CORINROUGE, 1],["Hoopa", :HOOPA, 0], "New World")
+!dbattle(["Corin-Rouge", :CORINROUGE, 1], ["Hoopa", :HOOPA, 0], "New World")
 
 Another New World field 12v6. Joy. It's worth noting that Hoopa's team is entirely Trick Room based and slow, while Corin-Rouge's team is a bit speedier altogether. Therefore I recommend either focusing on knocking out Hoopa's team so you can run with the Trick Room yourself, or focusing on knocking out Corin-Rouge first and suppressing/reversing Trick Room whenever possible. By now we also have a lot of legendaries whose signature moves are boosted on this field and Ultra Beasts who can sweep with some momentum, so despite how stacked against you this is, we do have some tools that we can use going forward.
 

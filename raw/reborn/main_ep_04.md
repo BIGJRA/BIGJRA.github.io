@@ -283,6 +283,8 @@ After defeating Corey, the trainers in the Grand Hall have gotten stronger once 
 
 !battle(["Gibson", :Casanova, 0])
 
+!battle(["Fawkes", :COOLTRAINER_Male, 0])
+
 **Monday:**
 
 !battle(["Jonah", :YOUNGSTER, 0])

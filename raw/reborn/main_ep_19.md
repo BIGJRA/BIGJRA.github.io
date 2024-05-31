@@ -59,6 +59,8 @@ Defeat the next Meteor Ace and head up to watch the scene. Before we continue, h
 
 In the bottom left side of the city, a newly-opened path will lead to a building. Inside is a double battle with Victoria as a partner.
 
+!partner(["Victoria", :Victoria2, 2])
+
 !dbattle(["Steven", :MeteorAceM, 0], ["Avril", :MeteorAceF, 0])
 
 Head up and see who's in the back of this building.
@@ -76,6 +78,10 @@ Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the 
 **Relationship Point Choices:**
 - On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
 - On Reshiram Route only, tell Amaria you don't trust her (-1 Amaria)
+
+On Reshiram Route Amaria will also join us as a partner for this fight. 
+
+!partner(["Amaria", :AMARIA2, 2])
 
 !dbattle(["Arcturus", :NWCultist, 2], ["Angela", :NWCultistF, 1])
 
@@ -988,7 +994,7 @@ Towards the top of the room, you can follow a rock climb path to the *Salamencit
 
 In the bottom left side of the room, we can access a path that takes us up some rocks and to a spirit.
 
-!battle(["Ikaru", :IKARU, 0], "Psychic Terrain")
+!battle(["Ikaru", :SPIRITM, 0], "Psychic Terrain")
 
 Once you're done, enter the room at the bottom right.
 
