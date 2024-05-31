@@ -36,16 +36,9 @@ Enter Celestinine Mountain by surfing up at the cascade.
 
 Go left up the stairs at your first opportunity, and make your way across the ice here such that you can surf at the bottom of this area. Go down at the dive spot here.
 
+!enc(389, nil, nil, "Celestinine & Ametrine Mountains Underwater")
+
 Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
-
-**Celestinine Mountain B1F / B3F / 1F / 2F / Ametrine Mountain B3F / B2F / B1F / 1F / 2F Underwater Tunnels**
-
-|Land              |%  |
-|------------------|---|
-|**Clamperl**      |45 |
-|Chinchou          |30 |
-|**Lanturn**       |15 |
-|**Relicanth**     |10 |
 
 Emerge at the other dive spot. You can find a hidden *PokéSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back to the previous dive spot. Next, go up and right to head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
 
@@ -55,34 +48,15 @@ Make your way back to the crescent dive spot. Head up to reach Ametrine Mountain
 
 Follow the path, diving up and down as you go. Once you pop up inside the iceberg, you'll find another PULSE!
 
-**Pokémon Redoubt. Field: Icy Field**
-- PULSE Avalugg, Lv. 70, @Leftovers, Ability: Solid Rock, Brave Nature, IVs: 31, EVs: 252/0/252/0/4/0.
-    - Hammer Arm
-    - Earthquake
-    - Recover
-    - Avalanche
+!battle(["Redoubt", :AVALUGG, 0], "Icy Field")
 
-With 255 in Def and SpD, a respectable HP, Leftovers and Recover, this thing is tanky! It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side. There are a number of strategies that make this doable - it is a 6v1 after all, so it can't shake off stat debuffs. Toxic, Protect, and a healing move on a physically defensive Pokémon alone can pretty much win this fight. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc.
+With 255 in Def and SpD, a respectable HP stat, Leftovers and Recover, this thing is tanky! It also has a great attack stat and can hit hard with field boosted Avalanche as well as Hammer Arm and Earthquake for coverage. Earthquake also has the side effect of laying spikes on your side. There are a number of strategies that make this doable - it is a 6v1 after all, so it can't shake off stat debuffs. Toxic, Protect, and a healing move on a physically defensive Pokémon alone can pretty much win this fight. Heal Block, Knock Off, or Taunt can help with the recovery problem, Intimidate or other Atk debuffs can help neutralize its power, Counter or Metal Burst can ignore its high Def, etc.
 
 With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F. Up here you can get a hidden *Green Shard*, *X Attack*, and *Blue Shard*. On the next floor, you'll find a hidden *Ice Gem*. By going to the bottom left corner then alternating between going right and up/down, make your way to the door on the middle of the right side of the ice puzzle and exit.
 
 ## Ametrine City
 
-**Ametrine City**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Snover            |20 |Snover            |20 |Snover            |20 |
-|**Vulpix-Alola**  |20 |**Vulpix-Alola**  |20 |**Vulpix-Alola**  |20 |
-|**Drampa**        |11 |Bergmite          |10 |Bergmite          |10 |
-|Bergmite          |10 |Piloswine         |10 |Piloswine         |10 |
-|Piloswine         |10 |Beartic           |10 |Beartic           |10 |
-|Beartic           |10 |**Drampa**        |10 |**Drampa**        |10 |
-|Abomasnow         |5  |Abomasnow         |5  |Noctowl           |10 |
-|**Ambipom**       |5  |**Ambipom**       |5  |Furfrou           |5  |
-|Furfrou           |5  |Furfrou           |5  |**Vanillish**     |4  |
-|**Vanillish**     |4  |**Vanillish**     |4  |Absol             |1  |
-|                  |   |Absol             |1  |                  |   |
+!enc(439)
 
 Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokéSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and *Zinc* as you proceed. Talk to Shelly here.
 
@@ -94,46 +68,11 @@ Back at the main village fork, go down. In the south side of the city you can pi
 
 In the house next to the Pokémon Center, talk to the guy to learn of a glitch in his computer. Talk to the machine for a short battle gauntlet!
 
-**MIS5INGN0 4B 8 4 8. Field: Glitch Field**
-- Parasect, Lv. 74, Ability: Effect Spore, Serious Nature, IVs: 10
-    - Spore
-    - Nature Power
-    - Leech Seed
-    - Double Team
-- Dugtrio, Lv. 75, Ability: Arena Trap, Serious Nature, IVs: 10
-    - Earthquake
-    - Sludge Wave
-    - Hyper Beam
-    - Tri Attack
+!battle(["4B 8 4 8", :GLITCH1, 0], "Glitch Field")
 
-**MIS5INGN0 'Ng'Mp. Field: Glitch Field**
-- Weepinbell, Lv. 75, Ability: Chlorophyll, Serious Nature, IVs: 10
-    - Sludge Bomb
-    - Nature Power
-    - Swords Dance
-    - Sleep Powder
-- Golduck, Lv. 76, Ability: Cloud Nine, Serious Nature, IVs: 10
-    - Amnesia
-    - Hydro Pump
-    - Blizzard
-    - Psychic
+!battle(["'Ng'Mp", :GLITCH1, 0], "Glitch Field")
 
-**PKMNPKMNT X C. Field: Glitch Field**
-- Tangela, Lv. 76, Ability: Leaf Guard, Serious Nature, IVs: 10
-    - Amnesia
-    - Nature Power
-    - Power Whip
-    - Sleep Powder
-- Pidgeot, Lv. 77, Ability: Tangled Feet, Serious Nature, IVs: 10
-    - Hurricane
-    - Tailwind
-    - Hyper Beam
-    - U-turn
-- Jolteon, Lv. 78, Ability: Volt Absorb, Serious Nature, IVs: 10
-    - Discharge
-    - Pin Missile
-    - Body Slam
-    - Thunder Wave
+!battle(["X C", :GLITCH2, 0], "Glitch Field")
 
 These battles aren't particularly tough, but it is our first real exposure to fighting on the glitch field, so try to get used to its quirks here. For winning, you'll obtain the *Department Store Sticker: Porygon-Z*.
 
@@ -174,272 +113,47 @@ Head outside and pick up the hidden *Flying Gem*. Talk to Shelly here. Once you 
 
 Make your way back to the main part of Ametrine City and go all the way left. You'll have to defeat a few Meteor Grunts, with either Shelly or Cal as a partner depending on your choices.
 
-**Meteor Ace Bruno & Meteor Ace Ray. Field: Snowy Mountain**
-- Arcanine, Lv. 69, Ability: Intimidate, Serious Nature, IVs: 10
-    - Heat Wave
-    - Extreme Speed
-    - Close Combat
-    - Iron Tail
-- Manectric, Lv. 70, Ability: Lightning Rod, Serious Nature, IVs: 10
-    - Volt Switch
-    - Flamethrower
-    - Thunder Wave
-    - Discharge
-- Stoutland, Lv. 71, Ability: Intimidate, Serious Nature, IVs: 10
-    - Play Rough
-    - Reversal
-    - Retaliate
-    - Crunch
-- Raticate-Alola, Lv. 69, Ability: Thick Fat, Serious Nature, IVs: 10
-    - Super Fang
-    - Sucker Punch
-    - U-turn
-    - Swords Dance
-- Gogoat, Lv. 69, Ability: Sap Sipper, Serious Nature, IVs: 10
-    - Horn Leech
-    - Wild Charge
-    - Rollout
-    - Milk Drink
-- Bibarel, Lv. 70, Ability: Moody, Serious Nature, IVs: 10
-    - Super Fang
-    - Waterfall
-    - Bulldoze
-    - Rollout
+!partner(["Shelly", :SHELLY, 2])
+
+!partner(["Cal", :REBORN, 0])
+
+!battle(["Bruno", :MeteorAceM, 0], "Snowy Mountain", ["Ray", :MeteorAceM, 0])
 
 Grab a hidden *Red Shard*, *Dire Hit*, and *Repel* as you climb. You'll see a narrow passage along the top that leads up and left, which you can follow to get a *Full Restore*. Head right.
 
 **Relationship Point Choices:**
 - After saving the police and exposing Corey and giving Blake the ring, watch Blake and Heather's conversation (+1 Heather)
 
-**Meteor Ace Devin & Meteor Ace Sanchez. Field: Snowy Mountain**
-- Unfezant, Lv. 69, Ability: Super Luck, Serious Nature, IVs: 10
-    - Tailwind
-    - Detect
-    - Hypnosis
-    - Air Slash
-- Solrock, Lv. 70, Serious Nature, IVs: 10
-    - Rock Slide
-    - Psychic
-    - Light Screen
-    - Reflect
-- Escavalier, Lv. 70, Ability: Overcoat, Serious Nature, IVs: 10
-    - Megahorn
-    - Iron Head
-    - Knock Off
-    - Struggle Bug
-- Golem-Alola, Lv. 71, Ability: Galvanize, Serious Nature, IVs: 10
-    - Discharge
-    - Explosion
-    - Rock Slide
-    - Heavy Slam
-- Ariados, Lv. 69, Ability: Sniper, Serious Nature, IVs: 10
-    - Shadow Sneak
-    - Sucker Punch
-    - Rage Powder
-    - Sticky Web
-- Lunatone, Lv. 70, Serious Nature, IVs: 10
-    - Blizzard
-    - Moonblast
-    - Rock Slide
-    - Psychic
-- Accelgor, Lv. 70, Ability: Hydration, Serious Nature, IVs: 10
-    - Encore
-    - Struggle Bug
-    - Sludge Bomb
-    - Giga Drain
-- Seismitoad, Lv. 71, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Muddy Water
-    - Drain Punch
-    - Knock Off
-    - Earth Power
+!battle(["Devin", :MeteorAceM, 0], "Snowy Mountain", ["Sanchez", :MeteorAceM, 0])
 
 Beat the grunts and continue. Pick up the hidden *Red-Hots* and *Swift Wing* then fight the next grunts.
 
-**Meteor Ace Geoff & Meteor Ace Audrey. Field: Snowy Mountain**
-- Lickilicky, Lv. 71, Ability: Own Tempo, Serious Nature, IVs: 10
-    - Power Whip
-    - Gyro Ball
-    - Explosion
-    - Blizzard
-- Barbaracle, Lv. 71, Ability: Tough Claws, Serious Nature, IVs: 10
-    - Shell Smash
-    - Rock Slide
-    - Razor Shell
-    - Cross Chop
-- Dusknoir, Lv. 72, Ability: Pressure, Serious Nature, IVs: 10
-    - Will-O-Wisp
-    - Shadow Punch
-    - Rest
-    - Confuse Ray
-- Vanilluxe, Lv. 71, Ability: Ice Body, Serious Nature, IVs: 10
-    - Blizzard
-    - Weather Ball
-    - Frost Breath
-    - Mirror Shot
-- Corsola, Lv. 71, Ability: Hustle, Serious Nature, IVs: 10
-    - Mirror Coat
-    - Scald
-    - Head Smash
-    - Ancient Power
-- Marowak, Lv. 72, Ability: Lightning Rod, Serious Nature, IVs: 10
-    - Bulldoze
-    - Iron Head
-    - Rock Slide
-    - Smack Down
+!battle(["Geoff", :MeteorAceM, 0], "Snowy Mountain", ["Audrey", :MeteorAceF, 0])
 
 **Relationship Point Choices:**
 - Talk to Shelly after she gets tired, after giving Blake the ring (+1 Shelly)
 
 Continue up the mountain.
 
-**Meteor Ace Demian & Meteor Ace Antoine. Field: Snowy Mountain**
-- Jellicent, Lv. 71, Ability: Cursed Body, Serious Nature, IVs: 10
-    - Water Spout
-    - Blizzard
-    - Ominous Wind
-    - Recover
-- Diggersby, Lv. 71, Ability: Huge Power, Serious Nature, IVs: 10
-    - Earthquake
-    - Frustration
-    - Swords Dance
-    - Quick Attack
-- Golem, Lv. 72, Ability: Sturdy, Serious Nature, IVs: 10
-    - Explosion
-    - Earthquake
-    - Rock Slide
-    - Heavy Slam
-- Venomoth, Lv. 73, Ability: Tinted Lens, Serious Nature, IVs: 10
-    - Sleep Powder
-    - Quiver Dance
-    - Bug Buzz
-    - Psychic
-- Aerodactyl, Lv. 73, Ability: Unnerve, Serious Nature, IVs: 10
-    - Stone Edge
-    - Earthquake
-    - Aqua Tail
-    - Roost
-- Mamoswine, Lv. 71, Ability: Snow Cloak, Serious Nature, IVs: 10
-    - Earthquake
-    - Ice Shard
-    - Rock Slide
-    - Icicle Crash
-- Lurantis, Lv. 71, Ability: Contrary, Serious Nature, IVs: 10
-    - Leaf Storm
-    - Knock Off
-    - Brick Break
-    - Poison Jab
-- Liepard, Lv. 72, Ability: Prankster, Serious Nature, IVs: 10
-    - Fake Out
-    - Swagger
-    - Foul Play
-    - Substitute
-- Mightyena, Lv. 73, Ability: Intimidate, Serious Nature, IVs: 10
-    - Play Rough
-    - Sucker Punch
-    - Crunch
-    - Fire Fang
-- Tyranitar, Lv. 73, Ability: Sand Stream, Serious Nature, IVs: 10
-    - Stone Edge
-    - Crunch
-    - Earthquake
-    - Fire Punch
+!battle(["Demian", :MeteorAceM, 0], "Snowy Mountain", ["Antoine", :MeteorAceF, 0])
 
 You'll see another fork, one path leading you around a narrow cliff to the right that loops you to a lower path. Follow it to get a hidden *Ice Gem* and *TM79 Frost Breath*.
 
 Continue down the main path, picking up the hidden *Ice Heal*, *Telluric Seed*, *Max Repel*, and *Repel* along the way.
 
-**Meteor Ace Ricardo & Meteor Ace Hilda. Field: Snowy Mountain**
-- Slurpuff, Lv. 71, Ability: Unburden, Serious Nature, IVs: 10
-    - Play Rough
-    - Wish
-    - Sticky Web
-    - Surf
-- Minior, Lv. 72, Ability: Shields Down, Serious Nature, IVs: 10
-    - Cosmic Power
-    - Rock Slide
-    - Confuse Ray
-    - Bulldoze
-- Scolipede, Lv. 72, Ability: Speed Boost, Serious Nature, IVs: 10
-    - Megahorn
-    - Rock Slide
-    - Swords Dance
-    - Poison Jab
-- Aggron, Lv. 73, Ability: Rock Head, Serious Nature, IVs: 10
-    - Iron Head
-    - Head Smash
-    - Earthquake
-    - Hone Claws
-- Druddigon, Lv. 71, Ability: Rough Skin, Serious Nature, IVs: 10
-    - Outrage
-    - Night Slash
-    - Superpower
-    - Sucker Punch
-- Carracosta, Lv. 72, Ability: Sturdy, Serious Nature, IVs: 10
-    - Shell Smash
-    - Rock Slide
-    - Aqua Jet
-    - Blizzard
-- Crobat, Lv. 72, Ability: Inner Focus, Serious Nature, IVs: 10
-    - Hypnosis
-    - Brave Bird
-    - Confuse Ray
-    - Cross Poison
-- Chesnaught, Lv. 73, Ability: Bulletproof, Serious Nature, IVs: 10
-    - Spiky Shield
-    - Wood Hammer
-    - Hammer Arm
-    - Rock Slide
+!battle(["Ricardo", :MeteorAceM, 0], "Snowy Mountain", ["Hilda", :MeteorAceF, 0])
 
 After beating the grunts here, go to the left and follow the path along the narrow cliff. Prepare for a quick fight.
 
-**Pokémon Pariah. Field: Snowy Mountain Field**
-- Lucario, Lv. 85, @Sitrus Berry, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Extreme Speed
-    - Meteor Mash
-    - Swords Dance
-    - Close Combat
+!battle(["Pariah", :LUCARIO, 0], "Snowy Mountain")
 
 It can sweep you if you're not prepared, but you can handle this surely. Once you win, head into the cave to get a *Fairy Memory* and an egg that will hatch into **Riolu**.
 
 Head into the cave entrance back on the main path.
 
-### Refused Blake Route: Aster Fight
+If and only if we didn't give Blake the ring, we will not yet have Waterfall, and will fight the following in this cave: 
 
-If you gave Blake the ring, skip ahead to the next section.
-
-Due to our actions we still don't have Waterfall, but there's an extra fight to compensate!
-
-**Meteor Private Aster (2x Ultra Potion). Field: Icy Field**
-- Solrock, Lv. 68, @Light Clay, Ability: Levitate, Adamant Nature, IVs: 31
-    - Stealth Rock
-    - Reflect
-    - Explosion
-    - Light Screen
-- Golurk, Lv. 68, Ability: No Guard, Bashful Nature, IVs: 31
-    - Dynamic Punch
-    - Earthquake
-    - Stone Edge
-    - Shadow Punch
-- Krookodile, Lv. 69, @Muscle Band, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Earthquake
-    - Outrage
-    - Rock Slide
-    - Foul Play
-- Passimian, Lv. 69, @Life Orb, Ability: Defiant, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Close Combat
-    - Earthquake
-    - Rock Slide
-    - Gunk Shot
-- Lycanroc-Midday, Lv. 70, @Life Orb, Ability: Sand Rush, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Brick Break
-    - Rock Slide
-    - Crunch
-    - Drill Run
-- Lycanroc-Midnight, Lv. 73, @Elemental Seed, Ability: No Guard, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Thunder Punch
-    - Stone Edge
-    - Throat Chop
-    - Swords Dance
+!battle(["Aster", :AsterKnight, 4], "Icy Field")
 
 Aster is back, this time completely alone. He has a generally fast and frail physical team, so try to exploit the Icy Field or just overwhelm him with a better singles team.
 
@@ -451,37 +165,7 @@ Inside this cave you can get a hidden *PP Up* and an *Ultra Potion* upstairs.
 
 Emerge into the outside once more, pick up the *Common Candy* and *Shoal Shell*, then prepare for a fight at the top.
 
-**Agent Blake (2x Ultra Potion). Field: Snowy Mountain Field**
-- Gyarados, Lv. 72, Ability: Intimidate, Adamant Nature, IVs: 31
-    - Stone Edge
-    - Dragon Dance
-    - Waterfall
-    - Crunch
-- Mamoswine, Lv. 72, Ability: Snow Cloak, Adamant Nature, IVs: 20
-    - Earthquake
-    - Stealth Rock
-    - Ice Shard
-    - Icicle Crash
-- Weavile, Lv. 73, Ability: Pickpocket, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Night Slash
-    - Power-Up Punch
-    - Ice Shard
-    - Knock Off
-- Starmie, Lv. 73, @Icy Rock, Ability: Natural Cure, Timid Nature, IVs: 31
-    - Blizzard
-    - Hail
-    - Thunder
-    - Light Screen
-- Walrein, Lv. 74, @Leftovers, Ability: Ice Body, Bold Nature, IVs: 31, EVs: 252/0/4/0/252/0
-    - Protect
-    - Avalanche
-    - Surf
-    - Stockpile
-- Sandslash-Alola, Lv. 74, Ability: Slush Rush, Adamant Nature, IVs: 15, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - Swords Dance
-    - Rock Slide
-    - Iron Head
+!battle(["Blake", :BLAKE, 0], "Snowy Mountain")
 
 Blake has a pretty tough doubles team that takes advantage of the power of Water and Ice types, but mainly from the physical side. Intimidate Gyarados is good as usual, and paired with Snow Cloak Mamoswine, it can crush your Pokémon that aren't as defensively blessed. In the back he has the speedy combo of Weavile, Starmie, and Slush Rush Sandslash, plus has a bulky Walrein with an extra 1.5x boost to defense thanks to natural hail. On top of that, the field boosts all of his Ice type attacks as well as Rock Slide, plus makes Thunder perfectly accurate. All in all this is a tough fight but not unbeatable!
 
@@ -537,7 +221,6 @@ By beating Charlotte, we now have access to stronger teams on Clown Indra. Beati
 
 !battle(["Indra", :INDRA, 19])
 
-
 ## Glitch City
 
 Enter the Big Top and talk to Samson in the back. Terra will go into the computer... it's up to us to follow, so talk to Samson and go in.
@@ -546,52 +229,15 @@ Welcome to Glitch City. Note that as we clear parts of this area we will never b
 
 Make your way through Kanto Route 23 as normal until Terra destroys the guy! Go down the ladder that appears here.
 
-**Glitch Mt Moon**
+!enc(445, nil, nil, "Glitch Mt Moon")
 
-|Cave              |%  |
-|------------------|---|
-|Zubat             |79 |
-|Geodude           |15 |
-|Paras             |5  |
-|Clefairy          |1  |
+!battle(["u", :GLITCH1, 0], "Glitch Field")
 
-**MIS5INGN0 u. Field: Glitch Field**
-- Horsea, Lv. 75, Ability: Sniper, Serious Nature, IVs: 10
-    - Hydro Pump
-    - Blizzard
-    - Dragon Pulse
-    - Swagger
-- Seadra, Lv. 75, Ability: Sniper, Serious Nature, IVs: 10
-    - Dragon Dance
-    - Hyper Beam
-    - Focus Energy
-    - Clear Smog
+!battle(["C", :GLITCH1, 0], "Glitch Field")
 
-**MIS5INGN0 C. Field: Glitch Field**
-- Omanyte, Lv. 74, Ability: Shell Armor, Serious Nature, IVs: 10
-    - Shell Smash
-    - Hydro Pump
-    - Blizzard
-    - Protect
-- Farfetch'd, Lv. 75, Ability: Inner Focus, Serious Nature, IVs: 10
-    - Brave Bird
-    - First Impression
-    - Swords Dance
-    - Poison Jab
+!battle(["94 h", :GLITCH1, 0], "Glitch Field")
 
-**MIS5INGN0 94 h. Field: Glitch Field**
-- Snorlax, Lv. 73, Ability: Thick Fat, Serious Nature, IVs: 10
-    - Curse
-    - Hyper Beam
-    - Earthquake
-    - Rock Slide
-
-**MIS5INGN0 'M. Field: Glitch Field**
-- Aerodactyl, Lv. 73, Ability: Rock Head, Serious Nature, IVs: 10
-    - Hyper Beam
-    - Earthquake
-    - Stone Edge
-    - Hone Claws
+!battle(["'M", :GLITCH1, 0], "Glitch Field")
 
 In Mt. Moon, pick up 2 *Potions*, an *Escape Rope* and a *Rare Candy*.
 
@@ -600,23 +246,9 @@ In Mt. Moon, pick up 2 *Potions*, an *Escape Rope* and a *Rare Candy*.
 
 Exit out the bottom.
 
-**Glitch Opal Ward**
+!enc(447, nil, nil, "Glitch Opal Ward")
 
-|Land              |%  |
-|------------------|---|
-|Rattata           |30 |
-|Bidoof            |30 |
-|Patrat            |15 |
-|Pidgey            |15 |
-|Meowth            |5  |
-|Ekans             |5  |
-
-**PKMNPKMNT 7g. Field: Glitch Field**
-- Vaporeon, Lv. 74, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Hydro Pump
-    - Blizzard
-    - Body Slam
-    - Yawn
+!battle(["7g", :GLITCH2, 0], "Glitch Field")
 
 **Relationship Point Choices:**
 - Talk to Timmy (+1 Terra)
@@ -626,12 +258,7 @@ Exit out the bottom.
 
 Enter the ladder in the glitchy mess on the left to reach Rocket Hideout.
 
-**PKMNPKMNT ABBBBBBK. Field: Glitch Field**
-- Charmeleon, Lv. 75, Ability: Solar Power, Serious Nature, IVs: 10
-    - Overheat
-    - Dragon Dance
-    - Dragon Claw
-    - Brick Break
+!battle(["ABBBBBBK", :GLITCH2, 0], "Glitch Field")
 
 Grab the *Super Potion* and make your way through the tile maze - it's the same as in Gen 1 Pokémon.
 
@@ -648,21 +275,7 @@ When you get to the other side, use the elevator and not the stairs. In Lavender
 
 Enter the house nearby the NPC to continue.
 
-**Glitch Byxbysion Wasteland**
-
-|Land              |%  |
-|------------------|---|
-|Grimer            |40 |
-|Muk               |10 |
-|Koffing           |10 |
-|Zubat             |10 |
-|Weezing           |10 |
-|Ekans             |5  |
-|Arbok             |5  |
-|Cubone            |4  |
-|Drowzee           |4  |
-|**Marowak**       |1  |
-|Hypno             |1  |
+!enc(450, nil, nil, "Glitch Byxbysion Wasteland")
 
 **Relationship Point Choices:**
 - Talk to the computer near where we once fought Ace (+1 Terra)
@@ -671,21 +284,11 @@ Head left, hopping down ledges as you go. Enter the door at the top.
 
 In the Pokémon Mansion, grab the *Iron* to the right then press the switch.
 
-**OPKMN4X PKMN. Field: Glitch Field**
-- Sandslash, Lv. 75, Ability: Sand Rush, Serious Nature, IVs: 10
-    - Sandstorm
-    - Earthquake
-    - Stone Edge
-    - Hyper Beam
+!battle(["PKMN", :GLITCH3, 0], "Glitch Field")
 
 Down from here, take the stairs on the right.
 
-**M1SS1NGO PC4SH. Field: Glitch Field**
-- Poliwrath, Lv. 75, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Bulldoze
-    - Power-Up Punch
-    - Hyper Beam
-    - Focus Blast
+!battle(["PC4SH", :GLITCH4, 0], "Glitch Field")
 
 Grab the *Dubious Disc* and hidden *Max Potion*.
 
@@ -694,87 +297,25 @@ Grab the *Dubious Disc* and hidden *Max Potion*.
 
 Back upstairs, enter the smaller of two gaps to proceed.
 
-**Glitch Citae Astrae**
+!enc(452, nil, nil, "Glitch Citae Astrae")
 
-|Land              |%  |
-|------------------|---|
-|Shiny Porygon     |100|
+These Porygon are always Shiny! Exit at the bottom.
 
-Exit at the bottom.
-
-**Glitch Victory Road**
-
-|Cave              |%  |
-|------------------|---|
-|Onix              |30 |
-|**Machop**        |25 |
-|Zubat             |20 |
-|Geodude           |10 |
-|Golbat            |5  |
-|Machoke           |5  |
-|Marowak           |4  |
-|Graveler          |1  |
+!enc(453, nil, nil, "Glitch Victory Road")
 
 Victory Road? This isn't like any Victory Road I've ever seen... Anyways, exit at the top.
 
-**Glitch Cerulean Cave**
-
-|Cave              |%  |
-|------------------|---|
-|Rhydon            |20 |
-|Electrode         |20 |
-|Marowak           |10 |
-|**Venomoth**      |10 |
-|Parasect          |10 |
-|**Dodrio**        |10 |
-|Hypno             |10 |
-|Arbok             |5  |
-|**Raichu**        |5  |
+!enc(455, nil, nil, "Glitch Cerulean Cave")
 
 In Cerulean Cave you can get a *Max Repel*. The other ball is a Light Shard, useful because:
 
-**PKMNPKMNT M2. Field: Glitch Field**
-- Mewtwo, Lv. 75, @Leftovers, Ability: Pressure, Modest Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Psystrike
-    - Recover
-    - Thunderbolt
-    - Ice Beam
+!battle(["M2", :GLITCH2, 0], "Glitch Field")
 
 Bringing Mewtwo back to where it belongs with Glitch Field: completely broken. Of note is its Psystrike, which gets boosted by the field and Mewtwo's high Special Attack yet hits your Pokémon on their Defense. That said, there are still tons of ways to win these 6v1's as we've learned by now, so pick your favorite one.
 
 Proceed and get ready for the gym battle! Note that you can actually exit back to the circus easily in case you want to do more prep.
 
-**M3G4 T3RR4 (3x Ultra Potion). Field: Glitch Field**
-- Nidoking, Lv. 73, @Life Orb, Ability: Sheer Force, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Amnesia
-    - Blizzard
-    - Thunderbolt
-    - Flamethrower
-- Hippowdon, Lv. 72, @Smooth Rock, Ability: Sand Stream, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Bulldoze
-    - Stealth Rock
-    - Yawn
-    - Stone Edge
-- Excadrill, Lv. 73, @Life Orb, Ability: Sand Rush, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Earthquake
-    - X-Scissor
-    - Rock Slide
-    - Swords Dance
-- Palossand, Lv. 73, @Synthetic Seed, Ability: Sand Veil, Rash Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Giga Drain
-    - Shore Up
-    - Psychic
-    - Amnesia
-- Quagsire, Lv. 72, @Synthetic Seed, Ability: Unaware, Bold Nature, IVs: 20, EVs: 252/0/252/0/4/0
-    - Scald
-    - Amnesia
-    - Blizzard
-    - Recover
-- Garchomp, Lv. 75, @Assault Vest, Ability: Rough Skin, Jolly Nature, IVs: 31, EVs: 4/0/0/0/252/252
-    - Draco Meteor
-    - Bulldoze
-    - Stone Edge
-    - Flamethrower
+!battle(["T3RR4", :TERRA, 0], "Glitch Field")
 
 Time to take on M3G4 T3RR4. As you've probably come to learn by now, the Glitch Field is pretty funky, enough that I'm gonna cover its intricacies with a whole diatribe before we even fight her. There are a few really important things about this field that you need to remember:
 
@@ -785,7 +326,7 @@ Time to take on M3G4 T3RR4. As you've probably come to learn by now, the Glitch 
 
 So, onto how Terra uses this field. You'll get a good example of the second principle right away in her Nidoking, who will get bulkier and *stronger* by using Amnesia. It can then hit hard with extra-accurate Blizzard, Thunderbolt and Flamethrower for wide special coverage. Hippowdon is bulky and likes to put you to sleep and hit with the ol' reliable Rock / Ground offensive combo, but more importantly, it sets up weather for its buddy Sand Rush Excadrill, who gets boosted critical hit rate as long as it's going first. If that wasn't enough she has a mixed Garchomp who gets to ignore the SpA drops of Draco Meteor by calculating special damage based on its SpD stat, but can also hit hard with physical Bulldoze and Stone Edge. Rounding out her team is Palossand and Quagsire, each with the Synthetic Seed, neutralizing their weaknesses entirely and allowing each to set up with Amnesia and Recovery moves. Quagsire even has Unaware to ruin whatever similar SpD stacking strategy you have going! All in all a tough team that may really mess you up if you aren't using the field to maximum effect for your team.
 
-The first thing I recommend for this fight is to literally use a list like [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) to find some Pokémon with really high SpD, since they are generally the best for this field. Even better if they have moves like Amnesia, Stockpile, or Cosmic Power - you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed of their own to avoid super-effective damage taken.  Ice, Water, Grass, and Psychic moves are generally the best choices offensively here - in particular, 90% accurate Blizzard and hits-defense Psyshock are good choices. It's worth noting that Explosion halves enemy defense, which makes it useful as a last-minute nuke against the ??? type tanks or Garchomp. If have a Pokémon with high speed and a move like Leaf Blade, you can also try to go for 100% critical hit chance, which should allow you a much easier time with the members of her team who stack SpD. You can also consider using Roar, Whirlwind, or Dragon Tail on the ??? type Pokémon, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them.
+The first thing I recommend for this fight is to literally use a list like [this one](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VII)) to find some Pokémon with really high SpD, since they are generally the best for this field. Even better if they have moves like Amnesia, Stockpile, or Cosmic Power - you can use them to sweep once you get past Quagsire, especially if you decide to give them a Synthetic Seed of their own to avoid super-effective damage taken. Ice, Water, Grass, and Psychic moves are generally the best choices offensively here - in particular, 90% accurate Blizzard and hits-defense Psyshock are good choices. It's worth noting that Explosion halves enemy defense, which makes it useful as a last-minute nuke against the ??? type tanks or Garchomp. If have a Pokémon with high speed and a move like Leaf Blade, you can also try to go for 100% critical hit chance, which should allow you a much easier time with the members of her team who stack SpD. You can also consider using Roar, Whirlwind, or Dragon Tail on the ??? type Pokémon, since that will wipe away their special typing and defense boost, allowing you to use Grass moves more easily on them.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
