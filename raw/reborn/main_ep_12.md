@@ -16,75 +16,17 @@ Once you're all set, make your way to the Agate City checkpoint north of the Van
 
 After our first introduction to Terra in Agate City... we get to explore the Agate Circus! This area will serve as our "home base" of sorts while we obtain the next few badges. There are trainers scattered about as well as a healing component in the bottom of the area. The trainers on the map, roughly clockwise:
 
-**Clown Drolly. Field: No Field**
-- Claydol, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Psychic
-    - Sandstorm
-    - Earth Power
-    - Ancient Power
-- Ambipom, Lv. 66, @Air Balloon, Serious Nature, IVs: 10
-    - Fake Out
-    - Last Resort
+!battle(["Drolly", :Clown, 0])
 
-**Clown Bert. Field: No Field**
-- Exeggcute, Lv. 66, @Air Balloon, Serious Nature, IVs: 10
-    - Barrage
-    - Sleep Powder
-    - Swords Dance
-    - Bullet Seed
-- Delibird, Lv. 75, @Air Balloon, Serious Nature, IVs: 10
-    - Present
-    - Destiny Bond
-    - Frost Breath
-    - Swagger
+!battle(["Bert", :Clown, 0])
 
-**Clown Leonardo. Field: No Field**
-- Luxray, Lv. 66, @Air Balloon, Serious Nature, IVs: 10
-    - Wild Charge
-    - Crunch
-    - Electric Terrain
-    - Ice Fang
-- Pyroar, Lv. 66, @Air Balloon, Serious Nature, IVs: 10
-    - Work Up
-    - Wild Charge
-    - Flame Charge
-    - Overheat
+!battle(["Leonardo", :Clown, 0])
 
-**Clown Posty. Field: No Field**
-- Bruxish, Lv. 64, @Air Balloon, Serious Nature, IVs: 10
-    - Psychic Fangs
-    - Swords Dance
-    - Aqua Jet
-    - Crunch
-- Mr. Mime, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Teeter Dance
-    - Energy Ball
-    - Psychic
-    - Thunder Wave
+!battle(["Posty", :Clown, 0])
 
-**Clown Bingo. Field: No Field**
-- Gurdurr, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Bulk Up
-    - Brick Break
-    - Smack Down
-    - Poison Jab
-- Gurdurr, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Bulk Up
-    - Drain Punch
-    - Rock Slide
-    - Poison Jab
+!battle(["Bingo", :Clown, 0])
 
-**Clown Arthur. Field: No Field**
-- Venusaur, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Sleep Powder
-    - Leech Seed
-    - Energy Ball
-    - Sludge Bomb
-- Unfezant, Lv. 65, @Air Balloon, Serious Nature, IVs: 10
-    - Tailwind
-    - Swagger
-    - U-turn
-    - Air Slash
+!battle(["Arthur", :Clown, 0])
 
 Hidden around the circus, you'll find 3 *Blue Shards*, *Oran Berry*, *Red Shard*, *Full Heal*, *Ultra Potion*, *Escape Rope*, *Purple Shard*, and 2 *Green Shards*.
 
@@ -130,7 +72,7 @@ Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
 Down from here there are more stores and such.
 
-!shop("Agate Circus Snax", ["PokéSnax"], [200])
+!shop("Agate Circus Snax", ["PokéSnax"], [650])
 
 !shop("Agate Circus Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
@@ -186,12 +128,7 @@ Head out, then come back in to have some conversations for relationship points i
 
 While we're in the big top, if you talk to a clown in the audience, they'll fight you.
 
-**Clown Darko. Field: Big Top Arena**
-- Unown, Lv. 85, @Air Balloon, Serious Nature, IVs: 10
-    - Hidden Power
-    - Hidden Power
-    - Hidden Power
-    - Hidden Power
+!battle(["Darko", :Clown, 0], "Big Top Arena")
 
 Exit the Big Top. You'll notice another tutor on the left side of the circus.
 
@@ -203,195 +140,31 @@ Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, 
 
 Before we proceed, one more thing to note in the circus is the colorful clown in the upper-right part of the area: Clown Indra. Without access to the Grand Hall trainers, he is our best option for grinding. Upon winning, we will get 8 *Exp. Candy L* and a randomly colored *Shard*. Note that he will battle you with a randomly chosen team from a pool which is as follows:
 
-**Clown Indra (RED). Field: No Field**
-- Scizor, Lv. 58, @Air Balloon, Ability: Light Metal, Adamant Nature, IVs: 10
-    - Bullet Punch
-    - U-turn
-    - Superpower
-    - Pursuit
-- Talonflame, Lv. 58, @Air Balloon, Ability: Gale Wings, Adamant Nature, IVs: 10
-    - Flare Blitz
-    - Acrobatics
-    - Swords Dance
-    - Roost
-- Porygon-Z, Lv. 58, @Air Balloon, Ability: Analytic, Timid Nature, IVs: 10
-    - Tri Attack
-    - Dark Pulse
-    - Thunderbolt
-    - Ice Beam
+!battle(["Indra", :INDRA, 0])
 
-**Clown Indra (BLUE). Field: No Field**
-- Empoleon, Lv. 58, @Air Balloon, Ability: Torrent, Calm Nature, IVs: 10
-    - Scald
-    - Roar
-    - Stealth Rock
-    - Flash Cannon
-- Simipour, Lv. 58, @Air Balloon, Ability: Torrent, Timid Nature, IVs: 10
-    - Nasty Plot
-    - Hydro Pump
-    - Ice Beam
-    - Focus Blast
-- Wailord, Lv. 58, @Air Balloon, Ability: Water Veil, Modest Nature, IVs: 10
-    - Water Spout
-    - Hydro Pump
-    - Ice Beam
-    - Hidden Power
+!battle(["Indra", :INDRA, 1])
 
-**Clown Indra (YELLOW). Field: No Field**
-- Ribombee, Lv. 58, @Air Balloon, Ability: Shield Dust, Modest Nature, IVs: 10
-    - Quiver Dance
-    - Pollen Puff
-    - Moonblast
-    - Roost
-- Ninjask, Lv. 58, @Air Balloon, Ability: Infiltrator, Jolly Nature, IVs: 10
-    - U-turn
-    - Final Gambit
-    - Aerial Ace
-    - X-Scissor
-- Dedenne, Lv. 58, @Air Balloon, Ability: Cheek Pouch, Jolly Nature, IVs: 10
-    - Nuzzle
-    - Attract
-    - Play Rough
-    - Double Team
+!battle(["Indra", :INDRA, 2])
 
-**Clown Indra (GREEN). Field: No Field**
-- Hawlucha, Lv. 58, @Air Balloon, Ability: Limber, Jolly Nature, IVs: 10
-    - Sky Attack
-    - High Jump Kick
-    - Acrobatics
-    - Swords Dance
-- Lilligant, Lv. 58, @Air Balloon, Ability: Own Tempo, Modest Nature, IVs: 10
-    - Quiver Dance
-    - Sleep Powder
-    - Petal Dance
-    - Hidden Power
-- Flygon, Lv. 58, @Air Balloon, Ability: Levitate, Jolly Nature, IVs: 10
-    - Outrage
-    - Earthquake
-    - U-turn
-    - Superpower
+!battle(["Indra", :INDRA, 3])
 
-**Clown Indra (BLACK). Field: No Field**
-- Toucannon, Lv. 58, @Air Balloon, Ability: Skill Link, Adamant Nature, IVs: 10
-    - Beak Blast
-    - Brick Break
-    - Roost
-    - Swords Dance
-- Dusknoir, Lv. 58, @Air Balloon, Ability: Pressure, Adamant Nature, IVs: 10
-    - Shadow Sneak
-    - Earthquake
-    - Ice Punch
-    - Trick
-- Snorlax, Lv. 58, @Air Balloon, Ability: Gluttony, Careful Nature, IVs: 10
-    - Curse
-    - Body Slam
-    - Rest
-    - Earthquake
+!battle(["Indra", :INDRA, 4])
 
-**Clown Indra (BROWN). Field: No Field**
-- Ursaring, Lv. 58, @Air Balloon, Ability: Guts, Jolly Nature, IVs: 10
-    - Facade
-    - Throat Chop
-    - Close Combat
-    - Protect
-- Dragonite, Lv. 58, @Air Balloon, Ability: Multiscale, Adamant Nature, IVs: 10
-    - Outrage
-    - Extreme Speed
-    - Fire Punch
-    - Earthquake
-- Sawsbuck, Lv. 58, @Air Balloon, Ability: Chlorophyll, Jolly Nature, IVs: 10
-    - Swords Dance
-    - Double-Edge
-    - Horn Leech
-    - Jump Kick
+!battle(["Indra", :INDRA, 5])
 
-**Clown Indra (PURPLE). Field: No Field**
-- Tsareena, Lv. 58, @Air Balloon, Ability: Queenly Majesty, Jolly Nature, IVs: 10
-    - U-turn
-    - High Jump Kick
-    - Power Whip
-    - Play Rough
-- Mismagius, Lv. 58, @Air Balloon, Ability: Levitate, Timid Nature, IVs: 10
-    - Nasty Plot
-    - Shadow Ball
-    - Dazzling Gleam
-    - Thunderbolt
-- Mienshao, Lv. 58, @Air Balloon, Ability: Reckless, Jolly Nature, IVs: 10
-    - Stone Edge
-    - Hidden Power
-    - U-turn
-    - High Jump Kick
+!battle(["Indra", :INDRA, 6])
 
-**Clown Indra (GRAY). Field: No Field**
-- Carbink, Lv. 58, @Air Balloon, Ability: Sturdy, Bold Nature, IVs: 10
-    - Calm Mind
-    - Rest
-    - Sleep Talk
-    - Moonblast
-- Klinklang, Lv. 58, @Air Balloon, Ability: Minus, Adamant Nature, IVs: 10
-    - Shift Gear
-    - Gear Grind
-    - Return
-    - Wild Charge
-- Donphan, Lv. 58, @Air Balloon, Ability: Sand Veil, Adamant Nature, IVs: 10
-    - Earthquake
-    - Ice Shard
-    - Gunk Shot
-    - Seed Bomb
+!battle(["Indra", :INDRA, 7])
 
-**Clown Indra (WHITE). Field: No Field**
-- Castform, Lv. 58, @Air Balloon, Ability: Forecast, Timid Nature, IVs: 10
-    - Rain Dance
-    - Weather Ball
-    - Ice Beam
-    - Thunder
-- Swanna, Lv. 58, @Air Balloon, Ability: Big Pecks, Timid Nature, IVs: 10
-    - Scald
-    - Hurricane
-    - Roost
-    - Ice Beam
-- Amoonguss, Lv. 58, @Air Balloon, Ability: Regenerator, Bold Nature, IVs: 10
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Foul Play
+!battle(["Indra", :INDRA, 8])
 
-**Clown Indra (PINK). Field: No Field**
-- Musharna, Lv. 58, @Air Balloon, Ability: Synchronize, Bold Nature, IVs: 10
-    - Moonlight
-    - Psychic
-    - Shadow Ball
-    - Signal Beam
-- Bewear, Lv. 58, @Air Balloon, Ability: Fluffy, Calm Nature, IVs: 10
-    - Hammer Arm
-    - Earthquake
-    - Rock Slide
-    - Ice Punch
-- Blissey, Lv. 58, @Air Balloon, Ability: Serene Grace, Bold Nature, IVs: 10
-    - Soft-Boiled
-    - Seismic Toss
-    - Ice Beam
-    - Flamethrower
+!battle(["Indra", :INDRA, 9])
 
 ## Route 2
 
 Head up the elevator and walk outside.
 
-**Route 2**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|**Hawlucha**      |27 |Donphan           |21 |Noctowl           |30 |
-|**Rufflet**       |20 |**Rufflet**       |20 |Meditite          |20 |
-|Meditite          |10 |Meditite          |10 |Donphan           |11 |
-|**Boldore**       |10 |**Boldore**       |10 |**Boldore**       |10 |
-|**Rhyhorn**       |10 |**Rhyhorn**       |10 |**Rhyhorn**       |10 |
-|**Ursaring**      |10 |**Ursaring**      |10 |**Mienfoo**       |5  |
-|**Machoke**       |5  |**Mienfoo**       |5  |**Rhydon**        |5  |
-|**Trapinch**      |4  |**Rhydon**        |5  |**Vullaby**       |4  |
-|**Rockruff**      |4  |**Machoke**       |4  |**Rockruff**      |4  |
-|                  |   |**Rockruff**      |4  |**Absol**         |1  |
-|                  |   |**Absol**         |1  |                  |   |
+!enc(358)
 
 If you go up from here you'll find a hidden *Telluric Seed*, but can't progress farther. So, we'll have to jump over some rocks to the left. Using the cliff and the rocks, you can hop any two-tile-length gaps. Head up once you're in the northern area. You'll notice a green tree and a red tree. The green trees drop Sleep Powder and the red trees drop Rage Powder, both of which can be contained in the Powder Vial. The former can be used to put Crustle to sleep while the latter will wake them up and allow us to battle them! Note that if you hop onto a rock with a narrow base of support, the powder will spill out.
 
@@ -419,7 +192,7 @@ Climb onto the white rock via the stairs then go right for a hidden *Ability Cap
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Left 2, go up the stairs, hop down, and go down ledges to loop around to get on top of Crustle, Down 1, take the stairs to the left up, hop down, hop your way to the rightmost stairs, Right 3, Down 1.
+    Left 2, go up the stairs, hop up and around to get on top of Crustle, Down 1, take the stairs to the left up, hop down, hop your way to the rightmost stairs, Right 3, Down 1.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 3 movements</a>
 </div>
@@ -435,59 +208,21 @@ From here, climb the stairs, hop down, make your way down the first ledge on the
 
 Climb up the stairs to the right. You'll find a hidden *Ultra Potion* and *Green Shard*.
 
-**Hiker Ike. Field: Rocky Field**
-- Camerupt, Lv. 67, Serious Nature, IVs: 10
-    - Rock Polish
-    - Earthquake
-    - Fire Blast
-    - Stone Edge
+!battle(["Ike", :HIKER, 0], "Rocky Field")
 
 Hop across Crustle to go left at the top. Pick up *TM58 Sky Drop* and a hidden *Super Potion*. To the left across the final Crustle you can get a hidden *Ether* and *Purple Shard*. Head into the mountain here.
 
-**Ametrine Mountain**
-
-|Cave              |%  |Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|------------------|---|
-|Cubchoo           |20 |Finneon           |70 |Remoraid          |60 |
-|**Spheal**        |20 |Wishiwashi        |30 |**Horsea**        |20 |
-|Beartic           |11 |                  |   |Qwilfish          |20 |
-|Delibird          |11 |                  |   |                  |   |
-|Bergmite          |10 |                  |   |                  |   |
-|**Sealeo**        |10 |                  |   |                  |   |
-|Sandshrew-Alola   |5  |                  |   |                  |   |
-|Sandslash-Alola   |5  |                  |   |                  |   |
-|**Cryogonal**     |4  |                  |   |                  |   |
-|**Snorunt**       |4  |                  |   |                  |   |
+!enc(364, ["Cave", "Fishing"], ["Old", "Good"], "Ametrine Mountain")
 
 Without Surf we can't really do much here other than catch some Water and Ice type Pokémon, so head back out onto Route 2.
 
 Make your way back to the platform with the powder trees by hopping down across two Crustles and going to the left, then hopping your way down and to the right. From the rock with stairs in the bottom right corner, go up and right to hop across to the platform on the right.
 
-**Hiker Marshall. Field: Rocky Field**
-- Shelgon, Lv. 67, Serious Nature, IVs: 10
-    - Dragon Claw
-    - Brick Break
-    - Dragon Dance
-    - Zen Headbutt
-- Stantler, Lv. 68, Serious Nature, IVs: 10
-    - Thunder Wave
-    - Confuse Ray
-    - Headbutt
-    - Bite
+!battle(["Marshall", :HIKER, 0], "Rocky Field")
 
 Pick up the hidden *Guard Spec.* and *Full Heal*. Climb the stairs from here towards the clown.
 
-**Clown Freedo. Field: Rocky Field**
-- Jumpluff, Lv. 66, @Air Balloon, Serious Nature, IVs: 10
-    - Sleep Powder
-    - Leech Seed
-    - Acrobatics
-    - Giga Drain
-- Drampa, Lv. 67, @Air Balloon, Serious Nature, IVs: 10
-    - Fly
-    - Outrage
-    - Extrasensory
-    - Glare
+!battle(["Freedo", :Clown, 0], "Rocky Field")
 
 Pick up another hidden *Guard Spec.* Down the nearby stairs, you can walk through the valley between the rocks to climb the stairs in the bottom right corner. Up from here, talk to the green part of the locked gate on the right side to open up this shortcut!
 
@@ -506,33 +241,13 @@ Snag the *Blue Shard* to the left, then get some sleep powder and talk to Crustl
 
 Down from here, you can hop from the ground onto some reddish rocks. Hop down and to the right to pick up the *Rocky Field Readout*. From here, head back to the previous platform, climb onto the rocks, and make your way all the way back to the shortcut gate. From here, go all the way left.
 
-**Clown Goomy. Field: Rocky Field**
-- Goomy, Lv. 85, @Air Balloon, Ability: Hydration, Modest Nature, IVs: 31, EVs: 0/0/0/252/4/252
-    - Draco Meteor
-    - Infestation
-    - Muddy Water
-    - Sludge Wave
+!battle(["Goomy", :Clown, 0], "Rocky Field")
 
 How terrifying!
 
 Grab a hidden *Telluric Seed* and *Red Shard*, and go down the stairs at the bottom.
 
-**Ranger Nick. Field: Rocky Field**
-- Politoed, Lv. 67, Ability: Water Absorb, Serious Nature, IVs: 10
-    - Hyper Voice
-    - Hypnosis
-    - Surf
-    - Bounce
-- Simisage, Lv. 67, Ability: Overgrow, Serious Nature, IVs: 10
-    - Seed Bomb
-    - Spiky Shield
-    - Low Kick
-    - Covet
-- Gourgeist-Average, Lv. 68, Ability: Insomnia, Serious Nature, IVs: 10
-    - Phantom Force
-    - Seed Bomb
-    - Pain Split
-    - Trick-or-Treat
+!battle(["Nick", :PkMnRANGER_Male, 0], "Rocky Field")
 
 Go down the stairs here, then pick up a hidden *Red Shard* in this lower area near the green tree. Grab some sleep powder and put the Crustle in the bottom right corner to sleep. We'll need to push it off a cliff down and to the left. Precisely:
 
@@ -563,19 +278,9 @@ Hop to the right this time, taking a stop on the narrow cliffside to the right w
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Crustle 7 movements</a>
 </div>
 
-Pick up the hidden *Red Shard* and return onto the top of the rocks. Continue the rock hop up and around to the right. Grab a hidden *Ground Gem*. The path to the right, including a Crustle we placed earlier, is a shortcut that will take us to the start of Route 2. Go down the stairs from here.
+Pick up the hidden *Red Shard* and return onto the top of the rocks. Continue the rock hop up and around to the right. Grab a hidden *Ground Gem*. The path to the right that leads up, including a Crustle we placed earlier, is a shortcut that will take us to the start of Route 2. Go down the stairs from here.
 
-**Hiker Ford. Field: Rocky Field**
-- Snorlax, Lv. 67, Serious Nature, IVs: 10
-    - Metronome
-    - Rest
-    - Sleep Talk
-    - Belly Drum
-- Tsareena, Lv. 68, Serious Nature, IVs: 10
-    - Power Whip
-    - Knock Off
-    - High Jump Kick
-    - Play Rough
+!battle(["Ford", :HIKER, 0], "Rocky Field")
 
 Jump over the placed Crustle and move the remaining one off the cliff and into its final destination. Precisely:
 
@@ -588,28 +293,7 @@ Jump over the placed Crustle and move the remaining one off the cliff and into i
 
 Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Grab the hidden *Flying Gem*.
 
-**Celestinine Cascade**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Hawlucha          |30 |Donphan           |21 |Noctowl           |30 |
-|Rufflet           |20 |Rufflet           |20 |Meditite          |20 |
-|Meditite          |10 |Meditite          |10 |Donphan           |11 |
-|Boldore           |10 |Boldore           |10 |Boldore           |10 |
-|Rhyhorn           |10 |Rhyhorn           |10 |Rhyhorn           |10 |
-|Ursaring          |10 |Ursaring          |10 |Mienfoo           |6  |
-|Rockruff          |5  |Mienfoo           |6  |Rockruff          |5  |
-|Machoke           |5  |Rockruff          |5  |Machoke           |4  |
-|                  |   |Machoke           |4  |Rhydon            |4  |
-|                  |   |Rhydon            |4  |                  |   |
-
-|Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|
-|Finneon           |70 |Wishiwashi        |60 |
-|Wishiwashi        |30 |Lumineon          |20 |
-|                  |   |Remoraid          |20 |
-|                  |   |                  |   |
-|                  |   |                  |   |
+!enc(359, ["Grass", "Fishing"], ["Old", "Good"], "Celestinine Cascade East")
 
 In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokéSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
@@ -619,7 +303,7 @@ Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and tal
 - If you saw Titania on Route 1, tell her you'll keep the secret (+1 Titania)
 - If you saw Titania on Route 1, tell her you won't keep the secret (-1 Titania)
 
-Head outside, and you can grab the *Water Surface Field Readout*.
+Head outside from the second floor and you can grab the *Water Surface Field Readout*.
 
 Back downstairs, you'll be given the *Battle Pass - Strike*. With that out of the way, head on back to the circus.
 
@@ -627,32 +311,7 @@ Back downstairs, you'll be given the *Battle Pass - Strike*. With that out of th
 
 Enter the Big Top for a fight.
 
-**Ringmaster Alistasia. Field: Big Top Arena**
-- Pyroar, Lv. 64, @Power Herb, Ability: Rivalry, Timid Nature, IVs: 31, EVs: 4/0/0/252/0/252
-    - Heat Wave
-    - Solar Beam
-    - Snarl
-    - Hyper Voice
-- Luxray, Lv. 65, @Choice Scarf, Ability: Intimidate, Serious Nature, IVs: 31, EVs: 128/252/4/128/0/0
-    - Volt Switch
-    - Superpower
-    - Iron Tail
-    - Snarl
-- Donphan, Lv. 66, @Synthetic Seed, Ability: Sturdy, Adamant Nature, IVs: 31, EVs: 252/252/4/0/0/0
-    - Earthquake
-    - Ice Shard
-    - Heavy Slam
-    - Brutal Swing
-- Primarina, Lv. 66, @Leftovers, Ability: Torrent, Modest Nature, IVs: 31, EVs: 252/0/4/252/0/0
-    - Sparkling Aria
-    - Moonblast
-    - Sing
-    - Ice Beam
-- Blaziken, Lv. 67, @Focus Sash, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 0/252/0/0/4/252
-    - Swords Dance
-    - Acrobatics
-    - Brick Break
-    - Bulldoze
+!battle(["Alistasia", :RINGMASTER, 0], "Big Top Arena")
 
 The ringmaster has a team of circus-themed Pokémon that like to use the field effect well! You'll have to watch out for her boosted sound moves like Snarl and Sparkling Aria, as well as Blaziken getting +3 with Swords Dance on top of Speed Boost. If you can manage to not get swept by Blaziken, with some coverage you can probably find a way through this one.
 
@@ -675,37 +334,7 @@ Enter the circus back room. Once more we can have multiple conversations for rel
 
 Save and talk to Samson when you're ready for a fight.
 
-**Strongman Samson (2x Ultra Potion). Field: Big Top Arena**
-- Hariyama, Lv. 67, @Rocky Helmet, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Heavy Slam
-    - Smack Down
-    - Brick Break
-    - Knock Off
-- Mienshao, Lv. 68, @Life Orb, Ability: Regenerator, Jolly Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Acrobatics
-    - U-turn
-    - Brick Break
-    - Poison Jab
-- Lucario, Lv. 68, @Focus Sash, Ability: Steadfast, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Extreme Speed
-    - Brick Break
-    - Meteor Mash
-- Hawlucha, Lv. 66, @Synthetic Seed, Ability: Unburden, Jolly Nature, IVs: 23, EVs: 4/252/0/0/0/252
-    - Roost
-    - Flying Press
-    - Acrobatics
-    - Poison Jab
-- Blaziken, Lv. 69, @Synthetic Seed, Ability: Speed Boost, Adamant Nature, IVs: 31, EVs: 4/252/0/0/0/252
-    - Acrobatics
-    - Protect
-    - Brick Break
-    - Blaze Kick
-- Conkeldurr, Lv. 71, @Synthetic Seed, Ability: Guts, Adamant Nature, IVs: 31, EVs: 252/252/0/0/4/0
-    - Drain Punch
-    - Poison Jab
-    - Knock Off
-    - Bulk Up
+!battle(["Samson", :SAMSON, 0], "Big Top Arena")
 
 Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight for weeks! For one, 10 of his 24 moves are "high-striker" moves, meaning they get multiplied by a random multiplier between 0.5x and 3x. However, his Hariyama and Conkeldurr are guaranteed high rolls due to their abilities, and any Pokémon with increased attack also has a better chance at high rolls, meaning Synthetic Seed Hawlucha and Blaziken as well as Swords Dance Lucario all get really high rolls! Essentially this means that most of the time you get hit by a high striker move, you are going to be absolutely bodied! On top of this, Lucario's Swords Dance boosts attack by 3 stages per use, and its Acrobatics will hit with 165 base power regardless of item held! With Conkeldurr sitting at 90 total speed to counter Trick Room and Hawlucha with Unburden to outspeed basically anything you have, his team is well suited to deal with all kinds of speed set ups and easily crush your pathetic Pokémon with high striker moves. Thanks to Brick Break, your puny screens will be crushed as well. All in all a tough fight!
 

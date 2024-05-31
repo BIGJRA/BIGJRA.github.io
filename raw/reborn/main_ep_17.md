@@ -108,9 +108,6 @@ Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're
 
 Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokémon will be helpful here.
 
-**Relationship Point Choices:**
-- Help Sandy in Malchous Forest (-1 Adrienn)
-
 Once you succeed, your next destination will be the Water Treatment Center.
 
 **Pokémon Stoplettes. Field: Factory Field**
@@ -146,9 +143,6 @@ Once you succeed, your next destination will be the Water Treatment Center.
     - Destiny Bond
 
 These things are tough but a powerful Ground type sweeper can probably do the trick. Once you win, Sandy will leave.
-
-**Relationship Point Choices:**
-- Help Sandy in the WTC (-1 Adrienn)
 
 While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond.
 

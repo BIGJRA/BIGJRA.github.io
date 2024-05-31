@@ -517,175 +517,26 @@ With that out of the way, return to the Circus.
 
 By beating Charlotte, we now have access to stronger teams on Clown Indra. Beating him now awards a random shard as before, but also 5 *Exp. Candy XL*.
 
-**Clown Indra (RED). Field: No Field**
-- Scizor, Lv. 68, @Life Orb, Ability: Light Metal, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Bullet Punch
-    - U-turn
-    - Superpower
-    - Pursuit
-- Talonflame, Lv. 68, @Flying Gem, Ability: Gale Wings, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Flare Blitz
-    - Acrobatics
-    - Swords Dance
-    - Roost
-- Porygon-Z, Lv. 68, @Choice Specs, Ability: Analytic, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Tri Attack
-    - Dark Pulse
-    - Thunderbolt
-    - Ice Beam
+!battle(["Indra", :INDRA, 10])
 
-**Clown Indra (BLUE). Field: No Field**
-- Empoleon, Lv. 68, @Leftovers, Ability: Torrent, Calm Nature, IVs: 10, EVs: 248/0/8/0/252/0
-    - Scald
-    - Roar
-    - Stealth Rock
-    - Flash Cannon
-- Simipour, Lv. 68, @Life Orb, Ability: Torrent, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Hydro Pump
-    - Ice Beam
-    - Focus Blast
-- Wailord, Lv. 68, @Choice Scarf, Ability: Water Veil, Modest Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Water Spout
-    - Hydro Pump
-    - Ice Beam
-    - Hidden Power
+!battle(["Indra", :INDRA, 11])
 
-**Clown Indra (YELLOW). Field: No Field**
-- Ribombee, Lv. 68, @Focus Sash, Ability: Shield Dust, Modest Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Quiver Dance
-    - Pollen Puff
-    - Moonblast
-    - Roost
-- Ninjask, Lv. 68, @Choice Band, Ability: Infiltrator, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - U-turn
-    - Final Gambit
-    - Aerial Ace
-    - X-Scissor
-- Dedenne, Lv. 68, @Leftovers, Ability: Cheek Pouch, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Nuzzle
-    - Attract
-    - Play Rough
-    - Double Team
+!battle(["Indra", :INDRA, 12])
 
-**Clown Indra (GREEN). Field: No Field**
-- Hawlucha, Lv. 68, @Power Herb, Ability: Limber, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Sky Attack
-    - High Jump Kick
-    - Acrobatics
-    - Swords Dance
-- Lilligant, Lv. 68, @Life Orb, Ability: Own Tempo, Modest Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Quiver Dance
-    - Sleep Powder
-    - Petal Dance
-    - Hidden Power
-- Flygon, Lv. 68, @Choice Scarf, Ability: Levitate, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Outrage
-    - Earthquake
-    - U-turn
-    - Superpower
+!battle(["Indra", :INDRA, 13])
 
-**Clown Indra (BLACK). Field: No Field**
-- Toucannon, Lv. 68, @Life Orb, Ability: Skill Link, Adamant Nature, IVs: 10, EVs: 252/252/4/0/0/0
-    - Beak Blast
-    - Brick Break
-    - Roost
-    - Swords Dance
-- Dusknoir, Lv. 68, @Choice Band, Ability: Pressure, Adamant Nature, IVs: 10, EVs: 212/252/0/0/0/44
-    - Shadow Sneak
-    - Earthquake
-    - Ice Punch
-    - Trick
-- Snorlax, Lv. 68, @Leftovers, Ability: Gluttony, Careful Nature, IVs: 10, EVs: 144/0/188/176/0/0
-    - Curse
-    - Body Slam
-    - Rest
-    - Earthquake
+!battle(["Indra", :INDRA, 14])
 
-**Clown Indra (BROWN). Field: No Field**
-- Ursaring, Lv. 68, @Toxic Orb, Ability: Guts, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Facade
-    - Throat Chop
-    - Close Combat
-    - Protect
-- Dragonite, Lv. 68, @Choice Band, Ability: Multiscale, Adamant Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Outrage
-    - Extreme Speed
-    - Fire Punch
-    - Earthquake
-- Sawsbuck, Lv. 68, @Life Orb, Ability: Chlorophyll, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Swords Dance
-    - Double-Edge
-    - Horn Leech
-    - Jump Kick
+!battle(["Indra", :INDRA, 15])
 
-**Clown Indra (PURPLE). Field: No Field**
-- Tsareena, Lv. 68, @Choice Band, Ability: Queenly Majesty, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - U-turn
-    - High Jump Kick
-    - Power Whip
-    - Play Rough
-- Mismagius, Lv. 68, @Spooky Plate, Ability: Levitate, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Nasty Plot
-    - Shadow Ball
-    - Dazzling Gleam
-    - Thunderbolt
-- Mienshao, Lv. 68, @Life Orb, Ability: Reckless, Jolly Nature, IVs: 10, EVs: 4/252/0/0/0/252
-    - Stone Edge
-    - Hidden Power
-    - U-turn
-    - High Jump Kick
+!battle(["Indra", :INDRA, 16])
 
-**Clown Indra (GRAY). Field: No Field**
-- Carbink, Lv. 68, @Leftovers, Ability: Sturdy, Bold Nature, IVs: 10, EVs: 252/0/252/4/0/0
-    - Calm Mind
-    - Rest
-    - Sleep Talk
-    - Moonblast
-- Klinklang, Lv. 68, @Leftovers, Ability: Minus, Adamant Nature, IVs: 10, EVs: 136/252/0/0/0/120
-    - Shift Gear
-    - Gear Grind
-    - Return
-    - Wild Charge
-- Donphan, Lv. 68, @Choice Band, Ability: Sand Veil, Adamant Nature, IVs: 10, EVs: 52/252/0/0/0/204
-    - Earthquake
-    - Ice Shard
-    - Gunk Shot
-    - Seed Bomb
+!battle(["Indra", :INDRA, 17])
 
-**Clown Indra (WHITE). Field: No Field**
-- Castform, Lv. 68, @Damp Rock, Ability: Forecast, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Rain Dance
-    - Weather Ball
-    - Ice Beam
-    - Thunder
-- Swanna, Lv. 68, @Life Orb, Ability: Big Pecks, Timid Nature, IVs: 10, EVs: 4/0/0/252/0/252
-    - Scald
-    - Hurricane
-    - Roost
-    - Ice Beam
-- Amoonguss, Lv. 68, @Black Sludge, Ability: Regenerator, Bold Nature, IVs: 10, EVs: 252/0/136/0/120/0
-    - Spore
-    - Giga Drain
-    - Sludge Bomb
-    - Foul Play
+!battle(["Indra", :INDRA, 18])
 
-**Clown Indra (PINK). Field: No Field**
-- Musharna, Lv. 68, @Leftovers, Ability: Synchronize, Bold Nature, IVs: 10, EVs: 240/0/252/0/16/0
-    - Moonlight
-    - Psychic
-    - Shadow Ball
-    - Signal Beam
-- Bewear, Lv. 68, @Choice Band, Ability: Fluffy, Calm Nature, IVs: 10, EVs: 252/0/0/0/4/252
-    - Hammer Arm
-    - Earthquake
-    - Rock Slide
-    - Ice Punch
-- Blissey, Lv. 68, @Leftovers, Ability: Serene Grace, Bold Nature, IVs: 10, EVs: 4/0/252/0/252/0
-    - Soft-Boiled
-    - Seismic Toss
-    - Ice Beam
-    - Flamethrower
+!battle(["Indra", :INDRA, 19])
+
 
 ## Glitch City
 

@@ -234,7 +234,7 @@ Head to the right from here and go through another set of tall grass, but don't 
 
 Down from here, you'll find a hidden *Mental Herb* and another honey tree (B). Interact with it twice and defeat both bugs to get a *Leaf Stone* and *TM86 Grass Knot*. Exit back to Route 1, hop on a Tauros, and head back into 3N. Pass tree A and climb the ledge, then dismount. Grab the hidden *Oran Berry* and *Elemental Seed* then enter Celestinine Mountain here.
 
-!enc(387, ["Cave", "Fishing"], ["Old", "Good"])
+!enc(387, ["Cave", "Fishing"], ["Old", "Good"], "Celestinine Mountain B2F - 3F")
 
 Note that we will eventually want a Qwilfish for an in-game trade.
 

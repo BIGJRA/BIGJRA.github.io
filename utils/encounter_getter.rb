@@ -170,7 +170,7 @@ class EncounterGetter
       end
     end
 
-    throw "No encounter tables found for specified" if !found_group 
+    throw "No encounter tables found for #{map_id}, #{include_list}" if !found_group 
 
     html_output = doc.to_html 
     return html_output.split("\n")[1..].join("\n")
