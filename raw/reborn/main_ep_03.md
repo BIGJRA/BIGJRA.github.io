@@ -285,7 +285,9 @@ Re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. Y
 **Relationship Point Choices:**
 - Talk to Amaria in the jungle (+1 Amaria)
 
-Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area.
+Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area. 
+
+**NOTE: Reborn has multiple story splits throughout the game. There are multiple routes in the postgame based on decisions in the main game - one of these routes is more exclusive. That said, you actually get MORE story and context in the "normal" postgame route, so I personally recommend pursuing the exclusive route only on a second playthrough. Though for completion, I will still list all of the prerequisites for entering this route throughout this guide.**
 
 **In order to access the exclusive postgame route, you need to save all five officers by this point.**
 

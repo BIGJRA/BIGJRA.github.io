@@ -24,21 +24,13 @@ You can get a hidden *Pearl* and *Red Shard* in the next room, as well as *TM01 
 
 This time, cross the ice to the top left. Grab the hidden *Poké Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the alcove door at the bottom.
 
-**Ametrine Mountain B2F / Celestinine Mountain B2F Underwater Caverns**
-
-|Land              |%  |
-|------------------|---|
-|Chinchou          |30 |
-|Clamperl          |25 |
-|**Wailord**       |24 |
-|Lanturn           |15 |
-|Relicanth         |6  |
+!enc(402, nil, nil, "Celestinine & Ametrine Mountains Underwater (B2F Only)")
 
 In this large room you can get an *Exp. Candy XL* and the *Snorlium-Z* as well as a hidden *Green Shard*, *Water Stone*, and *Super Potion*. Also, specifically on Friday, you can find a **Lapras** roaming around this room!
 
 Enter the hidden alcove door in the lower left side. In the next room you can find a hidden *Green Shard* and *Link Stone*, as well as the *Abomasite*!
 
-With that, backtrack all the way to Ametrine Mountain 1F where we pushed the boulder earlier. Make your way back to the water and ride down some waterfalls until you reach Celestinine Mountain 1F.
+With that, backtrack all the way to Ametrine Mountain 1F where we pushed the boulder earlier - using an Escape Rope or Dig may be faster here. In any case, make your way back to the water and ride down some waterfalls until you reach Celestinine Mountain 1F.
 
 From here, go down the waterfall in the bottom right to reach B1F. At the split, go up and grab the hidden *Repel* then dive down.
 
@@ -50,25 +42,7 @@ Backtrack to Celestinine Mountain 1F, then go up the ladder in the upper right s
 
 On this floor, you'll need to push boulders into the dead ends in order to skate around the entire area. Make sure you're not pushing them into the path - always choose the dead end, and you'll figure this one out. You'll find a hidden *Aspear Berry* within, and a *Exp. Candy L* and hidden *Nugget* in the top left corner. Climb the waterfall to 4F.
 
-**Celestinine Mountain 4F**
-
-|Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|
-|Finneon           |70 |Remoraid          |60 |
-|Wishiwashi        |30 |Clauncher         |20 |
-|                  |   |**Feebas**        |20 |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Buizel            |24 |Wailmer           |60 |
-|Swinub            |20 |Lumineon          |30 |
-|Cubchoo           |14 |Golduck           |5  |
-|Floatzel          |11 |Wishiwashi        |4  |
-|Piloswine         |10 |Dewgong           |1  |
-|Beartic           |10 |                  |   |
-|Sandshrew-Alola   |5  |                  |   |
-|Sandslash-Alola   |5  |                  |   |
-|Delibird          |1  |                  |   |
+!enc(396, ["Fishing"], ["Old", "Good"], "Celestinine Mountain 4F")
 
 We can fish up an ugly fish on this floor! This room contains a hidden *Flying Gem* and *Green Shard* as well as *TM03 Psyshock*, a *Dragon Scale*, *Timid Mint*, *Water Memory*, and *Exp. Candy XL*.
 
@@ -84,22 +58,9 @@ That wraps up our massive collection effort in the mountain complex. Return to C
 
 Talk to Titania here, then enter the North Obsidia Water Grid at the bottom.
 
-**Water Treatment Center**
+!enc(467, nil, ["Old", "Good"])
 
-|Mud Puddles       |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Gulpin            |45 |Gulpin            |60 |
-|**Grimer-Alola**  |40 |**Grimer-Alola**  |30 |
-|**Swalot**        |10 |**Muk-Alola**     |9  |
-|**Muk-Alola**     |5  |**Swalot**        |1  |
-
-|Old Rod           |%  |Good Rod          |%  |
-|------------------|---|------------------|---|
-|Gulpin            |70 |Gulpin            |60 |
-|**Grimer-Alola**  |30 |**Grimer-Alola**  |20 |
-|                  |   |**Muk-Alola**     |20 |
-
-In this area, we can hop across piles of trash if they're 2 spaces away. Make your way to the machine to the left - this is a water level machine. Pressing it will lower the water, letting us move trash around and progress. For now, lower the water and make your way to the right. In the very bottom right corner, in the mud, you'll find the *Murkwater Surface Field Readout* hidden behind a pillar. Go up and right to enter the Central Obsidia Water Grid.
+In this area, we can hop across piles of trash if they're 2 spaces away. Make your way to the machine to the left - this is a water level machine. Pressing it will lower the water, letting us move trash around and progress. For now, lower the water and make your way to the right. In the very bottom right corner, in the mud behind a girder, you'll find the *Murkwater Surface Field Readout* hidden behind a pillar. Go up and right to enter the Central Obsidia Water Grid.
 
 Talk to Titania then hop down. If you go left, you can use a panel to open a shortcut.
 
@@ -116,7 +77,9 @@ In this next room, Titania will be stranded on an island and the water level wil
 
 Raise the water. Once Titania clears the way, lower the water once more and go down into the Coral Water Grid.
 
-!battle(["Wes", :NWCultist, 0], "Factory Field")
+!partner(["Titania", :TITANIA, 0])
+
+!dbattle(["Angela", :NWCultistF, 0], ["Wes", :NWCultist, 0], "Factory Field")
 
 From here, go up and head down into the mud. Push the garbage above Titania so she can hop across, then go to the platform in the top left.
 
@@ -151,7 +114,7 @@ Unlock the shutter, lower the water, and grab the *Beryl Grid Key*.
 
 Return to the Peridot Grid and cross the mud. On the bottom left side of the map, you'll stairs leading onto the mud, which eventually lead you to a hidden *Black Sludge*. Cross to the left into the Jasper Water Grid.
 
-Head left, then follow the path when the water is lowered. Go down onto the bottom section of the mud and go left to get a hidden *Full Heal*. Back on the land, go left.
+Head left, then follow the path when the water is lowered. Go down onto the bottom section of the mud and go left to get a hidden *Full Heal*. Back on the land, go left. Titania will join you once again.
 
 !dbattle(["Ichorus", :NWCultist, 0], ["Lyla", :NWCultistF, 0], "Factory Field")
 
@@ -201,6 +164,8 @@ After this fight, return to the front of the Water Treatment Center and climb th
 
 Make your way towards the Fiore Mansion, and you'll meet up with some old characters and obtain *TMX2 Fly*! About time. Heal and prepare your team and then head in... we have a huge Gauntlet coming up! Thankfully, this one will heal us between each fight.
 
+!partner(["Florinia", :FLORINIA, 1])
+
 !dbattle(["Kenan", :MeteorAceM, 0], ["Diana", :MeteorAceF, 0])
 
 This first fight is a 12v9 against some grunts. Florinia is pretty helpful here, and none of their Pokémon are too strong. It's more of a warmup fight.
@@ -213,9 +178,11 @@ This battle in the gauntlet is a bit harder. Florinia has a lot of good matchups
 - Florinia joins your team after you did not defeat Solaris on Pyrous (+1 Florinia)
 - Julia joins your team after you did defeat Solaris on Pyrous (+1 Julia, -1 Fern)
 
+!partner(["Julia", :JULIA, 1])
+
 !dbattle(["Solaris", :Solaris, 1], ["John", :NWOrderly, 0])
 
-The hardest battle in this gauntlet is the last one. On one hand, Solaris' team basically consists of six classic OU threats. On the other hand, John's team consists of some slower and less powerful Pokémon, but which have wider coverage, a bit more defensive stats, and some support moves. Nothing on their side is entirely dead weight really, and since you only get to control the actions of one of two of the Pokémon on your side, it is tougher to use doubles strats to gain momentum.
+The hardest battle in this gauntlet is the last one. On one hand, Solaris' team basically consists of six classic OU threats. On the other hand, John's team consists of some slower and less powerful Pokémon, but which have wider coverage, a bit higher defensive stats, and some support moves. Nothing on their side is entirely dead weight really, and since you only get to control the actions of one of two of the Pokémon on your side, it is tougher to use doubles strats to gain momentum.
 
 If you defeated Solaris on Pyrous, you'll have Julia as a partner, who sadly doesn't have a very good time overall against the pair thanks to their numerous Ground and Electric types, though she can help against some of the Flying types. Not to mention her Rotom Fan, who holds an Air Balloon... Otherwise, you'll have Florinia as a partner once more, making Trick Room more potent and allowing her to do a decent amount of the work. With the 12v12 format, things can change dramatically depending on what the pairings happen to be at any given moment, so it may require some luck to have the right one of your partner's Pokémon out at the right time. If you have to quit to change up your team, you'll have to fight the first two trainers again, so keep that in mind.
 
