@@ -10,39 +10,21 @@ Head outside the big top. Before we fly back to Reborn City and other previously
 
 ## Tanzan Cove Water Exploration
 
-So, we now have access to a ton of areas we've previously visited, plus we can now use Surf, Waterfall, and Dive. I'll later explain the bizarre choice of going here first, I will first take us to Tanzan Cove. So, fly to the Belrose Manse.
+So, we now have access to a ton of areas we've previously visited, plus we can now use Surf, Waterfall, and Dive. Despite what seems like an odd choice of initial destination, head first to Tanzan Cove via flying to the Belrose Manse.
 
 Dive underwater in the Tanzan Cove.
 
-**Tanzan Cove Underwater**
-
-|Land              |%  |
-|------------------|---|
-|Shellos           |20 |
-|Barboach          |20 |
-|Wooper            |20 |
-|Gastrodon         |10 |
-|Whiscash          |10 |
-|Quagsire          |10 |
-|Basculin          |6  |
-|Luvdisc           |4  |
+!enc(607, nil, nil, "Tanzan Cove Underwater")
 
 Down here you'll find a *Metronome*, *Big Nugget*, and the *Flower Garden Field Readout* as well as hidden *Escape Rope*, *Potion*, *Repel*, *Awakening*, *Grass Gem*, *Burn Heal*, *Red Shard*, *Chesto Berry*, *X Sp. Atk*, and *Great Ball*. Talk to the bodies of the Meteor grunts down here to get a *Spooky Plate*, and *Hyper Potion*. In particular, make sure you talk to the body with the missing ID tag on the left side of the area.
 
 Return to the surface and talk to the fisherman on the right side of the map. If you've done all the steps of Simon's quest so far, you'll be given the *Super Rod*! I brought us here first so I could list surfing and super rod encounters at the same time :\)
 
-**Tanzan Cove**
-
-|Water             |%  |Super Rod         |%  |
-|------------------|---|------------------|---|
-|Ducklett          |60 |Luvdisc           |45 |
-|Lumineon          |30 |Whiscash          |40 |
-|Seaking           |6  |**Mantine**       |15 |
-|Swanna            |4  |                  |   |
+!enc(232, ["Surfing", "Fishing"], ["Super"])
 
 To continue Simon's quest, we'll need to donate 3 locally-caught Whiscash to this guy. Do so, and you'll get the *ID Tag*. We'll finish this quest a bit later.
 
-For now, surf across the lake to the island on the left. Grab the hidden *Calcium* then go into the cave.
+For now, surf onto the lake, and head towards the left side of the map. You'll find a hidden *Elemental Seed* on the southern point of the landmass here. Land in the center, grab the hidden *Calcium*, then go into the cave.
 
 !enc(615, nil, nil, "Tanzan Mountain/Depths (Rock Climb)")
 
@@ -50,7 +32,7 @@ Grab the *Pearl* and hidden *Blue Shard* in here, then exit.
 
 ## Neo Opal Ward
 
-Ok, with that out of the way, we can finally begin to explore Neo Reborn City - The entire city actually was renovated while we were away. Neat. Go ahead and fly there.
+Ok, with that out of the way, we can finally begin to explore Neo Reborn City - The entire city actually was renovated while we were away. Neat. Go ahead and fly to "Neo" Opal Ward.
 
 If you want to blitz through the story, you can talk to Ame in the Grand Hall and tell her you're waiting for her, but there are tons of nice things we can get before we talk to her.
 
@@ -60,21 +42,7 @@ With 13 Badges, the default shop inventory has updated:
 
 !shop("Default Mart (13-16 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
 
-**Neo Opal Ward**
-
-|Land (Morning/Day)|%  |Land (Night)      |%  |Headbutt          |%  |
-|------------------|---|------------------|---|------------------|---|
-|Rattata           |20 |Rattata           |20 |Pineco            |35 |
-|Bidoof            |20 |Meowth            |20 |Spearow           |30 |
-|Patrat            |10 |Spinarak          |10 |Combee            |25 |
-|Pidgey            |10 |Hoothoot          |10 |Fearow            |5  |
-|Zigzagoon         |10 |Zigzagoon         |10 |**Forretress**    |4  |
-|Meowth            |10 |**Persian**       |10 |**Vespiquen**     |1  |
-|**Raticate**      |5  |**Raticate**      |5  |                  |   |
-|Pidgeotto         |5  |Noctowl           |5  |                  |   |
-|Linoone           |4  |Linoone           |5  |                  |   |
-|Watchog           |4  |Ariados           |5  |                  |   |
-|**Persian**       |2  |                  |   |                  |   |
+!enc(519, ["Grass", "Headbutt"])
 
 Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super Repel*, and *Hyper Potion*.
 
@@ -82,75 +50,17 @@ Hidden in the ward are an *Elemental Seed*, *Dawn Stone*, *Mental Herb*, *Super 
 
 That's all for Opal right now, so head west into Peridot.
 
-**Neo Peridot Ward, Neo Lower Peridot Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Ledyba            |30 |Dustox            |30 |Hoothoot          |20 |
-|Ledian            |21 |Beautifly         |30 |Noctowl           |20 |
-|Dustox            |10 |Electrike         |10 |Dustox            |10 |
-|Beautifly         |10 |**Grubbin**       |10 |Electrike         |10 |
-|**Grubbin**       |10 |**Butterfree**    |10 |Beautifly         |10 |
-|**Butterfree**    |10 |Cherrim           |4  |**Joltik**        |10 |
-|**Charjabug**     |4  |**Charjabug**     |4  |Ariados           |8  |
-|Cherrim           |4  |**Manectric**     |1  |**Butterfree**    |5  |
-|**Vikavolt**      |1  |**Vikavolt**      |1  |**Galvantula**    |5  |
-|                  |   |                  |   |**Manectric**     |2  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |**Kingler**       |40 |
-|                  |   |Corphish          |20 |**Staryu**        |40 |
-|                  |   |Clauncher         |20 |**Crawdaunt**     |15 |
-|                  |   |                  |   |**Clawitzer**     |4  |
-|                  |   |                  |   |**Sharpedo**      |1  |
-
-|Water             |%  |Headbutt Rare     |%  |Headbutt Common   |%  |
-|------------------|---|------------------|---|------------------|---|
-|Tentacool         |60 |Pineco            |65 |Pineco            |65 |
-|**Wingull**       |30 |Burmy             |25 |Burmy             |25 |
-|**Tentacruel**    |5  |Wormadam          |5  |Mothim            |5  |
-|**Pelipper**      |4  |Forretress        |4  |Forretress        |4  |
-|Mantine           |1  |Mothim            |1  |Wormadam          |1  |
+!enc(522, ["Grass", "Headbutt"])
 
 First, head up into the park to the right of the Pokémon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
-**Neo South Peridot Alley**
-
-|Cave              |%  |
-|------------------|---|
-|Espurr            |20 |
-|Poochyena         |20 |
-|Zangoose          |10 |
-|Stunky            |10 |
-|Mightyena         |10 |
-|**Meowstic**      |10 |
-|Electrike         |8  |
-|**Liepard**       |5  |
-|Skuntank          |5  |
-|Manectric         |2  |
+!enc(531)
 
 Hidden here are *Dark Gem*, *Red Shard*, and *Flying Gem*.
 
-Back outside, go to the right towards the underground railroad. Enter the area under the bridge and surf down and to the right to emerge onto the water in Opal Ward.
+Back outside, go to the right towards the underground railroad. Enter the area under the bridge and surf down and to the right to emerge onto the now-purified water of the Azurine Lake in Opal Ward.
 
-**Neo Opal Ward / Neo South Obsidia Ward**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Water             |%  |
-|------------------|---|
-|Tentacool         |60 |
-|Wingull           |30 |
-|Tentacruel        |5  |
-|Pelipper          |4  |
-|Mantine           |1  |
+!enc(522, ["Surfing", "Fishing"], nil, "Azurine Lake")
 
 Follow this path through to South Obsidia Ward to get a *White Flute*. Return to Peridot.
 
@@ -168,28 +78,15 @@ There is also a guy selling a new item that will allow you to move all EV's from
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*.
 
-Outside her house and down, there is a tent. Hidden underneath this tent is an NPC who will give you the *Expert Belt*. I have played this game many times and only recently learned about this.
+Outside her house and down, there is an orange tent. Hidden underneath this tent is an NPC who will give you the *Expert Belt*. I have played this game many times and only recently learned about this.
 
-Enter the building that Simon is in, to the east of the Industrial Factory, and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* to finish the Simon quest.
+Enter the building that Simon is in, to the east of the Industrial Factory, and show him the ID Tag we found inside of Whiscash. You'll be rewarded with *TM06 Toxic* for finishing Simon's quest.
 
 Enter the former Blacksteam Factory. Inside, you'll find an NPC who'll give you the password *penniless*. In the room that once contained Muk, you can talk to a guy who will bet you $1000 increments for coin flips. If you beat him a few times, he'll run out of money but trade you *TM27 Return* for all the money you collected so far. You can put a Pokémon with Super Luck at the front of your party to always win, or simply save in front of him before you bet.
 
 Enter the North Peridot Alleyway outside.
 
-**Neo North Peridot Alley**
-
-|Cave              |%  |
-|------------------|---|
-|Espurr            |20 |
-|Poochyena         |20 |
-|Purrloin          |10 |
-|Zangoose          |10 |
-|Mightyena         |10 |
-|Meowstic          |10 |
-|Electrike         |8  |
-|Liepard           |5  |
-|Skuntank          |5  |
-|Manectric         |2  |
+!enc(532)
 
 You can find a hidden *Revive*.
 
@@ -197,22 +94,7 @@ You can find a hidden *Revive*.
 
 That wraps up Peridot, so head into Neo Jasper Ward.
 
-**Neo Jasper Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Beedrill          |20 |Beedrill          |20 |Beedrill          |20 |
-|Vivillon          |20 |Vivillon          |20 |Noctowl           |20 |
-|Emolga            |10 |**Leavanny**      |10 |Parasect          |10 |
-|**Leavanny**      |10 |Growlithe         |10 |Growlithe         |10 |
-|Ledian            |10 |Carnivine         |10 |Carnivine         |10 |
-|Pidgeotto         |10 |Pidgeotto         |10 |Pidgeotto         |10 |
-|**Weepinbell**    |5  |Emolga            |5  |Ariados           |8  |
-|Gloom             |5  |Gloom             |5  |**Weepinbell**    |5  |
-|Mareep            |4  |Mareep            |4  |Gloom             |5  |
-|**Flaaffy**       |4  |**Flaaffy**       |4  |**Pidgeot**       |1  |
-|**Pidgeot**       |1  |**Pidgeot**       |1  |**Ampharos**      |1  |
-|**Ampharos**      |1  |**Ampharos**      |1  |                  |   |
+!enc(523)
 
 Hidden in the ward you'll find a *Cheri Berry*, *Rawst Berry*, and *Grass Gem*.
 
@@ -224,22 +106,7 @@ We'll find the other two later.
 
 Enter Malchous Forest to the left.
 
-**Neo Malchous Forest Park**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Beedrill          |20 |Beedrill          |20 |Beedrill          |20 |
-|Vivillon          |20 |Vivillon          |20 |Noctowl           |20 |
-|Leavanny          |10 |Leavanny          |10 |Parasect          |10 |
-|**Lurantis**      |10 |**Lurantis**      |10 |**Lurantis**      |10 |
-|Ledian            |10 |Carnivine         |10 |Carnivine         |10 |
-|Pidgeotto         |10 |Pidgeotto         |10 |Pidgeotto         |10 |
-|Weepinbell        |5  |Weepinbell        |5  |Ariados           |8  |
-|Gloom             |5  |Gloom             |5  |Weepinbell        |5  |
-|Mareep            |4  |Mareep            |4  |Gloom             |5  |
-|Flaaffy           |4  |Flaaffy           |4  |Pidgeot           |1  |
-|Pidgeot           |1  |Pidgeot           |1  |Ampharos          |1  |
-|Ampharos          |1  |Ampharos          |1  |                  |   |
+!enc(533)
 
 Later on, we'll need a Male Lurantis and a Female Lurantis for a quest, so it might be a good opportunity to get those now.
 
@@ -253,103 +120,29 @@ On the south side of the Forest Park, you'll also find another guy who looks lik
 
 Head into Beryl next. Go right across the Beryl Bridge. If you show the Yureyu Key we got earlier to the tech guy near the power plant, you'll get a *Zap Plate*.
 
-**Neo Beryl Ward**
-
-|Land (Morning/Day)|%  |Land (Night)      |%  |
-|------------------|---|------------------|---|
-|Fearow            |20 |Hoothoot          |20 |
-|Arbok             |20 |Arbok             |20 |
-|Teddiursa         |10 |Meowth            |20 |
-|Bunnelby          |10 |Noctowl           |15 |
-|Phanpy            |10 |Teddiursa         |10 |
-|Doduo             |10 |Persian           |9  |
-|Dodrio            |9  |Ursaring          |6  |
-|Donphan           |5  |                  |   |
-|Diggersby         |4  |                  |   |
-|Ursaring          |2  |                  |   |
+!enc(544, nil, nil, "Beryl Ward (Lower)")
 
 You'll notice that there are a ton of invisible obstacles all over Beryl and the surrounding areas, but we can't do anything about them right now. Still, we can maneuver around many of them to get some goodies.
 
 Hidden in Beryl you can get a *Poison Gem*, *Blue Shard*, *Magical Seed*, *Red Shard*, and the *Gooey Mulch* in the central park.
 
-**Neo Beryl Ward (Hill)**
-
-|Land (Morning/Day)|%  |Land (Night)      |%  |
-|------------------|---|------------------|---|
-|Fearow            |20 |Hoothoot          |20 |
-|Arbok             |20 |Arbok             |20 |
-|Teddiursa         |10 |Noctowl           |15 |
-|Bunnelby          |10 |Teddiursa         |10 |
-|Phanpy            |10 |Shuppet           |10 |
-|Doduo             |10 |Drifloon          |10 |
-|Dodrio            |9  |Persian           |5  |
-|Donphan           |5  |**Banette**       |4  |
-|Diggersby         |4  |**Drifblim**      |4  |
-|Ursaring          |2  |Ursaring          |2  |
-
-|Headbutt Rare     |%  |Headbutt Common   |%  |
-|------------------|---|------------------|---|
-|Pineco            |30 |Pineco            |30 |
-|Aipom             |25 |Aipom             |25 |
-|Burmy             |20 |Burmy             |20 |
-|Wormadam          |10 |Mothim            |10 |
-|Forretress        |10 |Forretress        |10 |
-|Ambipom           |5  |Ambipom           |5  |
+!enc(551, nil, nil, "Beryl Ward (Upper)")
 
 On the hill by Corey's gym you can find a hidden *Purple Shard* and *HP Up*.
 
-**Neo Beryl Cemetery**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Fearow            |20 |Fearow            |20 |Hoothoot          |20 |
-|Arbok             |20 |Arbok             |20 |Arbok             |20 |
-|Teddiursa         |10 |Teddiursa         |10 |Noctowl           |15 |
-|Bunnelby          |10 |Bunnelby          |10 |Teddiursa         |10 |
-|Phanpy            |10 |Phanpy            |10 |Shuppet           |10 |
-|Doduo             |10 |Doduo             |10 |Drifloon          |10 |
-|Donphan           |5  |Donphan           |5  |Persian           |5  |
-|Dodrio            |5  |**Fletchinder**   |5  |Banette           |4  |
-|Diggersby         |4  |Diggersby         |4  |Drifblim          |4  |
-|**Fletchinder**   |4  |Dodrio            |4  |**Talonflame**    |1  |
-|**Talonflame**    |1  |**Talonflame**    |1  |Ursaring          |1  |
-|Ursaring          |1  |Ursaring          |1  |                  |   |
-
-|Headbutt Rare     |%  |Headbutt Common   |%  |
-|------------------|---|------------------|---|
-|Pineco            |30 |Pineco            |30 |
-|Aipom             |25 |Aipom             |25 |
-|Burmy             |20 |Burmy             |20 |
-|Mothim            |10 |Wormadam          |10 |
-|Forretress        |10 |Forretress        |10 |
-|Ambipom           |5  |Ambipom           |5  |
+!enc(552)
 
 Before we leave, there are a few more things to do in Beryl. Enter the library and pick up the *Library Application* at the desk. This is the first of many applications we can grab to help us complete a sidequest later on. Upstairs you'll learn about the *monowoke* password. At the southwest corner of town, there is a shop run by the Inspector guy.
 
 !shop("The Emporium", ["Full Incense", "Lax Incense", "Luck Incense", "Odd Incense", "Pure Incense", "Rose Incense", "Sea Incense", "Wave Incense", "Rock Incense"])
 
-Next, enter Corey's gym. Use the card we got from behind Skuntank here to open a secret room containing 4 *EV Boosters* and a *Data Chip*.
+Next, enter Corey's gym. Use the card we got from behind Skuntank on the wall keypad to open a secret room containing 4 *EV Boosters* and a *Data Chip*.
 
 ## Neo Lapis Ward
 
 That wraps up the things on the west side of Reborn City, so fly over to Lapis next.
 
-**Neo Lapis Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Ledian            |20 |Houndour          |20 |Murkrow           |20 |
-|Meowth-Alola      |20 |Meowth-Alola      |20 |Meowth-Alola      |20 |
-|Espurr            |10 |Espurr            |10 |Espurr            |10 |
-|Chingling         |10 |Chingling         |10 |Chingling         |10 |
-|Rattata-Alola     |10 |Rattata-Alola     |10 |Rattata-Alola     |10 |
-|Poochyena         |10 |Poochyena         |10 |Poochyena         |10 |
-|Mightyena         |5  |Mightyena         |5  |Mightyena         |5  |
-|Raticate-Alola    |5  |Raticate-Alola    |5  |Raticate-Alola    |5  |
-|Chimecho          |4  |Chimecho          |4  |Chimecho          |4  |
-|Persian-Alola     |4  |Persian-Alola     |4  |Persian-Alola     |4  |
-|Meowstic          |2  |**Houndoom**      |1  |**Houndoom**      |1  |
-|                  |   |Meowstic          |1  |Meowstic          |1  |
+!enc(524)
 
 Hidden around Lapis you'll be able to find a *Genius Wing*, *X Attack*, *Peppermint*, *Great Ball*, *Purple Shard*, *Exp. Candy L*, as well as the *Stable Mulch* in the park at the top.
 
@@ -371,25 +164,11 @@ Enter the watering hole and go down the now-open ladder. This is a shortcut to t
 
 You can also talk to your gang leader to learn the purpose of the applications we've been collecting. Regardless of your gang choice, you can't complete this quest yet, so we'll come back later.
 
-## Neo North Obsidia Ward
+## Neo Obsidia Ward
 
-Pop back up in Lapis and head east into North Obsidia.
+Pop back up in Lapis and head east into North Obsidia. You can find a hidden *Full Heal* on the left side.
 
-**Neo North Obsidia Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Buneary           |20 |Buneary           |20 |Hoothoot          |20 |
-|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
-|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
-|Sentret           |10 |Venonat           |10 |Oddish            |10 |
-|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
-|Sunflora          |10 |Sunflora          |10 |Noctowl           |10 |
-|Weepinbell        |5  |**Lopunny**       |8  |Sudowoodo         |5  |
-|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
-|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
-|**Lopunny**       |4  |**Vigoroth**      |2  |**Roselia**       |4  |
-|**Vigoroth**      |2  |                  |   |Venomoth          |2  |
+!enc(527)
 
 Talk to the girl outside the nightclub to get a *Nightclub Application*.
 
@@ -397,42 +176,13 @@ Enter the Spyce restaurant on the right. At the counter you can grab a *Spyce Ap
 
 Enter the North Obsidia Alleyway next.
 
-**Neo North Obsidia Alleyway**
-
-|Cave              |%  |
-|------------------|---|
-|Poochyena         |20 |
-|Yungoos           |20 |
-|Purrloin          |10 |
-|Zangoose          |10 |
-|**Gumshoos**      |10 |
-|Mightyena         |10 |
-|Houndour          |8  |
-|Liepard           |5  |
-|Skuntank          |5  |
-|Houndoom          |2  |
+!enc(529)
 
 You'll find a *Magical Seed* and hidden *Dusk Ball* and *Max Elixir*.
 
-## Neo Central Obsidia Ward
-
 Head south into Central Obsidia.
 
-**Neo Obsidia Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Sunflora          |20 |Sunflora          |20 |Hoothoot          |20 |
-|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
-|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
-|Sentret           |10 |Venonat           |10 |Makuhita          |10 |
-|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
-|Makuhita          |10 |Makuhita          |10 |Noctowl           |10 |
-|Weepinbell        |5  |Lopunny           |8  |Sudowoodo         |5  |
-|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
-|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
-|Lopunny           |4  |Vigoroth          |2  |Roselia           |4  |
-|Vigoroth          |2  |                  |   |Venomoth          |2  |
+!enc(520)
 
 Hidden around this part of the ward are an *HP Up*, *Pop Rocks*, *Green Shard*, *Elemental Seed*, as well as the *Growth Mulch* in the park on the bottom right side.
 
@@ -478,79 +228,23 @@ Buy the Sweet Heart for Spyce.
 
 Enter the Obsidia Alleyway next.
 
-**Neo Obsidia Alleyway**
-
-|Cave              |%  |
-|------------------|---|
-|Yungoos           |20 |
-|Poochyena         |20 |
-|Zangoose          |10 |
-|Stunky            |10 |
-|Gumshoos          |10 |
-|Mightyena         |10 |
-|Litleo            |8  |
-|Liepard           |5  |
-|Skuntank          |5  |
-|**Pyroar**        |2  |
+!enc(570)
 
 Inside you'll learn about the password *nuzlocke*. You can also find a hidden *Revive*.
 
-## Neo South Obsidia Ward & Neo Coral Ward
-
 Head into South Obsidia.
 
-**Neo South Obsidia Ward**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Buneary           |20 |Buneary           |20 |Hoothoot          |20 |
-|Bellsprout        |20 |Oddish            |20 |Venonat           |20 |
-|Oddish            |10 |Bonsly            |10 |Bellsprout        |10 |
-|Sentret           |10 |Venonat           |10 |Oddish            |10 |
-|Slakoth           |10 |Slakoth           |10 |Budew             |10 |
-|Sunflora          |10 |Sunflora          |10 |Noctowl           |10 |
-|Weepinbell        |5  |Lopunny           |8  |Sudowoodo         |5  |
-|Gloom             |5  |Sudowoodo         |5  |Gloom             |5  |
-|Furret            |4  |Gloom             |5  |Weepinbell        |4  |
-|Lopunny           |4  |Vigoroth          |2  |Roselia           |4  |
-|Vigoroth          |2  |                  |   |Venomoth          |2  |
+!enc(528, ["Grass"])
 
 You'll be able to find hidden *PP Up* and *Blue Shard* in the ward. You can also enter the Glamazonia Salon to get a *Glamazonia Application*.
+
+## Neo Coral Ward
 
 Go south into Coral.
 
 **Coral Ward**
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Wingull           |20 |Wingull           |20 |Hoothoot          |20 |
-|**Snubbull**      |20 |**Snubbull**      |20 |**Snubbull**      |20 |
-|**Lombre**        |10 |**Lombre**        |10 |**Lombre**        |10 |
-|Bibarel           |10 |Bibarel           |10 |Bibarel           |10 |
-|Pelipper          |10 |Pelipper          |10 |Noctowl           |10 |
-|Surskit           |10 |Surskit           |10 |Surskit           |10 |
-|Skitty            |5  |Skitty            |5  |Skitty            |5  |
-|**Mime Jr.**      |5  |Spoink            |5  |Spoink            |5  |
-|**Masquerain**    |4  |**Masquerain**    |4  |**Masquerain**    |4  |
-|**Granbull**      |4  |**Granbull**      |4  |**Granbull**      |4  |
-|**Delcatty**      |1  |**Delcatty**      |1  |**Delcatty**      |1  |
-|**Mr. Mime**      |1  |**Grumpig**       |1  |**Grumpig**       |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Water             |%  |
-|------------------|---|
-|Tentacool         |60 |
-|Wingull           |30 |
-|Tentacruel        |5  |
-|Pelipper          |4  |
-|Mantine           |1  |
+!enc(526, ["Grass"])
 
 You can find hidden *Green Shard*, *Fairy Gem*, *Magical Seed*, and *Max Repel*.
 
@@ -577,19 +271,7 @@ Surf into the Coral Ward bay. We'll deal with Azurine Lake to the left later on,
 
 Behind the bottom lighthouse is a hidden dive spot.
 
-**Coral Ward Underwater, Azurine Lake Diving Interiors**
-
-|Cave              |%  |
-|------------------|---|
-|**Frillish**      |20 |
-|Chinchou          |20 |
-|Pyukumuku         |20 |
-|Corsola           |14 |
-|**Wimpod**        |10 |
-|Remoraid          |5  |
-|Mareanie          |5  |
-|Skrelp            |5  |
-|**Golisopod**     |1  |
+!enc(608, nil, nil, "Coral Ward Underwater")
 
 You can find a hidden *Elixir* and *Moon Ball* on this map. Follow the path and surface in the lighthouse. Up the ladder you can get a *Big Nugget*, *Jolly Mint*, and *Coral Key*. Make your way back to the bay and use the key on the other lighthouse door. Dive down and go left and prepare for a battle.
 
@@ -599,42 +281,15 @@ This is a 6v2 fight that might kick your butt simply because Underwater Field al
 
 Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and a hidden *King's Rock*. There's also a slightly different encounter table here.
 
-**Coral Lighthouse Underwater**
-
-|Cave              |%  |
-|------------------|---|
-|Frillish          |20 |
-|Chinchou          |20 |
-|Pyukumuku         |20 |
-|Corsola           |14 |
-|Wimpod            |10 |
-|Remoraid          |5  |
-|Mareanie          |5  |
-|Skrelp            |4  |
-|**Toxapex**       |1  |
-|Golisopod         |1  |
+!enc(610)
 
 ## Neo Onyx Ward
 
 Next, fly into Onyx Ward. You can find a hidden *Burn Heal*, *X Defend*, and *Red Shard*. A person in the upper left corner will also give you a *Full Restore*.
 
-Head up to the rooftop garden if you'd like.
+Head up to the rooftop garden.
 
-**Onyx Ward**
-
-|Land (Morning/Day)|%  |Land (Night)      |%  |
-|------------------|---|------------------|---|
-|Spearow           |20 |Venonat           |20 |
-|Pidove            |20 |Hoothoot          |20 |
-|Bellsprout        |10 |Noctowl           |11 |
-|Venonat           |10 |Bellsprout        |10 |
-|Fearow            |10 |Murkrow           |10 |
-|Tranquill         |10 |Fearow            |10 |
-|Pichu             |5  |Pichu             |5  |
-|Weepinbell        |5  |Weepinbell        |5  |
-|**Pikachu**       |5  |**Pikachu**       |5  |
-|Venomoth          |4  |Venomoth          |4  |
-|Unfezant          |1  |                  |   |
+!enc(573)
 
 Enter the Onyx Trainer School and go all the way to the left. Talk to the girl here to get a *Sweet Heart*. On the second floor, enter the open double doors then go up the stairs to the third floor. Talk to the girl on the left. Return to the first girl and you'll get a *Incinium-Z*!
 
@@ -646,8 +301,6 @@ That wraps up things in the city limits for right now, so fly over to Spinel Tow
 
 Towards the top of the ground floor you'll see a new entrance to a gift shop.
 
-Sure, here's the updated strings with the third argument filled based on the provided pricing information:
-
 !shop("Spinel Museum Gifts (Left)", ["Black Belt", "Black Glasses", "Charcoal", "Dragon Fang", "Hard Stone", "Magnet", "Metal Coat", "Miracle Seed", "Mystic Water", "Never-Melt Ice"], [nil, nil, 9800, nil, 9800, nil, 9800, nil, nil, nil])
 
 !shop("Spinel Museum Gifts (Middle)", ["Poison Barb", "Sharp Beak", "Silk Scarf", "Silver Powder", "Soft Sand", "Spell Tag", "Twisted Spoon", "Pixie Plate", "Thick Club"], [nil, nil, nil, nil, nil, nil, nil, 9800, 9800])
@@ -658,42 +311,11 @@ We also got a couple fossils while we were away - meaning upstairs we can now ge
 
 Make your way down to Chrysolia Forest and enter the Chrysolia Spring.
 
-**Chrysolia Spring 1F**
-
-|Water             |%  |Super Rod         |%  |
-|------------------|---|------------------|---|
-|Shellos           |60 |**Slowpoke**      |40 |
-|Barboach          |30 |Gastrodon         |40 |
-|Gastrodon         |5  |Whiscash          |15 |
-|Whiscash          |4  |Quagsire          |4  |
-|Quagsire          |1  |Clawitzer         |1  |
+!enc(238, ["Surfing", "Fishing"], ["Super"])
 
 Surf across and push the first boulder out of the way and grab a hidden *Common Candy*. Towards the top, you'll need to push a boulder onto a nearby water stream, when you do so, it will make the other one larger. Surf onto that larger jet to be pushed up on a ledge! Grab the hidden *Red Shard* and *X Defend* then push the boulder into the hole. Grab the *Red Card* then jump down.
 
-**Chrysolia Spring B1F, Chrysolia Spring Sauna**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |70 |Shellos           |60 |Slowpoke          |40 |
-|Barboach          |30 |Barboach          |20 |Gastrodon         |40 |
-|                  |   |Clauncher         |20 |Whiscash          |15 |
-|                  |   |                  |   |Quagsire          |4  |
-|                  |   |                  |   |Clawitzer         |1  |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Oricorio          |20 |Shellos           |60 |
-|Numel             |20 |Barboach          |30 |
-|Panpour           |10 |Gastrodon         |5  |
-|Pansear           |10 |Whiscash          |4  |
-|**Noivern**       |10 |Quagsire          |1  |
-|Darumaka          |10 |                  |   |
-|**Torkoal**       |5  |                  |   |
-|Kecleon           |5  |                  |   |
-|Simisear          |4  |                  |   |
-|Simipour          |4  |                  |   |
-|Gastrodon         |1  |                  |   |
-|Camerupt          |1  |                  |   |
+!enc(545)
 
 Head up and grab the *Exp. Candy XL*. Next, go all the way down and take the large jet back to the first floor. Grab the hidden *Psychic Gem* then head back to B1F.
 
@@ -715,7 +337,7 @@ Inside the sauna, if you want, you can blow away the steam with a wind-based mov
 
 Make your way back to B1F. This time, push the boulder in the bottom left direction. Push it onto the jet in the bottom left, then go up the stream to the bottom right side. Grab the hidden *Super Potion* and move the nearby boulder onto the jet in the bottom right. Go up the tall jet to 1F.
 
-!img("spring_1fnw.png")
+!img("spring_b1sw.png")
 
 In this portion you can find a hidden *Blue Shard*. Push this boulder onto the jet in the bottom left corner, then hop up the jet. Jump down the hole.
 
@@ -753,24 +375,13 @@ Exit the Chrysolia Spring once you're done.
 
 Fly on over to the Vanhanen Castle and make your way to the Iolia Valley.
 
-**Iolia Valley**
-
-|Water             |%  |Super Rod         |%  |
-|------------------|---|------------------|---|
-|Wailmer           |64 |Alomomola         |40 |
-|Lumineon          |30 |Luvdisc           |40 |
-|Seaking           |6  |Dewgong           |20 |
+!enc(333, ["Water", "Fishing"], ["Super"])
 
 Climb the waterfall at the top of the area, grab the hidden *Nugget*, and follow the path to get a *Dark Material*. Next, surf your way all the way down the river in the valley. Use the green crystal beneath the waterfall to get *TM89 U-Turn*.
 
 Exit the valley and return to Route 1. Grab a Tauros and head into the top right North Aventurine Woods entrance.
 
-**North Aventurine Woods**
-
-|Super Rod / Water |%  |
-|------------------|---|
-|Dewpider          |95 |
-|Araquanid         |5  |
+!enc(289, ["Surfing", "Fishing"], ["Super"])
 
 At the top, you can surf across to get the *Sharpedonite*!
 
@@ -786,15 +397,7 @@ Fly over to the Apophyll Academy and enter the academy. Talk to the girl in the 
 
 Head down into the meditation spot where we once met Kiki.
 
-**Neo Apophyll Academy Meditation Area**
-
-|Rock Smash        |%  |
-|------------------|---|
-|Geodude           |60 |
-|Shuckle           |30 |
-|Binacle           |5  |
-|Graveler          |4  |
-|**Barbaracle**    |1  |
+!enc(563, nil, nil, "Apophyll Training Grounds")
 
 You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind trainers that give 8 *Exp Candy XL* when you beat them.
 
@@ -804,37 +407,15 @@ You'll find 4 hidden *Shoal Shells*. The trainers here are actually grind traine
 
 Head up to the area surrounding the academy.
 
-**Neo Apophyll Beach / Azurine Lake**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Sand              |%  |Water             |%  |Rock Smash        |%  |
-|------------------|---|------------------|---|------------------|---|
-|Sandygast         |40 |Tentacool         |60 |Krabby            |60 |
-|Wingull           |30 |Wingull           |30 |Corphish          |30 |
-|Pelipper          |20 |Tentacruel        |5  |Binacle           |5  |
-|Palossand         |10 |Pelipper          |4  |Kingler           |4  |
-|                  |   |Mantine           |1  |Barbaracle        |1  |
+!enc(565, ["Cave", "Rock Smash"])
 
 In the map surrounding the academy, you'll be able to find 3 hidden *Shoal Shells* and a *Protein*, as well as hidden *Shoal Shell* and *Health Wing* above the academy.
 
 Head to the Apophyll Beach to the right side of the academy. On this map you'll be able to find a hidden *Calcium* and 5 *Shoal Shells*. Making our way to the map on the left side of the academy, we can get a hidden *Ultra Potion*, *Star Piece*, and *Rock Gem*.
 
-Next, make your way all the way to the top of Pyrous Mountain. From the bottom of the lava crater we can actually fish.
+Next, make your way all the way to the top of Pyrous Mountain. From the bottom of the lava crater we can actually fish...!
 
-**Pyrous Mountain Crater**
-
-|Super Rod         |%  |
-|------------------|---|
-|**Charmander**    |95 |
-|**Charmeleon**    |4  |
-|**Charizard**     |1  |
+!enc(27, nil, nil, "Pyrous Mountain Crater")
 
 ## Azurine Lake
 

@@ -130,7 +130,7 @@ Back down at the academy's front entrance, go down from here.
 
 You'll find hidden *Red Shard*, *Hyper Potion*, *Great Ball*, *Red-Hots*.
 
-!enc(16)
+!enc(16, nil, nil, "Apophyll Training Grounds")
 
 Before we continue the story, head to the left side of the academy to reach a new section of beach. Go down and left from here.
 
