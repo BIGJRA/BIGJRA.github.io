@@ -423,28 +423,7 @@ Next it's time to cover the actual Azurine Lake! There are tons of things we can
 
 !img("azurine_567_1.png")
 
-**Azurine Cave South**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Noibat            |20 |Tentacool         |60 |
-|Binacle           |20 |Wingull           |30 |
-|Krabby            |10 |Tentacruel        |5  |
-|Corphish          |10 |Pelipper          |4  |
-|Shellos           |10 |Mantine           |1  |
-|Gastrodon         |10 |                  |   |
-|Crawdaunt         |9  |                  |   |
-|Kingler           |9  |                  |   |
-|Barbaracle        |1  |                  |   |
-|Noivern           |1  |                  |   |
+!enc(603, nil, nil, "Azurine Cave (South)")
 
 Pick up the *Underwater Field Readout* and the *Exp. Candy XL* as well as the hidden *Great Ball* and *Focus Sash*.
 
@@ -456,21 +435,7 @@ Head down and to the right, following the yellow arrow in the above. This is a p
 
 Fight the swimmer if you'd like. You'll see a narrow strip of sand, on which you can land on at the top. You can get a hidden *Shoal Shell* and *Ultra Ball* as well as a *Sun Stone* here. Dive down here to explore the Fairview Apartments area (2).
 
-**Azurine Lake Underwater**
-
-|Land              |%  |
-|------------------|---|
-|Frillish          |20 |
-|Pyukumuku         |20 |
-|Wimpod            |10 |
-|Mareanie          |10 |
-|**Jellicent**     |10 |
-|Octillery         |10 |
-|Wailord           |5  |
-|Dhelmise          |5  |
-|**Eelektrik**     |5  |
-|Toxapex           |4  |
-|**Dragalge**      |1  |
+!enc(558, nil, nil, "Azurine Lake Underwater")
 
 !img("azurine_547_1.png")
 
@@ -492,7 +457,7 @@ Make your way to the very bottom of the underwater area and use your new key on 
 
 That wraps up this section of the lake for now. Fly over to Coral Ward and surf west.
 
-!img("azurine_556_1.png")
+!img("azurine_536_1.png")
 
 Once you see sand, you can get a hidden *Purple Shard* and *Hyper Potion* as well as a *Fist Plate*.
 
@@ -504,7 +469,7 @@ You'll also be able to battle the third guy who looks like Corin Rouge here!
 
 From here, go southwest, but not too far. You'll notice a 2-by-2 dive spot between some rocks (6). Dive down here to access the Faeward Apartment area. You can get a hidden *Green Shard* and *Big Pearl* down here.
 
-!img("azurine_536_1.png")
+!img("azurine_556_1.png")
 
 Inside the top house (7) you can get a *Relic Vase*, 2 *Exp. Candy XL*, and the *Primarium-Z*. Hidden here also are a *Purple Shard* and an *Ultra Potion*. Returning to the surface in the main part of the underwater section will lead you to a hidden *Weakness Policy* on the island (8).
 
@@ -548,7 +513,9 @@ You'll be spit out right next to Apophyll Cave. Notice that there is a small pat
 
 !img("azurine_522_2.png")
 
-At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island.
+At the very top you can get a *King's Rock*. Head down, following the right wall of rocks until you are able to pass through an opening (15). Surf to the various islands around the outside here to find a hidden *Sky Plate* and *Ether*. 
+
+Head down (past the dotted green line). You can also get a hidden *Red Shard* and *X Sp. Atk* on the large central island.
 
 !battle(["Nhadala", :RANGERF, 0], "Water Surface")
 
@@ -570,28 +537,7 @@ Make your way all the way to the bottom left corner of the large underwater area
 
 Next, in the middle of the main underwater section, on the left side of the loop you'll notice a bright 2-by-2 spot (22). Surface here specifically and surf around to the other side, grabbing the hidden *Level Ball*. Enter this cave.
 
-**Azurine Cave North**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Noibat            |20 |Sealeo            |60 |
-|Binacle           |20 |Wingull           |30 |
-|Krabby            |10 |Tentacruel        |5  |
-|Corphish          |10 |Pelipper          |4  |
-|Shellos           |10 |Mantine           |1  |
-|Gastrodon         |10 |                  |   |
-|Crawdaunt         |9  |                  |   |
-|Kingler           |9  |                  |   |
-|Barbaracle        |1  |                  |   |
-|Noivern           |1  |                  |   |
+!enc(605, nil, nil, "Azurine Cave North")
 
 Past a hidden *Genius Wing* you'll see a Pyukumuku atop a hill, who we can battle.
 
@@ -609,39 +555,7 @@ There is one more thing we can do in these apartment areas: we have one key rema
 
 To finish off our exploration of the Azurine Lake, we will next check out Azurine Island. Surf west from Coral Ward and go down when you're able to to reach Azurine Island once more.
 
-**Neo Azurine Island**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Foongus           |20 |Foongus           |20 |Foongus           |20 |
-|Gloom             |20 |Gloom             |20 |Gloom             |20 |
-|Wooper            |10 |Wooper            |10 |Ariados           |10 |
-|Shellos           |10 |Shellos           |10 |Skorupi           |10 |
-|Yanma             |10 |Shelmet           |10 |Parasect          |10 |
-|Gastrodon         |10 |Gastrodon         |10 |Golbat            |10 |
-|Palpitoad         |5  |Palpitoad         |5  |Palpitoad         |5  |
-|Quagsire          |5  |Quagsire          |5  |Quagsire          |5  |
-|Amoonguss         |4  |Amoonguss         |4  |Amoonguss         |4  |
-|**Yanmega**       |4  |**Accelgor**      |4  |Drapion           |4  |
-|**Vileplume**     |1  |**Vileplume**     |1  |**Vileplume**     |1  |
-|**Seismitoad**    |1  |**Seismitoad**    |1  |**Seismitoad**    |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Water             |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Tentacool         |60 |Burmy             |30 |
-|Wingull           |30 |Exeggcute         |30 |
-|Tentacruel        |5  |Pineco            |25 |
-|Pelipper          |4  |Wormadam          |5  |
-|Mantine           |1  |Mothim            |5  |
-|                  |   |Forretress        |5  |
+!enc(569, ["Grass", "Headbutt"])
 
 Note that there are many Foongus and Amoonguss disguised as items, but fighting them now can save you some time for a later sidequest.
 
@@ -677,80 +591,21 @@ You'll notice that our new Pokémon is actually holding the *Sanctum Key*. Head 
 
 With the Super Rod in our bag, there are some new Pokémon we can get in the circus-and-beyond area. Fly back to the Agate Circus. You can get a *Circus Application* towards the top of the area while you're here. For completeness here are all of the encounters:
 
-**Celestinine Cascade**
+!enc(359, ["Fishing"], ["Super"])
 
-|Super Rod         |%  |
-|------------------|---|
-|Wishiwashi        |40 |
-|Lumineon          |40 |
-|**Shellder**      |15 |
-|Dewgong           |4  |
-|Octillery         |1  |
+!enc(366, ["Fishing"], ["Super"], "Ametrine Mountain 1-5F")
 
-**Ametrine Mountain 1F / 2F / 3F / 4F / 5F**
+!enc(376, ["Fishing"], ["Super"], "Ametrine Mountain B1-B3F")
 
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|**Seadra**        |40 |
-|Shellder          |15 |
-|Qwilfish          |4  |
-|Basculin          |1  |
+!enc(380, ["Fishing"], ["Super"], "Celestinine Mountain 1-3F")
 
-**Ametrine Mountain B1F / B2F / B3F**
+!enc(386, ["Fishing"], ["Super"], "Celestinine Mountain B1-B2F")
 
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|Seadra            |40 |
-|Shellder          |16 |
-|Qwilfish          |4  |
+!enc(396, ["Fishing"], ["Super"], "Celestinine Mountain 4F")
 
-**Celestinine Mountain 1F / 2F / 3F**
+!enc(381, ["Fishing"], ["Super"], "Citrine Mountain")
 
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|Clauncher         |40 |
-|Shellder          |15 |
-|Qwilfish          |4  |
-|Basculin          |1  |
-
-**Celestinine Mountain B1F / B2F**
-
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|Clauncher         |40 |
-|Shellder          |16 |
-|Qwilfish          |4  |
-
-**Celestinine Mountain 4F**
-
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|Clauncher         |40 |
-|Shellder          |15 |
-|Feebas            |5  |
-
-**Citrine Mountain**
-
-|Super Rod         |%  |
-|------------------|---|
-|Octillery         |40 |
-|Clauncher         |40 |
-|Shellder          |15 |
-|Qwilfish          |5  |
-
-**Water Treatment Center**
-
-|Super Rod         |%  |
-|------------------|---|
-|Muk-Alola         |44 |
-|Swalot            |40 |
-|Tentacool         |15 |
-|Tentacruel        |1  |
+!enc(467, ["Fishing"], ["Super"])
 
 ## Beldum Quest
 
