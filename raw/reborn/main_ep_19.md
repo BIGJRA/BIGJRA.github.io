@@ -906,11 +906,11 @@ Anyways, back down on the puzzle, we can now reach the top middle to activate an
 Head right, picking up the hidden *Blue Shard*. This next ice sheet is massive, so here's a step by step guide for this part:
 
 - L U L D R D R U L, activate the crystal at the top of the hill, then climb back down.
-- R D L U L U U L U L U L D R U L U L D L, activate crystal.
+- R D L U L U2 L U L U L D R U L U L D L, activate crystal.
 - D R U R D, activate crystal.
 - Make your way back to the starting tile, U L D L U R U L U R D L U R, activate crystal.
 - Make your way back to the starting tile, U L D L U L U L U L D, activate crystal.
-- R D L L U L U R D L D R U R, climb up. Grab the hidden *Guard Spec*.
+- R D L2 U L U R D L D R U R, climb up. Grab the hidden *Guard Spec*.
 
 Head into the next room when you're ready.
 

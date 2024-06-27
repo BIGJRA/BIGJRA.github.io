@@ -201,7 +201,7 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Puzzle 1: U U L L U U U R D R D R D R U U L U L U
+    Puzzle 1: U2 L2 U3 R D R D R D R U2 L U L U
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the first puzzle solution</a>
 </div>
@@ -210,7 +210,7 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Puzzle 2: U U R U R R D R U U U U L L D R D L L U L D D L U L D D L L U R U U L U R R R R U
+    Puzzle 2: U2 R U R2 D R U4 L2 D R D L2 U L D2 L U L D2 L2 U R U2 L U R4 U
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the second puzzle solution</a>
 </div>
@@ -219,7 +219,7 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Puzzle 3: U U L U L L D L L U R U L U R U U L U U R R R D D L D R D D R U R D R D D R U R U R D D R U U U L L L U L L U L U R R D R R D R R U U U L D L U L L L U
+    Puzzle 3: U2 L U L2 D L2 U R U L U R U2 L U2 R3 D2 L D R D2 R U R D R D2 R U R U R D2 R U3 L3 U L2 U L U R2 D R2 D R2 U3 L D L U L3 U
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the third puzzle solution</a>
 </div>

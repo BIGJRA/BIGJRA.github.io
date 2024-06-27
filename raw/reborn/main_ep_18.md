@@ -138,7 +138,7 @@ Here is the first of the Larvitar puzzles. By knocking down the four green cryst
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    U U U R R D R R R U R L D R R R D D R
+    U3 R2 D R3 U R L D R3 D2 R
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 1 Solution</a>
 </div>
@@ -147,7 +147,7 @@ Pick up the now-accessible *Jolly Mint* and *Timid Mint*. Proceed to the next ro
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    L U R D U R R R U L R D R L U R U L R R R R R R D R R D L D D L D U R D D
+    L U R D U R3 U L R D R L U R U L R6 D R2 D L D2 L D U R D2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 2 Solution</a>
 </div>
@@ -156,7 +156,7 @@ Pick up the now-accessible *Focus Sash*, *Modest Mint*, and *Nugget*. The door i
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    L U U R U U L D U R D R D U U R R R U U R R R D D D L D U L R D D L D R
+    L U2 R U2 L D U R D R D U2 R3 U2 R3 D3 L D U L R D2 L D R
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Larvitar Puzzle 3 Solution</a>
 </div>

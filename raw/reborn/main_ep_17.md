@@ -2,6 +2,8 @@
 
 Before we leave the gym, head to the top of the room. You'll find a hidden *Heart Scale* up here. Heal up if you need to - if you've progressed the quest up to this point, you can also talk to the left side of the flowery 'X' to find Corin Rouge! Battle him.
 
+!battle(["Carmen", :Casanova, 1], "Fairy Tale Field")
+
 Return to the north side of Peridot Ward and talk to the Corin Rouge lookalike here. He will jump on a train to escape! Darn.
 
 Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety Goggles*. This massive quest quest will be over soon, I swear.
@@ -10,7 +12,7 @@ Head down to the Lower Peridot Ward. If we previously did the Onix quest and got
 
 ## Reborn Restoration Project 1
 
-Anyways, head over to the Grand Hall. One of the guys behind the desk will be accepting donations for one of three projects.
+Head over to the Grand Hall. One of the guys behind the desk will be accepting donations for one of three projects.
 
 We can only choose to fund one right now, then each of the other two as soon as we get the fifteenth and sixteenth gym badges respectively. You won't be missing out on anything in the long term depending on your choice here. If you want to make a more informed choice, read the following three subsections to see what the rewards are for each.
 
@@ -34,17 +36,7 @@ Anyways, the three options:
 
 Donate the $60000 to fund this project. Head down to the South Obsidia Ward once you complete it, you'll notice that the whole area has been revamped and the Slums are no more.
 
-**Neo South Obsidia Ward (Renovated)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Primeape          |30 |Watchog           |30 |Watchog           |30 |
-|Watchog           |25 |Crabrawler        |20 |Tranquill         |20 |
-|Crabrawler        |20 |Gumshoos          |14 |Pancham           |15 |
-|Machoke           |14 |Primeape          |10 |Gumshoos          |15 |
-|Unfezant          |6  |Machop            |10 |Primeape          |10 |
-|Gumshoos          |5  |Machoke           |10 |**Pangoro**       |10 |
-|                  |   |Unfezant          |6  |                  |   |
+!enc(585, ["Grass"])
 
 You'll be able to find Berries growing at the bottom, namely 2 *Lansat Berries*, 2 *Apicot Berries*, 2 *Petaya Berries*, 2 *Salac Berries*, 2 *Ganlon Berries*, and 2 *Liechi Berries*.
 
@@ -68,35 +60,35 @@ While we're down here, we can use the GUM Key that we got earlier. In the upper-
 
 Essentially, we will need to move green sections of pipe into place so that they will complete the entire pipe circuit such that we end up in the upper right hand corner. This is a fun one to solve yourself, in my opinion, but here is a solution:
 
-- In the bottom left corner, move the vertical pipe to the right one tile, into place.
-- Head down from here and move the horizontal pipe up two tiles, into place.
-- Head all the way to the right side, as far right as you can go without moving more pipes. Up from here, push a horizontal pipe up two, out of its place for now.
-- Grab *TM84 Poison Jab* here.
-- From here go straight down. Push the rightmost horizontal pipe down two spaces, again out of its final place for now.
-- Down from here, the left of the two vertical pipes can be pushed left two spaces, into place.
-- The pipe to the right, the other vertical pipe, can be pushed two spaces left as well, into place.
-- Up and slightly left from here you'll see a column of horizontal pipes. You can safely push the bottom-most one down four spaces, into place.
-- Go up and push the second-from-the-bottom horizontal pipe down four tiles, into place.
-- From here, up and left a few tiles is a vertical pipe. Pushing it four tiles would put it in place - push it six to the left for now to keep the corridor open.
-- For each of the next three horizontal pipes in the column, push them down two tiles each, into their respective places.
-- Next, make your way to the top-left side of the room. You'll notice two vertical pipes in a row at the top of the room, and below the right of the pair is another vertical pipe. Push this one left six times, into place.
-- Down from here is a horizontal pipe you can push three tiles down, into place.
-- The vertical pipe currently against the left wall is the first in a long row of vertical pipes. You can now safely push the second vertical pipe in this row left 8 times, into place.
-- Down and right from here you'll find a horizontal pipe that can be pushed down four times, into place.
-- Go straight up, and push the two vertical pipes along the top wall right four tiles respectively, into place for both.
-- You can now safely push the third in the long row of vertical pipes left six spaces, into place.
-- Go right and down. You'll see a horizontal pipe that you can push down four spaces into place.
-- Down from here you can push another horizontal pipe up two spaces, into place.
-- Go up from here to return to the right side of the area. Up from the long column you'll find a U shaped alcove. Push the top-left vertical pipe two tiles right, out of place for now.
-- You'll now be able to push the fourth vertical pipe in the long row left four tiles, into place.
-- Head down to the bottom right corner. Push the bottom right pipe up two tiles, into place.
-- To escape from here, go up and left. You'll notice that we previously pushed this vertical pipe two spaces left of its place to escape, so now we can push it to the right now two spaces, into place.
-- Go up and back into the U-shaped alcove. Push the third and second vertical pipes from the right in the long row left four times respectively, into place.
-- Of the two horizontal pipes remaining nearby, push the bottom one two times, into place.
-- Push the final horizontal pipe down twice, into place.
-- Push the vertical pipe in the top left corner left twice, into place.
-- To escape the alcove, push the vertical pipe on the right side right twice.
-- Only two pipes remain out of place: push them down twice and left twice to finish the puzzle!
+!img("gum_room.png")
+
+- In the bottom left corner, move the vertical pipe (1) to the right one tile, into place.
+- Head down from here and move the horizontal pipe (2) up two tiles, into place.
+- Head all the way to the right side, as far right as you can go without moving more pipes. Up from here, push a horizontal pipe (3) up two, out of its place for now. Grab *TM84 Poison Jab* here.
+- From here go straight down. Push the rightmost horizontal pipe (4) down two spaces, again out of its final place for now.
+- Down from here, the left of the two vertical pipes (5) can be pushed left two spaces, into place.
+- The pipe to the right, the other vertical pipe (6), can be pushed two spaces left as well, into place.
+- Up and slightly left from here you'll see a column of horizontal pipes. You can safely push the bottom-most one (7) down four spaces, into place.
+- Go up and push the second-from-the-bottom horizontal pipe (8) down four tiles, into place.
+- From here, up and left a few tiles is a vertical pipe (9). Pushing it four tiles would put it in place - push it six to the left for now to keep the corridor open.
+- For each of the next three horizontal pipes in the column (10, 11, and 12), push them down two tiles each, into their respective places.
+- Next, make your way to the top-left side of the room. You'll notice two vertical pipes (18, 17) in a row at the top of the room, and below the right of the pair is another vertical pipe (13). Push this one (13) left six times, into place.
+- Down from here is a horizontal pipe (14) you can push three tiles down, into place.
+- The vertical pipe currently against the left wall (13) is the first in a long row of vertical pipes. You can now safely push the second vertical pipe in this row (15) left 8 times, into place.
+- Down and right from here you'll find a horizontal pipe (16) that can be pushed down four times, into place.
+- Go straight up, and push the two vertical pipes along the top wall (17, 18) right four tiles respectively, into place for both.
+- You can now safely push the third in the long row of vertical pipes (19) left six spaces, into place.
+- Go right and down. You'll see a horizontal pipe (20) that you can push down four spaces into place.
+- Down from here you can push another horizontal pipe (21) up two spaces, into place.
+- Go up from here to return to the right side of the area. Up from the long column you'll find a U shaped alcove. Push the top-left vertical pipe (22) two tiles right, out of place for now.
+- You'll now be able to push the fourth vertical pipe (23) in the long row left four tiles, into place.
+- Head down to the bottom right corner. Push the bottom right pipe (4, previously moved two tiles down) up two tiles, into place.
+- To escape from here, go up and left. Push the vertical pipe here (9, previously moved two extra tiles left) right now two spaces, into place.
+- Go up and back into the U-shaped alcove. Push the third and second vertical pipes from the right in the long row (24, 25) left four times respectively, into place.
+- Push the final two horizontal pipes remaining nearby (26, 27) down twice, into place.
+- Push the vertical pipe in the top left corner (22, previously moved right twice) left twice, into place.
+- To escape the alcove, push the vertical pipe on the right side (28) right twice.
+- Only two pipes (3, 28) remain out of place: push them down twice and left twice respectively to finish the puzzle!
 
 Talk to the computer in this area to get a **Goomy**!
 
@@ -275,12 +267,12 @@ If you didn't fight Taka at the WTC, now will be the time to fight him!
 
 !battle(["Taka", :Taka, 4], "Desert Field")
 
-You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down, so this fight probably won't be too terrible for you. As always, beware of a Shell Smash Minior sweep.
+You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down. As before, beware of a Shell Smash Minior sweep.
 
 **Relationship Point Choices:**
 - Tell Taka that you will not keep on winning (+1 Taka)
 
-Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay pluses to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. However you will have to be careful that he doesn't knock out wild Pokémon you want to catch, though you can return later once he is no longer with you.
+Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay reasons to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. You will have to be careful that he doesn't knock out wild Pokémon you want to catch, though you can return later once he is no longer with you.
 
 **In order to access the exclusive postgame route, you need to allow Taka to join you.**
 
@@ -302,11 +294,11 @@ Once you make your choice, it's time to start exploring the desert...
 
 If you want to just blaze through the story, head straight up in the desert until you reach an area with tons of trains, then complete the 1R253 Scrapyard section and proceed from there. There are tons and tons of actually good Pokémon and items that become available around the desert, so we'll spend a while exploring side areas for now.
 
-So, the most dreaded part of writing this guide for me has finally arrived. I'll briefly explain the problem as well as my approach. Note that this all really doesn't matter much if you're not going out of your way to collect all the hidden items so you can just grab the items and Pokémon that you want and ignore the complications.
+Tourmaline Desert is HUGE: I'll briefly explain my approach to 100% completion in the desert. Note that this doesn't matter much if you're not going out of your way to collect all the hidden items, so you can just grab the items and Pokémon that you want and ignore the complications.
 
-Essentially the greater part of Tourmaline Desert is really huge. That alone makes it hard to point to specific items. However there are actually 4 versions of this large map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well.
+There are actually 4 versions of the main, large Desert map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well.
 
-What I recommend is exploring the map you have landed on first without touching any of the oases - touching the light shard nearby the oasis will switch the map you're on. Doing this exactly 3 times will switch a DIFFERENT desert map between two versions, but we don't want to do this just yet. I will number the four maps 1, 2, 3, 4. Note that when you switch the map you're on you'll go to a random, different number, so to be sure you'll have to search for the oasis every time.
+What I recommend is exploring the map you have landed on first without touching any of the oases - touching the light shard nearby the oasis will switch the map you're on. Doing this exactly 3 times will switch a DIFFERENT desert map between two versions, *but we don't want to do this just yet*. I will number the four maps 1, 2, 3, 4. Note that when you switch the map you're on you'll go to a random, different number, so to be sure you'll have to search for the oasis every time.
 
 To find the map you're on to start, you'll want to find your oasis. I provide images of each oasis below.
 
@@ -324,32 +316,11 @@ Oasis 4: Bottom of the right side of the desert
 
 So, once you find the map you're on, now we can start getting things!
 
-**Greater Tourmaline Desert**
+Constant throughout the desert are the water encounters:
 
-|Super Rod         |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Gastrodon         |44 |Mandibuzz         |65 |
-|Shellos           |40 |**Gliscor**       |31 |
-|Bruxish           |16 |Skarmory          |4  |
-
-|Cave              |%  |
-|------------------|---|
-|Marowak           |4+ |
-|**Cacturne**      |4+ |
-|**Maractus**      |4+ |
-|**Krookodile**    |4+ |
-|Excadrill         |4+ |
-|Dugtrio           |4+ |
-|**Mandibuzz**     |4+ |
-|**Darmanitan**    |4+ |
-|**Heliolisk**     |4+ |
-|Hippowdon         |4+ |
-|**Skarmory**      |1  |
-|**Scrafty**       |1  |
+!enc(694, ["Surfing", "Fishing"])
 
 You'll also find many stationary **Exeggutor-Alola** around the desert.
-
-You can encounter the same Pokémon on the various maps but at different rates. Thankfully, with the Magnetic Lure, you will be able to get whatever you don't already have easily.
 
 For what it's worth, there are transitions from each map into two OTHER maps... which we will explore later. For now, keep in mind you don't want to go more north than these two images, the northwest and northeast borders:
 
@@ -359,34 +330,46 @@ For what it's worth, there are transitions from each map into two OTHER maps... 
 
 For now, don't enter any train cars yet, either.
 
-First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, and finally grabbing whatever is in the center of the desert. Note that the large opening in a sand dune is Sugiline Cave, for the purposes of navigation. We'll explore there later.
+First, I'll start by covering all the items that you can get only once and are available on all the maps. These are all generally worth getting and I'll point you roughly towards them. This is also a good time to get acquainted with the layout of the desert! For the sake of grabbing all these items, I will generally travel along the outside of the desert starting in the upper left corner, going counter clockwise along the outside of the desert, with occasional dips into the center of the map. Note that the large opening in a sand dune is Sugiline Cave. We'll explore there later.
 
 Note that Taka often has something to say when you find these if he is with you.
 
+For now, grab the items available on all four maps plus those on the specific oasis variety you are on; we will grab the rest later.
+
 **On all maps (only obtainable once)**
+
+!img("tourmaline_items_main.png")
 
 - In the top left corner up on a hill, you can get hidden 3 *Exp. Candy XL*.
 - As you climb down the top left hill, go slightly right as you head down. You'll see a *Stone Plate* on top of a hill.
-- On the left side, you can hop across some blocks after defeating some Exeggutor-Alola to get *TM72 Volt Switch*!
+- As you head down the left wall of the desert, you'll see one wide green tree. Head east from here across a dune, you'll see a broken statue. The main statue is too faded to read, but the broken off gargoyle contains a hidden *Max Elixir*.
+- Continuing to follow the left wall down, you can hop across some blocks after defeating some Exeggutor-Alola to get *TM72 Volt Switch*!
 - In the bottom left corner of the desert, you'll be able to pick up a *Focus Sash*.
 - On the very bottom-middle of the desert you can find 6 *Poké Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
 - Hugging the right wall of the desert, you'll find a *Relic Copper*.
 - Past Sugiline Cave, hugging the right wall and going up, you'll find a *Max Elixir* near some dead trees.
 - Up and to the right of the previous Max Elixir, you can find a hidden *Star Piece* in a rock.
 - In the far northeast side of the desert, you can climb a sand dune to get onto a hill. Up and to the right you'll find a hidden *Synthetic Seed*.
-- Pretty much in the center of the desert you'll see a section of vertical tracks. To the left of it, you'll see a broken statue. The main statue is too faded to read but the broken off gargoyle contains a hidden *Max Elixir*.
 
-Aside from all these items, each of the four maps has its own list of hidden items. These aren't even particularly worth searching for but for completeness I list them here.
+Aside from all these items, each of the four maps has its own list of hidden items. These aren't even particularly worth searching for... but for completeness I list them here.
 
 **Map 1**
+
+!enc(694, ["Cave"], nil, "Tourmaline Desert (Layout 1)")
+
+Map 1 has this trainer, north of the train station from Peridot Ward:
+
+!battle(["Addison", :RANGERF, 0], "Desert Field")
+
+!img("tourmaline_items_1.png")
 
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Magical Seed*.
 - A hidden *Green Shard* is in a skull above the oasis.
 - A hidden *Liechi Berry*, *Elixir*, *Red Shard*, and *Resist Wing* are nearby the oasis, in the upper left side of the map below the hill.
 - East of the oasis in a dead tree is a *Telluric Seed*.
 - Down from the oasis is a cactus, containing a *Leaf Stone*.
-- Down from here, you'll eventually find the train station where we can return to Reborn City. Hidden on the station is *Red-Hots*.
-- Straight west from the station is a *Blue Shard*.
+- Head straight east and you'll find a *Dire Hit* in a patch of green.
+- Left and down from here, along the left wall, you'll find a hidden *Blue Shard*. Straight east of here is the train station where we can return to Reborn City. Hidden on the station is *Red-Hots*.
 - Down and left from here you'll see a tall pillar. Northwest of it, you can get a hidden *Common Candy* in a dead tree.
 - North and slightly west of the pile of Poké Balls in the south desert, you'll find a hidden *X Speed*.
 - Hugging the right side of the desert and going up, you'll see a small hill and a few patches of green. One contains a hidden *Great Ball*.
@@ -394,33 +377,49 @@ Aside from all these items, each of the four maps has its own list of hidden ite
 - Straight west and slightly up from the previous item, you can find a hidden *Tiny Mushroom* between some palm trees.
 - East of Sugiline Cave, you can find an *Exp. Candy XL*.
 - In the northeast side of the desert map north of where we previously found the hidden Star Piece, you can get a hidden *Rawst Berry*.
-- Go straight up from here. You'll see a hidden *Full Heal* in a rock.
+- Slightly up and left you'll find a large hill: at its base is a skull containing a *Rare Bone*.
+- Go up and slightly right from here. You'll see a hidden *Full Heal* in a rock.
 - A decent bit west of the previous item, you'll find a hidden *Fire Gem*.
 - West of the here, you can find a *Dawn Stone* hidden in a rock.
-- Back on the left side of the desert, straight east of the Stone Plate rock, under some tracks you'll find a hidden *Fairy Gem*.
-- Going straight east from the Fairy Gem, past the fork in the tracks you'll see a large hill. On the other side is a skull containing a *Rare Bone*.
-- Down and to the left from here, you'll lose the train tracks but will eventually find them again in the sand. Left of here in a patch of green, you can get a *Dire Hit*.
+- Go down, around the right side of the large hill and go down past the tracks. You'll find a hidden *Fairy Gem* in a desert rose.
+
 
 **Map 2**
 
+!enc(703, ["Cave"], nil, "Tourmaline Desert (Layout 2)")
+
+Map 2 has this trainer, near the oasis:
+
+!battle(["Erebus", :AceTrainerM, 0], "Desert Field")
+
+!img("tourmaline_items_2.png")
+
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Chewing Gum*.
 - South of the hill, you can get a hidden *Poké Snax* between some rock pillars.
-- On the left side of the desert you'll see a clump of desert roses and cacti. Nearby is a hidden *Oval Stone*.
-- Hugging the left wall of the desert, you'll find a hidden *Green Shard* in a bush.
+- On the left side of the desert you'll see a clump of desert roses and cacti. Nearby is a hidden *Oval Stone*. 
+- Go straight east from the desert roses to find a hidden *Bug Gem* on top of a dune.
+- Hugging the left wall of the desert and continuing down, you'll find a hidden *Green Shard* in a bush.
 - Across the desert, north of where we found the Relic Copper earlier, you can find a hidden *Green Shard* and *Purple Shard* near desert rose trees.
-- Near the oasis on the right side of the desert, you can find hidden *Ability Capsule*, *Petaya Berry*, and *Carbos*.
-- In the northeastern corner of the desert you can find a hidden *Ultra Ball* and *Exp. Candy XL* in some rocks.
-- Back down from here, slightly south and west from the oasis, you can find a hidden *Green Shard* in a skull by a hill.
+- Near the oasis on the right side of the desert, you can find hidden *Ability Capsule*, *Petaya Berry*, and *Carbos*. The Ability Capsule requires surfing, which you cannot do while with Taka.
+- Slightly south and west from the oasis, you can find a hidden *Green Shard* in a skull by a hill.
 - Left from the previous item you'll find train tracks. Follow these up to get a hidden *Purple Shard*.
-- Up and left from here you'll find a *Bug Gem* on top of a dune.
+- In the northeastern corner of the desert you can find a hidden *Ultra Ball* and *Exp. Candy XL* in some rocks.
 
 **Map 3**
+
+!enc(704, ["Cave"], nil, "Tourmaline Desert (Layout 3)")
+
+Map 3 has this trainer, northwest of Sugiline Cave:
+
+!battle(["Altimis", :AceTrainerM, 0], "Desert Field")
+ 
+!img("tourmaline_items_3.png")
 
 - Just below the hill where we found the 3 Exp. Candies, you can find a hidden *Heart Scale* and *Red-Hots*.
 - Following the left wall down, you can get a *Blue Shard* in a bush.
 - Further down the left wall, nearby a desert rose patch you can get a *Calcium* and a *Dragon Gem*.
 - Follow the left wall down, on the other side of the bend in the wall you can find a hidden *Peppermint* near a dead tree.
-- Nearby the oasis on the left side of the map, you can find a hidden *Relic Gold*, *Salac Berry*, and *Protein*.
+- Nearby the oasis on the left side of the map, you can find a hidden *Relic Gold*, *Salac Berry*, and *Protein*. The Relic Gold can only be obtained via surfing when Taka is not a partner.
 - To the right and slightly up from the oasis, you'll find a hidden *Red Shard*.
 - On the train platform down and to the right of the oasis you can get a hidden *Sun Stone*.
 - Across the tracks from the station and slightly down you'll find a hidden *Red Shard* near a pillar.
@@ -431,15 +430,23 @@ For some reason, just on this map, you can give a guy in the bottom right corner
 - In the bottom right side of the desert, a rock will hide a *Nugget*. Just up from here in a patch of green is another rock containing a *Grass Gem*.
 - Go up from here, passing between a small hill and a pillar. Up from here you'll find a desert rose containing a hidden *Ultra Ball*.
 - Up from the Ultra Ball you'll see a bunch of bushes and cacti. Going right around the mountain, you'll find a hidden *Blast Powder*.
-- Head way up from here. In a patch of green nearby a train track corner, towards the top right corner of the desert but a bit out from the wall, you can find a *Purple Shard*, and a *Poison Gem* just above here near a train car.
-- Straight left from the Poison Gem, follow the tracks to reach a hidden *Stardust*.
-- Just before you reach the top right corner of the desert, on your left is a mountain with a broken statue head beneath containing a *Steel Gem*.
+- Head way up from here. Follow the tracks to a junction to get a *Stardust*. 
+- To the east, in a patch of green, you can find a *Purple Shard*, and a *Poison Gem* just above here near a train car.
+- Up and right from here, just before you reach the top right corner of the desert, beneath a mountain is a  broken statue head containing a *Steel Gem*.
 - Hidden in a pile of rocks in the north east of here is a *Nugget*, and a *Green Shard* to the northeast in a bush.
 - Go straight left from this area into the area with many train tracks. In a rock pile you'll be able to find a hidden *Protein*.
 - Continuing left from here, slightly up is a hidden *Water Stone* fittingly in a cactus.
 - Going straight left from here once more, you'll find a hidden *Poké Snax* in a rock.
 
 **Map 4**
+
+!enc(705, ["Cave"], nil, "Tourmaline Desert (Layout 4)")
+
+Map 4 has this trainer, near the tracks on the west side:
+
+!battle(["Red", :HIKER, 0], "Desert Field")
+
+!img("tourmaline_items_4.png")
 
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Common Candy*.
 - Down from the hill, you'll find a bush containing another hidden *Common Candy*.
@@ -453,16 +460,16 @@ For some reason, just on this map, you can give a guy in the bottom right corner
 - Slightly to the northeast of the pile of Poké Balls, you'll find a hidden *Purple Shard*.
 - Around the oasis in the bottom right corner, you can find a hidden *Sitrus Berry*, *Dusk Ball*, and *Relic Copper*.
 - Just before the Sugiline Cave on the east side of the desert you'll find an area with a lot of cacti and bushes. Nearby are 3 hidden *Green Shards*.
-- Straight up from here, follow the wall up and to the right. Near the dead trees, we can find a hidden *Purple Shard*.
+- Straight to the left, you'll find a small grove of wide trees near a train track. You'll find a hidden *Escape Rope*.
+- Up and left from here is a patch of green containing another hidden *Green Shard*.
+- Follow the nearby tracks straight down to find a hidden *Fire Stone*.
+- Go up and you hug the right wall, past Sugiline Cave. Near the dead trees, we can find a hidden *Purple Shard*.
 - Continue north and slightly left from here. In a green patch with bushes and a cactus you can find another hidden *Purple Shard*. Following the nearby tracks left, you'll find a hidden *Ultra Ball*.
 - Slightly up and to the right, you'll find a hidden *Burn Heal* in a statue head at the base of a mountain and a hidden *Big Pearl* in a bush to the right.
 - In the northeast corner of the map, you'll find a hidden *Escape Rope* and *X Accuracy*.
 - Left from here, in a rock beneath a hill, you can find a hidden *Purple Shard*.
 - Go left from here. Nearby the train cars, you can find a hidden *Blue Shard* in a rock.
 - Continue going farther to the left. Just before the final vertical train tracks is a rock containing a hidden *Awakening*.
-- Near the dead center of the desert, you'll find a small grove of trees near a train track. You'll find a hidden *Escape Rope*.
-- Up and left from here is a patch of green containing another hidden *Green Shard*.
-- Follow the nearby tracks straight down to find a hidden *Fire Stone*.
 
 Phew! That's everything we can grab in the Greater Tourmaline Desert.
 
@@ -480,26 +487,19 @@ It's also worth noting that Taka has 36 different dialogues, some changing depen
 
 Next, we're going to explore the northwest side of the Tourmaline Desert. Thankfully there is only one map this time and it is relatively narrow. Make your way to the northwest side of the greater desert and start following the tracks up. As before, don't enter any of the traincars quite yet.
 
-**Northwest Tourmaline Desert**
+!enc(687)
 
-|Cave              |%  |
-|------------------|---|
-|Marowak           |20 |
-|Sandslash         |20 |
-|**Lycanroc**      |10 |
-|Krookodile        |10 |
-|Excadrill         |10 |
-|Dugtrio           |10 |
-|Mandibuzz         |5  |
-|Darmanitan        |5  |
-|Heliolisk         |4  |
-|Hippowdon         |4  |
-|Skarmory          |1  |
-|Gliscor           |1  |
+The map:
 
-From bottom to top ordered roughly you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokéSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poké Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
+!img("tourmaline_nw.png")
 
-You'll also notice a few non-hidden items: along the right side you can get a *Relic Copper* and a *Max Ether*. On the left side, past a dangerous trainer with F.E.A.R., you'll be able to get *TM08 Bulk Up*.
+From bottom to top (ordered roughly) you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokéSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poké Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
+
+You'll also notice a few non-hidden items: along the right side you can get a *Relic Copper* and a *Max Ether*. On the left side, you'll be ambushed by a dangerous trainer:
+
+!battle(["Maximus", :HIKER, 0], "Desert Field")
+
+Beyond him, you'll be able to get *TM08 Bulk Up*.
 
 Note that at the very top of the area we won't be able to move on thanks to an intense sandstorm - this is actually the region's border, so don't worry about trying to pass here as we will not be able to. You'll also notice a cave entrance in the top left corner - this is the Teknite Cave. I am gonna explore here later on, but you can jump to that section if you want to explore it now.
 
@@ -509,27 +509,11 @@ Next, we're gonna checkout the final part of the outside desert area. Make your 
 
 So, there are also multiple maps going on in the Northeast Tourmaline Desert, but thankfully there are only two and it's pretty easy to tell where you are. If you haven't messed with any oases yet, you'll be on the dirty version, which I will explore first.
 
-**Northeast Tourmaline Desert (Dirty)**
+!enc(695, nil, nil, "Northeast Tourmaline Desert (Dirty)")
 
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Grimer            |100|Grimer            |60 |Muk               |100|
-|                  |   |Muk               |40 |                  |   |
+The map:
 
-|Cave              |%  |
-|------------------|---|
-|Marowak           |20 |
-|Cacturne          |20 |
-|Maractus          |10 |
-|Krookodile        |10 |
-|Excadrill         |10 |
-|Dugtrio           |10 |
-|Mandibuzz         |5  |
-|Darmanitan        |5  |
-|**Lairon**        |4  |
-|Hippowdon         |4  |
-|Skarmory          |1  |
-|Drapion           |1  |
+!img("tourmaline_ne.png")
 
 Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poké Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*.
 
@@ -537,32 +521,11 @@ At the wasteland at the top you can get *TM36 Sludge Bomb*!
 
 With this map fully explored, now we can finally proceed to mess with the oases. Essentially, as explained before, each time you touch a light shard at a mirage, the map will switch to a different one. If you've done this any multiple of three times, the map on the northeast will transform from the dirty map to the clean map. So, go search for three mirages, grab the hidden items on the respective Greater Tourmaline map you land on if you'd like, then return here to explore the Mirage version.
 
-**Northeast Tourmaline Desert (Mirage)**
+!enc(688, nil, nil, "Northeast Tourmaline Desert (Mirage)")
 
-|Super Rod         |%  |
-|------------------|---|
-|Gastrodon         |44 |
-|Shellos           |40 |
-|Bruxish           |16 |
+The layout is the mostly same as before, but there are new items. Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokéSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poké Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
 
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Marowak           |20 |Mandibuzz         |60 |
-|Cacturne          |20 |Gliscor           |31 |
-|Maractus          |10 |Sigilyph          |5  |
-|Krookodile        |10 |Skarmory          |4  |
-|Excadrill         |10 |                  |   |
-|Dugtrio           |10 |                  |   |
-|**Vibrava**       |5  |                  |   |
-|Darmanitan        |5  |                  |   |
-|Heliolisk         |4  |                  |   |
-|Hippowdon         |4  |                  |   |
-|Skarmory          |1  |                  |   |
-|**Flygon**        |1  |                  |   |
-
-Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokéSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poké Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
-
-Before we enter the tower, there's another thing we can do out here. Surf around the back of the tower. There's a hidden stairs directly behind the tower we can use to get onto the mountainside. Follow this path to get a hidden *Stardust*, *Swift Wing*, and *Blue Shard*.
+Before we enter the Mirage Tower, there's another thing we can do out here if Taka is not a partner - otherwise, return here later. Surf around the back of the tower. There's a hidden stairs directly behind the tower we can use to get onto the mountainside. Follow this path to get a hidden *Stardust*, *Swift Wing*, and *Blue Shard*.
 
 You can pet Leafeon here for the Eeveelution petting quest. By defeating the Lv. 100 Exeggutor-Alola in the pot, you can talk to the pot to get the *Dragonium-Z*! There is also a top tier NPC and shop here.
 
@@ -581,18 +544,9 @@ To reach the basement, you'll need to smash every mirror along the top wall with
 
 Anyways, head through the opened door to the basement.
 
-**Mirage Tower B1F**
+!enc(669)
 
-|Cave              |%  |
-|------------------|---|
-|**Marowak-Alola** |29 |
-|Sandslash         |24 |
-|Lairon            |10 |
-|Dusclops          |10 |
-|Dugtrio           |10 |
-|Cofagrigus        |10 |
-|Banette           |6  |
-|Excadrill         |1  |
+!img("mirage_b1f.png")
 
 This is a dark, mazelike room. To progress you will sorta have to do a clockwise spiral outward, grabbing items as you go. Hidden in the basement you can find a *Super Potion*, 2 *Red Shards*, *Purple Shard*, *Ultra Ball*, *Green Shard*, *Cotton Candy*, *Ghost Gem*, *Great Ball*, and *Heart Scale*.
 
@@ -604,7 +558,7 @@ Puzzle 1:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    U U U R R
+    U3 R2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 1 solution</a>
 </div>
@@ -613,7 +567,7 @@ Puzzle 2:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    U U L L D D D D R R
+    U2 L2 D4 R2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 2 solution</a>
 </div>
@@ -622,7 +576,7 @@ Puzzle 3:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    D L D D D L L L L D R D D D R R R R D
+    D L D3 L4 D R D3 R4 D
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 3 solution</a>
 </div>
@@ -631,7 +585,7 @@ Puzzle 4:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    D D D R U R R R D R D D R
+    D3 R U R3 D R D2 R
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 4 solution</a>
 </div>
@@ -641,7 +595,7 @@ You'll need to go back the way you came and go up at the fork in the stairs to p
 Puzzle 5:
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    R R R R R D D D R R D D D R L L U L L L L R R R
+    R5 D3 R2 D3 R L2 U L4 R3
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 5 solution</a>
 </div>
@@ -652,35 +606,14 @@ Puzzle 6:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    R R R R R L D D D D D D L L L U U U U L D U U
+    R5 L D6 L3 U4 L D U2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Puzzle 6 solution</a>
 </div>
 
 Follow the path back from here... into the Tourmaline Desert once more?
 
-**Northeast Tourmaline Desert?**
-
-|Super Rod         |%  |
-|------------------|---|
-|Gastrodon         |40 |
-|Bruxish           |40 |
-|**Phione**        |20 |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Marowak           |20 |Mandibuzz         |60 |
-|Cacturne          |20 |Gliscor           |31 |
-|Maractus          |10 |Sigilyph          |5  |
-|Krookodile        |10 |Skarmory          |4  |
-|Excadrill         |10 |                  |   |
-|Vibrava           |10 |                  |   |
-|Dugtrio           |5  |                  |   |
-|Darmanitan        |5  |                  |   |
-|Heliolisk         |4  |                  |   |
-|Flygon            |4  |                  |   |
-|Hippowdon         |1  |                  |   |
-|Skarmory          |1  |                  |   |
+!enc(675, nil, nil, "Northeast Tourmaline Desert?")
 
 So, we can get another legendary here, if you can call it that!
 
@@ -1021,9 +954,9 @@ Head up at the top to Titania's arena!
 
 Before starting the battle, you can jump into the blue hole at the top and go left from here if you want a shortcut to Train Town for some prep - there's a good chance your team won't be good enough for the upcoming gym fight. Anyways, up from here is a hole you can jump into to return to the tower. Along the way back to the gym, you'll even find a *Rare Candy*!
 
-!battle(["Titania", :TITANIA1, 0], "Fairy Tale Arena")
+!battle(["Titania", :TITANIA1, 0], "Fairy Tale Field")
 
-The Fairy Tale arena boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary! (just know that in previous versions the seed would also boost Attack for free...)
+The Fairy Tale Field boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary! (just know that in previous versions the seed would also boost Attack for free...)
 
 There are a good number of strategies that remain for you to use, thankfully. A Pokémon with Protect, Swords Dance, and a move like Earthquake or Brick Break can probably sweep through most of the team with a bit of speed control support as long as they can live a priority attack or two. There are a ton of abilities and moves that allow you to gain Defense, so if you're able to deal with Klefki and Empoleon there may be a working strategy involving going all in on Defense boosts to neutralize her attack boosts and such. There are also some boosts to attacks and abilities: Mystical Fire / Magician and Sparkling Aria / Oceanic Operetta do get boosted here if you want to try to sweep with your starter Delphox or Primarina! Queenly Majesty gives a boost to damage, combine this with its natural ability to cancel out Bullet Punch and Shadow Sneak, and Tsareena may end up being very helpful here. The Magical Seed giving a free turn can also be used by you, with the added bonus of you being able to hard switch in to a contact move to force a stat lower on one of her party members if need be. If you're really stuck, you can literally consider going 6 Magical Seeds held to grant yourself 6 free turns - this is what I did once upon a time to win this fight with a Fairy monotype.
 

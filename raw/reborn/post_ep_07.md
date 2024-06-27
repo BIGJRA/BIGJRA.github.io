@@ -176,14 +176,14 @@ In this section, more of the same kind of puzzle we did previously in the tower.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    P1: U L L L, P2: U U R R R U U D D L L L L L R R D D, P1: R D
+    P1: U L3 P2: U2 R3 U2 D2 L5 R2 D2, P1: R D
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the first puzzle</a>
 </div>
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    P1: D D D R D R R R U L U L L L, P2: U U U U R R R R R, P1: L L, P2: D D
+    P1: D3 R D R3 U L U L3, P2: U4 R5, P1: L2, P2: D2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the second puzzle</a>
 </div>
@@ -193,7 +193,7 @@ The third puzzle has a secret. See if you can figure it out.
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
     The secret is that you can take pieces out of the inscribed squares... anywhere on the map. Anyways, one possible solution: <br/>
-    P2: R R, P1: L L, P2: U U, P1: L L U U, P2: L L U R R U U L D D D D D D D D R R R R R U U U U L L D, P1: D D D R R R R R R L L L L D D L L, P2: D D
+    P2: R2, P1: L2, P2: U2, P1: L2 U2, P2: L2 U R2 U2 L D8 R5 U4 L2 D, P1: D3 R6 L4 D2 L2, P2: D2
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the third puzzle</a>
 </div>
@@ -205,7 +205,7 @@ In the next room, you can talk to Charlotte on Lin Route:
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    P1: D D L L, P2: U U, P1: R R, P2: D D, P1: U
+    P1: D2 L2, P2: U2, P1: R2, P2: D2, P1: U
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the fourth puzzle</a>
 </div>
@@ -220,7 +220,7 @@ You can also get the *Solganium-Z* here. Proceed to the next room.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    P1: D D D R D R R R U L L L L, P2: U U U U R R R, P1: L U R R, P2: U L D L D, P1: R, P2: D D L, P1: D
+    P1: D3 R D R3 U L4, P2: U4 R3, P1: L U R2, P2: U L D L D, P1: R, P2: D2 L, P1: D
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the fifth puzzle</a>
 </div>
