@@ -64,37 +64,11 @@ That's not all we can do in the Teknite Ridge, but we will be accessing a differ
 
 Fly over to the Beryl Ward, and enter the Beryl Cave. On 1F, you can use Rock Climb to access a new area. Grab the hidden *Red Shard* and head into the next room, which has a hidden *Hard Stone*. Climb up once more to emerge into a new section of the Teknite Ridge.
 
-**Teknite Ridge (Beryl Cave Area)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Durant            |20 |Durant            |20 |Durant            |20 |
-|Heatmor           |20 |Heatmor           |20 |Heatmor           |20 |
-|Turtonator        |15 |Turtonator        |15 |Druddigon         |19 |
-|Accelgor          |14 |Druddigon         |15 |Sandslash         |10 |
-|Sandslash         |10 |Sandslash         |11 |Accelgor          |10 |
-|Graveler          |10 |Graveler          |10 |Graveler          |10 |
-|Druddigon         |5  |Accelgor          |4  |Turtonator        |5  |
-|**Lickilicky**    |4  |**Lickilicky**    |4  |**Lickilicky**    |5  |
-|Talonflame        |1  |Gliscor           |1  |Gliscor           |1  |
-|Gliscor           |1  |                  |   |                  |   |
+!enc(744, nil, nil, "Teknite Ridge (Beryl Cave Side)")
 
 Hidden on this map, we can obtain a *Green Shard*, *Energy Powder*, *Dusk Ball*, *Common Candy*, and *Calcium*. Enter the cave at the top.
 
-**Teknite Cave (Beryl Cave Area)**
-
-|Cave              |%  |
-|------------------|---|
-|Boldore           |20 |
-|Aron              |20 |
-|Durant            |10 |
-|Lairon            |10 |
-|Dugtrio           |10 |
-|Heatmor           |10 |
-|Sandslash         |9  |
-|Turtonator        |9  |
-|Gigalith          |1  |
-|Aggron            |1  |
+!enc(746, nil, nil, "Teknite Cave (Beryl Cave Side)")
 
 Grab the hidden *Heart Scale*. We'll need to transform this field to Dark Crystal Cavern - using the TM for Dark Pulse, this should be doable.
 
@@ -121,6 +95,8 @@ From here, go right and climb down the rocks nearby. Grab the hidden *Synthetic 
 Fly over to the Tanzan Cove and enter the main part of Tanzan Mountain. Go past the meteor base and down the stairs to enter the Tanzan Depths.
 
 In the area where we fought Steelix, make your way to the top left and climb across the metal beam. Climb up here. You'll find a *Muscle Band*, *Rock Memory*, *Big Nugget*, and *Kangaskhanite* here as well as hidden items: *Escape Rope*, 4 *Tiny Mushrooms*, *Green Shard*, *Red Shard*, *Exp. Candy XL*, *Awakening*, *Blue Shard*, and *Carbos*.
+
+!battle(["Will", :PkMnRANGER_Male, 0], "Cave Field")
 
 Enter any one of the three caves.
 
@@ -187,27 +163,7 @@ We've gone this path once before to get some items. Climb the waterfall in the n
 
 Complete an ice puzzle here, grab a *Paralyze Heal*, then take the waterfall down. Not down one floor, not two, but down EIGHT floors, you'll land on Ametrine Mountain B4F.
 
-**Ametrine Mountain B4F**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Remoraid          |60 |Octillery         |40 |
-|Wishiwashi        |30 |Horsea            |20 |Seadra            |40 |
-|                  |   |Qwilfish          |20 |Shellder          |15 |
-|                  |   |                  |   |**Dratini**       |5  |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Cubchoo           |20 |Wailmer           |60 |
-|Spheal            |20 |Seel              |30 |
-|Beartic           |11 |Lumineon          |5  |
-|Delibird          |11 |Wishiwashi        |4  |
-|Bergmite          |10 |Dewgong           |1  |
-|Sealeo            |10 |                  |   |
-|Sandshrew         |5  |                  |   |
-|Sandslash         |5  |                  |   |
-|Cryogonal         |4  |                  |   |
-|Snorunt           |4  |                  |   |
+!enc(379)
 
 Yay, another pseudo legendary now obtainable.
 
