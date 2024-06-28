@@ -113,7 +113,7 @@ Next, enter the Devon Co. building and head down the stairs. The basement stairs
 
 Enter the railnet building to the left of the Pokémon Center in Obsidia. This is now the Goldenrod Station of the functioning railnet - we will be visiting each station to see what's new there. We don't lose money buying tickets, but the subway isn't really any more useful than Fly, which we already have, so this is really just for exploration.
 
-Anyways, the Grandview Station is just the building we used to get to the desert previously, so there's nothing new there. The Ivyline Station is in the basement of the Onyx Trainer School, but we also aren't getting anything other than NPC dialogue there. Same for the Sunset Station, which is just outside in Northern Peridot Ward. Continuing the bad luck of no new content is the Heatherhill Station which brings us to the Jasper Ward Pokémon Center, and the Peony Station, which brings us to a random building in the Lapis Ward.
+Anyways, the Grandview Station is just the building we used to get to the desert previously, so there's nothing new there. The Ivyline Station is in the basement of the Onyx Trainer School, but we also aren't getting anything other than NPC dialogue there. Same for the Sunset Station, which is just outside in Northern Peridot Ward. Continuing the bad luck of no rewards is the Heatherhill Station which brings us to the Jasper Ward Pokémon Center, and the Peony Station, which brings us to a random building in the Lapis Ward.
 
 The Kingsbury Station though? It brings us to a random building in Beryl Ward, but an NPC inside will give us the *Weakness Policy*. Insert world's longest "yea boi" here. But the Shantyport Station in Coral Ward? That's where the real reward is at. Bring an NPC in here a Probopass for an in-game trade for his **Togepi** egg. Nice.
 
@@ -125,25 +125,13 @@ Via climbing through the building as we have before, hop down a ledge at the top
 
 This fight exploits the cave field to collapse in on your Pokémon - instantly KO'ing most Pokémon. The Sturdy + Custap Berry combo makes it common for each Pokémon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokémon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokémon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
 
-!battle(["Refugees", :AGGRON, 1], "Cave Field")
+!dbattle(["Refugees", :AGGRON, 1], ["Refugees", :AGGRON, 2], "Cave Field")
 
 Possibly benefitting from the collapses your team suffer in the first battle, this doubles team goes all in on a similar strategy, this time with Rock Head to prevent any of the Aggron from taking collapse damage. With their Seeds, they'll gain defense, so your physical moves won't easily take them down in time. Wide Guard is even better this time, as your second active Pokémon can then focus on knocking out the Aggron. You can also just point-blank sweep them with two Pokémon running Aura Sphere, Focus Blast, Earth Power, Surf, and the like, so that's an option too. Again Bulletproof and Rock Head trivialize this fight.
 
 Once you succeed in here, you can get the *Aggronite* and a hidden *Ultra Ball* and *Max Repel*. There are also encounters down here.
 
-**Underground Railnet (Aggron Area)**
-
-|Cave              |%  |
-|------------------|---|
-|Lairon            |24 |
-|Aron              |20 |
-|Klink             |20 |
-|Graveler          |10 |
-|Noivern           |10 |
-|Klang             |5  |
-|Mawile            |5  |
-|Aggron            |5  |
-|Klinklang         |1  |
+!enc(760, nil, nil, "Underground Railnet Aggron Nest")
 
 Return to the guy in the Grand Hall basement who gave us this quest to get the *Firium-Z*.
 
@@ -164,39 +152,7 @@ In front of the building, a person will offer you an in-game trade: your Carnivi
 
 The Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokémon now!
 
-**Neo Azurine Island (Renovated)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Yanma             |20 |Wooper            |20 |Wooper            |20 |
-|Gloom             |20 |Gloom             |20 |Gloom             |20 |
-|Quagsire          |10 |Quagsire          |10 |Quagsire          |10 |
-|Gastrodon         |10 |Gastrodon         |10 |Golbat            |10 |
-|Palpitoad         |10 |Palpitoad         |10 |Palpitoad         |10 |
-|Yanmega           |10 |Accelgor          |10 |Ariados           |10 |
-|**Pinsir**        |5  |**Pinsir**        |5  |**Pinsir**        |5  |
-|**Heracross**     |5  |**Heracross**     |5  |**Heracross**     |5  |
-|Foongus           |4  |Foongus           |4  |Foongus           |4  |
-|**Bulbasaur**     |4  |**Bulbasaur**     |4  |Drapion           |4  |
-|Vileplume         |1  |Vileplume         |1  |Vileplume         |1  |
-|Seismitoad        |1  |Seismitoad        |1  |Seismitoad        |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Shellos           |100|Carvanha          |60 |Kingler           |40 |
-|                  |   |Corphish          |20 |Staryu            |40 |
-|                  |   |Clauncher         |20 |Crawdaunt         |15 |
-|                  |   |                  |   |Clawitzer         |4  |
-|                  |   |                  |   |Sharpedo          |1  |
-
-|Water             |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Tentacool         |60 |Burmy             |30 |
-|Wingull           |30 |Exeggcute         |30 |
-|Tentacruel        |5  |Pineco            |25 |
-|Pelipper          |4  |Wormadam          |5  |
-|Mantine           |1  |Mothim            |5  |
-|                  |   |Forretress        |5  |
+!enc(586, nil, nil, "Azurine Island (Post-Renovation)")
 
 Time to finally comb the Azurine Island for items one last time. We're also going to encounter more Foongus and Amoonguss in disguise, make sure you defeat or run from them to get them out of the way for a quest here.
 
@@ -787,6 +743,8 @@ Down and right from here you can find the *Amulet Coin* and a hidden *Blue Shard
 
 Next, head down from here, then left as soon as you're able. Make your way to the top left corner of the area, where you'll now be able to pick up a *Max Elixir*.
 
+Now that Taka has left our party, we can grab the goodies that require Surf - notably the Dragonium-Z.
+
 That wraps up all we can get in the scrapyard, so fly back over to Train Town, exit out the bottom and enter the train car in the top right corner of the next area.
 
 Follow the path through a ton of train cars until you emerge... what?
@@ -857,7 +815,12 @@ Jump down the pit at the top and go left to return to Train Town.
 
 Pokémon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
 
-If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. Even if you have completed this part, fly over to the Nightclub anyways, where you can pet Jolteon for the quest.
+**Relationship Point Choices:**
+- Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
+
+If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. 
+
+Even if you have completed this part, fly over to the Nightclub anyways, where you can pet Jolteon for the quest.
 
 Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
 
@@ -872,16 +835,13 @@ If you'd like to complete another one, the choices and corresponding references 
 
 There is one more thing we can do before continuing: fly over to Calcenon City.
 
-**Relationship Point Choices:**
-- Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
-
 ## Torrent Badge
 
 With that out of the way, we can pretty much head right to the next gym. Fly to the Celestinine Cascade and enter the Fiore Mansion. You can pet Vaporeon for that quest, and talk to Julia for some A+ gym advice. Enter the gym room at the back.
 
 ### Reshiram Route: Fiore Gym
 
-If you're on the Zekrom Route, skip ahead to the next section.
+If you're on the Zekrom Route, [jump to the next section](#zekrom-route-fiore-gym).
 
 Unfortunately this gym's layout is super confusing, but I will guide us through. For now, dive down here and then make your way down at the three-way fork. Thankfully this way is very linear, so go straight. Once you have two waterfalls to choose from, go up the left to get a hidden *Heart Scale* then proceed.
 
@@ -927,7 +887,7 @@ Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge*
 
 ### Zekrom Route: Fiore Gym
 
-If you're on the Reshiram Route, skip ahead to the next section.
+If you're on the Reshiram Route, [jump to the next section](#episode-18-void-kissed).
 
 Unfortunately this gym's layout is super confusing, but I will guide us through. For now, dive down here and then make your way down at the three-way fork. Thankfully this way is very linear, so go straight. Once you have two waterfalls to choose from, go up the left to get a hidden *Heart Scale* then proceed.
 
