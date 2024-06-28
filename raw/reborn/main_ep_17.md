@@ -632,22 +632,7 @@ As in the other areas:
 **Relationship Point Choices:**
 - Talk to Taka while he's with you in the Sugiline Cave (+1 Taka)
 
-**Sugiline Cave**
-
-|Cave              |%  |
-|------------------|---|
-|Boldore           |20 |
-|Sandslash         |20 |
-|Durant            |10 |
-|Crustle           |10 |
-|Dugtrio           |10 |
-|**Heatmor**       |10 |
-|Marowak           |5  |
-|Drapion           |5  |
-|Maractus          |4  |
-|Scrafty           |4  |
-|**Gigalith**      |1  |
-|Cacturne          |1  |
+!enc(651)
 
 Essentially Sugiline Cave has two floors: 1F, and B1F. Falling down a sand vortex on 1F leads you to B1F, but falling down a vortex in B1F brings you all the way back to the beginning of the cave. For this reason, I recommend quick-saving like crazy in here so you don't waste time and repels getting back to where you are.
 
@@ -685,22 +670,11 @@ Finally, hop down the vortex straight up from the cave's entrance. Here, you can
 
 In the next room, grab a hidden *Genius Wing* and *Exp. Candy XL*, then proceed into the next room. You might wanna save here - all the Garchomp statues can come alive and fight you!
 
+!battle(["Statuary", :GARCHOMP, 0])
+
 While a fast Ice type can make this not really a problem, they can wear most teams down quickly. Technically you can actually get through this room without having a single battle with very careful movement, so figure out how to get through however you like.
 
-**Sugiline Ruin**
-
-|Cave              |%  |
-|------------------|---|
-|Boldore           |20 |
-|Sandslash         |20 |
-|Durant            |10 |
-|Crustle           |10 |
-|Dugtrio           |10 |
-|Heatmor           |10 |
-|Claydol           |9  |
-|Drapion           |5  |
-|Sigilyph          |5  |
-|Gigalith          |1  |
+!enc(661)
 
 Explore this room. You can find 2 hidden *Red Shards*, *Elemental Seed*, *Ultra Ball*, *Great Ball*, *Blast Powder*, *Purple Shard*, and *Iron*. At the top, you can get *TM71 Stone Edge*!
 
@@ -719,21 +693,7 @@ As in the other areas:
 **Relationship Point Choices:**
 - Talk to Taka while he's with you in the Teknite Cave/Ridge (+1 Taka)
 
-**Teknite Cave Dry Areas**
-
-|Cave              |%  |
-|------------------|---|
-|Boldore           |20 |
-|Aron              |20 |
-|Carbink           |10 |
-|Durant            |10 |
-|Lairon            |10 |
-|Dugtrio           |10 |
-|**Turtonator**    |9  |
-|Heatmor           |5  |
-|Sandslash         |4  |
-|Gigalith          |1  |
-|**Aggron**        |1  |
+!enc(638, nil, nil, "Teknite Cave 1F, 2F, 3F, 4F")
 
 In the first room, grab the hidden *Tamato Berry* then proceed to 2F. In the next, grab the *Mountain Field Readout*, *Dawn Stone*, and hidden *Magical Seed*.
 
@@ -743,78 +703,25 @@ Grab the hidden *Purple Shard* then transform the field to Crystal Cavern. Use t
 
 Switch to Crystal Cavern, then remove the obstacle. Grab the hidden *Iron* and *Potion*. Switch back to Cave and grab a hidden *Burn Heal* at the top and *Mental Herb* at the bottom. Enter the bottom left room to re-enter 3F, grab the hidden *Synthetic Seed*, and proceed to the room on the left.
 
-**Teknite Cave Wet Area (No Crystals)**
+!enc(645, nil, nil, "Teknite Cave 3-4F (No Crystals)")
 
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Remoraid          |60 |Qwilfish          |45 |
-|Goldeen           |30 |Seaking           |20 |Remoraid          |40 |
-|                  |   |Qwilfish          |20 |Octillery         |15 |
+!enc(649, ["Cave"], nil, "Teknite Cave 3-4F (Crystals)")
 
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Boldore           |20 |Finneon           |60 |
-|Aron              |20 |Goldeen           |30 |
-|Carbink           |10 |Lumineon          |6  |
-|Lairon            |10 |Seaking           |4  |
-|Dugtrio           |10 |                  |   |
-|Heatmor           |10 |                  |   |
-|Sandslash         |9  |                  |   |
-|Durant            |5  |                  |   |
-|Turtonator        |4  |                  |   |
-|Gigalith          |1  |                  |   |
-|Aggron            |1  |                  |   |
+Surf to a hidden *Repel* unless Taka is with you. Switch to Crystal Cavern Field and use the blue crystal at the bottom to cross the water. Grab a hidden *Magical Seed* and proceed. Grab the *Buginium-Z* and the hidden *Blue Shard*. Return to 4F, this time going through the top left exit.
 
-**Teknite Cave Wet Area (Crystals)**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Remoraid          |60 |Qwilfish          |45 |
-|Goldeen           |30 |Seaking           |20 |Remoraid          |40 |
-|                  |   |Qwilfish          |20 |Octillery         |15 |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Boldore           |20 |Finneon           |60 |
-|Aron              |20 |Goldeen           |30 |
-|Durant            |10 |Lumineon          |6  |
-|Lairon            |10 |Seaking           |4  |
-|Dugtrio           |10 |                  |   |
-|Heatmor           |10 |                  |   |
-|Sandslash         |9  |                  |   |
-|Turtonator        |9  |                  |   |
-|Gigalith          |1  |                  |   |
-|Aggron            |1  |                  |   |
-
-Surf to a hidden *Repel*. Switch to a Cave Field and use the blue crystal at the bottom to cross the water. Grab a hidden *Magical Seed* and proceed. Grab the *Buginium-Z* and the hidden *Blue Shard*. Return to 4F, this time going through the top left exit.
-
-**Teknite Ridge**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Durant            |20 |Durant            |20 |Durant            |20 |
-|Heatmor           |20 |Heatmor           |20 |Heatmor           |20 |
-|Turtonator        |15 |Turtonator        |15 |**Minior**        |19 |
-|Talonflame        |11 |Talonflame        |10 |Talonflame        |11 |
-|Pidgeot           |10 |Sandslash         |10 |Lycanroc          |10 |
-|Mandibuzz         |10 |Mandibuzz         |10 |Mandibuzz         |10 |
-|Lycanroc          |5  |Lycanroc          |5  |Turtonator        |5  |
-|Skarmory          |4  |**Braviary**      |4  |Skarmory          |4  |
-|**Braviary**      |4  |Skarmory          |4  |Gliscor           |1  |
-|Gliscor           |1  |Pidgeot           |1  |                  |   |
-|                  |   |Gliscor           |1  |                  |   |
+!enc(642)
 
 Pushing the strength boulders out of the way, hop across to the bottom left corner to get a hidden *Relic Copper*. Hopping to the top right, you can get a hidden *Health Wing*. Finally, hop to the top left to re-enter Teknite Cave. Grab a hidden *Paralyze Heal* and proceed to the next Teknite Ridge map.
 
 On this map, you can find a hidden *Green Shard*, *Roseli Berry*, *Potion*, *Escape Rope*, *Quick Ball* as well as 3 *Exp. Candy XL* and *TM75 Swords Dance*. Hop across some rocks to the left to get a hidden *Nugget* and the *Mawilite*!
 
-Return to the 4F map with branching paths, this time going up and right. On this map, you won't be able to fully explore as is, but by using Tailwind in a battle, you can now jump three horizontal spaces instead of two! Wild Pidgeot and Talonflame may use this move if you don't have it on you.
+Return to the 4F map with branching paths, this time going up and right. On this map, fully exploring will require using Tailwind in a battle. This will allow you to now jump three horizontal spaces instead of two! Wild Pidgeot and Talonflame may use this move if you don't have it on you.
 
 Hop your way to the next by the entrance to get the *Pidgeotite*. Hopping to the right from here you'll find the *Ice Memory*. Back nearby the entrance, hop slightly up and left to get a hidden *Hyper Potion* in a rock. Hop to the landmass to your right, and grab the hidden *Leppa Berry*. Hugging the top left as much as possible, hop across to the top-left corner of the map. Jump down just one ledge, then go right. Hop to a nearby rock for a hidden *Level Ball*, then grab the *PP Max* at the top.
 
 Hop back to the central landmass, this time climbing a bit higher and hopping to the right. It's a bit hard to spot, but to proceed, you'll need to hop at the top left corner of the next landmass up and around to the next landmass at the top. Hopping down one ledge, go right and hop up and around. Follow this path to the top of the hill to get a **Rowlet** egg!
 
-That's it for the Teknite Range, so feel free to fly out of here back to Lower Peridot if you want.
+That's it for the Teknite Range, so make your way back to the Tourmaline Desert.
 
 ## 1R253 Scrapyard
 
@@ -829,40 +736,27 @@ Time to proceed to the next story area! You've probably seen a large area surrou
 
 At the bottom right of this map but before you enter the Greater Tourmaline map, you will find a entrance to a train car. Go through this train car, and you'll emerge in the 1R253 Scrapyard!
 
-**1R253 Scrapyard**
+!enc(663)
 
-|Cave              |%  |Rock Smash        |%  |
-|------------------|---|------------------|---|
-|Steelix           |20 |Nosepass          |60 |
-|Lairon            |20 |Shuckle           |30 |
-|Krookodile        |10 |**Probopass**     |9  |
-|Excadrill         |10 |Torkoal           |1  |
-|Dugtrio           |10 |                  |   |
-|Skarmory          |10 |                  |   |
-|Marowak           |5  |                  |   |
-|Darmanitan        |5  |                  |   |
-|**Probopass**     |4  |                  |   |
-|Sandslash         |4  |                  |   |
-|Hippowdon         |1  |                  |   |
-|Aggron            |1  |                  |   |
+!img("scrapyard_main.png")
 
-Go straight up and grab the *Max Repel*. Towards the bottom of the area you'll see a green train with an open door - getting inside, we can use it to move forward, unless there is a Rock Smash boulder on the track. This puzzle is a pretty fun one in my opinion, so feel free to skip ahead until the next section if you'd like to try to solve it all yourself.
+Towards the bottom of the area you'll see a green train (1) with an open door - getting inside, we can use it to move forward, unless there is a Rock Smash boulder on the track. This puzzle is a pretty fun one in my opinion, so feel free to skip ahead until the next section if you'd like to try to solve it all yourself.
 
-So, use this train to go forward, pushing a different train onto some vertical tracks. From here, go straight up and into a train car. Follow the path through many different cars until you emerge once more. Smash the rock then backtrack through this train. Going down then left and back up, you can now use the train at the top to go right.
+So, use this train (1) to go forward, pushing a different train onto some vertical tracks. From here, go straight up and into a train car. Follow the path through many different cars until you emerge once more. Smash the rock in front of a train (2), then backtrack through the cars to where we entered.. Going down then left and back up, you can now use the train at the top (2) to go right.
 
-From here, you'll be... railroaded... into going to the right and down. Once you hop down a horizontal ledge look to the right to smash a rock, then continue down your path. Finally, you'll be spit out in the main area of the scrapyard. If you enter the train cars at the very bottom, you can return to the Greater Tourmaline Desert, so if you need to fly out of here to heal, that's where you'll return.
+From here, you'll be... railroaded... into going to the right and down. Once you hop down a horizontal ledge look to the right to smash a rock in front of a train (7), then continue down your path. Finally, you'll be spit out in the main area of the scrapyard. If you enter the train cars at the very bottom, you can return to the Greater Tourmaline Desert, so if you need to fly out of here to heal, that's where you'll return.
 
-Head up and enter the nearby train, then hop down the ledge to the left. Smash two rocks below and to the left. Continuing left and down, enter the train. It will only go a few tiles, so head right from here to enter the next train. On top of the hill, grab the *Max Repel* and *Steel Memory*, then jump down. Head left around this hill and smash the rock, then go back down below the hill, and enter the nearest green train to the right. This will drop you off near another green train, which you can now ride west.
+Head up and enter the nearby train (3), then hop down the ledge to the left. Smash two rocks below and to the left, in front of trains (4, 5). Continuing left and down, enter the middle train (4). On top of the hill, grab the *Max Repel* and *Steel Memory*, then jump down. Head left around this hill and smash the rock in front of a train (6), then go back down below the hill, and enter the nearest green train to the right (5). This will drop you off near another green train (6), which you can now ride west.
 
-From here, go down as far as you can, then head right. We are going to exit this area via the train cars at the bottom. Back on the outside of the scrapyard, head to the right, and you'll see another traincar entrance to the scrapyard. Use this entrance to re-enter the scrapyard.
+From here, go down as far as you can, then head right. We are going to exit this area via the train cars at the bottom. Back on the outside of the scrapyard (see the bottom of the above map), head to the right, and you'll see another traincar entrance to the scrapyard. Use this entrance to re-enter the scrapyard.
 
-This path will take you to a train, which you can now ride all the way left. Once it bumps a train out of the way, go down from here and enter the vertical train to go up to enter a new map!
+This path will take you to a train (7), which you can now ride all the way left. Once it bumps a train out of the way, go down from here and enter the vertical train (8) to go up to enter a new map!
 
-Grab the hidden *Dire Hit* and *Synthetic Seed* on the map. Enter the horizontal train in the bottom left, then climb the hill. Hop down the ledges to climb down the hill. Follow the new path far to the southwest to get 3 *Exp. Candy XL*, then jump in the nearby train and ride it left. Head back to the top right and take the vertical train for a ride downward!
+Grab the hidden *Dire Hit* and *Synthetic Seed* on the map. Enter the horizontal train in the bottom left (9), then climb the hill. Hop down the ledges to climb down the hill. Follow the new path (in red) far to the southwest to get 3 *Exp. Candy XL*, then jump in the nearby train (10) and ride it left. Head back to the top right and take the vertical train (11) for a ride downward!
 
 Grab the hidden *Big Mushroom* and enter the nearby train car. Follow the path through these cars until you emerge once more into the outside air.
 
-This area is sometimes referred to as Train Town and thankfully you'll be able to fly here in the future. Taka leaves your party here as well.
+This area, sometimes referred to as Train Town, is a flying destination thankfully, so feel free to go do preps. If he has been with you so far, Taka leaves your party here as well.
 
 Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poké Ball*, *Purple Shard*, and *PokéSnax*.
 
@@ -879,7 +773,7 @@ Depending on the time of day, Bouffalant Bill will be either outside or in a tra
 
 In a train car at the top of the area you can access a PC and meet Stephoscope. Talking to her twice after visiting Teknite Ridge, you'll be given the *Houndoominite*. Excellent.
 
-More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokémon and then stole it from us. We've watched our Pokémon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokémon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the gold price for the Pokémon sixteen episodes ago. But now it's time to pay the iron price by defeating Corin Rouge once and for all.
+More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokémon and then stole it from us. We've watched our Pokémon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokémon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the *gold* price for the Pokémon sixteen episodes ago. But now it's time for Corin Rouge to pay the *iron* price by being defeated once and for all.
 
 !battle(["Corin-Rouge", :CORINROUGE, 0], "Desert Field")
 
@@ -901,26 +795,21 @@ Follow the path through a ton of train cars until you emerge... what?
 
 You'll find yourself in a new location entirely. Not what you expected, huh?
 
-**Once Upon a Somewhere / Once Upon a Waste of Time**
-
-|Land              |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|**Lilligant**     |20 |Ribombee          |55 |
-|**Aromatisse**    |20 |**Ferroseed**     |20 |
-|Illumise          |10 |**Musharna**      |10 |
-|**Cinccino**      |10 |Altaria           |10 |
-|Volbeat           |10 |**Ferrothorn**    |5  |
-|Rapidash          |10 |
-|Audino            |5  |
-|Druddigon         |5  |
-|**Escavalier**    |4  |
-|**Chansey**       |4  |
-|Altaria           |1  |
-|**Florges**       |1  |
+!enc(697)
 
 It seems like this first map is an infinite maze - it essentially is. Try biking in random directions until you see a set of stairs ascending upwards, then take those. You'll see them eventually, I'm sure.
 
 On the next map, you can find a hidden *Green Shard* and *Sitrus Berry*. Proceed into the castle. Here, you'll have to fight some Knights as you proceed.
+
+!battle(["Xander", :KNIGHT, 0], "Fairy Tale Field")
+
+!dbattle(["Asmus", :KNIGHT, 0], ["Isadan", :KNIGHT, 0], "Fairy Tale Field")
+
+!battle(["Darma", :KNIGHT, 0], "Fairy Tale Field")
+
+!battle(["Lancelot", :KNIGHT, 0], "Fairy Tale Field")
+
+!battle(["Rylin", :KNIGHT, 0], "Fairy Tale Field")
 
 You'll wake up in a tower. Read the placards at each floor as you go up or down the stairs until you see a pile of books leading out of a window.
 
@@ -930,7 +819,7 @@ On the exterior of the tower, climb the vines. On the left at the top you'll see
 - Tell Titania you trust her, while you have >= 0 points with her (+1 Titania)
 - Tell Titania you trust her, while you have < 0 points with her (-1 Titania)
 - Tell Titania you don't trust her, while you have >= 0 points with her (-1 Titania)
-- Tell Titania you don't trust her, while you have < 0 points with her (Titania's total becomes *f(c)*), where *f(c) = min(0, c + 4)* and *c* is the current number of points you have with her.
+- Tell Titania you don't trust her, while you have < 0 points with her (Titania's total becomes *min(0, c + 4)*), where *c* is the current number of points you have with her.
 
 Complicated, but anyways, she'll give you the *Sapphire Bracelets*. Proceed right.
 
@@ -956,7 +845,7 @@ Before starting the battle, you can jump into the blue hole at the top and go le
 
 !battle(["Titania", :TITANIA1, 0], "Fairy Tale Field")
 
-The Fairy Tale Field boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary! (just know that in previous versions the seed would also boost Attack for free...)
+The Fairy Tale Field boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary!
 
 There are a good number of strategies that remain for you to use, thankfully. A Pokémon with Protect, Swords Dance, and a move like Earthquake or Brick Break can probably sweep through most of the team with a bit of speed control support as long as they can live a priority attack or two. There are a ton of abilities and moves that allow you to gain Defense, so if you're able to deal with Klefki and Empoleon there may be a working strategy involving going all in on Defense boosts to neutralize her attack boosts and such. There are also some boosts to attacks and abilities: Mystical Fire / Magician and Sparkling Aria / Oceanic Operetta do get boosted here if you want to try to sweep with your starter Delphox or Primarina! Queenly Majesty gives a boost to damage, combine this with its natural ability to cancel out Bullet Punch and Shadow Sneak, and Tsareena may end up being very helpful here. The Magical Seed giving a free turn can also be used by you, with the added bonus of you being able to hard switch in to a contact move to force a stat lower on one of her party members if need be. If you're really stuck, you can literally consider going 6 Magical Seeds held to grant yourself 6 free turns - this is what I did once upon a time to win this fight with a Fairy monotype.
 
