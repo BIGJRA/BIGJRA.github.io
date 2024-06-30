@@ -492,13 +492,13 @@ In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky
 
 We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokémon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
 
-Fly over to the Agate Circus and head into the Big Top.
+Head to the left side of Agate City and into the Agate Circus.
 
 Relationship Point Choices:
 - (Refuse Blake Route Only) Talk to Ciel on the top left side of the circus after the raid (+1 Ciel, +1 Ace)
 - (Give Ruby Ring Route Only) Talk to Samson in the Big Top after the raid (+1 Samson)
 
-Starting at the Pokémon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
+Back in Agate City, starting at the Pokémon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
 
 Back at the Pokémon Center, this time go east. Talk to the lady in the house here to begin another quest, which we'll complete in a bit.
 
@@ -619,7 +619,6 @@ In the next room, you can get the *Manectite* as well as *Department Store Stick
 
 !shop("Department Store 11F (Right)", ["Magmarizer", "Electirizer", "Protector", "Reaper Cloth", "Dubious Disc", "King's Rock", "Dragon Scale", "Razor Fang", "Razor Claw", "Metal Coat", "Deep Sea Tooth", "Deep Sea Scale"])
 
-
 A lot of high-tier held items and evolution items, all now available in bulk.
 
 ## Murmina's Quest
@@ -641,8 +640,6 @@ Follow the path from here and grab the *Charizardite X* if you didn't get it ear
 ## Bee's Pokédex Completion Quest (Part 1)
 
 Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokémon we've added to our Pokédex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokémon. Your mileage will certainly vary depending on what evolutions you've done, which Pokémon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokémon at this time. So, you'll get the following rewards:
-
-**Bee Pokédex Rewards (Part 1)**
 
 |Pokémon Caught |Reward         |
 |---------------|---------------|
@@ -853,8 +850,6 @@ Note that the Alolan forms don't count towards the overall completion of your Po
 
 Fly back over to Agate City once you've gotten all 731 Pokémon so far. Talk to Bee once more.
 
-**Bee Pokédex Rewards (Part 2)**
-
 |Pokémon Caught |Reward         |
 |---------------|---------------|
 |600+           |*Groundium-Z*  |
@@ -869,14 +864,26 @@ Use the move relearner or tutor to teach it Dragon Pulse and give it a level, an
 
 Well, not much else to do for now than to finally take on the seventeenth gym leader.
 
-Enter the Agate City gym and defeat the three trainers on the right side. Talk to the guy in the top left corner for a guide to the gym. The guy here will play a musical riff that we are supposed to change the blocks on the right to match musically.
+Enter the Agate City gym and defeat the three trainers on the right side. 
 
-If you talk to the guy again and say "Help", he'll battle us, then tell us what to play. Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
+!battle(["Alistair", :GUITARIST, 0], "Rocky Field")
+
+!battle(["Xavier", :GUITARIST, 0], "Rocky Field")
+
+!battle(["Noivy", :GUITARIST, 0], "Rocky Field")
+
+Talk to the guy in the top left corner for a guide to the gym. The guy here will play a musical riff that we are supposed to change the blocks on the right to match musically.
+
+If you talk to the guy again and say "Help", he'll battle us, then tell us what to play.
+
+!battle(["Isaac", :GUITARIST, 0], "Rocky Field")
+
+Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
 
 !battle(["Hardy", :HARDY, 0], "Rocky Field")
 
-This might be the "simplest" gym fight yet. Boosted Rock Slide from two Pokémon at once will probably drive you mad. It also adds extra damage when it flinches you. His team minus Gigalith are all fast and hard-hitting Rock types that all have this move, many above the level cap. That's really all there is to say about him: you'll be hit hard, fast, and likely flinch a lot.
+This might be the "simplest" gym fight yet: Boosted Rock Slide spam! On Rocky Field, it adds extra damage when it flinches you. His team minus Gigalith are all fast and hard-hitting Rock types that all have this move, many above the level cap. That's really all there is to say about him: you'll be hit hard, fast, and likely flinch a lot.
 
-If you are able to dispense with Gigalith, a slow team can steamroll his frail Pokémon under Trick Room. You can also take advantage of the move Wide Guard to prevent Rock Slide spam. There are tons of other things you can do, and if you've made it here I think you can find a way through Hardy.
+If you are able to dispense with Gigalith, a slow team can steamroll his frail Pokémon under Trick Room. You can also take advantage of the move Wide Guard to prevent Rock Slide spam. Your own Rock Slide spam will also be reasonably effective here as his team doesn't resist Rock.
 
 When you win, you'll get the Geode Badge, which boosts our level cap up to 95. You'll also get *TM80 Rock Slide*. Sweet.
