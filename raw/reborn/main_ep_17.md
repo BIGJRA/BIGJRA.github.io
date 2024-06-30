@@ -46,6 +46,8 @@ Outside, talk to the girl up and to the right of the SOLICE office and agree to 
 
 Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're ready.
 
+!partner(["Sandy", :SANDY, 0])
+
 !dbattle(["Raph", :HARDHAT, 0], ["Manwe", :HARDHAT, 0], "Forest Field")
 
 Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokémon will be helpful here.

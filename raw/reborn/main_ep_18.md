@@ -294,11 +294,25 @@ Defeat the Team Meteor Grunt, and talk to the monitor in the corner to open the 
 
 Exit this room and make your way left. Use Glaceon's ability on the lava in both places, then make your way to the left. Glaceon can also create paths across sand, so do so here. Make your way to the top left side of the room and attempt to enter the small room towards the top. Defeat the grunt.
 
-He'll lock you out, so make your way back towards the right. A path will be cleared for you, so break the nearby glass and defeat another grunt inside. Talk to the monitor in the corner to open the door, then talk to Espeon's cage. We can't get it out of here quite yet, however.
+!battle(["Bruno", :MeteorAceM, 1], "Factory Field")
 
-Exit this room at the bottom. You'll notice another glass window to the right, which you can again smash your way into. Defeat the grunt and pick up the *Timid Mint*, 3 *Exp. Candy XL*, and *PP All*. Exit this room.
+He'll lock you out, so make your way back towards the right. A path will be cleared for you, so break the nearby glass and defeat another grunt inside.
 
-There's nowhere else to go but up the ladder to the right. Unfortunately Glaceon can't follow you up the ladder, so keep that in mind. Anyways, follow this linear path into another room, defeat the grunt, and grab the *Cage Key*. Head all the way back, join back up with Glaceon, and free Espeon!
+!battle(["Ray", :MeteorAceM, 1], "Factory Field")
+
+Talk to the monitor in the corner to open the door, then talk to Espeon's cage. We can't get it out of here quite yet, however.
+
+Exit this room at the bottom. You'll notice another glass window to the right, which you can again smash your way into. 
+
+!battle(["Sanchez", :MeteorAceM, 1], "Factory Field")
+
+Defeat the grunt and pick up the *Timid Mint*, 3 *Exp. Candy XL*, and *PP All*. Exit this room.
+
+There's nowhere else to go but up the ladder to the right. Unfortunately Glaceon can't follow you up the ladder, so keep that in mind. Anyways, follow this linear path into another room and defeat the Meteor.
+
+!battle(["Devin", :MeteorAceM, 1], "Factory Field")
+
+Grab the *Cage Key*. Head all the way back, join back up with Glaceon, and free Espeon!
 
 Espeon can use Future Sight, which shows a blurry image of our next objectives. Helpful if you get stuck... or you can just read on. Anyways, you can also choose to pet Espeon for the quest, and for points.
 
@@ -308,21 +322,31 @@ Espeon can use Future Sight, which shows a blurry image of our next objectives. 
 
 You'll notice that Espeon and Glaceon won't both be able to follow you at the same time, so you'll need to position the one you don't wanna take with you in the right place. You'll see what I mean now: switch to Glaceon outside, then head to the left of the nearby pallet of glass. Talk to Glaceon, and tell it to stay where it is. Head back to get Espeon, who can use telekinesis to move glass. Back on the side where Glaceon is, move this glass pallet up by interacting with it, then pressing up.
 
-From here, go right across the sand, then up at the first lava bridge. Move the glass at the top to the left, then smash your way into the nearby room via the window. Defeat the two scientists here, then talk to the monitor at the top to unlock the elevator.
+From here, go right across the sand, then up at the first lava bridge. Move the glass at the top to the left, then smash your way into the nearby room via the window. 
+
+!dbattle(["Deryl", :TechNerd, 2], ["Naoman", :TechNerd, 2], "Factory Field")
+
+Defeat the two scientists here, then talk to the monitor at the top to unlock the elevator.
 
 Back outside, move the right glass pallet down to save a bit of time later on. Make your way to the bottom right corner of this room and move the glass up to get the *Sablenite*. Move this pallet back down by going around.
 
 Heading left, you'll see three pallets of glass close to each other. Before we move these, you're going to want to actually swap Espeon for Glaceon. Drop off Glaceon on the right side of these three pallets. Go pickup Espeon once more, and move the pallets respectively up, left, and down to open a path.
 
-From here, swap back to Glaceon, then drop it off near the ladder in the bottom right. Head back up to grab Espeon, then make your way back to the ladder where Glaceon is. Move the nearby glass up, then enter the door along this path. Past a grunt is 2 *EV Boosters*.
+From here, swap back to Glaceon, then drop it off near the ladder in the bottom right. Head back up to grab Espeon, then make your way back to the ladder where Glaceon is. Move the nearby glass up, then enter the door to the right. 
 
-Anyways, head outside and go left. Move the bottom-most of the three glass pallets back up so we can pass along the bottom. Switch to Glaceon and make a path over the ice in the bottom left. Switch back to Espeon.
+!battle(["Arcturus", :NWCultist, 1], "Factory Field")
+
+Grab the 2 *EV Boosters* then return to the main room and go left. Move the bottom-most of the three glass pallets back up so we can pass along the bottom. Switch to Glaceon and make a path over the ice in the bottom left. Switch back to Espeon.
 
 Enter the bottom left room where we found the key. Move each of the five glass pallets left to reach *TM29 Psychic*! Exit this room. Cross the lava and move the nearby glass up. Go right from here, and move a glass pallet to the right to get the *Gyaradosite*!
 
 Make your way to Glaceon, and reverse the steps we took to get both Pokémon to the bottom so that both Pokémon are now back towards the top. After clearing a path to the elevator in the top left corner, switch to Glaceon and head up to B1F.
 
-From here, follow the path to the left, bridging gaps with ice. Enter the next room. Defeat the grunt to pick up 3 *Exp. Candy XL* and an *EV Tuner*. Back at the elevator, go straight to the right and use Glaceon to bridge a gap towards *PULSE Readout 8*. Up and left from here, you'll find a room containing glass, so we'll come back later. Continue bridging gaps and enter the room on the right.
+From here, follow the path to the left, bridging gaps with ice. Enter the next room. 
+
+!battle(["Kaiden", :NWCultist, 1], "Factory Field")
+
+Defeat the grunt to pick up 3 *Exp. Candy XL* and an *EV Tuner*. Back at the elevator, go straight to the right and use Glaceon to bridge a gap towards *PULSE Readout 8*. Up and left from here, you'll find a room containing glass, so we'll come back later. Continue bridging gaps and enter the room on the right.
 
 Back in Ametrine Mountain, we made a choice whether or not to give Blake the Ruby Ring. If we gave him the ring, we will have the following fight:
 
@@ -348,7 +372,11 @@ Position Glaceon exactly in this spot:
 
 !img("glass_glaceon.jpg")
 
-Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way so you can switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
+Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way, then deposit Espeon up and to the right in exactly this spot:
+
+!img("glass_espeon.jpg")
+
+Switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
 
 Undo the moves we did to reach the top right corner. Head to the top left corner and use Espeon to finally clear a path to the door. This is it for exploration. Prepare your team as best you can for the shenanigans to come, and enter the door at the top!
 
@@ -356,7 +384,7 @@ Undo the moves we did to reach the top right corner. Head to the top left corner
 
 Now begins one of the most glorious parts of Reborn. I'll let each of the fights speak for itself.
 
-!dbattle( ["Cain", :Cain, 6], ["Shelly", :SHELLY, 3], "Factory Field")
+!dbattle(["Cain", :Cain, 6], ["Shelly", :SHELLY, 3], "Factory Field")
 
 This battle is our first 12v6! On average each of our Pokémon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokémon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
 
@@ -422,7 +450,17 @@ A note:
 **Relationship Point Choices:**
 - Reshiram Route only: Talk to Titania while doing the Agate raid (-1 Titania)
 
-Defeat the grunts as you progress upwards. Past the Light Shard is a mini-gauntlet.
+Defeat the grunts as you progress upwards. 
+
+!battle(["Ricardo", :MeteorAceM, 1])
+
+!battle(["Christopher", :MeteorAceM, 0])
+
+!battle(["Antoine", :MeteorAceF, 1])
+
+!battle(["Ezra", :NWCultist, 1])
+
+Past the Light Shard is a mini-gauntlet.
 
 !dbattle(["Howaya", :NWOrderly, 1], ["Christina", :NWOrderlyF, 0])
 
@@ -434,40 +472,17 @@ After all this time, we finally get to fight Meteor's Leader Solaris, one-on-one
 
 At this point you also have a lot of mega Pokémon and Z-moves to your name. In particular, I find that the Icium-Z can often ensure a kill on Garchomp if you need. It's worth noting that he doesn't have a single special attack on his team... so you can focus your team entirely on physical defense. Some fast (or slow under Trick Room) special attackers running Fire, Ice, and Electric moves will be able to get 5 out of 6 of his party members super-effectively... leaving Tyranitar an excellent candidate for a Close Combat or something. I believe in your ability to defeat this guy!
 
-Make your way to the right. You'll reach a dead end, so surf up to the left of a tree to continue on.
+Make your way to the right.
 
-**Agate City**
+!battle(["Ama", :MeteorAceM, 0])
 
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
-|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
-|                  |   |Basculin          |20 |Basculin          |15 |
-|                  |   |                  |   |Slowpoke          |5  |
+You'll reach a dead end, so surf up to the left of a tree to continue on.
 
-|Water             |%  |
-|------------------|---|
-|Wailmer           |60 |
-|Lumineon          |30 |
-|Wishiwashi        |6  |
-|Seaking           |4  |
+!enc(763)
 
 Climb the first waterfall and grab the hidden *Stardust*. After climbing the second waterfall, head to the left. You'll find a hidden *Quick Ball*. Go down the waterfall and dive down.
 
-**Agate City Underwater**
-
-|Land              |%  |
-|------------------|---|
-|Corphish          |30 |
-|Clamperl          |20 |
-|Chinchou          |10 |
-|Seadra            |10 |
-|Lanturn           |10 |
-|**Huntail**       |5  |
-|**Gorebyss**      |5  |
-|Crawdaunt         |5  |
-|Mantine           |4  |
-|Kingdra           |1  |
+!enc(741, nil, nil, "Agate City Underwater")
 
 You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poké Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
 

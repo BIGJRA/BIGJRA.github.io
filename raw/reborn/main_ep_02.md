@@ -45,7 +45,7 @@ Most of these are really not too worth it right now compared to the regular vari
 
 Outside, head right and up.
 
-!battle( ["Franklin", :StreetRat, 0])
+!battle(["Franklin", :StreetRat, 0])
 
 Enter the Pokémon Center, and talk to both the girl on the left and the mother on the right to activate some quests.
 
