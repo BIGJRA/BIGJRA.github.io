@@ -148,8 +148,7 @@ class TrainerGetter
             mon[:moves].push(movelist[i])
           end
         end
-      
-        moves_str = "- " + mon[:moves].compact.map { |move| @moveHash[move][:name] }.join("\n- ")
+        moves_str = "- " + mon[:moves].compact.map { |move| @moveHash[move][:name] + hp_str(@moveHash[move][:name], mon[:hptype])}.join("\n- ")
         content_row.add_child(doc.create_element('td', moves_str))
     
         ev_str = mon[:ev] ? "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }

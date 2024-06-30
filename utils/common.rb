@@ -126,6 +126,12 @@ def get_map_names(game)
   ret
 end
 
+def hp_str(move, hptype)
+  return "" unless hptype
+  return "" unless move == "Hidden Power"
+  return " (#{hptype.to_s.capitalize!})"
+end
+
 class EncounterMapWrapper
   def initialize(game)
     @data = {}
@@ -164,7 +170,6 @@ class EncounterMapWrapper
     @data[mon_name].each { |num| result[num] = form_number }
     result
   end
-  
   
   private
 
