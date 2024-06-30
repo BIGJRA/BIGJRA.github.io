@@ -374,7 +374,7 @@ Position Glaceon exactly in this spot:
 
 Next, pick up Espeon and stand directly under Glaceon. Move the two glass pallets out of the way, then deposit Espeon up and to the right in exactly this spot:
 
-!img("glass_espeon.jpg")
+!img("glass_espeon.png")
 
 Switch to Glaceon and make a bridge across the lava to the north. Switch back to Espeon and head up, moving two more pallets out of the way and revealing the Meteor Card scanner. Use it to open the door.
 
@@ -461,6 +461,8 @@ Defeat the grunts as you progress upwards.
 !battle(["Ezra", :NWCultist, 1])
 
 Past the Light Shard is a mini-gauntlet.
+
+!partner(["Hardy", :HARDY, 0])
 
 !dbattle(["Howaya", :NWOrderly, 1], ["Christina", :NWOrderlyF, 0])
 
@@ -880,7 +882,7 @@ If you talk to the guy again and say "Help", he'll battle us, then tell us what 
 
 Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the rocks once you do so, and enter the newly opened room.
 
-!battle(["Hardy", :HARDY, 0], "Rocky Field")
+!battle(["Hardy", :HARDY, 1], "Rocky Field")
 
 This might be the "simplest" gym fight yet: Boosted Rock Slide spam! On Rocky Field, it adds extra damage when it flinches you. His team minus Gigalith are all fast and hard-hitting Rock types that all have this move, many above the level cap. That's really all there is to say about him: you'll be hit hard, fast, and likely flinch a lot.
 

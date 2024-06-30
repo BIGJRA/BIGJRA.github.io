@@ -1,31 +1,34 @@
-["Mr. Meow Mix", :TEST, 0]
-["Tahm the Tench Tengine", :TEST, 0]
-["ZEL", :ZEL, 1]
-["Florinia", :FLORINIA, 2]
-["Taka", :Taka, 2]
-["Cal", :REBORN, 1]
+["Mr. Meow Mix", :TEST, 0] - Test only
+["Tahm the Tench Tengine", :TEST, 0] - Test only
+["ZEL", :ZEL, 1] - No longer in game (this is the Rhodochrine Doubles w Taka fight, replaced by Ace)
+["Taka", :Taka, 2] - No longer in game (this is the Rhodochrine Doubles w ZEL fight, replaced by Ace)
+["Cal", :REBORN, 1] - Seems unused (a slightly weaker version of his Ametrine Arc team?)
+["Titania", :TITANIA2, 0] - same exact team as ["Titania", :TITANIA1, 0], just different dialogue
+["Guardians", :HAXORUS, 0] - No longer in game (fight event page in game, but overridden by another)
+["Daishou", :SAMUROTT, 0] - No longer in game (was this previously the coral ward lighthouse fight?)
+["Lyla", :NWCultistF, 1] - Seems unbattleable. See s(990)
+["Linda", :NatureGirl, 0] - Inaccessible - on map 18 in the corner for some reason
+["Marty", :FISHERMAN, 0] - Inaccessible - on map 18 in the corner for some reason
+["Hunny", :NatureGirl, 0] - Inaccessible - on map 15 in the corner for some reason
+
+["Clone", :ALTVERO, 0] - Placeholder teams for the clone fights
+["Clone", :ALTALICE, 0]
+["Clone", :ALTKURO, 0]
+["Clone", :ALTLUCIA, 0]
+["Clone", :ALTARI, 0]
+["Clone", :ALTDECIBEL, 0]
+
 ["Cal", :REBORN, 2]
-["Alistasia", :RINGMASTER, 2]
-["Titania", :TITANIA2, 0]
-["Hardy", :HARDY, 1]
+["Florinia", :FLORINIA, 2]
+["Alistasia", :RINGMASTER, 0]
 ["Heather", :HEATHER, 2]
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
-["Guardians", :HAXORUS, 0]
-["Daishou", :SAMUROTT, 0]
-["Naoman", :TechNerd, 3]
-["Lyla", :NWCultistF, 1]
-["Arcturus", :NWCultist, 3]
-["Angela", :NWCultistF, 2]
-["Linda", :NatureGirl, 0]
-["Marty", :FISHERMAN, 0]
-["Hunny", :NatureGirl, 0]
 ["Dan", :KNIGHT, 0]
 ["Frey", :KNIGHT, 0]
 ["Edgard", :KNIGHT, 0]
 ["Kalezis", :KNIGHT, 0]
-["Priscilla", :BEAUTY, 0]
 ["Trevor", :AceTrainerM, 0]
 ["Tac", :PkMnRANGER_Male, 0]
 ["Florinia", :FLORINIA, 4]
@@ -48,12 +51,6 @@
 ["Taka", :ZTAKA2, 0]
 ["Zero", :ZEL3, 0]
 ["Naganadel", :NAGANADEL, 1]
-["Clone", :ALTVERO, 0]
-["Clone", :ALTALICE, 0]
-["Clone", :ALTKURO, 0]
-["Clone", :ALTLUCIA, 0]
-["Clone", :ALTARI, 0]
-["Clone", :ALTDECIBEL, 0]
 ["Kanaya", :SPIRITF, 0]
 ["Smeargletail", :SMEARGLE, 0]
 ["MDE", :SPIRITM, 0]

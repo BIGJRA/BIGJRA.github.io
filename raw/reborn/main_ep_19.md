@@ -46,7 +46,7 @@ Grab the hidden *Health Wing*, *Potion*, and *Nugget* here. Prepare yourself for
 
 !battle(["Kenan", :MeteorAceM, 1])
 
-This battle hopefully makes it apparent thanks to universal PULSE 2 how threatening the endgame will be. Even though Kenan is just a generic Meteor Ace, expect to see fights like this going forward.
+This battle hopefully makes it apparent how threatening the endgame full of PULSE2 will be. Even though Kenan is just a generic Meteor Ace, expect to see fights like this going forward.
 
 Grab the hidden *Purple Shard* and continue.
 
@@ -73,7 +73,7 @@ Head outside and go left. Grab the hidden *Full Heal*, and *Max Potion*. Fight t
 
 !battle(["Audrey", :MeteorAceF, 1])
 
-Grab the hidden *Blue Shard* then go up. Grab the hidden *Burn Heal*. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
+Grab the hidden *Blue Shard* and *Burn Heal* then go up. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
 
 **Relationship Point Choices:**
 - On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
@@ -85,9 +85,14 @@ On Reshiram Route Amaria will also join us as a partner for this fight.
 
 !dbattle(["Arcturus", :NWCultist, 2], ["Angela", :NWCultistF, 1])
 
+On Zekrom Route, you will get this (slightly different) doubles fight instead:
+
+!dbattle(["Arcturus", :NWCultist, 3], ["Angela", :NWCultistF, 2])
+
+
 After you defeat them, grab the hidden *Revive* and *Ice Heal*. Enter the nearby building. Follow the path inside.
 
-!battle(["Deryl", :TechNerd, 3], ["Naoman", :TechNerd, 3])
+!dbattle(["Deryl", :TechNerd, 3], ["Naoman", :TechNerd, 3])
 
 Head up the ladder prepared for a tough battle.
 
@@ -140,6 +145,8 @@ There is also a person up here who will max out a Pokémon's friendship for $500
 In exchange for a Fresh Water, Soda Pop, and Lemonade, a child here will give you *TM25 Thunder*, *TM14 Blizzard*, and *TM38 Fire Blast*. Sweet.
 
 In the bottom right side of the penthouse, there's a poor employee forced to battle us with a team of six Blissey, and you'll also get 20 *Exp. Candy XL* for each victory. You'll never need to grind anywhere else!
+
+!battle(["Priscilla", :BEAUTY, 0])
 
 ## LCCC Second Visit
 

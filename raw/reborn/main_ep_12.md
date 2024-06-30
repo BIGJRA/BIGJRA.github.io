@@ -311,7 +311,7 @@ Back downstairs, you'll be given the *Battle Pass - Strike*. With that out of th
 
 Enter the Big Top for a fight.
 
-!battle(["Alistasia", :RINGMASTER, 0], "Big Top Arena")
+!battle(["Alistasia", :RINGMASTER, 2], "Big Top Arena")
 
 The ringmaster has a team of circus-themed Pokémon that like to use the field effect well! You'll have to watch out for her boosted sound moves like Snarl and Sparkling Aria, as well as Blaziken getting +3 with Swords Dance on top of Speed Boost. If you can manage to not get swept by Blaziken, with some coverage you can probably find a way through this one.
 
