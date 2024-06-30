@@ -177,203 +177,47 @@ That wraps up all the optional rocks that we can climb, so fly on back to Calcen
 
 Note that there are a lot of different encounter tables for the various maps of Route 4.
 
-**Upper Route 4 (Forest Field Maps, No Water)**
+!enc(713, nil, nil, "Route 4 (Forest Maps)")
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Abomasnow         |10 |**Whimsicott**    |10 |Abomasnow         |10 |
-|**Whimsicott**    |10 |Abomasnow         |10 |Noctowl           |10 |
-|**Sawsbuck**      |10 |**Sawsbuck**      |10 |Hypno             |10 |
-|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
-|**Wigglytuff**    |5  |**Wigglytuff**    |5  |Zebstrika         |5  |
-|Hypno             |5  |Hypno             |5  |Chansey           |5  |
-|Zangoose          |5  |Zebstrika         |4  |**Bisharp**       |4  |
-|**Shroomish**     |4  |**Shroomish**     |4  |**Shroomish**     |4  |
-|Zebstrika         |1  |**Bisharp**       |1  |**Trevenant**     |1  |
-|                  |   |Absol             |1  |Absol             |1  |
-
-|Headbutt          |%  |
-|------------------|---|
-|Swablu            |30 |
-|Pineco            |25 |
-|Aipom             |20 |
-|Forretress        |14 |
-|Altaria           |6  |
-|Ambipom           |5  |
+!battle(["Rhett", :HIKER, 0], "Forest Field")
 
 On the map you can get a hidden *Red Shard*, *Guard Spec*, *Heart Scale*, and *Green Shard*. Climb the rock to the next map.
 
-Grab a hidden *Cotton Candy* here then use the left of the two rock climbs to go up. Grab a hidden *Telluric Seed* and proceed up the next slope. Here, you can get a hidden *Max Repel*, *Red Shard*, and *Escape Rope* on this level. Towards the bottom left side, there is a climbing path that goes down and left. Climb down it.
+Grab a hidden *Cotton Candy* here then use the left of the two rock climbs to go up. Grab a hidden *Telluric Seed* and proceed up the next slope.
+
+!battle(["Lena", :RANGERF, 0], "Forest Field")
+
+!battle(["Autumn", :AceTrainerF, 0], "Forest Field")
+
+You can get a hidden *Max Repel*, *Red Shard*, and *Escape Rope* on this level. Towards the bottom left side, there is a climbing path that goes down and left. Climb down it.
 
 This brings us back to the first map we were on, at a different point. Grab a hidden *Synthetic Seed* then climb up the rocks on the left. Grab the *Full Restore* and the hidden *Green Shard*.
 
 Make your way back to the previous map and go up the slope towards the top. On this map, a chill will settle in the air.
 
-**Upper Route 4 (Mountain Field Maps, No Water)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Whimsicott        |10 |Whimsicott        |10 |Zebstrika         |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Noctowl           |10 |
-|Chansey           |10 |Chansey           |10 |Hypno             |10 |
-|Wigglytuff        |10 |Wigglytuff        |10 |Chimecho          |10 |
-|Zangoose          |6  |Hypno             |5  |Chansey           |5  |
-|Hypno             |5  |Zebstrika         |5  |Bisharp           |5  |
-|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
-|**Scyther**       |4  |**Scyther**       |4  |**Scyther**       |4  |
-|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
-|                  |   |Absol             |1  |Absol             |1  |
+!enc(712, nil, nil, "Route 4 (Mountain Maps)")
 
 Pick up the hidden *Super Potion*. As hinted at as we entered, we're going to need to transform the field. Battles are fought on the Mountain Field - to transform it into Snowy Mountain, you'll need to use Blizzard, Subzero Slammer via the Ice type Z crystal we got previously, or by letting Hail be on the field for 3 turns. Piloswine will be able to use Blizzard, so you can try to encounter one if you don't have these moves.
 
 Once you do, snow will gather on the map.
 
-**Upper Route 4 (Snowy Mountain Maps, No Water)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Abomasnow         |10 |Beartic           |10 |Abomasnow         |10 |
-|Beartic           |10 |Abomasnow         |10 |Noctowl           |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
-|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
-|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
-|Hypno             |5  |Hypno             |5  |Chansey           |5  |
-|Zangoose          |5  |Zebstrika         |4  |Beartic           |4  |
-|Zebstrika         |4  |Bisharp           |4  |Bisharp           |4  |
-|**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |**Ninetales-Alola**|1 |
-|                  |   |Absol             |1  |Absol             |1  |
+!enc(721, nil, nil, "Route 4 (Snowy Mountain Maps)")
 
 Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill, and back down to the first fork. Climb up the hill to a new map with a lake on it.
 
-**Upper Route 4 (Large Lake Maps)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Abomasnow         |10 |Whimsicott        |10 |Abomasnow         |10 |
-|Whimsicott        |10 |Abomasnow         |10 |Noctowl           |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
-|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
-|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
-|Hypno             |5  |Hypno             |5  |Chansey           |5  |
-|Zangoose          |5  |Zebstrika         |4  |Bisharp           |4  |
-|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
-|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
-|                  |   |Absol             |1  |Absol             |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
-|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
-|                  |   |Basculin          |20 |Basculin          |15 |
-|                  |   |                  |   |Slowpoke          |5  |
-
-|Water             |%  |Headbutt          |%  |
-|------------------|---|------------------|---|
-|Wailmer           |60 |Swablu            |30 |
-|Lumineon          |30 |Pineco            |25 |
-|Wishiwashi        |6  |Aipom             |20 |
-|Seaking           |4  |Forretress        |14 |
-|                  |   |Altaria           |6  |
-|                  |   |Ambipom           |5  |
+!battle(["Seal", :BLACKBELT, 0], "Forest Field")
 
 On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ice Gem*, *Salt-Water Taffy*, *Ice Heal*, and *Hyper Potion*. There are lots of paths we can go from here, and I will start by doing the rock climb path in the top left, accessible via surfing on the water. To reach the water, surf from the hop rock with the little stairs at the bottom.
 
-**Upper Route 4 (Shed & Charous Peak Maps)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Abomasnow         |10 |Whimsicott        |10 |Abomasnow         |10 |
-|Whimsicott        |10 |Abomasnow         |10 |Noctowl           |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
-|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
-|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
-|Hypno             |5  |Hypno             |5  |Chansey           |5  |
-|Zangoose          |5  |Zebstrika         |4  |Bisharp           |4  |
-|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
-|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
-|                  |   |Absol             |1  |Absol             |1  |
-
 On the next map you can find a hidden *PokéSnax* and an *Ice Stone*. Climb back down the hill.
 
-This time, climb the waterfall at the top.
-
-**Upper Route 4 (Mountain Field Map with Small Waterfall)**
-
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Whimsicott        |10 |Whimsicott        |10 |Zebstrika         |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Noctowl           |10 |
-|Chansey           |10 |Chansey           |10 |Hypno             |10 |
-|Wigglytuff        |10 |Wigglytuff        |10 |Chimecho          |10 |
-|Zangoose          |6  |Hypno             |5  |Chansey           |5  |
-|Hypno             |5  |Zebstrika         |5  |Bisharp           |5  |
-|Shroomish         |4  |Shroomish         |4  |Shroomish         |4  |
-|Scyther           |4  |Scyther           |4  |Scyther           |4  |
-|Zebstrika         |1  |Bisharp           |1  |Trevenant         |1  |
-|                  |   |Absol             |1  |Absol             |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
-|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
-|                  |   |Basculin          |20 |Basculin          |15 |
-|                  |   |                  |   |Slowpoke          |5  |
-
-|Water             |%  |
-|------------------|---|
-|Wailmer           |60 |
-|Lumineon          |30 |
-|Wishiwashi        |6  |
-|Seaking           |4  |
+This time, go around the rocks in the water to climb the waterfall at the top.
 
 Grab a *Revive*. This is another map in which we'll need to transform Mountain to Snowy Mountain. Do so.
 
-**Upper Route 4 (Snowy Mountain Field Map with Small Waterfall)**
+Once you succeed, climb the mountain. We'll land on a higher part of a map from earlier. Grab the hidden *Stardust* and enter the shed here.
 
-|Land (Morning)    |%  |Land (Day)        |%  |Land (Night)      |%  |
-|------------------|---|------------------|---|------------------|---|
-|Audino            |20 |Audino            |20 |Audino            |20 |
-|Piloswine         |20 |Piloswine         |20 |Piloswine         |20 |
-|Abomasnow         |10 |Beartic           |10 |Abomasnow         |10 |
-|Beartic           |10 |Abomasnow         |10 |Noctowl           |10 |
-|Sawsbuck          |10 |Sawsbuck          |10 |Hypno             |10 |
-|Chansey           |10 |Chansey           |10 |Chimecho          |10 |
-|Wigglytuff        |5  |Wigglytuff        |5  |Zebstrika         |5  |
-|Hypno             |5  |Hypno             |5  |Chansey           |5  |
-|Zangoose          |5  |Zebstrika         |4  |Beartic           |4  |
-|Zebstrika         |4  |Bisharp           |4  |Bisharp           |4  |
-|Ninetales-Alola   |1  |Ninetales-Alola   |1  |Ninetales-Alola   |1  |
-|                  |   |Absol             |1  |Absol             |1  |
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
-|Goldeen           |30 |Wishiwashi        |20 |Wishiwashi        |40 |
-|                  |   |Basculin          |20 |Basculin          |15 |
-|                  |   |                  |   |Slowpoke          |5  |
-
-|Water             |%  |
-|------------------|---|
-|Wailmer           |60 |
-|Lumineon          |30 |
-|Wishiwashi        |6  |
-|Seaking           |4  |
-
-Once you succeed, climb the mountain. We'll land on a higher part of a map from earlier. Enter the shed here.
-
-Pick up *TM73 Thunder Wave* here. Press 'A' while you're above the disconnected wires to connect them, prepare your team, then make your way to the top left corner for a fight.
+Pick up *TM73 Thunder Wave*. Press 'A' while you're above the disconnected wires to connect them, prepare your team, then make your way to the top left corner for a fight.
 
 !battle(["CL:4R1-C3", :BRELOOM, 0], "Short-Circuit Field")
 
@@ -385,43 +229,31 @@ Return to the area with the lake. This time, take the rock climbing path in the 
 
 As you're hinted to do, we'll need to transform the Snowy Mountain Field here into a Mountain. Many of the burning Fire type moves like Lava Plume and Fire Pledge will do the trick. You can also use a Fire type Z-move. Once the field is changed, you'll be sent to a new map. Use the hopping stones to enter the cave.
 
-**Charous Mountain B2F**
-
-|Old Rod           |%  |Good Rod          |%  |Super Rod         |%  |
-|------------------|---|------------------|---|------------------|---|
-|Finneon           |70 |Lumineon          |60 |Lumineon          |40 |
-|Lumineon          |30 |Horsea            |20 |Seadra            |40 |
-|                  |   |Qwilfish          |20 |**Cloyster**      |15 |
-|                  |   |                  |   |Qwilfish          |4  |
-|                  |   |                  |   |**Kingdra**       |1  |
-
-|Cave              |%  |Water             |%  |
-|------------------|---|------------------|---|
-|Beartic           |20 |Wailmer           |60 |
-|Sealeo            |20 |Seel              |30 |
-|**Avalugg**       |20 |Lumineon          |5  |
-|**Glalie**        |14 |Wishiwashi        |4  |
-|Sandslash-Alola   |10 |Dewgong           |1  |
-|**Walrein**       |6  |                  |   |
-|**Froslass**      |5  |                  |   |
-|**Crabominable**  |4  |                  |   |
-|Absol             |1  |                  |   |
+!enc(750)
 
 As in the previous map, it is hinted that we're gonna want to change the field, this time from Icy Field to Cave Field. Doing this will open the above water encounters as well as letting you grab the *Heracronite* and hidden *Focus Sash* in the pond.
 
-This room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the top.
+This room also has a secret. From the pond, go clockwise around the ring. You'll be able to sneak behind a rock here. A counter-clockwise loop will lead to 3 hidden *Exp. Candy XL*. Follow the loop clockwise, until you see the shortcuts in the bottom walls to climb up further. Use these to reach the cave exit, but don't go out quite yet. From here, follow the outermost loop clockwise all the way around to get a hidden *Big Nugget*. Backtrack this loop, then exit the cave at the bottom.
 
 Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
 
 This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*. I think it's worth noting here that in Pokémon Reborn the exclusive Z-move Splintered Stormshards carries forward its canon effect of destroying Field Effects... including all of Reborn's custom ones. If you really find yourself in a rut of being unable to deal with an opponent's field synergy, it may be worth considering training a Lycanroc to remove it.
 
-Climb back to the previous map, this time going down the rocks to the left. You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
+Climb back to the previous map, this time going down the rocks to the left. 
+
+!battle(["Fawkes", :Casanova, 0], "Forest Field")
+
+!battle(["Nicky", :HIKER, 0], "Forest Field")
+
+You can find a hidden *Swift Wing*, *Big Pearl*, and *Chesto Berry*.
 
 Use the rock wall in the bottom right corner to reach a new map. Grab the hidden *Escape Rope* here. Transform the field to Snowy Mountain and a new rock climb path will be created, so follow it up.
 
 Pick up the *Ultra Potion* and hidden *Liechi Berry*, then melt the Snowy Mountain as we've done before. In exchange for a Revive, you'll be able to obtain our friend from earlier and the final pseudo-legendary: **Bagon**.
 
 Head back two maps. This time, use the rock climb in the bottom-left corner to go down to another map with a large lake.
+
+!battle(["Simon", :AceTrainerM, 0], "Forest Field")
 
 You can find a hidden *Elemental Seed*, *Ultra Ball*, *Moon Stone*, and *Rawst Berry* here. Surfing across the water to the little island, you can get a *Max Elixir* and a hidden *Heart Scale*.
 
@@ -451,6 +283,8 @@ Once you wake up, climb up the ladder, and go left into the opening. Follow Glac
 This building is basically a big puzzle. Feel free to skip ahead if you'd rather solve it yourself.
 
 Talk to Glaceon again to see another of its abilities: creating a path over lava. Confront the Meteor Grunt at the top, and he will run away. Thankfully there is another way in: down and to the left, you'll see a glass window! By now hopefully we should know what to do when we see glass.
+
+!battle(["Geoff", :MeteorAceM, 1], "Factory Field")
 
 Defeat the Team Meteor Grunt, and talk to the monitor in the corner to open the door. Glaceon will start to follow you. You can talk to it to heal status conditions on your team members for free. You can also choose whether to pet Glaceon or not, for the quest but also for points and a different battle later on. Pretty intense choice, I know.
 
@@ -661,36 +495,7 @@ Head up from here. Near the gym, you'll find a hidden *Everstone*. Back down and
 
 By climbing the top waterfall, you'll emerge in a new area of Route 4.
 
-**Route 4 (Agate Area)**
-
-|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|**Marill**         |20 |**Marill**         |20 |**Marill**         |20 |
-|Audino             |20 |Audino             |20 |Audino             |20 |
-|Piloswine          |10 |Piloswine          |10 |Piloswine          |10 |
-|Whimsicott         |10 |Whimsicott         |10 |Zebstrika          |10 |
-|Sawsbuck           |10 |Sawsbuck           |10 |Noctowl            |10 |
-|Chansey            |10 |Chansey            |10 |Hypno              |10 |
-|Wigglytuff         |5  |Wigglytuff         |5  |Chimecho           |5  |
-|Hypno              |5  |Hypno              |5  |Chansey            |5  |
-|Zangoose           |5  |Zebstrika          |4  |Bisharp            |4  |
-|**Azumarill**      |4  |**Azumarill**      |4  |**Azumarill**      |4  |
-|Zebstrika          |1  |Bisharp            |1  |Trevenant          |1  |
-|                   |   |Absol              |1  |Absol              |1  |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
-|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
-|                   |   |Basculin           |20 |Basculin           |15 |
-|                   |   |                   |   |Slowpoke           |5  |
-
-|Water              |%  |
-|-------------------|---|
-|Wailmer            |60 |
-|Lumineon           |30 |
-|Wishiwashi         |6  |
-|Seaking            |4  |
+!enc(742, nil, nil, "Route 4 (North of Agate)")
 
 Grab the *Ground Memory* as well as the hidden *Health Wing* and *X Sp. Def*. Climbing the waterfall at the top will return us to a map we had previously visited.
 
@@ -702,34 +507,7 @@ Once you defeat him, he will let his Pokémon out to hang out on the map. Talk t
 
 Once you've done these things, give snax to the Pokémon. Specifically, give a snax to Altaria, then another to Golem. By doing so, a new rock path will open up, so climb down to reach a new area.
 
-**Route 4 (Small River Area)**
-
-|Land (Morning)     |%  |Land (Day)         |%  |Land (Night)       |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Audino             |40 |Audino             |40 |Audino             |40 |
-|Wigglytuff         |25 |Wigglytuff         |25 |Chansey            |25 |
-|Chansey            |20 |Chansey            |20 |Wigglytuff         |20 |
-|**Snivy**          |5  |**Snivy**          |5  |**Snivy**          |5  |
-|Zangoose           |5  |**Servine**        |4  |**Servine**        |4  |
-|**Servine**        |4  |Zebstrika          |4  |Bisharp            |4  |
-|**Serperior**      |1  |**Serperior**      |1  |**Serperior**      |1  |
-|                   |   |Absol              |1  |Absol              |1  |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Finneon            |70 |Lumineon           |60 |Lumineon           |40 |
-|Goldeen            |30 |Wishiwashi         |20 |Wishiwashi         |40 |
-|                   |   |Basculin           |20 |Basculin           |15 |
-|                   |   |                   |   |Slowpoke           |5  |
-
-|Water              |%  |Headbutt           |%  |
-|-------------------|---|-------------------|---|
-|Wailmer            |60 |Swablu             |30 |
-|Lumineon           |30 |Pineco             |25 |
-|Wishiwashi         |6  |Aipom              |20 |
-|Seaking            |4  |Forretress         |14 |
-|                   |   |Altaria            |6  |
-|                   |   |Ambipom            |5  |
+!enc(716, nil, nil, "Route 4 (Central Creek Map)")
 
 Grab the *Sceptilite* and *Big Nugget*. Hidden here is a *Blue Shard* and an *Ultra Potion*. That's it for Route 4 for now!
 
