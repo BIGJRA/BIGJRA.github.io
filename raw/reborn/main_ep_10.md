@@ -218,6 +218,10 @@ Not that you should spend your money on them, but the Sweet Kiss now sells highe
 
 !shop("Sweet Kiss (Bottom) (7+ Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Exp. Candy XL", "Rare Candy"], [nil, 500, 2000, 5000, 10000, 20000, nil])
 
+There is also one new trainer on the Opal Bridge. By defeating him, you'll learn about the password *minlevel*.
+
+!battle(["Kaz", :COOLTRAINER_Male, 0])
+
 ## North Aventurine Woods Exploration
 
 Once you're ready, head to the Route 1 Nature Center, grab a Tauros mount, and go right.

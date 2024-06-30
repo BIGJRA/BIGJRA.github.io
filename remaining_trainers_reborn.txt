@@ -10,25 +10,18 @@
 ["Linda", :NatureGirl, 0] - Inaccessible - on map 18 in the corner for some reason
 ["Marty", :FISHERMAN, 0] - Inaccessible - on map 18 in the corner for some reason
 ["Hunny", :NatureGirl, 0] - Inaccessible - on map 15 in the corner for some reason
-
 ["Clone", :ALTVERO, 0] - Placeholder teams for the clone fights
-["Clone", :ALTALICE, 0]
-["Clone", :ALTKURO, 0]
-["Clone", :ALTLUCIA, 0]
-["Clone", :ALTARI, 0]
-["Clone", :ALTDECIBEL, 0]
+["Clone", :ALTALICE, 0] - Placeholder teams for the clone fights
+["Clone", :ALTKURO, 0] - Placeholder teams for the clone fights
+["Clone", :ALTLUCIA, 0] - Placeholder teams for the clone fights
+["Clone", :ALTARI, 0] - Placeholder teams for the clone fights
+["Clone", :ALTDECIBEL, 0] - Placeholder teams for the clone fights
 
-["Cal", :REBORN, 2]
-["Florinia", :FLORINIA, 2]
 ["Alistasia", :RINGMASTER, 0]
 ["Heather", :HEATHER, 2]
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
-["Dan", :KNIGHT, 0]
-["Frey", :KNIGHT, 0]
-["Edgard", :KNIGHT, 0]
-["Kalezis", :KNIGHT, 0]
 ["Trevor", :AceTrainerM, 0]
 ["Tac", :PkMnRANGER_Male, 0]
 ["Florinia", :FLORINIA, 4]

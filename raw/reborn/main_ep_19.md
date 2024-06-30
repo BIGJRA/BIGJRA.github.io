@@ -186,11 +186,15 @@ After a scene explaining what we're in for, well, I just hope you're ready. Note
 **Relationship Point Choices:**
 - Talk to Noel in the lobby (+1 Noel)
 
-Enter your open door, prepare your team, then head in for our first fight.
+Enter your open door, prepare your team, then head in for our first fight. Your partner will be Cal on Reshiram Route or Florinia in Zekrom Route.
+
+!partner(["Cal", :REBORN, 3])
+
+!partner(["Florinia", :FLORINIA, 2])
 
 !dbattle(["Lumi", :LUMI, 0], ["Eve", :EVE, 0], "Inverse Field")
 
-Your partner will be Cal or Florinia, depending on the route you're on. This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TMs on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
+This is likely your first fight on the Inverse Field - a very straightforward field with two main effects: one, that the Magical Seed will boost all five stats and make you recharge, and two, that the type chart is inverted, explaining some of the weirder moveset choices on your opponents. Take care to think ahead in this fight about inverse type matchups, using TMs on your team if necessary to change up your movesets. Consider abusing the seed yourself if you're having a tough time.
 
 Once you succeed, follow the path to the next area.
 
@@ -201,7 +205,7 @@ Prepare and head in to the next fight. The following two fights are fought in a 
 
 If you're on Reshiram fight, this will be the first battle, on Zekrom, the second.
 
-!battle(["Cal", :REBORN, 3], "Dragon's Den")
+!battle(["Cal", :REBORN, 2], "Dragon's Den")
 
 For our next fight with our pal Cal we get another glimpse at the Dragon's Den field, which boosts his Fire and Dragon moves and weakens your Water and Ice moves. You can still use Rock and Ground type moves to deal with his Fire types, just be careful of a Kommo-o setup and Mega Medicham. A moderately tough fight but you'll be able to figure it out!
 
@@ -215,7 +219,7 @@ Once you've finished both fights, make your way further into the tournament, whe
 
 ## Treasure Badge
 
-Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Heart Scale* within. Proceed to the top of the area and talk to the chest.
+Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Quick Ball* and *Heart Scale* within. Proceed to the top of the area and talk to the chest.
 
 **Relationship Point Choices:**
 
@@ -224,6 +228,14 @@ This conversation has tons of branches, so I made a flowchart. Note that all poi
 !img("saphira_points.jpg")
 
 Next, you'll have to defend the chest against a barrage of Pokémon and Knight trainers. Between battles, you'll have time to open your bag and heal, so keep your PP and HP fresh so that you can successfully win every battle. As far as strategy to protect the chest, I recommend staying close to the chest at all times, and engaging foes as they come near you. In particular, watch out for Blaziken, who will appear almost out of nowhere from the bottom, and Zoroark, who sneaks in from the top. Some Pokémon will fly, and some will run at you. The Knights are slow, but have 3 Pokémon apiece, so make sure you are able to defeat them. Also, save often!
+
+!battle(["Dan", :KNIGHT, 0], "Dragon's Den")
+
+!battle(["Frey", :KNIGHT, 0], "Dragon's Den")
+
+!battle(["Edgard", :KNIGHT, 0], "Dragon's Den")
+
+!battle(["Kalezis", :KNIGHT, 0], "Dragon's Den")
 
 **Relationship Point Choices:**
 - Lose the chest challenge the first time (-1 Saphira)
@@ -235,7 +247,7 @@ Once you make it past the challengers in the gauntlet, you'll have one more:
 
 !battle(["Gargantuan", :Steelix, 1], "Dragon's Den")
 
-This guy is bulkier than normal: the 3252 EV's in HP is not a typo. A move like Endeavor can help solve that problem if you are really stuck here.
+This guy is bulkier than normal: the 3252 EV's in HP is not a typo. A move like Endeavor can help solve that problem if you are really stuck here. Alternatively, Subzero Slammer transforms the field into Cave, where you can use Earthquake twice to end the fight.
 
 Once you beat it, the path to Saphira will open. Time for our eighteenth and final gym battle!
 
@@ -253,7 +265,7 @@ Talk to Florinia back in the lobby, in the top right corner. After a long scene,
 
 !battle(["T3RR4", :TERRA, 1], "Glitch Field")
 
-An epic meme team. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then you have FEAR Donphan hiding in the back. You can probably find a way through this one... but the fonts are gone! Better hope you know which moveslot contains which move.
+First of all... the fonts are gone! Better hope you know which moveslot contains which move. Anyways, its the return of Terra's epic meme team, this time unshackled by the mono-ground restriction. Her Excadrill, Quagsire and Garchomp work as before basically. Chansey actually can attack on Glitch Field, and Porygon-Z likes to get an omniboost with its Z-Conversion. Then you have FEAR Donphan cleverly hiding its level behind the lack of fonts. 
 
 Once you beat M3G4 T3RR4 once more, exit the tournament building via the path in the top left.
 
@@ -263,7 +275,7 @@ Fly back to Victory Road. Inside the Pokémon Center, talk to an NPC who will se
 
 Before we enter Victory Road, there's actually one more tutor that we now have access to. Fly over to the Grand Hall and talk to the guy to your right.
 
-!tutor("Move Tutor Lykos", ["Celebrate"], ["Free"])
+!tutor("Move Tutor Lykos", ["Celebrate", "Happy Hour"], ["Free", "Free"])
 
 Fun fact: this NPC was put in the game in honor of forum user LykosHand, who frequently wishes users a happy birthday! I have probably received 5 or 6 of these messages to date; they always make me celebrate. Thanks, Lykos.
 
@@ -275,24 +287,9 @@ With all 18 badges, there is one more Default Mart update as well:
 
 Fly on back, and head into the Victory Road.
 
+!enc(783, nil, nil, "Victory Road (Entrance & Hubs)")
+
 ### Logic Puzzle 1
-
-**Victory Road (Entrance & Hub Rooms)**
-
-|Cave               |%  |
-|-------------------|---|
-|Aggron             |20 |
-|Gigalith           |20 |
-|Bisharp            |10 |
-|Alakazam           |10 |
-|Exploud            |10 |
-|Rapidash           |10 |
-|Shiftry            |5  |
-|Jynx               |5  |
-|Ditto              |4  |
-|Nidoking           |4  |
-|Luxray             |1  |
-|Absol              |1  |
 
 In the first room, you can get a hidden *Hyper Potion*, *HP Up*, and *Big Nugget*.
 
@@ -304,13 +301,9 @@ Around the outsides of this room, you can find a hidden *Ice Gem* and *Blue Shar
 
 !battle(["Diana", :SPIRITF, 0], "Holy Field")
 
-Defeating one spirit won't appear to do much for us, but for defeating multiple, we'll be able to obtain some decent rewards later on.
+Defeating these spirits as we find them will allow us to obtain some decent rewards later on.
 
-Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. I personally love these, though it seems some people don't.
-
-You could use Pen & Paper I suppose, but a spreadsheet works the best for me.
-
-<a href="resources\vr_logic_puzzle_sheets.xlsx">You can download my go-to logic puzzle spreadsheet here. </a>
+Anyways, to progress the story, talk to the machine in the upper left corner. We'll learn about our next task: Victory Road's first gem logic puzzle. You could use Pen & Paper to solve these - I find that a spreadsheet works the best for me. <a href="resources\vr_logic_puzzle_sheets.xlsx">You can download my go-to logic puzzle spreadsheet here.</a> I will provide each solution as well as explain how logically to reach them.
 
 The clues this round are:
 
@@ -354,22 +347,7 @@ Back down the stairs, follow the path down this time. You'll see the first railc
 - Talk to the minecart again. It will go left and dump out its rocks, creating a shortcut to the start.
 - Switch the left lever, then jump in the minecart and enter the next room.
 
-**Victory Road B1F, Victory Road B2F**
-
-|Cave               |%  |
-|-------------------|---|
-|Klinklang          |20 |
-|Dusclops           |20 |
-|Crobat             |10 |
-|Houndoom           |10 |
-|Nidoqueen          |10 |
-|Ampharos           |10 |
-|Luxray             |5  |
-|Arcanine           |5  |
-|Umbreon            |4  |
-|Eelektross         |4  |
-|Probopass          |1  |
-|Steelix            |1  |
+!enc(786, nil, nil, "Victory Road (B1F & B2F)")
 
 You can check out the map in this next room if you'd like.
 
@@ -416,22 +394,7 @@ Head back down and enter the door at the bottom. This puts us in the higher leve
 
 ### Exploding the Pillar
 
-**Victory Road 2F, Charous Mountain**
-
-|Cave               |%  |
-|-------------------|---|
-|Spiritomb          |20 |
-|Crabominable       |20 |
-|Crobat             |10 |
-|Exploud            |10 |
-|Bisharp            |10 |
-|Mawile             |10 |
-|Gallade            |5  |
-|Gigalith           |5  |
-|Ampharos           |4  |
-|Rapidash           |4  |
-|Absol              |1  |
-|Alakazam           |1  |
+!enc(792, nil, nil, "Victory Road (2F & Charous Mountain)")
 
 Talk to Charlotte, then head up. You can find a hidden *Calcium* here. Check the map if you like.
 
@@ -567,22 +530,7 @@ Anyways, back to the puzzle.
 
 The next room I will call the "hub" room for now. In the hub room, climb down either rock. You can get a hidden *Elemental Seed* here. Climb the rocks on the left side of this area. You can get a hidden *Max Repel*. Enter the Sapphire area.
 
-**Victory Road B3F (Sapphire)**
-
-|Cave               |%  |
-|-------------------|---|
-|Poliwrath          |20 |
-|Luxray             |20 |
-|Crobat             |10 |
-|Houndoom           |10 |
-|Dusclops           |10 |
-|Ampharos           |10 |
-|Weavile            |5  |
-|Arcanine           |5  |
-|Umbreon            |4  |
-|Eelektross         |4  |
-|Nidoqueen          |1  |
-|Steelix            |1  |
+!enc(800, nil, nil, "Victory Road (Sapphire B3F)")
 
 Grab the hidden *Chewing Gum*. You'll notice a rock climb path on the left side of the room - follow it to reach a spirit.
 
@@ -592,62 +540,17 @@ Fun fact about this one: apparently when Savage challenged the Reborn League bac
 
 Use the Blue Crystal Key atop the hill to create a path in the ice puzzle. Cross this and grab a hidden *Cheri Berry*. Proceed to the next room.
 
-**Victory Road B3F (Emerald)**
-
-|Cave               |%  |
-|-------------------|---|
-|Trevenant          |20 |
-|Luxray             |20 |
-|Crobat             |10 |
-|Houndoom           |10 |
-|Dusclops           |10 |
-|Ampharos           |10 |
-|Vespiquen          |5  |
-|Arcanine           |5  |
-|Umbreon            |4  |
-|Eelektross         |4  |
-|Nidoqueen          |1  |
-|Steelix            |1  |
+!enc(801, nil, nil, "Victory Road (Emerald B3F)")
 
 Pick up the hidden *Green Shard* and *Cotton Candy*, then use the Green Crystal Key atop the hill. Climb up to the right and exit back into the hub room.
 
 Grab a hidden *Hyper Potion*, then use Strength to push the boulder onto the pressure pad. After this is done, make your way to the right side of the hub, grab the hidden *Red Shard*, and enter the Ruby room.
 
-**Victory Road B3F (Ruby)**
-
-|Cave               |%  |
-|-------------------|---|
-|Darmanitan         |20 |
-|Luxray             |20 |
-|Crobat             |10 |
-|Houndoom           |10 |
-|Dusclops           |10 |
-|Ampharos           |10 |
-|Pyroar             |5  |
-|Arcanine           |5  |
-|Umbreon            |4  |
-|Eelektross         |4  |
-|Nidoqueen          |1  |
-|Steelix            |1  |
+!enc(799, nil, nil, "Victory Road (Ruby B3F)")
 
 Use the Red Crystal Key and follow the path. You can get a hidden *Zinc* on your way out.
 
-**Victory Road B3F (Amethyst)**
-
-|Cave               |%  |
-|-------------------|---|
-|Musharna           |20 |
-|Luxray             |20 |
-|Crobat             |10 |
-|Houndoom           |10 |
-|Xatu               |10 |
-|Ampharos           |10 |
-|Salazzle           |5  |
-|Arcanine           |5  |
-|Umbreon            |4  |
-|Eelektross         |4  |
-|Nidoqueen          |1  |
-|Steelix            |1  |
+!enc(802, nil, nil, "Victory Road (Amethyst B3F)")
 
 Grab the hidden *Telluric Seed* and *Fairy Gem*, then use the Purple Crystal Key. Climb up and out to the left.
 
@@ -694,24 +597,9 @@ Head back up to the fork and go right. After a few more climbs you'll find anoth
 
 !battle(["Duster", :SPIRITM, 0], "Big Top Arena")
 
-Continue along the path from here. Grab the hidden *Max Ether* along the way. Exit the mountain.
+Continue along the path from here. Grab the hidden *Max Ether* along the way. Exit the mountain to reach Charous Path.
 
-**Charous Path**
-
-|Land               |%  |
-|-------------------|---|
-|Crabominable       |20 |
-|Weavile            |20 |
-|Ninetales          |10 |
-|Drifblim           |10 |
-|Medicham           |10 |
-|Spiritomb          |10 |
-|Walrein            |5  |
-|Sableye            |5  |
-|Glaceon            |4  |
-|Jynx               |4  |
-|Nidoking           |1  |
-|Absol              |1  |
+!enc(794)
 
 Another mostly linear path. At the fork, go left to get a hidden *Ultra Potion* and fight a spirit.
 
@@ -768,22 +656,7 @@ At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshira
 
 ### Fire & Ice Room
 
-**Victory Road (Last Two Rooms)**
-
-|Cave               |%  |
-|-------------------|---|
-|Aggron             |20 |
-|Bisharp            |20 |
-|Alakazam           |10 |
-|Rapidash           |10 |
-|Nidoking           |10 |
-|Luxray             |10 |
-|Shiftry            |5  |
-|Jolteon            |5  |
-|Ditto              |4  |
-|Wobbuffet          |4  |
-|Absol              |1  |
-|Snorlax            |1  |
+!enc(796, nil, nil, "Victory Road (Final Rooms)")
 
 In here, grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before proceeding with the main path of Victory Road, there is one side area we can go to. On the right side of this room, you'll see a path that leads to the bottom right corner of the room, where you can fight a spirit.
 
@@ -791,22 +664,7 @@ In here, grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before procee
 
 Climb the nearby rocks to enter the side area.
 
-**Victory Road (Fire & Ice Room)**
-
-|Cave               |%  |
-|-------------------|---|
-|Houndoom           |20 |
-|Zoroark            |20 |
-|Gallade            |10 |
-|Glalie             |10 |
-|Arcanine           |10 |
-|Nidoqueen          |10 |
-|Weavile            |5  |
-|Altaria            |5  |
-|Ariados            |4  |
-|Magmortar          |4  |
-|Crabominable       |1  |
-|Snorlax            |1  |
+!enc(797, nil, nil, "Victory Road (Fire & Ice Room)")
 
 Grab the hidden *Burn Heal* and *Fairy Gem* in the starting area.
 
@@ -830,22 +688,7 @@ We need to return to each of the four gem rooms we were in earlier. I will start
 
 Use the Red Crystal Key and go up. Grab the hidden *Tiny Mushroom*. Proceed to the next room.
 
-**Victory Road B4F, Victory Road B5F (Ruby)**
-
-|Cave               |%  |
-|-------------------|---|
-|Darmanitan         |20 |
-|Pangoro            |20 |
-|Hariyama           |10 |
-|Pyroar             |10 |
-|Honchkrow          |10 |
-|Conkeldurr         |10 |
-|Hitmonlee          |5  |
-|Ariados            |5  |
-|Gliscor            |4  |
-|Flareon            |4  |
-|Zoroark            |1  |
-|Gallade            |1  |
+!enc(803, nil, nil, "Victory Road (Ruby B4F & B5F)")
 
 Pick up the hidden *HP Up* here. As you might expect, it's time for a larger puzzle involving the Red Crystals that move rock climb spots around.
 
@@ -885,22 +728,7 @@ After winning, you'll be free to explore this room. Make sure you grab the 3 *Ru
 
 Use one of the three conveniently placed Light Shards if you want, and make your way to the Sapphire room in the top left. Pick up the hidden *Max Ether* and proceed.
 
-**Victory Road B4F, Victory Road B5F (Sapphire)**
-
-|Cave               |%  |
-|-------------------|---|
-|Walrein            |20 |
-|Poliwrath          |20 |
-|Slowking           |10 |
-|Jellicent          |10 |
-|Octillery          |10 |
-|Weavile            |10 |
-|Altaria            |5  |
-|Vaporeon           |5  |
-|Toxicroak          |4  |
-|Hitmonchan         |4  |
-|Carracosta         |1  |
-|Armaldo            |1  |
+!enc(804, nil, nil, "Victory Road (Sapphire B4F & B5F)")
 
 In this room, we have to use Blue Crystals to open up spots on the ice for navigation. There's a crystal to the left: use it to make a path across the ice, then cross and climb up.
 
@@ -964,22 +792,7 @@ With that out of the way, now is a great chance to use the Light Shard! You can 
 
 Back down the rocks, enter the door at the top.
 
-**Victory Road B5F (Emerald)**
-
-|Cave               |%  |
-|-------------------|---|
-|Crobat             |20 |
-|Trevenant          |20 |
-|Hitmontop          |10 |
-|Slaking            |10 |
-|Dhelmise           |10 |
-|Scolipede          |10 |
-|Vespiquen          |5  |
-|Swellow            |5  |
-|Leafeon            |4  |
-|Galvantula         |4  |
-|Golisopod          |1  |
-|Electivire         |1  |
+!enc(809, nil, nil, "Victory Road (Emerald B5F)")
 
 Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and the 3 *Emerald Stars*. You can also find one more spirit by climbing a hill in the middle and using the Green Crystal Key.
 
@@ -1005,22 +818,7 @@ In the bottom left side of the room, we can access a path that takes us up some 
 
 Once you're done, enter the room at the bottom right.
 
-**Victory Road B5F (Amethyst)**
-
-|Cave               |%  |
-|-------------------|---|
-|Musharna           |20 |
-|Mismagius          |20 |
-|Cofagrigus         |10 |
-|Clefable           |10 |
-|Salazzle           |10 |
-|Dragalge           |10 |
-|Golurk             |5  |
-|Sableye            |5  |
-|Xatu               |4  |
-|Espeon             |4  |
-|Tsareena           |1  |
-|Houndoom           |1  |
+!enc(810, nil, nil, "Victory Road (Amethyst B5F)")
 
 Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and the 3 *Amethyst Stars*. Return to the hub room.
 
