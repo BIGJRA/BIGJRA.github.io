@@ -76,7 +76,7 @@ Once you succeed, smash the wall at the top and proceed to the next room. Head u
 
 !battle(["Fulgor", :VOLCARONA, 0], "Dark Crystal Cavern")
 
-A fight against one excellent Pokémon, but I'm sure you can find a way to defeat it by now. Pick up the *Catching Charm: Ruby* here, as well as the hidden *Fire Stone* and *Ability Capsule*. Talk to the sunburst thing in the top right side of the room to battle and catch **Larvesta**!
+A fight against one strong Pokémon! Pick up the *Catching Charm: Ruby* here, as well as the hidden *Fire Stone* and *Ability Capsule*. Talk to the sunburst thing in the top right side of the room to battle and catch **Larvesta**!
 
 Exit the cave. You can fly out from the Ridge.
 
@@ -221,7 +221,7 @@ Pick up *TM73 Thunder Wave*. Press 'A' while you're above the disconnected wires
 
 !battle(["CL:4R1-C3", :BRELOOM, 0], "Short-Circuit Field")
 
-This is a very tough fight with a custom, overpowered Breloom robot! Thankfully it's still a 6v1 so you should be able to figure out a way to take it out. It does have mixed attacks, the ability to put you to sleep, and a set up move, so be careful as it alone can counter many strategies.
+This is a very tough fight with a custom, overpowered Breloom robot! With mixed attacks, the ability to put you to sleep, and a set up move, it can sweep. Wear it down with status conditions and stat debuffs to win!
 
 Once you win, a **Gastly** will pop out of the robot. It will run around the robot to hide from you, but you can battle it by talking to it if you're quick enough. I recommend disabling speed up for this part.
 
@@ -423,7 +423,7 @@ After seeing Luna and Taka on the left side, a voice will talk to you. Prepare y
 
 !battle(["Hypno", :HYPNO, 0], "Starlight Arena")
 
-The only way it's healing itself is with Dream Eater, so a Dark type can slowly whittle it down. With a 4X weakness to bug and a weakness to field-boosted Fairy moves, there's a good chance you'll have something to deal with it. You can also stall with Toxic! Chesto Berries, Safeguard, Sleep Talk, etc. can all help you deal with its 100% accurate Hypnosis as well. Honestly if you can make it through the gauntlet with your team I'm sure you can find a way to beat one PULSE.
+The only way it's healing itself is with Dream Eater, so a Dark type can slowly whittle it down. With a 4X weakness to bug and a weakness to field-boosted Fairy moves, there's a good chance you'll have something to deal with it. You can also stall with Toxic! Chesto Berries, Safeguard, Sleep Talk, etc. can all help you deal with its 100% accurate Hypnosis as well. 
 
 Keep following the path, and you'll eventually exit the Void. After another massive conversation, accept the fast travel request to get the heck out of the Glass Workstation.
 
@@ -544,7 +544,7 @@ I actually graduated with a degree in Mathematics once upon a time and do Comput
 
 !img("magic_square_0.jpg")
 
-So, first we are going to figure out what we want, where. It can be proven fairly easily that the middle is 5. Here's why:
+First we are going to solve for what we are looking for. It can be proven fairly easily that the middle is 5. Here's why:
 
 Notice that from the middle row: B1 + B2 + B3 = 15, and from the diagonals that A1 + B2 + C3 = 15, and C1 + B2 + A3 = 15. Adding these three equations and moving things around a bit, we see (A1 + B1 + C1) + (A3 + B3 + C3) + 3 * B2 = 45.
 
@@ -629,7 +629,7 @@ Fly over to Calcenon City next. Down the steps to Route 3, go east and into the 
 
 !battle(["Murmina", :MURMINA, 0], "Factory Field")
 
-This is actually a somewhat tough team, with Mega-Steelix in the back as well! Nothing you can't handle, though. She'll leave, talking about Caroline's basement. This next part of the quest is... really weird and hard to figure out, but I got you.
+This is actually a somewhat tough team, with Mega-Steelix in the back as well! Nothing you can't handle, though. She'll leave, talking about Caroline's basement. This next part of the quest is pretty obscure.
 
 Fly over to Agate City, and enter the building below the gym. There is a child in the bottom right (who kinda blends in with the chair?!) who will let you access the basement. Pay very close attention to the tiles in this basement, then fly back to Calcenon City.
 

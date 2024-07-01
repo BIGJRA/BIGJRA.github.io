@@ -162,7 +162,7 @@ Head back down to the LCCC, this time, going right at the four-way junction. Gra
 
 What a gut punch on a first playthrough - both in battle, and just in general! Ok, so the good news is: once the PULSE is dead, then you'll be able to 2v1 Sigmund's team. The bad news is, well, as you can see there are quite a lot of shenanigans going on here! The obvious one is that Mr. Mime has Wonder Guard and is Dark/Ghost type. Thankfully we're not in Gen 5 anymore and this means it's weak to Fairy type moves, but just that one type - everything else will clink off of him like an Iron Sword on an Armor Knight. On top of this, it has very high defensive stats and a healing move, meaning even if you are using Fairy-moves they may not be able to easily do the job. What's more: it also has Entrainment, and will almost always use it on Sigmund's ally Pokémon when it gets a chance, meaning Aromatisse and potentially more Pokémon will also get immunity from most moves. Although Mime has no attack power of its own, it just uses Instruct, granting Sigmund's Pokémon two uses total of his various field-boosted Electric, Ghost, and Fairy moves, so you'll likely be worn down and unable to really do anything against either Pokémon on the first attempt!
 
-In my opinion, your first priority should be taking out the PULSE at all costs. Aromatisse does hit fairly hard, but a couple Pokémon with some special bulk should be able to stick around for a few turns to help you accomplish a win condition. The next issue is actually killing Mime. You can opt for some kind of set-up move or Fake Tears / Screech + Moonblast / Play Rough or similar strategies potentially, and may be able to outpace its healing capacities and bring it down. With the Fairy Gems we picked up and more notably the Fairy Z-Crystal, you can boost these attacks to get extra damage out of them that may do the trick. It is also susceptible to status and weather, so I recommend using Toxic on Mime during the first turn, and Aromatisse the second. Keep a sizable chunk of your team alive from here, and you'll eventually watch both of your opponents perish, then you can focus on taking out the rest of Sigmund's team. Mega Alakazam is particularly threatening as are Raichu and Electivire if you're unprepared for them... but really with 2 Pokémon on your side, I'm sure you can figure something out.
+In my opinion, your first priority should be taking out the PULSE at all costs. Aromatisse does hit fairly hard, but a couple Pokémon with some special bulk should be able to stick around for a few turns to help you accomplish a win condition. The next issue is actually killing Mime. You can opt for some kind of set-up move or Fake Tears / Screech + Moonblast / Play Rough or similar strategies potentially, and may be able to outpace its healing capacities and bring it down. With the Fairy Gems we picked up and more notably the Fairy Z-Crystal, you can boost these attacks to get extra damage out of them that may do the trick. It is also susceptible to status and weather, so I recommend using Toxic on Mime during the first turn, and Aromatisse the second. Keep a sizable chunk of your team alive from here, and you'll eventually watch both of your opponents perish, then you can focus on taking out the rest of Sigmund's team. Mega Alakazam is particularly threatening as are Raichu and Electivire if you're unprepared for them.
 
 Once you defeat this harrowing PULSE fight, exit the LCCC back into Labradorra. In the house where we previously talked to Eve, you can get the just-a-bit-too-late *PULSE Readout 9*.
 
@@ -207,7 +207,7 @@ If you're on Reshiram fight, this will be the first battle, on Zekrom, the secon
 
 !battle(["Cal", :REBORN, 2], "Dragon's Den")
 
-For our next fight with our pal Cal we get another glimpse at the Dragon's Den field, which boosts his Fire and Dragon moves and weakens your Water and Ice moves. You can still use Rock and Ground type moves to deal with his Fire types, just be careful of a Kommo-o setup and Mega Medicham. A moderately tough fight but you'll be able to figure it out!
+For our next fight with our pal Cal we get another glimpse at the Dragon's Den field, which boosts his Fire and Dragon moves and weakens your Water and Ice moves. You can still use Rock and Ground type moves to deal with his Fire types, just be careful of a Kommo-o setup and Mega Medicham.
 
 If you're on Zekrom route, you'll get this fight next, and on Reshiram route you'll get it second:
 
@@ -344,47 +344,47 @@ Back down the stairs, follow the path down this time. You'll see the first railc
 
 - Talk to the filled minecart at the top. It will move down and left.
 - Switch both levers.
-- Talk to the minecart again. It will go left and dump out its rocks, creating a shortcut to the start.
+- Talk to the minecart again. It will go left and dump out its rocks, creating a shortcut to the start of the dungeon.
 - Switch the left lever, then jump in the minecart and enter the next room.
 
 !enc(786, nil, nil, "Victory Road (B1F & B2F)")
 
 You can check out the map in this next room if you'd like.
 
-Jump into this minecart to proceed to the main part of this room, then go right to talk to Charlotte. Head left after the conversation to grab a hidden *Revive*. Time for another minecart puzzle.
+!img("vr_mines_1.png")
 
-- Jump into the minecart towards the bottom left of the area. Switch the lever here.
-- Jump back in the minecart. Pick up a hidden *Super Repel* and jump in the left minecart.
-- Switch this lever and jump back in the minecart.
-- Follow the path down and right, then switch this lever.
-- Jump back in the minecart, and reverse the steps until you reach the right side of the area.
-- If you'd like, cross the tracks at the gold spots on the ground, and follow the Rock Climb path for a spirit fight.
+Jump into this minecart (1) to proceed to the main part of this room, then go right to talk to Charlotte. Head left after the conversation to grab a hidden *Revive*. Time for another minecart puzzle.
+
+- Jump into the minecart (3) towards the bottom left of the area. Switch the lever here (A).
+- Jump back in the minecart (4). Pick up a hidden *Super Repel* and jump in the left minecart (6).
+- Switch this lever (B) and jump back in the minecart (7).
+- Follow the path down and right, then switch this lever (C).
+- Jump back in the minecart (8), and reverse the steps until you reach the right side of the area (B, 7, 5).
+- If you'd like, cross the tracks at the gold spots on the ground, and follow the Rock Climb path for a spirit fight (path in green).
 
 !battle(["Lexi", :SPIRITF, 0], "Rainbow Field")
 
 Anyways,
 
-- Jump into the lower minecart to reach the next area.
-- Jump into one more new minecart and use Rock Climb.
-- You'll need to push this Strength boulder onto the pressure pad by going left, up, right, and up. Save often to ensure you aren't wasting time if you mess up.
-- Go up through this new path, and switch the lever. Back down, jump into the top minecart.
-- Switch this lever, then jump back into this minecart.
-- Head back up above the pressure pad and switch this lever back.
-- Go down and once more jump into the top minecart.
-- Jump into the next minecart to emerge in the top area once more. Push this strength boulder up twice.
-
-If you'd like, head left between the two sets of stairs here. Follow this path to a hidden *Green Shard* and the *Tyranitarite*.
-
-- From here, we'll actually need to back track all the way to the top left corner of the room. Aside from the boulder moving, you'll need to reverse all the steps we took to get here.
-- Push the boulder left and onto the pressure pad.
-- Switch the lever in the newly opened path.
-- Jump in the nearby minecart to exit this room.
+- Jump into the lower minecart (11) to reach the next area. Use Rock Climb here.
+- You'll need to push this Strength boulder onto the pressure pad by going left, up, right, and up (save often).
+- Go up through this new path, and switch the lever (D). Back down, jump into the top minecart (10).
+- Switch this lever (E), then jump back into this minecart (13).
+- Head back up above the pressure pad and switch this lever back (D), then go down and once more jump into the top minecart, following the path (10, 14).
+- Push this strength boulder up twice.
+- Head left between the two sets of stairs here. Follow this path to a hidden *Green Shard* and the *Tyranitarite*.
+- From here, we'll actually need to back track all the way to the top left corner of the room. Aside from the boulder moving, you'll need to reverse all the steps we took to get here (15, 9, D, 10, E, 13, D, 10, 14, 6, B, 7, C, 8, B, 7, 5, A, 4).
+- Push the boulder left, up, and onto the pressure pad.
+- Switch the lever (F) in the newly opened path.
+- Jump in the nearby minecart (2) to exit this room.
 
 We'll be back in the main room from here. Again, Blake will be trying to hit us with Icicles, so be careful. Climb down the stairs, pushing boulders aside as you go. Climb up some rocks to get a hidden *Synthetic Seed*.
 
-When you reach the section with tons of rocks, your goal will be to push the bottom right one to the right, to where the item ball containing the *Escape Rope* is. If you can do this, then you can walk down and push a rock onto a pressure pad. To do this, go down and right first, then slalom down and left, then finally go down and right again. Save beforehand to make sure you don't get stuck and have to actually use the Escape Rope!
+When you reach the section with tons of rocks, your goal will be to push the bottom right one to the right, to where the item ball containing the *Escape Rope* is. If you can do this, then you can walk down and push a rock onto a pressure pad. To do this, go down and right first, then slalom down and left, then finally go down and right again. Save beforehand to make sure you don't get stuck and have to actually use the Escape Rope! It should look something like this:
 
-Follow the opened path downward, pushing the boulder onto the pad. Going up and around, push another boulder out of the way, then go down to the bottom left. Grab the hidden *Ultra Potion* and jump into the minecart here. Push this lever, then jump back into this minecart.
+!img("vr_hub_1.png")
+
+Follow the opened path downward, pushing a boulder one tile right onto the pad. Going up and around, push another boulder out of the way to its left, then go back up, left, and down to reach the bottom left. Grab the hidden *Ultra Potion* and jump into the minecart here. Push this lever, then jump back into this minecart.
 
 Before we enter the door at the bottom, climb the rocks to the right and follow the path to another spirit.
 
@@ -398,25 +398,27 @@ Head back down and enter the door at the bottom. This puts us in the higher leve
 
 Talk to Charlotte, then head up. You can find a hidden *Calcium* here. Check the map if you like.
 
-Go right and down from the map and follow this path. At the fork, use Blast Powder on the rock blocking the rock climb path, then follow the path all the way to a *PP All*.
+!img("vr_2f_1.png")
 
-Backtrack to the fork, this time going left. On the hill is a spirit.
+Go right and down from the map and follow this path (blue). At the fork, use Blast Powder on the rock blocking the rock climb path, then follow the path all the way to a *PP All*.
+
+Backtrack to the fork, this time going left (green). On the hill is a spirit.
 
 !battle(["Kamina", :SPIRITM, 0], "Chess Board")
 
 Backtrack to the center of the room.
 
-Up and left from the map, you'll see another rock climb path fork. Go left first, picking up the hidden *Swift Wing* along the way. You'll see another fork as you go - go left first. Follow the path to the *Kommonium-Z*!
-
-Back at the fork, cross the tracks. Follow the path to a hidden *Heart Scale* and another spirit.
-
-!battle(["Trevor", :SPIRITM, 0], "Rainbow Field")
-
-Backtrack to the center area with the map, and climb the rocks to your right. Grab the hidden *Blue Shard* and climb up to fight another spirit.
+Up and left from the map, you'll see another rock climb path fork. Climb the rocks to your right (yellow). Grab the hidden *Blue Shard* and climb up to fight another spirit.
 
 !battle(["Cloud", :SPIRITM, 0], "Underwater Field")
 
-Return to the center of the room, and make your way to the right. There are four minecarts here - we will need to take all four of these, though we can do it in any order. I will start by jumping in the bottom minecart.
+Back at the fork, go left (orange), picking up the hidden *Swift Wing* along the way. You'll see another fork as you go - go left again. Follow the path to the *Kommonium-Z*!
+
+Back at the fork, cross the tracks (red). Follow the path to a hidden *Heart Scale* and another spirit.
+
+!battle(["Trevor", :SPIRITM, 0], "Rainbow Field")
+
+Return to the center of the room, and make your way to the right. There are four minecarts here - we will need to take all four of these, though we can do it in any order. I will start by jumping in the bottom minecart (D).
 
 When you land, Blake will be shooting Icicles at us once more. Start by pushing the nearby boulder up as much as it will go, then hop into the minecart. Push the boulder left and up onto the pressure pad, hop back in the minecart, switch the lever, and hop in the minecart again.
 
@@ -668,7 +670,7 @@ Climb the nearby rocks to enter the side area.
 
 Grab the hidden *Burn Heal* and *Fairy Gem* in the starting area.
 
-Make your way onto the ice on the left side of the area, and loop your way all the way around to activate the Blue Crystal. Thankfully there aren't that many possible moves to make here, so I'm sure you can get this.
+Make your way onto the ice on the left side of the area, and loop your way all the way around to activate the Blue Crystal. Thankfully there aren't that many possible moves to make here.
 
 Back on the land, head to the right side of the area and grab the three *Glitter Balls* in the right side of the area, then activate the Red Crystal.
 
@@ -714,7 +716,7 @@ Continuing with the puzzle:
 
 !battle(["Allan", :SPIRITM, 0], "Psychic Terrain")
 
-I'm pretty sure this is the first fight in the game with natural Psychic Terrain. Thankfully it's not too crazy for now... just wait until the postgame........
+This is the first fight in the game with natural Psychic Terrain. Thankfully it's not too crazy for now... just wait until the postgame!
 
 Anyways, return to the top right corner to enter B5F. Prepare for a fight.
 

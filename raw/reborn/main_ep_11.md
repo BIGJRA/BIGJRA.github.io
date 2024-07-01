@@ -203,7 +203,7 @@ Head outside, and talk to Maxwell. He will give us *TM11 Sunny Day*. Return to S
 
 !battle(["Archer", :Archer, 1])
 
-Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokémon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority but everything else is slow enough that you can figure this one out, I'm sure.
+Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokémon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority, but everything else is slow.
 
 For winning, you'll get *TM18 Rain Dance*.
 

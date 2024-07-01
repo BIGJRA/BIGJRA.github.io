@@ -630,7 +630,7 @@ In the next room, grab a hidden *Genius Wing* and *Exp. Candy XL*, then proceed 
 
 !battle(["Statuary", :GARCHOMP, 0])
 
-While a fast Ice type can make this not really a problem, they can wear most teams down quickly. Technically you can actually get through this room without having a single battle with very careful movement, so figure out how to get through however you like.
+While a fast Ice type can one-shot them, they can wear most teams down quickly. Technically you can actually get through this room without having a single battle with very careful movement!
 
 !enc(661)
 
@@ -757,7 +757,7 @@ You'll find yourself in a new location entirely. Not what you expected, huh?
 
 !enc(697)
 
-It seems like this first map is an infinite maze - it essentially is. Try biking in random directions until you see a set of stairs ascending upwards, then take those. You'll see them eventually, I'm sure.
+It seems like this first map is an infinite maze - it essentially is. Try biking in random directions until you see a set of stairs ascending upwards, then take those. It usually takes a minute or so.
 
 On the next map, you can find a hidden *Green Shard* and *Sitrus Berry*. Proceed into the castle. Here, you'll have to fight some Knights as you proceed.
 

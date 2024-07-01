@@ -12,7 +12,7 @@ Next, slog through Tanzan Mountain to reach the Neoteric Isle once more. Talk to
 
 !battle(["Fern", :UMBFERN, 0], "Holy Field")
 
-One more bout with our friend, Fern. No Mega Scizor this time - it's Mega Mawile, instead. Entei's Extremespeed and Mawile's Sucker Punch are potent anti-sweep options, while his Serperior and Kartana both attempt to sweep themselves. Everything here is weak to Fire, Ground, or both, so if you're stuck, orienting your team around moves of those types might be key. I'm sure you can figure out a way through this fight so far into this game.
+One more bout with our friend, Fern. No Mega Scizor this time - it's Mega Mawile, instead. Entei's Extremespeed and Mawile's Sucker Punch are potent anti-sweep options, while his Serperior and Kartana both attempt to sweep themselves. Everything here is weak to Fire, Ground, or both, so if you're stuck, orienting your team around moves of those types might be key.
 
 Accept the fast travel back to the Nightclub. Make your way up to the top of the Rhodochrine Tree and talk to Noel. Once the door opens, talk to Fern for a heal and 100 *Exp. Candy XL*. Head on in when you're ready.
 

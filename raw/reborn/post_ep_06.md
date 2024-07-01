@@ -126,7 +126,7 @@ Following this path, open the shutter at the bottom. Returning to the center, sw
 
 !dbattle(["Genesect", :GENESECT, 4], ["Genesect", :GENESECT, 5], "Short-Circuit Field")
 
-This one is themed around the Chill Drive. With Cain as an ally, thankfully this isn't too bad. We've dealt with Alolan Ninetales leads like 234901348 times by now, so I'm sure you can figure this one out. It helps that all but Aurorus and Porygon-Z are weak to Fire.
+This one is themed around the Chill Drive - Alolan Ninetales is a familiar lead by now. It helps that all but Aurorus and Porygon-Z are weak to Fire, so exploit this weakness to win.
 
 Win to get the *Chill Drive*. Return to the center and insert it. Also, reinsert the Shock Drive and use the shutter terminal at the bottom. Head up and talk to Aya. Follow the path to the left and activate the shutter.
 
@@ -322,7 +322,7 @@ With that taken care of, the maze below will now be fixed. Head into the door on
 
 !battle(["Dialga", :DIALGA, 0], "Holy Field")
 
-Another Holy Field doubles battle. A fast Bug type or two can solve the problem of the leads. The rest of the team is pretty diverse but I'm sure you can find a way to take advantage of their weaknesses.
+Another Holy Field doubles battle. A fast Bug type or two can solve the problem of the leads. The rest of the team is pretty diverse, but taking advantage of the field or getting a sweeper set up should work.
 
 Catch **Dialga** once you win!
 

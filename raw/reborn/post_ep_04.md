@@ -111,7 +111,7 @@ Surf across, push the boulder out of the way, then jump down to the basement flo
 
 !battle(["Volcanion", :VOLCANION, 0], "Super-Heated Field")
 
-Another anomaly fight. If you could make it here, I'm sure this one won't be too intense. Field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, but surely you can find a way to gain momentum and win this one.
+Another anomaly fight. Field boosted Steam Eruption, Heat Wave, Surf, etc. can all be potentially deadly, so watch out for those.
 
 After winning, you'll be able to fight **Volcanion**. Exit and return to the Nightclub once you're done.
 

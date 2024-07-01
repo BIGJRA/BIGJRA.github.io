@@ -82,7 +82,7 @@ You'll eventually notice on the right the area connected to Route 2. Now we know
 **Relationship Point Choices:**
 - Talk to Blake at the bottom of the circus (+1 Blake)
 
-There's also a Pokémon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I figured I should cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see.
+There's also a Pokémon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I'll cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see.
 
 Inside this cave you can get an *Elemental Seed* as well as the *Aerodactylite* and a hidden *Exp. Candy XL*. You can also talk to the rock at the top to battle **Salandit**!
 
