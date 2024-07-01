@@ -422,34 +422,38 @@ Return to the center of the room, and make your way to the right. There are four
 
 When you land, Blake will be shooting Icicles at us once more. Start by pushing the nearby boulder up as much as it will go, then hop into the minecart. Push the boulder left and up onto the pressure pad, hop back in the minecart, switch the lever, and hop in the minecart again.
 
-In the basement, our goal will be to successfully push the minecart full of explosives into the pillar in the top right corner. To accomplish this, we'll need a straight track from the start to the pillar, since any intermediate positions will cause it to bounce back. The steps for this room are:
+In the basement, our goal will be to successfully push the minecart full of explosives into the pillar in the top left corner. To accomplish this, we'll need a straight track from the start to the pillar, since any intermediate positions will cause it to bounce back. The steps for this room are:
+
+!img("vr_mines_se.png")
 
 - Push the nearby boulder up and out of the way. You can grab a hidden *Electric Gem* via the Rock Climb path. Don't jump down the ledge though, climb back down.
-- Switch the bottom lever. Go up from here and smash the rock and push the left boulder to the left.
-- Head back down to the bottom and switch the second and third levers from the bottom.
-- Go up and left, and press the top-left lever.
-- Cross the tracks to the left, go down, and follow the now-opened path to the right. Push the right boulder down twice. Switch the nearby lever.
-- Switch off the lever in the top left.
-- Following the left path, head back to the bottom of this area. Flip the bottom switch.
-- Talk to the minecart. It should explode the pillar. Switch the bottom lever once more and return to the rock climb spot. Follow the path down, around, and out - grabbing the hidden *Purple Shard* along the way.
+- Switch the bottom lever (A). Go around the bottom of the tracks, then proceed up from here. Smash the rock and push the left boulder to the left.
+- Head back down to the bottom and switch the second and third levers from the bottom (B, C).
+- Go up and left, and press the top-left lever (E).
+- Cross the tracks to the left, go down, and follow the now-opened path to the right. Push the right boulder down twice. Switch the nearby lever (D).
+- Switch off the lever in the top left (E).
+- Following the left path, head back to the bottom of this area. Flip the bottom switch (A).
+- Talk to the minecart. It should explode the pillar. Switch the bottom lever (A) once more and make the long way around to return to the rock climb spot. Follow the path down, around, and out - grabbing the hidden *Purple Shard* along the way.
 
-That's it for this portion - head up and return to Charlotte's room. We have to pick another minecart: I will do the left one this time.
+That's it for this portion - head up and return to Charlotte's room. We have to pick another minecart: I will do the left one (L) this time. Once again, beware of Blake's Icicles when you land.
 
 In the bottom left, you can get a hidden *Blue Shard* by Rock Climb. Don't jump down the ledge though. There is a boulder in the right side, we will need to push it onto the pressure pad at the bottom. Unfortunately the gems and rocks in the center of the room are in the way - you'll need to push it to the top left corner before it can successfully go down and onto the pressure pad. Jump into the minecart.
 
 This room has a similar puzzle to the previous, though this time the explosives can stop at intermediate points. The solution:
 
-- Switch the top left lever then push the minecart. Switch this lever back.
-- Switch the bottom left lever, then go right and switch the bottom right lever.
-- Switch the now-opened lever in the top right, then the top middle lever.
-- Switch off the bottom left lever, then push the minecart. Switch the lever back.
-- Switch off the bottom right lever, then push the minecart. Again, switch the lever back.
-- Surprise: switch off the top right lever, then push the minecart and switch the lever back.
-- Switch both of the leftmost levers on top and push the minecart. Follow it up.
-- Switch the first lever you reach and push the cart. Repeat this for the top lever by going all the way around, and the pillar will explode once more.
+!img("vr_mines_sw.png")
+
+- Switch the top left lever (A) then push the minecart. Switch this lever back.
+- Switch the bottom left lever (B), then go right and switch the bottom right lever (C).
+- Switch the now-opened lever in the top right (D), then the top middle lever (E).
+- Push the minecart. Switch the bottom-right lever (B) and push the minecart again.
+- Switch the bottom left lever (B) in order to switch off the bottom right lever (C), then push the minecart. Switch off the bottom right lever (C).
+- Switch off the top right lever (D), then push the minecart and switch the lever (D) back.
+- Switch both of the leftmost levers on top (A, E) and push the minecart. Follow it up, going around the right side of the room to reach the cart.
+- Switch the first lever you reach (F) and push the cart. Repeat this for the top lever (G) by going all the way around, and the pillar will explode once more.
 - Climb down the rocks on the left side to exit.
 
-Make your way back to Charlotte's room and choose a new minecart: I will do the one on the right.
+Make your way back to Charlotte's room and choose a new minecart: I will do the one on the right (R).
 
 There is a substantial puzzle in Blake's Icicle hell, so be careful. The steps:
 
@@ -459,18 +463,22 @@ There is a substantial puzzle in Blake's Icicle hell, so be careful. The steps:
 - From here, push the filled cart. Make your way back to the top left corner.
 - Flip the nearby switch and talk to the filled cart. Use Rock Climb on the path that opens to reach the basement once more.
 
+!img("vr_mines_ne.png")
+
 Time for another "strength puzzle that takes way longer than it seems it should". This time, you'll need to move the boulder that starts on top into the center of the track loop. To do this, continually move it clockwise around the loop, pushing it inward whenever you can without it getting stuck. You'll need to do a lot of track-crossing to succeed. The good news is: once you get it onto the pressure pad, the explosives will ram into the pillar with a simple push. Exit in the bottom right.
 
-One more path to go down: take the top minecart in Charlotte's room.
+One more path to go down: take the top minecart (U) in Charlotte's room.
 
-In this next room, you'll need to push both boulders to the left. The final move has to be made from the other side. Note that queueing up both boulders will prevent you from solving either. Climb down into the pit when you're ready.
+In this next room, you'll need to push both boulders to the left: one above, one below. The final move for each has to be made from the other side. Solve each rock fully one-at-a-time, then climb down into the pit.
+
+!img("vr_mines_nw.png")
 
 In this room, you'll need to load carts with rocks, dumping it to create climbing paths. The solution:
 
-- Switch the lever and jump in the cart. Fill it with rocks. Switch the lever back and push the cart down.
+- Switch the first lever (A) and jump in the cart. Fill it with rocks. Switch the lever (A) back and push the cart down.
 - Head down and take the cart back up. Fill it with rocks once more.
-- Switch the two levers below. Push the cart again, then follow it down and ride it back up. Fill it up!
-- Switch the bottom lever, then make your way back up to the cart. Push it down.
+- Switch the two levers below (A, B). Push the cart again, then follow it down and ride it back up. Fill it up!
+- Switch the bottom lever (C), then make your way back up to the cart. Push it down.
 - Climb down all the rocks and push the explosives into the pillar.
 
 Climb down to the left, then go up and talk to Charlotte. We have successfully destroyed the pillar!
