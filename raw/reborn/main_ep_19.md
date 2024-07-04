@@ -511,34 +511,36 @@ You'll need to push boulders along the path into specific places and push one mo
 
 ### The Final Rail Puzzle
 
-Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another massive rail puzzle. Solution:
+Pick up the hidden *Red-Hots* and *Fire Gem* in this area. Time for yet another massive rail puzzle. 
 
-- Jump into the railcart on the bottom. Climb the nearby rocks to get a hidden *Red Shard*.
-- There will now be three railcarts all in the same area. Jump into the middle one to reach a spirit.
+!img("vr_mines_final.png")
+
+- Jump into the railcart on the bottom (1). Climb the nearby rocks to get a hidden *Red Shard*.
+- There will now be three railcarts all in the same area. Jump into the middle one (3) to reach a spirit.
 
 !battle(["Leo", :SPIRITM, 0], "Chess Board")
 
 Anyways, back to the puzzle.
 
-- Take this minecart back, then jump into the top minecart. Smash the nearby rock.
-- Take the minecart back up, and jump into the bottom of three minecarts. From here, jump into the other minecart, on the upper right side.
-- Grab the hidden *Red Shard*, then the hidden *PP Up* by crossing all the tracks.
-- Back near the minecart, push the boulder down and right onto the pressure pad.
-- Take this minecart back to the right. There is a path to the left across some tracks that lead to a lever. Switch it.
-- Jump into the bottom minecart, and it will take you to another lever. Switch it.
-- Use the cart to go back down, then cross tracks to the lever to switch back the previous lever.
-- Jump into the bottom cart one more, then into the top of three minecarts. To your right is a lever - switch it.
-- Jump back into this minecart, then into the middle of three minecarts. This will take you to a pile of rocks - fill the cart, then push it.
-- Climb down the rocks and jump into the top minecart. Switch off the lever to your right. Next, go up from the boulder, and cross the long line of tracks. This will lead you to another lever - switch it.
-- Jump back in the minecart in the bottom left, then push the cart full of rocks.
-- Jump into the top minecart, then follow the path up and left from the boulder across the tracks once more. You'll now see a new climbable path - take it, then talk to the explosives.
-- Push the cart full of explosives, then push the nearby lever across some tracks.
-- Make your way to the bottom left corner. Jump into this minecart to return to the top left corner. Talk to the filled cart to make an explosion!
-- Jump into the bottom minecart. From here, go left and up, pushing the lever here. Take the minecart again to reach the top right side of the area, where you can finally exit.
+- Take this minecart back (4), then jump into the top minecart (5). Smash the nearby rock but ignore the boulder for now.
+- Take the minecart (6) back up, and jump into the bottom of three minecarts (2). From here, jump into the other minecart, on the upper right side (7). Grab the hidden *Red Shard*.
+- Push the boulder down and right onto the pressure pad, then take the minecart (8) back to the right. 
+- There is a path to the left across some tracks that lead to a lever (A): switch it.
+- Jump into the bottom minecart (1), and it will take you to another lever (B): switch it.
+- Use the cart (9) to go back down, then switch off the first lever (A).
+- Jump into the bottom cart (1) one more, then into the top of three minecarts (5). To your right is a lever (C): switch it.
+- Jump back into this minecart (6), then into the middle of three minecarts (3). This will take you to a pile of rocks (10) - fill the cart, then push it.
+- Climb down the rocks and jump into the top minecart (5). Switch off the lever (C) to your right. 
+- Go up from the boulder in the bottom left corner, and cross the long line of tracks (yellow arrows). This will lead you to another lever (D) - switch it. Head left and up from here to get a hidden *PP Up*.
+- Jump back in the minecart in the bottom left (6), then push the cart full of rocks (3).
+- Jump into the top minecart (5), then follow the path up and left from the boulder across the tracks (yellow arrows) once more. You'll now see a new climbable path - take it, then talk to the explosives.
+- Push the cart full of explosives (11), then push the lever (D) across the tracks on the right.
+- Make your way to the bottom left corner. Jump into the minecart (6) to return to the top left corner. Talk to the filled cart to make an explosion!
+- Jump into the bottom minecart (2). From here, go left and up, pushing the lever (A). Take the minecart (1) to reach the top right side of the area, where you can finally exit (12)!
 
 ### Introduction to the Gem Chambers
 
-The next room I will call the "hub" room for now. In the hub room, climb down either rock. You can get a hidden *Elemental Seed* here. Climb the rocks on the left side of this area. You can get a hidden *Max Repel*. Enter the Sapphire area.
+The next room I will call the "central gem room". In the central gem room, climb down either rock. You can get a hidden *Elemental Seed* here. Climb the rocks on the left side of this area. You can get a hidden *Max Repel*. Enter the Sapphire area in the top left corner.
 
 !enc(800, nil, nil, "Victory Road (Sapphire B3F)")
 
@@ -546,15 +548,15 @@ Grab the hidden *Chewing Gum*. You'll notice a rock climb path on the left side 
 
 !battle(["Savage", :SPIRITM, 0], "Water Surface")
 
-Fun fact about this one: apparently when Savage challenged the Reborn League back in the day, Shade used a Shedinja. Look at Savage's team and tell me why you think he ended up going mad.
+Fun fact about this one: apparently when Savage challenged the Reborn League back in the day, Shade used a Shedinja. Wonder why Savage went mad.
 
-Use the Blue Crystal Key atop the hill to create a path in the ice puzzle. Cross this and grab a hidden *Cheri Berry*. Proceed to the next room.
+Use the Blue Crystal Key atop the central hill to create a path in the ice puzzle. Cross this path (D L U R D L D) and grab a hidden *Cheri Berry*. Proceed to the next room.
 
 !enc(801, nil, nil, "Victory Road (Emerald B3F)")
 
-Pick up the hidden *Green Shard* and *Cotton Candy*, then use the Green Crystal Key atop the hill. Climb up to the right and exit back into the hub room.
+Pick up the hidden *Green Shard* and *Cotton Candy*, then use the Green Crystal Key atop the central hill. Climb up to the right and exit back into the central gem room.
 
-Grab a hidden *Hyper Potion*, then use Strength to push the boulder onto the pressure pad. After this is done, make your way to the right side of the hub, grab the hidden *Red Shard*, and enter the Ruby room.
+Grab a hidden *Hyper Potion*, then use Strength to push the boulder onto the pressure pad. After this is done, make your way to the right side of the central gem room, grab the hidden *Red Shard*, and enter the Ruby room.
 
 !enc(799, nil, nil, "Victory Road (Ruby B3F)")
 
@@ -564,15 +566,15 @@ Use the Red Crystal Key and follow the path. You can get a hidden *Zinc* on your
 
 Grab the hidden *Telluric Seed* and *Fairy Gem*, then use the Purple Crystal Key. Climb up and out to the left.
 
-Back in the hub, pick up the hidden *Swift Wing* and push the boulder into place. Climb to the center of the hub and go down through the now-opened gates. Use the levers to open some shortcuts. Follow this path to the next room.
+Back in the central gem room, push the boulder into place then pick up the hidden *Swift Wing*. Climb to the center of the central gem room and go down through the now-opened gates. Use the levers to open some shortcuts. Follow this path to the next room.
 
 ### Logic Puzzle 3
 
 We're back in the room with the massive rail puzzle - but worry not, as we don't have to do any more railing for now. Pick up the hidden *Ultra Ball*, *Heart Scale*, *Star Piece*, and *Max Elixir* as you proceed through the path and into the next room.
 
-In here, you can get a hidden *Red Shard*. Follow the path through to the next room.
+We'll find ourselves on an upper path of the room where Fern tried to hit us with arrows. Grab a hidden *Red Shard* and proceed to the next room.
 
-After a conversation, proceed through this room. Grab a hidden *Ice Heal* as you move through this room.
+We'll find ourselves in Charous Mountain. After a conversation, proceed through this room. Grab a hidden *Ice Heal* along the way.
 
 Enter the next room and grab the hidden *Magical Seed*. Pick up the hidden *Max Elixir* and *Purple Shard* in the rest of the room after another conversation.
 
@@ -597,13 +599,13 @@ The solution:
 
 !img("vr_puzzle_3.jpg")
 
-Proceed into the next room once you're done.
+Enter the door at the bottom to return to Charous Mountain once you're done.
 
 Grab the hidden *Elemental Seed*. At the fork, go down to grab a hidden *Calcium* and fight another spirit.
 
 !battle(["Owen", :SPIRITM, 0], "Desert Field")
 
-Head back up to the fork and go right. After a few more climbs you'll find another fork. Going straight will lead you to another spirit.
+Head back up to the fork and go right. After a few more climbs you'll find another fork. Going right will lead you to another spirit.
 
 !battle(["Duster", :SPIRITM, 0], "Big Top Arena")
 
@@ -615,7 +617,7 @@ Another mostly linear path. At the fork, go left to get a hidden *Ultra Potion* 
 
 !battle(["Jonah", :SPIRITM, 0], "Fairy Tale Field")
 
-Back at the fork, go up and left. Grab a hidden *Ultra Ball* as you proceed. Enter the next room.
+Back at the fork, go up and left. Grab a hidden *Ultra Ball* as you proceed. Enter the next room for another logic puzzle!
 
 ### Logic Puzzle 4
 
@@ -650,7 +652,7 @@ Grab the hidden *Max Revive* beyond the gate and proceed to the next room.
 
 ### Dropping the Stalactite
 
-Go down the path and talk to Hardy here, and the stalactite will be dropped. Back to the left, a new path will be opened up. Left and up from here, you can get a hidden *Synthetic Seed* and fight a spirit.
+We'll find ourselves back in the previous hub room where Fern is, but on the highest level. Go down the path and talk to Hardy here, and the stalactite will be dropped. Back to the left, a new path will be opened up. Left and up from here, you can get a hidden *Synthetic Seed* and fight a spirit.
 
 !battle(["Quinn", :SPIRITM, 0], "Inverse Field")
 
@@ -658,9 +660,9 @@ Head down from here, and you'll find yourself in the left side of this large roo
 
 !battle(["Troy", :SPIRITM, 0], "Mountain Field")
 
-Make your way back to the center of the room. To the right of where Fern trapped us, climb up and grab the hidden *Muscle Wing*. Exit out to Charous Path.
+Make your way back to the center of the room and continue climbing rocks up and to the right. To the right of where Fern trapped us, get a hidden *Ultra Potion* then climb up and grab the hidden *Muscle Wing*. Exit out to a lower section of Charous Path.
 
-When you reach a fork, go down the rocks to get the *Metagrossite*! Back on the main path is a hidden *Calcium*, and *PokéSnax*.
+When you reach a fork, go down the rocks to get the *Metagrossite*! Back on the main path is a hidden *Synthetic Seed*, *Calcium*, and *PokéSnax*.
 
 At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshiram route, you'll obtain Taka's Chatot. Grab the *Purple Shard* and continue into the next room.
 
@@ -668,7 +670,7 @@ At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshira
 
 !enc(796, nil, nil, "Victory Road (Final Rooms)")
 
-In here, grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before proceeding with the main path of Victory Road, there is one side area we can go to. On the right side of this room, you'll see a path that leads to the bottom right corner of the room, where you can fight a spirit.
+I'll call this room the 7-gem puzzle room. grab the hidden *Iron*, *Full Restore*, and *Rare Candy*. Before proceeding with the main path of Victory Road, there is one side area we can go to. On the right side of this room, you'll see a path that leads to the bottom right corner, where you can fight a spirit.
 
 !battle(["King", :SPIRITM, 0], "Desert Field")
 
@@ -678,21 +680,21 @@ Climb the nearby rocks to enter the side area.
 
 Grab the hidden *Burn Heal* and *Fairy Gem* in the starting area.
 
-Make your way onto the ice on the left side of the area, and loop your way all the way around to activate the Blue Crystal. Thankfully there aren't that many possible moves to make here.
+Make your way onto the ice on the left side of the area, and loop your way all the way around to activate the Blue Crystal. 
 
-Back on the land, head to the right side of the area and grab the three *Glitter Balls* in the right side of the area, then activate the Red Crystal.
+Back on the land, head to the right side of the area and grab the three *Glitter Balls*, then activate the Red Crystal.
 
 Next, proceed through the red rock and ice bridge path that is now to your right. Push the nearby strength boulder down so it is out of the way, then return to the Red Crystal and activate it again.
 
-Down and left, a new path will be opened up. Climb down onto the ice and go up to activate another Blue Crystal. Return to the left side of the room to grab the *Lucarionite* and fight another spirit.
+Down and left, a new path will be opened up. Climb down onto the ice, grab hidden *Ice Heal* at the bottom, then use the rightmost Rock Climb spot to go up and left to activate another Blue Crystal. Return to the left side of the room to grab the *Lucarionite* and fight another spirit.
 
 !battle(["Franz", :SPIRITM, 0], "Chess Board")
 
-With that, return to the previous room.
+With that, return to the 7-gem puzzle room.
 
 ### The Ruby Chamber
 
-Step on the panel towards the top and talk to Florinia. Heading down from here, a warp tile will appear. Take it to return to the hub room from earlier.
+Step on the panel towards the top and talk to Florinia. Heading down from here, a warp tile will appear. Take it to return to the central gem room from earlier.
 
 We need to return to each of the four gem rooms we were in earlier. I will start with Ruby, in the top right corner.
 
@@ -702,25 +704,28 @@ Use the Red Crystal Key and go up. Grab the hidden *Tiny Mushroom*. Proceed to t
 
 Pick up the hidden *HP Up* here. As you might expect, it's time for a larger puzzle involving the Red Crystals that move rock climb spots around.
 
-- Climb to the right and push the boulder left, out of the way. Climb back down, activate the crystal, then go right and follow the path.
-- Activate the crystal on the hill, then go right and activate the next crystal. Reset the first one so you can go left up both rocks.
-- Follow this path to the left. You'll reach another crystal: activate it. To proceed, you'll need to double back around the bottom side of the room.
-- Activate both crystals you find in the next area. Follow the path this creates, then use the left crystal to create a new path to the left. Follow it up.
-- Push the boulder out of the way here, then activate the nearby crystal. You'll have to go down and make your way back up to the area on the left like we did before. Past the boulder, there should be a new path in the top left to follow. Down from here is a spirit.
+!img("vr_ruby.png")
+
+- Climb to the right and push the boulder left, out of the way. Climb back down, activate the first red crystal (1), then go right and follow the path.
+- Activate the crystal on the hill (2), then go right and activate the next crystal (3). Reset the previous one (2) so you can go left up both rocks.
+- Follow this path to the left. You'll reach another crystal (4): activate it. To proceed, you'll need to double back around the bottom side of the room (through 1, 2, 3)
+- Activate both crystals (5, 6) you find in the next area. Follow the path this creates, then use the left crystal again (5) to create a new path to the left. Follow it up.
+- Push the boulder down twice to get it out of the way here, then activate the nearby crystal (7). You'll have to go down, activate the left crystal (5) again, then and make your way back up. Past the boulder, there should be a new path in the top left to follow (7, using the rock climb near 9). Down from here is a spirit.
 
 !battle(["Godot", :SPIRITM, 0], "Burning Field")
 
 Continuing with the puzzle:
 
-- Up and left, activate another crystal. Once more, we'll have to drop down and make our way back.
-- Climb the new set of rocks, but don't go up the one to the left quite yet. Follow this path up, then activate the crystal by climbing down.
-- Back down and left, climb up as high as you can. Go down and activate the nearby crystal.
-- Make your way back to the left side of the room and go up to get 3 *Glitter Balls*!
-- Down from here and towards the center, climb down the rocks. You should now be on the upper side of a lava pool.
-- Use the two crystals here to navigate around the center of the area, grabbing a hidden *Dragon Gem* in the middle, then go right. Grab the hidden *Escape Rope*.
-- Climb down the lower rocks to push the rock onto the pressure pad, then activate the crystal. Follow the path to the right side of the area.
-- Again, you'll use two sets of two crystals each to maneuver through this area. You'll need to backtrack through the right side of the center for this part.
-- Creep along the right side as you go up, and grab a hidden *Purple Shard*. Before entering the cave, follow the path on the right side down to reach another spirit.
+- Up and left, activate another crystal (8). Once more, we'll have to drop down and make our way all the way back around the bottom right side of the room (using the climbs 1, 2, 3, 4, 6, 5, 7, 9)...
+- Climb the new set of rocks (8), but don't go up the one to the left quite yet, instead, head up and rock climb towards the center of the room. Activate the crystal on the left (9).
+- Back down and left (towards 8), climb up on the left side, going clockwise around the room. Down a rock climb, activate a crystal (10).
+- Make your way back to the left side of the room via going towards the previous climbs (past 9 and 8) and go up to get 3 *Glitter Balls*!
+- Heading back up towards the top of the room (above 8 and below 9), take the rocks generated previously by using the crystal (9) to go down towards the center of the room. 
+- Use the two crystals here (11, then 12 twice from two different angles, then 11 again) to navigate around the center of the area, grabbing a hidden *Dragon Gem* in the middle, then go right. Grab the hidden *Escape Rope*.
+- Climb down the lower rocks (at 13) to push the rock onto the pressure pad, then activate the crystal (13). Follow the path to the right side of the area.
+- Again, you'll use two sets of two crystals each to maneuver through this area (14, 6, 14 again).
+- Climb up from here. You'll need to activate two crystals here (15, 16), then head up and down the ledge. Backtrack through the center using the crystal by the pressure plate (13) to return to the bottom right side.
+- Activate the crystal in the way (15), then follow the path made earlier (16). Creep along the right side as you go up, and grab a hidden *Purple Shard*. Before entering the cave, follow the path on the right side down to reach another spirit.
 
 !battle(["Allan", :SPIRITM, 0], "Psychic Terrain")
 
@@ -730,31 +735,35 @@ Anyways, return to the top right corner to enter B5F. Prepare for a fight.
 
 !battle(["Sirius", :Sirius, 2], "Dragon's Den")
 
-Our final fight with this guy is a toughie, but nothing you can't handle by now. His leads employ tried-and-true double strategies in Intimidate + Lightning Rod Discharge, which can spread paralysis and prevent you from easily Earthquaking them. Tyrantrum makes amazing use of the field - as one Dragon Dance will boost it to +2, making it able to OHKO most of your Pokémon with ease. However, with good doubles strategies and/or a bit of Dragon move spam, you can surely defeat Paul from accounting.
+Our final fight with this guy is a toughie. His leads employ double strategies like Intimidate + Lightning Rod + Discharge. Notably his Tyrantrum makes amazing use of the field - one Dragon Dance will boost it to +2, making it able to OHKO most of your Pokémon with ease. However, with good doubles strategies and/or a bit of Dragon move spam, you can surely defeat Paul Clark from accounting.
 
-After winning, you'll be free to explore this room. Make sure you grab the 3 *Ruby Stars* before leaving, as we'll need those. Oh, and get the hidden *Big Nugget* too. Take the warp point back to the hub!
+After winning, you'll be free to explore this room. Make sure you grab the 3 *Ruby Stars* before leaving, as we'll need those. Oh, and get the hidden *Big Nugget* too. Take the warp point back to the central gem room!
 
 ### The Sapphire Chamber
 
-Use one of the three conveniently placed Light Shards if you want, and make your way to the Sapphire room in the top left. Pick up the hidden *Max Ether* and proceed.
+Use one of the three conveniently placed Light Shards if you want, and make your way to the Sapphire room in the top left. Pick up the hidden *Max Ether* and proceed into the door at the top.
 
 !enc(804, nil, nil, "Victory Road (Sapphire B4F & B5F)")
 
-In this room, we have to use Blue Crystals to open up spots on the ice for navigation. There's a crystal to the left: use it to make a path across the ice, then cross and climb up.
+In this room, we have to use Blue Crystals to open up spots on the ice for navigation. There's a crystal to the left: use it to make a path across the ice, then cross (L D L) and climb up.
 
-Grab the hidden *Magical Seed* then enter the next ice puzzle. You'll need to first make your way to the very bottom of the ice, climb up, and activate the crystal. Before proceeding, there is a sneaky rock climb path on the right side here leading to a spirit.
+!img("vr_sapphire_1.png")
+
+Grab the hidden *Magical Seed* then enter the next ice puzzle. You'll need to first make your way to the very bottom of the ice (L D R U R D R U L D L D), climb up, and activate the crystal. Before proceeding, there is a sneaky rock climb path on the right side here leading to a spirit.
 
 !battle(["Josh", :SPIRITM, 0], "Big Top Arena")
 
-Anyways, back down on the puzzle, we can now reach the top middle to activate another crystal. This lets you get to the top left and escape.
+Anyways, back down on the puzzle, we can now reach the top middle to activate another crystal (R U R D L U). This lets you get to the top left and escape (D L D R D L U L).
 
 Head right, picking up the hidden *Blue Shard*. This next ice sheet is massive, so here's a step by step guide for this part:
 
-- L U L D R D R U L, activate the crystal at the top of the hill, then climb back down.
-- R D L U L U2 L U L U L D R U L U L D L, activate crystal.
-- D R U R D, activate crystal.
-- Make your way back to the starting tile, U L D L U R U L U R D L U R, activate crystal.
-- Make your way back to the starting tile, U L D L U L U L U L D, activate crystal.
+!img("vr_sapphire_2.png")
+
+- L U L D R D R U L, activate the crystal (1) at the top of the hill, then climb back down.
+- R D L U L U2 L U L U L D R U L U L D L, activate crystal (2).
+- D R U R D, activate crystal (3).
+- U R D L U R U R D R D R D R D R (now at the starting tile) U L D L U R U L U R D L U R, activate crystal (4).
+- L D R U L U L D R D L U R U R D R D R D R D R (now at the starting tile) U L D L U L U L U L D, activate crystal (5).
 - R D L2 U L U R D L D R U R, climb up. Grab the hidden *Guard Spec*.
 
 Head into the next room when you're ready.
@@ -777,28 +786,30 @@ Grab the hidden *Max Elixir* and exit at the bottom.
 
 In this next room, pick up the hidden *Repel* and *Ultra Ball*. There is a path along the bottom that will take you to a Green Crystal: activate it.
 
+!img("vr_emerald.png")
+
 Head to the middle of the room and climb down, then activate the Green Crystal. Fern will start firing arrows at us. Once you get control, turn off speed up for your sanity, then start avoiding the arrows. If you get hit by one, it will drag you backwards, and deal damage to your team. There is a Light Shard at the bottom of the room. Since your Pokémon won't die from the arrows, might as well solve most of the puzzle before using the Shard. Oh, and there's a hidden *Genius Wing* on the left side if you have an opportunity to grab it.
 
-On the left side of the area, climb the ivy to follow the path we made earlier to a spirit.
+On the left side of the area, climb the ivy (1) to follow the path we made earlier to a spirit.
 
 !battle(["Nate", :SPIRITM, 0], "Desert Field")
 
 To defeat Fern in this room:
 
-- Back down in the main area, follow the ground-level path on the left side. Push the boulder up, right, and up, onto the pressure pad.
-- Next, follow the second ground-level path from the left up, and pull the lever.
-- Climb the ivy between the paths and go up. Push the lever, then talk to the Crystal to deal the first blow to Decidueye.
-- Climb the next ivy to the right, and activate this lever.
-- Go to the third ground-level path from the left and go up. Pull the lever at its end.
-- Head over to the rightmost ground-level path, go up, and switch the lever.
-- Climb the next ivy from the left that we haven't yet climbed, and switch the lever.
-- In the bottom left side of the area, there is a boulder. You'll need to push it right and up the second from the right ground-level path.
-- This will open up the path up from the rightmost ivy. Follow it, switch the lever, and activate the crystal to deal the second blow to Decidueye.
-- Finally, the middle ivy path will be open. Follow it to the crystal and deliver the last blow to Decidueye.
+- Back down in the main area, follow the ground-level path (2) on the left side. Push the boulder up, right, and up, onto the pressure pad.
+- Next, follow the second ground-level path (4) from the left up, and pull the lever.
+- Climb the ivy between these two paths (3) and go up. Push the lever, then talk to the Crystal to deal the first blow to Decidueye.
+- Climb the next ivy to the right (5), and activate this lever.
+- Go to the third ground-level path from the left (6) and go up. Pull the lever at its end.
+- Head over to the rightmost ground-level path (12), go up, and switch the lever.
+- Climb the second-from-the-right ivy (9), and switch the lever.
+- In the bottom left side of the area, there is a boulder. You'll need to push it right and up the second from the right ground-level path (10) onto a pressure plate at the top.
+- This will open up the path up from the rightmost ivy (11). Follow it, switch the lever, and activate the crystal to deal the second blow to Decidueye.
+- Finally, the middle ivy path (7) will be open. Follow it to the crystal and deliver the last blow to Decidueye.
 
-With that out of the way, now is a great chance to use the Light Shard! You can now take the long path up to the top of the room. Grab the hidden *Grass Gem*, then climb the rocks on the right side of the top of the room to reach another spirit.
+With that out of the way, now is a great chance to use the Light Shard! You can now take the long path (8) up to the top of the room. Grab the hidden *Grass Gem*, then climb the rocks on the right side of the top of the room to reach another spirit.
 
-!battle(["Taro", :SPIRITM, 0])
+!battle(["Taro", :SPIRITM, 0], "Ashen Beach")
 
 Back down the rocks, enter the door at the top.
 
@@ -808,7 +819,7 @@ Grab the hidden *Max Repel*, *Magical Seed*, *Green Shard*, and the 3 *Emerald S
 
 !battle(["Tenshi", :SPIRITM, 0], "Grassy Terrain")
 
-Use the warp tile to return to the hub room.
+Use the warp tile to return to the central gem room.
 
 ### The Amethyst Chamber
 
@@ -816,9 +827,11 @@ Finally, head over to the Amethyst room in the bottom right corner. Pickup the h
 
 Grab the hidden *Calcium* near the start, then prepare yourself for what's to come! Basically, you'll need to dodge the void, which aims for you. Getting hit by it will send you back to the start, unfortunately. To proceed in each area, look for the Purple Crystal and get the void to land on top of it.
 
-More tips: don't use repels, since the "another?" message will actually cause you to be a sitting duck for the void. Create straight lines for the void to follow onto the crystals to make it more predictable. Finally, save often!
+More tips: don't use speedup, don't use repels, since the "another?" message will actually cause you to be a sitting duck for the void; there aren't wild Pokemon here. Create straight lines for the void to follow onto the crystals to make it more predictable. Finally, save often!
 
 Once you exit the room at the bottom successfully, you can return to the previous room, where you will no longer be chased. In here we can find a hidden *Protein* and *Carbos*.
+
+!img("vr_amethyst.png")
 
 Towards the top of the room, you can follow a rock climb path to the *Salamencite*!
 
@@ -830,11 +843,11 @@ Once you're done, enter the room at the bottom right.
 
 !enc(810, nil, nil, "Victory Road (Amethyst B5F)")
 
-Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and the 3 *Amethyst Stars*. Return to the hub room.
+Pick up the hidden *PP Up*, *Max Revive*, *Hyper Potion*, and the 3 *Amethyst Stars*. Return to the central gem room via the new warp.
 
 ### Victory over Victory Road
 
-Take the warp back to Florinia. You'll need to place 7 of the 12 stars into the slots, then step on the tile above. On the left side, you'll see gems light up gold corresponding to the number of correct stars you've picked. On the right, you'll see gems light up silver corresponding to the correct orientation of the gems.
+Back in the central gem room, take the warp back to Florinia. You'll need to place 7 of the 12 stars into the slots, then step on the tile above. On the left side, you'll see gems light up gold corresponding to the number of correct stars you've picked. On the right, you'll see gems light up silver corresponding to the correct orientation of the gems.
 
 And... it's actually random what the correct answer is per save file, so I can't just give you the solution this time.
 

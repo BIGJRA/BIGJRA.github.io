@@ -412,7 +412,7 @@ Or so it would seem. Talk to Shiv up from here for a battle!
 
 Oh. Your team is all set to Lv. 1 and you can't use bag items. Oh no.
 
-Unlike Solaris at Pyrous, this battle truly is intended to be lost, and there is no reward other than a few lines of dialogue for winning. That said, the only way you really can win is via strategies like FEAR... but it is technically doable if you feel like it.
+Unlike Solaris at Pyrous, this battle truly is intended to be lost, and there is no reward other than a few lines of dialogue for winning. There are technically ways to win, but I'll leave that as an exercise to the reader.
 
 With all that taken care of, you'll receive Darkrai! Return to the Nightclub.
 
