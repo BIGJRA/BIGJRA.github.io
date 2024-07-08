@@ -219,7 +219,15 @@ In the next room, use the Light Shard and grab the hidden *Dusk Ball* and *Max R
 
 These two don't make up a massive team, but are quite a huge pain. Try to get rid of Diancie on the first turn: the simplest way is probably using the Steelium-Z. Afterward, two at a time, you'll have to wear down the Crystal Aegislash. Knocking down one of its defensive stats may be useful - due to its massive HP, Counter and Mirror Coat may not be as effective. Endeavor, Destiny Bond, etc. are all excellent here as well. Or, the fun way: changing the field to Cave and collapsing it!
 
-Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Return to the Nightclub!
+Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Escape from here.
+
+It's worth noting that now that we've gotten to fight Crystal Aegislash, two of the developers in the Grand Hall secret room have slightly updated teams.
+
+!battle(["Autumn", :AUTUMN, 1], "Rainbow Field")
+
+!battle(["Crim", :CRIM, 1], "Starlight Arena")
+
+Return to the Nightclub!
 
 ## Ametrine Core
 

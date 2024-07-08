@@ -2,9 +2,65 @@
 
 Bear with me: postgame is less episodically structured than the main game, and there aren't chapter names. So, I came up with my own names, with help from the Patreon Discord.
 
-Anyways, the first thing we're going to do is grab the fourth Catching Charm. To do so, head over to the Grand Hall basement and talk to Ame's PC. Open the secret path!
+## The Developer Room
 
-In my honest opinion, you should save actually talking to all these NPC's and reading the content here until after you've also beaten the postgame. Make a beeline to the room in the top right corner, grab the *Catching Charm: Sapphire*, then leave. Don't worry, I will cover the rest of this area towards the end of the guide.
+If this is the kind of thing that would interest you, enter the developer's room by talking to Ame's computer in the Grand Hall Basement. You can talk to the developers in here, though note that nothing in here is canon to Reborn.
+
+Anyways, the first thing we're going to do is grab the fourth Catching Charm. Make a beeline to the room in the top right corner to grab the *Catching Charm: Sapphire*!
+
+There is a case to be made that you should save actually talking to all these NPC's and reading the content here until after you've also beaten the postgame, though I will cover the currently available contents here regardless. You can battle the folks here optionally just for fun they'll give us BP for the Nightclub, which we'll get to in a bit. - they don't give any EXP and lock all levels to 100. They also use a ton of illegal movesets, for what it's worth.
+
+!battle(["Autumn", :AUTUMN, 0], "Rainbow Field")
+
+!battle(["Ikaru", :IKARU, 0])
+
+!battle(["Smeargletail", :SMEARGLE, 0])
+
+!battle(["Jan", :JAN, 0], "Glitch Field")
+
+Jan? Wait, I know that guy from Rejuvenation!
+
+!battle(["Marcello", :MARCELLO, 0])
+
+!battle(["Perry", :PERRY, 0])
+
+!battle(["Vulpes", :VULPES, 0], "Fairy Tale Arena OR Starlight Arena")
+
+You can also talk to Vulpes to unlock an alternate fight with their Animations team.
+
+!battle(["Vulpes", :VULPES, 1], "Fairy Tale Arena OR Starlight Arena")
+
+!battle(["Azzie", :AZZIE, 0])
+
+!battle(["Crim", :CRIM, 0], "Starlight Arena")
+
+!battle(["Cass", :CASS, 3])
+
+You can talk to Cass about Ame to talk to Ame and battle her as well:
+
+!battle(["Amethyst", :AME, 1])
+
+Of course, the one and only:
+
+!battle(["Kyra", :KYRA, 0])
+
+Talking to the graves and papers in the backroom will also allow us to fight more former developers:
+
+!battle(["Lia", :SPIRITF, 0])
+
+!battle(["Azery", :SPIRITM, 0])
+
+!battle(["Kurotsune", :KUROTSUNE, 0])
+
+!battle(["Dan", :SPIRITM, 0])
+
+!battle(["Mike", :SPIRITM, 0])
+
+!battle(["MDE", :SPIRITM, 0])
+
+!battle(["Kanaya", :SPIRITF, 0])
+
+!battle(["Koyo", :SPIRITF, 0])
 
 It's also worth noting at this point that the level cap has silently gone up to Lv. 105!
 
