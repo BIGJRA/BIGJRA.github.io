@@ -114,7 +114,7 @@ Unlock the shutter, lower the water, and grab the *Beryl Grid Key*.
 
 Return to the Peridot Grid and cross the mud. On the bottom left side of the map, you'll stairs leading onto the mud, which eventually lead you to a hidden *Black Sludge*. Cross to the left into the Jasper Water Grid.
 
-Head left, then follow the path when the water is lowered. Go down onto the bottom section of the mud and go left to get a hidden *Full Heal*. Back on the land, go left. Titania will join you once again.
+Head left, then follow the path when the water is lowered. Go down onto the bottom section of the mud and go left to get a hidden *Full Heal*. Back on the land, go left. Titania will join you once again if you fed her earlier, otherwise you'll do this fight alone.
 
 !dbattle(["Ichorus", :NWCultist, 0], ["Lyla", :NWCultistF, 0], "Factory Field")
 

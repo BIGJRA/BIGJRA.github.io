@@ -460,6 +460,10 @@ Defeat the grunts as you progress upwards.
 
 !battle(["Ezra", :NWCultist, 1])
 
+If and only if Titania was not fed during the Water Treatment Center back in Episode 15, Meteor Lyla will be alive and this fight will be a double battle with her:
+
+!dbattle(["Ezra", :NWCultist, 1], ["Lyla", :NWCultistF, 1])
+
 Past the Light Shard is a mini-gauntlet.
 
 !partner(["Hardy", :HARDY, 0])
