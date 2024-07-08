@@ -61,16 +61,17 @@ class TrainerGetter
     # Creates the header for the table
     table_header = doc.create_element('thead')    
     table_header['class'] = 'table-header'
-    table_header['style'] = 'text-align: center;'
     table.add_child(table_header)
   
     # Header Row 1: Trainer Names, Field, Items
     thead_row = doc.create_element('tr')
     table_header.add_child(thead_row)
-  
-    th = doc.create_element('th', colspan: 3)
-    thead_row.add_child(th)
-  
+
+    th = doc.create_element('th', colspan: 3, class: "header-th")
+
+    # First TD for main content (VS, Field, Items)
+    td_main_content = doc.create_element('div')
+
     bold = doc.create_element('strong')
     if second_trainer_name
       bold.content = "VS: #{trainer_name} & #{second_trainer_name}"
@@ -81,21 +82,34 @@ class TrainerGetter
         bold.content = "Partner: #{trainer_name}"
       end
     end
-    th.add_child(bold)
-    
+
+    td_main_content.add_child(bold)
+
     if !is_partner # we don't need field for partners
       field_div = doc.create_element('div')
       field_div.content = "Field: #{field ? field : "No Field"}"
-      th.add_child(field_div)
+      td_main_content.add_child(field_div)
     end
-  
+
     if !is_partner && !item_symbols.empty?
       item_str = item_symbols.map { |sym, count| "#{@itemHash[sym][:name]} #{count > 1 ? "(#{count})" : ""}" }
       items_div = doc.create_element('div')
       items_div.content = "Items: #{item_str.join(', ')}"
-      th.add_child(items_div)
+      td_main_content.add_child(items_div)
     end
-  
+
+    th.add_child(td_main_content)
+
+    # Second TD for [show] or [hide] text
+    td_show_hide = doc.create_element('div', class: 'show-hide-container',)# style: 'text-align: right;')
+    show_hide_text = doc.create_element('span', class: 'show-hide-text', style: 'cursor: pointer;')
+    show_hide_text.content = '[show]'
+    td_show_hide.add_child(show_hide_text)
+
+    th.add_child(td_show_hide)
+
+    thead_row.add_child(th)
+
     # Header Row 2: Actual table headers
     thead_row = doc.create_element('tr')
   
@@ -164,8 +178,13 @@ class TrainerGetter
       end
     end
   
-    html_output = doc.to_html 
-    return html_output.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
+    # html_output = doc.to_html 
+    #return html_output.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
+
+    # Modify where you generate the HTML output
+    html_output = doc.to_html.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
+
+    return html_output
   end  
 
   def report_missing_trainers(include_bt=false)
@@ -182,10 +201,10 @@ end
 def main
   e = TrainerGetter.new('reborn')
   puts e.generate_trainer_markdown(["Cain", :Cain, 5], "Chess Board")
-  puts e.generate_trainer_markdown(["Arlo", :SWIMMERBOI, 0])
-  puts e.generate_trainer_markdown(["Yan", :TechNerd, 0])
-  puts e.generate_trainer_markdown(["Jackson", :COOLTRAINER_Male, 0], nil, ["Mack", :StreetRat, 0])
-  puts e.generate_trainer_markdown(["Aster", :AsterKnight, 0], nil, ["Eclipse", :EclipseDame, 0])
+  # puts e.generate_trainer_markdown(["Arlo", :SWIMMERBOI, 0])
+  # puts e.generate_trainer_markdown(["Yan", :TechNerd, 0])
+  # puts e.generate_trainer_markdown(["Jackson", :COOLTRAINER_Male, 0], nil, ["Mack", :StreetRat, 0])
+  # puts e.generate_trainer_markdown(["Aster", :AsterKnight, 0], nil, ["Eclipse", :EclipseDame, 0])
 end
 
 main if __FILE__ == $PROGRAM_NAME
