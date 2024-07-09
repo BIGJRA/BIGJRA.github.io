@@ -81,8 +81,7 @@ Congratulations!
 
 With Arceus bagged, we have all 807 Pokémon. Fly over to Agate City and talk to Bee if you've caught 'em all. You'll get the *Game Certificate*, as well as the *Ebony Stonepiece*.
 
-Remember the Arc underneath the Grand Stairway? Make your way there via the room where we met Solaris so long ago. Make your way through the arc as we did after beating the Elite Four. Use the stonepiece on the door and head in to watch a scene. Nice.
+Remember the Arc underneath the Grand Stairway? Make your way there via the room where we met Solaris so long ago. Make your way through the arc as we did after beating the Elite Four. Use the stonepiece on the door and head in to watch a scene. Nice!
 
-## The Developer Room
+One final note: now that we've fully beaten the game, we can return to the Developer Room in the Grand Hall to learn even more about the game's full development process!
 
-If this is the kind of thing that would interest you, enter the developer's room by talking to Ame's computer in the Grand Hall Basement. I'll leave talking to and fighting the developers an exercise to the reader :)
