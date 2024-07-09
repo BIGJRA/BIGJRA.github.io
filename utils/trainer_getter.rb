@@ -30,8 +30,8 @@ class TrainerGetter
     trainer_data = @trainerHash[trainer_id]
     second_trainer_data = second_trainer_id ? @trainerHash[second_trainer_id] : nil
 
-    puts "Trainer Data #{trainer_id} already in Store" if @trainerStore.include?(trainer_id)
-    puts "Trainer Data #{second_trainer_id} already in Store" if second_trainer_id && @trainerStore.include?(second_trainer_id)
+    # puts "Trainer Data #{trainer_id} already in Store" if @trainerStore.include?(trainer_id)
+    # puts "Trainer Data #{second_trainer_id} already in Store" if second_trainer_id && @trainerStore.include?(second_trainer_id)
     
     @trainerStore.add(trainer_id)
     @trainerStore.add(second_trainer_id) if second_trainer_id
