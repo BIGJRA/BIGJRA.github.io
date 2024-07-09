@@ -174,7 +174,7 @@ Make your way back to the part with the sequence of ledges on B2F, and take the 
 
 Next, head to Obsidia Ward. The Sweet Shop has new inventory.
 
-!shop("Sweet Kiss (Bottom) (4 Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Rare Candy"], [nil, 500, 2000, 5000, nil])
+!shop("Sweet Kiss (Bottom) (4 Badges)", ["Common Candy", ["Exp. Candy XS", 500], ["Exp. Candy S", 2000], ["Exp. Candy M", 5000], "Rare Candy"])
 
 Next, we're going to head on over to the Obsidia Slums. On the first floor of the main area of the slums take the top left escalator down to reach B1F. Then go between the escalators through the door here, and use the Dull Key inside. Grab a hidden *Calcium* then enter the next room.
 

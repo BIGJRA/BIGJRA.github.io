@@ -216,7 +216,7 @@ We're gonna need about 30 Honeys for the next section - I recommend buying only 
 
 Not that you should spend your money on them, but the Sweet Kiss now sells higher-tier Exp. Candies!
 
-!shop("Sweet Kiss (Bottom) (7+ Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Exp. Candy XL", "Rare Candy"], [nil, 500, 2000, 5000, 10000, 20000, nil])
+!shop("Sweet Kiss (Bottom) (7+ Badges)", ["Common Candy", ["Exp. Candy XS", 500], ["Exp. Candy S", 2000], ["Exp. Candy M", 5000], ["Exp. Candy L", 10000], ["Exp. Candy XL", 20000], "Rare Candy"])
 
 There is also one new trainer on the Opal Bridge. By defeating him, you'll learn about the password *minlevel*.
 
@@ -256,7 +256,7 @@ Grab the hidden *Dire Hit* and *Big Mushroom*. If you go up and left, "To C" on 
 
 A Pikachu on the ground floor is actually a tutor.
 
-!tutor("Nyu's Pikachu Move Tutor", ["Volt Tackle"], ["Free"])
+!tutor("Nyu's Pikachu Move Tutor", [["Volt Tackle", "Free"]])
 
 Talk to the guy upstairs - he will tell us he is the PC administrator, and also heal our Pokémon! You can also talk to him with candy or ice cream in your bag - he will give us 3 *Honeys* for each. If we give him *Blue Moon Ice Cream*, we'll get *40 Honeys*.
 

@@ -74,13 +74,13 @@ Talk to the various characters around the nightclub, if you'd like.
 
 In the top left corner, there are various battle facilities. Winning them grants you Battle Points (BP) which can be exchanged for items.
 
-!shop("Nightclub BP Rewards (Bottom)", ["Lonely Mint", "Brave Mint", "Adamant Mint", "Naughty Mint", "Bold Mint", "Relaxed Mint", "Impish Mint", "Lax Mint", "Timid Mint", "Hasty Mint", "Serious Mint", "Jolly Mint", "Naive Mint", "Modest Mint", "Mild Mint", "Quiet Mint", "Rash Mint", "Calm Mint", "Gentle Mint", "Sassy Mint", "Careful Mint"], ["1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP", "1 BP"])
+!shop("Nightclub BP Rewards (Bottom)", [    ["Lonely Mint", "1 BP"], ["Brave Mint", "1 BP"], ["Adamant Mint", "1 BP"], ["Naughty Mint", "1 BP"], ["Bold Mint", "1 BP"], ["Relaxed Mint", "1 BP"], ["Impish Mint", "1 BP"], ["Lax Mint", "1 BP"], ["Timid Mint", "1 BP"], ["Hasty Mint", "1 BP"], ["Serious Mint", "1 BP"], ["Jolly Mint", "1 BP"], ["Naive Mint", "1 BP"], ["Modest Mint", "1 BP"], ["Mild Mint", "1 BP"], ["Quiet Mint", "1 BP"], ["Rash Mint", "1 BP"], ["Calm Mint", "1 BP"], ["Gentle Mint", "1 BP"], ["Sassy Mint", "1 BP"], ["Careful Mint", "1 BP"]])
 
-!shop("Nightclub BP Rewards (Middle)", ["Choice Band", "Choice Specs", "Choice Scarf", "Focus Sash", "EXP All Upgrade", "Remote PC", "5 Cell Batteries"], ["24 BP", "24 BP", "27 BP", "5 BP", "1 BP", "14 BP", "5 BP"])
+!shop("Nightclub BP Rewards (Middle)", [["Choice Band", "24 BP"], ["Choice Specs", "24 BP"], ["Choice Scarf", "27 BP"], ["Focus Sash", "5 BP"], ["EXP All Upgrade", "1 BP"], ["Remote PC", "14 BP"], ["5 Cell Batteries", "5 BP"]])
 
 Note that the Remote PC is only available after buying the EXP All Upgrade, and the batteries only after the PC.
 
-!shop("Nightclub BP Rewards (Top)", ["8 Exp. Candy XL", "50 Exp. Candy XL", "Ability Capsule", "2 Heart Scales", "Rare Candy", "3 EV Tuners", "2 EV Boosters", "PP All", "Reborn Ball", "10 Glitter Balls", "Sacred Ash"], ["1 BP", "5 BP", "1 BP", "2 BP", "1 BP", "2 BP", "3 BP", "4 BP", "9 BP", "5 BP", "13 BP"])
+!shop("Nightclub BP Rewards (Top)", [["8 Exp. Candy XL", "1 BP"], ["50 Exp. Candy XL", "5 BP"], ["Ability Capsule", "1 BP"], ["2 Heart Scales", "2 BP"], ["Rare Candy", "1 BP"], ["3 EV Tuners", "2 BP"], ["2 EV Boosters", "3 BP"], ["PP All", "4 BP"], ["Reborn Ball", "9 BP"], ["10 Glitter Balls", "5 BP"], ["Sacred Ash", "13 BP"]])
 
 To win BP, you can participate in the Battle Tower and Battle Factory-style competitions, participate in Theme Teams, or do Mix N' Match. Try out these options and earn some BP if you'd like!
 

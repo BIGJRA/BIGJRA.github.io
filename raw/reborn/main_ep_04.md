@@ -90,7 +90,7 @@ You can enter the Alleyway towards the middle of the ward, but we won't talk to 
 
 Enter the building in the middle of the top row of buildings, just to the left of the gym. The guy inside will teach your starter the pledge moves for some shards.
 
-!tutor("Lapis Ward Move Tutor", ["Grass Pledge", "Fire Pledge", "Water Pledge"], ["3 Green Shards", "3 Red Shards", "3 Blue Shards"])
+!tutor("Lapis Ward Move Tutor", [["Grass Pledge", "3 Green Shards"], ["Fire Pledge", "3 Red Shards"], ["Water Pledge", "3 Blue Shards"]])
 
 Enter the flower shop on the left side of the ward. Someone inside will give you the *Wailmer Pail*. In the top left corner, you can complete a puzzle to get **Spritzee**! The completed puzzle looks like this:
 
@@ -110,7 +110,7 @@ Enter a small house on the left side of the ward and talk to a guy to get *TM21 
 
 Some consumables that may be useful in a pinch. We will much later on need a White Herb for a quest.
 
-!shop("Department Store 4F (Right)", ["Smoke Ball", "Destiny Knot", "Power Weight", "Power Bracer", "Power Belt", "Power Anklet", "Power Lens", "Power Band", "TM48 Round"], [nil, nil, nil, nil, nil, nil, nil, nil, 9000])
+!shop("Department Store 4F (Right)", ["Smoke Ball", "Destiny Knot", "Power Weight", "Power Bracer", "Power Belt", "Power Anklet", "Power Lens", "Power Band", ["TM48 Round", 9000]])
 
 Finally some good things for sale in this building. The Power Items raise 32 EV's per defeated Pokémon and cancel out other EV's. Meaning if you catch a new Pokémon you simply have to defeat any 8 Pokémon with a Power Item to max out - or 17 total for a usual 252/252/4 spread. This is so incredibly fast that there is virtually no reason not to EV train in this game given how tough the fights can be. These are probably a bit too pricey for us right now, but keep in mind that they're here so when we have the cash we can immediately max out our EV's. If you're planning on breeding you can get a Destiny Knot.
 

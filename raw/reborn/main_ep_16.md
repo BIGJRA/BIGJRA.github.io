@@ -68,13 +68,13 @@ Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*,
 
 In the plot of the former Mosswater Factory there is now a market.
 
-!tutor("Mosswater Market Move Tutor: Max", ["Aqua Tail", "Icy Wind", "Signal Beam", "Throat Chop"], ["5 Blue Shards", "6 Green Shards", "5 Purple Shards", "6 Red Shards"])
+!tutor("Mosswater Market Move Tutor: Max", [["Aqua Tail", "5 Blue Shards"], ["Icy Wind", "6 Green Shards"], ["Signal Beam", "5 Purple Shards"], ["Throat Chop", "6 Red Shards"]])
 
-!tutor("Mosswater Market Move Tutor: Myles", ["Drain Punch", "Tailwind", "Zen Headbutt", "Stealth Rock"], ["6 Blue Shards", "7 Green Shards", "5 Purple Shards", "7 Red Shards"])
+!tutor("Mosswater Market Move Tutor: Myles", [["Drain Punch", "6 Blue Shards"], ["Tailwind", "7 Green Shards"], ["Zen Headbutt", "5 Purple Shards"], ["Stealth Rock", "7 Red Shards"]])
 
 There is also a guy selling a new item that will allow you to move all EV's from one stat into another.
 
-!shop("Mosswater Market Tuners", ["5x EV Tuners"], [40000])
+!shop("Mosswater Market Tuners", ["5x EV Tuners", 40000])
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*.
 
@@ -158,7 +158,7 @@ Enter Lapis Alleyway next. Inside, you'll find more soil containing *4 Rowap Ber
 
 Make your way down to Seventh Street. There is a new move tutor here - the guy who sold us the Pokémon earlier.
 
-!tutor("Seventh Street Pokémon Seller Move Tutor", ["Knock Off", "Iron Head", "Giga Drain", "Liquidation"], ["8 Red Shards", "7 Purple Shards", "6 Green Shards", "6 Blue Shards"])
+!tutor("Seventh Street Pokémon Seller Move Tutor", [["Knock Off", "8 Red Shards"], ["Iron Head", "7 Purple Shards"], ["Giga Drain", "6 Green Shards"], ["Liquidation", "6 Blue Shards"]])
 
 Enter the watering hole and go down the now-open ladder. This is a shortcut to the Water Treatment Center and also contains a *Black Flute*.
 
@@ -202,7 +202,7 @@ While we were gone we got two stickers, so we can access some new floors of the 
 
 !shop("Department Store 9F (Left)", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunder Stone", "Moon Stone", "Sun Stone", "Dusk Stone", "Dawn Stone", "Shiny Stone"])
 
-!shop("Department Store 9F (Right)", ["Link Stone", "Ice Stone", "PP Up", "Up-Grade", "Prism Scale", "Oval Stone", "Amplifield Rock", "TM22 Solar Beam"], [nil, nil, nil, nil, nil, nil, nil, 15000])
+!shop("Department Store 9F (Right)", ["Link Stone", "Ice Stone", "PP Up", "Up-Grade", "Prism Scale", "Oval Stone", "Amplifield Rock", ["TM22 Solar Beam", 15000]])
 
 !shop("Department Store 10F (Left)", ["Ultra Potion", "Max Repel", "Full Restore", "Ultra Ball", "Revive"])
 
@@ -301,11 +301,11 @@ That wraps up things in the city limits for right now, so fly over to Spinel Tow
 
 Towards the top of the ground floor you'll see a new entrance to a gift shop.
 
-!shop("Spinel Museum Gifts (Left)", ["Black Belt", "Black Glasses", "Charcoal", "Dragon Fang", "Hard Stone", "Magnet", "Metal Coat", "Miracle Seed", "Mystic Water", "Never-Melt Ice"], [nil, nil, 9800, nil, 9800, nil, 9800, nil, nil, nil])
+!shop("Spinel Museum Gifts (Left)", ["Black Belt", "Black Glasses", ["Charcoal", 9800], "Dragon Fang", ["Hard Stone", 9800], "Magnet", ["Metal Coat", 9800], "Miracle Seed", "Mystic Water", "Never-Melt Ice"])
 
-!shop("Spinel Museum Gifts (Middle)", ["Poison Barb", "Sharp Beak", "Silk Scarf", "Silver Powder", "Soft Sand", "Spell Tag", "Twisted Spoon", "Pixie Plate", "Thick Club"], [nil, nil, nil, nil, nil, nil, nil, 9800, 9800])
+!shop("Spinel Museum Gifts (Middle)", ["Poison Barb", "Sharp Beak", "Silk Scarf", "Silver Powder", "Soft Sand", "Spell Tag", "Twisted Spoon", ["Pixie Plate", 9800], ["Thick Club", 9800]])
 
-!shop("Spinel Museum Gifts (Right)", ["Dome Fossil", "Root Fossil", "Skull Fossil"], [9800, 9800, 9800])
+!shop("Spinel Museum Gifts (Right)", [["Dome Fossil", 9800], ["Root Fossil", 9800], ["Skull Fossil", 9800]])
 
 We also got a couple fossils while we were away - meaning upstairs we can now get the other one of **Archen** or **Tirtouga** as well as **Aerodactyl**!
 

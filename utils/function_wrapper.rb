@@ -197,8 +197,8 @@ class FunctionWrapper
     return @encGetter.get_encounter_md(map_id, include_list, rods, custom_map_name)
   end
 
-  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil, bold_items=nil)
-    return @shopGetter.generate_shop_markdown(shop_title, shop_items, price_overrides, bold_items)
+  def generate_shop_markdown(shop_title, shop_items)
+    return @shopGetter.generate_shop_markdown(shop_title, shop_items)
   end
 
   def generate_trainer_markdown(trainer_id, field=nil)
@@ -213,7 +213,7 @@ class FunctionWrapper
     return @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, true)
   end
 
-  def generate_tutor_markdown(tutor_title, moves, prices)
+  def generate_tutor_markdown(tutor_title, moves)
     # Creates nokogiri HTML
     doc = Nokogiri::HTML::Document.new
     div = doc.create_element('div', class: 'tutor_table')
@@ -235,7 +235,7 @@ class FunctionWrapper
     table_header['class'] = 'table-header'
     table_header['style'] = 'text-align: center;'
     
-    moves.zip(prices).each do |move, price|
+    moves.each do |move, price|
 
       content_row = doc.create_element('tr')
       table.add_child(content_row)
@@ -245,7 +245,10 @@ class FunctionWrapper
       td_move.add_child(doc.create_element('strong', content=move))
       content_row.add_child(td_move)
       
-      # Column 2: Mon List With Prob
+      # Column 2: Price
+      if price.is_a?(Integer)
+        price = "$#{price}"
+      end
       td_price = doc.create_element('td', style: 'text-align: center')
       td_price.content = price
       content_row.add_child(td_price)
@@ -259,7 +262,7 @@ end
 
 def main
   fw = FunctionWrapper.new('reborn')
-  puts fw.generate_wild_held_markdown
+  # puts fw.generate_wild_held_markdown
 end
 
 main if __FILE__ == $PROGRAM_NAME

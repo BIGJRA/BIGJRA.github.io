@@ -23,7 +23,7 @@ Having Strength means there is a lot of exploration that we can now do. First of
 
 First, note that the candy store has new inventory now.
 
-!shop("Sweet Kiss (Bottom) (5-6 Badges)", ["Common Candy", "Exp. Candy XS", "Exp. Candy S", "Exp. Candy M", "Exp. Candy L", "Rare Candy"], [nil, 500, 2000, 5000, 10000, nil])
+!shop("Sweet Kiss (Bottom) (5-6 Badges)", ["Common Candy", ["Exp. Candy XS", 500], ["Exp. Candy S", 2000], ["Exp. Candy M", 5000], ["Exp. Candy L", 10000], "Rare Candy"])
 
 Back in Opal Ward, there are new trainers on the bridge.
 

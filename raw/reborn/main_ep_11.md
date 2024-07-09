@@ -42,19 +42,19 @@ Hidden around the map you'll find 2 *Purple Shards*, *Common Candy*, 2 *Blue Sha
 
 Towards the top of the map you'll find an *Ability Capsule* salesperson. They'll trade you one for first 1, then 2, and from then on 3 shards of a random color. Useful! Up and to the right we'll find a couple of tutors.
 
-!tutor("Seventh Street Move Tutor 1", ["Role Play", "Covet", "Electroweb", "Sky Attack"], ["1 Purple Shard", "3 Blue Shards", "3 Green Shards", "2 Red Shards"])
+!tutor("Seventh Street Move Tutor 1", [["Role Play", "1 Purple Shard"], ["Covet", "3 Blue Shards"], ["Electroweb", "3 Green Shards"], ["Sky Attack", "2 Red Shards"]])
 
-!tutor("Seventh Street Move Tutor 2", ["Trick", "Defog", "Laser Focus", "Skill Swap"], ["2 Purple Shards", "2 Red Shards", "1 Blue Shard", "1 Green Shard"])
+!tutor("Seventh Street Move Tutor 2", [["Trick", "2 Purple Shards"], ["Defog", "2 Red Shards"], ["Laser Focus", "1 Blue Shard"], ["Skill Swap", "1 Green Shard"]])
 
-!tutor("Seventh Street Move Tutor 3", ["Water Pulse", "Last Resort", "Super Fang", "Shock Wave"], ["3 Blue Shards", "2 Purple Shards", "3 Green Shards", "3 Red Shards"])
+!tutor("Seventh Street Move Tutor 3", [["Water Pulse", "3 Blue Shards"], ["Last Resort", "2 Purple Shards"], ["Super Fang", "3 Green Shards"], ["Shock Wave", "3 Red Shards"]])
 
-!tutor("Seventh Street Move Tutor 4", ["Headbutt", "Bounce", "Heal Bell", "Bug Bite"], ["3 Blue Shards", "3 Purple Shards", "4 Green Shards", "3 Red Shards"])
+!tutor("Seventh Street Move Tutor 4", [["Headbutt", "3 Blue Shards"], ["Bounce", "3 Purple Shards"], ["Heal Bell", "4 Green Shards"], ["Bug Bite", "3 Red Shards"]])
 
 None of these are mindblowing, but some of them can be useful for certain strategies. As usual, these are pay once, relearn forever.
 
 The guy to the right is selling random stuff:
 
-!shop("Seventh Street Misc. Wares (Right)", ["Adrenaline Orb", "Metal Powder", "Ill-Fated Doll", "Iron Ball", "Lucky Punch", "Eject Button", "Data Chip", "Magnet Powder", "TM64 Explosion"], [nil, nil, nil, nil, nil, nil, nil, nil, 7500])
+!shop("Seventh Street Misc. Wares (Right)", ["Adrenaline Orb", "Metal Powder", "Ill-Fated Doll", "Iron Ball", "Lucky Punch", "Eject Button", "Data Chip", "Magnet Powder", ["TM64 Explosion", 7500]])
 
 Pricey, but we finally have the ability to get as many data chips as we want for password inputs. We will also want a Magnet Powder for a quest later. There is another seller in the bottom left corner.
 
@@ -70,7 +70,7 @@ Blast Powder will essentially let us mine all the mining rocks a second time. Bu
 
 Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokémon we previously worked with in the Blacksteam Meteor Factory.
 
-!shop("Seventh Street Pokémon", ["Vanillite", "Loudred", "Roggenrola", "Abra", "Lickitung", "Makuhita", "Jigglypuff", "Cyndaquil"], ["3 Purple Shards", "5 Blue Shards", "3 Red Shards", "8 Purple Shards", "7 Blue Shards", "3 Green Shards", "5 Green Shards", "9 Red Shards"], true)
+!shop("Seventh Street Pokémon", [["Vanillite", "3 Purple Shards", true], ["Loudred", "5 Blue Shards", true], ["Roggenrola", "3 Red Shards", true], ["Abra", "8 Purple Shards", true], ["Lickitung", "7 Blue Shards", true], ["Makuhita", "3 Green Shards", true], ["Jigglypuff", "5 Green Shards", true], ["Cyndaquil", "9 Red Shards", true]])
 
 There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners. I recommend breeding these Pokémon if you want to use them long term, keeping the originals in your PC.
 

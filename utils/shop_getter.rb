@@ -10,9 +10,7 @@ class ShopGetter
     @priceLookup = load_price_lookup()
   end
 
-  def generate_shop_markdown(shop_title, shop_items, price_overrides=nil, bold_items=nil)
-    price_overrides ||= [nil] * shop_items.length
-
+  def generate_shop_markdown(shop_title, shop_items)
     # Creates nokogiri HTML
     doc = Nokogiri::HTML::Document.new
     div = doc.create_element('div', class: 'shop_section')
@@ -37,13 +35,18 @@ class ShopGetter
     table_header['class'] = 'table-header'
     table_header['style'] = 'text-align: center;'
     
-    shop_items.each_with_index do |item, position|
+    shop_items.each_with_index do |thing, position|
+      if thing.is_a?(String)
+        item, price, bold_flag = thing, nil, false
+      else
+        item, price, bold_flag = thing[0], thing[1], thing[2]
+      end
       content_row = doc.create_element('tr')
       table.add_child(content_row)
       
       # Column 1: Item Name (italicized)
       td_item = doc.create_element('td', style: 'text-align: center')
-      if bold_items
+      if bold_flag
         td_item.add_child(doc.create_element('strong', content=item))
       else
         td_item.add_child(doc.create_element('em', content=item))
@@ -51,8 +54,8 @@ class ShopGetter
       content_row.add_child(td_item)
     
       # Column 2: Price
-      price = price_overrides[position].nil? ? @priceLookup[item] : price_overrides[position]
-      if price_overrides[position].nil? || price_overrides[position].is_a?(Integer)
+      price = price.nil? ? @priceLookup[item] : price
+      if price.is_a?(Integer)
         price = "$#{price}"
       end
       td_price = doc.create_element('td', style: 'text-align: center')
@@ -80,7 +83,7 @@ end
 def main
   e = ShopGetter.new('reborn')
   puts e.generate_shop_markdown("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
-  puts e.generate_shop_markdown("Opal Ward Ice Cream Store", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"], [1,2,nil,4])
+  puts e.generate_shop_markdown("Opal Ward Ice Cream Store", [["Vanilla Ice Cream", 1], "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
 end
 

@@ -149,7 +149,7 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 **Grand Hall Common Candy Shop**
 
-!shop("Grand Hall Candy", ["Common Candy"], [75])
+!shop("Grand Hall Candy", [["Common Candy", 75]])
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokémon's level. Reborn's disobedience system means that Pokémon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokémon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
@@ -442,7 +442,7 @@ Anyways, a small house up from here contains a *Protein*, which again I recommen
 
 In the building up and left from here, you can talk to a guy to get a *Common Candy*. Outside, during clear or sunny days, there is a shop.
 
-!shop("Peridot Ward Snax", ["PokéSnax"], [200])
+!shop("Peridot Ward Snax", [["PokéSnax", 200]])
 
 If you use up your PokéSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
 

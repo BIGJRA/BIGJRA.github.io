@@ -79,7 +79,7 @@ There is a 1% chance you will actually get a *Blue Moon Ice Cream* whenever you 
 
 If you're planning on evolving Swirlix, grab a Whipped Dream. We will eventually need another Whipped Dream for a quest. Cotton Candy functions as a Revive, but is very expensive. The rest are just expensive versions of the status healing items, but all raise friendship.
 
-!shop("Sweet Kiss (Bottom) (0-1 Badges)", ["Common Candy", "Exp. Candy XS", "Rare Candy"], [nil, 500, nil])
+!shop("Sweet Kiss (Bottom) (0-1 Badges)", ["Common Candy", ["Exp. Candy XS", 500], "Rare Candy"])
 
 Since grinding trainers give them every time you beat them, you don't need to spend your precious money on Exp. Candy or the expensive Rare Candies.
 
@@ -508,17 +508,17 @@ The third room contains a *Quick Claw*. Talk to a guy staring at the wall in the
 
 In this door, go to the left. Here you'll find the first tutors.
 
-!tutor("OTS Move Tutor 1", ["Iron Defense", "Snore", "Bind", "Spite"], ["$1000", "$500", "$500", "$250"])
+!tutor("OTS Move Tutor 1", [["Iron Defense", 1000], ["Snore", 500], ["Bind", 500], ["Spite", 250]])
 
-!tutor("OTS Move Tutor 2", ["Magic Coat", "Magic Room", "Wonder Room", "Telekinesis"], ["$500", "$500", "$500", "$100"])
+!tutor("OTS Move Tutor 2", [["Magic Coat", 500], ["Magic Room", 500], ["Wonder Room", 500], ["Telekinesis", 100]])
 
 It's worth noting that every tutor in the game will only charge you once per move - so don't feel bad about deleting a tutor move once you've learned it once since you can go get it back for free.
 
 In the room above there are more tutors!
 
-!tutor("OTS Move Tutor 3", ["Gravity", "Magnet Rise", "Block", "Worry Seed"], ["$500", "$500", "$500", "$1000"])
+!tutor("OTS Move Tutor 3", [["Gravity", 500], ["Magnet Rise", 500], ["Block", 500], ["Worry Seed", 1000]])
 
-!tutor("OTS Move Tutor 4", ["Snatch", "Helping Hand", "Ally Switch", "After You"], ["$500", "$500", "$250", "$250"])
+!tutor("OTS Move Tutor 4", [["Snatch", 500], ["Helping Hand", 500], ["Ally Switch", 250], ["After You", 250]])
 
 Head upstairs to grab the *Desert Field Readout*!
 
@@ -547,7 +547,7 @@ Before we continue to the gym, now is a good time to wrap up a couple of quests 
 
 First, head on over to the Arcade. With our Coin Case, we can now go to town here. Note that by interacting with NPC's and random tiles throughout, you can pick up 1205 Coins for free.
 
-!shop("Onyx Arcade Coins", ["50 Coins", "500 Coins"], [1000, 10000])
+!shop("Onyx Arcade Coins", [["50 Coins", 1000], ["500 Coins", 10000]])
 
 Unless you're coming back here really late in the game, don't buy coins. They're way too expensive, and starting with the free coins you can get up to the magic number needed to get all the rewards: 23900 coins.
 
@@ -555,11 +555,11 @@ You can play the slots, roulette, or Voltorb Flip. Previous versions of the guid
 
 All you need to do is save before playing the board, pick any spot (12x payout), and play all seven balls. Note that you need to switch to a new spot if you get a jackpot on your current pick. Reset if you don't get a single jackpot on any of the seven balls, otherwise, save after all seven balls have been played. Even if you only hit one spot, you'll net 500 coins per round, a payout which only gets better the more jackpots you manage to get. You'll reach your target in no time.
 
-!shop("Onyx Arcade TMs", ["TM45 Attract", "TM42 Facade", "TM90 Substitute"], ["1000 Coins", "4000 Coins", "7000 Coins"])
+!shop("Onyx Arcade TMs", [["TM45 Attract", "1000 Coins"], ["TM42 Facade", "4000 Coins"], ["TM90 Substitute", "7000 Coins"]])
 
 These TMs have very wide pools of candidates, so grabbing them will generally be helpful in the early game when your movesets aren't complete yet.
 
-!shop("Onyx Arcade Pokémon", ["Snover", "Slugma", "Mantyke", "Nidoran M", "Shinx"], ["600 Coins", "1000 Coins", "1800 Coins", "3500 Coins", "5000 Coins"], true)
+!shop("Onyx Arcade Pokémon", [["Snover", "600 Coins", true], ["Slugma", "1000 Coins", true], ["Mantyke", "1800 Coins", true], ["Nidoran M", "3500 Coins", true], ["Shinx", "5000 Coins", true]])
 
 All of these Pokémon have something going for them:
 

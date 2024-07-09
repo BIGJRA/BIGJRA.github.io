@@ -275,7 +275,7 @@ Fly back to Victory Road. Inside the Pokémon Center, talk to an NPC who will se
 
 Before we enter Victory Road, there's actually one more tutor that we now have access to. Fly over to the Grand Hall and talk to the guy to your right.
 
-!tutor("Move Tutor Lykos", ["Celebrate", "Happy Hour"], ["Free", "Free"])
+!tutor("Move Tutor Lykos", [["Celebrate", "Free"], ["Happy Hour", "Free"]])
 
 Fun fact: this NPC was put in the game in honor of forum user LykosHand, who frequently wishes users a happy birthday! I have probably received 5 or 6 of these messages to date; they always make me celebrate. Thanks, Lykos.
 
