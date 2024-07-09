@@ -95,22 +95,7 @@ She will give us our first of many legendary quests: we're wanted in Vanhanen Ca
 
 Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a New World Door on the second level. Head in.
 
-**New World (Vanhanen Castle)**
-
-|Land               |%  |
-|-------------------|---|
-|Linoone            |20 |
-|Musharna           |20 |
-|Wigglytuff         |10 |
-|Mightyena          |10 |
-|Camerupt           |10 |
-|Gumshoos           |10 |
-|Komala             |5  |
-|Ursaring           |5  |
-|Shiinotic          |4  |
-|Amoonguss          |4  |
-|Cinccino           |1  |
-|Gardevoir          |1  |
+!enc(831, nil, nil, "New World (Vanhanen Castle)")
 
 Enter the door in the top right, follow the path, and talk to the orb. Return to the New World hub. This time, follow the door in the top left. Talk to the orb at the end and return. Finally, go to the bottom right and talk to the Shiinotic.
 
@@ -118,7 +103,7 @@ Enter the door in the top right, follow the path, and talk to the orb. Return to
 
 Talk to the next orb. The door at the top of the hub will now be open: follow it and defeat another Shiinotic. Grab the next orb.
 
-Back in the hub, enter the top right room once more. The door at teh top will now be unlocked, so follow it in.
+Back in the hub, enter the top right room once more. The door at the top will now be unlocked, so follow it in.
 
 !battle(["Cresselia", :CRESSELIA, 0], "New World")
 
@@ -126,7 +111,7 @@ Our first Anomaly battle! Note that this another fight on the New World field. T
 
 Once you win, you'll be immediately thrown into a battle with a wild **Cresselia**, which you can now catch. Don't worry, this fight is much easier than the previous, you just have to catch it. It's worth noting that you can often mash the auto-save key (default 'D') between the Anomaly battle and the legendary fight if you want. You can also grind the Nightclub facilities to get Reborn Balls if catching the legendaries is too much of a pain.
 
-Luna will give us the *Gather Cube* afterwards. Sorry for any Rejuvenation players having terrible flashbacks right about now.
+Luna will give us the *Gather Cube* afterwards.
 
 Return to the Nightclub!
 
