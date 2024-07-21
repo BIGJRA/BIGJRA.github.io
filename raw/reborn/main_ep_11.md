@@ -72,7 +72,7 @@ Enter the cage area in the bottom right corner. Here, a guy will be selling all 
 
 !shop("Seventh Street Pokémon", [["Vanillite", "3 Purple Shards", true], ["Loudred", "5 Blue Shards", true], ["Roggenrola", "3 Red Shards", true], ["Abra", "8 Purple Shards", true], ["Lickitung", "7 Blue Shards", true], ["Makuhita", "3 Green Shards", true], ["Jigglypuff", "5 Green Shards", true], ["Cyndaquil", "9 Red Shards", true]])
 
-There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Lickitung, and Makuhita to their original owners. I recommend breeding these Pokémon if you want to use them long term, keeping the originals in your PC.
+There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Jigglypuff, and Makuhita to their original owners. I recommend breeding these Pokémon if you want to use them long term, keeping the originals in your PC.
 
 If you've been picking up hidden items and mining most of the rocks, you should have enough shards to get every Pokémon here, but you can always come back later to complete this quest. From now on, shards will mainly be useful only for unlocking tutors and buying Ability Capsules.
 
