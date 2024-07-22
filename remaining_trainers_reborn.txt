@@ -17,13 +17,10 @@
 ["Clone", :ALTARI, 0] - Placeholder teams for the clone fights
 ["Clone", :ALTDECIBEL, 0] - Placeholder teams for the clone fights
 
-["Alistasia", :RINGMASTER, 0]
 ["Heather", :HEATHER, 2]
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
-["Trevor", :AceTrainerM, 0]
-["Tac", :PkMnRANGER_Male, 0]
 ["Florinia", :FLORINIA, 4]
 ["Arclight", :ARCLIGHT, 2]
 ["Cain", :Cain, 7]
