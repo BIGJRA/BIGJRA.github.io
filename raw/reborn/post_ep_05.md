@@ -6,45 +6,13 @@ The level cap secretly has risen to Lv. 125!
 
 Talk to Nyu in the Nightclub and accept his quest. Fly on over to the Agate Circus, head to Route 2, then enter the Ametrine Mountain on top. From here, surf down the waterfall into 1F. Move the boulder from below on the left side, then climb the waterfall to cross the path from above. Dive down here to reach B1F.
 
-Once you cross the ice puzzle, go to the top left corner of this room and dive down. Follow this path all the way to a New World Door!
+Once you cross the B2F ice puzzle, go to the top left corner of this room and dive down. Follow this path all the way to a New World Door!
 
-**Unexplored Territory Underwater**
-
-|Land               |%  |
-|-------------------|---|
-|Dewgong            |25 |
-|Lanturn            |20 |
-|Octillery          |15 |
-|Seaking            |10 |
-|Corsola            |10 |
-|Quagsire           |10 |
-|Gyarados           |5  |
-|Vaporeon           |5  |
+!enc(856, nil, nil, "Unexplored Territory Underwater")
 
 Proceed to the dive spot and surface.
 
-**Unexplored Territory**
-
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Xatu               |20 |Golduck            |60 |
-|Azumarill          |20 |Kabutops           |30 |
-|Fearow             |10 |Aerodactyl         |5  |
-|Jumpluff           |10 |Lapras             |5  |
-|Scyther            |10 |                   |   |
-|Farfetch'd         |10 |                   |   |
-|Rapidash           |5  |                   |   |
-|Golduck            |5  |                   |   |
-|Espeon             |5  |                   |   |
-|Electrode          |4  |                   |   |
-|Ninetales          |1  |                   |   |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Kabuto             |70 |Omanyte            |60 |Omastar            |41 |
-|Omanyte            |30 |Qwilfish           |20 |Mantine            |40 |
-|                   |   |Staryu             |20 |Qwilfish           |15 |
-|                   |   |                   |   |Starmie            |4  |
+!enc(857)
 
 Go down and weasel your way between some rocks to find:
 
@@ -53,6 +21,8 @@ Go down and weasel your way between some rocks to find:
 !img("zcell_26.jpg")
 
 Head up onto the land once you're ready for a battle with Florinia as your ally.
+
+!partner(["Florinia", :FLORINIA, 4])
 
 !dbattle(["Latias", :LATIAS, 0], ["Latios", :LATIOS, 0], "Mountain Field")
 
@@ -117,22 +87,7 @@ At the top of the large building in the top left corner, the solution:
 
 Return to Latias, up from here is a new path we can follow. Enter this room.
 
-**Unexplored Territory Forest Room**
-
-|Land               |%  |
-|-------------------|---|
-|Ariados            |20 |
-|Yanmega            |20 |
-|Butterfree         |10 |
-|Beedrill           |10 |
-|Victreebel         |10 |
-|Farfetch'd         |10 |
-|Honchkrow          |5  |
-|Vileplume          |5  |
-|Vaporeon           |4  |
-|Ninetales          |4  |
-|Espeon             |1  |
-|Kabutops           |1  |
+!enc(859, nil, nil, "Unexplored Territory Forest Room")
 
 Inside this forest-like room, we can diagnose another emotion:
 
@@ -162,28 +117,7 @@ Talk to Aster in the Nightclub and agree to the quest. Make your way through Vic
 
 When you're in Aegir Cave, make your way down onto the lake and dive down. You'll see a crack of light towards the bottom, slightly right and down from the underwater cave entrance we previously entered. Enter the cave via this crack of light and surface.
 
-**Aegir Cave Depths**
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Frillish           |100|Frillish           |60 |Jellicent          |55 |
-|                   |   |Alomomola          |20 |Alomomola          |40 |
-|                   |   |Staryu             |20 |Starmie            |5  |
-
-|Cave               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Sableye            |20 |Lumineon           |60 |
-|Carbink            |20 |Empoleon           |30 |
-|Froslass           |10 |Chimecho           |5  |
-|Mawile             |10 |Lapras             |4  |
-|Vivillon           |10 |Azumarill          |1  |
-|Ribombee           |10 |                   |   |
-|Butterfree         |5  |                   |   |
-|Roserade           |5  |                   |   |
-|Volbeat            |4  |                   |   |
-|Illumise           |4  |                   |   |
-|Florges            |1  |                   |   |
-|Araquanid          |1  |                   |   |
+!enc(860)
 
 Grab a hidden *Rawst Berry*, then surf to the left and climb the waterfall to reach:
 
@@ -207,7 +141,7 @@ You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next ha
 
 !img("zcell_29.jpg")
 
-Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also gcontains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poké Ball*. Talk to our pal when you're ready for a fight.
+Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also contains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poké Ball*. Talk to our pal when you're ready for a fight.
 
 !battle(["Cain", :UMBCAIN, 0], "Dark Crystal Cavern")
 
@@ -219,7 +153,7 @@ In the next room, use the Light Shard and grab the hidden *Dusk Ball* and *Max R
 
 These two don't make up a massive team, but are quite a huge pain. Try to get rid of Diancie on the first turn: the simplest way is probably using the Steelium-Z. Afterward, two at a time, you'll have to wear down the Crystal Aegislash. Knocking down one of its defensive stats may be useful - due to its massive HP, Counter and Mirror Coat may not be as effective. Endeavor, Destiny Bond, etc. are all excellent here as well. Or, the fun way: changing the field to Cave and collapsing it!
 
-Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Escape from here.
+Afterwards, you'll be able to fight and catch **Diancie**. Behind is the *Griseous Orb*, for some reason. Talk to Cain outside, then agree to escape together.
 
 It's worth noting that now that we've gotten to fight Crystal Aegislash, two of the developers in the Grand Hall secret room have slightly updated teams.
 
