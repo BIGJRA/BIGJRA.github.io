@@ -10,6 +10,10 @@ Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety
 
 Head down to the Lower Peridot Ward. If we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokémon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
 
+Now that we've defeated Adrienn there is one more move tutor in Peridot Ward's Mosswater Market:
+
+!tutor("Mosswater Market Move Tutor: \"Snooze\"", [["Gunk Shot", "6 Blue Shards"], ["Dragon Pulse", "6 Green Shards"], ["Seed Bomb", "6 Purple Shards"], ["Foul Play", "7 Red Shards"]])
+
 ## Reborn Restoration Project 1
 
 Head over to the Grand Hall. One of the guys behind the desk will be accepting donations for one of three projects.
@@ -823,6 +827,10 @@ Pokémon Reborn Episode 17 actually came out and allowed players to get two badg
 If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. 
 
 Even if you have completed this part, fly over to the Nightclub anyways, where you can pet Jolteon for the quest.
+
+Now that we've defeated Titania, there is one more move tutor in Peridot Ward's Mosswater Market:
+
+!tutor("Mosswater Market Move Tutor: Tim", [["Superpower", "8 Blue Shards"], ["Earth Power", "9 Green Shards"], ["Outrage", "8 Purple Shards"], ["Heat Wave", "9 Red Shards"]])
 
 Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
 

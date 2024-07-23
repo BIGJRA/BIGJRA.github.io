@@ -8,6 +8,10 @@ First, a new default mart inventory update:
 
 !shop("Default Mart (17 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion", "Max Potion"])
 
+Now that we've defeated Hardy, there is one final move tutor in Peridot Ward's Mosswater Market:
+
+!tutor("Mosswater Market Move Tutor: Elder", [["Hydro Cannon", "3 Blue Shards"], ["Frenzy Plant", "3 Green Shards"], ["Blast Burn", "3 Red Shards"], ["Draco Meteor", "9 Red Shards"]])
+
 ## Labradorra City
 
 Fly over to Calcenon City. Talk to Hardy on the west side of the city.

@@ -21,7 +21,6 @@
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
-["Florinia", :FLORINIA, 4]
 ["Arclight", :ARCLIGHT, 2]
 ["Cain", :Cain, 7]
 ["Titania", :TITANIA1, 1]

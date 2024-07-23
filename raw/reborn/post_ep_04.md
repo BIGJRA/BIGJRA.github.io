@@ -8,86 +8,73 @@ First, talk to Marcello on the left for a new quest. He'll also sell us some Lem
 
 !shop("Marcello's Lemonade (Nightclub)", [["Lemonade", 350], ["Blue Moon Lemonade", 100000000]])
 
-We actually can't progress to the end of postgame without buying a Blue Moon.... just kidding. But I bet I got some of you!
+We actually can't progress to the end of postgame without buying a Blue Moon.... just kidding.
 
 Make your way to the Grandview Station, then head to the desert. As soon as you get off the train, go up a few tiles from the train station then go straight to the right. You'll find a New World Door!
 
-**Twilight Desert**
+!enc(841)
 
-|Cave               |%  |
-|-------------------|---|
-|Mandibuzz          |20 |
-|Marowak            |20 |
-|Magneton           |10 |
-|Golem              |10 |
-|Lunatone           |10 |
-|Rampardos          |10 |
-|**Stakataka**      |5  |
-|Aerodactyl         |5  |
-|Mawile             |4  |
-|Dhelmise           |4  |
-|Weavile            |1  |
-|Umbreon            |1  |
+!img("twilight.png")
 
-This map actually loops back onto itself from its west and east ends, so is a bit tricky to navigate. Hope you like Zygarde Cells, by the way. If you don't care about collecting them, you can just go straight up in this area.
+This map actually loops back onto itself from its west and east ends, so is a bit tricky to navigate. The map above should help you get a feel for which parts of the map connect. Hope you like Zygarde Cells, by the way. If you don't care about collecting them, you can just go straight up in this area.
 
-Start by going straight to the left, hugging the bottom wall. You'll eventually find:
+Start by going straight to the left (path 5), hugging the bottom wall. You'll eventually find:
 
 **ZCell 05: Twilight Desert**
 
 !img("zcell_05.jpg")
 
-Make your way back to the entrance area, and go up into the next horizontal section. Go right, then down and left to reach:
+Make your way back to the entrance area, and go up into the next horizontal section. Go right, then down and left (path 6) to reach:
 
 **ZCell 06: Twilight Desert**
 
 !img("zcell_06.jpg")
 
-Make your way back to the "middle" of the map, and go up into the next horizontal section once more. To your right is a narrow pathway, but it leads to a dead end. Instead, go slightly up and follow the path left. You'll see two cells we can't get quite yet - keep following the path left for now. Eventually, you'll reach:
+Make your way back to the "middle" of the map, and go up into the next horizontal section once more. To your right is a narrow pathway, but it leads to a dead end. Instead, go slightly up and follow the path (7) left. You'll see two cells we can't get quite yet - keep following the path left for now. Eventually, you'll reach:
 
 **ZCell 07: Twilight Desert**
 
 !img("zcell_07.jpg")
 
-Backtrack all the way to the previous fork, this time, going up to the next horizontal section. Left from here, you'll find:
+Backtrack all the way to just southeast of the two cells separated by the palm tree above. Go up to the next horizontal section (follow path 8). Left from here, you'll find:
 
 **ZCell 08: Twilight Desert**
 
 !img("zcell_08.jpg")
 
-Next, go straight to the right, and follow the twisting path to the right. You'll eventually reach the other cell we saw earlier:
+Next, go straight to the right, and follow the twisting path (9) to the right. You'll eventually reach the other cell we saw earlier:
 
 **ZCell 09: Twilight Desert**
 
 !img("zcell_09.jpg")
 
-Head all the way back to the fork. Hopefully we're starting to understand how this area works! At this next fork, go left until you reach:
+Head all the way back to the middle. Hopefully we're starting to understand how this area works! Go up then left (path 10):
 
 **ZCell 10: Twilight Desert**
 
 !img("zcell_10.jpg")
 
-As you might expect, going right at the fork will lead you to:
+Going all the way right (path 11) will lead you to:
 
 **ZCell 11: Twilight Desert**
 
 !img("zcell_11.jpg")
 
-Back at the fork, climb the first set of dunes to go up a tier, but don't climb up the second quite yet. Follow the narrow path to the right to:
+Back in the middle, climb the first set of dunes to go up a tier, but don't climb up the second quite yet. Follow the narrow path (12) to the right to:
 
 **ZCell 12: Twilight Desert**
 
 !img("zcell_12.jpg")
 
-Back at the fork, climb the final set of dunes. Going up from here, you'll see a large structure. Start by going to the left. You'll see a lever at the top of some stairs - pull it. Head left from here, and you'll find:
+Back at the fork, climb the final set of dunes. Going up from here, you'll see a large structure. Start by going to the left (path 13). You'll see a lever (A) at the top of some stairs - pull it. Head left from here, and you'll find:
 
 **ZCell 13: Twilight Desert**
 
 !img("zcell_13.jpg")
 
-From here, continue going around the loop until you see an open door up some stairs. Head in. Inside, you'll find two screens. Talk to each screen, then head back out.
+From here, continue going around the loop until you see an open door up some stairs (gamma). Head in. Inside, you'll find two screens. Talk to each screen, then head back out.
 
-Go left from here, and you'll find a path up that leads to another lever and a door. The door is currently a dead end, so pull the lever, then left once more. Pull the first lever that we saw once more, then go left again. Enter the now-open door that you'll see. Talk to the machine to get:
+Go left from here, and you'll find a path up that leads to another lever (B) and a door (beta). The door is currently a dead end, so pull the lever, then left once more. Pull the first lever (A) once more, then go left again. Enter the now-open door (delta) that you'll see. Talk to the green machine on the left to get:
 
 **ZCell 14: Twilight Desert**
 
@@ -95,13 +82,13 @@ Go left from here, and you'll find a path up that leads to another lever and a d
 
 Talk to the machine on the right, and you'll be able to merge ten of the cells we've found so far into **Zygarde 10%**. You can deconstruct this Zygarde, if you want.
 
-Head outside, and go to the right. Past the first lever, there will be a new opened door. One of the monitors in here will give you as many Zygarde Cells as you've found so far in *Cell Imprints*, the game's ONLY way of increasing IV's on our Pokémon. As you might guess, the Cells are limited in total number, so be sure when you use these on your Pokémon. You can come back here anytime to get more as you get more Cells. Anyways, talk to the other machine then head back outside.
+Head outside, and go to the right. Past the first lever, there will be a new opened door (alpha, above). One of the monitors in here will give you as many Zygarde Cells as you've found so far in *Cell Imprints*, the game's ONLY way of increasing IV's on our Pokémon. As you might guess, the Cells are limited in total number, so be sure when you use these on your Pokémon. You can come back here anytime to get more as you get more Cells. Anyways, talk to the other machine then head back outside.
 
-From here, go right, then up. The gate inside is now gone, so you can head up. Talk to Florinia.
+From here, go right, then up. Enter the door here (beta). The gate inside is now gone, so you can head up. Talk to Florinia.
 
-That's all we have to do here for now. If you redo the first lever on the outside, the stairs to the left that lead into a room we previously checked out will reappear, and inside you can actually trade  Cell Imprints for *Negative Imprints*, which instead turn an IV to 0. Helpful for maximizing a Trick Room user's effectiveness. Given the limited number of these in the game, I don't recommend using them for lowering Atk, since the confusion damage is negligible at best.
+That's all we have to do here for now. If you pull the first lever outside to the left (A), the stairs to the left that lead into a room we previously checked out (gamma) will reappear. Inside, you can trade Cell Imprints for *Negative Imprints*, which instead turn an IV to 0. Helpful for maximizing a Trick Room or Gyro Ball user's effectiveness.
 
-Anyways, that's all for this area for a while. Feel free to return for more Cell and Negative Imprints. Return to the Nightclub!
+Feel free to return for more Cell and Negative Imprints when you need to, but for now return to the Nightclub!
 
 ## Anomaly at Chrysolia Springs
 
@@ -115,38 +102,23 @@ Another anomaly fight. Field boosted Steam Eruption, Heat Wave, Surf, etc. can a
 
 After winning, you'll be able to fight **Volcanion**. Exit and return to the Nightclub once you're done.
 
-## Poachers in the Chrysolia Deepwoods
+## Chrysolia Deepwoods Poachers
 
 Next, talk to Smeargle to get a new quest. Head outside and talk to Arclight, then fly over to Spinel Town. Enter the forest and enter the Lost Railcave in the bottom-right corner.
 
 In each room, enter the door that has two rocks closest to it. Eventually you will reach a room containing Arclight. After the conversation, enter the New World Door in the next path.
 
-**New World (Chrysolia Railcave)**
+!enc(847, nil, nil, "New World (Chrysolia Railcave)")
 
-|Land               |%  |
-|-------------------|---|
-|Golem              |20 |
-|Raichu             |20 |
-|Luxray             |10 |
-|Carbink            |10 |
-|Umbreon            |10 |
-|Solrock            |10 |
-|Lunatone           |5  |
-|Sableye            |5  |
-|Minior             |4  |
-|Rotom              |4  |
-|Shiinotic          |1  |
-|**Nihilego**       |1  |
-
-Make your way to the top right side of the area. You'll be able to sneak down to the upper path, follow this all the way around to the bottom left side to reach:
+Make your way to the top right side of the area. By going behind the tree, you'll be able to sneak around the top of the map to the top left corner. Follow this path there then all the way down to the bottom left side to reach:
 
 **ZCell 15: New World (Chrysolia Railcave)**
 
 !img("zcell_15.jpg")
 
-Back in the main area, interact with the tall pillar at the top of the hill to create some electric platforms at the bottom right. The path from here is straightforward... and if you're on Lin Route, you'll even get taunted as you activate the pillars.
+Back in the center, climb the stairs on the hill and interact with the tall pillar at the top of the hill to create some electric platforms at the bottom right. If you're on Lin Route, you'll get taunted as you activate the pillars. Anyways, follow the new path.
 
-One of the islands towards the bottom has a *Max Repel* on it. Eventually you'll have to backtrack to reach the next set of electric platforms, proceed to the left once you backtrack enough.
+Activate pillars on these islands, then follow the paths they create. One of the islands towards the bottom has a *Max Repel* on it. Eventually you'll have to backtrack to reach the next set of electric platforms, proceed to the left once you backtrack enough.
 
 On Lin Route, you'll be given a prompt to release some of your Pokémon. This event is huge and branching... but aside from tons of great dialogue, the only thing that 'matters' aside from your morals is that if you release a lot of Pokémon, you'll get a *Sacred Ash*. You can back out of the PC a bunch of times if you don't want to release anything.
 
@@ -206,73 +178,33 @@ Bennett will just do it for you if you fail too many times.
 
 Once you succeed, head up. Grab the hidden *Exp. Candy XL* and proceed. Enter the New World Door.
 
-**New World (Victory Road)**
-
-|Land               |%  |
-|-------------------|---|
-|Simisear           |20 |
-|Simipour           |20 |
-|Sudowoodo          |10 |
-|Komala             |10 |
-|Roserade           |10 |
-|Seaking            |10 |
-|Heatmor            |5  |
-|Camerupt           |5  |
-|Sigilyph           |4  |
-|Darmanitan         |4  |
-|Nidoking           |1  |
-|Beheeyem           |1  |
+!enc(852, nil, nil, "New World (Victory Road)")
 
 Follow the path to the next area.
 
-**Aegir Cave**
+!enc(850)
 
-|Land               |%  |
-|-------------------|---|
-|Simisage           |20 |
-|Girafarig          |20 |
-|Carbink            |10 |
-|Zebstrika          |10 |
-|Sawsbuck           |10 |
-|Farfetch'd         |10 |
-|Stantler           |5  |
-|Rapidash           |5  |
-|Mudsdale           |4  |
-|Swoobat            |4  |
-|Gourgeist          |1  |
-|Golurk             |1  |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Clauncher          |70 |Wishiwashi         |60 |Clawitzer          |80 |
-|Wishiwashi         |30 |Clawitzer          |20 |Wishiwashi         |15 |
-|                   |   |Wimpod             |20 |Golisopod          |5  |
-
-|Water              |%  |Rock Smash         |%  |Headbutt           |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Surskit            |90 |Shuckle            |100|Wurmple            |100|
-|Drifblim           |5  |                   |   |                   |   |
-|Masquerain         |5  |                   |   |                   |   |
+!enc(849, ["Headbutt"])
 
 Head to the left and talk to Bennett and Serra. Bennett will ask us to gather 7 ingredients: Sweet Apple, Tart Apple, Balm Mushroom, Pecha Berry, Berry Juice, Stick, and Rage Powder. He'll also offer to teach Headbutt to one of our Pokémon, if we need it.
 
-Time to wander around the area looking for these things. On this floor you can find a hidden *Ultra Ball*, *Nest Ball*, and *Ability Capsule*. Start by jumping into the hole towards the left side, down a muddy slope. On this bottom level, you can talk to a tree to get the *Sweet Apple*.
+Time to wander around the area looking for these things. On this floor you can find a hidden *Ultra Ball*, *Net Ball*, and *Ability Capsule*. Start by jumping into the hole towards the left side, down a muddy slope. On this bottom level, you can talk to a tree to get the *Sweet Apple*.
 
-Jump down the muddy slope to the left. Towards the top of this area, hop across the pillars to get a hidden *Blue Shard*, *Stardust*, and *Full Heal*. You can also grab the *Tart Apple* in a nearby tree. Backtrack, and go down to find a hidden *Ultra Ball*. Going to the right will lead us to red trees where we can grab some *Rage Powder*. Climb the ladder to the left.
+Jump down the muddy slope to the left. Towards the top of this area, hop across the pillars to get a hidden *Blue Shard*, *Stardust*, and *Full Heal*. You can also grab the *Tart Apple* in a nearby tree. Backtrack to the left side of the lake, and go down to find a hidden *Ultra Ball*. Going to the right past some trees will lead us to red trees where we can grab some *Rage Powder*. Climb the ladder to the left.
 
-Back on the upper level, you can find a hidden *Pecha Berry* in a rock. You can also steal them from wild Wurmple if you lose this one, somehow. On the bottom right of this area are some pillars, leading to a hidden *Dusk Ball* as well as:
+Back on the upper level, go up to find a hidden *Pecha Berry* in a rock. You can also steal them from wild Wurmple if you lose this one, somehow. On the bottom right of this area are some pillars, leading to a hidden *Dusk Ball* as well as:
 
 **ZCell 17: Aegir Cave**
 
 !img("zcell_17.jpg")
 
-Return to the bottom floor and take the ladder up, in the top left. Make your way back to Bennett, then jump in the hole above him. Grab the hidden *Ultra Ball*, then climb down the rocks and get onto the water. Grab the hidden *Nugget* below the pillars, as well as:
+Return to the bottom floor and take the ladder up, in the top left. Make your way back to Bennett, then jump in the hole above him. Grab the *Ultra Ball*, then climb down the rocks and get onto the water. Grab the hidden *Nugget* below the pillars, as well as:
 
 **ZCell 18: Aegir Cave**
 
 !img("zcell_18.jpg")
 
-Return to the upper level. All the way in the bottom right corner, you can jump across a stone and into a hole. Climb the waterfall to reach:
+Hop down the mudslide then return to the upper level. All the way in the bottom right corner, you can jump across a stone and into a hole. Climb the waterfall to reach:
 
 **ZCell 19: Aegir Cave**
 
@@ -280,15 +212,7 @@ Return to the upper level. All the way in the bottom right corner, you can jump 
 
 Head back down and dive.
 
-**Aegir Cave Underwater**
-
-|Land               |%  |
-|-------------------|---|
-|Lanturn            |30 |
-|Seaking            |20 |
-|Golisopod          |20 |
-|Corsola            |18 |
-|Relicanth          |12 |
+!enc(851, nil, nil, "Aegir Cave Underwater")
 
 You'll find a hidden *Max Repel*, *Super Potion*, and *Net Ball* down here. Surface at the end, grabbing the hidden *Berry Juice* in this room. You can steal these from wild Shuckle if you lose this one.
 
@@ -300,11 +224,11 @@ Back down on the large lake, dive down. You'll be able to find a hidden *Blue Sh
 
 !img("zcell_20.jpg")
 
-Talk to Serra near the bottom of the lake, then head right and climb the ladder. Back on the upper level, go to the top right corner and use the ladder here to reach a *Stick*. That's all the ingredients, so return to Bennett. Once you're ready, talk to **Victini** for a battle!
+Surface, then talk to Serra near the bottom of the lake. Head right and climb the ladder. Back on the upper level, go to the top right corner and use the ladder here to reach a *Stick*. That's all the ingredients, so return to Bennett. Once you're ready, talk to **Victini** for a battle!
 
 Agree to walk back with them.
 
-## The Agate Circus Ferris Wheel
+## Agate Circus Ferris Wheel
 
 Talk to Cass in the Nightclub, then fly over to the Agate Circus. The Ferris Wheel area is finally open, so make your way there.
 
@@ -350,30 +274,15 @@ Talk to the Ringmaster once you're done, and Meloetta will run over to the battl
 
 !dbattle(["Meloetta", :MELOETTA, 0], ["Multilyrical Melody", :ANTICS, 0], "Random Field")
 
-Another 12v6. Oh boy. Although the field is random, there is a good chance that one of the Malamars will try to use Topsy-Turvy, transforming the field into Inverse Field. Just like on New World, that will activate all of the Magical Seeds, turning them into omniboosts. On top of the fact that they have lots of coverage in the types made extra good on this field - Ice, Bug, etc., means you'll be taking a lot of damage real fast. Either you can try to roll with this field, bringing moves that will be able to hit super effectively on Inverse, or you can suppress it by knocking out both Malamar's before it's too late. This can be especially beneficial if you end up on a field effect that your team likes and you want to preserve it. Otherwise, standard doubles strategies you've surely had to learn by now will hopefully net you the win eventually.
+Another 12v6. Oh boy. Although the field is random, there is a good chance that one of the Malamars will try to use Topsy-Turvy, transforming the field into Inverse Field. Just like on New World, that will activate all of the Magical Seeds, turning them into omniboosts. They have lots of coverage in the types made extra good on this field - Ice, Bug, etc., which means you'll be taking a lot of damage real fast. Either you can try to roll with this field, bringing moves that will be able to hit super effectively on Inverse and using seed omniboosts, or you can suppress it by knocking out both Malamar's before it's too late. This can be especially beneficial if you end up on a field effect that your team likes and you want to preserve it - in a worst case scenario, you can always reset until you get a good one for your team. 
 
 Head back to the Nightclub!
 
-## What Lies Past Manyworld Forest
+## Manyworld Forest
 
 Next, we're going to talk to Simon. He'll tell us about something happening in Agate City, so fly on over there. Dive down to reach the area where Lin got her Relic Stone, then enter the New World Door.
 
-**Manyworld Pool**
-
-|Land               |%  |
-|-------------------|---|
-|Qwilfish           |20 |
-|Remoraid           |20 |
-|Seel               |10 |
-|Spheal             |10 |
-|Shellder           |10 |
-|Golduck            |10 |
-|Quagsire           |5  |
-|Lapras             |5  |
-|Poliwrath          |4  |
-|Starmie            |4  |
-|Vaporeon           |1  |
-|Croconaw           |1  |
+!enc(869)
 
 Hidden right behind the door is:
 
@@ -383,30 +292,7 @@ Hidden right behind the door is:
 
 You can also find a hidden *Max Revive*, *Exp. Candy XL*, and a *Dusk Ball*. Surface on the other end.
 
-**Manyworld Forest**
-
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Sudowoodo          |20 |Relicanth          |100|
-|Delcatty           |20 |                   |   |
-|Lunatone           |10 |                   |   |
-|Solrock            |10 |                   |   |
-|Farfetch'd         |10 |                   |   |
-|Primeape           |10 |                   |   |
-|Snorlax            |5  |                   |   |
-|Skarmory           |5  |                   |   |
-|Bayleef            |4  |                   |   |
-|Quilava            |4  |                   |   |
-|Togetic            |1  |                   |   |
-|Dragonite          |1  |                   |   |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Omanyte            |70 |Omanyte            |60 |Omanyte            |40 |
-|Kabuto             |30 |Kabuto             |20 |Kabuto             |40 |
-|                   |   |Tirtouga           |20 |Omastar            |15 |
-|                   |   |                   |   |Kabutops           |4  |
-|                   |   |                   |   |Carracosta         |1  |
+!enc(848)
 
 This map is huge but mostly empty. Make your way to the bottom left corner to find:
 
@@ -430,7 +316,7 @@ Going as far to the right as possible, you'll be able to ride another moving pla
 
 Back in the middle, go up. On Lin Route, now you'll get a *Fresh Water*. Pour the Fresh Water onto the Celebi.
 
-Climb through the New World Door to emerge next to the Pokémon League. If Taka is currently alive for you, he'll be here, otherwise it will be Elias. Whomever is here will give you another *Fresh Water*. Prepare your best team, stock up on healing items, etc. as if you were locking yourself into an Elite Four challenge. Hint: we basically are. Don't be afraid to eat a loss and change up your team if one of the following battles is too much for now.
+Climb through the New World Door to emerge next to the Pokémon League. If Taka is currently alive for you, he'll be here, otherwise it will be Elias. Whomever is here will give you another *Fresh Water*. Prepare your best team, stock up on healing items, etc. as if you were locking yourself into an Elite Four challenge. Don't be afraid to eat a loss and change up your team if one of the following battles is too much for now.
 
 Give the Fresh Water to Celebi. In the past, talk to Taube at the top for a battle.
 
@@ -464,7 +350,7 @@ A well chosen sweeper can deal with everything barring these two. If you're stuc
 
 Talk to Shelly once you're done here. You'll be taken back to your time... and you can talk to **Celebi** to take it with you! Hooray! Return to the Nightclub.
 
-## The Heist on the Train
+## The Train Heist
 
 Next, talk to Zero in the Nightclub and accept his quest. Proceed to Peridot and enter the train station. Talk to Adrienn at the top of the station and state that you're ready to proceed.
 
@@ -495,18 +381,7 @@ And finally, the last battle of the gauntlet:
 
 Whether you win the gauntlet or choose a different option, climb through the ring once you're in the engine room.
 
-**New World (Train)**
-
-|Land               |%  |
-|-------------------|---|
-|Tyrantrum          |30 |
-|Mr. Mime           |20 |
-|Druddigon          |10 |
-|Weavile            |10 |
-|Persian            |10 |
-|Malamar            |9  |
-|**Blacephalon**    |6  |
-|Honchkrow          |5  |
+!enc(866, nil, nil, "New World (Train)")
 
 Hug the left side to reach:
 
@@ -537,9 +412,9 @@ Back in the train station, talk with the group here.
 
 You'll also be given **Hoopa**! Walk on back to the nightclub.
 
-## Aiding and Abetting Bladestar?
+## Aiding and Abetting Bladestar
 
-Finally, talk to Danielle in the Nightclub and accept the quest. Head south from Obsidia Ward into Opal Ward. You'll see a few characters from Rejuvenation as a cameo here!
+Finally, talk to Danielle in the Nightclub and accept the quest. Head south from Obsidia Ward into Opal Ward. You'll see a few characters from Rejuvenation as a cameo here and can get a *Cotton Candy*!
 
 Anyways, fly over to Agate and make your way to the Glass Workstation. The glass is all gone so you can easily get to the back room. Talk to the girl in here. You can choose which PULSE Machine to go to - once you do, accept the fast travel to where you fought it once upon a time. Check out all the machines that the game expects you to.
 
