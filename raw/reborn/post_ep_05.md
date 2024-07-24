@@ -167,90 +167,45 @@ Return to the Nightclub!
 
 Talk to your gang leader and accept the quest. He gives us the hint that we'll need to reach our destination by diving somewhere in Celestinine Mountain. Fly over to Route 1, get on a Tauros, and make your way to the mountain via the North Aventurine Woods, third entrance from the left. Once inside, surf to the bottom left corner and dive down. Towards the top of the underwater area, you'll see a lit up door, so head through it and surface. Enter the next room to reach the Ametrine Core.
 
-**Ametrine Core (First Room)**
+!enc(870, nil, nil, "Ametrine Core (Entry Room)")
 
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
-|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
-|                   |   |Qwilfish           |20 |Cloyster           |15 |
-|                   |   |                   |   |Kingdra            |5  |
+Talk to Cal at the entrance, then surf to the right across two ponds. You'll see a Rock to Smash here (1, below), so do so. Make your way back to the center of the room and go up, talking to Cal and smashing one more rock. Up from here, you'll learn about the rules of the upcoming puzzle. 
 
-|Cave               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Beartic            |20 |Wailmer            |60 |
-|Swoobat            |20 |Seel               |30 |
-|Avalugg            |10 |Lumineon           |5  |
-|Magcargo           |10 |Wishiwashi         |4  |
-|Vanilluxe          |10 |Dewgong            |1  |
-|Delibird           |10 |                   |   |
-|Mamoswine          |5  |                   |   |
-|Jynx               |5  |                   |   |
-|Cryogonal          |4  |                   |   |
-|Glalie             |4  |                   |   |
-|Magmar             |1  |                   |   |
-|Froslass           |1  |                   |   |
+Talk to Cal to make it hot. When it's hot, we can surf across certain ponds but are stopped by boiling water. We can also smash rocks and activate Red Crystals that break ice crystals.
 
-Talk to Cal at the entrance, then head up and smash the rock. Talk to Cal at the top, and Blake will show up. Essentially, we'll need to switch the room from hot (Cal) to cold (Blake) and vice versa to clear obstacles.
+Talk to Blake to make it cold. When it's cold, some ponds are turned to ice that can be slid across in certain directions, while the previously boiling ponds can now be surfed over. We can also activate Blue Crystals that create paths across lava ponds.
 
-- Start by making it hot and talk to the crystal down and to the left. Make your way down and left to talk to another crystal.
-- Next, make it cold and follow the now-opened path to the bottom left and cross the ice. Head up from here, surf across, and use this crystal to make a path back to the center. Down and to the right is another crystal: use it to make more lava platforms.
-- Make it hot, then go to the right. Up from here, use the next crystal.
-- Making it cold again, follow the path to the right that we just opened. Activate the crystal here, then return to the center.
-- Make it hot, then follow the long path in the bottom right corner of the room to another crystal.
-- Make it cold. Straight up from here is a crystal: activate it. Next, go to the left of the center and activate the crystal on top of the stairs to the left. Go to the right side of the room, now following the path to reach the top, and activate a crystal to make another shortcut to the center.
-- Make it hot, go to the top of the room, and smash the rock.
-- Make it cold one more time and follow the path at the top to another crystal. Head into the next room at the top.
+!img("core1.png")
 
-**Ametrine Core (Second Room)**
+To solve this room:
 
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Finneon            |70 |Remoraid           |60 |Octillery          |40 |
-|Wishiwashi         |30 |Horsea             |20 |Qwilfish           |40 |
-|                   |   |Qwilfish           |20 |Cloyster           |15 |
-|                   |   |                   |   |Kingdra            |5  |
+- While it is cold, head up and talk to the Blue Crystal (2).
+- Make it hot and talk to the Red Crystal down and to the left (3).
+- Next, make it cold and follow the now-opened path to the left, surf up and left, and use this Blue Crystal (4) to make a path in some lava. 
+- Make it hot, surf across the pond in the bottom left corner, then activate the Red Crystal towards the bottom (5).
+- Make it cold, then go to the bottom left corner and slide across the entrance sheet of ice to reach the bottom right side. Slide to the right to activate a Blue Crystal here (6), then slide back left, go up and surf, and activate another Blue Crystal(7).
+- Make it hot, then go to the right across the new lava path. Up from here, activate a Red Crystal (8).
+- Making it cold again, follow the path around to the bottom right corner. Slide across the ice to the top, then surf across and activate a Blue Crystal (9) up some stairs.
+- Make it hot, then return to the bottom right side of the room. Cross the lava at the bottom then follow the path around the right side of the room to reach another Red Crystal (10).
+- Make it cold and follow the path to the bottom right corner then head up to the top of the room. Activate a Blue Crystal (11) above the center to create a new shortcut.
+- Make it hot again, then go up to the top of the room to Smash a Rock (12).
+- Make it cold and activate the Red Crystal beyond the former rock (13). Finally, head left from the center, surf up, and cross two lava pools to exit at the top.
 
-|Cave               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Beartic            |20 |Wailmer            |60 |
-|Swoobat            |20 |Seel               |30 |
-|Mamoswine          |10 |Lumineon           |5  |
-|Magcargo           |10 |Wishiwashi         |4  |
-|Golem              |10 |Dewgong            |1  |
-|Heatmor            |10 |                   |   |
-|Dugtrio            |5  |                   |   |
-|Electabuzz         |5  |                   |   |
-|Claydol            |4  |                   |   |
-|Glalie             |4  |                   |   |
-|Magmar             |1  |                   |   |
-|Spiritomb          |1  |                   |   |
+!enc(872, nil, nil, "Ametrine Core (Middle Room)")
 
 In this room, another puzzle awaits.
 
-- Start by using the crystal to the left.
-- Turn it cold and activate the crystal up on the hill. Follow the new path across the lava and push the boulder to the right, out of the way.
-- Make it hot, then surf up, use the crystal, and return to the bottom.
-- Make it cold and use the crystal above. Cross the lava, activate the next crystal, and return.
-- Make it hot, then activate the crystal in the top left.
-- Make it cold once more. This time, head to the left side of the room, and hop down the long chain of ledges. It will take you around to the right side of the room, where you can activate another crystal. Cross the lava and push this boulder to the left.
+!img("core2.png")
+
+- Start with hot, and activate the Red Crystal (1) to the left.
+- Turn it cold and activate the Blue Crystal (2) up on the hill. Follow the new path across the lava and push the boulder to the right two tiles.
+- Make it hot, then surf up, activate the Red Crystal (3), and return to the bottom.
+- Make it cold and return to the previous platform. Activate the Blue Crystal (4), cross the lava, and activate the next Blue Crystal (5). 
+- Make it hot and return to the upper left side of the map. Smash the rock in the middle (6) and push the boulder *exactly* one tile to the right if you want a shortcut, but be careful. Head up from here to activate a Red Crystal (7).
+- Make it cold, then head to the left side of the room and follow the long path (in green) all the way around the bottom of the room to activate another Blue Crystal (8). Push the boulder below all the way left to get it out of the way, then return to the bottom of the room.
 - Turn up the heat and climb down the ladder at the top!
 
-**Ametrine Core (Third Room)**
-
-|Cave               |%  |
-|-------------------|---|
-|Magcargo           |30 |
-|Swoobat            |20 |
-|Camerupt           |10 |
-|Golem              |10 |
-|Heatmor            |10 |
-|Dugtrio            |5  |
-|Weezing            |5  |
-|Claydol            |4  |
-|Torkoal            |4  |
-|Magmar             |1  |
-|Charizard          |1  |
+!enc(873, nil, nil, "Ametrine Core (Back Room)")
 
 Follow the path from here. Time for a battle!
 
@@ -264,38 +219,13 @@ Blow the popsicle stand and return to the Nightclub.
 
 ## Splash Grounds
 
-Talk to the Ringmaster in the Nightclub and accept the next quest. Fly on over to the Scrapyard in the desert. In a traincar to the left, you'll find a warp that takes you to the Mirage Tower, so proceed there. Make your way through the tower - when you eventually come upon the "fake" exterior, you'll notice that the water now has some dive spots. Dive on down!
+Talk to the Ringmaster in the Nightclub and accept the next quest. Fly on over to the Scrapyard in the desert. Assuming you did the [Mirage Tower quest](#mirage-tower) earlier, in a traincar to the left, you'll find a warp that takes you to the Tower, so proceed there. Make your way through the tower - when you eventually come upon the "fake" exterior, you'll notice that the water now has some dive spots. Dive on down!
 
-**Northeast Tourmaline Desert? Underwater**
-
-|Land               |%  |
-|-------------------|---|
-|Gastrodon          |20 |
-|Basculin           |20 |
-|Bruxish            |20 |
-|Seaking            |10 |
-|Corsola            |10 |
-|Quagsire           |10 |
-|Phione             |10 |
+!enc(863, nil, nil, "Northeast Tourmaline Desert? Underwater")
 
 Head into the New World Door.
 
-**Splash Grounds**
-
-|Cave               |%  |
-|-------------------|---|
-|Corsola            |20 |
-|Carracosta         |20 |
-|Jellicent          |10 |
-|Dhelmise           |10 |
-|Dragalge           |10 |
-|Gorebyss           |10 |
-|Huntail            |5  |
-|Ditto              |5  |
-|Phione             |4  |
-|Toxapex            |4  |
-|Primarina          |1  |
-|Kingdra            |1  |
+!enc(862)
 
 Grab the *Relic Copper* in the first room. There is a small door to the right of the large one - go in here. Grab the *Relic Copper* and *Relic Silver* inside. You'll also find:
 
@@ -303,7 +233,7 @@ Grab the *Relic Copper* in the first room. There is a small door to the right of
 
 !img("zcell_30.jpg")
 
-Back in the entrance room, enter the large door, and grab another 2 *Relic Coppers* in the next. Grab the 3 *Manaphy Gems* on the dais. Use it to open the door at the top. Grab the *Relic Copper* in the next room, and start by going right at the fork. Along the way, you'll find 2 *Relic Coppers* and:
+Back in the entrance room, enter the large door, and grab another 2 *Relic Coppers* in the next. Grab the 3 *Manaphy Gems* on the dais. Use one to open the door at the top. Grab the *Relic Copper* in the next room, and start by going right at the fork. Along the way, you'll find 2 *Relic Coppers* and:
 
 **ZCell 31: Splash Zone**
 
@@ -315,11 +245,11 @@ The path from here contains a *Relic Copper* but also two *Relic Silvers*! Use t
 
 !battle(["Manaphy", :MANAPHY, 0], "Underwater")
 
-A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs, Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed, and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. These Pokémon do have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge.
+A tricky fight - one that fully utilizes the shenanigans of the Underwater Field. Essentially, it boils down to three main types of Pokemon: Dhelmise, who hits ridiculously hard and does extra damage thanks to Anchor Shot, Whirlpool, and Steelworker getting buffs; Manaphy itself, whose Hydration is always on and basically means it can stall you out with free Rest every turn, boost with Tail Glow, and sweep with boosted Water Pulse and Twinkle Tackle if needed; and "the other four" who have seeds that transform them into Water types, basically 4 balls of stats and coverage moves. These Pokémon do have lots of Electric moves to cover your own Water type shenanigans, so it won't be as easy as equipping seeds and going... probably. Heliolisk in particular is annoying, since it absorbs both Ground and Water moves (field adds the latter to the former), and hits hard and heals with Parabolic Charge.
 
 If you want to run with the field, you can use your own Water types and carefully navigate a sweep. One alternative, fun idea is to bring a fast Flying or Water type to use Fly or Dive to bring the fight to the Water Surface, which takes away the crazy speed difference and takes away the type changes on the four. Then you can sweep more "normally" or switch again to Murkwater or Icy Field if you feel like it.
 
-Once you win, you can catch **Manaphy**! Exit the Splash Grounds.
+Once you win, you can catch **Manaphy**! Exit the Splash Grounds through the convenient exit that opens up!
 
 ## Tabula Rasa
 
@@ -354,15 +284,15 @@ Next is Emerald. Transform the field to Grassy Terrain, then prepare for a fight
 
 !battle(["Tapu-Bulu", :TAPUBULU, 0], "Grassy Terrain")
 
-Gengar likes to use Sludge Wave, transforming the field into Corrosive Field. This literally OHKO's Tapu Bulu as it steps onto the field. Now this is epic. Catch **Tapu Bulu** afterwards!
+Gengar likes to use Sludge Wave, transforming the field into Corrosive Field. This literally OHKO's Tapu Bulu as it steps onto the field. Catch **Tapu Bulu** afterwards!
 
 Finally, go to Amethyst and transform the field to Psychic Terrain.
 
 !battle(["Tapu-Lele", :TAPULELE, 0], "Psychic Terrain")
 
-This is our first mandatory battle with built-in Psychic Terrain... and you'll probably see why this field is a huge pain here. Telepathy just, doubles speed, so three of your opponents will easily outspeed. That's on top of massive boosts to an already great type, and Psych Up... oh god why. You'll know what I mean when you see it.
+This is our first mandatory battle with built-in Psychic Terrain... so it's time to get used to it. Telepathy doubles speed... That's on top of massive boosts to an already great type, and Psych Up... oh god. You'll know what I mean when you see it.
 
-Trick Room is good here, even extended for free, so that's neat. Your own Psych Up can work wonders here if need be. Haze and Taunt can also help you keep your sanity here.
+Trick Room is good here as its even extended for free, so that's neat. Your own Psych Up can work wonders here if need be. Haze and Taunt can also help you keep your sanity here.
 
 Catch **Tapu Lele** once you're done, then make your way back to the Nightclub.
 
@@ -406,10 +336,10 @@ More Psychic Terrain! At least with Euphie as a partner, he uses the Field Effec
 
 !dbattle(["Charlotte", :CHARLOTTE, 1], ["Laura", :LAURA, 2], "Psychic Terrain")
 
-Honestly? Facing Laura not on Flower Field is more of a relief than not. This probably won't be the fight that ruins most of your gauntlet attempts.
+Honestly? The Flower Field is 99% of Laura's power, so this is definitely her at her worst. This probably won't be the fight that ruins most of your gauntlet attempts.
 
 !dbattle(["Lin", :CHILDLIN, 1], ["Antics", :ANTICS, 0], "Psychic Terrain")
 
-This fight is where fun comes to die! Psych Up! Serene Grace spam! And worst of all: CHANSEY. Good luck, you'll need it. Literally.
+This fight is where fun comes to die! Psych Up! Serene Grace spam! And worst of all: CHANSEY. Good luck, you'll need it. Literally. I recommend trying to support Euphie's Hoopa and using Psych Up yourself.
 
 That's it for this tier of legendary quests! Return to the Nightclub when you're ready to.
