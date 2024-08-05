@@ -4,7 +4,7 @@ Rejoice, for the Level Cap is now Lv. 130!
 
 ## Triskeline Toybox
 
-Accept Randall's quest. Fly over to the Tanzan Cove and enter the Tanzan Mountain. Enter the room on the west side of the mountain and follow the path onto the Wasteland Wall. Proceed through the strength puzzles and enter the room hidden behind the blue canister on the right once you're prepared for a fight.
+Accept Randall's quest. Fly over to the Tanzan Cove and enter the Tanzan Mountain. Enter the room on the west side of the mountain and follow (the path onto the Wasteland Wall)[#blast-powder-and-crystal-key-goodies]. Proceed through the strength puzzles and enter the room hidden behind the blue canister on the right once you're prepared for a fight.
 
 !battle(["Fern", :FERN2, 0], "Wasteland")
 
@@ -12,13 +12,17 @@ Fern finally replaces his annoying Roserade... with a Buzzwole! Is that fitting 
 
 Enter the New World Door once you beat him.
 
-Welcome to the Triskeline Toybox. Jump across the pink balls to the next area. Head up three sets of stairs from here to find:
+Welcome to the Triskeline Toybox. Jump across the pink balls to the next area. 
+
+!img("toybox.png")
+
+Head up three sets of stairs from here to find:
 
 **ZCell 34: Triskeline Toybox**
 
 !img("zcell_34.jpg")
 
-You can actually open the two chests to the left to get 3 *EV Boosters* and an *Ability Capsule*. Head up another set of stairs to open 2 more chests, containing a *Jolly Mint* and a *Timid Mint*. Down and right from here you can open 2 more chests to get a *PP All* and the *Mewnium-Z*. To the right:
+You can actually open the two pink-and-blue chests to the left to get 3 *EV Boosters* and an *Ability Capsule*. Head up another set of stairs to open 2 more chests, containing a *Jolly Mint* and a *Timid Mint*. Down and right from here you can open 2 more chests to get a *PP All* and the *Mewnium-Z*. To the right:
 
 **ZCell 35: Triskeline Toybox**
 
@@ -54,24 +58,13 @@ Hop across to the right, then go down and left. You'll see a Lapras plush: hop u
 
 A decently tough fight on the Starlight Arena, but nothing you shouldn't be able to handle.
 
-We'll need to chase Mew around after this. You can first find it in the bottom left side of the area, disguised as Cubone. Next, you'll find it disguised as the middle of three Jigglypuff on the right side of the area. Next is as a Chikorita on a table near the entrance. Finally, return to where we fought the Anomaly and talk to it once more. Go through the New World Door!
+We'll need to chase Mew around after this. 
 
-**Chrysolia Deepwoods Cave**
+!img("toybox.png")
 
-|Cave               |%  |
-|-------------------|---|
-|Garbodor           |20 |
-|Parasect           |20 |
-|Golem              |10 |
-|Weezing            |10 |
-|Mawile             |10 |
-|Victreebel         |10 |
-|Steelix            |5  |
-|Tangrowth          |5  |
-|Crobat             |4  |
-|Audino             |4  |
-|Smeargle           |1  |
-|Toucannon          |1  |
+You can first find it in the bottom left side of the area, disguised as Cubone (A, above). Next, you'll find it disguised as the middle of three Jigglypuff on the right side of the area (B). Next is as a Chikorita on a table near the entrance (C). Finally, return to where we fought the Anomaly and talk to Mew once more. Go through the New World Door!
+
+!enc(875, nil, nil, "Chrysolia Deepwoods Cave")
 
 In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ultra Ball*, *Ultra Potion*, and *Exp. Candy XL*. Halfway up the stairs, follow the path to a hidden *Dusk Ball* and:
 
@@ -79,7 +72,7 @@ In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ul
 
 !img("zcell_40.jpg")
 
-Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage.
+Follow the path out of the cave and into the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage. Down at the lever above the cage:
 
 **Relationship Point Choices:**
 - Let Fern out right away (+1 Fern)
@@ -88,11 +81,25 @@ Follow the path in the Deepwoods. Grab a hidden *Normal Gem* and hop down the le
 - Make Fern beg three times, then let him out (-3 Fern)
 - Make Fern beg four times, then let him out (-6 Fern)
 
-Accept the fast travel request. We'll be getting Mew later.
+That's all we can do in the Mew/Mewtwo quest for now. Accept the fast travel request to return to the Nightclub.
 
 ## The Return of Kiki?
 
-Accept Simon's quest and fly over to Apophyll Academy. Talk to Victoria in the courtyard. We'll need to talk to various people in the courtyard that she points out, and battle them. Talk to the guy in the center a few times and beat him. The next target is someone on the second floor walkway, left side. Finally, talk to the person in the middle of the top arc of people. Once you're ready, head up.
+Accept Simon's quest and fly over to Apophyll Academy. Talk to Victoria in the courtyard. We'll need to talk to various people in the courtyard that she points out, and battle them. Talk to the guy in the center a few times.
+
+!battle(["Makami", :BLACKBELT, 0])
+
+The next target is someone on the second floor walkway, left side. 
+
+!battle(["Cocoa", :NatureGirl, 1])
+
+Finally, talk to the person in the middle of the top arc of people. If you joined the Aqua Gang and gave an Apophyll application to Pierce, you'll battle him now, otherwise, it'll be Battle Girl Candy.
+
+!battle(["Pierce", :AQUA2, 2])
+
+!battle(["Candy", :BATTLEGIRL, 0])
+
+Once you're ready, head up.
 
 !battle(["Kiki", :UMBKIKI, 0], "Ashen Beach")
 

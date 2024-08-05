@@ -17,18 +17,16 @@
 ["Clone", :ALTARI, 0] - Placeholder teams for the clone fights
 ["Clone", :ALTDECIBEL, 0] - Placeholder teams for the clone fights
 
+Normal E4 rematches?
 ["Heather", :HEATHER, 2]
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
+
 ["Arclight", :ARCLIGHT, 2]
 ["Cain", :Cain, 7]
 ["Titania", :TITANIA1, 1]
 ["Hardy", :HARDY, 2]
-["Makami", :BLACKBELT, 0]
-["Cocoa", :NatureGirl, 1]
-["Candy", :BATTLEGIRL, 0]
-["Pierce", :AQUA2, 2]
 ["Tiala", :CultistF, 0]
 ["Tanner", :Cultist, 1]
 ["Mirian", :CultistF, 0]
