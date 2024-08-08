@@ -6,7 +6,6 @@
 ["Titania", :TITANIA2, 0] - same exact team as ["Titania", :TITANIA1, 0], just different dialogue
 ["Guardians", :HAXORUS, 0] - No longer in game (fight event page in game, but overridden by another)
 ["Daishou", :SAMUROTT, 0] - No longer in game (was this previously the coral ward lighthouse fight?)
-["Lyla", :NWCultistF, 1] - Seems unbattleable. See s(990)
 ["Linda", :NatureGirl, 0] - Inaccessible - on map 18 in the corner for some reason
 ["Marty", :FISHERMAN, 0] - Inaccessible - on map 18 in the corner for some reason
 ["Hunny", :NatureGirl, 0] - Inaccessible - on map 15 in the corner for some reason
@@ -23,10 +22,6 @@ Normal E4 rematches?
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
 
-["Arclight", :ARCLIGHT, 2]
-["Cain", :Cain, 7]
-["Titania", :TITANIA1, 1]
-["Hardy", :HARDY, 2]
 ["Tiala", :CultistF, 0]
 ["Tanner", :Cultist, 1]
 ["Mirian", :CultistF, 0]

@@ -111,70 +111,92 @@ Head into the back room once you're done and catch **Marshadow**! Return to the 
 
 Talk to Ringmaster and accept the quest. Head over to the Blacksteam Shelter and enter the room in the back on 1F.
 
-Talk to all the named characters in here. Head outside and talk to Aya, then return to this room and talk to her again. Next, head to the basement of the shelter. You'll find a New World Door!
+Talk to all the named characters in here. Head outside and talk to Aya, then return to the concert room and talk to her again. Next, head to the basement of the shelter. You'll find a New World Door!
 
 !partner(["Aya", :AYA, 2])
 
 !dbattle(["Genesect", :GENESECT, 0], ["Genesect", :GENESECT, 1], "Short-Circuit Field")
 
-With Aya as your partner, it won't be too bad. Keep her Salazzle and Naganadel alive, supporting their Heat Wave's.
+With Aya as your partner, it won't be too bad. Keep her Salazzle and Naganadel alive, supporting their Heat Waves.
 
 Head up from here. Once Aya presses the switch, you can explore this area a bit. Head straight up and talk to Aya near the Genesects.
 
-From the center of the room, go right and use the panel. Go up from here and team up with Arclight for a fight.
+!img("genesect1.png")
+
+A pretty huge puzzle room awaits us. From the center of the room, go right (path 1) and use the panel. Go up from here and team up with Arclight for a fight.
+
+!partner(["Arclight", :ARCLIGHT, 2])
 
 !dbattle(["Genesect", :GENESECT, 2], ["Genesect", :GENESECT, 3], "Short-Circuit Field")
 
-A decently tough battle with a lot of Electric types, themed around Shock Drive Genesect. Ground types will generally do well here if you can cover their weaknesses. Tailwind is a good choice to support the already speedy team that Arclight has. Just be prepared for the Genesects - Fire moves are obviously great here.
+A decently tough battle with a lot of Electric types, themed around Shock Drive Genesect. Ground types will generally do well here if you can cover their weaknesses. Tailwind is a good choice to support the already speedy team that Arclight has. Just be prepared for the Genesects - Fire moves are obviously great here. Win to get the *Shock Drive*. 
 
-Win to get the *Shock Drive*. Return to the center - one of the computer terminals will allow us to insert the Shock Drive, which causes the room to light up. Go to the right and use the panel to remove a shutter. Next, go to the left and follow the path through an opened gate to a panel, which we can use to open a shutter at the bottom. Return to the center and remove the Shock Drive - this will cause the surges of electricity to go away, meaning we can follow the path on the left down.
+Return to the center - one of the computer terminals will allow us to insert the Shock Drive, which causes the room to light up. Do so, then head straight left, going down and right to activate a panel (path 2). The path down from here is closed while the power is on.
 
-Following this path, open the shutter at the bottom. Returning to the center, switch the bottom terminal back off, and the gate below you will open. Go down and through the now open path to reach another fight.
+Return to the center and remove the Shock Drive. Return to the left and go down (path 3), then open a shutter at the bottom.
+
+Return to the center and use the henceforth called Shutter Terminal on the bottom (it says "SHUTTER SYSTEM--MODE A/B"). Going down from the center will require one setting of the Shutter Terminal, while going up, left, or right requires the other setting. With the Shutter Terminal changed and no Drives in the computer, go down, left and up (path 4) to reach another fight.
+
+!partner(["Cain", :Cain, 7])
 
 !dbattle(["Genesect", :GENESECT, 4], ["Genesect", :GENESECT, 5], "Short-Circuit Field")
 
-This one is themed around the Chill Drive - Alolan Ninetales is a familiar lead by now. It helps that all but Aurorus and Porygon-Z are weak to Fire, so exploit this weakness to win.
+This one is themed around the Chill Drive - Alolan Ninetales is a familiar lead by now. It helps that all but Aurorus and Porygon-Z are weak to Fire, so exploit this weakness to win. Emerge victorious to get the *Chill Drive*. 
 
-Win to get the *Chill Drive*. Return to the center and insert it. Also, reinsert the Shock Drive and use the shutter terminal at the bottom. Head up and talk to Aya. Follow the path to the left and activate the shutter.
+Return to the center. Activate Shutter Terminal (to be able to go up) and insert both the Shock and Chill Drives. Head up and talk to Aya. Follow the path (5) up and to the left and activate the shutter.
 
-Remove the Shock Drive and use the shutter terminal. Go down, left, then all the way to the top left corner of the room for another fight, with Titania as a partner.
+!img("genesect2.png")
+
+Return to the center. With both Drives still in the computer, go right to activate another panel (6).
+
+Return to the center again. Remove the Shock Drive, leaving in the Chill Drive, and activate the Shutter Terminal. Go down, left, then all the way up to the top left corner of the room (path 7) for another fight, with Titania as a partner.
+
+!partner(["Titania", :TITANIA1, 1])
 
 !dbattle(["Genesect", :GENESECT, 6], ["Genesect", :GENESECT, 7], "Short-Circuit Field")
 
-The Burn Drive team. Although Titania is weak to Fire on paper, her team is pretty solid for this fight overall. Maybe it's just because her team is so solid in general. Anyways, Water, Rock, and Ground type moves will do great here, or you can double down and run your own Fire types under Sun.
+The Burn Drive team. Although Titania is weak to Fire on paper, her team is pretty solid for this fight... maybe because her team is so solid in general. Anyways, Water, Rock, and Ground type moves will do great here, or you can double down and run your own Fire types under Sun.
 
-You'll get the *Burn Drive* once you win. Make your way to the center and insert it, then use the shutter terminal. Make your way to the bottom right corner and use a panel to remove a shutter - a shortcut to the entrance. Head up from the center next, talking to Aya. Go to the right and talk to another panel to remove a shutter.
+You'll get the *Burn Drive* once you win. Make your way back to the center. Insert the Burn Drive, leaving in the Chill Drive but holding on to the Shock Drive, and activate the Shutter Terminal. Head up to talk to Aya once more then go right and down (path 8) to activate another panel.
 
-Return to the center and remove the Burn Drive. Go down, follow the path right and up, and talk to a panel at the end of this path. Return to the center. Activate the shutter terminal and insert the Shock Drive, then head to the right and follow the path to the top right. Talk to the machine here and activate combustion power. This will open up a path above to a tag battle with Hardy.
+Back at the center, leave the Drives as is: Burn and Chill in the computer, Shock in the bag. Make your way right, down, then left to activate another panel (path 9).
 
-!dbattle(["Genesect", :GENESECT, 8], ["Genesect", :GENESECT, 9], "Short-Circuit Field")
+Return to the center. Leaving the Drives as is again, activate the Shutter Terminal. Go down, follow the path right and up, and talk to a panel at the end of this path (10). 
+
+Return to the center. Activate the Shutter Terminal and insert the Shock Drive, meaning all three Drives are in the computer. Go right and follow the path (11) to the top right. Talk to the machine here and activate combustion power. This will open up a path above to a tag battle with Hardy.
+
+!partner(["Hardy", :HARDY, 2])
+
+!dbattle(["Genesect", :GENESECT, 8], ["Genesect", :GENESECT, 9], "Factory Field")
 
 Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokémon are generally fast and frail and will die to the Water type moves, so look out for that.
 
-Once you win, you'll get the *Douse Drive*. Head back to the top area and talk to Hardy if you'd like.
+Once you win, you'll get the *Douse Drive*. Head back to the center, then go up from here and talk to Hardy if you'd like.
 
 **Relationship Point Choices:**
 - Talk to Hardy when he's with Aya in the Neo Blacksteam Fabrication (+1 Aya)
 
-Make your way to the center, remove the Chill Drive and Shock Drive, insert the Douse Drive, and use the shutter terminal. Go down, right, and all the way up to reach a machine. Activate the steam power system - in a nearby capsule, you'll find:
+!img("genesect3.png")
+
+Make your way to the center, remove the Chill Drive and Shock Drive, insert the Douse Drive (and leave in the Burn Drive), and use the Shutter Terminal. Go down, right, and all the way up to the top right of the room (path 12) to reach a machine. Activate the steam power system - in a nearby capsule, you'll find:
 
 **ZCell 41: Neo Blacksteam Fabrication**
 
 !img("zcell_41.jpg")
 
-Return to the center. Remove the Burn Drive and put in the Chill Drive, then go to the bottom right corner of the room where there is another machine. Activate the supercooling system here - in the capsule, you'll find:
+Return to the center. Remove the Burn Drive, and put in the Chill Drive. The Shock Drive should remain in your bag, while the Douse Drive should remain in the computer. Go to the bottom right corner of the room (path 13) where there is another machine. Activate the supercooling system here - in the capsule, you'll find:
 
 **ZCell 42: Neo Blacksteam Fabrication**
 
 !img("zcell_42.jpg")
 
-Back in the center, put in the Shock Drive. Make your way to the bottom left corner, and activate hydroelectric power. In the capsule:
+Back in the center, add the Shock Drive to the Douse Drive and Chill Drive already in the computer, but hold onto the Burn Drive. Make your way to the bottom left corner (path 14), and activate hydroelectric power. In the capsule:
 
 **ZCell 43: Neo Blacksteam Fabrication**
 
 !img("zcell_43.jpg")
 
-That about covers the goodies, so make your way back to the center. Remove all drives except for the Douse Drive and Burn Drive, then make your way around the bottom, up the left side, and to the top of the room. You'll find a **Genesect** to catch up here!
+Make your way back to the center. Remove the Shock Drive, make sure the Burn, Chill, and Douse Drives are inserted, then make your way around the bottom, up the left side, and to the top of the room (path 15). You'll find a **Genesect** to catch up here!
 
 Make your way back to the center of the room, remove the remaining Drives, then exit at the bottom. Talk to Aya to view a scene, then go to the right. On Lin Route, you'll have an extra straightforward step to do here. Return to the Nightclub!
 

@@ -528,7 +528,7 @@ Head to the top right corner of the room to fight more grunts.
 
 !dbattle(["Simon", :MeteorGrunt, 0], ["Tara", :MeteorGrunt_090, 0], "Factory Field")
 
-Read the nearby terminal, which shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password.
+Read the nearby terminal, which shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password (3179).
 
 **Relationship Point Choices:**
 - Push the same elevator button as the floor you are on (-1 Fern)
@@ -545,7 +545,7 @@ In this room, use the terminal to discover the hint X8XX. Back outside, go left.
 
 !dbattle(["Janis", :MeteorGrunt_090, 0], ["Grant", :MeteorGrunt, 0], "Factory Field")
 
-In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code and head in.
+In here is another terminal: 4XXX, plus one more with some lore. You can also get a hidden *Super Potion* in a box at the bottom. Back outside again, go up at the bridge, pickup *Paralyze Heal*, type in the code (4862) and head in.
 
 !dbattle(["Rod", :MeteorGrunt, 0], ["Ringo", :MeteorGrunt, 0], "Factory Field")
 
