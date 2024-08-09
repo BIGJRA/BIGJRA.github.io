@@ -302,25 +302,45 @@ Talk to the nearby **Shaymin** once you're done to take it with you! To the righ
 
 Accept Danielle's quest. Make your way to the Subseven Sanctum and enter the room on the left side of the maze. Talk to Luna then enter the door.
 
+!dbattle(["Tiala", :CultistF, 0], ["Tanner", :Cultist, 1], "Holy Field")
+
 Defeat the acolytes. You'll wake up in a cage - you can talk to the Arceus statue to walk through walls for a finite number of tiles. The 'A' key brings you back to the last statue you have used, if you get stuck.
 
 Start by using this statue and going straight up. Talk to the Blue Statue to the left, then return to your cell. Talk to Lukah in his, then go up the stairs yourself.
 
 In this hallway, go up and left to enter the room with the New World Door we were previously in. If you talk to any of the statues on the left side, you can walk through the wall to reach the Red Statue. Return to the previous room.
 
-This main room is a bit of a huge maze, so here's a screenshot if it helps you navigate it. Note that you can get up to two 'extra steps' by talking to the statue from above, in certain situations, so if it seems like it's impossible to reach the next area, try doing that. Activate the Purple Statue next.
-
 !img("subseven_path_1.jpg")
 
-Undo your steps to return to the entrance of the room. The next path you have to take will lead you to the Green Statue. Note that if you mess up and end up in some of the rooms on the left side, you'll have to go back to the beginning and start again.
+This main room is a huge maze. Note that you can get up to two 'extra steps' by talking to the statue from above, in certain situations, so if it seems like it's impossible to reach the next area, try doing that. 
+
+!battle(["Mirian", :CultistF, 0], "Holy Field")
+
+!battle(["Arcturus", :Cultist, 1], "Holy Field")
+
+Activate the Purple Statue next.
+
+Undo your steps to return to the entrance of the room.
 
 !img("subseven_path_2.jpg")
 
-Return to the entrance area once more. Finally, we simply have to make it to the top of this room and climb the stairs. The path:
+The next path you have to take will lead you to the Green Statue. Note that if you mess up and end up in some of the rooms on the left side, you'll have to go back to the beginning and start again.
+
+!battle(["Presley", :Cultist, 0], "Holy Field")
+
+Once you activate the green statue, go right via two phasing statues and then go down the long vertical hallway.
+
+!battle(["Ioletta", :CultistF, 0], "Holy Field")
+
+Return to the entrance area once more by going down. 
 
 !img("subseven_path_3.jpg")
 
-Use the Light Shard if necessary and talk to the space deity in the room for a battle.
+Finally, we simply have to make it to the top of this room and climb the stairs. Note that three statues before the end you can take a detour to fight one more trainer, if you'd like:
+
+!battle(["Ezra", :Cultist, 1], "Holy Field")
+
+Make your way to the top of the room and climb the stairs. Use the Light Shard if necessary and talk to the space deity in the room for a battle.
 
 !battle(["Palkia", :PALKIA, 0], "Holy Field")
 
@@ -356,7 +376,7 @@ While you're here, if you're on Reshiram Route, Taka will ask you to see his Cha
 
 This next one has some hard fights, so prep your team accordingly.
 
-Accept the final quest at the Nightclub then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
+Accept the final quest at the Nightclub with Cass, then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
 
 !battle(["Hypno", :HYPNO2, 1], "Chess Board")
 

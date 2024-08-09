@@ -22,13 +22,6 @@ Normal E4 rematches?
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
 
-["Tiala", :CultistF, 0]
-["Tanner", :Cultist, 1]
-["Mirian", :CultistF, 0]
-["Arcturus", :Cultist, 1]
-["Ioletta", :CultistF, 0]
-["Presley", :Cultist, 0]
-["Ezra", :Cultist, 1]
 ["Taka", :Taka2, 1]
 ["Taka", :ZTAKA2, 0]
 ["Zero", :ZEL3, 0]
