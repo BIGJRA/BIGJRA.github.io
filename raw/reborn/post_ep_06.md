@@ -376,27 +376,13 @@ While you're here, if you're on Reshiram Route, Taka will ask you to see his Cha
 
 This next one has some hard fights, so prep your team accordingly.
 
-Accept the final quest at the Nightclub with Cass, then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
+Accept the final quest at the Nightclub with Cass. Stock up on healing items and prepare your best team, then fly over to Agate City. Head down to Route 1, climb the rocks to reach Iolia Valley, then climb the waterfall at the top of the area to reach a cave. Use the Purple Crystal to enter a New World Door.
 
 !battle(["Hypno", :HYPNO2, 1], "Chess Board")
 
 Another fight with PULSE Hypno, this time with the support of a full team on the Chess Board. I recommend Quick Guard for this fight - you'll be able to block First Impression, all of the King Rhyperior's moves, and Sucker Punch. You'll also be at the mercy of Hypno's Dark Void, so Safeguard, Chesto Berries, Sleep Talk, etc. can all be useful in keeping your momentum here. If you don't already have a Z-Move planned out, the Buginium-Z can be crucial to taking out Hypno. Bring your own King for some priority shenanigans if needed.
 
-**Endgame**
-
-|Land               |%  |
-|-------------------|---|
-|Muk                |20 |
-|Tangrowth          |20 |
-|Garbodor           |10 |
-|Avalugg            |10 |
-|Swalot             |10 |
-|Abra               |10 |
-|Camerupt           |5  |
-|Hypno              |5  |
-|Clawitzer          |4  |
-|Mr. Mime           |4  |
-|Magnezone          |2  |
+!enc(894)
 
 There's something all of these wild Pokémon have in common... hmm...
 
@@ -406,9 +392,9 @@ Start by following the path around to the left, and grab the hidden *Pretty Wing
 
 !battle(["Mime", :MIME2, 1], "Glitch Field")
 
-Five PULSEs in one battle, on a field that makes this fight very interesting. First out is PULSE Abra, with three special moves that trade massive power for a recharge turn, and Metronome. While the latter isn't really an issue, this field makes it so recharge moves don't waste a turn whenever they secure knockouts, meaning whenever the powerful Abra can one shot you, it doesn't ever recharge. Clawitzer works basically the same as before, though it has Hydro Cannon to achieve the same effect as Abra. Magnezone has Bolt Strike for damage, Core Enforcer for coverage, and Parabolic Charge and Recover for healing, on top of Levitate, meaning it is hard to take down. PULSE Muk is mostly a special set with Protean Giga Drain and Fire Blast, but can use priority Shadow Sneak as well as Explosion, which acts basically as a nuke on this field. Finally there is PULSE Mr. Mime, who has only Psycho Boost. The 1 base SpA and Psycho Boost SpA drops gets ignored in favor of Mime's 190 SpD, so it can fire off this move over and over. Note that it's Wonder Guard plus the fact that Fairy moves are turned into Normal on this field means... you can't even damage it under normal means.
+Five PULSEs in one battle, on a field that makes this fight very interesting. First out is PULSE Abra, with three special moves that trade massive power for a recharge turn, and Metronome. While the latter isn't really an issue, this field makes it so recharge moves don't waste a turn whenever they secure knockouts, meaning whenever the powerful Abra can one shot you, it doesn't ever recharge. Clawitzer works basically the same as before with Contrary boosts and massive speed, though needs to recharge when using Hydro Cannon. Magnezone has Bolt Strike for damage, Core Enforcer for coverage, and Parabolic Charge and Recover for healing, on top of Levitate, meaning it is hard to take down. PULSE Muk is mostly a special set with Protean Giga Drain and Fire Blast, but can use priority Shadow Sneak as well as Explosion, which is a nuke on this field. Finally there is PULSE Mr. Mime, who has only Psycho Boost. The 1 base SpA and Psycho Boost SpA drops get ignored in favor of Mime's 190 SpD, so it can fire off this move over and over for massive damage. Note that its Wonder Guard ability plus the fact that Fairy moves are turned into Normal on this field means... you can't even damage it with attacking moves!
 
-So, it's all pretty intense, but doable. One thing to try is just changing the field outright - with the four Tapus, various weather conditions, pledge moves, etc. you can quash the team's strategies. Trick Room is additionally good here as well, only Muk is somewhat slow. If you do play on the field, I recommend some combination of the following: a Dark type with a lot of SpD to deal with Abra, such as Umbreon, for the immunity to its strongest move: Prismatic Laser. If it can then survive Frenzy Plant and Blast Burn, you can then take advantage of its recharge turn. A fast Pokémon with Smack Down, another with a physical Ground move to take care of Magnezone. Mirror Coat, Gastro Acid, Topsy-Turvy, Haze, etc. are all good moves to counter Clawitzer's strategy if you're having trouble, or you can use the Dragonium-Z to nuke it. A Dark type with Toxic is my recommended strategy to deal with Mime since it can't touch a Dark type, bonus points if you have a set up move to help deal with the rest of the team. Anything with decent SpD can probably handle Muk; bonus points if you can bait it's Explosion and Protect or something like that.
+One thing to try is just changing the field outright - with the Tapus, various weather conditions, pledge moves, etc. Without Glitch Field, most of the PULSE team's strategies will be dampened significantly. If you do play on the field, I recommend some combination of the following: either something fast with a Choice Scarf that can one-shot Abra or a Dark type with a lot of SpD, such as Umbreon. A fast Pokémon with Smack Down plus another with a physical Ground move to take care of Magnezone, or perhaps the Fightinium-Z. Mirror Coat, Gastro Acid, Topsy-Turvy, Haze, etc. are all good moves to counter Clawitzer's strategy if you're having trouble, or you can use the Dragonium-Z to nuke it. A Dark type with Toxic is my recommended strategy to deal with Mime since it can't touch a Dark type, bonus points if you have a set up move to help deal with the rest of the team. Anything with decent SpD can probably handle Muk; bonus points if you can bait it's Explosion with Protect!
 
 Once you win, you'll get the first *Nanab Berry*!
 
@@ -416,9 +402,9 @@ Back in the center, you'll find Anna, who can heal your team. Anyways, proceed t
 
 !battle(["Camerupt", :CAMERUPT, 0], "New World")
 
-The PULSE we never actually got to fight is here at last... and it's about as annoying as you'd expect. Basically, it has Shedinja's 1 HP gimmick on top of Sturdy, meaning it just shrugs off every attack! On top of its Lum Berry and the rest of the team having Safeguard and Rage Powder, the team makes every attempt to prevent you from simply poisoning it. The New World field prevents weather chip damage as well. With field-boosted Earth Power and always max power Eruption, it hits hard too, so trying to stall out its PP may result in your team dead. The rest of the team is a solid Double's support team.
+The PULSE we never actually got to fight is here at last... It has Shedinja's 1 HP gimmick on top of Sturdy, meaning it just shrugs off every attack! On top of its Lum Berry and the rest of the team having Safeguard and Rage Powder, the team makes every attempt to prevent you from simply poisoning it. The New World field prevents weather chip damage as well. With field-boosted Earth Power and always max power Eruption, it hits hard too, so trying to stall out its PP may result in your team dead. The rest of the team is a solid Double's support team.
 
-How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokémon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokémon with Mold Breaker, Gastro Acid, Worry Seed, etc., since Camerupt can then be literally knocked out with Lick or any other non Normal/Fighting type attacking move once it loses its ability. Then the rest of the fight is fairly simple.
+How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokémon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokémon with Mold Breaker, Gastro Acid, Worry Seed, Skill Swap, etc., which the team has no answers for, since Camerupt can then be literally knocked out with any non-immune attacking move. Then the rest of the fight is fairly simple.
 
 Get the second *Nanab Berry* for winning.
 
@@ -436,7 +422,7 @@ Win to nab the third *Nanab Berry*, then return to the ??? guy. Up and to the ri
 
 !img("zcell_46.jpg")
 
-Or so it would seem. Talk to Shiv up from here for a battle!
+Go through the door to escape... or so it would seem. Talk to Shiv up from here for a battle!
 
 !battle(["Shiv", :SHIV, 0], "Forest Field")
 
@@ -444,9 +430,9 @@ Oh. Your team is all set to Lv. 1 and you can't use bag items. Oh no.
 
 Unlike Solaris at Pyrous, this battle truly is intended to be lost, and there is no reward other than a few lines of dialogue for winning. There are technically ways to win, but I'll leave that as an exercise to the reader.
 
-With all that taken care of, you'll receive Darkrai! Return to the Nightclub.
+Head back up and talk to Shiv again. With all that taken care of, you'll receive Darkrai! Return to the Nightclub.
 
-## Water Treatment Center Anomaly?
+## Water Treatment Center Anomaly
 
 Talk to Smeargle and accept the quest. Head on down to the Water Treatment Center and make your way to the room in the top right corner, the Onyx Water Grid. Enter the New World Door!
 
