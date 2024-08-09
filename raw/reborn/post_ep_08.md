@@ -8,15 +8,7 @@ Accept Randall's quest, then fly over to Beryl. Enter Beryl Cave and make your w
 
 Talk to Serra above. There are some encounters here in the water - notably, one of the strongest Ultra Beasts.
 
-**Citae Prisma**
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Tynamo             |70 |Eelektrik          |60 |Dragalge           |40 |
-|Deino              |30 |Zweilous           |20 |Eelektross         |40 |
-|                   |   |Eelektross         |20 |**Pheromosa**      |19 |
-|                   |   |                   |   |Hydreigon          |1  |
-
+!enc(896)
 Head up and talk to Luna and Elias. Talking to them will make the room dark or light, respectively. Study the puzzle in the light, then turn it dark to complete it.
 
 Essentially, we will want to make a beam in the center of the room hit one of the four crystals in the corners. Our first goal will be hitting the Blue Crystal. Start by moving the mirror up to hit it:
@@ -143,30 +135,7 @@ Well, our challenger flies away after we win. Interesting. That's it for whateve
 
 Head over to talk to the Ringmaster once more. Head over to Tanzan Mountain, make your way all the way down to the New World Door beneath the Steelix tunnel room, then head in.
 
-**Neoteric Isle**
-
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Muk                |20 |Golduck            |60 |
-|Rapidash           |20 |Tentacruel         |30 |
-|Vileplume          |10 |Vaporeon           |5  |
-|**Xurkitree**      |10 |Pidgeot            |4  |
-|Nidoking           |10 |Pidgeotto          |1  |
-|Nidoqueen          |10 |                   |   |
-|Machamp            |5  |                   |   |
-|Donphan            |5  |                   |   |
-|Wigglytuff         |4  |                   |   |
-|Tauros             |4  |                   |   |
-|Venusaur           |1  |                   |   |
-|Charizard          |1  |                   |   |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Psyduck            |70 |Seadra             |80 |Poliwhirl          |40 |
-|Staryu             |30 |Poipole            |20 |Kingler            |40 |
-|                   |   |                   |   |Dewgong            |15 |
-|                   |   |                   |   |Gyarados           |4  |
-|                   |   |                   |   |Blastoise          |1  |
+!enc(511)
 
 Our final Ultra Beast is located here! Anyways, at the first fork, head down and surf to reach the *N-Lunarizer* as well as:
 

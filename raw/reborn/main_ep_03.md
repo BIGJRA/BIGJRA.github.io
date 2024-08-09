@@ -28,16 +28,7 @@ Finally, head to the apartment in the top left corner of Peridot Ward. Now that 
 
 Leave this house, and head into the Jasper gate to your right. Talk to the guard here and head into Jasper Ward.
 
-**Jasper Ward**
-
-|Cave              |%  |
-|------------------|---|
-|**Beedrill**      |25 |
-|**Sewaddle**      |24 |
-|**Scatterbug**    |20 |
-|Pidgey            |20 |
-|**Carnivine**     |7  |
-|**Pidgeotto**     |4  |
+!enc(130)
 
 It's worth noting that when we have like 11 more badges we will eventually want a Carnivine for an in-game trade.
 

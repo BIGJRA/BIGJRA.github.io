@@ -67,15 +67,7 @@ Cross the ice puzzle to get to the left. Precisely:
 
 Follow the body of water up from here to enter Ametrine Mountain 2F.
 
-**Ametrine Mountain**
-
-|Water             |%  |
-|------------------|---|
-|Wailmer           |60 |
-|Seel              |30 |
-|Lumineon          |5  |
-|Wishiwashi        |4  |
-|Dewgong           |1  |
+!enc(364, ["Surfing"], nil, "Ametrine Mountain")
 
 You'll eventually notice on the right the area connected to Route 2. Now we know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
 

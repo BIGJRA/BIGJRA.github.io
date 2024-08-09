@@ -86,14 +86,12 @@ Once you win, you'll get a **Timburr**!
 
 Next to this you'll find the High Striker. It costs $350 to play each time.
 
-**High Striker Rewards**
-
-|Reward         |Chance |
-|---------------|-------|
-|*TM87 Swagger* |2%     |
-|**Clefairy**   |14%    |
-|Money back     |22%    |
-|Nothing        |62%    |
+|High Striker Reward  |Chance |
+|---------------      |-------|
+|*TM87 Swagger*       |2%     |
+|**Clefairy**         |14%    |
+|Money back           |22%    |
+|Nothing              |62%    |
 
 After you've gotten the grand prize, from then on it will be replaced with getting your money back and winning a *Poké Doll*. After getting Clefairy, you will win an actual *Poké Doll* from then on. There's a secret here too: if you do this with a pokemon with Huge Power, Guts, Pure Power, or Sheer Force at the front of your party, you will always get the jackpot!
 

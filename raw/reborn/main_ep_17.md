@@ -183,27 +183,25 @@ The train station in Lower Peridot where we started our journey is now open. Ins
 
 Make your way down to Seventh Street and find your corresponding gang leader. He'll ask us to give matching job applications to each of the members of their gang. Note that the blast powder salesmen will still sell to you on their respective jobsites. Anyways, the correct applications:
 
-**Magma Gang Applications**
-
-|Member     |Application        |
-|-----------|-------------------|
-|Darm       |Circus             |
-|Nihil      |Nightclub          |
-|Break      |Medicine           |
-|Kriz       |Spyce              |
-|Maxwell    |SOLICE             |
+|Magma Gang Member |Application        |
+|------------------|-------------------|
+|Darm              |Circus             |
+|Nihil             |Nightclub          |
+|Break             |Medicine           |
+|Kriz              |Spyce              |
+|Maxwell           |SOLICE             |
 
 Note that if you haven't fixed the slums yet, you won't be able to finish this quest with the Magma Gang yet. For completing it all you'll be given **Oshawott** holding a *Choice Band*.
 
 **Aqua Gang Applications**
 
-|Member     |Application        |
-|-----------|-------------------|
-|Razzy      |Sweet              |
-|Defacto    |Library            |
-|Pierce     |Apophyll           |
-|Mannie     |Construction       |
-|Archer     |Silph              |
+|Aqua Gang Member |Application        |
+|-----------------|-------------------|
+|Razzy            |Sweet              |
+|Defacto          |Library            |
+|Pierce           |Apophyll           |
+|Mannie           |Construction       |
+|Archer           |Silph              |
 
 For completing this quest, you'll be given a **Litten** holding *Choice Specs*.
 

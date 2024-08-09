@@ -788,15 +788,7 @@ Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get
 
 Head left underneath the waterfall, and continue going left until you run into *TM33 Reflect*!
 
-**The Underroot**
-
-|Water             |%  |Super Rod         |%  |
-|------------------|---|------------------|---|
-|Psyduck           |60 |Seaking           |40 |
-|Lombre            |30 |Golduck           |40 |
-|Seaking           |5  |Whiscash          |15 |
-|Golduck           |4  |Dragalge          |5  |
-|**Ludicolo**      |1  |                  |   |
+!enc(153, ["Surfing", "Fishing"], ["Super"])
 
 Via following the path on the right side down, reach the large pool of water, then surf across. You'll find the *Blastoisinite* while you're here!
 
