@@ -204,30 +204,11 @@ Make your way back to the center of the room, remove the remaining Drives, then 
 
 Accept Zero's quest, then head over to the Peridot Ward. In Seacrest's garden, you'll find a New World Door!
 
-**Idyll of Pestilence**
+!enc(878)
 
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Ariados            |20 |Dragalge           |60 |
-|Amoonguss          |20 |Qwilfish           |30 |
-|Parasect           |10 |Sharpedo           |5  |
-|Venusaur           |10 |Tentacruel         |5  |
-|Muk                |10 |                   |   |
-|Malamar            |10 |                   |   |
-|Nihilego           |6  |                   |   |
-|Honchkrow          |5  |                   |   |
-|Weezing            |4  |                   |   |
-|Skuntank           |4  |                   |   |
-|Salazzle           |1  |                   |   |
+!img("idyll01.png")
 
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Skrelp             |70 |Frillish           |60 |Dragalge           |41 |
-|Mareanie           |30 |Qwilfish           |20 |Jellicent          |40 |
-|                   |   |Quagsire           |20 |Toxapex            |15 |
-|                   |   |                   |   |Dhelmise           |4  |
-
-Make your way to the top of the hill in the center of the map.
+Make your way around the right side of the large hill. You'll see stairs here that let us climb up. Make your way to the top.
 
 **Relationship Point Choices:**
 - Agree to stop Eve (+1 Lumi)
@@ -241,21 +222,31 @@ If you choose to stop Eve, you'll have to battle her, else, you'll have to fight
 
 Either way, once you win, you'll get your next objective: collecting 5 Shaymin. The first one is right above you - they look like bushes.
 
+!img("idyll02.png")
+
 Make your way up and right. In this area, you can find an *Ultra Ball*. Navigate through the massive hop rock maze at the top, then interact with the orb on the next island. At the bottom of this island is a springy grass - step on it to reach another island with the second Shaymin. Use the springy grass to return to the center.
 
-Make your way around the center to the top left. Use the springy grass here to hop between hills. Once you reach a choice, use the leftmost one; at the next, use the bottom one. Grab the orb at the top of this hill, then use the bottom springy grass to return to the hill with three. Again, use the left one, and at the next hill, use the top one by the tree. At the next fork, go up to reach the third Shaymin!
+!img("idyll03.png")
 
-We can actually surf here - climb the waterfall to reach an *EV Booster* and a *Max Revive*. Anyways, use the springy grass near Shaymin to reach the center again.
+Make your way around the center to the top left. Use the springy grass here to hop between hills - the green arrows in the above image indicate direction. Following the red numbers 1-5 first, our first objective is an orb. Once you reach a choice, use the leftmost one; at the next, use the bottom one.
 
-Next, go to the bottom right, where the hedge maze is. At the first fork, go left to reach an orb. Make your way through the rest of the maze to get the fourth Shaymin in the bottom right corner, then return to the center.
+Our next objective is Shaymin: follow the yellow numbers 6-11. Use the bottom springy grass to return to the hill with three. Again, use the left one, and at the next hill, use the top one by the tree. At the next fork, go up to reach the third Shaymin!
 
-Finally, make your way to the bottom left corner, where the mushrooms are. Walk under the first two mushrooms to clear a path forward. Go to the top left, stand under the mushroom, and grab the nearby *Telluric Seed*. If you go up from this mushroom, you can reach a springy grass that will take you to:
+We can actually surf here - climb the waterfall to reach an *EV Booster* and a *Max Revive*. Follow the blue numbers 12-15 to return to the center of the Idyll: starting with the springy grass near Shaymin to reach the center again.
+
+!img("idyll04.png")
+
+Next, go to the bottom right, where the hedge maze is. At the first fork, go left (yellow) to reach an orb. Make your way through the rest of the maze (blue) to get the fourth Shaymin in the bottom right corner, then return to the center.
+
+!img("idyll05.png")
+
+Finally, make your way to the bottom left corner, where the mushrooms are. Walk under the first two mushrooms to clear a path forward. Go to the top left, stand under the mushroom, and grab the nearby *Telluric Seed* (blue path). If you go up from this mushroom, you can reach a springy grass that will take you to:
 
 **ZCell 44: Idyll of Pestilence**
 
 !img("zcell_44.jpg")
 
-Return to the mushroom area. Follow the left edge of this area down, then go right, using three mushrooms along the way. Talk to the orb at the end here, then return to the center. Walk under the mushroom in the bottom right to reach the fifth Shaymin! Return to the top of the hill in the center.
+Return to the mushroom area. Follow the left edge of this area down (yellow path), then go right, using three mushrooms along the way. Talk to the orb at the end here. Use some mushrooms (red path) to reach the bottom right side of the area. Talk to the fifth Shaymin! Return to the top of the hill in the center.
 
 Talk to Eve once, then again for a battle.
 
@@ -265,55 +256,45 @@ Talk to Eve once, then again for a battle.
 
 Eve will be your ally. The opponents team largely relies on hazard damage, corrosion damage, and switching your Pokémon out with things like Whirlwind and Red Cards. Sticky Hold and Suction Cups can help alleviate these issues, as can Rapid Spin and Defog. Shaymin will also frequently transform the field to Grassy Terrain, so keep that in mind.
 
-Once you win, the Shaymin will purify the area! This area is slightly different but has the same layout as the wasteland version.
+Once you win, the Shaymin will purify the area! This area has the same basic layout as the wasteland version, but has new puzzles in each quadrant.
 
-**Idyll of Panaceance**
+!enc(879)
 
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Shiftry            |20 |Floatzel           |60 |
-|Whimsicott         |20 |Vaporeon           |30 |
-|Swellow            |10 |Wailmer            |5  |
-|Ursaring           |10 |Golduck            |4  |
-|Muk                |10 |Dewgong            |1  |
-|Breloom            |10 |
-|**Kartana**        |6  |
-|Florges            |6  |
-|Sawsbuck           |4  |
-|Jumpluff           |4  |
+!img("idyll06.png")
 
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Feebas             |70 |Wishiwashi         |60 |Vaporeon           |41 |
-|Seel               |30 |Pyukumuku          |20 |Ludicolo           |40 |
-|                   |   |Dewgong            |20 |Milotic            |15 |
-|                   |   |                   |   |Clawitzer          |4  |
+Our first destination is the hedge maze in the bottom right corner. Follow the path up, escape the maze, and go around (the red path). Activate the orb at the end. Make your way back around and go through the now-open hedge path (green). Activate the next orb (yellow path). Follow the final path (pink) to reach the first of four *Gracidea* in the bottom right!
 
-Our first destination is the hedge maze. Follow the path up, escape the maze, and go around. Activate the orb at the end. Make your way back around and go through the now-open hedge path. Activate the next orb and repeat a few times. You'll reach the first of four *Gracidea* in the bottom right!
+Next, head to the mushroom forest area in the bottom left. Activate the red mushroom. We can't actually progress in this corner yet but we need this mushroom activated to continue elsewhere.
 
-Next, head to the mushroom area in the bottom left. Activate the red mushroom, then leave this area. Head to the top left corner next, with all the springy grass. You'll see a mushroom near the entrance glowing red. Following the path, use the bottom of two grasses at all three of the first forks. At the choice of three grasses, use the one on the left, then the top right in the next choice. Finally, choose the top grass to reach the second *Gracidea*. Climb back up this waterfall to get the *Soul Dew*!
+!img("idyll07.png")
 
-Make your way back to the mushroom area in the bottom left corner. Proceed through the path till you reach a purple mushroom. Step under it, then take the bottom springy grass to escape this area for now.
+Head to the top left corner next, with all the springy grass. You'll see a mushroom near the entrance glowing red. Following the path (yellow numbers 1-10), use the bottom of two grasses at all three of the first forks. At the choice of three grasses, use the one on the left, then the top right in the next choice. Finally, choose the top grass to reach the second *Gracidea*. Climb back up this waterfall to get the *Soul Dew*! Return to the center of the Idyll (using the pink numbers 11-14).
 
-Make your way to the top right corner once more. Hop to the left to get a *Full Restore*. Hop your way down and right to get:
+Make your way back to the mushroom area in the bottom left corner. Proceed past the red mushroom, using a springy grass towards the top, till you reach a purple mushroom. Step under it. We can't proceed any further down here, so take the bottom springy grass to escape this quadrant for now.
+
+!img("idyll08.png")
+
+Make your way to the top right corner next. Hop to the left (blue path) to get a *Full Restore*. Hop your way up and left in order to ultimately go down and right (green path) to get:
 
 **ZCell 45: Idyll of Panaceance**
 
 !img("zcell_45.jpg")
 
-Hop to the island in the top right corner. Talk to the orb then use the springy grass to reach the third *Gracidea*.
+Hop to the island in the top right corner (pink path). Talk to the orb then use the springy grass to reach the third *Gracidea*.
+
+!img("idyll09.png")
 
 Finally, return to the mushrooms in the bottom left corner. Follow the path through activating the purple mushroom as before, but take the top springy grass this time. Use the blue mushroom, then go down. Activate mushrooms as you go, making sure to go left once you use the red mushroom. Talk to the orb at the end of the path.
 
 Use the blue mushroom down and left from here, then follow the opened path. Use a red mushroom once more, then the blue mushroom in the bottom right corner. Grab the final *Gracidea*!
 
-Return to the center. Craudberry will show up... and we have a bit of an interesting battle-based quest to take care of!
+Return to the center and climb the hill. Craudberry will show up... and we have a bit of an interesting battle-based quest to take care of!
 
 !battle(["Craudburry", :HARRIDAN, 2], "Flower Garden Field")
 
 Winning this battle isn't hard. However, the catch here is that we actually need to end the battle with the Flower Garden Field at Stage 5... and Craudberry does everything in her power to ruin this mission.
 
-To win, you'll have to keep a few things in mind. First, that her Heat Waves on Heatmor, Torkoal, and Crobat will turn the field into Burning Field when it is not raining, but Rain plus Torkoal's Drought will turn the field to Rainbow. Next, Acid Downpour will reset the field to Stage 1, so you'll need to either knock out Amoonguss in one turn or worry about building up the field after the Z-Move is used. It's Grassy Terrain is also annoying, since it will also reset your progress. Finally, Cut and X-Scissor cut the field down a stage for each use, so you probably want to make sure Victreebel and Qwilfish don't use it much. To actually boost the stage of the field, the easiest way is just using Synthetic Seeds on your party, but moves like Growth, Rototiller, and Water Sport are viable too.
+To succeed, you'll have to keep a few things in mind. First of all: any temporary field changes are bad, since they will reset your Flower Garden to progress. This means that Sun + Rain together is a bad idea thanks to Rainbow Field. Heat Waves on Heatmor, Torkoal, and Crobat will turn the field into Burning Field when it is not raining, and one use of Amoonguss' Grassy Terrain will switch the field as well. Even within the Flower Garden, its Acid Downpour will reset the field to Stage 1, so you'll need to either knock out Amoonguss in one turn or worry about building up the field after the Z-Move is used. Finally, Cut and X-Scissor cut the field down a stage for each use, so you probably want to make sure Victreebel and Qwilfish don't use it much. Using a Nature Power Growth sweeper and/or giving your entire party Synthetic Seeds should then net you the win condition.
 
 Talk to the nearby **Shaymin** once you're done to take it with you! To the right is a *Gracidea* that you can keep. Return to the Nightclub once you're done!
 
