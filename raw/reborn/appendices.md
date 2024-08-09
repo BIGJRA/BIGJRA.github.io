@@ -277,8 +277,8 @@ I don't recommend reading this list until you've played through the game once - 
 - **eeveeplease / eeveepls / eevee / bestgamemode**: Allows the player to get Eevee as a starter.
 - **vulpixpls / vulpixplease / vulpix**: Allows the player to get Vulpix as a starter.
 - **justvulpix**: Makes everything Vulpix.
-- **dratiniearly**: Allows the player to get Dratini early.
-- **aevianmissy**: Allows the player to get Aevian Misdreavus early.
+- **dratiniearly**: Allows the player to get Dratini early, in the Tanzan Depths Steelix chase section. Interact with a random wall tile on the left side of the map. It becomes missable once the player reaches the top of the passageway and talks to Laura/Saphira for the first time.
+- **aevianmissy**: Allows the player to get Aevian Misdreavus early, in the Underroot.
 - **gen5weather**: Weather lasts indefinitely unless replaced or cancelled.
 - **unrealtime**: Time now progresses at an unreal rate, is no longer tied to system time.
 - **monowoke / wokemono**: Allows you to start with Porygon. Guarantees Lower Peridot event will be Espurr. Guarantees Malchous egg will be Nincada. Guarantees Slum Egg will be Drowzee. Guarantees Rhodochrine trade will be Cryogonal or Carbink.
