@@ -96,7 +96,7 @@ The sixth room has totals of 30 and 26. On the Anomalous side, you'll notice 2 F
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Since we have 2 Zweilous and an Umbral total of 26, we can conclude Zweilous is 13. By subtracting one 2, four 3's, and one 5 from 30, we can conclude that Granbull is 11. Since we can't simply remove 4 from the Anomalous side to reach 26, we'll need to knock out one Zweilous, making the target 13. As for the Anomalous side, knocking out Granbull, and any two of the Floette and Espeon will reach the balance of 13.
+    Since we have 2 Zweilous and an Umbral total of 26, we can conclude Zweilous is 13. By subtracting one 2, four 3's, and one 5 from 30, we can conclude that Granbull is 11. Since we can't simply remove 4 from the Anomalous side to reach 26, we'll need to knock out one Zweilous, making the target 13. As for the Anomalous side, knocking out Granbull and both Floettes will reach the balance of 13.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
@@ -130,27 +130,7 @@ The ninth room has 20 and 31. The Anomalous Pokémon are 1 Clefable and 1 Chimec
 
 With that, we finally reach the top of the tree!
 
-**Rhodochrine Tree**
-
-|Land               |%  |
-|-------------------|---|
-|Lilligant          |30 |
-|Liepard            |20 |
-|Lurantis           |10 |
-|Exeggutor          |10 |
-|Leavanny           |10 |
-|Tsareena           |5  |
-|Spiritomb          |5  |
-|Aromatisse         |4  |
-|Dustox             |4  |
-|Sceptile           |1  |
-|Decidueye          |1  |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Staryu             |100|Starmie            |100|Starmie            |95 |
-|                   |   |                   |   |Froakie            |4  |
-|                   |   |                   |   |Frogadier          |1  |
+!enc(889)
 
 Go to the left all the way to what appears like a dead end, and you'll be able to get:
 
@@ -164,7 +144,7 @@ You can also surf across the water on the right side of the area to reach:
 
 !img("zcell_58.jpg")
 
-Talk to Noel once more and you'll be taken to the base of the tree. That's it for this quest right now... we'll finish it up later. Return to the Nightclub!
+Talk to Noel once more and you'll be taken to the base of the tree. That's it for this quest right now: we'll finish it up later. Return to the Nightclub!
 
 ## Mirage Tower Mirages
 
@@ -225,9 +205,9 @@ You can also get the *Solganium-Z* here. Proceed to the next room.
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to the fifth puzzle</a>
 </div>
 
-Once you succed, you'll get the *Latiasite* and *Latiosite*! Nice. However, there's still more to do: return to the previous room.
+Once you succeed, you'll get the *Latiasite* and *Latiosite*! Nice. However, there's still more to do: return to the previous room.
 
-You can kinda walk up past the New World Door, finding another New World Door at the very top. In the next room is an Anomaly!
+You can walk up past the New World Door, finding another New World Door at the very top. In the next room is an Anomaly!
 
 !battle(["Ho-oh", :HOOH, 0], "Mirror Arena")
 
@@ -237,7 +217,7 @@ Afterwards, you'll be able to catch **Ho-oh**, who is holding a *Sacred Ash*! Ac
 
 You'll find a New World Door to the left, so head on in. Talk to Saphira, then head down the ladder. At the end of the path is a mirror. Smashing it will take you to a different dimension of sorts. Push the stone up, then un-smash the mirror - the ladder has moved! Take it to proceed.
 
-In the next area, head down the ladder to get a hidden *Rare Bone*. Head up, then enter the crystal dimension. Head through the New World Door at the bottom to get:
+In the next area, head down the ladder to get a hidden *Rare Bone*. Head up the ladder, then smash the mirror to enter the crystal dimension. Head through the New World Door at the bottom to get:
 
 **ZCell 60: Mirage Tower?**
 
@@ -245,7 +225,7 @@ In the next area, head down the ladder to get a hidden *Rare Bone*. Head up, the
 
 Complete the rest of the room: using what we've just learned will make it straightforward. Push the stone in a clockwise loop around the room to continuously push the ladder.
 
-The next section is generally similar, note that you can access the mirror from upper levels and lower levels. On the left side of the loop, you'll be able to push the stone into a rectangle - if you can get it into the bottom left corner, the ladder will take you to the *Lunalium-Z* as well as:
+The next section is generally similar, note that you can access the mirror from upper levels and lower levels. On the left side of the loop, you'll be able to push the stone into a rectangle - if you can get it into the bottom left corner, the ladder will take you onto the rock to the *Lunalium-Z* as well as:
 
 **ZCell 61: Mirage Tower?**
 
@@ -257,7 +237,7 @@ Make it to the end of the room and exit at the top. You'll talk to Saphira here,
 
 !img("zcell_62.jpg")
 
-Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this rather straightforward path to another Anomaly!
+Exiting from here does send you back to the beginning, but Saphira has made returning pretty simple as she has gotten rid of the webs. The dead end isn't a real dead end - if you return to the crystal dimension just before the final portal, pushing the stone to the bottom left corner will allow you to access another path across some water. Follow this path to another Anomaly!
 
 !battle(["Lugia", :LUGIA, 0], "Dark Crystal Cavern")
 
@@ -275,33 +255,15 @@ After the conversation in the middle, follow the narrow paths to the corners of 
 
 Nothing too crazy here, I guess. Deoxys Defense is probably the most threatening - if it can set up defenses AND offenses, you're going to have a bad time. Abuse Dark type moves being buffed on this field to one shot it if you need to.
 
-Once you win, you can catch **Deoxys**!
+Once you win, you can catch **Deoxys**! 
 
-That's pretty much it, so leave.
+Head back to the nightclub.
 
 ## Cauldron of the Future
 
-Accept Sandy's quest next, then make your way through the desert all the way to Teknite Cave. Make your way to the Teknite Ridge via going left at the fork in the cave. Climb the rocks at the top to reach a New World Door! Enter it.
+Accept Sandy's quest next, then make your way through the desert all the way to Teknite Cave. Make your way to the [Teknite Ridge](#teknite-cave--teknite-ridge) via going left at the fork in the cave. Climb the rocks at the top to reach a New World Door! Enter it.
 
-**Cauldron of the Future**
-
-|Land               |%  |
-|-------------------|---|
-|Hakamo-o           |20 |
-|Malamar            |20 |
-|Aerodactyl         |10 |
-|Bruxish            |10 |
-|Blacephalon        |10 |
-|Liepard            |10 |
-|Jellicent          |5  |
-|**Celesteela**     |5  |
-|Type: Null         |4  |
-|Guzzlord           |4  |
-|Kommo-o            |2  |
-
-|Super Rod          |%  |
-|-------------------|---|
-|**Cosmog**         |100|
+!enc(876)
 
 Pretty sweet - we can catch Celesteela now, as well as Cosmog. Fish in the void lake near Adrienn to get some! Grab two of them (four for the living dex) to also obtain **Cosmoem**, **Solgaleo**, and **Lunala** by evolving at Lv. 43, 53 during the day, and 53 during the night, respectively. You can also get another Type: Null here for living dex purposes if you like.
 
@@ -313,34 +275,15 @@ Follow the path to the left to find:
 
 It's also worth noting that the glowing mining rocks here will infinitely replenish if you exit this area and return, so no need to buy Blast Powder or worry about the finite number of rocks in the region.
 
+Talk to Adrienn - there are no mandatory battles in this section. A refreshing break!
+
 Once you're done here, return to the Nightclub.
 
 ## Umbral Battles in Aegir Cave (Part 1)
 
-Accept your gang leader's quest next. Return to the desert and make your way to the Sugiline Cave. Make your way to the back via the Garchomp Statue maze. Enter the New World Door just to the right of the top of the room!
+Accept your gang leader's quest next. Return to the desert and make your way to the [Sugiline Cave](#sugiline-cave). Make your way to the back via the Garchomp Statue maze. Enter the New World Door just to the right of the top of the room!
 
-**New World (Sugiline Cave)**
-
-|Land               |%  |Water              |%  |
-|-------------------|---|-------------------|---|
-|Pyroar             |20 |Wailord            |60 |
-|Solrock            |20 |Gastrodon          |30 |
-|**Buzzwole**       |11 |Seismitoad         |6  |
-|Rapidash           |11 |Poliwrath          |4  |
-|Lilligant          |10 |                   |   |
-|Leavanny           |10 |                   |   |
-|Talonflame         |5  |                   |   |
-|Druddigon          |5  |                   |   |
-|Claydol            |4  |                   |   |
-|Gumshoos           |4  |                   |   |
-
-|Old Rod            |%  |Good Rod           |%  |Super Rod          |%  |
-|-------------------|---|-------------------|---|-------------------|---|
-|Shellos            |70 |Gastrodon          |60 |Dhelmise           |40 |
-|Wooper             |30 |Quagsire           |20 |Wailord            |40 |
-|                   |   |Seadra             |20 |Gastrodon          |15 |
-|                   |   |                   |   |Quagsire           |4  |
-|                   |   |                   |   |Kingdra            |1  |
+!enc(883, nil, nil, "New World (Sugiline Cave)")
 
 Follow the path to the New World Door in the water. Head down from here to the island in the middle of the Aegir Cave lake.
 
@@ -363,20 +306,7 @@ Florinia will tell us that we need to catch Rayquaza in order to fix the issues 
 
 Finally, accept Smeargle's quest. Head over to Apophyll Cave and make your way to 2F. Enter the New World Door!
 
-**New World Helix**
-
-|Land               |%  |
-|-------------------|---|
-|Cryogonal          |20 |
-|Emolga             |20 |
-|Beartic            |10 |
-|Chandelure         |10 |
-|Zebstrika          |10 |
-|Stakataka          |10 |
-|Eelektross         |5  |
-|Heatmor            |5  |
-|Volcarona          |5  |
-|Dewgong            |5  |
+!enc(887)
 
 Depending on your route, you'll see Taka or Zero above, who will join you for this quest.
 
@@ -386,14 +316,14 @@ Switching between us and them with the "A" key, you'll need to progress with eac
 - As the main character (MC), head up and activate a crystal by going clockwise.
 - XM: Go up as far as you can and talk to Abomasnow and use Snow Warning.
 - MC: Continue along the path, past the snowdrift.
-- XM: Go all the way down, until you reach the orb you can't do anything with.
+- XM: Go all the way down counter-clockwise, until you reach the orb you can't do anything with.
 - MC: Talk to Altaria and use Cloud Nine.
 - XM: Activate the orb.
 - MC: Cross the ice to the right and activate the orb. Cross back left, talk to Abomasnow on the ice, then go back down and right. Use the crystal.
-- XM: Go all the way back up and follow the path. Use the crystal.
+- XM: Go all the way back up and follow the path clockwise. Use the crystal.
 - MC: Climb down the icy stairs. Talk to Altaria, then talk to the orb. Go down into the ice puzzle here and talk to Abomasnow.
 - XM: Go down from here. Activate the crystal, then go down past the snowdrift.
-- MC: Using the patch in the ice, head down. Stand near the frozen orb.
+- MC: Starting underneath Abomasnow, using the patch in the ice to the left, head down. Stand near the frozen orb.
 - XM: Talk to Altaria.
 - MC: Use the orb.
 - XM: Go to the left. Activate the crystal.
@@ -401,14 +331,26 @@ Switching between us and them with the "A" key, you'll need to progress with eac
 - XM: Go up and left, and climb down the snowdrift.
 - MC: Talk to Altaria.
 - XM: Use the orb, activate the crystal beyond, then use the second orb beyond. Head back to the ice puzzle and talk to Abomasnow.
-- MC: Head up the snow drift, talk to Altaria, and follow the path to another orb.
-- XM: Follow the path to the next frozen orb.
+- MC: Go left/clockwise and head up the snow drift, talk to Altaria, and follow the path to activate another orb.
+- XM: Talk to Abomasnow, then follow the path right/clockwise to the next frozen orb.
 - MC: Backtrack to the nearest Altaria and talk to it.
 - XM: Use the orb, then talk to Abomasnow.
 - MC: Follow the path all the way to the nine gemstones.
 - XM: Make your way to the nine gemstones.
 
-You'll need to transform the gemstones near MC black, and the ones near XM white. Each gemstone also changes the ones immediately around it. It shouldn't be too hard with some trial and error.
+You'll need to transform the gemstones near MC black, and the ones near XM white. Each gemstone also changes the ones immediately around it. It shouldn't be too hard with some trial and error. Head up from here and go through the door.
+
+You'll have a partner here: if we're with Zero:
+
+!partner(["Zero", :ZEL3, 0])
+
+If we're with Taka and he accompanied us in the desert:
+
+!partner(["Taka", :Taka2, 1])
+
+If we're with Taka and we didn't battle him at WTC:
+
+!partner(["Taka", :ZTAKA2, 0])
 
 !dbattle(["Zekrom", :ZEKROM, 0], ["Reshiram", :RESHIRAM, 0], "Icy Field")
 
@@ -492,10 +434,12 @@ Talking to the center is a bit more complex: when you talk to the center, it wil
 
 Figuring out what is going on might be harder than doing the puzzle itself, which you can kinda brute force. Honestly, I recommend spending a minute or two just randomly pressing the center and each column until you have a big mess of different colors all over the puzzle. Then, use the two columns to pull blocks that will generate B into the top - either B + B or B + D will work. Next, pull in blocks that will generate D, then G, L, and finally W. If at any point you are unable to create the desired block, simply continuously press the center 9 times and mess with the columns some more until you're able to. Head through the door when you're ready!
 
+We actually only have to fight the following battle on Lin Route, as on Anna Route Taka will take care of it:
+
 !battle(["Giratina", :GIRATINA, 0], "Inverse Field")
 
 Inverse Field! Probably weren't expecting this, were you? Might as well go all in on the 'new' type matchups for this one - Fighting is a great choice for Lugia and Yveltal, and Psychic can take the Ice types and Yveltal as well. Fake out and/or hazards are good choices for the Sashes. Using Psych Up or Haze may be useful for the enemy Magical Seeds, or you can just abuse your own.
 
-Catch **Giratina** once you win.
+Catch **Giratina** next.
 
 If you're on Anna Route, you'll need to reset the game a few times through some deceptive "Bad End" screens to proceed. Anyways, return to the Nightclub to really begin wrapping up the postgame!

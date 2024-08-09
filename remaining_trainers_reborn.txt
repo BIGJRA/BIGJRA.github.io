@@ -21,8 +21,3 @@ Normal E4 rematches?
 ["Laura", :LAURA, 1]
 ["Elias", :ELIAS, 2]
 ["Bennett", :BENNETT2, 1]
-
-["Taka", :Taka2, 1]
-["Taka", :ZTAKA2, 0]
-["Zero", :ZEL3, 0]
-["Naganadel", :NAGANADEL, 1]
