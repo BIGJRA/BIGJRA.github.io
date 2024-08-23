@@ -19,15 +19,15 @@ Use the crystal, cross the bridge above, and talk to the orb.
 
 You'll notice that there are now two mirrors. Move them in the light, switch it in the dark, then move them again in the darkness. You'll see outlines of the mirrors left over, and using the activated Purple Crystal will move all mirrors from their current locations to their previous locations. Keep this in mind as we solve the future puzzles.
 
-Our next goal will be hitting Green. Position the crystals in the light, then move them like so:
+Our next goal will be hitting Green, but to do so, we need to make use of the Purple Crystal. Position the crystals in the light, then move them like so:
 
 !img("citae_prisma_2.jpg")
 
-Activate the purple crystal. Next, you'll want to move one mirror into place such that a well timed Purple Crystal activation will allow the light to reach Green. The image below shows the direction the light will travel - you must time your use of the Purple Crystal while the light is in the red zone in order to succeed. Turn off speed up for these puzzles.
+This should light up the purple crystal - don't activate it yet though. Using the Purple Crystal will reset the mirrors to the positions of their shadows from the light, but requires timing: you'll want to move one mirror into place such that a well timed Purple Crystal activation will allow the light to reach Green. The image below shows the direction the light will travel - you must time your use of the Purple Crystal while the light is in the red zone in order to succeed. I recommend turning off speed up for these puzzles.
 
 !img("citae_prisma_3.jpg")
 
-Activate the crystal, then smash the debris on the puzzle board. Our next mission will be to activate the Blue and Green crystals at the same time - note that using the prism in the center will reset all crystals but Purple. We now have a beam that goes left out of the prism, so that's useful. First, you'll need to place the mirrors in the light, then move them into place in the dark. First, you'll need to charge Purple like before, so set it up like this:
+Activate the Green Crystal, then smash the debris on the puzzle board. Our next mission will be to activate the Blue and Green crystals at the same time - note that using the prism in the center will reset all crystals but Purple. We now have a beam that goes left out of the prism, so that's useful. First, you'll need to place the mirrors in the light, then move them into place in the dark. First, you'll need to charge Purple like before, so set it up like this:
 
 !img("citae_prisma_4.jpg")
 
@@ -45,7 +45,7 @@ Our next mission will be to activate Green, Red, and Blue all at the same time. 
 
 !img("citae_prisma_6.jpg")
 
-Activate all three crystals, then make your way to the left to reach another orb. You can also now go up from the puzzle to get:
+IMPORTANT: Before activating the crystals, move the leftmost mirror down one tile, as otherwise it will get stuck on top of a rock after activating the Red Crystal. Once you do this, activate all three crystals, then make your way to the left to reach another orb. You can also now go up from the puzzle to get:
 
 **ZCell 66: Citae Prisma**
 
@@ -57,15 +57,15 @@ First, set up all the crystals and Serra into their final positions, then turn i
 
 !img("citae_prisma_7.jpg")
 
-Using the prism will activate Purple, so do that next. From here, move the crystals into their next positions. The timing is really tight on this one, but you should be able to make it work. Use the Purple Crystal as soon as the light passes both of the circled mirrors, and you should be ok.
+Using the prism will activate Purple, so do that next. From here, move the crystals into their next positions. The timing is really tight on this one, so save/reset if needed. Use the Purple Crystal as soon as the light passes both of the circled mirrors.
 
 !img("citae_prisma_8.jpg")
 
 You'll get confirmation from Serra once you're successful. Activate Blue again to cross the ice bridge and enter the door above. Time for an Anomaly battle once you're ready.
 
-!battle(["Necrozma", :NECROZMA, 0], "Rainbow Field or Crystal Cavern Field")
+!battle(["Necrozma", :NECROZMA, 0], "Rainbow Field upon Crystal Cavern Field")
 
-All six members of the confusing Solgaleo, Lunala, and Necrozma fusion hell are here for a fight. All of them share the Psychic type, so you can try to sweep with Ghost and Dark moves or something.
+All six members of the confusing Solgaleo, Lunala, and Necrozma fusion bunch are here for a fight, including Ultra Necrozma in all its 754 BST glory. Not to mention some field boosts and seeds to make them even stronger! However, all six of them share the Psychic type, so sweeping with Ghost/Dark moves is the way to go.
 
 Once you win, you can catch **Necrozma**! Exit back to the Nightclub once you're done.
 
@@ -89,39 +89,34 @@ Now that we have Rayquaza, we can go help out the OTS squad over in the Aegir Ca
 
 This battle isn't that crazy - you'll notice that most of their Pokémon have moves that indiscriminately damage all Pokémon, including their allies. Bulky Pokémon, Wide Guard, etc. will help here. You'll also notice that if Kyogre and Groudon come in at the same time, the field will change to the Rainbow Field. Rock Slide gets power on the Cave Field and extra flinch chance on the Rainbow Field, so I recommend using it for this fight.
 
-The second battle of this gauntlet is determined by which route you're on, and who you have more relationship points with. On Lin Route, you'll fight whichever you have fewer points with. On Anna Route, you'll fight whichever you have more points with. On Lin Route, you'll get all your Pokémon healed to full, while in Anna Route, only non-fainted Pokémon will be restored, similar to the Glass Gauntlet.
+If you're on Lin Route, you get fully healed here... otherwise on Anna Route ONLY the non-fainted Pokemon get healed. Yikes!
 
-### Gauntlet Fight 2 (Amaria Version)
+The second battle of this gauntlet is determined by:
 
-If you instead fought Titania, skip ahead to the next section.
+- Anna Route, Titania RP >= Amaria RP: Fight Amaria
+- Anna Route, Titania RP < Amaria RP: Fight Titania
+- Lin Route, Titania RP > Amaria RP: Fight Titania
+- Lin Route, Titania RP <= Amaria RP: Fight Amaria
+
+Battle whichever gym leader plus anomaly:
 
 !dbattle(["Amaria", :UMBAMARIA, 2], ["Kyogre", :KYOGRE, 0], "Water Surface")
 
-This fight is absolute suffering. Even if you get your team fully healed because of Lin Route... it's still a 12v6 against a Water Surface team that might even go underwater. Even your fast grounded Pokémon will just get easily outsped. Surf will roll your over. Even if you use Trick Room, a few slower choices like Toxapex will mess up your strategy. Especially positioned as it is in the gauntlet, this might be my least favorite fight in this game... maybe minus the end game gauntlet, which we'll get to in due time. Electric moves will get you somewhat across the finish line potentially, or you could try some shenanigans on the Icy Field or Murkwater Fields, I guess. Good luck.
-
-Once you win this fight, you'll be able to catch **Kyogre**, who holds the *Blue Orb*!
-
-Head into the New World via surfing up the waterfalls, where you'll be able to find and catch **Groudon**, who holds the *Red Orb*!
-
-Return to the Nightclub!
-
-### Gauntlet Fight 2 (Titania Version)
-
-If you are instead fighting Amaria, skip ahead to the next section.
+This fight is absolute suffering. Even if you get your team fully healed... it's still a 12v6 against a Water Surface team. Your fast grounded Pokémon will get easily outsped, Surf will roll you over, your weather will be overwritten with Heavy Rain... etc. Even if you use Trick Room, there are a few slower opponents poised to take advantage of it like Toxapex. There are a few things we can try to take advantage of: Murkwater Field, Underwater, and Icy Field can all be potentially better to fight on than Water Surface, so changing the field is often smart. One other important thing to note is that Mega Swampert and Black Kyurem are the *only* Pokemon with physical attacking moves, meaning a Special Defense tank or two is going to be particularly well suited to this fight, especially with a Water resistance.
 
 !dbattle(["Titania", :UMBTITANIA, 2], ["Groudon", :GROUDON, 0], "Grassy Terrain")
 
 Thankfully I generally think this fight is much nicer than the Amaria fight, but it is still a very tough 12v6. There are a lot of Fire types here, so a sweeper with Ground and Rock moves might be good here. You can transform the Grassy Terrain into Corrosive Field potentially if that will help you. Burning Field activates Elemental Seeds and boosts their many Fire type moves, so it might not be the best choice. I will shoutout Mega Tyranitar for this fight, who basically turns off the strategy of the lead Ninetales and Venusaur, allowing a Dragon Dance sweep.
 
-Once you win, you can catch **Groudon**, who holds the *Red Orb*!
+Once you win, you can catch **Kyogre**/**Groudon**, who holds the *Blue Orb*/*Red Orb*!
 
-Head into the New World via surfing up the waterfalls, where you'll be able to find and catch **Kyogre**, who holds the *Blue Orb*!
+Head into the New World via surfing up the waterfalls, where you'll be able to find and catch **Groudon**/**Kyogre**, who holds the *Red Orb*/*Blue Orb*!
 
-Return to the Nightclub!
+Head back down into Aegir Cave to talk to the group, then return to the Nightclub!
 
 ## The Mysterious Battle Pavilion Challenger
 
-Accept the Ringmaster's quest next. We'll actually need to win a few battles in the Battle Pavilion on the left side of the Nightclub to proceed, so prepare your best team of 3. You can't use Megas or Z-Moves, nor the strong legendaries... so keep that in mind.
+Accept the Ringmaster's quest next. We'll actually need to win a few Battle Tower-style battles in the Battle Pavilion on the left side of the Nightclub to proceed, so prepare your best team of 3. You can't use Megas or Z-Moves, nor the strong legendaries... so keep that in mind.
 
 Once you beat 4 trainers, you'll face off against this one:
 
@@ -129,7 +124,7 @@ Once you beat 4 trainers, you'll face off against this one:
 
 You do have to fight one of the strongest Mega Evolutions without being able to use the same feature, but I think you can find a team that will be able to manage. 4 randomized fights beforehand shouldn't be too terrible, I hope.
 
-Well, our challenger flies away after we win. Interesting. That's it for whatever that was, so... make your way a few tiles over to the legendary staging area of the Nightclub.
+Well, our challenger flies away after we win.
 
 ## Neoteric Isle
 
@@ -185,7 +180,7 @@ With all 71 Zygarde Cells collected, it's a great time to head on back to the Tw
 
 First, if you'd like to, talk to the machine in one of the side rooms to exchange your Zygarde Cells for more Cell Imprints, and exchange some for Negative Imprints if you'd like.
 
-Head into the main building and talk to Terra here. If you have at least 50 cells, the path will be opened here, and a decent reward will be available later. If not, Terra will ask you if you want to go collect the rest. If not, you'll instead have to fight some battles:
+Head into the main building and talk to Terra here. If you have collected least 50 cells, the path will be opened here, Terra will give you two *Beast Balls*, and a decent reward will be available later. If not, Terra will ask you if you want to go collect the rest. If not, you'll instead have to fight some battles:
 
 If you have fewer than 10 Cells, you'll fight:
 
