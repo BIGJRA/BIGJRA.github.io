@@ -477,3 +477,19 @@ Good ol' Factory Field. CL:4R1-C3 Breloom is back, this time with 5 other Pokém
 Afterwards, you'll be able to catch **Magearna**!
 
 Head back to the nightclub. If you talk to Eve here, you can get **Aevian Misdreavus**, a cameo from Pokémon Rejuvenation. A Leaf Stone will evolve it into **Aevian Mismagius**.
+
+## Champion Defense
+
+This section is entirely optional - you can skip ahead [to the next section](#postgame-episode-5-wish-upon-a-star) if you wish.
+
+After finishing Flora's quest and talking to Eve, we can actually challenge the Reborn Elite Four anytime we wish. Notably, they have new teams! Note also that when fighting them, both sets of Pokemon are clamped to Lv. 100.
+
+!battle(["Heather", :HEATHER, 2], "Mountain Field")
+
+!battle(["Laura", :LAURA, 1], "Flower Garden Field")
+
+!battle(["Elias", :ELIAS, 2], "Holy Field")
+
+!battle(["Bennett", :BENNETT2, 1], "Rainbow Field atop Forest Field")
+
+Once we finish the Four, we will actually need to *defend* our title in the Champion room. You even get to choose the format between Singles and Doubles, and even choose your own Field Effect! The possible opponents are actually just a subset of the [Theme Team trainers](#battle-pavilion-facilities) from the Battle Pavilion: Shelly, Adrienn, Fern, Charlotte, Lumi, Saphira, Titania, Bennett, Cal, Cain, Victoria, and Heather. Any team of any of these trainers may be randomly chosen, except those named "Boss Rush" or "Boss Rush 2".

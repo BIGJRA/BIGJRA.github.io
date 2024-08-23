@@ -22,7 +22,7 @@ class TrainerGetter
     @trainerStore = Set[]
   end
 
-  def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false)
+  def generate_trainer_markdown(trainer_id, field=nil, second_trainer_id=nil, is_partner=false, name_ext="")
     raise "Trainer ID #{trainer_id} not in Trainer Hash" if !@trainerHash[trainer_id]
     raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainerHash[second_trainer_id]
     raise "Not a field - probably put trainer 2 in field arg: #{field}" if (field && !field.index('[').nil?)
@@ -37,6 +37,9 @@ class TrainerGetter
     @trainerStore.add(second_trainer_id) if second_trainer_id
   
     trainer_name = "#{@trainerTypeHash[trainer_id[1]][:title]} #{trainer_id[0]}"
+    if !name_ext.nil?
+      trainer_name += " #{name_ext}"
+    end
     second_trainer_name = second_trainer_id ? "#{@trainerTypeHash[second_trainer_id[1]][:title]} #{second_trainer_id[0]}" : nil
   
     item_symbols = Hash.new(0)
@@ -175,7 +178,7 @@ class TrainerGetter
         else
           "EVs: All #{[85, mon[:level] * 3 / 2].min}"
         end
-        
+
         iv_str = mon[:iv] ? (mon[:iv] == 32 ? "IVs: All 31 (0 Spe)" : "IVs: All #{mon[:iv]}") : "IVs: All 10"
         stat_details_parts = [
           mon[:nature] ? "#{mon[:nature].capitalize} Nature" : "Hardy Nature",
@@ -187,20 +190,15 @@ class TrainerGetter
       end
     end
   
-    # html_output = doc.to_html 
-    #return html_output.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
-
-    # Modify where you generate the HTML output
     html_output = doc.to_html.gsub(/\<td\>\s*\n\s*\<strong\>/, "<td><strong>").split("\n")[1..].join("\n")
 
     return html_output
   end  
 
-  def report_missing_trainers(include_bt=false)
+  def report_missing_trainers()
     puts "UNUSED TRAINER IDs: "
     @trainerHash.each do |trainer_id, _data|
       next if @trainerStore.include?(trainer_id)
-      next if !include_bt && (10..20).include?(trainer_id[2]) || (1000..9999).include?(trainer_id[2])
       p trainer_id
     end
   end

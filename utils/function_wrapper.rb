@@ -38,6 +38,9 @@ class FunctionWrapper
       "enc" => "generate_encounter_markdown",
       "shop" => "generate_shop_markdown",
       "battle" => "generate_trainer_markdown",
+      "btsinglesboss" => "generate_battle_tower_singles_bosses_markdown",
+      "btdoublesboss" => "generate_battle_tower_doubles_bosses_markdown",
+      "ttbattles" => "generate_theme_teams_markdown",
       "dbattle" => "generate_double_markdown",
       "mine" => "generate_mining_markdown",
       "wildheld" => "generate_wild_held_markdown",
@@ -203,6 +206,42 @@ class FunctionWrapper
 
   def generate_trainer_markdown(trainer_id, field=nil)
     return @trainerGetter.generate_trainer_markdown(trainer_id, field)
+  end
+
+  def generate_battle_tower_singles_bosses_markdown()
+    return_array = []
+    teams = {"reborn" => REBORN_BT_SINGLES}[@game]
+    teams.each do |team|
+      field_name = FIELDS[team[3]]
+      return_array.push(generate_trainer_markdown([team[1], team[0], team[2]], field_name))
+    end
+    return return_array.join("\n\n")
+  end
+
+  def generate_battle_tower_doubles_bosses_markdown()
+    return_array = []
+    teams = {"reborn" => REBORN_BT_DOUBLES}[@game]
+    teams.each do |team|
+      field_name = FIELDS[team[3]]
+      return_array.push(generate_trainer_markdown([team[1], team[0], team[2]], field_name))
+    end
+    return return_array.join("\n\n")
+  end
+
+  def generate_theme_teams_markdown()
+    return_array = []
+    teams = {"reborn" => REBORN_THEME_TEAMS}[@game]
+    teams.each do |team|
+      fight, data = @trainerHash.find { |fight, data| fight[0] == team[:trainer] && fight[2] == team[:teamnumber] }
+      field_name = FIELDS[team[:field]]
+      return_array.push(generate_bp_trainer_markdown(fight, field_name, team_name="(#{team[:name]})"))
+    end
+
+    return return_array.join("\n\n")
+  end
+
+  def generate_bp_trainer_markdown(trainer_id, field_text="Random Field", team_name="")
+    return @trainerGetter.generate_trainer_markdown(trainer_id, field=field_text, nil, false, name_ext=team_name)
   end
 
   def generate_double_markdown(trainer_id1, trainer_id2, field=nil)

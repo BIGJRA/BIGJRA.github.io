@@ -82,7 +82,36 @@ Note that the Remote PC is only available after buying the EXP All Upgrade, and 
 
 !shop("Nightclub BP Rewards (Top)", [["8 Exp. Candy XL", "1 BP"], ["50 Exp. Candy XL", "5 BP"], ["Ability Capsule", "1 BP"], ["2 Heart Scales", "2 BP"], ["Rare Candy", "1 BP"], ["3 EV Tuners", "2 BP"], ["2 EV Boosters", "3 BP"], ["PP All", "4 BP"], ["Reborn Ball", "9 BP"], ["10 Glitter Balls", "5 BP"], ["Sacred Ash", "13 BP"]])
 
-To win BP, you can participate in the Battle Tower and Battle Factory-style competitions, participate in Theme Teams, or do Mix N' Match. Try out these options and earn some BP if you'd like!
+To win BP, you can participate in the Nightclub's Battle Pavilion: Battle Tower and Battle Factory-style competitions, Theme Teams, and Mix N' Match. Try out these options and earn some BP if you'd like, or skip ahead to [the next section](#vanhanen-castle-new-world) to continue the postgame story.
+
+## Battle Pavilion Facilities
+
+The Battle Tower and Battle Factory modes work similarly to canon: the former lets you bring a team of three and the latter has you choose randomly from a pool. In these modes you can optionally choose to enable random field effects as well.
+
+Challenges in the Tower and Factory are sets of five battles: losing a set rewards the player with *BP* equal to the number of battles won. If the player wins the set of five, *BP* is awarded as follows:
+
+- Tower: `BP = w // 2 + 5 + 3RF + 3DB`, where `w` is the current win streak, `RF` is Random Fields being enabled and `DB` is doubles being enabled.
+- Factory: `BP = w // 2 + 5 + 3RF + 2DB + 1RFDB`, where `w` is the current win streak, `RF` is Random Fields being enabled, `DB` is doubles being enabled, and `RFDB` is BOTH Random Fields and Doubles enabled.
+
+For the first four fights of each set in the Tower and all battles in the Factory, specific Pokemon sets as well as Trainer information for these facilities can be found within the `btpokemon.rb` and `bttrainers.rb` files in the game's `Scripts` directory.
+
+The final fight of each Battle Tower set is against an NPC boss. Note the opponents' *default* fields can be overwritten if the random field option is on. Here are the boss battles for singles:
+
+!btsinglesboss()
+
+Here are the boss battles for doubles:
+
+!btdoublesboss()
+
+Theme Teams allows you to fight the game's NPCs with specific themed teams - beating them (except Julia's "Kaboom" team) will award you *4 BP*.
+
+Mix N' Match allows you to do 2v2 fights of these NPC teams: you get to pick a partner and fight two selected opponents. Note that you can only select partners with which you have a certain amount of relationship points with. Every Mix N' Match fight awards *4 BP*, though choosing random partner/enemies will award *8 BP* instead.
+
+*Note that certain trainers will not be available during certain story events for Theme Teams and Mix N' Match*. Regardless, listed in full, the pool of Theme Teams and Mix N' Match trainers is as follows:
+
+!ttbattles()
+
+## Vanhanen Castle New World
 
 On the right side of the room, talk to Cass.
 
@@ -90,8 +119,6 @@ On the right side of the room, talk to Cass.
 - Tell Cass you aren't ready to start your first postgame quest repeatedly (-1 Noel, -1 Serra)
 
 She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
-
-## Vanhanen Castle New World
 
 Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a New World Door on the second level. Head in.
 

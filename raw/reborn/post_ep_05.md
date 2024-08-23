@@ -342,4 +342,10 @@ Honestly? The Flower Field is 99% of Laura's power, so this is definitely her at
 
 This fight is where fun comes to die! Psych Up! Serene Grace spam! And worst of all: CHANSEY. Good luck, you'll need it. Literally. I recommend trying to support Euphie's Hoopa and using Psych Up yourself.
 
-That's it for this tier of legendary quests! Return to the Nightclub when you're ready to.
+Return to the Nightclub.
+
+## Boss Rush
+
+That's it for this tier of legendary quests. This section is wholly optional, so [skip ahead](#postgame-episode-6-lights-out) if you wish. In the nightclub, you'll now see another Cassbot who will mention the Boss Rush mode. You can only do this once all the boss rush trainers are present. 
+
+The trainers you fight here consist of the [Theme Team trainers](#battle-pavilion-facilities), titled "Boss Rush". Winning the whole challenge will net you *250 BP*! You'll also unlock a harder boss rush difficulty, where you fight the teams titled "Boss Rush 2". Completing this harder difficulty will net you *500 BP*!!
