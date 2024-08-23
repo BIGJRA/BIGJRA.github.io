@@ -164,10 +164,19 @@ class TrainerGetter
         end
         moves_str = "- " + mon[:moves].compact.map { |move| @moveHash[move][:name] + hp_str(@moveHash[move][:name], mon[:hptype])}.join("\n- ")
         content_row.add_child(doc.create_element('td', moves_str))
-    
-        ev_str = mon[:ev] ? "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }
-          .join(", ") : "EVs: #{[85, mon[:level] * 3 / 2].min}"
-        iv_str = mon[:iv] ? (mon[:iv] == 32 ? "IVs: 31 (0 Spe)" : "IVs: #{mon[:iv]}") : "IVs: 10"
+
+        ev_str = case
+        when mon[:ev] && mon[:ev].uniq == [252]
+          "EVs: All 252"
+        when mon[:ev] && mon[:ev].uniq.sort == [0, 252]
+          "EVs: All 252 (0 Spe)"
+        when mon[:ev]
+          "EVs: " + mon[:ev].zip(EV_ARRAY).reject { |ev, _| ev.zero? }.map { |ev, position| "#{ev} #{position}" }.join(", ")
+        else
+          "EVs: All #{[85, mon[:level] * 3 / 2].min}"
+        end
+        
+        iv_str = mon[:iv] ? (mon[:iv] == 32 ? "IVs: All 31 (0 Spe)" : "IVs: All #{mon[:iv]}") : "IVs: All 10"
         stat_details_parts = [
           mon[:nature] ? "#{mon[:nature].capitalize} Nature" : "Hardy Nature",
           ev_str,

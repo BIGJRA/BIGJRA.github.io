@@ -170,9 +170,9 @@ Back at the fork, go up for one heck of a battle.
 
 !dbattle(["Mewtwo", :MEWTWO, 1], ["Mew", :MEW, 0], "Holy Field")
 
-This fight is, well, rough. 12v6 on the Holy Field with a fun chance of Mew's Z-move transforming the field into Psychic Terrain. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokémon on Turn 1. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. Those two are weak to Ground, so you can take advantage of the field protecting your teammates and use Earthquake in conjuction. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, so that's nice.
+This fight is rough: it's a 12v6 on the Holy Field, with the potential for Mew's Z-move transforming the field into Psychic Terrain. They have a good mix of super powerful single target moves and field-supported spread moves that make it hard to capitalize too much with standard doubles strategies. Terrakion is a bit weird in that it doesn't have many Attack EV's, so you may be able to one shot Tyranitar with a Fighting move and set up with your other Pokémon on Turn 1. The leads are weak to Ground too, so you can take advantage of the field protecting your teammates and use Earthquake. Field boosted Dazzling Gleam is particularly potent here - only Groudon and Magearna resist it. The team is also quite weak to Psychic moves overall, so you may be able to use Psychic Terrain and/or run with Mew's Z-move to try to sweep on that field. In general, Extremespeed is also extremely potent here and will hit Lunala and Necrozma super-effectively, though hazards are recommended to circumvent Shadow Shield.
 
-However you manage to win this one, once you regain control, talk to **Mew** and **Mewtwo** for a chance to catch each. Nothing we can do to help out our friend here for now, so return to the Nightclub.
+Once you regain control, talk to **Mew** and **Mewtwo** for a chance to catch each. Nothing we can do to help out our friend here for now, so return to the Nightclub.
 
 ## Twilight Desert (Part 2)
 
@@ -224,13 +224,13 @@ Head back to the right to pick up the *DNA Splicers*. Anyways, return to Reborn 
 
 With 100% Zygarde in your party, talk to Shelly in the Underroot. If you had gotten at least 50 Cells in the previous quest, you'll now get Elias' 6IV Ditto. Helpful for some late game breeding.
 
-Make your way all the way back up the Rhodochrine Tree. The barriers will be gone now, so we can explore the top. Going up and left, then crossing under a waterfall, you can find the *Diancite*.
+Talk to Heather at the base of the tree and accept her offer for a lift to the top. The barriers will be gone now, so we can explore the top. Going up and left, then crossing under a waterfall, you can find the *Diancite*.
 
 Continuing along this path, you'll see Anomaly Xerneas. Talk to it when you're ready.
 
 !dbattle(["Xerneas", :XERNEAS, 0], ["Noel", :UMBNOEL, 0], "Psychic Terrain")
 
-This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokémon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokémon's SpA, and go H.A.M. If you want to avoid this, taking out Cosmoem ASAP is a good idea. I then recommend your own Pokémon with Psych Up to steal Lugia's Calm Mind or something and do a counter-sweep.
+This fight is wild... not the least because they decided to make the literally useless Cosmoem into an actually contributing Pokémon! The team essentially works via the Psych Up boost for Psychic Terrain - if Cosmoem is allowed to live, Noel will copy the defenses, double his Pokémon's SpA, and go H.A.M. If you want to avoid this, taking out or using Taunt on Cosmoem is a good idea. Your own Pokémon (potentially, with Psych Up) can then do a counter-sweep by cleaning up the right side first!
 
 Once you win, Noel will give you **Xerneas**!
 
