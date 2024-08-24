@@ -169,7 +169,7 @@ Return to the center. Activate the Shutter Terminal and insert the Shock Drive, 
 
 !dbattle(["Genesect", :GENESECT, 8], ["Genesect", :GENESECT, 9], "Factory Field")
 
-Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokémon are generally fast and frail and will die to the Water type moves, so look out for that.
+Finally, the Douse Drive themed team. This one is a bit harder in my opinion than the previous few just because Rain is the best weather condition. There are FOUR Bug/Steel types in this battle, so if you can change the weather to Sun or at least away from Rain, Fire types can be very useful here. Just note that Hardy's Pokemon are generally fast and frail and will die to the Water type moves, so look out for that.
 
 Once you win, you'll get the *Douse Drive*. Head back to the center, then go up from here and talk to Hardy if you'd like.
 
@@ -254,7 +254,7 @@ Talk to Eve once, then again for a battle.
 
 !dbattle(["Shaymin", :SHAYMIN1, 0], ["Friends", :SHAYMIN2, 0], "Wasteland")
 
-Eve will be your ally. The opponents team largely relies on hazard damage, corrosion damage, and switching your Pokémon out with things like Whirlwind and Red Cards. Sticky Hold and Suction Cups can help alleviate these issues, as can Rapid Spin and Defog. Shaymin will also frequently transform the field to Grassy Terrain, so keep that in mind.
+Eve will be your ally. The opponents team largely relies on hazard damage, corrosion damage, and switching your Pokemon out with things like Whirlwind and Red Cards. Sticky Hold and Suction Cups can help alleviate these issues, as can Rapid Spin and Defog. Shaymin will also frequently transform the field to Grassy Terrain, so keep that in mind.
 
 Once you win, the Shaymin will purify the area! This area has the same basic layout as the wasteland version, but has new puzzles in each quadrant.
 
@@ -384,7 +384,7 @@ Another fight with PULSE Hypno, this time with the support of a full team on the
 
 !enc(894)
 
-There's something all of these wild Pokémon have in common... hmm...
+There's something all of these wild Pokemon have in common... hmm...
 
 Anyways, we'll get our quest above. Collecting three Nanab Berries? Simple!
 
@@ -394,7 +394,7 @@ Start by following the path around to the left, and grab the hidden *Pretty Wing
 
 Five PULSEs in one battle, on a field that makes this fight very interesting. First out is PULSE Abra, with three special moves that trade massive power for a recharge turn, and Metronome. While the latter isn't really an issue, this field makes it so recharge moves don't waste a turn whenever they secure knockouts, meaning whenever the powerful Abra can one shot you, it doesn't ever recharge. Clawitzer works basically the same as before with Contrary boosts and massive speed, though needs to recharge when using Hydro Cannon. Magnezone has Bolt Strike for damage, Core Enforcer for coverage, and Parabolic Charge and Recover for healing, on top of Levitate, meaning it is hard to take down. PULSE Muk is mostly a special set with Protean Giga Drain and Fire Blast, but can use priority Shadow Sneak as well as Explosion, which is a nuke on this field. Finally there is PULSE Mr. Mime, who has only Psycho Boost. The 1 base SpA and Psycho Boost SpA drops get ignored in favor of Mime's 190 SpD, so it can fire off this move over and over for massive damage. Note that its Wonder Guard ability plus the fact that Fairy moves are turned into Normal on this field means... you can't even damage it with attacking moves!
 
-One thing to try is just changing the field outright - with the Tapus, various weather conditions, pledge moves, etc. Without Glitch Field, most of the PULSE team's strategies will be dampened significantly. If you do play on the field, I recommend some combination of the following: either something fast with a Choice Scarf that can one-shot Abra or a Dark type with a lot of SpD, such as Umbreon. A fast Pokémon with Smack Down plus another with a physical Ground move to take care of Magnezone, or perhaps the Fightinium-Z. Mirror Coat, Gastro Acid, Topsy-Turvy, Haze, etc. are all good moves to counter Clawitzer's strategy if you're having trouble, or you can use the Dragonium-Z to nuke it. A Dark type with Toxic is my recommended strategy to deal with Mime since it can't touch a Dark type, bonus points if you have a set up move to help deal with the rest of the team. Anything with decent SpD can probably handle Muk; bonus points if you can bait it's Explosion with Protect!
+One thing to try is just changing the field outright - with the Tapus, various weather conditions, pledge moves, etc. Without Glitch Field, most of the PULSE team's strategies will be dampened significantly. If you do play on the field, I recommend some combination of the following: either something fast with a Choice Scarf that can one-shot Abra or a Dark type with a lot of SpD, such as Umbreon. A fast Pokemon with Smack Down plus another with a physical Ground move to take care of Magnezone, or perhaps the Fightinium-Z. Mirror Coat, Gastro Acid, Topsy-Turvy, Haze, etc. are all good moves to counter Clawitzer's strategy if you're having trouble, or you can use the Dragonium-Z to nuke it. A Dark type with Toxic is my recommended strategy to deal with Mime since it can't touch a Dark type, bonus points if you have a set up move to help deal with the rest of the team. Anything with decent SpD can probably handle Muk; bonus points if you can bait it's Explosion with Protect!
 
 Once you win, you'll get the first *Nanab Berry*!
 
@@ -404,7 +404,7 @@ Back in the center, you'll find Anna, who can heal your team. Anyways, proceed t
 
 The PULSE we never actually got to fight is here at last... It has Shedinja's 1 HP gimmick on top of Sturdy, meaning it just shrugs off every attack! On top of its Lum Berry and the rest of the team having Safeguard and Rage Powder, the team makes every attempt to prevent you from simply poisoning it. The New World field prevents weather chip damage as well. With field-boosted Earth Power and always max power Eruption, it hits hard too, so trying to stall out its PP may result in your team dead. The rest of the team is a solid Double's support team.
 
-How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokémon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokémon with Mold Breaker, Gastro Acid, Worry Seed, Skill Swap, etc., which the team has no answers for, since Camerupt can then be literally knocked out with any non-immune attacking move. Then the rest of the fight is fairly simple.
+How DO you beat it, then? Camerupt's ONLY good stat is SpA, so if you get up Light Screen and get out some Pokemon with good SpD, you might be able to just eat its attacks and focus on the rest of the team, all of which aren't really dedicated attackers. Eventually you can use Toxic on it once the support is dead! "Easy mode" is just to send out a Pokemon with Mold Breaker, Gastro Acid, Worry Seed, Skill Swap, etc., which the team has no answers for, since Camerupt can then be literally knocked out with any non-immune attacking move. Then the rest of the fight is fairly simple.
 
 Get the second *Nanab Berry* for winning.
 

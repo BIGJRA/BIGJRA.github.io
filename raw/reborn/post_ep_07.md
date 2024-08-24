@@ -50,17 +50,17 @@ Talk to Lumi outside once more, and you'll see a New World Door has opened. Grea
 
 With those all taken care of, return to the Rhodochrine Tree and enter the New World Door.
 
-The tree is another puzzle! Essentially, the goal will be to 'balance' the Anomalous (light) and Umbral (dark) energy in each room by knocking out Pokémon of each kind.
+The tree is another puzzle! Essentially, the goal will be to 'balance' the Anomalous (light) and Umbral (dark) energy in each room by knocking out Pokemon of each kind.
 
 In the first room, knock out one of the Espeon to proceed.
 
-Essentially, each species has a prime number 'value' among the first 8 primes - adding up the values for Anomalous and Umbral Pokémon in each room yet to be knocked out will tell you the current score - make them equal to continue. Note that you can't simply knock all of the Pokémon out - there must be at least one of each type still around.
+Essentially, each species has a prime number 'value' among the first 8 primes - adding up the values for Anomalous and Umbral Pokemon in each room yet to be knocked out will tell you the current score - make them equal to continue. Note that you can't simply knock all of the Pokemon out - there must be at least one of each type still around.
 
 In the second room, you'll be told Chingling is 2, Espeon is 3, and Mightyena is 5. By extension from the first floor, you'll be able to conclude Umbreon is 3.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Since Mightyena is the only Umbral Pokémon it must be kept alive: bringing the Anomalous total to 5 requires knocking out one Chingling.
+    Since Mightyena is the only Umbral Pokemon it must be kept alive: bringing the Anomalous total to 5 requires knocking out one Chingling.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
@@ -78,7 +78,7 @@ In the fourth room, the totals are 12 and 14, respectively.  There are two Misma
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    The solution: Since we know the values of Togetic and Espeon, we can conclude Cleffa is 2. We know that we will need to knock out at least one Umbral Pokémon but not both... so knocking out one Mismagius leads to an Umbral total of 7. To the Anomalous total down from 12, then, we'll need to knock out Cleffa and Espeon.
+    The solution: Since we know the values of Togetic and Espeon, we can conclude Cleffa is 2. We know that we will need to knock out at least one Umbral Pokemon but not both... so knocking out one Mismagius leads to an Umbral total of 7. To the Anomalous total down from 12, then, we'll need to knock out Cleffa and Espeon.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
@@ -87,7 +87,7 @@ The fifth room has totals of 10 and 9, respectively. There are three Umbreon her
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    Since the three Anomalous Pokémon have prime values, the only way to make 10 from three primes is by adding 2, 3, and 5. The game doesn't really tell you this until after this puzzle, but within evolutionary lines the further along species has the higher values - so Flabebe is 2, Floette is 3, and Florges is 5. With that information, we know we will need to knock out either one or two Umbreons to make an Umbral total of 3 or 6... but the latter cannot be obtained by any sum of 2, 3, and 5. So, knock out two Umbreon, Flabebe, and Florges to reach a balance of 3.
+    Since the three Anomalous Pokemon have prime values, the only way to make 10 from three primes is by adding 2, 3, and 5. The game doesn't really tell you this until after this puzzle, but within evolutionary lines the further along species has the higher values - so Flabebe is 2, Floette is 3, and Florges is 5. With that information, we know we will need to knock out either one or two Umbreons to make an Umbral total of 3 or 6... but the latter cannot be obtained by any sum of 2, 3, and 5. So, knock out two Umbreon, Flabebe, and Florges to reach a balance of 3.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
@@ -105,25 +105,25 @@ The seventh room has 24 and 21. There is 1 Spritzee and 2 Kadabra in here, as we
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    First, we can figure out the values. Note that the Anomalous total is even, and the 2 Kadabra together will always have an even total. This implies Spritzee is even, since it is a prime, Spritzee is 2. We can thus conclude Kadabra is 11. On the other side, Murkrow and Houndour together add up to 8, meaning one of them must be 3 and the other 5. Shelving this for now, we now look at all the possible states of the Anomalous side. Keeping 2/3 alive would result in a total of either 13 or 22, while keeping only 1/3 alive would result in a total of either 2 or 11. None of the Umbral Pokémon are valued 2 or 11, and the Dark total begins at 21, meaning 13 must be the target value - knocking out one Kadabra will get us there on the Anomalous side. Luckily for us, Zweilous is valued 13, so we can knock out Houndour and Murkrow without being sure of their values to finish this room.
+    First, we can figure out the values. Note that the Anomalous total is even, and the 2 Kadabra together will always have an even total. This implies Spritzee is even, since it is a prime, Spritzee is 2. We can thus conclude Kadabra is 11. On the other side, Murkrow and Houndour together add up to 8, meaning one of them must be 3 and the other 5. Shelving this for now, we now look at all the possible states of the Anomalous side. Keeping 2/3 alive would result in a total of either 13 or 22, while keeping only 1/3 alive would result in a total of either 2 or 11. None of the Umbral Pokemon are valued 2 or 11, and the Dark total begins at 21, meaning 13 must be the target value - knocking out one Kadabra will get us there on the Anomalous side. Luckily for us, Zweilous is valued 13, so we can knock out Houndour and Murkrow without being sure of their values to finish this room.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
 
-The eighth room has 18 and 24. The Anomalous Pokémon are 1 Granbull and 1 Togetic, and the Umbral Pokémon are 1 Houndour, 1 Drifloon, and 1 Mandibuzz.
+The eighth room has 18 and 24. The Anomalous Pokemon are 1 Granbull and 1 Togetic, and the Umbral Pokemon are 1 Houndour, 1 Drifloon, and 1 Mandibuzz.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    First, we will try to figure out what we can learn about the values of the Umbral Pokémon. If Houndour is 3, then Drifloon and Mandibuzz will total 21. Two odd numbers can't sum to an odd number, so one of them must be 2, meaning the other would be 19. If instead Houndour is 5, then Drifloon and Mandibuzz would total 19; by similar logic, would then be 2 and 17. We know that we will need to target either 7 or 11 thanks to the Anomalous side only having 2 Pokémon. So, how can we total 7 or 11 in the first case, where the Umbral values are 2, 3, 19? Well, we can't - one knockout would mean a total 5, 21, or 22. In the second case, however, the Umbral values being 2, 5, 17 would mean we simply have to knock out the 17 - since a solution exists, we can conclude Houndour is 5. We still aren't told whether Drifloon is 2 or 17, but later puzzles reveal that we can assume all evolutionary line members should be assumed to exist, even if they aren't present - meaning we can assume Vullaby exists, so Mandibuzz can't be the lowest prime in 2. So Drifloon is 2 and Mandibuzz is 17, and knocking out Mandibuzz and Granbull is all you need to do.
+    First, we will try to figure out what we can learn about the values of the Umbral Pokemon. If Houndour is 3, then Drifloon and Mandibuzz will total 21. Two odd numbers can't sum to an odd number, so one of them must be 2, meaning the other would be 19. If instead Houndour is 5, then Drifloon and Mandibuzz would total 19; by similar logic, would then be 2 and 17. We know that we will need to target either 7 or 11 thanks to the Anomalous side only having 2 Pokemon. So, how can we total 7 or 11 in the first case, where the Umbral values are 2, 3, 19? Well, we can't - one knockout would mean a total 5, 21, or 22. In the second case, however, the Umbral values being 2, 5, 17 would mean we simply have to knock out the 17 - since a solution exists, we can conclude Houndour is 5. We still aren't told whether Drifloon is 2 or 17, but later puzzles reveal that we can assume all evolutionary line members should be assumed to exist, even if they aren't present - meaning we can assume Vullaby exists, so Mandibuzz can't be the lowest prime in 2. So Drifloon is 2 and Mandibuzz is 17, and knocking out Mandibuzz and Granbull is all you need to do.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
 
-The ninth room has 20 and 31. The Anomalous Pokémon are 1 Clefable and 1 Chimecho, while the Umbral Pokémon are 1 Poochyena, 1 Eevee, 1 Vullaby, 3 Deino, 1 Hydreigon, and 1 Misdreavus. We are also finally actually told that evolutions increase in value.
+The ninth room has 20 and 31. The Anomalous Pokemon are 1 Clefable and 1 Chimecho, while the Umbral Pokemon are 1 Poochyena, 1 Eevee, 1 Vullaby, 3 Deino, 1 Hydreigon, and 1 Misdreavus. We are also finally actually told that evolutions increase in value.
 
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
-    This one is thankfully easier than it seems - since we know Zweilous is 13, Hydreigon must thus be 17 or 19. There are 7 non Hydreigon Umbral Pokémon. If Hydreigon is 19, then the remaining value is 12... which is not enough for the remaning 7 that all have a minimum of 2. It IS enough when Hydreigon is 17, however, meaning all of the other Umbral Pokémon are 2. So, that's nice. As for the Anomalous two, we know they total 20, hence must be 7 and 13 or 3 and 17. We can't generate 7 or 13 on the Umbral Side, so Chimecho and Clefable are 3 and 17. Since Cleffa is 2, we can infer the existence of Clefairy who must be at least 3. So Clefable isn't 3 and must thus be 17! Knocking out everything except Hydreigon and Clefable does the trick.
+    This one is thankfully easier than it seems - since we know Zweilous is 13, Hydreigon must thus be 17 or 19. There are 7 non Hydreigon Umbral Pokemon. If Hydreigon is 19, then the remaining value is 12... which is not enough for the remaning 7 that all have a minimum of 2. It IS enough when Hydreigon is 17, however, meaning all of the other Umbral Pokemon are 2. So, that's nice. As for the Anomalous two, we know they total 20, hence must be 7 and 13 or 3 and 17. We can't generate 7 or 13 on the Umbral Side, so Chimecho and Clefable are 3 and 17. Since Cleffa is 2, we can infer the existence of Clefairy who must be at least 3. So Clefable isn't 3 and must thus be 17! Knocking out everything except Hydreigon and Clefable does the trick.
   </div>
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to this floor</a>
 </div>
@@ -289,7 +289,7 @@ Follow the path to the New World Door in the water. Head down from here to the i
 
 !battle(["Amaria", :UMBAMARIA, 0], "Water Surface")
 
-The fight will go instantly to Grassy Terrain for a little while. As long as you have a few Specially Defensive and fast Pokémon, letting Celesteela hang around while you attack the other, faster Pokémon on the field can be a good idea. Changing the field to Corrosive Field can be useful for gaining momentum.
+The fight will go instantly to Grassy Terrain for a little while. As long as you have a few Specially Defensive and fast Pokemon, letting Celesteela hang around while you attack the other, faster Pokemon on the field can be a good idea. Changing the field to Corrosive Field can be useful for gaining momentum.
 
 !battle(["Titania", :UMBTITANIA, 0], "Cave Field")
 

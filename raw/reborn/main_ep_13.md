@@ -2,7 +2,7 @@
 
 With 10 badges in hand, there is another default shop update.
 
-!shop("Default Mart (10-12 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion"])
+!shop("Default Mart (10-12 Badges)", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion"])
 
 Return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
 
@@ -29,7 +29,7 @@ Surf to the left.
 
 !enc(372, nil, nil, "Celestinine Cascade West")
 
-Hidden are *Water Gem*, 2 *PokéSnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poké Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
+Hidden are *Water Gem*, 2 *PokeSnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poke Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
 
 Talk to the clown with the Politoed and Torkoal for a battle.
 
@@ -74,7 +74,7 @@ You'll eventually notice on the right the area connected to Route 2. Now we know
 **Relationship Point Choices:**
 - Talk to Blake at the bottom of the circus (+1 Blake)
 
-There's also a Pokémon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I'll cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see.
+There's also a Pokemon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I'll cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see.
 
 Inside this cave you can get an *Elemental Seed* as well as the *Aerodactylite* and a hidden *Exp. Candy XL*. You can also talk to the rock at the top to battle **Salandit**!
 
@@ -105,7 +105,7 @@ Inside this cave you can find a hidden *Hyper Potion*, *Red Shard*, 2 *Repels*, 
 
 Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resist Wing*, and *Exp. Candy XL*.
 
-Enter the next cave. Inside you can find hidden *PokéSnax*, and *Potion*, as well as Team Meteor!
+Enter the next cave. Inside you can find hidden *PokeSnax*, and *Potion*, as well as Team Meteor!
 
 !dbattle(["Geoff", :MeteorGrunt, 1], ["Audrey", :MeteorGrunt_090, 1], "Cave Field")
 
@@ -119,7 +119,7 @@ Continue into the next room.
 
 !dbattle(["Kenan", :MeteorKnight, 2], ["Diana", :MeteorDame, 2], "Cave Field")
 
-Pick up the hidden *Super Repel* and *Poké Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
+Pick up the hidden *Super Repel* and *Poke Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
 
 !dbattle(["Steven", :MeteorKnight, 2], ["Avril", :MeteorDame, 2], "Rocky Field")
 
@@ -129,7 +129,7 @@ In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. 
 
 !dbattle(["Aster", :AsterKnight, 0], ["Eclipse", :EclipseDame, 0], "Factory Field")
 
-Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokémon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
+Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokemon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
 
 **Relationship Point Choices:**
 - Aya gets kidnapped (-2 Aya. This is not a choice, actually.)
@@ -160,13 +160,13 @@ Finally, up the hill to the left is the last trainer here.
 
 !battle(["George", :COOLTRAINER_Male, 0], "Forest Field")
 
-Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, 2 *PokéSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokémon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of the map.
+Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of the map.
 
 Enter Calcenon City to the west.
 
 ## Calcenon City
 
-Inside the Pokémon Center, a person will tell you about the password *noitems*. Another person in here will offer an in-game trade: your Qwilfish for **Munchlax**!
+Inside the Pokemon Center, a person will tell you about the password *noitems*. Another person in here will offer an in-game trade: your Qwilfish for **Munchlax**!
 
 Enter the gym at the top of the city.
 
@@ -235,6 +235,6 @@ When you're ready, take on the Fire type gym leader!
 
 Time for another of Reborn's double battle gym leaders. Her two leads, Darmanitan and Typhlosion, are incredibly fast and hit like trucks with their Fire moves. Eruption will turn the field to Burning Field, potentially making things more difficult. In the back she has a seeded Ninetales, who will amplify her Fire type moves even more thanks to Drought. With a bulky Rotom that can counter Water and Ground types and the speedy Heat Wave + coverage moves sets she has on her Delphox and Volcarona, Charlotte has a pretty frail but speedy and strong team that can overwhelm unprepared teams by their sheer field-boosted power.
 
-Both the Super-Heated Field and Burning Field benefit Charlotte a lot, but they could benefit you as well. One hilarious strategy you can try is just using your own Fire types to obliterate her: use your own Eruption, Heat Wave, etc. As long as you can control for speed such as by using the Telluric Seed this tends to be reliable. If you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room on the first turn with many different Pokémon. Under Trick Room, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-Heated Field damage suppression. There are tons of other crafty doubles strategies you can use on this fight especially if you buy yourself some turns with Wide Guard, so get creative!
+Both the Super-Heated Field and Burning Field benefit Charlotte a lot, but they could benefit you as well. One hilarious strategy you can try is just using your own Fire types to obliterate her: use your own Eruption, Heat Wave, etc. As long as you can control for speed such as by using the Telluric Seed this tends to be reliable. If you find yourself stuck, Trick Room is an incredible strategy here - paired with Wide Guard, you can reliably set up Trick Room on the first turn with many different Pokemon. Under Trick Room, her entire team will crumple to slow Rock moves, Ground moves on top of Gravity, or Water moves if you can keep it on Burning to avoid the Super-Heated Field damage suppression. There are tons of other crafty doubles strategies you can use on this fight especially if you buy yourself some turns with Wide Guard, so get creative!
 
 Once you win, you'll get the *Cinder Badge* which allows us to use Dive in the field and boosts the cap to Lv. 75. You'll also get *TM35 Flamethrower*! Very nice.

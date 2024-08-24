@@ -106,7 +106,7 @@ Make your way over to the Opal Bridge. As you make your way into North Obsidia W
 
 !battle(["Yagami", :EXPERT_Male, 0])
 
-North of here, you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for Pokémon that need to be traded otherwise. To evolve Pokémon that normally trade while holding items, you can give them their item and use the Link Stone on them. This one is pricey, but if you have a Pokémon like Graveler you're trying to evolve, it's worth picking up.
+North of here, you'll see a guy selling a single *Link Stone* for $10000. What this does is essentially work as an evolution stone for Pokemon that need to be traded otherwise. To evolve Pokemon that normally trade while holding items, you can give them their item and use the Link Stone on them. This one is pricey, but if you have a Pokemon like Graveler you're trying to evolve, it's worth picking up.
 
 ## Defeating the Rival Gang
 
@@ -154,7 +154,7 @@ Anyways, return to Archer at your alleyway to get **Carvanha**. That's it with t
 
 Head over to the Onyx Ward next. Inside one of the rooms upstairs the guy playing "Mr. Mimecraft" will now move. Using the Data Chip we found earlier, we can talk to the PC here for a chance to catch **Porygon**. Next, head to the hallway where the tutors are. Go into the left door - inside you can talk to someone who will tell us a new password: *stopitems*.
 
-In Lapis Ward a lady in the Pokémon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*.
+In Lapis Ward a lady in the Pokemon Center will tell us about a few more passwords: *leveloffset* and *percentlevel*.
 
 ### Smashin' at the Stairway
 
@@ -214,9 +214,9 @@ Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a 
 
 !enc(229, ["Headbutt"], nil, "Underground Railnet (Depths)")
 
-Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokémon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
+Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokemon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
 
-!shop("Department Store 5F (Left)", ["Great Ball", "Super Potion", "Super Repel", "Full Heal", "Poké Doll"])
+!shop("Department Store 5F (Left)", ["Great Ball", "Super Potion", "Super Repel", "Full Heal", "Poke Doll"])
 
 The first buyable Great Balls and Super Repels? Sign me up.
 
@@ -248,7 +248,7 @@ On windy days, you can have a battle!
 
 Just gotta find a way to hit Shiftry with a Bug move and you'll probably win here. As a reward, you'll get **Nuzleaf** by talking to it.
 
-The totem at the top here also has Pokémon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokémon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokémon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
+The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
 
 ### Smashin' at Citrine Mountain
 

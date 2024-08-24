@@ -6,9 +6,9 @@ Exit Florinia's Arena. There are a few things we can do now that we have 2 badge
 
 First, head to the room containing the nurse in the Trainer School. A girl towards the left side will trade you battle advice for *TM100 Confide*!
 
-Now that we have 2 badges, the Pokémarts and candy store have updated inventory now:
+Now that we have 2 badges, the Pokemarts and candy store have updated inventory now:
 
-!shop("Default Mart (2-5 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
+!shop("Default Mart (2-5 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poke Ball"])
 
 !shop("Sweet Kiss (Bottom) (2-3 Badges)", ["Common Candy", ["Exp. Candy XS", 500], ["Exp. Candy S", 2000], "Rare Candy"])
 
@@ -50,7 +50,7 @@ Enter the building here.
 
 !battle(["Morrison", :StreetRat, 0])
 
-Exit through the top right, where you'll find a Pokémon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
+Exit through the top right, where you'll find a Pokemon Center as well as a hidden *Antidote* and *Ether*. During a clear morning or day, you can talk to an **Emolga** to battle and catch it.
 
 Head back down into the building below the Pokemon Center and exit to the left. Pick up a hidden *Pecha Berry* and continue into the next building.
 
@@ -96,9 +96,9 @@ Exit Malchous Forest Park in the top right corner. In the first house, you'll fi
 
 Defeat him to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 
-Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokémon Center area, you can now grab a hidden *PokéSnax*.
+Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *PokeSnax*.
 
-Past the Pokémon Center, enter the first building you see. Talk to the guy here to activate a quest. You can also enter the elevator room here to get the *Forest Field Readout*.
+Past the Pokemon Center, enter the first building you see. Talk to the guy here to activate a quest. You can also enter the elevator room here to get the *Forest Field Readout*.
 
 Outside, you can now grab a *Paralyze Heal* and save Police Officer #2. Grab a hidden *Super Potion* and *Green Shard* outside and head into the small building here. If you have snax and talked to the panicking guy earlier, you can get **Mareep**!
 
@@ -114,7 +114,7 @@ Back in Jasper, return to the top-right corner and head up to access the next wa
 
 ## Rhodochrine Jungle & The Underroot
 
-Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *PokéSnax*.
+Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *PokeSnax*.
 
 While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to the kid here and he will go home.
 
@@ -122,7 +122,7 @@ Back in Beryl, head left.
 
 !enc(149)
 
-Grab a hidden *Red Shard* outside, then an *X Attack* in the house. Make your way left, grab the hidden *Poké Ball*, and enter the jungle.
+Grab a hidden *Red Shard* outside, then an *X Attack* in the house. Make your way left, grab the hidden *Poke Ball*, and enter the jungle.
 
 !enc(150)
 
@@ -248,7 +248,7 @@ Defeat him to free Police Officer #3.
 
 Back in the Underroot, go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
 
-Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poké Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
+Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poke Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
 
 Still in the Underroot, head down from here and take the stairs downward on the east side of the waterfall. Hug the left wall as you go down. You'll find a *Potion*, *Blue Shard*, *Energy Powder*, *Heavy Ball*, and an *Elemental Seed* on the ground. Use the Light Shard if you need it and head back up.
 
@@ -286,9 +286,9 @@ Prepare your team as necessary, and head up.
 
 !battle(["Ace of Clubs", :ACECLUBS, 0], "Forest Field")
 
-Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokémon in this guide, but that Pokémon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia, as we've seen with Fern, is a hard hitting and healing monster in the early game. Be extra careful with the ultimate PULSE Tangrowth: it likes to get boosts from double-strength Growth and Stamina, then hit hard with Stored Power.
+Finally we get to battle Meteor's Ace themselves. I wish there was a way to not spoil the surprise of their first Pokemon in this guide, but that Pokemon and many more on their team have Grass moves that feed off of the terrain's 1.5x boost. Braixen can steal your items and hit pretty hard with Psybeam and Fire Spin, and Roselia, as we've seen with Fern, is a hard hitting and healing monster in the early game. Be extra careful with the ultimate PULSE Tangrowth: it likes to get boosts from double-strength Growth and Stamina, then hit hard with Stored Power.
 
-One thing to consider is that, past Braixen, a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth. If you're holding a Telluric Seed, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokémon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to transform the field to Burning and watch the majority of their team burn passively each turn.
+One thing to consider is that, past Braixen, a Bug type can do pretty well here against their team, especially a special attacker or one with Swarm. Cut will also hit for double damage on Roselia and Tangrowth. If you're holding a Telluric Seed, it gives you a free Spiky Shield on its holder's first turn, so in a pinch you can abuse that to set up one of your own Pokemon so that Tangrowth goes down before it can boost too much. Or, you can simply use Slugma or Numel to transform the field to Burning and watch the majority of their team burn passively each turn.
 
 Once you win, you can find a hidden *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
@@ -301,17 +301,17 @@ With that out of the way, we now can actually explore the main part of Beryl War
 
 !enc(151)
 
-Before we do anything else, talk to the backpacker nearby a dumpster down from the Pokémart. If you give him $5000 he will give you the *Magnetic Lure*, an amazing item that, when equipped by your party leader, guarantees you will encounter a Pokémon you haven't caught yet in an area. No more do you have to aimlessly wander around an area looking for that 4% encounter!
+Before we do anything else, talk to the backpacker nearby a dumpster down from the Pokemart. If you give him $5000 he will give you the *Magnetic Lure*, an amazing item that, when equipped by your party leader, guarantees you will encounter a Pokemon you haven't caught yet in an area. No more do you have to aimlessly wander around an area looking for that 4% encounter!
 
 Nearby, on clear days, you'll find another snax vendor.
 
-!shop("Beryl Ward Snax", [["PokéSnax", 200]])
+!shop("Beryl Ward Snax", [["PokeSnax", 200]])
 
-Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokémon center, an NPC will tell you a password: *easyhms*.
+Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokemon center, an NPC will tell you a password: *easyhms*.
 
 Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. 
 
-Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poké Ball*.
+Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poke Ball*.
 
 !enc(152)
 
@@ -335,9 +335,9 @@ Head up and into the battle room.
 
 !battle(["Corey", :Corey, 0], "Corrosive Field")
 
-As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too threatening aside from his priority Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always activated, but it's slow and not too bulky. His Skuntank however can hit decently hard by stacking Acid Sprays, and with its bulk, it can be a threat. You also need to be careful of Aftermath, which can knock out your sweeper. Most difficult of all is his Crobat, since it outspeeds almost every Pokémon you can have by this point and hits like a truck on this field with activated Venoshock.
+As you can probably tell from the Corrosive Field notes, you'll be worn down by Poison type entry damage. Grass types have a really rough time here, and many special Ground moves otherwise super-effective against his team are cancelled out by a Poison type modifier. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too threatening aside from his priority Sucker Punch. Mareanie hits hard with Merciless and Venoshock both always activated, but it's slow and not too bulky. His Skuntank however can hit decently hard by stacking Acid Sprays, and with its bulk, it can be a threat. You also need to be careful of Aftermath, which can knock out your sweeper. Most difficult of all is his Crobat, since it outspeeds almost every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock.
 
-The key here is putting yourself in a position to be able to deal with Crobat. Thankfully, it's frail enough to die to one or two strong super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at sweeping the weaker members of the team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokémon a free turn of protect. Unfortunately unless you're using your own Poison type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
+The key here is putting yourself in a position to be able to deal with Crobat. Thankfully, it's frail enough to die to one or two strong super-effective hits, so by either raising your speed or sending in something with some bulk, you may find success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. As long as you aren't going with Mud Shot and Mud Bomb, Ground types can be good at sweeping the weaker members of the team. You can also try to use the field to your advantage to some extent: Sleep Powder becomes 100% accurate here, and the Telluric Seed gives any Pokemon a free turn of protect. Unfortunately unless you're using your own Poison type strategies there isn't really much else you can do to exploit this field yourself, so bring a strong team and you can prevail.
 
 ### Saved Police Officers Route
 
@@ -357,6 +357,6 @@ Talk to the agent in his room, then head up into the arena once you're ready.
 
 !battle(["Borealis", :Corey, 0], "Corrosive Mist Field atop Corrosive Field")
 
-The Corrosive Mist Field notes explain that your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too strong, though it's Sucker Punch does have priority. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but it is slow and not too bulky. However, Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can stick around for a bit. It's Aftermath ability can also knock out your sweeper, so be careful. The biggest threat on his team is Crobat: it outspeeds almost every Pokémon you can have by this point and hits like a truck on this field with activated Venoshock. If you let it boost with Nasty Plot, it's very hard to win from there.
+The Corrosive Mist Field notes explain that your non Poison and Steel types will be Poisoned by the field. Your special flying moves and bubble-based attacks will be nerfed against him as well. Thankfully half of his team isn't too dreadful: Skrelp and Nidorina don't hit too hard, and Croagunk isn't too strong, though it's Sucker Punch does have priority. Mareanie hits hard with Merciless and Venoshock exploiting your team being poisoned, but it is slow and not too bulky. However, Skuntank can hit decently hard by stacking Acid Sprays and hitting with boosted Flamethrower, and with its bulk it can stick around for a bit. It's Aftermath ability can also knock out your sweeper, so be careful. The biggest threat on his team is Crobat: it outspeeds almost every Pokemon you can have by this point and hits like a truck on this field with activated Venoshock. If you let it boost with Nasty Plot, it's very hard to win from there.
 
-On this field, you really have to go fast so you're not worn down by Poison. On top of this, your goal has to be finding a way to deal with Crobat, since it likes to revenge kill your Pokémon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well strong super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. I recommend using Fire moves since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokémon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.
+On this field, you really have to go fast so you're not worn down by Poison. On top of this, your goal has to be finding a way to deal with Crobat, since it likes to revenge kill your Pokemon that have already taken tons of Poison damage and sweep. However, it's frail enough to die to one or two well strong super-effective hits, so keeping a sturdy Rock, Electric, Ice, or Psychic type in the back holding the Atk/SpA boosting Elemental Seed may lead you to success. Your own Poison types and Steel types are immune to a lot of the field's shenanigans, hence are good options. Psychic types are good as long as you can play around Sucker Punch. I recommend using Fire moves since they're boosted by the field - only Skrelp and Mareanie resist them and they can hit hard in the right circumstances. A unique thing you can do is exploit the fact that Incinerate, Flame Burst, and Self-Destruct will knock out both active Pokemon and switch you to Corrosive Field (suggestions for that, if needed, are in the previous subsection), so if you are having trouble with Crobat or Skuntank you can send in a full health Slugma or Numel and try to do a kill from the grave.

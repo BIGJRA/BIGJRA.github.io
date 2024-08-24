@@ -1,8 +1,8 @@
 # Episode 1: Reborn, the City of Ruin
 
-Welcome to my 100% walkthrough of Pokémon Reborn.
+Welcome to my 100% walkthrough of Pokemon Reborn.
 
-My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokémon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
+My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
 
 Since this guide is complete, there are some parts that may spoil events that happen later in the game. I try to be vague about story details, but you may want to consider playing the game once first without referencing this walkthrough if this is a concern.
 
@@ -15,9 +15,9 @@ Ame will ask you if you have any special instructions or passwords. From the gam
 <div id="quote">
     <p> At the start of the game, you will be prompted for special instructions, or passwords. Below is a list of applicable passwords. Please note that these are features are considered a bonus, and may have some  unexpected interactions at times...
     </p><br><br>
-    <p>Implement a hard EXP cap when maxed on badges, similar to Pokémon Rejuvenation: </p><br>
+    <p>Implement a hard EXP cap when maxed on badges, similar to Pokemon Rejuvenation: </p><br>
         <ul><li>Password: hardcap</li></ul><br>
-    <p>Cause randomized early game Pokémon events to bias towards a specific type:</p>
+    <p>Cause randomized early game Pokemon events to bias towards a specific type:</p>
         <ul>
             <li>Password: mononormal</li>
             <li>Password: monofire</li>
@@ -38,17 +38,17 @@ Ame will ask you if you have any special instructions or passwords. From the gam
             <li>Password: monosteel</li>
             <li>Password: monofairy</li>
         </ul><br>
-    <p>Prevent Pokémon from being healed after their HP drops to 0:</p>
+    <p>Prevent Pokemon from being healed after their HP drops to 0:</p>
         <ul><li>Password: nuzlocke</li></ul><br>
     <p>Randomly reshuffles species and moves as rolled at game start:</p>
         <ul><li>Password: randomizer</li></ul><br>
-    <p>Pokémon do not need to know HM (TMX) moves in order to use them in the field:</p>
+    <p>Pokemon do not need to know HM (TMX) moves in order to use them in the field:</p>
         <ul><li>Password: easyhms</li></ul><br>
     <p>Prohibits the player's use of items in trainer battles:</p>
         <ul><li>Password: noitems</li></ul><br>
-    <p>Sets all opposing trainer Pokémon to have 252 EVs and 31 IVs in all stats:</p>
+    <p>Sets all opposing trainer Pokemon to have 252 EVs and 31 IVs in all stats:</p>
         <ul><li>Password: fullevs</li></ul><br>
-    <p>Sets all opposing trainer Pokémon to have 0 EVs and IVs in all stats:</p>
+    <p>Sets all opposing trainer Pokemon to have 0 EVs and IVs in all stats:</p>
         <ul><li>Password: litemode</li></ul><br>
     <p>Makes all Field	Notes visible immediately</p>
         <ul><li>Password: allfieldapp</li></ul><br>
@@ -61,12 +61,12 @@ Ame will ask you if you have any special instructions or passwords. From the gam
 
 If this is your first time playing, don't worry too much about passwords - in fact, you can activate passwords later on into the game if you change your mind or discover a new password.
 
-- If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokémon for random events. I really recommend trying one of these especially for a second playthrough.
+- If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokemon for random events. I really recommend trying one of these especially for a second playthrough.
 - You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
-- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HMs without teaching them to your Pokémon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
+- *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HMs without teaching them to your Pokemon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.
-- *fullevs* ramps up the difficulty significantly by making every Pokémon both hit hard and have some bulk. Reborn is already a tough game without this password, so tread carefully with this one.
+- *fullevs* ramps up the difficulty significantly by making every Pokemon both hit hard and have some bulk. Reborn is already a tough game without this password, so tread carefully with this one.
 - *allfieldapp* lets you see data about fields from the start. If you're following this guide I'll be picking up all the notes naturally anyways, so unless you really want to know right away how each field works you'll be ok skipping this one.
 - *litemode* is a good choice if you are struggling or want to experience the wonderful characters, world, and puzzles without spending too much time on the battles.
 
@@ -78,7 +78,7 @@ After you're done inputting passwords, enjoy the rest of your train ride!
 
 As soon as you're off the train, you'll have a conversation with Ame and Julia. Note that I won't be summarizing story events much in this walkthrough aside from gameplay implications.
 
-This conversation does quietly show off a mechanic in Pokémon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokémon, Items, or the like.
+This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokemon, Items, or the like.
 
 **Relationship Point Choices:**
 - Yes (+1 Julia)
@@ -90,10 +90,10 @@ This conversation does quietly show off a mechanic in Pokémon Reborn: relations
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem* (A). There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so.
 
 More hidden items:
-- (B): *Poké Ball*
+- (B): *Poke Ball*
 - (C): *Red Shard*
 
-It's worth noting that shards are useful in Reborn for obtaining Ability Capsules and Pokémon as well as learning moves via tutors.
+It's worth noting that shards are useful in Reborn for obtaining Ability Capsules and Pokemon as well as learning moves via tutors.
 
 Proceed to the right into Opal Ward. A girl at the bottom of the area will give you a *Potion*. In general, talk to as many people in Reborn as you can - they offer helpful tips for battles, give you useful items, etc.
 
@@ -105,13 +105,13 @@ Every day the Ice Cream Shop appears, there is a 1 in 21 chance that they will b
 
 Talk to the girl in front of the big building here, and you'll head in. Welcome to the Grand Hall.
 
-Upstairs, you'll be asked which starter Pokémon you'd like to get. You actually get to choose between 21 starters, or you can let fate decide by using the computer at the top of the room. One amazing thing about Reborn is that you can obtain every single Pokémon in the first seven generations within a single save file of Reborn without trading, and that includes the starters. So, regardless of which you pick, you'll be able to get the other 20 eventually. Your choices are:
+Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually get to choose between 21 starters, or you can let fate decide by using the computer at the top of the room. One amazing thing about Reborn is that you can obtain every single Pokemon in the first seven generations within a single save file of Reborn without trading, and that includes the starters. So, regardless of which you pick, you'll be able to get the other 20 eventually. Your choices are:
 
 - The Grass types: **Bulbasaur**, **Chikorita**, **Treecko**, **Turtwig**, **Snivy**, **Chespin**, **Rowlet**
 - The Fire types: **Charmander**, **Cyndaquil**, **Torchic**, **Chimchar**, **Tepig**, **Fennekin**, **Litten**
 - The Water types: **Squirtle**, **Totodile**, **Mudkip**, **Piplup**, **Oshawott**, **Froakie**, **Popplio**
 
-Another feature that Pokémon Reborn has is that it doesn't lock each Pokémon's 'hidden' ability behind special methods of obtaining: every Pokémon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter!
+Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter!
 
 It is ultimately up to you what you choose. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
 
@@ -137,7 +137,7 @@ You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefull
 **Relationship Point Choices:**
 - Defeat Victoria in battle (+1 Victoria)
 
-After the battle, Ame will give you the *Pokédex*, the *Pokégear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poké Balls*.
+After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
 Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often.
 
@@ -151,15 +151,15 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 !shop("Grand Hall Candy", [["Common Candy", 75]])
 
-As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokémon's level. Reborn's disobedience system means that Pokémon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokémon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
+As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. Reborn's disobedience system means that Pokemon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
 **Default Shop**
 
-!shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poké Ball"])
+!shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poke Ball"])
 
-In this guide I will be catching every single Pokémon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. Note that you get a *Premier Ball* with every 10 balls you purchase. Reborn is tight on money, so especially if you're not interested in using healing items during battles, you might be better off not spending your cash on Potions and Antidotes and running back to Pokémon Centers when needed instead.
+In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. Note that you get a *Premier Ball* with every 10 balls you purchase. Reborn is tight on money, so especially if you're not interested in using healing items during battles, you might be better off not spending your cash on Potions and Antidotes and running back to Pokemon Centers when needed instead.
 
-On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokémon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokémon for... 14 more badges.
+On your way out the door, you'll see two people right by the exit. One of them will offer you a Pokemon for $500. But when you do, someone will steal it! If you want to skip this event for now until you have more money you can - we won't actually get to have this Pokemon for... 14 more badges.
 
 That's all we can really do in the Grand Hall for now, so head outside.
 
@@ -175,7 +175,7 @@ Anyways, there is grass here, which means we can obtain new team members!
 
 !enc(29, ["Grass"])
 
-Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokémon in trees. We will also be able to trade away Bibarel for a different Pokémon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
+Specifically I recommend training up Bidoof as soon as possible - it gets Headbutt at Level 13, which allows you to catch Pokemon in trees. We will also be able to trade away Bibarel for a different Pokemon pretty soon, so that's something to keep in mind. There is also an in-game trade for Watchog a little bit down the road, so you may want to consider at least catching a Patrat for now.
 
 On the left side of the area, in the left broken statue you'll find a hidden *Green Shard*.
 
@@ -203,13 +203,13 @@ In the top right, you'll find three bullies.
 
 !battle(["Randy", :YOUNGSTER, 0])
 
-You'll need two Pokémon to be able to fight the last two, so catch a second if you haven't yet.
+You'll need two Pokemon to be able to fight the last two, so catch a second if you haven't yet.
 
 !dbattle(["Jackson", :COOLTRAINER_Male, 0], ["Mack", :StreetRat, 0])
 
-When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokémon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
+When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokemon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 
-If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt, which it learns at level 11. Also, it might be worthwhile to save before you get the Pokémon: both of these can have the Pickup ability, which can be incredible in Pokémon Reborn. [Click here for details about Pickup in Reborn.](https://www.rebornevo.com/pr/pickup/)
+If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt, which it learns at level 11. Also, it might be worthwhile to save before you get the Pokemon: both of these can have the Pickup ability, which can be incredible in Pokemon Reborn. [Click here for details about Pickup in Reborn.](https://www.rebornevo.com/pr/pickup/)
 
 That's it for Opal Ward for now, so head back towards the train station.
 
@@ -229,7 +229,7 @@ You'll find a gym here. We can't go in yet, but if you go up and around to the r
 
 Also, specifically when the weather is thunderstorming, you'll find **Blitzle** here. Since it's Lv. 15 it might be a bit too tough to deal with right now, so you can come back later. Note that this is the first encounter that is only possible with the right weather - if you'd like to avoid having to wait you can use the *weathermod* password at your next opportunity.
 
-To the left, there is a Pokémon Center, and some hidden items outside.
+To the left, there is a Pokemon Center, and some hidden items outside.
 
 - (B): *Paralyze Heal*
 - (C): *Elemental Seed*
@@ -240,7 +240,7 @@ Hang on to the latter for now - it will be useful later on. There is another tra
 
 A riveting moveset.
 
-In the nearby house, you can take a quiz to find out what types of Pokémon you'd be. It's quite long, but a fun time. You'll also be given a *Type Gem* corresponding to the type you get, as well as learn about the *mono[type]* password.
+In the nearby house, you can take a quiz to find out what types of Pokemon you'd be. It's quite long, but a fun time. You'll also be given a *Type Gem* corresponding to the type you get, as well as learn about the *mono[type]* password.
 
 Anyways, go down and right from here.
 
@@ -250,7 +250,7 @@ Anyways, go down and right from here.
 
 During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it.
 
-Go left from this area and enter the first house that you can. Inside, you'll find a *PokéSnax*! This item is crucial for getting certain Pokémon.
+Go left from this area and enter the first house that you can. Inside, you'll find a *PokeSnax*! This item is crucial for getting certain Pokemon.
 
 More hidden items around here include:
 
@@ -258,11 +258,11 @@ More hidden items around here include:
 - (E): *Exp. Candy XS*
 - (F): *Common Candy*
 
-With the PokéSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
+With the PokeSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
 
 Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you!
 
-On the left side of the Pokémon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*!
+On the left side of the Pokemon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*!
 
 Back outside, we can actually fish in the dirty water.
 
@@ -276,7 +276,7 @@ If you win, he'll let you into his pool, where you can find a *Sea Incense*.
 
 !enc(46, nil, ["Old"], "Lower Peridot Pool")
 
-Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokémon's nickname from your party!
+Head out, and back up past the rod guy's house. You'll find the Name Rater's house here... made obsolete by being able to change a Pokemon's nickname from your party!
 
 !img("hidden004.png")
 
@@ -349,11 +349,11 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 !img("hidden006.png")
 
-- (A): *Poké Ball*
+- (A): *Poke Ball*
 - (B): *Oran Berry*
 - (C): *Ability Capsule*
 
-The Ability Capsule will become unobtainable after some more story events, so grab it while you can. In Reborn, you get to choose the Pokémon's target ability when you use one, including hidden abilities.
+The Ability Capsule will become unobtainable after some more story events, so grab it while you can. In Reborn, you get to choose the Pokemon's target ability when you use one, including hidden abilities.
 
 Choosing to save this Oran Berry for the first gym isn't a bad idea... though we can instead now enter the house immediately on the right back in Lower Peridot Ward to get **Skitty**. Back up from here there are some trainers.
 
@@ -397,11 +397,11 @@ Enter the house near the youngsters. Talk to the lady here to begin a quest, the
 
 Up from here, when the weather is clear or sunny and you have a Rose Incense in your bag, you can talk to **Budew** on the wall to obtain it.
 
-Enter the top left house when you're ready for a battle with the guy who stole our $500 Pokémon! Not just him though, you gotta fight both him and the initial salesman. What a snake!
+Enter the top left house when you're ready for a battle with the guy who stole our $500 Pokemon! Not just him though, you gotta fight both him and the initial salesman. What a snake!
 
 !dbattle(["Arnie", :StreetRat, 0], ["Milhouse", :FISHERMAN, 0])
 
-However, they don't actually have our purchased Pokémon, so we'll just have to continue this quest later.
+However, they don't actually have our purchased Pokemon, so we'll just have to continue this quest later.
 
 Head down and enter the tall building to your right. Inside, two suspicious people will see you and run off. Back in the Igglybuff lady's house you'll have to defeat them.
 
@@ -434,7 +434,7 @@ Outside, head straight to the left. We will traverse this loop clockwise. Enter 
 
 !battle(["Charlie", :StreetRat, 0])
 
-To the left is a Pokémart. The "Default Shops" in this game operate similarly to main Pokémon game shops in that they update their inventory based on how many badges you have - the Peridot Ward shop will have the same inventory as the Grand Hall shop until we get a badge, then they will both upgrade, for example.
+To the left is a Pokemart. The "Default Shops" in this game operate similarly to main Pokemon game shops in that they update their inventory based on how many badges you have - the Peridot Ward shop will have the same inventory as the Grand Hall shop until we get a badge, then they will both upgrade, for example.
 
 Anyways, a small house up from here contains a *Protein*, which again I recommend selling for more ball money.
 
@@ -442,9 +442,9 @@ Anyways, a small house up from here contains a *Protein*, which again I recommen
 
 In the building up and left from here, you can talk to a guy to get a *Common Candy*. Outside, during clear or sunny days, there is a shop.
 
-!shop("Peridot Ward Snax", [["PokéSnax", 200]])
+!shop("Peridot Ward Snax", [["PokeSnax", 200]])
 
-If you use up your PokéSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
+If you use up your PokeSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
 
 !battle(["Trill", :Punk, 0])
 
@@ -464,7 +464,7 @@ When you're ready, talk to the green haired guy for a battle.
 
 This one is a bit harder than the first two rival fights! Watch out for his Budew, who likes to heal, and his Sandile who can rip through your team of six thanks to Moxie if you're not careful. His Rowlet also may juggernaut with a couple of Ominous Wind boosts, so be cautious of those as well. The Delibird we got earlier can shine in this battle (and arguably only this battle...)!
 
-Around this time, your Zigzagoon/Bidoof will be able to learn Headbutt, so there are a few Pokémon you can now obtain. First, head to the garden:
+Around this time, your Zigzagoon/Bidoof will be able to learn Headbutt, so there are a few Pokemon you can now obtain. First, head to the garden:
 
 !enc(37, ["Headbutt"])
 
@@ -477,7 +477,7 @@ Now is a good time to finish the Teddiursa quest if you haven't already. Keep in
 1. Nearby the train station, where we started the game.
 2. Under the Opal Bridge, nearby Panpour/Pansear.
 3. Above Mosswater Industrial in between two buildings.
-4. Next to the Upper Peridot Ward Pokémart.
+4. Next to the Upper Peridot Ward Pokemart.
 5. Next to the rock containing the Calcium near the fountain.
 6. Nearby the dumpster where we got Gulpin.
 7. In the bottom left corner of Seacrest's garden.
@@ -559,14 +559,14 @@ Either way, head in to the room at the top when you're ready for a fight.
 
 !dbattle(["Aster", :AsterKnight, 1], ["Eclipse", :EclipseDame, 1], "Factory Field")
 
-Depending on what Pokémon you have this can be a bit difficult since they like to one-shot Fern's Budew, but your sheer numbers can probably overwhelm them regardless.
+Depending on what Pokemon you have this can be a bit difficult since they like to one-shot Fern's Budew, but your sheer numbers can probably overwhelm them regardless.
 
 Outside the factory, Florinia will ask you a question.
 
 **Relationship Point Choices:**
 - Yes (+1 Florinia)
 
-You will then be given the Field Notes App in your Pokégear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. You may have noticed we were battling on the Factory Field inside Mosswater. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
+You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. You may have noticed we were battling on the Factory Field inside Mosswater. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
 
 Before we continue with the story, there are a couple quests we can take care of now.
 
@@ -638,8 +638,8 @@ Study the Electric Terrain Field Notes and talk to the gym leader when you're re
 
 !battle(["Julia", :JULIA, 0], "Electric Terrain")
 
-Pokémon Reborn's first gym leader is live! Julia's team centers around two strategies: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your low maximum-HP Pokemon quickly with Sonic Boom. Her Electrode is very fast, and can employ both of these strategies effectively and then take out another chunk of HP on its way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio is on the team for coverage: it can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
+Pokemon Reborn's first gym leader is live! Julia's team centers around two strategies: stacking Special Attack with Electric Terrain boosted Charge Beam, and wearing out your low maximum-HP Pokemon quickly with Sonic Boom. Her Electrode is very fast, and can employ both of these strategies effectively and then take out another chunk of HP on its way out with Aftermath. Geodude and Voltorb also like to explode, and since the former's is boosted by STAB, Galvanize, and the field... it's gonna hurt. Oricorio is on the team for coverage: it can hit hard and boost the speed of the entire team for a few turns, and also punishes your Grass-type starter.
 
 Luckily, the team isn't super bulky, so trying to get something going with your own sweepers might be the key. Kricketune and Mightyena can really shine here, as well as your second stage starter especially with Torrent / Blaze / Overgrow. Elemental Seeds boost speed on this field, which can be key to getting momentum with your sweeper. *Reborn doesn't always force you to keep the default field around*, however: if you have Zigzagoon, you can use Mud Sport to destroy the Electric Terrain field entirely!
 
-Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TMs are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing Episode 1 of Pokémon Reborn!
+Once you emerge victorious, you'll be given the *Volt Badge* as well as *TM57 Charge Beam*. TMs are infinite-use, so feel free to slap it on anything that can learn it. You also get to go up to Lv. 25 now! Great job completing Episode 1 of Pokemon Reborn!

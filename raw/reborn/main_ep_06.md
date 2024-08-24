@@ -41,7 +41,7 @@ Seems like our partner is actually the 16th gym leader. Defeat the grunts with h
 - Tell Ace you think they might be a double double agent (+1 Ace)
 - Tell Ace you don't think they could be a double double agent (-1 Ace)
 
-With that, we'll be plunked into a cage with a bunch of Pokémon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokémon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto, and we can get some goodies with it. To get all the goodies and escape from the cage, talk to the Pokémon in this order:
+With that, we'll be plunked into a cage with a bunch of Pokemon. Essentially we need to combine Loudred's powers of deafening, Jigglypuff's powers of putting the guard to sleep, and Abra's powers of teleportation to move Pokemon around and attack the cages. In the top left if we saved the day-care couple and talked to the Meteor in Coral Ward, you'll see a Ditto, and we can get some goodies with it. To get all the goodies and escape from the cage, talk to the Pokemon in this order:
 
 1. Get a *Rare Candy*: Loudred, Abra, Vanillite/Ditto, Abra, Lickitung, Lickitung/Ditto.
 2. Obtain **Ditto**: Abra, Lickitung/Ditto, Abra, Makuhita, Makuhita/Ditto.
@@ -90,7 +90,7 @@ Activate the panel at the top right and go back downstairs. To the left, you'll 
 
 This time ZEL comes at us with both a PULSE and three Eeveelutions. The first three members of the team aren't particularly tough - something with a bit of physical bulk and a healing option can take Umbreon, while a fast physical attacker or two can deal with Glaceon and Espeon.
 
-The PULSE Muk can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokémon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last.
+The PULSE Muk can be difficult to deal with. It has a bit more speed than Tangrowth, but still not enough that you won't be able to outspeed it with most Pokemon. It's Protean ability gives it STAB on field boosted Discharge and Muddy Water and makes it a bit hard to plan your offense since it changes types. While its 97 Sp. Atk isn't monumental, with 105 HP, 250 Special Defense, and Leftovers, you won't really be able to do anything to it with special moves. Knock Off is a good idea here to prevent it's recovery, or you can opt to hit really hard with two or three physical attackers that are able to capitalize on Protean with moves super effective against Poison / Ground / Water / Electric depending on what it's used last.
 
 Once you win, you'll get the *Harbor Key*.
 
@@ -104,7 +104,7 @@ As soon as you enter, go straight left and weave between the hills to get a *Wav
 
 You can also catch **Pyukumuku** chilling all around the beach.
 
-Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokéSnax*, *Common Candy*, *Full Heal*, *Blue Shard*.
+Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokeSnax*, *Common Candy*, *Full Heal*, *Blue Shard*.
 
 Trainers on this part of the beach:
 
@@ -148,7 +148,7 @@ If it is storming, you can find a **Corsola** on the left side of the area who w
 
 The Apophyll Cave is up from here, but we will return in a bit. Head back to the Apophyll Academy. Now, we're going to head inside.
 
-!shop("Apophyll Academy", ["Super Potion", "Common Candy", "Antidote", "Awakening", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
+!shop("Apophyll Academy", ["Super Potion", "Common Candy", "Antidote", "Awakening", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poke Ball"])
 
 Head up to reach the middle part of the area.
 

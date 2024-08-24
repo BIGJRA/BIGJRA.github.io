@@ -1,10 +1,10 @@
 # Appendices
 
-## Custom Pokémon Form Lookup
+## Custom Pokemon Form Lookup
 
-Pokémon Reborn uses Gen 7 Pokémon, forms, and mechanics. Details for all canon forms can be found on [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) or your favorite Pokémon Database. However, these resources will not have any information on Reborn's custom forms.
+Pokemon Reborn uses Gen 7 Pokemon, forms, and mechanics. Details for all canon forms can be found on [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) or your favorite Pokemon Database. However, these resources will not have any information on Reborn's custom forms.
 
-While Pokémon Reborn doesn't have any entirely new Pokémon, it does include new forms for many Pokémon. Aside from the Aevian forms, all of these are not available to the player and are instead boss Pokémon. I include full details for these below. Note that these forms can be considered spoilers!
+While Pokemon Reborn doesn't have any entirely new Pokemon, it does include new forms for many Pokemon. Aside from the Aevian forms, all of these are not available to the player and are instead boss Pokemon. I include full details for these below. Note that these forms can be considered spoilers!
 
 Any attributes that are not listed are unchanged from the base form.
 
@@ -196,7 +196,7 @@ Any attributes that are not listed are unchanged from the base form.
 
 ## Wild Held Items
 
-Some wild Pokémon have a chance of holding an item when they are encountered in the wild. Note that the probabilities of each item are increased to 60, 20, and 5% respectively when your lead Pokémon has the Compoundeyes ability.
+Some wild Pokemon have a chance of holding an item when they are encountered in the wild. Note that the probabilities of each item are increased to 60, 20, and 5% respectively when your lead Pokemon has the Compoundeyes ability.
 
 !wildheld()
 
@@ -233,12 +233,12 @@ I don't recommend reading this list until you've played through the game once - 
 
 ### Quality of Life Passwords
 
-- **easyhms / nohms / hmitems / notmxneeded**: Allows you to use field moves from interactions and the party without Pokémon knowing the moves.
-- **hardcap / rejuvcap / rejuvenation**: Pokémon will not gain exp. once they hit the level cap.
+- **easyhms / nohms / hmitems / notmxneeded**: Allows you to use field moves from interactions and the party without Pokemon knowing the moves.
+- **hardcap / rejuvcap / rejuvenation**: Pokemon will not gain exp. once they hit the level cap.
 - **fieldapp / fieldnotes / fieldtexts / allfieldapp**: gives all field effect readouts at the beginning of the game.
 - **earlyincu**: Gives the daycare incubator from the start of the game.
 - **stablweather**: Weather now predictably cycles between the weather conditions.
-- **weathermod**: Allows the player to modify weather at will with the Pokégear.
+- **weathermod**: Allows the player to modify weather at will with the Pokegear.
 - **nopoisondam / antidote**: Disables overworld poison damage.
 - **nodamageroll / norolls / rolls**: Fixes all damage rolls so there is less battle variation.
 - **pinata**: Grinding trainers give out Exp. Candy without needing to battle.
@@ -257,17 +257,17 @@ I don't recommend reading this list until you've played through the game once - 
 - **nopenny / penniless**: Decreases money gained in trainer battles by 66%.
 - **fullevs / pulse2 / pulse2evs**: All enemy EV's are set to 252 and IV's are set to 31.
 - **noitems**: Prevents the player from using bag items like Potions and X-Attacks from their bag during battles.
-- **nuzlocke / locke / permadeath**: Once one of the player's Pokémon faints, it cannot be revived.
+- **nuzlocke / locke / permadeath**: Once one of the player's Pokemon faints, it cannot be revived.
 - **moneybags / richboy / doublemoney**: Doubles the amount of money received by trainers.
-- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokémon's IV's to 31. Disables online.
-- **emptyivs / 0ivs / noivs**: Sets all player Pokémon's IV's to 0.
+- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokemon's IV's to 31. Disables online.
+- **emptyivs / 0ivs / noivs**: Sets all player Pokemon's IV's to 0.
 - **leveloffset / setlevel / flatlevel**: Allows you to provide an integer in [-99, 99] that will be added to all trainer levels in the game.
 - **percentlevel / levelpercent**: Allows you to provide a non-negative integer in [0, 999] that will be multiplied as a percent to all trainer levels in the game.
 - **stopitems**: Prevents enemy trainers from using bag items like Potions and X-Attacks during battle.
-- **stopgains**: Prevents the player's Pokémon from gaining EV's after battle.
-- **noexp / zeroexp / 0exp**: Prevents the player's Pokémon from gaining exp.
-- **flatevs / 85evs**: All enemy Pokémon will have 85 EV's in every stat.
-- **noevcap / gen2mode**: Allows player Pokémon to reach 252 EV's in every stat. Disables online.
+- **stopgains**: Prevents the player's Pokemon from gaining EV's after battle.
+- **noexp / zeroexp / 0exp**: Prevents the player's Pokemon from gaining exp.
+- **flatevs / 85evs**: All enemy Pokemon will have 85 EV's in every stat.
+- **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. Disables online.
 - **nobattles / storymode**: Skips all battles in the game.
 
 ### Shenanigan Passwords
@@ -282,9 +282,9 @@ I don't recommend reading this list until you've played through the game once - 
 - **gen5weather**: Weather lasts indefinitely unless replaced or cancelled.
 - **unrealtime**: Time now progresses at an unreal rate, is no longer tied to system time.
 - **monowoke / wokemono**: Allows you to start with Porygon. Guarantees Lower Peridot event will be Espurr. Guarantees Malchous egg will be Nincada. Guarantees Slum Egg will be Drowzee. Guarantees Rhodochrine trade will be Cryogonal or Carbink.
-- **freestarter / mystarter / customstart**: Allows the player to select a custom starter Pokémon of their choice.
+- **freestarter / mystarter / customstart**: Allows the player to select a custom starter Pokemon of their choice.
 - **inversemode**: All battles have an inverted type chart.
-- **debug / debugmode**: Allows players to modify their Pokémon freely, without the potential to ruin save files. *It is highly recommended to use this password instead of using the game's debug mode, which is intended for developers and can have unexpected negative consequences.*
+- **debug / debugmode**: Allows players to modify their Pokemon freely, without the potential to ruin save files. *It is highly recommended to use this password instead of using the game's debug mode, which is intended for developers and can have unexpected negative consequences.*
 - **nopuzzles / puzzleskip**: Skips overworld, non-battle puzzles.
 - **doubles / colosseum / blueberry**: All trainer fights are set to be Double Battles!
 

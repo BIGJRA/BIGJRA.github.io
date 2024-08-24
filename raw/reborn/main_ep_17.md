@@ -8,7 +8,7 @@ Return to the north side of Peridot Ward and talk to the Corin Rouge lookalike h
 
 Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety Goggles*. This massive quest quest will be over soon, I swear.
 
-Head down to the Lower Peridot Ward. If we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokémon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
+Head down to the Lower Peridot Ward. If we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokemon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
 
 Now that we've defeated Adrienn there is one more move tutor in Peridot Ward's Mosswater Market:
 
@@ -54,7 +54,7 @@ Fly over to Jasper and enter the Malchous Forest Park. Talk to Sandy when you're
 
 !dbattle(["Raph", :HARDHAT, 0], ["Manwe", :HARDHAT, 0], "Forest Field")
 
-Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokémon will be helpful here.
+Thanks to Lv. 100 Farfetch'd, lots of Forest Field boosted Cuts, and Sandy's team being weak to a lot of their moves and Rain making it harder to burn the forest down, this team might come as more of a challenge than you might expect, but some good physically defensive Pokemon will be helpful here.
 
 Once you succeed, your next destination will be the Water Treatment Center.
 
@@ -117,9 +117,9 @@ This area is the "Lost and Found". Always obtainable here are the *Assault Vest*
 
 Next, enter the Devon Co. building and head down the stairs. The basement stairs will be blocked off, allowing us to grab the *Steelixite*!
 
-Enter the railnet building to the left of the Pokémon Center in Obsidia. This is now the Goldenrod Station of the functioning railnet - we will be visiting each station to see what's new there. We don't lose money buying tickets, but the subway isn't really any more useful than Fly, which we already have, so this is really just for exploration.
+Enter the railnet building to the left of the Pokemon Center in Obsidia. This is now the Goldenrod Station of the functioning railnet - we will be visiting each station to see what's new there. We don't lose money buying tickets, but the subway isn't really any more useful than Fly, which we already have, so this is really just for exploration.
 
-Anyways, the Grandview Station is just the building we used to get to the desert previously, so there's nothing new there. The Ivyline Station is in the basement of the Onyx Trainer School, but we also aren't getting anything other than NPC dialogue there. Same for the Sunset Station, which is just outside in Northern Peridot Ward. Continuing the bad luck of no rewards is the Heatherhill Station which brings us to the Jasper Ward Pokémon Center, and the Peony Station, which brings us to a random building in the Lapis Ward.
+Anyways, the Grandview Station is just the building we used to get to the desert previously, so there's nothing new there. The Ivyline Station is in the basement of the Onyx Trainer School, but we also aren't getting anything other than NPC dialogue there. Same for the Sunset Station, which is just outside in Northern Peridot Ward. Continuing the bad luck of no rewards is the Heatherhill Station which brings us to the Jasper Ward Pokemon Center, and the Peony Station, which brings us to a random building in the Lapis Ward.
 
 The Kingsbury Station though? It brings us to a random building in Beryl Ward, but an NPC inside will give us the *Weakness Policy*. Insert world's longest "yea boi" here. But the Shantyport Station in Coral Ward? That's where the real reward is at. Bring an NPC in here a Probopass for an in-game trade for his **Togepi** egg. Nice.
 
@@ -129,11 +129,11 @@ Via climbing through the building as we have before, hop down a ledge at the top
 
 !battle(["Refugees", :AGGRON, 0], "Cave Field")
 
-This fight exploits the cave field to collapse in on your Pokémon - instantly KO'ing most Pokémon. The Sturdy + Custap Berry combo makes it common for each Pokémon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokémon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokémon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
+This fight exploits the cave field to collapse in on your Pokemon - instantly KO'ing most Pokemon. The Sturdy + Custap Berry combo makes it common for each Pokemon to get two attacks against you, so one collapse each. Without preparedness... that means you will lose all six of your Pokemon before the other fight! There are lots of strategies you can use to succeed here, however. Moldbreaker or multi-hit moves like Bullet Seed solve the Sturdy issue, allowing you to easily win. You can also use Power Gem constantly to change the field and prevent a collapse, or have a Bulletproof or Rock Head Pokemon do the whole fight since they are immune to the collapses. The Aron and Lairon will collapse themselves, so you could also just have something spam Wide Guard since you'll be safe from the collapse damage.
 
 !dbattle(["Refugees", :AGGRON, 1], ["Refugees", :AGGRON, 2], "Cave Field")
 
-Possibly benefitting from the collapses your team suffer in the first battle, this doubles team goes all in on a similar strategy, this time with Rock Head to prevent any of the Aggron from taking collapse damage. With their Seeds, they'll gain defense, so your physical moves won't easily take them down in time. Wide Guard is even better this time, as your second active Pokémon can then focus on knocking out the Aggron. You can also just point-blank sweep them with two Pokémon running Aura Sphere, Focus Blast, Earth Power, Surf, and the like, so that's an option too. Again Bulletproof and Rock Head trivialize this fight.
+Possibly benefitting from the collapses your team suffer in the first battle, this doubles team goes all in on a similar strategy, this time with Rock Head to prevent any of the Aggron from taking collapse damage. With their Seeds, they'll gain defense, so your physical moves won't easily take them down in time. Wide Guard is even better this time, as your second active Pokemon can then focus on knocking out the Aggron. You can also just point-blank sweep them with two Pokemon running Aura Sphere, Focus Blast, Earth Power, Surf, and the like, so that's an option too. Again Bulletproof and Rock Head trivialize this fight.
 
 Once you succeed in here, you can get the *Aggronite* and a hidden *Ultra Ball* and *Max Repel*. There are also encounters down here.
 
@@ -156,7 +156,7 @@ Inside the building, you can get a *Toxic Plate*. You can also learn about the p
 
 In front of the building, a person will offer you an in-game trade: your Carnivine for a **Chimchar** egg. Nice.
 
-The Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokémon now!
+The Azurine Island itself has been renovated as well, and we can get a few limited-choice Pokemon now!
 
 !enc(586, nil, nil, "Azurine Island (Post-Renovation)")
 
@@ -168,7 +168,7 @@ Up the river is another hidden *Big Mushroom* in a rock, and one out in the open
 
 Down the ledge and across the water, talk to the nature guy once more to get a *Rocky Helmet*. Sweet.
 
-There is one more thing we can do for this restoration project. Fly over to the Grand Hall and go to the basement. In the top right hallway, you can talk to a guy who will tell you that they are looking for sample Pokémon at Azurine Island. Fly back there.
+There is one more thing we can do for this restoration project. Fly over to the Grand Hall and go to the basement. In the top right hallway, you can talk to a guy who will tell you that they are looking for sample Pokemon at Azurine Island. Fly back there.
 
 A lady on the left will give us 2 *Leaf Stones* and a mission: to donate a male and female each of Lurantis and Simisage. I recommend just breeding each using the incubator until you get the desired gender, then leveling the Fomantis up to get Lurantis and using the Leaf Stones on Pansage to get **Simisage**. Donate all four and return to the Grand Hall to get the *Grassium-Z*.
 
@@ -207,13 +207,13 @@ For completing this quest, you'll be given a **Litten** holding *Choice Specs*.
 
 ## Starter Egg Quest (Part 1)
 
-Head into the Grand Hall basement and enter the middle room on the left side. Kanaya will task us with donating one egg of each of the 21 starter Pokémon!
+Head into the Grand Hall basement and enter the middle room on the left side. Kanaya will task us with donating one egg of each of the 21 starter Pokemon!
 
 Regardless of choices, it is guaranteed that you will have been able to obtain Charmander, Squirtle, Chikorita, Cyndaquil, Totodile, Treecko, Mudkip, Turtwig, Piplup, Tepig, Chespin, Fennekin, and Popplio, bringing our total to a minimum of 13 starters so far. You can search the page for these events if you'd like to get them now.
 
 You may have Oshawott or Litten if you completed a gang sidequest, and you may also have Bulbasaur and Chimchar if you upgraded Azurine Island. Potentially you may also have one more starter, chosen at the very beginning, but for now I will just assume we have only the ones every player is guaranteed to have. Feel free to also donate these if you have them as well.
 
-If you have the incubator, doing this breeding shouldn't take too much time, so get eggs of these 13+ Pokémon now. For donating 3, 6, 9, and 12, we'll get the *Reset Disc- HP*, *Reset Disc- ATK*, *Reset Disc- DEF*, and *Reset Disc- SPATK*. These will help us reset EV's to zero, helpful if you want to completely change up how you're running a Pokémon or get rid of junk EV's from the beginning of the game. As we get more (guaranteed) starters, we'll come back.
+If you have the incubator, doing this breeding shouldn't take too much time, so get eggs of these 13+ Pokemon now. For donating 3, 6, 9, and 12, we'll get the *Reset Disc- HP*, *Reset Disc- ATK*, *Reset Disc- DEF*, and *Reset Disc- SPATK*. These will help us reset EV's to zero, helpful if you want to completely change up how you're running a Pokemon or get rid of junk EV's from the beginning of the game. As we get more (guaranteed) starters, we'll come back.
 
 ## Tourmaline Desert
 
@@ -232,7 +232,7 @@ You'll notice that Taka's team is actually decently built for the Desert Field a
 **Relationship Point Choices:**
 - Tell Taka that you will not keep on winning (+1 Taka)
 
-Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay reasons to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. You will have to be careful that he doesn't knock out wild Pokémon you want to catch, though you can return later once he is no longer with you.
+Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay reasons to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. You will have to be careful that he doesn't knock out wild Pokemon you want to catch, though you can return later once he is no longer with you.
 
 **In order to access the exclusive postgame route, you need to allow Taka to join you.**
 
@@ -252,9 +252,9 @@ Once you make your choice, it's time to start exploring the desert...
 
 ### Greater Tourmaline Desert
 
-If you want to just blaze through the story, head straight up in the desert until you reach an area with tons of trains, then complete the 1R253 Scrapyard section and proceed from there. There are tons and tons of actually good Pokémon and items that become available around the desert, so we'll spend a while exploring side areas for now.
+If you want to just blaze through the story, head straight up in the desert until you reach an area with tons of trains, then complete the 1R253 Scrapyard section and proceed from there. There are tons and tons of actually good Pokemon and items that become available around the desert, so we'll spend a while exploring side areas for now.
 
-Tourmaline Desert is HUGE: I'll briefly explain my approach to 100% completion in the desert. Note that this doesn't matter much if you're not going out of your way to collect all the hidden items, so you can just grab the items and Pokémon that you want and ignore the complications.
+Tourmaline Desert is HUGE: I'll briefly explain my approach to 100% completion in the desert. Note that this doesn't matter much if you're not going out of your way to collect all the hidden items, so you can just grab the items and Pokemon that you want and ignore the complications.
 
 There are actually 4 versions of the main, large Desert map depending on where the desert's oasis currently is, which is randomly determined to start. Each of these four maps has its own set of hidden items as well.
 
@@ -305,7 +305,7 @@ For now, grab the items available on all four maps plus those on the specific oa
 - As you head down the left wall of the desert, you'll see one wide green tree. Head east from here across a dune, you'll see a broken statue. The main statue is too faded to read, but the broken off gargoyle contains a hidden *Max Elixir*.
 - Continuing to follow the left wall down, you can hop across some blocks after defeating some Exeggutor-Alola to get *TM72 Volt Switch*!
 - In the bottom left corner of the desert, you'll be able to pick up a *Focus Sash*.
-- On the very bottom-middle of the desert you can find 6 *Poké Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
+- On the very bottom-middle of the desert you can find 6 *Poke Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
 - Hugging the right wall of the desert, you'll find a *Relic Copper*.
 - Past Sugiline Cave, hugging the right wall and going up, you'll find a *Max Elixir* near some dead trees.
 - Up and to the right of the previous Max Elixir, you can find a hidden *Star Piece* in a rock.
@@ -331,7 +331,7 @@ Map 1 has this trainer, north of the train station from Peridot Ward:
 - Head straight east and you'll find a *Dire Hit* in a patch of green.
 - Left and down from here, along the left wall, you'll find a hidden *Blue Shard*. Straight east of here is the train station where we can return to Reborn City. Hidden on the station is *Red-Hots*.
 - Down and left from here you'll see a tall pillar. Northwest of it, you can get a hidden *Common Candy* in a dead tree.
-- North and slightly west of the pile of Poké Balls in the south desert, you'll find a hidden *X Speed*.
+- North and slightly west of the pile of Poke Balls in the south desert, you'll find a hidden *X Speed*.
 - Hugging the right side of the desert and going up, you'll see a small hill and a few patches of green. One contains a hidden *Great Ball*.
 - On the east side of the map, southeast of the Sugiline Cave, you'll find a hidden *Purple Shard* in a desert rose flower. You'll know you're close when you see a bunch of desert rose trees.
 - Straight west and slightly up from the previous item, you can find a hidden *Tiny Mushroom* between some palm trees.
@@ -355,7 +355,7 @@ Map 2 has this trainer, near the oasis:
 !img("tourmaline_items_2.png")
 
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Chewing Gum*.
-- South of the hill, you can get a hidden *Poké Snax* between some rock pillars.
+- South of the hill, you can get a hidden *Poke Snax* between some rock pillars.
 - On the left side of the desert you'll see a clump of desert roses and cacti. Nearby is a hidden *Oval Stone*. 
 - Go straight east from the desert roses to find a hidden *Bug Gem* on top of a dune.
 - Hugging the left wall of the desert and continuing down, you'll find a hidden *Green Shard* in a bush.
@@ -383,7 +383,7 @@ Map 3 has this trainer, northwest of Sugiline Cave:
 - To the right and slightly up from the oasis, you'll find a hidden *Red Shard*.
 - On the train platform down and to the right of the oasis you can get a hidden *Sun Stone*.
 - Across the tracks from the station and slightly down you'll find a hidden *Red Shard* near a pillar.
-- Slightly to the left of the pile of Poké Balls, you'll be able to find a hidden *Pop Rocks* under the tracks.
+- Slightly to the left of the pile of Poke Balls, you'll be able to find a hidden *Pop Rocks* under the tracks.
 
 For some reason, just on this map, you can give a guy in the bottom right corner some Fresh Water in exchange for a new password: *gen5weather*. Anyways, back to the items:
 
@@ -396,7 +396,7 @@ For some reason, just on this map, you can give a guy in the bottom right corner
 - Hidden in a pile of rocks in the north east of here is a *Nugget*, and a *Green Shard* to the northeast in a bush.
 - Go straight left from this area into the area with many train tracks. In a rock pile you'll be able to find a hidden *Protein*.
 - Continuing left from here, slightly up is a hidden *Water Stone* fittingly in a cactus.
-- Going straight left from here once more, you'll find a hidden *Poké Snax* in a rock.
+- Going straight left from here once more, you'll find a hidden *Poke Snax* in a rock.
 
 **Map 4**
 
@@ -411,13 +411,13 @@ Map 4 has this trainer, near the tracks on the west side:
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Common Candy*.
 - Down from the hill, you'll find a bush containing another hidden *Common Candy*.
 - Right from here, at the bend in the first track you'll find a rock containing a *Rock Gem*.
-- Follow this track eastward. Below the first palm tree east of the bend, you'll find a hidden *Poké Ball*.
+- Follow this track eastward. Below the first palm tree east of the bend, you'll find a hidden *Poke Ball*.
 - Back at the bend to the left, go straight down. At the base of a medium-sized hill is a skull containing a hidden *Blast Powder*.
 - There is a desert rose patch down and to the left from here, containing a hidden *Zinc*.
 - Down from here you'll find a rock containing a *Cotton Candy*.
 - Much further down the wall on the left side, in two rocks are a *Magical Seed* and *Salt-Water Taffy*.
 - From the area where we got the Volt Switch TM, go straight east across the tracks to find a hidden *Iron*.
-- Slightly to the northeast of the pile of Poké Balls, you'll find a hidden *Purple Shard*.
+- Slightly to the northeast of the pile of Poke Balls, you'll find a hidden *Purple Shard*.
 - Around the oasis in the bottom right corner, you can find a hidden *Sitrus Berry*, *Dusk Ball*, and *Relic Copper*.
 - Just before the Sugiline Cave on the east side of the desert you'll find an area with a lot of cacti and bushes. Nearby are 3 hidden *Green Shards*.
 - Straight to the left, you'll find a small grove of wide trees near a train track. You'll find a hidden *Escape Rope*.
@@ -453,7 +453,7 @@ The map:
 
 !img("tourmaline_nw.png")
 
-From bottom to top (ordered roughly) you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokéSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poké Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
+From bottom to top (ordered roughly) you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokeSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poke Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
 
 You'll also notice a few non-hidden items: along the right side you can get a *Relic Copper* and a *Max Ether*. On the left side, you'll be ambushed by a dangerous trainer:
 
@@ -475,7 +475,7 @@ The map:
 
 !img("tourmaline_ne.png")
 
-Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poké Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*.
+Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poke Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*.
 
 At the wasteland at the top you can get *TM36 Sludge Bomb*!
 
@@ -483,7 +483,7 @@ With this map fully explored, now we can finally proceed to mess with the oases.
 
 !enc(688, nil, nil, "Northeast Tourmaline Desert (Mirage)")
 
-The layout is the mostly same as before, but there are new items. Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokéSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poké Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
+The layout is the mostly same as before, but there are new items. Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokeSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poke Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
 
 Before we enter the Mirage Tower, there's another thing we can do out here if Taka is not a partner - otherwise, return here later. Surf around the back of the tower. There's a hidden stairs directly behind the tower we can use to get onto the mountainside. Follow this path to get a hidden *Stardust*, *Swift Wing*, and *Blue Shard*.
 
@@ -579,7 +579,7 @@ So, we can get another legendary here, if you can call it that!
 
 Although you might be tempted to head back into the tower, try heading down from here...
 
-Following this path will lead us to the top of Mirage Tower! Here we can pick up the *Normalium-Z*, *TM04 Calm Mind*, and **Honedge**. Excellent rewards, and I recommend training this thing up right away if one of your team members is falling off, as Aegislash is one of the best Pokémon in this game!
+Following this path will lead us to the top of Mirage Tower! Here we can pick up the *Normalium-Z*, *TM04 Calm Mind*, and **Honedge**. Excellent rewards, and I recommend training this thing up right away if one of your team members is falling off, as Aegislash is one of the best Pokemon in this game!
 
 That's it for the Mirage Tower for now.
 
@@ -606,7 +606,7 @@ This time, take the vortex up and slightly right from the pot that contained the
 
 This time, take the top right vortex, then climb the ladder in the area you land in. Up here, pick up the *Draco Plate* and hidden *Super Repel*. Again jump into the vortices and make your way back to 1F.
 
-Jump in the top left vortex this time. You can find a hidden *PokéSnax* in this room. Void out and return for the final time, in this section of the dungeon, at least!
+Jump in the top left vortex this time. You can find a hidden *PokeSnax* in this room. Void out and return for the final time, in this section of the dungeon, at least!
 
 Finally, jump into the vortex on the left side of the pot. Climb the ladder at the top of the rocky path.
 
@@ -620,7 +620,7 @@ Next, step into the bottom right vortex in the entry room.
 
 In this room, you can get a hidden *Carbos*, *Pecha Berry*, and *Blue Shard*. Climb the ladder at the top.
 
-In this next room, you can find 2 hidden *Elemental Seeds*, *PokéSnax*, and *Green Shard*. Jump into the vortex on the middle of the right side of the room, below a cactus. Pick up a *Link Stone* then void out and return to the previous room.
+In this next room, you can find 2 hidden *Elemental Seeds*, *PokeSnax*, and *Green Shard*. Jump into the vortex on the middle of the right side of the room, below a cactus. Pick up a *Link Stone* then void out and return to the previous room.
 
 Next, jump into the middle of the top three vortices. Be careful here as you grab hidden *Ice Heal*, *Antidote*, and *Star Piece*. Climb the ladder on the left side and push the button in the Arceus statue. Return to the front of the dungeon.
 
@@ -646,7 +646,7 @@ You can also interact with the basins around the area and put in some snax. Head
 
 ## Teknite Cave & Teknite Ridge
 
-Next, we're going to take a trip to the Teknite Cave in the northwest corner of the Tourmaline Desert. You can save some time by having Pokémon in your party with Power Gem, a ground-shaking move (TM Bulldoze works), and Tailwind, but we can proceed without these moves by having wild Pokémon use them in battle. Enter the cave.
+Next, we're going to take a trip to the Teknite Cave in the northwest corner of the Tourmaline Desert. You can save some time by having Pokemon in your party with Power Gem, a ground-shaking move (TM Bulldoze works), and Tailwind, but we can proceed without these moves by having wild Pokemon use them in battle. Enter the cave.
 
 As in the other areas:
 
@@ -718,7 +718,7 @@ Grab the hidden *Big Mushroom* and enter the nearby train car. Follow the path t
 
 This area, sometimes referred to as Train Town, is a flying destination thankfully, so feel free to go do preps. If he has been with you so far, Taka leaves your party here as well.
 
-Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poké Ball*, *Purple Shard*, and *PokéSnax*.
+Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poke Ball*, *Purple Shard*, and *PokeSnax*.
 
 If Taka is with you, he will take a rest and lie down in a train car on the bottom right side of the area. Talk to Europa before you follow him if you like.
 
@@ -729,17 +729,17 @@ You can talk to the residents of the Train Town and learn about them. In the bot
 
 Depending on the time of day, Bouffalant Bill will be either outside or in a train car on the upper right side of the area that contains a healing machine. He will sell us some stuff.
 
-!shop("Bouffalant Bill", ["Poké Ball", "Great Ball", "Ultra Ball", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
+!shop("Bouffalant Bill", ["Poke Ball", "Great Ball", "Ultra Ball", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
 
 In a train car at the top of the area you can access a PC and meet Stephoscope. Talking to her twice after visiting Teknite Ridge, you'll be given the *Houndoominite*. Excellent.
 
-More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokémon and then stole it from us. We've watched our Pokémon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokémon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the *gold* price for the Pokémon sixteen episodes ago. But now it's time for Corin Rouge to pay the *iron* price by being defeated once and for all.
+More importantly than all that though... by talking to *him* on the east side of Train Town, we can finally finish *the* quest. You know the one - we started it 5 minutes into the game when the fisherman and his buddy sold us a Pokemon and then stole it from us. We've watched our Pokemon by rights get taken by a guy in the slums, stolen by both the Magma Gang and Aqua Gang, and taken into the possession of an associate of the slimy Seventh Street Pokemon salesman. Next it was stolen by Corin Rouge, who had three of his associates bamboozle us long enough to escape into the desert. We paid the *gold* price for the Pokemon sixteen episodes ago. But now it's time for Corin Rouge to pay the *iron* price by being defeated once and for all.
 
 !battle(["Corin-Rouge", :CORINROUGE, 0], "Desert Field")
 
-This cruel thief has a Z-move and some Pokémon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
+This cruel thief has a Z-move and some Pokemon with Desert Field synergy, but they shouldn't be too tough to take out. Just be careful of the sixth, who can easily sweep your team if you aren't careful.
 
-By defeating him we can finally get our hands on our legendary weapon: **Magikarp**. I jest, but Gyarados is one of the strongest Pokémon in the game, so it is indeed worth it.
+By defeating him we can finally get our hands on our legendary weapon: **Magikarp**. I jest, but Gyarados is one of the strongest Pokemon in the game, so it is indeed worth it.
 
 Make your way out of the Train Town via the train car at the bottom. In the next area you can get a hidden *X Sp. Atk* and *X Speed*. You'll notice an entrance to a train car in the top right corner, which is where we'll go to continue the story. For now there are a couple goodies in the scrapyard that we couldn't access before, so I'll get those first.
 
@@ -807,9 +807,9 @@ Before starting the battle, you can jump into the blue hole at the top and go le
 
 !battle(["Titania", :TITANIA1, 0], "Fairy Tale Field")
 
-The Fairy Tale Field boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokémon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary!
+The Fairy Tale Field boosts Fairy and Dragon moves, along with giving Fire moves a Dragon sub-typing. It also boosts Steel moves and gives them effectiveness on Dragon. Defensively, Steel types already resist Fairy and Dragon, so with the nerf to Fire moves, Titania definitely uses the type best positioned on this field. Instead of Sandstorm, this fight is accompanied by Hail, which allows her Sandslash to outspeed and set up Aurora Veil if it likes. Past that, Empoleon, Excadrill, and Mega Scizor are all very strong steel types with lots of coverage, the latter even having a very nasty Technician, field boosted, priority Bullet Punch, and Excadrill a nasty boosted Smart Strike. Klefki is very annoying as usual thanks to prankster Paralysis on command but also humorously can sweep you with Calm Mind and boosted Draining Kiss to heal. As you'd expect, her Aegislash five levels above the cap with insane boosts on three of its moves is no slouch - bulking up when it uses King's Shield and getting stronger when it attacks, priority or otherwise. On top of this, Excadrill and Aegislash have Magical Seeds, protecting their Pokemon for a turn, lowering your stats if you try to attack them, and allowing them each to set up a +3 Swords Dance. Scary!
 
-There are a good number of strategies that remain for you to use, thankfully. A Pokémon with Protect, Swords Dance, and a move like Earthquake or Brick Break can probably sweep through most of the team with a bit of speed control support as long as they can live a priority attack or two. There are a ton of abilities and moves that allow you to gain Defense, so if you're able to deal with Klefki and Empoleon there may be a working strategy involving going all in on Defense boosts to neutralize her attack boosts and such. There are also some boosts to attacks and abilities: Mystical Fire / Magician and Sparkling Aria / Oceanic Operetta do get boosted here if you want to try to sweep with your starter Delphox or Primarina! Queenly Majesty gives a boost to damage, combine this with its natural ability to cancel out Bullet Punch and Shadow Sneak, and Tsareena may end up being very helpful here. The Magical Seed giving a free turn can also be used by you, with the added bonus of you being able to hard switch in to a contact move to force a stat lower on one of her party members if need be. If you're really stuck, you can literally consider going 6 Magical Seeds held to grant yourself 6 free turns - this is what I did once upon a time to win this fight with a Fairy monotype.
+There are a good number of strategies that remain for you to use, thankfully. A Pokemon with Protect, Swords Dance, and a move like Earthquake or Brick Break can probably sweep through most of the team with a bit of speed control support as long as they can live a priority attack or two. There are a ton of abilities and moves that allow you to gain Defense, so if you're able to deal with Klefki and Empoleon there may be a working strategy involving going all in on Defense boosts to neutralize her attack boosts and such. There are also some boosts to attacks and abilities: Mystical Fire / Magician and Sparkling Aria / Oceanic Operetta do get boosted here if you want to try to sweep with your starter Delphox or Primarina! Queenly Majesty gives a boost to damage, combine this with its natural ability to cancel out Bullet Punch and Shadow Sneak, and Tsareena may end up being very helpful here. The Magical Seed giving a free turn can also be used by you, with the added bonus of you being able to hard switch in to a contact move to force a stat lower on one of her party members if need be. If you're really stuck, you can literally consider going 6 Magical Seeds held to grant yourself 6 free turns - this is what I did once upon a time to win this fight with a Fairy monotype.
 
 For winning, you'll get the *Alloy Badge*, boosting the level cap to 90. You also get *TM91 Flash Cannon*.
 
@@ -817,7 +817,7 @@ Jump down the pit at the top and go left to return to Train Town.
 
 ## Reborn Restoration Project 2
 
-Pokémon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
+Pokemon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
 
 **Relationship Point Choices:**
 - Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
@@ -879,9 +879,9 @@ Amaria will ask you if you want to battle in Singles or Doubles - but she'll act
 
 !battle(["Amaria", :AMARIA2, 0], "Water Surface")
 
-Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokémon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Reshiram route only, the latter can Mega Evolve! These three also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
-You can consider trying to change up the field - Murkwater Surface can wear down her Pokémon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 **The Doubles Team:**
 
@@ -889,7 +889,7 @@ You can consider trying to change up the field - Murkwater Surface can wear down
 
 Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise can mega-evolve, making its Aura Sphere a bit stronger and raising its stats somewhat.
 
-As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokémon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.
 
@@ -919,9 +919,9 @@ Amaria will ask you if you want to battle in Singles or Doubles.
 
 !battle(["Amaria", :AMARIA1, 0], "Water Surface")
 
-Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokémon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
+Surprise, the Water gym leader has a team built for the Water Surface and Underwater Fields. These fields, especially the latter, are pretty suffocating for most Pokemon, drastically slowing them down and allowing Amaria to hit hard with Whirlpool, Dive, etc. On the surface Electric types and maybe Grass types can get away with their usual tricks somewhat, although with Ludicolo, Kingdra, and Swampert you won't have the easiest time sweeping and the group all have lots of coverage, and on Zekrom route only, she'll have a Dragon type Z-move. The first two also have Swift Swim, which is always on for these two fields. Wishiwashi doesn't stop schooling, so keep that in mind. Lapras with its seed and Curse can set up on you and is also immune to status conditions on these fields, so you might be in for a shock if it sets up and is unkillable. This team isn't super complicated, just hits hard and is prepared to deal with most of what you throw at it.
 
-You can consider trying to change up the field - Murkwater Surface can wear down her Pokémon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 **The Doubles Team:**
 
@@ -929,7 +929,7 @@ You can consider trying to change up the field - Murkwater Surface can wear down
 
 Amaria's Doubles team is built well around the Water Surface and the spread of Surf to your party while taking little/no damage from the spread to her party members, as Vaporeon and Seismitoad both have Water Absorb. This means your own Water types will potentially have a harder time on this fight than the singles fight. With Primarina'and Blastoise's coverage, Lanturn to check your Electric types and no-status condition Lapras to potentially ruin a sweeper's day thanks to Perish Song and Protect, she has a pretty bulky team that can deal with lots of teams you attempt to use. On Zekrom Route only, her Blastoise has a Fighting type Z-move, as well.
 
-As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokémon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokémon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokémon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
+As with the singles fight you may consider transforming the field. Murkwater Surface will deal passive damage to her team members each turn... but Lanturn and Blastoise may change it back with Whirlpool. Icy Field helps alleviate the speed issues, boosts, etc... but can be changed back with Seismitoad's Earthquake. The latter is potentially a good route to go with if you have a fast special-attacking Grass type who can one shot Seismitoad on turn 1. You can also try using the Water Surface or Underwater to your advantage - without Swift Swim on any of her Pokemon, bringing some Swift Swimmers of your own might let you outspeed and crush her with the right setups. Raichu-Alola can do ok on the Water Surface in this fight, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
 
 Regardless of which fight you chose, you'll be rewarded with the *Torrent Badge* and *TM55 Scald*. Sweet.

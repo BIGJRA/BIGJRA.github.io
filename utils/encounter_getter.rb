@@ -92,7 +92,7 @@ class EncounterGetter
 
       th_pokemon = doc.create_element('th', colspan: 1, class: 'table-header',
                                             style: 'text-align: center;vertical-align : middle')
-      th_pokemon.content = 'Pokémon'
+      th_pokemon.content = 'Pokemon'
 
       th_levels = doc.create_element('th', colspan: 1, class: 'table-header',
                                            style: 'text-align: center;vertical-align : middle')
@@ -133,7 +133,7 @@ class EncounterGetter
         # Create a table row element
         tr = doc.create_element('tr')
 
-        # Add Pokémon's name to the first column
+        # Add Pokemon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
 
         base_form = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[0]

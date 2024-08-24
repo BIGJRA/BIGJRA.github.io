@@ -68,22 +68,22 @@ To the right, you'll see one of your gang members making a sale:
 
 Blast Powder will essentially let us mine all the mining rocks a second time. Buy at least 5 for now since there are a few things actually gated behind the mining rocks we'll want to grab, but getting more won't hurt. For what it's worth, saving in front of a rock until you find a Star Piece or Rare Bone in the rubble you can guarantee a return on investment for these things.
 
-Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokémon we previously worked with in the Blacksteam Meteor Factory.
+Enter the cage area in the bottom right corner. Here, a guy will be selling all of the Pokemon we previously worked with in the Blacksteam Meteor Factory.
 
-!shop("Seventh Street Pokémon", [["Vanillite", "3 Purple Shards", true], ["Loudred", "5 Blue Shards", true], ["Roggenrola", "3 Red Shards", true], ["Abra", "8 Purple Shards", true], ["Lickitung", "7 Blue Shards", true], ["Makuhita", "3 Green Shards", true], ["Jigglypuff", "5 Green Shards", true], ["Cyndaquil", "9 Red Shards", true]])
+!shop("Seventh Street Pokemon", [["Vanillite", "3 Purple Shards", true], ["Loudred", "5 Blue Shards", true], ["Roggenrola", "3 Red Shards", true], ["Abra", "8 Purple Shards", true], ["Lickitung", "7 Blue Shards", true], ["Makuhita", "3 Green Shards", true], ["Jigglypuff", "5 Green Shards", true], ["Cyndaquil", "9 Red Shards", true]])
 
-There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Jigglypuff, and Makuhita to their original owners. I recommend breeding these Pokémon if you want to use them long term, keeping the originals in your PC.
+There is a sidequest later with a fantastic reward that will involve returning specifically Vanillite, Loudred, Roggenrola, Jigglypuff, and Makuhita to their original owners. I recommend breeding these Pokemon if you want to use them long term, keeping the originals in your PC.
 
-If you've been picking up hidden items and mining most of the rocks, you should have enough shards to get every Pokémon here, but you can always come back later to complete this quest. From now on, shards will mainly be useful only for unlocking tutors and buying Ability Capsules.
+If you've been picking up hidden items and mining most of the rocks, you should have enough shards to get every Pokemon here, but you can always come back later to complete this quest. From now on, shards will mainly be useful only for unlocking tutors and buying Ability Capsules.
 
-If you've kept up so far with the game-spanning quest, beginning with our purchase of a mystery Pokémon from the Grand Hall, you can now continue it. For just 2 Blue Shards, you can buy back your Pokémon... just kidding, it gets stolen again!!!
+If you've kept up so far with the game-spanning quest, beginning with our purchase of a mystery Pokemon from the Grand Hall, you can now continue it. For just 2 Blue Shards, you can buy back your Pokemon... just kidding, it gets stolen again!!!
 
-Anyways, exit this area. Once you buy all of the Pokémon, DJ Arclight will give you a *Lucky Egg*.
+Anyways, exit this area. Once you buy all of the Pokemon, DJ Arclight will give you a *Lucky Egg*.
 
 **Relationship Point Choices:**
-- Buy all of the seventh street stolen Pokémon (+1 Arclight)
+- Buy all of the seventh street stolen Pokemon (+1 Arclight)
 
-The house above is the Pokémon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokémon to whatever we want, meaning we don't need to rely on finding mints anymore. Keep the mints you find though as they can help you switch abilities on the go if you need a speed boosting nature for a specific fight or something similar.
+The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want, meaning we don't need to rely on finding mints anymore. Keep the mints you find though as they can help you switch abilities on the go if you need a speed boosting nature for a specific fight or something similar.
 
 Enter the nearby grotto on the right. Note that there is a sneaky hidden item behind a trainer on the left, so make sure you draw him out at least 1 tile when he notices you in order to get it.
 
@@ -185,15 +185,15 @@ You'll then get the *Red Crystal Key*! Don't accept Cain's fast travel request -
 
 There are a few sidequests we can take care of in and around Seventh. First, head right back into the Subseven Sanctum and talk to the pentagram thing. With a Soul Candle in our bag, we'll be able to catch **Litwick**.
 
-Back in seventh, the house in the bottom left corner will now be unlocked. If you have a Helix Fossil and do not have a Dome Fossil in your bag, the Twitch Plays Pokémon cultist will ask us to bring a Farfetch'd to him. Do so, and you'll get a choice between the *Sail Fossil* and the *Jaw Fossil*. Since we already have Amaura, no point in getting the former, so pick up the Jaw.
+Back in seventh, the house in the bottom left corner will now be unlocked. If you have a Helix Fossil and do not have a Dome Fossil in your bag, the Twitch Plays Pokemon cultist will ask us to bring a Farfetch'd to him. Do so, and you'll get a choice between the *Sail Fossil* and the *Jaw Fossil*. Since we already have Amaura, no point in getting the former, so pick up the Jaw.
 
 Although we now have both Amaura and a Jaw Fossil, it's worth noting that the cultist will ask for a Pidgeot in exchange for another fossil. Afterwards, you can trade Helix Fossils for more Jaw and Sail fossils if you want more.
 
-Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokémon sellers to see Madame Craudberry storm off. Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
+Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off. Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
 
 !battle(["Craudburry", :HARRIDAN, 0])
 
-If this was a normal Pokémon game, this fight would be pretty hard relative to the others. However this is Pokémon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokémon.
+If this was a normal Pokemon game, this fight would be pretty hard relative to the others. However this is Pokemon Reborn: her team doesn't even have much synergy. No field, no weather, nothing. Just 5 annoying but beatable EV trained Pokemon.
 
 ### The Magma Gang Route (Part 3)
 
@@ -203,7 +203,7 @@ Head outside, and talk to Maxwell. He will give us *TM11 Sunny Day*. Return to S
 
 !battle(["Archer", :Archer, 1])
 
-Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokémon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority, but everything else is slow.
+Archer uses his rain team once more, but you'll notice it's not really optimized. His Pelipper is the only mechanism to summon rain, and the rest of his Pokemon have no rain-boosted abilities. So it's really just a weak Water-monotype team that you should be able to deal with. Sharpedo can be deadly with Speed Boost and priority, but everything else is slow.
 
 For winning, you'll get *TM18 Rain Dance*.
 
@@ -217,7 +217,7 @@ Head outside, and talk to Archer. He will give us *TM18 Rain Dance*. Return to S
 
 !battle(["Maxwell", :Maxwell, 1])
 
-Maxwell uses his sun team once more, but you'll notice it's not really optimized. His Ninetales is the only mechanism to summon sun, and the rest of his Pokémon have no sun-boosted abilities past Charizard. So it's really just a weak Fire-monotype team that you should be able to deal with once the sun is gone. Houndoom and Charizard can hit pretty hard but exploiting the team's many weaknesses shouldn't be too tough.
+Maxwell uses his sun team once more, but you'll notice it's not really optimized. His Ninetales is the only mechanism to summon sun, and the rest of his Pokemon have no sun-boosted abilities past Charizard. So it's really just a weak Fire-monotype team that you should be able to deal with once the sun is gone. Houndoom and Charizard can hit pretty hard but exploiting the team's many weaknesses shouldn't be too tough.
 
 For winning, you'll get *TM11 Sunny Day*.
 
@@ -247,7 +247,7 @@ On the other side of the water, go up first, then follow the path, using your ke
 
 Grab the *Purple Crystal Key*! Talk to the nearby purple crystal to mutate the cave. Outside the new exit, you can get a hidden *Red-Hots* and *X. Sp Atk*. In the next red cave, use the crystal to mutate another cave. Return all the way to the northmost ice bridge.
 
-Head up and right from here, and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokémon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
+Head up and right from here, and enter the cave. Mutate this cave with the purple crystal, then head out the new exit. Pick up the hidden red shard and enter the red cave at the top. Inside, grab the *Dark Memory* and the *Dark Crystal Cavern Field Readout*. If you have Dark Pulse or Night Daze on one of your Pokemon, there is one more thing we can do here. Use it in a wild encounter to transform the Crystal Cavern to a Dark Crystal Cavern to get Sableye. Note that we'll get the former as a TM pretty soon, so you can do this part later if you wish.
 
 !enc(507, nil, nil, "Iolia Valley Northeast Dark Cave")
 
@@ -309,9 +309,9 @@ Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head t
 
 !enc(281, nil, nil, "Yureyu Power Plant Backroom")
 
-Each of the Poké Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**.
+Each of the Poke Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**.
 
-While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to Simon in the Tanzan Meteor Base, you'll see him here. Talk to him to continue his sidequest - then head down to the building to the right of the Peridot Ward Pokémart to talk to him once more. That's all we can do with this quest for now.
+While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to Simon in the Tanzan Meteor Base, you'll see him here. Talk to him to continue his sidequest - then head down to the building to the right of the Peridot Ward Pokemart to talk to him once more. That's all we can do with this quest for now.
 
 ## Eclipse Badge
 
@@ -325,4 +325,4 @@ The good news is that by this point you should have lots of options to deal with
 
 There are also merits to changing the field. For one, simply by setting sun you'll switch the field to Crystal Cavern, a field which is more neutral and lets you use Dragon type moves more effectively if you'd like. A special shoutout goes to Nature Power which turns into Power Gem on this field, a perfect counter to Sucker Punch Honchkrow. Alternatively, you can use one of the Earthquake-esque moves to switch over to a Cave Field, allowing you to sidestep the enemy bulk and power up Rock moves - only Bisharp resists them. With the Earthquake-esque moves, boosted Rock type moves, boosted Hyper Voice and Boomburst, there are powerful options on Cave. In either case Tyranitar will still be a menace, but can be taken down with a strong Fighting move.
 
-Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70, coincidentally about the point where normal Pokémon games just... end. Plus, she'll give us *TM97 Dark Pulse*! Nice.
+Once you succeed, you'll get the *Eclipse Badge* which boosts our cap to Lv. 70, coincidentally about the point where normal Pokemon games just... end. Plus, she'll give us *TM97 Dark Pulse*! Nice.

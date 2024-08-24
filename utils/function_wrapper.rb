@@ -151,7 +151,7 @@ class FunctionWrapper
       mon_hash.each do |rarity, pokemon_list|
         next if pokemon_list.empty?
 
-        # Transform each Pokémon entry into the desired format
+        # Transform each Pokemon entry into the desired format
         pokemon_string = pokemon_list.map do |pokemon, form|
           form_1_key = @pokemonHash[pokemon].keys.find_all { |key| key.is_a?(String) }[0]
           form_1_data = @pokemonHash[pokemon][form_1_key]
@@ -163,7 +163,7 @@ class FunctionWrapper
           end
         end.join(', ')
 
-        # Concatenate the rarity and Pokémon string
+        # Concatenate the rarity and Pokemon string
         result << "- #{rarity.capitalize} (#{{ 'common' => 50, 'uncommon' => 5,
                                                'rare' => 1 }[rarity]}%): #{pokemon_string}\n"
       end

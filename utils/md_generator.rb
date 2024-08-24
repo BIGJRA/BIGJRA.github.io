@@ -7,10 +7,10 @@ def generate_md_text(game = 'reborn')
   def generate_md_pre_contents(game = 'reborn')
     <<~PRE_CONTENTS
       ---
-      title: Pokémon #{game.capitalize} Walkthrough
+      title: Pokemon #{game.capitalize} Walkthrough
       ---
 
-      <p id="title-text">Pokémon #{game.capitalize} Walkthrough </p>
+      <p id="title-text">Pokemon #{game.capitalize} Walkthrough </p>
 
     PRE_CONTENTS
   end
@@ -25,7 +25,7 @@ def generate_md_text(game = 'reborn')
 
           indents = line[/^#+/].length - 1
           title = line.strip[indents + 1..].strip # Remove the leading '#' and any extra spaces
-          anchor_link = title.downcase.gsub(/[^a-z0-9é\s-]/, '').gsub(/\s/, '-') # Convert title to lowercase, remove non-alphanumeric characters except spaces and dashes, and replace spaces with dashes
+          anchor_link = title.downcase.gsub(/[^a-z0-9e\s-]/, '').gsub(/\s/, '-') # Convert title to lowercase, remove non-alphanumeric characters except spaces and dashes, and replace spaces with dashes
           toc += "#{'  ' * indents}- [#{title}](##{anchor_link})\n"
         end
       end

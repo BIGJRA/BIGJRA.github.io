@@ -22,7 +22,7 @@ Back at the ice puzzle in the room, go up this time. Grab hidden *Stardust* and 
 
 You can get a hidden *Pearl* and *Red Shard* in the next room, as well as *TM01 Work Up* and a *Razor Fang*. Backtrack all the way back to B1F.
 
-This time, cross the ice to the top left. Grab the hidden *Poké Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the alcove door at the bottom.
+This time, cross the ice to the top left. Grab the hidden *Poke Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the alcove door at the bottom.
 
 !enc(402, nil, nil, "Celestinine & Ametrine Mountains Underwater (B2F Only)")
 
@@ -46,7 +46,7 @@ On this floor, you'll need to push boulders into the dead ends in order to skate
 
 We can fish up an ugly fish on this floor! This room contains a hidden *Flying Gem* and *Green Shard* as well as *TM03 Psyshock*, a *Dragon Scale*, *Timid Mint*, *Water Memory*, and *Exp. Candy XL*.
 
-Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine Mountain 1F. Surf straight down, ride down the small waterfall, and pick up a hidden *Green Shard*, *Shoal Salt*, and *PokéSnax*. Push the nearby boulder to the left, then go up the waterfall and cross the now open ice patch.
+Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine Mountain 1F. Surf straight down, ride down the small waterfall, and pick up a hidden *Green Shard*, *Shoal Salt*, and *PokeSnax*. Push the nearby boulder to the left, then go up the waterfall and cross the now open ice patch.
 
 With the Silver Ring in hand, we can catch Corey's **Skuntank** here! Behind it, pick up the *Silver Card*.
 
@@ -156,7 +156,7 @@ Regardless of your route you'll have to fight Ace.
 
 !battle(["Ace of Spades", :ACESPADES, 0], "Factory Field")
 
-Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to complete the well rounded squad. Flying and Ground moves together hit 5/6 of their Pokémon super-effectively, so if you can manage speed and exploit these weaknesses, you will likely find a way to succeed.
+Time for another fight with Ace. This time they use a field that's fairly well designed for the Factory and Short-Circuit fields, thanks to multiple Steel and Electric moves. They also have Roserade, Zoroark, and Delphox to complete the well rounded squad. Flying and Ground moves together hit 5/6 of their Pokemon super-effectively, so if you can manage speed and exploit these weaknesses, you will likely find a way to succeed.
 
 After this fight, return to the front of the Water Treatment Center and climb the waterfall.
 
@@ -168,7 +168,7 @@ Make your way towards the Fiore Mansion, and you'll meet up with some old charac
 
 !dbattle(["Kenan", :MeteorAceM, 0], ["Diana", :MeteorAceF, 0])
 
-This first fight is a 12v9 against some grunts. Florinia is pretty helpful here, and none of their Pokémon are too strong. It's more of a warmup fight.
+This first fight is a 12v9 against some grunts. Florinia is pretty helpful here, and none of their Pokemon are too strong. It's more of a warmup fight.
 
 !dbattle(["Blake", :BLAKE, 1], ["Fern", :Hotshot, 6])
 
@@ -182,9 +182,9 @@ This battle in the gauntlet is a bit harder. Florinia has a lot of good matchups
 
 !dbattle(["Solaris", :Solaris, 1], ["John", :NWOrderly, 0])
 
-The hardest battle in this gauntlet is the last one. On one hand, Solaris' team basically consists of six classic OU threats. On the other hand, John's team consists of some slower and less powerful Pokémon, but which have wider coverage, a bit higher defensive stats, and some support moves. Nothing on their side is entirely dead weight really, and since you only get to control the actions of one of two of the Pokémon on your side, it is tougher to use doubles strats to gain momentum.
+The hardest battle in this gauntlet is the last one. On one hand, Solaris' team basically consists of six classic OU threats. On the other hand, John's team consists of some slower and less powerful Pokemon, but which have wider coverage, a bit higher defensive stats, and some support moves. Nothing on their side is entirely dead weight really, and since you only get to control the actions of one of two of the Pokemon on your side, it is tougher to use doubles strats to gain momentum.
 
-If you defeated Solaris on Pyrous, you'll have Julia as a partner, who sadly doesn't have a very good time overall against the pair thanks to their numerous Ground and Electric types, though she can help against some of the Flying types. Not to mention her Rotom Fan, who holds an Air Balloon... Otherwise, you'll have Florinia as a partner once more, making Trick Room more potent and allowing her to do a decent amount of the work. With the 12v12 format, things can change dramatically depending on what the pairings happen to be at any given moment, so it may require some luck to have the right one of your partner's Pokémon out at the right time. If you have to quit to change up your team, you'll have to fight the first two trainers again, so keep that in mind.
+If you defeated Solaris on Pyrous, you'll have Julia as a partner, who sadly doesn't have a very good time overall against the pair thanks to their numerous Ground and Electric types, though she can help against some of the Flying types. Not to mention her Rotom Fan, who holds an Air Balloon... Otherwise, you'll have Florinia as a partner once more, making Trick Room more potent and allowing her to do a decent amount of the work. With the 12v12 format, things can change dramatically depending on what the pairings happen to be at any given moment, so it may require some luck to have the right one of your partner's Pokemon out at the right time. If you have to quit to change up your team, you'll have to fight the first two trainers again, so keep that in mind.
 
 After these events finish playing out, head outside of the building and talk to Titania. Return to the circus!
 
@@ -194,9 +194,9 @@ Talk to Samson. You'll be given the *Battle Pass - Suspension*. Sweet. Save, the
 
 !battle(["Ciel", :CIEL, 0], "Big Top Arena")
 
-Ciel is the first fight for a badge that repeats a field used by another, but the fight plays out very differently. Many of the strategies I recommended to beat Samson are employed by Ciel against you in this fight. The emphasis is no longer on High Striker moves - Altaria, Minior, and Gliscor have Earthquake, and that's it. Instead, she relies on super-boosted Acrobatics, Revelation Dance, and sound-based moves that dazzle the crowd and gain power. Oh, and she has the first enemy Mega Pokémon we have to face in Mega Altaria.
+Ciel is the first fight for a badge that repeats a field used by another, but the fight plays out very differently. Many of the strategies I recommended to beat Samson are employed by Ciel against you in this fight. The emphasis is no longer on High Striker moves - Altaria, Minior, and Gliscor have Earthquake, and that's it. Instead, she relies on super-boosted Acrobatics, Revelation Dance, and sound-based moves that dazzle the crowd and gain power. Oh, and she has the first enemy Mega Pokemon we have to face in Mega Altaria.
 
-Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokémon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, so you can beat her with her own strategy. Electric type Revelation Dance can rip through all but Gliscor and Altaria pretty easily if you have an Oricorio yourself. You can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
+Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, so you can beat her with her own strategy. Electric type Revelation Dance can rip through all but Gliscor and Altaria pretty easily if you have an Oricorio yourself. You can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
 
 **Relationship Point Choices:**
 - Defeat Ciel on your first try (+2 Samson)

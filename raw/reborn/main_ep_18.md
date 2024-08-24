@@ -76,7 +76,7 @@ Once you succeed, smash the wall at the top and proceed to the next room. Head u
 
 !battle(["Fulgor", :VOLCARONA, 0], "Dark Crystal Cavern")
 
-A fight against one strong Pokémon! Pick up the *Catching Charm: Ruby* here, as well as the hidden *Fire Stone* and *Ability Capsule*. Talk to the sunburst thing in the top right side of the room to battle and catch **Larvesta**!
+A fight against one strong Pokemon! Pick up the *Catching Charm: Ruby* here, as well as the hidden *Fire Stone* and *Ability Capsule*. Talk to the sunburst thing in the top right side of the room to battle and catch **Larvesta**!
 
 Exit the cave. You can fly out from the Ridge.
 
@@ -106,7 +106,7 @@ Use Earthquake, Magnitude, etc. in a battle twice to make some green crystal gem
 
 Use an Escape Rope or Dig to save time if you'd like, and return to Tanzan Cove. Surf across the cove and enter the Tanzan Mountain entrance here. Climb down the rocks.
 
-In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Repel*, *Escape Rope*, 2 *PokéSnax*, *Purple Shard*, *Stardust*, and *Great Ball*, as well as tons of mining rocks. Once you get everything, break the ground by using Magnitude or Earthquake twice in battle once more.
+In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Repel*, *Escape Rope*, 2 *PokeSnax*, *Purple Shard*, *Stardust*, and *Great Ball*, as well as tons of mining rocks. Once you get everything, break the ground by using Magnitude or Earthquake twice in battle once more.
 
 The floor will collapse, creating a new climbing wall. Head down. In the next room, talk to the Green Crystal to get Larvitar to move. You can get a hidden *Green Shard* and *Awakening* in here. Proceed to the next room.
 
@@ -155,7 +155,7 @@ Talk to the summoning table for a battle with **Deino**.
 
 Next, it's time to enter the three-mountain complex one more time for a few goodies. Fly over to the Route 1 Nature Center, grab a Tauros and make your way to the Celestinine Mountain B2F entrance via the North Aventurine Woods.
 
-At the top of the ice puzzle, you'll see a climbing wall. Go up it, then surf to the left and push the nearby boulder to the left. Rock climb back down, this time making your way down the stairs to the left of the ice puzzle. Head up past the pushed boulder to get a *Life Orb*. Pokémon Showdown, here we come.
+At the top of the ice puzzle, you'll see a climbing wall. Go up it, then surf to the left and push the nearby boulder to the left. Rock climb back down, this time making your way down the stairs to the left of the ice puzzle. Head up past the pushed boulder to get a *Life Orb*. Pokemon Showdown, here we come.
 
 From here, our next destination is Ametrine Mountain 2F. You can either go through the mountain complex to get there or just fly to the Circus or Ametrine City and make your way there that way.
 
@@ -209,7 +209,7 @@ Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill
 
 On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ice Gem*, *Salt-Water Taffy*, *Ice Heal*, and *Hyper Potion*. There are lots of paths we can go from here, and I will start by doing the rock climb path in the top left, accessible via surfing on the water. To reach the water, surf from the hop rock with the little stairs at the bottom.
 
-On the next map you can find a hidden *PokéSnax* and an *Ice Stone*. Climb back down the hill.
+On the next map you can find a hidden *PokeSnax* and an *Ice Stone*. Climb back down the hill.
 
 This time, go around the rocks in the water to climb the waterfall at the top.
 
@@ -237,7 +237,7 @@ This room also has a secret. From the pond, go clockwise around the ring. You'll
 
 Grab the hidden *Purple Shard* and *Nugget*. Talk to Bagon here and show it how to Fly... and it will do so, off the cliff. Backtrack through Charous Mountain all the way back to the map with the lake.
 
-This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*. I think it's worth noting here that in Pokémon Reborn the exclusive Z-move Splintered Stormshards carries forward its canon effect of destroying Field Effects... including all of Reborn's custom ones. If you really find yourself in a rut of being unable to deal with an opponent's field synergy, it may be worth considering training a Lycanroc to remove it.
+This time, make your way all the way to the bottom right corner of the map. Climb down here. Once more, burn the Snow on the Mountain away to uncover the *Lycanium-Z*. I think it's worth noting here that in Pokemon Reborn the exclusive Z-move Splintered Stormshards carries forward its canon effect of destroying Field Effects... including all of Reborn's custom ones. If you really find yourself in a rut of being unable to deal with an opponent's field synergy, it may be worth considering training a Lycanroc to remove it.
 
 Climb back to the previous map, this time going down the rocks to the left. 
 
@@ -340,7 +340,7 @@ Grab the 2 *EV Boosters* then return to the main room and go left. Move the bott
 
 Enter the bottom left room where we found the key. Move each of the five glass pallets left to reach *TM29 Psychic*! Exit this room. Cross the lava and move the nearby glass up. Go right from here, and move a glass pallet to the right to get the *Gyaradosite*!
 
-Make your way to Glaceon, and reverse the steps we took to get both Pokémon to the bottom so that both Pokémon are now back towards the top. After clearing a path to the elevator in the top left corner, switch to Glaceon and head up to B1F.
+Make your way to Glaceon, and reverse the steps we took to get both Pokemon to the bottom so that both Pokemon are now back towards the top. After clearing a path to the elevator in the top left corner, switch to Glaceon and head up to B1F.
 
 From here, follow the path to the left, bridging gaps with ice. Enter the next room. 
 
@@ -352,7 +352,7 @@ Back in Ametrine Mountain, we made a choice whether or not to give Blake the Rub
 
 !battle(["Aster", :AsterKnight, 5], "Factory Field")
 
-It's been a while since we've seen Aster on this route. This time he encorporates a few of Eclipse's Pokémon into his own team. As usual, he focuses on Rock and Ground types, with Passimian there to provide hard hitting coverage. His team is generally pretty fast and physical, so speed control and/or some physical tanks will probably be able to find success. If you can tank an Explosion from Solrock and set up, he has no priority moves to prevent a sweep. He'll give you the *Meteor Card*.
+It's been a while since we've seen Aster on this route. This time he encorporates a few of Eclipse's Pokemon into his own team. As usual, he focuses on Rock and Ground types, with Passimian there to provide hard hitting coverage. His team is generally pretty fast and physical, so speed control and/or some physical tanks will probably be able to find success. If you can tank an Explosion from Solrock and set up, he has no priority moves to prevent a sweep. He'll give you the *Meteor Card*.
 
 If you refused to give Blake the Ruby Ring, grab the *Meteor Card* at the top. You can also get 3 *Exp. Candy XL*. Open the pods in this room.
 
@@ -386,7 +386,7 @@ Now begins one of the most glorious parts of Reborn. I'll let each of the fights
 
 !dbattle(["Cain", :Cain, 6], ["Shelly", :SHELLY, 3], "Factory Field")
 
-This battle is our first 12v6! On average each of our Pokémon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokémon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
+This battle is our first 12v6! On average each of our Pokemon has to be knocking out 2 each in order to win this thing. While that is a fairly large disadvantage, there are lots of tactics we can use to come out on top in this fight: The best advice I can give for Reborns 12v6 doubles fights (there will be more) is that conserving momentum is extremely important. In this case, Cain and Shelly each have Pokemon all 7+ levels *under* the cap, and neither team is particularly suited to abuse this field effect in particular, so it's a good fight to ease into the 12v6 setup.
 
 Shelly's entire team is weak to Rock Slide, so it's not a bad idea to operate from the doubles priniciple: "support your Rock Slider at all costs". Heat Wave is also pretty potent here for similar reasons - a sun team can devastate here. You can fairly easily opt for a speed control strategy of some sort - Magic Bouncing back the Sticky Web or embracing it and abusing 8 turn Trick Room are excellent choices. You can also use Factory Field to your advantage blah blah... you knew that by now. Optimize your team to the max cap, come with a strategy to conserve momentum, and you'll be able to find a way to come out on top.
 
@@ -394,15 +394,15 @@ Shelly's entire team is weak to Rock Slide, so it's not a bad idea to operate fr
 
 Ok, so after finally overcoming a fight with all the odds stacked against you... surprise, a singles fight against a mystery trainer. You can't switch out your team at all but thankfully you do get a heal before this one.
 
-Here's the thing. This fight, generally speaking, isn't gonna be the worst thing in the world. It's a 6v6 and your opponent has a mostly frail team plus Umbreon and sort of Gothitelle. If that's all there was to say, I'd assume you'd be able to find a way through this one and that would be that. The problem is: *any Pokémon that are fainted at the end of this fight stay fainted for the next*, basically as if you use Full Restores on all living Pokémon and nothing more. And for the next fight, you'll really want as many Pokémon as you can take.
+Here's the thing. This fight, generally speaking, isn't gonna be the worst thing in the world. It's a 6v6 and your opponent has a mostly frail team plus Umbreon and sort of Gothitelle. If that's all there was to say, I'd assume you'd be able to find a way through this one and that would be that. The problem is: *any Pokemon that are fainted at the end of this fight stay fainted for the next*, basically as if you use Full Restores on all living Pokemon and nothing more. And for the next fight, you'll really want as many Pokemon as you can take.
 
-So, with the goal of simply making sure that every one of your Pokémon stays alive? Weavile has a Focus Sash, meaning your lead for the whole gauntlet needs to be able to deal two hits of damage without dying (or switch). Mismagius is fast and if you make the mistake of letting it set up a Nasty Plot, there's a good chance it will claim a soul or two. Honchkrow is really nasty, with Sucker Punch allowing it to punish weakened Pokémon. Umbreon is annoyingly bulky, with Foul Play to hurt your physical attackers even more. Mega Absol is really strong, and you're usually going to find yourself in a kill or be killed scenario with it. Finally there is Gothitelle... who has Shadow Tag and Calm Mind. Meaning if there's any Pokémon on your team the AI has realized it can beat by switching in Gothitelle at any time... that Pokémon is as good as dead!
+So, with the goal of simply making sure that every one of your Pokemon stays alive? Weavile has a Focus Sash, meaning your lead for the whole gauntlet needs to be able to deal two hits of damage without dying (or switch). Mismagius is fast and if you make the mistake of letting it set up a Nasty Plot, there's a good chance it will claim a soul or two. Honchkrow is really nasty, with Sucker Punch allowing it to punish weakened Pokemon. Umbreon is annoyingly bulky, with Foul Play to hurt your physical attackers even more. Mega Absol is really strong, and you're usually going to find yourself in a kill or be killed scenario with it. Finally there is Gothitelle... who has Shadow Tag and Calm Mind. Meaning if there's any Pokemon on your team the AI has realized it can beat by switching in Gothitelle at any time... that Pokemon is as good as dead!
 
-So now you see the challenge this seemingly simple 6v6 fight offers. If you think you can beat the next fight with 4-5 Pokémon alive, feel free to try if you are having a hard time with this one. There are some general tips I recommend to make it through this one with minimal casualties, however. For Weavile, Fake Out, multi-hit moves, and Sandstorm are all viable ways to break the sash, so setting up your gauntlet team with one of these first in your party will probably help. Honchkrow likes to come in on a weakened Pokémon, so try to anticipate Sucker Punch and either switch or set up further if you can. Keep in mind if you're faster than Honchkrow, other priority moves like Quick Attack will go before Sucker Punch. Make sure you're always ready for a Gothitelle switch in, or maybe learn exactly when the AI will try to switch it in so you can pivot to something that can knock it out. Speed control, either by superior stats, Tailwind, Trick Room, etc., will then be key to one-shotting Mismagius and Absol before they can get you. If you are able to 2HKO Umbreon, it won't be able to heal itself, so making sure you have either a physical attacker that can live some Foul Plays or a really strong special attacker are key. Even though you already have to plan for other fights with your team... keeping these tips in mind will help you overcome this obstacle, hopefully.
+So now you see the challenge this seemingly simple 6v6 fight offers. If you think you can beat the next fight with 4-5 Pokemon alive, feel free to try if you are having a hard time with this one. There are some general tips I recommend to make it through this one with minimal casualties, however. For Weavile, Fake Out, multi-hit moves, and Sandstorm are all viable ways to break the sash, so setting up your gauntlet team with one of these first in your party will probably help. Honchkrow likes to come in on a weakened Pokemon, so try to anticipate Sucker Punch and either switch or set up further if you can. Keep in mind if you're faster than Honchkrow, other priority moves like Quick Attack will go before Sucker Punch. Make sure you're always ready for a Gothitelle switch in, or maybe learn exactly when the AI will try to switch it in so you can pivot to something that can knock it out. Speed control, either by superior stats, Tailwind, Trick Room, etc., will then be key to one-shotting Mismagius and Absol before they can get you. If you are able to 2HKO Umbreon, it won't be able to heal itself, so making sure you have either a physical attacker that can live some Foul Plays or a really strong special attacker are key. Even though you already have to plan for other fights with your team... keeping these tips in mind will help you overcome this obstacle, hopefully.
 
 !dbattle(["?????", :QMARK, 1], ["?????", :QMARK, 2], "Factory Field")
 
-Even after making it through the previous two battles, you're thrusted into a third, and surprise, its another 12v6. While opponent levels are indeed a bit lower, without being able to change your team after the previous two fights and the aforementioned faint follow-through, you might even be stuck doing this fight as a 12v4 or 12v5. The good news here is that almost everything in this fight is a frail Ice or Psychic type. The real exceptions here are Bronzong and Metagross, both of which are extremely bulky and can hit really hard on this field, Clefable, who likes to spread Paralysis as a lead, and Bisharp, who can keep up the pressure with Sucker Punch and has enough bulk to live a good chunk of even super effective moves. Ninetales' hail and Aurora Veil are, as always, very beneficial to their team, as is the 8-turn Psychic Terrain Alakazam will try to get off. Really seems like there are lots of threats and not enough Pokémon to cover them all.
+Even after making it through the previous two battles, you're thrusted into a third, and surprise, its another 12v6. While opponent levels are indeed a bit lower, without being able to change your team after the previous two fights and the aforementioned faint follow-through, you might even be stuck doing this fight as a 12v4 or 12v5. The good news here is that almost everything in this fight is a frail Ice or Psychic type. The real exceptions here are Bronzong and Metagross, both of which are extremely bulky and can hit really hard on this field, Clefable, who likes to spread Paralysis as a lead, and Bisharp, who can keep up the pressure with Sucker Punch and has enough bulk to live a good chunk of even super effective moves. Ninetales' hail and Aurora Veil are, as always, very beneficial to their team, as is the 8-turn Psychic Terrain Alakazam will try to get off. Really seems like there are lots of threats and not enough Pokemon to cover them all.
 
 Otherwise there's not really a ton I can say: spam 'D' to drop a save before this fight and just play it out as many times as it takes for you to realize where the threats to your team are, and how you can overcome them. Conserving momentum is key as before, Trick Room as always is very potent, and weather and/or the field can help you steamroll. Using Snatch or Brick Break to mess with Aurora Veil, changing the weather, etc. are good options. Even if you have dropped a save mid-gauntlet, don't be afraid to throw away some money (or load a backup save) to better prepare for the gauntlet.
 
@@ -438,7 +438,7 @@ Back in Calcenon City, talk to Shelly towards the right side of the map. Enter t
 - Reshiram Route only: Talk to Titania while she is talking to Shelly (+1 Titania)
 - Zekrom Route only: Talk to Serra while she is talking to Shelly (+1 Serra)
 
-Talk to Eve near the Pokémon Center.
+Talk to Eve near the Pokemon Center.
 
 **Relationship Point Choices:**
 - Talk to Eve and learn about all the PULSEs remaining (+1 Eve)
@@ -476,7 +476,7 @@ This fight is a 12v10, with Hardy on your side. Shouldn't be too crazy with his 
 
 After all this time, we finally get to fight Meteor's Leader Solaris, one-on-one. No field effects are in play this fight: it's just the raw power of basically a Gen 7 OU team versus yours. Staraptor with Intimidate that hits hard? Yep. Technician Scizor with ridiculously strong Bullet Punch? Yep. Dragon Dance Gyarados? Yep. Tyranitar and Excadrill sand core? It's there! And on top of all that is his Mega Garchomp. That is not a typo above: it really does have max EVs in every stat, thanks to its PULSE 2. Get used to these for the end game. Essentially what this means is Garchomp will hit hard but also be bulky enough to live a couple of attacks.
 
-At this point you also have a lot of mega Pokémon and Z-moves to your name. In particular, I find that the Icium-Z can often ensure a kill on Garchomp if you need. It's worth noting that he doesn't have a single special attack on his team... so you can focus your team entirely on physical defense. Some fast (or slow under Trick Room) special attackers running Fire, Ice, and Electric moves will be able to get 5 out of 6 of his party members super-effectively... leaving Tyranitar an excellent candidate for a Close Combat or something. I believe in your ability to defeat this guy!
+At this point you also have a lot of mega Pokemon and Z-moves to your name. In particular, I find that the Icium-Z can often ensure a kill on Garchomp if you need. It's worth noting that he doesn't have a single special attack on his team... so you can focus your team entirely on physical defense. Some fast (or slow under Trick Room) special attackers running Fire, Ice, and Electric moves will be able to get 5 out of 6 of his party members super-effectively... leaving Tyranitar an excellent candidate for a Close Combat or something. I believe in your ability to defeat this guy!
 
 Make your way to the right.
 
@@ -490,13 +490,13 @@ Climb the first waterfall and grab the hidden *Stardust*. After climbing the sec
 
 !enc(741, nil, nil, "Agate City Underwater")
 
-You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poké Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
+You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poke Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
 
-In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky Egg*, then backtrack to the main part of the city. To the east of the Pokémon Center, watch the scenes play out then talk to Shelly. Hardy will then extend an offer to challenge his gym!
+In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky Egg*, then backtrack to the main part of the city. To the east of the Pokemon Center, watch the scenes play out then talk to Shelly. Hardy will then extend an offer to challenge his gym!
 
 ## Agate City
 
-We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokémon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
+We could accept Hardy's gym battle offer right away, but there are some sidequests with excellent rewards now open: to cut to the chase, we can actually get every single non-legendary Pokemon before fighting Hardy - and if we do get them all, there's a really awesome reward waiting for us. So, let's get into it.
 
 Head to the left side of Agate City and into the Agate Circus.
 
@@ -504,9 +504,9 @@ Relationship Point Choices:
 - (Refuse Blake Route Only) Talk to Ciel on the top left side of the circus after the raid (+1 Ciel, +1 Ace)
 - (Give Ruby Ring Route Only) Talk to Samson in the Big Top after the raid (+1 Samson)
 
-Back in Agate City, starting at the Pokémon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
+Back in Agate City, starting at the Pokemon Center, head straight to the left and enter the house here. Talk to the Hiker inside, who will leave for Route 4. We'll follow him later. Outside, grab a hidden *Purple Shard* above then enter the top building. If you previously joined the Magma Gang, you have the opportunity to do an in-game trade here: your Basculin for **Litten**.
 
-Back at the Pokémon Center, this time go east. Talk to the lady in the house here to begin another quest, which we'll complete in a bit.
+Back at the Pokemon Center, this time go east. Talk to the lady in the house here to begin another quest, which we'll complete in a bit.
 
 We'll come back to the next house up and to the right in a bit. Enter the apartment complex beyond, next to the rock climb. In the lobby, if you previously joined the Aqua Gang, you will have the opportunity to complete an in-game trade: your Oranguru for **Oshawott**.
 
@@ -524,9 +524,9 @@ From here, make your way to the other map with the lake - you'll need to climb u
 
 !battle(["Karim", :HIKER, 0], "Forest Field")
 
-Once you defeat him, he will let his Pokémon out to hang out on the map. Talk to the Hiker for 5 *PokéSnax*. Talk to him again. He'll ask if you have a spare belt in your bag. By giving a Black Belt, you'll get a *Fist Plate*. If you don't have any Black Belts in your bag but you do have an Expert Belt, you can trade it for a *Life Orb*. Note that we will be able to get more Expert Belts in a bit, so don't feel bad about trading it away if you'd like.
+Once you defeat him, he will let his Pokemon out to hang out on the map. Talk to the Hiker for 5 *PokeSnax*. Talk to him again. He'll ask if you have a spare belt in your bag. By giving a Black Belt, you'll get a *Fist Plate*. If you don't have any Black Belts in your bag but you do have an Expert Belt, you can trade it for a *Life Orb*. Note that we will be able to get more Expert Belts in a bit, so don't feel bad about trading it away if you'd like.
 
-Once you've done these things, give snax to the Pokémon. Specifically, give a snax to Altaria, then another to Golem. By doing so, a new rock path will open up, so climb down to reach a new area.
+Once you've done these things, give snax to the Pokemon. Specifically, give a snax to Altaria, then another to Golem. By doing so, a new rock path will open up, so climb down to reach a new area.
 
 !enc(716, nil, nil, "Route 4 (Central Creek Map)")
 
@@ -617,7 +617,7 @@ There is a simple fix however: switch 6's. Simply move the right column up, the 
 
 Anyways, once you complete the puzzle, the *Darkinium-Z*, the *Gardevoirite*, and *TM24 Thunderbolt* will drop down. Very nice. You'll also notice that the screen has changed a bit: one number per column is now white.
 
-Head on back to Agate City, and enter the building to the right of the Pokémon Center. Talk to the lady and give her the code in white we just found: 139749.
+Head on back to Agate City, and enter the building to the right of the Pokemon Center. Talk to the lady and give her the code in white we just found: 139749.
 
 In the next room, you can get the *Manectite* as well as *Department Store Sticker: Manectric*. Hallelujah. You know what that means!
 
@@ -643,11 +643,11 @@ Enter Charlotte's gym, and make your way to the back. I actually mentioned this 
 
 Follow the path from here and grab the *Charizardite X* if you didn't get it earlier. Give Murmina the Family Picture we once yoinked from a shelf in the Belrose Manse. She'll gift us a **Torchic** egg. Very nice.
 
-## Bee's Pokédex Completion Quest (Part 1)
+## Bee's Pokedex Completion Quest (Part 1)
 
-Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokémon we've added to our Pokédex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokémon. Your mileage will certainly vary depending on what evolutions you've done, which Pokémon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokémon at this time. So, you'll get the following rewards:
+Fly back to Agate City, this time heading into the small house towards the right side of the city. The girl inside is named Bee, and she'll basically offer us rewards for every 100 Pokemon we've added to our Pokedex. At the point in my playthrough I was playing parallel to this guide, I had 569 Pokemon. Your mileage will certainly vary depending on what evolutions you've done, which Pokemon you've bred, etc., but I think it is a safe assumption that if you've been following along closely, you'll have at least 500 Pokemon at this time. So, you'll get the following rewards:
 
-|Pokémon Caught |Reward         |
+|Pokemon Caught |Reward         |
 |---------------|---------------|
 |100+           |*Galladite*    |
 |200+           |**Froakie**    |
@@ -663,13 +663,13 @@ Did you notice? After obtaining Froakie, we actually now have obtained all 21 st
 
 For reaching 18 eggs donated, you'll be given the *Reset Disc- SPEED*. The rewards for donating all 21 are even better: you'll get *TM26 Earthquake*, *Psychium-Z*, and *Garchompite*.
 
-## Completing the Pokédex (Minus Most Legendaries)
+## Completing the Pokedex (Minus Most Legendaries)
 
 Even better: did you notice? After obtaining Froakie, we actually now have obtained at least one member of every single non-legendary evolution line in the game, plus Type:Null and Phione. This also means that we actually can carry out the rest of Bee's quest right now, before we even get the last two badges! That also means that we're going to have to do a lot of evolving and breeding... so if you don't care enough about these rewards, or would rather do the quest later, you can skip this part.
 
-The following is a table of Pokémon you'll need to breed or evolve at this point in order to complete the Pokédex:
+The following is a table of Pokemon you'll need to breed or evolve at this point in order to complete the Pokedex:
 
-|Pokémon to Obtain  | Method                                            |
+|Pokemon to Obtain  | Method                                            |
 |-------------------|---------------------------------------------------|
 |**Ivysaur**        |Evolve Bulbasaur @ Lv. 16                          |
 |**Venusaur**       |Evolve Ivysaur @ Lv. 32                            |
@@ -744,7 +744,7 @@ The following is a table of Pokémon you'll need to breed or evolve at this poin
 |**Breloom**        |Evolve Shroomish @ Lv. 23                          |
 |**Slaking**        |Evolve Vigoroth @ Lv. 36                           |
 |**Ninjask**        |Evolve Nincada @ Lv. 20                            |
-|**Shedinja**       |Evolve Nincada @ Lv. 20 w/ Poké Ball & Party Slot  |
+|**Shedinja**       |Evolve Nincada @ Lv. 20 w/ Poke Ball & Party Slot  |
 |**Exploud**        |Evolve Loudred @ Lv. 40                            |
 |**Hariyama**       |Evolve Makuhita @ Lv. 24                           |
 |**Azurill**        |Breed Marill/Azumarill w/ Sea Incense              |
@@ -850,13 +850,13 @@ The following is a table of Pokémon you'll need to breed or evolve at this poin
 |**Raichu-Alola**   |Evolve Pikachu via Thunder Stone @ Apophyll Beach  |
 |**Golem-Alola**    |Evolve Graveler-Alola via Link Stone               |
 
-Note that the Alolan forms don't count towards the overall completion of your Pokédex. The magic number for a completed Pokédex is **731** obtained.
+Note that the Alolan forms don't count towards the overall completion of your Pokedex. The magic number for a completed Pokedex is **731** obtained.
 
-## Bee's Pokédex Completion Quest (Part 2)
+## Bee's Pokedex Completion Quest (Part 2)
 
-Fly back over to Agate City once you've gotten all 731 Pokémon so far. Talk to Bee once more.
+Fly back over to Agate City once you've gotten all 731 Pokemon so far. Talk to Bee once more.
 
-|Pokémon Caught |Reward         |
+|Pokemon Caught |Reward         |
 |---------------|---------------|
 |600+           |*Groundium-Z*  |
 |700+           |*Blazikenite*  |
@@ -890,6 +890,6 @@ Bottom to top: turn the blocks to C, E, high G, B, B, low G, A, A. Climb the roc
 
 This might be the "simplest" gym fight yet: Boosted Rock Slide spam! On Rocky Field, it adds extra damage when it flinches you. His team minus Gigalith are all fast and hard-hitting Rock types that all have this move, many above the level cap. That's really all there is to say about him: you'll be hit hard, fast, and likely flinch a lot.
 
-If you are able to dispense with Gigalith, a slow team can steamroll his frail Pokémon under Trick Room. You can also take advantage of the move Wide Guard to prevent Rock Slide spam. Your own Rock Slide spam will also be reasonably effective here as his team doesn't resist Rock.
+If you are able to dispense with Gigalith, a slow team can steamroll his frail Pokemon under Trick Room. You can also take advantage of the move Wide Guard to prevent Rock Slide spam. Your own Rock Slide spam will also be reasonably effective here as his team doesn't resist Rock.
 
 When you win, you'll get the Geode Badge, which boosts our level cap up to 95. You'll also get *TM80 Rock Slide*. Sweet.
