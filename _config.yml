@@ -48,8 +48,6 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -58,12 +56,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - raw
-  - utils/
-  - resources/
   - TODO.md
-  - requirements.txt
-  - remaining_trainers*.txt
   
 #------------------------------------------------------------------------------------#
 # BIGJRA.github.io generator functionality configuration                             #

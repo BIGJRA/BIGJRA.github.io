@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}"; // @ts-ignore
+// @import "{{ site.theme }}"; // @ts-ignore
 
 /*******************************************************************************
 MeyerWeb Reset
@@ -285,34 +285,40 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#discord_banner {
-  display: block;
-  position: absolute;
-  top:0;
-  right: 205px;
-  z-index: 10;
-  padding: 10px 60px 10px 10px;
+#banners {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+  gap: 10px;
+}
+
+#banners a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0px 10px 0px 0px;
   color: #fff;
-  background: url('/static/images/discord_logo.png') #5865F2 no-repeat 95% 50%;
   font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
+}
+
+#banners a img{
+  box-shadow: none;
+  border: none;
+}
+
+.banner-icon {
+  height: 24px;
+  width: auto;
+  margin-right: 10px;
+}
+
+#discord_banner {
+  background-color: #5865F2;
 }
 
 #forkme_banner {
-  display: block;
-  position: absolute;
-  top:0;
-  right: 10px;
-  z-index: 10;
-  padding: 10px 50px 10px 10px;
-  color: #fff;
-  background: url('/static/images/blacktocat.png') #0090ff no-repeat 95% 50%;
-  font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
+  background-color: #0090ff;
 }
 
 #header_wrap {
@@ -325,7 +331,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px;
 }
 
 #project_title {
@@ -334,6 +340,7 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  text-align: left;
 }
 
 #project_tagline {
@@ -342,6 +349,7 @@ Full-Width Styles
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  text-align: left;
 }
 
 #main_content_wrap {
@@ -382,10 +390,6 @@ Small Device Styles
   .inner {
     min-width: 320px;
     max-width: 480px;
-  }
-
-  #project_title {
-  font-size: 32px;
   }
 
   h1 {
@@ -430,10 +434,6 @@ Small Device Styles
   .inner {
     min-width: 240px;
     max-width: 320px;
-  }
-
-  #project_title {
-  font-size: 28px;
   }
 
   h1 {
@@ -537,12 +537,12 @@ div#quote p {
 
 #toTopButton {
     display: none;
-    position: fixed; 
+    position: fixed;
     bottom: 20px;
     right: 30px;
     z-index: 99;
     border: none;
-    outline: none; 
+    outline: none;
     background-color: #0090ff;
     cursor: pointer;
     padding: 15px;
@@ -578,4 +578,33 @@ div#quote p {
 .show-hide-text {
   cursor: pointer;
   text-decoration: underline;
+}
+
+.portfolio-item-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  gap: 15px;
+}
+
+.portfolio-item-desc {
+  width: 45%;
+}
+
+.portfolio-item-link {
+  width: 55%;
+}
+
+.portfolio-item-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding: none;
+  margin: none;
+  border: none;
+  box-shadow: none;
+}
+
+.portfolio-item-container h1 {
+  text-align: center;
 }
