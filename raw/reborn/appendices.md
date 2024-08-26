@@ -56,12 +56,15 @@ I don't recommend reading this list until you've played through the game once - 
 - **shinycharm / earlyshiny**: Allows the player to obtain the Shiny Charm from the beginning of the game.
 - **mintyfresh / agiftfromace**: Allows the player to get a pack of 5 of each Nature Mint at the beginning of the game.
 - **blindstep**: Turns on accessibility features for players with visual impairments.
+- **itemfinder**: Allows the player to get the Itemfinder right at the beginning of the game.
+- **nopartnerai / fullcontrol**: Allows the player to control NPC Tag Team trainers' actions.
 
 ### Difficulty Passwords
 
 - **litemode / noevs / emptyevs**: All enemy EV's and IV's are set to 0.
 - **nopenny / penniless**: Decreases money gained in trainer battles by 66%.
-- **fullevs / pulse2 / pulse2evs**: All enemy EV's are set to 252 and IV's are set to 31.
+- **fullevs / opp252ev / pulse2evs**: All enemy EV's are set to 252.
+- **highstandard / opp31iv**: Makes all opponent trainer Pokemon have 31 in each IV.
 - **noitems**: Prevents the player from using bag items like Potions and X-Attacks from their bag during battles.
 - **nuzlocke / locke / permadeath**: Once one of the player's Pokemon faints, it cannot be revived.
 - **moneybags / richboy / doublemoney**: Doubles the amount of money received by trainers.
@@ -75,6 +78,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **flatevs / 85evs**: All enemy Pokemon will have 85 EV's in every stat.
 - **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. Disables online.
 - **nobattles / storymode**: Skips all battles in the game.
+- **levelfloor / minlevel / lesslvlgap**: Floors the level of opponent Pokemon to the previous level caps (after the first gym).
 
 ### Shenanigan Passwords
 
@@ -93,6 +97,10 @@ I don't recommend reading this list until you've played through the game once - 
 - **debug / debugmode**: Allows players to modify their Pokemon freely, without the potential to ruin save files. *It is highly recommended to use this password instead of using the game's debug mode, which is intended for developers and can have unexpected negative consequences.*
 - **nopuzzles / puzzleskip**: Skips overworld, non-battle puzzles.
 - **doubles / colosseum / blueberry**: All trainer fights are set to be Double Battles!
+- **battlebond**: Allows the player to get a Battle Bond Greninja after defeating Titania. 
+- **aiplay / battlepalace / nocontrol**: The game will control your Pokemon's actions using opponent AI.
+- **snagmachine / monosteal / yoink**: Allows the player to steal 1 Pokemon per opponent trainer (no PULSEs).
+- **speedskip**: TODO
 
 ### Field Effect Passwords
 
@@ -150,6 +158,9 @@ The bulk passwords essentially are packs of the above listed passwords - using o
 - **casspack / goodtaste**: noitems, fullivs, hardcap, easyhms, norolls
 - **easymode**: fullivs, moneybags, litemode, stopitems
 - **hardmode**: noitems, nopenny, fullevs, emptyivs
+- **freebies**: freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz, freescent, itemfinder,
 - **qol**: hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc, freescent
-- **speedrun**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall, freescent, nopuzzles
-- **speedrunnotx**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall, freescent, nopuzzles
+- **speedrun**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall, freescent, nopuzzles, speedskip
+- **speedrunnotx**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall, freescent, nopuzzles, speedskip
+- **pulse2**: opp31iv, opp252ev
+- **rocketlocke**: nuzlocke, yoink
