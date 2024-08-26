@@ -5,7 +5,7 @@ class TrainerGetter
   attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash
 
   def initialize(game, trainer_hash = nil, trainer_type_hash = nil, item_hash = nil, move_hash = nil, ability_hash = nil,
-                 pokemon_hash = nil)
+                 pokemon_hash = nil, type_hash = nil)
     @game = game
     @trainerHash = trainer_hash ||= load_trainer_hash(@game)
     @trainerTypeHash = trainer_type_hash ||= load_trainer_type_hash(@game)
@@ -13,6 +13,7 @@ class TrainerGetter
     @moveHash = move_hash ||= load_move_hash(@game)
     @abilityHash = ability_hash ||= load_ability_hash(@game)
     @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game)
+    @typeHash = type_hash ||= load_type_hash(@game)
 
     @trainerStore = Set[]
   end
@@ -120,6 +121,10 @@ class TrainerGetter
         form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[form]
         form_data = @pokemonHash[mon[:species]][form_key]
 
+        form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
+        form_1_data = @pokemonHash[mon[:species]][form_1_key]
+        pokemon_name = "#{@pokemonHash[mon[:species]][form_1_key][:name]}"
+
         mon_details_parts = [
           "#{mon[:gender] ? " (#{mon[:gender]})" : ''}, Lv. #{mon[:level]}",
           "#{form > 0 ? @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]] : ''}",
@@ -127,9 +132,18 @@ class TrainerGetter
           "#{mon[:ability] ? "Ability: #{@abilityHash[mon[:ability]][:name]}" : ''}"
         ]
 
-        form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
-        form_1_data = @pokemonHash[mon[:species]][form_1_key]
-        pokemon_name = "#{@pokemonHash[mon[:species]][form_1_key][:name]}"
+        is_custom_form = form_key.include?("PULSE") || ["Aevian Forme", "Bot", "Purple", "Crystal Forme", "Mismageon", "Meech", "Dev"].include?(form_key)
+        
+        type1 = form_data[:Type1] ? @typeHash[form_data[:Type1]][:name] : @typeHash[form_1_data[:Type1]][:name]
+        type2 = form_data[:Type2] ? @typeHash[form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
+        if type2.nil? 
+          typeStr = "Typing: #{type1}"
+        else
+          typeStr = "Typing: #{type1}/#{type2}"
+        end
+
+        # Add typing only for custom formes
+        mon_details_parts.push(typeStr) if is_custom_form
 
         mon_details_td = doc.create_element('td')
         mon_details_td.add_child(doc.create_element('strong', pokemon_name))
@@ -175,11 +189,18 @@ class TrainerGetter
                  else
                    'IVs: All 10'
                  end
-        stat_details_parts = [
-          mon[:nature] ? "#{mon[:nature].capitalize} Nature" : 'Hardy Nature',
-          ev_str,
-          iv_str
-        ]
+
+        base_stats = form_data[:BaseStats] ? form_data[:BaseStats] : form_1_data[:BaseStats]
+        base_stats_str = 'Base Stats: ' + base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', ')
+
+        stat_details_parts = []
+        
+        # Only add base stats when custom form
+        stat_details_parts.push(base_stats_str) if is_custom_form
+        
+        stat_details_parts.push(mon[:nature] ? "#{mon[:nature].capitalize} Nature" : 'Hardy Nature',)
+        stat_details_parts.push(ev_str)
+        stat_details_parts.push(iv_str)
         stat_details_td = doc.create_element('td', stat_details_parts.join("\n"))
         content_row.add_child(stat_details_td)
       end
@@ -200,7 +221,8 @@ end
 
 def main
   e = TrainerGetter.new('reborn')
-  puts e.generate_trainer_markdown(['Cain', :Cain, 5], 'Chess Board')
+  puts e.generate_trainer_markdown(["Ace of Clubs", :ACECLUBS, 0])
+  # puts e.generate_trainer_markdown(['Cain', :Cain, 5], 'Chess Board')
   # puts e.generate_trainer_markdown(["Arlo", :SWIMMERBOI, 0])
   # puts e.generate_trainer_markdown(["Yan", :TechNerd, 0])
   # puts e.generate_trainer_markdown(["Jackson", :COOLTRAINER_Male, 0], nil, ["Mack", :StreetRat, 0])

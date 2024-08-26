@@ -365,6 +365,11 @@ def load_trainer_type_hash(game)
   eval(data)
 end
 
+def load_type_hash(game)
+  data = File.read(File.join(SCRIPTS_DIR, game, 'typetext.rb'))
+  eval(data)
+end
+
 def load_ability_hash(game)
   data = File.read(File.join(SCRIPTS_DIR, game, 'abiltext.rb'))
   eval(data)
