@@ -8,7 +8,7 @@ If this is the kind of thing that would interest you, enter the developer's room
 
 Anyways, the first thing we're going to do is grab the fourth Catching Charm. Make a beeline to the room in the top right corner to grab the *Catching Charm: Sapphire*!
 
-There is a case to be made that you should save actually talking to all these NPC's and reading the content here until after you've also beaten the postgame, though I will cover the currently available contents here regardless. You can battle the folks here optionally just for fun they'll give us BP for the Nightclub, which we'll get to in a bit. - they don't give any EXP and lock all levels to 100. They also use a ton of illegal movesets, for what it's worth.
+There is a case to be made that you should save actually talking to all these NPC's and reading the content here until after you've also beaten the postgame, though I will cover the currently available contents here regardless. You can battle the folks here optionally just for fun they'll give us BP for the Nightclub, which we'll get to in a bit. - they don't give any EXP and lock all levels to 100. They also use a ton of illegal movesets and some have custom abilities and typings.
 
 !battle(["Autumn", :AUTUMN, 0], "Rainbow Field")
 
