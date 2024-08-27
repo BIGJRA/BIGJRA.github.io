@@ -3,12 +3,12 @@ require_relative 'common'
 class EncounterGetter
   attr_accessor :game, :enc_hash, :map_names
 
-  def initialize(game, enc_hash = nil, map_names = nil, enc_map_wrapper = nil, mon_hash = nil)
+  def initialize(game, scripts_dir, enc_hash = nil, map_names = nil, enc_map_wrapper = nil, mon_hash = nil)
     @game = game
-    @encHash = enc_hash ||= load_enc_hash(game)
-    @mapNames = map_names ||= get_map_names(game)
-    @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game)
-    @monHash = mon_hash ||= load_pokemon_hash(game)
+    @encHash = enc_hash ||= load_enc_hash(game, scripts_dir)
+    @mapHash = map_names ||= load_maps_hash(game, scripts_dir)
+    @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game, scripts_dir)
+    @monHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
   end
 
   def get_encounter_md(map_id, include_list = nil, rods = nil, custom_map_name = nil)
@@ -16,7 +16,7 @@ class EncounterGetter
     rods ||= %w[Old Good Super]
 
     data = @encHash[map_id]
-    map_name = @mapNames[map_id]
+    map_name = @mapHash[map_id]
 
     enc_groups = {
       "Grass": %i[LandMorning LandDay LandNight],

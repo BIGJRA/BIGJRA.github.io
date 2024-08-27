@@ -3,8 +3,9 @@ require_relative 'common'
 class ShopGetter
   attr_accessor :game, :item_hash
 
-  def initialize(game, item_hash = nil)
+  def initialize(game, scripts_dir, item_hash = nil)
     @game = game
+    @scriptsDir = scripts_dir
     @itemHash = item_hash ||= load_item_hash(@game)
     @priceLookup = load_price_lookup
   end

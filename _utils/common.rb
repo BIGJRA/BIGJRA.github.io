@@ -51,8 +51,6 @@ FIELDS = {
   PSYTERRAIN: 'Psychic Terrain'
 }
 
-SCRIPTS_DIR = CONFIG['scripts_dir']
-
 SECTIONS = { 'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 'rejuv' => [['main', 15]] }
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
@@ -340,18 +338,18 @@ def set_to_range_string(integers_set)
   ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 
-def load_item_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'itemtext.rb'))
+def load_item_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'itemtext.rb'))
   eval(data)
 end
 
-def load_enc_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'enctext.rb'))
+def load_enc_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'enctext.rb'))
   eval(data)
 end
 
-def load_trainer_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'trainertext.rb'))
+def load_trainer_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'trainertext.rb'))
   base_hash = eval(data)
   ret = {}
   base_hash.each do |trainer_hash|
@@ -360,41 +358,41 @@ def load_trainer_hash(game)
   ret
 end
 
-def load_trainer_type_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'ttypetext.rb'))
+def load_trainer_type_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'ttypetext.rb'))
   eval(data)
 end
 
-def load_type_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'typetext.rb'))
+def load_type_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'typetext.rb'))
   eval(data)
 end
 
-def load_ability_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'abiltext.rb'))
+def load_ability_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'abiltext.rb'))
   eval(data)
 end
 
-def load_move_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'movetext.rb'))
+def load_move_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'movetext.rb'))
   eval(data)
 end
 
-def load_pokemon_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'montext.rb'))
+def load_pokemon_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'montext.rb'))
   eval(data)
 end
 
-def load_field_hash(game)
-  data = File.read(File.join(SCRIPTS_DIR, game, 'fieldtext.rb'))
+def load_field_hash(game, scripts_dir)
+  data = File.read(File.join(scripts_dir, game, 'fieldtext.rb'))
   eval(data)
 end
 
-def load_mining_hash(game = nil)
+def load_mining_hash(game = nil, scripts_dir)
   lines = if game && game.capitalize == 'Rejuv'
-            File.read(File.join(SCRIPTS_DIR, game, 'RejuvCustomScripts.rb'))
+            File.read(File.join(scripts_dir, game, 'RejuvCustomScripts.rb'))
           else
-            File.read(File.join(SCRIPTS_DIR, 'MinigameMining.rb'))
+            File.read(File.join(scripts_dir, 'MinigameMining.rb'))
           end
 
   item_hash = Hash.new(0)
@@ -418,9 +416,9 @@ def load_mining_hash(game = nil)
   grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
 end
 
-def get_map_names(game)
+def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(File.join(SCRIPTS_DIR, game, 'metatext.rb'))
+  data = File.read(File.join(scripts_dir, game, 'metatext.rb'))
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -443,9 +441,9 @@ def hp_str(move, hptype)
 end
 
 class EncounterMapWrapper
-  def initialize(game)
+  def initialize(game, scripts_dir)
     @data = {}
-    parse_file(game)
+    parse_file(game, scripts_dir)
     case game
     when 'reborn' then @encounterMaps = {
       RATTATA: { 1 => 'Rattata' },
@@ -482,8 +480,8 @@ class EncounterMapWrapper
 
   private
 
-  def parse_file(game)
-    file_contents = File.read(File.join(SCRIPTS_DIR, game, 'SystemConstants.rb'))
+  def parse_file(game, scripts_dir)
+    file_contents = File.read(File.join(scripts_dir, game, 'SystemConstants.rb'))
     relevant_contents = file_contents.scan(/# Evos first(.*?)# \* Constants for maps to reflect sprites on/m)
 
     relevant_contents[0][0].scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/) do |pokemon_name, pokemon_numbers|
@@ -499,14 +497,6 @@ class EncounterMapWrapper
   def parse_map_numbers(pokemon_numbers)
     pokemon_numbers.scan(/\d+/).map(&:to_i)
   end
-end
-
-def main
-  wrapper = EncounterMapWrapper.new('reborn')
-  p wrapper.get_enc_maps(:MAROWAK)
-  p wrapper.get_enc_maps(:Grimer)
-  p wrapper.get_enc_maps(:Meowth)
-  p wrapper.get_enc_maps(:CRABOMINABLE)
 end
 
 main if __FILE__ == $PROGRAM_NAME

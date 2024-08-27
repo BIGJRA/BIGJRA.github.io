@@ -1,8 +1,8 @@
 require_relative 'common'
 require_relative 'function_wrapper'
 
-def generate_md_text(game = 'reborn')
-  func_wrapper = FunctionWrapper.new(game)
+def generate_md_text(game = 'reborn', scripts_dir)
+  func_wrapper = FunctionWrapper.new(game, scripts_dir)
 
   def generate_md_pre_contents(game = 'reborn')
     <<~PRE_CONTENTS
@@ -38,7 +38,7 @@ def generate_md_text(game = 'reborn')
     ''
   end
 
-  def generate_chapter_contents(game, type, num, func_wrapper)
+  def generate_chapter_contents(game, scripts_dir, type, num, func_wrapper)
     raw_md = load_chapter_md(game, type, num)
 
     # Store chapter text as an array of lines - join them at the end
@@ -62,7 +62,7 @@ def generate_md_text(game = 'reborn')
   res += generate_toc_contents(game)
   SECTIONS[game].each do |chapter_type, total_chapters|
     (1..total_chapters).each do |chapter_num|
-      res += generate_chapter_contents(game, chapter_type, chapter_num, func_wrapper)
+      res += generate_chapter_contents(game, scripts_dir, chapter_type, chapter_num, func_wrapper)
       res += "\n"
     end
   end

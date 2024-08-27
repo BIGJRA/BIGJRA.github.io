@@ -6,29 +6,29 @@ require_relative 'trainer_getter'
 # This is the magic class of the rewrite.
 # Each function should return a string of some kind (can be multiline)
 class FunctionWrapper
-  attr_accessor :game, :shortnames, :encGetter, :shopGetter, :trainerGetter
+  attr_accessor :game, :scriptsDir, :shortnames, :encGetter, :shopGetter, :trainerGetter
 
-  def initialize(game)
+  def initialize(game, scripts_dir)
     # I need to pass in game to basically all of the potential functions, so
     # here we stick it in as as an argument. Anything that is consistent
     # across the whole document (ie. Version) should be used here:
     @game = game
+    @scriptsDir = scripts_dir
 
-    @mapNames = get_map_names(game)
+    @mapHash = load_maps_hash(game, @scriptsDir)
+    @encHash = load_enc_hash(game, @scriptsDir)
+    @itemHash = load_item_hash(game, @scriptsDir)
+    @trainerHash = load_trainer_hash(game, @scriptsDir)
+    @trainerTypeHash = load_trainer_type_hash(game, @scriptsDir)
+    @typeHash = load_type_hash(game, @scriptsDir)
+    @moveHash = load_move_hash(game, @scriptsDir)
+    @abilityHash = load_ability_hash(game, @scriptsDir)
+    @pokemonHash = load_pokemon_hash(game, @scriptsDir)
+    @encMapWrapper = EncounterMapWrapper.new(game, @scriptsDir)
 
-    @encHash = load_enc_hash(game)
-    @itemHash = load_item_hash(game)
-    @trainerHash = load_trainer_hash(game)
-    @trainerTypeHash = load_trainer_type_hash(game)
-    @typeHash = load_type_hash(game)
-    @moveHash = load_move_hash(game)
-    @abilityHash = load_ability_hash(game)
-    @pokemonHash = load_pokemon_hash(game)
-    @encMapWrapper = EncounterMapWrapper.new(game)
-
-    @encGetter = EncounterGetter.new(game, @encHash, @mapNames, @encMapWrapper, @pokemonHash)
-    @shopGetter = ShopGetter.new(game, @itemHash)
-    @trainerGetter = TrainerGetter.new(game, @trainerHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash,
+    @encGetter = EncounterGetter.new(game, @scriptsDir, @encHash, @mapHash, @encMapWrapper, @pokemonHash)
+    @shopGetter = ShopGetter.new(game, @scriptsDir, @itemHash)
+    @trainerGetter = TrainerGetter.new(game, @scriptsDir, @trainerHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash,
                                        @pokemonHash, @typeHash)
 
     @shortNames = {
@@ -64,7 +64,7 @@ class FunctionWrapper
   end
 
   def generate_mining_markdown
-    mining_hash = load_mining_hash(@game)
+    mining_hash = load_mining_hash(@game, @scriptsDir)
     # Creates nokogiri HTML
     doc = Nokogiri::HTML::Document.new
     div = doc.create_element('div', class: 'mining_table')

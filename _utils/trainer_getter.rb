@@ -4,16 +4,16 @@ require 'set'
 class TrainerGetter
   attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash
 
-  def initialize(game, trainer_hash = nil, trainer_type_hash = nil, item_hash = nil, move_hash = nil, ability_hash = nil,
+  def initialize(game, scripts_dir, trainer_hash = nil, trainer_type_hash = nil, item_hash = nil, move_hash = nil, ability_hash = nil,
                  pokemon_hash = nil, type_hash = nil)
     @game = game
-    @trainerHash = trainer_hash ||= load_trainer_hash(@game)
-    @trainerTypeHash = trainer_type_hash ||= load_trainer_type_hash(@game)
-    @itemHash = item_hash ||= load_item_hash(@game)
-    @moveHash = move_hash ||= load_move_hash(@game)
-    @abilityHash = ability_hash ||= load_ability_hash(@game)
-    @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game)
-    @typeHash = type_hash ||= load_type_hash(@game)
+    @trainerHash = trainer_hash ||= load_trainer_hash(@game, @scriptsDir)
+    @trainerTypeHash = trainer_type_hash ||= load_trainer_type_hash(@game, @scriptsDir)
+    @itemHash = item_hash ||= load_item_hash(@game, @scriptsDir)
+    @moveHash = move_hash ||= load_move_hash(@game, @scriptsDir)
+    @abilityHash = ability_hash ||= load_ability_hash(@game, @scriptsDir)
+    @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game, @scriptsDir)
+    @typeHash = type_hash ||= load_type_hash(@game, @scriptsDir)
 
     @trainerStore = Set[]
   end

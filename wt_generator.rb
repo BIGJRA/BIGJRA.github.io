@@ -1,18 +1,19 @@
 # The Markdown to be processed by Jekyll is not committed directly - instead, it is processed
 # by this script to ensure game data is being pulled effectively.
-# Run with arguments <game> and <outputfile path> to generate markdown appropriately.
+# Run with arguments <game>, <scripts directory>, <outputfile path>, to generate markdown appropriately.
 
 require_relative '_utils/md_generator'
 
 # Check for correct number of arguments
-if ARGV.length != 2
-  puts "Usage: ruby wt_generator.rb <game> <output_file>"
+if ARGV.length != 3
+  puts "Usage: ruby wt_generator.rb <game> <scripts directory> <output file>"
   exit 1
 end
 
 # Assign arguments to variables
 game = ARGV[0]
-output_file = ARGV[1]
+scripts_dir = ARGV[1]
+output_file = ARGV[2]
 
 # Validate game type
 unless ['reborn', 'rejuv'].include?(game)
@@ -21,7 +22,7 @@ unless ['reborn', 'rejuv'].include?(game)
 end
 
 # Generate markdown content based on the game type
-markdown_contents = generate_md_text(game)
+markdown_contents = generate_md_text(game, scripts_dir)
 puts "Generated markdown contents for #{game}!"
 
 # Write content to the specified file
