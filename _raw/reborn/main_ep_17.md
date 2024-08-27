@@ -8,7 +8,7 @@ Return to the north side of Peridot Ward and talk to the Corin Rouge lookalike h
 
 Head into Jasper Ward now to talk to the Police Chief, who will give you *Safety Goggles*. This massive quest quest will be over soon, I swear.
 
-Head down to the Lower Peridot Ward. If we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokemon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
+Head down to the Lower Peridot Ward. On a clear day, if we previously did the Onix quest and got the Hiker moved into a new house, we'll find him southeast of the Pokemon Center, and he'll give us a *Choice Band* if we joined the Aqua Gang, and a *Choice Specs* if we joined the Magma Gang. Sweet!
 
 Now that we've defeated Adrienn there is one more move tutor in Peridot Ward's Mosswater Market:
 
