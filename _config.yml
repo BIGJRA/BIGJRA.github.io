@@ -51,6 +51,8 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -59,11 +61,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - _raw/
+  - _utils/
   - TODO.md
-  
-#------------------------------------------------------------------------------------#
-# BIGJRA.github.io generator functionality configuration                             #
-#------------------------------------------------------------------------------------#
-
-# Local scripts directory: Needed to generate content. Replace as necessary if this moves.
-# scripts_dir: "C:/Users/jakes/reborn/Scripts"
