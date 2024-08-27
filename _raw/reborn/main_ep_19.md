@@ -936,11 +936,11 @@ You'll get the *Amethyst Pendant*. Proceed to the Champion room when you're read
 
 You knew this was coming:
 
-**On Reshiram Route:**
+**If you didn't give Blake the Ruby Ring:**
 
 !battle(["Lin", :LIN, 0])
 
-**On Zekrom Route:**
+**If you gave Blake the Ruby Ring:**
 
 !battle(["Lin", :LIN, 1])
 
@@ -998,7 +998,7 @@ It's worth noting that this is actually the 9th and final Anna Route requirement
 
 **Once you win the first fight, if you lose the second fight, you will be kicked out of Anna Route.**
 
-You'll also have to fight the first New World Lin fight again, this time, it will be the version without Arceus. You can restore a backup if you want. There's actually one automatically created for you in the saves folder.
+You'll also have to fight the first New World Lin fight again, this time, it will be the version without Flygon and with Arceus. (If you still want to go to Anna Route, you can restore a backup if you want - there's actually one automatically created for you in the saves folder.)
 
 Anyways, onto the strategy. Really, these fights come down to choreographing every single move pretty much. If you don't know whether Honchkrow is going to Sucker Punch or use its Z-move, you will probably lose. If a random attack of yours misses, it will likely throw off the whole fight and you will lose. Lots and lots of trial and error will probably be key here. I recommend setting your Z-move to Steel, Poison, or Rock in most cases. Clefable is usually the most annoying Pokemon to take out aside from Arceus, so having either a super-effective nuke or a field-boosted Continental Crush to take it out is usually a good idea. You may instead want to use it on Celesteela, in which case Fire, Electric, or field-boosted Dark are good bets. Even though all the other stuff like field changes and weather are out, ol' reliable TRICK ROOM is here to save the day - it even gets an automatic 8 turns on this field, freeing up your Trick Room user to hold something else like Light Clay. A Z-move of one of the aforementioned types or Mold Breaker on a slow set-up sweeper under Trick Room can barrel through the bulk of the team, freeing you up to worry about Arceus!
 
