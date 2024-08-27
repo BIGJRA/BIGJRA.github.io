@@ -1,4 +1,11 @@
 .venv
 _datafiles
-some_notes.txt
 ~$*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+dummy*
+_*.md
+src/reborn.md

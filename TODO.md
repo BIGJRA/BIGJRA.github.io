@@ -1,1 +1,0 @@
-Add regular trainers... sometime in the future. Message me if you want to help with this.
