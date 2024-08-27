@@ -305,7 +305,7 @@ For now, grab the items available on all four maps plus those on the specific oa
 - As you head down the left wall of the desert, you'll see one wide green tree. Head east from here across a dune, you'll see a broken statue. The main statue is too faded to read, but the broken off gargoyle contains a hidden *Max Elixir*.
 - Continuing to follow the left wall down, you can hop across some blocks after defeating some Exeggutor-Alola to get *TM72 Volt Switch*!
 - In the bottom left corner of the desert, you'll be able to pick up a *Focus Sash*.
-- On the very bottom-middle of the desert you can find 6 *Poke Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
+- On the very bottom-middle of the desert you can find 6 *Poké Balls*, one is hidden. Especially with Taka in your party, you may realize where these six balls came from...
 - Hugging the right wall of the desert, you'll find a *Relic Copper*.
 - Past Sugiline Cave, hugging the right wall and going up, you'll find a *Max Elixir* near some dead trees.
 - Up and to the right of the previous Max Elixir, you can find a hidden *Star Piece* in a rock.
@@ -331,7 +331,7 @@ Map 1 has this trainer, north of the train station from Peridot Ward:
 - Head straight east and you'll find a *Dire Hit* in a patch of green.
 - Left and down from here, along the left wall, you'll find a hidden *Blue Shard*. Straight east of here is the train station where we can return to Reborn City. Hidden on the station is *Red-Hots*.
 - Down and left from here you'll see a tall pillar. Northwest of it, you can get a hidden *Common Candy* in a dead tree.
-- North and slightly west of the pile of Poke Balls in the south desert, you'll find a hidden *X Speed*.
+- North and slightly west of the pile of Poké Balls in the south desert, you'll find a hidden *X Speed*.
 - Hugging the right side of the desert and going up, you'll see a small hill and a few patches of green. One contains a hidden *Great Ball*.
 - On the east side of the map, southeast of the Sugiline Cave, you'll find a hidden *Purple Shard* in a desert rose flower. You'll know you're close when you see a bunch of desert rose trees.
 - Straight west and slightly up from the previous item, you can find a hidden *Tiny Mushroom* between some palm trees.
@@ -383,7 +383,7 @@ Map 3 has this trainer, northwest of Sugiline Cave:
 - To the right and slightly up from the oasis, you'll find a hidden *Red Shard*.
 - On the train platform down and to the right of the oasis you can get a hidden *Sun Stone*.
 - Across the tracks from the station and slightly down you'll find a hidden *Red Shard* near a pillar.
-- Slightly to the left of the pile of Poke Balls, you'll be able to find a hidden *Pop Rocks* under the tracks.
+- Slightly to the left of the pile of Poké Balls, you'll be able to find a hidden *Pop Rocks* under the tracks.
 
 For some reason, just on this map, you can give a guy in the bottom right corner some Fresh Water in exchange for a new password: *gen5weather*. Anyways, back to the items:
 
@@ -411,13 +411,13 @@ Map 4 has this trainer, near the tracks on the west side:
 - On the hill where we found the 3 Exp. Candies, you can find a hidden *Common Candy*.
 - Down from the hill, you'll find a bush containing another hidden *Common Candy*.
 - Right from here, at the bend in the first track you'll find a rock containing a *Rock Gem*.
-- Follow this track eastward. Below the first palm tree east of the bend, you'll find a hidden *Poke Ball*.
+- Follow this track eastward. Below the first palm tree east of the bend, you'll find a hidden *Poké Ball*.
 - Back at the bend to the left, go straight down. At the base of a medium-sized hill is a skull containing a hidden *Blast Powder*.
 - There is a desert rose patch down and to the left from here, containing a hidden *Zinc*.
 - Down from here you'll find a rock containing a *Cotton Candy*.
 - Much further down the wall on the left side, in two rocks are a *Magical Seed* and *Salt-Water Taffy*.
 - From the area where we got the Volt Switch TM, go straight east across the tracks to find a hidden *Iron*.
-- Slightly to the northeast of the pile of Poke Balls, you'll find a hidden *Purple Shard*.
+- Slightly to the northeast of the pile of Poké Balls, you'll find a hidden *Purple Shard*.
 - Around the oasis in the bottom right corner, you can find a hidden *Sitrus Berry*, *Dusk Ball*, and *Relic Copper*.
 - Just before the Sugiline Cave on the east side of the desert you'll find an area with a lot of cacti and bushes. Nearby are 3 hidden *Green Shards*.
 - Straight to the left, you'll find a small grove of wide trees near a train track. You'll find a hidden *Escape Rope*.
@@ -453,7 +453,7 @@ The map:
 
 !img("tourmaline_nw.png")
 
-From bottom to top (ordered roughly) you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokeSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poke Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
+From bottom to top (ordered roughly) you can find hidden: *Blue Shard*, *Red Shard*, *Green Shard*, *PokéSnax*, *Stardust*, *Fairy Gem*, *Synthetic Seed*, *Red Shard*, *Blue Shard*, *Purple Shard*, *Common Candy*, *Super Potion*, *Max Repel*, *Poké Ball*, *PP Up*, *Water Gem*, *Green Shard*, *Great Ball*, *Ghost Gem*, and *Potion*.
 
 You'll also notice a few non-hidden items: along the right side you can get a *Relic Copper* and a *Max Ether*. On the left side, you'll be ambushed by a dangerous trainer:
 
@@ -475,7 +475,7 @@ The map:
 
 !img("tourmaline_ne.png")
 
-Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poke Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*.
+Roughly from bottom to top, you can find a hidden *Repel*, *Calcium*, *Blue Shard*, *Stardust*, *Purple Shard*, *Pop Rocks*, *Great Ball*, *Red Shard*, *Elixir*, *Purple Shard*, *Blue Shard*, *Tiny Mushroom*, *Poké Ball*, *Shiny Stone*, *Green Shard*, *Pearl*, *Telluric Seed*, and *Rare Bone*.
 
 At the wasteland at the top you can get *TM36 Sludge Bomb*!
 
@@ -483,7 +483,7 @@ With this map fully explored, now we can finally proceed to mess with the oases.
 
 !enc(688, nil, nil, "Northeast Tourmaline Desert (Mirage)")
 
-The layout is the mostly same as before, but there are new items. Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokeSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poke Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
+The layout is the mostly same as before, but there are new items. Again roughly from bottom to top, you can find a hidden *Iron*, *Red Shard*, *Green Shard*, *Great Ball*, *PokéSnax*, *Purple Shard*, *Elixir*, *Red Shard*, *Oran Berry*, *Blast Powder*, *Aspear Berry*, *Repel*, *Magical Seed*, *Poké Ball*, and *Custap Berry*. By surfing you can find hidden *Star Piece*, *Full Restore*, and *Dusk Stone*.
 
 Before we enter the Mirage Tower, there's another thing we can do out here if Taka is not a partner - otherwise, return here later. Surf around the back of the tower. There's a hidden stairs directly behind the tower we can use to get onto the mountainside. Follow this path to get a hidden *Stardust*, *Swift Wing*, and *Blue Shard*.
 
@@ -606,7 +606,7 @@ This time, take the vortex up and slightly right from the pot that contained the
 
 This time, take the top right vortex, then climb the ladder in the area you land in. Up here, pick up the *Draco Plate* and hidden *Super Repel*. Again jump into the vortices and make your way back to 1F.
 
-Jump in the top left vortex this time. You can find a hidden *PokeSnax* in this room. Void out and return for the final time, in this section of the dungeon, at least!
+Jump in the top left vortex this time. You can find a hidden *PokéSnax* in this room. Void out and return for the final time, in this section of the dungeon, at least!
 
 Finally, jump into the vortex on the left side of the pot. Climb the ladder at the top of the rocky path.
 
@@ -620,7 +620,7 @@ Next, step into the bottom right vortex in the entry room.
 
 In this room, you can get a hidden *Carbos*, *Pecha Berry*, and *Blue Shard*. Climb the ladder at the top.
 
-In this next room, you can find 2 hidden *Elemental Seeds*, *PokeSnax*, and *Green Shard*. Jump into the vortex on the middle of the right side of the room, below a cactus. Pick up a *Link Stone* then void out and return to the previous room.
+In this next room, you can find 2 hidden *Elemental Seeds*, *PokéSnax*, and *Green Shard*. Jump into the vortex on the middle of the right side of the room, below a cactus. Pick up a *Link Stone* then void out and return to the previous room.
 
 Next, jump into the middle of the top three vortices. Be careful here as you grab hidden *Ice Heal*, *Antidote*, and *Star Piece*. Climb the ladder on the left side and push the button in the Arceus statue. Return to the front of the dungeon.
 
@@ -718,7 +718,7 @@ Grab the hidden *Big Mushroom* and enter the nearby train car. Follow the path t
 
 This area, sometimes referred to as Train Town, is a flying destination thankfully, so feel free to go do preps. If he has been with you so far, Taka leaves your party here as well.
 
-Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poke Ball*, *Purple Shard*, and *PokeSnax*.
+Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*, *Purple Shard*, *Synthetic Seed*, *Aspear Berry*, *Red Shard*, *Poké Ball*, *Purple Shard*, and *PokéSnax*.
 
 If Taka is with you, he will take a rest and lie down in a train car on the bottom right side of the area. Talk to Europa before you follow him if you like.
 
@@ -729,7 +729,7 @@ You can talk to the residents of the Train Town and learn about them. In the bot
 
 Depending on the time of day, Bouffalant Bill will be either outside or in a train car on the upper right side of the area that contains a healing machine. He will sell us some stuff.
 
-!shop("Bouffalant Bill", ["Poke Ball", "Great Ball", "Ultra Ball", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
+!shop("Bouffalant Bill", ["Poké Ball", "Great Ball", "Ultra Ball", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
 
 In a train car at the top of the area you can access a PC and meet Stephoscope. Talking to her twice after visiting Teknite Ridge, you'll be given the *Houndoominite*. Excellent.
 

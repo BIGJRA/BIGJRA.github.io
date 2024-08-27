@@ -9447,9 +9447,9 @@ Outside there are 3 hidden *Yellow Shards.* The middle section is just two optio
 
 Hidden around here and down are two *Yellow Shards.* Enter the bottom ladder and exit the right door: you'll find another hidden *Yellow Shard* and a **Falinks.** Back up the ladder, head up and then right.
 
-Via the nearby door you'll find a *Power Bracer.* Behind the grunt is a *Poke Toy.* Head up and you'll find, surprise, 3 more hidden *Yellow Shards.*
+Via the nearby door you'll find a *Power Bracer.* Behind the grunt is a *Poké Toy.* Head up and you'll find, surprise, 3 more hidden *Yellow Shards.*
 
-Talk to the group up at the top, then head to the left. On the left side of the area you can find 7 hidden *Red Shards.* Grab the *Poke Toy* at the bottom, then the *Prism Scale* inside a door.
+Talk to the group up at the top, then head to the left. On the left side of the area you can find 7 hidden *Red Shards.* Grab the *Poké Toy* at the bottom, then the *Prism Scale* inside a door.
 
 Return to the top, find a final hidden *Yellow Shard,* and enter the gallery.
 

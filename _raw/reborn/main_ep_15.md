@@ -22,7 +22,7 @@ Back at the ice puzzle in the room, go up this time. Grab hidden *Stardust* and 
 
 You can get a hidden *Pearl* and *Red Shard* in the next room, as well as *TM01 Work Up* and a *Razor Fang*. Backtrack all the way back to B1F.
 
-This time, cross the ice to the top left. Grab the hidden *Poke Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the alcove door at the bottom.
+This time, cross the ice to the top left. Grab the hidden *Poké Ball* then dive down. Hidden in here are a *Green Shard*, *Genius Wing*, and *Red Shard*. We can also get a *Deep Sea Tooth*. Enter the alcove door at the bottom.
 
 !enc(402, nil, nil, "Celestinine & Ametrine Mountains Underwater (B2F Only)")
 
@@ -46,7 +46,7 @@ On this floor, you'll need to push boulders into the dead ends in order to skate
 
 We can fish up an ugly fish on this floor! This room contains a hidden *Flying Gem* and *Green Shard* as well as *TM03 Psyshock*, a *Dragon Scale*, *Timid Mint*, *Water Memory*, and *Exp. Candy XL*.
 
-Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine Mountain 1F. Surf straight down, ride down the small waterfall, and pick up a hidden *Green Shard*, *Shoal Salt*, and *PokeSnax*. Push the nearby boulder to the left, then go up the waterfall and cross the now open ice patch.
+Backtrack all the way to Celestinine 1F. Go left across the ice to enter Citrine Mountain 1F. Surf straight down, ride down the small waterfall, and pick up a hidden *Green Shard*, *Shoal Salt*, and *PokéSnax*. Push the nearby boulder to the left, then go up the waterfall and cross the now open ice patch.
 
 With the Silver Ring in hand, we can catch Corey's **Skuntank** here! Behind it, pick up the *Silver Card*.
 

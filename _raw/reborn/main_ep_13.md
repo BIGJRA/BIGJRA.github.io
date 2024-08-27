@@ -2,7 +2,7 @@
 
 With 10 badges in hand, there is another default shop update.
 
-!shop("Default Mart (10-12 Badges)", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion"])
+!shop("Default Mart (10-12 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion"])
 
 Return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
 
@@ -29,7 +29,7 @@ Surf to the left.
 
 !enc(372, nil, nil, "Celestinine Cascade West")
 
-Hidden are *Water Gem*, 2 *PokeSnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poke Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
+Hidden are *Water Gem*, 2 *PokéSnax*, *Potion*, *Calcium*, *Genius Wing*, *Dire Hit*, *Poké Ball*, *Blue Shard*, *Rock Gem*, *Green Shard*, *Awakening*, *Ultra Potion*, *Elixir*, 2 *Red Shards*, *Aspear Berry*, and *Ice Heal* all throughout the left side of this area. Hop your way to the cliff on the upper right side to get a *Reaper Cloth*. Towards the left side you can hop to an *Ultra Potion*.
 
 Talk to the clown with the Politoed and Torkoal for a battle.
 
@@ -105,7 +105,7 @@ Inside this cave you can find a hidden *Hyper Potion*, *Red Shard*, 2 *Repels*, 
 
 Exit the door at the bottom. Outside, you can find a hidden *Max Elixir*, *Resist Wing*, and *Exp. Candy XL*.
 
-Enter the next cave. Inside you can find hidden *PokeSnax*, and *Potion*, as well as Team Meteor!
+Enter the next cave. Inside you can find hidden *PokéSnax*, and *Potion*, as well as Team Meteor!
 
 !dbattle(["Geoff", :MeteorGrunt, 1], ["Audrey", :MeteorGrunt_090, 1], "Cave Field")
 
@@ -119,7 +119,7 @@ Continue into the next room.
 
 !dbattle(["Kenan", :MeteorKnight, 2], ["Diana", :MeteorDame, 2], "Cave Field")
 
-Pick up the hidden *Super Repel* and *Poke Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
+Pick up the hidden *Super Repel* and *Poké Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
 
 !dbattle(["Steven", :MeteorKnight, 2], ["Avril", :MeteorDame, 2], "Rocky Field")
 
@@ -160,7 +160,7 @@ Finally, up the hill to the left is the last trainer here.
 
 !battle(["George", :COOLTRAINER_Male, 0], "Forest Field")
 
-Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, 2 *PokeSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of the map.
+Throughout Route 4 you can find 2 hidden *Heart Scales*, *Super Potion*, 2 *PokéSnax*, *Purple Shard*, *Synthetic Seed*, *Red Shard*, 2 *Telluric Seeds*, *Grass Gem*, *X Attack*, and *Potion*. If you bring a Pokemon with Lava Plume, Heat Wave, Incinerate, Eruption, Fire Pledge, or Flame Burst, use it in battle. This will allow you to get the *Fire Memory* in the campfire at the center of the bottom half of the map.
 
 Enter Calcenon City to the west.
 

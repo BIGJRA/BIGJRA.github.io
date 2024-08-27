@@ -82,7 +82,7 @@ Make your way to the very top of the area to talk to the purple haired girl and 
 
 !battle(["Murray", :GENTLEMAN, 0])
 
-Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
+Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poké Ball*, *X Defend*, and *Exp. Candy M*.
 
 You can enter the Alleyway towards the middle of the ward, but we won't talk to the guys in here yet.
 
@@ -96,7 +96,7 @@ Enter the flower shop on the left side of the ward. Someone inside will give you
 
 !img("spritzee.jpg")
 
-!shop("Sweet Scent Flowers (Top)", ["Honey", "Oran Berry", "Rose Incense", "Floral Charm", "Sachet", "PokeSnax"])
+!shop("Sweet Scent Flowers (Top)", ["Honey", "Oran Berry", "Rose Incense", "Floral Charm", "Sachet", "PokéSnax"])
 
 We will eventually need 2 Floral Charms and around 25-30 Honeys for sidequests later. There is a cheaper option to get the honey later on, however.
 
@@ -152,7 +152,7 @@ Once you do so, you can grab the *Crystal Cavern Field Readout*. Head back out t
 
 You'll notice that we're back on B1F, so head back down the ladder below to reach the ledges on B2F. This time we are going to take the ledges down to go all the way to the left. You'll reach a ladder. Upstairs, you can find a hidden *Ground Gem* and *Super Repel*. Head down the ledge - again we'll find ourselves at the familiar area of B1F.
 
-Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here. You'll see a little pool of water coming out of the wall - head to the left from here, past some rocks to the left, to obtain *TM69 Rock Polish*! Head back down until you can go to the right. Climb these stairs - you'll find a hidden *Psychic Gem*, *X Speed*, and *PokeSnax* along the way.
+Head down to the sequence of ledges again. This time we will take the second-path from the left. Use your itemfinder as you're going down and you can obtain a *Green Shard*. Head to the left and go straight up. A guy will give you 3 *Exp. Candy M*. Nearby is a hidden *Blue Shard*. Go down the first set of stairs from here. You'll see a little pool of water coming out of the wall - head to the left from here, past some rocks to the left, to obtain *TM69 Rock Polish*! Head back down until you can go to the right. Climb these stairs - you'll find a hidden *Psychic Gem*, *X Speed*, and *PokéSnax* along the way.
 
 Finally, we can take the huge series of ledges to take the third path from the left. Grab the hidden *X Sp. Atk* then head down the ladder here.
 

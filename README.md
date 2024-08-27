@@ -49,6 +49,6 @@ Jekyll is configured in this project to serve appropriate files in the `src` dir
 
 ## Contributing
 
-If you want to contribute to this project, please follow the standard open-source practices: fork, create a branch, commit your changes, push, and open a pull request back to my repository. In particular, 99% of errors with walkthrough information can be solved by editing the appropriate raw markdown section in the `src/_raw` directory.
+If you want to contribute to this project, please follow the standard open-source practices: fork, create a branch, commit your changes, push, and open a pull request back to my repository. In particular, 99% of errors with walkthrough information can be solved by editing the appropriate raw markdown section in the `_raw` directory.
 
 Please join my [Discord Server](https://discord.gg/3r83avH4sv) with any questions or for more significant contributions! Thank you.

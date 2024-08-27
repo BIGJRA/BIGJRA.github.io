@@ -40,7 +40,7 @@ Go left up the stairs at your first opportunity, and make your way across the ic
 
 Hidden down here, you'll find a hidden *Resist Wing* and a *Red Shard*.
 
-Emerge at the other dive spot. You can find a hidden *PokeSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back to the previous dive spot. Next, go up and right to head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
+Emerge at the other dive spot. You can find a hidden *PokéSnax* as well as *TM82 Dragon Tail* and an *Exp. Candy XL*. Make your way back to the previous dive spot. Next, go up and right to head to Celestinine Mountain 2F and make your way to the large body of water. Dive down at the crescent-shaped spot.
 
 To the right, you'll find the *Snowy Mountain Field Readout*. Up and to the right you'll find a *Water Stone*. Emerge at the dive spot in the upper right side. Up here you'll find the *PULSE Readout 2*. Oh dear.
 
@@ -58,7 +58,7 @@ With that out of the way, head up the now-open ladder up to Ametrine Mountain 3F
 
 !enc(439)
 
-Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokeSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and *Zinc* as you proceed. Talk to Shelly here.
+Hidden here you'll find a *Purple Shard*, *Resist Wing*, *X Attack*, and *Ether* until you come upon the first fork. To the right along a narrow cliffside, you can find hidden *PokéSnax* and *Blue Shard*. Double back and go left. You'll find a hidden *Purple Shard*, *Potion*, and *Zinc* as you proceed. Talk to Shelly here.
 
 Enter the small building nearby. Inside, talk to the old man to begin a quest. You can also talk to his computer to get the *Glitch Field Readout*.
 

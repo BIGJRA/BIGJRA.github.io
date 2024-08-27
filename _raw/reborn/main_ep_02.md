@@ -14,7 +14,7 @@ Next, enter the Grand Hall. The Common Candy salesman near the shop is now gone,
 
 Now that we have a badge, Pokemarts will be updated:
 
-!shop("Default Mart (1 Badge)", ["Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Repel", "Poke Ball"])
+!shop("Default Mart (1 Badge)", ["Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Repel", "Poké Ball"])
 
 Having a couple repels never hurts, but money is still scarce and catching them all is an expensive task, so I still recommend focusing mostly on balls.
 
@@ -61,7 +61,7 @@ Klink is pretty good on the Factory Field, which we'll be seeing a lot in this g
 
 Head back out and enter the Devon Corp building on the main street.
 
-!shop("Devon Corporation", ["Potion", "Repel", "Poke Ball"])
+!shop("Devon Corporation", ["Potion", "Repel", "Poké Ball"])
 
 Nothing special here for sale, but if you talk to the mysterious salesman, he'll give you a free *Premier Ball* the first time.
 
@@ -87,8 +87,8 @@ Back outside, follow Victoria to the right. If you'd like to get to battle Victo
 
 !img("hidden011.png")
 
-- (A): *PokeSnax*
-- (B): *PokeSnax*
+- (A): *PokéSnax*
+- (B): *PokéSnax*
 
 Head left and down.
 
@@ -119,7 +119,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 !img("hidden013.png")
 
 - (B): *Great Ball*
-- (C): *PokeSnax*
+- (C): *PokéSnax*
 - (D): *Red Shard*
 
 !battle(["Ulf", :StreetRat, 0])
@@ -128,7 +128,7 @@ Grab a *Potion* (A, below) in the trash can to the left and head up.
 
 To the left you'll find a Light Shard, which heals your party but disappears after.
 
-If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokeSnax*.
+If you talked to Victoria near the park earlier, head up and talk to Victoria for a battle. If you didn't or you want to skip her battle, talk to the fridge in the upper right corner to delete the barrier. Talk to the nearby trashcan to get a *PokéSnax*.
 
 !battle(["Victoria", :Victoria, 1])
 
@@ -208,7 +208,7 @@ Back on B1F, enter the big door and head up.
 !img("hidden018.png")
 
 - (A): *Oran Berry*
-- (B): *Poke Ball*
+- (B): *Poké Ball*
 
 In the next room, it's time for a battle!
 
@@ -339,7 +339,7 @@ You can start by grabbing a hidden *Oran Berry* (A) in the third bush to the lef
 
 Pick up some more items:
 
-- (B): *Poke Ball*, not hidden
+- (B): *Poké Ball*, not hidden
 - (C): *Chesto Berry*
 
 Cut wiggly tree #1, then make your way back to the entrance.
@@ -401,7 +401,7 @@ The building on the left is Silph Co., but we can't do much here for now. The ri
 
 **Department Store 1F Left Shop**
 
-!shop("Department Store 1F (Left)", ["Poke Ball", "Escape Rope", "Common Candy", "Repel", "PokeSnax"])
+!shop("Department Store 1F (Left)", ["Poké Ball", "Escape Rope", "Common Candy", "Repel", "PokéSnax"])
 
 !shop("Department Store 1F (Right)", ["Potion", "Antidote", "Awakening", "Burn Heal", "Paralyze Heal", "Ice Heal"])
 
@@ -454,7 +454,7 @@ There are hidden items too:
 - (A): *Cheri Berry*
 - (B): *Antidote*
 - (C): *Carbos*
-- (D): *PokeSnax*
+- (D): *PokéSnax*
 
 The bottom left building is the Move Relearner house, but we can't enter it yet. Head in to the apartment to the right and talk to the girl on the left twice; for saving the Daycare couple, she'll give us an egg! It will be one of the following, determined randomly: **Clauncher**, **Seel**, **Remoraid**, **Spheal**, **Clamperl**, or **Frillish**. That's all here for now, so head next door to the game corner.
 

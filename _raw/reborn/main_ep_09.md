@@ -9,7 +9,7 @@ Exit the gym.
 
 Make your way out of Spinel Town, through the woods, and head back towards Tanzan Mountain. You'll finally be able to enter the Pokemart here! One person sells the now-updated default items, but there is another vendor.
 
-!shop("Default Mart (6-9 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poke Ball", "Great Ball"])
+!shop("Default Mart (6-9 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball", "Great Ball"])
 
 !shop("Chrysolia Pokemart Herbs", ["Herbal Extract", "Energy Powder", "Heal Powder"])
 

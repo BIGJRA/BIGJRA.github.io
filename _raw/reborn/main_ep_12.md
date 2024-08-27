@@ -72,7 +72,7 @@ Winning will reward you a *Plume Fossil*. Up from here are some tutors.
 
 Down from here there are more stores and such.
 
-!shop("Agate Circus Snax", ["PokeSnax", 650])
+!shop("Agate Circus Snax", [["PokéSnax", 650]])
 
 !shop("Agate Circus Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream", "Blue Moon Ice Cream"])
 
@@ -93,9 +93,9 @@ Next to this you'll find the High Striker. It costs $350 to play each time.
 |Money back           |22%    |
 |Nothing              |62%    |
 
-After you've gotten the grand prize, from then on it will be replaced with getting your money back and winning a *Poke Doll*. After getting Clefairy, you will win an actual *Poke Doll* from then on. There's a secret here too: if you do this with a pokemon with Huge Power, Guts, Pure Power, or Sheer Force at the front of your party, you will always get the jackpot!
+After you've gotten the grand prize, from then on it will be replaced with getting your money back and winning a *Poké Doll*. After getting Clefairy, you will win an actual *Poké Doll* from then on. There's a secret here too: if you do this with a pokemon with Huge Power, Guts, Pure Power, or Sheer Force at the front of your party, you will always get the jackpot!
 
-Once you get a Poke Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*.
+Once you get a Poké Doll, give it to a child below the healing component to get the *Big Top Arena Field Readout*.
 
 !shop("Agate Circus Power Items", ["Power Weight", "Power Bracer", "Power Belt", "Power Anklet", "Power Lens", "Power Band"])
 
@@ -132,7 +132,7 @@ Exit the Big Top. You'll notice another tutor on the left side of the circus.
 
 !tutor("Agate Circus Fake Samson Move Tutor", [["Dual Chop", "4 Blue Shards"], ["Thunder Punch", "5 Green Shards"], ["Fire Punch", "5 Purple Shards"], ["Ice Punch", "6 Red Shards"]])
 
-Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a Cotton Candy, then an Air Balloon, then a Poke Doll. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*.
+Make your way to the bottom left of the circus, grab the hidden *Fighting Gem*, and go in. Inside, a child will ask for a Cotton Candy, then an Air Balloon, then a Poké Doll. Once you give all the items to the kid their scheme will be revealed, and we will get *Department Store Sticker: Clefairy*.
 
 ## Clown Indra Fights
 
@@ -226,7 +226,7 @@ Pick up another hidden *Guard Spec.* Down the nearby stairs, you can walk throug
 
 To the right from here, go down and grab hidden *X Sp. Atk* and *Revive*. Can't go further, so head back up to the gate, then go down the stairs below.
 
-Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokeSnax*, and hop your way to the bottom right side of the area. Climb down the stairs on the rock.
+Grab a hidden *Ultra Ball* then hop across some rocks to the right to grab a *Exp. Candy XL*. Next, hop to the left from the cliff at the top, grab a hidden *PokéSnax*, and hop your way to the bottom right side of the area. Climb down the stairs on the rock.
 
 Snag the *Blue Shard* to the left, then get some sleep powder and talk to Crustle up and to the right. We'll need to move it down and right. Precisely:
 
@@ -293,7 +293,7 @@ Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Gra
 
 !enc(359, ["Grass", "Fishing"], ["Old", "Good"], "Celestinine Cascade East")
 
-In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokeSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
+In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokéSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 

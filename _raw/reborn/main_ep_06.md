@@ -104,7 +104,7 @@ As soon as you enter, go straight left and weave between the hills to get a *Wav
 
 You can also catch **Pyukumuku** chilling all around the beach.
 
-Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokeSnax*, *Common Candy*, *Full Heal*, *Blue Shard*.
+Hidden along this part of the beach you can find a *Green Shard*, 4 *Shoal Shells*, 2 *Red Shards*, *Hyper Potion*, 2 *Stardusts*, 2 *PokéSnax*, *Common Candy*, *Full Heal*, *Blue Shard*.
 
 Trainers on this part of the beach:
 
@@ -148,7 +148,7 @@ If it is storming, you can find a **Corsola** on the left side of the area who w
 
 The Apophyll Cave is up from here, but we will return in a bit. Head back to the Apophyll Academy. Now, we're going to head inside.
 
-!shop("Apophyll Academy", ["Super Potion", "Common Candy", "Antidote", "Awakening", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poke Ball"])
+!shop("Apophyll Academy", ["Super Potion", "Common Candy", "Antidote", "Awakening", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
 
 Head up to reach the middle part of the area.
 
