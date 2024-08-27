@@ -100,7 +100,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **battlebond**: Allows the player to get a Battle Bond Greninja after defeating Titania. 
 - **aiplay / battlepalace / nocontrol**: The game will control your Pokemon's actions using opponent AI.
 - **snagmachine / monosteal / yoink**: Allows the player to steal 1 Pokemon per opponent trainer (no PULSEs).
-- **speedskip**: TODO
+- **speedskip**: Speeds up certain battle messages.
 
 ### Field Effect Passwords
 
