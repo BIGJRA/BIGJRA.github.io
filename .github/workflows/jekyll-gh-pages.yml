@@ -44,12 +44,12 @@ jobs:
         run: |
           git clone https://x-access-token:${PRIVATE_REPO_PAT}@${PRIVATE_REPO_GIT_URL} ./_scripts
       
+      - name: List files in _scripts FOR DEBUGGING
+        run: ls -la _scripts
+
       - name: Run wt_generator.rb
         run: |
           ruby wt_generator.rb reborn ./_scripts src/reborn.md
-
-      - name: List files in _scripts FOR DEBUGGING
-        run: ls -la _scripts
 
       - name: List files in src
         run: ls -la src
