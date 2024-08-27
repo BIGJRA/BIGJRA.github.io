@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main", "experimental-code-rewrite"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -44,26 +44,26 @@ jobs:
         run: |
           git clone https://x-access-token:${PRIVATE_REPO_PAT}@${PRIVATE_REPO_GIT_URL} ./_scripts
       
-      - name: List files in _scripts FOR DEBUGGING
-        run: ls -la _scripts
+      # - name: List files in _scripts FOR DEBUGGING
+      #  run: ls -la _scripts
 
       - name: Run wt_generator.rb
         run: |
           ruby wt_generator.rb reborn ./_scripts src/reborn.md
 
-      - name: List files in src
-        run: ls -la src
+      #- name: List files in src
+      #  run: ls -la src
 
-      # - name: Setup Pages
-      #  uses: actions/configure-pages@v5
-      # - name: Build with Jekyll
-      #   if: success()  # Only run if all previous steps succeeded
-      #   uses: actions/jekyll-build-pages@v1
-      #   with:
-      #     source: ./src
-      #     destination: ./_site
-      # - name: Upload artifact
-      #   uses: actions/upload-pages-artifact@v3
+      - name: Setup Pages
+       uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        if: success()  # Only run if all previous steps succeeded
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./src
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
