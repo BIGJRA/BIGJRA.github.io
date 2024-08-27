@@ -957,19 +957,19 @@ Now we can start looking for Zygarde Cells!
 
 ZCell 001: East Gearen City
 
-<img src="/static/images/rejuv/image1.png"/>
+<img src="/assets/images/rejuv/image1.png"/>
 
 ZCell 002: Oceana Pier
 
-<img src="/static/images/rejuv/image2.png"/>
+<img src="/assets/images/rejuv/image2.png"/>
 
 ZCell 003: Chrisola Rooftop (Daytime Only)
 
-<img src="/static/images/rejuv/image3.png"/>
+<img src="/assets/images/rejuv/image3.png"/>
 
 ZCell 004: Gearen Alleyway (through Venam's secret tunnel)
 
-<img src="/static/images/rejuv/image4.png"/>
+<img src="/assets/images/rejuv/image4.png"/>
 
 ## Route 1 and Goldenwood Forest
 
@@ -997,7 +997,7 @@ You'll see a **Whismur** nearby. If you give it a GourmetTreat, it'll battle you
 
 ZCell 005: Route 1
 
-<img src="/static/images/rejuv/image5.png"/>
+<img src="/assets/images/rejuv/image5.png"/>
 
 Head north and enjoy a great cutscene montage with Melia. Once you regain control, interact with Drifblim.
 
@@ -1201,13 +1201,13 @@ To the right of Junction Bridge: the sewer stairs there will now be open. Here y
 
 ZCell 006: Gearen Sewers
 
-<img src="/static/images/rejuv/image6.png"/>
+<img src="/assets/images/rejuv/image6.png"/>
 
 Exit through the top. A dumpster on the right has a *Reverse Candy* within. At night, you can go into the alleyway area. The purple flower in the center has a *Super Potion,* in between the dumpster and table on the left is a *Red Shard* and two tiles right and two tiles down from there is a hidden *Telluric Seed*. The dumpster just before the stairs contains a *Green Shard,* and the tile between the two stacks of really tall grass hides a *Super Repel.*
 
 ZCell 007: Gearen Alleyway (Only accessible at night)
 
-<img src="/static/images/rejuv/image7.png"/>
+<img src="/assets/images/rejuv/image7.png"/>
 
 Go up and give one of the Munna a GourmetTreat to catch it if you want.
 
@@ -1290,7 +1290,7 @@ You can also find a *GourmetTreat* in the rightmost patch of grass up in the are
 
 ZCell 008: Route 2
 
-<img src="/static/images/rejuv/image8.png"/>
+<img src="/assets/images/rejuv/image8.png"/>
 
 Cross the bridge to the left, four tiles left of the bottom of the bridge is a hidden *Blue Shard*. Just up the stairs, two tiles left of the bottom red flowers is a hidden *Rose Incense.* In the upper corner three tiles right and two down from the guy there is a hidden *Friend Ball.* If you talk to the painter here, he'll wish to see Cherrim. We'll return to this quest later.
 
@@ -1558,7 +1558,7 @@ Go right for the orange book and up for the red book. Also:
 
 ZCell 009: Hidden Library
 
-<img src="/static/images/rejuv/image9.png"/>
+<img src="/assets/images/rejuv/image9.png"/>
 
 Go down. Pick up the lime book, and *TM63 Embargo.*
 
@@ -2356,7 +2356,7 @@ Check out the graveyard at the top:
 
 ZCell 010: Goldenleaf Town
 
-<img src="/static/images/rejuv/image10.png"/>
+<img src="/assets/images/rejuv/image10.png"/>
 
 The tall grass straight left from here contains a *Chesto Berry.*
 
@@ -2375,7 +2375,7 @@ Forgotten Path
 
 ZCell 011: Forgotten Path
 
-<img src="/static/images/rejuv/image11.png"/>
+<img src="/assets/images/rejuv/image11.png"/>
 
 The top tree in this set to the left of the cell has an *Ether* in its top right tile. Above from here the three out of four splotchy tiles right before the stairs contain *Burn Heal, Great Ball, Ghost Gem.*
 
@@ -2417,7 +2417,7 @@ Head into Wispy Park up the stairs at the bottom left. To the left of the tree i
 
 ZCell 012: Wispy Path
 
-<img src="/static/images/rejuv/image12.png"/>
+<img src="/assets/images/rejuv/image12.png"/>
 
 Talk to the guy up here, then to **Espurr**. It will let you do a variety of fun things with it; each increases your friendship with it. Choosing to give it ice cream, especially Blue Moon Ice Cream, raises it by a lot. Once you've gotten its friendship high enough and try to leave it will join your party. (+1 Karma)
 
@@ -2625,7 +2625,7 @@ If you haven't yet gotten Flash from the Casino, we'll need it for the next ques
 
 ZCell 013: Mirage Cave
 
-<img src="/static/images/rejuv/image13.png"/>
+<img src="/assets/images/rejuv/image13.png"/>
 
 Grab the cell and *TM66 Payback*.
 
@@ -2804,7 +2804,7 @@ Go up through the center and head left to grab the *Calcium.* Head up and chase 
 
 ZCell 014: Wispy Ruins
 
-<img src="/static/images/rejuv/image14.png"/>
+<img src="/assets/images/rejuv/image14.png"/>
 
 Head to the right. I recommend healing sometime soon, there'll be a few battles upcoming. Once you're done, return, then go up. Follow the path until you reach a larger room. Hop your way past all the rocks on the right, then you'll enter a double battle against some Wild Pokemon. This is an easy fight if you have strong and fast Pokemon.
 
@@ -3008,7 +3008,7 @@ Enter the house to the north of the trucker:
 
 ZCell 015: Akuwa Town
 
-<img src="/static/images/rejuv/image15.png"/>
+<img src="/assets/images/rejuv/image15.png"/>
 
 Talk to Aelita and then enter the Pokemon Center and go to the back to get a *Defibrillator,* then use it on the old guy. Head down to the beach area -- here you'll be able to fight wild **Corsola.** You'll also find *TM135 Brine.* Hidden on the beach is a *Soda Pop.*
 
@@ -3016,7 +3016,7 @@ Head up and up the ladder you'll see here and grab:
 
 ZCell 016: Akuwa Town (ignore the Ditto!)
 
-<img src="/static/images/rejuv/image16.png"/>
+<img src="/assets/images/rejuv/image16.png"/>
 
 At this point we will not be able to come back for a bit, so make sure you're ready with all the Pokemon you want to catch on this island for now, and every quest you wanted to finish.
 
@@ -3530,7 +3530,7 @@ Surf up to the top on the right side. Itemfind for a *Blue Shard.*
 
 ZCell 017: Terajuma Island
 
-<img src="/static/images/rejuv/image17.png"/>
+<img src="/assets/images/rejuv/image17.png"/>
 
 Surf up at the bridge, on the left of the fence. Itemfinder points us to a *Lemonade.* We can't do anything with the house, so head west one screen to Terajuma Pier.
 
@@ -3641,7 +3641,7 @@ Exit and go to the right. Go down, as we can explore this upper area. Itemfind f
 
 ZCell 018: Terajuma Jungle
 
-<img src="/static/images/rejuv/image18.png"/>
+<img src="/assets/images/rejuv/image18.png"/>
 
 On the right you'll find a *Brave Mint* as well as a hidden *Super Repel.*
 
@@ -3669,7 +3669,7 @@ Head left a map, then go down. After taking out another Vileplume with Spice Pow
 
 ZCell 019: Deep Terajuma Jungle
 
-<img src="/static/images/rejuv/image19.png"/>
+<img src="/assets/images/rejuv/image19.png"/>
 
 Head up then all the way left. On the bridge, a girl will get upset at you and request 20 Sitrus Berries. We will be able to buy them in a little bit. Make your way to the northwest side of this map, get the hidden *Bug Gem,* then go into the clearing.
 
@@ -3981,7 +3981,7 @@ After the battle, head up.
 
 ZCell 020: Valor Shore
 
-<img src="/static/images/rejuv/image20.png"/>
+<img src="/assets/images/rejuv/image20.png"/>
 
 Head up to Valor Mountain and watch the scene.
 
@@ -4432,13 +4432,13 @@ Goldenwood Forest/Cave
 
 ZCell 021: Goldenwood Forest
 
-<img src="/static/images/rejuv/image21.png"/>
+<img src="/assets/images/rejuv/image21.png"/>
 
 Head further up and enter the clearing here. Pick up *TM78 Bulldoze,* and grab:
 
 ZCell 022: Secret Shrine
 
-<img src="/static/images/rejuv/image22.png"/>
+<img src="/assets/images/rejuv/image22.png"/>
 
 Back outside, surf up for a hidden *Muscle Wing.*
 
@@ -4448,13 +4448,13 @@ Up at the top you'll find Dylan, who you can send to the Lost Camp! He's our sev
 
 ZCell 023: Goldenwood Cave
 
-<img src="/static/images/rejuv/image23.png"/>
+<img src="/assets/images/rejuv/image23.png"/>
 
 Exit to the Goldenwood Grove. Head to the right, then surf up.
 
 ZCell 024: Goldenwood Grove
 
-<img src="/static/images/rejuv/image24.png"/>
+<img src="/assets/images/rejuv/image24.png"/>
 
 Head to Wispy Path, then to Goldenleaf Town.
 
@@ -4528,7 +4528,7 @@ Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch
 
 ZCell 025: Moon Field
 
-<img src="/static/images/rejuv/image25.png"/>
+<img src="/assets/images/rejuv/image25.png"/>
 
 Now, we're going to start the Poliwag event - head back to Wispy Path and use the flute on the Poliwag \#1 there.
 
@@ -4554,7 +4554,7 @@ There's a cell at the arena area if we surf to the right, but only can be found 
 
 ZCell 026: Sheridan Arena
 
-<img src="/static/images/rejuv/image26.png"/>
+<img src="/assets/images/rejuv/image26.png"/>
 
 Head up to the daycare and surf to the west. Here's a **Treecko**! Surfing to the south you'll find a *Timid Mint* as well.
 
@@ -4577,7 +4577,7 @@ Enter the room shaped like an upside-down V. Around the room you'll find a hidde
 
 ZCell 027: Amethyst Cave
 
-<img src="/static/images/rejuv/image27.png"/>
+<img src="/assets/images/rejuv/image27.png"/>
 
 Head out to Route 2. There are now **Ambipom** instead of Aipom here. Surf north of Kecleon's shop at the top to grab *TM46 Thief.* Fitting.
 
@@ -4661,7 +4661,7 @@ On the island south of here, you'll find
 
 ZCell 028: Route 11
 
-<img src="/static/images/rejuv/image28.png"/>
+<img src="/assets/images/rejuv/image28.png"/>
 
 Anyways, grab the *Max Repel* and enter the cave on the east side here.
 
@@ -4715,7 +4715,7 @@ Use the fire move in battle, then surf across. Exit the southeast ladder to get:
 
 ZCell 029: Evergreen Island
 
-<img src="/static/images/rejuv/image29.png"/>
+<img src="/assets/images/rejuv/image29.png"/>
 
 Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. Beat the trainers then grab the *X Special.* Hidden is a *Zinc, Rare Candy,* and *Full Heal.* Hop into the hole all the way at the bottom. Grab the *DeepSeaScale* then head through the hole. We can't do anything in this area yet, but we will come back. Head back up the ladder twice. Jump down the leftmost hole to get *DeepSeaTooth.* In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
 
@@ -4798,7 +4798,7 @@ Enter Crawli's gym in the ranger HQ once you have prepped your team. Talk to Hol
 
 ZCell 030: Kakori Gym
 
-<img src="/static/images/rejuv/image30.png"/>
+<img src="/assets/images/rejuv/image30.png"/>
 
 -   Head back all the way down, and to the right. Climb the stairs by
     the teleporter
@@ -4822,7 +4822,7 @@ Talk to Aelita at the top, then head in. Flying around in here are wild **Yanma,
 
 ZCell 031: Kakori Depths
 
-<img src="/static/images/rejuv/image31.png"/>
+<img src="/assets/images/rejuv/image31.png"/>
 
 Anyways, if you head outside the gym, there's an Audino breeder by the Pokemon Center. You'll get 5 *Exp. Candy M* each time you win. Once you're ready, return to Crawli's chamber and stand across him!
 
@@ -4936,7 +4936,7 @@ Surf to the left to find:
 
 ZCell 032: Aquamarine Chamber
 
-<img src="/static/images/rejuv/image32.png"/>
+<img src="/assets/images/rejuv/image32.png"/>
 
 Head back out and to the left. Heal, then exit the cave for a double battle!
 
@@ -5004,11 +5004,11 @@ Go down towards the villa all the way in the southeast. Outside, then inside thi
 
 ZCell 033: Teila Resort
 
-<img src="/static/images/rejuv/image33.png"/>
+<img src="/assets/images/rejuv/image33.png"/>
 
 ZCell 034: Teila Resort
 
-<img src="/static/images/rejuv/image34.png"/>
+<img src="/assets/images/rejuv/image34.png"/>
 
 Head around the house to the left of this one to find an *Elixir.* The guy inside this house will offer to trade your extra Oranguru for a **Passimian!**
 
@@ -5049,7 +5049,7 @@ Head into the building with the gym sign at the top. Talk to Tesla and Melia for
 
 ZCell 035: Teila Resort
 
-<img src="/static/images/rejuv/image35.png"/>
+<img src="/assets/images/rejuv/image35.png"/>
 
 If you talk to the girl in the left side near Tesla, she'll offer your Pokemon massage packages. The cheapest is $1500, the next is $3500, and the last is $6500, which comes with *3 Fresh Waters* and 3 *Revives!* Each sequentially increases your Pokemon's happiness, though if you want to get it up quickly, I still recommend the friendship berries or Blue Moon Ice Creams.
 
@@ -5208,7 +5208,7 @@ Enter Wispy Tower, and talk to Sariah. She'll give us 3 *Ethers and* start us on
 
 Talk to this tablet and you'll be engaged with a puzzle. Here is the solution:
 
-<img src="/static/images/rejuv/image36.png"/>
+<img src="/assets/images/rejuv/image36.png"/>
 
 Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade. Poke Balls can be obtained in stores, we've found two Up-Grades so far
 (and potentially traded one away), and we were given a Magnet on Route 2 by showing a guy our Emolga.
@@ -5331,7 +5331,7 @@ Back inside the church, you'll find:
 
 ZCell 036: Church of Theolia
 
-<img src="/static/images/rejuv/image37.png"/>
+<img src="/assets/images/rejuv/image37.png"/>
 
 Outside, pick up *TM07 Hail.* On the beach below there is a hidden *Icicle Plate.*
 
@@ -5374,7 +5374,7 @@ Use your Itemfinder around the town to get *Blue Shard, Rare Candy, Soda Pop, Gr
 
 ZCell 037: Kristiline Town
 
-<img src="/static/images/rejuv/image38.png"/>
+<img src="/assets/images/rejuv/image38.png"/>
 
 Pick the *Occa Berry* in the northeast.
 
@@ -5382,7 +5382,7 @@ In the bottom left of town, you'll find:
 
 ZCell 038: Kristiline Town
 
-<img src="/static/images/rejuv/image39.png"/>
+<img src="/assets/images/rejuv/image39.png"/>
 
 Kristiline Ranger Center Shop
 
@@ -5551,7 +5551,7 @@ Exit, and head up. We can explore this new bit of Route 6 if we want. Here you'l
 
 ZCell 039: Route 6
 
-<img src="/static/images/rejuv/image40.png"/>
+<img src="/assets/images/rejuv/image40.png"/>
 
 Add something to your party with Headbutt, and return to the area above where we fought Valarie in Terajuma Jungle. Enter Jirukala Cavern here, and rock climb up.
 
@@ -5565,7 +5565,7 @@ Pick up:
 
 ZCell 040: Jirukala Cavern
 
-<img src="/static/images/rejuv/image41.png"/>
+<img src="/assets/images/rejuv/image41.png"/>
 
 Completing this quest also gives us access to some stationary water Pokemon for GourmetTreats - but only at night. Head to Terajuma Shore to get **Staryu,** to Route 6 to get **Clamperl,** and Route 5 to get **Slowpoke.**
 
@@ -5712,7 +5712,7 @@ Next, enter the room to the right of this one, and rock climb down next to the w
 
 ZCell 041: Amethyst Cave
 
-<img src="/static/images/rejuv/image42.png"/>
+<img src="/assets/images/rejuv/image42.png"/>
 
 Return to the entrance of the cave from Route 2. Take the stairs to the right, then head across the first bridge on top. Rock climb here, pick up the hidden *Zinc,* and head in.
 
@@ -5810,7 +5810,7 @@ At night, you'll find:
 
 ZCell 042: Cliffside Grave (Night ONLY)
 
-<img src="/static/images/rejuv/image43.png"/>
+<img src="/assets/images/rejuv/image43.png"/>
 
 Interact with the grave at the top and insert the Cursed Candle we got a while ago to obtain **Litwick!**
 
@@ -6082,7 +6082,7 @@ So now the routes essentially converge, so I will cover all the Pokemon and item
 
 ZCell 043: Chamber of Awakening
 
-<img src="/static/images/rejuv/image44.png"/>
+<img src="/assets/images/rejuv/image44.png"/>
 
 Return to the first floor. Each mood of the mountain has different encounters we can fight.
 
@@ -6132,7 +6132,7 @@ Head back down from here, and you'll find:
 
 ZCell 044: Valor Mountain (Normal)
 
-<img src="/static/images/rejuv/image45.png"/>
+<img src="/assets/images/rejuv/image45.png"/>
 
 You can also get **Heracross** if you go down and through the barricade.
 
@@ -6140,7 +6140,7 @@ Head all the way up from here, pick up the *Hyper Potion,* and go up the ladder.
 
 ZCell 045: Valor Mountain (Ice)
 
-<img src="/static/images/rejuv/image46.png"/>
+<img src="/assets/images/rejuv/image46.png"/>
 
 Make your way around and up. Activate the fire crystal at the top here.
 
@@ -6162,7 +6162,7 @@ By clicking each crystal in succession, make your way to the top of the room. Ba
 
 ZCell 046: Valor Mountain (Ice)
 
-<img src="/static/images/rejuv/image47.png"/>
+<img src="/assets/images/rejuv/image47.png"/>
 
 Fall down the hole again, then proceed all the way through the barricade and back up the mountain. This time, take the ladder at the top.
 
@@ -6207,7 +6207,7 @@ Time for another fight with Eli and Sharon. This is a 12v6 with the help of Vena
 
 ZCell 047: Valor Cliffside
 
-<img src="/static/images/rejuv/image48.png"/>
+<img src="/assets/images/rejuv/image48.png"/>
 
 Head down from here.
 
@@ -6227,13 +6227,13 @@ Activate the fire crystal here, then return to the main dungeon through the clif
 
 ZCell 048: Valor Mountain (Fire)
 
-<img src="/static/images/rejuv/image49.png"/>
+<img src="/assets/images/rejuv/image49.png"/>
 
 Head down and go to the left. Drift across then jump in the hole twice.
 
 ZCell 049: Valor Mountain (Fire)
 
-<img src="/static/images/rejuv/image50.png"/>
+<img src="/assets/images/rejuv/image50.png"/>
 
 Also, talk to Heatmor with a GourmetTreat for a chance to catch it.
 
@@ -6245,7 +6245,7 @@ Jump down the ledge, and head up the ladder here. On the right:
 
 ZCell 050: Valor Mountain (Normal)
 
-<img src="/static/images/rejuv/image51.png"/>
+<img src="/assets/images/rejuv/image51.png"/>
 
 Head back down the ladder, activate the ice crystal, then enter the teleporter at the bottom of this map.
 
@@ -6517,7 +6517,7 @@ Forest of Time
 
 ZCell 051: Forest of Time
 
-<img src="/static/images/rejuv/image52.png"/>
+<img src="/assets/images/rejuv/image52.png"/>
 
 In this lower area there is also a hidden *Calcium* and *Reverse Candy.*
 
@@ -6525,7 +6525,7 @@ Head up and surf to the left.
 
 ZCell 052: Forest of Time
 
-<img src="/static/images/rejuv/image53.png"/>
+<img src="/assets/images/rejuv/image53.png"/>
 
 Surf to the right, then rock climb down to get *TM40 Aerial Ace!*
 
@@ -6656,7 +6656,7 @@ Talk to Venam by Katsu's house, then return to the mansion. Beat the first maid,
 
 Talk to the portrait in this room to begin a puzzle.
 
-<img src="/static/images/rejuv/image54.png"/>
+<img src="/assets/images/rejuv/image54.png"/>
 
 This is what it should look like when completed. Enter the door downstairs and go down.
 
@@ -6760,7 +6760,7 @@ Once we regain control, head back down into the sewers, where we can now get:
 
 ZCell 053: Distorted Path
 
-<img src="/static/images/rejuv/image55.png"/>
+<img src="/assets/images/rejuv/image55.png"/>
 
 ## West Gearen City
 
@@ -6789,7 +6789,7 @@ To the west, though it is super tricky to spot, grab:
 
 ZCell 054: West Gearen City
 
-<img src="/static/images/rejuv/image56.png"/>
+<img src="/assets/images/rejuv/image56.png"/>
 
 Use your Itemfinder south of the pool to find a *Rose Incense.*
 
@@ -6813,7 +6813,7 @@ There's a woman selling *Blast Powder* for $25000. It's pretty expensive and unn
 
 ZCell 055: West Gearen City
 
-<img src="/static/images/rejuv/image57.png"/>
+<img src="/assets/images/rejuv/image57.png"/>
 
 Use your Itemfinder all around the city. You'll find a *Telluric Seed, Yellow Shard, Max Repel, Dusk Stone, Float Stone, Green Shard, Zinc, Muscle Wing, Max Repel, Red Shard, GourmetTreat.*
 
@@ -6839,7 +6839,7 @@ Head outside and enter the Junction Bridge from the left.
 
 ZCell 056: Junction Bridge
 
-<img src="/static/images/rejuv/image58.png"/>
+<img src="/assets/images/rejuv/image58.png"/>
 
 Speaking of Zygarde Cells, exit Junction Bridge to the right and go talk to Ayuda, who'll give us the *Macho Brace* for finding at least 45. Our next mission is for 70.
 
@@ -7076,7 +7076,7 @@ If you head to Theolia and enter the church, the rift will be gone, meaning you 
 
 ZCell 057: Church of Theolia
 
-<img src="/static/images/rejuv/image59.png"/>
+<img src="/assets/images/rejuv/image59.png"/>
 
 We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. We won't be able to buy with AP until we get the HM for Strength, so get the Golden Gauntlets and any other of the AP items you haven't yet if you'd like. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
 
@@ -7164,7 +7164,7 @@ Head one screen up. Cut trees to get *TM107 Slash and Burn.*
 
 ZCell 058: Route 7
 
-<img src="/static/images/rejuv/image60.png"/>
+<img src="/assets/images/rejuv/image60.png"/>
 
 Hidden on this map outside the fence boundary is a *Yellow Shard, Max Repel, Green Shard, Blue Shard, Pecha Berry, Red Shard, Ultra Potion,* and *Elemental Seed.*
 
@@ -7174,7 +7174,7 @@ Next, head a bit south to enter Yui's Ranch. Pick up the hidden *Moomoo Milk* an
 
 ZCell 059: Yui's Ranch
 
-<img src="/static/images/rejuv/image61.png"/>
+<img src="/assets/images/rejuv/image61.png"/>
 
 Head to the back of the ranch. On the right side, pick up the hidden *Fire Gem,* then enter the upper right barn. Hidden inside are *Moomoo Milk, Oran Berry, Sitrus Berry,* and *Stable Mulch.*
 
@@ -7226,7 +7226,7 @@ Next, reenter the woods and exit out the south to enter a new map of Route 7.
 
 ZCell 060: Route 7
 
-<img src="/static/images/rejuv/image62.png"/>
+<img src="/assets/images/rejuv/image62.png"/>
 
 Pick the 3 *Persim Berries* here. Enter the house here.
 
@@ -7285,7 +7285,7 @@ Take the top exit north. Hidden here is another 2 *Tiny Mushrooms,* an *Ether, D
 
 ZCell 061: Darchlight Woods
 
-<img src="/static/images/rejuv/image63.png"/>
+<img src="/assets/images/rejuv/image63.png"/>
 
 Next, head through the west door in the entrance map to access Sensu Meadow.
 
@@ -7425,7 +7425,7 @@ Cross the bridge to the right, and head up. Interact with the gem on the wall up
 
 ZCell 062: Darchlight Caves
 
-<img src="/static/images/rejuv/image64.png"/>
+<img src="/assets/images/rejuv/image64.png"/>
 
 Head right and cross the new bridge. Up is a hidden *Hyper Potion.* Head all the way south, picking up the hidden *Ether* as you go, and then activate the crystal. Pick up the hidden *Revive* and *Full Heal,* then head back up and left. Up at the top, there is a hidden *Carbos,* to the left a hidden *Reverse Candy* and *Ghost Gem.* On the left is a *Dark Material* as well as *TM115 Mega Punch.*
 
@@ -7443,7 +7443,7 @@ Two more things to do - the Sensu Meadow is now opened. Grab *TM114 Leech Life*,
 
 ZCell 063: Sensu Meadow
 
-<img src="/static/images/rejuv/image65.png"/>
+<img src="/assets/images/rejuv/image65.png"/>
 
 Make your way to the hole towards the top of the meadow, then fall. In the cave, grab *TM97 Dark Pulse* and hidden *Ice Gem* and *Magical Seed,* then exit by getting lulled to sleep in the bottom right corner of the mushroom.
 
@@ -7570,7 +7570,7 @@ Head out into the station. After a chat, reenter the train station to pick up a 
 
 ZCell 064: Dream District
 
-<img src="/static/images/rejuv/image66.png"/>
+<img src="/assets/images/rejuv/image66.png"/>
 
 Cross the bridge. You'll observe that you can take the train between areas for $1950. Since GDC is so large, I recommend at least exploring all the connections by foot (or bike) before you start fast hopping, at least to learn.
 
@@ -7598,13 +7598,13 @@ Enter the botanical garden to the north. Hidden throughout is a *Blue Shard, Rev
 
 ZCell 065: Botanical Garden
 
-<img src="/static/images/rejuv/image67.png"/>
+<img src="/assets/images/rejuv/image67.png"/>
 
 Exit the garden and enter the day care. Give the girl in here $3400 and you'll get a *Rare Candy.* The day care here is a good choice for breeding: Main Street is a bit longer than any line in Sheridan Village. Head into the elevator here, and head to the 14th floor to get:
 
 ZCell 066: Dream District
 
-<img src="/static/images/rejuv/image68.png"/>
+<img src="/assets/images/rejuv/image68.png"/>
 
 Outside, a ranger gives a *Leppa Berry* when they lose.
 
@@ -7620,7 +7620,7 @@ Next, exit to the Grand Dream Gate area to the south. Enter the train track gap 
 
 ZCell 067: Grand Dream Gate
 
-<img src="/static/images/rejuv/image69.png"/>
+<img src="/assets/images/rejuv/image69.png"/>
 
 Also be sure to pick up *TM19 Secret Power* here. Someone fixed the bridge to the south if we need to return to Route 7.
 
@@ -7634,7 +7634,7 @@ Immediately head up as you enter to grab:
 
 ZCell 068: Dream District
 
-<img src="/static/images/rejuv/image70.png"/>
+<img src="/assets/images/rejuv/image70.png"/>
 
 Head to the west and follow the tree line to nab a *Rare Candy.* Hidden on this map, you'll find *Green Shard,* 2 *Blue Shards, Health Wing, Iron, Max Repel, Ether, Red Shard.*
 
@@ -7666,7 +7666,7 @@ Head all the way to the top for a *Max Repel* and a *Green Shard.* A ranger will
 
 ZCell 069: Central Square
 
-<img src="/static/images/rejuv/image71.png"/>
+<img src="/assets/images/rejuv/image71.png"/>
 
 Hidden on the map is *Ether,* 3 *Health Wings, Resist Wing,* 2 *Muscle Wings.*
 
@@ -7689,7 +7689,7 @@ Head all the way to the bottom right corner to find:
 
 ZCell 070: Shopping District
 
-<img src="/static/images/rejuv/image72.png"/>
+<img src="/assets/images/rejuv/image72.png"/>
 
 The bottom row here contains a Hidden Power checker as well as a move relearner! Talk to the little girl here who dropped her Casteliacone. If you want to be mean, pick it up: it's hidden right under her, and give it back. If you want to be nice, change the weather to Snow or Blizzard, then buy one from the vendor and give it to her.
 
@@ -7740,7 +7740,7 @@ We'll get to that in a second, but for now, re-enter the Dream Complex and talk 
 
 ZCell 071: Dream Complex
 
-<img src="/static/images/rejuv/image73.png"/>
+<img src="/assets/images/rejuv/image73.png"/>
 
 Talk to Rhodea in the living room, then attempt to leave. When you're ready, head to the north into Dream District Northwest.
 
@@ -7835,7 +7835,7 @@ Enter the room up the stairs to the right. After an apparition, make your way to
 
 ZCell 072: Darchlight Manor
 
-<img src="/static/images/rejuv/image74.png"/>
+<img src="/assets/images/rejuv/image74.png"/>
 
 Grab the *Old Gateau* and read the notebook. Exit the room.
 
@@ -7859,7 +7859,7 @@ Darchlight Manor (Outside)
 
 ZCell 073: Darchlight Manor
 
-<img src="/static/images/rejuv/image75.png"/>
+<img src="/assets/images/rejuv/image75.png"/>
 
 Hidden out here are 3 *Tiny Mushrooms.*
 
@@ -8104,7 +8104,7 @@ At the top, you'll find:
 
 ZCell 074: Route 9
 
-<img src="/static/images/rejuv/image76.png"/>
+<img src="/assets/images/rejuv/image76.png"/>
 
 Head down to the bottom part of the route. Here, you'll encounter wild Sandygast.
 
@@ -8114,7 +8114,7 @@ Surf up and around to the right here. At the top, you'll find:
 
 ZCell 075: Route 9
 
-<img src="/static/images/rejuv/image77.png"/>
+<img src="/assets/images/rejuv/image77.png"/>
 
 Back on the main part of the route, enter the first cave entrance on the right.
 
@@ -8141,7 +8141,7 @@ Pick up a hidden *Yellow Shard,* then head into the room at the top with the cry
 
 ZCell 076: Forlorned Cavern
 
-<img src="/static/images/rejuv/image78.png"/>
+<img src="/assets/images/rejuv/image78.png"/>
 
 That's all we can do in this section of the cave, so head back out and go to the left, where the hiker is, and enter this cavern. At the top, use rock climb to grab an *Ability Capsule.* There's also a *Dusk Stone* hidden behind the rock smash path at the bottom. Pick up the hidden *Mineral Ball* and *Ether* as you go to the right.
 
@@ -8151,7 +8151,7 @@ That's all the exploring we can do for now, so head towards the northwest portio
 
 ZCell 077: Route 9
 
-<img src="/static/images/rejuv/image79.png"/>
+<img src="/assets/images/rejuv/image79.png"/>
 
 Enter the theater.
 
@@ -8168,7 +8168,7 @@ While you're in this room, head to the southeast to grab:
 
 ZCell 078: Rose Theater
 
-<img src="/static/images/rejuv/image80.png"/>
+<img src="/assets/images/rejuv/image80.png"/>
 
 Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade.* There is also a hidden *Fresh Water* nearby. Exit the southeasternmost door to grab a *Flying Memory.* If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
 
@@ -8184,7 +8184,7 @@ From the east side of Dream District East, we can access the Judicial District. 
 
 ZCell 079: Judicial District
 
-<img src="/static/images/rejuv/image81.png"/>
+<img src="/assets/images/rejuv/image81.png"/>
 
 Also, use your Itemfinder here for a *Link Heart.*
 
@@ -8295,7 +8295,7 @@ Note that the first time you get the Poke Doll prize, it will actually be a **St
 
 So, grab what you need from here. Talk to the guy on the left and give him a Blue Shard in exchange for a puzzle! Here is the solution:
 
-<img src="/static/images/rejuv/image82.png"/>
+<img src="/assets/images/rejuv/image82.png"/>
 
 [This link](https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/) may be helpful for solving this type of puzzle.
 
@@ -8855,7 +8855,7 @@ Head east and talk to the psychologist here. Head south. Grab:
 
 ZCell 080: The Underground
 
-<img src="/static/images/rejuv/image83.png"/>
+<img src="/assets/images/rejuv/image83.png"/>
     Enter this shop here and talk to the owner. Buy something if you'd like.
 
 The Underground Shop (Inside)
@@ -8902,7 +8902,7 @@ Directly east, you'll find:
 
 ZCell 081: The Underground
 
-<img src="/static/images/rejuv/image84.png"/>
+<img src="/assets/images/rejuv/image84.png"/>
 
 Talk to Dylan again, then head to the east. Go up until a scene plays out. Head to the bottom of this area then east to the docks,  and grab the *Toxic Orb.*
 
@@ -9134,11 +9134,11 @@ Head west and south to get to the National Park. Back-to-back, you'll find:
 
 ZCell 082: National Park
 
-<img src="/static/images/rejuv/image85.png"/>
+<img src="/assets/images/rejuv/image85.png"/>
 
 ZCell 083: National Park
 
-<img src="/static/images/rejuv/image86.png"/>
+<img src="/assets/images/rejuv/image86.png"/>
 
 Hidden around the park is 2 *Revives, Liechi Berry, Lum Berry, Pecha Berry,* and a *Sitrus Berry.*
 
@@ -9208,7 +9208,7 @@ On B3F, rock climb up here, and you'll find:
 
 ZCell 084: Voidal Chasm
 
-<img src="/static/images/rejuv/image87.png"/>
+<img src="/assets/images/rejuv/image87.png"/>
 
 Rock climb up again, and head left and down. Use your Itemfinder for a *Dusk Stone*. Head through the door at the top, then exit out the door to your right. Rock climb to get *TM148 Phantom Force.* Exit back out via Rock Climb and go to B2F.
 
@@ -9216,7 +9216,7 @@ Head straight east then north to grab an *Odd Keystone*, then south and east for
 
 ZCell 085: Voidal Chasm
 
-<img src="/static/images/rejuv/image88.png"/>
+<img src="/assets/images/rejuv/image88.png"/>
 
 There is also a hidden *Ability Capsule* up here. Back down from here, while exploring the main part of this room, you'll find a *Razor Claw, Odd Keystone,* and a *White Herb* as well as hidden 5 *Ethers,* and *PP Up.*
 
@@ -9287,7 +9287,7 @@ Turn around and head up the second (from the west) rock climb to explore the nor
 
 ZCell 086: Zorrialyn Desert
 
-<img src="/static/images/rejuv/image89.png"/>
+<img src="/assets/images/rejuv/image89.png"/>
 
 Hidden in this area you'll find *Petaya Berry, Occa Berry,* and *Haban Berry.*
 
@@ -9297,7 +9297,7 @@ As you go east, there is a hidden *Ether* and *Green Shard.* Down from here:
 
 ZCell 087: Zorrialyn Desert (Night Only)
 
-<img src="/static/images/rejuv/image90.png"/>
+<img src="/assets/images/rejuv/image90.png"/>
 
 Head across the bridge and grab the *Hyper Potion*. There is also a hidden *Green Shard.*
 
@@ -9305,7 +9305,7 @@ This one's a bit hard to spot:
 
 ZCell 088: Zorrialyn Desert (Night Only)
 
-<img src="/static/images/rejuv/image91.png"/>
+<img src="/assets/images/rejuv/image91.png"/>
 
 Grab the hidden *Big Root, Ether, Lemonade, Reverse Candy,* as you head east.
 
@@ -9313,7 +9313,7 @@ Heading east will lead us to another rock climb. Head all the way up and then ri
 
 ZCell 089: Zorrialyn Desert
 
-<img src="/static/images/rejuv/image92.png"/>
+<img src="/assets/images/rejuv/image92.png"/>
 
 Head back down then go east, and we'll have completed the loop. Next, we're gonna check out the map in the very southeast of the desert.
 
@@ -9347,7 +9347,7 @@ Head down, then grab the *Escape Rope.* Go up to the top of this area, where the
 
 ZCell 090: Zorrialyn Coast
 
-<img src="/static/images/rejuv/image93.png"/>
+<img src="/assets/images/rejuv/image93.png"/>
 
 Hidden around this map you'll find 2 *Dusk Balls, Rock Gem, Red Shard, Ground Gem, Poke Doll, Heart Scale, Elixir,* and *Water Gem.* Don't head to the east, again, you'll lose money. We will cover the cave accessible to the south and the nearby house later on.
 
@@ -9381,7 +9381,7 @@ Head all the way to the top. We can surf here. Do so on the left side, and you'l
 
 ZCell 091: Sashila Village
 
-<img src="/static/images/rejuv/image94.png"/>
+<img src="/assets/images/rejuv/image94.png"/>
 
 Enter the building here and talk to a guy inside for a *House Key.* Back outside, there are tons of hidden items all around this map:
 
@@ -9749,7 +9749,7 @@ Rock smash your way in, then, pick up a hidden on the left side of the second bu
 
 ZCell 092: Ruined City
 
-<img src="/static/images/rejuv/image95.png"/>
+<img src="/assets/images/rejuv/image95.png"/>
 
 Exit, grab a hidden *Sun Stone* and *Super Repel* in the middle of the area, then sneak around the back to find hidden *Yellow Shard* and *Red Shard*. Then, enter the leftmost house. In the left door, grab *Relic Copper.* In the right door, grab *Rare Candy.*
 
@@ -9759,7 +9759,7 @@ There's nothing in the right house, so head to the center of the city and go dow
 
 ZCell 093: Ruined City
 
-<img src="/static/images/rejuv/image96.png"/>
+<img src="/assets/images/rejuv/image96.png"/>
 
 Prepare yourself and enter the southwest house. Beat the first set of grunts, then head out to heal. The next one is tough. Beat the grunts in their 8v6 double battle. Make your choice with Damien.
 
@@ -10248,13 +10248,13 @@ You'll also find:
 
 ZCell 094: Route 2 (Altered)
 
-<img src="/static/images/rejuv/image97.png"/>
+<img src="/assets/images/rejuv/image97.png"/>
 
 Return to the past again and give the guy on Route 2 some research notes so he'll finally move out of the way. At night only, you can get:
 
 ZCell 095: Route 2
 
-<img src="/static/images/rejuv/image98.png"/>
+<img src="/assets/images/rejuv/image98.png"/>
 
 Also, you can catch **Whimsicott** here (ignore the Flabebe from an earlier patch).
 
@@ -10521,7 +10521,7 @@ Route 10
 
 You can also catch the overhead **Wingull** and **Pelipper!**
 
-<img src="/static/images/rejuv/image99.png"/>
+<img src="/assets/images/rejuv/image99.png"/>
 
 That's all we can do right now, so head back to the GDC Tournament Stadium and board the ship.
 
@@ -10603,7 +10603,7 @@ First, head down and to the left.
 
 ZCell 096: Zone Zero Outskirts
 
-<img src="/static/images/rejuv/image100.png"/>
+<img src="/assets/images/rejuv/image100.png"/>
 
 Enter the zone to the north. There are some Xen Grunts selling stuff here.
 
@@ -10630,7 +10630,7 @@ Enter the building and go down to the basement. You can hop across any single-sp
 
 ZCell 097: Abandoned Apartments
 
-<img src="/static/images/rejuv/image101.png"/>
+<img src="/assets/images/rejuv/image101.png"/>
 
 After the short dialogue scene, enter the second door upstairs. Smash the rock and use the blast powder to talk to Aelita. As her, jump the two gaps and talk to the glowing spot to get a key. As the player again, head right and up to enter the door furthest right. Beat the goons and enter the first door upstairs.
 
@@ -10673,7 +10673,7 @@ Head down to the bottom to find:
 
 ZCell 098: Zone Zero
 
-<img src="/static/images/rejuv/image102.png"/>
+<img src="/assets/images/rejuv/image102.png"/>
 
 Head up and to the right. In the bottom corner of this area, grab *TM93 Wild Charge.* At the Lux Apartments, head up and right to grab a *Rare Candy* and hidden *Revive.* Then, head straight down past a line of grass to grab the *Zone Zero Key*. This lets us get to Alamissa from here, and vice versa.
 
@@ -10769,7 +10769,7 @@ After a scene, go left:
 
 ZCell 099: Zone Zero
 
-<img src="/static/images/rejuv/image103.png"/>
+<img src="/assets/images/rejuv/image103.png"/>
 
 Also grab the *Fire Stone* above. When you're ready, enter the stairs to the right. Grab the info on *Pulse: Garna...* heal and get ready for action.
 
@@ -10789,7 +10789,7 @@ You can literally loot a knocked out Bladestar grunt for an *Ability Capsule!* A
 
 ZCell 100: Zone Zero
 
-<img src="/static/images/rejuv/image104.png"/>
+<img src="/assets/images/rejuv/image104.png"/>
 
 Head up and to the left for one more cutscene.
 
@@ -10805,7 +10805,7 @@ After the scene, enter the pyramid above. You'll watch another, then on the left
 
 ZCell 101: Eclysia Pyramid
 
-<img src="/static/images/rejuv/image105.png"/>
+<img src="/assets/images/rejuv/image105.png"/>
 
 Enter the spring at the top and watch the scenes play out. Next, we're going to begin the crawl to the top, so enter the room at the right side of the lobby and head up.
 
@@ -10862,7 +10862,7 @@ After... that, head up and follow the path. In general, the next few rooms are s
 
 ZCell 102: Eclysia Pyramid
 
-<img src="/static/images/rejuv/image106.png"/>
+<img src="/assets/images/rejuv/image106.png"/>
 
 Emerge at the Eclysia Skyview!
 
@@ -10965,7 +10965,7 @@ Head into the Apartment Depths where we were ambushed by Bladestar. Down here, y
 
 ZCell 103: Apartment Depths
 
-<img src="/static/images/rejuv/image107.png"/>
+<img src="/assets/images/rejuv/image107.png"/>
 
 Head up after grabbing this cell to get an *Ability Capsule!* Then, head left and follow the path all the way to the left to grab the shiny Lux Apartment keys.
 
@@ -11033,7 +11033,7 @@ Once you enter, we're going to be doing a puzzle like RSE's Abandoned Ship backr
 
 ZCell 104: Lux Apartments
 
-<img src="/static/images/rejuv/image108.png"/>
+<img src="/assets/images/rejuv/image108.png"/>
 -   Reenter 2C, then go out the 2B door. Use the key on 1C in the bottom
     right door, then enter the ladder. Click the lever in this area and
     pick up *Rocky Helmet.*
@@ -11042,7 +11042,7 @@ Now if you head up in Zone Zero to the next map, you'll find that a gate has ope
 
 ZCell 105: Zone Zero Gible Cage
 
-<img src="/static/images/rejuv/image109.png"/>
+<img src="/assets/images/rejuv/image109.png"/>
 
 ## Do the Dive (Floria)
 
@@ -12045,7 +12045,7 @@ Fly to Sashila and make your way to the end of Sand Stream Cave the same way as 
 
 ZCore 1: Sand Stream Cave
 
-<img src="/static/images/rejuv/image110.png"/>
+<img src="/assets/images/rejuv/image110.png"/>
 
 Fly back to Gearen and talk to Ayuda to get **Zygarde 10%!** It's not even particularly better than the Gible we got earlier, but hey another legendary!
 
@@ -12437,7 +12437,7 @@ A little note here: it turns out that as soon as you get the Zygarde 10% from Ay
 
 ZCell 106: Axis High University
 
-<img src="/static/images/rejuv/image111.png"/>
+<img src="/assets/images/rejuv/image111.png"/>
 
 Then, head upstairs in the middle, and talk to Huey.
 
@@ -12453,7 +12453,7 @@ In another room on this floor you'll find:
 
 ZCell 107: Axis High University
 
-<img src="/static/images/rejuv/image112.png"/>
+<img src="/assets/images/rejuv/image112.png"/>
 
 Head back downstairs, where you'll find Amber! You'll be given *Concert Tickets* and *Amber's Letter!* Talk to Saki in the cafeteria to the right. Then, find Aelita upstairs.
 
@@ -13191,7 +13191,7 @@ Accept the fast travel to Axis. Head through the path then go back to the left. 
 
 ZCell 108: Hidden Axis Lab
 
-<img src="/static/images/rejuv/image113.png"/>
+<img src="/assets/images/rejuv/image113.png"/>
 
 Follow the path up. After this scene is over, head back out and down to Saki's gym!
 
@@ -13828,143 +13828,143 @@ At the moment, none of the following legendaries are available either:
 <tbody>
 <tr class="odd">
 <td>1-10</td>
-<td><img src="/static/images/rejuv/image114.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image115.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image124.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image114.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image115.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image124.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="even">
 <td>11-20</td>
-<td><img src="/static/images/rejuv/image115.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image124.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image115.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image124.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="odd">
 <td>21-30</td>
-<td><img src="/static/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image116.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image123.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="even">
 <td>31-40</td>
-<td><img src="/static/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image117.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="odd">
 <td>41-50</td>
-<td><img src="/static/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image118.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="even">
 <td>51-60</td>
-<td><img src="/static/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image119.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image127.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="odd">
 <td>61-70</td>
-<td><img src="/static/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image120.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image129.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="even">
 <td>71-80</td>
-<td><img src="/static/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image121.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="odd">
 <td>81-90</td>
-<td><img src="/static/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image135.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image122.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image135.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 <tr class="even">
 <td>91+</td>
-<td><img src="/static/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image136.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image135.png" style="width:0.35in;height:0.35in" /></td>
-<td><img src="/static/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image125.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image126.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image128.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image130.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image132.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image131.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image133.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image136.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image135.png" style="width:0.35in;height:0.35in" /></td>
+<td><img src="/assets/images/rejuv/image134.png" style="width:0.35in;height:0.35in" /></td>
 </tr>
 </tbody>
 </table>

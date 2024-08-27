@@ -8,6 +8,7 @@ def generate_md_text(game = 'reborn')
     <<~PRE_CONTENTS
       ---
       title: Pokemon #{game.capitalize} Walkthrough
+      permalink: /#{game}/
       ---
 
       <p id="title-text">Pokemon #{game.capitalize} Walkthrough </p>

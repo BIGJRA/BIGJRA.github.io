@@ -60,7 +60,7 @@ class FunctionWrapper
   end
 
   def generate_image_markdown(filename)
-    "<img class=\"tabImage\" src=\"/static/images/#{@game}/#{filename}\"/>"
+    "<img class=\"tabImage\" src=\"/assets/images/#{@game}/#{filename}\"/>"
   end
 
   def generate_mining_markdown

@@ -119,7 +119,7 @@ class EncounterGetter
         types.each do |type|
           th = doc.create_element('th', class: 'table_header', style: 'text-align: center')
           image = doc.create_element('img', class: 'encounter_image', alt: TYPE_IMGS[type])
-          image['src'] = "/static/images/#{TYPE_IMGS[type]}.png"
+          image['src'] = "/assets/images/#{TYPE_IMGS[type]}.png"
           th.add_child(image)
           thead_row_extended.add_child(th)
         end

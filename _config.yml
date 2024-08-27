@@ -27,6 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+source: src
+destination: ../_site
+
 github:
   is_project_page: true
 

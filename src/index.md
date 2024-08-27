@@ -15,7 +15,7 @@ I'm BIGJRA - a Software Engineer and passionate fan of game completion! The walk
   </div>
   <div class="portfolio-item-link">
     <a class="portfolio-item-image" href="/reborn">
-      <img alt="Pokemon Reborn Walkthrough" src="/static/images/reborn_title.jpg" />
+      <img alt="Pokemon Reborn Walkthrough" src="/assets/images/reborn_title.jpg" />
     </a>
   </div>
 </div>
@@ -25,7 +25,7 @@ I'm BIGJRA - a Software Engineer and passionate fan of game completion! The walk
 <div class="portfolio-item-container">
   <div class="portfolio-item-link">
     <a class="portfolio-item-image" href="/rejuv">
-      <img alt="Pokemon Rejuvenation Walkthrough" src="/static/images/rejuv_title.jpg" />
+      <img alt="Pokemon Rejuvenation Walkthrough" src="/assets/images/rejuv_title.jpg" />
     </a>
   </div>
   <div class="portfolio-item-desc">
