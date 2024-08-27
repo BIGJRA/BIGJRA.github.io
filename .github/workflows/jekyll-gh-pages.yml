@@ -51,6 +51,9 @@ jobs:
         run: |
           ruby wt_generator.rb reborn ./_scripts src/reborn.md
 
+      - name: Copy _config.yml into src
+        run: cp ./_config.yml ./src/_config.yml
+
       #- name: List files in src
       #  run: ls -la src
 
