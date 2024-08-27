@@ -41,7 +41,7 @@ jobs:
         env:
           PRIVATE_REPO_PAT: ${{ secrets.PRIVATE_REPO_PAT }}
         run: |
-          git clone https://x-access-token:${PRIVATE_REPO_PAT}@github.com/your-username/AmethystBlack/fucko-pancake.git private-repo
+          git clone https://x-access-token:${PRIVATE_REPO_PAT}@{PRIVATE_REPO_GIT_URL} private-repo
           cp private-repo/* ./_scripts
       
       - name: Run wt_generator.rb
