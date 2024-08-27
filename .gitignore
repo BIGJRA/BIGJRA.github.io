@@ -8,3 +8,4 @@ _site
 vendor
 dummy*
 _*.md
+src/reborn.md
