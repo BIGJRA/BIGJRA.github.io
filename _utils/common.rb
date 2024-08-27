@@ -313,7 +313,7 @@ REBORN_BT_DOUBLES = [
 ]
 
 def get_game_contents_dir(game)
-  File.join(ROOT_DIR, '_raw', game)
+  File.join(ROOT_DIR, 'src', '_raw', game)
 end
 
 def load_chapter_md(game, type, chapter_num)
