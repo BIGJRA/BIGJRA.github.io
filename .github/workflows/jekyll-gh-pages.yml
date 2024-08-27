@@ -40,6 +40,7 @@ jobs:
       - name: Checkout private repository with scripts
         env:
           PRIVATE_REPO_PAT: ${{ secrets.PRIVATE_REPO_PAT }}
+          PRIVATE_REPO_GIT_URL: ${{ secrets.PRIVATE_REPO_GIT_URL }}
         run: |
           git clone https://x-access-token:${PRIVATE_REPO_PAT}@${PRIVATE_REPO_GIT_URL} private-repo
           cp private-repo/* ./_scripts
