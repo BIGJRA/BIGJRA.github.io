@@ -339,17 +339,17 @@ def set_to_range_string(integers_set)
 end
 
 def load_item_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'itemtext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'itemtext.rb'))
   eval(data)
 end
 
 def load_enc_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'enctext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'enctext.rb'))
   eval(data)
 end
 
 def load_trainer_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'trainertext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'trainertext.rb'))
   base_hash = eval(data)
   ret = {}
   base_hash.each do |trainer_hash|
@@ -359,38 +359,38 @@ def load_trainer_hash(game, scripts_dir)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'ttypetext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'ttypetext.rb'))
   eval(data)
 end
 
 def load_type_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'typetext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'typetext.rb'))
   eval(data)
 end
 
 def load_ability_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'abiltext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'abiltext.rb'))
   eval(data)
 end
 
 def load_move_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'movetext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'movetext.rb'))
   eval(data)
 end
 
 def load_pokemon_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'montext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'montext.rb'))
   eval(data)
 end
 
 def load_field_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game, 'fieldtext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'fieldtext.rb'))
   eval(data)
 end
 
 def load_mining_hash(game = nil, scripts_dir)
   lines = if game && game.capitalize == 'Rejuv'
-            File.read(File.join(scripts_dir, game, 'RejuvCustomScripts.rb'))
+            File.read(File.join(scripts_dir, game.capitalize, 'RejuvCustomScripts.rb'))
           else
             File.read(File.join(scripts_dir, 'MinigameMining.rb'))
           end
@@ -418,7 +418,7 @@ end
 
 def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(File.join(scripts_dir, game, 'metatext.rb'))
+  data = File.read(File.join(scripts_dir, game.capitalize, 'metatext.rb'))
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -481,7 +481,7 @@ class EncounterMapWrapper
   private
 
   def parse_file(game, scripts_dir)
-    file_contents = File.read(File.join(scripts_dir, game, 'SystemConstants.rb'))
+    file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
     relevant_contents = file_contents.scan(/# Evos first(.*?)# \* Constants for maps to reflect sprites on/m)
 
     relevant_contents[0][0].scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/) do |pokemon_name, pokemon_numbers|
