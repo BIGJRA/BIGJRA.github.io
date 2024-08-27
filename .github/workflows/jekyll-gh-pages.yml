@@ -55,7 +55,7 @@ jobs:
       #  run: ls -la src
 
       - name: Setup Pages
-       uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v5
       - name: Build with Jekyll
         if: success()  # Only run if all previous steps succeeded
         uses: actions/jekyll-build-pages@v1
