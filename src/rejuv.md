@@ -1,6 +1,7 @@
 ---
 title: |
   Pokemon Rejuvenation Walkthrough
+permalink: /rejuv/
 ---
 <p id="title-text">Pokemon Rejuvenation Walkthrough </p>
 
