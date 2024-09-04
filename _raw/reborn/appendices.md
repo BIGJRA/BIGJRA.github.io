@@ -56,7 +56,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **shinycharm / earlyshiny**: Allows the player to obtain the Shiny Charm from the beginning of the game.
 - **mintyfresh / agiftfromace**: Allows the player to get a pack of 5 of each Nature Mint at the beginning of the game.
 - **blindstep**: Turns on accessibility features for players with visual impairments.
-- **itemfinder**: Allows the player to get the Itemfinder right at the beginning of the game.
+- **freefinder / itemfinder**: Allows the player to get the Itemfinder right at the beginning of the game.
 - **nopartnerai / fullcontrol**: Allows the player to control NPC Tag Team trainers' actions.
 
 ### Difficulty Passwords
@@ -68,15 +68,16 @@ I don't recommend reading this list until you've played through the game once - 
 - **noitems**: Prevents the player from using bag items like Potions and X-Attacks from their bag during battles.
 - **nuzlocke / locke / permadeath**: Once one of the player's Pokemon faints, it cannot be revived.
 - **moneybags / richboy / doublemoney**: Doubles the amount of money received by trainers.
-- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokemon's IV's to 31. Disables online.
+- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokemon's IV's to 31. *Disables online trading*.
 - **emptyivs / 0ivs / noivs**: Sets all player Pokemon's IV's to 0.
 - **leveloffset / setlevel / flatlevel**: Allows you to provide an integer in [-99, 99] that will be added to all trainer levels in the game.
 - **percentlevel / levelpercent**: Allows you to provide a non-negative integer in [0, 999] that will be multiplied as a percent to all trainer levels in the game.
 - **stopitems**: Prevents enemy trainers from using bag items like Potions and X-Attacks during battle.
 - **stopgains**: Prevents the player's Pokemon from gaining EV's after battle.
 - **noexp / zeroexp / 0exp**: Prevents the player's Pokemon from gaining exp.
+- **exppercent / expercent**: Allows the player to set a multiplier for gained EXP.
 - **flatevs / 85evs**: All enemy Pokemon will have 85 EV's in every stat.
-- **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. Disables online.
+- **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. *Disables online battling and trading*.
 - **nobattles / storymode**: Skips all battles in the game.
 - **levelfloor / minlevel / lesslvlgap**: Floors the level of opponent Pokemon to the previous level caps (after the first gym).
 
@@ -94,17 +95,18 @@ I don't recommend reading this list until you've played through the game once - 
 - **monowoke / wokemono**: Allows you to start with Porygon. Guarantees Lower Peridot event will be Espurr. Guarantees Malchous egg will be Nincada. Guarantees Slum Egg will be Drowzee. Guarantees Rhodochrine trade will be Cryogonal or Carbink.
 - **freestarter / mystarter / customstart**: Allows the player to select a custom starter Pokemon of their choice.
 - **inversemode**: All battles have an inverted type chart.
-- **debug / debugmode**: Allows players to modify their Pokemon freely, without the potential to ruin save files. *It is highly recommended to use this password instead of using the game's debug mode, which is intended for developers and can have unexpected negative consequences.*
+- **debug / debugmode**: Allows players to modify their Pokemon freely, without the potential to ruin save files. *Disables online battling and trading. It is highly recommended to use this password instead of using the game's debug mode, which is intended for developers and can have unexpected negative consequences.*
 - **nopuzzles / puzzleskip**: Skips overworld, non-battle puzzles.
 - **doubles / colosseum / blueberry**: All trainer fights are set to be Double Battles!
 - **battlebond**: Allows the player to get a Battle Bond Greninja after defeating Titania. 
 - **aiplay / battlepalace / nocontrol**: The game will control your Pokemon's actions using opponent AI.
-- **snagmachine / monosteal / yoink**: Allows the player to steal 1 Pokemon per opponent trainer (no PULSEs).
+- **snagmachine / monosteal / yoink**: Allows the player to steal 1 Pokemon per opponent trainer (no PULSEs). *Disables online trading*.
 - **speedskip**: Speeds up certain battle messages.
+- **randomizer / random / randomized / randomiser / randomised**: Allows the player to choose randomized settings including trainers, wild Pokemon, TMs, items, and more! *Disables online battling and trading.*
 
 ### Field Effect Passwords
 
-- **nofield**: Disables any field effects.
+- **nofield**: All fights occur on no field.
 - **eleterrain**: All fights occur on Electric Terrain.
 - **grassterrain**: All fights occur on Grassy Terrain.
 - **mistterrain**: All fights occur on Misty Terrain.
@@ -158,7 +160,7 @@ The bulk passwords essentially are packs of the above listed passwords - using o
 - **casspack / goodtaste**: noitems, fullivs, hardcap, easyhms, norolls
 - **easymode**: fullivs, moneybags, litemode, stopitems
 - **hardmode**: noitems, nopenny, fullevs, emptyivs
-- **freebies**: freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz, freescent, itemfinder,
+- **freebies**: freeexpall, freeremotepc, powerpack, mintyfresh, shinycharm, freemegaz, freescent, freefinder
 - **qol**: hardcap, easyhms, fieldapp, earlyincu, stablweather, nopoisondam, weathermod, unrealtime, pinata, freeexpall, freeremotepc, freescent
 - **speedrun**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, earlyincu, pinata, mintyfresh, freeexpall, freescent, nopuzzles, speedskip
 - **speedrunnotx**: hardcap, monopsychic, easyhms, fullivs, norolls, stablweather, weathermod, freemegaz, eaclyincu, wtfisafont, pinata, mintyfresh, freeexpall, freescent, nopuzzles, speedskip
