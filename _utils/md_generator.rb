@@ -12,7 +12,8 @@ def generate_md_text(game = 'reborn', scripts_dir)
       ---
 
       <p id="title-text">Pokemon #{game.capitalize} Walkthrough </p>
-
+      <h5> Walkthrough last updated #{Time.now.strftime("%d %b %Y @ %H:%M")}</h5>
+      <h5> Based on game ver. #{VERSIONS[game]}</h5>
     PRE_CONTENTS
   end
 

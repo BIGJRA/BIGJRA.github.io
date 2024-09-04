@@ -1,10 +1,13 @@
 require 'json'
 require 'yaml'
 require 'nokogiri'
+require 'date'
 
 UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
+
+VERSIONS = { 'reborn' => "19.5.0-rc.60" }
 
 FIELDS = {
   RANDOM: 'Random Field',
