@@ -14,7 +14,6 @@ class TrainerGetter
     @abilityHash = ability_hash ||= load_ability_hash(@game, @scriptsDir)
     @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game, @scriptsDir)
     @typeHash = type_hash ||= load_type_hash(@game, @scriptsDir)
-
     @trainerStore = Set[]
   end
 

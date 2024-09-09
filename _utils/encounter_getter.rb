@@ -1,4 +1,5 @@
 require_relative 'common'
+require 'set'
 
 class EncounterGetter
   attr_accessor :game, :enc_hash, :map_names
@@ -9,6 +10,7 @@ class EncounterGetter
     @mapHash = map_names ||= load_maps_hash(game, scripts_dir)
     @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game, scripts_dir)
     @monHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
+    @encStore = Set[]
   end
 
   def get_encounter_md(map_id, include_list = nil, rods = nil, custom_map_name = nil)
@@ -146,9 +148,15 @@ class EncounterGetter
           pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
         end
 
-        bold = doc.create_element('strong')
-        bold.content = pokemon_name_formatted
-        td_name.add_child(bold)
+        # Bold if not detected in hash so far
+        if @encStore.include?(pokemon_name_formatted)
+          td_name.content = pokemon_name_formatted
+        else
+          bold = doc.create_element('strong')
+          bold.content = pokemon_name_formatted
+          td_name.add_child(bold)
+          @encStore.add(pokemon_name_formatted)
+        end
         tr.add_child(td_name)
 
         # Add levels to the second column
