@@ -4,7 +4,7 @@ Welcome to the BIGJRA.github.io repository! This is my ever-evolving Pokemon Reb
 
 The project is built using Jekyll and includes scripts that generate dynamic content based on a local copy of game files - instructions for building the project are below.
 
-There actually two major steps being done in this build process:
+There are two major steps being done in this build process:
 
 1. Ruby-based markdown build that imports data straight from the game's files and raw walkthrough markdown files, creating `<walkthrough>.md`.
 2. Jekyll converts the `<walkthrough>.md` files into browser-ready `<walkthrough>.html` files. 
