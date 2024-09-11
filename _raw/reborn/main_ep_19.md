@@ -223,7 +223,7 @@ Once you've finished both fights, make your way further into the tournament, whe
 
 ## Treasure Badge
 
-Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Quick Ball* and *Heart Scale* within. Proceed to the top of the area and talk to the chest.
+Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Quick Ball*, *Heart Scale*, and *PP Max* within. Proceed to the top of the area and talk to the chest.
 
 **Relationship Point Choices:**
 
@@ -257,7 +257,7 @@ Once you beat it, the path to Saphira will open. Time for our eighteenth and fin
 
 !battle(["Saphira", :SAPHIRA, 0], "Dragon's Den")
 
-Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokemon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokemon, as well. Garchomp will outspeed your team thanks to its Sash, and not a single Pokemon is a slacker that will let you easily set up on it.
+Saphira's team doesn't pull punches: six of the best Dragon types in the game all boosted by the field effect. The Dragon Dances have double effectiveness, the Fire and Dragon moves have their effects doubled, and Noivern's seed boosts its Special Attack and gives it extra strong Flamethrower. On the defensive side, Dragonite's Multiscale takes away its Dragon weakness and all six of her Pokemon have 1.3x defense, on top of weakening your Ice moves. Two Sashes and Multiscale also make it near-impossible to one shot her Pokemon, as well. Garchomp will outspeed your team thanks to its Scarf, and not a single Pokemon is a slacker that will let you easily set up on it.
 
 Since Dragon is super effective against Dragon, you can also take advantage of the field and try to beat her with your own Dragon types. A single Dragon Dance boost can often turn one of your Pokemon into a sweeper, and with the help of one layer of Stealth Rocks, Multiscale and Sashes will be broken, allowing you a clean sweep. Trick Room is helpful as always, as her Dragons are all pretty fast, so a slower Pokemon with Dragon moves could be the trick. You can also change the field to cave to wear her down with Rock moves, if you'd prefer.
 
