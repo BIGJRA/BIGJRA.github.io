@@ -168,6 +168,8 @@ Enter Calcenon City to the west.
 
 Inside the Pokemon Center, a person will tell you about the password *noitems*. Another person in here will offer an in-game trade: your Qwilfish for **Munchlax**!
 
+In a building to the right of the gym you can trade the Electirizer for an **Elekid**!
+
 Enter the gym at the top of the city.
 
 Talk to Hardy in the left side of the city for some points if you'd like.

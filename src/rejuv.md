@@ -6782,7 +6782,7 @@ West Gearen City Pool Area
 
 You can find a hidden *Mystery Bowl* in the skinny ledge on the east overlooking the sea.
 
-Head outside and enter the power plant. In the door to the left, head up. Pick up the *Metal Coat* here. Head down the stairs: for a quest, gather 5 Electric types, and 5 Fire types to donate. The easiest way to do this is to breed a mon of each type and take all their babies back. Return to each person with the 5 Pokemon to get the *Electrizer* and *Magmarizer.* Pick up 2 *Cell Batteries* next to the Electrodes.
+Head outside and enter the power plant. In the door to the left, head up. Pick up the *Metal Coat* here. Head down the stairs: for a quest, gather 5 Electric types, and 5 Fire types to donate. The easiest way to do this is to breed a mon of each type and take all their babies back. Return to each person with the 5 Pokemon to get the *Electirizer* and *Magmarizer.* Pick up 2 *Cell Batteries* next to the Electrodes.
 
 Outside the power plant to the left, you'll find a *Data Drive.*
 
@@ -12021,7 +12021,7 @@ Shopping District Mall 8F Shop 2
 |*Protector*    |$2100|
 |*Magmarizer*   |$2100|
 |*Dragon Scale* |$2100|
-|*Electrizer*   |$2100|
+|*Electirizer*   |$2100|
 |*DeepSeaTooth* |$200 |
 |*DeepSeaScale* |$200 |
 |*Up-Grade*     |$2100|
@@ -13531,10 +13531,10 @@ The best place to post up for battles is the Route 9 grinder. Lead with a Ghost/
 |**Milotic**          |Prism Scale + Link Heart  |
 |**Honchkrow**        |Dusk Stone                |
 |**Rhyperior**        |Protector + Link Heart    |
-|**Electivire**       |Electrizer + Link Heart   |
+|**Electivire**       |Electirizer + Link Heart  |
 |**Magmortar**        |Magmarizer + Link Heart   |
 |**Porygon-Z**        |Dubious Disc + Link Heart |
-|**Gallade**          |Male + Dawn Stone        |
+|**Gallade**          |Male + Dawn Stone         |
 |**Dusknoir**         |Reaper Cloth + Link Heart |
 |**Froslass**         |Female + Dawn Stone       |
 |**Simisage**         |Leaf Stone                |

@@ -426,7 +426,7 @@ With that taken care of, use the only available statue to reach the center of th
 
 !img("zcell_64.jpg")
 
-This final puzzle in here is a bit more complicated. If you're on Anna Route, this puzzle will basically be solved for you automatically, so I'll show the full solution for Lin Route here. First, use the statue to reach Malamar, then make your way back to the center. We can solve this puzzle entirely without having to use Malamar again after this (to be sure you're on the right one, make sure the left Giratina statue is activated).
+This final puzzle in here is a bit more complicated. If Taka is alive and has both of his eyes (Anna Route & Lin Reshiram Route having defeated Garchomp) this puzzle will basically be solved for you automatically, so I'll show the full solution for Lin Route here. First, use the statue to reach Malamar, then make your way back to the center. We can solve this puzzle entirely without having to use Malamar again after this (to be sure you're on the right one, make sure the left Giratina statue is activated).
 
 Anyways, at any instant you have three actions that you can take - press the left column, press the right column, and press the center. There are five colors in play: White (W), Light Gray (L), Gray (G), Dark Gray (D), and Black (B). When you press the left column, the five tiles in the column will shift cyclically. To reach the left column, you'll need to use the statue to walk through walls. The right column works similarly, though you won't have to do any phasing.
 

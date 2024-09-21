@@ -63,7 +63,7 @@ Hidden to the left are a *Green Shard* and *Great Ball*. Hop down the ledge to t
 
 Anyways, head inside the building here.
 
-Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll embark on in a bit. Upstairs someone will give us the password *allfieldapp*, and another person will tell us they lost their glasses. This will also be our main healing hub for now. Upstairs, you can do an in-game trade: our Dunsparce for **Tyrogue**. This is repeatable actually, so if you want to get more Tyrogue at higher levels for evolution purposes, you can do so. Grab the *Wide Lens* here as well.
+Someone on the first floor will give us 8 *Honeys*. Useful for a quest we'll embark on in a bit. Upstairs someone will give us the password *allfieldapp*, and another person will tell us they lost their glasses. This will also be our main healing hub for now. Upstairs, you can do an in-game trade: our Dunsparce for **Tyrogue**. This is repeatable actually, so if you want to get more Tyrogue at higher levels for evolution purposes, you can do so. The first time you do this trade, you will get an *Electirizer*! Grab the *Wide Lens* here as well.
 
 Back outside, head down the ledge here. You'll find a hidden *Dragon Gem*. Down another ledge, you can grab a *Lax Mint* as well as a hidden *Magical Seed*.
 
@@ -212,7 +212,7 @@ One thing to note is that Judgement will cycle between gaining Fire, Water, Gras
 
 With that, agree to leave together. Exit out of the Grand Gate, then make your way to Coral Ward. Talk to Adrienn here, then accept fast travel if you wish back to Vanhanen Castle. I will recommend not doing that so we can prep for an upcoming sidequest.
 
-We're gonna need about 30 Honeys for the next section - I recommend buying only about 5 honeys and then making sure you have 8-9 candies in your bag, as we will be able to trade them for honey later. A single Blue Moon Ice Cream can also be exchanged for tons of Honey if you happen to have one.
+We're gonna need about 30 Honeys for the next section - I recommend buying only about 5 honeys and then making sure you have 8-9 candies/ice creams in your bag, as we will be able to trade them for honey later. A single Blue Moon Ice Cream can also be exchanged for tons of Honey if you happen to have one.
 
 Not that you should spend your money on them, but the Sweet Kiss now sells higher-tier Exp. Candies!
 

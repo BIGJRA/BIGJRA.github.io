@@ -75,6 +75,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **stopitems**: Prevents enemy trainers from using bag items like Potions and X-Attacks during battle.
 - **stopgains**: Prevents the player's Pokemon from gaining EV's after battle.
 - **noexp / zeroexp / 0exp**: Prevents the player's Pokemon from gaining exp.
+- **expcurse**: EXP is lost instead of gained.
 - **exppercent / expercent**: Allows the player to set a multiplier for gained EXP.
 - **flatevs / 85evs**: All enemy Pokemon will have 85 EV's in every stat.
 - **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. *Disables online battling and trading*.

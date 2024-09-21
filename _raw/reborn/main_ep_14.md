@@ -16,7 +16,7 @@ With that, we now have all we need to Dive! There are a few quick things we can 
 
 Enter the gate at the bottom of Calcenon. The guard inside will ask us to donate $40000 to repair the bridge that was broken in the previous chapter. Note that if you don't have enough cash, you'll need to go all the way through Route 4 and Route 3 caves to go between Ametrine Mountain and Calcenon City. Anyways, once you cough up the cash the bridge, will be fixed. Head outside and to the right on the stairs, and enter the cave here.
 
-Inside, you can get an *Electrizer*, *Magmarizer*, and *Ghost Memory*. Re-enter Calcenon City. In the building to the right of the Pokemon Center you can trade this Magmarizer to get a **Magby**! In a building to the right of the gym you can trade the Electrizer for an **Elekid**!
+Inside, you can get *4 Exp. Candy XL*, a *Magmarizer*, and *Ghost Memory*. Re-enter Calcenon City. In the building to the right of the Pokemon Center you can trade this Magmarizer to get a **Magby**! 
 
 Head down to Route 3 via the new stairs. Down from here, you'll see a ladder. Interact with it to create a quick shortcut that allows us to go from Calcenon to Agate Circus super easily! Head to the circus.
 
