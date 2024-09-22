@@ -27,7 +27,7 @@ Defeat them, and the kid will head back to his home.
 
 Next, it's time for the big one. Head back to the Jasper Police Station and talk to the chief, then talk to the female **Growlithe**. That alone is a decent reward, but we can take this Growlithe and any male Pokemon in its egg group to the daycare to produce an egg. Bring an egg back to the police station and we can trade it with the guy at the bottom to get what the community calls the Mystery Egg.
 
-The Mystery Egg can actually hatch to be one of 18 different Pokemon - all of which are pretty solid team members in an early-game scenario where a lot of the available Pokemon suck. You'll get one of the following, randomly determined: **Azurill**, **Mareanie**, **Staryu**, **Togepi**, **Sneasel**, **Shroomish**, **Gastly**, **Axew**, **Vulpix-Alola**, **Pawniard**, **Litwick**, **Trapinch**, **Cottonee**, **Vulpix**, **Elekid**, **Starly**, **Rockruff**, **Larvesta**
+The Mystery Egg can actually hatch to be one of 18 different Pokemon - all of which are pretty solid team members in an early-game scenario where a lot of the available Pokemon suck. You'll get one of the following, randomly determined: **Azurill**, **Mareanie**, **Staryu**, **Togepi**, **Sneasel**, **Shroomish**, **Gastly**, **Axew**, **Vulpix-Alola**, **Pawniard**, **Litwick**, **Trapinch**, **Cottonee**, **Vulpix**, **Elekid**, **Starly**, **Rockruff**, **Larvesta**.
 
 We can get the other 17 at a later time.
 

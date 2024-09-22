@@ -147,13 +147,9 @@ A guy behind the desk will allow us to bring in grinding trainers to the grand h
 
 Talk to a guy next to some display cases if you'd like to buy some candy.
 
-**Grand Hall Common Candy Shop**
-
 !shop("Grand Hall Candy", [["Common Candy", 75]])
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. Reborn's disobedience system means that Pokemon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
-
-**Default Shop**
 
 !shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poké Ball"])
 
@@ -170,8 +166,6 @@ To the right is a trainer.
 !battle(["Jonathan", :TechNerd, 0])
 
 Anyways, there is grass here, which means we can obtain new team members!
-
-**Opal Ward**
 
 !enc(29, ["Grass"])
 

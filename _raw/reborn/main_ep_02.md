@@ -399,8 +399,6 @@ Pick up the last few hidden items here:
 
 The building on the left is Silph Co., but we can't do much here for now. The right building here is the Department Store. Time for Shopping!
 
-**Department Store 1F Left Shop**
-
 !shop("Department Store 1F (Left)", ["Poké Ball", "Escape Rope", "Common Candy", "Repel", "PokéSnax"])
 
 !shop("Department Store 1F (Right)", ["Potion", "Antidote", "Awakening", "Burn Heal", "Paralyze Heal", "Ice Heal"])

@@ -172,8 +172,6 @@ Make your way forward and follow the path up and around to the left.
 
 You'll see a cave entrance hidden behind a tree - walk up to this tree and it will teleport away.
 
-**Chrysolia Spring 1F**
-
 !enc(238, ["Cave", "Fishing"], ["Old"])
 
 More importantly, you'll find a *Mystic Water* and hidden *Link Stone* inside.

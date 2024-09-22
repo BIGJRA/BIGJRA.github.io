@@ -193,8 +193,6 @@ Make your way down to Seventh Street and find your corresponding gang leader. He
 
 Note that if you haven't fixed the slums yet, you won't be able to finish this quest with the Magma Gang yet. For completing it all you'll be given **Oshawott** holding a *Choice Band*.
 
-**Aqua Gang Applications**
-
 |Aqua Gang Member |Application        |
 |-----------------|-------------------|
 |Razzy            |Sweet              |

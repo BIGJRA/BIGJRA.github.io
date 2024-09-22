@@ -242,8 +242,6 @@ You'll be able to find hidden *PP Up* and *Blue Shard* in the ward. You can also
 
 Go south into Coral.
 
-**Coral Ward**
-
 !enc(526, ["Grass"])
 
 You can find hidden *Green Shard*, *Fairy Gem*, *Magical Seed*, and *Max Repel*.
