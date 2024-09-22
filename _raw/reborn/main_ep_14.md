@@ -122,7 +122,7 @@ Make your way back to the main part of Ametrine City and go all the way left. Yo
 Grab a hidden *Red Shard*, *Dire Hit*, and *Repel* as you climb. You'll see a narrow passage along the top that leads up and left, which you can follow to get a *Full Restore*. Head right.
 
 **Relationship Point Choices:**
-- After saving the police and exposing Corey and giving Blake the ring, watch Blake and Heather's conversation (+1 Heather)
+- After saving the police and exposing Corey and giving Blake the ring, watch Cal and Heather's conversation (+1 Heather)
 
 !dbattle(["Devin", :MeteorAceM, 0], ["Sanchez", :MeteorAceM, 0], "Snowy Mountain")
 
