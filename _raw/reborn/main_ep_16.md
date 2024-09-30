@@ -74,7 +74,7 @@ In the plot of the former Mosswater Factory there is now a market.
 
 There is also a guy selling a new item that will allow you to move all EV's from one stat into another.
 
-!shop("Mosswater Market Tuners", ["5x EV Tuners", 40000])
+!shop("Mosswater Market Tuners", [["5x EV Tuners", 40000]])
 
 Head up and enter the house where we once got Igglybuff. If you return it to her, you'll get a *Luck Incense* and a *Pixie Plate*.
 
@@ -816,8 +816,7 @@ One more quick thing if you'd like: Fly on over to Calcenon City and go to Route
 
 ## Grand Hall Trainers 6
 
-
-By defeating Noel, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L.* The updated teams are as follows:
+Now that we are back in Reborn City, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L*. The updated teams are as follows:
 
 **Sunday:**
 

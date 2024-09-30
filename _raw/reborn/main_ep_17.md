@@ -839,8 +839,6 @@ If you'd like to complete another one, the choices and corresponding references 
 - [Railnet Reconstruction](#railnet-reconstruction-project) ($100000)
 - [Azurine Nature Center](#azurine-nature-center-project) ($80000)
 
-There is one more thing we can do before continuing: fly over to Calcenon City.
-
 ## Torrent Badge
 
 With that out of the way, we can pretty much head right to the next gym. Fly to the Celestinine Cascade and enter the Fiore Mansion. You can pet Vaporeon for that quest, and talk to Julia for some A+ gym advice. Enter the gym room at the back.
