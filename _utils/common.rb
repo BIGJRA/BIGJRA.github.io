@@ -7,7 +7,7 @@ UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
-VERSIONS = { 'reborn' => "19.5.0" }
+VERSIONS = { 'reborn' => "19.5.0" , 'rejuv' => "13.5.6"}
 
 FIELDS = {
   RANDOM: 'Random Field',
@@ -54,7 +54,7 @@ FIELDS = {
   PSYTERRAIN: 'Psychic Terrain'
 }
 
-SECTIONS = { 'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 'rejuv' => [['main', 15]] }
+SECTIONS = { 'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 'rejuv' => [['main', 1]] } #TODO
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
               GoodRod: 'goodrod', SuperRod: 'superrod' }
@@ -313,6 +313,16 @@ REBORN_BT_DOUBLES = [
   [:POACHERB, 'Breslin', 2000, :STARLIGHT]
 ]
 
+module PBStats
+  ATTACK = "Atk"
+  DEFENSE = "Def"
+  SPATK = "SpA"
+  SPDEF = "SpD"
+  SPEED = "Spe"
+  EVASION = "Eva"
+  ACCURACY = "Acc"
+end
+
 def get_game_contents_dir(game)
   File.join(ROOT_DIR, '_raw', game)
 end
@@ -430,8 +440,12 @@ def load_maps_hash(game, scripts_dir)
 
     key = match[1].to_i
     comment_line = lines[index - 1]
-    name = comment_line.match(/#(.+)/)[1].strip
-    ret[key] = name
+    if comment_line.match(/#(.+)/) == nil
+      ret[key] = "NAME MISSING"
+    else
+      name = comment_line.match(/#(.+)/)[1].strip
+      ret[key] = name
+    end
   end
   ret
 end
