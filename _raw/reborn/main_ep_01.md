@@ -203,7 +203,7 @@ You'll need two Pokemon to be able to fight the last two, so catch a second if y
 
 When you win, you'll get **Pachirisu** or **Zigzagoon**, randomly determined. Note that whenever there is a random event like this, you will be able to get the other Pokemon later in the game (here is where the monotype passwords would come into play: the *monoelectric* password would guarantee Pachirisu, for example, while *mononormal* would guarantee Zigzagoon).
 
-If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt, which it learns at level 11. Also, it might be worthwhile to save before you get the Pokemon: both of these can have the Pickup ability, which can be incredible in Pokemon Reborn. [Click here for details about Pickup in Reborn.](https://www.rebornevo.com/pr/pickup/)
+If you got Zigzagoon, you can train that up instead of Bidoof if you'd like for Headbutt, which it learns at level 11. Also, it might be worthwhile to save before you get the Pokemon: both of these can have the Pickup ability, which can be incredible in Pokemon Reborn. [Click here for details about Pickup in Reborn.](#pickup-table)
 
 That's it for Opal Ward for now, so head back towards the train station.
 

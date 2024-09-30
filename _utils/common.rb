@@ -54,7 +54,9 @@ FIELDS = {
   PSYTERRAIN: 'Psychic Terrain'
 }
 
-SECTIONS = { 'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 'rejuv' => [['main', 1]] } #TODO
+SECTIONS = { 
+  'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 
+  'rejuv' => [['main', 1], ['post', 0], ['appendices', 1]] } #TODO
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
               GoodRod: 'goodrod', SuperRod: 'superrod' }
@@ -313,6 +315,8 @@ REBORN_BT_DOUBLES = [
   [:POACHERB, 'Breslin', 2000, :STARLIGHT]
 ]
 
+PICKUP_ODDS = [30, 10, 10, 10, 10, 10, 10, 4, 4, 1, 1]
+
 module PBStats
   ATTACK = "Atk"
   DEFENSE = "Def"
@@ -448,6 +452,40 @@ def load_maps_hash(game, scripts_dir)
     end
   end
   ret
+end
+
+def load_pickup_data(game, scripts_dir)
+  file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
+
+  normal_pickup_match = file_contents.match(/PickupNormal\s*=\s*\[(.*?)\]/m)
+  rare_pickup_match = file_contents.match(/PickupRare\s*=\s*\[(.*?)\]/m)
+
+  normal_pickup = normal_pickup_match[1].split(',').map { |item| item.strip.tr(':', '').to_sym }
+  rare_pickup = rare_pickup_match[1].split(',').map { |item| item.strip.tr(':', '').to_sym }
+
+  item_data = {}
+  # Sample: :GREATBALL => {30 => [11, 20], 10 => [1, 10]}
+
+  (0..9).each do |i|
+    items = normal_pickup[i, 9] + rare_pickup[i, 2]
+
+    min_level, max_level = i * 10 + 1, (i + 1) * 10
+
+    items.each_with_index do |item, idx|
+      odds = PICKUP_ODDS[idx]
+
+      item_data[item] ||= {}
+
+      if item_data[item][odds]
+        existing_range = item_data[item][odds]
+        item_data[item][odds] = [existing_range[0], max_level]  # Update to new max level
+      else
+        item_data[item][odds] = [min_level, max_level]
+      end
+    end
+  end
+
+  item_data.map { |item, odds| [item, odds.sort.reverse] }
 end
 
 def hp_str(move, hptype)

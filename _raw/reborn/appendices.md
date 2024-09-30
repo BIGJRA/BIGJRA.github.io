@@ -1,5 +1,9 @@
 # Appendices
 
+## Pickup Table
+
+!pickup()
+
 ## Wild Held Items
 
 Some wild Pokemon have a chance of holding an item when they are encountered in the wild. Note that the probabilities of each item are increased to 60, 20, and 5% respectively when your lead Pokemon has the Compoundeyes ability.

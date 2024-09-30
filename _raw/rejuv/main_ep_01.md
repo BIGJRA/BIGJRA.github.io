@@ -1,34 +1,36 @@
 # Chapter 1: Shipwrecked
 
+Welcome to my 100% walkthrough of Pokemon Rejuvenation!
+
+My aim with this document is to provide a complete route through the game including every single item including hidden ones, available Pokemon, some tips for battle strategies, shop and tutor details, and more. To summarize my approach: if you're the type of person that doesn't really like having tons of tabs open at once while you're trying to 100% complete this game, hopefully my guide may be useful for you.
+
+There are some parts that may spoil events that happen later in the game. I don't directly summarize story details, but you may want to consider playing the game once first without referencing this walkthrough if spoilers are a concern.
+
 ## Prologue
 
-To start, the "M" key toggles a speed-up of the game. The game will start off asking if you want to skip the prologue. Rejuvenation is a very story-focused game, so I recommend viewing it if it is your first time playing. If you do skip the prologue, jump ahead to the next section.
+The game will start off asking if you want to skip the prologue. Rejuvenation is a very story-focused game, so I recommend viewing it if it is your first time playing. If you do skip the prologue, jump ahead to the next section.
 
-As soon as you're done reading the Zorua and Pangoro story, take control of Maria and head downstairs to talk to Mom. Afterwards enter the bottom room on the left side of the first floor and head downstairs and interact with the summoning table.
+As soon as you're done reading the Zorua and Pangoro story, take control of Maria and head downstairs to talk to Mom. Enter the bottom room on the left side of the first floor. Go downstairs and interact with the summoning table.
 
-Head back upstairs and talk to Dad in the top-left room. Then return to the kitchen to talk to Mom. After that go upstairs. After a brief flash and the sound of breaking glass, go back downstairs and talk with the mysterious figure. Head west back down to the basement to watch the cutscene.
+Head back upstairs and talk to Dad in the top-left room. Return to the kitchen to talk to Mom, then go upstairs. After a brief flash and the sound of breaking glass, go back downstairs and talk with the mysterious figure. Head back down to the basement to watch the cutscene.
 
 After regaining control of Marianette, head down, east, and up through the hallway and watch the final cutscene of the prologue play out.
 
 ## S.S. Oceana
 
-After either skipping the prologue or finishing the last cutscene, the game asks which difficulty mode you'd prefer. Personally, I would recommend Casual Mode for anyone attempting to do a more restrictive challenge run or anyone who does not have much experience with the Reborn-style Pokemon game. I would recommend Normal Mode to anyone looking for a challenge or who found Reborn's difficulty adequate, and Intense Mode to those with lots of experience who found Normal / Reborn too easy, somehow. Regardless of choice, the game allows you to change your difficulty setting later if you want. **I will be covering battles in this guide as they appear in Normal Mode.**
+The game will ask which difficulty mode you'd prefer. I would recommend Story Mode for those that found Reborn too difficult. On the other hand, I would recommend Classic Mode to anyone looking for a challenge. Regardless of choice, the game allows you to change your difficulty setting later if you want. **I will be covering battles in this guide as they appear in Classic Mode.**
 
-Register yourself as a trainer, choosing among genders and six sprites.
+Register yourself as a trainer by choosing a gender and a "profile". You can even take a personality test to choose one!
 
-Amanda will ask if you want to input a password. I don't recommend using the password if you've never played the game, since this section contains many important story beats, but if you do want to skip ahead to the next section, the password is 4567, though you'll lose out on potential relationship points with Nancy.
+Amanda will ask if you want to input a password. You can see password details [in the appendices](#full-password-list), though I recommend against using any for a first run.
 
-There are two other passwords you can input here. If you want to play as a legacy protagonist sprite, type 1111. If you want to play the game as a certain side quest character from later (Ana), type 9494.
+Exit the first room and talk to Nancy. This is the first of instances that get you relationship points with characters, which affect how they view you, certain story events, and more. Any dialogue options which are not listed do not affect relationship points.
 
-Exit the first room and talk to Nancy. This is the first of instances that get you relationship points with characters, which affect how they view you. Thanks to Punch for collecting the information about these.
-
-Any dialogue options which are not listed do not affect relationship points. (Search "Relationship Point" to see them all)
-
-Relationship Point Choices:
+**Relationship Point Choices**:
 - I'm fine. (Mom +2)
 - ... (Mom -1)
 
-Once you've talked to Nancy and can roam, explore the S.S. Oceana. In this game talking to everyone and everything you see can be vital to discovering new Pokemon and Items, so it's a good idea to talk to everyone aboard.
+Once you've talked to Nancy and can roam, explore the S.S. Oceana. In this game talking to everyone and everything you see can be vital to discovering new Pokemon and items, so it's a good idea to talk to everyone aboard.
 
 Heading to the stairs on the left, in the two rooms you can enter on the left side, there are two notches in the wall. Interacting with them, you can listen in on two conversations: one with unknown figures and the other including Nancy.
 
@@ -354,7 +356,7 @@ The first tile below the really tall grass in the second column on the left of r
 
 To progress the story, head east into Venam's front yard, down from here a bit, and see a cutscene. Head to the Emporium to get a *Pecha Berry?* from the attendant. Give it to Venam.
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - All me. (Venam +2)
 - Maybe... (Venam +1)
 - No, actually. (Neutral)
@@ -450,11 +452,11 @@ Anyways, once you've gambled to your heart's content, there is a bit more option
 
 In Gearen Park, talk to Melia for an optional scene for Relationship Points (Melia +3).
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - You like photography? (Melia +1)
 - What are you doing? (Neutral)
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - I love photography! (Melia +2)
 - I appreciate the art! (Melia +1)
 - It's not for me. (Neutral)
@@ -700,7 +702,7 @@ Dance Prodigy Rorim B (No Field)
 
 Be careful of Ludicolo, rain boosted Bubblebeams can hurt. Vivillon too can be threatening if it sets up. This battle isn't super hard with a good flying type or two, or probably most well-rounded sixes.
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - You should stop. (RorimB -1)
 - Yeah, he's a jerk. (RorimB +2)
 - The other guests...? (RorimB +1)
@@ -757,7 +759,7 @@ ZCell 005: Route 1
 
 Head north and enjoy a great cutscene montage with Melia. Once you regain control, interact with Drifblim.
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - It was no bother! (Narcissa +1)
 - It was a complete bother. (Narcissa -1)
 
@@ -816,7 +818,7 @@ Make sure you've caught everything you care to in the whole Goldenwood Forest/Ca
 
 Anyways, heal your team and talk to Melia.
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - I will cherish it too! (Melia +5)
 - It was a good time. (Melia +2)
 - it was okay, I guess. (Melia -1)

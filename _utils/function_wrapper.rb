@@ -43,7 +43,8 @@ class FunctionWrapper
       'mine' => 'generate_mining_markdown',
       'wildheld' => 'generate_wild_held_markdown',
       'tutor' => 'generate_tutor_markdown',
-      'partner' => 'generate_partner_markdown'
+      'partner' => 'generate_partner_markdown',
+      'pickup' => 'generate_pickup_markdown'
     }
   end
 
@@ -55,7 +56,7 @@ class FunctionWrapper
     func = @shortNames[func_shortname] || func_shortname
 
     run_str = "#{func}(#{args})"
-    # puts run_str
+    puts run_str
     eval(run_str) + "\n" # evaluates function, preserves its newline
   end
 
@@ -142,7 +143,13 @@ class FunctionWrapper
     table_header['class'] = 'table-header'
     table_header['style'] = 'text-align: center;'
 
+    # Hardcode deletes from Lookup Hash due to in progress development
+
+    lookup_hash.delete(:LEADERSCREST)
+    lookup_hash.delete(:BOOSTERENERGY)
+    
     # Sorts items by order in item hash
+
     lookup_hash.map do |item, mon_hash|
       [item, mon_hash]
     end.sort_by { |a, _| @itemHash.keys.index(a) }.each do |item, mon_hash|
@@ -187,6 +194,62 @@ class FunctionWrapper
     html_output = doc.to_html
     html_output.split("\n")[1..].join("\n")
   end
+
+  def generate_pickup_markdown
+    pickup_data = load_pickup_data(@game, @scriptsDir)
+  
+    doc = Nokogiri::HTML::Document.new
+    div = doc.create_element('div', class: 'pickup_table')
+    doc.add_child(div)
+  
+    table = doc.create_element('table', id: 'pickup-table')
+    div.add_child(table)
+  
+    # Create the header for the table
+    thead = doc.create_element('thead')
+    table.add_child(thead)
+  
+    header_row = doc.create_element('tr', class: 'header')
+    thead.add_child(header_row)
+  
+    # Single header for Pickup Odds
+    table_header = doc.create_element('th', colspan: 2)
+    table_header.add_child(doc.create_element('strong', 'Pickup Odds'))
+    table_header['class'] = 'table-header'
+    table_header['style'] = 'text-align: center;'
+    header_row.add_child(table_header)
+  
+    tbody = doc.create_element('tbody')
+    table.add_child(tbody)
+  
+    # Sort entries by the order in item hash
+    sorted_pickup_data = pickup_data.sort_by { |item, _| @itemHash.keys.index(item) }
+  
+    # Iterate over each item in the sorted pickup data
+    sorted_pickup_data.each do |item, odds_hash|
+      content_row = doc.create_element('tr')
+      tbody.add_child(content_row)
+  
+      # Column 1: Item Name (italicized)
+      td_item = doc.create_element('td', style: 'text-align: center')
+      td_item.add_child(doc.create_element('em', @itemHash[item][:name]))
+      content_row.add_child(td_item)
+  
+      # Column 2: Odds and Level Ranges
+      odds_string = odds_hash.map do |odds, range|
+        "- #{odds}%: Lv. #{range[0]}-#{range[1]}"
+      end.join("\n")
+  
+      td_odds = doc.create_element('td')
+      td_odds.content = odds_string
+      content_row.add_child(td_odds)
+    end
+  
+    html_output = doc.to_html
+    html_output.split("\n")[1..].join("\n")  # Format output similar to your example
+  end
+  
+  
 
   def generate_encounter_markdown(map_id, include_list = nil, rods = nil, custom_map_name = nil)
     @encGetter.get_encounter_md(map_id, include_list, rods, custom_map_name)
@@ -285,6 +348,8 @@ class FunctionWrapper
     html_output = doc.to_html
     html_output.split("\n")[1..].join("\n")
   end
+
+
 end
 
 def main

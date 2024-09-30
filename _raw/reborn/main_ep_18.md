@@ -500,7 +500,7 @@ We could accept Hardy's gym battle offer right away, but there are some sideques
 
 Head to the left side of Agate City and into the Agate Circus.
 
-Relationship Point Choices:
+**Relationship Point Choices**:
 - (Refuse Blake Route Only) Talk to Ciel on the top left side of the circus after the raid (+1 Ciel, +1 Ace)
 - (Give Ruby Ring Route Only) Talk to Samson in the Big Top after the raid (+1 Samson)
 
