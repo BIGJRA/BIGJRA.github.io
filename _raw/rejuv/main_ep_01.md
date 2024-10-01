@@ -30,112 +30,65 @@ Exit the first room and talk to Nancy. This is the first of instances that get y
 - I'm fine. (Mom +2)
 - ... (Mom -1)
 
-Once you've talked to Nancy and can roam, explore the S.S. Oceana. In this game talking to everyone and everything you see can be vital to discovering new Pokemon and items, so it's a good idea to talk to everyone aboard.
+Once you've talked to Nancy and can roam, explore the S.S. Oceana. In this game, talking to everyone and everything you see is vital to discovering new Pokemon and items, so it's a good idea to talk to everyone aboard.
 
-Heading to the stairs on the left, in the two rooms you can enter on the left side, there are two notches in the wall. Interacting with them, you can listen in on two conversations: one with unknown figures and the other including Nancy.
+Optionally, head down the stairs to the left. In each of the two leftmost rooms on this floor, you can interact with a notch on the wall to listen in on two conversations: one with unknown figures and the other including Nancy. Head up the stairs.
 
-Head up the stairs three times to the right to talk to Cpt. Augustus. He'll explain a few of Rejuvenation's mechanics. Head downstairs and enter the double doors to the upper middle room. Talk to Nancy to get the banquet started, when you're ready.
+Head up two flights of stairs to talk to Captain Augustus. He'll explain a few of Rejuvenation's mechanics. Head downstairs and enter the double doors. Talk to Nancy to get the banquet started, when you're ready.
 
 Once you regain control, follow the path and watch the events play out.
 
-## Oceana Pier
-
 After either skipping the boat scenes or watching the cutscenes, talk to Tesla. Once you regain control, you can explore Oceana Pier.
 
-Now is a good time to change some of your options. I recommend doing Text Speed Max and Battle Scene Off if you want the game to go quickly. For a bit more challenge, you can also change the battle mode to "Set." I also recommend storing at least a few backups -- save files can get corrupted.
+If you want to talk to the woman on the northeast pier, you can get an all-expenses paid trip to Hoenn! Congratulations on finishing the game! Just kidding, of course. Our real journey has only just begun! 
 
-Anyways, if you want to talk to the woman on the northeast pier, you can get an all-expenses paid trip to Hoenn, but it is a game over. Otherwise, there's not too much to do here yet, so head into the gate on the north side.
+Otherwise, there's not much to do here yet, so head into the gate on the north side.
 
 ## Gearen Laboratory
 
 The trainers won't let you head west or east quite yet, so head into the building north.
 
-The guy running in place on the left will offer to give you cinematic bars during important cutscenes if you want. Talk to the girl behind the counter to buy some basic products.
+After talking to Jan and Amanda, head into the room in the top left.
 
-Gearen Lab Shop
+You'll then get to pick a starter Pokemon!. If you talk to the rainbow-colored machine on the right side, it will randomly choose for you among the 24 starters.
 
-|Item       |Price  |
-|-----------|-------|
-|*Poke Ball*|$200   |
-|*Potion*   |$300   |
-|*Repel*    |$350   |
-|*Antidote* |$100   |
+- The Grass types: **Bulbasaur**, **Chikorita**, **Treecko**, **Turtwig**, **Snivy**, **Chespin**, **Rowlet**, **Grookey**
+- The Fire types: **Charmander**, **Cyndaquil**, **Torchic**, **Chimchar**, **Tepig**, **Fennekin**, **Litten**, **Scorbunny**
+- The Water types: **Squirtle**, **Totodile**, **Mudkip**, **Piplup**, **Oshawott**, **Froakie**, **Popplio**, **Sobble**
 
-You start with $1500. I recommend picking up at least a few Poke balls to catch some team members soon, as a full team is almost necessary to succeed in Rejuvenation, even as early as the first gym battle of this game.
+You can quick save with 'D' in front of the Pokemon you choose and use F12 to soft reset for natures, IV's, shininess, and abilities. All Pokemon in this game have an equal chance to get hidden abilities, and the shiny rate is increased to a little over 1/100.
 
-Talk to Amanda at the top of the building to see a brief cutscene, then head up towards the door to meet Melia. Go through the door to meet Professor Jenner. You'll then get to pick a starter Pokemon by interacting with it. If you talk to the rainbow-colored machine on the right side, it will randomly choose for you among the 24 starters.
+Once you've picked your starter, talk to Amanda for a battle! You can win or lose this battle.
 
-Starter Choices (Pick ONE)
-- **Bulbasaur**
-- **Charmander**
-- **Squirtle**
-- **Chikorita**
-- **Cyndaquil**
-- **Totodile**
-- **Treecko**
-- **Torchic**
-- **Mudkip**
-- **Turtwig**
-- **Chimchar**
-- **Piplup**
-- **Snivy**
-- **Tepig**
-- **Oshawott**
-- **Chespin**
-- **Fennekin**
-- **Froakie**
-- **Rowlet**
-- **Litten**
-- **Popplio**
-- **Grookey**
-- **Scorbunny**
-- **Sobble**
+!battle(["Amanda", :TRAINER_AMANDA, 0])
 
-As in Reborn, Speed Boost Torchic is arguably the strongest choice, but all the starters can be useful in their own ways. The first gym specializes in Poison, so the Grass-type starters may be difficult to  use at first. Choose whatever you want though!
+Note that in this game you can press "S" to check the stats of all the Pokemon, as well as all secondary effects in play. After the battle, she'll give you *5 Poke Balls*.
 
-You can quick save with 'D' in front of the Pokemon you choose and use
-'F12' to soft reset for natures, IV's, shininess, and abilities. All Pokemon in this game have a chance at hidden abilities and the shiny rate is increased to a little over 1/100.
+Head downstairs to talk to Jenner and you'll fight:
 
-Anyways, once you've picked your starter, head west for a battle with Aevium Scout Amanda! You can win or lose this battle.
+!battle(["Ren", :TRAINER_REN, 0])
 
-League Scout Amanda (No Field)
--   Hatenna, Level 5.
-    -   Tackle
-    -   Play Nice
-
-Note that in this game you can press "S" to check the stats of all the Pokemon, as well as the weather / field / move effects in play to aid you in your fights. After the battle, she'll give you *5 Poke Balls.*
-
-Head to talk to Jenner and you'll fight:
-
-Pokemon Trainer Ren (No Field)
--   Froakie, Level 5.
-    -   Pound
-    -   Growl
-
-After the fight with Ren, Jenner asks you to visit Route 1 to help Melia. He then gives you the *Pokedex* and the *Cybernav!* Head back downstairs and listen to Jan's tutorial.
+After the fight with Ren, Jenner asks you to visit Route 1 to help Melia. He then gives you the *Pokedex* and the *Cybernav*! Head back downstairs.
 
 The EV training center can be accessed by talking to the woman on the right of the counter, but none of its training rooms are open right now.
 
+The guy running in place on the left will offer to give you cinematic bars during important cutscenes if you want. Talk to the girl behind the counter to buy some basic products.
+
+!shop("Gearen Lab Shop", ["Poké Ball", "Potion", "Repel", "Antidote"])
+
+I recommend picking up at least a few Poke Balls as a full team is almost necessary to succeed in Rejuvenation.
+
 When you're ready, head back outside to start exploring East Gearen City!
 
-## Left East Gearen City
+## East Gearen City (Left)
 
-This guide will not cover every NPC trainer, but know that as you explore Aevium there are many!
+It's worth noting that the Cybernav in this game has a feature called the Spice Scent which allows you to modify your encounter rate for free! This means you can crank it up high to get an encounter on every step, walk in grass hassle free by setting it to zero, or anything in between. It also means that Repels are effectively useless, so selling the ones we find is the way to go.
 
-Patches of grass around Gearen City have opened, so consider catching some Pokemon to assist your starter.
+!enc(58)
 
-Left East Gearen City
+Chingling can help in the fight against the gym dramatically, especially if you manage to evolve it. However, it is rare here and can be found much more reliably later.
 
-| Grass: Morning        | %    |Grass: Day     | %    | Grass: Night         | %    |
-|-----------------------|------|---------------|------|----------------------|------|
-| **Rattata (Alolan)**  | 30   | **Bidoof**    | 30   | **Rattata (Alolan)** | 30   |
-| **Wurmple**           | 25   | **Wurmple**   | 25   | **Wurmple**          | 25   |
-| **Pidgey**            | 15   | **Pidove**    | 15   | **Poochyena**        | 15   |
-| **Patrat**            | 15   | **Patrat**    | 15   | **Hoothoot**         | 15   |
-| **Bellsprout**        | 10   | **Bellsprout**| 10   | **Oddish**           | 10   |
-| **Sunkern**           | 5    | **Sunkern**   | 5    | **Chingling**        | 5    |
-
-Chingling can help in the fight against the gym dramatically, especially if you manage to evolve it. However, it is rare-ish here and can be found much more reliably later.
+To the right, in a rock, you'll find a hidden **
 
 If you go west on the bottom street, you can find a GourmetTreat in a bush. We'll want some of these later to get event Pokemon.
 
@@ -184,7 +137,7 @@ You can interact with a Nidoran in this map. Follow it to these locations:
 
 After this encounter you can interact with it and battle it. **Nidoran F** is at level 5.
 
-## Right East Gearen City
+## East Gearen City (Right)
 
 You'll see grass around this part of the city too, with more Pokemon.
 

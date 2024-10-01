@@ -24,7 +24,7 @@ I'm BIGJRA - a Software Engineer and passionate fan of game completion! The walk
 
 <div class="portfolio-item-container">
   <div class="portfolio-item-link">
-    <a class="portfolio-item-image" href="/rejuv">
+    <a class="portfolio-item-image" href="/rejuvenation">
       <img alt="Pokemon Rejuvenation Walkthrough" src="/assets/images/rejuv_title.jpg" />
     </a>
   </div>

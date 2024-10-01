@@ -9,6 +9,8 @@ CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
 VERSIONS = { 'reborn' => "19.5.0" , 'rejuv' => "13.5.6"}
 
+LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation'}
+
 FIELDS = {
   RANDOM: 'Random Field',
   ELECTERRAIN: 'Electric Terrain',
@@ -62,6 +64,96 @@ TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod
               GoodRod: 'goodrod', SuperRod: 'superrod' }
 
 EV_ARRAY = %w[HP Atk Def SpA SpD Spe]
+
+ENCOUNTER_MAPS = {
+  RATTATA: { 1 => 'Rattata' },
+  RATICATE: { 1 => 'Rattata' },
+  SANDSHREW: { 1 => 'Sandshrew' },
+  SANDSLASH: { 1 => 'Sandshrew' },
+  VULPIX: { 1 => 'Vulpix' },
+  NINETALES: { 1 => 'Vulpix' },
+  DIGLETT: { 1 => 'Diglett' },
+  DUGTRIO: { 1 => 'Diglett' },
+  MEOWTH: { 1 => 'Rattata', 2 => 'Meowth' },
+  PERSIAN: { 1 => 'Rattata', 2 => 'Meowth' },
+  GEODUDE: { 1 => 'Geodude' },
+  GRAVELER: { 1 => 'Geodude' },
+  GOLEM: { 1 => 'Geodude' },
+  GRIMER: { 1 => 'Grimer' },
+  MUK: { 1 => 'Grimer' },
+  MAROWAK: { 1 => 'Cubone' },
+  MRMIME: { 1 => 'MrMime' },
+  DARUMAKA: { 1 => 'Darumaka' },
+  PONYTA: { 1 => 'Ponyta' },
+  RAPIDASH: { 1 => 'Ponyta' },
+  SLOWPOKE: { 1 => 'Slowpoke' },
+  SLOWBRO: { 1 => 'Slowpoke' },
+  SLOWKING: { 1 => 'Slowpoke' },
+  FARFETCHD: { 1 => 'Farfetchd' },
+  ZIGZAGOON: { 1 => 'Zigzagoon' },
+  LINOONE: { 1 => 'Zigzagoon' },
+  YAMASK: { 1 => 'YamaskSpawn' },
+  STUNFISK: { 1 => 'Stunfisk' },
+  CORSOLA: { 1 => 'Corsola' },
+  GROWLITHE: { 1 => 'Growlithe' },
+  ARCANINE: { 1 => 'Growlithe' },
+  VOLTORB: { 1 => 'Voltorb' },
+  ELECTRODE: { 1 => 'Voltorb' },
+  TYPHLOSION: { 1 => 'Typhlosion' },
+  QWILFISH: { 1 => 'Qwilfish' },
+  SNEASEL: { 1 => 'Sneasel' },
+  SAMUROTT: { 1 => 'Samurott' },
+  LILLIGANT: { 1 => 'Lilligant' },
+  BASCULIN: { 2 => 'Basculin' },
+  ZORUA: { 1 => 'Zorua' },
+  ZOROARK: { 1 => 'Zorua' },
+  BRAVIARY: { 1 => 'Braviary' },
+  SLIGGOO: { 1 => 'Sliggoo' },
+  GOODRA: { 1 => 'Sliggoo' },
+  AVALUGG: { 1 => 'Avalugg' },
+  DECIDUEYE: { 1 => 'Decidueye' },
+  PARAS: { 1 => 'Paras' },
+  PARASECT: { 1 => 'Paras' },
+  MAGIKARP: { 1 => 'Magikarp' },
+  GYARADOS: { 1 => 'Magikarp' },
+  MISDREAVUS: { 1 => 'Misdreavus' },
+  MISMAGIUS: { 1 => 'Misdreavus' },
+  SHROOMISH: { 1 => 'Shroomish' },
+  BRELOOM: { 1 => 'Shroomish' },
+  FEEBAS: { 1 => 'Feebas' },
+  MILOTIC: { 1 => 'Feebas' },
+  SNORUNT: { 1 => 'Snorunt' },
+  GLALIE: { 1 => 'Snorunt' },
+  FROSLASS: { 1 => 'Snorunt' },
+  MUNNA: { 1 => 'Munna' },
+  MUSHARNA: { 1 => 'Munna' },
+  SIGILYPH: { 1 => 'Sigilyph' },
+  LITWICK: { 1 => 'Litwick' },
+  LAMPENT: { 1 => 'Litwick' },
+  CHANDELURE: { 1 => 'Litwick' },
+  BUDEW: { 1 => 'Budew' },
+  ROSELIA: { 1 => 'Budew' },
+  ROSERADE: { 1 => 'Budew' },
+  BRONZOR: { 1 => 'Bronzor' },
+  BRONZONG: { 1 => 'Bronzor' },
+  SHELLOS: { 1 => 'Shellos' },
+  GASTRODON: { 1 => 'Shellos' },
+  TOXTRICITY: { 1 => 'Toxtricity' },
+  JANGMOO: { 1 => 'Jangmoo' },
+  HAKAMOO: { 1 => 'Jangmoo' },
+  KOMMOO: { 1 => 'Jangmoo' },
+  WIMPOD: { 1 => 'Wimpod' },
+  GOLISOPOD: { 1 => 'Wimpod' },
+  LARVESTA: { 1 => 'Larvesta' },
+  VOLCARONA: { 1 => 'Larvesta' },
+  SEWADDLE: { 1 => 'Sewaddle' },
+  SWADLOON: { 1 => 'Sewaddle' },
+  LEAVANNY: { 1 => 'Sewaddle' },
+  MAREEP: { 1 => 'Mareep' },
+  FLAAFFY: { 1 => 'Mareep' },
+  AMPHAROS: { 1 => 'Mareep' },
+  LAPRAS: { 1 => 'Lapras' }
+}
 
 REBORN_THEME_TEAMS = [
   { number: 1, trainer: 'Julia', name: 'Boss Rush', teamnumber: 10, field: :ELECTERRAIN, doubles: false },
@@ -499,37 +591,20 @@ class EncounterMapWrapper
   def initialize(game, scripts_dir)
     @data = {}
     parse_file(game, scripts_dir)
-    case game
-    when 'reborn' then @encounterMaps = {
-      RATTATA: { 1 => 'Rattata' },
-      RATICATE: { 1 => 'Rattata' },
-      SANDSHREW: { 1 => 'Sandshrew' },
-      SANDSLASH: { 1 => 'Sandshrew' },
-      VULPIX: { 1 => 'Vulpix' },
-      NINETALES: { 1 => 'Vulpix' },
-      DIGLETT: { 1 => 'Diglett' },
-      DUGTRIO: { 1 => 'Diglett' },
-      MEOWTH: { 1 => 'Rattata' },
-      PERSIAN: { 1 => 'Rattata' },
-      GEODUDE: { 1 => 'Geodude' },
-      GRAVELER: { 1 => 'Geodude' },
-      GOLEM: { 1 => 'Geodude' },
-      GRIMER: { 1 => 'Grimer' },
-      MUK: { 1 => 'Grimer' },
-      MAROWAK: { 1 => 'Cubone' }
-    }
-    when 'rejuv' then {}
-    end
+
+    @encounterMaps = ENCOUNTER_MAPS
   end
 
   def get_enc_maps(pokemon_symbol)
+    return {} unless @encounterMaps
     form_data = @encounterMaps[pokemon_symbol]
     return {} unless form_data
 
     form_number = form_data.keys.first
     mon_name = form_data.values.first
     result = {}
-    @data[mon_name].each { |num| result[num] = form_number }
+    
+    @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
     result
   end
 

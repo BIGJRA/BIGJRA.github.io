@@ -7,11 +7,11 @@ def generate_md_text(game = 'reborn', scripts_dir)
   def generate_md_pre_contents(game = 'reborn')
     <<~PRE_CONTENTS
       ---
-      title: Pokemon #{game.capitalize} Walkthrough
-      permalink: /#{game}/
+      title: Pokemon #{LONGNAMES[game].capitalize} Walkthrough
+      permalink: /#{LONGNAMES[game]}/
       ---
 
-      <p id="title-text">Pokemon #{game.capitalize} Walkthrough </p>
+      <p id="title-text">Pokemon #{LONGNAMES[game].capitalize} Walkthrough </p>
       <h5> Walkthrough last updated #{Time.now.strftime("%d %b %Y @ %H:%M")} GMT</h5>
       <h5> Based on game ver. #{VERSIONS[game]}</h5>
     PRE_CONTENTS

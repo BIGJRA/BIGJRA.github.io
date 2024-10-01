@@ -461,7 +461,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **freeexpall**: Allows the player to obtain the Exp. All at the beginning of the game.
 - **shinycharm / earlyshiny**: Allows the player to obtain the Shiny Charm from the beginning of the game.
 - **freemegaz**: Allows the player to use the Mega-Z Ring from the beginning of the game.
-- **easyhms / nohms / hmitems / notmxneeded**: Allows you to use field moves from interactions and the party without Pokemon knowing the moves.
+- **easyhms / nohms / hmitems / notmxneeded**: Allows the player to obtain all the "Golden" field move items at the beginning of the game.
 - **powerpack**: Allows the player to receive the Power Items for EV Growth at the beginning of the game.
 - **earlyincu**: Gives the daycare incubator from the start of the game.
 - **freeremotepc**: Allows the player to use the Remote PC from the beginning of the game, and not need to use Cell Batteries.
