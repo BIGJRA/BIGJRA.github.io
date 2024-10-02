@@ -272,7 +272,7 @@ class FunctionWrapper
   end
 
   def generate_boss_markdown(boss_name, field = nil)
-    @trainerGetter.generate_boss_markdown(boss_name.to_sym, field)
+    @trainerGetter.generate_trainer_markdown(boss_name.to_sym, field)
   end
 
   def generate_battle_tower_singles_bosses_markdown

@@ -14,7 +14,7 @@ Head into the lab to battle Dr. Jenkel, with a choice of ally between Ren and Ve
 
 Either partner will do well here, his Frogadier hits hard with Water Pulse and Misty Terrain boosted Icy Wind, while her Grimer can smack super effective STAB on each with Knock Off and Poison Fang. Low stats including abysmal speed prevents Musharna from doing much damage - stall out the screens from the Munna if you need to and hit Musharna hard with STAB moves and you'll be just fine.
 
-After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a GourmetTreat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up 6 *Cell Batteries!* Make sure you save three of them for a quest in chapter 8.
+After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a GourmetTreat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
 
 ## Team Xen Gearen Takeover
 
@@ -68,7 +68,7 @@ Go to Gearen Park and fight the Grunts on the east side of the park.
 
 !dbattle(["Wilbur",:XENGRUNT_M,0], ["Hayleigh",:XENGRUNT_F,0], "Grassy Terrain")
 
-Return to the old woman in the hotel, who'll let you battle to catch **Minccino!**
+Return to the old woman in the hotel, who'll let you battle to catch **Minccino**!
 
 Especially if you've been catching all the Pokemon so far, you probably will have enough AP to get the Golden Hammer. This makes it so we don't need to teach Rock Smash to any Pokemon in order to smash rocks!
 
@@ -83,113 +83,113 @@ This is all we can do in the city for now, so buy a $300 ticket to take the trai
 
 ## Route 2
 
-There's a *Carbos* right and down from the red flower on the left as you enter. The grassy spot in the middle of dirt right from Meganium hides a *Green Shard.*
+There's a *Carbos* right and down from the purple flower on the left as you enter. 
 
-Route 2
+!enc(199, ["Grass", "Headbutt"])
 
-| Grass: Morning| %    |Grass: Day    | %    | Grass: Night    | %    |
-|---------------|------|--------------|------|-----------------|------|-
-| Deerling      | 30   |**Cherubi**   | 48   | **Swirlix**     | 30   |
-| **Combee**    | 30   |**Combee**    | 30   | Drowzee         | 20   |
-| Spearow       | 19   |**Volbeat**   | 15   | Oddish          | 15   |
-| **Cherubi**   | 15   |**Pidgeotto** | 5    | **Spinarak**    | 15   |
-| **Dedenne**   | 4    |**Dedenne**   | 2    | **Illumise**    | 10   |
-| **Spritzee**  | 1    |              |      | Hoothoot        | 8    |
-| **Swirlix**   | 1    |              |      | Chingling       | 2    |
+Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to trade away one Aipom for a quest later. The next gym is fighting type, so most of these are going to be decent options for now.
 
-| Old Rod   | % |
-|-----------|---|
-| Finneon   |100|
+!battle(["Ruddie",:AROMALADY,0])
 
-Remember to to get Dedenne to continue Zumi's quest. The next gym is fighting type, so most of these are going to be decent options for now.
+The grassy spot in the middle of dirt right from Meganium hides a *Green Shard*. The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
-Head down the stairs and go up at the fork. Left of a red flower is a hidden *Relaxed Mint,* and one tile down from the right patch of two tall grasses bordering the river is a *Red Shard.* Back down and right from here, the rightmost isolated grassy tile before the bridge has a *Blue Shard.*
+If you talk to the painter here, he'll wish to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Magcargo next, so we'll have to come back later.
 
-There are a few more encounter types we can find here with our new field moves.
+Enter the cave here.
 
-Route 2
+!enc(133)
 
-| Headbutt Low      | % | Headbutt High | % | Rock Smash | % |
-|-------------------|---|---------------|---|------------|---|
-| **Aipom**         | 55| Caterpie      | 55| Geodude    | 96|
-| **Crabrawler**    | 20| Weedle        | 30| **Diglett**| 4 |
-| **Pineco**        | 10| **Pineco**    | 5 |            |   |
-| **Butterfree**    | 5 | Pidgey        | 5 |            |   |
-| **Burmy**         | 5 | **Crabrawler**| 4 |            |   |
-| Metapod           | 4 | **Aipom**     | 1 |            |   |
-| **Beedrill**      | 1 |               |   |            |   |
+**ZCell 007: Gemstream Cave**
 
-Each tree is either a "low" tree or a "high" tree. Low trees have more infrequent encounters, but typically the rarer Pokemon. North of the bridge you'll cross the right tree is a low tree and the left tree is a high tree. Be wary of Pineco's Self-Destruct. Diglett will be available much more easily in the next area.
+!img("zcell007.png")
 
-You can talk to the Aipom across the bridge to catch them instead of worrying about Headbutt. We'll want to catch two Aipom here for a trade later.
+Exit the cave to the right. Go up at the fork in the bridge. On the first "tier" of grass and flowers, the rightmost tile hides a *Relaxed Mint*. The second tier's rightmost tile hides a *Rose Incense*.
 
-If you talk to Kecleon, he'll sell you stuff. We'll be back for a side quest with him later.
+**ZCell 008: Route 2**
 
-Kecleon Market Shop
+!img("zcell008.png")
 
-|Item           | Price     |
-|---------------|-----------|
-|*Poke Ball*    | $200      |
-|*Potion*       | $300      |
-|*Antidote*     | $100      |
-|*GourmetTreat* | $1500     |
-|*Repel*        | $350      |
+Continue crossing the bridge and enter the next cave, then go down the ladder. This room has three exits. The middle one will take you to water on Route 2.
 
-You can also find a *GourmetTreat* in the rightmost patch of grass up in the area up from Kecleon, as well as:
+!enc(199, ["Fishing"], ["Old"])
 
-ZCell 008: Route 2
+Take the bottom exit. You'll come upon a Mystery Egg at the end of the path. The contents of this egg are randomly decided upon creating your game file, so you can't reset for a different Pokemon. It will be one of **Skiddo**, **Mudbray**, or **Ponyta (Galarian)**, randomly determined. An *Ability Capsule* is hidden in a rock beyond.
 
-<img src="/assets/images/rejuv/image8.png"/>
+Reenter the cave and exit at the top. Down and to the right are some stairs - up one tile and right two tiles is a hidden *Blue Shard*. Head down from here.
 
-Cross the bridge to the left, four tiles left of the bottom of the bridge is a hidden *Blue Shard*. Just up the stairs, two tiles left of the bottom red flowers is a hidden *Rose Incense.* In the upper corner three tiles right and two down from the guy there is a hidden *Friend Ball.* If you talk to the painter here, he'll wish to see Cherrim. We'll return to this quest later.
+!battle(["Kaius",:YOUNGSTER,0])
 
-Heading back and to the right, there is a gold healing star, useful as we won't have to run back to the city to heal anymore. To the south past the fisherman, the tile down and left from the second red flower contains an *Ability Capsule.*
+Two tiles down and two tiles right from the next set of stairs is a hidden *Level Ball*.
 
-After you're done, enter Amethyst Cave.
+!battle(["Connald",:FISHERMAN,0])
 
-## Amethyst Cave 1st Visit
+Five tiles down from the door is a hidden *Lemonade*.
+
+**ZCell 009: Route 2**
+
+!img("zcell009.png")
+
+Go left. There is a blank tile with tall grass on four sides but on no diagonals that hides an *Exp. Candy S*. 
+
+**ZCell 010: Route 2**
+
+!img("zcell010.png")
+
+Go up.
+
+!battle(["Jiara",:BEAUTY,0])
+
+A wall above her on the right contains a hidden *Ether*.
+
+!battle(["Hinata",:TOURIST,0])
+
+The path above is now clear, so you have a shorter path to traverse through Route 2. Return to the Kecleon Bazaar on the south side of the Route. On the right, you'll be able to purchase a *Magnetic Lure* for $2000. This item makes it so you will encounter Pokemon you haven't caught yet when held, which is fantastic for a 100% playthrough.
+
+The four items of inventory on the left are determined randomly each day - a number is picked from 1-8. You'll get one set of the following:
+
+1. *Super Potion* ($500), *Pomeg Berry* ($8,500), *Protein* ($6,800), *Black Prism* ($25,000),
+2. *Max Revive* ($9,500), *Kelpsy Berry* ($8,500), *HP Up* ($6,800), *Ice Stone* ($25,000),
+3. *Full Heal* ($200), *Qualot Berry* ($8,500), *Iron* ($6,800), *Link Heart* ($25,000),
+4. *Max Potion* ($1,500), *Hondew Berry* ($8,500), *Calcium* ($6,800), *Galarica Cuff* ($25,000),
+5. *Lava Cookie* ($50), *Tamato Berry* ($8,500), *Zinc* ($6,800), *Galarica Wreath* ($25,000),
+6. *Ice Heal* ($50), *Grepa Berry* ($8,500), *Carbos* ($6,800), *Dusk Stone* ($25,000),
+7. *Full Restore* ($1,600), *Sitrus Berry* ($500), *PP Up* ($12,800), *Dawn Stone* ($25,000),
+8. *Revive* ($1,000), *Leppa Berry* ($1,500), *PP Max* ($20,800), *Shiny Stone* ($25,000).
+
+Head to the top right side of the route.
+
+!enc(199, ["Rock Smash"])
+
+Behind the healing machine and a rock is a hidden *GourmetTreat*. Enter the cave here.
+
+## Amethyst Cave
 
 After a conversation with a shady figure, you'll have control in the cave.
 
-Amethyst Cave
+!enc(4, ["Cave", "Fishing", "Rock Smash"], ["Old"])
 
-| Cave          | %        | Old Rod        | %        |
-|---------------|----------|----------------|----------|
-| Woobat        | 40       | **Remoraid**   | 70       |
-| Geodude       | 34       | **Barboach**   | 30       |
-| **Sandshrew** | 15       |                |          |
-| Diglett       | 9        |                |          |
-| **Carbink**   | 2        |                |          |
-
-Go left. Two tiles down and one left from the lady hides a *Nugget.* To the left pick up the *Quiet Mint,* and the *Mineral Ball* in the bottom right part of the nearby cart. Down from here, the divot in the wall contains a *Green Shard.*
+Go left. Two tiles down and one left from the lady hides a *Nugget*. To the left and pick up the *Quiet Mint*, and the *Mineral Ball* hidden in the bottom right part of the nearby cart. Down from here, the divot in the wall contains a hidden *Green Shard*.
 
 Head to the right, and downstairs. This is a new area technically with different encounters.
 
-Amethyst Depths
-
-| Cave        | %        |
-|-------------|----------|
-| Geodude     | 34       |
-| Chingling   | 30       |
-| Sandshrew   | 15       |
-| **Natu**    | 10       |
-| Diglett     | 9        |
-| Carbink     | 2        |
+!enc(77, ["Cave"])
 
 Again, Xatu is another good choice for the upcoming gym.
 
-The wall below the second Joltik contains an *HP Up.* Talk to Ren.
+The wall below the second Joltik contains a hidden *HP Up*. Talk to Ren.
 
 **Relationship Point Choices**:
 
 - Is that strange? (Ren +1)
 - What about them? (Neutral)
 
-The rock below him contains a *Potion,* and one tile down from the box to the left is a hidden *Antidote.* Crossing the bridge, the bottom left box of the set on the right contains a *Green Shard.* A rock below here contains a *Resist Wing,* and there is a *Blue Shard* three tiles down and one tile left.
+The rock below him contains a *Potion*, and one tile down from the box to the left is a hidden *Antidote*. Crossing the bridge, the bottom left box of the set on the right contains a *Green Shard*. A rock below here contains a *Resist Wing*, and there is a *Blue Shard* three tiles down and one tile left.
 
-Head downstairs. The boxes directly left of the healing star contain a *Revive.* Grab the *Blue Shard.* Then cross the bridge to get a *Modest Mint.* The tile at the top above the metal tracks contains a *Fire Gem.* You can give a GourmetTreat to catch **Lunatone**. Activate Panel 1 while you are here, we will activate 5 more for a quest later.
+Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a GourmetTreat to catch **Lunatone**. Activate Panel 1 while you are here. We will activate 5 more for a quest later.
 
-Heal and save, then head up. Pick up the *Rift Dex* to learn about Rift Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
+Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn about Rift Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
+
+!boss("RIFTGALVANTULA", "Corrupted Field")
 
 Dimensional Rift Galvantula (Corrupted Field)
 -   Joltik, Level 22.
@@ -227,13 +227,13 @@ This one isn't too bad, though the Joltik are annoying with their Electroweb att
 
 Back in the city, two optional things we can do now: first, talk to Zumi in the library, who'll give you the *Advanced Pokedex* if you caught Dedenne. She'll also send you on the next mission to get Drifloon.
 
-Second, if you go to the Chrisola Hotel, our travels to Route 2 will prompt the girl in the first room in the right hallway to give you **Shinx!**
+Second, if you go to the Chrisola Hotel, our travels to Route 2 will prompt the girl in the first room in the right hallway to give you **Shinx**!
 
-Anyways, back in Amethyst Cave, we can head north. Smash the rock and pick up the hidden *Red Shard* in the rail below. The wall behind a rock to the right has a *Super Potion,* and the second minecart above contains a *Mineral Ball.* The rail to the left of this minecart and one tile up contains a *Green Shard.* To the left, the wall down from the rock to smash is a *Zinc,* and the machine above here has a *Mineral Ball.* The wall to the left of the leftmost machine contains a *Reverse Candy.*
+Anyways, back in Amethyst Cave, we can head north. Smash the rock and pick up the hidden *Red Shard* in the rail below. The wall behind a rock to the right has a *Super Potion*, and the second minecart above contains a *Mineral Ball*. The rail to the left of this minecart and one tile up contains a *Green Shard*. To the left, the wall down from the rock to smash is a *Zinc*, and the machine above here has a *Mineral Ball*. The wall to the left of the leftmost machine contains a *Reverse Candy*.
 
-We can't really access the meadow yet, so head right and up. Talk to the hooded guy then get a hidden *Electric Gem* in the right rock. In the next room, the wall immediately on the right contains a *Genius Wing.* Two tiles down and three left from the first rock smash is a hidden *Reverse Candy.* On the right side of the room, the top box contains an *X Attack.* Head through the southeast exit.
+We can't really access the meadow yet, so head right and up. Talk to the hooded guy then get a hidden *Electric Gem* in the right rock. In the next room, the wall immediately on the right contains a *Genius Wing*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. On the right side of the room, the top box contains an *X Attack*. Head through the southeast exit.
 
-A box to the right contains a *Repel.* Down and to the right, the right side of a drill machine contains an *X Defend* and the last rock contains a *Rock Gem.* Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
+A box to the right contains a *Repel*. Down and to the right, the right side of a drill machine contains an *X Defend* and the last rock contains a *Rock Gem*. Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
 
 In the altered dimension, solve her difficult puzzles and prepare for a battle.
 
@@ -265,7 +265,7 @@ The Solrock and Lunatone can be frustrating with Rock Slide, but anything speedi
 - Yes (Nim +2)
 - No. (Nim -2)
 
-She'll give you the *Room ID Card!* When you are back in the cave, the wall to the left of the bottom stairs contains a *Super Potion,* and the one above and right of the top stairs contains a *Reverse Candy.* Head into Sheridan Village to the north.
+She'll give you the *Room ID Card*! When you are back in the cave, the wall to the left of the bottom stairs contains a *Super Potion*, and the one above and right of the top stairs contains a *Reverse Candy*. Head into Sheridan Village to the north.
 
 ## Sheridan Village
 
@@ -320,11 +320,11 @@ Sheridan Village Drinks Shop (1 Badge)
 |---------------|-----------|
 |*Berry Juice*  |$100       |
 
-You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion!* A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom.*
+You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*.
 
 You'll notice a trucker up from here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible.
 
-Head east. Above the boxes is a hidden *Ability Capsule.* Enter the inn. Talk to a girl in the lobby to get a *Sweet Heart.* Talk to a girl in the first room on the left in the vertical hallway and take on her quest. The woman on the right in the hall will offer to teach you a few more moves for shards:
+Head east. Above the boxes is a hidden *Ability Capsule*. Enter the inn. Talk to a girl in the lobby to get a *Sweet Heart*. Talk to a girl in the first room on the left in the vertical hallway and take on her quest. The woman on the right in the hall will offer to teach you a few more moves for shards:
 
 Sheridan Village Move Tutor
 
@@ -333,13 +333,13 @@ Sheridan Village Move Tutor
 |Worry Seed |2 Red Shards   |
 |Uproar     |2 Green Shards |
 
-There is an Audino breeder towards the top: every time you beat them, you will get 3 *Exp. Candy S.* Once you're ready, we can take care of some side quests.
+There is an Audino breeder towards the top: every time you beat them, you will get 3 *Exp. Candy S*. Once you're ready, we can take care of some side quests.
 
-At some point, level your Cherubi to Level 25 so that it evolves into **Cherrim.** On Route 2, in a camper in the far northwest part of the route, show the guy here your Cherrim for a *Miracle Seed.*
 
-There is a day care in town. Take your Jigglypuff and any other Pokemon in the Fairy egg group there and breed to get **Igglybuff.** Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon!*
 
-Talk to the truck guy and have him take you back to Gearen City. In Jenner's lab, use the Room ID Card to get the *Exp. Share!* Read the note, then talk to Melia's wardrobe to get the *Audition Tape.* Plug it in to the computer to watch a lore cutscene if you want.
+There is a day care in town. Take your Jigglypuff and any other Pokemon in the Fairy egg group there and breed to get **Igglybuff**. Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon*!
+
+Talk to the truck guy and have him take you back to Gearen City. In Jenner's lab, use the Room ID Card to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
 
 Head into the Gearen Lab and go to Jenner's lab. Head to the left and talk to Professor Hawthorne. He wants a Dex that has seen 100 Pokemon. This is an easy goal if you haven't been avoiding all the trainers and optional battles. Grab either the **Elekid** egg or the **Magby** egg and read Jenner's journal if you want.
 
@@ -372,7 +372,7 @@ Head up and talk to the **Swablu** flying overhead for a battle. Return to Keta'
 
 ## Amethyst Grotto and Sheridan Help Quests
 
-After accepting Keta's quest, head all the way out of the village and go back all the way through Amethyst Cave. In the second room, interact with this box of plants, then head north. Go to the west side of the room, where you'll see a man getting assaulted by **Solrock.** Challenge it to a battle and catch it to proceed.
+After accepting Keta's quest, head all the way out of the village and go back all the way through Amethyst Cave. In the second room, interact with this box of plants, then head north. Go to the west side of the room, where you'll see a man getting assaulted by **Solrock**. Challenge it to a battle and catch it to proceed.
 
 Continue through the cave. Once at the entrance, head west until you see a red rock. Touch the stone, and a door will open. Enter and go downstairs. On the left above a tree is a hidden *Moon Ball*.
 
@@ -385,9 +385,9 @@ Amethyst Grotto
 | Jigglypuff    | 25       |
 | **Girafarig** | 8        |
 
-On the right side, two tiles right and three tiles above the rock smash is a hidden *Red Shard.* A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another *Red Shard.*
+On the right side, two tiles right and three tiles above the rock smash is a hidden *Red Shard*. A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another *Red Shard*.
 
-Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone.* Then exit and watch the scene and fast travel back to Sheridan.
+Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone*. Then exit and watch the scene and fast travel back to Sheridan.
 
 Returning to the inn in Sheridan you'll be given $8000 for saving the guy.
 
@@ -399,9 +399,9 @@ Start outside the help center and talk to the backpacker. Truck to Gearen, then 
 
 Head to Dr. Jenkel's lab and watch the scene. Go to Gearen Park and talk to Karen. Enter the library.
 
-Pick up the green book behind the pillar at the entrance. Enter the main chamber and pick up the blue book. We can encounter Pokemon here, but there's only 1 type: **Unown!**
+Pick up the green book behind the pillar at the entrance. Enter the main chamber and pick up the blue book. We can encounter Pokemon here, but there's only 1 type: **Unown**!
 
-Pick up the purple book nearby. To the right there is a 2-tile space without a bookshelf on the bottom, one tile up from the right one contains an *Ether.*
+Pick up the purple book nearby. To the right there is a 2-tile space without a bookshelf on the bottom, one tile up from the right one contains an *Ether*.
 
 Go right for the orange book and up for the red book. Also:
 
@@ -409,21 +409,21 @@ ZCell 009: Hidden Library
 
 <img src="/assets/images/rejuv/image9.png"/>
 
-Go down. Pick up the lime book, and *TM63 Embargo.*
+Go down. Pick up the lime book, and *TM63 Embargo*.
 
 Head back up and go all the way up, picking up the sky-blue book.
 
-Head up. Next to the door, there are candle things. The second from the top on the right contains a hidden *Charcoal!*
+Head up. Next to the door, there are candle things. The second from the top on the right contains a hidden *Charcoal*!
 
 Follow Karen into the north room. On the left, pick up the golden book. On the right, pick up the lemon book.
 
 Now that we have found nine books, head back to where we saw Elgyem flying by earlier. Interact with the bookshelf it's on and place the books inside. A level 1 **Elgyem** will then battle you!
 
-Head back into the upper room and talk to Karen. While she'll get the Mega Ring, you'll get the *Ancient Book.* This will allow you to read Garufan prophecies. Check out the ones on the wall, if you're interested.
+Head back into the upper room and talk to Karen. While she'll get the Mega Ring, you'll get the *Ancient Book*. This will allow you to read Garufan prophecies. Check out the ones on the wall, if you're interested.
 
 Head back to Sheridan Village when you're done and talk to the backpacker.
 
-You can choose to give him the book or not. I recommend giving him the book since we can get another later, and if you choose to, you'll get *Blue Moon Ice Cream!*
+You can choose to give him the book or not. I recommend giving him the book since we can get another later, and if you choose to, you'll get *Blue Moon Ice Cream*!
 
 Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen Relationship Point)
 
@@ -443,7 +443,7 @@ Claim your reward: $950 and five *GourmetTreats*. (+1 Karma, +1 Venam Relationsh
 
 First, grab one Aipom from your PC. If you didn't get one yet, go to Route 2 and interact with them. Then go to Sheridan Arena.
 
-Talk to the girl with blue hair, then trade for **Pancham.**
+Talk to the girl with blue hair, then trade for **Pancham**.
 
 Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
 
@@ -453,9 +453,9 @@ Start by heading through Amethyst Cave to Route 2.
 
 Pick up one of the blue item balls. If you have 50000, you're welcome to pay for the item, but if not, you'll get teleported to the THIEF'S DUNGEON!
 
-After talking to the grunt and getting out, memorize the map on the wall. If you don't take the path outlined, you will get destroyed... Enter the door that corresponds to yellow to get an *Ice Stone,* or *Dusk Stone* depending on random chance.
+After talking to the grunt and getting out, memorize the map on the wall. If you don't take the path outlined, you will get destroyed... Enter the door that corresponds to yellow to get an *Ice Stone* or *Dusk Stone* depending on random chance.
 
-Escape, and return to the help center. Talk to the guy to get *Blue Moon Ice Cream.*
+Escape, and return to the help center. Talk to the guy to get *Blue Moon Ice Cream*.
 
 Claim your reward: $1890, Casteliacone! (+1 Karma)
 
@@ -497,11 +497,11 @@ Wanderer Novae and Dancer Rorim B (Forest Field)
 
 This is a tough one, two of her party members are already fully evolved and hit hard. Again, feel free to save this for later if you must.
 
-After the battle, return to the help center. Your rewards: $1600, and **Clobbopus.** (+1 Karma).
+After the battle, return to the help center. Your rewards: $1600, and **Clobbopus**. (+1 Karma).
 
 Real quick there's another quest we can do. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave.
 
-Head up, and beat the guy at the end to get **Houndour!**
+Head up, and beat the guy at the end to get **Houndour**!
 
 That's all we can take care of for now, so head back to Sheridan to see Keta.
 
@@ -567,23 +567,23 @@ Carotos Mountain
 
 On the left, past a rock smash, is *TM121 Fire Spin*.
 
-Once you cross the bridge to the right, prepare for battle and talk to the robotic looking thing. It will challenge you and has a Shadow **Ponyta!**
+Once you cross the bridge to the right, prepare for battle and talk to the robotic looking thing. It will challenge you and has a Shadow **Ponyta**!
 
-Head through the door, pick up a hidden *Full Heal* in the barrel to the right, and battle the Xen Grunts. The second grunt will have a Shadow **Vanillite.** The third has a Shadow **Bonsly.** Defeat SEC and his Flareon, then pick up the *Red Shard* hidden in the barrel to the right.
+Head through the door, pick up a hidden *Full Heal* in the barrel to the right, and battle the Xen Grunts. The second grunt will have a Shadow **Vanillite**. The third has a Shadow **Bonsly**. Defeat SEC and his Flareon, then pick up the *Red Shard* hidden in the barrel to the right.
 
-If you head to the right, grab the *Ultra Ball* in the left side of the machine as you go. The bottom left of the four barrels contains a *Reverse Candy*. Down from here, you can grab *TM43 Flame Charge.* Observe the passwords written all over the walls in this floor. There is a *Synthetic Seed* as well as a *Fire Stone* if you follow the path to the right. Right now, this will evolve Pansear.
+If you head to the right, grab the *Ultra Ball* in the left side of the machine as you go. The bottom left of the four barrels contains a *Reverse Candy*. Down from here, you can grab *TM43 Flame Charge*. Observe the passwords written all over the walls in this floor. There is a *Synthetic Seed* as well as a *Fire Stone* if you follow the path to the right. Right now, this will evolve Pansear.
 
-SEC will require you to input a password to move on. The passwords are, in order, BEAUTY, IDOL, SHADOW. Talk to it a few more times and it will challenge you with a Shadow **Quagsire.**
+SEC will require you to input a password to move on. The passwords are, in order, BEAUTY, IDOL, SHADOW. Talk to it a few more times and it will challenge you with a Shadow **Quagsire**.
 
 Once you're ready, go up the elevator and head towards Madelis' Palace. Go inside when you get the chance to, and you'll team up with Keta.
 
-Head into the left room. Grab the *Hyper Potion* on the left and *Revive* up above. At the top of the room, grab the *Yellow Key.*
+Head into the left room. Grab the *Hyper Potion* on the left and *Revive* up above. At the top of the room, grab the *Yellow Key*.
 
-Head back out and go into the right room. Talk to Sharon to get the *Green Key* and grab the *Fresh Water* in the top right. Talk to **Mime Jr.** in the top right to take it with you.
+Head back out and go into the right room. Talk to Sharon to get the *Green Key* and grab the *Fresh Water* in the top right. Talk to **Mime Jr**. in the top right to take it with you.
 
-Go back and enter the top left room. Grab the *Red Key.*
+Go back and enter the top left room. Grab the *Red Key*.
 
-Finally, enter the top right room. Make sure you grab the *Up-Grade, Dusk Ball* and the *Blue Key.*
+Finally, enter the top right room. Make sure you grab the *Up-Grade, Dusk Ball* and the *Blue Key*.
 
 Head back out into the foyer and insert each key into the keyholes on the walls.
 
@@ -626,7 +626,7 @@ This one doesn't have to be won, though it is very doable. Winning grants +1 Kar
 
 Afterwards, head into the door behind Madelis' chair, and go down the lift.
 
-We haven't had enough legendary battles with only one gym badge quite yet, so follow Aelita up and grab the *Rift Dex Info.*
+We haven't had enough legendary battles with only one gym badge quite yet, so follow Aelita up and grab the *Rift Dex Info*.
 
 After a brief scene, you'll be taken into a rift space. Talk to Volcanion and answer its question and the battle will begin!
 
@@ -714,6 +714,6 @@ Sensei Keta (No Field)
 
 Compared to Novae, this battle won't be too hard but is still scary. Gallade hits hard and is fast. In general, you want to try to set up on one of the weaker Pokemon like Roselia or Larvesta, if you can, it won't be too awful.
 
-After you win, you'll get the Diamond Fist Badge! This enables you to cut and puts our level cap at 30. He'll also leave behind *TM103 Stacking Shot.*
+After you win, you'll get the Diamond Fist Badge! This enables you to cut and puts our level cap at 30. He'll also leave behind *TM103 Stacking Shot*.
 
 Talk to Aelita upstairs and agree to sleep.
