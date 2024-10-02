@@ -12,23 +12,51 @@ Head into the lab to battle Dr. Jenkel, with a choice of ally between Ren and Ve
 
 !battle(["Dr. Jenkel",:MADSCIENTIST,0], "Factory Field")
 
-Either partner will do well here, his Frogadier hits hard with Water Pulse and Misty Terrain boosted Icy Wind, while her Grimer can smack super effective STAB on each with Knock Off and Poison Fang. Low stats including abysmal speed prevents Musharna from doing much damage - stall out the screens from the Munna if you need to, take out the Munna and hit it hard with STAB moves and you'll be just fine.
+Either partner will do well here, his Frogadier hits hard with Water Pulse and Misty Terrain boosted Icy Wind, while her Grimer can smack super effective STAB on each with Knock Off and Poison Fang. Low stats including abysmal speed prevents Musharna from doing much damage - stall out the screens from the Munna if you need to and hit Musharna hard with STAB moves and you'll be just fine.
 
-After the battle, you'll be gifted *TM94 Rock Smash!* Use it outside, down and to the right, and you'll see a **Blitzle.** Give it a GourmetTreat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up 6 *Cell Batteries!* Make sure you save three of them for a quest in chapter 8.
+After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a GourmetTreat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up 6 *Cell Batteries!* Make sure you save three of them for a quest in chapter 8.
 
-To the right of Junction Bridge: the sewer stairs there will now be open. Here you'll find a Rare Candy. Also:
+## Team Xen Gearen Takeover
 
-ZCell 006: Gearen Sewers
+To the right of Junction Bridge, you'll notice the sewer stairs east of the Violet Building will now be open. Head down.
 
-<img src="/assets/images/rejuv/image6.png"/>
+!battle(["Arnold",:TECH,0])
 
-Exit through the top. A dumpster on the right has a *Reverse Candy* within. At night, you can go into the alleyway area. The purple flower in the center has a *Super Potion,* in between the dumpster and table on the left is a *Red Shard* and two tiles right and two tiles down from there is a hidden *Telluric Seed*. The dumpster just before the stairs contains a *Green Shard,* and the tile between the two stacks of really tall grass hides a *Super Repel.*
+Here you'll find a **Rare Candy**. Also:
 
-ZCell 007: Gearen Alleyway (Only accessible at night)
+**ZCell 005: Abandoned Sewers**
 
-<img src="/assets/images/rejuv/image7.png"/>
+!img("zcell005.png")
 
-Go up and give one of the Munna a GourmetTreat to catch it if you want.
+Exit through the top. Inside the wall of the building immediately to your right is a hidden *Reverse Candy*. Head up to watch the scene.
+
+The third tile from the right on the top row of grass hides a *Green Shard*, while a hidden *Super Potion* is just to the left of the top dumpster. Two tiles left of the top-left grass is a hidden *Red Shard*,  while a hidden *Super Repel* is three tiles left of the bottom-left grass. Down the stairs and below the dumpsters is a hidden *Telluric Seed*.
+
+**ZCell 006: Gearen Alleyway**
+
+!img("zcell006.png")
+
+Go up and give one of the **Munna** a GourmetTreat to catch it!
+
+Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
+
+You'll note that Team Xen Grunts are swarming East Gearen. In the northwest:
+
+!battle(["Laurel",:XENGRUNT_F,0], "City Field")
+
+Catch her **Shadow Vanillite**! To the east of the library:
+
+!battle(["Orran",:XENGRUNT_M,0], "City Field")
+
+Catch his **Shadow Wooper** and **Shadow Pidove**! Up from here:
+
+!battle(["Yanny",:XENGRUNT_F,0], "City Field")
+
+Catch her **Shadow Bonsly**! On the right side of East Gearen, east of the Poke Mart:
+
+!battle(["Teepo",:XENGRUNT_M,0])
+
+!battle(["Vera",:XENGRUNT_F,0])
 
 One more quest we can do now takes place at the Chrisola Hotel.
 
@@ -38,7 +66,9 @@ Head out to the lobby and find it near the elevator. Then enter the left hallway
 
 Go to Gearen Park and fight the Grunts on the east side of the park.
 
-Return to the old woman, who'll let you battle to catch **Minccino!**
+!dbattle(["Wilbur",:XENGRUNT_M,0], ["Hayleigh",:XENGRUNT_F,0], "Grassy Terrain")
+
+Return to the old woman in the hotel, who'll let you battle to catch **Minccino!**
 
 Especially if you've been catching all the Pokemon so far, you probably will have enough AP to get the Golden Hammer. This makes it so we don't need to teach Rock Smash to any Pokemon in order to smash rocks!
 

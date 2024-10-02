@@ -300,7 +300,7 @@ On your way out, Luck will tell you that he wants more Black Prisms.
 
 If you collect Black Prisms, come back here to exchange them. Note that the Difficulty Contract lets you switch between the two difficulties for free, if you need to.
 
-## Sewers Visit 1
+## Abandoned Sewers
 
 To progress the story, head north into Venam's front yard. Head to the Emporium to get a *Pecha Berry?* from the attendant, then give it to Venam.
 
