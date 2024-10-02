@@ -53,12 +53,29 @@ FIELDS = {
   STARLIGHT: 'Starlight Arena',
   NEWWORLD: 'New World',
   INVERSE: 'Inverse Field',
-  PSYTERRAIN: 'Psychic Terrain'
+  PSYTERRAIN: 'Psychic Terrain',
+  VOLCANIC: 'Volcanic Field',
+  VOLCANICTOP: 'Volcanic Top',
+  DIMENSIONAL: 'Dimensional Field',
+  FROZENDIMENSION: 'Frozen Dimensional Field',
+  HAUNTED: 'Haunted Field',
+  CORRUPTED: 'Corrupted Cave',
+  BEWITCHED: 'Bewitched Woods',
+  SKY: 'Sky Field',
+  COLOSSEUM: 'Colosseum',
+  INFERNAL: 'Infernal Field',
+  CONCERT1: 'Concert Venue',
+  CONCERT2: 'Concert Venue',
+  CONCERT3: 'Concert Venue',
+  CONCERT4: 'Concert Venue',
+  DEEPEARTH: 'Deep Earth',
+  BACKALLEY: 'Backalley',
+  CITY: 'City',
 }
 
 SECTIONS = { 
   'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 
-  'rejuv' => [['main', 1], ['post', 0], ['appendices', 1]] } #TODO
+  'rejuv' => [['main', 2], ['post', 0], ['appendices', 1]] } #TODO
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
               GoodRod: 'goodrod', SuperRod: 'superrod' }
@@ -467,6 +484,15 @@ def load_trainer_hash(game, scripts_dir)
   ret
 end
 
+def load_boss_hash(game, scripts_dir)
+  begin
+    data = File.read(File.join(scripts_dir, game.capitalize, 'BossInfo.rb'))
+    return eval(data)
+  rescue
+    return {}
+  end
+end
+
 def load_trainer_type_hash(game, scripts_dir)
   data = File.read(File.join(scripts_dir, game.capitalize, 'ttypetext.rb'))
   eval(data)
@@ -585,6 +611,12 @@ def hp_str(move, hptype)
   return '' unless move == 'Hidden Power'
 
   " (#{hptype.to_s.capitalize!})"
+end
+
+def is_custom_form(form_key)
+  # TODO this part for more forms
+  form_frags = ["pulse", "rift", "aevian form", "bot", "purple", "crystal", "mismageon", "meech", "dev"]
+  form_frags.any? { |key| form_key.downcase.include?(key) }
 end
 
 class EncounterMapWrapper

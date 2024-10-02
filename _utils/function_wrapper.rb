@@ -19,6 +19,7 @@ class FunctionWrapper
     @encHash = load_enc_hash(game, @scriptsDir)
     @itemHash = load_item_hash(game, @scriptsDir)
     @trainerHash = load_trainer_hash(game, @scriptsDir)
+    @bossHash = load_boss_hash(game, @scriptsDir)
     @trainerTypeHash = load_trainer_type_hash(game, @scriptsDir)
     @typeHash = load_type_hash(game, @scriptsDir)
     @moveHash = load_move_hash(game, @scriptsDir)
@@ -28,7 +29,7 @@ class FunctionWrapper
 
     @encGetter = EncounterGetter.new(game, @scriptsDir, @encHash, @mapHash, @encMapWrapper, @pokemonHash)
     @shopGetter = ShopGetter.new(game, @scriptsDir, @itemHash)
-    @trainerGetter = TrainerGetter.new(game, @scriptsDir, @trainerHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash,
+    @trainerGetter = TrainerGetter.new(game, @scriptsDir, @trainerHash, @bossHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash,
                                        @pokemonHash, @typeHash)
 
     @shortNames = {
@@ -44,7 +45,10 @@ class FunctionWrapper
       'wildheld' => 'generate_wild_held_markdown',
       'tutor' => 'generate_tutor_markdown',
       'partner' => 'generate_partner_markdown',
-      'pickup' => 'generate_pickup_markdown'
+      'newself' => 'generate_newself_markdown',
+      'pickup' => 'generate_pickup_markdown',
+      'boss' => 'generate_boss_markdown',
+      'move' => 'generate_move_markdown'
     }
   end
 
@@ -249,8 +253,6 @@ class FunctionWrapper
     html_output.split("\n")[1..].join("\n")  # Format output similar to your example
   end
   
-  
-
   def generate_encounter_markdown(map_id, include_list = nil, rods = nil, custom_map_name = nil)
     @encGetter.get_encounter_md(map_id, include_list, rods, custom_map_name)
   end
@@ -259,8 +261,18 @@ class FunctionWrapper
     @shopGetter.generate_shop_markdown(shop_title, shop_items)
   end
 
+  def generate_move_markdown(move_name)
+    # Creates nokogiri HTML
+    m = @moveHash[move_name.to_sym]
+    "#{m[:name]}: #{m[:type].to_s.capitalize} \\| #{m[:category].to_s.capitalize} \\| #{m[:basedamage]} Pwr \\| #{m[:accuracy]}% Acc \\| #{m[:desc]}"
+  end
+
   def generate_trainer_markdown(trainer_id, field = nil)
     @trainerGetter.generate_trainer_markdown(trainer_id, field)
+  end
+
+  def generate_boss_markdown(boss_name, field = nil)
+    @trainerGetter.generate_boss_markdown(boss_name.to_sym, field)
   end
 
   def generate_battle_tower_singles_bosses_markdown
@@ -296,7 +308,7 @@ class FunctionWrapper
   end
 
   def generate_bp_trainer_markdown(trainer_id, field_text = 'Random Field', team_name = '')
-    @trainerGetter.generate_trainer_markdown(trainer_id, field = field_text, nil, false, name_ext = team_name)
+    @trainerGetter.generate_trainer_markdown(trainer_id, field = field_text, nil, 0, name_ext = team_name)
   end
 
   def generate_double_markdown(trainer_id1, trainer_id2, field = nil)
@@ -304,7 +316,11 @@ class FunctionWrapper
   end
 
   def generate_partner_markdown(trainer_id)
-    @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, true)
+    @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 1)
+  end
+
+  def generate_newself_markdown(trainer_id, new_title)
+    @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 2, new_title)
   end
 
   def generate_tutor_markdown(tutor_title, moves)
