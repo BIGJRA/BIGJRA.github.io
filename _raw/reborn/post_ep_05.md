@@ -141,7 +141,7 @@ You can get a hidden *Max Potion* and *Ultra Ball* on the top floor. The next ha
 
 !img("zcell_29.jpg")
 
-Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also contains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poké Ball*. Talk to our pal when you're ready for a fight.
+Climb back up and use the ladder on the other side of the waterfall to descend. On this floor, cross the waterfall to get a *Timer Ball*. This area also contains a hidden *Heart Scale* and *Oran Berry*. The floor after this contains a hidden *Level Ball* and *Full Restore*. Back on the lowest level, you can get a hidden *Poke Ball*. Talk to our pal when you're ready for a fight.
 
 !battle(["Cain", :UMBCAIN, 0], "Dark Crystal Cavern")
 

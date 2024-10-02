@@ -40,7 +40,7 @@ There are a ton of sidequests and main quests that will take us all over the cit
 
 With 13 Badges, the default shop inventory has updated: 
 
-!shop("Default Mart (13-16 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
+!shop("Default Mart (13-16 Badges)", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion"])
 
 !enc(519, ["Grass", "Headbutt"])
 
@@ -64,7 +64,7 @@ Back outside, go to the right towards the underground railroad. Enter the area u
 
 Follow this path through to South Obsidia Ward to get a *White Flute*. Return to Peridot.
 
-Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poké Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
+Heading to the upper side of the ward, we can get a hidden *Ice Heal*, *Carbos*, *Guard Spec.*, *Escape Rope*, *Poke Ball*, *Purple Shard*, *Nugget*, *Green Shard*, *Ultra Ball*, and *Blast Powder*.
 
 In the plot of the former Mosswater Factory there is now a market.
 
@@ -218,7 +218,7 @@ Enter the Critical Capture building. You can pick up a *Critical Application*. T
 
 !shop("Critical Capture (Left)", ["Repeat Ball", "Luxury Ball", "Dusk Ball", "Heal Ball", "Quick Ball", "Dream Ball", "Cherish Ball", "Level Ball", "Lure Ball"])
 
-Talk to the other person in here and he will take the Corrupted Poké Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
+Talk to the other person in here and he will take the Corrupted Poke Ball we found a long time ago as well as a Magnet Powder. You'll get **Ralts**!
 
 Enter the Sweet Kiss Candy store.
 
@@ -445,7 +445,7 @@ On the right side you can enter a house (marked 3) containing a *Relic Silver* a
 
 !img("azurine_553_1.png")
 
-Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poké Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
+Up from here, you can find hidden *Blue Shard*, *Ultra Potion*, and *Poke Ball*. On the left is Fairview 14, which we now have the key to! Inside, you can get a *Relic Gold* as well as the hidden *S9 Key*. Up from here you'll find an open house (5) containing a *Relic Copper* and the *F34 Key* hidden.
 
 !img("azurine_567_2.png")
 
@@ -525,9 +525,9 @@ In the top left corner, a building is unlocked (16) and contains a *Glitter Ball
 
 !img("azurine_558_1.png")
 
-On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poké Ball*.
+On this map, you'll find a hidden *Ultra Ball*, *Ether*, *Awakening*, and *Poke Ball*.
 
-In the top right corner, enter an unlocked building (17) to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building (18) containing a *Relic Silver* as well as hidden *Red-Hots*, *PokéSnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
+In the top right corner, enter an unlocked building (17) to get the *Splash Plate* as well as hidden *Salt-Water Taffy* and a *Blue Shard*. Down and right from here you'll reach a large unlocked building (18) containing a *Relic Silver* as well as hidden *Red-Hots*, *PokeSnax*, and the *K22 Key*. We can unlock the K33 building to the left from here to get a *Relic Copper* as well as a hidden *Purple Shard* and *Common Candy*. In this building you can also talk to the upper left cabinet and use an antidote to get a **Mudkip**!
 
 Enter the building to the left (19) to get a hidden *Blue Shard*, *Purple Shard* and the *K5 Key*. Left and up from here you can enter the K22 building to get a *Relic Copper* as well as a hidden *Blue Shard* and the *K2 Key*. Head all the way up in the underwater section and enter K2 to get the hidden *F10 Key*. Around to the right you can enter K5 and get a *Max Revive*. Nice.
 

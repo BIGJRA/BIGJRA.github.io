@@ -6,7 +6,7 @@ Anyways, exit Hardy's gym.
 
 First, a new default mart inventory update:
 
-!shop("Default Mart (17 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion", "Max Potion"])
+!shop("Default Mart (17 Badges)", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Ultra Potion", "Max Potion"])
 
 Now that we've defeated Hardy, there is one final move tutor in Peridot Ward's Mosswater Market:
 
@@ -285,7 +285,7 @@ Fun fact: this NPC was put in the game in honor of forum user LykosHand, who fre
 
 With all 18 badges, there is one more Default Mart update as well:
 
-!shop("Default Mart (18 Badges)", ["Poké Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion", "Ultra Potion", "Max Potion", "Full Restore", "Revive"])
+!shop("Default Mart (18 Badges)", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope", "Full Heal", "Hyper Potion", "Ultra Potion", "Max Potion", "Full Restore", "Revive"])
 
 ## Victory Road
 
@@ -666,7 +666,7 @@ Head down from here, and you'll find yourself in the left side of this large roo
 
 Make your way back to the center of the room and continue climbing rocks up and to the right. To the right of where Fern trapped us, get a hidden *Ultra Potion* then climb up and grab the hidden *Muscle Wing*. Exit out to a lower section of Charous Path.
 
-When you reach a fork, go down the rocks to get the *Metagrossite*! Back on the main path is a hidden *Synthetic Seed*, *Calcium*, and *PokéSnax*.
+When you reach a fork, go down the rocks to get the *Metagrossite*! Back on the main path is a hidden *Synthetic Seed*, *Calcium*, and *PokeSnax*.
 
 At the bridge, on Zekrom route, you'll see a story sequence play out. On Reshiram route, you'll obtain Taka's Chatot. Grab the *Purple Shard* and continue into the next room.
 

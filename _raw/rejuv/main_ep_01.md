@@ -74,7 +74,7 @@ The EV training center can be accessed by talking to the woman on the right of t
 
 The guy running in place on the left will offer to give you cinematic bars during important cutscenes if you want. Talk to the girl behind the counter to buy some basic products.
 
-!shop("Gearen Lab Shop", ["Poké Ball", "Potion", "Repel", "Antidote"])
+!shop("Gearen Lab Shop", ["Poke Ball", "Potion", "Repel", "Antidote"])
 
 I recommend picking up at least a few Poke Balls as a full team is almost necessary to succeed in Rejuvenation.
 
@@ -208,7 +208,7 @@ You can pick up a few of each berry for the gym.
 
 The PokeMart is below.
 
-!shop("East Gearen Mart", ["Poké Ball", "Burn Heal", "Potion", "GourmetTreat", "Repel", "Reverse Candy"])
+!shop("East Gearen Mart", ["Poke Ball", "Burn Heal", "Potion", "GourmetTreat", "Repel", "Reverse Candy"])
 
 To the left, only during the daytime on weekdays there is a vendor:
 
@@ -468,7 +468,7 @@ Return to the help center to get your reward: $1100, a *GourmetTreat*, and *TM11
 
 It's time to take on Venam's gym in East Gearen.
 
-!shop("East Gearen Gym Shop", ["Potion", "Antidote", "Repel", "Poké Ball"])
+!shop("East Gearen Gym Shop", ["Potion", "Antidote", "Repel", "Poke Ball"])
 
 Talk to the trainers around the gym.
 
@@ -564,7 +564,7 @@ Grab *TM60 Quash* to the north, then proceed to Goldenwood Forest. Melia will jo
 
 !partner(["Melia",:TRAINER_MELIA1,0])
 
-!enc(25, ["Land", "Fishing"], ["Old"])
+!enc(25, ["Grass", "Fishing"], ["Old"])
 
 Talk to the fisherman here to start *The Big Catch!* quest.
 

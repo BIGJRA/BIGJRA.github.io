@@ -123,7 +123,7 @@ Fly over to Vanhanen Castle and go in. Where we once fought Cain, you'll see a N
 
 Enter the door in the top right, follow the path, and talk to the orb. Return to the New World hub. This time, follow the door in the top left. Talk to the orb at the end and return. Finally, go to the bottom right and talk to the Shiinotic.
 
-!battle(["Pokémon", :SHIINOTIC, 0], "Chess Board")
+!battle(["Pokemon", :SHIINOTIC, 0], "Chess Board")
 
 Talk to the next orb. The door at the top of the hub will now be open: follow it and defeat another Shiinotic. Grab the next orb.
 

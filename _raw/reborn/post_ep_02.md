@@ -73,7 +73,7 @@ If you haven't done [North Aventurine Woods](#north-aventurine-woods-exploration
 
 Towards the east side of Route 1, grab a Tauros and enter the fourth entrance (4N) to North Aventurine Woods. There's a ledge right and up you can climb to reach a New World Door.
 
-!enc(834, ["Land"], nil, "New World (Route 1 North)")
+!enc(834, ["Grass"], nil, "New World (Route 1 North)")
 
 As you climb the stairs, hug the left wall and follow the path.
 

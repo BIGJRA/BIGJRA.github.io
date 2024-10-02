@@ -54,9 +54,9 @@ Catch his **Shadow Wooper** and **Shadow Pidove**! Up from here:
 
 Catch her **Shadow Bonsly**! On the right side of East Gearen, east of the Poke Mart:
 
-!battle(["Teepo",:XENGRUNT_M,0])
+!battle(["Teepo",:XENGRUNT_M,0], "City Field")
 
-!battle(["Vera",:XENGRUNT_F,0])
+!battle(["Vera",:XENGRUNT_F,0], "City Field")
 
 One more quest we can do now takes place at the Chrisola Hotel.
 
@@ -204,146 +204,109 @@ You'll be taken back to East Gearen afterwards.
 
 ## Post-Galvantula Sidequests
 
-Back in the city, two optional things we can do now: first, talk to Zumi in the library, who'll give you the *Advanced Pokedex* if you caught Dedenne. She'll also send you on the next mission to get Drifloon.
+Back in the city, a few optional things we can do now: first, talk to Zumi in the library to continue *PictoZumi*. She'll give you the *Advanced Pokedex* if you caught Dedenne. She'll also send you on the next mission to get Drifloon.
 
-Second, if you go to the Chrisola Hotel, our travels to Route 2 will prompt the girl in the first room in the right hallway to give you **Shinx**!
+The Advanced Pokedex is pretty cool: it shows basically all the details you'd normally need to crawl Bulbapedia for, including even Egg Moves, evolution details, and more. Simply navigate to a page of a caught Pokemon, scroll all the way over, and navigate with A.
+
+Next, head into the Help Center and talk to Ayuda. Now that we've gotten 10 Cells, we'll get a *Cell Imprint*! This item lets you set any IV to 31, which is neat. Our next milestone will be 15 Zygarde Cells.
+
+Finally, if you go to the Chrisola Hotel, talk to the woman in the first room in the right hallway to give you **Shinx**!
 
 ## Amethyst Cave 2
 
-Anyways, back in Amethyst Cave, we can head north. Smash the rock and pick up the hidden *Red Shard* in the rail below. The wall behind a rock to the right has a *Super Potion*, and the second minecart above contains a *Mineral Ball*. The rail to the left of this minecart and one tile up contains a *Green Shard*. To the left, the wall down from the rock to smash is a *Zinc*, and the machine above here has a *Mineral Ball*. The wall to the left of the leftmost machine contains a *Reverse Candy*.
+Make your way all the way back to Route 2 and re-enter Amethyst Cave. You can make your way all the way down to where we fought Galvantula to get a hidden *Electric Gem* in the top left minecart's bottom right corner.
 
-We can't really access the meadow yet, so head right and up. Talk to the hooded guy then get a hidden *Electric Gem* in the right rock. In the next room, the wall immediately on the right contains a *Genius Wing*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. On the right side of the room, the top box contains an *X Attack*. Head through the southeast exit.
+Back at the entrance, head up. Smash the rock and pick up the hidden *Red Shard* in the rail below. The wall behind a rock to the right has a hidden *Super Potion*, and the second minecart above contains a hidden *Mineral Ball* in the middle. The rail to the left of this minecart and one tile up contains a *Green Shard*. To the left, the wall down from the rock to smash is a *Zinc*, and the machine above here has a *Mineral Ball*. The wall to the left of the leftmost machine contains a *Reverse Candy*. 
+
+Head left and exit to River's End. We can't do much here yet, but grab a hidden *Blue Shard* in the purple flower in the second column and a *Green Shard* in the pink flower in the third-from-right column.
+
+Back in the cave, go right. 
+
+!battle(["Edward",:TECH,0], "Crystal Cavern")
+
+Talk to the hooded guy then get a hidden *Electric Gem* in the right rock, then proceed to the next room.
+
+The wall immediately on the right contains a *Genius Wing*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. 
+
+!battle(["Era",:LADY,0], "Crystal Cavern")
+
+On the right side of the room, the top box contains an *X Attack*. Head through the southeast exit.
 
 A box to the right contains a *Repel*. Down and to the right, the right side of a drill machine contains an *X Defend* and the last rock contains a *Rock Gem*. Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
 
 In the altered dimension, solve her difficult puzzles and prepare for a battle.
 
-Apprentice Nim (Psychic Terrain)
--   Inkay, Level 20.
-    -   Psywave
-    -   Feint Attack
-    -   Hypnosis
-    -   Swagger
--   Darumaka, Level 20.
-    -   Fire Fang
-    -   Bite
-    -   Headbutt
-    -   Taunt
--   Lunatone, Level 21. @ Passho Berry.
-    -   Rock Slide
-    -   Ancientpower
-    -   Cosmic Power
-    -   Confusion
--   Solrock, Level 21. @ Rindo Berry.
-    -   Rock Slide
-    -   Fire Spin
-    -   Psywave
-    -   Cosmic Power
+!battle(["Nim",:APPRENTICE,0], "Psychic Terrain")
 
 The Solrock and Lunatone can be frustrating with Rock Slide, but anything speedier can knock them out without much difficulty. Inkay won't be that much of a threat, so you can probably do well by letting it sit there while you beat up on the other side. Hidden Power is boosted in this field, so if you have it on your special attackers, especially those with type advantages, you'll be fine.
 
 **Relationship Point Choices**:
 - Yes (Nim +2)
-- No. (Nim -2)
+- No (Nim -2)
 
 She'll give you the *Room ID Card*! When you are back in the cave, the wall to the left of the bottom stairs contains a *Super Potion*, and the one above and right of the top stairs contains a *Reverse Candy*. Head into Sheridan Village to the north.
 
 ## Sheridan Village
 
-Listen to a cutscene with Aelita and the Elder. At the moment it costs money to heal here, so we're gonna start by heading all the way north into Sheridan Arena. Then knock on Keta's door at the very top, then enter the inn back in the village. Head upstairs.
+Listen to a cutscene with Aelita and the Elder. At the moment it costs money to heal here, so we're gonna start by heading all the way north into Sheridan Arena via going the left path.
+
+!battle(["Alexander",:BLACKBELT,0], "Forest Field")
+
+!battle(["Charles",:BLACKBELT,0], "Forest Field")
+
+Knock on Keta's door at the very top, then enter the inn on the east side of the village. Head upstairs.
 
 **Relationship Point Choices**:
 - I will. (Aelita +3)
 - Why me?? (Aelita -1)
 
-Now healing is free, so we can explore Sheridan Village now.
+Now healing is free. Talk to the woman downstairs to sleep once, and we will explore Sheridan Village now.
 
-Sheridan Village
+Talk to a girl in the lobby of the inn to get a *Sweet Heart*. Talk to a girl in the first room on the left in the vertical hallway and take on the *Lost Boyfriend* quest.
 
-| Grass: Morning/Day| %    | Grass: Night    | %    | Old Rod       | %    |
-|-------------------|------|-----------------|------|---------------|------|
-| **Makuhita**      | 34   | **Zigzagoon**   | 30   | **Goldeen**   | 70   |
-| **Zigzagoon**     | 30   | Chingling       | 25   | Finneon       | 30   |
-| Spearow           | 15   | Hoothoot        | 16   |               |      |
-| Kricketot         | 15   | **Makuhita**    | 10   |               |      |
-| **Kricketune**    | 5    | **Dustox**      | 10   |               |      |
-| **Ledyba**        | 1    | Kricketot       | 5    |               |      |
-|                   |      | **Kricketune**  | 4    |               |      |
+Outside, go east. Above the boxes is a hidden *Ability Capsule*. A trainer is wandering around to the left.
 
-|Rock Smash     | % |
-|---------------|---|
-|Geodude        |96 |
-|Diglett        |4  |
+!battle(["Jessibelle",:AROMALADY,0], "Forest Field")
 
-Enter the first house and talk to a girl. This opens a quest for way later.
+!enc(423, ["Grass", "Fishing", "Rock Smash"], ["Old"])
 
-Go left to enter the shop.
+Go down for another fight:
 
-Sheridan Village Shop
+!battle(["Lilith",:CRUSHGIRL,0], "Forest Field")
 
-|Item           | Price     |
-|---------------|-----------|
-|*Poke Ball*    | $200      |
-|*Great Ball*   | $600      |
-|*Potion*       | $300      |
-|*Super Potion* | $700      |
-|*Ice Heal*     | $250      |
-|*Antidote*     | $100      |
-|*GourmetTreat* | $1500     |
-|*Super Repel*  | $500      |
-|*Reverse Candy*| $50       |
+Enter the Move Tutor House just above the entrance to the village, and talk to a girl. This opens a quest for way later.
 
-Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to her to get a free *Moomoo Milk* sample, then her shop will open. Note that Berry Juice can be a pretty good hold item at this stage of the game. It is only open on Monday, Wednesday, Friday, and Sunday Mornings.
+Go left to enter the Sheridan General Shop.
 
-Sheridan Village Drinks Shop (1 Badge)
+!shop("Sheridan General Shop", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Ice Heal", "Antidote", "GourmetTreat", "Super Repel", "Reverse Candy"])
 
-|Item           | Price     |
-|---------------|-----------|
-|*Berry Juice*  |$100       |
+Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to her to get a free *Moomoo Milk* sample, then her shop will open. Berry Juice can be a pretty good hold item at this stage of the game! It is only open on Monday, Wednesday, Friday, and Sunday Mornings.
 
-You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*.
+!shop("Sheridan Village Drinks Shop", ["Berry Juice"])
 
-You'll notice a trucker up from here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible.
+You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*. Up from here:
 
-Head east. Above the boxes is a hidden *Ability Capsule*. Enter the inn. Talk to a girl in the lobby to get a *Sweet Heart*. Talk to a girl in the first room on the left in the vertical hallway and take on her quest. The woman on the right in the hall will offer to teach you a few more moves for shards:
+**ZCell 011: Sheridan Village**
 
-Sheridan Village Move Tutor
+!img("zcell011.png")
 
-|Move       | Price         |
-|-----------|---------------|
-|Worry Seed |2 Red Shards   |
-|Uproar     |2 Green Shards |
+You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible.
 
-There is an Audino breeder towards the top: every time you beat them, you will get 3 *Exp. Candy S*. Once you're ready, we can take care of some side quests.
+North of here is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
 
+!battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
 
+Take your Jigglypuff and any other Pokemon in the Fairy egg group to the nearby daycare, and breed to get **Igglybuff**. Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon*!
 
-There is a day care in town. Take your Jigglypuff and any other Pokemon in the Fairy egg group there and breed to get **Igglybuff**. Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon*!
+Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
 
-Talk to the truck guy and have him take you back to Gearen City. In Jenner's lab, use the Room ID Card to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
+Return to Sheridan, then go to the Sheridan Arena at the top.
 
-Head into the Gearen Lab and go to Jenner's lab. Head to the left and talk to Professor Hawthorne. He wants a Dex that has seen 100 Pokemon. This is an easy goal if you haven't been avoiding all the trainers and optional battles. Grab either the **Elekid** egg or the **Magby** egg and read Jenner's journal if you want.
+!enc(424, ["Grass", "Fishing"], ["Old"])
 
-Talk to him again, and he'll request a dex with 350 seen. You might not have this yet but once you do, he'll offer you the other of the Johto baby eggs.
+On the right:
 
-Return to Sheridan Arena at the top.
-
-Sheridan Arena
-
-| Grass: Morning/Day| %    | Grass: Night| %    | Old Rod   | %    |
-|-------------------|------|-------------|------|-----------|------|
-| Makuhita          | 34   | Zigzagoon   | 30   | Goldeen   | 70   |
-| Zigzagoon         | 30   | Chingling   | 25   | Finneon   | 30   |
-| **Fletchinder**   | 15   | Hoothoot    | 16   |           |      |
-| Kricketot         | 15   | Makuhita    | 10   |           |      |
-| Kricketune        | 5    | Dustox      | 10   |           |      |
-| Ledyba            | 1    | Kricketot   | 5    |           |      |
-|                   |      | Kricketune  | 4    |           |      |
-
-| Rock Smash | % |
-|------------|---|
-| Geodude    | 96|
-| Diglett    | 4 |
+!battle(["Natalia",:CRUSHGIRL,0], "Forest Field")
 
 Head up and talk to the **Swablu** flying overhead for a battle. Return to Keta's house and talk to him in his garden.
 
@@ -351,180 +314,131 @@ Head up and talk to the **Swablu** flying overhead for a battle. Return to Keta'
 - I am. (Keta +2)
 - But i just got here... (Keta -2)
 
-## Amethyst Grotto and Sheridan Help Quests
+After accepting Keta's quest, head south out of the village and go back all the way through Amethyst Cave. 
 
-After accepting Keta's quest, head all the way out of the village and go back all the way through Amethyst Cave. In the second room, interact with this box of plants, then head north. Go to the west side of the room, where you'll see a man getting assaulted by **Solrock**. Challenge it to a battle and catch it to proceed.
+To continue the *Lost Boyfriend* quest, talk to the box of plants near the water in the second room, then head north. Go to the west side of the room, where you'll see the man getting assaulted by **Solrock**. Challenge it to a battle and catch it to proceed.
 
 Continue through the cave. Once at the entrance, head west until you see a red rock. Touch the stone, and a door will open. Enter and go downstairs. On the left above a tree is a hidden *Moon Ball*.
 
-Amethyst Grotto
+!enc(488)
 
-| Grass         | %        |
-|---------------|----------|
-| **Dunsparce** | 36       |
-| Meowth        | 31       |
-| Jigglypuff    | 25       |
-| **Girafarig** | 8        |
-
-On the right side, two tiles right and three tiles above the rock smash is a hidden *Red Shard*. A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another *Red Shard*.
+On the right side, two tiles right and three tiles above the lower rock smash is a hidden *Red Shard*. A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another hidden *Red Shard*.
 
 Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone*. Then exit and watch the scene and fast travel back to Sheridan.
 
-Returning to the inn in Sheridan you'll be given $8000 for saving the guy.
+## Sheridan Help Quests
+
+Returning to the inn in Sheridan to complete the *Lost Boyfriend* quest. You'll be given $8000 for saving the guy.
 
 Now is a good time to do the Sheridan Village Help Quests. The help center is in the upper right part of the village.
 
-### HQuest 8: Hidden Library 2
+### The Hidden Library 2
 
-Start outside the help center and talk to the backpacker. Truck to Gearen, then go to the Chrisola Hotel and talk to Karen in front.
+Start outside the help center and talk to the backpacker. Truck on over to Gearen, then go to the Chrisola Hotel and talk to Karen in front.
+
+**Relationship Point Choices:**
+- The Hidden Library (+2 Karen)
+- Looking for a BATHROOM (+1 BIGJRA... just kidding. Neutral)
 
 Head to Dr. Jenkel's lab and watch the scene. Go to Gearen Park and talk to Karen. Enter the library.
 
-Pick up the green book behind the pillar at the entrance. Enter the main chamber and pick up the blue book. We can encounter Pokemon here, but there's only 1 type: **Unown**!
+!enc(418)
 
-Pick up the purple book nearby. To the right there is a 2-tile space without a bookshelf on the bottom, one tile up from the right one contains an *Ether*.
+Head to the left, then go down and enter the door. Grab *TM19 Secret Power* here. Go up and right, then enter the room on the right. There are nine colorful books in this room - pick them all up, with the help of bookcase ladders to get up high. Once you do, put them in the bookshelf in the top right corner to battle and catch **Elgyem**!
 
-Go right for the orange book and up for the red book. Also:
+In the previous room, go up and climb the bookshelf to get *TM63 Embargo*. In the top left:
 
-ZCell 009: Hidden Library
+**ZCell 012: Hidden Library**
 
-<img src="/assets/images/rejuv/image9.png"/>
+!img("zcell012.png")
 
-Go down. Pick up the lime book, and *TM63 Embargo*.
+Go all the way around to the left. One tile above a page near the door at the top, you can get a hidden *Ether*. Enter the room here.
 
-Head back up and go all the way up, picking up the sky-blue book.
+**Relationship Point Choices:**
+- Consolation prize for Karen getting a Mega Ring when you don't... (+2 Karen)
 
-Head up. Next to the door, there are candle things. The second from the top on the right contains a hidden *Charcoal*!
-
-Follow Karen into the north room. On the left, pick up the golden book. On the right, pick up the lemon book.
-
-Now that we have found nine books, head back to where we saw Elgyem flying by earlier. Interact with the bookshelf it's on and place the books inside. A level 1 **Elgyem** will then battle you!
-
-Head back into the upper room and talk to Karen. While she'll get the Mega Ring, you'll get the *Ancient Book*. This will allow you to read Garufan prophecies. Check out the ones on the wall, if you're interested.
+You do at least get the *Ancient Book* and can read some prophesies above.
 
 Head back to Sheridan Village when you're done and talk to the backpacker.
 
-You can choose to give him the book or not. I recommend giving him the book since we can get another later, and if you choose to, you'll get *Blue Moon Ice Cream*!
+You can choose to give him the book or not. If you do give it away, you'll get *Blue Moon Ice Cream*... but to buy another *Ancient Book*, you'll need to shell out $75,000 at the Kecleon Bazaar. Up to you.
 
-Claim your reward: $950 and *Water Stone*! (+1 Karma, +1 Karen Relationship Point)
+Claim your reward: $950 and *Water Stone*! (+1 Karma)
 
-### HQuest 9: Stolen Cargo!
+### Stolen Cargo
 
 Use the trucker to get to Gearen City, then go to Oceana Pier. Head to the southeast, then follow the guy into the warehouse.
 
-If you try to go north, you'll get shocked, and your Pokemon will faint. The key here is to transform the Factory field into Short-Circuit via battling the Electrike trainer in the southwest and getting it to use Discharge. Once you've done this, head through the middle arrows.
+If you try to go north, you'll get shocked, and your Pokemon will faint. The key here is to transform the Factory field into Short-Circuit via battling the Electrike trainer in the southwest and getting it to use Discharge.
 
-Venam will join you for a battle. Once you've won, she'll leave.
+!battle(["Usain",:CUEBALL,0], "Factory Field")
+
+ Once you've done this, head through the middle arrows.
+
+Venam will join you for a battle.
+
+!partner(["Venam",:LEADER_VENAM,1])
+
+!dbattle(["Samwell",:CUEBALL,0], ["Jacksin",:CUEBALL,0], "Factory Field")
+
+**Relationship Point Choices:**
+- Beat the Cue Balls with Venam (+1 Venam)
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
 
-Claim your reward: $950 and five *GourmetTreats*. (+1 Karma, +1 Venam Relationship Point)
+Claim your reward: $950 and *5 GourmetTreats*. (+1 Karma)
 
-### HQuest 10: Trade Me!
+### Trade Me!
 
-First, grab one Aipom from your PC. If you didn't get one yet, go to Route 2 and interact with them. Then go to Sheridan Arena.
+First, grab one Aipom from your PC, or catch one on Route 2 if you haven't already. Then go to Sheridan Arena.
 
 Talk to the girl with blue hair, then trade for **Pancham**.
 
 Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
 
-### HQuest 11: Fetch an Item!
+### Get an Item
 
-Start by heading through Amethyst Cave to Route 2.
+Start by heading through Amethyst Cave to Route 2, then enter the Kecleon Bazaar.
 
-Pick up one of the blue item balls. If you have 50000, you're welcome to pay for the item, but if not, you'll get teleported to the THIEF'S DUNGEON!
+If you have $50,000 in your bag, you'll be offered the item for $20,000. you're welcome to pay for the golden item, but if not, you will have to steal it. If you have at least $20,000 you'll be given one more opportunity to buy it... but otherwise you'll get teleported to the THIEF'S DUNGEON!
 
-After talking to the grunt and getting out, memorize the map on the wall. If you don't take the path outlined, you will get destroyed... Enter the door that corresponds to yellow to get an *Ice Stone* or *Dusk Stone* depending on random chance.
+After talking to the grunt and getting out, memorize the map on the wall. If you don't take the path outlined, you will get destroyed by the Kecleon...
 
-Escape, and return to the help center. Talk to the guy to get *Blue Moon Ice Cream*.
+!battle(["Kecleon",:MERCH,0])
 
-Claim your reward: $1890, Casteliacone! (+1 Karma)
+So make SURE you memorize your unique path. Enter the door that corresponds to yellow to get an *Ice Stone*, *Dawn Stone*, or *Dusk Stone* depending on random chance.
 
-### HQuest 12: Battle Request 2
+Escape, and return to the help center. If you stole it instead of buying it, talk to the guy to get *Blue Moon Ice Cream*.
+
+Claim your reward inside: $1890, Casteliacone! (+1 Karma)
+
+### Battle Me Again!
 
 Prepare your team and talk to Novae at the inn at night.
 
-Wanderer Novae and Dancer Rorim B (Forest Field)
--   Charjabug, Level 24. @ Mental Herb.
-    -   Spark
-    -   Acrobatics
-    -   Dig
-    -   Crunch
--   Galarian Mr. Mime, Level 24.
-    -   Teeter Dance
-    -   Icy Wind
-    -   Disarming Voice
-    -   Psybeam
--   Oricorio Sensu, Level 24. @ Maranga Berry.
-    -   Feather Dance
-    -   Teeter Dance
-    -   Air Cutter
-    -   Revelation Dance
--   Lombre, Level 25. @ Mystic Water.
-    -   Hypnosis
-    -   Rock Tomb
-    -   Bulldoze
-    -   Giga Drain
--   Passimian, Level 25. @ Fighting Gem.
-    -   Rock Tomb
-    -   Bulldoze
-    -   Low Sweep
-    -   Work Up
--   Trumbeak, Level 25.
-    -   Fury Attack
-    -   Rock Smash
-    -   Pluck
-    -   Rock Blast
+!dbattle(["Rorim B.",:DISCOTEEN,2], ["Novae",:WANDERER,1], "Forest Field")
 
-This is a tough one, two of her party members are already fully evolved and hit hard. Again, feel free to save this for later if you must.
+This can be a tough one, but targeting Rorim first tends to make it easier.
 
 After the battle, return to the help center. Your rewards: $1600, and **Clobbopus**. (+1 Karma).
 
-Real quick there's another quest we can do. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave.
+## Karrina's Quest
+
+Real quick there's another quest we can do, though it's not available from the Help Center. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave. Talk to Karrina in the top of the room.
+
+!battle(["Charly",:CUEBALL,0], "Crystal Cavern")
 
 Head up, and beat the guy at the end to get **Houndour**!
 
-That's all we can take care of for now, so head back to Sheridan to see Keta.
+## Diamond Punch Badge
 
-## Diamond Punch Badge? - Badge1.5
+Return to Sheridan Arena when you're ready and talk to Aelita.
 
-As soon as you're ready, talk to Aelita on the battlefield
+!battle(["Keta",:LEADER_KETA,0], "Forest Field")
 
-Sensei Keta (Forest Field)
--   Combusken, Level 22. @ Charcoal.
-    -   Cut
-    -   Gale Strike
-    -   Protect
-    -   Flame Burst
--   Galarian Farfetch'd, Level 23. @ Eviolite.
-    -   Gale Strike
-    -   Brutal Swing
-    -   Pluck
-    -   Quick Attack
--   Scraggy, Level 22. @ Black Belt.
-    -   Brutal Swing
-    -   Gale Strike
-    -   Fake Out
-    -   Rock Tomb
--   Machoke, Level 23. @ Coba Berry.
-    -   Knock Off
-    -   Gale Strike
-    -   Rock Tomb
-    -   Bullet Punch
--   Pignite, Level 23.
-    -   Flame Charge
-    -   Gale Strike
-    -   Rock Tomb
-    -   Fire Punch
--   Lucario, Level 24. @ Black Belt
-    -   Gale Strike
-    -   Poison Sweep
-    -   Rock Tomb
-    -   Bullet Punch
+!move("GALESTRIKE")
 
-Gale Strike: Fighting \| Physical \| 60 power \| 100% accuracy \| Guaranteed critical hit if user is under 50% HP \| On Forest Field, power is boosted x1.5 and deals additional Grass-type damage.
-
-This battle is the first to really show you how well the trainers compensate for their type disadvantages here -- almost everything has a Dark or Rock type move. Scraggy is a good dud to leave out, especially if you can paralyze it -- it doesn't do enough damage to really be threatening at least compared to his other Pokemon. Combusken can be tough once it outspeeds you, but also has Protect so it might be smart to focus your attacks on the other Pokemon. A very tough fight but you have lots of team options to make it more possible.
+This battle is the first to really show you how well the trainers compensate for their type disadvantages here -- almost everything has a Dark or Rock type move. Scraggy is a good dud to leave out on one side of the field, especially if you can paralyze it, as it doesn't do enough damage to really be threatening at least compared to his other Pokemon. Combusken can be tough once it outspeeds you, but also has Protect so it might be smart to focus your attacks on the other Pokemon. Lucario is annoyingly bulky and can hit pretty hard, so focusing on taking it out may be advisable. A very tough fight, but you have lots of team options to make it more possible.
 
 Sensei runs off instead of paying up a badge. Follow Aelita into the waterfall cave.
 
@@ -536,165 +450,104 @@ Sensei runs off instead of paying up a badge. Follow Aelita into the waterfall c
 
 You'll team up with Aelita here, so she'll heal you but catching wild Pokemon is a bit tougher.
 
-Carotos Mountain
+!partner(["Aelita",:STUDENT,0])
 
-| Cave         | %    | Old Rod    | %    |
-|--------------|------|------------|------|
-| **Numel**    | 40   | **Numel**  | 70   |
-| **Slugma**   | 30   | **Slugma** | 30   |
-| **Onix**     | 19   |            |      |
-| **Rolycoly** | 9    |            |      |
-| **Nosepass** | 2    |            |      |
+!enc(119, nil, ["Old"])
 
-On the left, past a rock smash, is *TM121 Fire Spin*.
+Head up and grab *TM121 Fire Spin*. Smashing rocks to the right will lead you to a *Rare Candy*. Continue on the main path.
 
-Once you cross the bridge to the right, prepare for battle and talk to the robotic looking thing. It will challenge you and has a Shadow **Ponyta**!
+!battle(["SEC",:SECURITYSYSTEM,3], "Volcanic Field")
 
-Head through the door, pick up a hidden *Full Heal* in the barrel to the right, and battle the Xen Grunts. The second grunt will have a Shadow **Vanillite**. The third has a Shadow **Bonsly**. Defeat SEC and his Flareon, then pick up the *Red Shard* hidden in the barrel to the right.
+Catch its **Shadow Ponyta**! Head into the next room. Keta will partner with you!
 
-If you head to the right, grab the *Ultra Ball* in the left side of the machine as you go. The bottom left of the four barrels contains a *Reverse Candy*. Down from here, you can grab *TM43 Flame Charge*. Observe the passwords written all over the walls in this floor. There is a *Synthetic Seed* as well as a *Fire Stone* if you follow the path to the right. Right now, this will evolve Pansear.
+!partner(["Keta",:LEADER_KETA,0])
 
-SEC will require you to input a password to move on. The passwords are, in order, BEAUTY, IDOL, SHADOW. Talk to it a few more times and it will challenge you with a Shadow **Quagsire**.
+Go left first.
 
-Once you're ready, go up the elevator and head towards Madelis' Palace. Go inside when you get the chance to, and you'll team up with Keta.
+!battle(["Donald",:XENANALYST_M,0])
 
-Head into the left room. Grab the *Hyper Potion* on the left and *Revive* up above. At the top of the room, grab the *Yellow Key*.
+!battle(["Melly",:XENGRUNT_F,0])
 
-Head back out and go into the right room. Talk to Sharon to get the *Green Key* and grab the *Fresh Water* in the top right. Talk to **Mime Jr**. in the top right to take it with you.
+Step on the Red Switch then proceed to the next room.
 
-Go back and enter the top left room. Grab the *Red Key*.
+!battle(["Maria",:XENANALYST_F,0])
 
-Finally, enter the top right room. Make sure you grab the *Up-Grade, Dusk Ball* and the *Blue Key*.
+!battle(["Sarah",:XENGRUNT_F,0])
 
-Head back out into the foyer and insert each key into the keyholes on the walls.
+Grab the *Revival Herb* in the next room, then step on the Red/Yellow Switch. Go down and into the room on the left, stand on the Blue/Green Switch, then exit and walk through the open gates to the room at the top.
 
-Head up, then up again. You'll now have to fight Madelis.
+!battle(["Demil",:XENGRUNT_M,0])
 
-Xen Executive Madelis (No Field)
--   Floette, Level 22.
-    -   Magical Leaf
-    -   Draining Kiss
-    -   Dazzling Gleam
-    -   Protect
--   Salandit, Level 22.
-    -   Poison Gas
-    -   Flame Burst
-    -   Venoshock
-    -   Fake Out
--   Golbat, Level 24.
-    -   Wing Attack
-    -   Confuse Ray
-    -   Double Team
-    -   Venoshock
--   Cufant, Level 24.
-    -   Iron Head
-    -   Stomp
-    -   Growl
-    -   Rollout
--   Houndoom, Level 25. @ Chople Berry.
-    -   Snarl
-    -   Flamethrower
-    -   Thunder Fang
-    -   Crunch
--   Shadow Mewtwo, Level 27.
-    -   Energy Ball
-    -   Psychic
-    -   Miracle Eye
-    -   Aura Sphere
-    -   Shadow Chill
+!battle(["Jensly",:XENANALYST_M,0])
 
-This one doesn't have to be won, though it is very doable. Winning grants +1 Karma and +1 Relationship Point with Madelis. This battle looks rough, but you'll have Keta on your side, so it's functionally a 12 on 6. A rock type can demolish half of her team, and Keta's fast fighting Pokemon will help you out. Two of them have fake out, so when you get to Mewtwo, try to take advantage of those turns to deal heavy damage to Mewtwo. Mewtwo also takes damage every time it attacks thanks to Fever Pitch, so take advantage of that and dish out as much damage as you can as soon as her other Pokemon are all wiped out.
+Enter the room on the left and read the books if you like. 
 
-Afterwards, head into the door behind Madelis' chair, and go down the lift.
+!battle(["Forrest",:XENANALYST_M,0])
+
+Step on the Yellow Switch then return to the previous room and go up.
+
+!battle(["Aisel",:XENGRUNT_F,0])
+
+Grab the *Hyper Potion* in the next room, then talk to the case beyond the green gate to get an *Up-Grade*! Step on the Green Switch beyond the blue gate then return to the previous room and go right.
+
+!battle(["Alison",:XENGRUNT_F,0])
+
+!battle(["Fern",:XENANALYST_M,0])
+
+Grab the *Dusk Ball* in the bottom left, then step on the Blue/Green Switch. Return to the top left room, talk to the case on the left to get **Mime Jr.**, then step on the Green Switch. Return to the previous room, head up and grab the *Fresh Water*, then proceed.
+
+!battle(["Madelis",:XENEXECUTIVE_2,0])
+
+This one doesn't have to be won, though it is very doable. Essentially, Mewtwo will charge an attack for 10 turns - once it's charged, you lose. Turns where it cannot attack at all such as by Paralysis will delay this timer. Every turn until then will have Mewtwo using its intermediate attack, Shadow Beam, which hits both sides of the field but will always go last in a turn.
+
+You have Keta on your side, so it's functionally a 12 on 6. Keta's Pokemon also tend to attack Mewtwo, so simply wailing on Mewtwo and ignoring Cufant is the move - it is pretty unlikely the Charge Attack will finish charging. Past that, a rock type can demolish half of her team, and Keta's fast fighting Pokemon will help you out. Two of them have fake out, so when you get to Mewtwo, try to take advantage of those turns to deal heavy damage to Mewtwo. Mewtwo also takes damage every time it attacks thanks to Fever Pitch, so take advantage of that and dish out as much damage as you can as soon as her other Pokemon are all wiped out.
+
+**Relationship Point Choices:**
+- Defeat Madelis in battle with Keta (+1 Madelis, +1 Karma)
+
+**Relationship Point Choices:**
+- Thanks, Aelita (+2 Aelita)
+- I can handle myself. (-2 Aelita)
+
+**Relationship Point Choices:**
+- He's trying. (+1 Aelita)
+- He threw Sheridan away. (Neutral)
+- He's a terrible person. (-4 Aelita)
+
+Grab *TM43 Flame Charge* below, then open the door to the Generator Room above and head in.
+
+!battle(["SEC",:SECURITYSYSTEM,4])
+
+Unfortunately, without our snag machine, we can't catch this Quagsire nor future Shadow Pokemon until we fix it. Talk to the monitor next to you and transfer Volcanion to Carotos Mountain. Exit at the bottom and follow the path out to the main part of the Mountain, then go up.
+
+Grab the *Code Statia Rift Notes* and head up.
 
 We haven't had enough legendary battles with only one gym badge quite yet, so follow Aelita up and grab the *Rift Dex Info*.
 
 After a brief scene, you'll be taken into a rift space. Talk to Volcanion and answer its question and the battle will begin!
 
-Dimensional Rift Volcanion
--   Volcanion, Level 23. @ Demon Stone. Ability: Water Absorb. Stat
-    Spread: 110/60/80/90/200/20. 2 Shields.
-    -   Water Pulse
-    -   Flamethrower
-    -   Bulldoze
-    -   Rock Slide
+!boss("RIFTVOLCANION", "Dimensional Field")
 
-So, you'll probably be faster than this guy. With only 110/80 on the physical side, it's not too hard to whittle its shields, then its entire health bar down with some decent STAB moves.
+So, you'll probably be faster than this guy. Light Screen or SpD boosting will help you here. Hack away at its shields with some decent STAB moves.
+
+Return to Madelis' Castle at the top, and use the warp to reach the back room.
 
 Once you're free, head to the gate in Sheridan, and enter the spring.
 
-Spring of Purification
+!enc(206, ["Grass", "Fishing"], ["Old"])
 
-| Grass        | %    | Old Rod/Good Rod    | %    |
-|--------------|------|---------------------|------|
-| Bellsprout   | 46   | Goldeen             | 100  |
-| Zigzagoon    | 20   |                     |      |
-| Illumise     | 10   |                     |      |
-| Volbeat      | 10   |                     |      |
-| Paras        | 10   |                     |      |
-| Oddish       | 4    |                     |      |
+Pick up the *Magical Seed* up from the entrance. Head up and talk to the pair. Answer "Are you ok?" to the Eldest for +1 Karma. Once you leave the shrine, Keta will ask you to fast travel to Amethyst Grotto. Accept this fast travel request. 
 
-Pick up the *Magical Seed* up from the entrance. Head up and talk to the pair.
+Head up to talk to Keta. You'll receive *TM103 Stacking Shot* as well as the Diamond Punch badge! Our level cap is now Lv. 30.
 
-**Relationship Point Choices**:
-- Are you ok? (+1 Karma)
-- Who's Vivian? (Neutral)
+By talking to the butterfly at the top of the map, we can now fight Keta's spirit if we wish, but it's a bit too high leveled for our party right now. Make your way back to Sheridan!
 
-Once you leave the shrine, Keta will ask you to fast travel to Amethyst Grotto. If you're ready, feel free. Otherwise, we now have up to 7 new Pokemon we can use by purifying them! Shadow Pokemon in Rejuvenation have moves they can't normally get, for example Ponyta has Fell Stinger and Bonsly has Shift Gear. To purify, keep the shadow Pokemon in your party and run around, or use the Purify Chamber in the PC.
+It's worth noting that we now have access to the Purify Chamber in the PC! Shadow Pokemon in Rejuvenation have moves they can't normally get, for example Ponyta has Fell Stinger and Bonsly has Shift Gear. Stick them in the Purify Chamber to get them slowly purified.
 
 One more thing we can do: head into the house in the bottom right of Sheridan. Gothitelle will battle us!
 
-Crescent's Gothitelle (No Field)
--   Gothitelle, Level 32. @ Twisted Spoon.
-    -   Psychic
-    -   Shock Wave
-    -   Calm Mind
-    -   Signal Beam
+!boss("BOSSGOTHITELLE_SHERIDAN")
 
 If you win, you'll be able to pick up **Gothita** behind!
 
-Head into Amethyst Grotto ready for the REAL gym fight.
-
-## Diamond Punch Badge
-
-Well, that's about all we can take care of at this point.
-
-Head back to Amethyst Grotto with a fully healed team. The Spirit of Keta will be able to give us a badge, so let's challenge him.
-
-Sensei Keta (No Field)
--   Larvesta, Level 22
-    -   Flame Charge
-    -   Take Down
-    -   Bug Bite
-    -   Magnet Rise
--   Roselia, Level 22. @ Occa Berry.
-    -   Magical Leaf
-    -   Hidden Power Water
-    -   Venoshock
-    -   Leech Seed
--   Ninetales, Level 23. @ Charcoal.
-    -   Flame Burst
-    -   Will-o-Wisp
-    -   Hex
-    -   Feint Attack
--   Krokorok, Level 23. @ Sitrus Berry.
-    -   Bite
-    -   Bulldoze
-    -   Hone Claws
-    -   Poison Sweep
--   Lapras, Level 24. @ Sitrus Berry.
-    -   Body Slam
-    -   Water Pulse
-    -   Freeze Dry
-    -   Ice Shard
--   Gallade, Level 25. @ Leftovers.
-    -   Low Sweep
-    -   Psycho Cut
-    -   Shadow Sneak
-    -   Poison Sweep
-
-Compared to Novae, this battle won't be too hard but is still scary. Gallade hits hard and is fast. In general, you want to try to set up on one of the weaker Pokemon like Roselia or Larvesta, if you can, it won't be too awful.
-
-After you win, you'll get the Diamond Fist Badge! This enables you to cut and puts our level cap at 30. He'll also leave behind *TM103 Stacking Shot*.
-
-Talk to Aelita upstairs and agree to sleep.
+Anyways, to finish the chapter's story, talk to Aelita in the upstairs of the inn and agree to sleep.

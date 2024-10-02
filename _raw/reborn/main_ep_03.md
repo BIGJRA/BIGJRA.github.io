@@ -8,7 +8,7 @@ First, head to the room containing the nurse in the Trainer School. A girl towar
 
 Now that we have 2 badges, the Pokemarts and candy store have updated inventory now:
 
-!shop("Default Mart (2-5 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poké Ball"])
+!shop("Default Mart (2-5 Badges)", ["Super Potion", "Antidote", "Paralyze Heal", "Burn Heal", "Escape Rope", "Super Repel", "Poke Ball"])
 
 !shop("Sweet Kiss (Bottom) (2-3 Badges)", ["Common Candy", ["Exp. Candy XS", 500], ["Exp. Candy S", 2000], "Rare Candy"])
 
@@ -96,7 +96,7 @@ Exit Malchous Forest Park in the top right corner. In the first house, you'll fi
 
 Defeat him to free Police Officer #1. In the building next door, head up to 5F via the elevator, and talk to the girl inside so she'll leave.
 
-Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *PokéSnax*.
+Head back to the main part of Jasper via the bottom right exit of Malchous. On your way back to the Pokemon Center area, you can now grab a hidden *PokeSnax*.
 
 Past the Pokemon Center, enter the first building you see. Talk to the guy here to activate a quest. You can also enter the elevator room here to get the *Forest Field Readout*.
 
@@ -114,7 +114,7 @@ Back in Jasper, return to the top-right corner and head up to access the next wa
 
 ## Rhodochrine Jungle & The Underroot
 
-Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *PokéSnax*.
+Enter the Beryl Ward. We can't really explore much of this ward itself right now. Head to the right to access the Beryl Bridge. Hidden on the bridge you'll find a *Heart Scale*, *X Speed*, and *PokeSnax*.
 
 While it is windy, at the end of the bridge you can catch **Drifloon**! Talk to the kid here and he will go home.
 
@@ -122,7 +122,7 @@ Back in Beryl, head left.
 
 !enc(149)
 
-Grab a hidden *Red Shard* outside, then an *X Attack* in the house. Make your way left, grab the hidden *Poké Ball*, and enter the jungle.
+Grab a hidden *Red Shard* outside, then an *X Attack* in the house. Make your way left, grab the hidden *Poke Ball*, and enter the jungle.
 
 !enc(150)
 
@@ -230,7 +230,7 @@ Head back across the bridge, and from here go down to find a hidden *Purple Shar
 
 Hidden here is an *Exp. Candy S*. We can't do anything with these glowy rocks for a while, so head out of this area.
 
-!enc(153, ["Land", "Fishing"], ["Old"])
+!enc(153, ["Grass", "Fishing"], ["Old"])
 
 Head to the right first. You'll find a hidden *Chesto Berry* here. Take the nearby stairs to reach a new area of the jungle. You can find a hidden *Red Shard* and *Exp. Candy S* here. You can also battle and catch **Taillow** at the top.
 
@@ -248,7 +248,7 @@ Defeat him to free Police Officer #3.
 
 Back in the Underroot, go up and grab a hidden *Purple Shard*. To the left you'll find a hidden *Exp. Candy S* and a stationary **Seviper**.
 
-Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poké Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
+Up and to the right you can get a hidden *Energy Root* and *Red Shard*, and free Police Officer #4. Head down and pass under the waterfall to the right. Head right for a hidden *Dire Hit* and *Poke Ball*. Back left from here, head up. This was an area we visited earlier - you can access the main part of the jungle via these stairs.
 
 Still in the Underroot, head down from here and take the stairs downward on the east side of the waterfall. Hug the left wall as you go down. You'll find a *Potion*, *Blue Shard*, *Energy Powder*, *Heavy Ball*, and an *Elemental Seed* on the ground. Use the Light Shard if you need it and head back up.
 
@@ -305,13 +305,13 @@ Before we do anything else, talk to the backpacker nearby a dumpster down from t
 
 Nearby, on clear days, you'll find another snax vendor.
 
-!shop("Beryl Ward Snax", [["PokéSnax", 200]])
+!shop("Beryl Ward Snax", [["PokeSnax", 200]])
 
 Enter the building up and to the left from this guy. On a sunny day, go onto the rooftop to be able to obtain **Helioptile** in exchange for some snax. Inside the Pokemon center, an NPC will tell you a password: *easyhms*.
 
 Around the town, you can find 2 hidden *Blue Shards*, *Escape Rope*, *Fighting Gem*, *Potion*, *Red Shard*, and *HP Up*. 
 
-Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poké Ball*.
+Continuing to the left into the cemetery area, you can find hidden *Elemental Seed* and *Poke Ball*.
 
 !enc(152)
 

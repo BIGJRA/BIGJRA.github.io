@@ -73,7 +73,7 @@ Defeat the Tauros to the right to open another shortcut. Jump down once more.
 
 !battle(["Oltan", :HIKER, 0], "Grassy Terrain")
 
-You can find hidden *Ice Heal* and *PokéSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poké Ball*.
+You can find hidden *Ice Heal* and *PokeSnax* here. Finally, on the bottom level, you can find hidden *Red Shard*, *Purple Shard*, and *Poke Ball*.
 
 !battle(["Nelly", :RANGERF, 0], "Grassy Terrain")
 
@@ -85,7 +85,7 @@ Note that this means we do have to briefly enter the North Aventurine Woods to k
 
 !enc(289, ["Grass", "Headbutt"])
 
-You can also find a hidden *Poké Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
+You can also find a hidden *Poke Ball* in here. Make your way out to the right and back onto Route 1, then proceed east.
 
 !img("route1_4.png")
 
@@ -115,11 +115,11 @@ To the right you'll need to use the bottom of three ledges to make it to the rig
 
 You can find hidden *Chewing Gum*, *Telluric Seed*, *PP Up*, *Red Shard*, and *Heart Scale* in this area. You'll notice we can't access the walled off area at the bottom-right while on a Tauros, so we'll come back here later on. Knock out the Tauros in the top area and progress up the next hill.
 
-On the next hill you can get a hidden *PokéSnax*, and *Purple Shard*.
+On the next hill you can get a hidden *PokeSnax*, and *Purple Shard*.
 
 !img("route1_6.png")
 
-Grab the hidden *Poké Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poké Ball*, *Red Shard*, and *Zinc*.
+Grab the hidden *Poke Ball* to the right. Use the bottom of two ledges to head up and grab a hidden *Dire Hit*, then head up once more. Pick up the hidden *Poke Ball*, *Red Shard*, and *Zinc*.
 
 !battle(["Medius", :RANGERF, 0], "Grassy Terrain")
 

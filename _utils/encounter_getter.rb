@@ -18,11 +18,16 @@ class EncounterGetter
     rods ||= %w[Old Good Super]
 
     data = @encHash[map_id]
+
+    # Annoyingly, sometimes there is Land and there is LandNight. Need to transfer it.
+    data[:LandMorning] = data[:Land] if (data[:Land] && !data[:LandMorning])
+    data[:LandDay] = data[:Land] if (data[:Land] && !data[:LandDay])
+    data[:LandNight] = data[:Land] if (data[:Land] && !data[:LandNight])
+    
     map_name = @mapHash[map_id]
 
     enc_groups = {
       "Grass": %i[LandMorning LandDay LandNight],
-      "Land": [:Land],
       "Cave": [:Cave],
       "Surfing": [:Water],
       "Headbutt": [:Headbutt],

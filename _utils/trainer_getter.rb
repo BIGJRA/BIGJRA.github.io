@@ -19,6 +19,12 @@ class TrainerGetter
   end
 
   def generate_trainer_markdown(trainer_id, field = nil, second_trainer_id = nil, type_mod = 0, name_ext = '')
+    
+    # a cursed workaround 
+    if trainer_id.class == Array 
+      trainer_id[0] = trainer_id[0].gsub("okemon", "okémon") # workaround for the cursed e character I can't just type
+    end
+
     raise "Trainer ID #{trainer_id} not in Trainer Hash" unless (@trainerHash[trainer_id] || @bossHash[trainer_id])
     raise "Trainer ID #{second_trainer_id} not in Trainer Hash" if second_trainer_id && !@trainerHash[second_trainer_id]
     raise "Not a field - probably put trainer 2 in field arg: #{field}" if field && !field.index('[').nil?
@@ -137,6 +143,9 @@ class TrainerGetter
         # Override whatever junk is in the trainer file, if its a boss
         mon[:moves] = boss_data[:moninfo][:moves] if boss_data[:moninfo][:moves]
         mon[:ability] = boss_data[:moninfo][:ability] if boss_data[:moninfo][:ability]
+        mon[:iv] = boss_data[:moninfo][:iv] if boss_data[:moninfo][:iv]
+        mon[:ev] = boss_data[:moninfo][:ev] if boss_data[:moninfo][:ev]
+        mon[:nature] = boss_data[:moninfo][:nature] if boss_data[:moninfo][:nature]
         mon[:level] = boss_data[:moninfo][:level] if boss_data[:moninfo][:level]
         mon[:form] = boss_data[:moninfo][:form] if boss_data[:moninfo][:form]
         mon[:item] = boss_data[:moninfo][:item] if boss_data[:moninfo][:item]
@@ -155,7 +164,7 @@ class TrainerGetter
       form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
       form_1_data = @pokemonHash[mon[:species]][form_1_key]
       pokemon_name = "#{mon[:shadow] ? "Shadow " : ""}#{@pokemonHash[mon[:species]][form_1_key][:name]}"
-      if fight_is_boss
+      if fight_is_boss || mon[:boss]
         pokemon_name = "#{mon[:boss] ? "Boss " : "SOS "}#{pokemon_name}"
       end
 
@@ -267,8 +276,13 @@ class TrainerGetter
           effects.push(effect_obj[:bosssideChanges]) if effect_obj[:bosssideChanges]
           effects.push(effect_obj[:itemchange]) if effect_obj[:itemchange]
           if effect_obj[:bossStatChanges]
-            effect_obj[:bossStatChanges].each do |stat, levels|
-              effects.push("#{stat} stat is raised #{levels} stage(s)")
+            groups = {}
+            effect_obj[:bossStatChanges].each do |stat, lvl|
+              groups[lvl] ||= []
+              groups[lvl].push(stat)
+            end
+            groups.each do |lvl, stats|
+              effects.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
             end
           end
           effects.push(effect_obj[:playerSideStatChanges]) if effect_obj[:playerSideStatChanges]
@@ -301,10 +315,28 @@ class TrainerGetter
         end
       end
 
-      moves_str = '- ' + mon[:moves].compact.map do |move|
-                            @moveHash[move][:name] + hp_str(@moveHash[move][:name], mon[:hptype])
-                          end.join("\n- ")
-      content_row.add_child(doc.create_element('td', moves_str))
+      if mon[:boss] && boss_data[:chargeAttack]
+        mon[:moves].push(boss_data[:chargeAttack][:intermediateattack]) if boss_data[:chargeAttack][:intermediateattack]
+        mon[:moves].push(boss_data[:chargeAttack])
+      end
+
+      moves_edited = []
+      mon[:moves].each do |move|
+        next if move == nil
+        if move.class == Hash 
+          if move[:turns] # is a charge attack
+            name = "Charge Attack (#{move[:turns]} turns)"
+          else # is an intermediate attack
+            name = "#{move[:name]} (Intermediate attack)"
+          end
+        else
+          name = @moveHash[move][:name]
+        end
+        name = name + hp_str(name, mon[:hptype])
+        moves_edited.push(name)
+      end
+      final = "- " + moves_edited.join("\n- ")
+      content_row.add_child(doc.create_element('td', final))
 
       # Handles stats next: base stats if applicable, IVs, Nature, EVs
       stat_details_parts = []
@@ -315,8 +347,6 @@ class TrainerGetter
       stat_details_parts.push(mon[:nature] ? "#{mon[:nature].capitalize} Nature" : 'Hardy Nature',)
       ev_str = if mon[:ev] && mon[:ev].uniq.length == 1
                   "EVs: All #{mon[:ev][0]}"
-                elsif mon[:ev] && mon[:ev].uniq.sort == [0, 252]
-                  'EVs: All 252 (0 Spe)'
                 elsif mon[:ev]
                   'EVs: ' + mon[:ev].zip(EV_ARRAY).reject do |ev, _|
                               ev.zero?

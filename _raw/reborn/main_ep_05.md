@@ -216,7 +216,7 @@ Anyways, back outside you can find 2 hidden *Purple Shards*, an *Elixir*, and a 
 
 Head all the way back through the railnet and the slums to escape, then go to the Obsidia Ward Pokemon Center. The guy we saved earlier will give us *Department Store Sticker: Aron*. Very nice.
 
-!shop("Department Store 5F (Left)", ["Great Ball", "Super Potion", "Super Repel", "Full Heal", "Poké Doll"])
+!shop("Department Store 5F (Left)", ["Great Ball", "Super Potion", "Super Repel", "Full Heal", "Poke Doll"])
 
 The first buyable Great Balls and Super Repels? Sign me up.
 

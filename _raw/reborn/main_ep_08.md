@@ -118,9 +118,9 @@ Back on the ground floor, head east to enter another part of the railnet.
 
 !img("railnet_east.png")
 
-This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokéSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
+This room is pretty huge - scattered around you can find a hidden *Awakening*, *Revive*, *Super Potion*, *Resist Wing*, *Red-Hots*, *Swift Wing*, *Purple Shard*, *Protein*, *Cheri Berry*, 3 *Blue Shards*, 2 *PokeSnaxs*, and *Super Repel*. These items are roughly nearby the yellow marks on the map.
 
-You can also find a bunch more of those shallow walls that you can use Rock Smash on - indicated by green arrows above. Behind these are *House Key*, *Iron Ball*, *Corrupted Poké Ball*, and *TM44 Rest*. You can also open the gate to the left (circled in blue) to create a shortcut to the Aron room.
+You can also find a bunch more of those shallow walls that you can use Rock Smash on - indicated by green arrows above. Behind these are *House Key*, *Iron Ball*, *Corrupted Poke Ball*, and *TM44 Rest*. You can also open the gate to the left (circled in blue) to create a shortcut to the Aron room.
 
 Talk to Shelly on the right side of the area, then enter the train at the bottom of the map. Back outside, you'll need to use levers to connect this train to the exit area on the right. Essentially you can just follow the tracks until you hit a roadblock, then backtrack and click the lever and follow the new path until you are all done.
 
@@ -142,13 +142,13 @@ We will emerge in a new area. Here, you'll find a *Purple Shard*, *Full Heal*, *
 
 On the left as you walk in, you'll see whichever of **Solrock** and **Lunatone** that you didn't get to catch earlier.
 
-On this map, you'll find hidden *X Speed*, *PokéSnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
+On this map, you'll find hidden *X Speed*, *PokeSnax*, *Hyper Potion*, 2 *Blue Shards*, *Revive*, *Ground Gem*, *Steel Gem*, *Escape Rope*, *Ultra Ball*, *Purple Shard*, and a visible *Exp. Candy XL*.
 
 Talk to Charlotte then emerge at the top into Tanzan Cove.
 
 !enc(232, ["Grass", "Fishing"], ["Old"])
 
-In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokéSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
+In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, *Blue Shard*, *Peppermint*, *PokeSnax*, *Heart Scale*, *Rose Incense*, and *Elemental Seed*.
 
 Enter the house at the top.
 

@@ -106,7 +106,7 @@ Use Earthquake, Magnitude, etc. in a battle twice to make some green crystal gem
 
 Use an Escape Rope or Dig to save time if you'd like, and return to Tanzan Cove. Surf across the cove and enter the Tanzan Mountain entrance here. Climb down the rocks.
 
-In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Repel*, *Escape Rope*, 2 *PokéSnax*, *Purple Shard*, *Stardust*, and *Great Ball*, as well as tons of mining rocks. Once you get everything, break the ground by using Magnitude or Earthquake twice in battle once more.
+In the next room, you can find an *Exp. Candy XL* as well as a hidden *Super Repel*, *Escape Rope*, 2 *PokeSnax*, *Purple Shard*, *Stardust*, and *Great Ball*, as well as tons of mining rocks. Once you get everything, break the ground by using Magnitude or Earthquake twice in battle once more.
 
 The floor will collapse, creating a new climbing wall. Head down. In the next room, talk to the Green Crystal to get Larvitar to move. You can get a hidden *Green Shard* and *Awakening* in here. Proceed to the next room.
 
@@ -209,7 +209,7 @@ Grab the *Ice Stone* atop the hill once you're able to. Climb back down the hill
 
 On this map, you will find a hidden *Red-Hots*, *X Sp. Def*, *Magical Seed*, *Ice Gem*, *Salt-Water Taffy*, *Ice Heal*, and *Hyper Potion*. There are lots of paths we can go from here, and I will start by doing the rock climb path in the top left, accessible via surfing on the water. To reach the water, surf from the hop rock with the little stairs at the bottom.
 
-On the next map you can find a hidden *PokéSnax* and an *Ice Stone*. Climb back down the hill.
+On the next map you can find a hidden *PokeSnax* and an *Ice Stone*. Climb back down the hill.
 
 This time, go around the rocks in the water to climb the waterfall at the top.
 
@@ -490,7 +490,7 @@ Climb the first waterfall and grab the hidden *Stardust*. After climbing the sec
 
 !enc(741, nil, nil, "Agate City Underwater")
 
-You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poké Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
+You can find a hidden *Silk Scarf*, 2 *Potions*, *Ether*, *Quick Claw*, *Poke Ball*, and *Ultra Ball*. If you surface on the right side of the area, you can climb some waterfalls to get the *Pinsirite*. Back underwater, enter the cave at the top.
 
 In the next room, Lin will flex on us. Grab the hidden *Super Potion* and *Lucky Egg*, then backtrack to the main part of the city. To the east of the Pokemon Center, watch the scenes play out then talk to Shelly. Hardy will then extend an offer to challenge his gym!
 
@@ -524,7 +524,7 @@ From here, make your way to the other map with the lake - you'll need to climb u
 
 !battle(["Karim", :HIKER, 0], "Forest Field")
 
-Once you defeat him, he will let his Pokemon out to hang out on the map. Talk to the Hiker for 5 *PokéSnax*. Talk to him again. He'll ask if you have a spare belt in your bag. By giving a Black Belt, you'll get a *Fist Plate*. If you don't have any Black Belts in your bag but you do have an Expert Belt, you can trade it for a *Life Orb*. Note that we will be able to get more Expert Belts in a bit, so don't feel bad about trading it away if you'd like.
+Once you defeat him, he will let his Pokemon out to hang out on the map. Talk to the Hiker for 5 *PokeSnax*. Talk to him again. He'll ask if you have a spare belt in your bag. By giving a Black Belt, you'll get a *Fist Plate*. If you don't have any Black Belts in your bag but you do have an Expert Belt, you can trade it for a *Life Orb*. Note that we will be able to get more Expert Belts in a bit, so don't feel bad about trading it away if you'd like.
 
 Once you've done these things, give snax to the Pokemon. Specifically, give a snax to Altaria, then another to Golem. By doing so, a new rock path will open up, so climb down to reach a new area.
 
@@ -744,7 +744,7 @@ The following is a table of Pokemon you'll need to breed or evolve at this point
 |**Breloom**        |Evolve Shroomish @ Lv. 23                          |
 |**Slaking**        |Evolve Vigoroth @ Lv. 36                           |
 |**Ninjask**        |Evolve Nincada @ Lv. 20                            |
-|**Shedinja**       |Evolve Nincada @ Lv. 20 w/ Poké Ball & Party Slot  |
+|**Shedinja**       |Evolve Nincada @ Lv. 20 w/ Poke Ball & Party Slot  |
 |**Exploud**        |Evolve Loudred @ Lv. 40                            |
 |**Hariyama**       |Evolve Makuhita @ Lv. 24                           |
 |**Azurill**        |Breed Marill/Azumarill w/ Sea Incense              |

@@ -90,7 +90,7 @@ This conversation does quietly show off a mechanic in Pokemon Reborn: relationsh
 Immediately down from your starting position, in a rock you'll find a hidden *Normal Gem* (A). There are tons of hidden items in this game, and we won't get the Itemfinder for another two badges or so.
 
 More hidden items:
-- (B): *Poké Ball*
+- (B): *Poke Ball*
 - (C): *Red Shard*
 
 It's worth noting that shards are useful in Reborn for obtaining Ability Capsules and Pokemon as well as learning moves via tutors.
@@ -137,7 +137,7 @@ You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefull
 **Relationship Point Choices:**
 - Defeat Victoria in battle (+1 Victoria)
 
-After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poké Balls*.
+After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
 
 Now, we can explore the Grand Hall. This is the region's hub building - we will be checking back here often.
 
@@ -151,7 +151,7 @@ Talk to a guy next to some display cases if you'd like to buy some candy.
 
 As you might guess, Common Candies are the opposite of rare candies - they'll decrease your Pokemon's level. Reborn's disobedience system means that Pokemon above the level cap will not always obey your commands, so these are essential to fix that issue. The current level cap is 20 - until we beat the gym leader, Pokemon won't obey at Lv. 21 and beyond. We shouldn't need any common candies right now though. To his right is another shop:
 
-!shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poké Ball"])
+!shop("Default Mart (0 Badges)", ["Potion", "Antidote", "Poke Ball"])
 
 In this guide I will be catching every single Pokemon as soon as it becomes available, so if you're going to do the same you're gonna need a lot of balls. Note that you get a *Premier Ball* with every 10 balls you purchase. Reborn is tight on money, so especially if you're not interested in using healing items during battles, you might be better off not spending your cash on Potions and Antidotes and running back to Pokemon Centers when needed instead.
 
@@ -244,7 +244,7 @@ Anyways, go down and right from here.
 
 During a clear daytime, you'll find a Teddiursa! It will run off and we'll have to chase it.
 
-Go left from this area and enter the first house that you can. Inside, you'll find a *PokéSnax*! This item is crucial for getting certain Pokemon.
+Go left from this area and enter the first house that you can. Inside, you'll find a *PokeSnax*! This item is crucial for getting certain Pokemon.
 
 More hidden items around here include:
 
@@ -252,7 +252,7 @@ More hidden items around here include:
 - (E): *Exp. Candy XS*
 - (F): *Common Candy*
 
-With the PokéSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
+With the PokeSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
 
 Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you!
 
@@ -343,7 +343,7 @@ A rock at the top left contains a hidden *Guard Spec*. Once you're done here, he
 
 !img("hidden006.png")
 
-- (A): *Poké Ball*
+- (A): *Poke Ball*
 - (B): *Oran Berry*
 - (C): *Ability Capsule*
 
@@ -436,9 +436,9 @@ Anyways, a small house up from here contains a *Protein*, which again I recommen
 
 In the building up and left from here, you can talk to a guy to get a *Common Candy*. Outside, during clear or sunny days, there is a shop.
 
-!shop("Peridot Ward Snax", [["PokéSnax", 200]])
+!shop("Peridot Ward Snax", [["PokeSnax", 200]])
 
-If you use up your PokéSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
+If you use up your PokeSnax and need more, this is the place. Head to the right and enter the "Jasper" gate. You can find a *Genius Wing* in a rock but otherwise can't proceed. Back in Peridot, go right.
 
 !battle(["Trill", :Punk, 0])
 

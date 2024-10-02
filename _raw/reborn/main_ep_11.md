@@ -309,7 +309,7 @@ Head over to the Yureyu Abandoned Power Plant where we once fought Shade. Head t
 
 !enc(281, nil, nil, "Yureyu Power Plant Backroom")
 
-Each of the Poké Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**.
+Each of the Poke Balls in this room is an Electrode. Defeat all of them then talk to the monitor at the top for a battle with **Rotom**.
 
 While we're in the Beryl area, head over to the Beryl Cemetery. If you talked to Simon in the Tanzan Meteor Base, you'll see him here. Talk to him to continue his sidequest - then head down to the building to the right of the Peridot Ward Pokemart to talk to him once more. That's all we can do with this quest for now.
 
