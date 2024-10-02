@@ -300,6 +300,8 @@ Take your Jigglypuff and any other Pokemon in the Fairy egg group to the nearby 
 
 Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
 
+I will also mention that obtaining HM Cut isn't too far off, so buying the Golden Axe at the AP Shop as soon as you can will help us out in the future.
+
 Return to Sheridan, then go to the Sheridan Arena at the top.
 
 !enc(424, ["Grass", "Fishing"], ["Old"])

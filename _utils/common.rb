@@ -73,10 +73,6 @@ FIELDS = {
   CITY: 'City',
 }
 
-SECTIONS = { 
-  'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 
-  'rejuv' => [['main', 2], ['post', 0], ['appendices', 1]] } #TODO
-
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
               GoodRod: 'goodrod', SuperRod: 'superrod' }
 
@@ -440,14 +436,13 @@ def get_game_contents_dir(game)
   File.join(ROOT_DIR, '_raw', game)
 end
 
-def load_chapter_md(game, type, chapter_num)
+def load_chapter_md(game, chapter_type, chapter_num)
   game_contents_dir = get_game_contents_dir(game)
-  file_path = if type != 'appendices'
-                File.join(game_contents_dir, "#{type}_ep_#{chapter_num.to_s.rjust(2, '0')}.md")
-              else
-                File.join(game_contents_dir, 'appendices.md')
-              end
-  File.read(file_path)
+  path = case chapter_type
+    when "appendices" then File.join(game_contents_dir, "#{chapter_type}.md")
+    else File.join(game_contents_dir, "#{chapter_type}_ep_#{chapter_num.to_s.rjust(2, '0')}.md")
+  end
+  return File.read(path) if File.exist?(path)
 end
 
 def set_to_range_string(integers_set)

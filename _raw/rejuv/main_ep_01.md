@@ -256,7 +256,7 @@ My thoughts:
 - The cards let you into the basement of the Gearen lab to do rapid EV training. When you do get access to each EV room, inside you'll find the respective Power item: *Power Anklet*, *Power Band*, *Power Belt*, *Power Bracer*, *Power Lens*, *Power Weight*. This isn't strictly necessary yet, but it is worth doing once we have around 4 badges to help make EV Training a breeze.
 - Exp. All is very helpful for grinding, but with the grinders and Exp. Candies, it may not be the most useful thing for its high price yet. 
 
-When I play, I tend to buy the Golden Hammer first, then begin collecting the EV Cards. I'll buy the Golden Axe as soon as I get Cut, then finish with AP cards. Then I'll buy the rest of the Golden Items as I need them, and the Exp. All when I have enough AP.
+When I play, I tend to buy the Golden Hammer first, then begin collecting the EV Cards. I'll buy the Golden Axe right before I get Cut, then finish with AP cards. Then I'll buy the rest of the Golden Items as I need them, and the Exp. All when I have enough AP.
 
 On the left side, we can't do much without the coin case. There is a Lotto Attendant here however:
 
