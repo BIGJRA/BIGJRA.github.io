@@ -40,6 +40,7 @@ class TrainerGetter
       second_trainer_name = nil
       boss_data = trainer_data
     end
+    shield_break_details = []
 
     item_symbols = Hash.new(0)
     item_symbols.merge!(trainer_data[:items].tally) if trainer_data[:items]
@@ -164,6 +165,8 @@ class TrainerGetter
         form_data = form_1_data
       end
 
+      base_stats = form_data[:BaseStats] ? form_data[:BaseStats] : form_1_data[:BaseStats]
+
       mon_details_parts = [
         "#{mon[:gender] ? " (#{mon[:gender]})" : ''}, Lv. #{mon[:level]}",
         "#{form > 0 ? @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]] : ''}",
@@ -210,7 +213,26 @@ class TrainerGetter
           # TODO: These will all need custom code............
           effects.push(effect_obj[:bossEffect]) if effect_obj[:bossEffect]
           effects.push(effect_obj[:weatherChange]) if effect_obj[:weatherChange]
-          effects.push(effect_obj[:formchange]) if effect_obj[:formchange]
+          if effect_obj[:formchange]
+            new_form = effect_obj[:formchange]
+            new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]
+            new_form_data = @pokemonHash[mon[:species]][new_form_key]
+
+            form_changes = []
+
+            new_type1 = new_form_data[:Type1] ? @typeHash[new_form_data[:Type1]][:name] : nil
+            new_type2 = new_form_data[:Type2] ? @typeHash[new_form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
+            if !new_type1 || (type1 != new_type1 || type2 != new_type2)
+              form_changes.push("Type => #{new_form_data[:Type1][:name]}")
+            end
+
+            new_base_stats = new_form_data[:BaseStats] ? new_form_data[:BaseStats] : form_1_data[:BaseStats]
+            if new_base_stats != base_stats
+              form_changes.push('Base Stats => ' + new_base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', '))
+            end
+    
+            effects.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
+          end
           if effect_obj[:fieldChange]
             effects.push("Field becomes #{FIELDS[effect_obj[:fieldChange]]}") 
           end
@@ -229,11 +251,13 @@ class TrainerGetter
           effects.push(effect_obj[:bossSideStatusChanges]) if effect_obj[:bossSideStatusChanges]
           effects.push(effect_obj[:playerSideStatusChanges]) if effect_obj[:playerSideStatusChanges]
           if effect_obj[:statDropCure]
-            effects.push("Stat drops are cured") 
+            effects.push("Stat drops are cured")
           end
           effects.push(effect_obj[:playerEffects]) if effect_obj[:playerEffects]
           effects.push(effect_obj[:stateChanges]) if effect_obj[:stateChanges]
-          effects.push(effect_obj[:playersideChanges]) if effect_obj[:playersideChanges]
+          if effect_obj[:playersideChanges]
+            effects.push("Effect added to player side: #{effect_obj[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+          end
           effects.push(effect_obj[:bosssideChanges]) if effect_obj[:bosssideChanges]
           effects.push(effect_obj[:itemchange]) if effect_obj[:itemchange]
           if effect_obj[:bossStatChanges]
@@ -244,7 +268,7 @@ class TrainerGetter
           effects.push(effect_obj[:playerSideStatChanges]) if effect_obj[:playerSideStatChanges]
           
           result += "- #{effects.join("\n- ")}"
-          mon_details_parts.push(result)
+          shield_break_details.push(result)
         end
       end
 
@@ -279,13 +303,12 @@ class TrainerGetter
       # Handles stats next: base stats if applicable, IVs, Nature, EVs
       stat_details_parts = []
       if custom_form_bool # Only add base stats when custom form
-        base_stats = form_data[:BaseStats] ? form_data[:BaseStats] : form_1_data[:BaseStats]
         base_stats_str = 'Base Stats: ' + base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', ')
         stat_details_parts.push(base_stats_str) 
       end
       stat_details_parts.push(mon[:nature] ? "#{mon[:nature].capitalize} Nature" : 'Hardy Nature',)
-      ev_str = if mon[:ev] && mon[:ev].uniq == [252]
-                  'EVs: All 252'
+      ev_str = if mon[:ev] && mon[:ev].uniq.length == 1
+                  "EVs: All #{mon[:ev][0]}"
                 elsif mon[:ev] && mon[:ev].uniq.sort == [0, 252]
                   'EVs: All 252 (0 Spe)'
                 elsif mon[:ev]
@@ -307,8 +330,19 @@ class TrainerGetter
       stat_details_parts.push(iv_str)
       stat_details_td = doc.create_element('td', stat_details_parts.join("\n"))
       content_row.add_child(stat_details_td)
-    end
 
+      # Adds Shield Break Details to the end
+      if shield_break_details != []
+        shield_break_row = doc.create_element('tr')
+        table.add_child(shield_break_row)
+
+        shield_break_td = doc.create_element('td', colspan: 3)
+        shield_break_td.add_child(shield_break_details.reject { |s| s.empty? }.join("\n"))
+        shield_break_row.add_child(shield_break_td)
+
+        shield_break_details = []
+      end
+    end
     doc.to_html.gsub(/<td>\s*\n\s*<strong>/, '<td><strong>').split("\n")[1..].join("\n")
   end
 

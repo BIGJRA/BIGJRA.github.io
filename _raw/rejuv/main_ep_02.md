@@ -191,34 +191,6 @@ Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn abou
 
 !boss("RIFTGALVANTULA", "Corrupted Field")
 
-Dimensional Rift Galvantula (Corrupted Field)
--   Joltik, Level 22.
-    -   Electroweb
-    -   Toxic Thread
-    -   Struggle Bug
-    -   Confusion
--   Joltik, Level 23.
-    -   Electroweb
-    -   Toxic Thread
-    -   Struggle Bug
-    -   Confusion
--   Joltik, Level 24.
-    -   Electroweb
-    -   Toxic Thread
-    -   Struggle Bug
-    -   Confusion
--   Joltik, Level 25.
-    -   Electroweb
-    -   Toxic Thread
-    -   Struggle Bug
-    -   Confusion
--   Galvantula, Level 25. @ Demon Stone. Ability: Parental Bond. Type:
-    Poison/Electric. Stat Spread: 70/80/100/80/160/80
-    -   Electroweb
-    -   Cross Poison
-    -   Toxic Thread
-    -   Sucker Punch
-
 This one isn't too bad, though the Joltik are annoying with their Electroweb attack. Unless you have priority, you're going to end up going last, so have something with enough special defense to take their Electric/Bug/Poison attacks and hit back hard. Venam and Ren are both worthy partners here.
 
 **Relationship Point Choices**:
