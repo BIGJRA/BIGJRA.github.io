@@ -179,7 +179,6 @@ Again, Xatu is another good choice for the upcoming gym.
 The wall below the second Joltik contains a hidden *HP Up*. Talk to Ren.
 
 **Relationship Point Choices**:
-
 - Is that strange? (Ren +1)
 - What about them? (Neutral)
 
@@ -187,19 +186,29 @@ The rock below him contains a *Potion*, and one tile down from the box to the le
 
 Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a GourmetTreat to catch **Lunatone**. Activate Panel 1 while you are here. We will activate 5 more for a quest later.
 
-Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn about Rift Galvantula. Partner up with Ren or Venam and take on Rift Galvantula!
+Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn about Rift Galvantula. Partner up with Ren or Venam!
 
-!boss("RIFTGALVANTULA", "Corrupted Field")
+!partner(["Ren",:TRAINER_REN,4])
 
-This one isn't too bad, though the Joltik are annoying with their Electroweb attack. Unless you have priority, you're going to end up going last, so have something with enough special defense to take their Electric/Bug/Poison attacks and hit back hard. Venam and Ren are both worthy partners here.
+!partner(["Venam",:LEADER_VENAM,1])
+
+!boss("RIFTGALVANTULA", "Dimensional Field")
+
+In this fight, Galvantula will switch to a more powerful form and start summoning Joltik after its first shield is broken. Since SOS Joltik spawns are "continuous", it will infinitely respawn at the end of any turn when it has been knocked out, so defeating Galvantula as fast as possible afterwards is the way to go. Take advantage of the Egg form's lower stats in order to set up momentum to make the rest of the fight easier!
+
+You'll be taken back to East Gearen afterwards.
 
 **Relationship Point Choices**:
 - You think I can do it? (Neutral)
 - Where do I go next? (Ren +2)
 
+## Post-Galvantula Sidequests
+
 Back in the city, two optional things we can do now: first, talk to Zumi in the library, who'll give you the *Advanced Pokedex* if you caught Dedenne. She'll also send you on the next mission to get Drifloon.
 
 Second, if you go to the Chrisola Hotel, our travels to Route 2 will prompt the girl in the first room in the right hallway to give you **Shinx**!
+
+## Amethyst Cave 2
 
 Anyways, back in Amethyst Cave, we can head north. Smash the rock and pick up the hidden *Red Shard* in the rail below. The wall behind a rock to the right has a *Super Potion*, and the second minecart above contains a *Mineral Ball*. The rail to the left of this minecart and one tile up contains a *Green Shard*. To the left, the wall down from the rock to smash is a *Zinc*, and the machine above here has a *Mineral Ball*. The wall to the left of the leftmost machine contains a *Reverse Candy*.
 

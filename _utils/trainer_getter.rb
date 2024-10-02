@@ -135,11 +135,11 @@ class TrainerGetter
       if mon[:boss] # Here we handle some overrides for boss mons in otherwise normal teams....
         boss_data = @bossHash[mon[:boss]]
         # Override whatever junk is in the trainer file, if its a boss
-        mon[:moves] = boss_data[:moninfo][:moves]
-        mon[:ability] = boss_data[:moninfo][:ability]
-        mon[:level] = boss_data[:moninfo][:level]
-        mon[:form] = boss_data[:moninfo][:form]
-        mon[:item] = boss_data[:moninfo][:item]
+        mon[:moves] = boss_data[:moninfo][:moves] if boss_data[:moninfo][:moves]
+        mon[:ability] = boss_data[:moninfo][:ability] if boss_data[:moninfo][:ability]
+        mon[:level] = boss_data[:moninfo][:level] if boss_data[:moninfo][:level]
+        mon[:form] = boss_data[:moninfo][:form] if boss_data[:moninfo][:form]
+        mon[:item] = boss_data[:moninfo][:item] if boss_data[:moninfo][:item]
       end
 
       if fight_is_boss && idx == 0
@@ -166,12 +166,19 @@ class TrainerGetter
       end
 
       base_stats = form_data[:BaseStats] ? form_data[:BaseStats] : form_1_data[:BaseStats]
+      
+      if mon[:ability]
+        abText = @abilityHash[mon[:ability]][:name]
+      else
+        abs = form_data[:Abilities] ? form_data[:Abilities] : form_1_data[:Abilities]
+        abText = abs.map {|a| @abilityHash[a][:name]}.join("/")
+      end
 
       mon_details_parts = [
         "#{mon[:gender] ? " (#{mon[:gender]})" : ''}, Lv. #{mon[:level]}",
         "#{form > 0 ? @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[mon[:form]] : ''}",
         "#{mon[:item] ? "@#{@itemHash[mon[:item]][:name]}" : ''}",
-        "#{mon[:ability] ? "Ability: #{@abilityHash[mon[:ability]][:name]}" : ''}"
+        "Ability: #{abText}"
       ]
 
       custom_form_bool = is_custom_form(form_key)
@@ -190,14 +197,13 @@ class TrainerGetter
       # Handles display of SOS Mons for full-boss fights
       if mon[:sos]
         oper, shields = boss_data[:sosDetails][:activationRequirement].split(" ").slice(1,2)
-        cont = boss_data[:continuous] != nil
+        cont = boss_data[:sosDetails][:continuous] != nil
         shield_text = case oper
           when "<" then "Less than #{shields} Shield(s)"
           when "<=" then "Less than #{shields + 1} Shield(s)"
           when "==" then "Exactly #{shields} Shield(s)"
         end
         mon_details_parts.push("Appears: #{shield_text} #{cont ? " (Continuous)" : ""}")
-        # Here we detail when the reinforcement shows up, among other little things?
       end        
       
       # Handles display of boss mon - including shield info

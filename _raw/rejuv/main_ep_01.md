@@ -616,7 +616,7 @@ Your second-stage starter and allies should be able to make short work of this t
 
 ## Goldenwood Xen Attack
 
-As soon as Melia leaves, head back out through Goldenwood Cave. In the briefcase, enter 3845 for an *Ability Capsule*. To progress, enter 6489. You'll get the *Snag Machine* and *15 Poke Balls*. Just like in Colosseum and XD, all you must do is use Poke Balls on opponents' Shadow Pokemon to catch them. 
+As soon as Melia leaves, head back out through Goldenwood Cave. In the briefcase, enter 3845 for an *Ability Capsule*. To progress, enter 6489. You'll get the *Snag Machine* and *15 Poke Balls*. Just like in Colosseum and XD, all you must do is use Poke Balls on opponents' Shadow Pokemon to catch them. We won't be able to purify Shadow Pokemon quite yet, nor can we use them in Gym Battles until they are purified.
 
 !battle(["Nickoli",:XENGRUNT_M,0], "Forest Field")
 
