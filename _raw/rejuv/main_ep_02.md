@@ -93,7 +93,7 @@ Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to
 
 The grassy spot in the middle of dirt right from Meganium hides a *Green Shard*. The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
-If you talk to the painter here, he'll wish to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Magcargo next, so we'll have to come back later.
+If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Magcargo next, so we'll have to come back later.
 
 Enter the cave here.
 

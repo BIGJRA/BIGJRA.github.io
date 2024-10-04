@@ -60,7 +60,7 @@ class FunctionWrapper
       
     func = @shortNames[func_shortname]
     run_str = "#{func}(#{args})"
-    # puts run_str
+    puts run_str
     eval(run_str) + "\n" # evaluates function, preserves its newline
   end
 
@@ -319,8 +319,9 @@ class FunctionWrapper
     @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 1)
   end
 
-  def generate_newself_markdown(trainer_id, new_title)
-    @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 2, new_title)
+  def generate_newself_markdown(trainer_id, new_title=nil)
+    return @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 2, new_title) if new_title
+    return @trainerGetter.generate_trainer_markdown(trainer_id, nil, nil, 2)
   end
 
   def generate_tutor_markdown(tutor_title, moves)

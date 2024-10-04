@@ -90,7 +90,7 @@ You'll also notice that there are Pidove, Hoothoot, Cubone, as well as **Flabebe
 
 !battle(["Tana",:LASS,0], "Grassy Terrain")
 
-Cross the bridge to the right.
+Talk to Beth on the left to get a *Moomoo Milk*. Cross the bridge to the right.
 
 !enc(130, ["Grass", "Fishing"], ["Old"], "Route 4 (East)")
 
@@ -100,79 +100,45 @@ Interact with the stone den. You'll get *5 Rift Fragments*. These dens have a on
 
 !raid(1, 4)
 
-Head back to the left and let Cairo break the rock. You'll get a *Moomoo Milk*. Head up.
+Head back to the left and let Cairo break the rock. You'll get another *Moomoo Milk*. Head up.
 
 **Relationship Point Choices**:
 - You okay, Nim? (Aelita +1)
 - You're acting weird... (Neutral)
 
-RIFT DEN 2 (\< 8 Badges): The common encounters in this second den are Tranquill, **Wailmer**, Dunsparce, and **Vullaby**. The rare ones are **Chatot**, Snorunt, and Cacnea.
+!enc(167, ["Grass", "Fishing"], ["Old"], "Route 4 (Northwest)")
+
+!battle(["Max",:ROCKER,0], "Grassy Terrain")
+
+Cross the bridge to the right.
+
+!enc(166, ["Grass", "Fishing"], ["Old"], "Route 4 (Northeast)")
+
+!raid(2, 4)
+
+!battle(["Sissy",:LADY,0], "Grassy Terrain")
 
 To the right of here, at night, you'll find roaming **Wooloo**. To the right under the bridge, you'll find that *TM45 Attract* is at the bottom.
 
-Enter Cairo's house. He has a shop set up.
+Enter Cairo's house.
 
-Cairo's Shop (\<8 Badges)
+!shop("Cairo's Shop", [["Joy Scent", 5000], ["Excite Scent", 8500], ["Vivid Scent", 11000], ["Bike Voucher", "250 Red Essences"], ["Noctowl Crest", "2000 Red Essences"], ["Simisage Crest", "2000 Red Essences"], ["Simisear Crest", "2000 Red Essences"], ["Simipour Crest", "2000 Red Essences"], ["5 Rift Fragments", 4956], ["15 Rift Fragments", 14868], ["25 Rift Fragments", 24780]])
 
-|Item               |Price             |
-|-------------------|------------------|
-|*Joy Scent (10)*   |$5000             |
-|*Excite Scent (10)*|$8500             |
-|*Vivid Scent (10)* |$11000            |
-|*Bike Voucher*     |250 Red Essences  |
-|*Noctowl Crest*    |2000 Red Essences|
-|*Phione Crest*     |2000 Red Essences|
-|*Fragments (5)*    |$4956             |
-|*Fragments (10)*   |$14868            |
-|*Fragments (25)*   |$24780            |
+Crests are unique held items that give the species in question unique strengths to make them better. As you can tell from the four on display, they're generally given to Pokemon that are... otherwise pretty bad. The Noctowl Crest greatly enhances Noctowl's defensive capabilities, while the other three Crests allow the Monkeys far greater offensive coverage and a few added resistances.
 
-Crests are unique held items that give the species in question unique strengths to make them better. As you can tell from the two on display, they're generally given to Pokemon that are otherwise bad. The bottom of this file has details on what every crest does!
-
-Get the Bike Voucher for now if you want, but otherwise start saving up Rift Essence. If you accumulate *exactly* 10000, talk to **Chespin** and Cairo will let you have it! You can check with the Gather Cube the exact amount you have.
+Get the Bike Voucher for now if you want, but otherwise start saving up Rift Essence. If you accumulate at least 10000, talk to **Chespin** and Cairo will let you have it! You can check with the Gather Cube the exact amount you have.
 
 Head up. There are Duskull roaming here at night. Try to head into Akuwa Town to the north for a battle with Nim.
 
-Apprentice Nim (Psychic Terrain)
--   Stonjourner, Level 37. @ Focus Sash.
-    -   Rock Slide
-    -   Stealth Rock
-    -   Heavy Slam
-    -   Body Press
--   Darmanitan, Level 37. @ Kee Berry.
-    -   Rock Slide
-    -   Psychic
-    -   Flamethrower
-    -   Fire Punch
--   Lunatone, Level 38. @ Passho Berry.
-    -   Rock Slide
-    -   Ancient Power
-    -   Hypnosis
-    -   Psychic
--   Solrock, Level 38. @ Assault Vest.
-    -   Rock Slide
-    -   Flamethrower
-    -   Zen Headbutt
-    -   Stone Edge
--   Malamar, Level 37. @ Twisted Spoon.
-    -   Psycho Cut
-    -   Night Slash
-    -   Aerial Ace
-    -   Rock Slide
--   Duosion, Level 37. @ Eviolite.
-    -   Psychic
-    -   Thunder Wave
-    -   Shadow Ball
-    -   Energy Ball
+!battle(["Nim",:APPRENTICE,1], "Psychic Terrain")
 
 Our second encounter with Nim sees her Pokemon with much stronger Pokemon with stronger Psychic attacks, but they're still no match for a decent team. Good dark types and Pokemon that resist Psychic and/or Rock will do well here. Most of her Pokemon are slow and she doesn't have any speed control, so if you can outspeed and cripple one or both of her Pokemon per turn you'll likely find a way through this one.
 
-Enter Akuwa Town and go with Aelita to the old man. We will explore Akuwa Town in a bit, but there are some quests we can do! Skip the following section to proceed through the story.
+## Lost Souls Quest 1
 
-## Lost Camp Part 1, and Floria Side Quests
+Before proceeding, there are a few sidequests we can take care of. First of all - head into Akuwa Town with Aelita, and talk to the old man. We'll explore Akuwa Town itself later. We can now use the Truck Guy up and right of here to fast travel to Gearen, Goldenwood, and Sheridan, though!
 
-Head to the left, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding kids to populate the camp, and if you talk to her again a few times, to upgrade the land. The land upgrades total $2500 for the first wave, so do this if you have the money.
-
-She won't upgrade further until we've found four children - so let's go ahead and start finding them. They're located all over the world map, so we'll be taking a brief tour to get them all. A truck driver in Akuwa Town can take us to the previous towns. Five *lost kids* are reachable for now:
+Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around and find:
 
 1.  Andrew can be found in Abandoned Sewers underneath Gearen City by
     crossing the first bridge north, then the first bridge west, then
@@ -183,150 +149,117 @@ She won't upgrade further until we've found four children - so let's go ahead an
     where Espurr played with you.
 4.  Matthew can be found on Route 3, the second bridge from the bottom.
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
+6.  Jessibelle can be found to the right of the Akuwa Town aquarium.
 
-These are the only five we can get before we get a few more HMs, so return to the Lost Camp and there'll be a few new things we can do.
-
-First, Maman will let us donate again. Donate another $2500, and the camp will be upgraded for a second time! Exit and return.
+These are the only six we can get before we get a few more HMs. Return to the Lost Camp, where Maman will let us donate to the camp. Donate $5000.
 
 A few orphans will sell you stuff in camp!
 
-Lost Camp: Andrew Shop
+!shop("Lost Camp: Andrew", ["Pomeg Berry", "Kelpsy Berry", "Qualot Berry", "Grepa Berry", "Hondew Berry", "Tamato Berry"])
 
-|Item          |Price|
-|--------------|-----|
-|*Pomeg Berry* |$600 |
-|*Kelpsy Berry*|$600 |
-|*Qualot Berry*|$600 |
-|*Hondew Berry*|$600 |
-|*Grepa Berry* |$600 |
-|*Tamato Berry*|$600 |
+!shop("Lost Camp: Matthew", ["Water Stone", "Fire Stone", "Leaf Stone"])
 
-Lost Camp: Matthew Shop
+As an aside, if you want quick AP, we can use Matthew's stones to fill out a lot of categories! Fill up a team with Pickup mons (pickup points), then catch lots of Pansage/Pansear/Panpour (catching points). Alternatively, breed them (egg hatching points and walking around points). Catch any shinies you find as well (catch shiny points). Then, using money you've gotten from selling Pickup items (selling points), buy stones from Matthew (buying points) and use them to evolve each of your monkeys. (evolution points and evolve-by-stone points).
 
-|Item         |Price|
-|-------------|-----|
-|*Water Stone*|$2100|
-|*Fire Stone* |$2100|
-|*Leaf Stone* |$2100|
+Anyways, Maman will let us donate once more to the camp. Donate $7000, and you'll be able to catch **Eevee**!
 
-As an aside, if you want quick AP, we can use Matthew's stones to fill out a lot of categories Fill up a team with Pickup mons (pickup points), then catch lots of Pansage/Pansear/Panpour (catching points). Alternatively, breed them (egg hatching points and walking around points). Catch any shinies you find as well (catch shiny points). Then, using money you've gotten from selling Pickup items (selling points), buy stones from Matthew (buying points) and use them to evolve each of your monkeys. (evolution points and evolve-by-stone points).
+## Artist Quest 2 & Mystery Egg Quest
 
-Return to Gearen City, and exchange the Bike Voucher for a *Bicycle*! Gotta go fast.
+There are a few more quests we can take care of before proceeding.
 
-I recommend also at this point buying the Golden Surfboard and, if you have the AP, the Golden Claws. We won't be able to come back here for a little while after getting surf, so if you don't want to burden your party, get the surfboard now.
+First, head over to Gearen. I recommend at this point buying the Golden Surfboard and, if you have the AP, the Golden Claws. We won't be able to come back here for a little while after getting Surf, so get the surfboard now.
 
 Level up Slugma to Level 38 to get **Magcargo**. Add it and Emolga to your party, then head back to Route 2's trailer to get *Charcoal* and *Magnet*, as well as *TM96 Nature Power*!
 
-## Mystery Egg
+There's one more quest we can do. Go to Sheridan Village. We're gonna take the female Phantump we caught and breed it at the day care to get an Egg. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. 
 
-There's one more quest we can do. This will get us a very strong Pokemon, but if you're not interested, go ahead and skip to the Route 4 section.
+During the daytime, return to the Route 3 market, and talk to the boy in front of the old man. He'll offer you a trade of his Mystery Egg for your Phantump egg.
 
-Go back through Wispy Ruins to Goldenleaf Town, then take the truck to get to Sheridan Village. We're gonna take the female Phantump we caught and breed it at the day care. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. Once you get a Phantump egg, make sure it doesn't hatch, and walk to Route 3.
+The mystery egg is unfortunately determined as you start your save file, so it cannot be re-determined by save resetting. Anyways, the mystery egg will be one of these Pokemon: **Azurill**, **Aron**, **Absol**, **Togepi**, **Sneasel**, **Dhelmise**, **Aevian Litwick**, **Axew**, **Mienfoo**, **Pawniard**, **Trapinch**, **Hippopotas**, **Cottonee**, **Darumaka**, **Hatenna**, **Starly**, **Tyrunt**, **Larvesta**, **Mareanie**, **Stufful**, **Rookidee**. These will all be available at some point later in the game, so don't fret if you don't get your favorite right now.
 
-This will only work during the daytime, but return to the Route 3 market, and talk to the boy in front of the old man. He'll offer you a trade of the mystery egg he just got for your Phantump egg.
+Take the truck back to Akuwa Town.
 
-The mystery egg is unfortunately determined as you start your save file, so it cannot be re-determined by save resetting. Anyways, the mystery egg will be one of these Pokemon: **Azurill, Aron, Absol, Togepi, Sneasel, Dhelmise, Aevian Litwick, Axew, Mienfoo, Pawniard, Trapinch, Mudbray, Cottonee, Darumaka, Hatenna, Starly, Tyrunt, Larvesta, Mareanie, Stufful, Rookidee**. These will all be available at some point later in the game (though not necessarily this version), so don't fret if you don't get your favorite right now.
-
-For now, head back to Route 4 through Wispy Path.
-
-## Akuwa Town?
+## Akuwa Town
 
 Now we can explore Akuwa Town a bit. Itemfinder at the entrance to the town will get you a *Super Repel*. There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**! There's also wild Pokemon in the grass.
 
-Akuwa Town
+!enc(13, ["Grass", "Fishing"], ["Old"])
 
-| Grass: Morning | %  | Grass: Day    | %  | Grass: Night   | %    |
-|----------------|----|---------------|--- |----------------|------|
-| Buizel         | 30 | Girafarig     | 45 | Buizel         | 30   |
-| Skitty         | 20 | Buizel        | 30 | Illumise       | 20   |
-| Girafarig      | 15 | Blitzle       | 15 | Girafarig      | 15   |
-| Blitzle        | 15 | **Audino**    | 5  | Noctowl        | 15   |
-| **Delcatty**   | 10 | **Floatzel**  | 4  | Volbeat        | 10   |
-| **Audino**     | 5  | **Lickitung** | 1  | **Audino**     | 5    |
-| **Floatzel**   | 4  |               |    | **Lickitung**  | 4    |
-| **Lickitung**  | 1  |               |    | **Floatzel**   | 1    |
+To the left of the gym is a *Modest Mint*. Enter the house to the north of the truck guy:
 
-| Old Rod        | %        |
-|----------------|----------|
-| Buizel         | 70       |
-| Seel           | 30       |
+**ZCell 031: Akuwa Town**
 
+!img("zcell031.png")
 
-Head up to the gym area, but before you go in, directly head east. Behind a tree you'll find Jessibelle, the sixth of nine *lost kids* who you can send to the lost camp. To the left of the gym is a *Modest Mint*.
-
-Enter the house to the north of the trucker:
-
-ZCell 015: Akuwa Town
-
-<img src="/assets/images/rejuv/image15.png"/>
-
-Talk to Aelita and then enter the Pokemon Center and go to the back to get a *Defibrillator*, then use it on the old guy. Head down to the beach area -- here you'll be able to fight wild **Corsola**. You'll also find *TM135 Brine*. Hidden on the beach is a *Soda Pop*.
+Outside on the beach, you can battle and catch **Clauncher**! You'll also find *TM135 Brine*. Hidden on the beach is a *Soda Pop*.
 
 Head up and up the ladder you'll see here and grab:
 
-ZCell 016: Akuwa Town (ignore the Ditto!)
+**ZCell 032: Akuwa Town**
 
-<img src="/assets/images/rejuv/image16.png"/>
+!img("zcell032.png")
+
+By the truck guy, only at night:
+
+**ZCell 033: Akuwa Town**
+
+!img("zcell033.png")
+
+Near the Ducklett egg location, only at night:
+
+**ZCell 034: Akuwa Town**
+
+!img("zcell034.png")
 
 At this point we will not be able to come back for a bit, so make sure you're ready with all the Pokemon you want to catch on this island for now, and every quest you wanted to finish.
 
-Once you're ready, head into the Aquarium/gym and go into the backroom. You don't need to win this one for the record...
+Head into the Pokemon Center to grab the defibrillator, then talk to Aelita. Find her again by the ACDMC on the beach, then go into the gym. Make your way to the back room.
+
+You don't need to win this one for the record...
+
+!battle(["Sonia",:XENDEATHWING_F,1])
 
 ## Blacksteeple Castle
 
-Blacksteeple is one of my favorite sections of this game, but its very story driven and has relatively few battles, items, wild Pokemon and the like. I'll be telegraphing every move you must do during this part of the game, but I also do believe it's more fun to play this part without referencing any guide unless you get stuck. We won't be able to come back later (at least in this version), so it might be a good idea to scan this section after you're done to ensure you don't miss anything. As a note - the outdoor section in the middle will be referred to as the courtyard, the east section will be the quarry, and the left section will be the fields.
-
 ### Day 1
 
-We'll wake up in the cells. Go to sleep.
+Go to sleep.
 
 **Relationship Point Choices**:
 - How did you? (Neutral)
 - You know, the usual. (Saki +1)
 
-Exit the only way you can, then make your way outside and to the east to the quarry. Head down into the mines and talk to Saki.
+Go up the stairs left, then make your way outside and to the east to the quarry. Head down into the mines and talk to Saki.
 
-Accept the fast travel, then talk to everyone in the mine. Once you do, the bottom area will open. Beat the trainer, then head to the sigil at the top of the mine.
+Accept the fast travel, then go into the battle arena room above. Back in the mine, talk to everyone. Once you do, the bottom area will open.
+
+!battle(["Cici",:OPT,0])
+
+Beat the trainer, then head to the sigil at the top of the mine.
 
 **Relationship Point Choices**:
 - Where's Aelita? (Neutral)
 - Are we done here? (Aelita -1)
 
-Exit Neved's office and head back down the stairs and head all the way up into the colorful door. Talk to the crew, then exit the room. If you go into the battle room and exit to the right, you can access some grass with wild Pokemon.
+Exit Neved's office, head back down the stairs, and enter the colorful door. Talk to the crew, then exit the room. If you go into the battle room and exit to the right, you can access some grass with wild Pokemon.
 
-Blacksteeple Castle
-
-| Grass         | %        |
-|---------------|----------|
-| **Tangela**   | 45       |
-| **Teddiursa** | 25       |
-| **Cramorant** | 15       |
-| **Abomasnow** | 4        |
-| **Ursaring**  | 4        |
-| **Delibird**  | 2        |
+!enc(435)
 
 I recommend catching everything here, in particular Cramorant, who we can't get later on.
 
-Head back to your bed and get some sleep.
+Head back to your bed on the lower level and get some sleep.
 
 ### Day 2
 
-Head on out and talk to the crew. Enter the door in the southwest corner, talk to the left guard to access the shop.
+Head upstairs and talk to the crew. Enter the door in the southwest corner, talk to the left guard to access the shop.
 
-Blacksteeple Castle Shop
+!shop("Blacksteeple Castle", [["Poke Ball", 200], ["Great Ball", 600], ["Ultra Ball", 1200], ["Super Potion", 700], ["Gourmet Treat", 1500], ["Repel", 350], ["Super Repel", 500], ["Escape Rope", 550]])
 
-|Item          |Price|
-|--------------|-----|
-|*Poke Ball*   |$200 |
-|*Great Ball*  |$600 |
-|*Ultra Ball*  |$1200|
-|*Super Potion*|$700 |
-|*GourmetTreat*|$1500|
-|*Repel*       |$350 |
-|*Super Repel* |$500 |
-|*Escape Rope* |$550 |
+Talk to the right guard, then head into the courtyard. On the upper level, you'll find a schoolboy.
 
-Talk to the right guard, then head into the courtyard. On the right-side upper level, you'll find a kid, battle him to get the *Mining Kit*.
+!battle(["Billy",:CAMPER,0])
+
+Beat him to get the *Mining Kit*.
 
 Enter the quarry again and talk to Adam.
 
@@ -334,63 +267,7 @@ Enter the quarry again and talk to Adam.
 - I won it. (Neutral)
 - I stole it. (Adam -1)
 
-All those glowing rocks around can be mined for items, just like in 4th gen. The item probabilities within are as follows:
-
-Mining Probabilities
-
-| Item Name        | Chance        |
-|------------------|---------------|
-| *Dome Fossil*    | 0.3%          |
-| *Helix Fossil*   | 0.6%          |
-| *Root Fossil*    | 0.3%          |
-| *Skull Fossil*   | 0.3%          |
-| *Armor Fossil*   | 0.3%          |
-| *Claw Fossil*    | 0.3%          |
-| *Fire Stone*     | 0.7%          |
-| *Water Stone*    | 0.7%          |
-| *Thunderstone*   | 0.7%          |
-| *Leaf Stone*     | 0.7%          |
-| *Moon Stone*     | 0.7%          |
-| *Sun Stone*      | 0.7%          |
-| *Oval Stone*     | 5.3%          |
-| *Everstone*      | 5.3%          |
-| *Star Piece*     | 3.5%          |
-| *Revive*         | 3.5%          |
-| *Max Revive*     | 1.7%          |
-| *Rare Bone*      | 3.5%          |
-| *Light Clay*     | 3.5%          |
-| *Hard Stone*     | 6.9%          |
-| *Heart Scale*    | 9.1%          |
-| *Iron Ball*      | 3.5%          |
-| *Odd Keystone*   | 0.3%          |
-| *Heat Rock*      | 1.7%          |
-| *Damp Rock*      | 1.7%          |
-| *Smooth Rock*    | 1.7%          |
-| *Icy Rock*       | 1.7%          |
-| *Amplifield Rock* | 0.3%          |
-| *Red Shard*      | 8.7%          |
-| *Green Shard*    | 8.7%          |
-| *Yellow Shard*   | 8.7%          |
-| *Blue Shard*     | 8.7%          |
-| *Insect Plate*   | 0.3%          |
-| *Dread Plate*    | 0.3%          |
-| *Draco Plate*    | 0.3%          |
-| *Zap Plate*      | 0.3%          |
-| *Fist Plate*     | 0.3%          |
-| *Flame Plate*    | 0.3%          |
-| *Meadow Plate*   | 0.3%          |
-| *Earth Plate*    | 0.3%          |
-| *Icicle Plate*   | 0.3%          |
-| *Toxic Plate*    | 0.3%          |
-| *Mind Plate*     | 0.3%          |
-| *Stone Plate*    | 0.3%          |
-| *Sky Plate*      | 0.3%          |
-| *Spooky Plate*   | 0.3%          |
-| *Iron Plate*     | 0.3%          |
-| *Splash Plate*   | 0.3%          |
-| *Pixie Plate*    | 0.3%          |
-
-These items can be nice to pick up, but you'll be able to get them all over the story so don't stress too much right now. Once we can revive fossils, I will mention them all at once, but feel free to mine at your leisure. If you save in front of a rock and press F12, you can reset the items within.
+All those glowing rocks around can be [mined for items](#mining-item-probabilities), just like in 4th gen. If you save in front of a rock and press F12, you can reset the items within.
 
 Break all the rocks, talk to Adam, and use the *Blast Powder* he gives you. Head left and talk to him again.
 
@@ -398,155 +275,114 @@ Break all the rocks, talk to Adam, and use the *Blast Powder* he gives you. Head
 - Calm down. (Adam +1)
 - You're useless! (Adam -2)
 
-Beat the trainer. After all that, head into the battle room.
+!battle(["Jona",:BEAUTY,0])
+
+After all that, head into the battle room.
 
 ### Night 2
 
-Now you'll control Emma for a bit. Make your way through the path and all the way to the right. After the first minecart goes, head left and up the hill to talk to a robot for a battle. Push it into its spot, then repeat with the robot to the left. Finally fly over the pit at the bottom and fight the third robot and push it into its place.
+Now you'll control Emma for a bit.
 
-Head into this room, then interact with the computer.
+!newself(["Emma",:HOOD,1])
+
+Make your way through the path and all the way to the right. After the first minecart goes, head left and up the hill to talk to a robot for a battle.
+
+!battle(["Purple Stripe",:SECURITYBOT,100], "Cave Field")
+
+Push it into its spot, then repeat with the robot to the left. 
+
+!battle(["Gold Stripe",:SECURITYBOT,100], "Cave Field")
+
+Finally fly over the pit at the bottom and fight the third robot, then push it into its place.
+
+!battle(["Purple Stripe",:SECURITYBOT,100], "Cave Field")
+
+Head into this room, then interact with the computer. Enter the room on the left.
 
 ### Day 3
 
-Head out and watch all the scenes. When you regain control, it's time for 3v3 battles in the battle room. The first two are easy, however the last is against Emma.
+Head out and watch all the scenes. When you regain control, it's time for 3v3 battles in the battle room. 
 
-Hooded Girl Emma (No Field)
--   Zoroark, Level 37.
-    -   Dark Pulse
-    -   Flamethrower
-    -   Shadow Ball
-    -   Grass Knot
--   Gardevoir, Level 38.
-    -   Dazzling Gleam
-    -   Psychic
-    -   Shadow Ball
-    -   Calm Mind
--   Meganium, Level 38.
-    -   Nature Power
-    -   Magical Leaf
-    -   Leech Seed
-    -   Poison Powder
+!battle(["Smith",:TECH,0])
 
-These three can all be threatening in their own way but choosing the right three will net you the victory easily.
+!battle(["Mannie",:TOURIST,0])
 
-Next, enter the library on top of the stairs, and read the purple bookshelf. Then head to the garden area to the left of the courtyard. Go up at the tree at the top, to reach a secret area.
+!battle(["Emma",:HOOD,0])
+
+Next, enter the library on top of the stairs, and read the purple bookshelf. Next, head to the garden area to the left of the courtyard. Go up at the tree at the top, to reach a secret area.
 
 **Relationship Point Choices**:
 - It was barely a riddle. (Neutral)
 - I was stumped. (Saki +1)
 
+!enc(437)
+
 Enter the hut to talk to the crew.
 
-Back in the garden, walk up the stairs on the right to interact with the crew by the sigil. Then reenter the castle and talk to Valarie at the dining hall.
+Back in the garden, walk up the stairs on the right to interact with the crew by the sigil. Finally, go right to reenter the castle, go upstairs, and talk to Valarie at the dining hall.
 
 ### Night 3
 
 In the prestige room, talk to the candelabra then the bookshelf.
 
-Next, you'll play as Emma again. Head to the battleship first. Then sneak your way through the courtyard and then the castle to reach the third floor. Enter Neved's room, then the room to the right.
+Next, you'll play as Emma again. Head to the battleship first. Sneak your way through the courtyard and then the castle to reach the third floor. Enter Neved's room, then the room to the right.
 
-Back outside enter the library and talk to the wide blue bookshelf on the left. Then talk to the bookshelf in the middle, then beat the trainer.
+Back outside, enter the library and talk to the wide blue bookshelf on the left. Then talk to the bookshelf in the middle, then beat the trainer.
+
+!battle(["Cici",:OPT,1])
 
 ### Day 4
 
-There's an impossible battle coming up as soon as we do the next cutscene, so make sure if you want to win add Fletchling with Quick Guard to your party.
+There's an 'impossible' battle coming up as soon as we do the next cutscene.
 
-Enter the secret garden area again and enter the hut. After a lot of scenes, head back to the secret garden and down the stairs. Push through the false wall, then again on the right.
+Enter the secret garden area again and enter the hut. 
+
+### Day 6 
+
+After a lot of scenes, head back to the secret garden and down the stairs. Push through the false wall, then again on the right.
 
 **Relationship Point Choices**:
 - We're getting out. (PianoLady +2)
 - I'm here to help. (PianoLady +1)
 - We're screwed. (PianoLady -1)
 
-Go right and up.
+Grab the *Focus Sash*, then go right and up.
 
-Xen Executive Madelis (Cave Field)
--   Cinccino, Level 36.
-    -   Bullet Seed
-    -   Rock Blast
-    -   Tail Slap
-    -   Encore
--   Tsareena, Level 37.
-    -   Trop Kick
-    -   Bounce
-    -   Nature Power
-    -   Low Sweep
--   Sharpedo, Level 38. @ Focus Sash.
-    -   Bounce
-    -   Crunch
-    -   Psychic Fangs
-    -   Waterfall
--   Florges, Level 37.
-    -   Nature Power
-    -   Dazzling Gleam
-    -   Synthesis
-    -   Giga Drain
--   Salazzle, Level 37.
-    -   Flamethrower
-    -   Sludge Bomb
-    -   Foul Play
-    -   Toxic
--   Houndoom, Level 39. @ Wise Glasses.
-    -   Flamethrower
-    -   Dark Pulse
-    -   Nasty Plot
-    -   Sludge Bomb
+!battle(["Madelis",:XENEXECUTIVE_2,1], "Cave Field")
 
 Be wary of Cinccino, as its 5-hit rock blast is boosted by the cave and tail slap hits hard. Her Houndoom and Salazzle can hit hard but if you can shut them down with a strong Rock or Water type, you'll be ok.
 
-Outside, Nancy will join up with you! Beat the guards as you go. She has a Level 65 Sylveon (!) so you shouldn't have to worry much. Once you get to the courtyard, head back up to Neved's office.
+Outside, Nancy will join up with you! Make your way to the courtyard, then up to Neved's office.
+
+!partner(["Nancy",:SUPERSTAR,1])
+
+!battle(["Herald",:PRISONGUARD,0])
+
+!battle(["Simon",:PRISONGUARD,0])
+
+!battle(["Shin",:PRISONGUARD,0])
 
 **Relationship Point Choices**:
 - Are you okay? (Aelita +3)
 - I looked for you... (Aelita +2)
 - We gotta get to the top! (Aelita +1)
-- No time to catch up! (Aelita -1
+- No time to catch up! (Aelita -1)
 
 Follow the stairs all the way up and prepare for battle. Aelita will join your party for this one.
 
-Xen Executive Neved (No Field)
--   Crabominable, Level 41. @ Occa Berry.
-    -   Ice Punch
-    -   Drain Punch
-    -   Rock Slide
-    -   Crabhammer
--   Tentacruel, Level 41. @ Sitrus Berry.
-    -   Sludge Bomb
-    -   Dazzling Gleam
-    -   Blizzard
-    -   Scald
--   Vikavolt, Level 42.
-    -   Thunderbolt
-    -   Bug Buzz
-    -   Air Slash
-    -   Thunder Wave
--   Manectric, Level 43. @ Magnet.
-    -   Thunderbolt
-    -   Hidden Power Ice
-    -   Volt Switch
-    -   Flamethrower
--   Aevian Palossand, Level 44. @ Never Melt Ice.
-    -   Ice Beam
-    -   Shadow Ball
-    -   Giga Drain
-    -   Moonlight
--   Barbaracle, Level 45. @ Sitrus Berry.
-    -   X-Scissor
-    -   Night Slash
-    -   Razor Shell
-    -   Rock Slide
+!partner(["Aelita",:STUDENT,10])
+
+!battle(["Neved",:XENEXECUTIVE_4,0])
 
 Neved has a team that's entirely above your level cap, but you also get to effectively 12 on 6 him with Aelita on your side, so it's not too tough of a fight. Manectric is insanely fast and likes to one-shot Aelita's Pokemon, so take it out quickly if you can. Crippling Crabominable with a burn or attack lower might be a good strategy while you clean up the left side. Watch out for Barbaracle too which hits surprisingly hard. Anyways, just keep up the pressure and make sure the fastest mons is out, then you and Aelita should be able to win.
 
 Well....
 
-Madame X (No Field)
--   Yveltal, Level 100. @ Soul Stone.
-    -   Decimation
+!battle(["Madame X",:XENDICTATOR,0])
 
-This is one of those 'impossible' RPG battles. Ultimately, you're supposed to lose this one obviously, but if you're crafty, the game will acknowledge your victory should you manage to succeed with +1 Karma.
+!move("DECIMATION")
 
-Decimation is a priority move, but it ignores abilities. Hence, we have to use Quick Guard! Decimation has 20 PP and Quick Guard starts with 15. TWO Pokemon with Quick Guard can drain its PP with Quick Guard, then watch it struggle to death!
+Winning this one is not required. This is of course an extremely difficult battle, in no small part because Decimation is a priority move. Yet the game was careful to give us a single lifeline in the form of a Focus Sash - will you use it to buy yourself time to Poison or Burn Yveltal? Will you take advantage of the fact it likes to use and miss the inaccurate Focus Blast and Hurricane moves? It cannot heal, so any damage is progress! If you want to win this one it is absolutely possible. Winning grants: (+1 Karma).
 
 Whether you win or lose, watch the next scenes play out.
 
@@ -570,91 +406,100 @@ Grab the Poke Ball at the table to get **Mawile**.
 
 There's an Audino breeder in here, and each time you win you'll be given 5 *Exp. Candy M*.
 
-Exit the room and head down then to the right.
+!battle(["Dibby",:POKEBREEDER_M,0], "Factory Field")
+
+Exit the room, and exit the interior at the bottom. Go right.
 
 **Relationship Point Choices**:
 - It's okay. (Melia +2)
 - I don't know... (Melia -1)
 - ... (Melia -1)
 
-Your *Snag Machine* will finally be fixed! Reenter the interior and head down the stairs to the right to grab the *Dull Key*! We'll be using this a bit later.
+Your *Snag Machine* will finally be fixed! Reenter the interior and head down the stairs to the right to grab the *Dull Key*.
 
 There's also the Akuwa town merchant here:
 
-Xen Battleship Shop
-
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Potion*       |$300 |
-|*Super Potion* |$700 |
-|*Antidote*     |$100 |
-|*Ice Heal*     |$250 |
-|*GourmetTreat* |$1500|
-|*Super Repel*  |$500 |
-|*Reverse Candy*|$50  |
+!shop("Xen Battleship Shop", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Antidote", "Ice Heal", "GourmetTreat", "Super Repel", "Reverse Candy"])
 
 Head up the stairs, and then up the stairs at the top. Follow Melia to the battle room for a fight.
 
-Enigma Melia (Factory Field)
--   Gardevoir, Level 38. @ Twisted Spoon.
-    -   Shadow Ball
-    -   Gilded Arrow
-    -   Dazzling Gleam
-    -   Wish
--   Zoroark, Level 37. @ Dread Plate.
-    -   Gilded Arrow
-    -   Nasty Plot
-    -   Flamethrower
-    -   Shadow Ball
--   Meganium, Level 38. @ Leftovers.
-    -   Stun Spore
-    -   Nature Power
-    -   Stomping Tantrum
-    -   Petal Blizzard
--   Snorlax, Level 38. @ Silk Scarf.
-    -   Body Slam
-    -   Curse
-    -   Crunch
-    -   High Horsepower
--   Togekiss, Level 39. @ Sitrus Berry.
-    -   Aura Sphere
-    -   Gilded Arrow
-    -   Thunder Wave
-    -   Flamethrower
--   Doublade, Level 38. @ Occa Berry.
-    -   Brick Break
-    -   Iron Head
-    -   Shadow Claw
-    -   Shadow Sneak
+!battle(["Melia",:ENIGMA,0], "Factory Field")
 
-Gilded Arrow: Type is the same as the user's secondary type, unless the user is single-typed or their secondary type is Dragon or Fairy, in which case the type is the user's primary type \| Special \| 80 power \| 100% accuracy \| Increased critical hit rate.
+!move("GILDEDARROW")
 
-Melia has added three more Pokemon since last time, but her team is nothing too much for us, especially after Madelis and Neved.
+Gilded Arrow uses the user's second type, unless its Dragon or Fairy, or unless the user has one type, in which cases the first type is used. Confusing! Melia has added three more Pokemon since last time, but her team is nothing too much for us, especially after Madelis and Neved.
 
 After you win, head out to the deck and talk to Melia again.
 
-## Terajuma Shore
+## Terajuma Jungle
 
-Once you beach, you'll have to battle two rangers. Winning grants +3 Melia relationship points, while losing takes away -3 Melia relationship points.
+Once you beach, you'll have to battle two rangers, with the above Melia as a partner.
 
-Back on the ship, head up the two ladders to reach *TM136 Assurance*. Head down from the ship, and you'll see a **Pyukumuku** on the shore.
+!dbattle(["Alex",:POKEMONRANGER_F1,0], ["Sam",:POKEMONRANGER_M1,0])
 
-Terajuma Island
+**Relationship Point Choices:**
+- Win this double battle (+3 Melia)
+- Lose this double battle (-3 Melia)
 
-| Old Rod        | %        |
-|----------------|----------|
-| **Carvanha**   | 100      |
+Head back on the ship through the loading bay. Head up the two ladders to reach *TM136 Assurance*. 
 
-Hidden on this beach is a *Grass Gem*. Talk to Nim at the bottom.
+Back outside in the Shipyard, go up into the jungle.
+
+**Relationship Point Choices:**
+- Everything okay? (+1 Melia, +1 Aelita)
+- Huh? (Neutral)
+- Where do we go? (Neutral)
+- I can handle myself. (-1 Melia, -2 Aelita)
+
+!enc(210, ["Grass", "Fishing"], ["Old"])
+
+Grab the hidden *Tiny Mushroom*, *Yellow Shard*, *Pecha Berry*, and *Ultra Ball* on this map. In the top left is *TM131 Bullet Seed* and a hidden *Potion*.
+
+Enter the Deep Terajuma Jungle in the bottom left corner.
+
+Grab the *Maranga Berry* and *2 Wiki Berries* above, and a hidden *Star Piece*. Cross the bridge below, grab the hidden *Chestnut* and *Bug Gem*. Go left.
+
+!battle(["Ceil",:POKEMONRANGER_F,0], "Forest Field")
+
+!battle(["Diandra",:POKEMONRANGER_F,0], "Forest Field")
+
+Grab another *5 Chestnuts* hidden around. Pick up the *Quick Powder*, *Full Heal*, and *3 Passho Berries*. Enter the next map.
+
+!enc(268, ["Grass"])
+
+On this map, grab the hidden *Dusk Ball* and *Lemonade*. Go up at the top.
+
+!enc(406)
+
+Nothing else to do here for now, so head back to the previous map and go right.
+
+!enc(183)
+
+Grab the hidden *Star Piece*, *Red Shard*, *Stardust*, and an *Exp. Candy L* by pushing a floating stone out of the way.
+
+This is all we can do in the Deep Jungle for now, so backtrack to the first jungle map, and go up in the top right.
+
+## Kakori Village
 
 **Relationship Point Choices**:
-- Are you okay? (Nim +2)
-- We're ready to go. (Neutral)
+- You're our friend. (Nim +6)
+- About that house... (Neutral)
+- She's right, we don't. (-4 Nim, -4 Adam, -4 Aelita, -7 Melia, -4 Valarie, -4 Braixen)
 
-Go to the east. Pick the two *Passho Berries*. Use the itemfinder on this side to find *Soda Pop* and *Fresh Water*.
+Go right, and grab the *4 Yache Berries*. Talk to the Noctowl Statue to activate it.
 
+
+
+
+
+
+
+
+
+
+
+
+--
 Shore Shop
 
 |Item           |Price|

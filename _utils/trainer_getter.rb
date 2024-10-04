@@ -89,7 +89,7 @@ class TrainerGetter
                     elsif type_mod == 1
                       "Partner: #{trainer_name}"
                     elsif type_mod == 2
-                      "POV Trainer: #{name_ext}"
+                      "POV Trainer: #{name_ext != "" ? name_ext : trainer_name}"
                     end
 
     td_main_content.add_child(bold)
@@ -217,6 +217,7 @@ class TrainerGetter
       
       # Handles display of boss mon - including shield info
       if mon[:boss]
+        boss_data[:onBreakEffects] ||= []
         # Handles text parts of boss data
         mon_details_parts.push("Shields: #{boss_data[:shieldCount]}")
         mon_details_parts.push("Immunities to #{boss_data[:immunities].join(", ")}") if boss_data[:immunities] != {}
