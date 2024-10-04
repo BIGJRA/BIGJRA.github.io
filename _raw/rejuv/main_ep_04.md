@@ -271,9 +271,9 @@ Don't forget to catch a Drifloon. Grab a hidden *Honey* to the left. Talk to the
 
 !battle(["Pietro",:GHOSTGUY,0], "Forest Field")
 
-Grab the hidden *Moon Stone* and *Rare Candy* beyond. Pick up the *Rash Mint* too.
+Grab the hidden *Moon Stone* and *Rare Candy* beyond. Pick up the *Rash Mint* too. At night only:
 
-**ZCell 022: Goldenleaf Town (Night)**
+**ZCell 022: Goldenleaf Town**
 
 !img("zcell022.png")
 
@@ -305,9 +305,9 @@ In Reina's room, read Reina's diary then check the couch for $500.
 
 !shop("Goldenleaf Mart", ["Great Ball", "Super Potion", "GourmetTreat", "Repel", "Super Repel", "Escape Rope"])
 
-Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first:
+Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first, at night only:
 
-**ZCell 024: Goldenleaf Town (Night)**
+**ZCell 024: Goldenleaf Town**
 
 !img("zcell024.png")
 
@@ -387,7 +387,7 @@ Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Do
 
 !img("zcell027.png")
 
-Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a *Guard Spec.* and a hidden *Oran Berry*. To the left and up from here, a tile above the leftmost red mushrooms before the stairs contains a *Persim Berry*. Go up the first stairs then left. Two tiles right of the leftmost red flower is a *Sitrus Berry*. Pick up the *Guard Spec*. below.
+Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a *Guard Spec* and a hidden *Oran Berry*. To the left and up from here, a tile above the leftmost red mushrooms before the stairs contains a *Persim Berry*. Go up the first stairs then left. Two tiles right of the leftmost red flower is a *Sitrus Berry*. Pick up the *Guard Spec*. below.
 
 Head up... 
 
@@ -433,7 +433,13 @@ Upstairs, head into the room at the top.
 - I want to go home. (Mosely -2)
 - Time to whoop ass! (Neutral)
 
-We're going back to Wispy Tower. Enter Wispy Tower and into the stairs. After talking to Geara, Mosely and Narcissa will join you.
+We're going back to Wispy Tower. Head to the top of the room:
+
+**Wisp 06: Wispy Tower**
+
+!img("wisp06.png")
+
+Go down the stairs in the statue. After talking to Geara, Mosely and Narcissa will join you.
 
 !enc(403)
 

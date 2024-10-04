@@ -143,7 +143,7 @@ A wall above her on the right contains a hidden *Ether*.
 
 !battle(["Hinata",:TOURIST,0])
 
-The path above is now clear, so you have a shorter path to traverse through Route 2. Return to the Kecleon Bazaar on the south side of the Route. On the right, you'll be able to purchase a *Magnetic Lure* for $2000. This item makes it so you will encounter Pokemon you haven't caught yet when held, which is fantastic for a 100% playthrough.
+The path above is now clear, so you have a shorter path to traverse through Route 2. Return to the Kecleon Bazaar on the south side of the Route. On the right, you'll be able to purchase a *Magnetic Lure* for $2000. This item makes it so you will encounter Pokemon you haven't caught yet when held, which is fantastic for a 100% playthrough. Leaving and reentering will allow you to buy the *Mirror Lure* for $2000, which makes it so you'll encounter the same Pokemon as your lead, helpful for shiny hunting.
 
 The four items of inventory on the left are determined randomly each day - a number is picked from 1-8. You'll get one set of the following:
 
