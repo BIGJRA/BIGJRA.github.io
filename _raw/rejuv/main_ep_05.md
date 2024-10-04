@@ -94,11 +94,11 @@ Cross the bridge to the right.
 
 !enc(130, ["Grass", "Fishing"], ["Old"], "Route 4 (East)")
 
-!trainer(["Sheila",:OPT,0], "Grassy Terrain")
+!battle(["Sheila",:OPT,0], "Grassy Terrain")
 
 Interact with the stone den. You'll get *5 Rift Fragments*. These dens have a one-in-seven chance to have a Rare Spawn appear, which will be a light blue color, otherwise it will be purple. These will allow us to catch Shadow Pokemon from within the dens, once we break all of their shields! Not fighting it or defeating it gives 250/500 for common/rare dens respectively, while catching gives 500/1000 respectively.
 
-RIFT DEN 1 (\< 8 Badges): The common encounters in this den are Graveler, Nuzleaf, **Solosis**, and **Tropius**. The rare ones are Bonsly, Meowth, and Finneon.
+!raid(1, 4)
 
 Head back to the left and let Cairo break the rock. You'll get a *Moomoo Milk*. Head up.
 

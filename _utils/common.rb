@@ -480,12 +480,9 @@ def load_trainer_hash(game, scripts_dir)
 end
 
 def load_boss_hash(game, scripts_dir)
-  begin
-    data = File.read(File.join(scripts_dir, game.capitalize, 'BossInfo.rb'))
-    return eval(data)
-  rescue
-    return {}
-  end
+  return {} if game == "reborn"
+  data = File.read(File.join(scripts_dir, game.capitalize, 'BossInfo.rb'))
+  return eval(data)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
@@ -608,12 +605,129 @@ def hp_str(move, hptype)
   " (#{hptype.to_s.capitalize!})"
 end
 
+def get_iv_str(ivs)
+  return 'IVs: All 10' if !ivs
+  return ivs == 32 ? 'IVs: All 31 (0 Spe)' : "IVs: All #{ivs}" if ivs.class == Integer
+  return "IVs: All #{ivs[0]}" if (ivs && ivs.uniq.length == 1)
+  return 'IVs: ' + ivs.zip(EV_ARRAY).reject do |iv, _|
+    iv.zero?
+  end.map { |iv, position| "#{iv} #{position}" }.join(', ')
+end
+
+def get_ev_str(evs, level=0)
+  return "EVs: All #{[85, level * 3 / 2].min}" if !evs
+  return "EVs: All #{evs[0]}" if (evs && evs.uniq.length == 1)
+  return 'EVs: ' + evs.zip(EV_ARRAY).reject do |ev, _|
+                ev.zero?
+              end.map { |ev, position| "#{ev} #{position}" }.join(', ')
+end
+
 def is_custom_form(form_key)
   # TODO this part for more forms
   return false if !form_key
   form_frags = ["pulse", "rift", "aevian form", "bot", "purple", "crystal", "mismageon", "meech", "dev", "crescent"]
   form_frags.any? { |key| form_key.downcase.include?(key) }
 end
+
+def load_raid_den_hash(game, scripts_dir)
+  return {} if game == "reborn"
+  data = File.read(File.join(scripts_dir, game.capitalize, 'RaidDens.rb'))
+
+  mon_info = {}
+  dens = {}
+  current_den = nil
+  current_rarity = nil
+  current_badge = nil
+  current_pokemon = nil
+
+  found_encounter_block = false
+
+  badge_levels = {
+    4 => 35,
+    8 => 50,
+    12 => 65,
+    16 => 80,
+    18 => 95
+  }
+
+
+  data.each_line do |line|
+    # Check if we are in the encounterTable function
+    if line.include?("encounterTable")
+      found_encounter_block = true
+      next
+    end
+
+    if !found_encounter_block
+      # Processing denEncounters function
+
+      # Match Pokémon definitions
+      if line =~ /:\s*(?<pokemon>\w+)\s*=>\s*{/  # Ensure to match the opening brace
+        current_pokemon = $~[:pokemon].to_sym
+        mon_info[current_pokemon] ||= {}  # Initialize a new hash for this Pokémon
+      end
+
+      if current_pokemon  # Only process attributes if a Pokémon has been defined
+        if line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?),\n/m
+          att_name = $~[:att].to_sym
+          values = eval($~[:values].strip)
+
+          # Assign the attribute to the current Pokémon's hash
+          mon_info[current_pokemon][att_name] = values
+        end
+      end
+
+    elsif found_encounter_block
+      # Processing encounterTable function
+
+      # Match den definitions
+      if line =~ /when\s+"(?<den>Den\d+)(Rare)?"/
+        current_den = $~[:den]
+        current_rarity = line.include?("Rare") ? :rare : :common
+        dens[current_den] ||= { common: {}, rare: {} }
+      end
+
+      # Match game switch lines
+      if line =~ /\$game_switches\[:Gym_(\d+)\]/
+        current_badge = $1.to_i
+        dens[current_den][current_rarity][current_badge] ||= {}
+      end
+
+      # Match encounter lines
+      if line =~ /:(?<pokemon>\w+)\s*=>\s*{/
+        current_pokemon = $~[:pokemon].to_sym
+        dens[current_den][current_rarity][current_badge][current_pokemon] ||= mon_info[current_pokemon]
+        dens[current_den][current_rarity][current_badge][current_pokemon][:level] = badge_levels[current_badge]
+        if current_pokemon == :BELDUM
+          dens[current_den][current_rarity][current_badge][current_pokemon][:level] = 20
+        end
+      end
+
+      if line =~ /:weight => (?<weight>.*)\n/
+        dens[current_den][current_rarity][current_badge][current_pokemon][:weight] = eval($~[:weight]) 
+      end
+    end
+  end
+
+  dens.each do |den, rarities|
+    rarities.each do |rarity, badges|
+      badges.each do |badge, pokemons|
+        total_weight = pokemons.values.map { |p| p[:weight] || 0 }.sum
+
+        pokemons.each do |pokemon, attributes|
+          if total_weight > 0
+            # Calculate odds as a percentage and format to 2 decimal places
+            attributes[:odds] = ((attributes[:weight] / total_weight.to_f) * 100).round(2)
+          else
+            attributes[:odds] = 0.0  # Handle case where total_weight is zero
+          end
+        end
+      end
+    end
+  end
+  dens
+end
+
 
 class EncounterMapWrapper
   def initialize(game, scripts_dir)

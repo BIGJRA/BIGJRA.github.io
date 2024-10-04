@@ -357,25 +357,9 @@ class TrainerGetter
         stat_details_parts.push(base_stats_str) 
       end
       stat_details_parts.push(mon[:nature] ? "#{mon[:nature].capitalize} Nature" : 'Hardy Nature',)
-      ev_str = if mon[:ev] && mon[:ev].uniq.length == 1
-                  "EVs: All #{mon[:ev][0]}"
-                elsif mon[:ev]
-                  'EVs: ' + mon[:ev].zip(EV_ARRAY).reject do |ev, _|
-                              ev.zero?
-                            end.map { |ev, position| "#{ev} #{position}" }.join(', ')
-                else
-                  "EVs: All #{[85, mon[:level] * 3 / 2].min}"
-                end
-      stat_details_parts.push(ev_str)
-      iv_str = if mon[:iv]
-                  mon[:iv] == 32 ? 'IVs: All 31 (0 Spe)' : "IVs: All #{mon[:iv]}"
-                else
-                  'IVs: All 10'
-                end
 
-
-      
-      stat_details_parts.push(iv_str)
+      stat_details_parts.push(get_ev_str(mon[:ev], mon[:level]))
+      stat_details_parts.push(get_iv_str(mon[:iv]))
       stat_details_td = doc.create_element('td', stat_details_parts.join("\n"))
       content_row.add_child(stat_details_td)
 

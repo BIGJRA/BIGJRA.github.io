@@ -9,7 +9,7 @@ class EncounterGetter
     @encHash = enc_hash ||= load_enc_hash(game, scripts_dir)
     @mapHash = map_names ||= load_maps_hash(game, scripts_dir)
     @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game, scripts_dir)
-    @monHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
+    @pokemonHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
     @encStore = Set[]
   end
 
@@ -143,12 +143,12 @@ class EncounterGetter
         # Add Pokemon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
 
-        base_form = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
-        pokemon_name_formatted = @monHash[mon][base_form][:name]
+        base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
 
         if @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
           form = @encMapWrapper.get_enc_maps(mon)[map_id]
-          form_key = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
+          form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
 
           pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
         end
