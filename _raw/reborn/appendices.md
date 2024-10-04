@@ -155,7 +155,7 @@ You can use any number of these passwords to have the game pull from your list -
 - **randfields**: Selects any field at random for each fight.
 - **elemental**: Selects from Electric Terrain, Grassy Terrain, Misty Terrain, Corrosive Mist Field, Burning Field, Icy Field, Water Surface, Underwater, Murkwater Surface, and Dragon's Den at random for each fight.
 - **magical**: Selects from Dark Crystal Cave, Rainbow Field, Crystal Cavern, Holy Field, Fairy Tale Field, Starlight Arena, New World, Inverse Field, and Psychic Terrain at random for each fight.
-- **Synthetic**: Selects from Chess Board, Big Top Arena, Factory Field, Short Circuit Field, Glitch Field, Mirror Arena, and Flower Garden Field at random for each fight.
+- **Synthetic**: Selects from Chess Board, Big Top Arena, Factory Field, Short-Circuit Field, Glitch Field, Mirror Arena, and Flower Garden Field at random for each fight.
 - **telluric**: Selects from Swamp Field, Corrosive Field, Desert Field, Rocky Field, Forest Field, Super-Heated Field, Wasteland, Ashen Beach, Cave, Mountain, and Snowy Mountain at random for each fight.
 
 ### Bulk Passwords

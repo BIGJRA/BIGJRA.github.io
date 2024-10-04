@@ -101,7 +101,7 @@ class TrainerGetter
     end
 
     if type_mod == 0 && !item_symbols.empty? # Adds count of enemy trainer items
-      item_str = item_symbols.map { |sym, count| "#{@itemHash[sym][:name]} #{count > 1 ? "(#{count})" : ''}" }
+      item_str = item_symbols.map { |sym, count| "#{@itemHash[sym][:name]}#{count > 1 ? " (#{count})" : ''}" }
       items_div = doc.create_element('div')
       items_div.content = "Items: #{item_str.join(', ')}"
       td_main_content.add_child(items_div)
@@ -220,16 +220,16 @@ class TrainerGetter
         # Handles text parts of boss data
         mon_details_parts.push("Shields: #{boss_data[:shieldCount]}")
         mon_details_parts.push("Immunities to #{boss_data[:immunities].join(", ")}") if boss_data[:immunities] != {}
-        boss_data[:onBreakEffects].each do |shield_count, effect_obj|
-          threshold_text = "#{effect_obj[:threshold] != 0 ? " ( at #{effect_obj[:threshold] * 100}% HP)" : ""}"
+        boss_data[:onBreakEffects].each do |shield_count, effs|
+          threshold_text = "#{effs[:threshold] != 0 ? " ( at #{effs[:threshold] * 100}% HP)" : ""}"
           result = "Shield Break #{shield_count}#{threshold_text}: \n"
 
-          effects = []
+          eff_strs = []
           # TODO: These will all need custom code............
-          effects.push(effect_obj[:bossEffect]) if effect_obj[:bossEffect]
-          effects.push(effect_obj[:weatherChange]) if effect_obj[:weatherChange]
-          if effect_obj[:formchange]
-            new_form = effect_obj[:formchange]
+          eff_strs.push(effs[:bossEffect]) if effs[:bossEffect]
+          eff_strs.push(effs[:weatherChange]) if effs[:weatherChange]
+          if effs[:formchange]
+            new_form = effs[:formchange]
             new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]
             new_form_data = @pokemonHash[mon[:species]][new_form_key]
 
@@ -246,48 +246,60 @@ class TrainerGetter
               form_changes.push('Base Stats => ' + new_base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', '))
             end
     
-            effects.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
+            eff_strs.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
           end
-          if effect_obj[:fieldChange]
-            effects.push("Field becomes #{FIELDS[effect_obj[:fieldChange]]}") 
+          if effs[:fieldChange]
+            eff_strs.push("Field becomes #{FIELDS[effs[:fieldChange]]}") 
           end
-          if effect_obj[:abilitychange]
-            effects.push("Ability becomes #{@abilityHash[effect_obj[:abilitychange]][:name]}") 
+          if effs[:abilitychange]
+            eff_strs.push("Ability becomes #{@abilityHash[effs[:abilitychange]][:name]}") 
           end
-          if effect_obj[:typeChange]
-            effects.push("Type becomes #{effect_obj[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
+          if effs[:typeChange]
+            eff_strs.push("Type becomes #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
           end
-          if effect_obj[:movesetUpdate]
-            effects.push("Moveset becomes #{effect_obj[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
+          if effs[:movesetUpdate]
+            eff_strs.push("Moveset becomes #{effs[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
           end
-          effects.push(effect_obj[:speciesChange]) if effect_obj[:speciesChange]
-          effects.push(effect_obj[:statusCure]) if effect_obj[:statusCure]
-          effects.push(effect_obj[:effectClear]) if effect_obj[:effectClear]
-          effects.push(effect_obj[:bossSideStatusChanges]) if effect_obj[:bossSideStatusChanges]
-          effects.push(effect_obj[:playerSideStatusChanges]) if effect_obj[:playerSideStatusChanges]
-          if effect_obj[:statDropCure]
-            effects.push("Stat drops are cured")
+          eff_strs.push(effs[:speciesChange]) if effs[:speciesChange]
+          eff_strs.push(effs[:statusCure]) if effs[:statusCure]
+          eff_strs.push(effs[:effectClear]) if effs[:effectClear]
+          if effs[:bossSideStatusChanges]
+            eff_strs.push("Effect added to boss side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
-          effects.push(effect_obj[:playerEffects]) if effect_obj[:playerEffects]
-          effects.push(effect_obj[:stateChanges]) if effect_obj[:stateChanges]
-          if effect_obj[:playersideChanges]
-            effects.push("Effect added to player side: #{effect_obj[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+          eff_strs.push(effs[:playerSideStatusChanges]) if effs[:playerSideStatusChanges]
+          if effs[:statDropCure]
+            eff_strs.push("Stat drops are cured")
           end
-          effects.push(effect_obj[:bosssideChanges]) if effect_obj[:bosssideChanges]
-          effects.push(effect_obj[:itemchange]) if effect_obj[:itemchange]
-          if effect_obj[:bossStatChanges]
+          eff_strs.push(effs[:playerEffects]) if effs[:playerEffects]
+          eff_strs.push(effs[:stateChanges]) if effs[:stateChanges]
+          if effs[:playersideChanges]
+            eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+          end
+          eff_strs.push(effs[:bosssideChanges]) if effs[:bosssideChanges]
+          if effs[:itemchange]
+            eff_strs.push("Boss held item becomes #{@itemHash[effs[:itemchange]][:name]}")
+          end
+          if effs[:bossStatChanges]
             groups = {}
-            effect_obj[:bossStatChanges].each do |stat, lvl|
+            effs[:bossStatChanges].each do |stat, lvl|
               groups[lvl] ||= []
               groups[lvl].push(stat)
             end
             groups.each do |lvl, stats|
-              effects.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              eff_strs.push("Boss's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
             end
           end
-          effects.push(effect_obj[:playerSideStatChanges]) if effect_obj[:playerSideStatChanges]
-          
-          result += "- #{effects.join("\n- ")}"
+          if effs[:playerSideStatChanges]
+            groups = {}
+            effs[:playerSideStatChanges].each do |stat, lvl|
+              groups[lvl] ||= []
+              groups[lvl].push(stat)
+            end
+            groups.each do |lvl, stats|
+              eff_strs.push("Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+            end
+          end
+          result += "- #{eff_strs.join("\n- ")}"
           shield_break_details.push(result)
         end
       end

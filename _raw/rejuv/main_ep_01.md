@@ -74,7 +74,7 @@ The EV training center can be accessed by talking to the woman on the right of t
 
 The guy running in place on the left will offer to give you cinematic bars during important cutscenes if you want. Talk to the girl behind the counter to buy some basic products.
 
-!shop("Gearen Lab Shop", ["Poke Ball", "Potion", "Repel", "Antidote"])
+!shop("Gearen Lab", ["Poke Ball", "Potion", "Repel", "Antidote"])
 
 I recommend picking up at least a few Poke Balls as a full team is almost necessary to succeed in Rejuvenation.
 
@@ -200,7 +200,7 @@ There are a few shops here.
 
 !shop("Poke Ball Boutique", ["Heavy Ball", "Moon Ball"])
 
-!shop("Berry Emporium Shop", ["Oran Berry", "Pecha Berry"])
+!shop("Berry Emporium", ["Oran Berry", "Pecha Berry"])
 
 You can pick up a few of each berry for the gym.
 
@@ -351,11 +351,11 @@ Now that we have the Coin Case, let's go gambling! While you can get all the rew
 
 Anyways, there's a grand total of 120 coins along the ground in there, try to find them all. Otherwise, here's what you can get here:
 
-!shop("Game Corner Coin Shop", [["50 Coins", "$1000"], ["500 Coins", "$10000"]])
+!shop("Game Corner Coins", [["50 Coins", "$1000"], ["500 Coins", "$10000"]])
 
-!shop("Game Corner Left Shop", [["TM70 Flash", "1000 Coins"], ["TM10 Hidden Power", "5000 Coins"]])
+!shop("Game Corner Left", [["TM70 Flash", "1000 Coins"], ["TM10 Hidden Power", "5000 Coins"]])
 
-!shop("Game Corner Right Shop", [["Seel", "1000 Coins", true], ["Spoink", "4000 Coins", true], ["Maractus", "5000 Coins", true], ["Helioptile", "6500 Coins", true]])
+!shop("Game Corner Right", [["Seel", "1000 Coins", true], ["Spoink", "4000 Coins", true], ["Maractus", "5000 Coins", true], ["Helioptile", "6500 Coins", true]])
 
 Anyways, once you've gambled to your heart's content, there is a bit more optional stuff to do if you want.
 
@@ -468,7 +468,7 @@ Return to the help center to get your reward: $1100, a *GourmetTreat*, and *TM11
 
 It's time to take on Venam's gym in East Gearen.
 
-!shop("East Gearen Gym Shop", ["Potion", "Antidote", "Repel", "Poke Ball"])
+!shop("East Gearen Gym", ["Potion", "Antidote", "Repel", "Poke Ball"])
 
 Talk to the trainers around the gym.
 

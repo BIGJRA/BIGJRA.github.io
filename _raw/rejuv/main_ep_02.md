@@ -278,11 +278,11 @@ Enter the Move Tutor House just above the entrance to the village, and talk to a
 
 Go left to enter the Sheridan General Shop.
 
-!shop("Sheridan General Shop", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Ice Heal", "Antidote", "GourmetTreat", "Super Repel", "Reverse Candy"])
+!shop("Sheridan General", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Ice Heal", "Antidote", "GourmetTreat", "Super Repel", "Reverse Candy"])
 
 Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to her to get a free *Moomoo Milk* sample, then her shop will open. Berry Juice can be a pretty good hold item at this stage of the game! It is only open on Monday, Wednesday, Friday, and Sunday Mornings.
 
-!shop("Sheridan Village Drinks Shop", ["Berry Juice"])
+!shop("Sheridan Village Drinks", ["Berry Juice"])
 
 You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*. Up from here:
 
