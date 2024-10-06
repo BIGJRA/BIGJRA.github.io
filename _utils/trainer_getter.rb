@@ -261,16 +261,20 @@ class TrainerGetter
           if effs[:movesetUpdate]
             eff_strs.push("Moveset becomes #{effs[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
           end
+          if effs[:statDropRefresh]
+            eff_strs.push("Boss's stat changes are reset")
+          end
           eff_strs.push(effs[:speciesChange]) if effs[:speciesChange]
           eff_strs.push(effs[:statusCure]) if effs[:statusCure]
           eff_strs.push(effs[:effectClear]) if effs[:effectClear]
           if effs[:bossSideStatusChanges]
-            eff_strs.push("Effect added to boss side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            eff_strs.push("Effect added to boss's side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
           eff_strs.push(effs[:playerSideStatusChanges]) if effs[:playerSideStatusChanges]
           if effs[:statDropCure]
-            eff_strs.push("Stat drops are cured")
+            eff_strs.push("Boss's stat drops are cured")
           end
+
           eff_strs.push(effs[:playerEffects]) if effs[:playerEffects]
           eff_strs.push(effs[:stateChanges]) if effs[:stateChanges]
           if effs[:playersideChanges]
@@ -278,7 +282,7 @@ class TrainerGetter
           end
           eff_strs.push(effs[:bosssideChanges]) if effs[:bosssideChanges]
           if effs[:itemchange]
-            eff_strs.push("Boss held item becomes #{@itemHash[effs[:itemchange]][:name]}")
+            eff_strs.push("Boss's held item becomes #{@itemHash[effs[:itemchange]][:name]}")
           end
           if effs[:bossStatChanges]
             groups = {}

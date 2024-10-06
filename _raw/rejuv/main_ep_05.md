@@ -1,7 +1,5 @@
 # Chapter 5: Imprisoned
 
-## 4 Badge Quests
-
 Head back out of the ruins. A couple rewards and quests to do in Goldenleaf.
 
 And head back out. Now that the people of Goldenleaf have decided to change their ways, they'll give us some stuff if we talk to them around town: a *Super Potion*, a *Revive*, a *Full Heal*, and *3 Dusk Balls*. A man in one houe will also give us **Snubbull**!
@@ -489,6 +487,28 @@ Enter the Ranger HQ at the top.
 !shop("Ranger HQ", ["Poke Ball", "Great Ball", "Nest Ball", "Net Ball", "Escape Rope", "Spice Powder", "GourmetTreat", "Super Repel", "Reverse Candy"])
 
 Buy some Spice Powder while we're here. At the top, trade in your Up-Grade if you still have it with a ranger to get *Scope Lens*! Enter the hallway to the left and grab, well, another *Up-Grade* as well as *3 Max Repels*.
+
+Inside one of the rooms, if you've done all the other virtual badge battles, we can continue that quest.
+
+!newself(["Ethan",:JOHTO_0M,4], "Virtual Trainer (Chikorita)")
+
+!newself(["Ethan",:JOHTO_0M,14], "Virtual Trainer (Cyndaquil)")
+
+!newself(["Ethan",:JOHTO_0M,24], "Virtual Trainer (Totodile)")
+
+!battle(["Chuck",:JOHTO_5,0], "Glitch Field")
+
+Get a *Virtual Badge* for winning. Talk to her again to take on Jasmine.
+
+!newself(["Ethan",:JOHTO_0M,5], "Virtual Trainer (Chikorita)")
+
+!newself(["Ethan",:JOHTO_0M,15], "Virtual Trainer (Cyndaquil)")
+
+!newself(["Ethan",:JOHTO_0M,25], "Virtual Trainer (Totodile)")
+
+!battle(["Jasmine",:JOHTO_6,0], "Glitch Field")
+
+Once you win, you'll get the sixth *Virtual Badge*.
 
 Exit to the Mynori Sea area to the north.
 

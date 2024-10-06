@@ -1,7 +1,5 @@
 # Chapter 3: Tainted Light
 
-## Sewers Visit 2
-
 Eldest will give us *2 Super Potions*. Accept the fast travel. From Route 2, talk to Aelita at the train station to head into the city. 
 
 **Relationship Point Choices:**
@@ -19,6 +17,8 @@ This is a surprisingly tough battle thanks to Miltank. Once it paralyzes your Po
 - I'm kinda scared... (Karrina -2)
 
 Enter the sewers, cutting trees along the way to reach the back room.
+
+## Chrysalis Manor
 
 **Relationship Point Choices**:
 - Hi Lucha. (Venam +1)

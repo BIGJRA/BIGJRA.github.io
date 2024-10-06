@@ -1,8 +1,6 @@
 # Chapter 4: Isolation
 
-## 3 Badge Quests
-
-Start in East Gearen. Talk to Shana in the Gearen Lab to continue the Johto quest. You'll now have to fight Bugsy with the starter you picked and a few more Pokemon.
+Start in East Gearen for some sidequests. Talk to Shana in the Gearen Lab to continue the Johto quest. You'll now have to fight Bugsy with the starter you picked and a few more Pokemon.
 
 !newself(["Ethan",:JOHTO_0M,1], "Virtual Trainer (Chikorita)")
 

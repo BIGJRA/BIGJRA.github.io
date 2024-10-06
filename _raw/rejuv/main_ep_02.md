@@ -1,7 +1,5 @@
 # Chapter 2: Redemption
 
-## Junction Bridge
-
 Head outside of the lab and talk to Karrina. She'll want us to go to the Junction Bridge on the left side of the city, so accept the fast travel to get there.
 
 Head into the lab to battle Dr. Jenkel, with a choice of ally between Ren and Venam.
