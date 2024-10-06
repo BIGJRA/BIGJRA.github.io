@@ -169,6 +169,8 @@ There are a few more quests we can take care of before proceeding.
 
 First, head over to Gearen. I recommend at this point buying the Golden Surfboard and, if you have the AP, the Golden Claws. We won't be able to come back here for a little while after getting Surf, so get the surfboard now.
 
+Make your way down to Oceana Pier. Here, you can buy a single *Link Heart* for $10000. Worth doing if you are using Pokemon that normally evolve by trading in your team.
+
 Level up Slugma to Level 38 to get **Magcargo**. Add it and Emolga to your party, then head back to Route 2's trailer to get *Charcoal* and *Magnet*, as well as *TM96 Nature Power*!
 
 There's one more quest we can do. Go to Sheridan Village. We're gonna take the female Phantump we caught and breed it at the day care to get an Egg. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. 
@@ -441,6 +443,8 @@ Once you beach, you'll have to battle two rangers, with the above Melia as a par
 - Win this double battle (+3 Melia)
 - Lose this double battle (-3 Melia)
 
+!enc(207, ["Fishing"], ["Old"])
+
 Head back on the ship through the loading bay. Head up the two ladders to reach *TM136 Assurance*. 
 
 Back outside in the Shipyard, go up into the jungle.
@@ -453,31 +457,11 @@ Back outside in the Shipyard, go up into the jungle.
 
 !enc(210, ["Grass", "Fishing"], ["Old"])
 
+It's worth noting the game, for story reasons, has currently frozen the time of day to nighttime, so we can only get those encounters for now here and throughout Terajuma. Don't worry though, the time will change soon.
+
 Grab the hidden *Tiny Mushroom*, *Yellow Shard*, *Pecha Berry*, and *Ultra Ball* on this map. In the top left is *TM131 Bullet Seed* and a hidden *Potion*.
 
-Enter the Deep Terajuma Jungle in the bottom left corner.
-
-Grab the *Maranga Berry* and *2 Wiki Berries* above, and a hidden *Star Piece*. Cross the bridge below, grab the hidden *Chestnut* and *Bug Gem*. Go left.
-
-!battle(["Ceil",:POKEMONRANGER_F,0], "Forest Field")
-
-!battle(["Diandra",:POKEMONRANGER_F,0], "Forest Field")
-
-Grab another *5 Chestnuts* hidden around. Pick up the *Quick Powder*, *Full Heal*, and *3 Passho Berries*. Enter the next map.
-
-!enc(268, ["Grass"])
-
-On this map, grab the hidden *Dusk Ball* and *Lemonade*. Go up at the top.
-
-!enc(406)
-
-Nothing else to do here for now, so head back to the previous map and go right.
-
-!enc(183)
-
-Grab the hidden *Star Piece*, *Red Shard*, *Stardust*, and an *Exp. Candy L* by pushing a floating stone out of the way.
-
-This is all we can do in the Deep Jungle for now, so backtrack to the first jungle map, and go up in the top right.
+Go up in the top right.
 
 ## Kakori Village
 
@@ -486,118 +470,144 @@ This is all we can do in the Deep Jungle for now, so backtrack to the first jung
 - About that house... (Neutral)
 - She's right, we don't. (-4 Nim, -4 Adam, -4 Aelita, -7 Melia, -4 Valarie, -4 Braixen)
 
-Go right, and grab the *4 Yache Berries*. Talk to the Noctowl Statue to activate it.
+!enc(298, ["Grass", "Fishing"], ["Old"])
 
+Go right, and grab the *4 Yache Berries*. Talk to the Noctowl Statue to activate it. Down from here, you can find a hidden *Hyper Potion* and:
 
+**ZCell 035: Kakori Village**
 
+!img("zcell035.png")
 
+Go left to get a hidden *X Attack*, and *Telluric Seed*. Heading up you can find a hidden *Green Shard*, *Swift Wing*, and *Super Repel*.
 
+Enter the house at the bottom right side of the village, then follow her to the Terajuma Shipyard. Enter the Xen Battleship docked inside to the left and talk to her a few times in and around the ship. Talk to her back in Kakori to get a *Destiny Knot*!
 
+Enter the building just northwest of the central stage to begin *The Kakori Monster* quest. Outside, you'll be able to catch a **Salazzle**! Return to the requestor to get a *Fire Stone* and *10 Dusk Balls*.
 
+Enter the Ranger HQ at the top.
 
+!shop("Ranger HQ", ["Poke Ball", "Great Ball", "Nest Ball", "Net Ball", "Escape Rope", "Spice Powder", "GourmetTreat", "Super Repel", "Reverse Candy"])
 
+Buy some Spice Powder while we're here. At the top, trade in your Up-Grade if you still have it with a ranger to get *Scope Lens*! Enter the hallway to the left and grab, well, another *Up-Grade* as well as *3 Max Repels*.
 
+Exit to the Mynori Sea area to the north.
 
+## Mynori Sea
 
---
-Shore Shop
+!enc(299, ["Grass", "Fishing"], ["Old"])
 
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Potion*       |$300 |
-|*Super Potion* |$700 |
-|*Antidote*     |$100 |
-|*Ice Heal*     |$250 |
-|*GourmetTreat* |$1500|
-|*Super Repel*  |$500 |
-|*Reverse Candy*|$50  |
-|*Spice Powder* |$850 |
+!battle(["Aiden",:POKEMONRANGER_M,0], "Beach Field")
 
-Some optional content will require us to have 5 total Spice Powder eventually, so buy them here. You'll see a guy here who will offer to boat us back to Gearen City for a price - a way to go free will open up a bit after the upcoming gym fight, so I would recommend waiting unless you need something from Floria Island for the fight.
+!battle(["Shantae",:POKEMONRANGER_F,0], "Beach Field")
 
-When you're ready, head into Terajuma Jungle to the north.
+On the dock, you can interact with **Tentacool** for a battle. To the right is a *Berry Juice*. To the left, you'll find a replica of Mr. Luck's Tent if you want to grab any tutor moves or track Black Prisms. Up from here on the beach is a *Red Shard*. 
 
-## Terajuma Jungle
+Talk to Novae up from here to begin *Battle Me Again!* 
 
-**Relationship Point Choices**:
-- I'd accept too... (Braixen +2)
-- Wanna do a test run? (Adam +2)
-- Can you two stop? (Neutral)
+!battle(["Novae",:WANDERER,2], "Beach Field")
 
-You'll be free to explore Terajuma Jungle after a few cutscenes.
+This is a very tough fight thanks to a full team of 31 IV Pokemon prepared to lay you out. Plus, Palossand gets boosted by the Beach Field and can become nigh-unkillable if you accidentally use too many Water moves on it. Lycanroc is particularly threatening offensively, and Tsareena can get in the way of sweeping with priority moves. A lot going on here, but exploiting the Beach Field may be beneficial. 
 
-Terajuma Jungle
+This is actually a Kakori Help Quest, though we can't get the rewards for finishing it quite yet.
 
-| Grass: Morning | %  | Grass: Day    | %  | Grass: Night | %   |
-|----------------|----|-------------- |----|--------------|-----|
-| **Grubbin**    | 40 | Bibarel       | 45 | **Morelull** | 34  |
-| **Trumbeak**   | 29 | **Foongus**   | 40 | Hoothoot     | 20  |
-| **Weepinbell** | 20 | **Exeggcute** | 9  | Spinarak     | 10  |
-| Bibarel        | 10 | Butterfree    | 5  | Oddish       | 10  |
-| **Charjabug**  | 1  | Beedrill      | 1  | **Venonat**  | 10  |
-|                |    |               |    | **Gloom**    | 5   |
-|                |    |               |    | Kricketune   | 5   |
-|                |    |               |    | **Ariados**  | 5   |
-|                |    |               |    | Noctowl      | 1   |
+## Deep Terajuma Jungle
 
-|Old Rod        | %        |
-|---------------|----------|
-|Carvanha       | 100      |
+A bit of optional exploration next. Enter the Deep Terajuma Jungle in the bottom left corner of the first Jungle map. The encounters here are the same as in the Terajuma Jungle map we just came from, though when it is raining you can catch stationary **Lotad**!
 
-There are also Hoppip flying around in the mornings. Via itemfinder, on the right side pick up a *Sitrus Berry*. Towards the left is a *Fire Gem*.
+Grab the *Maranga Berry* and *2 Wiki Berries* above, and a hidden *Star Piece*. Cross the bridge below, grab the hidden *Chestnut* and *Bug Gem*.
 
-Once you've gotten a feel for the middle area, talk to the group of your friends, specifically Melia, on the left side. We're going to have to take the long way, so head into the left path and into the cave.
+Enter this building here to begin the *Building Bridges* quest.
 
-**Relationship Point Choices**:
-- Four, is that enough? (Melia +1)
-- What's a badge? (Melia +2)
-- Can't I just swim? (Valarie +1)
+Go outside, then head left. You can use the Spice Powder to battle and catch **Vileplume** here!
 
-After a brief conversation there's just one thing left to do for this section!
+!battle(["Ceil",:POKEMONRANGER_F,0], "Forest Field")
+
+!battle(["Diandra",:POKEMONRANGER_F,0], "Forest Field")
+
+Grab another *5 Chestnuts* hidden around. Pick up the *Quick Powder*, *Full Heal*, and *3 Passho Berries*. 
+
+At the top of the hill, talk to Gurdurr and choose dialogue options to progress. Head up when you are prepared.
+
+!boss("BOSSCONKELDURR", "Forest Field")
+
+A tough boss that hits hard. Thankfully, it doesn't have any way to counter stat drops or status effects, so getting those out there first then wailing on it with super effective moves is the way to go. Once you defeat it, talk to Gerald in his building once more to finish *Building Bridges*. This is also actually a Kakori Help Quest so we can't get the rewards for finishing it quite yet.
+
+Enter the next map.
+
+!enc(268, ["Grass"])
+
+On this map, grab the hidden *Dusk Ball* and *Lemonade*. Go right from here.
+
+!enc(183)
+
+Grab the hidden *Star Piece*, *Red Shard*, *Stardust*, and an *Exp. Candy L* by pushing a floating stone out of the way.
+
+## Tyluric Temple
+
+Return to the previous map and go up.
+
+!enc(406)
+
+For finishing *Building Bridges* we can cross the bridge above and attempt to enter the temple to begin *Tantalizing Temple*!
+
+**Relationship Point Choices:**
+- Why are you interested? (+2 Talon)
+- What's in it for you? (+1 Talon)
+- No thanks. (+2 Flora, -1 Talon)
+
+!enc(179, ["Grass", "Fishing"], ["Old"])
+
+Unfortunately we can't do anything else without Surf. This is all we can do in the Deep Jungle for now, so backtrack all the way to Kakori Village.
+
+## Daytime on Terajuma
+
+A boater in Kakori will take us back to Floria Island for $3000. This isn't strictly necessary to do right now... but we have 35 Zygarde Cells, so Ayuda will give us another *Cell Imprint* as well as the *Soothe Bell*. Our next milestone is 50 cells.
+
+Take the boat from Oceana Pier back to Kakori for $1500. Back in Kakori Village, tell Melia you want to start in the house near the Noctowl Statue. Enter the Ranger HQ and talk to Melia and Crawli in the Dartrix Izakaya. Assuming you beat Rift Gyarados for Agent C, back in Goldenwood Forest:
+
+**Relationship Point Choices:**
+- Don't know him. (Neutral)
+- Agent C...? (+2 Crawli)
+
+**Relationship Point Choices:**
+- Cheers! (+3 Melia, +3 Crawli)
+- I'm not doing that. (-3 Melia, -3 Crawli)
+
+Once the meal is over, return to the squad house. Note that once you wake up, it will be daytime, so you can get the daytime encounters all around the island now.
+
+**Relationship Point Choices:**
+- "Are you really okay?" then "I do". (+1 Nim)
+- "Are you really okay?" then "Not really." (Neutral)
+- You seem worse. (Neutral)
+- Move, please. (-2 Nim)
+
+Outside, head into the Terajuma Jungle below. Talk to the woman to the right, then to Growlithe. Similarly to Espurr, we can do various things with Growlithe to build up trust, until our bond is strong enough. You can even give it a bone!! Playing with it over and over again is probably the fastest way to get its friendship up. Once its high enough, have it follow you then attempt to leave to get **Growlithe**! (+1 Karma).
+
+In the bottom left of this map, exit at the bottom to the Terajuma Beach. Now that it is the day time, we can get some stuff here:
+
+!enc(171, ["Grass", "Fishing", "Rock Smash"], ["Old"])
+
+A woman will tell us to show her a Chansey; we shall later.
+
+**ZCell 036: Terajuma Beach**
+
+!img("zcell036.png")
 
 ## Dewdrop Badge
 
-Once you've healed, talk to Valarie outside for her gym battle.
+Head to Mynori Sea. Talk to Valarie on the dock when you're ready for your gym battle! You can bet $5K, $10K, or $20K on the outcome (and of course, you can soft-reset if you lose the bet)!
 
-Water Show Performer Valarie (Water Surface)
--   Qwilfish, Level 38. @ Poison Barb.
-    -   Waterfall
-    -   Poison Jab
-    -   Bounce
-    -   Aqua Jet
--   Lanturn, Level 39. @ Leftovers.
-    -   Thunderbolt
-    -   Whirlpool
-    -   Hidden Power Grass
-    -   Aquabatics
--   Dewgong, Level 38. @ Elemental Seed.
-    -   Aquabatics
-    -   Stockpile
-    -   Whirlpool
-    -   Rest
--   Floatzel, Level 39. @ Muscle Band.
-    -   Waterfall
-    -   Ice Punch
-    -   Aqua Jet
-    -   Brick Break
--   Seaking, Level 39. @ Rindo Berry.
-    -   Megahorn
-    -   Waterfall
-    -   Poison Jab
-    -   Bounce
--   Primarina, Level 40. @ Wacan Berry.
-    -   Sparkling Aria
-    -   Aquabatics
-    -   Dazzling Gleam
-    -   Ice Beam
+!battle(["Valarie",:LEADER_VALARIE,0], "Water Surface")
 
-Aquabatics: Water \| Status \| Raises the user's Special Attack and Speed by 1 stage each.
+!move("AQUABATICS")
 
-So, this is the first *hard* gym battle, at least from my experience. Ground moves do nothing (even Mud Bomb/High Horsepower for some reason), so for Qwilfish and Lanturn you have to think of something else. Her Qwilfish and Floatzel have Swift Swim, so they will normally outspeed you and hit hard. Lanturn and Primarina are a bit slower but if you let them get off Aquabatics (special Dragon Dance) then they can steamroll your team. Watch out for Dewgong, too, whose Hydration ability allows it to heal all the way up to full every turn with Rest. If you can get past the first two fast attackers though, a strong physical set up sweeper might be able to get through the rest of her team. An alternative is to transform the field: 2 uses of Sludge Wave turns it into Murkwater, which takes away some of her advantages and can help a Poison-type oriented team, though she can turn it back with Lanturn and Dewgong's Whirlpool.
+So, this is the first *really hard* gym battle, at least from my experience. Ground moves do nothing (even Mud Bomb/High Horsepower for some reason), so for Qwilfish and Lanturn you have to think of something else. Her Qwilfish, Floatzel, and Seaking all have Swift Swim, so they will normally outspeed you and hit hard. Lanturn and Primarina are a bit slower but if you let them get off Aquabatics (special Dragon Dance) then they can steamroll your team. Watch out for Dewgong, too, whose Hydration ability allows it to heal all the way up to full every turn with Rest.
+
+The biggest boon you have is that Electric moves are boosted on this field, meaning an Electric type sweeper may be able to go on a tear. An alternative is to transform the field: 2 uses of Sludge Wave turns it into Murkwater, which takes away some of her advantages and can help a Poison-type oriented team, though she can turn it back with Lanturn and Dewgong's Whirlpool.
 
 **Relationship Point Choices**:
-- You're strong... (Neutral)
+- You're strong... (Valarie +2)
 - It was pretty even. (Neutral)
 - Ez. (Valarie -2)
+
+For winning, you get the Dewdrop Badge, bringing our level cap up to Lv. 45!
