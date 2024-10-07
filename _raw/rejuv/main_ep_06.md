@@ -141,7 +141,7 @@ Anyways, head back outside and cross the bridge. After a scene, enter this door.
 
 !battle(["Demetra",:XENGRUNT_F,0], "Cave Field")
 
-Climb the next lift and exit into Mt. Terajuma!
+Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into Mt. Terajuma!
 
 !enc(295)
 
@@ -159,7 +159,13 @@ Talk to the Noctowl Statue to create another fly location. Enter the Weather Ins
 
 !battle(["Shino",:XENANALYST_F,0])
 
-Back outside, go down some of the stairs but go right. You'll see another cave here. The left lift is a shortcut back down to the jungle - take the right one instead. Follow this path out when you are ready.
+After the scene is over, reenter the Institute. Talk to the receptionist for *3 Fresh Waters*. A person here asks us to show them the TMs Sunny Day, Hail, and Rain Dance; we will later. We can trade away Dunsparce f or **Castform** here as well!
+
+!shop("Weather Institute Petals", ["Pink Petal", "Green Petal", "Orange Petal", "Blue Petal"])
+
+Back outside, go down some of the stairs but go right. You'll see another cave here. The left lift is a shortcut back down to the jungle - take the right one instead.
+
+Follow this path out when you are ready.
 
 **Relationship Point Choices:**
 - They're a lost cause. (+1 Aelita, +1 Melia)
@@ -190,718 +196,294 @@ Talk to Crawli in his office, and accept the fast travel to the shipyard.
 
 ## Helojak Island
 
+Talk to Crawli and Rorim B on the dock to go to Helojak Island.
 
+!enc(201)
 
+There are also wild **Gastrodon** roaming about.
 
+Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
+Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade* and *Hondew Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack*. More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
 
+Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *TinyMushroom*. Further up is a *SilverPowder* as well as another hidden *TinyMushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
 
+Once you reach the group, step onto a tile over the water to be taken to some grunts.
 
+!battle(["Bentley",:XENGRUNT_M,0], "Factory Field")
 
+Change the water direction, and cross to the left. Enter the door.
 
+**Relationship Point Choices:**
+- Are you okay? (Neutral)
+- Get over it. (-7 Melia, -2 Aelita, -2 Crawli)
+- We need to move. (Neutral)
 
+Exit at the top left.
 
+!battle(["Sasha",:XENGRUNT_F,0], "Factory Field")
 
+Now that our Snag Machine has been repaired, you can capture **Shadow Baltoy**! Follow the path to the left, watch the scene, then return to Sasha and go right. Get the *Stabilizer* in this room, then reverse the water direction and go left across the water twice.
 
+!battle(["Firion",:XENGRUNT_M,0], "Factory Field")
 
---
-## Route 5
+Catch **Shadow Stunfisk (Galarian)**!
 
-Route 5
+!battle(["Emily",:XENGRUNT_F,0], "Factory Field")
 
-| Grass: Morning/Day | %  | Grass: Night   | %   |
-|--------------------|----|----------------|-----|
-| Slugma             | 30 | Noctowl        | 35  |
-| **Machop**         | 20 | Numel          | 30  |
-| Bibarel            | 15 | Baltoy         | 15  |
-| Spinda             | 10 | Ariados        | 15  |
-| **Machoke**        | 10 | **Chimecho**   | 5   |
-| Numel              | 10 |                |     |
-| Clobbopus          | 5  |                |     |
+Catch **Shadow Masquerain**! In the next room, cross the water to the right. Head out onto the roof.
 
-Grab the *Red Shard* on the path, and the *White Flute* on the right just before the shore.
+!battle(["Ren",:TRAINER_REN,6], "Swamp Field")
 
-Surf north to get to Valor Shore.
+The Speed-dropping effect of the Swamp Field makes sweeps very difficult without priority moves, so doing a lot of predicting and switching is necessary here.
 
-Valor Shore
+Once you win, accept the offer to go to sleep. Back outside, Crawli will challenge us to a gym battle.
 
-| Grass: Morning/Day | %   | Grass: Night | %   | Rock Smash | %   |
-|--------------------|-----|--------------|-----|------------|-----|
-| Slugma             | 30  | Noctowl      | 35  | Geodude    | 95  |
-| Machop             | 20  | Numel        | 30  | Binacle    | 5   |
-| **Sandygast**      | 15  | Baltoy       | 15  |            |     |
-| Spinda             | 10  | Ariados      | 15  |            |     |
-| Machoke            | 10  | Chimecho     | 5   |            |     |
-| Numel              | 10  |              |     |            |     |
-| Clobbopus          | 5   |              |     |            |     |
-
-| Water          | %   |Old Rod           | %        |
-|----------------|-----|------------------|----------|
-| Remoraid       | 90  |Clobbopus         | 70       |
-| Krabby         | 9   |Remoraid          | 30       |
-| Goldeen        | 1   |                  |          |
-
-
-Make sure you heal, then head onto the island.
-
-Xen Executive Zetta (Ashen Beach Field)
--   Absol, Level 41. @ Blackglasses.
-    -   Swords Dance
-    -   Psycho Cut
-    -   Night Slash
-    -   Sucker Punch
--   Weavile, Level 42. @ Muscle Band.
-    -   Low Kick
-    -   Night Slash
-    -   Ice Shard
-    -   Icicle Crash
--   Typhlosion, Level 43. @ Charcoal.
-    -   Nature Power
-    -   Fire Punch
-    -   Thunder Punch
-    -   Brick Break
--   Perrserker, Level 41. @ Chople Berry.
-    -   Play Rough
-    -   Iron Head
-    -   Night Slash
-    -   Fake Out
--   Dragonair, Level 42.
-    -   Dragon Dance
-    -   Dragon Rush
-    -   Iron Tail
-    -   Waterfall
--   Type: Null, Level 43. @ Eviolite.
-    -   Swords Dance
-    -   X-Scissor
-    -   Return
-    -   Shadow Claw
-
-This is an easy battle compared to Valarie. That said, watch out for Type: Null, who can live thanks to Eviolite and set up to hit you hard. Also, potentially threatening is Typhlosion, whose Nature Power turns into a +3 Attack Meditate.
-
-After the battle, head up.
-
-ZCell 020: Valor Shore
-
-<img src="/assets/images/rejuv/image20.png"/>
-
-Head up to Valor Mountain and watch the scene.
-
-## Dexoy Attack
-
-You'll be placed back in Terajuma Jungle, so return to the south entrance.
-
-We're gonna be battling some "Dexoys" here, which are Level 45 Deoxys with Thunderbolt, Psychic, Shadow Ball, and Flash Cannon. Obviously, they're tough to take out, but in a pinch, you can find a strategy. Head to the west first, then the east.
-
-**Relationship Point Choices**:
-- I'm alright. (Melia +2)
-- Could be worse. (Melia +1)
-- Terrible. (Neutral)
-
-**Relationship Point Choices**:
-- So.. We're on our own? (Melia +1)
-- Well, that sucks... (Neutral)
-- Can we ask again? (Melia +2)
-
-Enter the room to the left.
-
-**Relationship Point Choices**:
-- Get me out. (Melia +1)
-- I have a Relic to get. (Neutral)
-- A + A = B - B + 3. (Venam +2)
-
-Now is a good time to do the help quests.
+**Relationship Point Choices:**
+- Really? (Neutral)
+- You're on. (+2 Crawli)
 
 ## Kakori Help Quests
 
-### HQuest 13: Clear the Way!
+You'll now be able to access Kakori's Help Center.
 
-Enter Terajuma Jungle and head south onto the hill and talk to the hiker. We're gonna need to find 7 black shards around the forest.
+### Building Bridges
 
-1.  Immediately right of the hiker
-2.  In the map to the left, next to the stacks of wood by the Timburr
-3.  Heading left across the bridge and to the left, north by the broken bridge
-4.  South -\> west -\> north across the bridges from \#3
-5.  North from \#4, in the meadow
-6.  In the bottom left side of the map where you fought Valarie
-7.  Near the water at the bottom side of the entrance map
+We actually already did the work for this quest [back in Chapter 5](#deep-terajuma-jungle). You can get the rewards for this quest now: $4,890 and a *Sun Stone* (+1 Karma).
 
-After you've gotten them, head back to the hiker. He's now cleared the vines, so you can progress through the jungle easier!
+### Battle Me Once More!
 
-Head into the cave in the water below, which is now opened. Grab the *TM51 Steel Wing* and *Blast Powder*.
+We actually already did the work for this quest [back in Chapter 5](#mynori-sea). You can get the rewards for this quest now: $4,500, *10 Max Repels*, *10 Reverse Candies*, and *10 Super Potions*. (+1 Karma).
 
-Return to the help center to get $4326! (+1 Karma)
+### Black Shard Secret
 
-### HQuest 14: Bandit at Large
+Accept the quest, then head over to the T. Excavation Site at night. It's to the east of the entrances to Mt. Terajuma in Deep Terajuma Jungle. Enter the building. Back outside, defeat the agitated Nosepass and get *250 Red Essence*. 
 
-Head to the weather institute in the jungle. Talk to the girl near the Venusaur on the left.
+!battle(["Rick",:COOLGUY,0], "Forest Field")
 
-Head to Route 5 and enter the empty shack on Valor Shore. We're gonna need to find the Xen grunt hiding on each floor.
--   1F: In the middle stack of books
--   2F: In the box in the upper right corner
--   2F (#2): In the books in the center
--   3F: In the trash can on the top
--   3F (#2): In the horizontal lines of the bottom right big machine
--   3F (#3): In the pot on the top left
+Reenter the building and talk to April again.
 
-On the fourth level, grab the *Good Rod*!
+**Relationship Point Choices:**
+- Good friends (+3 Alexandra)
+- We were friends (+1 Alexandra)
+- Not really. (-1 Alexandra)
 
-Talk to her on the fourth level, and you'll have to battle. You'll be taken back to the weather institute.
+Head up to Mt. Terajuma after you go outside. You'll find Rick on the bridge.
 
-Head back to Route 5 and all the way down the ladders again to pick up another *Blast Powder*.
+!battle(["Rick",:COOLGUY,1], "Mountain Field")
 
-Return to the help center to get a **Bulbasaur** egg, a *Rare Candy*, and $5000! (+1 Karma)
+**Relationship Point Choices:**
+- Just take it. (+5 Alexandra)
+- Eh... (+1 Alexandra)
+- You deserve jail time. (-3 Alexandra)
 
-### HQuest 15: Building Bridges
+Talk to Alexandra outside, then return to the Help Center to get $4,326.
 
-Head to the lumber yard in Terajuma Jungle and enter the building. Talk to the guy on the right, then Gurdurr. Head west to the bridge, and we'll have to battle.
+### Abnormal Phenomenon
 
-PokeGang Conkeldurr (Forest Field)
--   Timburr, Level 25.
--   Timburr, Level 35.
--   Timburr, Level 45.
--   Timburr, Level 55.
--   Timburr, Level 65.
--   Conkeldurr, Level 75.
-    -   Rock Slide
-    -   Ice Punch
-    -   Brick Break
-    -   Thunder Punch
+Use a Noctowl Statue to reach the Weather Institute on Mt. Terajuma. After the conversation inside, take the rightmost lift in the bottom right cave entrance on the mountain to reach the Great Terajuma Falls.
 
-This is another double battle with one tough enemy at the very end. Luckily, even at level 75 all the enemies are somewhat slow, so if you can boost your offenses with a somewhat fast mon you might be able to one shot it with something super effective. You can use the easy first two Timburr as an excuse to set up a lot of entry hazards and/or set up with moves like Dragon Dance. Either way, come up with a strategy to take it out.
+!battle(["Mr. Hynde",:DIABOLICALGENIUS,0], "Forest Field")
 
-Once you win, head west and go up to the broken bridge. Enter, then catch **Rowlet** in there. This is also where the Mossy Rock is located. Hidden is a *Red Shard* as well.
+!move("VILEASSAULT")
 
-Return to the help center to get $4890 and a *Sun Stone*! (+1 Karma)
+Aevian Kommo'o mentioned!!! 
 
-### HQuest 16: Find It!
+Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5,000, and a *Rare Candy* (+1 Karma)
 
-Head to the ranger shack in the southwest corner of the jungle. Talk to Roggenrola, and it will follow you.
+### Suspicious Person
 
-Exit the jungle towards Kakori, fighting AA Grunts along the way.
+Accept the quest, then take a Noctowl Statue to Helojak Island. Go down and left from the statue, and you'll see a person. Follow them to the bottom side of the island and talk to them again.
 
-Heal at the Kakori Pokemon center, then talk to the guy in the top left.
+Head into Helojak Factory. Proceed through the dungeon as we did once before - enter the formerly locked door in the upper-left side of the factory.
 
-After one battle, return to the help center to get $4255. (+1 Karma)
+!battle(["Edward",:TEAMAA_M,1], "Factory Field")
 
-### HQuest 17: Battle Me Again!
+Talk to the machine behind to deactivate pistons. This turns off the currents in the factory. Surf to the top of the factory to get on the roof. Here, you can battle and catch **Elekid** in exchange for a GourmetTreat! 
 
-Time for another battle with Novae. Get your best team and head to the Valor Shore.
+Anyways, return to the Help Center to get $4,255 (+1 Karma).
 
-Wanderer Novae (Ashen Beach)
--   Toucannon, Level 42. @ Yache Berry.
-    -   Beak Blast
-    -   Roost
-    -   Bullet Seed
-    -   Rock Blast
--   Vikavolt, Level 43. @ Sitrus Berry.
-    -   Thunderbolt
-    -   Bug Buzz
-    -   Air Slash
-    -   Roost
--   Lycanroc, Level 45. @ Rock Gem.
-    -   Stone Edge
-    -   Crunch
-    -   Accelerock
-    -   Drill Run
--   Tsareena, Level 43. @ Grass Gem.
-    -   Trop Kick
-    -   Knock Off
-    -   Play Rough
-    -   Acrobatics
--   Palossand, Level 43. @ Leftovers.
-    -   Shadow Ball
-    -   Shore Up
-    -   Earth Power
-    -   Giga Drain
--   Passimian, Level 45. @ Sitrus Berry.
-    -   Iron Head
-    -   Close Combat
-    -   Brutal Swing
-    -   Bulk Up
+Now that we've done all five Kakori Help Quests, we'll need to Chase Team AA in the back room.
 
-This is the hardest battle of hers yet. Almost all her Pokemon have really deep coverage! Passimian can hit hard if given the chance to bulk up even once, and Vikavolt takes lives if you let it attack. Not to mention speed demon Lycanroc probably able to take out at least one of your team members at will. Not a ton of synergy or a central strategy though. As before getting a team with near perfect synergy that counters each of her mons and you might sneak out a victory. You can also wait till the next level cap if you want to make this one easier.
+!dbattle(["Marcin",:TEAMAA_M,0], ["Aruo",:TEAMAA_M,0])
 
-Anyways, return to the help center to get $4500, 10 *Reverse Candies*, 10 *Max Repels*, and 10 *Super Potions*. (+1 Karma)
+Grab the *TM57 Charge Beam* and the *Center Keys* here, as well as a *Data Drive*. Back outside, talk to April at the bottom.
 
-If you've done all the help quests, your reward is access to the safari zone garden. We'll get this to a bit. Enter the door that the AA grunt came out of.
+**Relationship Point Choices:**
+- Finish all Kakori Help Quests (+4 Alexandra)
 
-You'll be entered into a 6v6 double battle, but if you can take Novae you should be able to handle this one. Grab the *TM57 Charge Beam* and the *Center Keys* here, as well as an *Exp. Candy M*.
+She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Aevian Magikarp**, **Aevian Budew**, **Aevian Wimpod**, **Aevian Shroomish**, **Aevian Larvesta**, **Aevian Bronzor**, **Aevian Feebas**, or **Aevian Sigilyph**.
 
 That's it for the help quests.
 
-Now, one more quest we can do. Enter the Xen Battleship, and the girl from earlier will be here. Talk to her, and she'll run to the deck. After you talk to her again, she'll go into the main room. Finally, follow her to the very top through Augustus' room. That's all we can do here for now, so back in Kakori, enter the house of the girl who we took to the boat, and she'll give you a *Destiny Knot*.
+## Gearen Area Surfing & Side Quests
 
-Now that we have the Good Rod, there are a couple new Pokemon we can obtain in these areas.
-
-Terajuma Pier
-
-| Good Rod        | %        |
-|-----------------|----------|
-| Carvanha        | 60       |
-| Wailmer         | 20       |
-| **Wishiwashi**  | 20       |
-
-Valor Shore
-
-| Good Rod        | %        |
-|-----------------|----------|
-| Clobbopus       | 60       |
-| **Gastrodon**   | 20       |
-| **Octillery**   | 20       |
-
-We can also now access the special island in the Safari Zone:
-
-Jeminra Woods: Special Beach Area
-
-| Grass             | %        | Good Rod        | %        |
-|-------------------|----------|-----------------|----------|
-| Voltorb           | 30       | Barboach        | 60       |
-| Geodude           | 20       | **Luvdisc**     | 20       |
-| **Pikachu**       | 19       | **Alomomola**   | 20       |
-| **Magnemite**     | 19       |                 |          |
-| Graveler (Alolan) | 10       |                 |          |
-| **Electrode**     | 1        |                 |          |
-| **Magneton**      | 1        |                 |          |
-
-Grab the *TM123 Self Destruct* while you're here!
-
-We're now gonna go find Rorim B.
-
-## Secret Shore
-
-Head back to Terajuma Jungle and enter the Hula Meadow. Rorim B will battle you!
-
-Dance Prodigy Rorim B (Forest Field)
--   Oricorio (Pom-Pom), Level 42.
-    -   Calm Mind
-    -   Hidden Power Ice
-    -   Revelation Dance
-    -   Air Slash
--   Bellossom, Level 42.
-    -   Quiver Dance
-    -   Teeter Dance
-    -   Giga Drain
-    -   Sludge Bomb
--   Ludicolo, Level 42.
-    -   Fake Out
-    -   Rain Dance
-    -   Bubblebeam
-    -   Giga Drain
--   Oricorio (Baile), Level 42.
-    -   Calm Mind
-    -   Hidden Power Rock
-    -   Revelation Dance
-    -   Air Slash
--   Volcarona, Level 42.
-    -   Struggle Bug
-    -   Quiver Dance
-    -   Giga Drain
-    -   Hidden Power Water
--   Altaria, Level 42.
-    -   Dragon Dance
-    -   Earthquake
-    -   Dragon Claw
-    -   Roost
-
-This battle isn't really meant to be hard, and once Bellossom and Ludicolo are taken out, a good Rock Slide can clean up his whole team. You can do it! Get the *Sky Relic*.
-
-Accept the fast travel. Talk to Rorim B, and he'll take you to the Secret Shore.
-
-Secret Shore
-
-| Grass                     | %        |
-|---------------------------|----------|
-| **Primeape**              | 35       |
-| Mankey                    | 24       |
-| **Farfetch'd (Galarian)** | 15       |
-| Pidgeotto                 | 10       |
-| Kricketot                 | 10       |
-| Kricketune                | 4        |
-| **Pidgeot**               | 2        |
-
-Head into the wetlands.
-
-**Relationship Point Choices**:
-- It smells here... (Melia +1)
-- Let's have a picnic! (Aelita +1)
-- Crawli needs our help. (Neutral)
-
-Sheridan Wetlands
-
-| Grass: Morning          | % | Grass: Day             | % | Grass: Night           | % |
-|-------------------------|---|------------------------|---|------------------------|---|
-| **Tympole**             | 30| **Karrablast**         | 34| **Skorupi**            | 30|
-| Tangela                 | 20| **Carnivine**          | 20| Pumpkaboo              | 20|
-| **Skorupi**             | 15| **Skorupi**            | 15| **Stunfisk (Galarian)**| 15|
-| **Stunfisk (Galarian)** | 15| **Stunfisk (Galarian)**| 15| **Palpitoad**          | 15|
-| **Palpitoad**           | 10| **Palpitoad**          | 10| Phantump               | 10|
-| **Croagunk**            | 9 | **Croagunk**           | 4 | **Misdreavus (Aevian)**| 5 |
-| **Shellos**             | 1 | **Shellos**            | 1 | **Croagunk**           | 4 |
-|                         |   | **Misdreavus (Aevian)**| 1 | **Shellos**            | 1 |
-
-| Water        | % | Old Rod        | %   |Good Rod       | %   |
-|--------------|---|----------------|-----|---------------|-----|
-| **Tympole**  | 60| Barboach       | 100 |**Corphish**   | 100 |
-| Barboach     | 35|                |     |               |     |
-| **Palpitoad**| 4 |                |     |               |     |
-| **Shellos**  | 1 |                |     |               |     |
-
-If it is raining outside, you can find stationary Gastrodon to fight. Note that you can also find many *Absorb Bulbs* by interacting with them in this area.
-
-A *Dusk Ball, Revive*, and a *Pearl* are hidden on the first island.
-
-To the right, you'll see a brown book on the ground. If you gave away your *Ancient Book*, here's where you can get a new one. Otherwise, leave it here for now.
-
-Maneuver up on the first island to where you can access the water from two points. We can't do anything from the left yet, so surf up from the right. Head to the right island and cut the tree, accessing the water on the north side of this island. Head up to the next and talk to Melia.
-
-Surf west from here and grab the *Pretty Wing*. Head up and enter the lab.
-
-After a cutscene, head to the west. We must do an arrow puzzle.
-
-Room 1
-
-1.  Take the left upwards arrow above Aelita.
-2.  Head up and take the rightwards arrow.
-3.  Head down to the downwards facing arrow.
-4.  Fight a trainer with a shadow **Masquerain*,* so catch it if you can.
-5.  Press the panel.
-6.  Head back right to the upwards arrow.
-7.  Go right to the rightward arrow.
-8.  Fight the trainer here, who has shadow **Chinchou**.
-9.  Up to the upwards arrow.
-10. Leftwards arrow at the top, and you'll have made it out.
-
-Room 2
-
-1.  Press the green panel.
-2.   Surf to the up right.
-3.  Go up on the upwards arrow.
-4.  Take the upwards arrow in the upper left.
-5.   Press the panel here.
-6.  Enter the rightmost downward arrow.
-7.  Take the bottom left downward arrow.
-8.   Go up one tile, then right. You'll fight a trainer with a shadow
-    Baltoy.
-9.   Return to the bottom, then get back to this area. Instead, take the
-    upward arrow to the left of the trainer.
-10.   Leave the blue panel alone, and head up.
-11.   Press the purple panel then take the rightward arrow.
-12. Ignore this pink panel and go down.
-13.   Press the orange panel.
-14.   Go up onto the leftward arrows onto the pink -\> blue -\> orange
-    path and we're done!
-
-There are Pokemon in here.
-
-Wetlands Laboratory
-
-| Water           | %        | Good Rod     | %        |
-|-----------------|----------|--------------|----------|
-| **Tentacool**   | 65       | Chinchou     | 100      |
-| Quagsire        | 34       |              |          |
-| **Tentacruel**  | 1        |              |          |
-
-
-After this, surf across to the right.
-
-Room 3
-
-1.   Head up in the only possible path.
-2.   Take the right facing arrow on the right side.
-3.  Head down and activate the orange panel.
-4.  Return to the area by the barrels on the right.
-5.  Head up into the Xen grunt, who has a shadow Galarian Stunfisk.
-6.   Press the green panel.
-7.   Head to the left on the pink panel, and fight the grunt.
-8.   Head left, and go downward arrow all the way on left.
-9.   Head left into the green arrow path.
-10.   Take the upwards green arrow.
-11.   Take the left upwards arrow that takes you to the left.
-12.   Activate the pink panel and fight the grunt.
-13.   Head down and activate the blue panel.
-14.   Head right, up and right, then up and right to get to *TM73 Thunder
-    Wave*!
-15.   Head back down, left, left up, and from here return to the upper
-    left region as we've done before.
-16.  Instead, take the upper right upwards arrow that leads to the upper right.
-17.   Take the rightwards arrow that takes you through the pink path and
-    we're out.
-
-Heal, and we're going to fight in the next room.
-
-Pokemon Trainer Ren (Factory Field)
--   Cacturne, Level 42. @ Focus Sash.
-    -   Giga Drain
-    -   Spikes
-    -   Nature Power
-    -   Dark Pulse
--   Reuniclus, Level 42. @ Colbur Berry.
-    -   Recover
-    -   Psyshock
-    -   Flash Cannon
-    -   Signal Beam
--   Scyther, Level 43. @ Muscle Band.
-    -   Bug Bite
-    -   Aerial Ace
-    -   Brick Break
-    -   Steel Wing
--   Flygon, Level 43. @ Yache Berry.
-    -   Dragon Dance
-    -   Earthquake
-    -   Steel Wing
-    -   Dragon Claw
--   Arcanine, Level 44. @ Liechi Berry.
-    -   Flare Blitz
-    -   Wild Charge
-    -   Extremespeed
-    -   Reversal
--   Greninja, Level 44. @ Expert Belt.
-    -   Surf
-    -   Shadow Sneak
-    -   Night Slash
-    -   Grass Knot
-
-Another tough battle with Ren - his team is almost fully complete, with only Scyther left to evolve. His team, or at least the last four members, are extremely fast, so you must find mons that can live his attacks and dish it back. Cacturne likes to lay spikes. Be careful of technician Scyther which can hit hard, and protean Greninja as always.
-
-Afterwards, enter the hidden cave. After a cutscene, we'll be taken back out to the entrance of the forest. Accept the fast travel to head back to Kakori.
-
-Rorim B will now take us to Oceana Pier from Terajuma Shore for free, so now is a good time to return.
-
-## Floria Island Surfing and Side Quests
-
-Talk to Rorim B at Terajuma Pier, and you can return to Oceana Pier.
+If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
 Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second is left behind some trees. The third is in the upper left corner between some dumpsters. Give them back to get a *Thunderstone*!
 
-Talk to the woman with the cart by the Gearen City Entrance. She'll offer you a *Link Heart* for $10000. This will evolve a trade evolution for us, so I recommend grabbing it now.
+Enter East Gearen, and go to the Magnolia Library. Talk to Zumi upstairs to get our next target for *PictoZumi*. She's looking for Pyukumuku, which we already have. She'll give us 6 *Exp. Candy M*. Our next quest is for Mareep!
 
-Enter the Magnolia Library and talk to Zumi upstairs to get our next quest. She's looking for Pyukumuku, which we already have. She'll give us 6 *Exp. Candy M*. Our next quest is for Mareep!
+The Poke Ball shop has two new balls now:
 
-The Shopping Emporium has new wares for us now that we have five badges:
+!shop("Poke Ball Boutique (5 Badges)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball", "Nest Ball", "Net Ball", "Timer Ball", "Dive Ball"])
 
-Poke Ball Emporium Shop New Items (5 Badges)
+There's also a few new berries now.
 
-|Item        |Price|
-|------------|-----|
-|*Timer Ball*|$1000|
-|*Dive Ball* |$1000|
-
-Berry Emporium Shop New Item (5 Badges)
-
-|Item          |Price|
-|--------------|-----|
-|*Sitrus Berry*|$750 |
-
-Buy 20 of these to give to the girl on the bridge if you'd like.
+!shop("Berry Emporium (5 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Cheri Berry", "Aspear Berry", "Sitrus Berry"])
 
 Next, head to the basement of Chrisola hotel. Surf to the dark patch in the water at night and use a GourmetTreat to get **Totodile**! Also, grab the *Water Stone*.
 
 There are also a couple new items in the AP shop.
 
-AP Shop New Items (5 Badges)
-
-|Item            |Price|
-|----------------|-----|
-|*TM56 Fling*    |5 AP |
-|*TM47 Low Sweep*|5 AP |
+!shop("AP Shop New Items (5 Badges)", [["TM56 Fling", "5 AP"], ["TM47 Low Sweep", "5 AP"]])
 
 Enter the Abandoned Sewers Real quick for some new Pokemon.
 
-Abandoned Sewers
+!enc(55, ["Fishing"], ["Good"])
 
-| Good Rod        | %        |
-|-----------------|----------|
-| Grimer          | 60       |
-| **Qwilfish**    | 20       |
-| **Skrelp**      | 20       |
+## Goldenleaf Area Surfing & Side Quests
 
-Take the train to Route 1. Head into Goldenwood Forest and surf to the left.
+Take the truck to Goldenleaf Town next. 
 
-Route 1
-
-| Water          | %        | Good Rod        | %        |
-|----------------|----------|-----------------|----------|
-| Psyduck        | 90       | Finneon         | 60       |
-| Golduck        | 10       | **Lumineon**    | 40       |
-
-Goldenwood Forest/Cave
-
-| Water          | %        | Good Rod        | %        |
-|----------------|----------|-----------------|----------|
-| Psyduck        | 90       | Goldeen         | 60       |
-| Golduck        | 10       | **Seaking**     | 40       |
-
-ZCell 021: Goldenwood Forest
-
-<img src="/assets/images/rejuv/image21.png"/>
-
-Head further up and enter the clearing here. Pick up *TM78 Bulldoze*, and grab:
-
-ZCell 022: Secret Shrine
-
-<img src="/assets/images/rejuv/image22.png"/>
-
-Back outside, surf up for a hidden *Muscle Wing*.
-
-Head into Goldenwood Cave. Surf left at the top to go down to the basement level. Smash the rock below to get a *Revive*. Hidden in here is a *Big Root*.
-
-Up at the top you'll find Dylan, who you can send to the Lost Camp! He's our seventh *lost kid* out of nine.
-
-ZCell 023: Goldenwood Cave
-
-<img src="/assets/images/rejuv/image23.png"/>
-
-Exit to the Goldenwood Grove. Head to the right, then surf up.
-
-ZCell 024: Goldenwood Grove
-
-<img src="/assets/images/rejuv/image24.png"/>
-
-Head to Wispy Path, then to Goldenleaf Town.
-
-Wispy Path
-
-| Water          | %        | Good Rod        | %        |
-|----------------|----------|-----------------|----------|
-| Goldeen        | 60       | Basculin        | 100      |
-| Seaking        | 30       |                 |          |
-| Basculin       | 6        |                 |          |
-| Lumineon       | 4        |                 |          |
-
-Goldenleaf Town
-
-| Water          | %        | Good Rod        | %        |
-|----------------|----------|-----------------|----------|
-| Goldeen        | 65       | Wooper          | 80       |
-| Finneon        | 30       | Basculin        | 20       |
-| Basculin       | 5        |                 |          |
-
-Head to Wispy Tower's outside and head to the east. The guy won't stop us anymore, so we can explore this area.
-
-Wispy Tower (Outside)
-
-| Grass           | %        |
-|-----------------|----------|
-| **Donphan**     | 25       |
-| Cubone          | 20       |
-| **Stonjourner** | 20       |
-| Phantump        | 10       |
-| Shuppet         | 10       |
-| Banette         | 5        |
-| **Marowak**     | 5        |
-| **Trevenant**   | 4        |
-| **Shedinja**    | 1        |
-
-Head up, and you'll get *Berry Ice Cream* from Karen. *TM118 Pin Missile* is here as well. The area beyond is Wispy Ruins, but we can't explore much as we don't have Rock Climb yet. Return to the town.
+!enc(82, ["Surfing", "Fishing"], ["Good"])
 
 Talk to Dragonite in the square - it's lost its letters again!
 
 The first is south of the pair of houses, in the southwest corner of the town. The second letter is on the hill south of the cemetery. The third is in the grass area at the bottom. Finally, the fourth on the hill to the right of Narcissa's house. Once we have all four, talk to Dragonite to get *TM113 Brutal Swing*!
 
-Enter Wispy Ruins through the statue, then head into the right door. Open the 5-badge gate to get a *Cursed Candle*!
+Enter Wispy Ruins through the statue, then head into the right door. Step on the tile, then head in to and get Griselda's Treasure 5: a *Cursed Candle*!
 
-Exit and go to Route 3.
+Head to Wispy Path next.
 
-Route 3, Phasial Cave, Moon Field
+!enc(95, ["Surfing", "Fishing"], ["Good"])
 
-| Good Rod        | %        | Water          | %        |
-|-----------------|----------|----------------|----------|
-| Wooper          | 60       | Quagsire       | 90       |
-| Chewtle         | 20       | **Drednaw**    | 10       |
-| Quagsire        | 20       |                |          |
+Go to Wispy Tower's outside and walk to the east. The guy won't stop us anymore, so we can explore this area.
 
-Enter Phasial Cave from the top. Surf up in the corner to get *TM146 Razor Shell*! Surf down in the bottom left area and talk to the girl to get the *Troupe Flute*! This will help us on the Poliwag quest we can begin in a bit.
+!enc(102)
 
-Head west to exit onto Moon Field. Pick up *TM127 Beat Up*. Use your Itemfinder here for a *Nest Ball, Star Piece*, 2 *Dusk Balls*, and *Max Repel*.
+Head to the right and go up. You'll get *Berry Ice Cream* from Karen. *TM118 Pin Missile* is here as well, plus:
 
-Moon Field
+**Wisp 08: Wispy Tower**
 
-| Grass        |   %      |
-|--------------|----------|
-| **Minior**   | 36       |
-| **Cleffa**   | 30       |
-| Solrock      | 25       |
-| Herdier      | 4        |
-| Lunatone     | 4        |
-| **Clefairy** | 1        |
+!img("wisp08.png")
 
-Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch a Clefairy without having to wait for the 1% encounter. Also here is *TM58 Sky Drop*, a hidden *Dusk Ball*, and:
+The area beyond is Wispy Ruins. Enter and get *TM41 Torment*! We can't explore as we don't have Rock Climb yet.
 
-ZCell 025: Moon Field
+Back outside, head west into Goldenwood Forest. The top left corner has a river that you can surf on. Get the hidden *Rare Candy* across.
 
-<img src="/assets/images/rejuv/image25.png"/>
+!enc(321, ["Surfing", "Fishing"], ["Good"])
 
-Now, we're going to start the Poliwag event - head back to Wispy Path and use the flute on the Poliwag \#1 there.
+Enter the cave here to find:
 
-Head back to Mirage Woods, and surf down on the long spit. The blue flower to the right has a hidden *Rare Candy*, and below, is *TM48 Round*.
+**ZCell 041: Den of Verity**
 
-Mirage Woods
+!img("zcell041.png")
 
-| Water          | %        | Good Rod        | %   |
-|----------------|----------|-----------------|-----|
-| Surskit        | 65       | Wooper          | 60  |
-| Lumineon       | 34       | Chewtle         | 20  |
-| Masquerain     | 1        | Quagsire        | 20  |
+Head into Goldenwood Cave. 
 
-Head to Sheridan and go to the Spring of Purification. Here you'll find Poliwag \#2.
+!enc(8, ["Surfing", "Fishing"], ["Good"])
 
-Sheridan Village
+Surf left and go down to the basement level. Grab the *Revive* to the right, and a hidden *Big Root*. *TM98 Power-Up-Punch* is below. 
 
-| Water          | %        |
-|----------------|----------|
-| Lumineon       | 100      |
+!battle(["Satella",:KIMONOGIRL,0], "Cave Field")
 
-There's a cell at the arena area if we surf to the right, but only can be found at night.
+You'll also be able to find: 
 
-ZCell 026: Sheridan Arena
+**ZCell 042: Goldenwood Cave**
 
-<img src="/assets/images/rejuv/image26.png"/>
+!img("zcell042.png")
 
-Head up to the daycare and surf to the west. Here's a **Treecko**! Surfing to the south you'll find a *Timid Mint* as well.
+**Wisp 09: Goldenwood Cave**
 
-While you're here, add the extra Spinda to your team.
+!img("wisp09.png")
 
-Next up is Amethyst Cave.
+**Wisp 10: Goldenwood Cave**
 
-Amethyst Cave
+!img("wisp10.png")
 
-| Water          | %        | Good Rod        | %        |
-|----------------|----------|-----------------|----------|
-| Remoraid       | 65       | Seaking         | 60       |
-| Barboach       | 30       | Barboach        | 20       |
-| Whiscash       | 4        | Octillery       | 20       |
-| Octillery      | 1        |                 |          |
+With all ten Wisps, talk to the tower at night and with an Odd Keystone in the bag to catch **Spiritomb**!
 
-The second room from Sheridan contains hidden *Rare Candy* and *Red Shard*.
+On the right, you'll find Jorgie, who you can send to the Lost Camp for the *Lost Souls* quest.
 
-Enter the room shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Panel 2, which you can activate to advance a side quest for the future.
+## Sheridan Area Surfing & Sidequests
 
-ZCell 027: Amethyst Cave
+Take the truck back to East Gearen, then take the train over to Route 2. The stationary Aipom are now **Ambipom**!
 
-<img src="/assets/images/rejuv/image27.png"/>
+!enc(199, ["Surfing", "Fishing"], ["Good"])
 
-Head out to Route 2. There are now **Ambipom** instead of Aipom here. Surf north of Kecleon's shop at the top to grab *TM46 Thief*. Fitting.
+Enter Amethyst Cave.
 
-Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda we got.
+!enc(4, ["Surfing", "Fishing"], ["Good"])
 
-At the top of the route, surf all the way up and we'll reach a new area!
+Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Panel 2, which you can activate to advance a side quest for the future.
 
-## River's End First Visit
+**ZCell 043: Amethyst Cave**
 
-River's End
+!img("zcell043.png")
 
-| Grass         | %  | Water         | %  | Rock Smash | %   |
-|---------------|--- |------------ --|--- |------------|-----|
-| **Shelmet**   | 35 | **Stunfisk* * | 65 | Shuckle    | 66  |
-| **Steenee**   | 30 | Golduck       | 34 | Dwebble    | 34  |
-| **Ribombee**  | 29 | Lumineon      | 1  |            |     |
-| Sunflora      | 4  |               |    |            |     |
-| **Comfey**    | 2  |               |    |            |     |
+The next room with the river contains hidden *Rare Candy* and *Red Shard*. Exit to Sheridan.
 
-| Old Rod  |  %  |Good Rod | %   |
-|----------|-----|---------|-----|
-| Finneon  | 100 |Bruxish  | 80  |
-|          |     |Corphish | 20  |
+!enc(423, ["Surfing", "Fishing"], ["Good"])
+
+Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also only at night:
+
+**ZCell 044: Sheridan Village**
+
+!img("zcell044.png")
+
+Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a GourmetTreat! 
+
+**ZCell 045: Sheridan Village**
+
+!img("zcell045.png")
+
+Head up to the Sheridan Arena. Surf up and left to get *TM87 Swagger*. On the right, only at night:
+
+**ZCell 046: Sheridan Arena**
+
+!img("zcell046.png")
+
+Next, make your way west of Sheridan to Route 3.
+
+!enc(67, ["Surfing", "Fishing"], ["Good"], "Route 3 / Phasial Cave")
+
+**ZCell 047: Route 3**
+
+!img("zcell047.png")
+
+Enter the Mirage Woods at the top of Route 3. Make your way all the way through the woods to the Mirage Town and cross under the waterfall. Surf down to get a hidden *Blue Shard*. To the left, go down the stairs to reach a small pond.
+
+!enc(149, ["Surfing", "Fishing"], ["Good"])
+
+Cross this pond. In the cave, talk to the girl. This is the Move Relearner, who is now going to be open for business in Sheridan Village. In the cave, you'll find a hidden *Exp. Candy M*, *Yellow Shard*, and a *Naive Mint*, though the latter requires using a Blast Powder.
+
+Back on Route 3, enter Phasial Cave from the top right. Surf up in the corner to get *TM146 Razor Shell*! Surf down in the bottom left area, grab the *Data Drive*, then go down the ladder. Talk to the girl to get the *Troupe Flute* and begin the *Poliwag Quest*!
+
+Head west to exit onto Moon Field. 
+
+!enc(142, nil, ["Old", "Good"])
+
+Pick up *TM127 Beat Up* and *TM58 Sky Drop*. Use your Itemfinder here for a *Nest Ball*, *Star Piece*, *2 Dusk Balls*, and *Max Repel*. In the RV is a *Star Piece*.
+
+On any night, you'll be able to find:
+
+**ZCell 048: Moon Field**
+
+!img("zcell048.png")
+
+Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch a Clefairy.
+
+Head back to Wispy Path and use the flute on Poliwag #1 there. Take the truck to Sheridan, and go to the Spring of Purification. Here you'll find Poliwag #2.
+
+## River's End
+
+Make your way back to the south part of Route 3. Surf down the river!
+
+!enc(432, nil, ["Old", "Good"])
+
+---
+
 
 Use your Itemfinder all around - you'll find *Elixir, Revive, Ability Capsule, Repel, Link Heart, HP Up, Tiny Mushroom, Green Shard, Yellow Shard, Blue Shard, PP Up, and Fresh Water*.
 
@@ -1070,6 +652,10 @@ Terajuma Jungle Mulch Shop
 That's all we can do for this massive load of quests, so head back to Crawli's gym.
 
 ## Infested Badge
+
+You'll notice there is a breeder by the Kakori Help Center. Defeating them grants you *5 Exp. Candy M*.
+
+!battle(["Sarah",:POKEBREEDER_F,0], "Forest Field")
 
 Enter Crawli's gym in the ranger HQ once you have prepped your team. Talk to Holly at the entrance, then enter one of the caves and talk to her again - and our challenge will begin.
 

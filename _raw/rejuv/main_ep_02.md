@@ -262,6 +262,8 @@ Now healing is free. Talk to the woman downstairs to sleep once, and we will exp
 
 Talk to a girl in the lobby of the inn to get a *Sweet Heart*. Talk to a girl in the first room on the left in the vertical hallway and take on the *Lost Boyfriend* quest.
 
+!enc(423, ["Grass", "Fishing", "Rock Smash"], ["Old"])
+
 Outside, go east. Above the boxes is a hidden *Ability Capsule*. A trainer is wandering around to the left.
 
 !battle(["Jessibelle",:AROMALADY,0], "Forest Field")

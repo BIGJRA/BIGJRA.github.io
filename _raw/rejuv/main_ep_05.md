@@ -267,7 +267,7 @@ Enter the quarry again and talk to Adam.
 - I won it. (Neutral)
 - I stole it. (Adam -1)
 
-All those glowing rocks around can be [mined for items](#mining-item-probabilities), just like in 4th gen. If you save in front of a rock and press F12, you can reset the items within.
+All those glowing rocks around can be [mined for items](#mining-item-probabilities), just like in 4th gen. If you save in front of a rock and press F12, you can reset the items within. It's worth considering resetting until you get an *Odd Keystone* for a quest a bit later.
 
 Break all the rocks, talk to Adam, and use the *Blast Powder* he gives you. Head left and talk to him again.
 
@@ -522,7 +522,7 @@ Exit to the Mynori Sea area to the north.
 
 On the dock, you can interact with **Tentacool** for a battle. To the right is a *Berry Juice*. To the left, you'll find a replica of Mr. Luck's Tent if you want to grab any tutor moves or track Black Prisms. Up from here on the beach is a *Red Shard*. 
 
-Talk to Novae up from here to begin *Battle Me Again!* 
+Talk to Novae up from here to begin *Battle Me Once More!* 
 
 !battle(["Novae",:WANDERER,2], "Beach Field")
 
