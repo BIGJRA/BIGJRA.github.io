@@ -678,6 +678,7 @@ def load_raid_den_hash(game, scripts_dir)
       # Processing encounterTable function
 
       # Match den definitions
+      break if line =~ /when "Beldum"/ 
       if line =~ /when\s+"(?<den>Den\d+)(Rare)?"/
         current_den = $~[:den]
         current_rarity = line.include?("Rare") ? :rare : :common

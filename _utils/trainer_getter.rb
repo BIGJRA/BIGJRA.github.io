@@ -310,7 +310,6 @@ class TrainerGetter
       end
 
       mon_details_td = doc.create_element('td')
-      pp pokemon_name
       mon_details_td.add_child(doc.create_element('strong', pokemon_name))
       mon_details_td.add_child(mon_details_parts.reject { |s| s.empty? }.join("\n"))
       content_row.add_child(mon_details_td)

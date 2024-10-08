@@ -524,16 +524,17 @@ Go up the stairs to the right, then surf up at the top of the mountain: you'll f
 
 !raid(3, 4)
 
-RIFT DEN 3 (\< 8 Badges): The common encounters in this second den are Herdier, Crabrawler, Pachirisu, and Chimecho. The rare ones are **Rhyhorn**, Vanillite, and **Purugly**.
+West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as:
 
-Head north to cross the leftmost bridge: surfing here leads us to the fourth den.
+**ZCell 050: Route 4**
+
+!img("zcell050.png")
+
+Plus, the fourth and final den is here.
 
 !raid(4, 4)
 
-
-RIFT DEN 4 (\< 8 Badges): The common encounters in this second den are Lotad, Gastrodon, and Palpitoad. The rare ones are Mantyke and **Frillish**.
-
-That's all that we can do here for now. You might have enough Rift Essence to grab those crests if you haven't gotten them yet.
+That's all that we can do here for now. You might have enough Rift Essence to grab those crests or Chespin if you haven't gotten them yet.
 
 Head back to Akuwa Town.
 
