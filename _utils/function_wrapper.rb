@@ -442,6 +442,9 @@ class FunctionWrapper
           moves_edited.push(name)
         end
         final = "- " + moves_edited.join("\n- ")
+        if atts[:Moves] == []
+          final = "N/A"
+        end
         content_row.add_child(doc.create_element('td', final))
 
         # Column 3: Stat Attributes (e.g., Form, ShinyChance)
@@ -466,7 +469,8 @@ class FunctionWrapper
       html_output = doc.to_html
       res.push(html_output.split("\n")[1..].join("\n"))
     end
-    res.join("\n\n")
+    res = res.join("\n\n")
+    res.gsub(/<td>\s*\n\s*<strong>/, '<td><strong>')
   end
 end
 

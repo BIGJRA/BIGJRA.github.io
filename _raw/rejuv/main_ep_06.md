@@ -482,24 +482,54 @@ Make your way back to the south part of Route 3. Surf down the river!
 
 !enc(432, nil, ["Old", "Good"])
 
----
+Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
 
+**ZCell 049: Route 2**
 
-Use your Itemfinder all around - you'll find *Elixir, Revive, Ability Capsule, Repel, Link Heart, HP Up, Tiny Mushroom, Green Shard, Yellow Shard, Blue Shard, PP Up, and Fresh Water*.
+!img("zcell049.png")
 
-Surf up to the top, above the house, where the Golden Trees are. You'll find an **Electrike** here during the day, give it a GourmetTreat for a battle!
+Back in River's End, surf to the left. Climb the stairs and get a hidden *Ability Capsule*, *Elixir*, *Synthetic Seed*, *Yellow Shard*, *Elemental Seed*, and *Tiny Mushroom*. 
 
-The door is locked for now, but we'll be back after our next badge. Surf out of here to the north to return to Goldenleaf Town and take the truck to Akuwa Town.
+Enter the building above the land bridge. Ask Matthew about his studies above and begin *The Inconsistency* quest. If you answer all three of Eizen's questions correctly, you'll get a special scene.
 
-## Route 4 Second Visit
+**Relationship Point Choices:**
+- Answer "Akora Shore" (+1 Eizen)
+- Answer "Evergreen" (-1 Eizen)
 
-Enter Route 4 from Akuwa Town.
+**Relationship Point Choices:**
+- Answer "Summer" (+1 Eizen)
+- Answer "Winter" (-1 Eizen)
 
-Head all the way to the entrance by Wispy Ruins. Surf up at the top of the mountain: you'll find Teddy here, the eighth of the nine *lost kids* for the Lost Camp side quest. There is also another den here!
+**Relationship Point Choices:**
+- Answer "East" (+1 Eizen)
+- Answer "North" (Neutral)
+
+Anyways, get the *Lab Key* from them. Take it on over to the Forsaken Laboratory beneath Wispy Tower. In the leftmost room, surf to the black door and use the key.
+
+Talk to this tablet and you'll be engaged with a puzzle. Here is the solution:
+
+!img("nullpuzzle.png")
+
+Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade. Poke Balls can be obtained in stores, we've found two Up-Grades so far, and we were given a Magnet on Route 2 by showing a guy our Emolga.
+
+Get the items in your bag, and return. The Pokemon inside will run off, to a hill in the bottom left side of River's End. You'll get to battle **Type: Null!**
+
+Add Null to your party, then evolve it by friendship into **Silvally**. Head back to River's End and talk to Matthew at his house. He'll give us the *Poison Memory!* We'll be finding the rest as we continue in the game.
+
+## Akuwa Area Surfing & Sidequests
+
+Back in Goldenleaf, head through the Wispy Ruins to Route 4.
+
+Go up the stairs to the right, then surf up at the top of the mountain: you'll find Teddie here for the *Lost Souls* quest. There is also another den here!
+
+!raid(3, 4)
 
 RIFT DEN 3 (\< 8 Badges): The common encounters in this second den are Herdier, Crabrawler, Pachirisu, and Chimecho. The rare ones are **Rhyhorn**, Vanillite, and **Purugly**.
 
 Head north to cross the leftmost bridge: surfing here leads us to the fourth den.
+
+!raid(4, 4)
+
 
 RIFT DEN 4 (\< 8 Badges): The common encounters in this second den are Lotad, Gastrodon, and Palpitoad. The rare ones are Mantyke and **Frillish**.
 

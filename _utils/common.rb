@@ -665,16 +665,13 @@ def load_raid_den_hash(game, scripts_dir)
       if line =~ /:\s*(?<pokemon>\w+)\s*=>\s*{/  # Ensure to match the opening brace
         current_pokemon = $~[:pokemon].to_sym
         mon_info[current_pokemon] ||= {}  # Initialize a new hash for this Pokémon
-      end
 
-      if current_pokemon  # Only process attributes if a Pokémon has been defined
-        if line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?),\n/m
-          att_name = $~[:att].to_sym
-          values = eval($~[:values].strip)
+      elsif current_pokemon && line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?)(?:,\n|\n)/m # Only process attributes if a Pokémon has been defined
+        att_name = $~[:att].to_sym
+        values = eval($~[:values].strip)
 
-          # Assign the attribute to the current Pokémon's hash
-          mon_info[current_pokemon][att_name] = values
-        end
+        # Assign the attribute to the current Pokémon's hash
+        mon_info[current_pokemon][att_name] = values
       end
 
     elsif found_encounter_block
