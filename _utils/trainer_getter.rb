@@ -227,7 +227,10 @@ class TrainerGetter
         end
         # Handles text parts of boss data
         mon_details_parts.push("Shields: #{boss_data[:shieldCount]}")
-        mon_details_parts.push("Immunities to #{boss_data[:immunities].join(", ")}") if boss_data[:immunities] != {}
+        if boss_data[:immunities] != {}
+          imms = boss_data[:immunities][:moves] + boss_data[:immunities][:fieldEffectDamage]
+          mon_details_parts.push("Immunities to #{imms.join(", ")}") 
+        end
         boss_data[:onBreakEffects].keys.sort.reverse.each do |shield_count|
           effs = boss_data[:onBreakEffects][shield_count]         
           if shield_count == 100
@@ -302,7 +305,9 @@ class TrainerGetter
           if effs[:playersideChanges]
             eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
-          eff_strs.push(effs[:bosssideChanges]) if effs[:bosssideChanges]
+          if effs[:bosssideChanges]
+            eff_strs.push("Effect added to boss's side: #{effs[:bosssideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+          end
           if effs[:itemchange]
             eff_strs.push("Boss's held item becomes #{@itemHash[effs[:itemchange]][:name]}")
           end

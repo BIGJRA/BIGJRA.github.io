@@ -379,106 +379,85 @@ Back in Sheridan, go west onto Route 3 and enter the Mirage Woods. Make your way
 
 !img("zcell067.png")
 
-## Frozen Over Kristiline Town
+## Church of Theolia
 
-To progress the story, enter the living room of Tesla's house. Talk to Melia. Then board the boat.
+To progress the story, take the submarine from Mynori Sea. Follow the path through Kristiline Town and enter the church. At the fork, go right.
 
-Head west, and Melia and Venam will head towards the T.M. shop. The mart and center are in the upper left area.
+**ZCell 068: Church of Theolia**
 
-Kristiline Town Shop
+!img("zcell068.png")
 
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Super Potion* |$700 |
-|*Full Heal*    |$600 |
-|*Antidote*     |$100 |
-|*Ice Heal*     |$250 |
-|*GourmetTreat* |$1500|
-|*Super Repel*  |$500 |
-|*Max Repel*    |$700 |
-|*Reverse Candy*|$50  |
+Go up now. You'll awaken in the Tower of Theolia. There is a butterfly that can warp you to Teila Resort if you need to exit for any reason.
 
-Enter the T.M. shop in the southeast. After a scene and a lesson with Jenner, head up towards the Isle of Angels.
+!shop("Tower of Theolia", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "GourmetTreat", "Super Repel", "Max Repel", "Reverse Candy"])
 
-Cross the ice and enter the Church of Theolia.
+Enter the tower. 
 
-**Relationship Point Choices**:
-- Yes. (Melia +1)
-- No. (Venam +1)
+!enc(344)
 
-## Tower of Theolia
+Follow the path up. After talking to Zetta and Jenner, smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
 
-Grab the 2 *Yache Berries*.
+**Relationship Point Choices:**
+- Fail to defeat Madame X and the first Tapu Koko fight (-3 Crescent)
 
-Head up and heal and use the PC if you need. Head upstairs into the Tower of Theolia!
+Return to the room with the bed and use the key.
 
-Tower of Theolia
+In the room with the silk, interact with the small pods to fight **Orbeetle**, **Vespiquen**, and Whirlipede.
 
-| Cave        | %        |
-|-------------|----------|
-| Bergmite    | 54       |
-| Delibird    | 25       |
-| Spheal      | 19       |
-| **Swinub**  | 2        |
+!boss("BELIAL", "Frozen Dimensional Field")
 
-All of these can be gotten later, so don't worry if you don't want to or can't get them now.
+This Volcarona is incredibly fast, hits hard, recovers Leftovers, refreshes stat drops and status, and even makes a last ditch field change to Flower Garden. Despite all this, it is still very weak to Rock moves, so if you have speed control and one of those you can come out on top here.
 
-Grab *TM79 Frost Breath* on your way up 2F. Head up, battling the maid, and seeing the scene on the stage. Head up into this next room.
+Talk to Crawli to get a key.
 
-Defeat these maids, and head into the next room.
+!battle(["Amelia",:SERVANT,0], "Frozen Dimensional Field")
 
-After an outside portion, you'll meet Kreiss. It's your choice whether to free him. If you do, you'll be rewarded with *TM101 Rock Climb*! Head out to the top after this and follow doors through to the next cutscene. Fight the two maids.
+Study the sign nearby. You can drop a ladder here before proceeding. Talk to Bonita to start the Big Show. Answer the questions to the best of your ability, or you will perish:
 
-Now, there's a little bit of bonus story content we can get at this point. Backtrack a few rooms, and curtains will be moved so that we can access a new path. Head up to see the scene.
+!battle(["Mabeline",:SERVANT,0], "Frozen Dimensional Field")
 
-Return to where we were and enter the door. Continue through the path and through the doors. After the cutscene at Teila, talk to Cera for some advice, and heal. At the battlefield, head left to grab a *Hyper Potion* and the top right for a *Max Revive*.
+...and, you have to try again. You'll need to get at least six right to proceed. Take the warp to proceed.
 
-You can exit if need be but go ahead and prepare for the battle ahead!
+**Relationship Point Choices:**
+- Free Kreiss (+2 Kreiss)
+- Keep Kreiss locked up (-2 Kreiss)
 
-## Glacier Badge
+Drop another ladder when you get outside. Back at the bottom, you can now get *6 Sitrus Berries* and *5 Yache Berries*.
 
-Gym Leader Angie (Icy Dimensional Field, Hail)
--   Jynx, Level 47. @ Focus Sash.
-    -   Fake Out
-    -   Cold Truth
-    -   Psyshock
-    -   Focus Blast
--   Arctovish, Level 47. @ Chople Berry.
-    -   Stone Edge
-    -   Surf
-    -   Freeze Dry
-    -   Aurora Veil
--   Beartic, Level 49. @ Muscle Band.
-    -   Low Kick
-    -   Liquidation
-    -   Icicle Crash
-    -   Rock Slide
--   Rotom Frost, Level 48. @ Wide Lens.
-    -   Cold Truth
-    -   Thunderbolt
-    -   Foul Play
-    -   Shadow Ball
--   Crabominable, Level 49. @ Elemental Seed.
-    -   Ice Punch
-    -   Drain Punch
-    -   Rock Slide
-    -   Crabhammer
--   Walrein, Level 50. @ Assault Vest.
-    -   Surf
-    -   Cold Truth
-    -   Rock Slide
-    -   Stomping Tantrum
+Reenter the Cellar. It is now frozen, so you can slide around. Follow the first hole in the wall, then in the top left, smash a wall to get *TM79 Frost Breath*! Enter the room at the bottom to get a hidden *Blue Shard* and fight a servant.
 
-Cold Truth: Ice \| Special \| 95 power \| 100% accuracy \| Hits both foes in a Double Battle \| Inflicts Torment on the target \| On Frozen Dimensional Field, power is boosted x1.5 \| Turns Dimensional Field into Frozen Dimensional Field.
+!battle(["Nadia",:SERVANT,0], "Frozen Dimensional Field")
 
-If you managed to make it through the Novae battles, Valarie, and Crawli, this is the first battle of the game you might really suffer. Part of the problem is just how many things are stacked against you that you must overcome - Icy Dimensional Field, which is difficult to change and can be changed back with a single move, the hail which chips your team down while powering up hers, that her team (even Crabominable with its seed!) is exceptionally speedy, they like to set up Aurora Veil, so you need to break it. Trick Room if you can find it, Drought/Sunny Day and a way to change the field (Heat Wave, Flame Burst, Lava Plume may be your only options) are decent ways to build yourself an advantage. You can also take advantage of the field yourself, as Ice and Dark moves are buffed.
+Continue right, then emerge back in the icy area. Sliiiiiiide to the right to get *NeverMeltIce*. To the right again is an *Herbal Tea* and hidden *Max Repel*
 
-The scene at this point splits a lot and depends on whether you saved Kreiss. If you did, it's straightforward - he'll freeze Angie, and you can exit into a melted Kristiline Town. Here, Kreiss will give you the Glacier Badge!
+Slide your way through the gap at the bottom of the room. Grab the *Fluffy Tail* and talk to the girl for an *Ability Capsule*. Hidden here, and going left is a *Max Repel*, *Ultra Potion*, *Yellow Shard*, *Blue Shard*, and *Rare Candy*. In the bottom left pick up the *Black Prism* and another hidden *Rare Candy*, then smash the wall to get a *Rash Mint* and *3 Exp. Candy L*.
 
-If you didn't save him, head into 5F, and you'll be taken onto the long staircase. Head all the way down, and Valarie will save the day. Here you'll get the Glacier Badge, and Kreiss will now give you the T.M. for Rock Climb if you didn't save him earlier.
+On the right side of the room, get hidden *Green Shard* and *Revive* and pick up an *X Speed*. Smash a wall to get a *Modest Mint*. You'll also find:
 
-The Glacier Badge lets us Rock Climb and gives up to Level 55 Pokemon.
+**ZCell 069: Tower Cellar**
 
-Head outside the church if you didn't save Kreiss. Regardless of your choice, you'll be given a choice to fast travel back to Teila. We're gonna do some stuff here in Kristiline, so I recommend not accepting the offer.
+!img("zcell069.png")
+
+Head back up from the previous room. In this central hub, go right next. Get the hidden *Ice Gem* and pick up the *Ice Heal*. That's all for the cellar area right now, so head back up the tower to where we left off.
+
+Break the mirror right above the ladder. In the next room, you'll need to push the statue onto the red tile. This moves the ladder in the previous room, so go up it. In this next room, you'll need to move the statue around the table - it will move the crack in the wall. All the way right, you can go through.
+
+Take note of the position of the ladder and the red dot, then move the statue across the mirror as many tiles as needed to get the ladder onto the dot. Climb up.
+
+In this next room, you can smash a door to the left for a quick scene. Head straight down, into a door opposite the previous. Push the statue: 3D 9L 2U. Go up the ladder.
+
+!partner(["Venam",:LEADER_VENAM,2])
+
+!dbattle(["Mary",:SERVANT,0], ["Sarah",:SERVANT,0], "Frozen Dimensional Field")
+
+Go up when you can. Back outside, drop another ladder. Head up when you are ready!
+
+!battle(["Angie",:LEADER_ANGIE,0], "Frozen Dimensional Field")
+
+!move("COLDTRUTH")
+
+This fight is very difficult. The Frozen Dimensional Field makes the Ice and Dark attacks that she uses a lot stronger, on top of permanent hail plus a signature move that hits both of your Pokemon hard and even afflicts Torment. There is some bulk, some speed, lots of coverage, and lots of synergy, but a well constructed team can take her down. 
+
+For starters, the boost to Dark moves like Knock Off makes them one of the most viable options against her. Changing the weather is very helpful, though we don't have any of the TMs yet. Wide Guard, Brick Break, and Protect are all moves that can be very helpful in this battle, as well. I also recommend using the Elemental Seed to your own advantage - Cold Truth might afflict Torment anyways, so take advantage of the double speed when you need it in this fight.
+
+Run away from Angie! That's it for Chapter 7!
