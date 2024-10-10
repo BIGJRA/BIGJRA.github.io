@@ -154,7 +154,7 @@ The four items of inventory on the left are determined randomly each day - a num
 7. *Full Restore* ($1,600), *Sitrus Berry* ($500), *PP Up* ($12,800), *Dawn Stone* ($25,000),
 8. *Revive* ($1,000), *Leppa Berry* ($1,500), *PP Max* ($20,800), *Shiny Stone* ($25,000).
 
-Head to the top right side of the route.
+The evolution items are of course nice for early evolutions for team members that need them. If you are lucky enough to find one, buy a single Protein for a quest later (don't use it or sell it). Head to the top right side of the route.
 
 !enc(199, ["Rock Smash"])
 
@@ -182,7 +182,7 @@ The wall below the second Joltik contains a hidden *HP Up*. Talk to Ren.
 
 The rock below him contains a *Potion*, and one tile down from the box to the left is a hidden *Antidote*. Crossing the bridge, the bottom left box of the set on the right contains a *Green Shard*. A rock below here contains a *Resist Wing*, and there is a *Blue Shard* three tiles down and one tile left.
 
-Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a GourmetTreat to catch **Lunatone**. Activate Panel 1 while you are here. We will activate 5 more for a quest later.
+Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a GourmetTreat to catch **Lunatone**. Activate Amethyst Power Supply Panel 1 while you are here. We will activate 5 more for a quest later.
 
 Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn about Rift Galvantula. Partner up with Ren or Venam!
 

@@ -404,7 +404,7 @@ You'll also be able to find:
 
 With all ten Wisps, talk to the tower at night and with an Odd Keystone in the bag to catch **Spiritomb**!
 
-On the right, you'll find Jorgie, who you can send to the Lost Camp for the *Lost Souls* quest.
+On the right, you'll find Jorgie, the seventh kid who you can send to the Lost Camp for the *Lost Souls* quest.
 
 ## Sheridan Area Surfing & Sidequests
 
@@ -416,7 +416,11 @@ Enter Amethyst Cave.
 
 !enc(4, ["Surfing", "Fishing"], ["Good"])
 
-Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Panel 2, which you can activate to advance a side quest for the future.
+Now that our level cap is Lv. 45, it is a good time to take on Spirit Keta in the Amethyst Grotto. For winning, we get a *Blue Shard*, *Red Shard*, *Green Shard*, *Black Prism*, *Exp. Candy L*, and *TM17 Protect*!
+
+!battle(["Keta",:LEADER_KETA2,0])
+
+Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
 
 **ZCell 043: Amethyst Cave**
 
@@ -474,7 +478,7 @@ On any night, you'll be able to find:
 
 Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch a Clefairy.
 
-Head back to Wispy Path and use the flute on Poliwag #1 there. Take the truck to Sheridan, and go to the Spring of Purification. Here you'll find Poliwag #2.
+We can start the *Poliwag Quest* search by getting two of them now. Head back to Wispy Path and use the flute on Poliwag #1. Take the truck to Sheridan, and go to the Spring of Purification. Here you'll find Poliwag #2.
 
 ## River's End
 
@@ -516,15 +520,17 @@ Get the items in your bag, and return. The Pokemon inside will run off, to a hil
 
 Add Null to your party, then evolve it by friendship into **Silvally**. Head back to River's End and talk to Matthew at his house. He'll give us the *Poison Memory!* We'll be finding the rest as we continue in the game.
 
+If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Aevian Munna** and *Nightmare Fuel*!
+
 ## Akuwa Area Surfing & Sidequests
 
 Back in Goldenleaf, head through the Wispy Ruins to Route 4.
 
-Go up the stairs to the right, then surf up at the top of the mountain: you'll find Teddie here for the *Lost Souls* quest. There is also another den here!
+Go up the stairs to the right, then surf up at the top of the mountain: you'll find Teddie, the eighth kid, here for the *Lost Souls* quest. There is also another den here!
 
 !raid(3, 4)
 
-West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as:
+West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as, only at night:
 
 **ZCell 050: Route 4**
 
@@ -534,153 +540,119 @@ Plus, the fourth and final den is here.
 
 !raid(4, 4)
 
+North of Cairo's house, also at night:
+
+**ZCell 051: Route 4**
+
+!img("zcell051.png")
+
 That's all that we can do here for now. You might have enough Rift Essence to grab those crests or Chespin if you haven't gotten them yet.
 
-Head back to Akuwa Town.
+Head up to Akuwa Town.
 
-## Route 11
+!enc(13, ["Surfing", "Fishing"], ["Good"])
 
-Akuwa Town
+There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. As you do, pick up hidden *Blast Powder*, *Poke Ball*, and *Health Wing* on the islands. Surf east to reach Route 11.
 
-| Water        | %        | Good Rod        | %   |
-|--------------|----------|-----------------|-----|
-| Seel         | 60       | Luvdisc         | 80  |
-| Finneon      | 30       | Alomomola       | 20  |
-| Buizel       | 5        |                 |     |
-| Remoraid     | 4        |                 |     |
-| Alomomola    | 1        |                 |     |
-
-There's nothing to do in Akuwa Town yet, as all the people are still gone. Surf east, as you do, pick up hidden *Blast Powder, Poke Ball, Health Wing* on the islands. First, surf east to Route 11.
-
-Route 11
-
-| Water             | %        | Old Rod         | %        |Good Rod        | %        |
-|-------------------|----------|-----------------|----------|----------------|----------|
-| Mantyke           | 60       | Goldeen         | 70       |**Dewgong**     | 60       |
-| Tentacool         | 34       | **Spheal**      | 30       |Luvdisc         | 40       |
-| Wailmer           | 6        |                 |          |                |          |
-
-| Rock Smash        | %        |
-|-------------------|----------|
-| Geodude           | 95       |
-| Binacle           | 5        |
+!enc(3, nil, ["Old", "Good"])
 
 Hidden on the first island is a *Dire Hit*. Grab the *Red Shard*, then talk to the Xen Grunt... He wants 10 Sweet Hearts. Buy them from the Route 3 Vendor if you haven't yet, then return.
 
+!battle(["Quentin",:XENGRUNT_M,0])
+
 Beat the grunt, and you'll be engaged in battle with a level 40 **Jynx**!
 
-Starting to the south, use your itemfinder on the islands to find *HP Up, Adamint Mint, Red Shard, Blue Shard, Jolly Mint*. Pick up the *Ether*. To the right, you'll find Poliwag \#3!
+Go to the southwest. At night only:
 
-On the island south of here, you'll find
+**ZCell 052: Route 11**
 
-ZCell 028: Route 11
+!img("zcell052.png")
 
-<img src="/assets/images/rejuv/image28.png"/>
+Starting to the southwest and going north, use your itemfinder on the islands to find *HP Up*, *Adamant Mint*, *Red Shard*, and *Blue Shard*. 
 
-Anyways, grab the *Max Repel* and enter the cave on the east side here.
+!battle(["Sheen",:BLACKBELT,0])
 
-Seabound Cave/Evergreen Cave
+Continue heading up, picking up hidden *Jolly Mint*. Pick up the *Ether* to the right. 
 
-| Cave                   | %  | Water        | %  | Rock Smash | %   |
-|------------------------|----|--------------|--- |------------|-----|
-| Smoochum               | 30 | Seel         | 60 | Binacle    | 94  |
-| **Sandshrew (Alolan)** | 30 | Spheal       | 30 | Dunsparce  | 5   |
-| Vanillite              | 15 | **Sealeo**   | 5  | Shuckle    | 1   |
-| **Vanillish**          | 15 | Dewgong      | 4  |            |     |
-| Jynx                   | 5  | **Kingler**  | 1  |            |     |
-| **Bergmite**           | 4  |              |    |            |     |
-| **Avalugg**            | 1  |              |    |            |     |
+!battle(["Simon",:YOUNGSTER,0])
 
-|   Old Rod       | %        | Good Rod        | %        |
-|-----------------|----------|-----------------|----------|
-| Spheal          | 70       | Seaking         | 60       |
-| Goldeen         | 30       | Sealeo          | 20       |
-|                 |          | Octillery       | 20       |
+Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the island south of here, you'll find:
 
-Catch two Sandshrew here, we are gonna trade one away in a bit. The water encounters we can access in just a little bit. Nothing else we can do here yet.
+**ZCell 053: Route 11**
 
-Head out, and up to Evergreen Island north of Route 11.
+!img("zcell053.png")
 
-Evergreen Island
+Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
-| Water        | %   | Old Rod  | %   |Good Rod  | %   |
-|--------------|-----|----------|-----|----------|-----|
-| Mantyke      | 90  | Goldeen  | 100 |Goldeen   | 80  |
-| Wailmer      | 5   |          |     |Basculin  | 20  |
-| **Mantine**  | 4   |          |     |          |     |
-| Tentacruel   | 1   |          |     |          |     |
+!enc(490, nil, ["Old", "Good"], "Seabound Cave / Evergreen Cave")
 
-| Rock Smash  | %  |
-|-------------|----|
-| Geodude     | 95 |
-| Binacle     | 5  |
+Catch two Sandshrew here, we are gonna trade one away in a bit. You can break the ice by a move like Bulldoze to get the Water encounters, but can't otherwise proceed.
 
-Talk to the Octillery here to battle them.
+## Evergreen Island & Seabound Cave
 
-Attempt to enter the forest, and Nana will stop you. She'll invite you to her home, so head in. She'll give you the *Mysterious Emblem*. This will also give you access to a PC and bed, which we'll be using a lot in this section.
+Head out, and up to the Evergreen Island map northwest of Route 11.
 
-Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze T.M. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption. Salandit from the safari zone also has one of these.
+!enc(75, nil, ["Old", "Good"])
 
-Then, surf to the cave in the middle here and use Blizzard in a battle. After the field has changed, use the ground move, and a path will open. Enter and surf to battle **Lapras**!
+Talk to the Octillery here to battle them. Land on the island at the top of the Island map. Grab the hidden *Heart Scale* to the right, then attempt to enter the forest, and Nana will stop you. She'll invite you to her home, so head in. She'll give you the *Mysterious Emblem*. This will also give you access to a PC and bed, which we'll be using a lot in this section.
 
-Heal at Nana's house again, then pick up a hidden *Heart Scale* and enter the cave to the right.
+Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption, such as the Magcargo we evolved earlier.
 
-Use the fire move in battle, then surf across. Exit the southeast ladder to get:
+Then, surf to the cave to the south, and use Blizzard in a battle. After the field has changed, use the ground move, and a path will open. Enter and surf to battle **Lapras**!
 
-ZCell 029: Evergreen Island
+Heal at Nana's house again, then enter the cave to the right.
 
-<img src="/assets/images/rejuv/image29.png"/>
+Use the fire move in battle, then surf across. Exit at the southeast to get:
 
-Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. Beat the trainers then grab the *X Special*. Hidden is a *Zinc, Rare Candy*, and *Full Heal*. Hop into the hole all the way at the bottom. Grab the *DeepSeaScale* then head through the hole. We can't do anything in this area yet, but we will come back. Head back up the ladder twice. Jump down the leftmost hole to get *DeepSeaTooth*. In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
+**ZCell 054: Evergreen Island**
+
+!img("zcell054.png")
+
+Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. 
+
+!battle(["Karlson",:TOURIST,0], "Icy Field")
+
+!battle(["Charlotte",:LASS,0], "Icy Field")
+
+!dbattle(["Samuel",:TECH,0], ["Ned",:BLACKBELT,0], "Icy Field")
+
+Beat the trainers then grab the *X Special*. Hidden is a *Zinc*, *Rare Candy*, and *Full Heal*. Hop into the hole all the way at the bottom. Grab the *DeepSeaScale* then head through the hole. We can't do anything in this area yet, but we will come back. Head back up the ladder.
+
+!battle(["Clare",:COOLTRAINER_F,0], "Icy Field")
+
+Climb up the ladder, then jump down the leftmost hole to get *DeepSeaTooth*. In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
 
 Finally, enter the forest.
 
-Evergreen Forest
-
-| Headbutt         | %   | Grass          | %   | Water   | %   |
-|------------------|-----|----------------|-----|---------|-----|
-| Pineco           | 55  | **Snover**     | 34  | Seel    | 60  |
-| Crabrawler       | 20  | **Cubchoo**    | 29  | Spheal  | 30  |
-| **Taillow**      | 10  | Vanillite      | 20  | Buizel  | 5   |
-| **Swellow**      | 5   | **Farfetch'd** | 15  | Sealeo  | 4   |
-| **Crabominable** | 5   | **Furfrou**    | 2   | Dewgong | 1   |
-| **Snom**         | 4   |                |     |         |     |
-| **Slakoth**      | 1   |                |     |         |     |
-
-| Old Rod   | %   | Good Rod  | %   |
-|-----------|-----|-----------|-----|
-| Goldeen   | 100 | Seaking   | 60  |
-|           |     | Dewgong   | 20  |
-|           |     | Floatzel  | 20  |
+!enc(470, nil, ["Old", "Good"])
 
 There are also Swablu that fly around here. There is a stationary Stantler to the right in the forest, as well as **Buneary**. Catch two for a trade!
 
-There are lots of *Snowballs* on the ground we can pick up. Hidden around the entrance areas are a *Max Repel*, and *Genius Wing*. Head up and to the right for a *Dusk Ball* on the mountain.
+There are lots of *Snowballs* on the ground we can pick up. Hidden around the entrance areas are a *Max Repel*, and *Genius Wing*. 
 
-Head back to the middle area. Hidden as you head up and to the dead end on the left is *Ice Heal, Ice Gem*, *Paralyze Heal, Hyper Potion, Zinc*, and *Genius Wing*. Surf across the pond we passed earlier. Hidden on this path is *Resist Wing, HP Up, Rare Candy*, and *Magical Seed*. At night we can battle stationary Snorunt.
+!battle(["Shiela",:AROMALADY,0])
 
-Head back down and surf back across the pond. Go up and right to find a hidden *X Special*. Finally go all the way up to the spring and grab the *Max Repel*. Whether you got Anju's Pendant or not, the Mysterious Emblem will allow you to enter the spring of preservation at the top.
+Head to the bottom right next. 
+
+!battle(["Sarai",:KIMONOGIRL,0])
+
+Grab the a *Dusk Ball* on the mountain, and the hidden *Telluric Seed*.
+
+Head back to the middle area. Hidden as you head up and to the dead end on the left is *Ice Heal*, *Ice Gem*, *Paralyze Heal*, *Hyper Potion*, *Zinc*, and *Genius Wing*. Surf across the pond we passed earlier. You'll find Mitsudo, the ninth kid, for the *Lost Souls* quest!
+
+Hidden on this path is *Resist Wing*, *HP Up*, *Rare Candy*, and *Telluric Seed*. At night we can battle stationary Snorunt.
+
+Head back down and surf back across the pond. Go up and right to find a hidden *X Special*. Follow the final path up, go all the way up to the spring, and grab the *Max Repel*. Either Anju's Pendant or the Mysterious Emblem will allow you to enter the spring of preservation at the top.
 
 Enter the spring and talk to the **Piplup** for a battle.
 
-One more thing we can do in this area for now: evolve one of your Buneary via happiness into **Lopunny*,* then trade it with the person on Evergreen Island for a **Shroomish**.
+One more thing we can do in this area for now: evolve one of your Buneary via happiness into **Lopunny**, then trade it with the person on Evergreen Island for a **Shroomish**.
 
-That's all we can do in the Route 11 area.
+That's all we can do in the Route 11 area right now!
 
-Take the boat to Terajuma, then surf up in this spot to return to where we got Valarie's badge, and get Poliwag \#4. Head up to Valor Shore and surf up for Poliwag \#5.
+Return to Gearen City and talk to Ayuda - now that we've collected 50 Zygarde Cells, we will be given a *Cell Imprint* as well as the *Macho Brace*. Our next threshold is 75.
 
-Head up and talk to Dragonite! He's lost all his letters again. The first is on the island immediately to the right. The second is on an island around a loop dead south of Dragonite. The third is dead east of the second. Finally, the fourth is on Route 5 in the grass on the left. Talk to Dragonite again to get a *Shiny Stone*.
-
-Return to the Terajuma Jungle, and find the girl who wants the berries. Give them to her and you'll be able to buy some mulch.
-
-Terajuma Jungle Mulch Shop
-
-|Item          |Price|
-|--------------|-----|
-|*Growth Mulch*|$200 |
-|*Stable Mulch*|$200 |
-
-That's all we can do for this massive load of quests, so head back to Crawli's gym.
+Take the boat back to Terajuma, then take a Noctowl to Deep Terajuma Jungle. Surf right at the bottom of the map to find get Poliwag #4 for the *Poliwag Quest*.
 
 ## Infested Badge
 
@@ -688,108 +660,61 @@ You'll notice there is a breeder by the Kakori Help Center. Defeating them grant
 
 !battle(["Sarah",:POKEBREEDER_F,0], "Forest Field")
 
-Enter Crawli's gym in the ranger HQ once you have prepped your team. Talk to Holly at the entrance, then enter one of the caves and talk to her again - and our challenge will begin.
+Enter Crawli's gym in the Ranger HQ. Enter the bottom left room first.
 
--   Push the first log on the left to the left
--  Push the second log on the left up
--   Push the third log up, and you'll battle wild **Pinsir**!
--   Hop the center of this log, then go up and hop over the next center
-    of the next log
--   Talk to Ariados in the bottom corner, then talk to Holly at the top
--   In this new room, hop over the log on the left side then talk to
-    Ariados.
--   Push the log above on the left to fight another Pinsir.
--   Hop over it, then smash the rock smash rocks in the area.
--   Talk to the Ariados on the right side, then push the log on the
-    upper left side up one space
--   On the right side, push the bottom log down. Push the other log to
-    the left, then up as far as it can go.
--   Follow this vertical log to the top, then push it left, then up
--   Push the bottom horizontal log up again, then climb the stairs and
-    hop across
--   Push the log on this platform up
--   Return to the platform, jump to the right side, then jump all the
-    way across the platforms to the left on the logs we have now put in
-    place, then talk to Holly
--   Head up, then hop to the left and talk to this Ariados. Up and to
-    the right you can find:
+**Relationship Point Choices:**
+- That was easy! (+1 Adam)
+- Nice job! (+2 Adam)
+- This is cheating... (-2 Adam)
 
-ZCell 030: Kakori Gym
+Pick up the Rowlet and bring it back to Dartrix. The Water Sigil will be activated for us, so return to the hub room. Enter the bottom right room next. Grab the *Exp. Candy L* and jump across the rock paths.
 
-<img src="/assets/images/rejuv/image30.png"/>
+!battle(["Andy",:POKEMONRANGER_M,0], "Forest Field")
 
--   Head back all the way down, and to the right. Climb the stairs by
-    the teleporter
--   Push the log off the platform down, then use it to cross to the
-    middle platform. Approach the tile that sticks out, and if you've
-    found all the Ariados, an event will play.
--   Jump across and enter.
--   Talk to Holly, then get onto the bridge. Go to the right and surf
-    down to grab *Bug Memory*. Back on the bridge, take the leap of
-    faith!
+!battle(["Lila",:POKEMONRANGER_F,0], "Forest Field")
 
-Down in the bottom floor, you'll find tutor.
+You can catch the **Pinsir** here. Up above, oh no....
 
-Kakori Gym Move Tutor
+!boss("CRESCGOTHITELLE", "Forest Field")
 
-| Move      | Price         |
-|-----------|---------------|
-|Giga Drain |3 Green Shards |
+All it takes is two really good whacks to defeat this thing - its speed isn't unsurmountable, especially paralyzed. Activate the Grass Sigil beyond, then return to the hub.
 
-Talk to Aelita at the top, then head in. Flying around in here are wild **Yanma*,* which you can catch. It can be useful for this fight if you want to go train it up due to its strong AncientPower and Air Slash. Anyways, pass Crawli and head into the cave at the top. Head left and then follow this path down to get:
+Enter the top right door next. 
 
-ZCell 031: Kakori Depths
+!battle(["Tin",:POKEMONRANGER_M,0], "Forest Field")
 
-<img src="/assets/images/rejuv/image31.png"/>
+Take the top teleporter, then the bottom teleporter. You'll find the *Bug Memory* below!
 
-Anyways, if you head outside the gym, there's an Audino breeder by the Pokemon Center. You'll get 5 *Exp. Candy M* each time you win. Once you're ready, return to Crawli's chamber and stand across him!
+!battle(["Sisi",:POKEMONRANGER_F,0], "Forest Field")
 
-Gym Leader Crawli (Forest Field, Raining)
--   Ariados, Level 43. @ Telluric Seed.
-    -   Barbed Web
-    -   Stomping Tantrum
-    -   Poison Jab
-    -   Shadow Sneak
--   Galvantula, Level 44. @ Wise Glasses.
-    -   Bug Buzz
-    -   Sticky Web
-    -   Thunder
-    -   Rain Dance
--   Escavalier, Level 43. @ Assault Vest.
-    -   Slash
-    -   Iron Head
-    -   Drill Run
-    -   Barbed Web
--   Golisopod, Level 43. @ Sitrus Berry.
-    -   First Impression
-    -   Aqua Jet
-    -   Leech Life
-    -   Liquidation
--   Pinsir, Level 44. @ Muscle Band.
-    -   Storm Throw
-    -   Throat Chop
-    -   Barbed Web
-    -   Rock Slide
--   Araquanid, Level 45. @ Mystic Water.
-    -   Liquidation
-    -   Sticky Web
-    -   Barbed Web
-    -   Poison Jab
+Take the bottom teleporter, push the log down, then teleport back. Take the top teleporter next. This brings us back to the entrance of this room. Exit, then reenter via the top left door in the hub. Follow the path using the teleporter and log to activate the Fire Sigil.
 
-Barbed Web: Bug \| Physical \| 75 power \| 100% accuracy \| Hits both foes in a Double Battle \| Increased critical hit ratio. If the target's side of the field already has Sticky Web, sets a layer of Spikes.
+Back in the hub, take the lift down.
 
-Ho boy, this is a tough battle if you're not prepared. Crawli's team plays in doubles and basically has everything stacked for it - a field that boosts almost all his Bug moves and gives Slash a grass typing, rain that nullifies fire types entirely, and a well-structured team built around speed control. Ariados will be +1 attack and immune to damage for its first turn, but you can do the same with a Telluric Seed. After Galvantula dies, he doesn't really have anything that is inherently speedy - so if you can find a way to get rid of or ignore the sticky web, you'll be able to wear him down. Rock Slide is great here -
-everything bar Escavalier will go down to it handily.
+!battle(["Rorim B.",:DISCOTEEN,1], "Swamp Field")
 
-You can also take advantage of the rain! Swift Swim will help you negate the speed loss from the Sticky Web, plus rain boosted water moves. Alternatively you can duke it out on Rainbow Field by changing the weather to sunny.
+Shouldn't be too terrible. Watch out for the boosted Water moves and speed penalties. Pick up *TM106 Irritation* to the left, plus:
 
-Once you've triumphed, claim the Infested Badge for Pokemon up to level 50.
+**ZCell 055: Kakori Depths**
 
-Head outside and talk to Melia and Valarie.
+!img("zcell055.png")
+
+!battle(["Crawli",:LEADER_CRAWLI,0], "Swamp Field")
+
+!move("BARBEDWEB")
+
+This is a pretty tough fight. Basically everything is stacked against you getting any positive momentum in this fight: it's Doubles, the field drags your speed down, Sash Galvantula loves to set Sticky Web, and Barbed Web spreads poison easily. You've got Golisopod's in-n-out strategies to contend with plus the speedy/tanky combo of Accelgor and Escavalier, too. Fire moves are even weakened on this field!
+
+There are things we can take advantage of, particularly on the Swamp Field, to win this fight. You can use powered up Bug and Water moves yourself, for example, to deal heavy damage. Flying and Levitating Pokemon have a huge advantage in not being slowed down each turn. While the team has some tanky members, you may be able to simply overpower them with Rock Slide!
 
 **Relationship Point Choices**:
-- I sure did. (Melia +2)
-- It was a tough battle... (Neutral)
-- I lost. (Melia +4)
+- Really?! (Crawli +1)
+- I will serve well. (Crawli +2)
+- That's a lame prize. (Crawli -3)
 
-That's it for this part!
+You'll get the Infested Badge, bringing our Level Cap up to Lv. 50, as well as *TM81 X-Scissor*!
+
+**Relationship Point Choices**:
+- Boast (Saki +2)
+- Be humble. (Adam +2)
+

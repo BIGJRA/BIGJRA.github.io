@@ -206,29 +206,47 @@ class TrainerGetter
       # Handles display of SOS Mons for full-boss fights
       if mon[:sos]
         oper, shields = boss_data[:sosDetails][:activationRequirement].split(" ").slice(1,2)
+        refresh = boss_data[:sosDetails][:refreshingRequirement]
         cont = boss_data[:sosDetails][:continuous] != nil
         shield_text = case oper
           when "<" then "Less than #{shields} Shield(s)"
-          when "<=" then "Less than #{shields + 1} Shield(s)"
+          when "<=" then "Less than #{shields.to_i + 1} Shield(s)"
           when "==" then "Exactly #{shields} Shield(s)"
         end
         mon_details_parts.push("Appears: #{shield_text} #{cont ? " (Continuous)" : ""}")
+        mon_details_parts.push("Refreshes when boss @ #{refresh.join(", ")} shields") if refresh
       end        
       
       # Handles display of boss mon - including shield info
       if mon[:boss]
-        boss_data[:onBreakEffects] ||= []
+        boss_data[:onBreakEffects] ||= {}
+
+        # Workaround for onEntryEffects note "100 shields"
+        if boss_data[:onEntryEffects] && boss_data[:onEntryEffects].keys != [:message]
+          boss_data[:onBreakEffects][100] = boss_data[:onEntryEffects]
+        end
         # Handles text parts of boss data
         mon_details_parts.push("Shields: #{boss_data[:shieldCount]}")
         mon_details_parts.push("Immunities to #{boss_data[:immunities].join(", ")}") if boss_data[:immunities] != {}
-        boss_data[:onBreakEffects].each do |shield_count, effs|
-          threshold_text = "#{effs[:threshold] != 0 ? " ( at #{effs[:threshold] * 100}% HP)" : ""}"
-          result = "Shield Break #{shield_count}#{threshold_text}: \n"
+        boss_data[:onBreakEffects].keys.sort.reverse.each do |shield_count|
+          effs = boss_data[:onBreakEffects][shield_count]         
+          if shield_count == 100
+            result = "On Entry: \n"  
+          else
+            threshold_text = "#{effs[:threshold] != 0 ? " ( at #{effs[:threshold] * 100}% HP)" : ""}"
+            result = "Shield Break #{shield_count}#{threshold_text}: \n"  
+          end
 
           eff_strs = []
           # TODO: These will all need custom code............
           eff_strs.push(effs[:bossEffect]) if effs[:bossEffect]
-          eff_strs.push(effs[:weatherChange]) if effs[:weatherChange]
+          if effs.key?(:weatherChange)
+            if effs[:weatherChange] == nil
+              eff_strs.push("Weather is nullified")
+            else
+              eff_strs.push("Weather becomes #{@moveHash[effs[:weatherChange]][:name]}")
+            end
+          end
           if effs[:formchange]
             new_form = effs[:formchange]
             new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]
@@ -253,19 +271,23 @@ class TrainerGetter
             eff_strs.push("Field becomes #{FIELDS[effs[:fieldChange]]}") 
           end
           if effs[:abilitychange]
-            eff_strs.push("Ability becomes #{@abilityHash[effs[:abilitychange]][:name]}") 
+            eff_strs.push("Boss's ability becomes #{@abilityHash[effs[:abilitychange]][:name]}") 
           end
           if effs[:typeChange]
-            eff_strs.push("Type becomes #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
+            eff_strs.push("Boss's type becomes #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
           end
           if effs[:movesetUpdate]
-            eff_strs.push("Moveset becomes #{effs[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
+            eff_strs.push("Boss's moveset becomes #{effs[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
           end
           if effs[:statDropRefresh]
             eff_strs.push("Boss's stat changes are reset")
           end
-          eff_strs.push(effs[:speciesChange]) if effs[:speciesChange]
-          eff_strs.push(effs[:statusCure]) if effs[:statusCure]
+          if effs[:speciesChange]
+            eff_strs.push("Boss becomes #{effs[:speciesChange]}")
+          end
+          if effs[:statusCure]
+            eff_strs.push("Boss's status effects cured") 
+          end
           eff_strs.push(effs[:effectClear]) if effs[:effectClear]
           if effs[:bossSideStatusChanges]
             eff_strs.push("Effect added to boss's side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
@@ -306,6 +328,34 @@ class TrainerGetter
           end
           result += "- #{eff_strs.join("\n- ")}"
           shield_break_details.push(result)
+        end
+      end
+
+      if trainer_data[:trainereffect] && trainer_data[:trainereffect][:effectmode] == :Party
+        if trainer_data[:trainereffect][idx]
+          effs = trainer_data[:trainereffect][idx]
+          if effs[:pokemonStatChanges]
+            groups = {}
+            effs[:pokemonStatChanges].each do |stat, lvl|
+              groups[lvl] ||= []
+              groups[lvl].push(stat)
+            end
+            if groups != {}
+              groups.each do |lvl, stats|
+                mon_details_parts.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              end
+            end
+          end
+          if effs[:fieldChange]
+            field = FIELDS[effs[:fieldChange][0].to_sym]
+            mon_details_parts.push("Field changes to #{field}")
+          end
+          if effs[:pokemonEffect]
+            effs[:pokemonEffect].each do |eff, _arr|
+              eff = eff.to_s.gsub(/([a-z])([A-Z])/, '\1 \2')
+              mon_details_parts.push("Effect applied: #{eff}")
+            end
+          end
         end
       end
 

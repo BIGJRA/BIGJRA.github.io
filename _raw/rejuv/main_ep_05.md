@@ -138,13 +138,9 @@ Before proceeding, there are a few sidequests we can take care of. First of all 
 
 Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around and find:
 
-1.  Andrew can be found in Abandoned Sewers underneath Gearen City by
-    crossing the first bridge north, then the first bridge west, then
-    the first bridge down in an alcove at the bottom.
-2.  James can be found by entering Spring of Purification from Sheridan
-    Village. He's on the right.
-3.  Marissa can be found on Wispy Path in the upper right corner of
-    where Espurr played with you.
+1.  Andrew can be found in Abandoned Sewers underneath Gearen City by crossing the first bridge north, then the first bridge west, then the first bridge down in an alcove at the bottom.
+2.  James can be found by entering Spring of Purification from Sheridan Village. He's on the right.
+3.  Marissa can be found on Wispy Path in the upper right corner of where Espurr played with you.
 4.  Matthew can be found on Route 3, the second bridge from the bottom.
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
 6.  Jessibelle can be found to the right of the Akuwa Town aquarium.
