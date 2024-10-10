@@ -173,7 +173,7 @@ The solution:
 
 Bennett will just do it for you if you fail too many times.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Solve Logic Puzzle 5 in five or fewer tries (+1 Bennett)
 
 Once you succeed, head up. Grab the hidden *Exp. Candy XL* and proceed. Enter the New World Door.
@@ -360,7 +360,7 @@ Return to the chief and state that you're done with the investigation when you'r
 
 You can now accuse one of the culprits. Each will battle you once accused. You can also talk to the chief multiple times to accuse them. Afterwards, you'll need to check your bag and "Use" the Blue Orb that you find inside to continue.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Accuse Julia of stealing the orbs (-1 Julia)
 
 However, there is one more option: you can check your bag to find the Blue Orb inside *before* making any accusation: this will cause everyone to fight you in a gauntlet, with Anomaly Hoopa as your partner.
@@ -407,7 +407,7 @@ PULSE 2 Mega Garchomp, Unaware Quagsire, and tanky Palossand are annoying as alw
 
 Back in the train station, talk with the group here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Adrienn you had to bring Terra back (+1 Terra)
 
 You'll also be given **Hoopa**! Walk on back to the nightclub.
@@ -440,7 +440,7 @@ Trick Room is the perfect choice here - turning Heather's Tailwind into a bad th
 
 Our first fight against just Laura is mostly the same old shenanigans with the Flower Garden. Flora's team is benefitted by this field just as much as Laura though, so if you can identify the threats to Flora's team and focus on just them, there's a good chance Flora will do the heavy lifting here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say "You Honor Me" (+1 Elias)
 - Say "Bow Before Me" (-1 Elias)
 
@@ -460,7 +460,7 @@ To win, I will once again recommend Trick Room - Volcarona, Delphox, Pheromosa, 
 
 Talk to Bennett before proceeding if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Bennett he is creepy (-1 Bennett)
 - Tell Bennett he is not creepy (+2 Bennett)
 

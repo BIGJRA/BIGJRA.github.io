@@ -149,8 +149,8 @@ ENCOUNTER_MAPS = {
   ROSERADE: { 1 => 'Budew' },
   BRONZOR: { 1 => 'Bronzor' },
   BRONZONG: { 1 => 'Bronzor' },
-  SHELLOS: { 1 => 'Shellos' },
-  GASTRODON: { 1 => 'Shellos' },
+  SHELLOS: { 2 => 'AevShellos', 3 => 'AevShellos' },
+  GASTRODON: { 2 => 'AevShellos', 3 => 'AevShellos' },
   TOXTRICITY: { 1 => 'Toxtricity' },
   JANGMOO: { 1 => 'Jangmoo' },
   HAKAMOO: { 1 => 'Jangmoo' },
@@ -627,7 +627,8 @@ def is_custom_form(form_key)
   return false if !form_key
   form_frags = ["pulse", "rift", "aevian form", "bot", 
                "purple", "crystal", "mismageon", "meech",
-               "dev", "crescent", "solrock", "lunatone"]
+               "dev", "crescent", "solrock", "lunatone", 
+               "west aevian form", "east aevian form"]
   form_frags.any? { |key| form_key.downcase.include?(key) }
 end
 

@@ -2,7 +2,7 @@
 
 Make your way all the way back out of the Wasteland. You'll find Cain near the exit. Prepare for a fight.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - If Cain ran away from home earlier, say you know what he means (+1 Cain)
 
 !battle(["Cain", :Cain, 3], "Wasteland Field")
@@ -11,7 +11,7 @@ Another fight with Cain, this time on a field that benefits his team to some ext
 
 Return to South Obsidia Ward.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say you believe Cal (+1 Cal)
 - Say you don't believe Cal (-1 Cal)
 
@@ -41,7 +41,7 @@ Go down and right (1). You'll see a strength boulder. Push it from the top so it
 
 Make your way west to the Beryl Cemetery. Victoria is down from here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Victoria in the cemetery (+2 Victoria)
 
 Next, we're gonna return to Byxbysion Wasteland. Make your way to the right, going down the slide as before. After exiting the tall building, head up over the ledge and enter the cave at the top. Push the boulder into the hole and follow it, then go into the now accessible cave. Prepare for a fight and talk to the grave.
@@ -68,10 +68,10 @@ With that out of the way, head into the Underground Railnet and use Strength to 
 
 You'll be partnered with Cain.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk with Cain while you're in Yureyu (+1 Cain)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Try to leave Yureyu while partnered with Cain (-1 Cain)
 
 !partner(["Cain", :Cain, 4])
@@ -92,7 +92,7 @@ Once we reach the floor that Sigmund is on, we'll have a story choice to make.
 
 **In order to access the exclusive postgame route, you need to refuse fighting Sigmund at Yureyu.**
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say Yes to Sigmund asking if you'll fight him (+1 Heather, -1 Sigmund)
 - Say No to Sigmund asking if you'll fight him (+1 Sigmund, -1 Heather, -1 Cain)
 
@@ -128,7 +128,7 @@ If you get stuck, set up the tracks such that the train would follow the orange 
 
 Talk to Noel when you have the correct layout. Re-enter the train. Talk to Shelly if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Shelly she was helpful (+1 Shelly)
 - Tell Shelly she was not helpful (-1 Shelly)
 
@@ -152,12 +152,12 @@ In this area you can find a hidden *Escape Rope*, *Green Shard*, *Guard Spec.*, 
 
 Enter the house at the top.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Enter Belrose Manse before going to Voclain Estate (+1 Noel, +1 Laura)
 
 To the left you can see something glowing in a bookshelf. Interact with it to get the *Family Picture* for a sidequest way down the road. Anyways, talk to everyone in the house then head out.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Shelly in Belrose Manse (+1 Shelly)
 
 ## Chrysolia Forest
@@ -224,12 +224,12 @@ In the downstairs area of the museum at night, you'll see two Meteor grunts. Tal
 
 Outside, attempt to enter the Voclain Estate in the top right corner. Before you talk to Serra, talk to Bennett if you want points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Bennett you knew Cascoon had perfect memories (+1 Bennett)
 
 I hope they remember me killing 15 of them with Fire type moves in Pokemon Legends Arceus.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Bennett a second time (+1 Bennett)
 
 In the upstairs rooms, you can find *Silk Scarf*, the *Mirror Arena Field Readout*, *TM85 Dream Eater*, *Bug Memory*, and *Weakness Policy*. You'll also find Kadabra girl's last bookshelf in Bennett's room.
@@ -286,7 +286,7 @@ Return to Voclain Estate. Enter the room towards the back to reach the gym. In e
 
 For each of the three puzzle rooms (so, a max of +3), you can get the following:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Smash the correct mirror on the first try (+1 Serra)
 - Smash 2-5 incorrect mirrors before finding the answer (-1 Serra)
 - Smash 6-7 incorrect mirrors before finding the answer (-2 Serra)
@@ -305,7 +305,7 @@ Save before you enter the third room.
 
 It's time for our first battle with Bennett. Despite mainly using the crappy early game bugs, he has a highly optimized team for the Mirror Arena. All of the accuracy and evasion items and abilities raise his team's chance to get critical hits. With field boosted moves like Signal Beam, his Pokemon hit hard and fast. Five of six have Quiver Dance, so they'll probably try to set up on you. That said, his Bugs are all pretty frail and have lots of weaknesses - simply loading up on Rock moves will probably solve most of the problem. It's a good opportunity to try out your own Mirror Arena boosts - read the field notes.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Bennett on the first try (+1 Elias, -1 Bennett)
 - Beat Bennett on the second, etc. try (+1 Bennett, -1 Elias)
 
@@ -321,7 +321,7 @@ All of these things are nice, but it turns out there's something *even better* t
 
 It's worth noting that there are a list of moves in the Field Notes that can destroy the Mirror Arena entirely. This can be another viable strategy to force Serra onto a more even playing field. However:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Break the Mirror Field in the gym fight (-1 Serra)
 
 Once you win, you'll get the *Rime Badge* which boosts our cap to Lv. 55. You'll also get *TM70 Aurora Veil*.

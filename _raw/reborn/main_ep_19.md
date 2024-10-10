@@ -16,31 +16,31 @@ Now that we've defeated Hardy, there is one final move tutor in Peridot Ward's M
 
 Fly over to Calcenon City. Talk to Hardy on the west side of the city.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Hardy you're ready to fight Meteor (+1 Hardy)
 - Tell Hardy you're not ready to fight Meteor (-1 Hardy)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Hardy that you'll trust Bennett (+2 Bennett, +2 Laura, +1 Eve, -2 Saphira)
 - Tell Hardy that you won't trust Bennett (+2 Saphira, -2 Bennett, -1 Laura)
 
 After the conversation concludes, you'll regain control. There are more optional conversations we can have for points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Charlotte in the story apartment, answering "Yes" (+1 Saphira, -1 Laura)
 - Talk to Charlotte in the story apartment, answering "No" (+1 Laura, -1 Saphira)
 - Talk to Charlotte in the story apartment, pressing 'B' to not answer (+1 Charlotte)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Julia in Calcenon (+1 Julia)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - On Reshiram route only, talk to Amaria in Calcenon (-1 Julia)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to *Cal* in *Cal*cenon City (+1 Cal)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Noel in Calcenon, answering "decide" (+1 Noel)
 - Talk to Noel in Calcenon, answering "feel" (-1 Noel)
 
@@ -58,7 +58,7 @@ Grab the hidden *Purple Shard* and continue.
 
 Defeat the next Meteor Ace and head up to watch the scene. Before we continue, head back up to the Pokemon Center. Up and to the right is a path to a hidden *Max Repel* and a now-opened building. Talking to Noel inside will get you the *PULSE Readout 10*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Get the PULSE 10 Notes before defeating this PULSE (+1 Eve)
 
 In the bottom left side of the city, a newly-opened path will lead to a building. Inside is a double battle with Victoria as a partner.
@@ -69,7 +69,7 @@ In the bottom left side of the city, a newly-opened path will lead to a building
 
 Head up and see who's in the back of this building.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Reshiram Route Only: Tell Solaris you wish him dead (+1 Victoria, -1 Cal)
 - Reshiram Route Only: Tell Solaris you don't wish him dead (+1 Cal, -1 Victoria)
 
@@ -79,7 +79,7 @@ Head outside and go left. Grab the hidden *Full Heal*, and *Max Potion*. Fight t
 
 Grab the hidden *Blue Shard* and *Burn Heal* then go up. Enter the nearby open building, and Sigmund will run off. Open the green case in the back to get a *PP Up*. Back outside, go up.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - On Reshiram Route only, tell Amaria you still trust her (+1 Amaria)
 - On Reshiram Route only, tell Amaria you don't trust her (-1 Amaria)
 
@@ -110,12 +110,12 @@ Once you defeat Zero, make your way back through the previous building. You'll n
 
 Back outside, talk to Taka and Solaris down from here if you are on Zekrom Route if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - On Zekrom Route only, talk to Taka and Solaris after PULSE Clawitzer (+2 Taka)
 
 Anyways, head to the center of the city next. After this scene, head to the bottom-left side of the city. A path to a building at the bottom will now be open. Grab the hidden *Dire Hit* and head in. Talk to Eve in here to get some information about the next PULSE battle we'll be doing if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Eve about the upcoming PULSE battle (+1 Eve)
 
 ## Scarborough Quest
@@ -184,10 +184,10 @@ After a scene explaining what we're in for, well, I just hope you're ready. Note
 - Tell Victoria you think the tournament is wrong (+1 Victoria)
 - Tell Victoria you think the tournament is not wrong (-1 Victoria)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Titania again, after she tells you to leave her alone (-1 Titania)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Noel in the lobby (+1 Noel)
 
 Enter your open door, prepare your team, then head in for our first fight. Your partner will be Cal on Reshiram Route or Florinia in Zekrom Route.
@@ -202,7 +202,7 @@ This is likely your first fight on the Inverse Field - a very straightforward fi
 
 Once you succeed, follow the path to the next area.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - On Reshiram Route only, talk to Cal, when the player is male (+1 Cal)
 
 Prepare and head in to the next fight. The following two fights are fought in a different order depending on your route. Anyways:
@@ -225,7 +225,7 @@ Once you've finished both fights, make your way further into the tournament, whe
 
 Enter Saphira's gym to the left, and talk to her in the corner. Next, familiarize yourself with the gym layout, and get the hidden *Quick Ball*, *Heart Scale*, and *PP Max* within. Proceed to the top of the area and talk to the chest.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 
 This conversation has tons of branches, so I made a flowchart. Note that all points here are for or against Saphira.
 
@@ -241,10 +241,10 @@ Next, you'll have to defend the chest against a barrage of Pokemon and Knight tr
 
 !battle(["Kalezis", :KNIGHT, 0], "Dragon's Den")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Lose the chest challenge the first time (-1 Saphira)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Exit the gym during the chest challenge (-1 Saphira)
 
 Once you make it past the challengers in the gauntlet, you'll have one more:
@@ -648,7 +648,7 @@ The solution:
 
 !img("vr_puzzle_4.jpg")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Solve Logic Puzzle 4 in five or fewer tries (+1 Radomus)
 - Attempt the logic puzzle incorrectly six times, causing Radomus to solve it (-1 Radomus)
 
@@ -772,7 +772,7 @@ Head right, picking up the hidden *Blue Shard*. This next ice sheet is massive, 
 
 Head into the next room when you're ready.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Blake you will get in his way (-1 Blake)
 - Tell Blake you won't get in his way (+1 Blake)
 
@@ -913,7 +913,7 @@ Or, you can try to fight the Flower Field directly. Cut gets a 1.5x boost and de
 
 Perhaps you could just change the field altogether: Sun will turn the field into the Rainbow Field for a little while, so you can try to devise a strategy involving that field if you want. What's better though is Burning Field. The Rain will stop you from turning the field to Burning Field, as would Sand. It's a bit tricky to set up, but Hail (we have the TM) followed up by a burning move like Lava Plume or Inferno Overdrive (we have the Z-Crystal) will succeed at this task! You can probably guess how well your opponents team will do on the Burning Field.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Bennett you know what Apolysis is (+1 Bennett)
 
 You'll get the *Sapphire Bracelets* for winning. Proceed to the next room, and ride the tile elevators upward.
@@ -936,11 +936,11 @@ You'll get the *Amethyst Pendant*. Proceed to the Champion room when you're read
 
 You knew this was coming:
 
-**If you didn't give Blake the Ruby Ring:**
+**If you didn't give Blake the Ruby Ring**:
 
 !battle(["Lin", :LIN, 0])
 
-**If you gave Blake the Ruby Ring:**
+**If you gave Blake the Ruby Ring**:
 
 !battle(["Lin", :LIN, 1])
 
@@ -972,11 +972,11 @@ A summary of the Anna Route requirements till now:
 7. Refuse to fight Taka at the WTC
 8. Allow Taka to join you in the desert
 
-**Lin Route Fight:**
+**Lin Route Fight**:
 
 !battle(["Lin", :LIN, 2], "New World")
 
-**Anna Route Fight:**
+**Anna Route Fight**:
 
 !battle(["Lin", :LIN, 3], "New World")
 
@@ -1006,7 +1006,7 @@ One more fun tech is that the Magical Seed grants an omniboost while causing you
 
 Then there's Arceus. In the easier version, it is holding a Life Orb, so poisoning it then hiding behind Substitutes can be a funny way to watch it knock itself out. Unfortunately the harder version has a Z-Crystal and you don't get the time to set up anything on it, so you're going to have to use whatever scraps of your team remain after the previous fight to do... some cheap crap, pretty much. My first time it was just double Protect on Speed Boost Sharpedo followed by Destiny Bond. This time it was Accelerock for some chip plus a Sturdy Metal Burst. Some people will call strategies like these cheap, but what else can you really do against a Pokemon with 975 BST, full EV's, and IV's, and field boosts too? Do what you must and win both fights if you want to stay on Anna Route, or defeat just the one-team version to proceed to Lin Route.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat the 2-fight Lin Gauntlet and advance to Anna Route (-2 Terra)
 
 Either way, once you complete this fight, you're like, done? You've completed the main game of Pokemon Reborn! Congratulations! I am proud of you! And thanks for reading so far :)

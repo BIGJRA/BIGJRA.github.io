@@ -322,7 +322,7 @@ Another tricky Psychic Terrain team. His Mimikyu in particular is a huge pain th
 
 Go downstairs.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Euphie that you understand (+1 Shade)
 - Tell Euphie that you don't understand (-1 Shade)
 

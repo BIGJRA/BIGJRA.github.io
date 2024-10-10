@@ -44,7 +44,7 @@ Tornadus and Cresselia both have Sashes - the latter will always use Lunar Dance
 
 Once you finally make it through all that, you'll be able to talk to Lin, hanging on the edge, or Arceus.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Arceus before Lin (-3 Terra)
 
 In either case, you can now catch **Arceus**, finally.

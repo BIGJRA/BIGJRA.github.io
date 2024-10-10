@@ -180,7 +180,7 @@ The third puzzle has a secret. See if you can figure it out.
 
 In the next room, you can talk to Charlotte on Lin Route:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - On Lin Route, Tell Charlotte her line was badass (+1 Charlotte)
 
 <div class="spoilerDiv">
@@ -297,7 +297,7 @@ Another pretty tough one. Diamond Storm and Power Gem both turn the field to the
 
 Once you win against both Umbral opponents, talk to Florinia.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Florinia you understand your next objective (+1 Florinia)
 
 Florinia will tell us that we need to catch Rayquaza in order to fix the issues here. We will do so, but later on. That's it for this quest for now, so make your way back to the Nightclub.
@@ -366,14 +366,14 @@ Once you win, three doors will open. Inside each, you can catch **Reshiram**, **
 
 Nothing too crazy for this point in the game, but still a formidable challenge. Boosted Dark and Fairy moves will make it easier.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Umbral Ace while Taka is partnered with you, Reshiram Route only (+1 Ace)
 
 Accept the fast travel request once you're done!
 
 In the Nightclub, you can show Ace the Fennekin (or Braixen, Delphox) that we obtained back in the Water Treatment Center, if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Show Ace the WTC Fennekin (+1 Ace)
 
 Talking to them again, you can get a *Red Card*.

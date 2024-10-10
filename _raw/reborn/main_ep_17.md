@@ -22,12 +22,12 @@ We can only choose to fund one right now, then each of the other two as soon as 
 
 As soon as you fully fund a project, you will be able to access the Grand Hall basement, so head down there. The bottom room on the right contains an *Adamant Mint*, a *Modest Mint*, and 3 *Exp. Candy XL*. Next door you'll find 2 *EV Boosters*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Victoria in the Grand Hall basement (+1 Victoria)
 
 If you enter the room at the very top and talk to the computer, you can get a *Lopunnite* and unleash Vulpix. Do it even if you don't like Mega Lopunny, trust me. There is one more quest we can start in the basement but I will cover it a bit later.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Fund Project #1 (+1 Adrienn)
 
 Anyways, the three options:
@@ -227,7 +227,7 @@ If you didn't fight Taka at the WTC, now will be the time to fight him!
 
 You'll notice that Taka's team is actually decently built for the Desert Field and sand, but again an Ice type can shatter him once Klefki goes down. As before, beware of a Shell Smash Minior sweep.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Taka that you will not keep on winning (+1 Taka)
 
 Once you win, Taka will ask if you will let him join your party while you travel through the desert. There are gameplay reasons to doing this - he will heal your party after every fight and also has tons and tons of dialogue at the various subareas of the desert. You will have to be careful that he doesn't knock out wild Pokemon you want to catch, though you can return later once he is no longer with you.
@@ -236,12 +236,12 @@ Once you win, Taka will ask if you will let him join your party while you travel
 
 It's worth noting that refusing him here sends you down a different story path than the Reshiram and Zekrom routes, often called the "Hell Route" by the community. (I've never played this route so if you notice inconsistencies with the guide on Hell Route please let me know.)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Don't allow Taka to come with you in the desert (-3 Taka)
 
 If he does join you, you'll lose points for leaving the desert while he's with you.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Leave the desert while Taka is your partner (-2 Taka)
 
 !partner(["Taka", :Taka2, 0])
@@ -433,12 +433,12 @@ Phew! That's everything we can grab in the Greater Tourmaline Desert.
 
 Note that if Taka is with you:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Taka in the Tourmaline Desert while he's with you (+1 Taka)
 
 It's also worth noting that Taka has 36 different dialogues, some changing depending on your current location. If you talk to him in any location and he asks if you hate his father, you'll potentially get another point.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Taka you don't hate Solaris (+1 Taka)
 
 ### Northwest Tourmaline Desert
@@ -497,7 +497,7 @@ Welcome to the Mirage Tower, one of my favorite side areas in the game. We can e
 
 To reach the basement, you'll need to smash every mirror along the top wall with Rock Smash. Doing this will hurt your party members, so healing them if you don't have Taka may be smart. Speaking of Taka:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Taka in the Mirage Tower while he's with you (+1 Taka)
 
 Anyways, head through the opened door to the basement.
@@ -587,7 +587,7 @@ Next, I'll take us to the Sugiline Cave. Head over to the east side of the great
 
 As in the other areas:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Taka while he's with you in the Sugiline Cave (+1 Taka)
 
 !enc(651)
@@ -648,7 +648,7 @@ Next, we're going to take a trip to the Teknite Cave in the northwest corner of 
 
 As in the other areas:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Taka while he's with you in the Teknite Cave/Ridge (+1 Taka)
 
 !enc(638, nil, nil, "Teknite Cave 1F, 2F, 3F, 4F")
@@ -687,7 +687,7 @@ If you have Taka with you and want him to stay with you for more points, convers
 
 As in the other areas:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Taka while he's with you in the 1R253 Scrapyard (+1 Taka)
 
 Time to proceed to the next story area! You've probably seen a large area surrounded by tons of traincars in the central northern desert - this is our destination. Actually, to start, make your way to the Northwestern Tourmaline Desert to start.
@@ -720,7 +720,7 @@ Around this area, you can pick up a *Max Repel* as well as hidden *Common Candy*
 
 If Taka is with you, he will take a rest and lie down in a train car on the bottom right side of the area. Talk to Europa before you follow him if you like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Europa Taka is your boyfriend (+1 Taka)
 
 You can talk to the residents of the Train Town and learn about them. In the bottom left train, if you've been to Mirage Tower, you'll see a warp that will bring you there. Handy.
@@ -775,7 +775,7 @@ You'll wake up in a tower. Read the placards at each floor as you go up or down 
 
 On the exterior of the tower, climb the vines. On the left at the top you'll see the *Dragon's Den Field Readout*. As you head right, Titania will talk to you.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Titania you trust her, while you have >= 0 points with her (+1 Titania)
 - Tell Titania you trust her, while you have < 0 points with her (-1 Titania)
 - Tell Titania you don't trust her, while you have >= 0 points with her (-1 Titania)
@@ -817,7 +817,7 @@ Jump down the pit at the top and go left to return to Train Town.
 
 Pokemon Reborn Episode 17 actually came out and allowed players to get two badges, so there is still a bit of content left in the chapter. First is some optional content.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy in Calcenon City after defeating Titania (+1 Hardy)
 
 If you haven't yet gotten the Mega-Z Ring, the quest will now be opened back up if you'd like to complete it now. Head over to the Nightclub and talk to Arclight to get started, then checkout the respective [section of the walkthrough](#mega-z-ring-quest) for steps. 
@@ -830,7 +830,7 @@ Now that we've defeated Titania, there is one more move tutor in Peridot Ward's 
 
 Head over to the Grand Hall. Now that we've beaten Titania, we can fund another restoration project.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Fund Project #2 (+1 Adrienn)
 
 If you'd like to complete another one, the choices and corresponding references are here:
@@ -861,7 +861,7 @@ Go left at the first fork to reach the *Slowbronite*! Back at the fork head stra
 
 You'll find Amaria #3 in the pocket towards the center of the room.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Find Amaria #3 and say no (-4 Amaria)
 - Find Amaria #3 and say yes (-3 Amaria)
 
@@ -871,7 +871,7 @@ Take the teleporter to the gym arena and talk to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles - but she'll actually challenge you in the format opposite of what you request!
 
-**The Singles Team:**
+**The Singles Team**:
 
 !battle(["Amaria", :AMARIA2, 0], "Water Surface")
 
@@ -879,7 +879,7 @@ Surprise, the Water gym leader has a team built for the Water Surface and Underw
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields. Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-**The Doubles Team:**
+**The Doubles Team**:
 
 !battle(["Amaria", :AMARIA2, 1], "Water Surface")
 
@@ -911,7 +911,7 @@ Take the teleporter to the gym arena and talk to Titania, then to Amaria.
 
 Amaria will ask you if you want to battle in Singles or Doubles.
 
-**The Singles Team:**
+**The Singles Team**:
 
 !battle(["Amaria", :AMARIA1, 0], "Water Surface")
 
@@ -919,7 +919,7 @@ Surprise, the Water gym leader has a team built for the Water Surface and Underw
 
 You can consider trying to change up the field - Murkwater Surface can wear down her Pokemon with chip damage... although she can change it back with half of her team's Whirlpool. Icy Surface can allow you to actually use hazards and ignore all the speed shenanigans... although she can change it back with Swampert's Earthquake or two uses of Kingdra's Scald. You can also create a team specifically for one of the fields - Raichu-Alola for example does great on the Water Surface, and Dhelmise can be really powerful Underwater. Any Pokemon with Water Absorb, Dry Skin, or Storm Drain such as Heliolisk and Cradily can also neutralize many of the attacks she will try to use and let you wear out her Pokemon, potentially to Toxic stall or take away her PP with the non-Water type moves. Especially Underwater, your own Water types with Swift Swim can be very useful here as well - if you can get past her Kingdra, your own Ludicolo can be particularly good here. There are lots of strategies that you can use here once you get around how solid her team is in the the Water / Underwater fields.
 
-**The Doubles Team:**
+**The Doubles Team**:
 
 !battle(["Amaria", :AMARIA1, 1], "Water Surface")
 

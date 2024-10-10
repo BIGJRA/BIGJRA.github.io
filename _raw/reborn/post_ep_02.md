@@ -16,7 +16,7 @@ As of Gen VII, 9.6% of all Pokemon were legendaries... too many, perhaps, GF? An
 
 Return to the Nightclub. If you want, get Articuno out of the PC and talk to Lumi a few times.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Show Lumi your Articuno (+1 Lumi)
 
 ## Fetching the Lake Spirits

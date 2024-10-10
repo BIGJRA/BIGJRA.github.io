@@ -80,7 +80,7 @@ As soon as you're off the train, you'll have a conversation with Ame and Julia. 
 
 This conversation does quietly show off a mechanic in Pokemon Reborn: relationship points! Certain dialogue triggers and events will make certain characters like you more or less, interally stored as integer values per character. See [Ame's Devblog post](https://www.rebornevo.com/pr/development/records/about-relationship-points-r83/) for an explanation of them; they won't lock you out of any Pokemon, Items, or the like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Yes (+1 Julia)
 
 (Whenever a dialogue choice is not listed, it has no effect on the points.)
@@ -125,7 +125,7 @@ Note that when one number is listed for EVs and for IVs, it means all six stats 
 
 Thanks to Hustle, Nidoran has a chance to miss. Use your starter's stat lowering move once if you'd like then spam your attacking move and hopefully you can win. Note that winning this one is not required.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Cain in battle (+1 Cain)
 
 Once you are done with that battle, you'll be healed, then thrust into another battle. This is the first of what are generally referred to in this game as "gauntlets". Although not necessarily intended by the game, it is worth noting that if you spam the quicksave key while a character is moving in the mid-gauntlet cutscenes, you can save between gauntlet battles.
@@ -134,7 +134,7 @@ Once you are done with that battle, you'll be healed, then thrust into another b
 
 You'll be Lv. 6 now if you won the last one. Use a similar strategy and hopefully you'll come out on top. Note that again winning this one is not required.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Victoria in battle (+1 Victoria)
 
 After the battle, Ame will give you the *Pokedex*, the *Pokegear*, and the *Running Shoes*! Plus, Victoria will give you 5 *Poke Balls*.
@@ -300,7 +300,7 @@ Once you beat her, talk to her again for a *Rose Incense*! More hidden items:
 
 Up from here, enter the building on the right. Talk to the guy here and give him the Gift Box we found earlier, and you'll obtain a **Delibird**! The building to the right of this one contains an ailing **Kricketot** which you can obtain by talking to the person here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Accept Kricketot (+1 Shelly)
 - Reject Kricketot (-1 Shelly)
 
@@ -482,7 +482,7 @@ With that out of the way, time to progress the story. Make sure you have your be
 
 You have to two choices: you can head straight to the Mosswater Industrial above Seacrest's Garden, or take a detour first to the Lower Peridot Ward gym. In either case, talk to the character standing in front of the factory when you're ready.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Headed straight to Mosswater Industrial (Fern +1)
 - Detoured to Lower Peridot Gym before going to Mosswater (Julia +1)
 
@@ -490,12 +490,12 @@ You have to two choices: you can head straight to the Mosswater Industrial above
 
 Time for our first dungeon proper! Fern will join us as a partner. Leaving your partner and exiting dungeons tend to have negative effects:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Leave Fern and exit the factory (-1 Fern, just once)
 
 However, talking to your partner while they're walking with you tends to have positive effects:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Fern while you are together (+1 Fern, just once)
 
 Partners also fully heal your team after every battle, which can be useful for grinding.
@@ -524,7 +524,7 @@ Head to the top right corner of the room to fight more grunts.
 
 Read the nearby terminal, which shows XXX9. Read the other two terminals nearby for more lore, then head down to the elevator and type in our now completed password (3179).
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Push the same elevator button as the floor you are on (-1 Fern)
 
 On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right and cross the bridge.
@@ -545,7 +545,7 @@ In here is another terminal: 4XXX, plus one more with some lore. You can also ge
 
 Pickup the explosives! Back in the central room, choose which of the two characters to talk to.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Julia after getting the boomies (+1 Julia, -1 Florinia)
 - Talk to Florinia after getting the boomies (-1 Julia, +1 Florinia)
 
@@ -557,7 +557,7 @@ Depending on what Pokemon you have this can be a bit difficult since they like t
 
 Outside the factory, Florinia will ask you a question.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Yes (+1 Florinia)
 
 You will then be given the Field Notes App in your Pokegear, and offered to turn on a graphical feature that shows off field effect boosts in battle. I recommend doing this! You will also be given the *Electric Terrain Readout*. You may have noticed we were battling on the Factory Field inside Mosswater. Most of the important trainers in this game we will be fighting on these custom field effects, so the Field Notes will be very helpful.
@@ -576,7 +576,7 @@ Return to the purple haired guy in Lower Peridot, who will give you 5 *Exp. Cand
 
 Now is a good time to mention the Grand Hall repeatable grinding trainers in the top right corner. Each day of the week, different trainers will be available for grinding. At set points in the game, the trainers will get stronger and their rewards better. For now, each trainer will give you 2 *Exp. Candy S* when you defeat them, useful for bringing your levels up. The game will also heal your party after defeating one to save time! The trainers are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 3])
 
@@ -584,27 +584,27 @@ Now is a good time to mention the Grand Hall repeatable grinding trainers in the
 
 !battle(["Fawkes", :COOLTRAINER_Male, 3])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 3])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 3])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 3])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 3])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 3])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 3])
 

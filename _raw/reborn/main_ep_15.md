@@ -66,7 +66,7 @@ Talk to Titania then hop down. If you go left, you can use a panel to open a sho
 
 Talk to Titania a few times in the center if you want.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Give Titania some candy when she says she is hungry (+1 Titania)
 
 Lower the water level, then head down into the mud at the top. Push each of the trash to the right such that you'll be able to hop across them into the upper right area once the water level rises again. Importantly, keep in mind that when the water level rises, the trash will end up one tile higher than they appear to be on when the water level is lowered. Here, the solution is just to push them each right four tiles. Raise the water level when you're done and hop across. Use a panel to make a shortcut and enter the Onyx Water Grid on the right.
@@ -95,7 +95,7 @@ Exit out of the door at the top right. Enter the next door and go up to get a *H
 
 Enter this new room in the top right corner, and grab a hidden *Cell Battery*. In the top right is an *Electirizer*. Exit and re-enter, and now there will be an Electrode in the corner. Battle it and transform the Short-Circuit Field into Factory Field. Talk to the nearby machine to get **Fennekin**!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Read the note that comes with Fennekin (+1 Ace)
 
 Return to the previous room. Enter the Lapis Water Grid via the door to the left, then head up the left side.
@@ -142,7 +142,7 @@ You'll have a decision to make.
 
 All of the other choices we've made so far actually pale in comparison to the butterfly effect that comes following this choice. For reasons that will become clearer later on, the results of choosing to fight Taka are called the *Zekrom Route* and the results of choosing to not fight Taka are called the *Reshiram Route* by the community. This guide will also use these conventions.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Fight Taka (+2 Taka, +1 Ace, -1 Titania)
 - Don't Fight Taka (+1 Anna, +1 Shade, -1 Ace, -2 Taka)
 
@@ -174,7 +174,7 @@ This first fight is a 12v9 against some grunts. Florinia is pretty helpful here,
 
 This battle in the gauntlet is a bit harder. Florinia has a lot of good matchups damage-wise against Fern and Blake, you just have to make sure she's able to attack them before they take her out. Since Florinia's team is so slow, I really recommend using Trick Room in this fight. If you can ensure Scizor and Weavile get knocked out, you won't have to worry about priority, so you can generally overrun their teams with strong super-effective moves. You might also want to consider screens to keep your side safe from OHKOs.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Florinia joins your team after you did not defeat Solaris on Pyrous (+1 Florinia)
 - Julia joins your team after you did defeat Solaris on Pyrous (+1 Julia, -1 Fern)
 
@@ -198,7 +198,7 @@ Ciel is the first fight for a badge that repeats a field used by another, but th
 
 Similarly to Samson, you can win by just exploiting this field's many effects. Just as I recommended using Acrobatics and Revelation Dance against Samson, it could be really funny to use your own High Strikin' Pokemon with Smack Down and Earthquake, since her team past Gliscor doesn't have a ton of defense. Nothing on her team resists Acrobatics, so you can beat her with her own strategy. Electric type Revelation Dance can rip through all but Gliscor and Altaria pretty easily if you have an Oricorio yourself. You can also just use Trick Room and a couple slower Ice and Rock types to bowl over her team.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Ciel on your first try (+2 Samson)
 - Defeat Ciel on your second, third, etc. try (-1 Samson)
 

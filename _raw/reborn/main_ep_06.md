@@ -16,13 +16,13 @@ Head over to the Lapis Alleyway during a windy night. There, you'll find **Murkr
 
 Head to the factory on the west side of Peridot. We can talk to the characters here for some points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Cain we can trust Ace (+1 Ace, +1 Amaria, -1 Cain)
 - Tell Cain we cannot trust Ace (+1 Cain, -1 Ace)
 
 Talk to Ace and tell them your favorite nature, and they'll give you the respective *Mint*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Get a mint from Ace (+1 Ace)
 
 Talk to Amaria to get on top of the building, and head in.
@@ -33,11 +33,11 @@ Talk to Amaria to get on top of the building, and head in.
 
 Seems like our partner is actually the 16th gym leader. Defeat the grunts with her, grab a hidden *Antidote*, then go down the stairs.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Amaria you trust her (+1 Amaria)
 - Tell Amaria you don't trust her (-1 Amaria)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Ace you think they might be a double double agent (+1 Ace)
 - Tell Ace you don't think they could be a double double agent (-1 Ace)
 
@@ -205,7 +205,7 @@ On the second floor you can find in item balls *Exp. Candy L*, *Water Stone*, an
 
 Now we can continue with the story. Head into the meditation area to the south of the academy and talk to the pink haired lady.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Kiki you are a new student (+1 Cal, +1 Victoria)
 
 Head into the back room of the academy and talk to Kiki again. She will tell us that we have to battle Victoria or we have to battle Cal. We actually can do both of them, so I will cover both fights. If you feel like skipping one of them, you can.
@@ -216,7 +216,7 @@ To fight Victoria, head into the courtyard of the academy.
 
 Victoria has a tougher team than last time. She picked up a Mienfoo and finally evolved her other four team members, so they can actually deal significant damage now. You'll notice from the field notes that Strength and Meditate are boosted on this field, so watch out for those. With good coverage and/or exploiting the field you can win this battle!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Victoria at Apophyll Academy (+1 Victoria)
 
 Cal is on the top of Pyrous Mountain. We aren't required to go up here yet as you only need to fight one of them, but we will need to climb it eventually, so I do it now. Make your way to the mountain via the bottom left corner of Apophyll Beach.
@@ -239,12 +239,12 @@ Make your way back to 3F, then go across the empty pool. On 4F you can find a hi
 
 Cal now has a full team of six and gets the full benefit of the field. It boosts Scald as well as the Fire moves, and can turn into the Burning Field if Magmortar gets to use Lava Plume. Aside from Scald your own Water types will have a tougher time on this field. Luckily, he still makes some suboptimal moves - his Typhlosion hits hardest with Solar Beam and his Charizard is physical, for example. Past Hakamo-o a Rock type or two can pretty much destroy his whole team.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Cal atop Pyrous Mountain (+2 Cal)
 
 Return to Kiki's room once you're done with your chosen battle(s) and talk to them inside.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Victoria you cannot keep a secret (-1 Victoria)
 
 ## VS. The Sensei
@@ -257,6 +257,6 @@ Man this fight kicks my butt on at least half of my replays. Ashen Beach field h
 
 This field can't be changed naturally, but you there are powerful tricks you can use to exploit it. Psychic, Zen Headbutt, and Calm Mind get boosts here, so if you can get around Hitmonlee and Toxicroak's priority/speedy dark moves, a Psychic type can do heavy damage. The Sand and Mud moves also get boosted here as do Muddy Water and Surf, so if you need extra damage, they're great options especially under Rain. Otherwise, it's really all just about countering the priority moves and building momentum. If you're able to bait out Toxicroak's 5 Sucker Punches, you can use those turns to set up a sweeper of your own. Exploit Nature Power too: since it turns into Meditate, it can turn many physical attackers into potential sweepers. 
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Kiki on your first try (+1 Victoria)
 - Defeat Kiki on the second, third, etc. try (-2 Victoria)

@@ -58,7 +58,7 @@ Head back down into the building below the Pokemon Center and exit to the left. 
 
 Head outside at the bottom.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Yes (+1 Heather)
 - No (-1 Heather)
 
@@ -142,7 +142,7 @@ Roughly, you'll want to follow the blue path in the following image:
 
 You'll wake up in a cage and Fern will taunt you here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Reject begging Fern (-1 Fern)
 - Beg Fern once, then reject him (Neutral)
 - Beg Fern twice, then reject him (+1 Fern)
@@ -153,12 +153,12 @@ If you do reject him, eventually you will be let out anyways.
 
 Head up and to the right to free Cain from his cage.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Freed Cain from the cage (+1 Cain)
 
 Head down from here and talk to the lever. Heather will show up and pull the switch to activate these bridges.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Got stuck in a cage (-1 Heather)
 
 Head east from here, and go slightly south once you reach a Meteor Grunt. Continue south until you hit a Gentleman, then go straight east and follow the path up the hill via stairs. The house here is a healing house, should you need it.
@@ -169,7 +169,7 @@ If you managed to carefully sneak around the grunts, read on, otherwise [jump to
 
 Head up the stairs on the right, and you'll find Fern.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talked to Fern atop the hill (+1 Fern)
 
 The building to your right is a healing house, should you need it.
@@ -264,7 +264,7 @@ You can walk on the tops of bookshelves in here, do so to get *TM20 Safeguard* i
 
 Enter the left room of the library if you'd like. Inside you'll meet a man.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Radomus in the library (+1 Radomus)
 
 Back outside, chop the tree to your left and enter the felled building.
@@ -273,7 +273,7 @@ Back outside, chop the tree to your left and enter the felled building.
 
 Re-enter the jungle to the left. Grab a hidden *Exp. Candy S* and *Burn Heal*. You can talk to Amaria here, the second time she'll heal your party even.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Amaria in the jungle (+1 Amaria)
 
 Cut down the wiggly tree nearby, then head back through the path through Beryl by the library, the jungle, and the underroot to return to the healing house in the eastern side of the jungle. It's time to finish up in this area. 
@@ -292,7 +292,7 @@ One thing to consider is that, past Braixen, a Bug type can do pretty well here 
 
 Once you win, you can find a hidden *Super Repel* in the next area. Head down. Here, you'll see a scene involving Corey.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Find all five officers before fighting Ace (+1 Heather, +1 Anna, +1 Shade)
 
 ## Beryl Ward & Beryl Cemetery

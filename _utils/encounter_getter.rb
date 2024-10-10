@@ -150,7 +150,7 @@ class EncounterGetter
           form = @encMapWrapper.get_enc_maps(mon)[map_id]
           form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
 
-          pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
+          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
         end
 
         # Bold if not detected in hash so far

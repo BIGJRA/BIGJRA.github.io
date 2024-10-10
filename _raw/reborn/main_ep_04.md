@@ -10,7 +10,7 @@ First, after the events at the bridge, enter Corey's gym and enter his bedroom a
 
 Next, head to the Beryl Library. Talk to the Gothitelle here, then pick up trash and stray books all around the library by spamming the action button. Once you finish, talk to Gothitelle for a *Soul Candle*. You can also talk to one of the **Gothita** to obtain it.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Clean up the Library (+1 Adrienn)
 
 Head on over to the Beryl Cemetery at night. Talk to one of the pumpkins with a Soul Candle in your bag and you can catch **Pumpkaboo**.
@@ -61,7 +61,7 @@ Next, enter the Spyce restaurant below and to the right. A guy inside will give 
 
 Back in the main part of the ward, talk to the people here and in the nearby buildings if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Fern in North Obsidia Ward (+1 Fern)
 
 ## Lapis Ward
@@ -120,7 +120,7 @@ Anyways, that's all we can do in Lapis for now, so head to the North Obsidia War
 
 Talk to Cain here, and he will distract an officer so you can slip by.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to the guard 4 times while Cain is distracting him (-1 Cain)
 
 You can find a hidden *Rock Gem* on the stairs. Head on down the ladder. You can find a *Green Shard* hidden in this first area. Head down the stairs again.
@@ -168,7 +168,7 @@ Their four rock types have their attacks boosted on the field. They're all prett
 
 You can accept Victoria's fast travel request afterwards. Back in North Obsidia Ward, Victoria will request that you battle her.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say No to Victoria's battle request (-1 Victoria)
 
 !battle(["Victoria", :Victoria, 3])
@@ -185,7 +185,7 @@ After winning, you'll be given *TMX7 Rock Smash*. We can't use it in the field y
 
 Head to the nightclub up and to the right. You'll see a guy outside who you can talk to.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Meet DJ Arclight outside the nightclub (+1 Arclight)
 
 Head back to Lapis Ward and attempt to enter the gym. Time for a battle!
@@ -200,7 +200,7 @@ Head into the gym and go upstairs. Talk to the group here, then head outside and
 
 After you leave, head back to the gym and go upstairs. We have our next main mission: challenging Shelly for a badge. We can talk to Victoria here as well.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Victoria after Shelly tells you to have a battle with her (+1 Cal)
 
 ## Joining a Gang
@@ -277,7 +277,7 @@ Now that we have our fancy bicycle, we can very quickly get all the way to Beryl
 
 After defeating Corey, the trainers in the Grand Hall have gotten stronger once again. Defeating them will now yield 5 *Exp. Candy M*! The updated teams are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 0])
 
@@ -285,27 +285,27 @@ After defeating Corey, the trainers in the Grand Hall have gotten stronger once 
 
 !battle(["Fawkes", :COOLTRAINER_Male, 0])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 0])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 0])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 0])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 0])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 0])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 0])
 
@@ -349,7 +349,7 @@ To win, you'll have to come up with a solid doubles strategy. We have some solid
 
 Another generally solid strategy is just abusing the field with your own Bug types - Joltik, Vespiquen, and all of the early-evolving stage 3 bugs can shine here. You can use Telluric Seeds if you have them as well to essentially buy your Pokemon a safe turn on switch in to generate some momentum or knock out a particular threat. Alternatively, bring your own Swift Swim team to abuse the rain and outspeed her team. Or, perhaps consider the funny Rock Slide button! Tons of options here if you think ahead about what your strategy will be.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Shelly on your first try (+1 Victoria)
 - Defeat Shelly on a second, third, etc. try (-1 Victoria)
 

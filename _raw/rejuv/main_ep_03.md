@@ -2,7 +2,7 @@
 
 Eldest will give us *2 Super Potions*. Accept the fast travel. From Route 2, talk to Aelita at the train station to head into the city. 
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Complete Karrina's gang quest before Ch. 3 (+2 Aelita)
 
 Some of the Gearen shopowners have their usual inventory for sale to the left if you need items. I recommend having an Oran Berry in your bag for later. Anyways, make your way to the sewers. Talk to Amanda for a battle.
@@ -71,7 +71,7 @@ Defeat her to continue the extra maid quest. In the northwest corner is an *Elix
 
 Now follow the right path through the mansion. In the dining room, talk to Marianette, you may randomly get a chance to give her an Oran Berry.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Give Marianette an Oran Berry in the dining room (+7 Marianette)
 
 Exit to the right. If you hug the left wall and go through a secret passage, you'll see another inscription. This one says Password #2 is 3135. Head up and beat the second optional maid, Yara, hiding in the left corner.

@@ -4,19 +4,19 @@ Exit the gym! Time to progress the story just a little bit in order to knock out
 
 Head over to Calcenon City, then enter "that one apartment building where a bunch of plot happens, for some reason". You know the one.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Agree with Hardy about charging the base (+1 Hardy, -1 Florinia)
 - Disagree with Hardy about charging the base (-1 Hardy, +1 Florinia)
 
 Head out towards Route 4. In the gatehouse, talk to Charlotte if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Charlotte you believe her while you have >= 0 points with her (+1 Charlotte)
 - Tell Charlotte you believe her while you have < 0 points with her (-1 Charlotte)
 - Tell Charlotte you don't believe her while you have >= 0 points with her (-1 Charlotte)
 - Tell Charlotte you don't believe her while you have < 0 points with her (+1 Charlotte)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Charlotte you are going to do something about it (+1 Charlotte)
 
 Head out to Route 4. On the east end of the right, you'll see Hardy standing next to a Rock Climbing wall, and as you might guess, he gives us *TMX9 Rock Climb*. Up the nearby hill would be where we'd go to continue the story, but we do have a few sidequests to take care of in the meantime!
@@ -25,7 +25,7 @@ Head out to Route 4. On the east end of the right, you'll see Hardy standing nex
 
 With 16 badges in hand, we can finally complete the third and last of the Grand Hall restoration projects.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Fund Project #3 (+1 Adrienn)
 
 Once you've funded all three projects, the guy at the desk will give you the *Absolite*.
@@ -261,7 +261,7 @@ Climb the rocks in the upper left corner to reach a new section of the first Upp
 
 That's it for Route 4 exploration and goodies, so talk to Hardy in the big open area on the left side of the area.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Take on Hardy's bet (+1 Hardy)
 
 Enter the building, and look around with Hardy. Once he leaves, follow him outside and talk to him again. Move the metal plate. If you took on the bet you'll get $2000.
@@ -272,7 +272,7 @@ Up and to the right, you'll see a now-accessible ladder, and Absol. Don't we lov
 
 Talk to Hardy, then follow him into the elevator. Talk to Bennett.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say "To be stronger than anyone" (-1 Bennett)
 - Say "To win Luna" (Neutral)
 - Say "To make things different" (+2 Bennett)
@@ -288,7 +288,7 @@ Talk to Glaceon again to see another of its abilities: creating a path over lava
 
 Defeat the Team Meteor Grunt, and talk to the monitor in the corner to open the door. Glaceon will start to follow you. You can talk to it to heal status conditions on your team members for free. You can also choose whether to pet Glaceon or not, for the quest but also for points and a different battle later on. Pretty intense choice, I know.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Pet Glaceon (+2 Lumi)
 - Don't pet Glaceon (-3 Lumi)
 
@@ -316,7 +316,7 @@ Grab the *Cage Key*. Head all the way back, join back up with Glaceon, and free 
 
 Espeon can use Future Sight, which shows a blurry image of our next objectives. Helpful if you get stuck... or you can just read on. Anyways, you can also choose to pet Espeon for the quest, and for points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Pet Espeon (+1 Eve)
 - Don't pet Espeon (-1 Eve)
 
@@ -356,12 +356,12 @@ It's been a while since we've seen Aster on this route. This time he encorporate
 
 If you refused to give Blake the Ruby Ring, grab the *Meteor Card* at the top. You can also get 3 *Exp. Candy XL*. Open the pods in this room.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Use Heal Bell on Noel (+1 Noel)
 
 Take the elevator back to the bottom floor. Before we continue, take Glaceon into the elevator where Hardy is sleeping.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Use Heal Bell on Hardy twice (+1 Hardy)
 
 Next, switch back to Espeon. Return to the room on the upper floor with the glass. Move the glass out of the way. Note that despite every pallet in the dungeon so far appearing to only move "along the grain", you'll need to push the bottom right one down to finish this puzzle. It's a bit odd but mess around with this puzzle a few times and you'll figure it out. Anyways, you'll get a *Reborn Ball*! This is Reborn's Master Ball.
@@ -416,7 +416,7 @@ When you reach a table full of starters, talk to the position corresponding to t
 
 Later on, you'll pass Aya's segment. You can optionally talk to Cain for a third time.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Cain in The Void after Aya's section (+1 Cain)
 
 After seeing Luna and Taka on the left side, a voice will talk to you. Prepare your team before going up, as there's a fight coming up!
@@ -431,23 +431,23 @@ Keep following the path, and you'll eventually exit the Void. After another mass
 
 Back in Calcenon City, talk to Shelly towards the right side of the map. Enter the "story building" in Calcenon for some points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Shelly while she is talking to Titania/Serra (+1 Shelly)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Reshiram Route only: Talk to Titania while she is talking to Shelly (+1 Titania)
 - Zekrom Route only: Talk to Serra while she is talking to Shelly (+1 Serra)
 
 Talk to Eve near the Pokemon Center.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Eve and learn about all the PULSEs remaining (+1 Eve)
 
 Enter the "story building" once more. The squad will leave for Agate City, so fly over to Vanhanen Labyrinth and enter Agate City from the south once more.
 
 A note:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Reshiram Route only: Talk to Titania while doing the Agate raid (-1 Titania)
 
 Defeat the grunts as you progress upwards. 

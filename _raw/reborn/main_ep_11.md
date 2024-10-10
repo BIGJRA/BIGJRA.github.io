@@ -80,7 +80,7 @@ If you've kept up so far with the game-spanning quest, beginning with our purcha
 
 Anyways, exit this area. Once you buy all of the Pokemon, DJ Arclight will give you a *Lucky Egg*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Buy all of the seventh street stolen Pokemon (+1 Arclight)
 
 The house above is the Pokemon Psychologist. For just two Heart Scales (which we can find in rocks everywhere) we can change the nature of a Pokemon to whatever we want, meaning we don't need to rely on finding mints anymore. Keep the mints you find though as they can help you switch abilities on the go if you need a speed boosting nature for a specific fight or something similar.
@@ -168,13 +168,13 @@ Enter the codes in each statue, prepare for a battle, then go up towards the mid
 
 Another battle with Meteor's Ace themselves, and the first boss fight on the Holy Field. Read up on the Field Notes and you can do it!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Ace Loyalty (+1 Ace, -1 Elias)
 - Tell Ace Blood (+1 Elias, -1 Ace)
 
 Back outside in the Beryl Wall, another conversation will occur.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Luna you are afraid of the dark (-1 Luna)
 - Tell Luna you aren't afraid of the dark after siding with El (Neutral)
 - Tell Luna you aren't afraid of the dark after siding with Radomus (+1 Luna)
@@ -241,7 +241,7 @@ Once again return to the entrance of the valley. Talk to the glowing blue crysta
 
 On the other side of the water, go up first, then follow the path, using your keys. You'll find a hidden *Purple Shard* and *Blue Shard* along the way. Activate the green crystal at the end, then return to the ice bridge and go down. Along this path, grab the hidden *Green Shard* and *Magical Seed*. Once you enter your newly created cave entrance, Bennett will confront you.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Bennett you will let him do what he has to (+1 Bennett)
 - Tell Bennett you will not let him do what he has to (-1 Bennett)
 
@@ -259,7 +259,7 @@ To progress, return to the entrance, un-mutate the cave we just mutated via the 
 
 Poor guy couldn't even level his Larvesta up once more to have Volcarona. Regardless, he benefits from the field he's on, this time in the form of boosted Signal Beams. Again his bugs are fairly frail and have lots of exploitable weaknesses, so you can use Rock and Fire moves to defeat him.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Bennett on your first try (+1 Luna, -2 Bennett)
 
 ## Blast Powder and Crystal Key Goodies

@@ -433,7 +433,7 @@ Once you beach, you'll have to battle two rangers, with the above Melia as a par
 
 !dbattle(["Alex",:POKEMONRANGER_F1,0], ["Sam",:POKEMONRANGER_M1,0])
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Win this double battle (+3 Melia)
 - Lose this double battle (-3 Melia)
 
@@ -443,7 +443,7 @@ Head back on the ship through the loading bay. Head up the two ladders to reach 
 
 Back outside in the Shipyard, go up into the jungle.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Everything okay? (+1 Melia, +1 Aelita)
 - Huh? (Neutral)
 - Where do we go? (Neutral)
@@ -566,7 +566,7 @@ Return to the previous map and go up.
 
 For finishing *Building Bridges* we can cross the bridge above and attempt to enter the temple to begin *Tantalizing Temple*!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Why are you interested? (+2 Talon)
 - What's in it for you? (+1 Talon)
 - No thanks. (+2 Flora, -1 Talon)
@@ -581,17 +581,17 @@ A boater in Kakori will take us back to Floria Island for $3000. This isn't stri
 
 Take the boat from Oceana Pier back to Kakori for $1500. Back in Kakori Village, tell Melia you want to start in the house near the Noctowl Statue. Enter the Ranger HQ and talk to Melia and Crawli in the Dartrix Izakaya. Assuming you beat Rift Gyarados for Agent C, back in Goldenwood Forest:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Don't know him. (Neutral)
 - Agent C...? (+2 Crawli)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Cheers! (+3 Melia, +3 Crawli)
 - I'm not doing that. (-3 Melia, -3 Crawli)
 
 Once the meal is over, return to the squad house. Note that once you wake up, it will be daytime, so you can get the daytime encounters all around the island now.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - "Are you really okay?" then "I do". (+1 Nim)
 - "Are you really okay?" then "Not really." (Neutral)
 - You seem worse. (Neutral)

@@ -6,11 +6,11 @@ With 10 badges in hand, there is another default shop update.
 
 Return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 Surf*! Finally.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Titania you were reading the journal (Neutral)
 - Tell Titania you weren't reading the journal (-1 Titania)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Amaria that Titania is wrong (+2 Amaria, -2 Titania)
 - Tell Amaria that Titania is right (-2 Amaria, +2 Titania)
 
@@ -18,7 +18,7 @@ Return to the Celestinine Cascade and talk to Titania inside. You'll get *TMX3 S
 
 We can't follow them down the waterfall yet, but we can now explore with Surf! One quick note:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Read Titania's diary once she is down the cascade (-1 Titania)
 
 I'll start by exploring the rest of the area we are currently in, the Celestinine Cascade.
@@ -71,7 +71,7 @@ Follow the body of water up from here to enter Ametrine Mountain 2F.
 
 You'll eventually notice on the right the area connected to Route 2. Now we know how all three of these mountains are connected to each other and the greater Route 2 area! We're actually going to take a quick detour back to the circus while we're so close to it.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Blake at the bottom of the circus (+1 Blake)
 
 There's also a Pokemon and a few items we can get right now using Surf, albeit in a bit of an odd way. You can get them later with Rock Climb super easily, but I'll cover it now. Head back to Route 2, and grab some rage powder. Enter Ametrine Mountain 2F, then make your way all the way backwards and exit out of Celestinine Mountain into the cascade. Go to the right and use the powder on the first Crustle you see.
@@ -88,13 +88,13 @@ Anyways, return to Ametrine 2F, surf to the left, and cross the simple ice puzzl
 
 Grab the hidden *Potion*. Head right from here. And... so much for entering Calcenon City. Make your way right, picking up hidden *Ultra Potion* and *Green Shard* along the way. Aya will join us as a partner!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Return to Ametrine while Aya is your partner (-1 Aya, -1 Hardy)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Wipe out at any point with Aya as your partner (-1 Aya, -1 Hardy)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Aya while you are partnered (+1 Aya for each of 4 dialogues, +4 total)
 
 !partner(["Aya", :AYA, 1])
@@ -131,7 +131,7 @@ In here, you can get a hidden *Blast Powder*, *Ultra Potion*, and *Blue Shard*. 
 
 Time for another round with Aster and Eclipse! This time you'll have Aya as your partner, and thankfully her team actually puts in a decent amount of work in this fight, with lots of Water and Grass moves to deal with their numerous Water, Rock, and Ground type Pokemon. Aster and Eclipse like to set up screens against you with their leads, so you could consider bringing Brick Break or Psychic Fangs if these are annoying. Generally I find that Lunatone doesn't hit very hard, so if you are struggling with this one, you can continuously target the right side and get the battle to a 2-on-1 to make it simple.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Aya gets kidnapped (-2 Aya. This is not a choice, actually.)
 
 After the fight, go to the left and grab *TM43 Flame Charge* in the storage room. Return to the previous room and head out from the door on the right side. In this next cave, you can get a hidden *Great Ball* and *Aspear Berry*. Head outside, pick up a hidden *Purple Shard*, *Magical Seed*, and *Blast Powder* then proceed to Route 4.
@@ -174,19 +174,19 @@ Enter the gym at the top of the city.
 
 Talk to Hardy in the left side of the city for some points if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy and Fern on the left side of the city (+1 Fern)
 
 Talk to Saphira here twice.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Charlotte you would throw her to the dogs for the ring, while Saphira Points > 0 (+2 Charlotte, -1 Hardy, +1 Saphira)
 - Tell Charlotte you would throw her to the dogs for the ring, while Saphira Points <= 0 (+2 Charlotte, -1 Hardy, -1 Saphira)
 - Tell Charlotte you would not throw her to the dogs (-2 Charlotte, +1 Hardy)
 
 Anyways, walk over to the Route 4 exit and talk to Charlotte inside. She'll tell us it's time for a gym battle, so head back into Calcenon.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Saphira and Sigmund on the west side of the city (-1 Sigmund)
 
 ## Cinder Badge
@@ -222,7 +222,7 @@ Enter Charlotte's gym when you are ready. The puzzle here is basically the same 
 
 Head up to where Charlotte is.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Open the secret room in Charlotte's gym while she is present (+1 Charlotte)
 
 Technically you shouldn't know how to open the secret room by this point... So if you want to respect the fact accessing this room and getting this point is more of an easter egg for players on their second run, you can skip to the fight.

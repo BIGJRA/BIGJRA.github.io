@@ -2,12 +2,12 @@
 
 After your gym fight, enter the building in the bottom left side of Calcenon. You'll get *TMX6 Dive* inside! We could have gone in here earlier, but:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Charlotte before getting Dive (+1 Noel, +1 Shelly)
 
 You can also talk to Hardy in here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy in the Calcenon house about Charlotte (+1 Hardy)
 
 With that, we now have all we need to Dive! There are a few quick things we can do, however!
@@ -82,7 +82,7 @@ From here, head up to the now-open apartment at the center of town. Go to the to
 
 **In order to access the exclusive postgame route, you need to refuse Blake all three times.**
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Give Blake the ring right away (+2 Blake, -2 Cal)
 - Refuse Blake once, then give him the ring (+2 Blake, -2 Cal, -1 Shelly)
 - Refuse Blake twice, then give him the ring (+2 Blake, -2 Cal, -1 Shelly, -1 Heather)
@@ -92,7 +92,7 @@ If you gave Blake the ring, you'll get *TMX5 Waterfall.* If you didn't, you'll n
 
 Now we have to search Blake's room for clues to make a way out.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Check under Blake's bed (-1 Blake)
 
 Under the left couch you'll find *3 Coins*, while the chair towards the bottom contains *1 Coin* and the bottom right sofa contains *2 Coins*. In the trash can at the top you'll find the head of a key. The game console contains a Program Disc. The drawer at the bottom contains a key handle, so you can open the cabinet at the top to get a power cable. Use the cable and the disc on the computer to open a prompt for a password. To get the password, search all the books and flowers around the room and talk to Shelly a few times! Input the code once you have it:
@@ -108,7 +108,7 @@ Enter the secret passage and follow the path! On 6F you can find a hidden *Iron*
 
 Head outside and pick up the hidden *Flying Gem*. Talk to Shelly here. Once you have freed Heather, head into the shack and talk to the machine to get the *Flying Memory*!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Free Heather after refusing to give Blake the ring (+1 Heather)
 
 Make your way back to the main part of Ametrine City and go all the way left. You'll have to defeat a few Meteor Grunts, with either Shelly or Cal as a partner depending on your choices.
@@ -121,7 +121,7 @@ Make your way back to the main part of Ametrine City and go all the way left. Yo
 
 Grab a hidden *Red Shard*, *Dire Hit*, and *Repel* as you climb. You'll see a narrow passage along the top that leads up and left, which you can follow to get a *Full Restore*. Head right.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - After saving the police and exposing Corey and giving Blake the ring, watch Cal and Heather's conversation (+1 Heather)
 
 !dbattle(["Devin", :MeteorAceM, 0], ["Sanchez", :MeteorAceM, 0], "Snowy Mountain")
@@ -130,7 +130,7 @@ Beat the grunts and continue. Pick up the hidden *Red-Hots* and *Swift Wing* the
 
 !dbattle(["Geoff", :MeteorAceM, 0], ["Audrey", :MeteorAceF, 0], "Snowy Mountain")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Shelly after she gets tired, after giving Blake the ring (+1 Shelly)
 
 Continue up the mountain.
@@ -173,22 +173,22 @@ There are lots of Snowy Mountain Field interactions you can exploit if you want.
 
 Once you win, Blake will fail!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - If Saphira was abducted earlier, Cal tells you about Terra and Lin in depth (+1 Terra)
 
 Cal will offer you a ride back to the main part of Ametrine.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Refuse Cal's offer down the mountain (-1 Cal)
 
 Before we leave Ametrine City, enter the small house just south of Blake's apartment and give the girl inside a Floral Charm in exchange for the *Banettite*! Next, head on over to the Pokemart. Inside, a person will give you a *Magmarizer*.
 
 Before we proceed with the story, we can head over to Calcenon via the Route 3 shortcut to get the following points:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Cain in Calcenon after fighting Blake (+1 Cain)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy in Calcenon after fighting Blake (+1 Hardy)
 
 You can also head into Charlotte's gym - if you decided to 'cheat' and open the secret door earlier, you can now follow the path to get the *Charizardite X*.
@@ -241,7 +241,7 @@ Make your way through Kanto Route 23 as normal until Terra destroys the guy! Go 
 
 In Mt. Moon, pick up 2 *Potions*, an *Escape Rope* and a *Rare Candy*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to the sign in the middle that welcomes you to Mt.b00ty! (+1 Terra)
 
 Exit out the bottom.
@@ -250,10 +250,10 @@ Exit out the bottom.
 
 !battle(["7g", :GLITCH2, 0], "Glitch Field")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Timmy (+1 Terra)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to an NPC who tells you about oddishweed (+1 Terra)
 
 Enter the ladder in the glitchy mess on the left to reach Rocket Hideout.
@@ -262,22 +262,22 @@ Enter the ladder in the glitchy mess on the left to reach Rocket Hideout.
 
 Grab the *Super Potion* and make your way through the tile maze - it's the same as in Gen 1 Pokemon.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Red in the bottom left corner (+1 Terra)
 
 When you get to the other side, use the elevator and not the stairs. In Lavender Town:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to an NPC who talks about M3GAT3RR4 (+1 Terra)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to the grave at the bottom of the area (+1 Terra)
 
 Enter the house nearby the NPC to continue.
 
 !enc(450, nil, nil, "Glitch Byxbysion Wasteland")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to the computer near where we once fought Ace (+1 Terra)
 
 Head left, hopping down ledges as you go. Enter the door at the top.
@@ -292,7 +292,7 @@ Down from here, take the stairs on the right.
 
 Grab the *Dubious Disc* and hidden *Max Potion*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to the diary in the mansion (+1 Terra)
 
 Back upstairs, enter the smaller of two gaps to proceed.
@@ -335,7 +335,7 @@ The first thing I recommend for this fight is to literally use a list like [this
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for one more secret tip :)</a>
 </div>
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Terra (-4 Terra, actually not a choice)
 
 For winning, you'll get the *Gravity Badge* which lets us actually use Waterfall. We also get *TM78 Bulldoze*! We did it.

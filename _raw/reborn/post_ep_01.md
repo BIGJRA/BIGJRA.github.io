@@ -112,7 +112,7 @@ Mix N' Match allows you to do 2v2 fights of these NPC teams: you get to pick a p
 
 On the right side of the room, talk to Cass.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Cass you aren't ready to start your first postgame quest repeatedly (-1 Noel, -1 Serra)
 
 She will give us our first of many legendary quests: we're wanted in Vanhanen Castle!
@@ -141,7 +141,7 @@ Return to the Nightclub!
 
 While you're here, more NPC's will have returned to the nightclub. In particular, you can show Florinia the Naganadel we got earlier (or other Ultra Beasts we'll find later) to get 5 *Beast Balls*.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Show Florinia an Ultra Beast (+1 Florinia)
 
 That's it for the first Postgame Episode!

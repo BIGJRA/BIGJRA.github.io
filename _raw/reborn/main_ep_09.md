@@ -1,6 +1,6 @@
 # Episode 9: Sister's Keeper
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Serra on the couch after the battle (+1 Serra)
 
 Exit the gym.
@@ -17,17 +17,17 @@ The Powders aren't really worth it unless you're going for a Frustration build, 
 
 If you chose to go to Spinel Town before Belrose Manse, you can [read the above section on Tanzan Cove](#tanzan-cove) for encounters, items, etc.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeated Serra and got Herbal Medicine before entering the Belrose Manse (+1 Charlotte)
 
 Anyways, head to Belrose Manse and go upstairs.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Noel without Herbal Extract in your inventory (-1 Noel)
 
 Give the medicine to Anna and she will feel better. Head outside.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Shelly while Noel wants to battle you (+1 Shelly)
 
 We can talk to Noel to advance the plot, but we can actually use the second Herbal Extract we got right now to get a nice reward, so I'll take care of that now.
@@ -44,10 +44,10 @@ With that out of the way, head back to the Tanzan Cove. Prepare your team for a 
 
 ## Defending Belrose Manse
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Saphira you don't understand (-1 Saphira)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Charlotte you want to beat Meteor faces (+1 Charlotte)
 
 The story will diverge a little bit depending on what our choice was at Yureyu. This section gets a bit hairy since there are FOUR different story splits.
@@ -68,7 +68,7 @@ On this route this is our first battle with Sirius, and we don't get a partner. 
 
 Afterwards, the game will give us another choice that affects the story! Either we will go upstairs or stay downstairs.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Go Upstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Noel, -1 Saphira, -1 Laura, -1 Sigmund)
 - Stay Downstairs after fighting Sirius (+1 Charlotte, +1 Shelly, +1 Saphira)
 
@@ -90,13 +90,13 @@ Afterwards, you will make another choice that will affect the game!
 
 **In order to access the exclusive postgame route, you need to stop Sigmund after fighting him.**
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Choose to stop Sigmund after fighting him (+1 Saphira, +1 Shelly, +1 Charlotte, +1 Noel, +1 Anna, +1 Shade, -1 Laura, -2 Sigmund)
 - Choose to stop Sirius after fighting Sigmund (+1 Laura, -2 Saphira, -1 Noel)
 
 If Saphira was abducted, you'll also see a hole in the wall that opens up. You can actually use the hole instead of the door to enter and exit.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Exit or enter the Belrose Manse through the hole in the wall (-1 Laura)
 
 ## Tanzan Meteor Base
@@ -131,7 +131,7 @@ If anyone except Saphira was abducted earlier, you can fight a few trainers as w
 
 !dbattle(["Kenan", :MeteorKnight, 1], ["Diana", :MeteorDame, 1], "Factory Field")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - After Noel and Anna are abducted, talk to them in the cage (+2 Noel)
 - After Charlotte and Shelly are abducted, talk to them in the cage (+1 Shelly, +1 Charlotte)
 - After Laura is abducted, talk to her in the cage (+1 Laura)
@@ -174,7 +174,7 @@ Enter the door at the top!
 
 If Saphira was abducted, you'll be here with Laura.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Laura in the depths (+2 Laura)
 
 Go out and head up. 
@@ -187,7 +187,7 @@ You'll see some dialogue. Head down from here, you'll see a new path open up. Fo
 
 Another single Pokemon boss, this time with a Mega Steelix. Since it's slow you can wear it down with Special moves. Counter also works well if you can take a hit.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Steelix on the first try (+3 Saphira, +1 Laura)
 - Beat Steelix on the second, third, etc. try (+2 Saphira)
 
@@ -209,7 +209,7 @@ Clefable's Magic Guard is an annoying ability that means you need to overwhelm i
 
 In a pinch, this fight becomes much easier if you change the field to the Burning Field or the Corrosive Field. However, Laura doesn't like you destroying her flower garden!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Noel on Burning Field (-2 Laura)
 - Beat Noel on Corrosive Field (-1 Laura)
 

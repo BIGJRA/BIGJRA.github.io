@@ -1,6 +1,6 @@
 # Chapter 7: A Teila Fire and Ice
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Good morning? (Neutral)
 - Does it look like I'm okay? (-1 Aelita)
 
@@ -8,7 +8,7 @@ Make your way down to Terajuma Beach. To the right, you can buy a *Casteliacone*
 
 Talk to Holly on the beach, then head to the stage area on the left side. Talk to the familiar musician on the right here, then to Holly again to end the festival.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Encore! (+2 Aelita)
 - Uh... (Neutral)
 
@@ -20,7 +20,7 @@ Time for a 2v2 battle. You get to pick four of your Pokemon.
 
 A little Protect or Wide Guard will go a long way if you're stuck here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - I had fun! (+2 Melia)
 - It was a hassle... (-2 Melia)
 
@@ -98,7 +98,7 @@ Downstairs on the left side, you can buy Pokemon massage packages. The cheapest 
 
 Enter Tesla's office on the right. She will give us *TM101 Rock Climb*! Head back outside.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - You're foolish. (+2 Melia, -1 Venam)
 - Contacts Smonctracts. (-1 Melia, +2 Venam)
 - You're stupid. (-2 Melia, -2 Venam)
@@ -107,7 +107,7 @@ Enter Tesla's office on the right. She will give us *TM101 Rock Climb*! Head bac
 
 Next, we must go find Amber. Re-enter Aquamarine Cave, Rock Climb to the right, then follow the path down to the basement as we did before. Take the second ladder down to the depths. All the way on the right, you can Rock Climb to *TM20 Safeguard*!
 
-Climb back up the ladder and Rock Climb to the left. Pick up the *Water Stone* as well as the hidden *2 Pearls* and *2 Blue Shards*, then go down the ladder.
+Climb back up the ladder and Rock Climb to the left. Pick up the *Water Stone* as well as the hidden *2 Pearls* and *2 Blue Shards*. Use Rock Smash to reach the top of this area. Pick up the hidden *Repel*, *Green Shard*, and *Exp. Candy M*. In the treasure chest is *3 Exp. Candy XL*, and *Macho Brace*. To the right, get the hidden *Telluric Seed* and the shining *Aquamarine Ore*! Backtrack to the bottom left and go down the ladder.
 
 Grab the hidden *Fresh Water* and *Ether*, then go to the top right. After the conversation, decline the fast travel request, because there is a ladder to a new area in the bottom right side of this map: take it. Get the hidden *Green Shard* and go right.
 
@@ -139,7 +139,7 @@ Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Sto
 
 Go south, back through Aquamarine Cave, and return to Teila Resort and go to Tesla's Office.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - What did you do? (Neutral)
 - It's not your fault. (+2 Tesla)
 - Maybe it was. (-4 Melia if current Melia points < 0, else -2)
@@ -152,7 +152,7 @@ Head back outside and enter the house to the left, previously blocked by Saki:
 
 Talk to Melia inside the previous house and agree to sleep. Wake up, talk to the crew outside, then to Tesla in her office.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Sorry. (-2 Amber)
 - ... (+1 Amber)
 - It's weird ass hell out here. (+2 Amber)
@@ -199,13 +199,13 @@ Enter Tesla's Villa next to the Noctowl Statue. Head upstairs, exiting at the bo
 
 She'll offer you food - choose whichever you like. If you want something sweet, you'll get a *Strawberry Cake*! If you want something relaxing, you'll get a *Rose Tea*! If you want something rejuvenating, you'll get an *Herbal Tea*! If you want something sour, you'll get a *Razz Berry Tart*!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - How do you know him? (Neutral)
 - Does he deserve this? (-2 Tesla)
 
 Upstairs:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Thank you... (+2 Tesla)
 - I don't know what to say... (Neutral)
 - ... (-3 Tesla)
@@ -214,11 +214,11 @@ Tesla will give you her *Yacht Keys*. Inside the gift box to the left is the *Fu
 
 Follow Amber into her room next.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Are you okay? (Neutral)
 - Stop being a child. (-3 Amber)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - I'm here to help. (+2 Amber)
 - What next? (Neutral)
 
@@ -234,7 +234,7 @@ Another fun battle with a Xen Mage - they can cause all kinds of effects in batt
 
 Back outside on Route 5, grab the hidden *Calcium* by the boat, then go back to Tesla's office in Teila Resort.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - We have to. (+1 Melia)
 - I don't know... (Neutral)
 - Depends on the mood. (-3 if current Melia points < 1, else -1)
@@ -247,7 +247,7 @@ Time for a GAUNTLET. That's right. Two battles, back to back, no healing in betw
 
 In the villa, talk to Crawli.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Let's take her down. (+2 Melia, +3 Venam, +2 Aelita, +4 Crawli, +4 Adam, +2 Valarie, +2 Braixen)
 - I'd rather not... (-2 Melia, -3 Venam, -1 Aelita, -2 Valarie, -4 Adam, -4 Crawli, -2 Braixen)
 
@@ -397,7 +397,7 @@ Enter the tower.
 
 Follow the path up. After talking to Zetta and Jenner, smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Fail to defeat Madame X and the first Tapu Koko fight (-3 Crescent)
 
 Return to the room with the bed and use the key.
@@ -418,7 +418,7 @@ Study the sign nearby. You can drop a ladder here before proceeding. Talk to Bon
 
 ...and, you have to try again. You'll need to get at least six right to proceed. Take the warp to proceed.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Free Kreiss (+2 Kreiss)
 - Keep Kreiss locked up (-2 Kreiss)
 

@@ -6,7 +6,7 @@ Head outside the gym after watching the scene in Shelly's room. After you head o
 
 This battle probably won't be too tough if you could defeat Shelly. Nidoking hits hard, but it still has fairly weak STAB attacks. Defeat him with your best strategies.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Agree to save Heather (+1 Cain)
 - Refuse to help Heather (-1 Cain)
 
@@ -16,7 +16,7 @@ With that, Cain and Shelly will head over to the Orphanage.
 
 Head into the Orphanage as soon as the door opens. You'll be paired up with either Cain or Shelly depending on who you have more relationship points with at this moment.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat the Orderlies with Cain (+1 Cain)
 - Defeat the Orderlies with Shelly (+1 Shelly)
 
@@ -28,17 +28,17 @@ Head into the Orphanage as soon as the door opens. You'll be paired up with eith
 
 After this fight, you'll be free to explore with Shelly (above) as a partner. Keep in mind though:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Leave the Orphanage while partnered (-1 Cain, -1 Shelly, -1 Charlotte, -1 Noel, -1 Heather)
 
 You can also gain points:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Shelly while partnered (+1 Shelly)
 
 We can now choose where to go.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Enter the hallway first before exploring upstairs (-1 Shelly)
 
 So, we're gonna head upstairs first. Defeat orderlies as you go up.
@@ -51,7 +51,7 @@ You'll be prevented from continuing upstairs, so head downstairs and talk to Ann
 
 Enter the open door on the first floor. Be careful about trying to enter the doors on the left.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - The Player is male and tries to enter the Girls' Bathroom two times (-1 Shelly)
 
 Beat the orderlies in the room above.
@@ -66,7 +66,7 @@ Pick up a *Data Chip* down here. Talk to the green computer screen nearby to ope
 
 Head back upstairs and go through the now-opened path.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Ignore Noel in the cage (-1 Noel)
 
 Defeat the orderlies upstairs.
@@ -77,7 +77,7 @@ Open the patient cages. You can find a hidden *Great Ball* here. Head downstairs
 
 On the first floor, enter the room on the right.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Charlotte twice while she's in a cage (-2 Charlotte)
 
 Unlock Charlotte's cage. If you unlock the cage on the right the kid inside will give you 4 *Exp. Candy M*.
@@ -268,7 +268,7 @@ Next, we're going to cross Beryl Bridge and smash the rock here, then enter.
 
 This looks like quite the intimidating battle due to the level difference, but it has its default moves. Blizzard will tear you up but it only has 5 PP, so if you can stall those out with the Protect TM and get a Ghost type onto the field to whittle it down with status moves, you're basically set. After winning, you'll get **Smoochum**.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Save Smoochum (+2 Blake)
 
 Exit the cave via Escape Rope or backtracking to the top of the previous room.

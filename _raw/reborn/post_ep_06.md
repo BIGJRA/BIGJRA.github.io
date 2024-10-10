@@ -74,7 +74,7 @@ In this cave, you'll find a hidden *Green Shard*, *Pecha Berry*, *Red Hots*, *Ul
 
 Follow the path out of the cave and into the Deepwoods. Grab a hidden *Normal Gem* and hop down the ledge. Cross the bridge to the left, and Fern will get trapped in a cage. Down at the lever above the cage:
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Let Fern out right away (+1 Fern)
 - Make Fern beg once, then let him out (-1 Fern)
 - Make Fern beg twice, then let him out (-2 Fern)
@@ -173,7 +173,7 @@ Finally, the Douse Drive themed team. This one is a bit harder in my opinion tha
 
 Once you win, you'll get the *Douse Drive*. Head back to the center, then go up from here and talk to Hardy if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy when he's with Aya in the Neo Blacksteam Fabrication (+1 Aya)
 
 !img("genesect3.png")
@@ -210,7 +210,7 @@ Accept Zero's quest, then head over to the Peridot Ward. In Seacrest's garden, y
 
 Make your way around the right side of the large hill. You'll see stairs here that let us climb up. Make your way to the top.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Agree to stop Eve (+1 Lumi)
 - Refuse to stop Eve (+1 Eve)
 
@@ -362,14 +362,14 @@ If you beat Solaris at Pyrous and are on Reshiram Route, you'll get a battle her
 
 Well, the field will instantly change to Grassy Terrain, then likely to Burning Field thanks to Heat Wave and Eruption. Rock, Water, and Ground moves make this simple once you can take out Tapu Bulu.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - If you beat Solaris at Pyrous and are on Reshiram Route, finish the sanctum quest (+2 Luna)
 
 Anyways, return to the Nightclub!
 
 While you're here, if you're on Reshiram Route, Taka will ask you to see his Chatot. We got this back in Victory Road.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Show Taka his Chatot in Reshiram Route (+2 Taka)
 
 ## Endgame

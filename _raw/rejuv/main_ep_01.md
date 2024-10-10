@@ -238,7 +238,7 @@ Head up to the Chrisola Hotel courtyard. On the left is an *Iron*. The tile to t
 
 Enter the Chrisola Hotel Resort at the top of the map.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Enter the Chrisola Hotel early-game (Saki +1).
 
 After you regain control, talk to a man in the bottom right for a *Super Potion*. Enter the right hallway. In one room you can get *TM126 Whirlpool*. In the hallway on the left, head into the open room at the top and interact with the tile down and right from the top left plant for $1500!
@@ -630,7 +630,7 @@ Proceed south.
 
 !battle(["Daryle",:XENGRUNT_M,0], "Forest Field")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - We have to. (Melia +2)
 - I'm not so sure myself... (Neutral)
 - With that attitude? Nope. (Melia -2)

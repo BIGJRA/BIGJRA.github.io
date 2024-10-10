@@ -338,7 +338,7 @@ Now is a good time to do the Sheridan Village Help Quests. The help center is in
 
 Start outside the help center and talk to the backpacker. Truck on over to Gearen, then go to the Chrisola Hotel and talk to Karen in front.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - The Hidden Library (+2 Karen)
 - Looking for a BATHROOM (+1 BIGJRA... just kidding. Neutral)
 
@@ -356,7 +356,7 @@ In the previous room, go up and climb the bookshelf to get *TM63 Embargo*. In th
 
 Go all the way around to the left. One tile above a page near the door at the top, you can get a hidden *Ether*. Enter the room here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Consolation prize for Karen getting a Mega Ring when you don't... (+2 Karen)
 
 You do at least get the *Ancient Book* and can read some prophesies above.
@@ -383,7 +383,7 @@ Venam will join you for a battle.
 
 !dbattle(["Samwell",:CUEBALL,0], ["Jacksin",:CUEBALL,0], "Factory Field")
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat the Cue Balls with Venam (+1 Venam)
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
@@ -504,14 +504,14 @@ This one doesn't have to be won, though it is very doable. Essentially, Mewtwo w
 
 You have Keta on your side, so it's functionally a 12 on 6. Keta's Pokemon also tend to attack Mewtwo, so simply wailing on Mewtwo and ignoring Cufant is the move - it is pretty unlikely the Charge Attack will finish charging. Past that, a rock type can demolish half of her team, and Keta's fast fighting Pokemon will help you out. Two of them have fake out, so when you get to Mewtwo, try to take advantage of those turns to deal heavy damage to Mewtwo. Mewtwo also takes damage every time it attacks thanks to Fever Pitch, so take advantage of that and dish out as much damage as you can as soon as her other Pokemon are all wiped out.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Madelis in battle with Keta (+1 Madelis, +1 Karma)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Thanks, Aelita (+2 Aelita)
 - I can handle myself. (-2 Aelita)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - He's trying. (+1 Aelita)
 - He threw Sheridan away. (Neutral)
 - He's a terrible person. (-4 Aelita)

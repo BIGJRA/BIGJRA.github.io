@@ -10,13 +10,17 @@ You'll find yourself playing as Aelita!
 
 Talk to the crew. Kreiss will give you the Glacier Badge, raising our level cap to Lv. 55! 
 
-Head outside to start exploring Kristiline Town. To the left:
+Head outside to start exploring Kristiline Town. 
+
+!enc(329)
+
+To the left:
 
 **ZCell 070: Kristiline Town**
 
 !img("zcell070.png")
 
-Enter the Sapphire Museum. Talk to the old man to begin the *Museum Quest*. Back outside, enter the Kristiline Eatery to the left. Talk to a man here to begin the *Aquamarine Ore* quest.
+Enter the Sapphire Museum. Talk to the old man to begin the *Museum Quest*. Back outside, enter the Kristiline Eatery to the left. Talk to a man here and give him the Aquamarine Ore we found earlier in exchange for a *Prism Scale*!
 
 !shop("Kristiline Eatery", ["Lava Cookie"])
 
@@ -24,568 +28,141 @@ Outside, pluck the *Occa Berry* and enter the TM Shop.
 
 !shop("Kristiline TMs", [["RM02 Avalanche", 20000], ["RM03 Zap Cannon", 30000], ["RM04 Metronome", 10000], ["RM06 Retaliate", 15000], ["RM07 Dynamic Punch", 25000], ["RM08 Vacuum Wave", 20000], ["RM09 Tri Attack", 20000], ["TM140 Ice Fang", 10000], ["TM141 Fire Fang", 10000], ["TM142 Thunder Fang", 10000], ["TM143 Psycho Cut", 25000], ["TM157 Breaking Swipe", 25000]])
 
-Back inside the church, you'll find:
+To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *2 Exp. Candy L*. 
 
-ZCell 036: Church of Theolia
+!battle(["Zeph",:POKEBREEDER_M,0], "Beach Field")
 
-<img src="/assets/images/rejuv/image37.png"/>
+Enter the Pokemon Center. If you've done all the other virtual badge battles, we can continue that quest.
 
-Outside, pick up *TM07 Hail*. On the beach below there is a hidden *Icicle Plate*.
+!newself(["Ethan",:JOHTO_0M,6], "Virtual Trainer (Chikorita)")
 
-Surf down at the Isle of Angels.
+!newself(["Ethan",:JOHTO_0M,16], "Virtual Trainer (Cyndaquil)")
 
-Isle of Angels
+!newself(["Ethan",:JOHTO_0M,26], "Virtual Trainer (Totodile)")
 
-| Cave         | %        | Water          | %        |
-|--------------|----------|----------------|----------|
-| Roselia      | 30       | Bruxish        | 60       |
-| **Swadloon** | 30       | Seaking        | 30       |
-| Gossifleur   | 10       | **Swanna**     | 5        |
-| **Eldegoss** | 10       | Sealeo         | 4        |
-| **Milcery**  | 10       | Dewgong        | 1        |
-| **Lurantis** | 5        |                |          |
-| Gothita      | 5        |                |          |
+!battle(["Pryce",:JOHTO_7,0], "Glitch Field")
 
-| Old Rod         | %        | Good Rod        |  %       |
-|-----------------|----------|-----------------|----------|
-| Corphish        | 70       | Luvdisc         | 80       |
-| Carvanha        | 30       | Basculin        | 20       |
+Get a *Virtual Badge* for winning. Talk to her again to take on Clair.
 
-The big island to the south hides a *Magical Seed, Ice Gem, Max Repel*. If you have 10 Occa Berries to trade, the fisherman here will trade you a *Deepseatooth* or a *Deepseascale*. We already have one of each, though.
+!newself(["Ethan",:JOHTO_0M,7], "Virtual Trainer (Chikorita)")
 
-A smaller island contains a hidden *Dive Ball*, another has a *Rock Gem*. Grab the *Shed Shell* on another island.
+!newself(["Ethan",:JOHTO_0M,17], "Virtual Trainer (Cyndaquil)")
 
-Reenter the town.
+!newself(["Ethan",:JOHTO_0M,27], "Virtual Trainer (Totodile)")
 
-Kristiline Town
+!battle(["Clair",:JOHTO_8,0], "Glitch Field")
 
-| Cave        | %        |
-|-------------|----------|
-| Roselia     | 35       |
-| Swadloon    | 30       |
-| Butterfree  | 15       |
-| Lickitung   | 15       |
-| Lurantis    | 5        |
+Once you win, you'll get the eighth *Virtual Badge* and *25 AP*!
 
-Use your Itemfinder around the town to get *Blue Shard, Rare Candy, Soda Pop, Green Shard, Red Shard*. In the house on the northeast, take the other door to get:
+Outside, get *3 Passho Berries*. Enter the help center to get *TM73 Thunder Wave*! Go south across the bridge.
 
-ZCell 037: Kristiline Town
+**ZCell 071: Kristiline Town**
 
-<img src="/assets/images/rejuv/image38.png"/>
+!img("zcell071.png")
 
-Pick the *Occa Berry* in the northeast.
+A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, then trade it with an NPC to get **Vulpix (Alolan)**! Also here is:
 
-In the bottom left of town, you'll find:
+**ZCell 072: Kristiline Town**
 
-ZCell 038: Kristiline Town
+!img("zcell072.png")
 
-<img src="/assets/images/rejuv/image39.png"/>
+Go up to reach the Isle of Angels.
 
-Kristiline Ranger Center Shop
+!enc(540, nil, ["Old", "Good"])
 
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Potion*       |$300 |
-|*Super Potion* |$700 |
-|*Antidote*     |$100 |
-|*Ice Heal*     |$250 |
-|*GourmetTreat* |$2000|
-|*Super Repel*  |$500 |
-|*Reverse Candy*|$50  |
-|*Spice Powder* |$850 |
+Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deepseatooth* or *Deepseascale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
 
-Kristiline Town Restaurant
+Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Hail* is to the left.
 
-|Item         |Price|
-|-------------|-----|
-|*Lava Cookie*|$200 |
+**ZCell 073: Isle of Angels**
 
-A girl in the dock on the east side will trade you an **Alolan Vulpix** for your Alolan Sandshrew!
+!img("zcell073.png")
 
-Cross the bridge to the south part of Kristiline. Inside a building is another guy in the virtual badge quest!
+Back to the right, across the bridge:
 
-Gym Leader Pryce (Glitch Field)
--   Sneasel, Level 44.
-    -   Metal Claw
-    -   Strength
-    -   Beat Up
-    -   Ice Beam
--   Cloyster, Level 44.
-    -   Surf
-    -   Icicle Spear
-    -   Spikes
-    -   Explosion
--   Dewgong, Level 43.
-    -   Rest
-    -   Dive
-    -   Toxic
-    -   Stockpile
--   Jynx, Level 45. @ Focus Sash.
-    -   Lovely Kiss
-    -   Psychic
-    -   Ice Beam
-    -   Nasty Plot
--   Piloswine, Level 46. @ Sitrus Berry.
-    -   Stomping Tantrum
-    -   Blizzard
-    -   Amnesia
-    -   Rock Tomb
+**ZCell 074: Isle of Angels**
 
-Pryce is an easy fight with the Cyndaquil route - Typhlosion and Jolteon will do most of the work: use Miltank to wall, Qwilfish to get up entry hazards and if you can make sure Jolteon prevents Dewgong from setting up its defenses and its special attack with Stockpile thanks to the field you should be set. Get the seventh *Virtual Badge*!
+!img("zcell074.png")
 
-Gym Leader Clair (Glitch Field)
--   Dragonair, Level 51.
-    -   Thunder Wave
-    -   Dragonbreath
-    -   Double Team
-    -   Ice Beam
--   Ampharos, Level 51.
-    -   Fire Punch
-    -   Thunder Wave
-    -   Confuse Ray
-    -   Thunderbolt
--   Rhydon, Level 53. @ Passho Berry.
-    -   Earthquake
-    -   Rock Slide
-    -   Strength
-    -   Swords Dance
--   Gyarados, Level 53. @ Wacan Berry.
-    -   Double Edge
-    -   Surf
-    -   Bounce
-    -   Dragon Dance
--   Dragonair, Level 54. @ Yache Berry.
-    -   Draco Meteor
-    -   Hydro Pump
-    -   Agility
-    -   Focus Energy
--   Kingdra, Level 55. @ Scope Lens.
-    -   Draco Meteor
-    -   Hydro Pump
-    -   Agility
-    -   Focus Energy
+Reenter the Church of Theolia. In the room at the top:
 
-Next up is Clair. I thought this one was easy actually: Jolteon with Wish and Hidden Power Ice easily takes both Dragonair and Ampharos, as well as Gyarados if you can weaken it a bit first. Letting Gligar take out Rhydon and cripple Gyarados with Jolteon taking care of the dragons left only Kingdra, who can easily be taken down by Miltank and Qwilfish! Win for your eighth *Virtual Badge*! Garret will also then give you 25 AP points!
+**ZCell 075: Church of Theolia**
 
-Talk to the other guy in this house. Give the Aquamarine Ore to the guy for a *Prism Scale*!
+!img("zcell075.png")
 
-Enter the museum for $500 and talk to the director. He will send us on a quest to Goldenleaf Town, so we'll take care of that as soon as we return.
+Should you want to return to the Tower of Theolia area, you can do so in the room on the left side of the church.
 
-To proceed the story a bit, head into Amber's room and talk to the crew. We must return to the Sapphire Museum in Kristiline Town. If you retrieved the painter, now you can choose a sculpture and get paid
-$10000. There is a *Cherish Ball* in the trash to the right.
+## 7 Badge Sidequests
 
-Head upstairs and read about Regice.
+That's all for Kristiline Town and Isle of Angels exploration for now, but we can take care of a few quests and things right now.
+
+Take Noctowl to Kakori Village. Mr. Luck's Tent now has a new move tutor:
+
+!tutor("Marnie Move Tutor", [["Bug Bite", "3 Green Shards"], ["Bounce", "3 Blue Shards"], ["Drill Run", "3 Yellow Shards"], ["Electroweb", "3 Red Shards"], ["Gastro Acid", "3 Yellow Shards"], ["Focus Energy", "3 Red Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
+
+Take the truck to Goldenleaf. In the house nearest the eastern gate, you'll find the artist for the *Museum Quest*. Next, head back to the outside area of Wispy Tower and enter the Wispy Ruins to the east. Climb down the ivy in the rightmost room, then make your way to the southeast corner of Wispy Chasm. Step on the tile, then head in to and get Griselda's Treasure 7: a *Data Drive* and *Odd Keystone*.
+
+Head back out to Goldenleaf Town. Enter Narcissa's Gym and talk to the guy at the front. Make your way all the way back through Backstage Theatre and enter the mirror.
+
+Enter this door at the top, then interact with the painting up here. Follow Mew out of the room, through the mirror to get the *Odd Key*, and to the Lost Castle on the Forgotten Path.
+
+Here, we're going to want to read all the books and keep track of all the numbers. Head up the stairs and talk to Dusclops, and enter the following: 0044, 6677, 3645, 9043, 7171. Enter the next room and get ready for a series of battles. It's a gauntlet of 3: just be prepared for the Shedinja in the last team.
+
+!battle(["Narcissa",:GAUNTLET,0], "Haunted Field")
+
+!battle(["Narcissa",:GAUNTLET,1], "Haunted Field")
+
+!battle(["Narcissa",:GAUNTLET,2], "Haunted Field")
+
+Burst the bubble at the top! This marks the official beginning of the *Narcissa's Hauntings* quest, though this is all we can do in it for now.
+
+Make your way all the way back to Kristiline Town. Reenter the museum and choose which sculpture you prefer. Completing the *Museum Quest*, you'll get $10,000. There is a *Cherish Ball* in the trash to the right.
+
+The Kristiline Help Center is closed, but we can learn about its requests via the Kakori Village Help Center. There's a quiz event, something involving a princess, and a quest from the Ranger HQ. Only the first one is completable right now.
+
+### Kristiline's Quiz Show!
+
+Enter the house in Kristiline to the east of the Isle of Angels entrance.
+
+Head outside and enter the house in the top right of town. Talk to the guy here to start a quiz, similar to the one in the Tower of Theolia. You have to be quick to answer correctly.
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Bug, 95, Aquamarine Chamber, Fever Pitch, Marty, 4, 3, Teila Resort, Mt. Terajuma, Yes.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solutions to the quiz</a>
+</div>
+
+You'll get an *Exp. Candy XL*, *Lucky Egg* for winning. After...that... head back to the Kakori Help Center to get $10000. (+1 Karma)
+
+## Corrupted Cave 
+
+Now we will proceed with the story. Talk to Aelita in Kristiline Town. You'll need to choose a third character to join you in the upcoming journey. You can choose Reina, Kreiss, or Adam. Talk to Aelita to go to Sheridan. Inside the Sensei's house, talk to Texen, then head upstairs for a 3v3 battle.
+
+!partner(["Aelita",:STUDENT,1])
+
+!battle(["Texen",:LEADER_TEXEN,0], "Big Top Arena")
+
+Luckily Aelita's team is pretty useful here, thanks to some type advantages. Once you're back in Carotos Mountain, smash a rock to open a shortcut to the rest of the cave. Enter the Corrupted Cave. Aelita (team above) will join us a partner.
+
+!enc(64)
+
+You'll also find **Grimer (Alolan)** and **Garbodor** walking around in certain parts.
+
+Hidden in the first map is a *Poison Gem*. The next map has two hidden *Super Repels*. Follow the path down and to the left.
+
+!battle(["Deborah",:SERVANT,0], "Corrupted Cave")
+
+Climb down the ladder. Go up and get a hidden *Moon Stone*. In the next room, talk to the pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*. Back in the previous room, you'll need to push blocks onto the correct yellow tiles. The correct placements can be noted in the bottom left room. 
+
+Enter the next room. We'll need to move the statues on the left side onto the yellow dots corresponding to the positions on the right side. Head into the next room when you succeed.
+
+!battle(["Tommen",:XENGRUNT_M,0], "Deep Earth")
 
 **Relationship Point Choices**:
-- Yes. (Aelita +2)
-- Uh... (Aelita -1)
+- Aelita
 
-Student Aelita (No Field)
--   Gliscor, Level 49. @ Toxic Orb.
-    -   Stealth Rock
-    -   Earthquake
-    -   Facade
-    -   U-Turn
--   Mienshao, Level 50. @ Muscle Band.
-    -   Bounce
-    -   Blaze Kick
-    -   Jump Kick
-    -   Poison Jab
--   Lucario, Level 51. @ Focus Sash.
-    -   Calm Mind
-    -   Aura Sphere
-    -   Shadow Ball
-    -   Flash Cannon
--   Hawlucha, Level 52. @ Flying Gem.
-    -   X-Scissor
-    -   Drain Punch
-    -   Bounce
-    -   Swords Dance
--   Blaziken, Level 51. @ Muscle Band.
-    -   Brave Bird
-    -   Protect
-    -   Sky Uppercut
-    -   Blaze Kick
--   Staraptor, Level 51. @ Assault Vest.
-    -   Brave Bird
-    -   Close Combat
-    -   U-Turn
-    -   Take Down
-
-Her team focuses on a lot of fast, hard hitting Pokemon that can U-Turn out if need be. They're all frail bar Gliscor though, so if you have the bulk to survive hits across your team, you can take them out. Not a noteworthy fight after Angie, to be honest.
-
-To continue the story, skip ahead a few sections to Carotos, Pt 2. Otherwise there's tons of optional content that is now open to us!
-
-Head into the help center - it's time for some Help Center Quests!
-
-## Kristiline Help Center Requests
-
-We'll be exploring some new areas with Rock Climb throughout these quests, so I recommend reading to at least check what new areas you can explore. If you haven't yet gotten it, the Golden Claws from the AP center are useful here!
-
-### HQuest 18: Lighthouse
-
-Talk to the ranger on the boat dock of Kristiline Town to get the *Lighthouse Key*.
-
-Take the ranger teleporter to Terajuma Shore, and surf around to the lighthouse. Enter, and go up.
-
-Read the note, and remember the code ends in 67.
-
-Head all the way north to Route 5 and enter this lighthouse. Read the note, and remember the code starts with 98.
-
-Enter Aquamarine Cave from the west, and head into the cave with the big door. Rock Climb up to get *TM20 Safeguard*!
-
-Go to where Amber fell into a hole. Jump down, and surf to the right. Rock climb up here.
-
-Hidden up here is *Green Shard, Rock Gem, Blue Shard*. There is also a visible *Sea Incense* at the top, and a *Link Heart* towards the center at the bottom.
-
-Make your way to the ladder in this area and go up. *Fresh Water*, *Water Gem*, *Dive Ball* are hidden here. Exit this room at the top to reach the Secluded Shore. Talk to Dylan, then head up. Here you'll find Poliwag \#6!
-
-Enter this lighthouse and go up. Read the note to learn that the Ampharos are in Jirukala Cavern!
-
-Exit, and head up. We can explore this new bit of Route 6 if we want. Here you'll find Kingler and Hoppip, but also:
-
-ZCell 039: Route 6
-
-<img src="/assets/images/rejuv/image40.png"/>
-
-Add , and return to the area above where we fought Valarie in Terajuma Jungle. Enter Jirukala Cavern here, and rock climb up.
-
-In the trees here, you can headbutt! You have an 11% chance each to get 3 *Oran, Sitrus, and Leppa Berries*, but also an 11% chance to get **Greedent**, 22% chance to get Skwovet, and 33% chance to get **Applin**!
-
-Pick up *Green Shard*, then, on the right, grab *Modest Mint* and *TM131 Bullet Seed* then head down.
-
-Enter the password 9867 into the door. Beat the grunts, then the ranger will take the Ampharos back.
-
-Pick up:
-
-ZCell 040: Jirukala Cavern
-
-<img src="/assets/images/rejuv/image41.png"/>
-
-Completing this quest also gives us access to some stationary water Pokemon for GourmetTreats - but only at night. Head to Terajuma Shore to get **Staryu**, to Route 6 to get **Clamperl**, and Route 5 to get **Slowpoke**.
-
-While we're up on Route 5, Rock Climb here to get a *Adamant Mint*, and access to Jeminra Cave but without the need for Safari Balls. Grab the *TM144 Cross Poison* inside.
-
-Rock Smash one of the rocks here, and use Purify in the battle. Any Pyukumuku we've found so far should have it. Then, exit the cave and re-enter through the Safari Zone. Surf through the cave. Chase **Wimpod** into the bottom left corner for a battle!
-
-Return to the help center to get: $6245, *Revival Herb*, and **Mareep**. (+1 Karma)
-
-### HQuest 19: Take my Quiz!
-
-Head outside and enter the house in the top right of town. Talk to the guy here. The answers to his quiz are: 4, Calmness, and 5.
-
-After...that... head back to the help center to get $10000. (+1 Karma)
-
-### HQuest 20: Defend Me!
-
-Head into Aquamarine Cave, and head to the large open basement room.
-
-Head west from where Amber's bed was, then surf to the west side of the room. Beat all the AA grunts in here.
-
-Return to the help center to get $4000 and *Mystic Water*.
-
-### HQuest 21: Research
-
-Head outside and talk with Dr. Jenkel. We must find and talk to 7 people all around the island.
-
-- Enter the house directly to the left of the dock bridge in Kristiline. Talk to the old lady.
-- Enter the Kristiline mart, and talk to the girl in the aisles.
-- Enter the south middle villa in Teila Resort, and talk to the lady on the left side.
-- talk to the hiker hiding behind the south left villa in Teila Resort.
-
-While you're in Teila, notice that there is a new Move Tutor on the east side:
-
-Teila Resort Move Tutor
-
-| Move      | Price         |
-|-----------|---------------|
-|Aqua Tail  |4 Blue Shards  |
-|Magic Coat |4 Blue Shards  |
-|Electroweb |4 Blue Shards  |
-
-Anyways,
-
-- Enter the construction hut in Terajuma Jungle and talk to the
-    guy on the couch.
-- Talk to someone in the middle house in the row of houses in Kakori village.
-- Talk to the other person in the same house.
-
-Then, head outside... After getting teleported, claim your rewards: *Exp. Candy L* and *Up-Grade*. (+1 Karma)
-
-### HQuest 22: ???
-
-Take a teleporter to Terajuma Shore. Surf up to the left of the shoreline, towards the strange house. Talk to Jenkel, then enter.
-
-Defeat the first few trainers, then grab the *Data Drive*.
-
-Head up, and you'll have to battle 6 Inkay ranging from Level 50 to 90. Really, if you don't let the 80/90 ones set up on you with Superpower, you'll be able to come out ahead.
-
-As a result, we now have access to the move relearner in Sheridan Village! Talk to the sister for a free *Heart Scale*.
-
-Now that we have the Data Drive, take the teleporter to return to Ranger HQ, and go into the hallway room 2nd from the right.
-
-Head up twice and interact with the upper left computer to battle Porygon!
-
-Return to the Kristiline Help Center to get your reward: **Inkay**!
-(+1 Karma)
-
-For completing all five, you will be gifted **Eevee**! (+1 Karma)
-
-## Floria Island Rock Climb
-
-That's about all we can do on Terajuma Island alone, far as side quests are concerned. The boat can take us all sorts of places, including Gearen, Akuwa, and Secret Shore. Anyways, first, we're going to go to the Secret Shore. Again, this is optional, so skip ahead if you want.
-
-Enter Xen Lab again and take the teleporter here to get to the back room. Enter the cave. Surf to the right to find a hidden *Link Heart*. Then, head back to use Rock Climb. Enter the cave up here to get *TM81 X-Scissor*! There's also an *Up-Grade* in the bookshelf.
-
-Leave the swamp and return to Gearen Help Center. Now that we've found 35 Zygarde cells, Mei and Ayuda will give us the *Soothe Bell*! This can cut down on the number of friendships berries we need to use from now on. Our next target is 45.
-
-Enter the Magnolia library and talk to Zumi again. Now that we have Mareep, we will be given an **Aevian Mareep** as well at 6 *Exp. Candy M*. Our next quest is for Toxel.
-
-Remember that impossible fight in the Aqua Building? Well, I was able to beat it at this point, so why not give it a shot. Not essential to get done now, but if you can, why not.
-
-Challenger Mercury (No Field)
--   Abra, Level 10. @ Focus Sash.
-    -   Light Screen
-    -   Thunderwave
-    -   Trick Room
-    -   Reflect
--   Kadabra, Level 45. @ Red Card.
-    -   Psychic
-    -   Energy Ball
-    -   Shadow Ball
-    -   Calm Mind
--   Alakazam, Level 85. @ Twistedspoon.
-    -   Psychic
-    -   Dazzling Gleam
-    -   Toxic
-    -   Recover
-
-You could use the Kadabra and Abra to set up a sweeper, or just use something that can live Alakazam's two attacks and hit hard. A Shedinja can also work - let it get paralyzed by Abra, then Alakazam can't touch it, though Kadabra can. If you win against her, you can get *Star Shard 2*.
-
-I recommend taking another trip to the AP shop. If you haven't gotten the Exp. All or the Golden Axe, Hammer, Surfboard, and Claws, do so ASAP. On deck will be the Golden Driftboard and the Golden Gauntlet.
-
-Head to Sheridan Village, and enter Route 3. Using Flash if you want, head back to the Poliwag area of Phasial Cave. Now that we've found all six, we can catch **Poliwag**!
-
-Head back out and into Goldenleaf Town. Enter Narcissa's Gym and talk to the guy at the front. Make your way all the way back through Backstage Theatre and enter the mirror.
-
-Enter this door at the top, then interact with the painting up here. Follow Mew out of the room, through the mirror to get the *Odd Key*, and to the Lost Castle.
-
-Here, we're going to want to read all the books and keep track of all the numbers. Head up the stairs and talk to Dusclops, and enter the following: 0044, 6677, 3645, 9043, 7171. Enter the next room and get ready for a series of battles. It's a gauntlet of 3, but nearly everything that is used is ghost, psychic, and/or dark type, so you should be able to take them out with ease with the right coverage. Shatter the bubble.
-
-Return to town and enter the eastern house. Talk to the guy and send him to Kristiline Town. Then, enter Wispy Ruins through the Wispy Tower area entrance. Climb the rocks and head down the ivy into Wispy Chasm.
-
-Wispy Chasm Depths
-
-| Cave              | %        | Water        | %        |
-|-------------------|----------|--------------|----------|
-| Golett            | 40       | Frillish     | 100      |
-| Baltoy            | 20       |              |          |
-| Graveler          | 15       |              |          |
-| Yamask (Galarian) | 14       |              |          |
-| Claydol           | 6        |              |          |
-| Xatu              | 5        |              |          |
-
-| Old Rod         | %        | Good Rod        | %   |
-|-----------------|----------|-----------------|----|
-| Frillish        | 70       | Whiscash        | 60 |
-| Barboach        | 30       | Frillish        | 20 |
-|                 |          | Corphish        | 20 |
-
-Head all the way down, picking up hidden *Dark Gem* as you go. Around the bottom is the 6-badge gate. Open the chest inside to get **Scraggy**!
-
-In the chasm room, head towards the middle then go down to get a *Rare Candy* and *TM65 Shadow Claw*. Surf across up above to get to the 3-badge gate. Open the chest to get a *Shiny Stone*.
-
-Head back up the ivy, enter the room on the right, and go back down. There is a hidden *Yellow Shard, Ghost Gem*, and *Reverse Candy* Grab the *Poke Doll* when you go down. Surf to the south to get to the 7-badge gate. Open the chest to get an *Odd Keystone*.
-
-Exit the ruins and make your way back to Akuwa Town. Enter Evergreen Forest and climb the rocks to get an *Icy Rock*.
-
-## Amethyst Cave 2nd Visit
-
-Head to Route 2 and enter Amethyst Cave. Start by going to the room up from the first, where there is water and where we got a cell and activated a panel once upon a time. Head down from the panel and rock climb to get *TM01 Work Up*.
-
-Next, enter the room to the right of this one, and rock climb down next to the waterfall. Talk to April, then activate Panel 3 to the right. Grab the hidden *Rock Gem, Steel Gem*, and *Water Gem*. Head down from here and talk to April again.
-
-ZCell 041: Amethyst Cave
-
-<img src="/assets/images/rejuv/image42.png"/>
-
-Return to the entrance of the cave from Route 2. Take the stairs to the right, then head across the first bridge on top. Rock climb here, pick up the hidden *Zinc*, and head in.
-
-Amethyst Cave (Rock Climb Areas)
-
-| Cave          | %        | Water          | %        |
-|---------------|----------|----------------|----------|
-| Graveler      | 34       | Remoraid       | 65       |
-| Woobat        | 20       | Barboach       | 30       |
-| **Swoobat**   | 20       | Whiscash       | 4        |
-| **Sandslash** | 15       | Octillery      | 1        |
-| Dugtrio       | 9        |                |          |
-| Carbink       | 2        |                |          |
-
-| Old Rod         | %        | Good Rod        |  %       |
-|-----------------|----------|-----------------|----------|
-| Remoraid        | 70       | Seaking         | 60       |
-| Barboach        | 30       | Barboach        | 20       |
-|                 |          | Octillery       | 20       |
-
-Exit on the bottom doors to the left to meet Alisha, the ninth and final *lost kid* for the Lost Camp! There is a hidden *Carbos* here.
-
-Back up from here, grab the *Elixir* and enter the cave on the left.
-
-Security Drone Regirock (Crystal Cavern Field)
--   Regirock, Level 60. @ Lum Berry. 2 Shields.
-    -   Stone Edge
-    -   Rest
-    -   Curse
-    -   Earthquake
-
-Not impossible if you can lower its attack with a burn or something similar!
-
-Activate Panel 4, then head to the upper right door and enter for a similar battle!
-
-Security Drone Registeel (Crystal Cavern Field)
--   Registeel, Level 60. @ Lum Berry. 2 Shields.
-    -   Thunder Wave
-    -   Rest
-    -   Curse
-    -   Iron Head
-
-Grab the *Moon Dial* and activate Panel 5 here, then head down the ladder on the left. Grab hidden *Rock Gem, Super Repel, and Ether*.
-
-Talk to the ex-Xen Grunt in the open area. Head down the ladder here and activate Panel 6 on the right.
-
-Head down and rock climb down from here. We're gonna need to smash the crystals in this new area somehow: the wild Geodude have Magnitude and can do it, alternatively, if you have the Bulldoze T.M. then you can use that. Once you succeed, head down to the bottom of this area and interact with this crystal for a chance to catch **Aevian Lapras**!
-
-With all six panels activated, head back to the Xen grunt and activate the machine. The Xen guy will head up, so grab the hidden *PP Up* and climb the ladder. Grab the Rift Notes and prepare yourself.
-
-Talk to the Grunt and save in front of the statue. Talk to the grunt again, and you'll have to fight:
-
-Lingering Regret Nancy (Mountain Field)
--   Whimsicott, Level 51. @ Focus Sash.
-    -   Moonblast
-    -   Hurricane
-    -   Giga Drain
-    -   Tailwind
--   Mr. Mime, Level 53. @ Wise Glasses.
-    -   Hidden Power Fairy
-    -   Thunder Wave
-    -   Psychic
-    -   Icy Wind
--   Galarian Weezing, Level 52. @ Black Sludge.
-    -   Flamethrower
-    -   Sludge Bomb
-    -   Shadow Ball
-    -   Strange Steam
--   Gardevoir, Level 53. @ Babiri Berry.
-    -   Psychic
-    -   Moonblast
-    -   Mystical Fire
-    -   Calm Mind
--   Sylveon, Level 55. @ Leftovers.
-    -   Psyshock
-    -   Calm Mind
-    -   Shadow Ball
-    -   Hyper Voice
-
-This is an easy team to beat if you were able to beat Angie! It doesn't really have a ton of good answers for a solid Steel / Poison move core.
-
-Dimensional Rift Chandelure (Mountain Field)
--   Chandelure, Level 58. @ Demon Stone. 1 Shield. Stats:
-    110/25/69/200/110/100
-    -   Power Gem
-    -   Ominous Wind
-    -   Icy Wind
-    -   Heat Wave
-
-This thing has Protean, so if you can swap its type away from fire, it will actively take damage from the field. A team of six that can survive its attacks can wear it down easily, especially if any of your mons have a lot of Sp. Def. With its 100 base speed, it will outspeed most of your Pokemon, so Trick Room trivializes this fight.
-
-Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Hidden around is a *Rare Candy, Elixir, Iron*.
-
-At night, you'll find:
-
-ZCell 042: Cliffside Grave (Night ONLY)
-
-<img src="/assets/images/rejuv/image43.png"/>
-
-Interact with the grave at the top and insert the Cursed Candle we got a while ago to obtain **Litwick**!
-
-Return to the basement level to talk to April. She'll give us the *Phase Dial*! Head in and go up.
-
-Chaotic Fusion Solrock (Crystal Cavern Field)
--   Fused Solrock, Level 50, 2 Shields.
-    -   Rock Slide
-    -   Zen Headbutt
-    -   Cosmic Power
-    -   Solar Flare
-
-It's easy with a good super effective move! Now you can use the Phase Dial to fuse your own Solrock and Lunatone.
-
-That's all we can do in this area for now.
-
-## Lost Camp Pt. 2
-
-Now, we should have found all nine kids. Ctrl + F the phrase "lost kid" in the guide to get any that you missed. So, head back to Route 4, and enter the lost camp.
-
-Donate the last $7500 to Maman. After a scene, head back outside and take the truck to Sheridan Village.
-
-## Carotos Mountain 2nd Visit
-
-Head up to Sheridan Arena and head up to the house formerly belonging to Keta.
-
-Talk to Texen in the lower room, then choose your team of three in the upper room for a battle.
-
-Gym Leader Texen (Big Top Arena)
--   Hitmonchan, Level 49. @ Coba Berry.
-    -   Fake Out
-    -   Mach Punch
-    -   Ice Punch
-    -   Thunderpunch
--   Passimian, Level 49. @ Salac Berry.
-    -   Acrobatics
-    -   Close Combat
-    -   Rock Slide
-    -   Endure
--   Emboar, Level 50. @ Charcoal.
-    -   Heat Crash
-    -   Wild Charge
-    -   Sucker Punch
-    -   Brick Break
--   Toxicroak, Level 50. @ Poison Barb.
-    -   Poison Jab
-    -   Sucker Punch
-    -   Ice Punch
-    -   Drain Punch
--   Machamp, Level 51. @ Black Belt.
-    -   Rock Tomb
-    -   Bullet Punch
-    -   Cross Chop
-    -   High Horsepower
--   Infernape, Level 53. @ Charcoal.
-    -   Fire Punch
-    -   Thunderpunch
-    -   Rock Slide
-    -   Mach Punch
-
-Luckily Aelita's team is pretty good here: Quick Guard support and Reflect will basically guarantee you a win. Win and head into Carotos Mountain. Talk to Aelita at the HQ, then head down right to the elevator. Head over to fight SEC for the last time and catch his Shadow Slakoth.
-
-Corrupted Cave
-
-| Cave             | %        |
-|------------------|----------|
-| Salandit         | 30       |
-| **Golbat**       | 25       |
-| Zubat            | 20       |
-| Seviper          | 14       |
-| **Muk (Alolan)** | 9        |
-| **Torkoal**      | 1        |
-
-You'll also find **Alolan Grimer** and **Garbodor** walking around in certain parts. Aelita will join us!
-
-Hidden in the first map is a *Poison Gem* and 2 *Super Repels*. Follow the path down and to the left. Talk to the maids, and defeat Deborah.
-
-After this scene, follow Aelita into the room to the left, then climb the vines to enter the room to the right. Observe the position of the blocks.
+ After this scene, follow Aelita into the room to the left, then climb the vines to enter the room to the right. Observe the position of the blocks.
 
 Set the blocks in the left room into this position, then enter the door. Enter the newly revealed room and prepare for a fight.
 
@@ -1182,3 +759,117 @@ Relationship Points are granted based on the conditions under which you end this
 Anyways, this battle isn't super tough, but it can still be tricky. Her Toxtricity can hit hard once it boosts its Sp. Atk. with Throat Spray, and Chandelure hits hard as always. Speed Boost Blaziken can also be threatening. As Jan says, if you can change the field, you'll be golden. Mountain Field, Icy Mountain, Water Surface, Underwater can all be useful fields you can use against her in a chain. You can also turn it to Sky Field with a single use of Bounce! Even if you don't, a good Earthquake user or two with something to take out the Air Balloons can do a number on her team.
 
 Win to get the Lyric Badge, which lets us hit Level 60, and *TM50 Overheat*! Head outside and watch the cutscene.
+
+TODO 
+Enter the Magnolia library and talk to Zumi again. Now that we have Mareep, we will be given an **Aevian Mareep** as well at 6 *Exp. Candy M*. Our next quest is for Toxel.
+
+
+Head to Sheridan Village, and enter Route 3. Using Flash if you want, head back to the Poliwag area of Phasial Cave. Now that we've found all six, we can catch **Poliwag**!
+
+
+
+### HQuest 18: Lighthouse
+
+Talk to the ranger on the boat dock of Kristiline Town to get the *Lighthouse Key*.
+
+Take the ranger teleporter to Terajuma Shore, and surf around to the lighthouse. Enter, and go up.
+
+Read the note, and remember the code ends in 67.
+
+Head all the way north to Route 5 and enter this lighthouse. Read the note, and remember the code starts with 98.
+
+Enter Aquamarine Cave from the west, and head into the cave with the big door. Rock Climb up to get *TM20 Safeguard*!
+
+Go to where Amber fell into a hole. Jump down, and surf to the right. Rock climb up here.
+
+Hidden up here is *Green Shard, Rock Gem, Blue Shard*. There is also a visible *Sea Incense* at the top, and a *Link Heart* towards the center at the bottom.
+
+Make your way to the ladder in this area and go up. *Fresh Water*, *Water Gem*, *Dive Ball* are hidden here. Exit this room at the top to reach the Secluded Shore. Talk to Dylan, then head up. Here you'll find Poliwag \#6!
+
+Enter this lighthouse and go up. Read the note to learn that the Ampharos are in Jirukala Cavern!
+
+Exit, and head up. We can explore this new bit of Route 6 if we want. Here you'll find Kingler and Hoppip, but also:
+
+ZCell 039: Route 6
+
+<img src="/assets/images/rejuv/image40.png"/>
+
+Add , and return to the area above where we fought Valarie in Terajuma Jungle. Enter Jirukala Cavern here, and rock climb up.
+
+In the trees here, you can headbutt! You have an 11% chance each to get 3 *Oran, Sitrus, and Leppa Berries*, but also an 11% chance to get **Greedent**, 22% chance to get Skwovet, and 33% chance to get **Applin**!
+
+Pick up *Green Shard*, then, on the right, grab *Modest Mint* and *TM131 Bullet Seed* then head down.
+
+Enter the password 9867 into the door. Beat the grunts, then the ranger will take the Ampharos back.
+
+Pick up:
+
+ZCell 040: Jirukala Cavern
+
+<img src="/assets/images/rejuv/image41.png"/>
+
+Completing this quest also gives us access to some stationary water Pokemon for GourmetTreats - but only at night. Head to Terajuma Shore to get **Staryu**, to Route 6 to get **Clamperl**, and Route 5 to get **Slowpoke**.
+
+While we're up on Route 5, Rock Climb here to get a *Adamant Mint*, and access to Jeminra Cave but without the need for Safari Balls. Grab the *TM144 Cross Poison* inside.
+
+Rock Smash one of the rocks here, and use Purify in the battle. Any Pyukumuku we've found so far should have it. Then, exit the cave and re-enter through the Safari Zone. Surf through the cave. Chase **Wimpod** into the bottom left corner for a battle!
+
+Return to the help center to get: $6245, *Revival Herb*, and **Mareep**. (+1 Karma)
+
+
+
+### HQuest 20: Defend Me!
+
+Head into Aquamarine Cave, and head to the large open basement room.
+
+Head west from where Amber's bed was, then surf to the west side of the room. Beat all the AA grunts in here.
+
+Return to the help center to get $4000 and *Mystic Water*.
+
+### HQuest 21: Research
+
+Head outside and talk with Dr. Jenkel. We must find and talk to 7 people all around the island.
+
+- Enter the house directly to the left of the dock bridge in Kristiline. Talk to the old lady.
+- Enter the Kristiline mart, and talk to the girl in the aisles.
+- Enter the south middle villa in Teila Resort, and talk to the lady on the left side.
+- talk to the hiker hiding behind the south left villa in Teila Resort.
+
+While you're in Teila, notice that there is a new Move Tutor on the east side:
+
+Teila Resort Move Tutor
+
+| Move      | Price         |
+|-----------|---------------|
+|Aqua Tail  |4 Blue Shards  |
+|Magic Coat |4 Blue Shards  |
+|Electroweb |4 Blue Shards  |
+
+Anyways,
+
+- Enter the construction hut in Terajuma Jungle and talk to the
+    guy on the couch.
+- Talk to someone in the middle house in the row of houses in Kakori village.
+- Talk to the other person in the same house.
+
+Then, head outside... After getting teleported, claim your rewards: *Exp. Candy L* and *Up-Grade*. (+1 Karma)
+
+### HQuest 22: ???
+
+Take a teleporter to Terajuma Shore. Surf up to the left of the shoreline, towards the strange house. Talk to Jenkel, then enter.
+
+Defeat the first few trainers, then grab the *Data Drive*.
+
+Head up, and you'll have to battle 6 Inkay ranging from Level 50 to 90. Really, if you don't let the 80/90 ones set up on you with Superpower, you'll be able to come out ahead.
+
+As a result, we now have access to the move relearner in Sheridan Village! Talk to the sister for a free *Heart Scale*.
+
+Now that we have the Data Drive, take the teleporter to return to Ranger HQ, and go into the hallway room 2nd from the right.
+
+Head up twice and interact with the upper left computer to battle Porygon!
+
+Return to the Kristiline Help Center to get your reward: **Inkay**!
+(+1 Karma)
+
+For completing all five, you will be gifted **Eevee**! (+1 Karma)
+

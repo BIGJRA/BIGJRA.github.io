@@ -44,7 +44,7 @@ If you refused to give Blake the Ruby Ring, you'll have another fight now.
 
 An interesting team for Samson, focusing this time on feminity in particular. Be careful of the numerous Focus Blasts, particularly on his Ultra Beast Pheromosa, which can easily set up on you. Lots of speed here so as usual I will suggest Trick Room.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - After refusing to give Blake the ring, defeat Umbral Samson (+1 Samson)
 
 Accept Alistasia's offer to return to the Nightclub.
@@ -111,7 +111,7 @@ Once you're done and try to head out of this area, if you gave Blake the Ruby Ri
 
 Ciel uses a team full of Flying types on New World Field, meaning they'll all have a speed advantage over grounded Pokemon but have weakened defenses. Celesteela will probably give you flashbacks to the Lin fight - it's as cruel as ever, this time with a Magical Seed to really amplify the Beast Boost shenanigans. With a Special Landorus Set, mega Pinsir with Priority, boosted Darkinium-Z Zapdos, and more... this is a tough team. I recommend abusing Power Gem / Rockinium-Z boosts, Magical Seeds of your own, and Trick Room for this one.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - After giving Blake the ring, defeat Umbral Ciel (+1 Ciel)
 
 Head down from here, use the warp, and return to the Nightclub.

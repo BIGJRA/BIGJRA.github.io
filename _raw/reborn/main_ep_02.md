@@ -32,7 +32,7 @@ When you're ready, talk to Victoria on the right side of Opal Bridge.
 
 Head into the Central Salon. Inside, you'll find a friendship checker as well as a groomer who will raise your Pokemon's friendship for $1500. Do this once if you have the money.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Get at least one massage at the Central Salon (+1 Serra)
 
 A lady on the right will ask to see a Pokemon with maximum friendship. Your starter is likely here by now if it's stayed in your party the whole game so far, you've done all the sidequests, and you haven't let it faint too much. If you do show her one, you'll get the *Soothe Bell*! Helpful if you want to accelerate the evolution of your Igglybuff, Woobat, etc.
@@ -134,7 +134,7 @@ If you talked to Victoria near the park earlier, head up and talk to Victoria fo
 
 Her Torracat likes to try to set up on you, so be careful of that. Otherwise her team isn't anything too crazy - Ralts and Pichu are pretty weak and you can set up on them.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Victoria in the Slums (+1 Victoria)
 
 After that's done, head down the escalator to the right. There are encounters in this area.
@@ -522,7 +522,7 @@ Head upstairs to grab the *Desert Field Readout*!
 
 Head downstairs from here, head out to the main hall and go downstairs again.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Yes (+1 Hardy)
 
 Enter the door above and to the right and talk to the girl for a *Telluric Seed*. Unlock this gate for a backtrack shortcut. Head to the left.
@@ -625,7 +625,7 @@ Completing this quest rewards you with the *Rainbow Scent*, an item that control
 
 After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defeating them will now yield 4 *Exp. Candy S*! The updated teams are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 5])
 
@@ -633,27 +633,27 @@ After defeating Julia, the trainers in the Grand Hall have gotten stronger. Defe
 
 !battle(["Fawkes", :COOLTRAINER_Male, 5])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 5])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 5])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 5])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 5])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 5])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 5])
 

@@ -105,23 +105,23 @@ Back outside, talk to the ringmaster in the upper left corner. Make your way to 
 
 Finally, talk to Samson next to the high striker.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Samson as he clears the way, when the player is female (+1 Samson)
 
 Head in to the Big Top, and talk to Aya on the couch. After a conversation you'll get the *Powder Vial*.
 
 Head out, then come back in to have some conversations for relationship points if you'd like.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Aya (+1 Aya)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Cain (+1 Aya)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Ciel (+2 Samson, -1 Ciel)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Samson (+2 Ciel, -1 Samson)
 
 While we're in the big top, if you talk to a clown in the audience, they'll fight you.
@@ -297,7 +297,7 @@ In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, 
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - If you saw Titania on Route 1, tell her you'll keep the secret (+1 Titania)
 - If you saw Titania on Route 1, tell her you won't keep the secret (-1 Titania)
 
@@ -315,19 +315,19 @@ The ringmaster has a team of circus-themed Pokemon that like to use the field ef
 
 Enter the circus back room. Once more we can have multiple conversations for relationship points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Aya (+1 Terra)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Cain (+1 Aya)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy (+1 Aya)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Terra (+1 Terra)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Ciel (+1 Terra)
 
 Save and talk to Samson when you're ready for a fight.
@@ -338,7 +338,7 @@ Ooh boy, time for Samson. When I first played Reborn I was stuck on this fight f
 
 Ok, so Samson crushed me when I was younger, but that was before I read the field notes for Big Top Arena and realized how much you can do back to him! If nothing else, notice that what I mentioned about his Lucario's Acrobatics earlier holds true for you as well - the move pretty much wipes his whole team if you are able to use it (or Nature Power, which becomes it). You can also use the High Striker moves yourself to hit hard if you want - notable users include Guts Medicham, Guts / Sheer Force Conkeldurr, and Sky Drop Sheer Force Braviary, all of which are available nearby! There are also a ton of moves that are boosted on this field otherwise: sound moves like Hyper Voice and Boomburst, and other moves like Petal Dance, Power Whip, Fly, and Revelation Dance, to name a few. Speaking of the latter, a Pokemon with Dancer gets +1 Spe and +1 SpA whenever they use a dancing move... a good combo there for a certain Pokemon. If you are able to get away with boosting yourself, Swords Dance, Dragon Dance, and Quiver Dance are all boosted, meaning you can get your own sweeper going fairly easily. Rain lasts 8 turns, Sing has perfect accuracy now, Belly Drum grants defense boosts... there are just so many crazy things that you can use on this field! Even if you don't want to abuse the field, fast Psychic and Flying types are still solid choices to deal with his slower team members and you can always use something like priority moves or Sturdy + Counter for the tricky ones if need be.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Samson on your first try (+2 Ciel)
 - Defeat Samson on your second, third, etc. try (-1 Ciel)
 

@@ -2,7 +2,7 @@
 
 Back inside, talk to the crew here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Laura on the couch (+1 Laura)
 
 Next, talk to Noel in the stairs room. You'll hear a (non-Julia induced) boom, indicating it's time to return to Tanzan Mountain once more.
@@ -137,7 +137,7 @@ You can get the *Chess Board Field Readout* as well as hidden *Ice Gem*, *Red Sh
 
 Heal and prep your team, then enter the next room. Here we can pet Umbreon for the quest, but make sure you do this now since this is a limited time petting opportunity!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Pet Luna's Umbreon (+1 Luna)
 
 Anyways, talk to Luna.
@@ -150,7 +150,7 @@ Anyways, with all that said, Cain doesn't really have a ton of optimization here
 
 Anyways, once you win, we can talk to Luna.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Luna after G. Gardevoir is captured (+1 Luna)
 
 Head back out and talk to Radomus and Cain again. Then exit via the labyrinth, hop on a Tauros and make your way all the way down the route to the Grand Stairway that was empty earlier. Note that we will need to win another one of those "impossible story battles" coming up soon to keep open our options for a postgame route, so plan your team accordingly.
@@ -177,11 +177,11 @@ Enter the building here. We can use our Ruby Ring to access a door. Inside, you'
 
 After the puzzle, go through the teleporter. You can actually make your way back through the purple teleporter to grab a *Exp. Candy XL*. With that, head up and into the door.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Agree to give Adrienn the ring (+1 Adrienn, -1 Cain)
 - Refuse to give Adrienn the ring (-1 Adrienn, +1 Cain)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Speak to Adrienn about the pronouns when the player is Non-binary (+1 Adrienn)
 
 Note that we will eventually get points for free for being the other genders too. Enter the red door for another logic puzzle.
@@ -205,7 +205,7 @@ Once you're ready, talk to El at the top. You will have to choice between siding
 
 One thing to note is that Judgement will cycle between gaining Fire, Water, Grass, and Psychic type bonus damage. Using that fact, lowering its special attack, or using one of the strategies we've seen so far to deal with these 6v1 "impossible" fights should suffice if you want to win.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Side with El and lose (+3 Elias, +1 Adrienn, -3 Gardevoir, -2 Luna, -2 Radomus)
 - Side with El and win (+1 Cain, +2 Elias, +2 Adrienn, -2 Gardevoir, -2 Luna, -2 Radomus)
 - Side with Radomus and win (+2 Radomus, +2 Luna, +3 Gardevoir, +1 Anna, +1 Shade, +1 Cain, -1 Adrienn, -2 Elias)
@@ -266,7 +266,7 @@ Back outside, go down then right. You'll see another Honey tree (D) - defeat Pin
 
 Hop on a Tauros, and enter 5N to the right. Pick up the hidden *Red Shard*, and witness the conversation to the right.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say you did see that just now (-1 Titania)
 - Say you didn't see that just now (-2 Titania)
 
@@ -342,7 +342,7 @@ We've gotten some of these already but sheesh finally some mildly decent non-con
 
 By defeating Noel, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L.* The updated teams are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 2])
 
@@ -350,27 +350,27 @@ By defeating Noel, trainers in the Grand Hall have gotten stronger once more. De
 
 !battle(["Fawkes", :COOLTRAINER_Male, 2])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 2])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 2])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 2])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 2])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 2])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 2])
 
@@ -386,7 +386,7 @@ After talking to the group at the entrance, go up two rooms. Radomus will explai
 
 Talk to Elias here for more details on the puzzle, etc.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Ask Elias about himself (+1 Elias)
 
 The screen in here will also tell us what our current team chess piece ranks would be in its current ordering, useful for planning for the upcoming fight.
@@ -400,7 +400,7 @@ Anyways, it's time to clear all the chess puzzles. I will spoiler the solutions.
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solution to Chess Puzzle #1</a>
 </div>
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Get the first chess puzzle right on your first try (+1 Radomus)
 
 !battle(["Parsley", :PSYCHIC_Female, 0], "Chess Board")

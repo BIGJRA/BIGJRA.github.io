@@ -42,7 +42,7 @@ Head in and you'll be partnered up with Victoria.
 
 !partner(["Victoria", :Victoria, 5])
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Try to leave Pyrous while partnered with Victoria (-2 Victoria)
 
 !dbattle(["Ama", :MeteorGrunt, 1], ["Christopher", :MeteorGrunt, 1], "Super-Heated Field")
@@ -75,7 +75,7 @@ This is an "impossible battle" in the normal sense that the story will progress 
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for Garchomp strategies</a>
 </div>
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Solaris on Pyrous (+1 Cain, +1 Victoria, +1 Cal, +1 Shade, +1 Anna, +3 Taka)
 
 Return to Reborn City after the scenes here conclude.
@@ -84,7 +84,7 @@ Return to Reborn City after the scenes here conclude.
 
 Once more, trainers in the Grand Hall have gotten stronger. Defeating them will now yield 5 *Exp. Candy L*, so grinding weaker team members is much easier. The updated teams are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 1])
 
@@ -92,27 +92,27 @@ Once more, trainers in the Grand Hall have gotten stronger. Defeating them will 
 
 !battle(["Fawkes", :COOLTRAINER_Male, 1])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 1])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 1])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 1])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 1])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 1])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 1])
 
@@ -150,7 +150,7 @@ Fern is back with a full team. His general strategies remain the same: Krookodil
 
 Past the Ground types, a Poison type can abuse the field to sweep the fight. Nature Power turns into Gunk Shot and, as an added bonus, is immune to Sucker Punch. Once you can get past Roserade he doesn't have an incredible amount of speed so a boosted sweeper can probably succeed here.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Defeat Fern on the first try (+1 Aya, +1 Hardy)
 
 Before doing the gym battle, there is some side content. Turn all the canisters in the wasteland red if you want to explore the Byxbysion Tunnels.
@@ -193,7 +193,7 @@ Aya is another difficult doubles gym leader. For one, the field boosts her all-t
 
 The key to this battle in my experience is letting Toxapex hang out on the left side, especially if you can lower its Special Attack or put it to sleep.  Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. With two moves per turn focusing on the Pokemon to its right, you may be able to preserve momentum long enough to come out on top. For that reason, putting Psychic type attackers, and/or Steel/Poison type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively and the other two neutrally. You can also use your own entry hazard spam, standard doubles strategies like Wide Guard and Protect, or the Telluric seed to boost a sweeper.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Beat Aya on the first try (+1 Hardy, +1 Fern)
 
 Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 50 cap finally. We also get to use Strength in the field, finally!

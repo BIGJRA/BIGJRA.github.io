@@ -2,10 +2,10 @@
 
 Head outside the big top. Before we fly back to Reborn City and other previously inaccessible areas, we can snag a new more points.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Hardy on Route 4 (+1 Hardy)
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Talk to Cain in Calcenon City (+1 Cain)
 
 ## Tanzan Cove Water Exploration
@@ -665,7 +665,7 @@ Once you win this gauntlet, fly back to Lapis Ward and put Vanillite into your p
 
 With all five Pokemon returned, return to DJ Arclight. Your prize will be the *Mega-Z Ring* - meaning we can now use the collection of Z-Crystals and Mega Stones that we've been building up. We will be getting more of these as well.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Complete the Mega-Z Ring Quest (+2 Arclight)
 
 ## Devon Corporation
@@ -676,13 +676,13 @@ Arc can be found outside his nightclub, Victoria in the Beryl Cemetery, and Adri
 
 Enter the Underground Railnet and make your way to the room with the tracks that can be manipulated, then go into the second from the top path that leads to the room containing Aron - you'll know you're on the right track when you see an Absol.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Arclight you're ready to infiltrate Devon (+1 Victoria)
 - Tell Arclight you're not ready to infiltrate Devon (-1 Victoria, -1 Arclight)
 
 Talk to Arc and Victoria when you're ready, then go up the stairs and defeat the grunts! Note that your battle partner is decided by how many points with each character you have right now: you'll get Victoria if her score is at least two points higher than Arclights, and him otherwise.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Battle with Victoria in the Devon Basement (+1 Victoria)
 - Battle with Arclight in the Devon Basement (+1 Arclight)
 
@@ -726,7 +726,7 @@ You can turn off the electric tiles in the top right side of the area at monitor
 
 !shop("Devon Dungeon Vending", ["Common Candy"])
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Tell Arclight you will fight (+1 Victoria, +1 Arclight)
 - Tell Arclight you refuse (+2 Adrienn, -1 Victoria, -1 Arclight)
 
@@ -758,7 +758,7 @@ One more puzzle room for now. Follow the ropes to go up and pop out at the top o
 
 Activate monitor #2, go up to activate monitor #3, then go back down to turn off monitor #2. From here, all you need to do is go up onto the green tile path left into the bottom spinner - it will send you into chain reactions of spinners. Activate monitor #4 when you reach it, then go back to the left. Do the same for monitor #5. Turn the electric tiles to blue before continuing, then make your way up the massive chain to monitor #6. Go right and activate monitor #7, then go up. Activate monitor #8 and head into the next room when you are ready.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say you did come to destroy everything here (-1 Eve, -1 Lumi)
 - Say you didn't come to destroy everything here (+1 Eve, +1 Lumi)
 
@@ -818,7 +818,7 @@ One more quick thing if you'd like: Fly on over to Calcenon City and go to Route
 
 Now that we are back in Reborn City, trainers in the Grand Hall have gotten stronger once more. Defeating them will now yield 6 *Exp. Candy L*. The updated teams are as follows:
 
-**Sunday:**
+**Sunday**:
 
 !battle(["Carol", :COOLTRAINER_Female, 4])
 
@@ -826,27 +826,27 @@ Now that we are back in Reborn City, trainers in the Grand Hall have gotten stro
 
 !battle(["Fawkes", :COOLTRAINER_Male, 4])
 
-**Monday:**
+**Monday**:
 
 !battle(["Jonah", :YOUNGSTER, 4])
 
-**Tuesday:**
+**Tuesday**:
 
 !battle(["Jace", :COOLTRAINER_Male, 4])
 
-**Wednesday:**
+**Wednesday**:
 
 !battle(["Silva", :PSYCHIC_Male, 4])
 
-**Thursday:**
+**Thursday**:
 
 !battle(["JB", :EXPERT_Male, 4])
 
-**Friday:**
+**Friday**:
 
 !battle(["Will", :TechNerd, 4])
 
-**Saturday:**
+**Saturday**:
 
 !battle(["Anthony", :EXPERT_Male, 4])
 
@@ -858,7 +858,7 @@ Now that we are back in Reborn City, trainers in the Grand Hall have gotten stro
 
 That's it for the side content, so head down to the Coral Ward and talk to Adrienn in their gym.
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Say you will become the champion (+1 Adrienn)
 - Say you will not become the champion (-2 Adrienn)
 
@@ -882,7 +882,7 @@ They will then ask us to help out with a quest. It's optional but pretty easy an
 
 Return to Adrienn after finding as many volunteers as you like. For finding at least 10, you'll get *Wise Glasses*! For finding all 15, you'll also get an *Ability Capsule* and a *Star Piece*!
 
-**Relationship Point Choices:**
+**Relationship Point Choices**:
 - Find 10-14 volunteers (+1 Adrienn)
 - Find all 15 volunteers (+2 Adrienn)
 
