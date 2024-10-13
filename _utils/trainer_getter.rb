@@ -225,11 +225,17 @@ class TrainerGetter
         if boss_data[:onEntryEffects] && boss_data[:onEntryEffects].keys != [:message]
           boss_data[:onBreakEffects][100] = boss_data[:onEntryEffects]
         end
+
         # Handles text parts of boss data
         mon_details_parts.push("Shields: #{boss_data[:shieldCount]}")
         if boss_data[:immunities] != {}
-          imms = boss_data[:immunities][:moves] + boss_data[:immunities][:fieldEffectDamage]
-          mon_details_parts.push("Immunities to #{imms.join(", ")}") 
+          if boss_data[:immunities][:moves] && boss_data[:immunities][:moves] != []
+            mon_details_parts.push("Immunities to moves: #{boss_data[:immunities][:moves].join(", ")}") 
+          end
+          if boss_data[:immunities][:fieldEffectDamage] && boss_data[:immunities][:fieldEffectDamage] != []
+            fields = boss_data[:immunities][:fieldEffectDamage].map {|f| FIELDS[f]}
+            mon_details_parts.push("Immunities to field damage: #{fields.join(", ")}") 
+          end
         end
         boss_data[:onBreakEffects].keys.sort.reverse.each do |shield_count|
           effs = boss_data[:onBreakEffects][shield_count]         
@@ -257,17 +263,20 @@ class TrainerGetter
 
             form_changes = []
 
-            new_type1 = new_form_data[:Type1] ? @typeHash[new_form_data[:Type1]][:name] : nil
-            new_type2 = new_form_data[:Type2] ? @typeHash[new_form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
-            if !new_type1 || (type1 != new_type1 || type2 != new_type2)
-              form_changes.push("Type => #{new_form_data[:Type1][:name]}")
-            end
+            if is_custom_form(form_key)
 
-            new_base_stats = new_form_data[:BaseStats] ? new_form_data[:BaseStats] : form_1_data[:BaseStats]
-            if new_base_stats != base_stats
-              form_changes.push('Base Stats => ' + new_base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', '))
+              new_type1 = new_form_data[:Type1] ? @typeHash[new_form_data[:Type1]][:name] : nil
+              new_type2 = new_form_data[:Type2] ? @typeHash[new_form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
+              if !new_type1 || (type1 != new_type1 || type2 != new_type2)
+                form_changes.push("Type => #{new_form_data[:Type1][:name]}")
+              end
+
+              new_base_stats = new_form_data[:BaseStats] ? new_form_data[:BaseStats] : form_1_data[:BaseStats]
+              if new_base_stats != base_stats
+                form_changes.push('Base Stats => ' + new_base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', '))
+              end
             end
-    
+      
             eff_strs.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
           end
           if effs[:fieldChange]
@@ -299,8 +308,9 @@ class TrainerGetter
           if effs[:statDropCure]
             eff_strs.push("Boss's stat drops are cured")
           end
-
-          eff_strs.push(effs[:playerEffects]) if effs[:playerEffects]
+          if effs[:playerEffects]
+            eff_strs.push("Effect added to player's side: #{effs[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+          end
           eff_strs.push(effs[:stateChanges]) if effs[:stateChanges]
           if effs[:playersideChanges]
             eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
@@ -331,6 +341,44 @@ class TrainerGetter
               eff_strs.push("Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
             end
           end
+          # The way delayed effects work is... janky. In any case I will deal with it here.
+          if effs[:delayedaction]
+            actions = []
+            tc = 0
+            curr = effs[:delayedaction]
+            while curr
+              tc += curr[:delay]
+              actions.push([tc, curr])
+              curr = curr[:delayedaction]
+            end
+            actions.each do |tc, act|
+              ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
+              if act[:playerSideStatChanges]
+                groups = {}
+                act[:playerSideStatChanges].each do |stat, lvl|
+                  groups[lvl] ||= []
+                  groups[lvl].push(stat)
+                end
+                groups.each do |lvl, stats|
+                  eff_strs.push("#{ts}Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+                end
+              end
+              if act[:playerEffects]
+                eff_strs.push("#{ts}Effect added to player's side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+              end
+              if act[:bossStatChanges] 
+                groups = {}
+                act[:bossStatChanges].each do |stat, lvl|
+                  groups[lvl] ||= []
+                  groups[lvl].push(stat)
+                end
+                groups.each do |lvl, stats|
+                  eff_strs.push("#{ts}Boss's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+                end
+              end
+            end
+          end
+
           result += "- #{eff_strs.join("\n- ")}"
           shield_break_details.push(result)
         end

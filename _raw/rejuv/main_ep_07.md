@@ -157,7 +157,14 @@ Talk to Melia inside the previous house and agree to sleep. Wake up, talk to the
 - ... (+1 Amber)
 - It's weird ass hell out here. (+2 Amber)
 
-Go right in Aquamarine Cave for a conversation.
+Go right in Aquamarine Cave for a conversation. Here you will decide if you **Trust Jenner** or not.
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    This causes some relationship points and other details of the story to change. It also contributes 10 out of the necessary 100 "bad ending points" to enter the Renegade Route far later into the game.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for a route spoiler</a>
+</div>
 
 !battle(["Jenner",:PROFJENNER,0], "Crystal Cavern")
 
