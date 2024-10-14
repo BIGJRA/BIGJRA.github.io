@@ -601,141 +601,86 @@ We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk t
 
 Enter the Magnolia library and talk to Zumi again. Now that we have Mareep, we will be given a **Mareep (Aevian)** as well at 6 *Exp. Candy M*. Our next target for *PictoZumi* is Toxel.
 
-Next, take the truck to Sheridan. Enter Carotos Mountain. Drift to the left and grab *TM36 Sludge Bomb*! Smash some rocks and drift to the right. Use two Blast Powders to get the **Cyndaquil** egg.
+Next, take the truck to Sheridan. Make your way to Route 3's Phasial Cave, and take the ladder across some water in the bottom right to return to the Poliwag area. Now that we've found all six, we can catch **Poliwag**!
 
-Enter the next room and make your way to Madelis' palace. Head down to the corrupted cave area. Magma Drift here and follow the path to a *Poison Barb*. Back on land, continue following the path to the southeast and you'll find another spot to Magma Drift on the right. Hidden along it is another *Poison Barb*. Follow the path to catch **Aevian Paras**!
+Take the time to ensure you have Metal Powder, a Poke Ball, and 3 Cell Batteries in your bag. Enter Carotos Mountain. Drift to the left and grab *TM36 Sludge Bomb*! Smash some rocks and drift to the right. Use two Blast Powders to get the **Cyndaquil** egg.
 
-------------------
+**ZCell 088: Carotos Mountain**
 
-The people of Akuwa Town have... FINALLY been returned to their home, so head to Akuwa Town.
+!img("zcell088.png")
+
+Head down to the corrupted cave area. Magma Drift here and follow the path to a *Poison Barb*. Back on land, continue following the path to the southeast and you'll find another spot to Magma Drift on the right. Hidden along it is another *Poison Barb*. Follow the path and use Spice Powder to catch **Aevian Paras**!
+
+Now that we have Madelis' key, enter the ladder up and right from the Sheridan Arena entrance to reach the V.G.C.R. Use the key on the right and enter this room.
+
+Here, we'll need to step on switches to progress. Follow the blue path to reach a machine containing the *Ancient Teachings*.
+
+!img("vgcr1.png")
+
+Next, we'll need to reach the room's center. Follow the green path to reach a machine. 
+
+!img("vgcr2.png")
+
+Insert the necessary items to get **Ralts**! Push the red button at the bottom to escape the room.
+
+Next, the people of Akuwa Town have FINALLY been returned to their home, so head to Akuwa Town.
+
+In the top left house, you'll get a *Synthetic Seed* and *Cleanse Tag*. The house down from here contains move tutors:
 
 The girl in the top right running in place can teach you some moves:
 
-Akuwa Town Outdoor Move Tutor
+!tutor("Akuwa Town Move Tutor (Bottom Right)", [["Fire Pledge", "3 Red Shards"], ["Water Pledge", "3 Blue Shards"], ["Grass Pledge", "3 Green Shards"]])
 
-| Move          | Price             |
-|---------------|-------------------|
-|Grass Pledge   | 3 Green Shards    |
-|Fire Pledge    |3 Red Shards       |
-|Water Pledge   |3 Blue Shards      |
+!tutor("Akuwa Town Move Tutor (Top Right)", [["Stomping Tantrum", "5 Red Shards"], ["Iron Tail", "5 Blue Shards"], ["Endeavor", "4 Green Shards"], ["Iron Defense", "3 Yellow Shards"], ["Lash Out", "4 Blue Shards"], ["Corrosive Gas", "3 Yellow Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
 
-Enter the ACDMC in the upper right. At the top left corner, you can trade in 10 of each color shard for the *Sail Fossil, Jaw Fossil, Skull Fossil*, and *Armor Fossil*. At the top right counter, you can revive any fossils you've obtained so far. So, that means you can now get: **Omanyte, Kabuto, Anorith, Lileep, Shieldon, Cranidos, Amaura, and Tyrunt**.
+!tutor("Akuwa Town Move Tutor (Top Left)", [["Fire Punch", "5 Red Shards"], ["Ice Punch", "5 Blue Shards"], ["Thunder Punch", "5 Yellow Shards"], ["Heal Bell", "3 Green Shards"], ["Burning Jealousy", "4 Red Shards"], ["Skitter Smack", "4 Green Shards"]])
 
-In the house on the left side of house there are two more Tutors.
+Enter Larry Locksmith's house below to get a *Nugget*. In a house to the right you can obtain *5 Quick Balls*. Enter the mart to see a scene with Karrina. She'll then give you a *Repel*.
 
-Akuwa Town Indoor Left Move Tutor
+!shop("Akuwa Town Mart", ["Ultra Ball", "Luxury Ball", "Hyper Potion", "GourmetTreat", "Repel", "Super Repel", "Max Repel", "Escape Rope"])
 
-| Move          | Price             |
-|---------------|-------------------|
-|Water Pulse    | 2 Blue Shards     |
-|Shock Wave     | 3 Yellow Shards   |
+Enter the ACDMC in the upper right. 
 
-Akuwa Town Indoor Right Move Tutor
+!shop("ACDMC", [["Sail Fossil", "10 Blue Shards"], ["Jaw Fossil", "10 Red Shards"], ["Skull Fossil", "10 Green Shards"], ["Armor Fossil", "10 Yellow Shards"]])
 
-| Move          | Price             |
-|---------------|-------------------|
-|Snore          | 2 Red Shards      |
-|Bounce         | 2 Blue Shards     |
-
-In the left house, someone will give you an *Elemental Seed*, the other a *Cleanse Tag*. In Larry Locksmith's house to the south, a guy will give you a *Nugget*! Enter the mart to see a scene with Karrina. She'll then give you a *Repel*.
-
-Akuwa Town Shop
-
-|Item          |Price|
-|--------------|-----|
-|*Ultra Ball*  |$1200|
-|*Luxury Ball* |$1000|
-|*Hyper Potion*|$1200|
-|*GourmetTreat*|$1500|
-|*Repel*       |$350 |
-|*Super Repel* |$500 |
-|*Max Repel*   |$700 |
-|*Escape Rope* |$550 |
-
-Enter the house to the right to get 5 *Quick Balls*.
-
-Head to any shop that sells regular Poke Balls and make sure you have one in your bag. Now that we have Madelis' key, take the boat over to Secret Shore. Head to the southwestern most island, and rock climb. Here begins a quest for two Hoenn Pokemon.
-
-1.  Talk to Mudkip on the southwest island (requires Rock Climb/Cut)
-2.  Talk to Mudkip on the southern middle island
-3.  Talk to Mudkip on the center right island (requires Cut)
-4.  Head to the back room of Xen Shadow HQ. Use Madelis' key to take the
-    train to the hidden lab.
-5.  Talk to the machine, and present your Metal Powder, 3 Cell
-    Batteries, and Poke Ball to obtain **Ralts**!
-6.  Exit out the door at the bottom, then head down to Mudkip. While
-    you're here, pick up a *Damp Rock* and a *Fighting Memory*, and a
-    hidden *Star Piece* to the south.
-7.  Surf up from here, and enter Xen Lab from its left side. The door is
-    sorta hard to see. Then exit to the south. Surf across and to the
-    right, and you can battle/catch **Mudkip**!
-
-
-This is all we can do for now, so when you're ready, head back to Teila Resort and enter the dance hall.
+At the top right counter, you can revive any fossils you've obtained so far. So, that means you can now get: **Omanyte**, **Kabuto**, **Anorith**, **Lileep**, **Shieldon**, **Cranidos**, **Amaura**, and **Tyrunt**.
 
 ## Lyric Badge
 
-Concert Hall Left Shop
+Make your way back to Teila Resort and enter Club S.T.F.U.
 
-|Item          |Price|
-|--------------|-----|
-|*Hyper Potion*|$1200|
-|*Super Potion*|$700 |
-|*Burn Heal*   |$250 |
-|*GourmetTreat*|$2000|
+*Special Scene: Calling Home* requires talking to Kreiss here.
 
-Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M*. You can also battle her. Talk to the girl at the top. She'll tell us about building hype. Do whatever you have to do to build the hype - talk to people, battle trainers, change the song with the guy on the right.
+!shop("Club S.T.F.U.", ["Hyper Potion", "Super Potion", "Burn Heal", "GourmetTreat"])
 
-After building some hype, an Audino trainer will appear. She uses level 55's, so you should be able to grind your team up if need be. You'll get 7 *Exp. Candy M* when you win.
+Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M*. Talk to the girl at the top. She'll tell us about building hype. Do whatever you have to do to build the hype - talk to people, battle trainers, change the song with the guy on the right. The battles here (note that major character fights are 2v2):
+
+!battle(["Lucina",:GUITARIST,0], "Concert Venue")
+
+!battle(["Reina",:TRENDYGIRL,2], "Concert Venue")
+
+!battle(["Crawli",:LEADER_CRAWLI,2], "Concert Venue")
+
+!battle(["Venam",:LEADER_VENAM,4], "Concert Venue")
+
+!battle(["Amanda",:TRAINER_AMANDA,4], "Concert Venue")
+
+!dbattle(["Alex",:POKEMONRANGER_F1,2], ["Sam",:POKEMONRANGER_M1,2], "Concert Venue")
+
+A breeder will show up at some point, too! Beating her grants *7 Exp. Candy M*.
+
+!battle(["Laila",:POKEBREEDER_F,0], "Concert Venue")
 
 Once you've hyped to the max, head into the battlefield.
 
-Music Enthusiast Amber (Volcano Top Field)
--   Camerupt, Level 53. @ Focus Sash.
-    -   Fever Pitch
-    -   Hidden Power Electric
-    -   Earthquake
-    -   Lava Plume
--   Arcanine, Level 54. @ Assault Vest.
-    -   Bulldoze
-    -   Magma Drift
-    -   Wild Charge
-    -   Close Combat
--   Flareon, Level 54. @ Telluric Seed.
-    -   Magma Drift
-    -   Toxic
-    -   Rest
-    -   Fever Pitch
--   Blaziken, Level 53. @ Air Balloon.
-    -   Fever Pitch
-    -   Hi Jump Kick
-    -   Thunder Punch
-    -   Protect
--   Chandelure, Level 53. @ Air Balloon.
-    -   Magma Drift
-    -   Shadow Ball
-    -   Energy Ball
-    -   Flame Charge
--   Aevian Toxtricity, Level 55. @ Throat Spray.
-    -   Hidden Power Grass
-    -   Thunder
-    -   Boomburst
-    -   Fever Pitch
+!battle(["Amber",:LEADER_AMBER,0], "Concert Venue")
 
-Fever Pitch: Fire \| Special \| 70, 100, or 130 power depending on Hype level \| 100% accuracy \| Can be used even when asleep, and wakes up all sleeping Pokemon on the field \| On Volcanic Top Field, power is boosted x1.2 and triggers an eruption \| Two uses transforms Cave Field into Volcanic Field.
+!move("FEVERPITCH")
 
-Relationship Points are granted based on the conditions under which you end this battle:
--   End the battle on Snowy Mountain field (-2 Amber)
--   End the battle with \<300 Hype (-4 Amber)
--   End the battle with \>= 300 Hype (+3 Amber)
+**Relationship Point Choices**:
+- End the battle on Concert Field Lv. 1 (-2 Amber)
+- Beat Amber on any other field than Concert Lv. 1 (+3 Amber)
 
-Anyways, this battle isn't super tough, but it can still be tricky. Her Toxtricity can hit hard once it boosts its Sp. Atk. with Throat Spray, and Chandelure hits hard as always. Speed Boost Blaziken can also be threatening. As Jan says, if you can change the field, you'll be golden. Mountain Field, Icy Mountain, Water Surface, Underwater can all be useful fields you can use against her in a chain. You can also turn it to Sky Field with a single use of Bounce! Even if you don't, a good Earthquake user or two with something to take out the Air Balloons can do a number on her team.
+It's time for the second gym battle on the Concert Venue, though this time under different circumstances. Most notably, Fever Pitch, Magnitude, and Reversal all hit for full damage on the high levels of the Concert Venue, so you're going to take lots of damage. Depending on how much you care about relationship points, you can get away with intentionally nerfing the Concert Venue and using Stomping Tantrum for huge damage. There are lots of ways to do so: intentionally missing low-accuracy moves works, raising Evasion works, moves like Play Nice and Tickle will work as well. If you're going to stick it out on the maximum hype field - use the field's tools to your own advantage: max power Magnitude is a fantastic choice if you can get around the Air Balloons.
 
-Win to get the Lyric Badge, which lets us hit Level 60, and *TM50 Overheat*! Head outside and watch the cutscene.
-
-TODO 
-
-
-
-Head to Sheridan Village, and enter Route 3. Using Flash if you want, head back to the Poliwag area of Phasial Cave. Now that we've found all six, we can catch **Poliwag**!
-
+Win to get the Lyric Badge, which brings the level cap up to Lv. 60, and *TM50 Overheat*! Head outside and watch the cutscene.

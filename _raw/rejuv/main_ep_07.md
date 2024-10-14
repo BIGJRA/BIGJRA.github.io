@@ -44,7 +44,7 @@ Continuing on, snag the hidden *Rock Gem* and *Synthetic Seed*.
 
 !battle(["Sami",:FISHERMAN,0], "Crystal Cavern")
 
-Go surfing north and pick up the hidden *Exp. Candy M*. On the left, mine the rock and use a Blast Powder to reach a *Lax Mint* and hidden *Big Pearl*. Behind another rock is a hidden *Exp. Candy L*, not necessarily worth using Blast Powder on. Head down the ladder at the bottom.
+Go surfing north and pick up the hidden *Exp. Candy M*. On the left, behind a mining rock is a *Lax Mint* and hidden *Big Pearl*. I will recommend saving the Blast Powder to get these items for later, however. Behind another rock is a hidden *Exp. Candy L*, though again not worth using the limited Blast Powder on. Head down the ladder at the bottom.
 
 Hidden in this room is *Shoal Salt*, *Shoal Shell*, and *Blue Shard*. Surf on the water and go up through the middle waterfall. Continue into the next room.
 
