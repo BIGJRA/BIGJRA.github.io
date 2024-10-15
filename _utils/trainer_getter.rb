@@ -316,7 +316,11 @@ class TrainerGetter
             eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
           if effs[:bosssideChanges]
-            eff_strs.push("Effect added to boss's side: #{effs[:bosssideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+            if effs[:bosssideChanges].class == Array
+              eff_strs.push("Effects added to boss's side: #{effs[:bosssideChanges].join(', ').gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            else
+              eff_strs.push("Effect added to boss's side: #{effs[:bosssideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            end
           end
           if effs[:itemchange]
             eff_strs.push("Boss's held item becomes #{@itemHash[effs[:itemchange]][:name]}")
@@ -368,7 +372,7 @@ class TrainerGetter
               end
               if act[:bossStatChanges] 
                 groups = {}
-                act[:bossStatChanges].each do |stat, lvl|
+                effs[:bossStatChanges].each do |stat, lvl|
                   groups[lvl] ||= []
                   groups[lvl].push(stat)
                 end
@@ -408,6 +412,9 @@ class TrainerGetter
               eff = eff.to_s.gsub(/([a-z])([A-Z])/, '\1 \2')
               mon_details_parts.push("Effect applied: #{eff}")
             end
+          end
+          if effs[:typeChange]
+            mon_details_parts.push("Typing changed to: #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
           end
         end
       end
