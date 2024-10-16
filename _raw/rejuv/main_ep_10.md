@@ -6,486 +6,450 @@ Next, head over to Luck's Tent. There is another move tutor!
 
 !tutor("Marlow Move Tutor", [["Aqua Tail", "4 Blue Shards"], ["Laser Focus", "4 Red Shards"], ["Spikes", "4 Yellow Shards"], ["Reversal", "4 Green Shards"], ["Endure", "4 Green Shards"], ["Amnesia", "4 Blue Shards"], ["Electro Ball", "4 Yellow Shards"], ["Ally Switch", "4 Red Shards"], ["Hyper Voice", "4 Blue Shards"]])
 
-We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. We won't be able to buy with AP until we get the HM for Strength, so get the Golden Gauntlets and any other of the AP items you haven't yet if you'd like. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
+We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. On deck is the Golden Gauntlets. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
 
 ## Grand Express
 
-Make sure you're ready to not come back for little while. Talk to Melia in the train station in southwest West Gearen.
-
-If you have at least 8 Points with Venam, you'll get (Venam +3 Relationship Points). You'll be given a *Soda Pop*.
+Talk to Melia in the train station in southwest West Gearen.
 
 **Relationship Point Choices**:
-- Thank you! (Venam +1)
-- I don't like soda. (Neutral)
-- I didn't ask for this. (Venam -1, Melia -1)
--   If you have 7 or less Points with Venam, say "what about me and
-    Kanon?" for relationship points with him.
+- I'll take the floor. (+2 Venam)
+- Someone gets the floor! (Neutral)
+
+We will be free to explore the train. In a room to the right:
+
+!battle(["Narcy",:CHANELLER,0])
+
+Talk to Venam at the bar.
 
 **Relationship Point Choices**:
-- What about me? (Neutral)
-- What about Kanon and I? (Kanon +2)
-- You're gross. (Melia -2, Venam -3)
-    If you have 7 or less Points with Venam and chose "You're gross" in the last prompt:
+- Talon was my friend... (+2 Kanon, +2 Venam. Requires completion of Tyluric Temple)
+- We need to investigate. (+2 Kanon. Requires not completing Tyluric Temple)
+- ... (Neutral)
+
+Accept the video call on the computer.
 
 **Relationship Point Choices**:
-- Sounds good. (Venam +2)
-- No thanks. (Venam -2)
+- It'll be okay. (+1 Venam, +2 Melia)
+- It is kinda freaky. (+1 Venam)
+- Toughen up. (-1 Melia, +3 Venam)
+- Coward. (-3 Venam, -2 Melia)
 
-In the hallway to your car's right, a girl will tutor you:
+Talk to Kanon outside in the Marine Tube. Once you're back in the train, knock on April's door to the left.
 
-Grand Express Tutor
+**Relationship Point Choices**:
+- Why are you on this train? (Neutral)
+- Are you okay? (+2 Alexandra)
 
-| Move      | Price         |
-|-----------|---------------|
-|Hyper Voice| 4 Red Shards  |
+**Relationship Point Choices**:
+- Complete *Secrets of the Black Shards* before the Grand Express (+4 Alexandra)
 
-Head two cars left.
-
-Grand Express Shop
-
-|Item          |Price|
-|--------------|-----|
-|*Poke Ball*   |$200 |
-|*Great Ball*  |$600 |
-|*Ultra Ball*  |$1200|
-|*Super Potion*|$700 |
-|*Hyper Potion*|$1200|
-|*Antidote*    |$100 |
-|*Ice Heal*    |$250 |
-|*GourmetTreat*|$2000|
-|*Repel*       |$350 |
-|*Super Repel* |$500 |
-|*Max Repel*   |$700 |
-
-Head into the dining car. Talk to Venam and Krystal. Then, head out  and back to your room. Sleep for the night.
-
-Head all the way left and talk to Krystal. Head two cars right and you'll be able to exit onto Route 7.
+Talk to Lunatone, make your way to the back of the train, and talk to Lunatone again.
 
 ## Route 7
 
-Been a while since we walked onto a new route! We can return to the train to heal and use the PC.
+We can return to the train to heal and use the PC.
 
-To the left is the level 65 Audino trainer. Each time you win, you'll get 5 *Exp. Candy L*.
+!enc(350, nil, ["Old", "Good"], "Route 7 / Yui's Ranch")
 
-Route 7
+Also, you can fight stationary **Sawsbuck** here. 
 
-| Grass: Morning  | %   | Grass: Day      | %    | Grass: Night |   %|
-|-----------------|-----|-----------------|------|--------------|----|
-| Skiploom        | 20  | Wooloo          | 30   | Stantler     | 41 |
-| Taillow         | 20  | **Tauros**      | 20   | **Ledian**   | 20 |
-| **Skiddo**      | 20  | Dubwool         | 20   | Houndour     | 20 |
-| **Rapidash**    | 19  | Ponyta          | 10   | Noctowl      | 9  |
-| Ponyta          | 10  | **Mudbray**     | 5    | Ariados      | 6  |
-| Swellow         | 5   | **Rapidash**    | 5    | Audino       | 4  |
-| **Jumpluff**    | 4   | **Bouffalant**  | 4    |              |    |
-| Audino          | 1   | Audino          | 4    |              |    |
-| **Gogoat**      | 1   | **Mudsdale**    | 1    |              |    |
-|                 |     | **Gogoat**      | 1    |              |    |
+Down from here is a hidden *Blue Shard* and *Honey*. Surf to the left for a *Rare Candy*. To the left on land is a hidden *Green Shard*. Head east to enter Oblitus Town.
 
-Also, you can fight stationary Stantler (Night) and **Sawsbuck (Day)** here.
+Talk to the crew on the hill, then again above the tracks. Grab the hidden *Link Heart* to the right, then follow them to the left. Go north.
 
-On this first screen, there are hidden items, including: *Quick Ball, Rock Gem*, 2 *Green Shards*, 2 *Max Repels, Red Shard, Hyper Potion, Ghost Gem, Ground Gem, Fire Gem*.
+Pick up hidden *Blue Shard*, *Green Shard*, and *Fire Gem*. Cross the bridge to the left and grab a hidden *Ultra Potion*.
 
-Enter the house barred by the cut tree at the top to meet the PC manager.
+!battle(["Shara",:KIMONOGIRL,0])
 
-Head one screen up. Cut trees to get *TM107 Slash and Burn*.
+!battle(["Karla",:BEAUTY,0])
 
-ZCell 058: Route 7
+Enter the ranch area to the right and pick up the hidden *Yellow Shard*. There is a post here: talk to it to activate it. This is a Braviary Post that allows us to fly around Terrial Island, just like Floria's truck and Terajuma's Noctowl.
 
-<img src="/assets/images/rejuv/image60.png"/>
+!battle(["Harvey",:CAMPER,0])
 
-Hidden on this map outside the fence boundary is a *Yellow Shard, Max Repel, Green Shard, Blue Shard, Pecha Berry, Red Shard, Ultra Potion*, and *Elemental Seed*.
+Grab the hidden *Moomoo Milk* and *Max Repel* to the right. Up from here is a hidden *Red Shard*, *Elemental Seed*, and *Pecha Berry*. Plus:
 
-Head up and around to the left to see the scene at the bridge.
+**ZCell 095: Yui's Ranch**
 
-Next, head a bit south to enter Yui's Ranch. Pick up the hidden *Moomoo Milk* and grab the *Brightpowder* hiding behind the tree by the barn door. Enter the room to the left and pick up the hidden *Moomoo Milk* and *Revive*. Talk to **Miltank**. If you feed it eight Sitrus Berries, it will battle you. Pick up the hidden *Stable Mulch* and *Moomoo Milk* in the main room, then exit the barn to the right.
+!img("zcell095.png")
 
-ZCell 059: Yui's Ranch
+Enter the northern barn on the ranch. You can find a hidden *Oran Berry*, *Stable Mulch*, *Sitrus Berry*, and *Moomoo Milk*. Next, enter the larger barn below. You can find hidden *Stable Mulch*, *Moomoo Milk* in the first room and then another hidden *Moomoo Milk* plus a *Revive* in the left room. Feed this **Miltank** eight Sitrus Berries for a chance to catch it.
 
-<img src="/assets/images/rejuv/image61.png"/>
+If you completed all of the Kristiline Help Quests, there is a new quest we can do. In the house to the left, accept Ben's Sidequest upstairs. At night, head into the upper barn and talk to Ben again. You need to CATCH each Inkay outside. Ben will be kidnapped after... so we'll have to complete this quest later.
 
-Head to the back of the ranch. On the right side, pick up the hidden *Fire Gem*, then enter the upper right barn. Hidden inside are *Moomoo Milk, Oran Berry, Sitrus Berry*, and *Stable Mulch*.
+Head north from the ranch onto the Grand Bridge map. After the chat, reenter the map and grab *TM123 Self Destruct* on the right, and on the left:
 
-Exit, and enter the house on the left. If you've finished Kristiline's help quests, to continue a quest, head upstairs and talk to the guy here, and agree to help. At night, head into the barn on the upper right corner of the ranch. Talk to Ben, then head outside. You need to CATCH each Inkay, but it should be easy enough.
+**ZCell 096: Grand Bridge**
 
-That's all we can do up here. Head west into the Honec Woods.
+!img("zcell096.png")
 
-Honec Woods
+Exit the ranch map in the bottom left to return to the first map of Route 7 from a different vantage point. Push a stone over the water to create a shortcut, then grab the *Ether* to the left. Enter the house barred by the cut tree at the top to meet the PC manager.
 
-| Grass         | %        | Water           | %        | Honey Trees        | %        |
-|---------------|----------|-----------------|----------|--------------------|----------|
-| Carnivine     | 24       | Tympole         | 60       | Burmy              | 70       |
-| Combee        | 20       | Wooper          | 30       | Combee             | 24       |
-| Stunfisk      | 15       | Palpitoad       | 5        | Aipom              | 4        |
-| Shelmet       | 10       | Quagsire        | 4        | Forretress         | 2        |
-| Karrablast    | 10       | Seismitoad      | 1        |                    |          |
-| Charjabug     | 10       |                 |          |                    |          |
-| Venonat       | 5        |                 |          |                    |          |
-| **Venomoth**  | 4        |                 |          |                    |          |
-| **Blipbug**   | 1        |                 |          |                    |          |
-| **Vespiquen** | 1        |                 |          |                    |          |
+Down and left from his house is a secret cut tree - chop it down and go left onto a new map. You can battle on-map **Starly** here! Hidden on the map is a *Green Shard*, *BalmMushroom*, and *Red Shard*, plus:
 
-|Old Rod   | %    | Good Rod   | %    |
-|----------|------|------------|------|
-|Goldeen   | 100  | Remoraid   | 100  |
+**ZCell 097: Route 7**
 
-Surf to the left. Find a hidden *Poison Gem, Tiny Mushroom, Cleanse Tag, Leaf Stone* in this area. Surfing one tile to the right at the bottom, follow the path to the southwest corner, where you can get 3 *Starf Berries*. Head to the very top, find a hidden *Reverse Candy* behind the tree, then enter the map at the top when you're ready.
+!img("zcell097.png")
 
-Pick up 2 hidden *Honey*, then head across the bridge at the top. Watch the scene play out here. You can also access the honey tree at the top, but it only works once a day. Pick up the hidden *Aspear Berry* here.
+Head inside the trailer. Sleep on the bed to see a familiar face? Anyways, grab the *Buginium-Z* here and return to the previous map.
 
-Head back to Yui's Ranch. You'll get 3 *Cherish Balls*! (+1 Karma)
+Back on Route 7, go to the bottom left corner and cross the bridge.
+
+**Relationship Point Choices**:
+- She's in the city? (+2 Venam, +2 Melia)
+- Something's happened? (-2 Venam)
+
+Head left onto another map of Route 7. Follow Florin and Flora across the water.
+
+!battle(["Flynn",:HIKER,0])
+
+Head to the right from the hiker. You can spend time with Melia here.
+
+**Relationship Point Choices**:
+- Hapi (+2 Melia)
+- The food (-1 Melia)
+
+To the right and up is a hidden *Yellow Shard* and *Blue Shard*, with a hidden *Reverse Candy* just across the water. In the map's top right corner is a hidden *Red Shard* and *PP Up*. Notably you can battle stationary **Scolipede** here!
+
+Head to the top left of the map now. There is another Luck's Tent here. Nearby, activate a Braviary Post! Head north to a new map.
+
+Get a hidden *Green Shard* and go up.
+
+!battle(["Timmy",:COOLTRAINER_M,0])
+
+Head east to reach Yui's Ranch again - the cops will now have moved. Cut a tree to the right for *TM107 Slash and Burn*. Up north, you can cut a tree to get *BrightPowder*. Head south then west to return to the previous map.
+
+Go up to pick berries: *18 Sitrus Berries*, *18 Oran Berries*, and *3 Persim Berries*.
+
+To the left:
+
+**ZCell 098: Route 7**
+
+!img("zcell098.png")
+
+Enter the Milk Bar.
+
+!shop("Magic Milk Bar", ["Oran Berry", "Sitrus Berry", "Moomoo Milk", "Rose Tea"])
+
+That's it for this area, so return to Yui's Ranch, then go up and left to enter Honec Woods.
+
+## Honec Woods
+
+!enc(369, nil, ["Old", "Good"])
+
+Surf to the left. Find a hidden *Poison Gem*, *Tiny Mushroom*, *Cleanse Tag*, *Leaf Stone* in this area. 
+
+!battle(["Marco",:POKEMONRANGER_M,0], "Swamp Field")
+
+Surf down from the southwest corner of the map and follow the path. 
+
+!battle(["David",:BUGCATCHER,0], "Swamp Field")
+
+There is another Braviary Post here: activate it. Go left at the fork to reach *3 Starf Berries*. The map to the left hasn't got much new but a slightly different encounter table.
+
+!enc(370, ["Grass"], nil, "Honec Woods (Interior)")
+
+Back in the larger map, make your way to the very top.
+
+!battle(["Dewey",:TOURIST,0], "Swamp Field")
+
+Grab a hidden *Reverse Candy* behind the tree and proceed to the next map. Pick up 2 hidden *Honey*.
+
+!battle(["Resa",:LASS,0], "Swamp Field")
+
+!battle(["Billy",:YOUNGSTER,0], "Swamp Field")
+
+Cross the bridge at the top. Watch the scene play out here. You can also access the honey tree at the top, but it only works once a day. It will be either Forretress, Aipom, Burmy, or Combee... all of which we can get in easier ways. Pick up the hidden *Aspear Berry* here.
+
+Head back to Yui's Ranch and talk to Ben. You'll get 3 *Cherish Balls*! (+1 Karma)
 
 Now, the shop inside is in business during the morning and day:
 
-Yui's Ranch Shop
-
-|Item          |Price|
-|--------------|-----|
-|*Ultra Ball*  |$1200|
-|*Hyper Potion*|$1200|
-|*GourmetTreat*|$1500|
-|*Super Repel* |$500 |
-|*Max Repel*   |$700 |
-|*Escape Rope* |$550 |
-|*Honey*       |$100 |
-|*Moomoo Milk* |$500 |
-
-Next, reenter the woods and exit out the south to enter a new map of Route 7.
-
-ZCell 060: Route 7
-
-<img src="/assets/images/rejuv/image62.png"/>
-
-Pick the 3 *Persim Berries* here. Enter the house here.
-
-Route 7 Shop
-
-|Item         |Price|
-|-------------|-----|
-|*Honey*      |$100 |
-|*Super Repel*|$500 |
-
-Then, head down a map. There are wild **Dodrio** here during the day. Hidden on this map are *Red Shard, Yellow Shard, Max Potion, Blue Shard, PP Up, Reverse Candy*, and *Rare Candy*.
-
-Head east and talk to the group at the train.
-
-Head south and enter Oblitus Town. Use your Itemfinder to find a *Link Heart* in town.
-
-Enter the easternmost house and exit.
-
-Then head to the west. Near Luck's tent, talk to Melia here.
-
-**Relationship Point Choices**:
-- Hapi? (Melia +1)
-- The food? (Melia -1)
-
-Enter the Darchlight Woods to the west.
+!shop("Yui's Ranch Shop", ["Ultra Ball", "Hyper Potion", "GourmetTreat", "Super Repel", "Max Repel", "Escape Rope", "Honey", "Moomoo Milk"])
 
 ## Darchlight Woods
 
-Darchlight Woods
+Make your way back to the hilly map of Route 7 and approach the bottom left corner. Behind a Geodude is a hidden *Lax Mint*. To the left, grab the hidden *TinyMushroom* and enter the Darchlight Woods.
 
-| Grass: Morning        | %  | Grass: Day            | %   | Grass: Night | %  |
-|-----------------------|----|-----------------------|-----|--------------|----|
-| Morelull              | 30 | **Ponyta (Galarian)** | 25  | **Murkrow**  | 39 |
-| **Ponyta (Galarian)** | 25 | Shiinotic             | 24  | Shiinotic    | 21 |
-| **Skuntank**          | 20 | **Skuntank**          | 20  | **Skuntank** | 20 |
-| Foongus               | 10 | Foongus               | 20  | Amoonguss    | 16 |
-| Vullaby               | 9  | Vullaby               | 5   | Shiftry      | 4  |
-| Shiinotic             | 4  | Shiftry               | 4   |              |    |
-| **Hatenna**           | 2  | **Hatenna**           | 2   |              |    |
+**Relationship Point Choices**:
+- What are YOU doing here? (-1 Flora if Tyluric Temple complete, -1 otherwise)
+- Just chilling, plank you. (+2 Florin if Tyluric Temple complete, Neutral otherwise)
 
-| Water        | %        | Old Rod         | %        | Good Rod     | %   |
-|--------------|----------|-----------------|----------|--------------|-----|
-| Finneon      | 90       | Finneon         | 70       | Basculin     | 60  |
-| Quagsire     | 5        | Basculin        | 30       | Lumineon     | 20  |
-| Lumineon     | 4        |                 |          | Chinchou     | 20  |
-| **Marill**   | 1        |                 |          |              |     |
+!enc(358, nil, ["Old", "Good"])
 
+Grab the hidden *TinyMushroom* and *Big Mushroom*. Talk to a person above for *TM149 Draining Kiss*! Continue up from here and talk with Florin.
 
-There are also wild Parasect during the day, Amoongus at night, and **Impidimp** wandering around the woods.
+**Relationship Point Choices**:
+- You know a lot about this! (+2 Florin)
+- I'm not interested. (-2 Florin)
+- Where do I start? (Neutral)
 
-We can enter Darchlight Caves by heading down immediately, and hopping down the pillars, but there is nothing of note in here yet. While you're in this main area, talk to any of the people here 30 times. This is necessary for a side quest in a bit.
+On this map, you can get hidden *Ether*, *Dark Gem*, *Reverse Candy*, and *TinyMushroom*. Get *TM95 Snarl* across the water.
 
-Hidden on this map are 2 *Tiny Mushrooms*.
+**ZCell 099: Darchlight Woods**
 
-Take the top exit north. Hidden here is another 2 *Tiny Mushrooms*, an *Ether, Dark Gem*, and *Reverse Candy*. Head up for a little scene with a girl.
+!img("zcell099.png")
 
-ZCell 061: Darchlight Woods
+Talk to a blue tree on the right side of the map: Florin will cut it. Talk next to a tree on the hill at the left side of the map. Return to the previous map.
 
-<img src="/assets/images/rejuv/image63.png"/>
+Head down and to the west, across the bridge.
 
-Next, head through the west door in the entrance map to access Sensu Meadow.
+!battle(["Mary",:FAIRYGIRL,0], "Bewitched Field")
 
-Sensu Meadow
+Grab the hidden *TinyMushroom* on the water.
 
-| Grass                | %   | Water     | %   |
-|----------------------|-----|-----------|-----|
-| **Oricorio (Sensu)** | 98  | Finneon   | 90  |
-| **Meditite**         | 2   | Quagsire  | 5   |
-|                      |     | Lumineon  | 4   |
-|                      |     | Marill    | 1   |
+!battle(["Bella",:FAIRYGIRL,0], "Bewitched Field")
 
-| Old Rod     | %  | Good Rod  | %    |
-|-------------|----|-----------|------|
-| Finneon     | 70 | Basculin  | 60   |
-| Basculin    | 30 | Lumineon  | 20   |
-|             |    | Chinchou  | 20   |
+Activate a Braviary Post to the left. Head south and grab a *Bold Mint* and hidden *Dark Gem*. Go left to reach a new map. 
 
-As in the other meadows, you can find infinite *Purple Nectar* here. We can't explore much here yet, but we'll be back. Head back to the main map and head all the way to the southwest corner via the pillars, grab the hidden *Dark Gem*, and enter the clearing.
+Grab the *Big Mushroom*. You can talk to **Impidimp** to catch it! In the top left of this map is a *Carbos*. Go north from here onto a new map. You'll find a hidden *Big Mushroom* and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *TinyMushroom*. Head through the gate and proceed.
 
-## Route 8 and Azure Shore
+## Darchlight Caves
 
-Here are a couple small optional areas and quests, skip them if you'd like.
+Press up to escape when prompted.
 
-Head to the south. Hidden on the beach is a *Max Repel*. 2 *Pearls* are also hidden in the water on this map.
+**Relationship Point Choices**:
+- It's true (+2 Flora)
+- She's lying lol (-2 Flora)
 
-Azure Shore
+Head east and choose which characters to go with. You'll either choose to [go with Flora](#part-1-go-with-flora) or [stay with Florin and Erin](#part-1-stay-with-florin-and-erin). (The choice you make here just decides the next five minutes of gameplay.)
 
-| Water          | %   | Old Rod   | %    |Good Rod |      |
-|----------------|-----|-----------|------|---------|------|
-| Wooper         | 60  | Goldeen   | 70   |Remoraid | 100  |
-| Slowpoke       | 30  | Chinchou  | 30   |         |      |
-| Quagsire       | 5   |           |      |         |      |
-| **Lanturn**    | 4   |           |      |         |      |
-| Marill         | 1   |           |      |         |      |
+### Part 1: Stay with Florin and Erin
 
-Talk to the ranger near Samurott and agree to help find Oshawott. If you come here during the morning, two of the Samurott will give you a *Rare Candy* and a *Star Piece* respectively.
+Follow Florin and Erin to the room at the top. Watch the video here. If you leave the video on, you can choose whether to [Expose Flora](#part-2-expose-flora) or [keep quiet](#part-2-keep-quiet). (The choice you make here has more ramifications on the story, though neither of them locks you out of the lategame routes).
 
-Exit the forest and head north to the broken bridge by the Grand Dream Gate. Talk to Oshawott, then bring it back to Samurott. It will then get stolen!
+### Part 1: Go with Flora
 
-Head back to the crossroads and head west. Grab all 4 *Sitrus Berries* and 4 *Persim Berries* in front of the manor. We'll enter that in a bit, but head west onto Route 8.
+Follow Flora to the west. You can choose to follow Flora into the room above. You can then choose whether or not to **Expose Flora** about Bladestar. If so:
 
-Route 8
+**Relationship Point Choices**:
+- I'm so sorry. (+3 Flora)
+- ... (Neutral)
 
-| Grass: Morning | %   | Grass: Day  | % | Grass: Night  | %  |
-|----------------|-----|-------------|---|---------------|----|
-| Skiploom       | 20  | Wooloo      | 30| Stantler      | 41 |
-| Taillow        | 20  | Tauros      | 20| Ledian        | 20 |
-| Skiddo         | 20  | Dubwool     | 20| Houndour      | 20 |
-| Rapidash       | 19  | Ponyta      | 10| Noctowl       | 9  |
-| Ponyta         | 10  | Mudbray     | 5 | Ariados       | 6  |
-| Swellow        | 5   | Rapidash    | 5 | Audino        | 4  |
-| Jumpluff       | 4   | Bouffalant  | 4 |               |    |
-| Audino         | 1   | Audino      | 4 |               |    |
-| Gogoat         | 1   | Mudsdale    | 1 |               |    |
-|                |     | Gogoat      | 1 |               |    |
+In this room, we'll need to follow steps:
 
-| Water    | %   | Old Rod  | %   | Good Rod | %    |
-|----------|-----|----------|-----|----------|------|
-| Wooper   | 90  | Goldeen  | 100 | Remoraid | 100  |
-| Quagsire | 9   |          |     |          |      |
-| Marill   | 1   |          |     |          |      |
+- Grab some Black Powder from the jar
+- Put the powder in the box
+- Send it right to the fire
+- Send it left to the electricity
+- Send it right to the plasma
+- Press the button on the computer below at exactly 15 seconds.
 
-Pick up the hidden *Red Shard, Soda Pop, Green Shard*, 2 *Blue Shards*, as well as *TM156 Air Slash* at the bottom.
+Flora will get a Darchlight Mirror. Return to the group by going right a few screens. You will get the choice to [Expose Flora](#part-2-expose-flora) or [keep quiet](#part-2-keep-quiet). (The choice you make here has more ramifications on the story, though neither of them locks you out of the lategame routes).
 
-Head up to talk to the ranger who stole Oshawott and battle her. Try to leave after returning it, to get **Oshawott**! (+1 Karma)
+### Part 2: Keep Quiet
 
-## Darchlight Manor First Visit
+Head into the room on the right. Find a hidden *Yellow Shard* and *Max Repel*. Go down, and you'll get the *Darchlight Mirror*. 
 
-Darchlight Manor
+Pick up the hidden *Blue Shard*. We can't proceed down, so follow the path up. Grab the hidden *Ghost Gem* and enter this cave. Use the Darchlight Mirror again.
 
-| Cave          | %        |
-|---------------|----------|
-| Duskull       | 30       |
-| Shuppet       | 30       |
-| Misdreavus    | 15       |
-| **Dusclops**  | 10       |
-| **Sinistea**  | 6        |
-| **Banette**   | 5        |
-| **Mismagius** | 4        |
+!battle(["Zyo",:BLADESTAR_M,0], "Dark Crystal Cavern")
 
-There're only a few places we can go without strength, so start by entering the right room on 1F. Read the book and the doll will disappear. Next, talk to Clefairy twice in the main room, get the hidden *Full Heal* and *Revival Herb*, and then enter the room at the very top of 2F. Grab the *Max Repel* and talk to it again.
+Giratina will start chasing us.
 
-Rock Smash the rock on the side, then pick up the hidden *Blue Shard* and head upstairs. Talk to it on the couch, then in the bed in the room to the left. Exit, and smash the rocks to get to the south side of 3F. Talk to it, then enter the next room on the left and talk to it again. Move the candelabra up here and enter the fireplace to get *TM12 Taunt* and a *Gate Key*.
+!battle(["Kayo",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
-That's all we can do here for now, so make your way back to the crossroads.
+Pick up the *Rare Candy* and proceed.
 
-## Darchlight Caves First Visit
+!dbattle(["Lee",:BLADESTAR_M,0], ["Lana",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
-Head north. On this map is a hidden *HP Up, Big Mushroom*, and *Blue Shard*. Surf up here to grab *TM18 Rain Dance*.
+!battle(["Shane",:BLADESTAR_M,0], "Dark Crystal Cavern")
 
-Head into the top right clearing first. If you have an Odd Keystone, have talked to people in the forest 30 times, and it is nighttime, talk to the tower to battle **Spiritomb**.
+Interact with the mirror in the next room.
 
-Anyways, head out and enter the northwest clearing. Pick up hidden *Tiny Mushroom, Yellow Shard, PP Up*, then speak to Flora and Florin in the top area.
+Head to the right. You'll get a hidden *Ghost Gem* and *TM115 Mega Punch*. Across the bridge is a hidden *Ether* and *Reverse Candy*. Enter the Decompression Lab at the top. There is a *Hyper Potion* in the room to the left. Talk to the group at the top of the dark hallway.
 
-Darchlight Caves
+!battle(["Enda",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
-| Cave         | %   |
-|--------------|-----|
-| Bronzor      | 30  |
-| Graveler     | 20  |
-| Carbink      | 20  |
-| Sandslash    | 15  |
-| Wobbuffet    | 5   |
-| Dugtrio      | 4   |
-| **Bronzong** | 4   |
-| **Wynaut**   | 2   |
+!battle(["Sufdhsjghdsj",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
-After the conversation, we'll have control in the caves. Grab the hidden *Yellow Shard, Blue Shard*.
+Head to the left when you can and talk to Flora.
 
-Head east and choose which character to go with - this one doesn't affect your future quite yet. Grab the hidden *Max Repel* abovve, then head down your ladder and in.
+**Relationship Point Choices**:
+- I trust you (-2 Flora)
+- I didn't want to (+2 Flora)
+- I'm not sure myself... (Neutral)
 
-You'll have another choice to make in each room - this time about whether to expose that you saw Flora earlier either to her, Florin, or Erin. Again neither of these choices will force you into a bad ending quite yet, but will affect your gym leader fight for this chapter.
+Take a look at the screens. Cycle left and right through the footage and view each one until you see the one with the mysterious figure!
 
-Head outside, and as you're walking, the cave will change. Head upstairs and watch whatever scene you got based on your choices. Head down the left ladder and cross the new bridge here. Hidden is a *Dusk Stone*. Down the right ladder there is a hidden *Blue Shard*.
+Head down from this room, then hug the right wall in the dark hallway to reach a new area with some conveyor belts.
 
-Go upstairs and go down, then across the bridge, pick up the hidden *Dark Gem* at the bottom. Go into the cave entrance. Pick up the hidden *Ether*, then head down and watch the scene. Then follow your person south and into the cave, then across the bridge.
+Grab a hidden *Luxury Ball*, then cross the bridge over the conveyor belt. Grab the *Revive* and *White Herb*. Walk onto the upper conveyor belt. There is a hidden *Reverse Candy* in this next room.
 
-Basically, we're going to have to create a Darchlight mirror. Speak to your person and interact with all the reading materials to find a solution.
+Go back onto the rightward conveyor belt and continue rightward. Grab a hidden *Elixir* and take the topmost conveyor belt. Take the top right belt next and continue right to grab the *Dark Memory*. Take the warp and return to the previous fork, choosing the bottom left conveyor belt this time.
 
-Here's the solution:
+!boss("DARCHGIRATINA", "Dark Crystal Cavern")
 
-1.   Type in 4589758 into the password.
-2.   Grab black shard ore and put it in the furnace.
-3.   Push the red button.
-4.   Push the blue button.
-5.   Push the green button.
-6.   Push the red button.
-7.   Push the red button again.
-8.   Remove the ore from the furnace.
-9.   Push the blue button.
-10.   Push the purple button.
-11.   Push the gold button.
-12.   Talk to the thing on the left with the small red button to  make a *Darchlight Mirror*!
+This is a very bizarre boss fight, though thankfully not too hard. The first three forms hit pretty hard, so stalling it out with Protect and Light Screen and letting it die from Toxic damage is the way to go.
 
-Cross the bridge to the right, and head up. Interact with the gem on the wall up above. Head into the room on the left and go down to get a hidden *Psychic Gem*. Go up to get *TM23 Smack Down* and a hidden *Rock Gem*.
+Talk to the group in the restaurant at the top. Accept Flora's [fast travel request](#darchlight-village--route-8)!
 
-ZCell 062: Darchlight Caves
+### Part 2: Expose Flora
 
-<img src="/assets/images/rejuv/image64.png"/>
+**Relationship Point Choices**:
+- It's not meaningless. (-4 Flora, -2 Erin)
+- The evidence is sound. (+2 Erin, +4 Florin)
+- Maybe we should rethink. (-3 Erin)
 
-Head right and cross the new bridge. Up is a hidden *Hyper Potion*. Head all the way south, picking up the hidden *Ether* as you go, and then activate the crystal. Pick up the hidden *Revive* and *Full Heal*, then head back up and left. Up at the top, there is a hidden *Carbos*, to the left a hidden *Reverse Candy* and *Ghost Gem*. On the left is a *Dark Material* as well as *TM115 Mega Punch*.
+Head left and talk to Erin.
 
-Head back east and cross the new bridge. Head down to get *TM145 Hex* and hidden *Everstone*, then activate the gem here. At the bottom is a hidden *Revive*, then head up. Pick up the hidden *Max Potion* and head up.
+**Relationship Point Choices**:
+- Erin's right. (+2 Erin, +2 Florin)
+- You should have known. (-2 Florin)
+- Maybe we should rethink. (-3 Erin)
 
-Follow the path, activating crystals as you go. Climb the elevator to exit and beat the Dugtrio mech.
+Return to the Darchlight Mirror room. Make a *Darchlight Mirror* just as we did before:
 
-After you get outside, if you chose Flora, now's your chance to expose her for real, or not. Again, this won't necessarily rope you into the worst ending, but if you do want the option to go that route, expose Flora here.
+- Grab some Black Powder from the jar
+- Put the powder in the box
+- Send it right to the fire
+- Send it left to the electricity
+- Send it right to the plasma
+- Press the button on the computer below at exactly 15 seconds.
 
-Watch the events unfold, then head out of Honec Woods. Make your way back to the train and talk to Melia.
+Head back to the east. Continue through the cave, using the mirror in the same spot Flora did to create a new path.
+
+In the next room, get a hidden *Yellow Shard* and *Max Repel*. You'll choose between Erin and Florin as a partner here.
+
+!partner(["Erin",:CANDIDGIRL,0])
+
+!partner(["Florin",:LEADER_FLORIN,0])
+
+!dbattle(["Ken",:BLADESTAR_M,0], ["Yula",:BLADESTAR_F,0], "Dark Crystal Cavern")
+
+Pick up the hidden *Blue Shard*. We can't proceed down, so follow the path up. Grab the hidden *Ghost Gem* and enter this cave. Use the Darchlight Mirror again.
+
+Return to where we fought the grunts. You can choose to battle them or not.
+
+**Relationship Point Choices**:
+- Battle them. (+2 Florin)
+- Florin, handle them. (-2 Florin)
+
+!dbattle(["Zyo",:BLADESTAR_M,0], ["Kayo",:BLADESTAR_F,0], "Dark Crystal Cavern")
+
+Pick up the *Rare Candy*. In the next room, if you chose to have Florin handle the previous grunts, you get to choose once again:
+
+**Relationship Point Choices**:
+- After having Florin handle the first pair, battle this pair of grunts (+2 Florin)
+- After having Florin handle the first pair, have Florin handle the second pair of grunts (-2 Florin)
+
+!dbattle(["Lee",:BLADESTAR_M,0], ["Lana",:BLADESTAR_F,0], "Dark Crystal Cavern")
+
+Continue. Florin will handle this pair of grunts himself if he did the previous two.
+
+**Relationship Point Choices**:
+- After having Florin handle the first two pairs, say "Florin is right" (+4 Florin, -3 Erin)
+- After having Florin handle the first two pairs, say "You're taking it too far" (-2 Florin)
+
+!dbattle(["Shane",:BLADESTAR_M,0], ["Partario",:BLADESTAR_M,0], "Dark Crystal Cavern")
+
+Talk to Flora. This plays out differently if Florin attacked all the grunts so far. If so, you'll need to go up and into the room at the top.
+
+**Relationship Point Choices**:
+- After Florin handles all grunts, say "That was reckless" (+2 Erin)
+- After Florin handles all grunts, say "She had it coming (-6 Erin)
+
+Go to the right. You'll get a hidden *Ghost Gem* and *TM115 Mega Punch*. Across the bridge is a hidden *Ether* and *Reverse Candy*. Enter the Decompression Lab at the top. There is a *Hyper Potion* in the room to the left.
+
+Nearby, there is a dark hallway. Hug the right wall to enter a new room, grab a hidden *Luxury Ball*, then cross the bridge over the conveyor belt. Grab *Revive*.
+
+!battle(["Sami",:BLADESTAR_M,0], "Dark Crystal Cavern")
+
+Pick up *White Herb*. Walk onto this conveyor belt. There is a hidden *Reverse Candy* in this next room.
+
+!battle(["Pearls",:BLADESTAR_F,0], "Dark Crystal Cavern")
+
+Go back onto the rightward conveyor belt and continue rightward.
+
+!battle(["Siri",:BLADESTAR_F,0], "Dark Crystal Cavern")
+
+Grab a hidden *Elixir* and take the topmost conveyor belt. Take the top right belt next and continue right to grab the *Dark Memory*. Take the warp and return to the previous fork, choosing the bottom left conveyor belt this time.
+
+You'll need to defeat Flora with Giratina in a different style of combat. Heal when you need to, use the special when you can, and you should win.
+
+Flora will be arrested at the top of the lift. Accept the fast travel with Florin, though we won't be taking on the gym battle quite yet.
+
+## Darchlight Village & Route 8
+
+There are a few more maps we can explore. Head into the map at the top where we were pushed into the caves to grab some hidden items: *PP Up* and *Yellow Shard*. 
+
+Go down two maps, then continue down to reach Azure Port. Talk to the grunts here to start the Oshawott quest.
+
+!enc(371)
+
+You can get a hidden *Max Repel* and *2 Pearls*. Not much else to do here for now, so return to the previous map and go left this time to reach Darchlight Village.
+
+!enc(360, nil, ["Old", "Good"])
+
+Grab the hidden *Super Repel*, *Dark Gem*, *Yellow Shard*, *Roseli Berry*, *Magical Seed*, *Blue Shard*,. You can also pluck *4 Persim Berries* and *4 Sitrus Berries*. There is a breeder here: defeat yields *5 Exp. Candy L*.
+
+!battle(["Jude",:POKEBREEDER_F,0], "Bewitched Field")
+
+Head to the west at the bottom of the village, to reach Route 8.
+
+!enc(361, nil, ["Old", "Good"])
+
+Wow, a whole lotta nothing new! Anyways, activate another Braviary Post. You can find a hidden *Green Shard*, *Red Shard*, *Soda Pop*, and *Blue Shard* here. Follow the path left to the trailer.
+
+!battle(["Julie",:XENMAGE_F,0])
+
+Past the other exit of the trainer is another hidden *Blue Shard* as well as *TM156 Air Slash*!
+
+Return to the Azure Port. Enter the building on the right.
+
+!battle(["Aruti",:SPELUNKER_BLADEM,0], "Dark Crystal Cavern")
+
+Grab the *Black Augurite* and return to Route 8.
+
+## Darchlight Manor
+
+Enter the Darchlight Manor area to the north of the village.
+
+!enc(408, nil, ["Old", "Good"], "Darchlight Manor (Exterior)")
+
+Head inside.
+
+!enc(112, nil, ["Old", "Good"], "Darchlight Manor (Interior)")
+
+The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
+
+Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Wing*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
+
+That's all we can do here for now!
+
+Before we continue, we can make a quick trip to Darchlight Caves. By taking Braviary to Darchlight Woods, to the right and up you can access a cave containing a teleporter to the Caves. Head up into the Decompression area, then go up through the door. Go right in this next room to get *TM97 Dark Pulse*!
+
+Backtrack to the caves below. Make sure the cave is dark, then proceed to the left. You can find to catch **Bronzor (Aevian)**! Continue backtracking to reach **Wobbuffet** and **Wynaut** as well as *TM23 Smack Down*. Plus, you can find:
+
+**ZCell 100: Darchlight Cave**
+
+!img("zcell100.png")
+
+You can take the lift at the top of the Decompression Lab to escape to Honec Woods.
 
 ## Rose Badge
 
-Two more things to do - the Sensu Meadow is now opened. Grab *TM114 Leech Life*, and a hidden *Dark Gem, Ether*, and *Tiny Mushroom*.
+Make your way back to the Darchlight Woods, and find your Grass-type gym leader waiting for a match above the crossroads. If you exposed Flora you'll [fight her brother](#vs-florin), otherwise you'll [fight her](#vs-flora).
 
-ZCell 063: Sensu Meadow
+### VS Flora
 
-<img src="/assets/images/rejuv/image65.png"/>
+!battle(["Flora",:LEADER_FLORA,0])
 
-Make your way to the hole towards the top of the meadow, then fall. In the cave, grab *TM97 Dark Pulse* and hidden *Ice Gem* and *Magical Seed*, then exit by getting lulled to sleep in the bottom right corner of the mushroom.
+!move("UPROOT")
 
-Then, head back to the main map, and go to the southeast and hop down the logs. Surf up and east here to access Darchlight Cave again. Grab the *Dark Memory*.
+Flora opts for a more defensive singles strategy, taking advantage of the field's many boosts to Grass types. Even though Grass has many weaknesses, her team has answers to them all, so you'll need to be able to change it up! Uproot will make setting up a defensive wall difficult, so finding a way to sweep with 1-3 of the types super effective against Grass or perhaps field-boosted Dark/Fairy will likely be key.
 
-Head to crossroads and go north. Find Flora/Florin in this area and get ready to battle. Florin battles Doubles and Flora singles.
+Win to get the Rose Badge, which increases our Level Cap to Lv. 70, and *TM53 Energy Ball*!
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Botanist Florin (Bewitched Field, Rain)
-<ul>
-<li>Ludicolo, Level 63. @ Wise Glasses.
-<ul>
-<li>Rain Dance</li>
-<li>Surf</li>
-<li>Ice Beam</li>
-<li>Giga Drain</li>
-</ul></li>
-<li>Cradily, Level 64. @ Magical Seed.
-<ul>
-<li>Rock Slide</li>
-<li>Uproot</li>
-<li>Recover</li>
-<li>Earth Power</li>
-</ul></li>
-<li>Leafeon, Level 64. @ Leafeon Crest.
-<ul>
-<li>Leaf Blade</li>
-<li>Grasswhistle</li>
-<li>Bite</li>
-<li>Return</li>
-</ul></li>
-<li>Cherrim, Level 64. @ Magical Seed.
-<ul>
-<li>Nature Power</li>
-<li>Weather Ball</li>
-<li>Giga Drain</li>
-<li>Flower Shield</li>
-</ul></li>
-<li>Breloom, Level 63. @ Focus Sash.
-<ul>
-<li>Spore</li>
-<li>Mach Punch</li>
-<li>Rock Tomb</li>
-<li>Bullet Seed</li>
-</ul></li>
-<li>Sceptile, Level 65. @ Sceptilite.
-<ul>
-<li>Giga Drain</li>
-<li>Dragon Pulse</li>
-<li>Grasswhistle</li>
-<li>Focus Blast</li>
-</ul></li>
-</ul></td>
-<td>Botanist Flora (Bewitched Field, Rain)
-<ul>
-<li>Tsareena, Level 63. @ Assault Vest.
-<ul>
-<li>Play Rough</li>
-<li>Power Whip</li>
-<li>U-Turn</li>
-<li>Zen Headbutt</li>
-</ul></li>
-<li>Ludicolo, Level 64. @ Damp Rock.
-<ul>
-<li>Protect</li>
-<li>Surf</li>
-<li>Ice Beam</li>
-<li>Giga Drain</li>
-</ul></li>
-<li>Ferrothorn, Level 64. @ Magical Seed.
-<ul>
-<li>Gyro Ball</li>
-<li>Seed Bomb</li>
-<li>Curse</li>
-<li>Leech Seed</li>
-</ul></li>
-<li>Roserade, Level 64. @ Coba Berry.
-<ul>
-<li>Giga Drain</li>
-<li>Sleep Powder</li>
-<li>Nature Power</li>
-<li>Weather Ball</li>
-</ul></li>
-<li>Rotom-Cut, Level 63. @ Magical Seed.
-<ul>
-<li>Will-O-Wisp</li>
-<li>Uproot</li>
-<li>Thunderbolt</li>
-<li>Protect</li>
-</ul></li>
-<li>Venusaur, Level 65. @ Venusaurite.
-<ul>
-<li>Giga Drain</li>
-<li>Sludge Bomb</li>
-<li>Leech Seed</li>
-<li>Uproot</li>
-</ul></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+### VS Florin
 
-Uproot: Grass \| Special \| 90 power \| 100% accuracy \| 100% chance to lower the target's Special Defense by 2 stages \| On Bewitched Woods Field, power is boosted x1.5.
+!battle(["Florin",:LEADER_FLORIN,0])
 
-Each of these battles tries to neutralize Grass' many weaknesses. Be careful of both of their Ludicolo, who will outspeed you thanks to the rain. Mega Sceptile hits really hard and fast and can heal itself, while Mega Venusaur tanks two of its weaknesses thanks to Thick Fat and can wear you down with Giga Drain and Leech Seed. On both teams, Uproot can be threatening if you're attempting any kind of defensive strategy, so going for a fast offense somehow might be safer.
+The battle with Florin is a very tough one. Like Rhodea says, he has a team full of glass cannons. The field helps him get stronger while his only "intact" weaknesses are Flying and Bug, though he has counters for those. Changing the weather right away tends to be helpful, and using Dark and Fairy moves may be the key to heavy damage. Ice moves with Hail can be particularly potent.
 
-There are lots of ways to win! Sunny Day changes the weather and the field to Rainbow, meaning Poison moves and Fire moves are particularly effective again. Alternatively, you can focus on a Tailwind based Flying-type core, since only Ferrothorn, Rotom, and Cradily take neutral damage from them. One other strategy would be field manipulation via Pyukumuku's Purify, which turns the field to Forest and gives Bug moves a boost.
+### Aftermath
 
-Win to get the Rose Badge, which lets us level to 70, and *TM53 Energy Ball*!
+Regardless of who you fought: Win to get the Rose Badge, which increases our Level Cap to Lv. 70, and *TM53 Energy Ball*!
 
-Head towards Darchlight Manor and talk to Erin. Then, head back to the train to get *HM04 Strength*! Talk to Melia in the cabin.
+Head to the Darchlight Village and enter the southwestern house. Head back to the train to get *HM04 Strength*! Get on the Grand Express, then talk to the group in your cabin.

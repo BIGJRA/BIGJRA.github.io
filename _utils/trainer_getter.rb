@@ -256,6 +256,10 @@ class TrainerGetter
               eff_strs.push("Weather becomes #{@moveHash[effs[:weatherChange]][:name]}")
             end
           end
+          if effs[:speciesUpdate]
+            new_form_1_key = @pokemonHash[effs[:speciesUpdate]].keys.find_all { |key| key.is_a?(String) }[0]
+            eff_strs.push("Boss becomes #{@pokemonHash[effs[:speciesUpdate]][new_form_1_key][:name]}")
+          end
           if effs[:formchange]
             new_form = effs[:formchange]
             new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]
@@ -293,9 +297,6 @@ class TrainerGetter
           end
           if effs[:statDropRefresh]
             eff_strs.push("Boss's stat changes are reset")
-          end
-          if effs[:speciesChange]
-            eff_strs.push("Boss becomes #{effs[:speciesChange]}")
           end
           if effs[:statusCure]
             eff_strs.push("Boss's status effects cured") 
