@@ -2,9 +2,9 @@
 
 Grab the hidden *Hyper Potion* in the upstairs of the train station. Head outside to begin to explore the vast Grand Dream City!
 
-## Dream District East 1st Visit
+## Dream District
 
-Head out into the station. After a chat, reenter the train station to pick up a *Hyper Potion*. We finally made it to Grand Dream City, which is larger than both Gearen's combined.
+
 
 ZCell 064: Dream District
 

@@ -400,23 +400,7 @@ Return to the Azure Port. Enter the building on the right.
 
 !battle(["Aruti",:SPELUNKER_BLADEM,0], "Dark Crystal Cavern")
 
-Grab the *Black Augurite* and return to Route 8.
-
-## Darchlight Manor
-
-Enter the Darchlight Manor area to the north of the village.
-
-!enc(408, nil, ["Old", "Good"], "Darchlight Manor (Exterior)")
-
-Head inside.
-
-!enc(112, nil, ["Old", "Good"], "Darchlight Manor (Interior)")
-
-The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
-
-Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Wing*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
-
-That's all we can do here for now!
+Grab the *Black Augurite* and return to Route 8. You will get **Oshawott**!
 
 Before we continue, we can make a quick trip to Darchlight Caves. By taking Braviary to Darchlight Woods, to the right and up you can access a cave containing a teleporter to the Caves. Head up into the Decompression area, then go up through the door. Go right in this next room to get *TM97 Dark Pulse*!
 
@@ -452,4 +436,50 @@ The battle with Florin is a very tough one. Like Rhodea says, he has a team full
 
 Regardless of who you fought: Win to get the Rose Badge, which increases our Level Cap to Lv. 70, and *TM53 Energy Ball*!
 
-Head to the Darchlight Village and enter the southwestern house. Head back to the train to get *HM04 Strength*! Get on the Grand Express, then talk to the group in your cabin.
+Head to the Darchlight Village and enter the southwestern house. Head back to the train to get *HM04 Strength*! 
+
+## Darchlight Manor
+
+Alright, I know the timing of this seems super weird, but we just got Strength and the badge to use it right before the chapter ends, and we won't be able to return here right away. So, I'll take us on this detour now, though feel free to do it at a later time. 
+
+Enter the Darchlight Manor area to the north of the Darchlight Village.
+
+!enc(408, nil, ["Old", "Good"], "Darchlight Manor (Exterior)")
+
+Head inside.
+
+!enc(112, nil, ["Old", "Good"], "Darchlight Manor (Interior)")
+
+The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
+
+Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Wing*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
+
+Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the book below  Clefairy. Return to the entrance hall of the house to talk to Clefairy two more times. Follow it into the office at the top. 
+
+Enter the room on the right, and grab the *Cabinet Key* from the cabinet at the top. Go left then into the top right room to talk to Clefairy in this cabinet. Enter the dining room downstairs to find Clefairy again... then follow it to the topleft room in the building. Interact with the left painting and enter the fireplace. Pick up *Gate Key*, *TM12 Taunt*, and: 
+
+**ZCell 101: Darchlight Manor**
+
+!img("zcell101.png")
+
+Talk to Clefairy at the top of the entry stairs, then push the boulder down. In the next room, grab the *Old Gateau* and *Chipped Pot*. Exit left to get *Dread Plate* plus:
+
+**ZCell 102: Darchlight Manor**
+
+!img("zcell102.png")
+
+Outside at the top, grab hidden *Ether*, *Purple Nectar* (repeatable), and *Tiny Mushroom*. Grab *TM114 Leech Life* plus
+
+**ZCell 103: Darchlight Manor**
+
+!img("zcell103.png")
+
+Pull up the rope at the top, then talk to the doll to get a *Light Ball*. 
+
+That's all we can do in the Darchlight Manor, but head back over to the Honec Woods. Use Strength in the bottom right corner to reach a new section of the map.
+
+!battle(["Polo",:POKEMONRANGER_M,0], "Swamp Field")
+
+There is a hidden *Big Mushroom* down from here plus another Honey tree. That's all for Strength exploration for now, since we cannot return to Floria or Terajuma yet.
+
+To finish the chapter, get on the Grand Express, then talk to the group in your cabin.

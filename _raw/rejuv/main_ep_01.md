@@ -90,7 +90,7 @@ The garden to the south is also now open, so you can catch level 5 **Fletchling*
 
 Head into the building on the west side that's now unlocked. Talk to the man with the yellow hair, then exit the building and watch Buizel run by. This starts a quest we'll complete later. Return to East Gearen.
 
-## East Gearen City (Left)
+## East Gearen City
 
 It's worth noting that the Cybernav in this game has a feature called the Spice Scent which allows you to modify your encounter rate for free! This means you can crank it up high to get an encounter on every step, walk in grass hassle free by setting it to zero, or anything in between. It also means that Repels are effectively useless, so selling the ones we find is the way to go.
 
@@ -159,8 +159,6 @@ When you win you can access the northwest area! (+1 Karma). This game has diverg
 Go up and left from the bridge. You can get a hidden *Super Potion* in a rock here, and a hidden *Yellow Shard* above a dumpster. A gap in the grass below some trees right of the train station contains a hidden *Red Shard*. 
 
 Talk to Nidoran F again and it will run off once more. There are a few more locations it will run to: the southeast side of the map, then a bench near the library. It will then run to the side of the Violet Building on the west, where you can battle and catch **Nidoran F**!
-
-## East Gearen City (Right)
 
 Head to further to the right from the lab than we did before. You'll see a screen flash to indicate we are now on the right-most side of East Gearen City, instead of the left-most side where we were before. Of course, there is a *West* Gearen City that we will visit far later in the game, so don't get it twisted.
 
@@ -378,7 +376,7 @@ Additionally, head back to Magnolia Library and pay the $300 to enter. For a sho
 
 !battle(["Ren",:TRAINER_REN,15])
 
-## Help Center Quests: East Gearen
+## East Gearen Help Center Quests 
 
 Head over to the Help Center near the library. We can accept quests on the upper bulletin board - completing them will grant us various rewards. Note that you can also accept some of them in the overworld by talking to the quest-givers.
 
