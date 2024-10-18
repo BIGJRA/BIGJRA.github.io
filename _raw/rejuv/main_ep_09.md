@@ -304,7 +304,7 @@ Enter the building to the left to finish the Virtual League quest! All we have t
 
 !battle(["Lance",:JOHTO_13,0], "Glitch Field")
 
-If you succeed, you'll get the corresponding crest to your starter in the challenge: the *Meganium Crest*, *Typhlosion Crest*, or *Feraligatr Crest*! You'll also get 25 AP Points and a Somniam Mall Stamp! We will eventually find out what this stamp does.
+If you succeed, you'll get the corresponding crest to your starter in the challenge: the *Meganium Crest*, *Typhlosion Crest*, or *Feraligatr Crest*! You'll also get 25 AP Points and a *Somniam Mall Stamp*! We will eventually find out what this stamp does.
 
 It is worth noting that the other two crests now become available for purchase at the Kecleon Bazaar for $50,000 each.
 
@@ -420,7 +420,7 @@ This is a very tricky battle! He doesn't focus on raw strength; his Mega Banette
 
 Win to get the *Ghost Memory*!
 
-## Lost Camp 2
+## Lost Souls 2
 
 Take the truck to Akuwa Town. At the ACDMC you can now revive **Aerodactyl**, **Archen**, and **Tirtouga**!
 

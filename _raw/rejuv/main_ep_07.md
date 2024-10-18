@@ -260,7 +260,7 @@ In the villa, talk to Crawli.
 
 Once you're in Frozen Kakori Village, get the hidden *Super Repel* to the left. There are *4 Yache Berries* in the southeast corner. Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in the Mynori Sea, then take the Kakori Noctowl over to Teila Resort. Enter the villa and talk to the crew.
 
-*Special Scene: Valarie's Insecurity* requires 6 Relationship Points with both Valarie and Adam at this point.
+*Special Scene: Valarie's Insecurity* requires 6+ Relationship Points with both Valarie and Adam at this point.
 
 ## Rock Climb Exploration
 

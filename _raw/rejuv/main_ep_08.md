@@ -233,7 +233,7 @@ Exit at the top, and go right for the *Prince from the Sands* quest. If you didn
 
 You will then get an *Ability Capsule* and *Exp. Candy XL*.
 
-*Special Scene: Ryland's Conviction* requires 6 Relationship Points with Ryland at this point.
+*Special Scene: Ryland's Conviction* requires 2 Relationship Points with Ryland at this point.
 
 Backtrack to the water of Route 6, and go up and right.
 

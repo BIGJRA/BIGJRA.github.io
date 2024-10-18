@@ -279,9 +279,10 @@ class TrainerGetter
               if new_base_stats != base_stats
                 form_changes.push('Base Stats => ' + new_base_stats.zip(EV_ARRAY).map { |stat, position| "#{stat} #{position}" }.join(', '))
               end
+              eff_strs.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
+            else
+              eff_strs.push("Form changes to #{new_form_key}") 
             end
-      
-            eff_strs.push("Form changes to #{new_form_key} (#{form_changes.join('; ')})") 
           end
           if effs[:fieldChange]
             eff_strs.push("Field becomes #{FIELDS[effs[:fieldChange]]}") 

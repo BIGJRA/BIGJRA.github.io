@@ -628,7 +628,7 @@ def is_custom_form(form_key)
   form_frags = ["pulse", "rift", "aevian form", "bot", 
                "purple", "crystal", "mismageon", "meech",
                "dev", "crescent", "solrock", "lunatone", 
-               "west aevian form", "east aevian form"]
+               "west aevian form", "east aevian form", "tuff puff"]
   form_frags.any? { |key| form_key.downcase.include?(key) }
 end
 

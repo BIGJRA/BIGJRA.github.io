@@ -132,7 +132,7 @@ Head up. There are Duskull roaming here at night. Try to head into Akuwa Town to
 
 Our second encounter with Nim sees her Pokemon with much stronger Pokemon with stronger Psychic attacks, but they're still no match for a decent team. Good dark types and Pokemon that resist Psychic and/or Rock will do well here. Most of her Pokemon are slow and she doesn't have any speed control, so if you can outspeed and cripple one or both of her Pokemon per turn you'll likely find a way through this one.
 
-## Lost Souls Quest 1
+## Lost Souls 1
 
 Before proceeding, there are a few sidequests we can take care of. First of all - head into Akuwa Town with Aelita, and talk to the old man. We'll explore Akuwa Town itself later. We can now use the Truck Guy up and right of here to fast travel to Gearen, Goldenwood, and Sheridan, though!
 
