@@ -24,6 +24,8 @@ You'll notice a star above your head after the battle. Your reputation in GDC wi
 
 !battle(["Len",:BUGCATCHER,0], "City Field")
 
+!battle(["Andie",:PICNICKER,0], "City Field")
+
 Pick up the hidden *Dark Gem* and *Magical Seed*.
 
 !battle(["Beat",:COOLTRAINER_M,0], "City Field")
@@ -259,7 +261,7 @@ To the right is a move tutor for the pledge moves... which we already have. Down
 
 Anyways, grab the *Green Shard* on the table. In the grass at the top is a hidden *Synthetic Seed* and *Friend Ball*.
 
-Return to the Dream District South and enter the Dream Complex. Before we head upstairs, we will finish the delivery sidequest. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver, who will use a spray that contains a new Pokemon in an area we'll visit later.
+Return to the Dream District South and enter the Dream Complex. Before we head upstairs, we will finish the SPU Parcel Delivery sidequest. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver, who will use a spray that contains a new Pokemon in an area we'll visit later. (+1 Karma)
 
 ## Night 1 Dream
 
@@ -425,309 +427,52 @@ Enter the Grand Terminal Station and go to the left. In the Night Market, go rig
 
 Back in the Penthouse, talk to Aelita, then to Allen and Alice in the rightmost room. You'll get a *Nightmare Medallion*!
 
-## Nightmare City
+## Nightmare Toy Box
 
-Talk to Aelita in the first area, then head up for another scene. In this central area, grab the *Apophyll Pancakes* in the upper right corner and *TM85 Dream Eater* in the upper left. Head up at the fountain for a fight, as Aelita.
+Go to sleep in your bed at the penthouse. 
 
-Xen Executive Zetta (No Field)
--   Gliscor, Level 68. @ Flying Gem.
-    -   Tailwind
-    -   X-Scissor
-    -   Acrobatics
-    -   Poison Jab
--   Lucario, Level 69. @ Focus Sash.
-    -   Aura Sphere
-    -   Toxic
-    -   Shadow Ball
-    -   Calm Mind
--   Staraptor, Level 68. @ Assault Vest.
-    -   Brave Bird
-    -   U-Turn
-    -   Return
-    -   Endeavor
--   Blaziken, Level 69. @ Muscle Band.
-    -   Shadow Claw
-    -   Protect
-    -   Brave Bird
-    -   Blaze Kick
--   Mienshao, Level 68. @ Focus Sash.
-    -   U-Turn
-    -   Poison Jab
-    -   Brick Break
-    -   Protect
--   Hawlucha, Level 70. @ Flying Gem.
-    -   Acrobatics
-    -   X-Scissor
-    -   Poison Jab
-    -   Protect
+Talk to Aelita in the first area. Enter the room to the left. 
 
-The catch with this one is that the team you must use is the same as this one! I managed to win by using my Speed Boost Blaziken with Brave Bird wisely. I'm sure you can outsmart the AI with the same advantages as you.
+!battle(["Johana",:OPT,0], "Chess Board")
 
-**Relationship Point Choices**:
-- Of course not. (Aelita -1)
-- Well... (Aelita -3)
-- I'm not a judge, so... (Aelita +2)
+Head up to talk to... Zetta?!
 
-Grab the *Vanilla Ice Cream* on the left. Talk to the kid here if you did the ice cream quest to get a *Rare Candy* if you got them new ice cream, and a *Reverse Candy* if you got them the one from the ground.
+!battle(["Evans",:XENGRUNT_M,1], "Chess Board")
 
-Head up and into the Nightmare Casino. Zetta will explain the rules and give us 10000 coins. At the top right, grab *Psychic Memory*. The left vendor will give us a *Coin Case* if we have neglected to get one yet.
+A man at the top wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish. 
 
-Nightmare Casino Left Shop
+Enter the restaurant at the bottom and talk to the man in the bottom right. Talk to the server in the hallway where we entered.
 
-|Item       |Price      |
-|-----------|-----------|
-|50 Coins   |$1000      |
-|500 Coins  |$10000     |
+!battle(["Soyo",:OFFICER,0], "Chess Board")
 
-Nightmare Casino Right Shop
+Back in the pool area, enter the backstage and grab *TM85 Dream Eater*! Grab the Family Portrait in the room to the left. Return it to the guy in the casino, then talk to Don Carto beyond. He gives us the best offer of sponsorship in this whole area: 10x.
 
-|Item               |Price      |
-|-------------------|-----------|
-|500 Puppet Coins   |1000 Coins |
-|3500 Puppet Coins  |5000 Coins |
-|8500 Puppet Coins  |10000 Coins|
+With a sponsorship, we have what we need to reach a million puppet coins. Head over to the battlefield, save, then bet the highest amount of coins that you can. There are three fights, one will be chosen randomly.
 
-However, you need not deal with buying puppet coins or playing slots if you simply win battles. Talk to Don Carto in the bottom right: he will sponsor us with 10x the battle rate. So, by betting 10000 the first battle and 100000 the second battle we will win over 1000000.
+!battle(["Baybe",:LASS,0], "Chess Board")
 
-That said, the battles are somewhat tough: each of the three randomly chosen trainers has an Ultra Beast and a Legendary Dog. Still, you should be able to set up against the starting Pokemon and overcome.
+!battle(["Clarissa",:LADY,0], "Chess Board")
 
-Talk to Zetta with at least 1000000 Puppet Coins, then head up. Grab the *Revive*.
+!battle(["Hunter",:BLACKBELT,0], "Chess Board")
 
-There's an Audino level grinder here if you want to push your levels up to 70. Win to get 6 *Exp. Candy L* each time. Then, talk to Zetta in front of the box for a battle.
+It only takes three battles if you bet 1000, 10K, then 100K with Don Carto as a sponsor. Note that you'll need to talk to him after each battle to renew his sponsorship.
 
-Xen Executive Zetta (No Field)
--   Weavile, Level 68. @ Muscle Band.
-    -   Icicle Crash
-    -   Night Slash
-    -   Poison Jab
-    -   Ice Shard
--   Perrserker, Level 68. @ Protective Pads.
-    -   Swords Dance
-    -   Iron Head
-    -   Close Combat
-    -   Play Rough
--   Dragonite, Level 68. @ Dragon Fang.
-    -   Dragon Dance
-    -   Fly
-    -   Fire Punch
-    -   Dragon Claw
--   Typhlosion, Level 69. @ Power Herb.
-    -   Eruption
-    -   Heat Wave
-    -   Focus Blast
-    -   SolarBeam
--   Silvally, Level 69. @ Silk Scarf.
-    -   Return
-    -   Shadow Claw
-    -   Swords Dance
-    -   Zen Headbutt
--   Solosis, Level 1.
-    -   Memento
-    -   Memento
-    -   Memento
-    -   Memento
+Talk to the chest with at least 1000000 Puppet Coins, then find Zetta by the elevator.
 
-A somewhat tough singles battle. Again, a speedy rock type can deal massive damage to his team but watch out for Silvally in particular. If it gets off a SD, Return is gonna hit hard, so find a way to whittle it down without getting one-shotted. With a good team of 6 though his group of 5 will go down quickly.
+!battle(["Zetta",:XENEXECUTIVE_1,9], "Chess Board")
+
+The Chess Board's many tricks make this fight somewhat difficult, though thankfully the Queen you have to deal with is a Lv. 1 Solosis. Typhlosion and Perserrker are the big threats here, so be wary of them.
 
 ## Trickery Badge
 
+Enter the theater at the bottom. *TM29 Psychic* is to the right!
+
 Head into the box and go into the upper room. Step on the bottom right and top left switch only to solve the puzzle, then talk to Aelita for a surprise gym battle!
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Puppet Master Magenta (Tag Battle -&gt;)
-<ul>
-<li>Beheeyem, Level 68. @ Focus Sash.
-<ul>
-<li>Dazzling Gleam</li>
-<li>Bunraku Beatdown</li>
-<li>Signal Beam</li>
-<li>Shadow Ball</li>
-</ul></li>
-<li>Slowking, Level 67. @ Magical Seed.
-<ul>
-<li>Psyshock</li>
-<li>Calm Mind</li>
-<li>Blizzard</li>
-<li>Scald</li>
-</ul></li>
-<li>Gardevoir, Level 68. @ Leftovers.
-<ul>
-<li>Bunraku Beatdown</li>
-<li>Hypnosis</li>
-<li>Dazzling Gleam</li>
-<li>Shadow Ball</li>
-</ul></li>
-<li>Gallade, Level 68. @ Assault Vest.
-<ul>
-<li>Rock Slide</li>
-<li>Psycho Cut</li>
-<li>Ice Punch</li>
-<li>Drain Punch</li>
-</ul></li>
-<li>Medicham, Level 69. @ Medichamite.
-<ul>
-<li>Signal Beam</li>
-<li>Focus Blast</li>
-<li>Bunraku Beatdown</li>
-<li>Shadow Ball</li>
-</ul></li>
-</ul></td>
-<td>Puppet Master Neon (Psychic Terrain)
-<ul>
-<li>Claydol, Level 68. @ Light Clay.
-<ul>
-<li>Light Screen</li>
-<li>Earth Power</li>
-<li>Reflect</li>
-<li>Bunraku Beatdown</li>
-</ul></li>
-<li>Xatu, Level 67. @ Leftovers.
-<ul>
-<li>Thunderwave</li>
-<li>Tailwind</li>
-<li>Bunraku Beatdown</li>
-<li>Dazzling Gleam</li>
-</ul></li>
-<li>Bronzong, Level 68. @ Iron Ball.
-<ul>
-<li>Gravity</li>
-<li>Gyro Ball</li>
-<li>Hypnosis</li>
-<li>Future Sight</li>
-</ul></li>
-<li>Slowbro, Level 69. @ Magical Seed.
-<ul>
-<li>Future Sight</li>
-<li>Scald</li>
-<li>Thunderwave</li>
-<li>Slack Off</li>
-</ul></li>
-<li>Musharna, Level 70. @ Sitrus Berry.
-<ul>
-<li>Bunraku Beatdown</li>
-<li>Hypnosis</li>
-<li>Moonlight</li>
-<li>Dazzling Gleam</li>
-</ul></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+!dbattle(["Magenta",:LEADER_PUPPET1,0], ["Neon",:LEADER_PUPPET2,0], "Psychic Terrain")
 
-Bunraku Beatdown: Psychic \| Special \| 75 power, but increases in power for each knocked out ally \| 100% accuracy \| On Psychic Terrain, power is boosted x1.5.
+!move("BUNRAKUBEATDOWN")
 
-Time for a little lesson in Trickery. You ultimately are going to be fighting not just their team of 10 but also with the fact that Aelita's AI isn't always doing the best thing. Claydol's walls are going to be annoying - you must get Aelita to, or use brick break, else there's not a very easy way to OHKO even Magenta's sweeper team very easily. The strategy here I recommend is knocking out Claydol first then going exclusively for Neon, as if Xatu/Bronzong are out, they're tame to fight. If you can get to just Neon with Aelita having Hawlucha/Staraptor alive you're in good shape but watch out for how ridiculously bulky and strong the Musharna is.
+Time for a little lesson in Trickery. Neon's team of three is bulky while Magenta's team of three is more offensively focused, meaning you either want to wear them down with spread moves or target Magenta first. Telepathy *doubles* speed on Trick Room, frankly one of the most busted Field Effects in the entire game. This means that Oranguru and Beheeyem will probably move first on Turn 1, so be prepared for that. As a proud Trick Room enthusiast, I will recommend my favorite TM here as well: if you can live one turn to set up Trick Room, a team of hard-hitting mid-speed Pokemon can sweep Magenta. Then all you have to do is time knocking out the relatively weak Oranguru for when Trick Room will end, allowing the same Pokemon to bowl over the extremely slow pair of Musharna and Mega Hatterene in the back.
 
-Head into the room on the right to pick up *TM29 Psychic* behind the post! Oh yeah! Then, head into the box.
-
-When you awaken, talk to the box at the table to get the *Trickery Badge*! Nice.
-
-Head outside to talk to Aelita.
-
-**Relationship Point Choices**:
-- I'll go with you. (Aelita +2)
-- I know Erin. (Neutral)
-- Maybe... (Aelita -2)
-
-Then head over to the Grand Dream Station. Talk to her here, and enter the train headed to Route 9.
-
-## Route 9 First Visit
-
-Route 9
-
-| Grass          | %        | Water          | %        |
-|----------------|----------|----------------|----------|
-| **Pangoro**    | 35       | Mantyke        | 60       |
-| Liepard        | 24       | Dewgong        | 30       |
-| **Mothim**     | 15       | Sealeo         | 5        |
-| **Sudowoodo**  | 14       | Mantine        | 4        |
-| **Lycanroc**   | 10       | **Pincurchin** | 1        |
-| **Talonflame** | 2        |                |          |
-
-| Old Rod         | %        | Good Rod        | %  |
-|-----------------|----------|-----------------|----|
-| Spheal          | 70       | Mantyke         | 60 |
-| Mantyke         | 30       | Quagsire        | 20 |
-|                 |          | Qwilfish        | 20 |
-
-Explore the route a bit. There is also an Audino Breeder in the area, each time you win, you will get 7 *Exp. Candy L*.
-
-At the top, you'll find:
-
-ZCell 074: Route 9
-
-<img src="/assets/images/rejuv/image76.png"/>
-
-Head down to the bottom part of the route. Here, you'll encounter wild Sandygast.
-
-Hidden on Route 9, you'll find a *Calcium, Carbos, Big Mushroom, Resist Wing*, and *Swift Wing*.
-
-Surf up and around to the right here. At the top, you'll find:
-
-ZCell 075: Route 9
-
-<img src="/assets/images/rejuv/image77.png"/>
-
-Back on the main part of the route, enter the first cave entrance on the right.
-
-Forlorned Cavern
-
-| Grass             | %        | Water          | %        |
-|-------------------|----------|----------------|----------|
-| Pangoro           | 25       | Mantyke        | 60       |
-| Graveler (Alolan) | 20       | Dewgong        | 30       |
-| Swoobat           | 15       | Sealeo         | 5        |
-| Togedemaru        | 14       | Mantine        | 4        |
-| Sudowoodo         | 14       | Bruxish        | 1        |
-| Lycanroc          | 10       |                |          |
-| Rhyhorn           | 1        |                |          |
-| Rhydon            | 1        |                |          |
-
-| Old Rod         | %   | Good Rod        | %  |
-|-----------------|-----|-----------------|----|
-| Corphish        | 70  | Mantyke         | 60 |
-| Chewtle         | 30  | Quagsire        | 20 |
-|                 |     | Qwilfish        | 20 |
-
-Pick up a hidden *Yellow Shard*, then head into the room at the top with the crystal and pick up a hidden *Pretty Wing* as well as:
-
-ZCell 076: Forlorned Cavern
-
-<img src="/assets/images/rejuv/image78.png"/>
-
-That's all we can do in this section of the cave, so head back out and go to the left, where the hiker is, and enter this cavern. At the top, use rock climb to grab an *Ability Capsule*. There's also a *Dusk Stone* hidden behind the rock smash path at the bottom. Pick up the hidden *Mineral Ball* and *Ether* as you go to the right.
-
-Exit at the top right, then pick up the hidden *Muscle Wing* and follow the path to the next cave entrance. There is a hidden *Clever Wing* and *Soda Pop* along this path: follow it to get *TM35 Flamethrower*! The tree here also has hidden *Honey* in it.
-
-That's all the exploring we can do for now, so head towards the northwest portion of the route, then approach the Rose Theater. Use cut on the bamboo on the left side to encounter **Komala**! Surf across:
-
-ZCell 077: Route 9
-
-<img src="/assets/images/rejuv/image79.png"/>
-
-Enter the theater.
-
-## Rose Theater First Visit
-
-**Relationship Point Choices**:
-- Don't be so harsh... (Aelita -2)
-- Stop being ignorant! (Aelita -4)
-- You did what you had to do. (Aelita -1)
-
-Once you regain control, head through either of the two hallways and enter the stage. Talk to Ayuna and agree to help her find her Kimono Sisters. This starts a quest that we'll get to in just a bit.
-
-While you're in this room, head to the southeast to grab:
-
-ZCell 078: Rose Theater
-
-<img src="/assets/images/rejuv/image80.png"/>
-
-Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. Exit the southeasternmost door to grab a *Flying Memory*. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
-
-Head upstairs, and into the left door.
+Open the box to get the *Trickery Badge*, which raises our level cap to Lv. 75!
