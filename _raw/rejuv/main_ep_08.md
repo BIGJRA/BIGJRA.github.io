@@ -299,7 +299,7 @@ Stand in the circle for another titanic battle!
 
 !boss("BOSSKYOGRE", "Water Surface")
 
-Thankfully, Venam absolutely pulls her weight on this fight with powerful Grass and Electric type moves plus some resistances to Kyogre's strategies. The stat drops and Whirlpools make trying to sweep with a single mon difficult, so you will likely need a full bench ready to come in. Paralysis and the Storm Drain ability in particular make this battle much easier than it would be otherwise.
+Thankfully, Venam absolutely pulls her weight on this fight with powerful Grass and Electric type moves plus some resistances to Kyogre's strategies. The stat drops and Whirlpools make trying to sweep with a single Pokemon difficult, so you will likely need a full bench ready to come in. Paralysis and the Storm Drain ability in particular make this battle much easier than it would be otherwise.
 
 **Relationship Point Choices**:
 - Save Amber in Valor Mountain (+1 Amber, +1 Venam, +1 Tesla)

@@ -264,7 +264,8 @@ class FunctionWrapper
   def generate_move_markdown(move_name)
     # Creates nokogiri HTML
     m = @moveHash[move_name.to_sym]
-    "#{m[:name]}: #{m[:type].to_s.capitalize} \\| #{m[:category].to_s.capitalize} \\| #{m[:basedamage]} Pwr \\| #{m[:accuracy]}% Acc \\| #{m[:desc]}"
+    acc = m[:accuracy] == 0 ? "Perfect" : "#{m[:accuracy]}%"
+    "#{m[:name]}: #{m[:type].to_s.capitalize} \\| #{m[:category].to_s.capitalize} \\| #{m[:basedamage]} Pwr \\| #{acc} Acc \\| #{m[:desc]}"
   end
 
   def generate_trainer_markdown(trainer_id, field = nil)

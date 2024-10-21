@@ -62,7 +62,7 @@ Ame will ask you if you have any special instructions or passwords. From the gam
 If this is your first time playing, don't worry too much about passwords - in fact, you can activate passwords later on into the game if you change your mind or discover a new password.
 
 - If you want to do a challenge run, try one of the *mono\[type\]* passwords. Note that it doesn't enforce any explicit rules for battle; it simply guarantees you suitable Pokemon for random events. I really recommend trying one of these especially for a second playthrough.
-- You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-mon-per-area rule explicitly. You can even do both at the same time.
+- You can do *nuzlocke* or *randomizer* if you'd like, just note that Nuzlocke doesn't enforce a first-Pokemon-per-area rule explicitly. You can even do both at the same time.
 - *hardcap* prevents you from leveling past your current cap, and *easyhms* allows you to use HMs without teaching them to your Pokemon. Reborn was originally built with the disobedience system and normal HM mechanics, but these passwords are highly recommended for quality of life.
 - *noitems* makes it so you can't use in battle items like Potion and X-Attack. I prefer this for the extra difficulty it provides and how it increases the value of moves like Recover.
 - *nodamagerolls* makes it so moves will always roll the same damage. There are some fights in this game you practically must reset for a couple times at least, so minimizing the randomness is in my opinion pretty handy.

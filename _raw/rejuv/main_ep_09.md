@@ -242,7 +242,7 @@ Once we regain control, head back down into the sewers, where we can now get:
 
 !enc(239, nil, ["Old", "Good"], "West Gearen City (North)")
 
-Enter the power plant at the top. In the door to the left, head up. Pick up the *Metal Coat* here. Head down the stairs: for a quest, gather 5 Electric types, and 5 Fire types to donate. The easiest way to do this is to breed a mon of each type and take all their babies back. Return to each person with the 5 Pokemon to get the *Electirizer* and *Magmarizer*. Pick up 2 *Cell Batteries* next to the Electrodes.
+Enter the power plant at the top. In the door to the left, head up. Pick up the *Metal Coat* here. Head down the stairs: for a quest, gather 5 Electric types, and 5 Fire types to donate. The easiest way to do this is to breed a Pokemon of each type and take all their babies back. Return to each person with the 5 Pokemon to get the *Electirizer* and *Magmarizer*. Pick up 2 *Cell Batteries* next to the Electrodes.
 
 Head down from the factory and go left.
 

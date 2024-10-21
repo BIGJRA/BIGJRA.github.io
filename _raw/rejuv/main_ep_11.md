@@ -70,7 +70,9 @@ Enter the Night Market at the top right of Dream District South.
 
 !battle(["Andy",:YOUNGSTER,0], "City Field")
 
-An alleyway on the right leads to *TM67 Roost*.
+An alleyway on the right leads to *TM67 Roost*. On the left at night, you can enter a medicine/incense store.
+
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense"])
 
 !battle(["Haydee",:LASS,0], "City Field")
 

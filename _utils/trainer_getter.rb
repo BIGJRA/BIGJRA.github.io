@@ -194,8 +194,8 @@ class TrainerGetter
 
       if custom_form_bool # Add typing only for custom formes
         type1 = form_data[:Type1] ? @typeHash[form_data[:Type1]][:name] : @typeHash[form_1_data[:Type1]][:name]
-        type2 = form_data[:Type2] ? @typeHash[form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
-        if type2.nil?
+        type2 = form_data[:Type2] ? @typeHash[form_data[:Type2]][:name] : (form_1_data[:Type2] ? @typeHash[form_1_data[:Type2]][:name] : nil)
+        if type2.nil? || type1 == type2
           typeStr = "Typing: #{type1}"
         else
           typeStr = "Typing: #{type1}/#{type2}"
@@ -248,7 +248,9 @@ class TrainerGetter
 
           eff_strs = []
           # TODO: These will all need custom code............
-          eff_strs.push(effs[:bossEffect]) if effs[:bossEffect]
+          if effs[:bossEffect]
+            eff_strs.push("Effect added to boss's side: #{effs[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+          end
           if effs.key?(:weatherChange)
             if effs[:weatherChange] == nil
               eff_strs.push("Weather is nullified")
@@ -302,7 +304,9 @@ class TrainerGetter
           if effs[:statusCure]
             eff_strs.push("Boss's status effects cured") 
           end
-          eff_strs.push(effs[:effectClear]) if effs[:effectClear]
+          if effs[:effectClear]
+            eff_strs.push("Effects are cleared") 
+          end
           if effs[:bossSideStatusChanges]
             eff_strs.push("Effect added to boss's side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
@@ -358,7 +362,11 @@ class TrainerGetter
               curr = curr[:delayedaction]
             end
             actions.each do |tc, act|
-              ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
+              if act[:repeat] 
+                ts = "After every #{tc} turn#{tc == 1 ? "" : "s"}: "
+              else
+                ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
+              end
               if act[:playerSideStatChanges]
                 groups = {}
                 act[:playerSideStatChanges].each do |stat, lvl|
@@ -381,6 +389,9 @@ class TrainerGetter
                 groups.each do |lvl, stats|
                   eff_strs.push("#{ts}Boss's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
                 end
+              end
+              if act[:bossEffect]
+                eff_strs.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
               end
             end
           end
