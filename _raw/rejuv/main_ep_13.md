@@ -485,7 +485,7 @@ At the top of the room, you'll find:
 
 Grab the *Sandacondanite* then exit the cave by climbing the ladder.
 
-## Zorrialyn Labyrinth 1st Visit
+## Zorrialyn Labyrinth
 
 Next, we're going to do some treasure hunting. Towards the bottom of Zorrialyn Coast is the entrance to the Zorrialyn Labyrinth. It costs $5500 per trip: we will be booted from the dungeon after a certain number of steps, meaning completion requires multiple trips. Try not to stray too much from the listed paths: there is a bit of wiggle room but not much.
 
@@ -643,7 +643,6 @@ Enter the Gearen Lab and talk to Jan to begin the *Reborn Again* quest. Then, he
 Enter the sewers with Adrienn. Follow Adrienn into the next room, and pick up the hidden *Blue Shard* and *Green Shard*. In the main room, there is a *Rare Candy*, and the hidden items include *2 Red Shards*, *2 Blue Shards*, *Zinc*, *Potion*. Next, go to the upper right room.
 
 Emerge on the right side of East Gearen and meet Adrienn near the Truck Guy. There are new help quests!
-
 
 ### Poke Ball Conundrum 
 
@@ -809,105 +808,86 @@ That's all we can do here for now, so return to normal Route 2.
 
 ## Terajuma Island 12 Badge Quests
 
-Next, fly to Kakori, and head down to the depths of the gym. Using strength in the backroom, you'll get *TM106 Irritation*.
+Time to do some quests on Terajuma.
+ 
+Fly to Kakori, and take the lift to Mt. Terajuma. If you've picked up all three of the TMs for Hail, Sunny Day, and Rain Dance, show them to the guy in front of the Weather Institute to get the *Castform Crest* and *TM128 Weather Ball*. 
 
-In Terajuma Jungle, If you've picked up the T.M.'s for Hail, Sunny Day, and Rain Dance, show them to the guy in front of the weather institute to get the *Castform Crest* and *TM128 Weather Ball*.
+Talk to a man above in the Weather Institute if you have started the *Flora's Puzzle Box* Quest. He wants a Pumpkin from Goldenleaf Town, so fly over there. The pumpkin is on the hill across the river to the left... uh oh.
 
-Enter Aquamarine Cave next: in the chamber room, surf up and talk to **Squirtle**. Give it a GourmetTreat for a battle.
+!boss("BOSSGOURGEIST", "Forest Field")
 
-Go to Kristiline Town next. The T.M. shop has updated wares:
+Quite a tough fight out of nowhere! Past its first phase, Gourgeist has a ton of ways to heal itself, so you have to find a way to either get clean one-shots, or suppress this healing. Transforming the field from Grassy Terrain into Swamp or Burning Field or Corrupted Field can be helpful. 
 
-Kristiline T.M. Shop New Items (12+ Badges)
+Winning awards you with the *Pumpkin*. Return to the Mt. Terajuma Weather Institute. You'll get the *Sceptilite* as well as *Venusaurite G*. 
 
-|Item                 |Price  |
-|---------------------|-------|
-|*RM01 Hone Claws*    |$150000|
-|*RM05 Sucker Punch*  |$100000|
-|*TM116 Mega Kick*    |$150000|
-|*TM125 Charm*        |$15000 |
-|*TM155 Eerie Impulse*|$15000 |
+Fly over to Kristiline Town next. The T.M. shop has updated wares:
 
-Make sure you have 15000 Red Essence, then fly to Secret Shore, and head to the left. You'll notice a strength boulder across the water - push it out of the way, and you'll find a special den. Put in 15000 Red Essence and a Rift Matter, and you'll be able to battle **Beldum**! It has two shields. Just make sure you don't kill it or let it Take Down itself to death. When you catch it, your reward will be *Xen Waste*. Note that this is a special shadow Pokemon and needs to enter the Purify Chamber in the PC such that all 9 of the slots have perfect "flow" in order to be purified. Easiest way to do this is to stick 36 normal types in.
+!shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
 
-TOWER CELLAR has darchlight mirror
+Enter the Church of Theolia in the Isle of Angels. Enter the Tower of Theolia through the portal. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!!!
+
+Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island. In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! You will also get *Xen Waste* for the capture. 
+
+Fly to Teila Resort and enter the Magrodar Crater. At night, you can push a floating Black Shard on the left to find Chimchar. Give it 12 Charcoal to catch **Chimchar**!
+
+Next, add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee, Emolga, and Gligar fulfill this criteria. Head all the way to the Tyluric Temple. Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight.
+
+!boss("BOSSKECLEON", "Grassy Terrain")
+
+This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
+
+Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a GourmetTreat.
+
+One quest remains for now. Head to Route 6 above Jynnobi Pass. The top left Xen Ship had trainers with too high levels before, but we can tackle it now.
+
+!dbattle(["Sett",:XENGRUNT_M,0], ["Doris",:XENGRUNT_F,0], "Short-Circuit Field")
+
+!dbattle(["Soren",:XENMAGE_M,0], ["Misella",:XENMAGE_F,0], "Short-Circuit Field")
+
+Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 Green Shards*, *Fire Stone*, *Leaf Stone*, and *Thunderstone*.
+
+!dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
+
+A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, and the *Electrode Crest*!
 
 ## Grand Dream Tournament
 
 When you're ready, hop on the Route 9 train headed to the Tournament Stadium. Enter the building. Talk to Erin at the desk, then to the attendant.
 
-GDC Tournament Shop
+There is an *Ultra Potion* and *Revival Herb* here. Head in and talk to Erin.
 
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Ultra Ball*   |$1200|
-|*Super Potion* |$700 |
-|*Hyper Potion* |$1200|
-|*Ultra Potion* |$2200|
-|*Awakening*    |$250 |
-|*GourmetTreat* |$1500|
-|*Reverse Candy*|$50  |
-|*Repel*        |$350 |
-|*Super Repel*  |$500 |
-|*Max Repel*    |$700 |
+!shop("GDC Tournament Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "GourmetTreat", "Reverse Candy", "Repel", "Super Repel", "Max Repel"])
 
-Head in and into the door on the left. When you're ready, talk to the guy at the right. We'll be playing a 3v3 tournament. Each battle, minus the last, will be played on a random field. So, that's interesting. The trainers aren't too hard to beat, but so you're aware of their strategies, here they are:
--   Rain Team
--   FEAR/Sturdy Shenanigans
--   Extreme Evo-boost -\> Pass -\> Stored Power
+Register for the tournament and head in. Enter the door on the left and pick your trio of Pokemon.
+
+!battle(["Mordecai",:FISHERMAN,0], "Random Field")
+
+!battle(["Rigby",:CUEBALL,0], "Random Field")
+
+!battle(["Alexa",:LASS,0], "Random Field")
 
 You'll then get to play as Melia for a quick second. Head into the Grand Dream Ball.
 
-The next 3 battles are as follows:
--   Standard heavy offense with a Z-move
--   Residual damage/stall
--   Fast and hard damage
+!battle(["Simon",:BLACKBELT,0], "Random Field")
+
+!battle(["Cyan",:POKEBREEDER_F,0], "Random Field")
+
+!battle(["Kanon?",:OPTKID_2,0], "Random Field")
 
 After some scenes, you'll get a treat from Tesla.
 
-The next set of battles:
--   Nothing special
--   Nothing special: Salazzle Edition
+!battle(["Regalia",:COOLTRAINER_F,0], "Random Field")
 
-So, beat all eight of these fools and watch the following cutscene...
+!battle(["Salazar",:POKEMONRANGER_M,0], "Random Field")
 
 ## Rugged Badge
 
-Gym Leader Adam (Inverse Field)
--   Tyranitar, Level 80. @ Magical Seed.
-    -   Dragon Dance
-    -   Earthquake
-    -   Crunch
-    -   Matrix Shot
--   Aurorus, Level 78. @ Focus Sash.
-    -   Hyper Voice
-    -   Earth Power
-    -   Thunder Wave
-    -   Flash Cannon
--   Crustle, Level 79. @ Custap Berry.
-    -   X Scissor
-    -   Shell Smash
-    -   Slash and Burn
-    -   Matrix Shot
--   Kabutops, Level 79. @ Focus Sash.
-    -   Matrix Shot
-    -   Slash and Burn
-    -   Waterfall
-    -   X Scissor
--   Gigalith, Level 78. @ Assault Vest.
-    -   Dragon Dance
-    -   Earthquake
-    -   Crunch
-    -   Matrix Shot
--   Aerodactyl, Level 83. @ Aerodactylite.
-    -   Return
-    -   Slash and Burn
-    -   Ice Fang
-    -   Matrix Shot
+!battle(["Adam",:LEADER_ADAM,0], "Inverse Field")
 
-Matrix Shot: Rock \| Physical \| 90 power \| 100% accuracy \| Uses the target's Special Defense stat instead of the Defense stat in the damage calculation.
+!move("MATRIXSHOT")
 
-The Tyranitar is a tank on this field. Basically, it turns Normal type, and all its moves are turned to Normal type as well, adding to their damage. That, plus its single weakness now being Ghost, you're gonna struggle with killing it. His Kabutops is also tough to beat if it gets a Weak Armor speed boost. Otherwise, it's not the hardest battle in the world if you can account for the Inverse Field. Fire moves hit everything except Crustle and Tyranitar super effectively here - just watch out for the X-Scissor and Slash and Burn moves here and there. I also recommend using your own Magical Seeds - it will turn even type-disadvantaged mons into super-effective titans, crushing with Normalized moves.
+The Inverse Field is the simplest Field in this game, with only a few effects to its name. Yet this fight is pretty difficult: despite their sturdiness, Rock types have a ton of weaknesses and few resistances normally, all of which is flipped in this battle. With tons of inverse-focused coverage in types like Grass, Normal, and Bug, your team is likely going to get caught off guard in this fight. He has a range of speeds on his team but nothing way too slow to pull off a Trick Room strategy, and he also has a Sash on Kabutops and similar effect on crested Rampardos. Stone Axe adds Stealth Rock to your side as well. His lead is tricky too: the Magical Seed transforms Tyranitar into a Normal type and adds Normalize.
 
-Win to get the Rugged Badge, which lets us use Dive and go up to Level 85. You'll also get *TM80 Rock Slide*. Nice.
+Winning this fight will probably rely on a hazard to break the sash effects plus a sweeper. Fire and Normal moves are generally going to be your best bet here. Aerodactyl is fast but weak to moves like Quick Attack and Extremespeed, after all. 
+
+Win to get the Rugged Badge, which lets us use Dive and go up to Level 85. You'll also get *TM80 Rock Slide*.

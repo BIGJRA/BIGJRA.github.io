@@ -362,7 +362,7 @@ class TrainerGetter
               curr = curr[:delayedaction]
             end
             actions.each do |tc, act|
-              if act[:repeat] 
+              if act[:repeat] && !act[:typeSequence]
                 ts = "After every #{tc} turn#{tc == 1 ? "" : "s"}: "
               else
                 ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
@@ -393,6 +393,13 @@ class TrainerGetter
               if act[:bossEffect]
                 eff_strs.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
               end
+              if act[:typeSequence]
+                typeCycles = []
+                act[:typeSequence].each do |num, obj|
+                  typeCycles.push(obj[:typeChange].map {|type| @typeHash[type][:name]}.uniq.join("/"))
+                end
+                eff_strs.push("#{ts}Begins cycling types each turn: #{typeCycles.join(" -> ")}")
+              end
             end
           end
 
@@ -401,9 +408,16 @@ class TrainerGetter
         end
       end
 
-      if trainer_data[:trainereffect] && trainer_data[:trainereffect][:effectmode] == :Party
-        if trainer_data[:trainereffect][idx]
-          effs = trainer_data[:trainereffect][idx]
+      # Trainer Data and party size offset
+      trainer_effects = [[trainer_data[:trainereffect], 0]]
+      if second_trainer_data
+        trainer_effects.push([second_trainer_data[:trainereffect], trainer_data[:mons].length])
+      end
+      trainer_effects.each do |trainerEffect, offset|
+        next if trainerEffect == nil
+        next if trainerEffect[:effectmode] != :Party
+        if trainerEffect[idx - offset]
+          effs = trainerEffect[idx - offset]
           if effs[:pokemonStatChanges]
             groups = {}
             effs[:pokemonStatChanges].each do |stat, lvl|
@@ -428,6 +442,9 @@ class TrainerGetter
           end
           if effs[:typeChange]
             mon_details_parts.push("Typing changed to: #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
+          end
+          if effs[:trainersideChanges]
+            mon_details_parts.push("Effects added to trainer's side: #{effs[:trainersideChanges].keys.map{|k| k.to_s}.join(", ").gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
         end
       end

@@ -379,7 +379,9 @@ Welcome to the Underground. Enter the right building below.
 
 We can *finally* purchase Blast Powder. Get a ton of it so we can later backtrack to use it to get items and such.
 
-!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Stick", "Float Stone", "Binding Band"])
+!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Leek", "Float Stone", "Binding Band"])
+
+Pricey as they are, we are eventually going to need 12 Charcoal for a quest later.
 
 Go to the left. Inside the Pokemon Center, you can start the *Particia's Letter* quest. Drop the letter in the mailbox by the lift then return to Particia to finish the quest.
 
