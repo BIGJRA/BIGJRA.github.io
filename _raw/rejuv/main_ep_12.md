@@ -484,6 +484,8 @@ Return to the help center to get $25000 and a *Somnium Mall Stamp*!
 
 !shop("Somnium Mall Rare Berries", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
 
+Buy at least five Occa and Passho Berries each for later.
+
 Return to Darchlight Caves and make your way all the way back to the room where you fought Ferrothorn, interact with the panel in the back, then enter the right room. Read the journal and use the Itemfinder in here to get *Dubious Disc*!
 
 ## Golden Wing Badge

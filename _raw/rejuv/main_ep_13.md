@@ -432,7 +432,12 @@ Make your choice with Damien.
 
 Grab the *Gothitelle Crest*, *Reuniclus Crest*, and *Rock Memory* on the way out.
 
-Talk to Damien once more outside and watch the scene that plays out. Return to the help center to claim your reward: $22500, a *Link Heart*, *3 Sitrus Berries*, and *3 Roseli Berries* (+1 Karma).
+Talk to Damien once more outside and watch the scene that plays out.
+
+**Relationship Point Choices**:
+- Talk to Damien outside after convincing him (+1 Damien)
+
+Return to the help center to claim your reward: $22500, a *Link Heart*, *3 Sitrus Berries*, and *3 Roseli Berries* (+1 Karma).
 
 ### My Sister Fell!
 
@@ -577,14 +582,232 @@ Pick up *TM74 Gyro Ball*. That's it for Route 10.
 
 A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of Route 10 if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
 
-Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! 
+Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
 
-## Neo Gearen City & Help Quests
+## Neo East Gearen City & Help Quests
 
-Fly to Evergreen Forest, and head up. Rock Climb here, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up MegaStone *Audinite*! Make your way to the spring. Battle and catch "The Emperor"
-(**Empoleon**). Back outside the forest, talk to Nana in her house for a *King's Rock*!
+Now that we can fly back to Floria and Terajuma, there are tons of things we can do now with 12 Badges and HM Strength.
 
-Head to North Evergreen Cave. Melt the ice again with a move like Lava Plume to get to the top. Push the boulder into this hole. On the next floor, you need to push it into the rightmost hole... unfortunately this is the farthest one away. On the next floor, navigate it all the way around to the hole on the bottom. Once you push it down, follow it. Fish in this newly opened spot to catch **Feebas**!
+First, fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a GourmetTreat to get **Litten**! Exit east to the now "Neo" East Gearen City.
+
+There are new trainers to fight and items on each map.
+
+!enc(19, nil, ["Old", "Good"], "Neo East Gearen City (Left)")
+
+!battle(["Talia",:OPT,2], "City Field")
+
+!battle(["Nadine",:LADY,2], "City Field")
+
+!battle(["Shakotal",:KIMONOGIRL,2], "City Field")
+
+!battle(["Lacey",:LASS,2], "City Field")
+
+On this map you can find hidden items: *GourmetTreat*, *Yellow Shard*, *Resist Wing*, *Elemental Seed*, *Super Potion*, *Red Shard*, and *2 Grass Gems*. 
+
+There are some move tutors in the bottom left side of the map.
+
+!tutor("NEGC Corsola Move Tutor", [["Throat Chop", "4 Red Shards"]])
+
+!tutor("NEGC Female Move Tutor", [["Iron Head", "5 Red Shards"], ["Foul Play", "5 Blue Shards"], ["Knock Off", "5 Green Shards"], ["Poltergeist", "5 Yellow Shards"], ["Bug Buzz", "5 Green Shards"]])
+
+!tutor("NEGC Male Move Tutor", [["Last Resort", "4 Yellow Shards"], ["Outrage", "7 Green Shards"], ["Low Kick", "5 Blue Shards"], ["Steel Roller", "6 Yellow Shards"], ["Power Gem", "6 Red Shards"]])
+
+Grab an Aevian Budew from the PC and enter the Magnolia Library. Show it to Zumi for the *PictoZumi* quest. You'll get *10 Exp. Candy XL* and the *Ampharosite*! Our next Pokemon target is an Aevian Form located in the Axis Factory, which we'll get to later.
+
+Finally, it's time to get another legendary! Head to the Help Center and talk to Ayuda. We have over 100 Cells plus one Core, so we now get **Zygarde 10%**! Talk to him again right after: since we have over 120 Zygarde Cells, we get *5 Cell Imprints*, *20 Exp. Candy XL*, and a *Modest Mint*. Our next target is 140 Cells.
+
+Head down to Oceana Pier. You can trade a Rockruff for a **Rockruff** with Own Tempo, which you can evolve into **Lycanroc (Dusk)**. You can also find a hidden *X Accuracy* and *Sweet Heart*
+
+Head to Neo East Gearen City (Right). 
+
+!enc(44, nil, ["Old", "Good"], "Neo East Gearen City (Right)")
+
+!battle(["Penelope",:BEAUTY,2], "City Field")
+
+!battle(["Bianca",:BEAUTY,2], "City Field")
+
+!battle(["Denko",:HIKER,2], "City Field")
+
+On this map you can find hidden *Resist Wing*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. At the bottom of the map by Karrina's HQ is a *Reverse Candy*.
+
+Enter Gearen Park below.
+
+!enc(571, nil, nil, "Neo Gearen Park")
+
+Hidden here is *2 Honeys*, *Leaf Stone*, *Carbos*, *Muscle Wing*, *Blue Shard*, and *Yellow Shard*.
+
+Catch a Level 100 Budew (or catch one that is close, and use Rare Candies). Then, show it to the guy at the bottom to get the *Grassium-Z*.
+
+Enter the Gearen Lab and talk to Jan to begin the *Reborn Again* quest. Then, head outside and talk to Adrienn again.
+
+Enter the sewers with Adrienn. Follow Adrienn into the next room, and pick up the hidden *Blue Shard* and *Green Shard*. In the main room, there is a *Rare Candy*, and the hidden items include *2 Red Shards*, *2 Blue Shards*, *Zinc*, *Potion*. Next, go to the upper right room.
+
+Emerge on the right side of East Gearen and meet Adrienn near the Truck Guy. There are new help quests!
+
+
+### Poke Ball Conundrum 
+
+Enter the Everglade Mall, which replaces and incorporates the old Berry Shop, Pokeball Emporium, and Salon. Speak to the clerk at the Poke Ball shop.
+
+Attempt to enter the door at the Tecanlite Factory in West Gearen. Head down, and Aya will let you in.
+
+!partner(["Aya",:WPUNK,2])
+
+!dbattle(["Ron",:XENGRUNT_M,0], ["Famuya",:XENGRUNT_F,0], "Factory Field")
+
+Pick up all the balls you see around: *Ultra Ball*, *Nest Ball*, and *Dive Ball*.
+
+!dbattle(["Jayde",:XENGRUNT_F,0], ["Linica",:XENGRUNT_F,0], "Factory Field")
+
+Grab the *Love Ball*, *Poke Ball*, and *Dive Ball*.
+
+!dbattle(["Elijah",:XENGRUNT_M,0], ["Ibrahim",:XENGRUNT_M,0], "Factory Field")
+
+Enter the door and get the *Tecanlite Key*. Use it on the door at the top to pick up *TM24 Thunderbolt*!
+
+Back in the main area, use the Key on the higher level, then follow the path through to the right. Grab the *Poke Ball* and *Dusk Ball*, then enter the double doors.
+
+!dbattle(["Lupin",:XENDEATHWING_M,0], ["Sonia",:XENDEATHWING_F,0], "Factory Field")
+
+Return to the East Gearen Help Center to get your reward - $12356, and the *Aloraichium-Z* (+1 Karma)! You can also return to the Pokeball Emporium in the mall to get 15 *Ultra Balls*. 
+
+### Forest Restoration 
+
+Meet at the Route 1 Train Station. Talk to Adrienn in front of where we fought Gyarados in Goldenwood Forest.
+
+We're gonna need to submit 3 workers, 1 Scyther, and $48000. Go ahead and submit the money when you have it.
+
+- Worker 1: Community room in Goldenleaf Town
+- Worker 2: Xen Battleship sleeping chambers at Terajuma Shipyard
+- Worker 3: Kristiline Town Pokemon Center
+
+Return to Adrienn and hand over the Scyther, then ask to see Progress.
+
+This brings the Forest Restoration to Phase 2. Hidden on this version of the map is a *Rare Candy*. You can also find **for a limited time**:
+
+**ZCell 122: Goldenwood Forest (Phase 2)**
+
+!img("zcell122.png")
+
+For the next phase, we're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the money.
+
+- Fisherman 1: East Gearen City near the Route 1 Train
+- Fisherman 2: Route 2 near the Kecleon Bazaar
+- Fisherman 3: Aquamarine Cave 1F
+- Architect: Terajuma Jungle in the building (Gerald)
+
+Return to Adrienn and inquire about Progress, bringing the restoration to Phase 3. You can grab another hidden *Rare Candy* above.
+
+For the final phase, we'll need to submit $68000, 7 Tiny Mushrooms, 1 bag of Stardust, and 1 Poliwag.
+
+If you haven't completed the Poliwag search quest, do so now. Feel free to submit that one if you have it, or, if its evolved, breed it. Finishing this quest will let us catch more Poliwag, so don't worry if this is your only one. Grind TinyMushrooms/Stardust off of Paras/Staryu, respectively. Compoundeyes and Thief/Covet will make your hunt quicker. Submit it all to Adrienn.
+
+This completes the restoration of Goldenwood Park!
+
+!enc(217, nil, ["Old", "Good"])
+
+Pick up the *Bug Memory* and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*.
+
+**ZCell 123: Goldenwood Park**
+
+!img("zcell123.png")
+
+Talk to the fisherman inside the guild. The *Magic Karps* quest appears to be currently bugged: he will seem to acknowledge that we have the Super Rod when we do not yet. Oh well, our gain! Enter the room to the right.
+
+!enc(220, nil, ["Old", "Good"])
+
+There is another hidden *Rare Candy* outside, north of where Adrienn and the reporters are. Talk to Adrienn at the top when you are ready for a battle.
+
+!battle(["Danni",:XENDEATHWING_M,0], "Forest Field")
+
+Return to Grand Hall and talk to Adrienn. 
+
+We'll now have access to the Secret Developer Room downstairs. You can get a *Rare Bone* in the food bowl in exchange for... whiting out. Oops. In the room to the right you can get the *Cryogonal Crest*. In the bottom of the main room is the *Normalium-Z*!
+
+Back upstairs, enter the left room and talk to Jan. Return to the help center to get $250000, and the *Mawilite* (+1 Karma)!
+
+### Mall Opportunities
+
+Head to the Everglades Mall and meet Witch at the very top. Donate $30000 to her.
+
+Then talk to her in the shop to get *Occa Berry*, then give her five back. You'll get a *Passho Berry* next, then have to give her five back once more.
+
+Talk to Witch again, then head to the berry store downstairs. Re-enter the ice cream shop. Then, enter the restaurant next door. Fly to Terajuma Shipyard and fight the Xen member below.
+
+!battle(["Nida",:XENANALYST_F,0], "Beach Field")
+
+You will get $5000. Return to the Le Whoa Restaurant in Gearen, then talk to the officer downstairs. Return to Witch again, then talk to Aya in the Lab.
+
+Return to the help center to get $25840 and the *Altarianite* (+1 Karma)!
+
+### Shipwreck Recovery 1
+
+Talk to the guy at the bottom of Oceana Pier to head out to the Wreckage Site.
+
+**ZCell 124: Wreckage Site**
+
+!img("zcell124.png")
+
+We can talk to Adrienn to progress the quest a bit, but without the next gym badge, we can't progress the quest any more for now.
+
+## Floria Island 12 Badge Quests
+
+That's all we can do in Gearen for now. There are many more places across Floria Island we can explore for more goodies!
+
+Fly to Evergreen Forest, and head in. Rock Climb immediately above, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Next, towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up the *Audinite*! Finally, make your way to the spring. Battle and catch "The Emperor" (**Empoleon**). Back outside the forest, talk to Nana in her house for the *Crabominable Crest* and a *King's Rock*!
+
+Head to North Evergreen Cave just outside. Melt the ice again with a move like Lava Plume to get to the top. Push the boulder into this hole. On the next floor, you need to push it into the rightmost hole... unfortunately this is the farthest one away. On the next floor, navigate it all the way around to the hole on the bottom. Once you push it down, follow it down.
+
+!enc(491, ["Surfing", "Fishing"], ["Old", "Good"], "Evergreen Cave (North) Basement")
+
+Enter the Locksmith's house in Akuwa Town, to the left of the Pokemon Center. Show him our broken key. If you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key*! Nice. Fly back to Sashila and enter the house on the coastline. Hidden on the first floor is a *Yellow Shard*, *Blue Shard*, and a *Red Shard*. Head upstairs and talk to the girl and pick up a hidden *Poke Doll*. Interact with the hook downstairs and place the Family Portrait that we got in the *Wall of Shame* quest. Then, head around to the left and go downstairs to get the *Gardevoirite*!
+
+Next, we take a trip to the Lost Camp on Route 4. If you have completed the *Lost Souls* quest up till this point by helping Mosely in the Hospital of Hope, you can now finally conclude this sidequest.
+
+**Relationship Point Choices**:
+- Finish Lost Souls (+999 Mosely)
+
+Grab the *Kangaskhanite* to the left. Outside, the Lost Garden will be in its final form. You can pick *2 Custap Berries*, *3 Sitrus Berries*, a *Lum Berry*, and *2 Roseli Berries*. You'll also now be able to catch **Scorbunny**!
+
+Now that we've beaten Souta, all four of the dens have been updated with new Pokemon! So, I will list the Pokemon in each here.
+
+!raid(1, 12)
+
+!raid(2, 12)
+
+!raid(3, 12)
+
+!raid(4, 12)
+
+We're going to need to have 15000 Red Essence in our gather cube for a quest later on, so now is a great time to accumulate it.
+
+Fly to Goldenleaf Town and enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up. Step on the tile, then head in to and get Griselda's Treasure 9: **Gastly**!
+
+Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of Griselda's Treasures, you can open another chest to get the *Vespiquen Crest*, and *TM61 Will-O-Wisp*.
+
+Next, head to Wispy Tower exterior. Head around the back via Strength to get a *Reaper Cloth*!
+
+Head to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam* and a hidden *Ability Capsule*.
+
+Next, fly to Rose Theater and use the Time Splicer Stone. Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in, why not.
+
+!enc(474, ["Grass", "Fishing", "Surfing"], ["Old", "Good"])
+
+Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
+
+**ZCell 125: Route Z**
+
+!img("zcell125.png")
+
+In the top right corner, you can get *TM11 Sunny Day*. Pick up the *Grass Memory* in the center and talk to Eizen.
+
+**Relationship Point Choices**:
+- Respond "Flabebe" (+1 Eizen)
+- Respond with anything else (-1 Eizen)
+
+That's all we can do here for now, so return to normal Route 2.
+
+## Terajuma Island 12 Badge Quests
 
 Next, fly to Kakori, and head down to the depths of the gym. Using strength in the backroom, you'll get *TM106 Irritation*.
 
@@ -604,488 +827,9 @@ Kristiline T.M. Shop New Items (12+ Badges)
 |*TM125 Charm*        |$15000 |
 |*TM155 Eerie Impulse*|$15000 |
 
-Next, we're heading to Lost Camp. If you've completed all three parts of this quest so far, enter Maman's house and go upstairs. After some scenes, you'll get **Starly**, and (+999 Mosely) Relationship Points. Yes, seriously.
-
-Enter the Locksmith's house in Akuwa Town. Show him our broken key. If you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key*! Nice. Fly back to Sashila and attempt to enter the house on the coastline. Hidden on the first floor is a *Yellow Shard, Blue Shard*, and a *Red Shard*. Head upstairs and talk to the girl and pick up a hidden *Poke Doll*. Interact with the hook downstairs and place the family portrait. Then, head around to the left and go downstairs to get MegaStone *Gardevoirite*.
-
-Fly to Goldenleaf Town and enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up to the 9-badge gate. Talk to the treasure chest for a battle with **Gastly**!
-
-Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of the badge gate chests, head in to get the *Vespiquen Crest*, and *TM61 Will-o-Wisp*.
-
-Next, head to Wispy Tower. Head around the back via Strength to get *Reaper Cloth*!
-
-Exit, and make your way to Sheridan Village. Enter Carotos via the waterfall entrance and make your way to the second room. Cross the bridge to the right, use Blast Powder, and use strength to get beyond.
-
-Carotos Pokemon Seller
-
-| Pokemon               | Price         |
-|-----------------------|---------------|
-|**Happiny**            |6 Blue Shards  |
-|**Joltik**             |6 Yellow Shards|
-|**Charmander**         |10 Red Shards  |
-|Furfrou                |8 Yellow Shards|
-|"Pikachu" (**Mimikyu**)|7 Yellow Shards|
-
-Buy all of them to get *Fire Memory* and (+5 Karma).
-
-Head to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam*.
-
-Next, fly to Rose Theater and use the Time Splicer Stone. Head to Sheridan Village, then cut down the pink sapling in front of the village. Make your way back to the present.
-
-Next, we're gonna fly to West Gearen City. Head into the house with the red door on the south side of town. If you've beat all the virtual gym leaders, accept the challenge to the virtual E4. You can "take a break" after each win: if you do, you can save between each member.
-
-Elite Four Will (Glitch Field)
--   Jynx, Level 51. @ Ice Gem.
-    -   Lovely Kiss
-    -   Psychic
-    -   Blizzard
-    -   Thief
--   Exeggutor, Level 51. @ Occa Berry.
-    -   Leech Seed
-    -   Sleep Powder
-    -   Giga Drain
-    -   Psychic
--   Espeon, Level 52. @ Twisted Spoon.
-    -   Psychic
-    -   Yawn
-    -   Bite
-    -   Hidden Power Fire
--   Slowbro, Level 51. @ Chesto Berry.
-    -   Belly Drum
-    -   Rest
-    -   Drain Punch
-    -   Sleep Talk
--   Slowking, Level 52. @ Iron Ball.
-    -   Fling
-    -   Thunder Wave
-    -   Dragon Tail
-    -   Psychic
--   Xatu, Level 53. @ Heat Rock.
-    -   Sunny Day
-    -   Heat Wave
-    -   Solarbeam
-    -   Psychic
-
-I again will cover this as on the Cyndaquil path. This one isn't too bad, though in general you must watch out for field boosted Psychic. A bit of luck in dodging sleep allows Typhlosion to knock out Jynx and Exeggutor, and Miltank and Jolteon can easily handle Espeon, Slowbro, and Slowking with a combination of healing and attacking. The rest of your Pokemon should be able to fill in the gaps.
-
-Elite Four Koga (Glitch Field)
--   Forretress, Level 53. @ Zoom Lens.
-    -   Toxic Spikes
-    -   Spikes
-    -   Zap Cannon
-    -   Explosion
--   Muk, Level 54. @ Black Sludge.
-    -   Fire Blast
-    -   Venoshock
-    -   Sleep Talk
-    -   Rest
--   Weezing, Level 54. @ Sitrus Berry.
-    -   Toxic Spikes
-    -   Flamethrower
-    -   Sludge Bomb
-    -   Venoshock
--   Qwilfish, Level 55. @ Payapa Berry.
-    -   Fell Stinger
-    -   Venoshock
-    -   Hydro Pump
-    -   Toxic Spikes
--   Ariados, Level 55. @ Focus Band.
-    -   Sucker Punch
-    -   Megahorn
-    -   Venoshock
-    -   Stomping Tantrum
--   Crobat, Level 56. @ Leftovers.
-    -   Toxic
-    -   Double Team
-    -   Roost
-    -   Heat Wave
-
-It can be very tempting to start setting up Curse with Steelix, but Koga has a lot of Fire / Water special coverage, so you probably want to Stealth Rock then bail. Keeping Qwilfish alive is useful to nullify all Toxic Spikes here, unfortunately it doesn't really help much other than setting up your own spikes if you want to cripple Muk, Qwilfish, and Ariados. Luckily Jolteon can easily take Crobat if you don't let it Double Team too much, and Typhlosion, Gliscor, and Steelix can find ways to deal with everything else easily.
-
-Elite Four Bruno (Glitch Field)
--   Golem, Level 54. @ Muscle Band.
-    -   Rock Polish
-    -   Metronome
-    -   Rock Slide
-    -   Earthquake
--   Granbull, Level 55. @ Leftovers.
-    -   Lovely Kiss
-    -   Return
-    -   Fire Blast
-    -   Metronome
--   Kangaskhan, Level 54. @ Metronome.
-    -   Blizzard
-    -   Fire Blast
-    -   Hyper Beam
-    -   Power Up Punch
--   Hitmonchan, Level 56. @ Expert Belt.
-    -   Drain Punch
-    -   Fire Punch
-    -   Ice Punch
-    -   Metronome
--   Hitmonlee, Level 57. @ Choice Scarf.
-    -   Metronome
-    -   Metronome
-    -   Metronome
-    -   Metronome
--   Machamp, Level 57. @ Payapa Berry.
-    -   Metronome
-    -   Dynamic Punch
-    -   Stone Edge
-    -   Fire Blast
-
-The good news is, a lot of his team centers around Metronome, so this might be the easiest fight yet. The bad news is, his team centers around Metronome, which only picks strong moves on this field! So, you might be extremely *unlucky*. Gliscor is a good choice to wear out the fighting types, as well as Golem. Steelix is useless other than Stealth Rocks here unfortunately. Miltank and Jolteon are a bit less useful but can still help by crippling Granbull and Kangaskhan. Once Gliscor goes down, Qwilfish with Intimidate and Typhlosion should be able to ride out the fight.
-
-Elite Four Karen (Glitch Field)
--   Alolan Persian, Level 55. @ Mental Herb.
-    -   Nasty Plot
-    -   Bite
-    -   Seed Bomb
-    -   Thunder
--   Honchkrow, Level 56. @ Sitrus Berry.
-    -   Steel Wing
-    -   Aerial Ace
-    -   Curse
-    -   Roost
--   Tyranitar, Level 57. @ Passho Berry.
-    -   Blizzard
-    -   Thunder
-    -   Fire Blast
-    -   Dark Pulse
--   Vileplume, Level 55. @ Miracle Seed.
-    -   Nature Power
-    -   Sleep Powder
-    -   Energy Ball
-    -   Infestation
--   Houndoom, Level 57. @ Lum Berry.
-    -   Fire Blast
-    -   Laser Focus
-    -   Super Fang
-    -   Throat Chop
--   Umbreon, Level 58. @ Leftovers.
-    -   Rest
-    -   Sleep Talk
-    -   Dark Pulse
-    -   Toxic
-
-This one is tough! Two Gyro Balls will knock out Persian luckily, and Miltank can barely take out Tyranitar. Vileplume goes down to Typhlosion, and if you save Gliscor for Houndoom, you can one-shot it. Unfortunately, the Umbreon is a pain in the ass to take out - I recommend Knocking Off its item with Gliscor and using everything you have left to make sure it can't rest. Steelix can't get poisoned, so getting off a couple curses might be your best bet. You can always reset if things go south.
-
-Champion Lance (Glitch Field)
--   Alolan Exeggutor, Level 58. @ White Herb.
-    -   Draco Meteor
-    -   Giga Drain
-    -   Dragon Hammer
-    -   Hyper Beam
--   Arcanine, Level 57. @ Power Herb.
-    -   Dig
-    -   Fire Blast
-    -   Extreme Speed
-    -   Hyper Beam
--   Aerodactyl, Level 57. @ Normal Gem.
-    -   Aerial Ace
-    -   Rock Slide
-    -   Hone Claws
-    -   Hyper Beam
--   Lapras, Level 58. @ Iapapa Berry.
-    -   Blizzard
-    -   Future Sight
-    -   Whirlpool
-    -   Hyper Beam
--   Charizard, Level 58. @ Charcoal.
-    -   Fire Blast
-    -   Wing Attack
-    -   Earthquake
-    -   Blast Burn
--   Dragonite, Level 60. @ Wise Glasses.
-    -   Agility
-    -   Outrage
-    -   Fire Blast
-    -   Hyper Beam
-
-A fitting challenge to end this quest! Exeggutor can two shot pretty much your whole team, Aerodactyl can get a free knock out with Glitch Field Hyper Beam, and his other Pokemon have immense coverage. The good news: everything past his lead is weak to stealth rocks! So, use Steelix to get those out, then let Jolteon hit Exeggutor and Dragonite with 4x effective Hidden Power. Qwilfish helped me weaken Lapras and Gliscor finished it, leaving Miltank and Typhlosion to carefully deal with the rest of the team. It's tough, but you can do it.
-
-If you succeed, you'll get the corresponding crest to your starter in the challenge: the *Meganium Crest*, *Typhlosion Crest*, or *Feraligatr Crest*! You'll also get 25 AP Points and your fourth department store stamp!
-
-On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a GourmetTreat to get **Litten**!
-
-Next, head east through Neo Gearen City (I'll cover this revamped area later!) to Route 2.
-
-Route 2 (Altered)
-
-| Grass        | %  | Headbutt   | %   | Water     |  %   |
-|--------------|----|------------|-----|-----------|------|
-| Lickitung    | 30 | Aipom      | 30  | Bruxish   | 66   |
-| Taillow      | 30 | Ambipom    | 25  | Alomomola | 34   |
-| Lurantis     | 15 | Forretress | 20  |           |      |
-| Swellow      | 10 | Pineco     | 10  |           |      |
-| **Tsareena** | 10 | Combee     | 5   |           |      |
-| Heracross    | 4  | Burmy      | 5   |           |      |
-| Chansey      | 1  | Vespiquen  | 5   |           |      |
-
- |Old Rod  | %   | Good Rod   | %    |
- |---------|-----|------------|------|
- |Luvdisc  | 100 | Alomomola  | 100  |
-
-On the left you'll find a hidden *Rose Incense*.
-
-Enter the factory in the middle of the route to get a *Grass Memory* as well as *Research Notes*. Exit through the left door and grab the *Dusk Stone* and hidden *Blue Shard* and *Rare Candy*.
-
-You'll also find:
-
-ZCell 094: Route 2 (Altered)
-
-<img src="/assets/images/rejuv/image97.png"/>
-
-Return to the past again and give the guy on Route 2 some research notes so he'll finally move out of the way. At night only, you can get:
-
-ZCell 095: Route 2
-
-<img src="/assets/images/rejuv/image98.png"/>
-
-Also, you can catch **Whimsicott** here (ignore the Flabebe from an earlier patch).
-
-Talk to Kecleon in the middle of the route. He'll offer to sell the two crests that correspond to the starters we did NOT choose in the virtual league. He'll sell the *Meganium Crest, Typhlosion Crest*, and *Feraligatr Crest* for $250000 each. Steep, but worth it if you are using any of these three and didn't get their crest via the virtual league quest.
-
-As you've probably noticed, East Gearen City looks brand new. Fly there!
-
-There are new trainers to fight and items on each map. The one containing the lab has a hidden *GourmetTreat, Yellow Shard, Resist Wing, Elemental Seed, Super Potion, Red Shard*, and 2 *Grass Gems*. The right contains a *Resist Wing, Heart Scale, Tiny Mushroom, Repel*, and *Antidote*.
-
-East Gearen City (Neo)
-
-| Grass (Morning)        | %        | Grass (Day)        | %        | Grass (Night)        | %        |
-|------------------------|----------|--------------------|----------|----------------------|----------|
-| Shinx                  | 20       | Petilil            | 30       | Shinx                | 20       |
-| Sunkern                | 20       | Shinx              | 20       | Oddish               | 20       |
-| Electrike              | 10       | Electrike          | 10       | Houndour             | 10       |
-| **Luxio**              | 10       | **Luxio**          | 10       | **Luxio**            | 10       |
-| Sunflora               | 10       | Glameow            | 10       | Gloom                | 10       |
-| Glameow                | 10       | Minccino           | 10       | Stunky               | 10       |
-| Teddiursa              | 10       | Manectric          | 6        | Scraggy              | 10       |
-| Purugly                | 4        | Purugly            | 4        | Skuntank             | 4        |
-| Manectric              | 4        |                    |          | **Houndoom**         | 4        |
-| Mime Jr.               | 2        |                    |          | Mime Jr.             | 2        |
-
-East Gearen Neo Move Tutor: Corsola
-
-| Move          | Price         |
-|---------------|---------------|
-|Throat Chop    |4 Red Shards   |
-
-East Gearen Neo Move Tutor: Girl
-
-| Move          | Price         |
-|---------------|---------------|
-|Iron Head      |5 Red Shards   |
-|Low Kick       |3 Green Shards |
-|Foul Play      |6 Yellow Shards|
-
-East Gearen Neo Move Tutor: Guy
-
-| Move          | Price         |
-|---------------|---------------|
-|Outrage        |7 Yellow Shards|
-|Last Resort    |5 Red Shards   |
-|Knock Off      |5 Yellow Shards|
-
-Enter the lab and talk to Jan. Then, head outside and talk to Adrienn again.
-
-Enter the sewers with Adrienn. Hidden on this map is 2 *Red Shards*, 2 *Blue Shards, Zinc, Potion*. Follow Adrienn into the next room, and pick up the hidden *Blue Shard* and *Green Shard*. Next, go to the upper right room.
-
-Emerge on the east side of Gearen and meet Adrienn and Aya in the middle of the city.
-
-We have our new directive: help quests. Before that though, check out Gearen Park if you want.
-
-Gearen Park (Neo)
-
-| Grass                  | %        |
-|------------------------|----------|
-| Budew                  | 40       |
-| Spearow                | 30       |
-| Pansear                | 10       |
-| Panpour                | 10       |
-| Whismur                | 5        |
-| Skitty                 | 4        |
-| Bellsprout             | 1        |
-
-Hidden here is 2 *Honey, Leaf Stone, Carbos, Muscle Wing, Blue Shard*, and *Yellow Shard*.
-
-Catch a Level 100 Budew (or catch something close and Rare Candy it to 100). Then, show it to the guy at the bottom for ZCrystal *Grassium-Z*.
-
-Speaking of Budew, add Aevian Budew to your party and head up to the library. Upstairs, talk to Zumi, who will reward us with 10 *Exp. Candy L* and MegaStone *Ampharosite*! Our final task for her is to catch a Pokemon found later on at Axis University.
-
-Enter the Help Center. If you've been keeping track of Zygarde Cells (At least 70), talk to the researchers to get *Lucky Egg*!
-
-### HQuest 32: Poke Ball Conundrum Enter the Everglade Mall and speak to the clerk at the Poke Ball shop.
-
-Attempt to enter the door at the Tecanlite Factory in West Gearen. Head down, and Aya will let you in.
-
-Beat the goons at the entrance. Pick up all the balls you see around!
-
-Enter the door towards the left of the floor and get the *Tecanlite Key*. Use it on the door at the top to pick up *TM24 Thunderbolt*!
-
-Back in the main area, use the Key at the top of the floor, then follow the path through to the right. Beat the Death Wings - they  use exclusively Steel and Water types.
-
-Return to the Help Center to get your reward - $12356, and ZCrystal *Aloraichium-Z*. (+1 Karma)
-
-Now, return to the Poke Ball shop to get 15 *Ultra Balls*. We'll also again be able to buy balls here - nothing we couldn't before however.
-
-### HQuest 33: Forest Restoration Meet at the Route 1 Train Station.
-
-Talk to Adrienn in front of where we fought Gyarados (remember that?)
-
-We're gonna need to submit 3 workers, 1 Scyther, and $48000. Go ahead and submit the money when you have it.
-
-Fly to Kakori Village and enter the Jeminra Woods Safari Zone. You'll see **Scyther** here now, so catch two (one to keep).
-
-To find the people:
-- Worker 1: Community room in Goldenleaf Town.
-- Worker 2: Xen Battleship at the Terajuma shore, right person in sleeping chambers.
-- Worker 3: House below therapist in Kristiline Town.
-
-Return to Adrienn and hand over the Scyther, then ask to see Progress.
-
-We're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the money.
-
-To find the three people:
-- Fisherman 1: On a bench east of the East Gearen to Route 1 Station.
-- Fisherman 2: On Route 2, directly south of the Amethyst Cave entrance.
-- Fisherman 3: In Aquamarine Cave, via the lighthouse path. While you're in the Rock Climb area, talk to the worker and give him Protein. If you do, he will give you **Tyrogue** (+1 Karma)! Anyways, you'll find the fisherman after you go up the ladder.
-- Architect: Bridge guy in Terajuma Jungle - first left from Kakori.
-
-Return to Adrienn and inquire about progress.
-
-Next, we'll need to submit $68000, 7 Tiny Mushrooms, 1 bag of Stardust, and 1 Poliwag.
-
-If you haven't completed the Poliwag search quest, do so now. Feel free to submit that one if you have it, or, if its evolved, breed it. Note that finishing this quest will let us catch more Poliwag, so don't worry if this is your only one.
-
-I had both the mushrooms and the stardust, but if not, go grind them off Paras/Staryu, respectively. Compoundeyes and Thief/Covet will make your hunt quicker.
-
-Submit it all to Adrienn.
-
-Goldenwood Park
-
-| Grass        | %        | Water          | %   |
-|--------------|----------|----------------|-----|
-| Bunnelby     | 20       | Poliwag        | 60  |
-| Buneary      | 20       | Lotad          | 30  |
-| **Vivillon** | 14       | **Poliwhirl**  | 5   |
-| **Nincada**  | 10       | Lombre         | 4   |
-| Tranquill    | 10       | **Ludicolo**   | 1   |
-| Lycanroc     | 10       |                |     |
-| Greedent     | 5        |                |     |
-| Diggersby    | 5        |                |     |
-| Lopunny      | 4        |                |     |
-| **Ninjask**  | 1        |                |     |
-| Unfezant     | 1        |                |     |
-
-| Old Rod    | %    | Good Rod        | %  |
-|------------|------|-----------------|----|
-| Finneon    | 70   | Lumineon        | 60 |
-| Clauncher  | 30   | Qwilfish        | 20 |
-|            |      | **Clawitzer**   | 20 |
-     Pick: *2 Lum Berries, 2 Salac Berries, 2 Lansat Berries, 1 Enigma Berry, 2 Starf Berries*, and pick up the *Bug Memory*.
-
-Talk to Adrienn at the top. Beat the Deathwing.
-
-Return to Grand Hall and talk to Adrienn. Enter the basement and take a right.
-
-After the scene, exit this room and enter the room on the right at the bottom, and grab ZCrystal *Normalium-Z*.
-
-Return to the help center to get (back) $250000, and MegaStone *Mawilite*. (+1 Karma)
-
-### HQuest 34: Mall Opportunities Head to the mall and meet the girl at the very top. Donate $30000 to her... Then talk to her in the shop to get *Occa Berry*.
-
-Give her 5 Occa Berries after either farming them or using the stash we bought earlier. You'll get a *Passho Berry*. Either farm four more or put off this quest until we get our next department store stamp, when we'll be able to buy more.
-
-Talk to ICSW again, then head to the berry store downstairs. Re-enter the ice cream shop. Then, enter the restaurant next door. After exiting,  head to Terajuma Shore.
-
-On the west end by the lighthouse, talk to the grunt. After getting paid off, return to the restaurant.
-
-Then, talk to the officer downstairs.
-
-Talk to ICSW again, then talk to Aya in the lab center.
-
-Return to the help center to get $25840 and MegaStone *Altarianite*. (+1 Karma).
-
-After doing all three quests, head over to Venam's gym to fight Aya.
-
-Wasteland Punk Aya (Corrosive Field)
--   Lycanroc, Level 82. @ Telluric Seed.
-    -   Rock Slide
-    -   Accelerock
-    -   Crunch
-    -   Drill Run
--   Nidoqueen, Level 80. @ Assault Vest.
-    -   Sludge Wave
-    -   Earth Power
-    -   Blizzard
-    -   Thunderbolt
--   Venusaur, Level 81. @ Coba Berry.
-    -   Giga Drain
-    -   Venoshock
-    -   Sleep Powder
-    -   Hidden Power Fire
--   Drapion, Level 82. @ Scope Lens.
-    -   Night Slash
-    -   Rock Slide
-    -   Aqua Tail
-    -   Cross Poison
--   Tentacruel, Level 80. @ Shuca Berry.
-    -   Scald
-    -   Blizzard
-    -   Sludge Wave
-    -   Muddy Water
--   Dragalge, Level 83. @ Assault Vest.
-    -   Sludge Wave
-    -   Venoshock
-    -   Hydro Pump
-    -   Dragon Pulse
-
-This can be a scary battle: Lycanroc is guaranteed one turn of safety plus an attack boost. If you can knock that out, the defensive core of Mega Venusaur, Tentacruel, and Dragalge are all intense! The good news is there isn't really anything preventing you from decimating her team with Earthquake, so if you can knock out Lycanroc and slow down Tentacruel somehow you might be able to sweep from there.
-
-Fly over to Sashila Village. Now there is a new move tutor!
-
-Sashila Move Tutor
-
-| Move          | Price         |
-|---------------|---------------|
-|Heat Wave      |6 Red Shards   |
-|Pain Split     |4 Yellow Shards|
-|Zen Headbutt   |4 Green Shards |
-
-One more quest we can do. Head to Oblitus Town. If you've done the Yui's ranch quest, enter Kelvin's house on the right side of town and get the *PokeFlute* for $45000. Then, go to Honec Woods where **Snorlax** is to get it.
-
-## Route 4 Thirteen Badge Update
-
-Next is a quick detour to Route 4 to get some new Den Pokemon - feel free to skip this one as well.
-
-Essentially, now that we've beaten Souta, all four of the dens have been updated with new Pokemon! So, I will list the Pokemon in each here.
-
-RIFT DEN 1 (12 - 16 Badges): The common encounters in this den are **Rockruff**, Shiftry, **Reuniclus**, Solosis, Tropius, Sigilyph, Dhelmise. The rare ones are Relicanth, Persian, Lumineon, Sudowoodo, Lanturn.
-
-RIFT DEN 2 (12 - 16 Badges): The common encounters in this den are Unfezant, **Wailord**, Dunsparce, Mandibuzz, Masquerain, Quagsire, Togedemaru. The rare ones are Chatot, Snorunt, Glalie, Cacnea, Cacturne, Claydol, **Klefki**.
-
-RIFT DEN 3 (12 - 16 Badges): The common encounters in this den are Stoutland, Crabrawler, Pachirisu, Chimecho, Stunfisk, **Kadabra**, Mankey. The rare ones are Rhydon, Vanilluxe, Vanillish, Purugly, Ditto, Ursaring.
-
-RIFT DEN 4 (12 - 16 Badges): The common encounters in this den are Lombre, Gastrodon, **Seismitoad**, Swanna. The rare ones are Mantine, **Jellicent**, **Timburr**.
-
-Entering Cairo's shop, he has even more available crests now!
-
-Cairo's Shop New Items (13 Badges)
-
-|Item             |Price            |
-|-----------------|-----------------|
-|*Boltund Crest*  |9000 Red Essences|
-|*Probopass Crest*|9000 Red Essences|
-|*Swalot Crest*   |9000 Red Essences|
-|*Cinccino Crest* |9000 Red Essences|
-
-Head up towards Den 4. You'll spot **Sobble** hiding in the water. Chase it a few times for a battle!
-
 Make sure you have 15000 Red Essence, then fly to Secret Shore, and head to the left. You'll notice a strength boulder across the water - push it out of the way, and you'll find a special den. Put in 15000 Red Essence and a Rift Matter, and you'll be able to battle **Beldum**! It has two shields. Just make sure you don't kill it or let it Take Down itself to death. When you catch it, your reward will be *Xen Waste*. Note that this is a special shadow Pokemon and needs to enter the Purify Chamber in the PC such that all 9 of the slots have perfect "flow" in order to be purified. Easiest way to do this is to stick 36 normal types in.
 
-
-
+TOWER CELLAR has darchlight mirror
 
 ## Grand Dream Tournament
 
