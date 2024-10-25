@@ -319,7 +319,7 @@ Outside, cut the tree next to the gym and enter the secret cave behind the water
 
 Exit the ruins. Enter the Forgotten Path to the northeast. 
 
-!enc(91, ["Grass"])
+!enc(91, ["Grass", "Fishing"], ["Old"])
 
 Grab the hidden *Green Shard* and *Super Potion*. Grab *TM39 Rock Tomb* and a hidden *Blue Shard* by cutting the tree and climbing the vines, plus:
 

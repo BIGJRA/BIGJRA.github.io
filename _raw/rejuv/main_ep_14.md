@@ -7,61 +7,40 @@ You'll find yourself in New Game with Zetta again. Start the game, then talk to 
 Talk to the group in the meeting room of Nastasia's ship.
 
 **Relationship Point Choices**:
-- Fine... (Ren +1, Aelita +1)
-- There's no way. (Ren -1)
+- Fine... (+2 Aelita, +3 Ren)
+- There's no way. (-2 Ren)
 
 Head to the right.
 
+After another conversation, you can talk to Sharon for a battle against the duo. 
+
+!battle(["Eli and Sharon",:MISFORTUNATEDUO,15], "Factory Field")
+
 **Relationship Point Choices**:
-- We're a team! (Aelita +1)
-- You have to do it alone. (Aelita -1)
+- Defeat Eli and Sharon on the airship (+2 Ren, +2 Aelita).
 
-After another conversation, you can talk to Sharon for a battle against the duo. It's optional, but winning will get you relationship points
-(Ren +2, Aelita +2).
+Head up the stairs and talk to Nastasia and Ren. Follow her into the room on the right, then go back downstairs.
 
-Head up the ladder and talk to Nastasia and Ren. Follow her into the room on the right, then go back downstairs.
+!partner(["Aelita",:STUDENT_3,0])
 
-Beat the Xen grunts for relationship points (+1 Aelita) , then on the couch, accept Aelita's request for story time. We're now playing as her with her team for a little bit!
+!dbattle(["Dustin",:XENGRUNT_M,0], ["Yasmine",:XENANALYST_F,0])
 
-As soon as you get control, head over to the spot on the left side of the arena for a battle with the best character in the game.
+**Relationship Point Choices**:
+- Win this battle (+1 Aelita)
 
-Pseudo Sensei Texen (Forest Field)
--   Dodrio, Level 71. @ Power Herb.
-    -   Sky Attack
-    -   Return
-    -   Brave Bird
-    -   Stomping Tantrum
--   Swampert, Level 70. @ Rindo Berry.
-    -   Ice Punch
-    -   Waterfall
-    -   Rock Slide
-    -   Earthquake
--   Muk, Level 70. @ Assault Vest.
-    -   Shadow Sneak
-    -   Gunk Shot
-    -   Ice Punch
-    -   Thunderpunch
--   Darmanitan, Level 71. @ Choice Scarf.
-    -   U-Turn
-    -   Rock Slide
-    -   Flare Blitz
-    -   Gale Strike
--   Chesnaught, Level 72. @ Coba Berry.
-    -   Drain Punch
-    -   Giga Drain
-    -   Spiky Shield
-    -   Rock Tomb
--   Infernape, Level 73. @ Life Orb.
-    -   Flare Blitz
-    -   Slash and Burn
-    -   Thunderpunch
-    -   Close Combat
+Accept Aelita's request for story time.
 
-You'll be using Aelita's team, so this one can be tough. I recommend starting with Cherrim and Starmie - these two are fast and strong and clean up most of his team easily. You can do it!
+!newself(["Aelita",:STUDENT_3,0])
+
+As soon as you get control, head over to the spot on the left side of the arena when you are ready!
+
+!battle(["Texen",:LEADER_TEXEN,1], "Forest Field")
+
+Aelita's team makes this one a breeze. I recommend starting with Cherrim and Starmie - these two are fast and strong and clean up most of his team easily.
 
 Afterwards, you'll get the *Cherrim Crest*. Tell Aelita you want to rest for a while once you're ready. Head outside the airship when you wake up!
 
-## Zone Zero Pt. 1
+## Zone Zero
 
 Zone Zero
 
@@ -851,418 +830,22 @@ If you chose the first option, fly to Alamissa Urben and enter a door all the wa
 
 In either case, with all the crests that we found in the crypt, fly to Sashila and talk to the left merchant for some lore, and a *Dusknoir Crest*!
 
-## Aquarium Side Quest
+## Aquarium Quest 2
 
-Now that we've been diving, there is a side quest we can do. Head to the Akuwa Town Aquarium. Back in the SOS room, talk to the director, who will ask us for help with the aquarium. The Pokemon we need to submit are as follows. If you don't care about keeping any of them, submit the ones you already have, otherwise, here are where you can go get more (or breeding is always an option). There are 34.
--   Mareanie. Breed the one we got earlier twice.
--   **Toxapex**. Evolve one of the Mareanie.
--   Mantyke. Can be caught all over Terajuma.
--   Mantine. Can also be caught all over Terajuma.
--   Staryu. Terajuma Shore at night, catch two.
--   **Starmie**. Use a water stone from the Lost Camp.
--   Carvanha. Also, all over Terajuma.
--   Sharpedo. Also, all over Terajuma, will attack you in the sunken
-    S.S. Oceania.
--   Chinchou. Wetlands Laboratory and Terajuma Coral Reef have them.
--   Lanturn. Terajuma Coral Reef has them, or you can evolve a Chinchou.
--   Corsola. Akuwa Town Beach.
+We finally finish the Aquarium Side Quest
+
+- Mareanie/Toxapex
+- CLAWITZER
+- STARMIE
+- LANTURN
 -   Relicanth. Evergreen Trench, or Zorrialyn Labyrinth work.
--   Remoraid. Old Rod in Amethyst Cave, for example.
--   Octillery. Good Rod in Amethyst Cave, for example.
--   Bruxish. River's End Good Rod, for example.
--   Pyukumuku. Terajuma Shore.
--   Clauncher. GDC Surfing/Fishing, for example.
--   Clawitzer. Goldenwood Park Fishing works.
--   Clamperl. Route 6 at night: get 3.
 -   **Huntail**. Evolve one Clamperl via DeepSeaTooth + Link Heart.
 -   **Gorebyss**. Evolve another via DeepSeaScale + Link Heart.
--   Finneon. Fish in most bodies of water!
--   Lumineon. Fish with Good Rod in most bodies of water!
--   Shellder. Route 10 via Good Rod (catch two).
 -   **Cloyster**. Evolve a Shellder via a Water Stone from Lost Camp.
--   Wishiwashi. Terajuma Pier Good Rod, e.g.
--   Luvdisc. Akuwa Town Fishing.
--   Alomomola. Also, Akuwa Town Fishing.
--   Piplup. Spring of Preservation encounter.
--   **Prinplup**. Evolve a Piplup.
--   Empoleon. The "Emperor" from earlier or evolve a Piplup.
--   Spheal. Route 9 Fishing is one example.
--   Sealeo. Aquamarine Cave is a solid bet.
 -   Walrein. Evergreen Trench or evolve a Sealeo.
+-   
+For submitting at least 10, you'll get $60000 and the *Super Rod.* For submitting at least 20, you'll get another $60000. For submitting all 34, you'll get $80000 as well as **Froakie.** Nice (+3 Karma).
 
-For submitting at least 10, you'll get $60000 and the *Super Rod*. For submitting at least 20, you'll get another $60000. For submitting all 34, you'll get $80000 as well as **Froakie**. Nice (+3 Karma).
-
-Now that we have the Super Rod, there are a whole bunch of areas that now hold strong water Pokemon. This section is pretty long because of how many bodies of water there are, so <a href="#ana-quest-part-3" id="toc-ana-quest-part-3">click here</a>
-to skip to the next section.
-
-The Super Rod tables for the areas we have been so far are as follows:
-
-Route 1
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lumineon         | 100      |
-
-Goldenwood Park
-
-| Super Rod        | %        |
-|------------------|----------|
-| Wishiwashi       | 60       |
-| Lumineon         | 30       |
-| Clawitzer        | 5        |
-| Cloyster         | 5        |
-
-Goldenwood Cave / Spring of Purification
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seaking          | 100      |
-
-Route 2
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Poliwrath**    | 95       |
-| Seaking          | 5        |
-
-Amethyst Cave
-
-| Super Rod        | %        |
-|------------------|----------|
-| Whiscash         | 90       |
-| Octillery        | 5        |
-| Seaking          | 5        |
-
-Amethyst Depths
-
-| Super Rod        | %        |
-|------------------|----------|
-| Whiscash         | 90       |
-| Seaking          | 10       |
-
-Sheridan Village
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lumineon         | 60       |
-| **Politoed**     | 34       |
-| **Poliwrath**    | 6        |
-
-Sheridan Arena
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lumineon         | 95       |
-| Seaking          | 5        |
-
-Route 3 / Phasial Cave / Moon Field / Mirage Woods
-
-| Super Rod        | %        |
-|------------------|----------|
-| Drednaw          | 65       |
-| Quagsire         | 35       |
-
-River's End
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Crawdaunt**    | 95       |
-| Bruxish          | 5        |
-
-Goldenleaf Town / Forgotten Path
-
-| Super Rod        | %        |
-|------------------|----------|
-| Basculin         | 99       |
-| Jellicent        | 1        |
-
-Wispy Path
-
-| Super Rod        | %        |
-|------------------|----------|
-| Whiscash         | 60       |
-| Basculin         | 34       |
-| Seaking          | 5        |
-| Jellicent        | 1        |
-
-Wispy Chasm
-
-| Super Rod        | %        |
-|------------------|----------|
-| Crawdaunt        | 90       |
-| Whiscash         | 5        |
-| Jellicent        | 4        |
-| Octillery        | 1        |
-
-Akuwa Town
-
-| Super Rod        | %        |
-|------------------|----------|
-| Octillery        | 90       |
-| Dewgong          | 5        |
-| Floatzel         | 5        |
-
-Route 11 / Evergreen Island
-
-| Super Rod        | %        |
-|------------------|----------|
-| Luvdisc          | 60       |
-| Sealeo           | 30       |
-| Alomomola        | 9        |
-| Walrein          | 1        |
-
-Evergreen Forest
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seaking          | 60       |
-| Alomomola        | 30       |
-| Dewgong          | 5        |
-| Octillery        | 4        |
-| Walrein          | 1        |
-
-Seabound Cave / Evergreen Cave
-
-| Super Rod        | %        |
-|------------------|----------|
-| Kingler          | 60       |
-| Floatzel         | 30       |
-| Dewgong          | 5        |
-| Cloyster         | 4        |
-| Walrein          | 1        |
-
-Evergreen Cave (North)
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Crawdaunt**    | 95       |
-| Whiscash         | 5        |
-
-Evergreen Cave Feebas Room
-
-| Super Rod        | %        |
-|------------------|----------|
-| Feebas           | 100      |
-
-Sheridan Wetlands
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seismitoad       | 60       |
-| Gastrodon        | 30       |
-| **Crawdaunt**    | 5        |
-| Whiscash         | 5        |
-
-Wetlands Laboratory
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lanturn          | 100      |
-
-Garufa Ruins
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seaking          | 60       |
-| Basculin         | 30       |
-| Alomomola        | 9        |
-| Luvdisc          | 1        |
-
-Terajuma Island / Terajuma Pier / Route 6
-
-| Super Rod        | %        |
-|------------------|----------|
-| Wishiwashi       | 90       |
-| Sharpedo         | 5        |
-| Wailord          | 4        |
-| Dhelmise         | 1        |
-
-Deep Terajuma Jungle / Terajuma Jungle
-
-| Super Rod        | %        |
-|------------------|----------|
-| Carvanha         | 60       |
-| Wishiwashi       | 30       |
-| Sharpedo         | 5        |
-| Golduck          | 4        |
-| Dhelmise         | 1        |
-
-Kakori Village
-
-| Super Rod        | %        |
-|------------------|----------|
-| Carvanha         | 90       |
-| Basculin         | 9        |
-| Sharpedo         | 1        |
-
-Jeminra Woods
-
-| Super Rod        | %        |
-|------------------|----------|
-| Whiscash         | 60       |
-| Sharpedo         | 30       |
-| Alomomola        | 9        |
-| Ludicolo         | 1        |
-
-Valor Shore
-
-| Super Rod        | %        |
-|------------------|----------|
-| Gastrodon        | 60       |
-| Octillery        | 30       |
-| Alomomola        | 5        |
-| **Grapploct**    | 4        |
-| Luvdisc          | 1        |
-
-Aquamarine Cave
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seaking          | 60       |
-| Arrokuda         | 30       |
-| Walrein          | 9        |
-| Sharpedo         | 1        |
-
-Aquamarine Depths / Aquamarine Chamber / Secluded Shore / Aquamarine Shrine
-
-| Super Rod        | %        |
-|------------------|----------|
-| Seaking          | 90       |
-| Walrein          | 9        |
-| Sharpedo         | 1        |
-
-Isle of Angels
-
-| Super Rod        | %        |
-|------------------|----------|
-| Wailmer          | 95       |
-| Wailord          | 5        |
-
-Valor Mountain (Normal)
-
-| Super Rod        | %        |
-|------------------|----------|
-| Clauncher        | 60       |
-| Clawitzer        | 30       |
-| Starmie          | 6        |
-| Walrein          | 4        |
-
-Route 3 (Past)
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lombre           | 60       |
-| Carvanha         | 35       |
-| Basculin         | 4        |
-| Sharpedo         | 1        |
-
-Kugearen Woods (Past)
-
-| Super Rod        | %        |
-|------------------|----------|
-| Carvanha         | 65       |
-| Basculin         | 30       |
-| Whiscash         | 4        |
-| Sharpedo         | 1        |
-
-Route 2 (Past)
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Poliwrath**    | 90       |
-| Alomomola        | 5        |
-| Seaking          | 5        |
-
-Darchlight Woods / Sensu Meadow / Darchlight Caves
-
-| Super Rod        | %        |
-|------------------|----------|
-| Lumineon         | 60       |
-| Basculin         | 30       |
-| Lanturn          | 5        |
-| Quagsire         | 4        |
-| **Crawdaunt**    | 1        |
-
-Darchlight Caves
-
-| Super Rod        | %        |
-|------------------|----------|
-| Crawdaunt        | 95       |
-| Quagsire         | 5        |
-
-Route 8 / Honec Woods Sides / Hiyoshi Pass (Past) / Seabound Cave
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Crawdaunt**    | 95       |
-| Octillery        | 5        |
-
-Azure Shore
-
-| Super Rod        | %        |
-|------------------|----------|
-| **Slowbro**      | 60       |
-| Lanturn          | 34       |
-| **Crawdaunt**    | 5        |
-| Octillery        | 1        |
-
-Honec Woods Main
-
-| Super Rod        | %        |
-|------------------|----------|
-| Quagsire         | 60       |
-| Seismitoad       | 30       |
-| Dragalge         | 5        |
-| Octillery        | 4        |
-| **Crawdaunt**    | 1        |
-
-Dream District / Axis High University / Residential District
-
-| Super Rod        | %        |
-|------------------|----------|
-| Gastrodon        | 60       |
-| Whiscash         | 30       |
-| Quagsire         | 5        |
-| Clawitzer        | 5        |
-
-Route 9
-
-| Super Rod        | %        |
-|------------------|----------|
-| Gastrodon        | 60       |
-| Whiscash         | 30       |
-| Clawitzer        | 5        |
-| Dragalge         | 4        |
-| Walrein          | 1        |
-
-Forlorned Cavern
-
-| Super Rod        | %        |
-|------------------|----------|
-| Gastrodon        | 60       |
-| Whiscash         | 30       |
-| Clawitzer        | 5        |
-| Drednaw          | 4        |
-| **Crawdaunt**    | 1        |
-
-Route 10
-
-| Super Rod        | %        |
-|------------------|----------|
-| Gastrodon        | 60       |
-| Whiscash         | 30       |
-| Clawitzer        | 5        |
-| Cloyster         | 4        |
-| Walrein          | 1        |
-
-Zorrialyn Desert
-
-| Super Rod        | %        |
-|------------------|----------|
-| Slowpoke         | 60       |
-| **Slowbro**      | 30       |
-| Whiscash         | 9        |
-| Quagsire         | 1        |
 
 ## Ana Quest Part 3
 

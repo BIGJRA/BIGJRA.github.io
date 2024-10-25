@@ -584,15 +584,49 @@ A few more quick things to get on Terrial Island: head over to Oblitus Town via 
 
 Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
 
-## Neo East Gearen City & Help Quests
+## Aquarium Quest 1
 
 Now that we can fly back to Floria and Terajuma, there are tons of things we can do now with 12 Badges and HM Strength.
 
-First, fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a GourmetTreat to get **Litten**! Exit east to the now "Neo" East Gearen City.
+Our first destination is the Akuwa Town Aquarium. Back in the SOS room, talk to the director, who will ask us for help with the aquarium. The Pokemon we need to submit are as follows. If you don't care about keeping any of them, submit the ones you already have, otherwise, here are where you can go get more (or breeding is always an option). There are 34 total. We can't fully complete this quest (without some mystery egg luck) until the next chapter, but we can donate most of the Pokemon. I will do minimal evolution / maximal catching to complete this quest for fun, but feel free to evolve Pokemon if you wish.
+
+We start by donating 10. These 10 should be easy to start with:
+
+- Mantyke/Mantine: Mynori Sea Surfing
+- Carvanha/Sharpedo: Terajuma Shipyard Surfing
+- Pyukumuku: Terajuma Shipyard Static
+- Remoraid/Octillery: Amethyst Cave Surfing
+- Finneon/Lumineon: Sheridan Village Fishing
+- Corsola: Akuwa Town Beach
+
+With 10 Pokemon donated to the aquarium, we will receive $60000 and the *Super Rod*! Our next objective is 20. A few more Pokemon we can easily donate right now:
+
+- Staryu: Terajuma Shipyard Static (Nighttime)
+- Chinchou: Darchlight Woods Fishing
+- Bruxish: River's End Fishing
+- Clauncher: Akuwa Beach Static
+- Clamperl: Route 5 Static
+- Shellder: Route 10 Fishing
+- Wishiwashi: Route 5 Fishing
+- Luvdisc: Route 11 Fishing
+- Spheal/Sealeo: Evergreen Forest Surfing
+
+For donating 20 Pokemon, we will be paid $60000. Our final target is all 34 Pokemon. There are a few more that we can add to the tank right away:
+
+- Alomomola: Akuwa Town Surfing
+- Piplup: Spring of Preservation Static (get two if you haven't)
+- **Prinplup**: Evolve a Piplup at Lv. 16
+- Empoleon: Spring of Preservation Static
+
+The last 10 Pokemon we will donate later on.
+
+## Neo East Gearen City & Help Quests
+
+Fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a GourmetTreat to get **Litten**! Exit east to the now "Neo" East Gearen City.
 
 There are new trainers to fight and items on each map.
 
-!enc(19, nil, ["Old", "Good"], "Neo East Gearen City (Left)")
+!enc(19, nil, nil, "Neo East Gearen City (Left)")
 
 !battle(["Talia",:OPT,2], "City Field")
 
@@ -620,7 +654,7 @@ Head down to Oceana Pier. You can trade a Rockruff for a **Rockruff** with Own T
 
 Head to Neo East Gearen City (Right). 
 
-!enc(44, nil, ["Old", "Good"], "Neo East Gearen City (Right)")
+!enc(44, nil, nil, "Neo East Gearen City (Right)")
 
 !battle(["Penelope",:BEAUTY,2], "City Field")
 
@@ -672,7 +706,7 @@ Return to the East Gearen Help Center to get your reward - $12356, and the *Alor
 
 ### Forest Restoration 
 
-Meet at the Route 1 Train Station. Talk to Adrienn in front of where we fought Gyarados in Goldenwood Forest.
+Meet at the Route 1 Train Station, then enter Goldenwood Forest. Talk to Adrienn in front of where we fought Gyarados in Goldenwood Forest.
 
 We're gonna need to submit 3 workers, 1 Scyther, and $48000. Go ahead and submit the money when you have it.
 
@@ -703,7 +737,7 @@ If you haven't completed the Poliwag search quest, do so now. Feel free to submi
 
 This completes the restoration of Goldenwood Park!
 
-!enc(217, nil, ["Old", "Good"])
+!enc(217, nil, nil)
 
 Pick up the *Bug Memory* and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*.
 
@@ -711,11 +745,15 @@ Pick up the *Bug Memory* and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat
 
 !img("zcell123.png")
 
-Talk to the fisherman inside the guild. The *Magic Karps* quest appears to be currently bugged: he will seem to acknowledge that we have the Super Rod when we do not yet. Oh well, our gain! Enter the room to the right.
+Talk to the fisherman inside the guild. Instantly the *Magic Karps* quest will be completed (even if you don't have the Super Rod - it seems bugged). Enter the room to the right.
 
-!enc(220, nil, ["Old", "Good"])
+!enc(220, nil, nil)
 
-There is another hidden *Rare Candy* outside, north of where Adrienn and the reporters are. Talk to Adrienn at the top when you are ready for a battle.
+There is another hidden *Rare Candy* outside, north of where Adrienn and the reporters are. While we're here:
+
+!enc(8, ["Fishing"], ["Super"])
+
+Talk to Adrienn at the top when you are ready for a battle.
 
 !battle(["Danni",:XENDEATHWING_M,0], "Forest Field")
 
@@ -753,15 +791,31 @@ We can talk to Adrienn to progress the quest a bit, but without the next gym bad
 
 That's all we can do in Gearen for now. There are many more places across Floria Island we can explore for more goodies!
 
-Fly to Evergreen Forest, and head in. Rock Climb immediately above, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Next, towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up the *Audinite*! Finally, make your way to the spring. Battle and catch "The Emperor" (**Empoleon**). Back outside the forest, talk to Nana in her house for the *Crabominable Crest* and a *King's Rock*!
+Fly to Akuwa Town and make your way east. Some Super Rod encounters in this area:
+
+!enc(13, ["Fishing"], ["Super"])
+
+!enc(3, ["Fishing"], ["Super"])
+
+!enc(479, ["Fishing"], ["Super"], "Seabound Cave / Evergreen Cave")
+
+Enter the Evergreen Forest. 
+
+!enc(470, ["Fishing"], ["Super"])
+
+Rock Climb immediately above, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Next, towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up the *Audinite*! Finally, make your way to the spring. Battle and catch "The Emperor" (**Empoleon**). Back outside the forest, talk to Nana in her house for the *Crabominable Crest* and a *King's Rock*!
 
 Head to North Evergreen Cave just outside. Melt the ice again with a move like Lava Plume to get to the top. Push the boulder into this hole. On the next floor, you need to push it into the rightmost hole... unfortunately this is the farthest one away. On the next floor, navigate it all the way around to the hole on the bottom. Once you push it down, follow it down.
 
-!enc(491, ["Surfing", "Fishing"], ["Old", "Good"], "Evergreen Cave (North) Basement")
+!enc(491, ["Surfing", "Fishing"], nil, "Evergreen Cave (North) Basement")
 
 Enter the Locksmith's house in Akuwa Town, to the left of the Pokemon Center. Show him our broken key. If you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key*! Nice. Fly back to Sashila and enter the house on the coastline. Hidden on the first floor is a *Yellow Shard*, *Blue Shard*, and a *Red Shard*. Head upstairs and talk to the girl and pick up a hidden *Poke Doll*. Interact with the hook downstairs and place the Family Portrait that we got in the *Wall of Shame* quest. Then, head around to the left and go downstairs to get the *Gardevoirite*!
 
-Next, we take a trip to the Lost Camp on Route 4. If you have completed the *Lost Souls* quest up till this point by helping Mosely in the Hospital of Hope, you can now finally conclude this sidequest.
+Head back to Akuwa and head south onto Route 4. 
+
+!enc(115, ["Fishing"], ["Super"])
+
+Next, we take a trip to the Lost Camp. If you have completed the *Lost Souls* quest up till this point by helping Mosely in the Hospital of Hope, you can now finally conclude this sidequest.
 
 **Relationship Point Choices**:
 - Finish Lost Souls (+999 Mosely)
@@ -780,17 +834,51 @@ Now that we've beaten Souta, all four of the dens have been updated with new Pok
 
 We're going to need to have 15000 Red Essence in our gather cube for a quest later on, so now is a great time to accumulate it.
 
-Fly to Goldenleaf Town and enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up. Step on the tile, then head in to and get Griselda's Treasure 9: **Gastly**!
+Fly to Goldenleaf Town.
 
-Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of Griselda's Treasures, you can open another chest to get the *Vespiquen Crest*, and *TM61 Will-O-Wisp*.
+!enc(82, ["Fishing"], ["Super"], "Goldenleaf Town / Forgotten Path")
 
-Next, head to Wispy Tower exterior. Head around the back via Strength to get a *Reaper Cloth*!
+Enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up. Step on the tile, then head in to and get Griselda's Treasure 9: **Gastly**!
 
-Head to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam* and a hidden *Ability Capsule*.
+Head next to the Forgotten Path. Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of Griselda's Treasures, you can open another chest to get the *Vespiquen Crest*, and *TM61 Will-O-Wisp*.
 
-Next, fly to Rose Theater and use the Time Splicer Stone. Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in, why not.
+Next, go to the Wispy Path.
 
-!enc(474, ["Grass", "Fishing", "Surfing"], ["Old", "Good"])
+!enc(95, ["Fishing"], ["Super"])
+
+Head to Wispy Tower exterior. Head around the back via Strength to get a *Reaper Cloth*! In the Wispy Chasm:
+
+!enc(508, ["Fishing"], ["Super"])
+
+Fly over to Sheridan Village. Fishing encounters here and in the nearby Route 3 Area:
+
+!enc(423, ["Fishing"], ["Super"])
+
+!enc(424, ["Fishing"], ["Super"])
+
+!enc(67, ["Fishing"], ["Super"], "Route 3 / Phasial Cave / Moon Field / Mirage Woods")
+
+!enc(432, ["Fishing"], ["Super"])
+
+Head to the Amethyst Cave. 
+
+!enc(4, ["Fishing"], ["Super"])
+
+Make your way to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam* and a hidden *Ability Capsule*. Exit onto Route 2.
+
+!enc(199, ["Fishing"], ["Super"])
+
+Next, fly to Rose Theater and use the Time Splicer Stone.
+
+!enc(236, ["Fishing"], ["Super"])
+
+!enc(240, ["Fishing"], ["Super"])
+
+!enc(106, ["Fishing"], ["Super"])
+
+Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in, why not.
+
+!enc(474, ["Grass", "Fishing", "Surfing"])
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
@@ -808,9 +896,11 @@ That's all we can do here for now, so return to normal Route 2.
 
 ## Terajuma Island 12 Badge Quests
 
-Time to do some quests on Terajuma.
- 
-Fly to Kakori, and take the lift to Mt. Terajuma. If you've picked up all three of the TMs for Hail, Sunny Day, and Rain Dance, show them to the guy in front of the Weather Institute to get the *Castform Crest* and *TM128 Weather Ball*. 
+Time to do some quests on Terajuma. Fly over to Kakori Village.
+
+!enc(298, ["Fishing"], ["Super"])
+
+Take the lift up to Mt. Terajuma. If you've picked up all three of the TMs for Hail, Sunny Day, and Rain Dance, show them to the guy in front of the Weather Institute to get the *Castform Crest* and *TM128 Weather Ball*. 
 
 Talk to a man above in the Weather Institute if you have started the *Flora's Puzzle Box* Quest. He wants a Pumpkin from Goldenleaf Town, so fly over there. The pumpkin is on the hill across the river to the left... uh oh.
 
@@ -820,17 +910,19 @@ Quite a tough fight out of nowhere! Past its first phase, Gourgeist has a ton of
 
 Winning awards you with the *Pumpkin*. Return to the Mt. Terajuma Weather Institute. You'll get the *Sceptilite* as well as *Venusaurite G*. 
 
-Fly over to Kristiline Town next. The T.M. shop has updated wares:
+Next, add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee, Emolga, and Gligar fulfill this criteria. Fly to the Terajuma Shipyard.
 
-!shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
+!enc(207, ["Fishing"], ["Super"])
 
-Enter the Church of Theolia in the Isle of Angels. Enter the Tower of Theolia through the portal. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!!!
+Enter the Terajuma Jungle.
 
-Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island. In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! You will also get *Xen Waste* for the capture. 
+!enc(210, ["Fishing"], ["Super"], "Terajuma Jungle / Deep Terajuma Jungle")
 
-Fly to Teila Resort and enter the Magrodar Crater. At night, you can push a floating Black Shard on the left to find Chimchar. Give it 12 Charcoal to catch **Chimchar**!
+Head all the way to the Tyluric Temple.
 
-Next, add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee, Emolga, and Gligar fulfill this criteria. Head all the way to the Tyluric Temple. Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight.
+!enc(179, ["Fishing"], ["Super"])
+
+Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight.
 
 !boss("BOSSKECLEON", "Grassy Terrain")
 
@@ -838,7 +930,41 @@ This fight is easy to win, but that's not our entire objective. Talk to the boar
 
 Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a GourmetTreat.
 
-One quest remains for now. Head to Route 6 above Jynnobi Pass. The top left Xen Ship had trainers with too high levels before, but we can tackle it now.
+Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island.
+
+In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! You will also get *Xen Waste* for the capture.
+
+Fly to Teila Resort and enter the Magrodar Crater. At night, you can push a floating Black Shard on the left to find Chimchar. Give it 12 Charcoal to catch **Chimchar**!
+
+!enc(301, ["Fishing"], ["Super"])
+
+!enc(302, ["Fishing"], ["Super"])
+
+!enc(326, ["Fishing"], ["Super"])
+
+Fly over to Kristiline Town next. The TM shop has updated wares:
+
+!shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
+
+Head to the Isle of Angels.
+
+!enc(540, ["Fishing"], ["Super"])
+
+Enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!!!
+
+One quest remains for now. Fly over to Jynnobi Pass. 
+
+!enc(299, ["Fishing"], ["Super"])
+
+!enc(173, ["Fishing"], ["Super"])
+
+Fly over to the Valor Shore.
+
+!enc(139, ["Fishing"], ["Super"])
+
+!enc(300, ["Fishing"], ["Super"])
+
+The top left Xen Ship had trainers with too high levels before, but we can tackle it now.
 
 !dbattle(["Sett",:XENGRUNT_M,0], ["Doris",:XENGRUNT_F,0], "Short-Circuit Field")
 
@@ -849,6 +975,24 @@ Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 
 !dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
 
 A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, and the *Electrode Crest*!
+
+We can also do some fishing on Terrial Island and in the Badlands with the Super Rod:
+
+!enc(350, ["Fishing"], ["Super"])
+
+!enc(357, ["Fishing"], ["Super"], "Darchlight Woods / Darchlight Village / Darchlight Manor")
+
+!enc(369, ["Fishing"], ["Super"])
+
+!enc(361, ["Fishing"], ["Super"])
+
+!enc(254, ["Fishing"], ["Super"])
+
+!enc(419, ["Fishing"], ["Super"])
+
+!enc(87, ["Fishing"], ["Super"])
+
+!enc(515, ["Fishing"], ["Super"])
 
 ## Grand Dream Tournament
 

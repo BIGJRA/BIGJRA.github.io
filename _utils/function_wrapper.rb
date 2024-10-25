@@ -60,7 +60,7 @@ class FunctionWrapper
       
     func = @shortNames[func_shortname]
     run_str = "#{func}(#{args})"
-    # puts run_str
+    puts run_str
     eval(run_str) + "\n" # evaluates function, preserves its newline
   end
 

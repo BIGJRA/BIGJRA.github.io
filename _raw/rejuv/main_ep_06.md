@@ -352,7 +352,11 @@ Talk to Dragonite in the square - it's lost its letters again!
 
 The first is south of the pair of houses, in the southwest corner of the town. The second letter is on the hill south of the cemetery. The third is in the grass area at the bottom. Finally, the fourth on the hill to the right of Narcissa's house. Once we have all four, talk to Dragonite to get *TM113 Brutal Swing*!
 
-Head up to the forgotten path. Surfing left, you can get a *Naughty Mint*.
+Head up to the Forgotten Path. 
+
+!enc(91, ["Surfing", "Fishing"], ["Good"])
+
+Surfing left, you can get a *Naughty Mint*.
 
 Enter Wispy Ruins through the statue, then head into the right door. Step on the tile, then head in to and get Griselda's Treasure 5: a *Cursed Candle*!
 
@@ -624,7 +628,7 @@ Beat the trainers then grab the *X Special*. Hidden is a *Zinc*, *Rare Candy*, a
 
 Climb up the ladder, then jump down the leftmost hole to get *DeepSeaTooth*. In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
 
-Finally, enter the forest.
+Finally, enter the Evergreen Forest.
 
 !enc(470, nil, ["Old", "Good"])
 
