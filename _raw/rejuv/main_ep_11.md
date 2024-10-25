@@ -38,7 +38,7 @@ Beat this guy (morning/day only) to get a *Leppa Berry*.
 
 ## Judicial District
 
-We're next going to head to the west. Checkout Pokestar Studios if you like, then go west into the Judicial District.
+We're next going to head to the west. Checkout Pokestar Studios then go west into the Judicial District.
 
 !battle(["Herald",:WORKERM,0], "City Field")
 

@@ -310,7 +310,9 @@ class TrainerGetter
           if effs[:bossSideStatusChanges]
             eff_strs.push("Effect added to boss's side: #{effs[:bossSideStatusChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
-          eff_strs.push(effs[:playerSideStatusChanges]) if effs[:playerSideStatusChanges]
+          if effs[:playerSideStatusChanges]
+            eff_strs.push("Status added to player's side: #{effs[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+          end
           if effs[:statDropCure]
             eff_strs.push("Boss's stat drops are cured")
           end
@@ -382,7 +384,7 @@ class TrainerGetter
               end
               if act[:bossStatChanges] 
                 groups = {}
-                effs[:bossStatChanges].each do |stat, lvl|
+                act[:bossStatChanges].each do |stat, lvl|
                   groups[lvl] ||= []
                   groups[lvl].push(stat)
                 end
@@ -392,6 +394,9 @@ class TrainerGetter
               end
               if act[:bossEffect]
                 eff_strs.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+              end
+              if act[:playerSideStatusChanges]
+                eff_strs.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
               end
               if act[:typeSequence]
                 typeCycles = []

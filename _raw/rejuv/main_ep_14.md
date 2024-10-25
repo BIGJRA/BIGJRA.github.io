@@ -40,212 +40,137 @@ Aelita's team makes this one a breeze. I recommend starting with Cherrim and Sta
 
 Afterwards, you'll get the *Cherrim Crest*. Tell Aelita you want to rest for a while once you're ready. Head outside the airship when you wake up!
 
-## Zone Zero
+## Zone Zero South
 
-Zone Zero
-
-| Grass        | %   |
-|--------------|-----|
-| Helioptile   | 30  |
-| Maractus     | 30  |
-| Vullaby      | 14  |
-| Tauros       | 10  |
-| Heliolisk    | 9   |
-| Skorupi      | 5   |
-| Drapion      | 1   |
-| Mandibuzz    | 1   |
+!enc(573)
 
 First, head down and to the left.
 
-ZCell 096: Zone Zero Outskirts
+**ZCell 126: Zone Zero**
 
-<img src="/assets/images/rejuv/image100.png"/>
+!img("zcell126.png")
 
-Enter the zone to the north. There are some Xen Grunts selling stuff here.
+Obtain the *Transmitter*. Enter the zone to the north. There are some Xen Grunts selling stuff here.
 
-Zone Zero Left Grunt
+!shop("Zone Zero Xen Grunts", ["Blast Powder", "Poke Ball", "Great Ball", "Ultra Ball", "Super Repel", "Max Repel", "Escape Rope"])
 
-|Item          |Price|
-|--------------|-----|
-|*Blast Powder*|$2500|
-
-Zone Zero Right Grunt
-
-|Item         |Price|
-|-------------|-----|
-|*Poke Ball*  |$200 |
-|*Great Ball* |$600 |
-|*Ultra Ball* |$1200|
-|*Super Repel*|$500 |
-|*Max Repel*  |$700 |
-|*Escape Rope*|$550 |
-
-We'll need a few Blast Powders to progress, so buy them now. Use the PC star above to add an Electric type to your party. You'll need one, so catch a Helioptile out here if you don't have one yet. Audino will heal your team if you talk to it.
+We'll need a few Blast Powders to progress, so ensure you have some. Use the PC star above to add an Electric type to your party. You'll need one, so catch a Helioptile out here if you don't have one yet. Audino will heal your team if you talk to it.
 
 Enter the building and go down to the basement. You can hop across any single-spaced gaps, so do so to get to the right side of the map. Talk to the panel with your electric type to light it up.
 
-ZCell 097: Abandoned Apartments
+**ZCell 127: Abandoned Apartments**
 
-<img src="/assets/images/rejuv/image101.png"/>
+!img("zcell127.png")
 
-After the short dialogue scene, enter the second door upstairs. Smash the rock and use the blast powder to talk to Aelita. As her, jump the two gaps and talk to the glowing spot to get a key. As the player again, head right and up to enter the door furthest right. Beat the goons and enter the first door upstairs.
+After the short dialogue scene, enter the second door upstairs. Smash the rock and use the blast powder to talk to Aelita. You'll control her for a second: jump the two gaps and talk to the shining spot to get a key. As the player again, enter the rightmost room in the hallway. 
 
-Beat the grunt then go up the ladder to talk to Aelita. As her again, parkour to the right and jump down the hole. Attempt to jump across, but when you can't, take your character to the second door to smash the rock. As Aelita, parkour down and to the right, then up. Interact with the bookshelf here, then as your character battle the grunt and enter door \#3. Use blast powder, then parkour to the right twice and use the panel.
+!battle(["Ernie",:BLADESTAR_M,0])
 
-Upstairs, enter the open door and beat the grunt. You'll then regain control of Aelita, so head back to the power room at the bottom.
+Go upstairs.
 
-Popstar Risa Raider (No Field)
--   Tuff Puff, Level 90. @Air Balloon.
-    -   Poison Jab
-    -   Thunderbolt
-    -   Draco Meteor
-    -   Flamethrower
+!battle(["Nic",:BLADESTAR_M,1])
 
-You'll win if you just use Giga Drain with Cherrim, Return with Golem! If not, surely the other Pokemon can do it. Winning grants Relationship Points (Ren +1, Aelita +1).
+Smash the rock in the second room from the left. Enter the door on the left in the hallway.
 
-Back as your character, head to the right and exit this building. Pick up a hidden *Yellow Shard*, and enter the next building to the right. Once you enter, you'll fall to the abandoned depths!
+!battle(["Zyo",:BLADESTAR_M,1])
 
-Once you're in the depths, heal with Audino, then talk to the crew and learn you can switch characters by pressing the A key. To progress in this area, I recommend this order:
--   As MC, go up and battle the grunt. Follow the path forward to the
-    hole.
--   As Ren, head right, then fly up and over the gap. Each gap is
-    distinguished by an obvious indent in the floor. Follow this path to
-    the second gap, then to the third. Head over to the left to the gap
-    you can't cross.
--   As Aelita, push the boulder into the hole, then cross the gap to the
-    right. Follow the path to the next gap and attempt to cross.
--   As Ren, approach the gap and boost Aelita across. Then, navigate him
-    all the way right to the stairs.
--   As Aelita, head to the right, dropping the second boulder. Navigate
-    her to the stairs to the right.
--   AS MC, follow the path right, beating the grunts. Rendezvous with
-    the crew!
+Beat the grunt then go up the ladder to talk to Aelita. As her again, parkour to the right and jump down the hole. Parkour down and to the right, then up. Interact with the bookshelf here to knock it over. As your character, enter the third door. Use Blast Powder, then as Aelita parkour to the right twice and use the panel. Continue upstairs.
 
-Once you've cleared the puzzle, heal with Audino and head to the right. After a cutscene, follow the stairs up and exit the building.
+!battle(["Tirgon",:BLADESTAR_M,1])
+
+You'll then regain control of Aelita, so head back to the power room at the bottom.
+
+!newself(["Aelita",:STUDENT_3,0])
+
+!battle(["Risa Raider",:POPSTAR,0])
+
+You'll win if you just use Giga Drain with Cherrim, 2x Return with Golem.
+
+Back as your character, head to the right and exit this building. Pick up a hidden *Yellow Shard*, and enter the next building to the right. Once you enter, you'll fall to the Abandoned Depths! Once you're in the depths, heal with Audino, then talk to the crew and learn you can switch characters by pressing the A key. To progress in this area, I recommend this order:
+
+- Ren: head right, then fly up and over the gap. Each gap is distinguished by an obvious indent in the floor. Follow this path to the second gap, then to the third. Head over to the left to the gap you can't cross.
+- Aelita: push the boulder into the hole, then cross the gap to the right. Follow the path to the next gap and attempt to cross.
+- Ren: approach the left gap and boost Aelita across. Then, navigate him all the way right to the stairs.
+- Aelita: head to the right, dropping the second boulder. Navigate her to the stairs to the right.
+
+Now your character can progress through the path, fighting grunts along the way.
+
+!battle(["Nabeela",:BLADESTAR_F,0], "Desert Field")
+
+!battle(["Aurora",:BLADESTAR_F,0], "Desert Field")
+
+!battle(["Anette",:BLADESTAR_F,1], "Desert Field")
+
+Once you've cleared the puzzle, heal with Audino and head to the right. After a scene, follow the stairs up and exit the building.
 
 In this area, smash the two rocks to the left for easier backtracking and navigation.
 
 Head down to the bottom to find:
 
-ZCell 098: Zone Zero
+**ZCell 128: Zone Zero**
 
-<img src="/assets/images/rejuv/image102.png"/>
+!img("zcell128.png")
 
-Head up and to the right. In the bottom corner of this area, grab *TM93 Wild Charge*. At the Lux Apartments, head up and right to grab a *Rare Candy* and hidden *Revive*. Then, head straight down past a line of grass to grab the *Zone Zero Key*. This lets us get to Alamissa from here, and vice versa.
+Head up and to the right. In the bottom corner of this area, grab *TM93 Wild Charge*. To the right down a narrow path is a shining *Zone Zero Key*, which unlocks the door between Alamissa Urben and Zone Zero. At the Lux Apartments, head up and right to grab a *Rare Candy* and hidden *Revive*.
 
-Head up, battling the grunt along the way. Loop around to the left for an *Ultra Potion*, then go up along the upper path to get a *Razor Claw*. To the left is a hidden *Red Shard*. Once you've grabbed these items go all the way to the left and into the building on the top left of the area.
+!battle(["Shane",:BLADESTAR_M,1], "Desert Field")
 
-If you removed your electric type, readd it to your team, pick up a hidden *Yellow Shard* in a bookshelf, and enter the backroom. Go downstairs and power on the generator. (This is the last time we will need the electric type in V12). Enter the newly opened room and read the book with Ren, then exit this building and enter the one below it.
+Loop around to the left for an *Ultra Potion*, then go up along the upper path to get a *Razor Claw*. Down to the left is a hidden *Red Shard*. 
 
-Grab a hidden *Red Shard* and enter Nymiera's old house. Go to the basement to click the lever. Save/heal and approach the top of the Zone Zero area.
+!battle(["Romario",:BLADESTAR_M,0], "Desert Field")
 
-Rogue Psychic Lorna (Psychic Terrain)
--   Vivillon, Level 82. @ Focus Sash.
-    -   Rage Powder
-    -   Psychic
-    -   Sleep Powder
-    -   Bug Buzz
--   Aromatisse, Level 82. @ Sitrus Berry.
-    -   Trick Room
-    -   Reflect
-    -   Moonblast
-    -   Light Screen
--   Darmanitan, Level 83. @ Darmanitan Crest.
-    -   Heat Wave
-    -   Psychic
-    -   Will-O-Wisp
-    -   Focus Blast
--   Fused Solrock, Level 84. @ Life Orb.
-    -   Zen Headbutt
-    -   Rock Slide
-    -   Solar Flare
-    -   Will-O-Wisp
--   Stonjourner, Level 83. @ Assault Vest.
-    -   Rock Slide
-    -   Heat Crash
-    -   Heavy Slam
-    -   Body Press
--   Aevian Lapras, Level 83. @ Weakness Policy.
-    -   Hypnosis
-    -   Earth Power
-    -   Psychic
-    -   Power Gem
+Go into the building in the top left of the area. Pick up a hidden *Yellow Shard* in a bookshelf, and enter the backroom. Go downstairs and power on the generator with the Electric Type. Enter the newly opened room and read the book with Ren, then exit this building and enter the one below it.
 
-This battle is a total bruh moment the first time you play it. Unless you have spread moves that are gonna be able to knock out the bulky-as-hell Aromatisse turn one or use your own Trick Room, most likely, you get eight turns of having to deal with her slow team going first and causing massive damage. Aromatisse will set up screens as well, meaning after Stonjourner and Darmanitan wear you down, you'll be easy picking for Lapras and Solrock. I recommend knocking out Aromatisse at all costs then stalling -- once the screens and the trick room go away, you'll have a much easier time taking out the rest of her team. Alternatively, starting with two or three leads who are slow will encourage her not to use Trick Room right away, then after you take out Aromatisse you can switch to your faster sweepers.
+Grab a hidden *Red Shard* and enter Nymiera's old house. Go to the basement to click the lever. Approach the top of the Zone Zero area.
 
-## Zone Zero Pt. 2
+!battle(["Lorna",:ROGPSYCHIC,0], "Psychic Terrain")
 
-After an... unfortunate scene, head up and to the right down a little path. Catch/fight/run from Mandibuzz, and pick up a hidden *Yellow Shard* if you'd like. Then follow the path around to the top left of the area, pick up a hidden *Red Shard*, then talk to Ren then the cracked rock.
+Lorna is often able to get off her 8-Turn Trick Room in this fight, allowing her slow Pokemon to outspeed. Psychic Terrain also nullifies priority moves, so you can't simply use those. You'll need to make a plan for Trick Room somehow: Taunt, Fake Out, simply one-shotting Aromatisse are all options that can assist with it. You can also use a super slow team of your own to take advantage. I recommend knocking out Aromatisse and stalling: once the screens and the trick room go away, you'll have a much easier time taking out the rest of her team.
 
-Head up and to the left for a battle with **Skarmory**, if you'd like. Follow the path instead to the right and enter the building here. Go downstairs and read the journal, then head upstairs and exit.
+## Zone Zero North
 
-Once in this area, go left for a hidden *Red Shard*, then go right to the Pokemon Center area. After the scene, grab the *Full Restore* below. Then head into the Center and talk to the crew.
+Head up and to the right down a little path. Defeat Mandibuzz, and pick up a hidden *Yellow Shard*. Then follow the path around to the top left of the area, pick up a hidden *Red Shard*, then talk to Ren then the cracked rock.
+
+Head up and to the left to get a *Data Drive* and a battle with **Skarmory**. Follow the path to the right and enter the building. Go downstairs and read the journal, then head upstairs and exit.
+
+Go left for a hidden *Red Shard*, then go right to the Pokemon Center area. After the scene, grab the *Full Restore* below. Activate a Braviary Post here, then go into the Center and talk to the crew.
 
 After a few cutscenes, you'll get to play as Melia. All you must do is follow the path through this area but be prepared for a battle!
 
-League Scout Amanda (Factory Field)
--   Incineroar, Level 83. @ Assault Vest.
-    -   Flare Blitz
-    -   Fake Out
-    -   Darkest Lariat
-    -   Thunderpunch
--   Bronzong, Level 83. @ Amplifield Rock.
-    -   Rock Slide
-    -   Gyro Ball
-    -   Psywave
-    -   Trick Room
--   Torkoal, Level 82. @ Heat Rock.
-    -   Eruption
-    -   Heat Wave
-    -   Earth Power
-    -   Solarbeam
--   Rhyperior, Level 81. @ Rindo Berry.
-    -   Megahorn
-    -   Rock Slide
-    -   Drill Run
-    -   Thunderpunch
--   Hatterene, Level 85. @ Life Orb.
-    -   Psychic
-    -   Mystical Fire
-    -   Moonblast
-    -   Trick Room
--   Druddigon, Level 84. @ Druddigon Crest.
-    -   Dragon Claw
-    -   Fire Punch
-    -   Thunderpunch
-    -   Sucker Punch
+!newself(["Melia",:ENIGMA_2,2])
 
-This is a 12v6 double battle with Madelis on your side, so luckily, it's not too bad at all. Madelis' Houndoom can nearly one shot all the Pokemon that resist its Heat Wave under Torkoal's sun, so just let that happen and use logical moves with Melia's Pokemon and you'll be just fine.
+!partner(["Madelis",:XENEXECUTIVE_2,4])
 
-At this point, if we did the West Gearen Help Quest involving Sakitron, we will get Relationship Points (Melia +2, Erick +2). What follows is a mech-battle sequence. The mechanics are complicated, but you don't have to necessarily win this one. If you do want to win, I recommend just using the attack she references in the text right before you attack - if she uses "hammer", "bash", or "top" in her text you'll be able to know which to use. If she says the other thing, I recommend "tank engine". I don't know all the mechanics of this fight yet, but this strategy worked for me the two times I played it.
+!battle(["Amanda",:TRAINER_AMANDA,3], "Factory Field")
 
-Once you regain control, head left and up out of the center, then enter the now-opened gate area.
+A 12V6 battle sounds super easy, but you still have to watch out for Amanda's Trick Room shenanigans. Madelis' Houndoom can nearly one shot all the Pokemon that resist its Heat Wave under Torkoal's sun, so try to support it and you'll be just fine.
+
+**Relationship Point Choices**:
+- Complete *Housesitting* quest before this point (+2 Melia, +2 Erick)
+
+We get to participate in a mech-battle sequence, with a more powerful Sakitron for completing *Housesitting* earlier. You don't have to necessarily win this one. If you do want to win, I recommend just using the attack she references in the text right before you attack - if she uses "hammer", "bash", "top", or "tank" in her text, you'll be able to know which to use.
+
+Once you regain control as yourself once more, head left and up out of the center, then enter the now-opened gate area.
 
 After a scene, go left:
 
-ZCell 099: Zone Zero
+**ZCell 129: Zone Zero**
 
-<img src="/assets/images/rejuv/image103.png"/>
+!img("zcell129.png")
 
-Also grab the *Fire Stone* above. When you're ready, enter the stairs to the right. Grab the info on *Pulse: Garna*... heal and get ready for action.
+Also grab the *Fire Stone* above. Go down the stairs to the right. Pick up *Code Garna Rift Notes*. If you grabbed the Weird Diary in the past, now is another chance to use it!
 
-If you grabbed the Weird Diary in the past, now is another chance to use it!
+!partner(["Ren",:OUTCAST,2])
 
-Dimensional Rift Hippowdon (Desert Field)
--   Hippowdon, Level 85. @ Black Sludge. Type: Ground / Poison. Ability:
-    Accumulate. Stats: 254/168/180/182/142/47. 4 Shields.
-    -   Heat Wave
-    -   Rock Tomb
-    -   Spit Up
-    -   Earth Power
+!boss("RIFTHIPPOWDON", "Desert Field")
 
-This one isn't too bad... Ren's team puts in work by supplying Arenite Wall and he also tends to burn it. Dropping its attack stats super low is a good move - it's so slow you should be able to get off at least a Memento or something if you so choose. It holds Black Sludge which you can knock off. Using super effective moves to slowly chip away at each of its four shields afterwards will do the trick.
+Ren is actually incredible here, probably better than the average team that you have at this point. For this reason moves that delay Hippowdon or attract attention onto your Pokemon are going to be helpful - the longer you can keep Ren's Flygon around, the better. 
 
-You can literally loot a knocked out Bladestar grunt for an *Ability Capsule*! Afterwards, head up and out! Nothing can be done to the left now, so head up to the next map. On the right by a gravestone, you'll find:
+You can literally loot a knocked out Bladestar grunt for an *Ability Capsule*! Head up and out. Take a peep at Team Xen HQ on Reldin Island, then head right and up to the next map. 
 
-ZCell 100: Zone Zero
+**ZCell 130: Zone Zero**
 
-<img src="/assets/images/rejuv/image104.png"/>
+!img("zcell130.png")
 
 Head up and to the left for one more cutscene.
 
@@ -253,13 +178,13 @@ Head up and to the left for one more cutscene.
 - Sure! (Ren +1, Aelita +1)
 - Define "okay". (Ren +2, Aelita +2)
 
-Head up.
+Activate another Braviary Post, then head up.
 
 ## Eclysia Pyramid
 
 After the scene, enter the pyramid above. You'll watch another, then on the left you'll find:
 
-ZCell 101: Eclysia Pyramid
+ZCell 131: Eclysia Pyramid
 
 <img src="/assets/images/rejuv/image105.png"/>
 
@@ -826,7 +751,7 @@ If you chose the second option, at the top, make a second choice. If you choose 
 
 Either way, head back to where you fought Karrina, and head to the right. Go up to grab the *Torterra Crest*! Exit the castle now.
 
-If you chose the first option, fly to Alamissa Urben and enter a door all the way on the left, accessed via the top left side of the area. Grab the *Life Orb*! You can also read the journal if you'd like.
+If you chose the first option, fly to Alamissa Urben and enter a door all the way on the left, accessed via the top left side of the area. Grab the *Life Orb*! You can also read the journal.
 
 In either case, with all the crests that we found in the crypt, fly to Sashila and talk to the left merchant for some lore, and a *Dusknoir Crest*!
 

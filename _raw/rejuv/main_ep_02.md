@@ -482,7 +482,7 @@ Grab the *Revival Herb* in the next room, then step on the Red/Yellow Switch. Go
 
 !battle(["Jensly",:XENANALYST_M,0])
 
-Enter the room on the left and read the books if you like. 
+Enter the room on the left and read the books.
 
 !battle(["Forrest",:XENANALYST_M,0])
 

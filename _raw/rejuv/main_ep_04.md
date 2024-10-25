@@ -148,7 +148,7 @@ Head down from the shops.
 
 !battle(["Elizabeth",:COOLTRAINER_F,0])
 
-A kid here laments not getting a Phantump egg, so we'll later want to find one and trade it to him. Talk to Amanda if you like, then head down.
+A kid here laments not getting a Phantump egg, so we'll later want to find one and trade it to him. Talk to Amanda, then head down.
 
 Just before the grass turns lighter, in the right gap in the tall grass, there is a hidden *Sassy Mint*. Follow the path around to the right. Heading back into the darker grass, two tiles up from the lighter grass on the left is a hidden *Blue Shard*. Head up. Behind in the left tile of the tree below the RV is a hidden *Rare Candy*. Enter the open RV and talk to the hiker for some *Rose Tea*.
 

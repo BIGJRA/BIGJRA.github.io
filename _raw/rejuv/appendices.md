@@ -2,7 +2,7 @@
 
 ## Complete the V13 Dex
 
-While you wait for the next episode, if you'd like, you can fill your dex as much as possible. Note that I assume everything in bold above has been obtained already. I will only be listing everything here that you must evolve/breed in V13 that we haven't already done so for a quest.
+While you wait for the next episode, you can fill your dex as much as possible. Note that I assume everything in bold above has been obtained already. I will only be listing everything here that you must evolve/breed in V13 that we haven't already done so for a quest.
 
 The best place to post up for battles is the Route 9 grinder. Lead with a Ghost/Fighting type and go nuts, you'll get Exp. Candy for winning. Friendship berries are available at Maman's Camp. As for item evolutions
 - they're all available in the Shopping District.
