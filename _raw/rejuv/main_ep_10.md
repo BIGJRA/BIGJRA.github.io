@@ -334,6 +334,8 @@ Pick up the *Rare Candy*. In the next room, if you chose to have Florin handle t
 - After having Florin handle the first pair, battle this pair of grunts (+2 Florin)
 - After having Florin handle the first pair, have Florin handle the second pair of grunts (-2 Florin)
 
+Note that choosing to expose Flora and let Florin attack the grunts locks you into the story route **Berserk Florin**, which will eventually grant (+20 Renegade Points).
+
 !dbattle(["Lee",:BLADESTAR_M,0], ["Lana",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
 Continue. Florin will handle this pair of grunts himself if he did the previous two.

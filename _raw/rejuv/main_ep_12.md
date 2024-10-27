@@ -305,7 +305,7 @@ Another tough Chess Board fight! Every one of her Pokemon are pretty threatening
 - About what? (Neutral)
 - Sigh (Melia -3)
 
-Time for a story choice. **Hand It Over** is a game over, **Abandon Them** is a passing grade in the sense the game will continue, but you can also let the timer expire to **Do Nothing**.
+Time for a story choice. **Hand It Over** is a game over and causes (+10 Renegade Points), **Abandon Them** is a passing grade in the sense the game will continue, but causes (+10 Renegade Points), but you can also let the timer expire to **Do Nothing**.
 
 **Relationship Point Choices**:
 - Are you okay?! (Melia +2)

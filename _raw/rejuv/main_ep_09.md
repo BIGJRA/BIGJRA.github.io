@@ -213,7 +213,7 @@ Toxel is our next target for Zumi's quest.
 
 !battle(["Orion",:SCIENTIST,0], "Factory Field")
 
-Grab the *Hyper Potion* in here. Head up, then grab the *Code Corroso Rift Notes*! After heading up, show Erick the Weird Diary if you want to save Garbodor (+1 Karma)
+Grab the *Hyper Potion* in here. Head up, then grab the *Code Corroso Rift Notes*! After heading up, show Erick the Weird Diary if you want to save Garbodor (+1 Karma). To not **Save Garbodor** adds (+10 Renegade Points).
 
 **Relationship Point Choices**:
 - Let's save Garbodor! (Venam +4, Melia +4)
@@ -374,7 +374,7 @@ Different typings on these Pokemon don't necessarily make them stronger, just di
 
 Welcome to Atebit Town!? 
 
-!enc(293)
+!enc(293, nil, nil, "Atebit Town")
 
 To the left is *Exp. Candy XL*. In "The Funky Forest" to the right, stepping on red flowers warps you back to the beginning. Inside the maze is a *Time Flute*, *Rare Candy*, and *Carbos*. A hill to the left of the forest holds a *Black Prism*. Enter Alice's Abode.
 
@@ -436,7 +436,7 @@ Make your way over to Route 4. Now that we've beaten Amber, all four of the Rift
 
 Entering Cairo's house, he has more available crests now!
 
-!shop("Cairo's Shop New Items", [["Luxray Crest", "5000 Red Essences"], ["Druddigon Crest", "5000 Red Essences"], ["Thievul Crest", "5000 Red Essences"], ["Samurott Crest", "5000 Red Essences"]])
+!shop("Cairo's Shop New Items (8 Badges)", [["Luxray Crest", "5000 Red Essences"], ["Druddigon Crest", "5000 Red Essences"], ["Thievul Crest", "5000 Red Essences"], ["Samurott Crest", "5000 Red Essences"]])
 
 Next, head over to the Lost Camp. We've now found all eleven children for the *Lost Souls* quest! 
 

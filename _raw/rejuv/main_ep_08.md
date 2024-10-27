@@ -287,7 +287,7 @@ In the bottom left corner, you can get a *Revive*.
 
 ### Saving Amber (Optional)
 
-We don't have to save Amber, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. On the left, use your new Blast Powder to reach:
+We don't have to **Save Amber**, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. On the left, use your new Blast Powder to reach:
 
 **ZCell 076: Chamber of Awakening**
 
@@ -375,6 +375,8 @@ By clicking each crystal in succession, make your way to the top of the room. Ba
 Fall down the hole again, then proceed all the way through the barricade and back up the mountain. This time, take the ladder at the top. Exit to the Valor Cliffside.
 
 ### Valor Cliffside
+
+If we proceed without having saved Amber, we will get (+10 Renegade Points).
 
 Pick up hidden *HP Up* and *Blast Powder*. Head left to fight:
 

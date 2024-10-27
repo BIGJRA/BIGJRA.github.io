@@ -1030,6 +1030,8 @@ After some scenes, you'll get a treat from Tesla.
 
 !move("MATRIXSHOT")
 
+!move("ARENITEWALL")
+
 The Inverse Field is the simplest Field in this game, with only a few effects to its name. Yet this fight is pretty difficult: despite their sturdiness, Rock types have a ton of weaknesses and few resistances normally, all of which is flipped in this battle. With tons of inverse-focused coverage in types like Grass, Normal, and Bug, your team is likely going to get caught off guard in this fight. He has a range of speeds on his team but nothing way too slow to pull off a Trick Room strategy, and he also has a Sash on Kabutops and similar effect on crested Rampardos. Stone Axe adds Stealth Rock to your side as well. His lead is tricky too: the Magical Seed transforms Tyranitar into a Normal type and adds Normalize.
 
 Winning this fight will probably rely on a hazard to break the sash effects plus a sweeper. Fire and Normal moves are generally going to be your best bet here. Aerodactyl is fast but weak to moves like Quick Attack and Extremespeed, after all. 
