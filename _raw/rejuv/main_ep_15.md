@@ -20,7 +20,7 @@ These mad lad developers did it - they made Ledian decent! It's punching moves h
 
 Reborn players should be used to this field by now, but here are some strategies that tend to work on this field. Revelation/Petal/Fiery Dance are all boosted under this field, so a team using these that targets their low special defense might succeed. Dragon/Swords/Quiver Dance also boost stats even more, so a sweeper might see success here if they can get the opportunity to set up. Acrobatics also is boosted here and can help you get rid of Ledian, Rillaboom, and Centiskorch.
 
-Succeed to nab the third *Star Shard*, as well as the *Ledian Crest*, and a *Somnium Mall Stamp*.
+Succeed to nab the third *Star Shard*, as well as the *Ledian Crest*, and a *Somniam Mall Stamp*.
 
 Outside, enter the building to the left. Go up and climb down the ladder to reach the area where we were ambushed by Bladestar.
 
@@ -57,12 +57,6 @@ To the left from the Zone Zero Pokemon Center on the northern map, you'll find t
 
 Fly over to Kakori Village. Enter a house on the left side and present the *Magic Wand* to get **Fennekin**!
 
-We now have access to Grand Dream City once more, and there are a few things we can take care of. First, enter Scholar District and enter the Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somnium Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium-Z* as well!
-
-Head west to the Festival Plaza. There is a new tutor on the left.
-
-!tutor("Festival Plaza North Tutor", [["Superpower", "6 Yellow Shards"], ["Heat Wave", "6 Blue Shards"], ["Stealth Rock", "6 Red Shards"], ["Future Sight", "4 Red Shards"], ["Flip Turn", "5 Green Shards"]])
-
 One more quest in the desert area: make your way to the southeast corner of the Zorrialyn Desert by Poiloethal Forest to begin the *Poisonous Luck* quest. Follow Jangmo'o to Luck's Tent in Zorrialyn Coast. Inside, you'll be able to purchase **Jangmo'o (Aevian)** in exchange for 13 Black Prisms!
 
 Take the time to breed Aevian Jangmo'o and take the spare to a house in Zorrialyn Desert East. We can trade it for **Jangmo'o** (the Alolan kind)!
@@ -92,11 +86,17 @@ Dufaux is a difficult boss. Each phase of the fight adds something to Dufaux unt
 
 Head to the Lost Castle. All the way at the top, you'll get a chance to battle **Rotom**!
 
-Fly to West Gearen and go talk to Gabriel at the West Gearen power plant. Follow him left, up, and up to get access to a room where you can change Rotom's form! You'll also get another *Somnium Mall Stamp*!
+Fly to West Gearen and go talk to Gabriel at the West Gearen power plant. Follow him left, up, and up to get access to a room where you can change Rotom's form! You'll also get another *Somniam Mall Stamp*!
 
 ## Missing Children 2
 
-If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC. Make your way to the underground and enter Dylan's house.
+If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC. Make your way to the Underground. On the right side, you'll now be able to find:
+
+**ZCell 137: The Underground**
+
+!img("zcell137.png")
+
+Enter Dylan's house.
 
 **Relationship Point Choices**:
 - Sorry...! (+2 Particia, +2 Dylan)
@@ -131,6 +131,26 @@ Back in Kristiline, fly to Teila Resort and talk to Ana in the middle. Gather in
 
 Back in Kristiline again, enter the house. That's all we can do in this quest for now!
 
+As this quest showed, we now have access to Grand Dream City once more. There are a few things we can take care of. First, enter Scholar District and enter the Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somniam Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium-Z* as well!
+
+Head west to the Festival Plaza. There is a new tutor on the left.
+
+!tutor("Festival Plaza North Tutor", [["Superpower", "6 Yellow Shards"], ["Heat Wave", "6 Blue Shards"], ["Stealth Rock", "6 Red Shards"], ["Future Sight", "4 Red Shards"], ["Flip Turn", "5 Green Shards"]])
+
+We've now collected eight of the ten stamps for the mall, so we can buy a whole bunch of new stuff.
+
+!shop("Somniam Mall Rare Gems", ["Fire Gem", "Water Gem", "Normal Gem", "Grass Gem", "Electric Gem", "Poison Gem", "Ground Gem", "Fighting Gem", "Flying Gem"])
+
+!shop("Somniam Mall Rare Gems", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem"])
+
+!shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Link Heart", "Ability Capsule"])
+
+!shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry"])
+
+!shop("Somniam Mall TMs & HMs", [["TM150 Grassy Terrain", 10000], ["TM151 Electric Terrain", 10000], ["TM152 Misty Terrain", 10000], ["TM153 Psychic Terrain", 100000], ["TM34 Sludge Wave", 30000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000]])
+
+!shop("Somniam Mall Evolution Items", ["Protector", "Magmarizer", "Dragon Scale", "Electirizer", "DeepSeaTooth", "DeepSeaScale", "Up-Grade", "Dubious Disc", "Prism Scale", "Sachet", "Whipped Dream", "Razor Claw", "Oval Stone", "Razor Fang", "Reaper Cloth"])
+
 ## Atebit Doctor Quest
 
 Make your way once more to the Eclysia Pyramid. Up the stairs on the right, you'll be able to enter a rift to return to the area with all the "GameBoys". Walk into the first to talk to Talon, beginning the *Atebit Doctor* quest.
@@ -152,13 +172,13 @@ Surf down and left. West of "The Lighthouse" you'll be able to land on a blue do
 If we had answered all of Eizen's Rivers' End questions correctly, he will offer us a game here, to relive the fight between Allen and Bladestar. Similarly to the fight with Amanda, we simply need to choose the attack that corresponds with whatever prompt our enemy says. After winning, you'll get the **??? Memory**.
 
 **Relationship Point Choices**:
-- If Eizen is in Trunkleaf City, win his game.
+- If Eizen is in Trunkleaf City, win his game (+5 Alice, +5 Allen)
 
-**ZCell 137: Atebit Kingdom**
+**ZCell 138: Atebit Kingdom**
 
-!img("zcell137.png")
+!img("zcell138.png")
 
-
+Make your way back down to the bottom of the Syxtenbit Cave when you are ready to fight Isha, and head in.
 
 If you freed Giratina earlier:
 
@@ -168,194 +188,39 @@ If you didn't free Giratina earlier, well....
 
 !battle(["Isha",:DOCTOR,1], "Glitch Field")
 
-After defeating him, you'll be ejected from this area.
+After defeating him, you'll be ejected from this area and returned to GDC.
 
-
-
-## Hospital of Ruin (2nd Visit)
-
-Time to continue the story! Fly to Yui's Ranch, then enter GDC and make your way to the penthouse. After a quick scene, talk to Delpha and agree to go.
-
-Enter Isha's backroom prepared for battle.
-
-Doctor Isha (Factory Field)
--   Galarian Weezing, Level 85. @ Black Sludge.
-    -   Sludge Bomb
-    -   Toxic
-    -   Strange Steam
-    -   Flamethrower
--   Vanilluxe, Level 84. @ Icy Rock.
-    -   Flash Cannon
-    -   Hidden Power Fire
-    -   Blizzard
-    -   Freeze Dry
--   Arctozolt, Level 84. @ Wise Glasses.
-    -   Blizzard
-    -   Bolt Beak
-    -   Surf
-    -   Hail
--   Magnezone, Level 85. @ Synthetic Seed.
-    -   Discharge
-    -   Flash Cannon
-    -   Hidden Power Ice
-    -   Signal Beam
--   Dusknoir, Level 86. @ Dusknoir Crest.
-    -   Shadow Punch
-    -   Shadow Sneak
-    -   Earthquake
-    -   Thunderpunch
--   Dracovish, Level 84. @ Muscle Band.
-    -   Fishious Rend
-    -   Crunch
-    -   Psychic Fangs
-    -   Ice Fang
--   Giratina, Level 86. @ Griseous Orb. \[ONLY IF YOU DID NOT SAVE IT,
-    REPLACES WEEZING\]
-    -   Outrage
-    -   Aura Sphere
-    -   Shadow Ball
-    -   Earthquake
-
-This fight can potentially be tough - it mixes a lot of strategies and works somewhat well with the factory and dark factory fields. Weezing is pretty tanky and can spread Toxic but isn't too crazy. Arctozolt and Dracovish both hit hard but are on the slower side, so hitting them hard with Ground / Fairy / Dragon moves respectively is the way to stop them. Crest Dusknoir hits hard with Shadow Sneak on the Dark Factory - make sure that whatever you are going to attack it with can live a Technician Shadow Sneak. And, if you could take Giratina back in your Level 30's, you can now.
+While we're in GDC, one new thing to obtain is available: if Florin is still alive (by not taking the Berserk Florin route), head to the Treasure Treehouse. You'll find Talon here, who will task you with checking out a new area of Tyluric Temple. We have already explored this area: you can breed the Togepi (well, once you evolve it to **Togetic**) for a trade. Talon will next propose a trade, but talk to him a second time carefully, thanks to the maybe-maybe-not-intentional way this is coded:
 
 **Relationship Point Choices**:
-- I've been great! (Venam +3)
-- It's been going. (Neutral)
+- Agree to Talon's Togepi trade *the first time he asks* (+2 Talon)
 
-After the rest of the cutscenes play out... we did it! There are a couple quests we can take care of right now before progressing the story further.
+Anyways, he'll give you **Bagon**, holding the *Butterfreenite*!
 
-As a note, if we head over to the Pokemon Hospital south from here, we can spend $50000 at night to max out one EV, max out one IV, and give Pokerus to a single Pokemon. This is really only critical for the IV itself, but the price is high. Up to you if you have a particularly bad IV.
-
-Head over to the Botanical Gardens if Florin is still alive.
-
-**Relationship Point Choices**:
-- That's great, Florin! (Florin +2)
-- You? Mayor? (Florin -2)
-
-**Relationship Point Choices**:
-- I'd love to! (Florin +2)
-- Sorry, I'm busy... (Florin -2)
-
-
-## Department Store and Deino
-
-Next, fly over to the GDC and enter the department store. We've gotten a ton of stamps in this episode's content, so it's time to go on a shopping spree! Add Gible to your party and fly to Yui's Ranch, enter GDC, then go to the shopping district and into the store.
-
-
-
-Shopping District Mall 6F Shop 1
-
-|Item         |Price|
-|-------------|-----|
-|*Psychic Gem*|$200 |
-|*Bug Gem*    |$200 |
-|*Rock Gem*   |$200 |
-|*Ghost Gem*  |$200 |
-|*Dark Gem*   |$200 |
-|*Dragon Gem* |$200 |
-|*Steel Gem*  |$200 |
-|*Ice Gem*    |$200 |
-
-Shopping District Mall 6F Shop 2
-
-|Item          |Price|
-|--------------|-----|
-|*Fire Gem*    |$200 |
-|*Water Gem*   |$200 |
-|*Normal Gem*  |$200 |
-|*Grass Gem*   |$200 |
-|*Electric Gem*|$200 |
-|*Poison Gem*  |$200 |
-|*Ground Gem*  |$200 |
-|*Fighting Gem*|$200 |
-|*Flying Gem*  |$200 |
-
-Shopping District Mall 7F Shop 1
-
-|Item             |Price |
-|-----------------|------|
-|*Big Root*       |$200  |
-|*Focus Band*     |$200  |
-|*Zoom Lens*      |$200  |
-|*Scope Lens*     |$200  |
-|*BrightPowder*   |$300  |
-|*Link Heart*     |$10000|
-|*Ability Capsule*|$3000 |
-|*Quick Claw*     |$100  |
-
-Shopping District Mall 7F Shop 2
-
-|Item          |Price|
-|--------------|-----|
-|*Petaya Berry*|$1250|
-|*Liechi Berry*|$1250|
-|*Apicot Berry*|$1250|
-|*Lansat Berry*|$1000|
-|*Starf Berry* |$1000|
-|*Ganlon Berry*|$1250|
-|*Salac Berry* |$1250|
-
-Shopping District Mall 8F Shop 1
-
-|Item                    |Price  |
-|------------------------|-------|
-|*TM150 Grassy Terrain*  |$100000|
-|*TM151 Electric Terrain*|$100000|
-|*TM152 Misty Terrain*   |$100000|
-|*TM153 Psychic Terrain* |$100000|
-|*TM34 Sludge Wave*      |$3000  |
-|*TM55 Scald*            |$130000|
-|*TM90 Substitute*       |$2000  |
-|*HM05 Waterfall*        |$150000|
-
-Shopping District Mall 8F Shop 2
-
-|Item           |Price|
-|---------------|-----|
-|*Protector*    |$2100|
-|*Magmarizer*   |$2100|
-|*Dragon Scale* |$2100|
-|*Electirizer*   |$2100|
-|*DeepSeaTooth* |$200 |
-|*DeepSeaScale* |$200 |
-|*Up-Grade*     |$2100|
-|*Dubious Disc* |$2100|
-|*Prism Scale*  |$500 |
-|*Sachet*       |$1000|
-|*Whipped Dream*|$1000|
-|*Razor Claw*   |$2100|
-|*Oval Stone*   |$2100|
-|*Razor Fang*   |$2100|
-|*Reaper Cloth* |$2100|
-
-On 7F, show the lady at the bottom your Gible and she'll give you the *Dark Core*.
-
-Exit the department store and fly over to Kristiline Town. Head up to the Isle of Angels and place the Dark Core on the pillar on the island to encounter **Deino**. Sweet!
+One more thing to grab. Annoyingly out of the way this may be, make the way all the way back to the room in the Syxtenbit Cave where we fought Isha and grab the *Laprasite*!
 
 ## League Administration
 
-### Day 01: Vs. Melia
+Fly over to Sashila and talk to the group at the top. Head up in Alamissa Urben when you are ready.
 
-In Sashila, head up when prompted. You'll be thrown into a battle as Alexandra.
+!newself(["Alexandra",:ELITE_ALEXANDRA,0])
 
-The Storm (Desert Field)
--   STORM \| Wind, Level 80. @ Demon Stone. Type: Flying. Ability:
-    Tempest. Stats: 450/70/150/140/150/20.
-    -   Weather Ball
-    -   Hurricane
-    -   Thunder
-    -   Psyshock
+!partner(["Damien",:LEADER_DAMIEN,0])
 
-You can defeat this thing easily. Notice what weather gets activated by its ability each turn and try to use moves boosted by it if you want, but with Damien on your side it's very winnable.
+!boss("STORMNINE", "Desert Field")
+
+This fight shouldn't be too bad for Alexandra and Damien, thankfully.
 
 **Relationship Point Choices**:
 - Count me in! (Melia +3, Aelita +3, Ren +3, Venam +2, Alexandra +6)
 - I'm scared... (Ren +2, Aelita +2, Erin +2, Damien +2)
 - What are we talking about? (Erin -3, Melia -3, Ren -3, Aelita -5, Damien -6, Alexandra -6, Allen +3)
 
-Me too, Allen.
+Me too Allen, me too.
 
 Enter Alexandra's secret passageway and enter at the top.
+
+### Day 01: Vs. Melia
 
 **Relationship Point Choices**:
 - You mean Marianette? (Venam +2)
@@ -364,39 +229,9 @@ Enter Alexandra's secret passageway and enter at the top.
 
 Afterwards, prepare yourself for a battle with Melia!
 
-Pokemon Trainer Melia (Fairy Tale Field)
--   Hydreigon, Level 85. @ Focus Sash.
-    -   Flamethrower
-    -   Flash Cannon
-    -   Dragon Pulse
-    -   Protect
--   Azumarill, Level 84. @ Assault Vest.
-    -   Play Rough
-    -   Liquidation
-    -   Ice Punch
-    -   Aqua Jet
--   Mimikyu, Level 84. @ Magical Seed.
-    -   Swords Dance
-    -   Play Rough
-    -   Shadow Claw
-    -   Shadow Sneak
--   Snorlax, Level 84. @ Chople Berry.
-    -   Return
-    -   Earthquake
-    -   Heavy Slam
-    -   Heat Crash
--   Togekiss, Level 85. @ Babiri Berry.
-    -   Aura Sphere
-    -   Gilded Arrows (Flying Type)
-    -   Nasty Plot
-    -   Draining Kiss
--   Aegislash, Level 85. @ Magical Seed.
-    -   King's Shield
-    -   Swords Dance
-    -   Shadow Sneak
-    -   Sacred Sword
+!battle(["Melia",:ENIGMA_2,0], "Fairy Tale Field")
 
-Gilded Arrows: Type is the same as the user's secondary type, unless the user is single-typed or their secondary type is Dragon or Fairy, in which case the type is the user's primary type \| Special \| 50 power, hits twice \| 100% accuracy \| Increased critical hit rate.
+!move("GILDEDHELIX")
 
 The field effect is unalterable by moves, a broken seed effect that gives Aegislash one and Mimikyu TWO free turns turn to reach +4/+6 attack, all fire moves given an added Dragon typing hence can't touch Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash, it's very stacked against you.
 
@@ -754,7 +589,7 @@ As before this is very winnable, surely you can figure out a way.
 
 Interact with the fountain next, then head to the dorms downstairs to sleep. The next day, head to the auditorium for the announcement!
 
-## Aelita School Route
+## Nightmare School: Aelita
 
 I will begin with Path 1. Once more you'll be given a choice to activate the Interceptor's Wish, I declined.
 
@@ -866,7 +701,7 @@ Winning this one seems to rely on luck, but oh well. Yawn first turn with Espeon
 
 That's it for this part!
 
-## MC School Route
+## Nightmare School: MC
 
 Exit the auditorium and talk to the student here who has lost his brain. SEC is the storekeeper here and has the same items as Zetta did. Do a group investigation of the cafeteria here. Return to the guy to get *Mysterious Black Box* and some *Phantom Candy S*. The first trainer to the top will also give us *Phantom Candy S*.
 
@@ -1264,7 +1099,7 @@ They're not insanely difficult, and you will succeed with the right strategy if 
 - It's alright. (Aelita +2)
 - Watch what you say. (Aelita -2)
 
-## Axis High University 3rd Visit
+## Secret Axis Lab
 
 When you can, return upstairs and enter the stairs at the fountain. Follow the path to fight SEC again, who has a Shadow Machop. SEC in the next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow the path. On the left side of the area, you'll be able to grab a *Nightmare Fuel*.
 

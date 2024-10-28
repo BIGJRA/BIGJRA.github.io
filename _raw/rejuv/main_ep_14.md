@@ -351,7 +351,7 @@ This one is tough at first as she uses the Underwater Field well. In general, yo
 
 One great idea is to use your own water types as soon as Raichu and Dhelmise go down, as they suffer no speed loss and can take advantage of the field to hit Whiscash super-effectively and fight back against Samurott and Blastoise. Alternatively this is one of the field effects that is fairly easily changed: the Water Surface field or better yet the Icy Field or Murkwater Field can help tip the scales.
 
-Win against Neptune to get the fourth *Star Shard*, **Popplio**, and a *Somnium Mall Stamp*.
+Win against Neptune to get the fourth *Star Shard*, **Popplio**, and a *Somniam Mall Stamp*.
 
 While we're in this area, surface at the top to enter Aquamarine Cave's Secluded Shore. Use Blast Powder to reach **Squirtle** on the left.
 

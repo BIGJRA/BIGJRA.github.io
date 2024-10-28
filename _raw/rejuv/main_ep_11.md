@@ -82,17 +82,17 @@ Continue north to the Dream District (North).
 
 !battle(["Darel",:CAMPER,0], "City Field")
 
-Enter the Somnium Mall to the right. You'll get a *Somnium Mall Stamp*.
+Enter the Somniam Mall to the right. You'll get a *Somniam Mall Stamp*.
 
-!shop("Somnium Mall General Store (1 Stamp)", ["Heat Rock", "Icy Rock", "Smooth Rock", "Damp Rock", "Grip Claw", "Light Clay", "Everstone"])
+!shop("Somniam Mall General Store", ["Heat Rock", "Icy Rock", "Smooth Rock", "Damp Rock", "Grip Claw", "Light Clay", "Everstone"])
 
-!shop("Somnium Mall General Store (1 Stamp)", ["Max Repel", "Great Ball", "Ultra Ball", "Full Heal", "Hyper Potion", "Ultra Potion", "Revive", "Escape Rope"])
+!shop("Somniam Mall General Store", ["Max Repel", "Great Ball", "Ultra Ball", "Full Heal", "Hyper Potion", "Ultra Potion", "Revive", "Escape Rope"])
 
 We previously got a stamp for doing the Virtual League quest, so we can access one more section of the mall.
 
-!shop("Somnium Mall Battle Items + Evolutionary Stones (2 Stamps)", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone", "Power Lens", "Power Band"])
+!shop("Somniam Mall Battle Items + Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone", "Power Lens", "Power Band"])
 
-!shop("Somnium Mall Battle Items + Evolutionary Stones (2 Stamps)", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery"])
+!shop("Somniam Mall Battle Items + Evolutionary Stones", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery"])
 
 Outside, head up the hill to the left.
 
@@ -407,7 +407,7 @@ Sleep until the next day.
 
 You will be asked more questions, but if this is your first playthrough of V13.5, you will not be able to give the answers.
 
-You'll then be whisked away to the Somnium Mall.
+You'll then be whisked away to the Somniam Mall.
 
 !battle(["??? & ???",:MASKEDDUO,0], "Short-Circuit Field")
 

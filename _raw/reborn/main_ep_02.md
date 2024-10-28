@@ -403,7 +403,7 @@ The building on the left is Silph Co., but we can't do much here for now. The ri
 
 !shop("Department Store 1F (Right)", ["Potion", "Antidote", "Awakening", "Burn Heal", "Paralyze Heal", "Ice Heal"])
 
-We can also talk to an employee to get the *Membership Card* and the *Department Store Sticker: Porygon*. Each time we get a stamp, we can access another floor of the building. We'll be slowly getting these across our adventure.
+We can also talk to an employee to get the *Membership Card* and the *Department Store Sticker: Porygon*. Each time we get a sticker, we can access another floor of the building. We'll be slowly getting these across our adventure.
 
 !shop("Department Store 2F (Left)", ["Oran Berry", "Cheri Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Aspear Berry", "Persim Berry"])
 

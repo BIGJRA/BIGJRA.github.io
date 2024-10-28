@@ -132,16 +132,16 @@ Once you've found them all, next, head back to the Rose Theater and talk to Ayun
 
 !battle(["Ayuna",:KIMONOGIRL2,0])
 
-Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Ice Stone*! Head down to talk to the hiker in the crowd, to get another *Somnium Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
+Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Ice Stone*! Head down to talk to the hiker in the crowd, to get another *Somniam Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
 
 **Relationship Point Choices**:
 - Complete the Kimono Girls Quest (+1 Erin)
 
-We can return to GDC to do some shopping at the Somnium Mall now if we wish:
+We can return to GDC to do some shopping at the Somniam Mall now if we wish:
 
-!shop("Somnium Mall Battle Items + Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
+!shop("Somniam Mall Battle Items + Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
 
-!shop("Somnium Mall Battle Items + Vitamins", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Red Card", "Ring Target", "Metronome"])
+!shop("Somniam Mall Battle Items + Vitamins", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Red Card", "Ring Target", "Metronome"])
 
 ## Returning to Past Aevium
 
@@ -480,11 +480,11 @@ Status conditions are permanent, so Paralysis can be extremely helpful in gettin
 
 Once you emerge victorious, accept the fast travel. Talk to Looker and Anabel on 36F to get the *Rift Notes*.
 
-Return to the help center to get $25000 and a *Somnium Mall Stamp*!
+Return to the help center to get $25000 and a *Somniam Mall Stamp*!
 
-!shop("Somnium Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Custap Berry", "Chople Berry"])
+!shop("Somniam Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Custap Berry", "Chople Berry"])
 
-!shop("Somnium Mall Rare Berries", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
+!shop("Somniam Mall Rare Berries", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
 
 Buy at least five Occa and Passho Berries each for later.
 
