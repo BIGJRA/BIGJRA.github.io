@@ -273,8 +273,9 @@ class TrainerGetter
 
               new_type1 = new_form_data[:Type1] ? @typeHash[new_form_data[:Type1]][:name] : nil
               new_type2 = new_form_data[:Type2] ? @typeHash[new_form_data[:Type2]][:name] : (form_1_data[:Type2] ?  @typeHash[form_1_data[:Type2]][:name] : nil)
+              types = [new_type1, new_type2].compact
               if !new_type1 || (type1 != new_type1 || type2 != new_type2)
-                form_changes.push("Type => #{new_form_data[:Type1][:name]}")
+                form_changes.push("Typing => #{types.join("/")}")
               end
 
               new_base_stats = new_form_data[:BaseStats] ? new_form_data[:BaseStats] : form_1_data[:BaseStats]

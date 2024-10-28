@@ -613,10 +613,14 @@ There is a catch with this one, see if you can spot it.
 
 !newself(["Adam",:LEADER_ADAM,1])
 
-!battle( ["???",:UNKNOWN_2,1], "Desert Field")
+!battle(["???",:UNKNOWN_2,1], "Desert Field")
 
 Defeat ??? with the combined power of Delpha and Adam!
 
 That's it for this bit, the spring will turn lush and green! If only this could've happened earlier to nullify the Desert Field! Anyways, go ahead and approach the spring when you can. You'll get the Pyramid Point Badge and *TM105 Arenite Wall*!
 
 You'll wake up back in the Dream Complex. Talk to Melia on the couch to complete Chapter 14!
+
+**Relationship Point Choices**:
+- Full-time? (Reina +1)
+- Part-time? (Neutral)
