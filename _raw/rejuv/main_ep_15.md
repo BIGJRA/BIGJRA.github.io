@@ -233,9 +233,9 @@ Afterwards, prepare yourself for a battle with Melia!
 
 !move("GILDEDHELIX")
 
-The field effect is unalterable by moves, a broken seed effect that gives Aegislash one and Mimikyu TWO free turns turn to reach +4/+6 attack, all fire moves given an added Dragon typing hence can't touch Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash, it's very stacked against you.
+The field effect is unalterable by moves, a broken seed effect that gives Aegislash one and Mimikyu TWO free turns turn to reach +4/+6 attack, all fire moves given an added Dragon typing hence can't touch Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash: it's very stacked against you! Plus, her Zoroark has a crest that allows it to use Aegislash's Stance Change ability... so be careful of that.
 
-The good news is that you are given a couple options to make this fight work in your favor. For one, Steel moves also get a 1.5x boost and hit dragons super effectively, so they hit half of her team hard. Bullet Punch is a savior here. Snorlax with its berry will probably live one hit but doesn't particularly have synergy with the field, so if you can lower its attack or burn it, that may be your opportunity to set up. Normal types are immune to Aegislash and Mimikyu's Ghost Attacks, so since they are not the fastest in the world a speedy normal type capable of knocking them out in one attack (after Disguise) might be the way to go. I might have cried when I saw that this field made its way into this game, but if I can overcome it you can too!
+The good news is that you are given a couple options to make this fight work in your favor. For one, Steel moves also get a 1.5x boost and hit dragons super effectively, so they hit half of her team hard; Bullet Punch is a savior here. Normal types are immune to Aegislash and Mimikyu's Ghost Attacks, so since they are not the fastest in the world a speedy normal type capable of knocking them out in one attack (after Disguise) might be the way to go. The Magical Seed "buys you time" to set up a sweeper, so I recommend using a couple of those if you're really stuck here.
 
 To win, you'll receive the *Fate Badge*!
 
@@ -247,10 +247,6 @@ Outside, talk to Melia again.
 
 Tell Alexandra you're ready for training.
 
-### Day 03: Aelita's Departure
-
-This day is just a quick scene!
-
 ### Day 08: MC's Training
 
 Talk to Ren in the hallway.
@@ -259,14 +255,18 @@ Talk to Ren in the hallway.
 - Talk to her next time (Ren +2)
 - You need some work... (Neutral)
 
-Then, enter the battle room.
+Enter the battle room.
 
 **Relationship Point Choices**:
 - I'm pumped. (Erin +2, Damien +2)
 - I'm excited, I guess... (Erin +1)
 - Eh... (Erin -1, Damien -2)
 
-Enter the rental battle with Venam. The strategy that worked for me was: Switch Manectric for Walrein, Waterfall on Houndoom turn 1. Then turn 2 was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
+You'll be temporarily given a new team including Manectric, Swampert, and Walrein.
+
+!battle(["Venam",:LEADER_VENAM3,2])
+
+The strategy that worked for me was: Switch Manectric for Walrein, Waterfall on Houndoom turn 1. Then turn 2 was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
 discharge, waterfall on Dugtrio, then turn 4 was discharge + high horsepower to finish off Kingler.
 
 ### Day 11: Aelita's Return
@@ -289,6 +289,10 @@ Interact with the obelisk! Inside it's straightforward. You'll get the *Intercep
 
 Back in the league administration you'll be thrusted into a 1v1 battle as Melia. Win or lose, it doesn't matter.
 
+!newself(["Melia",:ENIGMA_2,4])
+
+!battle(["Erin",:CANDIDGIRL2,0], "Chess Board")
+
 ### Day 18: MC's Day of Training, Pt. 2
 
 Talk to Aelita in the hallway.
@@ -297,7 +301,9 @@ Talk to Aelita in the hallway.
 - You'll be the Sensei too! (Aelita +3)
 - What about GDC? (Aelita -1)
 
-Next is a fight with Ren, one that will pit you against Ren on a disadvantageous field with a disadvantageous team. I chose the Fire team here and, while a tough battle, you can win by starting with Marowak and Heatmor, targeting Slowbro and then sending in Pyroar to finish off Mantine then Dewgong with Wild Charges.
+Next is a fight with Ren, one that will pit you against Ren. Pick a team between the three.
+
+!battle(["Ren",:OUTCAST,5], "Dragon's Den")
 
 Sleep for the night in the leftmost room.
 
@@ -315,77 +321,75 @@ Finally, we get to obtain the *Mega-Z Ring*! This allows us to use Z-Moves as we
 
 Gosh, Allen and Alice are so cool.
 
-Once you get control, take the time to fly over to Eclysia Pyramid if you'd like. Head up the stairs to the right and follow the path: you'll be able to fight **Galarian Corsola** up here!
-
-Then, head back to League Administration. Interact with the thing at the table and select Path 1.
+Return to League Administration. Enter the bottom room and go right.
 
 ## Diamond Route
 
-During the conversation Erin and Kanon have on the boat, if you had previously spoken to Erin in the Magnolia Library towards the beginning of the game, you'll get Relationship Points (+2 Erin).
+Select Path 1: the Diamond Route.
 
-On the boat, choose whether you'll activate Interceptor's Wish. If you do, Erin will be using *your team*, whereas if you don't, she uses hers. Battle advice is easier to give when I know what your team is gonna be, so for this guide I will not be activating it.
+**Relationship Point Choices**:
+- Talk to Erin at the Magnolia Library way earlier in the game (+2 Erin)
+
+On the boat, choose whether you'll activate Interceptor's Wish. If you do, Erin will be using *your team*, whereas if you don't, she uses hers. I prefer not to activate Interceptor's Wish.
+
+!newself(["Erin",:CANDIDGIRL,5])
 
 Follow the underwater path. Inside the manor, avoid the Regice, as you'll have to fight them. Make your way through the path here, watch the scene in the courtyard, then head onto the roof.
 
-Follow the path to the right, then talk to Angie on the rooftop. Enter the left door and beat the maid. Take the left door on the higher floor in this complicated room, then beat the maids as you follow the path. Back in the Shellder room, head east onto the rooftop, this time following the path right through the dance room!
+Follow the path to the right, then talk to Angie on the rooftop. Enter the left door.
 
-Enter the window to the baby's room, then follow the path down the stairs. Try to exit the bottom door in the next room. After a conversation with Kanon return to the rooftop. Head back out the window at the bottom, then drop down the first spot on the roof you can from the right.
+!battle(["Ada",:SERVANT,0])
 
-Inside, get the *Dungeon Key* and talk to the book for some relationship points (Erin +4, Kanon +4). After exiting the office on top, go left, down, across the outside area, left through the lower level left door, then left, up, and left into the Ballroom.
+Take the left door on the higher floor.
 
-Ice Soldiers Erin and Kanon (No Field)
--   Absol, Level 90. @ NeverMeltIce.
-    -   Ice Shard
-    -   Icicle Crash
-    -   Blizzard
-    -   Scald
--   Salamence, Level 90. @ NeverMeltIce.
-    -   Ice Shard
-    -   Icicle Crash
-    -   Blizzard
-    -   Scald
+!battle(["Berenice",:SERVANT,0])
+
+!battle(["Havilah",:SERVANT,0])
+
+!battle(["Hagith",:SERVANT,0])
+
+Head back east to return to the rooftop, this time following the path right through the dance room!
+
+Enter the window to the baby's room, then follow the path down the stairs. 
+
+!battle(["Hannah",:SERVANT,0])
+
+Try to exit the bottom door in the next room. After a conversation with Kanon return to the rooftop. Head back out the window at the bottom, then drop down the first spot on the roof you can from the right.
+
+Inside, get the *Dungeon Key*.
+
+**Relationship Point Choices**:
+- Talk to the book in Anju's office (Erin +4, Kanon +4)
+
+After exiting the office on top, go left, down, across the outside area, left through the lower level left door, then left, up, and left into the Ballroom.
+
+!battle(["Erin & Kanon",:ICESOLDIERS,0])
 
 Nothing too bad: Blizzard from Ampharos can take care of Salamence and Florges can take Absol.
 
 Get the *Dungeon Key* up at the top of this room, then make your way back to the big hub room and use it to enter the courtyard.
 
-Step on the red tile. Beat the maids as you follow the path. Enter the ship and head downstairs. Then, talk to Patty in the nearby room and beat the maid. Next, reenter the cellar and defeat the maid looking at a wall. Return to Bonita, then head upstairs to get another *Dungeon Key*.
+Step on the red tile. 
 
-Enter the locked door in the cellars. After you see all of the scenes here, back in the dungeon, exit to the left. Back in the courtyard, head to the top door to confront Angie.
+!battle(["Hosanna",:SERVANT,0])
 
-Angie and Cera (Frozen Dimensional Rift Field)
--   Mamoswine, Level 83. @ Elemental Seed.
-    -   Ice Shard
-    -   Icicle Crash
-    -   Rock Slide
-    -   Earthquake
--   Beartic, Level 84. @ Focus Sash.
-    -   Play Rough
-    -   Low Kick
-    -   Icicle Crash
-    -   Rock Slide
--   Walrein, Level 85. @ Assault Vest.
-    -   Surf
-    -   Cold Truth
-    -   Rock Slide
-    -   Stomping Tantrum
--   Rotom Freeze, Level 83. @ Chople Berry.
-    -   Cold Truth
-    -   Discharge
-    -   Will-o-Wisp
-    -   Blizzard
--   Morpeko, Level 83. @ Elemental Seed.
-    -   Power Trip
-    -   Aura Wheel
-    -   Fake Out
-    -   Seed Bomb
--   Ursaring, Level 83. @ Life Orb
-    -   Ice Punch
-    -   Throat Chop
-    -   Return
-    -   Play Rough
+!battle(["Helah",:SERVANT,0])
 
-This one can be tough, but not as bad as our first encounter with Angie. Erin's Aevian Ampharos is good here, able to survive a decent chunk of the ice attacks and then hit back like a Truck. I would recommend starting with something fast like Zangoose on the left side and Ampharos on the right, then focus all your attacks on Angie's Pokemon (Mamoswine, Beartic, Walrein) to start, since they're all the most threatening. Once you knock them out Cera's three are easy to knock out.
+Enter the ship and head downstairs. Then, talk to Patty in the nearby room and beat the maid. 
+
+!battle(["Bebé",:SERVANT,0])
+
+Next, reenter the cellar and defeat the maid looking at a wall towards the east side. 
+
+!battle(["Malla",:SERVANT,0])
+
+Return to Bonita, then head upstairs to get another *Dungeon Key*.
+
+Enter the locked door in the cellars to get another *Dungeon Key*. After you see all of the scenes here, back in the dungeon, exit to the left. Back in the courtyard, head to the top door to confront Angie.
+
+!dbattle(["Cera",:FAITHFUL,2], ["Angie",:LEADER_ANGIE2,0], "Frozen Dimensional Field")
+
+This one can be tough, but not as bad as our first encounter with Angie. Erin's Aevian Ampharos is good here, able to survive a decent chunk of the ice attacks and then hit really hard in return. I would recommend starting with something fast like Zangoose on the left side and Ampharos on the right, then focus all your attacks on Angie's Pokemon (Mamoswine, Beartic, Walrein) to start. Once you knock them out, dealing with Cera's three is much easier.
 
 That's it for the Diamond Route!
 
@@ -393,132 +397,59 @@ That's it for the Diamond Route!
 
 Again, you'll be given the choice to activate the Interceptor's wish. I choose not to for this guide.
 
+!newself(["Melia",:ENIGMA_2,3])
+
 As Melia, take a stroll around the town. Head into the mart, then defeat Sariah.
 
-In the grove, talk to the Arceus statue. Head down and prepare for a battle. You get to pick whether Ren or Venam is your partner, or perhaps you can do it alone if you want.
+!battle(["Sariah",:GHOSTGIRL,2])
 
-Rogue Psychic Lorna (Blessed Field)
--   Vivillon, Level 83. @ Focus Sash.
-    -   Rage Powder
-    -   Irritation
-    -   Sleep Powder
-    -   Hurricane
--   Aromatisse, Level 84. @ Sitrus Berry.
-    -   Trick Room
-    -   Mystical Fire
-    -   Moonblast
-    -   Light Screen
--   Darmanitan, Level 85. @ Darmanitan Crest.
-    -   Heat Wave
-    -   Psychic
-    -   Will-o-Wisp
-    -   Focus Blast
--   Stonjourner, Level 84. @ Weakness Policy.
-    -   Rock Slide
-    -   Body Press
-    -   Heat Crash
-    -   Protect
--   Aevian Lapras, Level 85. @ Magical Seed.
-    -   Blizzard
-    -   Hypnosis
-    -   Psychic
-    -   Nature Power
--   Fused Solrock, Level 85. @ Life Orb.
-    -   Rock Slide
-    -   Zen Headbutt
-    -   Solar Flare
-    -   Trick Room
+In the grove, talk to the Arceus statue. Head down and prepare for a battle. You get to pick whether Ren or Venam is your partner, or you can do it alone.
 
-I picked Ren, and this was a cakewalk compared to last time. Let Mega Snorlax come out during the trick room and it will go first and can hit hard with Heavy Slam, and the rest of yours and Ren's Pokemon can fill in the rest.
+!partner(["Ren",:OUTCAST,4])
 
-In the Den of Souls, head up. You'll have to defeat a couple more mechs! Afterwards, follow the path to the right and find the open building. Explore upstairs then head out. We're looking for three green rods: one is hidden up and to the right, another is up from where we found Ren, and the other is near where we started. Reactivate the generator.
+!partner(["Venam",:LEADER_VENAM3,1])
 
-Prepare to fight a mech Gyarados!
+!battle(["Lorna",:ROGPSYCHIC,1], "Blessed Field")
 
-Defense Mech Gyarados (Crystal Cavern)
--   Defense Mech Gyarados, Level 90. @ Sitrus Berry. Ability: Liquid
-    Voice. Type: Water/Steel. Stats: 300/110/150/100/150/51
-    -   Flash Cannon
-    -   Hyper Beam
-    -   Signal Beam
-    -   Scald
+In the 3rd Layer, head up. You'll have to defeat a couple more mechs!
 
-Every time it attacks, it attacks twice. Luckily, it's not too hard with Ren assisting - Meganium's Light Screen will help you survive.
+!battle(["Mechanisms",:DEFENSEMECH,6], "Crystal Cavern")
+
+Go to the right and find the open building. Explore upstairs then head out. We're looking for three green rods: one is hidden up and to the right, another is up from where we found Ren, and the other is near where we started. Reactivate the generator.
+
+Prepare to fight a mech Gyarados with Ren!
+
+!boss("MECHAGYARADOS", "Crystal Cavern")
 
 Afterwards, return to the building and head upstairs. Head back out and go up when you're ready.
 
-Team Xen Madelis (Crystal Cavern)
--   Cinccino, Level 84. @ Life Orb.
-    -   Bullet Seed
-    -   Rock Blast
-    -   Tail Slap
-    -   Wake Up Slap
--   Crobat, Level 85. @ Flying Gem.
-    -   Acrobatics
-    -   Tailwind
-    -   Cross Poison
-    -   U-Turn
--   Tsareena, Level 84. @ Assault Vest.
-    -   Trop Kick
-    -   Play Rough
-    -   Power Whip
-    -   Low Kick
--   Florges, Level 85. @ Leftovers.
-    -   Toxic
-    -   Dazzling Gleam
-    -   Synthesis
-    -   Giga Drain
--   Salazzle, Level 85. @ Charcoal.
-    -   Heat Wave
-    -   Sludge Bomb
-    -   Foul Play
-    -   Fake Out
--   Houndoom, Level 85. @ Houndoominite.
-    -   Heat Wave
-    -   Dark Pulse
-    -   Sunny Day
-    -   Sludge Bomb.
+!battle(["Madelis",:XENEXECUTIVE_2,5], "Crystal Cavern")
 
-This is a tough fight in general, but I found a pretty easy way to win with Melia's team. Simply knock out Cinccino and damage Crobat with Mega Snorlax's Return, then when it goes down swap to Mimikyu. Swords Dance, Shadow Sneak to finish Crobat. Then Play Rough to Shadow Sneak Houndoom who should turn the field dark, then Shadow Sneak Salazzle to one shot it, then Play Rough Tsareena. Now it will go down but Hydreigon, Gardevoir, and Meganium can deal with the rest.
+A lot of smart switching will make this fight a breeze for Melia.
 
-Head up and into this building. Make your way up, battling grunts as you go. When you reach the gatling gun, spam the up arrow. Enter the door after defeating the mechs and grab the shining key. Enter the door on the right: read each letter in each open room and open the next door. Finally, enter the last door in this area and go up. Make your way through and watch the scenes, and when you're able, exit back to where we started. Take the elevator up, then the second elevator to the Den of Souls.
+Head up and into this building.
 
-After a scene, head up.
+!battle(["Terasita",:XENGRUNT_F,0])
 
-Team Xen Admin Cassandra (Blessed Field)
--   Shadow Bisharp, Level 84. @ Focus Sash.
-    -   Shadow Break
-    -   Stealth Rock
-    -   Iron Head
-    -   Night Slash
-    -   Brick Break
--   Lycanroc, Level 86. @ Life Orb.
-    -   Stone Edge
-    -   Drill Run
-    -   Psychic Fangs
-    -   Close Combat
--   Serperior, Level 85. @ Flame Plate.
-    -   Hidden Power Fire
-    -   Dragon Pulse
-    -   Leaf Storm
-    -   Giga Drain
--   Aevian Milotic, Level 85. @ Babiri Berry.
-    -   Coil
-    -   Gunk Shot
-    -   Play Rough
-    -   Recover
--   Cinccino, Level 85. @ Cinccino Crest.
-    -   Return
-    -   Play Rough
-    -   Retaliate
-    -   Knock Off
--   Mawile, Level 86. @ Mawilite.
-    -   Play Rough
-    -   Iron Head
-    -   Sucker Punch
-    -   Swords Dance
+!battle(["Eddie",:XENGRUNT_M,0])
 
-This is a tough battle as Cassandra has a lot of threats, and if you're playing as Melia's team, well, then Serperior, Cinccino and Lycanroc can outspeed your entire team. As such you need to leverage your team correctly - for instance, Togekiss can easily dispatch the Shadow Bisharp and Serperior, while Meganium can tank Cinccino and chip Mega Mawile well. Aevian Milotic will go down to a couple of Earthquakes from Mega Snorlax, and Mimikyu is a good choice to throw out a Swords Dance boosted move when you need it. Even if it takes a couple tries Cassandra is easily beaten with the right approach.
+!battle(["Rashida",:XENANALYST_F,0])
+
+!battle(["Harrold",:XENANALYST_M,0])
+
+When you reach the gatling gun, spam the up arrow. 
+
+!partner(["Lorna",:ROGPSYCHIC,1])
+
+Defeat the wild Claydol mechs.
+
+!battle(["Marco",:XENGRUNT_M,0])
+
+Enter the door on the right outside after grabbing the shining key. Read each letter in each open room and open the next door. Finally, enter the last door in this area and go up. Make your way through and watch the scenes, and when you're able, exit back to Ren and Venam. Take the elevator up, then the second elevator to the Den of Souls. After a scene, head up.
+
+!battle(["Cassandra",:XENADMIN_1,0], "Blessed Field")
+
+This is a tough battle as Cassandra has a lot of threats, and if you're playing as Melia's team, well, then Serperior, Cinccino and Lycanroc can outspeed your entire team. As such you need to leverage your team correctly - for instance, Togekiss can easily dispatch the Shadow Bisharp and Serperior, while Meganium can tank Cinccino and chip Mega Mawile well. Aevian Milotic will go down to a couple of Earthquakes from Mega Snorlax, and Mimikyu is a good backup revenge killer or late-fight sweeper.
 
 That's it for the Pearl Route!
 
@@ -533,21 +464,13 @@ With both of those completed, you'll be in control of your character again. Choo
 
 Head up and into the school.
 
-Axis High Shop
+!shop("Axis High Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Ultra Potion", "Max Repel"])
 
-|Item          |Price|
-|--------------|-----|
-|*Poke Ball*   |$200 |
-|*Great Ball*  |$200 |
-|*Ultra Ball*  |$1200|
-|*Ultra Potion*|$2200|
-|*Max Repel*   |$700 |
+Walk down the stairs on the left.
 
-A little note here: it turns out that as soon as you get the Zygarde 10% from Ayuda, the new cells won't appear. For completeness I will list them anyways in the guide going forward, but keep in mind if you already did the Zygarde exchange you won't be able to find these. Anyways, downstairs on the left, you'll find:
+**ZCell 139: Axis High University**
 
-ZCell 106: Axis High University
-
-<img src="/assets/images/rejuv/image111.png"/>
+!img("zcell139.png")
 
 Then, head upstairs in the middle, and talk to Huey.
 
@@ -557,31 +480,39 @@ Then, head upstairs in the middle, and talk to Huey.
 - Not really, no. (Huey -3, Lavender -4)
 - Where's Reina? (Neutral)
 
-In a room at the bottom is the... bobsled club? If you can defeat all the students, you'll be gifted the MegaStone *Cameruptite*!
+In a room at the bottom is the... bobsled club? 
+
+!battle(["Kayla",:GUITARIST,0])
+
+!battle(["Dark",:AXISSTUDENT_FW,0])
+
+!battle(["Will",:CHARMER,0])
+
+!battle(["Squill",:AXISSTUDENT_MW,0])
+
+!battle(["Dylan",:CAMPER,0])
+
+!battle(["Tim",:COOLTRAINER_M,0])
+
+!battle(["Jared",:AXISSTUDENT_MW,0])
+
+!battle(["Matty",:AXISSTUDENT_MW,0])
+
+!battle(["Jeremiah",:AXISSTUDENT_MW,0])
+
+If you can defeat all the students, you'll be gifted the MegaStone *Cameruptite*!
 
 In another room on this floor you'll find:
 
-ZCell 107: Axis High University
+**ZCell 140: Axis High University**
 
-<img src="/assets/images/rejuv/image112.png"/>
+!img("zcell140.png")
 
-Head back downstairs, where you'll find Amber! You'll be given *Concert Tickets* and *Amber's Letter*! Talk to Saki in the cafeteria to the right. Then, find Aelita upstairs.
+Head back downstairs, where you'll find Amber! You'll be given *Concert Tickets* and *Amber's Letter*! Talk to Saki in the cafeteria to the right. Then, find Aelita upstairs, east of the Bobsled Club.
 
-Time for a 2v2 battle with Risa Raider downstairs.
+Time for a 2v2 battle with Risa Raider downstairs, victory as usual being optional.
 
-Pop Star Risa Raider (No Field)
--   Tuff-Puff Jigglypuff, Level 90. @ Air Balloon.
-    -   Sludge Bomb
-    -   Thunderbolt
-    -   Draco Meteor
-    -   Flamethrower
--   Delcatty, Level 85. @ Delcatty Crest.
-    -   Fake Out
-    -   Helping Hand
-    -   Blizzard
-    -   Frustration
-
-As before this is very winnable, surely you can figure out a way.
+!battle(["Risa Raider",:POPSTAR,2])
 
 **Relationship Point Choices**:
 - I trust you! (Amber +6, Aelita +3)
@@ -593,111 +524,109 @@ Interact with the fountain next, then head to the dorms downstairs to sleep. The
 
 I will begin with Path 1. Once more you'll be given a choice to activate the Interceptor's Wish, I declined.
 
-Head outside. Enter this classroom to the left and use the 'A' key to do a group investigation in here. Back outside, you'll find that Zetta has taken up the shop.
+!newself(["Aelita",:STUDENT_3,5])
 
-Nightmare University Shop
+Head outside. Enter this classroom to the left and use the 'A' key to do a group investigation in here. Back outside, go right.
 
-|Item          |Price|
-|--------------|-----|
-|*Super Potion*|$700 |
-|*Full Heal*   |$600 |
-|*Ultra Potion*|$2200|
+!battle(["Brigette",:AXISSTUDENT_FW,0])
+
+You'll find that Zetta is running the shop:
+
+!shop("Nightmare University Shop", ["Super Potion", "Full Heal", "Ultra Potion"])
+
+!battle(["Naomi",:AXISSTUDENT_FB,0])
 
 Do a group investigation on the three entryway areas if you'd like, then head to the left area to give the Masked Men the password: "Sorry".
 
-Downstairs talk to Ms. Erable, then to the student on the right with the "!" over his head. Say no to battling them, then you'll battle. Then say yes to the person on the left and return to Ms. Erable.
+Downstairs, talk to Ms. Erable, then to the student on the right with the "!" over his head. Say no, then you'll battle. 
 
-Axis High University Student Jean (No Field)
--   Zekrom, Level 90. @ Lum Berry.
-    -   Focus Blast
-    -   Reflect
-    -   Bolt Strike
-    -   Outrage
+!battle(["Zachary",:AXISSTUDENT_MW,0])
 
-This has two shields. Take advantage of Granbull and Staraptor's Intimidates, then hit it hard with your strongest moves.
+Then say yes to the person on the left and return to Ms. Erable.
+
+!battle(["Jean",:AXISSTUDENT_MB,0])
+
+Take advantage of Granbull and Staraptor's Intimidates, then hit it hard with your strongest moves.
 
 After all that, find the fifth door from the bottom on the third story, right side and enter "Dreamyard". Enter Huey's door!
 
-Talk to the Rapidash rider then the girl in the bottom corner. Press the red panel here, then in the next area, follow the stairs to the next panel. The third panel is all the way at the bottom from here. At the top, defeat the trainer then head to the right and fight her again at the bottom. Then follow the path to finish Huey's area.
+!newself(["Huey",:OPTKID,2])
 
-Head outside and enter the pyramid. At the top left talk to the girl and agree to help. Then go left and across the bridge to make friends with Grigus. Battle Huey, but intentionally lose to progress. You'll be awarded 10 *Phantom Candy S*!
+Talk to the Rapidash rider then the girl in the bottom corner. Press the red panel here, then in the next area, follow the stairs to the next panel. The third panel is in the bottom left corner. 
 
-Pick a partner or choose to go alone, time to fight Grigus.
+!battle(["???",:MYSTSTUDENT,0])
 
-Axis High Student Random Student (No Field)
--   Coffee Grigus, Level 87. @ Demon Stone.
-    -   Sky Uppercut
-    -   Ice Hammer
-    -   Meteor Mash
-    -   Shadow Punch
+Head to the right and fight her again at the bottom. Follow the path to finish Huey's area.
 
-It has three shields and hits twice; however, this fight is very easy. Spam your strongest moves and you'll easily win. Pick up the piece of the treasure afterwards! Head back into the main room, you'll find the invisible person near the bottom. Talk to the girl at the top then enter this new room at the bottom.
+Head outside and enter the pyramid. At the top left talk to the girl and agree to help. Then go left and across the bridge to make friends with Grigus. 
 
-Grab the thing when you get a chance and head back to the main room to reassemble the bridge. Enter Aelita's door!
+!battle(["Huey",:OPTKID,2], "Desert Field")
+
+Battle Huey, but intentionally lose to progress. You'll be awarded 10 *Phantom Candy S*!
+
+Pick a partner or choose to go alone.
+
+!partner(["Huey",:OPTKID,2])
+
+!partner(["Lavender",:LEADER_LAVENDER,1])
+
+!boss("COFFEEGREGUS", "Desert Field")
+
+Pick up the piece of the treasure afterwards! Head back into the main room, you'll find the invisible person near the bottom, on a tile containing part of a barrel. 
+
+!battle(["Tucker",:AXISSTUDENT_MW,0], "Desert Field")
+
+Talk to the girl at the top then enter this new room at the bottom.
+
+Grab the thing in the middle and head back to the main room to reassemble the bridge. Enter Aelita's door!
 
 Talk to both pink bookshelves then the pink plant. Then follow cyborg Deagan! Talk to each nurse from behind, then head out once Deagan touches the sunflower.
 
-Doctor Isha (Factory Field)
--   Galarian Weezing, Level 85. @ Rocky Helmet.
-    -   Strange Steam
-    -   Sludge Bomb
-    -   Pain Split
-    -   Flamethrower
--   Arctozolt, Level 86. @ Quick Claw.
-    -   Bolt Beak
-    -   Icicle Crash
-    -   Rock Slide
-    -   Ice Beam
--   Hydreigon, Level 87. @ Metronome.
-    -   Dark Pulse
-    -   Dragon Pulse
-    -   Nasty Plot
-    -   Roost
+!battle(["Isha",:DOCTOR,3], "Factory Field")
 
-Easy enough for your team!
+Easy enough for Aelita's team!
 
 Once this part finishes up, interact with the box outside. Time for another battle!
 
-Masked Man ??? (Desert Field)
--   Girafarig, Level 87. @ Twisted Spoon.
-    -   Psychic
-    -   Nasty Plot
-    -   Hyper Voice
-    -   Energy Ball
--   Komala, Level 87. @ Muscle Band.
-    -   Sucker Punch
-    -   Zen Headbutt
-    -   Wood Hammer
-    -   Thrash
--   Comfey, Level 87. @ Big Root.
-    -   Draining Kiss
-    -   Giga Drain
-    -   Leech Seed
-    -   Calm Mind
--   Hippowdon, Level 88. @ Leftovers.
-    -   Earthquake
-    -   Sand Tomb
-    -   Ice Fang
-    -   Slack Off
+!battle(["???",:MASKEDMAN,2], "Desert Field")
 
-If you can get some chip damage off on Hippowdon with Cherrim and Granbull, Hawlucha can take care of most of this team.
+Return to the auditorium. Reenter the Pyramid area where we fought Coffee Grigus, then return to the auditorium once more. Go up here, then follow the path to Lavender's door.
 
-Return to the auditorium, then reenter the Pyramid area where we fought Grigus, then return to the auditorium. Go up here, then follow the path to Lavender's door.
+!newself(["Lavender",:LEADER_LAVENDER,2])
 
-Enter the moon base and grab the crimson quartz in the upper room then heat it in the bottom. Head out... and we must run away from Risa!! Don't let yourself get hit too many times. Maneuver your way through the path, hitting switches as you go. Press the last green switch then back into the hallway and go up. Get the thing here then push the button and head down and to the right.
+Enter the moon base and grab the crimson quartz in the upper room then heat it below. Head out... and we must run away from Risa! Don't let yourself get hit too many times. Maneuver your way through the path, hitting switches as you go.
 
-Grapple to the right and then do so again. Follow the path to the yellow switch in here, then in the previous room head down. Follow the path here to the green switch then return and go up. Through here you'll have to fight Risa. This one is impossible with Lavender's team, but that's ok.
+!battle(["???",:SCIENTIST,0], "Factory Field")
+
+In the bottom right corner, press the green switch but hop down to the left of the blue switch.
+
+!battle(["???",:SCIENTIST,1], "Factory Field")
+
+Press the last green switch then back into the hallway and go up. Get the thing here then push the button and head down and to the right.
+
+Grapple to the right and then do so again. 
+
+!battle(["???",:SCIENTIST,2], "Factory Field")
+
+!battle(["???",:SCIENTIST,3], "Factory Field")
+
+Follow the path to the yellow switch in here, then in the previous room head down. 
+
+!battle(["???",:SCIENTIST,1], "Factory Field")
+
+Follow the path here to the green switch then backtrack and go up. 
+
+!battle(["Risa",:POPSTAR,3], "Starlight Arena")
+
+Prioritizing defeating the physical attackers first should set up a nigh-unkillable Noctowl for the win.
 
 Up in the next room try to escape, then interact with the panel. Now we have a real team for a real fight!
 
-Pop Star Risa Raider (Factory Field)
--   Reshiram, Level 90. @ Wise Glasses.
-    -   Dragon Claw
-    -   Fusion Flare
-    -   Earth Power
-    -   Crunch
+!newself(["Lavender",:LEADER_LAVENDER,3])
 
-Winning this one seems to rely on luck, but oh well. Yawn first turn with Espeon, then Pyrokinesis with Delphox. Swap in Exeggutor next and spam Pyrokinesis as much as you can while it's asleep, then put in Mega Alakazam when it wakes up and kills you. Thunder Wave it, then High Jump Kick and Play Rough from your remaining members should do just enough. If it wakes up too early and always hits through paralysis, you might still lose though, so a couple resets may be in order.
+!boss("BOSSRESHIRAM", "Starlight Arena")
+
+Reshiram one shots every one of your Pokemon, but you should be able to deal enough damage after putting it to sleep to emerge victorious. Save the slower Pokemon for the sleep turns and let the faster Pokemon trade damage when it is awake. 
 
 That's it for this part!
 

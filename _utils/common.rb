@@ -630,7 +630,7 @@ def is_custom_form(form_key)
                "dev", "crescent", "solrock", "lunatone", 
                "west aevian form", "east aevian form", "tuff puff",
                "angel of death", "dark gardevoir", "fallen angel",
-               "amalgamation", "goomink", "kawopudunga"]
+               "amalgamation", "goomink", "kawopudunga", "coffee gregus"]
   form_frags.any? { |key| form_key.downcase.include?(key) }
 end
 

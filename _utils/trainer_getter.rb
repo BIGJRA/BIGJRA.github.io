@@ -297,7 +297,7 @@ class TrainerGetter
             eff_strs.push("Boss's type becomes #{effs[:typeChange].map {|type| @typeHash[type][:name]}.join("/")}")
           end
           if effs[:movesetUpdate]
-            eff_strs.push("Boss's moveset becomes #{effs[:movesetUpdate].map{|m|@moveHash[m][:name]}.join(', ')}")
+            eff_strs.push("Boss's moveset becomes #{effs[:movesetUpdate].compact.map{|m|@moveHash[m][:name]}.join(', ')}")
           end
           if effs[:statDropRefresh]
             eff_strs.push("Boss's stat changes are reset")
