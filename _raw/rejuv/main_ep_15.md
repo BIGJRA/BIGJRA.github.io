@@ -806,57 +806,46 @@ You can beat yourself, right?
 
 After all that, you'll wake up from the Nightmare School!
 
-## Secret Axis Lab
+## Hidden Axis Lab
 
-Go upstairs and enter the stairs at the fountain. Follow the path to fight SEC again, who has a Shadow Machop. SEC in the next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow the path. On the left side of the area, you'll be able to grab a *Nightmare Fuel*.
+Go upstairs and enter the stairs at the fountain. Follow the path to fight SEC again!
 
-Head up - it's time to fight illusions. You get relationship points depending on if you're right - choosing Erick 2 grants (+6 Erick), choosing Erick 1 grants (-4 Erick). Choosing Aelita 2 grants (-4 Aelita)
-and will open you up to one more question:
+!battle(["SEC",:SECURITYSYSTEM,5], "Factory Field")
 
-**Relationship Point Choices** (Aelita 2 Chosen):
-- Aelita, I'm sorry... (Aelita +1)
-- Could've been more clear! (Aelita -2)
+Get the Fire Stone in the next room.
 
-...but it is a higher net to just choose Aelita 1 no matter what.
+!battle(["SEC",:SECURITYSYSTEM,7], "Factory Field")
+
+Go left instead of up in the next room. Down from here, you'll be able to grab a *Nightmare Fuel*.
+
+**ZCell 141: Hidden Axis Lab**
+
+!img("zcell141.png")
+
+Head up - it's time to fight illusions. You get relationship points depending on if you're right.
+
+**Relationship Point Choices**:
+- Choose the correct Erick (+6 Erick)
+- Choose the incorrect Erick (-4 Erick)
+
+**Relationship Point Choices**:
+- Choose the correct Aelita (Neutral)
+- Choose the incorrect Aelita (-4 Aelita)
+
+**Relationship Point Choices**:
+- If you chose the wrong Aelita: I'm sorry... (Aelita +1)
+- If you chose the wrong Aelita: Could've been more clear! (Aelita -2)
 
 Anyways, time for a battle!
 
-??? Clear (Factory Field)
--   Stantler, Level 85. @ Stantler Crest.
-    -   Return
-    -   Earthquake
-    -   Sucker Punch
-    -   Hypnosis
--   Mismagius, Level 85. @ Life Orb.
-    -   Shadow Ball
-    -   Dazzling Gleam
-    -   Thunderbolt
-    -   Will-o-Wisp
--   Beheeyem, Level 86. @ Beheeyem Crest.
-    -   Psyshock
-    -   Shadow Ball
-    -   Flash Cannon
-    -   Recover
--   Porygon-Z, Level 85. @ Synthetic Seed.
-    -   Dark Pulse
-    -   Blizzard
-    -   Thunderbolt
-    -   Tri Attack
--   Klinklang, Level 85. @ Air Balloon.
-    -   Shift Gear
-    -   Gear Grind
-    -   Return
-    -   Wild Charge
--   Naganadel, Level 87. @ Life Orb.
-    -   Sludge Wave
-    -   Dragon Pulse
-    -   Heat Wave
-    -   Nasty Plot
+!battle(["Clear",:UNKNOWN_2,0], "Factory Field")
 
-The Naganadel has two shields, and her Stantler and Beheeyem each have crests that make both much better. That said, if you don't let Naganadel get too many Beast Boosts her team is overall slow and you can sweep them with the right Pokemon.
+The Naganadel has two shields, and her Stantler and Beheeyem have crests that make each much better. That said, if you don't let Naganadel get too many Beast Boosts, her team is slow overall and you can sweep them with the right Pokemon. That said, winning this one is optional.
 
-That said, winning this battle is technically optional. Losing takes away Relationship Points however (Aelita -1, Adam -1, Braixen -1, Erick
--1).
+**Relationship Point Choices**:
+- Fail to defeat Clear (-1 Aelita, -1 Adam, -1 Braixen, -1 Erick)
+
+Back outside:
 
 **Relationship Point Choices**:
 - I'm going too! (Aelita +3)
@@ -865,27 +854,27 @@ That said, winning this battle is technically optional. Losing takes away Relati
 
 Head back up to Axis High.
 
-Land of Broken Dreams
-
-| Grass        | %        |
-|--------------|----------|
-| Drowzee      | 35       |
-| Morelull     | 30       |
-| Koffing      | 10       |
-| Komala       | 10       |
-| Weezing      | 5        |
-| Shiinotic    | 4        |
-| Hypno        | 4        |
-| Munna        | 1        |
-| Sableye      | 1        |
+!enc(57)
 
 Make your way to the left here as you fight puppet masters.
+
+!battle(["Magenta",:LEADER_PUPPET1,1], "Starlight Arena")
 
 **Relationship Point Choices**:
 - Whoey? (Lavender +1)
 - Sorry... (Neutral)
 
-Then after the scenes at the top, head down and to the right. Pick up another *Nightmare Fuel* as you go.
+!battle(["Neon",:LEADER_PUPPET2,1], "Starlight Arena")
+
+!battle(["Magenta",:LEADER_PUPPET1,2], "Starlight Arena")
+
+!battle(["Magenta",:LEADER_PUPPET1,3], "Starlight Arena")
+
+After the scenes at the top, head down and to the right. Pick up another *Nightmare Fuel* as you go.
+
+!battle(["Neon",:LEADER_PUPPET2,2], "Starlight Arena")
+
+!battle(["Neon",:LEADER_PUPPET2,3], "Starlight Arena")
 
 **Relationship Point Choices**:
 - Kinda Cool! (Amber +1)
@@ -895,43 +884,9 @@ Then after the scenes at the top, head down and to the right. Pick up another *N
 
 Return to take the teleporter.
 
-Prepare yourself for a battle and head up.
+!battle(["Hazuki",:ROGUEHERO,0], "Starlight Arena")
 
-Rogue Hero Hazuki (Starlight Field on top of Fairy Tale Arena)
--   Aevian Chandelure, Level 84. @ Focus Sash.
-    -   Dazzling Gleam
-    -   Shadow Ball
-    -   Thunderbolt
-    -   Trick Room
--   Corviknight, Level 86. @ Corviknite.
-    -   Taunt
-    -   Brave Bird
-    -   Body Press
-    -   Iron Head
--   Aurorus, Level 85. @ Magical Seed.
-    -   Aurora Veil
-    -   Blizzard
-    -   Nature Power
-    -   Earth Power
--   Sirfetch'd, Level 86. @ Stick.
-    -   Meteor Assault
-    -   Night Slash
-    -   Poison Jab
-    -   Brick Break
--   Samurott, Level 85. @ Samurott Crest.
-    -   Sacred Sword
-    -   Razor Shell
-    -   Night Slash
-    -   Aqua Jet
--   Aegislash, Level 87. @ Magical Seed.
-    -   Flash Cannon
-    -   Shadow Ball
-    -   King's Shield
-    -   Sacred Sword
-
-This is a tough battle that takes full advantage of both field effects in play here! On the first turn, you'll notice that Chandelure's and Corviknight's abilities cause tanky Mega Corviknight to be targeted. This means Chandelure will likely get off a Trick Room on the first turn which will last 8 turns on the field, greatly benefitting her slow team. When her Aurorus comes in, the field will return to Fairy Tale since the hail blocks out the weather, which as in the Melia fight makes Sirfetch'd, Samurott and Aegislash particularly deadly.
-
-That said, luckily there are no fairies this time, so Heat Wave + Sun can work well on most of the team. You can either anticipate the Trick Room and bring a slow team or manage to somehow knock out or prevent Chandelure from moving on the first turn if you can. The field effects are not ridiculously stacked against you this time though, so take advantage of Fairy Tale Field and you will find a way to win.
+This battle has been made much easier since the previous version, though you still need to be careful. Mega Corviknight is very bulky and can set up Tailwind for its allies, while Mr. Rime is able to use Fake Out and deals decent damage. The somewhat slow but powerful trio of Sirfetch'd, Samruott, and Aegislash is in the back, ready to pick up one-shots if you don't get to them first. You also need to watch out for Aevian Chandelure, whose Illuminate ability will redirect single-target attacks to it on the first turn it is on the field.
 
 **Relationship Point Choices**:
 - I'm so sorry. (Saki +2, Aelita +2)
@@ -939,63 +894,23 @@ That said, luckily there are no fairies this time, so Heat Wave + Sun can work w
 - She was lost. (Saki -1)
 - That wasn't Hazuki. (Saki -2)
 
-Head up and follow the path to obtain the ZCrystal *Intercept-Z*!
+Head up and follow the path to obtain the *Intercept-Z*!
 
-Puppet Master (Starlight Field)
--   Puppet Master, Level 85. @ Leftovers. Ability: World of
-    Nightmares. Type: Dark/Psychic. Stats: 500/50/300/60/300/1. 4 Shields.
-    -   Nightmare
-    -   Bunraku Beatdown
-    -   Spirit Break
-    -   Dream Eater
+!partner(["Aelita",:STUDENT_3,4])
 
-Equip the Intercept-Z to a Pokemon first and you'll have a much easier time, but it's not necessary. It's very slow, so you can easily drop its defenses or use Knock Off for its Leftovers and wear it down. Aelita will help you break the 4 shields too with field boosted Dazzling Gleam. If you use any weather, you'll change the field to nothing, which can be useful.
+!boss("MASTEROFNIGHTMARES", "Starlight Arena")
 
-Puppet Master (Starlight Field)
--   Puppet Master, Level 85. @ Leftovers. Ability: World of
-    Nightmares. Type: Dark/Psychic. Stats: 500/1/80/80/1/1
-    -   Nightmare
-    -   Bunraku Beatdown
-    -   Spirit Break
-    -   Dream Eater
+Equip the Intercept-Z to a Pokemon first. The Intercept-Z allows you to use one of multiple very strong effects to turn the tide of battle. The Puppet Master's multiple forms take you through different fields and different typings, though Aelita is fairly helpful against the Hand forms, so do what you can to support her. Once the second-to-last shield is broken, it reaches its strongest yet slowest form, meaning you can wear it down with Defense drops and go crazy dealing damage to it. It inflicts tons of status conditions over the course of the fight, so moves like Safeguard or items like Lum Berries may be useful.
 
-Even easier than the first time. The Intercept-Z helps as before!
+!boss("MASTEROFNIGHTMARES2", "Starlight Arena")
 
-Optimistic Guy Huey (Starlight Field)
--   Kecleon, Level 81. @ Focus Sash.
-    -   Knock Off
-    -   Power Up Punch
-    -   Sucker Punch
-    -   Shadow Sneak
--   Gogoat, Level 82. @ Leftovers.
-    -   Horn Leech
-    -   Nature Power
-    -   Bounce
-    -   Protect
--   Glalie, Level 83. @ Iapapa Berry.
-    -   Protect
-    -   Shadow Ball
-    -   Frost Breath
-    -   Double Team
--   Palossand, Level 82. @ Sitrus Berry.
-    -   Earth Power
-    -   Shore Up
-    -   Hypnosis
-    -   Shadow Ball
--   Octillery, Level 83. @ Expert Belt.
-    -   Water Spout
-    -   Hydro Pump
-    -   Ice Beam
-    -   Fire Blast
--   Flareon, Level 84. @ Toxic Orb.
-    -   Flare Blitz
-    -   Protect
-    -   Facade
-    -   Quick Attack
+Just gotta one shot it.
+
+!battle(["Huey",:OPTKID,1], "Starlight Arena")
 
 Huey is not too bad! Just make sure he doesn't get stupidly powerful with Octillery or Glalie's moody and you'll be fine.
 
-Now we get to play as Saki for a bit. Interact with all the ... as well as Saki's parents then pick up the phone in the upper left corner.
+After the lengthy story scene, we get to play as Saki for a bit. Interact with all the "..." points as well as Saki's parents, then pick up the phone in the upper left corner.
 
 Back as the player, enter the first room.
 
@@ -1004,15 +919,9 @@ Back as the player, enter the first room.
 - I'm on it. (Erin +2)
 - Goddamnit... (Melia -2, Aelita -2, Erin -3)
 
-Accept the fast travel to Axis. Head through the path then go back to the left. You'll find **Aevian Munna** roaming about!
+Accept the fast travel to Axis. Follow the path up. After this scene is over, head back out and down to Saki's gym!
 
-ZCell 108: Hidden Axis Lab
-
-<img src="/assets/images/rejuv/image113.png"/>
-
-Follow the path up. After this scene is over, head back out and down to Saki's gym!
-
-## Forgery Badge
+## Axis Factory
 
 Axis Factory
 
