@@ -632,24 +632,34 @@ That's it for this part!
 
 ## Nightmare School: MC
 
-Exit the auditorium and talk to the student here who has lost his brain. SEC is the storekeeper here and has the same items as Zetta did. Do a group investigation of the cafeteria here. Return to the guy to get *Mysterious Black Box* and some *Phantom Candy S*. The first trainer to the top will also give us *Phantom Candy S*.
+Exit the auditorium and talk to the student here who has lost his brain. SEC is the storekeeper here and has the same items as Zetta did. Do a group investigation of the cafeteria here. Return to the guy to get *Mysterious Black Box* and *3 Phantom Candy S*. 
 
-Talk to the masked man and you'll be given a clue. Enter the classroom and do a group investigation. Return and try entering "ants troubled" if you like. The actual answer is "student labor."
+!battle(["Moodi",:AXISSTUDENT_FW,0])
 
-Enter a room on the left and say you don't want to battle to battle someone. Win to get *Phantom Candy S* and another *Mysterious Black Box*. In the top left room answer the bottom answer, and you'll get *Phantom Candy M* and another *Mysterious Black Box*. Try to enter the machine in the lower area of the main room. Talk to it again. You'll need to generate different students based on their attributes, the chalkboards in the lower left classroom are the guide. So, make the following:
+Winning grants *3 Phantom Candy S*.
 
-Student 1: Determined, Math, Medical Proficiency, Internship Experience
+Talk to the masked man to the right, and you'll be given a clue. Enter the classroom and do a group investigation. Return and try entering "ants troubled" if you like. The actual answer is "student labor." Head down the stairs.
 
-Student 2: Studious, English, Drama Proficiency, 10 or more performances
+Enter a room on the left and say you don't want to battle to battle someone. 
 
-Student 3: Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
+!battle(["Ambarlinn",:AXISSTUDENT_FW,0], "Factory Field")
+
+Win to get *3 Phantom Candy S* and another *Mysterious Black Box*. In the top left room answer the bottom answer, and you'll get *Phantom Candy M* and another *Mysterious Black Box*. 
+
+Try to enter the machine in the lower area of the main room. Talk to it again. You'll need to generate different students based on their attributes, the chalkboards in the lower left classroom are the guide. So, make the following:
+
+- Student 1: Determined, Math, Medical Proficiency, Internship Experience
+- Student 2: Studious, English, Drama Proficiency, 10 or more performances
+- Student 3: Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
 
 **Relationship Point Choices**:
 - Give her space. (Saki +2)
 - She has amnesia. (Saki +1, Amber +1)
 - ... (Saki -2)
 
-Student 4: Studious, Engineering, Engineering Proficiency, 3 Years' Experience
+Build one more:
+
+- Student 4: Studious, Engineering, Engineering Proficiency, 3 Years' Experience
 
 Talk to the door at the top.
 
@@ -657,37 +667,7 @@ Talk to the door at the top.
 - Of course (Amber +2, Saki +2)
 - Um... I'm scared! (Saki -2, Amber -2)
 
-Team Xen Zetta (Factory Field)
--   Minior, Level 84. @ Focus Sash.
-    -   Shell Smash
-    -   Acrobatics
-    -   Earthquake
-    -   Explosion
--   Hitmonlee, Level 84. @ Normal Gem.
-    -   Fake Out
-    -   High Jump Kick
-    -   Throat Chop
-    -   Rock Slide
--   Weavile, Level 85. @ Life Orb.
-    -   Night Slash
-    -   Icicle Crash
-    -   Ice Shard
-    -   Poison Jab
--   Absol, Level 85. @ Scope Lens.
-    -   Sucker Punch
-    -   Night Slash
-    -   Play Rough
-    -   Stone Edge
--   Dragonite, Level 85. @ Weakness Policy.
-    -   Dragon Dance
-    -   Extremespeed
-    -   Dragon Claw
-    -   Earth Power
--   Typhlosion, Level 86. @ Typhlosion Crest.
-    -   Eruption
-    -   Flare Blitz
-    -   Extrasensory
-    -   Thunderpunch
+!battle(["Zetta",:XENEXECUTIVE_1,11], "Factory Field")
 
 This one is somewhat tough but luckily not as bad as Mt. Valor! You'll need to watch out for Absol, who critical hits frequently thanks to its ability and item. The Typhlosion, Dragonite, Weavile, Minior we've all seen before and know how to deal with by now. Watch out for Hitmonlee who will get an Unburden boost after using Fake Out.
 
@@ -696,55 +676,44 @@ This one is somewhat tough but luckily not as bad as Mt. Valor! You'll need to w
 - Good luck. (Amber +2)
 - ... (Amber -2)
 
-Inside, complete the first few tasks just as we did as Aelita. Now enter the right-side door. Beat the scientists in here then pick up the key and unlock the left door. Go down the elevator, into the door, and get the key. Use it back up from the elevator. Pick up the final key and reenter the main hallway.
+You can activate Interceptor's Wish if you want to.
 
-Doctor Isha (Factory Field)
--   Galarian Weezing, Level 85. @ Rocky Helmet.
-    -   Strange Steam
-    -   Sludge Bomb
-    -   Pain Split
-    -   Flamethrower
--   Arctozolt, Level 86. @ Quick Claw.
-    -   Bolt Beak
-    -   Icicle Crash
-    -   Rock Slide
-    -   Ice Beam
--   Hydreigon, Level 87. @ Metronome.
-    -   Dark Pulse
-    -   Dragon Pulse
-    -   Nasty Plot
-    -   Roost
+!newself(["Amber",:LEADER_AMBER2,0])
+
+Inside, complete the first few tasks just as we did as Aelita. Once you reach the room Amber cannot enter, go right.
+
+!battle(["Howard",:SCIENTIST,0], "Factory Field")
+
+!battle(["Demitri",:SCIENTIST,0], "Factory Field")
+
+ Beat the scientists in here then pick up the key and unlock the left door. Go down the elevator, into the door, and get the key. Use it back up from the elevator. Pick up the final key and reenter the main hallway.
+
+!battle(["Isha",:DOCTOR,3], "Factory Field")
 
 A bit harder since you only have three this time, but nonetheless very doable.
 
-*Relationship Point Choices:*
+**Relationship Point Choices**:
 - I'm happy for you! (Amber +2)
 - ... (Amber -1)
 
-Make your way all the way back to the auditorium as soon as you are prompted to.
+Make your way all the way back to the auditorium as soon as you are prompted to. Some students will battle you in the factory.
 
-Masked Individual ??? (No Field)
--   Roserade, Level 84.
-    -   Stun Spore
-    -   Magical Leaf
-    -   Sludge Bomb
-    -   Shadow Ball
--   Hippowdon, Level 85. @ Leftovers.
-    -   Earthquake
-    -   Curse
-    -   Rock Tomb
-    -   Slack Off
--   Piloswine, Level 84. @ Eviolite.
-    -   Protect
-    -   Toxic
-    -   Earthquake
-    -   Icicle Spear
+!battle(["Denzil",:AXISSTUDENT_MW,0])
+
+You'll get *3 Phantom Candy M*. Return to the auditorium
+
+!battle(["???",:MASKEDMAN,0])
 
 Again, probably easy for your team at this point.
 
-Head upstairs. Interact with a terminal on the right. Your goal is to get the red box into the green space. With enough tinkering you can figure it out. Do this at all the other terminals around the room.
+Head upstairs. Interact with a terminal on the right. Your goal is to get the red box into the green space. 
 
-After you finish, talk to the main table thing, then go around the room bashing suspicious walls. That is, any that don't fit it with what's around them. Then return to the table.
+- Top Right Solution: LURURULDRULULD
+- Bottom Right Solution: DRURULUDRULDRURDLDRURDR
+- Middle Bottom Solution: DLULURURULDL
+- Top Left Solution: URURULDRDLDR
+
+After you finish, talk to the main table thing, then go around the room bashing suspicious walls. That is, any that don't fit in with what's around them. Then return to the table.
 
 **Relationship Point Choices**:
 - Are you doing okay? (Amber +2)
@@ -767,24 +736,19 @@ Return to the underground to the broken machine in the upper left room. It's tim
 
 Take the teleporter then go up.
 
-Masked Individual (No Field)
--   Genesect, Level 88. @ Douse Drive.
-    -   Techno Blast (Water)
-    -   Flash Cannon
-    -   Bug Buzz
-    -   Shift Gear
+!battle(["???",:MASKEDMAN,1])
 
-Obviously, a fast fire move will do the trick here.
+A fast fire move will do the trick here.
 
 Head back to the teleporter and talk to the Saki door.
 
 **Relationship Point Choices**:
 - Kick ass, Saki! (Saki +3)
-- Uh... Good luck? (Saki +/-2)
+- Uh... Good luck? (Neutral)
 
 Put the mannequins into pods... yikes.
 
-Head up and interact with the monitor thing. Then go up and talk to the box thing. Then input 7496 into the monitor. Talk to Amber then push the red switch at the bottom then go down the newly opened stairs.
+Head up and interact with the monitor thing. Then go up and talk to the box thing. Then input 7496 into the monitor. Talk to Amber then push the red switch at the bottom and go down the newly opened stairs.
 
 **Relationship Point Choices**:
 - It did. (Neutral)
@@ -795,242 +759,56 @@ Then when you return head out and go down the lift.
 
 After learning about all this, it's finally time to enter the player's door!
 
-This area is straight forward. When all is said and done, you'll have to fight... your protagonist. Each protagonist has a different team, so find the one that applies to you.
+### Paragon and Renegade Routes
 
-Pokemon Trainer Ana (Snowy Mountain Field)
--   Leavanny, Level 85. @ Focus Sash.
-    -   Sticky Web
-    -   Leaf Blade
-    -   Electroweb
-    -   X-Scissor
--   Dragapult, Level 85. @ Ghostium-Z.
-    -   Dragon Darts
-    -   Phantom Force
-    -   Dragon Dance
-    -   Will-o-Wisp
--   Slowbro, Level 86. @ Slowbronite.
-    -   Calm Mind
-    -   Slack Off
-    -   Psychic
-    -   Scald
--   Porygon2, Level 85. @ Eviolite.
-    -   Recover
-    -   Ice Beam
-    -   Thunderbolt
-    -   Foul Play
--   Falinks, Level 85. @ Life Orb.
-    -   No Retreat
-    -   Throat Chop
-    -   Iron Head
-    -   Close Combat
--   Magnezone, Level 86. @ Custap Berry.
-    -   Discharge
-    -   Hidden Power Fire
-    -   Flash Cannon
-    -   Thunder Wave
+Some events in the story thus far have resulted in branching story paths to some extent, but the general arc of the story has remained the same. It is at this point that the story's largest split occurs: the default route is called the **Paragon Route**... while a different, more difficult to attain route exists called the **Renegade Route**. Their names imply their true nature as to what side you'll be fighting for, going forward.
 
-Pokemon Trainer Aevis (Snowy Mountain Field)
--   Gigalith, Level 85. @ Light Clay.
-    -   Arenite Wall
-    -   Stone Edge
-    -   Body Press
-    -   Toxic
--   Sylveon, Level 85. @ Assault Vest.
-    -   Hyper Voice
-    -   Mystical Fire
-    -   Psyshock
-    -   Hidden Power Ground
--   Lucario, Level 86. @ Lucarionite.
-    -   Meteor Mash
-    -   Close Combat
-    -   Extremespeed
-    -   Crunch
--   Huntail, Level 85. @ White Herb.
-    -   Shell Smash
-    -   Aqua Tail
-    -   Ice Beam
-    -   Crunch
--   Lycanroc, Level 85. @ Life Orb.
-    -   Stone Edge
-    -   Accelerock
-    -   Sucker Punch
-    -   Drill Run
--   Decidueye, Level 86. @ Decidium-Z.
-    -   Spirit Shackle
-    -   Leaf Blade
-    -   Roost
-    -   Brave Bird
+To get to Renegade Route, you'll need to end up with at least 100 of what I have called so far "Renegade Points" (RP). In addition to the points we may have due to story choices thus far, the following calculations are also done:
 
-Pokemon Trainer Aevia (Snowy Mountain Field)
--   Mudsdale, Level 85. @ Passho Berry.
-    -   Stealth Rock
-    -   Earthquake
-    -   Roar
-    -   Body Press
--   Venomoth, Level 85. @ Focus Sash.
-    -   Quiver Dance
-    -   Sleep Powder
-    -   Bug Buzz
-    -   Sludge Bomb
--   Lapras, Level 86. @ Laprasite.
-    -   Dragon Dance
-    -   Liquidation
-    -   Ice Shard
-    -   Drill Run
--   Whimsicott, Level 85. @ Life Orb.
-    -   Moonblast
-    -   Hurricane
-    -   Energy Ball
-    -   Encore
--   Noctowl, Level 85. @ Noctowl Crest.
-    -   Psychic
-    -   Hurricane
-    -   Nasty Plot
-    -   Roost
--   Samurott, Level 86. @ Samurott Crest.
-    -   Swords Dance
-    -   Sacred Sword
-    -   Razor Shell
-    -   Megahorn
+Current Karma (by my calculations, current maximum is 59) is:
+- 54 or more: 0 RP added
+- 45 thru 54: 5 RP added
+- 35 thru 44: 10 RP added
+- 25 thru 34: 15 RP added
+- 10 thru 24: 20 RP added
+- 0 thru 9: 25 RP added
+- -10 thru -1: 45 RP added
+- -20 or less: 75 RP added
 
-Pokemon Trainer Ariana (Snowy Mountain Field)
--   Blaziken, Level 85. @ Focus Sash.
-    -   Protect
-    -   Baton Pass
-    -   Reversal
-    -   Swords Dance
--   Volcarona, Level 85. @ Heavy Duty Boots.
-    -   Quiver Dance
-    -   Bug Buzz
-    -   Fire Blast
-    -   Hurricane
--   Altaria, Level 86. @ Altarianite.
-    -   Dragon Dance
-    -   Return
-    -   Cotton Guard
-    -   Roost
--   Meowstic, Level 85. @ Damp Rock.
-    -   Rain Dance
-    -   Thunder
-    -   Psychic
-    -   Me First
--   Kingdra, Level 85. @ Life Orb.
-    -   Waterfall
-    -   Outrage
-    -   Hydro Pump
-    -   Flash Cannon
--   Oricorio, Level 86. @ Oricorio Crest.
-    -   Hurricane
-    -   Revelation Dance
-    -   Baton Pass
-    -   Calm Mind
+Plus, you'll get RP corresponding to current Relationship Point Values.
+- Less than 0 points with Melia, Venam, Ren, Aelita, Erin, Amber: +5 RP respectively
+- Less than 0 points with Tesla: +20 RP
 
-Pokemon Trainer Axel (Snowy Mountain Field)
--   Klefki, Level 85. @ Mental Herb.
-    -   Spikes
-    -   Thunder Wave
-    -   Magnet Rise
-    -   Foul Play
--   Meowstic, Level 85. @ Red Card.
-    -   Calm Mind
-    -   Reflect
-    -   Thunderbolt
-    -   Psychic
--   Grimmsnarl, Level 86. @ Grimmsnarlite.
-    -   Bulk Up
-    -   Rest
-    -   Spirit Break
-    -   Sleep Talk
--   Darmanitan, Level 85. @ Life Orb.
-    -   Flare Blitz
-    -   Rock Slide
-    -   Superpower
-    -   U-Turn
--   Perrserker, Level 85. @ Assault Vest.
-    -   Iron Head
-    -   Play Rough
-    -   Close Combat
-    -   U-Turn
--   Feraligatr, Level 86. @ Feraligatr Crest.
-    -   Dragon Dance
-    -   Liquidation
-    -   Crunch
-    -   Ice Fang
+Adding up all the RP and comparing it to 100 will determine whether or not you can access the Renegade Route. If you can, follow the path left through the negative space area in your Nightmare Realm...
 
-Pokemon Trainer Alain (Snowy Mountain Field)
--   Araquanid, Level 85. @ Focus Sash.
-    -   Sticky Web
-    -   Hydro Pump
-    -   Leech Life
-    -   Toxic
--   Aggron, Level 85. @ Weakness Policy.
-    -   Heavy Slam
-    -   Stone Edge
-    -   Rock Polish
-    -   Earthquake
--   Kangaskhan, Level 86. @ Kangaskhanite.
-    -   Power Up Punch
-    -   Fake Out
-    -   Return
-    -   Crunch
--   Scrafty, Level 85. @ Coba Berry.
-    -   Dragon Dance
-    -   Poison Jab
-    -   High Jump Kick
-    -   Crunch
--   Haxorus, Level 85. @ Life Orb.
-    -   Dragon Dance
-    -   Dragon Claw
-    -   Poison Jab
-    -   Earthquake
--   Pikachu-Belle, Level 86. @ Light Ball.
-    -   Volt Tackle
-    -   Extremespeed
-    -   Icicle Crash
-    -   Brick Break
+For both routes, you'll need to confront, well, yourself.
 
-Pokemon Trainer Aero (Snowy Mountain Field)
--   Luxray, Level 85. @ Luxray Crest.
-    -   Crunch
-    -   Volt Switch
-    -   Wild Charge
-    -   Ice Fang
--   Musharna, Level 85. @ Colbur Berry.
-    -   Moonlight
-    -   Toxic
-    -   Psychic
-    -   Hidden Power Fire
--   Salamence, Level 86. @ Salamencite.
-    -   Earthquake
-    -   Dragon Claw
-    -   Dragon Dance
-    -   Return
--   Tyrantrum, Level 85. @ Focus Sash.
-    -   Dragon Dance
-    -   Head Smash
-    -   Outrage
-    -   Earthquake
--   Medicham, Level 85. @ Life Orb.
-    -   Bullet Punch
-    -   Zen Headbutt
-    -   High Jump Kick
-    -   Ice Punch
--   Delphox, Level 86. @ Grassium-Z.
-    -   Fire Blast
-    -   Psychic
-    -   Grass Knot
-    -   Will-o-Wisp
+!battle(["Ana",:TRAINER_ANA,1], "Snowy Mountain Field")
 
-They're not insanely difficult, and you will succeed with the right strategy if you've made it here!
+!battle(["Aevis",:TRAINER_AEVIS,0], "Snowy Mountain Field")
+
+!battle(["Aevia",:TRAINER_AEVIA,0], "Snowy Mountain Field")
+
+!battle(["Ariana",:TRAINER_ARIA,0], "Snowy Mountain Field")
+
+!battle(["Axel",:TRAINER_AXEL,0], "Snowy Mountain Field")
+
+!battle(["Alain",:TRAINER_ALAIN,0], "Snowy Mountain Field")
+
+!battle(["Aero",:TRAINER_AERO,0], "Snowy Mountain Field")
+
+You can beat yourself, right?
 
 **Relationship Point Choices**:
 - Don't let her get to you. (Aelita +4)
 - It's alright. (Aelita +2)
 - Watch what you say. (Aelita -2)
 
+After all that, you'll wake up from the Nightmare School!
+
 ## Secret Axis Lab
 
-When you can, return upstairs and enter the stairs at the fountain. Follow the path to fight SEC again, who has a Shadow Machop. SEC in the next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow the path. On the left side of the area, you'll be able to grab a *Nightmare Fuel*.
+Go upstairs and enter the stairs at the fountain. Follow the path to fight SEC again, who has a Shadow Machop. SEC in the next room has a Shadow Clobbopus. Get the *Fire Stone* here then follow the path. On the left side of the area, you'll be able to grab a *Nightmare Fuel*.
 
 Head up - it's time to fight illusions. You get relationship points depending on if you're right - choosing Erick 2 grants (+6 Erick), choosing Erick 1 grants (-4 Erick). Choosing Aelita 2 grants (-4 Aelita)
 and will open you up to one more question:

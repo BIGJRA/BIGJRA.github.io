@@ -157,7 +157,7 @@ Talk to Melia inside the previous house and agree to sleep. Wake up, talk to the
 - ... (+1 Amber)
 - It's weird ass hell out here. (+2 Amber)
 
-Go right in Aquamarine Cave for a conversation. Here you will decide if you **Trust Jenner** or not. This causes some relationship points and other details of the story to change. Choosing not to trust Jenner also contributes: (+10 Renegade Points). "Renegade Points" affect whether or not we can enter the Renegade Route of the story later on.
+Go right in Aquamarine Cave for a conversation. Here you will decide if you **Trust Jenner** or not. This causes some relationship points and other details of the story to change. Choosing not to trust Jenner also contributes: (+10 [renegade points](#paragon-and-renegade-routes)).
 
 !battle(["Jenner",:PROFJENNER,0], "Crystal Cavern")
 
