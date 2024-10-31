@@ -421,7 +421,7 @@ class TrainerGetter
       end
       trainer_effects.each do |trainerEffect, offset|
         next if trainerEffect == nil
-        next if trainerEffect[:effectmode] != :Party
+        next if ![:Party].include?(trainerEffect[:effectmode])
         if trainerEffect[idx - offset]
           effs = trainerEffect[idx - offset]
           if effs[:pokemonStatChanges]
@@ -526,6 +526,85 @@ class TrainerGetter
         shield_break_details = []
       end
     end
+
+    # TrainerEffects that are not party based
+    if trainer_data[:trainereffect] && trainer_data[:trainereffect][:effectmode] == :Fainted
+      teff_details = []
+      teff = trainer_data[:trainereffect]
+      (1..6).each do |idx|
+        fs = "After #{idx} Pokemon have fainted: "
+        next if !teff[idx]
+        effs = teff[idx]
+        if effs[:fieldChange]
+          field = FIELDS[effs[:fieldChange][0].to_sym]
+          teff_details.push("#{fs}Field changes to #{field}")
+        end
+        if effs[:delayedaction]
+          actions = []
+          tc = 0
+          curr = effs[:delayedaction]
+          while curr
+            tc += curr[:delay]
+            actions.push([tc, curr])
+            curr = curr[:delayedaction]
+          end
+          actions.each do |tc, act|
+            if act[:repeat] && !act[:typeSequence]
+              ts = "After every #{tc} turn#{tc == 1 ? "" : "s"}: "
+            else
+              ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
+            end
+            if act[:playerSideStatChanges]
+              groups = {}
+              act[:playerSideStatChanges].each do |stat, lvl|
+                groups[lvl] ||= []
+                groups[lvl].push(stat)
+              end
+              groups.each do |lvl, stats|
+                teff_details.push("#{ts}Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              end
+            end
+            if act[:fieldChange]
+              field = FIELDS[act[:fieldChange][0].to_sym]
+              teff_details.push("#{ts}Field changes to #{field}")
+            end
+            if act[:playerEffects]
+              teff_details.push("#{ts}Effect added to player's side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            end
+            if act[:bossStatChanges] 
+              groups = {}
+              act[:bossStatChanges].each do |stat, lvl|
+                groups[lvl] ||= []
+                groups[lvl].push(stat)
+              end
+              groups.each do |lvl, stats|
+                teff_details.push("#{ts}Boss's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              end
+            end
+            if act[:bossEffect]
+              teff_details.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            end
+            if act[:playerSideStatusChanges]
+              teff_details.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+            end
+            if act[:typeSequence]
+              typeCycles = []
+              act[:typeSequence].each do |num, obj|
+                typeCycles.push(obj[:typeChange].map {|type| @typeHash[type][:name]}.uniq.join("/"))
+              end
+              teff_details.push("#{ts}Begins cycling types each turn: #{typeCycles.join(" -> ")}")
+            end
+          end
+        end
+      end
+
+      teff_row = doc.create_element('tr')
+      table.add_child(teff_row)
+      teff_td = doc.create_element('td', colspan: 3)
+      teff_td.add_child(teff_details.reject { |s| s.empty? }.join("\n-> "))
+      teff_row.add_child(teff_td)
+    end 
+
     doc.to_html.gsub(/<td>\s*\n\s*<strong>/, '<td><strong>').split("\n")[1..].join("\n")
   end
 

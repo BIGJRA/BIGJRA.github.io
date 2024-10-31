@@ -923,112 +923,93 @@ Accept the fast travel to Axis. Follow the path up. After this scene is over, he
 
 ## Axis Factory
 
-Axis Factory
+Enter the door to the left.
 
-| Grass                | %        |
-|----------------------|----------|
-| **Litwick (Aevian)** | 40       |
-| **Flaaffy**          | 30       |
-| Klang                | 20       |
-| **Klinklang**        | 5        |
-| **Ampharos**         | 5        |
+!battle(["Gail",:AXISSTUDENT_FW,0])
+
+!enc(111)
 
 Make sure you catch an Aevian Litwick to show to Zumi.
 
-Make your way through the path to the left. There is a sneakily hidden door at the bottom of the left-most side, follow that down. Make your way to the right and open a chest for 3 *Green Shards*. Then step on all three of the yellow switches and make them blue.
+Make your way through the path to the left. There is a sneakily hidden door at the bottom of the left-most side: follow it down. 
 
-In the next area using the rail cart, step on the switch and open the chest for 3 *Yellow Shards*. Then follow Sakitron down from where she starts.
+!battle(["Mac",:AXISSTUDENT_MW,0], "Factory Field")
 
-In this next area, use the rail carts to go left and step on the switch. Activate Sakitron, follow it and go left for *Exp. Candy XL*. Defeat all the trainers in this area and a *Dungeon Key* will appear. Get it and open the nearby door. Head down, beat the trainers and grab the *Dungeon Key* behind them.
+Make your way to the right and open a chest for 3 *Green Shards*. Step on all three of the yellow switches and make them blue to spawn a railcart. Jump in the railcart, step on the switch, and open the chest for 3 *Yellow Shards*.
 
-Before we go, we can solve a puzzle with these statues. Turn the top-left one South, the top-right one West, the bottom-left one East, and the bottom-right one North. You'll get an *Adamant Mint*!
+Backtrack to the start of the area, then go down from where Sakitron was. In this next area, use the rail carts to go left. 
 
-Use the key above.
+!battle(["Scott",:AXISSTUDENT_MW,0], "Factory Field")
 
-Xen Executive Geara (Haunted Field)
--   Krookodile, Level 85. @ Darkinium-Z.
-    -   Earthquake
-    -   Taunt
-    -   Darkest Lariat
-    -   Stealth Rock
--   Grimmsnarl, Level 85. @ Light Clay.
-    -   Reflect
-    -   Sucker Punch
-    -   Spirit Break
-    -   Light Screen
--   Chandelure, Level 86. @ Magical Seed.
-    -   Shadow Ball
-    -   Magma Drift
-    -   Energy Ball
-    -   Will-o-Wisp
--   Aevian Parasect, Level 87. @ Life Orb.
-    -   Phantom Force
-    -   Shadow Sneak
-    -   Sleep Powder
-    -   Gunk Shot
--   Clefable, Level 87. @ Magical Seed.
-    -   Calm Mind
-    -   Moonblast
-    -   Shadow Ball
-    -   Softboiled
--   Gengar, Level 87. @ Gengarite.
-    -   Sludge Wave
-    -   Shadow Ball
-    -   Hypnosis
-    -   Focus Blast
+Step on the switch, then go right and down. Left at the fork:
 
-Man, this guy keeps showing up and is never any less annoying. First, for some arbitrary reason, compared to all the previous encounters with Haunted Field, this time you can't change the field at all. All his Pokemon hit hard, and he even walks in with some of them burned, so you can't status them. Mega-Gengar is insanely fast and with field boosted Shadow Ball can kill almost anything, Krookodile starts strong and can go on a Moxie rampage starting with its Z-move, Aevian Parasect's ability guarantees it a second life after you knock it out the first time, Unaware Clefable is as annoying as ever, and so on.
+!battle(["Ken",:COOLTRAINER_M,0], "Factory Field")
 
-If you can knock out Clefable, a speed boosted sweeper of some sort might be all you need to tear into his team. As before, your own ghost types will do well here, and since some fire moves gain Ghost typing, once you can knock out Chandelure, one might tear through him.
+Open the chest for *3 Exp. Candy XL*. To the right:
+
+!battle(["Jacob",:AXISSTUDENT_MW,0], "Factory Field")
+
+And finally, go down:
+
+!battle(["Michelle",:LASS,0], "Factory Field")
+
+Take the minecart on the right to return to the top, where you can grab a *Dungeon Key*. Open the nearby door.
+
+We can solve a puzzle with some statues here. Of the four that turn, turn the top-left one South, the top-right one West, the bottom-left one East, and the bottom-right one North. A chest containing an *Adamant Mint* will appear!
+
+!dbattle(["Kyu",:AXISSTUDENT_MW,0], ["Henry",:AXISSTUDENT_MB,0], "Factory Field")
+
+Pick up the *Dungeon Key* and use it above.
+
+!battle(["Geara",:XENEXECUTIVE_5,0], "Haunted Field")
+
+Man, this guy keeps showing up and is never any less annoying. He generates his own Haunted Field, real funny. All his Pokemon hit really hard, and Clefable even comes with a synergistic Burn to prevent other status. Mega Gengar is insanely fast and with field boosted Shadow Ball can kill almost anything, Krookodile starts strong and can go on a Moxie rampage starting with its Z-move, Aevian Parasect's ability guarantees it a second life after you knock it out the first time, and on and on this fight's difficulties go.
+
+Parasect and Clefable are the main Pokemon stopping a speedy/Trick Room sweeper, so consider Pokemon that can deal with those two for support. Your own ghost types can deal heavy damage here. Fire moves gain Ghost typing, so once you can knock out Chandelure, a Fire type may be able to go on a tear here.
 
 Push the button and enter the teleporter. Go left then down and enter the newly opened door to get a *Master Key*.
 
+Before we fight the gym leader though, there are some quests we can get done!
+
+## Post Nightmare Quests
+
+Fly over to East Gearen. Enter the Magnolia Library and show your Aevian Litwick to Zumi, who'll reward you with *30 Exp. Candy L* and the *Manectite*. That's the end of the *PictoZumi* quest!
+
+Sadly, Ayuda next door is currently completely incapable of perceiving our 140+ Zygarde Cells, even though that is the amount he's currently looking for. Maybe in V14 we'll get our reward, Ayuda.
+
+Next, make your way to the Den of Souls via the Goldenwood Silent Grove. Head up to pick up the *HP Up*. Follow the path to the city area and find a *Revive* on the left. Hidden here is also *Nugget*, *Damp Rock*, and *Red Shard*. Make your way to the 3rd HQ via the elevator and head to the 3rd floor. In the rooms with the notes, you can grab an *Antidote*, a *Full Heal*, and a *Revival Herb*. A room to the left has an *Elixir* in it. On the second floor, you can find a *Max Potion*.
+
+Exit to the 3rd Layer. On the right is an *Ultra Potion*. Talk to the broken mech-Gyarados to the left. Inside, you'll get a *Dragon Memory*. Head up to get the *Glalitite*! Proceed left and pick up the *Tiny Mushroom*.
+
+We can surf on the water here, actually!
+
+!enc(395)
+
+Surf down to the bottom area. You'll find Wild Omanyte here, and a hidden *Blue Shard*. To the right, you can get *TM89 U-Turn*. Further to the right, you'll find a hidden *Ether*. On the north side of the pond, you can find a hidden *Heart Scale*. 
+
+On your way back to the 3rd HQ, surf to the left around the mech-Gyarados to find wild Kabuto and *TM82 Dragon Tail*! That's it for our exploration of this area, so make your way all the way back to the surface and return to Axis Factory.
+
+## Forgery Badge
+
 Head into the gym door at the top and get ready for quite a battle.
 
-Gym Leader Saki (Glitch Field + Wonder Room)
--   Aggron, Level 85. @ Synthetic Seed.
-    -   Blizzard
-    -   Super U.M.D. Attack
-    -   Fire Blast
-    -   Thunder
--   Corviknight, Level 85. @ Occa Berry.
-    -   Bulk Up
-    -   Brave Bird
-    -   Roost
-    -   Super U.M.D. Attack
--   Bastiodon, Level 87. @ Bastiodon Crest.
-    -   Blizzard
-    -   Rest
-    -   Super U.M.D. Attack
-    -   Sleep Talk
--   Bronzong, Level 86. @ Synthetic Field.
-    -   Calm Mind
-    -   Rest
-    -   Sleep Talk
-    -   Super U.M.D. Attack
--   Duraludon, Level 89. @ Assault Vest.
-    -   Outrage
-    -   Draco Meteor
-    -   Slash and Burn
-    -   Super U.M.D. Attack
--   Metagross, Level 89. @ Metagrossite.
-    -   Super U.M.D. Attack
-    -   Zen Headbutt
-    -   Cosmic Power
-    -   Bullet Punch
+!battle(["Saki",:LEADER_SAKI2,0], "Factory Field")
 
-Super U.M.D. Move: Steel \| Physical \| 100 power \| 100% accuracy \| Alternates between lowering the target's Attack & Special Attack by 1 stage each, and lower the target's Defense & Special Defense by 1 stage each.
+!move("ULTRAMEGADEATH")
 
-The first 10 or so attempts you'll have at this battle will probably be wrapping your head around what is happening. Basically, on Glitch Field, special defense and special attack are calculated by whichever of the two is highest. This, plus Wonder Room, which swaps a Pokemon's raw defense and raw special defense, means that Saki's extremely defensive team members now hit their special moves with their defense stats: Mega Metagross uses 150 base special attack to power field boosted Zen Headbutt. On top of this, Super U.M.D. Attack is a 100 power physical steel move that every single one of her team carries which alternates between lowering your attack stats and your defense stats. Bronzong and Aggron also have the notorious Glitch Field Synthetic Seed boost, which grants +1 in defense and special defense as well as replacing their types with ???, removing their weaknesses to make them very tough to take down. Bastiodon is also very gnarly thanks to its crest which deals recoil damage to the player and heals Bastiodon in addition to Sturdy.
+My love letter to the insane wackiness that was V13 Saki is unfortunately moot. No longer will you the player need to deal with Wonder Room Glitch Field shenanigans. The good news is though that this fight has been replaced by another very interesting one, though not quite as hard as the previous.
 
-That said, as one of the developers kindly told me when I was stuck, there is an advantage built in to the field! All the Pokemon except Mega-Metagross are slow, and on Glitch field, the faster Pokemon has a
-+1 critical hit chance. This means that any Pokemon holding a Razor Claw or Scope Lens that is faster than any of Saki's Pokemon has a 50% chance of doing critical hits, meaning that half of the time you can ignore the defense boosts granted by the seeds of Bronzong and Aggron. What's more, a high crit move like Night Slash will have a 100% chance of breaking through! Another strategy you can consider is bringing your own defensive Pokemon. Just like with Saki's team, defense will then translate to special attack, allowing you to hit hard Special type moves
-(especially Fire). Physical type moves (especially Ground and Fighting)
-are also decent here, as the wonder room swaps Saki's team members' relatively poor special defense to the defense stat.
+A fun gimmick with this fight is that Saki changes the field a whole bunch. It starts on Factory, but will change to Glitch Field after the first knock-out. She likes to send in Durant second onto the Glitch Field to activate its Synthetic Seed and make it typeless. Following this, you'll go through the City Field, never-before-seen Colosseum Field, and once more through the Factory Field until the field settles on City for what probably accounts for the rest of the fight. If you opt for stall or take too long, the field will eventually permanently switch to Colosseum for the remainer.
 
-Win to get *TM91 Flash Cannon* as well as the Forgery Badge. At this point, if you have at least 3 points with Saki you'll get more Relationship Points (Saki +4, Amber +4, Venam +4).
+Her Pokemon have a decent spread of coverage moves, speed, priority, etc, but it shouldn't be a major difficulty spike at this point. If you find yourself taking heavy damage on any of the one-turn temporary fields, consider opting for Protect to skip ahead to the next. The City Field is a hard one to plan around for this fight: its only move boosts are to types that Steel resists anyways. Perhaps better is to switch the field to Back Alley, where you can boost moves like Sucker Punch to better deal with Mega Metagross! Otherwise, a healthy mix of Fire, Fighting, and Ground moves for offense with some priority will do the trick.
 
-Right afterwards, if you have at least 3 points with Amber, you'll get even more Relationship Points! (Amber +4, Venam +4)
+Win to get *TM91 Flash Cannon* as well as the Forgery Badge, which raises the Level Cap to Lv. 90!
+
+**Relationship Point Choices**:
+- Beat Saki while Saki Points >= 3 (+4 Saki, +4 Amber, +4 Venam)
+
+**Relationship Point Choices**:
+- Beat Saki while Amber Points >= 3 (+4 Amber, +4 Venam)
 
 **Relationship Point Choices**:
 - You got it, bro (Adam +3)
@@ -1041,42 +1022,25 @@ Next, return to Sashila, and enter the second room on the right to talk to Cresc
 - They're my friends. (Neutral)
 - None of your business. (Crescent -4)
 
-Then enter the leftmost room to talk to everyone else. We did it! Only side quests remain, for now.
+Then enter the leftmost room to talk to the group.
 
-## Post V13 Items
+## 15 Badge Quests 
 
-Return to the Gearen Lab and show your Aevian Litwick to Zumi, who'll reward you with *Exp. Candy L* and MegaStone *Manectite*. That's the end of this quest!
+Before we get started on the new .Karma Files content for the Paragon Route and Renegade Route, there are a few sidequests we can take care of. First: head to Route 4: Cairo now has one more crest he'll sell us for 14K Red Essence!
 
-Next, make your way to the Den of Souls via Goldenwood Grove. Head up to pick up the *HP Up*. Follow the path to the city area and find a *Revive* on the left. Hidden here is also *Nugget, Damp Rock*, and *Red Shard*. Make your way to the 3rd HQ, and head to the 3rd floor. In the rooms with the notes, you can grab an *Antidote*, a *Full Heal*, a *Revival Herb*. A room to the left has an *Elixir* in it. On the second floor, you can find a *Max Potion*.
+!shop("Cairo’s Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
 
-Exit to the 3rd Layer. On the right is an *Ultra Potion*. Down, you'll find a hidden *Rare Candy*. Head to the left. We can surf here!
+Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelixite*!
 
-Den of Souls
+**Relationship Point Choices**:
+- Talk to Ryland at Eclysia Skyview (+6 Ryland)
 
-| Grass   | %   | Water       | %    |
-|---------|-----|-------------|------|
-| Archen  | 50  | Tirtouga    | 90   |
-| Anorith | 50  | Relicanth   | 10   |
+Make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle.
 
+!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
 
-| Old/Good Rod  | %   | Super Rod     | %   |
-|---------------|-----|---------------|-----|
-| Lileep        | 100 | **Cradily**   | 100 |
+This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty literally gets +110% to each stat thanks to its Crest on the first turn... imagine my surprise figuring out how to finally take Delcatty out only to realize there were 11 more Pokemon waiting to take me on.
 
-Wild Kabuto can also be found by surfing north here. Grab the *TM82 Dragon Tail*.
+One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
 
-Back on land, head down and talk to the broken mech-Gyarados. Inside, you'll get a *Dragon Memory*. Head up to get the MegaStone *Glalitite*! Proceed left and pick up the *Tiny Mushroom*.
-
-Surf down at the bottom area. You'll find Wild Omanyte here, and a hidden *Blue Shard*. To the right, you can get *TM149 Draining Kiss*. Further to the right, you'll find a hidden *Ether*. An island on the north side of the pond contains a hidden *Heart Scale*. Head all the way out the way we came in.
-
-Head to Route 4: Cairo now has one more crest he'll sell us for 14K Red Essence!
-
-Cairo's Shop New Item (15 Badges)
-
-|Item            |Price             |
-|----------------|------------------|
-|*Delcatty Crest*|14000 Red Essences|
-
-Finally, fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get Relationship Points (Ryland +6) and MegaStone *Steelixite*!
-
-That's all the content in Rejuvenation! If you want to complete the dex as much as possible, read on. Thanks for reading.
+Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
