@@ -242,7 +242,7 @@ class TrainerGetter
           if shield_count == 100
             result = "On Entry: \n"  
           else
-            threshold_text = "#{effs[:threshold] != 0 ? " ( at #{effs[:threshold] * 100}% HP)" : ""}"
+            threshold_text = "#{effs[:threshold] != 0 ? " (Regenerates Shield Infinitely)" : ""}"
             result = "Shield Break #{shield_count}#{threshold_text}: \n"  
           end
 
@@ -435,6 +435,10 @@ class TrainerGetter
                 mon_details_parts.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end
+          end
+          if effs[:instantMove]
+            m = effs[:instantMove][0]
+            mon_details_parts.push("Instantly uses #{@moveHash[m][:name]}")
           end
           if effs[:fieldChange]
             field = FIELDS[effs[:fieldChange][0].to_sym]

@@ -1030,6 +1030,14 @@ Before we get started on the new .Karma Files content for the Paragon Route and 
 
 !shop("Cairo’s Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
 
+Head into any Luck's Tent location. There is a new move tutor: 
+
+!tutor("Macbeth Move Tutor", [["Cosmic Power", "5 Yellow Shards"], ["Leaf Blade", "5 Green Shards"], ["Toxic Spikes", "6 Blue Shards"], ["Aura Sphere", "6 Red Shards"], ["Heavy Slam", "6 Blue Shards"], ["Heat Crash", "5 Red Shards"], ["Gunk Shot", "5 Green Shards"], ["Pollen Puff", "5 Green Shards"], ["Terrain Pulse", "6 Yellow Shards"]])
+
+There's one more Move Tutor we can now access as well. Fly over to the Kingdom of Goomidra. In a house on the west side:
+
+!tutor("Goombina Move Tutor", [["Draco Meteor", "1 Balm Mushroom"]])
+
 Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelixite*!
 
 **Relationship Point Choices**:

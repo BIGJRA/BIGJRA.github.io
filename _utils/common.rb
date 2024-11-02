@@ -103,6 +103,8 @@ ENCOUNTER_MAPS = {
   SLOWBRO: { 1 => 'Slowpoke' },
   SLOWKING: { 1 => 'Slowpoke' },
   FARFETCHD: { 1 => 'Farfetchd' },
+  WEEZING: {1 => 'Weezing' },
+  EXEGGUTOR: {1 => 'Exeggutor' },
   ZIGZAGOON: { 1 => 'Zigzagoon' },
   LINOONE: { 1 => 'Zigzagoon' },
   YAMASK: { 1 => 'YamaskSpawn' },
@@ -631,7 +633,7 @@ def is_custom_form(form_key)
                "west aevian form", "east aevian form", "tuff puff",
                "angel of death", "dark gardevoir", "fallen angel",
                "amalgamation", "goomink", "kawopudunga", "coffee gregus",
-               "hand of", "nightmare"]
+               "hand of", "nightmare", "nanodrive"]
   form_frags.any? { |key| form_key.downcase.include?(key) }
 end
 
