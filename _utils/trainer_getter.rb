@@ -247,7 +247,6 @@ class TrainerGetter
           end
 
           eff_strs = []
-          # TODO: These will all need custom code............
           if effs[:bossEffect]
             eff_strs.push("Effect added to boss's side: #{effs[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end

@@ -73,7 +73,7 @@ Exit the train into Bladestar HQ. You'll have to choose one Pokemon for a 1v2 fi
 
 !battle(["Risa Raider",:POPSTAR,1], "Factory Field")
 
-TODO: There's a whole lot of story splitting nonsense going on here, and I can't be assed to deal with it on this playthrough. Edit later.
+TODO: I know there is a story split here but I don't currently have it in me to replay the game again to get all the details of the other split.
 
 ## Voidal Chasm
 

@@ -63,6 +63,5 @@ exclude:
   - vendor/ruby/
   - _raw/
   - _utils/
-  - TODO.md
   - "*.rb"
   - README.md
