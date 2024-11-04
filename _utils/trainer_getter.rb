@@ -320,7 +320,9 @@ class TrainerGetter
           if effs[:playerEffects]
             eff_strs.push("Effect added to player's side: #{effs[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
-          eff_strs.push(effs[:stateChanges]) if effs[:stateChanges]
+          if effs[:stateChanges]
+            eff_strs.push("Effect added to battle: #{effs[:stateChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+          end
           if effs[:playersideChanges]
             eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
           end
