@@ -1,5 +1,7 @@
 # .Karma Files
 
+We are now going to begin the new content!
+
 Head into the League Administration and talk to Erin in the middle room.
 
 **Relationship Point Choices**:
@@ -27,9 +29,36 @@ Once you're back at the Obelisk, reenter. Grant Melia access.
 
 You'll awaken in Zeight on the 8th. Talk to Erin in the second room from the right. Before we accept her request and continue .Karma Files... there are a bunch of sidequests that have opened up! Legendary ones!
 
+## Legendary Quests
+
 While we're in Sashila Village, a new in-game trade has opened up. A girl is at the bottom of the village, just to the right of the bottom-rightmost house. She wants our Toxapex in exchange for a **Magikarp (Aevian)** named Hot Dog! How nice. Talk to the very same Toxapex afterward to give it a small loan of $100,000 to get *10 Pearls*, *3 Big Pearls*, a *Pearl String*, and the *Toxtricitite*!
 
-## Legendary Quests
+Head to Route 4 next. Cairo now has one final crest he'll sell us for 14K Red Essence!
+
+!shop("Cairo’s Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
+
+Head into any Luck's Tent location. There is a new move tutor: 
+
+!tutor("Macbeth Move Tutor", [["Cosmic Power", "5 Yellow Shards"], ["Leaf Blade", "5 Green Shards"], ["Toxic Spikes", "6 Blue Shards"], ["Aura Sphere", "6 Red Shards"], ["Heavy Slam", "6 Blue Shards"], ["Heat Crash", "5 Red Shards"], ["Gunk Shot", "5 Green Shards"], ["Pollen Puff", "5 Green Shards"], ["Terrain Pulse", "6 Yellow Shards"]])
+
+There's one more Move Tutor we can now access as well. Fly over to the Kingdom of Goomidra. In a house on the west side:
+
+!tutor("Goombina Move Tutor", [["Draco Meteor", "1 Balm Mushroom"]])
+
+Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelixite*!
+
+**Relationship Point Choices**:
+- Talk to Ryland at Eclysia Skyview (+6 Ryland)
+
+Make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle.
+
+!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
+
+This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty literally gets +110% to each stat thanks to its Crest on the first turn... imagine my surprise figuring out how to finally take Delcatty out only to realize there were 11 more Pokemon waiting to take me on.
+
+One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
+
+Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
 ### Legendary Wings
 
