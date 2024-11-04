@@ -29,7 +29,9 @@ You'll awaken in Zeight on the 8th. Talk to Erin in the second room from the rig
 
 While we're in Sashila Village, a new in-game trade has opened up. A girl is at the bottom of the village, just to the right of the bottom-rightmost house. She wants our Toxapex in exchange for a **Magikarp (Aevian)** named Hot Dog! How nice. Talk to the very same Toxapex afterward to give it a small loan of $100,000 to get *10 Pearls*, *3 Big Pearls*, a *Pearl String*, and the *Toxtricitite*!
 
-## Legendary Wings
+## Legendary Quests
+
+### Legendary Wings
 
 Talk to the scientist with the hood in the League Administration to get the *Legendary Wings* quest. 
 
@@ -41,7 +43,7 @@ Finally, fly over to Teila Resort and follow the path through the Magrodar Crate
 
 Return to the scientist to finish this quest.
 
-## Vivian's Regret
+### Vivian's Regret
 
 Fly to Sheridan and enter Carotos Mountain. Make your way through the Corrupted Cave to the Garufa Sanctuary. 
 
@@ -65,7 +67,7 @@ Destroy the terminal, or don't, then head out of this room.
 
 That wraps up this quest!
 
-## Anju's Quest
+### Anju's Quest
 
 Next, fly to Kristiline and make your way through the Church of Theolia portal to reach the Tower Cellar. Make your way through the wall in order to reach the room that is directly on the right of the entrance - you need to exit the wall, go right, then go right and up in the next room to accomplish this. Use the Darchlight Crystal to create a bridge, then walk into the rift in the next room.
 
@@ -79,7 +81,7 @@ Finally, head up once more to view the scene. You can catch **Regice**!
 
 View one more scene and depart.
 
-## Heart of Iron
+### Heart of Iron
 
 Fly over to Route 9 and make your way over to the Axis High University. Enter the Axis Factory and enter the room immediately on the right and enter the rift.
 
@@ -97,7 +99,7 @@ Once you have gathered the entire group, enter the door at the top right.
 
 Easy boss, easy life. Not so much for Clover, though. Capture **Registeel** then take the teleporter and rift to exit.
 
-## Lake Spirits
+### Lake Spirits
 
 So, the Lake Spirits have also just... appeared in their respective dens. We're going to go grab them. Make sure you have a GourmetTreat for each.
 
@@ -111,7 +113,7 @@ Finally, fly over to Yui's Ranch and take a Braviary to Honec Woods. Exit Honec 
 
 !img("zcell142.png")
 
-## Parks and Wrecks
+### Parks and Wrecks
 
 For our next quest, fly over to East Gearen City. Make your way to the left backroom of the Lab to talk to Adrienn if you have completed *Reborn Again* and the Neo East Gearen Help Quests to begin a new quest: *Parks and Wrecks*.
 
@@ -594,3 +596,7 @@ After reading the files, head up at the Zorrialyn Coast.
 - It was a good idea. (+1 Crescent)
 
 That is a wrap on the .Karma Files content for the Paragon Route :]
+
+## Post Game Content
+
+Oh, by the way. If you managed to grind your way to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse. Have fun with that.
