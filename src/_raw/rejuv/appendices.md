@@ -12,24 +12,37 @@ At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% play
 
 In general, evolutions and breeding mechanics are exactly the same as in the canon games. Where evolution methods and the like differ, I detail below.
 
-- All trade evolutions can be triggered via use of the Link Heart item
+- All trade evolutions can be triggered via use of the Link Heart item.
+- Pikachu evolves into **Raichu (Alolan)** via Apophyll Pancakes.
+- Cubone evolves into **Marowak (Alolan)** at Lv. 28 at Night, in areas such as Goldenleaf Town
+- Koffing evolves into **Weezing (Galarian)** at Lv. 35 in areas such as West Gearen City
+- Mime Jr. evolves into **Mr. Mime (Galarian)** when leveled knowing Mimic in areas such as Evergreen Island
 - Eevee evolves into **Leafeon** either when leveled at the Great Terajuma Falls or via Leaf Stone.
 - Eevee evolves into **Glaceon** either when leveled in the Evergreen Cave North basement or via Ice Stone.
-- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunderstone.
 - Eevee evolves into **Sylveon** when leveled with high friendship while it knows a Fairy move - consequently it only evolves into **Espeon** and **Umbreon** without a Fairy move, at day and night respectively.
-- Quilava evolves into **Typhlosion (Hisuian)**, Dewott into **Samurott (Hisuian)**, and Dartrix into **Decidueye (Hisuian)** via Ancient Teachings
+- Quilava evolves into **Typhlosion (Hisuian)**, Dewott into **Samurott (Hisuian)**, and Dartrix into **Decidueye (Hisuian)** via Ancient Teachings.
+- Qwilfish (Hisuian) evolves into **Overqwil** by leveling up knowing Barb Barrage.
+- Stantler evolves into **Wyrdeer** by leveling up knowing Psyshield Bash.
+- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunderstone.
+- Petitil evolves into **Lilligant (Hisuian)** when a Sun Stone is used in areas such as Sheridan Village.
+- Basculin (White-Striped) evolves into **Basculegion** by leveing up knowing Double-Edge.
 - Yamask (Galarian) evolves into **Runerigus** if it is leveled up with a difference between Max and Current HP of at least 49, on a map such as Wispy Chasm.
-- Inkay evolves into **Malamar** only if you mash B during its Lv. 30 evolution
-- Milcery evolves into **Alcremie** at Lv. 42
-- Stantler evolves into **Wyrdeer** by leveling up knowing Psyshield Bash
-- Basculin (White-Striped) evolves into **Basculegion** by leveing up knowing Double-Edge
-- Qwilfish (Hisuian) evolves into **Overqwil** by leveling up knowing Barb Barrage
+- Rufflet evolves into **Braviary (Hisuian)** at Lv. 54 in areas such as Evergreen Island.
+- Inkay evolves into **Malamar** only if you mash B during its Lv. 30 evolution.
+- Goomy evolves into **Sliggoo (Hisuian)** at Lv. 40 in areas such as the Kingdom of Goomidra.
+- Bergmite evolves into **Avalugg (Hisuian)** via a Fire Stone.
+- Milcery evolves into **Alcremie** at Lv. 42.
 
 As for the Aevian forms, assume they evolve the same as their base forms, except in these cases:
 
-- Paras (Aevian) evolves into **Parasect (Aevian)** via Xen Waste
-- Munna (Aevian) evolves into **Musharna (Aevian)** via Nightmare Fuel
-- Toxel evolves into **Toxtricity (Aevian)** via a Fire Stone
+- Paras (Aevian) evolves into **Parasect (Aevian)** via Xen Waste.
+- Munna (Aevian) evolves into **Musharna (Aevian)** via Nightmare Fuel.
+- Misdreavus (Aevian) evolves into **Mismagius (Aevian)** via Leaf Stone.
+- Roselia (Aevian) evolves into **Roserade (Aevian)** via Sun Stone.
+- Snorunt (Aevian) evolves into **Glalie (Aevian)** at Lv. 42, or a female can evolve into **Froslass (Aevian)** via Water Stone.
+- Swadloon (Aevian) evolves into **Leavanny (Aevian)** via leveling while knowing Dragon Claw.
+- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunderstone.
+- Toxel evolves into **Toxtricity (Aevian)** via a Fire Stone.
 
 ## Unobtainable Pokemon
 

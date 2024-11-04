@@ -30,6 +30,6 @@ I'm BIGJRA - a software engineer and big fan of gaming! The walkthroughs on this
   </div>
   <div class="portfolio-item-desc">
     <h1>Pokemon Rejuvenation Walkthrough</h1>
-    I began work on the Pokemon Rejuvenation walkthrough all the way back in 2018 during the game's V9 version. Originally a 400+ page Google Document, the walkthrough has gone through six years of evolution alongside my skills as a developer. It is currently **about 90% up-to-date with the V13.5 version** - some alternate route split information is a work in progress. Inside you can find information that will help you achieve 100% of the game's current content!
+    I began work on the Pokemon Rejuvenation walkthrough all the way back in 2018 during the game's V9 version. Originally a 400+ page Google Document, the walkthrough has gone through six years of evolution alongside my skills as a developer. It is currently <strong>about 90% up-to-date with the V13.5 version</strong> - some alternate route split information is a work in progress. Inside you can find information that will help you achieve 100%!
   </div>
 </div>
