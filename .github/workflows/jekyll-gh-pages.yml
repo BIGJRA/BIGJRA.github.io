@@ -47,9 +47,13 @@ jobs:
       # - name: List files in _scripts FOR DEBUGGING
       #  run: ls -la _scripts
 
-      - name: Run wt_generator.rb
+      - name: Run wt_generator.rb for Reborn
         run: |
           ruby wt_generator.rb reborn ./_scripts src/reborn.md
+
+      - name: Run wt_generator.rb for rejuv
+        run: |
+          ruby wt_generator.rb rejuv ./_scripts src/rejuv.md
 
       - name: Copy _config.yml into src
         run: cp ./_config.yml ./src/_config.yml
