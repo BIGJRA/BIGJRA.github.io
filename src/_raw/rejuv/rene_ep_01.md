@@ -1,4 +1,4 @@
-# .Karma Files (Paragon)
+# .Karma Files (Renegade)
 
 We are now going to begin the new content!
 

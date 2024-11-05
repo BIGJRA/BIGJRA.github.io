@@ -11,6 +11,7 @@ class FunctionWrapper
     # I need to pass in game to basically all of the potential functions, so
     # here we stick it in as as an argument. Anything that is consistent
     # across the whole document (ie. Version) should be used here:
+    @cache = {}
     @game = game
     @scriptsDir = scripts_dir
 
@@ -60,8 +61,13 @@ class FunctionWrapper
       
     func = @shortNames[func_shortname]
     run_str = "#{func}(#{args})"
-    # puts run_str
-    eval(run_str) + "\n" # evaluates function, preserves its newline
+    puts run_str
+    if @cache.include?(run_str)
+      return @cache[run_str]
+    end
+    res = eval(run_str) + "\n" # evaluates function, preserves its newline
+    @cache[run_str] = res
+    return res
   end
 
   def generate_image_markdown(filename)
