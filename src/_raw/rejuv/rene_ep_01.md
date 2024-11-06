@@ -327,7 +327,7 @@ Talk to M2 back at the Zeight. In Between Space and Time, you can talk to former
 
 Choose some options in the following... interactive scene? to end Spacea and Tiempa.
 
-Back in the Zeight, wait until the 25th.  you have control again, exit Zeight.
+Back in the Zeight, wait until the 25th. Once you have control again, exit Zeight.
 
 !dbattle(["Venam",:LEADER_VENAM3,3], ["Amber",:LEADER_AMBER2,3], "Desert Field")
 
