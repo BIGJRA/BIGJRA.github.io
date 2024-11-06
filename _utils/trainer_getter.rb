@@ -323,7 +323,11 @@ class TrainerGetter
             eff_strs.push("Effect added to battle: #{effs[:stateChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
           end
           if effs[:playersideChanges]
-            eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            if effs[:playersideChanges].class == Array
+              eff_strs.push("Effects added to player side: #{effs[:playersideChanges].join(', ').gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            else
+              eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            end
           end
           if effs[:bosssideChanges]
             if effs[:bosssideChanges].class == Array
@@ -355,6 +359,12 @@ class TrainerGetter
               eff_strs.push("Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
             end
           end
+          if effs[:CustomMethod] && effs[:CustomMethod].match(/^battlesnapshot/)
+            eff_strs.push("A snapshot in time is taken...")
+          end
+          if effs[:CustomMethod] && effs[:CustomMethod].match(/^timewarp/)
+            eff_strs.push("A timewarp to the last snapshot occurs...")
+          end
           # The way delayed effects work is... janky. In any case I will deal with it here.
           if effs[:delayedaction]
             actions = []
@@ -382,7 +392,11 @@ class TrainerGetter
                 end
               end
               if act[:playerEffects]
-                eff_strs.push("#{ts}Effect added to player's side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+                if act[:playerEffects].class == Array
+                  eff_strs.push("#{ts}Effects added to player side: #{act[:playerEffects][0].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+                else
+                  eff_strs.push("#{ts}Effect added to player side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+                end
               end
               if act[:bossStatChanges] 
                 groups = {}
@@ -406,6 +420,12 @@ class TrainerGetter
                   typeCycles.push(obj[:typeChange].map {|type| @typeHash[type][:name]}.uniq.join("/"))
                 end
                 eff_strs.push("#{ts}Begins cycling types each turn: #{typeCycles.join(" -> ")}")
+              end
+              if act[:CustomMethod] && act[:CustomMethod].match(/^battlesnapshot/)
+                eff_strs.push("#{ts}A snapshot in time is taken...")
+              end
+              if act[:CustomMethod] && act[:CustomMethod].match(/^timewarp/)
+                eff_strs.push("#{ts}A timewarp to the last snapshot occurs...")
               end
             end
           end
