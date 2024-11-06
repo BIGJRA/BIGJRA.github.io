@@ -49,6 +49,8 @@ This is a 3v3 battle.
 
 !battle(["Thomas",:STEELRESERVE,0])
 
+Head outside.
+
 **Relationship Point Choices**:
 - Are you okay? (Neutral)
 - C'mon, it wasn't that bad... (-2 Huey)
@@ -57,13 +59,138 @@ This is a 3v3 battle.
 - Ren's sister! (+2 Reina)
 - Uh... (-2 Reina)
 
+From here, the route splits depending on our choices in the Darchlight Caves regarding Flora:
+
+[Don't Expose Flora](#badlands-arc-dont-expose-flora-route) | [Expose Flora](#badlands-arc-expose-flora-route)
+
+## Badlands Arc (Don't Expose Flora Route)
+
+After the meal at the restaurant, head over to the Judicial District. Talk to Allen and Alice at the bottom.
+
+**Relationship Point Choices**:
+- We should go. (+3 Allen, +3 Alice)
+- Let's not. (Neutral)
+
+(The other option lets you delay progressing the story if you need to). You'll be taken to the Bladestar Battalion.
+
+!battle(["Ali'yah",:SASHILAWARRIORF_2,0])
+
+Take the elevator to the engine room.
+
+!battle(["Est'ros",:SASHILAWARRIORM_1,0])
+
+Input the password "alamissa" at the bottom. Up in the captain's quarters, go right.
+
+!battle(["Hendris",:SASHILAWARRIORM_1,0])
+
+Head up to the main deck and go all the way left.
+
+!dbattle(["Sy'yo",:SASHILAWARRIORF_2,0], ["Ryland",:LEADER_RYLAND1,0])
+
+!move("DESERTSMARK")
+
+It becomes a two-on-one pretty easily, but Ryland's four Pokemon are no joke! Both the Claydol Crest and Torterra Crest drastically change how each is played.
+
+Head out to the right side of the deck to talk to Ryland if you wish.
+
+**Relationship Point Choices**:
+- All good. (+2 Ryland)
+- Communicate next time... (-1 Ryland)
+
+### Sashila Village (Don't Expose Flora Route)
+
+A hidden *HP Up* is to the right. Grab a hidden *Grass Gem* to the right. Go straight up 
+and talk to Kanon in the back room.
+
+Before we leave, we can explore the city a little bit. Down from Alexandra's house, there is a breeder to the right who will award you with *5 Exp. Candy XL* for winning.
+
+!battle(["Philip",:POKEBREEDER_M,0], "Desert Field")
+
+Stay on top of the roof and go down and around to the right. Talk to the man here to get access to the Sand Stream Cave. You'll also find:
+
+**ZCell 115: Sashila Village**
+
+!img("zcell115.png")
+
+In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *GourmetTreat*. To the left is a hidden *Lemonade*.
+
+To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below.
+
+!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "GourmetTreat", "Reverse Candy"])
+
+### Zorrialyn Desert (Don't Expose Flora Route)
+
+Head to the Zorrialyn Coast by exiting Sashila at the bottom.
+
+!enc(515, nil, ["Old", "Good"])
+
+Make sure you catch Aevian Budew for Zumi's quest. Interact with **Mandibuzz** flying around for a battle. There are also **Alolan Exeggutor**, **Gligar**, and **Arbok** in various spots in the desert.
+
+Go to the east to find:
+
+**ZCell 116: Zorrialyn Coast**
+
+!img("zcell116.png")
+
+Activate the Braviary Post here. To the right is the final Luck's Tent! Continue further to the right.
+
+!battle(["Jai'so",:DESERTDWELLER_MB,0], "Desert Field")
+
+Pick up the hidden *Dusk Ball*, *Poke Doll*, *Heart Scale*, and *Red Shard*. To the right is an *Escape Rope*. 
+
+!battle(["Sai'yo",:DESERTDWELLER_FW,0], "Desert Field")
+
+We will do the Zorrialyn Labyrinth later on, so head left and down. Grab the hidden *Dark Gem*, *Dusk Ball*, and *Water Gem*.
+
+Nothing awaits us at the end of the path to the south yet, and we will tackle the area to the east later on, so head up at the northwest corner to reach the Zorrialyn Desert (West).
+
+!enc(510, nil, nil, "Zorrialyn Desert (West)")
+
+You can find a hidden *Occa Berry*, *Sitrus Berry*, *Reverse Candy*, *Yellow Shard*, *Ground Gem*, and *Petaya Berry*, as well as a *Sun Stone* near the entrance to this map. You can use Rock Climb to the left to reach a hidden *Thick Club*, *Calcium*, and *Green Shard*, plus:
+
+**ZCell 117: Zorrialyn Desert**
+
+!img("zcell117.png")
+
+We'll tackle Sand Stream Cave a bit later on. Use Rock Climb on the right side of the map to reach *TM37 Sandstorm* as well as a hidden *Haban Berry* and *HP Up*. You can find a hidden *Hard Stone*, *Rare Bone*, and *Red Shard* across the bridge on the right, plus an *Exp. Candy XL*. Continuing to the left is a hidden *Yellow Shard* and *Thick Club*. Cross over to Zorrialyn Desert (East) at the northeast side.
+
+!enc(373, nil, nil, "Zorrialyn Desert (East)")
+
+!battle(["Clidus",:HIKER,0], "Desert Field")
+
+Just a bit down is a hidden *Lemonade*. Continue going down and right to find a hidden *PP Up* and *Heavy Ball* plus an *Iron*. A *Revive* and hidden *Leaf Stone* and *Kebia Berry* are up from here.
+
+!battle(["Jowy",:BLACKBELT,0], "Desert Field")
+
+At the next fork, go left. Hidden behind a Blast Powder rock is a *Synthetic Seed*. Cross under an archway above to reach a hidden *Reverse Candy* and *Revival Herb*, as well as a *Smooth Rock* and *Max Ether*. We will explore Alamissa Urben a bit later.
+
+Go up the stairs in the top right corner of the map. Pick up the hidden *Red Shard*, *Ether*, *2 Max Repels*, and *Yellow Shard*. Activate the Braviary Post here, then enter the Voidal Chasm by walking onto the star at the top.
+
+**ZCell 118: Zorrialyn Desert**
+
+!img("zcell118.png")
+
+### Voidal Chasm (Don't Expose Flora Route)
+
+You'll find an *Odd Keystone* to the left, plus four hidden *Ethers*. Talk to the sign, then to the small drip of water to proceed.
+
+In the next area, talk to the sign then to the white rock on the right. A path will open to the left.
+
+In the next area, pick up the *White Herb* and three hidden *Ethers*. Finding these Ethers is actually the solution to the next puzzle. Before we leave the area, talk to the sign in the northwest to get a clue about what to do here. We can't yet get Falinks, but we will return later. Take the warp on the right to the next area.
+
+!battle(["???",:UNKNOWN_1,3], "Dimensional Field")
+
+You'll be taken back to Sashila Village. Head to the inn and enter the room in the back, and agree to sleep. The [routes converge](#hospital-of-ruin) from here.
+
+## Badlands Arc (Expose Flora Route)
+
 !battle(["Miya",:BLADESTAR_F,0])
 
 Board the train outside.
 
 **Relationship Point Choices**:
-- If you exposed Flora, say "You just kidnap people?" (+2 Reina, +1 Huey)
-- If you exposed Flora, say "Yes, it's quite nice." (Neutral)
+- You just kidnap people? (+2 Reina, +1 Huey)
+- Yes, it's quite nice. (Neutral)
 
 !battle(["Beybe",:BLADESTAR_F,0], "Factory Field")
 
@@ -73,9 +200,7 @@ Exit the train into Bladestar HQ. You'll have to choose one Pokemon for a 1v2 fi
 
 !battle(["Risa Raider",:POPSTAR,1], "Factory Field")
 
-TODO: I know there is a story split here but I don't currently have it in me to replay the game again to get all the details of the other split.
-
-## Voidal Chasm
+### Voidal Chasm (Expose Flora Route)
 
 Take the warp to the next area. Grab the two hidden *Ethers*, then attempt to take the warp at the top. Head down and right: you can hop to continue.
 
@@ -91,7 +216,7 @@ Backtrack and take the previous warp at the top. Follow the path down.
 
 Grab the hidden *Ether* and *Old Scarf*, then proceed. Grab *TM148 Phantom Force* and exit to the desert!
 
-## Zorrialyn Desert
+### Zorrialyn Desert (Expose Flora Route)
 
 Activate the Braviary Post here, our first for the Badlands region of Aevium!
 
@@ -145,7 +270,7 @@ We will do the Zorrialyn Labyrinth later on, so head left and down. Grab the hid
 
 Nothing awaits us at the end of the path yet, so head north then west into Sashila Village!
 
-## Sashila Village
+### Sashila Village (Expose Flora Route)
 
 **Relationship Point Choices**:
 - Trust Ren on this. (Neutral)
@@ -161,7 +286,7 @@ Stay on top of the roof and go down and around to the right. Talk to the man her
 
 !img("zcell115.png")
 
-To the right you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *GourmetTreat*. To the left is a hidden *Lemonade*.
+In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *GourmetTreat*. To the left is a hidden *Lemonade*.
 
 To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below. Grab the hidden *HP Up* below.
 
@@ -177,6 +302,8 @@ Head to the top of Sashila Village to talk to the group. Enter the inn towards t
 *Special Scene: The Twin's Fate* requires 3+ Relationship Points with Reina at this point.
 
 ## Hospital of Ruin
+
+*Special Scene: The Twin's Fate* requires 3+ Relationship Points with Reina at this point.
 
 Time for another section where we get to control a different character. Exit your room and leave to the left. Talk to the elevator, and head down the shaft.
 
@@ -379,6 +506,14 @@ Back in Sashila, head out to the Zorrialyn Coast and go up past the Braviary Pos
 A very, very tough singles battle, in no small part thanks to Protean Greninja. Changing STAB on the fly with one of the best speed stats in the game makes it a very tough opponent. On top of this is Aevian Roserade, Flygon, and Corviknight, all immune to the Desert Field's Sandstorm chip, plus Arcanine and Silvally for hard hitting coverage. Take advantage of priority moves to deal with Greninja and utilize the field to your advantage to win this one.
 
 ## Sashila Village Help Quests
+
+It's time for some Quests. Before we get started, if you didn't expose Flora and caught a Falinks in Alamissa Urben, return to the Voidal Chasm. Show Falinks to the sign towards the end of the path to get a *Razor Claw* plus:
+
+**ZCell 119A: Voidal Chasm**
+
+!img("zcell119a.png")
+
+Return to the room where we fought the surfboard guy to find *TM148 Phantom Force* as well as a hidden *Rare Candy* and *Old Scarf*.
 
 It's time for some Help Quests. Enter the door in the middle of Sashila Village, on the left side.
 

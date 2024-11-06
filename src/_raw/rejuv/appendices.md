@@ -170,4 +170,6 @@ The bulk passwords essentially are packs of the above listed passwords - using o
 
 #### The Terajuma Password
 
-TODO
+The Terajuma Password is an interesting one: it starts you off midgame in Chapter 6, as soon as the Xen Ship hits Terajuma Island. This point was likely chosen because the story contains no splits before this point. You will get all the necessary bag items, badges, and story progression flags thrown such that you can continue the playthrough. Most interestingly, you actually will get a pre-built team based on which character profile you go with here, so feel free to experiment with which profile has which Pokemon. These teams have some Pokemon Forms, Mega Stones, etc. that aren't available otherwise!
+
+The other notable thing is that the game defaults you with a massively large or small amount of Karma depending on whether you choose Paragon or Renegade: Plus or minus 100 respectively. That makes this the easiest way to sail into the Renegade Route on a second playthrough. The latter choice also puts -5 Relationship Points on most characters by default.

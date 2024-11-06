@@ -29,7 +29,7 @@ Once you're back at the Obelisk, reenter. Grant Melia access.
 
 You'll awaken in Zeight on the 8th. Talk to Erin in the second room from the right. Before we accept her request and continue .Karma Files... there are a bunch of sidequests that have opened up! Legendary ones!
 
-## Legendary Quests
+## Legendary Quests (Paragon)
 
 While we're in Sashila Village, a new in-game trade has opened up. A girl is at the bottom of the village, just to the right of the bottom-rightmost house. She wants our Toxapex in exchange for a **Magikarp (Aevian)** named Hot Dog! How nice. Talk to the very same Toxapex afterward to give it a small loan of $100,000 to get *10 Pearls*, *3 Big Pearls*, a *Pearl String*, and the *Toxtricitite*!
 
@@ -60,7 +60,9 @@ One piece of good news is that there are only a few spread moves, so using Prote
 
 Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
-### Legendary Wings
+Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse. Have fun with that.
+
+### Legendary Wings (Paragon)
 
 Talk to the scientist with the hood in the League Administration to get the *Legendary Wings* quest. 
 
@@ -72,7 +74,7 @@ Finally, fly over to Teila Resort and follow the path through the Magrodar Crate
 
 Return to the scientist to finish this quest.
 
-### Vivian's Regret
+### Vivian's Regret (Paragon)
 
 Fly to Sheridan and enter Carotos Mountain. Make your way through the Corrupted Cave to the Garufa Sanctuary. 
 
@@ -96,7 +98,7 @@ Destroy the terminal, or don't, then head out of this room.
 
 That wraps up this quest!
 
-### Anju's Quest
+### Anju's Quest (Paragon)
 
 Next, fly to Kristiline and make your way through the Church of Theolia portal to reach the Tower Cellar. Make your way through the wall in order to reach the room that is directly on the right of the entrance - you need to exit the wall, go right, then go right and up in the next room to accomplish this. Use the Darchlight Crystal to create a bridge, then walk into the rift in the next room.
 
@@ -110,7 +112,7 @@ Finally, head up once more to view the scene. You can catch **Regice**!
 
 View one more scene and depart.
 
-### Heart of Iron
+### Heart of Iron (Paragon)
 
 Fly over to Route 9 and make your way over to the Axis High University. Enter the Axis Factory and enter the room immediately on the right and enter the rift.
 
@@ -142,7 +144,7 @@ Finally, fly over to Yui's Ranch and take a Braviary to Honec Woods. Exit Honec 
 
 !img("zcell142.png")
 
-### Parks and Wrecks
+### Parks and Wrecks (Paragon)
 
 For our next quest, fly over to East Gearen City. Make your way to the left backroom of the Lab to talk to Adrienn if you have completed *Reborn Again* and the Neo East Gearen Help Quests to begin a new quest: *Parks and Wrecks*.
 
@@ -150,15 +152,21 @@ Head over to the Magnolia Library, cut the nearby tree, and talk to Adrienn, Aya
 
 To the right you can read a journal. Do the same to the left, then interact with the panel to lower the shutter downstairs.
 
+If Florin is alive:
+
 !battle(["Dr. Jenkel",:MADSCIENTIST,1], "Flower Garden Field")
 
 This fight can catch you off guard - Alcremie and Musharna have decent synergy with the double-field combo of Misty Terrain overlaying Flower Garden Field. Hitting them with super-effective Physical moves is generally going to help you out here: Fire, Poison, and Steel in particular. The Ariados with Crest is a bit of a wildcard but you should be able to take it out with a super-effective move, too.
+
+If Florin is dead:
+
+!battle(["Mr. Hynde",:DIABOLICALGENIUS,1], "Flower Garden Field")
 
 You'll be able to capture **Shaymin** above!
 
 Return to Gearen Lab and talk to Adrienn. That concludes *Parks and Wrecks*!
 
-## Missing Children 3
+## Missing Children 3 (Paragon)
 
 Fly over to Kristiline Town and enter Dylan's house if you have progressed *Missing Children* up to this point.
 
@@ -347,7 +355,7 @@ Head to the Gearen Lab and enter the Developer Area. Downstairs, Zumi will give 
 
 For defeating all three, you will get the *Rillaboomite*, *Cinderacite*, and *Inteleonite*! 
 
-## Continuing .Karma Files
+## Continuing .Karma Files (Paragon)
 
 That wraps up all the sidequest and legendary acquisition for the time being. Fly back to Sashila to continue the Paragon .Karma Files content! Talk to Erin to accept travel to Mika's Coffee.
 
@@ -601,7 +609,7 @@ In the concert hall, you get to press left and right to choose the music. Once y
 - They'd probably laugh. (-1 Amber)
 - Maybe they'd cringe. (+2 Amber)
 
-### End of Night: Obliteration
+### .Karma File: Spacea & Tiempa (Paragon)
 
 In Amberette Town, enter the portal for another gauntlet. Thankfully, you will be fully healed between these two bosses.
 
@@ -625,7 +633,3 @@ After reading the files, head up at the Zorrialyn Coast.
 - It was a good idea. (+1 Crescent)
 
 That is a wrap on the .Karma Files content for the Paragon Route :]
-
-## Post Game Content
-
-Oh, by the way. If you managed to grind your way to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse. Have fun with that.
