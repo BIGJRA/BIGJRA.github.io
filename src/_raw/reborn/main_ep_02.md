@@ -295,7 +295,7 @@ Return to South Obsidia Ward and use your new field move to chop down the tree. 
 
 !battle(["Carter", :StreetRat, 0])
 
-Talk to the kid here - we will reunite him with his mother as soon as we can. Enter the Glazamonia Salon here. Furfrou can later be groomed here, they also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
+Talk to the kid here while the weather is clear - we will reunite him with his mother as soon as we can. Enter the Glazamonia Salon here. Furfrou can later be groomed here, they also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
 
 Back in Obsidia Ward, head up from here. You'll be back in the area in front of the park - we can actually access one more side area before we proceed into the park. At the left end of the ward, down from the Cafe Salon, cut down the tree and go south.
 
@@ -615,11 +615,17 @@ Note that all of the following are custom forms, where the only difference is th
 
 Because these are all separate battles, you can't set up and steamroll the gauntlet. A fast Flying or Psychic type will probably be your best bet here if they can OHKO, though a full team of six can probably take down three Pokemon if the matchups are favorable enough.
 
-After the scenes have concluded, you can get **Comfey**! Add this to your party and take it to Laura in Obsidia Park.
+After the scenes have concluded, you can get **Comfey**! 
+
+**Relationship Point Choices**:
+- Get Comfey with Laura (+1 Laura)
 
 Laura wants to check out three Pokemon total: this Comfey works as one of them. Two more can be pulled from the following list: Ivysaur, Venusaur, Gloom, Vileplume, Bellossom, Meganium, Skiploom, Cherrim, Maractus, Roselia, Roserade, Flabebe, Floette, Florges, Shaymin, Aromatisse, Munna, Deerling, Sawsbuck (Spring), Wormadam (Plant), and Lilligant. At this point in the game though, we don't have most of these: unless you picked Bulbasaur as a starter, the easiest Pokemon to get at this point are **Gloom**, **Roselia**, and **Skiploom**, all obtained via evolution.
 
 Completing this quest rewards you with the *Rainbow Scent*, an item that controls the rate at which wild Pokemon are attracted to you, as well as a **Petilil**!
+
+**Relationship Point Choices**:
+- Complete the Rainbow Scent quest (+1 Laura, +1 Saphira)
 
 ## Grand Hall Trainers 2
 

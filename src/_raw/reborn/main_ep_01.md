@@ -527,7 +527,7 @@ Read the nearby terminal, which shows XXX9. Read the other two terminals nearby 
 **Relationship Point Choices**:
 - Push the same elevator button as the floor you are on (-1 Fern)
 
-On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get an *Exp. Candy S*. Back in the main room, head out to the right and cross the bridge.
+On the second floor, Rini will start us off with part of the second password: XX6X. Before we proceed, head out the door on the bottom right and follow the path to get a *Data Chip*! Back in the main room, head out to the right and cross the bridge.
 
 !dbattle(["Winter", :MeteorGrunt, 0], ["Michaela", :MeteorGrunt_090, 0], "Factory Field")
 

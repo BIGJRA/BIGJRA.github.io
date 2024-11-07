@@ -278,7 +278,7 @@ The other major thing we can do now in Reborn City is to head on over to Onyx Wa
 
 Take the Coral Ward boat to Apophyll. Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**.
 
-Finally, head all the way back through the railnet and the forest to Spinel Town. Talk to the museum curator to get your choice of *Plume Fossil* or *Armor Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
+Finally, head all the way back through the railnet and the forest to Spinel Town. Talk to the museum curator to get your choice of *Plume Fossil* or *Cover Fossil*, which you can revive for **Archen** or **Tirtouga** respectively.
 
 ## Rime Badge
 

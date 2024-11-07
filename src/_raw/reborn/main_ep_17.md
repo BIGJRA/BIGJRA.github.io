@@ -62,7 +62,7 @@ Once you succeed, your next destination will be the Water Treatment Center.
 
 These things are tough but a powerful Ground type sweeper can probably do the trick. Once you win, Sandy will leave.
 
-While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond.
+While we're down here, we can use the GUM Key that we got earlier. In the upper-right hand side of the Central Obsidia Water Grid you'll notice a locked door which we can now open. There is a puzzle beyond. There are a few hidden items in this room: *Dusk Ball*, *5 Exp. Candy XL*, and *Ether*.
 
 Essentially, we will need to move green sections of pipe into place so that they will complete the entire pipe circuit such that we end up in the upper right hand corner. This is a fun one to solve yourself, in my opinion, but here is a solution:
 

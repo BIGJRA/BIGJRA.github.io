@@ -152,7 +152,7 @@ Talk to Randall in the Nightclub, and accept his quest. Fly over to the Victory 
 
 Enter Victory Road, then follow Victini up. Enter the room directly up, and follow Bennett into the next room... I audibly gasped when I saw what was next.
 
-Another LOGIC PUZZLE! As always, I will recommend using the <a href="resources\vr_logic_puzzle_sheets.xlsx">spreadsheet</a>.
+Another LOGIC PUZZLE! As always, I will recommend using the [spreadsheet](..\assets\vr_logic_puzzle_sheets.xlsx).
 
 The clues:
 

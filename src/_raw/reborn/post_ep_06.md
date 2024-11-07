@@ -196,7 +196,7 @@ Back in the center, add the Shock Drive to the Douse Drive and Chill Drive alrea
 
 !img("zcell_43.jpg")
 
-Make your way back to the center. Remove the Shock Drive, make sure the Burn, Chill, and Douse Drives are inserted, then make your way around the bottom, up the left side, and to the top of the room (path 15). You'll find a **Genesect** to catch up here!
+Make your way back to the center. Remove the Shock Drive and Burn Drive, make sure the Chill and Douse Drives are inserted, then make your way around the bottom, up the left side, and to the top of the room (path 15). You'll find a **Genesect** to catch up here!
 
 Make your way back to the center of the room, remove the remaining Drives, then exit at the bottom. Talk to Aya to view a scene, then go to the right. On Lin Route, you'll have an extra straightforward step to do here. Return to the Nightclub!
 

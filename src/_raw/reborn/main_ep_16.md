@@ -782,9 +782,9 @@ You can pick up a *Devon Scope Model* as well as the *Electric Memory* and *TM81
 
 Exit Devon and enter the Silph building. Talk to the lady here to get the *Silvon Scope*!
 
-Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get stopped by one feel free to destroy it for being in the way. Enter Rhodochrine Jungle next and make your way down to the Underroot.
+Fly on over to the Beryl Ward. We can finally expose Kecleon, so if you ever get stopped by one feel free to destroy it for being in the way. Enter Rhodochrine Jungle next. If you head all the way to the west of the jungle to the cage where we potentially were once caught by Nuzleaf, you can get a *Dread Plate*. 
 
-Head left underneath the waterfall, and continue going left until you run into *TM33 Reflect*!
+Next, make your way down to the Underroot. Head left underneath the waterfall, and continue going left until you run into *TM33 Reflect*!
 
 !enc(153, ["Surfing", "Fishing"], ["Super"])
 

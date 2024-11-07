@@ -197,7 +197,7 @@ In item balls you can find the *Oval Charm*, and *Dragon Memory*. Hidden on the 
 
 The NPC in the top right will do an in-game trade: your Ledian for his **Shieldon**.
 
-!enc(31)
+!enc(31, ["Cave"])
 
 On the second floor you can find in item balls *Exp. Candy L*, *Water Stone*, and *Zoom Lens*, while hidden items include *Red Shard*, *Ether*, *Potion*, *Paralyze Heal*, and *Burn Heal*.
 
