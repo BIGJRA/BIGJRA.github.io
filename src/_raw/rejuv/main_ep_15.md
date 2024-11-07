@@ -1023,3 +1023,5 @@ Next, return to Sashila, and enter the second room on the right to talk to Cresc
 - None of your business. (Crescent -4)
 
 Then enter the leftmost room to talk to the group.
+
+From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm. 
