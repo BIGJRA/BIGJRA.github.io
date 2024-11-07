@@ -7,7 +7,9 @@ UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
-VERSIONS = { 'reborn' => "19.5.0" }
+VERSIONS = { 'reborn' => "19.5.0" , 'rejuv' => "13.5.6"}
+
+LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation'}
 
 FIELDS = {
   RANDOM: 'Random Field',
@@ -51,15 +53,122 @@ FIELDS = {
   STARLIGHT: 'Starlight Arena',
   NEWWORLD: 'New World',
   INVERSE: 'Inverse Field',
-  PSYTERRAIN: 'Psychic Terrain'
+  PSYTERRAIN: 'Psychic Terrain',
+  VOLCANIC: 'Volcanic Field',
+  VOLCANICTOP: 'Volcanic Top',
+  DIMENSIONAL: 'Dimensional Field',
+  FROZENDIMENSION: 'Frozen Dimensional Field',
+  HAUNTED: 'Haunted Field',
+  CORRUPTED: 'Corrupted Cave',
+  BEWITCHED: 'Bewitched Woods',
+  SKY: 'Sky Field',
+  COLOSSEUM: 'Colosseum',
+  INFERNAL: 'Infernal Field',
+  CONCERT1: 'Concert Venue',
+  CONCERT2: 'Concert Venue',
+  CONCERT3: 'Concert Venue',
+  CONCERT4: 'Concert Venue',
+  DEEPEARTH: 'Deep Earth',
+  BACKALLEY: 'Backalley',
+  CITY: 'City',
 }
-
-SECTIONS = { 'reborn' => [['main', 19], ['post', 9], ['appendices', 1]], 'rejuv' => [['main', 15]] }
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
               GoodRod: 'goodrod', SuperRod: 'superrod' }
 
 EV_ARRAY = %w[HP Atk Def SpA SpD Spe]
+
+ENCOUNTER_MAPS = {
+  RATTATA: { 1 => 'Rattata' },
+  RATICATE: { 1 => 'Rattata' },
+  SANDSHREW: { 1 => 'Sandshrew' },
+  SANDSLASH: { 1 => 'Sandshrew' },
+  VULPIX: { 1 => 'Vulpix' },
+  NINETALES: { 1 => 'Vulpix' },
+  DIGLETT: { 1 => 'Diglett' },
+  DUGTRIO: { 1 => 'Diglett' },
+  MEOWTH: { 1 => 'Rattata', 2 => 'Meowth' },
+  PERSIAN: { 1 => 'Rattata', 2 => 'Meowth' },
+  GEODUDE: { 1 => 'Geodude' },
+  GRAVELER: { 1 => 'Geodude' },
+  GOLEM: { 1 => 'Geodude' },
+  GRIMER: { 1 => 'Grimer' },
+  MUK: { 1 => 'Grimer' },
+  MAROWAK: { 1 => 'Cubone' },
+  MRMIME: { 1 => 'MrMime' },
+  DARUMAKA: { 1 => 'Darumaka' },
+  PONYTA: { 1 => 'Ponyta' },
+  RAPIDASH: { 1 => 'Ponyta' },
+  SLOWPOKE: { 1 => 'Slowpoke' },
+  SLOWBRO: { 1 => 'Slowpoke' },
+  SLOWKING: { 1 => 'Slowpoke' },
+  FARFETCHD: { 1 => 'Farfetchd' },
+  WEEZING: {1 => 'Weezing' },
+  EXEGGUTOR: {1 => 'Exeggutor' },
+  ZIGZAGOON: { 1 => 'Zigzagoon' },
+  LINOONE: { 1 => 'Zigzagoon' },
+  YAMASK: { 1 => 'YamaskSpawn' },
+  STUNFISK: { 1 => 'Stunfisk' },
+  CORSOLA: { 1 => 'Corsola' },
+  GROWLITHE: { 1 => 'Growlithe' },
+  ARCANINE: { 1 => 'Growlithe' },
+  VOLTORB: { 1 => 'Voltorb' },
+  ELECTRODE: { 1 => 'Voltorb' },
+  TYPHLOSION: { 1 => 'Typhlosion' },
+  QWILFISH: { 1 => 'Qwilfish' },
+  SNEASEL: { 1 => 'Sneasel' },
+  SAMUROTT: { 1 => 'Samurott' },
+  LILLIGANT: { 1 => 'Lilligant' },
+  BASCULIN: { 2 => 'Basculin' },
+  ZORUA: { 1 => 'Zorua' },
+  ZOROARK: { 1 => 'Zorua' },
+  BRAVIARY: { 1 => 'Braviary' },
+  SLIGGOO: { 1 => 'Sliggoo' },
+  GOODRA: { 1 => 'Sliggoo' },
+  AVALUGG: { 1 => 'Avalugg' },
+  DECIDUEYE: { 1 => 'Decidueye' },
+  PARAS: { 1 => 'Paras' },
+  PARASECT: { 1 => 'Paras' },
+  MAGIKARP: { 1 => 'Magikarp' },
+  GYARADOS: { 1 => 'Magikarp' },
+  MISDREAVUS: { 1 => 'Misdreavus' },
+  MISMAGIUS: { 1 => 'Misdreavus' },
+  SHROOMISH: { 1 => 'Shroomish' },
+  BRELOOM: { 1 => 'Shroomish' },
+  FEEBAS: { 1 => 'Feebas' },
+  MILOTIC: { 1 => 'Feebas' },
+  SNORUNT: { 1 => 'Snorunt' },
+  GLALIE: { 1 => 'Snorunt' },
+  FROSLASS: { 1 => 'Snorunt' },
+  MUNNA: { 1 => 'Munna' },
+  MUSHARNA: { 1 => 'Munna' },
+  SIGILYPH: { 1 => 'Sigilyph' },
+  LITWICK: { 1 => 'Litwick' },
+  LAMPENT: { 1 => 'Litwick' },
+  CHANDELURE: { 1 => 'Litwick' },
+  BUDEW: { 1 => 'Budew' },
+  ROSELIA: { 1 => 'Budew' },
+  ROSERADE: { 1 => 'Budew' },
+  BRONZOR: { 1 => 'Bronzor' },
+  BRONZONG: { 1 => 'Bronzor' },
+  SHELLOS: { 2 => 'AevShellos', 3 => 'AevShellos' },
+  GASTRODON: { 2 => 'AevShellos', 3 => 'AevShellos' },
+  TOXTRICITY: { 1 => 'Toxtricity' },
+  JANGMOO: { 1 => 'Jangmoo' },
+  HAKAMOO: { 1 => 'Jangmoo' },
+  KOMMOO: { 1 => 'Jangmoo' },
+  WIMPOD: { 1 => 'Wimpod' },
+  GOLISOPOD: { 1 => 'Wimpod' },
+  LARVESTA: { 1 => 'Larvesta' },
+  VOLCARONA: { 1 => 'Larvesta' },
+  SEWADDLE: { 1 => 'Sewaddle' },
+  SWADLOON: { 1 => 'Sewaddle' },
+  LEAVANNY: { 1 => 'Sewaddle' },
+  MAREEP: { 1 => 'Mareep' },
+  FLAAFFY: { 1 => 'Mareep' },
+  AMPHAROS: { 1 => 'Mareep' },
+  LAPRAS: { 1 => 'Lapras' }
+}
 
 REBORN_THEME_TEAMS = [
   { number: 1, trainer: 'Julia', name: 'Boss Rush', teamnumber: 10, field: :ELECTERRAIN, doubles: false },
@@ -313,18 +422,29 @@ REBORN_BT_DOUBLES = [
   [:POACHERB, 'Breslin', 2000, :STARLIGHT]
 ]
 
-def get_game_contents_dir(game)
-  File.join(ROOT_DIR, '_raw', game)
+PICKUP_ODDS = [30, 10, 10, 10, 10, 10, 10, 4, 4, 1, 1]
+
+module PBStats
+  ATTACK = "Atk"
+  DEFENSE = "Def"
+  SPATK = "SpA"
+  SPDEF = "SpD"
+  SPEED = "Spe"
+  EVASION = "Eva"
+  ACCURACY = "Acc"
 end
 
-def load_chapter_md(game, type, chapter_num)
+def get_game_contents_dir(game)
+  File.join(ROOT_DIR, 'src', '_raw', game)
+end
+
+def load_chapter_md(game, chapter_type, chapter_num)
   game_contents_dir = get_game_contents_dir(game)
-  file_path = if type != 'appendices'
-                File.join(game_contents_dir, "#{type}_ep_#{chapter_num.to_s.rjust(2, '0')}.md")
-              else
-                File.join(game_contents_dir, 'appendices.md')
-              end
-  File.read(file_path)
+  path = case chapter_type
+    when "appendices" then File.join(game_contents_dir, "#{chapter_type}.md")
+    else File.join(game_contents_dir, "#{chapter_type}_ep_#{chapter_num.to_s.rjust(2, '0')}.md")
+  end
+  return File.read(path) if File.exist?(path)
 end
 
 def set_to_range_string(integers_set)
@@ -359,6 +479,12 @@ def load_trainer_hash(game, scripts_dir)
     ret[trainer_hash[:teamid]] = trainer_hash
   end
   ret
+end
+
+def load_boss_hash(game, scripts_dir)
+  return {} if game == "reborn"
+  data = File.read(File.join(scripts_dir, game.capitalize, 'BossInfo.rb'))
+  return eval(data)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
@@ -430,10 +556,48 @@ def load_maps_hash(game, scripts_dir)
 
     key = match[1].to_i
     comment_line = lines[index - 1]
-    name = comment_line.match(/#(.+)/)[1].strip
-    ret[key] = name
+    if comment_line.match(/#(.+)/) == nil
+      ret[key] = "NAME MISSING"
+    else
+      name = comment_line.match(/#(.+)/)[1].strip
+      ret[key] = name
+    end
   end
   ret
+end
+
+def load_pickup_data(game, scripts_dir)
+  file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
+
+  normal_pickup_match = file_contents.match(/PickupNormal\s*=\s*\[(.*?)\]/m)
+  rare_pickup_match = file_contents.match(/PickupRare\s*=\s*\[(.*?)\]/m)
+
+  normal_pickup = normal_pickup_match[1].split(',').map { |item| item.strip.tr(':', '').to_sym }
+  rare_pickup = rare_pickup_match[1].split(',').map { |item| item.strip.tr(':', '').to_sym }
+
+  item_data = {}
+  # Sample: :GREATBALL => {30 => [11, 20], 10 => [1, 10]}
+
+  (0..9).each do |i|
+    items = normal_pickup[i, 9] + rare_pickup[i, 2]
+
+    min_level, max_level = i * 10 + 1, (i + 1) * 10
+
+    items.each_with_index do |item, idx|
+      odds = PICKUP_ODDS[idx]
+
+      item_data[item] ||= {}
+
+      if item_data[item][odds]
+        existing_range = item_data[item][odds]
+        item_data[item][odds] = [existing_range[0], max_level]  # Update to new max level
+      else
+        item_data[item][odds] = [min_level, max_level]
+      end
+    end
+  end
+
+  item_data.map { |item, odds| [item, odds.sort.reverse] }
 end
 
 def hp_str(move, hptype)
@@ -443,41 +607,152 @@ def hp_str(move, hptype)
   " (#{hptype.to_s.capitalize!})"
 end
 
+def get_iv_str(ivs)
+  return 'IVs: All 10' if !ivs
+  return ivs == 32 ? 'IVs: All 31 (0 Spe)' : "IVs: All #{ivs}" if ivs.class == Integer
+  return "IVs: All #{ivs[0]}" if (ivs && ivs.uniq.length == 1)
+  return 'IVs: ' + ivs.zip(EV_ARRAY).reject do |iv, _|
+    iv.zero?
+  end.map { |iv, position| "#{iv} #{position}" }.join(', ')
+end
+
+def get_ev_str(evs, level=0)
+  return "EVs: All #{[85, level * 3 / 2].min}" if !evs
+  return "EVs: All #{evs[0]}" if (evs && evs.uniq.length == 1)
+  return 'EVs: ' + evs.zip(EV_ARRAY).reject do |ev, _|
+                ev.zero?
+              end.map { |ev, position| "#{ev} #{position}" }.join(', ')
+end
+
+def is_custom_form(form_key)
+  return false if !form_key
+  form_frags = ["pulse", "rift", "aevian form", "bot", 
+               "purple", "crystal", "mismageon", "meech",
+               "dev", "crescent", "solrock", "lunatone", 
+               "west aevian form", "east aevian form", "tuff puff",
+               "angel of death", "dark gardevoir", "fallen angel",
+               "amalgamation", "goomink", "kawopudunga", "coffee gregus",
+               "hand of", "nightmare", "nanodrive", "guardian", "tazer",
+               "karma beast"]
+  form_frags.any? { |key| form_key.downcase.include?(key) }
+end
+
+def load_raid_den_hash(game, scripts_dir)
+  return {} if game == "reborn"
+  data = File.read(File.join(scripts_dir, game.capitalize, 'RaidDens.rb'))
+
+  mon_info = {}
+  dens = {}
+  current_den = nil
+  current_rarity = nil
+  current_badge = nil
+  current_pokemon = nil
+
+  found_encounter_block = false
+
+  badge_levels = {
+    4 => 35,
+    8 => 50,
+    12 => 65,
+    16 => 80,
+    18 => 95
+  }
+
+
+  data.each_line do |line|
+    # Check if we are in the encounterTable function
+    if line.include?("encounterTable")
+      found_encounter_block = true
+      next
+    end
+
+    if !found_encounter_block
+      # Processing denEncounters function
+
+      # Match Pokémon definitions
+      if line =~ /:\s*(?<pokemon>\w+)\s*=>\s*{/  # Ensure to match the opening brace
+        current_pokemon = $~[:pokemon].to_sym
+        mon_info[current_pokemon] ||= {}  # Initialize a new hash for this Pokémon
+
+      elsif current_pokemon && line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?)(?:,\n|\n)/m # Only process attributes if a Pokémon has been defined
+        att_name = $~[:att].to_sym
+        values = eval($~[:values].strip)
+
+        # Assign the attribute to the current Pokémon's hash
+        mon_info[current_pokemon][att_name] = values
+      end
+
+    elsif found_encounter_block
+      # Processing encounterTable function
+
+      # Match den definitions
+      break if line =~ /when "Beldum"/ 
+      if line =~ /when\s+"(?<den>Den\d+)(Rare)?"/
+        current_den = $~[:den]
+        current_rarity = line.include?("Rare") ? :rare : :common
+        dens[current_den] ||= { common: {}, rare: {} }
+      end
+
+      # Match game switch lines
+      if line =~ /\$game_switches\[:Gym_(\d+)\]/
+        current_badge = $1.to_i
+        dens[current_den][current_rarity][current_badge] ||= {}
+      end
+
+      # Match encounter lines
+      if line =~ /:(?<pokemon>\w+)\s*=>\s*{/
+        current_pokemon = $~[:pokemon].to_sym
+        dens[current_den][current_rarity][current_badge][current_pokemon] ||= mon_info[current_pokemon]
+        dens[current_den][current_rarity][current_badge][current_pokemon][:level] = badge_levels[current_badge]
+        if current_pokemon == :BELDUM
+          dens[current_den][current_rarity][current_badge][current_pokemon][:level] = 20
+        end
+      end
+
+      if line =~ /:weight => (?<weight>.*)\n/
+        dens[current_den][current_rarity][current_badge][current_pokemon][:weight] = eval($~[:weight]) 
+      end
+    end
+  end
+
+  dens.each do |den, rarities|
+    rarities.each do |rarity, badges|
+      badges.each do |badge, pokemons|
+        total_weight = pokemons.values.map { |p| p[:weight] || 0 }.sum
+
+        pokemons.each do |pokemon, attributes|
+          if total_weight > 0
+            # Calculate odds as a percentage and format to 2 decimal places
+            attributes[:odds] = ((attributes[:weight] / total_weight.to_f) * 100).round(2)
+          else
+            attributes[:odds] = 0.0  # Handle case where total_weight is zero
+          end
+        end
+      end
+    end
+  end
+  dens
+end
+
+
 class EncounterMapWrapper
   def initialize(game, scripts_dir)
     @data = {}
     parse_file(game, scripts_dir)
-    case game
-    when 'reborn' then @encounterMaps = {
-      RATTATA: { 1 => 'Rattata' },
-      RATICATE: { 1 => 'Rattata' },
-      SANDSHREW: { 1 => 'Sandshrew' },
-      SANDSLASH: { 1 => 'Sandshrew' },
-      VULPIX: { 1 => 'Vulpix' },
-      NINETALES: { 1 => 'Vulpix' },
-      DIGLETT: { 1 => 'Diglett' },
-      DUGTRIO: { 1 => 'Diglett' },
-      MEOWTH: { 1 => 'Rattata' },
-      PERSIAN: { 1 => 'Rattata' },
-      GEODUDE: { 1 => 'Geodude' },
-      GRAVELER: { 1 => 'Geodude' },
-      GOLEM: { 1 => 'Geodude' },
-      GRIMER: { 1 => 'Grimer' },
-      MUK: { 1 => 'Grimer' },
-      MAROWAK: { 1 => 'Cubone' }
-    }
-    when 'rejuv' then {}
-    end
+
+    @encounterMaps = ENCOUNTER_MAPS
   end
 
   def get_enc_maps(pokemon_symbol)
+    return {} unless @encounterMaps
     form_data = @encounterMaps[pokemon_symbol]
     return {} unless form_data
 
     form_number = form_data.keys.first
     mon_name = form_data.values.first
     result = {}
-    @data[mon_name].each { |num| result[num] = form_number }
+    
+    @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
     result
   end
 

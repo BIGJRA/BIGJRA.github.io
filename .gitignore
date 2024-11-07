@@ -9,3 +9,5 @@ vendor
 dummy*
 _*.md
 src/reborn.md
+src/rejuv.md
+*old.md*

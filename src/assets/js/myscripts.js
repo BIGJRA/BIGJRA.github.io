@@ -1,3 +1,23 @@
+// Check initial mode preference
+if (localStorage.getItem("nightMode") === "enabled") {
+  document.body.classList.add("night-mode");
+  document.getElementById("nightModeIcon").src = "/assets/images/night.png";
+}
+
+// Toggle mode and icon
+document.getElementById("nightModeToggle").addEventListener("click", function() {
+  document.body.classList.toggle("night-mode");
+  
+  // Change icon based on mode
+  const icon = document.getElementById("nightModeIcon");
+  if (document.body.classList.contains("night-mode")) {
+    icon.src = "/assets/images/night.png";
+    localStorage.setItem("nightMode", "enabled");
+  } else {
+    icon.src = "/assets/images/day.png";
+    localStorage.setItem("nightMode", "disabled");
+  }
+});
 
 
 $(document).ready(function () {

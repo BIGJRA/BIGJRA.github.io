@@ -9,7 +9,7 @@ class EncounterGetter
     @encHash = enc_hash ||= load_enc_hash(game, scripts_dir)
     @mapHash = map_names ||= load_maps_hash(game, scripts_dir)
     @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game, scripts_dir)
-    @monHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
+    @pokemonHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
     @encStore = Set[]
   end
 
@@ -18,11 +18,16 @@ class EncounterGetter
     rods ||= %w[Old Good Super]
 
     data = @encHash[map_id]
+
+    # Annoyingly, sometimes there is Land and there is LandNight. Need to transfer it.
+    data[:LandMorning] = data[:Land] if (data[:Land] && !data[:LandMorning])
+    data[:LandDay] = data[:Land] if (data[:Land] && !data[:LandDay])
+    data[:LandNight] = data[:Land] if (data[:Land] && !data[:LandNight])
+    
     map_name = @mapHash[map_id]
 
     enc_groups = {
       "Grass": %i[LandMorning LandDay LandNight],
-      "Land": [:Land],
       "Cave": [:Cave],
       "Surfing": [:Water],
       "Headbutt": [:Headbutt],
@@ -138,14 +143,14 @@ class EncounterGetter
         # Add Pokemon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
 
-        base_form = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
-        pokemon_name_formatted = @monHash[mon][base_form][:name]
+        base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
 
         if @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
           form = @encMapWrapper.get_enc_maps(mon)[map_id]
-          form_key = @monHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
+          form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
 
-          pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
+          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
         end
 
         # Bold if not detected in hash so far

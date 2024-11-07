@@ -62,6 +62,7 @@ class ShopGetter
       price = "$#{price}" if price.is_a?(Integer)
       td_price = doc.create_element('td', style: 'text-align: center')
       td_price.content = price
+      raise "Missing price for item #{item}" if price == '' 
       content_row.add_child(td_price)
     end
 
@@ -74,7 +75,7 @@ class ShopGetter
   def load_price_lookup
     prices = {}
     @itemHash.each do |_symbol, contents|
-      prices[contents[:name]] = contents[:price]
+      prices[contents[:name].gsub("é", "e")] = contents[:price]
     end
     prices
   end

@@ -61,8 +61,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - _raw/
+  - "*_raw/"
   - _utils/
-  - TODO.md
   - "*.rb"
   - README.md
