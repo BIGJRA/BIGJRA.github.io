@@ -194,6 +194,6 @@ Aya is another difficult doubles gym leader. For one, the field boosts her all-t
 The key to this battle in my experience is letting Toxapex hang out on the left side, especially if you can lower its Special Attack or put it to sleep.  Toxapex does have Merciless which is always on, but still doesn't hit incredibly hard and will probably be going last unless it has gotten off a lot of Icy Wind. With two moves per turn focusing on the Pokemon to its right, you may be able to preserve momentum long enough to come out on top. For that reason, putting Psychic type attackers, and/or Steel/Poison type defenders on the field and letting them tank attacks and knock out the threats will probably pay out. Ice is also a pretty good offensive type here, note that Freeze Dry can take four of her Pokemon super-effectively and the other two neutrally. You can also use your own entry hazard spam, standard doubles strategies like Wide Guard and Protect, or the Telluric seed to boost a sweeper.
 
 **Relationship Point Choices**:
-- Beat Aya on the first try (+1 Hardy, +1 Fern)
+- Beat Aya on the first try (-1 Hardy, -1 Fern)
 
 Once you win you'll get the *Blight Badge*, *TM34 Sludge Wave*, and get a Level 50 cap finally. We also get to use Strength in the field, finally!
