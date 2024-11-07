@@ -54,6 +54,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -292,25 +293,30 @@ Full-Width Styles
   gap: 10px;
 }
 
-#banners a {
+#banners a,
+#banners button {
   display: flex;
   align-items: center;
   text-decoration: none;
-  padding: 0px 10px 0px 0px;
   color: #fff;
   font-weight: 700;
   border-radius: 15px;
 }
 
-#banners a img{
+#banners a {
+  padding: 0px 10px 0px 0px;
+}
+
+#banners a img,
+#banners button img {
   box-shadow: none;
   border: none;
+  margin: 0px;
 }
 
 .banner-icon {
   height: 24px;
   width: auto;
-  margin-right: 10px;
 }
 
 #discord_banner {
@@ -332,6 +338,30 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 10px;
+}
+
+#nightModeToggle {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the icon horizontally */
+  background-color: #4a4a4a; /* Neutral color */
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 0;
+  border-radius: 50%;      /* Make it circular */
+}
+
+#nightModeToggle:hover {
+  background-color: #5a5a5a;
+}
+
+#nightModeIcon {
+  height: 24px;
+  width: auto;
+  transition: transform 0.3s ease;
 }
 
 #project_title {
@@ -593,4 +623,46 @@ div#quote p {
 
 .portfolio-item-container h1 {
   text-align: center;
+}
+
+
+/* Night Mode Styles */
+body.night-mode {
+  background: #121212;
+  color: #f5f5f5;
+}
+
+body.night-mode #main_content_wrap {
+  background: #121212
+}
+
+body.night-mode #title-text {
+  color: #f5f5f5
+}
+
+body.night-mode a {
+  color: #bb86fc;
+}
+
+body.night-mode h1, 
+body.night-mode h2, 
+body.night-mode h3, 
+body.night-mode h4, 
+body.night-mode h5, 
+body.night-mode h6 {
+  color: #ffffff;
+}
+
+body.night-mode footer p {
+  color: #e0e0e0;
+}
+
+body.night-mode footer a {
+  color: #bb86fc;
+}
+
+body.night-mode table, 
+body.night-mode th, 
+body.night-mode td {
+  border-color: #424242;
 }
