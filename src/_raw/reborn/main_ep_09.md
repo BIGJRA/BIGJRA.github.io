@@ -3,6 +3,8 @@
 **Relationship Point Choices**:
 - Talk to Serra on the couch after the battle (+1 Serra)
 
+Now that the Pokemart is gone from the roof, head upstairs and walk out onto said roof. You'll find a *Mirror Lure* here! This item, when held by a lead Pokemon, will force encounters to match the species of your lead if applicable. Useful for shiny hunting or catching dupes with better IVs or to save on Mints and Ability Capsules.
+
 Exit the gym.
 
 ## Two Herbal Extracts

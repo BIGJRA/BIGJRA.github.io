@@ -107,6 +107,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **aiplay / battlepalace / nocontrol**: The game will control your Pokemon's actions using opponent AI.
 - **snagmachine / monosteal / yoink**: Allows the player to steal 1 Pokemon per opponent trainer (no PULSEs). *Disables online trading*.
 - **speedskip**: Speeds up certain battle messages.
+- **basiceggs**: Eggs now again use the classic generic sprite instead of species-specific sprites.
 - **randomizer / random / randomized / randomiser / randomised**: Allows the player to choose randomized settings including trainers, wild Pokemon, TMs, items, and more! *Disables online battling and trading.*
 
 ### Field Effect Passwords
