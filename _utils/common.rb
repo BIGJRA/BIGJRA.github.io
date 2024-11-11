@@ -62,15 +62,15 @@ FIELDS = {
   CORRUPTED: 'Corrupted Cave',
   BEWITCHED: 'Bewitched Woods',
   SKY: 'Sky Field',
-  COLOSSEUM: 'Colosseum',
+  COLOSSEUM: 'Colosseum Field',
   INFERNAL: 'Infernal Field',
   CONCERT1: 'Concert Venue',
   CONCERT2: 'Concert Venue',
   CONCERT3: 'Concert Venue',
   CONCERT4: 'Concert Venue',
-  DEEPEARTH: 'Deep Earth',
-  BACKALLEY: 'Backalley',
-  CITY: 'City',
+  DEEPEARTH: 'Deep Earth Field',
+  BACKALLEY: 'Back Alley Field',
+  CITY: 'City Field',
 }
 
 TYPE_IMGS = { LandMorning: 'morning', LandDay: 'day', LandNight: 'night', OldRod: 'oldrod',
@@ -748,11 +748,10 @@ class EncounterMapWrapper
     form_data = @encounterMaps[pokemon_symbol]
     return {} unless form_data
 
-    form_number = form_data.keys.first
-    mon_name = form_data.values.first
     result = {}
-    
-    @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
+    form_data.each do |form_number, mon_name|
+      @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
+    end
     result
   end
 

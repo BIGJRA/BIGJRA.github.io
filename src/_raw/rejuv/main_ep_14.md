@@ -2,6 +2,15 @@
 
 You'll find yourself in New Game with Zetta again. Start the game, then talk to the characters. Talk next to the black piece below.
 
+If you have been progressing New Game+ so far, you will battle a Pokemon here:
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    You can obtain <strong>Delpha</strong> the <strong>Delphox</strong>!
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click to reveal the final New Game+ reward!</a>
+</div>
+
 ## Nastasia's Ship
 
 Talk to the group in the meeting room of Nastasia's ship.
