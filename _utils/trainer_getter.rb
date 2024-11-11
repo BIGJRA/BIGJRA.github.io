@@ -401,7 +401,10 @@ class TrainerGetter
                 eff_strs.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
               end
               if act[:playerEffects]
-                if act[:playerEffects].class == Array
+                if act[:playerEffects] == [:FutureSight,:FutureSightMove]
+                  turns, move = act[:playerEffectsduration]
+                  eff_strs.push("#{ts}Effect added to player's side: #{@moveHash[move][:name]} impacting in #{turns} turns") 
+                elsif act[:playerEffects].class == Array
                   eff_strs.push("#{ts}Effects added to player side: #{act[:playerEffects][0].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
                 else
                   eff_strs.push("#{ts}Effect added to player side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
