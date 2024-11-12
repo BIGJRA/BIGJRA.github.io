@@ -497,6 +497,16 @@ It doesn't have a way to counter any status conditions or stat drops of yours ho
 
 Not tough compared to the previous fight, thankfully.
 
+### New Game+ Nightmare Remix
+
+If you have progressed in New Game+ thus far and have the Puppet Doubloon, instead of Gardevoir, you will fight the Nightmare Remix instead:
+
+!partner(["Ren",:OUTCAST,0])
+
+!boss("NIGHTMAREREMIX", "Starlight Arena")
+
+## VS Ren in Sashila Village
+
 Once you get control back, head to Nymiera's house once again. Push the button on the back of the bookcase!
 
 Back in Sashila, head out to the Zorrialyn Coast and go up past the Braviary Post to the Field of Pillars. Talk to Alexandra in front of the obelisk. After the scene, we're gonna head west across the bridge for a battle with Ren! At least we're familiar with his team.

@@ -237,7 +237,10 @@ class TrainerGetter
             mon_details_parts.push("Immunities to field damage: #{fields.join(", ")}") 
           end
         end
-        boss_data[:onBreakEffects].keys.sort.reverse.each do |shield_count|
+        sorted_keys = boss_data[:onBreakEffects].keys.sort_by do |key|
+          key >= 0 ? [-1, -key] : [1, key]
+        end
+        sorted_keys.each do |shield_count|
           effs = boss_data[:onBreakEffects][shield_count]         
           if shield_count == 100
             result = "On Entry: \n"  
@@ -381,6 +384,9 @@ class TrainerGetter
               else
                 ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
               end
+              if act[:fieldChange]
+                eff_strs.push("#{ts}Field becomes #{FIELDS[act[:fieldChange]]}") 
+              end
               if act[:playerSideStatChanges]
                 groups = {}
                 act[:playerSideStatChanges].each do |stat, lvl|
@@ -391,8 +397,14 @@ class TrainerGetter
                   eff_strs.push("#{ts}Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
                 end
               end
+              if act[:playerSideStatusChanges]
+                eff_strs.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
+              end
               if act[:playerEffects]
-                if act[:playerEffects].class == Array
+                if act[:playerEffects] == [:FutureSight,:FutureSightMove]
+                  turns, move = act[:playerEffectsduration]
+                  eff_strs.push("#{ts}Effect added to player's side: #{@moveHash[move][:name]} impacting in #{turns} turns") 
+                elsif act[:playerEffects].class == Array
                   eff_strs.push("#{ts}Effects added to player side: #{act[:playerEffects][0].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
                 else
                   eff_strs.push("#{ts}Effect added to player side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
@@ -411,9 +423,7 @@ class TrainerGetter
               if act[:bossEffect]
                 eff_strs.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
               end
-              if act[:playerSideStatusChanges]
-                eff_strs.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
-              end
+
               if act[:typeSequence]
                 typeCycles = []
                 act[:typeSequence].each do |num, obj|
@@ -429,7 +439,6 @@ class TrainerGetter
               end
             end
           end
-
           result += "- #{eff_strs.join("\n- ")}"
           shield_break_details.push(result)
         end
@@ -579,6 +588,10 @@ class TrainerGetter
             else
               ts = "After #{tc} turn#{tc == 1 ? "" : "s"}: "
             end
+            if act[:fieldChange]
+              field = FIELDS[act[:fieldChange][0].to_sym]
+              teff_details.push("#{ts}Field changes to #{field}")
+            end
             if act[:playerSideStatChanges]
               groups = {}
               act[:playerSideStatChanges].each do |stat, lvl|
@@ -589,9 +602,8 @@ class TrainerGetter
                 teff_details.push("#{ts}Player's #{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end
-            if act[:fieldChange]
-              field = FIELDS[act[:fieldChange][0].to_sym]
-              teff_details.push("#{ts}Field changes to #{field}")
+            if act[:playerSideStatusChanges]
+              teff_details.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
             end
             if act[:playerEffects]
               teff_details.push("#{ts}Effect added to player's side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
@@ -608,9 +620,6 @@ class TrainerGetter
             end
             if act[:bossEffect]
               teff_details.push("#{ts}Effect added to boss's side: #{act[:bossEffect].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
-            end
-            if act[:playerSideStatusChanges]
-              teff_details.push("#{ts}Status added to player's side: #{act[:playerSideStatusChanges][1].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
             end
             if act[:typeSequence]
               typeCycles = []

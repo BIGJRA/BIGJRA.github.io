@@ -414,11 +414,19 @@ Back in Goldenleaf, do the following:
 4.  Head into Narcissa's gym. Head through the backstage theatre as normal and talk to Spector when you see him.
 5.  Finally, meet him in the gym auditorium for a battle!
 
+There are two possible battles for Spector: the first happens during the day: 
+
 !battle(["Spector",:LEADER_SPECTOR,0], "Haunted Field")
 
 This is a very tricky battle! He doesn't focus on raw strength; his Mega Banette is really his only strong Pokemon. Instead, he will try to wear you down. The initial duo of Murkrow and Gothitelle forces you to stay in and stick around for a Perish Song unless you can knock out Gothitelle in the first three turns of the battle. Luckily Gothitelle will usually go for Fake Out on turn one, so one of your Pokemon will likely get in at least one hit. Once you deal with the first pair, Ninetales is particularly annoying because of its speed and increased accuracy on Hypnosis, paired with Mega Banette to knock you out, this is deadly. All in all, a tricky fight, but you can get around the specific sleep + perish song-oriented strategies with Safeguard, Taunt, and other similar moves if you must.
 
-Win to get the *Ghost Memory*!
+The second possible battle happens at night:
+
+!battle(["Spector",:LEADER_SPECTOR2,0], "Haunted Field")
+
+This second battle is an offensively focused doubles team on the Haunted Field. He has tons of powerful spread moves in Eruption, Heat Wave, Rock Slide, etc. and also many priority moves. He has lots of speed tiers on his team, though a Shadow Sneak of your own can deal with Typhlosion. Some speed control such as Tailwind plus some strong spread moves should do the trick here.
+
+Win to get the *Ghost Memory*. If you completed the nighttime fight, you'll also get *2 Ghost Gems* and *3 Kasib Berries*.
 
 ## Lost Souls 2
 
@@ -454,7 +462,7 @@ Mosely will run off to the Hospital of Hope, which we will visit later.
 
 Enter the Power Plant in West Gearen, then go downstairs.
 
-!battle(["Amanda",:TRAINER_AMANDA,4], "Factory Field")
+!battle(["Amanda",:TRAINER_AMANDA,2], "Factory Field")
 
 The good news is the field doesn't really do anything for her team in this battle, so if you can exploit Factory Field for your own benefit, go ahead. The bad news is her team is particularly good at what it does overall. You'll notice that Trick Room is the central strategy she employs here: you can take advantage of that and bring in your own heavy hitting slow team, or prevent it from being used. One strategy is to open with Pokemon immune to the Fake Out from Incineroar in some way, another is to have a Multi-hit move strong enough to ORKO Hatterene, and so on. If you can succeed and make sure Bronzong similarly goes down before it can use Trick Room, you will have an easy time here.
 

@@ -155,21 +155,33 @@ Hidden in the first map is a *Poison Gem*. The next map has two hidden *Super Re
 
 !battle(["Deborah",:SERVANT,0], "Corrupted Cave")
 
-Climb down the ladder. Go up and get a hidden *Moon Stone*. In the next room, talk to the pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*. Back in the previous room, you'll need to push blocks onto the correct yellow tiles. The correct placements can be noted in the bottom left room. 
+Climb down the ladder. Go up and get a hidden *Moon Stone*. 
 
-Enter the next room. We'll need to move the statues on the left side onto the yellow dots corresponding to the positions on the right side. Head into the next room when you succeed.
+The path we will take through this dungeon diverges a bit depending on the third character we brought with. If it's Reina or Kreiss, you'll go to the left, else if it is Adam, you'll go to the right.
 
-!battle(["Tommen",:XENGRUNT_M,0], "Deep Earth")
+If you go left, you'll need to push blocks onto the correct yellow tiles. The correct placements can be noted in the bottom left room. Enter the next room. We'll need to move the statues on the left side onto the yellow dots corresponding to the positions on the right side. Head into the next room when you succeed.
+
+If you go right, you'll have to complete two battles:
+
+!battle(["Escavalier",:ANCIENT,0], "Deep Earth Field")
+
+!battle(["Escavalier",:ANCIENT,1], "Deep Earth Field")
+
+Both paths will converge in a central room, where we'll have to fight a Team Xen Grunt.
+
+!battle(["Tommen",:XENGRUNT_M,0], "Deep Earth Field")
 
 **Relationship Point Choices**:
 - She can do this! (+3 Aelita)
 - I agree with the Eldest (-3 Aelita)
 
-Go down the ladder on the left for a huge, optional puzzle. Make note of all the statue positions down the ladder, then get to work putting them all into the right places. This is arduous and pushing one block into a corner means you have to reset the whole thing, so save often. Once you succeed, go into the door at the top to get **Zorua (Hisuian)** and the *Zoroark Crest*!
+Go down the ladder on the left from the bonfire room for a huge, optional puzzle. Make note of all the statue positions down the ladder, then get to work putting them all into the right places. This is arduous and pushing one block into a corner means you have to reset the whole thing, so save often. Once you succeed, go into the door at the top to get **Zorua (Hisuian)** and the *Zoroark Crest*!
 
-Climb back up the ladder, and head into the room at the bottom right. Go to the bottom and show your Dragon-type to another beacon. Follow the path here to return to Eldest. Head in this door and follow the path.
+Regardless of which path you took, backtrack down the path to the left past the puzzles. Talk to the blue pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*.
 
-!boss("BOSSGROUDON", "Deep Earth")
+Return to the entrance room and talk to Eldest. Head in this door and follow the path.
+
+!boss("BOSSGROUDON", "Deep Earth Field")
 
 Groudon has the power on both fields to rack up a lot of one-shots, so you have to find a way to get around that. Grass type moves are the best offensive option against it, though Fire moves are aplenty. Paralysis and Burn are very helpful, too.
 
