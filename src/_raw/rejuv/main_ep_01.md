@@ -182,7 +182,7 @@ Inside the dumpster to the right is a hidden *Clever Wing*. Up from here, below 
 
 !enc(20)
 
-Three tiles from the right side on top when you enter is a hidden *Green Shard*.
+Three tiles from the right side on top when you enter is a hidden *Red Shard*.
 
 !battle(["Sim",:COOLGUY,0], "City Field")
 
@@ -474,7 +474,9 @@ Talk to the trainers around the gym.
 
 !battle(["Reina",:COOLTRAINER_F,0], "Concert Venue")
 
-The tiles in the gym have various effects. Stepping on the Poke Ball will cause us to have to fight a wild Pokemon: Trubbish, Grimer, Koffing, or notably **Skrelp**.
+The tiles in the gym have various effects. Step on the white tile on the raised center of the gym to reach the bottom left corner, where a hidden *Psychic Gem* awaits in a trash can!
+
+Stepping on the Poke Ball will cause us to have to fight a wild Pokemon: Trubbish, Grimer, Koffing, or notably **Skrelp**.
 
 Enter the room on the left and head up either path.
 
@@ -489,8 +491,6 @@ Enter the right hallway, and walk up through the tiles.
 Talk to the computer then warp back. We now have the numbers to access the gym's secret: simply step on the tiles in the center room in the order 2332-4332. Enter the backroom, then step on the warp on the right to access the secret Gearen Alleyway area.
 
 You can find a hidden *Psychic Gem* beneath the second tile of fence, and a hidden *Fresh Water* in a box below. You can also get a **Seviper** egg to the right!
-
-In the upper left corner here, you can find a hidden *Rare Candy* One tile down and 4 right is a hidden *Red Shard*. Here too is a **Seviper** Egg as well as a *Fresh Water* hidden 4 tiles right of it.
 
 Back in the backstage area, step on the left warp then head left to stand on the center stage tile. You'll now be able to fight Venam!
 

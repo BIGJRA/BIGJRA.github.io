@@ -783,19 +783,19 @@ Adding up all the RP and comparing it to 100 will determine whether or not you c
 
 For both routes, you'll need to confront, well, yourself.
 
-!battle(["Ana",:TRAINER_ANA,1], "Snowy Mountain Field")
+!battle(["Ana",:TRAINER_ANA,1])
 
-!battle(["Aevis",:TRAINER_AEVIS,0], "Snowy Mountain Field")
+!battle(["Aevis",:TRAINER_AEVIS,0])
 
-!battle(["Aevia",:TRAINER_AEVIA,0], "Snowy Mountain Field")
+!battle(["Aevia",:TRAINER_AEVIA,0])
 
-!battle(["Ariana",:TRAINER_ARIA,0], "Snowy Mountain Field")
+!battle(["Ariana",:TRAINER_ARIA,0])
 
-!battle(["Axel",:TRAINER_AXEL,0], "Snowy Mountain Field")
+!battle(["Axel",:TRAINER_AXEL,0])
 
-!battle(["Alain",:TRAINER_ALAIN,0], "Snowy Mountain Field")
+!battle(["Alain",:TRAINER_ALAIN,0])
 
-!battle(["Aero",:TRAINER_AERO,0], "Snowy Mountain Field")
+!battle(["Aero",:TRAINER_AERO,0])
 
 You can beat yourself, right?
 
@@ -894,13 +894,29 @@ This battle has been made much easier since the previous version, though you sti
 - She was lost. (Saki -1)
 - That wasn't Hazuki. (Saki -2)
 
-Head up and follow the path to obtain the *Intercept-Z*!
+Head up and follow the path to obtain the *Interceptium-Z*!
+
+The Interceptium-Z allows any Pokemon to use one of FOUR custom Z-moves.
+
+!move("UNLEASHEDPOWER")
+
+!move("BLINDINGSPEED")
+
+!move("DOMAINSHIFT")
+
+If the player is on Paragon Route, the fourth move choice will be:
+
+!move("ELYSIANSHIELD")
+
+If the player is on Renegade Route, the fourth move choice will instead be:
+
+!move("CHTHONICMALADY")
 
 !partner(["Aelita",:STUDENT_3,4])
 
 !boss("MASTEROFNIGHTMARES", "Starlight Arena")
 
-Equip the Intercept-Z to a Pokemon first. The Intercept-Z allows you to use one of multiple very strong effects to turn the tide of battle. The Puppet Master's multiple forms take you through different fields and different typings, though Aelita is fairly helpful against the Hand forms, so do what you can to support her. Once the second-to-last shield is broken, it reaches its strongest yet slowest form, meaning you can wear it down with Defense drops and go crazy dealing damage to it. It inflicts tons of status conditions over the course of the fight, so moves like Safeguard or items like Lum Berries may be useful.
+The Puppet Master's multiple forms take you through different fields and different typings, though Aelita is fairly helpful against the Hand forms, so do what you can to support her. Once the second-to-last shield is broken, it reaches its strongest yet slowest form, meaning you can wear it down with Defense drops and go crazy dealing damage to it. It inflicts tons of status conditions over the course of the fight, so moves like Safeguard or items like Lum Berries may be useful.
 
 !boss("MASTEROFNIGHTMARES2", "Starlight Arena")
 

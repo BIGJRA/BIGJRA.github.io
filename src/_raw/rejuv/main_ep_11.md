@@ -267,7 +267,16 @@ Return to the Dream District South and enter the Dream Complex. Before we head u
 
 ## Night 1 Dream
 
-Return to the Dream Complex once more. Go up to the penthouse and sleep. You will wake up in "New Game", and you will be asked a man's name: if you know it, enter it here. Interact with the pieces of the board, then talk to the attendant to the left. 
+Return to the Dream Complex once more. Go up to the penthouse and sleep. You will wake up in "New Game", and you will be asked a man's name. This is the first event of the "New Game+" functionality in Rejuvenation, which you can only access if you have already completed a save file that has cleared V13 content. 
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Zetta
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers</a>
+</div>
+
+Interact with the pieces of the board, then talk to the attendant to the left. 
 
 !battle(["Valarie",:LEADER_VALARIE,1], "Chess Board")
 
@@ -405,7 +414,16 @@ Sleep until the next day.
 
 ## Night 2 Dream
 
-You will be asked more questions, but if this is your first playthrough of V13.5, you will not be able to give the answers.
+You will be asked more questions, but if this is your first playthrough of V13.5, you will not be able to give the answers. If you are on New Game+ and answered the first question correctly, you can give answers here.
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    Hazuki, Huey, Freya.
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers (big story spoilers within!)</a>
+</div>
+
+New Game+ players will receive the *Puppet Doubloon*!
 
 You'll then be whisked away to the Somniam Mall.
 
@@ -441,13 +459,21 @@ Head up to talk to... Zetta?!
 
 !battle(["Evans",:XENGRUNT_M,1], "Chess Board")
 
-A man at the top wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish. 
+A man at the top wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish.
+
+If you are on New Game+, you can talk to a character by the pool to instantly get 1000000 Puppet Coins, otherwise you'll have to earn them the hard way.
 
 Enter the restaurant at the bottom and talk to the man in the bottom right. Talk to the server in the hallway where we entered.
 
 !battle(["Soyo",:OFFICER,0], "Chess Board")
 
-Back in the pool area, enter the backstage and grab *TM85 Dream Eater*! Grab the Family Portrait in the room to the left. Return it to the guy in the casino, then talk to Don Carto beyond. He gives us the best offer of sponsorship in this whole area: 10x.
+Back in the pool area, enter the backstage and grab *TM85 Dream Eater*! Grab the Family Portrait in the room to the left. You can talk to the pile of coins to grab 5000 or 10000 coins for free, or you can be greedier and go for 15000 or 20000. If so, you'll have to fight:
+
+!battle(["Drone",:SECURITYBOT,3], "Chess Board")
+
+At least you will get 35000 coins total for winning this fight.
+
+Return the portrait to the guy in the casino, then talk to Don Carto beyond. He gives us the best offer of sponsorship in this whole area: 10x.
 
 With a sponsorship, we have what we need to reach a million puppet coins. Head over to the battlefield, save, then bet the highest amount of coins that you can. There are three fights, one will be chosen randomly.
 

@@ -56,7 +56,14 @@ One piece of good news is that there are only a few spread moves, so using Prote
 
 Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
-Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse. Have fun with that.
+Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse.
+
+Also by the way: if you cheat to get 999 Black Prisms, well...
+
+!boss("DOXIE", "Haunted Field")
+
+No reward for you, cheater! Gotta do it legitimately :]
+
 
 ### Legendary Wings (Renegade)
 
@@ -309,7 +316,7 @@ Just kidding. Head up to the rooftop.
 
 If Florin is alive, you'll get a double battle here:
 
-!dbattle(["Florin",:LEADER_FLORIN,1], ["Talon",:LEADER_TALON_1,1])
+!dbattle(["Florin",:LEADER_FLORIN,1], ["Talon",:LEADER_TALON_1,1], "Sky Field")
 
 If Florin is dead, then instead you'll have the following gauntlet:
 
@@ -324,6 +331,8 @@ Talk to M2 back at the Zeight. In Between Space and Time, you can talk to former
 !boss("SPACEABAD", "Deep Earth Field")
 
 !boss("TIEMPABAD", "Deep Earth Field")
+
+Tiempa's fight is extremely complicated. Once you "knock it out" by breaking all of its shields and its final HP bar, Tiempa timewarps to the previous snapshot, which here is just before she loses her second shield. From here you'll need to defeat both shields again, though you have to be careful: if enough turns go by, a timewarp will be executed to a previous battle state. This means you need to survive six health bars at a minimum while going fast!
 
 Choose some options in the following... interactive scene? to end Spacea and Tiempa.
 

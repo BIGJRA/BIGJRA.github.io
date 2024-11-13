@@ -61,7 +61,7 @@ class FunctionWrapper
       
     func = @shortNames[func_shortname]
     run_str = "#{func}(#{args})"
-    puts run_str
+    # puts run_str
     if @cache.include?(run_str)
       return @cache[run_str]
     end
@@ -271,7 +271,8 @@ class FunctionWrapper
     # Creates nokogiri HTML
     m = @moveHash[move_name.to_sym]
     acc = m[:accuracy] == 0 ? "Perfect" : "#{m[:accuracy]}%"
-    "#{m[:name]}: #{m[:type].to_s.capitalize} \\| #{m[:category].to_s.capitalize} \\| #{m[:basedamage]} Pwr \\| #{acc} Acc \\| #{m[:desc]}"
+    type = m[:type] == :QMARKS ? "???" : m[:type].to_s.capitalize
+    "#{m[:name]}: #{type} \\| #{m[:category].to_s.capitalize} \\| #{m[:basedamage]} Pwr \\| #{acc} Acc \\| #{m[:desc]}"
   end
 
   def generate_trainer_markdown(trainer_id, field = nil)

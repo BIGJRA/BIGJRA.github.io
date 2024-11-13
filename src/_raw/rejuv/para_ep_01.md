@@ -15,7 +15,7 @@ Accept the fast travel to the Field of Pillars and talk to the Obelisk to enter 
 
 !move("CHTHONICMALADY")
 
-The Deep Earth Field hasn't been explored much so far, so you'll likely be caught off guard by all of Crescent's tricks on it. In a nutshell this field makes all effects of weight and speed amplified in some way: Gyro Ball becomes max power (speedy Mega Metagross oneshots easily), Iron Ball modifies Speed directly (for Malamar, raises it), many moves like Dragon Rush and Icicle Crash, and Ground moves in general are boosted, and Gravity is always on. High priority moves like Sucker Punch and Vacuum Wave have their power lowered here, though lower priority moves like Vital Throw are boosted. You get to take advantage of all these things too, so get to reading those field notes if you are stuck. Be careful of Crescent's Gothitelle: it instantly uses its custom move when it is sent into battle, petrifying your Pokemon, lowering its stats, and Tormenting it. Plus, it has a Crest and two Shields.
+The Deep Earth Field hasn't been explored much so far, so you'll likely be caught off guard by all of Crescent's tricks on it. In a nutshell this field makes all effects of weight and speed amplified in some way: Gyro Ball becomes max power (speedy Mega Metagross oneshots easily), Iron Ball modifies Speed directly (for Malamar, raises it), many moves like Dragon Rush and Icicle Crash, and Ground moves in general are boosted, and Gravity is always on. High priority moves like Sucker Punch and Vacuum Wave have their power lowered here, though lower priority moves like Vital Throw are boosted. You get to take advantage of all these things too, so get to reading those field notes if you are stuck. Be careful of Crescent's Gothitelle: it instantly uses its custom move when it is sent into battle, applying the custom Petrification status, lowering its stats, and Tormenting it. Plus, it has a Crest and two Shields.
 
 **Relationship Point Choices**:
 - Before awakening Adrest, talk to Crescent and say "You good?" (Neutral)
@@ -54,13 +54,19 @@ Make your way over to Axis High University. On the grounds in front of the schoo
 
 !dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
 
-This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty literally gets +110% to each stat thanks to its Crest on the first turn... imagine my surprise figuring out how to finally take Delcatty out only to realize there were 11 more Pokemon waiting to take me on.
+This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty inherits 10% of each of its allies stats... with 11 allies, that means it more than doubles each stat! Delcatty alone is a MONSTER to take out, but the pair of late scientists has eleven more Pokemon to boot.
 
 One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
 
 Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
-Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse. Have fun with that.
+Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse.
+
+Also by the way: if you cheat to get 999 Black Prisms, well...
+
+!boss("DOXIE", "Haunted Field")
+
+No reward for you, cheater! Gotta do it legitimately :]
 
 ### Legendary Wings (Paragon)
 
@@ -533,25 +539,31 @@ Defeat or run from the first Regice. In the next area, head up for a harder figh
 
 Once you're back in Zeight, you'll be able to see the progress we've made on the Karma Files so far. You can also attempt the gauntlet from earlier again at the computer.
 
-Exit Zeight and read the note from Gliscor. Head to Alamissa Urben next to find Ryland in the center...!
+Exit Zeight. This next section is a bit different depending on if Karen is Alive or if Karen is Dead.
 
-Down and left you'll find Suicune.
+If Karen is alive, read the note from Gliscor outside of Zeight, then head to Alamissa Urben next to find Ryland in the center. You'll have to find the Johto Legendary trio and challenge each to a battle on the Desert Field.
 
-!boss("GERBIL2", "Desert Field")
+If Karen is dead, head to Alamissa Urben and enter the room at the bottom where Celine is being preserved. Talk to Alexandra inside. You'll have to battle the Johto Legendary trio and challenge each to a battle on no field.
+
+Suicune is down and to the left if Karen is alive:
+
+!boss("GERBIL2", "Desert Field / No Field")
 
 The fight dramatically changes after a shield break: par for the course for a boss battle by now. What you should know is that you can actually catch **Suicune** once all of its shields have broken!
 
-On the right side of the area, you'll find Raikou.
+On the right side of the area if Karen is alive, you'll find Raikou:
 
-!boss("GERBIL3", "Desert Field")
+!boss("GERBIL3", "Desert Field / No Field")
 
 As before, once all its shields are broken, you can catch **Raikou**!
 
-Finally, in the top left of Alamissa is Entei.
+Finally, in the top left of Alamissa if Karen is alive is Entei.
 
-!boss("GERBIL1", "Desert Field")
+!boss("GERBIL1", "Desert Field / No Field")
 
 Break all the shields to catch **Entei**!
+
+Catching all three wraps this section!
 
 ### .Karma Files: Erin & Aelita
 
@@ -619,7 +631,7 @@ The fight against Tiempa shouldn't be too terrible, all things considered. Her g
 
 !boss("SPACEAGOOD", "Deep Earth Field")
 
-Spacea is another beast altogether. Ignore the "Minior" autogenerated above: for every shield you break... Spacea will just STEAL YOUR POKEMON. Like, it faints from being on your side, then appears on her side to fight you. If there is a silver lining to speak of, its that she likes to use Surf, meaning you can opt for Protect or Wide Guard to have her faint your own Pokemon. This also means there's a bit of gaming to do in regards to *which* Pokemon you let her have - the lower their HP, the more easily you can knock them out. With very careful planning, you even can let her steal a Pokemon with Water Absorb that doesn't have much offensive power to even the playing field - she can't steal a new Pokemon while she already has an ally.
+Spacea is another beast altogether. Ignore the "Minior" autogenerated above: for every shield you break... Spacea will just STEAL YOUR POKEMON. She simply steals your Pokemon and fills its health to full. If there is a silver lining to speak of, its that she likes to use Surf, meaning you can opt for Protect or Wide Guard to have her faint your own Pokemon. This also means there's a bit of gaming to do in regards to *which* Pokemon you let her have - the lower their HP, the more easily you can knock them out. With very careful planning, you even can let her steal a Pokemon with Water Absorb that doesn't have much offensive power to even the playing field - she can't steal a new Pokemon while she already has an ally. Alternatively, if you intentionally knock out your own Pokemon while it is on Spacea's side, it will return to your party with the same status as before, so you can plan around having your Pokemon back on your side if you wish.
 
 You'll find yourself in the cold, grey, mysterious world once again. Interact with the glowy thingy below.
 

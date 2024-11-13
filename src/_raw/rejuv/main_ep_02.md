@@ -97,7 +97,7 @@ Enter the cave here.
 
 !enc(133)
 
-**ZCell 007: Gemstream Cave**
+**ZCell 007: Gemstream Cave** (Night Only)
 
 !img("zcell007.png")
 
@@ -267,8 +267,6 @@ Talk to a girl in the lobby of the inn to get a *Sweet Heart*. Talk to a girl in
 Outside, go east. Above the boxes is a hidden *Ability Capsule*. A trainer is wandering around to the left.
 
 !battle(["Jessibelle",:AROMALADY,0], "Forest Field")
-
-!enc(423, ["Grass", "Fishing", "Rock Smash"], ["Old"])
 
 Go down for another fight:
 
