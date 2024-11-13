@@ -549,7 +549,7 @@ With the previous two quests complete, head into the Kristiline Help Center. Tal
 
 Head to the Kakori Gym area to talk to Holly. Go next to the Terajuma Excavation Site and talk to the folks inside the building. Our next destination is Terajuma Beach. Talk to the suspicious individual. You'll need to follow him into the Jungle and to the right.
 
-!battle(["Kurt",:COOLTRAINER_M,0], "Forest Field")
+!battle(["Kurt",:TEAMAA_M,0], "Forest Field")
 
 Take a Noctowl over to Valor Shore, then surf to the right below. Enter the shack.
 
