@@ -199,7 +199,7 @@ Use the warp and return to Aelita. Chase Tommen out of the Garufan area.
 
 Agree to return to the Tower Cellar with your partner. Inside, you'll get the Ocean Relic!
 
-Take a Noctowl over to Jynnobi Pass and enter the temple on the right side.
+Return to Kristiline to talk to the crew once more, then head over to Jynnobi Pass and enter the temple on the right side.
 
 !battle(["Crawli",:LEADER_CRAWLI,3], "Swamp Field")
 
@@ -273,7 +273,11 @@ Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)*
 
 The final Xen ship on the left side of the map is filled with trainers with Pokemon in the Lv. 70+ range. You can fight them if you wish, but I will have us return later when it is more "safe" to do so.
 
-With all that taken care of, land on the Valor Shore at the top and activate the Noctowl Statue. Talk to Neved above, then smash a rock to the right and get *TM124 Scary Face*. Enter the mountain...
+With all that taken care of, land on the Valor Shore at the top and activate the Noctowl Statue. Talk to Neved above. If you say "We'll take them down" you don't have to fight him, but if you say "We win and save Nim" you will have to fight him (and will get a small bit of extra lore later on):
+
+!battle(["Neved",:XENEXECUTIVE_4,3], "Beach Field")
+
+Smash a rock to the right and get *TM124 Scary Face*. Enter the mountain...
 
 ## Valor Mountain
 

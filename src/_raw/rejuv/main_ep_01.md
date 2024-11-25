@@ -176,7 +176,7 @@ If you lose this battle, or any battle, you'll find yourself warped to the "Edge
 
 Anyways, head back to East Gearen City (Right). Cross the bridge to the right of the Aqua Building.
 
-!battle(["Denko",:HIKER,2], "City Field")
+!battle(["Denko",:HIKER,0], "City Field")
 
 Inside the dumpster to the right is a hidden *Clever Wing*. Up from here, below a canister, you can get a hidden *Poke Ball*. Enter the Gearen Alleyway.
 

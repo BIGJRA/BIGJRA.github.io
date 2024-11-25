@@ -138,7 +138,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **fullevs**: All enemy EV's are set to 252.
 - **noitems**: Prevents the player from using bag items like Potions and X-Attacks from their bag during battles.
 - **moneybags / richboy / doublemoney**: Doubles the amount of money received by trainers.
-- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokemon's IV's to 31. *Disables online trading*.
+- **fullivs / 31ivs / allivs / mischievous**: Sets all player Pokemon's IV's to 31.
 - **emptyivs / 0ivs / noivs**: Sets all player Pokemon's IV's to 0.
 - **leveloffset / setlevel / flatlevel**: Allows you to provide an integer in [-99, 99] that will be added to all trainer levels in the game.
 - **percentlevel / levelpercent**: Allows you to provide a non-negative integer in [0, 999] that will be multiplied as a percent to all trainer levels in the game.
@@ -146,7 +146,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **stopgains**: Prevents the player's Pokemon from gaining EV's after battle.
 - **noexp / zeroexp / 0exp**: Prevents the player's Pokemon from gaining exp.
 - **flatevs / 85evs**: All enemy Pokemon will have 85 EV's in every stat.
-- **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat. *Disables online battling and trading*.
+- **noevcap / gen2mode**: Allows player Pokemon to reach 252 EV's in every stat.
 
 ### Shenanigan Passwords
 
@@ -161,7 +161,7 @@ I don't recommend reading this list until you've played through the game once - 
 
 ### Bulk Passwords
 
-The bulk passwords essentially are packs of the above listed passwords - using one will activate all of the contained passwords. Keep in mind that if a pack contains a password that disables online then the bulk password will too.
+The bulk passwords essentially are packs of the above listed passwords - using one will activate all of the contained passwords.
 
 - **casspack / goodtaste**: noitems, fullivs, easyhms, norolls
 - **easymode**: fullivs, moneybags, litemode, stopitems

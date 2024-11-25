@@ -134,6 +134,6 @@ As soon as you're ready, follow the path up from here.
 
 !move("MULTIPULSE")
 
-Overall, what is said in by the gym guide is good advice. The first thing you must be cautious of is Delcatty, who likes to Baton Pass +2 in both defenses to Chatot or Drampa, who can then boost and go on a rampage. A move like Roar is a good counter for that. Otherwise, a decently rounded team should be able to deal with most of the Pokemon here - four are dual types with varied weaknesses.
+Overall, what is said by the gym guide is good advice. The first thing you must be cautious of is Delcatty, who likes to Baton Pass +2 in both defenses. A move like Roar is a good counter for that. Otherwise, a decently rounded team should be able to deal with most of the Pokemon here - four are dual types with varied weaknesses.
 
 Once you win, you'll be awarded with the Normality Badge! Our new level cap is now 35. Enjoy the following cutscene. Head outside to talk to Aelita and get *TM42 Facade*!
