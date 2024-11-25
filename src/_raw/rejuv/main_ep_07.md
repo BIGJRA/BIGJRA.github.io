@@ -191,7 +191,7 @@ On the right, grab a *Charcoal* as well as:
 
 !img("zcell063.png")
 
-!boss("TAPUKOKOMAGRODAR", "Volcanic Field")
+!boss("TAPUKOKOMAGRODAR", "Dragon's Den")
 
 This is a tough fight, in no small part thanks to the SOS Charizard hitting really hard on this field. Tapu Koko likes to use screens, so being able to break those or score critical hits is key. Especially when against Mega Charizard X, Ground moves like Bulldoze and Earthquake are good ideas for heavy spread damage. You'll get the Earth Relic after!
 

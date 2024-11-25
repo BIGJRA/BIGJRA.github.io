@@ -10,13 +10,7 @@ Head upstairs to talk to Amber in the right room.
 - Sorry. (+2 Amber)
 - We should go. (-1 Amber)
 
-To put a bow on the events on Valor Mountain, there is an optional event we can take care of right now. Head over to Aquamarine Cave and go to the area where Jenner once was hiding. You'll see a pink butterfly.
-
-!battle(["Jenner",:SPIRITJENNER,0], "Concert Venue")
-
-For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
-
-Anyways, to continue the story, take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain.
+Take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain.
 
 ## Forest of Time
 
@@ -427,6 +421,12 @@ The second possible battle happens at night:
 This second battle is an offensively focused doubles team on the Haunted Field. He has tons of powerful spread moves in Eruption, Heat Wave, Rock Slide, etc. and also many priority moves. He has lots of speed tiers on his team, though a Shadow Sneak of your own can deal with Typhlosion. Some speed control such as Tailwind plus some strong spread moves should do the trick here.
 
 Win to get the *Ghost Memory*. If you completed the nighttime fight, you'll also get *2 Ghost Gems* and *3 Kasib Berries*.
+
+There is one more battle quest we can take care of now. Take the East Gearen boat to Terajuma, then head to Aquamarine Cave. Go to the area where Jenner once was hiding. You'll see a pink butterfly.
+
+!battle(["Jenner",:SPIRITJENNER,0], "Concert Venue")
+
+For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
 
 ## Lost Souls 2
 
