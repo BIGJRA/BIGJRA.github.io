@@ -454,7 +454,7 @@ You'll team up with Aelita here, so she'll heal you but catching wild Pokemon is
 
 !enc(119, nil, ["Old"])
 
-Head up and grab *TM121 Fire Spin*. Smashing rocks to the right will lead you to a *Rare Candy*. Continue on the main path.
+Head up and grab *TM121 Fire Spin*. Smashing rocks to the right will lead you to a *Rare Candy* and hidden *Blast Powder*. Continue on the main path.
 
 !battle(["SEC",:SECURITYSYSTEM,3], "Volcanic Field")
 

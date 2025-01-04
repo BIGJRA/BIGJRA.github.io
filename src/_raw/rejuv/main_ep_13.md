@@ -31,7 +31,7 @@ Enter the student rec. center. In the left room you'll find another game corner!
 
 !shop("GDC Arcade", [["Rookidee", "3000 Coins", true], ["Mienfoo", "4000 Coins", true], ["Durant", "7500 Coins", true], ["Axew", "9000 Coins", true]])
 
-Enter the Blakeory Museum in the top left side of the District, and pay admission. Someone to the right will give you a *Green Shard*. To the left is an in-game trade: your Masquerain for **Smeargle**!
+Enter the Blakeory Museum in the top left side of the District, and pay admission. Someone to the right will give you a random shard: *Blue Shard*, *Red Shard*, or *Green Shard*. To the left is an in-game trade: your Masquerain for **Smeargle**!
 
 At the top, talk to the museum director to finally continue the *Wall of Shame* quest. Make the long journey back to Arturo in the southwestern house of the Judicial District. Back in the museum, head up to learn the painting has been stolen! Outside, you'll see the thief run off. Chase him to The Underground: he's in the shop building to the right of the diner.
 
@@ -620,7 +620,7 @@ Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here!
 
 !enc(514)
 
-Interact with the space in the ground here and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
+Grab the hidden *Elixir* and climb up. Interact with the space in the ground here and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
 
 Hidden in this room is a *Green Shard*, *Soft Sand*, *Rock Gem*, *Rawst Berry*, *Sitrus Berry*, *Berry Juice* and *Lava Cookie*.
 
@@ -725,7 +725,7 @@ You can also catch the overhead **Wingull** and **Pelipper**!
 
 Pick up *TM74 Gyro Ball*. That's it for Route 10. 
 
-A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of Route 10 if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
+A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of the Honec Woods if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
 
 Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
 
@@ -1077,7 +1077,7 @@ Back on the roof of the temple, sneak past the three cyclones at the top. You'll
 
 Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island.
 
-In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! You will also get *Xen Waste* for the capture.
+In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! This Pokemon is similar to that of other Raid Dens: it starts with 40 EVs and 20 IVs for all six stats, and has custom moves: Life Dew, Zap Cannon, Gravity, and Iron Head. You will also get *Xen Waste* for the capture.
 
 Fly to Teila Resort and enter the Magrodar Crater. At night, you can push a floating Black Shard on the left to find Chimchar. Give it 12 Charcoal to catch **Chimchar**!
 
@@ -1095,7 +1095,7 @@ Head to the Isle of Angels.
 
 !enc(540, ["Fishing"], ["Super"])
 
-Enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!!!
+Enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!! Plus, 3 hidden *Exp. Candy XL*.
 
 One quest remains for now. Fly over to Jynnobi Pass. 
 

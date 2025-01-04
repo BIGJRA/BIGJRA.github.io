@@ -241,8 +241,6 @@ Exit Neved's office, head back down the stairs, and enter the colorful door. Tal
 
 !enc(435)
 
-I recommend catching everything here, in particular Cramorant, who we can't get later on.
-
 Head back to your bed on the lower level and get some sleep.
 
 ### Day 2
@@ -291,7 +289,7 @@ Push it into its spot, then repeat with the robot to the left.
 
 Finally fly over the pit at the bottom and fight the third robot, then push it into its place.
 
-!battle(["Purple Stripe",:SECURITYBOT,100], "Cave Field")
+!battle(["Green Stripe",:SECURITYBOT,100], "Cave Field")
 
 Head into this room, then interact with the computer. Enter the room on the left.
 
