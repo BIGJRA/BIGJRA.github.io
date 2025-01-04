@@ -76,7 +76,7 @@ In the top left corner, there are various battle facilities. Winning them grants
 
 !shop("Nightclub BP Rewards (Bottom)", [    ["Lonely Mint", "1 BP"], ["Brave Mint", "1 BP"], ["Adamant Mint", "1 BP"], ["Naughty Mint", "1 BP"], ["Bold Mint", "1 BP"], ["Relaxed Mint", "1 BP"], ["Impish Mint", "1 BP"], ["Lax Mint", "1 BP"], ["Timid Mint", "1 BP"], ["Hasty Mint", "1 BP"], ["Serious Mint", "1 BP"], ["Jolly Mint", "1 BP"], ["Naive Mint", "1 BP"], ["Modest Mint", "1 BP"], ["Mild Mint", "1 BP"], ["Quiet Mint", "1 BP"], ["Rash Mint", "1 BP"], ["Calm Mint", "1 BP"], ["Gentle Mint", "1 BP"], ["Sassy Mint", "1 BP"], ["Careful Mint", "1 BP"]])
 
-!shop("Nightclub BP Rewards (Middle)", [["Choice Band", "24 BP"], ["Choice Specs", "24 BP"], ["Choice Scarf", "27 BP"], ["Focus Sash", "5 BP"], ["EXP All Upgrade", "1 BP"], ["Remote PC", "14 BP"], ["5 Cell Batteries", "5 BP"]])
+!shop("Nightclub BP Rewards (Middle)", [["Choice Band", "24 BP"], ["Choice Specs", "24 BP"], ["Choice Scarf", "27 BP"], ["Assault Vest", "24 BP"], ["Focus Sash", "5 BP"], ["EXP All Upgrade", "1 BP"], ["Remote PC", "14 BP"], ["5 Cell Batteries", "5 BP"]])
 
 Note that the Remote PC is only available after buying the EXP All Upgrade, and the batteries only after the PC.
 
@@ -86,11 +86,11 @@ To win BP, you can participate in the Nightclub's Battle Pavilion: Battle Tower 
 
 ## Battle Pavilion Facilities
 
-The Battle Tower and Battle Factory modes work similarly to canon: the former lets you bring a team of three and the latter has you choose randomly from a pool. In these modes you can optionally choose to enable random field effects as well.
+The Battle Tower and Battle Factory modes work similarly to canon: the former lets you bring a team of three, and the latter has you choose randomly from a pool. There is also a Battle Palace mode in which your Pokemon fight for you (though choose moves much more wisely than in canon). In these modes you can optionally choose to enable random field effects as well.
 
-Challenges in the Tower and Factory are sets of five battles: losing a set rewards the player with *BP* equal to the number of battles won. If the player wins the set of five, *BP* is awarded as follows: `BP = w // 2 + 5 + 3RF + 3DB`, where `w` is the current win streak, `RF` is Random Fields being enabled and `DB` is doubles being enabled.
+Challenges in the Tower, Factory, and Palace are sets of five battles: losing a set rewards the player with *BP* equal to the number of battles won. If the player wins the set of five, *BP* is awarded as follows: `BP = w // 2 + 5 + 3RF + 3DB`, where `w` is the current win streak, `RF` is Random Fields being enabled and `DB` is doubles being enabled.
 
-For the first four fights of each set in the Tower and all battles in the Factory, specific Pokemon sets as well as Trainer information for these facilities can be found within the `btpokemon.rb` and `bttrainers.rb` files in the game's `Scripts` directory.
+For the first four fights of each set in the Tower and Palace and all battles in the Factory, specific Pokemon sets as well as Trainer information for these facilities can be found within the `btpokemon.rb` and `bttrainers.rb` files in the game's `Scripts` directory.
 
 The final fight of each Battle Tower set is against an NPC boss. Note the opponents' *default* fields can be overwritten if the random field option is on. Here are the boss battles for singles:
 
@@ -102,7 +102,7 @@ Here are the boss battles for doubles:
 
 Theme Teams allows you to fight the game's NPCs with specific themed teams - beating them (except Julia's "Kaboom" team) will award you *4 BP*.
 
-Mix N' Match allows you to do 2v2 fights of these NPC teams: you get to pick a partner and fight two selected opponents. Note that you can only select partners with which you have a certain amount of relationship points with. Every Mix N' Match fight awards *4 BP*, though choosing random partner/enemies will award *8 BP* instead.
+Mix N' Match allows you to do 2v2 fights of these NPC teams: you get to optionally pick a partner and fight two selected opponents. Note that you can only select partners with which you have a certain amount of relationship points with. Every Mix N' Match fight with a partner awards *4 BP* upon a win, while a solo fight against two opponents will award *8 BP* instead.
 
 *Note that certain trainers will not be available during certain story events for Theme Teams and Mix N' Match*. Regardless, listed in full, the pool of Theme Teams and Mix N' Match trainers is as follows:
 
