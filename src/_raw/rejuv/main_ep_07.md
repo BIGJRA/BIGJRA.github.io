@@ -169,11 +169,13 @@ Once you're back in Teila, sleep again by talking to Melia. Head outside to lear
 
 !enc(213)
 
-Catch a Spinda while we're here to trade away, later. To the left, push a floating rock out of the way to get a *Sun Stone* and:
+Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Sun Stone* and:
 
 **ZCell 062: Magrodar Crater**
 
 !img("zcell062.png")
+
+On the right, push away another floating stone to reach a hidden *Black Prism*.
 
 !battle(["Valencia",:LADY,0], "Rocky Field")
 
@@ -424,7 +426,7 @@ Study the sign nearby. You can drop a ladder here before proceeding. Talk to Bon
 
 Drop another ladder when you get outside. Back at the bottom, you can now get *6 Sitrus Berries* and *5 Yache Berries*.
 
-Reenter the Cellar. It is now frozen, so you can slide around. Follow the first hole in the wall, then in the top left, smash a wall to get *TM79 Frost Breath*! Enter the room at the bottom to get a hidden *Blue Shard* and fight a servant.
+Reenter the Cellar. It is now frozen, so you can slide around. Follow the first hole in the wall, then in the top left, smash a wall to get *TM79 Frost Breath* and a hidden *Elemental Seed*! Enter the room at the bottom to get a hidden *Blue Shard* and fight a servant.
 
 !battle(["Nadia",:SERVANT,0], "Frozen Dimensional Field")
 

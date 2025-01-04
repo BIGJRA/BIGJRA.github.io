@@ -623,7 +623,7 @@ Next, take the truck to Sheridan. Make your way to Route 3's Phasial Cave, and t
 
 Take the time to ensure you have Metal Powder, a Poke Ball, and 3 Cell Batteries in your bag. Enter Carotos Mountain. Drift to the left and grab *TM36 Sludge Bomb*! Smash some rocks and drift to the right. Use two Blast Powders to get the **Cyndaquil** egg.
 
-**ZCell 088: Carotos Mountain**
+**ZCell 088: Carotos Mountain (Nighttime Only)**
 
 !img("zcell088.png")
 

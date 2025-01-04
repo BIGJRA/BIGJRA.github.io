@@ -56,15 +56,15 @@ Also, you can fight stationary **Sawsbuck** here.
 
 Down from here is a hidden *Blue Shard* and *Honey*. Surf to the left for a *Rare Candy*. To the left on land is a hidden *Green Shard*. Head east to enter Oblitus Town.
 
-Talk to the crew on the hill, then again above the tracks. Grab the hidden *Link Heart* to the right, then follow them to the left. Go north.
+Talk to the crew on the hill, then again above the tracks. Grab the hidden *Link Heart* to the right, then follow them to the left. Go north to enter Yui's Ranch.
 
-Pick up hidden *Blue Shard*, *Green Shard*, and *Fire Gem*. Cross the bridge to the left and grab a hidden *Ultra Potion*.
+Pick up hidden *Blue Shard*, *Green Shard*, and *Fire Gem*, then cross the bridge to the left and grab a hidden *Ultra Potion*.
 
 !battle(["Shara",:KIMONOGIRL,0])
 
 !battle(["Karla",:BEAUTY,0])
 
-Enter the ranch area to the right and pick up the hidden *Yellow Shard*. There is a post here: talk to it to activate it. This is a Braviary Post that allows us to fly around Terrial Island, just like Floria's truck and Terajuma's Noctowl.
+Enter the ranch area to the right and pick up the hidden *Yellow Shard*.
 
 !battle(["Harvey",:CAMPER,0])
 
@@ -83,6 +83,8 @@ Head north from the ranch onto the Grand Bridge map. After the chat, reenter the
 **ZCell 096: Grand Bridge**
 
 !img("zcell096.png")
+
+Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's truck guy and Terajuma's Noctowl statues.
 
 Exit the ranch map in the bottom left to return to the first map of Route 7 from a different vantage point. Push a stone over the water to create a shortcut, then grab the *Ether* to the left. Enter the house barred by the cut tree at the top to meet the PC manager.
 
@@ -420,7 +422,7 @@ Make your way back to the Darchlight Woods, and find your Grass-type gym leader 
 
 ### VS Flora
 
-!battle(["Flora",:LEADER_FLORA,0])
+!battle(["Flora",:LEADER_FLORA,0], "Bewitched Field")
 
 !move("UPROOT")
 
@@ -430,7 +432,7 @@ Win to get the Rose Badge, which increases our Level Cap to Lv. 70, and *TM53 En
 
 ### VS Florin
 
-!battle(["Florin",:LEADER_FLORIN,0])
+!battle(["Florin",:LEADER_FLORIN,0], "Bewitched Field")
 
 The battle with Florin is a very tough one. Like Rhodea says, he has a team full of glass cannons. The field helps him get stronger while his only "intact" weaknesses are Flying and Bug, though he has counters for those. Changing the weather right away tends to be helpful, and using Dark and Fairy moves may be the key to heavy damage. Ice moves with Hail can be particularly potent.
 

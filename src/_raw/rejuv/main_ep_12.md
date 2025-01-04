@@ -299,7 +299,7 @@ Next is a battle against Melia.
 
 !battle(["Melia",:ENIGMA_1,4], "Chess Board")
 
-Another tough Chess Board fight! Every one of her Pokemon are pretty threatening in some way. Zoroark likes to prank you and murder with field boosted Sucker Punch. It also gets to inherit the ability and STAB of whatever it is copying, so be very wary of that. If Meganium gets off an Ancient Power with boost, its bulk may lead it to a sweep. That said, you can overwhelm her: she has weaknesses to Poison and Fighting, so using the Pawn, King, and Queen positions to deal heavy damage with these types may work.
+Another tough Chess Board fight! Every one of her Pokemon are pretty threatening in some way. Zoroark likes to prank you and murder with field boosted Sucker Punch. It also gets to inherit the ability and STAB of whatever it is copying, so be very wary of that. If Meganium gets off an Ancient Power with boost, its bulk may lead it to a sweep. That said, you can overwhelm her: she has weaknesses to Poison and Fighting, so using the Pawn, King, and Queen positions to deal heavy damage with these types may work. Note that you need not win this fight to proceed.
 
 **Relationship Point Choices**:
 - About what? (Neutral)

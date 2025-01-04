@@ -424,7 +424,7 @@ Enter Amethyst Cave.
 
 Now that our level cap is Lv. 45, it is a good time to take on Spirit Keta in the Amethyst Grotto. For winning, we get a *Blue Shard*, *Red Shard*, *Green Shard*, *Black Prism*, *Exp. Candy L*, and *TM17 Protect*!
 
-!battle(["Keta",:LEADER_KETA2,0])
+!battle(["Keta",:LEADER_KETA2,0], "Blessed Field")
 
 Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
 

@@ -147,7 +147,7 @@ We've now collected eight of the ten stamps for the mall, so we can buy a whole 
 
 !shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry"])
 
-!shop("Somniam Mall TMs & HMs", [["TM150 Grassy Terrain", 10000], ["TM151 Electric Terrain", 10000], ["TM152 Misty Terrain", 10000], ["TM153 Psychic Terrain", 100000], ["TM34 Sludge Wave", 30000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000]])
+!shop("Somniam Mall TMs & HMs", [["TM150 Grassy Terrain", 10000], ["TM151 Electric Terrain", 10000], ["TM152 Misty Terrain", 10000], ["TM153 Psychic Terrain", 10000], ["TM34 Sludge Wave", 30000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000]])
 
 !shop("Somniam Mall Evolution Items", ["Protector", "Magmarizer", "Dragon Scale", "Electirizer", "DeepSeaTooth", "DeepSeaScale", "Up-Grade", "Dubious Disc", "Prism Scale", "Sachet", "Whipped Dream", "Razor Claw", "Oval Stone", "Razor Fang", "Reaper Cloth"])
 

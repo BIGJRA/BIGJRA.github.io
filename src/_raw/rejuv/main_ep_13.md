@@ -85,7 +85,7 @@ Input the password "alamissa" at the bottom. Up in the captain's quarters, go ri
 
 Head up to the main deck and go all the way left.
 
-!dbattle(["Sy'yo",:SASHILAWARRIORF_2,0], ["Ryland",:LEADER_RYLAND1,0])
+!dbattle(["Sy'yo",:SASHILAWARRIORF_2,0], ["Ryland",:LEADER_RYLAND1,0], "City Field")
 
 !move("DESERTSMARK")
 
@@ -334,7 +334,7 @@ We will be in control of ourselves once more.
 
 Talking to her also awards *5 Revives*, *5 Max Potions*, and *5 Exp. Candy XL*.
 
-Exit the village. Attempt to use the House Key in the building all the way at the bottom of Sashila Coast, and it will snap in half. We'll continue that quest a bit later on.
+Exit the village. Attempt to use the House Key in the building all the way at the bottom of Zorrialyn Coast, and it will snap in half. We'll continue that quest a bit later on.
 
 Enter Alamissa Urben at the top of Zorrialyn Desert East. Talk to Ren at the entrance and you'll get **Sylveon**, as well as the *Mysterious Black Box*. 
 
