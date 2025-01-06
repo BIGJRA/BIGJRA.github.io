@@ -410,7 +410,7 @@ Fight Goomy once you're outside the gym again.
 
 !battle(["Goomink",:HERO,1], "Forest Field")
 
-Fly to Sashila, then the Zorrialyn Coast to the south. Talk to Goomy, then after the conversation head to the dock on the east side of the village. Talk to the guy and bring the yacht (since when in V13.5 did we have a yacht??).
+Fly to Sashila, then the Zorrialyn Coast to the south. Talk to Goomy, then after the conversation head to the dock on the east side of the village. Talk to the guy and bring Tesla's yacht (which also adds Sashila Village as a docking location), then depart.
 
 !partner(["Goomink",:HERO,2])
 

@@ -66,6 +66,8 @@ A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, then trade it wit
 
 !img("zcell072.png")
 
+We can also now take Tesla's yacht to-and-from Kristiline Town via the port the east side of town.
+
 Go up to reach the Isle of Angels.
 
 !enc(540, "Grass")

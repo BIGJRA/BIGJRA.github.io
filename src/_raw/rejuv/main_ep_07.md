@@ -224,15 +224,25 @@ Follow Amber into her room next.
 - I'm here to help. (+2 Amber)
 - What next? (Neutral)
 
+It's worth noting that we can now take the Yacht outside to fast travel between Oceana Pier, Akuwa Town, and Teila Resort. Nice!
+
 ## Attacks on Terajuma
 
 Say "Let's go" to fast travel. Once you get control in the cave, head left. It's a bit hard to see. You'll once again regain control: go right and down to escape.
 
 !partner(["Melia",:ENIGMA,1])
 
-!dbattle(["Madelis",:XENEXECUTIVE_2,6], ["Bartz",:XENMAGE_M,0])
+This fight will be different depending on our outcome with Madame X earlier. The easier fight occurs if you didn't defeat Madame X:
 
-Another fun battle with a Xen Mage - they can cause all kinds of effects in battle. Melia's Meganium is an absolute tank with its Crest, so this shouldn't be too hard.
+!dbattle(["Madelis",:XENEXECUTIVE_2,2], ["Bartz",:XENGRUNT_M,0], "Crystal Cavern Field")
+
+This should be a fairly straightforward multi-battle, and Melia can hold her own.
+
+If you did defeat Madame X, you'll have this fight:
+
+!dbattle(["Madelis",:XENEXECUTIVE_2,6], ["Bartz",:XENMAGE_M,0], "Crystal Cavern Field")
+
+Another fun battle with a Xen Mage - they can cause all kinds of effects in battle including the above field change!
 
 Back outside on Route 5, grab the hidden *Calcium* by the boat, then go back to Tesla's office in Teila Resort.
 
@@ -243,7 +253,15 @@ Back outside on Route 5, grab the hidden *Calcium* by the boat, then go back to 
 
 Time for a GAUNTLET. That's right. Two battles, back to back, no healing in between.
 
+If you didn't defeat Madame X earlier, you'll have this fight first:
+
+!battle(["Danni",:XENGRUNT_M,1])
+
+If you did defeat Madame X earlier, you'll have this fight with a Mage instead:
+
 !battle(["Harris",:XENMAGE_M,0])
+
+In either case, the second battle will be against Neved:
 
 !battle(["Neved",:XENEXECUTIVE_4,2])
 
@@ -397,7 +415,7 @@ Enter the tower.
 
 !enc(344)
 
-Follow the path up. After talking to Zetta and Jenner, smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
+Follow the path up. Smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
 
 **Relationship Point Choices**:
 - Fail to defeat Madame X and the first Tapu Koko fight (-3 Crescent)
