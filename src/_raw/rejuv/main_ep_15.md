@@ -233,9 +233,9 @@ Afterwards, prepare yourself for a battle with Melia!
 
 !move("GILDEDHELIX")
 
-The field effect is unalterable by moves, a broken seed effect that gives Aegislash one and Mimikyu TWO free turns turn to reach +4/+6 attack, all fire moves given an added Dragon typing hence can't touch Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash: it's very stacked against you! Plus, her Zoroark has a crest that allows it to use Aegislash's Stance Change ability... so be careful of that.
+The field effect is unalterable by moves, plus all fire moves given an added Dragon typing hence can't touch Togekiss, Mimikyu or Azumarill and are now neutral against Aegislash: it's quite stacked against you! Plus, her Zoroark has a crest that allows it to use Aegislash's Stance Change ability... so be careful of that.
 
-The good news is that you are given a couple options to make this fight work in your favor. For one, Steel moves also get a 1.5x boost and hit dragons super effectively, so they hit half of her team hard; Bullet Punch is a savior here. Normal types are immune to Aegislash and Mimikyu's Ghost Attacks, so since they are not the fastest in the world a speedy normal type capable of knocking them out in one attack (after Disguise) might be the way to go. The Magical Seed "buys you time" to set up a sweeper, so I recommend using a couple of those if you're really stuck here.
+The good news is that you are given a couple options to make this fight work in your favor. For one, Steel moves also get a 1.5x boost and hit dragons super effectively, so they hit half of her team hard; Bullet Punch is a savior here. Normal types are immune to Aegislash and Mimikyu's Ghost Attacks. Since they are not the fastest in the world, a speedy normal type capable of knocking them out in one attack (after Disguise) might be the way to go. The Magical Seed "buys you time" to set up a sweeper, so I recommend using a couple of those if you're really stuck here.
 
 To win, you'll receive the *Fate Badge*!
 
@@ -822,7 +822,7 @@ Go left instead of up in the next room. Down from here, you'll be able to grab a
 
 !img("zcell141.png")
 
-Head up - it's time to fight illusions. You get relationship points depending on if you're right.
+Head up - it's time to fight illusions. You get relationship points depending on if you're right, and your party Pokemon will take damage if you are wrong.
 
 **Relationship Point Choices**:
 - Choose the correct Erick (+6 Erick)

@@ -376,7 +376,7 @@ Well....
 
 !move("DECIMATION")
 
-Winning this one is not required. This is of course an extremely difficult battle, in no small part because Decimation is a priority move. Not only that, but it applies the Petrification Status: a custom status that drains the afflicted's HP every turn, similar to Leech Seed, though Rock types are immune. Yet the game was careful to give us a single lifeline in the form of a Focus Sash - will you use it to buy yourself time to Poison or Burn Yveltal? Will you take advantage of the fact it likes to use and miss the inaccurate Focus Blast and Hurricane moves? It cannot heal, so any damage is progress! If you want to win this one it is absolutely possible. Winning grants: (+1 Karma).
+Winning this one is not required. This is of course an extremely difficult battle, in no small part because Decimation is a priority move. Not only that, but it applies the Petrification Status: a custom status that drains the afflicted's HP every turn, similar to Leech Seed, though Rock types are immune. Decimation does have one drawback: it cannot be used twice in a row! The game also gives us another lifeline in the form of a Focus Sash - will you use it to buy yourself time to Poison or Burn Yveltal? Will you take advantage of the fact it likes to use and miss the inaccurate Focus Blast and Hurricane every other turn It cannot heal, so any damage is progress! If you want to win this one it is absolutely possible. Winning grants: (+1 Karma).
 
 Whether you win or lose, watch the next scenes play out.
 

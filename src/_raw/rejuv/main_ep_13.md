@@ -1021,13 +1021,13 @@ Next, fly to Rose Theater and use the Time Splicer Stone.
 
 !enc(106, ["Fishing"], ["Super"])
 
-Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in, why not.
+Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
 
 !enc(474, ["Grass", "Fishing", "Surfing"])
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
-**ZCell 125: Route Z**
+**ZCell 125: Route Z (Nighttime Only)**
 
 !img("zcell125.png")
 
@@ -1091,11 +1091,7 @@ Fly over to Kristiline Town next. The TM shop has updated wares:
 
 !shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
 
-Head to the Isle of Angels.
-
-!enc(540, ["Fishing"], ["Super"])
-
-Enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!! Plus, 3 hidden *Exp. Candy XL*.
+Head to the Isle of Angels and enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!! Plus, 3 hidden *Exp. Candy XL*.
 
 One quest remains for now. Fly over to Jynnobi Pass. 
 

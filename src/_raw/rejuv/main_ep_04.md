@@ -519,7 +519,7 @@ In the auditorium, head down and grab the items: *Super Potion*, *Rawst Berry*, 
 
 !move("SPECTRALSCREAM")
 
-As you can see, Narcissa's team is very tanky and will not hesitate to burn and sleep you to death, so make sure you have counters for these things in place. Her Mismagius is fast and with the field hits like a truck, so you must find a way to live a hit. Flame Charge is boosted by the field and given Ghost sub-typing, so sweeping with it can work. Alternatively, if you have Flash or Dazzling Gleam, it'll remove the field for two turns. Just be aware she can turn it back by using Spectral Scream.
+Narcissa's team is mostly defense-oriented in part thanks to her signature move, though she has some heavy hitters as well. Her Mismagius is fast and benefits from field-boosted moves, so you likely must find a way to live a hit or two from it. The best way to overcome Narcissa is to use the field to your advantage: super-effective Ghost moves are a good choice. Flame Charge is a great choice to sweep with as it is boosted by the field and given Ghost sub-typing. Alternatively, if you have Flash or Dazzling Gleam, it'll remove the field for two turns. Just be aware she can turn it back by using Spectral Scream.
 
 Once you're done, you'll get the Phantasm Badge and *TM30 Shadow Ball*! The Level Cap is now 40!
 

@@ -266,13 +266,13 @@ Surface, then go straight down and dive in the blob-shaped dive spot. Down here 
 
 Fly back to Evergreen Island (to save a few seconds of surfing) and surf right, then down. You'll find a 2x2 square to go down, where you'll find the tallest pillar. Interact with it to activate it with the Enigmatic Key.
 
-Surface, and dive down in the main area of Route 11. This gargantuan area has lots of hidden items, including *4 Blue Shards*, *Revive*, *GourmetTreat*, *3 Heart Scales*, *Pearl*, *Sea Incense*, *Ultra Potion*, *Water Stone*, *Max Repel*, *Nugget*, *Dive Ball*, and *Green Shard*. Anyways, towards the southwest area of the map, you'll find a small 2x2 square to surface. Do so to grab *TM33 Reflect* and:
+Surface, and dive down in the main area of Route 11. This gargantuan area has lots of hidden items, including *4 Blue Shards*, *Revive*, *GourmetTreat*, *3 Heart Scales*, *Pearl*, *Sea Incense*, *Ultra Potion*, *Max Repel*, *Nugget*, *Dive Ball*, and *Green Shard*. Anyways, towards the southwest area of the map, you'll find a small 2x2 square to surface. Do so to grab *TM33 Reflect* and:
 
 **ZCell 133: Route 11 (Nighttime Only)**
 
 !img("zcell133.png")
 
-Dive back down. Straight down from here at the bottom of this area you'll see a little tunnel you can go through. Do so and surface to nab *TM16 Light Screen*. Dive again and go left after exiting the tunnel to the north. Activate the taller pillar here.
+Dive back down. Straight down from here at the bottom of this area you'll see a little tunnel you can go through. Do so and surface to nab *TM16 Light Screen* and a hidden *Water Stone*. Dive again and go left after exiting the tunnel to the north. Activate the taller pillar here.
 
 Head straight to the right until you find another pillar. Activate it, then surface in the 2x2 square immediately to the right to get *Icicle Plate*. Dive down once more, and go up above the third pillar. Surface at this 2x2 square to grab the *Primarium-Z*!
 

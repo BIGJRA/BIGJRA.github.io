@@ -68,7 +68,7 @@ A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, then trade it wit
 
 Go up to reach the Isle of Angels.
 
-!enc(540, nil, ["Old", "Good"])
+!enc(540, "Grass")
 
 At night, you can catch the "legendary" **Phione** here by giving it a *GourmetTreat*.
 

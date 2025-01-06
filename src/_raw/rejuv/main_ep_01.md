@@ -74,7 +74,7 @@ After the fight with Ren, Jenner asks you to visit Route 1 to help Melia. He the
 
 The EV training center can be accessed by talking to the woman on the right of the counter, but none of its training rooms are open right now.
 
-The guy running in place on the left will offer to give you cinematic bars during important cutscenes if you want. Talk to the girl behind the counter to buy some basic products.
+Talk to the girl behind the counter to buy some basic products.
 
 !shop("Gearen Lab", ["Poke Ball", "Potion", "Repel", "Antidote"])
 
@@ -655,7 +655,7 @@ This is the first of the Rift boss fights in Rejuvenation. Using moves like Grow
 
 Talk to the grandfather in the train station to finish *Lost Girl!*. He'll give you *4 Exp. Candy S*.
 
-Return to Jenner's Lab and head upstairs. You'll need to battle Madelis' Houndoom as Melia, using Togepi. 
+Return to Jenner's Lab. You'll need to battle Madelis' Houndoom as Melia.
 
 !newself(["Melia",:TRAINER_MELIA1,1], "Melia")
 
