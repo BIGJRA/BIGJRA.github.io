@@ -299,7 +299,7 @@ Next is a battle against Melia.
 
 !battle(["Melia",:ENIGMA_1,4], "Chess Board")
 
-Another tough Chess Board fight! Every one of her Pokemon are pretty threatening in some way. Zoroark likes to prank you and murder with field boosted Sucker Punch. It also gets to inherit the ability and STAB of whatever it is copying, so be very wary of that. If Meganium gets off an Ancient Power with boost, its bulk may lead it to a sweep. That said, you can overwhelm her: she has weaknesses to Poison and Fighting, so using the Pawn, King, and Queen positions to deal heavy damage with these types may work.
+Another tough Chess Board fight! Every one of her Pokemon are pretty threatening in some way. Zoroark likes to prank you and murder with field boosted Sucker Punch. It also gets to inherit the ability and STAB of whatever it is copying, so be very wary of that. If Meganium gets off an Ancient Power with boost, its bulk may lead it to a sweep. That said, you can overwhelm her: she has weaknesses to Poison and Fighting, so using the Pawn, King, and Queen positions to deal heavy damage with these types may work. Note that you need not win this fight to proceed.
 
 **Relationship Point Choices**:
 - About what? (Neutral)
@@ -513,9 +513,9 @@ Let's look at how this fight plays out. His first Pokemon comes in: a Skarmory t
 I will not pretend that it is impossible, however! Some ideas:
 
 - As stated before, Cloud Nine users can temporarily disable this weather condition, so perhaps Drampa with an Electric move or Golduck with an Ice move can find success. 
-- Although I mentioned Heavenly Wing bringing the field back to Sky Field, in this version only two of his Pokemon have this move, meaning we can maybe get away with it. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano and Snowy Mountain, allowing you to win with some strategy involving Fire/Ice moves respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and again, flying moves hit hard in the latter. Probably the best field change you can do from Mountain is using Dig to switch to Cave Field, which is a good way to neutralize most of his strategy.
+- Although I mentioned Heavenly Wing bringing the field back to Sky Field, only two of his Pokemon have this move, meaning we can maybe get away with a field change. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano or Snowy Mountain respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and flying moves hit hard in the latter.
 - If you can't beat him, join him! The Sky Field can be beneficial for your team, too: take advantage of your own 8-turn Tailwinds and boosted Flying type moves to outspeed when his Tailwind is off! 
-- As usual: TRICK ROOM is a fantastic choice. Older versions of Rejuv didn't let you have the Trick Room TM before this fight, so that may be the single greatest change that can help you turn the tide here.
+- Last but not least, the legendary Trick Room is a fantastic choice as an anti-Tailwind device!
 
 Win to get the Golden Wing Badge, raising our Level Cap to Lv. 80, and *TM62 Acrobatics*!
 

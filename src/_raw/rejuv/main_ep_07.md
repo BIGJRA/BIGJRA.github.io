@@ -169,11 +169,13 @@ Once you're back in Teila, sleep again by talking to Melia. Head outside to lear
 
 !enc(213)
 
-Catch a Spinda while we're here to trade away, later. To the left, push a floating rock out of the way to get a *Sun Stone* and:
+Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Sun Stone* and:
 
 **ZCell 062: Magrodar Crater**
 
 !img("zcell062.png")
+
+On the right, push away another floating stone to reach a hidden *Black Prism*.
 
 !battle(["Valencia",:LADY,0], "Rocky Field")
 
@@ -222,15 +224,25 @@ Follow Amber into her room next.
 - I'm here to help. (+2 Amber)
 - What next? (Neutral)
 
+It's worth noting that we can now take the Yacht outside to fast travel between Oceana Pier, Akuwa Town, and Teila Resort. Nice!
+
 ## Attacks on Terajuma
 
 Say "Let's go" to fast travel. Once you get control in the cave, head left. It's a bit hard to see. You'll once again regain control: go right and down to escape.
 
 !partner(["Melia",:ENIGMA,1])
 
-!dbattle(["Madelis",:XENEXECUTIVE_2,6], ["Bartz",:XENMAGE_M,0])
+This fight will be different depending on our outcome with Madame X earlier. The easier fight occurs if you didn't defeat Madame X:
 
-Another fun battle with a Xen Mage - they can cause all kinds of effects in battle. Melia's Meganium is an absolute tank with its Crest, so this shouldn't be too hard.
+!dbattle(["Madelis",:XENEXECUTIVE_2,2], ["Bartz",:XENGRUNT_M,0], "Crystal Cavern Field")
+
+This should be a fairly straightforward multi-battle, and Melia can hold her own.
+
+If you did defeat Madame X, you'll have this fight:
+
+!dbattle(["Madelis",:XENEXECUTIVE_2,6], ["Bartz",:XENMAGE_M,0], "Crystal Cavern Field")
+
+Another fun battle with a Xen Mage - they can cause all kinds of effects in battle including the above field change!
 
 Back outside on Route 5, grab the hidden *Calcium* by the boat, then go back to Tesla's office in Teila Resort.
 
@@ -241,7 +253,15 @@ Back outside on Route 5, grab the hidden *Calcium* by the boat, then go back to 
 
 Time for a GAUNTLET. That's right. Two battles, back to back, no healing in between.
 
+If you didn't defeat Madame X earlier, you'll have this fight first:
+
+!battle(["Danni",:XENGRUNT_M,1])
+
+If you did defeat Madame X earlier, you'll have this fight with a Mage instead:
+
 !battle(["Harris",:XENMAGE_M,0])
+
+In either case, the second battle will be against Neved:
 
 !battle(["Neved",:XENEXECUTIVE_4,2])
 
@@ -395,7 +415,7 @@ Enter the tower.
 
 !enc(344)
 
-Follow the path up. After talking to Zetta and Jenner, smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
+Follow the path up. Smash the wall to the left. Follow the path all the way to a shiny key on the ground. Double back from here.
 
 **Relationship Point Choices**:
 - Fail to defeat Madame X and the first Tapu Koko fight (-3 Crescent)
@@ -424,7 +444,7 @@ Study the sign nearby. You can drop a ladder here before proceeding. Talk to Bon
 
 Drop another ladder when you get outside. Back at the bottom, you can now get *6 Sitrus Berries* and *5 Yache Berries*.
 
-Reenter the Cellar. It is now frozen, so you can slide around. Follow the first hole in the wall, then in the top left, smash a wall to get *TM79 Frost Breath*! Enter the room at the bottom to get a hidden *Blue Shard* and fight a servant.
+Reenter the Cellar. It is now frozen, so you can slide around. Follow the first hole in the wall, then in the top left, smash a wall to get *TM79 Frost Breath* and a hidden *Elemental Seed*! Enter the room at the bottom to get a hidden *Blue Shard* and fight a servant.
 
 !battle(["Nadia",:SERVANT,0], "Frozen Dimensional Field")
 

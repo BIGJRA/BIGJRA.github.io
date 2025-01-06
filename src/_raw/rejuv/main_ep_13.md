@@ -31,7 +31,7 @@ Enter the student rec. center. In the left room you'll find another game corner!
 
 !shop("GDC Arcade", [["Rookidee", "3000 Coins", true], ["Mienfoo", "4000 Coins", true], ["Durant", "7500 Coins", true], ["Axew", "9000 Coins", true]])
 
-Enter the Blakeory Museum in the top left side of the District, and pay admission. Someone to the right will give you a *Green Shard*. To the left is an in-game trade: your Masquerain for **Smeargle**!
+Enter the Blakeory Museum in the top left side of the District, and pay admission. Someone to the right will give you a random shard: *Blue Shard*, *Red Shard*, or *Green Shard*. To the left is an in-game trade: your Masquerain for **Smeargle**!
 
 At the top, talk to the museum director to finally continue the *Wall of Shame* quest. Make the long journey back to Arturo in the southwestern house of the Judicial District. Back in the museum, head up to learn the painting has been stolen! Outside, you'll see the thief run off. Chase him to The Underground: he's in the shop building to the right of the diner.
 
@@ -61,9 +61,9 @@ Head outside.
 
 From here, the route splits depending on our choices in the Darchlight Caves regarding Flora:
 
-[Don't Expose Flora](#badlands-arc-dont-expose-flora-route) | [Expose Flora](#badlands-arc-expose-flora-route)
+[Expose Flora](#badlands-arc-expose-flora-route) | [Don't Expose Flora](#badlands-arc-dont-expose-flora-route)
 
-## Badlands Arc (Don't Expose Flora Route)
+## Badlands Arc (Expose Flora Route)
 
 After the meal at the restaurant, head over to the Judicial District. Talk to Allen and Alice at the bottom.
 
@@ -85,7 +85,7 @@ Input the password "alamissa" at the bottom. Up in the captain's quarters, go ri
 
 Head up to the main deck and go all the way left.
 
-!dbattle(["Sy'yo",:SASHILAWARRIORF_2,0], ["Ryland",:LEADER_RYLAND1,0])
+!dbattle(["Sy'yo",:SASHILAWARRIORF_2,0], ["Ryland",:LEADER_RYLAND1,0], "City Field")
 
 !move("DESERTSMARK")
 
@@ -97,7 +97,7 @@ Head out to the right side of the deck to talk to Ryland if you wish.
 - All good. (+2 Ryland)
 - Communicate next time... (-1 Ryland)
 
-### Sashila Village (Don't Expose Flora Route)
+### Sashila Village (Expose Flora Route)
 
 A hidden *HP Up* is to the right. Grab a hidden *Grass Gem* to the right. Go straight up 
 and talk to Kanon in the back room.
@@ -118,7 +118,7 @@ To the left, enter the Study Library. Talk to someone to get the *House Key*! Ou
 
 !shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "GourmetTreat", "Reverse Candy"])
 
-### Zorrialyn Desert (Don't Expose Flora Route)
+### Zorrialyn Desert (Expose Flora Route)
 
 Head to the Zorrialyn Coast by exiting Sashila at the bottom.
 
@@ -170,7 +170,7 @@ Go up the stairs in the top right corner of the map. Pick up the hidden *Red Sha
 
 !img("zcell118.png")
 
-### Voidal Chasm (Don't Expose Flora Route)
+### Voidal Chasm (Expose Flora Route)
 
 You'll find an *Odd Keystone* to the left, plus four hidden *Ethers*. Talk to the sign, then to the small drip of water to proceed.
 
@@ -182,7 +182,7 @@ In the next area, pick up the *White Herb* and three hidden *Ethers*. Finding th
 
 You'll be taken back to Sashila Village. Head to the inn and enter the room in the back, and agree to sleep. The [routes converge](#hospital-of-ruin) from here.
 
-## Badlands Arc (Expose Flora Route)
+## Badlands Arc (Don't Expose Flora Route)
 
 !battle(["Miya",:BLADESTAR_F,0])
 
@@ -200,7 +200,7 @@ Exit the train into Bladestar HQ. You'll have to choose one Pokemon for a 1v2 fi
 
 !battle(["Risa Raider",:POPSTAR,1], "Factory Field")
 
-### Voidal Chasm (Expose Flora Route)
+### Voidal Chasm (Don't Expose Flora Route)
 
 Take the warp to the next area. Grab the two hidden *Ethers*, then attempt to take the warp at the top. Head down and right: you can hop to continue.
 
@@ -216,7 +216,7 @@ Backtrack and take the previous warp at the top. Follow the path down.
 
 Grab the hidden *Ether* and *Old Scarf*, then proceed. Grab *TM148 Phantom Force* and exit to the desert!
 
-### Zorrialyn Desert (Expose Flora Route)
+### Zorrialyn Desert (Don't Expose Flora Route)
 
 Activate the Braviary Post here, our first for the Badlands region of Aevium!
 
@@ -270,7 +270,7 @@ We will do the Zorrialyn Labyrinth later on, so head left and down. Grab the hid
 
 Nothing awaits us at the end of the path yet, so head north then west into Sashila Village!
 
-### Sashila Village (Expose Flora Route)
+### Sashila Village (Don't Expose Flora Route)
 
 **Relationship Point Choices**:
 - Trust Ren on this. (Neutral)
@@ -334,7 +334,7 @@ We will be in control of ourselves once more.
 
 Talking to her also awards *5 Revives*, *5 Max Potions*, and *5 Exp. Candy XL*.
 
-Exit the village. Attempt to use the House Key in the building all the way at the bottom of Sashila Coast, and it will snap in half. We'll continue that quest a bit later on.
+Exit the village. Attempt to use the House Key in the building all the way at the bottom of Zorrialyn Coast, and it will snap in half. We'll continue that quest a bit later on.
 
 Enter Alamissa Urben at the top of Zorrialyn Desert East. Talk to Ren at the entrance and you'll get **Sylveon**, as well as the *Mysterious Black Box*. 
 
@@ -620,7 +620,7 @@ Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here!
 
 !enc(514)
 
-Interact with the space in the ground here and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
+Grab the hidden *Elixir* and climb up. Interact with the space in the ground here and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
 
 Hidden in this room is a *Green Shard*, *Soft Sand*, *Rock Gem*, *Rawst Berry*, *Sitrus Berry*, *Berry Juice* and *Lava Cookie*.
 
@@ -725,7 +725,7 @@ You can also catch the overhead **Wingull** and **Pelipper**!
 
 Pick up *TM74 Gyro Ball*. That's it for Route 10. 
 
-A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of Route 10 if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
+A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of the Honec Woods if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
 
 Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
 
@@ -1021,13 +1021,13 @@ Next, fly to Rose Theater and use the Time Splicer Stone.
 
 !enc(106, ["Fishing"], ["Super"])
 
-Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in, why not.
+Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
 
 !enc(474, ["Grass", "Fishing", "Surfing"])
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
-**ZCell 125: Route Z**
+**ZCell 125: Route Z (Nighttime Only)**
 
 !img("zcell125.png")
 
@@ -1077,7 +1077,7 @@ Back on the roof of the temple, sneak past the three cyclones at the top. You'll
 
 Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island.
 
-In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! You will also get *Xen Waste* for the capture.
+In the bottom right corner, you can push a boulder to reach a raid den. Throw in 15000 Red Essence and a Rift Fragment, and you'll be able to battle **Shadow Beldum**! This Pokemon is similar to that of other Raid Dens: it starts with 40 EVs and 20 IVs for all six stats, and has custom moves: Life Dew, Zap Cannon, Gravity, and Iron Head. You will also get *Xen Waste* for the capture.
 
 Fly to Teila Resort and enter the Magrodar Crater. At night, you can push a floating Black Shard on the left to find Chimchar. Give it 12 Charcoal to catch **Chimchar**!
 
@@ -1091,11 +1091,7 @@ Fly over to Kristiline Town next. The TM shop has updated wares:
 
 !shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
 
-Head to the Isle of Angels.
-
-!enc(540, ["Fishing"], ["Super"])
-
-Enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!!!
+Head to the Isle of Angels and enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!! Plus, 3 hidden *Exp. Candy XL*.
 
 One quest remains for now. Fly over to Jynnobi Pass. 
 

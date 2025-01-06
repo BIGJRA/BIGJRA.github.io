@@ -241,8 +241,6 @@ Exit Neved's office, head back down the stairs, and enter the colorful door. Tal
 
 !enc(435)
 
-I recommend catching everything here, in particular Cramorant, who we can't get later on.
-
 Head back to your bed on the lower level and get some sleep.
 
 ### Day 2
@@ -291,7 +289,7 @@ Push it into its spot, then repeat with the robot to the left.
 
 Finally fly over the pit at the bottom and fight the third robot, then push it into its place.
 
-!battle(["Purple Stripe",:SECURITYBOT,100], "Cave Field")
+!battle(["Green Stripe",:SECURITYBOT,100], "Cave Field")
 
 Head into this room, then interact with the computer. Enter the room on the left.
 
@@ -378,7 +376,7 @@ Well....
 
 !move("DECIMATION")
 
-Winning this one is not required. This is of course an extremely difficult battle, in no small part because Decimation is a priority move. Not only that, but it applies the Petrification Status: a custom status that drains the afflicted's HP every turn, similar to Leech Seed, though Rock types are immune. Yet the game was careful to give us a single lifeline in the form of a Focus Sash - will you use it to buy yourself time to Poison or Burn Yveltal? Will you take advantage of the fact it likes to use and miss the inaccurate Focus Blast and Hurricane moves? It cannot heal, so any damage is progress! If you want to win this one it is absolutely possible. Winning grants: (+1 Karma).
+Winning this one is not required. This is of course an extremely difficult battle, in no small part because Decimation is a priority move. Not only that, but it applies the Petrification Status: a custom status that drains the afflicted's HP every turn, similar to Leech Seed, though Rock types are immune. Decimation does have one drawback: it cannot be used twice in a row! The game also gives us another lifeline in the form of a Focus Sash - will you use it to buy yourself time to Poison or Burn Yveltal? Will you take advantage of the fact it likes to use and miss the inaccurate Focus Blast and Hurricane every other turn It cannot heal, so any damage is progress! If you want to win this one it is absolutely possible. Winning grants: (+1 Karma).
 
 Whether you win or lose, watch the next scenes play out.
 
