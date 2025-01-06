@@ -61,9 +61,9 @@ Head outside.
 
 From here, the route splits depending on our choices in the Darchlight Caves regarding Flora:
 
-[Expose Flora](#badlands-arc-expose-flora-route) | [Don't Expose Flora](#badlands-arc-dont-expose-flora-route)
+[Don't Expose Flora](#badlands-arc-dont-expose-flora-route) | [Expose Flora](#badlands-arc-expose-flora-route)
 
-## Badlands Arc (Expose Flora Route)
+## Badlands Arc (Don't Expose Flora Route)
 
 After the meal at the restaurant, head over to the Judicial District. Talk to Allen and Alice at the bottom.
 
@@ -97,7 +97,7 @@ Head out to the right side of the deck to talk to Ryland if you wish.
 - All good. (+2 Ryland)
 - Communicate next time... (-1 Ryland)
 
-### Sashila Village (Expose Flora Route)
+### Sashila Village (Don't Expose Flora Route)
 
 A hidden *HP Up* is to the right. Grab a hidden *Grass Gem* to the right. Go straight up 
 and talk to Kanon in the back room.
@@ -118,7 +118,7 @@ To the left, enter the Study Library. Talk to someone to get the *House Key*! Ou
 
 !shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "GourmetTreat", "Reverse Candy"])
 
-### Zorrialyn Desert (Expose Flora Route)
+### Zorrialyn Desert (Don't Expose Flora Route)
 
 Head to the Zorrialyn Coast by exiting Sashila at the bottom.
 
@@ -170,7 +170,7 @@ Go up the stairs in the top right corner of the map. Pick up the hidden *Red Sha
 
 !img("zcell118.png")
 
-### Voidal Chasm (Expose Flora Route)
+### Voidal Chasm (Don't Expose Flora Route)
 
 You'll find an *Odd Keystone* to the left, plus four hidden *Ethers*. Talk to the sign, then to the small drip of water to proceed.
 
@@ -182,7 +182,7 @@ In the next area, pick up the *White Herb* and three hidden *Ethers*. Finding th
 
 You'll be taken back to Sashila Village. Head to the inn and enter the room in the back, and agree to sleep. The [routes converge](#hospital-of-ruin) from here.
 
-## Badlands Arc (Don't Expose Flora Route)
+## Badlands Arc (Expose Flora Route)
 
 !battle(["Miya",:BLADESTAR_F,0])
 
@@ -200,7 +200,7 @@ Exit the train into Bladestar HQ. You'll have to choose one Pokemon for a 1v2 fi
 
 !battle(["Risa Raider",:POPSTAR,1], "Factory Field")
 
-### Voidal Chasm (Don't Expose Flora Route)
+### Voidal Chasm (Expose Flora Route)
 
 Take the warp to the next area. Grab the two hidden *Ethers*, then attempt to take the warp at the top. Head down and right: you can hop to continue.
 
@@ -216,7 +216,7 @@ Backtrack and take the previous warp at the top. Follow the path down.
 
 Grab the hidden *Ether* and *Old Scarf*, then proceed. Grab *TM148 Phantom Force* and exit to the desert!
 
-### Zorrialyn Desert (Don't Expose Flora Route)
+### Zorrialyn Desert (Expose Flora Route)
 
 Activate the Braviary Post here, our first for the Badlands region of Aevium!
 
@@ -270,7 +270,7 @@ We will do the Zorrialyn Labyrinth later on, so head left and down. Grab the hid
 
 Nothing awaits us at the end of the path yet, so head north then west into Sashila Village!
 
-### Sashila Village (Don't Expose Flora Route)
+### Sashila Village (Expose Flora Route)
 
 **Relationship Point Choices**:
 - Trust Ren on this. (Neutral)
