@@ -639,7 +639,7 @@ Proceed south.
 
 Snag his **Shadow Cacnea**. Grab a hidden *Rare Candy* in the pumpkin. Head left.
 
-!battle(["Eli and Sharon",:MISFORTUNATEDUO,0])
+!battle(["Eli and Sharon",:MISFORTUNATEDUO,0], "Forest Field")
 
 A weak early game team, but you'll have to get used to the doubles format present in much of Rejuvenation. Murkrow is the hardest hitter, while you'll have to be careful about the status spreading from Glameow and Stunky.
 

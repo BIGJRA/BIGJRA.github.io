@@ -452,7 +452,7 @@ Grab the *Dragon Scale* on the left of the summit.
 
 Head up to the top when you're ready. The first battle:
 
-!boss("VALORGIRATINA", "Volcanic Field")
+!boss("VALORGIRATINA", "Volcanic Top Field")
 
 Another straightforward boss where status conditions are key. The omniboost is a bit scary, though you can cancel it out with a move like Haze.
 
@@ -460,7 +460,7 @@ Heal, and follow the action to the top. Time for a double battle with Melia.
 
 !partner(["Melia",:ENIGMA,5])
 
-!dbattle(["Geara",:XENEXECUTIVE_3,2], ["Zetta",:XENEXECUTIVE_1,8], "Volcanic Field")
+!dbattle(["Geara",:XENEXECUTIVE_3,2], ["Zetta",:XENEXECUTIVE_1,8], "Volcanic Top Field")
 
 This battle is insane, but at least a fitting final Xen boss to Act 1 of Pokemon Rejuvenation! Zetta's Typhlosion is intense, as it's fast and its Eruption is strong. Grimmsnarl also gets basically at least 1 free screen unless you have Brick Break to remove it, so that is also tough to deal with. Their aces, Gengar and Silvally respectively, are also insanely fast and can kill most of your Pokemon. Melia's team used to be worse, TRUST ME IT WAS SO MUCH WORSE, but now she's a mostly competent doubles ally. Generally, this fight is won by targeting one of your two opponents and making sure Melia covers you.
 
@@ -472,7 +472,7 @@ Afterwards, return to the top of the mountain, collecting the souls as you go. Y
 
 !partner(["Venam",:LEADER_VENAM,3])
 
-!dbattle(["Geara",:XENEXECUTIVE_3,5], ["Zetta",:XENEXECUTIVE_1,12], "Volcanic Field")
+!dbattle(["Geara",:XENEXECUTIVE_3,5], ["Zetta",:XENEXECUTIVE_1,12], "Volcanic Top Field")
 
 Of course, all the opponents' Pokemon have 1 HP. That makes this one a breeze!
 
