@@ -698,7 +698,7 @@ Every time you want to proceed to B2F, you'll need to follow these steps on B1F:
 (3) *Leafeon Crest*
 (4) *Relic Silver*
 (5) *Sky Plate*
-(6) *Toxic Orb*
+(6) *Flame Orb*
 (7) *Stone Plate*
 (8) *Glaceon Crest*
 

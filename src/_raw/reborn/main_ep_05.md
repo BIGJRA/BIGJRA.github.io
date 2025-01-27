@@ -248,7 +248,7 @@ On windy days, you can have a battle!
 
 Just gotta find a way to hit Shiftry with a Bug move and you'll probably win here. As a reward, you'll get **Nuzleaf** by talking to it.
 
-The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have 1) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return without an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
+The totem at the top here also has Pokemon in it. For each Ill-Fated Doll you have (we only have one, for now) you can fight and catch a Pokemon in the sequence **Baltoy**, **Elgyem**, **Golett**. Which Pokemon this sequence starts at is randomly determined, however. If you make your way all the way back through Beryl Cave to Beryl Ward, then return *without* an Ill-Fated Doll in your bag on a clear day, you can catch **Natu** on the totem pole.
 
 ### Smashin' at Citrine Mountain
 

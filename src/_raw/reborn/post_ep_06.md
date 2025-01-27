@@ -288,11 +288,11 @@ Finally, return to the mushrooms in the bottom left corner. Follow the path thro
 
 Use the blue mushroom down and left from here, then follow the opened path. Use a red mushroom once more, then the blue mushroom in the bottom right corner. Grab the final *Gracidea*!
 
-Return to the center and climb the hill. Craudberry will show up... and we have a bit of an interesting battle-based quest to take care of!
+Return to the center and climb the hill. Craudburry will show up... and we have a bit of an interesting battle-based quest to take care of!
 
 !battle(["Craudburry", :HARRIDAN, 2], "Flower Garden Field")
 
-Winning this battle isn't hard. However, the catch here is that we actually need to end the battle with the Flower Garden Field at Stage 5... and Craudberry does everything in her power to ruin this mission.
+Winning this battle isn't hard. However, the catch here is that we actually need to end the battle with the Flower Garden Field at Stage 5... and Craudburry does everything in her power to ruin this mission.
 
 To succeed, you'll have to keep a few things in mind. First of all: any temporary field changes are bad, since they will reset your Flower Garden to progress. This means that Sun + Rain together is a bad idea thanks to Rainbow Field. Heat Waves on Heatmor, Torkoal, and Crobat will turn the field into Burning Field when it is not raining, and one use of Amoonguss' Grassy Terrain will switch the field as well. Even within the Flower Garden, its Acid Downpour will reset the field to Stage 1, so you'll need to either knock out Amoonguss in one turn or worry about building up the field after the Z-Move is used. Finally, Cut and X-Scissor cut the field down a stage for each use, so you probably want to make sure Victreebel and Qwilfish don't use it much. Using a Nature Power Growth sweeper and/or giving your entire party Synthetic Seeds should then net you the win condition.
 

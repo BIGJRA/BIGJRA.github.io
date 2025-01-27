@@ -274,7 +274,9 @@ Anyways, some more encounters await: whether you go fishing from the Peridot sid
 
 !enc(153, ["Fishing"], ["Good"])
 
-The other major thing we can do now in Reborn City is to head on over to Onyx Ward and return the House Key to the girl on the west side to get a *Heart Scale*. She is the Move Relearner and will trade us relearned moves for Heart Scales... which we have in spades thanks to mining. Juice up your movesets if you'd like.
+Head on over to Onyx Ward and return the House Key to the girl on the west side to get a *Heart Scale*. She is the **Move Relearner** and will trade us relearned moves for Heart Scales... which we have in spades thanks to mining. Juice up your movesets if you'd like.
+
+Now that we've found the second Ill-Fated Doll, you can head into the Rhodochrine Jungle via the Beryl Cave to access the totem and get the second of **Elgyem**, **Baltoy**, and **Golett**.
 
 Take the Coral Ward boat to Apophyll. Grab Luvdisc from the PC, then head along the outer right wall of the academy to find someone who'll do an in-game trade: your Luvdisc for their **Darumaka**.
 

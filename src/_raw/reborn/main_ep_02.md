@@ -295,7 +295,7 @@ Return to South Obsidia Ward and use your new field move to chop down the tree. 
 
 !battle(["Carter", :StreetRat, 0])
 
-Talk to the kid here while the weather is clear - we will reunite him with his mother as soon as we can. Enter the Glazamonia Salon here. Furfrou can later be groomed here, they also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
+Enter the Glazamonia Salon here. Furfrou can later be groomed here, they also offer massages for $2000. A lady here will ask us to investigate the Central Salon for them - we will do so later.
 
 Back in Obsidia Ward, head up from here. You'll be back in the area in front of the park - we can actually access one more side area before we proceed into the park. At the left end of the ward, down from the Cafe Salon, cut down the tree and go south.
 
@@ -411,7 +411,7 @@ We can also talk to an employee to get the *Membership Card* and the *Department
 
 Our Pokemon have been getting random EV's so far - if you in the future want to EV train your Pokemon, you can buy these to make the process easier. In Reborn, 20 EVs per berry are lowered instead of the canon 10. Don't worry about them for now - EV training will become a lot easier later on.
 
-Make your way down and left to the Obsidia Pokemon Center and talk to the mom inside. Tell her where her son is to get an *Ability Capsule*!
+Next, head south from Obsidia Park to re-enter South Obsidia Ward. To the left of the Glamazonia Salon, talk to the kid here. Return to the Obsidia Pokemon Center and talk to the mom near the PC and tell her where her son is to get an *Ability Capsule*!
 
 If you're interested in a trade, evolve Sentret we got earlier by raising it to Lv. 15 to get **Furret**. In the house left from the Pokemon Center, you can trade it to get **Castform**!
 

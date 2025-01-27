@@ -478,8 +478,6 @@ This is a tough fight. You're gonna need to break the barriers, but luckily your
 
 This is a well put together doubles team. Persian will probably hit first and Marowak will probably hit last and probably knock one of your mons out, so plan your turn 1 attacks accordingly. Morgrem and Clefairy are very effective at stalling, but you can try to time knocking them out so that the screens run out. Haunter and Masquerain hit hard but if you have set up any of your Pokemon you may be able to succeed!
 
-When you're back in town, you can proceed to the gym immediately, or go tackle a side area real fast.
-
 ## Phantasm Badge
 
 After you've left Narcissa's house, talk to the Audino breeder next to the Pokemon Center for a repeatable battle against 3 Audino. Each time you win, you'll get *5* *Exp. Candy S*.

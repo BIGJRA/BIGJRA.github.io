@@ -189,7 +189,11 @@ Back in seventh, the house in the bottom left corner will now be unlocked. If yo
 
 Although we now have both Amaura and a Jaw Fossil, it's worth noting that the cultist will ask for a Pidgeot in exchange for another fossil. Afterwards, you can trade Helix Fossils for more Jaw and Sail fossils if you want more.
 
-Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudberry storm off. Your gang leader will tell you to meet at her house, so exit to Lapis and do so.
+Back outside, if you haven't already seen the scene, walk south from the psychologist towards the Pokemon sellers to see Madame Craudburry storm off. Your gang leader will tell you to meet at her house, so exit to Lapis Ward.
+
+While we're outside, I will note that if you have gotten Elgyem and Baltoy from the Rhodochrine Totem, you can now head over and get Golett (in the other two cases, you can simply catch Elgyem and Baltoy in Citae Astrae), so take care of that if you like.
+
+Head to Ms. Craudburry's house in Lapis.
 
 !battle(["Craudburry", :HARRIDAN, 0])
 

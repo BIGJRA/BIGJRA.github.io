@@ -217,7 +217,7 @@ Talk to the guys guarding the North Obsidia alleyway for a battle.
 
 Once you make it in, you'll find *TM46 Thief* as well as a hidden *Red-Hots*. Talk to Maxwell in the back.
 
-Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Maxwell here. Then make your way to Ms. Craudberry's house down from the Pokemon Center. Head into the backroom.
+Make your way to the shack to the right of the flower shop in Lapis Ward. Talk to Maxwell here. Then make your way to Ms. Craudburry's house down from the Pokemon Center. Head into the backroom.
 
 !battle(["Pierce", :AQUA2, 0])
 
@@ -249,7 +249,7 @@ Just for completeness, Archer won't be blocking the pond in the alleyway anymore
 
 !enc(170, ["Fishing"], ["Old"])
 
-Anyways, make your way to Ms. Craudberry's house, which is south of the Lapis Pokemon Center. Head into the backroom.
+Anyways, make your way to Ms. Craudburry's house, which is south of the Lapis Pokemon Center. Head into the backroom.
 
 !battle(["Darm", :MAGMA2, 0])
 
@@ -267,7 +267,7 @@ Head over to the Lapis Ward. To the west of the gym you'll find the Aqua Gang me
 
 ### Getting the Bicycle and Zorua
 
-Regardless of your gang choice, head over to Madame Craudberry's house once more. Inside, she'll try to get you arrested, but if you have saved all the Jasper Ward police officers, they'll trust that you are not a gang member. Hehehe.
+Regardless of your gang choice, head over to Madame Craudburry's house once more. Inside, she'll try to get you arrested, but if you have saved all the Jasper Ward police officers, they'll trust that you are not a gang member. Hehehe.
 
 Head outside and try to leave, and the cop will even give you a *Bike Voucher*! Enter the building below and trade it away to get the *Bicycle*! Heck yes.
 

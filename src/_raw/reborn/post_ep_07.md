@@ -308,7 +308,7 @@ Finally, accept Smeargle's quest. Head over to Apophyll Cave and make your way t
 
 !enc(887)
 
-Depending on your route, you'll see Taka or Zero above, who will join you for this quest.
+Depending on your story decisions thus far, you'll see Taka or Zero above, who will join you for this quest.
 
 Switching between us and them with the "A" key, you'll need to progress with each character to get the other to proceed. To succeed:
 
@@ -340,15 +340,15 @@ Switching between us and them with the "A" key, you'll need to progress with eac
 
 You'll need to transform the gemstones near MC black, and the ones near XM white. Each gemstone also changes the ones immediately around it. It shouldn't be too hard with some trial and error. Head up from here and go through the door.
 
-You'll have a partner here: if we're with Zero:
+You'll have a partner here: if Taka is dead and we're with Zero:
 
 !partner(["Zero", :ZEL3, 0])
 
-If we're with Taka and he accompanied us in the desert:
+If we're with Taka and he has both eyes:
 
 !partner(["Taka", :Taka2, 1])
 
-If we're with Taka and we didn't battle him at WTC:
+If we're with Taka and he only has one eye:
 
 !partner(["Taka", :ZTAKA2, 0])
 

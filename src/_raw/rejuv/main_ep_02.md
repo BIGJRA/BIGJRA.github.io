@@ -141,7 +141,7 @@ A wall above her on the right contains a hidden *Ether*.
 
 !battle(["Hinata",:TOURIST,0])
 
-The path above is now clear, so you have a shorter path to traverse through Route 2. Return to the Kecleon Bazaar on the south side of the Route. On the right, you'll be able to purchase a *Magnetic Lure* for $2000. This item makes it so you will encounter Pokemon you haven't caught yet when held, which is fantastic for a 100% playthrough. Leaving and reentering will allow you to buy the *Mirror Lure* for $2000, which makes it so you'll encounter the same Pokemon as your lead, helpful for shiny hunting.
+The path above is now clear, so you have a shorter path to traverse through Route 2. Return to the Kecleon Bazaar on the south side of the Route. On the right, you'll be able to purchase a *Magnetic Lure* for $2000. This item makes it so you will encounter Pokemon you haven't caught yet when held, which is fantastic for a 100% playthrough.
 
 The four items of inventory on the left are determined randomly each day - a number is picked from 1-8. You'll get one set of the following:
 
@@ -440,7 +440,7 @@ Return to Sheridan Arena when you're ready and talk to Aelita.
 
 This battle is the first to really show you how well the trainers compensate for their type disadvantages here -- almost everything has a Dark or Rock type move. Scraggy is a good dud to leave out on one side of the field, especially if you can paralyze it, as it doesn't do enough damage to really be threatening at least compared to his other Pokemon. Combusken can be tough once it outspeeds you, but also has Protect so it might be smart to focus your attacks on the other Pokemon. Lucario is annoyingly bulky and can hit pretty hard, so focusing on taking it out may be advisable. A very tough fight, but you have lots of team options to make it more possible.
 
-Sensei runs off instead of paying up a badge. Follow Aelita into the waterfall cave.
+Sensei runs off, instead of paying up a badge! Follow Aelita into the waterfall cave.
 
 ## Carotos Mountain
 
@@ -543,6 +543,8 @@ Head up to talk to Keta. You'll receive *TM103 Stacking Shot* as well as the Dia
 By talking to the butterfly at the top of the map, we can now fight Keta's spirit if we wish, but it's a bit too high leveled for our party right now. Make your way back to Sheridan!
 
 It's worth noting that we now have access to the Purify Chamber in the PC! Shadow Pokemon in Rejuvenation have moves they can't normally get, for example Ponyta has Fell Stinger and Bonsly has Shift Gear. Stick them in the Purify Chamber to get them slowly purified.
+
+If you head back through Amethyst Cave to Route 2 and enter the Kecleon Bazaar, if you've bought the Magnetic Lure already, you can buy the *Mirror Lure* for $2000, which makes it so you'll encounter the same Pokemon as your lead, helpful for shiny hunting.
 
 One more thing we can do: head into the house in the bottom right of Sheridan. Gothitelle will battle us!
 

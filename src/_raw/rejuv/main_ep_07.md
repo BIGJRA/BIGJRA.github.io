@@ -460,11 +460,16 @@ On the right side of the room, get hidden *Green Shard* and *Revive* and pick up
 
 Head back up from the previous room. In this central hub, go right next. Get the hidden *Ice Gem* and pick up the *Ice Heal*. That's all for the cellar area right now, so head back up the tower to where we left off.
 
-Break the mirror right above the ladder. In the next room, you'll need to push the statue onto the red tile. This moves the ladder in the previous room, so go up it. In this next room, you'll need to move the statue around the table - it will move the crack in the wall. All the way right, you can go through.
+We next have to solve a series of complicated mirror puzzles. The steps you'll need to take:
 
-Take note of the position of the ladder and the red dot, then move the statue across the mirror as many tiles as needed to get the ladder onto the dot. Climb up.
-
-In this next room, you can smash a door to the left for a quick scene. Head straight down, into a door opposite the previous. Push the statue: 3D 9L 2U. Go up the ladder.
+- Break the mirror tile directly above the ladder on the right, then enter.
+- Push the the statue onto the red tile (you can reset by talking to the maid).
+- Return to the previous room, then climb the ladder in the bottom left.
+- Move the statue around the table clockwise. Once you pass to the top side, you'll notice that it will move the crack in the wall! Continue pushing it right until the mirror shatters, then proceed. 
+- Talk to the maid in this room to reset the statue: doing so puts the statue in the previous room only two tiles away from the red dot. Simply push the statue in this room once left and once down, then return to the previous room and climb the ladder.
+- In this next room, you can smash through the mirror to enter a door to the left for an optional scene. 
+- Head straight down, into a door opposite the previous. 
+- Push the statue: even when it cannot move, the corresponding ladder will still move. Push it from these directions: 3D 9L 2U. Go up the ladder in the previous room.
 
 !partner(["Venam",:LEADER_VENAM,2])
 
