@@ -33,3 +33,5 @@ gem 'http_parser.rb', '~> 0.6.0', platforms: [:jruby]
 gem 'webrick'
 
 gem 'nokogiri'
+
+gem 'csv'

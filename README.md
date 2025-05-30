@@ -23,6 +23,8 @@ The primary Ruby script in this project, `wt_generator.rb`, generates markdown f
 
 ### Command Syntax
 
+Default rake commands can be executed to easily generate markdown files: `rake generate_reborn` and `rake generate_rejuv` respectively. You can modify the rakefile locally if needed to change arguments for the following command syntax:
+
 ruby wt_generator.rb <game> <scripts directory> <output file>
 
 - `<game>`: Specify the game type (`reborn` or `rejuv`).
@@ -39,11 +41,11 @@ Jekyll is configured in this project to serve appropriate files in the `src` dir
 
 2. **Build the Jekyll Site**:
 
-   `bundle exec jekyll build --source src --destination _site`
+   `rake build`
 
 3. **Serve the Site Locally**:
 
-   `bundle exec jekyll serve --source src --destination _site`
+   `rake serve`
 
    Open [http://localhost:4000](http://localhost:4000) in your web browser to view the site.
 
