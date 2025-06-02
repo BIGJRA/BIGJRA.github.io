@@ -748,10 +748,13 @@ class EncounterMapWrapper
     form_data = @encounterMaps[pokemon_symbol]
     return {} unless form_data
 
+
     result = {}
     form_data.each do |form_number, mon_name|
       @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
     end
+    pp pokemon_symbol, form_data, result
+
     result
   end
 
@@ -759,20 +762,12 @@ class EncounterMapWrapper
 
   def parse_file(game, scripts_dir)
     file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
-    relevant_contents = file_contents.scan(/# Evos first(.*?)# \* Constants for maps to reflect sprites on/m)
-
+    relevant_contents = file_contents[/Evos first(.*?)Constants for maps/m, 1]
+    
     relevant_contents[0][0].scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/) do |pokemon_name, pokemon_numbers|
-      process_assignment(pokemon_name.strip, pokemon_numbers)
+      numbers_array = pokemon_numbers.split(',').map(&:strip).map(&:to_i)
+      @data[pokemon_name.strip] = numbers_array
     end
-  end
-
-  def process_assignment(pokemon_name, pokemon_numbers)
-    numbers_array = pokemon_numbers.split(',').map(&:strip).map(&:to_i)
-    @data[pokemon_name] = numbers_array
-  end
-
-  def parse_map_numbers(pokemon_numbers)
-    pokemon_numbers.scan(/\d+/).map(&:to_i)
   end
 end
 

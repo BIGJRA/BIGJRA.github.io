@@ -143,16 +143,21 @@ class EncounterGetter
         # Add Pokemon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
 
-        base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
-        pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
-
-        if @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
-          form = @encMapWrapper.get_enc_maps(mon)[map_id]
-          form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
-
-          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
+        mon_symbol = mon
+        form_key = nil
+        if mon.is_a?(Array)
+          mon_symbol = mon[0]
+          form_key = (mon[1].is_a?(Symbol) || mon[1].is_a?(Range)) ? nil : mon[1]
         end
 
+        base_form = @pokemonHash[mon_symbol].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @pokemonHash[mon_symbol][base_form][:name]
+
+        if !(form_key.nil?)
+          form_key = @pokemonHash[mon_symbol].keys[form_key]
+          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
+        end
+        
         # Bold if not detected in hash so far
         if @encStore.include?(pokemon_name_formatted)
           td_name.content = pokemon_name_formatted

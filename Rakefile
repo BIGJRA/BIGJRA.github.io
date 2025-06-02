@@ -17,5 +17,5 @@ end
 
 desc "Generate Markdown for Rejuvenation"
 task :generate_rejuv do
-  sh "ruby wt_generator.rb rejuv ~/rejuv/Scripts src/rejuv.md"
+  sh "ruby wt_generator.rb rejuv ~/reborn/Scripts src/rejuv.md"
 end

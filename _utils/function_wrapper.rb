@@ -122,7 +122,7 @@ class FunctionWrapper
     lookup_hash = Hash.new { |hash, key| hash[key] = { 'common' => [], 'uncommon' => [], 'rare' => [] } }
 
     @pokemonHash.each do |mon_symbol, form_hash|
-      f = form_hash.reject! { |key| !key.is_a?(String) }.compact
+      f = form_hash.reject { |key| !key.is_a?(String) }.compact
       next unless f
 
       f.each do |form, data|
