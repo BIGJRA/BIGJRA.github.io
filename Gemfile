@@ -35,3 +35,5 @@ gem 'webrick'
 gem 'nokogiri'
 
 gem 'csv'
+
+gem 'dotenv'
