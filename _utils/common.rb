@@ -750,7 +750,7 @@ class EncounterMapWrapper
 
     result = {}
     form_data.each do |form_number, mon_name|
-      @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name] == nil
+      @data[mon_name].each { |num| result[num] = form_number } unless @data[mon_name].nil?
     end
     result
   end
@@ -758,12 +758,22 @@ class EncounterMapWrapper
   private
 
   def parse_file(game, scripts_dir)
-    file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
-    relevant_contents = file_contents.scan(/# Evos first(.*?)# \* Constants for maps to reflect sprites on/m)
+    path = File.join(scripts_dir, game.capitalize, 'SystemConstants.rb')
+    file_contents = File.read(path)
 
-    relevant_contents[0][0].scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/) do |pokemon_name, pokemon_numbers|
+    section_regex = /Mon Specific Map Data(.*?)# \* Constants for maps to reflect sprites on/m
+    relevant_contents = file_contents.scan(section_regex)
+
+    section_text = relevant_contents[0][0]
+
+    matches = section_text.scan(/(\w+)\s*=\s*\[([0-9\s,]*)\]/)
+
+    matches.each do |pokemon_name, pokemon_numbers|
       process_assignment(pokemon_name.strip, pokemon_numbers)
     end
+  rescue => e
+    warn "[ERROR] Exception while parsing #{path}: #{e.class} - #{e.message}"
+    warn e.backtrace.take(5).join("\n")
   end
 
   def process_assignment(pokemon_name, pokemon_numbers)
