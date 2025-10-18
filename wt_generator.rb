@@ -26,8 +26,22 @@ markdown_contents = generate_md_text(game, scripts_dir)
 puts "Generated markdown contents for #{game}!"
 
 # Write content to the specified file
-File.open(output_file, 'w') do |f|
-  f.write(markdown_contents)
-end
+begin
+  if File.exist?(output_file)
+    timestamp = Time.now.utc.strftime("%Y%m%dT%H%M%SZ")
+    dir = File.dirname(output_file)
+    base = File.basename(output_file, "")
+    new_name = File.join(dir, "#{base}.#{timestamp}")
+    File.rename(output_file, new_name)
+    puts "Existing file renamed to #{new_name}"
+  end
 
-puts "Wrote contents to #{output_file}!"
+  File.open(output_file, 'w') do |f|
+    f.write(markdown_contents)
+  end
+
+  puts "Wrote contents to #{output_file}!"
+rescue => e
+  STDERR.puts "Error writing output file: #{e.message}"
+  exit 1
+end

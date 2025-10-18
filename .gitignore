@@ -1,3 +1,4 @@
+.env
 .venv
 _datafiles
 ~$*
@@ -8,6 +9,7 @@ _site
 vendor
 dummy*
 _*.md
-src/reborn.md
-src/rejuv.md
+src/reborn.md*
+src/rejuv.md*
 *old.md*
+_scripts_re*

@@ -26,6 +26,7 @@ GEM
     csv (3.3.4)
     dnsruby (1.72.1)
       simpleidn (~> 0.2.1)
+    dotenv (3.1.8)
     drb (2.2.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -275,6 +276,7 @@ PLATFORMS
 
 DEPENDENCIES
   csv
+  dotenv
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-theme-slate
