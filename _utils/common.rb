@@ -461,18 +461,30 @@ def set_to_range_string(integers_set)
   ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 
+def file_path(game, scripts_dir, file_name)
+  game_dir = game.capitalize
+
+  primary = File.join(scripts_dir, game_dir, file_name)
+  return primary if File.exist?(primary)
+
+  fallback = File.join(scripts_dir, game_dir, "Definitions", file_name)
+  return fallback if File.exist?(fallback)
+
+  raise FileNotFoundError, "Could not find #{file_name} in #{game_dir} or #{game_dir}/Definitions"
+end
+
 def load_item_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'itemtext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'itemtext.rb'))
   eval(data)
 end
 
 def load_enc_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'enctext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'enctext.rb'))
   eval(data)
 end
 
 def load_trainer_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'trainertext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'trainertext.rb'))
   base_hash = eval(data)
   ret = {}
   base_hash.each do |trainer_hash|
@@ -482,38 +494,38 @@ def load_trainer_hash(game, scripts_dir)
 end
 
 def load_boss_hash(game, scripts_dir)
-  return {} if game != "rejuv"
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'BossInfo.rb'))
+  return {} if game == "reborn"
+  data = File.read(file_path(game, scripts_dir, 'BossInfo.rb'))
   return eval(data)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'ttypetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'ttypetext.rb'))
   eval(data)
 end
 
 def load_type_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'typetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'typetext.rb'))
   eval(data)
 end
 
 def load_ability_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'abiltext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'abiltext.rb'))
   eval(data)
 end
 
 def load_move_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'movetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'movetext.rb'))
   eval(data)
 end
 
 def load_pokemon_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'montext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'montext.rb'))
   eval(data)
 end
 
 def load_field_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'fieldtext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'fieldtext.rb'))
   eval(data)
 end
 
@@ -548,7 +560,7 @@ end
 
 def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'metatext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'metatext.rb'))
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -639,8 +651,8 @@ def is_custom_form(form_key)
 end
 
 def load_raid_den_hash(game, scripts_dir)
-  return {} if game != "rejuv"
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'RaidDens.rb'))
+  return {} if game == "reborn"
+  data = File.read(file_path(game, scripts_dir, 'RaidDens.rb'))
 
   mon_info = {}
   dens = {}
