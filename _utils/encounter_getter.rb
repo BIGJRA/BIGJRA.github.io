@@ -153,14 +153,11 @@ class EncounterGetter
         pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
 
         if !(form_representation.nil?)
-          puts form_representation
           # Only treat the integer forms for now. Potential enhancement
           if form_representation.is_a?(Integer)
             form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form_representation]
+            pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
           end
-          
-          # Special case - shellos has aesthetic only forms
-          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
         end
 
         # If there is no form present then we fall back to the old method
@@ -168,8 +165,7 @@ class EncounterGetter
           form = @encMapWrapper.get_enc_maps(mon)[map_id]
           form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
           
-          # Special case - shellos has aesthetic only forms
-          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
+          pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
         end
 
         # Bold if not detected in hash so far

@@ -533,7 +533,7 @@ def load_mining_hash(game = nil, scripts_dir)
   lines = if game && game.capitalize == 'Rejuv'
             File.read(File.join(scripts_dir, game.capitalize, 'RejuvCustomScripts.rb'))
           else
-            File.read(File.join(scripts_dir, 'MinigameMining.rb'))
+            File.read(File.join(scripts_dir, 'Minigame', 'Mining.rb'))
           end
 
   item_hash = Hash.new(0)
@@ -559,7 +559,14 @@ end
 
 def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(file_path(game, scripts_dir, 'metatext.rb'))
+
+  # metatext map info was moved to maptext.rb, deprecate this clause later
+  if File.exist?(File.join(scripts_dir, game.capitalize, "Definitions", 'maptext.rb'))
+    data = File.read(File.join(scripts_dir, game.capitalize, "Definitions", 'maptext.rb'))
+  else 
+    data = File.read(file_path(game, scripts_dir, 'metatext.rb'))
+  end
+
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -577,6 +584,8 @@ def load_maps_hash(game, scripts_dir)
   end
   ret
 end
+
+
 
 def load_pickup_data(game, scripts_dir)
   file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
