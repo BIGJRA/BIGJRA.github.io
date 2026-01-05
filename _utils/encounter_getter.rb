@@ -143,13 +143,32 @@ class EncounterGetter
         # Add Pokemon's name to the first column
         td_name = doc.create_element('td', style: 'text-align: center')
 
+        # Newer scripts use [:mon, some kind of form object]. Find the base form first.
+        form_representation = nil
+        if mon.is_a?(Array)
+          mon, form_representation = mon
+        end
+        
         base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
         pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
 
-        if @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
+        if !(form_representation.nil?)
+          puts form_representation
+          # Only treat the integer forms for now. Potential enhancement
+          if form_representation.is_a?(Integer)
+            form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form_representation]
+          end
+          
+          # Special case - shellos has aesthetic only forms
+          pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
+        end
+
+        # If there is no form present then we fall back to the old method
+        if form_representation.nil? && @encMapWrapper.get_enc_maps(mon) and @encMapWrapper.get_enc_maps(mon)[map_id]
           form = @encMapWrapper.get_enc_maps(mon)[map_id]
           form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
-
+          
+          # Special case - shellos has aesthetic only forms
           pokemon_name_formatted += " (#{form_key})".sub(' Form', '').sub('West ', '').sub('East ', '')
         end
 
