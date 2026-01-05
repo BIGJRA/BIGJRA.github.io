@@ -233,7 +233,7 @@ Back on B1F, you'll see that the lava has drained, so go into the empty pool and
 
 Head back to 1F, where the lava will now be drained as well. Follow the path up to 3F. A lava pool will force you to the left back to 2F, where you can drain the lava. Take the ladder to 1F then head to the left to drain it again. Finally, return to B1F then B2F to finish draining the lava as we did before.
 
-Make your way back to 3F, then go across the empty pool. On 4F you can find a hidden *X Defend* before exiting to the peak. The peak hides a *Exp. Candy L*.
+Make your way back to 3F, then go across the empty pool. On 4F you can find a hidden *X Defense* before exiting to the peak. The peak hides a *Exp. Candy L*.
 
 !battle(["Cal", :Exleader, 0], "Super-Heated Field")
 

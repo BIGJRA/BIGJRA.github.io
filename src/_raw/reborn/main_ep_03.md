@@ -88,7 +88,7 @@ Head back up, talk to Heather for a heal, then climb the vines on the nearby pil
 
 Taka will fight you on the Rocky Field. We don't have the notes for this field yet, but you will observe that Rock Tomb will be stronger here. The Telluric Seed can be helpful here: by testing it you'll notice that it raises Defense but does Stealth Rock damage. Since Exeggcute doesn't hit that hard you can take the chance to set up offenses on it, then you can hit the slow PULSE Tangrowth hard. Also, this entire team is weak to Ice.
 
-After the battle, you'll be sent outside. Answer Corey how you like here, then grab hidden *X Defend* and *Green Shard* as well as a *Big Root*.
+After the battle, you'll be sent outside. Answer Corey how you like here, then grab hidden *X Defense* and *Green Shard* as well as a *Big Root*.
 
 Exit Malchous Forest Park in the top right corner. In the first house, you'll find a grunt.
 

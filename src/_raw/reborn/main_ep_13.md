@@ -119,7 +119,7 @@ Continue into the next room.
 
 !dbattle(["Kenan", :MeteorKnight, 2], ["Diana", :MeteorDame, 2], "Cave Field")
 
-Pick up the hidden *Super Repel* and *Poke Ball*. Head outside and go right. Pick up a hidden *X Defend* along the way.
+Pick up the hidden *Super Repel* and *Poke Ball*. Head outside and go right. Pick up a hidden *X Defense* along the way.
 
 !dbattle(["Steven", :MeteorKnight, 2], ["Avril", :MeteorDame, 2], "Rocky Field")
 

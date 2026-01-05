@@ -82,7 +82,7 @@ Make your way to the very top of the area to talk to the purple haired girl and 
 
 !battle(["Murray", :GENTLEMAN, 0])
 
-Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defend*, and *Exp. Candy M*.
+Hidden around the ward you can find *Great Ball*, *Blue Shard*, *Pecha Berry*, *Salt-Water Taffy*, *Poke Ball*, *X Defense*, and *Exp. Candy M*.
 
 You can enter the Alleyway towards the middle of the ward, but we won't talk to the guys in here yet.
 

@@ -52,7 +52,7 @@ That's all for Opal right now, so head west into Peridot.
 
 !enc(522, ["Grass", "Headbutt"])
 
-First, head up into the park to the right of the Pokemon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defend*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
+First, head up into the park to the right of the Pokemon Center to talk to Elder Seacrest. He will give us a quest: collect the four types of Mulch scattered about the city. Use your Itemfinder all around the lower part of the ward to get an *Ultra Potion*, *Super Repel*, *X Defense*, *Blue Shard*, *Eject Button*, as well as the *Damp Mulch*, which is in the park around where we once got Whismur and Gulpin. Head into the Lower Peridot Alleyway.
 
 !enc(531)
 
@@ -283,7 +283,7 @@ Once you win, you'll get **Popplio**! Beyond, you'll find *TM68 Giga Impact* and
 
 ## Neo Onyx Ward
 
-Next, fly into Onyx Ward. You can find a hidden *Burn Heal*, *X Defend*, and *Red Shard*. A person in the upper left corner will also give you a *Full Restore*.
+Next, fly into Onyx Ward. You can find a hidden *Burn Heal*, *X Defense*, and *Red Shard*. A person in the upper left corner will also give you a *Full Restore*.
 
 Head up to the rooftop garden.
 
@@ -311,7 +311,7 @@ Make your way down to Chrysolia Forest and enter the Chrysolia Spring.
 
 !enc(238, ["Surfing", "Fishing"], ["Super"])
 
-Surf across and push the first boulder out of the way and grab a hidden *Common Candy*. Towards the top, you'll need to push a boulder onto a nearby water stream, when you do so, it will make the other one larger. Surf onto that larger jet to be pushed up on a ledge! Grab the hidden *Red Shard* and *X Defend* then push the boulder into the hole. Grab the *Red Card* then jump down.
+Surf across and push the first boulder out of the way and grab a hidden *Common Candy*. Towards the top, you'll need to push a boulder onto a nearby water stream, when you do so, it will make the other one larger. Surf onto that larger jet to be pushed up on a ledge! Grab the hidden *Red Shard* and *X Defense* then push the boulder into the hole. Grab the *Red Card* then jump down.
 
 !enc(545)
 

@@ -232,7 +232,7 @@ Next, make your way all the way back to Beryl Ward. In the graveyard area we can
 
 On 1F, you'll find a hidden *Flying Gem*, *Burn Heal*, *Blue Shard*, and 2 *Ethers*. Head down the ladder.
 
-!enc(185)
+!enc(185, ["Cave", "Fishing"], ["Old"])
 
 On B1F, you'll find a hidden *Green Shard*, *Awakening*, *Great Ball*, and a *Link Stone* in the cage which you'll need to open using a lever in the other. You can also find **Nidorina** in here who will go with you after seeing the Silver Ring. Pick up the *Rock Incense* and continue to the next floor. 
 

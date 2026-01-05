@@ -330,7 +330,7 @@ That wraps up our exploration of the woods!
 
 Return to the Route 1 Nature Center and talk to the guy on the second floor who lost his specs. In exchange for the Tech Glasses we will get *Department Store Sticker: Heracross*!
 
-!shop("Department Store 8F (Left)", ["X Attack", "X Defend", "X Sp. Atk", "X Speed", "X Sp. Def", "Guard Spec.", "X Accuracy", "Dire Hit"])
+!shop("Department Store 8F (Left)", ["X Attack", "X Defense", "X Sp. Atk", "X Speed", "X Sp. Def", "Guard Spec.", "X Accuracy", "Dire Hit"])
 
 I've never used any of these in my entire life, but if you want to, go for it.
 

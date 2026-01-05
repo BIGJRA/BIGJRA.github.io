@@ -293,7 +293,7 @@ Grab the hidden *Super Repel* then hop over the Crustles to get to the left. Gra
 
 !enc(359, ["Grass", "Fishing"], ["Old", "Good"], "Celestinine Cascade East")
 
-In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defend*, *Iron*, *PokeSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
+In this area, you'll find hidden *Carbos*, *Great Ball*, *Burn Heal*, *Potion*, *X Defense*, *Iron*, *PokeSnax*, *X Sp. Def*, *Revive*, *Escape Rope*, and *Stardust*.
 
 Head into the Fiore Mansion at the top and talk to Amaria. Head upstairs and talk to Hardy on the couch.
 
