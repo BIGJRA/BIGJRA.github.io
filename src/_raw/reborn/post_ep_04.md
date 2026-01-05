@@ -272,7 +272,7 @@ Ouch. Win however you can, but you deserve this.
 
 Talk to the Ringmaster once you're done, and Meloetta will run over to the battle wheel.
 
-!dbattle(["Meloetta", :MELOETTA, 0], ["Multilyrical Melody", :ANTICS, 0], "Random Field")
+!dbattle(["Meloetta", :MELOETTA, 0], ["Multilyrical Melody", :MELODY, 0], "Random Field")
 
 Another 12v6. Oh boy. Although the field is random, there is a good chance that one of the Malamars will try to use Topsy-Turvy, transforming the field into Inverse Field. Just like on New World, that will activate all of the Magical Seeds, turning them into omniboosts. They have lots of coverage in the types made extra good on this field - Ice, Bug, etc., which means you'll be taking a lot of damage real fast. Either you can try to roll with this field, bringing moves that will be able to hit super effectively on Inverse and using seed omniboosts, or you can suppress it by knocking out both Malamar's before it's too late. This can be especially beneficial if you end up on a field effect that your team likes and you want to preserve it - in a worst case scenario, you can always reset until you get a good one for your team. 
 

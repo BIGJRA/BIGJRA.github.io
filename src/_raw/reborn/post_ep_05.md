@@ -268,7 +268,7 @@ You'll learn about electricity sizzling through the air. Talk to the pillar in t
 
 !img("zcell_32.jpg")
 
-!battle(["Tapu-Koko", :TAPUKOKO, 0], "Electric Terrain")
+!battle(["Tapu Koko", :TAPUKOKO, 0], "Electric Terrain")
 
 A fairly standard Electric Terrain team. Trick Room goes brrrr.
 
@@ -276,19 +276,19 @@ Catch **Tapu Koko** once you win!
 
 Next is the Sapphire Room - and the schtick is the same, this time you have to transform the field into Misty Terrain.
 
-!battle(["Tapu-Fini", :TAPUFINI, 0], "Misty Terrain")
+!battle(["Tapu Fini", :TAPUFINI, 0], "Misty Terrain")
 
 A decent team on a not-too-terrifying Field. Poison the mist if you're feeling epic. Catch **Tapu Fini** afterwards!
 
 Next is Emerald. Transform the field to Grassy Terrain, then prepare for a fight.
 
-!battle(["Tapu-Bulu", :TAPUBULU, 0], "Grassy Terrain")
+!battle(["Tapu Bulu", :TAPUBULU, 0], "Grassy Terrain")
 
 Gengar likes to use Sludge Wave, transforming the field into Corrosive Field. This literally OHKO's Tapu Bulu as it steps onto the field. Catch **Tapu Bulu** afterwards!
 
 Finally, go to Amethyst and transform the field to Psychic Terrain.
 
-!battle(["Tapu-Lele", :TAPULELE, 0], "Psychic Terrain")
+!battle(["Tapu Lele", :TAPULELE, 0], "Psychic Terrain")
 
 This is our first mandatory battle with built-in Psychic Terrain... so it's time to get used to it. Telepathy doubles speed... That's on top of massive boosts to an already great type, and Psych Up... oh god. You'll know what I mean when you see it.
 
