@@ -1,6 +1,6 @@
 # BIGJRA.github.io
 
-Welcome to the BIGJRA.github.io repository! This is my ever-evolving Pokemon Reborn and Rejuvenation walkthrough project, forged through years of experience with web development and learning new tips and tricks.
+Welcome to the BIGJRA.github.io repository! This is my ever-evolving Pokemon Reborn, Rejuvenation, and Desolation walkthrough project, forged through years of experience with web development and learning new tips and tricks.
 
 The project is built using Jekyll and includes scripts that generate dynamic content based on a local copy of game files - instructions for building the project are below.
 
@@ -23,12 +23,12 @@ The primary Ruby script in this project, `wt_generator.rb`, generates markdown f
 
 ### Command Syntax
 
-Default rake commands can be executed to easily generate markdown files: `rake generate_reborn` and `rake generate_rejuv` respectively. You can modify the rakefile locally if needed to change arguments for the following command syntax:
+Default rake commands can be executed to easily generate markdown files: `rake generate_reborn`, `rake generate_rejuv`, `rake generate_deso` respectively. You can modify the rakefile locally if needed to change arguments for the following command syntax:
 
 ruby wt_generator.rb <game> <scripts directory> <output file>
 
-- `<game>`: Specify the game type (`reborn` or `rejuv`).
-- `<scripts directory>`: Path to the directory containing the scripts. This project relies on Reborn and Rejuvenation's Scripts directories - those found in the (most recent) game's files itself will work locally for most purposes.
+- `<game>`: Specify the game type (`reborn`/`rejuv`/`deso`).
+- `<scripts directory>`: Path to the directory containing the scripts. This project relies on the Scripts directories - those found in the (most recent) game's files itself will work locally for most purposes.
 - `<output file>`: Path to the file where the generated markdown will be saved. To serve with Jekyll later, this by default should be `./src/<game>.md`.
 
 ## Building and Running Locally

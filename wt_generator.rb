@@ -16,8 +16,8 @@ scripts_dir = ARGV[1]
 output_file = ARGV[2]
 
 # Validate game type
-unless ['reborn', 'rejuv'].include?(game)
-  puts "Invalid game type. Please specify 'reborn' or 'rejuv'."
+unless ['reborn', 'rejuv', 'deso'].include?(game)
+  puts "Invalid game type. Please specify 'reborn', 'deso', or 'rejuv'."
   exit 1
 end
 

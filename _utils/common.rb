@@ -7,9 +7,9 @@ UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
-VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "13.5.6"}
+VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "13.5.6", 'deso' => "6.0.13" }
 
-LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation'}
+LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation', 'deso' => 'desolation'}
 
 FIELDS = {
   RANDOM: 'Random Field',
@@ -522,6 +522,7 @@ def load_mining_hash(game = nil, scripts_dir)
             File.read(File.join(scripts_dir, game.capitalize, 'RejuvCustomScripts.rb'))
           else
             File.read(File.join(scripts_dir, 'MinigameMining.rb'))
+            # TODO = DESO LOGIC
           end
 
   item_hash = Hash.new(0)
