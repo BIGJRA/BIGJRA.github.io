@@ -462,17 +462,17 @@ def set_to_range_string(integers_set)
 end
 
 def load_item_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'itemtext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'itemtext.rb'))
   eval(data)
 end
 
 def load_enc_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'enctext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'enctext.rb'))
   eval(data)
 end
 
 def load_trainer_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'trainertext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'trainertext.rb'))
   base_hash = eval(data)
   ret = {}
   base_hash.each do |trainer_hash|
@@ -482,47 +482,46 @@ def load_trainer_hash(game, scripts_dir)
 end
 
 def load_boss_hash(game, scripts_dir)
-  return {} if game == "reborn"
-  data = File.read(File.join(scripts_dir, game.capitalize, 'BossInfo.rb'))
+  return {} if game != "rejuv"
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'BossInfo.rb'))
   return eval(data)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'ttypetext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'ttypetext.rb'))
   eval(data)
 end
 
 def load_type_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'typetext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'typetext.rb'))
   eval(data)
 end
 
 def load_ability_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'abiltext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'abiltext.rb'))
   eval(data)
 end
 
 def load_move_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'movetext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'movetext.rb'))
   eval(data)
 end
 
 def load_pokemon_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'montext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'montext.rb'))
   eval(data)
 end
 
 def load_field_hash(game, scripts_dir)
-  data = File.read(File.join(scripts_dir, game.capitalize, 'fieldtext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'fieldtext.rb'))
   eval(data)
 end
 
 def load_mining_hash(game = nil, scripts_dir)
   lines = if game && game.capitalize == 'Rejuv'
-            File.read(File.join(scripts_dir, game.capitalize, 'RejuvCustomScripts.rb'))
+            File.read(File.join(script_sub_dir(scripts_dir, game), 'RejuvCustomScripts.rb'))
           else
             File.read(File.join(scripts_dir, 'MinigameMining.rb'))
-            # TODO = DESO LOGIC
           end
 
   item_hash = Hash.new(0)
@@ -543,12 +542,14 @@ def load_mining_hash(game = nil, scripts_dir)
                    [sym, prob]
                  end.group_by(&:last).transform_values { |elements| elements.map(&:first) }
 
-  grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
+  ret = grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
+  pp ret
+  ret
 end
 
 def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(File.join(scripts_dir, game.capitalize, 'metatext.rb'))
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'metatext.rb'))
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -568,7 +569,7 @@ def load_maps_hash(game, scripts_dir)
 end
 
 def load_pickup_data(game, scripts_dir)
-  file_contents = File.read(File.join(scripts_dir, game.capitalize, 'SystemConstants.rb'))
+  file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'SystemConstants.rb'))
 
   normal_pickup_match = file_contents.match(/PickupNormal\s*=\s*\[(.*?)\]/m)
   rare_pickup_match = file_contents.match(/PickupRare\s*=\s*\[(.*?)\]/m)
@@ -639,8 +640,8 @@ def is_custom_form(form_key)
 end
 
 def load_raid_den_hash(game, scripts_dir)
-  return {} if game == "reborn"
-  data = File.read(File.join(scripts_dir, game.capitalize, 'RaidDens.rb'))
+  return {} if game != "rejuv"
+  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'RaidDens.rb'))
 
   mon_info = {}
   dens = {}
@@ -735,6 +736,13 @@ def load_raid_den_hash(game, scripts_dir)
   dens
 end
 
+def script_sub_dir(scripts_dir, game) 
+  if game == 'deso'
+    File.join(scripts_dir, "Pokemon Desolation")
+  else 
+    File.join(scripts_dir, game.capitalize)
+  end
+end
 
 class EncounterMapWrapper
   def initialize(game, scripts_dir)
@@ -759,7 +767,7 @@ class EncounterMapWrapper
   private
 
   def parse_file(game, scripts_dir)
-    path = File.join(scripts_dir, game.capitalize, 'SystemConstants.rb')
+    path = File.join(script_sub_dir(scripts_dir, game), 'SystemConstants.rb')
     file_contents = File.read(path)
 
     section_regex = /Mon Specific Map Data(.*?)# \* Constants for maps to reflect sprites on/m

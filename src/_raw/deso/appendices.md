@@ -14,13 +14,15 @@ Some wild Pokemon have a chance of holding an item when they are encountered in 
 
 The following table lists the chances of each item being generated in a mining rock:
 
-!mine()
+mine() (Taking this out for now, discrepancies in the code make me ponder if mining is even in this one)
 
 ## Full Password List
 
 I don't recommend reading this list until you've played through the game once - the passwords in the readme are usually sufficient for first-time playthroughs, and this list is pretty comprehensive and spoils some gameplay elements. Regardless, I have listed every password and its effect below:
 
-### Monorun Passwords
+### Monorun Passwords 
+
+Note passwords are a big TODO
 
 - **mononormal / normal**: Guarantees Mystery Egg will be Starly. Guarantees Opal event will be Zigzagoon. Guarantees Upper Peridot event will be Stufful. Guarantees Malchous Egg will be Deerling or Girafarig. Guarantees Rhodochrine trade will be Furfrou. Guarantees Lower Peridot event will be Minccino.
 - **monofire / fire**: Guarantees Mystery Egg will be Litwick, Vulpix, or Larvesta. Guarantees Railnet event will be Pansear, regardless of weather.
