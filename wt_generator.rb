@@ -31,7 +31,7 @@ begin
     timestamp = Time.now.utc.strftime("%Y%m%dT%H%M%SZ")
     dir = File.dirname(output_file)
     base = File.basename(output_file, "")
-    new_name = File.join(dir, "#{base}.#{timestamp}")
+    new_name = File.join(dir, "_arch", "#{base}.#{timestamp}")
     File.rename(output_file, new_name)
     puts "Existing file renamed to #{new_name}"
   end

@@ -65,3 +65,4 @@ exclude:
   - _utils/
   - "*.rb"
   - README.md
+  - _arch/
