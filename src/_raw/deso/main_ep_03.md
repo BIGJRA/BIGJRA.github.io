@@ -184,7 +184,9 @@ Grab the *Snowball*, then follow the path up and left to get a *Nugget* and to a
 
 Flan??! Anyways, head up the mountain, grab the *Icicle Plate*, and climb down the ladder. Pick up the *Shiny Key* here. You can even battle and catch a **Froslass**!
 
-Before we continue off the mountain, we have one more climb back to the very peak. I know, quite the journey. On the peak you can now use the Brass Key we got earlier to open the door here to grab the *Abomasite*, *Snowy Mountain Field Readout*, and *TM70 Aurora Veil*. You can also take **Fletchling**! But wait, there's more! Reset the router in the corner to continue **A Snowy Connection**. Back down the mountain at the Ranger Camp, talk to the yellow haired guy to complete the quest and get *3 Credits*.
+Before we continue off the mountain, we have one more climb back to the very peak. I know, quite the journey. The map that is one level below the peak, with the locked house and the totem, contains a cave towards the center of the map. We've been here before, but we can now cross an ice bridge to get a hidden *Pearl* as well as the *Dull Key*, a *Magical Seed*, and *TM69 Rock Polish* beyond.
+
+On the very top peak, you can now use the Brass Key we got earlier to open the door here to grab the *Abomasite*, *Snowy Mountain Field Readout*, and *TM70 Aurora Veil*. You can also take **Fletchling**! But wait, there's more! Reset the router in the corner to continue **A Snowy Connection**. Back down the mountain at the Ranger Camp, talk to the yellow haired guy to complete the quest and get *3 Credits*.
 
 That concludes our exploration of the Silver Rise and Silver Forest. At the bottom of the Silver Rise, exit out the southbound tunnel. After a conversation with Shiv and Nova in the void, continue into the next map.
 
@@ -296,7 +298,7 @@ On a bench above the Guild, talk to the girl to start the **Matchmaker** sideque
 
 For winning, you can get *TM47 Low Sweep* as well as **Aipom**. Back in town, the fisherman will give you *2 Credits*.
 
-## BADGE
+## Ordinary Badge
 
 Head over to the Addenfall Gym on the southwest side of the town. Talk to the ball on the table, then make your way out to Route 4. Grab the hidden *Telluric Seed* and proceed across the bridge when you're ready.
 
@@ -305,16 +307,3 @@ Head over to the Addenfall Gym on the southwest side of the town. Talk to the ba
 The two nickels joke about Normal type gym leaders being fought on Grassy Terrain would do nicely here. Anyways, Tristan has an incredibly varied team of mostly dual Normal types, but there isn't an insanely powerful synergy at its core. All of his Pokemon have key weaknesses that can be exploited and if you have something that can take a hit or two from a powerful Mega Lopunny, that's often all you'll need here. I continue to recommend taking a page out of Connor's book and burning the field down once Pyroar goes down.
 
 For winning, you'll get the Ordinary Badge, raising our level cap up to Lv. 50! 
-
--- Route 4
-The Grand Rogue - Lucas
-Accept the sidequest **The Grand Rogue** from Lucas, then talk to the girl just above the Pokemon Center. Head to Route 4...
-
-Infiltration - Lucas
-
--- Hardened Mountain
-Fight the Foxes - Dan
-
--- Blackview City
-Teach 'em a Lesson - Dan
-Rangers! (For the Rangers!) - Dan
