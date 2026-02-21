@@ -13,5 +13,7 @@ src/reborn.md*
 src/rejuv.md*
 src/deso.md*
 *old.md*
-_scripts_re*
+_scripts_reborn
+_scripts_rejuv
+_scripts_deso
 *_arch*
