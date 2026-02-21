@@ -40,6 +40,8 @@ To the east, there is some grass. You can use the Poke Balls we obtained earlier
 
 !enc(440, "Grass")
 
+I will point out that Zigzagoon can come with [Pickup](#pickup-table). Desolation is *extremely* stingly with money in the early game, so if you want to complete all the sidequests and catch all the Pokemon, using Pickup to get stuff to sell is going to be essential. Poke-Candy in particular tends to eat up your money for how many Pokemon need them, so picking those up is essential.
+
 You'll battle trainers as you travel eastward. You'll note a weird message at the beginning of each battle: Desolation imports Reborn and Rejuvenation's Field Effect system! We don't have any in-game documentation of these for now, though at the moment they shouldn't come into play too much.
 
 !battle(["Adrien",:VILLAGER_M2,0], "Ashen Beach")
@@ -108,7 +110,7 @@ This is a really tough fight this early into the game. The game's first real cha
 
 For winning, you'll get the *Gate Key* and *Spice Powder*. Read the book behind to get a clue for an upcoming sidequest. Back outside, open the gate and pull the lever. Accept the fast travel request, then backtrack to the Vileplume and wake it up with the Powder.
 
-Before we proceed to the west, it's worth noting that we can return to the **Buizel** on Keneph Beach and obtain it in exchange for the Poke-Candy. In a bit we can instead get a Swablu instead with this candy, so keep that in mind
+Before we proceed to the west, it's worth noting that we can return to the **Buizel** on Keneph Beach and obtain it in exchange for the Poke-Candy. In a bit we can instead get a Swablu instead with this candy, so keep that in mind.
 
 After a scene, proceed west. There's a hidden *Potion* in a rock.
 

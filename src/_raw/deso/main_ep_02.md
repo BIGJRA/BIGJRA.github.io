@@ -190,9 +190,9 @@ Above, you'll meet Aderyn. Before proceeding into the gate, go east.
 
 !battle(["Eric",:COOLTRAINER_M,0], "Grassy Terrain")
 
-## Ranger Guild Sidequests
+## Rangers Guild Sidequests
 
-Head in to the Ranger Guild. You can register your fingerprints on the Beamer Grid machine to the left to allow fast travel between here and Redcliff Town! Talk to the older gentleman, Elliot, to be offered a chance to join the Ranger Guild for some sidequests. Accept the offer, then talk to the members of the guild to get some quests. Not all of these can be completed right away, but accept all of them now so we can complete them as we go. 
+Head in to the Rangers Guild. You can register your fingerprints on the Beamer Grid machine to the left to allow fast travel between here and Redcliff Town! Talk to the older gentleman, Elliot, to be offered a chance to join the Rangers Guild for some sidequests. Accept the offer, then talk to the members of the guild to get some quests. Not all of these can be completed right away, but accept all of them now so we can complete them as we go. 
 
 First, we'll tackle Dan's **Troublemaker!** sidequest. You'll see someone running around the Moltres statue that you can challenge.
 
@@ -216,7 +216,7 @@ We'll next complete Dan's **Rogue Pokemon!** sidequest, also known as **The Rogu
 
 This can be a challenging fight thanks to its ability to heal with the field and Leech Seed. You can employ Connor's strategy of transforming the field to Burning Field or lower its stats to make it easier.
 
-Return to the Ranger Guild to grab the rewards. For the Ponyta quest we get $600 and *2 Credits*, for the Venusaur quest we get $800, *2 Credits*, and **Smoochum**, for beating the kid we get $700, a *Rare Candy*, and *1 Credit*, and finally for helping the hiker we get $800, a *Revive*, and *2 Credits*. We'll complete the other sidequests a bit later.
+Return to the Rangers Guild to grab the rewards. For the Ponyta quest we get $600 and *2 Credits*, for the Venusaur quest we get $800, *2 Credits*, and **Smoochum**, for beating the kid we get $700, a *Rare Candy*, and *1 Credit*, and finally for helping the hiker we get $800, a *Revive*, and *2 Credits*. We'll complete the other sidequests a bit later.
 
 For now, enter Celeste City via the gate at the top of Route 2.
 
@@ -230,7 +230,7 @@ Welcome to Celeste City. Immediately on the left, you can offer a Poke-Candy to 
 
 Enter the Pokemon Center.
 
-!shop("Route 2 Credits", [["Machop", "10 Credits", true], ["Slowpoke", "12 Credits", true], ["Cacnea", "8 Credits", true], ["TM60 Quash", "2 Credits"], ["TM42 Facade", "12 Credits"], ["TM45 Attract", "6 Credits"], ["TM56 Fling", "4 Credits"], ["A random Mint", "5 Credits"], ["Ability Capsule", "10 Credits"]])
+!shop("Celeste City Credits", [["Machop", "10 Credits", true], ["Slowpoke", "12 Credits", true], ["Cacnea", "8 Credits", true], ["TM60 Quash", "2 Credits"], ["TM42 Facade", "12 Credits"], ["TM45 Attract", "6 Credits"], ["TM56 Fling", "4 Credits"], ["A random Mint", "5 Credits"], ["Ability Capsule", "10 Credits"]])
 
 Most of this inventory is the same as the previous credit store, though a few new Pokemon are available if you want them. A man below will ask you for a trade. He wants your Rolycoly for his **Elekid**! A woman to the left will tell you about the password "easyhms". 
 
@@ -240,7 +240,7 @@ A woman in a house to the west will give you the *Rainbow Field Readout*.
 
 To the left of here, you can complete Sena's sidequest, **Find my Trubbish!**, also known as **Find my Trash**. Send Trubbish back to the build for now.
 
-Enter the house above, on the lower level, for the **Convince a Trainer** sidequest, given by Lucas in the Ranger Guild. He will want a Lemonade. There is a vending machine in the house next to the Pokemon Center, for some reason, so buy one Lemonade there.
+Enter the house above, on the lower level, for the **Convince a Trainer** sidequest, given by Lucas in the Rangers Guild. He will want a Lemonade. There is a vending machine in the house next to the Pokemon Center, for some reason, so buy one Lemonade there.
 
 !shop("Vending Machine", ["Fresh Water", "Soda Pop", "Lemonade"])
 
@@ -256,7 +256,7 @@ TODO: Mention that there's tutors for Spheal and Yamper specifically. Pancham er
 
 To continue the story, talk to Aderyn near her gym.
 
-That's all we can do in Celeste City at the moment, so head back to the Ranger Guild to collect some rewards for the quests we did. For finding Trubbish we get $600 and *1 Credit*, and for recruiting Floyd we can get a *Soothe Bell* and *3 Credits*. Enter the house south of the Pokemon Center to get your reward for finding Jarrad, a *Water Stone*.
+That's all we can do in Celeste City at the moment, so head back to the Rangers Guild to collect some rewards for the quests we did. For finding Trubbish we get $600 and *1 Credit*, and for recruiting Floyd we can get a *Soothe Bell* and *3 Credits*. Enter the house south of the Pokemon Center to get your reward for finding Jarrad, a *Water Stone*.
 
 ## Weeping Hill
 
@@ -331,9 +331,3 @@ This is another very difficult gym battle, in no small part thanks to the lack o
 One obvious plus in the field notes is that Forecast grants Speed and Defenses upon switch in. Combine this with extra-long Hail and Rain Dance, and you can see how Castform can be an actual threat in this fight as long as you have an answer for Altaria. 
 
 For winning, you'll get the Freedom Badge, bringing the level cap up to 40, as well as *TM40 Aerial Ace*.
-
----
-
-### Find my Aipom!
-
-Sena gives us this sidequest, also known as **Return Monke**. 
