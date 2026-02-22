@@ -42,7 +42,7 @@ Once you win, head up and talk to Ava. To the left, talk to the fisherman. He wi
 
 This is a rogue Pokemon, and cannot be caught. For winning, you'll get the *Old Rod*!
 
-!enc(111, "Fishing", ["Old"])
+!enc(111, "Fishing", "Old")
 
 We can now take a detour back to Keneph Jungle if you wish.
 
@@ -51,11 +51,11 @@ We can now take a detour back to Keneph Jungle if you wish.
 
 If you want an extra encounter, continue backtracking to previous areas with water:
 
-!enc(85, "Fishing", ["Old"])
+!enc(85, "Fishing", "Old")
 
-!enc(86, "Fishing", ["Old"])
+!enc(86, "Fishing", "Old")
 
-!enc(440, "Fishing", ["Old"])
+!enc(440, "Fishing", "Old")
 
 Return to Route 1. Head up from the gatehouse. You can obtain **Psyduck** by giving it a Poke-Candy.
 
@@ -152,7 +152,7 @@ As you head to the right, Scarlett will challenge you to a battle!
 
 Head to the right.
 
-!enc(126, ["Grass", "Fishing"], ["Old"])
+!enc(126, ["Grass", "Fishing"], "Old")
 
 !battle(["Louis",:YOUNGSTER,0], "Grassy Terrain")
 
@@ -250,13 +250,13 @@ Bring him the Lemonade and fight him to finish this quest.
 
 On the east side of the town, enter the house on the lower level. Agree to help a woman to begin the **Weeping Books** sidequest.
 
-Enter a house on the northwestern hill to talk to the blue-looking guy, Jarrad, to continue the **Man of the Sea** sidequest.
+Enter a house on the northwestern hill to talk to the blue-looking guy, Jarred, to continue the **Man of the Sea** sidequest.
 
 TODO: Mention that there's tutors for Spheal and Yamper specifically. Pancham erasure!!!
 
 To continue the story, talk to Aderyn near her gym.
 
-That's all we can do in Celeste City at the moment, so head back to the Rangers Guild to collect some rewards for the quests we did. For finding Trubbish we get $600 and *1 Credit*, and for recruiting Floyd we can get a *Soothe Bell* and *3 Credits*. Enter the house south of the Pokemon Center to get your reward for finding Jarrad, a *Water Stone*.
+That's all we can do in Celeste City at the moment, so head back to the Rangers Guild to collect some rewards for the quests we did. For finding Trubbish we get $600 and *1 Credit*, and for recruiting Floyd we can get a *Soothe Bell* and *3 Credits*. Enter the house south of the Pokemon Center to get your reward for finding Jarred, a *Water Stone*.
 
 ## Weeping Hill
 

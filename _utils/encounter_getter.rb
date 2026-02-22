@@ -47,7 +47,7 @@ class EncounterGetter
       next if !include_list.empty? && !include_list.include?(group.to_s)
 
       if group == :Fishing
-        new_types = rods.map { |rod| "#{rod}Rod".to_sym if %w[Old Good Super].include?(rod) }.compact
+        new_types = Array(rods).map { |rod| "#{rod}Rod".to_sym if %w[Old Good Super].include?(rod) }.compact
         types = new_types unless new_types.empty?
       end
 

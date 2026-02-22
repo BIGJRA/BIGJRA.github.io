@@ -60,7 +60,7 @@ On this map you'll find a hidden *X Defend*. Proceed to the next map.
 
 Go up when you can to enter a cave entrance. Grab the *Mystic Water*.
 
-!enc(30, ["Cave", "Fishing"], ["Old"], "Silver Rise Cave (East)")
+!enc(30, ["Cave", "Fishing"], "Old", "Silver Rise Cave (East)")
 
 Back outside, go left. On the hill is a hidden *Super Potion* and another Repel shop.
 
@@ -70,7 +70,7 @@ Grab the *Ice Heal* and **Rockruff** here. Around the back of the central hill i
 
 ## Silver Rise Cave
 
-!enc(31, ["Cave", "Fishing"], ["Old"], "Silver Rise Cave")
+!enc(31, ["Cave", "Fishing"], "Old", "Silver Rise Cave")
 
 Go left first.
 
@@ -186,7 +186,7 @@ Flan??! Anyways, head up the mountain, grab the *Icicle Plate*, and climb down t
 
 Before we continue off the mountain, we have one more climb back to the very peak. I know, quite the journey. The map that is one level below the peak, with the locked house and the totem, contains a cave towards the center of the map. We've been here before, but we can now cross an ice bridge to get a hidden *Pearl* as well as the *Dull Key*, a *Magical Seed*, and *TM69 Rock Polish* beyond.
 
-On the very top peak, you can now use the Brass Key we got earlier to open the door here to grab the *Abomasite*, *Snowy Mountain Field Readout*, and *TM70 Aurora Veil*. You can also take **Fletchling**! But wait, there's more! Reset the router in the corner to continue **A Snowy Connection**. Back down the mountain at the Ranger Camp, talk to the yellow haired guy to complete the quest and get *3 Credits*.
+On the very top peak, you can now use the Brass Key we got earlier to open the door here to grab the *Abomasite*, *Snowy Mountain Field Readout*, and *TM70 Aurora Veil*. You can also take **Fletchling** (NOTE: I strongly recommend resetting until it is female). But wait, there's more! Reset the router in the corner to continue **A Snowy Connection**. Back down the mountain at the Ranger Camp, talk to the yellow haired guy to complete the quest and get *3 Credits*.
 
 That concludes our exploration of the Silver Rise and Silver Forest. At the bottom of the Silver Rise, exit out the southbound tunnel. After a conversation with Shiv and Nova in the void, continue into the next map.
 
@@ -196,7 +196,7 @@ That concludes our exploration of the Silver Rise and Silver Forest. At the bott
 
 Exit onto Route 3.
 
-!enc(56, ["Grass", "Fishing"], ["Old"])
+!enc(56, ["Grass", "Fishing"], "Old")
 
 You can heal and access a PC in the house to the right. Once you're ready, start crossing the bridge below.
 
@@ -252,11 +252,13 @@ Accept the **Find my Seviper!** quest from Sena, then head all the way back to t
 
 Just one enemy Pokemon, though quite the tough one. You can stall it out with the natural hail or get in a couple hard hits to win. Return to the Guild to get $2000, *5 Credits*, and a *Thunder Stone*.
 
+Accept the sidequest **The Grand Rogue** from Lucas, then talk to the girl just above the Pokemon Center. That's all we can do in this quest for now.
+
 ## Addenfall Woods
 
-That's all the quests we can do for now, so enter the building north of the Pokemon Center. Follow Ava to the west side of Route 3.
+With that out of the way, enter the building north of the Pokemon Center. Follow Ava to the west side of Route 3.
 
-!enc(61, ["Grass", "Fishing"], ["Old"])
+!enc(61, ["Grass", "Fishing"], "Old")
 
 !battle(["Adam",:BLACKFOXM,0], "Forest Field")
 
