@@ -427,12 +427,12 @@ There's one more major thing we can do right now. Head back down to the Fight Cl
 
 Sadly, you'll be cutoff from earning Credits after a few victories.
 
-## Badge
+## Circuit Badge
 
 With all that out of the way, head to the southeastern pier to talk to the sailor. Double back to the Blackview City gym when you're ready for a fight!
 
 !battle(["Emily",:EMILY,0], "Electric Terrain")
 
+Emily has a fairly straightforward team of Electric types on the Electric Terrain. They will hit harder thanks to the terrain's buff to the type, plus Raichu and Electivire get to be faster than usual. In general, she has one overwhelming strategy: to use Charge Beam to sweep, with moves like Giga Drain and Psychic for coverage. Special bulk in particular therefore is golden here once you get past Electivire. There aren't a ton of effects of the Electric Terrain that you can take advantage of, nor is there a way to get rid of the field, so you're just going to have to think carefully about the matchups in such a way that you can counter-sweep.
 
----
-
+For winning, you'll get the Circuit Badge, *TM57 Charge Beam*!
