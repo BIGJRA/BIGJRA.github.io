@@ -543,7 +543,6 @@ def load_mining_hash(game = nil, scripts_dir)
                  end.group_by(&:last).transform_values { |elements| elements.map(&:first) }
 
   ret = grouped_hash.map { |prob, l| [prob, l] }.sort_by { |a| a[0].to_f }.reverse
-  pp ret
   ret
 end
 
