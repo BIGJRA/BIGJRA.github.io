@@ -39,7 +39,7 @@ I'm BIGJRA - a software engineer and big fan of gaming! The walkthroughs on this
 <div class="portfolio-item-container">
   <div class="portfolio-item-desc">
     <h1>Pokemon Desolation Walkthrough</h1>
-    The Pokemon Desolation walkthrough is a newer project, intending to round out my walkthrough series of the Reborn-universe of games. I'm least familiar with this game and this text is still a major work-in-progress.
+    The Pokemon Desolation walkthrough is a newer project, intending to round out my walkthrough series of the Reborn-universe of games. I'm least familiar with this game and this text is still a major work-in-progress and is based on the newest game version <strong>V6<strong>.
   </div>
     <div class="portfolio-item-link">
     <a class="portfolio-item-image" href="/desolation">
