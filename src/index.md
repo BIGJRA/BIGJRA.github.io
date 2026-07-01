@@ -33,3 +33,17 @@ I'm BIGJRA - a software engineer and big fan of gaming! The walkthroughs on this
     I began work on the Pokemon Rejuvenation walkthrough all the way back in 2018 during the game's V9 version. Originally a 400+ page Google Document, I have done tons of work to put evolve the walkthrough to its current state. It is currently <strong>about 99% up-to-date with the V13.5 version</strong>. Inside you can find information that will help you achieve completion!
   </div>
 </div>
+
+<hr/>
+
+<div class="portfolio-item-container">
+  <div class="portfolio-item-desc">
+    <h1>Pokemon Desolation Walkthrough</h1>
+    The Pokemon Desolation walkthrough is a newer project, intending to round out my walkthrough series of the Reborn-universe of games. I'm least familiar with this game and this text is still a major work-in-progress and is based on the newest game version <strong>V6<strong>.
+  </div>
+    <div class="portfolio-item-link">
+    <a class="portfolio-item-image" href="/desolation">
+      <img alt="Pokemon Desolation Walkthrough" src="/assets/images/deso_title.png" /> <!-- TODO: Add me!-->
+    </a>
+  </div>
+</div>

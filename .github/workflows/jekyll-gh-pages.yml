@@ -38,8 +38,10 @@ jobs:
         run: |
           REBORN=$(jq -r '.reborn' .scripts_versions.json)
           REJUV=$(jq -r '.rejuv' .scripts_versions.json)
+          DESO=$(jq -r '.deso' .scripts_versions.json)
           echo "reborn=$REBORN" >> $GITHUB_OUTPUT
           echo "rejuv=$REJUV" >> $GITHUB_OUTPUT
+          echo "deso=$DESO" >> $GITHUB_OUTPUT
 
       - name: Checkout private repository for Reborn scripts
         env:
@@ -74,6 +76,23 @@ jobs:
 
       - name: Run wt_generator.rb for Rejuv
         run: ruby wt_generator.rb rejuv ./_scripts_rejuv src/rejuv.md
+
+      - name: Checkout private repository for Deso scripts
+        env:
+          PRIVATE_REPO_PAT: ${{ secrets.PRIVATE_REPO_PAT }}
+          PRIVATE_REPO_GIT_URL: ${{ secrets.PRIVATE_REPO_GIT_URL }}
+          DESO_COMMIT: ${{ steps.versions.outputs.deso }}
+        run: |
+          git clone https://x-access-token:${PRIVATE_REPO_PAT}@${PRIVATE_REPO_GIT_URL} ./_scripts_deso
+          cd _scripts_deso
+          if [ -n "$DESO_COMMIT" ]; then
+            echo "Checking out commit $DESO_COMMIT for Deso"
+            git checkout $DESO_COMMIT
+          fi
+          cd ..
+
+      - name: Run wt_generator.rb for Deso
+        run: ruby wt_generator.rb deso ./_scripts_deso src/deso.md
 
       - name: Copy _config.yml into src
         run: cp ./_config.yml ./src/_config.yml

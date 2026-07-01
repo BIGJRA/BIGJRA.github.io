@@ -57,3 +57,9 @@ task :generate_rejuv do
   dir = ensure_scripts_repo("rejuv")
   sh "ruby wt_generator.rb rejuv #{dir} src/rejuv.md"
 end
+
+desc "Generate Markdown for Desolation"
+task :generate_deso do
+  dir = ensure_scripts_repo("deso")
+  sh "ruby wt_generator.rb deso #{dir} src/deso.md"
+end

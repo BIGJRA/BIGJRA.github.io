@@ -16,8 +16,8 @@ scripts_dir = ARGV[1]
 output_file = ARGV[2]
 
 # Validate game type
-unless ['reborn', 'rejuv'].include?(game)
-  puts "Invalid game type. Please specify 'reborn' or 'rejuv'."
+unless ['reborn', 'rejuv', 'deso'].include?(game)
+  puts "Invalid game type. Please specify 'reborn', 'deso', or 'rejuv'."
   exit 1
 end
 
@@ -31,7 +31,7 @@ begin
     timestamp = Time.now.utc.strftime("%Y%m%dT%H%M%SZ")
     dir = File.dirname(output_file)
     base = File.basename(output_file, "")
-    new_name = File.join(dir, "#{base}.#{timestamp}")
+    new_name = File.join(dir, "_arch", "#{base}.#{timestamp}")
     File.rename(output_file, new_name)
     puts "Existing file renamed to #{new_name}"
   end

@@ -21,7 +21,7 @@
 title: BIGJRA's Walkthroughs
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In-depth 100% guides for Pokemon Reborn & Rejuvenation
+  In-depth 100% guides for Pokemon Reborn, Rejuvenation, and Desolation
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -65,3 +65,4 @@ exclude:
   - _utils/
   - "*.rb"
   - README.md
+  - _arch/
