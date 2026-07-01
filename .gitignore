@@ -17,3 +17,6 @@ _scripts_reborn
 _scripts_rejuv
 _scripts_deso
 *_arch*
+src/reborn-chapters/
+src/rejuv-chapters/
+src/deso-chapters/

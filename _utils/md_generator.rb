@@ -63,23 +63,73 @@ def generate_md_text(game = 'reborn', scripts_dir)
     res.join
   end
 
+  def generate_intelligent_slug(title, chapter_type, chapter_num)
+    # Special handling for .Karma Files sections
+    if title.start_with?('.Karma Files')
+      if title.include?('Paragon')
+        return 'karma-files-paragon'
+      elsif title.include?('Renegade')
+        return 'karma-files-renegade'
+      end
+    end
+
+    # Appendices
+    if chapter_type == 'appendices'
+      return 'appendices'
+    end
+
+    # Postgame episodes (post chapter_type)
+    if chapter_type == 'post'
+      return "postgame-episode-#{chapter_num}"
+    end
+
+    # Extract episode/chapter number from title
+    if title =~ /^Episode\s+(\d+)/i
+      return "episode-#{$1}"
+    elsif title =~ /^Chapter\s+(\d+)/i
+      return "chapter-#{$1}"
+    elsif title =~ /^Postgame\s+Episode\s+(\d+)/i
+      return "postgame-episode-#{$1}"
+    else
+      # Fallback: use chapter-type-num format
+      return "#{chapter_type}-#{chapter_num}"
+    end
+  end
+
+  def extract_first_level_header(content)
+    content.each_line do |line|
+      return line.strip[2..].strip if line.start_with?('# ')
+    end
+    nil
+  end
+
   res = ''
   res += generate_md_pre_contents(game)
   res += generate_toc_contents(game)
+  
+  chapters = []
   ['main', 'para', 'rene', 'post', 'appendices'].each do |chapter_type|
     chapter_num = 1
     loop do
       curr = generate_chapter_contents(game, scripts_dir, chapter_type, chapter_num, func_wrapper)
       break if !curr
+      
+      first_header = extract_first_level_header(curr)
+      if first_header
+        slug = generate_intelligent_slug(first_header, chapter_type, chapter_num)
+        chapters << { title: first_header, slug: slug, content: curr }
+      end
+      
       res += "#{curr}\n"
       chapter_num += 1
       break if chapter_type == "appendices"
     end
   end
   res += generate_md_post_contents
-  res.strip
-
-  # func_wrapper.trainerGetter.report_missing_trainers()
-
-  res
+  
+  # Return both monolithic and chapters
+  {
+    monolithic: res.strip,
+    chapters: chapters
+  }
 end
