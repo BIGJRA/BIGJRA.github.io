@@ -77,9 +77,6 @@ jobs:
       - name: Run wt_generator.rb for Rejuv
         run: ruby wt_generator.rb rejuv ./_scripts_rejuv src/rejuv.md
 
-              - name: Run wt_generator.rb for Reborn
-        run: ruby wt_generator.rb reborn ./_scripts_reborn src/reborn.md
-
       - name: Checkout private repository for Deso scripts
         env:
           PRIVATE_REPO_PAT: ${{ secrets.PRIVATE_REPO_PAT }}

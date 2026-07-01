@@ -98,7 +98,6 @@ class FunctionWrapper
     table_header['style'] = 'text-align: center;'
 
     mining_hash.each do |prob, item_list|
-      pp prob, item_list
       content_row = doc.create_element('tr')
       table.add_child(content_row)
 
