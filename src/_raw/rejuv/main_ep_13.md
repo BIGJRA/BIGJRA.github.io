@@ -1019,7 +1019,7 @@ Next, fly to Rose Theater and use the Time Splicer Stone.
 
 !enc(240, ["Fishing"], ["Super"])
 
-!enc(106, ["Fishing"], ["Super"])
+TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"]) : enc(106, ["Fishing"], ["Super"])
 
 Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
 

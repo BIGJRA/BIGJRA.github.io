@@ -420,11 +420,14 @@ class FunctionWrapper
       @raidDenHash["Den#{den_num}"][rarity][num_badges].each do |mon, atts|
         content_row = doc.create_element('tr')
         tbody.add_child(content_row)
-        base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
-        pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
+
+        # Use actual_pokemon key for pokemonHash lookup (handles form variants like GALARSTUNFISK -> STUNFISK)
+        pokemon_lookup_key = atts[:actual_pokemon] || mon
+        base_form = @pokemonHash[pokemon_lookup_key].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @pokemonHash[pokemon_lookup_key][base_form][:name]
 
         if atts[:Form] != 0
-          form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[atts[:Form]]
+          form_key = @pokemonHash[pokemon_lookup_key].keys.find_all { |key| key.is_a?(String) }[atts[:Form]]
           pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
         end
         pokemon_name_formatted = "Shadow #{pokemon_name_formatted}"

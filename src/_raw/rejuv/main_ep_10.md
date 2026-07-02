@@ -314,7 +314,7 @@ Head back to the east. Continue through the cave, using the mirror in the same s
 
 In the next room, get a hidden *Yellow Shard* and *Max Repel*. You'll choose between Erin and Florin as a partner here.
 
-!partner(["Erin",:CANDIDGIRL,0])
+!partner(["Erin",:CANDIDGIRL3,0])
 
 !partner(["Florin",:LEADER_FLORIN,0])
 

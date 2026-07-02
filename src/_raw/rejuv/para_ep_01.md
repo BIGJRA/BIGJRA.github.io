@@ -392,11 +392,11 @@ Return to the theater and enter the pocket dimension upstairs.
 
 At this point, you need to finally defeat the gauntlet in Zeight. This works similar to Glass in Reborn: your Pokemon will be fully healed between fights, but fallen Pokemon will not be revived.
 
-!battle(["01010010 01110110",:TREAT_01,0], "Deep Earth Field")
+!battle(["01010010 01010110", :TREAT_01, 0], "Deep Earth Field")
 
-!battle(["01000001 01000101",:TREAT_02,0], "Deep Earth Field")
+!battle(["01000001 01000101", :TREAT_02, 0], "Deep Earth Field")
 
-!battle(["01001101",:TREAT_03,0], "Deep Earth Field")
+!battle(["01001101", :TREAT_03, 0], "Deep Earth Field")
 
 Gauntlets are very rough. You train the whole game to get used to using Pokemon in such a way that getting one knockout per Pokemon is enough to win a fight. A gauntlet like this one makes it so that each of your Pokemon has to knock out three Pokemon on average. And the opponents here are all of our allies with their very powerful and varied teams, meaning winning this gauntlet is no small feat. Whether it's training new team members, playing with trial-and-error to figure out where the AI will target its attacks in each fight so you can gain some momentum, etc.
 

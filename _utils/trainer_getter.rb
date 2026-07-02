@@ -163,6 +163,17 @@ class TrainerGetter
 
       form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
       form_1_data = @pokemonHash[mon[:species]][form_1_key]
+
+      # This handles the strange case of Minior having its data in Meteor Form instead of Red, but Meteor Form at the end...
+      if form_1_data[:baseForm] 
+        bfData = @pokemonHash[mon[:species]][form_1_data[:baseForm]]
+        bfData.each do |k, v|
+          if form_1_data[k] == nil
+            form_1_data[k] = v
+          end
+        end
+      end
+
       pokemon_name = "#{mon[:shadow] ? "Shadow " : ""}#{@pokemonHash[mon[:species]][form_1_key][:name]}"
       if fight_is_boss || mon[:boss]
         pokemon_name = "#{mon[:boss] ? "Boss " : "SOS "}#{pokemon_name}"
@@ -257,7 +268,7 @@ class TrainerGetter
             if effs[:weatherChange] == nil
               eff_strs.push("Weather is nullified")
             else
-              eff_strs.push("Weather becomes #{@moveHash[effs[:weatherChange]][:name]}")
+              eff_strs.push("Weather becomes #{effs[:weatherChange]}")
             end
           end
           if effs[:speciesUpdate]
@@ -499,10 +510,15 @@ class TrainerGetter
         mon[:moves] = []
         moveset = form_data[:Moveset] || form_1_data[:Moveset]
         movelist = []
+        if moveset == nil
+          pp form_data
+          pp form_1_data
+          raise "No moveset for #{mon[:species]} (#{form_key})"
+        end
         for i in moveset
           movelist.push(i[1]) if i[0] <= mon[:level]
         end
-        movelist |= [] # Remove duplicatesx
+        movelist |= [] # Remove duplicates
         listend = movelist.length - 4
         listend = 0 if listend < 0
         for i in listend...listend + 4

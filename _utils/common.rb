@@ -494,9 +494,10 @@ def load_trainer_hash(game, scripts_dir)
 end
 
 def load_boss_hash(game, scripts_dir)
-  return {} if game == "reborn"
-  data = File.read(file_path(game, scripts_dir, 'BossInfo.rb'))
-  return eval(data)
+  return {} if game != "rejuv"
+  # data = File.read(file_path(game, scripts_dir, 'BossInfo.rb'))
+  data = File.read(file_path(game, scripts_dir, 'bosstext.rb'))
+  eval(data)
 end
 
 def load_trainer_type_hash(game, scripts_dir)
@@ -661,17 +662,28 @@ end
 
 def load_raid_den_hash(game, scripts_dir)
   return {} if game == "reborn"
-  data = File.read(file_path(game, scripts_dir, 'RaidDens.rb'))
-
-  mon_info = {}
-  dens = {}
-  current_den = nil
-  current_rarity = nil
-  current_badge = nil
-  current_pokemon = nil
-
-  found_encounter_block = false
-
+  
+  # Load required files in dependency order
+  data_objects_path = File.join(scripts_dir, 'DataObjects.rb')
+  custom_objects_path = File.join(scripts_dir, game.capitalize, 'CustomDataObjects.rb')
+  den_path = file_path(game, scripts_dir, File.join('Definitions', 'dentext.rb'))
+  den_enc_path = file_path(game, scripts_dir, File.join('Definitions', 'denenctext.rb'))
+  
+  # Read all required files
+  data_objects_code = File.exist?(data_objects_path) ? File.read(data_objects_path) : ""
+  custom_objects_code = File.exist?(custom_objects_path) ? File.read(custom_objects_path) : ""
+  den_code = File.exist?(den_path) ? File.read(den_path) : ""
+  den_enc_code = File.exist?(den_enc_path) ? File.read(den_enc_path) : ""
+  
+  # Combine in dependency order
+  combined_code = data_objects_code + "\n\n" + custom_objects_code + "\n\n" + den_code + "\n\n" + den_enc_code
+  
+  # Evaluate to get DENHASH and DENENCHASH
+  eval(combined_code)
+  denhash = DENHASH
+  denenchash = DENENCHASH
+  
+  # Badge to level mapping (consistent with old format)
   badge_levels = {
     4 => 35,
     8 => 50,
@@ -679,80 +691,92 @@ def load_raid_den_hash(game, scripts_dir)
     16 => 80,
     18 => 95
   }
-
-
-  data.each_line do |line|
-    # Check if we are in the encounterTable function
-    if line.include?("encounterTable")
-      found_encounter_block = true
-      next
-    end
-
-    if !found_encounter_block
-      # Processing denEncounters function
-
-      # Match Pokémon definitions
-      if line =~ /:\s*(?<pokemon>\w+)\s*=>\s*{/  # Ensure to match the opening brace
-        current_pokemon = $~[:pokemon].to_sym
-        mon_info[current_pokemon] ||= {}  # Initialize a new hash for this Pokémon
-
-      elsif current_pokemon && line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?)(?:,\n|\n)/m # Only process attributes if a Pokémon has been defined
-        att_name = $~[:att].to_sym
-        values = eval($~[:values].strip)
-
-        # Assign the attribute to the current Pokémon's hash
-        mon_info[current_pokemon][att_name] = values
-      end
-
-    elsif found_encounter_block
-      # Processing encounterTable function
-
-      # Match den definitions
-      break if line =~ /when "Beldum"/ 
-      if line =~ /when\s+"(?<den>Den\d+)(Rare)?"/
-        current_den = $~[:den]
-        current_rarity = line.include?("Rare") ? :rare : :common
-        dens[current_den] ||= { common: {}, rare: {} }
-      end
-
-      # Match game switch lines
-      if line =~ /\$game_switches\[:Gym_(\d+)\]/
-        current_badge = $1.to_i
-        dens[current_den][current_rarity][current_badge] ||= {}
-      end
-
-      # Match encounter lines
-      if line =~ /:(?<pokemon>\w+)\s*=>\s*{/
-        current_pokemon = $~[:pokemon].to_sym
-        dens[current_den][current_rarity][current_badge][current_pokemon] ||= mon_info[current_pokemon]
-        dens[current_den][current_rarity][current_badge][current_pokemon][:level] = badge_levels[current_badge]
-        if current_pokemon == :BELDUM
-          dens[current_den][current_rarity][current_badge][current_pokemon][:level] = 20
-        end
-      end
-
-      if line =~ /:weight => (?<weight>.*)\n/
-        dens[current_den][current_rarity][current_badge][current_pokemon][:weight] = eval($~[:weight]) 
+  
+  # Convert RaidDen objects to the expected format
+  dens = {}
+  
+  denhash.each do |den_key, raid_den|
+    den_name = den_key.to_s
+    
+    # Determine if this is a rare den
+    is_rare = den_name.include?('Rare')
+    base_den_name = den_name.sub(/Rare$/, '')
+    
+    # Initialize the den structure
+    dens[base_den_name] ||= { common: {}, rare: {} }
+    rarity_key = is_rare ? :rare : :common
+    
+    # Process each table (badge level)
+    raid_den.encounters.each do |badge_id, encounter_list|
+      # Convert badge_id symbol to number
+      badge_num = case badge_id
+                  when :Gym_4 then 4
+                  when :Gym_8 then 8
+                  when :Gym_12 then 12
+                  when :Gym_16 then 16
+                  when :Gym_18 then 18
+                  else
+                    # Handle case where badge_id might already be a number or true
+                    badge_id.is_a?(Integer) ? badge_id : nil
+                  end
+      
+      next if badge_num.nil?
+      
+      dens[base_den_name][rarity_key][badge_num] ||= {}
+      
+      # Process each encounter
+      encounter_list.each do |encounter_hash|
+        pokemon_key = encounter_hash[:encounter]
+        weight = encounter_hash[:weight] || 1.0
+        
+        # Look up encounter data from denenctext
+        enc_data = denenchash[pokemon_key] || {}
+        
+        # Resolve to actual species if this is an alternate form
+        actual_pokemon = enc_data[:species] || pokemon_key
+        
+        # Extract moves - convert symbols to move IDs
+        moves = (enc_data[:moves] || []).map { |m| m.is_a?(Symbol) ? m : m }
+        
+        # Extract form - use species if it's an alternate form
+        form = enc_data[:form] || 0
+        
+        # Extract shiny chance
+        shiny_chance = enc_data[:shinyChance] || 0
+        
+        # Build the attributes hash
+        attributes = {
+          weight: weight,
+          level: badge_levels[badge_num] || 95,
+          Form: form,
+          Ability: nil,           # Not in denenctext - will be filled by pokemon data if available
+          ShinyChance: shiny_chance,
+          Moves: moves,
+          actual_pokemon: actual_pokemon  # Store the actual pokemon key for later lookup
+        }
+        
+        dens[base_den_name][rarity_key][badge_num][actual_pokemon] = attributes
       end
     end
   end
-
+  
+  # Calculate odds for each encounter
   dens.each do |den, rarities|
     rarities.each do |rarity, badges|
       badges.each do |badge, pokemons|
-        total_weight = pokemons.values.map { |p| p[:weight] || 0 }.sum
-
+        total_weight = pokemons.values.map { |p| p[:weight] || 1.0 }.sum
+        
         pokemons.each do |pokemon, attributes|
           if total_weight > 0
-            # Calculate odds as a percentage and format to 2 decimal places
             attributes[:odds] = ((attributes[:weight] / total_weight.to_f) * 100).round(2)
           else
-            attributes[:odds] = 0.0  # Handle case where total_weight is zero
+            attributes[:odds] = 0.0
           end
         end
       end
     end
   end
+  
   dens
 end
 

@@ -4,13 +4,19 @@ One way or another, we're going to break the cycle. Together.
 
 Welcome to my 100% walkthrough of Pokemon Rejuvenation!
 
-My aim with this document is to provide a complete route through the game including every single item (including hidden items), available Pokemon, some tips for battle strategies, shop and tutor details, and more.
+My aim with this document is to provide a complete route through the game including every single item (including hidden items), available Pokemon, some tips for this game's intense battles, shop and tutor details, and more.
 
 There are some parts that may spoil events that happen later in the game. I don't directly summarize story details, but you may want to consider playing the game once first without referencing this walkthrough if spoilers are a concern.
 
 ## Prologue
 
 The game will start off asking if you want to skip the prologue. Rejuvenation is a very story-focused game, so I recommend viewing it if it is your first time playing. If you do skip the prologue, jump ahead to the next section.
+
+You'll start by playing as Maria. Head over and talk to the yellow bird, Wattrel - this is an example of a Pokemon! I wouldn't recommend playing this as your first Pokemon game, but who am I to judge?
+
+Talk to Maria's mother downstairs on the couch, then again in the kitchen. You'll have to interact with the door at the top next, then go upstairs. 
+
+Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
 
 As soon as you're done reading the Zorua and Pangoro story, take control of Maria and head downstairs to talk to Mom. Enter the bottom room on the left side of the first floor. Go downstairs and interact with the summoning table.
 

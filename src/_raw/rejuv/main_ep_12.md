@@ -161,7 +161,7 @@ Next you have to fight a Level 1 Deoxys. Obviously it is easy, but:
 
 There are encounters now.
 
-!enc(106, nil, ["Old", "Good"])
+TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"])
 
 Return to Kugearen City and talk to Erin. Get $5000 from Katsu in Kugearen, then accept the fast travel. Once in Amberette Town, enter the right house and get the *Time Gear Amulet*!
 
