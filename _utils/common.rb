@@ -463,6 +463,9 @@ end
 
 def file_path(game, scripts_dir, file_name)
   game_dir = game.capitalize
+  if game_dir == "Deso"
+    game_dir = "Pokemon Desolation"
+  end
 
   primary = File.join(scripts_dir, game_dir, file_name)
   return primary if File.exist?(primary)
@@ -470,7 +473,7 @@ def file_path(game, scripts_dir, file_name)
   fallback = File.join(scripts_dir, game_dir, "Definitions", file_name)
   return fallback if File.exist?(fallback)
 
-  raise FileNotFoundError, "Could not find #{file_name} in #{game_dir} or #{game_dir}/Definitions"
+  raise "Could not find #{file_name} in #{game_dir} or #{game_dir}/Definitions"
 end
 
 def load_item_hash(game, scripts_dir)
@@ -534,7 +537,7 @@ def load_mining_hash(game = nil, scripts_dir)
   lines = if game && game.capitalize == 'Rejuv'
             File.read(File.join(script_sub_dir(scripts_dir, game), 'RejuvCustomScripts.rb'))
           else
-            File.read(File.join(scripts_dir, 'Minigame', 'Mining.rb'))
+            File.read(File.join(scripts_dir, 'MinigameMining.rb'))
           end
 
   item_hash = Hash.new(0)
@@ -661,7 +664,7 @@ def is_custom_form(form_key)
 end
 
 def load_raid_den_hash(game, scripts_dir)
-  return {} if game == "reborn"
+  return {} if game != "rejuv"
   
   # Load required files in dependency order
   data_objects_path = File.join(scripts_dir, 'DataObjects.rb')
