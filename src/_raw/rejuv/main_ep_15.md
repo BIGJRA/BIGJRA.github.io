@@ -69,7 +69,7 @@ Fly to the Rose Theater, and enter Forlorned Cavern on Route 9. Enter the first 
 
 Head up and watch the scenes play out. Then, in Narcissa's house, talk to her upstairs. Head out and go to the Wispy Tower. Talk to young Narcy here and go in. Enter the lab, and head left. Talk to her again. Enter the western room, and surf up. Watch the CD Rom, then return to Narcissa's house and talk to them again. Accept fast travel.
 
-Follow the Rotom into the cave, then take the time crystal to the past. Interact with the safe here. Then, pull the lever in the top left corner, hiding in boxes. Go down the ladder and out. You can find hidden *Revival Herb*, *Full Heal*, *Health Wing*, and *Blue Shard* throughout the building. Unlock the gate, and head in.
+Follow the Rotom into the cave, then take the time crystal to the past. Interact with the safe here. Then, pull the lever in the top left corner, hiding in boxes. Go down the ladder and out. You can find hidden *Revival Herb*, *Full Heal*, *Health Feather*, and *Blue Shard* throughout the building. Unlock the gate, and head in.
 
 After a scene, talk to Narcissa and agree to go. Enter the manor and head upstairs to the top left room. Talk to the safe after another scene for the *Fairy Memory* and *Shiinotic Crest*. Exit to the well in the backyard.
 

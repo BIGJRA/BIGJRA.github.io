@@ -128,7 +128,7 @@ Head west from Dream District North to enter Central Square.
 
 !enc(194)
 
-Pick up the hidden *Lemonade* and *Exp. Candy XL* on the east side. To the west, hidden are *2 Green Shards*. A man to the left of the tall central building will give you an *HP Up*. A bit down and left from here is a hidden *Max Repel* as well as *Exp. Candy L*. Pick up the *Revival Herb*, then continue east to get a hidden *Grass Gem*, *Muscle Wing*, *Red Shard*, and *Love Ball*. A *Synthetic Seed* is in the southeast corner.
+Pick up the hidden *Lemonade* and *Exp. Candy XL* on the east side. To the west, hidden are *2 Green Shards*. A man to the left of the tall central building will give you an *HP Up*. A bit down and left from here is a hidden *Max Repel* as well as *Exp. Candy L*. Pick up the *Revival Herb*, then continue east to get a hidden *Grass Gem*, *Muscle Feather*, *Red Shard*, and *Love Ball*. A *Synthetic Seed* is in the southeast corner.
 
 !battle(["Drake and Sherry",:COOLCOUPLE1,0], "City Field")
 

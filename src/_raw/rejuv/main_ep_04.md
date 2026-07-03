@@ -189,7 +189,7 @@ The gimmick of this area is that some trees and other items are actually mirages
 
 !battle(["Tommy",:CAMPER,0], "Forest Field")
 
-Go left. Two tiles above the rightmost tall grass is a hidden *Pretty Wing*. Hidden in the middle of a yellower-than-its-neighbors tree down and right from here is a *Moomoo Milk*. The TM to the left is a mirage... but beyond it is a mirage cave, in which there is a hidden *Magical Seed* at the bottom and *TM48 Round*!
+Go left. Two tiles above the rightmost tall grass is a hidden *Pretty Feather*. Hidden in the middle of a yellower-than-its-neighbors tree down and right from here is a *Moomoo Milk*. The TM to the left is a mirage... but beyond it is a mirage cave, in which there is a hidden *Magical Seed* at the bottom and *TM48 Round*!
 
 Back outside, to the right,you'll see a lone bush - go right from it then up to reveal a mirage path through the rock face! Hug the left wall as you go up to reveal yet another mirage path through some trees. One tile right and three down from the hiker is a hidden *Ether*. Talk to said hiker to begin the *Broken Bell* quest.
 
@@ -203,7 +203,7 @@ The bridge to the right is a lie! Instead, cut the tree below and go through the
 
 Cross the real bridge to the right and go up. In the grass tile surrounded by dirt is a hidden *X Defend*. A flower patch above contains a hidden *Reverse Candy*. Head up into the Mirage Town area.
 
-In the right house, grab the *Steam Ball* and talk to the scientist to begin the *Cranky Crobat* quest. Outside, enter the house on the upper right hill to get the *Itemfinder*! Finally we have the Itemfinder. This means that I don't have to describe the location of every hidden item in excruciating detail, moving forward. Speaking of which, around the Mirage Town area, there is a hidden *Clever Wing* and *Genius Wing*. Cut the tree at the top, go up the mirage stairs, grab the hidden *Reverse Candy*, and proceed into the cave at the top.
+In the right house, grab the *Steam Ball* and talk to the scientist to begin the *Cranky Crobat* quest. Outside, enter the house on the upper right hill to get the *Itemfinder*! Finally we have the Itemfinder. This means that I don't have to describe the location of every hidden item in excruciating detail, moving forward. Speaking of which, around the Mirage Town area, there is a hidden *Clever Feather* and *Genius Feather*. Cut the tree at the top, go up the mirage stairs, grab the hidden *Reverse Candy*, and proceed into the cave at the top.
 
 Grab *TM66 Payback* as well as hidden *Everstone*, *2 Exp. Candy L*, *Repel*, *Nugget*, *Red Shard*, *Yellow Shard*, *Rock Gem*, and *Awakening* as you proceed through the cave. Use Flash at the bottom for a battle!
 
@@ -301,7 +301,7 @@ Enter Ren's house to the east of the Giratina statue. In his room upstairs:
 
 In Reina's room, read Reina's diary then check the couch for $500.
 
-!shop("Goldenleaf Mart", ["Great Ball", "Super Potion", "GourmetTreat", "Repel", "Super Repel", "Escape Rope"])
+!shop("Goldenleaf Mart", ["Great Ball", "Super Potion", "Gourmet Treat", "Repel", "Super Repel", "Escape Rope"])
 
 Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first, at night only:
 
@@ -379,7 +379,7 @@ Orbeetle can be annoying if it puts you to sleep, so have a way to account for t
 
 First thing we're going to do is head into Goldenwood Cave. We couldn't get here with Rock Smash before, but now that we can, go ahead and pick up the *Rare Candy*, *Nugget*, and hidden *Blue Shard*. Your Pokemon should be able to now beat the Leavanny trainer, if you haven't yet.
 
-Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *GourmetTreat* is to the left, plus:
+Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *Gourmet Treat* is to the left, plus:
 
 **ZCell 027: Goldenwood Forest**
 

@@ -37,13 +37,13 @@ We'll do the cave a bit later. Head down to the beach, which is filled with wild
 
 Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**!
 
-Surf back to the mainland of Route 9. Hidden on Route 9, you'll find a *Calcium*, *Carbos*, *Big Mushroom*, *Resist Wing*, and *Swift Wing*. 
+Surf back to the mainland of Route 9. Hidden on Route 9, you'll find a *Calcium*, *Carbos*, *Big Mushroom*, *Resist Feather*, and *Swift Feather*. 
 
 Next, enter the main entrance to the cave to the northeast.
 
 !enc(419, nil, ["Old", "Good"])
 
-Pick up a hidden *Yellow Shard*, then head into the room at the top with the crystal and pick up a hidden *Pretty Wing* as well as:
+Pick up a hidden *Yellow Shard*, then head into the room at the top with the crystal and pick up a hidden *Pretty Feather* as well as:
 
 **ZCell 111: Forlorned Cavern**
 
@@ -53,7 +53,7 @@ Exit out the bottom to catch more **Sewaddle (Aevian)** if you wish.
 
 That's all we can do in this section of the cave, so head back out and go to the left, where the hiker is, and enter this cavern. At the top, use rock climb to grab an *Ability Capsule*. There's also a *Dusk Stone* hidden behind the rock smash path at the bottom. Pick up the hidden *Mineral Ball* and *Ether* as you go to the right.
 
-Exit at the top right, then pick up the hidden *Muscle Wing* and follow the path to the next cave entrance. There is a hidden *Clever Wing* and *Soda Pop* along this path: follow it to get *TM35 Flamethrower*! The tree here also has hidden *Honey* in it. 
+Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path: follow it to get *TM35 Flamethrower*! The tree here also has hidden *Honey* in it. 
 
 Return to the main part of Route 9. Make your way to the northwest: there is a breeder here, and each time you win, you will get *7 Exp. Candy L*.
 

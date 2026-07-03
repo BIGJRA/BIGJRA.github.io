@@ -48,7 +48,7 @@ Go surfing north and pick up the hidden *Exp. Candy M*. On the left, behind a mi
 
 Hidden in this room is *Shoal Salt*, *Shoal Shell*, and *Blue Shard*. Surf on the water and go up through the middle waterfall. Continue into the next room.
 
-You can find a hidden *Super Repel*, *Super Potion*, *GourmetTreat*, and *Green Shard*. Our objective is pushing the floating stones onto the lit up tiles. Push the five stones into place... as well as Braixen into place, to get the door to open.
+You can find a hidden *Super Repel*, *Super Potion*, *Gourmet Treat*, and *Green Shard*. Our objective is pushing the floating stones onto the lit up tiles. Push the five stones into place... as well as Braixen into place, to get the door to open.
 
 Hidden are *2 Water Gems*, *Red Shard*, and *Blue Shard*.
 
@@ -82,7 +82,7 @@ Inside this house, show a Psychic type (the Oranguru) to a person at the top rig
 
 Outside, go left. Grab the *Elixir* and hidden *Rawst Berry*, *Water Gem*, and *Blue Shard*. At the bottom, there are some shops:
 
-!shop("Teila Resort (Top)", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Burn Heal", "GourmetTreat", "Super Repel", "Max Repel", "Reverse Candy"])
+!shop("Teila Resort (Top)", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Burn Heal", "Gourmet Treat", "Super Repel", "Max Repel", "Reverse Candy"])
 
 !shop("Teila Resort (Middle)", ["Apophyll Pancakes", "Tart Apple", "Sweet Apple"])
 
@@ -135,7 +135,7 @@ Talk to the man in here, then surf to the left side of the room and use Rock Cli
 
 !img("zcell060.png")
 
-Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Stone* and *TM104 Deluge*. To the left you'll find a hidden *Resist Wing* in the water. 
+Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Stone* and *TM104 Deluge*. To the left you'll find a hidden *Resist Feather* in the water. 
 
 Go south, back through Aquamarine Cave, and return to Teila Resort and go to Tesla's Office.
 
@@ -371,7 +371,7 @@ The Tailwind makes this otherwise somewhat slow team outspeed you, but stalling 
 
 With three shields, it takes a lot to defeat Rift Chandelure. It has an insane Special Attack stat, with Shadow Ball and Air Slash consistently and a different special STAB at each phase. Since it recovers stat changes at each stage, status conditions are especially key here. With only 99 HP and 69 Def its physical bulk is nothing to write home about - with a new held gem at each phase, I recommend going the fully powered Knock Off. You also have the power of 'cheese' in your pocket thanks to the Trace ability - at each phase you can brick it with a harmful ability like Truant! 
 
-Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Hidden around here is a *Rare Candy*, *Elixir*, *Iron*, and *Resist Wing*.
+Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Hidden around here is a *Rare Candy*, *Elixir*, *Iron*, and *Resist Feather*.
 
 At night, you'll find:
 
@@ -409,7 +409,7 @@ To progress the story, take the submarine from Mynori Sea. Follow the path throu
 
 Go up now. You'll awaken in the Tower of Theolia. There is a butterfly that can warp you to Teila Resort if you need to exit for any reason.
 
-!shop("Tower of Theolia", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "GourmetTreat", "Super Repel", "Max Repel", "Reverse Candy"])
+!shop("Tower of Theolia", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Gourmet Treat", "Super Repel", "Max Repel", "Reverse Candy"])
 
 Enter the tower. 
 

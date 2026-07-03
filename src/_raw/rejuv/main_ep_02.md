@@ -12,7 +12,7 @@ Head into the lab to battle Dr. Jenkel, with a choice of ally between Ren and Ve
 
 Either partner will do well here, his Frogadier hits hard with Water Pulse and Misty Terrain boosted Icy Wind, while her Grimer can smack super effective STAB on each with Knock Off and Poison Fang. Low stats including abysmal speed prevents Musharna from doing much damage - stall out the screens from the Munna if you need to and hit Musharna hard with STAB moves and you'll be just fine.
 
-After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a GourmetTreat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
+After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a Gourmet Treat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
 
 ## Team Xen Gearen Takeover
 
@@ -34,7 +34,7 @@ The third tile from the right on the top row of grass hides a *Green Shard*, whi
 
 !img("zcell006.png")
 
-Go up and give one of the **Munna** a GourmetTreat to catch it!
+Go up and give one of the **Munna** a Gourmet Treat to catch it!
 
 Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
 
@@ -158,7 +158,7 @@ The evolution items are of course nice for early evolutions for team members tha
 
 !enc(199, ["Rock Smash"])
 
-Behind the healing machine and a rock is a hidden *GourmetTreat*. Enter the cave here.
+Behind the healing machine and a rock is a hidden *Gourmet Treat*. Enter the cave here.
 
 ## Amethyst Cave
 
@@ -180,9 +180,9 @@ The wall below the second Joltik contains a hidden *HP Up*. Talk to Ren.
 - Is that strange? (Ren +1)
 - What about them? (Neutral)
 
-The rock below him contains a *Potion*, and one tile down from the box to the left is a hidden *Antidote*. Crossing the bridge, the bottom left box of the set on the right contains a *Green Shard*. A rock below here contains a *Resist Wing*, and there is a *Blue Shard* three tiles down and one tile left.
+The rock below him contains a *Potion*, and one tile down from the box to the left is a hidden *Antidote*. Crossing the bridge, the bottom left box of the set on the right contains a *Green Shard*. A rock below here contains a *Resist Feather*, and there is a *Blue Shard* three tiles down and one tile left.
 
-Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a GourmetTreat to catch **Lunatone**. Activate Amethyst Power Supply Panel 1 while you are here. We will activate 5 more for a quest later.
+Head downstairs. The boxes directly left of the healing star contain a *Revive*. Grab the *Blue Shard*. Then cross the bridge to get a *Modest Mint*. The tile at the top above the metal tracks contains a *Fire Gem*. You can give a Gourmet Treat to catch **Lunatone**. Activate Amethyst Power Supply Panel 1 while you are here. We will activate 5 more for a quest later.
 
 Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn about Rift Galvantula. Partner up with Ren or Venam!
 
@@ -224,7 +224,7 @@ Back in the cave, go right.
 
 Talk to the hooded guy then get a hidden *Electric Gem* in the right rock, then proceed to the next room.
 
-The wall immediately on the right contains a *Genius Wing*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. 
+The wall immediately on the right contains a *Genius Feather*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. 
 
 !battle(["Era",:LADY,0], "Crystal Cavern")
 
@@ -276,7 +276,7 @@ Enter the Move Tutor House just above the entrance to the village, and talk to a
 
 Go left to enter the Sheridan General Shop.
 
-!shop("Sheridan General", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Ice Heal", "Antidote", "GourmetTreat", "Super Repel", "Reverse Candy"])
+!shop("Sheridan General", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Ice Heal", "Antidote", "Gourmet Treat", "Super Repel", "Reverse Candy"])
 
 Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to her to get a free *Moomoo Milk* sample, then her shop will open. Berry Juice can be a pretty good hold item at this stage of the game! It is only open on Monday, Wednesday, Friday, and Sunday Mornings.
 
@@ -386,7 +386,7 @@ Venam will join you for a battle.
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
 
-Claim your reward: $950 and *5 GourmetTreats*. (+1 Karma)
+Claim your reward: $950 and *5 Gourmet Treats*. (+1 Karma)
 
 ### Trade Me!
 

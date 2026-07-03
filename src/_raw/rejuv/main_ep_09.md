@@ -270,7 +270,7 @@ There's a woman selling *Blast Powder* for $25000. It's pretty expensive, but th
 
 !battle(["Sarudo",:KIMONOGIRL,0], "City Field")
 
-Use your Itemfinder all around the city. You'll find a *Telluric Seed*, *Yellow Shard*, *2 Max Repels*, *Dusk Stone*, *Float Stone*, *Green Shard*, *Zinc*, *Muscle Wing*, *Red Shard*, and *GourmetTreat*.
+Use your Itemfinder all around the city. You'll find a *Telluric Seed*, *Yellow Shard*, *2 Max Repels*, *Dusk Stone*, *Float Stone*, *Green Shard*, *Zinc*, *Muscle Feather*, *Red Shard*, and *Gourmet Treat*.
 
 Cut the upper left tree to get *TM21 Frustration*!
 

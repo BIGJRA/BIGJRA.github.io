@@ -2,7 +2,7 @@
 
 ## Lake Spirits Quest
 
-On Paragon route only, there is one more set of Legendaries we can go fetch: the Lake Spirits have appeared in their respective dens! We're going to go grab them. Make sure you have a GourmetTreat for each.
+On Paragon route only, there is one more set of Legendaries we can go fetch: the Lake Spirits have appeared in their respective dens! We're going to go grab them. Make sure you have a Gourmet Treat for each.
 
 Fly to East Gearen and go to Goldenwood Park. Surf up at the very top of the hill to reach the Den of Verity to catch **Mesprit**!
 

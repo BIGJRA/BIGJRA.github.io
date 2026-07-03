@@ -6,7 +6,7 @@ And head back out. Now that the people of Goldenleaf have decided to change thei
 
 Cut the tree next to the gym and enter Wispy Ruins behind the waterfall. Step on the tile, then head in to and get Griselda's Treasure 4: a *Big Nugget*! 
 
-Finally, go to the graveyard at the west of town at night with a GourmetTreat, and you'll find a **Misdreavus**!
+Finally, go to the graveyard at the west of town at night with a Gourmet Treat, and you'll find a **Misdreavus**!
 
 ## Wispy Ruins
 
@@ -413,7 +413,7 @@ Your *Snag Machine* will finally be fixed! Reenter the interior and head down th
 
 There's also the Akuwa town merchant here:
 
-!shop("Xen Battleship Shop", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Antidote", "Ice Heal", "GourmetTreat", "Super Repel", "Reverse Candy"])
+!shop("Xen Battleship Shop", ["Poke Ball", "Great Ball", "Potion", "Super Potion", "Antidote", "Ice Heal", "Gourmet Treat", "Super Repel", "Reverse Candy"])
 
 Head up the stairs, and then up the stairs at the top. Follow Melia to the battle room for a fight.
 
@@ -470,7 +470,7 @@ Go right, and grab the *4 Yache Berries*. Talk to the Noctowl Statue to activate
 
 !img("zcell035.png")
 
-Go left to get a hidden *X Attack*, and *Telluric Seed*. Heading up you can find a hidden *Green Shard*, *Swift Wing*, and *Super Repel*.
+Go left to get a hidden *X Attack*, and *Telluric Seed*. Heading up you can find a hidden *Green Shard*, *Swift Feather*, and *Super Repel*.
 
 Enter the house at the bottom right side of the village, then follow her to the Terajuma Shipyard. Enter the Xen Battleship docked inside to the left and talk to her a few times in and around the ship. Talk to her back in Kakori to get a *Destiny Knot*!
 
@@ -478,7 +478,7 @@ Enter the building just northwest of the central stage to begin *The Kakori Mons
 
 Enter the Ranger HQ at the top.
 
-!shop("Ranger HQ", ["Poke Ball", "Great Ball", "Nest Ball", "Net Ball", "Escape Rope", "Spice Powder", "GourmetTreat", "Super Repel", "Reverse Candy"])
+!shop("Ranger HQ", ["Poke Ball", "Great Ball", "Nest Ball", "Net Ball", "Escape Rope", "Spice Powder", "Gourmet Treat", "Super Repel", "Reverse Candy"])
 
 Buy some Spice Powder while we're here. At the top, trade in your Up-Grade if you still have it with a ranger to get *Scope Lens*! Enter the hallway to the left and grab, well, another *Up-Grade* as well as *3 Max Repels*.
 

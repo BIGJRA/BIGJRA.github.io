@@ -147,7 +147,7 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 
 There are also **Aevian Snorunt** to the right! Very nice.
 
-Grab the hidden *Revival Herb*, *Green Shard*, *Clever Wing*, *Resist Wing*, *Muscle Wing*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Aevian Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
+Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Aevian Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
 Talk to the Noctowl Statue to create another fly location. Enter the Weather Institute.
 
@@ -299,7 +299,7 @@ Head into Helojak Factory. Proceed through the dungeon as we did once before - e
 
 !battle(["Edward",:TEAMAA_M,1], "Factory Field")
 
-Talk to the machine behind to deactivate pistons. This turns off the currents in the factory. Surf to the top of the factory to get on the roof. Here, you can battle and catch **Elekid** in exchange for a GourmetTreat! 
+Talk to the machine behind to deactivate pistons. This turns off the currents in the factory. Surf to the top of the factory to get on the roof. Here, you can battle and catch **Elekid** in exchange for a Gourmet Treat! 
 
 Anyways, return to the Help Center to get $4,255 (+1 Karma).
 
@@ -332,7 +332,7 @@ There's also a few new berries now.
 
 !shop("Berry Emporium (5 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Cheri Berry", "Aspear Berry", "Sitrus Berry"])
 
-Next, head to the basement of Chrisola hotel. Surf to the dark patch in the water at night and use a GourmetTreat to get **Totodile**! Also, grab the *Water Stone*.
+Next, head to the basement of Chrisola hotel. Surf to the dark patch in the water at night and use a Gourmet Treat to get **Totodile**! Also, grab the *Water Stone*.
 
 There are also a couple new items in the AP shop.
 
@@ -442,7 +442,7 @@ Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also only a
 
 !img("zcell044.png")
 
-Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a GourmetTreat! 
+Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a Gourmet Treat! 
 
 **ZCell 045: Sheridan Village**
 
@@ -558,7 +558,7 @@ Head up to Akuwa Town.
 
 !enc(13, ["Surfing", "Fishing"], ["Good"])
 
-There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. As you do, pick up hidden *Blast Powder*, *Poke Ball*, and *Health Wing* on the islands. Surf east to reach Route 11.
+There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. As you do, pick up hidden *Blast Powder*, *Poke Ball*, and *Health Feather* on the islands. Surf east to reach Route 11.
 
 !enc(3, nil, ["Old", "Good"])
 
@@ -634,7 +634,7 @@ Finally, enter the Evergreen Forest.
 
 There are also Swablu that fly around here. There is a stationary Stantler to the right in the forest, as well as **Buneary**. Catch two for a trade!
 
-There are lots of *Snowballs* on the ground we can pick up. Hidden around the entrance areas are a *Max Repel*, and *Genius Wing*. 
+There are lots of *Snowballs* on the ground we can pick up. Hidden around the entrance areas are a *Max Repel*, and *Genius Feather*. 
 
 !battle(["Shiela",:AROMALADY,0])
 
@@ -644,9 +644,9 @@ Head to the bottom right next.
 
 Grab the a *Dusk Ball* on the mountain, and the hidden *Telluric Seed*.
 
-Head back to the middle area. Hidden as you head up and to the dead end on the left is *Ice Heal*, *Ice Gem*, *Paralyze Heal*, *Hyper Potion*, *Zinc*, and *Genius Wing*. Surf across the pond we passed earlier. You'll find Mitsudo, the ninth kid, for the *Lost Souls* quest!
+Head back to the middle area. Hidden as you head up and to the dead end on the left is *Ice Heal*, *Ice Gem*, *Paralyze Heal*, *Hyper Potion*, *Zinc*, and *Genius Feather*. Surf across the pond we passed earlier. You'll find Mitsudo, the ninth kid, for the *Lost Souls* quest!
 
-Hidden on this path is *Resist Wing*, *HP Up*, *Rare Candy*, and *Telluric Seed*. At night we can battle stationary Snorunt.
+Hidden on this path is *Resist Feather*, *HP Up*, *Rare Candy*, and *Telluric Seed*. At night we can battle stationary Snorunt.
 
 Head back down and surf back across the pond. Go up and right to find a hidden *X Special*. Follow the final path up, go all the way up to the spring, and grab the *Max Repel*. Either Anju's Pendant or the Mysterious Emblem will allow you to enter the spring of preservation at the top.
 

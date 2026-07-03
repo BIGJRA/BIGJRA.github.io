@@ -72,7 +72,7 @@ Go up to reach the Isle of Angels.
 
 !enc(540, "Grass")
 
-At night, you can catch the "legendary" **Phione** here by giving it a *GourmetTreat*.
+At night, you can catch the "legendary" **Phione** here by giving it a *Gourmet Treat*.
 
 Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deepseatooth* or *Deepseascale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
 
@@ -382,7 +382,7 @@ Activate the fire crystal at the top here.
 
 !battle(["Jiarelen",:XENGRUNT_F,0], "Volcanic Field")
 
-Head down and right, then drift across to find **Vulpix**! Give it a GourmetTreat for a battle.
+Head down and right, then drift across to find **Vulpix**! Give it a Gourmet Treat for a battle.
 
 By clicking each crystal in succession, make your way to the top of the room. Back at the top of the room, fall down the hole to the left. You'll find:
 
@@ -430,13 +430,13 @@ Activate the fire crystal here, then return to the main dungeon through the clif
 
 !img("zcell081.png")
 
-Head down and go to the left. Drift across then jump in the hole twice. Talk to **Growlithe (Hisuian)** and give it a GourmetTreat for a battle. Plus:
+Head down and go to the left. Drift across then jump in the hole twice. Talk to **Growlithe (Hisuian)** and give it a Gourmet Treat for a battle. Plus:
 
 **ZCell 082: Valor Mountain (Warm)**
 
 !img("zcell082.png")
 
-Next, head up at the top of this room to reenter the blockade. Upstairs the rightmost door will be open now, head outside and feed **Tepig** five GourmetTreats for a chance to battle it.
+Next, head up at the top of this room to reenter the blockade. Upstairs the rightmost door will be open now, head outside and feed **Tepig** five Gourmet Treats for a chance to battle it.
 
 Head back to the cliffside (there's now a warp between Valor Cliffside and Valor Shore, it might be easiest to take the warp) and enter the room beyond. Interact with the neutral crystal, then head back into the dungeon via the cliffside once more. On the left, surf and fall down the hole. Pick up a hidden *Rare Candy*, then fall down the other hole and grab the *Leaf Stone* at the bottom!
 
@@ -601,7 +601,7 @@ Reenter the Tyluric Temple and progress as we did before. You'll see Rowlet on t
 
 !img("zcell085.png")
 
-You can also use a GourmetTreat to catch **Magby** and obtain *5 Exp. Candy L. Go back in the cave and drift all the way left.
+You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candy L. Go back in the cave and drift all the way left.
 
 **ZCell 086: Tyluric Temple**
 
@@ -657,7 +657,7 @@ The girl in the top right running in place can teach you some moves:
 
 Enter Larry Locksmith's house below to get a *Nugget*. In a house to the right you can obtain *5 Quick Balls*. Enter the mart to see a scene with Karrina. She'll then give you a *Repel*.
 
-!shop("Akuwa Town Mart", ["Ultra Ball", "Luxury Ball", "Hyper Potion", "GourmetTreat", "Repel", "Super Repel", "Max Repel", "Escape Rope"])
+!shop("Akuwa Town Mart", ["Ultra Ball", "Luxury Ball", "Hyper Potion", "Gourmet Treat", "Repel", "Super Repel", "Max Repel", "Escape Rope"])
 
 Enter the ACDMC in the upper right. 
 
@@ -671,7 +671,7 @@ Make your way back to Teila Resort and enter Club S.T.F.U.
 
 *Special Scene: Calling Home* requires talking to Kreiss here.
 
-!shop("Club S.T.F.U.", ["Hyper Potion", "Super Potion", "Burn Heal", "GourmetTreat"])
+!shop("Club S.T.F.U.", ["Hyper Potion", "Super Potion", "Burn Heal", "Gourmet Treat"])
 
 Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M*. Talk to the girl at the top. She'll tell us about building hype. Do whatever you have to do to build the hype - talk to people, battle trainers, change the song with the guy on the right. The battles here (note that major character fights are 2v2):
 

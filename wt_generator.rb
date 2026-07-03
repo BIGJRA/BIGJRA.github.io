@@ -79,7 +79,7 @@ begin
     page_content = <<~PAGE_CONTENTS
       ---
       title: "#{page_title}"
-      permalink: /#{game}/#{chapter[:slug]}/
+      permalink: /#{LONGNAMES[game]}/#{chapter[:slug]}/
       ---
 
       #{chapter[:content]}
