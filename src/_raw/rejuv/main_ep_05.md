@@ -62,7 +62,7 @@ Welcome to Route 4, a sprawling nature preserve. All over there are items scatte
 
 !enc(115, ["Grass", "Fishing"], ["Old"], "Route 4 (South)")
 
-Climb the stairs to the hill here. At night only:
+Climb the stairs to the hill here.
 
 **ZCell 029: Route 4 (South)**
 

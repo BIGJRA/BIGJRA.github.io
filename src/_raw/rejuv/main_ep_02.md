@@ -97,7 +97,7 @@ Enter the cave here.
 
 !enc(133)
 
-**ZCell 007: Gemstream Cave** (Night Only)
+**ZCell 007: Gemstream Cave**
 
 !img("zcell007.png")
 

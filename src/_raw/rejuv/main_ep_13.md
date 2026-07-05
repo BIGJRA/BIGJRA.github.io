@@ -1027,7 +1027,7 @@ Head to Sheridan Village in the past, then cut down the pink sapling in front of
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
-**ZCell 125: Route Z (Nighttime Only)**
+**ZCell 125: Route Z**
 
 !img("zcell125.png")
 

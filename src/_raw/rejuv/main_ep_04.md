@@ -269,7 +269,7 @@ Don't forget to catch a Drifloon. Grab a hidden *Honey* to the left. Talk to the
 
 !battle(["Pietro",:GHOSTGUY,0], "Forest Field")
 
-Grab the hidden *Moon Stone* and *Rare Candy* beyond. Pick up the *Rash Mint* too. At night only:
+Grab the hidden *Moon Stone* and *Rare Candy* beyond. Pick up the *Rash Mint* too.
 
 **ZCell 022: Goldenleaf Town**
 
@@ -303,7 +303,7 @@ In Reina's room, read Reina's diary then check the couch for $500.
 
 !shop("Goldenleaf Mart", ["Great Ball", "Super Potion", "Gourmet Treat", "Repel", "Super Repel", "Escape Rope"])
 
-Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first, at night only:
+Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first:
 
 **ZCell 024: Goldenleaf Town**
 

@@ -568,7 +568,7 @@ Hidden on the first island is a *Dire Hit*. Grab the *Red Shard*, then talk to t
 
 Beat the grunt, and you'll be engaged in battle with a level 40 **Jynx**!
 
-Go to the southwest. At night only:
+Go to the southwest.
 
 **ZCell 052: Route 11**
 

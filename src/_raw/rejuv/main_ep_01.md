@@ -595,7 +595,7 @@ Head into the help center and talk to Ayuda. He will task us with collecting fiv
 
 !img("zcell002.png")
 
-**ZCell 003: Chrisola Rooftop (Daytime Only)**
+**ZCell 003: Chrisola Rooftop**
 
 !img("zcell003.png")
 
@@ -621,13 +621,19 @@ Grab *TM60 Quash* to the north, then proceed to Goldenwood Forest. Melia will jo
 
 Talk to the fisherman here to start *The Big Catch!* quest.
 
-Up from here, go right. You'll see the titular Pokemon from the *My Darling Furfrou...* quest here - talk to it and it will return to Barbara.
+Up from here, go right. You'll see the titular Pokemon from the *My Darling Furfrou...* quest here - talk to it and it will return to Barbara. Grab the *Forest Field Readout*!
 
 Next, take the stairs to the left.
 
 !battle(["Orlando",:FISHERMAN,0], "Forest Field")
 
-Go left from here, then go down the stairs. Shimmy behind a tree and go to the bottom left corner of the area to talk to the *Lost Girl!* in question. Two tiles right and one down from the bottom right corner of this rock is a hidden *Rare Candy*.
+Go left from here, then go down the stairs. Shimmy behind a tree and go to the bottom left corner of the area to talk to the *Lost Girl!* in question. Two tiles right and one down from the bottom right corner of this rock is a hidden *Rare Candy*. 
+
+You can also view a secret scene here including a battle! (TODO: Condition? M2 stuff?)
+
+!boss("MELIABUNEARY", "Forest Field")
+
+Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candy S* each time you repeat it.
 
 You can talk to and battle the overworld **Yanma** and Sentret in this area. Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock.
 
@@ -665,6 +671,10 @@ Follow the path through to the Silent Grove. Heal your team and talk to Melia.
 
 !battle(["Melia",:TRAINER_MELIA1,0], "Forest Field")
 
+If you completed the secret scene earlier, instead you face:
+
+!battle(["Melia", :TRAINER_MELIA1, 2], "Forest Field")
+
 Your second-stage starter and allies should be able to make short work of this team. Just be careful to not let Togepi buff itself up with Ancientpower too many times and you can make it through.
 
 ## Goldenwood Xen Attack
@@ -700,7 +710,7 @@ A weak early game team, but you'll have to get used to the doubles format presen
 
 Start by capturing **Shadow Snorunt**. Quilava and Meowth should not be too threatening at this phase as you should have type coverage but watch out for Minior getting off a Rollout or self-destructing. Type: Null is bulky at this point in the game, but if you can status it, you'll be able to whittle it down.
 
-After witnessing a scene and going north, grab the *Code Evo Rift Notes*.
+After witnessing a scene and going north, grab the *Code Evo Rift Notes* and *Dimensional Field Readout*.
 
 !boss("RIFTGYARADOS1", "Dimensional Field")
 
