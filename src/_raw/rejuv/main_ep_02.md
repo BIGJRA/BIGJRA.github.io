@@ -81,7 +81,7 @@ This is all we can do in the city for now, so buy a $300 ticket to take the trai
 
 ## Route 2
 
-There's a *Carbos* right and down from the purple flower on the left as you enter. 
+There's a *Carbos* right and down from the purple flower on the left as you enter. Both NPCs here offer rewards we can't get quite yet, so head east.
 
 !enc(199, ["Grass", "Headbutt"])
 
@@ -91,7 +91,7 @@ Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to
 
 The grassy spot in the middle of dirt right from Meganium hides a *Green Shard*. The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
-If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Magcargo next, so we'll have to come back later.
+If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
 
 Enter the cave here.
 
@@ -106,6 +106,8 @@ Exit the cave to the right. Go up at the fork in the bridge. On the first "tier"
 **ZCell 008: Route 2**
 
 !img("zcell008.png")
+
+!battle(["Henrietta and Jeff", :NEWREP, 0])
 
 Continue crossing the bridge and enter the next cave, then go down the ladder. This room has three exits. The middle one will take you to water on Route 2.
 
@@ -166,6 +168,8 @@ After a conversation with a shady figure, you'll have control in the cave.
 
 !enc(4, ["Cave", "Fishing", "Rock Smash"], ["Old"])
 
+Take the time to catch a spare Barboach. Grab it from the PC and take it to the lad on the west side of Route 2, who will perform and in-game trade with you in exchange for **Pidove (Aevian)**!
+
 Go left. Two tiles down and one left from the lady hides a *Nugget*. To the left and pick up the *Quiet Mint*, and the *Mineral Ball* hidden in the bottom right part of the nearby cart. Down from here, the divot in the wall contains a hidden *Green Shard*.
 
 Head to the right, and downstairs. This is a new area technically with different encounters.
@@ -191,6 +195,8 @@ Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn abou
 !partner(["Venam",:LEADER_VENAM,1])
 
 !boss("RIFTGALVANTULA", "Dimensional Field")
+
+TODO: fix the effect text for the boss here
 
 In this fight, Galvantula will switch to a more powerful form and start summoning Joltik after its first shield is broken. Since SOS Joltik spawns are "continuous", it will infinitely respawn at the end of any turn when it has been knocked out, so defeating Galvantula as fast as possible afterwards is the way to go. Take advantage of the Egg form's lower stats in order to set up momentum to make the rest of the fight easier!
 
@@ -244,6 +250,20 @@ The Solrock and Lunatone can be frustrating with Rock Slide, but anything speedi
 
 She'll give you the *Room ID Card*! When you are back in the cave, the wall to the left of the bottom stairs contains a *Super Potion*, and the one above and right of the top stairs contains a *Reverse Candy*. Head into Sheridan Village to the north.
 
+~~ TODO: NG+ gate here. Need Black Key.
+
+Accept the fast travel at the top of the cave back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
+
+If you have the Black Key, head up in the top left corner of the downstairs room, then go in. Note the password "TWINGOLD" on the floor, then head up when you're ready for some real nonsense.
+
+!battle(["Eizen", :EIZEN, 5])
+
+This is an optional NG+ fight, but that doesn't make it any less than one of the most ridiculous and challenging fights in the game. You can start by catching the anomalous **Shadow Froakie**, a callback to older versions. In fact, Eizen seems to use in-game trade Pokemon from other games.... and oh yeah, a Terapagos as well. Terapagos is incredibly tough to take down and hits pretty hard, with potential stat boosts via Ancientpower and Rapid Spin. Your first move will be not-very-effective thanks to Tera Shell, but afterwards it becomes weak to Fighting-type moves.
+
+Once you make it through this fight and cutscenes, head to the top of the room. You can "dematerialize" your Pokemon here. TODO?
+
+~~ TODO: NG+ gate here
+
 ## Sheridan Village
 
 Listen to a cutscene with Aelita and the Elder. At the moment it costs money to heal here, so we're gonna start by heading all the way north into Sheridan Arena via going the left path.
@@ -288,19 +308,19 @@ You can sneak around the back of the shop, if you do, talk to the shop owner fro
 
 !img("zcell011.png")
 
-You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible.
+You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible. If you fast travel with him 20 times, you'll get **Varoom**!
+
+Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want. (TODO - move this or nah)
+
+I will also mention that obtaining HM Cut isn't too far off, so buying the Golden Axe at the AP Shop as soon as you can will help us out in the future.
 
 North of here is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
 
 !battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
 
-Take your Jigglypuff and any other Pokemon in the Fairy egg group to the nearby daycare, and breed to get **Igglybuff**. Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon*!
+Grab the nearby *Mirror Sprig*, then take your Jigglypuff and any other Pokemon in the Fairy egg group to the nearby daycare, and breed to get **Igglybuff**. Then, trade it with a girl in the inn to get a **Smoochum** holding a *Twisted Spoon*!
 
-Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
-
-I will also mention that obtaining HM Cut isn't too far off, so buying the Golden Axe at the AP Shop as soon as you can will help us out in the future.
-
-Return to Sheridan, then go to the Sheridan Arena at the top.
+Enter the Sheridan Arena to the north.
 
 !enc(424, ["Grass", "Fishing"], ["Old"])
 
@@ -369,11 +389,13 @@ Claim your reward: $950 and *Water Stone*! (+1 Karma)
 
 Use the trucker to get to Gearen City, then go to Oceana Pier. Head to the southeast, then follow the guy into the warehouse.
 
-If you try to go north, you'll get shocked, and your Pokemon will faint. The key here is to transform the Factory field into Short-Circuit via battling the Electrike trainer in the southwest and getting it to use Discharge.
+If you try to go north, you'll take damage. We want to enter the room on the right. Read the book here to get the *Factory Field Readout*. The key here is to transform the Factory Field into Short-Circuit via battling the Electrike trainer in the southwest and getting it to use Discharge.
 
 !battle(["Usain",:CUEBALL,0], "Factory Field")
 
- Once you've done this, head through the middle arrows.
+Back in the central room, switch on the computer in the bottom left corner such that the yellow arrow in the central line of arrow panels is pointing up. Walking onto this path of arrow panels will take you to *TM09 Venoshock*! 
+
+Switch the first yellow tile to point to the left again, take the walkway, and go up and left. Another monitor is here - use it to switch the second from the bottom yellow tile to be facing up. Resetting the bottom left monitor if necessary, approach the top of the room and proceed.
 
 Venam will join you for a battle.
 
@@ -382,7 +404,7 @@ Venam will join you for a battle.
 !dbattle(["Samwell",:CUEBALL,0], ["Jacksin",:CUEBALL,0], "Factory Field")
 
 **Relationship Point Choices**:
-- Beat the Cue Balls with Venam (+1 Venam)
+- Beat the Gang Members with Venam (+1 Venam)
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
 
@@ -454,7 +476,7 @@ You'll team up with Aelita here, so she'll heal you but catching wild Pokemon is
 
 !enc(119, nil, ["Old"])
 
-Head up and grab *TM121 Fire Spin*. Smashing rocks to the right will lead you to a *Rare Candy* and hidden *Blast Powder*. Continue on the main path.
+To the left is the *Volcanic Field Readout*. Head up and grab *TM121 Fire Spin*. Smashing rocks to the right will lead you to a *Rare Candy* and hidden *Blast Powder*. Continue on the main path.
 
 !battle(["SEC",:SECURITYSYSTEM,3], "Volcanic Field")
 
@@ -518,19 +540,28 @@ Grab *TM43 Flame Charge* below, then open the door to the Generator Room above a
 
 !battle(["SEC",:SECURITYSYSTEM,4])
 
-Unfortunately, without our snag machine, we can't catch this Quagsire nor future Shadow Pokemon until we fix it. Talk to the monitor next to you and transfer Volcanion to Carotos Mountain. Exit at the bottom and follow the path out to the main part of the Mountain, then go up.
+Unfortunately, without our snag machine, we can't catch this Quagsire nor future Shadow Pokemon until we fix it. Talk to the monitor next to you. If you recall the password from a previous run, you can use it to skip this fight now:
 
-Grab the *Code Statia Rift Notes* and head up.
+TODO This is techincally NG+ in a sense
 
-We haven't had enough legendary battles with only one gym badge quite yet, so follow Aelita up and grab the *Rift Dex Info*.
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    XE089321
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Executive ID</a>
+</div>
 
-After a brief scene, you'll be taken into a rift space. Talk to Volcanion and answer its question and the battle will begin!
+Otherwise, you'll need to transfer Volcanion to Carotos Mountain. Exit at the bottom and follow the path out to the main part of the Mountain, then go up.
+
+Grab the *Code Statia Rift Notes* and head up. Talk to Volcanion and answer its question and the battle will begin!
 
 !boss("RIFTVOLCANION", "Dimensional Field")
 
 So, you'll probably be faster than this guy. Light Screen or SpD boosting will help you here. Hack away at its shields with some decent STAB moves.
 
 Return to Madelis' Castle at the top, and use the warp to reach the back room.
+
+## Spring of Purification
 
 Once you're free, head to the gate in Sheridan, and enter the spring.
 
