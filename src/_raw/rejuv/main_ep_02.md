@@ -312,8 +312,6 @@ You'll notice a guy here: this is Truck Guy. He will take us for free between Sh
 
 Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want. (TODO - move this or nah)
 
-I will also mention that obtaining HM Cut isn't too far off, so buying the Golden Axe at the AP Shop as soon as you can will help us out in the future.
-
 North of here is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
 
 !battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
@@ -583,4 +581,18 @@ One more thing we can do: head into the house in the bottom right of Sheridan. G
 
 If you win, you'll be able to pick up **Gothita** behind!
 
-Anyways, to finish the chapter's story, talk to Aelita in the upstairs of the inn and agree to sleep.
+Take the truck back to Gearen. Talk to Shana in the Gearen Lab to continue the Johto quest. You'll now have to fight Bugsy with the starter you picked and a few more Pokemon.
+
+!newself(["Ethan",:JOHTO_0M,1], "Virtual Trainer (Chikorita)")
+
+!newself(["Ethan",:JOHTO_0M,11], "Virtual Trainer (Cyndaquil)")
+
+!newself(["Ethan",:JOHTO_0M,21], "Virtual Trainer (Totodile)")
+
+!battle(["Bugsy",:JOHTO_2,0], "Glitch Field")
+
+After this, you'll get another *Virtual Badge*! This will finish her leg of this quest.
+
+While in Gearen, I recommend picking up the *Golden Axe* in the AP Shop before proceeding to the next chapter.
+
+To finish the chapter's story, talk to Aelita in the upstairs of the Sheridan Inn and agree to sleep.

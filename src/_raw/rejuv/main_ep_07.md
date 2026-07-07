@@ -307,7 +307,7 @@ The Poke Ball store has added wares.
 
 I recommend taking another trip to the AP shop. If you haven't gotten the Exp. All or the Golden Axe, Hammer, Surfboard, and Claws, do so ASAP. On deck will be the Golden Driftboard and the Golden Gauntlet.
 
-Take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda we got.
+Take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda we got. TODO move earlier
 
 Take the truck to Goldenleaf, enter Wispy Tower, and talk to Sariah. She'll give us 3 *Ethers* and start us on a quest for later on. 
 

@@ -1,18 +1,6 @@
 # Chapter 4: Isolation
 
-Start in East Gearen for some sidequests. Talk to Shana in the Gearen Lab to continue the Johto quest. You'll now have to fight Bugsy with the starter you picked and a few more Pokemon.
-
-!newself(["Ethan",:JOHTO_0M,1], "Virtual Trainer (Chikorita)")
-
-!newself(["Ethan",:JOHTO_0M,11], "Virtual Trainer (Cyndaquil)")
-
-!newself(["Ethan",:JOHTO_0M,21], "Virtual Trainer (Totodile)")
-
-!battle(["Bugsy",:JOHTO_2,0], "Glitch Field")
-
-After this, you'll get another *Virtual Badge*! This will finish her leg of this quest.
-
-To the left of the library, we can now cut down a tree to access a garden area. Grab a hidden *Blue Shard* in a gap between tall grass behind the library, a *Grass Gem* hiding in front of the lower dumpster, an *Escape Rope* hidden in the top wall of the building, and a hidden *Synthetic Seed* in the top right flower patch amongst the tall grass tiles.
+Start in East Gearen for some sidequests. To the left of the library, we can now cut down a tree to access a garden area. Grab a hidden *Blue Shard* in a gap between tall grass behind the library, a *Grass Gem* hiding in front of the lower dumpster, an *Escape Rope* hidden in the top wall of the building, and a hidden *Synthetic Seed* in the top right flower patch amongst the tall grass tiles.
 
 The Poke Ball shop in Gearen has two new balls now:
 
@@ -22,25 +10,7 @@ There's also a few new berries now.
 
 !shop("Berry Emporium (3 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Aspear Berry"])
 
-There are a few areas we can now access with Cut. Take the train to Route 2. North of the camper at night, you can find:
-
-**ZCell 013: Route 2**
-
-!img("zcell013.png")
-
-Cut the tree to the right, then go up the path. Three tiles below the left tile of the tree at the top of this landing is a hidden *Blue Shard*.
-
-Enter Amethyst Cave, and make your way to the top left of the entrance room. Exit to River's End, then cut the tree and head inside.
-
-!enc(433)
-
-Next, go to Sheridan Village and cut the tree next to the shop below to pick up *TM54 False Swipe*, and:
-
-**ZCell 014: Sheridan Village**
-
-!img("zcell014.png")
-
-This can be extremely helpful for catching Pokemon going forward. We can also get more drinks!
+Take the truck to Sheridan Village.
 
 !shop("Sheridan Village Drinks (3 Badges)", ["Berry Juice", "Lemonade", "Moomoo Milk"])
 
