@@ -269,8 +269,8 @@ class FunctionWrapper
     @shopGetter.generate_shop_markdown(shop_title, shop_items)
   end
 
-  def generate_cshop_markdown(shop_symbol, shop_name)
-    @shopGetter.generate_cshop_markdown(shop_symbol, shop_name)
+  def generate_cshop_markdown(shop_symbol, shop_name, badges = 0)
+    @shopGetter.generate_cshop_markdown(shop_symbol, shop_name, badges: badges)
   end
 
   def generate_move_markdown(move_name)

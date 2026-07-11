@@ -72,7 +72,7 @@ class ShopGetter
     html_output.split("\n")[1..].join("\n")
   end
 
-  def generate_cshop_markdown(shop_key, shop_title)
+  def generate_cshop_markdown(shop_key, shop_title, badges: 0)
     shop = @shopHash.fetch(shop_key) do
       raise "Unknown shop #{shop_key.inspect}"
     end
@@ -85,18 +85,59 @@ class ShopGetter
       raise "Shop #{shop_key.inspect} is a shop menu, not an item inventory"
     end
 
-    shop_items = inventory.map do |stock|
-      [
-        stock_display_name(stock),
-        stock_display_price(stock),
-        false
-      ]
-    end
+    shop_items = inventory
+      .select { |stock| stock_available?(stock, badges: badges) }
+      .map do |stock|
+        [
+          stock_display_name(stock),
+          stock_display_price(stock),
+          false
+        ]
+      end
 
     generate_shop_markdown(shop_title, shop_items)
   end
 
   private
+
+  def stock_available?(stock, badges:)
+    conditions = stock.properties_hash[:conditions]
+
+    return true if conditions.nil? || conditions.empty?
+
+    conditions.all? do |condition|
+      condition_met?(condition, badges: badges)
+    end
+  end
+
+  def condition_met?(condition, badges:)
+    condition = condition.strip
+
+    badge_match = condition.match(
+      /\A\$Trainer\.numbadges\s*(>=|>|==|<=|<)\s*(\d+)\z/
+    )
+
+    if badge_match
+      operator = badge_match[1]
+      required_badges = badge_match[2].to_i
+
+      return compare_values(badges, operator, required_badges)
+    end
+
+    warn "Unrecognized shop condition: #{condition}"
+    true
+  end
+
+  def compare_values(actual, operator, expected)
+    case operator
+    when '>=' then actual >= expected
+    when '>'  then actual > expected
+    when '==' then actual == expected
+    when '<=' then actual <= expected
+    when '<'  then actual < expected
+    else false
+    end
+  end
 
   def inspect_cshop(shop_key)
     shop = @shopHash.fetch(shop_key)
@@ -156,11 +197,21 @@ class ShopGetter
   end
 
   def item_display_name(item_symbol)
-    item_data = @itemHash[item_symbol]
+    item_data =
+      @itemHash[item_symbol] ||
+      @itemHash[item_symbol.to_s] ||
+      @itemHash[item_symbol.to_s.upcase]
 
     return humanize_symbol(item_symbol) unless item_data
 
-    item_data[:name].gsub('é', 'e')
+    name = item_data[:name] || item_data['name']
+
+    if item_data[:tm]
+      move = move_display_name(item_data[:tm])
+      name = "#{name} #{move}"
+    end
+
+    name.gsub('é', 'e')
   end
 
   def move_display_name(move_symbol)
