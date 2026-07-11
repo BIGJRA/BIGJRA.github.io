@@ -503,6 +503,40 @@ def load_boss_hash(game, scripts_dir)
   eval(data)
 end
 
+def load_shop_hash(game, scripts_dir)
+  return {} unless game == 'rejuv'
+
+  path = file_path(game, scripts_dir, 'marttext.rb')
+  data = File.read(path)
+
+  mart_context = Module.new
+
+  mart_context.const_set(
+    :ItemStock,
+    ParsedStockFactory.new(:item)
+  )
+
+  mart_context.const_set(
+    :MoveStock,
+    ParsedStockFactory.new(:move)
+  )
+
+  mart_context.const_set(
+    :CurrencyStock,
+    ParsedStockFactory.new(:currency)
+  )
+
+  mart_context.const_set(
+    :PokemonStock,
+    ParsedStockFactory.new(:pokemon)
+  )
+
+  mart_context.module_eval(data, path)
+
+  mart_context.const_get(:MARTHASH)
+end
+
+
 def load_trainer_type_hash(game, scripts_dir)
   data = File.read(file_path(game, scripts_dir, 'ttypetext.rb'))
   eval(data)
@@ -839,6 +873,65 @@ class EncounterMapWrapper
 
   def parse_map_numbers(pokemon_numbers)
     pokemon_numbers.scan(/\d+/).map(&:to_i)
+  end
+end
+
+class ParsedMartStock
+  attr_reader :stock_type,
+              :item,
+              :quantity,
+              :cost,
+              :currency,
+              :properties_hash
+
+  def initialize(stock_type, item, quantity = 1)
+    @stock_type = stock_type
+    @item = item
+    @quantity = quantity || 1
+    @cost = nil
+    @currency = nil
+    @properties_hash = {}
+    @limited = false
+    @premier_ball_bonus = true
+  end
+
+  def costs(amount, currency = nil)
+    @cost = amount
+    @currency = currency
+    self
+  end
+
+  def properties(properties = {})
+    @properties_hash.merge!(properties)
+    self
+  end
+
+  def limit(*_args)
+    @limited = true
+    self
+  end
+
+  def limited?
+    @limited
+  end
+
+  def noPremierBallBonus
+    @premier_ball_bonus = false
+    self
+  end
+
+  def premier_ball_bonus?
+    @premier_ball_bonus
+  end
+end
+
+class ParsedStockFactory
+  def initialize(stock_type)
+    @stock_type = stock_type
+  end
+
+  def of(item, quantity = 1)
+    ParsedMartStock.new(@stock_type, item, quantity)
   end
 end
 
