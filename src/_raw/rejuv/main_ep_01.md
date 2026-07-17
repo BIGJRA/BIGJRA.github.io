@@ -224,9 +224,9 @@ Catch a Female Jigglypuff to breed later.
 
 There are a few shops here.
 
-!shop("Poke Ball Boutique", ["Heavy Ball", "Moon Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (0 Badges)", 0)
 
-!shop("Berry Emporium", ["Oran Berry", "Pecha Berry"])
+!cshop(:BerryEmporium, "Berry Emporium (0 Badges)", 0)
 
 You can pick up a few of each berry for the gym.
 

@@ -10,6 +10,8 @@ There's also a few new berries now.
 
 !shop("Berry Emporium (3 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Aspear Berry"])
 
+Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the Artist's Quest.
+
 Take the truck to Sheridan Village.
 
 !shop("Sheridan Village Drinks (3 Badges)", ["Berry Juice", "Lemonade", "Moomoo Milk"])
@@ -38,13 +40,13 @@ Grab the *Jolly Mint*, *TM122 Screech*, *TM78 Bulldoze*, and:
 
 !img("zcell015.png")
 
-With 15 Zygarde cells obtained, we can return to Ayuda in the East Gearen Help Center to get another Cell Imprint. Our next threshold is 25xx.
+With 15 Zygarde cells obtained, we can return to Ayuda in the East Gearen Help Center to get another *Cell Imprint* and the *Soothe Bell*! Our next threshold is 25.
 
 Head next into the nearby Magnolia Library. Talk to the blue haired girl here to get relationship points... a few chapters later. Pay the entrance fee then enter the room on the left. Talk to the girl in here to do a quiz. If you answer all the questions correctly, you'll get a *Thunderstone*! The answers are brown, Goldenwood, and Goldenleaf.
 
 Finally, go to Luck's Tent in the Gearen Park. There is a new Marshadow in the bottom left corner:
 
-!tutor("Margo Move Tutor", [["Recycle", "2 Yellow Shards"], ["Worry Seed", "2 Green Shards"], ["Snore", "2 Red Shards"], ["Shock Wave", "2 Blue Shards"], ["Water Pulse", "2 Red Shards"], ["Snatch", "2 Blue Shards"], ["Wonder Room", "2 Green Shards"], ["Magic Room", "2 Yellow Shards"], ["Role Play", "2 Yellow Shards"]])
+!tutor("Margo Move Tutor", [["Recycle", "2 Yellow Shards"], ["Worry Seed", "2 Green Shards"], ["Snore", "2 Red Shards"], ["Shock Wave", "2 Blue Shards"], ["Water Pulse", "2 Red Shards"], ["Snatch", "2 Blue Shards"], ["Imprison", "2 Blue Shards"], ["Wonder Room", "2 Green Shards"], ["Magic Room", "2 Yellow Shards"], ["Role Play", "2 Yellow Shards"]])
 
 ## Route 3
 
@@ -126,11 +128,13 @@ Just before the grass turns lighter, in the right gap in the tall grass, there i
 
 !img("zcell018.png")
 
+You can talk to the **Fidough** next to the camper and give it a Gourmet Treat to catch it!
+
 Proceed to the south, till the grass changes color twice.
 
 !enc(71, ["Grass"], nil, "Route 3 (South)")
 
-Head down till the grass changes color twice. In the tall grass all the way right is a hidden *Super Repel*. Down from here the grass will change again, the grass patch four right and two down from the gray-haired girl contains a *Red Shard*. Up the stairs to the left of the waterfall is a *Mystic Water*!
+In the tall grass all the way right is a hidden *Super Repel*. Down from here the grass will change again, the grass patch four right and two down from the gray-haired girl contains a *Red Shard*. Up the stairs to the left of the waterfall is a *Mystic Water*!
 
 !battle(["Nate and Delilah",:COOLCOUPLE1,0], "Forest Field")
 
@@ -161,7 +165,7 @@ The gimmick of this area is that some trees and other items are actually mirages
 
 Go left. Two tiles above the rightmost tall grass is a hidden *Pretty Feather*. Hidden in the middle of a yellower-than-its-neighbors tree down and right from here is a *Moomoo Milk*. The TM to the left is a mirage... but beyond it is a mirage cave, in which there is a hidden *Magical Seed* at the bottom and *TM48 Round*!
 
-Back outside, to the right,you'll see a lone bush - go right from it then up to reveal a mirage path through the rock face! Hug the left wall as you go up to reveal yet another mirage path through some trees. One tile right and three down from the hiker is a hidden *Ether*. Talk to said hiker to begin the *Broken Bell* quest.
+Back outside, to the right, you'll see a lone bush - go right from it then up to reveal a mirage path through the rock face! Hug the left wall as you go up to reveal yet another mirage path through some trees. One tile right and three down from the hiker is a hidden *Ether*. Talk to said hiker to begin the *Broken Bell* quest.
 
 Back on the rock face, go right. Grab the *Ultra Ball*, then go down.
 
@@ -171,11 +175,11 @@ An empty spot between trees on the right contains a hidden *Exp. Candy M*. Go le
 
 The bridge to the right is a lie! Instead, cut the tree below and go through the mirage tree. Down and to the left, above the bottom flower patch, is a hidden *Steam Ball*. You can exit the Woods through a one-way mirage tree to the left.
 
-Cross the real bridge to the right and go up. In the grass tile surrounded by dirt is a hidden *X Defend*. A flower patch above contains a hidden *Reverse Candy*. Head up into the Mirage Town area.
+Cross the real bridge to the right and go up. In the grass tile surrounded by dirt is a hidden *X Defense*. A flower patch above contains a hidden *Reverse Candy*. Head up into the Mirage Town area.
 
 In the right house, grab the *Steam Ball* and talk to the scientist to begin the *Cranky Crobat* quest. Outside, enter the house on the upper right hill to get the *Itemfinder*! Finally we have the Itemfinder. This means that I don't have to describe the location of every hidden item in excruciating detail, moving forward. Speaking of which, around the Mirage Town area, there is a hidden *Clever Feather* and *Genius Feather*. Cut the tree at the top, go up the mirage stairs, grab the hidden *Reverse Candy*, and proceed into the cave at the top.
 
-Grab *TM66 Payback* as well as hidden *Everstone*, *2 Exp. Candy L*, *Repel*, *Nugget*, *Red Shard*, *Yellow Shard*, *Rock Gem*, and *Awakening* as you proceed through the cave. Use Flash at the bottom for a battle!
+Grab *TM66 Payback* as well as hidden *Everstone*, *2 Exp. Candy M*, *Repel*, *Nugget*, *Red Shard*, *Yellow Shard*, *Rock Gem*, and *Awakening* as you proceed through the cave. Grab the *Cave Field Readout* at the bottom, then use Flash for a battle!
 
 !boss("BOSSCROBAT", "Cave Field")
 
@@ -215,7 +219,7 @@ Go down and right from here:
 
 !img("zcell021.png")
 
-Go right and up from here. Get a hidden *Green Shard* and *Blue Shard*. You'll see a shiny spot in this area - talk to it to get the *Bell Machine* for the *Broken Bell* quest. Then go down.
+Go right and up from here. Get a hidden *Green Shard* and *Blue Shard*. You'll see a shiny spot in this area - talk to it to get the *Bell Clapper* for the *Broken Bell* quest. Then go down.
 
 !battle(["Billium",:HIKER,0], "Cave Field")
 
@@ -273,7 +277,7 @@ In Reina's room, read Reina's diary then check the couch for $500.
 
 !shop("Goldenleaf Mart", ["Great Ball", "Super Potion", "Gourmet Treat", "Repel", "Super Repel", "Escape Rope"])
 
-Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene,you'll be free to leave. Head back out to the balcony at night to grab this first:
+Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene, you'll be free to leave. Head back out to the balcony to grab this first:
 
 **ZCell 024: Goldenleaf Town**
 
@@ -307,7 +311,7 @@ Grab the hidden *Ether*, *Burn Heal*, *Great Ball*, and *Ghost Gem*. This is all
 
 Talk to the trucker to head back to Gearen City - we're going to make a pitstop with Zumi at the Magnolia Library. For catching Drifloon, she'll give us 3 *Exp. Candy M*. She doesn't have our next objective yet, so we'll have to return later.
 
-Head into the Help Center nearby, and talk to Ayuda in the back. For collecting 25 Zygarde Cells, we'll get another *Cell Imprint*. Our next goal is 35.
+Head into the Help Center nearby, and talk to Ayuda in the back. For collecting 25 Zygarde Cells, we'll get another *Cell Imprint* plus the *Macho Brace*. Our next goal is 35.
 
 ## Wispy Path
 
@@ -330,6 +334,12 @@ At the fork, go down and left. Head into Wispy Park up the stairs. Grab the *Rev
 !img("wisp05.png")
 
 Talk to the guy up here, then to **Espurr**. It will let you do a variety of fun things with it; each increases your friendship with it. Choosing to give it ice cream, especially Blue Moon Ice Cream, raises it by a lot. Once you've gotten its friendship high enough and try to leave it will join your party. (+1 Karma)
+
+Inside the house here, there are moves for sale, using a variety of different currencies.
+
+!cshop(:WispyShop, "Wispy Shop")
+
+You may want to wait on some of these moves, since we can get these moves for cheaper next chapter.
 
 Head down the stairs and around to the right. Grab a hidden *Ghost Gem*. 
 
@@ -465,7 +475,7 @@ After learning of your challenge, enter the door on the left.
 
 !enc(401)
 
-Enter the door on the left, then talk to Mimikyu and read the sign. As the NPC says outside, follow the lit torches through the dungeon.
+Enter the door on the left, then talk to Mimikyu and read the sign. As the NPC says outside, follow the lit torches through the dungeon. Save often, and keep in mind that only the fifth time that you see the *Haunted Field Readout* will you actually be able to approach it from the right.
 
 !battle(["Margaret",:CHANELLER,0], "Haunted Field")
 

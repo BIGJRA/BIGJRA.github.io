@@ -124,6 +124,11 @@ class ShopGetter
       return compare_values(badges, operator, required_badges)
     end
 
+    # unique items that buy once, no distinction in wt needed
+    if condition.include?("!$game_switches[self.item]")
+      return true
+    end
+
     warn "Unrecognized shop condition: #{condition}"
     true
   end
@@ -166,18 +171,19 @@ class ShopGetter
   def stock_display_name(stock)
     custom_name = stock.properties_hash[:display_name]
     return custom_name if custom_name
+    prefix = stock.quantity == 1 ? '' : "#{stock.quantity}x "
 
     case stock.stock_type
     when :item
-      item_display_name(stock.item)
+      prefix + item_display_name(stock.item)
     when :move
-      move_display_name(stock.item)
+      prefix + move_display_name(stock.item)
     when :currency
-      humanize_symbol(stock.item)
+      prefix + humanize_symbol(stock.item)
     when :pokemon
-      pokemon_display_name(stock.item)
+      prefix + pokemon_display_name(stock.item)
     else
-      humanize_symbol(stock.item)
+      prefix + humanize_symbol(stock.item)
     end
   end
 

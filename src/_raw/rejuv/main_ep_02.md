@@ -236,7 +236,7 @@ The wall immediately on the right contains a *Genius Feather*. Two tiles down an
 
 On the right side of the room, the top box contains an *X Attack*. Head through the southeast exit.
 
-A box to the right contains a *Repel*. Down and to the right, the right side of a drill machine contains an *X Defend* and the last rock contains a *Rock Gem*. Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
+A box to the right contains a *Repel*. Down and to the right, the right side of a drill machine contains an *X Defense* and the last rock contains a *Rock Gem*. Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
 
 In the altered dimension, solve her difficult puzzles and prepare for a battle.
 

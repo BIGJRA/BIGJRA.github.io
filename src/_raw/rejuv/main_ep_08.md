@@ -263,7 +263,7 @@ Land on this platform to raid another boat.
 
 Pick up *Blast Powder* then enter the ship. Go up.
 
-!battle(["Mephisto",:XENANALYST_F,100], "Short-Circuit Field")
+!battle(["Mephisto",:XENANALYST_F,0], "Short-Circuit Field")
 
 Catch **Shadow Drifblim**. Press a button above to switch the center tile to the left, then grab the *Rare Candy*. Use the warp and go around to the right for another fight.
 

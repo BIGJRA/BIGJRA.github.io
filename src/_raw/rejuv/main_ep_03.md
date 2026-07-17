@@ -98,7 +98,7 @@ Now follow the right path through the mansion. In the dining room, talk to Maria
 
 Exit to the right. If you hug the left wall and go through a secret passage, you'll see another inscription. This one says Password #2 is 3135. Head up and beat the second optional maid, Yara, hiding in the left corner.
 
-!battle(["Yara",:SERVANT,100], "Grassy Terrain")
+!battle(["Yara",:SERVANT,0], "Grassy Terrain")
 
 At the top, you need to navigate two pieces onto the colored tiles, but the buttons control both pieces. Carefully use the walls to your advantage to solve this one: 
 

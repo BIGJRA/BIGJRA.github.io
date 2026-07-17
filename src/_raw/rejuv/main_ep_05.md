@@ -2,7 +2,11 @@
 
 Head back out of the ruins. A couple rewards and quests to do in Goldenleaf.
 
-And head back out. Now that the people of Goldenleaf have decided to change their ways, they'll give us some stuff if we talk to them around town: a *Super Potion*, a *Revive*, a *Full Heal*, and *3 Dusk Balls*. A man in one houe will also give us **Snubbull**!
+And head back out. Now that the people of Goldenleaf have decided to change their ways, they'll give us some stuff if we talk to them around town: a *Super Potion*, a *Revive*, a *Full Heal*, and *3 Dusk Balls*. A man in one house will also give us **Snubbull**!
+
+If you return to the Wispy Path, the move shop on the hill has significantly cheaper pricing!
+
+!cshop(:WispyShop1, "Wispy Shop (4 Badges)")
 
 Cut the tree next to the gym and enter Wispy Ruins behind the waterfall. Step on the tile, then head in to and get Griselda's Treasure 4: a *Big Nugget*! 
 
@@ -24,7 +28,9 @@ Our goal here is to trap all the Shuppet into corners. There's one in the southw
 
 Now go up to the west middle area where you'll see another. Once it moves for the first time: D L D R R R U. Also, grab this *Max Repel* while you're here.
 
-Head down from here, hidden is a *Yellow Shard*. You'll see a **Phantump** wandering around. It is vital for an event later that you get a female one here, so reset if it's not. Head all the way north afterwards, and past another Phantump, step on the tile, then head in to and get Griselda's Treasure 2: a *Dawn Stone*!
+Head down from here, hidden is a *Yellow Shard*. You'll see a **Phantump** wandering around. It is vital for an event later that you get a female one here, so reset if it's not. Head all the way north afterwards, and past another Phantump, step on the tile, then head in to and get Griselda's Treasure 2: a *Dawn Stone* and the *Ariados Crest*!
+
+This is our first Crest. Aevium's Crests, not to be confused with Fodlan's Crests, are unique held items that give the species in question unique strengths to make them better. Ariados gets increased speed and always deals Critical Hits against slowed or poisoned targets, making it a prime candidate for a team sporting Sticky Web or Toxic Spikes.
 
 Loop back around to the lower middle, where the trainers are.
 
@@ -68,7 +74,7 @@ Climb the stairs to the hill here.
 
 !img("zcell029.png")
 
-Pick up *TM100 Confide* at the top. To the left, climb the stairs to reach a new part of Route 4. There is a hidden *Leaf Stone* here.
+Pick up *TM100 Confide* at the top. To the left, climb the stairs to reach a new part of Route 4. There is a hidden *Leaf Stone* here and a *Mirror Sprig*.
 
 !enc(129, ["Grass", "Fishing"], ["Old"], "Route 4 (Central)")
 
@@ -84,7 +90,7 @@ Cross the bridge to the north to Route 4 (Central), and Nim will join your party
 
 !partner(["Nim",:APPRENTICE,1])
 
-You'll also notice that there are Pidove, Hoothoot, Cubone, as well as **Flabebe** and **Emolga** in this area!
+You'll also notice that there are Pidove, Hoothoot, Cubone, as well as **Flabebe**, **Flamigo**, and **Emolga** in this area!
 
 !battle(["Tana",:LASS,0], "Grassy Terrain")
 
@@ -116,13 +122,17 @@ Cross the bridge to the right.
 
 !battle(["Sissy",:LADY,0], "Grassy Terrain")
 
-To the right of here, at night, you'll find roaming **Wooloo**. To the right under the bridge, you'll find that *TM45 Attract* is at the bottom.
+You can find the right of here you can find **Furfrou**, and at night, you'll find roaming **Wooloo**. To the right under the bridge, you'll find that *TM45 Attract* is at the bottom.
 
-Enter Cairo's house.
+A man here will offer you a **Tauros (Paldean)** if you trade him **Wugtrio**, obtained by leveling up Wiglett. Enter Cairo's house.
 
-!shop("Cairo's Shop", [["Joy Scent", 5000], ["Excite Scent", 8500], ["Vivid Scent", 11000], ["Bike Voucher", "250 Red Essences"], ["Noctowl Crest", "2000 Red Essences"], ["Simisage Crest", "2000 Red Essences"], ["Simisear Crest", "2000 Red Essences"], ["Simipour Crest", "2000 Red Essences"], ["5 Rift Fragments", 4956], ["15 Rift Fragments", 14868], ["25 Rift Fragments", 24780]])
+!cshop(:CairoScents, "Cairo's Scents")
 
-Crests are unique held items that give the species in question unique strengths to make them better. As you can tell from the four on display, they're generally given to Pokemon that are... otherwise pretty bad. The Noctowl Crest greatly enhances Noctowl's defensive capabilities, while the other three Crests allow the Monkeys far greater offensive coverage and a few added resistances.
+!cshop(:CairoRE, "Cairo's Essence Shop", 4)
+
+!cshop(:CairoFragments, "Cairo's Fragments")
+
+A few more options for Crests here! The Noctowl Crest greatly enhances Noctowl's defensive capabilities, Plusle and Minun get crests that allow for better Doubles utility, and the other three Crests allow the Monkeys far greater offensive coverage and a few added resistances.
 
 Get the Bike Voucher for now if you want, but otherwise start saving up Rift Essence. If you accumulate at least 10000, talk to **Chespin** and Cairo will let you have it! You can check with the Gather Cube the exact amount you have.
 
@@ -132,18 +142,18 @@ Head up. There are Duskull roaming here at night. Try to head into Akuwa Town to
 
 Our second encounter with Nim sees her Pokemon with much stronger Pokemon with stronger Psychic attacks, but they're still no match for a decent team. Good dark types and Pokemon that resist Psychic and/or Rock will do well here. Most of her Pokemon are slow and she doesn't have any speed control, so if you can outspeed and cripple one or both of her Pokemon per turn you'll likely find a way through this one.
 
+Head into Akuwa Town and talk to Aelita. Enter the Pokemon Center to grab the defibrillator in the back room, then talk to Aelita once more. Meet with her at the ACDMC on the east side of Akuwa Town. This unlocks the Truck Guy spawn to the south. We'll explore the rest of Akuwa Town a bit later, but before we do, there are some sidequests we can tackle!
+
 ## Lost Souls 1
 
-Before proceeding, there are a few sidequests we can take care of. First of all - head into Akuwa Town with Aelita, and talk to the old man. We'll explore Akuwa Town itself later. We can now use the Truck Guy up and right of here to fast travel to Gearen, Goldenwood, and Sheridan, though!
-
-Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around and find:
+Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around.
 
 1.  Andrew can be found in Abandoned Sewers underneath Gearen City by crossing the first bridge north, then the first bridge west, then the first bridge down in an alcove at the bottom.
 2.  James can be found by entering Spring of Purification from Sheridan Village. He's on the right.
 3.  Marissa can be found on Wispy Path in the upper right corner of where Espurr played with you.
 4.  Matthew can be found on Route 3, the second bridge from the bottom.
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
-6.  Jessibelle can be found to the right of the Akuwa Town aquarium.
+6.  Jessibelle can be found near the ACDMC in Akuwa Town.
 
 These are the only six we can get before we get a few more HMs. Return to the Lost Camp, where Maman will let us donate to the camp. Donate $5000.
 
@@ -153,11 +163,11 @@ A few orphans will sell you stuff in camp!
 
 !shop("Lost Camp: Matthew", ["Water Stone", "Fire Stone", "Leaf Stone"])
 
-As an aside, if you want quick AP, we can use Matthew's stones to fill out a lot of categories! Fill up a team with Pickup mons (pickup points), then catch lots of Pansage/Pansear/Panpour (catching points). Alternatively, breed them (egg hatching points and walking around points). Catch any shinies you find as well (catch shiny points). Then, using money you've gotten from selling Pickup items (selling points), buy stones from Matthew (buying points) and use them to evolve each of your monkeys. (evolution points and evolve-by-stone points).
+As an aside, if you want quick AP, we can use Matthew's stones to complete many Achievements! Fill up a team with Pickup mons (pickup points), then catch lots of Pansage/Pansear/Panpour (catching points). Alternatively, breed them (egg hatching points and walking around points). Catch any shinies you find as well (catch shiny points). Then, using money you've gotten from selling Pickup items (selling points), buy stones from Matthew (buying points) and use them to evolve each of your monkeys. (evolution points and evolve-by-stone points).
 
 Anyways, Maman will let us donate once more to the camp. Donate $7000, and you'll be able to catch **Eevee**!
 
-## Artist Quest 2 & Mystery Egg Quest
+## Mystery Egg Quest
 
 There are a few more quests we can take care of before proceeding.
 
@@ -165,43 +175,41 @@ First, head over to Gearen. I recommend at this point buying the Golden Surfboar
 
 Make your way down to Oceana Pier. Here, you can buy a single *Link Heart* for $10000. Worth doing if you are using Pokemon that normally evolve by trading in your team.
 
-Level up Slugma to Level 38 to get **Magcargo**. Add it and Emolga to your party, then head back to Route 2's trailer to get *Charcoal* and *Magnet*, as well as *TM96 Nature Power*!
+Add Emolga to your party, then head back to Route 2's trailer to finish the Artist's Quest, obtaining the *Magnet* as well as *TM96 Nature Power*!
 
-There's one more quest we can do. Go to Sheridan Village. We're gonna take the female Phantump we caught and breed it at the day care to get an Egg. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. 
+Go to Sheridan Village next. We're gonna take the female Phantump we caught and breed it at the day care to get an Egg. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. 
 
 During the daytime, return to the Route 3 market, and talk to the boy in front of the old man. He'll offer you a trade of his Mystery Egg for your Phantump egg.
 
-The mystery egg is unfortunately determined as you start your save file, so it cannot be re-determined by save resetting. Anyways, the mystery egg will be one of these Pokemon: **Azurill**, **Aron**, **Absol**, **Togepi**, **Sneasel**, **Dhelmise**, **Aevian Litwick**, **Axew**, **Mienfoo**, **Pawniard**, **Trapinch**, **Hippopotas**, **Cottonee**, **Darumaka**, **Hatenna**, **Starly**, **Tyrunt**, **Larvesta**, **Mareanie**, **Stufful**, **Rookidee**. These will all be available at some point later in the game, so don't fret if you don't get your favorite right now.
+The mystery egg is unfortunately determined as you start your save file, so it cannot be re-determined by save resetting. Anyways, the mystery egg will be one of these Pokemon: **Azurill**, **Impidimp**, **Nacli**, **Togepi**, **Sneasel**, **Dhelmise**, **Aevian Litwick**, **Axew**, **Mienfoo**, **Pawniard**, **Trapinch**, **Hippopotas**, **Cottonee**, **Darumaka**, **Hatenna**, **Starly**, **Tyrunt**, **Larvesta**, **Mareanie**, **Stufful**, **Rookidee**. These will all be available at some point later in the game, so don't fret if you don't get your favorite right now.
 
 Take the truck back to Akuwa Town.
 
 ## Akuwa Town
 
-Now we can explore Akuwa Town a bit. Itemfinder at the entrance to the town will get you a *Super Repel*. There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**! There's also wild Pokemon in the grass.
+Now we can explore Akuwa Town a bit. Itemfinder at the entrance to the town will get you a *Super Repel*. There's **Squawkabilly** plus wild Pokemon in the grass. 
 
 !enc(13, ["Grass", "Fishing"], ["Old"])
 
-To the left of the gym is a *Modest Mint*. Enter the house to the north of the truck guy:
+There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**!
 
 **ZCell 031: Akuwa Town**
 
 !img("zcell031.png")
 
-Outside on the beach, you can battle and catch **Clauncher**! You'll also find *TM135 Brine*. Hidden on the beach is a *Soda Pop*.
-
-Head up and up the ladder you'll see here and grab:
+Enter the Akuwa Apartments north of the Pokemon Center.
 
 **ZCell 032: Akuwa Town**
 
 !img("zcell032.png")
 
-By the truck guy, only at night:
+Just outside:
 
 **ZCell 033: Akuwa Town**
 
 !img("zcell033.png")
 
-Near the Ducklett egg location, only at night:
+Make your way back to the beach, where you can battle and catch **Clauncher**! Hidden is a *Soda Pop* and *Poke Ball*.
 
 **ZCell 034: Akuwa Town**
 
@@ -209,7 +217,7 @@ Near the Ducklett egg location, only at night:
 
 At this point we will not be able to come back for a bit, so make sure you're ready with all the Pokemon you want to catch on this island for now, and every quest you wanted to finish.
 
-Head into the Pokemon Center to grab the defibrillator, then talk to Aelita. Find her again by the ACDMC on the beach, then go into the gym. Make your way to the back room.
+Find Aelita again by the ACDMC on the beach, then go into the gym. Make your way to the back room.
 
 You don't need to win this one for the record...
 
@@ -225,6 +233,25 @@ Go to sleep.
 - How did you? (Neutral)
 - You know, the usual. (Saki +1)
 
+~~ TODO: HANDLE NG+ Segment Gating (Nymiera Son Name?)
+
+Head to the room with the chair at the top. In NG+ only, you can input the following: 
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    MIKAEL
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Name</a>
+</div>
+
+!boss("FOEHNMISTRAL_EARLY", "Grassy Terrain")
+
+Complete this battle and you will get **Honedge**!
+
+You can also choose to skip the castle section as well.
+
+~~ TODO: HANDLE NG+ Segment Gating (3 badge unidata)
+
 Go up the stairs left, then make your way outside and to the east to the quarry. Head down into the mines and talk to Saki.
 
 Accept the fast travel, then go into the battle arena room above. Back in the mine, talk to everyone. Once you do, the bottom area will open.
@@ -237,9 +264,7 @@ Beat the trainer, then head to the sigil at the top of the mine.
 - Where's Aelita? (Neutral)
 - Are we done here? (Aelita -1)
 
-Exit Neved's office, head back down the stairs, and enter the colorful door. Talk to the crew, then exit the room. If you go into the battle room and exit to the right, you can access some grass with wild Pokemon.
-
-!enc(435)
+Exit Neved's office, head back down the stairs, and enter the colorful door. Talk to the crew, then exit the room. 
 
 Head back to your bed on the lower level and get some sleep.
 
@@ -281,19 +306,23 @@ Now you'll control Emma for a bit.
 
 Make your way through the path and all the way to the right. After the first minecart goes, head left and up the hill to talk to a robot for a battle.
 
-!battle(["Purple Stripe",:SECURITYBOT,100], "Cave Field")
+!battle(["Purple Stripe",:SECURITYBOT,0], "Cave Field")
 
 Push it into its spot, then repeat with the robot to the left. 
 
-!battle(["Gold Stripe",:SECURITYBOT,100], "Cave Field")
+!battle(["Gold Stripe",:SECURITYBOT,0], "Cave Field")
 
 Finally fly over the pit at the bottom and fight the third robot, then push it into its place.
 
-!battle(["Green Stripe",:SECURITYBOT,100], "Cave Field")
+!battle(["Green Stripe",:SECURITYBOT,0], "Cave Field")
 
 Head into this room, then interact with the computer. Enter the room on the left.
 
 ### Day 3
+
+If you go into the battle room and exit to the right, you can access some grass with wild Pokemon.
+
+!enc(435)
 
 Head out and watch all the scenes. When you regain control, it's time for 3v3 battles in the battle room. 
 
@@ -368,7 +397,7 @@ Follow the stairs all the way up and prepare for battle. Aelita will join your p
 
 !battle(["Neved",:XENEXECUTIVE_4,0])
 
-Neved has a team that's entirely above your level cap, but you also get to effectively 12 on 6 him with Aelita on your side, so it's not too tough of a fight. Manectric is insanely fast and likes to one-shot Aelita's Pokemon, so take it out quickly if you can. Crippling Crabominable with a burn or attack lower might be a good strategy while you clean up the left side. Watch out for Barbaracle too which hits surprisingly hard. Anyways, just keep up the pressure and make sure the fastest mons is out, then you and Aelita should be able to win.
+You also get to 12 to Neved's six with Aelita on your side, so it's not too tough of a fight. Manectric is insanely fast and likes to one-shot Aelita's Pokemon, so take it out quickly if you can. Crippling Crabominable with a burn or attack lower might be a good strategy while you clean up the left side. Watch out for Barbaracle too which hits surprisingly hard. Anyways, just keep up the pressure and make sure the fastest mons is out, then you and Aelita should be able to win.
 
 Well....
 
@@ -514,7 +543,9 @@ Exit to the Mynori Sea area to the north.
 
 !battle(["Shantae",:POKEMONRANGER_F,0], "Beach Field")
 
-On the dock, you can interact with **Tentacool** for a battle. To the right is a *Berry Juice*. To the left, you'll find a replica of Mr. Luck's Tent if you want to grab any tutor moves or track Black Prisms. Up from here on the beach is a *Red Shard*. 
+On the dock, you can interact with **Tentacool** for a battle. You may have to wait a while for it to come up to you, but you can catch **Corsola (Galarian)** if it wanders up to the dock.
+
+To the right is a *Berry Juice*. To the left, you'll find a replica of Mr. Luck's Tent if you want to grab any tutor moves or track Black Prisms. Up from here on the beach is a *Red Shard*. 
 
 Talk to Novae up from here to begin *Battle Me Once More!* 
 
@@ -575,7 +606,7 @@ Unfortunately we can't do anything else without Surf. This is all we can do in t
 
 ## Daytime on Terajuma
 
-A boater in Kakori will take us back to Floria Island for $3000. This isn't strictly necessary to do right now... but we have 35 Zygarde Cells, so Ayuda will give us another *Cell Imprint* as well as the *Soothe Bell*. Our next milestone is 50 cells.
+A boater in Kakori will take us back to Floria Island for $3000. This isn't strictly necessary to do right now... but we have 35 Zygarde Cells, so Ayuda will give us another *Cell Imprint* as well as the *Utility Umbrella*. Our next milestone is 50 cells.
 
 Take the boat from Oceana Pier back to Kakori for $1500. Back in Kakori Village, tell Melia you want to start in the house near the Noctowl Statue. Enter the Ranger HQ and talk to Melia and Crawli in the Dartrix Izakaya. Assuming you beat Rift Gyarados for Agent C, back in Goldenwood Forest:
 
@@ -601,7 +632,7 @@ In the bottom left of this map, exit at the bottom to the Terajuma Beach. Now th
 
 !enc(171, ["Grass", "Fishing", "Rock Smash"], ["Old"])
 
-A woman will tell us to show her a Chansey; we shall later.
+A woman will tell us to show her a Chansey; we shall later. Grab the *Mirror Sprig*.
 
 **ZCell 036: Terajuma Beach**
 
@@ -615,7 +646,7 @@ Head to Mynori Sea. Talk to Valarie on the dock when you're ready for your gym b
 
 !move("AQUABATICS")
 
-So, this is the first *really hard* gym battle, at least from my experience. Ground moves do nothing (even Mud Bomb/High Horsepower for some reason), so for Qwilfish and Lanturn you have to think of something else. Her Qwilfish, Floatzel, and Seaking all have Swift Swim, so they will normally outspeed you and hit hard. Lanturn and Primarina are a bit slower but if you let them get off Aquabatics (special Dragon Dance) then they can steamroll your team. Watch out for Dewgong, too, whose Hydration ability allows it to heal all the way up to full every turn with Rest.
+So, this is the first *really hard* gym battle, at least from my experience. Ground moves do nothing (even Mud Bomb/High Horsepower for some reason), so for Qwilfish and Lanturn you have to think of something else. Her Qwilfish, Floatzel, and Seaking all have Swift Swim, so they will normally outspeed you and hit hard. Lanturn and Primarina are a bit slower but if you let them get off Aquabatics (special Dragon Dance) then they can steamroll your team.
 
 The biggest boon you have is that Electric moves are boosted on this field, meaning an Electric type sweeper may be able to go on a tear. An alternative is to transform the field: 2 uses of Sludge Wave turns it into Murkwater, which takes away some of her advantages and can help a Poison-type oriented team, though she can turn it back with Lanturn and Dewgong's Whirlpool.
 
