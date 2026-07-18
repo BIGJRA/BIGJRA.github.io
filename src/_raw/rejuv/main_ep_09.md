@@ -314,7 +314,7 @@ Head outside and enter the Junction Bridge from the left.
 
 Head over to East Gearen City from here. A store has new wares:
 
-!shop("Berry Emporium (5 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Cheri Berry", "Aspear Berry", "Sitrus Berry", "Occa Berry"])
+!cshop(:BerryEmporium, "Berry Emporium (8 Badges)", 8)
 
 This means we can now easily complete the trades on the Isle of Angels for Deepseatooth and Deepseascale.
 

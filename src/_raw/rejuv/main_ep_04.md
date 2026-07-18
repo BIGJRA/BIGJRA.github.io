@@ -4,11 +4,11 @@ Start in East Gearen for some sidequests. To the left of the library, we can now
 
 The Poke Ball shop in Gearen has two new balls now:
 
-!shop("Poke Ball Boutique (1 Badge)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball", "Nest Ball", "Net Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (3 Badges)", 3)
 
 There's also a few new berries now.
 
-!shop("Berry Emporium (3 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Aspear Berry"])
+!cshop(:BerryEmporium, "Berry Emporium (3 Badges)", 3)
 
 Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the Artist's Quest.
 
@@ -337,7 +337,7 @@ Talk to the guy up here, then to **Espurr**. It will let you do a variety of fun
 
 Inside the house here, there are moves for sale, using a variety of different currencies.
 
-!cshop(:WispyShop, "Wispy Shop")
+!cshop(:WispyShop, "Wispy Shop / Tutor")
 
 You may want to wait on some of these moves, since we can get these moves for cheaper next chapter.
 

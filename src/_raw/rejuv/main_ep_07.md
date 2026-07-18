@@ -303,7 +303,7 @@ Winning awards you a *Star Shard*!
 
 The Poke Ball store has added wares.
 
-!shop("Poke Ball Boutique (5 Badges)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball", "Nest Ball", "Net Ball", "Timer Ball", "Dive Ball", "Friend Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (6 Badges)", 6)
 
 I recommend taking another trip to the AP shop. If you haven't gotten the Exp. All or the Golden Axe, Hammer, Surfboard, and Claws, do so ASAP. On deck will be the Golden Driftboard and the Golden Gauntlet.
 

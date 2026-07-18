@@ -579,7 +579,7 @@ If you win, you'll get a *Virtual Badge*. That's all she needs for now, we'll co
 
 The Poke Ball Boutique has updated inventory now that we have a badge. 
 
-!shop("Poke Ball Boutique (1 Badge)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (1 Badges)", 1)
 
 Love Balls are a very useful ball for their price, just pay attention to the gender of what you're trying to catch.
 

@@ -638,6 +638,10 @@ A woman will tell us to show her a Chansey; we shall later. Grab the *Mirror Spr
 
 !img("zcell036.png")
 
+In the top left corner, there is a move tutor!
+
+!cshop(:KakoriBeach, "Kakori Beach Tutor")
+
 ## Dewdrop Badge
 
 Head to Mynori Sea. Talk to Valarie on the dock when you're ready for your gym battle! You can bet $5K, $10K, or $20K on the outcome (and of course, you can soft-reset if you lose the bet)!

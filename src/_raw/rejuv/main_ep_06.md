@@ -22,13 +22,15 @@ Start by going left, back to the Mynori Sea. First, I note that there is a new M
 
 !enc(299, ["Surfing", "Fishing"], ["Good"])
 
-In the top right of the area, you can battle **Corsola**! To the left at night though... you can battle **Galarian Corsola**. Even better.
+In the top right of the area, you can battle **Corsola**! To the left at night you can battle Galarian Corsola more easily than before.
 
-Enter the Jirukala Cavern to the left. Surf to the right to grab a hidden *Rock Gem*, then emerge on the left side and get *TM144 Cross Poison*.
+Enter the Jirukala Cavern to the left. Surf to the right to grab a hidden *Rock Gem* and *Revive*, then emerge on the left side to get a hidden *Kee Berry* and *TM144 Cross Poison*.
 
-From here, surf west onto Route 5.
+Back in the Mynori Sea, surf west onto Route 5.
 
 !enc(301, nil, ["Old", "Good"])
+
+You can catch **Wugtrio** here as well.
 
 !battle(["Stacy",:AROMALADY,0], "Beach Field")
 
@@ -40,7 +42,7 @@ Grab *TM130 Sand Tomb* and a hidden *Star Piece* above. That's all we can do her
 
 Nothing else other than encounters to do on this map yet, so go down into the Terajuma Shipyard next. 
 
-!enc(207, ["Surfing", "Fishing"], ["Good"], "Terajuma Shipyard / Terajuma Beach")
+!enc(207, ["Grass", "Surfing", "Fishing"], ["Good"], "Terajuma Shipyard / Terajuma Beach")
 
 Surf to the right from the southwest dock:
 
@@ -48,7 +50,7 @@ Surf to the right from the southwest dock:
 
 !img("zcell037.png")
 
-Grab the *Red Shard* below. On an island at the bottom is *TM76 Struggle Bug*. That's it for this map right now, so head up, left, then down again to enter the Terajuma Beach. Talk to the Noctowl Statue right here to unlock another fast travel location. 
+Grab the *Red Shard* below. On an island at the bottom is a hidden *Kee Berry*, *TM76 Struggle Bug*, and the *Beach Field Readout*. That's it for this map right now, so head up, left, then down again to enter the Terajuma Beach. Talk to the Noctowl Statue right here to unlock another fast travel location. 
 
 Go up, then up again to enter the Deep Terajuma Jungle. Surf down from the construction house to reach a hidden *Stardust* and:
 
@@ -66,7 +68,7 @@ Basculin. Head to the right and go up the stairs to continue *Tantalizing Temple
 
 !enc(181, nil, ["Old", "Good"], "Tyluric Temple (Upper Levels)")
 
-Once you emerge on the Upper Level for the second time, start using the itemfinder. You'll find hidden *Berry Juice*, *Sitrus Berry*, and past some cyclones, a *Funnel Cake*. Wild **Slakoth** hang out here, too.
+Once you emerge on the Upper Level for the second time, start using the itemfinder. You'll find hidden *Berry Juice*, *Sitrus Berry*, and you can catch **Toedscool**! Past some cyclones, you'll find a hidden *Funnel Cake* and the *Grassy Terrain Field Readout*! Wild **Slakoth** hang out here, too.
 
 Surf down from the door to continue. Grab the hidden *Sitrus Berry*, *Mago Berry*, and *Liechi Berry*. Continue on.
 
@@ -121,7 +123,11 @@ Back inside the house in Kakori, talk to Melia. Say April Berry Moose Cake.
 
 ## Mt. Terajuma
 
-Fly over to Terajuma Beach then go up into the Deep Terajuma Jungle. Activate this Noctowl Statue, then prepare for a fight. This one does not need to be won.
+Fly over to Terajuma Beach then go up into the Deep Terajuma Jungle. 
+
+You can view a secret scene here (TODO: how?)
+
+Prepare for a fight and head west. This one does not need to be won.
 
 !boss("TAPUKOKOJUNGLE", "Forest Field")
 
@@ -137,7 +143,7 @@ Not the hardest boss we've had to face yet, thankfully. Proceed to the next map,
 
 I recommend catching a Nincada and evolving it to get a Shedinja. It's helpful in a game like this... and for finally beating a certain trainer in East Gearen in a bit. Grab the hidden *Elemental Seed*.
 
-Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candy L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Get a hidden *Hyper Potion* below, then go back up the lift. Jump down the rightmost water tile. Pick up the hidden *Red Shard*.
+Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candy L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Grab the *Mountain Field Readout*, then get a hidden *Hyper Potion* below. Go back up the lift and jump down the rightmost water tile. Pick up the hidden *Red Shard*.
 
 !battle(["Demetra",:XENGRUNT_F,0], "Cave Field")
 
@@ -146,6 +152,8 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 !enc(295)
 
 There are also **Aevian Snorunt** to the right! Very nice.
+
+There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
 
 Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Aevian Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
@@ -159,9 +167,13 @@ Talk to the Noctowl Statue to create another fly location. Enter the Weather Ins
 
 !battle(["Shino",:XENANALYST_F,0])
 
-After the scene is over, reenter the Institute. Talk to the receptionist for *3 Fresh Waters*. A person here asks us to show them the TMs Sunny Day, Hail, and Rain Dance; we will later. We can trade away Dunsparce f or **Castform** here as well!
+After the scene is over, reenter the Institute. Talk to the receptionist for *3 Fresh Waters*. A person here asks us to show them the TMs Sunny Day, Snowscape, and Rain Dance; we will later. We can trade away Dunsparce for **Castform** here as well!
 
 !shop("Weather Institute Petals", ["Pink Petal", "Green Petal", "Orange Petal", "Blue Petal"])
+
+!shop("Weather Institute Shop", ["Red Nectar", "Yellow Nectar", "Purple Nectar", "Pink Nectar"])
+
+A person above will give you the *Rainbow Field Readout*, and another the *Wailmer Pail*.
 
 Back outside, go down some of the stairs but go right. You'll see another cave here. The left lift is a shortcut back down to the jungle - take the right one instead.
 
@@ -200,11 +212,11 @@ Talk to Crawli and Rorim B on the dock to go to Helojak Island.
 
 !enc(201)
 
-There are also wild **Gastrodon** roaming about.
+There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Quagsire (Paldean)** roaming about.
 
 Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
-Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade* and *Hondew Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack*. More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
+Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack* and the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
 
 Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *TinyMushroom*. Further up is a *SilverPowder* as well as another hidden *TinyMushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
 
@@ -277,6 +289,8 @@ Head up to Mt. Terajuma after you go outside. You'll find Rick on the bridge.
 - Eh... (+1 Alexandra)
 - You deserve jail time. (-3 Alexandra)
 
+!cshop(:GemShop, "Rick's Gems")
+
 Talk to Alexandra outside, then return to the Help Center to get $4,326.
 
 ### Abnormal Phenomenon
@@ -320,17 +334,17 @@ That's it for the help quests.
 
 If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
-Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second is left behind some trees. The third is in the upper left corner between some dumpsters. Give them back to get a *Thunderstone*!
+Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second below, on a dock. The third is in the upper right corner between some dumpsters. Give them back to get a *Thunderstone*!
 
 Enter East Gearen, and go to the Magnolia Library. Talk to Zumi upstairs to get our next target for *PictoZumi*. She's looking for Pyukumuku, which we already have. She'll give us 6 *Exp. Candy M*. Our next quest is for Mareep!
 
 The Poke Ball shop has two new balls now:
 
-!shop("Poke Ball Boutique (5 Badges)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball", "Nest Ball", "Net Ball", "Timer Ball", "Dive Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (5 Badges)", 5)
 
 There's also a few new berries now.
 
-!shop("Berry Emporium (5 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Cheri Berry", "Aspear Berry", "Sitrus Berry"])
+!cshop(:BerryEmporium, "Berry Emporium (5 Badges)", 5)
 
 Next, head to the basement of Chrisola hotel. Surf to the dark patch in the water at night and use a Gourmet Treat to get **Totodile**! Also, grab the *Water Stone*.
 
@@ -390,7 +404,7 @@ Head into Goldenwood Cave.
 
 !enc(8, ["Surfing", "Fishing"], ["Good"])
 
-Surf left and go down to the basement level. Grab the *Revive* to the right, and a hidden *Big Root*. *TM98 Power-Up-Punch* is below. 
+Surf left and go down to the basement level. Grab the *Revive* to the right, and a hidden *Big Root*. *TM98 Power-Up-Punch* is below, as is the *Meowsticite*!
 
 !battle(["Satella",:KIMONOGIRL,0], "Cave Field")
 
@@ -442,13 +456,13 @@ Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also only a
 
 !img("zcell044.png")
 
-Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a Gourmet Treat! 
+Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a Gourmet Treat! A *Black Belt* is hidden behind.
 
 **ZCell 045: Sheridan Village**
 
 !img("zcell045.png")
 
-Head up to the Sheridan Arena. Surf up and left to get *TM87 Swagger*. On the right, only at night:
+Head up to the Sheridan Arena. Surf up and left to get *TM87 Swagger*. On the right:
 
 **ZCell 046: Sheridan Arena**
 
@@ -514,7 +528,7 @@ Enter the building above the land bridge. Ask Matthew about his studies above an
 - Answer "East" (+1 Eizen)
 - Answer "North" (Neutral)
 
-Anyways, get the *Lab Key* from them. Take it on over to the Forsaken Laboratory beneath Wispy Tower. In the leftmost room, surf to the black door and use the key.
+Anyways, get the *Lab Key* from them. Take it on over to the Forsaken Laboratory beneath Wispy Tower. In the leftmost room, surf to the black door and use the key. Grab the *Reaper Cloth*.
 
 Talk to this tablet and you'll be engaged with a puzzle. Here is the solution:
 
@@ -528,6 +542,14 @@ Add Null to your party, then evolve it by friendship into **Silvally**. Head bac
 
 If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Aevian Munna** and *Nightmare Fuel*!
 
+~~ TODO: NG+ gate in Eizen's house ... ? 
+
+Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**.
+
+Using the ID Card will take you to a familiar room in which you can view a few more Black Boxes that have been filled in.
+
+~~ TODO: NG+ gate in Eizen's house ... ? 
+
 ## Akuwa Area Surfing & Sidequests
 
 Back in Goldenleaf, head through the Wispy Ruins to Route 4.
@@ -536,7 +558,7 @@ Go up the stairs to the right, then surf up at the top of the mountain: you'll f
 
 !raid(3, 4)
 
-West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as, only at night:
+West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as:
 
 **ZCell 050: Route 4**
 
@@ -546,19 +568,27 @@ Plus, the fourth and final den is here.
 
 !raid(4, 4)
 
-North of Cairo's house, also at night:
+North of Cairo's house:
 
 **ZCell 051: Route 4**
 
 !img("zcell051.png")
 
-That's all that we can do here for now. You might have enough Rift Essence to grab those crests or Chespin if you haven't gotten them yet.
+That's all that we can do here for now. You might have enough Rift Essence to grab Chespin or those crests if you haven't gotten them yet. There's one more we can now get, in fact:
+
+!cshop(:CairoRE, "Cairo's Essence Shop (5 Badges)", 5)
 
 Head up to Akuwa Town.
 
 !enc(13, ["Surfing", "Fishing"], ["Good"])
 
-There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. As you do, pick up hidden *Blast Powder*, *Poke Ball*, and *Health Feather* on the islands. Surf east to reach Route 11.
+There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. Grab *TM135 Brine* and hidden *Blast Powder* on the islands. 
+
+**ZCell TODO: Akuwa Town**
+
+!img("zcellnew001.png")
+
+Surf east to reach Route 11.
 
 !enc(3, nil, ["Old", "Good"])
 
@@ -604,11 +634,11 @@ Talk to the Octillery here to battle them. Land on the island at the top of the 
 
 Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption, such as the Magcargo we evolved earlier.
 
-Then, surf to the cave to the south, and use Blizzard in a battle. After the field has changed, use the ground move, and a path will open. Enter and surf to battle **Lapras**!
+Then, surf to the cave to the south, and use Blizzard in a battle. After the field has changed, use the Fire move, and a path will open. Grab the *Icy Field Readout* then surf to battle **Lapras**!
 
 Heal at Nana's house again, then enter the cave to the right.
 
-Use the fire move in battle, then surf across. Exit at the southeast to get:
+Use the Fire move in battle, then surf across. Exit at the southeast to get:
 
 **ZCell 054: Evergreen Island**
 
@@ -646,7 +676,7 @@ Grab the a *Dusk Ball* on the mountain, and the hidden *Telluric Seed*.
 
 Head back to the middle area. Hidden as you head up and to the dead end on the left is *Ice Heal*, *Ice Gem*, *Paralyze Heal*, *Hyper Potion*, *Zinc*, and *Genius Feather*. Surf across the pond we passed earlier. You'll find Mitsudo, the ninth kid, for the *Lost Souls* quest!
 
-Hidden on this path is *Resist Feather*, *HP Up*, *Rare Candy*, and *Telluric Seed*. At night we can battle stationary Snorunt.
+Hidden on this path is *Resist Feather*, *HP Up*, *Rare Candy*, and *Telluric Seed*. At night we can battle stationary Snorunt. There is a stationary **Riolu** beyond!
 
 Head back down and surf back across the pond. Go up and right to find a hidden *X Special*. Follow the final path up, go all the way up to the spring, and grab the *Max Repel*. Either Anju's Pendant or the Mysterious Emblem will allow you to enter the spring of preservation at the top.
 
@@ -656,7 +686,7 @@ One more thing we can do in this area for now: evolve one of your Buneary via ha
 
 That's all we can do in the Route 11 area right now!
 
-Return to Gearen City and talk to Ayuda - now that we've collected 50 Zygarde Cells, we will be given a *Cell Imprint* as well as the *Macho Brace*. Our next threshold is 75.
+Return to Gearen City and talk to Ayuda - now that we've collected 50 Zygarde Cells, we will be given a *Cell Imprint* as well as a *Weakness Policy* and the *Lucky Egg*! Our next threshold is 75.
 
 Take the boat back to Terajuma, then take a Noctowl to Deep Terajuma Jungle. Surf right at the bottom of the map to find get Poliwag #4 for the *Poliwag Quest*.
 
