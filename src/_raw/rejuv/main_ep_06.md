@@ -428,7 +428,7 @@ On the right, you'll find Jorgie, the seventh kid who you can send to the Lost C
 
 ## Sheridan Area Surfing & Sidequests
 
-Take the truck back to East Gearen, then take the train over to Route 2. The stationary Aipom are now **Ambipom**!
+Take the truck back to East Gearen. Grab a Spinda from the PC, then take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda. Also here, the stationary Aipom are now **Ambipom**!
 
 !enc(199, ["Surfing", "Fishing"], ["Good"])
 

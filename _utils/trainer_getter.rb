@@ -2,7 +2,8 @@ require_relative 'common'
 require 'set'
 
 class TrainerGetter
-  attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash
+  attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash, :stats
+
 
   def initialize(game, scripts_dir, trainer_hash = nil, boss_hash = nil, trainer_type_hash = nil, item_hash = nil, move_hash = nil, ability_hash = nil,
                  pokemon_hash = nil, type_hash = nil)
@@ -16,6 +17,7 @@ class TrainerGetter
     @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game, @scriptsDir)
     @typeHash = type_hash ||= load_type_hash(@game, @scriptsDir)
     @trainerStore = Set[]
+    @stats = ["HP", "Atk", "Def", "SpA", "Spd", "Spe"]
   end
 
   def generate_trainer_markdown(trainer_id, field = nil, second_trainer_id = nil, type_mod = 0, name_ext = '')
@@ -268,7 +270,14 @@ class TrainerGetter
             if effs[:weatherChange] == nil
               eff_strs.push("Weather is nullified")
             else
-              eff_strs.push("Weather becomes #{effs[:weatherChange]}")
+              # Weather move, num turns (-1 = indefinite), message
+              moveS, turns, message = effs[:weatherChange]
+              move = @moveHash[moveS]
+              if turns == -1 
+                eff_strs.push("Weather becomes #{move[:name]} indefinitely")
+              else
+                eff_strs.push("Weather becomes #{move[:name]} for #{turns} turns")
+              end
             end
           end
           if effs[:speciesUpdate]
@@ -472,8 +481,9 @@ class TrainerGetter
               groups[lvl].push(stat)
             end
             if groups != {}
-              groups.each do |lvl, stats|
-                mon_details_parts.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              groups.each do |lvl, indices|
+                statNames = indices.map { |idx| stats[idx] }
+                mon_details_parts.push("#{statNames.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end
           end
