@@ -26,7 +26,7 @@ Enter the Sapphire Museum. Talk to the old man to begin the *Museum Quest*. Back
 
 Outside, pluck the *Occa Berry* and enter the TM Shop.
 
-!shop("Kristiline TMs", [["RM02 Avalanche", 20000], ["RM03 Zap Cannon", 30000], ["RM04 Metronome", 10000], ["RM06 Retaliate", 15000], ["RM07 Dynamic Punch", 25000], ["RM08 Vacuum Wave", 20000], ["RM09 Tri Attack", 20000], ["TM140 Ice Fang", 10000], ["TM141 Fire Fang", 10000], ["TM142 Thunder Fang", 10000], ["TM143 Psycho Cut", 25000], ["TM157 Breaking Swipe", 25000]])
+!cshop(:KristilineTMs, "Kristiline TM Shop")
 
 To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *2 Exp. Candy L*. 
 
@@ -60,7 +60,7 @@ Outside, get *3 Passho Berries*. Enter the help center to get *TM73 Thunder Wave
 
 !img("zcell071.png")
 
-A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, then trade it with an NPC to get **Vulpix (Alolan)**! Also here is:
+A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, evolve it with an Ice Stone to get **Sandslash (Alolan)**, then trade it with an NPC to get **Vulpix (Alolan)**! Also here is:
 
 **ZCell 072: Kristiline Town**
 
@@ -68,7 +68,7 @@ A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, then trade it wit
 
 We can also now take Tesla's yacht to-and-from Kristiline Town via the port the east side of town.
 
-Go up to reach the Isle of Angels.
+Go up, grab a hidden *Iapapa Berry*, then proceed to the Isle of Angels.
 
 !enc(540, "Grass")
 
@@ -76,7 +76,7 @@ At night, you can catch the "legendary" **Phione** here by giving it a *Gourmet 
 
 Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deepseatooth* or *Deepseascale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
 
-Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Hail* is to the left.
+Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Snowscape* is to the left.
 
 **ZCell 073: Isle of Angels**
 
@@ -104,7 +104,7 @@ Take Noctowl to Kakori Village. Mr. Luck's Tent now has a new move tutor:
 
 !tutor("Marnie Move Tutor", [["Bug Bite", "3 Green Shards"], ["Bounce", "3 Blue Shards"], ["Drill Run", "3 Yellow Shards"], ["Electroweb", "3 Red Shards"], ["Gastro Acid", "3 Yellow Shards"], ["Focus Energy", "3 Red Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
 
-Take the truck to Goldenleaf. In the house nearest the eastern gate, you'll find the artist for the *Museum Quest*. Next, head back to the outside area of Wispy Tower and enter the Wispy Ruins to the east. Climb down the ivy in the rightmost room, then make your way to the southeast corner of Wispy Chasm. Step on the tile, then head in to and get Griselda's Treasure 7: a *Data Drive* and *Odd Keystone*.
+Take the truck to Goldenleaf. In the house nearest the eastern gate, you'll find the artist for the *Museum Quest*. Next, head back to the outside area of Wispy Tower and enter the Wispy Ruins to the east. Climb down the ivy in the rightmost room, then make your way to the southeast corner of Wispy Chasm. Step on the tile, then head in to and get Griselda's Treasure 7: the *Fearow Crest* and *Odd Keystone*.
 
 Head back out to Goldenleaf Town. Enter Narcissa's Gym and talk to the guy at the front. Make your way all the way back through Backstage Theatre and enter the mirror.
 
@@ -137,11 +137,15 @@ Head outside and enter the house in the top right of town. Talk to the guy here 
   <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the solutions to the quiz</a>
 </div>
 
-You'll get an *Exp. Candy XL*, *Lucky Egg* for winning. After...that... head back to the Kakori Help Center to get $10000. (+1 Karma)
+You'll get an *Exp. Candy XL*, *Lucky Egg* for winning. After...that... head back to the Kakori Help Center to get $10000 and 2 *Green Shards*. (+1 Karma)
 
 ## Corrupted Cave 
 
-Now we will proceed with the story. Talk to Aelita in Kristiline Town. You'll need to choose a third character to join you in the upcoming journey. You can choose Reina, Kreiss, or Adam. Talk to Aelita to go to Sheridan. Inside the Sensei's house, talk to Texen, then head upstairs for a 3v3 battle.
+Now we will proceed with the story. Talk to Aelita in Kristiline Town when you're ready for a battle!
+
+!battle(["Aelita", :STUDENT, 4], "Beach Field")
+
+You'll need to choose a third character to join you in the upcoming journey. You can choose Reina, Kreiss, or Adam. Talk to Aelita to go to Sheridan. Inside the Sensei's house, talk to Texen, then head upstairs for a 3v3 battle.
 
 !partner(["Aelita",:STUDENT,1])
 
@@ -179,7 +183,7 @@ Both paths will converge in a central room, where we'll have to fight a Team Xen
 
 Go down the ladder on the left from the bonfire room for a huge, optional puzzle. Make note of all the statue positions down the ladder, then get to work putting them all into the right places. This is arduous and pushing one block into a corner means you have to reset the whole thing, so save often. Once you succeed, go into the door at the top to get **Zorua (Hisuian)** and the *Zoroark Crest*!
 
-Regardless of which path you took, backtrack down the path to the left past the puzzles. Talk to the blue pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*.
+Regardless of which path you took, backtrack down the path to the left past the puzzles. Talk to the blue pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*. Backtrack down the right path to display a Poison-type Pokemon to a pillar. This will open a door leading to the *Deep Earth* field notes.
 
 Return to the entrance room and talk to Eldest. Head in this door and follow the path.
 
@@ -223,7 +227,7 @@ Land on the platform to the left.
 
 !battle(["Malik",:XENGRUNT_M,1], "Beach Field")
 
-Pick up the *Full Heal* to the right and enter the ship through the bottom entrance. Go up. 
+Pick up the *Full Heal* to the right and the hidden *Xen Waste*, then enter the ship through the bottom entrance. Go up. 
 
 !battle(["Lexy",:XENGRUNT_F,0], "Short-Circuit Field")
 
@@ -247,7 +251,7 @@ Exit at the top, and go right for the *Prince from the Sands* quest. If you didn
 
 You will then get an *Ability Capsule* and *Exp. Candy XL*.
 
-*Special Scene: Ryland's Conviction* requires 2 Relationship Points with Ryland at this point.
+*Special Scene: Ryland's Conviction* requires 2 Relationship Points with Ryland at this point. There's a *Starlight Arena Field Readout* beyond and 5 hidden *Exp. Candy XL*.
 
 Backtrack to the water of Route 6, and go up and right.
 
@@ -261,7 +265,7 @@ Land on this platform to raid another boat.
 
 !dbattle(["Troye",:XENGRUNT_F,0], ["Helen",:XENGRUNT_F,0], "Beach Field")
 
-Pick up *Blast Powder* then enter the ship. Go up.
+Pick up *Blast Powder* and hidden *Antidote* then enter the ship. Go up.
 
 !battle(["Mephisto",:XENANALYST_F,0], "Short-Circuit Field")
 
@@ -271,15 +275,19 @@ Catch **Shadow Drifblim**. Press a button above to switch the center tile to the
 
 Catch **Shadow Purugly**. Press the button and go down the ladder. In these chests are *Protein*, *Carbos*, *Iron*, *Calcium*, *HP Up*, *Zinc*, and *TM139 Speed Swap*.
 
-Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)**! Pick up a *Soft Sand* and *Black Prism* beyond. Surf left and land on Clobbo Peak Island. Pick up the *Exp. Candy L* and catch **Chansey**! Up from here, on the island with the Xen member, you'll find Poliwag #6 for the *Poliwag Quest*!
+Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)**! Pick up a *Soft Sand* and *Black Prism* beyond, plus a hidden *Rare Candy*! There's also a **Veluza (Aevian)** here! 
 
-The final Xen ship on the left side of the map is filled with trainers with Pokemon in the Lv. 70+ range. You can fight them if you wish, but I will have us return later when it is more "safe" to do so.
+Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
+
+Up from here, on the island with the Xen member, you'll find a hidden *Exp. Candy L* and Poliwag #6 for the *Poliwag Quest*!
+
+The final Xen ship on the left side of the map is filled with trainers with Pokemon in the Lv. 70+ range. You can fight them if you wish, but I will have us return later when it is more "safe" to do so. Grab the hidden *Moon Stone* on the side of the ship, though! An island on the far east side has a locked house and hidden *Yellow Shard*.
 
 With all that taken care of, land on the Valor Shore at the top and activate the Noctowl Statue. Talk to Neved above. If you say "We'll take them down" you don't have to fight him, but if you say "We win and save Nim" you will have to fight him (and will get a small bit of extra lore later on):
 
 !battle(["Neved",:XENEXECUTIVE_4,3], "Beach Field")
 
-Smash a rock to the right and get *TM124 Scary Face*. Enter the mountain...
+Grab the hidden *Float Stone*, *Nugget*, *Blue Shard*, *Dusk Ball*, and *Black Prism*. Smash a rock to the right and get *TM124 Scary Face*. Enter the mountain...
 
 ## Valor Mountain
 
@@ -396,17 +404,21 @@ Fall down the hole again, then proceed all the way through the barricade and bac
 
 If we proceed without having saved Amber, we will get (+10 Renegade Points).
 
-Pick up hidden *HP Up* and *Blast Powder*. Head left to fight:
+!enc(175, ["Grass", "Fishing", "Surfing"], ["Old", "Good"])
+
+Pick up hidden *HP Up* and *Blast Powder*. 
+
+**ZCell 080: Valor Cliffside**
+
+!img("zcell080.png")
+
+Head left to fight:
 
 !partner(["Venam",:LEADER_VENAM,3])
 
 !battle(["Eli and Sharon",:MISFORTUNATEDUO,10], "Mountain Field")
 
 Time for another fight with Eli and Sharon. This is a 12v6 with the help of Venam, so it really shouldn't be that much of a problem. Make sure Gyarados doesn't set up!
-
-**ZCell 080: Valor Cliffside**
-
-!img("zcell080.png")
 
 Head down from here.
 
@@ -438,27 +450,27 @@ Head down and go to the left. Drift across then jump in the hole twice. Talk to 
 
 Next, head up at the top of this room to reenter the blockade. Upstairs the rightmost door will be open now, head outside and feed **Tepig** five Gourmet Treats for a chance to battle it.
 
-Head back to the cliffside (there's now a warp between Valor Cliffside and Valor Shore, it might be easiest to take the warp) and enter the room beyond. Interact with the neutral crystal, then head back into the dungeon via the cliffside once more. On the left, surf and fall down the hole. Pick up a hidden *Rare Candy*, then fall down the other hole and grab the *Leaf Stone* at the bottom!
-
-Jump down the ledge, and head up the ladder here. On the right:
+Head back to the cliffside (there's now a warp between Valor Cliffside and Valor Shore, it might be easiest to take the warp) and enter the room beyond. Interact with the neutral crystal, then head back into the dungeon via the cliffside once more. On the left, surf and fall down the hole. Pick up a hidden *Rare Candy*, then fall down the other hole and grab the *Leaf Stone* at the bottom! Jump down the ledge, and head up the ladder here. On the right:
 
 **ZCell 083: Valor Mountain (Neutral)**
 
 !img("zcell083.png")
 
-Head back down the ladder, activate the ice crystal, then use the warp to reach Valor Cliffside once more. Head all the way back up to the top and enter the summit.
+One. More. Climb. To the top of the mountain. With the neutral crystal still engaged, head down and this time to the right once you cross the ladder. Pickup the *Volcanic Top Field Readout*!
+
+Use the warp to reach Valor Cliffside once more. Head all the way back up to the top and enter the summit.
 
 ### Valor Summit
 
-Grab the *Dragon Scale* on the left of the summit.
+Pickup the *Smoke Ball* beyond a Blast Powder rock. There's a hidden *Ultra Potion* as you go left.
 
-Head up to the top when you're ready. The first battle:
+Activate the Noctowl statue.
 
-!boss("VALORGIRATINA", "Volcanic Top Field")
+!battle(["Jenner", :PROFJENNER, 1], "Volcanic Top")
 
-Another straightforward boss where status conditions are key. The omniboost is a bit scary, though you can cancel it out with a move like Haze.
+Not immensely difficult thanks to it being a 6v4. Catch his **Shadow Tatsugiri**! Melia will give you a *Focus Sash*.
 
-Heal, and follow the action to the top. Time for a double battle with Melia.
+Follow the action to the top. Time for a double battle with Melia.
 
 !partner(["Melia",:ENIGMA,5])
 
@@ -470,7 +482,30 @@ The Volcanic Field can be used to your advantage: consider using your own Fire m
 
 In the beach area, follow the path.
 
-Afterwards, return to the top of the mountain, collecting the souls as you go. You'll be thrust into a battle with Geara and Zetta again!
+~~ NG+ TODO 
+
+Melia will give you the *Clefablite* in NG+!
+
+~~ NG+ TODO 
+
+Afterwards, return to the top of the mountain, collecting the souls as you go. You can catch **Abra**, along the way! Follow the path through Rift Distortion!
+
+!battle(["???", :ALGRISELDA, 0], "Wasteland")
+
+
+
+
+??? Grab the *Dragon Scale* on the left of the summit.
+
+??? !boss("VALORGIRATINA", "Volcanic Top Field")
+
+Another straightforward boss where status conditions are key. The omniboost is a bit scary, though you can cancel it out with a move like Haze.
+
+
+
+
+
+
 
 !partner(["Venam",:LEADER_VENAM,3])
 

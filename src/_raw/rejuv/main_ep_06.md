@@ -382,6 +382,8 @@ Go to Wispy Tower's outside and walk to the east. The guy won't stop us anymore,
 
 !enc(102)
 
+At night, you can feed a **Murkrow** a Gourmet Treat for a battle! 
+
 Head to the right and go up. You'll get *Berry Ice Cream* from Karen. *TM118 Pin Missile* is here as well, plus:
 
 **Wisp 08: Wispy Tower**
