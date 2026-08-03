@@ -168,7 +168,7 @@ Head back to Yui's Ranch and talk to Ben. You'll get 3 *Cherish Balls*! (+1 Karm
 
 Now, the shop inside is in business during the morning and day:
 
-!shop("Yui's Ranch Shop", ["Ultra Ball", "Hyper Potion", "GourmetTreat", "Super Repel", "Max Repel", "Escape Rope", "Honey", "Moomoo Milk"])
+!shop("Yui's Ranch Shop", ["Ultra Ball", "Hyper Potion", "Gourmet Treat", "Super Repel", "Max Repel", "Escape Rope", "Honey", "Moomoo Milk"])
 
 ## Darchlight Woods
 
@@ -314,7 +314,7 @@ Head back to the east. Continue through the cave, using the mirror in the same s
 
 In the next room, get a hidden *Yellow Shard* and *Max Repel*. You'll choose between Erin and Florin as a partner here.
 
-!partner(["Erin",:CANDIDGIRL,0])
+!partner(["Erin",:CANDIDGIRL3,0])
 
 !partner(["Florin",:LEADER_FLORIN,0])
 
@@ -456,7 +456,7 @@ Head inside.
 
 The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
 
-Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Wing*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
+Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Feather*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
 
 Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the book below  Clefairy. Return to the entrance hall of the house to talk to Clefairy two more times. Follow it into the office at the top. 
 

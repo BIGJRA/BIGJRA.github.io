@@ -1,5 +1,118 @@
 # Appendices
 
+## New Game+ Content
+
+There are a lot of features that New Game+ adds to Rejuvenation. Most of these will be fairly in your face and obvious during playthroughs in which the conditions are met, but I detail them here.
+
+### Chapter 0 NG+
+
+The full contents in this section require a completed Paragon Save. 
+
+While completing the prologue as Marianette, you'll hear a knock on the door. Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
+
+Talk to Marianette outside when you're ready for our first battle... this time around, at least. You'll be given a Hisuian Zorua, Indeedee, and Chatot to battle with.
+
+!battle(["Marianette", :LEADER_MARIANETTE, 1])
+
+You should have enough experience with defeating Marianette by now to handle this one... right? 
+
+Head back inside the house, and follow the chaotic pathway outside. Inside, talk to Anastasia in the kitchen, grab the chess board, and play. Outside once again, you'll need to defeat some Lv. 1 Deoxys as you progress. Once you make it inside the lighthouse:
+
+!boss(:INTRODEOXYS)
+
+Some luck with Chatter Confusion may be what you need here.
+
+After all that, you'll be taken to Spotlight City. Explore, then enter the building with the "!" symbol. You'll learn of the safe password, `1101 1101`.
+
+Next is a command battle. You'll need to use five of the attacks via pressing the arrow keys, then use the Ultimate with "A".
+
+When you have control again, enter Vitus' office and enter the above password into the safe to open some future New Game+ contents. 
+
+[Jump Back](#prologue)
+
+### Chapter 1 NG+ Part 1
+
+If you completed the contents of the extended Prologue, upon reaching Oceana Pier, you'll obtain the *Black Key*. And see good old Eizen watching you. Always watching.
+
+[Jump Back](#gearen-laboratory)
+
+### Chapter 1 NG+ Part 2
+
+In the Dangerous Pokemon Quest, there will be an additional fight and rewards if you have a completed Reborn save file on your computer.
+
+Talk to the crate if prompted!
+
+!battle(["Sandy", :ACTIVIST, 0], "City Field")
+
+If you can beat this nightmare of a fight, you'll be able to trade anything for a **Gligar** and the legendary *Victreebelite*.
+
+[Jump Back](#dangerous-pokemon)
+
+### Chapter 2 NG+
+
+If you have the Black Key, you can use it after obtaining Melia's Room Key. In Melia's room, head up in the top left corner of the downstairs room, then use the key and enter. Note the password "TWINGOLD" on the floor, then head up when you're ready for some real nonsense.
+
+!battle(["Eizen", :EIZEN, 5])
+
+With New Game+ comes more powerful tools we get access to... but also some of the game's most ridiculously challenging fights right out of the gate. Speaking of powerful tools, you can at least catch the anomalous **Shadow Froakie**, a callback to older versions! 
+
+As for the rest of the fight, Eizen seems to prefer to use in-game trade Pokemon from canon games.... and oh yeah, a Terapagos as well. Terapagos is incredibly tough to take down and hits pretty hard, with potential stat boosts via Ancientpower and Rapid Spin. Your first move will be not-very-effective thanks to Tera Shell, but afterwards it becomes weak to Fighting-type moves.
+
+Once you make it through this fight and cutscenes, head to the top of the room. You can "dematerialize" your Pokemon here. Make sure to let me know what this does, because I don't currently know!
+
+[Jump Back](#melias-room)
+
+### Chapter 5 NG+
+
+While you're exploring Blacksteeple Castle for the first time, there is New Game+ content and a skip. Head to the room with the chair at the top. You can input the name of Nymiera's son: 
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    MIKAEL
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Name</a>
+</div>
+
+!boss("FOEHNMISTRAL_EARLY", "Grassy Terrain")
+
+Complete this battle and you will get **Honedge**, holding a *Focus Sash*!
+
+You can also choose to skip the majority of the castle section as well!
+
+[Jump Back (No Skip)](#day-1) \| [Jump Back (Skip)](#day-6)
+
+### Chapter 6 NG+
+
+While completing the Silvally Quest, there is extra content in New Game+. Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**. (I strongly recommend picking Larvesta here, not just because it is extremely powerful, but because it will also open up *another* New Game+ sidequest skip in a bit that we might as well take advantage of. Specifically if you got Rookidee in the Msytery Egg earlier, that will suffice in Larvesta's place.)
+
+Using the ID Card will take you to a familiar room in which you can view a few more Black Boxes that have been filled in.
+
+(TODO: I know there is additional contents, New Game++ if you will, that occur here. I will cover these later alongside Ch 16)
+
+[Jump Back](#akuwa-area-surfing--sidequests)
+
+### Chapter 8 NG+ Part 1
+
+During the events on Valor Mountain, you and Melia will have a chat in which she gives you the *Clefablite*!
+
+[Jump Back](#valor-summit)
+
+### Chapter 8 NG+ Part 2
+
+If you have been playing a New Game+ file with a completed Reborn savefile on your computer, you can complete a quest early. If you didn't choose Aevian Larvesta earlier nor got Rookidee in the Mystery Egg, you cannot proceed through this quest at this time, but will be able to complete it during the later expected time.
+
+Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar (available in the Chapter 1 New Game+ contents) fulfill this criteria. Note that both Rookidee and Larvesta are only available at this moment with great luck, so this event may not be accessible early even if you are doing NG+. 
+
+Back in Tyluric Temple, proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight. Grab the *Mirror Sprig* and *Venusaurite*!
+
+!boss("BOSSKECLEON", "Grassy Terrain")
+
+This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
+
+The devs even anticipated this sequence of events playing out early. I recommend evolving then breeding **Togetic**, but in any case, you can trade a Togepi to Talon in Kakori Village in exchange for a very early **Bagon**... holding the *Butterfreenite*! The Salamencite would make too much sense.
+
+[Jump Back](#magma-drift-exploration)
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:

@@ -20,6 +20,7 @@ class FunctionWrapper
     @itemHash = load_item_hash(game, @scriptsDir)
     @trainerHash = load_trainer_hash(game, @scriptsDir)
     @bossHash = load_boss_hash(game, @scriptsDir)
+    @shopHash = load_shop_hash(game, @scriptsDir)
     @trainerTypeHash = load_trainer_type_hash(game, @scriptsDir)
     @typeHash = load_type_hash(game, @scriptsDir)
     @moveHash = load_move_hash(game, @scriptsDir)
@@ -29,7 +30,7 @@ class FunctionWrapper
     @encMapWrapper = EncounterMapWrapper.new(game, @scriptsDir)
 
     @encGetter = EncounterGetter.new(game, @scriptsDir, @encHash, @mapHash, @encMapWrapper, @pokemonHash)
-    @shopGetter = ShopGetter.new(game, @scriptsDir, @itemHash)
+    @shopGetter = ShopGetter.new(game, @scriptsDir, @itemHash, @moveHash)
     @trainerGetter = TrainerGetter.new(game, @scriptsDir, @trainerHash, @bossHash, @trainerTypeHash, @itemHash, @moveHash, @abilityHash,
                                        @pokemonHash, @typeHash)
 
@@ -37,6 +38,7 @@ class FunctionWrapper
       'img' => 'generate_image_markdown',
       'enc' => 'generate_encounter_markdown',
       'shop' => 'generate_shop_markdown',
+      'cshop' => 'generate_cshop_markdown',
       'battle' => 'generate_trainer_markdown',
       'btsinglesboss' => 'generate_battle_tower_singles_bosses_markdown',
       'btdoublesboss' => 'generate_battle_tower_doubles_bosses_markdown',
@@ -267,6 +269,10 @@ class FunctionWrapper
     @shopGetter.generate_shop_markdown(shop_title, shop_items)
   end
 
+  def generate_cshop_markdown(shop_symbol, shop_name, badges = 0)
+    @shopGetter.generate_cshop_markdown(shop_symbol, shop_name, badges: badges)
+  end
+
   def generate_move_markdown(move_name)
     # Creates nokogiri HTML
     m = @moveHash[move_name.to_sym]
@@ -420,11 +426,14 @@ class FunctionWrapper
       @raidDenHash["Den#{den_num}"][rarity][num_badges].each do |mon, atts|
         content_row = doc.create_element('tr')
         tbody.add_child(content_row)
-        base_form = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[0]
-        pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
+
+        # Use actual_pokemon key for pokemonHash lookup (handles form variants like GALARSTUNFISK -> STUNFISK)
+        pokemon_lookup_key = atts[:actual_pokemon] || mon
+        base_form = @pokemonHash[pokemon_lookup_key].keys.find_all { |key| key.is_a?(String) }[0]
+        pokemon_name_formatted = @pokemonHash[pokemon_lookup_key][base_form][:name]
 
         if atts[:Form] != 0
-          form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[atts[:Form]]
+          form_key = @pokemonHash[pokemon_lookup_key].keys.find_all { |key| key.is_a?(String) }[atts[:Form]]
           pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
         end
         pokemon_name_formatted = "Shadow #{pokemon_name_formatted}"

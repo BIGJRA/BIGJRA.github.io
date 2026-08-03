@@ -16,7 +16,29 @@ This is a surprisingly tough battle thanks to Miltank. Once it paralyzes your Po
 - ... (Neutral)
 - I'm kinda scared... (Karrina -2)
 
-Enter the sewers, cutting trees along the way to reach the back room.
+## Cut Exploration
+
+In the interest of providing more options for the upcoming gym fights, we take a moment here to backtrack and explore with our new Cut HM / Golden Axe.
+
+Take the train back to Route 2. Above the artist's house, you can use Cut to find a *Mirror Sprig* plus: 
+
+**ZCell 013: Route 2**
+
+!img("zcell013.png")
+
+Cut the tree to the right, then go up the path. Three tiles below the left tile of the tree at the top of this landing is a hidden *Blue Shard*.
+
+Enter Amethyst Cave, and make your way to the top left of the entrance room. Exit to River's End, then cut the tree and head inside.
+
+!enc(433)
+
+Next, go to Sheridan Village and cut the tree next to the shop below to pick up *TM54 False Swipe*, and:
+
+**ZCell 014: Sheridan Village**
+
+!img("zcell014.png")
+
+This can be extremely helpful for catching Pokemon going forward. Return to Gearen, enter the sewers, cutting trees along the way to reach the back room.
 
 ## Chrysalis Manor
 
@@ -33,7 +55,7 @@ Answer the questions as you like. When you regain control, head upstairs and tal
 
 !partner(["Marianette",:LEADER_MARIANETTE,0])
 
-Talk to her in every room of the house for background info. Enter Indriad's room by talking to the maids guarding it.
+Talk to her in every room of the house for background info. In a room to the right, you can get the *Blessed Field Readout*! Enter Indriad's room by talking to the maids guarding it.
 
 He'll send you on three trials. Before we do that though, talk to the maid in the entry room and she'll give you a bonus trial we can do while completing the others.
 
@@ -76,7 +98,7 @@ Now follow the right path through the mansion. In the dining room, talk to Maria
 
 Exit to the right. If you hug the left wall and go through a secret passage, you'll see another inscription. This one says Password #2 is 3135. Head up and beat the second optional maid, Yara, hiding in the left corner.
 
-!battle(["Yara",:SERVANT,100], "Grassy Terrain")
+!battle(["Yara",:SERVANT,0], "Grassy Terrain")
 
 At the top, you need to navigate two pieces onto the colored tiles, but the buttons control both pieces. Carefully use the walls to your advantage to solve this one: 
 

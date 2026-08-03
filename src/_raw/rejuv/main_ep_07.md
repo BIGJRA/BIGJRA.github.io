@@ -4,7 +4,11 @@
 - Good morning? (Neutral)
 - Does it look like I'm okay? (-1 Aelita)
 
-Make your way down to Terajuma Beach. To the right, you can buy a *Casteliacone* for $100 (or 12 for $1000).
+Make your way down to Terajuma Beach. 
+
+!cshop(:HerbShop, "Herb Shop")
+
+You can also buy a *Casteliacone* for $100 (or 12 for $1000).
 
 Talk to Holly on the beach, then head to the stage area on the left side. Talk to the familiar musician on the right here, then to Holly again to end the festival.
 
@@ -30,7 +34,7 @@ It is worth noting that now that we've beaten Crawli, all the boat rides from Ka
 
 ## Aquamarine Cave
 
-Head into the Mynori Sea and go west onto Route 5. You'll see Dragonite here once again - it's lost its letters. One is straight to the left of it, one is straight above it, one is on a northeast island, and one is next to the entrance to Aquamarine Cave. Return them to get a *Shiny Stone*!
+Head into the Mynori Sea and go west onto Route 5. You'll see Dragonite here once again - it's lost its letters. One is straight to the left of it, one is straight above it, one is on a northeast island, and one is next to the entrance to Aquamarine Cave. Return them to get a *Shiny Stone* and *TM02 Dragon Claw*!
 
 Grab the hidden *Shoal Shell* and enter the Aquamarine Cave.
 
@@ -40,6 +44,8 @@ Grab the hidden *Max Repel*, *Elemental Seed*, and *Water Gem*. A guy to the rig
 
 !battle(["Fiona",:COOLTRAINER_F,0], "Crystal Cavern")
 
+There's a secret scene you can view here. (TODO: Requirements?)
+
 Continuing on, snag the hidden *Rock Gem* and *Synthetic Seed*.
 
 !battle(["Sami",:FISHERMAN,0], "Crystal Cavern")
@@ -48,7 +54,7 @@ Go surfing north and pick up the hidden *Exp. Candy M*. On the left, behind a mi
 
 Hidden in this room is *Shoal Salt*, *Shoal Shell*, and *Blue Shard*. Surf on the water and go up through the middle waterfall. Continue into the next room.
 
-You can find a hidden *Super Repel*, *Super Potion*, *GourmetTreat*, and *Green Shard*. Our objective is pushing the floating stones onto the lit up tiles. Push the five stones into place... as well as Braixen into place, to get the door to open.
+You can find a hidden *Super Repel*, *Super Potion*, *Gourmet Treat*, and *Green Shard*. Our objective is pushing the floating stones onto the lit up tiles. Push the five stones into place... as well as Braixen into place, to get the door to open.
 
 Hidden are *2 Water Gems*, *Red Shard*, and *Blue Shard*.
 
@@ -82,13 +88,13 @@ Inside this house, show a Psychic type (the Oranguru) to a person at the top rig
 
 Outside, go left. Grab the *Elixir* and hidden *Rawst Berry*, *Water Gem*, and *Blue Shard*. At the bottom, there are some shops:
 
-!shop("Teila Resort (Top)", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Burn Heal", "GourmetTreat", "Super Repel", "Max Repel", "Reverse Candy"])
+!shop("Teila Resort (Top)", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Burn Heal", "Gourmet Treat", "Super Repel", "Max Repel", "Reverse Candy"])
 
 !shop("Teila Resort (Middle)", ["Apophyll Pancakes", "Tart Apple", "Sweet Apple"])
 
 The bottom vendor sells *Berry Juice* for $1000.
 
-Above, to the left, you'll see a Noctowl Statue to activate for fast travel. Reenter the building at the top of Teila Resort. Show your fighting type (Passimian?) to a guy inside to get a *Muscle Band*. Head upstairs and enter the room on the right:
+Above, to the left, you'll see a Noctowl Statue to activate for fast travel. Reenter the building at the top of Teila Resort. Show your fighting type (Passimian?) to a guy inside to get a *Muscle Band*. Head upstairs and enter the room on the right to get the *Silk Scarf*, and:
 
 **ZCell 059: Teila Resort**
 
@@ -135,7 +141,7 @@ Talk to the man in here, then surf to the left side of the room and use Rock Cli
 
 !img("zcell060.png")
 
-Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Stone* and *TM104 Deluge*. To the left you'll find a hidden *Resist Wing* in the water. 
+Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Stone*, a *Mirror Sprig*, and *TM104 Deluge*. To the left you'll find a hidden *Resist Feather* in the water. 
 
 Go south, back through Aquamarine Cave, and return to Teila Resort and go to Tesla's Office.
 
@@ -271,7 +277,9 @@ In the villa, talk to Crawli.
 - Let's take her down. (+2 Melia, +3 Venam, +2 Aelita, +4 Crawli, +4 Adam, +2 Valarie, +2 Braixen)
 - I'd rather not... (-2 Melia, -3 Venam, -1 Aelita, -2 Valarie, -4 Adam, -4 Crawli, -2 Braixen)
 
-Once you're in Frozen Kakori Village, get the hidden *Super Repel* to the left. There are *4 Yache Berries* in the southeast corner. Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in the Mynori Sea, then take the Kakori Noctowl over to Teila Resort. Enter the villa and talk to the crew.
+Once you're in Frozen Kakori Village, get the hidden *Super Repel* to the left. 
+
+Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in the Mynori Sea, then take the Kakori Noctowl over to Teila Resort. Enter the villa and talk to the crew.
 
 *Special Scene: Valarie's Insecurity* requires 6+ Relationship Points with both Valarie and Adam at this point.
 
@@ -281,9 +289,11 @@ Before we continue the story, we got sidequests and exploration to do!
 
 First, add something to your party with Headbutt. Surf over to the Jirukala Cavern to the north of Mynori Sea. Rock Climb to the left and go up.
 
-!enc(211)
+!enc(211, "Grass")
 
-In the trees here, you can headbutt! You have an 11% chance each to get *3 Oran Berries*, *3 Sitrus Berries*, or *3 Leppa Berries*, but also an 11% chance to get **Greedent**, 22% chance to get Skwovet, and 33% chance to get **Applin**! Grab the *Modest Mint* and *TM133 Mud Shot*. That's all we can do here for now.
+In the trees here, you can headbutt! You have an 11% chance each to get *3 Oran Berries*, *3 Sitrus Berries*, or *3 Leppa Berries*, but also an 11% chance to get **Greedent**, 22% chance to get Skwovet, and 33% chance to get **Applin**! 
+
+Grab the hidden *Revive*, 2 *Rowap Berries*, *Jaboca Berry*, *Kee Berry*, and a *Green Shard* on this side of the river, and the hidden *Jaboca Berry*, the *Modest Mint* and *TM133 Mud Shot* on the other. That's all we can do here for now.
 
 Make your way next to Jynnobi Pass. Talk to the girl on the southern balcony to give her *A Souvenir For Mom*. She'll give us the *Fighting Memory* as well as:
 
@@ -303,11 +313,9 @@ Winning awards you a *Star Shard*!
 
 The Poke Ball store has added wares.
 
-!shop("Poke Ball Boutique (5 Badges)", ["Heavy Ball", "Moon Ball", "Love Ball", "Fast Ball", "Nest Ball", "Net Ball", "Timer Ball", "Dive Ball", "Friend Ball"])
+!cshop(:BallEmporium, "Poke Ball Emporium (6 Badges)", 6)
 
 I recommend taking another trip to the AP shop. If you haven't gotten the Exp. All or the Golden Axe, Hammer, Surfboard, and Claws, do so ASAP. On deck will be the Golden Driftboard and the Golden Gauntlet.
-
-Take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda we got.
 
 Take the truck to Goldenleaf, enter Wispy Tower, and talk to Sariah. She'll give us 3 *Ethers* and start us on a quest for later on. 
 
@@ -321,15 +329,15 @@ Back in the chasm, head towards the middle, then go down to get a *Rare Candy* a
 
 !battle(["Kain",:BLACKBELT,0], "Haunted Field")
 
-Surf across up above to get to another gate. Step on the tile, then head in to and get Griselda's Treasure 3: a *Shiny Stone*!
+Surf across up above to get to another gate. Step on the tile, then head in to and get Griselda's Treasure 3: a *Shiny Stone* and the *Whiscash Crest*!
 
-Head back up the ivy, enter the room on the right, and go down this ivy. There is a hidden *Yellow Shard*, *Ghost Gem*, and *Reverse Candy*. Grab the *Poke Doll* when you go down. We can't open any more doors for now, so exit the ruins. 
+Head back up the ivy, enter the room on the right, and go down this ivy. There is a hidden *Yellow Shard*, *Ghost Gem*, and *Reverse Candy*. Grab the *Poke Doll* when you go down. There is also a **Gimmighoul** down here! Catch or defeat it to get *100 Gimmighoul Coins*!
 
 Make your way back to Akuwa Town. Enter Evergreen Forest and climb the rocks to get an *Icy Rock* and *TM32 Double Team*!
 
 ## Amethyst Depths
 
-Take the truck to Sheridan Village and enter Amethyst Cave. In the second room, Rock Climb down. Talk to April, then activate Amethyst Power Supply Panel 3 to the right. Grab the hidden *Rock Gem*, *Steel Gem,* and *Water Gem*, then follow her left.
+Take the truck to Sheridan Village and enter Amethyst Cave. In the second room, Rock Climb down. Talk to April, then activate Amethyst Power Supply Panel 3 to the right. Grab the hidden *Rock Gem*, *Steel Gem*, and *Water Gem*, then follow her left.
 
 **ZCell 065: Amethyst Cave**
 
@@ -355,7 +363,7 @@ Grab the *Moon Dial* and activate Amethyst Power Supply Panel 5 here, then head 
 
 Grab hidden *Rock Gem*, *Super Repel*, and *Ether*.
 
-Talk to the ex-Xen Grunt in the open area. Head down the ladder here and activate Amethyst Power Supply Panel 6 on the right.
+Talk to the ex-Xen Grunt in the open area. Head down the ladder here, pickup the *Crystal Cavern Field Readout*, and activate Amethyst Power Supply Panel 6 on the right.
 
 Head down and rock climb down from here. We're gonna need to smash the crystals in this new area somehow: the wild Geodude have Magnitude and can do it, alternatively, if you have the Bulldoze TM, then you can use that. Once you succeed, head down to the bottom of this area and interact with this crystal for a chance to catch **Aevian Lapras!**
 
@@ -369,17 +377,15 @@ The Tailwind makes this otherwise somewhat slow team outspeed you, but stalling 
 
 !boss("RIFTCHANDELURE", "Mountain Field")
 
-With three shields, it takes a lot to defeat Rift Chandelure. It has an insane Special Attack stat, with Shadow Ball and Air Slash consistently and a different special STAB at each phase. Since it recovers stat changes at each stage, status conditions are especially key here. With only 99 HP and 69 Def its physical bulk is nothing to write home about - with a new held gem at each phase, I recommend going the fully powered Knock Off. You also have the power of 'cheese' in your pocket thanks to the Trace ability - at each phase you can brick it with a harmful ability like Truant! 
+With three shields, it takes a lot to defeat Rift Chandelure. It has an insane Special Attack stat, with Shadow Ball and Air Slash consistently and a different special STAB at each phase. Since it recovers stat changes at each stage, status conditions are especially key here. With only 99 HP and 69 Def its physical bulk is nothing to write home about - with a new held gem at each phase, I recommend going the fully powered Knock Off. You also have the power of 'cheese' in your pocket thanks to the Trace ability - at each phase you can brick it with a harmful ability like Truant! One other note is that, while this is a gauntlet, you can lose to Chandelure and future attempts will allow you to skip the Nancy fight.
 
-Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Hidden around here is a *Rare Candy*, *Elixir*, *Iron*, and *Resist Wing*.
-
-At night, you'll find:
+Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Grab the *Sky Field Readout*. Hidden around here is a *Rare Candy*, *Elixir*, *Iron*, and *Resist Feather*.
 
 **ZCell 066: Cliffside Grave**
 
 !img("zcell066.png")
 
-Interact with the grave at the top and insert the Cursed Candle we got a while ago to obtain **Litwick**!
+Interact with the grave at the top and insert the Cursed Candle we got a while ago to obtain **Litwick** and the *Chandelurite*!
 
 With that, return to the room where April is, two maps away from Sheridan. Talk to April. She'll give us the *Phase Dial*! Head in and go up.
 
@@ -409,7 +415,7 @@ To progress the story, take the submarine from Mynori Sea. Follow the path throu
 
 Go up now. You'll awaken in the Tower of Theolia. There is a butterfly that can warp you to Teila Resort if you need to exit for any reason.
 
-!shop("Tower of Theolia", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "GourmetTreat", "Super Repel", "Max Repel", "Reverse Candy"])
+!shop("Tower of Theolia", ["Poke Ball", "Great Ball", "Super Potion", "Full Heal", "Antidote", "Ice Heal", "Paralyze Heal", "Gourmet Treat", "Super Repel", "Max Repel", "Reverse Candy"])
 
 Enter the tower. 
 
@@ -448,7 +454,7 @@ Reenter the Cellar. It is now frozen, so you can slide around. Follow the first 
 
 !battle(["Nadia",:SERVANT,0], "Frozen Dimensional Field")
 
-Continue right, then emerge back in the icy area. Sliiiiiiide to the right to get *NeverMeltIce*. To the right again is an *Herbal Tea* and hidden *Max Repel*
+Continue right, then emerge back in the icy area. Sliiiiiiide to the right to get *NeverMeltIce*. To the right again is an *Herbal Tea* and hidden *Max Repel*.
 
 Slide your way through the gap at the bottom of the room. Grab the *Fluffy Tail* and talk to the girl for an *Ability Capsule*. Hidden here, and going left is a *Max Repel*, *Ultra Potion*, *Yellow Shard*, *Blue Shard*, and *Rare Candy*. In the bottom left pick up the *Black Prism* and another hidden *Rare Candy*, then smash the wall to get a *Rash Mint* and *3 Exp. Candy L*.
 
@@ -458,7 +464,7 @@ On the right side of the room, get hidden *Green Shard* and *Revive* and pick up
 
 !img("zcell069.png")
 
-Head back up from the previous room. In this central hub, go right next. Get the hidden *Ice Gem* and pick up the *Ice Heal*. That's all for the cellar area right now, so head back up the tower to where we left off.
+Head back up from the previous room. In this central hub, go right next. Get the hidden *Ice Gem* and pick up the *Ice Heal*. Finally, up and left from here you can find the *Frozen Dimensional Field Readout* and *TM111 Aurora Veil*. That's all for the cellar area right now, so head back up the tower to where we left off.
 
 We next have to solve a series of complicated mirror puzzles. The steps you'll need to take:
 

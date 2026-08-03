@@ -23,7 +23,7 @@ Open the box with Melia and Erin. Head south from Route 9 into GDC's Scholar Dis
 
 Using the itemfinder around this district, you'll find a *Blue Shard*, *Hyper Potion*, *Super Potion*, *Green Shard*, *Ether*, *Max Repel*, *Sitrus Berry*, *Casteliacone*, *Lemonade*, and *Honey*.
 
-Enter the Fan Club. Depending on your GDC reputation, you'll get items at this table. I had 660 at this point and was able to get the items: *10 Exp. Candy XL*, *TM68 Giga Impact*, *GourmetTreat*, and *5 Black Prisms*.
+Enter the Fan Club. Depending on your GDC reputation, you'll get items at this table. I had 660 at this point and was able to get the items: *10 Exp. Candy XL*, *TM68 Giga Impact*, *Gourmet Treat*, and *5 Black Prisms*.
 
 Down and to the left outside is the GDC Arcade.
 
@@ -112,11 +112,11 @@ Stay on top of the roof and go down and around to the right. Talk to the man her
 
 !img("zcell115.png")
 
-In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *GourmetTreat*. To the left is a hidden *Lemonade*.
+In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *Gourmet Treat*. To the left is a hidden *Lemonade*.
 
 To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below.
 
-!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "GourmetTreat", "Reverse Candy"])
+!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
 
 ### Zorrialyn Desert (Don't Expose Flora Route)
 
@@ -286,11 +286,11 @@ Stay on top of the roof and go down and around to the right. Talk to the man her
 
 !img("zcell115.png")
 
-In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *GourmetTreat*. To the left is a hidden *Lemonade*.
+In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *Gourmet Treat*. To the left is a hidden *Lemonade*.
 
 To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below. Grab the hidden *HP Up* below.
 
-!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "GourmetTreat", "Reverse Candy"])
+!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
 
 Re-enter the school area to the north of the battlefield on the east side to talk to Ren and Ryland.
 
@@ -406,7 +406,7 @@ Enter the first building to the right to grab a hidden *Ultra Potion*. At the ea
 
 !shop("Hiyoshi City Berries", ["Sitrus Berry", "Chesto Berry"])
 
-!shop("Hiyoshi City Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "GourmetTreat", "Reverse Candy", "Super Repel", "Max Repel"])
+!shop("Hiyoshi City Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "Gourmet Treat", "Reverse Candy", "Super Repel", "Max Repel"])
 
 !tutor("Hiyoshi City Move Tutor", [["Sky Attack", "3 Red Shards"], ["Skill Swap", "2 Green Shards"], ["Magnet Rise", "2 Yellow Shards"], ["Gravity", "2 Blue Shards"], ["Recycle", "2 Green Shards"]])
 
@@ -616,7 +616,7 @@ Grab the *Hyper Potion* up here. Hidden in this first room is *2 Yellow Shards*,
 
 In order to proceed in the cave, we need a bit of luck: there needs to be stationary Hippopotas roaming the first floor. Exit and re-enter until this condition is met. 
 
-Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here! Jump into the vortex in the sand pit to reach B2F. Grab the *Revive* here on B2F and find a hidden *Red Shard*, then another *Revive* and hidden *Green Shard* and *Rare Candy* past some Rock Climbs. In the center of the room is a hidden *Light Clay*. Grab the *Full Heal*, hidden *Burn Heal*, *Clever Wing*, and *Genius Wing* along the way, plus a *Moon Ball* in the southeast. Take the central vortex to B3F!
+Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here! Jump into the vortex in the sand pit to reach B2F. Grab the *Revive* here on B2F and find a hidden *Red Shard*, then another *Revive* and hidden *Green Shard* and *Rare Candy* past some Rock Climbs. In the center of the room is a hidden *Light Clay*. Grab the *Full Heal*, hidden *Burn Heal*, *Clever Feather*, and *Genius Feather* along the way, plus a *Moon Ball* in the southeast. Take the central vortex to B3F!
 
 !enc(514)
 
@@ -767,7 +767,7 @@ The last 10 Pokemon we will donate later on.
 
 ## Neo East Gearen City & Help Quests
 
-Fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a GourmetTreat to get **Litten**! Exit east to the now "Neo" East Gearen City.
+Fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a Gourmet Treat to get **Litten**! Exit east to the now "Neo" East Gearen City.
 
 There are new trainers to fight and items on each map.
 
@@ -781,7 +781,7 @@ There are new trainers to fight and items on each map.
 
 !battle(["Lacey",:LASS,2], "City Field")
 
-On this map you can find hidden items: *GourmetTreat*, *Yellow Shard*, *Resist Wing*, *Elemental Seed*, *Super Potion*, *Red Shard*, and *2 Grass Gems*. 
+On this map you can find hidden items: *Gourmet Treat*, *Yellow Shard*, *Resist Feather*, *Elemental Seed*, *Super Potion*, *Red Shard*, and *2 Grass Gems*. 
 
 There are some move tutors in the bottom left side of the map.
 
@@ -807,13 +807,13 @@ Head to Neo East Gearen City (Right).
 
 !battle(["Denko",:HIKER,2], "City Field")
 
-On this map you can find hidden *Resist Wing*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. At the bottom of the map by Karrina's HQ is a *Reverse Candy*.
+On this map you can find hidden *Resist Feather*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. At the bottom of the map by Karrina's HQ is a *Reverse Candy*.
 
 Enter Gearen Park below.
 
 !enc(571, nil, nil, "Neo Gearen Park")
 
-Hidden here is *2 Honeys*, *Leaf Stone*, *Carbos*, *Muscle Wing*, *Blue Shard*, and *Yellow Shard*.
+Hidden here is *2 Honeys*, *Leaf Stone*, *Carbos*, *Muscle Feather*, *Blue Shard*, and *Yellow Shard*.
 
 Catch a Level 100 Budew (or catch one that is close, and use Rare Candies). Then, show it to the guy at the bottom to get the *Grassium-Z*.
 
@@ -1019,7 +1019,7 @@ Next, fly to Rose Theater and use the Time Splicer Stone.
 
 !enc(240, ["Fishing"], ["Super"])
 
-!enc(106, ["Fishing"], ["Super"])
+TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"]) : enc(106, ["Fishing"], ["Super"])
 
 Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
 
@@ -1027,7 +1027,7 @@ Head to Sheridan Village in the past, then cut down the pink sapling in front of
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
-**ZCell 125: Route Z (Nighttime Only)**
+**ZCell 125: Route Z**
 
 !img("zcell125.png")
 
@@ -1067,13 +1067,13 @@ Head all the way to the Tyluric Temple.
 
 !enc(179, ["Fishing"], ["Super"])
 
-Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight.
+Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs. Grab the *Mirror Sprig* and *Venusaurite*!
 
 !boss("BOSSKECLEON", "Grassy Terrain")
 
 This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
 
-Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a GourmetTreat.
+Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a Gourmet Treat.
 
 Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island.
 
@@ -1141,7 +1141,7 @@ When you're ready, hop on the Route 9 train headed to the Tournament Stadium. En
 
 There is an *Ultra Potion* and *Revival Herb* here. Head in and talk to Erin.
 
-!shop("GDC Tournament Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "GourmetTreat", "Reverse Candy", "Repel", "Super Repel", "Max Repel"])
+!shop("GDC Tournament Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "Gourmet Treat", "Reverse Candy", "Repel", "Super Repel", "Max Repel"])
 
 Register for the tournament and head in. Enter the door on the left and pick your trio of Pokemon.
 

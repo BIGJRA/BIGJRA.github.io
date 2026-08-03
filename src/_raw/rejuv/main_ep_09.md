@@ -270,7 +270,7 @@ There's a woman selling *Blast Powder* for $25000. It's pretty expensive, but th
 
 !battle(["Sarudo",:KIMONOGIRL,0], "City Field")
 
-Use your Itemfinder all around the city. You'll find a *Telluric Seed*, *Yellow Shard*, *2 Max Repels*, *Dusk Stone*, *Float Stone*, *Green Shard*, *Zinc*, *Muscle Wing*, *Red Shard*, and *GourmetTreat*.
+Use your Itemfinder all around the city. You'll find a *Telluric Seed*, *Yellow Shard*, *2 Max Repels*, *Dusk Stone*, *Float Stone*, *Green Shard*, *Zinc*, *Muscle Feather*, *Red Shard*, and *Gourmet Treat*.
 
 Cut the upper left tree to get *TM21 Frustration*!
 
@@ -314,7 +314,7 @@ Head outside and enter the Junction Bridge from the left.
 
 Head over to East Gearen City from here. A store has new wares:
 
-!shop("Berry Emporium (5 Badges)", ["Oran Berry", "Pecha Berry", "Rawst Berry", "Chesto Berry", "Cheri Berry", "Aspear Berry", "Sitrus Berry", "Occa Berry"])
+!cshop(:BerryEmporium, "Berry Emporium (8 Badges)", 8)
 
 This means we can now easily complete the trades on the Isle of Angels for Deepseatooth and Deepseascale.
 
@@ -330,7 +330,7 @@ This quest is only available if you have freed Dufaux: it is a continuation of t
 
 Start at the power plant on the north side and talk to Gabriel. Head inside to see what's happened. Carefully sneak to the left and into the generator room. Save and use F12 if you get spotted to reduce the backtracking.
 
-Make your way to the generator room and watch all the events unfold. Narcissa will leave for Goldenleaf Town. Take the truck there, then talk to young Narcissa. Grab something from the PC with either Dark Pulse or Night Daze: the Lv. 50 Spiritomb we caught earlier comes with the former. Anyways, once Narcissa leaves, head over to Phasial Cave on Route 3. Towards the left side of the area, you can Rock Climb to reach a ladder we haven't gone down yet. Talk to young Narcissa down here, then use your Dark-type move to transform the field. Talk to her at the top once more, then grab the *Ability Capsule* to the right.
+Make your way to the generator room and watch all the events unfold. Narcissa will leave for Goldenleaf Town. Take the truck there, then talk to young Narcissa. As we did earlier: grab something from the PC with either Dark Pulse or Night Daze (try Spiritomb). Anyways, once Narcissa leaves, head over to Phasial Cave on Route 3. Towards the left side of the area, you can Rock Climb to reach a ladder we haven't gone down yet. Talk to young Narcissa down here, then use your Dark-type move to transform the field. Talk to her at the top once more, then grab the *Ability Capsule* to the right.
 
 That's all we can do for this quest, for now, so return to West Gearen. Claim your reward at the Help Center: $3500. We can now access the generator room in the Power Plant whenever we want: it houses *TM64 Explosion* and the *Electric Memory*. Note that we can evolve electrical-location-based Pokemon here: Nosepass and Magneton.
 

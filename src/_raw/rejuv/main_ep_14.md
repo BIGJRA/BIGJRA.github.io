@@ -266,9 +266,9 @@ Surface, then go straight down and dive in the blob-shaped dive spot. Down here 
 
 Fly back to Evergreen Island (to save a few seconds of surfing) and surf right, then down. You'll find a 2x2 square to go down, where you'll find the tallest pillar. Interact with it to activate it with the Enigmatic Key.
 
-Surface, and dive down in the main area of Route 11. This gargantuan area has lots of hidden items, including *4 Blue Shards*, *Revive*, *GourmetTreat*, *3 Heart Scales*, *Pearl*, *Sea Incense*, *Ultra Potion*, *Max Repel*, *Nugget*, *Dive Ball*, and *Green Shard*. Anyways, towards the southwest area of the map, you'll find a small 2x2 square to surface. Do so to grab *TM33 Reflect* and:
+Surface, and dive down in the main area of Route 11. This gargantuan area has lots of hidden items, including *4 Blue Shards*, *Revive*, *Gourmet Treat*, *3 Heart Scales*, *Pearl*, *Sea Incense*, *Ultra Potion*, *Max Repel*, *Nugget*, *Dive Ball*, and *Green Shard*. Anyways, towards the southwest area of the map, you'll find a small 2x2 square to surface. Do so to grab *TM33 Reflect* and:
 
-**ZCell 133: Route 11 (Nighttime Only)**
+**ZCell 133: Route 11**
 
 !img("zcell133.png")
 

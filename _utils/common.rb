@@ -7,7 +7,7 @@ UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
-VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "13.5.6", 'deso' => "6.0.13" }
+VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "14.0.15", 'deso' => "6.0.13" }
 
 LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation', 'deso' => 'desolation'}
 
@@ -461,18 +461,33 @@ def set_to_range_string(integers_set)
   ranges.map { |range| range.size > 1 ? "#{range.first}-#{range.last}" : range.first.to_s }.join(', ')
 end
 
+def file_path(game, scripts_dir, file_name)
+  game_dir = game.capitalize
+  if game_dir == "Deso"
+    game_dir = "Pokemon Desolation"
+  end
+
+  primary = File.join(scripts_dir, game_dir, file_name)
+  return primary if File.exist?(primary)
+
+  fallback = File.join(scripts_dir, game_dir, "Definitions", file_name)
+  return fallback if File.exist?(fallback)
+
+  raise "Could not find #{file_name} in #{game_dir} or #{game_dir}/Definitions"
+end
+
 def load_item_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'itemtext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'itemtext.rb'))
   eval(data)
 end
 
 def load_enc_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'enctext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'enctext.rb'))
   eval(data)
 end
 
 def load_trainer_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'trainertext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'trainertext.rb'))
   base_hash = eval(data)
   ret = {}
   base_hash.each do |trainer_hash|
@@ -483,37 +498,72 @@ end
 
 def load_boss_hash(game, scripts_dir)
   return {} if game != "rejuv"
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'BossInfo.rb'))
-  return eval(data)
+  # data = File.read(file_path(game, scripts_dir, 'BossInfo.rb'))
+  data = File.read(file_path(game, scripts_dir, 'bosstext.rb'))
+  eval(data)
 end
 
+def load_shop_hash(game, scripts_dir)
+  return {} unless game == 'rejuv'
+
+  path = file_path(game, scripts_dir, 'marttext.rb')
+  data = File.read(path)
+
+  mart_context = Module.new
+
+  mart_context.const_set(
+    :ItemStock,
+    ParsedStockFactory.new(:item)
+  )
+
+  mart_context.const_set(
+    :MoveStock,
+    ParsedStockFactory.new(:move)
+  )
+
+  mart_context.const_set(
+    :CurrencyStock,
+    ParsedStockFactory.new(:currency)
+  )
+
+  mart_context.const_set(
+    :PokemonStock,
+    ParsedStockFactory.new(:pokemon)
+  )
+
+  mart_context.module_eval(data, path)
+
+  mart_context.const_get(:MARTHASH)
+end
+
+
 def load_trainer_type_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'ttypetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'ttypetext.rb'))
   eval(data)
 end
 
 def load_type_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'typetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'typetext.rb'))
   eval(data)
 end
 
 def load_ability_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'abiltext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'abiltext.rb'))
   eval(data)
 end
 
 def load_move_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'movetext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'movetext.rb'))
   eval(data)
 end
 
 def load_pokemon_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'montext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'montext.rb'))
   eval(data)
 end
 
 def load_field_hash(game, scripts_dir)
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'fieldtext.rb'))
+  data = File.read(file_path(game, scripts_dir, 'fieldtext.rb'))
   eval(data)
 end
 
@@ -548,7 +598,14 @@ end
 
 def load_maps_hash(game, scripts_dir)
   ret = {}
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'metatext.rb'))
+
+  # metatext map info was moved to maptext.rb, deprecate this clause later
+  if File.exist?(File.join(scripts_dir, game.capitalize, "Definitions", 'maptext.rb'))
+    data = File.read(File.join(scripts_dir, game.capitalize, "Definitions", 'maptext.rb'))
+  else 
+    data = File.read(file_path(game, scripts_dir, 'metatext.rb'))
+  end
+
   lines = data.split("\n")
 
   lines.each_with_index do |line, index|
@@ -566,6 +623,8 @@ def load_maps_hash(game, scripts_dir)
   end
   ret
 end
+
+
 
 def load_pickup_data(game, scripts_dir)
   file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'SystemConstants.rb'))
@@ -640,17 +699,28 @@ end
 
 def load_raid_den_hash(game, scripts_dir)
   return {} if game != "rejuv"
-  data = File.read(File.join(script_sub_dir(scripts_dir, game), 'RaidDens.rb'))
-
-  mon_info = {}
-  dens = {}
-  current_den = nil
-  current_rarity = nil
-  current_badge = nil
-  current_pokemon = nil
-
-  found_encounter_block = false
-
+  
+  # Load required files in dependency order
+  data_objects_path = File.join(scripts_dir, 'DataObjects.rb')
+  custom_objects_path = File.join(scripts_dir, game.capitalize, 'CustomDataObjects.rb')
+  den_path = file_path(game, scripts_dir, File.join('Definitions', 'dentext.rb'))
+  den_enc_path = file_path(game, scripts_dir, File.join('Definitions', 'denenctext.rb'))
+  
+  # Read all required files
+  data_objects_code = File.exist?(data_objects_path) ? File.read(data_objects_path) : ""
+  custom_objects_code = File.exist?(custom_objects_path) ? File.read(custom_objects_path) : ""
+  den_code = File.exist?(den_path) ? File.read(den_path) : ""
+  den_enc_code = File.exist?(den_enc_path) ? File.read(den_enc_path) : ""
+  
+  # Combine in dependency order
+  combined_code = data_objects_code + "\n\n" + custom_objects_code + "\n\n" + den_code + "\n\n" + den_enc_code
+  
+  # Evaluate to get DENHASH and DENENCHASH
+  eval(combined_code)
+  denhash = DENHASH
+  denenchash = DENENCHASH
+  
+  # Badge to level mapping (consistent with old format)
   badge_levels = {
     4 => 35,
     8 => 50,
@@ -658,80 +728,92 @@ def load_raid_den_hash(game, scripts_dir)
     16 => 80,
     18 => 95
   }
-
-
-  data.each_line do |line|
-    # Check if we are in the encounterTable function
-    if line.include?("encounterTable")
-      found_encounter_block = true
-      next
-    end
-
-    if !found_encounter_block
-      # Processing denEncounters function
-
-      # Match Pokémon definitions
-      if line =~ /:\s*(?<pokemon>\w+)\s*=>\s*{/  # Ensure to match the opening brace
-        current_pokemon = $~[:pokemon].to_sym
-        mon_info[current_pokemon] ||= {}  # Initialize a new hash for this Pokémon
-
-      elsif current_pokemon && line =~ /:(?<att>\w+)\s*=>\s*(?<values>.*?)(?:,\n|\n)/m # Only process attributes if a Pokémon has been defined
-        att_name = $~[:att].to_sym
-        values = eval($~[:values].strip)
-
-        # Assign the attribute to the current Pokémon's hash
-        mon_info[current_pokemon][att_name] = values
-      end
-
-    elsif found_encounter_block
-      # Processing encounterTable function
-
-      # Match den definitions
-      break if line =~ /when "Beldum"/ 
-      if line =~ /when\s+"(?<den>Den\d+)(Rare)?"/
-        current_den = $~[:den]
-        current_rarity = line.include?("Rare") ? :rare : :common
-        dens[current_den] ||= { common: {}, rare: {} }
-      end
-
-      # Match game switch lines
-      if line =~ /\$game_switches\[:Gym_(\d+)\]/
-        current_badge = $1.to_i
-        dens[current_den][current_rarity][current_badge] ||= {}
-      end
-
-      # Match encounter lines
-      if line =~ /:(?<pokemon>\w+)\s*=>\s*{/
-        current_pokemon = $~[:pokemon].to_sym
-        dens[current_den][current_rarity][current_badge][current_pokemon] ||= mon_info[current_pokemon]
-        dens[current_den][current_rarity][current_badge][current_pokemon][:level] = badge_levels[current_badge]
-        if current_pokemon == :BELDUM
-          dens[current_den][current_rarity][current_badge][current_pokemon][:level] = 20
-        end
-      end
-
-      if line =~ /:weight => (?<weight>.*)\n/
-        dens[current_den][current_rarity][current_badge][current_pokemon][:weight] = eval($~[:weight]) 
+  
+  # Convert RaidDen objects to the expected format
+  dens = {}
+  
+  denhash.each do |den_key, raid_den|
+    den_name = den_key.to_s
+    
+    # Determine if this is a rare den
+    is_rare = den_name.include?('Rare')
+    base_den_name = den_name.sub(/Rare$/, '')
+    
+    # Initialize the den structure
+    dens[base_den_name] ||= { common: {}, rare: {} }
+    rarity_key = is_rare ? :rare : :common
+    
+    # Process each table (badge level)
+    raid_den.encounters.each do |badge_id, encounter_list|
+      # Convert badge_id symbol to number
+      badge_num = case badge_id
+                  when :Gym_4 then 4
+                  when :Gym_8 then 8
+                  when :Gym_12 then 12
+                  when :Gym_16 then 16
+                  when :Gym_18 then 18
+                  else
+                    # Handle case where badge_id might already be a number or true
+                    badge_id.is_a?(Integer) ? badge_id : nil
+                  end
+      
+      next if badge_num.nil?
+      
+      dens[base_den_name][rarity_key][badge_num] ||= {}
+      
+      # Process each encounter
+      encounter_list.each do |encounter_hash|
+        pokemon_key = encounter_hash[:encounter]
+        weight = encounter_hash[:weight] || 1.0
+        
+        # Look up encounter data from denenctext
+        enc_data = denenchash[pokemon_key] || {}
+        
+        # Resolve to actual species if this is an alternate form
+        actual_pokemon = enc_data[:species] || pokemon_key
+        
+        # Extract moves - convert symbols to move IDs
+        moves = (enc_data[:moves] || []).map { |m| m.is_a?(Symbol) ? m : m }
+        
+        # Extract form - use species if it's an alternate form
+        form = enc_data[:form] || 0
+        
+        # Extract shiny chance
+        shiny_chance = enc_data[:shinyChance] || 0
+        
+        # Build the attributes hash
+        attributes = {
+          weight: weight,
+          level: badge_levels[badge_num] || 95,
+          Form: form,
+          Ability: nil,           # Not in denenctext - will be filled by pokemon data if available
+          ShinyChance: shiny_chance,
+          Moves: moves,
+          actual_pokemon: actual_pokemon  # Store the actual pokemon key for later lookup
+        }
+        
+        dens[base_den_name][rarity_key][badge_num][actual_pokemon] = attributes
       end
     end
   end
-
+  
+  # Calculate odds for each encounter
   dens.each do |den, rarities|
     rarities.each do |rarity, badges|
       badges.each do |badge, pokemons|
-        total_weight = pokemons.values.map { |p| p[:weight] || 0 }.sum
-
+        total_weight = pokemons.values.map { |p| p[:weight] || 1.0 }.sum
+        
         pokemons.each do |pokemon, attributes|
           if total_weight > 0
-            # Calculate odds as a percentage and format to 2 decimal places
             attributes[:odds] = ((attributes[:weight] / total_weight.to_f) * 100).round(2)
           else
-            attributes[:odds] = 0.0  # Handle case where total_weight is zero
+            attributes[:odds] = 0.0
           end
         end
       end
     end
   end
+  
   dens
 end
 
@@ -791,6 +873,65 @@ class EncounterMapWrapper
 
   def parse_map_numbers(pokemon_numbers)
     pokemon_numbers.scan(/\d+/).map(&:to_i)
+  end
+end
+
+class ParsedMartStock
+  attr_reader :stock_type,
+              :item,
+              :quantity,
+              :cost,
+              :currency,
+              :properties_hash
+
+  def initialize(stock_type, item, quantity = 1)
+    @stock_type = stock_type
+    @item = item
+    @quantity = quantity || 1
+    @cost = nil
+    @currency = nil
+    @properties_hash = {}
+    @limited = false
+    @premier_ball_bonus = true
+  end
+
+  def costs(amount, currency = nil)
+    @cost = amount
+    @currency = currency
+    self
+  end
+
+  def properties(properties = {})
+    @properties_hash.merge!(properties)
+    self
+  end
+
+  def limit(*_args)
+    @limited = true
+    self
+  end
+
+  def limited?
+    @limited
+  end
+
+  def noPremierBallBonus
+    @premier_ball_bonus = false
+    self
+  end
+
+  def premier_ball_bonus?
+    @premier_ball_bonus
+  end
+end
+
+class ParsedStockFactory
+  def initialize(stock_type)
+    @stock_type = stock_type
+  end
+
+  def of(item, quantity = 1)
+    ParsedMartStock.new(@stock_type, item, quantity)
   end
 end
 

@@ -2,7 +2,8 @@ require_relative 'common'
 require 'set'
 
 class TrainerGetter
-  attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash
+  attr_accessor :game, :trainer_hash, :trainer_type_hash, :item_hash, :move_hash, :ability_hash, :pokemon_hash, :stats
+
 
   def initialize(game, scripts_dir, trainer_hash = nil, boss_hash = nil, trainer_type_hash = nil, item_hash = nil, move_hash = nil, ability_hash = nil,
                  pokemon_hash = nil, type_hash = nil)
@@ -16,6 +17,7 @@ class TrainerGetter
     @pokemonHash = pokemon_hash ||= load_pokemon_hash(@game, @scriptsDir)
     @typeHash = type_hash ||= load_type_hash(@game, @scriptsDir)
     @trainerStore = Set[]
+    @stats = ["HP", "Atk", "Def", "SpA", "Spd", "Spe"]
   end
 
   def generate_trainer_markdown(trainer_id, field = nil, second_trainer_id = nil, type_mod = 0, name_ext = '')
@@ -48,6 +50,15 @@ class TrainerGetter
     end
     shield_break_details = []
 
+
+    # Handles trainers with :baseTeam attr. Reuses one trainer data while allowing changes like
+    # same team fight across routes with diff dialogue, etc. 
+    # See `if trainer[:baseTeam]` branch on DataObjects - Compilers
+    if trainer_data[:baseTeam]
+      base_trainer_data = @trainerHash.fetch(trainer_data[:baseTeam])
+      trainer_data = base_trainer_data.merge(trainer_data)
+    end
+
     item_symbols = Hash.new(0)
     item_symbols.merge!(trainer_data[:items].tally) if trainer_data[:items]
 
@@ -55,6 +66,11 @@ class TrainerGetter
       second_trainer_data[:items].tally.each do |item, count|
         item_symbols[item] += count
       end
+    end
+
+    # Some trainers have delayed actions here TODO
+    if trainer_data[:delayedactions]
+      # pp trainer_data[:delayedactions]
     end
 
     # Creates nokogiri HTML
@@ -157,12 +173,25 @@ class TrainerGetter
         mon[:sos] = true
       end
 
+      # See if there is :delayedactions on either the trainer team or the boss. Maybe combine two lists? TODO
+
       form = mon[:form] || 0
       form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[form]
       form_data = @pokemonHash[mon[:species]][form_key]
 
       form_1_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[0]
       form_1_data = @pokemonHash[mon[:species]][form_1_key]
+
+      # This handles the strange case of Minior having its data in Meteor Form instead of Red, but Meteor Form at the end...
+      if form_1_data[:baseForm]
+        bfData = @pokemonHash[mon[:species]][form_1_data[:baseForm]]
+        bfData.each do |k, v|
+          if form_1_data[k] == nil
+            form_1_data[k] = v
+          end
+        end
+      end
+
       pokemon_name = "#{mon[:shadow] ? "Shadow " : ""}#{@pokemonHash[mon[:species]][form_1_key][:name]}"
       if fight_is_boss || mon[:boss]
         pokemon_name = "#{mon[:boss] ? "Boss " : "SOS "}#{pokemon_name}"
@@ -257,7 +286,14 @@ class TrainerGetter
             if effs[:weatherChange] == nil
               eff_strs.push("Weather is nullified")
             else
-              eff_strs.push("Weather becomes #{@moveHash[effs[:weatherChange]][:name]}")
+              # Weather move, num turns (-1 = indefinite), message
+              moveS, turns, message = effs[:weatherChange]
+              move = @moveHash[moveS]
+              if turns == -1 
+                eff_strs.push("Weather becomes #{move[:name]} indefinitely")
+              else
+                eff_strs.push("Weather becomes #{move[:name]} for #{turns} turns")
+              end
             end
           end
           if effs[:speciesUpdate]
@@ -368,6 +404,8 @@ class TrainerGetter
           if effs[:CustomMethod] && effs[:CustomMethod].match(/^timewarp/)
             eff_strs.push("A timewarp to the last snapshot occurs...")
           end
+          # The bosses enqueue certain delayed actions upon shield break, or there's some trigger condition (see :queuedelays) TODO
+
           # The way delayed effects work is... janky. In any case I will deal with it here.
           if effs[:delayedaction]
             actions = []
@@ -461,8 +499,9 @@ class TrainerGetter
               groups[lvl].push(stat)
             end
             if groups != {}
-              groups.each do |lvl, stats|
-                mon_details_parts.push("#{stats.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
+              groups.each do |lvl, indices|
+                statNames = indices.map { |idx| stats[idx] }
+                mon_details_parts.push("#{statNames.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end
           end
@@ -499,10 +538,15 @@ class TrainerGetter
         mon[:moves] = []
         moveset = form_data[:Moveset] || form_1_data[:Moveset]
         movelist = []
+        if moveset == nil
+          pp form_data
+          pp form_1_data
+          raise "No moveset for #{mon[:species]} (#{form_key})"
+        end
         for i in moveset
           movelist.push(i[1]) if i[0] <= mon[:level]
         end
-        movelist |= [] # Remove duplicatesx
+        movelist |= [] # Remove duplicates
         listend = movelist.length - 4
         listend = 0 if listend < 0
         for i in listend...listend + 4
