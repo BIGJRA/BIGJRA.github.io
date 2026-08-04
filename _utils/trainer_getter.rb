@@ -50,6 +50,15 @@ class TrainerGetter
     end
     shield_break_details = []
 
+
+    # Handles trainers with :baseTeam attr. Reuses one trainer data while allowing changes like
+    # same team fight across routes with diff dialogue, etc. 
+    # See `if trainer[:baseTeam]` branch on DataObjects - Compilers
+    if trainer_data[:baseTeam]
+      base_trainer_data = @trainerHash.fetch(trainer_data[:baseTeam])
+      trainer_data = base_trainer_data.merge(trainer_data)
+    end
+
     item_symbols = Hash.new(0)
     item_symbols.merge!(trainer_data[:items].tally) if trainer_data[:items]
 
@@ -57,6 +66,11 @@ class TrainerGetter
       second_trainer_data[:items].tally.each do |item, count|
         item_symbols[item] += count
       end
+    end
+
+    # Some trainers have delayed actions here TODO
+    if trainer_data[:delayedactions]
+      # pp trainer_data[:delayedactions]
     end
 
     # Creates nokogiri HTML
@@ -159,6 +173,8 @@ class TrainerGetter
         mon[:sos] = true
       end
 
+      # See if there is :delayedactions on either the trainer team or the boss. Maybe combine two lists? TODO
+
       form = mon[:form] || 0
       form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[form]
       form_data = @pokemonHash[mon[:species]][form_key]
@@ -167,7 +183,7 @@ class TrainerGetter
       form_1_data = @pokemonHash[mon[:species]][form_1_key]
 
       # This handles the strange case of Minior having its data in Meteor Form instead of Red, but Meteor Form at the end...
-      if form_1_data[:baseForm] 
+      if form_1_data[:baseForm]
         bfData = @pokemonHash[mon[:species]][form_1_data[:baseForm]]
         bfData.each do |k, v|
           if form_1_data[k] == nil
@@ -388,6 +404,8 @@ class TrainerGetter
           if effs[:CustomMethod] && effs[:CustomMethod].match(/^timewarp/)
             eff_strs.push("A timewarp to the last snapshot occurs...")
           end
+          # The bosses enqueue certain delayed actions upon shield break, or there's some trigger condition (see :queuedelays) TODO
+
           # The way delayed effects work is... janky. In any case I will deal with it here.
           if effs[:delayedaction]
             actions = []
