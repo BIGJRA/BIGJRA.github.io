@@ -544,13 +544,7 @@ Add Null to your party, then evolve it by friendship into **Silvally**. Head bac
 
 If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Aevian Munna** and *Nightmare Fuel*!
 
-~~ TODO: NG+ gate in Eizen's house ... ? 
-
-Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**.
-
-Using the ID Card will take you to a familiar room in which you can view a few more Black Boxes that have been filled in.
-
-~~ TODO: NG+ gate in Eizen's house ... ? 
+[New Game+ Contents](#chapter-6-ng)
 
 ## Akuwa Area Surfing & Sidequests
 

@@ -16,29 +16,9 @@ You'll start by playing as Maria. Head over and talk to the yellow bird, Wattrel
 
 Talk to Maria's mother downstairs on the couch, then again in the kitchen. You'll have to interact with the door at the top next, then go upstairs. 
 
-~~ TODO: HANDLE NG+ Segment Gating (3 badge unidata)
+**There are segments in this game that are only visible if certain conditions are met. Most of these involve having a completed V14 save file. I strongly recommend against clicking into these segments if you have not played the game once all the way through**.
 
-Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
-
-Talk to Marianette outside when you're ready for our first battle... this time around, at least. You'll be given a Hisuian Zorua, Indeedee, and Chatot to battle with.
-
-!battle(["Marianette", :LEADER_MARIANETTE, 1])
-
-You should have enough experience with defeating Marianette by now to handle this one... right? 
-
-Head back inside the house, and follow the chaotic pathway outside. Inside, talk to Anastasia in the kitchen, grab the chess board, and play. Outside once again, you'll need to defeat some Lv. 1 Deoxys as you progress. Once you make it inside the lighthouse:
-
-!boss(:INTRODEOXYS)
-
-Some luck with Chatter Confusion may be what you need here.
-
-After all that, you'll be taken to Spotlight City. Explore, then enter the building with the "!" symbol. You'll learn of the safe password, `1101 1101`.
-
-Next is a command battle. You'll need to use five of the attacks via pressing the arrow keys, then use the Ultimate with "A".
-
-When you have control again, enter Vitus' office and enter the above password into the safe to open some future NG+ contents. 
-
-~~ TODO: End NG+ Segment
+[New Game+ Content](#chapter-0-ng) 
 
 Talk to the rainbow painting, then head up through the... spoiler dimension.
 
@@ -68,11 +48,7 @@ Once you regain control, follow the path and watch the events play out.
 
 After either skipping the boat scenes or watching the cutscenes, talk to Tesla. She'll give you some money. Once you regain control, you can explore Oceana Pier.
 
-~~ TODO: HANDLE NG+ Segment Gating (completed prologue+)
-
-If you completed the contents of the extended Prologue, you'll now get the *Black Key*!
-
-~~ TODO: HANDLE NG+ Segment Gating
+[New Game+ Content](#chapter-1-ng-part-1)
 
 If you want to talk to the woman on the northeast pier, you can get an all-expenses paid trip to Hoenn! This results in the **Game Over: Hoenn** ending. Congratulations on finishing the game! Just kidding, of course. Our real journey has only just begun! 
 
@@ -475,15 +451,7 @@ A tough fight. One recommendation is to use the Field to your advantage: moves l
 
 If you win, accept **Litleo** in your team!
 
-~~ TODO: HANDLE NG+ Segment Gating (Reborn save, and Rejuv unidata w 18 badges)
-
-Talk to the crate if prompted! 
-
-!battle(["Sandy", :ACTIVIST, 0], "City Field")
-
-If you can beat this nightmare of a fight, you'll be able to trade anything for a **Gligar** and the legendary *Victreebelite*.
-
-~~ TODO: HANDLE NG+ Segment Gating (Reborn save, and Rejuv unidata w 18 badges)
+[New Game+ Content](#chapter-1-ng-part-2)
 
 Claim your reward at the help center: $350 and *Super Potion*! (+1 Karma)
 

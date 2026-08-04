@@ -250,20 +250,6 @@ The Solrock and Lunatone can be frustrating with Rock Slide, but anything speedi
 
 She'll give you the *Room ID Card*! When you are back in the cave, the wall to the left of the bottom stairs contains a *Super Potion*, and the one above and right of the top stairs contains a *Reverse Candy*. Head into Sheridan Village to the north.
 
-~~ TODO: NG+ gate here. Need Black Key.
-
-Accept the fast travel at the top of the cave back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
-
-If you have the Black Key, head up in the top left corner of the downstairs room, then go in. Note the password "TWINGOLD" on the floor, then head up when you're ready for some real nonsense.
-
-!battle(["Eizen", :EIZEN, 5])
-
-This is an optional NG+ fight, but that doesn't make it any less than one of the most ridiculous and challenging fights in the game. You can start by catching the anomalous **Shadow Froakie**, a callback to older versions. In fact, Eizen seems to use in-game trade Pokemon from other games.... and oh yeah, a Terapagos as well. Terapagos is incredibly tough to take down and hits pretty hard, with potential stat boosts via Ancientpower and Rapid Spin. Your first move will be not-very-effective thanks to Tera Shell, but afterwards it becomes weak to Fighting-type moves.
-
-Once you make it through this fight and cutscenes, head to the top of the room. You can "dematerialize" your Pokemon here. TODO?
-
-~~ TODO: NG+ gate here
-
 ## Sheridan Village
 
 Listen to a cutscene with Aelita and the Elder. At the moment it costs money to heal here, so we're gonna start by heading all the way north into Sheridan Arena via going the left path.
@@ -310,8 +296,6 @@ You can sneak around the back of the shop, if you do, talk to the shop owner fro
 
 You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible. If you fast travel with him 20 times, you'll get **Varoom**!
 
-Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want. (TODO - move this or nah)
-
 North of here is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
 
 !battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
@@ -343,6 +327,12 @@ Continue through the cave. Once at the entrance, head west until you see a red r
 On the right side, two tiles right and three tiles above the lower rock smash is a hidden *Red Shard*. A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another hidden *Red Shard*.
 
 Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone*. Then exit and watch the scene and fast travel back to Sheridan.
+
+## Melia's Room
+
+Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
+
+[New Game+ Content](#chapter-2-ng)
 
 ## Sheridan Help Quests
 
@@ -540,13 +530,11 @@ Grab *TM43 Flame Charge* below, then open the door to the Generator Room above a
 
 Unfortunately, without our snag machine, we can't catch this Quagsire nor future Shadow Pokemon until we fix it. Talk to the monitor next to you. If you recall the password from a previous run, you can use it to skip this fight now:
 
-TODO This is techincally NG+ in a sense
-
 <div class="spoilerDiv">
   <div class="spoilerText" style="display:none">
     XE089321
   </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Executive ID</a>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Executive ID. Not recommended on first playthroughs.</a>
 </div>
 
 Otherwise, you'll need to transfer Volcanion to Carotos Mountain. Exit at the bottom and follow the path out to the main part of the Mountain, then go up.

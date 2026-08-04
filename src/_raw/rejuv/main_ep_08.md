@@ -484,11 +484,7 @@ The Volcanic Field can be used to your advantage: consider using your own Fire m
 
 In the beach area, follow the path.
 
-~~ NG+ TODO 
-
-Melia will give you the *Clefablite* in NG+!
-
-~~ NG+ TODO 
+[New Game+ Contents](#chapter-8-ng-part-1)
 
 Afterwards, return to the top of the mountain, collecting the souls as you go. You can catch **Abra**, along the way! Follow the path through Rift Distortion!
 
@@ -605,13 +601,11 @@ Not too bad thanks to Inkay's bad stats, despite the level disadvantage. Use Bug
 
 Once this quest is over, return to the Kakori Help Center to get 2 *Yellow Shards* and **Inkay**! (+1 Karma)
 
-## Magma Drift Exploration
+## Tyluric Temple 3
 
 There are a few more sidequests and areas we can explore with Magma Drift.
 
-First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
-
-Next, enter the Izakaya in the Kakori Ranger HQ to get the *My Dearest Rowlet* quest.
+Enter the Izakaya in the Kakori Ranger HQ to get the *My Dearest Rowlet* quest.
 
 Reenter the Tyluric Temple and progress as we did before. You'll see Rowlet on the right; talk to him and he will proceed further. Surf down once you reach an outside area and follow the path. Drift across the magma: go right first, then up the tornado. You'll eventually reach:
 
@@ -639,27 +633,17 @@ You can pick *6 Roseli Berries*, *6 Wacan Berries*, and *6 Liechi Berries*.
 
 You will then be able to battle and catch **Rowlet**. Cute!
 
-~~ TODO NG+ 
+[New Game+ Contents](#chapter-8-ng-part-2)
 
-This is where you are able to skip ahead thanks to NG+ Gligar a little bit.
+## Magma Drift Exploration
 
-Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar fulfill this criteria. Note that both Rookidee and Larvesta are only available at this moment with great luck, so this event may not be accessible early even if you are doing NG+. 
-
-Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight. Grab the *Mirror Sprig* and *Venusarite*!
-
-!boss("BOSSKECLEON", "Grassy Terrain")
-
-This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
-
-The devs even anticipated this sequence of events playing out early. I recommend evolving then breeding Togetic, but in any case, you can trade Togepi to Talon in Kakori Village in exchange for a very early **Bagon** holding the *Butterfreenite*!
-
-~~
+First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
 
 We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk to Ayuda in the Help Center - for getting 75 Zygarde Cells we will get a *Cell Imprint* and *Safety Goggles*! Our next threshold is 100.
 
 Enter the Magnolia library and talk to Zumi again. Now that we have Mareep, we will be given a **Mareep (Aevian)** as well at 6 *Exp. Candy M*. Our next target for *PictoZumi* is Toxel.
 
-Next, take the truck to Sheridan. Make your way to Route 3's Phasial Cave, and take the ladder across some water in the bottom right to return to the Poliwag area. Now that we've found all six, we can catch **Poliwag**!
+Next, take the truck to Sheridan. Grab something from the PC with either Dark Pulse or Night Daze: the Lv. 50 Spiritomb we caught earlier comes with the former. Make your way to Route 3's Phasial Cave, and take the ladder across some water in the bottom right to return to the Poliwag area. Now that we've found all six, we can catch **Poliwag**! In the main area of the cave, you can use Rock Climb to reach a new ladder. Use Dark Pulse in this area to transform the field. Across the bridge is an *Ability Capsule* and the *Scolipite*, as well as the *Dark Crystal Cavern Field Readout* and another Gimmighoul with *100 Gimmighoul Coins*!
 
 Take the time to ensure you have Metal Powder, a Poke Ball, and 3 Cell Batteries in your bag. Enter Carotos Mountain. Drift to the left and grab *TM36 Sludge Bomb*! Smash some rocks and drift to the right. Use two Blast Powders to get the **Cyndaquil** egg.
 
@@ -671,7 +655,7 @@ Head down to the corrupted cave area. Take the first Magma Drift path to reach t
 
 Now that we have Madelis' key, enter the ladder up and right from the Sheridan Arena entrance to reach the V.G.C.R. Use the key on the right and enter this room.
 
-Here, we'll need to step on switches to progress. Follow the blue path to reach a machine containing the *Ancient Teachings*.
+Here, we'll need to step on switches to progress. I'll note that we can learn Madelis' Xen Executive ID in here for use in future playthroughs: it is `XE089321`. Follow the blue path to reach a machine containing the *Ancient Teachings*.
 
 !img("vgcr1.png")
 

@@ -233,24 +233,7 @@ Go to sleep.
 - How did you? (Neutral)
 - You know, the usual. (Saki +1)
 
-~~ TODO: HANDLE NG+ Segment Gating (Nymiera Son Name?)
-
-Head to the room with the chair at the top. In NG+ only, you can input the following: 
-
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    MIKAEL
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the Name</a>
-</div>
-
-!boss("FOEHNMISTRAL_EARLY", "Grassy Terrain")
-
-Complete this battle and you will get **Honedge**!
-
-You can also choose to skip the castle section as well.
-
-~~ TODO: HANDLE NG+ Segment Gating (3 badge unidata)
+[New Game+ Content](#chapter-5-ng)
 
 Go up the stairs left, then make your way outside and to the east to the quarry. Head down into the mines and talk to Saki.
 
