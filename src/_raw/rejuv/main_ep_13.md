@@ -1067,7 +1067,7 @@ Head all the way to the Tyluric Temple.
 
 !enc(179, ["Fishing"], ["Super"])
 
-Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight.
+Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs. Grab the *Mirror Sprig* and *Venusaurite*!
 
 !boss("BOSSKECLEON", "Grassy Terrain")
 

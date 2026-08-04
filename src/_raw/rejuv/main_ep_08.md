@@ -118,6 +118,8 @@ Here, we're going to want to read all the books and keep track of all the number
 
 !battle(["Narcissa",:GAUNTLET,2], "Haunted Field")
 
+Talk to the Chalice on the left side of the area. Inspect the liquid first to get the *Wasteland Field Readout*. Interact with the chalice next to get the *Gold Chalice*!
+
 Burst the bubble at the top! This marks the official beginning of the *Narcissa's Hauntings* quest, though this is all we can do in it for now.
 
 Make your way all the way back to Kristiline Town. Reenter the museum and choose which sculpture you prefer. Completing the *Museum Quest*, you'll get $10,000. There is a *Cherish Ball* in the trash to the right.
@@ -492,26 +494,7 @@ Afterwards, return to the top of the mountain, collecting the souls as you go. Y
 
 !battle(["???", :ALGRISELDA, 0], "Wasteland")
 
-
-
-
-??? Grab the *Dragon Scale* on the left of the summit.
-
-??? !boss("VALORGIRATINA", "Volcanic Top Field")
-
-Another straightforward boss where status conditions are key. The omniboost is a bit scary, though you can cancel it out with a move like Haze.
-
-
-
-
-
-
-
-!partner(["Venam",:LEADER_VENAM,3])
-
-!dbattle(["Geara",:XENEXECUTIVE_3,5], ["Zetta",:XENEXECUTIVE_1,12], "Volcanic Top Field")
-
-Of course, all the opponents' Pokemon have 1 HP. That makes this one a breeze!
+I recommend taking out the Crested reinforcements first, as Giratina's final shield heals its stat boosts and powers it up. This is quite the tough battle on the Wasteland field - you can use your own hazard moves for same-turn damage. The Telluric Seed is also generally a good pick here - alongside a move like Sucker Punch, you can tear through Giratina's shields.
 
 Once everything has been played out, talk to the group in Kakori. Take a Noctowl to Teila Resort and enter the building Tesla works in.
 
@@ -560,11 +543,11 @@ Enter the door in the top right.
 
 !battle(["Jalen",:TEAMAA_M,0], "Factory Field")
 
-This completes the quest, and we can grab the rewards at the Kakori Help Center: $6,245, *Revival Herb*, and **Mareep**! (+1 Karma)
+This completes the quest, and we can grab the rewards at the Kakori Help Center: $6,245, 2 *Red Shards*, *Revival Herb*, and **Mareep**! (+1 Karma)
 
-Completing this quest causes certain Pokemon to appear at night that didn't before, namely **Staryu** at the Terajuma Shipyard and **Clamperl** on Route 5.
+Completing this quest causes certain Pokemon to appear at night that didn't before, namely **Clamperl** on the northern side of Route 5, accessible via Aquamarine Cave depths.
 
-One other result of this sidequest remains. Head back to Jirukala Cavern in the Mynori Sea. Make your way to the monitor at the end and input our code: 9867. Down this path you will find *TM51 Steel Wing*, plus:
+One other result of this sidequest remains. Head back to Jirukala Cavern in the Mynori Sea. Make your way to the monitor at the end and input our code: 9867. Down this path you will find *TM51 Steel Wing*, 3 *Blast Powders*, plus:
 
 **ZCell 084: Jirukala Cavern**
 
@@ -590,7 +573,7 @@ You'll eventually be taken to Valor Shore for a gauntlet!
 
 !boss("SEAPRINCE", "Beach Field")
 
-Take Heart will increase its Special Attack and Special Defense, making it hit very hard on both fields. The Phione are able come in and cover weaknesses and add to the amount of work you need to do at the end of this fight. It's a tough one made, tougher by the fact you aren't healed after the previous fight.
+Take Heart will increase its Special Attack and Special Defense, making it hit very hard on both fields. The Phione are able come in and cover weaknesses and add to the amount of work you need to do at the end of this fight.
 
 I recommend lowering its other stats, namely Speed and potentially Defense. It has no way to recover or raise these, so if you're able to get off a Scary Face and a Screech you can probably just one-shot the rest of its health bars.
 
@@ -604,7 +587,7 @@ Head to the Kakori Gym area to talk to Holly. Go next to the Terajuma Excavation
 
 !battle(["Kurt",:TEAMAA_M,0], "Forest Field")
 
-Take a Noctowl over to Valor Shore, then surf to the right below. Enter the shack.
+Take a Noctowl over to Valor Shore, then surf to the right below. Enter the shack. Grab the *Psychic Memory*.
 
 !battle(["???",:UNKNOWN_1,1], "Factory Field")
 
@@ -620,7 +603,7 @@ Grab a *Data Drive* inside and go up.
 
 Not too bad thanks to Inkay's bad stats, despite the level disadvantage. Use Bug moves for OHKOs! 
 
-Once this quest is over, return to the Kakori Help Center to get **Inkay**! (+1 Karma)
+Once this quest is over, return to the Kakori Help Center to get 2 *Yellow Shards* and **Inkay**! (+1 Karma)
 
 ## Magma Drift Exploration
 
@@ -636,11 +619,15 @@ Reenter the Tyluric Temple and progress as we did before. You'll see Rowlet on t
 
 !img("zcell085.png")
 
-You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candy L. Go back in the cave and drift all the way left.
+You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candy L.
+
+Go back in the cave and drift all the way left.
 
 **ZCell 086: Tyluric Temple**
 
 !img("zcell086.png")
+
+There is a chest containing a Gimmighoul and *100 Gimmighoul Coins* on the right.
 
 **ZCell 087: Tyluric Temple**
 
@@ -652,7 +639,23 @@ You can pick *6 Roseli Berries*, *6 Wacan Berries*, and *6 Liechi Berries*.
 
 You will then be able to battle and catch **Rowlet**. Cute!
 
-We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk to Ayuda in the Help Center - for getting 75 Zygarde Cells we will get a *Lucky Egg*! Our next threshold is 100.
+~~ TODO NG+ 
+
+This is where you are able to skip ahead thanks to NG+ Gligar a little bit.
+
+Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar fulfill this criteria. Note that both Rookidee and Larvesta are only available at this moment with great luck, so this event may not be accessible early even if you are doing NG+. 
+
+Proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight. Grab the *Mirror Sprig* and *Venusarite*!
+
+!boss("BOSSKECLEON", "Grassy Terrain")
+
+This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
+
+The devs even anticipated this sequence of events playing out early. I recommend evolving then breeding Togetic, but in any case, you can trade Togepi to Talon in Kakori Village in exchange for a very early **Bagon** holding the *Butterfreenite*!
+
+~~
+
+We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk to Ayuda in the Help Center - for getting 75 Zygarde Cells we will get a *Cell Imprint* and *Safety Goggles*! Our next threshold is 100.
 
 Enter the Magnolia library and talk to Zumi again. Now that we have Mareep, we will be given a **Mareep (Aevian)** as well at 6 *Exp. Candy M*. Our next target for *PictoZumi* is Toxel.
 
@@ -664,7 +667,7 @@ Take the time to ensure you have Metal Powder, a Poke Ball, and 3 Cell Batteries
 
 !img("zcell088.png")
 
-Head down to the corrupted cave area. Magma Drift here and follow the path to a *Poison Barb*. Back on land, continue following the path to the southeast and you'll find another spot to Magma Drift on the right. Hidden along it is another *Poison Barb*. Follow the path and use Spice Powder to catch **Aevian Paras**!
+Head down to the corrupted cave area. Take the first Magma Drift path to reach the *Corrupted Cave Field Readout*! Backtrack to the land and go southeast.Magma Drift here and follow the path to a hidden *Poison Barb* and eventually **Aevian Paras**!
 
 Now that we have Madelis' key, enter the ladder up and right from the Sheridan Arena entrance to reach the V.G.C.R. Use the key on the right and enter this room.
 
@@ -672,7 +675,7 @@ Here, we'll need to step on switches to progress. Follow the blue path to reach 
 
 !img("vgcr1.png")
 
-Next, we'll need to reach the room's center. Follow the green path to reach a machine. 
+Next, we'll need to reach the room's center. While doing this, you can reach the *Houndoominite* in a machine on the right. Follow the green path to reach a machine. 
 
 !img("vgcr2.png")
 
@@ -680,23 +683,23 @@ Insert the necessary items to get **Ralts**! Push the red button at the bottom t
 
 Next, the people of Akuwa Town have FINALLY been returned to their home, so head to Akuwa Town.
 
-In the top left house, you'll get a *Synthetic Seed* and *Cleanse Tag*. The house down from here contains move tutors:
+In the house behind the Cut tree, you'll get a *Synthetic Seed*, *Nugget*, and *Cleanse Tag*. A building to the north contains 5 *Quick Balls*.
 
-The girl in the top right running in place can teach you some moves:
+The house next door contains move tutors:
 
-!tutor("Akuwa Town Move Tutor (Bottom Right)", [["Fire Pledge", "3 Red Shards"], ["Water Pledge", "3 Blue Shards"], ["Grass Pledge", "3 Green Shards"]])
+!cshop(:AkuwaYEAH, "Akuwa Town Move Tutor (R)")
 
-!tutor("Akuwa Town Move Tutor (Top Right)", [["Stomping Tantrum", "5 Red Shards"], ["Iron Tail", "5 Blue Shards"], ["Endeavor", "4 Green Shards"], ["Iron Defense", "3 Yellow Shards"], ["Lash Out", "4 Blue Shards"], ["Corrosive Gas", "3 Yellow Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
+!cshop(:AkuwaShock, "Akuwa Town Move Tutor (L)")
 
-!tutor("Akuwa Town Move Tutor (Top Left)", [["Fire Punch", "5 Red Shards"], ["Ice Punch", "5 Blue Shards"], ["Thunder Punch", "5 Yellow Shards"], ["Heal Bell", "3 Green Shards"], ["Burning Jealousy", "4 Red Shards"], ["Skitter Smack", "4 Green Shards"]])
-
-Enter Larry Locksmith's house below to get a *Nugget*. In a house to the right you can obtain *5 Quick Balls*. Enter the mart to see a scene with Karrina. She'll then give you a *Repel*.
+Enter the mart to see a scene with Karrina. She'll then give you a *Repel*.
 
 !shop("Akuwa Town Mart", ["Ultra Ball", "Luxury Ball", "Hyper Potion", "Gourmet Treat", "Repel", "Super Repel", "Max Repel", "Escape Rope"])
 
 Enter the ACDMC in the upper right. 
 
-!shop("ACDMC", [["Sail Fossil", "10 Blue Shards"], ["Jaw Fossil", "10 Red Shards"], ["Skull Fossil", "10 Green Shards"], ["Armor Fossil", "10 Yellow Shards"]])
+!cshop(:ACDMCFossils, "ACDMC Fossils")
+
+!cshop(:ACDMCDealer, "ACDMC Fossil Dealer")
 
 At the top right counter, you can revive any fossils you've obtained so far. So, that means you can now get: **Omanyte**, **Kabuto**, **Anorith**, **Lileep**, **Shieldon**, **Cranidos**, **Amaura**, and **Tyrunt**.
 
