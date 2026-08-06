@@ -157,6 +157,7 @@ class TrainerGetter
       if mon[:boss] # Here we handle some overrides for boss mons in otherwise normal teams....
         boss_data = @bossHash[mon[:boss]]
         # Override whatever junk is in the trainer file, if its a boss
+        mon[:species] = boss_data[:moninfo][:species] if boss_data[:moninfo][:species]
         mon[:moves] = boss_data[:moninfo][:moves] if boss_data[:moninfo][:moves]
         mon[:ability] = boss_data[:moninfo][:ability] if boss_data[:moninfo][:ability]
         mon[:iv] = boss_data[:moninfo][:iv] if boss_data[:moninfo][:iv]
@@ -287,19 +288,42 @@ class TrainerGetter
               eff_strs.push("Weather is nullified")
             else
               # Weather move, num turns (-1 = indefinite), message
-              moveS, turns, message = effs[:weatherChange]
+              moveS, turns, message = effs[:weatherChange]   
               move = @moveHash[moveS]
-              if turns == -1 
-                eff_strs.push("Weather becomes #{move[:name]} indefinitely")
+              if @moveHash[moveS]
+                weatherName = @moveHash[moveS][:name]
+              elsif moveS == :STRONGWINDS
+                weatherName = "Strong Winds"
+              elsif moveS = :SUNNY
+                weatherName = "Sunny Day"
               else
-                eff_strs.push("Weather becomes #{move[:name]} for #{turns} turns")
+                raise "Weather missing: #{moveS}"
+              end
+
+              if turns == -1 
+                eff_strs.push("Weather becomes #{weatherName} indefinitely")
+              else
+                eff_strs.push("Weather becomes #{weatherName} for #{turns} turns")
               end
             end
           end
           if effs[:speciesUpdate]
-            new_form_1_key = @pokemonHash[effs[:speciesUpdate]].keys.find_all { |key| key.is_a?(String) }[0]
-            eff_strs.push("Boss becomes #{@pokemonHash[effs[:speciesUpdate]][new_form_1_key][:name]}")
+            if effs[:speciesUpdate].is_a?(Array)
+              monKey = effs[:speciesUpdate][0]
+              form = effs[:speciesUpdate][1]
+            else
+              monKey = effs[:speciesUpdate]
+              form = 0 # todo maybe?
+            end
+            formKey = @pokemonHash[monKey].to_a[form][0]
+            if formKey != "Normal Form"
+              eff_strs.push("Boss becomes #{@pokemonHash[monKey][@pokemonHash[monKey].to_a[0][0]][:name]} (#{formKey})")
+            else
+              eff_strs.push("Boss becomes #{@pokemonHash[monKey][formKey][:name]}")
+            end
+            mon[:species] = monKey # mutation... we'll see if this works.
           end
+
           if effs[:formchange]
             new_form = effs[:formchange]
             new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]

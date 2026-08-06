@@ -244,7 +244,7 @@ Talk to the guy on the left. He'll offer us a chance at a little game, depending
 | *Link Heart*      |10%    |
 | *Moon Stone*      |10%    |
 | *Max Revive*      |10%    |
-| *Ultra Potion*    |10%    |
+| *Ultra Potion*    |10%    | 
 | *Fire Stone*      |10%    |
 | *Dusk Ball*       |39%    |
 
