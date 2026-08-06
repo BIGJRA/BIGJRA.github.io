@@ -294,7 +294,7 @@ class TrainerGetter
                 weatherName = @moveHash[moveS][:name]
               elsif moveS == :STRONGWINDS
                 weatherName = "Strong Winds"
-              elsif moveS = :SUNNY
+              elsif moveS == :SUNNY
                 weatherName = "Sunny Day"
               else
                 raise "Weather missing: #{moveS}"
