@@ -408,7 +408,7 @@ Enter the first building to the right to grab a hidden *Ultra Potion*. At the ea
 
 !shop("Hiyoshi City Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "Gourmet Treat", "Reverse Candy", "Super Repel", "Max Repel"])
 
-!tutor("Hiyoshi City Move Tutor", [["Sky Attack", "3 Red Shards"], ["Skill Swap", "2 Green Shards"], ["Magnet Rise", "2 Yellow Shards"], ["Gravity", "2 Blue Shards"], ["Recycle", "2 Green Shards"]])
+!cshop(:HiyoshiTutor, "Hiyoshi City Move Tutor")
 
 These moves we have already had access to for a while, so this seems to be a development oversight that this remains in.
 
@@ -785,11 +785,11 @@ On this map you can find hidden items: *Gourmet Treat*, *Yellow Shard*, *Resist 
 
 There are some move tutors in the bottom left side of the map.
 
-!tutor("NEGC Corsola Move Tutor", [["Throat Chop", "4 Red Shards"]])
+!cshop(:CorsolaChop, "NEGC Corsola Move Tutor")
 
-!tutor("NEGC Female Move Tutor", [["Iron Head", "5 Red Shards"], ["Foul Play", "5 Blue Shards"], ["Knock Off", "5 Green Shards"], ["Poltergeist", "5 Yellow Shards"], ["Bug Buzz", "5 Green Shards"]])
+!cshop(:NeoGearenTutorF, "NEGC Move Tutor F")
 
-!tutor("NEGC Male Move Tutor", [["Last Resort", "4 Yellow Shards"], ["Outrage", "7 Green Shards"], ["Low Kick", "5 Blue Shards"], ["Steel Roller", "6 Yellow Shards"], ["Power Gem", "6 Red Shards"]])
+!cshop(:NeoGearenDying, "NEGC Move Tutor M")
 
 Grab an Aevian Budew from the PC and enter the Magnolia Library. Show it to Zumi for the *PictoZumi* quest. You'll get *10 Exp. Candy XL* and the *Ampharosite*! Our next Pokemon target is an Aevian Form located in the Axis Factory, which we'll get to later.
 

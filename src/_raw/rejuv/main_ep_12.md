@@ -4,7 +4,7 @@ Talk to Aelita on the bridge.
 
 Before we continue the story, head over to Luck's Tent on Route 7. There is a new Move Tutor!
 
-!tutor("Marley Move Tutor", [["Sky Attack", "4 Green Shards"], ["Icy Wind", "4 Red Shards"], ["Tailwind", "4 Yellow Shards"], ["Baton Pass", "4 Blue Shards"], ["Encore", "4 Red Shards"], ["High Horsepower", "4 Green Shards"], ["Agility", "4 Blue Shards"], ["Crunch", "4 Yellow Shards"], ["Blaze Kick", "4 Red Shards"]])
+!cshop(:MarleyMoves, "Marley Move Tutor")
 
 Enter the Hospital of Hope after your conversation with Aelita on the bridge. Inside the hospital, talk to Melia. Return to the Grand Dream Station and talk to Aelita.
 

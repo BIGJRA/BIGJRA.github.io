@@ -216,7 +216,7 @@ Talk to the guy on the left and give him a Blue Shard in exchange for a puzzle! 
 
 Once you win, you'll get **Darumaka**. An *Ether* is to the left.
 
-!tutor("Festival Plaza Southwest Tutor", [["Earth Power", "6 Blue Shards"], ["Focus Punch", "5 Red Shards"], ["Drain Punch", "6 Yellow Shards"], ["Pain Split", "4 Blue Shards"], ["Misty Explosion", "7 Green Shards"]])
+!cshop(:FestivalGamer, "Festival Plaza Move Tutor")
 
 Talk to the high striker machine here. Pay the price, then it will randomly payoff as follows: 2% chance of *HM06 Dive*, 14% chance of a *Poke Doll*, and 22% chance of a refund. Note that the first time you get the Poke Doll prize, it will actually be a **Stufful!** Note also that you can actually "rig" the game to always get the HM by having a lead Pokemon with Huge Power, Guts, Pure Power, or Sheer Force.
 

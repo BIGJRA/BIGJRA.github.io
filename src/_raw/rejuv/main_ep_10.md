@@ -4,9 +4,27 @@ There's just a few more things we can do before leaving on the train. Up on the 
 
 Next, head over to Luck's Tent. There is another move tutor!
 
-!tutor("Marlow Move Tutor", [["Aqua Tail", "4 Blue Shards"], ["Laser Focus", "4 Red Shards"], ["Spikes", "4 Yellow Shards"], ["Reversal", "4 Green Shards"], ["Endure", "4 Green Shards"], ["Amnesia", "4 Blue Shards"], ["Electro Ball", "4 Yellow Shards"], ["Ally Switch", "4 Red Shards"], ["Hyper Voice", "4 Blue Shards"]])
+!cshop(:MarlowMoves, "Marlow Move Tutor")
 
 We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. On deck is the Golden Gauntlets. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
+
+### Spectral Knight Quest
+
+It's worth noting that there are some rewards we can get, but they're locked behind some Lv. 80 battles. Take these on early if you think you can handle it.
+
+If you take a quick truck drive to Goldenleaf. Enter the Lost Castle to the north and enter the room immediately on the right. Jump down the hole to reach a 9-badge gate. Inside, you can open a chest in the left room for a battle!
+
+!battle(["Ceruledge", :SPECTRALKNIGHT, 0], "Haunted Field")
+
+For winning, you'll get the *Malicious Armor* and the *Golurkite*!
+
+In the right room:
+
+!battle(["Ceruledge", :SPECTRALKNIGHT, 1], "Haunted Field")
+
+For winning, you'll get the *Auspicious Armor* and the *Chesnaughtite*!
+
+You can jump back down outside.
 
 ## Grand Express
 

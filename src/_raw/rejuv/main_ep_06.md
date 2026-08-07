@@ -18,7 +18,7 @@ Up some stairs to the left is a shop where you can exchange your Bike Voucher fo
 
 Start by going left, back to the Mynori Sea. First, I note that there is a new Move Tutor in Luck's Tent.
 
-!tutor("Marvin Move Tutor", [["Super Fang", "3 Red Shards"], ["Trick", "3 Blue Shards"], ["Dual Chop", "3 Green Shards"], ["Helping Hand", "3 Yellow Shards"], ["Giga Drain", "3 Yellow Shards"], ["Synthesis", "3 Green Shards"], ["Magnet Rise", "3 Blue Shards"], ["Uproar", "3 Red Shards"], ["Telekinesis", "2 Green Shards"]])
+!cshop(:MarvinMoves, "Marvin Move Tutor")
 
 !enc(299, ["Surfing", "Fishing"], ["Good"])
 

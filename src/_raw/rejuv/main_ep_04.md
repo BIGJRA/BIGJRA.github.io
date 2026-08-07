@@ -46,7 +46,7 @@ Head next into the nearby Magnolia Library. Talk to the blue haired girl here to
 
 Finally, go to Luck's Tent in the Gearen Park. There is a new Marshadow in the bottom left corner:
 
-!tutor("Margo Move Tutor", [["Recycle", "2 Yellow Shards"], ["Worry Seed", "2 Green Shards"], ["Snore", "2 Red Shards"], ["Shock Wave", "2 Blue Shards"], ["Water Pulse", "2 Red Shards"], ["Snatch", "2 Blue Shards"], ["Imprison", "2 Blue Shards"], ["Wonder Room", "2 Green Shards"], ["Magic Room", "2 Yellow Shards"], ["Role Play", "2 Yellow Shards"]])
+!cshop(:MargoMoves, "Margo Move Tutor")
 
 ## Route 3
 

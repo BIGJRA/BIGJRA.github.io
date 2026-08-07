@@ -102,7 +102,7 @@ That's all for Kristiline Town and Isle of Angels exploration for now, but we ca
 
 Take Noctowl to Kakori Village. Mr. Luck's Tent now has a new move tutor:
 
-!tutor("Marnie Move Tutor", [["Bug Bite", "3 Green Shards"], ["Bounce", "3 Blue Shards"], ["Drill Run", "3 Yellow Shards"], ["Electroweb", "3 Red Shards"], ["Gastro Acid", "3 Yellow Shards"], ["Focus Energy", "3 Red Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
+!cshop(:MarnieMoves, "Marnie Move Tutor")
 
 Take the truck to Goldenleaf. In the house nearest the eastern gate, you'll find the artist for the *Museum Quest*. Next, head back to the outside area of Wispy Tower and enter the Wispy Ruins to the east. Climb down the ivy in the rightmost room, then make your way to the southeast corner of Wispy Chasm. Step on the tile, then head in to and get Griselda's Treasure 7: the *Fearow Crest* and *Odd Keystone*.
 

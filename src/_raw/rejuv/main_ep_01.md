@@ -293,7 +293,7 @@ On the right in a blue flower is a hidden *Blue Shard*. A purple flower on the l
 
 Enter Luck's Tent. On the left, you can talk to Marshadow, who will teach us Tutor Moves in exchange for Shards. Note that you can learn any move you've purchased via the Cybernav.
 
-!tutor("Marshie Move Tutor", [["Bind", "2 Red Shards"], ["Covet", "2 Blue Shards"], ["Block", "2 Yellow Shards"], ["Spite", "2 Green Shards"], ["Swift", "2 Yellow Shards"], ["After You", "2 Red Shards"], ["Magic Coat", "2 Blue Shards"], ["Venom Drench", "2 Blue Shards"]])
+!cshop(:MarshieMoves, "MarshieMoveTutor")
 
 Talk to Mr. Luck to begin the *Bad Luck* quest. Sign his contract to have your sprite changed! Ask him to be changed back, then follow him to the back room. He'll request that we find for him one Black Prism, which we can find on rainbow-aura wild Pokemon that are about a 1% chance of appearing. Head into the grass and grind one of these out... and return with the Prism to be turned back, completing this quest.
 

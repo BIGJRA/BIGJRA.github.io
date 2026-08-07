@@ -135,7 +135,7 @@ As this quest showed, we now have access to Grand Dream City once more. There ar
 
 Head west to the Festival Plaza. There is a new tutor on the left.
 
-!tutor("Festival Plaza North Tutor", [["Superpower", "6 Yellow Shards"], ["Heat Wave", "6 Blue Shards"], ["Stealth Rock", "6 Red Shards"], ["Future Sight", "4 Red Shards"], ["Flip Turn", "5 Green Shards"]])
+!cshop(:FestivalBlackHair, "Festival Plaza Move Tutor L")
 
 We've now collected eight of the ten stamps for the mall, so we can buy a whole bunch of new stuff.
 
@@ -1079,11 +1079,11 @@ Head to Route 4 next. Cairo now has one final crest he'll sell us for 14K Red Es
 
 Head into any Luck's Tent location. There is a new move tutor: 
 
-!tutor("Macbeth Move Tutor", [["Cosmic Power", "5 Yellow Shards"], ["Leaf Blade", "5 Green Shards"], ["Toxic Spikes", "6 Blue Shards"], ["Aura Sphere", "6 Red Shards"], ["Heavy Slam", "6 Blue Shards"], ["Heat Crash", "5 Red Shards"], ["Gunk Shot", "5 Green Shards"], ["Pollen Puff", "5 Green Shards"], ["Terrain Pulse", "6 Yellow Shards"]])
+!cshop(:MacbethMoves, "Macbeth Move Tutor")
 
 There's one more Move Tutor we can now access as well. Fly over to the Kingdom of Goomidra. In a house on the west side:
 
-!tutor("Goombina Move Tutor", [["Draco Meteor", "1 Balm Mushroom"]])
+!cshop(:Goombina, "Goombina Move Tutor")
 
 Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelixite*!
 

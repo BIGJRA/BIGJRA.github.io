@@ -384,7 +384,7 @@ There's another major side quest we can do: *The Hero of Slime*. Enter Honec Woo
 
 Emerge at the top into the Kingdom of Goomidra. Hidden around town is *2 Red Shards* and a *Tiny Mushroom*. Speaking of mushrooms: there is a tutor Goomy that accepts them:
 
-!tutor("Goomidra Village Tutor", [["Body Slam", "2 Big Mushrooms"], ["Seed Bomb", "2 Big Mushrooms"], ["Dragon Pulse", "3 Big Mushrooms"], ["Megahorn", "3 Big Mushrooms"], ["Scorching Sands", "3 Big Mushrooms"], ["Zen Headbutt", "2 Big Mushrooms"], ["Liquidation", "3 Big Mushrooms"], ["Muddy Water", "2 Big Mushrooms"], ["Defog", "1 Big Mushroom"], ["Dual Wingbeat", "2 Big Mushrooms"]])
+!cshop(:GOOMATORA, "Goomidra Village Move Tutor")
 
 We don't have enough Big Mushrooms outright to learn all these moves, so you'll need to grind wild Paras/Foongus/Shroomish/Morelull for them.
 
