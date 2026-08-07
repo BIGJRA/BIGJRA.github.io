@@ -411,6 +411,11 @@ Upstairs, head into the room at the top.
 - I want to go home. (Mosely -2)
 - Time to whoop ass! (Neutral)
 
+You can also head back to Narcissa's house if you wish:
+
+**Relationship Point Choices**:
+- Talk to Aelita while she's knocked out (+2 Aelita)
+
 We're going back to Wispy Tower. Head to the top of the room:
 
 **Wisp 06: Wispy Tower**

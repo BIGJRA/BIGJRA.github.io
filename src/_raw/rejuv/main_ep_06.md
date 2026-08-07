@@ -434,7 +434,7 @@ Take the truck back to East Gearen. Grab a Spinda from the PC, then take the tra
 
 !enc(199, ["Surfing", "Fishing"], ["Good"])
 
-Enter Amethyst Cave.
+On the south side of the route, you can surf to a hidden *Fairy Feather*. Enter Amethyst Cave.
 
 !enc(4, ["Surfing", "Fishing"], ["Good"])
 

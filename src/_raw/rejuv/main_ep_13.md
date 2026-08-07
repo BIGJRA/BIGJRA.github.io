@@ -878,7 +878,7 @@ Return to Adrienn and inquire about Progress, bringing the restoration to Phase 
 
 For the final phase, we'll need to submit $68000, 7 Tiny Mushrooms, 1 bag of Stardust, and 1 Poliwag.
 
-If you haven't completed the Poliwag search quest, do so now. Feel free to submit that one if you have it, or, if its evolved, breed it. Finishing this quest will let us catch more Poliwag, so don't worry if this is your only one. Grind TinyMushrooms/Stardust off of Paras/Staryu, respectively. Compoundeyes and Thief/Covet will make your hunt quicker. Submit it all to Adrienn.
+If you haven't completed the Poliwag search quest, do so now. Feel free to submit that one if you have it, or, if its evolved, breed it. Finishing this quest will let us catch more Poliwag, so don't worry if this is your only one. You can buy the Tiny Mushrooms and Stardust at the Lost Camp. Submit it all to Adrienn.
 
 This completes the restoration of Goldenwood Park!
 

@@ -187,7 +187,12 @@ Take the truck back to Akuwa Town.
 
 ## Akuwa Town
 
-Now we can explore Akuwa Town a bit. Itemfinder at the entrance to the town will get you a *Super Repel*. There's **Squawkabilly** plus wild Pokemon in the grass. 
+Now we can explore Akuwa Town a bit. 
+
+**Relationship Point Choices**:
+- Pose with Aelita at the photo standee (+2 Aelita)
+
+Itemfinder at the entrance to the town will get you a *Super Repel*. There's **Squawkabilly** plus wild Pokemon in the grass. 
 
 !enc(13, ["Grass", "Fishing"], ["Old"])
 
@@ -217,7 +222,7 @@ Make your way back to the beach, where you can battle and catch **Clauncher**! H
 
 At this point we will not be able to come back for a bit, so make sure you're ready with all the Pokemon you want to catch on this island for now, and every quest you wanted to finish.
 
-Find Aelita again by the ACDMC on the beach, then go into the gym. Make your way to the back room.
+Find Aelita again by the ACDMC on the beach, then go into the gym. A room to the right contains the *Water Surface Field Readout*! Make your way to the back room.
 
 You don't need to win this one for the record...
 
@@ -348,15 +353,19 @@ Enter the secret garden area again and enter the hut.
 After a lot of scenes, head back to the secret garden and down the stairs. Push through the false wall, then again on the right.
 
 **Relationship Point Choices**:
-- We're getting out. (PianoLady +2)
-- I'm here to help. (PianoLady +1)
-- We're screwed. (PianoLady -1)
+- We're getting out. (Piano Lady +2)
+- I'm here to help. (Piano Lady +1)
+- We're screwed. (Piano Lady -1)
 
 Grab the *Focus Sash*, then go right and up.
 
 !battle(["Madelis",:XENEXECUTIVE_2,1], "Cave Field")
 
 Be wary of Cinccino, as its 5-hit rock blast is boosted by the cave and tail slap hits hard. Her Houndoom and Salazzle can hit hard but if you can shut them down with a strong Rock or Water type, you'll be ok.
+
+**Relationship Point Choices**:
+- I missed you. (+4 Nancy)
+- Gotta disable the signal. (+2 Nancy)
 
 Outside, Nancy will join up with you! Make your way to the courtyard, then up to Neved's office.
 

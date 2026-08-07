@@ -54,9 +54,13 @@ So begins Rejuvenations next major twist... time travel!
 
 ## Past Aevium
 
-You can use this crystal to head back to the present anytime you want.
+You can use this crystal to head back to the present anytime you want. After they run off, we can explore Kugearen City! Grab the nearby hidden *HP Up* and *Reverse Candy*.
 
-After they run off, we can explore Kugearen City! The teacher in the house to the left will give you a *Quick Claw*. In the house down from the stairs, grab a *Revive*. In the building above the Pokemon Center, talk to the kid on 2F and answer his quiz to get a *Leaf Stone*.
+Head down the stairs here. You can meet Shayda the Witch here.
+
+[New Game+ Content](#chapter-9-ng-part-1)
+
+Outside, you can grab *6 Exp. Candies XL*. Inside a house to the left is a  *Revive*. In the bottom right corner of town is a *Red Card*. The trainer school contains a teacher who will give you a *Quick Claw*. In the town's bottom left corner, you can get a hidden *Green Shard* and *Yellow Shard*. There is a hidden *Revival Herb* by the Pokemon Center. In the building above, talk to the kid on 2F and answer his quiz to get a *Leaf Stone*.
 
 !shop("Kugearen City Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Antidote", "Ice Heal", "Gourmet Treat", "Repel", "Super Repel", "Max Repel"])
 
@@ -64,17 +68,19 @@ Head out through the northwest to Route 3.
 
 !enc(236, nil, ["Old", "Good"], "Route 3 (Past)")
 
-Pick up the hidden *Soda Pop*.
+Pick up the hidden *Blue Shard* and *Soda Pop*. Across the pond is a hidden *Protein*.
 
 !battle(["Anna",:GHOSTGIRL,0])
 
-Continuing along, there is a hidden *Aguav Berry*, *Soda Pop*, and *Protein*. 
+Down the ledges, there is a hidden *Aguav Berry*, *Soda Pop*, and *Green Shard*. Continuing north, there is a hidden *Leppa Berry*.
 
 !battle(["Sam",:YOUNGMONEY,0])
 
-Grab the *Full Heal* at the top.
+Grab the hidden *Hyper Potion* and visible *Full Heal* at the top.
 
-Head up to Ambrette Town and enter the upper left estate. Head upstairs. Talk to the box to change clothes! There is also a PC and bed to heal in the upper left room. Talk to Melia in the upper right corner.
+Head up to Ambrette Town. Grab the hidden *Max Ether*, *Ultra Ball*, *Air Balloon*, *Dusk Ball*, *Blue Shard*, *Rare Candy*, *Calcium*, *Poke Ball*. 
+
+Enter the upper left estate. Head upstairs. Talk to the box to change clothes! There is also a PC and bed to heal in the upper left room. Talk to Melia in the upper right corner.
 
 **Relationship Point Choices**:
 - Beautiful! (Melia +2)
@@ -97,17 +103,25 @@ Head to Kugearen City afterwards by talking to the truck driver. Enter the cafe 
 
 You'll have to choose one Pokemon to battle Kanon, but you don't need to win this one. Well, head out, and talk to Venam in the square. Head east.
 
+### Kugearen Woods
+
 !enc(240)
 
 !battle(["Ellie",:LADYGIRL,0])
 
-Head into a forest a bit and you'll have to fend off wild Shiftry. Continue to explore the forest:
+There's a hidden *Antidote* and *Honey* above.
+
+Head into a forest a bit and you'll have to fend off wild Shiftry. 
+
+[New Game+ Content](#chapter-9-ng-part-2)
+
+Continue to explore the forest. A hidden *Carbos* is below.
 
 !battle(["Andy",:BUGCATCH,0])
 
 !battle(["Stallfoss",:BUGCATCH,0])
 
-Down and to the right from here is 4 *Rawst Berries* and a hidden *Zinc*. Head up into Marble Garden.
+There is 4 *Rawst Berries* and a hidden *Zinc* and *Oran Berry*. Head up into Marble Garden.
 
 **Relationship Point Choices**:
 - Yeah! (Venam +2)
@@ -120,54 +134,86 @@ Enter the house and after a scene, you'll be free to explore. Talk to Anathea in
 - What about Melia? (Neutral)
 - I dunno... (Venam -2)
 
-Head back to the city and enter the house in the bottom right of town. Next, enter Blakeory Co. in the southwest. After the meeting, enter the forest again. Head south to follow the policeman.
+Head back to the city and enter the house in the bottom right of town. Next, enter Blakeory Co. in the southwest.
 
-Go to the northeast for a *Rare Candy* and a *Leppa Berry*. Hidden nearby is *Honey*. On your way to the south, you'll get 2 *Cheri Berries.
+### Mega Bangle Sidequest Part 1
+
+A man in the lobby will offer us a sidequest. You'll need to collect Victreebel, Pidgeot, Altaria, and Sharpedo - all of which can be found in surrounding areas of Past Aevium. For showing these to the man, you'll get the *Secret Patent*.
+
+### Vs. Gardevoir
+
+Head up to the top floor of Blakeory. After the meeting, enter the forest again. Head south to follow the policeman.
+
+Grab the *Revive*, *Rare Candy*, and hidden *Honey*, *Leppa Berry*, *Wiki Berry* to the right, as well as *2 Cheri Berries* and a hidden *PP Up* below.
 
 !battle(["Tania",:WITCH,0])
 
 !battle(["Laila",:LADYGIRL,0])
 
-Pick up the *Revive* and *2 Oran Berries*.
+Pick up the hidden *Liechi Berry* and *2 Oran Berries*.
 
 !battle(["Ned",:YOUNGMONEY,0])
 
-Pluck the *2 Aspear Berries* at the very top. Eavesdrop on the conversation: you'll have to fight Gardevoir!
+A hidden *Escape Rope*, *Hyper Potion*, and *Nugget* are beyond, plus 2 *Aspear Berries*.
 
-!boss("DARKGARDEVOIR")
+Eavesdrop on the conversation: you'll have to fight Gardevoir!
+
+[New Game+ Content](#chapter-9-ng-part-3)
+
+!boss("DARKGARDEVOIR", "Forest Field")
 
 This boss is very fast and hits hard. Speed control is crucial here - the funniest way to win is taking advantage of Magician by forcing it to eat Lum Berry and then letting it steal an item like the Iron Ball. After this, simply hit hard with massive physical damage, ideally Steel or Poison type moves.
+
+### Marble Mansion
 
 **Relationship Point Choices**:
 - Worried? (Venam +2)
 - Scared? (Venam -2)
 - Taking too long to find me? (Venam +3)
 
-Grab the shiny *Apartment Key*. This next part is optional, but worth doing due to ramifications on the story later. Head back to Kugearen and use the key on the door in the top left of the area. Head down and read the book on the table. After that, head to the right and read this book to get the *Weird Diary*.
+Grab the hidden *Relic Copper* and shiny *Apartment Key*. 
+
+This next part is optional, but worth doing due to ramifications on the story later. Head back to Kugearen and use the key on the weird looking building in the top left of the area. Head down and read the book on the table. After that, head to the right and read this book to get the *Weird Diary*.
 
 Continuing the story, talk to Venam by Katsu's house, then return to the mansion.
 
 !battle(["Jinene",:SERVANT,0])
 
-Talk to the maid in the garden.
+Talk to the maid in the garden, then grab the hidden *Silk Scarf*.
 
 !battle(["Adina",:SERVANT,0])
 
-Interact with the statues in the four rooms up and down from the garden: top left facing right, top right facing down, bottom right facing left, bottom left facing up. Head upstairs and enter the newly opened door. Grab the **Indeedee** here! Talk to the portrait in this room to begin a puzzle.
+Interact with the statues in the four rooms up and down from the garden: top left facing right, top right facing down, bottom right facing left, bottom left facing up. Head upstairs and enter the newly opened door. Talk to the portrait in this room to begin a puzzle.
 
 !img("mariapuzzle.png")
 
-This is what it should look like when completed. Enter the door downstairs and go down.Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
+This is what it should look like when completed. Enter the door downstairs and go down. A room on the right contains the *White Flute*. Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
 
 **Relationship Point Choices**:
 - Attempt to save Maria (+4 Anathea)
 - Save the officer (Neutral)
 
-Either head down to untie the officer, or up to save Maria. After the scene, head outside into the forest, and then to Kugearen City. Pick North or West, but watch the scene play out. Then pick Blakeory Co.
+Either head down to untie the officer, or up to save Maria.
+
+[New Game+ Content](#chapter-9-ng-part-4)
+
+If you go for Maria:
+
+!battle(["Jaleelee", :ARCHSERVANT, 0])
+
+If you go for the Officer:
+
+!battle(["Jalule", :ARCHSERVANT, 0])
+
+### The Orb
+
+After the scene, head outside into the forest, and then to Kugearen City. Pick North or West, but watch the scene play out. Then pick Blakeory Co.
 
 !battle(["Lia",:SERVANT,0])
 
 Talk to Melia in the kitchen to get some sleep.
+
+[New Game+ Content](#chapter-9-ng-part-5)
 
 !battle(["Karrina",:GANGLEADER,1])
 
@@ -176,6 +222,15 @@ Enter the new grove to return to the past. We can use this crystal to go back to
 ## West Gearen City Sewers
 
 Talk to Venam outside to board the boat.
+
+Only if you are doing NG+:
+
+**Relationship Point Choices**:
+- I'm persuasive. (+2 Melia, +3 Venam)
+- I made my point clear. (+1 Melia, +1 Venam)
+- She was kinda weak. (-1 Melia)
+
+On all playthroughs:
 
 **Relationship Point Choices**:
 - About a 5. (Neutral)
@@ -199,7 +254,7 @@ Grab the *PP Up* and enter the upper right door.
 - Bye. (Erick -2)
 - We're here to help! (Erick +2)
 
-Grab *TM129 Fake Tears*. Head through the gate to downstairs.
+Grab *TM129 Fake Tears* and the *Garbodornite*. Head through the gate to downstairs.
 
 !enc(415)
 
@@ -220,7 +275,7 @@ Grab the *Hyper Potion* in here. Head up, then grab the *Code Corroso Rift Notes
 
 The most annoying thing about this boss is its recovery. Garbodor heals a ton of HP every turn on the field, and has the defenses to make dealing damage very difficult. With cured stat drops, changing typings, and refreshed items, there is a lot to deal with!
 
-Melia as a partner is fairly helpful. Her Snorlax is a good lead that takes a while to die and is immune to the field's Poison effect, so that helps. She's able to do decent damage with Ground type moves, which the latter two phases of the boss are 4x weak to! Generally speaking you want to be doing what you can to prolong Melia's effectiveness while supressing Garbodor's offensive power if you can. It is so slow that it will basically always move last, so you can take advantage of this to use moves like Knock Off and Heal Block.
+Melia as a partner is fairly helpful. Her Snorlax is a good lead that takes a while to die and is immune to the field's Poison effect, so that helps. She's able to do decent damage with Ground type moves, which the latter two phases of the boss are 4x weak to! Generally speaking you want to be doing what you can to prolong Melia's effectiveness while supressing Garbodor's offensive power if you can. It is so slow that it will basically always move last, so you can take advantage of this to use moves like Knock Off, Heal Block, Gastro Acid, etc.
 
 **Relationship Point Choices**:
 - You're on! (Erick +2)
@@ -232,9 +287,11 @@ Once we regain control, head back down into the sewers, where we can now get:
 
 !img("zcell091.png")
 
+Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
+
 ## West Gearen City
 
-!enc(239, nil, ["Old", "Good"], "West Gearen City (North)")
+!enc(239, nil, ["Old", "Good"])
 
 Enter the power plant at the top. In the door to the left, head up. Pick up the *Metal Coat* here. Head down the stairs: for a quest, gather 5 Electric types, and 5 Fire types to donate. The easiest way to do this is to breed a Pokemon of each type and take all their babies back. Return to each person with the 5 Pokemon to get the *Electirizer* and *Magmarizer*. Pick up 2 *Cell Batteries* next to the Electrodes.
 
@@ -252,35 +309,23 @@ Use your Itemfinder to find a *Rose Incense* and *Lemonade*. You'll also find Ty
 
 Head south into the city proper.
 
-!battle(["Luke",:TECH,0], "City Field")
-
-!enc(238, nil, ["Old", "Good"], "West Gearen City (South)")
-
-There's a woman selling *Blast Powder* for $25000. It's pretty expensive, but these are hard to come by right now, so buy it!
+Shadows on the ground indicate battles with wild Pokemon encounters - **Magnemite**, **Magneton**, **Lokix**, **Revavroom**, **Morpeko**, Meowth, and **Klang** all randomly picked with equal chance.
 
 **ZCell 093: West Gearen City**
 
 !img("zcell093.png")
 
-!battle(["Dacabe",:CHARMER,0], "City Field")
+In the top left corner, you'll find *TM21 Frustration*. Hidden is a *Dusk Stone*, *Float Stone*, *Yellow Shard*, *Telluric Seed*, *Red Shard*, 2 *Max Repels*, *Green Shard*, *Gourmet Treat*, *Muscle Feather*, *Zinc*. A guy on the roof will trade you *Protective Pads* for three Absorb Bulbs. There's a woman selling *Blast Powder* for $25000. It's pretty expensive, but these *are* hard to come by right now.
 
-!battle(["Sughou",:OPT,0], "City Field")
+On a roof to the south:
 
-!battle(["GLM-T04-171",:TECH,0], "City Field")
+!shop("WG Rare Fossil Shop", ["Old Amber", "Cover Fossil", "Plume Fossil"])
 
-!battle(["Sarudo",:KIMONOGIRL,0], "City Field")
-
-Use your Itemfinder all around the city. You'll find a *Telluric Seed*, *Yellow Shard*, *2 Max Repels*, *Dusk Stone*, *Float Stone*, *Green Shard*, *Zinc*, *Muscle Feather*, *Red Shard*, and *Gourmet Treat*.
-
-Cut the upper left tree to get *TM21 Frustration*!
-
-Enter Gearen News HQ. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *5 Exp. Candy L*.
+Enter Gearen News HQ. Grab the *Wide Lens* in the upper right. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *5 Exp. Candy L*.
 
 !battle(["Zed",:POKEBREEDER_M,0])
 
-Grab the *Wide Lens* in the upper right, then exit. Next, enter the bottom-right-most house in West Gearen. A guy will trade you *Protective Pads* for three Absorb Bulbs.
-
-Enter the building to the left to finish the Virtual League quest! All we have to do is beat the entire Johto Elite Four and Champion with our preset team... but now our starter has its corresponding Crest! Very cool.
+Talk to Barbara here to finish the Virtual League quest! All we have to do is beat the entire Johto Elite Four and Champion with our preset team... but now our starter has its corresponding Crest! Very cool.
 
 !newself(["Ethan",:JOHTO_0M,8], "Virtual Trainer (Chikorita)")
 
@@ -302,11 +347,7 @@ If you succeed, you'll get the corresponding crest to your starter in the challe
 
 It is worth noting that the other two crests now become available for purchase at the Kecleon Bazaar for $50,000 each.
 
-To the left, in a building with a red facade:
-
-!shop("WG Rare Fossil Shop", ["Old Amber", "Cover Fossil", "Plume Fossil"])
-
-Head outside and enter the Junction Bridge from the left.
+Head outside and enter the Junction Bridge on the east side.
 
 **ZCell 094: Junction Bridge**
 
@@ -320,6 +361,10 @@ This means we can now easily complete the trades on the Isle of Angels for Deeps
 
 Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candy M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
 
+### Mega Bangle Sidequest Part 2
+
+Talk to the nerd on the south side of town, and show him the Secret Patent. You'll get the *Updated Patent*!
+
 Return to the help center in West Gearen.
 
 ## West Gearen City Help Quests
@@ -330,9 +375,13 @@ This quest is only available if you have freed Dufaux: it is a continuation of t
 
 Start at the power plant on the north side and talk to Gabriel. Head inside to see what's happened. Carefully sneak to the left and into the generator room. Save and use F12 if you get spotted to reduce the backtracking.
 
-Make your way to the generator room and watch all the events unfold. Narcissa will leave for Goldenleaf Town. Take the truck there, then talk to young Narcissa. As we did earlier: grab something from the PC with either Dark Pulse or Night Daze (try Spiritomb). Anyways, once Narcissa leaves, head over to Phasial Cave on Route 3. Towards the left side of the area, you can Rock Climb to reach a ladder we haven't gone down yet. Talk to young Narcissa down here, then use your Dark-type move to transform the field. Talk to her at the top once more, then grab the *Ability Capsule* to the right.
+Make your way to the generator room and watch all the events unfold. Narcissa will leave for Goldenleaf Town. Take the truck there, then talk to young Narcissa. As we did earlier: grab something from the PC with either Dark Pulse or Night Daze (try Spiritomb). Anyways, once Narcissa leaves, head over to Phasial Cave on Route 3. Rock Climb to reach the ladder. Talk to young Narcissa down here, then use your Dark-type move to transform the field. Talk to her at the top once more.
 
-That's all we can do for this quest, for now, so return to West Gearen. Claim your reward at the Help Center: $3500. We can now access the generator room in the Power Plant whenever we want: it houses *TM64 Explosion* and the *Electric Memory*. Note that we can evolve electrical-location-based Pokemon here: Nosepass and Magneton.
+That's all we can do for this quest, for now, so return to West Gearen. Claim your reward at the Help Center: $3500 and *2 Blue Shards* (+1 Karma). Return to the generator room in the Power Plant.
+
+!battle(["Luke",:TECH,0], "Factory Field")
+
+We can now access the generator room in the Power Plant whenever we want. it houses *TM64 Explosion*, *Electric Memory*, and the *Electric Terrain Field Readout*.
 
 ### House Sitting
 
@@ -342,7 +391,7 @@ Start at Saki's house west of the power plant. Talk to Erina, go in, and read th
 
 Defeat the AA Grunts, then do three more actions. Head upstairs and into Saki's room on the right. Read the diary at the bottom. Re-enter the house, and head up and right.
 
-Claim your reward: $5500.
+Claim your reward: $5500 and 2 *Red Shards*. You can also make your way back upstairs in Saki's mansion to get **Tinkatink**!
 
 ### Hidden Library 3
 
@@ -370,14 +419,14 @@ Welcome to Atebit Town!?
 
 !enc(293, nil, nil, "Atebit Town")
 
-To the left is *Exp. Candy XL*. In "The Funky Forest" to the right, stepping on red flowers warps you back to the beginning. Inside the maze is a *Time Flute*, *Rare Candy*, and *Carbos*. A hill to the left of the forest holds a *Black Prism*. Enter Alice's Abode.
+To the left is *Exp. Candy XL* and the *Glitch Field Readout*! A hill to the left of the forest holds a *Black Prism*. Enter Alice's Abode.
 
 **Relationship Point Choices**:
 - Yes, I have. (Neutral)
 - No. (Neutral)
 - YES, I have. (+1 Alice, +1 Allen)
 
-Enter the Funky Forest to the east once more. You can find Alice at the end of the maze. After talking to them in the house, make your way through the Funky Forest one final time.
+In "The Funky Forest" to the right, stepping on red flowers warps you back to the beginning. Inside the maze is a *Time Flute*, *Rare Candy*, and *Carbos*. You can find Alice at the end of the maze. After talking to them in the house, make your way through the Funky Forest one final time.
 
 !battle(["ALLEN",:JOHTO_1,0], "Glitch Field")
 
@@ -390,15 +439,15 @@ Head up and step on the right tile. You'll get the *Banettite* or the *Heracroni
 **Relationship Point Choices**:
 - Finish Hidden Library 3 after completing the Karrina Gang sidequest (+4 Karrina)
 
-You can reenter the room at the back of the west wing to get a hidden *Charcoal*. Return to the West Gearen Help Center to be granted $4000.
+You can reenter the room at the back of the west wing to get a hidden *Charcoal*. Return to the West Gearen Help Center to be granted $4000, *2 Green Shards*, and *2 Yellow Shards*.
 
 As a reward for finishing all the quests, you'll get a **Turtwig** egg (+1 Karma)!
 
-## Spector Battle Quest
+### Spector Battle Quest
 
 Time for another quest. This one will require that we've done Narcissa's quest up to this point. Take the truck to Goldenleaf.
 
-Before that though, go to the Wispy Ruins via Wispy Tower area entrance. To the right, step on the tile, then head in to and get Griselda's Treasure 8: an *Elemental Seed*! 
+Before that though, go to the Wispy Ruins via Wispy Tower area entrance. To the right, step on the tile, then head in to and get Griselda's Treasure 8: an *Elemental Seed* and the *Dedenne Crest*!
 
 Back in Goldenleaf, do the following:
 
@@ -422,6 +471,8 @@ This second battle is an offensively focused doubles team on the Haunted Field. 
 
 Win to get the *Ghost Memory*. If you completed the nighttime fight, you'll also get *2 Ghost Gems* and *3 Kasib Berries*.
 
+### Jenner Battle Quest
+
 There is one more battle quest we can take care of now. Take the East Gearen boat to Terajuma, then head to Aquamarine Cave. Go to the area where Jenner once was hiding. You'll see a pink butterfly.
 
 !battle(["Jenner",:SPIRITJENNER,0], "Concert Venue")
@@ -444,11 +495,11 @@ Make your way over to Route 4. Now that we've beaten Amber, all four of the Rift
 
 Entering Cairo's house, he has more available crests now!
 
-!shop("Cairo's Shop New Items (8 Badges)", [["Luxray Crest", "5000 Red Essences"], ["Druddigon Crest", "5000 Red Essences"], ["Thievul Crest", "5000 Red Essences"], ["Samurott Crest", "5000 Red Essences"]])
+!cshop(:CairoRE, "Cairo's Essence Shop (8 Badges)", 8)
 
 Next, head over to the Lost Camp. We've now found all eleven children for the *Lost Souls* quest! 
 
-!shop("Lost Camp: Alisha", ["TinyMushroom", "Magnet", "Stardust", "Absorb Bulb"])
+!shop("Lost Camp: Alisha", ["Tiny Mushroom", "Magnet", "Stardust", "Absorb Bulb"])
 
 Maman will ask for another donation: $16,000, to be exact.
 
@@ -475,3 +526,7 @@ Head up for the gym battle!
 Time for a gym fight with Erick. The field might seem like an interesting choice, but it does grant him some advantages: Ground moves are nullified, Electric moves are boosted, and he has two Steel types to deal with the Poison effects. This makes it hard to pin down his weaknesses, so you'll want to consider dealing heavy damage in other ways. Priority moves are helpful against his very fast Pokemon, while Doubles moves like Dazzling Gleam and Rock Slide can spread damage quickly. 
 
 Win to get the Pulse Badge, increasing our level cap to Lv. 65, and *TM72 Volt Switch*. Make your way outside.
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>

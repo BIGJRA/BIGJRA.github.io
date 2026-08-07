@@ -28,7 +28,7 @@ Outside, pluck the *Occa Berry* and enter the TM Shop.
 
 !cshop(:KristilineTMs, "Kristiline TM Shop")
 
-To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *2 Exp. Candy L*. 
+To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *5 Exp. Candy L*. 
 
 !battle(["Zeph",:POKEBREEDER_M,0], "Beach Field")
 
@@ -425,9 +425,7 @@ Time for another fight with Eli and Sharon. This is a 12v6 with the help of Vena
 Head down from here.
 
 **Relationship Point Choices**:
-- You're cruel. (Venam +3)
-- ... (Neutral)
-- She deserved it. (Venam -4)
+- Talk to Venam on Valor's lowest floor, don't save Amber, reach the Cliffside (-3 Venam)
 
 Head up and into the next room. Grab *TM134 Rock Blast*.
 
@@ -493,6 +491,9 @@ Afterwards, return to the top of the mountain, collecting the souls as you go. Y
 I recommend taking out the Crested reinforcements first, as Giratina's final shield heals its stat boosts and powers it up. This is quite the tough battle on the Wasteland field - you can use your own hazard moves for same-turn damage. The Telluric Seed is also generally a good pick here - alongside a move like Sucker Punch, you can tear through Giratina's shields.
 
 Once everything has been played out, talk to the group in Kakori. Take a Noctowl to Teila Resort and enter the building Tesla works in.
+
+**Relationship Point Choices**:
+- It's true... she lied (-3 Crescent)
 
 **Relationship Point Choices**:
 - Uh... No? (-3 Crescent)
@@ -685,7 +686,7 @@ Enter the ACDMC in the upper right.
 
 !cshop(:ACDMCDealer, "ACDMC Fossil Dealer")
 
-At the top right counter, you can revive any fossils you've obtained so far. So, that means you can now get: **Omanyte**, **Kabuto**, **Anorith**, **Lileep**, **Shieldon**, **Cranidos**, **Amaura**, and **Tyrunt**.
+At the top right counter, you can revive any fossils you've obtained so far. So, that means you can now get: **Omanyte**, **Kabuto**, **Anorith**, **Lileep**, **Shieldon**, **Cranidos**, **Amaura**, and **Tyrunt**. Using two of the malformed Galar fossils allows you to get **Arctozolt** and **Arctovish** at this time!
 
 ## Lyric Badge
 

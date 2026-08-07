@@ -26,7 +26,7 @@ Bathe in the pool, get changed at the dresser in the top right . Enter the botto
 
 ## S.S. Oceana
 
-The game will ask which difficulty mode you'd prefer. These modes affect the difficulty of enemy fights. I would recommend Story Mode for those that found Reborn too difficult. Story Mode is a bit more casual and forgiving in the teambuilding department, so if you're tight on time it is a good choice. Classic Mode is an incredibly challenging difficulty that stretches canon and custom mechanics to their limits! Regardless of choice, the game allows you to change your difficulty setting later if you want. **I will be covering battles in this guide as they appear in Classic Mode**.
+The game will ask which difficulty mode you'd prefer. These modes affect the difficulty of enemy fights. I would recommend Story Mode for those that found Reborn too difficult. Story Mode is a bit more casual and forgiving in the teambuilding department, so if you're tight on time it is a good choice. Classic Mode is an incredibly challenging difficulty that stretches canon and custom mechanics to their limits! Regardless of choice, the game allows you to change your difficulty setting *anytime in the options menu*. **I will be covering battles in this guide as they appear in Classic Mode**.
 
 Register yourself as a trainer by choosing a gender and a "profile". You can even take a personality test to choose one! Amanda will ask if you want to input a password. You can see password details [in the appendices](#full-password-list), though I generally recommend against using any for a first run. With that out of the way, we get to begin the game proper!
 
@@ -301,9 +301,9 @@ On your way out, Luck will tell you that he wants more Black Prisms.
 
 !shop("Doxie Black Prism Exchange", [["10 Green Shards", "3 Black Prisms"], ["10 Red Shards", "3 Black Prisms"], ["10 Blue Shards", "3 Black Prisms"], ["10 Yellow Shards", "3 Black Prisms"], ["4 Nuggets", "5 Black Prisms"], ["3 Pearl Strings", "8 Black Prisms"], ["2 Cell Imprints", "10 Black Prisms"], ["3 Glitter Balls", "15 Black Prisms"]])
 
-!shop("Mr. Luck Contracts", [["Technique Contract", "3 Black Prisms"], ["Wealth Contract", "3 Black Prisms"], ["Shiny Contract", "3 Black Prisms"], ["Legacy Contract", "0 Black Prisms"], ["Aevis Contract", "5 Black Prisms"], ["Aevia Contract", "5 Black Prisms"], ["Axel Contract", "5 Black Prisms"], ["Ariana Contract", "5 Black Prisms"], ["Alain Contract", "5 Black Prisms"], ["Aero Contract", "5 Black Prisms"], ["ANA Contract", "5 Black Prisms"], ["Difficulty Contract", "0 Black Prisms"], ["???", "999 Black Prisms"]])
+!shop("Mr. Luck Contracts", [["Technique Contract", "3 Black Prisms"], ["Wealth Contract", "3 Black Prisms"], ["Shiny Contract", "3 Black Prisms"], ["Legacy Contract", "0 Black Prisms"], ["Aevis Contract", "5 Black Prisms"], ["Aevia Contract", "5 Black Prisms"], ["Axel Contract", "5 Black Prisms"], ["Ariana Contract", "5 Black Prisms"], ["Alain Contract", "5 Black Prisms"], ["Aero Contract", "5 Black Prisms"], ["ANA Contract", "5 Black Prisms"], ["???", "999 Black Prisms"]])
 
-If you collect Black Prisms, come back here to exchange them. Note that the Difficulty Contract lets you switch between the two difficulties for free, if you need to.
+If you collect Black Prisms, come back here to exchange them.
 
 ## Abandoned Sewers
 
@@ -389,7 +389,7 @@ There's one more fight we can take care of now. Enter the alleyway to the east o
 
 Shouldn't be too difficult for a fully trained team. You'll obtain a **Tarountula**, and you can get the *Back Alley Field Readout*. There's a hidden *Gourmet Treat* and a *Potion* in rocks.
 
-Exit and reenter the area. Talk to the folks to get *4 Quick Balls*. Take the time to level up a Lechonk to evolve it into **Oinkologne**. You can trade it for one of the three variants of **Sandygast (Aevian)** - Rock type, Fire type, or Ice type!
+Exit and reenter the area. Talk to the folks to get *4 Quick Balls*. Take the time to level up a Lechonk to evolve it into **Oinkologne**. You can trade it for one of the three variants of **Sandygast (Aevian)** - Rock/Ghost type, Fire/Ghost type, or Ice/Ghost type!
 
 ## East Gearen Help Center Quests 
 
@@ -472,7 +472,7 @@ Talk to the receptionist at the Chrisola Hotel and agree to go to the basement.
 
 !battle(["Rorim B.",:DISCOTEEN,0])
 
-Vivillon hits somewhat hard, and Lombre will well positioned to take advantage of rain.This battle isn't super hard with a good flying type or two, or probably most well-rounded sixes.
+This battle isn't super hard with a good flying type or two, or probably most well-rounded sixes.
 
 **Relationship Point Choices**:
 - You should stop. (RorimB -1)

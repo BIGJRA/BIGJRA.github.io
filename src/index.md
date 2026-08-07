@@ -4,7 +4,7 @@ title: BIGJRA's Website
 
 # Welcome to my site! 
 
-I'm BIGJRA - a software engineer and big fan of gaming! The walkthroughs on this site are a product of over five years of hard work and love for the following games, their developers, and their communities! Thank you for visiting my site!
+I'm BIGJRA - a software engineer and a fan of the Reborn-verse! The walkthroughs on this site are a product of over five years of hard work and love for the following games, their developers, and their communities! Thank you for visiting my site!
 
 <hr/>
 
@@ -30,7 +30,7 @@ I'm BIGJRA - a software engineer and big fan of gaming! The walkthroughs on this
   </div>
   <div class="portfolio-item-desc">
     <h1>Pokemon Rejuvenation Walkthrough</h1>
-    I began work on the Pokemon Rejuvenation walkthrough all the way back in 2018 during the game's V9 version. Originally a 400+ page Google Document, I have done tons of work to put evolve the walkthrough to its current state. It is currently <strong>about 99% up-to-date with the V13.5 version</strong>. Inside you can find information that will help you achieve completion!
+    I began work on the Pokemon Rejuvenation walkthrough all the way back in 2018 during the game's V9 version. Originally a 400+ page Google Document, I have done tons of work to put evolve the walkthrough to its current state. I am midway through updating it for V14 content - the game up to Act 1 contents are updated!
   </div>
 </div>
 

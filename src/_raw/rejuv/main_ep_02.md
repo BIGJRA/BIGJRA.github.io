@@ -314,7 +314,7 @@ Head up and talk to the **Swablu** flying overhead for a battle. Return to Keta'
 
 **Relationship Point Choices**:
 - I am. (Keta +2)
-- But i just got here... (Keta -2)
+- But I just got here... (Keta -2)
 
 After accepting Keta's quest, head south out of the village and go back all the way through Amethyst Cave. 
 
@@ -392,7 +392,7 @@ Venam will join you for a battle.
 !dbattle(["Samwell",:CUEBALL,0], ["Jacksin",:CUEBALL,0], "Factory Field")
 
 **Relationship Point Choices**:
-- Beat the Gang Members with Venam (+1 Venam)
+- Beat the Gang Members with Venam (+2 Venam)
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
 
@@ -498,7 +498,7 @@ Step on the Yellow Switch then return to the previous room and go up.
 
 !battle(["Aisel",:XENGRUNT_F,0])
 
-Grab the *Hyper Potion* in the next room, then talk to the case beyond the green gate to get an *Up-Grade*! Step on the Green Switch beyond the blue gate then return to the previous room and go right.
+Grab the *Hyper Potion* in the next room, then talk to the case beyond the green gate to get an *Up-Grade* and *Data Drive*! Step on the Green Switch beyond the blue gate then return to the previous room and go right.
 
 !battle(["Alison",:XENGRUNT_F,0])
 
