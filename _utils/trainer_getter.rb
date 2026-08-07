@@ -296,6 +296,8 @@ class TrainerGetter
                 weatherName = "Strong Winds"
               elsif moveS == :SUNNY
                 weatherName = "Sunny Day"
+              elsif moveS == :RAIN
+                weatherName = "Rain Dance"
               else
                 raise "Weather missing: #{moveS}"
               end
