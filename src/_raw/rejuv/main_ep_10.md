@@ -102,7 +102,7 @@ Head north from the ranch onto the Grand Bridge map. After the chat, reenter the
 
 !img("zcell096.png")
 
-Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's truck guy and Terajuma's Noctowl statues.
+Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's Truck Guy and Terajuma's Noctowl statues.
 
 Exit the ranch map in the bottom left to return to the first map of Route 7 from a different vantage point. Push a stone over the water to create a shortcut, then grab the *Ether* to the left. Enter the house barred by the cut tree at the top to meet the PC manager.
 

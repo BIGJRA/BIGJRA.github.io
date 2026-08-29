@@ -296,7 +296,15 @@ You can sneak around the back of the shop, if you do, talk to the shop owner fro
 
 You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible. If you fast travel with him 20 times, you'll get **Varoom**!
 
-North of here is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
+### Melia's Room
+
+Talk to the Truck Guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
+
+[New Game+ Content](#chapter-2-ng)
+
+### Sheridan Village Cont.
+
+Return to Sheridan Village. North of the Truck Guy is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
 
 !battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
 
@@ -327,12 +335,6 @@ Continue through the cave. Once at the entrance, head west until you see a red r
 On the right side, two tiles right and three tiles above the lower rock smash is a hidden *Red Shard*. A rock smash above hides a *Heart Scale* in the left side of a red tree. On the left, above the stage thing, in the middle of a red tree is another hidden *Red Shard*.
 
 Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone*. Then exit and watch the scene and fast travel back to Sheridan.
-
-## Melia's Room
-
-Talk to the truck guy and have him take you back to East Gearen City. In Jenner's lab, use the Room ID Card on the right room to get the *Exp. Share*! Read the note, then talk to Melia's wardrobe to get the *Audition Tape*. Plug it in to the computer to watch a lore cutscene if you want.
-
-[New Game+ Content](#chapter-2-ng)
 
 ## Sheridan Help Quests
 
@@ -375,7 +377,7 @@ Claim your reward: $950 and *Water Stone*! (+1 Karma)
 
 ### Stolen Cargo
 
-Use the trucker to get to Gearen City, then go to Oceana Pier. Head to the southeast, then follow the guy into the warehouse.
+Use the Truck Guy to get to Gearen City, then go to Oceana Pier. Head to the southeast, then follow the guy into the warehouse.
 
 If you try to go north, you'll take damage. We want to enter the room on the right. Read the book here to get the *Factory Field Readout*. The key here is to transform the Factory Field into Short-Circuit via battling the Electrike trainer in the southwest and getting it to use Discharge.
 

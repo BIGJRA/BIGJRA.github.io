@@ -151,11 +151,11 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 
 !enc(295)
 
-There are also **Aevian Snorunt** to the right! Very nice.
+There are also **Snorunt (Aevian)** to the right! Very nice.
 
 There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
 
-Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Aevian Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
+Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
 Talk to the Noctowl Statue to create another fly location. Enter the Weather Institute.
 
@@ -212,7 +212,7 @@ Talk to Crawli and Rorim B on the dock to go to Helojak Island.
 
 !enc(201)
 
-There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Quagsire (Paldean)** roaming about.
+There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Clodsire** roaming about.
 
 Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
@@ -301,8 +301,6 @@ Use a Noctowl Statue to reach the Weather Institute on Mt. Terajuma. After the c
 
 !move("VILEASSAULT")
 
-Aevian Kommo'o mentioned!!! 
-
 Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5,000, and a *Rare Candy* (+1 Karma)
 
 ### Suspicious Person
@@ -326,7 +324,7 @@ Grab the *TM57 Charge Beam* and the *Center Keys* here, as well as a *Data Drive
 **Relationship Point Choices**:
 - Finish all Kakori Help Quests (+4 Alexandra)
 
-She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Aevian Magikarp**, **Aevian Budew**, **Aevian Wimpod**, **Aevian Shroomish**, **Aevian Larvesta**, **Aevian Bronzor**, **Aevian Feebas**, or **Aevian Sigilyph**.
+She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Magikarp (Aevian)**, **Budew (Aevian)**, **Wimpod (Aevian)**, **Shroomish (Aevian)**, **Larvesta (Aevian)**, **Bronzor (Aevian)**, **Feebas (Aevian)**, or **Sigilyph (Aevian)**.
 
 That's it for the help quests.
 
@@ -542,7 +540,7 @@ Get the items in your bag, and return. The Pokemon inside will run off, to a hil
 
 Add Null to your party, then evolve it by friendship into **Silvally**. Head back to River's End and talk to Matthew at his house. He'll give us the *Poison Memory!* We'll be finding the rest as we continue in the game.
 
-If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Aevian Munna** and *Nightmare Fuel*!
+If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Munna (Aevian)** and *Nightmare Fuel*!
 
 [New Game+ Contents](#chapter-6-ng)
 

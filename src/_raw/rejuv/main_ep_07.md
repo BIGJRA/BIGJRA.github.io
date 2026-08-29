@@ -175,7 +175,7 @@ Once you're back in Teila, sleep again by talking to Melia. Head outside to lear
 
 !enc(213)
 
-Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Sun Stone* and:
+Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Dawn Stone* and:
 
 **ZCell 062: Magrodar Crater**
 
@@ -359,7 +359,7 @@ Not impossible if you can lower its attack with a burn or something similar! Gra
 
 !boss("AMETHYSTREGISTEEL", "Crystal Cavern")
 
-Grab the *Moon Dial* and activate Amethyst Power Supply Panel 5 here, then head down the ladder on the left. 
+Grab *TM28 Dig* and the *Moon Dial*, then activate Amethyst Power Supply Panel 5 here, then head down the ladder on the left. 
 
 Grab hidden *Rock Gem*, *Super Repel*, and *Ether*.
 

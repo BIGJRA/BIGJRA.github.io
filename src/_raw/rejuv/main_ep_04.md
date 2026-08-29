@@ -309,7 +309,7 @@ Back in the middle path:
 
 Grab the hidden *Ether*, *Burn Heal*, *Great Ball*, and *Ghost Gem*. This is all we can do here for now, so head back to Goldenleaf Town.
 
-Talk to the trucker to head back to Gearen City - we're going to make a pitstop with Zumi at the Magnolia Library. For catching Drifloon, she'll give us 3 *Exp. Candy M*. She doesn't have our next objective yet, so we'll have to return later.
+Talk to the Truck Guy to head back to Gearen City - we're going to make a pitstop with Zumi at the Magnolia Library. For catching Drifloon, she'll give us 3 *Exp. Candy M*. She doesn't have our next objective yet, so we'll have to return later.
 
 Head into the Help Center nearby, and talk to Ayuda in the back. For collecting 25 Zygarde Cells, we'll get another *Cell Imprint* plus the *Macho Brace*. Our next goal is 35.
 
@@ -465,7 +465,7 @@ This is a well put together doubles team. Persian will probably hit first and Ma
 
 ## Phantasm Badge
 
-After you've left Narcissa's house, talk to the Audino breeder next to the Pokemon Center for a repeatable battle against 3 Audino. Each time you win, you'll get *5* *Exp. Candy S*.
+After you've left Narcissa's house, talk to the Audino breeder next to the Pokemon Center for a repeatable battle against 3 Audino. Each time you win, you'll get *5* *Exp. Candy M*.
 
 !battle(["Lina",:POKEBREEDER_F,0], "Forest Field")
 

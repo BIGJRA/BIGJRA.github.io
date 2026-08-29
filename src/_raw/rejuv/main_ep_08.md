@@ -229,7 +229,7 @@ Land on the platform to the left.
 
 !battle(["Malik",:XENGRUNT_M,1], "Beach Field")
 
-Pick up the *Full Heal* to the right and the hidden *Xen Waste*, then enter the ship through the bottom entrance. Go up. 
+Pick up the *Full Heal* to the right, then enter the ship through the bottom entrance. Go up. 
 
 !battle(["Lexy",:XENGRUNT_F,0], "Short-Circuit Field")
 
@@ -279,7 +279,7 @@ Catch **Shadow Purugly**. Press the button and go down the ladder. In these ches
 
 Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)**! Pick up a *Soft Sand* and *Black Prism* beyond, plus a hidden *Rare Candy*! There's also a **Veluza (Aevian)** here! 
 
-Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
+Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, take the first north to find **Swalot**! Continue north, then land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
 
 Up from here, on the island with the Xen member, you'll find a hidden *Exp. Candy L* and Poliwag #6 for the *Poliwag Quest*!
 
@@ -315,7 +315,9 @@ In the bottom left corner, you can get a *Revive*.
 
 ### Saving Amber (Optional)
 
-We don't have to **Save Amber**, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. On the left, use your new Blast Powder to reach:
+We don't have to **Save Amber**, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. You can talk to the tablet here to get the *Underwater Field Readout*!
+
+On the left, use your new Blast Powder to reach:
 
 **ZCell 076: Chamber of Awakening**
 
@@ -468,7 +470,7 @@ Activate the Noctowl statue.
 
 !battle(["Jenner", :PROFJENNER, 1], "Volcanic Top")
 
-Not immensely difficult thanks to it being a 6v4. Catch his **Shadow Tatsugiri**! Melia will give you a *Focus Sash*.
+Not immensely difficult thanks to it being a 6v4. Catch his **Shadow Tatsugiri**! If you say "I feel optimistic", Melia will give you a *Focus Sash*.
 
 Follow the action to the top. Time for a double battle with Melia.
 

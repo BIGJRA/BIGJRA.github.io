@@ -1115,7 +1115,7 @@ Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 
 
 !dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
 
-A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, and the *Electrode Crest*!
+A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, and the *Electrode Crest*! There is also a hidden *Xen Waste* here!
 
 We can also do some fishing on Terrial Island and in the Badlands with the Super Rod:
 

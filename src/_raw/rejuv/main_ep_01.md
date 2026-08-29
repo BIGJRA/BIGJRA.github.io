@@ -92,7 +92,7 @@ There is a quest available here by talking to an NPC next to the nurse with a fl
 
 A few things have opened up at the pier, so head south first.
 
-The garden to the south is also now open, so you can catch level 5 **Fletchling** here by interacting with them. There is a dumpster at the bottom that contains a hidden *X Accuracy*, while the nearby stairs hide a *Sweet Heart*.
+The garden to the south is also now open, so you can catch level 5 **Fletchling** here by interacting with them. There is a dumpster at the bottom that contains a hidden *Sweet Heart*, while the nearby stairs hide a *X Accuracy*.
 
 Head into the building on the west side that's now unlocked. Talk to the man with the yellow hair, then exit the building and watch Buizel run by. This starts a quest we'll complete later. Return to East Gearen.
 

@@ -146,7 +146,7 @@ Head into Akuwa Town and talk to Aelita. Enter the Pokemon Center to grab the de
 
 ## Lost Souls 1
 
-Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around.
+Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the Truck Guy to zip around.
 
 1.  Andrew can be found in Abandoned Sewers underneath Gearen City by crossing the first bridge north, then the first bridge west, then the first bridge down in an alcove at the bottom.
 2.  James can be found by entering Spring of Purification from Sheridan Village. He's on the right.

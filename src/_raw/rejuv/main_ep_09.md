@@ -287,7 +287,7 @@ Once we regain control, head back down into the sewers, where we can now get:
 
 !img("zcell091.png")
 
-Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
+Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Grab the hidden *Toxic Orb*, defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
 
 ## West Gearen City
 

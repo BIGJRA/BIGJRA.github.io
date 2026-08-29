@@ -8,7 +8,7 @@ Take a Braviary over to the Pyramid Outskirts and go up.
 
 !enc(606)
 
-Surf to the left side and the right side of the pyramid to get *Ground Memory* and *TM28 Dig*. Could've been useful 15 minutes ago! You can also give a treat to **Riolu** for a battle.
+Surf to the left side and the right side of the pyramid to get *Ground Memory*. You can also give a treat to **Riolu** for a battle.
 
 Next, enter the Eclysia Skyview, then make your way down the lift. Once you use a teleporter, head left and surf up and across. Pick up the *Magic Wand* here, then exit the pyramid.
 
