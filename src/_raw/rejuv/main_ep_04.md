@@ -153,7 +153,7 @@ When you're ready talk to Aelita for a battle.
 
 This isn't going to be that tough of a battle - her team is mostly not fully evolved and doesn't yet take advantage of the full power STAB moves. Hawlucha can be dangerous if it gets off a couple Hone Claws, so make sure your best Pokemon to take it out isn't surprised by Flying Gem boosted Bounce. Electric, Psychic, and Flying types will overall succeed here if you're stuck.
 
-## Mirage Woods
+### Mirage Woods
 
 Before continuing the story, we're going to explore a side area. We're gonna need a Pokemon with Flash. If you don't have the TM yet, it's at the Game Corner in East Gearen... or even better, buy the Golden Lantern with AP! Head back to the top of Route 3 and enter the clearing on the left.
 
@@ -189,7 +189,7 @@ After you win, you'll get **Zubat**. Talk to the scientist that gave us the ques
 
 Outside, cross under the waterfall to the left. A *Carbos* is in the first house. Talk to the old woman in the left house - she'll tell us that the *Broken Bell* is missing a piece that may be found in Phasial Cave. Outside, go down and left to take some mirage stairs to get a hidden *Rare Candy*. Exit the Mirage Woods.
 
-## Phasial Cave
+### Phasial Cave
 
 One more optional area to explore. Head up to the top of Route 3 and go to the left and into Phasial Cave.
 
@@ -347,7 +347,7 @@ Head down the stairs and around to the right. Grab a hidden *Ghost Gem*.
 
 There is a hidden *Careful Mint*, *Rawst Berry*, *Green Shard*, *Ability Capsule*, and a *Hyper Potion* going left and down.
 
-## Goldenwood Forest 2
+### Goldenwood Forest 2
 
 This next section is optional. Head into the gatehouse on the left side and you'll be recruited by "C" to take care of the Dimensional Rift, but only after a 3v3 battle with his three bug types.
 
@@ -375,7 +375,7 @@ This can be a tough fight thanks to three shields, three typings, and three very
 
 Take it out, and C will thank us, giving us an Egg (+1 Karma)! This is a mystery egg that will hatch into one of **Sizzlipede**, **Blipbug**, or **Joltik**, randomly determined. Grab the nearby hidden *Persim Berry*.
 
-## Wispy Tower
+### Wispy Tower
 
 Return to Wispy Path, then enter the Wispy Tower area from the top of Wispy Path. Grab the hidden *Bold Mint*. Head in to the Tower.
 

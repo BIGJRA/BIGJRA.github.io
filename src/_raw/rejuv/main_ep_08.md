@@ -96,7 +96,7 @@ Reenter the Church of Theolia. In the room at the top:
 
 Should you want to return to the Tower of Theolia area, you can do so in the room on the left side of the church.
 
-## 7 Badge Sidequests
+### 7 Badge Sidequests
 
 That's all for Kristiline Town and Isle of Angels exploration for now, but we can take care of a few quests and things right now.
 
@@ -512,7 +512,7 @@ Finally, go to Mynori Sea from Kakori. You'll see Shiny Tapu Koko on the dock.
 **Relationship Point Choices**:
 - Talk to Crawli on the dock after beating Tapu Koko in the jungle (+6 Crawli)
 
-## Kristiline Help Quests
+## Kristiline Town Help Quests
 
 A whole bunch has become available now that we have the TM for Magma Drift and have cleared Valor Mountain. This includes the other two help quests for Kristiline Town... that we get in Kakori Village.
 
@@ -604,7 +604,9 @@ Not too bad thanks to Inkay's bad stats, despite the level disadvantage. Use Bug
 
 Once this quest is over, return to the Kakori Help Center to get 2 *Yellow Shards* and **Inkay**! (+1 Karma)
 
-## Tyluric Temple 3
+## Backtracking: Magma Drift
+
+### Tyluric Temple 3
 
 There are a few more sidequests and areas we can explore with Magma Drift.
 
@@ -638,9 +640,9 @@ You will then be able to battle and catch **Rowlet**. Cute!
 
 [New Game+ Contents](#chapter-8-ng-part-2)
 
-## Magma Drift Exploration
-
 First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
+
+### Floria Island Magma Driftin'
 
 We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk to Ayuda in the Help Center - for getting 75 Zygarde Cells we will get a *Cell Imprint* and *Safety Goggles*! Our next threshold is 100.
 

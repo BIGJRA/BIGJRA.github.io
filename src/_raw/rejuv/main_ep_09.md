@@ -219,7 +219,7 @@ Talk to Melia in the kitchen to get some sleep.
 
 Enter the new grove to return to the past. We can use this crystal to go back to the past whenever we want.
 
-## West Gearen City Sewers
+## West Gearen Sewers
 
 Talk to Venam outside to board the boat.
 
@@ -479,7 +479,7 @@ There is one more battle quest we can take care of now. Take the East Gearen boa
 
 For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
 
-## Lost Souls 2
+### Lost Souls 2
 
 Take the truck to Akuwa Town. At the ACDMC you can now revive **Aerodactyl**, **Archen**, and **Tirtouga**!
 

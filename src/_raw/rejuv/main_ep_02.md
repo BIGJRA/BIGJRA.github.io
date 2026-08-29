@@ -14,7 +14,7 @@ Either partner will do well here, his Frogadier hits hard with Water Pulse and M
 
 After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a Gourmet Treat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
 
-## Team Xen Gearen Takeover
+### Team Xen Gearen Takeover
 
 To the right of Junction Bridge, you'll notice the sewer stairs east of the Violet Building will now be open. Head down.
 
@@ -206,7 +206,7 @@ You'll be taken back to East Gearen afterwards.
 - You think I can do it? (Neutral)
 - Where do I go next? (Ren +2)
 
-## Post-Galvantula Sidequests
+### Post-Galvantula Sidequests
 
 Back in the city, a few optional things we can do now: first, talk to Zumi in the library to continue *PictoZumi*. She'll give you the *Advanced Pokedex* if you caught Dedenne. She'll also send you on the next mission to get Drifloon.
 
@@ -216,7 +216,7 @@ Next, head into the Help Center and talk to Ayuda. Now that we've gotten 10 Cell
 
 Finally, if you go to the Chrisola Hotel, talk to the woman in the first room in the right hallway to give you **Shinx**!
 
-## Amethyst Cave 2
+### Amethyst Cave Part 2
 
 Make your way all the way back to Route 2 and re-enter Amethyst Cave. You can make your way all the way down to where we fought Galvantula to get a hidden *Electric Gem* in the top left minecart's bottom right corner.
 
@@ -336,7 +336,7 @@ On the right side, two tiles right and three tiles above the lower rock smash is
 
 Once you're ready, talk to the spirit of Keta. He will give you the *Soul Stone*. Then exit and watch the scene and fast travel back to Sheridan.
 
-## Sheridan Help Quests
+## Sheridan Village Help Quests
 
 Returning to the inn in Sheridan to complete the *Lost Boyfriend* quest. You'll be given $8000 for saving the guy.
 
@@ -434,7 +434,7 @@ This can be a tough one, but targeting Rorim first tends to make it easier.
 
 After the battle, return to the help center. Your rewards: $1600, and **Clobbopus**. (+1 Karma).
 
-## Karrina's Quest
+### Karrina's Quest
 
 Real quick there's another quest we can do, though it's not available from the Help Center. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave. Talk to Karrina in the top of the room.
 
@@ -549,7 +549,7 @@ So, you'll probably be faster than this guy. Light Screen or SpD boosting will h
 
 Return to Madelis' Castle at the top, and use the warp to reach the back room.
 
-## Spring of Purification
+### Spring of Purification
 
 Once you're free, head to the gate in Sheridan, and enter the spring.
 

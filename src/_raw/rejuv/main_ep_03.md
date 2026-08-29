@@ -16,7 +16,7 @@ This is a surprisingly tough battle thanks to Miltank. Once it paralyzes your Po
 - ... (Neutral)
 - I'm kinda scared... (Karrina -2)
 
-## Cut Exploration
+## Backtracking: Cut
 
 In the interest of providing more options for the upcoming gym fights, we take a moment here to backtrack and explore with our new Cut HM / Golden Axe.
 

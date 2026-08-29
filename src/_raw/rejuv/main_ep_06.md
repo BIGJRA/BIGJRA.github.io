@@ -14,7 +14,7 @@ Talk to the Noctowl Statue to activate it. Head into the Pokemon Center to get t
 
 Up some stairs to the left is a shop where you can exchange your Bike Voucher for a *Bicycle*! With some new wheels and new encounter capabilities, we have some exploration and quests to take care of! 
 
-## Terajuma Island Surfing
+### Terajuma Island Surfing
 
 Start by going left, back to the Mynori Sea. First, I note that there is a new Move Tutor in Luck's Tent.
 
@@ -60,7 +60,7 @@ Go up, then up again to enter the Deep Terajuma Jungle. Surf down from the const
 
 Proceed to the upper left to enter *Deeper* Terajuma Jungle. Head north to the Tyluric Temple and go inside.
 
-## Tyluric Temple 2
+### Tyluric Temple 2
 
 !enc(179, ["Surfing", "Fishing"], ["Good"])
 
@@ -255,7 +255,7 @@ Once you win, accept the offer to go to sleep. Back outside, Crawli will challen
 - Really? (Neutral)
 - You're on. (+2 Crawli)
 
-## Kakori Help Quests
+## Kakori Village Help Quests
 
 You'll now be able to access Kakori's Help Center.
 
@@ -328,7 +328,9 @@ She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg
 
 That's it for the help quests.
 
-## Gearen Area Surfing & Side Quests
+## Backtracking: Surf
+
+### Gearen Area Surfing & Side Quests
 
 If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
@@ -354,7 +356,7 @@ Enter the Abandoned Sewers Real quick for some new Pokemon.
 
 !enc(55, ["Fishing"], ["Good"])
 
-## Goldenleaf Area Surfing & Side Quests
+### Goldenleaf Area Surfing & Side Quests
 
 Take the truck to Goldenleaf Town next. 
 
@@ -426,7 +428,7 @@ With all ten Wisps, talk to the tower at night and with an Odd Keystone in the b
 
 On the right, you'll find Jorgie, the seventh kid who you can send to the Lost Camp for the *Lost Souls* quest.
 
-## Sheridan Area Surfing & Sidequests
+### Sheridan Area Surfing & Sidequests
 
 Take the truck back to East Gearen. Grab a Spinda from the PC, then take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda. Also here, the stationary Aipom are now **Ambipom**!
 
@@ -500,7 +502,7 @@ Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch
 
 We can start the *Poliwag Quest* search by getting two of them now. Head back to Wispy Path and use the flute on Poliwag #1. Take the truck to Sheridan, and go to the Spring of Purification. Here you'll find Poliwag #2.
 
-## River's End
+### River's End
 
 Make your way back to the south part of Route 3. Surf down the river!
 
@@ -544,7 +546,7 @@ If you answered Eizen's questions "correctly" earlier, enter the building to the
 
 [New Game+ Contents](#chapter-6-ng)
 
-## Akuwa Area Surfing & Sidequests
+### Akuwa Area Surfing & Sidequests
 
 Back in Goldenleaf, head through the Wispy Ruins to Route 4.
 
@@ -618,7 +620,7 @@ Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the 
 
 Catch two Sandshrew here, we are gonna trade one away in a bit. You can break the ice by a move like Bulldoze to get the Water encounters, but can't otherwise proceed.
 
-## Evergreen Island & Seabound Cave
+### Evergreen Island & Seabound Cave
 
 Head out, and up to the Evergreen Island map northwest of Route 11.
 

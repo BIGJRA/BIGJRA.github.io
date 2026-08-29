@@ -109,7 +109,7 @@ Enter Tesla's office on the right. She will give us *TM101 Rock Climb*! Head bac
 - Contacts Smonctracts. (-1 Melia, +2 Venam)
 - You're stupid. (-2 Melia, -2 Venam)
 
-## Aquamarine Cave 2
+### Aquamarine Cave 2
 
 Next, we must go find Amber. Re-enter Aquamarine Cave, Rock Climb to the right, then follow the path down to the basement as we did before. Take the second ladder down to the depths. All the way on the right, you can Rock Climb to *TM20 Safeguard*!
 
@@ -171,7 +171,7 @@ For winning, you will get **Slowpoke (Galarian)**! You can choose between a *Gal
 
 Once you're back in Teila, sleep again by talking to Melia. Head outside to learn of our trial in Magrodar Crater!
 
-## Magrodar Crater
+### Magrodar Crater
 
 !enc(213)
 
@@ -232,7 +232,7 @@ Follow Amber into her room next.
 
 It's worth noting that we can now take the Yacht outside to fast travel between Oceana Pier, Akuwa Town, and Teila Resort. Nice!
 
-## Attacks on Terajuma
+### Attacks on Terajuma
 
 Say "Let's go" to fast travel. Once you get control in the cave, head left. It's a bit hard to see. You'll once again regain control: go right and down to escape.
 
@@ -283,7 +283,7 @@ Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in
 
 *Special Scene: Valarie's Insecurity* requires 6+ Relationship Points with both Valarie and Adam at this point.
 
-## Rock Climb Exploration
+## Backtracking: Rock Climb
 
 Before we continue the story, we got sidequests and exploration to do!
 
@@ -335,7 +335,7 @@ Head back up the ivy, enter the room on the right, and go down this ivy. There i
 
 Make your way back to Akuwa Town. Enter Evergreen Forest and climb the rocks to get an *Icy Rock* and *TM32 Double Team*!
 
-## Amethyst Depths
+### Amethyst Depths
 
 Take the truck to Sheridan Village and enter Amethyst Cave. In the second room, Rock Climb down. Talk to April, then activate Amethyst Power Supply Panel 3 to the right. Grab the hidden *Rock Gem*, *Steel Gem*, and *Water Gem*, then follow her left.
 
@@ -482,6 +482,8 @@ We next have to solve a series of complicated mirror puzzles. The steps you'll n
 !dbattle(["Mary",:SERVANT,0], ["Sarah",:SERVANT,0], "Frozen Dimensional Field")
 
 Go up when you can. Back outside, drop another ladder. Head up when you are ready!
+
+## Glacier Badge
 
 !battle(["Angie",:LEADER_ANGIE,0], "Frozen Dimensional Field")
 

@@ -8,7 +8,7 @@ Next, head over to Luck's Tent. There is another move tutor!
 
 We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. On deck is the Golden Gauntlets. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
 
-### Spectral Knight Quest
+### Spectral Knight Quest (Early)
 
 It's worth noting that there are some rewards we can get, but they're locked behind some Lv. 80 battles. Take these on early if you think you can handle it.
 
@@ -154,7 +154,7 @@ Enter the Milk Bar.
 
 That's it for this area, so return to Yui's Ranch, then go up and left to enter Honec Woods.
 
-## Honec Woods
+### Honec Woods
 
 !enc(369, nil, ["Old", "Good"])
 
@@ -225,7 +225,7 @@ Activate a Braviary Post to the left. Head south and grab a *Bold Mint* and hidd
 
 Grab the *Big Mushroom*. You can talk to **Impidimp** to catch it! In the top left of this map is a *Carbos*. Go north from here onto a new map. You'll find a hidden *Big Mushroom* and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *TinyMushroom*. Head through the gate and proceed.
 
-## Darchlight Caves
+### Darchlight Caves
 
 Press up to escape when prompted.
 

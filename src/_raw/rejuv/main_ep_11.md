@@ -175,8 +175,7 @@ Pick up the *Spell Tag* on 2F and another on 3F. There's a *Lemonade* on 4F.
 
 We can't get to the very top yet, so head back outside.
 
-## Lost Souls 3
-
+### Lost Souls 3
 
 There's one more sidequest we can take care of. Talk to Mosely at night nearby the Hospital of Hope if you have fully progressed so far in the *Lost Souls* sidequest.
 
@@ -265,7 +264,7 @@ Anyways, grab the *Green Shard* on the table. In the grass at the top is a hidde
 
 Return to the Dream District South and enter the Dream Complex. Before we head upstairs, we will finish the SPU Parcel Delivery sidequest. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver, who will use a spray that contains a new Pokemon in an area we'll visit later. (+1 Karma)
 
-## Night 1 Dream
+### Night 1 Dream
 
 Return to the Dream Complex once more. Go up to the penthouse and sleep. You will wake up in "New Game", and you will be asked a man's name. This is the first event of the "New Game+" functionality in Rejuvenation, which you can only access if you have already completed a save file that has cleared V13 content. 
 
@@ -298,7 +297,7 @@ What on earth is going on with this thing??
 
 Once you wake up, head outside the room. You'll get a choice on which path to take next: either searching Talon's house or investigating the Night Market. We have to do both, so I start with Talon's House.
 
-## Searching Talon's House
+### Searching Talon's House
 
 Head over to the Botanical Garden and head up to the house at the top of the hill.
 

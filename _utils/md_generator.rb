@@ -26,6 +26,7 @@ def generate_md_text(game = 'reborn', scripts_dir)
         break if !raw_md
         raw_md.each_line do |line|
           next unless line.start_with?('#')
+          pp line
           next if line[/^#+/].length >= 3 # Only does 2 levels for TOC
           indents = line[/^#+/].length - 1
           title = line.strip[indents + 1..].strip # Remove the leading '#' and any extra spaces
