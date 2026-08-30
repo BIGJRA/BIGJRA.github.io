@@ -526,7 +526,3 @@ Head up for the gym battle!
 Time for a gym fight with Erick. The field might seem like an interesting choice, but it does grant him some advantages: Ground moves are nullified, Electric moves are boosted, and he has two Steel types to deal with the Poison effects. This makes it hard to pin down his weaknesses, so you'll want to consider dealing heavy damage in other ways. Priority moves are helpful against his very fast Pokemon, while Doubles moves like Dazzling Gleam and Rock Slide can spread damage quickly. 
 
 Win to get the Pulse Badge, increasing our level cap to Lv. 65, and *TM72 Volt Switch*. Make your way outside.
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

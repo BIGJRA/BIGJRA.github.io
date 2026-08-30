@@ -195,6 +195,11 @@ Winning grants us our fifth *Umbral Shard*.
 
 [Jump Back](#the-orb)
 
+### Chapter 10 NG+ 
+
+There is a special event on an island in the middle of Route 7 *if you have a completed Where Love Lies save file*. See [my note on WLL](#a-note-about-where-love-lies) for more information.
+
+[Jump Back](#route-7)
 
 ## Complete the V13.5 Dex
 
