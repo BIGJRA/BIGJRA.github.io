@@ -14,11 +14,11 @@ Talk to the Noctowl Statue to activate it. Head into the Pokemon Center to get t
 
 Up some stairs to the left is a shop where you can exchange your Bike Voucher for a *Bicycle*! With some new wheels and new encounter capabilities, we have some exploration and quests to take care of! 
 
-## Terajuma Island Surfing
+### Terajuma Island Surfing
 
 Start by going left, back to the Mynori Sea. First, I note that there is a new Move Tutor in Luck's Tent.
 
-!tutor("Marvin Move Tutor", [["Super Fang", "3 Red Shards"], ["Trick", "3 Blue Shards"], ["Dual Chop", "3 Green Shards"], ["Helping Hand", "3 Yellow Shards"], ["Giga Drain", "3 Yellow Shards"], ["Synthesis", "3 Green Shards"], ["Magnet Rise", "3 Blue Shards"], ["Uproar", "3 Red Shards"], ["Telekinesis", "2 Green Shards"]])
+!cshop(:MarvinMoves, "Marvin Move Tutor")
 
 !enc(299, ["Surfing", "Fishing"], ["Good"])
 
@@ -60,7 +60,7 @@ Go up, then up again to enter the Deep Terajuma Jungle. Surf down from the const
 
 Proceed to the upper left to enter *Deeper* Terajuma Jungle. Head north to the Tyluric Temple and go inside.
 
-## Tyluric Temple 2
+### Tyluric Temple 2
 
 !enc(179, ["Surfing", "Fishing"], ["Good"])
 
@@ -151,11 +151,11 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 
 !enc(295)
 
-There are also **Aevian Snorunt** to the right! Very nice.
+There are also **Snorunt (Aevian)** to the right! Very nice.
 
 There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
 
-Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Aevian Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
+Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
 Talk to the Noctowl Statue to create another fly location. Enter the Weather Institute.
 
@@ -212,7 +212,7 @@ Talk to Crawli and Rorim B on the dock to go to Helojak Island.
 
 !enc(201)
 
-There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Quagsire (Paldean)** roaming about.
+There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Clodsire** roaming about.
 
 Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
@@ -255,7 +255,7 @@ Once you win, accept the offer to go to sleep. Back outside, Crawli will challen
 - Really? (Neutral)
 - You're on. (+2 Crawli)
 
-## Kakori Help Quests
+## Kakori Village Help Quests
 
 You'll now be able to access Kakori's Help Center.
 
@@ -301,8 +301,6 @@ Use a Noctowl Statue to reach the Weather Institute on Mt. Terajuma. After the c
 
 !move("VILEASSAULT")
 
-Aevian Kommo'o mentioned!!! 
-
 Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5,000, and a *Rare Candy* (+1 Karma)
 
 ### Suspicious Person
@@ -326,11 +324,13 @@ Grab the *TM57 Charge Beam* and the *Center Keys* here, as well as a *Data Drive
 **Relationship Point Choices**:
 - Finish all Kakori Help Quests (+4 Alexandra)
 
-She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Aevian Magikarp**, **Aevian Budew**, **Aevian Wimpod**, **Aevian Shroomish**, **Aevian Larvesta**, **Aevian Bronzor**, **Aevian Feebas**, or **Aevian Sigilyph**.
+She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Magikarp (Aevian)**, **Budew (Aevian)**, **Wimpod (Aevian)**, **Shroomish (Aevian)**, **Larvesta (Aevian)**, **Bronzor (Aevian)**, **Feebas (Aevian)**, or **Sigilyph (Aevian)**.
 
 That's it for the help quests.
 
-## Gearen Area Surfing & Side Quests
+## Backtracking: Surf
+
+### Gearen Area Surfing & Side Quests
 
 If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
@@ -356,7 +356,7 @@ Enter the Abandoned Sewers Real quick for some new Pokemon.
 
 !enc(55, ["Fishing"], ["Good"])
 
-## Goldenleaf Area Surfing & Side Quests
+### Goldenleaf Area Surfing & Side Quests
 
 Take the truck to Goldenleaf Town next. 
 
@@ -428,7 +428,7 @@ With all ten Wisps, talk to the tower at night and with an Odd Keystone in the b
 
 On the right, you'll find Jorgie, the seventh kid who you can send to the Lost Camp for the *Lost Souls* quest.
 
-## Sheridan Area Surfing & Sidequests
+### Sheridan Area Surfing & Sidequests
 
 Take the truck back to East Gearen. Grab a Spinda from the PC, then take the train over to Route 2. Talk to the lady with the Meganium, and since we have five badges, she'll let us have **Chikorita** for the Spinda. Also here, the stationary Aipom are now **Ambipom**!
 
@@ -502,7 +502,7 @@ Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch
 
 We can start the *Poliwag Quest* search by getting two of them now. Head back to Wispy Path and use the flute on Poliwag #1. Take the truck to Sheridan, and go to the Spring of Purification. Here you'll find Poliwag #2.
 
-## River's End
+### River's End
 
 Make your way back to the south part of Route 3. Surf down the river!
 
@@ -542,11 +542,11 @@ Get the items in your bag, and return. The Pokemon inside will run off, to a hil
 
 Add Null to your party, then evolve it by friendship into **Silvally**. Head back to River's End and talk to Matthew at his house. He'll give us the *Poison Memory!* We'll be finding the rest as we continue in the game.
 
-If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Aevian Munna** and *Nightmare Fuel*!
+If you answered Eizen's questions "correctly" earlier, enter the building to the north in River's End. You'll get **Munna (Aevian)** and *Nightmare Fuel*!
 
 [New Game+ Contents](#chapter-6-ng)
 
-## Akuwa Area Surfing & Sidequests
+### Akuwa Area Surfing & Sidequests
 
 Back in Goldenleaf, head through the Wispy Ruins to Route 4.
 
@@ -620,7 +620,7 @@ Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the 
 
 Catch two Sandshrew here, we are gonna trade one away in a bit. You can break the ice by a move like Bulldoze to get the Water encounters, but can't otherwise proceed.
 
-## Evergreen Island & Seabound Cave
+### Evergreen Island & Seabound Cave
 
 Head out, and up to the Evergreen Island map northwest of Route 11.
 

@@ -87,7 +87,7 @@ You can also choose to skip the majority of the castle section as well!
 
 ### Chapter 6 NG+
 
-*This content requires a completed V14 save file*. While completing the Silvally Quest, there is extra content in New Game+. Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**. (I strongly recommend picking Larvesta here, not just because it is extremely powerful, but because it will also open up *another* New Game+ sidequest skip in a bit that we might as well take advantage of. Specifically if you got Rookidee in the Msytery Egg earlier, that will suffice in Larvesta's place.)
+*This content requires a completed V14 save file*. While completing the Silvally Quest, there is extra content in New Game+. Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**. (I strongly recommend picking Larvesta here, not just because it is extremely powerful, but because it will also open up *another* New Game+ sidequest skip in a bit that we might as well take advantage of. Specifically if you got Rookidee in the Mystery Egg earlier, that will suffice in Larvesta's place.)
 
 Using the ID Card will take you to a familiar room in which you can view a few more Black Boxes that have been filled in.
 
@@ -195,6 +195,11 @@ Winning grants us our fifth *Umbral Shard*.
 
 [Jump Back](#the-orb)
 
+### Chapter 10 NG+ 
+
+There is a special event on an island in the middle of Route 7 *if you have a completed Where Love Lies save file*. See [my note on WLL](#a-note-about-where-love-lies) for more information.
+
+[Jump Back](#route-7)
 
 ## Complete the V13.5 Dex
 

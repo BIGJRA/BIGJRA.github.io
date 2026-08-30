@@ -219,7 +219,7 @@ Talk to Melia in the kitchen to get some sleep.
 
 Enter the new grove to return to the past. We can use this crystal to go back to the past whenever we want.
 
-## West Gearen City Sewers
+## West Gearen Sewers
 
 Talk to Venam outside to board the boat.
 
@@ -287,7 +287,7 @@ Once we regain control, head back down into the sewers, where we can now get:
 
 !img("zcell091.png")
 
-Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
+Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Grab the hidden *Toxic Orb*, defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
 
 ## West Gearen City
 
@@ -479,7 +479,7 @@ There is one more battle quest we can take care of now. Take the East Gearen boa
 
 For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
 
-## Lost Souls 2
+### Lost Souls 2
 
 Take the truck to Akuwa Town. At the ACDMC you can now revive **Aerodactyl**, **Archen**, and **Tirtouga**!
 
@@ -526,7 +526,3 @@ Head up for the gym battle!
 Time for a gym fight with Erick. The field might seem like an interesting choice, but it does grant him some advantages: Ground moves are nullified, Electric moves are boosted, and he has two Steel types to deal with the Poison effects. This makes it hard to pin down his weaknesses, so you'll want to consider dealing heavy damage in other ways. Priority moves are helpful against his very fast Pokemon, while Doubles moves like Dazzling Gleam and Rock Slide can spread damage quickly. 
 
 Win to get the Pulse Badge, increasing our level cap to Lv. 65, and *TM72 Volt Switch*. Make your way outside.
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

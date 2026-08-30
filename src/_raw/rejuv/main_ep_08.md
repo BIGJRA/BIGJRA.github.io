@@ -96,13 +96,13 @@ Reenter the Church of Theolia. In the room at the top:
 
 Should you want to return to the Tower of Theolia area, you can do so in the room on the left side of the church.
 
-## 7 Badge Sidequests
+### 7 Badge Sidequests
 
 That's all for Kristiline Town and Isle of Angels exploration for now, but we can take care of a few quests and things right now.
 
 Take Noctowl to Kakori Village. Mr. Luck's Tent now has a new move tutor:
 
-!tutor("Marnie Move Tutor", [["Bug Bite", "3 Green Shards"], ["Bounce", "3 Blue Shards"], ["Drill Run", "3 Yellow Shards"], ["Electroweb", "3 Red Shards"], ["Gastro Acid", "3 Yellow Shards"], ["Focus Energy", "3 Red Shards"], ["Skill Swap", "3 Blue Shards"], ["Signal Beam", "3 Green Shards"], ["Coaching", "3 Red Shards"]])
+!cshop(:MarnieMoves, "Marnie Move Tutor")
 
 Take the truck to Goldenleaf. In the house nearest the eastern gate, you'll find the artist for the *Museum Quest*. Next, head back to the outside area of Wispy Tower and enter the Wispy Ruins to the east. Climb down the ivy in the rightmost room, then make your way to the southeast corner of Wispy Chasm. Step on the tile, then head in to and get Griselda's Treasure 7: the *Fearow Crest* and *Odd Keystone*.
 
@@ -229,7 +229,7 @@ Land on the platform to the left.
 
 !battle(["Malik",:XENGRUNT_M,1], "Beach Field")
 
-Pick up the *Full Heal* to the right and the hidden *Xen Waste*, then enter the ship through the bottom entrance. Go up. 
+Pick up the *Full Heal* to the right, then enter the ship through the bottom entrance. Go up. 
 
 !battle(["Lexy",:XENGRUNT_F,0], "Short-Circuit Field")
 
@@ -279,7 +279,7 @@ Catch **Shadow Purugly**. Press the button and go down the ladder. In these ches
 
 Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)**! Pick up a *Soft Sand* and *Black Prism* beyond, plus a hidden *Rare Candy*! There's also a **Veluza (Aevian)** here! 
 
-Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
+Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, take the first north to find **Swalot**! Continue north, then land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
 
 Up from here, on the island with the Xen member, you'll find a hidden *Exp. Candy L* and Poliwag #6 for the *Poliwag Quest*!
 
@@ -315,7 +315,9 @@ In the bottom left corner, you can get a *Revive*.
 
 ### Saving Amber (Optional)
 
-We don't have to **Save Amber**, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. On the left, use your new Blast Powder to reach:
+We don't have to **Save Amber**, but in this section we will. Head down the left ladder from the entrance. Talk to Venam and enter the Chamber of Awakening. You can talk to the tablet here to get the *Underwater Field Readout*!
+
+On the left, use your new Blast Powder to reach:
 
 **ZCell 076: Chamber of Awakening**
 
@@ -468,7 +470,7 @@ Activate the Noctowl statue.
 
 !battle(["Jenner", :PROFJENNER, 1], "Volcanic Top")
 
-Not immensely difficult thanks to it being a 6v4. Catch his **Shadow Tatsugiri**! Melia will give you a *Focus Sash*.
+Not immensely difficult thanks to it being a 6v4. Catch his **Shadow Tatsugiri**! If you say "I feel optimistic", Melia will give you a *Focus Sash*.
 
 Follow the action to the top. Time for a double battle with Melia.
 
@@ -510,7 +512,7 @@ Finally, go to Mynori Sea from Kakori. You'll see Shiny Tapu Koko on the dock.
 **Relationship Point Choices**:
 - Talk to Crawli on the dock after beating Tapu Koko in the jungle (+6 Crawli)
 
-## Kristiline Help Quests
+## Kristiline Town Help Quests
 
 A whole bunch has become available now that we have the TM for Magma Drift and have cleared Valor Mountain. This includes the other two help quests for Kristiline Town... that we get in Kakori Village.
 
@@ -602,7 +604,9 @@ Not too bad thanks to Inkay's bad stats, despite the level disadvantage. Use Bug
 
 Once this quest is over, return to the Kakori Help Center to get 2 *Yellow Shards* and **Inkay**! (+1 Karma)
 
-## Tyluric Temple 3
+## Backtracking: Magma Drift
+
+### Tyluric Temple 3
 
 There are a few more sidequests and areas we can explore with Magma Drift.
 
@@ -636,9 +640,9 @@ You will then be able to battle and catch **Rowlet**. Cute!
 
 [New Game+ Contents](#chapter-8-ng-part-2)
 
-## Magma Drift Exploration
-
 First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
+
+### Floria Island Magma Driftin'
 
 We've got business on Floria Island! Take the boat from Kakori to Gearen. Talk to Ayuda in the Help Center - for getting 75 Zygarde Cells we will get a *Cell Imprint* and *Safety Goggles*! Our next threshold is 100.
 

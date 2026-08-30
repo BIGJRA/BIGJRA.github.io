@@ -252,7 +252,9 @@ Progress through the area. In the room with the healing star, at the top:
 
 Emerge at the Eclysia Skyview.
 
-## Do the Dive on Floria Island
+## Backtracking: Dive
+
+### Do the Dive on Floria Island
 
 So, I have a confession. Chapter 14 is incredibly awkward to route for a walkthrough, because we want to explore everything and progress sidequests as much as possible before getting each badge... but in this case, it's weird. See, we need the Enigmatic Key we got in the Pyramid to get some things, so we have to progress at least to that point before we can tackle the side areas. At the same time though, the main story has a ton of momentum going towards the events at the top of the Eclysia Pyramid. In this case, the game literally just told us we have like 18 minutes to go until our friends in the pods will die. We are going to just roll with the absurdity and do a few hours of sidequests now, though you can come back to them after the Pyramid events are concluded if you wish. You can use the purple teleporter on the right to exit the pyramid (and reenter the Skyview later).
 
@@ -330,7 +332,7 @@ We can now finally finish the Aquarium Collection Sidequest. The last ten Pokemo
 
 For submitting all 34, you'll get $80000 as well as **Froakie** (+3 Karma)!
 
-## Do the Dive on Terajuma Island
+### Do the Dive on Terajuma Island
 
 Fly over to Helojak Island and enter the Helojak Factory. There's a big dive spot in the main room - head down it to grab *TM112 Smart Strike* as well as **Shadow Amaura**! Use the teleporter to get out.
 
@@ -372,7 +374,7 @@ Another tough Underwater Field battle, but like Neptune, field changes and/or yo
 
 Once you've won, head up to catch a Horsea. A weird prize considering we got Horsea a long time ago... but ok. To the left is the familiar part of the maze - exit to Aquamarine Chamber or Mynori Coral Reef.
 
-## Do the Dive on Terrial Island
+### Do the Dive on Terrial Island
 
 We can take care of some more quests and exploration on Terrial Island next. Head to where we fought Souta behind the Rose Theater to get the *Pidgeotite*!
 
@@ -384,7 +386,7 @@ There's another major side quest we can do: *The Hero of Slime*. Enter Honec Woo
 
 Emerge at the top into the Kingdom of Goomidra. Hidden around town is *2 Red Shards* and a *Tiny Mushroom*. Speaking of mushrooms: there is a tutor Goomy that accepts them:
 
-!tutor("Goomidra Village Tutor", [["Body Slam", "2 Big Mushrooms"], ["Seed Bomb", "2 Big Mushrooms"], ["Dragon Pulse", "3 Big Mushrooms"], ["Megahorn", "3 Big Mushrooms"], ["Scorching Sands", "3 Big Mushrooms"], ["Zen Headbutt", "2 Big Mushrooms"], ["Liquidation", "3 Big Mushrooms"], ["Muddy Water", "2 Big Mushrooms"], ["Defog", "1 Big Mushroom"], ["Dual Wingbeat", "2 Big Mushrooms"]])
+!cshop(:GOOMATORA, "Goomidra Village Move Tutor")
 
 We don't have enough Big Mushrooms outright to learn all these moves, so you'll need to grind wild Paras/Foongus/Shroomish/Morelull for them.
 

@@ -4,9 +4,27 @@ There's just a few more things we can do before leaving on the train. Up on the 
 
 Next, head over to Luck's Tent. There is another move tutor!
 
-!tutor("Marlow Move Tutor", [["Aqua Tail", "4 Blue Shards"], ["Laser Focus", "4 Red Shards"], ["Spikes", "4 Yellow Shards"], ["Reversal", "4 Green Shards"], ["Endure", "4 Green Shards"], ["Amnesia", "4 Blue Shards"], ["Electro Ball", "4 Yellow Shards"], ["Ally Switch", "4 Red Shards"], ["Hyper Voice", "4 Blue Shards"]])
+!cshop(:MarlowMoves, "Marlow Move Tutor")
 
 We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. On deck is the Golden Gauntlets. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
+
+### Spectral Knight Quest (Early)
+
+It's worth noting that there are some rewards we can get, but they're locked behind some Lv. 80 battles. Take these on early if you think you can handle it.
+
+If you take a quick truck drive to Goldenleaf. Enter the Lost Castle to the north and enter the room immediately on the right. Jump down the hole to reach a 9-badge gate. Inside, you can open a chest in the left room for a battle!
+
+!battle(["Ceruledge", :SPECTRALKNIGHT, 0], "Haunted Field")
+
+For winning, you'll get the *Malicious Armor* and the *Golurkite*!
+
+In the right room:
+
+!battle(["Ceruledge", :SPECTRALKNIGHT, 1], "Haunted Field")
+
+For winning, you'll get the *Auspicious Armor* and the *Chesnaughtite*!
+
+You can jump back down outside.
 
 ## Grand Express
 
@@ -20,7 +38,7 @@ We will be free to explore the train. In a room to the right:
 
 !battle(["Narcy",:CHANELLER,0])
 
-Talk to Venam at the bar.
+Talk to Venam on the left, then at the bar.
 
 **Relationship Point Choices**:
 - Talon was my friend... (+2 Kanon, +2 Venam. Requires completion of Tyluric Temple)
@@ -52,13 +70,13 @@ We can return to the train to heal and use the PC.
 
 !enc(350, nil, ["Old", "Good"], "Route 7 / Yui's Ranch")
 
-Also, you can fight stationary **Sawsbuck** here. 
+Also, you can fight stationary Deerling and **Sawsbuck** here. 
 
 Down from here is a hidden *Blue Shard* and *Honey*. Surf to the left for a *Rare Candy*. To the left on land is a hidden *Green Shard*. Head east to enter Oblitus Town.
 
 Talk to the crew on the hill, then again above the tracks. Grab the hidden *Link Heart* to the right, then follow them to the left. Go north to enter Yui's Ranch.
 
-Pick up hidden *Blue Shard*, *Green Shard*, and *Fire Gem*, then cross the bridge to the left and grab a hidden *Ultra Potion*.
+Pick up hidden *Blue Shard*, *Green Shard*, and *Fire Gem*, then cross the bridge to the left and grab a hidden *Ultra Potion* and *Micle Berry*.
 
 !battle(["Shara",:KIMONOGIRL,0])
 
@@ -68,7 +86,7 @@ Enter the ranch area to the right and pick up the hidden *Yellow Shard*.
 
 !battle(["Harvey",:CAMPER,0])
 
-Grab the hidden *Moomoo Milk* and *Max Repel* to the right. Up from here is a hidden *Red Shard*, *Elemental Seed*, and *Pecha Berry*. Plus:
+Grab the hidden *Moomoo Milk*, *Belue Berry*, and *Max Repel* to the right. Up from here is a hidden *Red Shard*, *Elemental Seed*, and *Pecha Berry*. Plus:
 
 **ZCell 095: Yui's Ranch**
 
@@ -78,13 +96,13 @@ Enter the northern barn on the ranch. You can find a hidden *Oran Berry*, *Stabl
 
 If you completed all of the Kristiline Help Quests, there is a new quest we can do. In the house to the left, accept Ben's Sidequest upstairs. At night, head into the upper barn and talk to Ben again. You need to CATCH each Inkay outside. Ben will be kidnapped after... so we'll have to complete this quest later.
 
-Head north from the ranch onto the Grand Bridge map. After the chat, reenter the map and grab *TM123 Self Destruct* on the right, and on the left:
+Head north from the ranch onto the Grand Bridge map. After the chat, reenter the map and grab *TM123 Self Destruct* on the right, and on the left a hidden *Durin Berry* plus:
 
 **ZCell 096: Grand Bridge**
 
 !img("zcell096.png")
 
-Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's truck guy and Terajuma's Noctowl statues.
+Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's Truck Guy and Terajuma's Noctowl statues.
 
 Exit the ranch map in the bottom left to return to the first map of Route 7 from a different vantage point. Push a stone over the water to create a shortcut, then grab the *Ether* to the left. Enter the house barred by the cut tree at the top to meet the PC manager.
 
@@ -102,25 +120,29 @@ Back on Route 7, go to the bottom left corner and cross the bridge.
 - She's in the city? (+2 Venam, +2 Melia)
 - Something's happened? (-2 Venam)
 
-Head left onto another map of Route 7. Follow Florin and Flora across the water.
+Head left onto another map of Route 7. After seeing Florin and Flora for the first time, go south to grab a hidden *Iapapa Berry*. Follow Florin and Flora across the water and grab another hidden *Iapapa Berry*.
 
 !battle(["Flynn",:HIKER,0])
 
-Head to the right from the hiker. You can spend time with Melia here.
+Approach the bottom left corner. Behind a Geodude that you must *catch* is a hidden *Lax Mint*. To the left, grab the hidden *TinyMushroom*. Keep in mind that the Darchlight Woods are beyond this area; we will enter later.
+
+Backtrack up and head to the right from the hiker. You can spend time with Melia here.
 
 **Relationship Point Choices**:
 - Hapi (+2 Melia)
 - The food (-1 Melia)
 
-To the right and up is a hidden *Yellow Shard* and *Blue Shard*, with a hidden *Reverse Candy* just across the water. In the map's top right corner is a hidden *Red Shard* and *PP Up*. Notably you can battle stationary **Scolipede** here!
+To the right and up is a hidden *Yellow Shard* and *Blue Shard*, with a hidden *Reverse Candy* just across the water.
 
-Head to the top left of the map now. There is another Luck's Tent here. Nearby, activate a Braviary Post! Head north to a new map.
+[New Game+ Content](#chapter-10-ng)
+
+In the map's top right corner is a hidden *Red Shard* and *PP Up*. Notably you can battle stationary **Scolipede** here!
+
+Head to the top left of the map now. Pickup the hidden *Durin Berry* in the field near Fomantis. There is another Luck's Tent here. Nearby, activate a Braviary Post! Head north to a new map.
 
 Get a hidden *Green Shard* and go up.
 
 !battle(["Timmy",:COOLTRAINER_M,0])
-
-Head east to reach Yui's Ranch again - the cops will now have moved. Cut a tree to the right for *TM107 Slash and Burn*. Up north, you can cut a tree to get *BrightPowder*. Head south then west to return to the previous map.
 
 Go up to pick berries: *18 Sitrus Berries*, *18 Oran Berries*, and *3 Persim Berries*.
 
@@ -132,37 +154,41 @@ To the left:
 
 Enter the Milk Bar.
 
-!shop("Magic Milk Bar", ["Oran Berry", "Sitrus Berry", "Moomoo Milk", "Rose Tea"])
+!shop("Magic Milk Bar", ["Poke Ball", "Great Ball", "Ultra Ball", "Oran Berry", "Sitrus Berry", "Moomoo Milk", "Tart Apple", "Sweet Apple", "Syrupy Apple", "Rose Tea"])
 
-That's it for this area, so return to Yui's Ranch, then go up and left to enter Honec Woods.
+Head east to reach Yui's Ranch again - the cops will now have moved. Cut a tree to the right for *TM107 Slash and Burn*. Up north, you can cut a tree to get *BrightPowder*. 
 
-## Honec Woods
+Head west into Honec Woods.
+
+### Honec Woods
 
 !enc(369, nil, ["Old", "Good"])
 
-Surf to the left. Find a hidden *Poison Gem*, *Tiny Mushroom*, *Cleanse Tag*, *Leaf Stone* in this area. 
+Surf to the left, then go down. You can snag a hidden *Iapapa Berry*. Make land up and left from here.  Find a hidden *Poison Gem*, *Tiny Mushroom*, *Cleanse Tag*, *Leaf Stone*, *Iapapa Berry* in this area. 
 
 !battle(["Marco",:POKEMONRANGER_M,0], "Swamp Field")
 
-Surf down from the southwest corner of the map and follow the path. 
+Surf down from the southwest corner of the map and climb up the stairs. Pick up the hidden *Micle Berry*.
 
 !battle(["David",:BUGCATCHER,0], "Swamp Field")
 
-There is another Braviary Post here: activate it. Go left at the fork to reach *3 Starf Berries*. The map to the left hasn't got much new but a slightly different encounter table.
+There is another Braviary Post here: activate it. There is a fork here - to go down is to return to a previous map. Go right at the fork to reach a hidden *Tiny Mushroom*. Go left at the fork to reach *3 Starf Berries* and a hidden *Iapapa Berry*. The map to the left hasn't got much new but a slightly different encounter table and 2 hidden jars of *Honey*.
 
 !enc(370, ["Grass"], nil, "Honec Woods (Interior)")
 
-Back in the larger map, make your way to the very top.
+Back in the larger map, make your way towards the top. Climb some stairs and cross a log to reach the Honec Shrine. Here you'll find two hidden *Iapapa Berries* and *TM159 Leaf Storm*! Enter the clearing at the bottom for a hidden *Big Mushroom*.
+
+Return to the previous map, then head up towards the top. Pick up yet another hidden *Iapapa Berry*.
 
 !battle(["Dewey",:TOURIST,0], "Swamp Field")
 
-Grab a hidden *Reverse Candy* behind the tree and proceed to the next map. Pick up 2 hidden *Honey*.
+Grab a hidden *Belue Berry* and *Reverse Candy* then proceed to the next map. Pick up 2 more hidden *Honeys*.
 
 !battle(["Resa",:LASS,0], "Swamp Field")
 
 !battle(["Billy",:YOUNGSTER,0], "Swamp Field")
 
-Cross the bridge at the top. Watch the scene play out here. You can also access the honey tree at the top, but it only works once a day. It will be either Forretress, Aipom, Burmy, or Combee... all of which we can get in easier ways. Pick up the hidden *Aspear Berry* here.
+To continue Ben's quest, cross the bridge at the top. Watch the scene play out here. Grab the *Malamarite*, *Inverse Field Readout*, and... hidden *Aspear Berry* here. You can also use the honey tree at the top, but it only works once a day. It will be either Forretress, Aipom, Burmy, or Combee... all of which we can get in easier ways. 
 
 Head back to Yui's Ranch and talk to Ben. You'll get 3 *Cherish Balls*! (+1 Karma)
 
@@ -172,20 +198,24 @@ Now, the shop inside is in business during the morning and day:
 
 ## Darchlight Woods
 
-Make your way back to the hilly map of Route 7 and approach the bottom left corner. Behind a Geodude is a hidden *Lax Mint*. To the left, grab the hidden *TinyMushroom* and enter the Darchlight Woods.
+Return to the large, hilly map of Route 7 and enter the Darchlight Woods in the far southwest corner.
 
 **Relationship Point Choices**:
-- What are YOU doing here? (-1 Flora if Tyluric Temple complete, -1 otherwise)
-- Just chilling, plank you. (+2 Florin if Tyluric Temple complete, Neutral otherwise)
+- What are YOU doing here? (-1 Flora if Tyluric Temple complete, -2 otherwise)
+- Just chilling, plank you. (+1 Florin if Tyluric Temple complete, Neutral otherwise)
 
 !enc(358, nil, ["Old", "Good"])
 
-Grab the hidden *TinyMushroom* and *Big Mushroom*. Talk to a person above for *TM149 Draining Kiss*! Continue up from here and talk with Florin.
+Catch a second Shroomish for a trade later.
+
+Grab the hidden *TinyMushroom* and *Big Mushroom*. Talk to a person above for *TM149 Draining Kiss*! In the top left corner, you can fight the next Gimmighoul and get *100 Gimmighoul Coins*! Continue up from here and talk with Florin.
 
 **Relationship Point Choices**:
 - You know a lot about this! (+2 Florin)
 - I'm not interested. (-2 Florin)
 - Where do I start? (Neutral)
+
+You can talk to **Impidimp** to catch it!
 
 On this map, you can get hidden *Ether*, *Dark Gem*, *Reverse Candy*, and *TinyMushroom*. Get *TM95 Snarl* across the water.
 
@@ -203,11 +233,13 @@ Grab the hidden *TinyMushroom* on the water.
 
 !battle(["Bella",:FAIRYGIRL,0], "Bewitched Field")
 
-Activate a Braviary Post to the left. Head south and grab a *Bold Mint* and hidden *Dark Gem*. Go left to reach a new map. 
+Activate a Braviary Post to the left. Grab the hidden *Watmel Berry*, then head south and grab a *Bold Mint*, plus hidden *Dark Gem* and another *Watmel Berry*. Go left to reach a new map. 
 
-Grab the *Big Mushroom*. You can talk to **Impidimp** to catch it! In the top left of this map is a *Carbos*. Go north from here onto a new map. You'll find a hidden *Big Mushroom* and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *TinyMushroom*. Head through the gate and proceed.
+Grab the *Big Mushroom*. Surf to the left to obtain the *Bewitched Woods Field Readout*! In the top left of this map is a *Carbos*. Go north from here onto a new map. 
 
-## Darchlight Caves
+You'll find a hidden *Big Mushroom*, *Blue Shard*, and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *TinyMushroom*. Head through the gate and proceed.
+
+### Darchlight Caves
 
 Press up to escape when prompted.
 
@@ -299,7 +331,6 @@ Head left and talk to Erin.
 **Relationship Point Choices**:
 - Erin's right. (+2 Erin, +2 Florin)
 - You should have known. (-2 Florin)
-- Maybe we should rethink. (-3 Erin)
 
 Return to the Darchlight Mirror room. Make a *Darchlight Mirror* just as we did before:
 
@@ -320,7 +351,7 @@ In the next room, get a hidden *Yellow Shard* and *Max Repel*. You'll choose bet
 
 !dbattle(["Ken",:BLADESTAR_M,0], ["Yula",:BLADESTAR_F,0], "Dark Crystal Cavern")
 
-Pick up the hidden *Blue Shard*. We can't proceed down, so follow the path up. Grab the hidden *Ghost Gem* and enter this cave. Use the Darchlight Mirror again.
+Pick up the hidden *Blue Shard*. We can't proceed down, so follow the path up. Grab the hidden *Rock Gem* and enter this cave. Use the Darchlight Mirror again.
 
 Return to where we fought the grunts. You can choose to battle them or not.
 
@@ -354,7 +385,7 @@ Talk to Flora. This plays out differently if Florin attacked all the grunts so f
 - After Florin handles all grunts, say "That was reckless" (+2 Erin)
 - After Florin handles all grunts, say "She had it coming (-6 Erin)
 
-Go to the right. You'll get a hidden *Ghost Gem* and *TM115 Mega Punch*. Across the bridge is a hidden *Ether* and *Reverse Candy*. Enter the Decompression Lab at the top. There is a *Hyper Potion* in the room to the left.
+Pickup the hidden *Psychic Gem*. Go to the right. You'll get a hidden *Ghost Gem* and *TM115 Mega Punch*. Across the bridge is a hidden *Ether* and *Reverse Candy*. Enter the Decompression Lab at the top. There is a *Hyper Potion* in the room to the left.
 
 Nearby, there is a dark hallway. Hug the right wall to enter a new room, grab a hidden *Luxury Ball*, then cross the bridge over the conveyor belt. Grab *Revive*.
 
@@ -390,15 +421,17 @@ Grab the hidden *Super Repel*, *Dark Gem*, *Yellow Shard*, *Roseli Berry*, *Magi
 
 !battle(["Jude",:POKEBREEDER_F,0], "Bewitched Field")
 
+A building on the left side contains an NPC who will change Hidden Power types for 5 Heart Scales.
+
 Head to the west at the bottom of the village, to reach Route 8.
 
 !enc(361, nil, ["Old", "Good"])
 
-Wow, a whole lotta nothing new! Anyways, activate another Braviary Post. You can find a hidden *Green Shard*, *Red Shard*, *Soda Pop*, and *Blue Shard* here. Follow the path left to the trailer.
+Wow, a whole lotta nothing new! Anyways, activate another Braviary Post. You can find a hidden *Durin Berry*, *Green Shard*, *Red Shard*, *Soda Pop*, and *Blue Shard* here. Follow the path left to the trailer.
 
 !battle(["Julie",:XENMAGE_F,0])
 
-Past the other exit of the trainer is another hidden *Blue Shard* as well as *TM156 Air Slash*!
+Past the other exit of the trainer is a hidden *Durin Berry* plus *Blue Shard* as well as *TM156 Air Slash*!
 
 Return to the Azure Port. Enter the building on the right.
 
@@ -450,7 +483,7 @@ Enter the Darchlight Manor area to the north of the Darchlight Village.
 
 !enc(408, nil, ["Old", "Good"], "Darchlight Manor (Exterior)")
 
-Head inside.
+Grab the hidden *Watmel Berry* and head inside.
 
 !enc(112, nil, ["Old", "Good"], "Darchlight Manor (Interior)")
 
@@ -458,9 +491,9 @@ The first room contains a hidden *Ghost Gem*. A room on the bottom right contain
 
 Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Feather*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
 
-Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the book below  Clefairy. Return to the entrance hall of the house to talk to Clefairy two more times. Follow it into the office at the top. 
+Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the book below Clefairy. Return to the entrance hall of the house to talk to Clefairy two more times. Follow it into the office at the top. 
 
-Enter the room on the right, and grab the *Cabinet Key* from the cabinet at the top. Go left then into the top right room to talk to Clefairy in this cabinet. Enter the dining room downstairs to find Clefairy again... then follow it to the topleft room in the building. Interact with the left painting and enter the fireplace. Pick up *Gate Key*, *TM12 Taunt*, and: 
+Enter the room on the right, and grab the *Cabinet Key* from the cabinet at the top. Go left then into the top right room to talk to Clefairy in this cabinet. Enter the dining room downstairs to find Clefairy again... then follow it to the topleft room in the building. Interact with the left painting and enter the fireplace. Pick up the *Sablenite*, *Gate Key*, *TM12 Taunt*, and: 
 
 **ZCell 101: Darchlight Manor**
 
@@ -472,7 +505,7 @@ Talk to Clefairy at the top of the entry stairs, then push the boulder down. In 
 
 !img("zcell102.png")
 
-Outside at the top, grab hidden *Ether*, *Purple Nectar* (repeatable), and *Tiny Mushroom*. Grab *TM114 Leech Life* plus
+Interact with the notebook, then exit above. Outside at the top, grab hidden *Ether*, *Purple Nectar* (repeatable), and *Tiny Mushroom*. Grab *TM114 Leech Life* plus
 
 **ZCell 103: Darchlight Manor**
 
@@ -487,3 +520,7 @@ That's all we can do in the Darchlight Manor, but head back over to the Honec Wo
 There is a hidden *Big Mushroom* down from here plus another Honey tree. That's all for Strength exploration for now, since we cannot return to Floria or Terajuma yet.
 
 To finish the chapter, get on the Grand Express, then talk to the group in your cabin.
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>

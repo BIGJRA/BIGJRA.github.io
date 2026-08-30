@@ -44,7 +44,9 @@ Head up three flights of stairs to talk to Captain Augustus. He'll explain a few
 
 Once you regain control, follow the path and watch the events play out.
 
-## Gearen Laboratory
+## East Gearen City
+
+### Gearen Laboratory
 
 After either skipping the boat scenes or watching the cutscenes, talk to Tesla. She'll give you some money. Once you regain control, you can explore Oceana Pier.
 
@@ -88,15 +90,15 @@ I recommend picking up at least a few Poke Balls as a full team is almost necess
 
 There is a quest available here by talking to an NPC next to the nurse with a floating "!" - I will cover it with the other "Help Center" quests later, though you may accept it now. When you're ready, head back outside. 
 
-## Oceana Pier
+### Oceana Pier
 
 A few things have opened up at the pier, so head south first.
 
-The garden to the south is also now open, so you can catch level 5 **Fletchling** here by interacting with them. There is a dumpster at the bottom that contains a hidden *X Accuracy*, while the nearby stairs hide a *Sweet Heart*.
+The garden to the south is also now open, so you can catch level 5 **Fletchling** here by interacting with them. There is a dumpster at the bottom that contains a hidden *Sweet Heart*, while the nearby stairs hide a *X Accuracy*.
 
 Head into the building on the west side that's now unlocked. Talk to the man with the yellow hair, then exit the building and watch Buizel run by. This starts a quest we'll complete later. Return to East Gearen.
 
-## East Gearen City
+### Exploring East Gearen City
 
 It's worth noting that the Cybernav in this game has a feature called the Spice Scent which allows you to modify your encounter rate for free! This means you can crank it up high to get an encounter on every step, walk in grass hassle free by setting it to zero, or anything in between. It also means that Repels are effectively useless, so selling the ones we find is the way to go.
 
@@ -241,7 +243,7 @@ Win the battle, and **Buizel** is yours!
 
 Head up to the Chrisola Hotel courtyard. On the left is an *Iron*. The tile to the right of the first patch of grass right of the entrance contains a hidden *Green Shard*. Inside the hedge maze to the right, you can get hidden *Repel* and *Red Shard* in rocks, hidden *Revive* in the bottom right corner, as well as an *Antidote* and *TM83 Infestation*.
 
-## Chrisola Resort
+### Chrisola Resort
 
 Enter the Chrisola Hotel Resort at the top of the map.
 
@@ -281,7 +283,7 @@ There are Pokemon to encounter here.
 
 Once you're done, head back outside.
 
-## Gearen Park
+### Gearen Park
 
 Head to the bottom left side of East Gearen (Right) and enter Gearen Park.
 
@@ -293,7 +295,7 @@ On the right in a blue flower is a hidden *Blue Shard*. A purple flower on the l
 
 Enter Luck's Tent. On the left, you can talk to Marshadow, who will teach us Tutor Moves in exchange for Shards. Note that you can learn any move you've purchased via the Cybernav.
 
-!tutor("Marshie Move Tutor", [["Bind", "2 Red Shards"], ["Covet", "2 Blue Shards"], ["Block", "2 Yellow Shards"], ["Spite", "2 Green Shards"], ["Swift", "2 Yellow Shards"], ["After You", "2 Red Shards"], ["Magic Coat", "2 Blue Shards"], ["Venom Drench", "2 Blue Shards"]])
+!cshop(:MarshieMoves, "MarshieMoveTutor")
 
 Talk to Mr. Luck to begin the *Bad Luck* quest. Sign his contract to have your sprite changed! Ask him to be changed back, then follow him to the back room. He'll request that we find for him one Black Prism, which we can find on rainbow-aura wild Pokemon that are about a 1% chance of appearing. Head into the grass and grind one of these out... and return with the Prism to be turned back, completing this quest.
 
@@ -350,7 +352,7 @@ This is our first encounter with a Ruthless Pokemon, which are bosses similar to
 
 This battle is a good introduction to them that shouldn't be too hard: the boss is just a "regular" Lv. 12 Garbodor. It gains the Dark type and eventually a Trubbish ally, but otherwise this fight boils down to simply defeating a Garbodor three times with the help of your ally Ren.
 
-## Game Corner & Gearen Park Conversation
+### Game Corner & Gearen Park Conversation
 
 Now that we have the Coin Case, let's go gambling! While you can get all the rewards right now with enough patience, it's not necessary to grab everything right now. Rejuvenation doesn't currently have the high-stakes Roulette table that Reborn does, so being really, really good at Voltorb Flip is your best bet.
 
@@ -521,7 +523,7 @@ This is a somewhat tough battle, though you can level a team of six all the way 
 
 After the battle, you'll be rewarded with the *PoisonHeart Badge*! She'll also give you *TM102 Poison Sweep*! This is a new move that can be useful in the early game. Oh, and the level cap has now gone up: to Lv. 25!
 
-## Post-Gym Quests
+### Post-Gym Quests
 
 On your way out of the gym, talk to Ayuda to get the *Gather Cube*! 
 
@@ -569,7 +571,7 @@ Head into the help center and talk to Ayuda. He will task us with collecting fiv
 
 !img("zcell004.png")
 
-## Route 1 and Goldenwood Forest
+## Route 1 & Goldenwood Forest
 
 Once you're ready to leave, head to the northwest part of town and enter the train station. Inside the station, you'll meet up with Tesla, who'll buy you a ticket and give you *3 Potions*. Talk to the grandfather in the station and agree to help him for the *Lost Girl!* quest, then board the train.
 
@@ -643,7 +645,7 @@ If you completed the secret scene earlier, instead you face:
 
 Your second-stage starter and allies should be able to make short work of this team. Just be careful to not let Togepi buff itself up with Ancientpower too many times and you can make it through.
 
-## Goldenwood Xen Attack
+### Goldenwood Xen Attack
 
 As soon as Melia leaves, head back out through Goldenwood Cave. In the briefcase, enter 3845 for an *Ability Capsule*. To progress, enter 6489. You'll get the *Snag Machine* and *15 Poke Balls*. Just like in Colosseum and XD, all you must do is use Poke Balls on opponents' Shadow Pokemon to catch them. We won't be able to purify Shadow Pokemon quite yet, nor can we use them in Gym Battles until they are purified.
 

@@ -155,10 +155,6 @@ class FunctionWrapper
     table_header['class'] = 'table-header'
     table_header['style'] = 'text-align: center;'
 
-    # Hardcode deletes from Lookup Hash due to in progress development
-
-    lookup_hash.delete(:LEADERSCREST)
-    lookup_hash.delete(:BOOSTERENERGY)
     
     # Sorts items by order in item hash
 
@@ -176,12 +172,14 @@ class FunctionWrapper
           form_1_key = @pokemonHash[pokemon].keys.find_all { |key| key.is_a?(String) }[0]
           form_1_data = @pokemonHash[pokemon][form_1_key]
           pokemon_name = "#{@pokemonHash[pokemon][form_1_key][:name]}"
-          if form == 'Alolan Form'
-            "#{pokemon_name} (#{form})"
+          if pokemon_name == 'Minior'
+            pokemon_name.to_s
+          elsif form != 'Normal Form' && form != form_1_key
+            "#{pokemon_name} (#{form.sub(' Form', '')})"
           else
             pokemon_name.to_s
           end
-        end.join(', ')
+        end.uniq.join(', ')
 
         # Concatenate the rarity and Pokemon string
         result << "- #{rarity.capitalize} (#{{ 'common' => 50, 'uncommon' => 5,

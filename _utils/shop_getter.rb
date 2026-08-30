@@ -169,8 +169,6 @@ class ShopGetter
   end
 
   def stock_display_name(stock)
-    custom_name = stock.properties_hash[:display_name]
-    return custom_name if custom_name
     prefix = stock.quantity == 1 ? '' : "#{stock.quantity}x "
 
     case stock.stock_type

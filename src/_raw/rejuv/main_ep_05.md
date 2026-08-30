@@ -144,9 +144,9 @@ Our second encounter with Nim sees her Pokemon with much stronger Pokemon with s
 
 Head into Akuwa Town and talk to Aelita. Enter the Pokemon Center to grab the defibrillator in the back room, then talk to Aelita once more. Meet with her at the ACDMC on the east side of Akuwa Town. This unlocks the Truck Guy spawn to the south. We'll explore the rest of Akuwa Town a bit later, but before we do, there are some sidequests we can tackle!
 
-## Lost Souls 1
+### Lost Souls 1
 
-Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the truck guy to zip around.
+Head to the left at the top of Route 4, and sneak through the gap in the fence. Enter Lost Camp and talk to Maman. She'll quest us with finding *Lost Souls*. Use the Truck Guy to zip around.
 
 1.  Andrew can be found in Abandoned Sewers underneath Gearen City by crossing the first bridge north, then the first bridge west, then the first bridge down in an alcove at the bottom.
 2.  James can be found by entering Spring of Purification from Sheridan Village. He's on the right.
@@ -167,7 +167,7 @@ As an aside, if you want quick AP, we can use Matthew's stones to complete many 
 
 Anyways, Maman will let us donate once more to the camp. Donate $7000, and you'll be able to catch **Eevee**!
 
-## Mystery Egg Quest
+### Mystery Egg Quest
 
 There are a few more quests we can take care of before proceeding.
 
@@ -408,7 +408,7 @@ Whether you win or lose, watch the next scenes play out.
 
 Goodbye Blacksteeple Castle!
 
-## Xen Battleship
+### Xen Battleship
 
 We'll wake up on the ship with Adam.
 
@@ -446,7 +446,7 @@ Gilded Arrow uses the user's second type, unless its Dragon or Fairy, or unless 
 
 After you win, head out to the deck and talk to Melia again.
 
-## Terajuma Jungle
+## Kakori Village
 
 Once you beach, you'll have to battle two rangers, with the above Melia as a partner.
 
@@ -475,8 +475,6 @@ It's worth noting the game, for story reasons, has currently frozen the time of 
 Grab the hidden *Tiny Mushroom*, *Yellow Shard*, *Pecha Berry*, and *Ultra Ball* on this map. In the top left is *TM131 Bullet Seed* and a hidden *Potion*.
 
 Go up in the top right.
-
-## Kakori Village
 
 **Relationship Point Choices**:
 - You're our friend. (Nim +6)
@@ -527,7 +525,7 @@ Once you win, you'll get the sixth *Virtual Badge*.
 
 Exit to the Mynori Sea area to the north.
 
-## Mynori Sea
+### Mynori Sea
 
 !enc(299, ["Grass", "Fishing"], ["Old"])
 
@@ -579,7 +577,7 @@ On this map, grab the hidden *Dusk Ball* and *Lemonade*. Go right from here.
 
 Grab the hidden *Star Piece*, *Red Shard*, *Stardust*, and an *Exp. Candy L* by pushing a floating stone out of the way.
 
-## Tyluric Temple
+### Tyluric Temple
 
 Return to the previous map and go up.
 
@@ -596,7 +594,7 @@ For finishing *Building Bridges* we can cross the bridge above and attempt to en
 
 Unfortunately we can't do anything else without Surf. This is all we can do in the Deep Jungle for now, so backtrack all the way to Kakori Village.
 
-## Daytime on Terajuma
+### Daytime on Terajuma
 
 A boater in Kakori will take us back to Floria Island for $3000. This isn't strictly necessary to do right now... but we have 35 Zygarde Cells, so Ayuda will give us another *Cell Imprint* as well as the *Utility Umbrella*. Our next milestone is 50 cells.
 
