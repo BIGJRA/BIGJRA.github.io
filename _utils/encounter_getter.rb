@@ -65,10 +65,23 @@ class EncounterGetter
 
       types.each do |type|
         next unless data[type]
+        # Sometimes the odds don't sum to 100%
+        total_odds = 0
+        data[type].each do |mon, arr|
+          arr.each do |chance, min_value, max_value|
+            total_odds += chance
+          end
+        end
 
         data[type].each do |mon, arr|
           arr.each do |chance, min_value, max_value|
-            mons[mon][type] += chance
+            odds = ((chance * 100).to_f / total_odds).round(2)
+            # If it comes out to an integer, convert it to an integer for cleaner output
+            if odds.to_s.end_with?('.0') 
+              odds = odds.to_i 
+            end
+
+            mons[mon][type] += odds
             (min_value..max_value).each { |num| mons[mon]['levels'].add(num) }
           end
         end
@@ -136,7 +149,8 @@ class EncounterGetter
 
       table.add_child(thead)
 
-      mons.each do |mon, mon_data|
+      mons.sort_by { |mon, _data| @pokemonHash.keys.find_index(mon.is_a?(Array) ? mon[0] : mon) }.each do |mon, mon_data|
+        
         # Create a table row element
         tr = doc.create_element('tr')
 
