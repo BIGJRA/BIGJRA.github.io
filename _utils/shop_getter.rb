@@ -82,7 +82,11 @@ class ShopGetter
     end
 
     unless inventory.is_a?(Array)
-      raise "Shop #{shop_key.inspect} is a shop menu, not an item inventory"
+      if inventory.is_a?(Hash)
+        inventory = inventory.values.flatten
+      else
+        raise "Shop #{shop_key.inspect} is a shop menu, not an item inventory"
+      end
     end
 
     shop_items = inventory
@@ -129,7 +133,7 @@ class ShopGetter
       return true
     end
 
-    warn "Unrecognized shop condition: #{condition}"
+    # warn "Unrecognized shop condition: #{condition}"
     true
   end
 
@@ -173,7 +177,7 @@ class ShopGetter
 
     case stock.stock_type
     when :item
-      prefix + item_display_name(stock.item)
+      prefix + item_display_name(stock.item) + (stock.quantity > 1 ? "s" : "")
     when :move
       prefix + move_display_name(stock.item)
     when :currency
@@ -242,8 +246,21 @@ end
       BLUESHARD: ['Blue Shard', 'Blue Shards'],
       GREENSHARD: ['Green Shard', 'Green Shards'],
       YELLOWSHARD: ['Yellow Shard', 'Yellow Shards'],
+      TINYMUSHROOM: ['Tiny Mushroom', 'Tiny Mushrooms'],
       BIGMUSHROOM: ['Big Mushroom', 'Big Mushrooms'],
-      BALMMUSHROOM: ['Balm Mushroom', 'Balm Mushrooms']
+      BALMMUSHROOM: ['Balm Mushroom', 'Balm Mushrooms'],
+      HARDSTONE: ['Hard Stone', 'Hard Stones'],
+      ICYROCK: ['Icy Rock', 'Icy Rocks'],
+      SMOOTHROCK: ['Smooth Rock', 'Smooth Rocks'],
+      HEATROCK: ['Heat Rock', 'Heat Rocks'],
+      DAMPROCK: ['Damp Rock', 'Damp Rocks'],
+      AMPLIFIELDROCK: ['Amplifield Rock', 'Amplifield Rocks'],
+      ODDKEYSTONE: ['Odd Keystone', 'Odd Keystones'],
+      IRONBALL: ['Iron Ball', 'Iron Balls'],
+      OVALSTONE: ['Oval Stone', 'Oval Stones'],
+      FLOATSTONE: ['Float Stone', 'Float Stones'],
+      RAREBONE: ['Rare Bone', 'Rare Bones'],
+      STARPIECE: ['Star Piece', 'Star Pieces'],
     }
 
     singular, plural = names.fetch(currency) do

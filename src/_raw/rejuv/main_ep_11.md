@@ -444,9 +444,34 @@ Enter the Grand Terminal Station and go to the left. In the Night Market, go rig
 
 Back in the Penthouse, talk to Aelita, then to Allen and Alice in the rightmost room. You'll get a *Nightmare Medallion*!
 
+### Beth Sidequest
+
+Before we continue the story, the Grand Bridge has been fixed, meaning we can now access Route 7 and the surrounding areas again! Take a moment to head south out of Grand Dream City into Yui's Ranch.
+
+Talk to Beth near the northern barn, then to her again near the Braviary Post.
+
+**Relationship Point Choices**:
+- Just taking a walk. (Neutral)
+- Looking to chat with you! (+2 Beth)
+- Nothing much, really. (Neutral)
+
+**Relationship Point Choices**:
+- Sweet (Neutral)
+- Neutral (Neutral)
+- On the not-so-good side (-2 Beth)
+
+Talk to her a few more times, then follow her into Honec Woods. You'll find her on the left side - give her four Honeys to get *5 Big Mushrooms*.
+
+**Relationship Point Choices**:
+- Give Beth four Honeys (+3 Beth)
+
+If you return to Beth in Yui's Ranch, she will offer you some trades for mushrooms.
+
+!cshop(:BethShopMining, "Beth's Mushroom Shop")
+
 ## Nightmare Toy Box
 
-Go to sleep in your bed at the penthouse. 
+Return to GDC. Go to sleep in your bed at the penthouse. 
 
 Talk to Aelita in the first area. Enter the room to the left. 
 

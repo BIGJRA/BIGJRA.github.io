@@ -205,7 +205,7 @@ class EncounterGetter
           td_encounter_type.content = if mon_data[encounter_type] == 0
                                         '--'
                                       else
-                                        mon_data[encounter_type].to_s + '%'
+                                        mon_data[encounter_type].round(2).to_s + '%'
                                       end
           tr.add_child(td_encounter_type)
         end
