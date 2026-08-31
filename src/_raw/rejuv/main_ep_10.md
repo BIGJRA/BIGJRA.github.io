@@ -489,6 +489,8 @@ Grab the hidden *Watmel Berry* and head inside.
 
 !enc(112, nil, ["Old", "Good"], "Darchlight Manor (Interior)")
 
+We will want Sinistea for an in-game trade a bit later on.
+
 The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
 
 Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Feather*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 

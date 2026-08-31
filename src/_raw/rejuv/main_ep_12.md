@@ -24,7 +24,7 @@ Go down two flights and talk to the cash register. Then, head back up, talk to M
 
 Talk to Isha. This is all we can do for this quest right now.
 
-Enter the Hospital of Hope after your conversation with Aelita on the bridge. Inside the hospital, talk to Melia. Return to the Grand Dream Station and talk to Aelita.
+Now we continue the main story. Head back inside the hospital and talk to Melia. Return to the Grand Dream Station and talk to Aelita.
 
 **Relationship Point Choices**:
 - All responses at GDS (-2 Aelita)
@@ -33,7 +33,7 @@ Enter the Hospital of Hope after your conversation with Aelita on the bridge. In
 
 !enc(254, nil, ["Old", "Good"])
 
-Talk to the Braviary Post to activate this location. The train between GDC and Route 9 is fairly expensive, so I recommend flying between Route 9 and Yui's Ranch then taking the Grand Bridge into the city if needed, for now.
+Talk to the Braviary Post to activate this location.
 
 !battle(["Nadia",:CHANELLER,0])
 
@@ -53,9 +53,9 @@ We'll do the cave a bit later. Head down to the beach, which is filled with wild
 
 !img("zcell110.png")
 
-Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**!
+Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**! Across the pond is the *Pinsirite*!
 
-Surf back to the mainland of Route 9. Hidden on Route 9, you'll find a *Calcium*, *Carbos*, *Big Mushroom*, *Resist Feather*, and *Swift Feather*. 
+Surf back to the mainland of Route 9. Hidden on Route 9, you'll find 2 *Belue Berries*, *Calcium*, *Carbos*, *Big Mushroom*, *Resist Feather*, and *Swift Feather*. 
 
 Next, enter the main entrance to the cave to the northeast.
 
@@ -71,7 +71,7 @@ Exit out the bottom to catch more **Sewaddle (Aevian)** if you wish.
 
 That's all we can do in this section of the cave, so head back out and go to the left, where the hiker is, and enter this cavern. At the top, use rock climb to grab an *Ability Capsule*. There's also a *Dusk Stone* hidden behind the rock smash path at the bottom. Pick up the hidden *Mineral Ball* and *Ether* as you go to the right.
 
-Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path: follow it to get *TM35 Flamethrower*! The tree here also has hidden *Honey* in it. 
+Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path. You can also battle the next Gimmighoul and obtain 100 more *Gimmighoul Coins*! Exit to get *TM35 Flamethrower*! There is also a hidden *Belue Berry* and *Honey*. 
 
 Return to the main part of Route 9. Make your way to the northwest: there is a breeder here, and each time you win, you will get *7 Exp. Candy L*.
 
@@ -85,7 +85,7 @@ That's all the exploring on this map we can do for now, so continue northwest on
 
 Enter the theater.
 
-## Rose Theater
+### Rose Theater
 
 Enter the room above.
 
@@ -93,7 +93,7 @@ Enter the room above.
 
 !img("zcell113.png")
 
-Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. Exit the southeasternmost door to grab a *Flying Memory*. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
+Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
 
 Head up the stairs located in the room behind the stage, and enter the left door. After the conversations, talk to Aelita again in the restaurant downstairs on the right side.
 
@@ -112,7 +112,13 @@ You'll be asked to type a name.
 **Relationship Point Choices**:
 - Answer "Nymiera" (+2 Damien)
 
-Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there is a quest we will take care of real quick.
+Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there are a few quests we will take care of real quick.
+
+While we're here, you can trade your Sinistea in the lower right corner of the restaurant to get **Poltchageist**!
+
+Speaking of, Madame Peony now has new inventory in the Night Market:
+
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
 
 ## Kimono Girls Quest
 
@@ -150,18 +156,18 @@ Once you've found them all, next, head back to the Rose Theater and talk to Ayun
 
 !battle(["Ayuna",:KIMONOGIRL2,0])
 
-Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Ice Stone*! Head down to talk to the hiker in the crowd, to get another *Somniam Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
+Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Audinite*! Head down to talk to the hiker in the crowd, to get another *Somniam Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
 
 **Relationship Point Choices**:
 - Complete the Kimono Girls Quest (+1 Erin)
 
 We can return to GDC to do some shopping at the Somniam Mall now if we wish:
 
-!shop("Somniam Mall Battle Items + Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
+!shop("Somniam Mall Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
 
-!shop("Somniam Mall Battle Items + Vitamins", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Red Card", "Ring Target", "Metronome"])
+!shop("Somniam Mall Battle Items", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Eject Pack", "Red Card", "Ring Target", "Metronome"])
 
-## Returning to Past Aevium
+## Past Aevium 2
 
 Return to the Rose Theater and talk to the Timesplicer Crystal on the upper floor.
 
@@ -235,7 +241,7 @@ This one honestly isn't too bad, but her team does make good use of the field. H
 - What's up? (Neutral)
 - Can we leave now? (Melia -1)
 
-## Aevium's Potential Future
+### Aevium's Potential Future
 
 After the battle, you'll be whisked away. After a few scenes, head up and into the cave. Talk to Amber in the garden, then Kenneth in the cave. Go to sleep.
 
@@ -351,7 +357,7 @@ The news is good: Melia is your ally, so this is a 12v8. The team still hits ver
 
 Enter the door and return to the past.
 
-## Finishing Up in Past Aevium
+### Finishing Up in Past Aevium
 
 After returning to the past, head into Sheridan Village and go up. Enter the sacrificial chamber.
 
@@ -379,7 +385,9 @@ Go down to the dock, then talk to Spacea and Tiempa.
 
 Take the Timesplicer Crystal back to the present!
 
-## Missing Children
+## Grand Dream City Help Center Quests
+
+### Missing Children Sidequest
 
 Remember the GDC arc? Yeah, this is still the same game. Before we continue the story from here, we're gonna do some side quests!
 
@@ -465,7 +473,7 @@ Enter the diner to the right. Accept the fast travel again. You'll battle Ana: l
 
 That's all we can do in this quest for now!
 
-## Classified Information
+### Classified Information Sidequest
 
 Back in the Central Building, take the request. Talk to the woman in the lobby right of the elevator to get to the 36F of the building.
 
@@ -543,7 +551,7 @@ Win to get the Golden Wing Badge, raising our Level Cap to Lv. 80, and *TM62 Acr
 
 You'll also get... *Souta's Cane*. Well, that's interesting.
 
-## The Aelita Incident
+### The Aelita Incident
 
 Head into the middle room upstairs. After the scene, exit the building.
 
@@ -574,3 +582,9 @@ Back inside, head into the left room upstairs.
 - Too speedy... (Erin -2, Aelita -2)
 
 That concludes Chapter 12!
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>
+
+TODO Exit the southeasternmost door to grab a *Flying Memory*. 
