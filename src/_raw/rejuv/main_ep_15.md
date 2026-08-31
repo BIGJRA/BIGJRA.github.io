@@ -139,10 +139,6 @@ Head west to the Festival Plaza. There is a new tutor on the left.
 
 We've now collected eight of the ten stamps for the mall, so we can buy a whole bunch of new stuff.
 
-!shop("Somniam Mall Rare Gems", ["Fire Gem", "Water Gem", "Normal Gem", "Grass Gem", "Electric Gem", "Poison Gem", "Ground Gem", "Fighting Gem", "Flying Gem"])
-
-!shop("Somniam Mall Rare Gems", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem"])
-
 !shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Link Heart", "Ability Capsule"])
 
 !shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry"])

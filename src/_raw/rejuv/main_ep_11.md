@@ -2,7 +2,9 @@
 
 Grab the hidden *Hyper Potion* in the upstairs of the train station. Head outside to begin to explore the vast Grand Dream City!
 
-## Dream District South
+## Grand Dream City
+
+### Dream District South
 
 !enc(9, ["Grass"], nil, "Dream District (South)")
 
@@ -32,11 +34,11 @@ Pick up the hidden *Dark Gem* and *Magical Seed*.
 
 !battle(["Kenneth",:POKEMONRANGER_M,0], "City Field")
 
-Beat this guy (morning/day only) to get a *Leppa Berry*.
+Beat this guy (morning/day only) to get a *Leppa Berry*. Also daytime only:
 
 !shop("GDC Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream"])
 
-## Judicial District
+### Judicial District
 
 We're next going to head to the west. Checkout Pokestar Studios then go west into the Judicial District.
 
@@ -46,13 +48,13 @@ We're next going to head to the west. Checkout Pokestar Studios then go west int
 
 !enc(317, ["Grass"])
 
+!battle(["Johnson",:OFFICER,0], "City Field")
+
 Enter the police department at the bottom. In the left room, a little bit late, you can find the *Code Sarpa Rift Notes* plus any other limited-time collectible items you missed out on.
 
 Head outside and go down.
 
 !battle(["Andy",:OFFICER,0], "City Field")
-
-!battle(["Johnson",:OFFICER,0], "City Field")
 
 **ZCell 105: Judicial District**
 
@@ -64,15 +66,17 @@ Enter the house in the bottom left corner to begin the *Wall of Shame* quest. Th
 
 There's a hidden *Link Heart* left of the Pokemon Center. We'll tackle the District of Hope a bit later, so head back to Dream District South for now.
 
-## Night Market & Dream District North
+### Night Market
 
 Enter the Night Market at the top right of Dream District South.
 
 !battle(["Andy",:YOUNGSTER,0], "City Field")
 
+!shop("Derek's Balls", ["Poke Ball", "Great Ball", "Ultra Ball"])
+
 An alleyway on the right leads to *TM67 Roost*. On the left at night, you can enter a medicine/incense store.
 
-!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense"])
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Full Heal"])
 
 !battle(["Haydee",:LASS,0], "City Field")
 
@@ -80,33 +84,41 @@ You can get massages for $5000.
 
 Continue north to the Dream District (North).
 
+### Dream District (North)
+
 !battle(["Darel",:CAMPER,0], "City Field")
 
-Enter the Somniam Mall to the right. You'll get a *Somniam Mall Stamp*.
+Enter the Somniam Mall to the right. You'll get a *Somniam Mall Stamp*. We previously got a stamp for doing the Virtual League quest, so we now have two. In the trash can you can find a *Mirror Herb*.
 
 !shop("Somniam Mall General Store", ["Heat Rock", "Icy Rock", "Smooth Rock", "Damp Rock", "Grip Claw", "Light Clay", "Everstone"])
 
 !shop("Somniam Mall General Store", ["Max Repel", "Great Ball", "Ultra Ball", "Full Heal", "Hyper Potion", "Ultra Potion", "Revive", "Escape Rope"])
 
-We previously got a stamp for doing the Virtual League quest, so we can access one more section of the mall.
+!shop("Somniam Mall Rare Gems 1", ["Fire Gem", "Water Gem", "Normal Gem", "Grass Gem", "Electric Gem", "Poison Gem", "Ground Gem", "Fighting Gem", "Flying Gem"])
 
-!shop("Somniam Mall Battle Items + Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone", "Power Lens", "Power Band"])
+!shop("Somniam Mall Rare Gems 2", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem"])
 
-!shop("Somniam Mall Battle Items + Evolutionary Stones", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery"])
+!shop("Somniam Mall Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone"])
+
+!shop("Somniam Mall Battle Items", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery", "Data Drive"])
+
+!shop("Somniam Mall Pokeballs", ["Moon Ball", "Heavy Ball", "Friend Ball", "Love Ball", "Level Ball", "Fast Ball", "Lure Ball", "Steam Ball", "Mineral Ball"])
 
 Outside, head up the hill to the left.
 
 !battle(["Kella",:OPT,0], "City Field")
 
+!battle(["Sharla", :FAIRYGIRL, 0], "City Field")
+
 In Mika's Cafe at night you can get a *Reverse Candy*. Outside, you can find *TM31 Brick Break* on a table. Talk to Mimi at night to begin the *Spiteful Ex* quest.
 
-## Botanical Garden
+### Botanical Garden
 
 Enter the Botanical Garden at the top.
 
 !battle(["Sallie",:CHANELLER,0], "Flower Garden Field")
 
-Hidden here is a *Lum Berry* and *2 Revives*. You can catch the **Petilil** in this area. Towards the top of the map:
+Hidden here is a *Lum Berry*, *Liechi Berry*, and *2 Revives*. You can catch the **Petilil** in this area. Towards the top of the map:
 
 **ZCell 106: Botanical Garden**
 
@@ -122,13 +134,13 @@ On the left side of the map, there is a path that takes you up and left. Grab th
 
 There is a hidden *Pecha Berry* beyond. That's all we can do in the Botanical Garden.
 
-## Central Square
+### Central Square
 
 Head west from Dream District North to enter Central Square.
 
 !enc(194)
 
-Pick up the hidden *Lemonade* and *Exp. Candy XL* on the east side. To the west, hidden are *2 Green Shards*. A man to the left of the tall central building will give you an *HP Up*. A bit down and left from here is a hidden *Max Repel* as well as *Exp. Candy L*. Pick up the *Revival Herb*, then continue east to get a hidden *Grass Gem*, *Muscle Feather*, *Red Shard*, and *Love Ball*. A *Synthetic Seed* is in the southeast corner.
+Pick up the hidden *Lemonade* and *Exp. Candy XL* on the east side. To the west, hidden are *2 Green Shards*. A man to the left of the tall central building will give you an *HP Up* during the day. A bit down and left from here is a hidden *Max Repel* as well as *Exp. Candy L*. Pick up the *Revival Herb*, then continue east to get a hidden *Grass Gem*, *Muscle Feather*, *Red Shard*, and *Love Ball*. A *Synthetic Seed* is in the southeast corner.
 
 !battle(["Drake and Sherry",:COOLCOUPLE1,0], "City Field")
 
@@ -142,26 +154,19 @@ Enter a house just to the left of the center of the map.
 
 Talk to a woman for *5 Persim Berries*. Pick up the *Hyper Potion*. To the right, enter a building to get a *Sun Stone*. Further to the right, enter the tall apartment building. Donate $850 to a woman inside a few times to get a *Rare Candy*. There is also a *Moon Ball* and hidden *Ether* and *Dusk Ball* here. There is a salon down from here that sells $3500 haircuts for friendship.
 
-Outside during the day, talk to a woman in the southwest side of Central Square and attempt to help her cross the street. Talk to the driver to the left to get the first *SPU Parcel* for a delivery sidequest!
+Enter the Central Building at the top of the map. The EV Center is here should you choose to use it (though the Power Items make it obsolete). We can talk to Rhodea to continue the story, but we will explore the city a bit more first.
 
-Enter the Central Building at the top of the map. The EV Center is here should you choose to use it (though the Power Items make it obsolete). Talk to Rhodea here.
-
-**Relationship Point Choices**:
-- What's the Central Building? (+1 Rhodea)
-- Were you close with Rune? (Neutral)
-- No questions. (Neutral)
-
-Talk to the group outside, you'll eventually get to have a 2v2 against Risa Raider.
-
-!battle(["Risa Raider",:POPSTAR,1], "City Field")
-
-What in the world is that Jigglypuff... Anyways, you don't strictly need to win this one.
-
-## District of Hope
+### District of Hope
 
 You'll be taken outside the Dream Complex, but we can explore a few more parts of the city real quick. Head back to Central Square and go left to reach the District of Hope.
 
-Hidden to the left is a *Green Shard*. Enter the left door of the hospital. You can pay $10000 for a consultation with Nurse Joy, where she can modify one stat for EVs and one stat for IVs, plus give it Pokerus. Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunderstone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
+Hidden to the left is a *Green Shard*. Enter the left door of the hospital. 
+
+!shop("Hospital Shop", [["Throat Spray", 2000]])
+
+You can pay $10000 for a consultation with Nurse Joy, where she can modify one stat for EVs and one stat for IVs, plus give it Pokerus.
+
+Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunderstone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
 
 On the left side of the district, head up to enter the Pokemon Pinnacle, then begin your ascent.
 
@@ -169,31 +174,13 @@ On the left side of the district, head up to enter the Pokemon Pinnacle, then be
 
 !battle(["Billy",:TOURIST,0], "Haunted Field")
 
-Pick up the *Spell Tag* on 2F and another on 3F. There's a *Lemonade* on 4F.
+Pick up the *Spell Tag* on 2F and another on 3F. There's a *Lemonade* on 4F. You can grab *3 Revives* on the floor of 4F, as well.
 
 !battle(["Trent",:COOLGUY,0], "Haunted Field")
 
-We can't get to the very top yet, so head back outside.
+Grab the *Misty Terrain Field Readout* at the top. We can't get to the very top yet, so leave.
 
-### Lost Souls 3
-
-There's one more sidequest we can take care of. Talk to Mosely at night nearby the Hospital of Hope if you have fully progressed so far in the *Lost Souls* sidequest.
-
-Go down two flights and talk to the cash register. Then, head back up, talk to Mosely, and enter the doors.
-
-!battle(["Johnson",:OFFICER,0])
-
-!battle(["Mitchell",:OFFICER,0])
-
-!battle(["Pines",:OFFICER,0])
-
-!battle(["Stanley",:OFFICER,0])
-
-!dbattle(["Gumshoe",:OFFICER,0], ["Miles",:OFFICER,0])
-
-Talk to Isha. This is all we can do for this quest right now.
-
-## Back Alley & Festival Plaza
+### Back Alley
 
 Head back to Central Square and go left and up to reach the Back Alley. In Rhodea's office to the left, you can get a *Carbos* from Igglybuff during the day.
 
@@ -203,7 +190,9 @@ At the top of this area, we'll find Guy from the *Spiteful Ex* quest.
 
 Beating him lowers your reputation! >:( At least we can head back to Dream District North to complete the quest. Talk to Mimi... or, you? to get the *Train Pass*.
 
-Continue north to the Festival Plaza.
+Back in the Back Alley, continue north to the Festival Plaza.
+
+### Festival Plaza
 
 !enc(28, ["Grass"])
 
@@ -217,17 +206,17 @@ Once you win, you'll get **Darumaka**. An *Ether* is to the left.
 
 !cshop(:FestivalGamer, "Festival Plaza Move Tutor")
 
-Talk to the high striker machine here. Pay the price, then it will randomly payoff as follows: 2% chance of *HM06 Dive*, 14% chance of a *Poke Doll*, and 22% chance of a refund. Note that the first time you get the Poke Doll prize, it will actually be a **Stufful!** Note also that you can actually "rig" the game to always get the HM by having a lead Pokemon with Huge Power, Guts, Pure Power, or Sheer Force.
+Talk to the high striker machine here. Pay the price, then it will randomly payoff as follows: 2% chance of *HM06 Dive*, 14% chance of a *Poke Doll*, and 22% chance of a refund. Note that the first time you get the Poke Doll prize, it will actually be a **Stufful!** Note also that you can actually "rig" the game to always get the HM by having a lead Pokemon with Huge Power, Guts, Pure Power, or Sheer Force. Note that you'll also get the *Big Top Arena Field Readout* with HM06.
 
 !shop("Festival Plaza Candy", ["Reverse Candy", "Sachet", "Funnel Cake", "Whipped Dream", "Apophyll Pancakes", "Rare Candy"])
 
 !shop("Festival Plaza Ice Cream", ["Vanilla Ice Cream", "Choc Ice Cream", "Berry Ice Cream"])
 
-Talk to the guy on the left. He'll offer us a chance at a little game, depending on which bait we buy. Standard bait is $2000, Delicious bait is $7500, and Gourmet bait is $20000. Here's a breakdown of what you can get for each:
+The fisherman offer us a chance at a little game, depending on which bait we buy. Here's a breakdown of what you can get for each:
 
-|**Standard Bait**  |Chance |
+|**Standard Bait** ($2000) |Chance |
 |-------------------|-------|
-|**Wishiwashi**     |1%     |
+| Wishiwashi        |1%     |
 | *Heart Scale*     |10%    |
 | *Link Heart*      |10%    |
 | *HP Up*           |10%    |
@@ -236,7 +225,7 @@ Talk to the guy on the left. He'll offer us a chance at a little game, depending
 | *Honey*           |10%    |
 | *Poke Ball*       |39%    |
 
-|**Delicious Bait** |Chance |
+|**Delicious Bait** ($7500) |Chance |
 |-------------------|-------|
 | **Horsea**        |1%     |
 | *Heart Scale*     |10%    |
@@ -247,7 +236,7 @@ Talk to the guy on the left. He'll offer us a chance at a little game, depending
 | *Fire Stone*      |10%    |
 | *Dusk Ball*       |39%    |
 
-|**Gourmet Bait**   |Chance |
+|**Gourmet Bait** ($20000)   |Chance |
 |-------------------|-------|
 | *Jaw Fossil*      |10%    |
 | **Horsea**        |12%    |
@@ -262,18 +251,34 @@ To the right is a move tutor for the pledge moves... which we already have. Down
 
 Anyways, grab the *Green Shard* on the table. In the grass at the top is a hidden *Synthetic Seed* and *Friend Ball*.
 
-Return to the Dream District South and enter the Dream Complex. Before we head upstairs, we will finish the SPU Parcel Delivery sidequest. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver, who will use a spray that contains a new Pokemon in an area we'll visit later. (+1 Karma)
+There is one quick quest we can do, now that we've explored GDC.
 
-### Night 1 Dream
+Outside during the day, talk to a woman in the southwest side of Central Square and attempt to help her cross the street. Talk to the driver to the left to get the first *SPU Parcel*. Return to the Dream District South and enter the Dream Complex. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver. The reward won't be accessible for another chapter, however.(+1 Karma)
 
-Return to the Dream Complex once more. Go up to the penthouse and sleep. You will wake up in "New Game", and you will be asked a man's name. This is the first event of the "New Game+" functionality in Rejuvenation, which you can only access if you have already completed a save file that has cleared V13 content. 
+## The GDC Conspiracy
 
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    Zetta
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers</a>
-</div>
+Talk to Rhodea in the Central Building.
+
+**Relationship Point Choices**:
+- What's the Central Building? (+1 Rhodea)
+- Were you close with Rune? (Neutral)
+- No questions. (Neutral)
+
+Talk to the group outside, you'll eventually get to have a 2v2 against Risa Raider.
+
+!battle(["Risa Raider",:POPSTAR,1], "City Field")
+
+What in the world is that Jigglypuff... Anyways, you don't strictly need to win this one.
+
+Return to the Dream Complex in Dream District South. Go up to the penthouse and sleep. 
+
+### New Game: Night 1
+
+You will wake up in "New Game", and you will be asked a man's name. 
+
+[New Game+ Content](#chapter-11-ng-part-1)
+
+Pick up the *Chess Board Field Readout* below.
 
 Interact with the pieces of the board, then talk to the attendant to the left. 
 
@@ -293,13 +298,11 @@ Talk to Adam, then to... Risa?
 
 !battle(["Risa Raider",:POPSTAR,0])
 
-What on earth is going on with this thing??
-
 Once you wake up, head outside the room. You'll get a choice on which path to take next: either searching Talon's house or investigating the Night Market. We have to do both, so I start with Talon's House.
 
 ### Searching Talon's House
 
-Head over to the Botanical Garden and head up to the house at the top of the hill.
+Head over to the Botanical Garden and head up to the bodega at the top of the hill.
 
 !battle(["Guy",:COOLTRAINER_M,0], "Flower Garden Field")
 
@@ -316,7 +319,9 @@ Enter the Treasure Treehouse and head downstairs. Take *Flora's Puzzle Box* in F
 - Defeat the Masked Man (+1 Hazuki)
 - Lose to the Masked Man (-1 Hazuki)
 
-Talk to the final blob and head up the ladder. Our next destination will be Club NightLight. Accept the fast travel, then talk to the Alakazam blob once you are able to.
+Talk to the final blob and head up the ladder. Our next destination will be Club NightLight. Deny the fast travel to grab the *Flower Garden Field Readout* on the balcony. 
+
+Return to the Back Alley and enter Club NightLight. then talk to the Alakazam blob once you are able to.
 
 You'll need to defeat some trainers in the next room.
 
@@ -338,7 +343,7 @@ Alakazam's first form will boost stats, set up screens, and use Night Shade, whi
 
 You can still get around these difficulties in a few simple ways: first is to use a Normal type that can set up against the first phase completely for free, as long as it has a contingency for Counter and taking one hit. The other, simpler solution is simply using Trick Room during the first phase and then whacking it really hard with some physical moves. 
 
-## Investigating the Night Market
+### Investigating the Night Market
 
 Head over to the Night Market and talk to Risa Raider. You'll get a letter to stuff in a mailbox. The mailbox in question is hidden around the left corner of the Dream Complex in Dream District South. Return to Risa.
 
@@ -388,7 +393,7 @@ The code we have is now 6_3. Take the new ladder to the right to go up. Grab *3 
 
 !battle(["Tarto",:CUEBALL,0], "Icy Field")
 
-Head to the bottom left to input our code: 643. Once you're back in the Night Market, go right to talk to the group.
+Head to the bottom right side of the map to input our code: 643. Once you're back in the Night Market, go right to talk to the group.
 
 **Relationship Point Choices**:
 - You're right... (+1 Melia, +2 Venam)
@@ -401,28 +406,15 @@ Return to the Dream Complex.
 - I miss Terajuma too. (+3 Melia, +1 Venam)
 - I don't like it here either. (+2 Melia, -1 Venam)
 
-While we're here, head outside to the balcony at the bottom.
-
-**ZCell 108: Dream Complex**
-
-!img("zcell108.png")
-
 Sleep until the next day.
 
 *Special Scene: Venam's Ruminations* requires 10+ Relationship Points with Venam at this point.
 
-## Night 2 Dream
+### New Game: Night 2
 
-You will be asked more questions, but if this is your first playthrough of V13.5, you will not be able to give the answers. If you are on New Game+ and answered the first question correctly, you can give answers here.
+You will wake up again in "New Game".
 
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    Hazuki, Huey, Freya.
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers (big story spoilers within!)</a>
-</div>
-
-New Game+ players will receive the *Puppet Doubloon*!
+[New Game+ Content](#chapter-11-ng-part-2)
 
 You'll then be whisked away to the Somniam Mall.
 
@@ -435,7 +427,13 @@ Return to the penthouse.
 - Concerning... (+1 Melia)
 - I am very tired. (-1 Melia)
 
-When you wake up, talk to Melia on the couch.
+While we're here, head outside to the balcony at the bottom.
+
+**ZCell 108: Dream Complex**
+
+!img("zcell108.png")
+
+Go to sleep. When you wake up, talk to Melia on the couch.
 
 **Relationship Point Choices**:
 - Focus, Huey. (+1 Huey)
@@ -458,9 +456,9 @@ Head up to talk to... Zetta?!
 
 !battle(["Evans",:XENGRUNT_M,1], "Chess Board")
 
-A man at the top wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish.
+[New Game+ Content](#chapter-11-ng-part-3)
 
-If you are on New Game+, you can talk to a character by the pool to instantly get 1000000 Puppet Coins, otherwise you'll have to earn them the hard way.
+A man at the top of the casino area wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish.
 
 Enter the restaurant at the bottom and talk to the man in the bottom right. Talk to the server in the hallway where we entered.
 
@@ -503,3 +501,7 @@ Head into the box and go into the upper room. Step on the bottom right and top l
 Time for a little lesson in Trickery. Neon's team of three is bulky while Magenta's team of three is more offensively focused, meaning you either want to wear them down with spread moves or target Magenta first. Telepathy *doubles* speed on Psychic Terrain, frankly one of the most busted Field Effects in the entire game. This also means that Oranguru and Beheeyem will probably move first on Turn 1, so be prepared for that. As a proud Trick Room enthusiast, I will recommend my favorite TM here as well: if you can live one turn to set up Trick Room, a team of hard-hitting mid-speed Pokemon can sweep Magenta. Then all you have to do is time when you KO Oranguru, ideally breaking its screens with Brick Break, to outspeed and defeat the slow pair of Musharna and Mega Hatterene in the back.
 
 Open the box to get the *Trickery Badge*, which raises our level cap to Lv. 75!
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>

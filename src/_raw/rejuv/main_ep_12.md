@@ -6,6 +6,24 @@ Before we continue the story, head over to Luck's Tent on Route 7. There is a ne
 
 !cshop(:MarleyMoves, "Marley Move Tutor")
 
+### Lost Souls 3
+
+There's one sidequest we can take care of right now. Talk to Mosely at night nearby the Hospital of Hope if you have fully progressed so far in the *Lost Souls* sidequest.
+
+Go down two flights and talk to the cash register. Then, head back up, talk to Mosely, and enter the doors.
+
+!battle(["Johnson",:OFFICER,0])
+
+!battle(["Mitchell",:OFFICER,0])
+
+!battle(["Pines",:OFFICER,0])
+
+!battle(["Stanley",:OFFICER,0])
+
+!dbattle(["Gumshoe",:OFFICER,0], ["Miles",:OFFICER,0])
+
+Talk to Isha. This is all we can do for this quest right now.
+
 Enter the Hospital of Hope after your conversation with Aelita on the bridge. Inside the hospital, talk to Melia. Return to the Grand Dream Station and talk to Aelita.
 
 **Relationship Point Choices**:
