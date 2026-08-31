@@ -449,6 +449,8 @@ Backtrack to the caves below. Make sure the cave is dark, then proceed to the le
 
 You can take the lift at the top of the Decompression Lab to escape to Honec Woods.
 
+Take one more quick trip to the large hilly map on Route 7. In the bottom right corner, you'll find two backpackers. Talk to the one on the left to get a hidden *Rare Candy*.
+
 ## Rose Badge
 
 Make your way back to the Darchlight Woods, and find your Grass-type gym leader waiting for a match above the crossroads. If you exposed Flora you'll [fight her brother](#vs-florin), otherwise you'll [fight her](#vs-flora).
@@ -520,7 +522,3 @@ That's all we can do in the Darchlight Manor, but head back over to the Honec Wo
 There is a hidden *Big Mushroom* down from here plus another Honey tree. That's all for Strength exploration for now, since we cannot return to Floria or Terajuma yet.
 
 To finish the chapter, get on the Grand Express, then talk to the group in your cabin.
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

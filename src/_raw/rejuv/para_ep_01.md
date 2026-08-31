@@ -170,11 +170,7 @@ Learn how everyone is feeling.
 - It's not fair. (+1 Crescent)
 - I'm sorry. (Neutral)
 
-In the Somniam Mall, you'll get the ninth *Somniam Mall Stamp*! Why thank you, Crescent.
-
-!shop("Somniam Mall Pokeballs", ["Moon Ball", "Heavy Ball", "Friend Ball", "Love Ball", "Level Ball", "Fast Ball", "Lure Ball"])
-
-Sadly, nine stamps is the maximum we can get in V13.5. Someday we'll be able to enter Goocci. Someday.
+In the Somniam Mall, you'll get the ninth *Somniam Mall Stamp*! Why thank you, Crescent. Sadly, nine stamps is the maximum we can get in V13.5. Someday we'll be able to enter Goocci. Someday.
 
 Talk to Melia on the left side of the mall.
 
