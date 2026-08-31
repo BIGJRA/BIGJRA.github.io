@@ -154,20 +154,7 @@ Enter a house just to the left of the center of the map.
 
 Talk to a woman for *5 Persim Berries*. Pick up the *Hyper Potion*. To the right, enter a building to get a *Sun Stone*. Further to the right, enter the tall apartment building. Donate $850 to a woman inside a few times to get a *Rare Candy*. There is also a *Moon Ball* and hidden *Ether* and *Dusk Ball* here. There is a salon down from here that sells $3500 haircuts for friendship.
 
-Outside during the day, talk to a woman in the southwest side of Central Square and attempt to help her cross the street. Talk to the driver to the left to get the first *SPU Parcel* for a delivery sidequest!
-
-Enter the Central Building at the top of the map. The EV Center is here should you choose to use it (though the Power Items make it obsolete). Talk to Rhodea here.
-
-**Relationship Point Choices**:
-- What's the Central Building? (+1 Rhodea)
-- Were you close with Rune? (Neutral)
-- No questions. (Neutral)
-
-Talk to the group outside, you'll eventually get to have a 2v2 against Risa Raider.
-
-!battle(["Risa Raider",:POPSTAR,1], "City Field")
-
-What in the world is that Jigglypuff... Anyways, you don't strictly need to win this one.
+Enter the Central Building at the top of the map. The EV Center is here should you choose to use it (though the Power Items make it obsolete). We can talk to Rhodea to continue the story, but we will explore the city a bit more first.
 
 ### District of Hope
 
@@ -264,18 +251,34 @@ To the right is a move tutor for the pledge moves... which we already have. Down
 
 Anyways, grab the *Green Shard* on the table. In the grass at the top is a hidden *Synthetic Seed* and *Friend Ball*.
 
-Return to the Dream District South and enter the Dream Complex. Before we head upstairs, we will finish the SPU Parcel Delivery sidequest. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver, who will use a spray that contains a new Pokemon in an area we'll visit later. (+1 Karma)
+There is one quick quest we can do, now that we've explored GDC.
 
-## Grand Dream City Dreams
+Outside during the day, talk to a woman in the southwest side of Central Square and attempt to help her cross the street. Talk to the driver to the left to get the first *SPU Parcel*. Return to the Dream District South and enter the Dream Complex. Talk to the attendant on the left to deliver the first package. Return to the Central Square to get the next destination: Mika's Cafe. Head over to Dream District North, enter the cafe, and give the package to Patty. You'll get a *Link Heart*! Return to the driver to get the next package, then give it to the first cop in the Judicial District Police Station. Return to the driver. The reward won't be accessible for another chapter, however.(+1 Karma)
 
-Return to the Dream Complex once more. Go up to the penthouse and sleep. You will wake up in "New Game", and you will be asked a man's name. This is the first event of the "New Game+" functionality in Rejuvenation, which you can only access if you have already completed a save file that has cleared V13 content. 
+## The GDC Conspiracy
 
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    Zetta
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers</a>
-</div>
+Talk to Rhodea in the Central Building.
+
+**Relationship Point Choices**:
+- What's the Central Building? (+1 Rhodea)
+- Were you close with Rune? (Neutral)
+- No questions. (Neutral)
+
+Talk to the group outside, you'll eventually get to have a 2v2 against Risa Raider.
+
+!battle(["Risa Raider",:POPSTAR,1], "City Field")
+
+What in the world is that Jigglypuff... Anyways, you don't strictly need to win this one.
+
+Return to the Dream Complex in Dream District South. Go up to the penthouse and sleep. 
+
+### New Game: Night 1
+
+You will wake up in "New Game", and you will be asked a man's name. 
+
+[New Game+ Content](#chapter-11-ng-part-1)
+
+Pick up the *Chess Board Field Readout* below.
 
 Interact with the pieces of the board, then talk to the attendant to the left. 
 
@@ -295,13 +298,11 @@ Talk to Adam, then to... Risa?
 
 !battle(["Risa Raider",:POPSTAR,0])
 
-What on earth is going on with this thing??
-
 Once you wake up, head outside the room. You'll get a choice on which path to take next: either searching Talon's house or investigating the Night Market. We have to do both, so I start with Talon's House.
 
 ### Searching Talon's House
 
-Head over to the Botanical Garden and head up to the house at the top of the hill.
+Head over to the Botanical Garden and head up to the bodega at the top of the hill.
 
 !battle(["Guy",:COOLTRAINER_M,0], "Flower Garden Field")
 
@@ -318,7 +319,9 @@ Enter the Treasure Treehouse and head downstairs. Take *Flora's Puzzle Box* in F
 - Defeat the Masked Man (+1 Hazuki)
 - Lose to the Masked Man (-1 Hazuki)
 
-Talk to the final blob and head up the ladder. Our next destination will be Club NightLight. Accept the fast travel, then talk to the Alakazam blob once you are able to.
+Talk to the final blob and head up the ladder. Our next destination will be Club NightLight. Deny the fast travel to grab the *Flower Garden Field Readout* on the balcony. 
+
+Return to the Back Alley and enter Club NightLight. then talk to the Alakazam blob once you are able to.
 
 You'll need to defeat some trainers in the next room.
 
@@ -340,7 +343,7 @@ Alakazam's first form will boost stats, set up screens, and use Night Shade, whi
 
 You can still get around these difficulties in a few simple ways: first is to use a Normal type that can set up against the first phase completely for free, as long as it has a contingency for Counter and taking one hit. The other, simpler solution is simply using Trick Room during the first phase and then whacking it really hard with some physical moves. 
 
-## Investigating the Night Market
+### Investigating the Night Market
 
 Head over to the Night Market and talk to Risa Raider. You'll get a letter to stuff in a mailbox. The mailbox in question is hidden around the left corner of the Dream Complex in Dream District South. Return to Risa.
 
@@ -390,7 +393,7 @@ The code we have is now 6_3. Take the new ladder to the right to go up. Grab *3 
 
 !battle(["Tarto",:CUEBALL,0], "Icy Field")
 
-Head to the bottom left to input our code: 643. Once you're back in the Night Market, go right to talk to the group.
+Head to the bottom right side of the map to input our code: 643. Once you're back in the Night Market, go right to talk to the group.
 
 **Relationship Point Choices**:
 - You're right... (+1 Melia, +2 Venam)
@@ -403,28 +406,15 @@ Return to the Dream Complex.
 - I miss Terajuma too. (+3 Melia, +1 Venam)
 - I don't like it here either. (+2 Melia, -1 Venam)
 
-While we're here, head outside to the balcony at the bottom.
-
-**ZCell 108: Dream Complex**
-
-!img("zcell108.png")
-
 Sleep until the next day.
 
 *Special Scene: Venam's Ruminations* requires 10+ Relationship Points with Venam at this point.
 
-## Night 2 Dream
+### New Game: Night 2
 
-You will be asked more questions, but if this is your first playthrough of V13.5, you will not be able to give the answers. If you are on New Game+ and answered the first question correctly, you can give answers here.
+You will wake up again in "New Game".
 
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    Hazuki, Huey, Freya.
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for New Game+ Quiz answers (big story spoilers within!)</a>
-</div>
-
-New Game+ players will receive the *Puppet Doubloon*!
+[New Game+ Content](#chapter-11-ng-part-2)
 
 You'll then be whisked away to the Somniam Mall.
 
@@ -437,7 +427,13 @@ Return to the penthouse.
 - Concerning... (+1 Melia)
 - I am very tired. (-1 Melia)
 
-When you wake up, talk to Melia on the couch.
+While we're here, head outside to the balcony at the bottom.
+
+**ZCell 108: Dream Complex**
+
+!img("zcell108.png")
+
+Go to sleep. When you wake up, talk to Melia on the couch.
 
 **Relationship Point Choices**:
 - Focus, Huey. (+1 Huey)
@@ -460,9 +456,9 @@ Head up to talk to... Zetta?!
 
 !battle(["Evans",:XENGRUNT_M,1], "Chess Board")
 
-A man at the top wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish.
+[New Game+ Content](#chapter-11-ng-part-3)
 
-If you are on New Game+, you can talk to a character by the pool to instantly get 1000000 Puppet Coins, otherwise you'll have to earn them the hard way.
+A man at the top of the casino area wants us to get some item for him. Head to the east to the pool area, then further to the right to the battleground area. We can buy standard Casino coins and convert them to Puppet Coins here, if we wish.
 
 Enter the restaurant at the bottom and talk to the man in the bottom right. Talk to the server in the hallway where we entered.
 
@@ -509,26 +505,3 @@ Open the box to get the *Trickery Badge*, which raises our level cap to Lv. 75!
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point.
 <hr/>
-
-
-
-
-TODO place this properly 
-
-### Lost Souls 3
-
-There's one more sidequest we can take care of. Talk to Mosely at night nearby the Hospital of Hope if you have fully progressed so far in the *Lost Souls* sidequest.
-
-Go down two flights and talk to the cash register. Then, head back up, talk to Mosely, and enter the doors.
-
-!battle(["Johnson",:OFFICER,0])
-
-!battle(["Mitchell",:OFFICER,0])
-
-!battle(["Pines",:OFFICER,0])
-
-!battle(["Stanley",:OFFICER,0])
-
-!dbattle(["Gumshoe",:OFFICER,0], ["Miles",:OFFICER,0])
-
-Talk to Isha. This is all we can do for this quest right now.

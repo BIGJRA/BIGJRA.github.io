@@ -201,6 +201,26 @@ There is a special event on an island in the middle of Route 7 *if you have a co
 
 [Jump Back](#route-7)
 
+### Chapter 11 NG+ Part 1
+
+Once you sleep for the first time in Grand Dream City, *if you have completed V13 contents in a previous save file*, you can alter the events that occur in the "New Game" area. For now, simply answer "Zetta" to progress the New Game+ contents.
+
+[Jump Back](#new-game-night-1)
+
+### Chapter 11 NG+ Part 2
+
+If you answered the first question correctly in the New Game area, upon waking up there for the second time, you will be asked three more questions.
+
+The answers are Hazuki, Huey, and Freya. Successful answers grant players the *Puppet Doubloon*!
+
+[Jump Back](#new-game-night-2)
+
+### Chapter 11 NG+ Part 3
+
+You can talk Risa by the pool to get one million Puppet Coins right away!
+
+[Jump Back](#nightmare-toy-box)
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:

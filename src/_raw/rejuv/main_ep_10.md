@@ -515,7 +515,9 @@ Interact with the notebook, then exit above. Outside at the top, grab hidden *Et
 
 Pull up the rope at the top, then talk to the doll to get a *Light Ball*. 
 
-That's all we can do in the Darchlight Manor, but head back over to the Honec Woods. Use Strength in the bottom right corner to reach a new section of the map.
+That's all we can do in the Darchlight Manor, but head back over to Route 8. Use Strength on the pillar to notably catch **Budew**! 
+
+Next, back over to the Honec Woods. Use Strength in the bottom right corner to reach a new section of the map.
 
 !battle(["Polo",:POKEMONRANGER_M,0], "Swamp Field")
 
