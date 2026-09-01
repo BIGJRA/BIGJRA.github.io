@@ -47,7 +47,7 @@ Go up from here and cross the one-tile bridge to the left, below the cave entran
 
 !img("zcell109.png")
 
-We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast, and surf to the top.
+We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast and **Palossand**, and surf to the top.
 
 **ZCell 110: Route 9**
 
@@ -112,7 +112,7 @@ You'll be asked to type a name.
 **Relationship Point Choices**:
 - Answer "Nymiera" (+2 Damien)
 
-Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there are a few quests we will take care of real quick.
+Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there are a lot of quests we will take care of first.
 
 While we're here, you can trade your Sinistea in the lower right corner of the restaurant to get **Poltchageist**!
 
@@ -166,6 +166,141 @@ We can return to GDC to do some shopping at the Somniam Mall now if we wish:
 !shop("Somniam Mall Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
 
 !shop("Somniam Mall Battle Items", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Eject Pack", "Red Card", "Ring Target", "Metronome"])
+
+## Grand Dream City Help Center Quests
+
+### Missing Children Sidequest
+
+Head to the Central Building in GDC, and into the left elevator to engage with these. Accept Missing Children first.
+
+First thing we're gonna do is head to the Police Department in the Judicial District. Talk to Officer Jenny with the `!` above her head.
+
+Make your way to the Night Market. Talk to the man guarding a door on the left side, then go up. Talk to the man in the bottom left corner of the Night Market.
+
+Return to Jenny to cancel the request, though we're not through with it yet! Return to the guy in the Night Market. Use the password on the left side to get access.
+
+Welcome to the Underground. Enter the right building below. 
+
+!shop("The Underground Shop (Left)", ["Metal Powder", "Cell Battery", "Magnet", "Quick Powder", "Blast Powder"])
+
+We can *finally* purchase Blast Powder. Get a ton of it so we can later backtrack to use it to get items and such.
+
+!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Leek", "Float Stone", "Binding Band"])
+
+Pricey as they are, we are eventually going to need 12 Charcoal for a quest later.
+
+Go to the left. Inside the Pokemon Center, you can start the *Particia's Letter* quest. Drop the letter in the mailbox by the lift then return to Particia to finish the quest.
+
+**Relationship Point Choices**:
+- Are you two... okay? (Neutral)
+- You seem close. (+1 Particia)
+
+Back outside:
+
+!battle(["Devin",:COOLTRAINER_M,0], "Back Alley")
+
+!battle(["Emanuel",:ROCKER,0], "Back Alley")
+
+A *Heavy Ball* can be found hidden here.
+
+Enter the mart to the left if you want to buy something.
+
+!shop("The Underground Mart", ["Ultra Ball", "Dusk Ball", "Hyper Potion", "Revive", "Full Heal"])
+
+Enter the casino at the bottom. You can pay $15,000 for the password "BYE CAROTOS". Talk to the other guy here to give him the Updated Patent we obtained earlier. He will need from us 4 of each shard, 3 Heart Scales, 2 Blast Powders, and a Dawn and Shiny Stone. Some combination of the fishing minigame in the Festival Plaza and grinding Black Prisms can get us anything here that we're missing. Give them all to him to finally obtain the *Omni Ring*, letting us use our Z-Crystals and Mega Stones!!!
+
+Upstairs, cross the bridge to enter the other building. The Pokemon Psychologist, who changes a Pokemon to a random nature for 1 Heart Scale, is here. Go down from Dylan in the top left to reach a hidden *Full Heal* plus a *Toxic Orb* plus:
+
+**ZCell 114: The Underground**
+
+!img("zcell114.png")
+
+Backtrack to the building on the right side with stuff for sale. You can input our password here to enter the back room. Grab the *Colosseum Field Readout*. Pokemon are for sale! 
+
+!shop("The Underground Pokemon Sale", [["Furfrou", "8 Yellow Shards", true], ["Charmander", "10 Red Shards", true], ["Joltik", "2 Yellow Shards", true], ["Happiny", "6 Blue Shards", true], ["Mimikyu", "7 Yellow Shards", true]])
+
+Buying them all awards you with a *Fire Memory* (+5 Karma).
+
+Talk to Dylan on the left side. Enter the Bladestar Labs building to the west of the lift, and talk to the person behind the counter.
+
+!battle(["Tirgon",:BLADESTAR_M,1])
+
+There's a hidden *Mystery Bowl*, *Lemonade*, and *Full Heal* on the first floor.
+
+!battle(["Tiler",:BLADESTAR_M,0])
+
+!battle(["Tenson",:BLADESTAR_M,0])
+
+!battle(["Sahrah",:BLADESTAR_F,0])
+
+Pick up the *Hyper Potion* and hidden *Mystery Bowl* and *PP Up*.
+
+!dbattle(["Pati",:BLADESTAR_F,0], ["Niccie",:BLADESTAR_F,0])
+
+!dbattle(["Xander",:BLADESTAR_M,0], ["Xina",:BLADESTAR_F,0])
+
+Once you win, head down to the Fortune Teller's house and talk to her outside. Grab the hidden *EV Tuner*... then talk to Ana.
+
+On the next day, return to Dylan's house.
+
+**Relationship Point Choices**:
+- Sounds good. (+1 Dylan)
+- Er... (-1 Dylan)
+
+Enter the fortune teller's house with Ana. Head into the mart to the left of the Pokemon Center to talk to the clerk here, then watch the video. Return to Peony. Talk to Particia in the Pokemon Center next, then return to Dylan. Accept the fast travel offer to get to Route 9. Head down to talk to them. Then, watch the scene play out in Dylan's House. 
+
+Return to Dylan's house once more, then exit.
+
+!battle(["Nesto",:BLADESTAR_M,0], "Back Alley")
+
+Enter the diner to the right. Accept the fast travel again. You'll battle Ana: let her win if you wish.
+
+!battle(["Ana",:NANO,0])
+
+That's all we can do in this quest for now!
+
+### Classified Information Sidequest
+
+Back in the Central Building, take the request. Talk to the woman in the lobby right of the elevator to get to the 36F of the building.
+
+**Relationship Point Choices**:
+- I was terrified too... (Melia +2)
+- It's standard procedure. (Melia +1)
+- Grow up. (Melia -2)
+
+Head back into the room. Give Anabel a Nightmare Medallion, then exit. We'll need a new Nightmare Medallion for ourselves, so head over to the Night Market at night to buy one from Peony.
+
+Go to bed in the penthouse to return to the Nightmare Toy Box. Talk to Anabel in the foyer, then again to the left. After your conversation, wake up, and return to Anabel and Looker. Accept Looker's travel request to Darchlight Caves.
+
+Using the mirror, make your way all the way through the cave almost back to the Darchlight Mirror crafting room. Accept Looker's offer to jump the fence, then talk to Anabel in the left room. 
+
+Talk to Looker and reenter the office.
+
+**Relationship Point Choices**:
+
+- Glad to help. (Melia +3, Erick +2)
+- I kinda got baited into this... (Erick +3, Melia +2)
+- Eh... (Erick +1, Melia -2)
+
+Talk to Looker again to return to the Bladestar Labs. Talk to the door while in the hallway and present the Rose Badge to the door. Inside, grab the *Code Drifio Rift Notes*.
+
+!boss("RIFTFERROTHORN", "Volcanic Field")
+
+This is a tough battle. Its first two shields see a more defensive build that can wear you down with respectable damage from Fire Lash and Gyro Ball, while the latter two phases see it change to an offensive powerhouse that stops for no one. Beat it for (+1 Karma).
+
+Status conditions are permanent, so Paralysis can be extremely helpful in getting the edge on this thing. Trick Room can also be helpful for getting around the massive speed of the second form. It is doubly weak to Ground-type moves, so that will probably be your best offensive option.
+
+Once you emerge victorious, accept the fast travel. Talk to Looker and Anabel on 36F to get the *Rift Notes*.
+
+Return to the help center to get $25000, *2 Red Shards*, *2 Blue Shards*, *2 Green Shards*, *2 Yellow Shards*,  and a *Somniam Mall Stamp*! (+1 Karma)
+
+!shop("Somniam Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Chople Berry", "Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
+
+Buy at least five Occa and Passho Berries each for later.
+
+Return to Darchlight Caves and make your way all the way back to the room where you fought Ferrothorn, interact with the panel in the back, then enter the right room. Read the journal and use the Itemfinder in here to get *Dubious Disc*!
+
+Return quickly to Darchlight Village. In a house in the bottom left, you can now mention Particia to Carpenter, who will offer a trade: your Shroomish (Aevian) for **Indeedee**!
 
 ## Past Aevium 2
 
@@ -384,137 +519,6 @@ Go down to the dock, then talk to Spacea and Tiempa.
 - Have >= 45 Melia Points at this moment (+4 Melia)
 
 Take the Timesplicer Crystal back to the present!
-
-## Grand Dream City Help Center Quests
-
-### Missing Children Sidequest
-
-Remember the GDC arc? Yeah, this is still the same game. Before we continue the story from here, we're gonna do some side quests!
-
-Head to the Central Building in GDC, and into the left elevator to engage with these. Accept Missing Children first.
-
-First thing we're gonna do is head to the Police Department in the Judicial District. Talk to Officer Jenny with the ! above her head.
-
-Make your way to the Night Market. Talk to the man guarding a door on the left side, then go up. Talk to the man in the bottom left corner of the Night Market.
-
-Return to Jenny to cancel the request, though we're not through with it yet! Return to the guy in the Night Market. Use the password on the left side to get access.
-
-Welcome to the Underground. Enter the right building below. 
-
-!shop("The Underground Shop (Left)", ["Metal Powder", "Cell Battery", "Magnet", "Quick Powder", "Blast Powder"])
-
-We can *finally* purchase Blast Powder. Get a ton of it so we can later backtrack to use it to get items and such.
-
-!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Leek", "Float Stone", "Binding Band"])
-
-Pricey as they are, we are eventually going to need 12 Charcoal for a quest later.
-
-Go to the left. Inside the Pokemon Center, you can start the *Particia's Letter* quest. Drop the letter in the mailbox by the lift then return to Particia to finish the quest.
-
-**Relationship Point Choices**:
-- Are you two... okay? (Neutral)
-- You seem close. (+1 Particia)
-
-Back outside:
-
-!battle(["Devin",:COOLTRAINER_M,0], "Back Alley")
-
-!battle(["Emanuel",:ROCKER,0], "Back Alley")
-
-Enter the mart to the left if you want to buy something.
-
-!shop("The Underground Mart", ["Ultra Ball", "Dusk Ball", "Hyper Potion", "Revive", "Full Heal"])
-
-Enter the casino at the bottom. You can pay $15,000 for the password "BYE CAROTOS". Upstairs, cross the bridge to enter the other building. The Pokemon Psychologist, who changes a Pokemon to a random nature for 1 Heart Scale, is here. Go down from Dylan in the top left to reach a *Toxic Orb* plus:
-
-**ZCell 114: The Underground**
-
-!img("zcell114.png")
-
-Backtrack to the building on the right side with stuff for sale. You can input our password here to enter the back room, where Pokemon are for sale!
-
-!shop("The Underground Pokemon Sale", [["Furfrou", "8 Yellow Shards", true], ["Charmander", "10 Red Shards", true], ["Joltik", "2 Yellow Shards", true], ["Happiny", "6 Blue Shards", true], ["Mimikyu", "7 Yellow Shards", true]])
-
-Buying them all awards you with a *Fire Memory*.
-
-Talk to Dylan above. Enter the Bladestar Labs building to the west of the lift, and talk to the person behind the counter.
-
-!battle(["Tirgon",:BLADESTAR_M,1])
-
-!battle(["Tiler",:BLADESTAR_M,0])
-
-!battle(["Tenson",:BLADESTAR_M,0])
-
-!battle(["Sahrah",:BLADESTAR_F,0])
-
-Pick up the *Hyper Potion* and hidden *Mystery Bowl* and *PP Up*.
-
-!dbattle(["Pati",:BLADESTAR_F,0], ["Niccie",:BLADESTAR_F,0])
-
-!dbattle(["Xander",:BLADESTAR_M,0], ["Xina",:BLADESTAR_F,0])
-
-Once you win, head down to the Fortune Teller's house and talk to her outside. Talk to Ana.
-
-On the next day, return to Dylan's house.
-
-**Relationship Point Choices**:
-- Sounds good. (+1 Dylan)
-- Er... (-1 Dylan)
-
-Enter the fortune teller's house with Ana. Head into the mart to the left of the Pokemon Center to talk to the clerk here, then watch the video. Return to Peony. Talk to Particia in the Pokemon Center next, then return to Dylan. Accept the fast travel offer to get to Route 9. Head down to talk to them. Then, watch the scene play out in Dylan's House. 
-
-Return to Dylan's house once more, then exit.
-
-!battle(["Nesto",:BLADESTAR_M,0], "Back Alley")
-
-Enter the diner to the right. Accept the fast travel again. You'll battle Ana: let her win if you wish.
-
-!battle(["Ana",:NANO,0])
-
-That's all we can do in this quest for now!
-
-### Classified Information Sidequest
-
-Back in the Central Building, take the request. Talk to the woman in the lobby right of the elevator to get to the 36F of the building.
-
-**Relationship Point Choices**:
-- I was terrified too... (Melia +2)
-- It's standard procedure. (Melia +1)
-- Grow up. (Melia -2)
-
-Head back into the room. Give Anabel a Nightmare Medallion, then exit. We'll need a new Nightmare Medallion for ourselves, so head over to the Night Market at night to buy one from Peony.
-
-Go to bed in the penthouse to return to the Nightmare Toy Box. Talk to Anabel in the foyer, then again to the left. After your conversation, wake up, and return to Anabel and Looker. Accept Looker's travel request to Darchlight Caves.
-
-Using the mirror, make your way all the way through the cave almost back to the Darchlight Mirror crafting room. Accept Looker's offer to jump the fence, then talk to Anabel in the left room. 
-
-Talk to Looker and reenter the office.
-
-**Relationship Point Choices**:
-
-- Glad to help. (Melia +3, Erick +2)
-- I kinda got baited into this... (Erick +3, Melia +2)
-- Eh... (Erick +1, Melia -2)
-
-Talk to Looker again to return to the Bladestar Labs. Talk to the door while in the hallway and present the Rose Badge to the door. Inside, grab the *Code Drifio Rift Notes*.
-
-!boss("RIFTFERROTHORN", "Volcanic Field")
-
-This is a tough battle. Its first two shields see a more defensive build that can wear you down with respectable damage from Fire Lash and Gyro Ball, while the latter two phases see it change to an offensive powerhouse that stops for no one.
-
-Status conditions are permanent, so Paralysis can be extremely helpful in getting the edge on this thing. Trick Room can also be helpful for getting around the massive speed of the second form. It is doubly weak to Ground-type moves, so that will probably be your best offensive option.
-
-Once you emerge victorious, accept the fast travel. Talk to Looker and Anabel on 36F to get the *Rift Notes*.
-
-Return to the help center to get $25000 and a *Somniam Mall Stamp*!
-
-!shop("Somniam Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Custap Berry", "Chople Berry"])
-
-!shop("Somniam Mall Rare Berries", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
-
-Buy at least five Occa and Passho Berries each for later.
-
-Return to Darchlight Caves and make your way all the way back to the room where you fought Ferrothorn, interact with the panel in the back, then enter the right room. Read the journal and use the Itemfinder in here to get *Dubious Disc*!
 
 ## Golden Wing Badge
 
