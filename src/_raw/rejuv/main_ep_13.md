@@ -11,7 +11,9 @@ Now onto the chapter.
 
 ## Scholar District
 
-Open the box with Melia and Erin. Head south from Route 9 into GDC's Scholar District.
+Open the box with Melia and Erin. Exit the southeasternmost door of the Rose Theater to pick up the *Flying Memory*!
+
+Head south from Route 9 into GDC's Scholar District.
 
 !enc(257)
 

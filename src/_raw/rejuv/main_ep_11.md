@@ -444,9 +444,34 @@ Enter the Grand Terminal Station and go to the left. In the Night Market, go rig
 
 Back in the Penthouse, talk to Aelita, then to Allen and Alice in the rightmost room. You'll get a *Nightmare Medallion*!
 
+### Beth Sidequest
+
+Before we continue the story, the Grand Bridge has been fixed, meaning we can now access Route 7 and the surrounding areas again! Take a moment to head south out of Grand Dream City into Yui's Ranch.
+
+Talk to Beth near the northern barn, then to her again near the Braviary Post.
+
+**Relationship Point Choices**:
+- Just taking a walk. (Neutral)
+- Looking to chat with you! (+2 Beth)
+- Nothing much, really. (Neutral)
+
+**Relationship Point Choices**:
+- Sweet (Neutral)
+- Neutral (Neutral)
+- On the not-so-good side (-2 Beth)
+
+Talk to her a few more times, then follow her into Honec Woods. You'll find her on the left side - give her four Honeys to get *5 Big Mushrooms*.
+
+**Relationship Point Choices**:
+- Give Beth four Honeys (+3 Beth)
+
+If you return to Beth in Yui's Ranch, she will offer you some trades for mushrooms.
+
+!cshop(:BethShopMining, "Beth's Mushroom Shop")
+
 ## Nightmare Toy Box
 
-Go to sleep in your bed at the penthouse. 
+Return to GDC. Go to sleep in your bed at the penthouse. 
 
 Talk to Aelita in the first area. Enter the room to the left. 
 
@@ -501,7 +526,3 @@ Head into the box and go into the upper room. Step on the bottom right and top l
 Time for a little lesson in Trickery. Neon's team of three is bulky while Magenta's team of three is more offensively focused, meaning you either want to wear them down with spread moves or target Magenta first. Telepathy *doubles* speed on Psychic Terrain, frankly one of the most busted Field Effects in the entire game. This also means that Oranguru and Beheeyem will probably move first on Turn 1, so be prepared for that. As a proud Trick Room enthusiast, I will recommend my favorite TM here as well: if you can live one turn to set up Trick Room, a team of hard-hitting mid-speed Pokemon can sweep Magenta. Then all you have to do is time when you KO Oranguru, ideally breaking its screens with Brick Break, to outspeed and defeat the slow pair of Musharna and Mega Hatterene in the back.
 
 Open the box to get the *Trickery Badge*, which raises our level cap to Lv. 75!
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

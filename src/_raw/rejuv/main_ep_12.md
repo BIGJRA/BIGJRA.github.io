@@ -24,7 +24,7 @@ Go down two flights and talk to the cash register. Then, head back up, talk to M
 
 Talk to Isha. This is all we can do for this quest right now.
 
-Enter the Hospital of Hope after your conversation with Aelita on the bridge. Inside the hospital, talk to Melia. Return to the Grand Dream Station and talk to Aelita.
+Now we continue the main story. Head back inside the hospital and talk to Melia. Return to the Grand Dream Station and talk to Aelita.
 
 **Relationship Point Choices**:
 - All responses at GDS (-2 Aelita)
@@ -33,7 +33,7 @@ Enter the Hospital of Hope after your conversation with Aelita on the bridge. In
 
 !enc(254, nil, ["Old", "Good"])
 
-Talk to the Braviary Post to activate this location. The train between GDC and Route 9 is fairly expensive, so I recommend flying between Route 9 and Yui's Ranch then taking the Grand Bridge into the city if needed, for now.
+Talk to the Braviary Post to activate this location.
 
 !battle(["Nadia",:CHANELLER,0])
 
@@ -47,15 +47,15 @@ Go up from here and cross the one-tile bridge to the left, below the cave entran
 
 !img("zcell109.png")
 
-We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast, and surf to the top.
+We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast and **Palossand**, and surf to the top.
 
 **ZCell 110: Route 9**
 
 !img("zcell110.png")
 
-Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**!
+Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**! Across the pond is the *Pinsirite*!
 
-Surf back to the mainland of Route 9. Hidden on Route 9, you'll find a *Calcium*, *Carbos*, *Big Mushroom*, *Resist Feather*, and *Swift Feather*. 
+Surf back to the mainland of Route 9. Hidden on Route 9, you'll find 2 *Belue Berries*, *Calcium*, *Carbos*, *Big Mushroom*, *Resist Feather*, and *Swift Feather*. 
 
 Next, enter the main entrance to the cave to the northeast.
 
@@ -71,7 +71,7 @@ Exit out the bottom to catch more **Sewaddle (Aevian)** if you wish.
 
 That's all we can do in this section of the cave, so head back out and go to the left, where the hiker is, and enter this cavern. At the top, use rock climb to grab an *Ability Capsule*. There's also a *Dusk Stone* hidden behind the rock smash path at the bottom. Pick up the hidden *Mineral Ball* and *Ether* as you go to the right.
 
-Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path: follow it to get *TM35 Flamethrower*! The tree here also has hidden *Honey* in it. 
+Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path. You can also battle the next Gimmighoul and obtain 100 more *Gimmighoul Coins*! Exit to get *TM35 Flamethrower*! There is also a hidden *Belue Berry* and *Honey*. 
 
 Return to the main part of Route 9. Make your way to the northwest: there is a breeder here, and each time you win, you will get *7 Exp. Candy L*.
 
@@ -85,7 +85,7 @@ That's all the exploring on this map we can do for now, so continue northwest on
 
 Enter the theater.
 
-## Rose Theater
+### Rose Theater
 
 Enter the room above.
 
@@ -93,7 +93,7 @@ Enter the room above.
 
 !img("zcell113.png")
 
-Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. Exit the southeasternmost door to grab a *Flying Memory*. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
+Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
 
 Head up the stairs located in the room behind the stage, and enter the left door. After the conversations, talk to Aelita again in the restaurant downstairs on the right side.
 
@@ -112,7 +112,13 @@ You'll be asked to type a name.
 **Relationship Point Choices**:
 - Answer "Nymiera" (+2 Damien)
 
-Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there is a quest we will take care of real quick.
+Go back upstairs and talk to the group in the third room. We will use this crystal in a bit, though there are a lot of quests we will take care of first.
+
+While we're here, you can trade your Sinistea in the lower right corner of the restaurant to get **Poltchageist**!
+
+Speaking of, Madame Peony now has new inventory in the Night Market:
+
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
 
 ## Kimono Girls Quest
 
@@ -150,22 +156,161 @@ Once you've found them all, next, head back to the Rose Theater and talk to Ayun
 
 !battle(["Ayuna",:KIMONOGIRL2,0])
 
-Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Ice Stone*! Head down to talk to the hiker in the crowd, to get another *Somniam Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
+Set up the best team possible and take on this gauntlet. Win, and you'll get a shiny Eevee with special moves and an *Audinite*! Head down to talk to the hiker in the crowd, to get another *Somniam Mall Stamp*! Talk to the woman to the left to get the *Sawsbuck Crest*!
 
 **Relationship Point Choices**:
 - Complete the Kimono Girls Quest (+1 Erin)
 
 We can return to GDC to do some shopping at the Somniam Mall now if we wish:
 
-!shop("Somniam Mall Battle Items + Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
+!shop("Somniam Mall Vitamins", ["HP Up", "Protein", "Iron", "Carbos", "Calcium", "Zinc"])
 
-!shop("Somniam Mall Battle Items + Vitamins", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Red Card", "Ring Target", "Metronome"])
+!shop("Somniam Mall Battle Items", ["Sticky Barb", "Lagging Tail", "Iron Ball", "Binding Band", "Float Stone", "Eject Button", "Eject Pack", "Red Card", "Ring Target", "Metronome"])
 
-## Returning to Past Aevium
+## Grand Dream City Help Center Quests
+
+### Missing Children Sidequest
+
+Head to the Central Building in GDC, and into the left elevator to engage with these. Accept Missing Children first.
+
+First thing we're gonna do is head to the Police Department in the Judicial District. Talk to Officer Jenny with the `!` above her head.
+
+Make your way to the Night Market. Talk to the man guarding a door on the left side, then go up. Talk to the man in the bottom left corner of the Night Market.
+
+Return to Jenny to cancel the request, though we're not through with it yet! Return to the guy in the Night Market. Use the password on the left side to get access.
+
+Welcome to the Underground. Enter the right building below. 
+
+!shop("The Underground Shop (Left)", ["Metal Powder", "Cell Battery", "Magnet", "Quick Powder", "Blast Powder"])
+
+We can *finally* purchase Blast Powder. Get a ton of it so we can later backtrack to use it to get items and such.
+
+!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Leek", "Float Stone", "Binding Band"])
+
+Pricey as they are, we are eventually going to need 12 Charcoal for a quest later.
+
+Go to the left. Inside the Pokemon Center, you can start the *Particia's Letter* quest. Drop the letter in the mailbox by the lift then return to Particia to finish the quest.
+
+**Relationship Point Choices**:
+- Are you two... okay? (Neutral)
+- You seem close. (+1 Particia)
+
+Back outside:
+
+!battle(["Devin",:COOLTRAINER_M,0], "Back Alley")
+
+!battle(["Emanuel",:ROCKER,0], "Back Alley")
+
+A *Heavy Ball* can be found hidden here.
+
+Enter the mart to the left if you want to buy something.
+
+!shop("The Underground Mart", ["Ultra Ball", "Dusk Ball", "Hyper Potion", "Revive", "Full Heal"])
+
+Enter the casino at the bottom. You can pay $15,000 for the password "BYE CAROTOS". Talk to the other guy here to give him the Updated Patent we obtained earlier. He will need from us 4 of each shard, 3 Heart Scales, 2 Blast Powders, and a Dawn and Shiny Stone. Some combination of the fishing minigame in the Festival Plaza and grinding Black Prisms can get us anything here that we're missing. Give them all to him to finally obtain the *Omni Ring*, letting us use our Z-Crystals and Mega Stones!!!
+
+Upstairs, cross the bridge to enter the other building. The Pokemon Psychologist, who changes a Pokemon to a random nature for 1 Heart Scale, is here. Go down from Dylan in the top left to reach a hidden *Full Heal* plus a *Toxic Orb* plus:
+
+**ZCell 114: The Underground**
+
+!img("zcell114.png")
+
+Backtrack to the building on the right side with stuff for sale. You can input our password here to enter the back room. Grab the *Colosseum Field Readout*. Pokemon are for sale! 
+
+!shop("The Underground Pokemon Sale", [["Furfrou", "8 Yellow Shards", true], ["Charmander", "10 Red Shards", true], ["Joltik", "2 Yellow Shards", true], ["Happiny", "6 Blue Shards", true], ["Mimikyu", "7 Yellow Shards", true]])
+
+Buying them all awards you with a *Fire Memory* (+5 Karma).
+
+Talk to Dylan on the left side. Enter the Bladestar Labs building to the west of the lift, and talk to the person behind the counter.
+
+!battle(["Tirgon",:BLADESTAR_M,1])
+
+There's a hidden *Mystery Bowl*, *Lemonade*, and *Full Heal* on the first floor.
+
+!battle(["Tiler",:BLADESTAR_M,0])
+
+!battle(["Tenson",:BLADESTAR_M,0])
+
+!battle(["Sahrah",:BLADESTAR_F,0])
+
+Pick up the *Hyper Potion* and hidden *Mystery Bowl* and *PP Up*.
+
+!dbattle(["Pati",:BLADESTAR_F,0], ["Niccie",:BLADESTAR_F,0])
+
+!dbattle(["Xander",:BLADESTAR_M,0], ["Xina",:BLADESTAR_F,0])
+
+Once you win, head down to the Fortune Teller's house and talk to her outside. Grab the hidden *EV Tuner*... then talk to Ana.
+
+On the next day, return to Dylan's house.
+
+**Relationship Point Choices**:
+- Sounds good. (+1 Dylan)
+- Er... (-1 Dylan)
+
+Enter the fortune teller's house with Ana. Head into the mart to the left of the Pokemon Center to talk to the clerk here, then watch the video. Return to Peony. Talk to Particia in the Pokemon Center next, then return to Dylan. Accept the fast travel offer to get to Route 9. Head down to talk to them. Then, watch the scene play out in Dylan's House. 
+
+Return to Dylan's house once more, then exit.
+
+!battle(["Nesto",:BLADESTAR_M,0], "Back Alley")
+
+Enter the diner to the right. Accept the fast travel again. You'll battle Ana: let her win if you wish.
+
+!battle(["Ana",:NANO,0])
+
+That's all we can do in this quest for now!
+
+### Classified Information Sidequest
+
+Back in the Central Building, take the request. Talk to the woman in the lobby right of the elevator to get to the 36F of the building.
+
+**Relationship Point Choices**:
+- I was terrified too... (Melia +2)
+- It's standard procedure. (Melia +1)
+- Grow up. (Melia -2)
+
+Head back into the room. Give Anabel a Nightmare Medallion, then exit. We'll need a new Nightmare Medallion for ourselves, so head over to the Night Market at night to buy one from Peony.
+
+Go to bed in the penthouse to return to the Nightmare Toy Box. Talk to Anabel in the foyer, then again to the left. After your conversation, wake up, and return to Anabel and Looker. Accept Looker's travel request to Darchlight Caves.
+
+Using the mirror, make your way all the way through the cave almost back to the Darchlight Mirror crafting room. Accept Looker's offer to jump the fence, then talk to Anabel in the left room. 
+
+Talk to Looker and reenter the office.
+
+**Relationship Point Choices**:
+
+- Glad to help. (Melia +3, Erick +2)
+- I kinda got baited into this... (Erick +3, Melia +2)
+- Eh... (Erick +1, Melia -2)
+
+Talk to Looker again to return to the Bladestar Labs. Talk to the door while in the hallway and present the Rose Badge to the door. Inside, grab the *Code Drifio Rift Notes*.
+
+!boss("RIFTFERROTHORN", "Volcanic Field")
+
+This is a tough battle. Its first two shields see a more defensive build that can wear you down with respectable damage from Fire Lash and Gyro Ball, while the latter two phases see it change to an offensive powerhouse that stops for no one. Beat it for (+1 Karma).
+
+Status conditions are permanent, so Paralysis can be extremely helpful in getting the edge on this thing. Trick Room can also be helpful for getting around the massive speed of the second form. It is doubly weak to Ground-type moves, so that will probably be your best offensive option.
+
+Once you emerge victorious, accept the fast travel. Talk to Looker and Anabel on 36F to get the *Rift Notes*.
+
+Return to the help center to get $25000, *2 Red Shards*, *2 Blue Shards*, *2 Green Shards*, *2 Yellow Shards*,  and a *Somniam Mall Stamp*! (+1 Karma)
+
+!shop("Somniam Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Chople Berry", "Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
+
+Buy at least five Occa and Passho Berries each for later.
+
+Return to Darchlight Caves and make your way all the way back to the room where you fought Ferrothorn, interact with the panel in the back, then enter the right room. Read the journal and use the Itemfinder in here to get *Dubious Disc*!
+
+Return quickly to Darchlight Village. In a house in the bottom left, you can now mention Particia to Carpenter, who will offer a trade: your Shroomish (Aevian) for **Indeedee**!
+
+## Past Aevium 2
 
 Return to the Rose Theater and talk to the Timesplicer Crystal on the upper floor.
 
 Exit the cave you appear in onto Route 4, which has no encounters (for now). Follow the path down and to the right.
+
+[New Game+ Content](#chapter-12-ng-part-1)
+
+The following two relationship point choices and battle are only present *without* NG+:
 
 **Relationship Point Choices**:
 - Yes (Vivian +1)
@@ -177,9 +322,7 @@ Next you have to fight a Level 1 Deoxys. Obviously it is easy, but:
 - Lose to Lv. 1 Deoxys (Aelita -1, Vivian -1)
 - Run away from Lv. 1 Deoxys (Aelita -2, Vivian -2)
 
-There are encounters now.
-
-TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"])
+!enc(106, nil)
 
 Return to Kugearen City and talk to Erin. Get $5000 from Katsu in Kugearen, then accept the fast travel. Once in Amberette Town, enter the right house and get the *Time Gear Amulet*!
 
@@ -222,9 +365,13 @@ Once you get control again, enter the Heracross Woods.
 
 !enc(244)
 
-Grab the *Max Repel* and hidden *Ultra Ball* and *Tiny Mushroom*. Chase this Heracross into the bottom right part of the forest, then sneak underneath the twigs in the bottom of the right side to sneak up on Heracross. Run to the top left part of the forest. Then, re-enter the village after Aelita's amulet gets taken. Talk to Aelita by the berries.
+Grab the *Max Repel* and hidden *Ultra Ball*, *Tiny Mushroom*, and *Focus Sash*! Chase this Heracross into the bottom right part of the forest, then sneak underneath the twigs in the bottom of the right side to sneak up on Heracross. Run to the top left part of the forest. Then, re-enter the village after Aelita's amulet gets taken. Talk to Aelita by the berries.
+
+### Confronting Vivian
 
 Go upstairs and interact with the table to get the *Garufa Spellbook*. Head down the stairs after the scene and confront Vivian at the top.
+
+[New Game+ Content](#chapter-12-ng-part-2)
 
 !battle(["Vivian",:SENSEI_1,0], "Blessed Field")
 
@@ -235,7 +382,7 @@ This one honestly isn't too bad, but her team does make good use of the field. H
 - What's up? (Neutral)
 - Can we leave now? (Melia -1)
 
-## Aevium's Potential Future
+### Aevium's Potential Future
 
 After the battle, you'll be whisked away. After a few scenes, head up and into the cave. Talk to Amber in the garden, then Kenneth in the cave. Go to sleep.
 
@@ -342,7 +489,7 @@ A pretty easy fight for her team. You'll be returned to your own self next, now 
 
 !battle(["Melanie",:LITTLEDEMON,0], "Chess Board")
 
-The news is good: Melia is your ally, so this is a 12v8. The team still hits very hard on the Chess Board, so you'll need to do your best to keep Melia's team alive and use doubles strategies to come out on top.
+The news is good: Melia is your ally, so this is a 12v12. The team still hits very hard on the Chess Board, so you'll need to do your best to keep Melia's team alive and use doubles strategies to come out on top, such as using spread moves with your Knight.
 
 **Relationship Point Choices**:
 - We have to go. (Neutral)
@@ -351,7 +498,7 @@ The news is good: Melia is your ally, so this is a 12v8. The team still hits ver
 
 Enter the door and return to the past.
 
-## Finishing Up in Past Aevium
+### Correcting Past Aevium
 
 After returning to the past, head into Sheridan Village and go up. Enter the sacrificial chamber.
 
@@ -359,6 +506,8 @@ After returning to the past, head into Sheridan Village and go up. Enter the sac
 - I remember! (Melia +2)
 - What are you talking about? (Melia +1)
 - We have to save Vivian! (Melia -1)
+
+[New Game+ Content](#chapter-12-ng-part-3)
 
 !boss("VIVIANREGIROCK", "Blessed Field")
 
@@ -372,141 +521,12 @@ Thankfully this fight isn't too bad. Regirock is slow and doesn't have that much
 - Catch it! (Melia +1)
 - Leave it in the wild. (Neutral)
 
-Go down to the dock, then talk to Spacea and Tiempa. 
+Near the berry garden south of the village, chop down the cut tree here to open up some side content for later. Go down to the dock, then talk to Spacea and Tiempa. 
 
 **Relationship Point Choices**:
 - Have >= 45 Melia Points at this moment (+4 Melia)
 
 Take the Timesplicer Crystal back to the present!
-
-## Missing Children
-
-Remember the GDC arc? Yeah, this is still the same game. Before we continue the story from here, we're gonna do some side quests!
-
-Head to the Central Building in GDC, and into the left elevator to engage with these. Accept Missing Children first.
-
-First thing we're gonna do is head to the Police Department in the Judicial District. Talk to Officer Jenny with the ! above her head.
-
-Make your way to the Night Market. Talk to the man guarding a door on the left side, then go up. Talk to the man in the bottom left corner of the Night Market.
-
-Return to Jenny to cancel the request, though we're not through with it yet! Return to the guy in the Night Market. Use the password on the left side to get access.
-
-Welcome to the Underground. Enter the right building below. 
-
-!shop("The Underground Shop (Left)", ["Metal Powder", "Cell Battery", "Magnet", "Quick Powder", "Blast Powder"])
-
-We can *finally* purchase Blast Powder. Get a ton of it so we can later backtrack to use it to get items and such.
-
-!shop("The Underground Shop (Right)", ["Oval Stone", "Sticky Barb", "Charcoal", "Light Ball", "Leek", "Float Stone", "Binding Band"])
-
-Pricey as they are, we are eventually going to need 12 Charcoal for a quest later.
-
-Go to the left. Inside the Pokemon Center, you can start the *Particia's Letter* quest. Drop the letter in the mailbox by the lift then return to Particia to finish the quest.
-
-**Relationship Point Choices**:
-- Are you two... okay? (Neutral)
-- You seem close. (+1 Particia)
-
-Back outside:
-
-!battle(["Devin",:COOLTRAINER_M,0], "Back Alley")
-
-!battle(["Emanuel",:ROCKER,0], "Back Alley")
-
-Enter the mart to the left if you want to buy something.
-
-!shop("The Underground Mart", ["Ultra Ball", "Dusk Ball", "Hyper Potion", "Revive", "Full Heal"])
-
-Enter the casino at the bottom. You can pay $15,000 for the password "BYE CAROTOS". Upstairs, cross the bridge to enter the other building. The Pokemon Psychologist, who changes a Pokemon to a random nature for 1 Heart Scale, is here. Go down from Dylan in the top left to reach a *Toxic Orb* plus:
-
-**ZCell 114: The Underground**
-
-!img("zcell114.png")
-
-Backtrack to the building on the right side with stuff for sale. You can input our password here to enter the back room, where Pokemon are for sale!
-
-!shop("The Underground Pokemon Sale", [["Furfrou", "8 Yellow Shards", true], ["Charmander", "10 Red Shards", true], ["Joltik", "2 Yellow Shards", true], ["Happiny", "6 Blue Shards", true], ["Mimikyu", "7 Yellow Shards", true]])
-
-Buying them all awards you with a *Fire Memory*.
-
-Talk to Dylan above. Enter the Bladestar Labs building to the west of the lift, and talk to the person behind the counter.
-
-!battle(["Tirgon",:BLADESTAR_M,1])
-
-!battle(["Tiler",:BLADESTAR_M,0])
-
-!battle(["Tenson",:BLADESTAR_M,0])
-
-!battle(["Sahrah",:BLADESTAR_F,0])
-
-Pick up the *Hyper Potion* and hidden *Mystery Bowl* and *PP Up*.
-
-!dbattle(["Pati",:BLADESTAR_F,0], ["Niccie",:BLADESTAR_F,0])
-
-!dbattle(["Xander",:BLADESTAR_M,0], ["Xina",:BLADESTAR_F,0])
-
-Once you win, head down to the Fortune Teller's house and talk to her outside. Talk to Ana.
-
-On the next day, return to Dylan's house.
-
-**Relationship Point Choices**:
-- Sounds good. (+1 Dylan)
-- Er... (-1 Dylan)
-
-Enter the fortune teller's house with Ana. Head into the mart to the left of the Pokemon Center to talk to the clerk here, then watch the video. Return to Peony. Talk to Particia in the Pokemon Center next, then return to Dylan. Accept the fast travel offer to get to Route 9. Head down to talk to them. Then, watch the scene play out in Dylan's House. 
-
-Return to Dylan's house once more, then exit.
-
-!battle(["Nesto",:BLADESTAR_M,0], "Back Alley")
-
-Enter the diner to the right. Accept the fast travel again. You'll battle Ana: let her win if you wish.
-
-!battle(["Ana",:NANO,0])
-
-That's all we can do in this quest for now!
-
-## Classified Information
-
-Back in the Central Building, take the request. Talk to the woman in the lobby right of the elevator to get to the 36F of the building.
-
-**Relationship Point Choices**:
-- I was terrified too... (Melia +2)
-- It's standard procedure. (Melia +1)
-- Grow up. (Melia -2)
-
-Head back into the room. Give Anabel a Nightmare Medallion, then exit. We'll need a new Nightmare Medallion for ourselves, so head over to the Night Market at night to buy one from Peony.
-
-Go to bed in the penthouse to return to the Nightmare Toy Box. Talk to Anabel in the foyer, then again to the left. After your conversation, wake up, and return to Anabel and Looker. Accept Looker's travel request to Darchlight Caves.
-
-Using the mirror, make your way all the way through the cave almost back to the Darchlight Mirror crafting room. Accept Looker's offer to jump the fence, then talk to Anabel in the left room. 
-
-Talk to Looker and reenter the office.
-
-**Relationship Point Choices**:
-
-- Glad to help. (Melia +3, Erick +2)
-- I kinda got baited into this... (Erick +3, Melia +2)
-- Eh... (Erick +1, Melia -2)
-
-Talk to Looker again to return to the Bladestar Labs. Talk to the door while in the hallway and present the Rose Badge to the door. Inside, grab the *Code Drifio Rift Notes*.
-
-!boss("RIFTFERROTHORN", "Volcanic Field")
-
-This is a tough battle. Its first two shields see a more defensive build that can wear you down with respectable damage from Fire Lash and Gyro Ball, while the latter two phases see it change to an offensive powerhouse that stops for no one.
-
-Status conditions are permanent, so Paralysis can be extremely helpful in getting the edge on this thing. Trick Room can also be helpful for getting around the massive speed of the second form. It is doubly weak to Ground-type moves, so that will probably be your best offensive option.
-
-Once you emerge victorious, accept the fast travel. Talk to Looker and Anabel on 36F to get the *Rift Notes*.
-
-Return to the help center to get $25000 and a *Somniam Mall Stamp*!
-
-!shop("Somniam Mall Rare Berries", ["Occa Berry", "Passho Berry", "Wacan Berry", "Rindo Berry", "Yache Berry", "Payapa Berry", "Tanga Berry", "Charti Berry", "Custap Berry", "Chople Berry"])
-
-!shop("Somniam Mall Rare Berries", ["Kebia Berry", "Shuca Berry", "Coba Berry", "Haban Berry", "Kasib Berry", "Colbur Berry", "Babiri Berry", "Chilan Berry", "Roseli Berry"])
-
-Buy at least five Occa and Passho Berries each for later.
-
-Return to Darchlight Caves and make your way all the way back to the room where you fought Ferrothorn, interact with the panel in the back, then enter the right room. Read the journal and use the Itemfinder in here to get *Dubious Disc*!
 
 ## Golden Wing Badge
 
@@ -524,15 +544,15 @@ We jump a little ahead: the year is 2014. GameFreak wants to do a little power c
  
 Delta Stream is made to be on the same level of power as Primordial Sea and Desolate Land, better than Drought, better than Drizzle. Again importantly, Delta Stream cannot be overwritten, but is balanced by Mega Rayquaza needing to be out on the field. Delta Stream also neutralizes all Ice, Electric, and Rock moves used against Flying types. Mega Rayquaza was so strong the Smogon battle tier literally called "Uber" could not contain the power levels of this creature, leading to the creation of the "Anything Goes" tier.
 
-So, with all this in mind, what happens when a game, maybe one whose name begins with "P" and ends with "okemon Rejuvenation", decides to just... make an entire fight have innate Delta Stream? Against all Flying Pokemon? On top of a the Sky Field, a field custom made for strengthening Flying types via various ability and move buffs? *What happens when this weather cannot be overwritten by any means other than Cloud Nine*? Well.... it means you're in for a ROUGH fight.
+So, with all this in mind, what happens when a game, maybe one whose name begins with "P" and ends with "okemon Rejuvenation", decides to just... make an entire fight have innate Delta Stream? Against all Flying Pokemon? On top of a the Sky Field, a field custom made for strengthening Flying types via various ability and move buffs? *What happens when this weather cannot be overwritten by any means other than Cloud Nine*? Previous versions had the answer, taking a bit of the wind out of my sales in this rant, as you can now override it with your own weather...
 
-Let's look at how this fight plays out. His first Pokemon comes in: a Skarmory that will likely cripple your lead as it has Sturdy, a Liechi Berry, and an insane field boosted single-turn Sky Attack, or perhaps it will use field-extended Tailwind. Unfezant gets a free Defense Boost upon switching in and has all its weaknesses cancelled by the Strong Winds and hits hard with Heavenly Wing and Sky Attack. Multiscale Dragonite won't be missing its Hurricane and Thunder attacks; Oricorio with its crest has just enough Speed and Special Attack to do huge damage; and Aevian Volcarona is a monstrosity that feels custom made to make this battle even harder, for some reason. It is all topped off with another weakness-less Pokemon in Mega Pidgeot who will demolish you with Hurricane, Razor Wind, and Heat Wave. Frequent uses of Tailwind ensure his team is always outspeeding you, Heavenly Wing pulls the field back to Sky Field if you try to change it, and Strong Winds prevent you from getting an easy sweep. It is absolutely PAIN.
+Let's look at how this fight plays out. His first Pokemon comes in: a Skarmory that will likely cripple your lead as it has Sturdy, a Liechi Berry, and an insane field boosted single-turn Sky Attack, or perhaps it will use field-extended Tailwind. Unfezant gets a free Defense Boost upon switching in and has all its weaknesses cancelled by the Strong Winds and hits hard with Heavenly Wing and Sky Attack. Multiscale Dragonite won't be missing its Hurricane and Thunder attacks; Oricorio with its crest has just enough Speed and Special Attack to do huge damage; and Aevian Volcarona is a monstrosity that feels custom made to make this battle even harder, for some reason. It is all topped off with another weakness-less Pokemon in Mega Pidgeot who will demolish you with Hurricane, Razor Wind, and Heat Wave. Frequent uses of Tailwind ensure his team is always outspeeding you, Heavenly Wing can pull the field back to Sky Field if you try to change it, and Strong Winds prevent you from getting an easy sweep. It is absolutely PAIN.
 
 I will not pretend that it is impossible, however! Some ideas:
 
-- As stated before, Cloud Nine users can temporarily disable this weather condition, so perhaps Drampa with an Electric move or Golduck with an Ice move can find success. 
-- Although I mentioned Heavenly Wing bringing the field back to Sky Field, only two of his Pokemon have this move, meaning we can maybe get away with a field change. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano or Snowy Mountain respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and flying moves hit hard in the latter.
-- If you can't beat him, join him! The Sky Field can be beneficial for your team, too: take advantage of your own 8-turn Tailwinds and boosted Flying type moves to outspeed when his Tailwind is off! 
+- As stated before, this fight has been nerfed and now allows competing weather conditions. Eight turns of weather plus your own Tailwind might be enough to turn the momentum in your favor.
+- Field changes are very usable here. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano or Snowy Mountain respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and Flying moves still hit hard in the latter.
+- If you can't beat him, join him! The Sky Field can be beneficial for your team, too: take advantage of your own 8-turn Tailwinds and boosted Flying type moves to outspeed when his Tailwind is off! Thunder's buffs on the field, especially if you get rid of the Strong Winds, can be an excellent choice.
 - Last but not least, the legendary Trick Room is a fantastic choice as an anti-Tailwind device!
 
 Win to get the Golden Wing Badge, raising our Level Cap to Lv. 80, and *TM62 Acrobatics*!
@@ -543,7 +563,7 @@ Win to get the Golden Wing Badge, raising our Level Cap to Lv. 80, and *TM62 Acr
 
 You'll also get... *Souta's Cane*. Well, that's interesting.
 
-## The Aelita Incident
+### The Aelita Incident
 
 Head into the middle room upstairs. After the scene, exit the building.
 
@@ -574,3 +594,7 @@ Back inside, head into the left room upstairs.
 - Too speedy... (Erin -2, Aelita -2)
 
 That concludes Chapter 12!
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>
