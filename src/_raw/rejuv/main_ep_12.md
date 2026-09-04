@@ -308,6 +308,10 @@ Return to the Rose Theater and talk to the Timesplicer Crystal on the upper floo
 
 Exit the cave you appear in onto Route 4, which has no encounters (for now). Follow the path down and to the right.
 
+[New Game+ Content](#chapter-12-ng-part-1)
+
+The following two relationship point choices and battle are only present *without* NG+:
+
 **Relationship Point Choices**:
 - Yes (Vivian +1)
 - Uh... (Vivian -1)
@@ -318,9 +322,7 @@ Next you have to fight a Level 1 Deoxys. Obviously it is easy, but:
 - Lose to Lv. 1 Deoxys (Aelita -1, Vivian -1)
 - Run away from Lv. 1 Deoxys (Aelita -2, Vivian -2)
 
-There are encounters now.
-
-TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"])
+!enc(106, nil)
 
 Return to Kugearen City and talk to Erin. Get $5000 from Katsu in Kugearen, then accept the fast travel. Once in Amberette Town, enter the right house and get the *Time Gear Amulet*!
 
@@ -363,9 +365,13 @@ Once you get control again, enter the Heracross Woods.
 
 !enc(244)
 
-Grab the *Max Repel* and hidden *Ultra Ball* and *Tiny Mushroom*. Chase this Heracross into the bottom right part of the forest, then sneak underneath the twigs in the bottom of the right side to sneak up on Heracross. Run to the top left part of the forest. Then, re-enter the village after Aelita's amulet gets taken. Talk to Aelita by the berries.
+Grab the *Max Repel* and hidden *Ultra Ball*, *Tiny Mushroom*, and *Focus Sash*! Chase this Heracross into the bottom right part of the forest, then sneak underneath the twigs in the bottom of the right side to sneak up on Heracross. Run to the top left part of the forest. Then, re-enter the village after Aelita's amulet gets taken. Talk to Aelita by the berries.
+
+### Confronting Vivian
 
 Go upstairs and interact with the table to get the *Garufa Spellbook*. Head down the stairs after the scene and confront Vivian at the top.
+
+[New Game+ Content](#chapter-12-ng-part-2)
 
 !battle(["Vivian",:SENSEI_1,0], "Blessed Field")
 
@@ -483,7 +489,7 @@ A pretty easy fight for her team. You'll be returned to your own self next, now 
 
 !battle(["Melanie",:LITTLEDEMON,0], "Chess Board")
 
-The news is good: Melia is your ally, so this is a 12v8. The team still hits very hard on the Chess Board, so you'll need to do your best to keep Melia's team alive and use doubles strategies to come out on top.
+The news is good: Melia is your ally, so this is a 12v12. The team still hits very hard on the Chess Board, so you'll need to do your best to keep Melia's team alive and use doubles strategies to come out on top, such as using spread moves with your Knight.
 
 **Relationship Point Choices**:
 - We have to go. (Neutral)
@@ -492,7 +498,7 @@ The news is good: Melia is your ally, so this is a 12v8. The team still hits ver
 
 Enter the door and return to the past.
 
-### Finishing Up in Past Aevium
+### Correcting Past Aevium
 
 After returning to the past, head into Sheridan Village and go up. Enter the sacrificial chamber.
 
@@ -500,6 +506,8 @@ After returning to the past, head into Sheridan Village and go up. Enter the sac
 - I remember! (Melia +2)
 - What are you talking about? (Melia +1)
 - We have to save Vivian! (Melia -1)
+
+[New Game+ Content](#chapter-12-ng-part-3)
 
 !boss("VIVIANREGIROCK", "Blessed Field")
 
@@ -513,7 +521,7 @@ Thankfully this fight isn't too bad. Regirock is slow and doesn't have that much
 - Catch it! (Melia +1)
 - Leave it in the wild. (Neutral)
 
-Go down to the dock, then talk to Spacea and Tiempa. 
+Near the berry garden south of the village, chop down the cut tree here to open up some side content for later. Go down to the dock, then talk to Spacea and Tiempa. 
 
 **Relationship Point Choices**:
 - Have >= 45 Melia Points at this moment (+4 Melia)
@@ -536,15 +544,15 @@ We jump a little ahead: the year is 2014. GameFreak wants to do a little power c
  
 Delta Stream is made to be on the same level of power as Primordial Sea and Desolate Land, better than Drought, better than Drizzle. Again importantly, Delta Stream cannot be overwritten, but is balanced by Mega Rayquaza needing to be out on the field. Delta Stream also neutralizes all Ice, Electric, and Rock moves used against Flying types. Mega Rayquaza was so strong the Smogon battle tier literally called "Uber" could not contain the power levels of this creature, leading to the creation of the "Anything Goes" tier.
 
-So, with all this in mind, what happens when a game, maybe one whose name begins with "P" and ends with "okemon Rejuvenation", decides to just... make an entire fight have innate Delta Stream? Against all Flying Pokemon? On top of a the Sky Field, a field custom made for strengthening Flying types via various ability and move buffs? *What happens when this weather cannot be overwritten by any means other than Cloud Nine*? Well.... it means you're in for a ROUGH fight.
+So, with all this in mind, what happens when a game, maybe one whose name begins with "P" and ends with "okemon Rejuvenation", decides to just... make an entire fight have innate Delta Stream? Against all Flying Pokemon? On top of a the Sky Field, a field custom made for strengthening Flying types via various ability and move buffs? *What happens when this weather cannot be overwritten by any means other than Cloud Nine*? Previous versions had the answer, taking a bit of the wind out of my sales in this rant, as you can now override it with your own weather...
 
-Let's look at how this fight plays out. His first Pokemon comes in: a Skarmory that will likely cripple your lead as it has Sturdy, a Liechi Berry, and an insane field boosted single-turn Sky Attack, or perhaps it will use field-extended Tailwind. Unfezant gets a free Defense Boost upon switching in and has all its weaknesses cancelled by the Strong Winds and hits hard with Heavenly Wing and Sky Attack. Multiscale Dragonite won't be missing its Hurricane and Thunder attacks; Oricorio with its crest has just enough Speed and Special Attack to do huge damage; and Aevian Volcarona is a monstrosity that feels custom made to make this battle even harder, for some reason. It is all topped off with another weakness-less Pokemon in Mega Pidgeot who will demolish you with Hurricane, Razor Wind, and Heat Wave. Frequent uses of Tailwind ensure his team is always outspeeding you, Heavenly Wing pulls the field back to Sky Field if you try to change it, and Strong Winds prevent you from getting an easy sweep. It is absolutely PAIN.
+Let's look at how this fight plays out. His first Pokemon comes in: a Skarmory that will likely cripple your lead as it has Sturdy, a Liechi Berry, and an insane field boosted single-turn Sky Attack, or perhaps it will use field-extended Tailwind. Unfezant gets a free Defense Boost upon switching in and has all its weaknesses cancelled by the Strong Winds and hits hard with Heavenly Wing and Sky Attack. Multiscale Dragonite won't be missing its Hurricane and Thunder attacks; Oricorio with its crest has just enough Speed and Special Attack to do huge damage; and Aevian Volcarona is a monstrosity that feels custom made to make this battle even harder, for some reason. It is all topped off with another weakness-less Pokemon in Mega Pidgeot who will demolish you with Hurricane, Razor Wind, and Heat Wave. Frequent uses of Tailwind ensure his team is always outspeeding you, Heavenly Wing can pull the field back to Sky Field if you try to change it, and Strong Winds prevent you from getting an easy sweep. It is absolutely PAIN.
 
 I will not pretend that it is impossible, however! Some ideas:
 
-- As stated before, Cloud Nine users can temporarily disable this weather condition, so perhaps Drampa with an Electric move or Golduck with an Ice move can find success. 
-- Although I mentioned Heavenly Wing bringing the field back to Sky Field, only two of his Pokemon have this move, meaning we can maybe get away with a field change. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano or Snowy Mountain respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and flying moves hit hard in the latter.
-- If you can't beat him, join him! The Sky Field can be beneficial for your team, too: take advantage of your own 8-turn Tailwinds and boosted Flying type moves to outspeed when his Tailwind is off! 
+- As stated before, this fight has been nerfed and now allows competing weather conditions. Eight turns of weather plus your own Tailwind might be enough to turn the momentum in your favor.
+- Field changes are very usable here. Smack Down or Gravity twice can bring you to Mountain field. If you go for Lava Plume or Blizzard from here, you can take it to Volcano or Snowy Mountain respectively. Be cautious: Dragonite can rampage with boosted Thunder in the former and Flying moves still hit hard in the latter.
+- If you can't beat him, join him! The Sky Field can be beneficial for your team, too: take advantage of your own 8-turn Tailwinds and boosted Flying type moves to outspeed when his Tailwind is off! Thunder's buffs on the field, especially if you get rid of the Strong Winds, can be an excellent choice.
 - Last but not least, the legendary Trick Room is a fantastic choice as an anti-Tailwind device!
 
 Win to get the Golden Wing Badge, raising our Level Cap to Lv. 80, and *TM62 Acrobatics*!
@@ -590,5 +598,3 @@ That concludes Chapter 12!
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point.
 <hr/>
-
-TODO Exit the southeasternmost door to grab a *Flying Memory*. 

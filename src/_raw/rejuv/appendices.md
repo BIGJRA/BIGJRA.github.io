@@ -122,7 +122,7 @@ The devs even anticipated this sequence of events playing out early. I recommend
 
 ### Chapter 9 NG+ Part 1
 
-While in Kugearen City for the first time on a New Game+ file, Shayda will give you an Umbral Shard, then task you with finding more.
+While in Kugearen City for the first time on a New Game+ file, Shayda will give you our first *Umbral Shard*, then task you with finding more.
 
 [Jump Back](#past-aevium)
 
@@ -138,7 +138,7 @@ With increased Attack and Special Attack due to various sources, incredible cove
 
 Speed control can be on your side as long as you prevent Tailwind - this is the only move Shiftry's team has that boosts Speed. 
 
-Once you win, Shayda will give you an extra Umbral Shard! **Shiftry** will also join you!
+Once you win, Shayda will give you our second *Umbral Shard*! **Shiftry** will also join you!
 
 **Relationship Point Choices**:
 - Beat Umbral Shiftry (+3 Venam)
@@ -220,6 +220,41 @@ The answers are Hazuki, Huey, and Freya. Successful answers grant players the *P
 You can talk Risa by the pool to get one million Puppet Coins right away!
 
 [Jump Back](#nightmare-toy-box)
+
+### Chapter 12 NG+ Part 1
+
+If we've done the other Umbral battles so far, Shayda will challenge us once more while on Past Route 4.
+
+!boss("UMBRALDEOXYS", "Starlight Arena")
+
+The timer is the most challenging thing about this fight. Note the field hazards will also take out the reinforcements. Winning grants us our sixth *Umbral Shard*!
+
+**Relationship Point Choices:**
+- Defeat Umbral Deoxys (+1 Vivian)
+
+[Jump Back](#past-aevium-2)
+
+### Chapter 12 NG+ Part 2
+
+While confronting Vivian, Shayda will change the battle to a harder version.
+
+!battle(["Vivian", :SENSEI_1, 1], "Deep Earth Field")
+
+Win to get the seventh *Umbral Shard*!
+
+[Jump Back](#confronting-vivian)
+
+### Chapter 12 NG+ Part 3
+
+While fixing our mistake in the past, Shayda will change the battle with Regirock to a harder version.
+
+!boss("UMBRALREGIROCK", "Deep Earth Field")
+
+This is a pretty tough, long fight. The Admin is Rock/Fighting type with Wonder Guard and will frequently appear and redirect attacks with Follow Me, so be prepared for that. Toxic on the boss solves this fight if you and Melia can survive long enough. Win to get the eighth *Umbral Shard*!
+
+This is the last Umbral battle during this chapter, so take the time to exchange Shards with Shayda in Kugearen before departing if you wish.
+
+[Jump Back](#correcting-past-aevium)
 
 ## Complete the V13.5 Dex
 
