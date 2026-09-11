@@ -167,10 +167,26 @@ class EncounterGetter
         pokemon_name_formatted = @pokemonHash[mon][base_form][:name]
 
         if !(form_representation.nil?)
-          # Only treat the integer forms for now. Potential enhancement
           if form_representation.is_a?(Integer)
             form_key = @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form_representation]
             pokemon_name_formatted += " (#{form_key})".sub(' Form', '')
+          elsif form_representation.is_a?(Range)
+            form_keys = form_representation.map do |form|
+              @pokemonHash[mon].keys.find_all { |key| key.is_a?(String) }[form]
+            end
+
+            # Tauros override to just be any of the 3 forms
+            if mon == :TAUROS && form_keys.length == 3
+              pokemon_name_formatted += " (Paldean)"
+            end
+
+            # I have to be picky and choosy here. Unown for example shouldn't count but Basculin should.
+            skip_list = [:TAUROS, :UNOWN, :PUMPKABOO, :MINIOR, :TATSUGIRI, :SQUAWKABILLY]
+            if !(skip_list.include?(mon))
+              form_keys.map! { |form_key| form_key.sub(' Form', '') }
+              form_keys.map! { |form_key| form_key.sub('-Striped', '') } # basculin cleanup
+              pokemon_name_formatted += " (#{form_keys.join('/')})"
+            end
           end
         end
 

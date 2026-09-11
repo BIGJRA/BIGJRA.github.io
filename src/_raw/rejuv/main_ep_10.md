@@ -8,7 +8,7 @@ Next, head over to Luck's Tent. There is another move tutor!
 
 We won't be able to come back for a little while, so I recommend you farm as much AP as you can and head to the AP vendor at the casino. On deck is the Golden Gauntlets. Make sure you have 8 Sitrus Berries for a quest in the next chapter.
 
-### Spectral Knight Quest (Early)
+### Spectral Knight Quest
 
 It's worth noting that there are some rewards we can get, but they're locked behind some Lv. 80 battles. Take these on early if you think you can handle it.
 
@@ -112,7 +112,7 @@ Down and left from his house is a secret cut tree - chop it down and go left ont
 
 !img("zcell097.png")
 
-Head inside the trailer. Sleep on the bed to see a familiar face? Anyways, grab the *Buginium-Z* here and return to the previous map.
+Head inside the trailer. Sleep on the bed to see a familiar face? Anyways, grab the *Buginium Z* here and return to the previous map.
 
 Back on Route 7, go to the bottom left corner and cross the bridge.
 

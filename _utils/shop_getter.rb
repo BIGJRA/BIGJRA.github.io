@@ -95,7 +95,7 @@ class ShopGetter
         [
           stock_display_name(stock),
           stock_display_price(stock),
-          false
+          stock.stock_type == :pokemon # bold only Pokemon names
         ]
       end
 

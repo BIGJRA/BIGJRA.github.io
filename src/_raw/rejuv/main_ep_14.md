@@ -276,7 +276,7 @@ Surface, and dive down in the main area of Route 11. This gargantuan area has lo
 
 Dive back down. Straight down from here at the bottom of this area you'll see a little tunnel you can go through. Do so and surface to nab *TM16 Light Screen* and a hidden *Water Stone*. Dive again and go left after exiting the tunnel to the north. Activate the taller pillar here.
 
-Head straight to the right until you find another pillar. Activate it, then surface in the 2x2 square immediately to the right to get *Icicle Plate*. Dive down once more, and go up above the third pillar. Surface at this 2x2 square to grab the *Primarium-Z*!
+Head straight to the right until you find another pillar. Activate it, then surface in the 2x2 square immediately to the right to get *Icicle Plate*. Dive down once more, and go up above the third pillar. Surface at this 2x2 square to grab the *Primarium Z*!
 
 Head back down, then go the the bottom-left-most corner. Below the taller pillar we already activated is the fourth pillar. Once the ground shakes, return to the submarine. After a conversation, surface, fly back to Evergreen, then dive right here and enter the door.
 
@@ -300,7 +300,7 @@ Fly over to East Gearen and return to the Wreckage Site. We can actually complet
 
 There is some *Luminous Moss* at the top of the entry room. Plant Device 1 here, on the X symbol. Heading to the right you'll be attacked by Sharpedo. Enter a bedroom, pick up 5 *Dive Balls*, then follow the path. Pick up a *Water Stone* in the room next to you upstairs, then beat the next Sharpedo. More *Luminous Moss* is hidden here. A room to the left will contain the *Sharpedonite*! Plant Device 2 in here. To the right, beat another shark then follow the path to pick up *5 Dive Balls*. Exit to the right for 5 *Luxury Balls* and the spot for Device 3, then exit to the left to find a shining *Key* and the spot for Device 4. A door at the top to the left leads you to a *Dawn Stone* as well as *3 Pearls* hidden, plus the spot for Device 5. Finally, head up the stairs here and you'll have a chance to battle and catch **Mareanie**! Catch like, four of them: for the Aquarium Quest, to keep, and one to trade away later. Plant Device 6 here! Exit the ship the same way we came in.
 
-Surface, and Adrienn will give you the *Alcremite*! Use the key we found earlier to enter the warehouse on the left. Inside is the *Lycanium-Z*!
+Surface, and Adrienn will give you the *Alcremite*! Use the key we found earlier to enter the warehouse on the left. Inside is the *Lycanium Z*!
 
 Return to the Help Center in East Gearen to get $15000 (+1 Karma).
 
@@ -320,6 +320,10 @@ Beating Aya is all we can do in this quest for now!
 
 We can now finally finish the Aquarium Collection Sidequest. The last ten Pokemon we need to donate are the following:
 
+- Alomomola: Akuwa Town Surfing
+- Piplup: Spring of Preservation Static (get two if you haven't)
+- **Prinplup**: Evolve a Piplup at Lv. 16
+- Empoleon: Spring of Preservation Static
 - Mareanie/**Toxapex**: S.S. Oceana Wreckage (Evolve one)
 - Clawitzer: Goldenwood Park Fishing
 - Starmie: Valor Mountain Fishing
@@ -366,7 +370,7 @@ Win against Neptune to get the fourth *Star Shard*, **Popplio**, and a *Somniam 
 
 While we're in this area, surface at the top to enter Aquamarine Cave's Secluded Shore. Use Blast Powder to reach **Squirtle** on the left.
 
-Next, fly to Valor Mountain. Use the blue crystal and make your way to the Chamber of Awakening at the bottom. Dive down where we may or may not have fought Kyogre, then follow the path to the left and grab ZCrystal *Waterium-Z*. Take JUST ONE set of currents to the left, then go up and to the right. Activate this fifth panel, prepare for battle, and head up through the now-opened door.
+Next, fly to Valor Mountain. Use the blue crystal and make your way to the Chamber of Awakening at the bottom. Dive down where we may or may not have fought Kyogre, then follow the path to the left and grab ZCrystal *Waterium Z*. Take JUST ONE set of currents to the left, then go up and to the right. Activate this fifth panel, prepare for battle, and head up through the now-opened door.
 
 !battle(["Kingdra",:POKEGANG8,0], "Underwater Field")
 

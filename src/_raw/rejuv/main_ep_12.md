@@ -594,7 +594,3 @@ Back inside, head into the left room upstairs.
 - Too speedy... (Erin -2, Aelita -2)
 
 That concludes Chapter 12!
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>
