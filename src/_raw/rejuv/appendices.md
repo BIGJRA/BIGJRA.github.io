@@ -256,6 +256,64 @@ This is the last Umbral battle during this chapter, so take the time to exchange
 
 [Jump Back](#correcting-past-aevium)
 
+### Chapter 13 NG+ Part 1
+
+During Ren's encounter with Kieran, you will instead do another Umbral fight. Note that you will keep your normal team rather than using Ren's.
+
+!boss(:UMBRALXURKITREE, "Factory Field")
+
+This is an incredibly challenging fight! Xurkitree gets stronger and stronger for each KO it gets, while the rest of Kieran's usual team show up as allies for the fight. Ultimately you want to find some way to deny Xurkitree as many KOs as possible - switching out your Pokemon, letting his allies get the KOs, etc., all while weakening Xurkitree with enough -SpA or perhaps -Def/SpD moves to get it into a position for a sweep. Mud Barrage is a particularly good choice for this fight thanks to it being able to hit through multiple shields within a single turn.
+
+Shayda will award us with the ninth *Umbral Shard*!
+
+[Jump Back](#past-ren-se-sorry)
+
+### Chapter 13 NG+ Part 2
+
+The strongest employee here, Ace, will be transformed for our tenth Umbral fight.
+
+!battle(["Ace", :RECO_M, 1])
+
+Good as Gold blocks Status moves, but not the effects of moves like Chilling Water, Inferno, etc., so these will be your best bet at weakening and wearing down Meowth.
+
+[Jump Back](#rejuvenation-co)
+
+### Chapter 13 NG+ Part 3
+
+Just before engaging Gardevoir with Ren, if you received the Puppet Doubloon from the Puppet Master in earlier NG+ content, take the time to look at the shiny object during this section. If so, it will transform a future fight...
+
+[Jump Back](#underground-sanctuary)
+
+### Chapter 13 NG+ Part 4
+
+For doing the previous section, instead of the fights with Huey, Reina, and Gardevoir, you will fight the Nightmare Remix instead:
+
+!partner(["Ren",:OUTCAST,0])
+
+!boss("NIGHTMAREREMIX", "Starlight Arena")
+
+This is a rather challenging boss, though I'll note that Ren actually fares very well in this fight early on with Starlight Arena boosted moves. Save your best moves for the later phases in the fight and you'll likely do well. First Impression is a great choice here.
+
+Puppet Coin Not Found. Correcting Timeline.
+
+Before returning to the past, there's more. If you've done all the Shayda events to this point, meet her on the Seaforge Edge on Route 5 for a battle.
+
+!dbattle(["Eizen", :EIZEN, 3], ["Eizen", :EIZEN, 4])
+
+This battle is obviously insane. I was only able to use it with the generous help of 3-turn sleep, and even then it is down to the wire. The good news is that the fields let you get some pretty incredible damage with Dark and Fairy type moves, which are good against the bosses. Of course, with Rejuvenation's incredibly punishing shield mechanics, turn-by-turn precisely executed strategy with probably a lot of luck is going to be needed here. But maybe you can pull through if you've done all the other NG+ fights so far?
+
+Winning awards you the tenth, eleventh, and twelfth *Umbral Shards*. Eizen will then have the gall to ask you for one, though you can and should decline.
+
+[Jump Back](#sashila-village-renunion)
+
+### Chapter 13 NG+ Part 5
+
+If you've completed Shayda's battles so far, return to her in Kugearen City. Exchange *all* of your remaining shards.
+
+Make your way next to the area where we previously battled Umbral Gardevoir, and go into the portal. At the end you'll be able to battle **Wo-Chien**! A fitting reward after so many tough battles. You can return to Shayda for more dialogue - one more part of her NG+ questline will come later.
+
+[Jump Back](#sheridan-area-12-badge-quests)
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:
@@ -378,7 +436,7 @@ I don't recommend reading this list until you've played through the game once - 
 - **mintyfresh / mintpack**: Allows the player to get a pack of 5 of each Nature Mint at the beginning of the game.
 - **freeexpall**: Allows the player to obtain the Exp. All at the beginning of the game.
 - **shinycharm / earlyshiny**: Allows the player to obtain the Shiny Charm from the beginning of the game.
-- **freemegaz** / **omniring**: Allows the player to use the Mega-Z Ring from the beginning of the game.
+- **freemegaz** / **omniring**: Allows the player to use the Omni Ring from the beginning of the game.
 - **easyhms / nohms / hmitems / notmxneeded**: Allows the player to obtain all the "Golden" field move items at the beginning of the game.
 - **powerpack**: Allows the player to receive the EV Training Cards at the beginning of the game.
 - **allfieldapp / fieldnotes / fieldtexts / fieldapp**: Unlocks all Field Effect Readouts from the beginning of the game.

@@ -11,11 +11,11 @@ Now onto the chapter.
 
 ## Scholar District
 
-Open the box with Melia and Erin. Exit the southeasternmost door of the Rose Theater to pick up the *Flying Memory*!
+Open the box with Melia and Erin. Exit the southeasternmost door of the Rose Theater to pick up the *Flying Memory*! Where we fought Souta, we can now get the *Pidgeotite*!
+
+Take a quick Braviary detour over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
 
 Head south from Route 9 into GDC's Scholar District.
-
-!enc(257)
 
 !battle(["Jakup",:YOUNGSTER,0], "City Field")
 
@@ -23,11 +23,23 @@ Head south from Route 9 into GDC's Scholar District.
 
 !battle(["Ken",:CAMPER,0], "City Field")
 
+!battle(["Johnson", :OFFICER, 1], "City Field")
+
 Using the itemfinder around this district, you'll find a *Blue Shard*, *Hyper Potion*, *Super Potion*, *Green Shard*, *Ether*, *Max Repel*, *Sitrus Berry*, *Casteliacone*, *Lemonade*, and *Honey*.
 
 Enter the Fan Club. Depending on your GDC reputation, you'll get items at this table. I had 660 at this point and was able to get the items: *10 Exp. Candy XL*, *TM68 Giga Impact*, *Gourmet Treat*, and *5 Black Prisms*.
 
-Down and to the left outside is the GDC Arcade.
+Down and to the left outside is the GDC Arcade. There is a copy of the AP Shop from the Chrisola Hotel here, so pick up any Golden Items you want to grab while you're here. 
+
+!cshop(:CoinTMs, "GDC Arcade Prizes", 10)
+
+!cshop(:GDCArcadePokemon, "GDC Arcade Pokemon")
+
+!battle(["Jane", :GUITARIST, 0], "Concert Venue")
+
+Down the left hallway:
+
+!battle(["Artemis", :COOLTRAINER_M, 0], "Concert Venue")
 
 Enter the student rec. center. In the left room you'll find another game corner! Three of the vendors are exactly the same as in Chrisola, but we can get a few new Pokemon. These are pretty expensive.
 
@@ -65,7 +77,9 @@ From here, the route splits depending on our choices in the Darchlight Caves reg
 
 [Don't Expose Flora](#badlands-arc-dont-expose-flora-route) | [Expose Flora](#badlands-arc-expose-flora-route)
 
-## Badlands Arc (Don't Expose Flora Route)
+## The Badlands 
+
+### Badlands Arc (Don't Expose Flora Route))
 
 After the meal at the restaurant, head over to the Judicial District. Talk to Allen and Alice at the bottom.
 
@@ -118,7 +132,7 @@ In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *
 
 To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below.
 
-!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
+!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Rage Candy Bar", "Mineral Ball", "Hyper Potion", "Ultra Potion", "Revive", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
 
 ### Zorrialyn Desert (Don't Expose Flora Route)
 
@@ -174,6 +188,8 @@ Go up the stairs in the top right corner of the map. Pick up the hidden *Red Sha
 
 ### Voidal Chasm (Don't Expose Flora Route)
 
+!enc(519)
+
 You'll find an *Odd Keystone* to the left, plus four hidden *Ethers*. Talk to the sign, then to the small drip of water to proceed.
 
 In the next area, talk to the sign then to the white rock on the right. A path will open to the left.
@@ -182,9 +198,9 @@ In the next area, pick up the *White Herb* and three hidden *Ethers*. Finding th
 
 !battle(["???",:UNKNOWN_1,3], "Dimensional Field")
 
-You'll be taken back to Sashila Village. Head to the inn and enter the room in the back, and agree to sleep. The [routes converge](#hospital-of-ruin) from here.
+You'll be taken back to Sashila Village. Head to the inn and enter the room in the back, and agree to sleep. The [routes converge](#sand-stream-cave) from here.
 
-## Badlands Arc (Expose Flora Route)
+### Badlands Arc (Expose Flora Route)
 
 !battle(["Miya",:BLADESTAR_F,0])
 
@@ -203,6 +219,8 @@ Exit the train into Bladestar HQ. You'll have to choose one Pokemon for a 1v2 fi
 !battle(["Risa Raider",:POPSTAR,1], "Factory Field")
 
 ### Voidal Chasm (Expose Flora Route)
+
+!enc(519)
 
 Take the warp to the next area. Grab the two hidden *Ethers*, then attempt to take the warp at the top. Head down and right: you can hop to continue.
 
@@ -238,7 +256,11 @@ Cross the bridge below.
 
 !battle(["Jowy",:BLACKBELT,0], "Desert Field")
 
-Grab the *Revive*, and hidden *Leaf Stone* and *Kebia Berry* to the right. Down from here is an *Iron*. To the left is a hidden *Heavy Ball* and *PP Up*. Continue left. We will explore Fort Rystrine later on. Head up for a hidden *Lemonade*. To the right, hidden behind a Blast Powder rock is a *Synthetic Seed*.
+Grab the *Revive*, and hidden *Leaf Stone* and *Kebia Berry* to the right. The *Corrosive Field Readout* is here as well. Down from here is an *Iron*. To the left is a hidden *Heavy Ball* and *PP Up*. Continue left. 
+
+!enc(523)
+
+We can't proceed in Fort Rystrine for now, so return to the previous map. Head up for a hidden *Lemonade*. To the right, hidden behind a Blast Powder rock is a *Synthetic Seed*.
 
 Cross under an archway above to reach a hidden *Reverse Candy* and *Revival Herb*, as well as a *Smooth Rock* and *Max Ether*. Continue into Zorrialyn Desert (West) by going west at the top left side of the map.
 
@@ -292,18 +314,130 @@ In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *
 
 To the left, enter the Study Library. Talk to someone to get the *House Key*! Outside, you can get some lore by paying the Informant below. Grab the hidden *HP Up* below.
 
-!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Mineral Ball", "Hyper Potion", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
+!shop("Sashila Shop", ["Poke Ball", "Great Ball", "Ultra Ball", "Rage Candy Bar", "Mineral Ball", "Hyper Potion", "Ultra Potion", "Revive", "Max Repel", "Burn Heal", "Gourmet Treat", "Reverse Candy"])
 
 Re-enter the school area to the north of the battlefield on the east side to talk to Ren and Ryland.
 
 **Relationship Point Choices**:
 - Talk to Ren and Ryland without having helped Ryland on Route 6 (-2 Ryland)
 
-Head to the top of Sashila Village to talk to the group. Enter the inn towards the center of the village and go to sleep.
+Head to the top of Sashila Village to talk to the group. Before continuing the story, there are a few side areas we can tackle.
 
-*Special Scene: The Twin's Fate* requires 3+ Relationship Points with Reina at this point.
+### Sand Stream Cave
 
-## Hospital of Ruin
+Next, we're gonna enter Sand Stream Cave at the top left corner of Zorrialyn Desert West.
+
+!enc(513)
+
+Grab the *Hyper Potion* up here. Hidden in this first room is *2 Yellow Shards*, *Carbos*, *Escape Rope*, *Berry Juice*, and *Grass Gem*.
+
+In order to proceed in the cave, we need a bit of luck: there needs to be stationary Hippopotas roaming the first floor. Exit and re-enter until this condition is met. 
+
+Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here! Jump into the vortex in the sand pit to reach B2F. Grab the *Revive* here on B2F and find a hidden *Red Shard*, then another *Revive* and hidden *Green Shard* and *Rare Candy* past some Rock Climbs. In the center of the room is a hidden *Light Clay*. Grab the *Full Heal*, hidden *Burn Heal*, *Clever Feather*, and *Genius Feather* along the way, plus a *Moon Ball* in the southeast. Take the central vortex to B3F!
+
+!enc(514)
+
+Grab the hidden *Elixir* and climb up. 
+
+Hidden in this room is a *Green Shard*, *Soft Sand*, *Rock Gem*, *Rawst Berry*, *Sitrus Berry*, *Berry Juice* and *Lava Cookie*.
+
+At the top of the room, you'll find:
+
+**ZCore 1: Sand Stream Cave**
+
+Grab the *Sandacondanite* and *Flygon Crest*, then exit the cave by climbing the ladder.
+
+### Zorrialyn Labyrinth
+
+Next, we're going to do some treasure hunting. Towards the bottom of Zorrialyn Coast is the entrance to the Zorrialyn Labyrinth. It costs $5500 per trip: we will be booted from the dungeon after a certain number of steps, meaning completion requires multiple trips. Try not to stray too much from the listed paths: there is a bit of wiggle room but not much.
+
+**B1F Trip 1: Items**:
+
+!img("labyrinth_1_1.png")
+
+(1) *PP Max*
+(2) *Relic Copper*
+(3) *HP Up*
+(4) *Relic Copper*
+(5) *Relic Copper*
+(6) *Magcargo Crest*
+(7) *Relic Copper*
+(8) *Seviper Crest*
+(9) *Dread Plate*
+(10) *Desert Field Readout*
+
+**B1F Trip 2: Items**
+
+!img("labyrinth_1_2.png")
+
+(1) *Heart Scale*
+(2) *Meadow Plate*
+(3) *Icicle Plate*
+(4) *Dread Plate*
+(5) *Insect Plate*
+(6) *Oricorio Crest*
+
+**B1F Trip 3: Progress**
+
+!img("labyrinth_1_3.png")
+
+Every time you want to proceed to B2F, you'll need to follow these steps on B1F:
+
+(1) Head to the wall on the left side and use Strength/Golden Gauntlets when prompted
+(2) Proceed to the ladder
+
+**B2F Trip 1: Items**:
+
+!img("labyrinth_2_1.png")
+
+(1) *Toxic Plate*
+(2) *Stantler Crest*
+(3) *Fist Plate*
+(4) *Flame Plate*
+(5) *Iron Plate*
+(6) *Hypno Crest*
+(7) *Earth Plate*
+(8) *Sunflora Crest*
+(9) *Carbos*
+
+**B2F Trip 2: Progress**:
+
+!img("labyrinth_2_2.png")
+
+(1) Defeat this Cofagrigus against the wall
+(2) Proceed to the ladder
+
+**B3F Trip 1: Items**:
+
+!img("labyrinth_3_1.png")
+
+(1) *Relic Silver*
+(2) *Stone Plate*
+(3) *Leafeon Crest*
+(4) *Relic Silver*
+(5) *Sky Plate*
+(6) *Flame Orb*
+(7) *Stone Plate*
+(8) *Glaceon Crest*
+
+**B3F Trip 2: Items**:
+
+!img("labyrinth_3_2.png")
+
+(1) *Sky Plate*
+(2) *Relic Copper*
+(3) *Spooky Plate*
+(4) *Relic Copper*
+
+This is all we can do for now in the labyrinth!
+
+### Zorrialyn Coast
+
+Hug the coastline and go south onto a new map of the Zorrialyn Coast. There is a hidden *Thick Club*, *Berry Juice*, *Soft Sand*, *Heart Scale*, *Red Shard*, and *Blue Shard* on this map. Attempt to use the House Key in the door of the building, and it will snap in half. We'll continue that quest a bit later on. We can use the Darchlight Mirror to get the *Lopunnite*! Oh, and there's one more Gimmighoul on the east side, so we can get another *100 Gimmighoul Coins*!
+
+### Hospital of Ruin
+
+To continue the story, enter the inn towards the center of the village and go to sleep. The routes converge from here.
 
 *Special Scene: The Twin's Fate* requires 3+ Relationship Points with Reina at this point.
 
@@ -336,8 +470,6 @@ We will be in control of ourselves once more.
 
 Talking to her also awards *5 Revives*, *5 Max Potions*, and *5 Exp. Candy XL*.
 
-Exit the village. Attempt to use the House Key in the building all the way at the bottom of Zorrialyn Coast, and it will snap in half. We'll continue that quest a bit later on.
-
 Enter Alamissa Urben at the top of Zorrialyn Desert East. Talk to Ren at the entrance and you'll get **Sylveon**, as well as the *Mysterious Black Box*. 
 
 !enc(518)
@@ -366,13 +498,13 @@ Grab the hidden *Yellow Shard* outside the left door and climb the ladder.
 
 !battle(["Yuna",:BLADESTAR_F,0])
 
-You can catch **Falinks** here! Smash a shortcut rock and find the hidden *Yellow Shard*. At the bottom of the area is a *Power Bracer*. Enter the right door and go up. Grab another *Poke Toy* and further a hidden *Revive*, *5 Red Shards*, and *3 Yellow Shards*. At the center of the area is a Braviary Post! Enter a building in the top left and go downstairs to get a *Prism Scale*!
+You can catch **Falinks** here! Smash a shortcut rock and find the hidden *Yellow Shard*. At the bottom of the area is a *Eject Pack*! Enter the right door and go up. Grab another *Poke Toy* and further a hidden *Revive*, *5 Red Shards*, and *3 Yellow Shards*. At the center of the area is a Braviary Post! Enter a building in the top left and go downstairs to get a *Prism Scale*!
 
 Finally, exit the area at the top. Proceed forward when ready.
 
-## Blakeory Atheneum Tour
+### Blakeory Atheneum Tour
 
-You'll be playing as Melia once more. Talk to Hazuki in the entrance room. You can input your own question prompts by typing "Thomas Jr.", "Vivian", "Ayame", or "Nymiera".
+You'll be playing as Melia once more. Talk to Hazuki in the entrance room. You can input your own question prompts by typing "Thomas Jr.", "Vivian", "Ayame", "Anju", or "Nymiera".
 
 Return to Erin, then climb the stairs to use the indicated computer at the bottom. After your chat with Thomas, talk to Erin once more.
 
@@ -394,33 +526,41 @@ Return to Erin once more. After some scenes:
 
 Win or lose, the game will continue. Finish watching the wholesome scene and proceed.
 
-## The Third Trip to Past Aevium
+## Past Aevium 3
 
 !enc(322)
 
-Pick up the *Revive* and hidden *Red Shard*. Across the bridge is a hidden *Ultra Potion* and *Blue Shard*. Pick up the *Max Revive* to the right. Continue to the northeast to enter Hiyoshi City.
+Pick up the *Revive* and hidden *Red Shard*. Across the bridge is a hidden *Ultra Potion* and *Blue Shard*. Pick up the *Max Revive* to the right. Follow the path down below to reach a *Focus Sash*! Continue to the northeast to enter Hiyoshi City.
 
 !enc(330)
 
-Enter the first building to the right to grab a hidden *Ultra Potion*. At the east side of the town, there is a breeder who will award you with *10 Exp. Candy XLs*.
-
-!battle(["Jimbo",:POKEBREEDER_M,0])
-
-!shop("Hiyoshi City Berries", ["Sitrus Berry", "Chesto Berry"])
+Enter the first building to the right to grab a hidden *Ultra Potion*. Outside on the left is a hidden *Blue Shard*. Behind a cut tree to the right is a hidden *Ultra Potion*. Above is a hidden *Big Mushroom*, *Max Revive*, and *Exp. Candy XL*. Inside the building in the upper left corner is a hidden *Ether*. Outside, go the right, where you'll find a hidden *Rare Candy* in a path above. Further right is a hidden *Heavy Ball*. Enter the market to the south.
 
 !shop("Hiyoshi City Mart", ["Poke Ball", "Great Ball", "Ultra Ball", "Super Potion", "Hyper Potion", "Ultra Potion", "Awakening", "Gourmet Treat", "Reverse Candy", "Super Repel", "Max Repel"])
 
+!shop("Hiyoshi City Berries", ["Sitrus Berry", "Chesto Berry"])
+
 !cshop(:HiyoshiTutor, "Hiyoshi City Move Tutor")
 
-These moves we have already had access to for a while, so this seems to be a development oversight that this remains in.
+These moves we have already had access to for a while. There is a breeder who will award you with *10 Exp. Candy XLs*.
+
+!battle(["Jimbo",:POKEBREEDER_M,0])
+
+Down and right from the market is a hidden *Red Shard* and *Elixir*.
 
 Talk to Hazuki in the northwest of the city, then head into the house via the secret tunnel and talk to Nymiera. Talk to Huey in the corner to get some crazy backstory.
 
-Exit the house and enter the building above with the PC. Hidden in here is an *Ether*. Talk to the group in the southwest area of town. Then, head north to board the truck to Hiyoshi Pass.
+Talk to the group in the southwest area of town. Then, head north to board the truck to Hiyoshi Pass.
 
 !enc(374, nil, ["Old", "Good"])
 
+Head west for some more encounters and dialogue if you wish.
+
+!enc(407)
+
 Grab the *TM27 Return* on the right, then head up.
+
+### Past Ren-se (sorry)
 
 We'll now be playing as Ren!
 
@@ -428,34 +568,38 @@ We'll now be playing as Ren!
 
 Head up to where your main character passed out. You can talk to surfboard guy multiple times and even input a name to get a unique dialogue (Kieran). Attack or defend, you'll have to battle.
 
+[New Game+ Content](#chapter-13-ng-part-1)
+
 !battle(["???",:UNKNOWN_1,0])
 
-First time we're using Ren's team. Luckily, it's not too awful. Zepto can beat Raichu and dent Swampert, then there's just enough priority and SpD on the team that you can take out  Xurkitree.
+First time we're using Ren's team. Luckily, it's not too awful. Zepto can beat Raichu and dent Swampert, then there's just enough priority and SpD on the team that you can take out Xurkitree.
 
 **Relationship Point Choices**:
 - Defeat Kieran as Ren (+4 Ren)
 
-Head to the south-central square in town. After the scene, head to the Hiyoshi Pass again. Attempt to enter Rejuvenation Co., then head back to the city. Talk to the woman directly above the truck, then head to Route 5. Head west as soon as you can on Route 5 and talk to Anastasia.
+Head to the south-central square in town. After the scene, head to the Hiyoshi Pass again. Attempt to enter Rejuvenation Co., then head back to the city. Talk to the woman directly above the truck, then head to Route 5. Make your way to the very bottom left side of the map to find Anastasia. Talk to her by Rejuv. Co.
 
 !partner(["Anastasia",:RUNAWAYGIRL,0])
 
 !dbattle(["Kenny",:RECO_M,0], ["Jane",:RECO_F,0])
 
+### Rejuvenation Co.
+
 In the building, head west and follow the path, beating all the trainers.
+
+!battle(["Oswald",:RECO_M,0])
 
 !battle(["Summer",:RECO_F,0])
 
 !battle(["Hayner",:RECO_M,0])
 
-!battle(["Jenny",:RECO_F,0])
-
-!battle(["Mani",:RECO_M,0])
-
 !battle(["Janna",:RECO_F,0])
 
-!battle(["Oswald",:RECO_M,0])
+!dbattle(["Jenny",:RECO_F,0], ["Mani",:RECO_M,0])
 
 !battle(["Ace",:RECO_M,0])
+
+[New Game+ Content](#chapter-13-ng-part-2)
 
 After the sequence of events, return to Nymiera's house. Talk to the nurse in the inn, then head to the north part of town to engage with the maids. Head straight south. 
 
@@ -463,7 +607,11 @@ After the sequence of events, return to Nymiera's house. Talk to the nurse in th
 
 Beat the maids, then return to the inn one more time. Enter the tunnel and go up.
 
-We get control of our character again! Return to the tunnel. A butterfly in this area can warp us between here and Sashila Village, should we need to do any preparations.
+[New Game+ Content](#chapter-13-ng-part-3)
+
+### Underground Sanctuary
+
+We get control of our character again! Return to the tunnel. A moth in this area can warp us between here and Sashila Village, should we need to do any preparations.
 
 We're gonna be pushing strength boulders onto the spiked platforms. 
 
@@ -475,7 +623,11 @@ We're gonna be pushing strength boulders onto the spiked platforms.
 
 !battle(["Olga",:SERVANT,0], "Blessed Field")
 
-As soon as you get to the first healing star, grab the *Focus Sash* to the left and press the button on the pillar.
+As soon as you get to the first healing star, grab the *Focus Sash* to the left.
+
+[New Game+ Content](#chapter-13-ng-part-4)
+
+Press the button on the pillar.
 
 !battle(["Huey",:OPTKID_1,0], "Dimensional Field")
 
@@ -499,27 +651,21 @@ It doesn't have a way to counter any status conditions or stat drops of yours ho
 
 Not tough compared to the previous fight, thankfully.
 
-### New Game+ Nightmare Remix
-
-If you have progressed in New Game+ thus far and have the Puppet Doubloon, instead of Gardevoir, you will fight the Nightmare Remix instead:
-
-!partner(["Ren",:OUTCAST,0])
-
-!boss("NIGHTMAREREMIX", "Starlight Arena")
-
-## VS Ren in Sashila Village
-
 Once you get control back, head to Nymiera's house once again. Push the button on the back of the bookcase!
+
+### Sashila Village Renunion
 
 Back in Sashila, head out to the Zorrialyn Coast and go up past the Braviary Post to the Field of Pillars. Talk to Alexandra in front of the obelisk. After the scene, we're gonna head west across the bridge for a battle with Ren! At least we're familiar with his team.
 
 !battle(["Ren",:OUTCAST,0], "Desert Field")
 
-A very, very tough singles battle, in no small part thanks to Protean Greninja. Changing STAB on the fly with one of the best speed stats in the game makes it a very tough opponent. On top of this is Aevian Roserade, Flygon, and Corviknight, all immune to the Desert Field's Sandstorm chip, plus Arcanine and Silvally for hard hitting coverage. Take advantage of priority moves to deal with Greninja and utilize the field to your advantage to win this one.
+A very, very tough singles battle, in no small part thanks to Protean Greninja. Changing STAB on the fly with one of the best speed stats in the game makes it a very tough opponent. On top of this is Aevian Roserade and Corviknight, both immune to the Desert Field's Sandstorm chip, plus Arcanine, Silvally-Fairy, and Reuniclus for hard hitting coverage. Take advantage of priority moves to deal with Greninja and utilize the field to your advantage to win this one.
 
 ## Sashila Village Help Quests
 
-It's time for some Quests. Before we get started, if you didn't expose Flora and caught a Falinks in Alamissa Urben, return to the Voidal Chasm. Show Falinks to the sign towards the end of the path to get a *Razor Claw* plus:
+It's time for some Quests.
+
+Only if you didn't expose Flora and caught a Falinks in Alamissa Urben, return to the Voidal Chasm. Show Falinks to the sign towards the end of the path to get a *Razor Claw* plus:
 
 **ZCell 119A: Voidal Chasm**
 
@@ -527,9 +673,11 @@ It's time for some Quests. Before we get started, if you didn't expose Flora and
 
 Return to the room where we fought the surfboard guy to find *TM148 Phantom Force* as well as a hidden *Rare Candy* and *Old Scarf*.
 
-It's time for some Help Quests. Enter the door in the middle of Sashila Village, on the left side.
+*From here, all players keeping up with Zygarde Cells should have 120 Cells (TODO: Verify this...?) and one Core in the Gather Cube, regardless of route.*
 
 ### Legend of the Void
+
+Grab the Help Quests in Sashila Village, on the left side.
 
 Enter a house above the help center and talk to Marten. Enter the left house towards the bottom of the village next to talk to Hyu'ro. Return to Marten. Exit, and take the Mudsdale rider outside the village to Voidal Chasm.
 
@@ -547,9 +695,7 @@ Return to the help center to claim your reward: $12,500 and the *Absolite*! (+1 
 
 Head back to the research center from the last quest. Talk to the guy at the bottom right and agree to get sprayed.
 
-Head east from the Zorrialyn Coast.
-
-!enc(523)
+Head east from the Zorrialyn Coast to re-enter Fort Rystrine.
 
 Grab the hidden *Red Shard*. Upstairs, Vileplume will try to put you to sleep and fail! Enter this first house and use Blast Powder within to reach a *Relic Copper* and:
 
@@ -584,17 +730,17 @@ Talk to Damien once more outside and watch the scene that plays out.
 **Relationship Point Choices**:
 - Talk to Damien outside after convincing him (+1 Damien)
 
-Return to the help center to claim your reward: $22500, a *Link Heart*, *3 Sitrus Berries*, and *3 Roseli Berries* (+1 Karma).
+Return to the help center to claim your reward: $22,500, a *Link Heart*, *3 Sitrus Berries*, and *3 Roseli Berries* (+1 Karma).
 
 ### My Sister Fell!
 
 Head to the Voidal Chasm. Make your way all the way through the dungeon: you'll find a girl at the bottom. Agree to leave with her.
 
-Head west in the desert, and Rock Climb as soon as possible. You'll see Mandibuzz and the girl on top of a rock climb. Beat Mandibuzz.
+Head west in the desert, and Rock Climb as soon as possible. You'll see Mandibuzz and the girl; beat Mandibuzz!
 
 Go all the way back to Zorrialyn Coast, and you'll see the Exeggutor by the Braviary Post and pond.
 
-Return to the help center to get $32500 and MegaStone *Abomasite* (+1 Karma)!
+Return to the help center to get $32,500 and MegaStone *Abomasite* (+1 Karma)!
 
 ### I Need to Get Stronger!
 
@@ -606,118 +752,13 @@ Compared to some of her earlier fights, this isn't that bad. She uses a standard
 
 Return to the help center to get $32500 and a *Scented Lure*. (+1 Karma).
 
-## Sand Stream Cave
+Take a trip back to the Sand Stream Cave. In the room all the way at the bottom, interact with the space in the ground and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
 
-You can return to GDC now if you want, but there's even more desert exploration and quests we can do!
-
-Next, we're gonna enter Sand Stream Cave at the top left corner of Zorrialyn Desert West.
-
-!enc(513)
-
-Grab the *Hyper Potion* up here. Hidden in this first room is *2 Yellow Shards*, *Carbos*, *Escape Rope*, *Berry Juice*, and *Grass Gem*.
-
-In order to proceed in the cave, we need a bit of luck: there needs to be stationary Hippopotas roaming the first floor. Exit and re-enter until this condition is met. 
-
-Enter any vortex to reach B1F. There are **Hippowdon** roaming around down here! Jump into the vortex in the sand pit to reach B2F. Grab the *Revive* here on B2F and find a hidden *Red Shard*, then another *Revive* and hidden *Green Shard* and *Rare Candy* past some Rock Climbs. In the center of the room is a hidden *Light Clay*. Grab the *Full Heal*, hidden *Burn Heal*, *Clever Feather*, and *Genius Feather* along the way, plus a *Moon Ball* in the southeast. Take the central vortex to B3F!
-
-!enc(514)
-
-Grab the hidden *Elixir* and climb up. Interact with the space in the ground here and put in the Scented Lure. Then, you'll be able to catch **Trapinch** and **Vibrava**! 
-
-Hidden in this room is a *Green Shard*, *Soft Sand*, *Rock Gem*, *Rawst Berry*, *Sitrus Berry*, *Berry Juice* and *Lava Cookie*.
-
-At the top of the room, you'll find:
-
-**ZCore 1: Sand Stream Cave**
-
-Grab the *Sandacondanite* then exit the cave by climbing the ladder.
-
-## Zorrialyn Labyrinth
-
-Next, we're going to do some treasure hunting. Towards the bottom of Zorrialyn Coast is the entrance to the Zorrialyn Labyrinth. It costs $5500 per trip: we will be booted from the dungeon after a certain number of steps, meaning completion requires multiple trips. Try not to stray too much from the listed paths: there is a bit of wiggle room but not much.
-
-**B1F Trip 1: Items**:
-
-!img("labyrinth_1_1.png")
-
-(1) *PP Max*
-(2) *Relic Copper*
-(3) *HP Up*
-(4) *Relic Copper*
-(5) *Relic Copper*
-(6) *Magcargo Crest*
-(7) *Relic Copper*
-(8) *Seviper Crest*
-(9) *Dread Plate*
-
-**B1F Trip 2: Items**
-
-!img("labyrinth_1_2.png")
-
-(1) *Heart Scale*
-(2) *Meadow Plate*
-(3) *Icicle Plate*
-(4) *Dread Plate*
-(5) *Insect Plate*
-(6) *Oricorio Crest*
-
-**B1F Trip 3: Progress**
-
-!img("labyrinth_1_3.png")
-
-Every time you want to proceed to B2F, you'll need to follow these steps on B1F:
-
-(1) Head to the wall on the left side and use Strength/Golden Gauntlets when prompted
-(2) Proceed to the ladder
-
-**B2F Trip 1: Items**:
-
-!img("labyrinth_2_1.png")
-
-(1) *Toxic Plate*
-(2) *Stantler Crest*
-(3) *Fist Plate*
-(4) *Flame Plate*
-(5) *Iron Plate*
-(6) *Hypno Crest*
-(7) *Earth Plate*
-(8) *Fearow Crest*
-(9) *Carbos*
-
-**B2F Trip 1: Progress**:
-
-!img("labyrinth_2_2.png")
-
-(1) Defeat this Cofagrigus against the wall
-(2) Proceed to the ladder
-
-**B3F Trip 1: Items**:
-
-!img("labyrinth_3_1.png")
-
-(1) *Relic Silver*
-(2) *Stone Plate*
-(3) *Leafeon Crest*
-(4) *Relic Silver*
-(5) *Sky Plate*
-(6) *Flame Orb*
-(7) *Stone Plate*
-(8) *Glaceon Crest*
-
-**B3F Trip 2: Items**:
-
-!img("labyrinth_3_2.png")
-
-(1) *Sky Plate*
-(2) *Relic Copper*
-(3) *Spooky Plate*
-(4) *Relic Copper*
-
-This is all we can do for now in the labyrinth!
-
-## Route 10
+## Backtracking: Fly
 
 Talk to Damien at the top of Sashila and head back to Route 9. There, you'll get *HM02 Fly*! Finally. If you have the Golden Wings you can use these now!
+
+### Route 10
 
 Next, we'll visit a short new route. Just above the breeder on Route 9, head up and right. We can't do anything there yet except catch some Pokemon.
 
@@ -725,13 +766,11 @@ Next, we'll visit a short new route. Just above the breeder on Route 9, head up 
 
 You can also catch the overhead **Wingull** and **Pelipper**!
 
-Pick up *TM74 Gyro Ball*. That's it for Route 10. 
+Pick up *TM74 Gyro Ball* and the hidden *Durin Berry*. That's it for Route 10. 
 
-A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of the Honec Woods if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**!
+A few more quick things to get on Terrial Island: head over to Oblitus Town via Route 7. Talk to the PokeFlute in Kelvin's house and the top and agree to buy it for $45000. Make your way back to the northern clearing of the Honec Woods if you completed the Yui's Ranch quest and use the flute to catch **Snorlax**! Back at Yui's Ranch, you'll now be able to find the *Orbeetlenite*!
 
-Next, head over to Route 8. You can use Strength on the metal poles to knock off all the Pokemon on the wire, including new **Scyther** and **Hawlucha**! You'll want to catch two Scyther: one to keep, one for a quest. You can do this by exiting and reentering Route 8.
-
-## Aquarium Quest 1
+### Aquarium Quest 1
 
 Now that we can fly back to Floria and Terajuma, there are tons of things we can do now with 12 Badges and HM Strength.
 
@@ -746,7 +785,7 @@ We start by donating 10. These 10 should be easy to start with:
 - Finneon/Lumineon: Sheridan Village Fishing
 - Corsola: Akuwa Town Beach
 
-With 10 Pokemon donated to the aquarium, we will receive $60000 and the *Super Rod*! Our next objective is 20. A few more Pokemon we can easily donate right now:
+With 10 Pokemon donated to the aquarium, we will receive $60,000 and the *Super Rod*! Our next objective is 20. A few more Pokemon we can easily donate right now:
 
 - Staryu: Terajuma Shipyard Static (Nighttime)
 - Chinchou: Darchlight Woods Fishing
@@ -758,16 +797,9 @@ With 10 Pokemon donated to the aquarium, we will receive $60000 and the *Super R
 - Luvdisc: Route 11 Fishing
 - Spheal/Sealeo: Evergreen Forest Surfing
 
-For donating 20 Pokemon, we will be paid $60000. Our final target is all 34 Pokemon. There are a few more that we can add to the tank right away:
+For donating 20 Pokemon, we will be paid $60,000 once more. Our final target is all 34 Pokemon. The last 14 Pokemon we will donate later on.
 
-- Alomomola: Akuwa Town Surfing
-- Piplup: Spring of Preservation Static (get two if you haven't)
-- **Prinplup**: Evolve a Piplup at Lv. 16
-- Empoleon: Spring of Preservation Static
-
-The last 10 Pokemon we will donate later on.
-
-## Neo East Gearen City & Help Quests
+### Neo East Gearen City (Left)
 
 Fly over to West Gearen City. On Junction Bridge, push a boulder out of the way - now that we have the Dull Key, open the door here and use a Gourmet Treat to get **Litten**! Exit east to the now "Neo" East Gearen City.
 
@@ -795,9 +827,39 @@ There are some move tutors in the bottom left side of the map.
 
 Grab an Aevian Budew from the PC and enter the Magnolia Library. Show it to Zumi for the *PictoZumi* quest. You'll get *10 Exp. Candy XL* and the *Ampharosite*! Our next Pokemon target is an Aevian Form located in the Axis Factory, which we'll get to later.
 
-Finally, it's time to get another legendary! Head to the Help Center and talk to Ayuda. We have over 100 Cells plus one Core, so we now get **Zygarde 10%**! Talk to him again right after: since we have over 120 Zygarde Cells, we get *5 Cell Imprints*, *20 Exp. Candy XL*, and a *Modest Mint*. Our next target is 140 Cells.
+Finally, it's time to get another legendary! Head to the Help Center and talk to Ayuda. We have over 100 Cells plus one Core, so we now get **Zygarde 10%**! Talk to him again right after: since we have over 120 Zygarde Cells, we get *Heavy-Duty Boots*, *5 Cell Imprints*, *20 Exp. Candy XL*, and a *Modest Mint*. Our next target is 140 Cells.
 
-Head down to Oceana Pier. You can trade a Rockruff for a **Rockruff** with Own Tempo, which you can evolve into **Lycanroc (Dusk)**. You can also find a hidden *X Accuracy* and *Sweet Heart*
+Near the area where there was previously an alleyway, you can enter a building to access the Neo High Rise.
+
+!enc(685)
+
+There is a hidden *Green Shard*, *Blue Shard*, *Red Shard*, *Gourmet Treat*, *Light Ball* in this area. Accept Volta's *High Rise Run-in!* quest to battle the six trainers all around the High Rise. Each fights you on a different field!
+
+!battle(["Art", :CUEBALL, 0], "City Field")
+
+!battle(["Samantha", :SWIMMER_F, 0], "Water Surface")
+
+!battle(["Malcolm", :BUGCATCHER, 0], "Forest Field")
+
+!battle(["Wrenly", :TECH, 0], "Factory Field")
+
+!battle(["Kody", :HIKER, 0], "Rocky Field")
+
+!shop("Girl Scouts", ["Revive", "Blast Powder", "Poison Barb", "Black Belt", "Thin-Mints"])
+
+Say no to the salesgirl.
+
+!battle(["Mary Beth", :GIRLSCOUTS, 0], "Back Alley")
+
+Return to Volta for another battle.
+
+!battle(["Henrietta and Jeff", :NEWREP, 1], "City Field")
+
+Win to get the *Meganiumnite*, finishing the quest!
+
+Head down to Oceana Pier to find a hidden *X Accuracy* and *Sweet Heart*.
+
+### Neo East Gearen City (Right)
 
 Head to Neo East Gearen City (Right). 
 
@@ -809,7 +871,7 @@ Head to Neo East Gearen City (Right).
 
 !battle(["Denko",:HIKER,2], "City Field")
 
-On this map you can find hidden *Resist Feather*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. At the bottom of the map by Karrina's HQ is a *Reverse Candy*.
+On this map you can find hidden *Resist Feather*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. Near the hotel is an *Up-Grade*. At the bottom of the map by Karrina's HQ is a *Reverse Candy* and *Dusk Stone*.
 
 Enter Gearen Park below.
 
@@ -817,7 +879,7 @@ Enter Gearen Park below.
 
 Hidden here is *2 Honeys*, *Leaf Stone*, *Carbos*, *Muscle Feather*, *Blue Shard*, and *Yellow Shard*.
 
-Catch a Level 100 Budew (or catch one that is close, and use Rare Candies). Then, show it to the guy at the bottom to get the *Grassium-Z*.
+Catch a Level 100 Budew (or catch one that is close, and use Rare Candies). Then, show it to the guy at the bottom to get the *Grassium Z*.
 
 Enter the Gearen Lab and talk to Jan to begin the *Reborn Again* quest. Then, head outside and talk to Adrienn again.
 
@@ -843,13 +905,13 @@ Grab the *Love Ball*, *Poke Ball*, and *Dive Ball*.
 
 !dbattle(["Elijah",:XENGRUNT_M,0], ["Ibrahim",:XENGRUNT_M,0], "Factory Field")
 
-Enter the door and get the *Tecanlite Key*. Use it on the door at the top to pick up *TM24 Thunderbolt*!
+Enter the door and get the *Tecanlite Key*. Use it on the door at the top to pick up *TM24 Thunderbolt* and the *Steel Memory*!
 
 Back in the main area, use the Key on the higher level, then follow the path through to the right. Grab the *Poke Ball* and *Dusk Ball*, then enter the double doors.
 
 !dbattle(["Lupin",:XENDEATHWING_M,0], ["Sonia",:XENDEATHWING_F,0], "Factory Field")
 
-Return to the East Gearen Help Center to get your reward - $12356, and the *Aloraichium-Z* (+1 Karma)! You can also return to the Pokeball Emporium in the mall to get 15 *Ultra Balls*. 
+Return to the East Gearen Help Center to get your reward - $12356, 3 *Yellow Shards*, and the *Aloraichium Z* (+1 Karma)! You can also return to the Pokeball Emporium in the mall to get 15 *Ultra Balls*. 
 
 ### Forest Restoration 
 
@@ -871,7 +933,7 @@ This brings the Forest Restoration to Phase 2. Hidden on this version of the map
 
 For the next phase, we're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the money.
 
-- Fisherman 1: East Gearen City near the Route 1 Train
+- Fisherman 1: Akuwa Town Apartments
 - Fisherman 2: Route 2 near the Kecleon Bazaar
 - Fisherman 3: Aquamarine Cave 1F
 - Architect: Terajuma Jungle in the building (Gerald)
@@ -886,7 +948,7 @@ This completes the restoration of Goldenwood Park!
 
 !enc(217, nil, nil)
 
-Pick up the *Bug Memory* and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*.
+Pick up the *Rare Candy* and *Bug Memory*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
 
 **ZCell 123: Goldenwood Park**
 
@@ -896,7 +958,7 @@ Talk to the fisherman inside the guild. Instantly the *Magic Karps* quest will b
 
 !enc(220, nil, nil)
 
-There is another hidden *Rare Candy* outside, north of where Adrienn and the reporters are. While we're here:
+While we're here, obligatory completeness listing:
 
 !enc(8, ["Fishing"], ["Super"])
 
@@ -906,9 +968,9 @@ Talk to Adrienn at the top when you are ready for a battle.
 
 Return to Grand Hall and talk to Adrienn. 
 
-We'll now have access to the Secret Developer Room downstairs. You can get a *Rare Bone* in the food bowl in exchange for... whiting out. Oops. In the room to the right you can get the *Cryogonal Crest*. In the bottom of the main room is the *Normalium-Z*!
+We'll now have access to the Secret Developer Room downstairs. You can get a *Rare Bone* in the food bowl in exchange for... whiting out. Oops. In the room to the right you can get the *Cryogonal Crest*. In the bottom of the main room is the *Normalium Z*!
 
-Back upstairs, enter the left room and talk to Jan. Return to the help center to get $250000, and the *Mawilite* (+1 Karma)!
+Back upstairs, enter the left room and talk to Jan. Return to the help center to get $250,000, 3 *Red Shards*, and the *Mawilite* (+1 Karma)!
 
 ### Mall Opportunities
 
@@ -922,7 +984,7 @@ Talk to Witch again, then head to the berry store downstairs. Re-enter the ice c
 
 You will get $5000. Return to the Le Whoa Restaurant in Gearen, then talk to the officer downstairs. Return to Witch again, then talk to Aya in the Lab.
 
-Return to the help center to get $25840 and the *Altarianite* (+1 Karma)!
+Return to the help center to get $25840, 3 *Blue Shards*, and the *Altarianite* (+1 Karma)!
 
 ### Shipwreck Recovery 1
 
@@ -938,6 +1000,8 @@ We can talk to Adrienn to progress the quest a bit, but without the next gym bad
 
 That's all we can do in Gearen for now. There are many more places across Floria Island we can explore for more goodies!
 
+### Akuwa Area 12 Badge Quests
+
 Fly to Akuwa Town and make your way east. Some Super Rod encounters in this area:
 
 !enc(13, ["Fishing"], ["Super"])
@@ -950,13 +1014,13 @@ Enter the Evergreen Forest.
 
 !enc(470, ["Fishing"], ["Super"])
 
-Rock Climb immediately above, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Next, towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up the *Audinite*! Finally, make your way to the spring. Battle and catch "The Emperor" (**Empoleon**). Back outside the forest, talk to Nana in her house for the *Crabominable Crest* and a *King's Rock*!
+Rock Climb immediately above, then use Strength to get to the top. Here, you'll find an *Ice Memory* and have a chance to catch **Sneasel**! Next, towards the top of the area, surf across a pond, climb some rocks and use Strength again to pick up the *Glalitite*! Finally, make your way to the spring. Battle and catch "The Emperor" (**Empoleon**). Back outside the forest, talk to Nana in her house for the *Crabominable Crest* and a *King's Rock*!
 
 Head to North Evergreen Cave just outside. Melt the ice again with a move like Lava Plume to get to the top. Push the boulder into this hole. On the next floor, you need to push it into the rightmost hole... unfortunately this is the farthest one away. On the next floor, navigate it all the way around to the hole on the bottom. Once you push it down, follow it down.
 
 !enc(491, ["Surfing", "Fishing"], nil, "Evergreen Cave (North) Basement")
 
-Enter the Locksmith's house in Akuwa Town, to the left of the Pokemon Center. Show him our broken key. If you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key*! Nice. Fly back to Sashila and enter the house on the coastline. Hidden on the first floor is a *Yellow Shard*, *Blue Shard*, and a *Red Shard*. Head upstairs and talk to the girl and pick up a hidden *Poke Doll*. Interact with the hook downstairs and place the Family Portrait that we got in the *Wall of Shame* quest. Then, head around to the left and go downstairs to get the *Gardevoirite*!
+Enter the Locksmith's house in Akuwa Town, to the left of the Pokemon Center. Show him our broken key. If you have 2 Light Clay and 1 Hard Stone, he'll make us a *Reforged Key*! Nice. Fly back to Sashila and enter the house on the coastline. Head upstairs and talk to the woman and pick up a hidden *Poke Doll*. Interact with the hook downstairs and place the Family Portrait that we got in the *Wall of Shame* quest. Enter the office in the back for another hidden *Poke Doll*. Downstairs is the *Darkinium Z*. You can log on to the computer to view some memos. If you do, you can grab the *Pikachutite*, *Eeveetite*, and *Meowthite* in here!
 
 Head back to Akuwa and head south onto Route 4. 
 
@@ -981,6 +1045,8 @@ Now that we've beaten Souta, all four of the dens have been updated with new Pok
 
 We're going to need to have 15000 Red Essence in our gather cube for a quest later on, so now is a great time to accumulate it.
 
+### Goldenleaf Area 12 Badge Quests
+
 Fly to Goldenleaf Town.
 
 !enc(82, ["Fishing"], ["Super"], "Goldenleaf Town / Forgotten Path")
@@ -989,13 +1055,17 @@ Enter Wispy Ruins through the statue. Head into the 4-way junction and go right,
 
 Head next to the Forgotten Path. Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of Griselda's Treasures, you can open another chest to get the *Vespiquen Crest*, and *TM61 Will-O-Wisp*.
 
+Now is also a good time to tackle the [Armarouge and Ceruledge battles](#spectral-knight-quest) if you haven't already.
+
 Next, go to the Wispy Path.
 
 !enc(95, ["Fishing"], ["Super"])
 
-Head to Wispy Tower exterior. Head around the back via Strength to get a *Reaper Cloth*! In the Wispy Chasm:
+Head to Wispy Tower exterior. Head around the back via Strength to get the *Skarmorite*! In the Wispy Chasm:
 
 !enc(508, ["Fishing"], ["Super"])
+
+### Sheridan Area 12 Badge Quests
 
 Fly over to Sheridan Village. Fishing encounters here and in the nearby Route 3 Area:
 
@@ -1011,7 +1081,7 @@ Head to the Amethyst Cave.
 
 !enc(4, ["Fishing"], ["Super"])
 
-Make your way to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam* and a hidden *Ability Capsule*. Exit onto Route 2.
+Make your way to the Amethyst Grotto. Using Strength, get *TM22 Solarbeam*, the *Fightinium Z*, and a hidden *Ability Capsule*. Exit onto Route 2.
 
 !enc(199, ["Fishing"], ["Super"])
 
@@ -1021,11 +1091,11 @@ Next, fly to Rose Theater and use the Time Splicer Stone.
 
 !enc(240, ["Fishing"], ["Super"])
 
-TODO: fix encounters for r4 : enc(106, nil, ["Old", "Good"]) : enc(106, ["Fishing"], ["Super"])
+[New Game+ Content](#chapter-13-ng-part-5)
 
-Head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
+If you haven't already, head to Sheridan Village in the past, then cut down the pink sapling in front of the village. Make your way back to the present. Head over to Route 2. Just to the left of the waterfall, you'll find a Rift in space-time. Head on in; why not!
 
-!enc(474, ["Grass", "Fishing", "Surfing"])
+!enc(474)
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
@@ -1033,7 +1103,7 @@ Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*.
 
 !img("zcell125.png")
 
-In the top right corner, you can get *TM11 Sunny Day*. Pick up the *Grass Memory* in the center and talk to Eizen.
+In the top right corner, you can get *TM11 Sunny Day*. *TM03 Psyshock* is towards the bottom. In the center of the map, pick up the *Grass Memory* and *Psychium Z*, then talk to Eizen.
 
 **Relationship Point Choices**:
 - Respond "Flabebe" (+1 Eizen)
@@ -1047,7 +1117,7 @@ Time to do some quests on Terajuma. Fly over to Kakori Village.
 
 !enc(298, ["Fishing"], ["Super"])
 
-Take the lift up to Mt. Terajuma. If you've picked up all three of the TMs for Hail, Sunny Day, and Rain Dance, show them to the guy in front of the Weather Institute to get the *Castform Crest* and *TM128 Weather Ball*. 
+Take the lift up to Mt. Terajuma. If you've picked up all three of the TMs for Snowscape, Sunny Day, and Rain Dance, show them to the guy in front of the Weather Institute to get the *Castform Crest* and *TM128 Weather Ball*. 
 
 Talk to a man above in the Weather Institute if you have started the *Flora's Puzzle Box* Quest. He wants a Pumpkin from Goldenleaf Town, so fly over there. The pumpkin is on the hill across the river to the left... uh oh.
 
@@ -1075,7 +1145,7 @@ Proceed until you reach the indoor lava section, then go all the way to the righ
 
 This fight is easy to win, but that's not our entire objective. Talk to the board behind to see what it is: getting Kecleon to match the "Fourth Force". The fourth force in question is Enamorus, so defeat it while its typing is Fairy/Flying. Open the chest to get **Togepi**!
 
-Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a Gourmet Treat.
+Back on the roof of the temple, sneak past the three cyclones at the top. You'll see **Grookey** that you can catch in exchange for a Gourmet Treat. Make your way to where we obtained Rowlet long ago, via using Magma Drift inside and going left, to find the *Decidium Z*!
 
 Make sure you have 15000 Red Essence and a Rift Fragment, then fly to Helojak Island.
 
@@ -1094,8 +1164,6 @@ Fly over to Kristiline Town next. The TM shop has updated wares:
 !shop("Kristiline TMs (12+ Badges)", [["RM01 Hone Claws", 75000], ["RM05 Sucker Punch", 50000], ["TM116 Mega Kick", 75000], ["TM125 Charm", 15000], ["TM155 Eerie Impulse", 15000]])
 
 Head to the Isle of Angels and enter the Tower of Theolia through the portal in the church. Enter the Tower Cellar and enter the crack in the wall to the left, follow the path out, and slide back into the central room. Slide your way to the room at the bottom. On the left you can push a boulder and smash a wall to get the one, the only. *TM13 Ice Beam*!!! Plus, 3 hidden *Exp. Candy XL*.
-
-One quest remains for now. Fly over to Jynnobi Pass. 
 
 !enc(299, ["Fishing"], ["Super"])
 
@@ -1117,9 +1185,11 @@ Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 
 
 !dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
 
-A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, and the *Electrode Crest*! There is also a hidden *Xen Waste* here!
+A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, the *Electrode Crest*, and *Blastoisinite G*! There is also a hidden *Xen Waste* here!
 
-We can also do some fishing on Terrial Island and in the Badlands with the Super Rod:
+On Valor Summit, you can use strength to access the next Gimmighoul and 100 more *Gimmighoul Coins*. A path above leads to the *Emboarite*!
+
+Just for completeness, Terrial Island and Badlands Super Rod encounters:
 
 !enc(350, ["Fishing"], ["Super"])
 
@@ -1180,3 +1250,7 @@ The Inverse Field is the simplest Field in this game, with only a few effects to
 Winning this fight will probably rely on a hazard to break the sash effects plus a sweeper. Fire and Normal moves are generally going to be your best bet here. Aerodactyl is fast but weak to moves like Quick Attack and Extremespeed, after all. 
 
 Win to get the Rugged Badge, which lets us use Dive and go up to Level 85. You'll also get *TM80 Rock Slide*.
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>

@@ -131,7 +131,7 @@ Back in Kristiline, fly to Teila Resort and talk to Ana in the middle. Gather in
 
 Back in Kristiline again, enter the house. That's all we can do in this quest for now!
 
-As this quest showed, we now have access to Grand Dream City once more. There are a few things we can take care of. First, enter Scholar District and enter the Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somniam Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium-Z* as well!
+As this quest showed, we now have access to Grand Dream City once more. There are a few things we can take care of. First, enter Scholar District and enter the Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somniam Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium Z* as well!
 
 Head west to the Festival Plaza. There is a new tutor on the left.
 
@@ -159,7 +159,7 @@ Continue pursuing Isha to the right. You can interact with **Sneasel (Hisuian)**
 
 Isha is in the cave in the middle of the water down in Syxtenbit Cave, but we will confront him a bit later on. Head to the bottom left corner, where you'll see a *Black Prism*.
 
-Nearby you'll see a ladder. Smash the rocks out of the way, push the boulder aside, and climb the ladder. Exit the cave, then immediately reenter the cave and climb back down the ladder. Push the boulder down a few times and it will fill a gap to the right, so you can get the *Groundium-Z*! Now head back up the ladder and exit for real.
+Nearby you'll see a ladder. Smash the rocks out of the way, push the boulder aside, and climb the ladder. Exit the cave, then immediately reenter the cave and climb back down the ladder. Push the boulder down a few times and it will fill a gap to the right, so you can get the *Groundium Z*! Now head back up the ladder and exit for real.
 
 We can surf in this outside area to reach new parts of the Atebit Kingdom. Surf to the right to reach the section we previously accessed via the library: a Larvitar can be caught at the top.
 
@@ -305,7 +305,7 @@ Sleep for the night in the leftmost room.
 
 ### Day 29: Graduation
 
-Finally, we get to obtain the *Mega-Z Ring*! This allows us to use Z-Moves as well as Mega Evolve our Pokemon!
+Finally, we get to obtain the *Omni Ring*! This allows us to use Z-Moves as well as Mega Evolve our Pokemon!
 
 **Relationship Point Choices**:
 - Thank you, everyone! (Melia +2, Ren +2, Aelita +3, Damien
@@ -890,9 +890,9 @@ This battle has been made much easier since the previous version, though you sti
 - She was lost. (Saki -1)
 - That wasn't Hazuki. (Saki -2)
 
-Head up and follow the path to obtain the *Interceptium-Z*!
+Head up and follow the path to obtain the *Interceptium Z*!
 
-The Interceptium-Z allows any Pokemon to use one of FOUR custom Z-moves.
+The Interceptium Z allows any Pokemon to use one of FOUR custom Z-moves.
 
 !move("UNLEASHEDPOWER")
 
@@ -1142,7 +1142,7 @@ That wraps up this quest!
 
 Next, fly to Kristiline and make your way through the Church of Theolia portal to reach the Tower Cellar. Make your way through the wall in order to reach the room that is directly on the right of the entrance - you need to exit the wall, go right, then go right and up in the next room to accomplish this. Use the Darchlight Crystal to create a bridge, then walk into the rift in the next room.
 
-To the right in the Crystal Fairytale area, you'll find the *Icium-Z*! Talk to Anju above, then her mother. Talk to Anju again, then find her at the top right for a third conversation. Pick up her Lillipup in the bottom left corner and return to Anju. Finally, head up for a battle.
+To the right in the Crystal Fairytale area, you'll find the *Icium Z*! Talk to Anju above, then her mother. Talk to Anju again, then find her at the top right for a third conversation. Pick up her Lillipup in the bottom left corner and return to Anju. Finally, head up for a battle.
 
 !battle(["Anju",:ICEHEIRESS,0], "Fairy Tale Arena")
 
