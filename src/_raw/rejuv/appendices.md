@@ -296,11 +296,11 @@ This is a rather challenging boss, though I'll note that Ren actually fares very
 
 Puppet Coin Not Found. Correcting Timeline.
 
-Before returning to the past, there's more. If you've done all the Shayda events to this point, meet her on the Seaforge Edge on Route 5 for a battle.
+Before returning to the past, there's more. You don't have to do this now if you don't want to, we have a few badges worth of content we can finish before this quest cuts us off. If you've done all the Shayda events to this point, meet her on the Seaforge Edge on Route 5 for a battle.
 
 !dbattle(["Eizen", :EIZEN, 3], ["Eizen", :EIZEN, 4])
 
-This battle is obviously insane. I was only able to use it with the generous help of 3-turn sleep, and even then it is down to the wire. The good news is that the fields let you get some pretty incredible damage with Dark and Fairy type moves, which are good against the bosses. Of course, with Rejuvenation's incredibly punishing shield mechanics, turn-by-turn precisely executed strategy with probably a lot of luck is going to be needed here. But maybe you can pull through if you've done all the other NG+ fights so far?
+This battle is obviously insane. I was only able to use it with the generous help of 3-turn sleep, and even then it is down to the wire. The good news is that the fields let you get some pretty incredible damage with Dark and Fairy type moves, which are good against the bosses. Of course, with Rejuvenation's incredibly punishing shield mechanics, turn-by-turn precisely executed strategy with probably a lot of luck is going to be needed here. But maybe you can pull through if you've done all the other NG+ fights so far, or, like I said, you can wait.
 
 Winning awards you the tenth, eleventh, and twelfth *Umbral Shards*. Eizen will then have the gall to ask you for one, though you can and should decline.
 

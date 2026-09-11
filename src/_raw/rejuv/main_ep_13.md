@@ -833,7 +833,13 @@ Near the area where there was previously an alleyway, you can enter a building t
 
 !enc(685)
 
-There is a hidden *Green Shard*, *Blue Shard*, *Red Shard*, *Gourmet Treat*, *Light Ball* in this area. Accept Volta's *High Rise Run-in!* quest to battle the six trainers all around the High Rise. Each fights you on a different field!
+There is a hidden *Green Shard*, *Blue Shard*, *Red Shard*, *Gourmet Treat*, *Light Ball* in this area. Talk to Volta.
+
+**Relationship Point Choices**:
+- No, actually... (+2 Volta)
+- Of course!? (Neutral)
+
+Accept Volta's *High Rise Run-in!* quest to battle the six trainers all around the High Rise. Each fights you on a different field!
 
 !battle(["Art", :CUEBALL, 0], "City Field")
 
@@ -855,7 +861,10 @@ Return to Volta for another battle.
 
 !battle(["Henrietta and Jeff", :NEWREP, 1], "City Field")
 
-Win to get the *Meganiumnite*, finishing the quest!
+Win to get the *Meganiumite*, finishing the quest!
+
+**Relationship Point Choices**:
+- Finish the Neo High Rise Quest (+3 Volta)
 
 Head down to Oceana Pier to find a hidden *X Accuracy* and *Sweet Heart*.
 
@@ -996,8 +1005,6 @@ Talk to the guy at the bottom of Oceana Pier to head out to the Wreckage Site.
 
 We can talk to Adrienn to progress the quest a bit, but without the next gym badge, we can't progress the quest any more for now.
 
-## Floria Island 12 Badge Quests
-
 That's all we can do in Gearen for now. There are many more places across Floria Island we can explore for more goodies!
 
 ### Akuwa Area 12 Badge Quests
@@ -1111,7 +1118,7 @@ In the top right corner, you can get *TM11 Sunny Day*. *TM03 Psyshock* is toward
 
 That's all we can do here for now, so return to normal Route 2.
 
-## Terajuma Island 12 Badge Quests
+### Terajuma Island 12 Badge Quests
 
 Time to do some quests on Terajuma. Fly over to Kakori Village.
 
