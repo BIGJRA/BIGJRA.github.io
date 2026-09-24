@@ -314,6 +314,12 @@ Make your way next to the area where we previously battled Umbral Gardevoir, and
 
 [Jump Back](#sheridan-area-12-badge-quests)
 
+### Chapter 14 NG+ Part 1
+
+If you have been progressing through the Zetta's questions branch in the "New Game" chess area so far, you will be able to battle and catch **Delpha the Delphox** here!
+
+[Jump Back](#nastasias-airship)
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:

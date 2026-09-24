@@ -63,11 +63,7 @@ Take the time to breed Aevian Jangmo'o and take the spare to a house in Zorrialy
 
 ## Narcissa's Hauntings Conclusion
 
-If you've progressed Narcissa's Hauntings so far, you can now continue this quest.
-
-Fly to the Rose Theater, and enter Forlorned Cavern on Route 9. Enter the first room in the main area of the cave, with the Timesplicer Stone. After a scene with Narcissa, accept the fast travel to the Cliffside Grave if you've been already -- if not, [you'll need to explore Amethyst Cave](#amethyst-depths). Talk to her again, then accept fast travel to Phasial Cave.
-
-Head up and watch the scenes play out. Then, in Narcissa's house, talk to her upstairs. Head out and go to the Wispy Tower. Talk to young Narcy here and go in. Enter the lab, and head left. Talk to her again. Enter the western room, and surf up. Watch the CD Rom, then return to Narcissa's house and talk to them again. Accept fast travel.
+Fly to Goldenleaf Town to continue the Narcissa's Hauntings quest. Talk to Narcissa in her house and accept the fast travel.
 
 Follow the Rotom into the cave, then take the time crystal to the past. Interact with the safe here. Then, pull the lever in the top left corner, hiding in boxes. Go down the ladder and out. You can find hidden *Revival Herb*, *Full Heal*, *Health Feather*, and *Blue Shard* throughout the building. Unlock the gate, and head in.
 
@@ -131,21 +127,9 @@ Back in Kristiline, fly to Teila Resort and talk to Ana in the middle. Gather in
 
 Back in Kristiline again, enter the house. That's all we can do in this quest for now!
 
-As this quest showed, we now have access to Grand Dream City once more. There are a few things we can take care of. First, enter Scholar District and enter the Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somniam Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium Z* as well!
-
-Head west to the Festival Plaza. There is a new tutor on the left.
-
-!cshop(:FestivalBlackHair, "Festival Plaza Move Tutor L")
-
-We've now collected eight of the ten stamps for the mall, so we can buy a whole bunch of new stuff.
-
-!shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Link Heart", "Ability Capsule"])
-
-!shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry"])
+We've now collected eight of the ten stamps for the mall, so we can buy new stuff!
 
 !shop("Somniam Mall TMs & HMs", [["TM150 Grassy Terrain", 10000], ["TM151 Electric Terrain", 10000], ["TM152 Misty Terrain", 10000], ["TM153 Psychic Terrain", 10000], ["TM34 Sludge Wave", 30000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000]])
-
-!shop("Somniam Mall Evolution Items", ["Protector", "Magmarizer", "Dragon Scale", "Electirizer", "DeepSeaTooth", "DeepSeaScale", "Up-Grade", "Dubious Disc", "Prism Scale", "Sachet", "Whipped Dream", "Razor Claw", "Oval Stone", "Razor Fang", "Reaper Cloth"])
 
 ## Atebit Doctor Quest
 
@@ -168,7 +152,7 @@ Surf down and left. West of "The Lighthouse" you'll be able to land on a blue do
 If we had answered all of Eizen's Rivers' End questions correctly, he will offer us a game here, to relive the fight between Allen and Bladestar. Similarly to the fight with Amanda, we simply need to choose the attack that corresponds with whatever prompt our enemy says. After winning, you'll get the **??? Memory**.
 
 **Relationship Point Choices**:
-- If Eizen is in Trunkleaf City, win his game (+5 Alice, +5 Allen)
+- If Eizen is in Trunkleaf City (answer his questions correctly, earlier), win his game (+5 Alice, +5 Allen)
 
 **ZCell 138: Atebit Kingdom**
 
@@ -189,7 +173,7 @@ After defeating him, you'll be ejected from this area and returned to GDC.
 While we're in GDC, one new thing to obtain is available: if Florin is still alive (by not taking the Berserk Florin route), head to the Treasure Treehouse. You'll find Talon here, who will task you with checking out a new area of Tyluric Temple. We have already explored this area: you can breed the Togepi (well, once you evolve it to **Togetic**) for a trade. Talon will next propose a trade, but talk to him a second time carefully, thanks to the maybe-maybe-not-intentional way this is coded:
 
 **Relationship Point Choices**:
-- Agree to Talon's Togepi trade *the first time he asks* (+2 Talon)
+- Agree to Talon's Togepi trade (+2 Talon)
 
 Anyways, he'll give you **Bagon**, holding the *Butterfreenite*!
 
