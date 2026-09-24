@@ -497,7 +497,7 @@ Head on over to the Somniam Mall, where we can buy a bit more with six stamps.
 
 !shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry", "Custap Berry"])
 
-!shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", ("Ability Capsule", 3000)])
+!shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", ["Ability Capsule", 3000]])
 
 !shop("Somniam Mall Evolution Items", ["Protector", "Magmarizer", "Dragon Scale", "Link Heart", "Electirizer", "Deep Sea Tooth", "Deep Sea Scale", "Up-Grade", "Dubious Disc", "Prism Scale", "Sachet", "Whipped Dream", "Razor Claw", "Oval Stone", "Razor Fang", "Reaper Cloth"])
 
