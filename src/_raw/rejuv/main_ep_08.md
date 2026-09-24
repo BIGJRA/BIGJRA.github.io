@@ -74,7 +74,7 @@ Go up, grab a hidden *Iapapa Berry*, then proceed to the Isle of Angels.
 
 At night, you can catch the "legendary" **Phione** here by giving it a *Gourmet Treat*.
 
-Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deepseatooth* or *Deepseascale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
+Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deep Sea Tooth* or *Deep Sea Scale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
 
 Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Snowscape* is to the left.
 

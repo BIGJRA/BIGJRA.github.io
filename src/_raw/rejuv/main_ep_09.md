@@ -357,7 +357,7 @@ Head over to East Gearen City from here. A store has new wares:
 
 !cshop(:BerryEmporium, "Berry Emporium (8 Badges)", 8)
 
-This means we can now easily complete the trades on the Isle of Angels for Deepseatooth and Deepseascale.
+This means we can now easily complete the trades on the Isle of Angels for Deep Sea Tooth and Deep Sea Scale.
 
 Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candy M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
 

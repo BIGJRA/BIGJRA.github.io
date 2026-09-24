@@ -2,16 +2,9 @@
 
 You'll find yourself in New Game with Zetta again. Start the game, then talk to the characters. Talk next to the black piece below.
 
-If you have been progressing New Game+ so far, you will battle a Pokemon here:
+[New Game+ Content](#chapter-14-ng-part-1)
 
-<div class="spoilerDiv">
-  <div class="spoilerText" style="display:none">
-    You can obtain <strong>Delpha</strong> the <strong>Delphox</strong>!
-  </div>
-  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click to reveal the final New Game+ reward!</a>
-</div>
-
-## Nastasia's Ship
+## Nastasia's Airship
 
 Talk to the group in the meeting room of Nastasia's ship.
 
@@ -49,7 +42,7 @@ Aelita's team makes this one a breeze. I recommend starting with Cherrim and Sta
 
 Afterwards, you'll get the *Cherrim Crest*. Tell Aelita you want to rest for a while once you're ready. Head outside the airship when you wake up!
 
-## Zone Zero South
+## Zone Zero
 
 !enc(573)
 
@@ -134,9 +127,9 @@ Grab a hidden *Red Shard* and enter Nymiera's old house. Go to the basement to c
 
 !battle(["Lorna",:ROGPSYCHIC,0], "Psychic Terrain")
 
-Lorna is often able to get off her 8-Turn Trick Room in this fight, allowing her slow Pokemon to outspeed. Psychic Terrain also nullifies priority moves, so you can't simply use those. You'll need to make a plan for Trick Room somehow: Taunt, Fake Out, simply one-shotting Aromatisse are all options that can assist with it. You can also use a super slow team of your own to take advantage. I recommend knocking out Aromatisse and stalling: once the screens and the trick room go away, you'll have a much easier time taking out the rest of her team.
+Lorna is often able to get off her 8-Turn Trick Room in this fight, allowing her slow Pokemon to outspeed. Psychic Terrain also nullifies priority moves, so you can't simply use those. You'll need to make a plan for Trick Room somehow - you can cancel it out, knock out Aromatisse, wait it out with careful usage of Protect, or possibly lean into the Trick Room with very slow mons. I recommend knocking out Aromatisse and stalling: once the screens and the trick room go away, you'll have a much easier time taking out the rest of her team. A move like Dual Wingbeat for Vivillon and a move like Gunk Shot for Aromatisse can be the perfect turn 1 you need to sweep the fight.
 
-## Zone Zero North
+### Zone Zero North
 
 Head up and to the right down a little path. Defeat Mandibuzz, and pick up a hidden *Yellow Shard*. Then follow the path around to the top left of the area, pick up a hidden *Red Shard*, then talk to Ren then the cracked rock.
 
@@ -173,7 +166,7 @@ Also grab the *Fire Stone* above. Go down the stairs to the right. Pick up *Code
 
 !boss("RIFTHIPPOWDON", "Desert Field")
 
-Ren is actually incredible here, probably better than the average team that you have at this point. For this reason moves that delay Hippowdon or attract attention onto your Pokemon are going to be helpful - the longer you can keep Ren's Flygon around, the better. 
+Ren is actually solid here, probably better than the average team that you have at this point. For this reason moves that delay Hippowdon or attract attention onto your Pokemon are going to be helpful - the longer you can keep Ren's Flygon around, the better. Curse is a great choice for this fight as well. 
 
 You can literally loot a knocked out Bladestar grunt for an *Ability Capsule*! Head up and out. Take a peep at Team Xen HQ on Reldin Island, then head right and up to the next map. 
 
@@ -220,7 +213,7 @@ Enter the green GameBoy.
 **Relationship Point Choices**:
 - Defeat these mechs (+1 Allen)
 
-Exit the GameBoy and proceed to enter the next GameBoy in the pyramid. Climb the castle.
+Exit the GameBoy and proceed to enter the next GameBoy in the pyramid. There's actually a 1% chance you'll obtain Surfing Pikachu here after this link cable! Anyways, climb the castle.
 
 !battle(["ALLEN",:JOHTO_1,1], "Glitch Field")
 
@@ -254,9 +247,9 @@ Emerge at the Eclysia Skyview.
 
 ## Backtracking: Dive
 
-### Do the Dive on Floria Island
-
 So, I have a confession. Chapter 14 is incredibly awkward to route for a walkthrough, because we want to explore everything and progress sidequests as much as possible before getting each badge... but in this case, it's weird. See, we need the Enigmatic Key we got in the Pyramid to get some things, so we have to progress at least to that point before we can tackle the side areas. At the same time though, the main story has a ton of momentum going towards the events at the top of the Eclysia Pyramid. In this case, the game literally just told us we have like 18 minutes to go until our friends in the pods will die. We are going to just roll with the absurdity and do a few hours of sidequests now, though you can come back to them after the Pyramid events are concluded if you wish. You can use the purple teleporter on the right to exit the pyramid (and reenter the Skyview later).
+
+### Do the Dive on Floria Island
 
 Fly to the Evergreen Island first, and surf down onto Route 11. First thing we are going to do is go all the way up and right in the route, to the large mostly circular dive spot. Dive down to reach the *Evergreen Trench*. 
 
@@ -302,7 +295,7 @@ There is some *Luminous Moss* at the top of the entry room. Plant Device 1 here,
 
 Surface, and Adrienn will give you the *Alcremite*! Use the key we found earlier to enter the warehouse on the left. Inside is the *Lycanium Z*!
 
-Return to the Help Center in East Gearen to get $15000 (+1 Karma).
+Return to the Help Center in East Gearen to get $15000 plus *3 Green Shards* (+1 Karma).
 
 ### Continuing Reborn Again
 
@@ -315,6 +308,14 @@ Follow Aya to Venam's gym.
 Aya's team is built for the Corrupted Field this time around, different from both Venam and Aya in Reborn. Field Hazard damage runs rampant here - watch out for Tentacruel's Seed + Speed strategy and the hard hitting bulky mons she has hiding in the back.
 
 Beating Aya is all we can do in this quest for now!
+
+### Narcissa's Hauntings 2
+
+If you've progressed Narcissa's Hauntings so far, you can now continue this quest.
+
+Fly to the Rose Theater, and enter Forlorned Cavern on Route 9. Enter the first room in the main area of the cave, with the Timesplicer Stone. After a scene with Narcissa, accept the fast travel to the Cliffside Grave if you've been already -- if not, [you'll need to explore Amethyst Cave](#amethyst-depths). Talk to her again, then accept fast travel to Phasial Cave.
+
+Head up and watch the scenes play out. Then, in Narcissa's house, talk to her upstairs. Head out and go to the Wispy Tower. Talk to young Narcy here and go in. Enter the lab, and head left. Talk to her again. Enter the western room, and surf up. Pick up the *New World Field Readout* and the *Gengarite G*. Watch the CD Rom, then return to Narcissa's house. Narcissa respects our 18 minute timer to save our friends at the pyramid, however, so we can't proceed on this quest for now.
 
 ### Aquarium Quest 2
 
@@ -331,10 +332,10 @@ We can now finally finish the Aquarium Collection Sidequest. The last ten Pokemo
 - Relicanth: Terajuma Coral Reef Static
 - Cloyster: Goldenwood Park Fishing
 - Walrein: Route 11 Fishing
-- **Huntail**: Evolve one Clamperl (DeepSeaTooth + Link Heart)
-- **Gorebyss**: Evolve one Clamperl (DeepSeaScale + Link Heart)
+- **Huntail**: Evolve one Clamperl (Deep Sea Tooth + Link Heart)
+- **Gorebyss**: Evolve one Clamperl (Deep Sea Scale + Link Heart)
 
-For submitting all 34, you'll get $80000 as well as **Froakie** (+3 Karma)!
+For submitting all 34, you'll get $80000, an *Assault Vest* as well as **Froakie** (+3 Karma)! A *Cell Imprint* will also appear nearby.
 
 ### Do the Dive on Terajuma Island
 
@@ -355,22 +356,21 @@ Make your way back to the top left side of this underwater maze, then hug the le
 
 In this area, grab the *Water Memory*, then use the Enigmatic Key on the pillar. Go down the ledge... though I don't know how a ledge works underwater, but whatever. Pick up the hidden *Ultra Potion* and *Stardust* as you go right. Surface at the bottom right to emerge onto Route 5, then go up to dive down at a new spot. You can find hidden *Pearl*, *Star Piece*, *Black Prism*, and a *Protein* here. Enter the Archives on the right side.
 
-Read the lore on the green-tinted bookshelves, then grab the *Zangoose Crest* and the *Ariados Crest*.
+Read the lore on the green-tinted bookshelves, then grab the *Zangoose Crest* and the *Machampite*!
 
 Back in the reef, if you head up, you can talk to Challenger Neptune for a tough battle!
 
 !battle(["Neptune",:CHALLENGER,0], "Underwater Field")
 
-Our first trainer battle on Underwater Field, and she does not mess around!
-This one is tough at first as she uses the Underwater Field well. In general, your non-water types will have their speed quartered on this field, which is obviously not good since so many of her Pokemon can hit really hard with field boosted moves. Whiscash is dangerous here, as it has no weaknesses (except Water itself, on the Underwater Field) and surely can set up on you if you can't take it out in time. Luckily, if either Samurott or Whiscash uses Dive, the field will be returned to water surface, at least allowing you to not suffer so much speed loss. Her Raichu is devastating, as Surf and Discharge are both boosted by the field here, and it's given double speed by Surge Surfer. Dhelmise is good on this field as well.
+Our first trainer battle on Underwater Field, and she does not mess around! In general, your non-water types will have their speed quartered on this field, which is not good since so many of her Pokemon can hit really hard with field boosted moves. Heliolisk is a strong lead, Dhelmise and Cradily are extra tanky and powerful here, and Samurott and Mega Blastoise hit ridiculously hard. Whiscash is dangerous here, as it has no weaknesses (except Water itself, on the Underwater Field) and can set up on you if you can't take it out in time. 
 
-One great idea is to use your own water types as soon as Raichu and Dhelmise go down, as they suffer no speed loss and can take advantage of the field to hit Whiscash super-effectively and fight back against Samurott and Blastoise. Alternatively this is one of the field effects that is fairly easily changed: the Water Surface field or better yet the Icy Field or Murkwater Field can help tip the scales.
+One great idea is to use your own water types as soon as Heliolisk goes down, as they suffer no speed loss and can take advantage of the field to hit Whiscash super-effectively and fight back against Samurott and Blastoise. Alternatively this is one of the field effects that is fairly easily changed: the Water Surface field or better yet the Icy Field or Murkwater Field can help tip the scales.
 
 Win against Neptune to get the fourth *Star Shard*, **Popplio**, and a *Somniam Mall Stamp*.
 
 While we're in this area, surface at the top to enter Aquamarine Cave's Secluded Shore. Use Blast Powder to reach **Squirtle** on the left.
 
-Next, fly to Valor Mountain. Use the blue crystal and make your way to the Chamber of Awakening at the bottom. Dive down where we may or may not have fought Kyogre, then follow the path to the left and grab ZCrystal *Waterium Z*. Take JUST ONE set of currents to the left, then go up and to the right. Activate this fifth panel, prepare for battle, and head up through the now-opened door.
+Next, fly to Valor Mountain. Use the blue crystal and make your way to the Chamber of Awakening at the bottom. Dive down where we may or may not have fought Kyogre, then follow the path to the left and grab the *Waterium Z*. Take JUST ONE set of currents to the left, then go up and to the right. Activate this fifth panel, prepare for battle, and head up through the now-opened door.
 
 !battle(["Kingdra",:POKEGANG8,0], "Underwater Field")
 
@@ -380,7 +380,7 @@ Once you've won, head up to catch a Horsea. A weird prize considering we got Hor
 
 ### Do the Dive on Terrial Island
 
-We can take care of some more quests and exploration on Terrial Island next. Head to where we fought Souta behind the Rose Theater to get the *Pidgeotite*!
+We can take care of some more quests and exploration on Terrial Island next.
 
 ### Kingdom of Goomidra
 
@@ -388,11 +388,11 @@ There's another major side quest we can do: *The Hero of Slime*. Enter Honec Woo
 
 !enc(599)
 
-Emerge at the top into the Kingdom of Goomidra. Hidden around town is *2 Red Shards* and a *Tiny Mushroom*. Speaking of mushrooms: there is a tutor Goomy that accepts them:
+Emerge at the top to grab the *Slowbronite*, then proceed into the Kingdom of Goomidra. Hidden around town is *2 Red Shards* and a *Tiny Mushroom*. Speaking of mushrooms: there is a tutor Goomy that accepts them:
 
 !cshop(:GOOMATORA, "Goomidra Village Move Tutor")
 
-We don't have enough Big Mushrooms outright to learn all these moves, so you'll need to grind wild Paras/Foongus/Shroomish/Morelull for them.
+If you finished Beth's quest earlier, you can get the Mushrooms you need from her at Yui's Ranch to buy up these moves. 
 
 In the top right area of the town, grab *3 Pecha Berries*, *2 Lum Berries*, *3 Starf Berries*, *2 Enigma Berries*, and *2 Aspear Berries*.
 
@@ -464,18 +464,18 @@ Head down the hallway to the right, into the ruins room.
 
 !boss("BIGBETTY", "Flower Garden Field")
 
-King's Shield and Aqua Cutter will go a long way here.
+King's Shield and Aqua Cutter will go a long way here. It sometimes takes a few tries thanks to the AI.
 
 !newself(["Goomink",:HERO,5])
 
 !boss("BIGBETTYTWO", "Flower Garden Field")
 
-Yet again King's Shield and Aqua Cutter slay
+Yet again King's Shield and Aqua Cutter slay!
 
 **Relationship Point Choices**:
 - Finish the Hero of Slime quest (+6 Ben, +6 Goomink, +5 Karma)
 
-After these events, re-enter the ruins room. While here, grab *TM08 Bulk Up* and hidden *BalmMushroom*.
+After these events, re-enter the ruins room. While here, grab *TM08 Bulk Up*, the *Feraligite*, and hidden *BalmMushroom*.
 
 !enc(602)
 
@@ -483,11 +483,25 @@ You can also exit the castle out of the southwest entrance to find some grass, w
 
 !enc(600)
 
-In the house with the tutor, we can now buy some crests:
+In the house with the tutor, we can now buy a whole bunch of Crystals:
 
-!shop("Goomidra Crest Shop", [["Bastiodon Crest", 100000], ["Dedenne Crest", 100000], ["Rampardos Crest", 100000], ["Whiscash Crest", 100000]])
+!shop("Goomidra Crest Shop", [["Bastiodon Crest", 100000], ["Rampardos Crest", 100000], ["Fairium Z", 100000], ["Dragalgite", 100000], ["Drampanite", 100000], ["Dragonium Z", 100000], ["Steelium Z", 100000]])
 
-## Castle Zygara
+While we're on Terrial, the police won't let us enter, but we can use Fly to sneak into Grand Dream City. How we get past the dome, I'm not sure. There is a new Move Tutor in the Festival Plaza area!
+
+!cshop(:FestivalBlackHair, "Festival Plaza Top Move Tutor")
+
+Next, enter the Scholar District's Fan Club. For beating Adam we should now have enough reputation that when we walk in, we will get a *Somniam Mall Stamp* as well as the *Aerodactylite*! Talk to a girl to get the *Poisonium Z* as well!
+
+Head on over to the Somniam Mall, where we can buy a bit more with six stamps.
+
+!shop("Somniam Mall Rare Berries", ["Petaya Berry", "Liechi Berry", "Apicot Berry", "Lansat Berry", "Starf Berry", "Ganlon Berry", "Salac Berry", "Custap Berry"])
+
+!shop("Somniam Mall Miscellaneous", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", ("Ability Capsule", 3000)])
+
+!shop("Somniam Mall Evolution Items", ["Protector", "Magmarizer", "Dragon Scale", "Link Heart", "Electirizer", "Deep Sea Tooth", "Deep Sea Scale", "Up-Grade", "Dubious Disc", "Prism Scale", "Sachet", "Whipped Dream", "Razor Claw", "Oval Stone", "Razor Fang", "Reaper Cloth"])
+
+### Castle Zygara
 
 Our next quest takes place on the Badlands. Fly to Alamissa Urben and go straight up. Take the unconscious Karen back to the village, then agree to go to the labyrinth again. 
 
@@ -527,7 +541,7 @@ Now we can progress on the third level:
 (15) *Dread Plate*
 (16) *Water Stone*
 
-It is worth noting that we exploit the very weird way this area is coded internally: simply entering the room (9) containing the Kinglerite causes the step counter to completely reset. This allows us to get all the above items in one pass. Once you get all the items, enter and exit this room (9) once more before we solve the puzzle to proceed.
+A former version had a bug in which entering the room (9) containing the Kinglerite causes the step counter to completely reset, but this has been fixed. As a result, you'll likely need two item passes to get them all, then one more to progress.
 
 **B4F Trip 2: Progress**:
 
@@ -564,15 +578,17 @@ Head up the stairs to the left.
 **Relationship Point Choices**:
 - Find the purple bookcase secret while Karen is following you (+2 Karen)
 
-Follow the secret path through said bookshelf to find an *Eviolite* and the *Claydol Crest*. Backtrack and exit to the second floor. To the right is a grunt.
+Follow the secret path through said bookshelf to find an *Eviolite*, *Falinksite*, and the *Claydol Crest*! Backtrack and exit to the second floor. To the right is a grunt.
 
 !battle(["Peridot",:TEAMAA_F,1], "Blessed Field")
 
-Enter the door on the right to get the *Darmanitan Crest*. Go down the stairs to the left. Follow this path to a door to grab the *Spiritomb Crest*.  Further along this path, step on the blue tile. Make your way back to the first floor toward the entrance, and exit out the rightmost door. 
+Enter the door on the right to get the *Darmanitan Crest*. Go down the stairs to the left. Follow this path to a door to grab the *Spiritomb Crest*. Further along this path, step on the blue tile. Make your way back to the first floor toward the entrance, and exit out the rightmost door. 
 
 !battle(["Malachite",:TEAMAA_M,1], "Blessed Field")
 
-Step on the green tile and step on the teleporter. Make your way back to 2F. Cross the bridge near the AA grunt. Take the stairs at the left to reach the *Torterra Crest*. Back downstairs, go straight up and follow this path all the way through until the top of the castle. After a scene, start heading down the castle. After two sets of stairs, you'll notice a cave has opened at the top, so head in to catch **Larvesta**!
+Step on the green tile and step on the teleporter. Make your way back to 2F. Cross the bridge near the AA grunt. Take the stairs at the left to reach the *Torterra Crest*. Back downstairs, go straight up and follow this path all the way through until the top of the castle. After a scene, fight our next Gimmighoul and get *100 Gimmighoul Coins*! 
+
+Start heading down the stairs. After two sets, you'll notice a cave has opened at the top, so head in to catch **Larvesta**!
 
 Climb the stairs to the left as soon as you can.
 
@@ -620,11 +636,13 @@ Let's look at some strategies. Sun is a very good choice for this fight: it last
 
 After the battle, head down to talk to the group. Make sure you heal up and save, because there's more... Head back up.
 
+*Treat the following trainer boxes as spoilers*: try to figure out what's going on in this fight!
+
 !partner(["Aelita",:STUDENT_3,1])
 
 !dbattle(["???",:UNKNOWN_1,2], ["???",:UNKNOWN_2,0], "Desert Field")
 
-There is a catch with this one, see if you can spot it.
+After this:
 
 !newself(["Adam",:LEADER_ADAM,1])
 
@@ -639,3 +657,7 @@ You'll wake up back in the Dream Complex. Talk to Melia on the couch to complete
 **Relationship Point Choices**:
 - Full-time? (Reina +1)
 - Part-time? (Neutral)
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>

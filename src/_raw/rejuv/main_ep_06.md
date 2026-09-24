@@ -8,6 +8,10 @@ How did Geara level up/evolve his Pokemon in the altered dimension and get a Kro
 
 Once the scenes are over, you'll be taken to the Ranger HQ. Go up here and watch the transmission! Afterwards, we finally get *HM03 Surf*! Nice.
 
+During the daytime on the beach, there is a new move tutor in the top left:
+
+!cshop(:KakoriBeach, "Kakori Beach Tutor")
+
 We're first going to go to Jynnobi Pass for reasons that will become clear in a bit. Head up to the Mynori Sea and go surfing. For now, simply make a beeline to the upper right side of the water and go right to proceed to Jynnobi Pass.
 
 Talk to the Noctowl Statue to activate it. Head into the Pokemon Center to get the *Good Rod*! This is very important... because now I can list areas that have Surfing and Good Rod encounters at the same time! Muahaha! That means:
@@ -324,7 +328,7 @@ Grab the *TM57 Charge Beam* and the *Center Keys* here, as well as a *Data Drive
 **Relationship Point Choices**:
 - Finish all Kakori Help Quests (+4 Alexandra)
 
-She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Magikarp (Aevian)**, **Budew (Aevian)**, **Wimpod (Aevian)**, **Shroomish (Aevian)**, **Larvesta (Aevian)**, **Bronzor (Aevian)**, **Feebas (Aevian)**, or **Sigilyph (Aevian)**.
+She'll also give you the Aevian Mystery Egg... a randomly determined mystery egg that will hatch into one of the game's new Aevian Forms! Specifically, it can be **Magikarp (Aevian)**, **Budew (Aevian)**, **Wimpod (Aevian)**, **Shroomish (Aevian)**, **Larvesta (Aevian)**, **Bronzor (Aevian)**, **Feebas (Aevian)**, **Sigilyph (Aevian)**, or **Jangmo'o (Aevian)**.
 
 That's it for the help quests.
 
@@ -648,11 +652,11 @@ Enter again and take the ladder down. We can't yet do the strength puzzle portio
 
 !dbattle(["Samuel",:TECH,0], ["Ned",:BLACKBELT,0], "Icy Field")
 
-Beat the trainers then grab the *X Special*. Hidden is a *Zinc*, *Rare Candy*, and *Full Heal*. Hop into the hole all the way at the bottom. Grab the *DeepSeaScale* then head through the hole. We can't do anything in this area yet, but we will come back. Head back up the ladder.
+Beat the trainers then grab the *X Special*. Hidden is a *Zinc*, *Rare Candy*, and *Full Heal*. Hop into the hole all the way at the bottom. Grab the *Deep Sea Scale* then head through the hole. We can't do anything in this area yet, but we will come back. Head back up the ladder.
 
 !battle(["Clare",:COOLTRAINER_F,0], "Icy Field")
 
-Climb up the ladder, then jump down the leftmost hole to get *DeepSeaTooth*. In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
+Climb up the ladder, then jump down the leftmost hole to get *Deep Sea Tooth*. In this path you'll find the Icy Rock. That's all we can do for now without strength, so head back out of the cave.
 
 Finally, enter the Evergreen Forest.
 

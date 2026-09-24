@@ -41,10 +41,6 @@ Down the left hallway:
 
 !battle(["Artemis", :COOLTRAINER_M, 0], "Concert Venue")
 
-Enter the student rec. center. In the left room you'll find another game corner! Three of the vendors are exactly the same as in Chrisola, but we can get a few new Pokemon. These are pretty expensive.
-
-!shop("GDC Arcade", [["Rookidee", "3000 Coins", true], ["Mienfoo", "4000 Coins", true], ["Durant", "7500 Coins", true], ["Axew", "9000 Coins", true]])
-
 Enter the Blakeory Museum in the top left side of the District, and pay admission. Someone to the right will give you a random shard: *Blue Shard*, *Red Shard*, or *Green Shard*. To the left is an in-game trade: your Masquerain for **Smeargle**!
 
 At the top, talk to the museum director to finally continue the *Wall of Shame* quest. Make the long journey back to Arturo in the southwestern house of the Judicial District. Back in the museum, head up to learn the painting has been stolen! Outside, you'll see the thief run off. Chase him to The Underground: he's in the shop building to the right of the diner.
@@ -363,7 +359,7 @@ Next, we're going to do some treasure hunting. Towards the bottom of Zorrialyn C
 (6) *Magcargo Crest*
 (7) *Relic Copper*
 (8) *Seviper Crest*
-(9) *Dread Plate*
+(9) *Draco Plate*
 (10) *Desert Field Readout*
 
 **B1F Trip 2: Items**
@@ -433,7 +429,9 @@ This is all we can do for now in the labyrinth!
 
 ### Zorrialyn Coast
 
-Hug the coastline and go south onto a new map of the Zorrialyn Coast. There is a hidden *Thick Club*, *Berry Juice*, *Soft Sand*, *Heart Scale*, *Red Shard*, and *Blue Shard* on this map. Attempt to use the House Key in the door of the building, and it will snap in half. We'll continue that quest a bit later on. We can use the Darchlight Mirror to get the *Lopunnite*! Oh, and there's one more Gimmighoul on the east side, so we can get another *100 Gimmighoul Coins*!
+Hug the coastline and go south onto a new map of the Zorrialyn Coast. There is a hidden *Thick Club*, *Berry Juice*, *Soft Sand*, *Heart Scale*, *Red Shard*, and *Blue Shard* on this map. There's one more Gimmighoul on the east side, so we can get another *100 Gimmighoul Coins*! Attempt to use the House Key in the door of the building, and it will snap in half. We'll continue that quest a bit later on. We can use the Darchlight Mirror to get the *Lopunnite*! 
+
+One quick mention: If you got lucky with Jangmo'o (Aevian) in the Kakori Help Quest egg earlier, you can take a spare to a house in Zorrialyn Desert East to do an earlier trade for **Jangmo'o** (the Alolan kind)!
 
 ### Hospital of Ruin
 
@@ -774,7 +772,7 @@ A few more quick things to get on Terrial Island: head over to Oblitus Town via 
 
 Now that we can fly back to Floria and Terajuma, there are tons of things we can do now with 12 Badges and HM Strength.
 
-Our first destination is the Akuwa Town Aquarium. Back in the SOS room, talk to the director, who will ask us for help with the aquarium. The Pokemon we need to submit are as follows. If you don't care about keeping any of them, submit the ones you already have, otherwise, here are where you can go get more (or breeding is always an option). There are 34 total. We can't fully complete this quest (without some mystery egg luck) until the next chapter, but we can donate most of the Pokemon. I will do minimal evolution / maximal catching to complete this quest for fun, but feel free to evolve Pokemon if you wish.
+Our first destination is the Akuwa Town Aquarium. In the left office room of the aquarium towards the back, talk to the director, who will ask us for help with the aquarium. The Pokemon we need to submit are as follows. If you don't care about keeping any of them, submit the ones you already have, otherwise, here are where you can go get more (or breeding is always an option). There are 34 total. We can't fully complete this quest (without some mystery egg luck) until the next chapter, but we can donate most of the Pokemon. I will do minimal evolution / maximal catching to complete this quest for fun, but feel free to evolve Pokemon if you wish.
 
 We start by donating 10. These 10 should be easy to start with:
 
@@ -833,7 +831,13 @@ Near the area where there was previously an alleyway, you can enter a building t
 
 !enc(685)
 
-There is a hidden *Green Shard*, *Blue Shard*, *Red Shard*, *Gourmet Treat*, *Light Ball* in this area. Accept Volta's *High Rise Run-in!* quest to battle the six trainers all around the High Rise. Each fights you on a different field!
+There is a hidden *Green Shard*, *Blue Shard*, *Red Shard*, *Gourmet Treat*, *Light Ball* in this area. Talk to Volta.
+
+**Relationship Point Choices**:
+- No, actually... (+2 Volta)
+- Of course!? (Neutral)
+
+Accept Volta's *High Rise Run-in!* quest to battle the six trainers all around the High Rise. Each fights you on a different field!
 
 !battle(["Art", :CUEBALL, 0], "City Field")
 
@@ -855,7 +859,10 @@ Return to Volta for another battle.
 
 !battle(["Henrietta and Jeff", :NEWREP, 1], "City Field")
 
-Win to get the *Meganiumnite*, finishing the quest!
+Win to get the *Meganiumite*, finishing the quest!
+
+**Relationship Point Choices**:
+- Finish the Neo High Rise Quest (+3 Volta)
 
 Head down to Oceana Pier to find a hidden *X Accuracy* and *Sweet Heart*.
 
@@ -948,7 +955,7 @@ This completes the restoration of Goldenwood Park!
 
 !enc(217, nil, nil)
 
-Pick up the *Rare Candy* and *Bug Memory*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
+Pick up the *Rare Candy*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
 
 **ZCell 123: Goldenwood Park**
 
@@ -995,8 +1002,6 @@ Talk to the guy at the bottom of Oceana Pier to head out to the Wreckage Site.
 !img("zcell124.png")
 
 We can talk to Adrienn to progress the quest a bit, but without the next gym badge, we can't progress the quest any more for now.
-
-## Floria Island 12 Badge Quests
 
 That's all we can do in Gearen for now. There are many more places across Floria Island we can explore for more goodies!
 
@@ -1111,7 +1116,7 @@ In the top right corner, you can get *TM11 Sunny Day*. *TM03 Psyshock* is toward
 
 That's all we can do here for now, so return to normal Route 2.
 
-## Terajuma Island 12 Badge Quests
+### Terajuma Island 12 Badge Quests
 
 Time to do some quests on Terajuma. Fly over to Kakori Village.
 
@@ -1250,7 +1255,3 @@ The Inverse Field is the simplest Field in this game, with only a few effects to
 Winning this fight will probably rely on a hazard to break the sash effects plus a sweeper. Fire and Normal moves are generally going to be your best bet here. Aerodactyl is fast but weak to moves like Quick Attack and Extremespeed, after all. 
 
 Win to get the Rugged Badge, which lets us use Dive and go up to Level 85. You'll also get *TM80 Rock Slide*.
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>
