@@ -217,7 +217,7 @@ Next, head right then up as soon as you can.
 
 !img("hidden003.png")
 
-A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here, and give him $150 total. We can't do anything in the house behind him quite yet, so head up from here.
+A rock on the left side will contain a hidden *Escape Rope* (A). Talk to the guy here. He only asks for $50 at a time, so keep talking to him until you've given him $150 in total. We can't do anything in the house behind him quite yet, so head up from here.
 
 You'll find a gym here. We can't go in yet, but if you go up and around to the right, you'll find a *Gift Box*.
 
@@ -254,7 +254,7 @@ More hidden items around here include:
 
 With the PokeSnax in our bag, we can talk to the northernmost dumpster here to catch **Gulpin**. Inside the house, also thanks to the snax, you'll be able to catch **Whismur**.
 
-Return to the guy we gave money to - behind him in a house you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you!
+Return to the guy we gave money to, by the rock with the hidden *Escape Rope* (A) - if he still asks for money, keep paying until you've given him $150 in total. In the house behind him you will find **Minccino** or **Espurr**, randomly determined. With the snax in your bag, it will join you!
 
 On the left side of the Pokemon Center, you can find a hidden *Poison Gem* in some trash paper (G). In a house below, a guy will give you the *Old Rod*!
 
