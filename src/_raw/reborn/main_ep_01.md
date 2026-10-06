@@ -113,7 +113,7 @@ Upstairs, you'll be asked which starter Pokemon you'd like to get. You actually 
 
 Another feature that Pokemon Reborn has is that it doesn't lock each Pokemon's 'hidden' ability behind special methods of obtaining: every Pokemon has an equal chance of having its hidden ability as its normal abilities. That means you can get Intimidate Litten, Sheer Force Totodile, Contrary Snivy, etc. as your starter!
 
-It is ultimately up to you what you choose. Many players recommend Torchic due to its Speed Boost ability, but each starter can be useful in its own way.
+It is ultimately up to you what you choose. Many players recommend Torchic due to its hidden ability, Speed Boost, but each starter can be useful in its own way.
 
 If you save in front of the starters (quicksave is, by default, 'D'), you can reset (resetting is, by default, F12. You will become very familiar with this button.) until you get one with satisfactory nature, ability, IV's, and even shininess. The shiny rate in this game is roughly 1 in 91 in this game, so you might just end up with a shiny starter on your first try!
 
@@ -304,7 +304,7 @@ Up from here, enter the building on the right. Talk to the guy here and give him
 - Accept Kricketot (+1 Shelly)
 - Reject Kricketot (-1 Shelly)
 
-Kricketune with its Fury Cutter attack and Technician ability can be incredible in the early game, so consider using it.
+Kricketune with its Fury Cutter attack and Technician ability can be incredible in the early game, so consider using it. Technician is its hidden ability: Kricketot only evolves into a Technician Kricketune if it has Run Away (its hidden ability) rather than Shed Skin, though the Ability Capsule in Peridot Ward can fix that.
 
 Back outside, talk to the yellow haired guy for a battle.
 
@@ -314,7 +314,7 @@ When you beat him you can access the Lower Peridot Alley.
 
 !enc(52)
 
-Poochyena evolves early and can have the Moxie ability, so it can be fantastic in the early game.
+Poochyena evolves early and, if it has its hidden ability Rattled, becomes a Mightyena with Moxie, so it can be fantastic in the early game.
 
 !battle(["Macy", :Punk, 0])
 
@@ -335,7 +335,7 @@ When the weather is rainy, you'll find **Pansear** or **Panpour**, randomly dete
 
 !enc(41)
 
-Woobat can be pretty solid thanks to its Simple ability, and you can evolve it early with enough friendship.
+Woobat can be pretty solid thanks to its hidden ability Simple (about a 1 in 3 chance), and you can evolve it early with enough friendship.
 
 A rock at the top left contains a hidden *Guard Spec*. Once you're done here, head back to the left and go up past Seacrest's Garden to enter the northern part of Peridot Ward.
 
