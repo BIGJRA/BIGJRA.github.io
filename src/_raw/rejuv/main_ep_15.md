@@ -2,13 +2,13 @@
 
 We will be taken to Sashila Village. Before continuing the story, a whole bunch of quests are open to us now that we have defeated Ryland.
 
-## Zone Zero Quests
+## 14 Badge Quests
 
 Take a Braviary over to the Pyramid Outskirts and go up. 
 
 !enc(606)
 
-Surf to the left side and the right side of the pyramid to get *Ground Memory*. You can also give a treat to **Riolu** for a battle.
+Surf to the left side and the right side of the pyramid to get *Ground Memory* and *TM160 Hurricane*.
 
 Next, enter the Eclysia Skyview, then make your way down the lift. Once you use a teleporter, head left and surf up and across. Pick up the *Magic Wand* here, then exit the pyramid.
 
@@ -47,7 +47,9 @@ We have to complete a puzzle similar to Generation III's Abandoned Ship backroom
 !img("zcell135.png")
 
 - Enter 2C and exit via the 2B door again.
-- Enter 1C. Go down the ladder, click the lever in this area, and pick up *Rocky Helmet*.
+- Enter 1C. Go down the ladder, click the lever in this area, and pick up *Rocky Helmet* and *Battered Key*!
+
+Inside the building formerly Nymiera's Abode in Zone Zero, you can use this key on a hidden safe in the wall to get the *Glimmoranite* and a **Drilbur** egg! This egg is petrified however, to fix that, you'll need to talk to Ayuna in the Rose Theater on Route 9.
 
 To the left from the Zone Zero Pokemon Center on the northern map, you'll find that a gate has opened, leading you to be able to catch **Gible**, plus:
 
@@ -57,17 +59,15 @@ To the left from the Zone Zero Pokemon Center on the northern map, you'll find t
 
 Fly over to Kakori Village. Enter a house on the left side and present the *Magic Wand* to get **Fennekin**!
 
-One more quest in the desert area: make your way to the southeast corner of the Zorrialyn Desert by Poiloethal Forest to begin the *Poisonous Luck* quest. Follow Jangmo'o to Luck's Tent in Zorrialyn Coast. Inside, you'll be able to purchase **Jangmo'o (Aevian)** in exchange for 13 Black Prisms!
+Make your way to the southeast corner of the Zorrialyn Desert by Poiloethal Forest to begin the *Poisonous Luck* quest. Follow Jangmo'o to Luck's Tent in Zorrialyn Coast. Inside, you'll be able to purchase **Jangmo'o (Aevian)** in exchange for 13 Black Prisms!
 
 Take the time to breed Aevian Jangmo'o and take the spare to a house in Zorrialyn Desert East. We can trade it for **Jangmo'o** (the Alolan kind)!
 
-## Narcissa's Hauntings Conclusion
+### Narcissa's Hauntings Conclusion
 
-Fly to Goldenleaf Town to continue the Narcissa's Hauntings quest. Talk to Narcissa in her house and accept the fast travel.
+Fly to Goldenleaf Town to continue the Narcissa's Hauntings quest. Talk to Narcissa in her house and agree to go.
 
-Follow the Rotom into the cave, then take the time crystal to the past. Interact with the safe here. Then, pull the lever in the top left corner, hiding in boxes. Go down the ladder and out. You can find hidden *Revival Herb*, *Full Heal*, *Health Feather*, and *Blue Shard* throughout the building. Unlock the gate, and head in.
-
-After a scene, talk to Narcissa and agree to go. Enter the manor and head upstairs to the top left room. Talk to the safe after another scene for the *Fairy Memory* and *Shiinotic Crest*. Exit to the well in the backyard.
+Enter the manor and head upstairs to the top left room. Talk to the safe after another scene for *TM99 Dazzling Gleam*, the *Fairy Memory*, and the *Shiinotic Crest*. Exit to the well in the backyard.
 
 Grab the *Code Rembrence Rift Notes* and head up.
 
@@ -80,13 +80,19 @@ Dufaux is a difficult boss. Each phase of the fight adds something to Dufaux unt
 **Relationship Point Choices**:
 - Finish Narcissa's Hauntings (+6 Narcissa)
 
-Head to the Lost Castle. All the way at the top, you'll get a chance to battle **Rotom**!
+Head to the Lost Castle. All the way at the top, you'll get a chance to battle **Rotom**! Pick up the *Electrium Z*!
 
 Fly to West Gearen and go talk to Gabriel at the West Gearen power plant. Follow him left, up, and up to get access to a room where you can change Rotom's form! You'll also get another *Somniam Mall Stamp*!
 
-## Missing Children 2
+We've now collected eight of the ten stamps for the mall, so we can buy new stuff!
 
-If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC. Make your way to the Underground. On the right side, you'll now be able to find:
+!shop("Somniam Mall Terrain Seeds", ["Elemental Seed", "Telluric Seed", "Magical Seed", "Synthetic Seed"])
+
+!shop("Somniam Mall TMs & HMs", [["TM34 Sludge Wave", 30000], ["TM162 Acid Spray", 25000], ["TM164 Play Rough", 25000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000], ["TM71 Stone Edge", 30000]])
+
+### Missing Children 2
+
+If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC's Underground. On the right side, you'll now be able to find hidden items: *Ultra Potion*, *Up-Grade*, *Red Shard*, *Poison Gem*, *Ether*, *Elixir*, *Blue Shard*, and *Black Sludge*. Plus:
 
 **ZCell 137: The Underground**
 
@@ -115,7 +121,7 @@ At Pokestar Studios, talk to Ana on the right. Follow her to the left again and 
 
 !battle(["Nicole",:LADY,0], "Back Alley")
 
-!battle( ["Rojin",:WORKERF,0], "Back Alley")
+!battle(["Rojin",:WORKERF,0], "Back Alley")
 
 !battle(["Kurt",:COOLTRAINER_M,0], "Back Alley")
 
@@ -125,31 +131,27 @@ Fly to Teila Resort and head to Route 5. The easiest way to reach the Secluded S
 
 Back in Kristiline, fly to Teila Resort and talk to Ana in the middle. Gather intel from the townspeople then talk to her again. We don't need to win the challenge, but if you'd like to, choose these options from her questions: first, fourth, second. Then talk to Gigiorno in the middle to get it started.
 
-Back in Kristiline again, enter the house. That's all we can do in this quest for now!
+Back in Kristiline again, enter the house. That's all we can do in the quest for now, though you can take a quick detour to the top of the Pokemon Pinnacle to get the *Chimechite*! You can also enter Peony's house in the Underground to get the *Loaded Dice*!
 
-We've now collected eight of the ten stamps for the mall, so we can buy new stuff!
-
-!shop("Somniam Mall TMs & HMs", [["TM150 Grassy Terrain", 10000], ["TM151 Electric Terrain", 10000], ["TM152 Misty Terrain", 10000], ["TM153 Psychic Terrain", 10000], ["TM34 Sludge Wave", 30000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000]])
-
-## Atebit Doctor Quest
+### Atebit Doctor Quest
 
 Make your way once more to the Eclysia Pyramid. Up the stairs on the right, you'll be able to enter a rift to return to the area with all the "GameBoys". Walk into the first to talk to Talon, beginning the *Atebit Doctor* quest.
 
-Take the Purple GameBoy on the left and follow the path to the Pink GameBoy. Once you're in the Syxtenbit Caves, head down the ladder to the right. Grab the Black Prism across the ice and proceed. Chase Isha through this area, grabbing the *Razor Fang*, *Black Prism*, and *NeverMeltIce* along the way. An *Ice Heal* can be found in the maze to the left of Zubat.
+Take the Purple GameBoy on the left and follow the path to the Pink GameBoy. Once you're in the Syxtenbit Caves, head down the ladder to the right. Grab the Black Prism across the ice and proceed. Chase Isha through this area, grabbing the two *Black Prisms*, *Razor Fang*, and *NeverMeltIce* along the way. An *Ice Heal* can be found in the maze to the left of Zubat.
+
+Follow Isha to the right and cross the lake. 
 
 !enc(521, ["Surfing", "Fishing"])
 
-Continue pursuing Isha to the right. You can interact with **Sneasel (Hisuian)** on the right side! You can exit to the volcano area in the top right corner to catch more Cyndaquil, if you wish.
+Continue pursuing Isha to the right. Isha will enter the cave in the center here. Before fighting him, we will continue exploring this area a bit. You can interact with **Sneasel (Hisuian)** on the right side! You can exit to the volcano area in the top right corner to catch more Cyndaquil, if you wish.
 
-Isha is in the cave in the middle of the water down in Syxtenbit Cave, but we will confront him a bit later on. Head to the bottom left corner, where you'll see a *Black Prism*.
-
-Nearby you'll see a ladder. Smash the rocks out of the way, push the boulder aside, and climb the ladder. Exit the cave, then immediately reenter the cave and climb back down the ladder. Push the boulder down a few times and it will fill a gap to the right, so you can get the *Groundium Z*! Now head back up the ladder and exit for real.
+Back on the western side of the lake, go down and left. In the maze in the corner, you'll see a *Black Prism*. Nearby is a ladder. Smash the rocks out of the way, push the boulder aside, and climb the ladder. Exit the cave, then immediately reenter the cave and climb back down the ladder. Push the boulder down a few times and it will fill a gap to the right, so you can get the *Groundium Z*! Head up the ladder and exit.
 
 We can surf in this outside area to reach new parts of the Atebit Kingdom. Surf to the right to reach the section we previously accessed via the library: a Larvitar can be caught at the top.
 
 Surf down and left. West of "The Lighthouse" you'll be able to land on a blue dock. West of this, you can land in "Trunkleaf City".
 
-If we had answered all of Eizen's Rivers' End questions correctly, he will offer us a game here, to relive the fight between Allen and Bladestar. Similarly to the fight with Amanda, we simply need to choose the attack that corresponds with whatever prompt our enemy says. After winning, you'll get the **??? Memory**.
+If we had answered all of Eizen's Rivers' End questions correctly, he will offer us a game here, to relive the fight between Allen and Bladestar. Similarly to the fight with Amanda, we simply need to choose the attack that corresponds with whatever prompt our enemy says. After winning, you'll get the *??? Memory*.
 
 **Relationship Point Choices**:
 - If Eizen is in Trunkleaf City (answer his questions correctly, earlier), win his game (+5 Alice, +5 Allen)
@@ -178,6 +180,8 @@ While we're in GDC, one new thing to obtain is available: if Florin is still ali
 Anyways, he'll give you **Bagon**, holding the *Butterfreenite*!
 
 One more thing to grab. Annoyingly out of the way this may be, make the way all the way back to the room in the Syxtenbit Cave where we fought Isha and grab the *Laprasite*!
+
+One more pickup - fly to Sheridan and enter Amethyst Cave. In Amethyst Grotto, you can now interact with a crack in the ground to get **Glimmet (Aevian)** or, more rarely, **Glimmora (Aevian)**!
 
 ## League Administration
 
@@ -246,8 +250,11 @@ You'll be temporarily given a new team including Manectric, Swampert, and Walrei
 
 !battle(["Venam",:LEADER_VENAM3,2])
 
-The strategy that worked for me was: Switch Manectric for Walrein, Waterfall on Houndoom turn 1. Then turn 2 was Blizzard with Walrein and Waterfall on Dugtrio, turn 3 was mega +
-discharge, waterfall on Dugtrio, then turn 4 was discharge + high horsepower to finish off Kingler.
+The strategy that worked for me was:
+
+1. Switch Manectric for Walrein, Waterfall on Houndoom
+2. Blizzard, Waterfall on Dugtrio
+3. Mega Evolve Manectric, use Thunderbolt on Kingler, use Waterfall on Dugtrio
 
 ### Day 11: Aelita's Return
 
@@ -281,7 +288,7 @@ Talk to Aelita in the hallway.
 - You'll be the Sensei too! (Aelita +3)
 - What about GDC? (Aelita -1)
 
-Next is a fight with Ren, one that will pit you against Ren. Pick a team between the three.
+Next is a fight with Ren. Pick a team between the three.
 
 !battle(["Ren",:OUTCAST,5], "Dragon's Den")
 
@@ -289,7 +296,7 @@ Sleep for the night in the leftmost room.
 
 ### Day 29: Graduation
 
-Finally, we get to obtain the *Omni Ring*! This allows us to use Z-Moves as well as Mega Evolve our Pokemon!
+We will obtain the *Omni Ring* if we did not get it during the sidequest earlier! This allows us to use Z-Moves as well as Mega Evolve our Pokemon!
 
 **Relationship Point Choices**:
 - Thank you, everyone! (Melia +2, Ren +2, Aelita +3, Damien
@@ -433,7 +440,7 @@ This is a tough battle as Cassandra has a lot of threats, and if you're playing 
 
 That's it for the Pearl Route!
 
-## Axis High University
+## Platinum Route
 
 With both of those completed, you'll be in control of your character again. Choose path 3 and be given the *Rotom Phone*.
 
@@ -500,7 +507,7 @@ Time for a 2v2 battle with Risa Raider downstairs, victory as usual being option
 
 Interact with the fountain next, then head to the dorms downstairs to sleep. The next day, head to the auditorium for the announcement!
 
-## Nightmare School: Aelita
+### Nightmare School: Aelita
 
 I will begin with Path 1. Once more you'll be given a choice to activate the Interceptor's Wish, I declined.
 
@@ -610,7 +617,7 @@ Reshiram one shots every one of your Pokemon, but you should be able to deal eno
 
 That's it for this part!
 
-## Nightmare School: MC
+### Nightmare School: Interceptor
 
 Exit the auditorium and talk to the student here who has lost his brain. SEC is the storekeeper here and has the same items as Zetta did. Do a group investigation of the cafeteria here. Return to the guy to get *Mysterious Black Box* and *3 Phantom Candy S*. 
 
@@ -630,7 +637,7 @@ Try to enter the machine in the lower area of the main room. Talk to it again. Y
 
 - Student 1: Determined, Math, Medical Proficiency, Internship Experience
 - Student 2: Studious, English, Drama Proficiency, 10 or more performances
-- Student 3: Whimsical, Botany, Botanical Proficiency, Hugged a Tree.
+- Student 3: Whimsical, Biology, Botanical Proficiency, Hugged a Tree.
 
 **Relationship Point Choices**:
 - Give her space. (Saki +2)
@@ -676,11 +683,11 @@ A bit harder since you only have three this time, but nonetheless very doable.
 - I'm happy for you! (Amber +2)
 - ... (Amber -1)
 
-Make your way all the way back to the auditorium as soon as you are prompted to. Some students will battle you in the factory.
+Make your way all the way back to the auditorium as soon as you are prompted to. A student will battle you in the factory.
 
 !battle(["Denzil",:AXISSTUDENT_MW,0])
 
-You'll get *3 Phantom Candy M*. Return to the auditorium
+You'll get *3 Phantom Candy M*. Return to the auditorium.
 
 !battle(["???",:MASKEDMAN,0])
 
@@ -792,7 +799,7 @@ Go upstairs and enter the stairs at the fountain. Follow the path to fight SEC a
 
 !battle(["SEC",:SECURITYSYSTEM,5], "Factory Field")
 
-Get the Fire Stone in the next room.
+Get the *Fire Stone* in the next room.
 
 !battle(["SEC",:SECURITYSYSTEM,7], "Factory Field")
 
@@ -820,7 +827,7 @@ Anyways, time for a battle!
 
 !battle(["Clear",:UNKNOWN_2,0], "Factory Field")
 
-The Naganadel has two shields, and her Stantler and Beheeyem have crests that make each much better. That said, if you don't let Naganadel get too many Beast Boosts, her team is slow overall and you can sweep them with the right Pokemon. That said, winning this one is optional.
+Her Stantler and Beheeyem have crests that make each much better. That said, if you don't let Naganadel get too many Beast Boosts, her team is slow overall and you can sweep them with the right Pokemon. That said, winning this one is optional.
 
 **Relationship Point Choices**:
 - Fail to defeat Clear (-1 Aelita, -1 Adam, -1 Braixen, -1 Erick)
@@ -833,6 +840,8 @@ Back outside:
 - Uh... on second thought... (Aelita -2)
 
 Head back up to Axis High.
+
+### Land of Broken Dreams
 
 !enc(57)
 
@@ -866,7 +875,7 @@ Return to take the teleporter.
 
 !battle(["Hazuki",:ROGUEHERO,0], "Starlight Arena")
 
-This battle has been made much easier since the previous version, though you still need to be careful. Mega Corviknight is very bulky and can set up Tailwind for its allies, while Mr. Rime is able to use Fake Out and deals decent damage. The somewhat slow but powerful trio of Sirfetch'd, Samruott, and Aegislash is in the back, ready to pick up one-shots if you don't get to them first. You also need to watch out for Aevian Chandelure, whose Illuminate ability will redirect single-target attacks to it on the first turn it is on the field.
+Mega Corviknight is very bulky, capable of redirecting attacks away from Chandelure, who will usually try to use Trick Room. The somewhat slow but powerful trio of Aegislash, Samurott, and Escavalier is in the back, ready to pick up one-shots if you don't get to them first. You also need to watch out for Aevian Chandelure, whose Illuminate ability will redirect single-target attacks to it on the first turn it is on the field. You really want to stop Trick Room at all costs here - the Electrium Z plus Taunt is a good example pairing for the first turn. If you can achieve that, victory is likely assured.
 
 **Relationship Point Choices**:
 - I'm so sorry. (Saki +2, Aelita +2)
@@ -915,7 +924,7 @@ Back as the player, enter the first room.
 - I'm on it. (Erin +2)
 - Goddamnit... (Melia -2, Aelita -2, Erin -3)
 
-Accept the fast travel to Axis. Follow the path up. After this scene is over, head back out and down to Saki's gym!
+Accept the fast travel to Axis. Follow the path up. After this scene is over, grab the *Mysterious Key* above, then head back out and down to Saki's gym!
 
 ## Axis Factory
 
@@ -959,9 +968,7 @@ Pick up the *Dungeon Key* and use it above.
 
 !battle(["Geara",:XENEXECUTIVE_5,0], "Haunted Field")
 
-Man, this guy keeps showing up and is never any less annoying. He generates his own Haunted Field, real funny. All his Pokemon hit really hard, and Clefable even comes with a synergistic Burn to prevent other status. Mega Gengar is insanely fast and with field boosted Shadow Ball can kill almost anything, Krookodile starts strong and can go on a Moxie rampage starting with its Z-move, Aevian Parasect's ability guarantees it a second life after you knock it out the first time, and on and on this fight's difficulties go.
-
-Parasect and Clefable are the main Pokemon stopping a speedy/Trick Room sweeper, so consider Pokemon that can deal with those two for support. Your own ghost types can deal heavy damage here. Fire moves gain Ghost typing, so once you can knock out Chandelure, a Fire type may be able to go on a tear here.
+Man, this guy keeps showing up and is never any less annoying. He generates his own Haunted Field, real funny. All his Pokemon hit really hard! Mega Gengar is insanely fast and with field boosted Shadow Ball can kill almost anything, Krookodile starts strong and can go on a Moxie rampage starting with its Z-move, Aevian Parasect's ability guarantees it a second life after you knock it out the first time, and on and on this fight's difficulties go. Your own Ghost moves and priority moves can absolutely clutch this out.
 
 Push the button and enter the teleporter. Go left then down and enter the newly opened door to get a *Master Key*.
 
@@ -971,11 +978,15 @@ Before we fight the gym leader though, there are some quests we can get done!
 
 Fly over to East Gearen. Enter the Magnolia Library and show your Aevian Litwick to Zumi, who'll reward you with *30 Exp. Candy L* and the *Manectite*. That's the end of the *PictoZumi* quest!
 
-Sadly, Ayuda next door is currently completely incapable of perceiving our 140+ Zygarde Cells, even though that is the amount he's currently looking for. Maybe in V14 we'll get our reward, Ayuda.
+Head next door to chat with Ayuda. For having 140+ cells, we will get *10 Cell Imprints*, *50 Exp. Candies XL*, and the *Golisopite-A*! Additionally, he will give us:
 
-Next, make your way to the Den of Souls via the Goldenwood Silent Grove. Head up to pick up the *HP Up*. Follow the path to the city area and find a *Revive* on the left. Hidden here is also *Nugget*, *Damp Rock*, and *Red Shard*. Make your way to the 3rd HQ via the elevator and head to the 3rd floor. In the rooms with the notes, you can grab an *Antidote*, a *Full Heal*, and a *Revival Herb*. A room to the left has an *Elixir* in it. On the second floor, you can find a *Max Potion*.
+**ZCore 2: East Gearen City**
 
-Exit to the 3rd Layer. On the right is an *Ultra Potion*. Talk to the broken mech-Gyarados to the left. Inside, you'll get a *Dragon Memory*. Head up to get the *Glalitite*! Proceed left and pick up the *Tiny Mushroom*.
+Next, make your way to the Den of Souls via the Goldenwood Silent Grove. Head up to pick up the *HP Up*. Follow the path to the city area and find a *Revive* on the left. Hidden here is also *Nugget*, *Damp Rock*, and *Red Shard*. A Rock Climb bath in the bottom right will lead you to the *Infernal Field Readout*!
+
+Make your way to the 3rd HQ via the elevator and head to the 3rd floor. In the rooms with the notes, you can grab an *Antidote*, a *Full Heal*, a *Revival Herb*, and the *Medichamite*! A room to the left has an *Elixir* in it. On the second floor, you can find a *Max Potion*.
+
+Exit to the 3rd Layer. On the right is an *Ultra Potion*. Talk to the broken mech-Gyarados to the left. Inside, you'll get a *Dragon Memory*. Head up to get the *Alakazite*! Proceed left and pick up the *Tiny Mushroom*.
 
 We can surf on the water here, actually!
 
@@ -983,7 +994,27 @@ We can surf on the water here, actually!
 
 Surf down to the bottom area. You'll find Wild Omanyte here, and a hidden *Blue Shard*. To the right, you can get *TM89 U-Turn*. Further to the right, you'll find a hidden *Ether*. On the north side of the pond, you can find a hidden *Heart Scale*. 
 
-On your way back to the 3rd HQ, surf to the left around the mech-Gyarados to find wild Kabuto and *TM82 Dragon Tail*! That's it for our exploration of this area, so make your way all the way back to the surface and return to Axis Factory.
+There is also Dreepy here. Give it a Gourmet Treat, then follow it south, then north. Prepare for a fight!
+
+!boss("DRAGAPULTBOSS", "Crystal Cavern")
+
+Clear Body will prevent your stat drops on the extremely quick Dragapult. Trick Room or Paralysis are solid choices here. After winning, you'll get **Dreepy**. It is holding a *Fossilized Drake*!
+
+From the western shore, surf up to get the *Ghostium Z*... but watch out for the mech Lairon swarm.
+
+On your way back to the 3rd HQ, surf to the north around the mech-Gyarados to find wild Kabuto and *TM82 Dragon Tail*! That's it for our exploration of this area, so head back to the "First Layer" - the surface. Take the Fossilized Drake to Akuwa Town, where you can revive it plus one of the other fossils into **Dracovish** or **Arctovish**. We can only get one this version.
+
+Next, fly over to Valor Mountain and make your way to the Strange Shack on Route 6. Use the Mysterious Key in the basement to get the *Beheeyem Crest*!
+
+Make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle. I'll note that this battle is incredibly difficult, so it is worth waiting until after getting our next level cap increase unless you really want these rewards now.
+
+!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
+
+This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty inherits 10% of each of its allies stats... with 11 allies, that means it more than doubles each stat! Delcatty alone is a MONSTER to take out, but the pair of late scientists has eleven more Pokemon to boot.
+
+One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
+
+Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
 ## Forgery Badge
 
@@ -993,11 +1024,7 @@ Head into the gym door at the top and get ready for quite a battle.
 
 !move("ULTRAMEGADEATH")
 
-My love letter to the insane wackiness that was V13 Saki is unfortunately moot. No longer will you the player need to deal with Wonder Room Glitch Field shenanigans. The good news is though that this fight has been replaced by another very interesting one, though not quite as hard as the previous.
-
-A fun gimmick with this fight is that Saki changes the field a whole bunch. It starts on Factory, but will change to Glitch Field after the first knock-out. She likes to send in Durant second onto the Glitch Field to activate its Synthetic Seed and make it typeless. Following this, you'll go through the City Field, never-before-seen Colosseum Field, and once more through the Factory Field until the field settles on City for what probably accounts for the rest of the fight. If you opt for stall or take too long, the field will eventually permanently switch to Colosseum for the remainer.
-
-Her Pokemon have a decent spread of coverage moves, speed, priority, etc, but it shouldn't be a major difficulty spike at this point. If you find yourself taking heavy damage on any of the one-turn temporary fields, consider opting for Protect to skip ahead to the next. The City Field is a hard one to plan around for this fight: its only move boosts are to types that Steel resists anyways. Perhaps better is to switch the field to Back Alley, where you can boost moves like Sucker Punch to better deal with Mega Metagross! Otherwise, a healthy mix of Fire, Fighting, and Ground moves for offense with some priority will do the trick.
+This version of the Saki fight is pretty insane. Essentially, each of her Pokemon comes in to a brand new field, activating 
 
 Win to get *TM91 Flash Cannon* as well as the Forgery Badge, which raises the Level Cap to Lv. 90!
 
@@ -1069,16 +1096,6 @@ Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelix
 
 **Relationship Point Choices**:
 - Talk to Ryland at Eclysia Skyview (+6 Ryland)
-
-Make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle.
-
-!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
-
-This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty inherits 10% of each of its allies stats... with 11 allies, that means it more than doubles each stat! Delcatty alone is a MONSTER to take out, but the pair of late scientists has eleven more Pokemon to boot.
-
-One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
-
-Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
 Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse.
 
