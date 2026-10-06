@@ -224,7 +224,7 @@ Enter the Sweet Kiss Candy store.
 
 !shop("Sweet Kiss (Top) (13+ Badges)", ["Whipped Dream", "Peppermint", "Chewing Gum", "Pop Rocks", "Salt-Water Taffy", "Red-Hots", "Cotton Candy", "Sweet Heart"])
 
-Buy the Sweet Heart for Spyce.
+You can buy the Sweet Heart for Spyce here, but there is no need: we will get one for free at the Onyx Trainer School shortly.
 
 Enter the Obsidia Alleyway next.
 
