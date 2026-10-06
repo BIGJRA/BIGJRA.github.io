@@ -430,7 +430,7 @@ Oh. Your team is all set to Lv. 1 and you can't use bag items. Oh no.
 
 Unlike Solaris at Pyrous, this battle truly is intended to be lost, and there is no reward other than a few lines of dialogue for winning. There are technically ways to win, but I'll leave that as an exercise to the reader.
 
-Head back up and talk to Shiv again. With all that taken care of, you'll receive Darkrai! Return to the Nightclub.
+Head back up and talk to Shiv again. With all that taken care of, he'll "give" you a Darkrai... except it's all part of the dream, so it never actually ends up in your party or PC. The nickname you give it does carry over to the Darkrai you battle later, though. Return to the Nightclub.
 
 ## Water Treatment Center Anomaly
 
