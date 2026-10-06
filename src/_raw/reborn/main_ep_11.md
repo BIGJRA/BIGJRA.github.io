@@ -99,7 +99,7 @@ North of the top tutors, you'll see a shadow indicating an entrance. Inside, tal
 
 Defeat the researcher in here and agree to participate in her sidequest.
 
-First, you'll need to bring her a Carvanha. Note that these will be gone forever. We can fish one in the nearby Lapis Alleyway. Next, you'll need an Unfezant. You can get Tranquill on the Onyx Rooftop: evolve it at Lv. 31 to get **Unfezant**, then donate it. Finally, we'll need Luxray. You can get Shinx in the Game Corner, evolve it at Lv. 15 then again at Lv. 30 to get **Luxio** then **Luxray**. Donate the latter. Exit Seventh to Lapis Ward, then come back down. Save the game and talk to Nadira. You'll be able to catch **Type: Null**, our first legendary!
+First, you'll need to bring her a Carvanha. Note that these will be gone forever. We can fish one in the nearby Lapis Alleyway. Next, you'll need an Unfezant. You can get Tranquill on the Onyx Rooftop: evolve it at Lv. 32 to get **Unfezant**, then donate it. Finally, we'll need Luxray. You can get Shinx in the Game Corner, evolve it at Lv. 15 then again at Lv. 30 to get **Luxio** then **Luxray**. Donate the latter. Exit Seventh to Lapis Ward, then come back down. Save the game and talk to Nadira. You'll be able to catch **Type: Null**, our first legendary!
 
 On the north side of the main part of seventh, talk to your gang member and he'll mention seeing Bennett in the watering hole. Enter the watering hole, heal if you want, then head out and into the grotto on the right.
 
