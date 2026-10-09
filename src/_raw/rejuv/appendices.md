@@ -320,6 +320,26 @@ If you have been progressing through the Zetta's questions branch in the "New Ga
 
 [Jump Back](#nastasias-airship)
 
+### Chapter 15 NG+ Part 1
+
+After beating Saki, if you've completed all of Shayda's content up to this point in the past including catching Wo-Chien, take a trip to the past via the Rose Theater Timesplicer Crystal and meet Shayda in the restaurant in Kugearen. Spend any remaining shards, then agree to follow her.
+
+!enc(686)
+
+Hidden on this map is a 5 *Big Mushrooms*, *Max Revive*, and an *Elixir*.
+
+Talk to the various things in Shayda's residence, then agree to battle.
+
+!battle(["Shayda", :SHADEWITCH, 0], "Bewitched Field")
+
+This fight has a lot of shenanigans in it, not the least of which is the frequent drowsiness. Nonetheless, you should be able to find a way to make it through this with careful enough planning!
+
+Win to get the *Shayda's Charm*! Talk to Shayda to return to the Goldenwood Grotto one more time for an opportunity to catch **Flutter Mane (Shayda's)**! This is a special Flutter Mane with slightly different base stats and a different pool of abilities.
+
+Return to the present. There's one more NG+ perk we can now access. If you completed the NG+ events of Chapter 2, return to the red room underneath Melia's room to get the **Clefablite..?** Mega Stone. This one allows you to get "Mega Clefable Q", same as Mega Clefable but with the Gravity Control ability!
+
+[Jump Back](#legendary-wings)
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:

@@ -315,7 +315,7 @@ Return to League Administration. Enter the bottom room and go right.
 Select Path 1: the Diamond Route.
 
 **Relationship Point Choices**:
-- Talk to Erin at the Magnolia Library way earlier in the game (+2 Erin)
+- Talk to Erin in Magnolia Library during Act 1, before Diamond Route (+2 Erin)
 
 On the boat, choose whether you'll activate Interceptor's Wish. If you do, Erin will be using *your team*, whereas if you don't, she uses hers. I prefer not to activate Interceptor's Wish.
 
@@ -703,7 +703,7 @@ Head upstairs. Interact with a terminal on the right. Your goal is to get the re
 After you finish, talk to the main table thing, then go around the room bashing suspicious walls. That is, any that don't fit in with what's around them. Then return to the table.
 
 **Relationship Point Choices**:
-- Are you doing okay? (Amber +2)
+- Are you doing okay? (Amber +2, Saki +2)
 - What happened? (Neutral)
 - You done? (Saki -2, Amber -2)
 
@@ -1006,15 +1006,7 @@ On your way back to the 3rd HQ, surf to the north around the mech-Gyarados to fi
 
 Next, fly over to Valor Mountain and make your way to the Strange Shack on Route 6. Use the Mysterious Key in the basement to get the *Beheeyem Crest*!
 
-Make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle. I'll note that this battle is incredibly difficult, so it is worth waiting until after getting our next level cap increase unless you really want these rewards now.
-
-!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
-
-This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty inherits 10% of each of its allies stats... with 11 allies, that means it more than doubles each stat! Delcatty alone is a MONSTER to take out, but the pair of late scientists has eleven more Pokemon to boot.
-
-One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. You really want to focus on crippling or taking out Delcatty first, then focusing on the rest of the team later on. Dragapult's screens are very annoying - if you can get rid of those and get a Pokemon some SpA boosts and let it spam Hyper Voice or Blizzard, you are generally going to be set with the right allies to support.
-
-Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
+I'll note that we can take on the Xara and Jean spirit fight at Axis High now for an early Beedrillite and Copperajite, but this fight is incredibly difficult before the next level cap, so I'll cover it in full later.
 
 ## Forgery Badge
 
@@ -1024,7 +1016,16 @@ Head into the gym door at the top and get ready for quite a battle.
 
 !move("ULTRAMEGADEATH")
 
-This version of the Saki fight is pretty insane. Essentially, each of her Pokemon comes in to a brand new field, activating 
+This brand new version of the Saki fight is pretty insane. Essentially, each of her Pokemon comes in to a brand new field, each of which has some degree of synergy with the Pokemon in question. In bullet point form:
+
+- Tinkaton uses a Synthetic Seed to become typeless on Glitch, allowing it a turn or two to set up Rocks, use Encore, or start hitting hard with Super U.M.D. Move. Speaking of, this move hits on whichever defensive stat would result in higher damage, so bulking up just one of the defenses will be insufficient. Many Pokemon of yours can win this 1v1 however, particularly with a Z move, so figure out what works here to get momentum rolling for the rest of the fight.  
+- Bastiodon and the Murkwater Surface field doesn't seem to make much sense, but it is immune to field damage and nullifies one of its 4x weaknesses. Combined with its Crest, it can easily wear you out and heal itself back up. A way to chip for minimal damage (Stealth Rock, Fake Out, etc.) plus a special Fighting move is your best bet here.
+- Durant gets a free Atk and Accuracy boost, into a priority field boosted First Impression on City Field, plus some strong moves after. Protect to get around First Impression plus some speed control and a Fire move is a good call here.
+- Metagross summons Colosseum, a field we have the notes for but haven't battled on yet. It gets free Atk to throw out strong Bullet Punches. A very strong Sucker Punch or incredibly defensive Pokemon with a super-effective move may be what you need here. One note to your favor is that the field boosts your Pokemon's attack upon scoring a knock-out of this Metagross, so a priority sweeper may be able to snowball after knocking this out.
+- Hisuian Goodra on Fairy Tale Field is incredibly busted, not the least of which is because of its free Defense boost upon switch in and boosted Dragon Pulse, Heavy Slam, and Body Press. Knocking this out even with a powerful super effective move is pretty much unheard of, so you're going to need to sweep through it or win a battle of attrition. 
+- Finally, she has a Mega Duraludon. Not Archaludon, but the Mega-equivalent in this game of Gigantamax Duraludon. Particularly nasty is that this Mega Duraludon gets a free boost to Speed on the Factory Field, letting it use its wide coverage pool and insane SpA stat to one-shot basically anything you have. Priority moves or Trick Room on top of really strong Ground/Fighting moves are probably the key here, but finding that window is incredibly tough.
+
+The fight is of course really difficult. Take advantage of each of the fields present, with your own Seed items as needed, and work out a turn-by-turn plan to make it through.
 
 Win to get *TM91 Flash Cannon* as well as the Forgery Badge, which raises the Level Cap to Lv. 90!
 
@@ -1041,7 +1042,7 @@ Win to get *TM91 Flash Cannon* as well as the Forgery Badge, which raises the Le
 
 ## Zeight Awakening
 
-It's time now to complete the new V13.5 content. Next, return to Sashila, and enter the second room on the right to talk to Crescent.
+It's time now to complete the new V13.5 content. Next, return to the Sashila HQ, and enter the second room on the right to talk to Crescent.
 
 **Relationship Point Choices**:
 - They're my friends. (Neutral)
@@ -1060,7 +1061,9 @@ Accept the fast travel to the Field of Pillars and talk to the Obelisk to enter 
 
 !move("CHTHONICMALADY")
 
-The Deep Earth Field hasn't been explored much so far, so you'll likely be caught off guard by all of Crescent's tricks on it. In a nutshell this field makes all effects of weight and speed amplified in some way: Gyro Ball becomes max power (speedy Mega Metagross oneshots easily), Iron Ball modifies Speed directly (for Malamar, raises it), many moves like Dragon Rush and Icicle Crash, and Ground moves in general are boosted, and Gravity is always on. High priority moves like Sucker Punch and Vacuum Wave have their power lowered here, though lower priority moves like Vital Throw are boosted. You get to take advantage of all these things too, so get to reading those field notes if you are stuck. Be careful of Crescent's Gothitelle: it instantly uses its custom move when it is sent into battle, applying the custom Petrification status, lowering its stats, and Tormenting it. Plus, it has a Crest and two Shields.
+The Deep Earth Field hasn't been explored much so far, so you'll likely be caught off guard by all of Crescent's tricks on it. In a nutshell this field makes all effects of weight and speed amplified in some way: Gyro Ball becomes max power (speedy Mega Metagross oneshots easily), Iron Ball modifies Speed directly (for Malamar, raises it), moves like Dragon Rush and Icicle Crash, and Ground moves in general are boosted, and Gravity is always on. High priority moves like Sucker Punch and Vacuum Wave have their power lowered here, though lower priority moves like Vital Throw are boosted. Be careful of Crescent's Gothitelle: it instantly uses its custom move when it is sent into battle, applying the custom Petrification status, stat loss, and torment to your Pokemon. Plus, it has a Crest and two Shields.
+
+You can take advantage of the rather strong boosts that this field provides as well - speed control such as Trick Room can help give you the edge here. 
 
 **Relationship Point Choices**:
 - Paragon only: Before awakening Adrest, talk to Crescent and say "You good?" (Neutral)
@@ -1092,16 +1095,35 @@ There's one more Move Tutor we can now access as well. Fly over to the Kingdom o
 
 !cshop(:Goombina, "Goombina Move Tutor")
 
+Fly to the Desert and head on down to the Strange House on the Zorrialyn Coast. Talk to Venam, then enter. After a chat, you'll be able to get the Paldean starters - **Fuecoco** is hiding in the dark inside, south of the painting. **Sprigatito** is outside on the left. It will jump to the roof after you talk to it. **Quaxly** can be found south of the house, across some stone platforms near the lighthouse. Return to Venam upstairs to get a *Mystery Bowl*, *3 Lum Berries*, and *25 Exp. Candies XL*.
+
+**Relationship Point Choices**:
+- Catch the Paldean Starters and talk to Venam (+3 Venam)
+
+Downstairs, Venam will want the painting, so let her take it.
+
 Fly to Eclysia Pyramid and talk to Ryland on the summit. You'll get the *Steelixite*!
 
 **Relationship Point Choices**:
 - Talk to Ryland at Eclysia Skyview (+6 Ryland)
+
+If you haven't already, make your way over to Axis High University. On the grounds in front of the school you'll see a green butterfly. Talk to it for a spirit battle!
+
+!dbattle(["Xara",:SPIRITXARA,0], ["Jean",:SPIRITJEAN,0], "City Field")
+
+This a very tough fight on a tough field. This is our first 12v6 in this game, and Spirit Xara and Jean pull no punches. They each have two Crest Pokemon, a Z-Move, and a Mega Evolution. Their Pokemon are all across the stat spectrum and all across the typing spectrum, so there's not really one particular strategy that works here. The Delcatty inherits 10% of each of its allies stats... with 11 allies, that means it more than doubles each stat! Delcatty alone is a MONSTER to take out, but the pair of late scientists has eleven more Pokemon to boot.
+
+One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. First priority is crippling or taking out Delcatty first. The left side, especially with the Raichu lead, has fewer threats on it, and Dragapult's screens are quite annoying. This means focusing on the right side tends to work better. You can also opt for the spread move sweep approach - SpA boosts over Hyper Voice, Heat Wave, or Blizzard will go far.
+
+Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
 
 Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse.
 
 Also by the way: if you cheat to get 999 Black Prisms, well...
 
 !boss("DOXIE", "Haunted Field")
+
+[New Game+ Content](#chapter-15-ng-part-1)
 
 ### Legendary Wings
 
