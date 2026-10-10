@@ -657,7 +657,3 @@ You'll wake up back in the Dream Complex. Talk to Melia on the couch to complete
 **Relationship Point Choices**:
 - Full-time? (Reina +1)
 - Part-time? (Neutral)
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

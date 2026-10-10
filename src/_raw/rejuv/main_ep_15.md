@@ -1143,7 +1143,7 @@ Fly to Sheridan and enter Carotos Mountain. Make your way through the Corrupted 
 
 Inside the sanctuary, you'll see various Darchlight Crystals scattered about. Talk to each one of them to view a scene - eventually a glowing door in the left wing of the area will be unlocked. Head in, read the book, and show a Water type to the statue in order to activate one more Darchlight Crystal at the entrance. View that one, then head towards where we fought Groudon. Smash this Darchlight Crystal and enter the teleporter.
 
-Step on the seven tiles in the next room to catch **Regirock**!
+Pick up the *Rockium Z* and *TM154 Mystical Fire* in the next room. Step on the seven tiles to catch **Regirock**!
 
 Nymiera will unlock one more seal and warp you to the door, so go up.
 
@@ -1151,7 +1151,7 @@ Nymiera will unlock one more seal and warp you to the door, so go up.
 
 Here's the thing: the way the boss's shields work means you cannot defeat it. The game does not expect you to defeat it. If you manage to break its shield 100 times though, the game rewards you by telling you you're wasting your time and treating it as a loss anyways! How to accomplish this, I leave as an exercise to the reader.
 
-Destroy the terminal, or don't, then head out of this room.
+Pick up a *Life Orb*! Destroy the terminal, or don't, then head out of this room.
 
 **Relationship Point Choices**:
 - After destroying the terminal: "Envoys were mistreated" (Neutral)
@@ -1164,6 +1164,8 @@ That wraps up this quest!
 ### Anju's Quest
 
 Next, fly to Kristiline and make your way through the Church of Theolia portal to reach the Tower Cellar. Make your way through the wall in order to reach the room that is directly on the right of the entrance - you need to exit the wall, go right, then go right and up in the next room to accomplish this. Use the Darchlight Crystal to create a bridge, then walk into the rift in the next room.
+
+!enc(343)
 
 To the right in the Crystal Fairytale area, you'll find the *Icium Z*! Talk to Anju above, then her mother. Talk to Anju again, then find her at the top right for a third conversation. Pick up her Lillipup in the bottom left corner and return to Anju. Finally, head up for a battle.
 
@@ -1191,7 +1193,7 @@ Once you have gathered the entire group, enter the door at the top right.
 
 !boss("KKING", "Short-Circuit Field")
 
-Easy boss, easy life. Not so much for Clover, though. Capture **Registeel** then take the teleporter and rift to exit.
+Easy boss, easy life. Not so much for Clover, though. Grab the *Aggronite*, capture **Registeel**, then take the teleporter and rift to exit.
 
 ### Parks and Wrecks
 
@@ -1211,9 +1213,9 @@ If Florin is dead:
 
 !battle(["Mr. Hynde",:DIABOLICALGENIUS,1], "Flower Garden Field")
 
-You'll be able to capture **Shaymin** above!
+You'll be able to capture **Shaymin** above! Before leaving, grab the *Choice Specs* in the corner!
 
-Return to Gearen Lab and talk to Adrienn. That concludes *Parks and Wrecks*!
+Return to Gearen Lab and talk to Adrienn, who will give us the *Reborn Flower*! This can be used on a Floette to get **Florges (Reborn)**! That concludes *Parks and Wrecks*!
 
 ## Missing Children 3
 
@@ -1266,10 +1268,10 @@ Enter Dylan's house, then Peony's, then Particia's (downstairs).
 - I wanted to check in! => Peony sent me. (Neutral)
 - I wanted to check in! => It's true! Peony also sent me (+3 Particia)
 
-Finally, return to Dylan's house. On the table is **Deino**! That's it for *Missing Children*!
-
-
-
-
+Finally, return to Dylan's house. On the table is *5 EV Boosters*, the *Gyaradosite*, and **Deino**! That's it for *Missing Children*!
 
 From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm. 
+
+<hr class="WALKTHROUGH BOUNDARY TODO"/>
+### NOTE: The walkthrough for V14 has not been updated beyond this point.
+<hr/>
