@@ -159,7 +159,7 @@ There are also **Snorunt (Aevian)** to the right! Very nice.
 
 There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
 
-Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *TinyMushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
+Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *Tiny Mushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
 Talk to the Noctowl Statue to create another fly location. Enter the Weather Institute.
 
@@ -222,7 +222,7 @@ Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
 Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack* and the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
 
-Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *TinyMushroom*. Further up is a *SilverPowder* as well as another hidden *TinyMushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
+Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *Tiny Mushroom*. Further up is a *SilverPowder* as well as another hidden *Tiny Mushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
 
 Once you reach the group, step onto a tile over the water to be taken to some grunts.
 

@@ -475,7 +475,7 @@ Yet again King's Shield and Aqua Cutter slay!
 **Relationship Point Choices**:
 - Finish the Hero of Slime quest (+6 Ben, +6 Goomink, +5 Karma)
 
-After these events, re-enter the ruins room. While here, grab *TM08 Bulk Up*, the *Feraligite*, and hidden *BalmMushroom*.
+After these events, re-enter the ruins room. While here, grab *TM08 Bulk Up*, the *Feraligite*, and hidden *Balm Mushroom*.
 
 !enc(602)
 
@@ -657,7 +657,3 @@ You'll wake up back in the Dream Complex. Talk to Melia on the couch to complete
 **Relationship Point Choices**:
 - Full-time? (Reina +1)
 - Part-time? (Neutral)
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>

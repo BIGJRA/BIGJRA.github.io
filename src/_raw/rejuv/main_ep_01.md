@@ -220,7 +220,7 @@ To the left, only during the daytime on weekdays there is a vendor:
 
 The man here will attempt to sell you *Poke Balls* at $400 each. While this may seem like a rip-off, once you buy four, he'll give you a **Voltorb**!
 
-Down from here, you'll see a *Reverse Candy* towards the bottom. The second tile from the left on the bottom of the nearby grass contains a hidden *TinyMushroom*, then a tile three up from the leftmost Murkrow contains a hidden *Repel*.
+Down from here, you'll see a *Reverse Candy* towards the bottom. The second tile from the left on the bottom of the nearby grass contains a hidden *Tiny Mushroom*, then a tile three up from the leftmost Murkrow contains a hidden *Repel*.
 
 !battle(["Penelope",:BEAUTY,0], "City Field")
 
@@ -619,7 +619,7 @@ There are some trainers south to battle. When you're ready, head north into Gold
 
 !enc(8, ["Grass", "Cave", "Fishing"], ["Old"])
 
-Cross the bridge. In a dark spot is a hidden *TinyMushroom*. Cross the next bridge to get a hidden *Potion* at the base of the tree.
+Cross the bridge. In a dark spot is a hidden *Tiny Mushroom*. Cross the next bridge to get a hidden *Potion* at the base of the tree.
 
 Cross to the right for a battle.
 
@@ -633,7 +633,7 @@ Cross the bridge up to the left. You'll have to fight a Prism Nidorino.
 - Did you get my good side? (Melia +2)
 - Don't take pictures of me... (Melia -2)
 
-Grab a hidden *Red Shard* in the bottom left corner of this area, a hidden *Great Ball* on some sprouts above, and a hidden *TinyMushroom* in a rock on the right.
+Grab a hidden *Red Shard* in the bottom left corner of this area, a hidden *Great Ball* on some sprouts above, and a hidden *Tiny Mushroom* in a rock on the right.
 
 Follow the path through to the Silent Grove. Heal your team and talk to Melia.
 

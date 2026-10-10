@@ -106,7 +106,7 @@ Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to i
 
 Exit the ranch map in the bottom left to return to the first map of Route 7 from a different vantage point. Push a stone over the water to create a shortcut, then grab the *Ether* to the left. Enter the house barred by the cut tree at the top to meet the PC manager.
 
-Down and left from his house is a secret cut tree - chop it down and go left onto a new map. You can battle on-map **Starly** here! Hidden on the map is a *Green Shard*, *BalmMushroom*, and *Red Shard*, plus:
+Down and left from his house is a secret cut tree - chop it down and go left onto a new map. You can battle on-map **Starly** here! Hidden on the map is a *Green Shard*, *Balm Mushroom*, and *Red Shard*, plus:
 
 **ZCell 097: Route 7**
 
@@ -124,7 +124,7 @@ Head left onto another map of Route 7. After seeing Florin and Flora for the fir
 
 !battle(["Flynn",:HIKER,0])
 
-Approach the bottom left corner. Behind a Geodude that you must *catch* is a hidden *Lax Mint*. To the left, grab the hidden *TinyMushroom*. Keep in mind that the Darchlight Woods are beyond this area; we will enter later.
+Approach the bottom left corner. Behind a Geodude that you must *catch* is a hidden *Lax Mint*. To the left, grab the hidden *Tiny Mushroom*. Keep in mind that the Darchlight Woods are beyond this area; we will enter later.
 
 Backtrack up and head to the right from the hiker. You can spend time with Melia here.
 
@@ -208,7 +208,7 @@ Return to the large, hilly map of Route 7 and enter the Darchlight Woods in the 
 
 Catch a second Shroomish for a trade later.
 
-Grab the hidden *TinyMushroom* and *Big Mushroom*. Talk to a person above for *TM149 Draining Kiss*! In the top left corner, you can fight the next Gimmighoul and get *100 Gimmighoul Coins*! Continue up from here and talk with Florin.
+Grab the hidden *Tiny Mushroom* and *Big Mushroom*. Talk to a person above for *TM149 Draining Kiss*! In the top left corner, you can fight the next Gimmighoul and get *100 Gimmighoul Coins*! Continue up from here and talk with Florin.
 
 **Relationship Point Choices**:
 - You know a lot about this! (+2 Florin)
@@ -217,7 +217,7 @@ Grab the hidden *TinyMushroom* and *Big Mushroom*. Talk to a person above for *T
 
 You can talk to **Impidimp** to catch it!
 
-On this map, you can get hidden *Ether*, *Dark Gem*, *Reverse Candy*, and *TinyMushroom*. Get *TM95 Snarl* across the water.
+On this map, you can get hidden *Ether*, *Dark Gem*, *Reverse Candy*, and *Tiny Mushroom*. Get *TM95 Snarl* across the water.
 
 **ZCell 099: Darchlight Woods**
 
@@ -229,7 +229,7 @@ Head down and to the west, across the bridge.
 
 !battle(["Mary",:FAIRYGIRL,0], "Bewitched Field")
 
-Grab the hidden *TinyMushroom* on the water.
+Grab the hidden *Tiny Mushroom* on the water.
 
 !battle(["Bella",:FAIRYGIRL,0], "Bewitched Field")
 
@@ -237,7 +237,7 @@ Activate a Braviary Post to the left. Grab the hidden *Watmel Berry*, then head 
 
 Grab the *Big Mushroom*. Surf to the left to obtain the *Bewitched Woods Field Readout*! In the top left of this map is a *Carbos*. Go north from here onto a new map. 
 
-You'll find a hidden *Big Mushroom*, *Blue Shard*, and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *TinyMushroom*. Head through the gate and proceed.
+You'll find a hidden *Big Mushroom*, *Blue Shard*, and *HP Up*, plus *TM18 Rain Dance*! A map above contains a hidden *Tiny Mushroom*. Head through the gate and proceed.
 
 ### Darchlight Caves
 
