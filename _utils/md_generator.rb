@@ -20,7 +20,7 @@ def generate_md_text(game = 'reborn', scripts_dir)
   def generate_toc_contents(game)
     toc = ''
     ['main', 'para', 'rene', 'post', 'appendices'].each do |chapter_type|
-      chapter_num = 1
+      chapter_num = ['para', 'rene'].include?(chapter_type) ? 15 : 1
       loop do
         raw_md = load_chapter_md(game, chapter_type, chapter_num)
         break if !raw_md
@@ -109,7 +109,7 @@ def generate_md_text(game = 'reborn', scripts_dir)
   
   chapters = []
   ['main', 'para', 'rene', 'post', 'appendices'].each do |chapter_type|
-    chapter_num = 1
+    chapter_num = ['para', 'rene'].include?(chapter_type) ? 15 : 1
     loop do
       curr = generate_chapter_contents(game, scripts_dir, chapter_type, chapter_num, func_wrapper)
       break if !curr
