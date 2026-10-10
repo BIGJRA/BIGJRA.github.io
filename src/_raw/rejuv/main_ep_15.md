@@ -1217,7 +1217,7 @@ You'll be able to capture **Shaymin** above! Before leaving, grab the *Choice Sp
 
 Return to Gearen Lab and talk to Adrienn, who will give us the *Reborn Flower*! This can be used on a Floette to get **Florges (Reborn)**! That concludes *Parks and Wrecks*!
 
-## Missing Children 3
+### Missing Children 3
 
 One major quest remains, available on both routes. Fly over to Kristiline Town and enter Dylan's house if you have progressed *Missing Children* up to this point.
 
