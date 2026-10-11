@@ -340,6 +340,13 @@ Return to the present. There's one more NG+ perk we can now access. If you compl
 
 [Jump Back](#legendary-wings)
 
+### Chapter 15 NG+ Part 2
+
+If you completed Sandy's extra New Game+ battle way back in Chapter 1, you can talk to Adrienn after completing Parks and Wrecks. They are in the back room of the Gearen Lab. Adrienn will free Sandy, and offer you a trade of your Gligar for their Floette. Nothing particularly special about this Floette, though you can use the Reborn Flower on it.
+
+[Jump Back](#missing-children-3)
+
+
 ## Complete the V13.5 Dex
 
 At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:
