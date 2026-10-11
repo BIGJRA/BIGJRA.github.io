@@ -1268,10 +1268,6 @@ Enter Dylan's house, then Peony's, then Particia's (downstairs).
 - I wanted to check in! => Peony sent me. (Neutral)
 - I wanted to check in! => It's true! Peony also sent me (+3 Particia)
 
-Finally, return to Dylan's house. On the table is *5 EV Boosters*, the *Gyaradosite*, and **Deino**! That's it for *Missing Children*!
+Finally, return to Dylan's house. On the table is *5 EV Boosters*, the *Gyaradosite*, and **Deino**, which is holding a *Choice Band*! That's it for *Missing Children*!
 
-From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm. 
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>
+From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm.

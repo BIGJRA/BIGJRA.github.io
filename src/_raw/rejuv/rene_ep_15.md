@@ -1,4 +1,4 @@
-# .Karma Files (Renegade)
+# .Karma Files Renegade
 
 Return to the Obelisk and reenter Zeight. Back in Grand Dream City, enter the penthouse and talk to M2 on the top floor. Accept the request of M2 to join Venam in Grand Dream City.
 

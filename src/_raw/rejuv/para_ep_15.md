@@ -1,4 +1,4 @@
-# .Karma Files (Paragon)
+# .Karma Files Paragon
 
 ## Lake Spirits Quest
 
@@ -18,9 +18,31 @@ Finally, fly over to Yui's Ranch and take a Braviary to Honec Woods. Exit Honec 
 
 There is one more major quest that we can do only on the Paragon Route.
 
-Time for a big one! Enter Rhodea's Penthouse in Grand Dream City. There is a flier on the table about something going on at Pokestar Studios! Read this flier then head over there by exiting the complex and walking left. Head in to the theater on the right and follow Mr. Dyre Rektor...
+Time for a big one! Enter Rhodea's Penthouse in Grand Dream City. There is a flier on the table about something going on at Pokestar Studios! Read this flier then head over there by exiting the complex and walking left. 
 
-Watch the film he shows, then head west outside to his office building and talk to him in the rightmost room. Accept the fast travel home and talk to the briefcase to get started. Return to the studio again and agree to start with Aelita in the lobby. Inside, you'll get the jist of how this sidequest goes: talk to your co-actors, direct from the chair, etc. Make sure you talk to all the co-actors and crew as well as attempt to enter the bathroom between every shoot to get maximal rewards. Talk to the chair to begin filming the first part of the movie!
+Head in to the theater on the right and follow Mr. Dyre Rektor... Watch the film he shows, then outside, head west into the building to his office building and talk to the guard to enter. Talk to Dyre in the rightmost room. Accept the fast travel home and talk to the briefcase to get started. 
+
+**Relationship Point Choices**:
+- C'mon, let's hear it. (Neutral)
+- Say it or I'll scream. (Neutral)
+- What's the Sinistea? (+2 Aelita, +1 Venam)
+
+**Relationship Point Choices**:
+- Gotcha. (Neutral)
+- I'll do my best! (Neutral)
+- Uh... No promises. (-2 Erin)
+
+Return to the studio again and agree to start with Aelita in the lobby. Inside, you'll get the jist of how this sidequest goes: talk to your co-actors, direct from the chair, etc. Make sure you talk to all the co-actors and crew as well as attempt to enter the bathroom between every shoot to get maximal rewards.
+
+**Relationship Point Choices**:
+- Talk to Melia, and say "I remember!" (+2 Melia)
+- Talk to Melia, and say "Uh... Did you?" (Neutral)
+
+**Relationship Point Choices**:
+- Talk to Venam, and say "Come on, it'll be fun!" (+1 Venam)
+- Talk to Venam, and say "Have some faith in yourself." (+2 Venam)
+
+Talk to the chair to begin filming the first part of the movie!
 
 ### Recording Session 1
 
@@ -88,7 +110,7 @@ You'll get a *Revive* from him and find a *Super Potion* above. Pick up the gold
 
 You can count on Wynn using Rock Blast while being sensible with your own team to win this fight.
 
-While you're back in the studio, talk to the Director's chair one more time to see a scene outside. Back inside, if you've been talking to the cast throughout the quest, talk to Kai to get a *Thank-You Card*.
+While you're back in the studio, talk to the Director's chair one more time to see a scene outside. Back inside, if you've been talking to the cast throughout the quest, talk to Kai to get a *Thank-You Card*. Hop back in the chair.
 
 ### Recording Session 3
 
@@ -152,8 +174,6 @@ Head to the Gearen Lab and enter the Developer Area. Downstairs, Zumi will give 
 
 For defeating all three, you will get the *Rillaboomite*, *Cinderacite*, and *Inteleonite*! 
 
-
-
 ## Continuing .Karma Files (Paragon)
 
 Once you're back at the Obelisk, reenter. Grant Melia access. You'll awaken in Zeight on the 8th. Make your way back to Sashila and talk to Erin to accept travel to Mika's Coffee.
@@ -170,7 +190,9 @@ Learn how everyone is feeling.
 - It's not fair. (+1 Crescent)
 - I'm sorry. (Neutral)
 
-In the Somniam Mall, you'll get the ninth *Somniam Mall Stamp*! Why thank you, Crescent. Sadly, nine stamps is the maximum we can get in V13.5. Someday we'll be able to enter Goocci. Someday.
+In the Somniam Mall, you'll get the ninth *Somniam Mall Stamp*! Why thank you, Crescent. Sadly, nine stamps is the maximum we can get in V13.5. Someday we'll be able to enter Goocci. Someday. That said, we can now buy more TMs:
+
+!shop("Somniam Mall TMs & HMs 2", [["TM04 Calm Mind", 15000], ["TM06 Toxic", 30000], ["TM52 Focus Blast", 55000], ["TM14 Blizzard", 100000], ["TM25 Thunder", 100000], ["TM38 Fire Blast", 100000], ["TM15 Hyper Beam", 75000]])
 
 Talk to Melia on the left side of the mall.
 
@@ -283,7 +305,7 @@ Upstairs, we will be having a 6v6 tag battle!
 - They're just coping. (+2 Aelita)
 - Sore losers, both of em... (Neutral)
 
-Attempt to head outside and you will talk to Crawli, then fly over to Jynnobi pass and head up to Route 6. Enter the first battleship, then go down the ladder when prompted.
+Attempt to head outside and you will talk to Crawli, then fly over to Jynnobi Pass and head up to Route 6. Enter the first battleship, then go down the ladder when prompted.
 
 !battle(["Officia",:XENANALYST_F,0], "Short-Circuit Field")
 
@@ -352,7 +374,7 @@ Finally, in the top left of Alamissa if Karen is alive is Entei.
 
 Break all the shields to catch **Entei**!
 
-Catching all three wraps this section!
+Catching all three and returning to the center wraps this section!
 
 ### .Karma Files: Erin & Aelita
 
@@ -435,4 +457,4 @@ After reading the files, head up at the Zorrialyn Coast.
 - Is this really okay? (-2 Crescent)
 - It was a good idea. (+1 Crescent)
 
-That is a wrap on the .Karma Files content for the Paragon Route :]
+Return to the League Administration in Sashila and take a snooze!
