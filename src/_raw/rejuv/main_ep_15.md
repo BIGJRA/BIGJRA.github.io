@@ -1217,6 +1217,8 @@ You'll be able to capture **Shaymin** above! Before leaving, grab the *Choice Sp
 
 Return to Gearen Lab and talk to Adrienn, who will give us the *Reborn Flower*! This can be used on a Floette to get **Florges (Reborn)**! That concludes *Parks and Wrecks*!
 
+[New Game+ Content](#chapter-15-ng-part-2)
+
 ### Missing Children 3
 
 One major quest remains, available on both routes. Fly over to Kristiline Town and enter Dylan's house if you have progressed *Missing Children* up to this point.
@@ -1268,10 +1270,6 @@ Enter Dylan's house, then Peony's, then Particia's (downstairs).
 - I wanted to check in! => Peony sent me. (Neutral)
 - I wanted to check in! => It's true! Peony also sent me (+3 Particia)
 
-Finally, return to Dylan's house. On the table is *5 EV Boosters*, the *Gyaradosite*, and **Deino**! That's it for *Missing Children*!
+Finally, return to Dylan's house. On the table is *5 EV Boosters*, the *Gyaradosite*, and **Deino**, which is holding a *Choice Band*! That's it for *Missing Children*!
 
-From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm. 
-
-<hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point.
-<hr/>
+From here, the game ultimately splits *completely* into two different paths, the [Paragon Route](#karma-files-paragon) by default and the [Renegade Route](#karma-files-renegade) if you opted in to Kieran and Clear's plan to destroy the world in your Nightmare Realm.
