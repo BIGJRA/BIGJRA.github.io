@@ -234,7 +234,7 @@ class TrainerGetter
       end
 
       # Handles display of SOS Mons for full-boss fights
-      if mon[:sos]
+      if mon[:sos] and boss_data[:sosDetails]
         oper, shields = boss_data[:sosDetails][:activationRequirement].split(" ").slice(1,2)
         refresh = boss_data[:sosDetails][:refreshingRequirement]
         cont = boss_data[:sosDetails][:continuous] != nil

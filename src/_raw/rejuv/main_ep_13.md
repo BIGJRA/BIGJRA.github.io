@@ -936,7 +936,9 @@ This brings the Forest Restoration to Phase 2. Hidden on this version of the map
 
 **ZCell 122: Goldenwood Forest (Phase 2)**
 
-!img("zcell122.png")
+!img("zcell122.png") 
+
+TODO: this one is gone, take it back out.
 
 For the next phase, we're gonna need $58000, 1 Architect, and 3 Fishermen. Submit the money.
 
