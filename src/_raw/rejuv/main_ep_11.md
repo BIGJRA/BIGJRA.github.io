@@ -12,9 +12,9 @@ Grand Dream City has a ton of different NPCs and events depending on the time of
 
 Enter the Dream Hotel to the left. This is actually a copy of the daycare in Sheridan, so you can breed Pokemon here.
 
-**ZCell 104: Dream District**
+**ZCell 105: Dream District**
 
-!img("zcell104.png")
+!img("zcell105.png")
 
 Head down from here.
 
@@ -56,9 +56,9 @@ Head outside and go down.
 
 !battle(["Andy",:OFFICER,0], "City Field")
 
-**ZCell 105: Judicial District**
+**ZCell 106: Judicial District**
 
-!img("zcell105.png")
+!img("zcell106.png")
 
 Enter the house in the bottom left corner to begin the *Wall of Shame* quest. There isn't anything to do in most of the other buildings for now, so make your way to the top left of the area.
 
@@ -120,17 +120,17 @@ Enter the Botanical Garden at the top.
 
 Hidden here is a *Lum Berry*, *Liechi Berry*, and *2 Revives*. You can catch the **Petilil** in this area. Towards the top of the map:
 
-**ZCell 106: Botanical Garden**
+**ZCell 107: Botanical Garden**
 
-!img("zcell106.png")
+!img("zcell107.png")
 
 On the left side of the map, there is a path that takes you up and left. Grab the hidden *Sitrus Berry*.
 
 !battle(["Nana",:LASS,0], "Flower Garden Field")
 
-**ZCell 107: Botanical Garden**
+**ZCell 108: Botanical Garden**
 
-!img("zcell107.png")
+!img("zcell108.png")
 
 There is a hidden *Pecha Berry* beyond. That's all we can do in the Botanical Garden.
 
@@ -429,9 +429,9 @@ Return to the penthouse.
 
 While we're here, head outside to the balcony at the bottom.
 
-**ZCell 108: Dream Complex**
+**ZCell 109: Dream Complex**
 
-!img("zcell108.png")
+!img("zcell109.png")
 
 Go to sleep. When you wake up, talk to Melia on the couch.
 

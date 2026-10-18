@@ -584,9 +584,9 @@ Head up to Akuwa Town.
 
 There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. Grab *TM135 Brine* and hidden *Blast Powder* on the islands. 
 
-**ZCell TODO: Akuwa Town**
+**ZCell 052: Akuwa Town**
 
-!img("zcellnew001.png")
+!img("zcell052.png")
 
 Surf east to reach Route 11.
 
@@ -600,9 +600,9 @@ Beat the grunt, and you'll be engaged in battle with a level 40 **Jynx**!
 
 Go to the southwest.
 
-**ZCell 052: Route 11**
+**ZCell 053: Route 11**
 
-!img("zcell052.png")
+!img("zcell053.png")
 
 Starting to the southwest and going north, use your itemfinder on the islands to find *HP Up*, *Adamant Mint*, *Red Shard*, and *Blue Shard*. 
 
@@ -614,9 +614,9 @@ Continue heading up, picking up hidden *Jolly Mint*. Pick up the *Ether* to the 
 
 Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the island south of here, you'll find:
 
-**ZCell 053: Route 11**
+**ZCell 054: Route 11**
 
-!img("zcell053.png")
+!img("zcell054.png")
 
 Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
@@ -640,9 +640,9 @@ Heal at Nana's house again, then enter the cave to the right.
 
 Use the Fire move in battle, then surf across. Exit at the southeast to get:
 
-**ZCell 054: Evergreen Island**
+**ZCell 055 Evergreen Island**
 
-!img("zcell054.png")
+!img("zcell055.png")
 
 Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. 
 
@@ -731,9 +731,9 @@ Back in the hub, take the lift down.
 
 Shouldn't be too terrible. Watch out for the boosted Water moves and speed penalties. Pick up *TM106 Irritation* to the left, plus:
 
-**ZCell 055: Kakori Depths**
+**ZCell 056: Kakori Depths**
 
-!img("zcell055.png")
+!img("zcell056.png")
 
 !battle(["Crawli",:LEADER_CRAWLI,0], "Swamp Field")
 

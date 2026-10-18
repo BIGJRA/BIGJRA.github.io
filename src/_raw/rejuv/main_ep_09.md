@@ -30,17 +30,17 @@ If you typed "Forest", when you go inside:
 
 !enc(118, nil, ["Old", "Good"])
 
-**ZCell 089: Forest of Time**
+**ZCell 090: Forest of Time**
 
-!img("zcell089.png")
+!img("zcell090.png")
 
 In this lower area there is also a hidden *Calcium* and *Reverse Candy*.
 
 Head up and surf to the left.
 
-**ZCell 090: Forest of Time**
+**ZCell 091: Forest of Time**
 
-!img("zcell090.png")
+!img("zcell091.png")
 
 Surf to the right, then rock climb down to get *TM40 Aerial Ace*!
 
@@ -283,9 +283,9 @@ Melia as a partner is fairly helpful. Her Snorlax is a good lead that takes a wh
 
 Once we regain control, head back down into the sewers, where we can now get:
 
-**ZCell 091: West Gearen Sewers**
+**ZCell 092: West Gearen Sewers**
 
-!img("zcell091.png")
+!img("zcell092.png")
 
 Head to the left, near the first scientist you see. You can enter a door here and lower the water level here with a machine. Grab the hidden *Toxic Orb*, defeat the Muk in the way, push three pipes into place, raise the water level in the center, and talk to the machine at the top to get the *Murkwater Field Readout*!
 
@@ -301,9 +301,9 @@ Head down from the factory and go left.
 
 !battle(["Nathanial",:YOUNGSTER,0], "City Field")
 
-**ZCell 092: West Gearen City**
+**ZCell 093: West Gearen City**
 
-!img("zcell092.png")
+!img("zcell093.png")
 
 Use your Itemfinder to find a *Rose Incense* and *Lemonade*. You'll also find Tyreese for the *Lost Souls* quest, so send him to the Lost Camp!
 
@@ -311,9 +311,9 @@ Head south into the city proper.
 
 Shadows on the ground indicate battles with wild Pokemon encounters - **Magnemite**, **Magneton**, **Lokix**, **Revavroom**, **Morpeko**, Meowth, and **Klang** all randomly picked with equal chance.
 
-**ZCell 093: West Gearen City**
+**ZCell 094: West Gearen City**
 
-!img("zcell093.png")
+!img("zcell094.png")
 
 In the top left corner, you'll find *TM21 Frustration*. Hidden is a *Dusk Stone*, *Float Stone*, *Yellow Shard*, *Telluric Seed*, *Red Shard*, 2 *Max Repels*, *Green Shard*, *Gourmet Treat*, *Muscle Feather*, *Zinc*. A guy on the roof will trade you *Protective Pads* for three Absorb Bulbs. There's a woman selling *Blast Powder* for $25000. It's pretty expensive, but these *are* hard to come by right now.
 
@@ -349,9 +349,9 @@ It is worth noting that the other two crests now become available for purchase a
 
 Head outside and enter the Junction Bridge on the east side.
 
-**ZCell 094: Junction Bridge**
+**ZCell 095: Junction Bridge**
 
-!img("zcell094.png")
+!img("zcell095.png")
 
 Head over to East Gearen City from here. A store has new wares:
 

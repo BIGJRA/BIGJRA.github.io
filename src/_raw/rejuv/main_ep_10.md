@@ -88,9 +88,9 @@ Enter the ranch area to the right and pick up the hidden *Yellow Shard*.
 
 Grab the hidden *Moomoo Milk*, *Belue Berry*, and *Max Repel* to the right. Up from here is a hidden *Red Shard*, *Elemental Seed*, and *Pecha Berry*. Plus:
 
-**ZCell 095: Yui's Ranch**
+**ZCell 096: Yui's Ranch**
 
-!img("zcell095.png")
+!img("zcell096.png")
 
 Enter the northern barn on the ranch. You can find a hidden *Oran Berry*, *Stable Mulch*, *Sitrus Berry*, and *Moomoo Milk*. Next, enter the larger barn below. You can find hidden *Stable Mulch*, *Moomoo Milk* in the first room and then another hidden *Moomoo Milk* plus a *Revive* in the left room. Feed this **Miltank** eight Sitrus Berries for a chance to catch it.
 
@@ -98,9 +98,9 @@ If you completed all of the Kristiline Help Quests, there is a new quest we can 
 
 Head north from the ranch onto the Grand Bridge map. After the chat, reenter the map and grab *TM123 Self Destruct* on the right, and on the left a hidden *Durin Berry* plus:
 
-**ZCell 096: Grand Bridge**
+**ZCell 097: Grand Bridge**
 
-!img("zcell096.png")
+!img("zcell097.png")
 
 Head back down to the Yui's Ranch area. You'll see a wooden post here: talk to it to activate it. This is the first Braviary Post, which will allow us to fly around Terrial Island like Floria's Truck Guy and Terajuma's Noctowl statues.
 
@@ -108,9 +108,9 @@ Exit the ranch map in the bottom left to return to the first map of Route 7 from
 
 Down and left from his house is a secret cut tree - chop it down and go left onto a new map. You can battle on-map **Starly** here! Hidden on the map is a *Green Shard*, *Balm Mushroom*, and *Red Shard*, plus:
 
-**ZCell 097: Route 7**
+**ZCell 098: Route 7**
 
-!img("zcell097.png")
+!img("zcell098.png")
 
 Head inside the trailer. Sleep on the bed to see a familiar face? Anyways, grab the *Buginium Z* here and return to the previous map.
 
@@ -148,9 +148,9 @@ Go up to pick berries: *18 Sitrus Berries*, *18 Oran Berries*, and *3 Persim Ber
 
 To the left:
 
-**ZCell 098: Route 7**
+**ZCell 099: Route 7**
 
-!img("zcell098.png")
+!img("zcell099.png")
 
 Enter the Milk Bar.
 
@@ -219,9 +219,9 @@ You can talk to **Impidimp** to catch it!
 
 On this map, you can get hidden *Ether*, *Dark Gem*, *Reverse Candy*, and *Tiny Mushroom*. Get *TM95 Snarl* across the water.
 
-**ZCell 099: Darchlight Woods**
+**ZCell 100: Darchlight Woods**
 
-!img("zcell099.png")
+!img("zcell100.png")
 
 Talk to a blue tree on the right side of the map: Florin will cut it. Talk next to a tree on the hill at the left side of the map. Return to the previous map.
 
@@ -443,9 +443,9 @@ Before we continue, we can make a quick trip to Darchlight Caves. By taking Brav
 
 Backtrack to the caves below. Make sure the cave is dark, then proceed to the left. You can find to catch **Bronzor (Aevian)**! Continue backtracking to reach **Wobbuffet** and **Wynaut** as well as *TM23 Smack Down*. Plus, you can find:
 
-**ZCell 100: Darchlight Cave**
+**ZCell 101: Darchlight Cave**
 
-!img("zcell100.png")
+!img("zcell101.png")
 
 You can take the lift at the top of the Decompression Lab to escape to Honec Woods.
 
@@ -499,21 +499,21 @@ Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the bo
 
 Enter the room on the right, and grab the *Cabinet Key* from the cabinet at the top. Go left then into the top right room to talk to Clefairy in this cabinet. Enter the dining room downstairs to find Clefairy again... then follow it to the topleft room in the building. Interact with the left painting and enter the fireplace. Pick up the *Sablenite*, *Gate Key*, *TM12 Taunt*, and: 
 
-**ZCell 101: Darchlight Manor**
-
-!img("zcell101.png")
-
-Talk to Clefairy at the top of the entry stairs, then push the boulder down. In the next room, grab the *Old Gateau* and *Chipped Pot*. Exit left to get *Dread Plate* plus:
-
 **ZCell 102: Darchlight Manor**
 
 !img("zcell102.png")
 
-Interact with the notebook, then exit above. Outside at the top, grab hidden *Ether*, *Purple Nectar* (repeatable), and *Tiny Mushroom*. Grab *TM114 Leech Life* plus
+Talk to Clefairy at the top of the entry stairs, then push the boulder down. In the next room, grab the *Old Gateau* and *Chipped Pot*. Exit left to get *Dread Plate* plus:
 
 **ZCell 103: Darchlight Manor**
 
 !img("zcell103.png")
+
+Interact with the notebook, then exit above. Outside at the top, grab hidden *Ether*, *Purple Nectar* (repeatable), and *Tiny Mushroom*. Grab *TM114 Leech Life* plus
+
+**ZCell 104: Darchlight Manor**
+
+!img("zcell104.png")
 
 Pull up the rope at the top, then talk to the doll to get a *Light Ball*. 
 

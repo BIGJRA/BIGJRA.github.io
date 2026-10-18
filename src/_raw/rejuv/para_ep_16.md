@@ -170,7 +170,7 @@ Head north into Central Square X. Through the west building, you can talk to the
 
 Head up through the building to the left.
 
-!dbattle(["Eli and Sharon", :FORTUNATEWINGS, 0], "City Field")
+!battle(["Eli and Sharon", :FORTUNATEWINGS, 0], "City Field")
 
 Win to get the *Xen Emblem*. **Eli and Sharon will join the team**. Accept the fast travel and talk to the group that is here. **Kanon will join the team**, and we will unlock the "Analysis" ability. 
 
@@ -218,9 +218,9 @@ To the left of the Pokemon Center is another car we can remove, and a Stalker be
 
 **Odessa will join the team** and you will **save lives**. Back outside on the left:
 
-**ZCell xxx: Dream District X**
+**ZCell 143: Dream District X**
 
-!img("zcellnew002.png")
+!img("zcell143.png")
 
 Head up from here. You can recruit a Snorunt for a battle if you want, it will be one of these:
 
@@ -242,9 +242,9 @@ Go up to fight a cop, with a familiar team!
 
 Enter the Dream Complex and talk to Aelita inside. Next, enter the Grand Station to the east and talk to Rhodea. At the top:
 
-**ZCell xxx: Dream District X**
+**ZCell 144: Dream District X**
 
-!img("zcellnew003.png")
+!img("zcell144.png")
 
 ### Curse of the Xenpurgis
 
