@@ -212,7 +212,7 @@ Eli and Sharon can help us remove car obstacles. Move the red car below to enter
 
 !partner(["Dragon's Den", :POKEHORDE, 0])
 
-To the left of the Pokemon Center is another car we can remove, and a Stalker beyond. Enter the SPU building beyond. A *Cache Key* can be found inside.
+To the left of the Pokemon Center is another car we can remove, and a Stalker beyond. Enter the SPU building beyond. A *Cache Key* can be found inside. You can use these to open caches all around the city. We will later have enough to open all caches, so for now, save them for the important caches I will point you to.
 
 !dbattle(["Joey", :XENGRUNT_M, 0], ["Aloa", :XENGRUNT_F, 0])
 
@@ -238,13 +238,174 @@ Go up to fight a cop, with a familiar team!
 - You the man, Crawli. (+2 Crawli)
 - Shh... Not so loud. (Neutral)
 
-**Crawli will join the team**, and you will now have the power to cut through wooden barriers. **Group Strength will reach Level 2**!
+**Crawli will join the team**, and you will now have the power to cut through wooden barriers. **Group Strength will reach Level 2**! Defeat the Sentry to the east.
 
 Enter the Dream Complex and talk to Aelita inside. Next, enter the Grand Station to the east and talk to Rhodea. At the top:
 
 **ZCell 144: Dream District X**
 
 !img("zcell144.png")
+
+Supply some electricity via a Pokemon of the type, then head down the top right stairs. Talk to Ren, Huey, Reina, then Lavender. We can't do anything else here for now, so return to the surface.
+
+We can go a few different paths from here. I'll take us to the west, past Pokestar Studios.
+
+### Judicial District X
+
+**Goomink and Goomelda will join the team**. There are three large dirt patches on the map. Every 30 seconds a tower will emerge - it is up to you to go to the other two spots and infiltrate with Goomink to destroy the Core inside each. If the third tower is up on the spot you haven't cleared, simply wait the 30 seconds for it to move elsewhere. After all three towers, head north to the final spot.
+
+**Venam and Amber will join the team**. We'll be able to more freely explore Judicial a bit more now. Talk to the Nurse and Truck Guy in the Pokemon Center. We'll help them out in a bit.
+
+A Shedinja here will call upon the Bug Battalion, Toxic Tamales, or this new team for 2 battles:
+
+!partner(["Ghastly Ghosties", :POKEHORDE, 0])
+
+In a house down from here, offer to have tea outside to **save lives**. Head east and talk to Officer Jenny at the station. Use the blocks below to reach another *Cache Key*!
+ 
+Return to Pokestar Studios, which is now open. On the south side of the bridge, talk to the Sashilan Warrior, then head north. Defeat a Sentry. In front of the studio building is a cache containing the medic kit - use your first Cache Key on this one to obtain it, then accept the fast travel back. Inside the Pokemon Center, defeat a Stalker. Outside, **Truck Guy and Piano Lady will join the team** and offer Braviary for fast travel.
+
+Return quickly to Pokestar Studios. This is the first of the four remote cores of the Xenpurgis. You will need to fight two now, and leave two to allies. We'll end up fighting all four bosses anyways, so it is up to you which you pick. Though, for consideration on this one:
+
+**Relationship Point Choices**:
+- Leave Pokestar Studios tower to allies (+4 Amber, +4 Venam, +4 Odessa)
+
+Regardless of if you take on the fight or not, head in and grab the *Code: Sapphie Rift Notes*.
+
+To fight, head up and carefully press the "A" key at the right moment to avoid chip damage, instead chipping the bosses:
+
+!boss("TWINDANCERS")
+
+!boss("TWINDANCERS_1")
+
+This pair of bosses isn't particularly tanky, but they are fast and hit hard enough that you can easily be worn down. Speed Control such as trick room and strong spread moves are likely the key here.
+
+### District of Hope X
+
+Make your way north from Judicial District into the District of Hope. Use Crawli's power to enter the Carmicle residence. In the basement is Mosely's father.
+
+**Relationship Point Choices**:
+- It's okay to feel sad. (+2 Mosely)
+- Are you okay? (+1 Mosely)
+- We should go. (Neutral)
+
+Enter the opposite residence to meet up with Looker and Anabel. We can't proceed further here. Outside, go west. If you've put out enough fires, **Ryland will join the team**, **Group Strength will reach Level 3**. You'll get the ability to simply open any cache and also get the *Jewel of Life*!
+
+Head up at the cemetery area in the center of town. Tesla will give you a *Strawberry Cake*, *Rose Tea*, *Herbal Tea*, and *Razz Berry Tart*. Pick up another *Cache Key* then head in.
+
+!battle(["Dennis", :XENGRUNT_M, 0], "Haunted Field")
+
+!battle(["Zackary", :XENGRUNT_M, 0], "Haunted Field")
+
+!battle(["Jedah", :XENGRUNT_F, 0], "Haunted Field")
+
+There is a secret scene that will open up in the basement, but we cannot view it quite yet. Back upstairs, you can now open another of the towers!
+
+Whether or not you do the battle, you can head in and grab the *Code: Firma Rift Notes*. Mash A to get to the boss.
+
+!boss("EARTHSHATTERER")
+
+Shouldn't be too tough of a boss if you have better tanks and/or field synergy.
+
+**Tesla, Regina, Matthew, Chastity, Sienna will all join the team**.
+
+In backtracking, we can now open all of the remaining caches we've passed by. West of the Judicial District Pokemon Center is one containing *5 Gourmet Treats*, *4 Full Restores*, and *5 Ultra Balls*. Down from here, across a block path, is *10 Exp. Candies XL* and *2 Focus Bands*. In the bottom right corner, cross more blocks to get *10 Exp. Candies XL*, an *EV Tuner*, and *5 Red Shards*.
+
+There are two in Pokestar Studios. The top left one contains an *Ability Capsule*, and the top right one contains *5 Proteins*, *5 Carbos*, and *3 Gourmet Treats*. Dream District also has a few. West of the Route 7 gate is one with *3 Full Restores* and *5 Full Heals*. A park on the east side contains a prank cache, but below it is a real one with *2 EV Boosters* and *2 Max Revives*. Slightly northeast is another with an *EV Booster*.
+
+Return to Rhodea in the train station and clear the Level 3 rubble on the east side.
+
+**Relationship Point Choices**:
+- Turn on the power and clear the rubble, then talk to Rhodea. (+5 Rhodea)
+
+**Rhodea will join the team**. Anyways, there's a cache to the north in Central Square X, containing *5 Revives* and *10 Moomoo Milks*. Head west through the building and use Crawli's skill to reach one more cache. Thanks to Cobalion, you can get the *Ship Part*, *2 EV Tuners*, and *Revive*.
+
+That wraps up what we can do in the western portion of the city, so return to the area near Amanda in the Dream District, and clear the rubble. Recruit a temporary Pokemon ally if you wish, then enter the Night Market.
+
+### Night Market X
+
+!battle(["Squad 02", :XENHORDE, 1])
+
+Once you win this, go head through the night market. You'll have to defeat a Stalker to **save lives** and get a *Cache Key*. Enter the cafe to the left to meet some new characters. On the left is a Musharna you can recruit for 2 battles, one of these:
+
+!partner(["Dark Dillydallies", :POKEHORDE, 0])
+
+!partner(["Psychic Sillies", :POKEHORDE, 0])
+
+!partner(["Fairly Fair", :POKEHORDE, 0])
+
+There is a prank cache to the left. Down from here you can save Ben by defeating two Stalkers.
+
+**Ben and Beth will join the team**, and open up shops to the south.
+
+!shop("Ben & Beth", [["5x Magic Moomoo Milk", 3500], "Cache Key", "Fresh Water", "Lemonade", "Full Heal", "Hyper Potion", "Ultra Potion", "Revive"])
+
+Proceed north out of the Night Market.
+
+### Somniam Mall X
+
+Hey look, a hidden *Red Shard*! Anyways, push through the street to the west, smashing rocks and pushing boulders. Hold C when the lasers are getting close to firing.
+
+!dbattle(["Nelli", :XENANALYST_F, 0], ["Gelli", :XENANALYST_M, 0], "City Field")
+
+Let Goomink deliver the final blow to the tank. The cache on the street is a prank. Make your way east and talk to Novae near the boat. Give them the Ship Part, and **Novae will join the team**, plus **Group Strength will reach Level 4**.
+
+Talk to Texen near where the mall used to be. You can recruit Virizion for three battles, as well:
+
+!partner(["Virizion's Whir-less", :POKEHORDE, 0])
+
+Talk to Erin near the pile of garbage. **Garbodor will join the team**. Enter the door and use the teleporter.
+
+### The Underground X
+
+A hidden *Blue Shard* is left.
+
+!battle(["Mechanisms", :DEFENSEMECH, 10], "Back Alley")
+
+You'll get the *Xen-Tram Key*. **Particia will join the team**. Pickup the hidden *Blast Powder* and *Elixir*. There is a shop inside the nearby building.
+
+!shop("Underground X", ["Full Restore", "Max Potion", "Ultra Potion", "Revive", "Exp. Candy XL"])
+
+Beyond is 2 *Cache Keys*, a *Max Revive*, and hidden *Green Shard*. Retreat to the surface.
+
+Return to the tram in the station where Lavender is and give her the key, then head down to the arena. There's a hidden *Exp. Candy XL* and *Focus Band*. A *Punching Glove* is in a building here. 
+
+Pick up the *Code: Dos Rift Notes*. Choose whether or not you will take on the rift yourself, or let the allies take this one! If you fight, be careful during the quick-time events.
+
+!boss("CHITWO", "Colosseum Field")
+
+This boss flip flops between powerful physical and special offense, making it hard to tank. Special effects can still wear it down, and stat drops past the first shield break are a good idea. 
+
+After winning, Ren will give us the *Greninjite*, then **Ren will join the team**. Grab a hidden *Blast Powder*, *Light Clay*, and *Exp. Candy XL*.
+
+Talk to Lavender, Huey, and Reina in the building here, then take the tram back to the surface.
+
+Talk to Aelita in the Dream Complex to **save lives**. **Aelita will join the team**.
+
+Make a quick trip back to the teleporter to the Underground. By Dylan's house, we can now see *Secret Scene: The Gambler's Fallacy*. 
+
+### Vienna Hill X
+
+Next, head north from the street where we took out the tank. Defeat a Stalker to **save lives**.
+
+Head up. Kieran will start zapping us with lightning. Not even Nurse Joy is safe! For now, just focus on progressing up the path and beating the grunts. Pause to heal off the battle damage and lightning when you need to with bag items.
+
+!battle(["Edwind", :XENANALYST_M, 0], "City Field")
+
+!battle(["Shiela", :XENGRUNT_F, 1], "City Field")
+
+!battle(["Joja", :XENMAGE_M, 0], "City Field")
+
+Navigate Ren back to the player. We can now explore this area a bit more. There's a hidden *Pecha Berry*, *Persim Berry* here, plus a *Cache Key* across the bridge. Enter this establishment.
+
+!battle(["Borlo", :XENGRUNT_M, 0], "City Field")
+
+**Karrina will join the team**! Grab the hidden *Eject Button* and *Bright Powder* then head out.
+
+Ignore the prank cache and head in to Mika's. A hidden *Rose Tea* and *Exp. Candy XL* are here. Talk to Cairo, then defeat the Stalker! **Cairo and Nurse Joy will join the team**! You also will get partial heals between fights, and can replenish at any Nurse.
+
+Outside, grab the hidden *Exp. Candy XL* and go up. Exit to the Scholar District.
+
+### Scholar District X
 
 ### Curse of the Xenpurgis
 
