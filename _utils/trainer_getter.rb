@@ -526,7 +526,11 @@ class TrainerGetter
             end
             if groups != {}
               groups.each do |lvl, indices|
-                statNames = indices.map { |idx| stats[idx] }
+                begin
+                  statNames = indices.map { |idx| stats[idx] }
+                rescue
+                  statNames = indices
+                end              
                 mon_details_parts.push("#{statNames.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end

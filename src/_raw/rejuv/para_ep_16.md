@@ -375,7 +375,7 @@ Pick up the *Code: Dos Rift Notes*. Choose whether or not you will take on the r
 
 This boss flip flops between powerful physical and special offense, making it hard to tank. Special effects can still wear it down, and stat drops past the first shield break are a good idea. 
 
-After winning, Ren will give us the *Greninjite*, then **Ren will join the team**. Grab a hidden *Blast Powder*, *Light Clay*, and *Exp. Candy XL*.
+After winning, if we have enough relationship points with him, Ren will give us the *Greninjite*, then **Ren will join the team**. Grab a hidden *Blast Powder*, *Light Clay*, and *Exp. Candy XL*.
 
 Talk to Lavender, Huey, and Reina in the building here, then take the tram back to the surface.
 
@@ -406,6 +406,104 @@ Ignore the prank cache and head in to Mika's. A hidden *Rose Tea* and *Exp. Cand
 Outside, grab the hidden *Exp. Candy XL* and go up. Exit to the Scholar District.
 
 ### Scholar District X
+
+Enter the house on the left and put out the flames. **Mildred Mcanny will join the team**! A *Cache Key* is to the left. At the top of the district, find a hidden *Blue Shard*. We can't open the threshold to Route 9 quite yet. Enter the Fan Club and enter the back room.
+
+!battle(["Marisa", :XENGRUNT_F, 0], "City Field")
+
+**Spector will join the team**. Enter the Blakeory Museum on the west side. You can take the *Family Portrait* back at the top, and open a cache containing a *Focus Sash*! Upstairs is a cache containing *Leftovers*. Continue into the next room.
+
+!battle(["Luis", :CUEBALL, 1], "City Field")
+
+**Vicente will join the team**.
+
+On the east side of the Scholar District, talk to Jenny. Try to chase the monster to the west. Lure it to the east side of the Plusle and Minun. Battle Cadarellia to the west!
+
+!boss("CADARELLIA", "City Field")
+
+It starts off Paralyzed but quickly gains back the Speed with Speed Boost. A little Sucker Punch can go a long way here. **Hazel, Kreiss, and Martin will join the team**. Open the gate to Route 9 to **save lives**. Talk to the news crew to the east, and **Jolene and Volta will join the team**.
+
+Take a Braviary over to the District of Hope. In the depths of the Catacombs, you can now view *Secret Scene: Not a Soul*.
+
+**Relationship Point Choices**:
+- Say Something -> Thanks, Venam. (+3 Ren, +4 Venam)
+- Say Something -> I could’ve done it better. (-2 Ren, -3 Venam)
+
+Back outside, enter Dr. Isha's house. We can now bust through the door. Read the books and talk to Anabel. Input "LXLV" into the computer.
+
+!battle(["Isha", :ISHADEV, 0], "Glitch Field")
+
+Read the book in the area beyond. **Looker and Anabel will join the team**! Back in the Scholar District, clear the boxes at the bottom. Enter the house, **save lives**, and defeat the Sentry. Continue south.
+
+### Botanical Garden X
+
+Pick up hidden *Revive*, *2 Green Shards*, *Telluric Seed*, *Mental Herb*, *Synthetic Seed*, and *4 Exp. Candies XL*. After chatting, continue right for a hidden *Ultra Potion*, *2 Green Shards*, *Big Root*, *Elemental Seed*, plus a *Cache Key*.
+
+Exit at the bottom to find a hidden *Exp. Candy XL* plus a *Cache Key*. Across the bridge is a hidden *Focus Sash*, a cache with *5 Zinc*, *5 Carbos*, and *5 Iron*. Talk to **Mimi and she will evacuate**.
+
+Back in the garden, enter the Greenhouse and grab the hidden *Leaf Stone*. You'll either have to fight or pass for a rift battle. You'll be able to get the *Code: Vinra Rift Notes* inside.
+
+!boss("KINGSOFAPPLES")
+
+A tough boss thanks to a ton of healing and field synergy, but it has no way to get rid of any of your applied debuffs or statuses, so you can pick a stat or two to deplete and go to town.
+
+**Relationship Point Choices**:
+- Choose to fight Kings of Apples, give it a treat (+4 Hazel)
+
+**Florin and Talon will join the team**. You can watch *Secret Scene: Master of the Garden* next.
+
+Take a moment to return to the Dream District, where, if you've recruited every single party member, then **Amanda will join the team**! **Group Strength is now MAX**. You'll also get the *Black Lantern*.
+
+A few secret scenes remain. *Secret Scene: Remnants of Gearen* is available on the west side of the Central Square map. *Secret Scene: All that Glitters is Gold* is nearby the Somniam Mall, and *Secret Scene: Memoir of a Bounty Hunter* is in the District of Hope.
+
+### Vs. Kieran & Clear
+
+Fly over to the Scholar District and enter the Dome Access Point.
+
+**Relationship Point Choices**:
+- Seriously, are you mad? (Neutral)
+- What is it?? (-2 Crescent)
+
+**Relationship Point Choices**:
+- Talk to me. (Neutral)
+- Well? (-3 Crescent)
+- What's wrong? (Neutral)
+
+Head up.
+
+!battle(["Kieran", :UNKNOWN_1, 0], "Electric Terrain")
+
+One more run against Kieran. Before you have a chance to do anything, Kieran will enable a speedy Mega Swampert and choose, after seeing your leads, which Pokemon he should send out alongside it. With the Future Paradox Pokemon benefitting from the Electric Terrain, Kieran can easily sweep with powerful attacks.
+
+Speed Control is absolutely key here, as his Pokemon lack priority. Tailwind, Blinding Speed, and Trick Room are all good picks. Make use of the common Ground weakness for half of his team.
+
+Kieran will go sicko mode! Approach the elevator above. 
+
+**Relationship Point Choices**:
+- Thanks, Kanon. (+3 Kanon)
+- Where are the others? (Neutral)
+
+Approach Kieran again. Execute Kanon's plan by using the right, left, and right terminals above. Approach the spire.
+
+Who will you destroy? *Vitus*, of course. And *Yes*, you will accept it. You will obtain the *Origin Essence (Zygarde)*! Head up to where Ren and Isha are.
+
+**Relationship Point Choices**:
+- Agreed. (+3 Ren)
+- I don't know... (-2 Ren)
+
+Head back down the elevator. Our next destination is the Boutique near the Pokemon Center in Dream District South. Once the concert starts, pull the lever in the room on the right and approach Risa.
+
+!battle(["Risa?", :CLEARISA, 0], "Concert Venue")
+
+In classic Clear fashion, this battle lies to you again. You'll need to listen to the *cries* of each Pokemon as you face them to ascertain the truth. Maybe worse is that the moves themselves will also be distorted, so figuring out what is going on here is most of the challenge. Past that, the Concert Venue has some rather good effects, such as letting certain abilities boost Speed on switch in plus a great Synthetic Seed effect, so getting a Clear-eyed sweep going is likely the way.
+
+Talk with Nim to progress.
+
+**Relationship Point Choices**:
+- It's okay, Nim. (-1 Nim)
+- I wish you spoke to me. (+2 Nim)
+
+Return to the Central Square and approach the tower.
 
 ### Curse of the Xenpurgis
 
