@@ -499,7 +499,7 @@ Enter the Ranger HQ at the top.
 
 !shop("Ranger HQ", ["Poke Ball", "Great Ball", "Nest Ball", "Net Ball", "Escape Rope", "Spice Powder", "Gourmet Treat", "Super Repel", "Reverse Candy"])
 
-Buy some Spice Powder while we're here. At the top, trade in your Up-Grade if you still have it with a ranger to get *Scope Lens*! Enter the hallway to the left and grab, well, another *Up-Grade* as well as *3 Max Repels*.
+Buy some Spice Powder while we're here. At the top, trade in your Upgrade if you still have it with a ranger to get *Scope Lens*! Enter the hallway to the left and grab, well, another *Upgrade* as well as *3 Max Repels*.
 
 Inside one of the rooms, if you've done all the other virtual badge battles, we can continue that quest.
 

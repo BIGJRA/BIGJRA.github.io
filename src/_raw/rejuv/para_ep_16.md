@@ -641,7 +641,7 @@ Accept the flight with Talon and enter the treehouse basement.
 
 ## Oblitus Town
 
-
+Take the time to explore. On the east side is a *Mirror Herb*. You'll notice many NPC services that were inside GDC have made their way to Oblitus, so use those as you wish.
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.

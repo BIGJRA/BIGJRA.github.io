@@ -878,7 +878,7 @@ Head to Neo East Gearen City (Right).
 
 !battle(["Denko",:HIKER,2], "City Field")
 
-On this map you can find hidden *Resist Feather*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. Near the hotel is an *Up-Grade*. At the bottom of the map by Karrina's HQ is a *Reverse Candy* and *Dusk Stone*.
+On this map you can find hidden *Resist Feather*, *Heart Scale*, *Tiny Mushroom*, *Repel*, and *Antidote*. Near the hotel is an *Upgrade*. At the bottom of the map by Karrina's HQ is a *Reverse Candy* and *Dusk Stone*.
 
 Enter Gearen Park below.
 
@@ -1182,7 +1182,7 @@ The top left Xen Ship had trainers with too high levels before, but we can tackl
 
 !dbattle(["Soren",:XENMAGE_M,0], ["Misella",:XENMAGE_F,0], "Short-Circuit Field")
 
-Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 Green Shards*, *Fire Stone*, *Leaf Stone*, and *Thunderstone*.
+Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 Green Shards*, *Fire Stone*, *Leaf Stone*, and *Thunder Stone*.
 
 !dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
 

@@ -76,7 +76,7 @@ Enter the Night Market at the top right of Dream District South.
 
 An alleyway on the right leads to *TM67 Roost*. On the left at night, you can enter a medicine/incense store.
 
-!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Full Heal"])
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "Energy Powder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Full Heal"])
 
 !battle(["Haydee",:LASS,0], "City Field")
 
@@ -98,7 +98,7 @@ Enter the Somniam Mall to the right. You'll get a *Somniam Mall Stamp*. We previ
 
 !shop("Somniam Mall Rare Gems 2", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem"])
 
-!shop("Somniam Mall Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone"])
+!shop("Somniam Mall Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunder Stone", "Sun Stone", "Moon Stone"])
 
 !shop("Somniam Mall Battle Items", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery", "Data Drive"])
 
@@ -166,7 +166,7 @@ Hidden to the left is a *Green Shard*. Enter the left door of the hospital.
 
 You can pay $10000 for a consultation with Nurse Joy, where she can modify one stat for EVs and one stat for IVs, plus give it Pokerus.
 
-Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunderstone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
+Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunder Stone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
 
 On the left side of the district, head up to enter the Pokemon Pinnacle, then begin your ascent.
 

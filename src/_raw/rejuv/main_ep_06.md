@@ -338,7 +338,7 @@ That's it for the help quests.
 
 If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
-Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second below, on a dock. The third is in the upper right corner between some dumpsters. Give them back to get a *Thunderstone*!
+Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second below, on a dock. The third is in the upper right corner between some dumpsters. Give them back to get a *Thunder Stone*!
 
 Enter East Gearen, and go to the Magnolia Library. Talk to Zumi upstairs to get our next target for *PictoZumi*. She's looking for Pyukumuku, which we already have. She'll give us 6 *Exp. Candy M*. Our next quest is for Mareep!
 
@@ -540,7 +540,7 @@ Talk to this tablet and you'll be engaged with a puzzle. Here is the solution:
 
 !img("nullpuzzle.png")
 
-Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade. Poke Balls can be obtained in stores, we've found two Up-Grades so far, and we were given a Magnet on Route 2 by showing a guy our Emolga.
+Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Upgrade. Poke Balls can be obtained in stores, we've found two Up-Grades so far, and we were given a Magnet on Route 2 by showing a guy our Emolga.
 
 Get the items in your bag, and return. The Pokemon inside will run off, to a hill in the bottom left side of River's End. You'll get to battle **Type: Null!**
 

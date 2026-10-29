@@ -88,11 +88,13 @@ We've now collected eight of the ten stamps for the mall, so we can buy new stuf
 
 !shop("Somniam Mall Terrain Seeds", ["Elemental Seed", "Telluric Seed", "Magical Seed", "Synthetic Seed"])
 
+!shop("Somniam Mall Battle Items 5", ["Expert Belt", "Muscle Band", "Lum Berry", "Wise Glasses", "Punching Glove", "Protective Pads", "Amplifield Rock", "Blunder Policy", "Room Service", "Adrenaline Orb"])
+
 !shop("Somniam Mall TMs & HMs", [["TM34 Sludge Wave", 30000], ["TM162 Acid Spray", 25000], ["TM164 Play Rough", 25000], ["TM55 Scald", 13000], ["TM90 Substitute", 10000], ["HM05 Waterfall", 150000], ["TM71 Stone Edge", 30000]])
 
 ### Missing Children 2
 
-If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC's Underground. On the right side, you'll now be able to find hidden items: *Ultra Potion*, *Up-Grade*, *Red Shard*, *Poison Gem*, *Ether*, *Elixir*, *Blue Shard*, and *Black Sludge*. Plus:
+If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC's Underground. On the right side, you'll now be able to find hidden items: *Ultra Potion*, *Upgrade*, *Red Shard*, *Poison Gem*, *Ether*, *Elixir*, *Blue Shard*, and *Black Sludge*. Plus:
 
 **ZCell 137: The Underground**
 

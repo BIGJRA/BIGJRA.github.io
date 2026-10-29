@@ -428,7 +428,7 @@ In general, evolutions and breeding mechanics are exactly the same as in the can
 - Quilava evolves into **Typhlosion (Hisuian)**, Dewott into **Samurott (Hisuian)**, and Dartrix into **Decidueye (Hisuian)** via Ancient Teachings.
 - Qwilfish (Hisuian) evolves into **Overqwil** by leveling up knowing Barb Barrage.
 - Stantler evolves into **Wyrdeer** by leveling up knowing Psyshield Bash.
-- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunderstone.
+- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunder Stone.
 - Petitil evolves into **Lilligant (Hisuian)** when a Sun Stone is used in areas such as Sheridan Village.
 - Basculin (White-Striped) evolves into **Basculegion** by leveing up knowing Double-Edge.
 - Yamask (Galarian) evolves into **Runerigus** if it is leveled up with a difference between Max and Current HP of at least 49, on a map such as Wispy Chasm.
@@ -446,7 +446,7 @@ As for the Aevian forms, assume they evolve the same as their base forms, except
 - Roselia (Aevian) evolves into **Roserade (Aevian)** via Sun Stone.
 - Snorunt (Aevian) evolves into **Glalie (Aevian)** at Lv. 42, or a female can evolve into **Froslass (Aevian)** via Water Stone.
 - Swadloon (Aevian) evolves into **Leavanny (Aevian)** via leveling while knowing Dragon Claw.
-- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunderstone.
+- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunder Stone.
 - Toxel evolves into **Toxtricity (Aevian)** via a Fire Stone.
 
 ## Unobtainable Pokemon

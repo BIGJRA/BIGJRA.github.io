@@ -118,7 +118,7 @@ While we're here, you can trade your Sinistea in the lower right corner of the r
 
 Speaking of, Madame Peony now has new inventory in the Night Market:
 
-!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "Energy Powder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
 
 ## Kimono Girls Quest
 
