@@ -641,7 +641,120 @@ Accept the flight with Talon and enter the treehouse basement.
 
 ## Oblitus Town
 
-Take the time to explore. On the east side is a *Mirror Herb*. You'll notice many NPC services that were inside GDC have made their way to Oblitus, so use those as you wish.
+Take the time to explore. On the east side is a *Mirror Herb*. You'll notice many NPC services that were inside GDC have made their way to Oblitus, so use those as you wish. If you talk to Rhodea:
+
+**Relationship Point Choices**:
+- Have faith in them. (+3 Rhodea)
+- This is terrible... (Neutral)
+
+Enter the building at the top of the area, then the gym building. You'll get the *Oblitus Hotel Key*. Wander around the floors if you like, Karrina will give you *10 Exp. Candy XL*. Take a rest in your room. Back outside, head to the upper left side of town. Collect the town's residents.
+
+After entering the gym and chatting with the group at the hospital, talk to Venam outside.
+
+**Relationship Point Choices**:
+- Keep moving forward. (-1 Venam)
+- We'll find something. (+2 Venam)
+- I'm not sure... (+1 Venam)
+
+Return to the gym and join the meeting to the right. You will find out how many lives you saved. In the hospital again, talk to Flora then Venam. Go to sleep at the hotel.
+
+Before we proceed, head on up to Yui's Ranch. Finally, we can obtain the original Shiny Garbodor, holding *Life Orb*!
+
+You can chat with Crescent outside the gym.
+
+**Relationship Point Choices**:
+- It's okay. (-2 Crescent)
+- At least you tried. (-3 Crescent)
+- That's unfortunate (Neutral)
+- I still appreciate it. (+4 Crescent)
+
+**Relationship Point Choices**:
+- Speak to Crescent a second time (-2 Crescent)
+
+Head in to the hospital at the top of Oblitus. On a bed in the top left is a note from Mosely and the *Staraptite*!
+
+## Fairy Tale Badges
+
+Enter the Oblitus Gym and read the book in the right room to get started. We will essentially be playing Fire Emblem-esque map battles for the gym challenge. I won't go too in-depth on this feature... at this point, its far easier than the normal Pokemon battles! 
+
+Forgive the Aevia reference, as this trainer is how the game stores the Pokemon "pieces" you will be using:
+
+!partner(["General", :TRAINER_AEVIA, 0])
+
+Your enemies:
+
+!boss(:DAYWOLF, "Colosseum Field")
+
+!boss(:DUSKWOLF, "Colosseum Field")
+
+!boss(:NIGHTWOLF, "Colosseum Field")
+
+The first round is very simple. In the second, you need to complete two objectives, guarding the gate and the top, and saving Alice below. 
+
+The third is a bit trickier. The Dark Mages tend to be able to fight the enemies rushing the gate at the top efficiently, while a Knight can take the boss. Archers are unfortunately mid!
+
+!boss(:ZACWOLF, "Colosseum Field")
+
+You will get to choose whether or not to spare the king. If you do spare the king, go with Erin and you'll have this fight:
+
+!partner(["Erin", :CANDIDGIRL4, 0])
+
+!dbattle(["Prince Allen", :LEADER_ALLEN, 1], ["Princess Alice", :LEADER_ALICE, 1], "Bewitched Field")
+
+Otherwise it is this fight:
+
+!dbattle(["Prince Allen", :LEADER_ALLEN, 0], ["Princess Alice", :LEADER_ALICE, 0], "Bewitched Field")
+
+For a gym battle, this one surprisingly isn't too bad. Allen is surprisingly weak to Sucker Punch, and Erin puts up one heck of a fight as a partner. There are still lots of threats including Paradox Pokemon though, so be on your guard.
+
+Win to get the *Fairy Tale: Beginnings Badge* and the *Fairy Tale: Endings Badge*! We'll also get *TM75 Swords Dance* and *TM158 Nasty Plot*!
+
+How short lived a victory.
+
+**Relationship Point Choices**:
+- I'm so sorry. (Neutral)
+- Kinda spooky. (+3 Amber)
+
+You'll get the *Letter for Deagan*. Listen in if you wish. Back in Oblitus, enter the meeting room. Just like that, we'll get the *Light Stone*!
+
+### Technique Constructs
+
+One little quest, if you could call it that, is now open in Oblitus. Talk to Cloe and Vera towards the bottom to get an Axew! Inside the nextdoor building is a Technique Construct, a machine which grants one special tutor move to each starter Pokemon plus Haxorus. Haxorus can learn Bitter Blade here, but we'll need to go searching the region for the others. In general, wherever a starter can be obtained is where the Construct is. Just outside too, you can learn the tutor moves Frenzy Plant, Blast Burn, and Hydro Cannon from Cloe and Vera! 
+
+The list of locations and moves:
+
+- **Haxorus** learns *Bitter Blade* in the Oblitus Town house
+- **Venusaur** learns *Baneful Bunker* in the Deep Terajuma Jungle, near Gerald's Construction
+- **Charizard** learns *Bitter Blade* in the Carotos Mountain, eastern side
+- **Blastoise** learns *Armor Cannon* at the Secluded Shore
+- **Meganium** learns *Moonblast* near the Route 2 train station
+- **Johtonian/Hisuian Typhlosion** learns *Fire Lash/Earth Power* respectively in the Carotos Mountain, across the lava to the east
+- **Feraligatr** learns *Fake Out* in the Chrisola Hotel pool
+- **Sceptile** learns *Draco Meteor* in the Sheridan Village, east of the daycare
+- **Swampert** learns *Jet Punch* in the southeast side of Helojak Island
+- **Torterra** learns *Mountain Gale* in the West Gearen Help Plaza
+- **Infernape** learns *Rage Fist* in the Magrodar Crater
+- **Empoleon** learns *Make It Rain* in the Spring of Preservation
+- **Serperior** learns *Clanging Scale* at the Pyramid Grounds
+- **Emboar** learns *Victory Dance* in Valor Mountain, above the blockade
+- **Chesnaught** learns *Shelter* in Cairo's Route 4 abode
+- **Delphox** learns *Lumina Crash* in the Kakori Village house
+- **Greninja** learns *Boomburst* in the Akuwa Aquarium
+- **Alolan/Hisuian Decidueye** learns *Last Respect/Strength Sap* respectively in the Ranger HQ Dartrix Cafe
+- **Incineroar** learns *Headlong Rush* at the Junction Bridge
+- **Primarina** learns *Overdrive* on the northern side of Route 5
+- **Rillaboom** learns *Tailwind* on top of the Tyluric Temple, near some whirlwinds
+- **Cinderace** learns *Anchor Shot* in the Isle of Angels
+- **Inteleon** learns *Calm Mind* in the northern ponds of Route 4
+- **Meowscarada** learns *Nature Power* at the Zorrialyn Coast
+- **Skeledirge** learns *Sparkling Aria* at the Zorrialyn Coast, inside
+- **Quaquaval** learns *Trop Kick* at the Zorrialyn Coast
+
+Blaziken and Samurott users will have to wait a bit longer.
+
+Head to Route 8, west of Darchlight Village. Accept Madelis' travel request. Head up into the next room. That concludes part 2 of Chapter 16 and begins part 3: **The Final Gambit**!
+
+## Reldin Island
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.
