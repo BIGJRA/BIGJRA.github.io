@@ -176,7 +176,7 @@ The first floor has a few upgrades as well. 10 Credits on the left will get you 
 
 !shop("Manor Vendor 3L: 7 Credits", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Cell Battery", "Room Service"])
 
-!shop("Manor Vendor 3R: 8 Credits", ["Smoke Ball", "Destiny Knot", "Power Weight", "Power Bracer", "Power Belt", "Power Lens", "Power Band", "Power Anklet", "TM48 Round"])
+!shop("Manor Vendor 3R: 8 Credits", ["Smoke Ball", "Destiny Knot", "Power Weight", "Power Bracer", "Power Belt", "Power Lens", "Power Band", "Power Anklet", ["TM48 Round", 9000]])
 
 !shop("Manor Vendor 4L: 12 Credits", ["Big Root", "Focus Band", "Zoom Lens", "Scope Lens", "Bright Powder", "Quick Claw"])
 

@@ -661,6 +661,7 @@ def load_pickup_data(game, scripts_dir)
 end
 
 def load_xt_pool_data(game, scripts_dir)
+  return {} unless game == "rejuv"
   file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'xtpool.rb'))
 
   hash = eval(file_contents)
@@ -668,6 +669,7 @@ def load_xt_pool_data(game, scripts_dir)
 end
 
 def load_wonder_pool_data(game, scripts_dir)
+  return {} unless game == "rejuv"
   file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'wonderpool.rb'))
 
   hash = eval(file_contents)
