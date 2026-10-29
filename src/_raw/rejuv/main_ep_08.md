@@ -16,9 +16,9 @@ Head outside to start exploring Kristiline Town.
 
 To the left:
 
-**ZCell 070: Kristiline Town**
+**ZCell 071: Kristiline Town**
 
-!img("zcell070.png")
+!img("zcell071.png")
 
 Enter the Sapphire Museum. Talk to the old man to begin the *Museum Quest*. Back outside, enter the Kristiline Eatery to the left. Talk to a man here and give him the Aquamarine Ore we found earlier in exchange for a *Prism Scale*!
 
@@ -56,15 +56,15 @@ Once you win, you'll get the eighth *Virtual Badge* and *25 AP*!
 
 Outside, get *3 Passho Berries*. Enter the help center to get *TM73 Thunder Wave*! Go south across the bridge.
 
-**ZCell 071: Kristiline Town**
-
-!img("zcell071.png")
-
-A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, evolve it with an Ice Stone to get **Sandslash (Alolan)**, then trade it with an NPC to get **Vulpix (Alolan)**! Also here is:
-
 **ZCell 072: Kristiline Town**
 
 !img("zcell072.png")
+
+A *Razor Claw* is below. Grab an Alolan Sandshrew from the PC, evolve it with an Ice Stone to get **Sandslash (Alolan)**, then trade it with an NPC to get **Vulpix (Alolan)**! Also here is:
+
+**ZCell 073: Kristiline Town**
+
+!img("zcell073.png")
 
 We can also now take Tesla's yacht to-and-from Kristiline Town via the port the east side of town.
 
@@ -78,21 +78,21 @@ Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water t
 
 Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Snowscape* is to the left.
 
-**ZCell 073: Isle of Angels**
-
-!img("zcell073.png")
-
-Back to the right, across the bridge:
-
 **ZCell 074: Isle of Angels**
 
 !img("zcell074.png")
 
-Reenter the Church of Theolia. In the room at the top:
+Back to the right, across the bridge:
 
-**ZCell 075: Church of Theolia**
+**ZCell 075: Isle of Angels**
 
 !img("zcell075.png")
+
+Reenter the Church of Theolia. In the room at the top:
+
+**ZCell 076: Church of Theolia**
+
+!img("zcell076.png")
 
 Should you want to return to the Tower of Theolia area, you can do so in the room on the left side of the church.
 
@@ -319,9 +319,9 @@ We don't have to **Save Amber**, but in this section we will. Head down the left
 
 On the left, use your new Blast Powder to reach:
 
-**ZCell 076: Chamber of Awakening**
+**ZCell 077: Chamber of Awakening**
 
-!img("zcell076.png")
+!img("zcell077.png")
 
 Stand in the circle for another titanic battle!
 
@@ -364,9 +364,9 @@ Back downstairs, try to leave through the top and you'll get teased again. Try t
 
 Head back down from here, and you'll find:
 
-**ZCell 077: Valor Mountain (Neutral)**
+**ZCell 078: Valor Mountain (Neutral)**
 
-!img("zcell077.png")
+!img("zcell078.png")
 
 You can also get **Heracross** if you go down and through the barricade.
 
@@ -382,9 +382,9 @@ Pick up the *Hyper Potion* and go up the ladder. Loop your way around to the lef
 
 Grab *TM147 Tail Slap* hiding behind the Ice Source Crystal, then activate it. To the left, you'll find:
 
-**ZCell 078: Valor Mountain (Cool)**
+**ZCell 079: Valor Mountain (Cool)**
 
-!img("zcell078.png")
+!img("zcell079.png")
 
 Make your way around and up.
 
@@ -398,9 +398,9 @@ Head down and right, then drift across to find **Vulpix**! Give it a Gourmet Tre
 
 By clicking each crystal in succession, make your way to the top of the room. Back at the top of the room, fall down the hole to the left. You'll find:
 
-**ZCell 079: Valor Mountain (Cool)**
+**ZCell 080: Valor Mountain (Cool)**
 
-!img("zcell079.png")
+!img("zcell080.png")
 
 Fall down the hole again, then proceed all the way through the barricade and back up the mountain. This time, take the ladder at the top. Exit to the Valor Cliffside.
 
@@ -412,9 +412,9 @@ If we proceed without having saved Amber, we will get (+10 Renegade Points).
 
 Pick up hidden *HP Up* and *Blast Powder*. 
 
-**ZCell 080: Valor Cliffside**
+**ZCell 081: Valor Cliffside**
 
-!img("zcell080.png")
+!img("zcell081.png")
 
 Head left to fight:
 
@@ -440,23 +440,23 @@ Head up and into the next room. Grab *TM134 Rock Blast*.
 
 Activate the fire crystal here, then return to the main dungeon through the cliffside. On the right side, you'll find:
 
-**ZCell 081: Valor Mountain (Warm)**
-
-!img("zcell081.png")
-
-Head down and go to the left. Drift across then jump in the hole twice. Talk to **Growlithe (Hisuian)** and give it a Gourmet Treat for a battle. Plus:
-
 **ZCell 082: Valor Mountain (Warm)**
 
 !img("zcell082.png")
+
+Head down and go to the left. Drift across then jump in the hole twice. Talk to **Growlithe (Hisuian)** and give it a Gourmet Treat for a battle. Plus:
+
+**ZCell 083: Valor Mountain (Warm)**
+
+!img("zcell083.png")
 
 Next, head up at the top of this room to reenter the blockade. Upstairs the rightmost door will be open now, head outside and feed **Tepig** five Gourmet Treats for a chance to battle it.
 
 Head back to the cliffside (there's now a warp between Valor Cliffside and Valor Shore, it might be easiest to take the warp) and enter the room beyond. Interact with the neutral crystal, then head back into the dungeon via the cliffside once more. On the left, surf and fall down the hole. Pick up a hidden *Rare Candy*, then fall down the other hole and grab the *Leaf Stone* at the bottom! Jump down the ledge, and head up the ladder here. On the right:
 
-**ZCell 083: Valor Mountain (Neutral)**
+**ZCell 084: Valor Mountain (Neutral)**
 
-!img("zcell083.png")
+!img("zcell084.png")
 
 One. More. Climb. To the top of the mountain. With the neutral crystal still engaged, head down and this time to the right once you cross the ladder. Pickup the *Volcanic Top Field Readout*!
 
@@ -548,9 +548,9 @@ Completing this quest causes certain Pokemon to appear at night that didn't befo
 
 One other result of this sidequest remains. Head back to Jirukala Cavern in the Mynori Sea. Make your way to the monitor at the end and input our code: 9867. Down this path you will find *TM51 Steel Wing*, 3 *Blast Powders*, plus:
 
-**ZCell 084: Jirukala Cavern**
+**ZCell 085: Jirukala Cavern**
 
-!img("zcell084.png")
+!img("zcell085.png")
 
 ### Tale of Two Hearts
 
@@ -614,23 +614,23 @@ Enter the Izakaya in the Kakori Ranger HQ to get the *My Dearest Rowlet* quest.
 
 Reenter the Tyluric Temple and progress as we did before. You'll see Rowlet on the right; talk to him and he will proceed further. Surf down once you reach an outside area and follow the path. Drift across the magma: go right first, then up the tornado. You'll eventually reach:
 
-**ZCell 085: Tyluric Temple**
+**ZCell 086: Tyluric Temple**
 
-!img("zcell085.png")
+!img("zcell086.png")
 
 You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candy L.
 
 Go back in the cave and drift all the way left.
 
-**ZCell 086: Tyluric Temple**
-
-!img("zcell086.png")
-
-There is a chest containing a Gimmighoul and *100 Gimmighoul Coins* on the right.
-
 **ZCell 087: Tyluric Temple**
 
 !img("zcell087.png")
+
+There is a chest containing a Gimmighoul and *100 Gimmighoul Coins* on the right.
+
+**ZCell 088: Tyluric Temple**
+
+!img("zcell088.png")
 
 You can pick *6 Roseli Berries*, *6 Wacan Berries*, and *6 Liechi Berries*.
 
@@ -652,9 +652,9 @@ Next, take the truck to Sheridan. Grab something from the PC with either Dark Pu
 
 Take the time to ensure you have Metal Powder, a Poke Ball, and 3 Cell Batteries in your bag. Enter Carotos Mountain. Drift to the left and grab *TM36 Sludge Bomb*! Smash some rocks and drift to the right. Use two Blast Powders to get the **Cyndaquil** egg.
 
-**ZCell 088: Carotos Mountain**
+**ZCell 089: Carotos Mountain**
 
-!img("zcell088.png")
+!img("zcell089.png")
 
 Head down to the corrupted cave area. Take the first Magma Drift path to reach the *Corrupted Cave Field Readout*! Backtrack to the land and go southeast.Magma Drift here and follow the path to a hidden *Poison Barb* and eventually **Aevian Paras**!
 

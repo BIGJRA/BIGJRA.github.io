@@ -289,7 +289,7 @@ You'll be returned to Rhodea's Penthouse.
 - If Venam Points >= 10, say "I haven't noticed." (+3 Venam)
 - Say "Yeah I have..." (Neutral)
 
-Talk to Lavender to continue.
+Talk to Lavender to continue. I'll also note you can now return to Talon's penthouse in the treehouse to get the *Flyinium Z*!
 
 ### .Karma File: Venam
 

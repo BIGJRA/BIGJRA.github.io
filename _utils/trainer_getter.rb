@@ -145,9 +145,16 @@ class TrainerGetter
 
     # Trainer Mon data
     if fight_is_boss
-      list_of_mons = [trainer_data[:moninfo]] + (trainer_data[:sosDetails] ? trainer_data[:sosDetails][:moninfos].values : [])
+      list_of_mons = [trainer_data[:moninfo]] + 
+                    (trainer_data[:setParty] || []) + 
+                    (trainer_data[:sosDetails]&.dig(:moninfos)&.values || [])
     else
-      list_of_mons = trainer_data[:mons] + (second_trainer_data ? second_trainer_data[:mons] : [])
+      list_of_mons = (trainer_data[:mons] || []) + 
+                    (trainer_data[:setParty] || [])
+
+      if second_trainer_data
+        list_of_mons += (second_trainer_data[:mons] || []) + (second_trainer_data[:setParty] || [])
+      end
     end
 
     list_of_mons.each_with_index do |mon, idx|
@@ -234,7 +241,7 @@ class TrainerGetter
       end
 
       # Handles display of SOS Mons for full-boss fights
-      if mon[:sos]
+      if mon[:sos] and boss_data[:sosDetails]
         oper, shields = boss_data[:sosDetails][:activationRequirement].split(" ").slice(1,2)
         refresh = boss_data[:sosDetails][:refreshingRequirement]
         cont = boss_data[:sosDetails][:continuous] != nil
@@ -526,7 +533,11 @@ class TrainerGetter
             end
             if groups != {}
               groups.each do |lvl, indices|
-                statNames = indices.map { |idx| stats[idx] }
+                begin
+                  statNames = indices.map { |idx| stats[idx] }
+                rescue
+                  statNames = indices
+                end              
                 mon_details_parts.push("#{statNames.join(', ')} stat#{stats.length == 1 ? "" : "s"} #{lvl > 0 ? "raised" : "lowered"} #{lvl.abs} stage#{lvl.abs == 1 ? "" : "s"}")
               end
             end

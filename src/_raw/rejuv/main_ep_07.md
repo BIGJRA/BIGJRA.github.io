@@ -62,9 +62,9 @@ Hidden are *2 Water Gems*, *Red Shard*, and *Blue Shard*.
 
 Push the stones back onto their spots and step on the tile to break the door once more.
 
-**ZCell 056: Aquamarine Chamber**
+**ZCell 057: Aquamarine Chamber**
 
-!img("zcell056.png")
+!img("zcell057.png")
 
 Back outside, go up the ladder to the left. Grab the hidden *Ice Heal* and hop down. Grab the hidden *Star Piece* and exit to the other side of Route 5. Obtain the hidden *Yellow Shard*, *Ether*, *Love Ball*, *Lemonade*, *Pearl*, and *Repel*. Continue left!
 
@@ -72,17 +72,17 @@ Back outside, go up the ladder to the left. Grab the hidden *Ice Heal* and hop d
 
 To the left, pick the *Occa Berry*, as well as:
 
-**ZCell 057: Teila Resort**
+**ZCell 058: Teila Resort**
 
-!img("zcell057.png")
+!img("zcell058.png")
 
 Go left and up, to the large building. Go right to get a hidden *Full Heal* and a *Lax Mint*, then enter the large building. After the conversation, talk to the person at the front desk to get a souvenir for the *A Souvenir For Mom* quest. Go up to the PC and grab Shelmet and Oranguru. Back on the east side of Teila Resort, talk to the old man near the above cell, show him Shelmet, and obtain a *Shell Bell*!
 
 Go left then down at your first opportunity to grab a *Hyper Potion* as well as:
 
-**ZCell 058: Teila Resort**
+**ZCell 059: Teila Resort**
 
-!img("zcell058.png")
+!img("zcell059.png")
 
 Inside this house, show a Psychic type (the Oranguru) to a person at the top right to get *Wise Glasses*. The man below wants to trade Oranguru for **Passimian**!
 
@@ -96,9 +96,9 @@ The bottom vendor sells *Berry Juice* for $1000.
 
 Above, to the left, you'll see a Noctowl Statue to activate for fast travel. Reenter the building at the top of Teila Resort. Show your fighting type (Passimian?) to a guy inside to get a *Muscle Band*. Head upstairs and enter the room on the right to get the *Silk Scarf*, and:
 
-**ZCell 059: Teila Resort**
+**ZCell 060: Teila Resort**
 
-!img("zcell059.png")
+!img("zcell060.png")
 
 Downstairs on the left side, you can buy Pokemon massage packages. The cheapest is $1500, the next is $3500, and the last is $6500, which comes with *3 Fresh Waters* and *3 Revives*! Each sequentially increases your Pokemon's happiness.
 
@@ -137,9 +137,9 @@ Nab the hidden *Escape Rope* and *Synthetic Seed*, then go up. This next area ha
 
 Talk to the man in here, then surf to the left side of the room and use Rock Climb. Mine some rocks. Note that there is a hidden *Link Heart* behind a rock, but we are out of Blast Powder. Back on the water, you can find Poliwag #5 for the *Poliwag Quest*! Climb the rocks on the right side of the map to get a hidden *Hyper Potion* as well as a *Mild Mint* and *4 Exp. Candy L*. Exit the Secluded Shore at the top to reach a new section of Route 5. Straight up:
 
-**ZCell 060: Route 5**
+**ZCell 061: Route 5**
 
-!img("zcell060.png")
+!img("zcell061.png")
 
 Go down and right. You'll find a hidden *Pearl* and *Zinc* as well as a *Sun Stone*, a *Mirror Sprig*, and *TM104 Deluge*. To the left you'll find a hidden *Resist Feather* in the water. 
 
@@ -152,9 +152,9 @@ Go south, back through Aquamarine Cave, and return to Teila Resort and go to Tes
 
 Head back outside and enter the house to the left, previously blocked by Saki:
 
-**ZCell 061: Teila Resort**
+**ZCell 062: Teila Resort**
 
-!img("zcell061.png")
+!img("zcell062.png")
 
 Talk to Melia inside the previous house and agree to sleep. Wake up, talk to the crew outside, then to Tesla in her office.
 
@@ -177,9 +177,9 @@ Once you're back in Teila, sleep again by talking to Melia. Head outside to lear
 
 Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Dawn Stone* and:
 
-**ZCell 062: Magrodar Crater**
+**ZCell 063: Magrodar Crater**
 
-!img("zcell062.png")
+!img("zcell063.png")
 
 On the right, push away another floating stone to reach a hidden *Black Prism*.
 
@@ -195,9 +195,9 @@ On the right, push away another floating stone to reach a hidden *Black Prism*.
 
 On the right, grab a *Charcoal* as well as:
 
-**ZCell 063: Magrodar Crater**
+**ZCell 064: Magrodar Crater**
 
-!img("zcell063.png")
+!img("zcell064.png")
 
 !boss("TAPUKOKOMAGRODAR", "Dragon's Den")
 
@@ -297,9 +297,9 @@ Grab the hidden *Revive*, 2 *Rowap Berries*, *Jaboca Berry*, *Kee Berry*, and a 
 
 Make your way next to Jynnobi Pass. Talk to the girl on the southern balcony to give her *A Souvenir For Mom*. She'll give us the *Fighting Memory* as well as:
 
-**ZCell 064: Jynnobi Pass**
+**ZCell 065: Jynnobi Pass**
 
-!img("zcell064.png")
+!img("zcell065.png")
 
 Use Noctowl to get over to Helojak Island. On the east side, you can use Rock Climb to reach a hidden *Rare Candy* and **Mudkip**!
 
@@ -339,9 +339,9 @@ Make your way back to Akuwa Town. Enter Evergreen Forest and climb the rocks to 
 
 Take the truck to Sheridan Village and enter Amethyst Cave. In the second room, Rock Climb down. Talk to April, then activate Amethyst Power Supply Panel 3 to the right. Grab the hidden *Rock Gem*, *Steel Gem*, and *Water Gem*, then follow her left.
 
-**ZCell 065: Amethyst Cave**
+**ZCell 066: Amethyst Cave**
 
-!img("zcell065.png")
+!img("zcell066.png")
 
 Talk to April again, then enter the room in the top left. Surf left, activate the panel if you haven't, and get *TM01 Work Up* below.
 
@@ -381,9 +381,9 @@ With three shields, it takes a lot to defeat Rift Chandelure. It has an insane S
 
 Exit at the top and talk to Manny. He'll give you a *Shiny Stone*. Grab the *Sky Field Readout*. Hidden around here is a *Rare Candy*, *Elixir*, *Iron*, and *Resist Feather*.
 
-**ZCell 066: Cliffside Grave**
+**ZCell 067: Cliffside Grave**
 
-!img("zcell066.png")
+!img("zcell067.png")
 
 Interact with the grave at the top and insert the Cursed Candle we got a while ago to obtain **Litwick** and the *Chandelurite*!
 
@@ -401,17 +401,17 @@ We can now use the Phase Dial on our own Solrock and Lunatone to obtain the fusi
 
 Back in Sheridan, go west onto Route 3 and enter the Mirage Woods. Make your way to the Mirage Cave where we once fought Crobat. Use Rock Climb to get the *Data Drive*, *3 Exp. Candy L*, and:
 
-**ZCell 067: Mirage Cave**
+**ZCell 068: Mirage Cave**
 
-!img("zcell067.png")
+!img("zcell068.png")
 
 ## Church of Theolia
 
 To progress the story, take the submarine from Mynori Sea. Follow the path through Kristiline Town and enter the church. At the fork, go right.
 
-**ZCell 068: Church of Theolia**
+**ZCell 069: Church of Theolia**
 
-!img("zcell068.png")
+!img("zcell069.png")
 
 Go up now. You'll awaken in the Tower of Theolia. There is a butterfly that can warp you to Teila Resort if you need to exit for any reason.
 
@@ -460,9 +460,9 @@ Slide your way through the gap at the bottom of the room. Grab the *Fluffy Tail*
 
 On the right side of the room, get hidden *Green Shard* and *Revive* and pick up an *X Speed*. Smash a wall to get a *Modest Mint*. You'll also find:
 
-**ZCell 069: Tower Cellar**
+**ZCell 070: Tower Cellar**
 
-!img("zcell069.png")
+!img("zcell070.png")
 
 Head back up from the previous room. In this central hub, go right next. Get the hidden *Ice Gem* and pick up the *Ice Heal*. Finally, up and left from here you can find the *Frozen Dimensional Field Readout* and *TM111 Aurora Veil*. That's all for the cellar area right now, so head back up the tower to where we left off.
 

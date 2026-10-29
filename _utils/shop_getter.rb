@@ -64,7 +64,7 @@ class ShopGetter
       price = "$#{price}" if price.is_a?(Integer)
       td_price = doc.create_element('td', style: 'text-align: center')
       td_price.content = price
-      raise "Missing price for item #{item}" if price == '' 
+      raise "Missing price for item #{item}" if price == nil 
       content_row.add_child(td_price)
     end
 

@@ -42,7 +42,7 @@ Grab the *Jolly Mint*, *TM122 Screech*, *TM78 Bulldoze*, and:
 
 With 15 Zygarde cells obtained, we can return to Ayuda in the East Gearen Help Center to get another *Cell Imprint* and the *Soothe Bell*! Our next threshold is 25.
 
-Head next into the nearby Magnolia Library. Talk to the blue haired girl here to get relationship points... a few chapters later. Pay the entrance fee then enter the room on the left. Talk to the girl in here to do a quiz. If you answer all the questions correctly, you'll get a *Thunderstone*! The answers are brown, Goldenwood, and Goldenleaf.
+Head next into the nearby Magnolia Library. Talk to the blue haired girl here to get relationship points... a few chapters later. Pay the entrance fee then enter the room on the left. Talk to the girl in here to do a quiz. If you answer all the questions correctly, you'll get a *Thunder Stone*! The answers are brown, Goldenwood, and Goldenleaf.
 
 Finally, go to Luck's Tent in the Gearen Park. There is a new Marshadow in the bottom left corner:
 

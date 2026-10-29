@@ -10,6 +10,7 @@ class EncounterGetter
     @mapHash = map_names ||= load_maps_hash(game, scripts_dir)
     @encMapWrapper = enc_map_wrapper ||= EncounterMapWrapper.new(game, scripts_dir)
     @pokemonHash = mon_hash ||= load_pokemon_hash(game, scripts_dir)
+    @xtpoolHash = load_xt_pool_data(game, scripts_dir)
     @encStore = Set[]
   end
 
@@ -231,6 +232,71 @@ class EncounterGetter
     end
 
     throw "No encounter tables found for #{map_id}, #{include_list}" unless found_group
+
+    html_output = doc.to_html
+    html_output.split("\n")[1..].join("\n")
+  end
+
+  def generate_xt_pool_markdown(tier)
+    tower_data = @xtpoolHash
+
+    doc = Nokogiri::HTML::Document.new
+    div = doc.create_element('div', class: 'tower-table')
+    doc.add_child(div)
+
+    table = doc.create_element('table', id: 'tower-table')
+    div.add_child(table)
+
+    # Create the header for the table
+    thead = doc.create_element('thead')
+    table.add_child(thead)
+
+    header_row = doc.create_element('tr', class: 'header')
+    thead.add_child(header_row)
+
+    table_header = doc.create_element('th', colspan: 4)
+    table_header.add_child(doc.create_element('strong', "Xenpurgis Pool (#{tier.capitalize})"))
+    table_header['class'] = 'table-header'
+    table_header['style'] = 'text-align: center;'
+    header_row.add_child(table_header)
+
+    tbody = doc.create_element('tbody')
+    table.add_child(tbody)
+
+    count = 0
+    content_row = nil
+    tower_data[tier].each do |pokemon, array|
+      if count == 0
+        content_row = doc.create_element('tr')
+        tbody.add_child(content_row)
+      end
+
+      forms = Set.new()
+      array.each do |hash|
+        forms.add(hash[:form] || 0)
+      end
+      if forms == Set.new([0])
+        forms_string = ''
+      else
+        forms_string = ' (' + forms.map {|n| @pokemonHash[pokemon].keys[n].to_s}.join(', ') + ')'
+      end
+      base_form = @pokemonHash[pokemon].keys.find_all { |key| key.is_a?(String) }[0]
+      pokemon_name_formatted = @pokemonHash[pokemon][base_form][:name] + forms_string
+
+      td_mon = doc.create_element('td', style: 'text-align: center')
+
+      # Bold if not detected in hash so far
+      if @encStore.include?(pokemon_name_formatted)
+        td_mon.content = pokemon_name_formatted
+      else
+        bold = doc.create_element('strong')
+        bold.content = pokemon_name_formatted
+        td_mon.add_child(bold)
+        @encStore.add(pokemon_name_formatted)
+      end
+      content_row.add_child(td_mon)
+      count = (count + 1) % 4
+    end
 
     html_output = doc.to_html
     html_output.split("\n")[1..].join("\n")

@@ -7,7 +7,7 @@ UTILS_DIR = File.dirname(File.expand_path(__FILE__))
 ROOT_DIR = File.dirname(UTILS_DIR)
 CONFIG = YAML.safe_load(File.open(File.join(ROOT_DIR, '_config.yml')))
 
-VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "14.0.24", 'deso' => "6.0.13" }
+VERSIONS = { 'reborn' => "19.5.18" , 'rejuv' => "14.0.28", 'deso' => "6.0.13" }
 
 LONGNAMES = { 'reborn' => 'reborn', 'rejuv' => 'rejuvenation', 'deso' => 'desolation'}
 
@@ -659,6 +659,21 @@ def load_pickup_data(game, scripts_dir)
 
   item_data.map { |item, odds| [item, odds.sort.reverse] }
 end
+
+def load_xt_pool_data(game, scripts_dir)
+  file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'xtpool.rb'))
+
+  hash = eval(file_contents)
+  return hash
+end
+
+def load_wonder_pool_data(game, scripts_dir)
+  file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'wonderpool.rb'))
+
+  hash = eval(file_contents)
+  return hash
+end
+
 
 def hp_str(move, hptype)
   return '' unless hptype

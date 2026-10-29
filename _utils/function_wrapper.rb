@@ -52,7 +52,9 @@ class FunctionWrapper
       'pickup' => 'generate_pickup_markdown',
       'boss' => 'generate_boss_markdown',
       'move' => 'generate_move_markdown',
-      'raid' => 'generate_raid_den_markdown'
+      'raid' => 'generate_raid_den_markdown',
+      'xtpool' => 'generate_xt_pool_markdown',
+      'wonderpool' => 'generate_wonder_pool_markdown'
     }
   end
 
@@ -256,7 +258,7 @@ class FunctionWrapper
     end
   
     html_output = doc.to_html
-    html_output.split("\n")[1..].join("\n")  # Format output similar to your example
+    html_output.split("\n")[1..].join("\n")
   end
   
   def generate_encounter_markdown(map_id, include_list = nil, rods = nil, custom_map_name = nil)
@@ -486,6 +488,10 @@ class FunctionWrapper
     end
     res = res.join("\n\n")
     res.gsub(/<td>\s*\n\s*<strong>/, '<td><strong>')
+  end
+
+  def generate_xt_pool_markdown(tier)
+    @encGetter.generate_xt_pool_markdown(tier)
   end
 end
 

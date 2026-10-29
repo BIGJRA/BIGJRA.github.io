@@ -43,15 +43,15 @@ Go up from here and cross the one-tile bridge to the left, below the cave entran
 
 !battle(["George",:HIKER,0])
 
-**ZCell 109: Route 9**
-
-!img("zcell109.png")
-
-We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast and **Palossand**, and surf to the top.
-
 **ZCell 110: Route 9**
 
 !img("zcell110.png")
+
+We'll do the cave a bit later. Head down to the beach, which is filled with wild Sandygast and **Palossand**, and surf to the top.
+
+**ZCell 111: Route 9**
+
+!img("zcell111.png")
 
 Enter this cave entrance. For completing the SPU Parcel Delivery quest earlier, we can get **Dewpider**! Across the pond is the *Pinsirite*!
 
@@ -63,9 +63,9 @@ Next, enter the main entrance to the cave to the northeast.
 
 Pick up a hidden *Yellow Shard*, then head into the room at the top with the crystal and pick up a hidden *Pretty Feather* as well as:
 
-**ZCell 111: Forlorned Cavern**
+**ZCell 112: Forlorned Cavern**
 
-!img("zcell111.png")
+!img("zcell112.png")
 
 Exit out the bottom to catch more **Sewaddle (Aevian)** if you wish.
 
@@ -79,9 +79,9 @@ Return to the main part of Route 9. Make your way to the northwest: there is a b
 
 That's all the exploring on this map we can do for now, so continue northwest onto the next. At the fork, go left. Use cut on the bamboo to encounter **Komala**! Surf across:
 
-**ZCell 112: Route 9**
+**ZCell 113: Route 9**
 
-!img("zcell112.png")
+!img("zcell113.png")
 
 Enter the theater.
 
@@ -89,9 +89,9 @@ Enter the theater.
 
 Enter the room above.
 
-**ZCell 113: Rose Theater**
+**ZCell 114: Rose Theater**
 
-!img("zcell113.png")
+!img("zcell114.png")
 
 Exit the southwestern most door of the theater, and you'll grab *TM120 Solar Blade*. There is also a hidden *Fresh Water* nearby. If you exit one of the top doors of the theatre, you can find a hidden *Ultra Ball* and listen in on a conversation between Souta and Eldest.
 
@@ -118,7 +118,7 @@ While we're here, you can trade your Sinistea in the lower right corner of the r
 
 Speaking of, Madame Peony now has new inventory in the Night Market:
 
-!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "Energy Powder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Sea Incense", "Chipped Pot", "Masterpiece Teacup"])
 
 ## Kimono Girls Quest
 
@@ -211,9 +211,9 @@ Enter the casino at the bottom. You can pay $15,000 for the password "BYE CAROTO
 
 Upstairs, cross the bridge to enter the other building. The Pokemon Psychologist, who changes a Pokemon to a random nature for 1 Heart Scale, is here. Go down from Dylan in the top left to reach a hidden *Full Heal* plus a *Toxic Orb* plus:
 
-**ZCell 114: The Underground**
+**ZCell 115: The Underground**
 
-!img("zcell114.png")
+!img("zcell115.png")
 
 Backtrack to the building on the right side with stuff for sale. You can input our password here to enter the back room. Grab the *Colosseum Field Readout*. Pokemon are for sale! 
 

@@ -338,7 +338,7 @@ That's it for the help quests.
 
 If you thought we were done with side content for now, you'd be mistaken.... since we now have Surf, the Good Rod, and access to Floria Island, there is a ton more content that is open to us. Take the boat from Kakori Village to Oceana Pier.
 
-Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second below, on a dock. The third is in the upper right corner between some dumpsters. Give them back to get a *Thunderstone*!
+Talk to Dragonite in Oceana Pier. He's lost some letters, so we're going to help pick them up for it. The first is immediately up and left from it. The second below, on a dock. The third is in the upper right corner between some dumpsters. Give them back to get a *Thunder Stone*!
 
 Enter East Gearen, and go to the Magnolia Library. Talk to Zumi upstairs to get our next target for *PictoZumi*. She's looking for Pyukumuku, which we already have. She'll give us 6 *Exp. Candy M*. Our next quest is for Mareep!
 
@@ -540,7 +540,7 @@ Talk to this tablet and you'll be engaged with a puzzle. Here is the solution:
 
 !img("nullpuzzle.png")
 
-Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Up-Grade. Poke Balls can be obtained in stores, we've found two Up-Grades so far, and we were given a Magnet on Route 2 by showing a guy our Emolga.
+Enter the pathway to the north, and you'll be taken back to Matthew's lab. He needs us to retrieve a Magnet, a Poke Ball, and an Upgrade. Poke Balls can be obtained in stores, we've found two Up-Grades so far, and we were given a Magnet on Route 2 by showing a guy our Emolga.
 
 Get the items in your bag, and return. The Pokemon inside will run off, to a hill in the bottom left side of River's End. You'll get to battle **Type: Null!**
 
@@ -584,9 +584,9 @@ Head up to Akuwa Town.
 
 There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. Grab *TM135 Brine* and hidden *Blast Powder* on the islands. 
 
-**ZCell TODO: Akuwa Town**
+**ZCell 052: Akuwa Town**
 
-!img("zcellnew001.png")
+!img("zcell052.png")
 
 Surf east to reach Route 11.
 
@@ -600,9 +600,9 @@ Beat the grunt, and you'll be engaged in battle with a level 40 **Jynx**!
 
 Go to the southwest.
 
-**ZCell 052: Route 11**
+**ZCell 053: Route 11**
 
-!img("zcell052.png")
+!img("zcell053.png")
 
 Starting to the southwest and going north, use your itemfinder on the islands to find *HP Up*, *Adamant Mint*, *Red Shard*, and *Blue Shard*. 
 
@@ -614,9 +614,9 @@ Continue heading up, picking up hidden *Jolly Mint*. Pick up the *Ether* to the 
 
 Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the island south of here, you'll find:
 
-**ZCell 053: Route 11**
+**ZCell 054: Route 11**
 
-!img("zcell053.png")
+!img("zcell054.png")
 
 Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
@@ -640,9 +640,9 @@ Heal at Nana's house again, then enter the cave to the right.
 
 Use the Fire move in battle, then surf across. Exit at the southeast to get:
 
-**ZCell 054: Evergreen Island**
+**ZCell 055 Evergreen Island**
 
-!img("zcell054.png")
+!img("zcell055.png")
 
 Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. 
 
@@ -731,9 +731,9 @@ Back in the hub, take the lift down.
 
 Shouldn't be too terrible. Watch out for the boosted Water moves and speed penalties. Pick up *TM106 Irritation* to the left, plus:
 
-**ZCell 055: Kakori Depths**
+**ZCell 056: Kakori Depths**
 
-!img("zcell055.png")
+!img("zcell056.png")
 
 !battle(["Crawli",:LEADER_CRAWLI,0], "Swamp Field")
 

@@ -346,6 +346,64 @@ If you completed Sandy's extra New Game+ battle way back in Chapter 1, you can t
 
 [Jump Back](#missing-children-3)
 
+### Chapter 16 Paragon NG+ Part 1
+
+If you have completed save files of Reborn or Desolation, the game may randomly choose one of those games to base Nym's challenge fight on, instead. If you have gotten at least 17 badges on a different file of Rejuvenation, a dialogue option will pop up to let you choose yourself. You can use "LOVE" to force it to remain Deagan, or enter "REBORN" or "DESOLATED".
+
+If you entered "REBORN" or randomly drew this fight with a completed Reborn save, you get to fight Lin! Note that the game even goes so far as to check which story route of Reborn you played to pick which team she'll have here:
+
+!battle(["Lin", :CHAMPIONLIN, 0])
+
+!battle(["Lin", :CHAMPIONLIN, 1])
+
+If you picked "DESOLATED" or randomly drew this fight with a completed Desolation save, you get to fight Shiv or Nova, depending on your choice. And yes, Nym will make you choose. And yes, each of them has seven Pokemon.
+
+!battle(["Nova", :DREAMERNOVA, 0], "Dimensional Field")
+
+!battle(["Shiv", :DREAMERSHIV, 0], "Bewitched Field")
+
+[Jump Back](#desktopmobilejoiplaysupport)
+
+### Chapter 16 Paragon NG+ Part 2
+
+While in the sewers, there is a door in the bottom left corner. In fact, we have the password for this door if we used the Black Key all the way back in Chapter 2: it's `TWINGOLD`.
+
+Use the password, then head into the next room to get the *Xen-Tram Key*. Talk to Comet, then Venam in the tram.
+
+**Relationship Point Choices**:
+- Actions over words. (+1 Comet)
+- Hard to get a word in. (+3 Comet)
+- Not sure... (Neutral)
+
+**Relationship Point Choices**:
+- Agree. (+2 Comet)
+- Disagree. (-2 Comet)
+
+You can use the Police Key we got a little while ago only in NG+, in the Police Station. Inside is a *Poke Ball Belt* and a room full of stone people.
+
+There is Secret Scene: Null and Void, which requires us to have at least 4 relationship points with Comet. We just got these! After this chat, talk to Comet about and give him the Belt we got at the station.
+
+**Relationship Point Choices**:
+- It's not a loaded gun. (+2 Comet)
+- ... (Neutral)
+
+!battle(["Comet", :SHOOTINGSTAR, 0], "Cave Field")
+
+After winning, head up from here.
+
+!battle(["Eizen", :EIZEN, 7], "Cave Field")
+
+Him again. Well, this is the fight of all time. Eizen starts out with a 3-shield Terapagos that will instantly gain defense and apply Stealth Rocks. Stellar Starstorm will transition the field to Crystal Cavern, upon which Rock Polish will boost Terapagos to absurd levels of speed and power. Oh, and its type effectiveness warping ability works on all three of its lives. With free Wish being provided upon Shield drops, Oh, and GameFreak's held item masterpiece, Terapagos' Covert Cloak, is so covert that you won't even get notified that it works, so Fake Out and Snarl users beware. Terapagos is a menace of a boss and you'll have to carefully whittle it down. 
+
+But then there's the rest of the team! Glimmora, Mega Aerodactyl, Rillaboom, Victini, and Iron Hands are a wide selection of Pokemon that have fairly good coverage across the board, various defense and speed stats, etc. Eizen doesn't tend to switch quite as readily as other NPC, but still will when it makes sense.
+
+This fight is virtually unbeatable using a rather straightforward sweep strategy thanks to Terapagos, so you'll need to figure out what your team's options are in the "tank" department and lean into those. Terapagos will never clear Status, for instance, so Toxic stalling alongside Light Screen, Protect, and healing moves may work in your favor. One option may be to rush knocking out the right side Pokemon at all costs and putting out a spread of two synergistic tanks to work on Terapagos at the end of the fight.
+
+One other shout is that the Cave Field may have the most fields that it can be morphed into of any. With a bag full of Z-Crystals and the Field Notes application, you may find some success with your team on Icy Field, Volcanic Field, Dragon's Den, Corrupted Field, Crystal Cavern, or the one I found success on, Dark Crystal Cavern. Cave Field's collapse mechanic or some of the other fields' passive damage mechanics may be what you need to whittle down Terapagos once and for all.
+
+Following this, you'll be given a choice to [skip a majority](#curse-of-the-xenpurgis) of the GDCX content, or simply to return to before we descended to the Spotlight Ruin.
+
+[Jump Back to GDCX](#grand-dream-city-x)
 
 ## Complete the V13.5 Dex
 
@@ -370,7 +428,7 @@ In general, evolutions and breeding mechanics are exactly the same as in the can
 - Quilava evolves into **Typhlosion (Hisuian)**, Dewott into **Samurott (Hisuian)**, and Dartrix into **Decidueye (Hisuian)** via Ancient Teachings.
 - Qwilfish (Hisuian) evolves into **Overqwil** by leveling up knowing Barb Barrage.
 - Stantler evolves into **Wyrdeer** by leveling up knowing Psyshield Bash.
-- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunderstone.
+- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunder Stone.
 - Petitil evolves into **Lilligant (Hisuian)** when a Sun Stone is used in areas such as Sheridan Village.
 - Basculin (White-Striped) evolves into **Basculegion** by leveing up knowing Double-Edge.
 - Yamask (Galarian) evolves into **Runerigus** if it is leveled up with a difference between Max and Current HP of at least 49, on a map such as Wispy Chasm.
@@ -388,7 +446,7 @@ As for the Aevian forms, assume they evolve the same as their base forms, except
 - Roselia (Aevian) evolves into **Roserade (Aevian)** via Sun Stone.
 - Snorunt (Aevian) evolves into **Glalie (Aevian)** at Lv. 42, or a female can evolve into **Froslass (Aevian)** via Water Stone.
 - Swadloon (Aevian) evolves into **Leavanny (Aevian)** via leveling while knowing Dragon Claw.
-- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunderstone.
+- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunder Stone.
 - Toxel evolves into **Toxtricity (Aevian)** via a Fire Stone.
 
 ## Unobtainable Pokemon

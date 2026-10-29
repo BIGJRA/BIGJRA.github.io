@@ -12,9 +12,9 @@ Grand Dream City has a ton of different NPCs and events depending on the time of
 
 Enter the Dream Hotel to the left. This is actually a copy of the daycare in Sheridan, so you can breed Pokemon here.
 
-**ZCell 104: Dream District**
+**ZCell 105: Dream District**
 
-!img("zcell104.png")
+!img("zcell105.png")
 
 Head down from here.
 
@@ -56,9 +56,9 @@ Head outside and go down.
 
 !battle(["Andy",:OFFICER,0], "City Field")
 
-**ZCell 105: Judicial District**
+**ZCell 106: Judicial District**
 
-!img("zcell105.png")
+!img("zcell106.png")
 
 Enter the house in the bottom left corner to begin the *Wall of Shame* quest. There isn't anything to do in most of the other buildings for now, so make your way to the top left of the area.
 
@@ -76,7 +76,7 @@ Enter the Night Market at the top right of Dream District South.
 
 An alleyway on the right leads to *TM67 Roost*. On the left at night, you can enter a medicine/incense store.
 
-!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "EnergyPowder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Full Heal"])
+!shop("Night Market Peony Shop", ["Heal Powder", "Energy Root", "Energy Powder", "Pure Incense", "Luck Incense", "Full Incense", "Wave Incense", "Odd Incense", "Full Heal"])
 
 !battle(["Haydee",:LASS,0], "City Field")
 
@@ -98,7 +98,7 @@ Enter the Somniam Mall to the right. You'll get a *Somniam Mall Stamp*. We previ
 
 !shop("Somniam Mall Rare Gems 2", ["Psychic Gem", "Bug Gem", "Rock Gem", "Ghost Gem", "Dark Gem", "Dragon Gem", "Steel Gem", "Ice Gem"])
 
-!shop("Somniam Mall Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunderstone", "Sun Stone", "Moon Stone"])
+!shop("Somniam Mall Evolutionary Stones", ["Fire Stone", "Water Stone", "Leaf Stone", "Thunder Stone", "Sun Stone", "Moon Stone"])
 
 !shop("Somniam Mall Battle Items", ["Air Balloon", "White Herb", "Mental Herb", "Power Herb", "Absorb Bulb", "Snowball", "Smoke Ball", "Destiny Knot", "Cell Battery", "Data Drive"])
 
@@ -120,17 +120,17 @@ Enter the Botanical Garden at the top.
 
 Hidden here is a *Lum Berry*, *Liechi Berry*, and *2 Revives*. You can catch the **Petilil** in this area. Towards the top of the map:
 
-**ZCell 106: Botanical Garden**
+**ZCell 107: Botanical Garden**
 
-!img("zcell106.png")
+!img("zcell107.png")
 
 On the left side of the map, there is a path that takes you up and left. Grab the hidden *Sitrus Berry*.
 
 !battle(["Nana",:LASS,0], "Flower Garden Field")
 
-**ZCell 107: Botanical Garden**
+**ZCell 108: Botanical Garden**
 
-!img("zcell107.png")
+!img("zcell108.png")
 
 There is a hidden *Pecha Berry* beyond. That's all we can do in the Botanical Garden.
 
@@ -166,7 +166,7 @@ Hidden to the left is a *Green Shard*. Enter the left door of the hospital.
 
 You can pay $10000 for a consultation with Nurse Joy, where she can modify one stat for EVs and one stat for IVs, plus give it Pokerus.
 
-Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunderstone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
+Outside, make your way down the path on the left side and go down to get a *Soda Pop* on the dock. To the right, enter the Carmicle Residence. A *Thunder Stone* is downstairs. Outside, enter the graveyard above. You can find a hidden *Blue Shard*, *Berry Juice*, and *Persim Berry*. Stealing gifts for the dead, you monster.
 
 On the left side of the district, head up to enter the Pokemon Pinnacle, then begin your ascent.
 
@@ -429,9 +429,9 @@ Return to the penthouse.
 
 While we're here, head outside to the balcony at the bottom.
 
-**ZCell 108: Dream Complex**
+**ZCell 109: Dream Complex**
 
-!img("zcell108.png")
+!img("zcell109.png")
 
 Go to sleep. When you wake up, talk to Melia on the couch.
 
