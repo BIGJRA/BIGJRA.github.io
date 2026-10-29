@@ -505,7 +505,143 @@ Talk with Nim to progress.
 
 Return to the Central Square and approach the tower.
 
-### Curse of the Xenpurgis
+## Curse of the Xenpurgis
+
+Next up is the Curse of the Xenpurgis, which is a Roguelike mode. 150 hours into this game, yes that's right, a roguelike mode you must complete. This section is extremely complicated, so for now this walkthrough will prioritize these things:
+
+- details of the fixed boss/enemy encounters
+- what you need to do to not miss out on content that carries over to the main campaign
+
+There are some other guides that will accomplish more, down to explaining what the rental Pokemon sets are, etc. that I won't get into here at this time.
+
+Most importantly I think are two things. One, you can *only* get Maushold and Baxcalibur specifically in this area on Paragon in V14. Future versions will likely not have this limitation. Two, you *must win the game the first time* to get maximum rewards. If you fail, you will have an easier time on future attempts... but we don't do that here! Keep a backup of the save before going in for this reason.
+
+### Xenpurgis Tower Floor 1
+
+You will get three tickets to choose a starting party. Inside the dungeon, you can get more Pokemon at random. All of the Pokemon you can get in the *common* pool, on the first floor of the dungeon, are as follows:
+
+!xtpool(:common)
+
+You can *only* obtain **Maushold** here, so if you are completing the V14 Pokedex, you may need to save scum to ensure you get one. 
+
+You can get the Beginner Bag here. If you lose on your first attempt, you'll have access to stronger bags with better contents, but to get the best rewards of the tower, we'll need to win with just the Beginner Bag.
+
+The trainers that can be fought on this field are as follows. Note that they will randomly choose *two* of their Pokemon to battle with.
+
+!battle(["Matthias", :XENGRUNT_M, 0], "Dimensional Field")
+
+!battle(["Charlotte", :XENGRUNT_F, 0], "Dimensional Field")
+
+!battle(["Bruce", :XENGRUNT_M, 0], "Dimensional Field")
+
+!battle(["Dred", :XENGRUNT_M, 0], "Dimensional Field")
+
+!battle(["Cadilus", :XENGRUNT_M, 0], "Dimensional Field")
+
+!battle(["Jill", :BLADESTAR_F1, 1], "Dimensional Field")
+
+!battle(["Cleri", :XENGRUNT_F, 0], "Dimensional Field")
+
+!battle(["Beah", :XENGRUNT_F, 0], "Dimensional Field")
+
+!battle(["Percy", :XENGRUNT_M, 0], "Dimensional Field")
+
+!battle(["Tina", :XENGRUNT_F, 0], "Dimensional Field")
+
+!battle(["Mode", :XENGRUNT_F, 0], "Dimensional Field")
+
+!battle(["Angelus", :XENGRUNT_F, 0], "Dimensional Field")
+
+You'll notice there are blessings you can obtain to power you up in the dungeon! Choose whatever makes the most sense for your party. The orbs in each room may give you items or more tickets as you proceed.
+
+You'll need to defeat the trainers in each room. The teleporter puzzles in each room can be solved with simple trial and error. There's a rather confusing room with a blue switch and green switch - make sure you step on the blue switch such that the bouncepad (red tile) is in the top left, and the green switch such that the bouncepad is in the top right, which will let you jump across.
+
+Past the second Patty shop room, you will fight the floor's boss:
+
+!battle(["Madelis", :XENMADELIS, 2], "Dimensional Field")
+
+We will get a party size increase to 4.
+
+### Xenpurgis Tower Floor 2
+
+Upon entering the floor, your current party will be leveled up to 72. The Pokemon you can get in the *rare* pool, on the second floor of the dungeon, are as follows:
+
+!xtpool(:rare)
+
+I recommend upgrading your party, but keeping Maushold for completion. You can also swap out party members to heal, a tactic I recommend using often. On this floor, wander around, fighting trainers and stepping on floor switches.
+
+This floor's trainers will use three of their party members:
+
+!battle(["Aidan", :BLADESTAR_M1, 1], "Forest Field")
+
+!battle(["Geofrey", :BLADESTAR_M1, 1], "Forest Field")
+
+!battle(["Nadia", :BLADESTAR_F1, 1], "Forest Field")
+
+!battle(["Natalie", :BLADESTAR_F1, 1], "Forest Field")
+
+!battle(["Marka", :XENMAGE_M, 1], "Forest Field")
+
+!battle(["Fericia", :XENMAGE_F, 0], "Forest Field")
+
+!battle(["Maximus", :XENGRUNT_M, 0], "Forest Field")
+
+!battle(["Dr. Jenkel", :MADSCIENTIST, 2], "Forest Field")
+
+!battle(["Mr. Hynde", :DIABOLICALGENIUS, 2], "Forest Field")
+
+Take the warp in the center when you are ready for the floor 2 boss.
+
+**Relationship Point Choices**:
+- You can't beat her. (Neutral)
+- Then deal with it already. (Neutral)
+- You have no claim! (-5 Flora)
+
+!battle(["Flora", :BLADESTAR_FLORA, 0], "Forest Field")
+
+Your party size will go up to 6.
+
+### Xenpurgis Tower Floor 3
+
+Your Pokemon will raise to Lv. 87. The Pokemon you can get in the *ultimate* pool, on the third floor of the dungeon, are as follows:
+
+!xtpool(:ultimate)
+
+You can *only* obtain **Baxcalibur** here, so if you are completing the V14 Pokedex, you may need to save scum to ensure you get one. I'll also note **Darmanitan (Galarian)** can be obtained later, but this is its first appearance. 
+
+If you reached the third floor on your first try, without losing, as I recommended, a chest is here containing a *Snag Machine* and *Master Ball*. Four trainers here have a Shadow Pokemon that we will be able to snag, so choose whichever you like most.
+
+The trainers on this floor all have the listed Shadow Pokemon plus a selection of 4-5:
+
+!battle(["Samira", :XENMAGE_F, 0], "Dimensional Field")
+
+!battle(["Hector", :XENMAGE_M, 0], "Dimensional Field")
+
+!battle(["Drako", :XENMAGE_M, 0], "Dimensional Field")
+
+We also will need to fight whatever 2 Xenpurgis Boss Pokemon that we didn't fight in GDCX. The possible fights:
+
+!boss("TWINDANCERS_TOWER", "Dimensional Field")
+
+!boss("TWINDANCERS_1_TOWER", "Dimensional Field")
+
+!boss("EARTHSHATTERER_TOWER", "Dimensional Field")
+
+!boss("KINGSOFAPPLES_TOWER", "Dimensional Field")
+
+!boss("CHITWO_TOWER", "Dimensional Field")
+
+Once you've broken through all five of your fights, proceed through the warp.
+
+!battle(["Cassandra", :XENADMIN_1, 1], "Dimensional Field")
+
+Cassandra has our fourth Shadow Pokemon option, and the one I'd recommend in general thanks to how much easier the fight will become. The tower's best benefits are unfortunately very RNG driven - the free stat boosts on switch in may or may not turn the tide of battle, so you may need multiple resets to win this one. After winning, **Flora will join the team**.
+
+Accept the flight with Talon and enter the treehouse basement.
+
+## Oblitus Town
+
+
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.
