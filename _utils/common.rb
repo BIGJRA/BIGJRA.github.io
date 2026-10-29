@@ -660,6 +660,21 @@ def load_pickup_data(game, scripts_dir)
   item_data.map { |item, odds| [item, odds.sort.reverse] }
 end
 
+def load_xt_pool_data(game, scripts_dir)
+  file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'xtpool.rb'))
+
+  hash = eval(file_contents)
+  return hash
+end
+
+def load_wonder_pool_data(game, scripts_dir)
+  file_contents = File.read(File.join(script_sub_dir(scripts_dir, game), 'Definitions', 'wonderpool.rb'))
+
+  hash = eval(file_contents)
+  return hash
+end
+
+
 def hp_str(move, hptype)
   return '' unless hptype
   return '' unless move == 'Hidden Power'
