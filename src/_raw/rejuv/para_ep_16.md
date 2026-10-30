@@ -130,7 +130,7 @@ Notice the wine is called "Blanc Rose". Attempt to leave at the bottom. After ch
 **Relationship Point Choices**:
 - Maybe so... (Neutral)
 - We must look forward. (+2 Ren, +2 Venam)
-- Can’t change things. (-1 Venam)
+- Can't change things. (-1 Venam)
 
 ### DESKTOPmobileJoiPlAYSupport
 
@@ -427,7 +427,7 @@ Take a Braviary over to the District of Hope. In the depths of the Catacombs, yo
 
 **Relationship Point Choices**:
 - Say Something -> Thanks, Venam. (+3 Ren, +4 Venam)
-- Say Something -> I could’ve done it better. (-2 Ren, -3 Venam)
+- Say Something -> I could've done it better. (-2 Ren, -3 Venam)
 
 Back outside, enter Dr. Isha's house. We can now bust through the door. Read the books and talk to Anabel. Input "LXLV" into the computer.
 
@@ -707,7 +707,7 @@ Otherwise it is this fight:
 
 For a gym battle, this one surprisingly isn't too bad. Allen is surprisingly weak to Sucker Punch, and Erin puts up one heck of a fight as a partner. There are still lots of threats including Paradox Pokemon though, so be on your guard.
 
-Win to get the *Fairy Tale: Beginnings Badge* and the *Fairy Tale: Endings Badge*! We'll also get *TM75 Swords Dance* and *TM158 Nasty Plot*!
+Win to get the *Fairy Tale: Beginnings Badge* and the *Fairy Tale: Endings Badge*! We'll also get *TM75 Swords Dance* and *TM158 Nasty Plot*! Our level cap will also finally go up to Lv. 100!
 
 How short lived a victory.
 
@@ -717,9 +717,29 @@ How short lived a victory.
 
 You'll get the *Letter for Deagan*. Listen in if you wish. Back in Oblitus, enter the meeting room. Just like that, we'll get the *Light Stone*!
 
+## 17 Badge Quests
+
+Though not as many as earlier in the game, new quests have opened up to us now that we've gotten more badges.
+
+For one, the Raid Dens on Route 4 have a few new Shadow options with spicy movesets if you want them:
+
+!raid(1, 16)
+
+!raid(2, 16)
+
+!raid(3, 16)
+
+!raid(4, 16)
+
+Take a moment to fly over to Goldenleaf Town's Lost Castle. Jump down to the chasm, in the room immediately on the right upon entering, and go into the room where we previously picked up Charcadet's evolution items. Step on the tile, then head in to and get Griselda's Treasure 17... after a fight!
+
+!battle(["Ceruledge", :SPECTRALKNIGHT, 2], "Haunted Field")
+
+Death by a thousand cuts, but some strong priority or damage-over-time effects of your own should do it. Inside the chest is the *Delphoxite*!
+
 ### Technique Constructs
 
-One little quest, if you could call it that, is now open in Oblitus. Talk to Cloe and Vera towards the bottom to get an Axew! Inside the nextdoor building is a Technique Construct, a machine which grants one special tutor move to each starter Pokemon plus Haxorus. Haxorus can learn Bitter Blade here, but we'll need to go searching the region for the others. In general, wherever a starter can be obtained is where the Construct is. Just outside too, you can learn the tutor moves Frenzy Plant, Blast Burn, and Hydro Cannon from Cloe and Vera! 
+One more little quest, if you could call it that, is now open in Oblitus. Talk to Cloe and Vera towards the bottom to get an Axew! Inside the nextdoor building is a Technique Construct, a machine which grants one special tutor move to each starter Pokemon plus Haxorus. Haxorus can learn Bitter Blade here, but we'll need to go searching the region for the others. In general, wherever a starter can be obtained is where the Construct is. Just outside too, you can learn the tutor moves Frenzy Plant, Blast Burn, and Hydro Cannon from Cloe and Vera! 
 
 The list of locations and moves:
 
@@ -752,9 +772,221 @@ The list of locations and moves:
 
 Blaziken and Samurott users will have to wait a bit longer.
 
+## Reldin Island
+
 Head to Route 8, west of Darchlight Village. Accept Madelis' travel request. Head up into the next room. That concludes part 2 of Chapter 16 and begins part 3: **The Final Gambit**!
 
-## Reldin Island
+Head up from the dock. A house on the left contains a *Max Revive*. A building in the center contains a hidden trashcan *Rose Tea*. Continue north.
+
+!battle(["Hayleigh", :XENGRUNT_F, 1], "Volcanic Top")
+
+Enter the Pokemon Center.
+
+!battle(["Neddy", :XENANALYST_M, 1])
+ 
+Upstairs:
+
+!battle(["Wilbur", :XENGRUNT_M, 1])
+
+Pick up the *Grunt ID Card*! We can now heal and PC downstairs. A building to the left contains a hidden *Elemental Seed*. More barracks are to the right - *Ultra Potion* in the first, a *Quick Claw* and hidden *Synthetic Seed* and *Max Potion* in the second. Continue north.
+
+!battle(["Orran", :XENGRUNT_M, 1], "Volcanic Top")
+
+Above inside is a *Carbos* and *Max Potion*. Above in another barrack is a hidden *Elemental Seed* and an *Ability Capsule*. Enter the cave on the right side.
+
+!battle(["Danni", :XENDEATHWING_M, 1], "Volcanic Top")
+
+With Melia, proceed through the cable car system.
+
+!battle(["Sayali", :XENGRUNT_F, 0])
+
+### Neved's Jurisdiction
+
+!battle(["Sheila", :XENDEATHWING_F, 1], "Water Surface")
+
+If you get caught by the lights, you'll have to go back, but not too far. Immediately north:
+
+**ZCell 145: Xen Port Authority**
+
+!img("zcell145.png")
+
+To the west is an *Ultra Potion* and *Max Revive*. Make your way to the bottom left corner.
+
+!battle(["Nickoli", :XENGRUNT_M, 2], "Water Surface")
+
+Beyond is *5 Exp. Candy XL* and the *Drednawtite*!
+
+**ZCell 146: Xen Port Authority**
+
+!img("zcell146.png")
+
+!battle(["Marvy", :XENGRUNT_M, 1], "Water Surface")
+
+Proceed through the ship.
+
+!battle(["Neved", :XENNEVED, 0], "Water Surface")
+
+Neved trades off having a relatively weaker team for having one of the most ridiculous in-battle effects in the game: cannonball shots that start at 1/128 HP per turn, but increase each turn until they cap out at 1/4 HP per turn. Alongside a ton of stalling moves like Protect and Fake Out, this is one of the most viscerally irritating fights in the game.
+
+Right off the bat, the simplest way to deal with all that is the four abilities: Bulletproof, Magic Guard, Shell Armor, and Battle Armor, which are immune to the effect. Alternatively you just have to find a way to sweep as fast as possible. One of the adjacent fields - Murkwater, or Icy Field, may give you the momentum you need to just plow through this one.
+
+**Relationship Point Choices**:
+- What about you? (+1 Deven)
+- Thanks, Neved. (+2 Deven)
+
+Take the teleporter and have a picnic. There is a prompt you'll be asked.
+
+<div class="spoilerDiv">
+  <div class="spoilerText" style="display:none">
+    M2, or Amber
+  </div>
+  <a display="initial" class="spoilerBtn" title="Click to show/hide content" type="button">Click for the interesting answers to Melia's question</a>
+</div>
+
+**Relationship Point Choices**:
+- I'm glad to see you again. (+2 Narcissa)
+- Just in time. (Neutral)
+
+### Geara's Jurisdiction
+
+Call the cable car back and exit at the bottom back towards the Xen Siphon. Head down.
+
+!battle(["Teepo", :XENGRUNT_M, 1], "Dimensional Field")
+
+!battle(["Vera", :XENGRUNT_F, 1], "Dimensional Field")
+
+!battle(["Rashida", :XENANALYST_F, 1], "Dimensional Field")
+
+Take notes of the numbers and passwords in the green machines. In the room all the way to the right, we can upgrade our ID Card from Grunt to Analyst.
+
+Enter the codes in the room above: 9349801, and GREGORIAN. Confront Geara!
+
+!battle(["Geara", :XENGEARA, 0], "Dimensional Field")
+
+Geara's Jurisdiction causes an Innards-Out like effect, at half power, for all of his Pokemon, including the Parasect *twice*, unless we have Magic Guard. His Mega Gengar G has a custom ability that eats Dark type moves as well. 
+
+His team doesn't stand up particularly well to Blizzard Spam nor the resulting change to the Frozen Dimensional Field, so I recommend that if you're struggling.
+
+**Relationship Point Choices**:
+- Geara's a stupid name. (-2 Geara)
+- If that's what you choose... (+2 Geara)
+- Gregory's better. (-1 Geara)
+
+A door in the Siphon's right side is now open. Change the rail direction to "down" and proceed. Patty is running a shop here.
+
+!shop("Patty's Xen HQ Snack Bar", ["Ultra Ball", "Dusk Ball", "Ultra Potion", "Max Potion", "Full Restore", "Revive", "Full Heal"])
+
+You can exit out the bottom to view some more of Reldin Island, but it's a dead end for now. Adjust the blue line to "Up" and proceed.
+
+### Madelis' and Zetta's Jurisdictions
+
+If you still have it, you can show Julie the Oshawott (in any evolution stage, as long as it was obtained on that map) to unlock its Technique Construct: *Dire Claw* or *Stone Axe* for Unovan/Hisuian Samurott respectively.
+
+!battle(["Maria", :XENANALYST_F, 1], "Factory Field")
+
+!battle(["Eric", :XENANALYST_M, 1], "Factory Field")
+
+Enter Madelis' room. You can use her PC if you have the password. We shouldn't yet, so we'll come back for it. Approach the gem then head out.
+
+!battle(["Squad 03", :XENHORDE, 1], "Factory Field")
+
+The gimmick of this fight is that a Spotlight effect is used every single turn on the left side, while Furret Baton Passes a Substitute to No Retreat Mega Falinks. You have to find a way to endure the Mega Falinks while you knock out the other side, or use strong Spread moves to break through. Blinding Speed on the second or third turn of the fight is likely the key here, since Tropius with Focus Sash initially scoffs at this strategy with Wide Guard.
+
+Enter Zetta's Jurisdiction in the top left and destroy that one too, no fight needed!
+
+Make your way to the room on the right side and go east.
+
+!battle(["Tommen", :XENGRUNT_M, 1], "Factory Field")
+
+Emerge into the outside of Reldin Island again. Attempt to enter a building on the right - a Torchic will run free! Step on the Red Switch here to open the gate below for a shortcut back to Zone Zero.
+
+### Exploring Mt. Ruin
+
+Before we proceed with the story, we now have a bit of wiggle room to explore Mt. Ruin and get some nice rewards. Use Fly to return to Reldin Island's Pokemon Center. A computer behind the desk will upgrade our Xen ID Card from Analyst to Mage! We can open the door immediately up from here to get the *Firium Z*, *3 Exp. Candies L*, *3 Big Nuggets*, and an *Ability Capsule*. Read the note in the trash can, as well.
+
+Navigate back through the cable cars and all that to return to Madelis' Jurisdiction. You can read the Personal Diary on her computer with the trash can password, "BADDIEMADDIE". You can upgrade the Xen ID Card further from Mage to Death Wing.
+
+Next, fly back to the Pokemon Center and go north into Mt. Ruin. We can now take the path up and around, eventually reaching a ladder. 
+
+!enc(627)
+
+There's a hidden *Blast Powder*. You'll need some of these to reach the center *Charizardite G* and hidden *Crystal Shard*. Enter the cave on the left side for a boss battle!
+
+!boss(:COLOSSUS, "Dragon's Den")
+
+Win to get the *Coalossalite*. Back in the larger room, around to the right is a *Rare Candy*. Below is *3 Black Prisms*. Further down you'll hear stomping. There is a *Metal Alloy* here alongside a boss!
+
+!boss(:THEDURALUDON, "Dragon's Den")
+
+Win to get the *Duraludonite*! Now we get *two* new ways to play that guy. Head back up. As you go right, you'll see our friend **Torchic**, who we can now finally capture. Further right is another hidden *Crystal Shard*. Continue in to the next room. 
+
+Take the pathway left. You'll encounter another Gimmighoul here and get our ninth set of *100 Gimmighoul Coins. Aevian Lapras roam free here, too. Climb down into the pit for another boss fight, this one in doubles:
+
+!boss(:ZARDKINGX, "Dragon's Den")
+
+!boss(:ZARDQUEENY, "Dragon's Den")
+
+Win to get the *Charizardite X* and *Charizardite Y*. Backtrack through the cave to the ladder going down, and beat some Sableye in the way. Follow the path to exit back to the exterior, where you can use Magma Drift!
+
+!enc(579)
+
+Make land at the bottom right side. Push down and right to get a hidden *Red Shard* and open a shortcut. On the ledge, you'll be ambushed by Larvitar and Gligar, but finally a boss:
+
+!boss(:TYRANICAL, "Dragon's Den")
+
+Win to get the *Tyranitarite*! The *Black Augurite* is further along this path. We can't move the Black Shard since we are forced daytime right now, so that wraps up the extra exploration we can do in this area for now.
+
+### Nastasia's Jurisdiction
+
+Enter the Xen Main HQ, located on the east side of Reldin Island. Head up the elevator to explore this area. The final Technique Construct is here, one that will teach your Blaziken *Fake Out*!
+
+Talk to Aelita in one of these rooms to get the *Lucarionite*!
+
+Head up when you are ready for a fight.
+
+**Relationship Point Choices**:
+- We have no choice. (-6 Ren)
+- I don't want to fight either... (+6 Ren)
+
+!battle(["Nastasia", :XENNASTASIA, 0], "Starlight Arena")
+
+This is quite a tough fight. The forced switch of your Pokemon right after Nastasia will likely set up hazards puts you immediately on the back foot. Bronzong, Porygon2, and Deoxys Defense are all tricky walls that will wear down your sweeper, while Deoxys Speed, Genesect, and Mega Starmie are all very powerful and speedy on this field.
+
+Utility moves like Knock Off, Tailwind, Trick Room, and so on are all going to generally find good usage here. Sucker Punch and First Impression can go a long way towards knocking out the Deoxys as well. Starlight Arena is also one of the fields that grants a pretty good Seed effect you can use if needed.
+
+Talk to Narcissa to get a *Focus Sash*. Before we proceed with the plot in front of our faces, a few more things we can take care of!
+
+### Post Admin Quests
+
+Enter one of the rooms below. Katsu will upgrade our Xen ID Card from Death Wing to Admin. Enter the Xen Lounge to the right. Take a seat on the left couch, then to the bottle above. Grab the Blanc Rose off the right shelf and talk to Katsu. You'll get a *Master Ball* and the *Gengarite*!
+
+One quick distraction before continuing this larger quest. Enter Neved's Jurisdiction via the teleporter and grab the *Port Key*. We'll want to fly over to Route 9 next, walking east to Route 10. You can use the key to get inside the building and obtain the *Barbaracite*!
+
+Next, make your way back to the Xen Siphon HQ area. Down the hallway to the left, step on the tile and head in. One more boss at the top:
+
+!boss(:MSSCIZOR, "Dragon's Den")
+
+Win to get the *Scizorite*. Next, it's time to put the pieces together from our exploration of Reldin Island, by beginning the *Percival, The Whistleblower* quest.
+
+Return to the main Reldin Pokemon Center. In the top left room you can read up on some of Team Xen, and get a password in the trash. Use the computer behind the desk to pull up the latch, and head down that escalator. In the rightmost room, insert a tape to learn of our objective... which we've already completed, by beating the Mega bosses in this area. Put the Mega Stones in the door (they're not lost to you) and proceed. Pick up *TM26 Earthquake* and watch the files on the computer. Note the password at the end.
+
+The Pokemon Center/Xen Garden teleporter can take you to any Jurisdiction, so choose Madelis'. Right outside her room on the left is a yellow machine that will accept Percival's password, `894198743461`. Follow the path and use the Darchlight Crystal. After your chat, exit and get the *Salt Key*.
+
+We can't use this key quite yet, however, so it's time to progress the story a bit.
+
+## Castle Weiss
+
+Head through the warp at the top of the Xen Garden! In this interactable cutscene, mash A to win! Interceptor's Wish was an option, or you'll be Ren:
+
+!newself(["Ren", :OUTCAST, 11])
+
+!boss(:HOTSTUFFYVELTAL, "Infernal Field")
+
+This is one of those irritating fights that takes a half hour of trial and error just to get the precise sequence of moves to beat, since there is a time limit on turns. It turns out the turn countdown only starts once you've taken out both shields, and it won't recover from any stat drops, so you want to spend the beginning of the fight spamming Parting Shot on Silvally and getting in a Screech from Flygon. Getting off a Light Screen with Sableye and then letting Greninja/Veluza/Silvally use those 5 turns wisely is going to be necessary to make it through.
+
+Back as yourself, proceed through Blacksteeple, head up to the throne, and input "Mikael" into the arm. Head up.
+
+!enc(631)
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.

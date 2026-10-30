@@ -1087,7 +1087,7 @@ Fly over to Sashila Village: a new in-game trade has opened up. A girl is at the
 
 Head to Route 4 next. Cairo now has one final crest he'll sell us for 14K Red Essence!
 
-!shop("Cairo’s Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
+!shop("Cairo's Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
 
 Head into any Luck's Tent location. There is a new move tutor: 
 

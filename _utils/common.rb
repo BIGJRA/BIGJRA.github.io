@@ -616,6 +616,10 @@ def load_maps_hash(game, scripts_dir)
     comment_line = lines[index - 1]
     if comment_line.match(/#(.+)/) == nil
       ret[key] = "NAME MISSING"
+      # Hardcodes, since I can't be bothered
+      if game == 'rejuv' && key = 631
+        ret[key] = "Castle Weiss"
+      end
     else
       name = comment_line.match(/#(.+)/)[1].strip
       ret[key] = name
