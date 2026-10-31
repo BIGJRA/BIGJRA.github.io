@@ -330,7 +330,7 @@ Hidden on this map is a 5 *Big Mushrooms*, *Max Revive*, and an *Elixir*.
 
 Talk to the various things in Shayda's residence, then agree to battle.
 
-!battle(["Shayda", :SHADEWITCH, 0], "Bewitched Field")
+!battle(["Shayda", :SHADEWITCH, 0], "Bewitched Woods")
 
 This fight has a lot of shenanigans in it, not the least of which is the frequent drowsiness. Nonetheless, you should be able to find a way to make it through this with careful enough planning!
 
@@ -360,7 +360,7 @@ If you picked "DESOLATED" or randomly drew this fight with a completed Desolatio
 
 !battle(["Nova", :DREAMERNOVA, 0], "Dimensional Field")
 
-!battle(["Shiv", :DREAMERSHIV, 0], "Bewitched Field")
+!battle(["Shiv", :DREAMERSHIV, 0], "Bewitched Woods")
 
 [Jump Back](#desktopmobilejoiplaysupport)
 

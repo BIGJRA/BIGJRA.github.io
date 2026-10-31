@@ -227,11 +227,11 @@ Talk to a blue tree on the right side of the map: Florin will cut it. Talk next 
 
 Head down and to the west, across the bridge.
 
-!battle(["Mary",:FAIRYGIRL,0], "Bewitched Field")
+!battle(["Mary",:FAIRYGIRL,0], "Bewitched Woods")
 
 Grab the hidden *Tiny Mushroom* on the water.
 
-!battle(["Bella",:FAIRYGIRL,0], "Bewitched Field")
+!battle(["Bella",:FAIRYGIRL,0], "Bewitched Woods")
 
 Activate a Braviary Post to the left. Grab the hidden *Watmel Berry*, then head south and grab a *Bold Mint*, plus hidden *Dark Gem* and another *Watmel Berry*. Go left to reach a new map. 
 
@@ -419,7 +419,7 @@ You can get a hidden *Max Repel* and *2 Pearls*. Not much else to do here for no
 
 Grab the hidden *Super Repel*, *Dark Gem*, *Yellow Shard*, *Roseli Berry*, *Magical Seed*, *Blue Shard*,. You can also pluck *4 Persim Berries* and *4 Sitrus Berries*. There is a breeder here: defeat yields *5 Exp. Candy L*.
 
-!battle(["Jude",:POKEBREEDER_F,0], "Bewitched Field")
+!battle(["Jude",:POKEBREEDER_F,0], "Bewitched Woods")
 
 A building on the left side contains an NPC who will change Hidden Power types for 5 Heart Scales.
 
@@ -457,7 +457,7 @@ Make your way back to the Darchlight Woods, and find your Grass-type gym leader 
 
 ### VS Flora
 
-!battle(["Flora",:LEADER_FLORA,0], "Bewitched Field")
+!battle(["Flora",:LEADER_FLORA,0], "Bewitched Woods")
 
 !move("UPROOT")
 
@@ -467,7 +467,7 @@ Win to get the Rose Badge, which increases our Level Cap to Lv. 70, and *TM53 En
 
 ### VS Florin
 
-!battle(["Florin",:LEADER_FLORIN,0], "Bewitched Field")
+!battle(["Florin",:LEADER_FLORIN,0], "Bewitched Woods")
 
 The battle with Florin is a very tough one. Like Rhodea says, he has a team full of glass cannons. The field helps him get stronger while his only "intact" weaknesses are Flying and Bug, though he has counters for those. Changing the weather right away tends to be helpful, and using Dark and Fairy moves may be the key to heavy damage. Ice moves with Hail can be particularly potent.
 

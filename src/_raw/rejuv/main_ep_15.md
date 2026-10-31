@@ -73,7 +73,7 @@ Grab the *Code Rembrence Rift Notes* and head up.
 
 !partner(["Narcissa",:LEADER_NARCISSA,1])
 
-!boss("DUFAUX", "Bewitched Field")
+!boss("DUFAUX", "Bewitched Woods")
 
 Dufaux is a difficult boss. Each phase of the fight adds something to Dufaux until it becomes a speedy spread move sweeper, so you have to do what you can to prevent this from happening. Narcissa is a very solid ally with supporting moves: using moves like Wide Guard and Protect to buy her time will help. Trick Room notably makes the final phases easier.
 

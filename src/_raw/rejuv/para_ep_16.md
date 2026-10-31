@@ -699,11 +699,11 @@ You will get to choose whether or not to spare the king. If you do spare the kin
 
 !partner(["Erin", :CANDIDGIRL4, 0])
 
-!dbattle(["Prince Allen", :LEADER_ALLEN, 1], ["Princess Alice", :LEADER_ALICE, 1], "Bewitched Field")
+!dbattle(["Prince Allen", :LEADER_ALLEN, 1], ["Princess Alice", :LEADER_ALICE, 1], "Bewitched Woods")
 
 Otherwise it is this fight:
 
-!dbattle(["Prince Allen", :LEADER_ALLEN, 0], ["Princess Alice", :LEADER_ALICE, 0], "Bewitched Field")
+!dbattle(["Prince Allen", :LEADER_ALLEN, 0], ["Princess Alice", :LEADER_ALICE, 0], "Bewitched Woods")
 
 For a gym battle, this one surprisingly isn't too bad. Allen is surprisingly weak to Sucker Punch, and Erin puts up one heck of a fight as a partner. There are still lots of threats including Paradox Pokemon though, so be on your guard.
 
@@ -1156,7 +1156,7 @@ You'll get the option to decide who handles Vitus! The valid options are: Marian
 
 We will obtain the *Karmic Hourglass*!
 
-## Post Finale Quests
+### Post Finale Quests
 
 There are a few quests we can take care of now that we've conquered Vitus and Nym. 
 
@@ -1237,8 +1237,69 @@ Back down at the Xen Center, the Xen Shop guy will now sell *Booster Energy* as 
 
 ## Castle Rudra
 
-That's it for all the side content in V14 Paragon!
+That's it for all the side content in V14 Paragon! Make your way back to Deux Finalis, and head all the way south from the Cathedral. Choose "Let's go!" when you are ready. Talk to the characters for some relationship point opportunities.
+
+**Relationship Point Choices**:
+- I understand your pain. (+4 Ren)
+- Reina wouldn't want this. (Neutral)
+
+**Relationship Point Choices**:
+- Is everything okay? (+4 Marianette)
+- I'm confused. (Neutral)
+
+**Relationship Point Choices**:
+- For now... (+1 Crescent)
+- Yeah, we're safe. (-1 Crescent)
+
+**Relationship Point Choices**:
+- To Erin: Yes. (+4 Erin)
+- To Erin: No. (Neutral)
+
+**Relationship Point Choices**:
+- Even me? (+4 Aelita)
+- I don't really relate... (Neutral)
+
+**Relationship Point Choices**:
+- We've all been changed. (+4 Venam)
+- That's life... (Neutral)
+
+**Relationship Point Choices**:
+- I'll help too. (+4 Alexandra, +4 Damien)
+- Kanon's fate was unfair... (Neutral)
+
+When you're ready to proceed, drop a save and talk to Anastasia.
+
+... We will get a choice between "Surrender", and "Fight Back". Let's take a look at the "Surrender Endings" first - there is important story content inside to get a complete picture. We will revisit "Fight Back" at the very end!
+
+### Surrender Endings
+
+Start by going to the top floor of the building. We can't freely go exploring. You can call a couple people each segment, and talk to other NPCs in the building. During the 22nd hour, you can choose between Crescent, Aelita, Ren, and Alexandra (if you call her earlier). After seeing each possible ending, the game will let you reset to just before this "final choice", so you can see them all.
+
+Choosing "Wait for the end" also allows you to visit Nancy and explore the S.S. Oceana again!
+
+The most meaty and important ending of them is Erin, though you need to have at least 23 points with her to view this one.
+
+!battle(["Erin", :CANDIDGIRL2, 8], "Bewitched Woods")
+
+A little taste of Renegade, I suppose. Good luck!
+
+### Fight Back
+
+Choose to "Fight Back", prepare your team, and proceed.
+
+!partner(["Melia", :MELIA_AWAKEN, 1])
+
+!battle(["Kaina", :WORLDSHATTERER, 0], "Infernal Field")
+
+This fight is not required victory to progress, but it is possible. The story will still play out pretty much the same way from here. The game will keep track of if you do for future versions, though we don't know what that is for yet. Also currently with no effects, but this happens:
+
+**Relationship Point Choices**:
+- Defeat Kaina. (+4 Kaina)
+
+I haven't successfully beat this fight yet. One thing I will mention that isn't so obvious is that the Black Lantern, obtained in GDCX, is a held item that will save one Pokemon from the effects of the every-two-turn-perish effect that otherwise makes this fight near impossible. I suppose you'd essentially have to consider you and Melia each having 2 turns maximum per Pokemon to move pieces around such that you can sweep with the Black Lantern holder. Would love to hear your strategies from breaking through Wither, Chi-Yu, Volcarona, Haxorus, Blacephalon... and Eternamax Eternatus, in my Discord Server!
+
+Mash A through the Goddess of the Moon's attack to finish the gameplay for this version!
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
-### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.
+### NOTE: The walkthrough for V14 Renegade has not been updated. 
 <hr/>
