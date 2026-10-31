@@ -405,102 +405,58 @@ Following this, you'll be given a choice to [skip a majority](#curse-of-the-xenp
 
 [Jump Back to GDCX](#grand-dream-city-x)
 
-## Complete the V13.5 Dex
-
-At the moment, Rejuvenation has no rewards for Pokedex Completion. The 100% player may still want to achieve maximal dex completion - in this section I will help us get there. Throughout the guide have been static, wild, and event Pokemon - there remain many evolutions of these Pokemon plus some breeding needed to finish the Pokedex. In general, you'll need to frequent these locations:
-
-- A breeder, to get Exp. Candy XL. Sashila Village has the best one.
-- The daycare in Sheridan, to breed.
-- The move relearner in Sheridan, to relearn key moves.
-- The Purify Chamber at the PC
-- The Somniam Mall to buy evolution items
-
-In general, evolutions and breeding mechanics are exactly the same as in the canon games. Where evolution methods and the like differ, I detail below.
-
-- All trade evolutions can be triggered via use of the Link Heart item.
-- Pikachu evolves into **Raichu (Alolan)** via Apophyll Pancakes.
-- Cubone evolves into **Marowak (Alolan)** at Lv. 28 at Night, in areas such as Goldenleaf Town
-- Koffing evolves into **Weezing (Galarian)** at Lv. 35 in areas such as West Gearen City
-- Mime Jr. evolves into **Mr. Mime (Galarian)** when leveled knowing Mimic in areas such as Evergreen Island
-- Eevee evolves into **Leafeon** either when leveled at the Great Terajuma Falls or via Leaf Stone.
-- Eevee evolves into **Glaceon** either when leveled in the Evergreen Cave North basement or via Ice Stone.
-- Eevee evolves into **Sylveon** when leveled with high friendship while it knows a Fairy move - consequently it only evolves into **Espeon** and **Umbreon** without a Fairy move, at day and night respectively.
-- Quilava evolves into **Typhlosion (Hisuian)**, Dewott into **Samurott (Hisuian)**, and Dartrix into **Decidueye (Hisuian)** via Ancient Teachings.
-- Qwilfish (Hisuian) evolves into **Overqwil** by leveling up knowing Barb Barrage.
-- Stantler evolves into **Wyrdeer** by leveling up knowing Psyshield Bash.
-- Nosepass evolves into **Probopass**, Magneton evolves into **Magnezone**, and Charjabug evolves into **Vikavolt** either when leveled in the West Gearen Power Plant generator room or via Thunder Stone.
-- Petitil evolves into **Lilligant (Hisuian)** when a Sun Stone is used in areas such as Sheridan Village.
-- Basculin (White-Striped) evolves into **Basculegion** by leveing up knowing Double-Edge.
-- Yamask (Galarian) evolves into **Runerigus** if it is leveled up with a difference between Max and Current HP of at least 49, on a map such as Wispy Chasm.
-- Rufflet evolves into **Braviary (Hisuian)** at Lv. 54 in areas such as Evergreen Island.
-- Inkay evolves into **Malamar** only if you mash B during its Lv. 30 evolution.
-- Goomy evolves into **Sliggoo (Hisuian)** at Lv. 40 in areas such as the Kingdom of Goomidra.
-- Bergmite evolves into **Avalugg (Hisuian)** via a Fire Stone.
-- Milcery evolves into **Alcremie** at Lv. 42.
-
-As for the Aevian forms, assume they evolve the same as their base forms, except in these cases:
-
-- Paras (Aevian) evolves into **Parasect (Aevian)** via Xen Waste.
-- Munna (Aevian) evolves into **Musharna (Aevian)** via Nightmare Fuel.
-- Misdreavus (Aevian) evolves into **Mismagius (Aevian)** via Leaf Stone.
-- Roselia (Aevian) evolves into **Roserade (Aevian)** via Sun Stone.
-- Snorunt (Aevian) evolves into **Glalie (Aevian)** at Lv. 42, or a female can evolve into **Froslass (Aevian)** via Water Stone.
-- Swadloon (Aevian) evolves into **Leavanny (Aevian)** via leveling while knowing Dragon Claw.
-- Litwick (Aevian) evolves into **Lampent (Aevian)** via leveling while knowing Zap Cannon, which then evolves into **Chandelure (Aevian)** via Thunder Stone.
-- Toxel evolves into **Toxtricity (Aevian)** via a Fire Stone.
-
 ## Unobtainable Pokemon
 
-As of V13.5, Generation IX Pokemon have not yet been added to the game, so none are yet available. In addition, you cannot get any of the following Pokemon at this time:
+Here is a list of the Pokemon you cannot currently obtain in V14 Paragon. Renegade has a slightly different list, but as Renegade is stated to have no postgame planned, I focus on Paragon for this list.
 
-- **Torchic**/**Combusken**/**Blaziken**, unless chosen as a starter
-- **Drilbur**/**Excadrill**
-- **Darumaka (Galarian)**/**Darmanitan (Galarian)**
-- **Ferroseed**/**Ferrothorn**
-- **Larvesta (Aevian)**/**Volcarona (Aevian)**, unless randomly given as Kakori Mystery Egg
-- **Honedge**/**Doublade**/**Aegislash**
-- **Dracozolt**/**Arctozolt**/**Dracovish**/**Arctovish**
-- **Dreepy**/**Drakloak**/**Dragapult**
-- **Ursaluna**
+- **Dracovish** or **Dracozolt**, whichever was not chosen
+- **Finizen/Palafin**
 
-At the moment, none of the following legendaries are available either:
+At the moment, none of the following legendaries are available in Paragon either:
 
-- **Articuno (Galarian)**/**Zapdos (Galarian)**/**Moltres (Galarian)**
-- **Mewtwo**/**Mew**
-- **Lugia**/**Ho-oh**
+- **Articuno (Galarian)/Zapdos (Galarian)/Moltres (Galarian)**
+- **Mewtwo/Mew**
+- **Lugia/Ho-oh**
 - **Celebi**
-- **Latias**/**Latios**
-- **Kyogre**/**Groudon**/**Rayquaza**
+- **Latias/Latios**
+- **Kyogre/Groudon/Rayquaza**
 - **Jirachi**
 - **Deoxys**
-- **Dialga**/**Palkia**/**Giratina**
-- **Regigigas**/**Regieleki**/**Regidrago**
+- **Dialga/Palkia/Giratina**
+- **Regigigas/Regieleki/Regidrago**
 - **Heatran**
-- **Cresselia**/**Darkrai**
+- **Cresselia/Darkrai**
 - **Manaphy**
 - **Arceus**
 - **Victini**
-- **Cobalion**/**Virizion**/**Terrakion**/**Keldeo**
-- **Tornadus**/**Thundurus**/**Landorus**/**Enamorus**
-- **Reshiram**/**Zekrom**/**Kyurem**
-- **Meloetta**
-- **Genesect** (Except on Renegade Route)
-- **Xerneas**/**Yveltal**
-- **Zygarde (50% and 100% formes)**
-- **Diancie** (Except on Renegade Route)
+- **Cobalion/Virizion/Terrakion/Keldeo**
+- **Tornadus/Thundurus/Landorus/Enamorus**
+- **Reshiram/Zekrom/Kyurem**
+- **Genesect**
+- **Xerneas/Yveltal**
+- **Diancie**
 - **Hoopa**
 - **Volcanion**
-- **Tapu Koko**/**Tapu Lele**/**Tapu Bulu**/**Tapu Fini**
-- **Cosmog**/**Cosmoem**/**Solgaleo**/**Lunala**
-- **Nihilego**/**Buzzwole**/**Pheromosa**/**Xurkitree**/**Celesteela**/**Kartana**/**Guzzlord**/**Poipole**/**Naganadel**/**Stakataka**/**Blacephalon**
+- **Tapu Koko/Tapu Lele/Tapu Bulu/Tapu Fini**
+- **Cosmog/Cosmoem/Solgaleo/Lunala**
+- **Buzzwole/Pheromosa/Xurkitree/Celesteela/Kartana/Guzzlord/Poipole/Naganadel/Stakataka/Blacephalon**
 - **Magearna**
 - **Marshadow**
 - **Zeraora**
-- **Meltan**/**Melmetal**
-- **Zacian**/**Zamazenta**/**Eternatus**
-- **Kubfu**/**Urshifu**
+- **Zacian/Zamazenta/Eternatus**
+- **Kubfu/Urshifu**
 - **Zarude**
-- **Glastrier**/**Spectrier**/**Calyrex**
+- **Glastrier/Spectrier/Calyrex**
+- **Great Tusk/Flutter Mane (normal)/Roaring Moon**
+- **Iron Bundle/Iron Hands/Iron Valiant**/
+- **Chien-Pao/Ting-Lu/Chi-Yu**
+- **Koraidon/Miraidon**
+- **Walking Wake/Gouging Fire/Raging Bolt**
+- **Iron Leaves/Iron Boulder/Iron Crown**
+- **Okidogi/Munkidori/Fezandipiti**
+- **Ogerpon**
+- **Terapagos**
+- **Pecharunt**
 
 ## Pickup Table
 
