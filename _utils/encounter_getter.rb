@@ -33,7 +33,9 @@ class EncounterGetter
       "Surfing": [:Water],
       "Headbutt": [:Headbutt],
       "Rock Smash": [:RockSmash],
-      "Fishing": %i[OldRod GoodRod SuperRod]
+      "Fishing": %i[OldRod GoodRod SuperRod],
+      "Lava": [:Lava],
+
     }
 
     # Creates nokogiri HTML

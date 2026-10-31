@@ -73,7 +73,7 @@ Grab the *Code Rembrence Rift Notes* and head up.
 
 !partner(["Narcissa",:LEADER_NARCISSA,1])
 
-!boss("DUFAUX", "Bewitched Field")
+!boss("DUFAUX", "Bewitched Woods")
 
 Dufaux is a difficult boss. Each phase of the fight adds something to Dufaux until it becomes a speedy spread move sweeper, so you have to do what you can to prevent this from happening. Narcissa is a very solid ally with supporting moves: using moves like Wide Guard and Protect to buy her time will help. Trick Room notably makes the final phases easier.
 
@@ -1087,7 +1087,7 @@ Fly over to Sashila Village: a new in-game trade has opened up. A girl is at the
 
 Head to Route 4 next. Cairo now has one final crest he'll sell us for 14K Red Essence!
 
-!shop("Cairo’s Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
+!shop("Cairo's Shop New Items (15 Badges)", [["Delcatty Crest", "14000 Red Essences"]])
 
 Head into any Luck's Tent location. There is a new move tutor: 
 

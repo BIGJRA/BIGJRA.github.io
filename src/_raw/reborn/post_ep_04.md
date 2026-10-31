@@ -422,7 +422,7 @@ Once you emerge in Labradorra, you'll have to fight her.
 
 !battle(["Flora", :FLORA, 0])
 
-No "Bewitched Field" in this game!
+No "Bewitched Woods Field" in this game!
 
 Once you win, she'll head to Ametrine City, so follow her and enter the former house of Lumi and Eve. After the conversation, fly on over to the Pokemon League.
 

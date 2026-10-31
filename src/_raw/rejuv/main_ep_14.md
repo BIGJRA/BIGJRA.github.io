@@ -281,11 +281,11 @@ Head back down, then go the the bottom-left-most corner. Below the taller pillar
 
 Once you reach the top, you'll be gifted the *Empoleon Crest*!
 
-Before we exit the Akuwa area, head over to Route 4. Make your way towards Den 4: You’ll spot **Sobble** hiding in the water. Chase it a few times for a battle!
+Before we exit the Akuwa area, head over to Route 4. Make your way towards Den 4: You'll spot **Sobble** hiding in the water. Chase it a few times for a battle!
 
 Cairo has a few more Crests for sale:
 
-!shop("Cairo’s Shop New Items (13 Badges)", [["Boltund Crest", "9000 Red Essences"], ["Probopass Crest", "9000 Red Essences"], ["Swalot Crest", "9000 Red Essences"], ["Cinccino Crest", "9000 Red Essences"]])
+!shop("Cairo's Shop New Items (13 Badges)", [["Boltund Crest", "9000 Red Essences"], ["Probopass Crest", "9000 Red Essences"], ["Swalot Crest", "9000 Red Essences"], ["Cinccino Crest", "9000 Red Essences"]])
 
 ### Shipwreck Recovery 2
 
