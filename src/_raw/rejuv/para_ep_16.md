@@ -880,7 +880,7 @@ You can exit out the bottom to view some more of Reldin Island, but it's a dead 
 
 ### Madelis' and Zetta's Jurisdictions
 
-If you still have it, you can show Julie the Oshawott (in any evolution stage, as long as it was obtained on that map) to unlock its Technique Construct: *Dire Claw* or *Stone Axe* for Unovan/Hisuian Samurott respectively.
+If you still have it, you can show Julie the Oshawott (in any evolution stage, as long as it was obtained on that map) to unlock its Technique Construct: *Stone Axe* or *Dire Claw* for Unovan/Hisuian Samurott respectively.
 
 !battle(["Maria", :XENANALYST_F, 1], "Factory Field")
 
@@ -987,6 +987,257 @@ This is one of those irritating fights that takes a half hour of trial and error
 Back as yourself, proceed through Blacksteeple, head up to the throne, and input "Mikael" into the arm. Head up.
 
 !enc(631)
+
+Inside, talk to Gardevoir to reach a room containing a *Fairy Feather* and the *Gardevoirite*. Talk to Gallade to reach our tenth **Gimmighoul** and its *100 Gimmighoul Coins*. This means we can finally obtain **Gholdengo**! The *Galladite* is above, as is **Honedge**! Head up in the main room when ready.
+
+!newself(["PlayerSwap", :INTERCEPTORARMOR_1, 0])
+
+!battle(["Madame X", :XENDICTATOR, 1], "Chess Board")
+
+Noble Roar -> Fusion Flare spam worked for me. Inspect the Shield. Back to your own team for the next fight. If you didn't beat Madame X way back when:
+
+!battle(["Madame Shogun", :MSHOGUN, 0], "Chess Board")
+
+If you did defeat her:
+
+!battle(["Madame Shogun", :MSHOGUN, 1], "Chess Board")
+
+We haven't had a ton of fights on the Chess Board, but there are a ton of ways to exploit this field to pull out a victory here! You can do it!
+
+This is the first fight of a gauntlet, in the sense you are thrust right into the next battle. Thankfully you are healed in between, and Melia joins as a partner for the second phase:
+
+!partner(["Melia", :MELIA_AWAKEN, 6])
+
+!boss(:MADAMESHOGUN)
+
+!move("PROMISEDPAIN")
+
+!move("BANGLEBLADE")
+
+!move("FROZENFURY")
+
+!move("BURNINGHATE")
+
+!move("TENSETIRADE")
+
+!move("COMPANIONSHUNGER")
+
+Like many similar bosses, Curse Stalling is very effective if you have the means to live her custom moveset. Melia's team is decent overall as well, so use screens to keep her and you around! Spam A after the fight.
+
+Head up into the triangle.
+
+## Deux Finalis
+
+**Relationship Point Choices**:
+- You're better than this! (Neutral)
+- You don't need her. (Neutral)
+- Go, then. (-6 Melia)
+
+!partner(["Melia", :MELIA_AWAKEN, 0])
+
+!battle(["D1SPHORYA & Emma", :RUINEDWAR, 0], "Deux Finalis")
+
+Follow the path and board the train.
+
+!dbattle(["Ard & Terra", :RUINEDWAR, 0], ["Aria & Ander", :RUINEDWAR, 0], "Deux Finalis")
+
+!dbattle(["Laney & Snow", :RUINEDWAR, 0], ["Little T & Daga", :RUINEDWAR, 0], "Deux Finalis")
+
+Go downstairs on the right. Use the stairs further to the right, and go right to get a *Magical Seed* and listen into the object leaking data. Head left for another fight.
+
+!dbattle(["Tyler", :RUINEDWAR, 0], ["G", :RUINEDWAR, 0], "Deux Finalis")
+
+Beyond is the *Deux Finalis Field Readout* and an *Amulet Coin*. Back downstairs, go down. Another object leaking data is here. An armor set is above.
+
+!dbattle(["Dopey", :RUINEDWAR, 0], ["Ana Beatriz", :RUINEDWAR, 0], "Deux Finalis")
+
+Enter the building. Upstairs is more armor.
+
+!dbattle(["Drago", :RUINEDWAR, 0], ["Fritz", :RUINEDWAR, 0], "Deux Finalis")
+
+A room at the bottom is where we go next. When prompted by Storm-Nym, the answers "Nim", "Why?", "Zed", "Kill Yourself", "Variya", "Celine", and "Die" are the interesting ones.
+
+!battle(["Rev & Luna", :RUINEDWAR, 0], "Deux Finalis")
+
+Proceed a couple maps. In the top right corner is another armor.
+
+!battle(["Moone", :RUINEDWAR, 0], "Deux Finalis")
+
+!battle(["Anu", :RUINEDWAR, 0], "Deux Finalis") 
+
+Talk to Erin in the center, then get on the bus and proceed. In the next room, we'll need to take note of the positive and negative concepts. You'll need to counter each positive with one negative.
+
+- Gregory: Happiness -> Sadness
+- Anastasia: Easy -> Difficult
+- Marianette: Full of joy -> Joyless
+- Narcissa: Simple -> Complicated
+- Ren: Forever -> Fleeting
+- Aelita: Hope -> Despair
+- Erin: Pleasure -> Pain
+- Alexandra: Relief -> Pressure
+- Damien: Easy Living -> Hardship
+
+With that, you'll have to choose to Allow or Intercept the Assimilation. The Assimilation Ending is worth a watch if you want. If you do, let the game hang on the Game Over screen for a while before pressing Retry to get an easter egg.
+
+Intercept to proceed. Head up.
+
+!battle(["Angie", :LEADER_ANGIE2, 2], "Deux Finalis")
+
+A few new tricks in Angie's arsenal, though you can and should study up on the Deux Finalis Field Notes to take advantage of it to win. Head up. With Melia as a partner again:
+
+!dbattle(["Hana & Justin", :RUINEDWAR, 0], ["Solo & Axcell", :RUINEDWAR, 0], "Deux Finalis")
+
+With that... surprise! Our final gym battle awaits.
+
+!battle(["Damien", :LEADER_DAMIEN, 1], "Deux Finalis")
+
+!move("BEASTHUNTER")
+
+A very fitting final gym fight. Aelita acting as the gym guide will say it all - it is incredibly challenging to break through and hit on Weaknesses thanks to the Deux Finalis Field's effects. His Tyranitar applies negative speed to your leads thanks to Unnerve, and his Latios' Soul Dew not only protects it from Ghost and Dark moves, but will persist into it's Mega Evolution in the second health bar. Kommo'o gets Seed speed to cripple your fairies, Hydreigon and Dragapult are "generically threatening" as usual, and Aevian Gyarados in the back can often clean up for Damien. With Beast Hunter doing Spread damage through Protecting moves, you don't have a lot of options for building momentum.
+
+There are a few strategies worth considering. Your own Dragon types won't have access to Beast Hunter, but get most of the benefits of the field, so they're worth considering. The only Dragon weakness that remains functional is Ice, so Blizzard Spam can achieve some success here. You can also use Rain on this field to tamp down Damien's oppressiveness and pull off some kind of Swift Swim sweep. Regardless of your overall strategy, I recommend addressing some of the threats in front of your face immediately. Knock Off is a good choice for Latios and Brick Break on Arenite Wall Tyranitar are good starts. There's room for some Trick Room action on the first couple of turns as well.
+
+Once you win, you'll get the Sigil Pearl Badge, and this version's final teachable move: *TM165 Scale Shot*.
+
+**Relationship Point Choices**:
+- Seriously, it's okay. (-1 Crescent)
+- I wish you told me. (+2 Crescent)
+- We needed you. (+3 Crescent, -2 Melia)
+
+**Relationship Point Choices**:
+- Scold her. (Neutral)
+- Don't scold her. (-3 Crescent)
+
+Talk to Crescent in the next room.
+
+**Relationship Point Choices**:
+- Maybe sometimes. (+1 Damien)
+- Not really, no (Neutral)
+- I am who I am. (+3 Damien)
+- Does this even matter? (-2 Damien)
+
+You will obtain **Zygarde 50%**, and the *Z-Splicer*. This unique item lets you fuse *any* Pokemon with Zygarde. Pick up ZCore 3 and ZCore 4 and proceed, merging Zygarde if you wish.
+
+!dbattle(["Little T", :RUINEDWAR, 0], ["Justus", :RUINEDWAR, 0], "Deux Finalis")
+
+Further right, you can catch more Glimmet (Aevian), or rarer Glimmora (Aevian). Head up, watch the scenes, and head up when you are ready.
+
+!partner(["Melia", :MELIA_AWAKEN, 0])
+
+!battle(["Vitus and Nym", :KINGANDQUEEN, 0], "Deux Finalis")
+
+It's Vitus and Nym's final stand, 12v12 with some of the most busted legendaries and custom forms, all against you and Melia.
+
+You'll notice you have special ally attacks you can use during this fight. These attacks will happen in the same turn as yours and Melia's, so it does tip the battle in your favor when you need it most. You can use each once. The two "attacks" have a couple of good target choices - I recommend trying the battle a few times, seeing what the *most* difficult opponents are, and working backwards. There's going to be a lot of Petrification flying around during this battle - keep that in mind as well.
+
+Pop back outside once you win - more armor is on the left.
+
+!dbattle(["Vuriko", :RUINEDWAR, 0], ["Tahar", :RUINEDWAR, 0], "Deux Finalis")
+
+Make your way to the top of the next room as soon as you are ready!
+
+!battle(["Storm-Nym", :QUEEN_NYMIERA, 1], "Deux Finalis")
+
+This first fight cannot be won. You'll find yourself in control of the A-Gang again.
+
+!newself(["A-Gang", :INTERTWINEDFATE, 0])
+
+!boss(:RIFTNIHILEGO, "Deux Finalis")
+
+!boss(:RIFTGARBODOR2, "Deux Finalis")
+
+!boss(:RIFTCHANDELURE2, "Deux Finalis")
+
+With that taken care of, here is a fight that you can win! Simply use the "Promises" of your A-Gang allies.
+
+!battle(["Storm-Nym", :QUEEN_NYMIERA, 2], "Deux Finalis")
+
+You'll get the option to decide who handles Vitus! The valid options are: Marianette, Erin, Melia, Crescent (with enough Friendship), Narcissa/Geara, Me/Myself/[your name]>. (Alexandra and Damien appear to be unfinished, other characters present will refuse). Worth watching them all.
+
+We will obtain the *Karmic Hourglass*!
+
+## Post Finale Quests
+
+There are a few quests we can take care of now that we've conquered Vitus and Nym. 
+
+Talk to the glowing green armor on the left side. Antasma will charge us with defeating all Defiled Interceptor Armors in the area. 
+
+So far, we should have defeated 12. For defeating 4, we'll get the *Catching Charm*! For defeating 8, we'll get *Leftovers*, and the *Garchompite*! For defeating 12, we'll get the *Choice Specs* and *Choice Band*.
+
+Enter the door on the right side of the church. Out the top exit, Watch a data leakage scene if you want, then fight the armor.
+
+!dbattle(["Victoria", :RUINEDWAR, 0], ["Zerin", :RUINEDWAR, 0], "Deux Finalis")
+
+Out the right door is the other armor.
+
+!dbattle(["Reispher", :RUINEDWAR, 0], ["PShine", :RUINEDWAR, 0], "Deux Finalis")
+
+Return to Antasma to get the *Choice Scarf*, *Dragoninite*, and *Blazikenite*! Head into the door and you'll be able to capture **Meloetta**!
+
+Open the safe on the right side of this room with the Salt Key we got earlier to get *Percival's Glasses*.
+
+Go down five screens. Here, Memo will mention that there is something going on in Mt. Ruin. To continue the story would be to go down from here.
+
+Instead, use the teleport tile at the Cathedral area to return to the Entrance. Head up two screens to talk to Cera. If you still had Anju's Pendant, you can give it to her.
+
+**Relationship Point Choices**:
+- Give Cera Anju's Pendant. (+3 Cera)
+
+Return to the Border World. You'll notice a Butterfly here. This is another spirit fight...!
+
+!battle(["Madame Shogun", :MSHOGUN2, 0], "Chess Board")
+
+This is obviously an incredibly challenging fight - Madame X custom form with four health bars alongside a full team of threats, all bolstered by the Chess Board? Madness. Switch around your chess pieces, plan out every turn, exploit each Pokemon's weaknesses at exactly the right moment, yadda yadda. You can do it if you've gotten this far.
+
+Win to obtain *10 Blue Shards*, *10 Red Shards*, *10 Green Shards*, *10 Yellow Shards*, *10 Black Prisms*, and *10 Exp. Candies XL*, plus the *Leader's Crest* and *Silvally Crest*!
+
+You can take the former to the Bisharp outside, in Castle Weiss's exterior. You can then battle it 3 times and level up your own Bisharp to get **Kingambit**!
+
+Continue your exit back to Aevium, through Blacksteeple Castle. Talk to Katsu in one of the rooms in the Xen Garden. 
+
+Fly over to Reldin Island. There is a new shop in the Xen Center.
+
+!shop("Xen Center Shop", ["Beast Ball", "Xen Ball", "Quick Ball", "Dusk Ball", "Revive", "Max Potion", "Full Restore"])
+
+On the hilly area to the east, you can push aside a Black Shard at night to reach a *Peat Block*! You will also notice around this map that you can now catch **Nihilego**!
+
+Finally, we will continue the *Percival, the Whistleblower* sidequest. Return to the map just north of our story destination in Deux Finalis, then go west a screen and talk to Sabine. Play through this little section as her. After chatting with Katsu in the Xen Garden, talk to Horace above, then Katsu again to get *Percival's ID*. Go together to the southeast dorm and enter the password we found earlier: `GALLIUM`.
+
+Talk to Horace upstairs, then head back towards the Xen Center. Capture **Scream Tail** and **Brute Bonnet**! Head into Mt. Ruin and catch **Iron Treads**, then **Slither Wing**! In the Siphon HQ, capture **Sandy Shocks** and **Iron Thorns**! Outside, capture **Iron Jugulis**!
+
+Answer Katsu's question right to get *3 Sweet Hearts*.
+
+Return to Percival's Darchlight Crystal, then backtrack. Follow Sabine to the right (the left is a shortcut) to Xen Center, and capture **Iron Moth** and a second Scream Tail. Accept the fast travel. Head up to Percival's room when you're ready... I recommend instantly throwing the fight so you don't have to skip through the very long cutscenes every time you retry this gauntlet. Because you're going to retry this gauntlet. A lot.
+
+!battle(["Percival", :XENPERCIVAL, 0], "Dragon's Den")
+
+!battle(["Percival", :XENPERCIVAL, 1], "Dragon's Den")
+
+!boss(:SHATTEREDTIME)
+
+No words can really express how frustrating this gauntlet is. 150+ hours in this game all for the game's current version's final sidequest to out of nowhere be at least twice or maybe even three times as hard as everything that has come before. You get the dinky "Full Restores, but no Revives" heal between first two fights, but a full heal after Mewtwo. You have to balance keeping maximal mons with at least 1 HP alongside winning the first fight, then there are the ridiculous bosses to come after.
+
+Fight one contains a ton of enemy Megas. You actually get to Mega Evolve multiple Pokemon at once during this and the next fight as well, so take advantage of that if it works with your team. The Steelix will hit hard with Physical moves and Roar away your sweeping potential. Mega Golisopod and Mega Melmetal will break your substitutes with their multi-hit moves and extra shield respectively, while Heatran, Gouging Fire, and Mega Dragonite are all tanky and powerful on this field in their own ways - the latter at full health will die to literally nothing other than maaaaybe a Rollout 5. All incredibly tough opponents and you're trying to suffer no deaths.
+
+The first fight shares a general weakness to Ground and Dragon, so the new Zygarde Splicer fusion things we have access to are a reasonable match, though a clean sweep is incredibly difficult. I'd take a look at the Field Notes for Dragon's Den and find a fit - Shed Skin and Flame Orb, for example, is very potent. Still, Mega Dragonite is just too darn tanky and without a 4x Ice Weakness on the field, it is unlikely you'll find a sweep with the Zygarde alone. Stealth Rocks help, field boosted moves like Magma Drift and Earth Power definitely help, and resetting until you have every turn mapped out definitely helps.
+
+The second fight is relatively straightforward, probably the easiest of the three especially as you aren't trying to intentionally keep your whole team alive. The fight is against Mega Mewtwo Y, who will later become Mega Mewtwo X and then just Mewtwo!
+
+It can't heal stat drops and only heals status conditions on its final health bar, so Paralysis and a Speed drop or two is likely going to help you go bar for bar with this thing long enough to take it out.
+
+Finally, the third battle is quite chaotic, featuring a Grass/Fire Celebi that loves to spam Nasty Plot, with no field effects to exploit at first. The big gimmick in this fight is that it will sporadically de-evolve your Pokemon. You don't look so powerful when you're starting down Pribi with a Combusken, do you? It will also de-Mega Evolve your Pokemon, stealing the charge and not giving it back. The fight transitions to Glitch Field after a few shields have broken - it is during this phase its moveset shifts entirely to the typed Special Hyper Beams that require no recharge on Glitch if they knock out their targets. Past a couple Nasty Plots from the earlier phases, and its an easy sweep for Celebi. 
+
+Similarly to Mewtwo it can't heal any status conditions or stat drops, so getting off Paralysis, a Speed drop or two, and going all in on Snarl, Eerie Impulse, etc. is probably going to be your best bet to take this thing down. The classic Glitch Field strategy of sending out a massive Special Defense tank will likely work here.
+
+Of course, these three rough outlines of strategies are all good enough in their own right, but weaving them all together into a simple team of six is incredibly tough to do. I will forgive you, just this once, for using Debug mode to practice each fight over and over until you have a consistent strategy. This is Rejuvenation's Super Boss, the hardest challenge in the game. (If you don't care about the Mega Stone reward, you can lose against Celebi, change your team around to counter it, and re-challenge just that third fight to finish the sidequest with fewer rewards). 
+
+Make your way back up to the Xen Garden. Talk to Sabine to get **Meltan**! Talk to Katsu inside to get another *Metal Alloy*! You can evolve Meltan with it to get **Melmetal**! Down below, talk to Evans to get the *Glimmoranite-A*!
+
+Back down at the Xen Center, the Xen Shop guy will now sell *Booster Energy* as well... completely for free? Load up to power up those paradoxes.
+
+## Castle Rudra
+
+That's it for all the side content in V14 Paragon!
 
 <hr class="WALKTHROUGH BOUNDARY TODO"/>
 ### NOTE: The walkthrough for V14 has not been updated beyond this point. Please also note Renegade .Karma Files has yet to be reviewed, and Chapter 16 has not yet been covered.

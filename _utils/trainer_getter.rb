@@ -305,6 +305,8 @@ class TrainerGetter
                 weatherName = "Sunny Day"
               elsif moveS == :RAIN
                 weatherName = "Rain Dance"
+              elsif moveS == :SNOW
+                weatherName = "Snow"
               else
                 raise "Weather missing: #{moveS}"
               end
@@ -334,7 +336,11 @@ class TrainerGetter
           end
 
           if effs[:formchange]
-            new_form = effs[:formchange]
+            if effs[:formchange].class == Array
+              new_form = effs[:formchange][0]
+            else
+              new_form = effs[:formchange]
+            end
             new_form_key = @pokemonHash[mon[:species]].keys.find_all { |key| key.is_a?(String) }[new_form]
             new_form_data = @pokemonHash[mon[:species]][new_form_key]
 
