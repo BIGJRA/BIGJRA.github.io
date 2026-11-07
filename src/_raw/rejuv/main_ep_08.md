@@ -28,7 +28,7 @@ Outside, pluck the *Occa Berry* and enter the TM Shop.
 
 !cshop(:KristilineTMs, "Kristiline TM Shop")
 
-To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *5 Exp. Candies L*. 
+Pick up the hidden *Iapapa Berry* on the hill above. To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *5 Exp. Candies L*. 
 
 !battle(["Zeph",:POKEBREEDER_M,0], "Beach Field")
 
@@ -74,7 +74,7 @@ Go up, grab a hidden *Iapapa Berry*, then proceed to the Isle of Angels.
 
 At night, you can catch the "legendary" **Phione** here by giving it a *Gourmet Treat*.
 
-Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Heal*. A fisherman here will trade 10 Occa Berries for a *Deep Sea Tooth* or *Deep Sea Scale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
+Grab the hidden *Dive Ball*. To the right is a *Shed Shell*. Go onto the water to find a hidden *Magical Seed* and *Ice Gem*. A fisherman here will trade 10 Occa Berries for a *Deep Sea Tooth* or *Deep Sea Scale*. You can grow them in the flower patches if you want these now, or wait till the next chapter to buy them.
 
 Grab the hidden *Max Repel* and *Icicle Plate* above. *TM07 Snowscape* is to the left.
 
@@ -183,7 +183,7 @@ Both paths will converge in a central room, where we'll have to fight a Team Xen
 - She can do this! (+3 Aelita)
 - I agree with the Eldest (-3 Aelita)
 
-Go down the ladder on the left from the bonfire room for a huge, optional puzzle. Make note of all the statue positions down the ladder, then get to work putting them all into the right places. This is arduous and pushing one block into a corner means you have to reset the whole thing, so save often. Once you succeed, go into the door at the top to get **Zorua (Hisuian)** and the *Zoroark Crest*!
+Go down the ladder on the left from the bonfire room for a huge, optional puzzle. Make note of all the statue positions down the ladder, then get to work putting them all into the right places. This is arduous and pushing one block into a corner means you have to reset the whole thing, so save often. Once you succeed, go into the door at the top to get **Zorua (Hisuian)** and the *Zoroark Crest* (This will also unlock repeatable Zorua (H) catchable on Evergreen Island)!
 
 Regardless of which path you took, backtrack down the path to the left past the puzzles. Talk to the blue pillar and show it a Dragon-type Pokemon. This opens a door to the right, where you can get *TM86 Grass Knot*. Backtrack down the right path to display a Poison-type Pokemon to a pillar. This will open a door leading to the *Deep Earth* field notes.
 
@@ -243,7 +243,7 @@ Pick up the *Black Prism*. Head back outside the ship and enter on the top level
 
 !battle(["Nickoli",:XENGRUNT_M,1], "Short-Circuit Field")
 
-Exit at the top, and go right for the *Prince from the Sands* quest. If you didn't defeat Madame X, you'll have to fight:
+Exit at the top, grab a hidden *Revive* and go right for the *Prince from the Sands* quest. If you didn't defeat Madame X, you'll have to fight:
 
 !battle(["Harrington",:XENGRUNT_M,0], "Beach Field")
 
@@ -279,7 +279,7 @@ Catch **Shadow Purugly**. Press the button and go down the ladder. In these ches
 
 Back outside, use the stabilizer on the whirlpool to fight **Qwilfish (Hisuian)**! Pick up a *Soft Sand* and *Black Prism* beyond, plus a hidden *Rare Candy*! There's also a **Veluza (Aevian)** here! 
 
-Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, take the first north to find **Swalot**! Continue north, then land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
+Take the time to return to the entrance to Route 6 from Jynnobi Pass. Exit and reenter (the battleships work too) until you see a particle effect dropping from the sky - if you do, this is "Starfall Weather"! With Starfall Weather in the sky, take the first north to find **Swalot**! Continue north, then land on Clobbo Peak Island to the northwest. Pick up the *Exp. Candy L* and catch **Chansey**! 
 
 Up from here, on the island with the Xen member, you'll find a hidden *Exp. Candy L* and Poliwag #6 for the *Poliwag Quest*!
 
@@ -422,7 +422,7 @@ Head left to fight:
 
 !battle(["Eli and Sharon",:MISFORTUNATEDUO,10], "Mountain Field")
 
-Time for another fight with Eli and Sharon. This is a 12v6 with the help of Venam, so it really shouldn't be that much of a problem. Make sure Gyarados doesn't set up!
+Time for another fight with Eli and Sharon. This is a 12v10 with the help of Venam. Make sure Gyarados doesn't set up!
 
 Head down from here.
 
@@ -510,7 +510,7 @@ Make a quick detour to Aquamarine Cave if you trusted Jenner earlier:
 Finally, go to Mynori Sea from Kakori. You'll see Shiny Tapu Koko on the dock.
 
 **Relationship Point Choices**:
-- Talk to Crawli on the dock after beating Tapu Koko in the jungle (+6 Crawli)
+- Talk to Tapu Koko on the dock after beating it in the jungle (+6 Crawli)
 
 ## Kristiline Town Help Quests
 
@@ -534,7 +534,7 @@ Grab the *Data Drive* and go right.
 
 !battle(["Ann",:TEAMAA_F,0], "Factory Field")
 
-On the next floor, step on the tiles to get the electrical balls to move.
+There is a *Magnet* available behind a beam in the bottom right corner, hard to spot. On the next floor, step on the tiles to get the electrical balls to move.
 
 !battle(["Sigyrd",:TEAMAA_M,0], "Factory Field")
 

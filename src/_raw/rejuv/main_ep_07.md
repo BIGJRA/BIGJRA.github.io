@@ -129,7 +129,11 @@ Pick up the hidden *Blue Shard* and go up.
 
 !battle(["Lex",:ROCKER,0], "Crystal Cavern")
 
-The *Sea Incense* is at the top. Hop down the ledges to the bottom right corner of the room. If you got one from the Kecleon Bazaar earlier, give a Protein to the man in exchange for **Tyrogue**! Pick up the *Link Heart* to the left... then climb the nearby ladder by going all the way back around the ledges.
+The *Sea Incense* is at the top. Hop down the ledges to the bottom right corner of the room. If you got one from the Kecleon Bazaar earlier, give a Protein to the man in exchange for **Tyrogue**! 
+
+!battle(["Bucky", :COOLTRAINER_M, 0], "Crystal Cavern")
+
+Pick up the *Link Heart* to the left... then climb the nearby ladder by going all the way back around the ledges.
 
 Nab the hidden *Escape Rope* and *Synthetic Seed*, then go up. This next area has a hidden *Elixir* and *Elemental Seed*. 
 
@@ -406,6 +410,10 @@ Back in Sheridan, go west onto Route 3 and enter the Mirage Woods. Make your way
 **ZCell 068: Mirage Cave**
 
 !img("zcell068.png")
+
+One more thing to mention on this island for now. Having found Alisha, you can return to the Route 4 Lost Camp to access one more shop:
+
+!shop("Lost Camp: Alisha", ["Tiny Mushroom", "Magnet", "Stardust", "Absorb Bulb"])
 
 ## Church of Theolia
 

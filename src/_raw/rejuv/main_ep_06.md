@@ -29,6 +29,7 @@ Start by going left, back to the Mynori Sea. First, I note that there is a new M
 In the top right of the area, you can battle **Corsola**! To the left at night you can battle Galarian Corsola more easily than before.
 
 Enter the Jirukala Cavern to the left. Surf to the right to grab a hidden *Rock Gem* and *Revive*, then emerge on the left side to get a hidden *Kee Berry* and *TM144 Cross Poison*.
+//TODO: Check the viability of early Steel Wing if you know the password
 
 Back in the Mynori Sea, surf west onto Route 5.
 
@@ -89,7 +90,7 @@ In this next room, talk to each mirror such that the ball of electricity generat
 - I would do the same. (+1 Talon, +2 Florin)
 - This is boring me to tears. (-2 Talon, -1 Florin)
 
-Talk to the mural in the next room. Backtrack to the upper level, surf up, and go left. Step on the cyclone on the roof. From here, go left and grab the hidden *Leaf Stone* and *Oran Berry*. Head down and left, then enter the door.
+Talk to the mural in the next room. Backtrack to the upper level, surf up, and go left. Step on the cyclone on the roof. From here, go left and grab the hidden *Leaf Stone* and *Oran Berry*. Head down and left, then enter the door. Obscured by trees on both sides are items: *Exp. Candy L* and *Dragon Fang*.
 
 !boss("RIFTCARNIVINE", "Grassy Terrain")
 
@@ -241,6 +242,9 @@ Exit at the top left.
 
 !battle(["Sasha",:XENGRUNT_F,0], "Factory Field")
 
+// TODO: Now that our Snag Machine has been repaired, you can capture Shadow Baltoy! Follow the path to the left, watch the scene, then return to Sasha and go right. Get the Stabilizer in this room, then reverse the water direction and go left across the water twice. This seems to be impossible to do, after going left to trigger the scene, there is no way to return to Sasha right away because you can't shift the current. This can only be done after defeating Emily since you can change the current and go back there and further right to get the Stabilizer.
+// Evaluate if the above comment is true for this section.
+
 Now that our Snag Machine has been repaired, you can capture **Shadow Baltoy**! Follow the path to the left, watch the scene, then return to Sasha and go right. Get the *Stabilizer* in this room, then reverse the water direction and go left across the water twice.
 
 !battle(["Firion",:XENGRUNT_M,0], "Factory Field")
@@ -267,11 +271,11 @@ You'll now be able to access Kakori's Help Center.
 
 ### Building Bridges
 
-We actually already did the work for this quest [back in Chapter 5](#deep-terajuma-jungle). You can get the rewards for this quest now: $4,890 and a *Sun Stone* (+1 Karma).
+We actually already did the work for this quest [back in Chapter 5](#deep-terajuma-jungle). You can get the rewards for this quest now: $4,890, *2 Yellow Shards*, and a *Sun Stone* (+1 Karma).
 
 ### Battle Me Once More!
 
-We actually already did the work for this quest [back in Chapter 5](#mynori-sea). You can get the rewards for this quest now: $4,500, *10 Max Repels*, *10 Reverse Candies*, and *10 Super Potions*. (+1 Karma).
+We actually already did the work for this quest [back in Chapter 5](#mynori-sea). You can get the rewards for this quest now: $4,500, *2 Red Shards*, *10 Max Repels*, *10 Reverse Candies*, and *10 Super Potions*. (+1 Karma).
 
 ### Black Shard Secret
 
@@ -297,7 +301,7 @@ Head up to Mt. Terajuma after you go outside. You'll find Rick on the bridge.
 
 !cshop(:GemShop, "Rick's Gems")
 
-Talk to Alexandra outside, then return to the Help Center to get $4,326.
+Talk to Alexandra outside, then return to the Help Center to get $4,326 and *2 Blue Shards*.
 
 ### Abnormal Phenomenon
 
@@ -307,9 +311,11 @@ Use a Noctowl Statue to reach the Weather Institute on Mt. Terajuma. After the c
 
 !move("VILEASSAULT")
 
-Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5,000, and a *Rare Candy* (+1 Karma)
+Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5000, *2 Green Shards*, and a *Rare Candy* (+1 Karma).
 
 ### Suspicious Person
+
+// TODO: This quest may or may not be completely different now?
 
 Accept the quest, then take a Noctowl Statue to Helojak Island. Go down and left from the statue, and you'll see a person. Follow them to the bottom side of the island and talk to them again.
 
@@ -319,7 +325,9 @@ Head into Helojak Factory. Proceed through the dungeon as we did once before - e
 
 Talk to the machine behind to deactivate pistons. This turns off the currents in the factory. Surf to the top of the factory to get on the roof. Here, you can battle and catch **Elekid** in exchange for a Gourmet Treat! 
 
-Anyways, return to the Help Center to get $4,255 (+1 Karma).
+Anyways, return to the Help Center to get $4255 and *2 Red Shards* (+1 Karma).
+
+### Aevian Mystery Egg
 
 Now that we've done all five Kakori Help Quests, we'll need to Chase Team AA in the back room.
 
@@ -498,8 +506,6 @@ Head west to exit onto Moon Field.
 
 Pick up *TM127 Beat Up* and *TM58 Sky Drop*. Use your Itemfinder here for a *Nest Ball*, *Star Piece*, *2 Dusk Balls*, and *Max Repel*. In the RV is a *Star Piece*.
 
-On any night, you'll be able to find:
-
 **ZCell 048: Moon Field**
 
 !img("zcell048.png")
@@ -514,7 +520,7 @@ Make your way back to the south part of Route 3. Surf down the river!
 
 !enc(432, nil, ["Old", "Good"])
 
-Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
+Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Behind a tree to the west of the half-building (I don't know what else to call it?) you can pick up an *Upgrade*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
 
 **ZCell 049: Route 2**
 
@@ -622,7 +628,7 @@ Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the isl
 
 Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
-!enc(490, nil, ["Old", "Good"], "Seabound Cave / Evergreen Cave")
+!enc(490, nil, ["Old", "Good"], "Seabound Cave / Evergreen Cave (North)")
 
 Catch two Sandshrew here, we are gonna trade one away in a bit. You can break the ice by a move like Bulldoze to get the Water encounters, but can't otherwise proceed.
 
@@ -634,9 +640,13 @@ Head out, and up to the Evergreen Island map northwest of Route 11.
 
 Talk to the Octillery here to battle them. Land on the island at the top of the Island map. Grab the hidden *Heart Scale* to the right, then attempt to enter the forest, and Nana will stop you. She'll invite you to her home, so head in. She'll give you the *Mysterious Emblem*. This will also give you access to a PC and bed, which we'll be using a lot in this section.
 
-Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption, such as the Magcargo we evolved earlier.
+Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption.
 
-Then, surf to the cave to the south, and use Blizzard in a battle. After the field has changed, use the Fire move, and a path will open. Grab the *Icy Field Readout* then surf to battle **Lapras**!
+Then, surf to the cave to the south.
+
+!enc(481, nil, ["Old", "Good"], "Evergreen Cave (South)")
+
+Use Blizzard in a battle. After the field has changed, use the Fire move, and a path will open. Grab the *Icy Field Readout* then surf to battle **Lapras**!
 
 Heal at Nana's house again, then enter the cave to the right.
 

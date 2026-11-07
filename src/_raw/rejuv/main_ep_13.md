@@ -952,7 +952,7 @@ This completes the restoration of Goldenwood Park!
 Pick up the *Rare Candy*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
 
 **ZCell 123: Goldenwood Park**
-
+// TODO: Maybe fix all zygarde cells depending on if this one is available earlier during ch1
 !img("zcell123.png")
 
 Talk to the fisherman inside the guild. Instantly the *Magic Karps* quest will be completed (even if you don't have the Super Rod - it seems bugged). Enter the room to the right.

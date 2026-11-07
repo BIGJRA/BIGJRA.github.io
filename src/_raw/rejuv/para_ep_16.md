@@ -84,6 +84,12 @@ One more Nymiera/Vitus section follows, then we return to the gauntlet fully hea
 
 !battle(["Claudia", :ARCHSERVANT, 0], "Blessed Field")
 
+If we freed Gardevoir:
+
+!battle(["Esther", :ARCHSERVANT, 1], "Blessed Field")
+
+If not:
+
 !battle(["Esther", :ARCHSERVANT, 0], "Blessed Field")
 
 This brings us to the third and fourth phases for Nym and Vitus. Spam to win, then spam the "Up" key when prompted.
@@ -154,7 +160,7 @@ Good thing we escaped that near-death scenario in the past to return to a peacef
 
 !boss(:SENTAKA)
 
-You'll observe you can put out fires by walking into them. We want to put out every single fire that we can reach, starting by going down and left in the area.
+You'll observe you can put out fires by walking into them while you have a Water-type in your party. We want to put out every single fire that we can reach, starting by going down and left in the area.
 
 [New Game+ Content](#chapter-16-paragon-ng-part-2)
 
@@ -375,7 +381,7 @@ Pick up the *Code: Dos Rift Notes*. Choose whether or not you will take on the r
 
 This boss flip flops between powerful physical and special offense, making it hard to tank. Special effects can still wear it down, and stat drops past the first shield break are a good idea. 
 
-After winning, if we have enough relationship points with him, Ren will give us the *Greninjite*, then **Ren will join the team**. Grab a hidden *Blast Powder*, *Light Clay*, and *Exp. Candy XL*.
+After winning, if we have 45 or more relationship points with him, Ren will give us the *Greninjite*, then **Ren will join the team**. Grab a hidden *Blast Powder*, *Light Clay*, and *Exp. Candy XL*.
 
 Talk to Lavender, Huey, and Reina in the building here, then take the tram back to the surface.
 
@@ -411,7 +417,7 @@ Enter the house on the left and put out the flames. **Mildred Mcanny will join t
 
 !battle(["Marisa", :XENGRUNT_F, 0], "City Field")
 
-**Spector will join the team**. Enter the Blakeory Museum on the west side. You can take the *Family Portrait* back at the top, and open a cache containing a *Focus Sash*! Upstairs is a cache containing *Leftovers*. Continue into the next room.
+**Spector will join the team**. Enter the Blakeory Museum on the west side. You can take the *Family Portrait* back at the top, and open a cache containing a *Focus Sash*! Upstairs is a cache containing a *Lucky Egg*. Continue into the next room.
 
 !battle(["Luis", :CUEBALL, 1], "City Field")
 
@@ -675,7 +681,7 @@ Head in to the hospital at the top of Oblitus. On a bed in the top left is a not
 
 ## Fairy Tale Badges
 
-Enter the Oblitus Gym and read the book in the right room to get started. We will essentially be playing Fire Emblem-esque map battles for the gym challenge. I won't go too in-depth on this feature... at this point, its far easier than the normal Pokemon battles! 
+Enter the Oblitus Gym and read the book in the right room to get started. We will essentially be playing Fire Emblem-esque map battles for the gym challenge. I won't go too in-depth on this feature... at this point, its far easier than the normal Pokemon battles! Note that Erin will join us for this section if we have at least 20 points with her. Having Erin here is required for the gym's "True Ending". Note that in order to get the gym's True Ending, you'll need to answer "I would like to know why." and "These are pages?". A "Good Ending" can be achieved if you say "Newspaper?".
 
 Forgive the Aevia reference, as this trainer is how the game stores the Pokemon "pieces" you will be using:
 
@@ -689,23 +695,33 @@ Your enemies:
 
 !boss(:NIGHTWOLF, "Colosseum Field")
 
-The first round is very simple. In the second, you need to complete two objectives, guarding the gate and the top, and saving Alice below. 
+The first round is very simple. In the second, you need to complete two objectives, guarding the gate and the top, and saving Alice below.
 
 The third is a bit trickier. The Dark Mages tend to be able to fight the enemies rushing the gate at the top efficiently, while a Knight can take the boss. Archers are unfortunately mid!
 
 !boss(:ZACWOLF, "Colosseum Field")
 
-You will get to choose whether or not to spare the king. If you do spare the king, go with Erin and you'll have this fight:
+You will get to choose whether or not to spare the king. Not sparing the King will lead to a Bad Ending. 
+
+The gym fights play out differently depending on the ending. 
+
+**Bad/Good Endings**
+
+In the Bad Ending, Allen is fought first, then Alice. In the Good Ending, Alice is fought first, then Allen.
+
+!battle(["Prince Allen", :LEADER_ALLEN, 0], "Rainbow Field")
+
+!battle(["Princess Alice", :LEADER_ALICE, 0], "Bewitched Woods")
+
+**True Ending**
+
+In the true ending, Erin joins you as a partner to fight the twins together.
 
 !partner(["Erin", :CANDIDGIRL4, 0])
 
 !dbattle(["Prince Allen", :LEADER_ALLEN, 1], ["Princess Alice", :LEADER_ALICE, 1], "Bewitched Woods")
 
-Otherwise it is this fight:
-
-!dbattle(["Prince Allen", :LEADER_ALLEN, 0], ["Princess Alice", :LEADER_ALICE, 0], "Bewitched Woods")
-
-For a gym battle, this one surprisingly isn't too bad. Allen is surprisingly weak to Sucker Punch, and Erin puts up one heck of a fight as a partner. There are still lots of threats including Paradox Pokemon though, so be on your guard.
+For (a) gym battle(s), this (these) one(s) surprisingly isn't (aren't) too bad. Allen is surprisingly weak to Sucker Punch (and Erin puts up one heck of a fight as a partner). There are still lots of threats including Paradox Pokemon though, so be on your guard.
 
 Win to get the *Fairy Tale: Beginnings Badge* and the *Fairy Tale: Endings Badge*! We'll also get *TM75 Swords Dance* and *TM158 Nasty Plot*! Our level cap will also finally go up to Lv. 100!
 
@@ -859,7 +875,7 @@ Call the cable car back and exit at the bottom back towards the Xen Siphon. Head
 
 Take notes of the numbers and passwords in the green machines. In the room all the way to the right, we can upgrade our ID Card from Grunt to Analyst.
 
-Enter the codes in the room above: 9349801, and GREGORIAN. Confront Geara!
+Enter the codes in the room above: `9348901`, and `GREGORIAN`. Confront Geara!
 
 !battle(["Geara", :XENGEARA, 0], "Dimensional Field")
 

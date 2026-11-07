@@ -621,6 +621,8 @@ You can also view *Secret Scene: Bunny Banishment* here if you rescued the daugh
 
 Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candies S* each time you repeat it.
 
+// TODO: Maybe fix all zygarde cells depending on if 123 one is available earlier during ch1...?
+
 You can talk to and battle the overworld **Yanma** and Sentret in this area. Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock.
 
 On the left side of the map, you'll find *Black Apricorn* on the left. Talk to it three times to get three. Return to the fisherman, defeat *The Big Catch!* itself... a Machine Lairon? You'll then obtain *5 Exp. Candies S* and *5 Great Balls* (+1 Karma).
@@ -710,7 +712,7 @@ Return to Jenner's Lab. You'll need to battle Madelis' Houndoom as Melia.
 
 !battle(["Madelis",:XENEXECUTIVE_2,3])
 
-Winning is not required: it requires a good deal of luck to win... or time resetting. The strategy that worked for me was: Ancientpower (reset until boost), Yawn, switch in Buneary, Fake Out, Double Hit, Double Hit (requires 2+ sleep turns). 
+Winning is not required: it requires a good deal of luck to win. But might as well get used to soft-resetting in Rejuvenation, am I right?
 
 **Relationship Point Choices**:
 - Defeat Madelis with Melia (+1 Melia)

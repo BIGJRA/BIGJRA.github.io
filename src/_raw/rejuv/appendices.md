@@ -119,7 +119,7 @@ Using the ID Card will take you to a familiar room in which you can view a few m
 
 *This content requires a completed V14 save file as well as a completed Reborn save file*. If you didn't choose Aevian Larvesta, got Aevian Larvesta randomly in the Kakori egg, nor earlier nor got Rookidee in the Mystery Egg, you cannot proceed through this quest at this time, but will be able to complete it during the later expected time.
 
-Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar (available in the Chapter 1 New Game+ contents) fulfill this criteria. Note that both Rookidee and Larvesta are only available at this moment with great luck, so this event may not be accessible early even if you are doing NG+. 
+Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar (available in the Chapter 1 New Game+ contents) fulfill this criteria. Rookidee and Larvesta are only available at this moment on NG+ with luck - NG++ is guaranteed a choice of Larvesta, at least. So, this event may not be accessible early even if you are doing NG+.
 
 Back in Tyluric Temple, proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight. Grab the *Mirror Sprig* and *Venusaurite*!
 

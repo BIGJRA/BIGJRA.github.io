@@ -50,6 +50,7 @@ def generate_md_text(game = 'reborn', scripts_dir)
     # Store chapter text as an array of lines - join them at the end
     res = []
     raw_md.each_line do |line|
+      next if line[0..1] == '//' # comment syntax for personal notes
       if line.strip.empty? || line[0] != '!'
         res << line
       elsif line[0] == '!'

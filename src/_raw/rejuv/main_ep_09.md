@@ -10,9 +10,23 @@ Head upstairs to talk to Amber in the right room.
 - Sorry. (+2 Amber)
 - We should go. (-1 Amber)
 
-Take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain.
+I'll mention real quick, updates on Route 4 now that we have a few more badges: all four of the Rift Dens we've seen so far have been updated with new Pokemon!
+
+!raid(1, 8)
+
+!raid(2, 8)
+
+!raid(3, 8)
+
+!raid(4, 8)
+
+Entering Cairo's house, he has more available crests now!
+
+!cshop(:CairoRE, "Cairo's Essence Shop (8 Badges)", 8)
 
 ## Forest of Time
+
+When you want to proceed, if you trusted Jenner, take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain. Otherwise you'll need to go to Valor Mountain yourself - the last cave before the summit.
 
 If you had trusted Jenner, talk to Melia here:
 
@@ -21,12 +35,12 @@ If you had trusted Jenner, talk to Melia here:
 - Team Xen (-3 Melia)
 - Type a guess (Neutral)
 
-If you typed "Forest", when you go inside:
+If you typed "Forest" and had trusted Jenner before, when you go inside:
 
 **Relationship Point Choices**:
-- Lucky Guess. (+2 Venam)
-- I read about it. (+1 Venam)
-- I've been here before (Neutral)
+- Intuition. (+2 Venam)
+- Read about it. (+1 Venam)
+- Been here before (Neutral)
 
 !enc(118, nil, ["Old", "Good"])
 
@@ -483,23 +497,7 @@ For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Bl
 
 Take the truck to Akuwa Town. At the ACDMC you can now revive **Aerodactyl**, **Archen**, and **Tirtouga**!
 
-Make your way over to Route 4. Now that we've beaten Amber, all four of the Rift Dens we've seen so far have been updated with new Pokemon!
-
-!raid(1, 8)
-
-!raid(2, 8)
-
-!raid(3, 8)
-
-!raid(4, 8)
-
-Entering Cairo's house, he has more available crests now!
-
-!cshop(:CairoRE, "Cairo's Essence Shop (8 Badges)", 8)
-
 Next, head over to the Lost Camp. We've now found all eleven children for the *Lost Souls* quest! 
-
-!shop("Lost Camp: Alisha", ["Tiny Mushroom", "Magnet", "Stardust", "Absorb Bulb"])
 
 Maman will ask for another donation: $16,000, to be exact.
 

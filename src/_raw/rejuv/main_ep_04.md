@@ -110,7 +110,7 @@ She'll also rarely have *Blue Moon Ice Cream* to sell. Ideally, we want to get a
 
 We'll eventually need Sachet and Whipped Dream to evolve Swirlix and Spritzee from earlier. We're also eventually going to want 10 Sweet Hearts for a quest, so go ahead and get those.
 
-The flower above the Ice Cream vendor contains a hidden *Green Shard*. Down and to the left is *TM117 Pay Day*! Hidden behind it is a *Star Piece*.
+The balloons above the Ice Cream vendor contain a hidden *Green Shard*. Down and to the left is *TM117 Pay Day*! Hidden behind it is a *Star Piece*.
 
 **ZCell 017: Route 3**
 

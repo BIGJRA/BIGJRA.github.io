@@ -381,8 +381,6 @@ If you try to go north, you'll take damage. We want to enter the room on the rig
 
 !battle(["Usain",:CUEBALL,0], "Factory Field")
 
-Back in the central room, switch on the computer in the bottom left corner such that the yellow arrow in the central line of arrow panels is pointing up. Walking onto this path of arrow panels will take you to *TM09 Venoshock*! 
-
 Switch the first yellow tile to point to the left again, take the walkway, and go up and left. Another monitor is here - use it to switch the second from the bottom yellow tile to be facing up. Resetting the bottom left monitor if necessary, approach the top of the room and proceed.
 
 Venam will join you for a battle.
@@ -433,7 +431,7 @@ This can be a tough one, but targeting Rorim first tends to make it easier.
 After the battle, return to the help center. Your rewards: $1600, *Red Shard*, and **Clobbopus**. (+1 Karma).
 
 ### Karrina's Quest
-
+// TODO: This should really be moved earlier to Amethyst Cave 2 section, no?
 Real quick there's another quest we can do, though it's not available from the Help Center. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave. Talk to Karrina in the top of the room.
 
 !battle(["Charly",:CUEBALL,0], "Crystal Cavern")
