@@ -671,8 +671,6 @@ Only if you didn't expose Flora and caught a Falinks in Alamissa Urben, return t
 
 Return to the room where we fought the surfboard guy to find *TM148 Phantom Force* as well as a hidden *Rare Candy* and *Old Scarf*.
 
-*From here, all players keeping up with Zygarde Cells should have 120 Cells (TODO: Verify this...?) and one Core in the Gather Cube, regardless of route.*
-
 ### Legend of the Void
 
 Grab the Help Quests in Sashila Village, on the left side.

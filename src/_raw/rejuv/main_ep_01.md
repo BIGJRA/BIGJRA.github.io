@@ -94,7 +94,7 @@ There is a quest available here by talking to an NPC next to the nurse with a fl
 
 A few things have opened up at the pier, so head south first.
 
-The garden to the south is also now open, so you can catch level 5 **Fletchling** here by interacting with them. There is a dumpster at the bottom that contains a hidden *Sweet Heart*, while the nearby stairs hide a *X Accuracy*.
+You can now catch the **Fletchling** by interacting with them. There is a dumpster at the bottom that contains a hidden *Sweet Heart*, while the nearby stairs hide a *X Accuracy*.
 
 Head into the building on the west side that's now unlocked. Talk to the man with the yellow hair, then exit the building and watch Buizel run by. This starts a quest we'll complete later. Return to East Gearen.
 
@@ -366,6 +366,8 @@ Anyways, there's a grand total of 120 coins along the ground in there, try to fi
 
 Anyways, once you've gambled to your heart's content, there is a bit more optional stuff to do if you want.
 
+### Gearen Park Scene
+
 In Gearen Park, talk to Melia for an optional scene.
 
 **Relationship Point Choices**:
@@ -381,9 +383,15 @@ In Gearen Park, talk to Melia for an optional scene.
 - It's not for me. (Neutral)
 - Photography's boring. (Melia -2)
 
+### Magnolia Library Scene
+
 Additionally, head back to Magnolia Library and pay the $300 to enter. For a short time you'll be able to battle Ren! It's optional experience and money should you want it.
 
 !battle(["Ren",:TRAINER_REN,15])
+
+[New Game+ Content](#chapter-1-ng-part-2)
+
+### Alleyway Fight
 
 There's one more fight we can take care of now. Enter the alleyway to the east of the Help Center.
 
@@ -453,7 +461,7 @@ A tough fight. One recommendation is to use the Field to your advantage: moves l
 
 If you win, accept **Litleo** in your team!
 
-[New Game+ Content](#chapter-1-ng-part-2)
+[New Game+ Content](#chapter-1-ng-part-3)
 
 Claim your reward at the help center: $350 and *Super Potion*! (+1 Karma)
 
@@ -597,7 +605,7 @@ Next, take the stairs to the left.
 
 Go left from here, then go down the stairs. Shimmy behind a tree and go to the bottom left corner of the area to talk to the *Lost Girl!* in question. Two tiles right and one down from the bottom right corner of this rock is a hidden *Rare Candy*. 
 
-You can also view a secret scene here including a battle! (TODO: Condition? M2 stuff?)
+You can also view *Secret Scene: Bunny Banishment* here if you rescued the daughter. This scene includes a battle!
 
 !boss("MELIABUNEARY", "Forest Field")
 

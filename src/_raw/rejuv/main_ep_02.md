@@ -196,8 +196,6 @@ Heal and save, then head up. Pick up the *Code Materna Rift Notes* to learn abou
 
 !boss("RIFTGALVANTULA", "Dimensional Field")
 
-TODO: fix the effect text for the boss here
-
 In this fight, Galvantula will switch to a more powerful form and start summoning Joltik after its first shield is broken. Since SOS Joltik spawns are "continuous", it will infinitely respawn at the end of any turn when it has been knocked out, so defeating Galvantula as fast as possible afterwards is the way to go. Take advantage of the Egg form's lower stats in order to set up momentum to make the rest of the fight easier!
 
 You'll be taken back to East Gearen afterwards.

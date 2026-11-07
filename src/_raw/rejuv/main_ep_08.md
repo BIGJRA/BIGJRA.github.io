@@ -606,9 +606,9 @@ Once this quest is over, return to the Kakori Help Center to get 2 *Yellow Shard
 
 ## Backtracking: Magma Drift
 
-### Tyluric Temple 3
+There are a few more sidequests and areas we can explore with Magma Drift. First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
 
-There are a few more sidequests and areas we can explore with Magma Drift.
+### Tyluric Temple 3
 
 Enter the Izakaya in the Kakori Ranger HQ to get the *My Dearest Rowlet* quest.
 
@@ -639,8 +639,6 @@ You can pick *6 Roseli Berries*, *6 Wacan Berries*, and *6 Liechi Berries*.
 You will then be able to battle and catch **Rowlet**. Cute!
 
 [New Game+ Contents](#chapter-8-ng-part-2)
-
-First, grab Chansey from the PC, and take Noctowl to Terajuma Beach. Show it to the person below for an *Oval Charm*!
 
 ### Floria Island Magma Driftin'
 

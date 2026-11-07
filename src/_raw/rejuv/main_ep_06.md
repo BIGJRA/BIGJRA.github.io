@@ -129,7 +129,7 @@ Back inside the house in Kakori, talk to Melia. Say April Berry Moose Cake.
 
 Fly over to Terajuma Beach then go up into the Deep Terajuma Jungle. 
 
-You can view a secret scene here (TODO: how?)
+You can view *Secret Scene: Could Have, Would Have* here if you have at least 8 points with Aelita and 5 with Melia.
 
 Prepare for a fight and head west. This one does not need to be won.
 
@@ -157,7 +157,7 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 
 There are also **Snorunt (Aevian)** to the right! Very nice.
 
-There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
+There is also *Secret Scene: Bridging Connections* up here you can view. If you did the Goldenwood Forest scenes, you'll get **Vivillon**!
 
 Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *Tiny Mushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 

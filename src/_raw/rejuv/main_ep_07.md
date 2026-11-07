@@ -44,7 +44,7 @@ Grab the hidden *Max Repel*, *Elemental Seed*, and *Water Gem*. A guy to the rig
 
 !battle(["Fiona",:COOLTRAINER_F,0], "Crystal Cavern")
 
-There's a secret scene you can view here. (TODO: Requirements?)
+There is *Secret Scene: Cruel Probability* you can view here if you have at least 3 points with Valarie and 5 with Melia.
 
 Continuing on, snag the hidden *Rock Gem* and *Synthetic Seed*.
 

@@ -454,7 +454,7 @@ A tough boss thanks to a ton of healing and field synergy, but it has no way to 
 
 Take a moment to return to the Dream District, where, if you've recruited every single party member, then **Amanda will join the team**! **Group Strength is now MAX**. You'll also get the *Black Lantern*.
 
-A few secret scenes remain. *Secret Scene: Remnants of Gearen* is available on the west side of the Central Square map. *Secret Scene: All that Glitters is Gold* is nearby the Somniam Mall, and *Secret Scene: Memoir of a Bounty Hunter* is in the District of Hope.
+A few scenes remain. *Secret Scene: Remnants of Gearen* is available on the west side of the Central Square map. *Secret Scene: All that Glitters is Gold* is nearby the Somniam Mall, and *Secret Scene: Memoir of a Bounty Hunter* is in the District of Hope.
 
 ### Vs. Kieran & Clear
 
