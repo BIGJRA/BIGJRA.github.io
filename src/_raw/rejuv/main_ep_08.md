@@ -28,7 +28,7 @@ Outside, pluck the *Occa Berry* and enter the TM Shop.
 
 !cshop(:KristilineTMs, "Kristiline TM Shop")
 
-To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *5 Exp. Candy L*. 
+To the right, you can exchange Heart Scales with an NPC for a changed Hidden Power type. Activate the Kristiline Noctowl Statue! There is a breeder here, beating them grants *5 Exp. Candies L*. 
 
 !battle(["Zeph",:POKEBREEDER_M,0], "Beach Field")
 
@@ -464,7 +464,7 @@ Use the warp to reach Valor Cliffside once more. Head all the way back up to the
 
 ### Valor Summit
 
-Pickup the *Smoke Ball* beyond a Blast Powder rock. There's a hidden *Ultra Potion* as you go left.
+Pickup the *Smoke Ball* beyond a Blast Powder rock. There's a hidden *Ultra Potion* as you go left, and a *Revive* hidden in a tall rock below.
 
 Activate the Noctowl statue.
 
@@ -486,6 +486,9 @@ In the beach area, follow the path.
 
 [New Game+ Contents](#chapter-8-ng-part-1)
 
+**Relationship Point Choices**:
+- It's true... she lied (-3 Crescent)
+
 Afterwards, return to the top of the mountain, collecting the souls as you go. You can catch **Abra**, along the way! Follow the path through Rift Distortion!
 
 !battle(["???", :ALGRISELDA, 0], "Wasteland")
@@ -493,9 +496,6 @@ Afterwards, return to the top of the mountain, collecting the souls as you go. Y
 I recommend taking out the Crested reinforcements first, as Giratina's final shield heals its stat boosts and powers it up. This is quite the tough battle on the Wasteland field - you can use your own hazard moves for same-turn damage. The Telluric Seed is also generally a good pick here - alongside a move like Sucker Punch, you can tear through Giratina's shields.
 
 Once everything has been played out, talk to the group in Kakori. Take a Noctowl to Teila Resort and enter the building Tesla works in.
-
-**Relationship Point Choices**:
-- It's true... she lied (-3 Crescent)
 
 **Relationship Point Choices**:
 - Uh... No? (-3 Crescent)
@@ -618,7 +618,7 @@ Reenter the Tyluric Temple and progress as we did before. You'll see Rowlet on t
 
 !img("zcell086.png")
 
-You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candy L.
+You can also use a Gourmet Treat to catch **Magby** and obtain *5 Exp. Candies L.
 
 Go back in the cave and drift all the way left.
 
@@ -712,7 +712,7 @@ Talk to Reina in here to get a *Dusk Stone* and *Exp. Candy M*. Talk to the girl
 
 !dbattle(["Alex",:POKEMONRANGER_F1,2], ["Sam",:POKEMONRANGER_M1,2], "Concert Venue")
 
-A breeder will show up at some point, too! Beating her grants *7 Exp. Candy M*.
+A breeder will show up at some point, too! Beating her grants *7 Exp. Candies M*.
 
 !battle(["Laila",:POKEBREEDER_F,0], "Concert Venue")
 

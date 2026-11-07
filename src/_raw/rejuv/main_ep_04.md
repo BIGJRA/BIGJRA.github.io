@@ -94,7 +94,7 @@ The leftmost cut tree hides a *Sitrus Berry* beyond. Three tiles down from the c
 
 !battle(["Marissa",:OPT,0])
 
-Enter the market area. All the events and shops here can only be accessed during daytime. Talk to Aelita during the day.
+Enter the market area. All the events and shops here can only be accessed during daytime. There is a hidden *Air Balloon* in... the vendor's balloons. Talk to Aelita during the day.
 
 **Relationship Point Choices**:
 - I'm starving... (Aelita +2)
@@ -179,7 +179,7 @@ Cross the real bridge to the right and go up. In the grass tile surrounded by di
 
 In the right house, grab the *Steam Ball* and talk to the scientist to begin the *Cranky Crobat* quest. Outside, enter the house on the upper right hill to get the *Itemfinder*! Finally we have the Itemfinder. This means that I don't have to describe the location of every hidden item in excruciating detail, moving forward. Speaking of which, around the Mirage Town area, there is a hidden *Clever Feather* and *Genius Feather*. Cut the tree at the top, go up the mirage stairs, grab the hidden *Reverse Candy*, and proceed into the cave at the top.
 
-Grab *TM66 Payback* as well as hidden *Everstone*, *2 Exp. Candy M*, *Repel*, *Nugget*, *Red Shard*, *Yellow Shard*, *Rock Gem*, and *Awakening* as you proceed through the cave. Grab the *Cave Field Readout* at the bottom, then use Flash for a battle!
+Grab *TM66 Payback* as well as hidden *Everstone*, *2 Exp. Candies M*, *Repel*, *Nugget*, *Red Shard*, *Yellow Shard*, *Rock Gem*, and *Awakening* as you proceed through the cave. There is a hidden *Mild Mint* you can get via use of Blast Powder, though it's likely not worth our limited supply for now. Grab the *Cave Field Readout* at the bottom, then use Flash for a battle!
 
 !boss("BOSSCROBAT", "Cave Field")
 
@@ -229,7 +229,7 @@ Now that we have the bell part, return to Mirage Woods and talk to the old woman
 
 !battle(["???",:HIKER,0], "Cave Field")
 
-Talk to **Zorua** to get it and wrap up *Broken Bell*! Also in this cave are *Blackglasses*, and a hidden *Yellow Shard*, *Moomoo Milk*, and *2 Exp. Candy M*.
+Talk to **Zorua** to get it and wrap up *Broken Bell*! Also in this cave are *Blackglasses*, and a hidden *Yellow Shard*, *Moomoo Milk*, and *2 Exp. Candies M*.
 
 ## Goldenleaf Town
 
@@ -365,9 +365,9 @@ Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Do
 
 !img("zcell027.png")
 
-Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a *Guard Spec* and a hidden *Oran Berry*. To the left and up from here, a tile above the leftmost red mushrooms before the stairs contains a *Persim Berry*. Go up the first stairs then left. Two tiles right of the leftmost red flower is a *Sitrus Berry*. Pick up the *Guard Spec*. below.
+Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a hidden *Oran Berry*.
 
-Head up... 
+Head up at the lake... 
 
 !boss("RIFTGYARADOS2", "Forest Field")
 
@@ -461,7 +461,7 @@ This is a tough fight. You're gonna need to break the barriers, but luckily your
 
 !battle(["Geara",:XENEXECUTIVE_3,1], "Short-Circuit Field")
 
-This is a well put together doubles team. Persian will probably hit first and Marowak will probably hit last and probably knock one of your mons out, so plan your turn 1 attacks accordingly. Morgrem and Clefairy are very effective at stalling, but you can try to time knocking them out so that the screens run out. Haunter and Masquerain hit hard but if you have set up any of your Pokemon you may be able to succeed!
+This is a well put together doubles team. Krokorok will probably hit first and Marowak will probably hit last and probably knock one of your mons out, so plan your turn 1 attacks accordingly. Morgrem and Clefairy are very effective at stalling, but you can try to time knocking them out so that the screens run out. His Paras is the Aevian Form variety with a gimmick: once you knock it out, it will have a second health bar, featuring the ghost typing and different stats, so you'll need to watch out for that.
 
 ## Phantasm Badge
 

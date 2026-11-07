@@ -8,7 +8,7 @@ There are a lot of features that New Game+ adds to Rejuvenation. Most of these w
 
 *The full contents in this section require a completed Paragon Save*. You can see the first few segments if you have a save file with at least three gym badges.
 
-While completing the prologue as Marianette, you'll hear a knock on the door. Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
+While completing the prologue as Maria, you'll hear a knock on the door. Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
 
 Talk to Marianette outside when you're ready for our first battle... this time around, at least. You'll be given a Hisuian Zorua, Indeedee, and Chatot to battle with.
 

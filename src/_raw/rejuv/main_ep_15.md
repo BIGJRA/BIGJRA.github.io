@@ -20,7 +20,7 @@ These mad lad developers did it - they made Ledian decent! It's punching moves h
 
 Reborn players should be used to this field by now, but here are some strategies that tend to work on this field. Revelation/Petal/Fiery Dance are all boosted under this field, so a team using these that targets their low special defense might succeed. Dragon/Swords/Quiver Dance also boost stats even more, so a sweeper might see success here if they can get the opportunity to set up. Acrobatics also is boosted here and can help you get rid of Ledian, Rillaboom, and Centiskorch.
 
-Succeed to nab the third *Star Shard*, as well as the *Ledian Crest*, and a *Somniam Mall Stamp*.
+Succeed to nab the third *Star Shard*, as well as the *Centiskorchite*, *Ledian Crest*, and a *Somniam Mall Stamp*.
 
 Outside, enter the building to the left. Go up and climb down the ladder to reach the area where we were ambushed by Bladestar.
 
@@ -952,7 +952,7 @@ Step on the switch, then go right and down. Left at the fork:
 
 !battle(["Ken",:COOLTRAINER_M,0], "Factory Field")
 
-Open the chest for *3 Exp. Candy XL*. To the right:
+Open the chest for *3 Exp. Candies XL*. To the right:
 
 !battle(["Jacob",:AXISSTUDENT_MW,0], "Factory Field")
 
@@ -978,7 +978,7 @@ Before we fight the gym leader though, there are some quests we can get done!
 
 ## Post Nightmare Quests
 
-Fly over to East Gearen. Enter the Magnolia Library and show your Aevian Litwick to Zumi, who'll reward you with *30 Exp. Candy L* and the *Manectite*. That's the end of the *PictoZumi* quest!
+Fly over to East Gearen. Enter the Magnolia Library and show your Aevian Litwick to Zumi, who'll reward you with *30 Exp. Candies L* and the *Manectite*. That's the end of the *PictoZumi* quest!
 
 Head next door to chat with Ayuda. For having 140+ cells, we will get *10 Cell Imprints*, *50 Exp. Candies XL*, and the *Golisopite-A*! Additionally, he will give us:
 
@@ -1117,7 +1117,7 @@ This a very tough fight on a tough field. This is our first 12v6 in this game, a
 
 One piece of good news is that there are only a few spread moves, so using Protect to counter the AI can help you get momentum. First priority is crippling or taking out Delcatty first. The left side, especially with the Raichu lead, has fewer threats on it, and Dragapult's screens are quite annoying. This means focusing on the right side tends to work better. You can also opt for the spread move sweep approach - SpA boosts over Hyper Voice, Heat Wave, or Blizzard will go far.
 
-Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candy XL*, as well as the *Copperajite* and *Beedrillite*!
+Win this very difficult battle to get *5 Blue Shards*, *5 Red Shards*, *5 Green Shards*, *5 Black Prisms*, *5 Exp. Candies XL*, as well as the *Copperajite* and *Beedrillite*!
 
 Oh, by the way. If you managed to grind all the way up to 999 Black Prisms, you can get **Necrozma** by asking Mr. Luck for ??? and going to Rhodea's Penthouse.
 

@@ -95,7 +95,9 @@ Talk to the mural in the next room. Backtrack to the upper level, surf up, and g
 
 This is a wacky boss fight. Carnivine has three forms, each with a four times weakness - to Ice, then Fire twice, though it holds berries to nullify them in two forms. It switches around its and also your stat boosts at each phase as well, making it hard to pin down. The Tangela and Tangrowth it spawns are particularly annoying as well - they have moves like Follow Me and Quash that try to force you out of attacking Carnivine. 
 
-Immediate Paralysis makes it much easier to deal with, since a Pokemon with moderate speed using one of said super-effective moves might be able to one-shot it. That's it for this quest, right now!
+Immediate Paralysis makes it much easier to deal with, since a Pokemon with moderate speed using one of said super-effective moves might be able to one-shot it.
+
+After doing all this, return to Kakori Village and enter the central house here to talk to Talon, Florin, and Flora once more. You'll also be able to get the *Sharp Beak*! That's it for this quest, for now. 
 
 ## Jynnobi Pass
 
@@ -147,7 +149,7 @@ Not the hardest boss we've had to face yet, thankfully. Proceed to the next map,
 
 I recommend catching a Nincada and evolving it to get a Shedinja. It's helpful in a game like this... and for finally beating a certain trainer in East Gearen in a bit. Grab the hidden *Elemental Seed*.
 
-Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candy L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Grab the *Mountain Field Readout*, then get a hidden *Hyper Potion* below. Go back up the lift and jump down the rightmost water tile. Pick up the hidden *Red Shard*.
+Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candies L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Grab the *Mountain Field Readout*, then get a hidden *Hyper Potion* below. Go back up the lift and jump down the rightmost water tile. Pick up the hidden *Red Shard*.
 
 !battle(["Demetra",:XENGRUNT_F,0], "Cave Field")
 
@@ -220,9 +222,9 @@ There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Clodsire** roamin
 
 Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
-Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack* and the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
+Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
 
-Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *Tiny Mushroom*. Further up is a *SilverPowder* as well as another hidden *Tiny Mushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
+Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. Hidden in a swamp is another *Figy Berry*. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *Tiny Mushroom*. Further up is a *SilverPowder* as well as another hidden *Tiny Mushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
 
 Once you reach the group, step onto a tile over the water to be taken to some grunts.
 
@@ -446,7 +448,7 @@ Now that our level cap is Lv. 45, it is a good time to take on Spirit Keta in th
 
 !battle(["Keta",:LEADER_KETA2,0], "Blessed Field")
 
-Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
+Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard* and *Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
 
 **ZCell 043: Amethyst Cave**
 
@@ -456,7 +458,7 @@ The next room with the river contains hidden *Rare Candy* and *Red Shard*. Exit 
 
 !enc(423, ["Surfing", "Fishing"], ["Good"])
 
-Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also only at night:
+Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also:
 
 **ZCell 044: Sheridan Village**
 
@@ -692,7 +694,7 @@ Take the boat back to Terajuma, then take a Noctowl to Deep Terajuma Jungle. Sur
 
 ## Infested Badge
 
-You'll notice there is a breeder by the Kakori Help Center. Defeating them grants you *5 Exp. Candy M*.
+You'll notice there is a breeder by the Kakori Help Center. Defeating them grants you *5 Exp. Candies M*.
 
 !battle(["Sarah",:POKEBREEDER_F,0], "Forest Field")
 

@@ -89,7 +89,7 @@ Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to
 
 !battle(["Ruddie",:AROMALADY,0])
 
-The grassy spot in the middle of dirt right from Meganium hides a *Green Shard*. The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
+The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
 If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
 
@@ -228,11 +228,11 @@ Back in the cave, go right.
 
 Talk to the hooded guy then get a hidden *Electric Gem* in the right rock, then proceed to the next room.
 
-The wall immediately on the right contains a *Genius Feather*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. 
+The wall immediately on the right contains a *Genius Feather*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. After crossing the bridge, on the left by the water is a hidden *Red Shard*.
 
 !battle(["Era",:LADY,0], "Crystal Cavern")
 
-On the right side of the room, the top box contains an *X Attack*. Head through the southeast exit.
+On the right side of the room, there is a hidden *Reverse Candy* in the box tile above the water. The top box in the cluster below contains a hidden *X Attack*. Head through the southeast exit.
 
 A box to the right contains a *Repel*. Down and to the right, the right side of a drill machine contains an *X Defense* and the last rock contains a *Rock Gem*. Go immediately to the left in the next room to get a *Mineral Ball* in the wall. Follow the path until you meet Nim!
 
@@ -300,9 +300,9 @@ Talk to the Truck Guy and have him take you back to East Gearen City. In Jenner'
 
 [New Game+ Content](#chapter-2-ng)
 
-### Sheridan Village Cont.
+### Sheridan Village Continued
 
-Return to Sheridan Village. North of the Truck Guy is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candy S*. 
+Return to Sheridan Village. North of the Truck Guy is an Audino breeder towards the top: every time you beat them, you will get *3 Exp. Candies S*. 
 
 !battle(["Jody",:POKEBREEDER_F,0], "Forest Field")
 
@@ -371,7 +371,7 @@ Head back to Sheridan Village when you're done and talk to the backpacker.
 
 You can choose to give him the book or not. If you do give it away, you'll get *Blue Moon Ice Cream*... but to buy another *Ancient Book*, you'll need to shell out $75,000 at the Kecleon Bazaar. Up to you.
 
-Claim your reward: $950 and *Water Stone*! (+1 Karma)
+Claim your reward: $950, *Blue Shard*, and *Water Stone*! (+1 Karma)
 
 ### Stolen Cargo
 
@@ -396,7 +396,7 @@ Venam will join you for a battle.
 
 Before we leave the warehouse, interact with the panel to switch the direction of the middle tile, then head right. Grab *TM09 Venoshock* then head back to Sheridan.
 
-Claim your reward: $950 and *5 Gourmet Treats*. (+1 Karma)
+Claim your reward: $950, *Yellow Shard*, and *5 Gourmet Treats*. (+1 Karma)
 
 ### Trade Me!
 
@@ -404,7 +404,7 @@ First, grab one Aipom from your PC, or catch one on Route 2 if you haven't alrea
 
 Talk to the girl with blue hair, then trade for **Pancham**.
 
-Claim your reward: $1920 and *Rare Candy*! (+1 Karma)
+Claim your reward: $1920, *Red Shard*, and *Rare Candy*! (+1 Karma)
 
 ### Get an Item
 
@@ -420,7 +420,7 @@ So make SURE you memorize your unique path. Enter the door that corresponds to y
 
 Escape, and return to the help center. If you stole it instead of buying it, talk to the guy to get *Blue Moon Ice Cream*.
 
-Claim your reward inside: $1890, Casteliacone! (+1 Karma)
+Claim your reward inside: $1890, *Green Shard*, and *Casteliacone*! (+1 Karma)
 
 ### Battle Me Again!
 
@@ -430,7 +430,7 @@ Prepare your team and talk to Novae at the inn at night.
 
 This can be a tough one, but targeting Rorim first tends to make it easier.
 
-After the battle, return to the help center. Your rewards: $1600, and **Clobbopus**. (+1 Karma).
+After the battle, return to the help center. Your rewards: $1600, *Red Shard*, and **Clobbopus**. (+1 Karma).
 
 ### Karrina's Quest
 

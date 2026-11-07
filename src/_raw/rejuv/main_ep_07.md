@@ -34,7 +34,7 @@ It is worth noting that now that we've beaten Crawli, all the boat rides from Ka
 
 ## Aquamarine Cave
 
-Head into the Mynori Sea and go west onto Route 5. You'll see Dragonite here once again - it's lost its letters. One is straight to the left of it, one is straight above it, one is on a northeast island, and one is next to the entrance to Aquamarine Cave. Return them to get a *Shiny Stone* and *TM02 Dragon Claw*!
+Head into the Mynori Sea and go west onto Route 5. You'll see Dragonite here once again - it's lost its letters. One is straight to the left of it, one is straight above it, one is on a northeast island, and one is next to the entrance to Aquamarine Cave. Return them to get a *Shiny Stone*, *TM02 Dragon Claw*, and the *Dragon's Den Field Readout*!
 
 Grab the hidden *Shoal Shell* and enter the Aquamarine Cave.
 
@@ -56,7 +56,7 @@ Hidden in this room is *Shoal Salt*, *Shoal Shell*, and *Blue Shard*. Surf on th
 
 You can find a hidden *Super Repel*, *Super Potion*, *Gourmet Treat*, and *Green Shard*. Our objective is pushing the floating stones onto the lit up tiles. Push the five stones into place... as well as Braixen into place, to get the door to open.
 
-Hidden are *2 Water Gems*, *Red Shard*, and *Blue Shard*.
+Hidden are *2 Water Gems*, *Red Shard*, and *2 Blue Shards*.
 
 !battle(["???",:XENMAGE_M,0], "Water Surface")
 
@@ -113,7 +113,7 @@ Enter Tesla's office on the right. She will give us *TM101 Rock Climb*! Head bac
 
 Next, we must go find Amber. Re-enter Aquamarine Cave, Rock Climb to the right, then follow the path down to the basement as we did before. Take the second ladder down to the depths. All the way on the right, you can Rock Climb to *TM20 Safeguard*!
 
-Climb back up the ladder and Rock Climb to the left. Pick up the *Water Stone* as well as the hidden *2 Pearls* and *2 Blue Shards*. Use Rock Smash to reach the top of this area. Pick up the hidden *Repel*, *Green Shard*, and *Exp. Candy M*. In the treasure chest is *3 Exp. Candy XL*, and *Macho Brace*. To the right, get the hidden *Telluric Seed* and the shining *Aquamarine Ore*! Backtrack to the bottom left and go down the ladder.
+Climb back up the ladder and Rock Climb to the left. Pick up the *Water Stone* as well as the hidden *2 Pearls* and *2 Blue Shards*. Use Rock Smash to reach the top of this area. Pick up the hidden *Repel*, *Green Shard*, and *Exp. Candy M*. In the treasure chest is *3 Exp. Candies XL*, and *Macho Brace*. To the right, get the hidden *Telluric Seed* and the shining *Aquamarine Ore*! Backtrack to the bottom left and go down the ladder.
 
 Grab the hidden *Fresh Water* and *Ether*, then go to the top right. After the conversation, decline the fast travel request, because there is a ladder to a new area in the bottom right side of this map: take it. Get the hidden *Green Shard* and go right.
 
@@ -135,7 +135,9 @@ Nab the hidden *Escape Rope* and *Synthetic Seed*, then go up. This next area ha
 
 !enc(325, nil, ["Old", "Good"])
 
-Talk to the man in here, then surf to the left side of the room and use Rock Climb. Mine some rocks. Note that there is a hidden *Link Heart* behind a rock, but we are out of Blast Powder. Back on the water, you can find Poliwag #5 for the *Poliwag Quest*! Climb the rocks on the right side of the map to get a hidden *Hyper Potion* as well as a *Mild Mint* and *4 Exp. Candy L*. Exit the Secluded Shore at the top to reach a new section of Route 5. Straight up:
+Talk to the man in here, then grab the hidden *Magical Seed*. Surf to the left side of the room and use Rock Climb. Mine some rocks. Note that there is a hidden *Link Heart* behind a rock, but we are out of Blast Powder. You can grab a hidden *X Defense* here however. 
+
+Back on the water, you can find Poliwag #5 for the *Poliwag Quest*! Climb the rocks on the right side of the map to get a hidden *Hyper Potion* as well as a *Mild Mint* and *4 Exp. Candies L*. Exit the Secluded Shore at the top to reach a new section of Route 5. Straight up:
 
 **ZCell 061: Route 5**
 
@@ -175,7 +177,7 @@ Once you're back in Teila, sleep again by talking to Melia. Head outside to lear
 
 !enc(213)
 
-Catch a Spinda while we're here to trade away, later. The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Dawn Stone* and:
+The black stones in this area float and can be pushed, but only during the nighttime. To the left, push a floating stone out of the way to get a *Dawn Stone* and:
 
 **ZCell 063: Magrodar Crater**
 
@@ -218,7 +220,7 @@ Upstairs:
 - I don't know what to say... (Neutral)
 - ... (-3 Tesla)
 
-Tesla will give you her *Yacht Keys*. Inside the gift box to the left is the *Furret Crest*, *3 Glitter Balls*, *2 Cell Imprints*, *2 Black Prisms*, *12 Moomoo Milks*, *12 Lava Cookies*, and *10 Exp. Candy XL*.
+Tesla will give you her *Yacht Keys*. Inside the gift box to the left is the *Furret Crest*, *3 Glitter Balls*, *2 Cell Imprints*, *2 Black Prisms*, *12 Moomoo Milks*, *12 Lava Cookies*, and *10 Exp. Candies XL*.
 
 Follow Amber into her room next.
 
@@ -279,7 +281,7 @@ In the villa, talk to Crawli.
 
 Once you're in Frozen Kakori Village, get the hidden *Super Repel* to the left. 
 
-Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in the Mynori Sea, then take the Kakori Noctowl over to Teila Resort. Enter the villa and talk to the crew.
+Enter the Ranger HQ and talk to Farha at the top. Meet her on the left island in the Mynori Sea, then take the Kakori Noctowl over to Teila Resort. Enter Tesla's Villa and talk to the crew.
 
 *Special Scene: Valarie's Insecurity* requires 6+ Relationship Points with both Valarie and Adam at this point.
 
@@ -399,7 +401,7 @@ This fight has you oscillating between the forms of Solrock and Lunatone. Intere
 
 We can now use the Phase Dial on our own Solrock and Lunatone to obtain the fusion! Nice. 
 
-Back in Sheridan, go west onto Route 3 and enter the Mirage Woods. Make your way to the Mirage Cave where we once fought Crobat. Use Rock Climb to get the *Data Drive*, *3 Exp. Candy L*, and:
+Back in Sheridan, go west onto Route 3 and enter the Mirage Woods. Make your way to the Mirage Cave where we once fought Crobat. Use Rock Climb to get the *Data Drive*, *3 Exp. Candies L*, and:
 
 **ZCell 068: Mirage Cave**
 
@@ -456,7 +458,7 @@ Reenter the Cellar. It is now frozen, so you can slide around. Follow the first 
 
 Continue right, then emerge back in the icy area. Sliiiiiiide to the right to get *NeverMeltIce*. To the right again is an *Herbal Tea* and hidden *Max Repel*.
 
-Slide your way through the gap at the bottom of the room. Grab the *Fluffy Tail* and talk to the girl for an *Ability Capsule*. Hidden here, and going left is a *Max Repel*, *Ultra Potion*, *Yellow Shard*, *Blue Shard*, and *Rare Candy*. In the bottom left pick up the *Black Prism* and another hidden *Rare Candy*, then smash the wall to get a *Rash Mint* and *3 Exp. Candy L*.
+Slide your way through the gap at the bottom of the room. Grab the *Fluffy Tail* and talk to the girl for an *Ability Capsule*. Hidden here, and going left is a *Max Repel*, *Ultra Potion*, *Yellow Shard*, *Blue Shard*, and *Rare Candy*. In the bottom left pick up the *Black Prism* and another hidden *Rare Candy*, then smash the wall to get a *Rash Mint* and *3 Exp. Candies L*.
 
 On the right side of the room, get hidden *Green Shard* and *Revive* and pick up an *X Speed*. Smash a wall to get a *Modest Mint*. You'll also find:
 

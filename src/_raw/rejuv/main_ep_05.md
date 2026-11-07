@@ -150,7 +150,7 @@ Head to the left at the top of Route 4, and sneak through the gap in the fence. 
 
 1.  Andrew can be found in Abandoned Sewers underneath Gearen City by crossing the first bridge north, then the first bridge west, then the first bridge down in an alcove at the bottom.
 2.  James can be found by entering Spring of Purification from Sheridan Village. He's on the right.
-3.  Marissa can be found on Wispy Path in the upper right corner of where Espurr played with you.
+3.  Marissa can be found on Wispy Path, near the house where Espurr played with you.
 4.  Matthew can be found on Route 3, the second bridge from the bottom.
 5.  Cybur can be found on Route 3, next to the mystery egg vendor.
 6.  Jessibelle can be found near the ACDMC in Akuwa Town.
@@ -196,7 +196,7 @@ Itemfinder at the entrance to the town will get you a *Super Repel*. There's **S
 
 !enc(13, ["Grass", "Fishing"], ["Old"])
 
-There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**!
+There is merit to catching a second Spinda for a trade a bit later on. There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**!
 
 **ZCell 031: Akuwa Town**
 
@@ -214,7 +214,7 @@ Just outside:
 
 !img("zcell033.png")
 
-Make your way back to the beach, where you can battle and catch **Clauncher**! Hidden is a *Soda Pop* and *Poke Ball*.
+Near the gym is a hidden *Health Feather*. Make your way back to the beach, where you can battle and catch **Clauncher**! Hidden is a *Soda Pop* and *Poke Ball*.
 
 **ZCell 034: Akuwa Town**
 
@@ -630,7 +630,7 @@ A woman will tell us to show her a Chansey; we shall later. Grab the *Mirror Spr
 
 ## Dewdrop Badge
 
-Head to Mynori Sea. Talk to Valarie on the dock when you're ready for your gym battle! You can bet $5K, $10K, or $20K on the outcome (and of course, you can soft-reset if you lose the bet)!
+Head to Mynori Sea. Pop on in to Jirukala Cavern to get a hidden *Hyper Potion*. Outside, talk to Valarie on the dock when you're ready for your gym battle! You can bet $5K, $10K, or $20K on the outcome (and of course, you can soft-reset if you lose the bet)!
 
 !battle(["Valarie",:LEADER_VALARIE,0], "Water Surface")
 

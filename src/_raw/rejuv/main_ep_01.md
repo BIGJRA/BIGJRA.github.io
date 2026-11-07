@@ -22,7 +22,7 @@ Talk to Maria's mother downstairs on the couch, then again in the kitchen. You'l
 
 Talk to the rainbow painting, then head up through the... spoiler dimension.
 
-Bathe in the pool, get changed at the dresser in the top right . Enter the bottom room on the left side of the first floor. Follow the path from here to conclude the prologue!
+Bathe in the pool, get changed at the dresser in the top right. Enter the bottom room on the left side of the first floor. Follow the path from here to conclude the prologue!
 
 ## S.S. Oceana
 
@@ -48,7 +48,13 @@ Once you regain control, follow the path and watch the events play out.
 
 ### Gearen Laboratory
 
-After either skipping the boat scenes or watching the cutscenes, talk to Tesla. She'll give you some money. Once you regain control, you can explore Oceana Pier.
+After either skipping the boat scenes or watching the cutscenes, talk to Tesla. 
+
+**Relationship Point Choices**:
+- Go to Gearen Laboratory... (Tesla +2)
+- I don't know... (Neutral)
+
+She'll give you some money in the first case. Once you regain control, you can explore Oceana Pier.
 
 [New Game+ Content](#chapter-1-ng-part-1)
 
@@ -250,13 +256,13 @@ Enter the Chrisola Hotel Resort at the top of the map.
 **Relationship Point Choices**:
 - Enter the Chrisola Hotel early-game (Saki +1).
 
-After you regain control, talk to a man in the bottom right for a *Super Potion*. Enter the right hallway. In one room you can get *TM126 Whirlpool*. In the hallway on the left, head into the open room at the top and interact with the tile down and right from the top left plant for $1500!
+After you regain control, talk to a man in the bottom right for a *Super Potion*. Enter the right hallway. In one room you can get *TM126 Whirlpool*. In the hallway on the left, head into the open room at the top and interact with the tile down and right from the top left plant for $1500! Take the elevator to the basement, where you can get a hidden *Repel* inside the leftmost rack on the northern wall.
 
 Head to the Casino level and talk to the red-haired fellow. They'll flush their Coin Case down the drain, so we can pick it up later.
 
 You've probably noticed a few popups regarding achievements thus far. Complete them and you'll earn AP, redeemable here. For now, we probably can't get much but I recommend saving up for the HM Items as they'll make your life a lot easier. The card items will allow you access to EV Training rooms in Jenner's lab, so those are nice too. The Exp. All isn't that necessary anymore in this game since there are lots of grinding options available. Anyways, talk to the girl on the right side to get an *Achievement Card*.
 
-!shop("AP Shop", [["Adamant Mint", "3 AP"], ["Jolly Mint", "3 AP"], ["Brave Mint", "3 AP"], ["Timid Mint", "3 AP"], ["Modest Mint", "3 AP"], ["Quiet Mint", "3 AP"], ["Calm Mint", "3 AP"], ["Bold Mint", "3 AP"], ["PP Up", "6 AP"], ["Golden Axe", "10 AP"], ["Golden Hammer", "10 AP"], ["Golden Surfboard", "15 AP"], ["Golden Gauntlet", "15 AP"], ["Golden Scuba Gear", "15 AP"], ["Golden Feathers", "20 AP"], ["Golden Jetpack", "20 AP"], ["Golden Drift Board", "20 AP"], ["Golden Claws", "20 AP"], ["Exp. All", "30 AP"], ["HP Card", "10 AP"], ["Atk Card", "10 AP"], ["Def Card", "10 AP"], ["Speed Card", "10 AP"], ["Sp. Atk Card", "10 AP"], ["Sp. Def Card", "10 AP"]])
+!cshop(:APShop, "AP Shop")
 
 My thoughts:
 
@@ -427,6 +433,8 @@ Claim your reward at the help center: $550. (+1 Karma)
 
 We can also go back to the Petal Salon for one free haircut, which boosts friendship. Helpful for friendship evolving Pokemon like Chingling. It will cost $1500 after the first and it can be done only once a day.
 
+Back in the warehouse in Oceana Pier, a blue box immediately on entering contains a hidden *Super Potion*. In the spa room, you can find a hidden *Rose Incense* on the left side of the table, and a hidden *Rare Candy* in the northwest plant.
+
 ### The Hidden Library
 
 Start at Gearen Lab. Go to the second floor via the stairs on the left, then talk to the backpacker in the right room. 
@@ -505,7 +513,9 @@ Talk to the trainers around the gym. If you talk to the person in the bottom-rig
 
 The tiles in the gym have various effects. Step on the white tile on the raised center of the gym to reach the bottom left corner, where a hidden *Psychic Gem* awaits in a trash can and you can grab the *Concert Venue Field Readout*.
 
-Stepping on the Poke Ball will cause us to have to fight a wild Pokemon: Trubbish, Grimer, Koffing, or notably **Skrelp**.
+Stepping on the Poke Ball will cause us to have to fight a wild Pokemon: Trubbish, Grimer, Koffing, or notably **Skrelp**. Backstage:
+
+!battle(["Natalia", :GUITARIST, 0], "Concert Venue")
 
 Enter the room on the left and head up either path.
 
@@ -609,11 +619,11 @@ You can also view *Secret Scene: Bunny Banishment* here if you rescued the daugh
 
 !boss("MELIABUNEARY", "Forest Field")
 
-Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candy S* each time you repeat it.
+Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candies S* each time you repeat it.
 
 You can talk to and battle the overworld **Yanma** and Sentret in this area. Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock.
 
-On the left side of the map, you'll find *Black Apricorn* on the left. Talk to it three times to get three. Return to the fisherman, defeat *The Big Catch!* itself... a Machine Lairon? You'll then obtain *5 Exp. Candy S* and *5 Great Balls* (+1 Karma).
+On the left side of the map, you'll find *Black Apricorn* on the left. Talk to it three times to get three. Return to the fisherman, defeat *The Big Catch!* itself... a Machine Lairon? You'll then obtain *5 Exp. Candies S* and *5 Great Balls* (+1 Karma).
 
 **Relationship Point Choices**:
 - You ok? (Melia +2)
@@ -692,7 +702,7 @@ After witnessing a scene and going north, grab the *Code Evo Rift Notes* and *Di
 
 This is the first of the Rift boss fights in Rejuvenation. Using moves like Growl, Charm, or Noble Roar can really help here, though be wary that it resets stat losses when its first shield breaks. Putting it to sleep is great too, with the added benefit on this field of draining health while asleep every turn. Making it too weak to knock out your Pokemon and railing it with super effective moves, particularly field-boosted Dark moves, is the key to victory. Winning awards +1 Karma, however, the plot will progress even if you lose.
 
-Talk to the grandfather in the train station to finish *Lost Girl!*. He'll give you *4 Exp. Candy S*.
+Talk to the grandfather in the train station to finish *Lost Girl!*. He'll give you *4 Exp. Candies S*.
 
 Return to Jenner's Lab. You'll need to battle Madelis' Houndoom as Melia.
 

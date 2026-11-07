@@ -90,7 +90,7 @@ Take the ladder in the top left. A *Revival Herb* is in the corner.
 
 !dbattle(["Sally",:GIRLSCOUTS,0], ["Mollie",:GIRLSCOUTS,0], "Concert Venue")
 
-Hey, there's a *Focus Sash* at the top! Proceed to the room on the left. You'll find *3 Exp. Candy XL*.
+Hey, there's a *Focus Sash* at the top! Proceed to the room on the left. You'll find *3 Exp. Candies XL*.
 
 !battle(["Emere",:CUEBALL,1], "Concert Venue")
 

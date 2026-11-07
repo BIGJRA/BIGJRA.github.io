@@ -187,13 +187,13 @@ Interact with the statues in the four rooms up and down from the garden: top lef
 
 !img("mariapuzzle.png")
 
-This is what it should look like when completed. Enter the door downstairs and go down. A room on the right contains the *White Flute*. Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
+This is what it should look like when completed. Enter the door downstairs and go down. A room on the right contains the *White Flute*, and a room on the left contains the *Red Flute*. Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
 
 **Relationship Point Choices**:
 - Attempt to save Maria (+4 Anathea)
 - Save the officer (Neutral)
 
-Either head down to untie the officer, or up to save Maria.
+Either head down to untie the officer, or up to save Maria. You can choose both, but you'll still end up doing one of the following fights.
 
 [New Game+ Content](#chapter-9-ng-part-4)
 
@@ -321,7 +321,7 @@ On a roof to the south:
 
 !shop("WG Rare Fossil Shop", ["Old Amber", "Cover Fossil", "Plume Fossil"])
 
-Enter Gearen News HQ. Grab the *Wide Lens* in the upper right. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *5 Exp. Candy L*.
+Enter Gearen News HQ. Grab the *Wide Lens* in the upper right. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *7 Exp. Candies L*.
 
 !battle(["Zed",:POKEBREEDER_M,0])
 
@@ -359,7 +359,7 @@ Head over to East Gearen City from here. A store has new wares:
 
 This means we can now easily complete the trades on the Isle of Angels for Deep Sea Tooth and Deep Sea Scale.
 
-Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candy M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
+Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candies M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
 
 ### Mega Bangle Sidequest Part 2
 
@@ -477,7 +477,7 @@ There is one more battle quest we can take care of now. Take the East Gearen boa
 
 !battle(["Jenner",:SPIRITJENNER,0], "Concert Venue")
 
-For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
+For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candies XL*, and *TM92 Trick Room*!
 
 ### Lost Souls 2
 

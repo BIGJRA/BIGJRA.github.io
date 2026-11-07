@@ -27,7 +27,7 @@ Head south from Route 9 into GDC's Scholar District.
 
 Using the itemfinder around this district, you'll find a *Blue Shard*, *Hyper Potion*, *Super Potion*, *Green Shard*, *Ether*, *Max Repel*, *Sitrus Berry*, *Casteliacone*, *Lemonade*, and *Honey*.
 
-Enter the Fan Club. Depending on your GDC reputation, you'll get items at this table. I had 660 at this point and was able to get the items: *10 Exp. Candy XL*, *TM68 Giga Impact*, *Gourmet Treat*, and *5 Black Prisms*.
+Enter the Fan Club. Depending on your GDC reputation, you'll get items at this table. I had 660 at this point and was able to get the items: *10 Exp. Candies XL*, *TM68 Giga Impact*, *Gourmet Treat*, and *5 Black Prisms*.
 
 Down and to the left outside is the GDC Arcade. There is a copy of the AP Shop from the Chrisola Hotel here, so pick up any Golden Items you want to grab while you're here. 
 
@@ -114,7 +114,7 @@ Head out to the right side of the deck to talk to Ryland if you wish.
 A hidden *HP Up* is to the right. Grab a hidden *Grass Gem* to the right. Go straight up 
 and talk to Kanon in the back room.
 
-Before we leave, we can explore the city a little bit. Down from Alexandra's house, there is a breeder to the right who will award you with *5 Exp. Candy XL* for winning.
+Before we leave, we can explore the city a little bit. Down from Alexandra's house, there is a breeder to the right who will award you with *5 Exp. Candies XL* for winning.
 
 !battle(["Philip",:POKEBREEDER_M,0], "Desert Field")
 
@@ -296,7 +296,7 @@ Nothing awaits us at the end of the path yet, so head north then west into Sashi
 - Trust Ren on this. (Neutral)
 - Something's wrong. (+3 Reina)
 
-Grab a hidden *Grass Gem* above. Attempt to head north to talk to Alexandra. There is a breeder to the right who will award you with *5 Exp. Candy XL* for winning.
+Grab a hidden *Grass Gem* above. Attempt to head north to talk to Alexandra. There is a breeder to the right who will award you with *5 Exp. Candies XL* for winning.
 
 !battle(["Philip",:POKEBREEDER_M,0], "Desert Field")
 
@@ -466,7 +466,7 @@ We will be in control of ourselves once more.
 **Relationship Point Choices**:
 - Talk to Alexandra on your way out of Sashila Village (+5 Alexandra)
 
-Talking to her also awards *5 Revives*, *5 Max Potions*, and *5 Exp. Candy XL*.
+Talking to her also awards *5 Revives*, *5 Max Potions*, and *5 Exp. Candies XL*.
 
 Enter Alamissa Urben at the top of Zorrialyn Desert East. Talk to Ren at the entrance and you'll get **Sylveon**, as well as the *Mysterious Black Box*. 
 
@@ -540,7 +540,7 @@ Enter the first building to the right to grab a hidden *Ultra Potion*. Outside o
 
 !cshop(:HiyoshiTutor, "Hiyoshi City Move Tutor")
 
-These moves we have already had access to for a while. There is a breeder who will award you with *10 Exp. Candy XLs*.
+These moves we have already had access to for a while. There is a breeder who will award you with *10 Exp. Candies XLs*.
 
 !battle(["Jimbo",:POKEBREEDER_M,0])
 
@@ -821,9 +821,9 @@ There are some move tutors in the bottom left side of the map.
 
 !cshop(:NeoGearenDying, "NEGC Move Tutor M")
 
-Grab an Aevian Budew from the PC and enter the Magnolia Library. Show it to Zumi for the *PictoZumi* quest. You'll get *10 Exp. Candy XL* and the *Ampharosite*! Our next Pokemon target is an Aevian Form located in the Axis Factory, which we'll get to later.
+Grab an Aevian Budew from the PC and enter the Magnolia Library. Show it to Zumi for the *PictoZumi* quest. You'll get *10 Exp. Candies XL* and the *Ampharosite*! Our next Pokemon target is an Aevian Form located in the Axis Factory, which we'll get to later.
 
-Finally, it's time to get another legendary! Head to the Help Center and talk to Ayuda. We have over 100 Cells plus one Core, so we now get **Zygarde 10%**! Talk to him again right after: since we have over 120 Zygarde Cells, we get *Heavy-Duty Boots*, *5 Cell Imprints*, *20 Exp. Candy XL*, and a *Modest Mint*. Our next target is 140 Cells.
+Finally, it's time to get another legendary! Head to the Help Center and talk to Ayuda. We have over 100 Cells plus one Core, so we now get **Zygarde 10%**! Talk to him again right after: since we have over 120 Zygarde Cells, we get *Heavy-Duty Boots*, *5 Cell Imprints*, *20 Exp. Candies XL*, and a *Modest Mint*. Our next target is 140 Cells.
 
 Near the area where there was previously an alleyway, you can enter a building to access the Neo High Rise.
 
@@ -1050,7 +1050,7 @@ Fly to Goldenleaf Town.
 
 !enc(82, ["Fishing"], ["Super"], "Goldenleaf Town / Forgotten Path")
 
-Enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up. Step on the tile, then head in to and get Griselda's Treasure 9: **Gastly**!
+Enter Wispy Ruins through the statue. Head into the 4-way junction and go right, then, push the strength boulder onto the platform. Enter, and follow the path up. Step on the tile, then head in to and get Griselda's Treasure 9: **Gastly**! As a note: Gastly and **Haunter** will now be available for repeatable capture in the Pokemon Pinnacle in GDC.
 
 Head next to the Forgotten Path. Enter the Lost Castle and make your way straight to the back. If you've opened all 9 of Griselda's Treasures, you can open another chest to get the *Vespiquen Crest*, and *TM61 Will-O-Wisp*.
 
@@ -1184,7 +1184,7 @@ Open these chests to get *3 Red Shards*, *3 Blue Shards*, *3 Yellow Shards*, *3 
 
 !dbattle(["Darwin",:XENDEATHWING_M,0], ["Joan",:XENANALYST_M,0], "Short-Circuit Field")
 
-A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candy XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, the *Electrode Crest*, and *Blastoisinite G*! There is also a hidden *Xen Waste* here!
+A lot of crests at play, but shouldn't be too crazy at this point. In the chests beyond are *4 Exp. Candies XL*, *3 Black Prisms*, *Cherish Ball*, *Glitter Ball*, *Dream Ball*, *Protein*, *Carbos*, *Iron*, the *Electrode Crest*, and *Blastoisinite G*! There is also a hidden *Xen Waste* here!
 
 On Valor Summit, you can use strength to access the next Gimmighoul and 100 more *Gimmighoul Coins*. A path above leads to the *Emboarite*!
 

@@ -647,7 +647,7 @@ Take the time to explore. On the east side is a *Mirror Herb*. You'll notice man
 - Have faith in them. (+3 Rhodea)
 - This is terrible... (Neutral)
 
-Enter the building at the top of the area, then the gym building. You'll get the *Oblitus Hotel Key*. Wander around the floors if you like, Karrina will give you *10 Exp. Candy XL*. Take a rest in your room. Back outside, head to the upper left side of town. Collect the town's residents.
+Enter the building at the top of the area, then the gym building. You'll get the *Oblitus Hotel Key*. Wander around the floors if you like, Karrina will give you *10 Exp. Candies XL*. Take a rest in your room. Back outside, head to the upper left side of town. Collect the town's residents.
 
 After entering the gym and chatting with the group at the hospital, talk to Venam outside.
 
@@ -814,7 +814,7 @@ To the west is an *Ultra Potion* and *Max Revive*. Make your way to the bottom l
 
 !battle(["Nickoli", :XENGRUNT_M, 2], "Water Surface")
 
-Beyond is *5 Exp. Candy XL* and the *Drednawtite*!
+Beyond is *5 Exp. Candies XL* and the *Drednawtite*!
 
 **ZCell 146: Xen Port Authority**
 

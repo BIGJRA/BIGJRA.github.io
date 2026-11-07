@@ -1,6 +1,6 @@
 # Chapter 12: Remember, I Love You
 
-Talk to Aelita on the bridge.
+Talk to Aelita in the Night Market restaurant.
 
 Before we continue the story, head over to Luck's Tent on Route 7. There is a new Move Tutor!
 
@@ -73,7 +73,7 @@ That's all we can do in this section of the cave, so head back out and go to the
 
 Exit at the top right, then pick up the hidden *Muscle Feather* and follow the path to the next cave entrance. There is a hidden *Clever Feather* and *Soda Pop* along this path. You can also battle the next Gimmighoul and obtain 100 more *Gimmighoul Coins*! Exit to get *TM35 Flamethrower*! There is also a hidden *Belue Berry* and *Honey*. 
 
-Return to the main part of Route 9. Make your way to the northwest: there is a breeder here, and each time you win, you will get *7 Exp. Candy L*.
+Return to the main part of Route 9. Make your way to the northwest: there is a breeder here, and each time you win, you will get *7 Exp. Candies L*.
 
 !battle(["Philip",:POKEBREEDER_M,0])
 

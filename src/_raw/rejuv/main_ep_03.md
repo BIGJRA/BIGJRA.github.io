@@ -117,11 +117,11 @@ Next, head back out the way we came in through the courtyard. Talk to the maid i
 
 !battle(["Deandra",:SERVANT,0], "Grassy Terrain")
 
-We've now fought all three maids, so return to the one in the main room. She unlocks all the doors in the mansion! Head through the door on the left and go up. Inside you'll find a *Full Heal, Reverse Candy, Ability Capsule*, and *Elixir*. Talk to Marianette while you're in here and ask about a box to fight a **Bronzor**. 
+We've now fought all three maids, so return to the one in the main room. She unlocks all the doors in the mansion! Head through the door on the left and go up. Inside you'll find a *Full Heal*, *Reverse Candy*, *Ability Capsule*, *Super Potion*, and *Elixir*. Talk to Marianette while you're in here and ask about a box to fight a **Bronzor**. 
 
 Finally, return to the room we woke up in and go through the upper doors. You can't go through with Marianette with you, so we'll have to come back when she's not with us anymore.
 
-Head back into the courtyard and enter the Absol statue.
+Head back into the courtyard and enter the Absol statue (the upcoming puzzle can be skipped by paying $2000 to an NPC in this area if you wish).
 
 **Relationship Point Choices**:
 - I'll be fine! (Marianette +1)
@@ -146,7 +146,7 @@ To get an item, tell her the truth here. To do so, tell her the world is safe, S
 
 ## Normality Badge
 
-Exit and return to the mansion. Before we proceed, exit all the way out to Gearen to pick up what Aelita dropped: *3 Super Potions, 4 Exp. Candy M, 2 Exp. Candy S, 2 Chesto Berries*, a *Cheri Berry*, and *Protective Pads*. Back in the mansion, in the main doors, there is an Audino breeder, and each time you win, you'll get 5 *Exp. Candy S*.
+Exit and return to the mansion. Before we proceed, exit all the way out to Gearen to pick up what Aelita dropped: *3 Super Potions, 4 Exp. Candies M, 2 Exp. Candies S, 2 Chesto Berries*, a *Cheri Berry*, and *Protective Pads*. Back in the mansion, in the main doors, there is an Audino breeder, and each time you win, you'll get 5 *Exp. Candy S*.
 
 !battle(["Miikal",:SERVANT,0], "Blessed Field")
 
