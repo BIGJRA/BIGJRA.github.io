@@ -29,6 +29,7 @@ Start by going left, back to the Mynori Sea. First, I note that there is a new M
 In the top right of the area, you can battle **Corsola**! To the left at night you can battle Galarian Corsola more easily than before.
 
 Enter the Jirukala Cavern to the left. Surf to the right to grab a hidden *Rock Gem* and *Revive*, then emerge on the left side to get a hidden *Kee Berry* and *TM144 Cross Poison*.
+//TODO: Check the viability of early Steel Wing if you know the password
 
 Back in the Mynori Sea, surf west onto Route 5.
 
@@ -89,13 +90,15 @@ In this next room, talk to each mirror such that the ball of electricity generat
 - I would do the same. (+1 Talon, +2 Florin)
 - This is boring me to tears. (-2 Talon, -1 Florin)
 
-Talk to the mural in the next room. Backtrack to the upper level, surf up, and go left. Step on the cyclone on the roof. From here, go left and grab the hidden *Leaf Stone* and *Oran Berry*. Head down and left, then enter the door.
+Talk to the mural in the next room. Backtrack to the upper level, surf up, and go left. Step on the cyclone on the roof. From here, go left and grab the hidden *Leaf Stone* and *Oran Berry*. Head down and left, then enter the door. Obscured by trees on both sides are items: *Exp. Candy L* and *Dragon Fang*.
 
 !boss("RIFTCARNIVINE", "Grassy Terrain")
 
 This is a wacky boss fight. Carnivine has three forms, each with a four times weakness - to Ice, then Fire twice, though it holds berries to nullify them in two forms. It switches around its and also your stat boosts at each phase as well, making it hard to pin down. The Tangela and Tangrowth it spawns are particularly annoying as well - they have moves like Follow Me and Quash that try to force you out of attacking Carnivine. 
 
-Immediate Paralysis makes it much easier to deal with, since a Pokemon with moderate speed using one of said super-effective moves might be able to one-shot it. That's it for this quest, right now!
+Immediate Paralysis makes it much easier to deal with, since a Pokemon with moderate speed using one of said super-effective moves might be able to one-shot it.
+
+After doing all this, return to Kakori Village and enter the central house here to talk to Talon, Florin, and Flora once more. You'll also be able to get the *Sharp Beak*! That's it for this quest, for now. 
 
 ## Jynnobi Pass
 
@@ -129,7 +132,7 @@ Back inside the house in Kakori, talk to Melia. Say April Berry Moose Cake.
 
 Fly over to Terajuma Beach then go up into the Deep Terajuma Jungle. 
 
-You can view a secret scene here (TODO: how?)
+You can view *Secret Scene: Could Have, Would Have* here if you have at least 8 points with Aelita and 5 with Melia.
 
 Prepare for a fight and head west. This one does not need to be won.
 
@@ -147,7 +150,7 @@ Not the hardest boss we've had to face yet, thankfully. Proceed to the next map,
 
 I recommend catching a Nincada and evolving it to get a Shedinja. It's helpful in a game like this... and for finally beating a certain trainer in East Gearen in a bit. Grab the hidden *Elemental Seed*.
 
-Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candy L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Grab the *Mountain Field Readout*, then get a hidden *Hyper Potion* below. Go back up the lift and jump down the rightmost water tile. Pick up the hidden *Red Shard*.
+Anyways, head back outside and cross the bridge. After a scene, enter this door. Get the hidden *Nest Ball* and *Max Repel*. Use the lift on the left. Outside, follow the path and grab the hidden *PP Up* and *Green Shard*. Look through the binoculars if you wish. Jump down into the left tile of the water specifically. Grab the *5 Exp. Candies L*, *Heart Scale*, and *Red Shard* as well as hidden *Green Shard*, and mine some rocks. Grab the *Mountain Field Readout*, then get a hidden *Hyper Potion* below. Go back up the lift and jump down the rightmost water tile. Pick up the hidden *Red Shard*.
 
 !battle(["Demetra",:XENGRUNT_F,0], "Cave Field")
 
@@ -157,7 +160,7 @@ Climb the next lift. Hiding behind a rock on the left is **Wimpod**! Exit into M
 
 There are also **Snorunt (Aevian)** to the right! Very nice.
 
-There is a secret scene up here (requirements TODO) you can view, if so, you'll get **Vivillon**!
+There is also *Secret Scene: Bridging Connections* up here you can view. If you did the Goldenwood Forest scenes, you'll get **Vivillon**!
 
 Grab the hidden *Revival Herb*, *Green Shard*, *Clever Feather*, *Resist Feather*, *Muscle Feather*, *Tiny Mushroom*, and *Exp. Candy M* as you go right. Behind another Snorunt is a hidden *Rare Candy*. Continuing, grab a hidden *Rock Gem*, *Exp. Candy L* and *Ether*.
 
@@ -220,9 +223,9 @@ There are also wild **Gastrodon**, **Wooper (Paldean)**, and **Clodsire** roamin
 
 Go up the stairs at the entrance. Grab the *Absorb Bulb* in the overworld.
 
-Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get a hidden *X Attack* and the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
+Near Braixen is a hidden *Leppa Berry*. There is an *Absorb Bulb* to the right. Go up the stairs to the right, grab the hidden *Lemonade*, *Hondew Berry*, and *Figy Berry*, then get three *Absorb Bulbs* to the right. Down from here is a hidden *Pecha Berry*. Cross some vegetation to the right to get the *Swamp Field Readout*! More vegetation above will take us to a hidden *Big Mushroom* as well as *TM108 Mud Barrage*!
 
-Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *Tiny Mushroom*. Further up is a *SilverPowder* as well as another hidden *Tiny Mushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
+Next, we're going to backtrack to the entrance of the area. Go left past Valarie and Saki. Hidden in a swamp is another *Figy Berry*. You can walk on the vegetation over the water to reach a hidden *Yellow Shard* and *Tiny Mushroom*. Further up is a *SilverPowder* as well as another hidden *Tiny Mushroom* and *Shoal Shell*. On the next landmass, go down, grab the *Absorb Bulb* and hidden *Red Shard*, and *Sitrus Berry*. Activate the Noctowl Statue here, then head north into Helojak Factory.
 
 Once you reach the group, step onto a tile over the water to be taken to some grunts.
 
@@ -238,6 +241,9 @@ Change the water direction, and cross to the left. Enter the door.
 Exit at the top left.
 
 !battle(["Sasha",:XENGRUNT_F,0], "Factory Field")
+
+// TODO: Now that our Snag Machine has been repaired, you can capture Shadow Baltoy! Follow the path to the left, watch the scene, then return to Sasha and go right. Get the Stabilizer in this room, then reverse the water direction and go left across the water twice. This seems to be impossible to do, after going left to trigger the scene, there is no way to return to Sasha right away because you can't shift the current. This can only be done after defeating Emily since you can change the current and go back there and further right to get the Stabilizer.
+// Evaluate if the above comment is true for this section.
 
 Now that our Snag Machine has been repaired, you can capture **Shadow Baltoy**! Follow the path to the left, watch the scene, then return to Sasha and go right. Get the *Stabilizer* in this room, then reverse the water direction and go left across the water twice.
 
@@ -265,11 +271,11 @@ You'll now be able to access Kakori's Help Center.
 
 ### Building Bridges
 
-We actually already did the work for this quest [back in Chapter 5](#deep-terajuma-jungle). You can get the rewards for this quest now: $4,890 and a *Sun Stone* (+1 Karma).
+We actually already did the work for this quest [back in Chapter 5](#deep-terajuma-jungle). You can get the rewards for this quest now: $4,890, *2 Yellow Shards*, and a *Sun Stone* (+1 Karma).
 
 ### Battle Me Once More!
 
-We actually already did the work for this quest [back in Chapter 5](#mynori-sea). You can get the rewards for this quest now: $4,500, *10 Max Repels*, *10 Reverse Candies*, and *10 Super Potions*. (+1 Karma).
+We actually already did the work for this quest [back in Chapter 5](#mynori-sea). You can get the rewards for this quest now: $4,500, *2 Red Shards*, *10 Max Repels*, *10 Reverse Candies*, and *10 Super Potions*. (+1 Karma).
 
 ### Black Shard Secret
 
@@ -295,7 +301,7 @@ Head up to Mt. Terajuma after you go outside. You'll find Rick on the bridge.
 
 !cshop(:GemShop, "Rick's Gems")
 
-Talk to Alexandra outside, then return to the Help Center to get $4,326.
+Talk to Alexandra outside, then return to the Help Center to get $4,326 and *2 Blue Shards*.
 
 ### Abnormal Phenomenon
 
@@ -305,9 +311,11 @@ Use a Noctowl Statue to reach the Weather Institute on Mt. Terajuma. After the c
 
 !move("VILEASSAULT")
 
-Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5,000, and a *Rare Candy* (+1 Karma)
+Unfortunately the culprit "gets away". Head back to the Weather Institute and talk to the president on the top floor. Return to the Help Center to get your rewards: a **Bulbasaur** egg, $5000, *2 Green Shards*, and a *Rare Candy* (+1 Karma).
 
 ### Suspicious Person
+
+// TODO: This quest may or may not be completely different now?
 
 Accept the quest, then take a Noctowl Statue to Helojak Island. Go down and left from the statue, and you'll see a person. Follow them to the bottom side of the island and talk to them again.
 
@@ -317,7 +325,9 @@ Head into Helojak Factory. Proceed through the dungeon as we did once before - e
 
 Talk to the machine behind to deactivate pistons. This turns off the currents in the factory. Surf to the top of the factory to get on the roof. Here, you can battle and catch **Elekid** in exchange for a Gourmet Treat! 
 
-Anyways, return to the Help Center to get $4,255 (+1 Karma).
+Anyways, return to the Help Center to get $4255 and *2 Red Shards* (+1 Karma).
+
+### Aevian Mystery Egg
 
 Now that we've done all five Kakori Help Quests, we'll need to Chase Team AA in the back room.
 
@@ -446,7 +456,7 @@ Now that our level cap is Lv. 45, it is a good time to take on Spirit Keta in th
 
 !battle(["Keta",:LEADER_KETA2,0], "Blessed Field")
 
-Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard, Reverse Candy, Red Shard, Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
+Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard* and *Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
 
 **ZCell 043: Amethyst Cave**
 
@@ -456,7 +466,7 @@ The next room with the river contains hidden *Rare Candy* and *Red Shard*. Exit 
 
 !enc(423, ["Surfing", "Fishing"], ["Good"])
 
-Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also only at night:
+Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also:
 
 **ZCell 044: Sheridan Village**
 
@@ -496,8 +506,6 @@ Head west to exit onto Moon Field.
 
 Pick up *TM127 Beat Up* and *TM58 Sky Drop*. Use your Itemfinder here for a *Nest Ball*, *Star Piece*, *2 Dusk Balls*, and *Max Repel*. In the RV is a *Star Piece*.
 
-On any night, you'll be able to find:
-
 **ZCell 048: Moon Field**
 
 !img("zcell048.png")
@@ -512,7 +520,7 @@ Make your way back to the south part of Route 3. Surf down the river!
 
 !enc(432, nil, ["Old", "Good"])
 
-Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
+Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Behind a tree to the west of the half-building (I don't know what else to call it?) you can pick up an *Upgrade*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
 
 **ZCell 049: Route 2**
 
@@ -620,7 +628,7 @@ Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the isl
 
 Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
-!enc(490, nil, ["Old", "Good"], "Seabound Cave / Evergreen Cave")
+!enc(490, nil, ["Old", "Good"], "Seabound Cave / Evergreen Cave (North)")
 
 Catch two Sandshrew here, we are gonna trade one away in a bit. You can break the ice by a move like Bulldoze to get the Water encounters, but can't otherwise proceed.
 
@@ -632,9 +640,13 @@ Head out, and up to the Evergreen Island map northwest of Route 11.
 
 Talk to the Octillery here to battle them. Land on the island at the top of the Island map. Grab the hidden *Heart Scale* to the right, then attempt to enter the forest, and Nana will stop you. She'll invite you to her home, so head in. She'll give you the *Mysterious Emblem*. This will also give you access to a PC and bed, which we'll be using a lot in this section.
 
-Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption, such as the Magcargo we evolved earlier.
+Grab something from the PC with Blizzard, and something with either Magnitude, Earthquake, or Bulldoze. The best choice is training a Castform to 35 for Blizzard, and any Pokemon who'll learn the Bulldoze TM. Also, grab something with Heat Wave, Flame Burst, Lava Plume, or Eruption.
 
-Then, surf to the cave to the south, and use Blizzard in a battle. After the field has changed, use the Fire move, and a path will open. Grab the *Icy Field Readout* then surf to battle **Lapras**!
+Then, surf to the cave to the south.
+
+!enc(481, nil, ["Old", "Good"], "Evergreen Cave (South)")
+
+Use Blizzard in a battle. After the field has changed, use the Fire move, and a path will open. Grab the *Icy Field Readout* then surf to battle **Lapras**!
 
 Heal at Nana's house again, then enter the cave to the right.
 
@@ -692,7 +704,7 @@ Take the boat back to Terajuma, then take a Noctowl to Deep Terajuma Jungle. Sur
 
 ## Infested Badge
 
-You'll notice there is a breeder by the Kakori Help Center. Defeating them grants you *5 Exp. Candy M*.
+You'll notice there is a breeder by the Kakori Help Center. Defeating them grants you *5 Exp. Candies M*.
 
 !battle(["Sarah",:POKEBREEDER_F,0], "Forest Field")
 

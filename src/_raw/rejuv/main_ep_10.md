@@ -417,7 +417,7 @@ You can get a hidden *Max Repel* and *2 Pearls*. Not much else to do here for no
 
 !enc(360, nil, ["Old", "Good"])
 
-Grab the hidden *Super Repel*, *Dark Gem*, *Yellow Shard*, *Roseli Berry*, *Magical Seed*, *Blue Shard*,. You can also pluck *4 Persim Berries* and *4 Sitrus Berries*. There is a breeder here: defeat yields *5 Exp. Candy L*.
+Grab the hidden *Super Repel*, *Dark Gem*, *Yellow Shard*, *Roseli Berry*, *Magical Seed*, *Blue Shard*,. You can also pluck *4 Persim Berries* and *4 Sitrus Berries*. There is a breeder here: defeat yields *5 Exp. Candies L*.
 
 !battle(["Jude",:POKEBREEDER_F,0], "Bewitched Woods")
 
@@ -493,7 +493,7 @@ We will want Sinistea for an in-game trade a bit later on.
 
 The first room contains a hidden *Ghost Gem*. A room on the bottom right contains a hidden *Blue Shard* and *Full Heal*. Exit to an outside area containing a hidden *Big Mushroom* and *Dark Gem*.
 
-Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Feather*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candy L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
+Back inside, enter the room in the top right. Pick up the *Old Gateau* and hidden *Health Feather*. The room at the top contains a hidden *Revival Herb*. Finally, enter the room on the left. Above is *5 Exp. Candies L* and *Blue Shard*. Outside, you can use the Darchlight Mirror to create a bridge to a hidden *Ghost Gem*. In the top room is a hidden *Spell Tag*. 
 
 Use Strength to enter the bottom room. Grab the hidden *Elixir* then read the book below Clefairy. Return to the entrance hall of the house to talk to Clefairy two more times. Follow it into the office at the top. 
 

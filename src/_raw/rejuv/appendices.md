@@ -8,7 +8,7 @@ There are a lot of features that New Game+ adds to Rejuvenation. Most of these w
 
 *The full contents in this section require a completed Paragon Save*. You can see the first few segments if you have a save file with at least three gym badges.
 
-While completing the prologue as Marianette, you'll hear a knock on the door. Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
+While completing the prologue as Maria, you'll hear a knock on the door. Answer the front door, then enter Maria's father's office. Return to the front door, then go up to the balcony. Talk to Marianette downstairs.
 
 Talk to Marianette outside when you're ready for our first battle... this time around, at least. You'll be given a Hisuian Zorua, Indeedee, and Chatot to battle with.
 
@@ -40,6 +40,14 @@ When you have control again, enter Vitus' office and enter the above password in
 
 ### Chapter 1 NG+ Part 2
 
+*The contents in this section require TWO save files - one to unlock basic NG+ contents detailed in the sections below, and one in which you have completed "Shayda's Quest"*. 
+
+If you have done the above, in your third+ file after defeating Ren in the library, talk to him again to get *Shayda's Charm*, which boosts our odds of obtaining Black Prisms!
+
+[Jump Back](#battle-me)
+
+### Chapter 1 NG+ Part 3
+
 In the Dangerous Pokemon Quest, there will be an additional fight and rewards *if you have a completed Reborn save file* on your computer.
 
 Talk to the crate if prompted!
@@ -49,8 +57,6 @@ Talk to the crate if prompted!
 If you can beat this nightmare of a fight, you'll be able to trade anything for a **Gligar** and the legendary *Victreebelite*.
 
 [Jump Back](#dangerous-pokemon)
-
-(TODO: I know there is additional contents, New Game++ if you will, that occur here, something about Ren in the library and Shayda. Check relationship points. I will cover these later alongside Ch 16)
 
 ### Chapter 2 NG+
 
@@ -87,11 +93,19 @@ You can also choose to skip the majority of the castle section as well!
 
 ### Chapter 6 NG+
 
-*This content requires a completed V14 save file*. While completing the Silvally Quest, there is extra content in New Game+. Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**. (I strongly recommend picking Larvesta here, not just because it is extremely powerful, but because it will also open up *another* New Game+ sidequest skip in a bit that we might as well take advantage of. Specifically if you got Rookidee in the Mystery Egg earlier, that will suffice in Larvesta's place.)
+*This content requires having a completed V14 save file that has obtained the Silvally Crest*. While completing the Silvally Quest, there is extra content in New Game+. 
+
+While attempting to get Type:Null, you'll be challenged to a battle!
+
+!battle(["Eizen", :EIZEN, 0])
+
+Win to get the *Silvally Crest* very early!
+
+There's more, but *the contents in the rest of this section require TWO save files - one to unlock basic NG+ contents detailed in the sections below, and one in which you have completed the contents behind the Twingold Door in Chapter 16*. 
+
+In a third+ save file with the above complete, Enter the back room of Eizen's house. You'll be able to pick between **Larvesta (Aevian)**, **Sneasel (Aevian)**, and **Glimmet (Aevian)**. (I strongly recommend picking Larvesta here, not just because it is extremely powerful, but because it will also open up *another* New Game+ sidequest skip in a bit that we might as well take advantage of. Specifically if you got Rookidee in the Mystery Egg earlier, that will suffice in Larvesta's place.)
 
 Using the ID Card will take you to a familiar room in which you can view a few more Black Boxes that have been filled in.
-
-(TODO: I know there is additional contents, New Game++ if you will, that occur here. Check relationship points. I will cover these later alongside Ch 16)
 
 [Jump Back](#akuwa-area-surfing--sidequests)
 
@@ -105,7 +119,7 @@ Using the ID Card will take you to a familiar room in which you can view a few m
 
 *This content requires a completed V14 save file as well as a completed Reborn save file*. If you didn't choose Aevian Larvesta, got Aevian Larvesta randomly in the Kakori egg, nor earlier nor got Rookidee in the Mystery Egg, you cannot proceed through this quest at this time, but will be able to complete it during the later expected time.
 
-Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar (available in the Chapter 1 New Game+ contents) fulfill this criteria. Note that both Rookidee and Larvesta are only available at this moment with great luck, so this event may not be accessible early even if you are doing NG+. 
+Add three Pokemon to your party that match the types of Tornadus, Thundurus, and Landorus. Rookidee / Aevian Larvesta, Emolga, and Gligar (available in the Chapter 1 New Game+ contents) fulfill this criteria. Rookidee and Larvesta are only available at this moment on NG+ with luck - NG++ is guaranteed a choice of Larvesta, at least. So, this event may not be accessible early even if you are doing NG+.
 
 Back in Tyluric Temple, proceed until you reach the indoor lava section, then go all the way to the right. Talk to the tablet here, then go up the stairs for a fight. Grab the *Mirror Sprig* and *Venusaurite*!
 
@@ -118,7 +132,7 @@ The devs even anticipated this sequence of events playing out early. I recommend
 **Relationship Point Choices**:
 - Do the early trade with Talon (+2 Talon)
 
-[Jump Back](#magma-drift-exploration)
+[Jump Back](#floria-island-magma-driftin)
 
 ### Chapter 9 NG+ Part 1
 
@@ -381,7 +395,7 @@ Use the password, then head into the next room to get the *Xen-Tram Key*. Talk t
 
 You can use the Police Key we got a little while ago only in NG+, in the Police Station. Inside is a *Poke Ball Belt* and a room full of stone people.
 
-There is Secret Scene: Null and Void, which requires us to have at least 4 relationship points with Comet. We just got these! After this chat, talk to Comet about and give him the Belt we got at the station.
+There is *Secret Scene: Null and Void*, which requires us to have at least 4 relationship points with Comet. We just got these! After this chat, talk to Comet about and give him the Belt we got at the station.
 
 **Relationship Point Choices**:
 - It's not a loaded gun. (+2 Comet)

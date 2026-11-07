@@ -10,9 +10,23 @@ Head upstairs to talk to Amber in the right room.
 - Sorry. (+2 Amber)
 - We should go. (-1 Amber)
 
-Take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain.
+I'll mention real quick, updates on Route 4 now that we have a few more badges: all four of the Rift Dens we've seen so far have been updated with new Pokemon!
+
+!raid(1, 8)
+
+!raid(2, 8)
+
+!raid(3, 8)
+
+!raid(4, 8)
+
+Entering Cairo's house, he has more available crests now!
+
+!cshop(:CairoRE, "Cairo's Essence Shop (8 Badges)", 8)
 
 ## Forest of Time
+
+When you want to proceed, if you trusted Jenner, take Noctowl over to Kakori and talk to Crawli. Next, make your way to the Church of Theolia on Kristiline's Isle of Angels. Accept the fast travel request to Valor Mountain. Otherwise you'll need to go to Valor Mountain yourself - the last cave before the summit.
 
 If you had trusted Jenner, talk to Melia here:
 
@@ -21,12 +35,12 @@ If you had trusted Jenner, talk to Melia here:
 - Team Xen (-3 Melia)
 - Type a guess (Neutral)
 
-If you typed "Forest", when you go inside:
+If you typed "Forest" and had trusted Jenner before, when you go inside:
 
 **Relationship Point Choices**:
-- Lucky Guess. (+2 Venam)
-- I read about it. (+1 Venam)
-- I've been here before (Neutral)
+- Intuition. (+2 Venam)
+- Read about it. (+1 Venam)
+- Been here before (Neutral)
 
 !enc(118, nil, ["Old", "Good"])
 
@@ -187,13 +201,13 @@ Interact with the statues in the four rooms up and down from the garden: top lef
 
 !img("mariapuzzle.png")
 
-This is what it should look like when completed. Enter the door downstairs and go down. A room on the right contains the *White Flute*. Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
+This is what it should look like when completed. Enter the door downstairs and go down. A room on the right contains the *White Flute*, and a room on the left contains the *Red Flute*. Head down and follow the prompts. Choose whether to save the Officer, or to save Maria. 
 
 **Relationship Point Choices**:
 - Attempt to save Maria (+4 Anathea)
 - Save the officer (Neutral)
 
-Either head down to untie the officer, or up to save Maria.
+Either head down to untie the officer, or up to save Maria. You can choose both, but you'll still end up doing one of the following fights.
 
 [New Game+ Content](#chapter-9-ng-part-4)
 
@@ -321,7 +335,7 @@ On a roof to the south:
 
 !shop("WG Rare Fossil Shop", ["Old Amber", "Cover Fossil", "Plume Fossil"])
 
-Enter Gearen News HQ. Grab the *Wide Lens* in the upper right. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *5 Exp. Candy L*.
+Enter Gearen News HQ. Grab the *Wide Lens* in the upper right. In the bottom left you'll find a *Hyper Potion*. Also, there's a breeder here: win to get *7 Exp. Candies L*.
 
 !battle(["Zed",:POKEBREEDER_M,0])
 
@@ -359,7 +373,7 @@ Head over to East Gearen City from here. A store has new wares:
 
 This means we can now easily complete the trades on the Isle of Angels for Deep Sea Tooth and Deep Sea Scale.
 
-Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candy M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
+Next, return to the Magnolia Library and show Zumi your Pokedex with Toxel inside. She'll give us *15 Exp. Candies M*, as well as tell you a hint about one way to evolve it. Our next objective for *PictoZumi* is a special Aevian Forme somewhere in the badlands. We'll get that taken care of later on.
 
 ### Mega Bangle Sidequest Part 2
 
@@ -477,29 +491,13 @@ There is one more battle quest we can take care of now. Take the East Gearen boa
 
 !battle(["Jenner",:SPIRITJENNER,0], "Concert Venue")
 
-For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candy XL*, and *TM92 Trick Room*!
+For winning, you'll get *3 Blue Shards*, *3 Red Shards*, *3 Green Shards*, *3 Black Prisms*, *3 Exp. Candies XL*, and *TM92 Trick Room*!
 
 ### Lost Souls 2
 
 Take the truck to Akuwa Town. At the ACDMC you can now revive **Aerodactyl**, **Archen**, and **Tirtouga**!
 
-Make your way over to Route 4. Now that we've beaten Amber, all four of the Rift Dens we've seen so far have been updated with new Pokemon!
-
-!raid(1, 8)
-
-!raid(2, 8)
-
-!raid(3, 8)
-
-!raid(4, 8)
-
-Entering Cairo's house, he has more available crests now!
-
-!cshop(:CairoRE, "Cairo's Essence Shop (8 Badges)", 8)
-
 Next, head over to the Lost Camp. We've now found all eleven children for the *Lost Souls* quest! 
-
-!shop("Lost Camp: Alisha", ["Tiny Mushroom", "Magnet", "Stardust", "Absorb Bulb"])
 
 Maman will ask for another donation: $16,000, to be exact.
 

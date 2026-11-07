@@ -389,7 +389,7 @@ The code we have is now __3. Backtrack to near the lift, and enter the container
 
 !battle(["Luis",:CUEBALL,0], "Icy Field")
 
-The code we have is now 6_3. Take the new ladder to the right to go up. Grab *3 Exp. Candy XL* and enter the container. 
+The code we have is now 6_3. Take the new ladder to the right to go up. Grab *3 Exp. Candies XL* and enter the container. 
 
 !battle(["Tarto",:CUEBALL,0], "Icy Field")
 
@@ -519,10 +519,12 @@ Enter the theater at the bottom. *TM29 Psychic* is to the right!
 
 Head into the box and go into the upper room. Step on the bottom right and top left switch only to solve the puzzle, then talk to Aelita for a surprise gym battle!
 
+!partner(["Aelita", :STUDENT_2, 0])
+
 !dbattle(["Magenta",:LEADER_PUPPET1,0], ["Neon",:LEADER_PUPPET2,0], "Psychic Terrain")
 
 !move("BUNRAKUBEATDOWN")
 
-Time for a little lesson in Trickery. Neon's team of three is bulky while Magenta's team of three is more offensively focused, meaning you either want to wear them down with spread moves or target Magenta first. Telepathy *doubles* speed on Psychic Terrain, frankly one of the most busted Field Effects in the entire game. This also means that Oranguru and Beheeyem will probably move first on Turn 1, so be prepared for that. As a proud Trick Room enthusiast, I will recommend my favorite TM here as well: if you can live one turn to set up Trick Room, a team of hard-hitting mid-speed Pokemon can sweep Magenta. Then all you have to do is time when you KO Oranguru, ideally breaking its screens with Brick Break, to outspeed and defeat the slow pair of Musharna and Mega Hatterene in the back.
+Time for a little lesson in Trickery. Neon's team is bulky while Magenta's team is more offensively focused, meaning you either want to wear them down with spread moves or target Magenta first. Telepathy *doubles* speed on Psychic Terrain, frankly one of the most busted Field Effects in the entire game. Aelita as a partner is competent despite the obvious type weakness, but her team isn't as well suited for a Trick Room strategy as past versions would suggest here. I recommend reading up on the field notes for Psychic Terrain (moves like Hex are a good choice here) and making good use of Doubles moves like Protect to come out ahead.
 
 Open the box to get the *Trickery Badge*, which raises our level cap to Lv. 75!
