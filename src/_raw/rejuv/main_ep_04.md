@@ -359,11 +359,7 @@ Orbeetle can be annoying if it puts you to sleep, so have a way to account for t
 
 First thing we're going to do is head into Goldenwood Cave. We couldn't get here with Rock Smash before, but now that we can, go ahead and pick up the *Rare Candy*, *Nugget*, and hidden *Blue Shard*. Your Pokemon should be able to now beat the Leavanny trainer, if you haven't yet.
 
-Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *Gourmet Treat* is to the left, plus:
-
-**ZCell 028: Goldenwood Forest**
-
-!img("zcell028.png")
+Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *Gourmet Treat* is to the left.
 
 Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a hidden *Oran Berry*.
 

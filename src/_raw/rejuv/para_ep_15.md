@@ -10,9 +10,9 @@ Fly to Teila Resort and enter Aquamarine Cave. Down one floor you can dive on th
 
 Finally, fly over to Yui's Ranch and take a Braviary to Honec Woods. Exit Honec Woods to the west to reach the area with the Azelf Statue. Walk towards the shining star to reach the Den of Valor (not to be confused with Valor Mountain, of course) and catch **Azelf**!
 
-**ZCell 142: Den of Valor**
+**ZCell 141: Den of Valor**
 
-!img("zcell142.png")
+!img("zcell141.png")
 
 ## Xenogene Splicer's Revenge Quest
 

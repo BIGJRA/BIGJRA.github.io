@@ -51,17 +51,17 @@ Nothing else other than encounters to do on this map yet, so go down into the Te
 
 Surf to the right from the southwest dock:
 
-**ZCell 038: Terajuma Shipyard**
+**ZCell 037: Terajuma Shipyard**
 
-!img("zcell038.png")
+!img("zcell037.png")
 
 Grab the *Red Shard* below. On an island at the bottom is a hidden *Kee Berry*, *TM76 Struggle Bug*, and the *Beach Field Readout*. That's it for this map right now, so head up, left, then down again to enter the Terajuma Beach. Talk to the Noctowl Statue right here to unlock another fast travel location. 
 
 Go up, then up again to enter the Deep Terajuma Jungle. Surf down from the construction house to reach a hidden *Stardust* and:
 
-**ZCell 039: Deep Terajuma Jungle**
+**ZCell 038: Deep Terajuma Jungle**
 
-!img("zcell039.png")
+!img("zcell038.png")
 
 Proceed to the upper left to enter *Deeper* Terajuma Jungle. Head north to the Tyluric Temple and go inside.
 
@@ -110,15 +110,15 @@ Talk to the girl up the stairs at the bottom to begin *A Souvenir For Mom* quest
 
 To the right:
 
-**ZCell 040: Jynnobi Pass**
+**ZCell 039: Jynnobi Pass**
 
-!img("zcell040.png")
+!img("zcell039.png")
 
 Even more to the right:
 
-**ZCell 041: Jynnobi Pass**
+**ZCell 040: Jynnobi Pass**
 
-!img("zcell041.png")
+!img("zcell040.png")
 
 Grab *TM145 Hex* nearby. Head up the stairs to the left and talk to the group.
 
@@ -412,9 +412,9 @@ Back outside, head west into Goldenwood Forest. The top left corner has a river 
 
 Enter the cave here to find:
 
-**ZCell 042: Den of Verity**
+**ZCell 041: Den of Verity**
 
-!img("zcell042.png")
+!img("zcell041.png")
 
 Head into Goldenwood Cave. 
 
@@ -426,9 +426,9 @@ Surf left and go down to the basement level. Grab the *Revive* to the right, and
 
 You'll also be able to find: 
 
-**ZCell 043: Goldenwood Cave**
+**ZCell 042: Goldenwood Cave**
 
-!img("zcell043.png")
+!img("zcell042.png")
 
 **Wisp 09: Goldenwood Cave**
 
@@ -458,9 +458,9 @@ Now that our level cap is Lv. 45, it is a good time to take on Spirit Keta in th
 
 Enter the room at the top, the one shaped like an upside-down V. Around the room you'll find a hidden *Blue Shard* and *Mineral Ball*. Here, you'll find Amethyst Power Supply Panel 2.
 
-**ZCell 044: Amethyst Cave**
+**ZCell 043: Amethyst Cave**
 
-!img("zcell044.png")
+!img("zcell043.png")
 
 The next room with the river contains hidden *Rare Candy* and *Red Shard*. Exit to Sheridan.
 
@@ -468,29 +468,29 @@ The next room with the river contains hidden *Rare Candy* and *Red Shard*. Exit 
 
 Surfing to the southeast of the inn, you'll find a *Timid Mint*, and also:
 
+**ZCell 044: Sheridan Village**
+
+!img("zcell044.png")
+
+Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a Gourmet Treat! A *Black Belt* is hidden behind.
+
 **ZCell 045: Sheridan Village**
 
 !img("zcell045.png")
 
-Head up to the daycare and surf to the west. Here's a **Treecko** who will fight you in exchange for a Gourmet Treat! A *Black Belt* is hidden behind.
-
-**ZCell 046: Sheridan Village**
-
-!img("zcell046.png")
-
 Head up to the Sheridan Arena. Surf up and left to get *TM87 Swagger*. On the right:
 
-**ZCell 047: Sheridan Arena**
+**ZCell 046: Sheridan Arena**
 
-!img("zcell047.png")
+!img("zcell046.png")
 
 Next, make your way west of Sheridan to Route 3.
 
 !enc(67, ["Surfing", "Fishing"], ["Good"], "Route 3 / Phasial Cave")
 
-**ZCell 048: Route 3**
+**ZCell 047: Route 3**
 
-!img("zcell048.png")
+!img("zcell047.png")
 
 Enter the Mirage Woods at the top of Route 3. Make your way all the way through the woods to the Mirage Town and cross under the waterfall. Surf down to get a hidden *Blue Shard*. To the left, go down the stairs to reach a small pond.
 
@@ -506,9 +506,9 @@ Head west to exit onto Moon Field.
 
 Pick up *TM127 Beat Up* and *TM58 Sky Drop*. Use your Itemfinder here for a *Nest Ball*, *Star Piece*, *2 Dusk Balls*, and *Max Repel*. In the RV is a *Star Piece*.
 
-**ZCell 049: Moon Field**
+**ZCell 048: Moon Field**
 
-!img("zcell049.png")
+!img("zcell048.png")
 
 Come here on a Saturday night and you'll be able to get a *Moon Stone* and catch a Clefairy.
 
@@ -522,9 +522,9 @@ Make your way back to the south part of Route 3. Surf down the river!
 
 Land to the left to grab the hidden *Link Heart*, *HP Up*, *Revive*, and *Green Shard*. Land to the right to grab *TM44 Rest* and a hidden *Fresh Water*, *Green Shard*, and *Cheri Berry*. Behind a tree to the west of the half-building (I don't know what else to call it?) you can pick up an *Upgrade*. Go south from here, under a land bridge, then proceed further south to Route 2. Grab *TM46 Thief* to the left, and to the right:
 
-**ZCell 050: Route 2**
+**ZCell 049: Route 2**
 
-!img("zcell050.png")
+!img("zcell049.png")
 
 Back in River's End, surf to the left. Climb the stairs and get a hidden *Ability Capsule*, *Elixir*, *Synthetic Seed*, *Yellow Shard*, *Elemental Seed*, and *Tiny Mushroom*. 
 
@@ -568,9 +568,9 @@ Go up the stairs to the right, then surf up at the top of the mountain: you'll f
 
 West of Cairo's house, surf up. You'll find *TM88 Sleep Talk* as well as:
 
-**ZCell 051: Route 4**
+**ZCell 050: Route 4**
 
-!img("zcell051.png")
+!img("zcell050.png")
 
 Plus, the fourth and final den is here.
 
@@ -578,9 +578,9 @@ Plus, the fourth and final den is here.
 
 North of Cairo's house:
 
-**ZCell 052: Route 4**
+**ZCell 051: Route 4**
 
-!img("zcell052.png")
+!img("zcell051.png")
 
 That's all that we can do here for now. You might have enough Rift Essence to grab Chespin or those crests if you haven't gotten them yet. There's one more we can now get, in fact:
 
@@ -592,9 +592,9 @@ Head up to Akuwa Town.
 
 There's nothing else to do in Akuwa Town yet, as all the people are still gone. Surf east. Grab *TM135 Brine* and hidden *Blast Powder* on the islands. 
 
-**ZCell 053: Akuwa Town**
+**ZCell 052: Akuwa Town**
 
-!img("zcell053.png")
+!img("zcell052.png")
 
 Surf east to reach Route 11.
 
@@ -608,9 +608,9 @@ Beat the grunt, and you'll be engaged in battle with a level 40 **Jynx**!
 
 Go to the southwest.
 
-**ZCell 054: Route 11**
+**ZCell 053: Route 11**
 
-!img("zcell054.png")
+!img("zcell053.png")
 
 Starting to the southwest and going north, use your itemfinder on the islands to find *HP Up*, *Adamant Mint*, *Red Shard*, and *Blue Shard*. 
 
@@ -622,9 +622,9 @@ Continue heading up, picking up hidden *Jolly Mint*. Pick up the *Ether* to the 
 
 Further to the right, you'll find Poliwag #3 for the *Poliwag Quest*! On the island south of here, you'll find:
 
-**ZCell 055: Route 11**
+**ZCell 054: Route 11**
 
-!img("zcell055.png")
+!img("zcell054.png")
 
 Anyways, grab the *Max Repel* and hidden *Ice Heal*, then enter the cave on the east side here.
 
@@ -652,9 +652,9 @@ Heal at Nana's house again, then enter the cave to the right.
 
 Use the Fire move in battle, then surf across. Exit at the southeast to get:
 
-**ZCell 056 Evergreen Island**
+**ZCell 055 Evergreen Island**
 
-!img("zcell056.png")
+!img("zcell055.png")
 
 Enter again and take the ladder down. We can't yet do the strength puzzle portion, but we can explore. 
 
@@ -743,9 +743,9 @@ Back in the hub, take the lift down.
 
 Shouldn't be too terrible. Watch out for the boosted Water moves and speed penalties. Pick up *TM106 Irritation* to the left, plus:
 
-**ZCell 057: Kakori Depths**
+**ZCell 056: Kakori Depths**
 
-!img("zcell057.png")
+!img("zcell056.png")
 
 !battle(["Crawli",:LEADER_CRAWLI,0], "Swamp Field")
 

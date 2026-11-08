@@ -56,9 +56,9 @@ Back in Sashila, enter the first room.
 
 Fly over to Yui's Ranch and take a Braviary to Honec Woods. Exit Honec Woods to the west to reach the area with the Azelf Statue. Walk towards the shining star to reach the Den of Valor (not to be confused with Valor Mountain, of course).
 
-**ZCell 142: Den of Valor**
+**ZCell 141: Den of Valor**
 
-!img("zcell142.png")
+!img("zcell141.png")
 
 !boss("AZELFBAD", "Cave Field")
 
