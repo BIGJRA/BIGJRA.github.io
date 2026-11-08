@@ -212,7 +212,9 @@ The Advanced Pokedex is pretty cool: it shows basically all the details you'd no
 
 Next, head into the Help Center and talk to Ayuda. Now that we've gotten 10 Cells, we'll get a *Cell Imprint*! This item lets you set any IV to 31, which is neat. Our next milestone will be 15 Zygarde Cells.
 
-Finally, if you go to the Chrisola Hotel, talk to the woman in the first room in the right hallway to give you **Shinx**!
+Go to the Chrisola Hotel, talk to the woman in the first room in the right hallway, and you can get **Shinx**!
+
+Finally, talk to Karrina in her headquarters on the southeast side to begin a quest for her.
 
 ### Amethyst Cave Part 2
 
@@ -226,7 +228,11 @@ Back in the cave, go right.
 
 !battle(["Edward",:TECH,0], "Crystal Cavern")
 
-Talk to the hooded guy then get a hidden *Electric Gem* in the right rock, then proceed to the next room.
+Talk to the hooded guy then get a hidden *Electric Gem* in the right rock. If we started Karrina's quest, talk to her to the left.
+
+!battle(["Charly",:CUEBALL,0], "Crystal Cavern")
+
+Head up, and beat the guy at the end to get **Houndour**! Proceed to the next room.
 
 The wall immediately on the right contains a *Genius Feather*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. After crossing the bridge, on the left by the water is a hidden *Red Shard*.
 
@@ -429,14 +435,6 @@ Prepare your team and talk to Novae at the inn at night.
 This can be a tough one, but targeting Rorim first tends to make it easier.
 
 After the battle, return to the help center. Your rewards: $1600, *Red Shard*, and **Clobbopus**. (+1 Karma).
-
-### Karrina's Quest
-// TODO: This should really be moved earlier to Amethyst Cave 2 section, no?
-Real quick there's another quest we can do, though it's not available from the Help Center. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave. Talk to Karrina in the top of the room.
-
-!battle(["Charly",:CUEBALL,0], "Crystal Cavern")
-
-Head up, and beat the guy at the end to get **Houndour**!
 
 ## Diamond Punch Badge
 
