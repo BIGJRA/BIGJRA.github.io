@@ -10,7 +10,7 @@ There's also a few new berries now.
 
 !cshop(:BerryEmporium, "Berry Emporium (3 Badges)", 3)
 
-Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the Artist's Quest.
+Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the *Painter of Oddities* quest.
 
 Take the truck to Sheridan Village.
 
@@ -36,9 +36,9 @@ In this back area, you have to carefully sneak around such as to not be detected
 
 Grab the *Jolly Mint*, *TM122 Screech*, *TM78 Bulldoze*, and:
 
-**ZCell 015: Route 1**
+**ZCell 016: Route 1**
 
-!img("zcell015.png")
+!img("zcell016.png")
 
 With 15 Zygarde cells obtained, we can return to Ayuda in the East Gearen Help Center to get another *Cell Imprint* and the *Soothe Bell*! Our next threshold is 25.
 
@@ -60,9 +60,9 @@ As soon as you're ready, head to Route 3, west from Sheridan.
 
 The top tile to the right of the river contains a *Honey*, and to the left of the RV is a *Quiet Mint*.
 
-**ZCell 016: Route 3**
+**ZCell 017: Route 3**
 
-!img("zcell016.png")
+!img("zcell017.png")
 
 Talk to the guy in the trailer across the bridge. Since we have two virtual badges, he'll offer the third leg of the quest -- we're battling Whitney.
 
@@ -112,9 +112,9 @@ We'll eventually need Sachet and Whipped Dream to evolve Swirlix and Spritzee fr
 
 The balloons above the Ice Cream vendor contain a hidden *Green Shard*. Down and to the left is *TM117 Pay Day*! Hidden behind it is a *Star Piece*.
 
-**ZCell 017: Route 3**
+**ZCell 018: Route 3**
 
-!img("zcell017.png")
+!img("zcell018.png")
 
 Head down from the shops. 
 
@@ -124,9 +124,9 @@ A kid here laments not getting a Phantump egg, so we'll later want to find one a
 
 Just before the grass turns lighter, in the right gap in the tall grass, there is a hidden *Sassy Mint*. Follow the path around to the right. Heading back into the darker grass, two tiles up from the lighter grass on the left is a hidden *Blue Shard*. Head up. Behind in the left tile of the tree below the RV is a hidden *Rare Candy*. Enter the open RV and talk to the hiker for some *Rose Tea*.
 
-**ZCell 018: Route 3**
+**ZCell 019: Route 3**
 
-!img("zcell018.png")
+!img("zcell019.png")
 
 You can talk to the **Fidough** next to the camper and give it a Gourmet Treat to catch it!
 
@@ -203,21 +203,21 @@ Go right from here. Hidden is a *Steel Gem*. Continuing right on this path would
 
 Left of here, there is another pond. Get a hidden *Reverse Candy* up and right.
 
-**ZCell 019: Phasial Cave**
-
-!img("zcell019.png")
-
-Head to the left when you can: going left and up you'll find a hidden *Mineral Ball*.
-
 **ZCell 020: Phasial Cave**
 
 !img("zcell020.png")
 
-Go down and right from here:
+Head to the left when you can: going left and up you'll find a hidden *Mineral Ball*.
 
 **ZCell 021: Phasial Cave**
 
 !img("zcell021.png")
+
+Go down and right from here:
+
+**ZCell 022: Phasial Cave**
+
+!img("zcell022.png")
 
 Go right and up from here. Get a hidden *Green Shard* and *Blue Shard*. You'll see a shiny spot in this area - talk to it to get the *Bell Clapper* for the *Broken Bell* quest. Then go down.
 
@@ -245,9 +245,9 @@ Don't forget to catch a Drifloon. Grab a hidden *Honey* to the left. Talk to the
 
 Grab the hidden *Moon Stone* and *Rare Candy* beyond. Pick up the *Rash Mint* too.
 
-**ZCell 022: Goldenleaf Town**
+**ZCell 023: Goldenleaf Town**
 
-!img("zcell022.png")
+!img("zcell023.png")
 
 Head left and grab hidden *Ghost Gem* and *Dark Gem*. Near the Pokemon Center is a hidden *Red Shard*.
 
@@ -257,9 +257,9 @@ There's a hidden *Ability Capsule* and *Super Potion* to the left. Cut a tree be
 
 Cross the bridge on the left side of town. Grab *TM59 Incinerate* and the hidden *Chesto Berry*, plus:
 
-**ZCell 023: Goldenleaf Town**
+**ZCell 024: Goldenleaf Town**
 
-!img("zcell023.png")
+!img("zcell024.png")
 
 We'll also find a purple wisp here. Start collecting these as well.
 
@@ -279,9 +279,9 @@ In Reina's room, read Reina's diary then check the couch for $500.
 
 Talk to Narcissa by her gym, then follow her up the hill to her house. After a scene, you'll be free to leave. Head back out to the balcony to grab this first:
 
-**ZCell 024: Goldenleaf Town**
+**ZCell 025: Goldenleaf Town**
 
-!img("zcell024.png")
+!img("zcell025.png")
 
 Outside, cut the tree next to the gym and enter the secret cave behind the waterfall!
 
@@ -303,9 +303,9 @@ Grab the hidden *Green Shard* and *Super Potion*. Grab *TM39 Rock Tomb* and a hi
 
 Back in the middle path:
 
-**ZCell 025: Forgotten Path**
+**ZCell 026: Forgotten Path**
 
-!img("zcell025.png")
+!img("zcell026.png")
 
 Grab the hidden *Ether*, *Burn Heal*, *Great Ball*, and *Ghost Gem*. This is all we can do here for now, so head back to Goldenleaf Town.
 
@@ -325,9 +325,9 @@ Head west from Goldenleaf Town to reach Wispy Path.
 
 At the fork, go down and left. Head into Wispy Park up the stairs. Grab the *Reverse Candy* as well as hidden *Tiny Mushroom* and *Lemonade*.
 
-**ZCell 026: Wispy Path**
+**ZCell 027: Wispy Path**
 
-!img("zcell026.png")
+!img("zcell027.png")
 
 **Wisp 05: Wispy Path**
 
@@ -359,11 +359,7 @@ Orbeetle can be annoying if it puts you to sleep, so have a way to account for t
 
 First thing we're going to do is head into Goldenwood Cave. We couldn't get here with Rock Smash before, but now that we can, go ahead and pick up the *Rare Candy*, *Nugget*, and hidden *Blue Shard*. Your Pokemon should be able to now beat the Leavanny trainer, if you haven't yet.
 
-Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *Gourmet Treat* is to the left, plus:
-
-**ZCell 027: Goldenwood Forest**
-
-!img("zcell027.png")
+Outside the cave, go left. There's a hidden *Ether* if you climb some stairs. Down from here is a hidden *Nest Ball*. A hidden *Gourmet Treat* is to the left.
 
 Down from here is a hidden *Sitrus Berry*. Back up towards the top of the map, go down the right side and grab the hidden *Chesto Berry*. Down the stairs, grab the hidden *Reverse Candy*, *Great Ball*, and *PP Up*. Below you'll find a hidden *Oran Berry*.
 

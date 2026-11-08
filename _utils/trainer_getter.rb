@@ -395,16 +395,31 @@ class TrainerGetter
             eff_strs.push("Boss's stat drops are cured")
           end
           if effs[:playerEffects]
-            eff_strs.push("Effect added to player's side: #{effs[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            effs[:playerEffects].each do |k, v|
+              key = k
+              next if k == :FutureSightMove || k == :LockOnTarget
+              modifier = v[0] # Some kind of modifier... true/false or an integer
+              move = v[1] # The move in question, but not always?
+              text = v[2] # Unused for my purposes, this is usually a message
+              mod_string = modifier.is_a?(Integer) ? " (#{modifier} turns)" : ""
+              out = "#{key.to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}#{mod_string}"
+              eff_strs.push("Effect added to player's side: #{out}")
+            end
           end
           if effs[:stateChanges]
             eff_strs.push("Effect added to battle: #{effs[:stateChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}")
           end
           if effs[:playersideChanges]
-            if effs[:playersideChanges].class == Array
-              eff_strs.push("Effects added to player side: #{effs[:playersideChanges].join(', ').gsub(/([a-z])([A-Z])/, '\1 \2')}") 
-            else
-              eff_strs.push("Effect added to player side: #{effs[:playersideChanges].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+            effs[:playersideChanges].each do |k, v|
+              key = k
+              next if k == :FutureSightMove || k == :LockOnTarget
+              modifier = v[0] # Some kind of modifier... true/false or an integer
+              move = v[1] # The move in question
+              text = v[2] # Unused for my purposes, this is usually a message
+              mod_string = modifier.is_a?(Integer) ? " (#{modifier} layers)" : ""
+              out = "#{key.to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}#{mod_string}"
+              pp out
+              eff_strs.push("Effect added to player's side: #{out}")
             end
           end
           if effs[:bosssideChanges]
@@ -482,9 +497,9 @@ class TrainerGetter
                   turns, move = act[:playerEffectsduration]
                   eff_strs.push("#{ts}Effect added to player's side: #{@moveHash[move][:name]} impacting in #{turns} turns") 
                 elsif act[:playerEffects].class == Array
-                  eff_strs.push("#{ts}Effects added to player side: #{act[:playerEffects][0].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+                  eff_strs.push("#{ts}Effects added to player's side: #{act[:playerEffects][0].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
                 else
-                  eff_strs.push("#{ts}Effect added to player side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
+                  eff_strs.push("#{ts}Effect added to player's side: #{act[:playerEffects].to_s.gsub(/([a-z])([A-Z])/, '\1 \2')}") 
                 end
               end
               if act[:bossStatChanges] 

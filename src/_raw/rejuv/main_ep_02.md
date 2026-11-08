@@ -14,7 +14,7 @@ Either partner will do well here, his Frogadier hits hard with Water Pulse and M
 
 After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a Gourmet Treat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
 
-### Team Xen Gearen Takeover
+### Geographically Questionable Gearen Alleyway Section
 
 To the right of Junction Bridge, you'll notice the sewer stairs east of the Violet Building will now be open. Head down.
 
@@ -22,21 +22,21 @@ To the right of Junction Bridge, you'll notice the sewer stairs east of the Viol
 
 Here you'll find a **Rare Candy**. Also:
 
-**ZCell 005: Abandoned Sewers**
+**ZCell 006: Abandoned Sewers**
 
-!img("zcell005.png")
+!img("zcell006.png")
 
 Exit through the top. Inside the wall of the building immediately to your right is a hidden *Reverse Candy*. Head up to watch the scene.
 
 The third tile from the right on the top row of grass hides a *Green Shard*, while a hidden *Super Potion* is just to the left of the top dumpster. Two tiles left of the top-left grass is a hidden *Red Shard*,  while a hidden *Super Repel* is three tiles left of the bottom-left grass. Down the stairs and below the dumpsters is a hidden *Telluric Seed*.
 
-**ZCell 006: Gearen Alleyway**
+**ZCell 007: Gearen Alleyway**
 
-!img("zcell006.png")
+!img("zcell007.png")
 
 Go up and give one of the **Munna** a Gourmet Treat to catch it!
 
-Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
+### Team Xen Gearen Takeover
 
 You'll note that Team Xen Grunts are swarming East Gearen. In the northwest:
 
@@ -62,7 +62,7 @@ Enter the room in the right hallway on the right, with Minccino in it. Talk to t
 
 Head out to the lobby and find it near the elevator. Then enter the left hallway and you'll see it right away on the bottom side. Follow it left and around, and you'll see Team Xen Grunts take it away!
 
-Go to Gearen Park and fight the Grunts on the east side of the park.
+Go to Gearen Park and fight the Grunts on the west side of the park.
 
 !dbattle(["Wilbur",:XENGRUNT_M,0], ["Hayleigh",:XENGRUNT_F,0], "Grassy Terrain")
 
@@ -91,21 +91,21 @@ Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to
 
 The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
-If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
+If you talk to the painter here, he'll start us on the *Painter of Oddities* quest. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
 
 Enter the cave here.
 
 !enc(133)
 
-**ZCell 007: Gemstream Cave**
+**ZCell 008: Gemstream Cave**
 
-!img("zcell007.png")
+!img("zcell008.png")
 
 Exit the cave to the right. Go up at the fork in the bridge. On the first "tier" of grass and flowers, the rightmost tile hides a *Relaxed Mint*. The second tier's rightmost tile hides a *Rose Incense*.
 
-**ZCell 008: Route 2**
+**ZCell 009: Route 2**
 
-!img("zcell008.png")
+!img("zcell009.png")
 
 !battle(["Henrietta and Jeff", :NEWREP, 0])
 
@@ -125,15 +125,15 @@ Two tiles down and two tiles right from the next set of stairs is a hidden *Leve
 
 Five tiles down from the door is a hidden *Lemonade*.
 
-**ZCell 009: Route 2**
-
-!img("zcell009.png")
-
-Go left. There is a blank tile with tall grass on four sides but on no diagonals that hides an *Exp. Candy S*. 
-
 **ZCell 010: Route 2**
 
 !img("zcell010.png")
+
+Go left. There is a blank tile with tall grass on four sides but on no diagonals that hides an *Exp. Candy S*. 
+
+**ZCell 011: Route 2**
+
+!img("zcell011.png")
 
 Go up.
 
@@ -212,7 +212,9 @@ The Advanced Pokedex is pretty cool: it shows basically all the details you'd no
 
 Next, head into the Help Center and talk to Ayuda. Now that we've gotten 10 Cells, we'll get a *Cell Imprint*! This item lets you set any IV to 31, which is neat. Our next milestone will be 15 Zygarde Cells.
 
-Finally, if you go to the Chrisola Hotel, talk to the woman in the first room in the right hallway to give you **Shinx**!
+Go to the Chrisola Hotel, talk to the woman in the first room in the right hallway, and you can get **Shinx**!
+
+Finally, talk to Karrina in her headquarters on the southeast side to begin a quest for her.
 
 ### Amethyst Cave Part 2
 
@@ -226,7 +228,11 @@ Back in the cave, go right.
 
 !battle(["Edward",:TECH,0], "Crystal Cavern")
 
-Talk to the hooded guy then get a hidden *Electric Gem* in the right rock, then proceed to the next room.
+Talk to the hooded guy then get a hidden *Electric Gem* in the right rock. If we started Karrina's quest, talk to her to the left.
+
+!battle(["Charly",:CUEBALL,0], "Crystal Cavern")
+
+Head up, and beat the guy at the end to get **Houndour**! Proceed to the next room.
 
 The wall immediately on the right contains a *Genius Feather*. Two tiles down and three left from the first rock smash is a hidden *Reverse Candy*. After crossing the bridge, on the left by the water is a hidden *Red Shard*.
 
@@ -288,9 +294,9 @@ Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to
 
 You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*. Up from here:
 
-**ZCell 011: Sheridan Village**
+**ZCell 012: Sheridan Village**
 
-!img("zcell011.png")
+!img("zcell012.png")
 
 You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible. If you fast travel with him 20 times, you'll get **Varoom**!
 
@@ -356,9 +362,9 @@ Head to the left, then go down and enter the door. Grab *TM19 Secret Power* here
 
 In the previous room, go up and climb the bookshelf to get *TM63 Embargo*. In the top left:
 
-**ZCell 012: Hidden Library**
+**ZCell 013: Hidden Library**
 
-!img("zcell012.png")
+!img("zcell013.png")
 
 Go all the way around to the left. One tile above a page near the door at the top, you can get a hidden *Ether*. Enter the room here.
 
@@ -429,14 +435,6 @@ Prepare your team and talk to Novae at the inn at night.
 This can be a tough one, but targeting Rorim first tends to make it easier.
 
 After the battle, return to the help center. Your rewards: $1600, *Red Shard*, and **Clobbopus**. (+1 Karma).
-
-### Karrina's Quest
-// TODO: This should really be moved earlier to Amethyst Cave 2 section, no?
-Real quick there's another quest we can do, though it's not available from the Help Center. Take the truck back to Gearen and enter Karrina's hideout near the sewers. Talk to her, and she'll send us on the gang fight quest. Head to Route 2 and enter Amethyst Cave. Talk to Karrina in the top of the room.
-
-!battle(["Charly",:CUEBALL,0], "Crystal Cavern")
-
-Head up, and beat the guy at the end to get **Houndour**!
 
 ## Diamond Punch Badge
 

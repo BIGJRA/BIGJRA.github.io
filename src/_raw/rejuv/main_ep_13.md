@@ -951,10 +951,6 @@ This completes the restoration of Goldenwood Park!
 
 Pick up the *Rare Candy*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
 
-**ZCell 123: Goldenwood Park**
-// TODO: Maybe fix all zygarde cells depending on if this one is available earlier during ch1
-!img("zcell123.png")
-
 Talk to the fisherman inside the guild. Instantly the *Magic Karps* quest will be completed (even if you don't have the Super Rod - it seems bugged). Enter the room to the right.
 
 !enc(220, nil, nil)
@@ -991,9 +987,9 @@ Return to the help center to get $25840, 3 *Blue Shards*, and the *Altarianite* 
 
 Talk to the guy at the bottom of Oceana Pier to head out to the Wreckage Site.
 
-**ZCell 124: Wreckage Site**
+**ZCell 123: Wreckage Site**
 
-!img("zcell124.png")
+!img("zcell123.png")
 
 We can talk to Adrienn to progress the quest a bit, but without the next gym badge, we can't progress the quest any more for now.
 
@@ -1098,9 +1094,9 @@ If you haven't already, head to Sheridan Village in the past, then cut down the 
 
 Grab the *Dusk Stone* and hidden *Rare Candy* and *Blue Shard*. 
 
-**ZCell 125: Route Z**
+**ZCell 124: Route Z**
 
-!img("zcell125.png")
+!img("zcell124.png")
 
 In the top right corner, you can get *TM11 Sunny Day*. *TM03 Psyshock* is towards the bottom. In the center of the map, pick up the *Grass Memory* and *Psychium Z*, then talk to Eizen.
 

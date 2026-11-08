@@ -224,9 +224,9 @@ To the left of the Pokemon Center is another car we can remove, and a Stalker be
 
 **Odessa will join the team** and you will **save lives**. Back outside on the left:
 
-**ZCell 143: Dream District X**
+**ZCell 142: Dream District X**
 
-!img("zcell143.png")
+!img("zcell142.png")
 
 Head up from here. You can recruit a Snorunt for a battle if you want, it will be one of these:
 
@@ -248,9 +248,9 @@ Go up to fight a cop, with a familiar team!
 
 Enter the Dream Complex and talk to Aelita inside. Next, enter the Grand Station to the east and talk to Rhodea. At the top:
 
-**ZCell 144: Dream District X**
+**ZCell 143: Dream District X**
 
-!img("zcell144.png")
+!img("zcell143.png")
 
 Supply some electricity via a Pokemon of the type, then head down the top right stairs. Talk to Ren, Huey, Reina, then Lavender. We can't do anything else here for now, so return to the surface.
 
@@ -822,9 +822,9 @@ With Melia, proceed through the cable car system.
 
 If you get caught by the lights, you'll have to go back, but not too far. Immediately north:
 
-**ZCell 145: Xen Port Authority**
+**ZCell 144: Xen Port Authority**
 
-!img("zcell145.png")
+!img("zcell144.png")
 
 To the west is an *Ultra Potion* and *Max Revive*. Make your way to the bottom left corner.
 
@@ -832,9 +832,9 @@ To the west is an *Ultra Potion* and *Max Revive*. Make your way to the bottom l
 
 Beyond is *5 Exp. Candies XL* and the *Drednawtite*!
 
-**ZCell 146: Xen Port Authority**
+**ZCell 145: Xen Port Authority**
 
-!img("zcell146.png")
+!img("zcell145.png")
 
 !battle(["Marvy", :XENGRUNT_M, 1], "Water Surface")
 

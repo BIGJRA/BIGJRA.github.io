@@ -175,7 +175,7 @@ First, head over to Gearen. I recommend at this point buying the Golden Surfboar
 
 Make your way down to Oceana Pier. Here, you can buy a single *Link Heart* for $10000. Worth doing if you are using Pokemon that normally evolve by trading in your team.
 
-Add Emolga to your party, then head back to Route 2's trailer to finish the Artist's Quest, obtaining the *Magnet* as well as *TM96 Nature Power*!
+Add Emolga to your party, then head back to Route 2's trailer to finish the *Painter of Oddities* quest, obtaining the *Magnet* as well as *TM96 Nature Power*!
 
 Go to Sheridan Village next. We're gonna take the female Phantump we caught and breed it at the day care to get an Egg. Of what we have, male Cacnea, Oddish, Bellsprout, Sunkern, Cherubi, Slugma, and Shuppet are all good choices for partners if you have them. 
 

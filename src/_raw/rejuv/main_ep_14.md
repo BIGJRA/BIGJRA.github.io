@@ -48,9 +48,9 @@ Afterwards, you'll get the *Cherrim Crest*. Tell Aelita you want to rest for a w
 
 First, head down and to the left.
 
-**ZCell 126: Zone Zero**
+**ZCell 125: Zone Zero**
 
-!img("zcell126.png")
+!img("zcell125.png")
 
 Obtain the *Transmitter*. Enter the zone to the north. There are some Xen Grunts selling stuff here.
 
@@ -60,9 +60,9 @@ We'll need a few Blast Powders to progress, so ensure you have some. Use the PC 
 
 Enter the building and go down to the basement. You can hop across any single-spaced gaps, so do so to get to the right side of the map. Talk to the panel with your electric type to light it up.
 
-**ZCell 127: Abandoned Apartments**
+**ZCell 126: Abandoned Apartments**
 
-!img("zcell127.png")
+!img("zcell126.png")
 
 After the short dialogue scene, enter the second door upstairs. Smash the rock and use the blast powder to talk to Aelita. You'll control her for a second: jump the two gaps and talk to the shining spot to get a key. As the player again, enter the rightmost room in the hallway. 
 
@@ -109,9 +109,9 @@ In this area, smash the two rocks to the left for easier backtracking and naviga
 
 Head down to the bottom to find:
 
-**ZCell 128: Zone Zero**
+**ZCell 127: Zone Zero**
 
-!img("zcell128.png")
+!img("zcell127.png")
 
 Head up and to the right. In the bottom corner of this area, grab *TM93 Wild Charge*. To the right down a narrow path is a shining *Zone Zero Key*, which unlocks the door between Alamissa Urben and Zone Zero. At the Lux Apartments, head up and right to grab a *Rare Candy* and hidden *Revive*.
 
@@ -156,9 +156,9 @@ Once you regain control as yourself once more, head left and up out of the cente
 
 After a scene, go left:
 
-**ZCell 129: Zone Zero**
+**ZCell 128: Zone Zero**
 
-!img("zcell129.png")
+!img("zcell128.png")
 
 Also grab the *Fire Stone* above. Go down the stairs to the right. Pick up *Code Garna Rift Notes*. If you grabbed the Weird Diary in the past, now is another chance to use it to **Save Hippowdon**. Not doing so contributes (+10 Renegade Points).
 
@@ -170,9 +170,9 @@ Ren is actually solid here, probably better than the average team that you have 
 
 You can literally loot a knocked out Bladestar grunt for an *Ability Capsule*! Head up and out. Take a peep at Team Xen HQ on Reldin Island, then head right and up to the next map. 
 
-**ZCell 130: Zone Zero**
+**ZCell 129: Zone Zero**
 
-!img("zcell130.png")
+!img("zcell129.png")
 
 Head up and to the left for one more cutscene.
 
@@ -186,9 +186,9 @@ Activate another Braviary Post, then head up.
 
 After the scene, enter the pyramid above. You'll watch another, then on the left you'll find:
 
-**ZCell 131: Eclysia Pyramid**
+**ZCell 130: Eclysia Pyramid**
 
-!img("zcell131.png")
+!img("zcell130.png")
 
 Enter the spring at the top and watch the scenes play out. Next, we're going to begin the crawl to the top, so enter the room at the right side of the lobby and head up. Enter the... GameBoy?
 
@@ -239,9 +239,9 @@ For the third fight:
 
 Progress through the area. In the room with the healing star, at the top:
 
-**ZCell 132: Eclysia Pyramid**
+**ZCell 131: Eclysia Pyramid**
 
-!img("zcell132.png")
+!img("zcell131.png")
 
 Emerge at the Eclysia Skyview.
 
@@ -263,9 +263,9 @@ Fly back to Evergreen Island (to save a few seconds of surfing) and surf right, 
 
 Surface, and dive down in the main area of Route 11. This gargantuan area has lots of hidden items, including *4 Blue Shards*, *Revive*, *Gourmet Treat*, *3 Heart Scales*, *Pearl*, *Sea Incense*, *Ultra Potion*, *Max Repel*, *Nugget*, *Dive Ball*, and *Green Shard*. Anyways, towards the southwest area of the map, you'll find a small 2x2 square to surface. Do so to grab *TM33 Reflect* and:
 
-**ZCell 133: Route 11**
+**ZCell 132: Route 11**
 
-!img("zcell133.png")
+!img("zcell132.png")
 
 Dive back down. Straight down from here at the bottom of this area you'll see a little tunnel you can go through. Do so and surface to nab *TM16 Light Screen* and a hidden *Water Stone*. Dive again and go left after exiting the tunnel to the north. Activate the taller pillar here.
 

@@ -24,9 +24,9 @@ Succeed to nab the third *Star Shard*, as well as the *Centiskorchite*, *Ledian 
 
 Outside, enter the building to the left. Go up and climb down the ladder to reach the area where we were ambushed by Bladestar.
 
-**ZCell 134: Apartment Depths**
+**ZCell 133: Apartment Depths**
 
-!img("zcell134.png")
+!img("zcell133.png")
 
 Head up after grabbing this cell to get an *Ability Capsule*! Then, head left and follow the path all the way to the left to grab the shiny Lux Apartment keys. Exit the building and go straight to the right. Enter the tall apartment building with the key.
 
@@ -42,9 +42,9 @@ We have to complete a puzzle similar to Generation III's Abandoned Ship backroom
 - Enter 1B. Interact with the tile two above the right rock. Exit left.
 - Enter 2D. Interact with the center tile to get the final key. Plus:
 
-**ZCell 135: Lux Apartments**
+**ZCell 134: Lux Apartments**
 
-!img("zcell135.png")
+!img("zcell134.png")
 
 - Enter 2C and exit via the 2B door again.
 - Enter 1C. Go down the ladder, click the lever in this area, and pick up *Rocky Helmet* and *Battered Key*!
@@ -53,9 +53,9 @@ Inside the building formerly Nymiera's Abode in Zone Zero, you can use this key 
 
 To the left from the Zone Zero Pokemon Center on the northern map, you'll find that a gate has opened, leading you to be able to catch **Gible**, plus:
 
-**ZCell 136: Zone Zero**
+**ZCell 135: Zone Zero**
 
-!img("zcell136.png")
+!img("zcell135.png")
 
 Fly over to Kakori Village. Enter a house on the left side and present the *Magic Wand* to get **Fennekin**!
 
@@ -96,9 +96,9 @@ We've now collected eight of the ten stamps for the mall, so we can buy new stuf
 
 If you've completed all the steps of the *Missing Children* quest with Ana and Dylan so far, make your way to GDC's Underground. On the right side, you'll now be able to find hidden items: *Ultra Potion*, *Upgrade*, *Red Shard*, *Poison Gem*, *Ether*, *Elixir*, *Blue Shard*, and *Black Sludge*. Plus:
 
-**ZCell 137: The Underground**
+**ZCell 136: The Underground**
 
-!img("zcell137.png")
+!img("zcell136.png")
 
 Enter Dylan's house.
 
@@ -158,9 +158,9 @@ If we had answered all of Eizen's Rivers' End questions correctly, he will offer
 **Relationship Point Choices**:
 - If Eizen is in Trunkleaf City (answer his questions correctly, earlier), win his game (+5 Alice, +5 Allen)
 
-**ZCell 138: Atebit Kingdom**
+**ZCell 137: Atebit Kingdom**
 
-!img("zcell138.png")
+!img("zcell137.png")
 
 Make your way back down to the bottom of the Syxtenbit Cave when you are ready to fight Isha, and head in.
 
@@ -457,9 +457,9 @@ Head up and into the school.
 
 Walk down the stairs on the left.
 
-**ZCell 139: Axis High University**
+**ZCell 138: Axis High University**
 
-!img("zcell139.png")
+!img("zcell138.png")
 
 Then, head upstairs in the middle, and talk to Huey.
 
@@ -493,9 +493,9 @@ If you can defeat all the students, you'll be gifted the MegaStone *Cameruptite*
 
 In another room on this floor you'll find:
 
-**ZCell 140: Axis High University**
+**ZCell 139: Axis High University**
 
-!img("zcell140.png")
+!img("zcell139.png")
 
 Head back downstairs, where you'll find Amber! You'll be given *Concert Tickets* and *Amber's Letter*! Talk to Saki in the cafeteria to the right. Then, find Aelita upstairs, east of the Bobsled Club.
 
@@ -807,9 +807,9 @@ Get the *Fire Stone* in the next room.
 
 Go left instead of up in the next room. Down from here, you'll be able to grab a *Nightmare Fuel*.
 
-**ZCell 141: Hidden Axis Lab**
+**ZCell 140: Hidden Axis Lab**
 
-!img("zcell141.png")
+!img("zcell140.png")
 
 Head up - it's time to fight illusions. You get relationship points depending on if you're right, and your party Pokemon will take damage if you are wrong.
 
