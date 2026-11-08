@@ -419,7 +419,7 @@ Start at Gearen Lab. Talk to the black-haired girl next to Nurse Joy. Go to the 
 
 Defeat the trainer here, and witness a beautiful scene. Talk to the girl in the lab again.
 
-Claim your reward at the help center: $890, and *2 Potions*! (+1 Karma)
+Claim your reward at the help center: $890, a *Blue Shard*, and *2 Potions*! (+1 Karma)
 
 ### Missing Mother!
 
@@ -429,11 +429,11 @@ Go to Emerald Building Lobby and talk to the red-haired person. Return to Sasha 
 
 !battle(["Stella",:BEAUTY,0])
 
-Claim your reward at the help center: $550. (+1 Karma)
+Reenter the warehouse. Just below a blue box against the wall on the left, there's a hidden *Super Potion*. In the spa room, you can find a hidden *Rose Incense* on the left side of the table, and a hidden *Rare Candy* in the northwest plant.
+
+Claim your reward at the help center: $550 and a *Red Shard*. (+1 Karma)
 
 We can also go back to the Petal Salon for one free haircut, which boosts friendship. Helpful for friendship evolving Pokemon like Chingling. It will cost $1500 after the first and it can be done only once a day.
-
-Back in the warehouse in Oceana Pier, a blue box immediately on entering contains a hidden *Super Potion*. In the spa room, you can find a hidden *Rose Incense* on the left side of the table, and a hidden *Rare Candy* in the northwest plant.
 
 ### The Hidden Library
 
@@ -441,7 +441,7 @@ Start at Gearen Lab. Go to the second floor via the stairs on the left, then tal
 
 There are three people we need to find. Talk to the mother in the north side of East Gearen (Left). Next, talk to the receptionist at the Chrisola Hotel, then talk to Karrina in south-east Gearen. Return to the backpacker and answer his questions.
 
-Claim your reward at the help center: 5 *Great Balls* and *3 Timer Balls*. (+1 Karma)
+Claim your reward at the help center: 5 *Great Balls*, *3 Timer Balls*, and a *Green Shard* (+1 Karma)!
 
 ### Love Letter
 
@@ -457,7 +457,7 @@ You'll be quizzed by Louis. You can complete the quest either way, but there are
 
 Return to Eric in the Oceana Pier Gate. If you answered correctly, you'll get **Luvdisc** and a *Heart Scale*.
 
-Claim your reward at the help center: $350 and *Nugget*! (+1 Karma)
+Claim your reward at the help center: $350, *Yellow Shard*, and *Nugget*! (+1 Karma)
 
 ### Dangerous Pokemon
 
@@ -471,7 +471,7 @@ If you win, accept **Litleo** in your team!
 
 [New Game+ Content](#chapter-1-ng-part-3)
 
-Claim your reward at the help center: $350 and *Super Potion*! (+1 Karma)
+Claim your reward at the help center: $350, *Yellow Shard*, and *Super Potion*! (+1 Karma)
 
 ### Battle Me!
 
@@ -482,7 +482,7 @@ Start at Chrisola Hotel. Make sure you have a good team near or at the level cap
 This is a tough battle to be sure, and this won't be the last time you'll face her. If you can't really win with your team right now don't worry, you can come back later to finish this one.
 
 Anyways, all that's left is to claim your reward at the help center --
-$350 and **Pichu**! (+1 Karma)
+$350, 2 *Yellow Shards* and **Pichu**! (+1 Karma)
 
 ### Wretched Music
 
@@ -499,7 +499,7 @@ This battle isn't super hard with a good flying type or two, or probably most we
 
 Talk to the receptionist to go back upstairs. Talk to the bell boy in the left hallway, and the girl in the top-left room in the right hallway. Talk to the receptionist to return to the basement once more.
 
-Return to the help center to get your reward: $1100, a *Gourmet Treat*, and *TM119 Magical Leaf*! (+1 Karma)
+Return to the help center to get your reward: $1100, a *Red Shard*, a *Gourmet Treat*, and *TM119 Magical Leaf*! (+1 Karma)
 
 ## PoisonHeart Badge
 
