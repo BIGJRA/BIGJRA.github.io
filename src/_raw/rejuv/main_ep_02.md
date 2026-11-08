@@ -14,7 +14,7 @@ Either partner will do well here, his Frogadier hits hard with Water Pulse and M
 
 After the battle, you'll be gifted *TM94 Rock Smash*! Now that we have this TM, we can use Rock Smash in the field. Use it to go down and right, and you'll see a **Blitzle**. Give it a Gourmet Treat and it'll battle you! On the way out, head into Jenkel's lab one more time and pick up *6 Cell Batteries*! Make sure you save three of them for a quest in chapter 8.
 
-### Team Xen Gearen Takeover
+### Geographically Questionable Gearen Alleyway Section
 
 To the right of Junction Bridge, you'll notice the sewer stairs east of the Violet Building will now be open. Head down.
 
@@ -35,6 +35,8 @@ The third tile from the right on the top row of grass hides a *Green Shard*, whi
 !img("zcell007.png")
 
 Go up and give one of the **Munna** a Gourmet Treat to catch it!
+
+### Team Xen Gearen Takeover
 
 You'll note that Team Xen Grunts are swarming East Gearen. In the northwest:
 
@@ -60,7 +62,7 @@ Enter the room in the right hallway on the right, with Minccino in it. Talk to t
 
 Head out to the lobby and find it near the elevator. Then enter the left hallway and you'll see it right away on the bottom side. Follow it left and around, and you'll see Team Xen Grunts take it away!
 
-Go to Gearen Park and fight the Grunts on the east side of the park.
+Go to Gearen Park and fight the Grunts on the west side of the park.
 
 !dbattle(["Wilbur",:XENGRUNT_M,0], ["Hayleigh",:XENGRUNT_F,0], "Grassy Terrain")
 
@@ -89,7 +91,7 @@ Remember to to get Dedenne to continue the *PictoZumi* quest. We'll also need to
 
 The end of a narrow path to the left of this trainer hides a *Repel*. The bush to the right hides a *Green Shard*. Up the stairs, a bush hides a *Red Shard*. To the left is an RV - one tile left and two down from the nearby cut tree is a hidden *Friend Ball*.
 
-If you talk to the painter here, he'll start us on the *Artist Quest*. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
+If you talk to the painter here, he'll start us on the *Painter of Oddities* quest. He wishes to see Cherrim. At some point, level a Cherubi to Level 25 so that it evolves into **Cherrim**. Show it to this guy to get a *Miracle Seed*. He'll want to see Camerupt next, so we'll have to come back later.
 
 Enter the cave here.
 

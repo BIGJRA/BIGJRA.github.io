@@ -10,7 +10,7 @@ There's also a few new berries now.
 
 !cshop(:BerryEmporium, "Berry Emporium (3 Badges)", 3)
 
-Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the Artist's Quest.
+Evolve a Numel into **Camerupt** and bring it to Route 2 to show it to the man by the RV to get *Charcoal* for the second step in the *Painter of Oddities* quest.
 
 Take the truck to Sheridan Village.
 
