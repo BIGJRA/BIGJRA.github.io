@@ -621,25 +621,21 @@ You can also view *Secret Scene: Bunny Banishment* here if you rescued the daugh
 
 Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candies S* each time you repeat it.
 
-Just above, you'll find:
+You can talk to and battle the overworld **Yanma** and Sentret in this area. On the left side of the map, you'll find *Black Apricorn* on the left. Talk to it three times to get three. 
 
-// TODO: Maybe fix all zygarde cells depending on if 123 one is available earlier during ch1...?
+**ZCell 005: Goldenwood Forest**
 
-Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
+!img("zcell005.png")
 
-You can talk to and battle the overworld **Yanma** and Sentret in this area. Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock.
-
-On the left side of the map, you'll find *Black Apricorn* on the left. Talk to it three times to get three. Return to the fisherman, defeat *The Big Catch!* itself... a Machine Lairon? You'll then obtain *5 Exp. Candies S* and *5 Great Balls* (+1 Karma).
+Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock. Return to the fisherman, defeat *The Big Catch!* itself... a Machine Lairon? You'll then obtain *5 Exp. Candies S* and *5 Great Balls* (+1 Karma).
 
 **Relationship Point Choices**:
 - You ok? (Melia +2)
 - That was close... (Neutral)
 
-Next, exit the Forest back to Route 1. Talk to the lady to finish "My Darling Furfrou..." and obtain *5 Potions* and *Great Ball* (+1 Karma).
+Next, exit the Forest back to Route 1. Talk to the lady to finish "My Darling Furfrou..." and obtain *5 Potions* and *Great Ball* (+1 Karma). Quickly return to East Gearen, and enter the Help Center. Now that we've obtained 5 Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
 
-With that out of the way, enter the cave at the top of the area.
-
-There are some trainers south to battle. When you're ready, head north into Goldenwood Cave.
+With that out of the way, return to Goldenwood and enter the cave at the top of the area.
 
 !enc(8, ["Grass", "Cave", "Fishing"], ["Old"])
 
