@@ -44,9 +44,9 @@ Go up through the center and head left to grab the *Calcium*. Head up and left t
 
 Before climbing the ladder, step on the tile, then head in to and get Griselda's Treasure 1: a *Dusk Stone*! Head back to the ladder and go up.
 
-**ZCell 028: Wispy Ruins**
+**ZCell 029: Wispy Ruins**
 
-!img("zcell028.png")
+!img("zcell029.png")
 
 Head to the right. There isn't anything to do in the rightmost room for now. Go down to return to the entrance of Wispy Ruins - I recommend healing. Once you're done, return to the room with four exits, then go up and follow the path.
 
@@ -70,9 +70,9 @@ Welcome to Route 4, a sprawling nature preserve. All over there are items scatte
 
 Climb the stairs to the hill here.
 
-**ZCell 029: Route 4 (South)**
+**ZCell 030: Route 4 (South)**
 
-!img("zcell029.png")
+!img("zcell030.png")
 
 Pick up *TM100 Confide* at the top. To the left, climb the stairs to reach a new part of Route 4. There is a hidden *Leaf Stone* here and a *Mirror Sprig*.
 
@@ -82,9 +82,9 @@ There are also Kricketot and Misdreavus here at different times of day.
 
 Talk to Aelita and Nim at the bridge to the south. 
 
-**ZCell 030: Route 4 (South)**
+**ZCell 031: Route 4 (South)**
 
-!img("zcell030.png")
+!img("zcell031.png")
 
 Cross the bridge to the north to Route 4 (Central), and Nim will join your party.
 
@@ -198,27 +198,27 @@ Itemfinder at the entrance to the town will get you a *Super Repel*. There's **S
 
 There is merit to catching a second Spinda for a trade a bit later on. There's an egg in the bottom right corner of town. Once it hatches, you'll get **Ducklett**!
 
-**ZCell 031: Akuwa Town**
-
-!img("zcell031.png")
-
-Enter the Akuwa Apartments north of the Pokemon Center.
-
 **ZCell 032: Akuwa Town**
 
 !img("zcell032.png")
 
-Just outside:
+Enter the Akuwa Apartments north of the Pokemon Center.
 
 **ZCell 033: Akuwa Town**
 
 !img("zcell033.png")
 
-Near the gym is a hidden *Health Feather*. Make your way back to the beach, where you can battle and catch **Clauncher**! Hidden is a *Soda Pop* and *Poke Ball*.
+Just outside:
 
 **ZCell 034: Akuwa Town**
 
 !img("zcell034.png")
+
+Near the gym is a hidden *Health Feather*. Make your way back to the beach, where you can battle and catch **Clauncher**! Hidden is a *Soda Pop* and *Poke Ball*.
+
+**ZCell 035: Akuwa Town**
+
+!img("zcell035.png")
 
 At this point we will not be able to come back for a bit, so make sure you're ready with all the Pokemon you want to catch on this island for now, and every quest you wanted to finish.
 
@@ -485,9 +485,9 @@ Go up in the top right.
 
 Go right, and grab the *4 Yache Berries*. Talk to the Noctowl Statue to activate it. Down from here, you can find a hidden *Hyper Potion* and:
 
-**ZCell 035: Kakori Village**
+**ZCell 036: Kakori Village**
 
-!img("zcell035.png")
+!img("zcell036.png")
 
 Go left to get a hidden *X Attack*, and *Telluric Seed*. Heading up you can find a hidden *Green Shard*, *Swift Feather*, and *Super Repel*.
 
@@ -624,9 +624,9 @@ In the bottom left of this map, exit at the bottom to the Terajuma Beach. Now th
 
 A woman will tell us to show her a Chansey; we shall later. Grab the *Mirror Sprig*.
 
-**ZCell 036: Terajuma Beach**
+**ZCell 037: Terajuma Beach**
 
-!img("zcell036.png")
+!img("zcell037.png")
 
 ## Dewdrop Badge
 

@@ -22,21 +22,19 @@ To the right of Junction Bridge, you'll notice the sewer stairs east of the Viol
 
 Here you'll find a **Rare Candy**. Also:
 
-**ZCell 005: Abandoned Sewers**
+**ZCell 006: Abandoned Sewers**
 
-!img("zcell005.png")
+!img("zcell006.png")
 
 Exit through the top. Inside the wall of the building immediately to your right is a hidden *Reverse Candy*. Head up to watch the scene.
 
 The third tile from the right on the top row of grass hides a *Green Shard*, while a hidden *Super Potion* is just to the left of the top dumpster. Two tiles left of the top-left grass is a hidden *Red Shard*,  while a hidden *Super Repel* is three tiles left of the bottom-left grass. Down the stairs and below the dumpsters is a hidden *Telluric Seed*.
 
-**ZCell 006: Gearen Alleyway**
+**ZCell 007: Gearen Alleyway**
 
-!img("zcell006.png")
+!img("zcell007.png")
 
 Go up and give one of the **Munna** a Gourmet Treat to catch it!
-
-Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
 
 You'll note that Team Xen Grunts are swarming East Gearen. In the northwest:
 
@@ -97,15 +95,15 @@ Enter the cave here.
 
 !enc(133)
 
-**ZCell 007: Gemstream Cave**
+**ZCell 008: Gemstream Cave**
 
-!img("zcell007.png")
+!img("zcell008.png")
 
 Exit the cave to the right. Go up at the fork in the bridge. On the first "tier" of grass and flowers, the rightmost tile hides a *Relaxed Mint*. The second tier's rightmost tile hides a *Rose Incense*.
 
-**ZCell 008: Route 2**
+**ZCell 009: Route 2**
 
-!img("zcell008.png")
+!img("zcell009.png")
 
 !battle(["Henrietta and Jeff", :NEWREP, 0])
 
@@ -125,15 +123,15 @@ Two tiles down and two tiles right from the next set of stairs is a hidden *Leve
 
 Five tiles down from the door is a hidden *Lemonade*.
 
-**ZCell 009: Route 2**
-
-!img("zcell009.png")
-
-Go left. There is a blank tile with tall grass on four sides but on no diagonals that hides an *Exp. Candy S*. 
-
 **ZCell 010: Route 2**
 
 !img("zcell010.png")
+
+Go left. There is a blank tile with tall grass on four sides but on no diagonals that hides an *Exp. Candy S*. 
+
+**ZCell 011: Route 2**
+
+!img("zcell011.png")
 
 Go up.
 
@@ -288,9 +286,9 @@ Enter the shop on a weekday morning and you'll see Beth and her Miltank. Talk to
 
 You can sneak around the back of the shop, if you do, talk to the shop owner from behind to get a *Super Potion*! A tile left and up from the backdoor on the outside is a hidden *Tiny Mushroom*. Up from here:
 
-**ZCell 011: Sheridan Village**
+**ZCell 012: Sheridan Village**
 
-!img("zcell011.png")
+!img("zcell012.png")
 
 You'll notice a guy here: this is Truck Guy. He will take us for free between Sheridan and Gearen, so take advantage of this instead of paying the train fee whenever possible. If you fast travel with him 20 times, you'll get **Varoom**!
 
@@ -356,9 +354,9 @@ Head to the left, then go down and enter the door. Grab *TM19 Secret Power* here
 
 In the previous room, go up and climb the bookshelf to get *TM63 Embargo*. In the top left:
 
-**ZCell 012: Hidden Library**
+**ZCell 013: Hidden Library**
 
-!img("zcell012.png")
+!img("zcell013.png")
 
 Go all the way around to the left. One tile above a page near the door at the top, you can get a hidden *Ether*. Enter the room here.
 

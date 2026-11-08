@@ -22,9 +22,9 @@ In the interest of providing more options for the upcoming gym fights, we take a
 
 Take the train back to Route 2. Above the artist's house, you can use Cut to find a *Mirror Sprig* plus: 
 
-**ZCell 013: Route 2**
+**ZCell 014: Route 2**
 
-!img("zcell013.png")
+!img("zcell014.png")
 
 Cut the tree to the right, then go up the path. Three tiles below the left tile of the tree at the top of this landing is a hidden *Blue Shard*.
 
@@ -34,9 +34,9 @@ Enter Amethyst Cave, and make your way to the top left of the entrance room. Exi
 
 Next, go to Sheridan Village and cut the tree next to the shop below to pick up *TM54 False Swipe*, and:
 
-**ZCell 014: Sheridan Village**
+**ZCell 015: Sheridan Village**
 
-!img("zcell014.png")
+!img("zcell015.png")
 
 This can be extremely helpful for catching Pokemon going forward. Return to Gearen, enter the sewers, cutting trees along the way to reach the back room.
 

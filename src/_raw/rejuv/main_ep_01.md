@@ -621,7 +621,11 @@ You can also view *Secret Scene: Bunny Banishment* here if you rescued the daugh
 
 Beat this to get *2 Level Balls*, *2 Love Balls*, and *2 Quick Balls*. This is repeatable, and you will get *5 Exp. Candies S* each time you repeat it.
 
+Just above, you'll find:
+
 // TODO: Maybe fix all zygarde cells depending on if 123 one is available earlier during ch1...?
+
+Return to the main part of the city, and enter the Help Center. Now that we've obtained 5+ Zygarde Cells, talk to Ayuda to get *TM49 Echoed Voice*. Our next checkpoint is getting 10.
 
 You can talk to and battle the overworld **Yanma** and Sentret in this area. Up some stairs in the top left side of the area, you can get a hidden *Potion* in a rock.
 

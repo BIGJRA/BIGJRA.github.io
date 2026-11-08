@@ -120,9 +120,9 @@ Before we leave, we can explore the city a little bit. Down from Alexandra's hou
 
 Stay on top of the roof and go down and around to the right. Talk to the man here to get access to the Sand Stream Cave. You'll also find:
 
-**ZCell 116: Sashila Village**
+**ZCell 117: Sashila Village**
 
-!img("zcell116.png")
+!img("zcell117.png")
 
 In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *Gourmet Treat*. To the left is a hidden *Lemonade*.
 
@@ -140,9 +140,9 @@ Make sure you catch Aevian Budew for Zumi's quest. Interact with **Mandibuzz** f
 
 Go to the east to find:
 
-**ZCell 117: Zorrialyn Coast**
+**ZCell 118: Zorrialyn Coast**
 
-!img("zcell117.png")
+!img("zcell118.png")
 
 Activate the Braviary Post here. To the right is the final Luck's Tent! Continue further to the right.
 
@@ -160,9 +160,9 @@ Nothing awaits us at the end of the path to the south yet, and we will tackle th
 
 You can find a hidden *Occa Berry*, *Sitrus Berry*, *Reverse Candy*, *Yellow Shard*, *Ground Gem*, and *Petaya Berry*, as well as a *Sun Stone* near the entrance to this map. You can use Rock Climb to the left to reach a hidden *Thick Club*, *Calcium*, and *Green Shard*, plus:
 
-**ZCell 118: Zorrialyn Desert**
+**ZCell 119: Zorrialyn Desert**
 
-!img("zcell118.png")
+!img("zcell119.png")
 
 We'll tackle Sand Stream Cave a bit later on. Use Rock Climb on the right side of the map to reach *TM37 Sandstorm* as well as a hidden *Haban Berry* and *HP Up*. You can find a hidden *Hard Stone*, *Rare Bone*, and *Red Shard* across the bridge on the right, plus an *Exp. Candy XL*. Continuing to the left is a hidden *Yellow Shard* and *Thick Club*. Cross over to Zorrialyn Desert (East) at the northeast side.
 
@@ -178,9 +178,9 @@ At the next fork, go left. Hidden behind a Blast Powder rock is a *Synthetic See
 
 Go up the stairs in the top right corner of the map. Pick up the hidden *Red Shard*, *Ether*, *2 Max Repels*, and *Yellow Shard*. Activate the Braviary Post here, then enter the Voidal Chasm by walking onto the star at the top.
 
-**ZCell 119: Zorrialyn Desert**
+**ZCell 120: Zorrialyn Desert**
 
-!img("zcell119.png")
+!img("zcell120.png")
 
 ### Voidal Chasm (Don't Expose Flora Route)
 
@@ -222,9 +222,9 @@ Take the warp to the next area. Grab the two hidden *Ethers*, then attempt to ta
 
 Forgive the numbering: the route splitting makes tracking Zygarde Cells in this part of the game... difficult.
 
-**ZCell 120B: Voidal Chasm**
+**ZCell 121B: Voidal Chasm**
 
-!img("zcell120b.png")
+!img("zcell121b.png")
 
 Backtrack and take the previous warp at the top. Follow the path down.
 
@@ -264,9 +264,9 @@ Cross under an archway above to reach a hidden *Reverse Candy* and *Revival Herb
 
 You can find a hidden *Hard Stone*, *Rare Bone*, *Red Shard* below, plus an *Exp. Candy XL*. Continuing to the left is a hidden *Yellow Shard* and *Thick Club*. Head back up and cross to the left. You can find a hidden *Reverse Candy*, *Yellow Shard*, *Sitrus Berry*, *Occa Berry*, *Ground Gem*, and *Petaya Berry*, as well as a *Sun Stone*. Double back to the top right side of the map and use Rock Climb to reach *TM37 Sandstorm* as well as a hidden *Haban Berry* and *HP Up*. You can also use Rock Climb a bit to the left to reach a hidden *Thick Club*, *Calcium*, and *Green Shard*, plus:
 
-**ZCell 118: Zorrialyn Desert**
+**ZCell 119: Zorrialyn Desert**
 
-!img("zcell118.png")
+!img("zcell119.png")
 
 Head to the Zorrialyn Coast in the southwest.
 
@@ -274,9 +274,9 @@ Head to the Zorrialyn Coast in the southwest.
 
 Go to the east to find:
 
-**ZCell 117: Zorrialyn Coast**
+**ZCell 118: Zorrialyn Coast**
 
-!img("zcell117.png")
+!img("zcell118.png")
 
 Activate the Braviary Post here. To the right is the final Luck's Tent! Continue further to the right. 
 
@@ -302,9 +302,9 @@ Grab a hidden *Grass Gem* above. Attempt to head north to talk to Alexandra. The
 
 Stay on top of the roof and go down and around to the right. Talk to the man here to get access to the Sand Stream Cave. You'll also find:
 
-**ZCell 116: Sashila Village**
+**ZCell 117: Sashila Village**
 
-!img("zcell116.png")
+!img("zcell117.png")
 
 In the battleground area, you can find a hidden *Max Repel*, *Moon Stone*, and *Link Heart*. Go up through the school area to emerge outside again, and grab the hidden *Gourmet Treat*. To the left is a hidden *Lemonade*.
 
@@ -665,9 +665,9 @@ It's time for some Quests.
 
 Only if you didn't expose Flora and caught a Falinks in Alamissa Urben, return to the Voidal Chasm. Show Falinks to the sign towards the end of the path to get a *Razor Claw* plus:
 
-**ZCell 120A: Voidal Chasm**
+**ZCell 121A: Voidal Chasm**
 
-!img("zcell120a.png")
+!img("zcell121a.png")
 
 Return to the room where we fought the surfboard guy to find *TM148 Phantom Force* as well as a hidden *Rare Candy* and *Old Scarf*.
 
@@ -695,15 +695,15 @@ Head east from the Zorrialyn Coast to re-enter Fort Rystrine.
 
 Grab the hidden *Red Shard*. Upstairs, Vileplume will try to put you to sleep and fail! Enter this first house and use Blast Powder within to reach a *Relic Copper* and:
 
-**ZCell 121: Fort Rystrine**
-
-!img("zcell121.png")
-
-Back outside, grab a hidden *Ground Gem*, *Sun Stone*, and *Super Repel*. Inside the building in the upper left is a *Rare Candy*. Smash the rock and push the boulder to enter a room on the left where you can find a *Relic Copper* as well as:
-
 **ZCell 122: Fort Rystrine**
 
 !img("zcell122.png")
+
+Back outside, grab a hidden *Ground Gem*, *Sun Stone*, and *Super Repel*. Inside the building in the upper left is a *Rare Candy*. Smash the rock and push the boulder to enter a room on the left where you can find a *Relic Copper* as well as:
+
+**ZCell 123: Fort Rystrine**
+
+!img("zcell123.png")
 
 On the roof, you can catch **Wimpod (Aevian)**!
 
@@ -950,10 +950,6 @@ This completes the restoration of Goldenwood Park!
 !enc(217, nil, nil)
 
 Pick up the *Rare Candy*, and pluck *2 Lum Berries*, *2 Salac Berries*, *2 Lansat Berries*, an *Enigma Berry*, and *2 Starf Berries*. There is also a hidden *Yellow Shard*, *Green Shard*, 2 *Blue Shards*, 3 *Big Mushrooms*, 3 *Star Pieces*, 2 *Telluric Seeds*, 3 *Magical Seeds*, 3 *Elemental Seeds*, *Rare Candy* all around the map.
-
-**ZCell 123: Goldenwood Park**
-// TODO: Maybe fix all zygarde cells depending on if this one is available earlier during ch1
-!img("zcell123.png")
 
 Talk to the fisherman inside the guild. Instantly the *Magic Karps* quest will be completed (even if you don't have the Super Rod - it seems bugged). Enter the room to the right.
 
